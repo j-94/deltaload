@@ -1,0 +1,26 @@
+# Environment files
+.env
+
+# Log files
+*.log
+debug.log
+delta_etl_debug.log
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Data directories
+data/staging/
+data/processed/
+
+# Sensitive data
+*.jsonl
+*.json
+
+# macOS system files
+.DS_Store
+
+# Virtual environment
+venv/
+.venv/
