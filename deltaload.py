@@ -16,7 +16,7 @@ logging.basicConfig(
     level=logging.DEBUG,  # Set to DEBUG to capture all levels of log messages
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('debug.log'),
+        logging.FileHandler('debug.log', mode='w'),  # Overwrite log file each run
         logging.StreamHandler()
     ]
 )
@@ -29,29 +29,52 @@ class DeltaLoadETL:
         self.last_run_file = self.staging_dir / "last_run.json"
         self.staging_dir.mkdir(parents=True, exist_ok=True)
         self.processed_dir.mkdir(parents=True, exist_ok=True)
-        self.load_env_variables()
-        self.init_api_clients()
+        
+        try:
+            self.load_env_variables()
+            self.init_api_clients()
+        except Exception as e:
+            logger.error(f"Initialization failed: {e}")
+            logger.error(traceback.format_exc())
+            raise
 
     def load_env_variables(self):
         from dotenv import load_dotenv
         load_dotenv()
+        
+        # Validate environment variables
+        required_vars = [
+            'TWITTER_CT0', 
+            'TWITTER_AUTH_TOKEN', 
+            'TWITTER_USER_ID', 
+            'GITHUB_TOKEN', 
+            'GITHUB_USERNAME', 
+            'RAINDROP_ACCESS_TOKEN'
+        ]
+        
+        for var in required_vars:
+            if not os.getenv(var):
+                raise ValueError(f"Missing required environment variable: {var}")
+        
         # Twitter auth using cookies
         self.twitter_ct0 = os.getenv('TWITTER_CT0')
         self.twitter_auth_token = os.getenv('TWITTER_AUTH_TOKEN')
         self.twitter_user_id = os.getenv('TWITTER_USER_ID')
         self.github_token = os.getenv('GITHUB_TOKEN')
         self.github_username = os.getenv('GITHUB_USERNAME')
-        self.raindrop_token = os.getenv('RAINDROP_TOKEN')
-        logger.debug("Environment variables loaded.")
+        self.raindrop_token = os.getenv('RAINDROP_ACCESS_TOKEN')
+        
+        logger.info("Environment variables loaded successfully.")
 
     def init_api_clients(self):
         # Initialize Twitter scraper using cookies
         try:
+            logger.info("Initializing Twitter scraper...")
             self.twitter_api = Scraper(cookies={
                 "ct0": self.twitter_ct0,
                 "auth_token": self.twitter_auth_token
             })
-            logger.debug("Twitter scraper initialized.")
+            logger.info("Twitter scraper initialized successfully.")
         except Exception as e:
             logger.error(f"Failed to initialize Twitter scraper: {e}")
             logger.error(f"Full exception details: {traceback.format_exc()}")
@@ -59,29 +82,124 @@ class DeltaLoadETL:
 
         # Initialize GitHub API client
         try:
+            logger.info("Initializing GitHub API client...")
             self.github_api = Github(self.github_token)
-            logger.debug("GitHub API client initialized.")
+            # Test connection by getting user
+            user = self.github_api.get_user()
+            logger.info(f"GitHub API client initialized. Logged in as: {user.login}")
         except Exception as e:
             logger.error(f"Failed to initialize GitHub API client: {e}")
+            logger.error(f"Full exception details: {traceback.format_exc()}")
             self.github_api = None
 
         # Initialize Raindrop.io headers
-        self.raindrop_headers = {'Authorization': f'Bearer {self.raindrop_token}'}
-        logger.debug("Raindrop.io API headers initialized.")
+        try:
+            logger.info("Initializing Raindrop.io API...")
+            self.raindrop_headers = {'Authorization': f'Bearer {self.raindrop_token}'}
+            # Test connection
+            response = requests.get('https://api.raindrop.io/rest/v1/collections', headers=self.raindrop_headers)
+            response.raise_for_status()
+            logger.info("Raindrop.io API headers initialized successfully.")
+        except Exception as e:
+            logger.error(f"Failed to initialize Raindrop.io API: {e}")
+            logger.error(f"Full exception details: {traceback.format_exc()}")
+            self.raindrop_headers = None
 
     def get_last_run_data(self):
-        if self.last_run_file.exists():
-            with open(self.last_run_file, 'r') as f:
-                data = json.load(f)
-                logger.debug(f"Last run data loaded: {data}")
-                return data
-        logger.debug("No last run data found.")
-        return {}
+        """Retrieve last run data, creating a new file if it doesn't exist."""
+        try:
+            if self.last_run_file.exists():
+                with open(self.last_run_file, 'r') as f:
+                    return json.load(f)
+            else:
+                # Create initial last run data
+                initial_data = {
+                    'last_processed_time': '2000-01-01T00:00:00+00:00'  # Far in the past
+                }
+                return initial_data
+        except Exception as e:
+            logger.error(f"Error reading last run file: {e}")
+            # Return a default dict if reading fails
+            return {'last_processed_time': '2000-01-01T00:00:00+00:00'}
 
     def save_last_run_data(self, data):
-        with open(self.last_run_file, 'w') as f:
-            json.dump(data, f)
-        logger.debug(f"Last run data saved: {data}")
+        """Save last run data to file."""
+        try:
+            with open(self.last_run_file, 'w') as f:
+                json.dump(data, f, indent=2)
+            logger.info(f"Updated last run data: {data}")
+        except Exception as e:
+            logger.error(f"Error saving last run data: {e}")
+
+    def fetch_twitter_data(self):
+        """Fetch most recent tweets and likes from Twitter with minimal batch retrieval."""
+        if not self.twitter_api:
+            logger.error("Twitter API client not initialized.")
+            return None
+
+        # Load last run data to get the last processed timestamp
+        try:
+            last_run_data = self.get_last_run_data()
+            last_processed_time = last_run_data.get('last_processed_time')
+        except Exception as e:
+            logger.warning(f"Could not retrieve last run data: {e}")
+            last_processed_time = None
+
+        try:
+            # Fetch tweets with minimal retrieval
+            logger.info("Fetching Twitter tweets and replies...")
+            tweets = []
+            tweet_iterator = self.twitter_api.tweets_and_replies(count=1)  # Retrieve just 1 tweet
+            
+            for tweet in tweet_iterator:
+                # Check last processed time
+                tweet_time = datetime.fromisoformat(tweet['created_at'])
+                if last_processed_time:
+                    last_processed_datetime = datetime.fromisoformat(last_processed_time)
+                    if tweet_time <= last_processed_datetime:
+                        break
+                
+                tweets.append(tweet)
+                break  # Ensure only 1 tweet is retrieved
+            
+            logger.info(f"Fetched {len(tweets)} new tweets.")
+
+            # Fetch likes with minimal retrieval
+            logger.info("Fetching Twitter likes...")
+            likes = []
+            likes_iterator = self.twitter_api.likes(count=1)  # Retrieve just 1 like
+            
+            for like in likes_iterator:
+                # Check last processed time
+                like_time = datetime.fromisoformat(like['created_at'])
+                if last_processed_time:
+                    last_processed_datetime = datetime.fromisoformat(last_processed_time)
+                    if like_time <= last_processed_datetime:
+                        break
+                
+                likes.append(like)
+                break  # Ensure only 1 like is retrieved
+            
+            logger.info(f"Fetched {len(likes)} new likes.")
+
+            # Update last processed time to the most recent tweet/like time
+            if tweets or likes:
+                all_items = tweets + likes
+                most_recent_time = max(
+                    datetime.fromisoformat(item['created_at']) 
+                    for item in all_items
+                )
+                last_run_data['last_processed_time'] = most_recent_time.isoformat()
+                self.save_last_run_data(last_run_data)
+
+            return {
+                'tweets_and_replies': tweets,
+                'likes': likes
+            }
+        except Exception as e:
+            logger.error(f"Error fetching Twitter data: {e}")
+            logger.error(f"Full exception details: {traceback.format_exc()}")
+            return None
 
     def save_to_staging(self, source, data_type, data):
         if not data:
@@ -92,93 +210,6 @@ class DeltaLoadETL:
         with open(filename, 'w') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         logger.debug(f"Saved {len(data)} items to {filename}")
-
-    def fetch_twitter_data(self):
-        logger.info("Fetching Twitter data...")
-        last_run = self.get_last_run_data()
-        last_tweet_id = last_run.get('twitter_last_tweet_id')
-        last_like_id = last_run.get('twitter_last_like_id')
-        new_tweets = []
-        new_likes = []
-
-        # Fetch tweets using batch endpoint
-        try:
-            # Get user's tweets (we'll use tweets_and_replies for comprehensive data)
-            logger.debug(f"Attempting to fetch tweets for user ID: {self.twitter_user_id}")
-            tweets = self.twitter_api.tweets_and_replies([self.twitter_user_id])
-            logger.info(f"Fetched {len(tweets)} tweets.")
-            
-            # Filter tweets newer than last_tweet_id
-            if last_tweet_id:
-                tweets = [t for t in tweets if int(t['id']) > int(last_tweet_id)]
-            
-            for tweet in tweets:
-                try:
-                    tweet_data = {
-                        'id': str(tweet['id']),
-                        'created_at': tweet['created_at'],
-                        'text': tweet['text'],
-                        'source': 'twitter',
-                        'type': 'tweet',
-                        'url': f"https://twitter.com/i/web/status/{tweet['id']}",
-                        'metadata': {
-                            'retweet_count': tweet.get('retweet_count', 0),
-                            'favorite_count': tweet.get('favorite_count', 0),
-                            'reply_count': tweet.get('reply_count', 0),
-                            'quote_count': tweet.get('quote_count', 0)
-                        }
-                    }
-                    new_tweets.append(tweet_data)
-                except Exception as tweet_error:
-                    logger.error(f"Error processing individual tweet: {tweet_error}")
-                    logger.error(f"Problematic tweet data: {tweet}")
-            
-            if tweets:
-                last_run['twitter_last_tweet_id'] = str(max(int(t['id']) for t in tweets))
-                logger.debug(f"Updated last tweet ID to {last_run['twitter_last_tweet_id']}")
-        except Exception as e:
-            logger.error(f"Error fetching tweets: {e}")
-            logger.error(f"Full exception details: {traceback.format_exc()}")
-
-        # Fetch likes
-        try:
-            logger.debug(f"Attempting to fetch likes for user ID: {self.twitter_user_id}")
-            likes = self.twitter_api.likes([self.twitter_user_id])
-            logger.info(f"Fetched {len(likes)} likes.")
-            
-            # Filter likes newer than last_like_id
-            if last_like_id:
-                likes = [l for l in likes if int(l['id']) > int(last_like_id)]
-            
-            for like in likes:
-                try:
-                    like_data = {
-                        'id': str(like['id']),
-                        'created_at': like['created_at'],
-                        'text': like['text'],
-                        'source': 'twitter',
-                        'type': 'like',
-                        'url': f"https://twitter.com/i/web/status/{like['id']}",
-                        'metadata': {
-                            'author': like['user']['screen_name'],
-                            'user_id': like['user']['id_str']
-                        }
-                    }
-                    new_likes.append(like_data)
-                except Exception as like_error:
-                    logger.error(f"Error processing individual like: {like_error}")
-                    logger.error(f"Problematic like data: {like}")
-            
-            if likes:
-                last_run['twitter_last_like_id'] = str(max(int(l['id']) for l in likes))
-                logger.debug(f"Updated last like ID to {last_run['twitter_last_like_id']}")
-        except Exception as e:
-            logger.error(f"Error fetching likes: {e}")
-            logger.error(f"Full exception details: {traceback.format_exc()}")
-
-        self.save_to_staging('twitter', 'tweets', new_tweets)
-        self.save_to_staging('twitter', 'likes', new_likes)
-        self.save_last_run_data(last_run)
 
     def fetch_github_data(self):
         logger.info("Fetching GitHub data...")
@@ -352,15 +383,23 @@ class DeltaLoadETL:
                 continue
 
     def run(self):
-        logger.info("Starting ETL process...")
-        self.fetch_twitter_data()
+        """Main ETL pipeline execution method."""
+        logger.info("Starting Deltaload ETL pipeline...")
+        
+        # Fetch data from various sources
+        twitter_data = self.fetch_twitter_data()
         self.fetch_github_data()
         self.fetch_raindrop_data()
         self.transform_data()
         jsonl_file_path = 'data-bookmark.jsonl'  # Adjust the path as needed
         self.check_recent_entries(jsonl_file_path)
-        logger.info("ETL process completed.")
+        
+        logger.info("Deltaload ETL pipeline completed.")
 
 if __name__ == "__main__":
-    etl = DeltaLoadETL()
-    etl.run()
+    try:
+        etl = DeltaLoadETL()
+        etl.run()
+    except Exception as e:
+        logger.error(f"Critical error in ETL pipeline: {e}")
+        logger.error(f"Full exception details: {traceback.format_exc()}")

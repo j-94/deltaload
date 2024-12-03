@@ -1,10 +1,12 @@
 # Environment files
-.env
+# .env  # Commented out to allow .env file
+*.env
 
 # Log files
-*.log
-debug.log
-delta_etl_debug.log
+# Commented out to allow debugging
+# *.log
+# debug.log
+# delta_etl_debug.log
 
 # Python cache files
 __pycache__/
@@ -15,6 +17,9 @@ data/staging/
 data/processed/
 
 # Sensitive data
+# Remove tracking for specific JSONL files you want to keep
+!data-bookmark.jsonl
+# Keep other jsonl files ignored
 *.jsonl
 *.json
 
