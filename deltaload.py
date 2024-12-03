@@ -6,10 +6,10 @@ import logging
 import traceback
 from datetime import datetime, timezone
 from pathlib import Path
+from dotenv import load_dotenv
 import requests
 from github import Github
 from twitter.scraper import Scraper
-import dotenv
 
 # Configure logging
 logging.basicConfig(
@@ -47,21 +47,28 @@ class DeltaLoadETL:
         """Load environment variables."""
         try:
             # Load environment variables from .env file
-            dotenv.load_dotenv()
+            load_dotenv()
             
             # Required environment variables
             self.github_token = os.getenv('GITHUB_TOKEN')
             self.raindrop_token = os.getenv('RAINDROP_ACCESS_TOKEN')
             self.twitter_user_id = os.getenv('TWITTER_USER_ID')
+            self.twitter_ct0 = os.getenv('TWITTER_CT0')
+            self.twitter_auth_token = os.getenv('TWITTER_AUTH_TOKEN')
             
             # Validate required environment variables
-            if not self.github_token:
-                raise ValueError("GITHUB_TOKEN environment variable is required")
-            if not self.raindrop_token:
-                raise ValueError("RAINDROP_ACCESS_TOKEN environment variable is required")
-            if not self.twitter_user_id:
-                raise ValueError("TWITTER_USER_ID environment variable is required")
-                
+            required_vars = {
+                'GITHUB_TOKEN': self.github_token,
+                'RAINDROP_ACCESS_TOKEN': self.raindrop_token,
+                'TWITTER_USER_ID': self.twitter_user_id,
+                'TWITTER_CT0': self.twitter_ct0,
+                'TWITTER_AUTH_TOKEN': self.twitter_auth_token
+            }
+            
+            for var_name, var_value in required_vars.items():
+                if not var_value:
+                    raise ValueError(f"{var_name} environment variable is required")
+                    
             logger.info("Environment variables loaded successfully.")
             
         except Exception as e:
@@ -81,6 +88,21 @@ class DeltaLoadETL:
             logger.error(f"Failed to initialize GitHub API: {e}")
             logger.error(f"Full exception details: {traceback.format_exc()}")
             self.github_api = None
+
+        # Initialize Twitter API client
+        try:
+            logger.info("Initializing Twitter API client...")
+            self.twitter_api = Scraper(
+                cookies={
+                    'ct0': self.twitter_ct0,
+                    'auth_token': self.twitter_auth_token
+                }
+            )
+            logger.info("Twitter API client initialized successfully.")
+        except Exception as e:
+            logger.error(f"Failed to initialize Twitter API: {e}")
+            logger.error(f"Full exception details: {traceback.format_exc()}")
+            self.twitter_api = None
 
         # Initialize Raindrop.io API headers
         try:
