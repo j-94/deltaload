@@ -1,24 +1,27 @@
-"""Final Delta Load Pipeline using twitter-api-client with debugging."""
+"""Delta Load Pipeline for social media data."""
 
 import os
 import json
 import logging
 import traceback
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 import requests
 from github import Github
 from twitter.scraper import Scraper
-from collections import defaultdict
+import dotenv
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s.%(msecs)03d %(levelname)s: %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S'
+)
+logger = logging.getLogger(__name__)
 
 class DeltaLoadETL:
     def __init__(self):
-        self.staging_dir = Path("data/staging")
-        self.processed_dir = Path("data/processed")
-        self.last_run_file = self.processed_dir / "last_run.json"
-        self.staging_dir.mkdir(parents=True, exist_ok=True)
-        self.processed_dir.mkdir(parents=True, exist_ok=True)
-        
+        self.jsonl_file = Path("data-bookmark.jsonl")
         self.setup_logging()
         
         try:
@@ -30,68 +33,43 @@ class DeltaLoadETL:
             raise
 
     def setup_logging(self):
-        # Create a logger with a unique filename based on timestamp
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        log_filename = f'logs/deltaload_{timestamp}.log'
-        
-        # Ensure logs directory exists
-        os.makedirs('logs', exist_ok=True)
-        
-        # Configure logging to write to file and console
         logging.basicConfig(
             level=logging.INFO,
             format='%(asctime)s.%(msecs)03d %(levelname)s: %(message)s',
             datefmt='%Y-%m-%d %H:%M:%S',
-            handlers=[
-                logging.FileHandler(log_filename, mode='w'),
-                logging.StreamHandler()
-            ]
+            handlers=[logging.StreamHandler()]
         )
         
         global logger
         logger = logging.getLogger(__name__)
 
     def load_env_variables(self):
-        from dotenv import load_dotenv
-        load_dotenv()
-        
-        # Validate environment variables
-        required_vars = [
-            'TWITTER_CT0', 
-            'TWITTER_AUTH_TOKEN', 
-            'TWITTER_USER_ID', 
-            'GITHUB_TOKEN', 
-            'GITHUB_USERNAME', 
-            'RAINDROP_ACCESS_TOKEN'
-        ]
-        
-        for var in required_vars:
-            if not os.getenv(var):
-                raise ValueError(f"Missing required environment variable: {var}")
-        
-        # Twitter auth using cookies
-        self.twitter_ct0 = os.getenv('TWITTER_CT0')
-        self.twitter_auth_token = os.getenv('TWITTER_AUTH_TOKEN')
-        self.twitter_user_id = os.getenv('TWITTER_USER_ID')
-        self.github_token = os.getenv('GITHUB_TOKEN')
-        self.github_username = os.getenv('GITHUB_USERNAME')
-        self.raindrop_token = os.getenv('RAINDROP_ACCESS_TOKEN')
-        logger.info("Environment variables loaded successfully.")
+        """Load environment variables."""
+        try:
+            # Load environment variables from .env file
+            dotenv.load_dotenv()
+            
+            # Required environment variables
+            self.github_token = os.getenv('GITHUB_TOKEN')
+            self.raindrop_token = os.getenv('RAINDROP_ACCESS_TOKEN')
+            self.twitter_user_id = os.getenv('TWITTER_USER_ID')
+            
+            # Validate required environment variables
+            if not self.github_token:
+                raise ValueError("GITHUB_TOKEN environment variable is required")
+            if not self.raindrop_token:
+                raise ValueError("RAINDROP_ACCESS_TOKEN environment variable is required")
+            if not self.twitter_user_id:
+                raise ValueError("TWITTER_USER_ID environment variable is required")
+                
+            logger.info("Environment variables loaded successfully.")
+            
+        except Exception as e:
+            logger.error(f"Error loading environment variables: {e}")
+            raise
 
     def init_api_clients(self):
-        # Initialize Twitter scraper using cookies
-        try:
-            logger.info("Initializing Twitter scraper...")
-            self.twitter_api = Scraper(cookies={
-                "ct0": self.twitter_ct0,
-                "auth_token": self.twitter_auth_token
-            })
-            logger.info("Twitter scraper initialized successfully.")
-        except Exception as e:
-            logger.error(f"Failed to initialize Twitter scraper: {e}")
-            logger.error(f"Full exception details: {traceback.format_exc()}")
-            self.twitter_api = None
-
+        """Initialize API clients."""
         # Initialize GitHub API client
         try:
             logger.info("Initializing GitHub API client...")
@@ -100,11 +78,11 @@ class DeltaLoadETL:
             user = self.github_api.get_user()
             logger.info(f"GitHub API client initialized. Logged in as: {user.login}")
         except Exception as e:
-            logger.error(f"Failed to initialize GitHub API client: {e}")
+            logger.error(f"Failed to initialize GitHub API: {e}")
             logger.error(f"Full exception details: {traceback.format_exc()}")
             self.github_api = None
 
-        # Initialize Raindrop.io headers
+        # Initialize Raindrop.io API headers
         try:
             logger.info("Initializing Raindrop.io API...")
             self.raindrop_headers = {'Authorization': f'Bearer {self.raindrop_token}'}
@@ -117,376 +95,510 @@ class DeltaLoadETL:
             logger.error(f"Full exception details: {traceback.format_exc()}")
             self.raindrop_headers = None
 
-    def get_last_run_data(self):
-        """Retrieve last run data, creating a new file if it doesn't exist."""
+    def read_jsonl(self):
+        """Read existing JSONL data and get latest timestamps."""
+        data = []
+        latest_timestamps = {
+            'twitter': datetime.min.replace(tzinfo=timezone.utc),
+            'twitter_like': datetime.min.replace(tzinfo=timezone.utc),
+            'github': datetime.min.replace(tzinfo=timezone.utc),
+            'raindrop': datetime.min.replace(tzinfo=timezone.utc)
+        }
+        latest_id = 0
+        
         try:
-            if self.last_run_file.exists():
-                with open(self.last_run_file, 'r') as f:
-                    return json.load(f)
-            else:
-                # Create initial last run data
-                initial_data = {
-                    'last_processed_time': '2000-01-01T00:00:00+00:00'  # Far in the past
-                }
-                return initial_data
-        except Exception as e:
-            logger.error(f"Error reading last run file: {e}")
-            # Return a default dict if reading fails
-            return {'last_processed_time': '2000-01-01T00:00:00+00:00'}
-
-    def save_last_run_data(self, data):
-        """Save last run data to file."""
-        try:
-            with open(self.last_run_file, 'w') as f:
-                json.dump(data, f, indent=2)
-            logger.info(f"Updated last run data: {data}")
-        except Exception as e:
-            logger.error(f"Error saving last run data: {e}")
-
-    def get_last_processed_tweet(self):
-        """Retrieve the last processed tweet from previous run data."""
-        try:
-            # Try to read from last_run.json
-            with open(self.processed_dir / 'last_run.json', 'r') as f:
-                last_run_data = json.load(f)
+            if self.jsonl_file.exists():
+                with open(self.jsonl_file, 'r', encoding='utf-8') as f:
+                    for line in f:
+                        try:
+                            record = json.loads(line.strip())
+                            data.append(record)
+                            
+                            # Track latest ID
+                            if 'id' in record:
+                                latest_id = max(latest_id, int(record['id']))
+                            
+                            # Track latest timestamps by source
+                            if 'created_at' in record and 'source' in record:
+                                created_at = datetime.fromisoformat(record['created_at'])
+                                source = record['source']
+                                if source == 'twitter_like':
+                                    latest_timestamps['twitter_like'] = max(latest_timestamps['twitter_like'], created_at)
+                                elif source == 'twitter':
+                                    latest_timestamps['twitter'] = max(latest_timestamps['twitter'], created_at)
+                                elif source == 'github':
+                                    latest_timestamps['github'] = max(latest_timestamps['github'], created_at)
+                                elif source == 'raindrop':
+                                    latest_timestamps['raindrop'] = max(latest_timestamps['raindrop'], created_at)
+                            
+                        except json.JSONDecodeError:
+                            logger.error(f"Error decoding JSON line: {line}")
+                            continue
+                        except Exception as e:
+                            logger.error(f"Error processing line: {e}")
+                            continue
                 
-            # Extract last processed tweet information
-            last_processed_tweet = {
-                "id": last_run_data.get('last_processed_tweet_id', 0),
-                "created_at": last_run_data.get('last_processed_time', '2000-01-01T00:00:00+00:00'),
-                "url": last_run_data.get('last_processed_tweet_url', '')
-            }
-            
-            logger.info(f"Retrieved last processed tweet from file: {last_processed_tweet}")
-            return last_processed_tweet
-        
-        except FileNotFoundError:
-            # Hardcoded default tweet when no previous run data exists
-            default_tweet = {
-                "id": 1859499631282913423,  # Specific tweet ID from a known tweet
-                "created_at": "2024-11-21 07:30:34+00:00",  # Specific timestamp
-                "url": "https://twitter.com/i/web/status/1859499631282913423"  # Corresponding tweet URL
-            }
-            
-            logger.warning("No last_run.json found. Using hardcoded default tweet.")
-            logger.info(f"Default tweet: {default_tweet}")
-            return default_tweet
-        
-        except Exception as e:
-            # Fallback to hardcoded default if any other error occurs
-            logger.error(f"Error reading last processed tweet: {e}")
-            
-            default_tweet = {
-                "id": 1859499631282913423,  # Specific tweet ID from a known tweet
-                "created_at": "2024-11-21 07:30:34+00:00",  # Specific timestamp
-                "url": "https://twitter.com/i/web/status/1859499631282913423"  # Corresponding tweet URL
-            }
-            
-            logger.warning("Using hardcoded default tweet due to error.")
-            logger.info(f"Default tweet: {default_tweet}")
-            return default_tweet
-
-    def fetch_twitter_data(self):
-        if not self.twitter_api:
-            logger.error("Twitter API client not initialized.")
-            return None
-
-        try:
-            logger.info("Fetching Twitter tweets and likes...")
-            
-            # Get tweets
-            tweets = []
-            tweet_iterator = self.twitter_api.tweets_and_replies(
-                user_ids=[self.twitter_user_id],
-                limit=50
-            )
-            for tweet in tweet_iterator:
-                if tweet and 'tweet' in tweet:
-                    tweets.append(tweet['tweet'])
-            logger.info(f"Fetched {len(tweets)} tweets")
-
-            # Get likes
-            likes = []
-            like_iterator = self.twitter_api.likes(
-                user_ids=[self.twitter_user_id],
-                limit=30
-            )
-            for like in like_iterator:
-                if like and 'tweet' in like:
-                    likes.append(like['tweet'])
-            logger.info(f"Fetched {len(likes)} likes")
-
-            # Return the data
-            twitter_data = {
-                'tweets': tweets,
-                'likes': likes
-            }
-
-            return twitter_data
-
-        except Exception as e:
-            logger.error(f"Error fetching Twitter data: {e}")
-            logger.error(f"Full exception details: {traceback.format_exc()}")
-            return None
-
-    def test_twitter_batch_scraping(self):
-        """Test Twitter batch scraping methods."""
-        if not self.twitter_api:
-            logger.error("Twitter API client not initialized.")
-            return None
-
-        try:
-            # Test batch tweet retrieval
-            test_tweet_ids = [
-                1859499631282913423,  # Last processed tweet ID
-                1850000000000000000,  # Example additional tweet ID
-            ]
-            
-            logger.info("Testing batch tweet retrieval...")
-            batch_tweets = self.twitter_api.tweets(test_tweet_ids)
-            logger.info(f"Retrieved {len(batch_tweets)} tweets in batch.")
-            
-            for tweet in batch_tweets:
-                logger.info(f"Batch Tweet Details: {tweet.get('id', 'N/A')}, Created at: {tweet.get('created_at', 'N/A')}")
-            
-            # Test batch user retrieval (if applicable)
-            try:
-                test_user_ids = [self.twitter_user_id]  # Use the authenticated user's ID
-                batch_users = self.twitter_api.users([test_user_ids])
-                logger.info(f"Retrieved {len(batch_users)} users in batch.")
+                logger.info(f"Read {len(data)} records from JSONL file")
+                logger.info(f"Latest timestamps: {latest_timestamps}")
                 
-                for user in batch_users:
-                    logger.info(f"Batch User Details: {user.get('id', 'N/A')}, Username: {user.get('username', 'N/A')}")
-            except Exception as user_error:
-                logger.warning(f"User batch retrieval failed: {user_error}")
+            return data, latest_timestamps, latest_id
             
-            return {
-                'batch_tweets': batch_tweets,
-                'batch_users': batch_users if 'batch_users' in locals() else []
-            }
-        
         except Exception as e:
-            logger.error(f"Error in batch Twitter scraping test: {e}")
-            logger.error(f"Full exception details: {traceback.format_exc()}")
-            return None
+            logger.error(f"Error reading JSONL file: {e}")
+            return [], latest_timestamps, latest_id
 
-    def save_to_staging(self, source, data_type, data):
-        if not data:
-            logger.debug(f"No new data to save for {source} {data_type}.")
-            return
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = self.staging_dir / f"{source}_{data_type}_{timestamp}.json"
-        with open(filename, 'w') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        logger.debug(f"Saved {len(data)} items to {filename}")
-
-    def fetch_github_data(self):
-        logger.info("Fetching GitHub data...")
-        last_run = self.get_last_run_data()
-        last_starred_at = last_run.get('github_last_starred_at')
-        new_stars = []
+    def write_jsonl(self, data):
+        """Write data to JSONL file."""
         try:
-            url = 'https://api.github.com/user/starred'
-            params = {
-                'per_page': 10,  # Limit to 10 starred repositories
-                'sort': 'created',
-                'direction': 'desc'
-            }
-            logger.debug(f"Fetching GitHub starred repositories with params: {params}")
-            response = requests.get(url, params=params, headers={'Authorization': f'token {self.github_token}'})
+            with open(self.jsonl_file, 'w', encoding='utf-8') as f:
+                for record in data:
+                    # Ensure created_at is in ISO format
+                    if isinstance(record.get('created_at'), datetime):
+                        record['created_at'] = record['created_at'].isoformat()
+                    # Ensure ID is an integer
+                    if 'id' in record:
+                        record['id'] = int(record['id'])
+                    json.dump(record, f, ensure_ascii=False)
+                    f.write('\n')
+            logger.info(f"Wrote {len(data)} records to JSONL file")
+        except Exception as e:
+            logger.error(f"Error writing to JSONL file: {e}")
+            raise
+
+    def fetch_twitter_data(self, latest_timestamps):
+        """Fetch tweets and likes from cached files."""
+        processed_items = []
+        if not self.twitter_user_id:
+            logger.error("Twitter user ID not set")
+            return processed_items
+
+        try:
+            # Get the latest timestamps for tweets and likes
+            since_time_tweets = latest_timestamps['twitter']
+            since_time_likes = latest_timestamps['twitter_like']
+            
+            logger.info(f"Fetching Twitter tweets since {since_time_tweets.isoformat()}")
+            logger.info(f"Fetching Twitter likes since {since_time_likes.isoformat()}")
+            
+            # Path to cached data directory
+            cache_dir = Path(f"data/{self.twitter_user_id}")
+            
+            # Get latest cached files
+            tweet_files = sorted(cache_dir.glob("*_UserTweetsAndReplies.json"), reverse=True)
+            like_files = sorted(cache_dir.glob("*_Likes.json"), reverse=True)
+            
+            # Process tweets
+            if tweet_files:
+                latest_tweet_file = tweet_files[0]
+                logger.info(f"Reading tweets from {latest_tweet_file}")
+                with open(latest_tweet_file, 'r', encoding='utf-8') as f:
+                    tweet_data = json.load(f)
+                    logger.debug(f"Raw tweet data structure: {list(tweet_data.keys())}")
+                    
+                    if 'data' in tweet_data:
+                        for entry in tweet_data['data'].get('user', {}).get('result', {}).get('timeline_v2', {}).get('timeline', {}).get('instructions', []):
+                            if entry.get('type') == 'TimelineAddEntries':
+                                for tweet_entry in entry.get('entries', []):
+                                    try:
+                                        logger.debug(f"Processing tweet entry: {json.dumps(tweet_entry.get('content', {}))[:200]}")
+                                        
+                                        # Extract tweet from the result structure
+                                        tweet = None
+                                        if 'content' in tweet_entry:
+                                            tweet_result = tweet_entry['content'].get('itemContent', {}).get('tweet_results', {}).get('result', {})
+                                            if 'legacy' in tweet_result:
+                                                tweet = tweet_result['legacy']
+                                            elif 'tweet' in tweet_result:
+                                                tweet = tweet_result['tweet'].get('legacy', {})
+                                        
+                                        if not tweet:
+                                            logger.warning(f"Could not extract tweet data from entry: {json.dumps(tweet_entry)[:200]}")
+                                            continue
+                                            
+                                        # Extract user info
+                                        user_info = tweet.get('user', {})
+                                        
+                                        # Convert Twitter's timestamp format to datetime
+                                        created_at = datetime.strptime(tweet.get('created_at'), '%a %b %d %H:%M:%S %z %Y')
+                                        
+                                        if created_at > since_time_tweets:
+                                            processed_tweet = {
+                                                'created_at': created_at.isoformat(),
+                                                'url': f"https://twitter.com/i/web/status/{tweet.get('id_str')}",
+                                                'source': 'twitter',
+                                                'content': tweet.get('full_text', ''),
+                                                'metadata': json.dumps({
+                                                    'retweet_count': tweet.get('retweet_count'),
+                                                    'favorite_count': tweet.get('favorite_count'),
+                                                    'reply_count': tweet.get('reply_count'),
+                                                    'quote_count': tweet.get('quote_count'),
+                                                    'lang': tweet.get('lang'),
+                                                    'user': {
+                                                        'id': user_info.get('id_str'),
+                                                        'screen_name': user_info.get('screen_name'),
+                                                        'name': user_info.get('name'),
+                                                        'followers_count': user_info.get('followers_count'),
+                                                        'following_count': user_info.get('friends_count'),
+                                                        'statuses_count': user_info.get('statuses_count'),
+                                                        'verified': user_info.get('verified', False)
+                                                    }
+                                                })
+                                            }
+                                            processed_items.append(processed_tweet)
+                                            logger.info(f"Added tweet: {processed_tweet['content'][:100]}")
+                                        else:
+                                            logger.info(f"Tweet too old: {created_at.isoformat()} <= {since_time_tweets.isoformat()}")
+                                            
+                                    except Exception as e:
+                                        logger.error(f"Error processing individual tweet: {str(e)}")
+                                        logger.error(f"Tweet entry: {json.dumps(tweet_entry)[:200]}")
+                                        continue
+
+            # Process likes
+            if like_files:
+                latest_like_file = like_files[0]
+                logger.info(f"Reading likes from {latest_like_file}")
+                with open(latest_like_file, 'r', encoding='utf-8') as f:
+                    like_data = json.load(f)
+                    logger.debug(f"Raw like data structure: {list(like_data.keys())}")
+                    
+                    if 'data' in like_data:
+                        for entry in like_data['data'].get('user', {}).get('result', {}).get('timeline_v2', {}).get('timeline', {}).get('instructions', []):
+                            if entry.get('type') == 'TimelineAddEntries':
+                                for like_entry in entry.get('entries', []):
+                                    try:
+                                        logger.debug(f"Processing like entry: {json.dumps(like_entry.get('content', {}))[:200]}")
+                                        
+                                        # Extract tweet from the result structure
+                                        tweet = None
+                                        if 'content' in like_entry:
+                                            tweet_result = like_entry['content'].get('itemContent', {}).get('tweet_results', {}).get('result', {})
+                                            if 'legacy' in tweet_result:
+                                                tweet = tweet_result['legacy']
+                                            elif 'tweet' in tweet_result:
+                                                tweet = tweet_result['tweet'].get('legacy', {})
+                                        
+                                        if not tweet:
+                                            logger.warning(f"Could not extract like data from entry: {json.dumps(like_entry)[:200]}")
+                                            continue
+                                            
+                                        # Extract user info
+                                        user_info = tweet.get('user', {})
+                                        
+                                        # Convert Twitter's timestamp format to datetime
+                                        created_at = datetime.strptime(tweet.get('created_at'), '%a %b %d %H:%M:%S %z %Y')
+                                        
+                                        if created_at > since_time_likes:
+                                            processed_like = {
+                                                'created_at': created_at.isoformat(),
+                                                'url': f"https://twitter.com/i/web/status/{tweet.get('id_str')}",
+                                                'source': 'twitter_like',
+                                                'content': tweet.get('full_text', ''),
+                                                'metadata': json.dumps({
+                                                    'retweet_count': tweet.get('retweet_count'),
+                                                    'favorite_count': tweet.get('favorite_count'),
+                                                    'reply_count': tweet.get('reply_count'),
+                                                    'quote_count': tweet.get('quote_count'),
+                                                    'lang': tweet.get('lang'),
+                                                    'user': {
+                                                        'id': user_info.get('id_str'),
+                                                        'screen_name': user_info.get('screen_name'),
+                                                        'name': user_info.get('name'),
+                                                        'followers_count': user_info.get('followers_count'),
+                                                        'following_count': user_info.get('friends_count'),
+                                                        'statuses_count': user_info.get('statuses_count'),
+                                                        'verified': user_info.get('verified', False)
+                                                    }
+                                                })
+                                            }
+                                            processed_items.append(processed_like)
+                                            logger.info(f"Added like: {processed_like['content'][:100]}")
+                                        else:
+                                            logger.info(f"Like too old: {created_at.isoformat()} <= {since_time_likes.isoformat()}")
+                                            
+                                    except Exception as e:
+                                        logger.error(f"Error processing individual like: {str(e)}")
+                                        logger.error(f"Like entry: {json.dumps(like_entry)[:200]}")
+                                        continue
+ 
+            logger.info(f"Processed {len(processed_items)} total items from Twitter")
+            return processed_items
+            
+        except Exception as e:
+            logger.error(f"Error processing Twitter data: {e}")
+            logger.error(traceback.format_exc())
+            return processed_items
+
+    def fetch_github_data(self, since_time):
+        """Fetch starred repositories from GitHub API."""
+        if not self.github_api:
+            return []
+
+        try:
+            logger.info("Fetching GitHub data...")
+            stars = []
+            
+            # Get starred repositories with starred_at timestamps
+            response = requests.get(
+                'https://api.github.com/user/starred',
+                headers={
+                    'Authorization': f'token {self.github_token}',
+                    'Accept': 'application/vnd.github.v3.star+json'  # Required for starred_at field
+                },
+                params={'sort': 'created', 'direction': 'desc', 'per_page': 100}
+            )
             response.raise_for_status()
-            for star in response.json():
-                # Stop if we've reached the last starred repository
-                if last_starred_at and star['created_at'] <= last_starred_at:
-                    break
-                
-                star_data = {
-                    'id': str(star['id']),
-                    'name': star['full_name'],
-                    'description': star.get('description', ''),
-                    'url': star['html_url'],
-                    'created_at': star['created_at'],
-                    'language': star.get('language'),
-                    'source': 'github',
-                    'type': 'star'
-                }
-                new_stars.append(star_data)
+            starred_data = response.json()
             
-            if new_stars:
-                # Update last starred at to the most recent star
-                last_run['github_last_starred_at'] = new_stars[0]['created_at']
-                logger.info(f"Fetched {len(new_stars)} new starred repositories.")
-                self.save_to_staging('github', 'stars', new_stars)
-                self.save_last_run_data(last_run)
-            else:
+            logger.info(f"Found {len(starred_data)} starred repositories")
+            
+            for item in starred_data:
+                try:
+                    # Extract repository data and starred_at timestamp
+                    repo = item.get('repo')  # The repository data is under 'repo' key
+                    starred_at = datetime.strptime(item.get('starred_at'), '%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=timezone.utc)
+                    
+                    if not repo:
+                        logger.warning(f"No repository data found in item: {json.dumps(item)[:200]}")
+                        continue
+                        
+                    # Only include stars newer than the last processed
+                    if starred_at > since_time:
+                        star_data = {
+                            'created_at': starred_at.isoformat(),
+                            'url': repo['html_url'],
+                            'source': 'github',
+                            'content': f"{repo['full_name']}: {repo['description']}" if repo.get('description') else repo['full_name'],
+                            'metadata': json.dumps({
+                                'language': repo.get('language'),
+                                'stars': repo.get('stargazers_count'),
+                                'forks': repo.get('forks_count'),
+                                'repo_created_at': repo.get('created_at'),
+                                'repo_updated_at': repo.get('updated_at'),
+                                'repo_pushed_at': repo.get('pushed_at'),
+                                'owner': {
+                                    'login': repo['owner']['login'],
+                                    'type': repo['owner']['type'],
+                                    'avatar_url': repo['owner']['avatar_url']
+                                }
+                            })
+                        }
+                        stars.append(star_data)
+                        logger.info(f"Added star: {star_data['content'][:100]}")
+                    else:
+                        logger.info(f"Star too old: {starred_at.isoformat()} <= {since_time.isoformat()}")
+                        break  # GitHub stars are in chronological order
+                        
+                except Exception as e:
+                    logger.error(f"Error processing starred repo: {str(e)}")
+                    logger.error(f"Raw item: {json.dumps(item)}")
+                    continue
+            
+            if not stars:
                 logger.info("No new starred repositories to fetch.")
+            else:
+                logger.info(f"Fetched {len(stars)} new starred repositories")
+            
+            return stars
+            
         except Exception as e:
             logger.error(f"Error fetching GitHub data: {e}")
+            logger.error(traceback.format_exc())
+            return []
 
-    def fetch_raindrop_data(self):
-        logger.info("Fetching Raindrop.io data...")
-        last_run = self.get_last_run_data()
-        last_bookmark_id = last_run.get('raindrop_last_bookmark_id')
-        new_bookmarks = []
+    def fetch_raindrop_data(self, since_time):
+        """Fetch bookmarks from Raindrop.io API."""
+        if not self.raindrop_headers:
+            return []
+
         try:
-            url = 'https://api.raindrop.io/rest/v1/raindrops/0'
-            params = {
-                'page': 0,  # Always fetch first page
-                'perpage': 50,  # Limit to 50 bookmarks
-                'sort': '-created'
-            }
-            logger.debug(f"Fetching Raindrop.io bookmarks with params: {params}")
-            response = requests.get(url, headers=self.raindrop_headers, params=params)
-            response.raise_for_status()
-            data = response.json()
-            items = data.get('items', [])
-            
-            for item in items:
-                # Stop if we've reached the last fetched bookmark
-                if last_bookmark_id and str(item['_id']) == last_bookmark_id:
-                    break
-                
-                bookmark_data = {
-                    'id': str(item['_id']),
-                    'created_at': item['created'],
-                    'title': item['title'],
-                    'excerpt': item.get('excerpt', ''),
-                    'url': item['link'],
-                    'source': 'raindrop',
-                    'type': 'bookmark',
-                    'metadata': {
-                        'tags': item.get('tags', []),
-                        'collection': item.get('collection', {}).get('title', '')
-                    }
+            logger.info("Fetching Raindrop.io data...")
+            bookmarks = []
+            page = 0
+            per_page = 50
+
+            while True:
+                url = f'https://api.raindrop.io/rest/v1/raindrops/0'
+                params = {
+                    'page': page,
+                    'perpage': per_page,
+                    'sort': '-created'
                 }
-                new_bookmarks.append(bookmark_data)
-            
-            if new_bookmarks:
-                # Update last bookmark ID to the most recent one
-                last_run['raindrop_last_bookmark_id'] = str(items[0]['_id'])
-                logger.info(f"Fetched {len(new_bookmarks)} new bookmarks.")
-                self.save_to_staging('raindrop', 'bookmarks', new_bookmarks)
-                self.save_last_run_data(last_run)
-            else:
+
+                response = requests.get(url, headers=self.raindrop_headers, params=params)
+                response.raise_for_status()
+                data = response.json()
+
+                if not data.get('items'):
+                    break
+
+                for bookmark in data['items']:
+                    # Convert the Z timezone to +00:00 format
+                    created_str = bookmark['created'].replace('Z', '+00:00')
+                    created_at = datetime.fromisoformat(created_str)
+                    
+                    # Only include bookmarks newer than the last processed
+                    if created_at > since_time:
+                        bookmark_data = {
+                            'created_at': created_at.isoformat(),
+                            'url': bookmark['link'],
+                            'source': 'raindrop',
+                            'content': bookmark.get('title', ''),
+                            'metadata': json.dumps({
+                                'folder': bookmark.get('collection', {}).get('title', 'Unsorted'),
+                                'tags': bookmark.get('tags', []),
+                                'cover': bookmark.get('cover'),
+                                'highlights': bookmark.get('highlights', []),
+                                'favorite': bookmark.get('favorite', False)
+                            })
+                        }
+                        bookmarks.append(bookmark_data)
+                    else:
+                        return bookmarks  # We've reached older bookmarks
+
+                if len(data['items']) < per_page:
+                    break
+
+                page += 1
+
+            if not bookmarks:
                 logger.info("No new bookmarks to fetch.")
+            else:
+                logger.info(f"Fetched {len(bookmarks)} new bookmarks")
+            
+            return bookmarks
+            
         except Exception as e:
             logger.error(f"Error fetching Raindrop.io data: {e}")
+            logger.error(traceback.format_exc())
+            return []
 
-    def transform_data(self):
-        logger.info("Transforming data...")
-        staged_files = list(self.staging_dir.glob("*.json"))
-        unified_data = []
-        for file_path in staged_files:
-            try:
-                with open(file_path, 'r') as f:
-                    data = json.load(f)
-                logger.debug(f"Loaded {len(data)} items from {file_path.name}")
-                unified_data.extend(data)
-                # Move file to archived folder
-                archive_dir = self.staging_dir / "archived"
-                archive_dir.mkdir(exist_ok=True)
-                archived_file_path = archive_dir / file_path.name
-                file_path.rename(archived_file_path)
-                logger.debug(f"Moved {file_path.name} to archive.")
-            except Exception as e:
-                logger.error(f"Error processing file {file_path.name}: {e}")
-        if unified_data:
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            output_file = self.processed_dir / f"unified_data_{timestamp}.json"
-            try:
-                with open(output_file, 'w') as f:
-                    json.dump(unified_data, f, ensure_ascii=False, indent=2)
-                logger.info(f"Transformed data saved to {output_file}")
-            except Exception as e:
-                logger.error(f"Error saving transformed data: {e}")
-        else:
-            logger.info("No new data to transform.")
-
-    def check_recent_entries(self, jsonl_file_path):
-        """Check the most recent entries for each source in the JSONL file."""
-        # Load the JSONL file
-        with open(jsonl_file_path, 'r') as file:
-            lines = file.readlines()
-
-        # Parse JSONL entries
-        json_objects = [json.loads(line) for line in lines]
-
-        # Group entries by source
-        entries_by_source = defaultdict(list)
-        for obj in json_objects:
-            source = obj.get('source')
-            if source:
-                entries_by_source[source].append(obj)
-
-        # Function to parse datetime strings
-        def parse_datetime(dt_str):
-            if not dt_str:
-                return None
+    def transform_data(self, new_data, latest_id):
+        """Transform and combine data from all sources."""
+        transformed_data = []
+        current_id = latest_id
+        
+        for item in new_data:
+            current_id += 1
+            item['id'] = current_id
             
-            try:
-                from dateutil.parser import parse
-                # Use dateutil to parse various datetime formats
-                parsed_dt = parse(dt_str)
+            # Ensure created_at is in ISO format
+            if isinstance(item.get('created_at'), str):
+                try:
+                    # Parse the string to datetime first
+                    dt = datetime.fromisoformat(item['created_at'].replace('Z', '+00:00'))
+                    # Convert back to ISO format string
+                    item['created_at'] = dt.isoformat()
+                except ValueError as e:
+                    logger.error(f"Error parsing datetime: {e}")
+                    continue
+            
+            # Normalize metadata
+            if 'metadata' in item:
+                if isinstance(item['metadata'], str):
+                    try:
+                        metadata = json.loads(item['metadata'])
+                    except json.JSONDecodeError:
+                        metadata = {}
+                else:
+                    metadata = item['metadata']
                 
-                # Normalize to UTC if timezone is not specified
-                if parsed_dt.tzinfo is None:
-                    from dateutil.tz import tzutc
-                    parsed_dt = parsed_dt.replace(tzinfo=tzutc())
+                # Convert numeric values to integers where appropriate
+                for key in metadata:
+                    if isinstance(metadata[key], float) and metadata[key].is_integer():
+                        metadata[key] = int(metadata[key])
                 
-                return parsed_dt
-            except ImportError:
-                logger.error("dateutil not installed. Falling back to basic parsing.")
-                raise
-            except Exception as e:
-                logger.error(f"Failed to parse datetime '{dt_str}': {e}")
-                return None
+                # Replace NaN with appropriate empty values
+                for key in metadata:
+                    if str(metadata[key]) == 'NaN':
+                        if key in ['tags', 'highlights']:
+                            metadata[key] = []
+                        elif key in ['user_id']:
+                            metadata[key] = None
+                        else:
+                            metadata[key] = None
+                
+                item['metadata'] = json.dumps(metadata)
+            
+            transformed_data.append(item)
+        
+        return transformed_data
 
-        # Check recent entries by source
-        for source, entries in entries_by_source.items():
-            # Sort entries by created_at, assuming 'created_at' is the field name
-            try:
-                entries.sort(key=lambda x: parse_datetime(x.get('created_at', '')), reverse=True)
-
-                # Get the most recent entry
-                most_recent_entry = entries[0] if entries else None
-
-                if most_recent_entry:
-                    # Extract relevant fields for comparison
-                    most_recent_url = most_recent_entry.get('url')
-                    most_recent_datetime = most_recent_entry.get('created_at')
-
-                    logger.debug(f"Source: {source}")
-                    logger.debug(f"Most Recent URL: {most_recent_url}")
-                    logger.debug(f"Most Recent Datetime: {most_recent_datetime}")
-
-                    # Implement logic to decide if processing should continue
-                    # For example, check if the current entry matches the most recent one
-                    # if current_entry['url'] == most_recent_url:
-                    #     logger.info("Duplicate entry found, stopping further processing.")
-                    # else:
-                    #     logger.info("Continue processing.")
-            except (ValueError, KeyError) as e:
-                logger.error(f"Error processing entries for source {source}: {e}")
-                continue
+    def process_data(self):
+        """Main data processing pipeline."""
+        try:
+            # Read existing data
+            existing_data, latest_timestamps, latest_id = self.read_jsonl()
+            
+            # Fetch new data from all sources
+            new_data = []
+            
+            # Fetch Twitter data
+            twitter_data = self.fetch_twitter_data(latest_timestamps)
+            if twitter_data:
+                new_data.extend(twitter_data)
+            
+            # Fetch GitHub data
+            github_data = self.fetch_github_data(latest_timestamps['github'])
+            if github_data:
+                new_data.extend(github_data)
+            
+            # Fetch Raindrop data
+            raindrop_data = self.fetch_raindrop_data(latest_timestamps['raindrop'])
+            if raindrop_data:
+                new_data.extend(raindrop_data)
+            
+            if new_data:
+                logger.info(f"Found {len(new_data)} new records")
+                
+                # Transform new data
+                logger.info("Transforming data...")
+                transformed_data = self.transform_data(new_data, latest_id)
+                
+                # Combine with existing data
+                all_data = existing_data + transformed_data
+                
+                # Write combined data
+                self.write_jsonl(all_data)
+                logger.info(f"Total records after update: {len(all_data)}")
+            else:
+                logger.info("No new data to transform.")
+        except Exception as e:
+            logger.error(f"Error processing data: {e}")
+            logger.error(traceback.format_exc())
+            raise
 
     def run(self):
         """Main ETL pipeline execution method."""
-        logger.info("Starting Deltaload ETL pipeline...")
-        
-        # Fetch data from various sources
-        twitter_data = self.fetch_twitter_data()
-        self.fetch_github_data()
-        self.fetch_raindrop_data()
-        self.transform_data()
-        jsonl_file_path = 'data-bookmark.jsonl'  # Adjust the path as needed
-        self.check_recent_entries(jsonl_file_path)
-        
-        logger.info("Deltaload ETL pipeline completed.")
+        try:
+            logger.info("Starting Deltaload ETL pipeline...")
+            
+            # Process data
+            self.process_data()
+            
+            logger.info("Deltaload ETL pipeline completed.")
+        except Exception as e:
+            logger.error(f"Error in ETL pipeline: {e}")
+            logger.error(traceback.format_exc())
+            raise
+
+    def save_data(self, data):
+        """Save transformed data to JSONL file."""
+        try:
+            # Create directories if they don't exist
+            self.jsonl_file.parent.mkdir(parents=True, exist_ok=True)
+            
+            # Append new data to JSONL file
+            with open(self.jsonl_file, 'a', encoding='utf-8') as f:
+                for item in data:
+                    f.write(json.dumps(item) + '\n')
+            
+            logger.info(f"Appended {len(data)} new items to {self.jsonl_file}")
+            
+        except Exception as e:
+            logger.error(f"Error saving data: {e}")
+            logger.error(traceback.format_exc())
 
 if __name__ == "__main__":
-    try:
-        etl = DeltaLoadETL()
-        etl.run()
-    except Exception as e:
-        logger.error(f"Critical error in ETL pipeline: {e}")
-        logger.error(f"Full exception details: {traceback.format_exc()}")
+    etl = DeltaLoadETL()
+    etl.run()

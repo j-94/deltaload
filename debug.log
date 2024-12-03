@@ -1,0 +1,299 @@
+2024-12-03 16:21:53,092.092 INFO: Environment variables loaded successfully.
+2024-12-03 16:21:53,092.092 INFO: Initializing Twitter scraper...
+2024-12-03 16:21:53,092.092 ERROR: Failed to initialize Twitter scraper: __init__() got an unexpected keyword argument 'auth_token'
+2024-12-03 16:21:53,092.092 ERROR: Full exception details: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/deltaload.py", line 72, in init_api_clients
+    self.twitter_api = Scraper(
+TypeError: __init__() got an unexpected keyword argument 'auth_token'
+
+2024-12-03 16:21:53,092.092 INFO: Initializing GitHub API client...
+2024-12-03 16:21:53,299.299 INFO: GitHub API client initialized. Logged in as: j-94
+2024-12-03 16:21:53,299.299 INFO: Initializing Raindrop.io API...
+2024-12-03 16:21:53,737.737 INFO: Raindrop.io API headers initialized successfully.
+2024-12-03 16:21:53,740.740 INFO: Starting Deltaload ETL pipeline...
+2024-12-03 16:21:53,740.740 ERROR: Twitter API client not initialized.
+2024-12-03 16:21:53,740.740 INFO: Fetching GitHub data...
+2024-12-03 16:21:53,741.741 DEBUG: Fetching GitHub starred repositories with params: {'per_page': 10, 'sort': 'created', 'direction': 'desc'}
+2024-12-03 16:21:54,406.406 INFO: Fetched 10 new starred repositories.
+2024-12-03 16:21:54,407.407 DEBUG: Saved 10 items to data/staging/github_stars_20241203_162154.json
+2024-12-03 16:21:54,408.408 INFO: Updated last run data: {'last_processed_time': '2000-01-01T00:00:00+00:00', 'github_last_starred_at': '2024-02-27T20:10:04Z'}
+2024-12-03 16:21:54,410.410 INFO: Fetching Raindrop.io data...
+2024-12-03 16:21:54,411.411 DEBUG: Fetching Raindrop.io bookmarks with params: {'page': 0, 'perpage': 50, 'sort': '-created'}
+2024-12-03 16:21:54,742.742 INFO: Fetched 50 new bookmarks.
+2024-12-03 16:21:54,744.744 DEBUG: Saved 50 items to data/staging/raindrop_bookmarks_20241203_162154.json
+2024-12-03 16:21:54,745.745 INFO: Updated last run data: {'last_processed_time': '2000-01-01T00:00:00+00:00', 'github_last_starred_at': '2024-02-27T20:10:04Z', 'raindrop_last_bookmark_id': '913569525'}
+2024-12-03 16:21:54,746.746 INFO: Transforming data...
+2024-12-03 16:21:54,747.747 DEBUG: Loaded 3 items from last_run.json
+2024-12-03 16:21:54,748.748 DEBUG: Moved last_run.json to archive.
+2024-12-03 16:21:54,748.748 DEBUG: Loaded 50 items from raindrop_bookmarks_20241203_162154.json
+2024-12-03 16:21:54,748.748 DEBUG: Moved raindrop_bookmarks_20241203_162154.json to archive.
+2024-12-03 16:21:54,749.749 DEBUG: Loaded 10 items from github_stars_20241203_162154.json
+2024-12-03 16:21:54,749.749 DEBUG: Moved github_stars_20241203_162154.json to archive.
+2024-12-03 16:21:54,751.751 INFO: Transformed data saved to data/processed/unified_data_20241203_162154.json
+2024-12-03 16:21:54,845.845 DEBUG: Source: github
+2024-12-03 16:21:54,845.845 DEBUG: Most Recent URL: https://github.com/Yushi-Hu/VisualSketchpad
+2024-12-03 16:21:54,845.845 DEBUG: Most Recent Datetime: 2024-06-13 22:00:44+00:00
+2024-12-03 16:21:54,902.902 DEBUG: Source: twitter
+2024-12-03 16:21:54,902.902 DEBUG: Most Recent URL: https://twitter.com/i/web/status/1859499631282913423
+2024-12-03 16:21:54,902.902 DEBUG: Most Recent Datetime: 2024-11-21 07:30:34+00:00
+2024-12-03 16:21:55,097.097 DEBUG: Source: raindrop
+2024-12-03 16:21:55,097.097 DEBUG: Most Recent URL: https://blog.google/products/gemini/google-gems-tips/
+2024-12-03 16:21:55,097.097 DEBUG: Most Recent Datetime: 2024-11-21 09:24:53.391000+00:00
+2024-12-03 16:21:55,100.100 INFO: Deltaload ETL pipeline completed.
+2024-12-03 16:29:28,102.102 INFO: Environment variables loaded successfully.
+2024-12-03 16:29:28,103.103 INFO: Initializing Twitter scraper...
+2024-12-03 16:29:28,103.103 ERROR: Failed to initialize Twitter scraper: __init__() got an unexpected keyword argument 'auth_token'
+2024-12-03 16:29:28,103.103 ERROR: Full exception details: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/deltaload.py", line 85, in init_api_clients
+    self.twitter_api = Scraper(
+TypeError: __init__() got an unexpected keyword argument 'auth_token'
+
+2024-12-03 16:29:28,103.103 INFO: Initializing GitHub API client...
+2024-12-03 16:29:28,295.295 INFO: GitHub API client initialized. Logged in as: j-94
+2024-12-03 16:29:28,295.295 INFO: Initializing Raindrop.io API...
+2024-12-03 16:29:28,441.441 INFO: Raindrop.io API headers initialized successfully.
+2024-12-03 16:29:28,442.442 INFO: Starting Deltaload ETL pipeline...
+2024-12-03 16:29:28,442.442 ERROR: Twitter API client not initialized.
+2024-12-03 16:29:28,442.442 INFO: Fetching GitHub data...
+2024-12-03 16:29:28,442.442 DEBUG: Fetching GitHub starred repositories with params: {'per_page': 10, 'sort': 'created', 'direction': 'desc'}
+2024-12-03 16:29:29,215.215 INFO: Fetched 10 new starred repositories.
+2024-12-03 16:29:29,216.216 DEBUG: Saved 10 items to data/staging/github_stars_20241203_162929.json
+2024-12-03 16:29:29,216.216 INFO: Updated last run data: {'last_processed_time': '2000-01-01T00:00:00+00:00', 'github_last_starred_at': '2024-02-27T20:10:04Z'}
+2024-12-03 16:29:29,217.217 INFO: Fetching Raindrop.io data...
+2024-12-03 16:29:29,217.217 DEBUG: Fetching Raindrop.io bookmarks with params: {'page': 0, 'perpage': 50, 'sort': '-created'}
+2024-12-03 16:29:29,593.593 INFO: Fetched 50 new bookmarks.
+2024-12-03 16:29:29,595.595 DEBUG: Saved 50 items to data/staging/raindrop_bookmarks_20241203_162929.json
+2024-12-03 16:29:29,595.595 INFO: Updated last run data: {'last_processed_time': '2000-01-01T00:00:00+00:00', 'github_last_starred_at': '2024-02-27T20:10:04Z', 'raindrop_last_bookmark_id': '913569525'}
+2024-12-03 16:29:29,596.596 INFO: Transforming data...
+2024-12-03 16:29:29,597.597 DEBUG: Loaded 50 items from raindrop_bookmarks_20241203_162929.json
+2024-12-03 16:29:29,598.598 DEBUG: Moved raindrop_bookmarks_20241203_162929.json to archive.
+2024-12-03 16:29:29,598.598 DEBUG: Loaded 10 items from github_stars_20241203_162929.json
+2024-12-03 16:29:29,598.598 DEBUG: Moved github_stars_20241203_162929.json to archive.
+2024-12-03 16:29:29,599.599 INFO: Transformed data saved to data/processed/unified_data_20241203_162929.json
+2024-12-03 16:29:29,693.693 DEBUG: Source: github
+2024-12-03 16:29:29,693.693 DEBUG: Most Recent URL: https://github.com/Yushi-Hu/VisualSketchpad
+2024-12-03 16:29:29,693.693 DEBUG: Most Recent Datetime: 2024-06-13 22:00:44+00:00
+2024-12-03 16:29:29,751.751 DEBUG: Source: twitter
+2024-12-03 16:29:29,751.751 DEBUG: Most Recent URL: https://twitter.com/i/web/status/1859499631282913423
+2024-12-03 16:29:29,751.751 DEBUG: Most Recent Datetime: 2024-11-21 07:30:34+00:00
+2024-12-03 16:29:29,970.970 DEBUG: Source: raindrop
+2024-12-03 16:29:29,970.970 DEBUG: Most Recent URL: https://blog.google/products/gemini/google-gems-tips/
+2024-12-03 16:29:29,970.970 DEBUG: Most Recent Datetime: 2024-11-21 09:24:53.391000+00:00
+2024-12-03 16:29:29,973.973 INFO: Deltaload ETL pipeline completed.
+2024-12-03 16:33:21,754.754 INFO: Environment variables loaded successfully.
+2024-12-03 16:33:21,755.755 INFO: Initializing Twitter scraper...
+2024-12-03 16:33:21,755.755 ERROR: Failed to initialize Twitter scraper: __init__() got an unexpected keyword argument 'cookies'
+2024-12-03 16:33:21,755.755 ERROR: Full exception details: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/deltaload.py", line 85, in init_api_clients
+    self.twitter_api = Scraper(cookies={
+TypeError: __init__() got an unexpected keyword argument 'cookies'
+
+2024-12-03 16:33:21,755.755 INFO: Initializing GitHub API client...
+2024-12-03 16:33:21,964.964 INFO: GitHub API client initialized. Logged in as: j-94
+2024-12-03 16:33:21,964.964 INFO: Initializing Raindrop.io API...
+2024-12-03 16:33:22,196.196 INFO: Raindrop.io API headers initialized successfully.
+2024-12-03 16:33:22,197.197 INFO: Starting Deltaload ETL pipeline...
+2024-12-03 16:33:22,197.197 ERROR: Twitter API client not initialized.
+2024-12-03 16:33:22,197.197 INFO: Fetching GitHub data...
+2024-12-03 16:33:22,197.197 DEBUG: Fetching GitHub starred repositories with params: {'per_page': 10, 'sort': 'created', 'direction': 'desc'}
+2024-12-03 16:33:22,781.781 INFO: No new starred repositories to fetch.
+2024-12-03 16:33:22,782.782 INFO: Fetching Raindrop.io data...
+2024-12-03 16:33:22,782.782 DEBUG: Fetching Raindrop.io bookmarks with params: {'page': 0, 'perpage': 50, 'sort': '-created'}
+2024-12-03 16:33:26,046.046 INFO: No new bookmarks to fetch.
+2024-12-03 16:33:26,047.047 INFO: Transforming data...
+2024-12-03 16:33:26,047.047 INFO: No new data to transform.
+2024-12-03 16:33:26,119.119 DEBUG: Source: github
+2024-12-03 16:33:26,119.119 DEBUG: Most Recent URL: https://github.com/Yushi-Hu/VisualSketchpad
+2024-12-03 16:33:26,119.119 DEBUG: Most Recent Datetime: 2024-06-13 22:00:44+00:00
+2024-12-03 16:33:26,180.180 DEBUG: Source: twitter
+2024-12-03 16:33:26,180.180 DEBUG: Most Recent URL: https://twitter.com/i/web/status/1859499631282913423
+2024-12-03 16:33:26,180.180 DEBUG: Most Recent Datetime: 2024-11-21 07:30:34+00:00
+2024-12-03 16:33:26,389.389 DEBUG: Source: raindrop
+2024-12-03 16:33:26,389.389 DEBUG: Most Recent URL: https://blog.google/products/gemini/google-gems-tips/
+2024-12-03 16:33:26,389.389 DEBUG: Most Recent Datetime: 2024-11-21 09:24:53.391000+00:00
+2024-12-03 16:33:26,402.402 INFO: Deltaload ETL pipeline completed.
+2024-12-03 16:34:17,508.508 INFO: Starting Twitter batch scraping test...
+2024-12-03 16:34:17,508.508 ERROR: Error in batch Twitter scraping test: __init__() got an unexpected keyword argument 'cookies'
+2024-12-03 16:34:17,508.508 ERROR: Full exception details: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/test.py", line 23, in test_twitter_batch_scraping
+    twitter_api = Scraper(cookies={
+TypeError: __init__() got an unexpected keyword argument 'cookies'
+
+2024-12-03 16:34:17,508.508 ERROR: Batch scraping test failed.
+2024-12-03 16:34:39,181.181 INFO: Starting Twitter batch scraping test...
+2024-12-03 16:34:39,181.181 ERROR: Error in batch Twitter scraping test: __init__() got an unexpected keyword argument 'ct0'
+2024-12-03 16:34:39,181.181 ERROR: Full exception details: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/test.py", line 23, in test_twitter_batch_scraping
+    twitter_api = Scraper(
+TypeError: __init__() got an unexpected keyword argument 'ct0'
+
+2024-12-03 16:34:39,181.181 ERROR: Batch scraping test failed.
+2024-12-03 17:19:40,360.360 INFO: Environment variables loaded successfully.
+2024-12-03 17:19:40,361.361 INFO: Initializing Twitter scraper...
+2024-12-03 17:19:40,361.361 ERROR: Failed to initialize Twitter scraper: __init__() got an unexpected keyword argument 'cookies'
+2024-12-03 17:19:40,361.361 ERROR: Full exception details: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/deltaload.py", line 85, in init_api_clients
+    self.twitter_api = Scraper(cookies={
+TypeError: __init__() got an unexpected keyword argument 'cookies'
+
+2024-12-03 17:19:40,361.361 INFO: Initializing GitHub API client...
+2024-12-03 17:19:40,548.548 INFO: GitHub API client initialized. Logged in as: j-94
+2024-12-03 17:19:40,548.548 INFO: Initializing Raindrop.io API...
+2024-12-03 17:19:40,715.715 INFO: Raindrop.io API headers initialized successfully.
+2024-12-03 17:19:40,716.716 INFO: Starting Deltaload ETL pipeline...
+2024-12-03 17:19:40,716.716 ERROR: Twitter API client not initialized.
+2024-12-03 17:19:40,716.716 INFO: Fetching GitHub data...
+2024-12-03 17:19:40,716.716 DEBUG: Fetching GitHub starred repositories with params: {'per_page': 10, 'sort': 'created', 'direction': 'desc'}
+2024-12-03 17:19:41,301.301 INFO: No new starred repositories to fetch.
+2024-12-03 17:19:41,302.302 INFO: Fetching Raindrop.io data...
+2024-12-03 17:19:41,302.302 DEBUG: Fetching Raindrop.io bookmarks with params: {'page': 0, 'perpage': 50, 'sort': '-created'}
+2024-12-03 17:19:41,420.420 INFO: No new bookmarks to fetch.
+2024-12-03 17:19:41,421.421 INFO: Transforming data...
+2024-12-03 17:19:41,422.422 INFO: No new data to transform.
+2024-12-03 17:19:41,494.494 DEBUG: Source: github
+2024-12-03 17:19:41,495.495 DEBUG: Most Recent URL: https://github.com/Yushi-Hu/VisualSketchpad
+2024-12-03 17:19:41,495.495 DEBUG: Most Recent Datetime: 2024-06-13 22:00:44+00:00
+2024-12-03 17:19:41,553.553 DEBUG: Source: twitter
+2024-12-03 17:19:41,553.553 DEBUG: Most Recent URL: https://twitter.com/i/web/status/1859499631282913423
+2024-12-03 17:19:41,553.553 DEBUG: Most Recent Datetime: 2024-11-21 07:30:34+00:00
+2024-12-03 17:19:41,752.752 DEBUG: Source: raindrop
+2024-12-03 17:19:41,752.752 DEBUG: Most Recent URL: https://blog.google/products/gemini/google-gems-tips/
+2024-12-03 17:19:41,752.752 DEBUG: Most Recent Datetime: 2024-11-21 09:24:53.391000+00:00
+2024-12-03 17:19:41,755.755 INFO: Deltaload ETL pipeline completed.
+2024-12-03 17:19:56,705.705 INFO: Environment variables loaded successfully.
+2024-12-03 17:19:56,706.706 INFO: Initializing Twitter scraper...
+2024-12-03 17:19:56,706.706 ERROR: Failed to initialize Twitter scraper: __init__() got an unexpected keyword argument 'cookies'
+2024-12-03 17:19:56,706.706 ERROR: Full exception details: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/deltaload.py", line 85, in init_api_clients
+    self.twitter_api = Scraper(cookies={
+TypeError: __init__() got an unexpected keyword argument 'cookies'
+
+2024-12-03 17:19:56,706.706 INFO: Initializing GitHub API client...
+2024-12-03 17:19:57,006.006 INFO: GitHub API client initialized. Logged in as: j-94
+2024-12-03 17:19:57,006.006 INFO: Initializing Raindrop.io API...
+2024-12-03 17:19:57,129.129 INFO: Raindrop.io API headers initialized successfully.
+2024-12-03 17:19:57,130.130 INFO: Starting Deltaload ETL pipeline...
+2024-12-03 17:19:57,130.130 ERROR: Twitter API client not initialized.
+2024-12-03 17:19:57,130.130 INFO: Fetching GitHub data...
+2024-12-03 17:19:57,130.130 DEBUG: Fetching GitHub starred repositories with params: {'per_page': 10, 'sort': 'created', 'direction': 'desc'}
+2024-12-03 17:19:57,838.838 INFO: No new starred repositories to fetch.
+2024-12-03 17:19:57,839.839 INFO: Fetching Raindrop.io data...
+2024-12-03 17:19:57,840.840 DEBUG: Fetching Raindrop.io bookmarks with params: {'page': 0, 'perpage': 50, 'sort': '-created'}
+2024-12-03 17:19:57,958.958 INFO: No new bookmarks to fetch.
+2024-12-03 17:19:57,959.959 INFO: Transforming data...
+2024-12-03 17:19:57,959.959 INFO: No new data to transform.
+2024-12-03 17:19:58,025.025 DEBUG: Source: github
+2024-12-03 17:19:58,025.025 DEBUG: Most Recent URL: https://github.com/Yushi-Hu/VisualSketchpad
+2024-12-03 17:19:58,025.025 DEBUG: Most Recent Datetime: 2024-06-13 22:00:44+00:00
+2024-12-03 17:19:58,082.082 DEBUG: Source: twitter
+2024-12-03 17:19:58,083.083 DEBUG: Most Recent URL: https://twitter.com/i/web/status/1859499631282913423
+2024-12-03 17:19:58,083.083 DEBUG: Most Recent Datetime: 2024-11-21 07:30:34+00:00
+2024-12-03 17:19:58,284.284 DEBUG: Source: raindrop
+2024-12-03 17:19:58,284.284 DEBUG: Most Recent URL: https://blog.google/products/gemini/google-gems-tips/
+2024-12-03 17:19:58,284.284 DEBUG: Most Recent Datetime: 2024-11-21 09:24:53.391000+00:00
+2024-12-03 17:19:58,287.287 INFO: Deltaload ETL pipeline completed.
+2024-12-03 17:20:13,870.870 INFO: Environment variables loaded successfully.
+2024-12-03 17:20:13,870.870 INFO: Initializing Twitter scraper...
+2024-12-03 17:20:13,870.870 ERROR: Failed to initialize Twitter scraper: __init__() got an unexpected keyword argument 'cookies'
+2024-12-03 17:20:13,870.870 ERROR: Full exception details: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/deltaload.py", line 85, in init_api_clients
+    self.twitter_api = Scraper(cookies={
+TypeError: __init__() got an unexpected keyword argument 'cookies'
+
+2024-12-03 17:20:13,870.870 INFO: Initializing GitHub API client...
+2024-12-03 17:20:14,055.055 INFO: GitHub API client initialized. Logged in as: j-94
+2024-12-03 17:20:14,055.055 INFO: Initializing Raindrop.io API...
+2024-12-03 17:20:14,173.173 INFO: Raindrop.io API headers initialized successfully.
+2024-12-03 17:20:14,174.174 INFO: Starting Deltaload ETL pipeline...
+2024-12-03 17:20:14,174.174 ERROR: Twitter API client not initialized.
+2024-12-03 17:20:14,174.174 INFO: Fetching GitHub data...
+2024-12-03 17:20:14,175.175 DEBUG: Fetching GitHub starred repositories with params: {'per_page': 10, 'sort': 'created', 'direction': 'desc'}
+2024-12-03 17:20:14,938.938 INFO: No new starred repositories to fetch.
+2024-12-03 17:20:14,939.939 INFO: Fetching Raindrop.io data...
+2024-12-03 17:20:14,939.939 DEBUG: Fetching Raindrop.io bookmarks with params: {'page': 0, 'perpage': 50, 'sort': '-created'}
+2024-12-03 17:20:15,091.091 INFO: No new bookmarks to fetch.
+2024-12-03 17:20:15,092.092 INFO: Transforming data...
+2024-12-03 17:20:15,092.092 INFO: No new data to transform.
+2024-12-03 17:20:15,162.162 DEBUG: Source: github
+2024-12-03 17:20:15,163.163 DEBUG: Most Recent URL: https://github.com/Yushi-Hu/VisualSketchpad
+2024-12-03 17:20:15,163.163 DEBUG: Most Recent Datetime: 2024-06-13 22:00:44+00:00
+2024-12-03 17:20:15,220.220 DEBUG: Source: twitter
+2024-12-03 17:20:15,220.220 DEBUG: Most Recent URL: https://twitter.com/i/web/status/1859499631282913423
+2024-12-03 17:20:15,220.220 DEBUG: Most Recent Datetime: 2024-11-21 07:30:34+00:00
+2024-12-03 17:20:15,419.419 DEBUG: Source: raindrop
+2024-12-03 17:20:15,419.419 DEBUG: Most Recent URL: https://blog.google/products/gemini/google-gems-tips/
+2024-12-03 17:20:15,419.419 DEBUG: Most Recent Datetime: 2024-11-21 09:24:53.391000+00:00
+2024-12-03 17:20:15,422.422 INFO: Deltaload ETL pipeline completed.
+2024-12-03 17:20:48,714.714 INFO: Environment variables loaded successfully.
+2024-12-03 17:20:48,714.714 INFO: Initializing Twitter scraper...
+2024-12-03 17:20:48,714.714 ERROR: Failed to initialize Twitter scraper: __init__() got an unexpected keyword argument 'cookies'
+2024-12-03 17:20:48,714.714 ERROR: Full exception details: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/deltaload.py", line 85, in init_api_clients
+    self.twitter_api = Scraper(cookies={
+TypeError: __init__() got an unexpected keyword argument 'cookies'
+
+2024-12-03 17:20:48,714.714 INFO: Initializing GitHub API client...
+2024-12-03 17:20:48,952.952 INFO: GitHub API client initialized. Logged in as: j-94
+2024-12-03 17:20:48,952.952 INFO: Initializing Raindrop.io API...
+2024-12-03 17:20:49,159.159 INFO: Raindrop.io API headers initialized successfully.
+2024-12-03 17:20:49,160.160 INFO: Starting Deltaload ETL pipeline...
+2024-12-03 17:20:49,160.160 ERROR: Twitter API client not initialized.
+2024-12-03 17:20:49,160.160 INFO: Fetching GitHub data...
+2024-12-03 17:20:49,161.161 DEBUG: Fetching GitHub starred repositories with params: {'per_page': 10, 'sort': 'created', 'direction': 'desc'}
+2024-12-03 17:20:49,859.859 INFO: No new starred repositories to fetch.
+2024-12-03 17:20:49,860.860 INFO: Fetching Raindrop.io data...
+2024-12-03 17:20:49,860.860 DEBUG: Fetching Raindrop.io bookmarks with params: {'page': 0, 'perpage': 50, 'sort': '-created'}
+2024-12-03 17:20:50,042.042 INFO: No new bookmarks to fetch.
+2024-12-03 17:20:50,043.043 INFO: Transforming data...
+2024-12-03 17:20:50,043.043 INFO: No new data to transform.
+2024-12-03 17:20:50,112.112 DEBUG: Source: github
+2024-12-03 17:20:50,113.113 DEBUG: Most Recent URL: https://github.com/Yushi-Hu/VisualSketchpad
+2024-12-03 17:20:50,113.113 DEBUG: Most Recent Datetime: 2024-06-13 22:00:44+00:00
+2024-12-03 17:20:50,170.170 DEBUG: Source: twitter
+2024-12-03 17:20:50,170.170 DEBUG: Most Recent URL: https://twitter.com/i/web/status/1859499631282913423
+2024-12-03 17:20:50,170.170 DEBUG: Most Recent Datetime: 2024-11-21 07:30:34+00:00
+2024-12-03 17:20:50,369.369 DEBUG: Source: raindrop
+2024-12-03 17:20:50,369.369 DEBUG: Most Recent URL: https://blog.google/products/gemini/google-gems-tips/
+2024-12-03 17:20:50,369.369 DEBUG: Most Recent Datetime: 2024-11-21 09:24:53.391000+00:00
+2024-12-03 17:20:50,372.372 INFO: Deltaload ETL pipeline completed.
+2024-12-03 17:57:37,590.590 INFO: Environment variables loaded successfully.
+2024-12-03 17:57:37,590.590 INFO: Initializing Twitter scraper...
+2024-12-03 17:57:37,590.590 ERROR: Failed to initialize Twitter scraper: __init__() got an unexpected keyword argument 'cookies'
+2024-12-03 17:57:37,590.590 ERROR: Full exception details: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/deltaload.py", line 85, in init_api_clients
+    self.twitter_api = Scraper(cookies={
+TypeError: __init__() got an unexpected keyword argument 'cookies'
+
+2024-12-03 17:57:37,590.590 INFO: Initializing GitHub API client...
+2024-12-03 17:57:37,787.787 INFO: GitHub API client initialized. Logged in as: j-94
+2024-12-03 17:57:37,787.787 INFO: Initializing Raindrop.io API...
+2024-12-03 17:57:37,960.960 INFO: Raindrop.io API headers initialized successfully.
+2024-12-03 17:57:37,961.961 INFO: Starting Deltaload ETL pipeline...
+2024-12-03 17:57:37,961.961 ERROR: Twitter API client not initialized.
+2024-12-03 17:57:37,961.961 INFO: Fetching GitHub data...
+2024-12-03 17:57:37,963.963 DEBUG: Fetching GitHub starred repositories with params: {'per_page': 10, 'sort': 'created', 'direction': 'desc'}
+2024-12-03 17:57:38,585.585 INFO: No new starred repositories to fetch.
+2024-12-03 17:57:38,586.586 INFO: Fetching Raindrop.io data...
+2024-12-03 17:57:38,586.586 DEBUG: Fetching Raindrop.io bookmarks with params: {'page': 0, 'perpage': 50, 'sort': '-created'}
+2024-12-03 17:57:38,747.747 INFO: No new bookmarks to fetch.
+2024-12-03 17:57:38,748.748 INFO: Transforming data...
+2024-12-03 17:57:38,749.749 INFO: No new data to transform.
+2024-12-03 17:57:38,820.820 DEBUG: Source: github
+2024-12-03 17:57:38,820.820 DEBUG: Most Recent URL: https://github.com/Yushi-Hu/VisualSketchpad
+2024-12-03 17:57:38,820.820 DEBUG: Most Recent Datetime: 2024-06-13 22:00:44+00:00
+2024-12-03 17:57:38,880.880 DEBUG: Source: twitter
+2024-12-03 17:57:38,880.880 DEBUG: Most Recent URL: https://twitter.com/i/web/status/1859499631282913423
+2024-12-03 17:57:38,880.880 DEBUG: Most Recent Datetime: 2024-11-21 07:30:34+00:00
+2024-12-03 17:57:39,084.084 DEBUG: Source: raindrop
+2024-12-03 17:57:39,084.084 DEBUG: Most Recent URL: https://blog.google/products/gemini/google-gems-tips/
+2024-12-03 17:57:39,084.084 DEBUG: Most Recent Datetime: 2024-11-21 09:24:53.391000+00:00
+2024-12-03 17:57:39,087.087 INFO: Deltaload ETL pipeline completed.
+2024-12-03 18:29:03,442.442 ERROR: Error loading environment variables: name 'load_dotenv' is not defined
+2024-12-03 18:29:03,442.442 ERROR: Initialization failed: name 'load_dotenv' is not defined
+2024-12-03 18:29:03,442.442 ERROR: Traceback (most recent call last):
+  File "/Users/jobs/Desktop/deltaload/deltaload.py", line 19, in __init__
+    self.load_env_variables()
+  File "/Users/jobs/Desktop/deltaload/deltaload.py", line 41, in load_env_variables
+    load_dotenv()
+NameError: name 'load_dotenv' is not defined
+
