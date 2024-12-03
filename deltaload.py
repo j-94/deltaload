@@ -11,24 +11,15 @@ from github import Github
 from twitter.scraper import Scraper
 from collections import defaultdict
 
-# Configure logging for debugging
-logging.basicConfig(
-    level=logging.DEBUG,  # Set to DEBUG to capture all levels of log messages
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler('debug.log', mode='w'),  # Overwrite log file each run
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
-
 class DeltaLoadETL:
     def __init__(self):
         self.staging_dir = Path("data/staging")
         self.processed_dir = Path("data/processed")
-        self.last_run_file = self.staging_dir / "last_run.json"
+        self.last_run_file = self.processed_dir / "last_run.json"
         self.staging_dir.mkdir(parents=True, exist_ok=True)
         self.processed_dir.mkdir(parents=True, exist_ok=True)
+        
+        self.setup_logging()
         
         try:
             self.load_env_variables()
@@ -37,6 +28,28 @@ class DeltaLoadETL:
             logger.error(f"Initialization failed: {e}")
             logger.error(traceback.format_exc())
             raise
+
+    def setup_logging(self):
+        # Create a logger with a unique filename based on timestamp
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        log_filename = f'logs/deltaload_{timestamp}.log'
+        
+        # Ensure logs directory exists
+        os.makedirs('logs', exist_ok=True)
+        
+        # Configure logging to write to file and console
+        logging.basicConfig(
+            level=logging.INFO,
+            format='%(asctime)s.%(msecs)03d %(levelname)s: %(message)s',
+            datefmt='%Y-%m-%d %H:%M:%S',
+            handlers=[
+                logging.FileHandler(log_filename, mode='w'),
+                logging.StreamHandler()
+            ]
+        )
+        
+        global logger
+        logger = logging.getLogger(__name__)
 
     def load_env_variables(self):
         from dotenv import load_dotenv
@@ -63,7 +76,6 @@ class DeltaLoadETL:
         self.github_token = os.getenv('GITHUB_TOKEN')
         self.github_username = os.getenv('GITHUB_USERNAME')
         self.raindrop_token = os.getenv('RAINDROP_ACCESS_TOKEN')
-        
         logger.info("Environment variables loaded successfully.")
 
     def init_api_clients(self):
@@ -131,73 +143,130 @@ class DeltaLoadETL:
         except Exception as e:
             logger.error(f"Error saving last run data: {e}")
 
+    def get_last_processed_tweet(self):
+        """Retrieve the last processed tweet from previous run data."""
+        try:
+            # Try to read from last_run.json
+            with open(self.processed_dir / 'last_run.json', 'r') as f:
+                last_run_data = json.load(f)
+                
+            # Extract last processed tweet information
+            last_processed_tweet = {
+                "id": last_run_data.get('last_processed_tweet_id', 0),
+                "created_at": last_run_data.get('last_processed_time', '2000-01-01T00:00:00+00:00'),
+                "url": last_run_data.get('last_processed_tweet_url', '')
+            }
+            
+            logger.info(f"Retrieved last processed tweet from file: {last_processed_tweet}")
+            return last_processed_tweet
+        
+        except FileNotFoundError:
+            # Hardcoded default tweet when no previous run data exists
+            default_tweet = {
+                "id": 1859499631282913423,  # Specific tweet ID from a known tweet
+                "created_at": "2024-11-21 07:30:34+00:00",  # Specific timestamp
+                "url": "https://twitter.com/i/web/status/1859499631282913423"  # Corresponding tweet URL
+            }
+            
+            logger.warning("No last_run.json found. Using hardcoded default tweet.")
+            logger.info(f"Default tweet: {default_tweet}")
+            return default_tweet
+        
+        except Exception as e:
+            # Fallback to hardcoded default if any other error occurs
+            logger.error(f"Error reading last processed tweet: {e}")
+            
+            default_tweet = {
+                "id": 1859499631282913423,  # Specific tweet ID from a known tweet
+                "created_at": "2024-11-21 07:30:34+00:00",  # Specific timestamp
+                "url": "https://twitter.com/i/web/status/1859499631282913423"  # Corresponding tweet URL
+            }
+            
+            logger.warning("Using hardcoded default tweet due to error.")
+            logger.info(f"Default tweet: {default_tweet}")
+            return default_tweet
+
     def fetch_twitter_data(self):
-        """Fetch most recent tweets and likes from Twitter with minimal batch retrieval."""
         if not self.twitter_api:
             logger.error("Twitter API client not initialized.")
             return None
 
-        # Load last run data to get the last processed timestamp
         try:
-            last_run_data = self.get_last_run_data()
-            last_processed_time = last_run_data.get('last_processed_time')
-        except Exception as e:
-            logger.warning(f"Could not retrieve last run data: {e}")
-            last_processed_time = None
-
-        try:
-            # Fetch tweets with minimal retrieval
-            logger.info("Fetching Twitter tweets and replies...")
+            logger.info("Fetching Twitter tweets and likes...")
+            
+            # Get tweets
             tweets = []
-            tweet_iterator = self.twitter_api.tweets_and_replies(count=1)  # Retrieve just 1 tweet
-            
+            tweet_iterator = self.twitter_api.tweets_and_replies(
+                user_ids=[self.twitter_user_id],
+                limit=50
+            )
             for tweet in tweet_iterator:
-                # Check last processed time
-                tweet_time = datetime.fromisoformat(tweet['created_at'])
-                if last_processed_time:
-                    last_processed_datetime = datetime.fromisoformat(last_processed_time)
-                    if tweet_time <= last_processed_datetime:
-                        break
-                
-                tweets.append(tweet)
-                break  # Ensure only 1 tweet is retrieved
-            
-            logger.info(f"Fetched {len(tweets)} new tweets.")
+                if tweet and 'tweet' in tweet:
+                    tweets.append(tweet['tweet'])
+            logger.info(f"Fetched {len(tweets)} tweets")
 
-            # Fetch likes with minimal retrieval
-            logger.info("Fetching Twitter likes...")
+            # Get likes
             likes = []
-            likes_iterator = self.twitter_api.likes(count=1)  # Retrieve just 1 like
-            
-            for like in likes_iterator:
-                # Check last processed time
-                like_time = datetime.fromisoformat(like['created_at'])
-                if last_processed_time:
-                    last_processed_datetime = datetime.fromisoformat(last_processed_time)
-                    if like_time <= last_processed_datetime:
-                        break
-                
-                likes.append(like)
-                break  # Ensure only 1 like is retrieved
-            
-            logger.info(f"Fetched {len(likes)} new likes.")
+            like_iterator = self.twitter_api.likes(
+                user_ids=[self.twitter_user_id],
+                limit=30
+            )
+            for like in like_iterator:
+                if like and 'tweet' in like:
+                    likes.append(like['tweet'])
+            logger.info(f"Fetched {len(likes)} likes")
 
-            # Update last processed time to the most recent tweet/like time
-            if tweets or likes:
-                all_items = tweets + likes
-                most_recent_time = max(
-                    datetime.fromisoformat(item['created_at']) 
-                    for item in all_items
-                )
-                last_run_data['last_processed_time'] = most_recent_time.isoformat()
-                self.save_last_run_data(last_run_data)
-
-            return {
-                'tweets_and_replies': tweets,
+            # Return the data
+            twitter_data = {
+                'tweets': tweets,
                 'likes': likes
             }
+
+            return twitter_data
+
         except Exception as e:
             logger.error(f"Error fetching Twitter data: {e}")
+            logger.error(f"Full exception details: {traceback.format_exc()}")
+            return None
+
+    def test_twitter_batch_scraping(self):
+        """Test Twitter batch scraping methods."""
+        if not self.twitter_api:
+            logger.error("Twitter API client not initialized.")
+            return None
+
+        try:
+            # Test batch tweet retrieval
+            test_tweet_ids = [
+                1859499631282913423,  # Last processed tweet ID
+                1850000000000000000,  # Example additional tweet ID
+            ]
+            
+            logger.info("Testing batch tweet retrieval...")
+            batch_tweets = self.twitter_api.tweets(test_tweet_ids)
+            logger.info(f"Retrieved {len(batch_tweets)} tweets in batch.")
+            
+            for tweet in batch_tweets:
+                logger.info(f"Batch Tweet Details: {tweet.get('id', 'N/A')}, Created at: {tweet.get('created_at', 'N/A')}")
+            
+            # Test batch user retrieval (if applicable)
+            try:
+                test_user_ids = [self.twitter_user_id]  # Use the authenticated user's ID
+                batch_users = self.twitter_api.users([test_user_ids])
+                logger.info(f"Retrieved {len(batch_users)} users in batch.")
+                
+                for user in batch_users:
+                    logger.info(f"Batch User Details: {user.get('id', 'N/A')}, Username: {user.get('username', 'N/A')}")
+            except Exception as user_error:
+                logger.warning(f"User batch retrieval failed: {user_error}")
+            
+            return {
+                'batch_tweets': batch_tweets,
+                'batch_users': batch_users if 'batch_users' in locals() else []
+            }
+        
+        except Exception as e:
+            logger.error(f"Error in batch Twitter scraping test: {e}")
             logger.error(f"Full exception details: {traceback.format_exc()}")
             return None
 
@@ -217,30 +286,34 @@ class DeltaLoadETL:
         last_starred_at = last_run.get('github_last_starred_at')
         new_stars = []
         try:
-            user = self.github_api.get_user(self.github_username)
-            starred_repos = user.get_starred()
-            logger.debug("Retrieved starred repositories.")
-            for repo in starred_repos:
-                starred_at = repo.starred_at
-                if last_starred_at and starred_at <= datetime.fromisoformat(last_starred_at):
-                    logger.debug("No new starred repositories found.")
+            url = 'https://api.github.com/user/starred'
+            params = {
+                'per_page': 10,  # Limit to 10 starred repositories
+                'sort': 'created',
+                'direction': 'desc'
+            }
+            logger.debug(f"Fetching GitHub starred repositories with params: {params}")
+            response = requests.get(url, params=params, headers={'Authorization': f'token {self.github_token}'})
+            response.raise_for_status()
+            for star in response.json():
+                # Stop if we've reached the last starred repository
+                if last_starred_at and star['created_at'] <= last_starred_at:
                     break
+                
                 star_data = {
-                    'id': str(repo.id),
-                    'created_at': starred_at.isoformat(),
-                    'name': repo.name,
-                    'full_name': repo.full_name,
-                    'description': repo.description,
-                    'url': repo.html_url,
+                    'id': str(star['id']),
+                    'name': star['full_name'],
+                    'description': star.get('description', ''),
+                    'url': star['html_url'],
+                    'created_at': star['created_at'],
+                    'language': star.get('language'),
                     'source': 'github',
-                    'type': 'star',
-                    'metadata': {
-                        'language': repo.language,
-                        'stars': repo.stargazers_count
-                    }
+                    'type': 'star'
                 }
                 new_stars.append(star_data)
+            
             if new_stars:
+                # Update last starred at to the most recent star
                 last_run['github_last_starred_at'] = new_stars[0]['created_at']
                 logger.info(f"Fetched {len(new_stars)} new starred repositories.")
                 self.save_to_staging('github', 'stars', new_stars)
@@ -255,48 +328,42 @@ class DeltaLoadETL:
         last_run = self.get_last_run_data()
         last_bookmark_id = last_run.get('raindrop_last_bookmark_id')
         new_bookmarks = []
-        page = 0
         try:
-            while True:
-                url = 'https://api.raindrop.io/rest/v1/raindrops/0'
-                params = {
-                    'page': page,
-                    'perpage': 50,
-                    'sort': '-created'
-                }
-                logger.debug(f"Fetching Raindrop.io bookmarks with params: {params}")
-                response = requests.get(url, headers=self.raindrop_headers, params=params)
-                response.raise_for_status()
-                data = response.json()
-                items = data.get('items', [])
-                if not items:
-                    logger.debug("No more bookmarks to fetch.")
+            url = 'https://api.raindrop.io/rest/v1/raindrops/0'
+            params = {
+                'page': 0,  # Always fetch first page
+                'perpage': 50,  # Limit to 50 bookmarks
+                'sort': '-created'
+            }
+            logger.debug(f"Fetching Raindrop.io bookmarks with params: {params}")
+            response = requests.get(url, headers=self.raindrop_headers, params=params)
+            response.raise_for_status()
+            data = response.json()
+            items = data.get('items', [])
+            
+            for item in items:
+                # Stop if we've reached the last fetched bookmark
+                if last_bookmark_id and str(item['_id']) == last_bookmark_id:
                     break
-                for item in items:
-                    if last_bookmark_id and str(item['_id']) == last_bookmark_id:
-                        logger.debug("Reached last fetched bookmark.")
-                        break
-                    bookmark_data = {
-                        'id': str(item['_id']),
-                        'created_at': item['created'],
-                        'title': item['title'],
-                        'excerpt': item.get('excerpt', ''),
-                        'url': item['link'],
-                        'source': 'raindrop',
-                        'type': 'bookmark',
-                        'metadata': {
-                            'tags': item.get('tags', []),
-                            'collection': item.get('collection', {}).get('title', '')
-                        }
+                
+                bookmark_data = {
+                    'id': str(item['_id']),
+                    'created_at': item['created'],
+                    'title': item['title'],
+                    'excerpt': item.get('excerpt', ''),
+                    'url': item['link'],
+                    'source': 'raindrop',
+                    'type': 'bookmark',
+                    'metadata': {
+                        'tags': item.get('tags', []),
+                        'collection': item.get('collection', {}).get('title', '')
                     }
-                    new_bookmarks.append(bookmark_data)
-                if items and str(items[0]['_id']) != last_bookmark_id:
-                    last_run['raindrop_last_bookmark_id'] = str(items[0]['_id'])
-                    logger.debug(f"Updated last bookmark ID to {items[0]['_id']}")
-                else:
-                    break
-                page += 1
+                }
+                new_bookmarks.append(bookmark_data)
+            
             if new_bookmarks:
+                # Update last bookmark ID to the most recent one
+                last_run['raindrop_last_bookmark_id'] = str(items[0]['_id'])
                 logger.info(f"Fetched {len(new_bookmarks)} new bookmarks.")
                 self.save_to_staging('raindrop', 'bookmarks', new_bookmarks)
                 self.save_last_run_data(last_run)
@@ -352,7 +419,27 @@ class DeltaLoadETL:
                 entries_by_source[source].append(obj)
 
         # Function to parse datetime strings
-        parse_datetime = lambda dt_str: datetime.strptime(dt_str, '%Y-%m-%dT%H:%M:%S')
+        def parse_datetime(dt_str):
+            if not dt_str:
+                return None
+            
+            try:
+                from dateutil.parser import parse
+                # Use dateutil to parse various datetime formats
+                parsed_dt = parse(dt_str)
+                
+                # Normalize to UTC if timezone is not specified
+                if parsed_dt.tzinfo is None:
+                    from dateutil.tz import tzutc
+                    parsed_dt = parsed_dt.replace(tzinfo=tzutc())
+                
+                return parsed_dt
+            except ImportError:
+                logger.error("dateutil not installed. Falling back to basic parsing.")
+                raise
+            except Exception as e:
+                logger.error(f"Failed to parse datetime '{dt_str}': {e}")
+                return None
 
         # Check recent entries by source
         for source, entries in entries_by_source.items():
