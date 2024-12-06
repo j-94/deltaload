@@ -50,16 +50,16 @@ class DeltaLoadETL:
             load_dotenv()
             
             # Required environment variables
-            self.github_token = os.getenv('GITHUB_TOKEN')
-            self.raindrop_token = os.getenv('RAINDROP_ACCESS_TOKEN')
+            self.github_token = os.getenv('GH_TOKEN')
+            self.raindrop_token = os.getenv('RAINDROP_TOKEN')
             self.twitter_user_id = os.getenv('TWITTER_USER_ID')
             self.twitter_ct0 = os.getenv('TWITTER_CT0')
             self.twitter_auth_token = os.getenv('TWITTER_AUTH_TOKEN')
             
             # Validate required environment variables
             required_vars = {
-                'GITHUB_TOKEN': self.github_token,
-                'RAINDROP_ACCESS_TOKEN': self.raindrop_token,
+                'GH_TOKEN': self.github_token,
+                'RAINDROP_TOKEN': self.raindrop_token,
                 'TWITTER_USER_ID': self.twitter_user_id,
                 'TWITTER_CT0': self.twitter_ct0,
                 'TWITTER_AUTH_TOKEN': self.twitter_auth_token

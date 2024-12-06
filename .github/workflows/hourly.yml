@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GH_TOKEN }}
         fetch-depth: 1
     
     - name: Set up Python
@@ -29,16 +29,18 @@ jobs:
         
     - name: Run deltaload
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
         RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
-        TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+        TWITTER_USER_ID: ${{ secrets.TWITTER_USER_ID }}
+        TWITTER_CT0: ${{ secrets.TWITTER_CT0 }}
+        TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
       run: |
         python deltaload.py
         
     - name: Update data file
       uses: actions/github-script@v7
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secrets.GH_TOKEN }}
         script: |
           const fs = require('fs');
           const path = require('path');
