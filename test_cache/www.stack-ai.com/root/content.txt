@@ -1,0 +1,189 @@
+Augment
+
+your workforce withAI Agents
+
+.
+
+Outsource
+
+back office processes toLLMs
+
+.
+
+Make your organization
+
+smarter
+
+.
+
+### Platform
+
+A Versatile and Powerful  
+Interface to Deploy AI Agents
+--------------------------------------------------------
+
+Your browser does not support the video tag.
+
+No Coding Required
+
+Build AI applications effortlessly with our drag-and-drop interface. Deploy with **customizable UIs** or ready-to-use **API endpoints**.
+
+Pre-built Use Cases
+
+Leverage our extensive library of **Templates** inspired by real use cases. Achieve immediate results and customize to your needs.
+
+Enterprise-Grade Security
+
+Stack AI is **SOC2**, **HIPAA**, and **GDPR** compliant, and has DPAs signed with the main AI providers, such as Anthropic and OpenAI.
+
+On-Premise Deployment
+
+Stack AI can be **self-hosted on your own servers or VPC (Virtual Private Cloud)**, giving you complete control over your data.
+
+### Use Cases
+
+Enterprise-Grade  
+AI solutions for your Organization
+-----------------------------------------------------
+
+Your browser does not support the video tag.
+
+Personalized staff training & development
+
+Load your company knowledge base and generate personalized onboarding sessions for new employees.
+
+[Learn more](https://www.stack-ai.com/solutions/assistants)
+
+Assist clinical support with a custom AI copilot
+
+Suggest resources for treatment and diagnoses based on EHR data and internal knowledge bases.
+
+[Learn more](https://www.stack-ai.com/solutions/healthcare)
+
+Automated classrooms and tutoring
+
+Use AI to chat with your students and help them understand material and assignments.
+
+[Learn more](https://www.stack-ai.com/solutions/education)
+
+### Access State-of-the-Art AI Models
+
+#### Enterprise-grade security and privacy
+
+### Secure AI applications for every Enterprise
+
+We prioritize security and privacy for your company. Ensure safe connectivity with your databases, while maintaining stringent controls over data processing.
+
+Dedicated Infrastructure.
+
+AI models run with the highest levels of privacy and security with Azure OpenAI and AWS Bedrock.
+
+No Training on your Data.
+
+We ensure that your data is not used for training AI models through data processing addendums (DPAs).
+
+Data Encryption.
+
+All your data is secured using AES-256 encryption protocol at rest and in transit (TLS 1.3.).
+
+Custom SSO.
+
+Connect your Identity Provider to enable login and role-mapping through SAML protocol.
+
+Data Retention Policies.
+
+You have the control to set data retention durations, allowing you to decide how long we retain your data.
+
+Vulnerability & Threat Tracking.
+
+Vulnerabilities and threats tracked to resolution, with scans performed on a regular basis.
+
+Certifications
+
+
+----------------
+
+#### Data loaders
+
+### Connect with your Data, wherever it sits...
+
+Seamlessly connect to your data using our suite of integrations with popular data storage solutions such as **AWS S3**, **Sharepoint**, **OneDrive**, **Snowflake**, **Azure**, and many more...
+
+### Testimonials
+
+#### We are working with amazing companies
+
+> “Stack AI has been an invaluable resource in piloting and collaborating around complex LLM projects. The support from the leadership team has also helped accelerate development.”
+
+![Image 98: Michael Carvin, CEO of SmartAsset](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmichael-carvin.b9447e6f.jpeg&w=384&q=75)![Image 99: SmartAsset company logo](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsmartasset.09cc537b.png&w=384&q=75)
+
+> “Since we began using Stack AI, the productivity gains have been remarkable. The ability to effortlessly create complex logic has been a game-changer for us.”
+
+![Image 100: Yarden Shaked, CEO of Varos](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fyarden-shaked.a3ab365d.jpeg&w=384&q=75)
+
+Yarden Shaked
+
+CEO
+
+![Image 101: Varos company logo](https://www.stack-ai.com/_next/static/media/varos.b925b0ee.svg)
+
+> “Stack AI's support was instrumental in launching our first AI use cases in the platform, marking a significant milestone in our journey towards embracing Generative AI.”
+
+![Image 102: Vicente Zavarce, CEO of Yummy](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvicente-zavarce.f0d96789.avif&w=384&q=75)
+
+Vicente Zavarce
+
+CEO
+
+![Image 103: Yummy company logo](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fyummy.04be4916.png&w=384&q=75)
+
+> “Stack AI is in a league of their own in terms of LLM workflow building capabilities and deployment options. StackAI has literally been a superpower for our team!”
+
+![Image 104: Matthew Kahn, President of The Institutes](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmatthew-kahn.5bb3f26e.jpeg&w=384&q=75)
+
+Matthew Kahn
+
+President
+
+![Image 105: The Institutes company logo](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fthe-institutes.fbbf1b96.jpeg&w=384&q=75)
+
+> “Using StackAI has been a game-changer. Simple to use, effective results. Our team at Truewind is genuinely impressed. Highly recommended.”
+
+![Image 106: Tennison Chan, CTO of Truewind](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftennison-chan.facd598c.jpeg&w=384&q=75)
+
+Tennison Chan
+
+CTO
+
+![Image 107: Truewind company logo](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftruewind.c6deb187.png&w=384&q=75)
+
+> “Potential of Gen AI in Education is huge, and Stack AI bridges the technical gap. We are powering entrepreneurial courses with Stack AI and students are loving it!”
+
+![Image 108: Doug Williams, Gen AI Product Lead of MTC](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdoug-williams.c89d0414.jpeg&w=384&q=75)
+
+Doug Williams
+
+Gen AI Product Lead
+
+![Image 109: MTC company logo](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmartin-trust-center.52d60188.png&w=384&q=75)
+
+> “We are deeply impressed with the Stack AI environment and have been utilizing it in various initiatives. Since October last year, at Yamanashi University, we have been providing a chat function created with Stack AI for internal use, ensuring a safe and secure environment for faculty and staff. ”
+
+![Image 110: Masanori Hanawa, Professor of University of Yamanashi](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmasanori-hanawa.d0f901f1.jpeg&w=384&q=75)
+
+Masanori Hanawa
+
+Professor
+
+![Image 111: University of Yamanashi company logo](https://www.stack-ai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Funiversity-of-yamanashi-letters.c785e37b.jpeg&w=384&q=75)
+
+### Backed by Visionaries
+
+![Image 112: Y Combinator](https://www.stack-ai.com/_next/image?url=%2Finvestors%2Fycombinator%2Fy-combinator-logo.webp&w=640&q=75)
+
+![Image 113: Soma Capital](https://www.stack-ai.com/_next/image?url=%2Finvestors%2Fsoma%2Fsoma_inline.png&w=384&q=75)
+
+A plan to fit your needs
+------------------------
+
+Deploy secure and powerful AI applications in minutes

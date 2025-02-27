@@ -1,0 +1,75 @@
+---
+title: RepoCloud | Browse App Marketplace
+description: 
+url: https://repocloud.io/?ref=producthunt
+timestamp: 2025-01-20T15:54:52.380Z
+domain: repocloud.io
+path: root
+---
+
+# RepoCloud | Browse App Marketplace
+
+
+
+## Content
+
+[![Image 44: Image Description](https://repocloud.io/static/apps/chatwoot/assets/thumbnail.png) #### Chatwoot Unleash the power of Chatwoot, the open-source superhero in the world of customer experience! This platform is perfect for businesses craving to connect... Deploy](https://repocloud.io/details/?app_id=202)
+
+[![Image 45: Image Description](https://repocloud.io/static/apps/automatisch/assets/thumbnail.png) #### Automatisch Say 'auf wiedersehen' to manual drudgery and 'hallo' to Automatisch, the open-source savior that's giving Zapier a run for its money. This nifty tool is... Deploy](https://repocloud.io/details/?app_id=251)
+
+[![Image 46: Image Description](https://repocloud.io/static/apps/openhands/assets/thumbnail.png) #### OpenHands Introducing OpenHands, the AI-powered sidekick you never knew you needed! Imagine having a virtual assistant that not only fetches your coffee (if only it... Deploy](https://repocloud.io/details/?app_id=307)
+
+[![Image 47: Image Description](https://repocloud.io/static/apps/anything-llm/assets/thumbnail3.png) #### AnythingLLM Ever wished your documents could talk back to you? Meet AnythingLLM, the chatty AI app that turns your boring docs into lively conversationalists! Imagine... Deploy](https://repocloud.io/details/?app_id=276)
+
+[![Image 48: Image Description](https://repocloud.io/static/apps/answer/assets/thumbnail.png) #### Answer Get ready to turbocharge your Q&A game with Answer, the open-source oracle that turns your community's curiosity into a knowledge fest! Picture this: a... Deploy](https://repocloud.io/details/?app_id=104)
+
+[![Image 49: Image Description](https://repocloud.io/static/apps/nocodb/assets/thumbnail.png) #### NocoDB Step right up to the magical world of NocoDB, where your databases don whimsical hats and turn into super-smart spreadsheets! Think of it as the... Deploy](https://repocloud.io/details/?app_id=100)
+
+[![Image 50: Image Description](https://repocloud.io/static/apps/calcom/assets/thumbnail.png) #### Calcom Get ready to bid farewell to the headache of juggling multiple calendars and say hello to Cal.com – the scheduling ninja that's about to become your new... Deploy](https://repocloud.io/details/?app_id=97)
+
+[![Image 51: Image Description](https://repocloud.io/static/apps/n8n/assets/thumbnail.png) #### n8n Imagine crafting intricate automations with the speed of a ninja, minus the hassle of grappling with code. n8n is your digital wizard, conjuring up... Deploy](https://repocloud.io/details/?app_id=85)
+
+[![Image 52: Image Description](https://repocloud.io/static/apps/postiz/assets/thumbnail.png) #### Postiz Introducing Postiz, the social media scheduling tool that’s like having a personal assistant who never takes a coffee break! Tired of posting at the wrong... Deploy](https://repocloud.io/details/?app_id=335)
+
+[![Image 53: Image Description](https://repocloud.io/static/apps/odoo/assets/thumbnail.png) #### Odoo Get ready to give your business operations a dose of digital steroids with Odoo! Imagine a Swiss Army knife, but for your company's digital needs. Odoo... Deploy](https://repocloud.io/details/?app_id=216)
+
+[![Image 54: Image Description](https://repocloud.io/static/apps/kestra/assets/thumbnail2.png) #### Kestra Welcome to the world of event-driven orchestration, where your workflows can finally stop throwing tantrums and start behaving like well-trained puppies!... Deploy](https://repocloud.io/details/?app_id=332)
+
+[![Image 55: Image Description](https://repocloud.io/static/apps/teable/assets/thumbnail.png) #### Teable Meet Teable: the no-code, high-octane database app where Postgres does the heavy lifting so you don't have to! Imagine a spreadsheet with superpowers—edit... Deploy](https://repocloud.io/details/?app_id=273)
+
+[![Image 56: Image Description](https://repocloud.io/static/apps/pocketbase/assets/thumbnail.png) #### PocketBase Get ready to turbocharge your next digital masterpiece with PocketBase, the Swiss Army knife of backends! This bad boy is like a genie in a bottle for... Deploy](https://repocloud.io/details/?app_id=129)
+
+[![Image 57: Image Description](https://repocloud.io/static/apps/perplexica/assets/thumbnail.png) #### Perplexica Meet Perplexica, the brainy AI search engine that doesn't just find answers; it practically reads your mind! Powered by the wizardry of advanced machine... Deploy](https://repocloud.io/details/?app_id=267)
+
+[![Image 58: Image Description](https://repocloud.io/static/apps/idurar/assets/thumbnail.png) #### iDURAR Meet IDURAR, the Swiss Army knife of ERP/CRM solutions, but without the risk of accidentally stabbing yourself. Imagine having the power of Invoice,... Deploy](https://repocloud.io/details/?app_id=295)
+
+[![Image 59: Image Description](https://repocloud.io/static/apps/formbricks/assets/thumbnail.png) #### Formbricks Unleash the power of public opinion with Formbricks, the open-source survey maestro that won't cost you a dime! Engage with your audience through stunning... Deploy](https://repocloud.io/details/?app_id=254)
+
+[![Image 60: Image Description](https://repocloud.io/static/apps/activepieces/assets/thumbnail.png) #### Activepieces Get ready to turbocharge your productivity with Activepieces, the open-source superhero of business automation! Imagine a world where you don't need to be... Deploy](https://repocloud.io/details/?app_id=177)
+
+[![Image 61: Image Description](https://repocloud.io/static/apps/flowise/assets/thumbnail.png) #### Flowise Get ready to ride the Flowise wave, the open-source UI magician that transforms the daunting task of crafting Large Language Models into a walk in the... Deploy](https://repocloud.io/details/?app_id=29)
+
+*   [](https://repocloud.io/?page=1)
+*   [1](https://repocloud.io/?ref=producthunt#)
+*   [2](https://repocloud.io/?page=2)
+*   [3](https://repocloud.io/?page=3)
+*   [4](https://repocloud.io/?page=4)
+*   [5](https://repocloud.io/?page=5)
+*   [...](https://repocloud.io/?ref=producthunt#)
+*   [11](https://repocloud.io/?page=11)
+*   [12](https://repocloud.io/?page=12)
+[Next](https://repocloud.io/?page=2)
+
+## Metadata
+
+```json
+{
+  "title": "RepoCloud | Browse App Marketplace",
+  "description": "",
+  "url": "https://repocloud.io/?ref=producthunt",
+  "content": "[![Image 44: Image Description](https://repocloud.io/static/apps/chatwoot/assets/thumbnail.png) #### Chatwoot Unleash the power of Chatwoot, the open-source superhero in the world of customer experience! This platform is perfect for businesses craving to connect... Deploy](https://repocloud.io/details/?app_id=202)\n\n[![Image 45: Image Description](https://repocloud.io/static/apps/automatisch/assets/thumbnail.png) #### Automatisch Say 'auf wiedersehen' to manual drudgery and 'hallo' to Automatisch, the open-source savior that's giving Zapier a run for its money. This nifty tool is... Deploy](https://repocloud.io/details/?app_id=251)\n\n[![Image 46: Image Description](https://repocloud.io/static/apps/openhands/assets/thumbnail.png) #### OpenHands Introducing OpenHands, the AI-powered sidekick you never knew you needed! Imagine having a virtual assistant that not only fetches your coffee (if only it... Deploy](https://repocloud.io/details/?app_id=307)\n\n[![Image 47: Image Description](https://repocloud.io/static/apps/anything-llm/assets/thumbnail3.png) #### AnythingLLM Ever wished your documents could talk back to you? Meet AnythingLLM, the chatty AI app that turns your boring docs into lively conversationalists! Imagine... Deploy](https://repocloud.io/details/?app_id=276)\n\n[![Image 48: Image Description](https://repocloud.io/static/apps/answer/assets/thumbnail.png) #### Answer Get ready to turbocharge your Q&A game with Answer, the open-source oracle that turns your community's curiosity into a knowledge fest! Picture this: a... Deploy](https://repocloud.io/details/?app_id=104)\n\n[![Image 49: Image Description](https://repocloud.io/static/apps/nocodb/assets/thumbnail.png) #### NocoDB Step right up to the magical world of NocoDB, where your databases don whimsical hats and turn into super-smart spreadsheets! Think of it as the... Deploy](https://repocloud.io/details/?app_id=100)\n\n[![Image 50: Image Description](https://repocloud.io/static/apps/calcom/assets/thumbnail.png) #### Calcom Get ready to bid farewell to the headache of juggling multiple calendars and say hello to Cal.com – the scheduling ninja that's about to become your new... Deploy](https://repocloud.io/details/?app_id=97)\n\n[![Image 51: Image Description](https://repocloud.io/static/apps/n8n/assets/thumbnail.png) #### n8n Imagine crafting intricate automations with the speed of a ninja, minus the hassle of grappling with code. n8n is your digital wizard, conjuring up... Deploy](https://repocloud.io/details/?app_id=85)\n\n[![Image 52: Image Description](https://repocloud.io/static/apps/postiz/assets/thumbnail.png) #### Postiz Introducing Postiz, the social media scheduling tool that’s like having a personal assistant who never takes a coffee break! Tired of posting at the wrong... Deploy](https://repocloud.io/details/?app_id=335)\n\n[![Image 53: Image Description](https://repocloud.io/static/apps/odoo/assets/thumbnail.png) #### Odoo Get ready to give your business operations a dose of digital steroids with Odoo! Imagine a Swiss Army knife, but for your company's digital needs. Odoo... Deploy](https://repocloud.io/details/?app_id=216)\n\n[![Image 54: Image Description](https://repocloud.io/static/apps/kestra/assets/thumbnail2.png) #### Kestra Welcome to the world of event-driven orchestration, where your workflows can finally stop throwing tantrums and start behaving like well-trained puppies!... Deploy](https://repocloud.io/details/?app_id=332)\n\n[![Image 55: Image Description](https://repocloud.io/static/apps/teable/assets/thumbnail.png) #### Teable Meet Teable: the no-code, high-octane database app where Postgres does the heavy lifting so you don't have to! Imagine a spreadsheet with superpowers—edit... Deploy](https://repocloud.io/details/?app_id=273)\n\n[![Image 56: Image Description](https://repocloud.io/static/apps/pocketbase/assets/thumbnail.png) #### PocketBase Get ready to turbocharge your next digital masterpiece with PocketBase, the Swiss Army knife of backends! This bad boy is like a genie in a bottle for... Deploy](https://repocloud.io/details/?app_id=129)\n\n[![Image 57: Image Description](https://repocloud.io/static/apps/perplexica/assets/thumbnail.png) #### Perplexica Meet Perplexica, the brainy AI search engine that doesn't just find answers; it practically reads your mind! Powered by the wizardry of advanced machine... Deploy](https://repocloud.io/details/?app_id=267)\n\n[![Image 58: Image Description](https://repocloud.io/static/apps/idurar/assets/thumbnail.png) #### iDURAR Meet IDURAR, the Swiss Army knife of ERP/CRM solutions, but without the risk of accidentally stabbing yourself. Imagine having the power of Invoice,... Deploy](https://repocloud.io/details/?app_id=295)\n\n[![Image 59: Image Description](https://repocloud.io/static/apps/formbricks/assets/thumbnail.png) #### Formbricks Unleash the power of public opinion with Formbricks, the open-source survey maestro that won't cost you a dime! Engage with your audience through stunning... Deploy](https://repocloud.io/details/?app_id=254)\n\n[![Image 60: Image Description](https://repocloud.io/static/apps/activepieces/assets/thumbnail.png) #### Activepieces Get ready to turbocharge your productivity with Activepieces, the open-source superhero of business automation! Imagine a world where you don't need to be... Deploy](https://repocloud.io/details/?app_id=177)\n\n[![Image 61: Image Description](https://repocloud.io/static/apps/flowise/assets/thumbnail.png) #### Flowise Get ready to ride the Flowise wave, the open-source UI magician that transforms the daunting task of crafting Large Language Models into a walk in the... Deploy](https://repocloud.io/details/?app_id=29)\n\n*   [](https://repocloud.io/?page=1)\n*   [1](https://repocloud.io/?ref=producthunt#)\n*   [2](https://repocloud.io/?page=2)\n*   [3](https://repocloud.io/?page=3)\n*   [4](https://repocloud.io/?page=4)\n*   [5](https://repocloud.io/?page=5)\n*   [...](https://repocloud.io/?ref=producthunt#)\n*   [11](https://repocloud.io/?page=11)\n*   [12](https://repocloud.io/?page=12)\n[Next](https://repocloud.io/?page=2)",
+  "usage": {
+    "tokens": 1531
+  }
+}
+```

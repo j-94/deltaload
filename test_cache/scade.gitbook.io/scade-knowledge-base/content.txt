@@ -1,0 +1,147 @@
+What is Scade? | Scade knowledge base
+===============
+ 
+
+[![Image 3](https://scade.gitbook.io/~gitbook/image?url=https%3A%2F%2Fscade.gitbook.io%2Fscade-knowledge-base%2F%7Egitbook%2Ficon%3Fsize%3Dmedium%26theme%3Dlight&width=32&dpr=4&quality=100&sign=5d874418&sv=2)![Image 4](https://scade.gitbook.io/~gitbook/image?url=https%3A%2F%2Fscade.gitbook.io%2Fscade-knowledge-base%2F%7Egitbook%2Ficon%3Fsize%3Dmedium%26theme%3Ddark&width=32&dpr=4&quality=100&sign=f1e6af1a&sv=2) Scade knowledge base](https://scade.gitbook.io/scade-knowledge-base)
+
+Search...
+
+Ctrl + K
+
+*   [What is Scade?](https://scade.gitbook.io/scade-knowledge-base)
+*   [Quick start](https://scade.gitbook.io/scade-knowledge-base/quick-start)
+    
+    *   [How to create a flow](https://scade.gitbook.io/scade-knowledge-base/quick-start/how-to-create-a-flow)
+    
+*   [Build a flow](https://scade.gitbook.io/scade-knowledge-base/build-a-flow)
+    
+    *   [What is Flow?](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/what-is-flow)
+    *   [How to create a flow](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/how-to-create-a-flow)
+    *   [What is a Node](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/what-is-a-node)
+    *   [What are the Start and End Nodes?](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/what-are-the-start-and-end-nodes)
+    *   [How to add nodes (AIs and tools) to your flow](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/how-to-add-nodes-ais-and-tools-to-your-flow)
+    *   [Top Nodes settings](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/top-nodes-settings)
+        
+        *   [Large language models](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/top-nodes-settings/large-language-models)
+        *   [Image generation](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/top-nodes-settings/image-generation)
+        *   [Transcribe audio to text (Whisper)](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/top-nodes-settings/transcribe-audio-to-text-whisper)
+        *   [Image background removal options](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/top-nodes-settings/image-background-removal-options)
+        
+    *   [How to Connect Nodes](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/how-to-connect-nodes)
+    *   [How to Use Expression Editor](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/how-to-use-expression-editor)
+    *   [How to Copy Generated Images or Text](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/how-to-copy-generated-images-or-text)
+    *   [What is the 'View Source' of a Node](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/what-is-the-view-source-of-a-node)
+    *   [How to add python code](https://scade.gitbook.io/scade-knowledge-base/build-a-flow/how-to-add-python-code)
+    
+*   [Flow examples](https://scade.gitbook.io/scade-knowledge-base/flow-examples)
+    
+    *   [Building a flow: create promo cards of a product](https://scade.gitbook.io/scade-knowledge-base/flow-examples/building-a-flow-create-promo-cards-of-a-product)
+    *   [Building a flow: a virtual AI editorial office](https://scade.gitbook.io/scade-knowledge-base/flow-examples/building-a-flow-a-virtual-ai-editorial-office)
+    *   [Building a flow: video transcription and summarization](https://scade.gitbook.io/scade-knowledge-base/flow-examples/building-a-flow-video-transcription-and-summarization)
+    *   [5 minute challenge: compare different LLMs](https://scade.gitbook.io/scade-knowledge-base/flow-examples/5-minute-challenge-compare-different-llms)
+    *   [5 minute challenge: upscale and colorize photos](https://scade.gitbook.io/scade-knowledge-base/flow-examples/5-minute-challenge-upscale-and-colorize-photos)
+    *   [5 minute challenge: summarize audio](https://scade.gitbook.io/scade-knowledge-base/flow-examples/5-minute-challenge-summarize-audio)
+    
+*   [Publish](https://scade.gitbook.io/scade-knowledge-base/publish)
+    
+    *   [Run flows via API](https://scade.gitbook.io/scade-knowledge-base/publish/run-flows-via-api)
+    
+*   [Pricing](https://scade.gitbook.io/scade-knowledge-base/pricing)
+
+[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=NCrOWKpBlXYnNB9SFIzb)
+
+On this page
+
+*   [Why Scade](https://scade.gitbook.io/scade-knowledge-base#why-scade)
+*   [Key Features](https://scade.gitbook.io/scade-knowledge-base#key-features)
+*   [Templates](https://scade.gitbook.io/scade-knowledge-base#templates)
+*   [Flow](https://scade.gitbook.io/scade-knowledge-base#flow)
+*   [Node](https://scade.gitbook.io/scade-knowledge-base#node)
+*   [AI Models](https://scade.gitbook.io/scade-knowledge-base#ai-models)
+*   [Tools](https://scade.gitbook.io/scade-knowledge-base#tools)
+*   [Agents](https://scade.gitbook.io/scade-knowledge-base#agents)
+*   [Explore Scade](https://scade.gitbook.io/scade-knowledge-base#explore-scade)
+
+What is Scade?
+==============
+
+Glad to see you here
+
+Scade.pro is a platform where we've brought together hundreds and thousands of different AI models and made them compatible like Lego bricks. You can explore the possibilities with a simple interface of AI Apps, or dive deeper, go to Flow and try and build your own chain of different models (no coding experience required)
+
+[](https://scade.gitbook.io/scade-knowledge-base#why-scade)
+
+Why Scade
+
+
+--------------------------------------------------------------------------
+
+Scade.pro turns AI into real benefits: more revenue, less hassle, and new tech opportunities. Here, you can discover, modify, and integrate AI models easily. Whether you want to create and sell templates or use Scade to launch an AI-featured product quickly, we've got you covered.
+
+[](https://scade.gitbook.io/scade-knowledge-base#key-features)
+
+Key Features
+
+
+--------------------------------------------------------------------------------
+
+### 
+
+[](https://scade.gitbook.io/scade-knowledge-base#templates)
+
+Templates
+
+Templates are shortcuts for your projects. They make complex builds simple, letting you get straight to the fun part. These templates are flexible blueprints that show off what our platform can do, so you can develop and refine your own ideas easily.
+
+### 
+
+[](https://scade.gitbook.io/scade-knowledge-base#flow)
+
+Flow
+
+Flow is your no-code playground. Build workflows using simple building blocks (nodes) that represent different AI models or tools. Connect these nodes to create an executable chain known as a flow. It’s as easy as playing with Lego but way more productive.
+
+### 
+
+[](https://scade.gitbook.io/scade-knowledge-base#node)
+
+Node
+
+In Flow, a node is a basic unit that could be an AI, a block of code, or a logical function. Think of a node as a tiny but mighty function in Flow. By linking these nodes, you can create workflows tailored to your specific needs. Each node gives you real-time feedback with color-coded indicators, execution time, and cost, making it easy to see how efficient and expensive each part is.
+
+### 
+
+[](https://scade.gitbook.io/scade-knowledge-base#ai-models)
+
+AI Models
+
+We offer over 1500 AI models for you to explore. From popular ones like ChatGPT and Stable Diffusion to our own LoRa models, we've got a wide range of AI needs covered. You can easily find and use the best AI solutions for your projects.
+
+### 
+
+[](https://scade.gitbook.io/scade-knowledge-base#tools)
+
+Tools
+
+Besides AI models, we also provide handy tools like translators, resizers, and loop processors to help you manage tasks efficiently and affordably. Sometimes, the simplest tools can save you the most time and money.
+
+### 
+
+[](https://scade.gitbook.io/scade-knowledge-base#agents)
+
+Agents
+
+Meet LamaIndex and LamaQuery, your AI helpers designed to boost your AI support. These agents simplify complex tasks, making your workflow smoother and more efficient.
+
+[](https://scade.gitbook.io/scade-knowledge-base#explore-scade)
+
+Explore Scade
+
+
+----------------------------------------------------------------------------------
+
+Jump into Scade by using prebuilt templates or creating your flow from scratch. This flexibility allows you to integrate AI without a steep learning curve.
+
+[NextQuick start](https://scade.gitbook.io/scade-knowledge-base/quick-start)
+
+Last updated 6 months ago

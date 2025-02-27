@@ -1,0 +1,163 @@
+---
+title: The notebook for reproducible research — Nextjournal
+description: 
+url: https://nextjournal.com/home
+timestamp: 2025-01-20T16:12:23.536Z
+domain: nextjournal.com
+path: home
+---
+
+# The notebook for reproducible research — Nextjournal
+
+
+
+## Content
+
+*   [Explore](https://nextjournal.com/explore)
+*   [Pricing](https://nextjournal.com/pricing)
+*   [Docs](https://nextjournal.com/help)
+*   [Try now](https://nextjournal.com/try)[Signup or log in →](https://nextjournal.com/login)
+
+The notebook for  
+reproducible research.
+-----------------------------------------
+
+Runs anything you can put into a Docker container. Improve your workflow with polyglot notebooks, automatic versioning and real-time collaboration. Save time and money with on-demand provisioning, including GPU support.
+
+![Image 44](https://cdn.nextjournal.com/data/QmUHQkAo4bSUbTmYCqjiDkuQ6kKaGkMVR97iB7ZJbcxAMP?filename=placeholder.jpg&content-type=image/jpeg)![Image 45](https://cdn.nextjournal.com/data/QmbEg6EHexahkhgdDaQHqQ6wnvr1dmf1RURMYCJ7f1nCNc?filename=ml.png&content-type=image/png)![Image 46](https://cdn.nextjournal.com/data/QmRJysZZtFqv6YWZiBSJ8MA2c3iwvNbboKhx54XavB9Z8m?filename=data-science.png&content-type=image/png)![Image 47](https://cdn.nextjournal.com/data/Qmcyhxazo5HhdGCmypJ63mhizDFztyv4L9qw4s2h5k6mnM?filename=tutorial.png&content-type=image/png)![Image 48](https://cdn.nextjournal.com/data/QmfS2cbzBhmbeJo9cCBHKZsY7FsEpij5wnJGHcNNxQerXN?filename=classroom.png&content-type=image/png)![Image 49](https://cdn.nextjournal.com/data/QmWXcRowpRPVGXyeUCnF98EF19FcmEEQmwXUzXYy77J29b?filename=science.png&content-type=image/png)
+
+ML researchers start training models on GPUs within minutes. When using machines with GPUs, we save time on setup by loading GPU drivers automatically. Once training is done, the instance is shut down automatically to avoid additional cost.
+
+Data Scientists connect external data sources securely and use familiar visualization libraries like Vega, Plotly or matplotlib. Notebooks can be collaborated on in real-time and shared privately or published to the whole internet.
+
+Library authors publish their documentation as notebooks containing runnable samples next to the text. Readers can remix these notebooks and experiment with the samples on their own.
+
+Professors provide notebooks as coursework with runnable exercises to their students. Students don’t waste time on setting up their local environment.
+
+Scientists can argue from evidence and increase trust by providing a reproducible, runnable analysis, including all raw data to be verified and built upon by peers. DOIs are provided upon request.
+
+[Try Nextjournal now](https://nextjournal.com/login)
+
+Get started with Nextjournal now.
+---------------------------------
+
+Sign up is free. You can import your existing Jupyter, IPython and RMarkdown notebooks.
+
+![Image 50](https://cdn.nextjournal.com/data/QmbEg6EHexahkhgdDaQHqQ6wnvr1dmf1RURMYCJ7f1nCNc?filename=ml.png&content-type=image/png)
+
+#### Full support & templates for common programming environments
+
+Work together  
+in real-time
+----------------------------
+
+**Groups & Collaborators**  
+Create public or private groups to work with your collaborators under a shared profile or invite them on a per-notebook basis. Secrets can be shared among collaborators.
+
+**Real-Time Sync**  
+All edits to a Nextjournal notebook are commit-less and synchronized in real-time among connected clients. This allows editing of a notebook by multiple authors at the same time.
+
+[Try Nextjournal now](https://nextjournal.com/login)
+
+![Image 51](https://cdn.nextjournal.com/data/QmccFqisvKGRDfnMmkqkbxyMEDaJdzbwprkPqAXusxB5vr?filename=collaborate-in-real-time.png&content-type=image/png)
+
+Rapid and full reusability
+--------------------------
+
+**Remix entire notebooks**  
+Enabled by immutability, “Remix” allows you to quickly build off a copy of any previously published notebook, including all of its dependencies.
+
+**Create, share and reuse Docker images**  
+The entire file system can be published as Docker image with a single click. These images can be pulled to run locally or reused in other Nextjournal notebooks.
+
+[Try Nextjournal now](https://nextjournal.com/login)
+
+![Image 52](https://cdn.nextjournal.com/data/QmVfzUPJqHCNgF4ferRJBpgGksxWiXkWPkGzetagKZRcHH?filename=reproduce-with-one-click.png&content-type=image/png)
+
+Polyglot Notebooks
+------------------
+
+In Nextjournal, you can use multiple programming language runtimes together in a single notebook. Values can be exchanged between runtimes using files.
+
+**Easy-to-manage runtime states**  
+Runtimes are Docker containers that are orchestrated by a separate “Runner” application. This allow resetting an individual runtimes state without affecting other runtimes.
+
+**Arbitrary installations**  
+Nextjournal can install anything as long as a runtime offers Bash. Environment variables can be set for each runtime through a UI.
+
+**Default environments**  
+We offer default environments for various languages and use cases that come pre-populated with libraries for plotting, number crunching and more.
+
+[Try Nextjournal now](https://nextjournal.com/login)
+
+![Image 53](https://cdn.nextjournal.com/data/Qmehx1GikgNEceZb2QWsXBLssKurMKhNQPrSPqsZAT2T7P?filename=multiple-runtimes.png&content-type=image/png)
+
+Automatic Provisioning & Shutdown
+---------------------------------
+
+Every notebook that is run, gets its own compute instance provisioned automatically. We keep a pool of small runners around with 4GB of RAM per instance that will boot instantly. Larger instances are available on-demand. When your computation is done, we shut it down automatically to save costs on idling machines.
+
+**Full GPU support**  
+Currently, we have full support for up to 8 NVIDIA Tesla K80, P100 or P100 Workstation GPUs per runtime with minimal setup necessary.
+
+[Try Nextjournal now](https://nextjournal.com/login)
+
+![Image 54](https://cdn.nextjournal.com/data/QmZ9CP9x3em7tcqyJkkaWPkfe3qrkeQYSx2QtkWxgjxNHk?filename=automatic-provisioning.png&content-type=image/png)
+
+Data & Secrets Management
+-------------------------
+
+**Connect your data**  
+Besides uploading files, Nextjournal notebooks can bring in private data from S3 and Google Cloud Storage. You can also clone private GitHub repositories or import images from Docker Hub.
+
+**Secrets management**  
+Secrets can be added to your account’s private secrets storage that lives outside notebooks and computational environments. Secrets are stored securely in [Vault](https://www.vaultproject.io/) and can only be read by your profile.
+
+[Try Nextjournal now](https://nextjournal.com/login)
+
+![Image 55](https://cdn.nextjournal.com/data/QmZk55JCLASewSJQ8DavHEzsLPuH4Gg68RA4Sf75xau2QX?filename=multiple-integrations.png&content-type=image/png)
+
+> “Holy crap... I’m now actively petitioning my bosses to get me and my tiny overworked team off of our opensource airbnb jupyter notebooks and into this.
+> 
+> A timely response from your support team got me up and running hitting our redshift server in minutes. I’m totally sold. LOVE THIS PRODUCT.
+> 
+> My dev team _actually_ read my report. They’re calling you the Notion of Data Science ha! Keep up the great work!”
+> 
+> Ken Hanson, Modern Message
+
+Get started with Nextjournal now.
+---------------------------------
+
+Sign up is free. You can import your existing Jupyter, IPython and RMarkdown notebooks.
+
+![Image 56](https://cdn.nextjournal.com/data/QmbEg6EHexahkhgdDaQHqQ6wnvr1dmf1RURMYCJ7f1nCNc?filename=ml.png&content-type=image/png)
+
+> “Nextjournal should be the new standard in scientific publishing both for reproducibility and sharability.”
+> 
+> William Ludington, PhD, Principal Investigator, Carnegie Science Institute
+
+> “Working in Nextjournal took collaboration to new levels. Easily go from changing parameters to pretty pictures while hiding any superfluous stuff.”
+> 
+> Jon Norberg, PhD, Stockholm Resilience Center
+
+> “I'm trying out @usenextjournal and have to say it is awesome. It fits my style and needs perfectly.”
+> 
+> Josh Bowles, AILGroup, via Twitter
+
+> “\[Nextjournal\] is an amazing platform for data science and any data visualization.”
+> 
+> London Clojurians, via Twitter
+
+## Metadata
+
+```json
+{
+  "title": "The notebook for reproducible research — Nextjournal",
+  "description": "",
+  "url": "https://nextjournal.com/home",
+  "content": "*   [Explore](https://nextjournal.com/explore)\n*   [Pricing](https://nextjournal.com/pricing)\n*   [Docs](https://nextjournal.com/help)\n*   [Try now](https://nextjournal.com/try)[Signup or log in →](https://nextjournal.com/login)\n\nThe notebook for  \nreproducible research.\n-----------------------------------------\n\nRuns anything you can put into a Docker container. Improve your workflow with polyglot notebooks, automatic versioning and real-time collaboration. Save time and money with on-demand provisioning, including GPU support.\n\n![Image 44](https://cdn.nextjournal.com/data/QmUHQkAo4bSUbTmYCqjiDkuQ6kKaGkMVR97iB7ZJbcxAMP?filename=placeholder.jpg&content-type=image/jpeg)![Image 45](https://cdn.nextjournal.com/data/QmbEg6EHexahkhgdDaQHqQ6wnvr1dmf1RURMYCJ7f1nCNc?filename=ml.png&content-type=image/png)![Image 46](https://cdn.nextjournal.com/data/QmRJysZZtFqv6YWZiBSJ8MA2c3iwvNbboKhx54XavB9Z8m?filename=data-science.png&content-type=image/png)![Image 47](https://cdn.nextjournal.com/data/Qmcyhxazo5HhdGCmypJ63mhizDFztyv4L9qw4s2h5k6mnM?filename=tutorial.png&content-type=image/png)![Image 48](https://cdn.nextjournal.com/data/QmfS2cbzBhmbeJo9cCBHKZsY7FsEpij5wnJGHcNNxQerXN?filename=classroom.png&content-type=image/png)![Image 49](https://cdn.nextjournal.com/data/QmWXcRowpRPVGXyeUCnF98EF19FcmEEQmwXUzXYy77J29b?filename=science.png&content-type=image/png)\n\nML researchers start training models on GPUs within minutes. When using machines with GPUs, we save time on setup by loading GPU drivers automatically. Once training is done, the instance is shut down automatically to avoid additional cost.\n\nData Scientists connect external data sources securely and use familiar visualization libraries like Vega, Plotly or matplotlib. Notebooks can be collaborated on in real-time and shared privately or published to the whole internet.\n\nLibrary authors publish their documentation as notebooks containing runnable samples next to the text. Readers can remix these notebooks and experiment with the samples on their own.\n\nProfessors provide notebooks as coursework with runnable exercises to their students. Students don’t waste time on setting up their local environment.\n\nScientists can argue from evidence and increase trust by providing a reproducible, runnable analysis, including all raw data to be verified and built upon by peers. DOIs are provided upon request.\n\n[Try Nextjournal now](https://nextjournal.com/login)\n\nGet started with Nextjournal now.\n---------------------------------\n\nSign up is free. You can import your existing Jupyter, IPython and RMarkdown notebooks.\n\n![Image 50](https://cdn.nextjournal.com/data/QmbEg6EHexahkhgdDaQHqQ6wnvr1dmf1RURMYCJ7f1nCNc?filename=ml.png&content-type=image/png)\n\n#### Full support & templates for common programming environments\n\nWork together  \nin real-time\n----------------------------\n\n**Groups & Collaborators**  \nCreate public or private groups to work with your collaborators under a shared profile or invite them on a per-notebook basis. Secrets can be shared among collaborators.\n\n**Real-Time Sync**  \nAll edits to a Nextjournal notebook are commit-less and synchronized in real-time among connected clients. This allows editing of a notebook by multiple authors at the same time.\n\n[Try Nextjournal now](https://nextjournal.com/login)\n\n![Image 51](https://cdn.nextjournal.com/data/QmccFqisvKGRDfnMmkqkbxyMEDaJdzbwprkPqAXusxB5vr?filename=collaborate-in-real-time.png&content-type=image/png)\n\nRapid and full reusability\n--------------------------\n\n**Remix entire notebooks**  \nEnabled by immutability, “Remix” allows you to quickly build off a copy of any previously published notebook, including all of its dependencies.\n\n**Create, share and reuse Docker images**  \nThe entire file system can be published as Docker image with a single click. These images can be pulled to run locally or reused in other Nextjournal notebooks.\n\n[Try Nextjournal now](https://nextjournal.com/login)\n\n![Image 52](https://cdn.nextjournal.com/data/QmVfzUPJqHCNgF4ferRJBpgGksxWiXkWPkGzetagKZRcHH?filename=reproduce-with-one-click.png&content-type=image/png)\n\nPolyglot Notebooks\n------------------\n\nIn Nextjournal, you can use multiple programming language runtimes together in a single notebook. Values can be exchanged between runtimes using files.\n\n**Easy-to-manage runtime states**  \nRuntimes are Docker containers that are orchestrated by a separate “Runner” application. This allow resetting an individual runtimes state without affecting other runtimes.\n\n**Arbitrary installations**  \nNextjournal can install anything as long as a runtime offers Bash. Environment variables can be set for each runtime through a UI.\n\n**Default environments**  \nWe offer default environments for various languages and use cases that come pre-populated with libraries for plotting, number crunching and more.\n\n[Try Nextjournal now](https://nextjournal.com/login)\n\n![Image 53](https://cdn.nextjournal.com/data/Qmehx1GikgNEceZb2QWsXBLssKurMKhNQPrSPqsZAT2T7P?filename=multiple-runtimes.png&content-type=image/png)\n\nAutomatic Provisioning & Shutdown\n---------------------------------\n\nEvery notebook that is run, gets its own compute instance provisioned automatically. We keep a pool of small runners around with 4GB of RAM per instance that will boot instantly. Larger instances are available on-demand. When your computation is done, we shut it down automatically to save costs on idling machines.\n\n**Full GPU support**  \nCurrently, we have full support for up to 8 NVIDIA Tesla K80, P100 or P100 Workstation GPUs per runtime with minimal setup necessary.\n\n[Try Nextjournal now](https://nextjournal.com/login)\n\n![Image 54](https://cdn.nextjournal.com/data/QmZ9CP9x3em7tcqyJkkaWPkfe3qrkeQYSx2QtkWxgjxNHk?filename=automatic-provisioning.png&content-type=image/png)\n\nData & Secrets Management\n-------------------------\n\n**Connect your data**  \nBesides uploading files, Nextjournal notebooks can bring in private data from S3 and Google Cloud Storage. You can also clone private GitHub repositories or import images from Docker Hub.\n\n**Secrets management**  \nSecrets can be added to your account’s private secrets storage that lives outside notebooks and computational environments. Secrets are stored securely in [Vault](https://www.vaultproject.io/) and can only be read by your profile.\n\n[Try Nextjournal now](https://nextjournal.com/login)\n\n![Image 55](https://cdn.nextjournal.com/data/QmZk55JCLASewSJQ8DavHEzsLPuH4Gg68RA4Sf75xau2QX?filename=multiple-integrations.png&content-type=image/png)\n\n> “Holy crap... I’m now actively petitioning my bosses to get me and my tiny overworked team off of our opensource airbnb jupyter notebooks and into this.\n> \n> A timely response from your support team got me up and running hitting our redshift server in minutes. I’m totally sold. LOVE THIS PRODUCT.\n> \n> My dev team _actually_ read my report. They’re calling you the Notion of Data Science ha! Keep up the great work!”\n> \n> Ken Hanson, Modern Message\n\nGet started with Nextjournal now.\n---------------------------------\n\nSign up is free. You can import your existing Jupyter, IPython and RMarkdown notebooks.\n\n![Image 56](https://cdn.nextjournal.com/data/QmbEg6EHexahkhgdDaQHqQ6wnvr1dmf1RURMYCJ7f1nCNc?filename=ml.png&content-type=image/png)\n\n> “Nextjournal should be the new standard in scientific publishing both for reproducibility and sharability.”\n> \n> William Ludington, PhD, Principal Investigator, Carnegie Science Institute\n\n> “Working in Nextjournal took collaboration to new levels. Easily go from changing parameters to pretty pictures while hiding any superfluous stuff.”\n> \n> Jon Norberg, PhD, Stockholm Resilience Center\n\n> “I'm trying out @usenextjournal and have to say it is awesome. It fits my style and needs perfectly.”\n> \n> Josh Bowles, AILGroup, via Twitter\n\n> “\\[Nextjournal\\] is an amazing platform for data science and any data visualization.”\n> \n> London Clojurians, via Twitter",
+  "usage": {
+    "tokens": 1956
+  }
+}
+```

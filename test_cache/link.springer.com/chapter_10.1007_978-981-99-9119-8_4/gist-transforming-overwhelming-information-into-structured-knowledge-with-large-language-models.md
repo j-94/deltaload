@@ -1,0 +1,178 @@
+---
+title: GIST: Transforming Overwhelming Information into Structured Knowledge with Large Language Models
+description: This paper introduces GIST (Generative Information Synthesis Taskforce), a novel personal knowledge management system that utilizes large-scale online language models to analyze and organize the information, generating structured results, including summaries, key...
+url: https://link.springer.com/chapter/10.1007/978-981-99-9119-8_4
+timestamp: 2025-01-20T15:59:12.569Z
+domain: link.springer.com
+path: chapter_10.1007_978-981-99-9119-8_4
+---
+
+# GIST: Transforming Overwhelming Information into Structured Knowledge with Large Language Models
+
+
+This paper introduces GIST (Generative Information Synthesis Taskforce), a novel personal knowledge management system that utilizes large-scale online language models to analyze and organize the information, generating structured results, including summaries, key...
+
+
+## Content
+
+Abstract
+--------
+
+This paper introduces GIST (Generative Information Synthesis Taskforce), a novel personal knowledge management system that utilizes large-scale online language models to analyze and organize the information, generating structured results, including summaries, key points, and questions and answers. The system also utilizes a multimodal information processing approach to enhance comprehension of the content. As the user’s knowledge base grows, GIST becomes a personal knowledge database and provides the necessary information at the right moment. GIST can be accessed on any device, serving as the brain and soul of the user’s devices, and empowering them to effectively manage their personal knowledge. Our demo video is at [https://youtu.be/ImtduHMQKFQ](https://youtu.be/ImtduHMQKFQ).
+
+### Similar content being viewed by others
+
+References
+----------
+
+1.  Myers, B.A.: A brief history of human-computer interaction technology. Interactions, **5**(2), 44–54 (1998)
+    
+    [Google Scholar](https://scholar.google.com/scholar?&q=Myers%2C%20B.A.%3A%20A%20brief%20history%20of%20human-computer%20interaction%20technology.%20Interactions%2C%205%282%29%2C%2044%E2%80%9354%20%281998%29)
+    
+2.  Piccolo, L.S.G., De Menezes, E.M., De Campos Buccolo, B.: Developing an accessible interaction model for touch screen mobile devices: preliminary results. Presented at the Proceedings of the 10th Brazilian Symposium on Human Factors in Computing Systems and the 5th Latin American Conference on Human-Computer Interaction, pp. 222–226 (2011)
+    
+    [Google Scholar](https://scholar.google.com/scholar?&q=Piccolo%2C%20L.S.G.%2C%20De%20Menezes%2C%20E.M.%2C%20De%20Campos%20Buccolo%2C%20B.%3A%20Developing%20an%20accessible%20interaction%20model%20for%20touch%20screen%20mobile%20devices%3A%20preliminary%20results.%20Presented%20at%20the%20Proceedings%20of%20the%2010th%20Brazilian%20Symposium%20on%20Human%20Factors%20in%20Computing%20Systems%20and%20the%205th%20Latin%20American%20Conference%20on%20Human-Computer%20Interaction%2C%20pp.%20222%E2%80%93226%20%282011%29)
+    
+3.  Stata, R., Bharat, K., Maghoul, F.: The term vector database: fast access to indexing terms for web pages. Comput. Netw. **33**(1–6), 247–255 (2000)
+    
+    [Article](https://doi.org/10.1016%2FS1389-1286%2800%2900046-3)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=The%20term%20vector%20database%3A%20fast%20access%20to%20indexing%20terms%20for%20web%20pages&journal=Comput.%20Netw.&volume=33&issue=1%E2%80%936&pages=247-255&publication_year=2000&author=Stata%2CR&author=Bharat%2CK&author=Maghoul%2CF)
+    
+4.  Lobentanzer, S., Saez-Rodriguez, J.: A platform for the biomedical application of large language models. arXiv preprint arXiv:2305.06488 (2023)
+    
+    [Google Scholar](https://scholar.google.com/scholar?&q=Lobentanzer%2C%20S.%2C%20Saez-Rodriguez%2C%20J.%3A%20A%20platform%20for%20the%20biomedical%20application%20of%20large%20language%20models.%20arXiv%20preprint%20arXiv%3A2305.06488%20%282023%29)
+    
+5.  Gudepu, P.R., et al.: Whisper augmented end-to-end/hybrid speech recognition system-CycleGAN approach. Presented at the INTERSPEECH, pp. 2302–2306 (2020)
+    
+    [Google Scholar](https://scholar.google.com/scholar?&q=Gudepu%2C%20P.R.%2C%20et%20al.%3A%20Whisper%20augmented%20end-to-end%2Fhybrid%20speech%20recognition%20system-CycleGAN%20approach.%20Presented%20at%20the%20INTERSPEECH%2C%20pp.%202302%E2%80%932306%20%282020%29)
+    
+6.  OpenAI, “GPT-4 Technical Report.” [https://cdn.openai.com/papers/gpt-4.pdf](https://cdn.openai.com/papers/gpt-4.pdf). Accessed 28 June 2023
+    
+7.  Sarter, N.B.: Multimodal information presentation: Design guidance and research challenges. Int. J. Ind. Ergon. **36**(5), 439–445 (2006)
+    
+    [Article](https://doi.org/10.1016%2Fj.ergon.2006.01.007)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Multimodal%20information%20presentation%3A%20Design%20guidance%20and%20research%20challenges&journal=Int.%20J.%20Ind.%20Ergon.&volume=36&issue=5&pages=439-445&publication_year=2006&author=Sarter%2CNB)
+    
+8.  Khullar, A., Arora, U.: MAST: multimodal abstractive summarization with trimodal hierarchical attention. arXiv preprint arXiv:2010.08021 (2020)
+    
+    [Google Scholar](https://scholar.google.com/scholar?&q=Khullar%2C%20A.%2C%20Arora%2C%20U.%3A%20MAST%3A%20multimodal%20abstractive%20summarization%20with%20trimodal%20hierarchical%20attention.%20arXiv%20preprint%20arXiv%3A2010.08021%20%282020%29)
+    
+9.  Ekin, S.: Prompt Engineering for ChatGPT: A Quick Guide to Techniques, Tips, and Best Practices (2023). [https://doi.org/10.36227/techrxiv.22683919](https://doi.org/10.36227/techrxiv.22683919)
+    
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/978-981-99-9119-8_4?format=refman&flavour=references)
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1.  Lenovo Research, Beijing, China
+    
+    Meng Wu, Xinyu Zhou, Gang Ma, Zhangwei Lu, Liuxin Zhang & Yu Zhang
+    
+
+Authors
+
+1.  Meng Wu
+    
+    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Meng%20Wu) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Meng%20Wu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+    
+2.  Xinyu Zhou
+    
+    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Xinyu%20Zhou) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Xinyu%20Zhou%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+    
+3.  Gang Ma
+    
+    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Gang%20Ma) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Gang%20Ma%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+    
+4.  Zhangwei Lu
+    
+    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zhangwei%20Lu) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Zhangwei%20Lu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+    
+5.  Liuxin Zhang
+    
+    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Liuxin%20Zhang) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Liuxin%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+    
+6.  Yu Zhang
+    
+    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yu%20Zhang) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yu%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+    
+
+### Corresponding author
+
+Correspondence to [Yu Zhang](mailto:Zhangyu29@lenovo.com) .
+
+Editor information
+------------------
+
+### Editors and Affiliations
+
+1.  Tsinghua University, Beijing, China
+    
+    Lu Fang
+    
+2.  Duke University, Durham, NC, USA
+    
+    Jian Pei
+    
+3.  Shanghai Jiao Tong Univeristy, Shanghai, China
+    
+    Guangtao Zhai
+    
+4.  Chinese Academy of Sciences, Beijing, China
+    
+    Ruiping Wang
+    
+
+Rights and permissions
+----------------------
+
+Copyright information
+---------------------
+
+© 2024 The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd.
+
+About this paper
+----------------
+
+[![Image 9: Check for updates. Verify currency and authenticity via CrossMark](blob:https://link.springer.com/df43c82f6cb6dcd2a87db38f317bf9f2)](https://crossmark.crossref.org/dialog/?doi=10.1007/978-981-99-9119-8_4)
+
+### Cite this paper
+
+Wu, M., Zhou, X., Ma, G., Lu, Z., Zhang, L., Zhang, Y. (2024). GIST: Transforming Overwhelming Information into Structured Knowledge with Large Language Models. In: Fang, L., Pei, J., Zhai, G., Wang, R. (eds) Artificial Intelligence. CICAI 2023. Lecture Notes in Computer Science(), vol 14474. Springer, Singapore. https://doi.org/10.1007/978-981-99-9119-8\_4
+
+### Download citation
+
+*   [.RIS](https://citation-needed.springer.com/v2/references/10.1007/978-981-99-9119-8_4?format=refman&flavour=citation "Download this article's citation as a .RIS file")
+*   [.ENW](https://citation-needed.springer.com/v2/references/10.1007/978-981-99-9119-8_4?format=endnote&flavour=citation "Download this article's citation as a .ENW file")
+*   [.BIB](https://citation-needed.springer.com/v2/references/10.1007/978-981-99-9119-8_4?format=bibtex&flavour=citation "Download this article's citation as a .BIB file")
+
+*   DOI: https://doi.org/10.1007/978-981-99-9119-8\_4
+    
+*   Published: 03 February 2024
+    
+*   Publisher Name: Springer, Singapore
+    
+*   Print ISBN: 978-981-99-9118-1
+    
+*   Online ISBN: 978-981-99-9119-8
+    
+*   eBook Packages: [Computer Science](https://link.springer.com/search?facet-content-type=%22Book%22&package=11645&facet-start-year=2024&facet-end-year=2024)[Computer Science (R0)](https://link.springer.com/search?facet-content-type=%22Book%22&package=43710&facet-start-year=2024&facet-end-year=2024)
+    
+
+Publish with us
+---------------
+
+## Metadata
+
+```json
+{
+  "title": "GIST: Transforming Overwhelming Information into Structured Knowledge with Large Language Models",
+  "description": "This paper introduces GIST (Generative Information Synthesis Taskforce), a novel personal knowledge management system that utilizes large-scale online language models to analyze and organize the information, generating structured results, including summaries, key...",
+  "url": "https://link.springer.com/chapter/10.1007/978-981-99-9119-8_4",
+  "content": "Abstract\n--------\n\nThis paper introduces GIST (Generative Information Synthesis Taskforce), a novel personal knowledge management system that utilizes large-scale online language models to analyze and organize the information, generating structured results, including summaries, key points, and questions and answers. The system also utilizes a multimodal information processing approach to enhance comprehension of the content. As the user’s knowledge base grows, GIST becomes a personal knowledge database and provides the necessary information at the right moment. GIST can be accessed on any device, serving as the brain and soul of the user’s devices, and empowering them to effectively manage their personal knowledge. Our demo video is at [https://youtu.be/ImtduHMQKFQ](https://youtu.be/ImtduHMQKFQ).\n\n### Similar content being viewed by others\n\nReferences\n----------\n\n1.  Myers, B.A.: A brief history of human-computer interaction technology. Interactions, **5**(2), 44–54 (1998)\n    \n    [Google Scholar](https://scholar.google.com/scholar?&q=Myers%2C%20B.A.%3A%20A%20brief%20history%20of%20human-computer%20interaction%20technology.%20Interactions%2C%205%282%29%2C%2044%E2%80%9354%20%281998%29)\n    \n2.  Piccolo, L.S.G., De Menezes, E.M., De Campos Buccolo, B.: Developing an accessible interaction model for touch screen mobile devices: preliminary results. Presented at the Proceedings of the 10th Brazilian Symposium on Human Factors in Computing Systems and the 5th Latin American Conference on Human-Computer Interaction, pp. 222–226 (2011)\n    \n    [Google Scholar](https://scholar.google.com/scholar?&q=Piccolo%2C%20L.S.G.%2C%20De%20Menezes%2C%20E.M.%2C%20De%20Campos%20Buccolo%2C%20B.%3A%20Developing%20an%20accessible%20interaction%20model%20for%20touch%20screen%20mobile%20devices%3A%20preliminary%20results.%20Presented%20at%20the%20Proceedings%20of%20the%2010th%20Brazilian%20Symposium%20on%20Human%20Factors%20in%20Computing%20Systems%20and%20the%205th%20Latin%20American%20Conference%20on%20Human-Computer%20Interaction%2C%20pp.%20222%E2%80%93226%20%282011%29)\n    \n3.  Stata, R., Bharat, K., Maghoul, F.: The term vector database: fast access to indexing terms for web pages. Comput. Netw. **33**(1–6), 247–255 (2000)\n    \n    [Article](https://doi.org/10.1016%2FS1389-1286%2800%2900046-3)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=The%20term%20vector%20database%3A%20fast%20access%20to%20indexing%20terms%20for%20web%20pages&journal=Comput.%20Netw.&volume=33&issue=1%E2%80%936&pages=247-255&publication_year=2000&author=Stata%2CR&author=Bharat%2CK&author=Maghoul%2CF)\n    \n4.  Lobentanzer, S., Saez-Rodriguez, J.: A platform for the biomedical application of large language models. arXiv preprint arXiv:2305.06488 (2023)\n    \n    [Google Scholar](https://scholar.google.com/scholar?&q=Lobentanzer%2C%20S.%2C%20Saez-Rodriguez%2C%20J.%3A%20A%20platform%20for%20the%20biomedical%20application%20of%20large%20language%20models.%20arXiv%20preprint%20arXiv%3A2305.06488%20%282023%29)\n    \n5.  Gudepu, P.R., et al.: Whisper augmented end-to-end/hybrid speech recognition system-CycleGAN approach. Presented at the INTERSPEECH, pp. 2302–2306 (2020)\n    \n    [Google Scholar](https://scholar.google.com/scholar?&q=Gudepu%2C%20P.R.%2C%20et%20al.%3A%20Whisper%20augmented%20end-to-end%2Fhybrid%20speech%20recognition%20system-CycleGAN%20approach.%20Presented%20at%20the%20INTERSPEECH%2C%20pp.%202302%E2%80%932306%20%282020%29)\n    \n6.  OpenAI, “GPT-4 Technical Report.” [https://cdn.openai.com/papers/gpt-4.pdf](https://cdn.openai.com/papers/gpt-4.pdf). Accessed 28 June 2023\n    \n7.  Sarter, N.B.: Multimodal information presentation: Design guidance and research challenges. Int. J. Ind. Ergon. **36**(5), 439–445 (2006)\n    \n    [Article](https://doi.org/10.1016%2Fj.ergon.2006.01.007)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Multimodal%20information%20presentation%3A%20Design%20guidance%20and%20research%20challenges&journal=Int.%20J.%20Ind.%20Ergon.&volume=36&issue=5&pages=439-445&publication_year=2006&author=Sarter%2CNB)\n    \n8.  Khullar, A., Arora, U.: MAST: multimodal abstractive summarization with trimodal hierarchical attention. arXiv preprint arXiv:2010.08021 (2020)\n    \n    [Google Scholar](https://scholar.google.com/scholar?&q=Khullar%2C%20A.%2C%20Arora%2C%20U.%3A%20MAST%3A%20multimodal%20abstractive%20summarization%20with%20trimodal%20hierarchical%20attention.%20arXiv%20preprint%20arXiv%3A2010.08021%20%282020%29)\n    \n9.  Ekin, S.: Prompt Engineering for ChatGPT: A Quick Guide to Techniques, Tips, and Best Practices (2023). [https://doi.org/10.36227/techrxiv.22683919](https://doi.org/10.36227/techrxiv.22683919)\n    \n\n[Download references](https://citation-needed.springer.com/v2/references/10.1007/978-981-99-9119-8_4?format=refman&flavour=references)\n\nAuthor information\n------------------\n\n### Authors and Affiliations\n\n1.  Lenovo Research, Beijing, China\n    \n    Meng Wu, Xinyu Zhou, Gang Ma, Zhangwei Lu, Liuxin Zhang & Yu Zhang\n    \n\nAuthors\n\n1.  Meng Wu\n    \n    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Meng%20Wu) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Meng%20Wu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)\n    \n2.  Xinyu Zhou\n    \n    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Xinyu%20Zhou) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Xinyu%20Zhou%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)\n    \n3.  Gang Ma\n    \n    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Gang%20Ma) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Gang%20Ma%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)\n    \n4.  Zhangwei Lu\n    \n    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zhangwei%20Lu) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Zhangwei%20Lu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)\n    \n5.  Liuxin Zhang\n    \n    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Liuxin%20Zhang) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Liuxin%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)\n    \n6.  Yu Zhang\n    \n    You can also search for this author in [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yu%20Zhang) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yu%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)\n    \n\n### Corresponding author\n\nCorrespondence to [Yu Zhang](mailto:Zhangyu29@lenovo.com) .\n\nEditor information\n------------------\n\n### Editors and Affiliations\n\n1.  Tsinghua University, Beijing, China\n    \n    Lu Fang\n    \n2.  Duke University, Durham, NC, USA\n    \n    Jian Pei\n    \n3.  Shanghai Jiao Tong Univeristy, Shanghai, China\n    \n    Guangtao Zhai\n    \n4.  Chinese Academy of Sciences, Beijing, China\n    \n    Ruiping Wang\n    \n\nRights and permissions\n----------------------\n\nCopyright information\n---------------------\n\n© 2024 The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd.\n\nAbout this paper\n----------------\n\n[![Image 9: Check for updates. Verify currency and authenticity via CrossMark](blob:https://link.springer.com/df43c82f6cb6dcd2a87db38f317bf9f2)](https://crossmark.crossref.org/dialog/?doi=10.1007/978-981-99-9119-8_4)\n\n### Cite this paper\n\nWu, M., Zhou, X., Ma, G., Lu, Z., Zhang, L., Zhang, Y. (2024). GIST: Transforming Overwhelming Information into Structured Knowledge with Large Language Models. In: Fang, L., Pei, J., Zhai, G., Wang, R. (eds) Artificial Intelligence. CICAI 2023. Lecture Notes in Computer Science(), vol 14474. Springer, Singapore. https://doi.org/10.1007/978-981-99-9119-8\\_4\n\n### Download citation\n\n*   [.RIS](https://citation-needed.springer.com/v2/references/10.1007/978-981-99-9119-8_4?format=refman&flavour=citation \"Download this article's citation as a .RIS file\")\n*   [.ENW](https://citation-needed.springer.com/v2/references/10.1007/978-981-99-9119-8_4?format=endnote&flavour=citation \"Download this article's citation as a .ENW file\")\n*   [.BIB](https://citation-needed.springer.com/v2/references/10.1007/978-981-99-9119-8_4?format=bibtex&flavour=citation \"Download this article's citation as a .BIB file\")\n\n*   DOI: https://doi.org/10.1007/978-981-99-9119-8\\_4\n    \n*   Published: 03 February 2024\n    \n*   Publisher Name: Springer, Singapore\n    \n*   Print ISBN: 978-981-99-9118-1\n    \n*   Online ISBN: 978-981-99-9119-8\n    \n*   eBook Packages: [Computer Science](https://link.springer.com/search?facet-content-type=%22Book%22&package=11645&facet-start-year=2024&facet-end-year=2024)[Computer Science (R0)](https://link.springer.com/search?facet-content-type=%22Book%22&package=43710&facet-start-year=2024&facet-end-year=2024)\n    \n\nPublish with us\n---------------",
+  "publishedTime": "2024",
+  "usage": {
+    "tokens": 3123
+  }
+}
+```

@@ -1,0 +1,126 @@
+---
+title: Introducing Zapier Central: Teach AI bots to work on their own—across your apps
+description: Most AI automation tools can't work without you. With Zapier Central, you can teach AI bots to handle tasks while you're busy—no code required. Try it now for free.
+url: https://zapier.com/blog/introducing-zapier-central-ai-bots/
+timestamp: 2025-01-20T16:00:18.302Z
+domain: zapier.com
+path: blog_introducing-zapier-central-ai-bots
+---
+
+# Introducing Zapier Central: Teach AI bots to work on their own—across your apps
+
+
+Most AI automation tools can't work without you. With Zapier Central, you can teach AI bots to handle tasks while you're busy—no code required. Try it now for free.
+
+
+## Content
+
+Over 10 years ago, we launched Zapier with a simple idea: computers should do more work for you. You took that idea and ran with it. Today, our customers automate over two billion tasks every month. And with the fast emergence of AI, you've delegated even more work.
+
+You're already automating over 50 million tasks a month specifically to AI in Zapier. There isn't a better example that AI and automation are teaming up to drive major business impact.
+
+Still, most tools fall short of AI automation. They need constant instruction to work. They can't act without you. And they struggle to integrate with your other apps.
+
+That's why we're excited to introduce [Zapier Central](https://zapier.com/central), an experimental workspace where you can teach AI bots how to handle tasks in your favorite apps.
+
+Zapier Central is in active development and available as a public preview. ➡️ [Try it now for free](https://central.zapier.com/)
+
+What is Zapier Central?
+-----------------------
+
+![Image 25: A screenshot of Zapier Central](https://images.ctfassets.net/lzny33ho1g45/4tSx8Kc0GO0jo6IJbTI4dB/35587dbf24f409c5eed41fbe43892040/Screen_Shot_2024-03-04_at_1.33.46_PM.png?w=1400)
+
+Zapier Central combines the intelligence of AI with an automation platform that more than 2.2 million companies rely on daily. The result: bots that work more like teammates than programs.
+
+With Central, you can:
+
+*   **Add automation** so your bot will work in the background. You can teach each bot the exact behaviors to follow, without any code.
+    
+*   **Connect to 6,000+ apps** with just a few clicks, so your bot can work anywhere. Central can even set up actions for you.
+    
+*   **Work with live data** from a spreadsheet, Google Doc, or Notion. Just ask, and Central will reference the most recent info.
+    
+*   **Work hand-in-hand with bots** to complete tasks in any app you connect to Central. Ask bots to "Send an email," "Update my spreadsheet," or "Tell me more about this customer."
+    
+
+"We're putting Central in your hands while it's still in active development, so we can build it to fit your needs," says Anna Marie Clifton, head of Zapier Central. "You're not just trying out a new product—you're shaping the future of AI automation."
+
+To accelerate Central's development, we've acquired a company called [Vowel](https://www.vowel.com/). The Vowel team—including CEO Andrew Berman—brings deep AI expertise to Zapier from their time building an AI video conferencing tool.
+
+This move underscores our conviction that AI automation is the future of work for everyone. We want to make this a reality faster, so customers like you can automate more work.
+
+Ready to work hand-in-hand with an AI bot? You can get started for free right now.
+
+How Central works
+-----------------
+
+When you open Central for the first time, you'll see a chat interface with options to customize your bots.
+
+**Here's how to get started:**
+
+1.  [Add data](https://zapier.com/blog/introducing-zapier-central-ai-bots/#data)
+    
+2.  [Teach your bot how to act](https://zapier.com/blog/introducing-zapier-central-ai-bots/#behavior)
+    
+3.  [Start interacting with your bot](https://zapier.com/blog/introducing-zapier-central-ai-bots/#interact)
+    
+
+### 1\. Start by adding data
+
+![Image 26: Select a Google Sheet, Google Doc, or a Notion account to use as a data source.](https://images.ctfassets.net/lzny33ho1g45/2lQ5ihOGEoMGJ0pCEeOeWK/6bb8076bb53cf4a79f0981ab0b822d60/2516c27c8c6c74e84fd7fcbfa9d26de1.png?w=1400)
+
+Start by adding knowledge sources to your bot. You can connect a Google Sheet, Google Doc, or Notion account for your bot to reference.
+
+Once your bot is ready, it can pull out relevant info for you to use in your workflows.
+
+We're continuously adding new options for knowledge sources. As Central grows, you'll soon be able to pull live data from more apps you use daily.
+
+### 2\. Teach your bot how to act
+
+![Image 27: Teach your bot behaviors it should take with certain data.](https://images.ctfassets.net/lzny33ho1g45/6HAeRLIxcX5fTylUtOBgEo/a68d208777ebe1d5b81e8c4b1d565fef/493ee6154790b2b9bbb76315c3c8fac9.png?w=1400)
+
+Next, teach your bot some behaviors or instructions it should follow. Through behaviors, your bots can take action in any of [Zapier's 6,000+ integrations](http://zapier.com/bots/apps).
+
+As you type, Central will suggest different ways that you can build the behavior and when it should trigger. Bots can follow those instructions with or without your presence.
+
+### 3\. Interact with your bot
+
+![Image 28: Interact with your bot and work together to get stuff done.](https://images.ctfassets.net/lzny33ho1g45/2sc0NaZaIyZCgWBWmVUynE/dc85f919a0aae341a9c9ffc3741c6a0d/6d98a45dd69e68b72dd40b71d010db81.png?w=1400)
+
+Once a Central bot is connected to your knowledge and understands the task at hand, you're ready to work together. Ask a question or make a request in the chatbox, and work hand-in-hand with your bot to get stuff done.
+
+You can create multiple bots, too—one for each task you want to work on.
+
+Ideas for how to get started with Central
+-----------------------------------------
+
+Just like in Zapier, there are endless possibilities for AI automation within Central. Here are a few ideas to spark your imagination:
+
+*   Ask a spreadsheet about customer sentiment, order status, or new leads.
+    
+*   Send follow-up messages to remind teams about deadlines or customers about invoices.
+    
+*   Teach bots to enrich new leads with background info and update their records across your CRM.
+    
+*   Queue up replies to your customer support requests, and approve them before they go out.
+    
+
+Help us shape the future of AI automation
+-----------------------------------------
+
+You're in on the ground floor. Your feedback is crucial as we refine and expand Central's capabilities. So take it for a spin, push its limits, and tell us what you think. We're excited to see what you create with it.
+
+## Metadata
+
+```json
+{
+  "title": "Introducing Zapier Central: Teach AI bots to work on their own—across your apps",
+  "description": "Most AI automation tools can't work without you. With Zapier Central, you can teach AI bots to handle tasks while you're busy—no code required. Try it now for free.",
+  "url": "https://zapier.com/blog/introducing-zapier-central-ai-bots/",
+  "content": "Over 10 years ago, we launched Zapier with a simple idea: computers should do more work for you. You took that idea and ran with it. Today, our customers automate over two billion tasks every month. And with the fast emergence of AI, you've delegated even more work.\n\nYou're already automating over 50 million tasks a month specifically to AI in Zapier. There isn't a better example that AI and automation are teaming up to drive major business impact.\n\nStill, most tools fall short of AI automation. They need constant instruction to work. They can't act without you. And they struggle to integrate with your other apps.\n\nThat's why we're excited to introduce [Zapier Central](https://zapier.com/central), an experimental workspace where you can teach AI bots how to handle tasks in your favorite apps.\n\nZapier Central is in active development and available as a public preview. ➡️ [Try it now for free](https://central.zapier.com/)\n\nWhat is Zapier Central?\n-----------------------\n\n![Image 25: A screenshot of Zapier Central](https://images.ctfassets.net/lzny33ho1g45/4tSx8Kc0GO0jo6IJbTI4dB/35587dbf24f409c5eed41fbe43892040/Screen_Shot_2024-03-04_at_1.33.46_PM.png?w=1400)\n\nZapier Central combines the intelligence of AI with an automation platform that more than 2.2 million companies rely on daily. The result: bots that work more like teammates than programs.\n\nWith Central, you can:\n\n*   **Add automation** so your bot will work in the background. You can teach each bot the exact behaviors to follow, without any code.\n    \n*   **Connect to 6,000+ apps** with just a few clicks, so your bot can work anywhere. Central can even set up actions for you.\n    \n*   **Work with live data** from a spreadsheet, Google Doc, or Notion. Just ask, and Central will reference the most recent info.\n    \n*   **Work hand-in-hand with bots** to complete tasks in any app you connect to Central. Ask bots to \"Send an email,\" \"Update my spreadsheet,\" or \"Tell me more about this customer.\"\n    \n\n\"We're putting Central in your hands while it's still in active development, so we can build it to fit your needs,\" says Anna Marie Clifton, head of Zapier Central. \"You're not just trying out a new product—you're shaping the future of AI automation.\"\n\nTo accelerate Central's development, we've acquired a company called [Vowel](https://www.vowel.com/). The Vowel team—including CEO Andrew Berman—brings deep AI expertise to Zapier from their time building an AI video conferencing tool.\n\nThis move underscores our conviction that AI automation is the future of work for everyone. We want to make this a reality faster, so customers like you can automate more work.\n\nReady to work hand-in-hand with an AI bot? You can get started for free right now.\n\nHow Central works\n-----------------\n\nWhen you open Central for the first time, you'll see a chat interface with options to customize your bots.\n\n**Here's how to get started:**\n\n1.  [Add data](https://zapier.com/blog/introducing-zapier-central-ai-bots/#data)\n    \n2.  [Teach your bot how to act](https://zapier.com/blog/introducing-zapier-central-ai-bots/#behavior)\n    \n3.  [Start interacting with your bot](https://zapier.com/blog/introducing-zapier-central-ai-bots/#interact)\n    \n\n### 1\\. Start by adding data\n\n![Image 26: Select a Google Sheet, Google Doc, or a Notion account to use as a data source.](https://images.ctfassets.net/lzny33ho1g45/2lQ5ihOGEoMGJ0pCEeOeWK/6bb8076bb53cf4a79f0981ab0b822d60/2516c27c8c6c74e84fd7fcbfa9d26de1.png?w=1400)\n\nStart by adding knowledge sources to your bot. You can connect a Google Sheet, Google Doc, or Notion account for your bot to reference.\n\nOnce your bot is ready, it can pull out relevant info for you to use in your workflows.\n\nWe're continuously adding new options for knowledge sources. As Central grows, you'll soon be able to pull live data from more apps you use daily.\n\n### 2\\. Teach your bot how to act\n\n![Image 27: Teach your bot behaviors it should take with certain data.](https://images.ctfassets.net/lzny33ho1g45/6HAeRLIxcX5fTylUtOBgEo/a68d208777ebe1d5b81e8c4b1d565fef/493ee6154790b2b9bbb76315c3c8fac9.png?w=1400)\n\nNext, teach your bot some behaviors or instructions it should follow. Through behaviors, your bots can take action in any of [Zapier's 6,000+ integrations](http://zapier.com/bots/apps).\n\nAs you type, Central will suggest different ways that you can build the behavior and when it should trigger. Bots can follow those instructions with or without your presence.\n\n### 3\\. Interact with your bot\n\n![Image 28: Interact with your bot and work together to get stuff done.](https://images.ctfassets.net/lzny33ho1g45/2sc0NaZaIyZCgWBWmVUynE/dc85f919a0aae341a9c9ffc3741c6a0d/6d98a45dd69e68b72dd40b71d010db81.png?w=1400)\n\nOnce a Central bot is connected to your knowledge and understands the task at hand, you're ready to work together. Ask a question or make a request in the chatbox, and work hand-in-hand with your bot to get stuff done.\n\nYou can create multiple bots, too—one for each task you want to work on.\n\nIdeas for how to get started with Central\n-----------------------------------------\n\nJust like in Zapier, there are endless possibilities for AI automation within Central. Here are a few ideas to spark your imagination:\n\n*   Ask a spreadsheet about customer sentiment, order status, or new leads.\n    \n*   Send follow-up messages to remind teams about deadlines or customers about invoices.\n    \n*   Teach bots to enrich new leads with background info and update their records across your CRM.\n    \n*   Queue up replies to your customer support requests, and approve them before they go out.\n    \n\nHelp us shape the future of AI automation\n-----------------------------------------\n\nYou're in on the ground floor. Your feedback is crucial as we refine and expand Central's capabilities. So take it for a spin, push its limits, and tell us what you think. We're excited to see what you create with it.",
+  "publishedTime": "March 6, 2024",
+  "usage": {
+    "tokens": 1509
+  }
+}
+```

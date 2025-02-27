@@ -1,0 +1,5 @@
+Sign in with
+
+Don't have an account? [Sign up](https://buildship.app/sign-up)
+
+By continuing, you are indicating that you accept our [Terms of Service](https://www.buildship.com/terms) and [Privacy Policy](https://www.buildship.com/privacy).

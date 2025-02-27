@@ -1,0 +1,3 @@
+Generate feedback colors (success, warning, error, and info) for shadcn/ui
+
+[Go to generator](https://ui.jln.dev/feedback-colors-generator-for-shadcn-ui)

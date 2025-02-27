@@ -1,0 +1,872 @@
+---
+title: Log10 – AI Accuracy. Delivered.
+description: Improve LLM accuracy by 50% or more with Log10's AutoFeedback. Scale human perspective by 1000x using fine-tuned models and synthetic data. Optimize generative AI applications with advanced features, custom models, and dedicated support.
+url: https://log10.io/
+timestamp: 2025-01-20T15:47:32.610Z
+domain: log10.io
+path: root
+---
+
+# Log10 – AI Accuracy. Delivered.
+
+
+Improve LLM accuracy by 50% or more with Log10's AutoFeedback. Scale human perspective by 1000x using fine-tuned models and synthetic data. Optimize generative AI applications with advanced features, custom models, and dedicated support.
+
+
+## Content
+
+Log10 – AI Accuracy. Delivered.
+===============
+
+![Image 149](https://px.ads.linkedin.com/collect/?pid=5634412&fmt=gif)
+
+[![Image 150](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)
+
+[Platform](https://log10.io/platform)
+
+[Pricing](https://log10.io/pricing)
+
+Solutions
+
+Developers
+
+Resources
+
+[Sign in](https://log10.io/signin)
+
+[Get started](https://log10.io/signup)
+
+[![Image 151](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)
+
+[![Image 152](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)
+
+[![Image 153](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)
+
+Build AI you can actually trust
+===============================
+
+Deploy AI with confidence in high-stakes, regulated industries.
+
+[Get started](https://log10.io/signup)
+
+[Get started](https://log10.io/signup)
+
+[Get started](https://log10.io/signup)
+
+[Get started](https://log10.io/signup)
+
+[Request a demo](https://log10.io/request-demo)
+
+[Request a demo](https://log10.io/request-demo)
+
+[Request a demo](https://log10.io/request-demo)
+
+[Request a demo](https://log10.io/request-demo)
+
+Trusted by the Accuracy-obsessed at:
+
+*   ![Image 154](https://framerusercontent.com/images/clLEgvnBayHFWG14EWOnUc1uSU.svg)
+    
+*   ![Image 155](https://framerusercontent.com/images/TBzJfSoUQWKhqwqGYJPLAccaDs.svg)
+    
+*   ![Image 156](https://framerusercontent.com/images/G5hvbMV8re92Q1rn6bJMvwlwDU.svg)
+    
+*   ![Image 157](https://framerusercontent.com/images/os9IjTz6ifWMfy02EH7MpcecBEI.svg)
+    
+*   ![Image 158](https://framerusercontent.com/images/RxptwDRk1wNT4kKt8EAe32Mk8.svg)
+    
+*   ![Image 159](https://framerusercontent.com/images/yDpYYP6pjy3wr2TcZydhm39Zdg.svg)
+    
+*   ![Image 160](https://framerusercontent.com/images/UrsTTWM52zVHL3ds87s2ffv5RwM.svg)
+    
+*   ![Image 161](https://framerusercontent.com/images/KVZ5W2ckcV0tXIphuuQu2DFKE.svg)
+    
+*   ![Image 162](https://framerusercontent.com/images/u6G5IN6WCMpLR3VCdMl5I4S49Q4.svg)
+    
+*   ![Image 163](https://framerusercontent.com/images/zZ617vhEzXrFHqTABtNBPITQ.svg)
+    
+
+*   ![Image 164](https://framerusercontent.com/images/clLEgvnBayHFWG14EWOnUc1uSU.svg)
+    
+*   ![Image 165](https://framerusercontent.com/images/TBzJfSoUQWKhqwqGYJPLAccaDs.svg)
+    
+*   ![Image 166](https://framerusercontent.com/images/G5hvbMV8re92Q1rn6bJMvwlwDU.svg)
+    
+*   ![Image 167](https://framerusercontent.com/images/os9IjTz6ifWMfy02EH7MpcecBEI.svg)
+    
+*   ![Image 168](https://framerusercontent.com/images/RxptwDRk1wNT4kKt8EAe32Mk8.svg)
+    
+*   ![Image 169](https://framerusercontent.com/images/yDpYYP6pjy3wr2TcZydhm39Zdg.svg)
+    
+*   ![Image 170](https://framerusercontent.com/images/UrsTTWM52zVHL3ds87s2ffv5RwM.svg)
+    
+*   ![Image 171](https://framerusercontent.com/images/KVZ5W2ckcV0tXIphuuQu2DFKE.svg)
+    
+*   ![Image 172](https://framerusercontent.com/images/u6G5IN6WCMpLR3VCdMl5I4S49Q4.svg)
+    
+*   ![Image 173](https://framerusercontent.com/images/zZ617vhEzXrFHqTABtNBPITQ.svg)
+    
+
+*   ![Image 174](https://framerusercontent.com/images/clLEgvnBayHFWG14EWOnUc1uSU.svg)
+    
+*   ![Image 175](https://framerusercontent.com/images/TBzJfSoUQWKhqwqGYJPLAccaDs.svg)
+    
+*   ![Image 176](https://framerusercontent.com/images/G5hvbMV8re92Q1rn6bJMvwlwDU.svg)
+    
+*   ![Image 177](https://framerusercontent.com/images/os9IjTz6ifWMfy02EH7MpcecBEI.svg)
+    
+*   ![Image 178](https://framerusercontent.com/images/RxptwDRk1wNT4kKt8EAe32Mk8.svg)
+    
+*   ![Image 179](https://framerusercontent.com/images/yDpYYP6pjy3wr2TcZydhm39Zdg.svg)
+    
+*   ![Image 180](https://framerusercontent.com/images/UrsTTWM52zVHL3ds87s2ffv5RwM.svg)
+    
+*   ![Image 181](https://framerusercontent.com/images/KVZ5W2ckcV0tXIphuuQu2DFKE.svg)
+    
+*   ![Image 182](https://framerusercontent.com/images/u6G5IN6WCMpLR3VCdMl5I4S49Q4.svg)
+    
+*   ![Image 183](https://framerusercontent.com/images/zZ617vhEzXrFHqTABtNBPITQ.svg)
+    
+
+*   ![Image 184](https://framerusercontent.com/images/clLEgvnBayHFWG14EWOnUc1uSU.svg)
+    
+*   ![Image 185](https://framerusercontent.com/images/TBzJfSoUQWKhqwqGYJPLAccaDs.svg)
+    
+*   ![Image 186](https://framerusercontent.com/images/G5hvbMV8re92Q1rn6bJMvwlwDU.svg)
+    
+*   ![Image 187](https://framerusercontent.com/images/os9IjTz6ifWMfy02EH7MpcecBEI.svg)
+    
+*   ![Image 188](https://framerusercontent.com/images/RxptwDRk1wNT4kKt8EAe32Mk8.svg)
+    
+*   ![Image 189](https://framerusercontent.com/images/yDpYYP6pjy3wr2TcZydhm39Zdg.svg)
+    
+*   ![Image 190](https://framerusercontent.com/images/UrsTTWM52zVHL3ds87s2ffv5RwM.svg)
+    
+*   ![Image 191](https://framerusercontent.com/images/KVZ5W2ckcV0tXIphuuQu2DFKE.svg)
+    
+*   ![Image 192](https://framerusercontent.com/images/u6G5IN6WCMpLR3VCdMl5I4S49Q4.svg)
+    
+*   ![Image 193](https://framerusercontent.com/images/zZ617vhEzXrFHqTABtNBPITQ.svg)
+    
+
+![Image 194](https://framerusercontent.com/images/qevCWWnQhfImBxLHk4ViPRASAo.jpg?scale-down-to=1024)
+
+![Image 195](https://framerusercontent.com/images/qevCWWnQhfImBxLHk4ViPRASAo.jpg?scale-down-to=1024)
+
+![Image 196](https://framerusercontent.com/images/qevCWWnQhfImBxLHk4ViPRASAo.jpg?scale-down-to=1024)
+
+![Image 197](https://framerusercontent.com/images/qevCWWnQhfImBxLHk4ViPRASAo.jpg?scale-down-to=1024)
+
+RISK DETECTION
+
+RISK DETECTION
+
+Errors and hallucinations in LLMs pose significant risks.
+=========================================================
+
+LLMs can produce unreliable results, leading to catastrophic consequences in high-stakes domains such as healthcare, finance, insurance, and law.
+
+LLMs can produce unreliable results, leading to catastrophic consequences in high-stakes domains such as healthcare, finance, insurance, and law.
+
+LLMs can produce unreliable results, leading to catastrophic consequences in high-stakes domains such as healthcare, finance, insurance, and law.
+
+QUALITY ASSURANCE
+
+QUALITY ASSURANCE
+
+Measuring subjectivity is hard, especially in real time.
+========================================================
+
+Programmatic approaches to evaluation struggle to detect nuances and introduce significant lag time, resulting in poor customer experiences.
+
+Programmatic approaches to evaluation struggle to detect nuances and introduce significant lag time, resulting in poor customer experiences.
+
+Programmatic approaches to evaluation struggle to detect nuances and introduce significant lag time, resulting in poor customer experiences.
+
+![Image 198](https://framerusercontent.com/images/DYzCHN5fQffQshJ7qetu7pwCYk.jpg?scale-down-to=1024)
+
+![Image 199](https://framerusercontent.com/images/DYzCHN5fQffQshJ7qetu7pwCYk.jpg?scale-down-to=1024)
+
+![Image 200](https://framerusercontent.com/images/DYzCHN5fQffQshJ7qetu7pwCYk.jpg?scale-down-to=1024)
+
+![Image 201](https://framerusercontent.com/images/DYzCHN5fQffQshJ7qetu7pwCYk.jpg?scale-down-to=1024)
+
+![Image 202](https://framerusercontent.com/images/Zl8FvJeOL3CzM3Bz0sxAmsKEpk.jpg?scale-down-to=1024)
+
+![Image 203](https://framerusercontent.com/images/Zl8FvJeOL3CzM3Bz0sxAmsKEpk.jpg?scale-down-to=1024)
+
+![Image 204](https://framerusercontent.com/images/Zl8FvJeOL3CzM3Bz0sxAmsKEpk.jpg?scale-down-to=1024)
+
+![Image 205](https://framerusercontent.com/images/Zl8FvJeOL3CzM3Bz0sxAmsKEpk.jpg?scale-down-to=1024)
+
+SCALABILITY
+
+SCALABILITY
+
+AI needs domain experts, but they’re a bottleneck.
+==================================================
+
+Expert oversight ensures accuracy and safety, but manually reviewing thousands or millions of LLM completions in real time is impossible.
+
+Expert oversight ensures accuracy and safety, but manually reviewing thousands or millions of LLM completions in real time is impossible.
+
+Expert oversight ensures accuracy and safety, but manually reviewing thousands or millions of LLM completions in real time is impossible.
+
+Your dev team needs an end-to-end AI accuracy solution.
+=======================================================
+
+Your dev team needs an end-to-end AI accuracy solution.
+=======================================================
+
+Your dev team needs an end-to-end AI accuracy solution.
+=======================================================
+
+Your dev team needs an end-to-end AI accuracy solution.
+=======================================================
+
+### From
+
+### dev
+
+### to
+
+### prod
+
+AI accuracy at every stage of your product journey.
+===================================================
+
+Evaluate LLM-based agentic applications with expert precision and drive real-time accuracy improvements through streamlined workflows and automation.
+
+![Image 206](https://framerusercontent.com/images/0DCbZbU3BlnYNYVZRI2XZApIDuk.png?scale-down-to=2048)
+
+![Image 207](https://framerusercontent.com/images/0DCbZbU3BlnYNYVZRI2XZApIDuk.png?scale-down-to=2048)
+
+![Image 208](https://framerusercontent.com/images/0DCbZbU3BlnYNYVZRI2XZApIDuk.png?scale-down-to=2048)
+
+![Image 209](https://framerusercontent.com/images/0DCbZbU3BlnYNYVZRI2XZApIDuk.png?scale-down-to=2048)
+
+The #1 platform for LLMOPS
+
+Introducing the LLM efficiency suite.
+=====================================
+
+Speed up development with an AI system that scales expert review, enables real-time error detection, and empowers your team to achieve production-level accuracy.
+
+[Explore the platform](https://log10.io/platform)
+
+[Explore the platform](https://log10.io/platform)
+
+[Explore the platform](https://log10.io/platform)
+
+[Explore the platform](https://log10.io/platform)
+
+![Image 210](https://framerusercontent.com/images/01fMLXaVfocDVnRc0z3DIQyRfOs.jpg?scale-down-to=1024)
+
+![Image 211](https://framerusercontent.com/images/01fMLXaVfocDVnRc0z3DIQyRfOs.jpg?scale-down-to=1024)
+
+![Image 212](https://framerusercontent.com/images/01fMLXaVfocDVnRc0z3DIQyRfOs.jpg?scale-down-to=1024)
+
+![Image 213](https://framerusercontent.com/images/01fMLXaVfocDVnRc0z3DIQyRfOs.jpg?scale-down-to=1024)
+
+**Logs & Annotation**
+
+Capture expert insight.
+-----------------------
+
+### Capture expert insight.
+
+### Capture expert insight.
+
+### Capture expert insight.
+
+Create evaluation criteria and review LLM completions in a streamlined Inbox, incorporating feedback from end users through the API. Annotations flow into the Feedback Stream, powering automatic dataset curation.
+
+Create evaluation criteria and review LLM completions in a streamlined Inbox, incorporating feedback from end users through the API. Annotations flow into the Feedback Stream, powering automatic dataset curation.
+
+Create evaluation criteria and review LLM completions in a streamlined Inbox, incorporating feedback from end users through the API. Annotations flow into the Feedback Stream, powering automatic dataset curation.
+
+![Image 214](https://framerusercontent.com/images/4GUv8rhdi3sJiFmIY8FzZpPApQ.jpg)
+
+![Image 215](https://framerusercontent.com/images/4GUv8rhdi3sJiFmIY8FzZpPApQ.jpg)
+
+![Image 216](https://framerusercontent.com/images/4GUv8rhdi3sJiFmIY8FzZpPApQ.jpg)
+
+![Image 217](https://framerusercontent.com/images/4GUv8rhdi3sJiFmIY8FzZpPApQ.jpg)
+
+**Evaluation**
+
+Continuously evaluate.
+----------------------
+
+### Continuously evaluate.
+
+### Continuously evaluate.
+
+### Continuously evaluate.
+
+Establish evaluation-driven development with a declarative test suite that seamlessly utilizes platform-curated datasets to achieve accuracy targets. Integrate with CI/CD to prevent hallucinations as models and prompts evolve.
+
+Establish evaluation-driven development with a declarative test suite that seamlessly utilizes platform-curated datasets to achieve accuracy targets. Integrate with CI/CD to prevent hallucinations as models and prompts evolve.
+
+Establish evaluation-driven development with a declarative test suite that seamlessly utilizes platform-curated datasets to achieve accuracy targets. Integrate with CI/CD to prevent hallucinations as models and prompts evolve.
+
+![Image 218](https://framerusercontent.com/images/OVFTizphDLt7TcNXflB3Stp8A.jpg?scale-down-to=1024)
+
+![Image 219](https://framerusercontent.com/images/OVFTizphDLt7TcNXflB3Stp8A.jpg?scale-down-to=1024)
+
+![Image 220](https://framerusercontent.com/images/OVFTizphDLt7TcNXflB3Stp8A.jpg?scale-down-to=1024)
+
+![Image 221](https://framerusercontent.com/images/OVFTizphDLt7TcNXflB3Stp8A.jpg?scale-down-to=1024)
+
+**AutoFeedback**
+
+Rapidly assess AI performance.
+------------------------------
+
+### Rapidly assess AI performance.
+
+### Rapidly assess AI performance.
+
+### Rapidly assess AI performance.
+
+Log10 AutoFeedback instantly evaluates LLM completions with expert-level precision using only a few samples, scaling expert review in a fraction of the time and delivering a real-time accuracy signal that reflects the user experience.
+
+Log10 AutoFeedback instantly evaluates LLM completions with expert-level precision using only a few samples, scaling expert review in a fraction of the time and delivering a real-time accuracy signal that reflects the user experience.
+
+Log10 AutoFeedback instantly evaluates LLM completions with expert-level precision using only a few samples, scaling expert review in a fraction of the time and delivering a real-time accuracy signal that reflects the user experience.
+
+![Image 222](https://framerusercontent.com/images/22l9ZwotppCFyHZh9c2KwftcnaU.jpg?scale-down-to=1024)
+
+![Image 223](https://framerusercontent.com/images/22l9ZwotppCFyHZh9c2KwftcnaU.jpg?scale-down-to=1024)
+
+![Image 224](https://framerusercontent.com/images/22l9ZwotppCFyHZh9c2KwftcnaU.jpg?scale-down-to=1024)
+
+![Image 225](https://framerusercontent.com/images/22l9ZwotppCFyHZh9c2KwftcnaU.jpg?scale-down-to=1024)
+
+**Monitoring & Alerts**
+
+Respond to critical errors.
+---------------------------
+
+### Respond to critical errors.
+
+### Respond to critical errors.
+
+### Respond to critical errors.
+
+With a real-time AutoFeedback accuracy signal, establish quality threshold targets and gain clear insights into your application’s performance. Receive alerts when quality dips below critical levels.
+
+With a real-time AutoFeedback accuracy signal, establish quality threshold targets and gain clear insights into your application’s performance. Receive alerts when quality dips below critical levels.
+
+With a real-time AutoFeedback accuracy signal, establish quality threshold targets and gain clear insights into your application’s performance. Receive alerts when quality dips below critical levels.
+
+![Image 226](https://framerusercontent.com/images/dSmNATBYxUWD9lce1iUWtjfZqk.jpg?scale-down-to=1024)
+
+![Image 227](https://framerusercontent.com/images/dSmNATBYxUWD9lce1iUWtjfZqk.jpg?scale-down-to=1024)
+
+![Image 228](https://framerusercontent.com/images/dSmNATBYxUWD9lce1iUWtjfZqk.jpg?scale-down-to=1024)
+
+![Image 229](https://framerusercontent.com/images/dSmNATBYxUWD9lce1iUWtjfZqk.jpg?scale-down-to=1024)
+
+**Issue Triage**
+
+Fix top accuracy problems.
+--------------------------
+
+### Fix top accuracy problems.
+
+### Fix top accuracy problems.
+
+### Fix top accuracy problems.
+
+Leveraging a real-time AutoFeedback accuracy signal, errors are automatically prioritized and queued for resolution. Engineers can debug and address these issues using the Log10 LLM IDE.
+
+Leveraging a real-time AutoFeedback accuracy signal, errors are automatically prioritized and queued for resolution. Engineers can debug and address these issues using the Log10 LLM IDE.
+
+Leveraging a real-time AutoFeedback accuracy signal, errors are automatically prioritized and queued for resolution. Engineers can debug and address these issues using the Log10 LLM IDE.
+
+![Image 230](https://framerusercontent.com/images/yJipQyoQeRabsJXIbAaiS2Wt8WI.jpg?scale-down-to=1024)
+
+![Image 231](https://framerusercontent.com/images/yJipQyoQeRabsJXIbAaiS2Wt8WI.jpg?scale-down-to=1024)
+
+![Image 232](https://framerusercontent.com/images/yJipQyoQeRabsJXIbAaiS2Wt8WI.jpg?scale-down-to=1024)
+
+**Tuning**
+
+Enhance reliability as you scale.
+---------------------------------
+
+### Enhance reliability as you scale.
+
+### Enhance reliability as you scale.
+
+As production feedback increases, the quality of curated datasets improves, creating a closed-loop system that allows for fine-tuning of prompts and models, resulting in greater application accuracy.
+
+As production feedback increases, the quality of curated datasets improves, creating a closed-loop system that allows for fine-tuning of prompts and models, resulting in greater application accuracy.
+
+![Image 233](https://framerusercontent.com/images/yJipQyoQeRabsJXIbAaiS2Wt8WI.jpg?scale-down-to=1024)
+
+**Tuning**
+
+### Enhance reliability as you scale.
+
+As production feedback increases, the quality of curated datasets improves, creating a closed-loop system that allows for fine-tuning of prompts and models, resulting in greater application accuracy.
+
+90%
+===
+
+**Spin up custom evaluations using 90% less data**
+
+Annotate just a few samples, then turn on Log10 AutoFeedback to begin auto-grading LLM completions based on your domain criteria.
+
+10x
+===
+
+**Scale subject matter expert review by 10x**
+
+Remove human-in-the-loop bottlenecks with precise, unbiased, real-time evaluations, enabling experts to complete their work in a fraction of the time.
+
+24/7
+====
+
+**Meet the team that delivers 24/7**
+
+We’re excited about solving the tough challenges of LLM accuracy and turning your prototypes into solutions that deliver ROI in production.
+
+90%
+===
+
+**Spin up custom evaluations using 90% less data**
+
+Annotate just a few samples, then turn on Log10 AutoFeedback to begin auto-grading LLM completions based on your domain criteria.
+
+10x
+===
+
+**Scale subject matter expert review by 10x**
+
+Remove human-in-the-loop bottlenecks with precise, unbiased, real-time evaluations, enabling experts to complete their work in a fraction of the time.
+
+24/7
+====
+
+**Meet the team that delivers 24/7**
+
+We’re excited about solving the tough challenges of LLM accuracy and turning your prototypes into solutions that deliver ROI in production.
+
+90%
+===
+
+**Spin up custom evaluations using 90% less data**
+
+Annotate just a few samples, then turn on Log10 AutoFeedback to begin auto-grading LLM completions based on your domain criteria.
+
+10x
+===
+
+**Scale subject matter expert review by 10x**
+
+Remove human-in-the-loop bottlenecks with precise, unbiased, real-time evaluations, enabling experts to complete their work in a fraction of the time.
+
+24/7
+====
+
+**Meet the team that delivers 24/7**
+
+We’re excited about solving the tough challenges of LLM accuracy and turning your prototypes into solutions that deliver ROI in production.
+
+90%
+===
+
+**Spin up custom evaluations using 90% less data**
+
+Annotate just a few samples, then turn on Log10 AutoFeedback to begin auto-grading LLM completions based on your domain criteria.
+
+10x
+===
+
+**Scale subject matter expert review by 10x**
+
+Remove human-in-the-loop bottlenecks with precise, unbiased, real-time evaluations, enabling experts to complete their work in a fraction of the time.
+
+24/7
+====
+
+**Meet the team that delivers 24/7**
+
+We’re excited about solving the tough challenges of LLM accuracy and turning your prototypes into solutions that deliver ROI in production.
+
+A platform you  can trust.
+==========================
+
+At the core of our platform is a robust security architecture designed to protect your data and ensure compliance with industry regulations. From the initial design phase to deployment and scaling, our solution integrates security measures, rigorous testing, and continuous monitoring to mitigate risks. We prioritize data privacy, regulatory compliance, and responsible AI use, giving you confidence in every aspect of your AI operations.
+
+### Data Ownership
+
+Your data is yours. Our platform ensures you maintain full ownership and control of your data. We never share, sell, or access your data without your consent, giving you confidence and peace of mind in every interaction.
+
+### Data Privacy
+
+We protect your data with advanced encryption and strict access controls. Customizable anonymization and retention policies put you in control of your data’s lifecycle.
+
+### Guardrails
+
+Built-in safeguards minimize risks like bias or misuse, ensuring fairness and transparency. Our customizable monitoring tools keep your AI operations safe and compliant.
+
+Don’t take it from us.  
+See how we’ve helped these companies.
+==============================================================
+
+*   [![Image 234](https://framerusercontent.com/images/2qEXmlqgv6VIeaLFI7KnA0JKCA.jpg) ### From Hassles to Help: Improving Patient Experiences in AI-Driven Call Centers “We're the ultimate call center operator. Our AI agent never calls in sick, never forgets a rule, and is always online.” – Jeffery Liu, Founder and co-CEO, Assort Health Read the case study](https://log10.io/case_studies/assort)
+    
+*   [![Image 235](https://framerusercontent.com/images/nGXzN3NWuDTOjmG177F8RSbGtc.jpg) ### Conquering Accuracy to Deploy Conversational AI at Enterprise Scale “Log10 is a critical part of our stack – we could not have scaled LLM accuracy without them.” – Alexander Kvamme, CEO, EchoAI Read the case study](https://log10.io/case_studies/echoai)
+    
+*   [![Image 236](https://framerusercontent.com/images/gzvfsA5RaT2JqOtiegAWAbl2YE.jpg) ### From RAGs to Riches: Improving the Accuracy of RAG Chatbots “The accuracy of our RAG chatbot has improved considerably with Log10.” – Chao Ma, Software Engineer, Lime Read the case study](https://log10.io/case_studies/lime)
+    
+*   [![Image 237](https://framerusercontent.com/images/nHiIKn9909UaCXTU9uI3iJuHDs.jpg) ### Boosting Confidence and Reducing Churn in AI Copilots “Log10 gives us the confidence to rapidly iterate our Financial Analyst copilot.” – Michael Struwig, Head of AI, OpenBB Read the case study](https://log10.io/case_studies/openbb)
+    
+
+![Image 238](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![Image 239](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)
+
+Don’t take it from us.  
+See how we’ve helped these companies.
+==============================================================
+
+*   [![Image 240](https://framerusercontent.com/images/2qEXmlqgv6VIeaLFI7KnA0JKCA.jpg) ### From Hassles to Help: Improving Patient Experiences in AI-Driven Call Centers “We're the ultimate call center operator. Our AI agent never calls in sick, never forgets a rule, and is always online.” – Jeffery Liu, Founder and co-CEO, Assort Health Read the case study](https://log10.io/case_studies/assort)
+    
+*   [![Image 241](https://framerusercontent.com/images/nGXzN3NWuDTOjmG177F8RSbGtc.jpg) ### Conquering Accuracy to Deploy Conversational AI at Enterprise Scale “Log10 is a critical part of our stack – we could not have scaled LLM accuracy without them.” – Alexander Kvamme, CEO, EchoAI Read the case study](https://log10.io/case_studies/echoai)
+    
+*   [![Image 242](https://framerusercontent.com/images/gzvfsA5RaT2JqOtiegAWAbl2YE.jpg) ### From RAGs to Riches: Improving the Accuracy of RAG Chatbots “The accuracy of our RAG chatbot has improved considerably with Log10.” – Chao Ma, Software Engineer, Lime Read the case study](https://log10.io/case_studies/lime)
+    
+*   [![Image 243](https://framerusercontent.com/images/nHiIKn9909UaCXTU9uI3iJuHDs.jpg) ### Boosting Confidence and Reducing Churn in AI Copilots “Log10 gives us the confidence to rapidly iterate our Financial Analyst copilot.” – Michael Struwig, Head of AI, OpenBB Read the case study](https://log10.io/case_studies/openbb)
+    
+
+![Image 244](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![Image 245](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)
+
+Don’t take it from us.  
+See how we’ve helped these companies.
+==============================================================
+
+*   [![Image 246](https://framerusercontent.com/images/2qEXmlqgv6VIeaLFI7KnA0JKCA.jpg) ### From Hassles to Help: Improving Patient Experiences in AI-Driven Call Centers “We're the ultimate call center operator. Our AI agent never calls in sick, never forgets a rule, and is always online.” – Jeffery Liu, Founder and co-CEO, Assort Health Read the case study](https://log10.io/case_studies/assort)
+    
+*   [![Image 247](https://framerusercontent.com/images/nGXzN3NWuDTOjmG177F8RSbGtc.jpg) ### Conquering Accuracy to Deploy Conversational AI at Enterprise Scale “Log10 is a critical part of our stack – we could not have scaled LLM accuracy without them.” – Alexander Kvamme, CEO, EchoAI Read the case study](https://log10.io/case_studies/echoai)
+    
+*   [![Image 248](https://framerusercontent.com/images/gzvfsA5RaT2JqOtiegAWAbl2YE.jpg) ### From RAGs to Riches: Improving the Accuracy of RAG Chatbots “The accuracy of our RAG chatbot has improved considerably with Log10.” – Chao Ma, Software Engineer, Lime Read the case study](https://log10.io/case_studies/lime)
+    
+*   [![Image 249](https://framerusercontent.com/images/nHiIKn9909UaCXTU9uI3iJuHDs.jpg) ### Boosting Confidence and Reducing Churn in AI Copilots “Log10 gives us the confidence to rapidly iterate our Financial Analyst copilot.” – Michael Struwig, Head of AI, OpenBB Read the case study](https://log10.io/case_studies/openbb)
+    
+
+![Image 250](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![Image 251](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)
+
+Don’t take it from us.  
+See how we’ve helped these companies.
+==============================================================
+
+*   [![Image 252](https://framerusercontent.com/images/2qEXmlqgv6VIeaLFI7KnA0JKCA.jpg) ### From Hassles to Help: Improving Patient Experiences in AI-Driven Call Centers “We're the ultimate call center operator. Our AI agent never calls in sick, never forgets a rule, and is always online.” – Jeffery Liu, Founder and co-CEO, Assort Health Read the case study](https://log10.io/case_studies/assort)
+    
+*   [![Image 253](https://framerusercontent.com/images/nGXzN3NWuDTOjmG177F8RSbGtc.jpg) ### Conquering Accuracy to Deploy Conversational AI at Enterprise Scale “Log10 is a critical part of our stack – we could not have scaled LLM accuracy without them.” – Alexander Kvamme, CEO, EchoAI Read the case study](https://log10.io/case_studies/echoai)
+    
+*   [![Image 254](https://framerusercontent.com/images/gzvfsA5RaT2JqOtiegAWAbl2YE.jpg) ### From RAGs to Riches: Improving the Accuracy of RAG Chatbots “The accuracy of our RAG chatbot has improved considerably with Log10.” – Chao Ma, Software Engineer, Lime Read the case study](https://log10.io/case_studies/lime)
+    
+*   [![Image 255](https://framerusercontent.com/images/nHiIKn9909UaCXTU9uI3iJuHDs.jpg) ### Boosting Confidence and Reducing Churn in AI Copilots “Log10 gives us the confidence to rapidly iterate our Financial Analyst copilot.” – Michael Struwig, Head of AI, OpenBB Read the case study](https://log10.io/case_studies/openbb)
+    
+
+![Image 256](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![Image 257](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)
+
+Ready to turn your PoCs into profitable AI solutions?
+=====================================================
+
+[Get started for free](https://log10.io/signup)
+
+[Request a demo](https://log10.io/request-demo)
+
+![Image 258](https://framerusercontent.com/images/t5gFEQlycIblXelncBEeTq1xBDQ.png?scale-down-to=2048)
+
+Ready to turn your PoCs into profitable AI solutions?
+=====================================================
+
+[Get started for free](https://log10.io/signup)
+
+[Request a demo](https://log10.io/request-demo)
+
+![Image 259](https://framerusercontent.com/images/t5gFEQlycIblXelncBEeTq1xBDQ.png?scale-down-to=2048)
+
+Ready to turn your PoCs into profitable AI solutions?
+=====================================================
+
+[Get started for free](https://log10.io/signup)
+
+[Request a demo](https://log10.io/request-demo)
+
+![Image 260](https://framerusercontent.com/images/t5gFEQlycIblXelncBEeTq1xBDQ.png?scale-down-to=2048)
+
+Ready to turn your PoCs into profitable AI solutions?
+=====================================================
+
+[Get started for free](https://log10.io/signup)
+
+[Request a demo](https://log10.io/request-demo)
+
+![Image 261](https://framerusercontent.com/images/t5gFEQlycIblXelncBEeTq1xBDQ.png?scale-down-to=2048)
+
+[![Image 262](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)
+
+[![Image 263](https://framerusercontent.com/images/aDt8wB8RLFAQXGsQEpGrlIUces.png)](https://www.linkedin.com/company/log10-io/)[![Image 264](https://framerusercontent.com/images/sn1gUnRTb8xs1B5AJGxRDEN4HR4.png)](https://twitter.com/log10io)
+
+Product
+
+[Platform](https://log10.io/platform)
+
+[Pricing](https://log10.io/pricing)
+
+Developers
+
+[Documentation](https://docs.log10.io/)
+
+[Demo videos](https://www.loom.com/share/folder/3f3429d2f9c84b0594595d2b997f28ba)
+
+[Github](https://github.com/log10-io)
+
+[Discord](https://discord.com/invite/CZQvnuRV94)
+
+Solutions
+
+**Industries**
+
+[Finance](https://log10.io/solutions/finance)
+
+[Healthcare](https://log10.io/solutions/healthcare)
+
+[Insurance](https://log10.io/solutions/insurance)
+
+[Legal](https://log10.io/solutions/legal)
+
+**Use Cases**
+
+[Conversation AI](https://log10.io/case_studies/echoai)
+
+[AI Copilots](https://log10.io/case_studies/openbb)
+
+[RAG Chatbots](https://log10.io/case_studies/lime)
+
+[Call Centers](https://log10.io/case_studies/assort)
+
+Resources
+
+[Blog](https://log10.io/blog)
+
+[About us](https://log10.io/archive/home)
+
+[Careers](https://log10.io/careers)
+
+[News](https://log10.io/news)
+
+[Support](https://log10.io/support)
+
+Legal
+
+[Terms](https://log10.io/terms)
+
+[Privacy](https://log10.io/privacy)
+
+© Copyright 2024 Log10, Inc. All rights reserved.
+
+[![Image 265](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)
+
+[![Image 266](https://framerusercontent.com/images/aDt8wB8RLFAQXGsQEpGrlIUces.png)](https://www.linkedin.com/company/log10-io/)[![Image 267](https://framerusercontent.com/images/sn1gUnRTb8xs1B5AJGxRDEN4HR4.png)](https://twitter.com/log10io)
+
+Product
+
+[Platform](https://log10.io/platform)
+
+[Pricing](https://log10.io/pricing)
+
+Developers
+
+[Documentation](https://docs.log10.io/)
+
+[Demo videos](https://www.loom.com/share/folder/3f3429d2f9c84b0594595d2b997f28ba)
+
+[Github](https://github.com/log10-io)
+
+[Discord](https://discord.com/invite/CZQvnuRV94)
+
+Solutions
+
+**Industries**
+
+[Finance](https://log10.io/solutions/finance)
+
+[Healthcare](https://log10.io/solutions/healthcare)
+
+[Insurance](https://log10.io/solutions/insurance)
+
+[Legal](https://log10.io/solutions/legal)
+
+**Use Cases**
+
+[Conversation AI](https://log10.io/case_studies/echoai)
+
+[AI Copilots](https://log10.io/case_studies/openbb)
+
+[RAG Chatbots](https://log10.io/case_studies/lime)
+
+[Call Centers](https://log10.io/case_studies/assort)
+
+Resources
+
+[Blog](https://log10.io/blog)
+
+[About us](https://log10.io/archive/home)
+
+[Careers](https://log10.io/careers)
+
+[News](https://log10.io/news)
+
+[Support](https://log10.io/support)
+
+Legal
+
+[Terms](https://log10.io/terms)
+
+[Privacy](https://log10.io/privacy)
+
+© Copyright 2024 Log10, Inc. All rights reserved.
+
+[![Image 268](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)
+
+[![Image 269](https://framerusercontent.com/images/aDt8wB8RLFAQXGsQEpGrlIUces.png)](https://www.linkedin.com/company/log10-io/)[![Image 270](https://framerusercontent.com/images/sn1gUnRTb8xs1B5AJGxRDEN4HR4.png)](https://twitter.com/log10io)
+
+Product
+
+[Platform](https://log10.io/platform)
+
+[Pricing](https://log10.io/pricing)
+
+Developers
+
+[Documentation](https://docs.log10.io/)
+
+[Demo videos](https://www.loom.com/share/folder/3f3429d2f9c84b0594595d2b997f28ba)
+
+[Github](https://github.com/log10-io)
+
+[Discord](https://discord.com/invite/CZQvnuRV94)
+
+Solutions
+
+**Industries**
+
+[Finance](https://log10.io/solutions/finance)
+
+[Healthcare](https://log10.io/solutions/healthcare)
+
+[Insurance](https://log10.io/solutions/insurance)
+
+[Legal](https://log10.io/solutions/legal)
+
+**Use Cases**
+
+[Conversation AI](https://log10.io/case_studies/echoai)
+
+[AI Copilots](https://log10.io/case_studies/openbb)
+
+[RAG Chatbots](https://log10.io/case_studies/lime)
+
+[Call Centers](https://log10.io/case_studies/assort)
+
+Resources
+
+[Blog](https://log10.io/blog)
+
+[About us](https://log10.io/archive/home)
+
+[Careers](https://log10.io/careers)
+
+[News](https://log10.io/news)
+
+[Support](https://log10.io/support)
+
+Legal
+
+[Terms](https://log10.io/terms)
+
+[Privacy](https://log10.io/privacy)
+
+© Copyright 2024 Log10, Inc. All rights reserved.
+
+[![Image 271](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)
+
+[![Image 272](https://framerusercontent.com/images/aDt8wB8RLFAQXGsQEpGrlIUces.png)](https://www.linkedin.com/company/log10-io/)[![Image 273](https://framerusercontent.com/images/sn1gUnRTb8xs1B5AJGxRDEN4HR4.png)](https://twitter.com/log10io)
+
+Product
+
+[Platform](https://log10.io/platform)
+
+[Pricing](https://log10.io/pricing)
+
+Developers
+
+[Documentation](https://docs.log10.io/)
+
+[Demo videos](https://www.loom.com/share/folder/3f3429d2f9c84b0594595d2b997f28ba)
+
+[Github](https://github.com/log10-io)
+
+[Discord](https://discord.com/invite/CZQvnuRV94)
+
+Solutions
+
+**Industries**
+
+[Finance](https://log10.io/solutions/finance)
+
+[Healthcare](https://log10.io/solutions/healthcare)
+
+[Insurance](https://log10.io/solutions/insurance)
+
+[Legal](https://log10.io/solutions/legal)
+
+**Use Cases**
+
+[Conversation AI](https://log10.io/case_studies/echoai)
+
+[AI Copilots](https://log10.io/case_studies/openbb)
+
+[RAG Chatbots](https://log10.io/case_studies/lime)
+
+[Call Centers](https://log10.io/case_studies/assort)
+
+Resources
+
+[Blog](https://log10.io/blog)
+
+[About us](https://log10.io/archive/home)
+
+[Careers](https://log10.io/careers)
+
+[News](https://log10.io/news)
+
+[Support](https://log10.io/support)
+
+Legal
+
+[Terms](https://log10.io/terms)
+
+[Privacy](https://log10.io/privacy)
+
+© Copyright 2024 Log10, Inc. All rights reserved.
+
+## Metadata
+
+```json
+{
+  "title": "Log10 – AI Accuracy. Delivered.",
+  "description": "Improve LLM accuracy by 50% or more with Log10's AutoFeedback. Scale human perspective by 1000x using fine-tuned models and synthetic data. Optimize generative AI applications with advanced features, custom models, and dedicated support.",
+  "url": "https://log10.io/",
+  "content": "Log10 – AI Accuracy. Delivered.\n===============\n\n![Image 149](https://px.ads.linkedin.com/collect/?pid=5634412&fmt=gif)\n\n[![Image 150](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)\n\n[Platform](https://log10.io/platform)\n\n[Pricing](https://log10.io/pricing)\n\nSolutions\n\nDevelopers\n\nResources\n\n[Sign in](https://log10.io/signin)\n\n[Get started](https://log10.io/signup)\n\n[![Image 151](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)\n\n[![Image 152](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)\n\n[![Image 153](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)\n\nBuild AI you can actually trust\n===============================\n\nDeploy AI with confidence in high-stakes, regulated industries.\n\n[Get started](https://log10.io/signup)\n\n[Get started](https://log10.io/signup)\n\n[Get started](https://log10.io/signup)\n\n[Get started](https://log10.io/signup)\n\n[Request a demo](https://log10.io/request-demo)\n\n[Request a demo](https://log10.io/request-demo)\n\n[Request a demo](https://log10.io/request-demo)\n\n[Request a demo](https://log10.io/request-demo)\n\nTrusted by the Accuracy-obsessed at:\n\n*   ![Image 154](https://framerusercontent.com/images/clLEgvnBayHFWG14EWOnUc1uSU.svg)\n    \n*   ![Image 155](https://framerusercontent.com/images/TBzJfSoUQWKhqwqGYJPLAccaDs.svg)\n    \n*   ![Image 156](https://framerusercontent.com/images/G5hvbMV8re92Q1rn6bJMvwlwDU.svg)\n    \n*   ![Image 157](https://framerusercontent.com/images/os9IjTz6ifWMfy02EH7MpcecBEI.svg)\n    \n*   ![Image 158](https://framerusercontent.com/images/RxptwDRk1wNT4kKt8EAe32Mk8.svg)\n    \n*   ![Image 159](https://framerusercontent.com/images/yDpYYP6pjy3wr2TcZydhm39Zdg.svg)\n    \n*   ![Image 160](https://framerusercontent.com/images/UrsTTWM52zVHL3ds87s2ffv5RwM.svg)\n    \n*   ![Image 161](https://framerusercontent.com/images/KVZ5W2ckcV0tXIphuuQu2DFKE.svg)\n    \n*   ![Image 162](https://framerusercontent.com/images/u6G5IN6WCMpLR3VCdMl5I4S49Q4.svg)\n    \n*   ![Image 163](https://framerusercontent.com/images/zZ617vhEzXrFHqTABtNBPITQ.svg)\n    \n\n*   ![Image 164](https://framerusercontent.com/images/clLEgvnBayHFWG14EWOnUc1uSU.svg)\n    \n*   ![Image 165](https://framerusercontent.com/images/TBzJfSoUQWKhqwqGYJPLAccaDs.svg)\n    \n*   ![Image 166](https://framerusercontent.com/images/G5hvbMV8re92Q1rn6bJMvwlwDU.svg)\n    \n*   ![Image 167](https://framerusercontent.com/images/os9IjTz6ifWMfy02EH7MpcecBEI.svg)\n    \n*   ![Image 168](https://framerusercontent.com/images/RxptwDRk1wNT4kKt8EAe32Mk8.svg)\n    \n*   ![Image 169](https://framerusercontent.com/images/yDpYYP6pjy3wr2TcZydhm39Zdg.svg)\n    \n*   ![Image 170](https://framerusercontent.com/images/UrsTTWM52zVHL3ds87s2ffv5RwM.svg)\n    \n*   ![Image 171](https://framerusercontent.com/images/KVZ5W2ckcV0tXIphuuQu2DFKE.svg)\n    \n*   ![Image 172](https://framerusercontent.com/images/u6G5IN6WCMpLR3VCdMl5I4S49Q4.svg)\n    \n*   ![Image 173](https://framerusercontent.com/images/zZ617vhEzXrFHqTABtNBPITQ.svg)\n    \n\n*   ![Image 174](https://framerusercontent.com/images/clLEgvnBayHFWG14EWOnUc1uSU.svg)\n    \n*   ![Image 175](https://framerusercontent.com/images/TBzJfSoUQWKhqwqGYJPLAccaDs.svg)\n    \n*   ![Image 176](https://framerusercontent.com/images/G5hvbMV8re92Q1rn6bJMvwlwDU.svg)\n    \n*   ![Image 177](https://framerusercontent.com/images/os9IjTz6ifWMfy02EH7MpcecBEI.svg)\n    \n*   ![Image 178](https://framerusercontent.com/images/RxptwDRk1wNT4kKt8EAe32Mk8.svg)\n    \n*   ![Image 179](https://framerusercontent.com/images/yDpYYP6pjy3wr2TcZydhm39Zdg.svg)\n    \n*   ![Image 180](https://framerusercontent.com/images/UrsTTWM52zVHL3ds87s2ffv5RwM.svg)\n    \n*   ![Image 181](https://framerusercontent.com/images/KVZ5W2ckcV0tXIphuuQu2DFKE.svg)\n    \n*   ![Image 182](https://framerusercontent.com/images/u6G5IN6WCMpLR3VCdMl5I4S49Q4.svg)\n    \n*   ![Image 183](https://framerusercontent.com/images/zZ617vhEzXrFHqTABtNBPITQ.svg)\n    \n\n*   ![Image 184](https://framerusercontent.com/images/clLEgvnBayHFWG14EWOnUc1uSU.svg)\n    \n*   ![Image 185](https://framerusercontent.com/images/TBzJfSoUQWKhqwqGYJPLAccaDs.svg)\n    \n*   ![Image 186](https://framerusercontent.com/images/G5hvbMV8re92Q1rn6bJMvwlwDU.svg)\n    \n*   ![Image 187](https://framerusercontent.com/images/os9IjTz6ifWMfy02EH7MpcecBEI.svg)\n    \n*   ![Image 188](https://framerusercontent.com/images/RxptwDRk1wNT4kKt8EAe32Mk8.svg)\n    \n*   ![Image 189](https://framerusercontent.com/images/yDpYYP6pjy3wr2TcZydhm39Zdg.svg)\n    \n*   ![Image 190](https://framerusercontent.com/images/UrsTTWM52zVHL3ds87s2ffv5RwM.svg)\n    \n*   ![Image 191](https://framerusercontent.com/images/KVZ5W2ckcV0tXIphuuQu2DFKE.svg)\n    \n*   ![Image 192](https://framerusercontent.com/images/u6G5IN6WCMpLR3VCdMl5I4S49Q4.svg)\n    \n*   ![Image 193](https://framerusercontent.com/images/zZ617vhEzXrFHqTABtNBPITQ.svg)\n    \n\n![Image 194](https://framerusercontent.com/images/qevCWWnQhfImBxLHk4ViPRASAo.jpg?scale-down-to=1024)\n\n![Image 195](https://framerusercontent.com/images/qevCWWnQhfImBxLHk4ViPRASAo.jpg?scale-down-to=1024)\n\n![Image 196](https://framerusercontent.com/images/qevCWWnQhfImBxLHk4ViPRASAo.jpg?scale-down-to=1024)\n\n![Image 197](https://framerusercontent.com/images/qevCWWnQhfImBxLHk4ViPRASAo.jpg?scale-down-to=1024)\n\nRISK DETECTION\n\nRISK DETECTION\n\nErrors and hallucinations in LLMs pose significant risks.\n=========================================================\n\nLLMs can produce unreliable results, leading to catastrophic consequences in high-stakes domains such as healthcare, finance, insurance, and law.\n\nLLMs can produce unreliable results, leading to catastrophic consequences in high-stakes domains such as healthcare, finance, insurance, and law.\n\nLLMs can produce unreliable results, leading to catastrophic consequences in high-stakes domains such as healthcare, finance, insurance, and law.\n\nQUALITY ASSURANCE\n\nQUALITY ASSURANCE\n\nMeasuring subjectivity is hard, especially in real time.\n========================================================\n\nProgrammatic approaches to evaluation struggle to detect nuances and introduce significant lag time, resulting in poor customer experiences.\n\nProgrammatic approaches to evaluation struggle to detect nuances and introduce significant lag time, resulting in poor customer experiences.\n\nProgrammatic approaches to evaluation struggle to detect nuances and introduce significant lag time, resulting in poor customer experiences.\n\n![Image 198](https://framerusercontent.com/images/DYzCHN5fQffQshJ7qetu7pwCYk.jpg?scale-down-to=1024)\n\n![Image 199](https://framerusercontent.com/images/DYzCHN5fQffQshJ7qetu7pwCYk.jpg?scale-down-to=1024)\n\n![Image 200](https://framerusercontent.com/images/DYzCHN5fQffQshJ7qetu7pwCYk.jpg?scale-down-to=1024)\n\n![Image 201](https://framerusercontent.com/images/DYzCHN5fQffQshJ7qetu7pwCYk.jpg?scale-down-to=1024)\n\n![Image 202](https://framerusercontent.com/images/Zl8FvJeOL3CzM3Bz0sxAmsKEpk.jpg?scale-down-to=1024)\n\n![Image 203](https://framerusercontent.com/images/Zl8FvJeOL3CzM3Bz0sxAmsKEpk.jpg?scale-down-to=1024)\n\n![Image 204](https://framerusercontent.com/images/Zl8FvJeOL3CzM3Bz0sxAmsKEpk.jpg?scale-down-to=1024)\n\n![Image 205](https://framerusercontent.com/images/Zl8FvJeOL3CzM3Bz0sxAmsKEpk.jpg?scale-down-to=1024)\n\nSCALABILITY\n\nSCALABILITY\n\nAI needs domain experts, but they’re a bottleneck.\n==================================================\n\nExpert oversight ensures accuracy and safety, but manually reviewing thousands or millions of LLM completions in real time is impossible.\n\nExpert oversight ensures accuracy and safety, but manually reviewing thousands or millions of LLM completions in real time is impossible.\n\nExpert oversight ensures accuracy and safety, but manually reviewing thousands or millions of LLM completions in real time is impossible.\n\nYour dev team needs an end-to-end AI accuracy solution.\n=======================================================\n\nYour dev team needs an end-to-end AI accuracy solution.\n=======================================================\n\nYour dev team needs an end-to-end AI accuracy solution.\n=======================================================\n\nYour dev team needs an end-to-end AI accuracy solution.\n=======================================================\n\n### From\n\n### dev\n\n### to\n\n### prod\n\nAI accuracy at every stage of your product journey.\n===================================================\n\nEvaluate LLM-based agentic applications with expert precision and drive real-time accuracy improvements through streamlined workflows and automation.\n\n![Image 206](https://framerusercontent.com/images/0DCbZbU3BlnYNYVZRI2XZApIDuk.png?scale-down-to=2048)\n\n![Image 207](https://framerusercontent.com/images/0DCbZbU3BlnYNYVZRI2XZApIDuk.png?scale-down-to=2048)\n\n![Image 208](https://framerusercontent.com/images/0DCbZbU3BlnYNYVZRI2XZApIDuk.png?scale-down-to=2048)\n\n![Image 209](https://framerusercontent.com/images/0DCbZbU3BlnYNYVZRI2XZApIDuk.png?scale-down-to=2048)\n\nThe #1 platform for LLMOPS\n\nIntroducing the LLM efficiency suite.\n=====================================\n\nSpeed up development with an AI system that scales expert review, enables real-time error detection, and empowers your team to achieve production-level accuracy.\n\n[Explore the platform](https://log10.io/platform)\n\n[Explore the platform](https://log10.io/platform)\n\n[Explore the platform](https://log10.io/platform)\n\n[Explore the platform](https://log10.io/platform)\n\n![Image 210](https://framerusercontent.com/images/01fMLXaVfocDVnRc0z3DIQyRfOs.jpg?scale-down-to=1024)\n\n![Image 211](https://framerusercontent.com/images/01fMLXaVfocDVnRc0z3DIQyRfOs.jpg?scale-down-to=1024)\n\n![Image 212](https://framerusercontent.com/images/01fMLXaVfocDVnRc0z3DIQyRfOs.jpg?scale-down-to=1024)\n\n![Image 213](https://framerusercontent.com/images/01fMLXaVfocDVnRc0z3DIQyRfOs.jpg?scale-down-to=1024)\n\n**Logs & Annotation**\n\nCapture expert insight.\n-----------------------\n\n### Capture expert insight.\n\n### Capture expert insight.\n\n### Capture expert insight.\n\nCreate evaluation criteria and review LLM completions in a streamlined Inbox, incorporating feedback from end users through the API. Annotations flow into the Feedback Stream, powering automatic dataset curation.\n\nCreate evaluation criteria and review LLM completions in a streamlined Inbox, incorporating feedback from end users through the API. Annotations flow into the Feedback Stream, powering automatic dataset curation.\n\nCreate evaluation criteria and review LLM completions in a streamlined Inbox, incorporating feedback from end users through the API. Annotations flow into the Feedback Stream, powering automatic dataset curation.\n\n![Image 214](https://framerusercontent.com/images/4GUv8rhdi3sJiFmIY8FzZpPApQ.jpg)\n\n![Image 215](https://framerusercontent.com/images/4GUv8rhdi3sJiFmIY8FzZpPApQ.jpg)\n\n![Image 216](https://framerusercontent.com/images/4GUv8rhdi3sJiFmIY8FzZpPApQ.jpg)\n\n![Image 217](https://framerusercontent.com/images/4GUv8rhdi3sJiFmIY8FzZpPApQ.jpg)\n\n**Evaluation**\n\nContinuously evaluate.\n----------------------\n\n### Continuously evaluate.\n\n### Continuously evaluate.\n\n### Continuously evaluate.\n\nEstablish evaluation-driven development with a declarative test suite that seamlessly utilizes platform-curated datasets to achieve accuracy targets. Integrate with CI/CD to prevent hallucinations as models and prompts evolve.\n\nEstablish evaluation-driven development with a declarative test suite that seamlessly utilizes platform-curated datasets to achieve accuracy targets. Integrate with CI/CD to prevent hallucinations as models and prompts evolve.\n\nEstablish evaluation-driven development with a declarative test suite that seamlessly utilizes platform-curated datasets to achieve accuracy targets. Integrate with CI/CD to prevent hallucinations as models and prompts evolve.\n\n![Image 218](https://framerusercontent.com/images/OVFTizphDLt7TcNXflB3Stp8A.jpg?scale-down-to=1024)\n\n![Image 219](https://framerusercontent.com/images/OVFTizphDLt7TcNXflB3Stp8A.jpg?scale-down-to=1024)\n\n![Image 220](https://framerusercontent.com/images/OVFTizphDLt7TcNXflB3Stp8A.jpg?scale-down-to=1024)\n\n![Image 221](https://framerusercontent.com/images/OVFTizphDLt7TcNXflB3Stp8A.jpg?scale-down-to=1024)\n\n**AutoFeedback**\n\nRapidly assess AI performance.\n------------------------------\n\n### Rapidly assess AI performance.\n\n### Rapidly assess AI performance.\n\n### Rapidly assess AI performance.\n\nLog10 AutoFeedback instantly evaluates LLM completions with expert-level precision using only a few samples, scaling expert review in a fraction of the time and delivering a real-time accuracy signal that reflects the user experience.\n\nLog10 AutoFeedback instantly evaluates LLM completions with expert-level precision using only a few samples, scaling expert review in a fraction of the time and delivering a real-time accuracy signal that reflects the user experience.\n\nLog10 AutoFeedback instantly evaluates LLM completions with expert-level precision using only a few samples, scaling expert review in a fraction of the time and delivering a real-time accuracy signal that reflects the user experience.\n\n![Image 222](https://framerusercontent.com/images/22l9ZwotppCFyHZh9c2KwftcnaU.jpg?scale-down-to=1024)\n\n![Image 223](https://framerusercontent.com/images/22l9ZwotppCFyHZh9c2KwftcnaU.jpg?scale-down-to=1024)\n\n![Image 224](https://framerusercontent.com/images/22l9ZwotppCFyHZh9c2KwftcnaU.jpg?scale-down-to=1024)\n\n![Image 225](https://framerusercontent.com/images/22l9ZwotppCFyHZh9c2KwftcnaU.jpg?scale-down-to=1024)\n\n**Monitoring & Alerts**\n\nRespond to critical errors.\n---------------------------\n\n### Respond to critical errors.\n\n### Respond to critical errors.\n\n### Respond to critical errors.\n\nWith a real-time AutoFeedback accuracy signal, establish quality threshold targets and gain clear insights into your application’s performance. Receive alerts when quality dips below critical levels.\n\nWith a real-time AutoFeedback accuracy signal, establish quality threshold targets and gain clear insights into your application’s performance. Receive alerts when quality dips below critical levels.\n\nWith a real-time AutoFeedback accuracy signal, establish quality threshold targets and gain clear insights into your application’s performance. Receive alerts when quality dips below critical levels.\n\n![Image 226](https://framerusercontent.com/images/dSmNATBYxUWD9lce1iUWtjfZqk.jpg?scale-down-to=1024)\n\n![Image 227](https://framerusercontent.com/images/dSmNATBYxUWD9lce1iUWtjfZqk.jpg?scale-down-to=1024)\n\n![Image 228](https://framerusercontent.com/images/dSmNATBYxUWD9lce1iUWtjfZqk.jpg?scale-down-to=1024)\n\n![Image 229](https://framerusercontent.com/images/dSmNATBYxUWD9lce1iUWtjfZqk.jpg?scale-down-to=1024)\n\n**Issue Triage**\n\nFix top accuracy problems.\n--------------------------\n\n### Fix top accuracy problems.\n\n### Fix top accuracy problems.\n\n### Fix top accuracy problems.\n\nLeveraging a real-time AutoFeedback accuracy signal, errors are automatically prioritized and queued for resolution. Engineers can debug and address these issues using the Log10 LLM IDE.\n\nLeveraging a real-time AutoFeedback accuracy signal, errors are automatically prioritized and queued for resolution. Engineers can debug and address these issues using the Log10 LLM IDE.\n\nLeveraging a real-time AutoFeedback accuracy signal, errors are automatically prioritized and queued for resolution. Engineers can debug and address these issues using the Log10 LLM IDE.\n\n![Image 230](https://framerusercontent.com/images/yJipQyoQeRabsJXIbAaiS2Wt8WI.jpg?scale-down-to=1024)\n\n![Image 231](https://framerusercontent.com/images/yJipQyoQeRabsJXIbAaiS2Wt8WI.jpg?scale-down-to=1024)\n\n![Image 232](https://framerusercontent.com/images/yJipQyoQeRabsJXIbAaiS2Wt8WI.jpg?scale-down-to=1024)\n\n**Tuning**\n\nEnhance reliability as you scale.\n---------------------------------\n\n### Enhance reliability as you scale.\n\n### Enhance reliability as you scale.\n\nAs production feedback increases, the quality of curated datasets improves, creating a closed-loop system that allows for fine-tuning of prompts and models, resulting in greater application accuracy.\n\nAs production feedback increases, the quality of curated datasets improves, creating a closed-loop system that allows for fine-tuning of prompts and models, resulting in greater application accuracy.\n\n![Image 233](https://framerusercontent.com/images/yJipQyoQeRabsJXIbAaiS2Wt8WI.jpg?scale-down-to=1024)\n\n**Tuning**\n\n### Enhance reliability as you scale.\n\nAs production feedback increases, the quality of curated datasets improves, creating a closed-loop system that allows for fine-tuning of prompts and models, resulting in greater application accuracy.\n\n90%\n===\n\n**Spin up custom evaluations using 90% less data**\n\nAnnotate just a few samples, then turn on Log10 AutoFeedback to begin auto-grading LLM completions based on your domain criteria.\n\n10x\n===\n\n**Scale subject matter expert review by 10x**\n\nRemove human-in-the-loop bottlenecks with precise, unbiased, real-time evaluations, enabling experts to complete their work in a fraction of the time.\n\n24/7\n====\n\n**Meet the team that delivers 24/7**\n\nWe’re excited about solving the tough challenges of LLM accuracy and turning your prototypes into solutions that deliver ROI in production.\n\n90%\n===\n\n**Spin up custom evaluations using 90% less data**\n\nAnnotate just a few samples, then turn on Log10 AutoFeedback to begin auto-grading LLM completions based on your domain criteria.\n\n10x\n===\n\n**Scale subject matter expert review by 10x**\n\nRemove human-in-the-loop bottlenecks with precise, unbiased, real-time evaluations, enabling experts to complete their work in a fraction of the time.\n\n24/7\n====\n\n**Meet the team that delivers 24/7**\n\nWe’re excited about solving the tough challenges of LLM accuracy and turning your prototypes into solutions that deliver ROI in production.\n\n90%\n===\n\n**Spin up custom evaluations using 90% less data**\n\nAnnotate just a few samples, then turn on Log10 AutoFeedback to begin auto-grading LLM completions based on your domain criteria.\n\n10x\n===\n\n**Scale subject matter expert review by 10x**\n\nRemove human-in-the-loop bottlenecks with precise, unbiased, real-time evaluations, enabling experts to complete their work in a fraction of the time.\n\n24/7\n====\n\n**Meet the team that delivers 24/7**\n\nWe’re excited about solving the tough challenges of LLM accuracy and turning your prototypes into solutions that deliver ROI in production.\n\n90%\n===\n\n**Spin up custom evaluations using 90% less data**\n\nAnnotate just a few samples, then turn on Log10 AutoFeedback to begin auto-grading LLM completions based on your domain criteria.\n\n10x\n===\n\n**Scale subject matter expert review by 10x**\n\nRemove human-in-the-loop bottlenecks with precise, unbiased, real-time evaluations, enabling experts to complete their work in a fraction of the time.\n\n24/7\n====\n\n**Meet the team that delivers 24/7**\n\nWe’re excited about solving the tough challenges of LLM accuracy and turning your prototypes into solutions that deliver ROI in production.\n\nA platform you  can trust.\n==========================\n\nAt the core of our platform is a robust security architecture designed to protect your data and ensure compliance with industry regulations. From the initial design phase to deployment and scaling, our solution integrates security measures, rigorous testing, and continuous monitoring to mitigate risks. We prioritize data privacy, regulatory compliance, and responsible AI use, giving you confidence in every aspect of your AI operations.\n\n### Data Ownership\n\nYour data is yours. Our platform ensures you maintain full ownership and control of your data. We never share, sell, or access your data without your consent, giving you confidence and peace of mind in every interaction.\n\n### Data Privacy\n\nWe protect your data with advanced encryption and strict access controls. Customizable anonymization and retention policies put you in control of your data’s lifecycle.\n\n### Guardrails\n\nBuilt-in safeguards minimize risks like bias or misuse, ensuring fairness and transparency. Our customizable monitoring tools keep your AI operations safe and compliant.\n\nDon’t take it from us.  \nSee how we’ve helped these companies.\n==============================================================\n\n*   [![Image 234](https://framerusercontent.com/images/2qEXmlqgv6VIeaLFI7KnA0JKCA.jpg) ### From Hassles to Help: Improving Patient Experiences in AI-Driven Call Centers “We're the ultimate call center operator. Our AI agent never calls in sick, never forgets a rule, and is always online.” – Jeffery Liu, Founder and co-CEO, Assort Health Read the case study](https://log10.io/case_studies/assort)\n    \n*   [![Image 235](https://framerusercontent.com/images/nGXzN3NWuDTOjmG177F8RSbGtc.jpg) ### Conquering Accuracy to Deploy Conversational AI at Enterprise Scale “Log10 is a critical part of our stack – we could not have scaled LLM accuracy without them.” – Alexander Kvamme, CEO, EchoAI Read the case study](https://log10.io/case_studies/echoai)\n    \n*   [![Image 236](https://framerusercontent.com/images/gzvfsA5RaT2JqOtiegAWAbl2YE.jpg) ### From RAGs to Riches: Improving the Accuracy of RAG Chatbots “The accuracy of our RAG chatbot has improved considerably with Log10.” – Chao Ma, Software Engineer, Lime Read the case study](https://log10.io/case_studies/lime)\n    \n*   [![Image 237](https://framerusercontent.com/images/nHiIKn9909UaCXTU9uI3iJuHDs.jpg) ### Boosting Confidence and Reducing Churn in AI Copilots “Log10 gives us the confidence to rapidly iterate our Financial Analyst copilot.” – Michael Struwig, Head of AI, OpenBB Read the case study](https://log10.io/case_studies/openbb)\n    \n\n![Image 238](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![Image 239](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)\n\nDon’t take it from us.  \nSee how we’ve helped these companies.\n==============================================================\n\n*   [![Image 240](https://framerusercontent.com/images/2qEXmlqgv6VIeaLFI7KnA0JKCA.jpg) ### From Hassles to Help: Improving Patient Experiences in AI-Driven Call Centers “We're the ultimate call center operator. Our AI agent never calls in sick, never forgets a rule, and is always online.” – Jeffery Liu, Founder and co-CEO, Assort Health Read the case study](https://log10.io/case_studies/assort)\n    \n*   [![Image 241](https://framerusercontent.com/images/nGXzN3NWuDTOjmG177F8RSbGtc.jpg) ### Conquering Accuracy to Deploy Conversational AI at Enterprise Scale “Log10 is a critical part of our stack – we could not have scaled LLM accuracy without them.” – Alexander Kvamme, CEO, EchoAI Read the case study](https://log10.io/case_studies/echoai)\n    \n*   [![Image 242](https://framerusercontent.com/images/gzvfsA5RaT2JqOtiegAWAbl2YE.jpg) ### From RAGs to Riches: Improving the Accuracy of RAG Chatbots “The accuracy of our RAG chatbot has improved considerably with Log10.” – Chao Ma, Software Engineer, Lime Read the case study](https://log10.io/case_studies/lime)\n    \n*   [![Image 243](https://framerusercontent.com/images/nHiIKn9909UaCXTU9uI3iJuHDs.jpg) ### Boosting Confidence and Reducing Churn in AI Copilots “Log10 gives us the confidence to rapidly iterate our Financial Analyst copilot.” – Michael Struwig, Head of AI, OpenBB Read the case study](https://log10.io/case_studies/openbb)\n    \n\n![Image 244](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![Image 245](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)\n\nDon’t take it from us.  \nSee how we’ve helped these companies.\n==============================================================\n\n*   [![Image 246](https://framerusercontent.com/images/2qEXmlqgv6VIeaLFI7KnA0JKCA.jpg) ### From Hassles to Help: Improving Patient Experiences in AI-Driven Call Centers “We're the ultimate call center operator. Our AI agent never calls in sick, never forgets a rule, and is always online.” – Jeffery Liu, Founder and co-CEO, Assort Health Read the case study](https://log10.io/case_studies/assort)\n    \n*   [![Image 247](https://framerusercontent.com/images/nGXzN3NWuDTOjmG177F8RSbGtc.jpg) ### Conquering Accuracy to Deploy Conversational AI at Enterprise Scale “Log10 is a critical part of our stack – we could not have scaled LLM accuracy without them.” – Alexander Kvamme, CEO, EchoAI Read the case study](https://log10.io/case_studies/echoai)\n    \n*   [![Image 248](https://framerusercontent.com/images/gzvfsA5RaT2JqOtiegAWAbl2YE.jpg) ### From RAGs to Riches: Improving the Accuracy of RAG Chatbots “The accuracy of our RAG chatbot has improved considerably with Log10.” – Chao Ma, Software Engineer, Lime Read the case study](https://log10.io/case_studies/lime)\n    \n*   [![Image 249](https://framerusercontent.com/images/nHiIKn9909UaCXTU9uI3iJuHDs.jpg) ### Boosting Confidence and Reducing Churn in AI Copilots “Log10 gives us the confidence to rapidly iterate our Financial Analyst copilot.” – Michael Struwig, Head of AI, OpenBB Read the case study](https://log10.io/case_studies/openbb)\n    \n\n![Image 250](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![Image 251](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)\n\nDon’t take it from us.  \nSee how we’ve helped these companies.\n==============================================================\n\n*   [![Image 252](https://framerusercontent.com/images/2qEXmlqgv6VIeaLFI7KnA0JKCA.jpg) ### From Hassles to Help: Improving Patient Experiences in AI-Driven Call Centers “We're the ultimate call center operator. Our AI agent never calls in sick, never forgets a rule, and is always online.” – Jeffery Liu, Founder and co-CEO, Assort Health Read the case study](https://log10.io/case_studies/assort)\n    \n*   [![Image 253](https://framerusercontent.com/images/nGXzN3NWuDTOjmG177F8RSbGtc.jpg) ### Conquering Accuracy to Deploy Conversational AI at Enterprise Scale “Log10 is a critical part of our stack – we could not have scaled LLM accuracy without them.” – Alexander Kvamme, CEO, EchoAI Read the case study](https://log10.io/case_studies/echoai)\n    \n*   [![Image 254](https://framerusercontent.com/images/gzvfsA5RaT2JqOtiegAWAbl2YE.jpg) ### From RAGs to Riches: Improving the Accuracy of RAG Chatbots “The accuracy of our RAG chatbot has improved considerably with Log10.” – Chao Ma, Software Engineer, Lime Read the case study](https://log10.io/case_studies/lime)\n    \n*   [![Image 255](https://framerusercontent.com/images/nHiIKn9909UaCXTU9uI3iJuHDs.jpg) ### Boosting Confidence and Reducing Churn in AI Copilots “Log10 gives us the confidence to rapidly iterate our Financial Analyst copilot.” – Michael Struwig, Head of AI, OpenBB Read the case study](https://log10.io/case_studies/openbb)\n    \n\n![Image 256](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![Image 257](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)\n\nReady to turn your PoCs into profitable AI solutions?\n=====================================================\n\n[Get started for free](https://log10.io/signup)\n\n[Request a demo](https://log10.io/request-demo)\n\n![Image 258](https://framerusercontent.com/images/t5gFEQlycIblXelncBEeTq1xBDQ.png?scale-down-to=2048)\n\nReady to turn your PoCs into profitable AI solutions?\n=====================================================\n\n[Get started for free](https://log10.io/signup)\n\n[Request a demo](https://log10.io/request-demo)\n\n![Image 259](https://framerusercontent.com/images/t5gFEQlycIblXelncBEeTq1xBDQ.png?scale-down-to=2048)\n\nReady to turn your PoCs into profitable AI solutions?\n=====================================================\n\n[Get started for free](https://log10.io/signup)\n\n[Request a demo](https://log10.io/request-demo)\n\n![Image 260](https://framerusercontent.com/images/t5gFEQlycIblXelncBEeTq1xBDQ.png?scale-down-to=2048)\n\nReady to turn your PoCs into profitable AI solutions?\n=====================================================\n\n[Get started for free](https://log10.io/signup)\n\n[Request a demo](https://log10.io/request-demo)\n\n![Image 261](https://framerusercontent.com/images/t5gFEQlycIblXelncBEeTq1xBDQ.png?scale-down-to=2048)\n\n[![Image 262](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)\n\n[![Image 263](https://framerusercontent.com/images/aDt8wB8RLFAQXGsQEpGrlIUces.png)](https://www.linkedin.com/company/log10-io/)[![Image 264](https://framerusercontent.com/images/sn1gUnRTb8xs1B5AJGxRDEN4HR4.png)](https://twitter.com/log10io)\n\nProduct\n\n[Platform](https://log10.io/platform)\n\n[Pricing](https://log10.io/pricing)\n\nDevelopers\n\n[Documentation](https://docs.log10.io/)\n\n[Demo videos](https://www.loom.com/share/folder/3f3429d2f9c84b0594595d2b997f28ba)\n\n[Github](https://github.com/log10-io)\n\n[Discord](https://discord.com/invite/CZQvnuRV94)\n\nSolutions\n\n**Industries**\n\n[Finance](https://log10.io/solutions/finance)\n\n[Healthcare](https://log10.io/solutions/healthcare)\n\n[Insurance](https://log10.io/solutions/insurance)\n\n[Legal](https://log10.io/solutions/legal)\n\n**Use Cases**\n\n[Conversation AI](https://log10.io/case_studies/echoai)\n\n[AI Copilots](https://log10.io/case_studies/openbb)\n\n[RAG Chatbots](https://log10.io/case_studies/lime)\n\n[Call Centers](https://log10.io/case_studies/assort)\n\nResources\n\n[Blog](https://log10.io/blog)\n\n[About us](https://log10.io/archive/home)\n\n[Careers](https://log10.io/careers)\n\n[News](https://log10.io/news)\n\n[Support](https://log10.io/support)\n\nLegal\n\n[Terms](https://log10.io/terms)\n\n[Privacy](https://log10.io/privacy)\n\n© Copyright 2024 Log10, Inc. All rights reserved.\n\n[![Image 265](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)\n\n[![Image 266](https://framerusercontent.com/images/aDt8wB8RLFAQXGsQEpGrlIUces.png)](https://www.linkedin.com/company/log10-io/)[![Image 267](https://framerusercontent.com/images/sn1gUnRTb8xs1B5AJGxRDEN4HR4.png)](https://twitter.com/log10io)\n\nProduct\n\n[Platform](https://log10.io/platform)\n\n[Pricing](https://log10.io/pricing)\n\nDevelopers\n\n[Documentation](https://docs.log10.io/)\n\n[Demo videos](https://www.loom.com/share/folder/3f3429d2f9c84b0594595d2b997f28ba)\n\n[Github](https://github.com/log10-io)\n\n[Discord](https://discord.com/invite/CZQvnuRV94)\n\nSolutions\n\n**Industries**\n\n[Finance](https://log10.io/solutions/finance)\n\n[Healthcare](https://log10.io/solutions/healthcare)\n\n[Insurance](https://log10.io/solutions/insurance)\n\n[Legal](https://log10.io/solutions/legal)\n\n**Use Cases**\n\n[Conversation AI](https://log10.io/case_studies/echoai)\n\n[AI Copilots](https://log10.io/case_studies/openbb)\n\n[RAG Chatbots](https://log10.io/case_studies/lime)\n\n[Call Centers](https://log10.io/case_studies/assort)\n\nResources\n\n[Blog](https://log10.io/blog)\n\n[About us](https://log10.io/archive/home)\n\n[Careers](https://log10.io/careers)\n\n[News](https://log10.io/news)\n\n[Support](https://log10.io/support)\n\nLegal\n\n[Terms](https://log10.io/terms)\n\n[Privacy](https://log10.io/privacy)\n\n© Copyright 2024 Log10, Inc. All rights reserved.\n\n[![Image 268](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)\n\n[![Image 269](https://framerusercontent.com/images/aDt8wB8RLFAQXGsQEpGrlIUces.png)](https://www.linkedin.com/company/log10-io/)[![Image 270](https://framerusercontent.com/images/sn1gUnRTb8xs1B5AJGxRDEN4HR4.png)](https://twitter.com/log10io)\n\nProduct\n\n[Platform](https://log10.io/platform)\n\n[Pricing](https://log10.io/pricing)\n\nDevelopers\n\n[Documentation](https://docs.log10.io/)\n\n[Demo videos](https://www.loom.com/share/folder/3f3429d2f9c84b0594595d2b997f28ba)\n\n[Github](https://github.com/log10-io)\n\n[Discord](https://discord.com/invite/CZQvnuRV94)\n\nSolutions\n\n**Industries**\n\n[Finance](https://log10.io/solutions/finance)\n\n[Healthcare](https://log10.io/solutions/healthcare)\n\n[Insurance](https://log10.io/solutions/insurance)\n\n[Legal](https://log10.io/solutions/legal)\n\n**Use Cases**\n\n[Conversation AI](https://log10.io/case_studies/echoai)\n\n[AI Copilots](https://log10.io/case_studies/openbb)\n\n[RAG Chatbots](https://log10.io/case_studies/lime)\n\n[Call Centers](https://log10.io/case_studies/assort)\n\nResources\n\n[Blog](https://log10.io/blog)\n\n[About us](https://log10.io/archive/home)\n\n[Careers](https://log10.io/careers)\n\n[News](https://log10.io/news)\n\n[Support](https://log10.io/support)\n\nLegal\n\n[Terms](https://log10.io/terms)\n\n[Privacy](https://log10.io/privacy)\n\n© Copyright 2024 Log10, Inc. All rights reserved.\n\n[![Image 271](https://framerusercontent.com/images/5u5oSqM0aqTzrOOkuB2HX2C3C0.png?scale-down-to=512)](https://log10.io/)\n\n[![Image 272](https://framerusercontent.com/images/aDt8wB8RLFAQXGsQEpGrlIUces.png)](https://www.linkedin.com/company/log10-io/)[![Image 273](https://framerusercontent.com/images/sn1gUnRTb8xs1B5AJGxRDEN4HR4.png)](https://twitter.com/log10io)\n\nProduct\n\n[Platform](https://log10.io/platform)\n\n[Pricing](https://log10.io/pricing)\n\nDevelopers\n\n[Documentation](https://docs.log10.io/)\n\n[Demo videos](https://www.loom.com/share/folder/3f3429d2f9c84b0594595d2b997f28ba)\n\n[Github](https://github.com/log10-io)\n\n[Discord](https://discord.com/invite/CZQvnuRV94)\n\nSolutions\n\n**Industries**\n\n[Finance](https://log10.io/solutions/finance)\n\n[Healthcare](https://log10.io/solutions/healthcare)\n\n[Insurance](https://log10.io/solutions/insurance)\n\n[Legal](https://log10.io/solutions/legal)\n\n**Use Cases**\n\n[Conversation AI](https://log10.io/case_studies/echoai)\n\n[AI Copilots](https://log10.io/case_studies/openbb)\n\n[RAG Chatbots](https://log10.io/case_studies/lime)\n\n[Call Centers](https://log10.io/case_studies/assort)\n\nResources\n\n[Blog](https://log10.io/blog)\n\n[About us](https://log10.io/archive/home)\n\n[Careers](https://log10.io/careers)\n\n[News](https://log10.io/news)\n\n[Support](https://log10.io/support)\n\nLegal\n\n[Terms](https://log10.io/terms)\n\n[Privacy](https://log10.io/privacy)\n\n© Copyright 2024 Log10, Inc. All rights reserved.",
+  "usage": {
+    "tokens": 9664
+  }
+}
+```

@@ -1,0 +1,9 @@
+Log in to your Imagica account
+
+Enter your email and password to log in
+
+[Forgot password?](https://create.imagica.ai/password_reset)
+
+Or
+
+Don't have an account? Sign up

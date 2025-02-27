@@ -1,0 +1,127 @@
+[Skip to content](https://swimm.io/#primary)
+
+_**Understand**_ and work in any **codebase** in _**minutes**_
+
+
+----------------------------------------------------------------
+
+*   Auto-document your code with AI
+*   Modernize faster
+*   Develop and ship safely
+
+What is Swimm
+
+Automatically document your codebase,  
+from legacy to modern.
+--------------------------------------------------------------
+
+Auto-generate   
+documentation
+
+Automatically document your entire codebase
+
+Update documents automatically
+
+Keep docs up to date with every code addition or change
+
+AI-guided code understanding
+
+Develop confidently as if the code author is sitting next to you
+
+Complete documentation coverage 
+--------------------------------
+
+*   Automatically generate docs, eliminate 90% of the documentation toil for developers
+*   Language-agnostic including legacy languages such as COBOL and Assembly
+*   Add additional business logic to understand dependencies between functions
+
+[Read more instant documentation coverage](https://swimm.io/document)
+
+Docs that stay  
+up to date, automatically
+------------------------------------------
+
+*   Documentation auto-updates with every code change
+*   Enforce updates in your CI process
+*   Build a culture of documentation by eliminating the burden of manual updates
+
+[Read more up to date docs](https://swimm.io/how-it-works)
+
+Develop fast and fearlessly with AI
+-----------------------------------
+
+*   Know what every bit of your code does, and how to safely change it
+*   Enhance outputs from Copilot Enterprise & other codebase-aware tools
+*   Purpose-built to feed LLMs with the right context
+
+[Read more fast and fearlessly develop with AI](https://swimm.io/how-it-works)
+
+Built for developers.  
+Trusted by enterprises.
+-----------------------------------------------
+
+Seamless integration into your workflows
+
+*   Plays with your tools from your IDE to Notion, Jira and Dev Portal
+*   Works with any tech stack and all programming languages
+*   Updates through your CI workflows and standards
+
+[Integrations page](https://swimm.io/integrations)
+
+Secure and compliant
+
+*   SOC 2 and ISO 27001 compliant
+*   Secure cloud and on-premise deployment options
+*   Trusted by highly secure and regulated organizations
+
+Scalable and AI-Native
+
+*   Scale to 1000s of developers and 100s of millions of lines of code
+*   Static analysis + LLM = Stable, trustworthy outputs
+*   Improve your existing developer AI tools with the Swimm knowledge layer
+
+Proven to transform  
+developer productivity
+--------------------------------------------
+
+300M
+
+Code-lines  
+documented
+
+350%
+
+ROI in the first  
+year
+
+![Image 68: RVO health logo](blob:https://swimm.io/0d7e5b35b1345b245112dd34f07ddb84)
+
+![Image 69: Ryan McKenna](blob:https://swimm.io/410545918f3291ab6399c91112de6cb3)
+
+> “Swimm is a tool that we don’t know how we ever lived without. Accessible information improved productivity and made transferring knowledge between engineers frictionless.”
+
+![Image 70: StackAdapt](blob:https://swimm.io/a7c9d53443e2a69ac46ba4a0e32fca57)
+
+![Image 71: Jack Yiu](blob:https://swimm.io/4e38c5e92f9a00bc3a5d7d37cf133d56)
+
+Jack Yiu Lead Software Engineer at StackAdapt
+
+> “We’re continuously gaining a deeper understanding of how our legacy codebase works with Swimm”
+
+![Image 72: Nextxilicon logo](blob:https://swimm.io/b77d1d520a05baeccf545c82e77c44e0)
+
+![Image 73: Daniel Goldberg](blob:https://swimm.io/dba010d08e33846baaeeb58bc32cd5fb)
+
+Daniel Goldberg Project Manager at NextSilicon
+
+> “Swimm made my job so much easier, automating code documentation and ensuring that our design docs are always in sync and up-to-date.”
+
+![Image 74: Recursion logo](blob:https://swimm.io/b77d1d520a05baeccf545c82e77c44e0)
+
+![Image 75: A.J. Williams](blob:https://swimm.io/410545918f3291ab6399c91112de6cb3)
+
+A.J. Williams Associate Director of Engineering Recursion
+
+> “Swimm is basically the first true innovation in the last 10 years in the knowledge management and documentation space.”
+
+### Turn your code complexity into your competitive edge

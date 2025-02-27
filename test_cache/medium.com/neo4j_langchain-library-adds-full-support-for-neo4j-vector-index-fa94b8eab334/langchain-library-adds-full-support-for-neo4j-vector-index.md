@@ -1,0 +1,204 @@
+---
+title: LangChain Library Adds Full Support for Neo4j Vector Index
+description: If you have been on vacation for the past six months, first of all, congratulations. Secondly, you should know that since the introduction of ChatGPT-like large language models (LLM), the technology…
+url: https://medium.com/neo4j/langchain-library-adds-full-support-for-neo4j-vector-index-fa94b8eab334
+timestamp: 2025-01-20T15:44:00.352Z
+domain: medium.com
+path: neo4j_langchain-library-adds-full-support-for-neo4j-vector-index-fa94b8eab334
+---
+
+# LangChain Library Adds Full Support for Neo4j Vector Index
+
+
+If you have been on vacation for the past six months, first of all, congratulations. Secondly, you should know that since the introduction of ChatGPT-like large language models (LLM), the technology…
+
+
+## Content
+
+Streamlining data ingestion and querying in Retrieval-Augmented Generation Applications
+---------------------------------------------------------------------------------------
+
+[![Image 25: Tomaz Bratanic](https://miro.medium.com/v2/resize:fill:44:44/1*SnWQP0l4Vg9577WAErbjfw.jpeg)](https://medium.com/@bratanic-tomaz?source=post_page---byline--fa94b8eab334--------------------------------)
+
+[![Image 26: Neo4j Developer Blog](https://miro.medium.com/v2/resize:fill:24:24/1*dbXVrszMTRob9qYMUY2lqg.png)](https://medium.com/neo4j?source=post_page---byline--fa94b8eab334--------------------------------)
+
+![Image 27](https://miro.medium.com/v2/resize:fit:700/1*NknZJMDanDIgbAd0NcmZYQ.png)
+
+A detective looking at lists of numbers as imagined by Midjourney.
+
+If you have been on vacation for the past six months, first of all, congratulations. Secondly, you should know that since the introduction of ChatGPT-like large language models (LLM), the technology ecosystem has changed dramatically. Nowadays, it’s all about retrieval-augmented generation (RAG) applications. The idea behind RAG applications is to provide additional context at query time to have the LLM generate accurate and up-to-date answers.
+
+![Image 28](https://miro.medium.com/v2/resize:fit:700/1*tQRjmGo0ngjNB8c4j7QP8g.png)
+
+Retrieval-augmented generation workflow. Image by the author.
+
+Neo4j has been and is excellent at [storing and analyzing structured information in RAG applications](https://medium.com/neo4j/knowledge-graphs-llms-real-time-graph-analytics-89b392eaaa95). Furthermore, Neo4j added the [vector index search](https://neo4j.com/blog/vector-search-deeper-insights/) only a couple of days ago, which brings it closer to supporting RAG applications based on unstructured text.
+
+To streamline the use of Neo4j’s vector index, I have integrated it into the [LangChain library](https://docs.langchain.com/docs) properly. LangChain is a leading framework for building LLM applications, integrating most LLM providers, databases, and more. It supports data ingestion as well as reading workflows and is especially useful for developing question-answering chatbots using the RAG architecture.
+
+In this blog post, I’ll guide you through an end-to-end example that demonstrates how to leverage LangChain for efficient data ingestion into Neo4j vector index, followed by the construction of a straightforward yet effective RAG application.
+
+![Image 29](https://miro.medium.com/v2/resize:fit:700/1*2c9ssjs2pJS7L5KWIA0AAw.png)
+
+Intended workflow. Image by the author.
+
+The tutorial will consist of the following steps:
+
+*   Read a Wikipedia article using a LangChain Document Reader
+*   Chunk the text
+*   Store the text in Neo4j and index it using the newly added vector index
+*   Implement a question-answering workflow to support RAG applications.
+
+As always, the code is available on [GitHub](https://github.com/tomasonjo/blogs/blob/master/llm/official_langchain_neo4jvector.ipynb).
+
+Neo4j Environment Setup
+-----------------------
+
+You need to set up a Neo4j 5.11 or greater to follow along with the examples in this blog post. The easiest way is to start a free instance on [Neo4j Aura](https://neo4j.com/cloud/platform/aura-graph-database/), which offers cloud instances of Neo4j database. Alternatively, you can also set up a local instance of the Neo4j database by downloading the [Neo4j Desktop](https://neo4j.com/download/) application and creating a local database instance.
+
+Reading and Chunking a Wikipedia Article
+----------------------------------------
+
+We will begin by reading and chunking a Wikipedia article. The process is pretty simple, as LangChain has integrated the Wikipedia document loader as well as the text chunking modules.
+
+from langchain.document\_loaders import WikipediaLoader  
+from langchain.text\_splitter import CharacterTextSplitter\# Read the wikipedia article  
+raw\_documents = WikipediaLoader(query="Leonhard Euler").load()  
+\# Define chunking strategy  
+text\_splitter = CharacterTextSplitter.from\_tiktoken\_encoder(  
+    chunk\_size=1000, chunk\_overlap=20  
+)  
+\# Chunk the document  
+documents = text\_splitter.split\_documents(raw\_documents)
+
+\# Remove summary from metadata  
+for d in documents:  
+    del d.metadata\['summary'\]
+
+Since Neo4j is a graph database, I thought using the Wikipedia article about Leonhard Euler as the example was only fitting. Next, we use the **tiktoken** text chunking module, which uses a tokenizer made by OpenAI, to split the article into chunks with _1000_ tokens. You can learn more about [text chunking strategies in this article](https://www.pinecone.io/learn/chunking-strategies/).
+
+LangChain’s `WikipediaLoader`adds a summary to each chunk by default. I thought the added summaries were a bit redundant. For example, if you used a vector similarity search to retrieve the top three results, the summary would be repeated three times. Therefore, I decided to remove it from the dataset.
+
+Store and Index the Text With Neo4j
+-----------------------------------
+
+LangChain makes it easy to import the documents into Neo4j and index them using the newly added vector index. We tried to make it very user-friendly, which means that you don’t have to know anything about Neo4j or graphs to use it. On the other hand, we provided several customization options for more experienced users, which will be presented in a separate blog post.
+
+Neo4j vector index is wrapped as a LangChain vector store and, therefore, follows the syntax used to interact with other vector databases.
+
+from langchain.vectorstores import Neo4jVector  
+from langchain.embeddings.openai import OpenAIEmbeddings\# Neo4j Aura credentials  
+url="neo4j+s://.databases.neo4j.io"  
+username="neo4j"  
+password="<insert password\>"
+
+\# Instantiate Neo4j vector from documents  
+neo4j\_vector = Neo4jVector.from\_documents(  
+    documents,  
+    OpenAIEmbeddings(),  
+    url=url,  
+    username=username,  
+    password=password  
+)
+
+The `from_documents` method connects to a Neo4j database, imports and embeds the documents, and creates a vector index. The data will be represented as the \`Chunk\` nodes by default. As mentioned, you can customize how the data should be stored, as well as which data should be returned. However, that will be discussed in the following blog post.
+
+If you already have an existing vector index with populated data, you can use the `from_existing_index` method.
+
+Vector Similarity Search
+------------------------
+
+We will begin with a simple vector similarity search to verify that everything works as intended.
+
+query = "Where did Euler grow up?"results = neo4j\_vector.similarity\_search(query, k=1)  
+print(results\[0\].page\_content)
+
+_Results_
+
+![Image 30](https://miro.medium.com/v2/resize:fit:700/1*zNZCmj_lhhJoQ_efmrKaZA.png)
+
+Image by the author.
+
+The LangChain module used the specified embedding function (OpenAI in this example) to embed the question and then find the most similar documents by comparing the cosine similarity between the user question and indexed documents.
+
+Neo4j Vector index also supports the Euclidean similarity metric along with the cosine similarity.
+
+Question-Answer Workflow With LangChain
+---------------------------------------
+
+The nice thing about LangChain is that it supports question-answering workflows using only a line or two of code. For example, if we wanted to create a question-answering that generates answers based on the provided context but also provides which documents it used as the context, we can use the following code.
+
+from langchain.chat\_models import ChatOpenAI  
+from langchain.chains import RetrievalQAWithSourcesChainchain = RetrievalQAWithSourcesChain.from\_chain\_type(  
+    ChatOpenAI(temperature=0),  
+    chain\_type="stuff",  
+    retriever=neo4j\_vector.as\_retriever()  
+)
+
+query = "What is Euler credited for popularizing?"
+
+chain(  
+    {"question": query},  
+    return\_only\_outputs=True,  
+)
+
+_Results_
+
+![Image 31](https://miro.medium.com/v2/resize:fit:700/1*9uI4-u2Zcyfi-3oJunKbMA.png)
+
+Image by author.
+
+As you can see, the LLM constructed an accurate answer based on the provided Wikipedia article but also returned which source documents it used. And we only required one line of code to achieve this, which is pretty awesome if you ask me.
+
+While testing the code, I noticed that the sources were not always returned. The problem here is not Neo4j Vector implementation but rather GPT-3.5-turbo. Sometimes, it doesn’t listen to instructions to return the source documents. However, if you use GPT-4, the problem goes away.
+
+Lastly, to replicate the ChatGPT interface, you can add a [memory module](https://python.langchain.com/docs/modules/memory/types/buffer), which additionally provides the LLM with dialogue history so that we can ask follow-up questions. Again, we only need two lines of codes.
+
+from langchain.chains import ConversationalRetrievalChain  
+from langchain.memory import ConversationBufferMemorymemory = ConversationBufferMemory(memory\_key="chat\_history", return\_messages=True)  
+qa = ConversationalRetrievalChain.from\_llm(  
+    ChatOpenAI(temperature=0), neo4j\_vector.as\_retriever(), memory=memory)
+
+Let’s now test it out.
+
+print(qa({"question": "What is Euler credited for popularizing?"})\["answer"\])
+
+_Results_
+
+![Image 32](https://miro.medium.com/v2/resize:fit:700/1*1bOrPSTJxgntNaBmZvdqTg.png)
+
+Image by author.
+
+And now a follow-up question.
+
+print(qa({"question": "Where did he grow up?"})\["answer"\])
+
+_Results_
+
+![Image 33](https://miro.medium.com/v2/resize:fit:466/1*APzneOsoRiiuGmpYgYyBzQ.png)
+
+Image by author.
+
+Summary
+-------
+
+The vector index is a great addition to Neo4j, making it an excellent solution for handling structured and unstructured data for RAG applications. Hopefully, the LangChain integration will streamline the process of integrating the vector index into your existing or new RAG applications, so you don’t have to worry about the details. Remember, [LangChain already supports generating Cypher statements](https://towardsdatascience.com/langchain-has-added-cypher-search-cb9d821120d5) and using them to retrieve context, so you can use it today to retrieve both structured and unstructured information. We have many ideas on upgrading the LangChain support for Neo4j, so stay tuned!
+
+As always, the code is available on [GitHub](https://github.com/tomasonjo/blogs/blob/master/llm/official_langchain_neo4jvector.ipynb).
+
+Make sure to register and attend [Nodes 2023](https://neo4j.com/nodes) to learn more about generative AI and graph technology!
+
+## Metadata
+
+```json
+{
+  "title": "LangChain Library Adds Full Support for Neo4j Vector Index",
+  "description": "If you have been on vacation for the past six months, first of all, congratulations. Secondly, you should know that since the introduction of ChatGPT-like large language models (LLM), the technology…",
+  "url": "https://medium.com/neo4j/langchain-library-adds-full-support-for-neo4j-vector-index-fa94b8eab334",
+  "content": "Streamlining data ingestion and querying in Retrieval-Augmented Generation Applications\n---------------------------------------------------------------------------------------\n\n[![Image 25: Tomaz Bratanic](https://miro.medium.com/v2/resize:fill:44:44/1*SnWQP0l4Vg9577WAErbjfw.jpeg)](https://medium.com/@bratanic-tomaz?source=post_page---byline--fa94b8eab334--------------------------------)\n\n[![Image 26: Neo4j Developer Blog](https://miro.medium.com/v2/resize:fill:24:24/1*dbXVrszMTRob9qYMUY2lqg.png)](https://medium.com/neo4j?source=post_page---byline--fa94b8eab334--------------------------------)\n\n![Image 27](https://miro.medium.com/v2/resize:fit:700/1*NknZJMDanDIgbAd0NcmZYQ.png)\n\nA detective looking at lists of numbers as imagined by Midjourney.\n\nIf you have been on vacation for the past six months, first of all, congratulations. Secondly, you should know that since the introduction of ChatGPT-like large language models (LLM), the technology ecosystem has changed dramatically. Nowadays, it’s all about retrieval-augmented generation (RAG) applications. The idea behind RAG applications is to provide additional context at query time to have the LLM generate accurate and up-to-date answers.\n\n![Image 28](https://miro.medium.com/v2/resize:fit:700/1*tQRjmGo0ngjNB8c4j7QP8g.png)\n\nRetrieval-augmented generation workflow. Image by the author.\n\nNeo4j has been and is excellent at [storing and analyzing structured information in RAG applications](https://medium.com/neo4j/knowledge-graphs-llms-real-time-graph-analytics-89b392eaaa95). Furthermore, Neo4j added the [vector index search](https://neo4j.com/blog/vector-search-deeper-insights/) only a couple of days ago, which brings it closer to supporting RAG applications based on unstructured text.\n\nTo streamline the use of Neo4j’s vector index, I have integrated it into the [LangChain library](https://docs.langchain.com/docs) properly. LangChain is a leading framework for building LLM applications, integrating most LLM providers, databases, and more. It supports data ingestion as well as reading workflows and is especially useful for developing question-answering chatbots using the RAG architecture.\n\nIn this blog post, I’ll guide you through an end-to-end example that demonstrates how to leverage LangChain for efficient data ingestion into Neo4j vector index, followed by the construction of a straightforward yet effective RAG application.\n\n![Image 29](https://miro.medium.com/v2/resize:fit:700/1*2c9ssjs2pJS7L5KWIA0AAw.png)\n\nIntended workflow. Image by the author.\n\nThe tutorial will consist of the following steps:\n\n*   Read a Wikipedia article using a LangChain Document Reader\n*   Chunk the text\n*   Store the text in Neo4j and index it using the newly added vector index\n*   Implement a question-answering workflow to support RAG applications.\n\nAs always, the code is available on [GitHub](https://github.com/tomasonjo/blogs/blob/master/llm/official_langchain_neo4jvector.ipynb).\n\nNeo4j Environment Setup\n-----------------------\n\nYou need to set up a Neo4j 5.11 or greater to follow along with the examples in this blog post. The easiest way is to start a free instance on [Neo4j Aura](https://neo4j.com/cloud/platform/aura-graph-database/), which offers cloud instances of Neo4j database. Alternatively, you can also set up a local instance of the Neo4j database by downloading the [Neo4j Desktop](https://neo4j.com/download/) application and creating a local database instance.\n\nReading and Chunking a Wikipedia Article\n----------------------------------------\n\nWe will begin by reading and chunking a Wikipedia article. The process is pretty simple, as LangChain has integrated the Wikipedia document loader as well as the text chunking modules.\n\nfrom langchain.document\\_loaders import WikipediaLoader  \nfrom langchain.text\\_splitter import CharacterTextSplitter\\# Read the wikipedia article  \nraw\\_documents = WikipediaLoader(query=\"Leonhard Euler\").load()  \n\\# Define chunking strategy  \ntext\\_splitter = CharacterTextSplitter.from\\_tiktoken\\_encoder(  \n    chunk\\_size=1000, chunk\\_overlap=20  \n)  \n\\# Chunk the document  \ndocuments = text\\_splitter.split\\_documents(raw\\_documents)\n\n\\# Remove summary from metadata  \nfor d in documents:  \n    del d.metadata\\['summary'\\]\n\nSince Neo4j is a graph database, I thought using the Wikipedia article about Leonhard Euler as the example was only fitting. Next, we use the **tiktoken** text chunking module, which uses a tokenizer made by OpenAI, to split the article into chunks with _1000_ tokens. You can learn more about [text chunking strategies in this article](https://www.pinecone.io/learn/chunking-strategies/).\n\nLangChain’s `WikipediaLoader`adds a summary to each chunk by default. I thought the added summaries were a bit redundant. For example, if you used a vector similarity search to retrieve the top three results, the summary would be repeated three times. Therefore, I decided to remove it from the dataset.\n\nStore and Index the Text With Neo4j\n-----------------------------------\n\nLangChain makes it easy to import the documents into Neo4j and index them using the newly added vector index. We tried to make it very user-friendly, which means that you don’t have to know anything about Neo4j or graphs to use it. On the other hand, we provided several customization options for more experienced users, which will be presented in a separate blog post.\n\nNeo4j vector index is wrapped as a LangChain vector store and, therefore, follows the syntax used to interact with other vector databases.\n\nfrom langchain.vectorstores import Neo4jVector  \nfrom langchain.embeddings.openai import OpenAIEmbeddings\\# Neo4j Aura credentials  \nurl=\"neo4j+s://.databases.neo4j.io\"  \nusername=\"neo4j\"  \npassword=\"<insert password\\>\"\n\n\\# Instantiate Neo4j vector from documents  \nneo4j\\_vector = Neo4jVector.from\\_documents(  \n    documents,  \n    OpenAIEmbeddings(),  \n    url=url,  \n    username=username,  \n    password=password  \n)\n\nThe `from_documents` method connects to a Neo4j database, imports and embeds the documents, and creates a vector index. The data will be represented as the \\`Chunk\\` nodes by default. As mentioned, you can customize how the data should be stored, as well as which data should be returned. However, that will be discussed in the following blog post.\n\nIf you already have an existing vector index with populated data, you can use the `from_existing_index` method.\n\nVector Similarity Search\n------------------------\n\nWe will begin with a simple vector similarity search to verify that everything works as intended.\n\nquery = \"Where did Euler grow up?\"results = neo4j\\_vector.similarity\\_search(query, k=1)  \nprint(results\\[0\\].page\\_content)\n\n_Results_\n\n![Image 30](https://miro.medium.com/v2/resize:fit:700/1*zNZCmj_lhhJoQ_efmrKaZA.png)\n\nImage by the author.\n\nThe LangChain module used the specified embedding function (OpenAI in this example) to embed the question and then find the most similar documents by comparing the cosine similarity between the user question and indexed documents.\n\nNeo4j Vector index also supports the Euclidean similarity metric along with the cosine similarity.\n\nQuestion-Answer Workflow With LangChain\n---------------------------------------\n\nThe nice thing about LangChain is that it supports question-answering workflows using only a line or two of code. For example, if we wanted to create a question-answering that generates answers based on the provided context but also provides which documents it used as the context, we can use the following code.\n\nfrom langchain.chat\\_models import ChatOpenAI  \nfrom langchain.chains import RetrievalQAWithSourcesChainchain = RetrievalQAWithSourcesChain.from\\_chain\\_type(  \n    ChatOpenAI(temperature=0),  \n    chain\\_type=\"stuff\",  \n    retriever=neo4j\\_vector.as\\_retriever()  \n)\n\nquery = \"What is Euler credited for popularizing?\"\n\nchain(  \n    {\"question\": query},  \n    return\\_only\\_outputs=True,  \n)\n\n_Results_\n\n![Image 31](https://miro.medium.com/v2/resize:fit:700/1*9uI4-u2Zcyfi-3oJunKbMA.png)\n\nImage by author.\n\nAs you can see, the LLM constructed an accurate answer based on the provided Wikipedia article but also returned which source documents it used. And we only required one line of code to achieve this, which is pretty awesome if you ask me.\n\nWhile testing the code, I noticed that the sources were not always returned. The problem here is not Neo4j Vector implementation but rather GPT-3.5-turbo. Sometimes, it doesn’t listen to instructions to return the source documents. However, if you use GPT-4, the problem goes away.\n\nLastly, to replicate the ChatGPT interface, you can add a [memory module](https://python.langchain.com/docs/modules/memory/types/buffer), which additionally provides the LLM with dialogue history so that we can ask follow-up questions. Again, we only need two lines of codes.\n\nfrom langchain.chains import ConversationalRetrievalChain  \nfrom langchain.memory import ConversationBufferMemorymemory = ConversationBufferMemory(memory\\_key=\"chat\\_history\", return\\_messages=True)  \nqa = ConversationalRetrievalChain.from\\_llm(  \n    ChatOpenAI(temperature=0), neo4j\\_vector.as\\_retriever(), memory=memory)\n\nLet’s now test it out.\n\nprint(qa({\"question\": \"What is Euler credited for popularizing?\"})\\[\"answer\"\\])\n\n_Results_\n\n![Image 32](https://miro.medium.com/v2/resize:fit:700/1*1bOrPSTJxgntNaBmZvdqTg.png)\n\nImage by author.\n\nAnd now a follow-up question.\n\nprint(qa({\"question\": \"Where did he grow up?\"})\\[\"answer\"\\])\n\n_Results_\n\n![Image 33](https://miro.medium.com/v2/resize:fit:466/1*APzneOsoRiiuGmpYgYyBzQ.png)\n\nImage by author.\n\nSummary\n-------\n\nThe vector index is a great addition to Neo4j, making it an excellent solution for handling structured and unstructured data for RAG applications. Hopefully, the LangChain integration will streamline the process of integrating the vector index into your existing or new RAG applications, so you don’t have to worry about the details. Remember, [LangChain already supports generating Cypher statements](https://towardsdatascience.com/langchain-has-added-cypher-search-cb9d821120d5) and using them to retrieve context, so you can use it today to retrieve both structured and unstructured information. We have many ideas on upgrading the LangChain support for Neo4j, so stay tuned!\n\nAs always, the code is available on [GitHub](https://github.com/tomasonjo/blogs/blob/master/llm/official_langchain_neo4jvector.ipynb).\n\nMake sure to register and attend [Nodes 2023](https://neo4j.com/nodes) to learn more about generative AI and graph technology!",
+  "publishedTime": "2023-08-31T16:57:15.503Z",
+  "usage": {
+    "tokens": 2516
+  }
+}
+```

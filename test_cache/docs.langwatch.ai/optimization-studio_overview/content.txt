@@ -1,0 +1,103 @@
+Overview - LangWatch
+===============
+ 
+
+[LangWatch home page![Image 3: light logo](https://mintlify.s3.us-west-1.amazonaws.com/langwatch/logo/light.svg)![Image 4: dark logo](https://mintlify.s3.us-west-1.amazonaws.com/langwatch/logo/dark.svg)](https://docs.langwatch.ai/)
+
+Search...
+
+*   [Support](https://docs.langwatch.ai/support#email-support)
+*   [Dashboard](https://app.langwatch.ai/)
+*   [langwatch/langwatch](https://github.com/langwatch/langwatch)
+*   [langwatch/langwatch](https://github.com/langwatch/langwatch)
+
+Search...
+
+Navigation
+
+[Documentation](https://docs.langwatch.ai/introduction)[LangEvals](https://docs.langwatch.ai/langevals/documentation/introduction)
+
+*   [Open Dashboard](https://app.langwatch.ai/)
+*   [GitHub Repo](https://github.com/langwatch/langwatch)
+
+*   [Introduction](https://docs.langwatch.ai/introduction)
+*   [Self-Hosting](https://docs.langwatch.ai/self-hosting)
+
+##### Optimization Studio
+
+*   [Overview](https://docs.langwatch.ai/optimization-studio/overview)
+*   [LLM Nodes](https://docs.langwatch.ai/optimization-studio/llm-nodes)
+*   [Datasets](https://docs.langwatch.ai/optimization-studio/datasets)
+*   [Evaluating](https://docs.langwatch.ai/optimization-studio/evaluating)
+*   [Optimizing](https://docs.langwatch.ai/optimization-studio/optimizing)
+
+##### Monitoring Integration
+
+*   [Overview](https://docs.langwatch.ai/integration/overview)
+*   Python
+    
+*   TypeScript
+    
+*   OpenTelemetry
+    
+*   [Langflow Integration](https://docs.langwatch.ai/integration/langflow)
+*   [Flowise Integration](https://docs.langwatch.ai/integration/flowise)
+*   [REST API Integration](https://docs.langwatch.ai/integration/rest-api)
+*   [RAG Context Tracking](https://docs.langwatch.ai/integration/rags-context-tracking)
+*   [Concepts](https://docs.langwatch.ai/concepts)
+*   [Cookbooks](https://docs.langwatch.ai/integration/cookbooks)
+
+##### Evaluations
+
+*   [Evaluations](https://docs.langwatch.ai/evaluations/overview)
+*   [Custom Evaluator Integration](https://docs.langwatch.ai/evaluations/custom-evaluator-integration)
+
+##### Guardrails
+
+*   [Overview](https://docs.langwatch.ai/guardrails/overview)
+*   [Setting Up Guardrails](https://docs.langwatch.ai/guardrails/setting-up-guardrails)
+
+##### User Events
+
+*   [Overview](https://docs.langwatch.ai/user-events/overview)
+*   Events
+    
+
+##### DSPy Visualization
+
+*   [Quickstart](https://docs.langwatch.ai/dspy-visualization/quickstart)
+*   [Custom Optimizer Tracking](https://docs.langwatch.ai/dspy-visualization/custom-optimizer)
+*   [RAG Visualization](https://docs.langwatch.ai/dspy-visualization/rag-visualization)
+
+##### More Features
+
+*   [Triggers](https://docs.langwatch.ai/features/triggers)
+*   [Annotations](https://docs.langwatch.ai/features/annotations)
+*   [Datasets](https://docs.langwatch.ai/features/datasets)
+*   [Embedded Analytics](https://docs.langwatch.ai/features/embedded-analytics)
+
+##### API Endpoints
+
+*   Traces
+    
+*   Annotations
+    
+
+*   [Troubleshooting and Support](https://docs.langwatch.ai/support)
+
+Optimization Studio
+
+Overview
+========
+
+The Optimization Studio is your laboratory to create, evaluate, and optimize your LLM workflows. Check out the introduction video below and the video tutorials on the next page to learn how to really measure the quality of your LLMs and optimize it to extract the best performance possible.applications
+
+  
+
+[LLM Nodes ---------](https://docs.langwatch.ai/optimization-studio/llm-nodes)[Datasets --------](https://docs.langwatch.ai/optimization-studio/datasets)[Evaluating ----------](https://docs.langwatch.ai/optimization-studio/evaluating)[Optimizing ----------](https://docs.langwatch.ai/optimization-studio/optimizing)
+
+[Self-Hosting](https://docs.langwatch.ai/self-hosting)[LLM Nodes](https://docs.langwatch.ai/optimization-studio/llm-nodes)
+
+[github](https://github.com/langwatch/langwatch)[linkedin](https://www.linkedin.com/company/langwatch/)
+
+[Powered by Mintlify](https://mintlify.com/preview-request?utm_campaign=poweredBy&utm_medium=docs&utm_source=docs.langwatch.ai)

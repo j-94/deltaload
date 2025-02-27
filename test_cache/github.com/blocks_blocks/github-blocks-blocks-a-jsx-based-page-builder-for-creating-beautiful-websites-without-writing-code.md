@@ -1,0 +1,1065 @@
+---
+title: GitHub - blocks/blocks: A JSX-based page builder for creating beautiful websites without writing code
+description: A JSX-based page builder for creating beautiful websites without writing code - blocks/blocks
+url: https://github.com/blocks/blocks
+timestamp: 2025-01-20T15:31:06.630Z
+domain: github.com
+path: blocks_blocks
+---
+
+# GitHub - blocks/blocks: A JSX-based page builder for creating beautiful websites without writing code
+
+
+A JSX-based page builder for creating beautiful websites without writing code - blocks/blocks
+
+
+## Content
+
+GitHub - blocks/blocks: A JSX-based page builder for creating beautiful websites without writing code
+===============
+                                           
+
+[Skip to content](https://github.com/blocks/blocks?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fblocks%2Fblocks%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fblocks%2Fblocks%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=blocks%2Fblocks) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[blocks](https://github.com/blocks) / **[blocks](https://github.com/blocks/blocks)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fblocks%2Fblocks) You must be signed in to change notification settings
+*   [Fork 323](https://github.com/login?return_to=%2Fblocks%2Fblocks)
+*   [Star 5k](https://github.com/login?return_to=%2Fblocks%2Fblocks)
+    
+
+A JSX-based page builder for creating beautiful websites without writing code
+
+[blocks-ui.com](https://blocks-ui.com/ "https://blocks-ui.com")
+
+### License
+
+[MIT license](https://github.com/blocks/blocks/blob/master/license)
+
+[5k stars](https://github.com/blocks/blocks/stargazers) [323 forks](https://github.com/blocks/blocks/forks) [Branches](https://github.com/blocks/blocks/branches) [Tags](https://github.com/blocks/blocks/tags) [Activity](https://github.com/blocks/blocks/activity)
+
+[Star](https://github.com/login?return_to=%2Fblocks%2Fblocks)
+
+[Notifications](https://github.com/login?return_to=%2Fblocks%2Fblocks) You must be signed in to change notification settings
+
+*   [Code](https://github.com/blocks/blocks)
+*   [Issues 47](https://github.com/blocks/blocks/issues)
+*   [Pull requests 19](https://github.com/blocks/blocks/pulls)
+*   [Actions](https://github.com/blocks/blocks/actions)
+*   [Projects 0](https://github.com/blocks/blocks/projects)
+*   [Security](https://github.com/blocks/blocks/security)
+*   [Insights](https://github.com/blocks/blocks/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/blocks/blocks)
+*   [Issues](https://github.com/blocks/blocks/issues)
+*   [Pull requests](https://github.com/blocks/blocks/pulls)
+*   [Actions](https://github.com/blocks/blocks/actions)
+*   [Projects](https://github.com/blocks/blocks/projects)
+*   [Security](https://github.com/blocks/blocks/security)
+*   [Insights](https://github.com/blocks/blocks/pulse)
+
+blocks/blocks
+=============
+
+  
+
+ master
+
+[**20** Branches](https://github.com/blocks/blocks/branches)[**102** Tags](https://github.com/blocks/blocks/tags)
+
+[](https://github.com/blocks/blocks/branches)[](https://github.com/blocks/blocks/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 19: johno](https://avatars.githubusercontent.com/u/1424573?v=4&size=40)](https://github.com/johno)[johno](https://github.com/blocks/blocks/commits?author=johno)
+
+[Merge pull request](https://github.com/blocks/blocks/commit/70bee97e65353fd3e2ad0ba7040a07f2637b9b97) [#302](https://github.com/blocks/blocks/pull/302) [from andrew-t-james/add-get-exported-elements…](https://github.com/blocks/blocks/commit/70bee97e65353fd3e2ad0ba7040a07f2637b9b97)
+
+Jun 26, 2020
+
+[70bee97](https://github.com/blocks/blocks/commit/70bee97e65353fd3e2ad0ba7040a07f2637b9b97) · Jun 26, 2020
+
+History
+-------
+
+[1,047 Commits](https://github.com/blocks/blocks/commits/master/)
+
+[](https://github.com/blocks/blocks/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.changeset](https://github.com/blocks/blocks/tree/master/.changeset ".changeset")
+
+
+
+
+
+
+
+ | 
+
+[.changeset](https://github.com/blocks/blocks/tree/master/.changeset ".changeset")
+
+
+
+
+
+
+
+ | 
+
+[Version Packages](https://github.com/blocks/blocks/commit/5a6cc79f7580209f218920e98a3aabac9ed54607 "Version Packages")
+
+
+
+ | 
+
+Jun 26, 2020
+
+ |
+| 
+
+[.github/workflows](https://github.com/blocks/blocks/tree/master/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[.github/workflows](https://github.com/blocks/blocks/tree/master/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[Add fetch depth](https://github.com/blocks/blocks/commit/526b79125babf9ea8132dc342e7f443513cefa04 "Add fetch depth")
+
+
+
+ | 
+
+Jan 30, 2020
+
+ |
+| 
+
+[packages](https://github.com/blocks/blocks/tree/master/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[packages](https://github.com/blocks/blocks/tree/master/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[Merge pull request](https://github.com/blocks/blocks/commit/70bee97e65353fd3e2ad0ba7040a07f2637b9b97 "Merge pull request #302 from andrew-t-james/add-get-exported-elements-test
+Add get-exported-elements-test") [#302](https://github.com/blocks/blocks/pull/302) [from andrew-t-james/add-get-exported-elements…](https://github.com/blocks/blocks/commit/70bee97e65353fd3e2ad0ba7040a07f2637b9b97 "Merge pull request #302 from andrew-t-james/add-get-exported-elements-test
+Add get-exported-elements-test")
+
+
+
+ | 
+
+Jun 26, 2020
+
+ |
+| 
+
+[src](https://github.com/blocks/blocks/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/blocks/blocks/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[updated contributing and getting started pages](https://github.com/blocks/blocks/commit/e26e91a9c351e5f18af366e9023f545641a6ff89 "updated contributing and getting started pages")
+
+
+
+ | 
+
+Apr 1, 2020
+
+ |
+| 
+
+[.eslintignore](https://github.com/blocks/blocks/blob/master/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[.eslintignore](https://github.com/blocks/blocks/blob/master/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[Spike out basic blocks definition and docs generation](https://github.com/blocks/blocks/commit/d80e538c7c4de79274c6eb2d678391ab8835d1e8 "Spike out basic blocks definition and docs generation")
+
+
+
+ | 
+
+Nov 19, 2019
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/blocks/blocks/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/blocks/blocks/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[Fixes](https://github.com/blocks/blocks/commit/5d88315b752c6a88362a324bfb17b62d09351485 "Fixes")
+
+
+
+ | 
+
+Dec 13, 2019
+
+ |
+| 
+
+[.gitignore](https://github.com/blocks/blocks/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/blocks/blocks/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Rename directory for @blocks/react](https://github.com/blocks/blocks/commit/ee549f744c380859c796a5a0c1d6b16ccbdc228b "Rename directory for @blocks/react")
+
+
+
+ | 
+
+Dec 4, 2019
+
+ |
+| 
+
+[.nowignore](https://github.com/blocks/blocks/blob/master/.nowignore ".nowignore")
+
+
+
+
+
+
+
+ | 
+
+[.nowignore](https://github.com/blocks/blocks/blob/master/.nowignore ".nowignore")
+
+
+
+
+
+
+
+ | 
+
+[Add now ignore](https://github.com/blocks/blocks/commit/65c22894ead2d4bf1cb75f485d446562a7593867 "Add now ignore")
+
+
+
+ | 
+
+May 14, 2019
+
+ |
+| 
+
+[.npmrc](https://github.com/blocks/blocks/blob/master/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[.npmrc](https://github.com/blocks/blocks/blob/master/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[added npmrc file to prevent lock file from being created.](https://github.com/blocks/blocks/commit/fd6a838adc1564d3764bff285e6e08978d60b067 "added npmrc file to prevent lock file from being created.")
+
+
+
+ | 
+
+Apr 1, 2020
+
+ |
+| 
+
+[.prettierrc](https://github.com/blocks/blocks/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc](https://github.com/blocks/blocks/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[add prettierrc (](https://github.com/blocks/blocks/commit/db4241aac1816eed401f8d56a637c4c92e0dd492 "add prettierrc (#15)")[#15](https://github.com/blocks/blocks/pull/15)[)](https://github.com/blocks/blocks/commit/db4241aac1816eed401f8d56a637c4c92e0dd492 "add prettierrc (#15)")
+
+
+
+ | 
+
+Nov 3, 2019
+
+ |
+| 
+
+[babel.config.js](https://github.com/blocks/blocks/blob/master/babel.config.js "babel.config.js")
+
+
+
+
+
+
+
+ | 
+
+[babel.config.js](https://github.com/blocks/blocks/blob/master/babel.config.js "babel.config.js")
+
+
+
+
+
+
+
+ | 
+
+[even more WIP code review](https://github.com/blocks/blocks/commit/5ec3c300d4b4304edb6d2241e70e93710ac7b374 "even more WIP code review")
+
+
+
+ | 
+
+Dec 17, 2019
+
+ |
+| 
+
+[code-of-conduct.md](https://github.com/blocks/blocks/blob/master/code-of-conduct.md "code-of-conduct.md")
+
+
+
+
+
+
+
+ | 
+
+[code-of-conduct.md](https://github.com/blocks/blocks/blob/master/code-of-conduct.md "code-of-conduct.md")
+
+
+
+
+
+
+
+ | 
+
+[Add some basic OSS files that were missing](https://github.com/blocks/blocks/commit/fbb2d659ef9289dca84463437d9689776bd055fa "Add some basic OSS files that were missing
+Closes #116")
+
+
+
+ | 
+
+Nov 29, 2019
+
+ |
+| 
+
+[contributing.md](https://github.com/blocks/blocks/blob/master/contributing.md "contributing.md")
+
+
+
+
+
+
+
+ | 
+
+[contributing.md](https://github.com/blocks/blocks/blob/master/contributing.md "contributing.md")
+
+
+
+
+
+
+
+ | 
+
+[updated contributing and getting started pages](https://github.com/blocks/blocks/commit/e26e91a9c351e5f18af366e9023f545641a6ff89 "updated contributing and getting started pages")
+
+
+
+ | 
+
+Apr 1, 2020
+
+ |
+| 
+
+[gatsby-config.js](https://github.com/blocks/blocks/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-config.js](https://github.com/blocks/blocks/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[Rewrite editor internals to use context](https://github.com/blocks/blocks/commit/a8ba1b483a9893575763e94b64c9f6d0fa1792e3 "Rewrite editor internals to use context
+This is a large overhaul of the editor internal state to
+make things easier to reason about. The primary editor code
+was hacked together quickly, with asynchronous effects updating
+state that should have been serial. It also removes a lot of
+prop drilling which was a burden to follow.
+This now breaks app state into its primary logical parts:
+- **ThemeProvider**: The app's internal Theme UI config
+- **BlocksProvider**: The renderable block components passed to
+the editor
+- **EditorProvider**: The editor state including active tab,
+mode, etc.
+- **ElementProvider**: The current selected element and its metadata
+- **ThemeEditorProvider**: The theme config for the canvas
+- **ScopeProvider**: The components and properties that the canvas
+has access to
+- **CodeProvider**: The current JSX code, its transformed version,
+and other data derived from the JSX that the editor UI needs. This
+also has the numerous updaters that transform the code with babel
+plugins.")
+
+
+
+ | 
+
+Jan 17, 2020
+
+ |
+| 
+
+[gatsby-node.js](https://github.com/blocks/blocks/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-node.js](https://github.com/blocks/blocks/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[wip PR](https://github.com/blocks/blocks/commit/7fa65fcdc2fb210804ab67741ba041c03bfdd11f "wip PR")
+
+
+
+ | 
+
+Dec 17, 2019
+
+ |
+| 
+
+[license](https://github.com/blocks/blocks/blob/master/license "license")
+
+
+
+
+
+
+
+ | 
+
+[license](https://github.com/blocks/blocks/blob/master/license "license")
+
+
+
+
+
+
+
+ | 
+
+[Add some basic OSS files that were missing](https://github.com/blocks/blocks/commit/fbb2d659ef9289dca84463437d9689776bd055fa "Add some basic OSS files that were missing
+Closes #116")
+
+
+
+ | 
+
+Nov 29, 2019
+
+ |
+| 
+
+[now.json](https://github.com/blocks/blocks/blob/master/now.json "now.json")
+
+
+
+
+
+
+
+ | 
+
+[now.json](https://github.com/blocks/blocks/blob/master/now.json "now.json")
+
+
+
+
+
+
+
+ | 
+
+[Update url](https://github.com/blocks/blocks/commit/ec4c09d8412f3f4e8d922ca64126742ef382729a "Update url")
+
+
+
+ | 
+
+Nov 25, 2019
+
+ |
+| 
+
+[package.json](https://github.com/blocks/blocks/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/blocks/blocks/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Handle manypkg fix, move to own test rather than postinstall](https://github.com/blocks/blocks/commit/59d3abc40c6adc9970dd8e1a1082dae5d343eb30 "Handle manypkg fix, move to own test rather than postinstall")
+
+
+
+ | 
+
+Jun 26, 2020
+
+ |
+| 
+
+[readme.md](https://github.com/blocks/blocks/blob/master/readme.md "readme.md")
+
+
+
+
+
+
+
+ | 
+
+[readme.md](https://github.com/blocks/blocks/blob/master/readme.md "readme.md")
+
+
+
+
+
+
+
+ | 
+
+[Update link to docs](https://github.com/blocks/blocks/commit/894fc75d7023ca3593d6e070b1dbd7a16d476a09 "Update link to docs
+`Read the docs` link was taking us to the home page of blocks-ui.com. Changing it to take to the actual docs page.")
+
+
+
+ | 
+
+Feb 7, 2020
+
+ |
+| 
+
+[renovate.json](https://github.com/blocks/blocks/blob/master/renovate.json "renovate.json")
+
+
+
+
+
+
+
+ | 
+
+[renovate.json](https://github.com/blocks/blocks/blob/master/renovate.json "renovate.json")
+
+
+
+
+
+
+
+ | 
+
+[Change renovate schedule](https://github.com/blocks/blocks/commit/8dc548a8cdceb62a0db0648e848bdfcfa91e85fa "Change renovate schedule")
+
+
+
+ | 
+
+Dec 3, 2019
+
+ |
+| 
+
+[yarn.lock](https://github.com/blocks/blocks/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/blocks/blocks/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[Bump deps](https://github.com/blocks/blocks/commit/ad7c6b982e7bd3f23506e13165fb90b5245ab203 "Bump deps")
+
+
+
+ | 
+
+Jun 26, 2020
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/blocks/blocks?screenshot=true#)
+*   [Code of conduct](https://github.com/blocks/blocks?screenshot=true#)
+*   [MIT license](https://github.com/blocks/blocks?screenshot=true#)
+
+[![Image 20: blocks logo](https://user-images.githubusercontent.com/1424573/61592179-e0fda080-ab8c-11e9-9109-166cc7c86b43.png)](https://user-images.githubusercontent.com/1424573/61592179-e0fda080-ab8c-11e9-9109-166cc7c86b43.png)
+
+Blocks (alpha)
+==============
+
+[](https://github.com/blocks/blocks?screenshot=true#blocks-alpha)
+
+A JSX-based page builder for creating beautiful websites without writing code.
+
+[![Image 21: Blocks demo](https://user-images.githubusercontent.com/1424573/69644337-c13a2580-1021-11ea-8c76-379386372db1.gif)](https://user-images.githubusercontent.com/1424573/69644337-c13a2580-1021-11ea-8c76-379386372db1.gif) [![Image 22: Blocks demo](https://user-images.githubusercontent.com/1424573/69644337-c13a2580-1021-11ea-8c76-379386372db1.gif)](https://user-images.githubusercontent.com/1424573/69644337-c13a2580-1021-11ea-8c76-379386372db1.gif)[](https://user-images.githubusercontent.com/1424573/69644337-c13a2580-1021-11ea-8c76-379386372db1.gif)
+
+[Read the docs →](https://blocks-ui.com/docs)
+
+* * *
+
+> Blocks is in **very early alpha** so many features are missing and it's not yet fully functional.
+
+About
+-----
+
+A JSX-based page builder for creating beautiful websites without writing code
+
+[blocks-ui.com](https://blocks-ui.com/ "https://blocks-ui.com")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [jsx](https://github.com/topics/jsx "Topic: jsx") [wysiwyg](https://github.com/topics/wysiwyg "Topic: wysiwyg") [mdx](https://github.com/topics/mdx "Topic: mdx") [visual-editor](https://github.com/topics/visual-editor "Topic: visual-editor") [nocode](https://github.com/topics/nocode "Topic: nocode") [lowcode](https://github.com/topics/lowcode "Topic: lowcode")
+
+### Resources
+
+[Readme](https://github.com/blocks/blocks?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/blocks/blocks?screenshot=true#MIT-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/blocks/blocks?screenshot=true#coc-ov-file)
+
+[Activity](https://github.com/blocks/blocks/activity)
+
+[Custom properties](https://github.com/blocks/blocks/custom-properties)
+
+### Stars
+
+[**5k** stars](https://github.com/blocks/blocks/stargazers)
+
+### Watchers
+
+[**72** watching](https://github.com/blocks/blocks/watchers)
+
+### Forks
+
+[**323** forks](https://github.com/blocks/blocks/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fblocks%2Fblocks&report=blocks+%28user%29)
+
+[Releases](https://github.com/blocks/blocks/releases)
+-----------------------------------------------------
+
+[102 tags](https://github.com/blocks/blocks/tags)
+
+[Packages 0](https://github.com/orgs/blocks/packages?repo_name=blocks)
+----------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 28](https://github.com/blocks/blocks/graphs/contributors)
+-----------------------------------------------------------------------
+
+*   [![Image 23: @johno](https://avatars.githubusercontent.com/u/1424573?s=64&v=4)](https://github.com/johno)
+*   [![Image 24: @jordanoverbye](https://avatars.githubusercontent.com/u/6265154?s=64&v=4)](https://github.com/jordanoverbye)
+*   [![Image 25: @jxnblk](https://avatars.githubusercontent.com/u/3451712?s=64&v=4)](https://github.com/jxnblk)
+*   [![Image 26: @renovate-bot](https://avatars.githubusercontent.com/u/25180681?s=64&v=4)](https://github.com/renovate-bot)
+*   [![Image 27: @jletey](https://avatars.githubusercontent.com/u/30328854?s=64&v=4)](https://github.com/jletey)
+*   [![Image 28: @github-actions[bot]](https://avatars.githubusercontent.com/in/15368?s=64&v=4)](https://github.com/apps/github-actions)
+*   [![Image 29: @andrew-t-james](https://avatars.githubusercontent.com/u/13269277?s=64&v=4)](https://github.com/andrew-t-james)
+*   [![Image 30: @simonswiss](https://avatars.githubusercontent.com/u/485747?s=64&v=4)](https://github.com/simonswiss)
+*   [![Image 31: @coffee-cup](https://avatars.githubusercontent.com/u/3044853?s=64&v=4)](https://github.com/coffee-cup)
+*   [![Image 32: @souporserious](https://avatars.githubusercontent.com/u/2762082?s=64&v=4)](https://github.com/souporserious)
+*   [![Image 33: @colebemis](https://avatars.githubusercontent.com/u/4608155?s=64&v=4)](https://github.com/colebemis)
+*   [![Image 34: @mathieudutour](https://avatars.githubusercontent.com/u/3254314?s=64&v=4)](https://github.com/mathieudutour)
+*   [![Image 35: @cheng-kang](https://avatars.githubusercontent.com/u/8396515?s=64&v=4)](https://github.com/cheng-kang)
+*   [![Image 36: @Jarred-Sumner](https://avatars.githubusercontent.com/u/709451?s=64&v=4)](https://github.com/Jarred-Sumner)
+
+[\+ 14 contributors](https://github.com/blocks/blocks/graphs/contributors)
+
+Languages
+---------
+
+*   [JavaScript 100.0%](https://github.com/blocks/blocks/search?l=javascript)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - blocks/blocks: A JSX-based page builder for creating beautiful websites without writing code",
+  "description": "A JSX-based page builder for creating beautiful websites without writing code - blocks/blocks",
+  "url": "https://github.com/blocks/blocks?screenshot=true",
+  "content": "GitHub - blocks/blocks: A JSX-based page builder for creating beautiful websites without writing code\n===============\n                                           \n\n[Skip to content](https://github.com/blocks/blocks?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fblocks%2Fblocks%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fblocks%2Fblocks%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=blocks%2Fblocks) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[blocks](https://github.com/blocks) / **[blocks](https://github.com/blocks/blocks)** Public\n\n*   [Notifications](https://github.com/login?return_to=%2Fblocks%2Fblocks) You must be signed in to change notification settings\n*   [Fork 323](https://github.com/login?return_to=%2Fblocks%2Fblocks)\n*   [Star 5k](https://github.com/login?return_to=%2Fblocks%2Fblocks)\n    \n\nA JSX-based page builder for creating beautiful websites without writing code\n\n[blocks-ui.com](https://blocks-ui.com/ \"https://blocks-ui.com\")\n\n### License\n\n[MIT license](https://github.com/blocks/blocks/blob/master/license)\n\n[5k stars](https://github.com/blocks/blocks/stargazers) [323 forks](https://github.com/blocks/blocks/forks) [Branches](https://github.com/blocks/blocks/branches) [Tags](https://github.com/blocks/blocks/tags) [Activity](https://github.com/blocks/blocks/activity)\n\n[Star](https://github.com/login?return_to=%2Fblocks%2Fblocks)\n\n[Notifications](https://github.com/login?return_to=%2Fblocks%2Fblocks) You must be signed in to change notification settings\n\n*   [Code](https://github.com/blocks/blocks)\n*   [Issues 47](https://github.com/blocks/blocks/issues)\n*   [Pull requests 19](https://github.com/blocks/blocks/pulls)\n*   [Actions](https://github.com/blocks/blocks/actions)\n*   [Projects 0](https://github.com/blocks/blocks/projects)\n*   [Security](https://github.com/blocks/blocks/security)\n*   [Insights](https://github.com/blocks/blocks/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/blocks/blocks)\n*   [Issues](https://github.com/blocks/blocks/issues)\n*   [Pull requests](https://github.com/blocks/blocks/pulls)\n*   [Actions](https://github.com/blocks/blocks/actions)\n*   [Projects](https://github.com/blocks/blocks/projects)\n*   [Security](https://github.com/blocks/blocks/security)\n*   [Insights](https://github.com/blocks/blocks/pulse)\n\nblocks/blocks\n=============\n\n  \n\n master\n\n[**20** Branches](https://github.com/blocks/blocks/branches)[**102** Tags](https://github.com/blocks/blocks/tags)\n\n[](https://github.com/blocks/blocks/branches)[](https://github.com/blocks/blocks/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 19: johno](https://avatars.githubusercontent.com/u/1424573?v=4&size=40)](https://github.com/johno)[johno](https://github.com/blocks/blocks/commits?author=johno)\n\n[Merge pull request](https://github.com/blocks/blocks/commit/70bee97e65353fd3e2ad0ba7040a07f2637b9b97) [#302](https://github.com/blocks/blocks/pull/302) [from andrew-t-james/add-get-exported-elements…](https://github.com/blocks/blocks/commit/70bee97e65353fd3e2ad0ba7040a07f2637b9b97)\n\nJun 26, 2020\n\n[70bee97](https://github.com/blocks/blocks/commit/70bee97e65353fd3e2ad0ba7040a07f2637b9b97) · Jun 26, 2020\n\nHistory\n-------\n\n[1,047 Commits](https://github.com/blocks/blocks/commits/master/)\n\n[](https://github.com/blocks/blocks/commits/master/)\n\n\n\n\n\n\n\n |\n| \n\n[.changeset](https://github.com/blocks/blocks/tree/master/.changeset \".changeset\")\n\n\n\n\n\n\n\n | \n\n[.changeset](https://github.com/blocks/blocks/tree/master/.changeset \".changeset\")\n\n\n\n\n\n\n\n | \n\n[Version Packages](https://github.com/blocks/blocks/commit/5a6cc79f7580209f218920e98a3aabac9ed54607 \"Version Packages\")\n\n\n\n | \n\nJun 26, 2020\n\n |\n| \n\n[.github/workflows](https://github.com/blocks/blocks/tree/master/.github/workflows \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[.github/workflows](https://github.com/blocks/blocks/tree/master/.github/workflows \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[Add fetch depth](https://github.com/blocks/blocks/commit/526b79125babf9ea8132dc342e7f443513cefa04 \"Add fetch depth\")\n\n\n\n | \n\nJan 30, 2020\n\n |\n| \n\n[packages](https://github.com/blocks/blocks/tree/master/packages \"packages\")\n\n\n\n\n\n\n\n | \n\n[packages](https://github.com/blocks/blocks/tree/master/packages \"packages\")\n\n\n\n\n\n\n\n | \n\n[Merge pull request](https://github.com/blocks/blocks/commit/70bee97e65353fd3e2ad0ba7040a07f2637b9b97 \"Merge pull request #302 from andrew-t-james/add-get-exported-elements-test\nAdd get-exported-elements-test\") [#302](https://github.com/blocks/blocks/pull/302) [from andrew-t-james/add-get-exported-elements…](https://github.com/blocks/blocks/commit/70bee97e65353fd3e2ad0ba7040a07f2637b9b97 \"Merge pull request #302 from andrew-t-james/add-get-exported-elements-test\nAdd get-exported-elements-test\")\n\n\n\n | \n\nJun 26, 2020\n\n |\n| \n\n[src](https://github.com/blocks/blocks/tree/master/src \"src\")\n\n\n\n\n\n\n\n | \n\n[src](https://github.com/blocks/blocks/tree/master/src \"src\")\n\n\n\n\n\n\n\n | \n\n[updated contributing and getting started pages](https://github.com/blocks/blocks/commit/e26e91a9c351e5f18af366e9023f545641a6ff89 \"updated contributing and getting started pages\")\n\n\n\n | \n\nApr 1, 2020\n\n |\n| \n\n[.eslintignore](https://github.com/blocks/blocks/blob/master/.eslintignore \".eslintignore\")\n\n\n\n\n\n\n\n | \n\n[.eslintignore](https://github.com/blocks/blocks/blob/master/.eslintignore \".eslintignore\")\n\n\n\n\n\n\n\n | \n\n[Spike out basic blocks definition and docs generation](https://github.com/blocks/blocks/commit/d80e538c7c4de79274c6eb2d678391ab8835d1e8 \"Spike out basic blocks definition and docs generation\")\n\n\n\n | \n\nNov 19, 2019\n\n |\n| \n\n[.eslintrc.js](https://github.com/blocks/blocks/blob/master/.eslintrc.js \".eslintrc.js\")\n\n\n\n\n\n\n\n | \n\n[.eslintrc.js](https://github.com/blocks/blocks/blob/master/.eslintrc.js \".eslintrc.js\")\n\n\n\n\n\n\n\n | \n\n[Fixes](https://github.com/blocks/blocks/commit/5d88315b752c6a88362a324bfb17b62d09351485 \"Fixes\")\n\n\n\n | \n\nDec 13, 2019\n\n |\n| \n\n[.gitignore](https://github.com/blocks/blocks/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/blocks/blocks/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[Rename directory for @blocks/react](https://github.com/blocks/blocks/commit/ee549f744c380859c796a5a0c1d6b16ccbdc228b \"Rename directory for @blocks/react\")\n\n\n\n | \n\nDec 4, 2019\n\n |\n| \n\n[.nowignore](https://github.com/blocks/blocks/blob/master/.nowignore \".nowignore\")\n\n\n\n\n\n\n\n | \n\n[.nowignore](https://github.com/blocks/blocks/blob/master/.nowignore \".nowignore\")\n\n\n\n\n\n\n\n | \n\n[Add now ignore](https://github.com/blocks/blocks/commit/65c22894ead2d4bf1cb75f485d446562a7593867 \"Add now ignore\")\n\n\n\n | \n\nMay 14, 2019\n\n |\n| \n\n[.npmrc](https://github.com/blocks/blocks/blob/master/.npmrc \".npmrc\")\n\n\n\n\n\n\n\n | \n\n[.npmrc](https://github.com/blocks/blocks/blob/master/.npmrc \".npmrc\")\n\n\n\n\n\n\n\n | \n\n[added npmrc file to prevent lock file from being created.](https://github.com/blocks/blocks/commit/fd6a838adc1564d3764bff285e6e08978d60b067 \"added npmrc file to prevent lock file from being created.\")\n\n\n\n | \n\nApr 1, 2020\n\n |\n| \n\n[.prettierrc](https://github.com/blocks/blocks/blob/master/.prettierrc \".prettierrc\")\n\n\n\n\n\n\n\n | \n\n[.prettierrc](https://github.com/blocks/blocks/blob/master/.prettierrc \".prettierrc\")\n\n\n\n\n\n\n\n | \n\n[add prettierrc (](https://github.com/blocks/blocks/commit/db4241aac1816eed401f8d56a637c4c92e0dd492 \"add prettierrc (#15)\")[#15](https://github.com/blocks/blocks/pull/15)[)](https://github.com/blocks/blocks/commit/db4241aac1816eed401f8d56a637c4c92e0dd492 \"add prettierrc (#15)\")\n\n\n\n | \n\nNov 3, 2019\n\n |\n| \n\n[babel.config.js](https://github.com/blocks/blocks/blob/master/babel.config.js \"babel.config.js\")\n\n\n\n\n\n\n\n | \n\n[babel.config.js](https://github.com/blocks/blocks/blob/master/babel.config.js \"babel.config.js\")\n\n\n\n\n\n\n\n | \n\n[even more WIP code review](https://github.com/blocks/blocks/commit/5ec3c300d4b4304edb6d2241e70e93710ac7b374 \"even more WIP code review\")\n\n\n\n | \n\nDec 17, 2019\n\n |\n| \n\n[code-of-conduct.md](https://github.com/blocks/blocks/blob/master/code-of-conduct.md \"code-of-conduct.md\")\n\n\n\n\n\n\n\n | \n\n[code-of-conduct.md](https://github.com/blocks/blocks/blob/master/code-of-conduct.md \"code-of-conduct.md\")\n\n\n\n\n\n\n\n | \n\n[Add some basic OSS files that were missing](https://github.com/blocks/blocks/commit/fbb2d659ef9289dca84463437d9689776bd055fa \"Add some basic OSS files that were missing\nCloses #116\")\n\n\n\n | \n\nNov 29, 2019\n\n |\n| \n\n[contributing.md](https://github.com/blocks/blocks/blob/master/contributing.md \"contributing.md\")\n\n\n\n\n\n\n\n | \n\n[contributing.md](https://github.com/blocks/blocks/blob/master/contributing.md \"contributing.md\")\n\n\n\n\n\n\n\n | \n\n[updated contributing and getting started pages](https://github.com/blocks/blocks/commit/e26e91a9c351e5f18af366e9023f545641a6ff89 \"updated contributing and getting started pages\")\n\n\n\n | \n\nApr 1, 2020\n\n |\n| \n\n[gatsby-config.js](https://github.com/blocks/blocks/blob/master/gatsby-config.js \"gatsby-config.js\")\n\n\n\n\n\n\n\n | \n\n[gatsby-config.js](https://github.com/blocks/blocks/blob/master/gatsby-config.js \"gatsby-config.js\")\n\n\n\n\n\n\n\n | \n\n[Rewrite editor internals to use context](https://github.com/blocks/blocks/commit/a8ba1b483a9893575763e94b64c9f6d0fa1792e3 \"Rewrite editor internals to use context\nThis is a large overhaul of the editor internal state to\nmake things easier to reason about. The primary editor code\nwas hacked together quickly, with asynchronous effects updating\nstate that should have been serial. It also removes a lot of\nprop drilling which was a burden to follow.\nThis now breaks app state into its primary logical parts:\n- **ThemeProvider**: The app's internal Theme UI config\n- **BlocksProvider**: The renderable block components passed to\nthe editor\n- **EditorProvider**: The editor state including active tab,\nmode, etc.\n- **ElementProvider**: The current selected element and its metadata\n- **ThemeEditorProvider**: The theme config for the canvas\n- **ScopeProvider**: The components and properties that the canvas\nhas access to\n- **CodeProvider**: The current JSX code, its transformed version,\nand other data derived from the JSX that the editor UI needs. This\nalso has the numerous updaters that transform the code with babel\nplugins.\")\n\n\n\n | \n\nJan 17, 2020\n\n |\n| \n\n[gatsby-node.js](https://github.com/blocks/blocks/blob/master/gatsby-node.js \"gatsby-node.js\")\n\n\n\n\n\n\n\n | \n\n[gatsby-node.js](https://github.com/blocks/blocks/blob/master/gatsby-node.js \"gatsby-node.js\")\n\n\n\n\n\n\n\n | \n\n[wip PR](https://github.com/blocks/blocks/commit/7fa65fcdc2fb210804ab67741ba041c03bfdd11f \"wip PR\")\n\n\n\n | \n\nDec 17, 2019\n\n |\n| \n\n[license](https://github.com/blocks/blocks/blob/master/license \"license\")\n\n\n\n\n\n\n\n | \n\n[license](https://github.com/blocks/blocks/blob/master/license \"license\")\n\n\n\n\n\n\n\n | \n\n[Add some basic OSS files that were missing](https://github.com/blocks/blocks/commit/fbb2d659ef9289dca84463437d9689776bd055fa \"Add some basic OSS files that were missing\nCloses #116\")\n\n\n\n | \n\nNov 29, 2019\n\n |\n| \n\n[now.json](https://github.com/blocks/blocks/blob/master/now.json \"now.json\")\n\n\n\n\n\n\n\n | \n\n[now.json](https://github.com/blocks/blocks/blob/master/now.json \"now.json\")\n\n\n\n\n\n\n\n | \n\n[Update url](https://github.com/blocks/blocks/commit/ec4c09d8412f3f4e8d922ca64126742ef382729a \"Update url\")\n\n\n\n | \n\nNov 25, 2019\n\n |\n| \n\n[package.json](https://github.com/blocks/blocks/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[package.json](https://github.com/blocks/blocks/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[Handle manypkg fix, move to own test rather than postinstall](https://github.com/blocks/blocks/commit/59d3abc40c6adc9970dd8e1a1082dae5d343eb30 \"Handle manypkg fix, move to own test rather than postinstall\")\n\n\n\n | \n\nJun 26, 2020\n\n |\n| \n\n[readme.md](https://github.com/blocks/blocks/blob/master/readme.md \"readme.md\")\n\n\n\n\n\n\n\n | \n\n[readme.md](https://github.com/blocks/blocks/blob/master/readme.md \"readme.md\")\n\n\n\n\n\n\n\n | \n\n[Update link to docs](https://github.com/blocks/blocks/commit/894fc75d7023ca3593d6e070b1dbd7a16d476a09 \"Update link to docs\n`Read the docs` link was taking us to the home page of blocks-ui.com. Changing it to take to the actual docs page.\")\n\n\n\n | \n\nFeb 7, 2020\n\n |\n| \n\n[renovate.json](https://github.com/blocks/blocks/blob/master/renovate.json \"renovate.json\")\n\n\n\n\n\n\n\n | \n\n[renovate.json](https://github.com/blocks/blocks/blob/master/renovate.json \"renovate.json\")\n\n\n\n\n\n\n\n | \n\n[Change renovate schedule](https://github.com/blocks/blocks/commit/8dc548a8cdceb62a0db0648e848bdfcfa91e85fa \"Change renovate schedule\")\n\n\n\n | \n\nDec 3, 2019\n\n |\n| \n\n[yarn.lock](https://github.com/blocks/blocks/blob/master/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[yarn.lock](https://github.com/blocks/blocks/blob/master/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[Bump deps](https://github.com/blocks/blocks/commit/ad7c6b982e7bd3f23506e13165fb90b5245ab203 \"Bump deps\")\n\n\n\n | \n\nJun 26, 2020\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/blocks/blocks?screenshot=true#)\n*   [Code of conduct](https://github.com/blocks/blocks?screenshot=true#)\n*   [MIT license](https://github.com/blocks/blocks?screenshot=true#)\n\n[![Image 20: blocks logo](https://user-images.githubusercontent.com/1424573/61592179-e0fda080-ab8c-11e9-9109-166cc7c86b43.png)](https://user-images.githubusercontent.com/1424573/61592179-e0fda080-ab8c-11e9-9109-166cc7c86b43.png)\n\nBlocks (alpha)\n==============\n\n[](https://github.com/blocks/blocks?screenshot=true#blocks-alpha)\n\nA JSX-based page builder for creating beautiful websites without writing code.\n\n[![Image 21: Blocks demo](https://user-images.githubusercontent.com/1424573/69644337-c13a2580-1021-11ea-8c76-379386372db1.gif)](https://user-images.githubusercontent.com/1424573/69644337-c13a2580-1021-11ea-8c76-379386372db1.gif) [![Image 22: Blocks demo](https://user-images.githubusercontent.com/1424573/69644337-c13a2580-1021-11ea-8c76-379386372db1.gif)](https://user-images.githubusercontent.com/1424573/69644337-c13a2580-1021-11ea-8c76-379386372db1.gif)[](https://user-images.githubusercontent.com/1424573/69644337-c13a2580-1021-11ea-8c76-379386372db1.gif)\n\n[Read the docs →](https://blocks-ui.com/docs)\n\n* * *\n\n> Blocks is in **very early alpha** so many features are missing and it's not yet fully functional.\n\nAbout\n-----\n\nA JSX-based page builder for creating beautiful websites without writing code\n\n[blocks-ui.com](https://blocks-ui.com/ \"https://blocks-ui.com\")\n\n### Topics\n\n[react](https://github.com/topics/react \"Topic: react\") [jsx](https://github.com/topics/jsx \"Topic: jsx\") [wysiwyg](https://github.com/topics/wysiwyg \"Topic: wysiwyg\") [mdx](https://github.com/topics/mdx \"Topic: mdx\") [visual-editor](https://github.com/topics/visual-editor \"Topic: visual-editor\") [nocode](https://github.com/topics/nocode \"Topic: nocode\") [lowcode](https://github.com/topics/lowcode \"Topic: lowcode\")\n\n### Resources\n\n[Readme](https://github.com/blocks/blocks?screenshot=true#readme-ov-file)\n\n### License\n\n[MIT license](https://github.com/blocks/blocks?screenshot=true#MIT-1-ov-file)\n\n### Code of conduct\n\n[Code of conduct](https://github.com/blocks/blocks?screenshot=true#coc-ov-file)\n\n[Activity](https://github.com/blocks/blocks/activity)\n\n[Custom properties](https://github.com/blocks/blocks/custom-properties)\n\n### Stars\n\n[**5k** stars](https://github.com/blocks/blocks/stargazers)\n\n### Watchers\n\n[**72** watching](https://github.com/blocks/blocks/watchers)\n\n### Forks\n\n[**323** forks](https://github.com/blocks/blocks/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fblocks%2Fblocks&report=blocks+%28user%29)\n\n[Releases](https://github.com/blocks/blocks/releases)\n-----------------------------------------------------\n\n[102 tags](https://github.com/blocks/blocks/tags)\n\n[Packages 0](https://github.com/orgs/blocks/packages?repo_name=blocks)\n----------------------------------------------------------------------\n\nNo packages published  \n\n[Contributors 28](https://github.com/blocks/blocks/graphs/contributors)\n-----------------------------------------------------------------------\n\n*   [![Image 23: @johno](https://avatars.githubusercontent.com/u/1424573?s=64&v=4)](https://github.com/johno)\n*   [![Image 24: @jordanoverbye](https://avatars.githubusercontent.com/u/6265154?s=64&v=4)](https://github.com/jordanoverbye)\n*   [![Image 25: @jxnblk](https://avatars.githubusercontent.com/u/3451712?s=64&v=4)](https://github.com/jxnblk)\n*   [![Image 26: @renovate-bot](https://avatars.githubusercontent.com/u/25180681?s=64&v=4)](https://github.com/renovate-bot)\n*   [![Image 27: @jletey](https://avatars.githubusercontent.com/u/30328854?s=64&v=4)](https://github.com/jletey)\n*   [![Image 28: @github-actions[bot]](https://avatars.githubusercontent.com/in/15368?s=64&v=4)](https://github.com/apps/github-actions)\n*   [![Image 29: @andrew-t-james](https://avatars.githubusercontent.com/u/13269277?s=64&v=4)](https://github.com/andrew-t-james)\n*   [![Image 30: @simonswiss](https://avatars.githubusercontent.com/u/485747?s=64&v=4)](https://github.com/simonswiss)\n*   [![Image 31: @coffee-cup](https://avatars.githubusercontent.com/u/3044853?s=64&v=4)](https://github.com/coffee-cup)\n*   [![Image 32: @souporserious](https://avatars.githubusercontent.com/u/2762082?s=64&v=4)](https://github.com/souporserious)\n*   [![Image 33: @colebemis](https://avatars.githubusercontent.com/u/4608155?s=64&v=4)](https://github.com/colebemis)\n*   [![Image 34: @mathieudutour](https://avatars.githubusercontent.com/u/3254314?s=64&v=4)](https://github.com/mathieudutour)\n*   [![Image 35: @cheng-kang](https://avatars.githubusercontent.com/u/8396515?s=64&v=4)](https://github.com/cheng-kang)\n*   [![Image 36: @Jarred-Sumner](https://avatars.githubusercontent.com/u/709451?s=64&v=4)](https://github.com/Jarred-Sumner)\n\n[\\+ 14 contributors](https://github.com/blocks/blocks/graphs/contributors)\n\nLanguages\n---------\n\n*   [JavaScript 100.0%](https://github.com/blocks/blocks/search?l=javascript)\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 6598
+  }
+}
+```

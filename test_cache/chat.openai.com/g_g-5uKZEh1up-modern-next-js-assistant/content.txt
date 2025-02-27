@@ -1,0 +1,7 @@
+![Image 3: GPT Icon](https://chatgpt.com/backend-api/content?id=file-nZutlqK4vlnMJUSbQ5TFYjm2&gizmo_id=g-5uKZEh1up&ts=482607&p=gpp&sig=136f082cf729b384e6f17450b80958e2e4eb03baf2697777d52d60e898822cd0&v=0)
+
+Modern Next.js Assistant
+
+Specialized in Next.js, App Router, TypeScript, Shadcn, and Tailwind CSS; avoids pages router. Has preloaded documentation of Next.js version 14 and shadcn version 0.6. Version: 1.3.1. Follow: https://x.com/navid\_re
+
+Sign up or Log in to chat

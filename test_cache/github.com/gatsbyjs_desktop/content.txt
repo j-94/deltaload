@@ -1,0 +1,987 @@
+GitHub - gatsbyjs/desktop
+===============
+                                           
+
+[Skip to content](https://github.com/gatsbyjs/desktop?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fgatsbyjs%2Fdesktop%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fgatsbyjs%2Fdesktop%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=gatsbyjs%2Fdesktop) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+This repository has been archived by the owner on Mar 21, 2022. It is now read-only.
+
+[gatsbyjs](https://github.com/gatsbyjs) / **[desktop](https://github.com/gatsbyjs/desktop)** Public archive
+
+*   [Notifications](https://github.com/login?return_to=%2Fgatsbyjs%2Fdesktop) You must be signed in to change notification settings
+*   [Fork 15](https://github.com/login?return_to=%2Fgatsbyjs%2Fdesktop)
+*   [Star 221](https://github.com/login?return_to=%2Fgatsbyjs%2Fdesktop)
+    
+
+### License
+
+[MIT license](https://github.com/gatsbyjs/desktop/blob/master/LICENSE)
+
+[221 stars](https://github.com/gatsbyjs/desktop/stargazers) [15 forks](https://github.com/gatsbyjs/desktop/forks) [Branches](https://github.com/gatsbyjs/desktop/branches) [Tags](https://github.com/gatsbyjs/desktop/tags) [Activity](https://github.com/gatsbyjs/desktop/activity)
+
+[Star](https://github.com/login?return_to=%2Fgatsbyjs%2Fdesktop)
+
+[Notifications](https://github.com/login?return_to=%2Fgatsbyjs%2Fdesktop) You must be signed in to change notification settings
+
+*   [Code](https://github.com/gatsbyjs/desktop)
+*   [Pull requests 0](https://github.com/gatsbyjs/desktop/pulls)
+*   [Actions](https://github.com/gatsbyjs/desktop/actions)
+*   [Security](https://github.com/gatsbyjs/desktop/security)
+*   [Insights](https://github.com/gatsbyjs/desktop/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/gatsbyjs/desktop)
+*   [Pull requests](https://github.com/gatsbyjs/desktop/pulls)
+*   [Actions](https://github.com/gatsbyjs/desktop/actions)
+*   [Security](https://github.com/gatsbyjs/desktop/security)
+*   [Insights](https://github.com/gatsbyjs/desktop/pulse)
+
+gatsbyjs/desktop
+================
+
+  
+
+ master
+
+[**8** Branches](https://github.com/gatsbyjs/desktop/branches)[**12** Tags](https://github.com/gatsbyjs/desktop/tags)
+
+[](https://github.com/gatsbyjs/desktop/branches)[](https://github.com/gatsbyjs/desktop/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 13: marvinjude](https://avatars.githubusercontent.com/u/17142206?v=4&size=40)](https://github.com/marvinjude)[marvinjude](https://github.com/gatsbyjs/desktop/commits?author=marvinjude)
+
+[chore (docs): add "no longer maintained warning" (](https://github.com/gatsbyjs/desktop/commit/230dbaa651915b409a177d69c25f67a6b07c7bba)[#51](https://github.com/gatsbyjs/desktop/pull/51)[)](https://github.com/gatsbyjs/desktop/commit/230dbaa651915b409a177d69c25f67a6b07c7bba)
+
+Mar 21, 2022
+
+[230dbaa](https://github.com/gatsbyjs/desktop/commit/230dbaa651915b409a177d69c25f67a6b07c7bba) · Mar 21, 2022
+
+History
+-------
+
+[183 Commits](https://github.com/gatsbyjs/desktop/commits/master/)
+
+[](https://github.com/gatsbyjs/desktop/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github/workflows](https://github.com/gatsbyjs/desktop/tree/master/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[.github/workflows](https://github.com/gatsbyjs/desktop/tree/master/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[Setup notarizing in gh action](https://github.com/gatsbyjs/desktop/commit/3dbc412e1acc12234c2c88e622e2519dc4102739 "Setup notarizing in gh action")
+
+
+
+ | 
+
+Sep 28, 2020
+
+ |
+| 
+
+[.vscode](https://github.com/gatsbyjs/desktop/tree/master/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[.vscode](https://github.com/gatsbyjs/desktop/tree/master/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[Fix code style issues with Prettier](https://github.com/gatsbyjs/desktop/commit/f784977f9ecf80f9b6954ecdb0dee6655538b33f "Fix code style issues with Prettier")
+
+
+
+ | 
+
+Sep 2, 2020
+
+ |
+| 
+
+[app](https://github.com/gatsbyjs/desktop/tree/master/app "app")
+
+
+
+
+
+
+
+ | 
+
+[app](https://github.com/gatsbyjs/desktop/tree/master/app "app")
+
+
+
+
+
+
+
+ | 
+
+[Upgrade electron, and enable require.resolve for finding site gatsby …](https://github.com/gatsbyjs/desktop/commit/c9246b1877eb3c65d15390f9a37ba9d281a591af "Upgrade electron, and enable require.resolve for finding site gatsby version")
+
+
+
+ | 
+
+Oct 21, 2020
+
+ |
+| 
+
+[assets](https://github.com/gatsbyjs/desktop/tree/master/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[assets](https://github.com/gatsbyjs/desktop/tree/master/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[Notarize](https://github.com/gatsbyjs/desktop/commit/0e742a93764713080043f634af62ba69fe55b102 "Notarize")
+
+
+
+ | 
+
+Sep 28, 2020
+
+ |
+| 
+
+[build](https://github.com/gatsbyjs/desktop/tree/master/build "build")
+
+
+
+
+
+
+
+ | 
+
+[build](https://github.com/gatsbyjs/desktop/tree/master/build "build")
+
+
+
+
+
+
+
+ | 
+
+[Setup notarizing in gh action](https://github.com/gatsbyjs/desktop/commit/3dbc412e1acc12234c2c88e622e2519dc4102739 "Setup notarizing in gh action")
+
+
+
+ | 
+
+Sep 28, 2020
+
+ |
+| 
+
+[src](https://github.com/gatsbyjs/desktop/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/gatsbyjs/desktop/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[feat: Check if site supports admin](https://github.com/gatsbyjs/desktop/commit/9e69bfd475f23af1706b6bee6146b29a15f600a5 "feat: Check if site supports admin")
+
+
+
+ | 
+
+Oct 12, 2020
+
+ |
+| 
+
+[static](https://github.com/gatsbyjs/desktop/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[static](https://github.com/gatsbyjs/desktop/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[Add icon](https://github.com/gatsbyjs/desktop/commit/f798b4320dadb7d2babac3893d025c08442951ac "Add icon")
+
+
+
+ | 
+
+Jul 31, 2020
+
+ |
+| 
+
+[.eslintignore](https://github.com/gatsbyjs/desktop/blob/master/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[.eslintignore](https://github.com/gatsbyjs/desktop/blob/master/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[Put worker in static dir to bypass webpack](https://github.com/gatsbyjs/desktop/commit/277c6b0e701e862da034d0ee9af3772588b21f6e "Put worker in static dir to bypass webpack")
+
+
+
+ | 
+
+Jul 30, 2020
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/gatsbyjs/desktop/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/gatsbyjs/desktop/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[Initial commit](https://github.com/gatsbyjs/desktop/commit/1b4120091c4462002163fe307dbf87d30d029168 "Initial commit")
+
+
+
+ | 
+
+Jul 29, 2020
+
+ |
+| 
+
+[.gitignore](https://github.com/gatsbyjs/desktop/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/gatsbyjs/desktop/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Add lint and format commands](https://github.com/gatsbyjs/desktop/commit/b403c8c5a0b2d087b8bfdb23d8288eecd1126462 "Add lint and format commands")
+
+
+
+ | 
+
+Sep 2, 2020
+
+ |
+| 
+
+[.prettierrc.js](https://github.com/gatsbyjs/desktop/blob/master/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc.js](https://github.com/gatsbyjs/desktop/blob/master/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[Initial commit](https://github.com/gatsbyjs/desktop/commit/1b4120091c4462002163fe307dbf87d30d029168 "Initial commit")
+
+
+
+ | 
+
+Jul 29, 2020
+
+ |
+| 
+
+[LICENSE](https://github.com/gatsbyjs/desktop/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/gatsbyjs/desktop/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Create LICENSE](https://github.com/gatsbyjs/desktop/commit/e69d931088934d0727b9683851f468d4304e7c2e "Create LICENSE")
+
+
+
+ | 
+
+Aug 8, 2020
+
+ |
+| 
+
+[README.md](https://github.com/gatsbyjs/desktop/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/gatsbyjs/desktop/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[chore (docs): add "no longer maintained warning" (](https://github.com/gatsbyjs/desktop/commit/230dbaa651915b409a177d69c25f67a6b07c7bba "chore (docs): add \"no longer maintained warning\" (#51)")[#51](https://github.com/gatsbyjs/desktop/pull/51)[)](https://github.com/gatsbyjs/desktop/commit/230dbaa651915b409a177d69c25f67a6b07c7bba "chore (docs): add \"no longer maintained warning\" (#51)")
+
+
+
+ | 
+
+Mar 21, 2022
+
+ |
+| 
+
+[gatsby-browser.js](https://github.com/gatsbyjs/desktop/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-browser.js](https://github.com/gatsbyjs/desktop/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[Initial theme stuff](https://github.com/gatsbyjs/desktop/commit/51356953a273cf4d9caaba9403cd9a7f9eaad85b "Initial theme stuff")
+
+
+
+ | 
+
+Jul 31, 2020
+
+ |
+| 
+
+[gatsby-node.js](https://github.com/gatsbyjs/desktop/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-node.js](https://github.com/gatsbyjs/desktop/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[EMotion bug workaround](https://github.com/gatsbyjs/desktop/commit/b9f97b2b0891375419f6a428941b2d056f7b182a "EMotion bug workaround")
+
+
+
+ | 
+
+Aug 4, 2020
+
+ |
+| 
+
+[gatsby-ssr.js](https://github.com/gatsbyjs/desktop/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-ssr.js](https://github.com/gatsbyjs/desktop/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[🤦](https://github.com/gatsbyjs/desktop/commit/7f6534b010f6618f078b068bc7492bdd493447a1 ":facepalm:")
+
+
+
+ | 
+
+Aug 4, 2020
+
+ |
+| 
+
+[package.json](https://github.com/gatsbyjs/desktop/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/gatsbyjs/desktop/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[v0.0.4](https://github.com/gatsbyjs/desktop/commit/65904bb5fb08636a19a8d041b893280011f1c522 "v0.0.4")
+
+
+
+ | 
+
+Oct 21, 2020
+
+ |
+| 
+
+[tsconfig.json](https://github.com/gatsbyjs/desktop/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/gatsbyjs/desktop/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[Initial commit](https://github.com/gatsbyjs/desktop/commit/1b4120091c4462002163fe307dbf87d30d029168 "Initial commit")
+
+
+
+ | 
+
+Jul 29, 2020
+
+ |
+| 
+
+[yarn.lock](https://github.com/gatsbyjs/desktop/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/gatsbyjs/desktop/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[Upgrade electron, and enable require.resolve for finding site gatsby …](https://github.com/gatsbyjs/desktop/commit/c9246b1877eb3c65d15390f9a37ba9d281a591af "Upgrade electron, and enable require.resolve for finding site gatsby version")
+
+
+
+ | 
+
+Oct 21, 2020
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/gatsbyjs/desktop?screenshot=true#)
+*   [MIT license](https://github.com/gatsbyjs/desktop?screenshot=true#)
+
+Gatsby Desktop
+==============
+
+[](https://github.com/gatsbyjs/desktop?screenshot=true#gatsby-desktop)
+
+A proof-of-concept desktop app for managing your Gatsby sites.
+
+*   [Installation](https://github.com/gatsbyjs/desktop?screenshot=true#installation)
+    *   [Installing built packages](https://github.com/gatsbyjs/desktop?screenshot=true#installing-built-packages)
+    *   [Installing from source](https://github.com/gatsbyjs/desktop?screenshot=true#installing-from-source)
+*   [Screenshots](https://github.com/gatsbyjs/desktop?screenshot=true#screenshots)
+*   [Architecture](https://github.com/gatsbyjs/desktop?screenshot=true#architecture)
+*   [Development](https://github.com/gatsbyjs/desktop?screenshot=true#development)
+    *   [Release process](https://github.com/gatsbyjs/desktop?screenshot=true#release-process)
+
+Installation
+------------
+
+[](https://github.com/gatsbyjs/desktop?screenshot=true#installation)
+
+⚠️ Warning: Gatsby Desktop is no longer being maintained
+
+### Installing built packages
+
+[](https://github.com/gatsbyjs/desktop?screenshot=true#installing-built-packages)
+
+1.  Click on [releases](https://github.com/gatsbyjs/desktop/releases/latest) and choose the installer for your platform.
+
+### Installing from source
+
+[](https://github.com/gatsbyjs/desktop?screenshot=true#installing-from-source)
+
+1.  Clone the repo
+2.  Run `yarn`
+3.  `yarn develop`
+
+Screenshots
+-----------
+
+[](https://github.com/gatsbyjs/desktop?screenshot=true#screenshots)
+
+[![Image 14: Gatsby Desktop](https://github.com/gatsbyjs/desktop/raw/master/assets/screenshot.png)](https://github.com/gatsbyjs/desktop/blob/master/assets/screenshot.png) [![Image 15: Gatsby Admin](https://github.com/gatsbyjs/desktop/raw/master/assets/screenshot2.png)](https://github.com/gatsbyjs/desktop/blob/master/assets/screenshot2.png) [![Image 16: Logs](https://github.com/gatsbyjs/desktop/raw/master/assets/screenshot3.png)](https://github.com/gatsbyjs/desktop/blob/master/assets/screenshot3.png)
+
+Architecture
+------------
+
+[](https://github.com/gatsbyjs/desktop?screenshot=true#architecture)
+
+Gatsby Desktop is an Electron app. All Electron apps have two primary processes:
+
+1.  "main", which is a Node.js script which handles windowing, menus and similar native bits. Think of it as the server. It opens `BrowserWindow`s which contain:
+2.  "renderer": this is the UI of the app, which is HTML + JS. In Gatsby Desktop, this is of course a local Gatsby site. Unlike a regular web app, Electron renderers can import and use built-in Node.js modules, such as `fs` and `child_process`.
+
+Gatsby Desktop can launch and run your local Gatsby sites. We spawn these in the main process, which maintains a list of running site. The renderer gets this list over IPC and stores it in React context. There are React hooks to make it easy to access the list of sites and whether or not they're running. The main process also auto-discovers any local Gatsby sites and watches these for changes.
+
+Development
+-----------
+
+[](https://github.com/gatsbyjs/desktop?screenshot=true#development)
+
+Gatsby Desktop is written in TypeScript. We use [microbundle](https://github.com/developit/microbundle) to compile and bundle the worker and main scripts. The renderer is a Gatsby site, which we run with `gatsby develop` during development, or SSR in production and serve from a local Express static server. `yarn develop` compiles and runs everything. It uses `gatsby develop`, so you have hot reloading, but bear in mind that this doesn't clean up the child processes properly, so if those are running you'll need to restart the process. It also watches and compiles the worker and main bundles.
+
+To debug the renderer, use Chrome devtools and listen to port 8315.
+
+Telemetry
+---------
+
+[](https://github.com/gatsbyjs/desktop?screenshot=true#telemetry)
+
+If you opt-in to telemetry, the app sends anonymous information about how use it. This is mainly checking which features you use and how much you use them. This helps us prioritize which features to develop, and to improve the app. This is particularly important as it is a proof-of-concept. This is entirely optional though, so if you don't opt-in we don't track anything except the fact that you have opted-out. All other events are not sent. This setting is separate from the telemetry setting for Gatsby itself. You can see more details on telemetry in Gatsby at [https://gatsby.dev/telemetry](https://gatsby.dev/telemetry)
+
+### Release process
+
+[](https://github.com/gatsbyjs/desktop?screenshot=true#release-process)
+
+Create a draft release in GitHub, with the tag as the new version number prefixed with `v`, e.g. `v0.0.1-alpha.2`. Update the version number in package.json to match, and commit. Push that to master and GitHub Actions should do a build and eventually attach the packaged files to the draft release. Once the build is complete, publish the draft release.
+
+About
+-----
+
+No description or website provided.
+
+### Topics
+
+[electron](https://github.com/topics/electron "Topic: electron") [gatsby](https://github.com/topics/gatsby "Topic: gatsby") [hacktoberfest](https://github.com/topics/hacktoberfest "Topic: hacktoberfest")
+
+### Resources
+
+[Readme](https://github.com/gatsbyjs/desktop?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/gatsbyjs/desktop?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/gatsbyjs/desktop/activity)
+
+[Custom properties](https://github.com/gatsbyjs/desktop/custom-properties)
+
+### Stars
+
+[**221** stars](https://github.com/gatsbyjs/desktop/stargazers)
+
+### Watchers
+
+[**28** watching](https://github.com/gatsbyjs/desktop/watchers)
+
+### Forks
+
+[**15** forks](https://github.com/gatsbyjs/desktop/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fgatsbyjs%2Fdesktop&report=gatsbyjs+%28user%29)
+
+[Releases 12](https://github.com/gatsbyjs/desktop/releases)
+-----------------------------------------------------------
+
+[v0.0.4 Latest Oct 21, 2020](https://github.com/gatsbyjs/desktop/releases/tag/v0.0.4)
+
+[\+ 11 releases](https://github.com/gatsbyjs/desktop/releases)
+
+[Packages 0](https://github.com/orgs/gatsbyjs/packages?repo_name=desktop)
+-------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 5](https://github.com/gatsbyjs/desktop/graphs/contributors)
+-------------------------------------------------------------------------
+
+*   [![Image 17: @ascorbic](https://avatars.githubusercontent.com/u/213306?s=64&v=4)](https://github.com/ascorbic)
+*   [![Image 18: @Elanhant](https://avatars.githubusercontent.com/u/4366711?s=64&v=4)](https://github.com/Elanhant)
+*   [![Image 19: @nicholascapo](https://avatars.githubusercontent.com/u/3730819?s=64&v=4)](https://github.com/nicholascapo)
+*   [![Image 20: @laurieontech](https://avatars.githubusercontent.com/u/15000607?s=64&v=4)](https://github.com/laurieontech)
+*   [![Image 21: @marvinjude](https://avatars.githubusercontent.com/u/17142206?s=64&v=4)](https://github.com/marvinjude)
+
+Languages
+---------
+
+*   [TypeScript 95.1%](https://github.com/gatsbyjs/desktop/search?l=typescript)
+*   [JavaScript 4.9%](https://github.com/gatsbyjs/desktop/search?l=javascript)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

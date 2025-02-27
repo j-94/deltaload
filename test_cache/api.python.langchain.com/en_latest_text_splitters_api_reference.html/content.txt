@@ -1,0 +1,220 @@
+This is a legacy site. Please use the latest v0.2 and v0.3 API references instead.
+
+LangChain
+Core
+Community
+Experimental
+Text splitters
+Partner libs
+Docs
+ 
+Toggle Menu
+langchain_text_splitters 0.2.4
+langchain_text_splitters.base
+langchain_text_splitters.character
+langchain_text_splitters.html
+langchain_text_splitters.json
+langchain_text_splitters.konlpy
+langchain_text_splitters.latex
+langchain_text_splitters.markdown
+langchain_text_splitters.nltk
+langchain_text_splitters.python
+langchain_text_splitters.sentence_transformers
+langchain_text_splitters.spacy
+langchain_text_splitters 0.2.4
+langchain_text_splitters.base
+Classes
+
+base.Language(value)
+
+	
+
+Enum of the programming languages.
+
+
+
+
+base.TextSplitter(chunk_size, chunk_overlap, ...)
+
+	
+
+Interface for splitting text into chunks.
+
+
+
+
+base.TokenTextSplitter([encoding_name, ...])
+
+	
+
+Splitting text to tokens using model tokenizer.
+
+
+
+
+base.Tokenizer(chunk_overlap, ...)
+
+	
+
+Tokenizer data class.
+
+Functions
+
+base.split_text_on_tokens(*, text, tokenizer)
+
+	
+
+Split incoming text and return chunks using tokenizer.
+
+langchain_text_splitters.character
+Classes
+
+character.CharacterTextSplitter([separator, ...])
+
+	
+
+Splitting text that looks at characters.
+
+
+
+
+character.RecursiveCharacterTextSplitter([...])
+
+	
+
+Splitting text by recursively look at characters.
+
+langchain_text_splitters.html
+Classes
+
+html.ElementType
+
+	
+
+Element type as typed dict.
+
+
+
+
+html.HTMLHeaderTextSplitter(headers_to_split_on)
+
+	
+
+Splitting HTML files based on specified headers.
+
+
+
+
+html.HTMLSectionSplitter(headers_to_split_on)
+
+	
+
+Splitting HTML files based on specified tag and font sizes.
+
+langchain_text_splitters.json
+Classes
+
+json.RecursiveJsonSplitter([max_chunk_size, ...])
+
+	
+
+langchain_text_splitters.konlpy
+Classes
+
+konlpy.KonlpyTextSplitter([separator])
+
+	
+
+Splitting text using Konlpy package.
+
+langchain_text_splitters.latex
+Classes
+
+latex.LatexTextSplitter(**kwargs)
+
+	
+
+Attempts to split the text along Latex-formatted layout elements.
+
+langchain_text_splitters.markdown
+Classes
+
+markdown.ExperimentalMarkdownSyntaxTextSplitter([...])
+
+	
+
+An experimental text splitter for handling Markdown syntax.
+
+
+
+
+markdown.HeaderType
+
+	
+
+Header type as typed dict.
+
+
+
+
+markdown.LineType
+
+	
+
+Line type as typed dict.
+
+
+
+
+markdown.MarkdownHeaderTextSplitter(...[, ...])
+
+	
+
+Splitting markdown files based on specified headers.
+
+
+
+
+markdown.MarkdownTextSplitter(**kwargs)
+
+	
+
+Attempts to split the text along Markdown-formatted headings.
+
+langchain_text_splitters.nltk
+Classes
+
+nltk.NLTKTextSplitter([separator, language])
+
+	
+
+Splitting text using NLTK package.
+
+langchain_text_splitters.python
+Classes
+
+python.PythonCodeTextSplitter(**kwargs)
+
+	
+
+Attempts to split the text along Python syntax.
+
+langchain_text_splitters.sentence_transformers
+Classes
+
+sentence_transformers.SentenceTransformersTokenTextSplitter([...])
+
+	
+
+Splitting text to tokens using sentence model tokenizer.
+
+langchain_text_splitters.spacy
+Classes
+
+spacy.SpacyTextSplitter([separator, ...])
+
+	
+
+Splitting text using Spacy package.
+
+© 2023, LangChain, Inc. . Last updated on Dec 09, 2024.

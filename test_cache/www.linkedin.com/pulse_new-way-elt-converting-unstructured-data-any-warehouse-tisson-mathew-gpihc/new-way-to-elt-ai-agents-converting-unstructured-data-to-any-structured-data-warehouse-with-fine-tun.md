@@ -1,0 +1,520 @@
+---
+title: New Way to ELT (AI Agents): Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs
+description: Data-driven enterprises are increasingly challenged with transforming unstructured data - often 80% of total data - into structured formats (e.g.
+url: https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/
+timestamp: 2025-01-20T16:15:24.878Z
+domain: www.linkedin.com
+path: pulse_new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc
+---
+
+# New Way to ELT (AI Agents): Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs
+
+
+Data-driven enterprises are increasingly challenged with transforming unstructured data - often 80% of total data - into structured formats (e.g.
+
+
+## Content
+
+New Way to ELT (AI Agents): Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs
+===============
+
+   
+
+Agree & Join LinkedIn
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy).
+
+   
+
+![Image 63](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+
+Sign in to view more content
+----------------------------
+
+Create your free account or sign in to continue your search
+
+Sign in
+
+Welcome back
+------------
+
+         
+
+Email or phone
+
+Password
+
+ Show
+
+[Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=pulse-article_contextual-sign-in-modal_sign-in-modal_forgot_password)  Sign in
+
+or
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=pulse-article_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=pulse-article_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=pulse-article_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy).
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=pulse-article_contextual-sign-in-modal_sign-in-modal_join-link)
+
+or
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=pulse-article_contextual-sign-in-modal_join-link)
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy).
+
+LinkedIn
+
+LinkedIn is better on the app
+
+Don’t have the app? Get it in the Microsoft Store.
+
+[Open the app](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell)
+
+        [Skip to main content](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/#main-content)
+
+[LinkedIn](https://www.linkedin.com/?trk=article-ssr-frontend-pulse_nav-header-logo)
+
+*   [Articles](https://www.linkedin.com/pulse/topics/home/?trk=article-ssr-frontend-pulse_guest_nav_menu_articles)
+*   [People](https://www.linkedin.com/pub/dir/+/+?trk=article-ssr-frontend-pulse_guest_nav_menu_people)
+*   [Learning](https://www.linkedin.com/learning/search?trk=article-ssr-frontend-pulse_guest_nav_menu_learning)
+*   [Jobs](https://www.linkedin.com/jobs/search?trk=article-ssr-frontend-pulse_guest_nav_menu_jobs)
+*   [Games](https://www.linkedin.com/games?trk=article-ssr-frontend-pulse_guest_nav_menu_games)
+*   [Get the app](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=article-ssr-frontend-pulse_guest_nav_menu_windows)
+
+[Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_nav-header-join) [Sign in](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&fromSignIn=true&trk=article-ssr-frontend-pulse_nav-header-signin) [![Image 64](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&fromSignIn=true&trk=article-ssr-frontend-pulse_nav-header-signin)
+
+   
+
+![Image 65: New Way to ELT (AI Agents): Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs](https://media.licdn.com/dms/image/v2/D5612AQGO9VdTU6HVDQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1725817232553?e=2147483647&v=beta&t=acBbetl7LecahDmyC197SZ9Aqckz5D7umw8vuPP4IXE)
+
+New Way to ELT: Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs
+
+New Way to ELT (AI Agents): Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs
+==========================================================================================================================
+
+*   [Report this article](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc&trk=article-ssr-frontend-pulse_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=PONCHO_ARTICLE&_f=guest-reporting)
+
+[Tisson Mathew](https://www.linkedin.com/in/tisson) ![Image 66: Tisson Mathew](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+
+### Tisson Mathew
+
+#### CEO @ Skypoint | AI Agents To Reduce Administrative Burden In Regulated Industries | Healthcare | Public Sector | Financial Services
+
+Published Sep 8, 2024
+
+[\+ Follow](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_publisher-author-card)
+
+Data-driven enterprises are increasingly challenged with transforming unstructured data - often 80% of total data - into structured formats (e.g., SQL tables) suitable for analytics, applications and AI interactions. Established tools like Power BI excel at delivering insights from structured data models, but unstructured data transformation requires innovative approaches to maximize value. This challenge is particularly critical for regulated industries such as healthcare, financial services, and the public sector.
+
+Fine-tuned Large Language Models (LLMs) like Llama 3.1, integrated with the Skypoint AI Platform (AIP) AI Agents, offer a powerful solution for this transformation.
+
+### The Unstructured Data Challenge
+
+Many businesses possess large amounts of unstructured data - PDFs, regulatory docs, competitor information, market data, customer feedback, clinical operational notes, and contracts - that are not easily accessed or analyzed accurately. Manual processes for extracting insights from these formats are time-consuming and prone to error. Skypoint’s AI Agents automates the Extract, Load, and Transform (ELT) process using fine-tuned LLMs specific to industries and use cases. For instance, Skypoint’s Model-as-a-Service provides customizable solutions for unique organizational needs. [Check it out here.](https://www.linkedin.com/pulse/introducing-llama-31-model-as-a-service-maas-skypoint-tisson-mathew-idcgc/?trk=article-ssr-frontend-pulse_little-text-block)
+
+### Skypoint AI Platform: Automating Unstructured Data Transformation
+
+Skypoint’s AI Agents handles large volumes of unstructured data and transforms them into structured formats for various regulated industries and use cases.
+
+![Image 67: Skypoint AI agents - Unstructured to structured](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+
+Skypoint AI agents - unstructured to structured and vector search
+
+*   Healthcare: Converts clinical, operational, and administrative records into structured data for quicker decision-making.
+*   Financial Services: Extracts critical information from contracts, reports, and regulatory documents for compliance and risk management.
+*   Public Sector: Mines citizen feedback and reviews to improve constituent engagement and optimize public services.
+
+The platform also provides:
+
+*   Industry-Specific Taxonomies: Custom taxonomies to align with industry standards, ensuring accurate data extraction.
+*   Ontologies: Tailored company-specific ontologies to guide data categorization and analysis.
+
+Recommended by LinkedIn
+-----------------------
+
+[![Image 68](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Simplify Data Analytics with Generative AI - A… Data Science Dojo 5 months ago](https://www.linkedin.com/pulse/simplify-data-analytics-generative-ai-detailed-overview-5ev9e)
+
+[![Image 69](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 5 Best AI Tools for Data Analysts Blockchain Council 9 months ago](https://www.linkedin.com/pulse/5-best-ai-tools-data-analysts-blockchaincouncil-1ovfc)
+
+[![Image 70](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Preparing data for AI: A guide for data engineers Forte Group 3 months ago](https://www.linkedin.com/pulse/preparing-data-ai-guide-engineers-fortegroup-k2ppf)
+
+### Skypoint AIP's Fine-Tuned Llama 3.1 as a Service + AI Agents: The Unstructured Data Transformation Engine
+
+The integration of Llama 3.1 into Skypoint’s AI Agents enables large-scale processing of unstructured text, audio files, and transcripts. Fine-tuned for industry-specific use cases, Llama 3.1 automates the extraction and categorization of relevant data, reducing manual work. By converting unstructured data into structured formats, companies unlock insights that can be fed into warehouses and databases such as Databricks, Snowflake, Microsoft Fabric, DataStax and others for further analysis using tools like Power BI and Tableau.
+
+### Seamless Integration with Data Warehouses
+
+Once transformed, the structured data can be directly populated into data warehouses and lakehouses, such as Databricks and Snowflake, enabling real-time analytics, AI model training, and business intelligence. Skypoint’s AI Agents ensures that structured data is immediately ready for analysis with industry-leading platforms like Power BI and Tableau. This enables businesses to derive actionable insights from both structured and previously inaccessible unstructured data.
+
+### Real-World Applications of Skypoint AI Agents
+
+1.  Healthcare: Extracts data from Medicare health plan records to improve plan selection and agent productivity.
+2.  Financial Services: Automates the transformation of banking and credit union data to ensure compliance, mitigate risk, and boost employee productivity. It also aids in competitive intelligence, such as tracking competitor rates and offers.
+3.  Market Intelligence: Skypoint’s senior living market intelligence uses the AI Agents to build and scale internal capabilities. Learn more about this use case [here](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fskypoint%2Eai%2Fuse-cases%2Fsenior-living-market-intelligence%2F&urlhash=zR1_&trk=article-ssr-frontend-pulse_little-text-block).
+
+### Conclusion
+
+Skypoint’s AI Agents and Model-as-a-Service (MaaS) now allow organizations to access, analyze, and monetize 100% of their data, not just the 20% that is already structured. By automating the transformation of unstructured data into structured formats, companies drastically reduce the time spent on data preparation and increase the accuracy and speed of analytics.
+
+With seamless integration into platforms like Databricks, DataStax and Snowflake, the structured data can be leveraged in real-time to drive strategic decision-making. Whether you're in healthcare, finance, or the public sector, Skypoint’s AI Agents empowers you to transform unstructured data into actionable insights, ensuring that no data remains untapped. In an increasingly data-driven world, mastering unstructured data transformation is essential for competitive success.
+
+Please feel free to [reach out](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fskypoint%2Eai%2Fdemo%2F&urlhash=nVy3&trk=article-ssr-frontend-pulse_little-text-block) to our team at [Skypoint](https://www.linkedin.com/company/skypoint-ai/?trk=article-ssr-frontend-pulse_little-text-block) for a demo.
+
+    
+
+[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_like-toggle_like-cta)
+
+ ![Image 71: Like](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Like
+
+![Image 72: Celebrate](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Celebrate
+
+![Image 73: Support](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Support
+
+![Image 74: Love](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Love
+
+![Image 75: Insightful](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Insightful
+
+![Image 76: Funny](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Funny
+
+[Comment](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_comment-cta)
+
+ 
+
+*   Copy
+*   LinkedIn
+*   Facebook
+*   Twitter
+
+Share
+
+ 
+
+   [![Image 77](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 78](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 79](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 51](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_likes-count_social-actions-reactions)           [2 Comments](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_likes-count_social-actions-comments)
+
+[![Image 80: Salman Faizi](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)](https://in.linkedin.com/in/salman-faizi?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-image)
+
+[Salman Faizi](https://in.linkedin.com/in/salman-faizi?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-name)Transforming Data into Intelligent Solutions || Machine Learning Intern @Think Again Lab || ex-ML Intern at IIIT Guwahati || ex-AI intern at MathWork || ML || Deep Learning || GenAI || Data Science ||
+
+3mo
+
+*   [Report this comment](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+Sounds amazing sir.
+
+[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_like)[Reply](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reply)[1 Reaction](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reactions) 2 Reactions
+
+[![Image 81: Dianne Faligowski](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)](https://www.linkedin.com/in/missfire777?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-image)
+
+[Dianne Faligowski](https://www.linkedin.com/in/missfire777?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-name)4X Founder| CEO @Health Plans in Oregon | Managing Partner @Integrity | Entrepreneur | Investor | Mentor| Business Coach | Speaker | Sales & Marketing Trainer |Focus on : Faith, Love, Purpose, Growth, Positive Impact.
+
+4mo
+
+*   [Report this comment](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+Excellent work!🔥
+
+[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_like)[Reply](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reply)[1 Reaction](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reactions) 2 Reactions
+
+[See more comments](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments_comment-see-more)
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_feed-cta-banner-cta)
+
+More articles by Tisson Mathew
+------------------------------
+
+*   [From Microservices to Multi-Agent AI Systems: A Cautionary Tale](https://www.linkedin.com/pulse/from-microservices-multi-agent-ai-systems-cautionary-tale-mathew-5l9gc)
+    
+    ![Image 82](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+    
+    Jan 19, 2025
+    
+    ### From Microservices to Multi-Agent AI Systems: A Cautionary Tale
+    
+    In the past decade, the rise and eventual overuse of microservices taught us an important lesson about technological…
+    
+     
+    
+    ![Image 83](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 14
+    
+            
+    
+*   [Is RAG Overhyped? The Surprising Edge of AI-Enabled Reporting for Business Decisions](https://www.linkedin.com/pulse/rag-overhyped-surprising-edge-ai-enabled-reporting-business-mathew-izuqc)
+    
+    ![Image 84](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+    
+    Dec 16, 2024
+    
+    ### Is RAG Overhyped? The Surprising Edge of AI-Enabled Reporting for Business Decisions
+    
+    Predictions abound about the future of Retrieval-Augmented Generation (RAG), and for good reason. RAG—where large…
+    
+     
+    
+    ![Image 85](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 27
+    
+            
+    
+    2 Comments
+    
+*   [Elevate Data Quality with Entity Resolution, Zero-Copy Sharing, and Master Data Management for Regulated Industries](https://www.linkedin.com/pulse/elevate-data-quality-entity-resolution-zero-copy-sharing-mathew-3iwcc)
+    
+    ![Image 86](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+    
+    Dec 13, 2024
+    
+    ### Elevate Data Quality with Entity Resolution, Zero-Copy Sharing, and Master Data Management for Regulated Industries
+    
+    Skypoint Customer Data Platform (CDP) capability ushers in a new era of data unification and activation—merging…
+    
+     
+    
+    ![Image 87](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 88](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 30
+    
+            
+    
+*   [3 Reasons Why You Need an "AI Database" Architecture to Deploy AI Agents That Reduce Healthcare Administrative Burden](https://www.linkedin.com/pulse/3-reasons-why-you-need-ai-database-architecture-deploy-tisson-mathew-uondc)
+    
+    ![Image 89](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+    
+    Nov 24, 2024
+    
+    ### 3 Reasons Why You Need an "AI Database" Architecture to Deploy AI Agents That Reduce Healthcare Administrative Burden
+    
+    Healthcare organizations, including health systems, provider groups, and payers, face mounting pressure to manage…
+    
+     
+    
+    ![Image 90](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 91](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 92](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 32
+    
+            
+    
+    1 Comment
+    
+*   [Data and AI in Healthcare: Why Open Architecture Solutions Beat Closed-Source DIY Tools for Operational Efficiency](https://www.linkedin.com/pulse/data-ai-healthcare-why-open-architecture-solutions-beat-tisson-mathew-hejmc)
+    
+    ![Image 93](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+    
+    Nov 14, 2024
+    
+    ### Data and AI in Healthcare: Why Open Architecture Solutions Beat Closed-Source DIY Tools for Operational Efficiency
+    
+    As healthcare organizations increasingly leverage data, analytics, and AI to enhance patient outcomes and reduce…
+    
+     
+    
+    ![Image 94](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 95](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 25
+    
+            
+    
+*   [Three Reasons Why Skypoint Tailored the “Palantir Model” for Enterprise AI in Production](https://www.linkedin.com/pulse/three-reasons-why-skypoint-tailored-palantir-model-ai-tisson-mathew-vlv0c)
+    
+    ![Image 96](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+    
+    Nov 10, 2024
+    
+    ### Three Reasons Why Skypoint Tailored the “Palantir Model” for Enterprise AI in Production
+    
+    In the world of enterprise AI applications struggling to get to production and the rise of compound AI systems there’s…
+    
+     
+    
+    ![Image 97](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 98](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 99](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 44
+    
+            
+    
+    3 Comments
+    
+*   [Revolutionize Healthcare Compliance with "AI Employees": Lighten the Load for Providers and Staff](https://www.linkedin.com/pulse/revolutionize-healthcare-compliance-ai-employees-lighten-mathew-kffge)
+    
+    ![Image 100](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+    
+    Nov 2, 2024
+    
+    ### Revolutionize Healthcare Compliance with "AI Employees": Lighten the Load for Providers and Staff
+    
+    Let's face it: the healthcare industry is grappling with overwhelming administrative workloads, soaring costs, and…
+    
+     
+    
+    ![Image 101](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 102](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 103](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 42
+    
+            
+    
+    1 Comment
+    
+*   [Three Common Mistakes Enterprise AI Leaders Make and How to Avoid Them](https://www.linkedin.com/pulse/three-common-mistakes-enterprise-ai-leaders-make-how-avoid-mathew-esfec)
+    
+    ![Image 104](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+    
+    Oct 27, 2024
+    
+    ### Three Common Mistakes Enterprise AI Leaders Make and How to Avoid Them
+    
+    In the rapidly evolving landscape of AI, enterprises are racing to integrate AI solutions into their operations. Over…
+    
+     
+    
+    ![Image 105](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 106](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 107](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 62
+    
+            
+    
+    2 Comments
+    
+*   [Unstructured to Structured Data: Domain-Specific AI-Agents Driven Systems of Intelligence](https://www.linkedin.com/pulse/unstructured-structured-data-domain-specific-ai-agents-tisson-mathew-u05gc)
+    
+    ![Image 108](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+    
+    Oct 18, 2024
+    
+    ### Unstructured to Structured Data: Domain-Specific AI-Agents Driven Systems of Intelligence
+    
+    Introduction In enterprise software, it's long been believed that building a lasting competitive advantage—or…
+    
+     
+    
+    ![Image 109](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 110](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 111](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 29
+    
+            
+    
+    1 Comment
+    
+*   [Vertical AI Agents and Human Collaboration - Production Case Study In Healthcare](https://www.linkedin.com/pulse/vertical-ai-agents-human-collaboration-production-case-mathew-zwakc)
+    
+    ![Image 112](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)
+    
+    Oct 5, 2024
+    
+    ### Vertical AI Agents and Human Collaboration - Production Case Study In Healthcare
+    
+    With the growing accessibility of building AI applications on large language models (LLMs), one thing has become…
+    
+     
+    
+    ![Image 113](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 114](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 44
+    
+            
+    
+    4 Comments
+    
+
+Show more
+
+[See all articles](https://www.linkedin.com/in/tisson/recent-activity/articles/)
+
+Sign in
+-------
+
+Stay updated on your professional world
+
+[Sign in](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_xandr-ad-fallback_signin)
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=article-ssr-frontend-pulse_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=article-ssr-frontend-pulse_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=article-ssr-frontend-pulse_auth-button_cookie-policy).
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_xandr-ad-fallback_join-link)
+
+Insights from the community
+---------------------------
+
+*   [Data Analytics You're facing doubts from stakeholders about unstructured data in analytics. How can you prove its value?](https://www.linkedin.com/advice/0/youre-facing-doubts-from-stakeholders-unstructured-yajye)
+*   [Data Analytics Struggling to analyze unstructured data in your analytics workflow?](https://www.linkedin.com/advice/1/struggling-analyze-unstructured-data-your-analytics-zqwxc)
+*   [Data Science You’re working with unstructured data in Data Science. How can you manage deadlines and deliver results?](https://www.linkedin.com/advice/0/youre-working-unstructured-data-science-how-can-you-ijxsc)
+*   [Business Intelligence You're drowning in unstructured data. How can you harness advanced BI tools to make sense of it all?](https://www.linkedin.com/advice/1/youre-drowning-unstructured-data-how-can-nl2zf)
+*   [Statistics What methods can you use to ensure high quality unstructured data?](https://www.linkedin.com/advice/0/what-methods-can-you-use-ensure-high-quality-unstructured-gdohc)
+*   [Data Warehousing What are the most common sources of unstructured data in data warehousing?](https://www.linkedin.com/advice/3/what-most-common-sources-unstructured-data-warehousing-xcnve)
+*   [Data Analytics Which big data analytics platforms offer the best machine learning capabilities?](https://www.linkedin.com/advice/0/which-big-data-analytics-platforms-offer-best-machine-pbyye)
+*   [Data Science You’re trying to build a machine learning project. What are the best data science platforms to use?](https://www.linkedin.com/advice/0/youre-trying-build-machine-learning-project-what-best-gr1kc)
+*   [Internet Services What distinguishes a knowledge graph from a database?](https://www.linkedin.com/advice/0/what-distinguishes-knowledge-graph-from-database-ljbxf)
+*   [Artificial Intelligence How can you measure the performance of big data frameworks in AI projects?](https://www.linkedin.com/advice/3/how-can-you-measure-performance-big-data-h0zic)
+
+Show more Show less
+
+Others also viewed
+------------------
+
+*   [![Image 115](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Reference Architecture for RAG applications Sanjay Kumar MBA,MS,PhD 2mo](https://www.linkedin.com/pulse/reference-architecture-rag-applications-sanjay-kumar-mba-ms-phd-tyuhc)
+*   [![Image 116](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### ML Systems for Business: A Step-by-Step Guide Ivan Reznikov 1y](https://www.linkedin.com/pulse/ml-systems-business-step-by-step-guide-ivan-reznikov)
+*   [![Image 117](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Using Databases and Data Warehouses as Vector Databases for AI Agents Hastika C. 5mo](https://www.linkedin.com/pulse/using-databases-data-warehouses-vector-ai-agents-hastika-cheddy-rj6if)
+*   [![Image 118](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Deconstructing Unstructured Data: Strategies for Analysis and Insights TeamLease Digital 9mo](https://www.linkedin.com/pulse/deconstructing-unstructured-data-strategies-analysis-fxioc)
+*   [![Image 119](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### The Impact of Machine Learning on Data Pipelines: Challenges and Opportunities Edvenswa Enterprises 6mo](https://www.linkedin.com/pulse/impact-machine-learning-data-pipelines-challenges-opportunities-s0slc)
+*   [![Image 120](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### MLOps for Data Scientists Patrick Nicolas 12mo](https://www.linkedin.com/pulse/mlops-data-scientists-patrick-nicolas-zhc9c)
+*   [![Image 121](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Switch to Intelligent Document Processing Now! Astera 7mo](https://www.linkedin.com/pulse/switch-intelligent-document-processing-now-astera-software-x9isc)
+*   [![Image 122](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Do you still need RAG (Retrieval Augmentation Generation) now that we have Microsoft Copilot Pro? Michael John Peña 1y](https://www.linkedin.com/pulse/do-you-still-need-rag-retrieval-augmentation-generation-pe%C3%B1a-pku5c)
+*   [![Image 123](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### AI and data analytics creating interactive data David N. 6mo](https://www.linkedin.com/pulse/ai-data-analytics-creating-interactive-david-nishimoto-vcvgc)
+*   [![Image 124](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Top 7 Vector Databases for AI Sajiya Mirza 1y](https://www.linkedin.com/pulse/top-7-vector-databases-ai-sajiya-mirza)
+
+Show more Show less
+
+Explore topics
+--------------
+
+*   [Sales](https://www.linkedin.com/pulse/topics/sales-s5/)
+*   [Marketing](https://www.linkedin.com/pulse/topics/marketing-s2461/)
+*   [IT Services](https://www.linkedin.com/pulse/topics/it-services-s57547/)
+*   [Business Administration](https://www.linkedin.com/pulse/topics/business-administration-s50111/)
+*   [HR Management](https://www.linkedin.com/pulse/topics/hr-management-s50359/)
+*   [Engineering](https://www.linkedin.com/pulse/topics/engineering-s166/)
+*   [Soft Skills](https://www.linkedin.com/pulse/topics/soft-skills-s2976/)
+*   [See All](https://www.linkedin.com/pulse/topics/home/)
+
+*   LinkedIn © 2025
+*   [About](https://about.linkedin.com/?trk=d_flagship2_pulse_read_footer-about)
+*   [Accessibility](https://www.linkedin.com/accessibility?trk=d_flagship2_pulse_read_footer-accessibility)
+*   [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=d_flagship2_pulse_read_footer-user-agreement)
+*   [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=d_flagship2_pulse_read_footer-privacy-policy)
+*   [Your California Privacy Choices](https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_flagship2_pulse_read_footer-california-privacy-rights-act)
+*   [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=d_flagship2_pulse_read_footer-cookie-policy)
+*   [Copyright Policy](https://www.linkedin.com/legal/copyright-policy?trk=d_flagship2_pulse_read_footer-copyright-policy)
+*   [Brand Policy](https://brand.linkedin.com/policies?trk=d_flagship2_pulse_read_footer-brand-policy)
+*   [Guest Controls](https://www.linkedin.com/psettings/guest-controls?trk=d_flagship2_pulse_read_footer-guest-controls)
+*   [Community Guidelines](https://www.linkedin.com/legal/professional-community-policies?trk=d_flagship2_pulse_read_footer-community-guide)
+*   *   العربية (Arabic)
+    *   বাংলা (Bangla)
+    *   Čeština (Czech)
+    *   Dansk (Danish)
+    *   Deutsch (German)
+    *   Ελληνικά (Greek)
+    *   **English (English)**
+    *   Español (Spanish)
+    *   فارسی (Persian)
+    *   Suomi (Finnish)
+    *   Français (French)
+    *   हिंदी (Hindi)
+    *   Magyar (Hungarian)
+    *   Bahasa Indonesia (Indonesian)
+    *   Italiano (Italian)
+    *   עברית (Hebrew)
+    *   日本語 (Japanese)
+    *   한국어 (Korean)
+    *   मराठी (Marathi)
+    *   Bahasa Malaysia (Malay)
+    *   Nederlands (Dutch)
+    *   Norsk (Norwegian)
+    *   ਪੰਜਾਬੀ (Punjabi)
+    *   Polski (Polish)
+    *   Português (Portuguese)
+    *   Română (Romanian)
+    *   Русский (Russian)
+    *   Svenska (Swedish)
+    *   తెలుగు (Telugu)
+    *   ภาษาไทย (Thai)
+    *   Tagalog (Tagalog)
+    *   Türkçe (Turkish)
+    *   Українська (Ukrainian)
+    *   Tiếng Việt (Vietnamese)
+    *   简体中文 (Chinese (Simplified))
+    *   正體中文 (Chinese (Traditional))
+    
+    Language
+
+## Metadata
+
+```json
+{
+  "title": "New Way to ELT (AI Agents): Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs",
+  "description": "Data-driven enterprises are increasingly challenged with transforming unstructured data - often 80% of total data - into structured formats (e.g.",
+  "url": "https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/",
+  "content": "New Way to ELT (AI Agents): Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs\n===============\n\n   \n\nAgree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy).\n\n   \n\n![Image 63](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n\nSign in to view more content\n----------------------------\n\nCreate your free account or sign in to continue your search\n\nSign in\n\nWelcome back\n------------\n\n         \n\nEmail or phone\n\nPassword\n\n Show\n\n[Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=pulse-article_contextual-sign-in-modal_sign-in-modal_forgot_password)  Sign in\n\nor\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=pulse-article_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=pulse-article_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=pulse-article_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy).\n\nNew to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=pulse-article_contextual-sign-in-modal_sign-in-modal_join-link)\n\nor\n\nNew to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=pulse-article_contextual-sign-in-modal_join-link)\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy).\n\nLinkedIn\n\nLinkedIn is better on the app\n\nDon’t have the app? Get it in the Microsoft Store.\n\n[Open the app](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell)\n\n        [Skip to main content](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/#main-content)\n\n[LinkedIn](https://www.linkedin.com/?trk=article-ssr-frontend-pulse_nav-header-logo)\n\n*   [Articles](https://www.linkedin.com/pulse/topics/home/?trk=article-ssr-frontend-pulse_guest_nav_menu_articles)\n*   [People](https://www.linkedin.com/pub/dir/+/+?trk=article-ssr-frontend-pulse_guest_nav_menu_people)\n*   [Learning](https://www.linkedin.com/learning/search?trk=article-ssr-frontend-pulse_guest_nav_menu_learning)\n*   [Jobs](https://www.linkedin.com/jobs/search?trk=article-ssr-frontend-pulse_guest_nav_menu_jobs)\n*   [Games](https://www.linkedin.com/games?trk=article-ssr-frontend-pulse_guest_nav_menu_games)\n*   [Get the app](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=article-ssr-frontend-pulse_guest_nav_menu_windows)\n\n[Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_nav-header-join) [Sign in](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&fromSignIn=true&trk=article-ssr-frontend-pulse_nav-header-signin) [![Image 64](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&fromSignIn=true&trk=article-ssr-frontend-pulse_nav-header-signin)\n\n   \n\n![Image 65: New Way to ELT (AI Agents): Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs](https://media.licdn.com/dms/image/v2/D5612AQGO9VdTU6HVDQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1725817232553?e=2147483647&v=beta&t=acBbetl7LecahDmyC197SZ9Aqckz5D7umw8vuPP4IXE)\n\nNew Way to ELT: Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs\n\nNew Way to ELT (AI Agents): Converting Unstructured Data to Any Structured Data Warehouse with Fine-Tuned Open Source LLMs\n==========================================================================================================================\n\n*   [Report this article](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc&trk=article-ssr-frontend-pulse_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=PONCHO_ARTICLE&_f=guest-reporting)\n\n[Tisson Mathew](https://www.linkedin.com/in/tisson) ![Image 66: Tisson Mathew](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n\n### Tisson Mathew\n\n#### CEO @ Skypoint | AI Agents To Reduce Administrative Burden In Regulated Industries | Healthcare | Public Sector | Financial Services\n\nPublished Sep 8, 2024\n\n[\\+ Follow](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_publisher-author-card)\n\nData-driven enterprises are increasingly challenged with transforming unstructured data - often 80% of total data - into structured formats (e.g., SQL tables) suitable for analytics, applications and AI interactions. Established tools like Power BI excel at delivering insights from structured data models, but unstructured data transformation requires innovative approaches to maximize value. This challenge is particularly critical for regulated industries such as healthcare, financial services, and the public sector.\n\nFine-tuned Large Language Models (LLMs) like Llama 3.1, integrated with the Skypoint AI Platform (AIP) AI Agents, offer a powerful solution for this transformation.\n\n### The Unstructured Data Challenge\n\nMany businesses possess large amounts of unstructured data - PDFs, regulatory docs, competitor information, market data, customer feedback, clinical operational notes, and contracts - that are not easily accessed or analyzed accurately. Manual processes for extracting insights from these formats are time-consuming and prone to error. Skypoint’s AI Agents automates the Extract, Load, and Transform (ELT) process using fine-tuned LLMs specific to industries and use cases. For instance, Skypoint’s Model-as-a-Service provides customizable solutions for unique organizational needs. [Check it out here.](https://www.linkedin.com/pulse/introducing-llama-31-model-as-a-service-maas-skypoint-tisson-mathew-idcgc/?trk=article-ssr-frontend-pulse_little-text-block)\n\n### Skypoint AI Platform: Automating Unstructured Data Transformation\n\nSkypoint’s AI Agents handles large volumes of unstructured data and transforms them into structured formats for various regulated industries and use cases.\n\n![Image 67: Skypoint AI agents - Unstructured to structured](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n\nSkypoint AI agents - unstructured to structured and vector search\n\n*   Healthcare: Converts clinical, operational, and administrative records into structured data for quicker decision-making.\n*   Financial Services: Extracts critical information from contracts, reports, and regulatory documents for compliance and risk management.\n*   Public Sector: Mines citizen feedback and reviews to improve constituent engagement and optimize public services.\n\nThe platform also provides:\n\n*   Industry-Specific Taxonomies: Custom taxonomies to align with industry standards, ensuring accurate data extraction.\n*   Ontologies: Tailored company-specific ontologies to guide data categorization and analysis.\n\nRecommended by LinkedIn\n-----------------------\n\n[![Image 68](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Simplify Data Analytics with Generative AI - A… Data Science Dojo 5 months ago](https://www.linkedin.com/pulse/simplify-data-analytics-generative-ai-detailed-overview-5ev9e)\n\n[![Image 69](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 5 Best AI Tools for Data Analysts Blockchain Council 9 months ago](https://www.linkedin.com/pulse/5-best-ai-tools-data-analysts-blockchaincouncil-1ovfc)\n\n[![Image 70](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Preparing data for AI: A guide for data engineers Forte Group 3 months ago](https://www.linkedin.com/pulse/preparing-data-ai-guide-engineers-fortegroup-k2ppf)\n\n### Skypoint AIP's Fine-Tuned Llama 3.1 as a Service + AI Agents: The Unstructured Data Transformation Engine\n\nThe integration of Llama 3.1 into Skypoint’s AI Agents enables large-scale processing of unstructured text, audio files, and transcripts. Fine-tuned for industry-specific use cases, Llama 3.1 automates the extraction and categorization of relevant data, reducing manual work. By converting unstructured data into structured formats, companies unlock insights that can be fed into warehouses and databases such as Databricks, Snowflake, Microsoft Fabric, DataStax and others for further analysis using tools like Power BI and Tableau.\n\n### Seamless Integration with Data Warehouses\n\nOnce transformed, the structured data can be directly populated into data warehouses and lakehouses, such as Databricks and Snowflake, enabling real-time analytics, AI model training, and business intelligence. Skypoint’s AI Agents ensures that structured data is immediately ready for analysis with industry-leading platforms like Power BI and Tableau. This enables businesses to derive actionable insights from both structured and previously inaccessible unstructured data.\n\n### Real-World Applications of Skypoint AI Agents\n\n1.  Healthcare: Extracts data from Medicare health plan records to improve plan selection and agent productivity.\n2.  Financial Services: Automates the transformation of banking and credit union data to ensure compliance, mitigate risk, and boost employee productivity. It also aids in competitive intelligence, such as tracking competitor rates and offers.\n3.  Market Intelligence: Skypoint’s senior living market intelligence uses the AI Agents to build and scale internal capabilities. Learn more about this use case [here](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fskypoint%2Eai%2Fuse-cases%2Fsenior-living-market-intelligence%2F&urlhash=zR1_&trk=article-ssr-frontend-pulse_little-text-block).\n\n### Conclusion\n\nSkypoint’s AI Agents and Model-as-a-Service (MaaS) now allow organizations to access, analyze, and monetize 100% of their data, not just the 20% that is already structured. By automating the transformation of unstructured data into structured formats, companies drastically reduce the time spent on data preparation and increase the accuracy and speed of analytics.\n\nWith seamless integration into platforms like Databricks, DataStax and Snowflake, the structured data can be leveraged in real-time to drive strategic decision-making. Whether you're in healthcare, finance, or the public sector, Skypoint’s AI Agents empowers you to transform unstructured data into actionable insights, ensuring that no data remains untapped. In an increasingly data-driven world, mastering unstructured data transformation is essential for competitive success.\n\nPlease feel free to [reach out](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fskypoint%2Eai%2Fdemo%2F&urlhash=nVy3&trk=article-ssr-frontend-pulse_little-text-block) to our team at [Skypoint](https://www.linkedin.com/company/skypoint-ai/?trk=article-ssr-frontend-pulse_little-text-block) for a demo.\n\n    \n\n[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_like-toggle_like-cta)\n\n ![Image 71: Like](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Like\n\n![Image 72: Celebrate](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Celebrate\n\n![Image 73: Support](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Support\n\n![Image 74: Love](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Love\n\n![Image 75: Insightful](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Insightful\n\n![Image 76: Funny](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) Funny\n\n[Comment](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_comment-cta)\n\n \n\n*   Copy\n*   LinkedIn\n*   Facebook\n*   Twitter\n\nShare\n\n \n\n   [![Image 77](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 78](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 79](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 51](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_likes-count_social-actions-reactions)           [2 Comments](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_likes-count_social-actions-comments)\n\n[![Image 80: Salman Faizi](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)](https://in.linkedin.com/in/salman-faizi?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-image)\n\n[Salman Faizi](https://in.linkedin.com/in/salman-faizi?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-name)Transforming Data into Intelligent Solutions || Machine Learning Intern @Think Again Lab || ex-ML Intern at IIIT Guwahati || ex-AI intern at MathWork || ML || Deep Learning || GenAI || Data Science ||\n\n3mo\n\n*   [Report this comment](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)\n\nSounds amazing sir.\n\n[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_like)[Reply](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reply)[1 Reaction](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reactions) 2 Reactions\n\n[![Image 81: Dianne Faligowski](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)](https://www.linkedin.com/in/missfire777?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-image)\n\n[Dianne Faligowski](https://www.linkedin.com/in/missfire777?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_actor-name)4X Founder| CEO @Health Plans in Oregon | Managing Partner @Integrity | Entrepreneur | Investor | Mentor| Business Coach | Speaker | Sales & Marketing Trainer |Focus on : Faith, Love, Purpose, Growth, Positive Impact.\n\n4mo\n\n*   [Report this comment](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)\n\nExcellent work!🔥\n\n[Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_like)[Reply](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reply)[1 Reaction](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment_reactions) 2 Reactions\n\n[See more comments](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_comments_comment-see-more)\n\nTo view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_x-social-details_feed-cta-banner-cta)\n\nMore articles by Tisson Mathew\n------------------------------\n\n*   [From Microservices to Multi-Agent AI Systems: A Cautionary Tale](https://www.linkedin.com/pulse/from-microservices-multi-agent-ai-systems-cautionary-tale-mathew-5l9gc)\n    \n    ![Image 82](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n    \n    Jan 19, 2025\n    \n    ### From Microservices to Multi-Agent AI Systems: A Cautionary Tale\n    \n    In the past decade, the rise and eventual overuse of microservices taught us an important lesson about technological…\n    \n     \n    \n    ![Image 83](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 14\n    \n            \n    \n*   [Is RAG Overhyped? The Surprising Edge of AI-Enabled Reporting for Business Decisions](https://www.linkedin.com/pulse/rag-overhyped-surprising-edge-ai-enabled-reporting-business-mathew-izuqc)\n    \n    ![Image 84](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n    \n    Dec 16, 2024\n    \n    ### Is RAG Overhyped? The Surprising Edge of AI-Enabled Reporting for Business Decisions\n    \n    Predictions abound about the future of Retrieval-Augmented Generation (RAG), and for good reason. RAG—where large…\n    \n     \n    \n    ![Image 85](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 27\n    \n            \n    \n    2 Comments\n    \n*   [Elevate Data Quality with Entity Resolution, Zero-Copy Sharing, and Master Data Management for Regulated Industries](https://www.linkedin.com/pulse/elevate-data-quality-entity-resolution-zero-copy-sharing-mathew-3iwcc)\n    \n    ![Image 86](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n    \n    Dec 13, 2024\n    \n    ### Elevate Data Quality with Entity Resolution, Zero-Copy Sharing, and Master Data Management for Regulated Industries\n    \n    Skypoint Customer Data Platform (CDP) capability ushers in a new era of data unification and activation—merging…\n    \n     \n    \n    ![Image 87](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 88](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 30\n    \n            \n    \n*   [3 Reasons Why You Need an \"AI Database\" Architecture to Deploy AI Agents That Reduce Healthcare Administrative Burden](https://www.linkedin.com/pulse/3-reasons-why-you-need-ai-database-architecture-deploy-tisson-mathew-uondc)\n    \n    ![Image 89](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n    \n    Nov 24, 2024\n    \n    ### 3 Reasons Why You Need an \"AI Database\" Architecture to Deploy AI Agents That Reduce Healthcare Administrative Burden\n    \n    Healthcare organizations, including health systems, provider groups, and payers, face mounting pressure to manage…\n    \n     \n    \n    ![Image 90](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 91](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 92](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 32\n    \n            \n    \n    1 Comment\n    \n*   [Data and AI in Healthcare: Why Open Architecture Solutions Beat Closed-Source DIY Tools for Operational Efficiency](https://www.linkedin.com/pulse/data-ai-healthcare-why-open-architecture-solutions-beat-tisson-mathew-hejmc)\n    \n    ![Image 93](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n    \n    Nov 14, 2024\n    \n    ### Data and AI in Healthcare: Why Open Architecture Solutions Beat Closed-Source DIY Tools for Operational Efficiency\n    \n    As healthcare organizations increasingly leverage data, analytics, and AI to enhance patient outcomes and reduce…\n    \n     \n    \n    ![Image 94](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 95](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 25\n    \n            \n    \n*   [Three Reasons Why Skypoint Tailored the “Palantir Model” for Enterprise AI in Production](https://www.linkedin.com/pulse/three-reasons-why-skypoint-tailored-palantir-model-ai-tisson-mathew-vlv0c)\n    \n    ![Image 96](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n    \n    Nov 10, 2024\n    \n    ### Three Reasons Why Skypoint Tailored the “Palantir Model” for Enterprise AI in Production\n    \n    In the world of enterprise AI applications struggling to get to production and the rise of compound AI systems there’s…\n    \n     \n    \n    ![Image 97](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 98](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 99](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 44\n    \n            \n    \n    3 Comments\n    \n*   [Revolutionize Healthcare Compliance with \"AI Employees\": Lighten the Load for Providers and Staff](https://www.linkedin.com/pulse/revolutionize-healthcare-compliance-ai-employees-lighten-mathew-kffge)\n    \n    ![Image 100](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n    \n    Nov 2, 2024\n    \n    ### Revolutionize Healthcare Compliance with \"AI Employees\": Lighten the Load for Providers and Staff\n    \n    Let's face it: the healthcare industry is grappling with overwhelming administrative workloads, soaring costs, and…\n    \n     \n    \n    ![Image 101](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 102](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 103](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 42\n    \n            \n    \n    1 Comment\n    \n*   [Three Common Mistakes Enterprise AI Leaders Make and How to Avoid Them](https://www.linkedin.com/pulse/three-common-mistakes-enterprise-ai-leaders-make-how-avoid-mathew-esfec)\n    \n    ![Image 104](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n    \n    Oct 27, 2024\n    \n    ### Three Common Mistakes Enterprise AI Leaders Make and How to Avoid Them\n    \n    In the rapidly evolving landscape of AI, enterprises are racing to integrate AI solutions into their operations. Over…\n    \n     \n    \n    ![Image 105](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 106](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 107](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 62\n    \n            \n    \n    2 Comments\n    \n*   [Unstructured to Structured Data: Domain-Specific AI-Agents Driven Systems of Intelligence](https://www.linkedin.com/pulse/unstructured-structured-data-domain-specific-ai-agents-tisson-mathew-u05gc)\n    \n    ![Image 108](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n    \n    Oct 18, 2024\n    \n    ### Unstructured to Structured Data: Domain-Specific AI-Agents Driven Systems of Intelligence\n    \n    Introduction In enterprise software, it's long been believed that building a lasting competitive advantage—or…\n    \n     \n    \n    ![Image 109](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 110](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 111](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 29\n    \n            \n    \n    1 Comment\n    \n*   [Vertical AI Agents and Human Collaboration - Production Case Study In Healthcare](https://www.linkedin.com/pulse/vertical-ai-agents-human-collaboration-production-case-mathew-zwakc)\n    \n    ![Image 112](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/)\n    \n    Oct 5, 2024\n    \n    ### Vertical AI Agents and Human Collaboration - Production Case Study In Healthcare\n    \n    With the growing accessibility of building AI applications on large language models (LLMs), one thing has become…\n    \n     \n    \n    ![Image 113](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ![Image 114](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) 44\n    \n            \n    \n    4 Comments\n    \n\nShow more\n\n[See all articles](https://www.linkedin.com/in/tisson/recent-activity/articles/)\n\nSign in\n-------\n\nStay updated on your professional world\n\n[Sign in](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_xandr-ad-fallback_signin)\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=article-ssr-frontend-pulse_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=article-ssr-frontend-pulse_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=article-ssr-frontend-pulse_auth-button_cookie-policy).\n\nNew to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fnew-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc%2F&trk=article-ssr-frontend-pulse_xandr-ad-fallback_join-link)\n\nInsights from the community\n---------------------------\n\n*   [Data Analytics You're facing doubts from stakeholders about unstructured data in analytics. How can you prove its value?](https://www.linkedin.com/advice/0/youre-facing-doubts-from-stakeholders-unstructured-yajye)\n*   [Data Analytics Struggling to analyze unstructured data in your analytics workflow?](https://www.linkedin.com/advice/1/struggling-analyze-unstructured-data-your-analytics-zqwxc)\n*   [Data Science You’re working with unstructured data in Data Science. How can you manage deadlines and deliver results?](https://www.linkedin.com/advice/0/youre-working-unstructured-data-science-how-can-you-ijxsc)\n*   [Business Intelligence You're drowning in unstructured data. How can you harness advanced BI tools to make sense of it all?](https://www.linkedin.com/advice/1/youre-drowning-unstructured-data-how-can-nl2zf)\n*   [Statistics What methods can you use to ensure high quality unstructured data?](https://www.linkedin.com/advice/0/what-methods-can-you-use-ensure-high-quality-unstructured-gdohc)\n*   [Data Warehousing What are the most common sources of unstructured data in data warehousing?](https://www.linkedin.com/advice/3/what-most-common-sources-unstructured-data-warehousing-xcnve)\n*   [Data Analytics Which big data analytics platforms offer the best machine learning capabilities?](https://www.linkedin.com/advice/0/which-big-data-analytics-platforms-offer-best-machine-pbyye)\n*   [Data Science You’re trying to build a machine learning project. What are the best data science platforms to use?](https://www.linkedin.com/advice/0/youre-trying-build-machine-learning-project-what-best-gr1kc)\n*   [Internet Services What distinguishes a knowledge graph from a database?](https://www.linkedin.com/advice/0/what-distinguishes-knowledge-graph-from-database-ljbxf)\n*   [Artificial Intelligence How can you measure the performance of big data frameworks in AI projects?](https://www.linkedin.com/advice/3/how-can-you-measure-performance-big-data-h0zic)\n\nShow more Show less\n\nOthers also viewed\n------------------\n\n*   [![Image 115](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Reference Architecture for RAG applications Sanjay Kumar MBA,MS,PhD 2mo](https://www.linkedin.com/pulse/reference-architecture-rag-applications-sanjay-kumar-mba-ms-phd-tyuhc)\n*   [![Image 116](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### ML Systems for Business: A Step-by-Step Guide Ivan Reznikov 1y](https://www.linkedin.com/pulse/ml-systems-business-step-by-step-guide-ivan-reznikov)\n*   [![Image 117](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Using Databases and Data Warehouses as Vector Databases for AI Agents Hastika C. 5mo](https://www.linkedin.com/pulse/using-databases-data-warehouses-vector-ai-agents-hastika-cheddy-rj6if)\n*   [![Image 118](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Deconstructing Unstructured Data: Strategies for Analysis and Insights TeamLease Digital 9mo](https://www.linkedin.com/pulse/deconstructing-unstructured-data-strategies-analysis-fxioc)\n*   [![Image 119](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### The Impact of Machine Learning on Data Pipelines: Challenges and Opportunities Edvenswa Enterprises 6mo](https://www.linkedin.com/pulse/impact-machine-learning-data-pipelines-challenges-opportunities-s0slc)\n*   [![Image 120](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### MLOps for Data Scientists Patrick Nicolas 12mo](https://www.linkedin.com/pulse/mlops-data-scientists-patrick-nicolas-zhc9c)\n*   [![Image 121](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Switch to Intelligent Document Processing Now! Astera 7mo](https://www.linkedin.com/pulse/switch-intelligent-document-processing-now-astera-software-x9isc)\n*   [![Image 122](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Do you still need RAG (Retrieval Augmentation Generation) now that we have Microsoft Copilot Pro? Michael John Peña 1y](https://www.linkedin.com/pulse/do-you-still-need-rag-retrieval-augmentation-generation-pe%C3%B1a-pku5c)\n*   [![Image 123](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### AI and data analytics creating interactive data David N. 6mo](https://www.linkedin.com/pulse/ai-data-analytics-creating-interactive-david-nishimoto-vcvgc)\n*   [![Image 124](https://www.linkedin.com/pulse/new-way-elt-converting-unstructured-data-any-warehouse-tisson-mathew-gpihc/) ### Top 7 Vector Databases for AI Sajiya Mirza 1y](https://www.linkedin.com/pulse/top-7-vector-databases-ai-sajiya-mirza)\n\nShow more Show less\n\nExplore topics\n--------------\n\n*   [Sales](https://www.linkedin.com/pulse/topics/sales-s5/)\n*   [Marketing](https://www.linkedin.com/pulse/topics/marketing-s2461/)\n*   [IT Services](https://www.linkedin.com/pulse/topics/it-services-s57547/)\n*   [Business Administration](https://www.linkedin.com/pulse/topics/business-administration-s50111/)\n*   [HR Management](https://www.linkedin.com/pulse/topics/hr-management-s50359/)\n*   [Engineering](https://www.linkedin.com/pulse/topics/engineering-s166/)\n*   [Soft Skills](https://www.linkedin.com/pulse/topics/soft-skills-s2976/)\n*   [See All](https://www.linkedin.com/pulse/topics/home/)\n\n*   LinkedIn © 2025\n*   [About](https://about.linkedin.com/?trk=d_flagship2_pulse_read_footer-about)\n*   [Accessibility](https://www.linkedin.com/accessibility?trk=d_flagship2_pulse_read_footer-accessibility)\n*   [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=d_flagship2_pulse_read_footer-user-agreement)\n*   [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=d_flagship2_pulse_read_footer-privacy-policy)\n*   [Your California Privacy Choices](https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_flagship2_pulse_read_footer-california-privacy-rights-act)\n*   [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=d_flagship2_pulse_read_footer-cookie-policy)\n*   [Copyright Policy](https://www.linkedin.com/legal/copyright-policy?trk=d_flagship2_pulse_read_footer-copyright-policy)\n*   [Brand Policy](https://brand.linkedin.com/policies?trk=d_flagship2_pulse_read_footer-brand-policy)\n*   [Guest Controls](https://www.linkedin.com/psettings/guest-controls?trk=d_flagship2_pulse_read_footer-guest-controls)\n*   [Community Guidelines](https://www.linkedin.com/legal/professional-community-policies?trk=d_flagship2_pulse_read_footer-community-guide)\n*   *   العربية (Arabic)\n    *   বাংলা (Bangla)\n    *   Čeština (Czech)\n    *   Dansk (Danish)\n    *   Deutsch (German)\n    *   Ελληνικά (Greek)\n    *   **English (English)**\n    *   Español (Spanish)\n    *   فارسی (Persian)\n    *   Suomi (Finnish)\n    *   Français (French)\n    *   हिंदी (Hindi)\n    *   Magyar (Hungarian)\n    *   Bahasa Indonesia (Indonesian)\n    *   Italiano (Italian)\n    *   עברית (Hebrew)\n    *   日本語 (Japanese)\n    *   한국어 (Korean)\n    *   मराठी (Marathi)\n    *   Bahasa Malaysia (Malay)\n    *   Nederlands (Dutch)\n    *   Norsk (Norwegian)\n    *   ਪੰਜਾਬੀ (Punjabi)\n    *   Polski (Polish)\n    *   Português (Portuguese)\n    *   Română (Romanian)\n    *   Русский (Russian)\n    *   Svenska (Swedish)\n    *   తెలుగు (Telugu)\n    *   ภาษาไทย (Thai)\n    *   Tagalog (Tagalog)\n    *   Türkçe (Turkish)\n    *   Українська (Ukrainian)\n    *   Tiếng Việt (Vietnamese)\n    *   简体中文 (Chinese (Simplified))\n    *   正體中文 (Chinese (Traditional))\n    \n    Language",
+  "publishedTime": "2024-09-08T17:51:35.000+00:00",
+  "usage": {
+    "tokens": 9455
+  }
+}
+```

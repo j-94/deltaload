@@ -1,0 +1,909 @@
+---
+title: GitHub - PaulieScanlon/gatsby-mdx-embed: A Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼
+description: A Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼 - PaulieScanlon/gatsby-mdx-embed
+url: https://github.com/PaulieScanlon/gatsby-mdx-embed
+timestamp: 2025-01-20T15:31:36.571Z
+domain: github.com
+path: PaulieScanlon_gatsby-mdx-embed
+---
+
+# GitHub - PaulieScanlon/gatsby-mdx-embed: A Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼
+
+
+A Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼 - PaulieScanlon/gatsby-mdx-embed
+
+
+## Content
+
+GitHub - PaulieScanlon/gatsby-mdx-embed: A Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼
+===============
+                                           
+
+[Skip to content](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPaulieScanlon%2Fgatsby-mdx-embed%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPaulieScanlon%2Fgatsby-mdx-embed%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=PaulieScanlon%2Fgatsby-mdx-embed) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+This repository has been archived by the owner on Aug 29, 2020. It is now read-only.
+
+[PaulieScanlon](https://github.com/PaulieScanlon) / **[gatsby-mdx-embed](https://github.com/PaulieScanlon/gatsby-mdx-embed)** Public archive
+
+*   [Notifications](https://github.com/login?return_to=%2FPaulieScanlon%2Fgatsby-mdx-embed) You must be signed in to change notification settings
+*   [Fork 13](https://github.com/login?return_to=%2FPaulieScanlon%2Fgatsby-mdx-embed)
+*   [Star 105](https://github.com/login?return_to=%2FPaulieScanlon%2Fgatsby-mdx-embed)
+    
+
+A Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼
+
+[gatsby-mdx-embed.netlify.com/](https://gatsby-mdx-embed.netlify.com/ "https://gatsby-mdx-embed.netlify.com/")
+
+### License
+
+[MIT license](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/LICENCE.md)
+
+[105 stars](https://github.com/PaulieScanlon/gatsby-mdx-embed/stargazers) [13 forks](https://github.com/PaulieScanlon/gatsby-mdx-embed/forks) [Branches](https://github.com/PaulieScanlon/gatsby-mdx-embed/branches) [Tags](https://github.com/PaulieScanlon/gatsby-mdx-embed/tags) [Activity](https://github.com/PaulieScanlon/gatsby-mdx-embed/activity)
+
+[Star](https://github.com/login?return_to=%2FPaulieScanlon%2Fgatsby-mdx-embed)
+
+[Notifications](https://github.com/login?return_to=%2FPaulieScanlon%2Fgatsby-mdx-embed) You must be signed in to change notification settings
+
+*   [Code](https://github.com/PaulieScanlon/gatsby-mdx-embed)
+*   [Issues 9](https://github.com/PaulieScanlon/gatsby-mdx-embed/issues)
+*   [Pull requests 1](https://github.com/PaulieScanlon/gatsby-mdx-embed/pulls)
+*   [Actions](https://github.com/PaulieScanlon/gatsby-mdx-embed/actions)
+*   [Projects 0](https://github.com/PaulieScanlon/gatsby-mdx-embed/projects)
+*   [Security](https://github.com/PaulieScanlon/gatsby-mdx-embed/security)
+*   [Insights](https://github.com/PaulieScanlon/gatsby-mdx-embed/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/PaulieScanlon/gatsby-mdx-embed)
+*   [Issues](https://github.com/PaulieScanlon/gatsby-mdx-embed/issues)
+*   [Pull requests](https://github.com/PaulieScanlon/gatsby-mdx-embed/pulls)
+*   [Actions](https://github.com/PaulieScanlon/gatsby-mdx-embed/actions)
+*   [Projects](https://github.com/PaulieScanlon/gatsby-mdx-embed/projects)
+*   [Security](https://github.com/PaulieScanlon/gatsby-mdx-embed/security)
+*   [Insights](https://github.com/PaulieScanlon/gatsby-mdx-embed/pulse)
+
+PaulieScanlon/gatsby-mdx-embed
+==============================
+
+  
+
+ master
+
+[**1** Branch](https://github.com/PaulieScanlon/gatsby-mdx-embed/branches)[**0** Tags](https://github.com/PaulieScanlon/gatsby-mdx-embed/tags)
+
+[](https://github.com/PaulieScanlon/gatsby-mdx-embed/branches)[](https://github.com/PaulieScanlon/gatsby-mdx-embed/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 22: PaulieScanlon](https://avatars.githubusercontent.com/u/1465706?v=4&size=40)](https://github.com/PaulieScanlon)[PaulieScanlon](https://github.com/PaulieScanlon/gatsby-mdx-embed/commits?author=PaulieScanlon)
+
+[update readme](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/32d872bfa52fc6ec96857f744805ca716225c3f7)
+
+Aug 28, 2020
+
+[32d872b](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/32d872bfa52fc6ec96857f744805ca716225c3f7) · Aug 28, 2020
+
+History
+-------
+
+[236 Commits](https://github.com/PaulieScanlon/gatsby-mdx-embed/commits/master/)
+
+[](https://github.com/PaulieScanlon/gatsby-mdx-embed/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[Create standard issue templates](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/d318966bd28934049a6242147556d151bb998d34 "Create standard issue templates")
+
+
+
+ | 
+
+Aug 1, 2020
+
+ |
+| 
+
+[@pauliescanlon/gatsby-mdx-embed](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/%40pauliescanlon/gatsby-mdx-embed "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[@pauliescanlon/gatsby-mdx-embed](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/%40pauliescanlon/gatsby-mdx-embed "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[update readme](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/32d872bfa52fc6ec96857f744805ca716225c3f7 "update readme")
+
+
+
+ | 
+
+Aug 28, 2020
+
+ |
+| 
+
+[demo](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/demo "demo")
+
+
+
+
+
+
+
+ | 
+
+[demo](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/demo "demo")
+
+
+
+
+
+
+
+ | 
+
+[tiny css amends to Strava component](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/a8173c5cf6ea691c70ea7a03e8ebb1d1b76ba280 "tiny css amends to Strava component")
+
+
+
+ | 
+
+Aug 19, 2020
+
+ |
+| 
+
+[docs](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[Merge branch 'master' into add-codepen-features](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/70f2cd07bad53859bf4b813b442c7f3f5e07ed64 "Merge branch 'master' into add-codepen-features")
+
+
+
+ | 
+
+Aug 25, 2020
+
+ |
+| 
+
+[.gitignore](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[add .gitignore to demo](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/60567366e859309f4099edce850ce216836be56f "add .gitignore to demo")
+
+
+
+ | 
+
+Jun 5, 2020
+
+ |
+| 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[Create CODE\_OF\_CONDUCT.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/e150dae316f4aaaab625bc97fb37a8883906ff38 "Create CODE_OF_CONDUCT.md")
+
+
+
+ | 
+
+Aug 1, 2020
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[Include MdxEmbedProvider.tsx note](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/ac34696f9559088cd6c1fd384439f206ab2b8df2 "Include MdxEmbedProvider.tsx note")
+
+
+
+ | 
+
+Aug 9, 2020
+
+ |
+| 
+
+[LICENCE.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/LICENCE.md "LICENCE.md")
+
+
+
+
+
+
+
+ | 
+
+[LICENCE.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/LICENCE.md "LICENCE.md")
+
+
+
+
+
+
+
+ | 
+
+[Create LICENCE](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/ca2faca8c2c16b1f5f03a401cebb9a70774634b4 "Create LICENCE")
+
+
+
+ | 
+
+Aug 1, 2020
+
+ |
+| 
+
+[README.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[update readme](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/32d872bfa52fc6ec96857f744805ca716225c3f7 "update readme")
+
+
+
+ | 
+
+Aug 28, 2020
+
+ |
+| 
+
+[copy-readme.js](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/copy-readme.js "copy-readme.js")
+
+
+
+
+
+
+
+ | 
+
+[copy-readme.js](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/copy-readme.js "copy-readme.js")
+
+
+
+
+
+
+
+ | 
+
+[initial providers setup](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/2fb6874d870a2fa9c04fe504250e0dbf7f5b6b85 "initial providers setup")
+
+
+
+ | 
+
+Dec 31, 2019
+
+ |
+| 
+
+[netlify.toml](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[netlify.toml](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[add docs to publish directory](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/30e633bb3bdce291168f419cca79f2a2c71d7cd5 "add docs to publish directory")
+
+
+
+ | 
+
+Jun 5, 2020
+
+ |
+| 
+
+[package.json](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[add tiktok page to demo site](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/8e31657cde8bc4003188a0d0518345d6f5c18035 "add tiktok page to demo site")
+
+
+
+ | 
+
+Jul 29, 2020
+
+ |
+| 
+
+[tsconfig.json](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[clean up root tscongig and add check for prop array for .ts files](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/2778c42d0340341d9c3c3ed9de547d82e13a1b71 "clean up root tscongig and add check for prop array for .ts files")
+
+
+
+ | 
+
+Jan 26, 2020
+
+ |
+| 
+
+[yarn.lock](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[Bump elliptic from 6.5.2 to 6.5.3](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/4045764f59d6250c00c015fb9205620df95dae02 "Bump elliptic from 6.5.2 to 6.5.3
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.2 to 6.5.3.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.5.2...v6.5.3)
+Signed-off-by: dependabot[bot] <support@github.com>")
+
+
+
+ | 
+
+Aug 1, 2020
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#)
+*   [Code of conduct](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#)
+*   [MIT license](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#)
+
+[![Image 23: gatsby-mdx-embed image](https://camo.githubusercontent.com/48bfbd1a4d2763e3ccdac78a23347cb2c51d5aa03de24868b4e0b2d1d634ea42/68747470733a2f2f6761747362792d6d64782d656d6265642e6e65746c6966792e6170702f6d64782d656d6265642d6f672d696d6167652e6a7067)](https://gatsby-mdx-embed.netlify.com/)
+
+🚨 This project is now archived 🚨
+----------------------------------
+
+[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#-this-project-is-now-archived-)
+
+...but good news!
+
+A new project is on the way, head over to [mdx-embed](https://github.com/PaulieScanlon/mdx-embed) for more info
+
+If you have any questions in the mean time you'll find me on Twitter: [@pauliescanlon](https://twitter.com/PaulieScanlon)
+
+gatsby-mdx-embed
+================
+
+[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#gatsby-mdx-embed)
+
+With `gatsby-mdx-embed` you can embed media content from providers like Twitter, YouTube, Instagram and a number of others directly in `.mdx` ... **no imports required**
+
+👁️ Preview
+-----------
+
+[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#%EF%B8%8F-preview)
+
+*   [Live Demo](https://gatsby-mdx-embed.netlify.com/)
+
+🚀 Getting started
+------------------
+
+[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#-getting-started)
+
+### Install
+
+[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#install)
+
+```
+npm install @pauliescanlon/gatsby-mdx-embed --save
+```
+
+### Install peer dependencies
+
+[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#install-peer-dependencies)
+
+```
+npm install gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react --save
+```
+
+### Setup
+
+[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#setup)
+
+```js
+// gatsby.config
+module.exports = {
+  ...
+  plugins: [`@pauliescanlon/gatsby-mdx-embed`]
+  ...
+}
+```
+
+`gatsby-mdx-embed` automatically injects an `MDXProvider`. If it's the first and / or only plugin that uses this method you shouldn't have any clashes.
+
+However, if you're using a theme or some other plugin that uses `.mdx` you may need to switch the order of the plugins.
+
+A note on using multiple `MDXProvider`(s) directly from [@chrisbiscardi](https://twitter.com/chrisbiscardi)
+
+> Multiple providers will merge the components object. **Last provider wins**
+
+If the above doesn't help you might need to manually import the `MdxEmbedProvider` and use it to wrap your `MDXRenderer`
+
+```js
+// layout.js
+
+import { MdxEmbedProvider } from '@pauliescanlon/gatsby-mdx-embed';
+
+<MdxEmbedProvider>
+  <MDXRenderer>{body}</MDXRenderer>
+</MdxEmbedProvider>;
+```
+
+General Observer update 07/05/2020
+----------------------------------
+
+[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#general-observer-update-07052020)
+
+MDX Embed has been updated to include Intersection Observer support for all providers.
+
+With Intersection Observer support now heavy provider scripts won't be loaded until the component in question scrolls in to view... Keeping your site blazing fast! ⚡
+
+If you're using **gatsby-mdx-embed** in your project i'd love to hear from you [@pauliescanlon](https://twitter.com/PaulieScanlon)
+
+[![Image 24: ko-fi](https://camo.githubusercontent.com/472a68eb9aa6657cde71f50fac4aec49fa13c421123b38008fbd513d2571667e/68747470733a2f2f7777772e6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667)](https://ko-fi.com/P5P31B7G8)
+
+Thanks to the following projects which were used as references
+
+*   [gatsby-remark-oembed](https://github.com/raae/gatsby-remark-oembed)
+*   [gatsby-plugin-twitter](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-twitter)
+*   [gatsby-plugin-instagram-embed](https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed)
+
+About
+-----
+
+A Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼
+
+[gatsby-mdx-embed.netlify.com/](https://gatsby-mdx-embed.netlify.com/ "https://gatsby-mdx-embed.netlify.com/")
+
+### Topics
+
+[gatsby](https://github.com/topics/gatsby "Topic: gatsby") [embed](https://github.com/topics/embed "Topic: embed") [mdx](https://github.com/topics/mdx "Topic: mdx") [gatsbyjs](https://github.com/topics/gatsbyjs "Topic: gatsbyjs") [gatsby-plugin](https://github.com/topics/gatsby-plugin "Topic: gatsby-plugin") [mdx-js](https://github.com/topics/mdx-js "Topic: mdx-js")
+
+### Resources
+
+[Readme](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#MIT-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#coc-ov-file)
+
+[Activity](https://github.com/PaulieScanlon/gatsby-mdx-embed/activity)
+
+### Stars
+
+[**105** stars](https://github.com/PaulieScanlon/gatsby-mdx-embed/stargazers)
+
+### Watchers
+
+[**5** watching](https://github.com/PaulieScanlon/gatsby-mdx-embed/watchers)
+
+### Forks
+
+[**13** forks](https://github.com/PaulieScanlon/gatsby-mdx-embed/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FPaulieScanlon%2Fgatsby-mdx-embed&report=PaulieScanlon+%28user%29)
+
+[Releases](https://github.com/PaulieScanlon/gatsby-mdx-embed/releases)
+----------------------------------------------------------------------
+
+No releases published
+
+[Packages 0](https://github.com/users/PaulieScanlon/packages?repo_name=gatsby-mdx-embed)
+----------------------------------------------------------------------------------------
+
+No packages published  
+
+[Used by 264](https://github.com/PaulieScanlon/gatsby-mdx-embed/network/dependents)
+-----------------------------------------------------------------------------------
+
+[* ![Image 25: @dsp-testing](https://avatars.githubusercontent.com/u/30846345?s=64&v=4) * ![Image 26: @emmron](https://avatars.githubusercontent.com/u/1976366?s=64&v=4) * ![Image 27: @jefferyq2](https://avatars.githubusercontent.com/u/168150414?s=64&v=4) * ![Image 28: @kunjanshah0811](https://avatars.githubusercontent.com/u/76934179?s=64&v=4) * ![Image 29: @SocioProphet](https://avatars.githubusercontent.com/u/39882597?s=64&v=4) * ![Image 30: @gsoc2](https://avatars.githubusercontent.com/u/139281252?s=64&v=4) * ![Image 31: @ohsevin](https://avatars.githubusercontent.com/u/31463232?s=64&v=4) * ![Image 32: @Js-Brecht](https://avatars.githubusercontent.com/u/1935258?s=64&v=4) \+ 256](https://github.com/PaulieScanlon/gatsby-mdx-embed/network/dependents)
+
+[Contributors 8](https://github.com/PaulieScanlon/gatsby-mdx-embed/graphs/contributors)
+---------------------------------------------------------------------------------------
+
+*   [![Image 33: @PaulieScanlon](https://avatars.githubusercontent.com/u/1465706?s=64&v=4)](https://github.com/PaulieScanlon)
+*   [![Image 34: @spences10](https://avatars.githubusercontent.com/u/234708?s=64&v=4)](https://github.com/spences10)
+*   [![Image 35: @mbifulco](https://avatars.githubusercontent.com/u/1844496?s=64&v=4)](https://github.com/mbifulco)
+*   [![Image 36: @zslabs](https://avatars.githubusercontent.com/u/1018402?s=64&v=4)](https://github.com/zslabs)
+*   [![Image 37: @matiasfha](https://avatars.githubusercontent.com/u/282006?s=64&v=4)](https://github.com/matiasfha)
+*   [![Image 38: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 39: @a-trost](https://avatars.githubusercontent.com/u/19617280?s=64&v=4)](https://github.com/a-trost)
+*   [![Image 40: @MichaelDeBoey](https://avatars.githubusercontent.com/u/6643991?s=64&v=4)](https://github.com/MichaelDeBoey)
+
+Languages
+---------
+
+*   [TypeScript 94.8%](https://github.com/PaulieScanlon/gatsby-mdx-embed/search?l=typescript)
+*   [JavaScript 5.2%](https://github.com/PaulieScanlon/gatsby-mdx-embed/search?l=javascript)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - PaulieScanlon/gatsby-mdx-embed: A Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼",
+  "description": "A Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼 - PaulieScanlon/gatsby-mdx-embed",
+  "url": "https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true",
+  "content": "GitHub - PaulieScanlon/gatsby-mdx-embed: A Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼\n===============\n                                           \n\n[Skip to content](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPaulieScanlon%2Fgatsby-mdx-embed%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPaulieScanlon%2Fgatsby-mdx-embed%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=PaulieScanlon%2Fgatsby-mdx-embed) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\nThis repository has been archived by the owner on Aug 29, 2020. It is now read-only.\n\n[PaulieScanlon](https://github.com/PaulieScanlon) / **[gatsby-mdx-embed](https://github.com/PaulieScanlon/gatsby-mdx-embed)** Public archive\n\n*   [Notifications](https://github.com/login?return_to=%2FPaulieScanlon%2Fgatsby-mdx-embed) You must be signed in to change notification settings\n*   [Fork 13](https://github.com/login?return_to=%2FPaulieScanlon%2Fgatsby-mdx-embed)\n*   [Star 105](https://github.com/login?return_to=%2FPaulieScanlon%2Fgatsby-mdx-embed)\n    \n\nA Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼\n\n[gatsby-mdx-embed.netlify.com/](https://gatsby-mdx-embed.netlify.com/ \"https://gatsby-mdx-embed.netlify.com/\")\n\n### License\n\n[MIT license](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/LICENCE.md)\n\n[105 stars](https://github.com/PaulieScanlon/gatsby-mdx-embed/stargazers) [13 forks](https://github.com/PaulieScanlon/gatsby-mdx-embed/forks) [Branches](https://github.com/PaulieScanlon/gatsby-mdx-embed/branches) [Tags](https://github.com/PaulieScanlon/gatsby-mdx-embed/tags) [Activity](https://github.com/PaulieScanlon/gatsby-mdx-embed/activity)\n\n[Star](https://github.com/login?return_to=%2FPaulieScanlon%2Fgatsby-mdx-embed)\n\n[Notifications](https://github.com/login?return_to=%2FPaulieScanlon%2Fgatsby-mdx-embed) You must be signed in to change notification settings\n\n*   [Code](https://github.com/PaulieScanlon/gatsby-mdx-embed)\n*   [Issues 9](https://github.com/PaulieScanlon/gatsby-mdx-embed/issues)\n*   [Pull requests 1](https://github.com/PaulieScanlon/gatsby-mdx-embed/pulls)\n*   [Actions](https://github.com/PaulieScanlon/gatsby-mdx-embed/actions)\n*   [Projects 0](https://github.com/PaulieScanlon/gatsby-mdx-embed/projects)\n*   [Security](https://github.com/PaulieScanlon/gatsby-mdx-embed/security)\n*   [Insights](https://github.com/PaulieScanlon/gatsby-mdx-embed/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/PaulieScanlon/gatsby-mdx-embed)\n*   [Issues](https://github.com/PaulieScanlon/gatsby-mdx-embed/issues)\n*   [Pull requests](https://github.com/PaulieScanlon/gatsby-mdx-embed/pulls)\n*   [Actions](https://github.com/PaulieScanlon/gatsby-mdx-embed/actions)\n*   [Projects](https://github.com/PaulieScanlon/gatsby-mdx-embed/projects)\n*   [Security](https://github.com/PaulieScanlon/gatsby-mdx-embed/security)\n*   [Insights](https://github.com/PaulieScanlon/gatsby-mdx-embed/pulse)\n\nPaulieScanlon/gatsby-mdx-embed\n==============================\n\n  \n\n master\n\n[**1** Branch](https://github.com/PaulieScanlon/gatsby-mdx-embed/branches)[**0** Tags](https://github.com/PaulieScanlon/gatsby-mdx-embed/tags)\n\n[](https://github.com/PaulieScanlon/gatsby-mdx-embed/branches)[](https://github.com/PaulieScanlon/gatsby-mdx-embed/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 22: PaulieScanlon](https://avatars.githubusercontent.com/u/1465706?v=4&size=40)](https://github.com/PaulieScanlon)[PaulieScanlon](https://github.com/PaulieScanlon/gatsby-mdx-embed/commits?author=PaulieScanlon)\n\n[update readme](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/32d872bfa52fc6ec96857f744805ca716225c3f7)\n\nAug 28, 2020\n\n[32d872b](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/32d872bfa52fc6ec96857f744805ca716225c3f7) · Aug 28, 2020\n\nHistory\n-------\n\n[236 Commits](https://github.com/PaulieScanlon/gatsby-mdx-embed/commits/master/)\n\n[](https://github.com/PaulieScanlon/gatsby-mdx-embed/commits/master/)\n\n\n\n\n\n\n\n |\n| \n\n[.github](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[.github](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[Create standard issue templates](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/d318966bd28934049a6242147556d151bb998d34 \"Create standard issue templates\")\n\n\n\n | \n\nAug 1, 2020\n\n |\n| \n\n[@pauliescanlon/gatsby-mdx-embed](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/%40pauliescanlon/gatsby-mdx-embed \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[@pauliescanlon/gatsby-mdx-embed](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/%40pauliescanlon/gatsby-mdx-embed \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[update readme](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/32d872bfa52fc6ec96857f744805ca716225c3f7 \"update readme\")\n\n\n\n | \n\nAug 28, 2020\n\n |\n| \n\n[demo](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/demo \"demo\")\n\n\n\n\n\n\n\n | \n\n[demo](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/demo \"demo\")\n\n\n\n\n\n\n\n | \n\n[tiny css amends to Strava component](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/a8173c5cf6ea691c70ea7a03e8ebb1d1b76ba280 \"tiny css amends to Strava component\")\n\n\n\n | \n\nAug 19, 2020\n\n |\n| \n\n[docs](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/docs \"docs\")\n\n\n\n\n\n\n\n | \n\n[docs](https://github.com/PaulieScanlon/gatsby-mdx-embed/tree/master/docs \"docs\")\n\n\n\n\n\n\n\n | \n\n[Merge branch 'master' into add-codepen-features](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/70f2cd07bad53859bf4b813b442c7f3f5e07ed64 \"Merge branch 'master' into add-codepen-features\")\n\n\n\n | \n\nAug 25, 2020\n\n |\n| \n\n[.gitignore](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[add .gitignore to demo](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/60567366e859309f4099edce850ce216836be56f \"add .gitignore to demo\")\n\n\n\n | \n\nJun 5, 2020\n\n |\n| \n\n[CODE\\_OF\\_CONDUCT.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/CODE_OF_CONDUCT.md \"CODE_OF_CONDUCT.md\")\n\n\n\n\n\n\n\n | \n\n[CODE\\_OF\\_CONDUCT.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/CODE_OF_CONDUCT.md \"CODE_OF_CONDUCT.md\")\n\n\n\n\n\n\n\n | \n\n[Create CODE\\_OF\\_CONDUCT.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/e150dae316f4aaaab625bc97fb37a8883906ff38 \"Create CODE_OF_CONDUCT.md\")\n\n\n\n | \n\nAug 1, 2020\n\n |\n| \n\n[CONTRIBUTING.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/CONTRIBUTING.md \"CONTRIBUTING.md\")\n\n\n\n\n\n\n\n | \n\n[CONTRIBUTING.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/CONTRIBUTING.md \"CONTRIBUTING.md\")\n\n\n\n\n\n\n\n | \n\n[Include MdxEmbedProvider.tsx note](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/ac34696f9559088cd6c1fd384439f206ab2b8df2 \"Include MdxEmbedProvider.tsx note\")\n\n\n\n | \n\nAug 9, 2020\n\n |\n| \n\n[LICENCE.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/LICENCE.md \"LICENCE.md\")\n\n\n\n\n\n\n\n | \n\n[LICENCE.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/LICENCE.md \"LICENCE.md\")\n\n\n\n\n\n\n\n | \n\n[Create LICENCE](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/ca2faca8c2c16b1f5f03a401cebb9a70774634b4 \"Create LICENCE\")\n\n\n\n | \n\nAug 1, 2020\n\n |\n| \n\n[README.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[update readme](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/32d872bfa52fc6ec96857f744805ca716225c3f7 \"update readme\")\n\n\n\n | \n\nAug 28, 2020\n\n |\n| \n\n[copy-readme.js](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/copy-readme.js \"copy-readme.js\")\n\n\n\n\n\n\n\n | \n\n[copy-readme.js](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/copy-readme.js \"copy-readme.js\")\n\n\n\n\n\n\n\n | \n\n[initial providers setup](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/2fb6874d870a2fa9c04fe504250e0dbf7f5b6b85 \"initial providers setup\")\n\n\n\n | \n\nDec 31, 2019\n\n |\n| \n\n[netlify.toml](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/netlify.toml \"netlify.toml\")\n\n\n\n\n\n\n\n | \n\n[netlify.toml](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/netlify.toml \"netlify.toml\")\n\n\n\n\n\n\n\n | \n\n[add docs to publish directory](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/30e633bb3bdce291168f419cca79f2a2c71d7cd5 \"add docs to publish directory\")\n\n\n\n | \n\nJun 5, 2020\n\n |\n| \n\n[package.json](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[package.json](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[add tiktok page to demo site](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/8e31657cde8bc4003188a0d0518345d6f5c18035 \"add tiktok page to demo site\")\n\n\n\n | \n\nJul 29, 2020\n\n |\n| \n\n[tsconfig.json](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/tsconfig.json \"tsconfig.json\")\n\n\n\n\n\n\n\n | \n\n[tsconfig.json](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/tsconfig.json \"tsconfig.json\")\n\n\n\n\n\n\n\n | \n\n[clean up root tscongig and add check for prop array for .ts files](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/2778c42d0340341d9c3c3ed9de547d82e13a1b71 \"clean up root tscongig and add check for prop array for .ts files\")\n\n\n\n | \n\nJan 26, 2020\n\n |\n| \n\n[yarn.lock](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[yarn.lock](https://github.com/PaulieScanlon/gatsby-mdx-embed/blob/master/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[Bump elliptic from 6.5.2 to 6.5.3](https://github.com/PaulieScanlon/gatsby-mdx-embed/commit/4045764f59d6250c00c015fb9205620df95dae02 \"Bump elliptic from 6.5.2 to 6.5.3\nBumps [elliptic](https://github.com/indutny/elliptic) from 6.5.2 to 6.5.3.\n- [Release notes](https://github.com/indutny/elliptic/releases)\n- [Commits](https://github.com/indutny/elliptic/compare/v6.5.2...v6.5.3)\nSigned-off-by: dependabot[bot] <support@github.com>\")\n\n\n\n | \n\nAug 1, 2020\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#)\n*   [Code of conduct](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#)\n*   [MIT license](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#)\n\n[![Image 23: gatsby-mdx-embed image](https://camo.githubusercontent.com/48bfbd1a4d2763e3ccdac78a23347cb2c51d5aa03de24868b4e0b2d1d634ea42/68747470733a2f2f6761747362792d6d64782d656d6265642e6e65746c6966792e6170702f6d64782d656d6265642d6f672d696d6167652e6a7067)](https://gatsby-mdx-embed.netlify.com/)\n\n🚨 This project is now archived 🚨\n----------------------------------\n\n[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#-this-project-is-now-archived-)\n\n...but good news!\n\nA new project is on the way, head over to [mdx-embed](https://github.com/PaulieScanlon/mdx-embed) for more info\n\nIf you have any questions in the mean time you'll find me on Twitter: [@pauliescanlon](https://twitter.com/PaulieScanlon)\n\ngatsby-mdx-embed\n================\n\n[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#gatsby-mdx-embed)\n\nWith `gatsby-mdx-embed` you can embed media content from providers like Twitter, YouTube, Instagram and a number of others directly in `.mdx` ... **no imports required**\n\n👁️ Preview\n-----------\n\n[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#%EF%B8%8F-preview)\n\n*   [Live Demo](https://gatsby-mdx-embed.netlify.com/)\n\n🚀 Getting started\n------------------\n\n[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#-getting-started)\n\n### Install\n\n[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#install)\n\n```\nnpm install @pauliescanlon/gatsby-mdx-embed --save\n```\n\n### Install peer dependencies\n\n[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#install-peer-dependencies)\n\n```\nnpm install gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react --save\n```\n\n### Setup\n\n[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#setup)\n\n```js\n// gatsby.config\nmodule.exports = {\n  ...\n  plugins: [`@pauliescanlon/gatsby-mdx-embed`]\n  ...\n}\n```\n\n`gatsby-mdx-embed` automatically injects an `MDXProvider`. If it's the first and / or only plugin that uses this method you shouldn't have any clashes.\n\nHowever, if you're using a theme or some other plugin that uses `.mdx` you may need to switch the order of the plugins.\n\nA note on using multiple `MDXProvider`(s) directly from [@chrisbiscardi](https://twitter.com/chrisbiscardi)\n\n> Multiple providers will merge the components object. **Last provider wins**\n\nIf the above doesn't help you might need to manually import the `MdxEmbedProvider` and use it to wrap your `MDXRenderer`\n\n```js\n// layout.js\n\nimport { MdxEmbedProvider } from '@pauliescanlon/gatsby-mdx-embed';\n\n<MdxEmbedProvider>\n  <MDXRenderer>{body}</MDXRenderer>\n</MdxEmbedProvider>;\n```\n\nGeneral Observer update 07/05/2020\n----------------------------------\n\n[](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#general-observer-update-07052020)\n\nMDX Embed has been updated to include Intersection Observer support for all providers.\n\nWith Intersection Observer support now heavy provider scripts won't be loaded until the component in question scrolls in to view... Keeping your site blazing fast! ⚡\n\nIf you're using **gatsby-mdx-embed** in your project i'd love to hear from you [@pauliescanlon](https://twitter.com/PaulieScanlon)\n\n[![Image 24: ko-fi](https://camo.githubusercontent.com/472a68eb9aa6657cde71f50fac4aec49fa13c421123b38008fbd513d2571667e/68747470733a2f2f7777772e6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667)](https://ko-fi.com/P5P31B7G8)\n\nThanks to the following projects which were used as references\n\n*   [gatsby-remark-oembed](https://github.com/raae/gatsby-remark-oembed)\n*   [gatsby-plugin-twitter](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-twitter)\n*   [gatsby-plugin-instagram-embed](https://github.com/MichaelDeBoey/gatsby-plugin-instagram-embed)\n\nAbout\n-----\n\nA Gatsby MDX plugin to embed Twitter, YouTube, Instagram and many more in to your .mdx without import 🧼\n\n[gatsby-mdx-embed.netlify.com/](https://gatsby-mdx-embed.netlify.com/ \"https://gatsby-mdx-embed.netlify.com/\")\n\n### Topics\n\n[gatsby](https://github.com/topics/gatsby \"Topic: gatsby\") [embed](https://github.com/topics/embed \"Topic: embed\") [mdx](https://github.com/topics/mdx \"Topic: mdx\") [gatsbyjs](https://github.com/topics/gatsbyjs \"Topic: gatsbyjs\") [gatsby-plugin](https://github.com/topics/gatsby-plugin \"Topic: gatsby-plugin\") [mdx-js](https://github.com/topics/mdx-js \"Topic: mdx-js\")\n\n### Resources\n\n[Readme](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#readme-ov-file)\n\n### License\n\n[MIT license](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#MIT-1-ov-file)\n\n### Code of conduct\n\n[Code of conduct](https://github.com/PaulieScanlon/gatsby-mdx-embed?screenshot=true#coc-ov-file)\n\n[Activity](https://github.com/PaulieScanlon/gatsby-mdx-embed/activity)\n\n### Stars\n\n[**105** stars](https://github.com/PaulieScanlon/gatsby-mdx-embed/stargazers)\n\n### Watchers\n\n[**5** watching](https://github.com/PaulieScanlon/gatsby-mdx-embed/watchers)\n\n### Forks\n\n[**13** forks](https://github.com/PaulieScanlon/gatsby-mdx-embed/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FPaulieScanlon%2Fgatsby-mdx-embed&report=PaulieScanlon+%28user%29)\n\n[Releases](https://github.com/PaulieScanlon/gatsby-mdx-embed/releases)\n----------------------------------------------------------------------\n\nNo releases published\n\n[Packages 0](https://github.com/users/PaulieScanlon/packages?repo_name=gatsby-mdx-embed)\n----------------------------------------------------------------------------------------\n\nNo packages published  \n\n[Used by 264](https://github.com/PaulieScanlon/gatsby-mdx-embed/network/dependents)\n-----------------------------------------------------------------------------------\n\n[* ![Image 25: @dsp-testing](https://avatars.githubusercontent.com/u/30846345?s=64&v=4) * ![Image 26: @emmron](https://avatars.githubusercontent.com/u/1976366?s=64&v=4) * ![Image 27: @jefferyq2](https://avatars.githubusercontent.com/u/168150414?s=64&v=4) * ![Image 28: @kunjanshah0811](https://avatars.githubusercontent.com/u/76934179?s=64&v=4) * ![Image 29: @SocioProphet](https://avatars.githubusercontent.com/u/39882597?s=64&v=4) * ![Image 30: @gsoc2](https://avatars.githubusercontent.com/u/139281252?s=64&v=4) * ![Image 31: @ohsevin](https://avatars.githubusercontent.com/u/31463232?s=64&v=4) * ![Image 32: @Js-Brecht](https://avatars.githubusercontent.com/u/1935258?s=64&v=4) \\+ 256](https://github.com/PaulieScanlon/gatsby-mdx-embed/network/dependents)\n\n[Contributors 8](https://github.com/PaulieScanlon/gatsby-mdx-embed/graphs/contributors)\n---------------------------------------------------------------------------------------\n\n*   [![Image 33: @PaulieScanlon](https://avatars.githubusercontent.com/u/1465706?s=64&v=4)](https://github.com/PaulieScanlon)\n*   [![Image 34: @spences10](https://avatars.githubusercontent.com/u/234708?s=64&v=4)](https://github.com/spences10)\n*   [![Image 35: @mbifulco](https://avatars.githubusercontent.com/u/1844496?s=64&v=4)](https://github.com/mbifulco)\n*   [![Image 36: @zslabs](https://avatars.githubusercontent.com/u/1018402?s=64&v=4)](https://github.com/zslabs)\n*   [![Image 37: @matiasfha](https://avatars.githubusercontent.com/u/282006?s=64&v=4)](https://github.com/matiasfha)\n*   [![Image 38: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)\n*   [![Image 39: @a-trost](https://avatars.githubusercontent.com/u/19617280?s=64&v=4)](https://github.com/a-trost)\n*   [![Image 40: @MichaelDeBoey](https://avatars.githubusercontent.com/u/6643991?s=64&v=4)](https://github.com/MichaelDeBoey)\n\nLanguages\n---------\n\n*   [TypeScript 94.8%](https://github.com/PaulieScanlon/gatsby-mdx-embed/search?l=typescript)\n*   [JavaScript 5.2%](https://github.com/PaulieScanlon/gatsby-mdx-embed/search?l=javascript)\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 7053
+  }
+}
+```

@@ -1,0 +1,592 @@
+---
+title: GitHub - pxsocs/warden: WARden | Private Portfolio Tool
+description: WARden | Private Portfolio Tool. Contribute to pxsocs/warden development by creating an account on GitHub.
+url: https://github.com/pxsocs/warden
+timestamp: 2025-01-20T15:32:05.615Z
+domain: github.com
+path: pxsocs_warden
+---
+
+# GitHub - pxsocs/warden: WARden | Private Portfolio Tool
+
+
+WARden | Private Portfolio Tool. Contribute to pxsocs/warden development by creating an account on GitHub.
+
+
+## Content
+
+GitHub - pxsocs/warden: WARden | Private Portfolio Tool
+===============                                         
+
+[Skip to content](https://github.com/pxsocs/warden?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpxsocs%2Fwarden%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpxsocs%2Fwarden%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=pxsocs%2Fwarden) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[pxsocs](https://github.com/pxsocs) / **[warden](https://github.com/pxsocs/warden)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fpxsocs%2Fwarden) You must be signed in to change notification settings
+*   [Fork 11](https://github.com/login?return_to=%2Fpxsocs%2Fwarden)
+*   [Star 46](https://github.com/login?return_to=%2Fpxsocs%2Fwarden)
+    
+
+WARden | Private Portfolio Tool
+
+### License
+
+[MIT license](https://github.com/pxsocs/warden/blob/master/LICENSE)
+
+[46 stars](https://github.com/pxsocs/warden/stargazers) [11 forks](https://github.com/pxsocs/warden/forks) [Branches](https://github.com/pxsocs/warden/branches) [Tags](https://github.com/pxsocs/warden/tags) [Activity](https://github.com/pxsocs/warden/activity)
+
+[Star](https://github.com/login?return_to=%2Fpxsocs%2Fwarden)
+
+[Notifications](https://github.com/login?return_to=%2Fpxsocs%2Fwarden) You must be signed in to change notification settings
+
+*   [Code](https://github.com/pxsocs/warden)
+*   [Issues 1](https://github.com/pxsocs/warden/issues)
+*   [Pull requests 0](https://github.com/pxsocs/warden/pulls)
+*   [Discussions](https://github.com/pxsocs/warden/discussions)
+*   [Actions](https://github.com/pxsocs/warden/actions)
+*   [Projects 0](https://github.com/pxsocs/warden/projects)
+*   [Security](https://github.com/pxsocs/warden/security)
+*   [Insights](https://github.com/pxsocs/warden/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/pxsocs/warden)
+*   [Issues](https://github.com/pxsocs/warden/issues)
+*   [Pull requests](https://github.com/pxsocs/warden/pulls)
+*   [Discussions](https://github.com/pxsocs/warden/discussions)
+*   [Actions](https://github.com/pxsocs/warden/actions)
+*   [Projects](https://github.com/pxsocs/warden/projects)
+*   [Security](https://github.com/pxsocs/warden/security)
+*   [Insights](https://github.com/pxsocs/warden/pulse)
+
+pxsocs/warden
+=============
+
+  
+
+ master
+
+[Branches](https://github.com/pxsocs/warden/branches)[Tags](https://github.com/pxsocs/warden/tags)
+
+[](https://github.com/pxsocs/warden/branches)[](https://github.com/pxsocs/warden/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+History
+-------
+
+[400 Commits](https://github.com/pxsocs/warden/commits/master/)
+
+[](https://github.com/pxsocs/warden/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[warden](https://github.com/pxsocs/warden/tree/master/warden "warden")
+
+
+
+
+
+
+
+ | 
+
+[warden](https://github.com/pxsocs/warden/tree/master/warden "warden")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.gitignore](https://github.com/pxsocs/warden/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/pxsocs/warden/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[LICENSE](https://github.com/pxsocs/warden/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/pxsocs/warden/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[README.md](https://github.com/pxsocs/warden/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/pxsocs/warden/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[requirements.txt](https://github.com/pxsocs/warden/blob/master/requirements.txt "requirements.txt")
+
+
+
+
+
+
+
+ | 
+
+[requirements.txt](https://github.com/pxsocs/warden/blob/master/requirements.txt "requirements.txt")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[warden.sh](https://github.com/pxsocs/warden/blob/master/warden.sh "warden.sh")
+
+
+
+
+
+
+
+ | 
+
+[warden.sh](https://github.com/pxsocs/warden/blob/master/warden.sh "warden.sh")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/pxsocs/warden?screenshot=true#)
+*   [MIT license](https://github.com/pxsocs/warden?screenshot=true#)
+
+Welcome to the WARden
+=====================
+
+[](https://github.com/pxsocs/warden?screenshot=true#welcome-to-the-warden)
+
+[![Image 11: GitHub release](https://camo.githubusercontent.com/5e7e0b4725b658bd1dd959f4cf283360a8a1ea174d71f876a8d8c0cbaff58693/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f7078736f63732f77617264656e2e737667)](https://github.com/pxsocs/warden/releases/) [![Image 12: Open Source? Yes!](https://camo.githubusercontent.com/e37f7429b2afa6b69318ad278d15eec19a7ce4dbcbc830c7cb13f80cf79f95a8/68747470733a2f2f62616467656e2e6e65742f62616467652f4f70656e253230536f757263652532302533462f5965732532312f626c75653f69636f6e3d676974687562)](https://github.com/pxsocs/warden/releases/) [![Image 13: Powered by NGU](https://camo.githubusercontent.com/ddc359dc14cdfdc547875726639e8c494d22527872fa0cbc2e0d1a89d2c3a7ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f776572656425323062792d4e4755253230546563686e6f6c6f67792d6f72616e67652e737667)](https://bitcoin.org/)
+
+### Requirements:
+
+[](https://github.com/pxsocs/warden?screenshot=true#requirements)
+
+> 🐍 Python 3.7 or later
+
+This app was built with a couple of goals:
+
+*   Easily track portfolio values;
+    
+*   Runs analytics on portfolio, including performance, cost basis and others;
+    
+*   Allows user to simulate different portfolio allocations and how Bitcoin would impact this allocation;
+    
+*   Track your Bitcoin node status;
+    
+*   Keep all data locally to improve privacy.
+    
+
+INSTALLATION
+============
+
+[](https://github.com/pxsocs/warden?screenshot=true#installation)
+
+This will clone the repository, create a new virtual environment, install dependencies and start the application.
+
+```shell
+git clone https://github.com/pxsocs/warden
+cd warden
+python3 -m venv .env
+source .env/bin/activate
+python3 -m pip install -r requirements.txt
+```
+
+Then run the WARden server:
+
+```shell
+python3 warden
+```
+
+To Upgrade:
+
+```shell
+git pull origin master
+```
+
+Screenshot
+----------
+
+[](https://github.com/pxsocs/warden?screenshot=true#screenshot)
+
+[![Image 14: Screenshot](https://raw.githubusercontent.com/pxsocs/warden/master/warden/static/images/web_screen_shot.png)](https://raw.githubusercontent.com/pxsocs/warden/master/warden/static/images/web_screen_shot.png)
+
+This is an Open Source project
+------------------------------
+
+[](https://github.com/pxsocs/warden?screenshot=true#this-is-an-open-source-project)
+
+[![Image 15: forthebadge made-with-python](https://camo.githubusercontent.com/b5fddb2cf8f63d5a0816750aa98ec214b824a4acd0c9160ba9c63cbbbbaacac3/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://www.python.org/)
+
+We believe Open Source is the future of development for bitcoin. There is no other way when transparency and privacy are critical.
+
+The code is not compiled and it can be easily audited. It can also be modified and distributed as anyone wishes.
+
+Privacy
+-------
+
+[](https://github.com/pxsocs/warden?screenshot=true#privacy)
+
+Most portfolio tracking tools ask for personal information and may track your IP and other information. Our experience is that even those who say they don't, may have log files at their systems that do track your IP and could be easily linked to your data.
+
+### Troubleshooting
+
+[](https://github.com/pxsocs/warden?screenshot=true#troubleshooting)
+
+> If you get a message telling you that pip is not installed:
+
+```shell
+sudo apt-get -y install python3-pip
+```
+
+> If you get a message that git was not found:
+
+```shell
+sudo apt-get install git
+```
+
+**Please note that this is ALPHA software. There is no guarantee that the information and analytics are correct. Also expect no customer support. Issues are encouraged to be raised through GitHub but they will be answered on a best efforts basis.**
+
+> warden (wɔːʳdən )
+
+> A warden is responsible for making sure that the laws or regulations are obeyed.
+
+About
+-----
+
+WARden | Private Portfolio Tool
+
+### Resources
+
+[Readme](https://github.com/pxsocs/warden?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/pxsocs/warden?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/pxsocs/warden/activity)
+
+### Stars
+
+[**46** stars](https://github.com/pxsocs/warden/stargazers)
+
+### Watchers
+
+[**2** watching](https://github.com/pxsocs/warden/watchers)
+
+### Forks
+
+[**11** forks](https://github.com/pxsocs/warden/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fpxsocs%2Fwarden&report=pxsocs+%28user%29)
+
+[Releases 7](https://github.com/pxsocs/warden/releases)
+-------------------------------------------------------
+
+[v0.99 released Latest May 1, 2022](https://github.com/pxsocs/warden/releases/tag/0.99)
+
+[\+ 6 releases](https://github.com/pxsocs/warden/releases)
+
+[Packages 0](https://github.com/users/pxsocs/packages?repo_name=warden)
+-----------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 3](https://github.com/pxsocs/warden/graphs/contributors)
+----------------------------------------------------------------------
+
+   
+
+Languages
+---------
+
+*   [Python 36.4%](https://github.com/pxsocs/warden/search?l=python)
+*   [JavaScript 36.1%](https://github.com/pxsocs/warden/search?l=javascript)
+*   [HTML 24.3%](https://github.com/pxsocs/warden/search?l=html)
+*   [CSS 3.0%](https://github.com/pxsocs/warden/search?l=css)
+*   [Shell 0.2%](https://github.com/pxsocs/warden/search?l=shell)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - pxsocs/warden: WARden | Private Portfolio Tool",
+  "description": "WARden | Private Portfolio Tool. Contribute to pxsocs/warden development by creating an account on GitHub.",
+  "url": "https://github.com/pxsocs/warden?screenshot=true",
+  "content": "GitHub - pxsocs/warden: WARden | Private Portfolio Tool\n===============                                         \n\n[Skip to content](https://github.com/pxsocs/warden?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpxsocs%2Fwarden%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpxsocs%2Fwarden%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=pxsocs%2Fwarden) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[pxsocs](https://github.com/pxsocs) / **[warden](https://github.com/pxsocs/warden)** Public\n\n*   [Notifications](https://github.com/login?return_to=%2Fpxsocs%2Fwarden) You must be signed in to change notification settings\n*   [Fork 11](https://github.com/login?return_to=%2Fpxsocs%2Fwarden)\n*   [Star 46](https://github.com/login?return_to=%2Fpxsocs%2Fwarden)\n    \n\nWARden | Private Portfolio Tool\n\n### License\n\n[MIT license](https://github.com/pxsocs/warden/blob/master/LICENSE)\n\n[46 stars](https://github.com/pxsocs/warden/stargazers) [11 forks](https://github.com/pxsocs/warden/forks) [Branches](https://github.com/pxsocs/warden/branches) [Tags](https://github.com/pxsocs/warden/tags) [Activity](https://github.com/pxsocs/warden/activity)\n\n[Star](https://github.com/login?return_to=%2Fpxsocs%2Fwarden)\n\n[Notifications](https://github.com/login?return_to=%2Fpxsocs%2Fwarden) You must be signed in to change notification settings\n\n*   [Code](https://github.com/pxsocs/warden)\n*   [Issues 1](https://github.com/pxsocs/warden/issues)\n*   [Pull requests 0](https://github.com/pxsocs/warden/pulls)\n*   [Discussions](https://github.com/pxsocs/warden/discussions)\n*   [Actions](https://github.com/pxsocs/warden/actions)\n*   [Projects 0](https://github.com/pxsocs/warden/projects)\n*   [Security](https://github.com/pxsocs/warden/security)\n*   [Insights](https://github.com/pxsocs/warden/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/pxsocs/warden)\n*   [Issues](https://github.com/pxsocs/warden/issues)\n*   [Pull requests](https://github.com/pxsocs/warden/pulls)\n*   [Discussions](https://github.com/pxsocs/warden/discussions)\n*   [Actions](https://github.com/pxsocs/warden/actions)\n*   [Projects](https://github.com/pxsocs/warden/projects)\n*   [Security](https://github.com/pxsocs/warden/security)\n*   [Insights](https://github.com/pxsocs/warden/pulse)\n\npxsocs/warden\n=============\n\n  \n\n master\n\n[Branches](https://github.com/pxsocs/warden/branches)[Tags](https://github.com/pxsocs/warden/tags)\n\n[](https://github.com/pxsocs/warden/branches)[](https://github.com/pxsocs/warden/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\nHistory\n-------\n\n[400 Commits](https://github.com/pxsocs/warden/commits/master/)\n\n[](https://github.com/pxsocs/warden/commits/master/)\n\n\n\n\n\n\n\n |\n| \n\n[warden](https://github.com/pxsocs/warden/tree/master/warden \"warden\")\n\n\n\n\n\n\n\n | \n\n[warden](https://github.com/pxsocs/warden/tree/master/warden \"warden\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[.gitignore](https://github.com/pxsocs/warden/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/pxsocs/warden/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[LICENSE](https://github.com/pxsocs/warden/blob/master/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[LICENSE](https://github.com/pxsocs/warden/blob/master/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[README.md](https://github.com/pxsocs/warden/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/pxsocs/warden/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[requirements.txt](https://github.com/pxsocs/warden/blob/master/requirements.txt \"requirements.txt\")\n\n\n\n\n\n\n\n | \n\n[requirements.txt](https://github.com/pxsocs/warden/blob/master/requirements.txt \"requirements.txt\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[warden.sh](https://github.com/pxsocs/warden/blob/master/warden.sh \"warden.sh\")\n\n\n\n\n\n\n\n | \n\n[warden.sh](https://github.com/pxsocs/warden/blob/master/warden.sh \"warden.sh\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/pxsocs/warden?screenshot=true#)\n*   [MIT license](https://github.com/pxsocs/warden?screenshot=true#)\n\nWelcome to the WARden\n=====================\n\n[](https://github.com/pxsocs/warden?screenshot=true#welcome-to-the-warden)\n\n[![Image 11: GitHub release](https://camo.githubusercontent.com/5e7e0b4725b658bd1dd959f4cf283360a8a1ea174d71f876a8d8c0cbaff58693/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f7078736f63732f77617264656e2e737667)](https://github.com/pxsocs/warden/releases/) [![Image 12: Open Source? Yes!](https://camo.githubusercontent.com/e37f7429b2afa6b69318ad278d15eec19a7ce4dbcbc830c7cb13f80cf79f95a8/68747470733a2f2f62616467656e2e6e65742f62616467652f4f70656e253230536f757263652532302533462f5965732532312f626c75653f69636f6e3d676974687562)](https://github.com/pxsocs/warden/releases/) [![Image 13: Powered by NGU](https://camo.githubusercontent.com/ddc359dc14cdfdc547875726639e8c494d22527872fa0cbc2e0d1a89d2c3a7ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f776572656425323062792d4e4755253230546563686e6f6c6f67792d6f72616e67652e737667)](https://bitcoin.org/)\n\n### Requirements:\n\n[](https://github.com/pxsocs/warden?screenshot=true#requirements)\n\n> 🐍 Python 3.7 or later\n\nThis app was built with a couple of goals:\n\n*   Easily track portfolio values;\n    \n*   Runs analytics on portfolio, including performance, cost basis and others;\n    \n*   Allows user to simulate different portfolio allocations and how Bitcoin would impact this allocation;\n    \n*   Track your Bitcoin node status;\n    \n*   Keep all data locally to improve privacy.\n    \n\nINSTALLATION\n============\n\n[](https://github.com/pxsocs/warden?screenshot=true#installation)\n\nThis will clone the repository, create a new virtual environment, install dependencies and start the application.\n\n```shell\ngit clone https://github.com/pxsocs/warden\ncd warden\npython3 -m venv .env\nsource .env/bin/activate\npython3 -m pip install -r requirements.txt\n```\n\nThen run the WARden server:\n\n```shell\npython3 warden\n```\n\nTo Upgrade:\n\n```shell\ngit pull origin master\n```\n\nScreenshot\n----------\n\n[](https://github.com/pxsocs/warden?screenshot=true#screenshot)\n\n[![Image 14: Screenshot](https://raw.githubusercontent.com/pxsocs/warden/master/warden/static/images/web_screen_shot.png)](https://raw.githubusercontent.com/pxsocs/warden/master/warden/static/images/web_screen_shot.png)\n\nThis is an Open Source project\n------------------------------\n\n[](https://github.com/pxsocs/warden?screenshot=true#this-is-an-open-source-project)\n\n[![Image 15: forthebadge made-with-python](https://camo.githubusercontent.com/b5fddb2cf8f63d5a0816750aa98ec214b824a4acd0c9160ba9c63cbbbbaacac3/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://www.python.org/)\n\nWe believe Open Source is the future of development for bitcoin. There is no other way when transparency and privacy are critical.\n\nThe code is not compiled and it can be easily audited. It can also be modified and distributed as anyone wishes.\n\nPrivacy\n-------\n\n[](https://github.com/pxsocs/warden?screenshot=true#privacy)\n\nMost portfolio tracking tools ask for personal information and may track your IP and other information. Our experience is that even those who say they don't, may have log files at their systems that do track your IP and could be easily linked to your data.\n\n### Troubleshooting\n\n[](https://github.com/pxsocs/warden?screenshot=true#troubleshooting)\n\n> If you get a message telling you that pip is not installed:\n\n```shell\nsudo apt-get -y install python3-pip\n```\n\n> If you get a message that git was not found:\n\n```shell\nsudo apt-get install git\n```\n\n**Please note that this is ALPHA software. There is no guarantee that the information and analytics are correct. Also expect no customer support. Issues are encouraged to be raised through GitHub but they will be answered on a best efforts basis.**\n\n> warden (wɔːʳdən )\n\n> A warden is responsible for making sure that the laws or regulations are obeyed.\n\nAbout\n-----\n\nWARden | Private Portfolio Tool\n\n### Resources\n\n[Readme](https://github.com/pxsocs/warden?screenshot=true#readme-ov-file)\n\n### License\n\n[MIT license](https://github.com/pxsocs/warden?screenshot=true#MIT-1-ov-file)\n\n[Activity](https://github.com/pxsocs/warden/activity)\n\n### Stars\n\n[**46** stars](https://github.com/pxsocs/warden/stargazers)\n\n### Watchers\n\n[**2** watching](https://github.com/pxsocs/warden/watchers)\n\n### Forks\n\n[**11** forks](https://github.com/pxsocs/warden/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fpxsocs%2Fwarden&report=pxsocs+%28user%29)\n\n[Releases 7](https://github.com/pxsocs/warden/releases)\n-------------------------------------------------------\n\n[v0.99 released Latest May 1, 2022](https://github.com/pxsocs/warden/releases/tag/0.99)\n\n[\\+ 6 releases](https://github.com/pxsocs/warden/releases)\n\n[Packages 0](https://github.com/users/pxsocs/packages?repo_name=warden)\n-----------------------------------------------------------------------\n\nNo packages published  \n\n[Contributors 3](https://github.com/pxsocs/warden/graphs/contributors)\n----------------------------------------------------------------------\n\n   \n\nLanguages\n---------\n\n*   [Python 36.4%](https://github.com/pxsocs/warden/search?l=python)\n*   [JavaScript 36.1%](https://github.com/pxsocs/warden/search?l=javascript)\n*   [HTML 24.3%](https://github.com/pxsocs/warden/search?l=html)\n*   [CSS 3.0%](https://github.com/pxsocs/warden/search?l=css)\n*   [Shell 0.2%](https://github.com/pxsocs/warden/search?l=shell)\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 4201
+  }
+}
+```

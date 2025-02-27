@@ -1,0 +1,756 @@
+Introduction | Cube Docs
+===============
+    
+
+[](https://cube.dev/)
+
+1.1.15
+
+[DocumentationDocumentation](https://cube.dev/docs/product/introduction)[ReferenceReference](https://cube.dev/docs/reference/configuration/config)[GuidesGuides](https://cube.dev/docs/guides/recipes/analytics/active-users)[GitHub (opens in a new tab)](https://github.com/cube-js/cube)[(opens in a new tab)](https://slack.cube.dev/)
+
+[Try Cube for Free](https://cubecloud.dev/auth/signup?utm_source=docs&utm_medium=site&UTM_Publisher=Cube)
+
+*   [Introduction](https://cube.dev/docs/product/introduction)
+*   [Getting started](https://cube.dev/docs/product/getting-started)
+    
+    *   [Cube Cloud and Snowflake](https://cube.dev/docs/product/getting-started/cloud)
+        
+        *   [Load data](https://cube.dev/docs/product/getting-started/cloud/load-data)
+        *   [Connect to Snowflake](https://cube.dev/docs/product/getting-started/cloud/connect-to-snowflake)
+        *   [Create data model](https://cube.dev/docs/product/getting-started/cloud/create-data-model)
+        *   [Query from BI](https://cube.dev/docs/product/getting-started/cloud/query-from-bi)
+        *   [Query from React](https://cube.dev/docs/product/getting-started/cloud/query-from-react-app)
+        
+    *   [Cube Cloud and Databricks](https://cube.dev/docs/product/getting-started/databricks)
+        
+        *   [Load data](https://cube.dev/docs/product/getting-started/databricks/load-data)
+        *   [Connect to Databricks](https://cube.dev/docs/product/getting-started/databricks/connect-to-databricks)
+        *   [Create data model](https://cube.dev/docs/product/getting-started/databricks/create-data-model)
+        *   [Query from BI](https://cube.dev/docs/product/getting-started/databricks/query-from-bi)
+        *   [Query from React](https://cube.dev/docs/product/getting-started/databricks/query-from-react-app)
+        
+    *   [Cube Core](https://cube.dev/docs/product/getting-started/core)
+        
+        *   [Create a project](https://cube.dev/docs/product/getting-started/core/create-a-project)
+        *   [Query data](https://cube.dev/docs/product/getting-started/core/query-data)
+        *   [Add a pre-aggregation](https://cube.dev/docs/product/getting-started/core/add-a-pre-aggregation)
+        *   [Learn more](https://cube.dev/docs/product/getting-started/core/learn-more)
+        
+    *   Migrate from Cube Core
+        
+        *   [Upload with CLI](https://cube.dev/docs/product/getting-started/migrate-from-core/upload-with-cli)
+        *   [Import a GitLab repository](https://cube.dev/docs/product/getting-started/migrate-from-core/import-gitlab-repository-via-ssh)
+        *   [Import a GitHub repository](https://cube.dev/docs/product/getting-started/migrate-from-core/import-github-repository)
+        *   [Import a Git repository](https://cube.dev/docs/product/getting-started/migrate-from-core/import-git-repository-via-ssh)
+        *   [Import a Bitbucket repository](https://cube.dev/docs/product/getting-started/migrate-from-core/import-bitbucket-repository-via-ssh)
+        
+    
+*   [Configuration](https://cube.dev/docs/product/configuration)
+    
+    *   [Data sources](https://cube.dev/docs/product/configuration/data-sources)
+        
+        *   [Amazon Athena](https://cube.dev/docs/product/configuration/data-sources/aws-athena)
+        *   [Amazon Redshift](https://cube.dev/docs/product/configuration/data-sources/aws-redshift)
+        *   [Apache Pinot](https://cube.dev/docs/product/configuration/data-sources/pinot)
+        *   [ClickHouse](https://cube.dev/docs/product/configuration/data-sources/clickhouse)
+        *   [Databricks](https://cube.dev/docs/product/configuration/data-sources/databricks-jdbc)
+        *   [Druid](https://cube.dev/docs/product/configuration/data-sources/druid)
+        *   [DuckDB / MotherDuck](https://cube.dev/docs/product/configuration/data-sources/duckdb)
+        *   [Elasticsearch](https://cube.dev/docs/product/configuration/data-sources/elasticsearch)
+        *   [Firebolt](https://cube.dev/docs/product/configuration/data-sources/firebolt)
+        *   [Google BigQuery](https://cube.dev/docs/product/configuration/data-sources/google-bigquery)
+        *   [Hive / SparkSQL](https://cube.dev/docs/product/configuration/data-sources/hive)
+        *   [ksqlDB](https://cube.dev/docs/product/configuration/data-sources/ksqldb)
+        *   [Materialize](https://cube.dev/docs/product/configuration/data-sources/materialize)
+        *   [Microsoft Fabric](https://cube.dev/docs/product/configuration/data-sources/ms-fabric)
+        *   [Microsoft SQL Server](https://cube.dev/docs/product/configuration/data-sources/ms-sql)
+        *   [MongoDB](https://cube.dev/docs/product/configuration/data-sources/mongodb)
+        *   [MySQL](https://cube.dev/docs/product/configuration/data-sources/mysql)
+        *   [Oracle](https://cube.dev/docs/product/configuration/data-sources/oracle)
+        *   [Postgres](https://cube.dev/docs/product/configuration/data-sources/postgres)
+        *   [Presto](https://cube.dev/docs/product/configuration/data-sources/presto)
+        *   [QuestDB](https://cube.dev/docs/product/configuration/data-sources/questdb)
+        *   [RisingWave](https://cube.dev/docs/product/configuration/data-sources/risingwave)
+        *   [SingleStore](https://cube.dev/docs/product/configuration/data-sources/singlestore)
+        *   [Snowflake](https://cube.dev/docs/product/configuration/data-sources/snowflake)
+        *   [SQLite](https://cube.dev/docs/product/configuration/data-sources/sqlite)
+        *   [Trino](https://cube.dev/docs/product/configuration/data-sources/trino)
+        *   [Vertica](https://cube.dev/docs/product/configuration/data-sources/vertica)
+        
+    *   [Visualization tools](https://cube.dev/docs/product/configuration/visualization-tools)
+        
+        *   [Appsmith](https://cube.dev/docs/product/configuration/visualization-tools/appsmith)
+        *   [Bubble](https://cube.dev/docs/product/configuration/visualization-tools/bubble)
+        *   [Budibase](https://cube.dev/docs/product/configuration/visualization-tools/budibase)
+        *   [Deepnote](https://cube.dev/docs/product/configuration/visualization-tools/deepnote)
+        *   [Excel](https://cube.dev/docs/product/configuration/visualization-tools/excel)
+        *   [Explo](https://cube.dev/docs/product/configuration/visualization-tools/explo)
+        *   [Google Sheets](https://cube.dev/docs/product/configuration/visualization-tools/google-sheets)
+        *   [Hashboard](https://cube.dev/docs/product/configuration/visualization-tools/hashboard)
+        *   [Hex](https://cube.dev/docs/product/configuration/visualization-tools/hex)
+        *   [Hightouch](https://cube.dev/docs/product/configuration/visualization-tools/hightouch)
+        *   [Jupyter](https://cube.dev/docs/product/configuration/visualization-tools/jupyter)
+        *   [Klipfolio](https://cube.dev/docs/product/configuration/visualization-tools/klipfolio)
+        *   [LangChain](https://cube.dev/docs/product/configuration/visualization-tools/langchain)
+        *   [Looker Studio](https://cube.dev/docs/product/configuration/visualization-tools/looker-studio)
+        *   [Metabase](https://cube.dev/docs/product/configuration/visualization-tools/metabase)
+        *   [Observable](https://cube.dev/docs/product/configuration/visualization-tools/observable)
+        *   [Power BI](https://cube.dev/docs/product/configuration/visualization-tools/powerbi)
+        *   [Push.ai](https://cube.dev/docs/product/configuration/visualization-tools/push-ai)
+        *   [Qlik Sense](https://cube.dev/docs/product/configuration/visualization-tools/qlik-sense)
+        *   [QuickSight](https://cube.dev/docs/product/configuration/visualization-tools/quicksight)
+        *   [Retool](https://cube.dev/docs/product/configuration/visualization-tools/retool)
+        *   [RudderStack](https://cube.dev/docs/product/configuration/visualization-tools/rudderstack)
+        *   [Sigma](https://cube.dev/docs/product/configuration/visualization-tools/sigma)
+        *   [Steep](https://cube.dev/docs/product/configuration/visualization-tools/steep)
+        *   [Streamlit](https://cube.dev/docs/product/configuration/visualization-tools/streamlit)
+        *   [Superset / Preset](https://cube.dev/docs/product/configuration/visualization-tools/superset)
+        *   [Tableau](https://cube.dev/docs/product/configuration/visualization-tools/tableau)
+        *   [ThoughtSpot](https://cube.dev/docs/product/configuration/visualization-tools/thoughtspot)
+        *   [Unity Catalog](https://cube.dev/docs/product/configuration/visualization-tools/unity-catalog)
+        
+    *   Advanced
+        
+        *   [Multiple Data Sources](https://cube.dev/docs/product/configuration/advanced/multiple-data-sources)
+        *   [Multitenancy](https://cube.dev/docs/product/configuration/advanced/multitenancy)
+        
+    
+*   Data modeling
+    
+    *   [Overview](https://cube.dev/docs/product/data-modeling/overview)
+    *   [Concepts](https://cube.dev/docs/product/data-modeling/concepts)
+        
+        *   [Publicity](https://cube.dev/docs/product/data-modeling/concepts/publicity)
+        *   [Calculated members](https://cube.dev/docs/product/data-modeling/concepts/calculated-members)
+        *   [Extending cubes](https://cube.dev/docs/product/data-modeling/concepts/code-reusability-extending-cubes)
+        *   [Polymorphic cubes](https://cube.dev/docs/product/data-modeling/concepts/polymorphic-cubes)
+        *   [Data blending](https://cube.dev/docs/product/data-modeling/concepts/data-blending)
+        *   [Working with joins](https://cube.dev/docs/product/data-modeling/concepts/working-with-joins)
+        
+    *   [Syntax](https://cube.dev/docs/product/data-modeling/syntax)
+    *   [Dynamic data models](https://cube.dev/docs/product/data-modeling/dynamic)
+        
+        *   [Dynamic data models with Jinja and Python](https://cube.dev/docs/product/data-modeling/dynamic/jinja)
+        *   [Dynamic data models with JavaScript](https://cube.dev/docs/product/data-modeling/dynamic/javascript)
+        *   [Export and import](https://cube.dev/docs/product/data-modeling/dynamic/code-reusability-export-and-import)
+        *   [Execution environment (JavaScript models)](https://cube.dev/docs/product/data-modeling/dynamic/schema-execution-environment)
+        
+    
+*   [Caching](https://cube.dev/docs/product/caching)
+    
+    *   [Getting started with pre-aggregations](https://cube.dev/docs/product/caching/getting-started-pre-aggregations)
+    *   [Using pre-aggregations](https://cube.dev/docs/product/caching/using-pre-aggregations)
+    *   [Matching pre-aggregations](https://cube.dev/docs/product/caching/matching-pre-aggregations)
+    *   [Lambda pre-aggregations](https://cube.dev/docs/product/caching/lambda-pre-aggregations)
+    *   [Running in production](https://cube.dev/docs/product/caching/running-in-production)
+    
+*   [Authentication & authorization](https://cube.dev/docs/product/auth)
+    
+    *   [Security context](https://cube.dev/docs/product/auth/context)
+    
+*   [APIs & integrations](https://cube.dev/docs/product/apis-integrations)
+    
+    *   [Queries](https://cube.dev/docs/product/apis-integrations/queries)
+    *   [Semantic Layer Sync](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync)
+        
+        *   [Apache Superset](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync/superset)
+        *   [Metabase](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync/metabase)
+        *   [Power BI](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync/power-bi)
+        *   [Preset](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync/preset)
+        *   [Tableau](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync/tableau)
+        
+    *   [SQL API](https://cube.dev/docs/product/apis-integrations/sql-api)
+        
+        *   [Query format](https://cube.dev/docs/product/apis-integrations/sql-api/query-format)
+        *   [Joins](https://cube.dev/docs/product/apis-integrations/sql-api/joins)
+        *   [Authentication and Authorization](https://cube.dev/docs/product/apis-integrations/sql-api/security)
+        
+    *   [REST API](https://cube.dev/docs/product/apis-integrations/rest-api)
+        
+        *   [Query format](https://cube.dev/docs/product/apis-integrations/rest-api/query-format)
+        *   [Real-Time data fetch](https://cube.dev/docs/product/apis-integrations/rest-api/real-time-data-fetch)
+        
+    *   [GraphQL API](https://cube.dev/docs/product/apis-integrations/graphql-api)
+    *   [MDX API](https://cube.dev/docs/product/apis-integrations/mdx-api)
+    *   [Cube Cloud for Sheets](https://cube.dev/docs/product/apis-integrations/google-sheets)
+    *   [AI API](https://cube.dev/docs/product/apis-integrations/ai-api)
+        
+        *   [Privacy and Security](https://cube.dev/docs/product/apis-integrations/ai-api/privacy-security)
+        
+    *   [JavaScript SDK](https://cube.dev/docs/product/apis-integrations/javascript-sdk)
+        
+        *   [React](https://cube.dev/docs/product/apis-integrations/javascript-sdk/react)
+        *   [Vue](https://cube.dev/docs/product/apis-integrations/javascript-sdk/vue)
+        *   [Angular](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular)
+        
+    *   [Orchestration API](https://cube.dev/docs/product/apis-integrations/orchestration-api)
+        
+        *   [Airflow](https://cube.dev/docs/product/apis-integrations/orchestration-api/airflow)
+        *   [Dagster](https://cube.dev/docs/product/apis-integrations/orchestration-api/dagster)
+        *   [Prefect](https://cube.dev/docs/product/apis-integrations/orchestration-api/prefect)
+        
+    
+*   [Workspace](https://cube.dev/docs/product/workspace)
+    
+    *   [Playground](https://cube.dev/docs/product/workspace/playground)
+    *   [Chart Prototyping](https://cube.dev/docs/product/workspace/vizard)
+    *   [Data Model](https://cube.dev/docs/product/workspace/data-model)
+    *   [Visual Modeler](https://cube.dev/docs/product/workspace/visual-modeler)
+    *   [Rollup Designer](https://cube.dev/docs/product/workspace/rollup-designer)
+    *   [Development mode](https://cube.dev/docs/product/workspace/dev-mode)
+    *   [Environments](https://cube.dev/docs/product/workspace/environments)
+    *   [Integrations](https://cube.dev/docs/product/workspace/integrations)
+    *   [SQL Runner](https://cube.dev/docs/product/workspace/sql-runner)
+    *   [Query History](https://cube.dev/docs/product/workspace/query-history)
+    *   [Pre-aggregations](https://cube.dev/docs/product/workspace/pre-aggregations)
+    *   [Performance Insights](https://cube.dev/docs/product/workspace/performance)
+    *   [Monitoring Integrations](https://cube.dev/docs/product/workspace/monitoring)
+        
+        *   [Amazon CloudWatch](https://cube.dev/docs/product/workspace/monitoring/cloudwatch)
+        *   [Amazon S3](https://cube.dev/docs/product/workspace/monitoring/s3)
+        *   [Datadog](https://cube.dev/docs/product/workspace/monitoring/datadog)
+        *   [Grafana Cloud](https://cube.dev/docs/product/workspace/monitoring/grafana-cloud)
+        *   [New Relic](https://cube.dev/docs/product/workspace/monitoring/new-relic)
+        
+    *   [Access Control](https://cube.dev/docs/product/workspace/access-control)
+    *   [Single Sign-on](https://cube.dev/docs/product/workspace/sso)
+        
+        *   [Google Workspace](https://cube.dev/docs/product/workspace/sso/google-workspace)
+        *   [Microsoft Entra ID](https://cube.dev/docs/product/workspace/sso/microsoft-entra-id)
+        *   [Okta](https://cube.dev/docs/product/workspace/sso/okta)
+        
+    *   [Audit Log](https://cube.dev/docs/product/workspace/audit-log)
+    *   [Encryption keys](https://cube.dev/docs/product/workspace/encryption-keys)
+    *   [Budgets](https://cube.dev/docs/product/workspace/budgets)
+    *   [Preferences](https://cube.dev/docs/product/workspace/preferences)
+    *   [CLI](https://cube.dev/docs/product/workspace/cli)
+    *   [AI Assistant](https://cube.dev/docs/product/workspace/ai-assistant)
+    *   [Semantic Catalog](https://cube.dev/docs/product/workspace/semantic-catalog)
+    
+*   [Deployment](https://cube.dev/docs/product/deployment)
+    
+    *   [Production checklist](https://cube.dev/docs/product/deployment/production-checklist)
+    *   [Cube Cloud](https://cube.dev/docs/product/deployment/cloud)
+        
+        *   [Cloud providers](https://cube.dev/docs/product/deployment/cloud/providers)
+            
+            *   [AWS](https://cube.dev/docs/product/deployment/cloud/providers/aws)
+            *   [GCP](https://cube.dev/docs/product/deployment/cloud/providers/gcp)
+            *   [Azure](https://cube.dev/docs/product/deployment/cloud/providers/azure)
+            
+        *   [Infrastructure options](https://cube.dev/docs/product/deployment/cloud/infrastructure)
+        *   [VPC](https://cube.dev/docs/product/deployment/cloud/vpc)
+            
+            *   [AWS](https://cube.dev/docs/product/deployment/cloud/vpc/aws)
+            *   [GCP](https://cube.dev/docs/product/deployment/cloud/vpc/gcp)
+            *   [Azure](https://cube.dev/docs/product/deployment/cloud/vpc/azure)
+            
+        *   [BYOC](https://cube.dev/docs/product/deployment/cloud/byoc)
+            
+            *   [AWS](https://cube.dev/docs/product/deployment/cloud/byoc/aws)
+            
+        *   [Deployments](https://cube.dev/docs/product/deployment/cloud/deployments)
+        *   [Deployment types](https://cube.dev/docs/product/deployment/cloud/deployment-types)
+        *   [Continuous deployment](https://cube.dev/docs/product/deployment/cloud/continuous-deployment)
+        *   [Custom domains](https://cube.dev/docs/product/deployment/cloud/custom-domains)
+        *   [Deployment warm-up](https://cube.dev/docs/product/deployment/cloud/warm-up)
+        *   [Auto-suspension](https://cube.dev/docs/product/deployment/cloud/auto-suspension)
+        *   [Scalability](https://cube.dev/docs/product/deployment/cloud/scalability)
+        *   [Pricing](https://cube.dev/docs/product/deployment/cloud/pricing)
+        *   [Support](https://cube.dev/docs/product/deployment/cloud/support)
+        *   [Limits](https://cube.dev/docs/product/deployment/cloud/limits)
+        
+    *   [Cube Core](https://cube.dev/docs/product/deployment/core)
+    
+*   [Distribution](https://cube.dev/docs/product/distribution)
+*   FAQs
+    
+    *   [General](https://cube.dev/docs/product/faqs/general)
+    *   [Tips and Tricks](https://cube.dev/docs/product/faqs/tips-and-tricks)
+    *   [Troubleshooting](https://cube.dev/docs/product/faqs/troubleshooting)
+    
+
+*   Documentation
+    
+    *   [Introduction](https://cube.dev/docs/product/introduction)
+        *   [Code-first](https://cube.dev/examples#code-first)
+        *   [Four layers of semantic layer](https://cube.dev/examples#four-layers-of-semantic-layer)
+    *   [Getting started](https://cube.dev/docs/product/getting-started)
+        
+        *   [Cube Cloud and Snowflake](https://cube.dev/docs/product/getting-started/cloud)
+            
+            *   [Load data](https://cube.dev/docs/product/getting-started/cloud/load-data)
+            *   [Connect to Snowflake](https://cube.dev/docs/product/getting-started/cloud/connect-to-snowflake)
+            *   [Create data model](https://cube.dev/docs/product/getting-started/cloud/create-data-model)
+            *   [Query from BI](https://cube.dev/docs/product/getting-started/cloud/query-from-bi)
+            *   [Query from React](https://cube.dev/docs/product/getting-started/cloud/query-from-react-app)
+            
+        *   [Cube Cloud and Databricks](https://cube.dev/docs/product/getting-started/databricks)
+            
+            *   [Load data](https://cube.dev/docs/product/getting-started/databricks/load-data)
+            *   [Connect to Databricks](https://cube.dev/docs/product/getting-started/databricks/connect-to-databricks)
+            *   [Create data model](https://cube.dev/docs/product/getting-started/databricks/create-data-model)
+            *   [Query from BI](https://cube.dev/docs/product/getting-started/databricks/query-from-bi)
+            *   [Query from React](https://cube.dev/docs/product/getting-started/databricks/query-from-react-app)
+            
+        *   [Cube Core](https://cube.dev/docs/product/getting-started/core)
+            
+            *   [Create a project](https://cube.dev/docs/product/getting-started/core/create-a-project)
+            *   [Query data](https://cube.dev/docs/product/getting-started/core/query-data)
+            *   [Add a pre-aggregation](https://cube.dev/docs/product/getting-started/core/add-a-pre-aggregation)
+            *   [Learn more](https://cube.dev/docs/product/getting-started/core/learn-more)
+            
+        *   Migrate from Cube Core
+            
+            *   [Upload with CLI](https://cube.dev/docs/product/getting-started/migrate-from-core/upload-with-cli)
+            *   [Import a GitLab repository](https://cube.dev/docs/product/getting-started/migrate-from-core/import-gitlab-repository-via-ssh)
+            *   [Import a GitHub repository](https://cube.dev/docs/product/getting-started/migrate-from-core/import-github-repository)
+            *   [Import a Git repository](https://cube.dev/docs/product/getting-started/migrate-from-core/import-git-repository-via-ssh)
+            *   [Import a Bitbucket repository](https://cube.dev/docs/product/getting-started/migrate-from-core/import-bitbucket-repository-via-ssh)
+            
+        
+    *   [Configuration](https://cube.dev/docs/product/configuration)
+        
+        *   [Data sources](https://cube.dev/docs/product/configuration/data-sources)
+            
+            *   [Amazon Athena](https://cube.dev/docs/product/configuration/data-sources/aws-athena)
+            *   [Amazon Redshift](https://cube.dev/docs/product/configuration/data-sources/aws-redshift)
+            *   [Apache Pinot](https://cube.dev/docs/product/configuration/data-sources/pinot)
+            *   [ClickHouse](https://cube.dev/docs/product/configuration/data-sources/clickhouse)
+            *   [Databricks](https://cube.dev/docs/product/configuration/data-sources/databricks-jdbc)
+            *   [Druid](https://cube.dev/docs/product/configuration/data-sources/druid)
+            *   [DuckDB / MotherDuck](https://cube.dev/docs/product/configuration/data-sources/duckdb)
+            *   [Elasticsearch](https://cube.dev/docs/product/configuration/data-sources/elasticsearch)
+            *   [Firebolt](https://cube.dev/docs/product/configuration/data-sources/firebolt)
+            *   [Google BigQuery](https://cube.dev/docs/product/configuration/data-sources/google-bigquery)
+            *   [Hive / SparkSQL](https://cube.dev/docs/product/configuration/data-sources/hive)
+            *   [ksqlDB](https://cube.dev/docs/product/configuration/data-sources/ksqldb)
+            *   [Materialize](https://cube.dev/docs/product/configuration/data-sources/materialize)
+            *   [Microsoft Fabric](https://cube.dev/docs/product/configuration/data-sources/ms-fabric)
+            *   [Microsoft SQL Server](https://cube.dev/docs/product/configuration/data-sources/ms-sql)
+            *   [MongoDB](https://cube.dev/docs/product/configuration/data-sources/mongodb)
+            *   [MySQL](https://cube.dev/docs/product/configuration/data-sources/mysql)
+            *   [Oracle](https://cube.dev/docs/product/configuration/data-sources/oracle)
+            *   [Postgres](https://cube.dev/docs/product/configuration/data-sources/postgres)
+            *   [Presto](https://cube.dev/docs/product/configuration/data-sources/presto)
+            *   [QuestDB](https://cube.dev/docs/product/configuration/data-sources/questdb)
+            *   [RisingWave](https://cube.dev/docs/product/configuration/data-sources/risingwave)
+            *   [SingleStore](https://cube.dev/docs/product/configuration/data-sources/singlestore)
+            *   [Snowflake](https://cube.dev/docs/product/configuration/data-sources/snowflake)
+            *   [SQLite](https://cube.dev/docs/product/configuration/data-sources/sqlite)
+            *   [Trino](https://cube.dev/docs/product/configuration/data-sources/trino)
+            *   [Vertica](https://cube.dev/docs/product/configuration/data-sources/vertica)
+            
+        *   [Visualization tools](https://cube.dev/docs/product/configuration/visualization-tools)
+            
+            *   [Appsmith](https://cube.dev/docs/product/configuration/visualization-tools/appsmith)
+            *   [Bubble](https://cube.dev/docs/product/configuration/visualization-tools/bubble)
+            *   [Budibase](https://cube.dev/docs/product/configuration/visualization-tools/budibase)
+            *   [Deepnote](https://cube.dev/docs/product/configuration/visualization-tools/deepnote)
+            *   [Excel](https://cube.dev/docs/product/configuration/visualization-tools/excel)
+            *   [Explo](https://cube.dev/docs/product/configuration/visualization-tools/explo)
+            *   [Google Sheets](https://cube.dev/docs/product/configuration/visualization-tools/google-sheets)
+            *   [Hashboard](https://cube.dev/docs/product/configuration/visualization-tools/hashboard)
+            *   [Hex](https://cube.dev/docs/product/configuration/visualization-tools/hex)
+            *   [Hightouch](https://cube.dev/docs/product/configuration/visualization-tools/hightouch)
+            *   [Jupyter](https://cube.dev/docs/product/configuration/visualization-tools/jupyter)
+            *   [Klipfolio](https://cube.dev/docs/product/configuration/visualization-tools/klipfolio)
+            *   [LangChain](https://cube.dev/docs/product/configuration/visualization-tools/langchain)
+            *   [Looker Studio](https://cube.dev/docs/product/configuration/visualization-tools/looker-studio)
+            *   [Metabase](https://cube.dev/docs/product/configuration/visualization-tools/metabase)
+            *   [Observable](https://cube.dev/docs/product/configuration/visualization-tools/observable)
+            *   [Power BI](https://cube.dev/docs/product/configuration/visualization-tools/powerbi)
+            *   [Push.ai](https://cube.dev/docs/product/configuration/visualization-tools/push-ai)
+            *   [Qlik Sense](https://cube.dev/docs/product/configuration/visualization-tools/qlik-sense)
+            *   [QuickSight](https://cube.dev/docs/product/configuration/visualization-tools/quicksight)
+            *   [Retool](https://cube.dev/docs/product/configuration/visualization-tools/retool)
+            *   [RudderStack](https://cube.dev/docs/product/configuration/visualization-tools/rudderstack)
+            *   [Sigma](https://cube.dev/docs/product/configuration/visualization-tools/sigma)
+            *   [Steep](https://cube.dev/docs/product/configuration/visualization-tools/steep)
+            *   [Streamlit](https://cube.dev/docs/product/configuration/visualization-tools/streamlit)
+            *   [Superset / Preset](https://cube.dev/docs/product/configuration/visualization-tools/superset)
+            *   [Tableau](https://cube.dev/docs/product/configuration/visualization-tools/tableau)
+            *   [ThoughtSpot](https://cube.dev/docs/product/configuration/visualization-tools/thoughtspot)
+            *   [Unity Catalog](https://cube.dev/docs/product/configuration/visualization-tools/unity-catalog)
+            
+        *   Advanced
+            
+            *   [Multiple Data Sources](https://cube.dev/docs/product/configuration/advanced/multiple-data-sources)
+            *   [Multitenancy](https://cube.dev/docs/product/configuration/advanced/multitenancy)
+            
+        
+    *   Data modeling
+        
+        *   [Overview](https://cube.dev/docs/product/data-modeling/overview)
+        *   [Concepts](https://cube.dev/docs/product/data-modeling/concepts)
+            
+            *   [Publicity](https://cube.dev/docs/product/data-modeling/concepts/publicity)
+            *   [Calculated members](https://cube.dev/docs/product/data-modeling/concepts/calculated-members)
+            *   [Extending cubes](https://cube.dev/docs/product/data-modeling/concepts/code-reusability-extending-cubes)
+            *   [Polymorphic cubes](https://cube.dev/docs/product/data-modeling/concepts/polymorphic-cubes)
+            *   [Data blending](https://cube.dev/docs/product/data-modeling/concepts/data-blending)
+            *   [Working with joins](https://cube.dev/docs/product/data-modeling/concepts/working-with-joins)
+            
+        *   [Syntax](https://cube.dev/docs/product/data-modeling/syntax)
+        *   [Dynamic data models](https://cube.dev/docs/product/data-modeling/dynamic)
+            
+            *   [Dynamic data models with Jinja and Python](https://cube.dev/docs/product/data-modeling/dynamic/jinja)
+            *   [Dynamic data models with JavaScript](https://cube.dev/docs/product/data-modeling/dynamic/javascript)
+            *   [Export and import](https://cube.dev/docs/product/data-modeling/dynamic/code-reusability-export-and-import)
+            *   [Execution environment (JavaScript models)](https://cube.dev/docs/product/data-modeling/dynamic/schema-execution-environment)
+            
+        
+    *   [Caching](https://cube.dev/docs/product/caching)
+        
+        *   [Getting started with pre-aggregations](https://cube.dev/docs/product/caching/getting-started-pre-aggregations)
+        *   [Using pre-aggregations](https://cube.dev/docs/product/caching/using-pre-aggregations)
+        *   [Matching pre-aggregations](https://cube.dev/docs/product/caching/matching-pre-aggregations)
+        *   [Lambda pre-aggregations](https://cube.dev/docs/product/caching/lambda-pre-aggregations)
+        *   [Running in production](https://cube.dev/docs/product/caching/running-in-production)
+        
+    *   [Authentication & authorization](https://cube.dev/docs/product/auth)
+        
+        *   [Security context](https://cube.dev/docs/product/auth/context)
+        
+    *   [APIs & integrations](https://cube.dev/docs/product/apis-integrations)
+        
+        *   [Queries](https://cube.dev/docs/product/apis-integrations/queries)
+        *   [Semantic Layer Sync](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync)
+            
+            *   [Apache Superset](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync/superset)
+            *   [Metabase](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync/metabase)
+            *   [Power BI](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync/power-bi)
+            *   [Preset](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync/preset)
+            *   [Tableau](https://cube.dev/docs/product/apis-integrations/semantic-layer-sync/tableau)
+            
+        *   [SQL API](https://cube.dev/docs/product/apis-integrations/sql-api)
+            
+            *   [Query format](https://cube.dev/docs/product/apis-integrations/sql-api/query-format)
+            *   [Joins](https://cube.dev/docs/product/apis-integrations/sql-api/joins)
+            *   [Authentication and Authorization](https://cube.dev/docs/product/apis-integrations/sql-api/security)
+            
+        *   [REST API](https://cube.dev/docs/product/apis-integrations/rest-api)
+            
+            *   [Query format](https://cube.dev/docs/product/apis-integrations/rest-api/query-format)
+            *   [Real-Time data fetch](https://cube.dev/docs/product/apis-integrations/rest-api/real-time-data-fetch)
+            
+        *   [GraphQL API](https://cube.dev/docs/product/apis-integrations/graphql-api)
+        *   [MDX API](https://cube.dev/docs/product/apis-integrations/mdx-api)
+        *   [Cube Cloud for Sheets](https://cube.dev/docs/product/apis-integrations/google-sheets)
+        *   [AI API](https://cube.dev/docs/product/apis-integrations/ai-api)
+            
+            *   [Privacy and Security](https://cube.dev/docs/product/apis-integrations/ai-api/privacy-security)
+            
+        *   [JavaScript SDK](https://cube.dev/docs/product/apis-integrations/javascript-sdk)
+            
+            *   [React](https://cube.dev/docs/product/apis-integrations/javascript-sdk/react)
+            *   [Vue](https://cube.dev/docs/product/apis-integrations/javascript-sdk/vue)
+            *   [Angular](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular)
+            
+        *   [Orchestration API](https://cube.dev/docs/product/apis-integrations/orchestration-api)
+            
+            *   [Airflow](https://cube.dev/docs/product/apis-integrations/orchestration-api/airflow)
+            *   [Dagster](https://cube.dev/docs/product/apis-integrations/orchestration-api/dagster)
+            *   [Prefect](https://cube.dev/docs/product/apis-integrations/orchestration-api/prefect)
+            
+        
+    *   [Workspace](https://cube.dev/docs/product/workspace)
+        
+        *   [Playground](https://cube.dev/docs/product/workspace/playground)
+        *   [Chart Prototyping](https://cube.dev/docs/product/workspace/vizard)
+        *   [Data Model](https://cube.dev/docs/product/workspace/data-model)
+        *   [Visual Modeler](https://cube.dev/docs/product/workspace/visual-modeler)
+        *   [Rollup Designer](https://cube.dev/docs/product/workspace/rollup-designer)
+        *   [Development mode](https://cube.dev/docs/product/workspace/dev-mode)
+        *   [Environments](https://cube.dev/docs/product/workspace/environments)
+        *   [Integrations](https://cube.dev/docs/product/workspace/integrations)
+        *   [SQL Runner](https://cube.dev/docs/product/workspace/sql-runner)
+        *   [Query History](https://cube.dev/docs/product/workspace/query-history)
+        *   [Pre-aggregations](https://cube.dev/docs/product/workspace/pre-aggregations)
+        *   [Performance Insights](https://cube.dev/docs/product/workspace/performance)
+        *   [Monitoring Integrations](https://cube.dev/docs/product/workspace/monitoring)
+            
+            *   [Amazon CloudWatch](https://cube.dev/docs/product/workspace/monitoring/cloudwatch)
+            *   [Amazon S3](https://cube.dev/docs/product/workspace/monitoring/s3)
+            *   [Datadog](https://cube.dev/docs/product/workspace/monitoring/datadog)
+            *   [Grafana Cloud](https://cube.dev/docs/product/workspace/monitoring/grafana-cloud)
+            *   [New Relic](https://cube.dev/docs/product/workspace/monitoring/new-relic)
+            
+        *   [Access Control](https://cube.dev/docs/product/workspace/access-control)
+        *   [Single Sign-on](https://cube.dev/docs/product/workspace/sso)
+            
+            *   [Google Workspace](https://cube.dev/docs/product/workspace/sso/google-workspace)
+            *   [Microsoft Entra ID](https://cube.dev/docs/product/workspace/sso/microsoft-entra-id)
+            *   [Okta](https://cube.dev/docs/product/workspace/sso/okta)
+            
+        *   [Audit Log](https://cube.dev/docs/product/workspace/audit-log)
+        *   [Encryption keys](https://cube.dev/docs/product/workspace/encryption-keys)
+        *   [Budgets](https://cube.dev/docs/product/workspace/budgets)
+        *   [Preferences](https://cube.dev/docs/product/workspace/preferences)
+        *   [CLI](https://cube.dev/docs/product/workspace/cli)
+        *   [AI Assistant](https://cube.dev/docs/product/workspace/ai-assistant)
+        *   [Semantic Catalog](https://cube.dev/docs/product/workspace/semantic-catalog)
+        
+    *   [Deployment](https://cube.dev/docs/product/deployment)
+        
+        *   [Production checklist](https://cube.dev/docs/product/deployment/production-checklist)
+        *   [Cube Cloud](https://cube.dev/docs/product/deployment/cloud)
+            
+            *   [Cloud providers](https://cube.dev/docs/product/deployment/cloud/providers)
+                
+                *   [AWS](https://cube.dev/docs/product/deployment/cloud/providers/aws)
+                *   [GCP](https://cube.dev/docs/product/deployment/cloud/providers/gcp)
+                *   [Azure](https://cube.dev/docs/product/deployment/cloud/providers/azure)
+                
+            *   [Infrastructure options](https://cube.dev/docs/product/deployment/cloud/infrastructure)
+            *   [VPC](https://cube.dev/docs/product/deployment/cloud/vpc)
+                
+                *   [AWS](https://cube.dev/docs/product/deployment/cloud/vpc/aws)
+                *   [GCP](https://cube.dev/docs/product/deployment/cloud/vpc/gcp)
+                *   [Azure](https://cube.dev/docs/product/deployment/cloud/vpc/azure)
+                
+            *   [BYOC](https://cube.dev/docs/product/deployment/cloud/byoc)
+                
+                *   [AWS](https://cube.dev/docs/product/deployment/cloud/byoc/aws)
+                
+            *   [Deployments](https://cube.dev/docs/product/deployment/cloud/deployments)
+            *   [Deployment types](https://cube.dev/docs/product/deployment/cloud/deployment-types)
+            *   [Continuous deployment](https://cube.dev/docs/product/deployment/cloud/continuous-deployment)
+            *   [Custom domains](https://cube.dev/docs/product/deployment/cloud/custom-domains)
+            *   [Deployment warm-up](https://cube.dev/docs/product/deployment/cloud/warm-up)
+            *   [Auto-suspension](https://cube.dev/docs/product/deployment/cloud/auto-suspension)
+            *   [Scalability](https://cube.dev/docs/product/deployment/cloud/scalability)
+            *   [Pricing](https://cube.dev/docs/product/deployment/cloud/pricing)
+            *   [Support](https://cube.dev/docs/product/deployment/cloud/support)
+            *   [Limits](https://cube.dev/docs/product/deployment/cloud/limits)
+            
+        *   [Cube Core](https://cube.dev/docs/product/deployment/core)
+        
+    *   [Distribution](https://cube.dev/docs/product/distribution)
+    *   FAQs
+        
+        *   [General](https://cube.dev/docs/product/faqs/general)
+        *   [Tips and Tricks](https://cube.dev/docs/product/faqs/tips-and-tricks)
+        *   [Troubleshooting](https://cube.dev/docs/product/faqs/troubleshooting)
+        
+    
+*   Reference
+    
+    *   Configuration
+        
+        *   [Configuration options](https://cube.dev/docs/reference/configuration/config)
+        *   [Environment variables](https://cube.dev/docs/reference/configuration/environment-variables)
+        
+    *   Data modeling
+        
+        *   [Cubes](https://cube.dev/docs/reference/data-model/cube)
+        *   [Views](https://cube.dev/docs/reference/data-model/view)
+        *   [Measures](https://cube.dev/docs/reference/data-model/measures)
+        *   [Dimensions](https://cube.dev/docs/reference/data-model/dimensions)
+        *   [Hierarchies](https://cube.dev/docs/reference/data-model/hierarchies)
+        *   [Segments](https://cube.dev/docs/reference/data-model/segments)
+        *   [Joins](https://cube.dev/docs/reference/data-model/joins)
+        *   [Pre-aggregations](https://cube.dev/docs/reference/data-model/pre-aggregations)
+        *   [Types and formats](https://cube.dev/docs/reference/data-model/types-and-formats)
+        *   [Context variables](https://cube.dev/docs/reference/data-model/context-variables)
+        
+    *   Python packages
+        
+        *   [cube](https://cube.dev/docs/reference/python/cube)
+        *   [cube\_dbt](https://cube.dev/docs/reference/python/cube_dbt)
+        *   [lkml2cube](https://cube.dev/docs/reference/python/lkml2cube)
+        
+    *   [SQL API](https://cube.dev/docs/reference/sql-api)
+    *   [REST API](https://cube.dev/docs/reference/rest-api)
+    *   [GraphQL API](https://cube.dev/docs/reference/graphql-api)
+    *   [AI API](https://cube.dev/docs/reference/ai-api)
+    *   JavaScript SDK
+        
+        *   [core](https://cube.dev/docs/reference/frontend/cubejs-client-core)
+        *   [react](https://cube.dev/docs/reference/frontend/cubejs-client-react)
+        *   [ngx](https://cube.dev/docs/reference/frontend/cubejs-client-ngx)
+        *   [vue](https://cube.dev/docs/reference/frontend/cubejs-client-vue)
+        *   [ws-transport](https://cube.dev/docs/reference/frontend/cubejs-client-ws-transport)
+        
+    *   [CLI](https://cube.dev/docs/reference/cli)
+    *   [Error messages](https://cube.dev/docs/reference/errors)
+    
+*   Guides
+    
+    *   [Recipes](https://cube.dev/docs/guides/recipes)
+        
+        *   Analytics
+            
+            *   [Daily, Weekly, Monthly Active Users (DAU, WAU, MAU)](https://cube.dev/docs/guides/recipes/analytics/active-users)
+            *   [Implementing event analytics](https://cube.dev/docs/guides/recipes/analytics/event-analytics)
+            *   [Implementing retention analysis & cohorts](https://cube.dev/docs/guides/recipes/analytics/cohort-retention)
+            *   [Implementing Funnel Analysis](https://cube.dev/docs/guides/recipes/analytics/funnels)
+            
+        *   Access control
+            
+            *   [Enforcing mandatory filters](https://cube.dev/docs/guides/recipes/access-control/enforcing-mandatory-filters)
+            *   [Enforcing column-based access](https://cube.dev/docs/guides/recipes/access-control/column-based-access)
+            *   [Enforcing role-based access](https://cube.dev/docs/guides/recipes/access-control/role-based-access)
+            *   [Controlling access to cubes and views](https://cube.dev/docs/guides/recipes/access-control/controlling-access-to-cubes-and-views)
+            *   [Using different data models for tenants](https://cube.dev/docs/guides/recipes/access-control/using-different-schemas-for-tenants)
+            
+        *   Authentication & Authorization
+            
+            *   [SQL API and LDAP](https://cube.dev/docs/guides/recipes/auth/sql-api-ldap)
+            *   [REST API and Auth0](https://cube.dev/docs/guides/recipes/auth/auth0-guide)
+            *   [REST API and AWS Cognito](https://cube.dev/docs/guides/recipes/auth/aws-cognito)
+            
+        *   Data modeling
+            
+            *   [Calculating averages and percentiles](https://cube.dev/docs/guides/recipes/data-modeling/percentiles)
+            *   [Calculating nested aggregates](https://cube.dev/docs/guides/recipes/data-modeling/nested-aggregates)
+            *   [Calculating period-over-period changes](https://cube.dev/docs/guides/recipes/data-modeling/period-over-period)
+            *   [Implementing custom time dimension granularities](https://cube.dev/docs/guides/recipes/data-modeling/custom-granularity)
+            *   [Implementing data snapshots](https://cube.dev/docs/guides/recipes/data-modeling/snapshots)
+            *   [Implementing Entity-Attribute-Value Model (EAV)](https://cube.dev/docs/guides/recipes/data-modeling/entity-attribute-value)
+            *   [Passing dynamic parameters in a query](https://cube.dev/docs/guides/recipes/data-modeling/passing-dynamic-parameters-in-a-query)
+            *   [Using dynamic measures](https://cube.dev/docs/guides/recipes/data-modeling/using-dynamic-measures)
+            *   [Using dynamic union tables](https://cube.dev/docs/guides/recipes/data-modeling/dynamic-union-tables)
+            *   [Working around string time dimensions](https://cube.dev/docs/guides/recipes/data-modeling/string-time-dimensions)
+            
+        *   Code reusability
+            
+            *   [Implementing data model generation](https://cube.dev/docs/guides/recipes/code-reusability/schema-generation)
+            *   [Referencing environment variables](https://cube.dev/docs/guides/recipes/code-reusability/environment-variables)
+            
+        *   Multitenancy
+            
+            *   [Providing custom data model for each tenant](https://cube.dev/docs/guides/recipes/multitenancy/custom-data-model-per-tenant)
+            
+        *   Data sources
+            
+            *   [Using multiple data sources](https://cube.dev/docs/guides/recipes/data-sources/multiple-sources-same-schema)
+            *   [Using SSL Connections to a data source](https://cube.dev/docs/guides/recipes/data-sources/using-ssl-connections-to-data-source)
+            
+        *   Queries
+            
+            *   [Getting unique values for a field](https://cube.dev/docs/guides/recipes/queries/getting-unique-values-for-a-field)
+            *   [Implementing custom sorting](https://cube.dev/docs/guides/recipes/queries/sorting)
+            *   [Implementing pagination](https://cube.dev/docs/guides/recipes/queries/pagination)
+            
+        *   Query acceleration
+            
+            *   [Accelerating non-additive measures](https://cube.dev/docs/guides/recipes/query-acceleration/non-additivity)
+            *   [Building pre-aggregations for a date range incrementally](https://cube.dev/docs/guides/recipes/query-acceleration/incrementally-building-pre-aggregations-for-a-date-range)
+            *   [Disabling pre-aggregations](https://cube.dev/docs/guides/recipes/query-acceleration/disabling-pre-aggregations)
+            *   [Using original\_sql and rollup pre-aggregations effectively](https://cube.dev/docs/guides/recipes/query-acceleration/using-originalsql-and-rollups-effectively)
+            *   [Refreshing select partitions](https://cube.dev/docs/guides/recipes/query-acceleration/refreshing-select-partitions)
+            *   [Joining data from multiple data sources](https://cube.dev/docs/guides/recipes/query-acceleration/joining-multiple-data-sources)
+            
+        *   Data exploration
+            
+            *   [Building UI with drilldowns](https://cube.dev/docs/guides/recipes/data-exploration/drilldowns)
+            *   [Retrieving numeric values on the front-end](https://cube.dev/docs/guides/recipes/data-exploration/cast-numerics)
+            
+        *   Upgrading Cube
+            
+            *   [Migrating from Express to Docker](https://cube.dev/docs/guides/recipes/upgrading-cube/migrating-from-express-to-docker)
+            
+        
+    *   [Using Cube with dbt](https://cube.dev/docs/guides/dbt)
+    *   [Designing Metrics](https://cube.dev/docs/guides/designing-metrics)
+    *   [Style guide](https://cube.dev/docs/guides/style-guide)
+    *   [Cost saving guide](https://cube.dev/docs/guides/data-store-cost-saving-guide)
+    
+
+On This Page
+
+*   [Code-first](https://cube.dev/examples#code-first)
+*   [Four layers of semantic layer](https://cube.dev/examples#four-layers-of-semantic-layer)
+*   [Data Modeling](https://cube.dev/examples#data-modeling)
+*   [Access Control](https://cube.dev/examples#access-control)
+*   [Caching](https://cube.dev/examples#caching)
+*   [APIs](https://cube.dev/examples#apis)
+
+[Question? Give us feedback → (opens in a new tab)](https://github.com/cube-js/cube/issues/new?title=Feedback%20for%20%E2%80%9CIntroduction%E2%80%9D&labels=feedback)[Edit this page](https://github.com/cube-js/cube/blob/master/docs/pages/product/introduction.mdx)
+
+  
+[![Image 4](https://ucarecdn.com/a16cd6ee-4310-4507-a528-3caeda0777c2/)](https://cube.dev/blog/cube-cloud-named-fast-moving-leader-in-gigaoms-2024-sonar-report?utm_source=cube&utm_medium=docs)
+
+Documentation
+
+Introduction
+
+Introduction
+============
+
+Cube is a universal semantic layer that makes it easy to connect data silos, create consistent metrics, and make them accessible to any data experience your business or your customers needs. Data engineers and application developers use Cube’s developer-friendly platform to organize data from your cloud data warehouses into centralized, consistent definitions, and deliver it to every downstream tool via its APIs.
+
+Your business data becomes consistent, accurate, easy to access, and, most importantly, trusted. Once trusted, the use of data accelerates throughout your organization, delivering better experiences to your customers and driving intelligence back into the business.
+
+![Image 5](https://ucarecdn.com/8d945f29-e9eb-4e7f-9e9e-29ae7074e195/-/format/webp/)
+
+With Cube, you can build a data model, manage access control and caching, and expose your data to every application via REST, GraphQL, and SQL APIs. With these APIs, you can use any charting library to build custom UI, connect existing dashboarding and reporting tools, and build AI agents with frameworks like LangChain.
+
+Code-first[](https://cube.dev/examples#code-first)
+--------------------------------------------------
+
+Throughout the evolution of software engineering, numerous tools and methodologies have been developed to effectively handle codebases of all sizes. These include [version control systems (opens in a new tab)](https://git-scm.com/) for seamless collaboration and code reviews, infrastructure for testing and documentation, as well as [established patterns (opens in a new tab)](https://en.wikipedia.org/wiki/Design_Patterns) and best practices to structure codebases for reusability and maintainability.
+
+At Cube, we firmly believe that the future of data engineering lies in the application of these proven practices and tools to data management. By doing so, we can facilitate collaboration at scale and create high-quality data products that are easily maintainable.
+
+The foundation of this approach lies in adopting a code-first workflow. That's why everything within Cube, from configurations to data models, is meticulously managed through code.
+
+Four layers of semantic layer[](https://cube.dev/examples#four-layers-of-semantic-layer)
+----------------------------------------------------------------------------------------
+
+We believe that a complete, universal semantic layer should have the following four layers: data model, caching, access controls, and APIs.
+
+### Data Modeling[](https://cube.dev/examples#data-modeling)
+
+**Data modeling framework is a foundational piece of the universal semantic layer.** It helps data teams to centralize data models upstream from data consumption tools, such as BIs, embedded analytics applications, or AI agents. It makes your data architecture DRY ([Don’t Repeat Yourself (opens in a new tab)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)) by reducing the repetition of data modeling across multiple presentation layers.
+
+**Cube data model is code-first.** Data teams define data models with YAML or JavaScript code. The codebase is commonly managed with a version control system. Cube enables git flow for changes to data model and managing multiple isolated environments per project.
+
+**Cube data model is dataset-centric.** It is inspired by and expands upon dimensional modeling. Cube provides a practical framework for implementing dataset-centric data modeling.
+
+When building a data model in Cube, you work with two dataset-centric objects: **cubes** and **views**. **Cubes** represent business entities such as customers, line items, and orders. In cubes, you define all the calculations within the measures and dimensions of these entities. Additionally, you define relationships between cubes, such as "an order has many line items" or "a user may place multiple orders."
+
+**Views** sit on top of a data graph of cubes and create a facade of your entire data model, with which data consumers can interact. You can think of views as the final data products for your data consumers - BI users, data apps, AI agents, etc. When building views, you select measures and dimensions from different connected cubes and present them as a single dataset to BI or data apps.
+
+### Access Control[](https://cube.dev/examples#access-control)
+
+**One of the benefits of semantic layer is the active security layer.** Semantic layer provides a comprehensive real-time understanding and governance of your data. When all your data consumption tools access data through the semantic layer, it becomes an ideal place to enforce access control policies.
+
+Cube provides infrastructure to define different access control policies and patterns, including row-level and column-level security, data masking and more. Being a code-first, Cube enables data teams to **define access control policies with Python or JavaScript.** They can range from simple row-level access rules to completely custom data models per tenants backed by different data sources.
+
+### Caching[](https://cube.dev/examples#caching)
+
+The semantic layer can serve as a buffer to the data sources, protecting the cloud data warehouses from unnecessary and redundant load. Caching optimizes performance and can reduce the cloud data warehouse cost.
+
+Cube implements caching through the **aggregate awareness framework called pre-aggregations.** Data teams can define pre-aggregates in the data model as rollup tables, including measures and dimensions. Cube builds and refreshes these pre-aggregates in the background by executing queries in your cloud data warehouse and storing results in Cube Store, Cube’s purpose-built caching engine backed by distributed file storage, such as S3. Pre-aggregations can be refreshed on schedule or as a part of the workflow orchestration DAG.
+
+When you send a query to Cube, it will use aggregate awareness to see if an existing and fresh pre-aggregate is available to serve that query. It can significantly speed up queries and reduce the load and cost of cloud data warehouses.
+
+### APIs[](https://cube.dev/examples#apis)
+
+One of the key requirements of the semantic layer is **interoperability with data consumption tools**: BIs, embedded analytics, and AI agents. The universal semantic layer cannot require one-off integration with every tool, framework, or library. It is not feasible to support the ever-growing number of data consumption tools in a one-to-one model.
+
+Rather than inventing its own communication language or protocol, **the semantic layer must adhere to existing protocols and API standards** to ensure universal interoperability.
+
+Cube embraces and implements the three most commonly used protocols and API standards: **REST, GraphQL, and SQL.**
+
+**REST and GraphQL** are commonly used in software development as a communication layer between the backend server and the frontend visualization layer.
+
+**SQL** is universally adopted across all the tools in the data stack. Every BI and visualization tool can query a SQL data source. That makes SQL an obvious choice for a communication layer to ensure interoperability. Cube implements Postgres SQL and extends it to support data modeling in the semantic layer. Cube adds the notion of **measure** to SQL spec, a special type that knows how to evaluate itself based on the definition in the data model. Every BI and visualization tool that can connect to Postgres or Redshift can connect to Cube.
+
+Finally, Cube exposes **robust meta API for data model introspection.** It is vital to achieve interoperability because it enables other tools to inspect the data model definitions and take actions, e.g. provide context to the AI agents querying the semantic layer or create the necessary mappings in a BI tool to data model objects.
+
+[Getting started](https://cube.dev/docs/product/getting-started "Getting started")
+
+© 2025 Cube Dev, Inc.
+
+Resources[Docs](https://cube.dev/docs/)[Blog](https://cube.dev/blog/)[Community](https://cube.dev/community)[Events](https://cube.dev/events)[Customer Stories](https://cube.dev/case-studies)[Cube Partner Network](https://cube.dev/consulting/cube-partner-network)
+
+Company[About](https://cube.dev/about)[Careers](https://cube.dev/careers)[Terms of Use](https://cube.dev/terms-of-use)[Privacy Policy](https://cube.dev/privacy-policy)[Security Statement](https://cube.dev/security)[List of Subprocessors](https://cube.dev/subprocessors)
+
+Channels
+
+[](https://github.com/cube-js/cube.js)[](https://slack.cube.dev/)[](https://twitter.com/the_cube_dev)[](https://www.youtube.com/channel/UC5jQrtiI85SUs9zj6FhdkfQ)[](https://stackoverflow.com/questions/tagged/cube.js)[](https://www.linkedin.com/company/cube-dev/)
+
+[Cube Cloud Status](https://status.cubecloud.dev/)

@@ -1,0 +1,5 @@
+[Continue with SSO](https://cloud.airbyte.com/sso?loginRedirect=%2Fworkspaces%2Ff7cc0b13-d6ef-4c06-8b30-a5eb2603cf2f%2Fsource%2Fnew-source)
+
+By signing up and continuing, you agree to our [Terms of Service](https://airbyte.com/terms) and [Privacy Policy](https://airbyte.com/privacy-policy).
+
+Don’t have an account?

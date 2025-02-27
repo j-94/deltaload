@@ -1,0 +1,29 @@
+Your AI pair programmer for crafting, running, debugging code
+
+Exponent is an AI pair programmer designed as an agent, capable of performing software engineering tasks in any environment.
+
+##### Sign up for early access
+
+Software development happens in many places, from your local dev environment to CI. You can bring Exponent to any environment using the Exponent CLI.
+
+Optimized for frontier models
+
+Exponent uses a mixture of the latest frontier models in combination to give you the best possible AI pair programming experience that just works.
+
+Quickly reference files and have Exponent directly edit them in your filesystem, even if they're very long. No more copy pasting back and forth between your editor and the browser.
+
+Exponent is a developer platform and can be configured to carry out specialized tasks, such as writing SQL against your analytics DB or reviewing PRs on Github.
+
+Code context intelligence
+
+Exponent can learn and understand how your codebase works to help you accomplish your tasks quickly and correctly, without having to repeat context over and over again.
+
+Exponent is crafted with a meticulous focus on user experience, going beyond just pixels. Everything is optimized to help you code faster and focus on what matters.
+
+Run Exponent Anywhere
+
+Exponent has many surfaces, so you can quickly bring Exponent to the task you're working on without any friction
+
+Use Exponent directly in your local environment environment
+
+##### Sign up for early access

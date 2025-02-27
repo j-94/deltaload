@@ -1,0 +1,2547 @@
+GitHub - hasura/graphql-engine: Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
+===============
+                                           
+
+[Skip to content](https://github.com/hasura/graphql-engine?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhasura%2Fgraphql-engine%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhasura%2Fgraphql-engine%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=hasura%2Fgraphql-engine) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[hasura](https://github.com/hasura) / **[graphql-engine](https://github.com/hasura/graphql-engine)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fhasura%2Fgraphql-engine) You must be signed in to change notification settings
+*   [Fork 2.8k](https://github.com/login?return_to=%2Fhasura%2Fgraphql-engine)
+*   [Star 31.3k](https://github.com/login?return_to=%2Fhasura%2Fgraphql-engine)
+    
+
+Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
+
+[hasura.io](https://hasura.io/ "https://hasura.io")
+
+### License
+
+Apache-2.0, MIT licenses found
+
+### Licenses found
+
+[Apache-2.0 LICENSE](https://github.com/hasura/graphql-engine/blob/master/LICENSE)[MIT LICENSE-community](https://github.com/hasura/graphql-engine/blob/master/LICENSE-community)
+
+[31.3k stars](https://github.com/hasura/graphql-engine/stargazers) [2.8k forks](https://github.com/hasura/graphql-engine/forks) [Branches](https://github.com/hasura/graphql-engine/branches) [Tags](https://github.com/hasura/graphql-engine/tags) [Activity](https://github.com/hasura/graphql-engine/activity)
+
+[Star](https://github.com/login?return_to=%2Fhasura%2Fgraphql-engine)
+
+[Notifications](https://github.com/login?return_to=%2Fhasura%2Fgraphql-engine) You must be signed in to change notification settings
+
+*   [Code](https://github.com/hasura/graphql-engine)
+*   [Issues 2.2k](https://github.com/hasura/graphql-engine/issues)
+*   [Pull requests 125](https://github.com/hasura/graphql-engine/pulls)
+*   [Discussions](https://github.com/hasura/graphql-engine/discussions)
+*   [Actions](https://github.com/hasura/graphql-engine/actions)
+*   [Projects 1](https://github.com/hasura/graphql-engine/projects)
+*   [Wiki](https://github.com/hasura/graphql-engine/wiki)
+*   [Security 3](https://github.com/hasura/graphql-engine/security)
+*   [Insights](https://github.com/hasura/graphql-engine/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/hasura/graphql-engine)
+*   [Issues](https://github.com/hasura/graphql-engine/issues)
+*   [Pull requests](https://github.com/hasura/graphql-engine/pulls)
+*   [Discussions](https://github.com/hasura/graphql-engine/discussions)
+*   [Actions](https://github.com/hasura/graphql-engine/actions)
+*   [Projects](https://github.com/hasura/graphql-engine/projects)
+*   [Wiki](https://github.com/hasura/graphql-engine/wiki)
+*   [Security](https://github.com/hasura/graphql-engine/security)
+*   [Insights](https://github.com/hasura/graphql-engine/pulse)
+
+hasura/graphql-engine
+=====================
+
+  
+
+ master
+
+[**139** Branches](https://github.com/hasura/graphql-engine/branches)[**441** Tags](https://github.com/hasura/graphql-engine/tags)
+
+[](https://github.com/hasura/graphql-engine/branches)[](https://github.com/hasura/graphql-engine/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+![Image 31: dependabot[bot]](https://avatars.githubusercontent.com/in/29110?v=4&size=40)![Image 32: github-actions[bot]](https://avatars.githubusercontent.com/in/15368?v=4&size=40)
+
+2 peopleand
+
+[hasura-bot](https://github.com/hasura/graphql-engine/commits?author=hasura-bot)
+
+[Bump semver from 1.0.24 to 1.0.25 (](https://github.com/hasura/graphql-engine/commit/324f867b5dd1bdfb66f3d4f9d8d02586c5773b9f)[#1546](https://github.com/hasura/graphql-engine/issues/1546)[)](https://github.com/hasura/graphql-engine/commit/324f867b5dd1bdfb66f3d4f9d8d02586c5773b9f)
+
+Jan 20, 2025
+
+[324f867](https://github.com/hasura/graphql-engine/commit/324f867b5dd1bdfb66f3d4f9d8d02586c5773b9f) · Jan 20, 2025
+
+History
+-------
+
+[9,189 Commits](https://github.com/hasura/graphql-engine/commits/master/)
+
+[](https://github.com/hasura/graphql-engine/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.circleci](https://github.com/hasura/graphql-engine/tree/master/.circleci ".circleci")
+
+
+
+
+
+
+
+ | 
+
+[.circleci](https://github.com/hasura/graphql-engine/tree/master/.circleci ".circleci")
+
+
+
+
+
+
+
+ | 
+
+[add config to prioritize data/error for remote schema fields](https://github.com/hasura/graphql-engine/commit/7f1f0606ed6bb968e605ff38f9f696d177e62aea "add config to prioritize data/error for remote schema fields
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10528
+Co-authored-by: Rob Dominguez <24390149+robertjdominguez@users.noreply.github.com>
+GitOrigin-RevId: 49d0d7cbcc73fb0876d7ac3f5a1a8ff61ff800e8")
+
+
+
+ | 
+
+Dec 19, 2023
+
+ |
+| 
+
+[.devcontainer/docs](https://github.com/hasura/graphql-engine/tree/master/.devcontainer/docs "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[.devcontainer/docs](https://github.com/hasura/graphql-engine/tree/master/.devcontainer/docs "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[docs: add docs devcontainer](https://github.com/hasura/graphql-engine/commit/8b4374202f2bc24855a61386822be428cf57dc59 "docs: add docs devcontainer
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/7296
+GitOrigin-RevId: 68d9ac0bc8697aad0661480b33f65949ffdc8a80")
+
+
+
+ | 
+
+Dec 16, 2022
+
+ |
+| 
+
+[.github](https://github.com/hasura/graphql-engine/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/hasura/graphql-engine/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[remove hge-changelog-owners codeowner](https://github.com/hasura/graphql-engine/commit/0559047dde7debb8e9a2e5c73733142972e5864a "remove hge-changelog-owners codeowner
+Not required
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11016
+GitOrigin-RevId: 10718fc45974aa76a8b2fa2d9aed950ad0c0b9ad")
+
+
+
+ | 
+
+Sep 2, 2024
+
+ |
+| 
+
+[architecture](https://github.com/hasura/graphql-engine/tree/master/architecture "architecture")
+
+
+
+
+
+
+
+ | 
+
+[architecture](https://github.com/hasura/graphql-engine/tree/master/architecture "architecture")
+
+
+
+
+
+
+
+ | 
+
+[streaming subscriptions architecture: update try it out instructions](https://github.com/hasura/graphql-engine/commit/a21c66fcf126d2c811afb41db863c276a8ddbe04 "streaming subscriptions architecture: update try it out instructions
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/6128
+GitOrigin-RevId: 7887ef9b95a0c3f002a62a54734c711e5c5cd71e")
+
+
+
+ | 
+
+Sep 29, 2022
+
+ |
+| 
+
+[assets](https://github.com/hasura/graphql-engine/tree/master/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[assets](https://github.com/hasura/graphql-engine/tree/master/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[assets: update hasura logos](https://github.com/hasura/graphql-engine/commit/13d36900f7e0d310dce15c112028149aed9af4aa "assets: update hasura logos
+GITHUB_PR_NUMBER: 10178
+GITHUB_PR_URL: https://github.com/hasura/graphql-engine/pull/10178
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10751
+Co-authored-by: Jigyasu Arya <6664187+lastnamearya@users.noreply.github.com>
+GitOrigin-RevId: 781c0d9ed3d8e61af4c773e971f960504de24a7d")
+
+
+
+ | 
+
+Mar 26, 2024
+
+ |
+| 
+
+[cabal](https://github.com/hasura/graphql-engine/tree/master/cabal "cabal")
+
+
+
+
+
+
+
+ | 
+
+[cabal](https://github.com/hasura/graphql-engine/tree/master/cabal "cabal")
+
+
+
+
+
+
+
+ | 
+
+[Jberryman/ghc 9.6.4](https://github.com/hasura/graphql-engine/commit/dd3bbef2fe33c6fb09617386abe303bf997c0269 "Jberryman/ghc 9.6.4
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10615
+GitOrigin-RevId: 8a45c92bec8444d5ec0aed125f4aa96d9c684728")
+
+
+
+ | 
+
+Jan 23, 2024
+
+ |
+| 
+
+[cli-ext](https://github.com/hasura/graphql-engine/tree/master/cli-ext "cli-ext")
+
+
+
+
+
+
+
+ | 
+
+[cli-ext](https://github.com/hasura/graphql-engine/tree/master/cli-ext "cli-ext")
+
+
+
+
+
+
+
+ | 
+
+[cli-ext: Upgrade the node.js version to 16 when packaging.](https://github.com/hasura/graphql-engine/commit/07db08cf43fa543df7bed8beb1f0a2bf936985a2 "cli-ext: Upgrade the node.js version to 16 when packaging.
+This brings it all in line. It seems to work fine for me.
+I am doing this because I can't seem to cross-build with node.js v12 on macOS+arm64.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/8713
+GitOrigin-RevId: 06d7daa4176e99584ab88146a3d17200721ae8bf")
+
+
+
+ | 
+
+Apr 21, 2023
+
+ |
+| 
+
+[cli](https://github.com/hasura/graphql-engine/tree/master/cli "cli")
+
+
+
+
+
+
+
+ | 
+
+[cli](https://github.com/hasura/graphql-engine/tree/master/cli "cli")
+
+
+
+
+
+
+
+ | 
+
+[Allow 14 digit prefixes for migration directories during \`hasura scri…](https://github.com/hasura/graphql-engine/commit/d72fea0e4848094242fa791ef66fc84a1d4a5b83 "Allow 14 digit prefixes for migration directories during `hasura scri…
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11092
+GitOrigin-RevId: 4c0b0adc92cb85827eb60849b43aa86591da0819")
+
+
+
+ | 
+
+Nov 25, 2024
+
+ |
+| 
+
+[community](https://github.com/hasura/graphql-engine/tree/master/community "community")
+
+
+
+
+
+
+
+ | 
+
+[community](https://github.com/hasura/graphql-engine/tree/master/community "community")
+
+
+
+
+
+
+
+ | 
+
+[docs: add more OpenTelemetry collector configuration examples](https://github.com/hasura/graphql-engine/commit/4046187d95940dc3b19de81ae237cff6b087ec00 "docs: add more OpenTelemetry collector configuration examples
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11116
+GitOrigin-RevId: 7b341b9ae84b0eb90ad87ac0878020fb0b6f9f88")
+
+
+
+ | 
+
+Dec 18, 2024
+
+ |
+| 
+
+[console](https://github.com/hasura/graphql-engine/tree/master/console "console")
+
+
+
+
+
+
+
+ | 
+
+[console](https://github.com/hasura/graphql-engine/tree/master/console "console")
+
+
+
+
+
+
+
+ | 
+
+[Deprecation message in Console Folder Readme](https://github.com/hasura/graphql-engine/commit/fbb92230bb702797e554764de6726948f8034258 "Deprecation message in Console Folder Readme
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/8131
+Co-authored-by: Nicolas Beaussart <7281023+beaussan@users.noreply.github.com>
+GitOrigin-RevId: d0c187bb322e26105a8ecdb19da4e8478b7d09dd")
+
+
+
+ | 
+
+Feb 28, 2023
+
+ |
+| 
+
+[contrib/metadata-types](https://github.com/hasura/graphql-engine/tree/master/contrib/metadata-types "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[contrib/metadata-types](https://github.com/hasura/graphql-engine/tree/master/contrib/metadata-types "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[Upgrade Ormolu to 0.7.0.0](https://github.com/hasura/graphql-engine/commit/e0c0043e766f1ab00e2f0c4adaaec64250767a0a "Upgrade Ormolu to 0.7.0.0
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/9284
+GitOrigin-RevId: 2f2cf2ad01900a54e4bdb970205ac0ef313c7e00")
+
+
+
+ | 
+
+May 24, 2023
+
+ |
+| 
+
+[dc-agents](https://github.com/hasura/graphql-engine/tree/master/dc-agents "dc-agents")
+
+
+
+
+
+
+
+ | 
+
+[dc-agents](https://github.com/hasura/graphql-engine/tree/master/dc-agents "dc-agents")
+
+
+
+
+
+
+
+ | 
+
+[GHC 9.10.1](https://github.com/hasura/graphql-engine/commit/61fe468d4748518efd05af457b849d30a157a517 "GHC 9.10.1
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10944
+GitOrigin-RevId: f7e98c510a0f866f98fd43b7b1c10e5fe730e61f")
+
+
+
+ | 
+
+Aug 13, 2024
+
+ |
+| 
+
+[docker-compose](https://github.com/hasura/graphql-engine/tree/master/docker-compose "docker-compose")
+
+
+
+
+
+
+
+ | 
+
+[docker-compose](https://github.com/hasura/graphql-engine/tree/master/docker-compose "docker-compose")
+
+
+
+
+
+
+
+ | 
+
+[Use a test PostgreSQL image based on Debian, not Alpine.](https://github.com/hasura/graphql-engine/commit/b8d7c6039bce5bc4e2373186ec737b215ea7dd3e "Use a test PostgreSQL image based on Debian, not Alpine.
+Alpine is often slower than Debian (because musl is sometimes slower than glibc) and not how anyone actually deploys PostgreSQL in production.
+Most notably, some floating-point computations result in slightly different values, and Debian ships with better support for different locales so sorting text (e.g. with `ORDER BY`) behaves differently.
+Let's test against an environment that people are likely to actually use.
+As a result, there are slight changes to the results of PostGIS computations in a couple of test cases.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10942
+GitOrigin-RevId: 4caed19def23a372fc3930c409514b1c9b385026")
+
+
+
+ | 
+
+Jul 19, 2024
+
+ |
+| 
+
+[docs](https://github.com/hasura/graphql-engine/tree/master/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs](https://github.com/hasura/graphql-engine/tree/master/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[Docs: Update HASURA\_GRAPHQL\_CORS\_DOMAIN information](https://github.com/hasura/graphql-engine/commit/464fc3661b151675f6a93bf105a13a70907d7765 "Docs: Update HASURA_GRAPHQL_CORS_DOMAIN information
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11122
+GitOrigin-RevId: ea76ae99ca210571e886c7a2a762ea757171c498")
+
+
+
+ | 
+
+Jan 16, 2025
+
+ |
+| 
+
+[frontend](https://github.com/hasura/graphql-engine/tree/master/frontend "frontend")
+
+
+
+
+
+
+
+ | 
+
+[frontend](https://github.com/hasura/graphql-engine/tree/master/frontend "frontend")
+
+
+
+
+
+
+
+ | 
+
+[Console: fix docs url](https://github.com/hasura/graphql-engine/commit/c66b8732cbe59bcf71d891e23e90eeebac440d70 "Console: fix docs url
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11120
+GitOrigin-RevId: d917807c1fe95646a80b859683c874c2b21b7ec4")
+
+
+
+ | 
+
+Jan 7, 2025
+
+ |
+| 
+
+[install-manifests](https://github.com/hasura/graphql-engine/tree/master/install-manifests "install-manifests")
+
+
+
+
+
+
+
+ | 
+
+[install-manifests](https://github.com/hasura/graphql-engine/tree/master/install-manifests "install-manifests")
+
+
+
+
+
+
+
+ | 
+
+[ci: update latest stable release as v2.43.0](https://github.com/hasura/graphql-engine/commit/2c89ae499fe3417089cf2b2069948d90e6aedcb1 "ci: update latest stable release as v2.43.0
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11020
+GitOrigin-RevId: 62b568f319ee0c8155fb40b7f707a0d6818fe8a3")
+
+
+
+ | 
+
+Sep 4, 2024
+
+ |
+| 
+
+[metadata-api-types](https://github.com/hasura/graphql-engine/tree/master/metadata-api-types "metadata-api-types")
+
+
+
+
+
+
+
+ | 
+
+[metadata-api-types](https://github.com/hasura/graphql-engine/tree/master/metadata-api-types "metadata-api-types")
+
+
+
+
+
+
+
+ | 
+
+[Make command to generate types from typed metadata in languages other…](https://github.com/hasura/graphql-engine/commit/69c8e8bb4a4088f62cebaaf39aac99a175cfb682 "Make command to generate types from typed metadata in languages other than Typescript
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/8238
+GitOrigin-RevId: 9a4730e0d311916c0d837586485382c58033c914")
+
+
+
+ | 
+
+Mar 14, 2023
+
+ |
+| 
+
+[nix](https://github.com/hasura/graphql-engine/tree/master/nix "nix")
+
+
+
+
+
+
+
+ | 
+
+[nix](https://github.com/hasura/graphql-engine/tree/master/nix "nix")
+
+
+
+
+
+
+
+ | 
+
+[Nix: Install ghciwatch and update the flake to get it.](https://github.com/hasura/graphql-engine/commit/38728f9f38a4ba92a4c8aaa9ba00273c191f2ae3 "Nix: Install ghciwatch and update the flake to get it.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10970
+GitOrigin-RevId: 7236edb1f23e062813111206e037ecd5ef573253")
+
+
+
+ | 
+
+Jul 31, 2024
+
+ |
+| 
+
+[packaging](https://github.com/hasura/graphql-engine/tree/master/packaging "packaging")
+
+
+
+
+
+
+
+ | 
+
+[packaging](https://github.com/hasura/graphql-engine/tree/master/packaging "packaging")
+
+
+
+
+
+
+
+ | 
+
+[Update ubi9 image for security vulnerabilities for engine](https://github.com/hasura/graphql-engine/commit/516a4a377f38e84ce4c7963fae1f3d05a3f2bebd "Update ubi9 image for security vulnerabilities for engine
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11085
+GitOrigin-RevId: c9f8f82a966eb914472d8b247bd4d737580727d8")
+
+
+
+ | 
+
+Nov 21, 2024
+
+ |
+| 
+
+[preload-mimalloc](https://github.com/hasura/graphql-engine/tree/master/preload-mimalloc "preload-mimalloc")
+
+
+
+
+
+
+
+ | 
+
+[preload-mimalloc](https://github.com/hasura/graphql-engine/tree/master/preload-mimalloc "preload-mimalloc")
+
+
+
+
+
+
+
+ | 
+
+[Fix](https://github.com/hasura/graphql-engine/commit/4d86cd3a62e693b4257e2812ce71ae02ce226e19 "Fix #9447 bad memory usage
+A fix for #9447
+Before this change, for the workload in the ticket, we saw a memory stay at around 4 GB an hour after the workload ended.  after this change we see both a lower memory high watermark, and also see memory come back to baseline at the end as we expect (after the `HASURA_GRAPHQL_PG_CONN_LIFETIME` and a subsequent `_idleStaleReaperThread` interval elapses).  But note the numbers given on any given machine may be slightly different, since the behavior depends on the version of glibc and processor speed (Since the test case depends on the server being overloaded).
+This might also help some users commenting in https://github.com/hasura/graphql-engine/issues/9592
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/9823
+GitOrigin-RevId: 5650aa42d10d46c418c21686983a982d69011884") [#9447](https://github.com/hasura/graphql-engine/issues/9447) [bad memory usage](https://github.com/hasura/graphql-engine/commit/4d86cd3a62e693b4257e2812ce71ae02ce226e19 "Fix #9447 bad memory usage
+A fix for #9447
+Before this change, for the workload in the ticket, we saw a memory stay at around 4 GB an hour after the workload ended.  after this change we see both a lower memory high watermark, and also see memory come back to baseline at the end as we expect (after the `HASURA_GRAPHQL_PG_CONN_LIFETIME` and a subsequent `_idleStaleReaperThread` interval elapses).  But note the numbers given on any given machine may be slightly different, since the behavior depends on the version of glibc and processor speed (Since the test case depends on the server being overloaded).
+This might also help some users commenting in https://github.com/hasura/graphql-engine/issues/9592
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/9823
+GitOrigin-RevId: 5650aa42d10d46c418c21686983a982d69011884")
+
+
+
+ | 
+
+Jul 25, 2023
+
+ |
+| 
+
+[releases](https://github.com/hasura/graphql-engine/tree/master/releases "releases")
+
+
+
+
+
+
+
+ | 
+
+[releases](https://github.com/hasura/graphql-engine/tree/master/releases "releases")
+
+
+
+
+
+
+
+ | 
+
+[ci: release v2.42.0-beta.1-cloud.1](https://github.com/hasura/graphql-engine/commit/0908f2561a9a39069c8348b2a4e9af00eb49cc61 "ci: release v2.42.0-beta.1-cloud.1
+GitOrigin-RevId: e605812058e88fc0a322f8cfde4f00b8fbaaf86e")
+
+
+
+ | 
+
+Jul 31, 2024
+
+ |
+| 
+
+[rfcs](https://github.com/hasura/graphql-engine/tree/master/rfcs "rfcs")
+
+
+
+
+
+
+
+ | 
+
+[rfcs](https://github.com/hasura/graphql-engine/tree/master/rfcs "rfcs")
+
+
+
+
+
+
+
+ | 
+
+[server: add hasura\_postgres\_connection\_error\_total metric](https://github.com/hasura/graphql-engine/commit/8b956bfafa2868e301f27c4aa1a5948fb9019dee "server: add hasura_postgres_connection_error_total metric
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11063
+GitOrigin-RevId: 0e0f8b6e7759623f470893aaa6d6e68d205269b5")
+
+
+
+ | 
+
+Oct 22, 2024
+
+ |
+| 
+
+[scripts](https://github.com/hasura/graphql-engine/tree/master/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[scripts](https://github.com/hasura/graphql-engine/tree/master/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[Stop logging internal actions errors](https://github.com/hasura/graphql-engine/commit/0a1dd53b02f0af2c27aae39f3ca9bda89179ed73 "Stop logging internal actions errors
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11072
+GitOrigin-RevId: 565fe917fe367f7438e6c14b8ac50b4310212241")
+
+
+
+ | 
+
+Nov 27, 2024
+
+ |
+| 
+
+[server](https://github.com/hasura/graphql-engine/tree/master/server "server")
+
+
+
+
+
+
+
+ | 
+
+[server](https://github.com/hasura/graphql-engine/tree/master/server "server")
+
+
+
+
+
+
+
+ | 
+
+[Add metrics hasura\_events\_fetch\_query\_time and hasura\_events\_fetched\_…](https://github.com/hasura/graphql-engine/commit/9717e07b740645d4b116fd2e10e9d0374405797d "Add metrics hasura_events_fetch_query_time and hasura_events_fetched_total
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11081
+Co-authored-by: Rob Dominguez <24390149+robertjdominguez@users.noreply.github.com>
+GitOrigin-RevId: da1d8b97eb053a4af558222ed1e6f00571e390aa")
+
+
+
+ | 
+
+Dec 18, 2024
+
+ |
+| 
+
+[translations](https://github.com/hasura/graphql-engine/tree/master/translations "translations")
+
+
+
+
+
+
+
+ | 
+
+[translations](https://github.com/hasura/graphql-engine/tree/master/translations "translations")
+
+
+
+
+
+
+
+ | 
+
+[assets: update hasura logos](https://github.com/hasura/graphql-engine/commit/13d36900f7e0d310dce15c112028149aed9af4aa "assets: update hasura logos
+GITHUB_PR_NUMBER: 10178
+GITHUB_PR_URL: https://github.com/hasura/graphql-engine/pull/10178
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10751
+Co-authored-by: Jigyasu Arya <6664187+lastnamearya@users.noreply.github.com>
+GitOrigin-RevId: 781c0d9ed3d8e61af4c773e971f960504de24a7d")
+
+
+
+ | 
+
+Mar 26, 2024
+
+ |
+| 
+
+[v3](https://github.com/hasura/graphql-engine/tree/master/v3 "v3")
+
+
+
+
+
+
+
+ | 
+
+[v3](https://github.com/hasura/graphql-engine/tree/master/v3 "v3")
+
+
+
+
+
+
+
+ | 
+
+[Bump semver from 1.0.24 to 1.0.25 (](https://github.com/hasura/graphql-engine/commit/324f867b5dd1bdfb66f3d4f9d8d02586c5773b9f "Bump semver from 1.0.24 to 1.0.25 (#1546)
+Bumps [semver](https://github.com/dtolnay/semver) from 1.0.24 to 1.0.25.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a
+href=\"https://github.com/dtolnay/semver/releases\">semver's
+releases</a>.</em></p>
+<blockquote>
+<h2>1.0.25</h2>
+<ul>
+<li>Enable serde impls on play.rust-lang.org (<a
+href=\"https://redirect.github.com/dtolnay/semver/issues/330\">#330</a>,
+thanks <a href=\"https://github.com/jofas\"><code>@​jofas</code></a>)</li>
+</ul>
+</blockquote>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a
+href=\"https://github.com/dtolnay/semver/commit/b1e2848d0360fd80c5d86b1a5f70d94c6e602819\"><code>b1e2848</code></a>
+Release 1.0.25</li>
+<li><a
+href=\"https://github.com/dtolnay/semver/commit/1fb55fc29d477f8d978657d72972bf317f0e356c\"><code>1fb55fc</code></a>
+Merge pull request 330 from jofas/serde-on-playground</li>
+<li><a
+href=\"https://github.com/dtolnay/semver/commit/2bf9708b4dae1ed83c33ac43f8d0382d4cefcf0a\"><code>2bf9708</code></a>
+Enabled 'serde' feature on playground</li>
+<li>See full diff in <a
+href=\"https://github.com/dtolnay/semver/compare/1.0.24...1.0.25\">compare
+view</a></li>
+</ul>
+</details>
+<br />
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=semver&package-manager=cargo&previous-version=1.0.24&new-version=1.0.25)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+---
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show <dependency name> ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+</details>
+---------
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+V3_GIT_ORIGIN_REV_ID: 5258f1a927d92e765ea79c242065ab0f0e011fdf")[#1546](https://github.com/hasura/graphql-engine/issues/1546)[)](https://github.com/hasura/graphql-engine/commit/324f867b5dd1bdfb66f3d4f9d8d02586c5773b9f "Bump semver from 1.0.24 to 1.0.25 (#1546)
+Bumps [semver](https://github.com/dtolnay/semver) from 1.0.24 to 1.0.25.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a
+href=\"https://github.com/dtolnay/semver/releases\">semver's
+releases</a>.</em></p>
+<blockquote>
+<h2>1.0.25</h2>
+<ul>
+<li>Enable serde impls on play.rust-lang.org (<a
+href=\"https://redirect.github.com/dtolnay/semver/issues/330\">#330</a>,
+thanks <a href=\"https://github.com/jofas\"><code>@​jofas</code></a>)</li>
+</ul>
+</blockquote>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a
+href=\"https://github.com/dtolnay/semver/commit/b1e2848d0360fd80c5d86b1a5f70d94c6e602819\"><code>b1e2848</code></a>
+Release 1.0.25</li>
+<li><a
+href=\"https://github.com/dtolnay/semver/commit/1fb55fc29d477f8d978657d72972bf317f0e356c\"><code>1fb55fc</code></a>
+Merge pull request 330 from jofas/serde-on-playground</li>
+<li><a
+href=\"https://github.com/dtolnay/semver/commit/2bf9708b4dae1ed83c33ac43f8d0382d4cefcf0a\"><code>2bf9708</code></a>
+Enabled 'serde' feature on playground</li>
+<li>See full diff in <a
+href=\"https://github.com/dtolnay/semver/compare/1.0.24...1.0.25\">compare
+view</a></li>
+</ul>
+</details>
+<br />
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=semver&package-manager=cargo&previous-version=1.0.24&new-version=1.0.25)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+---
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show <dependency name> ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+</details>
+---------
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+V3_GIT_ORIGIN_REV_ID: 5258f1a927d92e765ea79c242065ab0f0e011fdf")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[.dockerignore](https://github.com/hasura/graphql-engine/blob/master/.dockerignore ".dockerignore")
+
+
+
+
+
+
+
+ | 
+
+[.dockerignore](https://github.com/hasura/graphql-engine/blob/master/.dockerignore ".dockerignore")
+
+
+
+
+
+
+
+ | 
+
+[Create a Docker image specifically for running the Python tests.](https://github.com/hasura/graphql-engine/commit/1b20bb55b5b02b39df5f6aca4d9ca70c47eccc09 "Create a Docker image specifically for running the Python tests.
+This separates out the dependencies from the server builder.
+I am using Python 3.9 as it has improved support for type annotations, which I would like to use.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/5761
+GitOrigin-RevId: d57b4a5ace050861e516dd79a4a38ff4844d4093")
+
+
+
+ | 
+
+Sep 7, 2022
+
+ |
+| 
+
+[.envrc](https://github.com/hasura/graphql-engine/blob/master/.envrc ".envrc")
+
+
+
+
+
+
+
+ | 
+
+[.envrc](https://github.com/hasura/graphql-engine/blob/master/.envrc ".envrc")
+
+
+
+
+
+
+
+ | 
+
+[Upgrade GHC to v9.6.5.](https://github.com/hasura/graphql-engine/commit/22fcc5f86d2b01808b7d3a75657b1e8f7c3adb1d "Upgrade GHC to v9.6.5.
+This contains a few bug fixes and bumps the base libraries.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10835
+GitOrigin-RevId: bf96ab647ed95f30f473ca9a2b918a936cd35e32")
+
+
+
+ | 
+
+May 30, 2024
+
+ |
+| 
+
+[.envrc.local.example](https://github.com/hasura/graphql-engine/blob/master/.envrc.local.example ".envrc.local.example")
+
+
+
+
+
+
+
+ | 
+
+[.envrc.local.example](https://github.com/hasura/graphql-engine/blob/master/.envrc.local.example ".envrc.local.example")
+
+
+
+
+
+
+
+ | 
+
+[docker: Always use the official SQL Server image for testing.](https://github.com/hasura/graphql-engine/commit/2467e23ef67e51da0e2d3c6b0ec9449fa1413130 "docker: Always use the official SQL Server image for testing.
+Now that Docker for macOS supports using Rosetta for x86/amd64 emulation, we no longer need to use the `azure-sql-edge` image. We can always use the official `mcr.microsoft.com/mssql/server` one.
+This also means that we no longer need the separate healthcheck container, because the official image ships with `sqlcmd`.
+When this is merged, you will need to ensure you have enabled Rosetta emulation in the Docker settings to test against SQL Server on macOS. This requires macOS 13 (Ventura).
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10139
+GitOrigin-RevId: 2225bf5f4c6d3632da1f29b2229c9b04ead5e34c")
+
+
+
+ | 
+
+Sep 25, 2023
+
+ |
+| 
+
+[.ghcversion](https://github.com/hasura/graphql-engine/blob/master/.ghcversion ".ghcversion")
+
+
+
+
+
+
+
+ | 
+
+[.ghcversion](https://github.com/hasura/graphql-engine/blob/master/.ghcversion ".ghcversion")
+
+
+
+
+
+
+
+ | 
+
+[Stop logging internal actions errors](https://github.com/hasura/graphql-engine/commit/0a1dd53b02f0af2c27aae39f3ca9bda89179ed73 "Stop logging internal actions errors
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11072
+GitOrigin-RevId: 565fe917fe367f7438e6c14b8ac50b4310212241")
+
+
+
+ | 
+
+Nov 27, 2024
+
+ |
+| 
+
+[.git-blame-ignore-revs](https://github.com/hasura/graphql-engine/blob/master/.git-blame-ignore-revs ".git-blame-ignore-revs")
+
+
+
+
+
+
+
+ | 
+
+[.git-blame-ignore-revs](https://github.com/hasura/graphql-engine/blob/master/.git-blame-ignore-revs ".git-blame-ignore-revs")
+
+
+
+
+
+
+
+ | 
+
+[frontend: apply prettier](https://github.com/hasura/graphql-engine/commit/09c9cf8b46c37139fafa7f90e85d0ad3983a69a8 "frontend: apply prettier
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/7668
+GitOrigin-RevId: 0ed901780092994ae40c2c57557c5854812a91b2")
+
+
+
+ | 
+
+Jan 25, 2023
+
+ |
+| 
+
+[.gitignore](https://github.com/hasura/graphql-engine/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/hasura/graphql-engine/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Add python script to get cabal package licenses](https://github.com/hasura/graphql-engine/commit/b2e08430456cc0d30cdfbb9927708a7fb1f3f509 "Add python script to get cabal package licenses
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10928
+GitOrigin-RevId: d26495c8c9975b9e4f98e322b6d5b2977e66c247")
+
+
+
+ | 
+
+Jul 9, 2024
+
+ |
+| 
+
+[.hlint.yaml](https://github.com/hasura/graphql-engine/blob/master/.hlint.yaml ".hlint.yaml")
+
+
+
+
+
+
+
+ | 
+
+[.hlint.yaml](https://github.com/hasura/graphql-engine/blob/master/.hlint.yaml ".hlint.yaml")
+
+
+
+
+
+
+
+ | 
+
+[Remove `any`/`all` hlint rules](https://github.com/hasura/graphql-engine/commit/34a46c7f23cfadd3cc0974ede8eacecf10be43cb "Remove `any`/`all` hlint rules
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/9208
+GitOrigin-RevId: fb7fddcedf35acd9e360824399c932a61c9bb18b")
+
+
+
+ | 
+
+May 18, 2023
+
+ |
+| 
+
+[.kodiak.toml](https://github.com/hasura/graphql-engine/blob/master/.kodiak.toml ".kodiak.toml")
+
+
+
+
+
+
+
+ | 
+
+[.kodiak.toml](https://github.com/hasura/graphql-engine/blob/master/.kodiak.toml ".kodiak.toml")
+
+
+
+
+
+
+
+ | 
+
+[ci: don't block merge queue when awaiting review, after](https://github.com/hasura/graphql-engine/commit/245c0fed2218faae2fc9f0e2ff977d3430863546 "ci: don't block merge queue when awaiting review, after #7011
+Alternative to #7866
+https://hasurahq.slack.com/archives/C036BBQSSTC/p1675768805385689
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/7869
+GitOrigin-RevId: 858f0e26e1c15a12132e6509c00fa6ea93d4c1b8") [#7011](https://github.com/hasura/graphql-engine/issues/7011)
+
+
+
+ | 
+
+Feb 7, 2023
+
+ |
+| 
+
+[.nvmrc](https://github.com/hasura/graphql-engine/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/hasura/graphql-engine/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[tooling: bump .nvmrc version to 16](https://github.com/hasura/graphql-engine/commit/ff25d27ab11c54daa0314d8ece3827af614000a2 "tooling: bump .nvmrc version to 16
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/5765
+GitOrigin-RevId: ef7c490fb802dcf183111e9d9664c1ee558b03fb")
+
+
+
+ | 
+
+Sep 6, 2022
+
+ |
+| 
+
+[.prettierignore](https://github.com/hasura/graphql-engine/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/hasura/graphql-engine/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[Add a missing changelog entry for error message changes to v2.10.0.](https://github.com/hasura/graphql-engine/commit/52a77a0bfe7f28587e8778d1e0754d70841d520b "Add a missing changelog entry for error message changes to v2.10.0.
+## Changelog
+This is the only change; please take a look.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/5713
+GitOrigin-RevId: fbc527ebc8dc78e98841c9b67e90f9e7f2102abb")
+
+
+
+ | 
+
+Sep 5, 2022
+
+ |
+| 
+
+[CHANGELOG.md](https://github.com/hasura/graphql-engine/blob/master/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[CHANGELOG.md](https://github.com/hasura/graphql-engine/blob/master/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[Kriti Documentation](https://github.com/hasura/graphql-engine/commit/77789e303ff5af1a2d1319621ab620712de98747 "Kriti Documentation
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/5230
+Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Co-authored-by: Sean Park-Ross <94021366+seanparkross@users.noreply.github.com>
+GitOrigin-RevId: dea3876b74f822ffe080933c6b9814f544fc968d")
+
+
+
+ | 
+
+Sep 6, 2022
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/hasura/graphql-engine/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/hasura/graphql-engine/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[Update README for open sourcing the v3 engine.](https://github.com/hasura/graphql-engine/commit/3bb29d8f9774f625fe3772ca5027b9f0a92e7dd4 "Update README for open sourcing the v3 engine.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10566
+Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Co-authored-by: Manas Agarwal <5352361+manasag@users.noreply.github.com>
+GitOrigin-RevId: 7ce38991d7b00250697eec34c7ff94fea5f55d41")
+
+
+
+ | 
+
+Dec 21, 2023
+
+ |
+| 
+
+[LICENSE](https://github.com/hasura/graphql-engine/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/hasura/graphql-engine/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Change license for core GraphQL Engine to Apache 2.0 (](https://github.com/hasura/graphql-engine/commit/a01ec9b2e25956bfb1505e0c6630343d788f18ef "Change license for core GraphQL Engine to Apache 2.0 (#1821)")[#1821](https://github.com/hasura/graphql-engine/pull/1821)[)](https://github.com/hasura/graphql-engine/commit/a01ec9b2e25956bfb1505e0c6630343d788f18ef "Change license for core GraphQL Engine to Apache 2.0 (#1821)")
+
+
+
+ | 
+
+Mar 19, 2019
+
+ |
+| 
+
+[LICENSE-community](https://github.com/hasura/graphql-engine/blob/master/LICENSE-community "LICENSE-community")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE-community](https://github.com/hasura/graphql-engine/blob/master/LICENSE-community "LICENSE-community")
+
+
+
+
+
+
+
+ | 
+
+[add community boilerplates and examples (](https://github.com/hasura/graphql-engine/commit/acd62c3bf86c5f0e65ec9a6eb532b5319bd4574f "add community boilerplates and examples (#430)")[#430](https://github.com/hasura/graphql-engine/pull/430)[)](https://github.com/hasura/graphql-engine/commit/acd62c3bf86c5f0e65ec9a6eb532b5319bd4574f "add community boilerplates and examples (#430)")
+
+
+
+ | 
+
+Sep 13, 2018
+
+ |
+| 
+
+[Makefile](https://github.com/hasura/graphql-engine/blob/master/Makefile "Makefile")
+
+
+
+
+
+
+
+ | 
+
+[Makefile](https://github.com/hasura/graphql-engine/blob/master/Makefile "Makefile")
+
+
+
+
+
+
+
+ | 
+
+[make: Add make targets for formatting and linting frontend code.](https://github.com/hasura/graphql-engine/commit/17855bf65a0e03660c735814ff61b8c14cbe8c2b "make: Add make targets for formatting and linting frontend code.
+This adds linting and formatting of frontend code when running `make lint`, `make format`, or any of the variations.
+I am adding this because I didn't know how to check the code and so I had to wait for CI to fail, which I found irritating.
+In order to make this reasonable, I factored out `make` targets for building *frontend/node_modules*, so I could depend on them.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/8463
+GitOrigin-RevId: 71882ec90490efbf87d428d08eaec2ae849a0a36")
+
+
+
+ | 
+
+Mar 23, 2023
+
+ |
+| 
+
+[README.md](https://github.com/hasura/graphql-engine/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/hasura/graphql-engine/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Docs: Update README again](https://github.com/hasura/graphql-engine/commit/d7e804b984e59f2bbddacd65b11dbfbeef582061 "Docs: Update README again
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/11015
+GitOrigin-RevId: 2f9bf8ca3669f45f461888976b0808251c0f0537")
+
+
+
+ | 
+
+Aug 30, 2024
+
+ |
+| 
+
+[SECURITY.md](https://github.com/hasura/graphql-engine/blob/master/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[SECURITY.md](https://github.com/hasura/graphql-engine/blob/master/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[github md pages: update email address for security team](https://github.com/hasura/graphql-engine/commit/5873eb025eefb6294db74231314c7f9c735983dd "github md pages: update email address for security team
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/7113
+GitOrigin-RevId: f29224d486016ea8ef8bb6ff51d1059950509e02")
+
+
+
+ | 
+
+Dec 1, 2022
+
+ |
+| 
+
+[V2-README.md](https://github.com/hasura/graphql-engine/blob/master/V2-README.md "V2-README.md")
+
+
+
+
+
+
+
+ | 
+
+[V2-README.md](https://github.com/hasura/graphql-engine/blob/master/V2-README.md "V2-README.md")
+
+
+
+
+
+
+
+ | 
+
+[assets: update hasura logos](https://github.com/hasura/graphql-engine/commit/13d36900f7e0d310dce15c112028149aed9af4aa "assets: update hasura logos
+GITHUB_PR_NUMBER: 10178
+GITHUB_PR_URL: https://github.com/hasura/graphql-engine/pull/10178
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10751
+Co-authored-by: Jigyasu Arya <6664187+lastnamearya@users.noreply.github.com>
+GitOrigin-RevId: 781c0d9ed3d8e61af4c773e971f960504de24a7d")
+
+
+
+ | 
+
+Mar 26, 2024
+
+ |
+| 
+
+[cabal.project](https://github.com/hasura/graphql-engine/blob/master/cabal.project "cabal.project")
+
+
+
+
+
+
+
+ | 
+
+[cabal.project](https://github.com/hasura/graphql-engine/blob/master/cabal.project "cabal.project")
+
+
+
+
+
+
+
+ | 
+
+[GHC 9.10.1](https://github.com/hasura/graphql-engine/commit/61fe468d4748518efd05af457b849d30a157a517 "GHC 9.10.1
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10944
+GitOrigin-RevId: f7e98c510a0f866f98fd43b7b1c10e5fe730e61f")
+
+
+
+ | 
+
+Aug 13, 2024
+
+ |
+| 
+
+[cabal.project.freeze](https://github.com/hasura/graphql-engine/blob/master/cabal.project.freeze "cabal.project.freeze")
+
+
+
+
+
+
+
+ | 
+
+[cabal.project.freeze](https://github.com/hasura/graphql-engine/blob/master/cabal.project.freeze "cabal.project.freeze")
+
+
+
+
+
+
+
+ | 
+
+[GHC 9.10.1](https://github.com/hasura/graphql-engine/commit/61fe468d4748518efd05af457b849d30a157a517 "GHC 9.10.1
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10944
+GitOrigin-RevId: f7e98c510a0f866f98fd43b7b1c10e5fe730e61f")
+
+
+
+ | 
+
+Aug 13, 2024
+
+ |
+| 
+
+[code-of-conduct.md](https://github.com/hasura/graphql-engine/blob/master/code-of-conduct.md "code-of-conduct.md")
+
+
+
+
+
+
+
+ | 
+
+[code-of-conduct.md](https://github.com/hasura/graphql-engine/blob/master/code-of-conduct.md "code-of-conduct.md")
+
+
+
+
+
+
+
+ | 
+
+[update code of conduct (](https://github.com/hasura/graphql-engine/commit/d1eeb3283cbd399e15ee99b795dbd0a2bcf7847f "update code of conduct (#2886)")[#2886](https://github.com/hasura/graphql-engine/pull/2886)[)](https://github.com/hasura/graphql-engine/commit/d1eeb3283cbd399e15ee99b795dbd0a2bcf7847f "update code of conduct (#2886)")
+
+
+
+ | 
+
+Sep 16, 2019
+
+ |
+| 
+
+[docker-compose.yaml](https://github.com/hasura/graphql-engine/blob/master/docker-compose.yaml "docker-compose.yaml")
+
+
+
+
+
+
+
+ | 
+
+[docker-compose.yaml](https://github.com/hasura/graphql-engine/blob/master/docker-compose.yaml "docker-compose.yaml")
+
+
+
+
+
+
+
+ | 
+
+[Remove the `version` from Docker Compose files.](https://github.com/hasura/graphql-engine/commit/b2ac4d82bcaa88a818eeaa939d7cea5b5db503d3 "Remove the `version` from Docker Compose files.
+Recent versions of Docker Compose no longer support this, instead just printing a warning.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10937
+GitOrigin-RevId: 97a82968c48f5c09d6cbe74d8ea7386979e46e7a")
+
+
+
+ | 
+
+Jul 17, 2024
+
+ |
+| 
+
+[event-triggers.md](https://github.com/hasura/graphql-engine/blob/master/event-triggers.md "event-triggers.md")
+
+
+
+
+
+
+
+ | 
+
+[event-triggers.md](https://github.com/hasura/graphql-engine/blob/master/event-triggers.md "event-triggers.md")
+
+
+
+
+
+
+
+ | 
+
+[docs: fix `sample-apps` URLs](https://github.com/hasura/graphql-engine/commit/fd5b61cda669b6832e1f31747a139b5f90d6931a "docs: fix `sample-apps` URLs
+GITHUB_PR_NUMBER: 9742
+GITHUB_PR_URL: https://github.com/hasura/graphql-engine/pull/9742
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/9725
+Co-authored-by: LW <5601392+llllvvuu@users.noreply.github.com>
+GitOrigin-RevId: 9f16b267e190c44bc17e77ca4db714d3aba4df47")
+
+
+
+ | 
+
+Jun 30, 2023
+
+ |
+| 
+
+[flake.lock](https://github.com/hasura/graphql-engine/blob/master/flake.lock "flake.lock")
+
+
+
+
+
+
+
+ | 
+
+[flake.lock](https://github.com/hasura/graphql-engine/blob/master/flake.lock "flake.lock")
+
+
+
+
+
+
+
+ | 
+
+[Nix: Install ghciwatch and update the flake to get it.](https://github.com/hasura/graphql-engine/commit/38728f9f38a4ba92a4c8aaa9ba00273c191f2ae3 "Nix: Install ghciwatch and update the flake to get it.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10970
+GitOrigin-RevId: 7236edb1f23e062813111206e037ecd5ef573253")
+
+
+
+ | 
+
+Jul 31, 2024
+
+ |
+| 
+
+[flake.nix](https://github.com/hasura/graphql-engine/blob/master/flake.nix "flake.nix")
+
+
+
+
+
+
+
+ | 
+
+[flake.nix](https://github.com/hasura/graphql-engine/blob/master/flake.nix "flake.nix")
+
+
+
+
+
+
+
+ | 
+
+[Nix: Wrap GHC and HLS, specifically, to provide `(DY)?LD_LIBRARY_PATH`.](https://github.com/hasura/graphql-engine/commit/3287181cc46e297f29b5056590b298ee5170f45d "Nix: Wrap GHC and HLS, specifically, to provide `(DY)?LD_LIBRARY_PATH`.
+We clearly do need this environment variable (at least on macOS); otherwise GHC spits out a slew of errors along the lines of \"cannot find libodbc.dylib\".
+However, adding it directly to the shell causes serious problems. Wrapping GHC should limit the damage.
+We've seen similar issues on macOS.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/9203
+Co-authored-by: Philip Lykke Carlsen <358550+plcplc@users.noreply.github.com>
+GitOrigin-RevId: 9468d31e5b8ec86196809844842a1668386054bc")
+
+
+
+ | 
+
+May 22, 2023
+
+ |
+| 
+
+[metadata.openapi.json](https://github.com/hasura/graphql-engine/blob/master/metadata.openapi.json "metadata.openapi.json")
+
+
+
+
+
+
+
+ | 
+
+[metadata.openapi.json](https://github.com/hasura/graphql-engine/blob/master/metadata.openapi.json "metadata.openapi.json")
+
+
+
+
+
+
+
+ | 
+
+[GHC 9.10.1](https://github.com/hasura/graphql-engine/commit/61fe468d4748518efd05af457b849d30a157a517 "GHC 9.10.1
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10944
+GitOrigin-RevId: f7e98c510a0f866f98fd43b7b1c10e5fe730e61f")
+
+
+
+ | 
+
+Aug 13, 2024
+
+ |
+| 
+
+[remote-schemas.md](https://github.com/hasura/graphql-engine/blob/master/remote-schemas.md "remote-schemas.md")
+
+
+
+
+
+
+
+ | 
+
+[remote-schemas.md](https://github.com/hasura/graphql-engine/blob/master/remote-schemas.md "remote-schemas.md")
+
+
+
+
+
+
+
+ | 
+
+[update docs link to avoid redirects](https://github.com/hasura/graphql-engine/commit/0ff26100bfccefdd1f475aa369893ebab658ed19 "update docs link to avoid redirects
+GitOrigin-RevId: 1f2a1d21bfb9b2908d56305fa2dfb69270deafdf")
+
+
+
+ | 
+
+Mar 1, 2021
+
+ |
+| 
+
+[sample.hie.yaml](https://github.com/hasura/graphql-engine/blob/master/sample.hie.yaml "sample.hie.yaml")
+
+
+
+
+
+
+
+ | 
+
+[sample.hie.yaml](https://github.com/hasura/graphql-engine/blob/master/sample.hie.yaml "sample.hie.yaml")
+
+
+
+
+
+
+
+ | 
+
+[server: Rename "error-message" to "hasura-error-message".](https://github.com/hasura/graphql-engine/commit/699ba62def21c034be8bb3950ad183eb8092f344 "server: Rename \"error-message\" to \"hasura-error-message\".
+There is already a library in Hackage called \"error-message\".
+This breaks the Nix build as we end up overriding that library, which causes a change to any of its dependents.
+Outside Nix, Shadowing isn't strictly a problem, but it's prudent to avoid it in case we accidentally end up with the other library in edge cases.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/9679
+GitOrigin-RevId: e3f54fd4e5eafec9b0a00128767daad0c8aeab72")
+
+
+
+ | 
+
+Jun 27, 2023
+
+ |
+| 
+
+[shell.nix](https://github.com/hasura/graphql-engine/blob/master/shell.nix "shell.nix")
+
+
+
+
+
+
+
+ | 
+
+[shell.nix](https://github.com/hasura/graphql-engine/blob/master/shell.nix "shell.nix")
+
+
+
+
+
+
+
+ | 
+
+[Push the Nix dependency management configuration to the OSS repository.](https://github.com/hasura/graphql-engine/commit/1ffc19367dc862ec4b59e3dac4280f5b3dcc1d2c "Push the Nix dependency management configuration to the OSS repository.
+We don't need to hide it.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/6255
+GitOrigin-RevId: 9b46511c6b274dd7e8e52ee74644dc86c7d75872")
+
+
+
+ | 
+
+Oct 11, 2022
+
+ |
+| 
+
+[yarn.lock](https://github.com/hasura/graphql-engine/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/hasura/graphql-engine/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[docs: update-rewards-for-disclosures.](https://github.com/hasura/graphql-engine/commit/89db601cfde64fa74755b6f5365e93ce273e577c " docs: update-rewards-for-disclosures.
+PR-URL: https://github.com/hasura/graphql-engine-mono/pull/10770
+Co-authored-by: Rob Dominguez <24390149+robertjdominguez@users.noreply.github.com>
+GitOrigin-RevId: 73d7ff33ca66d3e57b391acbd0d506784249f354")
+
+
+
+ | 
+
+Apr 9, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/hasura/graphql-engine?screenshot=true#)
+*   [Code of conduct](https://github.com/hasura/graphql-engine?screenshot=true#)
+*   [Apache-2.0 license](https://github.com/hasura/graphql-engine?screenshot=true#)
+*   [MIT license](https://github.com/hasura/graphql-engine?screenshot=true#)
+*   [Security](https://github.com/hasura/graphql-engine?screenshot=true#)
+
+[![Image 33: Hasura logo](https://github.com/hasura/graphql-engine/raw/master/assets/hasura_logo_primary_darkbg.png#gh-dark-mode-only)](https://github.com/hasura/graphql-engine/blob/master/assets/hasura_logo_primary_darkbg.png#gh-dark-mode-only) [![Image 34: Hasura logo](https://github.com/hasura/graphql-engine/raw/master/assets/hasura_logo_primary_lightbg.png#gh-light-mode-only)](https://github.com/hasura/graphql-engine/blob/master/assets/hasura_logo_primary_lightbg.png#gh-light-mode-only)
+
+Hasura GraphQL Engine
+=====================
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#hasura-graphql-engine)
+
+The Hasura engine is an open source project which supercharges the building of modern applications by providing access to data via a single, composable, secure API endpoint.
+
+[![Image 35](https://camo.githubusercontent.com/fe7f7f6f16303c4eead9a6db26f8b59f6533534e7ac054308c711f1dde5b9c73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652ff09f8fa05f56697369742d4861737572615f486f6d65706167652d626c75652e7376673f7374796c653d666c6174)](https://hasura.io/) [![Image 36](https://camo.githubusercontent.com/853ea77e80d3d897d802d843308696c529f5084e67af6406114a1ad5ca88e344/68747470733a2f2f696d672e736869656c64732e696f2f62616467652ff09f988a5f4a6f696e2d436f6d6d756e6974792d626c75652e7376673f7374796c653d666c6174)](https://hasura.io/community/)
+
+Hasura V3
+---------
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#hasura-v3)
+
+[![Image 37: Docs](https://camo.githubusercontent.com/1a8d81b5f26e0c395095d93befa250703a83f1064e7a947ad3aec98997070156/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d76332d79656c6c6f772e7376673f7374796c653d666c6174)](https://hasura.io/docs/3.0/getting-started/quickstart/)
+
+The future of data delivery is GA: Supporting PostgreSQL (and its flavors), MongoDB, ClickHouse, and MS SQL Server. Also supports writing custom business logic using the Typescript, Python, and Go Connector SDKs. Here is the recommended [Getting Started](https://hasura.io/docs/3.0/getting-started/quickstart/) guide on DDN.
+
+The Hasura v3 engine code, which powers Hasura DDN, is in the `v3` folder of this repo. You can find more detailed information about in this [v3 README](https://github.com/hasura/graphql-engine/blob/master/v3/README.md).
+
+The Hasura DDN architecture includes Data Connectors to connect to data sources. All Hasura connectors are also available completely open source. Check out the [Connector Hub](https://hasura.io/connectors/) which lists all available connectors.
+
+Hasura V2
+---------
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#hasura-v2)
+
+[![Image 38: Latest release](https://camo.githubusercontent.com/56e4727f5c064886f06017abc3522dc1a1a1a35eabea162b556102c6ebda9000/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f6861737572612f6772617068716c2d656e67696e65)](https://github.com/hasura/graphql-engine/releases/latest) [![Image 39: Docs](https://camo.githubusercontent.com/7c83a1b4eadc900c76300b3cd983a9d516162347ef940147e8dfc3eaa489fd8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d76322e782d79656c6c6f772e7376673f7374796c653d666c6174)](https://hasura.io/docs)
+
+Hasura V2 is the current stable version of the Hasura GraphQL Engine. Please find more detailed information about the V2 Hasura Graphql Engine in the `v2` folder and this [README](https://github.com/hasura/graphql-engine/blob/master/V2-README.md).
+
+Cloning repository
+------------------
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#cloning-repository)
+
+This repository is a large and active mono-repo containing many parts of the Hasura ecosystem and a long git history, that can make the first time cloning of the repository slow and consume a lot of disk space. We recommend following if you are facing cloning issues.
+
+### Shallow clone
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#shallow-clone)
+
+This will only clone the latest commit and ignore all historical commits.
+
+```
+git clone https://github.com/hasura/graphql-engine.git --depth 1
+```
+
+### Git checkout with only Hasura V3 engine code
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#git-checkout-with-only-hasura-v3-engine-code)
+
+```
+git clone --no-checkout https://github.com/hasura/graphql-engine.git --depth 1
+cd graphql-engine
+git sparse-checkout init --cone
+git sparse-checkout set v3
+git checkout @
+```
+
+This checkouts the top level files and only the `v3` folder which contains the Hasura V3 Engine code.
+
+Support & Troubleshooting
+-------------------------
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#support--troubleshooting)
+
+To troubleshoot most issues, check out our documentation and community resources. If you have encountered a bug or need to get in touch with us, you can contact us using one of the following channels:
+
+*   Hasura DDN documentation: [DDN docs](https://hasura.io/docs/3.0/)
+*   Hasura V2 documentation: [V2 docs](https://hasura.io/docs/)
+*   Support & feedback: [Discord](https://discord.gg/hasura)
+*   Issue & bug tracking: [GitHub issues](https://github.com/hasura/graphql-engine/issues)
+*   Follow product updates: [@HasuraHQ](https://twitter.com/hasurahq)
+*   Talk to us on our [website chat](https://hasura.io/)
+
+Code of Conduct
+---------------
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#code-of-conduct)
+
+We are committed to fostering an open and welcoming environment in the community. Please see the [Code of Conduct](https://github.com/hasura/graphql-engine/blob/master/code-of-conduct.md).
+
+Security
+--------
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#security)
+
+If you want to report a security issue, please [read this](https://github.com/hasura/graphql-engine/blob/master/SECURITY.md).
+
+Stay up to date
+---------------
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#stay-up-to-date)
+
+Join our communities to stay up to date on announcements, events, product updates, and technical blogs. [https://hasura.io/community/](https://hasura.io/community/)
+
+Contributing
+------------
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#contributing)
+
+Check out our [contributing guide](https://github.com/hasura/graphql-engine/blob/master/CONTRIBUTING.md) for more details.
+
+Brand assets
+------------
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#brand-assets)
+
+Hasura brand assets (logos, the Hasura mascot, powered by badges etc.) can be found in the [v2/assets/brand](https://github.com/hasura/graphql-engine/blob/master/assets/brand) folder. Feel free to use them in your application/website etc. We'd be thrilled if you add the "Powered by Hasura" badge to your applications built using Hasura. ❤️
+
+Licenses
+--------
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#licenses)
+
+### V3
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#v3)
+
+All the [Data Connectors](https://github.com/hasura/ndc-hub) are available under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+The core [V3 GraphQL Engine](https://github.com/hasura/graphql-engine/blob/master/v3) is intended to be licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) (Apache-2.0).
+
+### V2
+
+[](https://github.com/hasura/graphql-engine?screenshot=true#v2)
+
+The V2 core GraphQL Engine is available under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) (Apache-2.0).
+
+All **other contents** in the v2 folder (except those in [`server`](https://github.com/hasura/graphql-engine/blob/master/v2/server), [`cli`](https://github.com/hasura/graphql-engine/blob/master/v2/cli) and [`console`](https://github.com/hasura/graphql-engine/blob/master/v2/console) directories) are available under the [MIT License](https://github.com/hasura/graphql-engine/blob/master/LICENSE-community). This includes everything in the [`docs`](https://github.com/hasura/graphql-engine/blob/master/v2/docs) and [`community`](https://github.com/hasura/graphql-engine/blob/master/v2/community) directories.
+
+About
+-----
+
+Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
+
+[hasura.io](https://hasura.io/ "https://hasura.io")
+
+### Topics
+
+[api](https://github.com/topics/api "Topic: api") [graphql](https://github.com/topics/graphql "Topic: graphql") [bigquery](https://github.com/topics/bigquery "Topic: bigquery") [postgres](https://github.com/topics/postgres "Topic: postgres") [haskell](https://github.com/topics/haskell "Topic: haskell") [sql-server](https://github.com/topics/sql-server "Topic: sql-server") [mongodb](https://github.com/topics/mongodb "Topic: mongodb") [rest-api](https://github.com/topics/rest-api "Topic: rest-api") [graphql-server](https://github.com/topics/graphql-server "Topic: graphql-server") [access-control](https://github.com/topics/access-control "Topic: access-control") [hasura](https://github.com/topics/hasura "Topic: hasura") [graphql-api](https://github.com/topics/graphql-api "Topic: graphql-api") [subgraph](https://github.com/topics/subgraph "Topic: subgraph") [automatic-api](https://github.com/topics/automatic-api "Topic: automatic-api") [supergraph](https://github.com/topics/supergraph "Topic: supergraph")
+
+### Resources
+
+[Readme](https://github.com/hasura/graphql-engine?screenshot=true#readme-ov-file)
+
+### License
+
+Apache-2.0, MIT licenses found
+
+### Licenses found
+
+[Apache-2.0 LICENSE](https://github.com/hasura/graphql-engine/blob/master/LICENSE)[MIT LICENSE-community](https://github.com/hasura/graphql-engine/blob/master/LICENSE-community)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/hasura/graphql-engine?screenshot=true#coc-ov-file)
+
+### Security policy
+
+[Security policy](https://github.com/hasura/graphql-engine?screenshot=true#security-ov-file)
+
+[Activity](https://github.com/hasura/graphql-engine/activity)
+
+[Custom properties](https://github.com/hasura/graphql-engine/custom-properties)
+
+### Stars
+
+[**31.3k** stars](https://github.com/hasura/graphql-engine/stargazers)
+
+### Watchers
+
+[**326** watching](https://github.com/hasura/graphql-engine/watchers)
+
+### Forks
+
+[**2.8k** forks](https://github.com/hasura/graphql-engine/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhasura%2Fgraphql-engine&report=hasura+%28user%29)
+
+[Releases 279](https://github.com/hasura/graphql-engine/releases)
+-----------------------------------------------------------------
+
+[v2.45.1 Latest Dec 6, 2024](https://github.com/hasura/graphql-engine/releases/tag/v2.45.1)
+
+[\+ 278 releases](https://github.com/hasura/graphql-engine/releases)
+
+[Packages 0](https://github.com/orgs/hasura/packages?repo_name=graphql-engine)
+------------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 559](https://github.com/hasura/graphql-engine/graphs/contributors)
+--------------------------------------------------------------------------------
+
+*   [![Image 40: @rikinsk](https://avatars.githubusercontent.com/u/54616969?s=64&v=4)](https://github.com/rikinsk)
+*   [![Image 41: @danieljharvey](https://avatars.githubusercontent.com/u/4729125?s=64&v=4)](https://github.com/danieljharvey)
+*   [![Image 42: @rakeshkky](https://avatars.githubusercontent.com/u/12475069?s=64&v=4)](https://github.com/rakeshkky)
+*   [![Image 43: @robertjdominguez](https://avatars.githubusercontent.com/u/24390149?s=64&v=4)](https://github.com/robertjdominguez)
+*   [![Image 44: @SamirTalwar](https://avatars.githubusercontent.com/u/47582?s=64&v=4)](https://github.com/SamirTalwar)
+*   [![Image 45: @hasura-bot](https://avatars.githubusercontent.com/u/30118761?s=64&v=4)](https://github.com/hasura-bot)
+*   [![Image 46: @github-actions[bot]](https://avatars.githubusercontent.com/in/15368?s=64&v=4)](https://github.com/apps/github-actions)
+*   [![Image 47: @nicuveo](https://avatars.githubusercontent.com/u/1618949?s=64&v=4)](https://github.com/nicuveo)
+*   [![Image 48: @vijayprasanna13](https://avatars.githubusercontent.com/u/11921040?s=64&v=4)](https://github.com/vijayprasanna13)
+*   [![Image 49: @scriptonist](https://avatars.githubusercontent.com/u/8335904?s=64&v=4)](https://github.com/scriptonist)
+*   [![Image 50: @codingkarthik](https://avatars.githubusercontent.com/u/15602904?s=64&v=4)](https://github.com/codingkarthik)
+*   [![Image 51: @daniel-chambers](https://avatars.githubusercontent.com/u/1214352?s=64&v=4)](https://github.com/daniel-chambers)
+*   [![Image 52: @Varun-Choudhary](https://avatars.githubusercontent.com/u/68095256?s=64&v=4)](https://github.com/Varun-Choudhary)
+*   [![Image 53: @shahidhk](https://avatars.githubusercontent.com/u/4124733?s=64&v=4)](https://github.com/shahidhk)
+
+[\+ 545 contributors](https://github.com/hasura/graphql-engine/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 44.4%](https://github.com/hasura/graphql-engine/search?l=typescript)
+*   [Haskell 28.1%](https://github.com/hasura/graphql-engine/search?l=haskell)
+*   [Rust 9.6%](https://github.com/hasura/graphql-engine/search?l=rust)
+*   [JavaScript 6.5%](https://github.com/hasura/graphql-engine/search?l=javascript)
+*   [Go 3.9%](https://github.com/hasura/graphql-engine/search?l=go)
+*   [Python 2.8%](https://github.com/hasura/graphql-engine/search?l=python)
+*   Other 4.7%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

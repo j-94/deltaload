@@ -1,0 +1,82 @@
+![Image 7](https://lnx.rs/logo.png)
+
+Lightning-fast,
+
+Feature-rich search.
+
+### An adaptable search engine API.
+
+Make it
+
+\>
+
+lightning fast. relevant. typo tolerant. search as you type. your way.
+
+An open-source, lightning-fast and typo tolerant search engine empowering developers and users alike.
+
+![Image 8](https://lnx.rs/love.svg)
+
+Community Driven
+
+100% open-source, built for the community.
+
+![Image 9](https://lnx.rs/lightning.svg)
+
+Insanely Fast
+
+Query millions of documents in milliseconds with our fast-fuzzy system.
+
+Typo Tolerant
+
+lnx provides fuzzy query systems to give you a typo-tolerant query.
+
+Multi-Language
+
+Currently lnx supports 17 latin languages. Chinese, Japanese and Korean are planned.
+
+### Quick start with docker
+
+Get started in seconds with our [docker images](https://hub.docker.com/r/chillfish8/lnx) , just run:
+
+docker run -p "8000:8000" chillfish8/lnx:latest --host "0.0.0.0"
+
+Once setup you can create indexes and start exploring everything  
+lnx has to offer with [the docs.](https://docs.lnx.rs/)
+
+### The query kinds
+
+### The "normal" query
+
+This mode exposes the [Tantivy query parser](https://docs.rs/tantivy/0.16.0/tantivy/query/struct.QueryParser.html) which gives you a powerful query language for searching things like logs.
+
+### The "fuzzy" query
+
+This mode uses the traditional [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) to find close matches giving you typo-tolerance with your queries.
+
+### The "more-like-this" query
+
+Get similar documents to a reference document, great for e-commerce or e-readers.
+
+### The "fast-fuzzy" query
+
+The fast-fuzzy mode is a implementation of the [symspell algorithm](https://towardsdatascience.com/symspellcompound-10ec8f467c9b) which provides spell corrections via pre-computation. This is the secret sauce behind being able to blow other engines out of the water when it comes to fuzzy searching.
+
+Sorting By Field
+
+Results can be sorted by any fast-field quickly and easily.
+
+Stop Words
+
+With a pre-made set, stop words can be removed to boost relevancy in queries.
+
+Token Bearer Authorization
+
+Secure your system giving permissions based access to specific users.
+
+Boost Fields
+
+Each fields can be individually adjusted to give the best searching experience.
+
+Fast-Fuzzy Pre-Computation
+
+This feature uses pre-computation to boost fuzzy query performance by over 10x.

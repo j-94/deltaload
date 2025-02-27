@@ -1,0 +1,113 @@
+[Gentopia.AI](http://gentopia.ai/) : A Collaborative Platform for Tool-Augmented LLMs
+
+Natural-Language Multi-Agent Simulations of Argumentative Opinion Dynamics
+
+Karlsruhe Institute of Technology
+
+WebGPT: Browser-assisted question-answering with human feedback
+
+MemPrompt: Memory-assisted Prompt Editing with User Feedback
+
+Carnegie Mellon University
+
+https://github.com/madaan/memprompt
+
+Chain-of-Thought Prompting Elicits Reasoningin Large Language Models
+
+Self-Consistency Improves Chain of Thought Reasoning in Language Models
+
+Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
+
+https://say-can.github.io/
+
+MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning
+
+TALM: Tool Augmented Language Models
+
+A Neural Network Solves, Explains, and Generates University Math Problems by Program Synthesis and Few-Shot Learning at Human Level
+
+Massachusetts Institute of Technology
+
+A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis
+
+https://webshop-pnlp.github.io/
+
+WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents
+
+https://github.com/princeton-nlp/WebShop
+
+Inner Monologue: Embodied Reasoning through Planning with Language Models
+
+https://innermonologue.github.io/
+
+Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents
+
+https://github.com/huangwl18/language-planner
+
+Social Simulacra: Creating Populated Prototypes for Social Computing Systems
+
+Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies
+
+Olin College of Engineering
+
+https://github.com/GatiAher/UsingLarge-Language-Models-to-Replicate-Human-Subject-Studies.
+
+Out of One, Many: Using Language Models to Simulate Human Samples
+
+Political Science and Economy
+
+Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction
+
+Korea Advanced Institute of Science and Technology
+
+General Autonomous Agents
+
+https://docs.langchain.com/docs/
+
+ReAct: Synergizing Reasoning and Acting in Language Models
+
+https://github.com/ysymyth/ReAct
+
+Generating Executable Action Plans with Environmentally-Aware Language Models
+
+University of North Carolina
+
+Planning with Large Language Models via Corrective Re-prompting
+
+Language Models as Agent Models
+
+Massachusetts Institute of Technology
+
+Evaluating Human-Language Model Interaction
+
+Memory Augmented Large Language Models are Computationally Universal
+
+Blind Judgement: Agent-Based Supreme Court Modelling With GPT
+
+Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?
+
+Massachusetts Institute of Technology
+
+University College London
+
+Political Science and Economy
+
+Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling
+
+UniUniversity of California
+
+https://github.com/DeckardAgent/deckard
+
+Collaborating with language models for embodied reasoning
+
+Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents
+
+University of California Los Angeles
+
+Theory of Mind May Have Spontaneously Emerged in Large Language Models
+
+Chain of Hindsight Aligns Language Models with Feedback
+
+Toolformer: Language Models Can Teach Themselves to Use Tools
+
+https://github.com/lucidrains/toolformer-pytorch

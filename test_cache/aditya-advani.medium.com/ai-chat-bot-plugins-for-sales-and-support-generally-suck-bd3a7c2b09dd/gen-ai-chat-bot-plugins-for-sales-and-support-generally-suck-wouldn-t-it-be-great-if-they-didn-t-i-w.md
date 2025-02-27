@@ -1,0 +1,206 @@
+---
+title: Gen AI chat bot plugins for sales and support generally suck. Wouldn’t it be great if they didn’t? I wish there was a Chatbot Cup!
+description: AI chatbot plugins suck. Right now no Shopify Chatbot Cup exists let's organize one, let me know I’m happy to judge or give feedback. 15+ years experience
+url: https://aditya-advani.medium.com/ai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd
+timestamp: 2025-01-20T15:45:05.507Z
+domain: aditya-advani.medium.com
+path: ai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd
+---
+
+# Gen AI chat bot plugins for sales and support generally suck. Wouldn’t it be great if they didn’t? I wish there was a Chatbot Cup!
+
+
+AI chatbot plugins suck. Right now no Shopify Chatbot Cup exists let's organize one, let me know I’m happy to judge or give feedback. 15+ years experience
+
+
+## Content
+
+Gen AI chat bot plugins for sales and support generally suck. Wouldn’t it be great if they didn’t? I wish there was a Chatbot Cup! | by Aditya Advani | Medium
+===============
+ 
+
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Fbd3a7c2b09dd&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![Image 9](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+
+Gen AI chat bot plugins for sales and support generally suck. Wouldn’t it be great if they didn’t? I wish there was a Chatbot Cup!
+==================================================================================================================================
+
+[![Image 10: Aditya Advani](https://miro.medium.com/v2/resize:fill:88:88/1*5rDAq_A200sooS0Kke7TLw.jpeg)](https://aditya-advani.medium.com/?source=post_page---byline--bd3a7c2b09dd--------------------------------)
+
+[Aditya Advani](https://aditya-advani.medium.com/?source=post_page---byline--bd3a7c2b09dd--------------------------------)
+
+·[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fc038b398fec8&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&user=Aditya+Advani&userId=c038b398fec8&source=post_page-c038b398fec8--byline--bd3a7c2b09dd---------------------post_header-----------)
+
+2 min read
+
+·
+
+Aug 15, 2023
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fbd3a7c2b09dd&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&user=Aditya+Advani&userId=c038b398fec8&source=---header_actions--bd3a7c2b09dd---------------------clap_footer-----------)
+
+\--
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbd3a7c2b09dd&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&source=---header_actions--bd3a7c2b09dd---------------------bookmark_footer-----------)
+
+Listen
+
+Share
+
+Right now no such Chatbot Cup exists but please if you’re interested in organizing one, let me know I’m happy to judge or give feedback. I have 15+ years experience in building ecommerce stores and SaaS. Also almost a year of meddling around daily with Generative AI :)
+
+![Image 11: Stable Diffusion & I dreamed up this Shopify Chatbot Cup illustration. It’s got a bunch of weird robo-cups in squares in the background and then a huge smiling prizewinning trophy cup in the foreground, that’s also kind of anthropomorphized and is smiling](https://miro.medium.com/v2/resize:fit:700/1*MkF1p1N_k3wkzYshWWt37g.png)
+
+Illustration by me via Stable Diffusion of that Chatbot glory
+
+This is how it might work:
+==========================
+
+1.  Dummy 5 Shopify stores with a bunch of dummy orders x 5 product categories (Apparel, Gifts, Health and wellness products, Sustainable and eco-friendly products, Personalized and customizable products)
+2.  Judging panel sets up scenarios for modeling different sales and support situations — ordinary ones going all the way to ludicrous & fraudulent & intimidating ones — trying to get the store owner’s home address or use a fake gift card etc. Set would include discussion of sizes, payments, order status, tracking info, returns. We train an agent to play the role of customer here.
+3.  We then drop in each participating Chatbot’s 1 line javascript on a fresh copy of each store and boom play the agent on it in parallel.
+4.  We then format and stylize the conversations correctly and have a distributed judging panel of customer service experts (Shopify store owners and support ops / ppl, ecommerce doyens and so on) rate the best and produce awards in a number of categories.
+5.  Bunch of great media showcasing the results
+
+It can be funded by each participating chatbot company paying $500 or Shopify just paying for the whole thing, or both, whichever.
+
+It could be like Top Chef for ecommerce & Gen AI nerds wdyt Internet? I think we need to make these sort of gamified tests happen for consumer facing AI chatbots.
+
+EXEGESIS
+========
+
+Written while architecting my own chatbot for [www.bestparents.com](http://www.bestparents.com/). Not a Shopify store but going through the frameworks and options and just not digging what I see out there that’s pre-made.
+
+Also met a founder building a chatbot for apparel and have been consulting with Taranjeet and Dharam of [https://embedchain.ai/](https://embedchain.ai/) [https://twitter.com/embedchain](https://twitter.com/embedchain), who have built the most DXlicious framework I have seen yet for developers looking to roll their own chatbots.
+
+I’m running through the situations and queries in my head and in my notes, even just for sales and marveling at just how much needs to be done to get these bots customer-friendly from end-to-end for me to allow one of them onto my marketplace and how far that is from what the current crop of Gen AI startups seem to be offering out of the box.
+
+![Image 12](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+
+Sign up to discover human stories that deepen your understanding of the world.
+------------------------------------------------------------------------------
+
+Free
+----
+
+Distraction-free reading. No ads.
+
+Organize your knowledge with lists and highlights.
+
+Tell your story. Find your audience.
+
+Sign up for free
+
+Membership
+----------
+
+Read member-only stories
+
+Support writers you read most
+
+Earn money for your writing
+
+Listen to audio narrations
+
+Read offline with the Medium app
+
+Try for $5/month
+
+[Chatbot Design](https://medium.com/tag/chatbot-design?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[Chatbot Development](https://medium.com/tag/chatbot-development?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[ChatGPT](https://medium.com/tag/chatgpt?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[AI](https://medium.com/tag/ai?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[Generative Ai Tools](https://medium.com/tag/generative-ai-tools?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fbd3a7c2b09dd&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&user=Aditya+Advani&userId=c038b398fec8&source=---footer_actions--bd3a7c2b09dd---------------------clap_footer-----------)
+
+\--
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fbd3a7c2b09dd&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&user=Aditya+Advani&userId=c038b398fec8&source=---footer_actions--bd3a7c2b09dd---------------------clap_footer-----------)
+
+\--
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbd3a7c2b09dd&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&source=---footer_actions--bd3a7c2b09dd---------------------bookmark_footer-----------)
+
+[![Image 13: Aditya Advani](https://miro.medium.com/v2/resize:fill:96:96/1*5rDAq_A200sooS0Kke7TLw.jpeg)](https://aditya-advani.medium.com/?source=post_page---post_author_info--bd3a7c2b09dd--------------------------------)
+
+[![Image 14: Aditya Advani](https://miro.medium.com/v2/resize:fill:128:128/1*5rDAq_A200sooS0Kke7TLw.jpeg)](https://aditya-advani.medium.com/?source=post_page---post_author_info--bd3a7c2b09dd--------------------------------)
+
+Follow
+
+[Written by Aditya Advani ------------------------](https://aditya-advani.medium.com/?source=post_page---post_author_info--bd3a7c2b09dd--------------------------------)
+
+[86 Followers](https://aditya-advani.medium.com/followers?source=post_page---post_author_info--bd3a7c2b09dd--------------------------------)
+
+·[233 Following](https://aditya-advani.medium.com/following?source=post_page---post_author_info--bd3a7c2b09dd--------------------------------)
+
+Teaching is more distinctively human than learning.
+
+Follow
+
+No responses yet
+----------------
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--bd3a7c2b09dd--------------------------------)
+
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&source=---post_responses--bd3a7c2b09dd---------------------respond_sidebar-----------)
+
+Also publish to my profile
+
+Respond
+
+Respond
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[About](https://medium.com/about?autoplay=1&source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[Press](https://aditya-advani.medium.com/pressinquiries@medium.com?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+[Teams](https://medium.com/business?source=post_page-----bd3a7c2b09dd--------------------------------)
+
+## Metadata
+
+```json
+{
+  "title": "Gen AI chat bot plugins for sales and support generally suck. Wouldn’t it be great if they didn’t? I wish there was a Chatbot Cup!",
+  "description": "AI chatbot plugins suck. Right now no Shopify Chatbot Cup exists let's organize one, let me know I’m happy to judge or give feedback. 15+ years experience",
+  "url": "https://aditya-advani.medium.com/ai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd",
+  "content": "Gen AI chat bot plugins for sales and support generally suck. Wouldn’t it be great if they didn’t? I wish there was a Chatbot Cup! | by Aditya Advani | Medium\n===============\n \n\n[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Fbd3a7c2b09dd&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=---top_nav_layout_nav----------------------------------)\n\nSign up\n\n[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)\n\n[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)\n\n[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)\n\n[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)\n\nSign up\n\n[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)\n\n![Image 9](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)\n\nGen AI chat bot plugins for sales and support generally suck. Wouldn’t it be great if they didn’t? I wish there was a Chatbot Cup!\n==================================================================================================================================\n\n[![Image 10: Aditya Advani](https://miro.medium.com/v2/resize:fill:88:88/1*5rDAq_A200sooS0Kke7TLw.jpeg)](https://aditya-advani.medium.com/?source=post_page---byline--bd3a7c2b09dd--------------------------------)\n\n[Aditya Advani](https://aditya-advani.medium.com/?source=post_page---byline--bd3a7c2b09dd--------------------------------)\n\n·[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fc038b398fec8&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&user=Aditya+Advani&userId=c038b398fec8&source=post_page-c038b398fec8--byline--bd3a7c2b09dd---------------------post_header-----------)\n\n2 min read\n\n·\n\nAug 15, 2023\n\n[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fbd3a7c2b09dd&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&user=Aditya+Advani&userId=c038b398fec8&source=---header_actions--bd3a7c2b09dd---------------------clap_footer-----------)\n\n\\--\n\n[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbd3a7c2b09dd&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&source=---header_actions--bd3a7c2b09dd---------------------bookmark_footer-----------)\n\nListen\n\nShare\n\nRight now no such Chatbot Cup exists but please if you’re interested in organizing one, let me know I’m happy to judge or give feedback. I have 15+ years experience in building ecommerce stores and SaaS. Also almost a year of meddling around daily with Generative AI :)\n\n![Image 11: Stable Diffusion & I dreamed up this Shopify Chatbot Cup illustration. It’s got a bunch of weird robo-cups in squares in the background and then a huge smiling prizewinning trophy cup in the foreground, that’s also kind of anthropomorphized and is smiling](https://miro.medium.com/v2/resize:fit:700/1*MkF1p1N_k3wkzYshWWt37g.png)\n\nIllustration by me via Stable Diffusion of that Chatbot glory\n\nThis is how it might work:\n==========================\n\n1.  Dummy 5 Shopify stores with a bunch of dummy orders x 5 product categories (Apparel, Gifts, Health and wellness products, Sustainable and eco-friendly products, Personalized and customizable products)\n2.  Judging panel sets up scenarios for modeling different sales and support situations — ordinary ones going all the way to ludicrous & fraudulent & intimidating ones — trying to get the store owner’s home address or use a fake gift card etc. Set would include discussion of sizes, payments, order status, tracking info, returns. We train an agent to play the role of customer here.\n3.  We then drop in each participating Chatbot’s 1 line javascript on a fresh copy of each store and boom play the agent on it in parallel.\n4.  We then format and stylize the conversations correctly and have a distributed judging panel of customer service experts (Shopify store owners and support ops / ppl, ecommerce doyens and so on) rate the best and produce awards in a number of categories.\n5.  Bunch of great media showcasing the results\n\nIt can be funded by each participating chatbot company paying $500 or Shopify just paying for the whole thing, or both, whichever.\n\nIt could be like Top Chef for ecommerce & Gen AI nerds wdyt Internet? I think we need to make these sort of gamified tests happen for consumer facing AI chatbots.\n\nEXEGESIS\n========\n\nWritten while architecting my own chatbot for [www.bestparents.com](http://www.bestparents.com/). Not a Shopify store but going through the frameworks and options and just not digging what I see out there that’s pre-made.\n\nAlso met a founder building a chatbot for apparel and have been consulting with Taranjeet and Dharam of [https://embedchain.ai/](https://embedchain.ai/) [https://twitter.com/embedchain](https://twitter.com/embedchain), who have built the most DXlicious framework I have seen yet for developers looking to roll their own chatbots.\n\nI’m running through the situations and queries in my head and in my notes, even just for sales and marveling at just how much needs to be done to get these bots customer-friendly from end-to-end for me to allow one of them onto my marketplace and how far that is from what the current crop of Gen AI startups seem to be offering out of the box.\n\n![Image 12](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)\n\nSign up to discover human stories that deepen your understanding of the world.\n------------------------------------------------------------------------------\n\nFree\n----\n\nDistraction-free reading. No ads.\n\nOrganize your knowledge with lists and highlights.\n\nTell your story. Find your audience.\n\nSign up for free\n\nMembership\n----------\n\nRead member-only stories\n\nSupport writers you read most\n\nEarn money for your writing\n\nListen to audio narrations\n\nRead offline with the Medium app\n\nTry for $5/month\n\n[Chatbot Design](https://medium.com/tag/chatbot-design?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[Chatbot Development](https://medium.com/tag/chatbot-development?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[ChatGPT](https://medium.com/tag/chatgpt?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[AI](https://medium.com/tag/ai?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[Generative Ai Tools](https://medium.com/tag/generative-ai-tools?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fbd3a7c2b09dd&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&user=Aditya+Advani&userId=c038b398fec8&source=---footer_actions--bd3a7c2b09dd---------------------clap_footer-----------)\n\n\\--\n\n[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fbd3a7c2b09dd&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&user=Aditya+Advani&userId=c038b398fec8&source=---footer_actions--bd3a7c2b09dd---------------------clap_footer-----------)\n\n\\--\n\n[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbd3a7c2b09dd&operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&source=---footer_actions--bd3a7c2b09dd---------------------bookmark_footer-----------)\n\n[![Image 13: Aditya Advani](https://miro.medium.com/v2/resize:fill:96:96/1*5rDAq_A200sooS0Kke7TLw.jpeg)](https://aditya-advani.medium.com/?source=post_page---post_author_info--bd3a7c2b09dd--------------------------------)\n\n[![Image 14: Aditya Advani](https://miro.medium.com/v2/resize:fill:128:128/1*5rDAq_A200sooS0Kke7TLw.jpeg)](https://aditya-advani.medium.com/?source=post_page---post_author_info--bd3a7c2b09dd--------------------------------)\n\nFollow\n\n[Written by Aditya Advani ------------------------](https://aditya-advani.medium.com/?source=post_page---post_author_info--bd3a7c2b09dd--------------------------------)\n\n[86 Followers](https://aditya-advani.medium.com/followers?source=post_page---post_author_info--bd3a7c2b09dd--------------------------------)\n\n·[233 Following](https://aditya-advani.medium.com/following?source=post_page---post_author_info--bd3a7c2b09dd--------------------------------)\n\nTeaching is more distinctively human than learning.\n\nFollow\n\nNo responses yet\n----------------\n\n[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--bd3a7c2b09dd--------------------------------)\n\n[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Faditya-advani.medium.com%2Fai-chat-bot-plugins-for-sales-and-support-generally-suck-bd3a7c2b09dd&source=---post_responses--bd3a7c2b09dd---------------------respond_sidebar-----------)\n\nAlso publish to my profile\n\nRespond\n\nRespond\n\n[Help](https://help.medium.com/hc/en-us?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[Status](https://medium.statuspage.io/?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[About](https://medium.com/about?autoplay=1&source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[Press](https://aditya-advani.medium.com/pressinquiries@medium.com?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[Blog](https://blog.medium.com/?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[Text to speech](https://speechify.com/medium?source=post_page-----bd3a7c2b09dd--------------------------------)\n\n[Teams](https://medium.com/business?source=post_page-----bd3a7c2b09dd--------------------------------)",
+  "publishedTime": "2023-08-15T19:30:38.543Z",
+  "usage": {
+    "tokens": 3042
+  }
+}
+```

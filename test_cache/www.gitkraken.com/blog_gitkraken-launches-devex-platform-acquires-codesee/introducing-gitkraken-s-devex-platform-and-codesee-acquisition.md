@@ -1,0 +1,167 @@
+---
+title: Introducing GitKraken's DevEx Platform and Codesee Acquisition
+description: GitKraken acquires CodeSee and launches unified DevEx Platform, enhancing dev teams' workflows across all major development environments.
+url: https://www.gitkraken.com/blog/gitkraken-launches-devex-platform-acquires-codesee
+timestamp: 2025-01-20T16:18:16.953Z
+domain: www.gitkraken.com
+path: blog_gitkraken-launches-devex-platform-acquires-codesee
+---
+
+# Introducing GitKraken's DevEx Platform and Codesee Acquisition
+
+
+GitKraken acquires CodeSee and launches unified DevEx Platform, enhancing dev teams' workflows across all major development environments.
+
+
+## Content
+
+**_TL;DR:_** _GitKraken acquires CodeSee and launches the unified [GitKraken DevEx Platform](http://gitkraken.com/devex), enhancing workflows across all major development environments and setting new standards in developer tools. Dive in to discover our powerful new features and how they contribute to simplifying your coding life._
+
+Almost a decade ago, we introduced GitKraken Client with a clear mission: make Git simpler for developers. The power of GitKraken was (and still is 😄) user-friendly visualizations that help developers get the most out of Git, without all the headaches.
+
+We’ve come a long way since then, expanding our toolkit with [GitLens for VS Code](https://www.gitkraken.com/gitlens) (JetBrains and Visual Studio coming this year) and introducing both [GitKraken CLI](https://www.gitkraken.com/cli) and [Browser Extension](https://www.gitkraken.com/browser-extension) to integrate Git workflows across all environments.
+
+Today, we’re taking a monumental leap forward with the acquisition of CodeSee—a pivotal step in consolidating our innovative suite of tools into a cohesive Developer Experience (DevEx) platform. By weaving CodeSee’s advanced workflow automation and code understanding into our ecosystem, we’re setting a new standard in developer tools.
+
+Here’s what’s new and noteworthy:
+
+We’re combining CodeSee’s cutting-edge technology with our powerful tools to create the [GitKraken DevEx platform](https://www.gitkraken.com/devex). This unified platform is all about boosting your workflow across GitHub, GitLab, Bitbucket, Azure DevOps, Jira, and Trello. It simplifies your development process and provides the support you need, no matter where you code.
+
+_What do we mean by a unified DevEx platform?_ It means combining all of our essential dev tools—like GitLens and our leading Git GUI—with powerful collaboration features to create a **seamlessly connected experience** across desktop, IDE, terminal, web, and mobile environments. And that’s not all—here’s what else we’re unveiling today as part of our DevEx platform:
+
+*   **CodeSee:** We’ve acquired [CodeSee’s](http://www.codesee.io/) code automation and code health capabilities. This acquisition adds:
+    *   Powerful code visualization and workflow automation
+    *   Intuitive code and function maps
+*   **[Code Suggest](https://www.gitkraken.com/solutions/code-suggest):** As simple as Google Docs for PRs. This powerful new feature lets you edit and comment anywhere in your project – not just the bits that were already changed, breaking free from GitHub’s restrictive comment-only feedback style. It’s about making the review process comprehensive and genuinely helpful.
+*   **[Launchpad](https://www.gitkraken.com/solutions/launchpad)**: Meet your new real-time command center for managing PRs, Issues and work-in-progress. It’s your one-stop-shop to organize, prioritize, and act more efficiently.
+*   **GitKraken.dev:** Access GitKraken’s powerful features from anywhere with our new browser-based tool—perfect for managing your workflows on-the-go and quick code reviews.
+*   **AI-Powered Development:** Boost your productivity with our AI capabilities, now including support for Google Gemini. These tools automatically generate commit messages, deliver detailed code insights, and help devs navigate complex codebases, enhancing both your development speed and team performance. Soon, expect even more benefits with capabilities through strategic partnerships.
+*   **Your beloved Git GUI evolves to GitKraken Desktop:** New name, huh? More like a new era. Changing our flagship product’s name is a reflection of the importance of the desktop as the access point to our DevEx platform for millions of developers. 
+
+A Decade of Impact: Looking Back and Charging Forward
+-----------------------------------------------------
+
+In the past decade, we’ve changed the game for millions of developers – our tools have been used to visualize over 1 billion (yep, with a B) code commits. What used to be confusion, is now clear and manageable. Think about it: millions of commits, pull requests, and merge conflicts managed more efficiently every single day. The result? Hundreds of millions of hours saved for developers like you each year – allowing you to focus on what truly matters: writing great code.
+
+But we’re not just kicking back and admiring the view. We’re taking what we’ve learned and pushing further… much further. Imagine a world where [PR & code review frustrations](https://www.gitkraken.com/developer-problems/pr-and-code-review) are minimized, where [Git complexities](https://www.gitkraken.com/developer-problems/git-is-complicated) are laughably simple, and where even the [messiest merge conflicts](https://www.gitkraken.com/developer-problems/merge-conflicts) are easy to sort out (or never happen in the first place).
+
+That’s not just a dream; we’re making it happen – and today’s announcements are just the beginning. We’re not just adapting; we’re leading the charge in redefining the developer experience. Let’s dive into how these exciting developments will shape the next decade of coding.
+
+The GitKraken DevEx Platform: Empowering Developers Everywhere
+--------------------------------------------------------------
+
+GitKraken’s transformation into a DevEx platform is a game-changer, not just for individual developers but for entire teams. By weaving core collaboration capabilities like [Code Suggest](https://www.gitkraken.com/solutions/code-suggest), [Cloud Patches](https://www.gitkraken.com/solutions/cloud-patches), [Workspaces](https://www.gitkraken.com/solutions/workspaces), [Launchpad](https://www.gitkraken.com/solutions/focus-view), and [DORA Insights](https://www.gitkraken.com/solutions/insights) into the fabric of our platform, we’re breaking down the old barriers of tooling. This means whether you’re on your desktop, in the IDE, using the command line, or in your browser, our tools work seamlessly to support your workflow.
+
+ ![Image 40: GitKraken DevEx Platform](https://www.gitkraken.com/wp-content/uploads/2024/05/FINAL-Static-DevEx-fan-diagram-1024x547.png)
+
+**Unified and Connected: It’s All About Collaboration**
+
+Our platform doesn’t just stack features side by side; it integrates them deeply. From managing code commits and navigating PR reviews to streamlining entire development workflows, our tools are designed to work as one. This integration ensures a smooth, connected experience that’s consistent no matter where you work.
+
+**Experience The GitKraken DevEx Platform Wherever You Work:**
+
+*   **On the Desktop:** Dive into the full power of our platform with GitKraken Desktop, offering a robust and intuitive interface for all your Git needs right in your local environment.
+*   **In the IDE:** With GitLens for VS Code—and soon, GitLens for JetBrains—enhance your coding space with deep insights and handy controls right within your IDE.
+*   **On the Command Line:** Use the GitKraken CLI for a streamlined, efficient approach to Git commands, tapping into the platform’s strength even in a text-based setting.
+*   **In the Browser:** GitKraken.dev and the GitKraken Browser Extension put the platform’s functionalities at your fingertips, allowing you to manage Git tasks and review code anytime, anywhere—always connected, always available, no downloads necessary.
+
+**More Than Just Tools**
+
+This isn’t just another set of tools; it’s a cohesive, connected platform designed to make your work smoother. By weaving these features throughout your development process, we’re ensuring you get a reliable and enjoyable experience that lets you focus on what you do best: coding brilliantly.
+
+Today’s Code Reviews: What’s Broken
+-----------------------------------
+
+While we’ve made serious strides in easing Git pain over the years, our work isn’t over—some areas still cause major friction for developers and teams. At the top of the list: PR & code reviews. Existing tools just don’t cut it — they’re clunky, inflexible and make us take the long way around.
+
+Here’s what developers have told us:
+
+*   **Friction and Restrictions:** GitHub’s restrictive feedback style limits PR comments to lines near changes, overlooking broader code improvements – not to mention the clunky nature of adding code suggestions to a textbox as markdown – it’s slow and annoying.
+
+*   **Visibility and Context:** Code changes often arrive without much context, leaving devs to piece things together, a challenge that’s even greater when working remotely.
+
+*   **Cognitive Overload:** Code reviews, already inherently disruptive, become even more taxing due to complexities like limited context, inflexible commenting, and clunky interfaces.
+
+*   **Delayed Collaboration:** Teamwork often stalls until the PR stage, skipping early chances to refine and adjust.
+
+These issues, amplified by remote work, slow down collaboration. Developers need tools that match modern workflows, not outdated processes. It’s time for a change to more intuitive and flexible code review tools.
+
+Introducing GitKraken Code Suggest
+----------------------------------
+
+Say hello to GitKraken [Code Suggest](https://www.gitkraken.com/solutions/code-suggest), your new buddy for tackling the clunkiness of traditional code reviews. As simple as suggesting changes in a Google Doc—this tool allows you to suggest real code changes across your entire project, not just the lines of code that were changed in a PR. By allowing more comprehensive context for changes, Code Suggest helps teams avoid common mistakes, speed up reviews, and boost overall code quality—the true aim of any code review.
+
+What’s New?
+-----------
+
+*   **Suggest Changes Anywhere:** With Code Suggest, suggest changes in any part of a file, or even a completely different file, breaking free from the confines of current tools.
+*   **Direct and Easy:** It’s straightforward—no more wrestling with markdown in a cramped textbox. Work directly in your IDE or wherever you code, speeding up reviews and cutting down on hassle.
+*   **Fits Your Flow:** Code Suggest fits right into your workflow, whether you prefer IDE, command line, desktop or browser. This minimizes disruptions and keeps your focus on the code.
+*   **Team-Centric:** It’s designed for teamwork. Make a suggestion, and it’s visible in GitHub and GitKraken for the whole team. Plus, it creates a link as a comment in the pull request, keeping everyone on the same page.
+
+Comparing the Old and New
+-------------------------
+
+Here’s how we’ve all been commenting on PRs since: forever (look familiar? 😁). Just a basic textbox for comments on, and around, changed lines. Not exactly the height of flexibility.
+
+![Image 41](https://lh7-us.googleusercontent.com/G50aSz54To9webQ29rvc_lNZXTTIJNi3ckIgdCidpy-mBSLZbj2cTu-_kCe28t59otWX4Yc1SK0Rlto2LecwFZ3SQKC43mfpoPCAgkGmqW5Vv5Nwri-kT3ncxUIIaIKcfvR-CJvqxAZQN4DrIf3Ea84)
+
+Now with Code Suggest
+---------------------
+
+**Make Suggestions Where You Code**
+
+Skip the markdown. Code Suggest works wherever you do and allows you to suggest real code changes on anything in your project — not just on the lines of code changed in the PR, so you can focus more on leaving a quality review and less on navigating GitHub’s clunky interface.
+
+![Image 42](https://lh7-us.googleusercontent.com/KlM9PwdllqrCXCqwk0ghHhIHMTbrV0MzWzOzt5mPR7bueky8w4miDsmx3nF2PxGHcaXvzzBkMrKV16a1LZMePOxVSk-Ce25SSdbfHRz1AIxQnwtqWkDZqx2odiqbZyz2HJkOb0J_06clOLoX_eN9Uq8)
+
+**Instant Visibility, Faster Collaboration**
+
+Each suggestion you make syncs instantly across GitHub and the GitKraken DevEx platform. That means your team is always up-to-date, making it easier to stay aligned and make quick decisions. This also helps eliminate the usual delays in feedback and speeds up the review process.
+
+![Image 43](https://lh7-us.googleusercontent.com/OThOl3yMldrKaH6ml2IimywE-fR994uALmrylFZ5itMxugbVOhsyGlxMthXsOfsTVva2orNXk8lXixuKWTChpMMFdg2BwSxOVYTHC8Ten_K2875s8SYWzG5Jst0AZY9OqzC21H9ZEu2ftPAO4XX5z-E)
+
+**Flexible Access to Fit Your Needs**
+
+You can also easily control who sees what with flexible viewing permissions, from public to only specific members of your organization. If you need tighter security, it’s easy to set up your own storage bucket for Code Suggest, so you can keep your data tightly secured and fully under your control.
+
+![Image 44](https://lh7-us.googleusercontent.com/-uyc-0FW-XAmWRsoP302NdXuNIO1c_7vjNEGKX4uONk_jV5C3A0MqdUa6Kg_rz-ZMjSkIz-j1hfFc6wjRQKfLUH0l9rdGXRA6uinhEUGECCvK9gIFdhEzoNPlOUZ0y1a3Q94XlAcyWKTAEdd3yJAspg)
+
+**What Are You Waiting For? Unshackle Your Teams Code Reviews**
+
+Free your code reviews from GitHub’s restrictive, comment-only feedback style. With Code Suggest, you can provide real code suggestions from where you code, e.g. your IDE, and on anything in your project — not just on the lines of code changed in the PR.
+
+![Image 45](https://lh7-us.googleusercontent.com/T_iImufalqTZBChHpayYrGI3EnbuMW2WV7VoP-hRqinHpBWuKLLoRb1y-6rOSHq9-c9DbhtUVCz6kOgxSJd8UOCc2WF2buN08qq-UOhFWXLThMBcBP6PAF-EBUQcJVOqXwFecHvThJK2mBGyMmJ8Gi0)
+
+Why GitKraken Desktop? It’s All Coming Together
+-----------------------------------------------
+
+Shifting from GitKraken Client to GitKraken Desktop reflects our journey to version 10.0—a significant milestone that not only celebrates a decade of progress but also our growth into a unified DevEx platform. As we’ve added tools like GitLens, GitKraken CLI, and GitKraken.dev, we’ve built a powerful set of capabilities that integrates smoothly across IDEs, terminals, and browsers.
+
+GitKraken Desktop is your desktop interface to the broader GitKraken universe. It’s more than a tool; it’s your gateway to a unified development experience, bringing together all the features and services we offer. Just like Docker Desktop streamlines access to Docker, GitKraken Desktop provides a familiar, integrated point of entry to our platform.
+
+Renaming GitKraken Desktop makes sense, aligning with tools like GitHub Desktop, and clarifying its role as the desktop component of our expanding platform. This change isn’t just about a new name; it reinforces its central role in connecting and simplifying your development environment.
+
+Simply put, GitKraken Desktop embodies our shift towards a platform-centric approach, ensuring that you have a consistent, powerful experience, whether you’re working on a local machine, in the cloud, or anywhere in between. It’s the same robust Git client you know and love, now with a name that better represents its place in our expansive DevEx platform.
+
+Wrapping Up
+-----------
+
+We’ve explored a lot today: Code Suggest, the DevEx Platform, and GitKraken Desktop’s evolution. There’s more to each update than we could cover here.
+
+Find out everything you need to know on [GitKraken’s DevEx platform](http://gitkraken.com/devex) and start your free trial today!
+
+## Metadata
+
+```json
+{
+  "title": "Introducing GitKraken's DevEx Platform and Codesee Acquisition",
+  "description": "GitKraken acquires CodeSee and launches unified DevEx Platform, enhancing dev teams' workflows across all major development environments.",
+  "url": "https://www.gitkraken.com/blog/gitkraken-launches-devex-platform-acquires-codesee",
+  "content": "**_TL;DR:_** _GitKraken acquires CodeSee and launches the unified [GitKraken DevEx Platform](http://gitkraken.com/devex), enhancing workflows across all major development environments and setting new standards in developer tools. Dive in to discover our powerful new features and how they contribute to simplifying your coding life._\n\nAlmost a decade ago, we introduced GitKraken Client with a clear mission: make Git simpler for developers. The power of GitKraken was (and still is 😄) user-friendly visualizations that help developers get the most out of Git, without all the headaches.\n\nWe’ve come a long way since then, expanding our toolkit with [GitLens for VS Code](https://www.gitkraken.com/gitlens) (JetBrains and Visual Studio coming this year) and introducing both [GitKraken CLI](https://www.gitkraken.com/cli) and [Browser Extension](https://www.gitkraken.com/browser-extension) to integrate Git workflows across all environments.\n\nToday, we’re taking a monumental leap forward with the acquisition of CodeSee—a pivotal step in consolidating our innovative suite of tools into a cohesive Developer Experience (DevEx) platform. By weaving CodeSee’s advanced workflow automation and code understanding into our ecosystem, we’re setting a new standard in developer tools.\n\nHere’s what’s new and noteworthy:\n\nWe’re combining CodeSee’s cutting-edge technology with our powerful tools to create the [GitKraken DevEx platform](https://www.gitkraken.com/devex). This unified platform is all about boosting your workflow across GitHub, GitLab, Bitbucket, Azure DevOps, Jira, and Trello. It simplifies your development process and provides the support you need, no matter where you code.\n\n_What do we mean by a unified DevEx platform?_ It means combining all of our essential dev tools—like GitLens and our leading Git GUI—with powerful collaboration features to create a **seamlessly connected experience** across desktop, IDE, terminal, web, and mobile environments. And that’s not all—here’s what else we’re unveiling today as part of our DevEx platform:\n\n*   **CodeSee:** We’ve acquired [CodeSee’s](http://www.codesee.io/) code automation and code health capabilities. This acquisition adds:\n    *   Powerful code visualization and workflow automation\n    *   Intuitive code and function maps\n*   **[Code Suggest](https://www.gitkraken.com/solutions/code-suggest):** As simple as Google Docs for PRs. This powerful new feature lets you edit and comment anywhere in your project – not just the bits that were already changed, breaking free from GitHub’s restrictive comment-only feedback style. It’s about making the review process comprehensive and genuinely helpful.\n*   **[Launchpad](https://www.gitkraken.com/solutions/launchpad)**: Meet your new real-time command center for managing PRs, Issues and work-in-progress. It’s your one-stop-shop to organize, prioritize, and act more efficiently.\n*   **GitKraken.dev:** Access GitKraken’s powerful features from anywhere with our new browser-based tool—perfect for managing your workflows on-the-go and quick code reviews.\n*   **AI-Powered Development:** Boost your productivity with our AI capabilities, now including support for Google Gemini. These tools automatically generate commit messages, deliver detailed code insights, and help devs navigate complex codebases, enhancing both your development speed and team performance. Soon, expect even more benefits with capabilities through strategic partnerships.\n*   **Your beloved Git GUI evolves to GitKraken Desktop:** New name, huh? More like a new era. Changing our flagship product’s name is a reflection of the importance of the desktop as the access point to our DevEx platform for millions of developers. \n\nA Decade of Impact: Looking Back and Charging Forward\n-----------------------------------------------------\n\nIn the past decade, we’ve changed the game for millions of developers – our tools have been used to visualize over 1 billion (yep, with a B) code commits. What used to be confusion, is now clear and manageable. Think about it: millions of commits, pull requests, and merge conflicts managed more efficiently every single day. The result? Hundreds of millions of hours saved for developers like you each year – allowing you to focus on what truly matters: writing great code.\n\nBut we’re not just kicking back and admiring the view. We’re taking what we’ve learned and pushing further… much further. Imagine a world where [PR & code review frustrations](https://www.gitkraken.com/developer-problems/pr-and-code-review) are minimized, where [Git complexities](https://www.gitkraken.com/developer-problems/git-is-complicated) are laughably simple, and where even the [messiest merge conflicts](https://www.gitkraken.com/developer-problems/merge-conflicts) are easy to sort out (or never happen in the first place).\n\nThat’s not just a dream; we’re making it happen – and today’s announcements are just the beginning. We’re not just adapting; we’re leading the charge in redefining the developer experience. Let’s dive into how these exciting developments will shape the next decade of coding.\n\nThe GitKraken DevEx Platform: Empowering Developers Everywhere\n--------------------------------------------------------------\n\nGitKraken’s transformation into a DevEx platform is a game-changer, not just for individual developers but for entire teams. By weaving core collaboration capabilities like [Code Suggest](https://www.gitkraken.com/solutions/code-suggest), [Cloud Patches](https://www.gitkraken.com/solutions/cloud-patches), [Workspaces](https://www.gitkraken.com/solutions/workspaces), [Launchpad](https://www.gitkraken.com/solutions/focus-view), and [DORA Insights](https://www.gitkraken.com/solutions/insights) into the fabric of our platform, we’re breaking down the old barriers of tooling. This means whether you’re on your desktop, in the IDE, using the command line, or in your browser, our tools work seamlessly to support your workflow.\n\n ![Image 40: GitKraken DevEx Platform](https://www.gitkraken.com/wp-content/uploads/2024/05/FINAL-Static-DevEx-fan-diagram-1024x547.png)\n\n**Unified and Connected: It’s All About Collaboration**\n\nOur platform doesn’t just stack features side by side; it integrates them deeply. From managing code commits and navigating PR reviews to streamlining entire development workflows, our tools are designed to work as one. This integration ensures a smooth, connected experience that’s consistent no matter where you work.\n\n**Experience The GitKraken DevEx Platform Wherever You Work:**\n\n*   **On the Desktop:** Dive into the full power of our platform with GitKraken Desktop, offering a robust and intuitive interface for all your Git needs right in your local environment.\n*   **In the IDE:** With GitLens for VS Code—and soon, GitLens for JetBrains—enhance your coding space with deep insights and handy controls right within your IDE.\n*   **On the Command Line:** Use the GitKraken CLI for a streamlined, efficient approach to Git commands, tapping into the platform’s strength even in a text-based setting.\n*   **In the Browser:** GitKraken.dev and the GitKraken Browser Extension put the platform’s functionalities at your fingertips, allowing you to manage Git tasks and review code anytime, anywhere—always connected, always available, no downloads necessary.\n\n**More Than Just Tools**\n\nThis isn’t just another set of tools; it’s a cohesive, connected platform designed to make your work smoother. By weaving these features throughout your development process, we’re ensuring you get a reliable and enjoyable experience that lets you focus on what you do best: coding brilliantly.\n\nToday’s Code Reviews: What’s Broken\n-----------------------------------\n\nWhile we’ve made serious strides in easing Git pain over the years, our work isn’t over—some areas still cause major friction for developers and teams. At the top of the list: PR & code reviews. Existing tools just don’t cut it — they’re clunky, inflexible and make us take the long way around.\n\nHere’s what developers have told us:\n\n*   **Friction and Restrictions:** GitHub’s restrictive feedback style limits PR comments to lines near changes, overlooking broader code improvements – not to mention the clunky nature of adding code suggestions to a textbox as markdown – it’s slow and annoying.\n\n*   **Visibility and Context:** Code changes often arrive without much context, leaving devs to piece things together, a challenge that’s even greater when working remotely.\n\n*   **Cognitive Overload:** Code reviews, already inherently disruptive, become even more taxing due to complexities like limited context, inflexible commenting, and clunky interfaces.\n\n*   **Delayed Collaboration:** Teamwork often stalls until the PR stage, skipping early chances to refine and adjust.\n\nThese issues, amplified by remote work, slow down collaboration. Developers need tools that match modern workflows, not outdated processes. It’s time for a change to more intuitive and flexible code review tools.\n\nIntroducing GitKraken Code Suggest\n----------------------------------\n\nSay hello to GitKraken [Code Suggest](https://www.gitkraken.com/solutions/code-suggest), your new buddy for tackling the clunkiness of traditional code reviews. As simple as suggesting changes in a Google Doc—this tool allows you to suggest real code changes across your entire project, not just the lines of code that were changed in a PR. By allowing more comprehensive context for changes, Code Suggest helps teams avoid common mistakes, speed up reviews, and boost overall code quality—the true aim of any code review.\n\nWhat’s New?\n-----------\n\n*   **Suggest Changes Anywhere:** With Code Suggest, suggest changes in any part of a file, or even a completely different file, breaking free from the confines of current tools.\n*   **Direct and Easy:** It’s straightforward—no more wrestling with markdown in a cramped textbox. Work directly in your IDE or wherever you code, speeding up reviews and cutting down on hassle.\n*   **Fits Your Flow:** Code Suggest fits right into your workflow, whether you prefer IDE, command line, desktop or browser. This minimizes disruptions and keeps your focus on the code.\n*   **Team-Centric:** It’s designed for teamwork. Make a suggestion, and it’s visible in GitHub and GitKraken for the whole team. Plus, it creates a link as a comment in the pull request, keeping everyone on the same page.\n\nComparing the Old and New\n-------------------------\n\nHere’s how we’ve all been commenting on PRs since: forever (look familiar? 😁). Just a basic textbox for comments on, and around, changed lines. Not exactly the height of flexibility.\n\n![Image 41](https://lh7-us.googleusercontent.com/G50aSz54To9webQ29rvc_lNZXTTIJNi3ckIgdCidpy-mBSLZbj2cTu-_kCe28t59otWX4Yc1SK0Rlto2LecwFZ3SQKC43mfpoPCAgkGmqW5Vv5Nwri-kT3ncxUIIaIKcfvR-CJvqxAZQN4DrIf3Ea84)\n\nNow with Code Suggest\n---------------------\n\n**Make Suggestions Where You Code**\n\nSkip the markdown. Code Suggest works wherever you do and allows you to suggest real code changes on anything in your project — not just on the lines of code changed in the PR, so you can focus more on leaving a quality review and less on navigating GitHub’s clunky interface.\n\n![Image 42](https://lh7-us.googleusercontent.com/KlM9PwdllqrCXCqwk0ghHhIHMTbrV0MzWzOzt5mPR7bueky8w4miDsmx3nF2PxGHcaXvzzBkMrKV16a1LZMePOxVSk-Ce25SSdbfHRz1AIxQnwtqWkDZqx2odiqbZyz2HJkOb0J_06clOLoX_eN9Uq8)\n\n**Instant Visibility, Faster Collaboration**\n\nEach suggestion you make syncs instantly across GitHub and the GitKraken DevEx platform. That means your team is always up-to-date, making it easier to stay aligned and make quick decisions. This also helps eliminate the usual delays in feedback and speeds up the review process.\n\n![Image 43](https://lh7-us.googleusercontent.com/OThOl3yMldrKaH6ml2IimywE-fR994uALmrylFZ5itMxugbVOhsyGlxMthXsOfsTVva2orNXk8lXixuKWTChpMMFdg2BwSxOVYTHC8Ten_K2875s8SYWzG5Jst0AZY9OqzC21H9ZEu2ftPAO4XX5z-E)\n\n**Flexible Access to Fit Your Needs**\n\nYou can also easily control who sees what with flexible viewing permissions, from public to only specific members of your organization. If you need tighter security, it’s easy to set up your own storage bucket for Code Suggest, so you can keep your data tightly secured and fully under your control.\n\n![Image 44](https://lh7-us.googleusercontent.com/-uyc-0FW-XAmWRsoP302NdXuNIO1c_7vjNEGKX4uONk_jV5C3A0MqdUa6Kg_rz-ZMjSkIz-j1hfFc6wjRQKfLUH0l9rdGXRA6uinhEUGECCvK9gIFdhEzoNPlOUZ0y1a3Q94XlAcyWKTAEdd3yJAspg)\n\n**What Are You Waiting For? Unshackle Your Teams Code Reviews**\n\nFree your code reviews from GitHub’s restrictive, comment-only feedback style. With Code Suggest, you can provide real code suggestions from where you code, e.g. your IDE, and on anything in your project — not just on the lines of code changed in the PR.\n\n![Image 45](https://lh7-us.googleusercontent.com/T_iImufalqTZBChHpayYrGI3EnbuMW2WV7VoP-hRqinHpBWuKLLoRb1y-6rOSHq9-c9DbhtUVCz6kOgxSJd8UOCc2WF2buN08qq-UOhFWXLThMBcBP6PAF-EBUQcJVOqXwFecHvThJK2mBGyMmJ8Gi0)\n\nWhy GitKraken Desktop? It’s All Coming Together\n-----------------------------------------------\n\nShifting from GitKraken Client to GitKraken Desktop reflects our journey to version 10.0—a significant milestone that not only celebrates a decade of progress but also our growth into a unified DevEx platform. As we’ve added tools like GitLens, GitKraken CLI, and GitKraken.dev, we’ve built a powerful set of capabilities that integrates smoothly across IDEs, terminals, and browsers.\n\nGitKraken Desktop is your desktop interface to the broader GitKraken universe. It’s more than a tool; it’s your gateway to a unified development experience, bringing together all the features and services we offer. Just like Docker Desktop streamlines access to Docker, GitKraken Desktop provides a familiar, integrated point of entry to our platform.\n\nRenaming GitKraken Desktop makes sense, aligning with tools like GitHub Desktop, and clarifying its role as the desktop component of our expanding platform. This change isn’t just about a new name; it reinforces its central role in connecting and simplifying your development environment.\n\nSimply put, GitKraken Desktop embodies our shift towards a platform-centric approach, ensuring that you have a consistent, powerful experience, whether you’re working on a local machine, in the cloud, or anywhere in between. It’s the same robust Git client you know and love, now with a name that better represents its place in our expansive DevEx platform.\n\nWrapping Up\n-----------\n\nWe’ve explored a lot today: Code Suggest, the DevEx Platform, and GitKraken Desktop’s evolution. There’s more to each update than we could cover here.\n\nFind out everything you need to know on [GitKraken’s DevEx platform](http://gitkraken.com/devex) and start your free trial today!",
+  "publishedTime": "2024-05-14T13:00:00+00:00",
+  "usage": {
+    "tokens": 3458
+  }
+}
+```

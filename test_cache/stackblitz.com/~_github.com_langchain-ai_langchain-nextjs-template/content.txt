@@ -1,0 +1,154 @@
+*   
+*   
+*   *   langchain-ai/langchain-nextjs-template
+    
+
+*   
+*   
+*   
+*   
+
+*   
+*   
+*   
+*   
+
+*   
+*   
+
+Explorer
+--------
+
+*   
+
+Drag a view here to display.
+
+### Info
+
+### langchain-ai/langchain-nextjs-template
+
+*   
+*   
+*   
+*   
+
+.yarn
+
+app
+
+components
+
+data
+
+public
+
+.env
+
+.env.example
+
+.eslintrc.json
+
+.gitignore
+
+.prettierrc.json
+
+.yarnrc.yml
+
+LICENSE
+
+next.config.js
+
+package.json
+
+postcss.config.js
+
+README.md
+
+tailwind.config.js
+
+tsconfig.json
+
+yarn.lock
+
+### Outline
+
+*   
+
+### Timeline
+
+*   
+*   
+
+### Something broken?
+
+[](https://discord.gg/stackblitz)
+
+[Something broken?Clear cache or File a bug!](https://github.com/stackblitz/webcontainer-core/issues/new)
+
+*   
+
+Show All Commands
+
+Ctrl+Shift+P
+
+Go to File
+
+Ctrl+P
+
+Find in Files
+
+Ctrl+Shift+F
+
+Toggle Full Screen
+
+F11
+
+Show Settings
+
+Ctrl+,
+
+*   Problems
+*   Terminal
+*   
+
+Terminal
+--------
+
+*   
+
+*   
+*   
+
+*   
+*   
+
+Drag a view here to display.
+
+### Terminal
+
+*   
+*   
+*   
+
+*   
+
+Preview
+-------
+
+*   
+
+*   
+
+Drag a view here to display.
+
+*   
+
+### Preview
+
+#### Booting WebContainer
+
+1.  Booting WebContainer
+
+Info: Cloning langchain-ai/langchain-nextjs-template on main
+
+Cloning [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template "https://github.com/langchain-ai/langchain-nextjs-template") on [main](https://github.com/langchain-ai/langchain-nextjs-template/tree/main "https://github.com/langchain-ai/langchain-nextjs-template/tree/main")

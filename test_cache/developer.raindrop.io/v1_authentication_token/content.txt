@@ -1,0 +1,121 @@
+1.  [Rest API v1](https://developer.raindrop.io/v1)
+3.  [Authentication](https://developer.raindrop.io/v1/authentication)
+
+Obtain access token
+-------------------
+
+External applications could obtain a user authorized API token via the OAuth2 protocol. Before getting started, developers need to create their applications in [App Management Console](https://app.raindrop.io/settings/integrations) and configure a valid OAuth redirect URL. A registered Raindrop.io application is assigned a unique `Client ID` and `Client Secret` which are needed for the OAuth2 flow.
+
+This procedure is comprised of several steps, which will be described below.
+
+If you just want to test your application, or do not plan to access any data except yours account you don't need to make all of those steps.
+
+Just go to [App Management Console](https://app.raindrop.io/settings/integrations) and open your application settings. Copy **Test token** and use it as described in [**Make authorized calls**](https://developer.raindrop.io/v1/authentication/calls)**.**
+
+Step 1: The authorization request
+
+
+-------------------------------------
+
+`GET` `https://raindrop.io/oauth/authorize`
+
+Direct the user to our authorization URL with specified request parameters. — If the user is not logged in, they will be asked to log in — The user will be asked if he would like to grant your application access to his Raindrop.io data
+
+Redirect URL configured in your application setting
+
+The unique Client ID of the Raindrop.io app that you registered
+
+![Image 7](https://developer.raindrop.io/~gitbook/image?url=https%3A%2F%2F3611960587-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-M-GPP1TyNN8gNuijaj7%252F-M-of5es4601IU9HtzYf%252F-M-og97-rwxYlVDTb5mi%252Fauthorize.png%3Falt%3Dmedia%26token%3Dd81cc512-68bb-49a4-9342-f436f1b85c74&width=768&dpr=4&quality=100&sign=cbc9d6&sv=2)
+
+User will be asked if he would like to grant your application access to his Raindrop.io data
+
+Here example CURL request:
+
+```
+curl "https://api.raindrop.io/v1/oauth/authorize?client_id=5e1c382cf6f48c0211359083&redirect_uri=https:%2F%2Foauthdebugger.com%2Fdebug"
+```
+
+Step 2: The redirection to your application site
+
+
+----------------------------------------------------
+
+When the user grants your authorization request, the user will be redirected to the redirect URL configured in your application setting. The redirect request will come with query parameter attached: `code` .
+
+The `code` parameter contains the authorization code that you will use to exchange for an access token.
+
+In case of error redirect request will come with `error` query parameter:
+
+When the user denies your authorization request
+
+invalid\_application\_status
+
+When your application exceeds the maximum token limit or when your application is being suspended due to abuse
+
+Step 3: The token exchange
+
+
+------------------------------
+
+`POST` `https://raindrop.io/oauth/access_token`
+
+Once you have the authorization `code`, you can exchange it for the `access_token` by doing a `POST` request with all required body parameters as JSON:
+
+Code that you received in step 2
+
+The unique Client ID of the Raindrop.io app that you registered
+
+Same `redirect_uri` from step 1
+
+```
+{
+  "access_token": "ae261404-11r4-47c0-bce3-e18a423da828",
+  "refresh_token": "c8080368-fad2-4a3f-b2c9-71d3z85011vb",
+  "expires": 1209599768, //in miliseconds, deprecated
+  "expires_in": 1209599, //in seconds, use this instead!!!
+  "token_type": "Bearer"
+}
+```
+
+```
+{"error": "bad_authorization_code"}
+```
+
+Here an example CURL request:
+
+```
+curl -X "POST" "https://raindrop.io/oauth/access_token" \
+     -H 'Content-Type: application/json' \
+     -d $'{
+  "code": "c8983220-1cca-4626-a19d-801a6aae003c",
+  "client_id": "5e1c589cf6f48c0211311383",
+  "redirect_uri": "https://oauthdebugger.com/debug",
+  "client_secret": "c3363988-9d27-4bc6-a0ae-d126ce78dc09",
+  "grant_type": "authorization_code"
+}'
+```
+
+♻️ The access token refresh
+
+
+-------------------------------
+
+`POST` `https://raindrop.io/oauth/access_token`
+
+For security reasons access tokens (except "test tokens") will **expire after two weeks**. In this case you should request the new one, by calling `POST` request with body parameters (JSON):
+
+The unique Client ID of your app that you registered
+
+Client secret of your app
+
+Refresh token that you get in step 3
+
+```
+{
+  "access_token": "ae261404-18r4-47c0-bce3-e18a423da898",
+  "refresh_token": "c8080368-fad2-4a9f-b2c9-73d3z850111b",
+  "expires": 1209599768, //in miliseconds, deprecated
+  "expires_in": 1209599, //in seconds, use this instead!!!
+  "token_type": "Bearer"
+}
+```

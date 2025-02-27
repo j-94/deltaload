@@ -1,0 +1,183 @@
+[**NEW:** Easily create IMDF files to onboard into Microsoft Places](https://www.archilogic.com/imdf-conversion-service)
+
+[![Image 106: archilogic logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63fdce5ca5e3b7765a8a807a_Logo.svg)](https://www.archilogic.com/)[![Image 107: archilogic logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63fdce5ca5e3b7765a8a807a_Logo.svg)](https://www.archilogic.com/)
+
+Be in control of your floor plans with a spatial intelligence platform that gives you the power to make informed decisions, create stellar experiences, and optimize your space like never before.
+
+![Image 108](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cb432b6cd68c0393a511b9_Safari%20Browsers.svg)
+
+[![Image 109: logo Proximity](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/630e10e630b1d319971e7fad_prox.webp) ![Image 110: play button](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/630e10e630b1d382c51e7fb3_Group%2035.webp) ### **Watch demo** ![Image 111](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/630e10e630b1d3b9961e7fa2_Screenshot%202022-08-22%20at%2010.50.02.webp)](https://www.archilogic.com/#)![Image 112: Archilogic Dashboard Floor Plan Details Page](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cb432b6cd68c0393a511ae_Desktop.png)
+
+![Image 113](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cb5c19f4a2fe36100e9112_Space%20Graph.svg)
+
+Space Graph
+
+Connect your floor plans for a complete, integrated view of your spaces.
+------------------------------------------------------------------------
+
+Transform your static floor plans files into a dynamic, spatial data model that can easily **connect** to 3rd-party applications. Manage relationships between spaces, people, and business logic as easy as browsing the internet, giving you **a complete overview of activities within your building**.
+
+![Image 114](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cc4fc1b9fb6b0036c0687d_SG_ANIMATION.gif)
+
+![Image 115](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65bb605b72ae9072802800c3_ai.svg)
+
+AI Ready
+
+Unlock potential with AI-ready spatial data.
+--------------------------------------------
+
+Unlike static polylines or image files, our graph-based data model Space Graph positions you to **use AI for comprehensive analysis and deeper insights** into your real estate portfolio.
+
+![Image 116: Archilogic dashboard showing interface screen with AI search option enabled ](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cdd3d2dc412416d382f490_archilogic_dashboard_ai-search.png)
+
+![Image 117: Archilogic Slack chatbot interface showing conversatation between user and Archilogic AI ](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65ce40cafd158c712361f9a3_archilogic_ai-slack-chatbot.png)
+
+Transition from reactive to proactive space management with connected floor plans. Streamline updates, access key insights, save time, and cut costs to boost space efficiency and profitability.
+
+Make informed decisions about your spaces anytime, anywhere.
+
+Compare spatial data across your real estate portfolio. Quickly and easily access important information about your portfolio, and make informed decisions about how to best use and manage it.
+
+![Image 118: Archilogic Dashboard interface showing comparison of floor plans and differences in space metrics](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cb5dc8443bc7bf6d85e727_Box%203.png)
+
+![Image 119](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cb5dc8443bc7bf6d85e735_Decorator_Shape_1.svg)
+
+![Image 120](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cb5e950df0d68000eb8428_edit.svg)
+
+Space editing
+
+The most human way to keep floor plans up-to-date.
+--------------------------------------------------
+
+**Reduce costs and boost your team’s productivity** with our easy-to-use web-based editor for floor plan changes. Enable non-technical team members to manage floor plans, reducing dependency on expensive in-house or third-party CAD/BIM specialists.
+
+![Image 121: Archilogic Editor interface showing a floor plan model with space details](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cdd70727221bf47f7ed3e0_archilogic_editor_floor-plan.png)
+
+![Image 122: Archilogic Editor interface showing selected space on model with auto-layout option focused](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cdd71e21d44e98845ba5d7_archilogic_editor_auto-layout.png)
+
+Create spaces focusing on well-being, productivity, and sustainability. Whether optimizing office layouts for enhanced employee experience, ensuring factory floor compliance, or addressing sustainability initiatives, we help you elevate indoor environments for the better.
+
+Create better indoor experiences faster.
+
+Space measurement automated. Instantly generate and export calculations that meet industry or local regulations like BOMA, eliminating manual polylining and enhancing productivity.  
+‍
+
+![Image 123: Archilogic Plugin Interface showing an active BOMA floor measurement standard and space calculations](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cddc7ea218c0adff0f761e_archilogc_boma-standard.png)
+
+Simplify layout design iterations with automated assertions. Improve space planning efficiency by incorporating automated custom compliance checks for everything from workplace design standards to ADA building codes.
+
+![Image 124: Archilogic Plugin Interface showing layout assertion ratio and calculations](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cddc91736b73b90886e1c4_archilogic_layout-assertion.png)
+
+![Image 125](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cd38470f8ecff296399fdd_Code.svg)
+
+Software Development
+
+Transform the built environment at scale with spatially-aware solutions.
+------------------------------------------------------------------------
+
+Build spatially-aware applications with a developer-first infrastructure that simplifies the complexity of indoor spatial data. Our platform provides the **scale, velocity, and intelligence you need to innovate**.
+
+Floor Plan Engine SDK enables you to create interactive, customizable floor plan models embedded in your website using JavaScript or TypeScript.
+
+![Image 126: Archilogic Floor Plan Engine Software Development Kit example code](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cddcb38b5fae2613ca4a3c_archilogic_sdk.png)
+
+Space GraphQL API allows you to run complex queries against your entire portfolio or individual floors.  
+‍
+
+![Image 127: Archilogic GraphQL query preview](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cddca3bddf30bdf05a112d_archilogic_graph-ql.png)
+
+![Image 128](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cb5ec4425180b3222ef0c8_Decorator_Shape_2.svg)
+
+Send us whatever you have - from static images to CAD drawings or BIM models - and we’ll deliver useful, meaningful digital twins of your space. Onboard your entire portfolio in days with our scalable, affordable service that can handle any volume of floor plans.
+
+The fastest way to turn floor plans into digital twins.
+
+![Image 129: Comparing standard floor plan drawing with Archilogic application editor view](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cdd744f5ec7ebb3a222562_archilogic_order_floor-plan.png)
+
+![Image 130](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cb5c19f4a2fe36100e910b_Extensions.svg)
+
+Integrations
+
+Seamlessly integrate with the apps you already use
+--------------------------------------------------
+
+Connect apps, products, and services with your Archilogic digital twins. Explore the integrations below, build your own, or request an integration you’d like to see here.
+
+![Image 131: Platform component](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f4d12a9153e08a9ce451c7_Frame%201325.webp)
+
+Platform component
+
+Build apps that understand space at scale
+
+We give service providers the infrastructure they need to deliver products and services that understand floor plans at scale - so they can focus on delivering more value, faster.
+
+Own your digital floor plans and use them everywhere
+
+We give occupiers portfolio-wide control of their space so they can minimize cost, maximize utilization, and create the best possible experiences in their buildings.
+
+![Image 132](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbcf2e6864f7aa3cae53fb_Testimonials.svg)
+
+Testimonials
+
+What users think
+----------------
+
+Archilogic was an indispensable partner in data extraction, enabling us to collect the data we needed within just four weeks. Without them, it would have taken us a whole year to obtain the same level of data granularity and quality.
+
+![Image 133: Black and white picture of a person](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbcf2e6864f7aa3cae53fc_Property%201%3DOfs.png)
+
+Wes Harper
+
+Director of Product @OFS
+
+Archilogic is changing the game for anyone that wants a central place to interact with all the workspaces they own as well as what's in them. Anyone not interested in leveraging this technology to save time and reduce the back and forth with outside service providers may need to have their head examined.
+
+![Image 134: Black and white picture of a person](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbcf2e6864f7aa3cae53fe_Property%201%3DGreystar.png)
+
+Quinn Eddins
+
+Managing Director @Greystar
+
+With a superbly documented API, a great data model and a easy-to-use web SDK for both 2D and 3D rendering, Archilogic made it really easy for our technical team to integrate their floorplan engine into Nexudus.
+
+![Image 135: Black and white illustration of a person](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbcf2e6864f7aa3cae5400_Property%201%3DNexudus.png)
+
+Adrian Palacios
+
+Co-Founder and CTO @Nexudus
+
+Archilogic offers one of the quickest ways to digitize & centralize access to a portfolio of spaces. Add to that the ability to tap into information about each space across multiple locations, and you’ve got an awesome enabler for data-driven space management. As an architect, leveraging this connective approach opens numerous opportunities, from design standards conformity to code compliance reviews.
+
+Archilogic is changing the game for anyone that wants a central place to interact with all the workspaces they own as well as what's in them. Anyone not interested in leveraging this technology to save time and reduce the back and forth with outside service providers may need to have their head examined.
+
+![Image 136: Wes Harper](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f7260829bb1657bdf107c3_Rectangle.webp)
+
+Wes Harper
+
+Director of Product  
+@OFS
+
+Archilogic was an indispensable partner in data extraction, enabling us to collect the data we needed within just four weeks. Without them, it would have taken us a whole year to obtain the same level of data granularity and quality.
+
+![Image 137: a man in a suit and tie](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f7264d5cb0bf9b938ceb6b_Rectangle.webp)
+
+Quinn Eddins
+
+Managing Director  
+@Greystar
+
+With a superbly documented API, a great data model and a easy-to-use web SDK for both 2D and 3D rendering, Archilogic made it really easy for our technical team to integrate their floorplan engine into Nexudus.
+
+![Image 138: image
+](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/647dc62fb46dbdbe9a91ed62_1542579359853.jpeg)
+
+Adrian Palacios
+
+Co-Founder and CTO  
+@Nexudus
+
+![Image 139: Arrow left white](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c1e257c64e09b35f67be61_testimonial-arrow-left.svg)
+
+![Image 140: Arrow right white](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c1e257834fca03f74d70bd_testimonial-arrow-right.svg)
+
+### Forward-thinking organizations use Archilogic to manage over 40 million sqft across 2,000+ floors every month. Join them.

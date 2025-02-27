@@ -1,0 +1,955 @@
+---
+title: GitHub - pqina/react-filepond: 🔌 A handy FilePond adapter component for React
+description: 🔌 A handy FilePond adapter component for React. Contribute to pqina/react-filepond development by creating an account on GitHub.
+url: https://github.com/pqina/react-filepond
+timestamp: 2025-01-20T15:30:43.770Z
+domain: github.com
+path: pqina_react-filepond
+---
+
+# GitHub - pqina/react-filepond: 🔌 A handy FilePond adapter component for React
+
+
+🔌 A handy FilePond adapter component for React. Contribute to pqina/react-filepond development by creating an account on GitHub.
+
+
+## Content
+
+GitHub - pqina/react-filepond: 🔌 A handy FilePond adapter component for React
+===============
+                                           
+
+[Skip to content](https://github.com/pqina/react-filepond?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpqina%2Freact-filepond%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpqina%2Freact-filepond%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=pqina%2Freact-filepond) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[pqina](https://github.com/pqina) / **[react-filepond](https://github.com/pqina/react-filepond)** Public
+
+*   Sponsor
+    
+    Sponsor pqina/react-filepond
+    ============================
+    
+    ##### External links
+    
+    [https://www.buymeacoffee.com/rikschennink](https://www.buymeacoffee.com/rikschennink)
+    
+    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
+    
+    [Report abuse](https://github.com/contact/report-abuse?report=pqina%2Freact-filepond+%28Repository+Funding+Links%29)
+    
+*   [Notifications](https://github.com/login?return_to=%2Fpqina%2Freact-filepond) You must be signed in to change notification settings
+*   [Fork 93](https://github.com/login?return_to=%2Fpqina%2Freact-filepond)
+*   [Star 1.9k](https://github.com/login?return_to=%2Fpqina%2Freact-filepond)
+    
+
+🔌 A handy FilePond adapter component for React
+
+[pqina.nl/filepond](https://pqina.nl/filepond "https://pqina.nl/filepond")
+
+### License
+
+[MIT license](https://github.com/pqina/react-filepond/blob/master/LICENSE)
+
+[1.9k stars](https://github.com/pqina/react-filepond/stargazers) [93 forks](https://github.com/pqina/react-filepond/forks) [Branches](https://github.com/pqina/react-filepond/branches) [Tags](https://github.com/pqina/react-filepond/tags) [Activity](https://github.com/pqina/react-filepond/activity)
+
+[Star](https://github.com/login?return_to=%2Fpqina%2Freact-filepond)
+
+[Notifications](https://github.com/login?return_to=%2Fpqina%2Freact-filepond) You must be signed in to change notification settings
+
+*   [Code](https://github.com/pqina/react-filepond)
+*   [Issues 25](https://github.com/pqina/react-filepond/issues)
+*   [Pull requests 10](https://github.com/pqina/react-filepond/pulls)
+*   [Actions](https://github.com/pqina/react-filepond/actions)
+*   [Security](https://github.com/pqina/react-filepond/security)
+*   [Insights](https://github.com/pqina/react-filepond/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/pqina/react-filepond)
+*   [Issues](https://github.com/pqina/react-filepond/issues)
+*   [Pull requests](https://github.com/pqina/react-filepond/pulls)
+*   [Actions](https://github.com/pqina/react-filepond/actions)
+*   [Security](https://github.com/pqina/react-filepond/security)
+*   [Insights](https://github.com/pqina/react-filepond/pulse)
+
+pqina/react-filepond
+====================
+
+  
+
+ master
+
+[**9** Branches](https://github.com/pqina/react-filepond/branches)[**23** Tags](https://github.com/pqina/react-filepond/tags)
+
+[](https://github.com/pqina/react-filepond/branches)[](https://github.com/pqina/react-filepond/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 32: rikschennink](https://avatars.githubusercontent.com/u/1132575?v=4&size=40)](https://github.com/rikschennink)[rikschennink](https://github.com/pqina/react-filepond/commits?author=rikschennink)
+
+[new build](https://github.com/pqina/react-filepond/commit/dfa6a7b4fc5dad12b08ca2732d7e0d78b5a74a95)
+
+Dec 16, 2024
+
+[dfa6a7b](https://github.com/pqina/react-filepond/commit/dfa6a7b4fc5dad12b08ca2732d7e0d78b5a74a95) · Dec 16, 2024
+
+History
+-------
+
+[115 Commits](https://github.com/pqina/react-filepond/commits/master/)
+
+[](https://github.com/pqina/react-filepond/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/pqina/react-filepond/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/pqina/react-filepond/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[Update feature\_request.yml](https://github.com/pqina/react-filepond/commit/c7469b4bdd4cd64648afa9548319ee487234bacc "Update feature_request.yml")
+
+
+
+ | 
+
+Oct 11, 2021
+
+ |
+| 
+
+[dist](https://github.com/pqina/react-filepond/tree/master/dist "dist")
+
+
+
+
+
+
+
+ | 
+
+[dist](https://github.com/pqina/react-filepond/tree/master/dist "dist")
+
+
+
+
+
+
+
+ | 
+
+[new build](https://github.com/pqina/react-filepond/commit/dfa6a7b4fc5dad12b08ca2732d7e0d78b5a74a95 "new build")
+
+
+
+ | 
+
+Dec 16, 2024
+
+ |
+| 
+
+[example](https://github.com/pqina/react-filepond/tree/master/example "example")
+
+
+
+
+
+
+
+ | 
+
+[example](https://github.com/pqina/react-filepond/tree/master/example "example")
+
+
+
+
+
+
+
+ | 
+
+[new build](https://github.com/pqina/react-filepond/commit/dfa6a7b4fc5dad12b08ca2732d7e0d78b5a74a95 "new build")
+
+
+
+ | 
+
+Dec 16, 2024
+
+ |
+| 
+
+[lib](https://github.com/pqina/react-filepond/tree/master/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+[lib](https://github.com/pqina/react-filepond/tree/master/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+[fix react strict problem](https://github.com/pqina/react-filepond/commit/6f61ac0afa70eca24bd6f5ce40a01c2c2370633a "fix react strict problem")
+
+
+
+ | 
+
+May 12, 2022
+
+ |
+| 
+
+[types](https://github.com/pqina/react-filepond/tree/master/types "types")
+
+
+
+
+
+
+
+ | 
+
+[types](https://github.com/pqina/react-filepond/tree/master/types "types")
+
+
+
+
+
+
+
+ | 
+
+[fix react strict problem](https://github.com/pqina/react-filepond/commit/6f61ac0afa70eca24bd6f5ce40a01c2c2370633a "fix react strict problem")
+
+
+
+ | 
+
+May 12, 2022
+
+ |
+| 
+
+[.babelrc](https://github.com/pqina/react-filepond/blob/master/.babelrc ".babelrc")
+
+
+
+
+
+
+
+ | 
+
+[.babelrc](https://github.com/pqina/react-filepond/blob/master/.babelrc ".babelrc")
+
+
+
+
+
+
+
+ | 
+
+[add build targets](https://github.com/pqina/react-filepond/commit/c2ee9a10dab64e0fafd636876551de11449f46f1 "add build targets")
+
+
+
+ | 
+
+Apr 5, 2018
+
+ |
+| 
+
+[.gitignore](https://github.com/pqina/react-filepond/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/pqina/react-filepond/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Update .gitignore](https://github.com/pqina/react-filepond/commit/52f6bcebd79947ef86b55e7f97e8cd98231f9eb4 "Update .gitignore")
+
+
+
+ | 
+
+May 16, 2022
+
+ |
+| 
+
+[.npmignore](https://github.com/pqina/react-filepond/blob/master/.npmignore ".npmignore")
+
+
+
+
+
+
+
+ | 
+
+[.npmignore](https://github.com/pqina/react-filepond/blob/master/.npmignore ".npmignore")
+
+
+
+
+
+
+
+ | 
+
+[up version](https://github.com/pqina/react-filepond/commit/ddf3299b3c45fd1fb334fa4ce06e5ea9655ed1c0 "up version")
+
+
+
+ | 
+
+Sep 9, 2020
+
+ |
+| 
+
+[CHANGELOG.md](https://github.com/pqina/react-filepond/blob/master/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[CHANGELOG.md](https://github.com/pqina/react-filepond/blob/master/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[fix react strict problem](https://github.com/pqina/react-filepond/commit/6f61ac0afa70eca24bd6f5ce40a01c2c2370633a "fix react strict problem")
+
+
+
+ | 
+
+May 12, 2022
+
+ |
+| 
+
+[LICENSE](https://github.com/pqina/react-filepond/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/pqina/react-filepond/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[add example, set filepond 4 peer dependency](https://github.com/pqina/react-filepond/commit/bbd3073d3ec7025c9d4cca68c302317726338422 "add example, set filepond 4 peer dependency")
+
+
+
+ | 
+
+Feb 5, 2019
+
+ |
+| 
+
+[README.md](https://github.com/pqina/react-filepond/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/pqina/react-filepond/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[fix: README examples](https://github.com/pqina/react-filepond/commit/1244e31e62abb0ea528085d2ab6db906ec5424ad "fix: README examples")
+
+
+
+ | 
+
+Jan 29, 2023
+
+ |
+| 
+
+[package-lock.json](https://github.com/pqina/react-filepond/blob/master/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/pqina/react-filepond/blob/master/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[fix react strict problem](https://github.com/pqina/react-filepond/commit/6f61ac0afa70eca24bd6f5ce40a01c2c2370633a "fix react strict problem")
+
+
+
+ | 
+
+May 12, 2022
+
+ |
+| 
+
+[package.json](https://github.com/pqina/react-filepond/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/pqina/react-filepond/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[up version](https://github.com/pqina/react-filepond/commit/3b4a958401ba1370e1abd05ff56ce3d39cf36cd9 "up version")
+
+
+
+ | 
+
+Dec 16, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/pqina/react-filepond?screenshot=true#)
+*   [MIT license](https://github.com/pqina/react-filepond?screenshot=true#)
+
+React FilePond
+==============
+
+[](https://github.com/pqina/react-filepond?screenshot=true#react-filepond)
+
+React FilePond is a handy wrapper component for [FilePond](https://github.com/pqina/filepond), a JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
+
+[![Image 33: License: MIT](https://camo.githubusercontent.com/6581c31c16c1b13ddc2efb92e2ad69a93ddc4a92fd871ff15d401c4c6c9155a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)](https://github.com/pqina/react-filepond/blob/master/LICENSE) [![Image 34: npm version](https://camo.githubusercontent.com/f2d62c57f4b5a8b8000c6926bfdcc96a92b5900a1c09faeaa2837b72f6efe97f/68747470733a2f2f62616467652e667572792e696f2f6a732f72656163742d66696c65706f6e642e737667)](https://www.npmjs.com/package/react-filepond) [![Image 35: npm](https://camo.githubusercontent.com/80dd4caddb651a850ebc318338ae04966d189b897ac788352349beaf0603e884/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f72656163742d66696c65706f6e64)](https://camo.githubusercontent.com/80dd4caddb651a850ebc318338ae04966d189b897ac788352349beaf0603e884/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f72656163742d66696c65706f6e64)
+
+* * *
+
+[![Image 36: FilePond](https://github.com/pqina/filepond-github-assets/raw/master/header.svg)](https://www.buymeacoffee.com/rikschennink/)
+
+[Buy me a Coffee](https://www.buymeacoffee.com/rikschennink/) / [Use FilePond with Pintura](https://pqina.nl/pintura/?ref=github-filepond) / [Dev updates on Twitter](https://twitter.com/rikschennink/)
+
+* * *
+
+### Core Features
+
+[](https://github.com/pqina/react-filepond?screenshot=true#core-features)
+
+*   Accepts **directories**, **files**, blobs, local URLs, **remote URLs** and Data URIs.
+*   **Drop files**, select on filesystem, **copy and paste files**, or add files using the API.
+*   **Async uploading** with AJAX, or encode files as base64 data and send along form post.
+*   **Accessible**, tested with AT software like VoiceOver and JAWS, **navigable by Keyboard**.
+*   **Image optimization**, automatic image resizing, **cropping**, and **fixes EXIF orientation**.
+*   **Responsive**, automatically scales to available space, is functional on both **mobile and desktop devices**.
+
+[Learn more about FilePond](https://pqina.nl/filepond/)
+
+[![Image 37](https://github.com/pqina/filepond-github-assets/raw/master/filepond-animation-01.gif)](https://github.com/pqina/filepond-github-assets/blob/master/filepond-animation-01.gif) [![Image 38: filepond-animation-01.gif](https://github.com/pqina/filepond-github-assets/raw/master/filepond-animation-01.gif)](https://github.com/pqina/filepond-github-assets/blob/master/filepond-animation-01.gif)[](https://github.com/pqina/filepond-github-assets/blob/master/filepond-animation-01.gif)
+
+* * *
+
+### Also need Image Editing?
+
+[](https://github.com/pqina/react-filepond?screenshot=true#also-need-image-editing)
+
+**Pintura the modern JavaScript Image Editor** is what you're looking for. Pintura supports setting **crop aspect ratios**, **resizing**, **rotating**, **cropping**, and **flipping** images. Above all, it integrates beautifully with FilePond.
+
+[Learn more about Pintura](https://pqina.nl/pintura/?ref=github-react-filepond)
+
+[![Image 39](https://github.com/pqina/filepond-github-assets/raw/master/filepond_pintura.gif?raw=true)](https://github.com/pqina/filepond-github-assets/blob/master/filepond_pintura.gif?raw=true) [![Image 40: filepond_pintura.gif?raw=true](https://github.com/pqina/filepond-github-assets/raw/master/filepond_pintura.gif?raw=true)](https://github.com/pqina/filepond-github-assets/blob/master/filepond_pintura.gif?raw=true)[](https://github.com/pqina/filepond-github-assets/blob/master/filepond_pintura.gif?raw=true)
+
+* * *
+
+Installation
+------------
+
+[](https://github.com/pqina/react-filepond?screenshot=true#installation)
+
+```shell
+npm install react-filepond filepond --save
+```
+
+Hooks:
+
+```js
+import React, { useState } from 'react'
+import ReactDOM from 'react-dom'
+
+// Import React FilePond
+import { FilePond, registerPlugin } from 'react-filepond'
+
+// Import FilePond styles
+import 'filepond/dist/filepond.min.css'
+
+// Import the Image EXIF Orientation and Image Preview plugins
+// Note: These need to be installed separately
+// `npm i filepond-plugin-image-preview filepond-plugin-image-exif-orientation --save`
+import FilePondPluginImageExifOrientation from 'filepond-plugin-image-exif-orientation'
+import FilePondPluginImagePreview from 'filepond-plugin-image-preview'
+import 'filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css'
+
+// Register the plugins
+registerPlugin(FilePondPluginImageExifOrientation, FilePondPluginImagePreview)
+
+// Our app
+function App() {
+  const [files, setFiles] = useState([])
+  return (
+    <div className="App">
+      <FilePond
+        files={files}
+        onupdatefiles={setFiles}
+        allowMultiple={true}
+        maxFiles={3}
+        server="/api"
+        name="files" /* sets the file input name, it's filepond by default */
+        labelIdle='Drag & Drop your files or <span class="filepond--label-action">Browse</span>'
+      />
+    </div>
+  )
+}
+```
+
+Component:
+
+```js
+import React, { useState } from 'react'
+import ReactDOM from 'react-dom'
+
+// Import React FilePond
+import { FilePond, registerPlugin } from "react-filepond";
+
+// Import FilePond styles
+import "filepond/dist/filepond.min.css";
+
+// Import the Image EXIF Orientation and Image Preview plugins
+// Note: These need to be installed separately
+import FilePondPluginImageExifOrientation from "filepond-plugin-image-exif-orientation";
+import FilePondPluginImagePreview from "filepond-plugin-image-preview";
+import "filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css";
+
+// Register the plugins
+registerPlugin(FilePondPluginImageExifOrientation, FilePondPluginImagePreview);
+
+// Our app
+class App extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      // Set initial files, type 'local' means this is a file
+      // that has already been uploaded to the server (see docs)
+      files: [
+        {
+          source: "index.html",
+          options: {
+            type: "local"
+          }
+        }
+      ]
+    };
+  }
+
+  handleInit() {
+    console.log("FilePond instance has initialised", this.pond);
+  }
+
+  render() {
+    return (
+      <div className="App">
+        <FilePond
+          ref={ref => (this.pond = ref)}
+          files={this.state.files}
+          allowMultiple={true}
+          allowReorder={true}
+          maxFiles={3}
+          server="/api"
+          name="files" /* sets the file input name, it's filepond by default */
+          oninit={() => this.handleInit()}
+          onupdatefiles={fileItems => {
+            // Set currently active file objects to this.state
+            this.setState({
+              files: fileItems.map(fileItem => fileItem.file)
+            });
+          }}
+        />
+      </div>
+    );
+  }
+}
+```
+
+[Read the docs for more information](https://pqina.nl/filepond/docs/patterns/frameworks/react/)
+
+[Live Demo on Code Sandbox](https://codesandbox.io/s/react-filepond-live-demo-iw9ri)
+
+About
+-----
+
+🔌 A handy FilePond adapter component for React
+
+[pqina.nl/filepond](https://pqina.nl/filepond "https://pqina.nl/filepond")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [upload](https://github.com/topics/upload "Topic: upload") [file](https://github.com/topics/file "Topic: file") [image-processing](https://github.com/topics/image-processing "Topic: image-processing") [filepond](https://github.com/topics/filepond "Topic: filepond")
+
+### Resources
+
+[Readme](https://github.com/pqina/react-filepond?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/pqina/react-filepond?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/pqina/react-filepond/activity)
+
+[Custom properties](https://github.com/pqina/react-filepond/custom-properties)
+
+### Stars
+
+[**1.9k** stars](https://github.com/pqina/react-filepond/stargazers)
+
+### Watchers
+
+[**16** watching](https://github.com/pqina/react-filepond/watchers)
+
+### Forks
+
+[**93** forks](https://github.com/pqina/react-filepond/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fpqina%2Freact-filepond&report=pqina+%28user%29)
+
+[Releases 1](https://github.com/pqina/react-filepond/releases)
+--------------------------------------------------------------
+
+[7.1.0 Latest Sep 9, 2020](https://github.com/pqina/react-filepond/releases/tag/7.1.0)
+
+Sponsor this project
+--------------------
+
+*   [https://www.buymeacoffee.com/rikschennink](https://www.buymeacoffee.com/rikschennink)
+
+[Packages 0](https://github.com/orgs/pqina/packages?repo_name=react-filepond)
+-----------------------------------------------------------------------------
+
+No packages published  
+
+[Used by 6.9k](https://github.com/pqina/react-filepond/network/dependents)
+--------------------------------------------------------------------------
+
+[* ![Image 41: @Kizza2014](https://avatars.githubusercontent.com/u/157684939?s=64&v=4) * ![Image 42: @rzkylimitx](https://avatars.githubusercontent.com/u/190939109?s=64&v=4) * ![Image 43: @darkcris1](https://avatars.githubusercontent.com/u/65588059?s=64&v=4) * ![Image 44: @LivioGama](https://avatars.githubusercontent.com/u/6930498?s=64&v=4) * ![Image 45: @mohamedfariedm](https://avatars.githubusercontent.com/u/139636409?s=64&v=4) * ![Image 46: @iheeb09](https://avatars.githubusercontent.com/u/169687055?s=64&v=4) * ![Image 47: @Aminez03](https://avatars.githubusercontent.com/u/110544552?s=64&v=4) * ![Image 48: @EugenEistrach](https://avatars.githubusercontent.com/u/45036228?s=64&v=4) \+ 6,923](https://github.com/pqina/react-filepond/network/dependents)
+
+[Contributors 8](https://github.com/pqina/react-filepond/graphs/contributors)
+-----------------------------------------------------------------------------
+
+*   [![Image 49: @rikschennink](https://avatars.githubusercontent.com/u/1132575?s=64&v=4)](https://github.com/rikschennink)
+*   [![Image 50: @sbusch](https://avatars.githubusercontent.com/u/91866?s=64&v=4)](https://github.com/sbusch)
+*   [![Image 51: @KimGenius](https://avatars.githubusercontent.com/u/29722636?s=64&v=4)](https://github.com/KimGenius)
+*   [![Image 52: @lukestuts](https://avatars.githubusercontent.com/u/484409?s=64&v=4)](https://github.com/lukestuts)
+*   [![Image 53: @dhilst](https://avatars.githubusercontent.com/u/392820?s=64&v=4)](https://github.com/dhilst)
+*   [![Image 54: @Jokinen](https://avatars.githubusercontent.com/u/9090689?s=64&v=4)](https://github.com/Jokinen)
+*   [![Image 55: @songhn233](https://avatars.githubusercontent.com/u/47357585?s=64&v=4)](https://github.com/songhn233)
+*   [![Image 56: @z1k0v](https://avatars.githubusercontent.com/u/88764189?s=64&v=4)](https://github.com/z1k0v)
+
+Languages
+---------
+
+*   [JavaScript 85.9%](https://github.com/pqina/react-filepond/search?l=javascript)
+*   [HTML 11.8%](https://github.com/pqina/react-filepond/search?l=html)
+*   [CSS 2.3%](https://github.com/pqina/react-filepond/search?l=css)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - pqina/react-filepond: 🔌 A handy FilePond adapter component for React",
+  "description": "🔌 A handy FilePond adapter component for React. Contribute to pqina/react-filepond development by creating an account on GitHub.",
+  "url": "https://github.com/pqina/react-filepond?screenshot=true",
+  "content": "GitHub - pqina/react-filepond: 🔌 A handy FilePond adapter component for React\n===============\n                                           \n\n[Skip to content](https://github.com/pqina/react-filepond?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpqina%2Freact-filepond%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpqina%2Freact-filepond%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=pqina%2Freact-filepond) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[pqina](https://github.com/pqina) / **[react-filepond](https://github.com/pqina/react-filepond)** Public\n\n*   Sponsor\n    \n    Sponsor pqina/react-filepond\n    ============================\n    \n    ##### External links\n    \n    [https://www.buymeacoffee.com/rikschennink](https://www.buymeacoffee.com/rikschennink)\n    \n    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).\n    \n    [Report abuse](https://github.com/contact/report-abuse?report=pqina%2Freact-filepond+%28Repository+Funding+Links%29)\n    \n*   [Notifications](https://github.com/login?return_to=%2Fpqina%2Freact-filepond) You must be signed in to change notification settings\n*   [Fork 93](https://github.com/login?return_to=%2Fpqina%2Freact-filepond)\n*   [Star 1.9k](https://github.com/login?return_to=%2Fpqina%2Freact-filepond)\n    \n\n🔌 A handy FilePond adapter component for React\n\n[pqina.nl/filepond](https://pqina.nl/filepond \"https://pqina.nl/filepond\")\n\n### License\n\n[MIT license](https://github.com/pqina/react-filepond/blob/master/LICENSE)\n\n[1.9k stars](https://github.com/pqina/react-filepond/stargazers) [93 forks](https://github.com/pqina/react-filepond/forks) [Branches](https://github.com/pqina/react-filepond/branches) [Tags](https://github.com/pqina/react-filepond/tags) [Activity](https://github.com/pqina/react-filepond/activity)\n\n[Star](https://github.com/login?return_to=%2Fpqina%2Freact-filepond)\n\n[Notifications](https://github.com/login?return_to=%2Fpqina%2Freact-filepond) You must be signed in to change notification settings\n\n*   [Code](https://github.com/pqina/react-filepond)\n*   [Issues 25](https://github.com/pqina/react-filepond/issues)\n*   [Pull requests 10](https://github.com/pqina/react-filepond/pulls)\n*   [Actions](https://github.com/pqina/react-filepond/actions)\n*   [Security](https://github.com/pqina/react-filepond/security)\n*   [Insights](https://github.com/pqina/react-filepond/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/pqina/react-filepond)\n*   [Issues](https://github.com/pqina/react-filepond/issues)\n*   [Pull requests](https://github.com/pqina/react-filepond/pulls)\n*   [Actions](https://github.com/pqina/react-filepond/actions)\n*   [Security](https://github.com/pqina/react-filepond/security)\n*   [Insights](https://github.com/pqina/react-filepond/pulse)\n\npqina/react-filepond\n====================\n\n  \n\n master\n\n[**9** Branches](https://github.com/pqina/react-filepond/branches)[**23** Tags](https://github.com/pqina/react-filepond/tags)\n\n[](https://github.com/pqina/react-filepond/branches)[](https://github.com/pqina/react-filepond/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 32: rikschennink](https://avatars.githubusercontent.com/u/1132575?v=4&size=40)](https://github.com/rikschennink)[rikschennink](https://github.com/pqina/react-filepond/commits?author=rikschennink)\n\n[new build](https://github.com/pqina/react-filepond/commit/dfa6a7b4fc5dad12b08ca2732d7e0d78b5a74a95)\n\nDec 16, 2024\n\n[dfa6a7b](https://github.com/pqina/react-filepond/commit/dfa6a7b4fc5dad12b08ca2732d7e0d78b5a74a95) · Dec 16, 2024\n\nHistory\n-------\n\n[115 Commits](https://github.com/pqina/react-filepond/commits/master/)\n\n[](https://github.com/pqina/react-filepond/commits/master/)\n\n\n\n\n\n\n\n |\n| \n\n[.github](https://github.com/pqina/react-filepond/tree/master/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[.github](https://github.com/pqina/react-filepond/tree/master/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[Update feature\\_request.yml](https://github.com/pqina/react-filepond/commit/c7469b4bdd4cd64648afa9548319ee487234bacc \"Update feature_request.yml\")\n\n\n\n | \n\nOct 11, 2021\n\n |\n| \n\n[dist](https://github.com/pqina/react-filepond/tree/master/dist \"dist\")\n\n\n\n\n\n\n\n | \n\n[dist](https://github.com/pqina/react-filepond/tree/master/dist \"dist\")\n\n\n\n\n\n\n\n | \n\n[new build](https://github.com/pqina/react-filepond/commit/dfa6a7b4fc5dad12b08ca2732d7e0d78b5a74a95 \"new build\")\n\n\n\n | \n\nDec 16, 2024\n\n |\n| \n\n[example](https://github.com/pqina/react-filepond/tree/master/example \"example\")\n\n\n\n\n\n\n\n | \n\n[example](https://github.com/pqina/react-filepond/tree/master/example \"example\")\n\n\n\n\n\n\n\n | \n\n[new build](https://github.com/pqina/react-filepond/commit/dfa6a7b4fc5dad12b08ca2732d7e0d78b5a74a95 \"new build\")\n\n\n\n | \n\nDec 16, 2024\n\n |\n| \n\n[lib](https://github.com/pqina/react-filepond/tree/master/lib \"lib\")\n\n\n\n\n\n\n\n | \n\n[lib](https://github.com/pqina/react-filepond/tree/master/lib \"lib\")\n\n\n\n\n\n\n\n | \n\n[fix react strict problem](https://github.com/pqina/react-filepond/commit/6f61ac0afa70eca24bd6f5ce40a01c2c2370633a \"fix react strict problem\")\n\n\n\n | \n\nMay 12, 2022\n\n |\n| \n\n[types](https://github.com/pqina/react-filepond/tree/master/types \"types\")\n\n\n\n\n\n\n\n | \n\n[types](https://github.com/pqina/react-filepond/tree/master/types \"types\")\n\n\n\n\n\n\n\n | \n\n[fix react strict problem](https://github.com/pqina/react-filepond/commit/6f61ac0afa70eca24bd6f5ce40a01c2c2370633a \"fix react strict problem\")\n\n\n\n | \n\nMay 12, 2022\n\n |\n| \n\n[.babelrc](https://github.com/pqina/react-filepond/blob/master/.babelrc \".babelrc\")\n\n\n\n\n\n\n\n | \n\n[.babelrc](https://github.com/pqina/react-filepond/blob/master/.babelrc \".babelrc\")\n\n\n\n\n\n\n\n | \n\n[add build targets](https://github.com/pqina/react-filepond/commit/c2ee9a10dab64e0fafd636876551de11449f46f1 \"add build targets\")\n\n\n\n | \n\nApr 5, 2018\n\n |\n| \n\n[.gitignore](https://github.com/pqina/react-filepond/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/pqina/react-filepond/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[Update .gitignore](https://github.com/pqina/react-filepond/commit/52f6bcebd79947ef86b55e7f97e8cd98231f9eb4 \"Update .gitignore\")\n\n\n\n | \n\nMay 16, 2022\n\n |\n| \n\n[.npmignore](https://github.com/pqina/react-filepond/blob/master/.npmignore \".npmignore\")\n\n\n\n\n\n\n\n | \n\n[.npmignore](https://github.com/pqina/react-filepond/blob/master/.npmignore \".npmignore\")\n\n\n\n\n\n\n\n | \n\n[up version](https://github.com/pqina/react-filepond/commit/ddf3299b3c45fd1fb334fa4ce06e5ea9655ed1c0 \"up version\")\n\n\n\n | \n\nSep 9, 2020\n\n |\n| \n\n[CHANGELOG.md](https://github.com/pqina/react-filepond/blob/master/CHANGELOG.md \"CHANGELOG.md\")\n\n\n\n\n\n\n\n | \n\n[CHANGELOG.md](https://github.com/pqina/react-filepond/blob/master/CHANGELOG.md \"CHANGELOG.md\")\n\n\n\n\n\n\n\n | \n\n[fix react strict problem](https://github.com/pqina/react-filepond/commit/6f61ac0afa70eca24bd6f5ce40a01c2c2370633a \"fix react strict problem\")\n\n\n\n | \n\nMay 12, 2022\n\n |\n| \n\n[LICENSE](https://github.com/pqina/react-filepond/blob/master/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[LICENSE](https://github.com/pqina/react-filepond/blob/master/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[add example, set filepond 4 peer dependency](https://github.com/pqina/react-filepond/commit/bbd3073d3ec7025c9d4cca68c302317726338422 \"add example, set filepond 4 peer dependency\")\n\n\n\n | \n\nFeb 5, 2019\n\n |\n| \n\n[README.md](https://github.com/pqina/react-filepond/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/pqina/react-filepond/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[fix: README examples](https://github.com/pqina/react-filepond/commit/1244e31e62abb0ea528085d2ab6db906ec5424ad \"fix: README examples\")\n\n\n\n | \n\nJan 29, 2023\n\n |\n| \n\n[package-lock.json](https://github.com/pqina/react-filepond/blob/master/package-lock.json \"package-lock.json\")\n\n\n\n\n\n\n\n | \n\n[package-lock.json](https://github.com/pqina/react-filepond/blob/master/package-lock.json \"package-lock.json\")\n\n\n\n\n\n\n\n | \n\n[fix react strict problem](https://github.com/pqina/react-filepond/commit/6f61ac0afa70eca24bd6f5ce40a01c2c2370633a \"fix react strict problem\")\n\n\n\n | \n\nMay 12, 2022\n\n |\n| \n\n[package.json](https://github.com/pqina/react-filepond/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[package.json](https://github.com/pqina/react-filepond/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[up version](https://github.com/pqina/react-filepond/commit/3b4a958401ba1370e1abd05ff56ce3d39cf36cd9 \"up version\")\n\n\n\n | \n\nDec 16, 2024\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/pqina/react-filepond?screenshot=true#)\n*   [MIT license](https://github.com/pqina/react-filepond?screenshot=true#)\n\nReact FilePond\n==============\n\n[](https://github.com/pqina/react-filepond?screenshot=true#react-filepond)\n\nReact FilePond is a handy wrapper component for [FilePond](https://github.com/pqina/filepond), a JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.\n\n[![Image 33: License: MIT](https://camo.githubusercontent.com/6581c31c16c1b13ddc2efb92e2ad69a93ddc4a92fd871ff15d401c4c6c9155a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)](https://github.com/pqina/react-filepond/blob/master/LICENSE) [![Image 34: npm version](https://camo.githubusercontent.com/f2d62c57f4b5a8b8000c6926bfdcc96a92b5900a1c09faeaa2837b72f6efe97f/68747470733a2f2f62616467652e667572792e696f2f6a732f72656163742d66696c65706f6e642e737667)](https://www.npmjs.com/package/react-filepond) [![Image 35: npm](https://camo.githubusercontent.com/80dd4caddb651a850ebc318338ae04966d189b897ac788352349beaf0603e884/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f72656163742d66696c65706f6e64)](https://camo.githubusercontent.com/80dd4caddb651a850ebc318338ae04966d189b897ac788352349beaf0603e884/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f72656163742d66696c65706f6e64)\n\n* * *\n\n[![Image 36: FilePond](https://github.com/pqina/filepond-github-assets/raw/master/header.svg)](https://www.buymeacoffee.com/rikschennink/)\n\n[Buy me a Coffee](https://www.buymeacoffee.com/rikschennink/) / [Use FilePond with Pintura](https://pqina.nl/pintura/?ref=github-filepond) / [Dev updates on Twitter](https://twitter.com/rikschennink/)\n\n* * *\n\n### Core Features\n\n[](https://github.com/pqina/react-filepond?screenshot=true#core-features)\n\n*   Accepts **directories**, **files**, blobs, local URLs, **remote URLs** and Data URIs.\n*   **Drop files**, select on filesystem, **copy and paste files**, or add files using the API.\n*   **Async uploading** with AJAX, or encode files as base64 data and send along form post.\n*   **Accessible**, tested with AT software like VoiceOver and JAWS, **navigable by Keyboard**.\n*   **Image optimization**, automatic image resizing, **cropping**, and **fixes EXIF orientation**.\n*   **Responsive**, automatically scales to available space, is functional on both **mobile and desktop devices**.\n\n[Learn more about FilePond](https://pqina.nl/filepond/)\n\n[![Image 37](https://github.com/pqina/filepond-github-assets/raw/master/filepond-animation-01.gif)](https://github.com/pqina/filepond-github-assets/blob/master/filepond-animation-01.gif) [![Image 38: filepond-animation-01.gif](https://github.com/pqina/filepond-github-assets/raw/master/filepond-animation-01.gif)](https://github.com/pqina/filepond-github-assets/blob/master/filepond-animation-01.gif)[](https://github.com/pqina/filepond-github-assets/blob/master/filepond-animation-01.gif)\n\n* * *\n\n### Also need Image Editing?\n\n[](https://github.com/pqina/react-filepond?screenshot=true#also-need-image-editing)\n\n**Pintura the modern JavaScript Image Editor** is what you're looking for. Pintura supports setting **crop aspect ratios**, **resizing**, **rotating**, **cropping**, and **flipping** images. Above all, it integrates beautifully with FilePond.\n\n[Learn more about Pintura](https://pqina.nl/pintura/?ref=github-react-filepond)\n\n[![Image 39](https://github.com/pqina/filepond-github-assets/raw/master/filepond_pintura.gif?raw=true)](https://github.com/pqina/filepond-github-assets/blob/master/filepond_pintura.gif?raw=true) [![Image 40: filepond_pintura.gif?raw=true](https://github.com/pqina/filepond-github-assets/raw/master/filepond_pintura.gif?raw=true)](https://github.com/pqina/filepond-github-assets/blob/master/filepond_pintura.gif?raw=true)[](https://github.com/pqina/filepond-github-assets/blob/master/filepond_pintura.gif?raw=true)\n\n* * *\n\nInstallation\n------------\n\n[](https://github.com/pqina/react-filepond?screenshot=true#installation)\n\n```shell\nnpm install react-filepond filepond --save\n```\n\nHooks:\n\n```js\nimport React, { useState } from 'react'\nimport ReactDOM from 'react-dom'\n\n// Import React FilePond\nimport { FilePond, registerPlugin } from 'react-filepond'\n\n// Import FilePond styles\nimport 'filepond/dist/filepond.min.css'\n\n// Import the Image EXIF Orientation and Image Preview plugins\n// Note: These need to be installed separately\n// `npm i filepond-plugin-image-preview filepond-plugin-image-exif-orientation --save`\nimport FilePondPluginImageExifOrientation from 'filepond-plugin-image-exif-orientation'\nimport FilePondPluginImagePreview from 'filepond-plugin-image-preview'\nimport 'filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css'\n\n// Register the plugins\nregisterPlugin(FilePondPluginImageExifOrientation, FilePondPluginImagePreview)\n\n// Our app\nfunction App() {\n  const [files, setFiles] = useState([])\n  return (\n    <div className=\"App\">\n      <FilePond\n        files={files}\n        onupdatefiles={setFiles}\n        allowMultiple={true}\n        maxFiles={3}\n        server=\"/api\"\n        name=\"files\" /* sets the file input name, it's filepond by default */\n        labelIdle='Drag & Drop your files or <span class=\"filepond--label-action\">Browse</span>'\n      />\n    </div>\n  )\n}\n```\n\nComponent:\n\n```js\nimport React, { useState } from 'react'\nimport ReactDOM from 'react-dom'\n\n// Import React FilePond\nimport { FilePond, registerPlugin } from \"react-filepond\";\n\n// Import FilePond styles\nimport \"filepond/dist/filepond.min.css\";\n\n// Import the Image EXIF Orientation and Image Preview plugins\n// Note: These need to be installed separately\nimport FilePondPluginImageExifOrientation from \"filepond-plugin-image-exif-orientation\";\nimport FilePondPluginImagePreview from \"filepond-plugin-image-preview\";\nimport \"filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css\";\n\n// Register the plugins\nregisterPlugin(FilePondPluginImageExifOrientation, FilePondPluginImagePreview);\n\n// Our app\nclass App extends Component {\n  constructor(props) {\n    super(props);\n\n    this.state = {\n      // Set initial files, type 'local' means this is a file\n      // that has already been uploaded to the server (see docs)\n      files: [\n        {\n          source: \"index.html\",\n          options: {\n            type: \"local\"\n          }\n        }\n      ]\n    };\n  }\n\n  handleInit() {\n    console.log(\"FilePond instance has initialised\", this.pond);\n  }\n\n  render() {\n    return (\n      <div className=\"App\">\n        <FilePond\n          ref={ref => (this.pond = ref)}\n          files={this.state.files}\n          allowMultiple={true}\n          allowReorder={true}\n          maxFiles={3}\n          server=\"/api\"\n          name=\"files\" /* sets the file input name, it's filepond by default */\n          oninit={() => this.handleInit()}\n          onupdatefiles={fileItems => {\n            // Set currently active file objects to this.state\n            this.setState({\n              files: fileItems.map(fileItem => fileItem.file)\n            });\n          }}\n        />\n      </div>\n    );\n  }\n}\n```\n\n[Read the docs for more information](https://pqina.nl/filepond/docs/patterns/frameworks/react/)\n\n[Live Demo on Code Sandbox](https://codesandbox.io/s/react-filepond-live-demo-iw9ri)\n\nAbout\n-----\n\n🔌 A handy FilePond adapter component for React\n\n[pqina.nl/filepond](https://pqina.nl/filepond \"https://pqina.nl/filepond\")\n\n### Topics\n\n[react](https://github.com/topics/react \"Topic: react\") [upload](https://github.com/topics/upload \"Topic: upload\") [file](https://github.com/topics/file \"Topic: file\") [image-processing](https://github.com/topics/image-processing \"Topic: image-processing\") [filepond](https://github.com/topics/filepond \"Topic: filepond\")\n\n### Resources\n\n[Readme](https://github.com/pqina/react-filepond?screenshot=true#readme-ov-file)\n\n### License\n\n[MIT license](https://github.com/pqina/react-filepond?screenshot=true#MIT-1-ov-file)\n\n[Activity](https://github.com/pqina/react-filepond/activity)\n\n[Custom properties](https://github.com/pqina/react-filepond/custom-properties)\n\n### Stars\n\n[**1.9k** stars](https://github.com/pqina/react-filepond/stargazers)\n\n### Watchers\n\n[**16** watching](https://github.com/pqina/react-filepond/watchers)\n\n### Forks\n\n[**93** forks](https://github.com/pqina/react-filepond/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fpqina%2Freact-filepond&report=pqina+%28user%29)\n\n[Releases 1](https://github.com/pqina/react-filepond/releases)\n--------------------------------------------------------------\n\n[7.1.0 Latest Sep 9, 2020](https://github.com/pqina/react-filepond/releases/tag/7.1.0)\n\nSponsor this project\n--------------------\n\n*   [https://www.buymeacoffee.com/rikschennink](https://www.buymeacoffee.com/rikschennink)\n\n[Packages 0](https://github.com/orgs/pqina/packages?repo_name=react-filepond)\n-----------------------------------------------------------------------------\n\nNo packages published  \n\n[Used by 6.9k](https://github.com/pqina/react-filepond/network/dependents)\n--------------------------------------------------------------------------\n\n[* ![Image 41: @Kizza2014](https://avatars.githubusercontent.com/u/157684939?s=64&v=4) * ![Image 42: @rzkylimitx](https://avatars.githubusercontent.com/u/190939109?s=64&v=4) * ![Image 43: @darkcris1](https://avatars.githubusercontent.com/u/65588059?s=64&v=4) * ![Image 44: @LivioGama](https://avatars.githubusercontent.com/u/6930498?s=64&v=4) * ![Image 45: @mohamedfariedm](https://avatars.githubusercontent.com/u/139636409?s=64&v=4) * ![Image 46: @iheeb09](https://avatars.githubusercontent.com/u/169687055?s=64&v=4) * ![Image 47: @Aminez03](https://avatars.githubusercontent.com/u/110544552?s=64&v=4) * ![Image 48: @EugenEistrach](https://avatars.githubusercontent.com/u/45036228?s=64&v=4) \\+ 6,923](https://github.com/pqina/react-filepond/network/dependents)\n\n[Contributors 8](https://github.com/pqina/react-filepond/graphs/contributors)\n-----------------------------------------------------------------------------\n\n*   [![Image 49: @rikschennink](https://avatars.githubusercontent.com/u/1132575?s=64&v=4)](https://github.com/rikschennink)\n*   [![Image 50: @sbusch](https://avatars.githubusercontent.com/u/91866?s=64&v=4)](https://github.com/sbusch)\n*   [![Image 51: @KimGenius](https://avatars.githubusercontent.com/u/29722636?s=64&v=4)](https://github.com/KimGenius)\n*   [![Image 52: @lukestuts](https://avatars.githubusercontent.com/u/484409?s=64&v=4)](https://github.com/lukestuts)\n*   [![Image 53: @dhilst](https://avatars.githubusercontent.com/u/392820?s=64&v=4)](https://github.com/dhilst)\n*   [![Image 54: @Jokinen](https://avatars.githubusercontent.com/u/9090689?s=64&v=4)](https://github.com/Jokinen)\n*   [![Image 55: @songhn233](https://avatars.githubusercontent.com/u/47357585?s=64&v=4)](https://github.com/songhn233)\n*   [![Image 56: @z1k0v](https://avatars.githubusercontent.com/u/88764189?s=64&v=4)](https://github.com/z1k0v)\n\nLanguages\n---------\n\n*   [JavaScript 85.9%](https://github.com/pqina/react-filepond/search?l=javascript)\n*   [HTML 11.8%](https://github.com/pqina/react-filepond/search?l=html)\n*   [CSS 2.3%](https://github.com/pqina/react-filepond/search?l=css)\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 7071
+  }
+}
+```

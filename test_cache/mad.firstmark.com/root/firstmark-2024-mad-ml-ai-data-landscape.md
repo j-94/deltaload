@@ -1,0 +1,5466 @@
+---
+title: FirstMark | 2024 MAD (ML/AI/Data) Landscape
+description: The 2024 MAD (ML/AI/Data) Landscape is the definitive market map of companies and products in machine learning, artificial intelligence and data, compiled by FirstMark.
+url: https://mad.firstmark.com/
+timestamp: 2025-01-20T16:01:53.766Z
+domain: mad.firstmark.com
+path: root
+---
+
+# FirstMark | 2024 MAD (ML/AI/Data) Landscape
+
+
+The 2024 MAD (ML/AI/Data) Landscape is the definitive market map of companies and products in machine learning, artificial intelligence and data, compiled by FirstMark.
+
+
+## Content
+
+FirstMark | 2024 MAD (ML/AI/Data) Landscape
+===============
+
+*   [Landscape](https://mad.firstmark.com/)
+*   [Card](https://mad.firstmark.com/card)
+
+[MAD](https://mad.firstmark.com/)[The 2024 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com/)
+
+*   
+
+50%
+
+*   [Infrastructure](https://mad.firstmark.com/card#recxdDH7aSqjZZA9b)
+    *   [Storage](https://mad.firstmark.com/card#rec7qoEwLE4qZJW4q)
+        
+        ![Image 2011: Amazon S3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_S3_drkuax.png?_a=AVADKIB0)
+        
+        ![Image 2012: Azure Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Storage_v2ucut.png?_a=AVADKIB0)
+        
+        ![Image 2013: Google Cloud Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Storage_u5gz03.png?_a=AVADKIB0)
+        
+        ![Image 2014: IBM Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Storage_nmqnew.png?_a=AVADKIB0)
+        
+        ![Image 2015: Digital Ocean Spaces](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DigitalOcean_Spaces_ueffdu.png?_a=AVADKIB0)
+        
+        ![Image 2016: Pure Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pure_storage_x9bsjz.png?_a=AVADKIB0)
+        
+        ![Image 2017: NetApp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/NetApp_m947xt.png?_a=AVADKIB0)
+        
+        ![Image 2018: Wasabi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/wasabi_ig42ka.svg?_a=AVADKIB0)
+        
+        ![Image 2019: Vast Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/vast_data_ylfyvr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2020: Egnyte](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Egnyte_ep3flu.png?_a=AVADKIB0)
+        
+        ![Image 2021: Alluxio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alluxio_rlm0ka.png?_a=AVADKIB0)
+        
+        ![Image 2022: HPE Nimble Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/HPE_Nimble_Storage_oqvx7y.png?_a=AVADKIB0)
+        
+        ![Image 2023: Panasas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Panasas_jsvgv7.png?_a=AVADKIB0)
+        
+        ![Image 2024: Qumulo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Qumulo_yyeqph.svg?_a=AVADKIB0)
+        
+        ![Image 2025: Cohesity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cohesity_fvsubb.png?_a=AVADKIB0)
+        
+        ![Image 2026: Clumio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/clumio_bnfyxc.png?_a=AVADKIB0)
+        
+        ![Image 2027: Weka](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Weka_rwznwz.png?_a=AVADKIB0)
+        
+        ![Image 2028: MinIO](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MINIO_d1yhuv.png?_a=AVADKIB0)
+        
+        ![Image 2029: Backblaze](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Backblaze_amxymx.png?_a=AVADKIB0)
+        
+        ![Image 2030: Cloudflare](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CloudFlare_jdhbok.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2031: Tigris](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Tigris_Data_y83hdx.png?_a=AVADKIB0)
+        
+    *   [MPP DBs](https://mad.firstmark.com/card#recUJFlE2NjTDRBke)
+        
+        ![Image 2032: Teradata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Taradata_aw9th8.png?_a=AVADKIB0)
+        
+        ![Image 2033: Vertica, An OpenText Company](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Vertica_fesufc.svg?_a=AVADKIB0)
+        
+        ![Image 2034: IBM Data Warehouse Solutions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Data_Warehouse_cg9qdi.png?_a=AVADKIB0)
+        
+        ![Image 2035: Actian](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Actian_nidpyy.png?_a=AVADKIB0)
+        
+        ![Image 2036: Exasol](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/exasol_hzrypw.svg?_a=AVADKIB0)
+        
+        ![Image 2037: Greenplum Database](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Greenplum_Database_pa9tov.png?_a=AVADKIB0)
+        
+    *   [Data Lakes/Lakehouses](https://mad.firstmark.com/card#rec7OGBuH7z873Pgl)
+        
+        ![Image 2038: Dremio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dremio_lfcgup.png?_a=AVADKIB0)
+        
+        ![Image 2039: Databricks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databricks_y7ofwh.png?_a=AVADKIB0)
+        
+        ![Image 2040: Snowflake](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/snowflake_ryrk29.svg?_a=AVADKIB0)
+        
+        ![Image 2041: Starburst](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Starburst_gslbdi.png?_a=AVADKIB0)
+        
+        ![Image 2042: Azure HD Insight](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_HDInsight_kzchia.png?_a=AVADKIB0)
+        
+        ![Image 2043: Azure Data Lake Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Data_Lake_Storage_lgvtt8.png?_a=AVADKIB0)
+        
+        ![Image 2044: Google Cloud Dataproc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Dataproc_fdnyfy.png?_a=AVADKIB0)
+        
+        ![Image 2045: Google Cloud BigLake](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_BigLake_lwd4qj.png?_a=AVADKIB0)
+        
+        ![Image 2046: AWS Amazon EMR](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_EMR_pvi9a0.png?_a=AVADKIB0)
+        
+        ![Image 2047: AWS Lake Formation](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Lake_Formation_sah17t.png?_a=AVADKIB0)
+        
+        ![Image 2048: IBM Data Lake Solutions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Data_Lake_Solutions_rsqztg.png?_a=AVADKIB0)
+        
+        ![Image 2049: HPE Ezmeral Data Fabric](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/HPE_Ezmeral_Data_Fabric_f3srau.png?_a=AVADKIB0)
+        
+        ![Image 2050: Cloudera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cloudera_u7lqg7.png?_a=AVADKIB0)
+        
+        ![Image 2051: OneHouse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/onehouse_cviz01.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2052: Qubole](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/qubole_pbd6m9.png?_a=AVADKIB0)
+        
+        ![Image 2053: ChaosSearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/chaossearch_dsiuxm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2054: Cloudian](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cloudian_w0lzsr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2055: Iomete](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/iomete_s7l5wu.png?_a=AVADKIB0)
+        
+    *   [Data Warehouses](https://mad.firstmark.com/card#reczORl2ISwO91Uwl)
+        
+        ![Image 2056: AWS Amazon RedShift](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_RedShift_p2wc8i.png?_a=AVADKIB0)
+        
+        ![Image 2057: Snowflake](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/snowflake_ryrk29.svg?_a=AVADKIB0)
+        
+        ![Image 2058: Google Cloud BigQuery](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_BigQuery_ma5drg.png?_a=AVADKIB0)
+        
+        ![Image 2059: Azure Synapse Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Synapse_Analytics_ndfs57.png?_a=AVADKIB0)
+        
+        ![Image 2060: Oracle Exadata Cloud Service](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Exadata_gjhklx.png?_a=AVADKIB0)
+        
+        ![Image 2061: Firebolt](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Firebolt_tqvt4q.png?_a=AVADKIB0)
+        
+        ![Image 2062: VMWare Greenplum](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/VMware_Greenplum_mj39el.png?_a=AVADKIB0)
+        
+        ![Image 2063: IBM Db2 Warehouse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Db2_Warehouse_k64pom.png?_a=AVADKIB0)
+        
+        ![Image 2064: Kyligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kyligence_l5mjx8.png?_a=AVADKIB0)
+        
+        ![Image 2065: Yellowbrick](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Yellowbrick_zlqox1.svg?_a=AVADKIB0)
+        
+        ![Image 2066: Tabular](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tabular_luv7od.svg?_a=AVADKIB0)
+        
+        ![Image 2067: StarRocks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/starrocks_zwdlxt.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2068: Panoply by SQream](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/panoply_joebl6.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2069: SelectDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/selectdb_qhdmwq.png?_a=AVADKIB0)
+        
+        ![Image 2070: Ocient](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ocient_bfwfek.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2071: Hydra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hydra_tkaq7r.svg?_a=AVADKIB0)
+        
+    *   [Streaming/In-Memory](https://mad.firstmark.com/card#recUR4xZ6P8XZkOEX)
+        
+        ![Image 2072: AWS Amazon Kinesis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Kinesis_m2vgqe.png?_a=AVADKIB0)
+        
+        ![Image 2073: Google Cloud Dataflow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Dataflow_ryeb3n.png?_a=AVADKIB0)
+        
+        ![Image 2074: Confluent](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Confluent_ava4bp.svg?_a=AVADKIB0)
+        
+        ![Image 2075: Databricks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databricks_y7ofwh.png?_a=AVADKIB0)
+        
+        ![Image 2076: Oracle Coherence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Coherence_ii51dx.png?_a=AVADKIB0)
+        
+        ![Image 2077: SAP HANA Cloud](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_HANA_Cloud_tnjmbr.png?_a=AVADKIB0)
+        
+        ![Image 2078: RedPanda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Redpanda_txpp7d.png?_a=AVADKIB0)
+        
+        ![Image 2079: Hazelcast](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hazelcast_es38cf.png?_a=AVADKIB0)
+        
+        ![Image 2080: Decodable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Decodable_grapdx.png?_a=AVADKIB0)
+        
+        ![Image 2081: Striim](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/striim_yujd8f.png?_a=AVADKIB0)
+        
+        ![Image 2082: Estuary](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Estuary_hgt2zh.webp?_a=AVADKIB0)
+        
+        ![Image 2083: Gigaspaces](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/gigaspaces_bjvqgh.png?_a=AVADKIB0)
+        
+        ![Image 2084: GridGain](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/GridGain_nvkic0.png?_a=AVADKIB0)
+        
+        ![Image 2085: MotherDuck](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mother_duck_jhnfxh.png?_a=AVADKIB0)
+        
+        ![Image 2086: Meroxa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/meroxa_ijuras.svg?_a=AVADKIB0)
+        
+        ![Image 2087: Voltron Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Voltron_Data_omejjy.png?_a=AVADKIB0)
+        
+        ![Image 2088: DeltaStream](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeltaStream_dkgoff.png?_a=AVADKIB0)
+        
+        ![Image 2089: Tinybird](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tinybird_cc6w14.png?_a=AVADKIB0)
+        
+        ![Image 2090: StreamNative](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/streamNative_zpzm52.svg?_a=AVADKIB0)
+        
+        ![Image 2091: Conduktor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/conduktor_jgflmb.png?_a=AVADKIB0)
+        
+        ![Image 2092: Aiven](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aiven_aro1b2.png?_a=AVADKIB0)
+        
+        ![Image 2093: Upsolver](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/upsolver_pfheat.png?_a=AVADKIB0)
+        
+        ![Image 2094: Quix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/quix_rl0l0g.png?_a=AVADKIB0)
+        
+        ![Image 2095: Ververica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/ververica_oxrwu2.png?_a=AVADKIB0)
+        
+        ![Image 2096: RisingWave Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/RisingWave_Labs_ngvv35.svg?_a=AVADKIB0)
+        
+        ![Image 2097: Bytewax](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bytewax_h0z3kq.png?_a=AVADKIB0)
+        
+        ![Image 2098: Arcion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Arcion_xa9sds.png?_a=AVADKIB0)
+        
+        ![Image 2099: Ably](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ably_sn7p9u.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2100: InfinyOn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/InfinyOn_Logo_ezzar7.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2101: Artie](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/artie_so_nbci9s.png?_a=AVADKIB0)
+        
+    *   [RDBMs](https://mad.firstmark.com/card#recJaaH7hrkaPcng2)
+        
+        ![Image 2102: Oracle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_m5kbhw.svg?_a=AVADKIB0)
+        
+        ![Image 2103: IBM DB2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_DB2_wyth2x.png?_a=AVADKIB0)
+        
+        ![Image 2104: SAP ASE](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_ASE_l1xnst.png?_a=AVADKIB0)
+        
+        ![Image 2105: Microsoft SQL Server](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Microsoft_SQL_Server_mrkck4.png?_a=AVADKIB0)
+        
+        ![Image 2106: Microsoft Access](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Microsoft_Access_ymvkbx.png?_a=AVADKIB0)
+        
+        ![Image 2107: AWS Amazon RDS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_RDS_mkbudb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2108: Altibase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Altibase_Logo_Wiki_qzxhze.png?_a=AVADKIB0)
+        
+    *   [NoSQL Databases](https://mad.firstmark.com/card#recGv92EdWxVZoZ84)
+        
+        ![Image 2109: AWS Amazon DynamoDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_DynamoDB_ejvmba.png?_a=AVADKIB0)
+        
+        ![Image 2110: MongoDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MongoDB_sggtir.svg?_a=AVADKIB0)
+        
+        ![Image 2111: Azure CosmosDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Cosmos_DB_qlc8nm.png?_a=AVADKIB0)
+        
+        ![Image 2112: Google Cloud Bigtable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Bigtable_eirfbn.png?_a=AVADKIB0)
+        
+        ![Image 2113: Amazon DocumentDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_DocumentDB_kxjhns.png?_a=AVADKIB0)
+        
+        ![Image 2114: Oracle NoSQL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_NoSQL_itvree.png?_a=AVADKIB0)
+        
+        ![Image 2115: Progress MarkLogic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MarkLogic_gvvymf.png?_a=AVADKIB0)
+        
+        ![Image 2116: Couchbase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/couchbase_fuofqd.svg?_a=AVADKIB0)
+        
+        ![Image 2117: Datastax](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datastax_dfvwmg.svg?_a=AVADKIB0)
+        
+        ![Image 2118: ScyllaDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Scylla_lxxpdd.png?_a=AVADKIB0)
+        
+        ![Image 2119: Riak](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/riak_hxypjt.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2120: RavenDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/RavenDB_fiy1ne.png?_a=AVADKIB0)
+        
+        ![Image 2121: Aerospike](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aerospike_fnpres.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2122: pgEdge](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/pgedge_sbf5ex.png?_a=AVADKIB0)
+        
+        ![Image 2123: Crate.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/crate_gjae9n.png?_a=AVADKIB0)
+        
+        ![Image 2124: VMware Tanzu GemFire](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/VMware_GemFire_gouzlc.png?_a=AVADKIB0)
+        
+        ![Image 2125: Speedb](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Speedb_wxqger.jpg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2126: Infinispan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/infinispan-logo_zktlbk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2127: Crunchydata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Crunchydata_h5fdun.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2128: Nile](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Nile_nyok9j.png?_a=AVADKIB0)
+        
+    *   [NewSQL Databases](https://mad.firstmark.com/card#recUE6a1qB83wlzbq)
+        
+        ![Image 2129: AWS Amazon Aurora](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Aurora_pcuo9v.png?_a=AVADKIB0)
+        
+        ![Image 2130: Google Cloud Spanner](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Cloud_Spanner_yssc8q.png?_a=AVADKIB0)
+        
+        ![Image 2131: CockroachDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cockroach_DB_dmovcx.jpg?_a=AVADKIB0)
+        
+        ![Image 2132: Google Cloud AlloyDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_AlloyDB_h0tbzv.png?_a=AVADKIB0)
+        
+        ![Image 2133: MariaDB Xpand](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MariaDB_Xpand_f38xm5.png?_a=AVADKIB0)
+        
+        ![Image 2134: PlanetScale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/PlanetScale_gzrivb.svg?_a=AVADKIB0)
+        
+        ![Image 2135: YugabyteDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Yugabyte_a4jjf4.png?_a=AVADKIB0)
+        
+        ![Image 2136: InfluxData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Influx_Data_svgdex.svg?_a=AVADKIB0)
+        
+        ![Image 2137: Supabase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/supabase_m0ownu.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2138: Neon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Neon-Logo_ven5hj.png?_a=AVADKIB0)
+        
+        ![Image 2139: Timescale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Timescale_ovntke.svg?_a=AVADKIB0)
+        
+        ![Image 2140: PingCAP](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/PingCap_qbnzpr.png?_a=AVADKIB0)
+        
+        ![Image 2141: Volt Active Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Volt_Active_Data_bnmzau.png?_a=AVADKIB0)
+        
+        ![Image 2142: Dassault Systemes NuoDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dassault_Systemes_NuoDB_vbx44m.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2143: Altibase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Altibase_Logo_Wiki_qzxhze.png?_a=AVADKIB0)
+        
+    *   [Real Time Databases](https://mad.firstmark.com/card#recBrG2P6Zbk8OKjc)
+        
+        ![Image 2144: Clickhouse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Clickhouse_ev5mlp.png?_a=AVADKIB0)
+        
+        ![Image 2145: Redis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Redis_fvyl1d.svg?_a=AVADKIB0)
+        
+        ![Image 2146: SingleStore](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/singlestore_ruekje.svg?_a=AVADKIB0)
+        
+        ![Image 2147: Rockset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Rockset_r8q4nk.png?_a=AVADKIB0)
+        
+        ![Image 2148: Imply](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/imply_ylw5le.svg?_a=AVADKIB0)
+        
+        ![Image 2149: Materialize](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Materialize_glfmzm.png?_a=AVADKIB0)
+        
+        ![Image 2150: Startree](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Startree_w30rlf.svg?_a=AVADKIB0)
+        
+        ![Image 2151: Altinity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Altinity_mtavee.svg?_a=AVADKIB0)
+        
+        ![Image 2152: FeatureBase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/FeatureBase_a4gwuq.png?_a=AVADKIB0)
+        
+        ![Image 2153: Macrometa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Macrometa_dhivbd.png?_a=AVADKIB0)
+        
+        ![Image 2154: ReadySet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ReadySet_sfghbx.png?_a=AVADKIB0)
+        
+        ![Image 2155: Convex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Convex.dev_vmiguq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2156: QuestDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/QuestDB_vkonxc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2157: DolphinDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DolphinDB_r3qhu6.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2158: RethinkDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/rethinkdb_qwnbgz.png?_a=AVADKIB0)
+        
+        ![Image 2159: KX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/KX_xxm2cu.png?_a=AVADKIB0)
+        
+    *   [Graph DBs](https://mad.firstmark.com/card#reckl7lBcOjn9GF9l)
+        
+        ![Image 2160: neo4j](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Neo4J_onwibg.png?_a=AVADKIB0)
+        
+        ![Image 2161: AWS Amazon Neptune](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Neptune_uft2ge.png?_a=AVADKIB0)
+        
+        ![Image 2162: ArangoDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/arangoDB_j7taed.png?_a=AVADKIB0)
+        
+        ![Image 2163: Dgraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dgraph_gmrx3c.svg?_a=AVADKIB0)
+        
+        ![Image 2164: Memgraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Memgraph_mt0kzg.svg?_a=AVADKIB0)
+        
+        ![Image 2165: IBM Graph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Graph_hgcyoe.png?_a=AVADKIB0)
+        
+        ![Image 2166: Oracle Graph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Graph_a38p37.png?_a=AVADKIB0)
+        
+        ![Image 2167: Stardog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/stardog_nkqafz.png?_a=AVADKIB0)
+        
+        ![Image 2168: Objectivity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/objectivity_dkgtu6.png?_a=AVADKIB0)
+        
+        ![Image 2169: TigerGraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tigergraph_vqgzmc.png?_a=AVADKIB0)
+        
+        ![Image 2170: TerminusDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/TerminusDB_be3q6z.png?_a=AVADKIB0)
+        
+        ![Image 2171: Hasura](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hasura_biku56.png?_a=AVADKIB0)
+        
+        ![Image 2172: Apollo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apollo_rdpgfz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2173: NebulaGraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/NebulaGraph_ituedz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2174: Grafbase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Grafbase_fgynjt.png?_a=AVADKIB0)
+        
+    *   [GPU Databases](https://mad.firstmark.com/card#rec2NhLfjhmUAs5Ta)
+        
+        ![Image 2175: Kinetica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kinetica_kvjuy5.png?_a=AVADKIB0)
+        
+        ![Image 2176: SQream](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sqream_vs4g8p.png?_a=AVADKIB0)
+        
+        ![Image 2177: Heavy.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Heavy_ciietg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2178: IBM Spark GPU](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/IBM_Spark_GPU_flc3jm.png?_a=AVADKIB0)
+        
+        ![Image 2179: HeteroDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/PG-Strom_egbck8.png?_a=AVADKIB0)
+        
+        ![Image 2180: Brytlyt](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/brytlyt_p3pk4a.svg?_a=AVADKIB0)
+        
+    *   [Multi-Model Databases & Abstraction](https://mad.firstmark.com/card#recuapWYMOfszAYy2)
+        
+        ![Image 2181: SurrealDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Surreal_DB_tt9sbl.png?_a=AVADKIB0)
+        
+        ![Image 2182: Xata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Xata_erver0.png?_a=AVADKIB0)
+        
+        ![Image 2183: Prisma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Prisma_nd0ft6.svg?_a=AVADKIB0)
+        
+        ![Image 2184: Fauna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fauna_nqub19.svg?_a=AVADKIB0)
+        
+        ![Image 2185: TileDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/TileDB_logo_kvc8s4.png?_a=AVADKIB0)
+        
+        ![Image 2186: EdgeDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/edgedb_jfgvt3.png?_a=AVADKIB0)
+        
+    *   [Vector Databases](https://mad.firstmark.com/card#recNGGOHMFGfSbJ3k)
+        
+        ![Image 2187: Pinecone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Pinecone_aobfea.png?_a=AVADKIB0)
+        
+        ![Image 2188: Chroma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Chroma_yhogmr.png?_a=AVADKIB0)
+        
+        ![Image 2189: Weaviate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/weaveate_wifz65.png?_a=AVADKIB0)
+        
+        ![Image 2190: Zilliz](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zilliz_kmz82h.png?_a=AVADKIB0)
+        
+        ![Image 2191: Qdrant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Qdrant_jibzzn.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2192: Vespa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vespa_eafmuk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2193: Marqo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/marqo_ncnlqy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2194: LanceDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LanceDB_rebybt.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2195: Vald](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vald_tfvcc9.png?_a=AVADKIB0)
+        
+    *   [ETL/ELT/Data Transformation](https://mad.firstmark.com/card#recmgkiWcXb8kOPMy)
+        
+        ![Image 2196: dbt Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/dbt_pmf8ht.svg?_a=AVADKIB0)
+        
+        ![Image 2197: Talend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/talend_ikpj1d.png?_a=AVADKIB0)
+        
+        ![Image 2198: Alteryx](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alteryx_wpnsip.png?_a=AVADKIB0)
+        
+        ![Image 2199: Fivetran](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fivetran_vaqqkd.png?_a=AVADKIB0)
+        
+        ![Image 2200: Stitch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Stitch_Data_snnw5n.png?_a=AVADKIB0)
+        
+        ![Image 2201: Matillion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/matillion_tfxs7d.svg?_a=AVADKIB0)
+        
+        ![Image 2202: Estuary](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Estuary_oawn7u.png?_a=AVADKIB0)
+        
+        ![Image 2203: Airbyte](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/airbyte_na8ob7.svg?_a=AVADKIB0)
+        
+        ![Image 2204: Datorios](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datorios_logo_hatpta.png?_a=AVADKIB0)
+        
+        ![Image 2205: Azure Data Factory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Data_Factory_1650_1275_px_r5xejv.png?_a=AVADKIB0)
+        
+        ![Image 2206: Google Cloud Data Fusion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Data_Fusion_cavnmw.png?_a=AVADKIB0)
+        
+        ![Image 2207: AWS Glue](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Glue_xwwf35.png?_a=AVADKIB0)
+        
+        ![Image 2208: Integrate.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/integrate.io_k97yay.svg?_a=AVADKIB0)
+        
+        ![Image 2209: Hitachi Vantara Pentaho](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hitachi_Vantara_Pentaho_ggirns.png?_a=AVADKIB0)
+        
+        ![Image 2210: Kleene](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kleene_abdyhf.png?_a=AVADKIB0)
+        
+        ![Image 2211: tamr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tamr_uawk7k.svg?_a=AVADKIB0)
+        
+        ![Image 2212: Meltano](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Meltano_ycumga.png?_a=AVADKIB0)
+        
+        ![Image 2213: Rivery](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rivery_pd3yqg.png?_a=AVADKIB0)
+        
+        ![Image 2214: Hevo Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hevo_m1yxr3.png?_a=AVADKIB0)
+        
+        ![Image 2215: Portable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/portable_gqsy4q.png?_a=AVADKIB0)
+        
+        ![Image 2216: Prophecy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Prophecy_c1leqw.svg?_a=AVADKIB0)
+        
+        ![Image 2217: Coalesce](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/coalesce_cfbe5x.png?_a=AVADKIB0)
+        
+        ![Image 2218: Cdata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cdata_epupmr.png?_a=AVADKIB0)
+        
+        ![Image 2219: Dataddo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dataddo_cqt3ah.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2220: Osmos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/osmos_qigal3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2221: Unstructured.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Unstructured__ub0ylw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2222: DataChannel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DataChannel_wefpxa.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2223: Supermetrics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Supermetrics_jzxrvz.png?_a=AVADKIB0)
+        
+    *   [Reverse ETL](https://mad.firstmark.com/card#recdpFQYjFRUZ7vBJ)
+        
+        ![Image 2224: Census](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Census_rfddib.svg?_a=AVADKIB0)
+        
+        ![Image 2225: Hightouch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hightouch_olwzpe.png?_a=AVADKIB0)
+        
+        ![Image 2226: Rudderstack](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rudderstack_amyfgn.svg?_a=AVADKIB0)
+        
+        ![Image 2227: MessageGears](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MessageGears_acpimc.png?_a=AVADKIB0)
+        
+        ![Image 2228: Polytomic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/polytomic_onddpt.svg?_a=AVADKIB0)
+        
+        ![Image 2229: Octolis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/octolis_ulhkvb.png?_a=AVADKIB0)
+        
+    *   [Data Integration](https://mad.firstmark.com/card#recnOYlCktYjFYIjT)
+        
+        ![Image 2230: SAP Data Services](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_Data_Services_weagnl.png?_a=AVADKIB0)
+        
+        ![Image 2231: Twilio Segment](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Twilio_Segment_pxxuvw.png?_a=AVADKIB0)
+        
+        ![Image 2232: Informatica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/informatica_n8v5oy.svg?_a=AVADKIB0)
+        
+        ![Image 2233: Boomi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Boomi_eyfchs.png?_a=AVADKIB0)
+        
+        ![Image 2234: MuleSoft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mulesoft_lfl8yz.svg?_a=AVADKIB0)
+        
+        ![Image 2235: SnapLogic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Snaplogic_scopmc.png?_a=AVADKIB0)
+        
+        ![Image 2236: tray.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tray.io_euaz6v.png?_a=AVADKIB0)
+        
+        ![Image 2237: Tealium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tealium_nfkr0a.png?_a=AVADKIB0)
+        
+        ![Image 2238: Qlik](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Qlik_kyrrpw.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2239: Jitterbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Jitterbit_utlyxl.png?_a=AVADKIB0)
+        
+        ![Image 2240: Celigo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Celigo_k9fgqt.svg?_a=AVADKIB0)
+        
+        ![Image 2241: import.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/import-io_jdjizu.png?_a=AVADKIB0)
+        
+        ![Image 2242: Snowplow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Snowplow.io_m4ytga.png?_a=AVADKIB0)
+        
+        ![Image 2243: Flatfile](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Flatfile_zxb4lb.png?_a=AVADKIB0)
+        
+        ![Image 2244: Freshpaint](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/freshpaint_c7xook.svg?_a=AVADKIB0)
+        
+        ![Image 2245: InfoWorks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/infoworks_sboik6.png?_a=AVADKIB0)
+        
+        ![Image 2246: StreamSets](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/streamsets_amhyeg.png?_a=AVADKIB0)
+        
+        ![Image 2247: Denodo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Denodo_dwvwku.svg?_a=AVADKIB0)
+        
+        ![Image 2248: Crux Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/crux_tmr4ro.png?_a=AVADKIB0)
+        
+        ![Image 2249: Bobsled](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bobsled_usmoun.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2250: Sequin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sequin_rpeqmw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2251: Cinchy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cinchy_vnuh1e.png?_a=AVADKIB0)
+        
+        ![Image 2252: NextData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nextdata_ziqimb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2253: Immersa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Immersa_duh4bv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2254: Make](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Make-Logo-RGB_v3l9re.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2255: n8n](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/n8n_zfgwbd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2256: Whalesync](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Whalesync_gz4amx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2257: Parabola](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Parabola_ojuzmg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2258: YepCode](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Yepcode_vxqonx.png?_a=AVADKIB0)
+        
+    *   [Data Governance & Catalog](https://mad.firstmark.com/card#reccLdA0kDJN0yCzo)
+        
+        ![Image 2259: Informatica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/informatica_n8v5oy.svg?_a=AVADKIB0)
+        
+        ![Image 2260: SailPoint](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SailPoint_huhwzn.png?_a=AVADKIB0)
+        
+        ![Image 2261: Collibra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Collibra_kd4uoi.png?_a=AVADKIB0)
+        
+        ![Image 2262: IBM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/IBM_ffzo7p.png?_a=AVADKIB0)
+        
+        ![Image 2263: Alation](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alation_nlhsgm.png?_a=AVADKIB0)
+        
+        ![Image 2264: Atlan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/atlan_jhkbk8.png?_a=AVADKIB0)
+        
+        ![Image 2265: Data.world](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Data_World_w3mfli.png?_a=AVADKIB0)
+        
+        ![Image 2266: BigID](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BigID_ancp0f.png?_a=AVADKIB0)
+        
+        ![Image 2267: Metaphor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/metaphor_data_slab4u.webp?_a=AVADKIB0)
+        
+        ![Image 2268: Skyhigh Security](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Skyhigh_Security_phyj0e.png?_a=AVADKIB0)
+        
+        ![Image 2269: Immuta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/immuta_onak4e.png?_a=AVADKIB0)
+        
+        ![Image 2270: Stemma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/stemma_aapods.png?_a=AVADKIB0)
+        
+        ![Image 2271: Okera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/okera_jw0saw.png?_a=AVADKIB0)
+        
+        ![Image 2272: Hitachi Vantara](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hitachi_Vantara_amqu7c.png?_a=AVADKIB0)
+        
+        ![Image 2273: Select Star](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/select_star_nqswmi.png?_a=AVADKIB0)
+        
+        ![Image 2274: Secoda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/secoda_vz1r1c.svg?_a=AVADKIB0)
+        
+        ![Image 2275: Precisely](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Precisely_logo_eigig5.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2276: Alvin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Alvin_ub8dqd.png?_a=AVADKIB0)
+        
+        ![Image 2277: Acryl Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Acryl_Data_c0hmbg.png?_a=AVADKIB0)
+        
+        ![Image 2278: Securiti](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/securiti_melwd0.png?_a=AVADKIB0)
+        
+        ![Image 2279: ALTR](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Altr_jpteqa.png?_a=AVADKIB0)
+        
+        ![Image 2280: ObservePoint](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/observepoint_t49dyg.png?_a=AVADKIB0)
+        
+        ![Image 2281: Castor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/castor_ygf4dc.png?_a=AVADKIB0)
+        
+        ![Image 2282: Demyst](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/demyst_uy6el7.svg?_a=AVADKIB0)
+        
+        ![Image 2283: Stratio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stratio_ddwtvs.png?_a=AVADKIB0)
+        
+        ![Image 2284: Ataccama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ataccama_k7flzb.png?_a=AVADKIB0)
+        
+        ![Image 2285: Modern Data Company](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Modern_Data_Company_mjbwqp.png?_a=AVADKIB0)
+        
+        ![Image 2286: Orion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/orion_wqu2ne.png?_a=AVADKIB0)
+        
+        ![Image 2287: Raito](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Raito_bcnrje.png?_a=AVADKIB0)
+        
+        ![Image 2288: Solidatus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Solidatus_btexus.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2289: Octopai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Octopai_qk35f9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2290: OvalEdge](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OvalEdge_hjwkmu.png?_a=AVADKIB0)
+        
+    *   [Orchestration](https://mad.firstmark.com/card#recuRxuhkjgRPZ7Hi)
+        
+        ![Image 2291: Astronomer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/astronomer_r0brvk.png?_a=AVADKIB0)
+        
+        ![Image 2292: Prefect](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/prefect_aawz5x.png?_a=AVADKIB0)
+        
+        ![Image 2293: Elementl](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Elementl_ujrfi9.svg?_a=AVADKIB0)
+        
+        ![Image 2294: Outerbounds](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/outerbounds_s043ul.png?_a=AVADKIB0)
+        
+        ![Image 2295: Union.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/union_eq450l.png?_a=AVADKIB0)
+        
+        ![Image 2296: AWS Step Functions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Step_Functions_tlj2rg.png?_a=AVADKIB0)
+        
+        ![Image 2297: Microsoft Azure Data Factory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Data_Factory_1650_1275_px_cvpuow.png?_a=AVADKIB0)
+        
+        ![Image 2298: Akuity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Akuity_ii5d8s.png?_a=AVADKIB0)
+        
+        ![Image 2299: Mage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mage_iwwruf.png?_a=AVADKIB0)
+        
+        ![Image 2300: Google Cloud Workflows](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Workflows_zj7j5k.png?_a=AVADKIB0)
+        
+        ![Image 2301: Seqera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Seqera_e2uc24.png?_a=AVADKIB0)
+        
+        ![Image 2302: Trocco](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Trocco_uthve3.png?_a=AVADKIB0)
+        
+        ![Image 2303: Neurelo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Neurelo_dfoxpx.png?_a=AVADKIB0)
+        
+    *   [Data Quality & Observability](https://mad.firstmark.com/card#rec9PvNSW7vjVzvEe)
+        
+        ![Image 2304: Monte Carlo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/monte_carlo_mvfz0e.png?_a=AVADKIB0)
+        
+        ![Image 2305: Acceldata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Acceldata_dhg12c.png?_a=AVADKIB0)
+        
+        ![Image 2306: Manta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/manta_osiodh.png?_a=AVADKIB0)
+        
+        ![Image 2307: Collibra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Collibra_kd4uoi.png?_a=AVADKIB0)
+        
+        ![Image 2308: Unravel Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Unravel_gfz35c.svg?_a=AVADKIB0)
+        
+        ![Image 2309: Datafold](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/datafold_zasiuv.png?_a=AVADKIB0)
+        
+        ![Image 2310: Databand](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databand_yzozgo.png?_a=AVADKIB0)
+        
+        ![Image 2311: Metaplane](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Metaplane_hmmfws.svg?_a=AVADKIB0)
+        
+        ![Image 2312: Sifflet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sifflet_rfh4rj.svg?_a=AVADKIB0)
+        
+        ![Image 2313: Timeseer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Timeseer_j4mhw2.png?_a=AVADKIB0)
+        
+        ![Image 2314: Synq](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Synq_szddk6.png?_a=AVADKIB0)
+        
+        ![Image 2315: Talend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/talend_ikpj1d.png?_a=AVADKIB0)
+        
+        ![Image 2316: Soda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/soda.io_nfblfi.png?_a=AVADKIB0)
+        
+        ![Image 2317: Bigeye](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bigeye_ctr5d1.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2318: Masthead Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Masthead_Data_utc3me.png?_a=AVADKIB0)
+        
+        ![Image 2319: Great Expectations](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/great_expectations_p31i5q.svg?_a=AVADKIB0)
+        
+        ![Image 2320: Anomalo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/anomolo_idvxvu.png?_a=AVADKIB0)
+        
+        ![Image 2321: Precisely](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Precisely_logo_eigig5.svg?_a=AVADKIB0)
+        
+        ![Image 2322: Lightup](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/lightup_noxdny.png?_a=AVADKIB0)
+        
+        ![Image 2323: Validio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/validio_x6ncjy.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2324: Telmai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Telmai_ibnd18.png?_a=AVADKIB0)
+        
+    *   [Fully Managed](https://mad.firstmark.com/card#rec0SRi4qFFOqKlXn)
+        
+        ![Image 2325: Mozart Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Mozart_data_rlpecn.png?_a=AVADKIB0)
+        
+        ![Image 2326: Y42](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/y42_sgyrz8.png?_a=AVADKIB0)
+        
+        ![Image 2327: Fruition Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fruitiondata_mzkcn7.png?_a=AVADKIB0)
+        
+        ![Image 2328: Keboola](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/keboola_fppcre.svg?_a=AVADKIB0)
+        
+        ![Image 2329: Nexla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nexla_sp1vfh.png?_a=AVADKIB0)
+        
+        ![Image 2330: 5X](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/5x_ir3i5e.png?_a=AVADKIB0)
+        
+        ![Image 2331: Adverity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Adverity_pabyhr.png?_a=AVADKIB0)
+        
+        ![Image 2332: Sequentum](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sequentum_z9is4d.png?_a=AVADKIB0)
+        
+        ![Image 2333: Data Virtuality](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Data_Virtuality_erjirz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2334: Prequel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Prequel_gyhibc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2335: DoubleCloud](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DoubleCloud_q3ha1n.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2336: Selfr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Selfr_pocuoo.png?_a=AVADKIB0)
+        
+    *   [MGMT/Monitoring](https://mad.firstmark.com/card#recfwnGgxh21FFXVH)
+        
+        ![Image 2337: Datadog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datadog_ijtzoq.svg?_a=AVADKIB0)
+        
+        ![Image 2338: Amazon Cloudwatch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Aurora_pcuo9v.png?_a=AVADKIB0)
+        
+        ![Image 2339: New Relic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/New_Relic_aotymu.svg?_a=AVADKIB0)
+        
+        ![Image 2340: Cisco AppDynamics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AppDynamics_l3lpvz.png?_a=AVADKIB0)
+        
+        ![Image 2341: Splunk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/splunk_qunpbw.png?_a=AVADKIB0)
+        
+        ![Image 2342: Dynatrace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dynatrace_ougxqj.svg?_a=AVADKIB0)
+        
+        ![Image 2343: Cribl](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/crible_zvjcsx.png?_a=AVADKIB0)
+        
+        ![Image 2344: Solarwinds](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/solarwinds_eopk6x.svg?_a=AVADKIB0)
+        
+        ![Image 2345: Chronosphere](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Chronosphere_wzw16d.png?_a=AVADKIB0)
+        
+        ![Image 2346: Rubrik](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/rubrik-logo_hicybq.svg?_a=AVADKIB0)
+        
+        ![Image 2347: VMWare Aria](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/VMware_Aria_g78yox.png?_a=AVADKIB0)
+        
+        ![Image 2348: GrafanaLabs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Grafana_wfj0r6.png?_a=AVADKIB0)
+        
+        ![Image 2349: Wavefront](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Wavefront_tkzktp.png?_a=AVADKIB0)
+        
+        ![Image 2350: Moogsoft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/moogsoft_wnubsa.png?_a=AVADKIB0)
+        
+        ![Image 2351: DataSet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DataSet_ji1cjx.png?_a=AVADKIB0)
+        
+        ![Image 2352: ScienceLogic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ScienceLogic_gnhebq.png?_a=AVADKIB0)
+        
+        ![Image 2353: Veeam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/veeam_p2qudf.png?_a=AVADKIB0)
+        
+        ![Image 2354: PagerDuty](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pagerduty_er8lzu.png?_a=AVADKIB0)
+        
+        ![Image 2355: honeycomb.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/honeycomb_wvnjr9.png?_a=AVADKIB0)
+        
+        ![Image 2356: Cast AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cast_AI_ytedjf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2357: Embrace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Embrace_qccyvv.png?_a=AVADKIB0)
+        
+    *   [Privacy & Security](https://mad.firstmark.com/card#recgWbMKo6jECiOPT)
+        
+        ![Image 2358: Very Good Security](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/very_good_security_qyykej.png?_a=AVADKIB0)
+        
+        ![Image 2359: Privacera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/privacera_alzc7d.png?_a=AVADKIB0)
+        
+        ![Image 2360: Cyral](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cyral_fq5uev.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2361: Cyera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cyera_p8tckb.png?_a=AVADKIB0)
+        
+        ![Image 2362: Cape Privacy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cape_privacy_buctxn.png?_a=AVADKIB0)
+        
+        ![Image 2363: Transcend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/transcend_xh4kt4.svg?_a=AVADKIB0)
+        
+        ![Image 2364: SkyFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/skyflow_khkskq.png?_a=AVADKIB0)
+        
+        ![Image 2365: In Country](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/incountry_d30vnu.png?_a=AVADKIB0)
+        
+        ![Image 2366: Duality Technologies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Duality_jqxnme.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2367: OpenRaven](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenRaven_k0wr1p.png?_a=AVADKIB0)
+        
+        ![Image 2368: Privacy Dynamics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Privacy_Dynamics_cc93mw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2369: Dasera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dasera_cr6w2x.svg?_a=AVADKIB0)
+        
+        ![Image 2370: Ketch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ketch_n57gew.svg?_a=AVADKIB0)
+        
+        ![Image 2371: OneTrust](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/OneTrust_d4x6zv.svg?_a=AVADKIB0)
+        
+        ![Image 2372: PrivateAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Private_AI_cu2cmu.png?_a=AVADKIB0)
+        
+        ![Image 2373: Privitar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Privitar_hhxdki.png?_a=AVADKIB0)
+        
+        ![Image 2374: Opaque Systems](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/opaque_gvzzqs.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2375: Datagrail](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Datagrail_wjhjfk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2376: Piiano](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Piiano_oxl80z.png?_a=AVADKIB0)
+        
+        ![Image 2377: Enveil](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Enveil_b39ic3.png?_a=AVADKIB0)
+        
+        ![Image 2378: TripleBlind](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/TripleBlind_gasnkc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2379: Exate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Exate_q75rrt.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2380: Relyance](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Relyance_ikuqqc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2381: Symmetry Systems](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Symmetry_Systems_gmqmdm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2382: Alcion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Alcion_gnm6ut.png?_a=AVADKIB0)
+        
+    *   [Compute](https://mad.firstmark.com/card#recFneyBPhQVC3Kmx)
+        
+        ![Image 2383: Amazon ECS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_ECS_clr1fm.png?_a=AVADKIB0)
+        
+        ![Image 2384: Amazon EKS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_EKS_tedflu.png?_a=AVADKIB0)
+        
+        ![Image 2385: Microsoft Azure CycleCloud](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_CycleCloud_gabch6.png?_a=AVADKIB0)
+        
+        ![Image 2386: D2IQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/D2IQ_logo_xzp6tn.png?_a=AVADKIB0)
+        
+        ![Image 2387: AWS Lambda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Lambda_f7amja.png?_a=AVADKIB0)
+        
+        ![Image 2388: Penguin Solutions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Penguin_Solutions_vco1oi.png?_a=AVADKIB0)
+        
+        ![Image 2389: Nvidia Bright Cluster](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nvidia_Bright_Cluster_ly8efu.png?_a=AVADKIB0)
+        
+        ![Image 2390: HPE](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/HPE_a3e68i.svg?_a=AVADKIB0)
+        
+        ![Image 2391: Microsoft Azure](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_zb3xfe.svg?_a=AVADKIB0)
+        
+        ![Image 2392: Nuclio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nuclio_m7lhja.png?_a=AVADKIB0)
+        
+        ![Image 2393: Digital Ocean](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DigitalOcean_logo_1_v3ubc0.png?_a=AVADKIB0)
+        
+        ![Image 2394: Google Cloud Functions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Cloud_Functions_xel4uv.png?_a=AVADKIB0)
+        
+        ![Image 2395: Equinix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/equinix_xxhoy0.png?_a=AVADKIB0)
+        
+*   [Analytics](https://mad.firstmark.com/card#reccsDBDk22oQXsAs)
+    *   [BI Platforms](https://mad.firstmark.com/card#recCjW5VGRo9kP9rL)
+        
+        ![Image 2396: Looker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Looker_lt0obe.png?_a=AVADKIB0)
+        
+        ![Image 2397: Salesforce Einstein Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Salesforce_Einstein_zjvvkv.png?_a=AVADKIB0)
+        
+        ![Image 2398: Amazon QuickSight](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_QuickSight_emwmzm.png?_a=AVADKIB0)
+        
+        ![Image 2399: Domo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/domo_hlxkfr.png?_a=AVADKIB0)
+        
+        ![Image 2400: ThoughtSpot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/thoughtspot_sn7kif.png?_a=AVADKIB0)
+        
+        ![Image 2401: IBM Cognos Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Cognos_Analytics_rhkbly.png?_a=AVADKIB0)
+        
+        ![Image 2402: SAP Business Intelligence Suite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_Business_Intelligence_Suite_bybqdm.png?_a=AVADKIB0)
+        
+        ![Image 2403: Tibco Spotfire](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Tibco_Spotfire_pvkcrl.png?_a=AVADKIB0)
+        
+        ![Image 2404: Oracle Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Analytics_di2phr.png?_a=AVADKIB0)
+        
+        ![Image 2405: Sas Business Intelligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAS_Business_Intelligence_x5ticn.png?_a=AVADKIB0)
+        
+        ![Image 2406: Sisense](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sisense_ly5nug.png?_a=AVADKIB0)
+        
+        ![Image 2407: Atscale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AtScale_lyq9hn.png?_a=AVADKIB0)
+        
+        ![Image 2408: Qlik](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Qlik_kyrrpw.svg?_a=AVADKIB0)
+        
+        ![Image 2409: GoodData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/GoodData_x9bamn.svg?_a=AVADKIB0)
+        
+        ![Image 2410: InforBirst](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Infor_Birst_n4rwlw.png?_a=AVADKIB0)
+        
+        ![Image 2411: Omni](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Omni_deh9l9.png?_a=AVADKIB0)
+        
+        ![Image 2412: Microstrategy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/microstrategy_ezrt3z.png?_a=AVADKIB0)
+        
+        ![Image 2413: Grow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Grow_sq1n2s.png?_a=AVADKIB0)
+        
+        ![Image 2414: Metabase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Metabase_qzxguj.png?_a=AVADKIB0)
+        
+        ![Image 2415: Kyvos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kyvos_b5vzdr.png?_a=AVADKIB0)
+        
+        ![Image 2416: Popsql](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Popsql_ercjpv.png?_a=AVADKIB0)
+        
+        ![Image 2417: Lightdash](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Lightdash_hjwt9f.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2418: Whiz.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Whiz_ai_dgujy0.png?_a=AVADKIB0)
+        
+        ![Image 2419: Zing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Zing_pz1oob.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2420: Veezoo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Veezoo_c90v2s.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2421: Klipfolio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/klipfolio-logo_ewqvtf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2422: Fluent](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fluent_tmhkuo.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2423: SimplyPut](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SimplyPut_zd4esx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2424: Whaly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/whaly_nf1gzl.png?_a=AVADKIB0)
+        
+    *   [Visualization](https://mad.firstmark.com/card#reciSNRPJDs6AHPbU)
+        
+        ![Image 2425: Tableau](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Tableau-Logo_zfanho.png?_a=AVADKIB0)
+        
+        ![Image 2426: Microsoft Power BI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Microsoft_Power_BI_myd3ep.png?_a=AVADKIB0)
+        
+        ![Image 2427: SAP Lumira](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_Lumira_kp2hwj.png?_a=AVADKIB0)
+        
+        ![Image 2428: Google Data Studio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Data_Studio_soztj8.png?_a=AVADKIB0)
+        
+        ![Image 2429: Astrato](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Astrato_akjvfr.png?_a=AVADKIB0)
+        
+        ![Image 2430: Plotly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Plotly_uazetm.png?_a=AVADKIB0)
+        
+        ![Image 2431: Zoho Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Zoho_xugy7a.png?_a=AVADKIB0)
+        
+        ![Image 2432: Toucan Toco](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Toucan_Toco_logo_asgz9h.png?_a=AVADKIB0)
+        
+        ![Image 2433: Observable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/observable_lndygj.png?_a=AVADKIB0)
+        
+        ![Image 2434: FusionCharts by Yellowfin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/FusionCharts_zydbfw.png?_a=AVADKIB0)
+        
+        ![Image 2435: Preset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Preset_mb36ts.png?_a=AVADKIB0)
+        
+        ![Image 2436: Datawrapper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datawrapper_fgtu5t.svg?_a=AVADKIB0)
+        
+        ![Image 2437: Infogram](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Infogram_tbsqg2.png?_a=AVADKIB0)
+        
+        ![Image 2438: Grid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/grid_r5ixkj.png?_a=AVADKIB0)
+        
+        ![Image 2439: Streamlit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Streamlit_enqdck.png?_a=AVADKIB0)
+        
+        ![Image 2440: Rill](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rill_Data_cqmosr.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2441: Supermetrics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Supermetrics_dacngc.png?_a=AVADKIB0)
+        
+        ![Image 2442: Luzmo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Luzmo_pybg6x.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2443: Graphext](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Graphext_gzfyw8.png?_a=AVADKIB0)
+        
+    *   [Data Analyst Platforms](https://mad.firstmark.com/card#rec6qXIqOiTs0hcUD)
+        
+        ![Image 2444: Mode](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mode_pxrbo1.png?_a=AVADKIB0)
+        
+        ![Image 2445: Microsoft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/microsoft_tct4xz.png?_a=AVADKIB0)
+        
+        ![Image 2446: Alteryx](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alteryx_wpnsip.png?_a=AVADKIB0)
+        
+        ![Image 2447: Pyramid Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Pyramid_Analytics_vpsg5h.png?_a=AVADKIB0)
+        
+        ![Image 2448: Sisu Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sisu_Data_chatsi.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2449: Sigma Computing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sigma_computing_ilel6d.png?_a=AVADKIB0)
+        
+        ![Image 2450: Incorta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Incorta_ekcfxz.png?_a=AVADKIB0)
+        
+        ![Image 2451: Ascend.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ascend_o8nimi.png?_a=AVADKIB0)
+        
+        ![Image 2452: Airtable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Airtable_uvohts.svg?_a=AVADKIB0)
+        
+        ![Image 2453: Datameer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datameer_uptdgc.svg?_a=AVADKIB0)
+        
+        ![Image 2454: Preql](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/preql_tqiznk.png?_a=AVADKIB0)
+        
+        ![Image 2455: Cube](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cube_si7mjt.png?_a=AVADKIB0)
+        
+        ![Image 2456: Guavus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Guavus_d5enyd.png?_a=AVADKIB0)
+        
+        ![Image 2457: Anodot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anodot_iefwia.svg?_a=AVADKIB0)
+        
+        ![Image 2458: Seek AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Seek_u3rt7l.png?_a=AVADKIB0)
+        
+        ![Image 2459: Trace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Trace_jbkx97.png?_a=AVADKIB0)
+        
+        ![Image 2460: Pecan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Pecan_vlxeeg.svg?_a=AVADKIB0)
+        
+        ![Image 2461: Equals](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Equals_jnvhju.png?_a=AVADKIB0)
+        
+        ![Image 2462: Hashboard](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/hashboard_ttb8sd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2463: Rows](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Rows_bjggyg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2464: Smartsuite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Smartsuite_hvpmly.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2465: Noogata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Noogata_jpw6k4.png?_a=AVADKIB0)
+        
+        ![Image 2466: iGenius](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/iGenius_zkycoh.png?_a=AVADKIB0)
+        
+        ![Image 2467: Lido](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Lido_bemby5.png?_a=AVADKIB0)
+        
+        ![Image 2468: Canvas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Canvas_d0qx9h.png?_a=AVADKIB0)
+        
+        ![Image 2469: Workstream](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Workstream_cupxes.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2470: Clarisights](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/clarisights_g3who9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2471: Acho](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/acho_jy4j6b.png?_a=AVADKIB0)
+        
+        ![Image 2472: Deephaven](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deephaven_v82f3o.png?_a=AVADKIB0)
+        
+        ![Image 2473: Weld](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Weld_h7va2r.png?_a=AVADKIB0)
+        
+        ![Image 2474: Tellius](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Tellius_qbtaiu.png?_a=AVADKIB0)
+        
+        ![Image 2475: Narrator](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/narrator_hvub2g.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2476: Coginiti](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cogniti_zzxqrm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2477: Graphext](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Graphext_gzfyw8.png?_a=AVADKIB0)
+        
+    *   [Customer Data Platforms](https://mad.firstmark.com/card#rec3wy9e8Q1sYc0Xk)
+        
+        ![Image 2478: Tealium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tealium_nfkr0a.png?_a=AVADKIB0)
+        
+        ![Image 2479: ActionIQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ActionIQ_k8b1a5.png?_a=AVADKIB0)
+        
+        ![Image 2480: Twilio Segment](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Twilio_Segment_pxxuvw.png?_a=AVADKIB0)
+        
+        ![Image 2481: Simon Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/simon_vyqn6g.png?_a=AVADKIB0)
+        
+        ![Image 2482: mparticle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mparticle_pgwmq2.png?_a=AVADKIB0)
+        
+        ![Image 2483: Amperity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amperity_vw9yyd.png?_a=AVADKIB0)
+        
+        ![Image 2484: Lytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/lytics_ehrsfc.png?_a=AVADKIB0)
+        
+        ![Image 2485: Treasure Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/treasure_data_ggff2w.svg?_a=AVADKIB0)
+        
+        ![Image 2486: Growthloop](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/GrowthLoop_Logo_zfciv3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2487: Zeotap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/zeotap-logo_kxozof.png?_a=AVADKIB0)
+        
+        ![Image 2488: Insider](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Insider_acziqi.svg?_a=AVADKIB0)
+        
+        ![Image 2489: Blueshift](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Blueshift_hmvlle.png?_a=AVADKIB0)
+        
+        ![Image 2490: Adobe Experience Platform](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adobe_Experience_Platform_sowfdu.png?_a=AVADKIB0)
+        
+        ![Image 2491: Salesforce CDP](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Salesforce_CDP_hvq1zm.png?_a=AVADKIB0)
+        
+        ![Image 2492: Rudderstack](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rudderstack_amyfgn.svg?_a=AVADKIB0)
+        
+        ![Image 2493: Optimove](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Optimove_qhqni8.png?_a=AVADKIB0)
+        
+        ![Image 2494: Blueconic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Blueconic_rzj5k1.png?_a=AVADKIB0)
+        
+        ![Image 2495: Syncari](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Syncari_xjhcac.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2496: Funnel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Funnel-logo_udgkzm.png?_a=AVADKIB0)
+        
+    *   [Product Analytics](https://mad.firstmark.com/card#recICBH0DQF0TDQdr)
+        
+        ![Image 2497: Google Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Analytics_rlkjsh.svg?_a=AVADKIB0)
+        
+        ![Image 2498: Amplitude](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amplitude_wugk6c.svg?_a=AVADKIB0)
+        
+        ![Image 2499: Mixpanel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mixpanel_uuvb7g.svg?_a=AVADKIB0)
+        
+        ![Image 2500: Pendo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pendo_xjumu0.png?_a=AVADKIB0)
+        
+        ![Image 2501: Contentsquare](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Contentsquare_pw9ggv.png?_a=AVADKIB0)
+        
+        ![Image 2502: Heap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Heap_mhvxm9.svg?_a=AVADKIB0)
+        
+        ![Image 2503: Data.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Data_ai_fv3bxc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2504: Posthog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/posthog_evp6ow.png?_a=AVADKIB0)
+        
+        ![Image 2505: Glassbox](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Glassbox_i89b6f.png?_a=AVADKIB0)
+        
+        ![Image 2506: Fullstory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fullstory_ko8rt9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2507: Sprig](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sprig_jg2nzx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2508: Kubit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kubit_ncuynn.png?_a=AVADKIB0)
+        
+        ![Image 2509: Whatfix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Whatfix_cugilz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2510: Avo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Avo_jzdzpy.png?_a=AVADKIB0)
+        
+    *   [Log Analytics](https://mad.firstmark.com/card#recEVjS1t0c71AKn9)
+        
+        ![Image 2511: Splunk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/splunk_qunpbw.png?_a=AVADKIB0)
+        
+        ![Image 2512: Azure Monitor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Monitor_tgqetf.png?_a=AVADKIB0)
+        
+        ![Image 2513: Google Cloud Logging](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Cloud_Logging_yygxdj.png?_a=AVADKIB0)
+        
+        ![Image 2514: Sumologic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sumo_Logic_i2eocb.png?_a=AVADKIB0)
+        
+        ![Image 2515: Datadog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datadog_ijtzoq.svg?_a=AVADKIB0)
+        
+        ![Image 2516: Solarwinds loggly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/solarwind_loggly_kk18yc.png?_a=AVADKIB0)
+        
+        ![Image 2517: Cisco AppDynamics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AppDynamics_l3lpvz.png?_a=AVADKIB0)
+        
+        ![Image 2518: LogicMonitor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/LogicMonitor_wjkt4q.png?_a=AVADKIB0)
+        
+        ![Image 2519: Elastic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kibana_t2yhhp.svg?_a=AVADKIB0)
+        
+        ![Image 2520: Logz.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Logz.io_ymggwa.svg?_a=AVADKIB0)
+        
+        ![Image 2521: Mezmo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mezmo_fjqttf.png?_a=AVADKIB0)
+        
+        ![Image 2522: Coralogix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Coralogix_xel6gf.png?_a=AVADKIB0)
+        
+        ![Image 2523: LogRythm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/LogRhythm_gruwye.png?_a=AVADKIB0)
+        
+        ![Image 2524: Observe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/observe_hh7p1e.png?_a=AVADKIB0)
+        
+        ![Image 2525: Exabeam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Exabeam_n20uqz.svg?_a=AVADKIB0)
+        
+        ![Image 2526: Sematext](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/sematext_lhghid.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2527: Graylog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/graylog-logo_nqell0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2528: Better Stack](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/BetterStack_snmy16.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2529: Logmind](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/logmind_nvq3t5.png?_a=AVADKIB0)
+        
+    *   [Enterprise Search / Knowledge Analytics](https://mad.firstmark.com/card#recLIBdKjYFsPIMki)
+        
+        ![Image 2530: Elastic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Elastic_rdsmvs.svg?_a=AVADKIB0)
+        
+        ![Image 2531: Glean](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Glean_ggmcl8.png?_a=AVADKIB0)
+        
+        ![Image 2532: Amazon Kendra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Kendra_bijuj7.png?_a=AVADKIB0)
+        
+        ![Image 2533: Oracle Endeca](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Endeca_ny2ofp.png?_a=AVADKIB0)
+        
+        ![Image 2534: Amazon CloudSearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Aurora_pcuo9v.png?_a=AVADKIB0)
+        
+        ![Image 2535: AWS OpenSearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Open_Search_Postcard_1650_1275_px_agj3ee.png?_a=AVADKIB0)
+        
+        ![Image 2536: Microsoft Azure Cognitive Search](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Cognitive_Search_mzfkfv.png?_a=AVADKIB0)
+        
+        ![Image 2537: Algolia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Algolia_p09zi0.svg?_a=AVADKIB0)
+        
+        ![Image 2538: Coveo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Coveo_xmi31e.png?_a=AVADKIB0)
+        
+        ![Image 2539: Guru](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/guru-logo_xllx2h.png?_a=AVADKIB0)
+        
+        ![Image 2540: Sinequa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sinequa_rtiamw.png?_a=AVADKIB0)
+        
+        ![Image 2541: Lucidworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Lucidworks_sq6dmb.png?_a=AVADKIB0)
+        
+        ![Image 2542: Onna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Onna_alnybw.png?_a=AVADKIB0)
+        
+        ![Image 2543: Alphasense](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AlphaSense_bxgwac.png?_a=AVADKIB0)
+        
+        ![Image 2544: Moveworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/moveworks_cx0gvy.png?_a=AVADKIB0)
+        
+        ![Image 2545: Vectara](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Vectara_e1lonu.png?_a=AVADKIB0)
+        
+        ![Image 2546: Quickwit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/quickwit_blovrp.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2547: Hebbia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/hebbia_m24m2m.png?_a=AVADKIB0)
+        
+        ![Image 2548: Bloomfire](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Bloomfire_Logo_pbtggx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2549: Dashworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dashworks_hgzwih.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2550: Stravito](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Stravito_Logo_m4zone.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2551: Nuclia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Nuclia_reafbm.png?_a=AVADKIB0)
+        
+*   [Machine Learning & Artificial Intelligence](https://mad.firstmark.com/card#recrAqXmw72gb32V5)
+    *   [Data Science Notebooks](https://mad.firstmark.com/card#recHsXFoGFxPoimF0)
+        
+        ![Image 2552: Jupyter](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Jupyter_pb8jzb.png?_a=AVADKIB0)
+        
+        ![Image 2553: Hex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hex_vdvvly.png?_a=AVADKIB0)
+        
+        ![Image 2554: Google Colab](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_CoLab_bhmokd.svg?_a=AVADKIB0)
+        
+        ![Image 2555: SaturnCloud](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/saturncloud_ctsc1t.svg?_a=AVADKIB0)
+        
+        ![Image 2556: Google Cloud Vertex AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Google_Cloud_VertexAI_lmkai2.png?_a=AVADKIB0)
+        
+        ![Image 2557: Amazon SageMaker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_SageMaker_ckc8ck.png?_a=AVADKIB0)
+        
+        ![Image 2558: Azure Notebooks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Notebooks_qhhhvk.png?_a=AVADKIB0)
+        
+        ![Image 2559: Binder](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/binder_njrbgv.png?_a=AVADKIB0)
+        
+        ![Image 2560: Deepnote](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deepnote_od1fjb.png?_a=AVADKIB0)
+        
+        ![Image 2561: noteable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Noteable_brlzdh.png?_a=AVADKIB0)
+        
+        ![Image 2562: Count](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Count_mllzo9.png?_a=AVADKIB0)
+        
+        ![Image 2563: Cocalc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cocalc_uo7aes.png?_a=AVADKIB0)
+        
+        ![Image 2564: Curvenote](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Curvenote_unbtwi.png?_a=AVADKIB0)
+        
+        ![Image 2565: NextJournal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/NextJournal_ufm4n1.png?_a=AVADKIB0)
+        
+    *   [Data Science Platforms](https://mad.firstmark.com/card#recp3LFqnRUZ4ujNe)
+        
+        ![Image 2566: IBM Watson Studio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Watson_Studio_vp8tgw.png?_a=AVADKIB0)
+        
+        ![Image 2567: Oracle Data Science Ser](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Data_Science_gcooxr.png?_a=AVADKIB0)
+        
+        ![Image 2568: RapidMiner](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/RapidMiner_-_New_clmo6c.png?_a=AVADKIB0)
+        
+        ![Image 2569: Sas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Sas_thceyf.svg?_a=AVADKIB0)
+        
+        ![Image 2570: Tibco](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tibco_ty9olk.png?_a=AVADKIB0)
+        
+        ![Image 2571: anaconda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anaconda_q6fw6l.png?_a=AVADKIB0)
+        
+        ![Image 2572: Altair](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Altair_c9ygqx.png?_a=AVADKIB0)
+        
+        ![Image 2573: Knime](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/knime_logo_ybljkr.png?_a=AVADKIB0)
+        
+        ![Image 2574: Mathworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mathworks_laeeiv.png?_a=AVADKIB0)
+        
+    *   [Enterprise ML Platforms](https://mad.firstmark.com/card#recziYOpwCoCNsfIQ)
+        
+        ![Image 2575: Databricks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databricks_y7ofwh.png?_a=AVADKIB0)
+        
+        ![Image 2576: Amazon SageMaker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_SageMaker_ckc8ck.png?_a=AVADKIB0)
+        
+        ![Image 2577: Dataiku](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dataiku_louwwt.png?_a=AVADKIB0)
+        
+        ![Image 2578: Azure Machine Learning](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Machine_Learning_x54hrn.png?_a=AVADKIB0)
+        
+        ![Image 2579: Google Cloud Vertex AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_VertexAI_ewau3b.png?_a=AVADKIB0)
+        
+        ![Image 2580: Palantir Technologies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Palantir_ol41mp.svg?_a=AVADKIB0)
+        
+        ![Image 2581: Scale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/scale_oxewex.png?_a=AVADKIB0)
+        
+        ![Image 2582: Domino](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/domino_ivfxjy.png?_a=AVADKIB0)
+        
+        ![Image 2583: H2O.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/H2oai_hiiklu.png?_a=AVADKIB0)
+        
+        ![Image 2584: DataRobot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/datarobot_zo5kxz.png?_a=AVADKIB0)
+        
+        ![Image 2585: Abacus.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Abacus_ai_ncef2i.png?_a=AVADKIB0)
+        
+        ![Image 2586: Snorkel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Snorkel_yv93xz.png?_a=AVADKIB0)
+        
+        ![Image 2587: Continual](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Continual_hzzwch.png?_a=AVADKIB0)
+        
+        ![Image 2588: Modular](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/modular_mksr8w.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2589: Dataloop](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dataloop_hzblu8.png?_a=AVADKIB0)
+        
+        ![Image 2590: Aible](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aible_x4z66r.png?_a=AVADKIB0)
+        
+        ![Image 2591: Obviously.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/obviouslyAI_de8q1h.png?_a=AVADKIB0)
+        
+        ![Image 2592: CausaLens](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CausaLense_iollxf.png?_a=AVADKIB0)
+        
+        ![Image 2593: DotData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/dotdata_j9b87p.png?_a=AVADKIB0)
+        
+        ![Image 2594: Graft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Graft_f7ovq8.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2595: CentML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/CentML_ay44uy.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2596: Qwak](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Quak_dtnsvo.png?_a=AVADKIB0)
+        
+    *   [Data Generation & Labelling](https://mad.firstmark.com/card#recvzDfigWzr87eXQ)
+        
+        ![Image 2597: Scale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/scale_oxewex.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2598: Labelbox](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Labelbox_Logo_ys02qv.png?_a=AVADKIB0)
+        
+        ![Image 2599: Hive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hive_le30rk.png?_a=AVADKIB0)
+        
+        ![Image 2600: Upwork](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/upwork_k8tnf7.svg?_a=AVADKIB0)
+        
+        ![Image 2601: Amazon MechanicalTurk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amazon_Mechanical_Turk_dhzh8u.png?_a=AVADKIB0)
+        
+        ![Image 2602: Appen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Appen_bpznol.png?_a=AVADKIB0)
+        
+        ![Image 2603: Unity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Unity_v6hyqd.svg?_a=AVADKIB0)
+        
+        ![Image 2604: Sama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/sama_knxa6n.png?_a=AVADKIB0)
+        
+        ![Image 2605: CloudFactory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cloudfactory_lvdth2.png?_a=AVADKIB0)
+        
+        ![Image 2606: super.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/superAI_gjpgik.png?_a=AVADKIB0)
+        
+        ![Image 2607: Superb AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/superbAI_vlgjzk.png?_a=AVADKIB0)
+        
+        ![Image 2608: SuperAnnotate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/superannotate_harjoz.svg?_a=AVADKIB0)
+        
+        ![Image 2609: Kili](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kili_ghth2a.png?_a=AVADKIB0)
+        
+        ![Image 2610: V7](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/v7_l89wrn.svg?_a=AVADKIB0)
+        
+        ![Image 2611: Datagen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/datagen_y9lhm5.svg?_a=AVADKIB0)
+        
+        ![Image 2612: Alegion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alegion_jimae8.png?_a=AVADKIB0)
+        
+        ![Image 2613: MostlyAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MostlyAI_obfuqa.png?_a=AVADKIB0)
+        
+        ![Image 2614: Tonic AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Tonic_cet7et.png?_a=AVADKIB0)
+        
+        ![Image 2615: Gretel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Gretel_gtmp9a.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2616: HumanSignal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/humansignal_b9bllq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2617: Hazy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hazy_ylhlhn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2618: Refuel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Refuel_ibnzum.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2619: Voxel51](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Voxel51_i63sm8.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2620: Datasaur](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Datasaur_AI_up7tsf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2621: Defined.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Definied_ai_sn3ev9.png?_a=AVADKIB0)
+        
+    *   [MLOps](https://mad.firstmark.com/card#rec36ZjpPrEFbh2Vr)
+        
+        ![Image 2622: Weights & Biases](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Weights_Biases_dvdhan.png?_a=AVADKIB0)
+        
+        ![Image 2623: Azure Machine Learning](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Machine_Learning_x54hrn.png?_a=AVADKIB0)
+        
+        ![Image 2624: Google Cloud Vertex AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_VertexAI_ewau3b.png?_a=AVADKIB0)
+        
+        ![Image 2625: Amazon SageMaker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_SageMaker_ckc8ck.png?_a=AVADKIB0)
+        
+        ![Image 2626: Tecton](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tecton_y3xegs.svg?_a=AVADKIB0)
+        
+        ![Image 2627: Comet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/comet_rzjphz.png?_a=AVADKIB0)
+        
+        ![Image 2628: Hopsworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/hopsworks_kvbiyx.png?_a=AVADKIB0)
+        
+        ![Image 2629: Deci](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deci_xul7ce.png?_a=AVADKIB0)
+        
+        ![Image 2630: Verta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Verta_dajhm8.png?_a=AVADKIB0)
+        
+        ![Image 2631: Iterative](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Iterative_hmq5ik.png?_a=AVADKIB0)
+        
+        ![Image 2632: Valohai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Valohai_kwyu2o.png?_a=AVADKIB0)
+        
+        ![Image 2633: Galileo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Galileo_bm6kol.png?_a=AVADKIB0)
+        
+        ![Image 2634: Datatron](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datatron_ly9jbk.png?_a=AVADKIB0)
+        
+        ![Image 2635: Feast](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Feast_fbzday.png?_a=AVADKIB0)
+        
+        ![Image 2636: Modzy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Modzy_e4axww.svg?_a=AVADKIB0)
+        
+        ![Image 2637: Seldon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/seldon_axr7rv.png?_a=AVADKIB0)
+        
+        ![Image 2638: Fal.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/fal.ai_kaj5tw.png?_a=AVADKIB0)
+        
+        ![Image 2639: MindsDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mindsdb_jk9exx.svg?_a=AVADKIB0)
+        
+        ![Image 2640: ZenML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ZenML_gelgtu.png?_a=AVADKIB0)
+        
+        ![Image 2641: AI Squared](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AISquared_cjhp7r.png?_a=AVADKIB0)
+        
+        ![Image 2642: Modelbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Modelbit_o99pfh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2643: Xethub](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/xet_hub_wt_adpfkr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2644: Featurebyte](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/FeatureByte_Logo_cdjqsz.png?_a=AVADKIB0)
+        
+    *   [AI Observability](https://mad.firstmark.com/card#reckqeFOquPH2Q8Sg)
+        
+        ![Image 2645: Fiddler AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/fiddler_c1egyr.png?_a=AVADKIB0)
+        
+        ![Image 2646: Arthur](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Arthur_cuueea.png?_a=AVADKIB0)
+        
+        ![Image 2647: Evidently AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/evidently_AI_pptrod.png?_a=AVADKIB0)
+        
+        ![Image 2648: Truera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/truera_sjcwf2.svg?_a=AVADKIB0)
+        
+        ![Image 2649: Arize AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/arize_p4hugm.png?_a=AVADKIB0)
+        
+        ![Image 2650: Gantry](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/gantry.ai_p4dtbf.png?_a=AVADKIB0)
+        
+        ![Image 2651: Aporia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/aporia_nujdpi.svg?_a=AVADKIB0)
+        
+        ![Image 2652: WhyLabs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/whylabs_bujaid.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2653: HowSo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Howso_dohu45.png?_a=AVADKIB0)
+        
+        ![Image 2654: Neptune.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Neptune_azohhs.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2655: LatticeFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LatticeFlow_yxf0vo.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2656: Patronus AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Patronus_AI_ax9yl6.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2657: Distributional](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Distributional_MainLogo_c0zhvx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2658: Cranium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cranium-logo-600x292_k4o0n7.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2659: Braintrust Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Braintrust_julwer.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2660: Klu](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/klu_ofrste.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2661: HoneyHive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/HoneyHive_pzflee.png?_a=AVADKIB0)
+        
+        ![Image 2662: NannyML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/NannyML_epadw1.png?_a=AVADKIB0)
+        
+        ![Image 2663: Chainlit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Chainlit_npen0r.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2664: Mithril Security](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Mithril_Security_jhva7k.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2665: Aimon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/aimon_ai_logo_s1vcxw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2666: Usage Panda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Usage_Panda_irmixx.png?_a=AVADKIB0)
+        
+    *   [AI Developer Platforms](https://mad.firstmark.com/card#rec5pDG2QrC8vDseV)
+        
+        New
+        
+        ![Image 2667: Lightning AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LightningAI_dwcwr1.png?_a=AVADKIB0)
+        
+        ![Image 2668: Langchain](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/LangChain_dviwl3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2669: Fixie](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fixie-logo-2023_sobwlo.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2670: LlamaIndex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LlamaIndex_jc8s5i.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2671: Lamini](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lamini_logo_n2vmmn.png?_a=AVADKIB0)
+        
+        ![Image 2672: BentoML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bento_ML_ytubft.png?_a=AVADKIB0)
+        
+        ![Image 2673: OctoML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/octoML_esbkxv.svg?_a=AVADKIB0)
+        
+        ![Image 2674: Predibase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Predibase_ejf8eu.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2675: Humanloop](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Humanloop_x2n63r.png?_a=AVADKIB0)
+        
+        ![Image 2676: Neural Magic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/neural_magic_rqm075.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2677: Adaptive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adaptive_fmeoj5.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2678: AirOps](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Airops_iodcz5.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2679: Inngest](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/inngest_o5vwrt.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2680: LastMile AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/lastmile_ai_lojht4.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2681: Martian](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/martian_fvbkxe.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2682: Substrate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Substrate_bze4rb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2683: Arcee AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/arcee_ai_ddbiur.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2684: Voyage AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/voyage-ai_c0bqx0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2685: Fireworks AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/fireworks_ai_vnozyn.png?_a=AVADKIB0)
+        
+    *   [AI Safety & Security](https://mad.firstmark.com/card#recS11eK5hNpZF6E6)
+        
+        New
+        
+        ![Image 2686: Calypso AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Calypso_AI_dchgdi.png?_a=AVADKIB0)
+        
+        ![Image 2687: Robust Intelligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Robust_Intelligence_s4hojd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2688: Reality Defender](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/reality_defender_m89bgb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2689: Guardrails AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Guardrails_AI_cvasff.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2690: Credo AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Credo_ai_wb3xxp.png?_a=AVADKIB0)
+        
+        ![Image 2691: Giskard](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/giskard_j5yrkl.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2692: Credal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Credal_Ai_rgvdry.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2693: HiddenLayer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hidden_Layer_AI_nmdlin.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2694: Apheris](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/apheris_s75r1n.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2695: Trustible](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Trustible_jn6vtm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2696: Aim Security](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/aim_security_kpq6lh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2697: Holistic AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Holistic-AI-logo_yupkdy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2698: Rebuff AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Rebuff_s9aej5.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2699: Insightcircle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Insightcircle_vbrevd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2700: Fairly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fairly_fp5d3z.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2701: p0](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/p0_mybrqh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2702: Prompt Security](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/prompt_security_dnvr8o.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2703: Kindo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kindo_otgcgx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2704: Enzai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Enzai_yfouoq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2705: Preamble](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/preamble_pyl8ao.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2706: Lumenova](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/lumenova_pdaw82.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2707: Saidot.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/saidot-logo-450x145-1_gd1zbq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2708: Quantpi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Quantpi-AI-Logo_xcywsn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2709: Calvinrisk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/calvinrisk_gqptd1.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2710: Anch.AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/anch_AI_Logo_qwapxs.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2711: Konfer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Konfer_mxh4od.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2712: Monitaur](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/monitaur_uzekvl.png?_a=AVADKIB0)
+        
+    *   [Computer Vision](https://mad.firstmark.com/card#recyGaOYjso0Tc4Q1)
+        
+        ![Image 2713: Microsoft Azure](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_zb3xfe.svg?_a=AVADKIB0)
+        
+        ![Image 2714: Google Cloud Vision API](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Vision_AI_xym9uz.png?_a=AVADKIB0)
+        
+        ![Image 2715: Amazon Rekognition](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Rekognition_bndhou.png?_a=AVADKIB0)
+        
+        ![Image 2716: Chooch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Chooch_cot7ss.png?_a=AVADKIB0)
+        
+        ![Image 2717: Clarifai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Clarifai_gwtyll.png?_a=AVADKIB0)
+        
+        ![Image 2718: CoreML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/core_ml_f8s1zx.png?_a=AVADKIB0)
+        
+        ![Image 2719: Clearview.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Clearview_AI_y0qzen.png?_a=AVADKIB0)
+        
+        ![Image 2720: Prophesee](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/prophesee_a0lakf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2721: Encord](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/encord_c9vwho.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2722: Rerun](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Rerun_io_bch2z0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2723: Synativ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1707332371/MAD%202024/Synativ_xisztf.png?_a=AVADKIB0)
+        
+    *   [Speech](https://mad.firstmark.com/card#recmY34HFP508I8ly)
+        
+        ![Image 2724: Siri](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Siri_gixthb.png?_a=AVADKIB0)
+        
+        ![Image 2725: Amazon Alexa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amazon_Alexa_leuoqn.png?_a=AVADKIB0)
+        
+        ![Image 2726: Amazon Polly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Polly_xiv0yp.png?_a=AVADKIB0)
+        
+        ![Image 2727: Amazon Transcribe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Transcribe_rrknno.png?_a=AVADKIB0)
+        
+        ![Image 2728: Microsoft Cortana](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Microsoft_Cortana_uqm3kd.png?_a=AVADKIB0)
+        
+        ![Image 2729: Azure Cognitive Services](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Cognitive_Services_jx27ce.png?_a=AVADKIB0)
+        
+        ![Image 2730: Nuance](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nuance_d7wkln.svg?_a=AVADKIB0)
+        
+        ![Image 2731: Eleven Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ElevenLabs_dulw5j.png?_a=AVADKIB0)
+        
+        ![Image 2732: AssemblyAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AssemblyAI_fbmkix.png?_a=AVADKIB0)
+        
+        ![Image 2733: DeepGram](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deepgram_ssunna.png?_a=AVADKIB0)
+        
+        ![Image 2734: SoundHound Inc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/soundhound_pe0dtw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2735: Gladia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Gladia_z3bwgi.png?_a=AVADKIB0)
+        
+        ![Image 2736: Cogito](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cogito_sasjww.svg?_a=AVADKIB0)
+        
+        ![Image 2737: OtterAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Otter_AI_kuekrk.svg?_a=AVADKIB0)
+        
+        ![Image 2738: Poly.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/PolyAI_ejsyoe.png?_a=AVADKIB0)
+        
+        ![Image 2739: Gridspace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Gridspace_yooen4.svg?_a=AVADKIB0)
+        
+        ![Image 2740: Verbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Verbit_n3kbzr.png?_a=AVADKIB0)
+        
+        ![Image 2741: Avoma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Avoma_mdmcyn.png?_a=AVADKIB0)
+        
+        ![Image 2742: Speechmatics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Speechmatics_tva4bo.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2743: Symbl AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Symbl_qofvfj.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2744: Sembly AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sembly-logo_fxbeaw.png?_a=AVADKIB0)
+        
+    *   [NLP](https://mad.firstmark.com/card#recpFclxYLTUQ3khn)
+        
+        ![Image 2745: Google Natural Language AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Natural_Language_AI_ioopsm.png?_a=AVADKIB0)
+        
+        ![Image 2746: Amazon Comprehend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Comprehend_ezik4l.png?_a=AVADKIB0)
+        
+        ![Image 2747: Hugging Face](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/hugging_face_xjhnu2.svg?_a=AVADKIB0)
+        
+        ![Image 2748: Cohere](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/co-here_fiujle.svg?_a=AVADKIB0)
+        
+        ![Image 2749: Primer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Primer-logo-01_bclisu.png?_a=AVADKIB0)
+        
+        ![Image 2750: Rasa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/rasa_yp8i42.png?_a=AVADKIB0)
+        
+        ![Image 2751: Deepset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deepset_ivgdn9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2752: Argilla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Argilla_uq2tfu.png?_a=AVADKIB0)
+        
+        ![Image 2753: Explosion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Explosion_jytux0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2754: Hume AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hume_AI_vlosbm.png?_a=AVADKIB0)
+        
+        ![Image 2755: Amenity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Amenity_o5arqq.png?_a=AVADKIB0)
+        
+        ![Image 2756: Emotibot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Emotibot_qp9nci.png?_a=AVADKIB0)
+        
+        ![Image 2757: Amazon Translate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Translate_z84vpa.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2758: DeepL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DeepL_logo_kfnmix.png?_a=AVADKIB0)
+        
+        ![Image 2759: Unbabel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/unbabel_aupmbq.png?_a=AVADKIB0)
+        
+        ![Image 2760: Lilt](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Lilt_nic0c2.svg?_a=AVADKIB0)
+        
+        ![Image 2761: Smartling](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/smartling_ndhwqz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2762: Language I/O](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Language_IO_Logo_mtmx5v.png?_a=AVADKIB0)
+        
+    *   [Commercial AI Research](https://mad.firstmark.com/card#rec8GbNn5VYqslTeM)
+        
+        ![Image 2763: OpenAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/openAI_ctn546.svg?_a=AVADKIB0)
+        
+        ![Image 2764: Microsoft Research](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/microsoft_research_o6osga.png?_a=AVADKIB0)
+        
+        ![Image 2765: Meta Research](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/meta_research_vntkbw.png?_a=AVADKIB0)
+        
+        ![Image 2766: Google Research](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_research_h5zyav.png?_a=AVADKIB0)
+        
+        ![Image 2767: Google DeepMind](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deepmind_i3sbfk.png?_a=AVADKIB0)
+        
+        ![Image 2768: Anthropic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/anthropic_sher3z.svg?_a=AVADKIB0)
+        
+        ![Image 2769: Adept](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Adept_bemipl.png?_a=AVADKIB0)
+        
+        ![Image 2770: Inflection](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/inflection_idwv1o.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2771: Mistral AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mistral-ai-logo-4539E12887-seeklogo.com_xj8lzj.png?_a=AVADKIB0)
+        
+        ![Image 2772: AI21Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AI21Labs_vy2p9v.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2773: LightOn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LightOn_aqw33a.png?_a=AVADKIB0)
+        
+        ![Image 2774: Aleph Alpha](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aleph_Alpha_wmd8jx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2775: 01.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/01.ai_jjqb7c.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2776: Imbue](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/imbue_v7g8h3.png?_a=AVADKIB0)
+        
+        ![Image 2777: Numenta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/numenta_t1zx8j.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2778: xAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/XAI_Logo.svg_ogi3pd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2779: Contextual AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Contextual_AI_h0g6pf.png?_a=AVADKIB0)
+        
+        ![Image 2780: Conjecture](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Conjecture_fzjel5.png?_a=AVADKIB0)
+        
+        ![Image 2781: 4Paradigm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/4Paradigm_zt6ier.png?_a=AVADKIB0)
+        
+        ![Image 2782: Yitu](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/yitu_ns4fqz.png?_a=AVADKIB0)
+        
+        ![Image 2783: Keen Technologies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Keen_Techologies_f0ymdd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2784: Reka](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Logo-reka-4-2-twitter_card_ousnse.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2785: Krutrim](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Krutrim_o8zbzg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2786: Liquid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Liquid_AI_dyehqu.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2787: Normal Computing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Normal_Computing_vmd0vs.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2788: Extropic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Extropic_ai_htyqcm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2789: Sema4.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sema4_ai_mf9est.png?_a=AVADKIB0)
+        
+    *   [Nonprofit AI Research](https://mad.firstmark.com/card#recu4PpjXhxYK523A)
+        
+        ![Image 2790: Eleuther AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EleutherAI_zepfqi.png?_a=AVADKIB0)
+        
+        ![Image 2791: Allen Institute](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Allen_Institute_bbxqav.png?_a=AVADKIB0)
+        
+        ![Image 2792: AI Foundation](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AI_Foundation_ifq8ws.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2793: Kyutai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kyutai_appd6j.png?_a=AVADKIB0)
+        
+        ![Image 2794: MIRI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Miri_thlcys.png?_a=AVADKIB0)
+        
+        ![Image 2795: Vector Institute](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/vector_institute_lz9oer.png?_a=AVADKIB0)
+        
+        ![Image 2796: MIT Csail](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MIT_Csail_ik9or1.png?_a=AVADKIB0)
+        
+        ![Image 2797: DFKI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DFKI_gm8x6m.png?_a=AVADKIB0)
+        
+        ![Image 2798: OFAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/OFAI_fw9jlf.svg?_a=AVADKIB0)
+        
+        ![Image 2799: MILA](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mila_xqxssz.svg?_a=AVADKIB0)
+        
+    *   [AI Hardware](https://mad.firstmark.com/card#recKSAKte0gj6Vcki)
+        
+        ![Image 2800: Intel AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Intel_AI_kxhtf6.png?_a=AVADKIB0)
+        
+        ![Image 2801: Google TPU](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Cloud_TPU_xhjnvy.png?_a=AVADKIB0)
+        
+        ![Image 2802: Nvidia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nvidia_b0zcs1.png?_a=AVADKIB0)
+        
+        ![Image 2803: AMD](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/AMD_Logo_hjflm4.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2804: Microsoft Maia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Microsoft_Maia_pddrjm.png?_a=AVADKIB0)
+        
+        ![Image 2805: AWS Inferentia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Inferentia_xoivj2.png?_a=AVADKIB0)
+        
+        ![Image 2806: Arm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/arm_gjwlbo.png?_a=AVADKIB0)
+        
+        ![Image 2807: SambaNova](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sambanova_wdjjox.png?_a=AVADKIB0)
+        
+        ![Image 2808: Cerebras](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cerebras_cd5n8i.png?_a=AVADKIB0)
+        
+        ![Image 2809: Graphcore](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/graphcore_dnxl9o.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2810: Lightmatter](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lightmatter_vjb9rx.png?_a=AVADKIB0)
+        
+        ![Image 2811: Intellifusion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/intellifusion_eifhal.png?_a=AVADKIB0)
+        
+        ![Image 2812: Cambricon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cambricon_bfilfo.svg?_a=AVADKIB0)
+        
+        ![Image 2813: Berkshire Grey](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/berkshire_grey_exdu9x.png?_a=AVADKIB0)
+        
+        ![Image 2814: Blaize](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/blaize_q9fog1.png?_a=AVADKIB0)
+        
+        ![Image 2815: Credo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/credo_wgtkml.png?_a=AVADKIB0)
+        
+        ![Image 2816: Hailo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hailo_eq3egd.png?_a=AVADKIB0)
+        
+        ![Image 2817: Mobileye](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mobileye_g4jc13.png?_a=AVADKIB0)
+        
+        ![Image 2818: Horizon Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Horizon_Robotics_hoqffw.png?_a=AVADKIB0)
+        
+        ![Image 2819: Cornami](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cornami_logo_niqebt.png?_a=AVADKIB0)
+        
+        ![Image 2820: Speedata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/speedata_o0m6ze.png?_a=AVADKIB0)
+        
+        ![Image 2821: Tenstorrent](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tenstorrent_l3f0cz.png?_a=AVADKIB0)
+        
+        ![Image 2822: Groq](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/groq_vmqgud.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2823: Celestial AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Celestial_ai_b3ivdg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2824: Illuvatar CoreX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/illuvatar_CoreX_kjwsfh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2825: Etched](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Etched_j7qxkg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2826: Rebellions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/rebellions_gmt3ya.png?_a=AVADKIB0)
+        
+    *   [GPU Cloud / Infra](https://mad.firstmark.com/card#recVrUf3QYnfiw5QQ)
+        
+        ![Image 2827: Databricks MosaicML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MosaicML_iak0dd.png?_a=AVADKIB0)
+        
+        ![Image 2828: NVIDIA](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nvidia_b0zcs1.png?_a=AVADKIB0)
+        
+        ![Image 2829: Lambda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Lambda_cgcavg.png?_a=AVADKIB0)
+        
+        ![Image 2830: CoreWeave](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CoreWeave_koe9om.png?_a=AVADKIB0)
+        
+        ![Image 2831: Anyscale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/anyscale_eq1lru.png?_a=AVADKIB0)
+        
+        ![Image 2832: Modal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/modal_q2wd6c.png?_a=AVADKIB0)
+        
+        ![Image 2833: Baseten](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Baseten_fpsbgb.png?_a=AVADKIB0)
+        
+        ![Image 2834: Replicate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Replicate_zwru2a.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2835: Together](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/together.ai_logo_esytxy.png?_a=AVADKIB0)
+        
+        ![Image 2836: Weka](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Weka_azkool.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2837: Scaleway](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Scaleway_yxss0x.png?_a=AVADKIB0)
+        
+        ![Image 2838: Coiled](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/coiled_nj9uug.png?_a=AVADKIB0)
+        
+        ![Image 2839: Exafunction](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Exafunction_jjikhj.png?_a=AVADKIB0)
+        
+        ![Image 2840: RunAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Run.ai_txw4p9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2841: Banana](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Banana_lclnkk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2842: HippoML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hippoml_ijgojb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2843: Beam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Beam_c1fwr7.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2844: Cerebrium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cerebrium_nugyty.png?_a=AVADKIB0)
+        
+        ![Image 2845: Paperspace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/paperspace_vzaxfk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2846: Gradient AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/gradient_fdahmd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2847: Inference](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/inference_ai_ukb9be.png?_a=AVADKIB0)
+        
+    *   [Edge AI](https://mad.firstmark.com/card#recnIyl89zQM6kUGv)
+        
+        ![Image 2848: Hailo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hailo_eq3egd.png?_a=AVADKIB0)
+        
+        ![Image 2849: NVIDIA](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nvidia_b0zcs1.png?_a=AVADKIB0)
+        
+        ![Image 2850: Syntiant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Syntiant_ltlqyy.png?_a=AVADKIB0)
+        
+        ![Image 2851: Qeexo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/qeexo_uydgyg.png?_a=AVADKIB0)
+        
+        ![Image 2852: Deeplite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deeplite_nolyww.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2853: SiMa.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sima_AI_m6y3k1.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2854: Mythic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mythic_yfxgzx.png?_a=AVADKIB0)
+        
+        ![Image 2855: Edge Impulse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Edge_Impulse_uogw5p.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2856: Axelera AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Axelera_AI_Logo_ahhqba.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2857: Nota AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Nota_AI_cjpzny.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2858: Armada](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ARMADA_zkvlbc.png?_a=AVADKIB0)
+        
+    *   [Closed Source Models](https://mad.firstmark.com/card#recWLdrrNzvW4LExl)
+        
+        New
+        
+        ![Image 2859: OpenAI GPT4](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenAI_GPT-4_sw6stw.png?_a=AVADKIB0)
+        
+        ![Image 2860: OpenAI ChatGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Data_marketplaces_closed_source_model_Openai_ChatGPT_sopmee.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2861: OpenAI GPT3.5](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenAI_GPT-3.5_hwcmwq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2862: Google Gemini](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Google_Deepmind_Gemini_rnyg84.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2863: Anthropic Claude 3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/anthropic_Claude_3_mbspua.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2864: Mistral AI Au Large](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mistral_ai_au_large_wsxy0p.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2865: Google Research PaLM 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Google_Research_PaLM_2_xgodtu.png?_a=AVADKIB0)
+        
+        ![Image 2866: Google Bard](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Bard_zt9cpe.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2867: Anthropic Claude 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Anthropic_Claude_2_ha3j8j.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2868: AI21 Labs Jurassic 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ai21_Jurassic_2_yp4zbu.png?_a=AVADKIB0)
+        
+        ![Image 2869: Midjourney](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/midjourney_wuit1m.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2870: Adobe Firefly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adobe_Firefly_oie9yw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2871: Google DeepMind Imagen 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/google_Deepmind_Imagen_2_smvnyl.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2872: Inflection 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Inflection-2_pramp6.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2873: Cohere Command](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cohere_Command_x47t3p.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2874: Adept ACT 1](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adept_Act-1_hmv8bm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2875: Writer Palmyra X](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/writer_palmyra_x_of4vnw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2876: Inflection Pi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Inflection_Pi_mtdxut.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2877: Grok](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Grok_liqvld.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2878: Poe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Quora_Poe_nst82j.png?_a=AVADKIB0)
+        
+        ![Image 2879: OpenAI GPT3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/OpenAI_GPT3_hvz0fv.png?_a=AVADKIB0)
+        
+        ![Image 2880: Google Research PaLM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_PaLM_dpelli.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2881: Anthropic Claude](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Anthropic_Claude_1_fyenxa.png?_a=AVADKIB0)
+        
+        ![Image 2882: AI21 Labs Jurassic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/A121_Labs_Jurassic_aql2st.png?_a=AVADKIB0)
+        
+        ![Image 2883: Google Research LaMDA](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_LaMDA_n0qkfc.png?_a=AVADKIB0)
+        
+        ![Image 2884: DeepMind Gopher](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeepMind_Gopher_ap4sjf.png?_a=AVADKIB0)
+        
+        ![Image 2885: Deepmind Chinchilla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeepMind_Chinchilla_p0elbv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2886: Anthropic Claude Instant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Anthropic_Claude_Instant_pg8swe.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2887: Inflection](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Inflection_a8pmss.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2888: Writer Palmyra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Writer_Palmyra_feq1li.png?_a=AVADKIB0)
+        
+        ![Image 2889: Google Research Imagen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_Imagen_cz4pvj.png?_a=AVADKIB0)
+        
+        ![Image 2890: BaiduResearch Ernie 3.0](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Baidu_Research_Ernie_tlfr6a.png?_a=AVADKIB0)
+        
+*   [Applications - Enterprise](https://mad.firstmark.com/card#recr2hh5bFoSbrkmJ)
+    *   [Sales](https://mad.firstmark.com/card#recnC7fpun3EyUkIl)
+        
+        ![Image 2891: Salesforce Einstein](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Salesforce_Einstein_zjvvkv.png?_a=AVADKIB0)
+        
+        ![Image 2892: Gong](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Gong_st0dpm.png?_a=AVADKIB0)
+        
+        ![Image 2893: HubSpot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/hubspot_kftiok.png?_a=AVADKIB0)
+        
+        ![Image 2894: Clari](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/clari_pts63t.png?_a=AVADKIB0)
+        
+        ![Image 2895: Apollo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Apollo_io_qar01h.png?_a=AVADKIB0)
+        
+        ![Image 2896: Conversica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Conversica_ayklyf.png?_a=AVADKIB0)
+        
+        ![Image 2897: Aviso](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aviso_icgpit.svg?_a=AVADKIB0)
+        
+        ![Image 2898: People.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/People_bcqf93.svg?_a=AVADKIB0)
+        
+        ![Image 2899: Clearbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/clearbit_thlip1.png?_a=AVADKIB0)
+        
+        ![Image 2900: Regie.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/regieAI_vvadye.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2901: RevComm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/RevComm_dv6oph.png?_a=AVADKIB0)
+        
+        ![Image 2902: Headsup](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Headsup_xhsto7.png?_a=AVADKIB0)
+        
+        ![Image 2903: Lavender](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Lavender_fcswti.png?_a=AVADKIB0)
+        
+        ![Image 2904: Outreach](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/outreach_yysgst.png?_a=AVADKIB0)
+        
+        ![Image 2905: Salesloft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/salesloft_pgthjw.svg?_a=AVADKIB0)
+        
+        ![Image 2906: Databook](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databook_j7gzhl.png?_a=AVADKIB0)
+        
+        ![Image 2907: R2D2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Involve.ai_zwpig1.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2908: MadKudu](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/MadKudu_Logo_ixf1xs.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2909: Clay](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Clay_fnkogd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2910: Attention](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Attention_d9utxs.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2911: Unify](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Unify_gwvsnm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2912: Telescope](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Telescope_u7r7gy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2913: Toplyne](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Toplyne_vlysvq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2914: Closefactor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/CloseFactor_heoymk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2915: Salesform](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Salesform_vm6g54.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2916: Twain](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Twain_t21new.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2917: Collective[i]](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/CollectiveSideLogo_Black_asrk5m.png?_a=AVADKIB0)
+        
+    *   [Marketing](https://mad.firstmark.com/card#recwHQOloywtaco48)
+        
+        ![Image 2918: Klaviyo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Klaviyo_yiamdg.png?_a=AVADKIB0)
+        
+        ![Image 2919: Bluecore](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bluecore_tt4ts4.svg?_a=AVADKIB0)
+        
+        ![Image 2920: 6sense](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/6sense_terl3v.svg?_a=AVADKIB0)
+        
+        ![Image 2921: Attentive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Attentive_xca5g5.png?_a=AVADKIB0)
+        
+        ![Image 2922: Braze](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/braze_uduahn.png?_a=AVADKIB0)
+        
+        ![Image 2923: Appier](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/appier_p6kdhs.png?_a=AVADKIB0)
+        
+        ![Image 2924: Active Campaign](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ActiveCampaign_zkwib3.png?_a=AVADKIB0)
+        
+        ![Image 2925: Bloomreach](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bloomreach_uyveob.svg?_a=AVADKIB0)
+        
+        ![Image 2926: Zeta Global](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zeta_Global_bwxzzo.png?_a=AVADKIB0)
+        
+        ![Image 2927: Mutiny](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mutiny_v85t6n.png?_a=AVADKIB0)
+        
+        ![Image 2928: Demandbase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/demandbase_nn2a4g.png?_a=AVADKIB0)
+        
+        ![Image 2929: Persado](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/persado_uptm7q.png?_a=AVADKIB0)
+        
+        ![Image 2930: Invoca](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/invoca_wm9rnp.png?_a=AVADKIB0)
+        
+        ![Image 2931: DreamData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DreamData_ierdth.png?_a=AVADKIB0)
+        
+        ![Image 2932: NextRoll](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nextroll_w6ywnp.png?_a=AVADKIB0)
+        
+        ![Image 2933: Jasper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Jasper-Ai_ecqqd8.svg?_a=AVADKIB0)
+        
+        ![Image 2934: Writer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/writer_sstfi8.png?_a=AVADKIB0)
+        
+        ![Image 2935: Copy.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/copy_ai_epryos.png?_a=AVADKIB0)
+        
+        ![Image 2936: Copysmith](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/copysmith_lohicw.png?_a=AVADKIB0)
+        
+        ![Image 2937: Writesonic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/writesonic_wkmdgr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2938: Typeface](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Typeface_Logo_t0ylm6.png?_a=AVADKIB0)
+        
+        ![Image 2939: Phrasee](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/phrasee_qjufwn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2940: Vendelux](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vendelux_bc9xc2.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2941: Customer.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/customer-io-logo-color_qhgvt9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2942: Pepper Content](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/pepper-content-logo_lardmy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2943: Loops](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Loops__qgvfzl.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2944: Demandwell](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Demandwell_xvs6ae.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2945: Lately](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lately_qxczq9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2946: Rytr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Rytr_jnhriv.png?_a=AVADKIB0)
+        
+        ![Image 2947: Lily ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/lily_ai_ob8c1c.png?_a=AVADKIB0)
+        
+        ![Image 2948: Adcreative](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AdCreative_AI_msapvj.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2949: Recast AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ReCast_AI_hybgua.png?_a=AVADKIB0)
+        
+    *   [Customer Experience](https://mad.firstmark.com/card#recLClrNwDcfsgVDl)
+        
+        ![Image 2950: AWS Amazon Lex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Lex_difb1w.png?_a=AVADKIB0)
+        
+        ![Image 2951: Dialogflow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Developer_DialogFlow_w0zdbj.png?_a=AVADKIB0)
+        
+        ![Image 2952: Zendesk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Zendesk_hzxwtt.png?_a=AVADKIB0)
+        
+        ![Image 2953: Liveperson](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/liveperson_xrcs2k.svg?_a=AVADKIB0)
+        
+        ![Image 2954: Intercom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/intercom_ksjxum.svg?_a=AVADKIB0)
+        
+        ![Image 2955: Ada](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ada_ar8qpb.svg?_a=AVADKIB0)
+        
+        ![Image 2956: Asapp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Asapp_i33lg9.png?_a=AVADKIB0)
+        
+        ![Image 2957: Genesys](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Genesys_gut3kr.png?_a=AVADKIB0)
+        
+        ![Image 2958: Drift](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Drift_n81jtz.png?_a=AVADKIB0)
+        
+        ![Image 2959: Uniphore](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Uniphore_pnrskr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2960: Dovetail](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dovetail_icffrs.png?_a=AVADKIB0)
+        
+        ![Image 2961: Watson Assistant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Watson_Assistant_xrcxxv.png?_a=AVADKIB0)
+        
+        ![Image 2962: Dialpad](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/dialpad_ea38ha.png?_a=AVADKIB0)
+        
+        ![Image 2963: Sprinklr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sprinklr_q3iybt.png?_a=AVADKIB0)
+        
+        ![Image 2964: Netomi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/netomi_ltcidd.png?_a=AVADKIB0)
+        
+        ![Image 2965: Slang.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Slang.ai__ir0v1x.png?_a=AVADKIB0)
+        
+        ![Image 2966: CallMiner](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/callminer_yxqxox.png?_a=AVADKIB0)
+        
+        ![Image 2967: Frame.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/frame_AI_zjqacx.png?_a=AVADKIB0)
+        
+        ![Image 2968: Kore.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kore.ai_dzwbzr.png?_a=AVADKIB0)
+        
+        ![Image 2969: Observe.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/observeAI_pr7uls.png?_a=AVADKIB0)
+        
+        ![Image 2970: Afiniti](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Afiniti_jwdafe.svg?_a=AVADKIB0)
+        
+        ![Image 2971: Cresta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cresta_okxwcb.png?_a=AVADKIB0)
+        
+        ![Image 2972: Moveworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/moveworks_cx0gvy.png?_a=AVADKIB0)
+        
+        ![Image 2973: Yellow.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/yellowAI_hxl77e.svg?_a=AVADKIB0)
+        
+        ![Image 2974: Forethought](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Forethought_g72lko.webp?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2975: Sierra AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sierra_etivlx.png?_a=AVADKIB0)
+        
+        ![Image 2976: Poly.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/PolyAI_ejsyoe.png?_a=AVADKIB0)
+        
+        ![Image 2977: Moengage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/moengage_ukyadd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2978: Ultimate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ultimate-logo_zrh9j0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2979: Kasisto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kasisto_llzbxf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2980: Dashbot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dashbot_iowagm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2981: Maven AGI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Maven_AGI_mdpe4a.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2982: Ask-AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ask-ai_c0ryt5.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2983: Certainly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Certainly_ai_vd8z0l.png?_a=AVADKIB0)
+        
+        ![Image 2984: Typewise](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Typewise_ozhxul.png?_a=AVADKIB0)
+        
+    *   [Human Capital](https://mad.firstmark.com/card#recAkWDQAhzpKXnaJ)
+        
+        ![Image 2985: HireVue](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/HireVue_gopbpm.png?_a=AVADKIB0)
+        
+        ![Image 2986: Gloat](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/gloat_nguekk.png?_a=AVADKIB0)
+        
+        ![Image 2987: Textio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/textio_ovcagl.png?_a=AVADKIB0)
+        
+        ![Image 2988: The Predictive Index](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/predictive_index_czmi1v.png?_a=AVADKIB0)
+        
+        ![Image 2989: StepStone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/stepstone_umeavo.svg?_a=AVADKIB0)
+        
+        ![Image 2990: eightfold.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/eightfold_je6mll.png?_a=AVADKIB0)
+        
+        ![Image 2991: Harver](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Harver_w6prlg.png?_a=AVADKIB0)
+        
+        ![Image 2992: Fetcher](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fetcher_vxxmwp.png?_a=AVADKIB0)
+        
+        ![Image 2993: PandoLogic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pandologic_ect0vv.png?_a=AVADKIB0)
+        
+        ![Image 2994: Lattice](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Lattice_yjs5z6.png?_a=AVADKIB0)
+        
+        ![Image 2995: Beamery](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/beamery_ixtuvd.svg?_a=AVADKIB0)
+        
+        ![Image 2996: Entelo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Entelo_z7jsgt.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 2997: Seekout](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SeekOut_nkhxyq.png?_a=AVADKIB0)
+        
+        ![Image 2998: Visier](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/visier_cguzio.png?_a=AVADKIB0)
+        
+        ![Image 2999: Turing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/turing_mmqzxd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3000: Moonhub](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Moonhub_ai_pmjb4z.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3001: Scribe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SCRIBE_Logo_e3npxw.png?_a=AVADKIB0)
+        
+    *   [Automation & Operations](https://mad.firstmark.com/card#reczICew2q9n06v1z)
+        
+        ![Image 3002: UiPath](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/UiPath_uv4q4c.png?_a=AVADKIB0)
+        
+        ![Image 3003: Celonis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Celonis_vujzxe.png?_a=AVADKIB0)
+        
+        ![Image 3004: HyperScience](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hyperscience_ta98fs.png?_a=AVADKIB0)
+        
+        ![Image 3005: Abbyy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Abbyy_iczypx.png?_a=AVADKIB0)
+        
+        ![Image 3006: Eigen Technologies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Eigen_Technologies_nt6zke.png?_a=AVADKIB0)
+        
+        ![Image 3007: Ocrolus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ocrolus_a1keou.png?_a=AVADKIB0)
+        
+        ![Image 3008: Tonkean](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tonkean_g7vt5w.svg?_a=AVADKIB0)
+        
+        ![Image 3009: Antworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Antworks_yhszyj.png?_a=AVADKIB0)
+        
+        ![Image 3010: Tungsten Automation](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Tungsten_Automation_mvnvm7.png?_a=AVADKIB0)
+        
+        ![Image 3011: Instabase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/instabase_uoatbr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3012: Luminai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Luminai_mv1p1n.png?_a=AVADKIB0)
+        
+        ![Image 3013: Workato](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Workato_xv4llz.svg?_a=AVADKIB0)
+        
+        ![Image 3014: Zapier](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zapier_knzuao.svg?_a=AVADKIB0)
+        
+        ![Image 3015: Alkymi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alkymi_mtzrst.png?_a=AVADKIB0)
+        
+        ![Image 3016: JIFFY.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Jiffy_AI_lj5fqg.png?_a=AVADKIB0)
+        
+        ![Image 3017: Rossum](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rossum_izyu0e.png?_a=AVADKIB0)
+        
+        ![Image 3018: Bardeen.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bardeen_zgmkdo.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3019: Kognitos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kognitos_tm4xke.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3020: Orby AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Orby_AI_nfoted.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3021: DeepOpinion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DeepOpinion_bglpsw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3022: Axiom AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Axiom_ai_pq4cug.png?_a=AVADKIB0)
+        
+        ![Image 3023: Levity AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Levity_AI_nmbhsg.svg?_a=AVADKIB0)
+        
+    *   [Decision & Optimization](https://mad.firstmark.com/card#reczw46ANkskmHN9v)
+        
+        ![Image 3024: Peak AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/peak_vsy2ym.png?_a=AVADKIB0)
+        
+        ![Image 3025: NextMV](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/NextMV_ivu8b4.png?_a=AVADKIB0)
+        
+        ![Image 3026: Arena](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Arena_AI_dyrotx.png?_a=AVADKIB0)
+        
+        ![Image 3027: Buynomics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Buynomics_mztlwx.png?_a=AVADKIB0)
+        
+        ![Image 3028: Aera Technology](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aera_kezq7t.png?_a=AVADKIB0)
+        
+        ![Image 3029: Paretos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Paretos_tbhzep.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3030: Lyric](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Lyric_tnahjs.png?_a=AVADKIB0)
+        
+    *   [Legal](https://mad.firstmark.com/card#recGhGOmxA3oJ0h2i)
+        
+        ![Image 3031: CS Disco](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/disco_tqwwc1.png?_a=AVADKIB0)
+        
+        ![Image 3032: Relativity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/relativity_mgghs1.png?_a=AVADKIB0)
+        
+        ![Image 3033: Thomson Reuters Casetext](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/casetext_wulyce.png?_a=AVADKIB0)
+        
+        ![Image 3034: Everlaw](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Everlaw_qgtt3d.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3035: EvenUp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/EvenUp_g79lay.png?_a=AVADKIB0)
+        
+        ![Image 3036: Ironclad](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ironclad_wb3apq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3037: Harvey](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Harvey_zldxei.png?_a=AVADKIB0)
+        
+        ![Image 3038: icertis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Icertis_fofgbh.svg?_a=AVADKIB0)
+        
+        ![Image 3039: Linksquares](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/linksquares_jswjrk.svg?_a=AVADKIB0)
+        
+        ![Image 3040: ContractPodAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ContractPodAI_mpm5ya.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3041: Darrow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Darrow_orai3i.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3042: Lexion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lexion-logo-767x633_ww0ypj.png?_a=AVADKIB0)
+        
+        ![Image 3043: Reveal Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Reveal_data_dibsqx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3044: LexCheck](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LexCheck_Logo_eb66yw.png?_a=AVADKIB0)
+        
+        ![Image 3045: DoNotPay](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DoNotPay_qbxo7p.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3046: Robin AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Robin_AI_Logo_c9xba5.png?_a=AVADKIB0)
+        
+        ![Image 3047: TermScout](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/TermScout_azdkuy.svg?_a=AVADKIB0)
+        
+        ![Image 3048: Spellbook](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Spellbook_d0mgr2.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3049: Eve](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/eve_rkjmcg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3050: Midpage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/midpage_uwr3lu.png?_a=AVADKIB0)
+        
+        ![Image 3051: Luminance](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/luminance_uwgbor.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3052: Paxton](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Paxton_o7ctif.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3053: Pincites](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Pincites_hagxnj.png?_a=AVADKIB0)
+        
+    *   [Partnerships](https://mad.firstmark.com/card#recV1d2dz8WBeeTHD)
+        
+        ![Image 3054: Partnertap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Partnertap_gsc5yo.png?_a=AVADKIB0)
+        
+        ![Image 3055: Crossbeam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/crossbeam_dhskbi.png?_a=AVADKIB0)
+        
+        ![Image 3056: Partnerstack](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Partnerstack_anvyho.svg?_a=AVADKIB0)
+        
+        ![Image 3057: Workspan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/workspan_oubscp.png?_a=AVADKIB0)
+        
+        ![Image 3058: LiveRamp Habu](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Liveramp_x_Habu_eaqsvw.png?_a=AVADKIB0)
+        
+        ![Image 3059: Reveal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Reveal.io_bw3yel.png?_a=AVADKIB0)
+        
+        ![Image 3060: Infosum](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/infosum_jqk4ya.png?_a=AVADKIB0)
+        
+        ![Image 3061: Vendia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Vendia_mdppwn.svg?_a=AVADKIB0)
+        
+    *   [Regtech & Compliance](https://mad.firstmark.com/card#reclk8RLkDZ1lZvgV)
+        
+        ![Image 3062: Drata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Drata_t8drr5.png?_a=AVADKIB0)
+        
+        ![Image 3063: Vanta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vanta_zuhjry.png?_a=AVADKIB0)
+        
+        ![Image 3064: BigID](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BigID_ancp0f.png?_a=AVADKIB0)
+        
+        ![Image 3065: MinervaAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Minerva_AI_eg5ikj.png?_a=AVADKIB0)
+        
+        ![Image 3066: Hummingbird](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hummingbird_ua4x7f.png?_a=AVADKIB0)
+        
+        ![Image 3067: Comply Advantage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/comply_advantage_tyic26.png?_a=AVADKIB0)
+        
+        ![Image 3068: Forter](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/forter_af90a7.svg?_a=AVADKIB0)
+        
+        ![Image 3069: Compliance AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Compliance_AI_zda2zu.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3070: Logically](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/logically-logo_w4nmqy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3071: Unitary](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Unitary_bc7yed.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3072: Norm AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Norm_Ai_dvwsrm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3073: Greenlite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Greenlite_oxvfvr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3074: Weave AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Weave_ai_logo_af6rol.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3075: Hadrius](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hadrius_ybezn2.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3076: Fern AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fern_ai__z5cj4v.png?_a=AVADKIB0)
+        
+    *   [Finance](https://mad.firstmark.com/card#rechPcKzZDfh0mBau)
+        
+        ![Image 3077: Anaplan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anaplan_razezf.svg?_a=AVADKIB0)
+        
+        ![Image 3078: Avalara](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/avalara_y5glab.png?_a=AVADKIB0)
+        
+        ![Image 3079: oracle Netsuite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_NetSuite_v5fol6.svg?_a=AVADKIB0)
+        
+        ![Image 3080: SAP S/4 HANA](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_S4_HANA_xsn1ct.png?_a=AVADKIB0)
+        
+        ![Image 3081: Cube](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cube_si7mjt.png?_a=AVADKIB0)
+        
+        ![Image 3082: Pigment](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pigment_o0gq7l.png?_a=AVADKIB0)
+        
+        ![Image 3083: Zuora](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zuora_yvdcvs.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3084: Metronome](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/metronome_qwctpi.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3085: Lago](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lago_ksrngm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3086: m3ter](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/m3ter-logo-blue_v4zfoy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3087: Orb](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Orb_czhyyv.png?_a=AVADKIB0)
+        
+        ![Image 3088: Digits](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Digits_wcdiv8.png?_a=AVADKIB0)
+        
+        ![Image 3089: Pilot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pilot_lpqfp8.png?_a=AVADKIB0)
+        
+        ![Image 3090: Appzen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/appzen_u3kqqp.svg?_a=AVADKIB0)
+        
+        ![Image 3091: Planful](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Planful_g8ocgr.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3092: Vic.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vic_ai_cti4pe.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3093: Causal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Causal_k8hzzq.png?_a=AVADKIB0)
+        
+        ![Image 3094: Vena](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/vena_solutions_k7afdl.png?_a=AVADKIB0)
+        
+        ![Image 3095: Datarails](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/datarails_g2wgis.png?_a=AVADKIB0)
+        
+        ![Image 3096: Highradius](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/highradius_uf9epk.png?_a=AVADKIB0)
+        
+        ![Image 3097: Botkeeper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/botkeeper_odbdbr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3098: WiseLayer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/WiseLayer_cb36ir.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3099: Anrok](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Anrok_z6syr3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3100: Truewind](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Truewind_ekziqd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3101: Arkifi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Arkifi_qxzuku.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3102: OpenEnvoy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenEnvoy_gkdl10.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3103: Arteria AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/arteria_ai_hoet4p.png?_a=AVADKIB0)
+        
+*   [Applications - Horizontal](https://mad.firstmark.com/card#recH4eV7b3RLJzk9S)
+    *   [Code & Documentation](https://mad.firstmark.com/card#rectAN6daM3fXr0QR)
+        
+        ![Image 3104: Replit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/replit_ul77hy.png?_a=AVADKIB0)
+        
+        ![Image 3105: GitHub Copilot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Github_Copilot_ydggqt.png?_a=AVADKIB0)
+        
+        ![Image 3106: Tabnine](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tabnine_ennswa.svg?_a=AVADKIB0)
+        
+        ![Image 3107: AWS CodeWhisperer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_CodeWhisperer_mviwvf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3108: Poolside](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Poolside_ai_m9yopm.png?_a=AVADKIB0)
+        
+        ![Image 3109: Magic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Magic.dev_god9wr.svg?_a=AVADKIB0)
+        
+        ![Image 3110: Warp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/warp.dev_enndzu.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3111: Cursor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cursor_lpyelt.png?_a=AVADKIB0)
+        
+        ![Image 3112: Stenography](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/stenography_t8egyr.png?_a=AVADKIB0)
+        
+        ![Image 3113: Mintlify](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mintlify_un46xz.svg?_a=AVADKIB0)
+        
+        ![Image 3114: Debuild](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/debuild_yzltxq.png?_a=AVADKIB0)
+        
+        ![Image 3115: Anima](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anima_uelkkx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3116: Coda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/coda_io_fywscy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3117: Cody](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cody_ds3dhx.png?_a=AVADKIB0)
+        
+        ![Image 3118: Mutable.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mutable_lkfzqs.png?_a=AVADKIB0)
+        
+        ![Image 3119: AI2sql](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AI2sql_lez8ef.png?_a=AVADKIB0)
+        
+        ![Image 3120: Salesforce CodeGen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Salesforce_CodeGen_isjp9z.png?_a=AVADKIB0)
+        
+        ![Image 3121: Moderne](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Moderne_btqxm3.png?_a=AVADKIB0)
+        
+        ![Image 3122: Diffblue](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/diffblue_mhnydm.png?_a=AVADKIB0)
+        
+        ![Image 3123: Machinet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/machinet_zhwrlp.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3124: Factory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Factory_ai_dijuuw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3125: Codium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/codium_ai_rodcx5.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3126: Codeium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/codeium_qesvsn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3127: Astral](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Astral_f3yxcn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3128: TabbyML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/TabbyML_ndok0o.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3129: Cosine](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cosine__wubzy3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3130: Laredo Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Laredo_Labs_rh05f9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3131: Daytona](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Daytona_ou8lbu.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3132: CodeComplete](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/CodeComplete_uckbae.png?_a=AVADKIB0)
+        
+    *   [Text](https://mad.firstmark.com/card#recsNegCw6qyVCXVU)
+        
+        ![Image 3133: Jasper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Jasper-Ai_ecqqd8.svg?_a=AVADKIB0)
+        
+        ![Image 3134: Writer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/writer_sstfi8.png?_a=AVADKIB0)
+        
+        ![Image 3135: Copy.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/copy_ai_epryos.png?_a=AVADKIB0)
+        
+        ![Image 3136: Grammarly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Grammarly_sbtnzx.png?_a=AVADKIB0)
+        
+        ![Image 3137: Cogram](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cogram_xi8cae.png?_a=AVADKIB0)
+        
+        ![Image 3138: Sudowrite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sudowrite_hgyey9.png?_a=AVADKIB0)
+        
+        ![Image 3139: Wordtune](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/wordtune_ysdpwa.png?_a=AVADKIB0)
+        
+        ![Image 3140: Compose.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/compose_ai_dxsvmf.png?_a=AVADKIB0)
+        
+        ![Image 3141: Moonbeam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Moonbeam_qh6ssd.png?_a=AVADKIB0)
+        
+        ![Image 3142: Subtxt](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Subtxt_uisvtn.png?_a=AVADKIB0)
+        
+        ![Image 3143: NovelAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/novelAI_otngh1.png?_a=AVADKIB0)
+        
+        ![Image 3144: Laika](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/laika_qopg4z.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3145: Scalenut](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Scalenut_oqtqvl.png?_a=AVADKIB0)
+        
+        ![Image 3146: HyperWrite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/hyperwrite_tpxdtz.png?_a=AVADKIB0)
+        
+        ![Image 3147: Craftly AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Craftly_f74ko1.png?_a=AVADKIB0)
+        
+        ![Image 3148: Fable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/fable_ml_oedbpt.png?_a=AVADKIB0)
+        
+        ![Image 3149: OneAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/One_AI_gxoc2a.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3150: Strut](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Strut_v1v7mk.png?_a=AVADKIB0)
+        
+    *   [Audio & Voice](https://mad.firstmark.com/card#recU4ERIUXQNSkBJJ)
+        
+        ![Image 3151: Aimi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/aimi_f9v0da.png?_a=AVADKIB0)
+        
+        ![Image 3152: Descript](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/descript_wttwny.svg?_a=AVADKIB0)
+        
+        ![Image 3153: Krisp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/krisp_pqquq1.png?_a=AVADKIB0)
+        
+        ![Image 3154: Aiva](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aiva_Technologies_wgr8qo.png?_a=AVADKIB0)
+        
+        ![Image 3155: OtterAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Otter_AI_kuekrk.svg?_a=AVADKIB0)
+        
+        ![Image 3156: Coqui](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/coqui_mgrd68.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3157: Suno](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Suno_bsu53c.png?_a=AVADKIB0)
+        
+        ![Image 3158: Hume AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hume_AI_s08cfk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3159: Sanas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sanas_Logo_khrhl3.png?_a=AVADKIB0)
+        
+        ![Image 3160: Wellsaid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/wellsaid_q3j8g5.png?_a=AVADKIB0)
+        
+        ![Image 3161: Voicemod](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Voicemod_Logo_elxksi.svg?_a=AVADKIB0)
+        
+        ![Image 3162: Neosapience](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/neosapience_lat9ys.png?_a=AVADKIB0)
+        
+        ![Image 3163: Resemble.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/ResembleAI_j31hgn.png?_a=AVADKIB0)
+        
+        ![Image 3164: Boomy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/boomy_tyyzrk.png?_a=AVADKIB0)
+        
+        ![Image 3165: Vocalid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/VocalID_fqiehv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3166: Fireflies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/fireflies_nvmfvv.png?_a=AVADKIB0)
+        
+        ![Image 3167: Play.ht](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Playground_rzmgnu.png?_a=AVADKIB0)
+        
+        ![Image 3168: Endel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Endel_p4koeq.png?_a=AVADKIB0)
+        
+        ![Image 3169: Replica Studios](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/replica_d9v7uh.png?_a=AVADKIB0)
+        
+        ![Image 3170: Supertone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/supertone_ccdkil.png?_a=AVADKIB0)
+        
+        ![Image 3171: Modulate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Modulate_bmkowv.png?_a=AVADKIB0)
+        
+        ![Image 3172: Murf.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Murf_vt8e5j.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3173: Rilla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Rilla_jfcemv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3174: Splash](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/splash_dq5hx8.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3175: Audialab](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Audialab_vjt4qs.png?_a=AVADKIB0)
+        
+        ![Image 3176: Podcast.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Podcast.ai_d06ovp.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3177: Riverside](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Riverside_ydl2j3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3178: Podcastle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/podcastle-logo-1024x427_xkjgss.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3179: Mubert](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mubert-logo_tznnds.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3180: Harmonai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Harmonai_oracwo.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3181: Okio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/okio_logo_uqlayo.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3182: TuneFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/TuneFlow_jirfnx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3183: Ad Auris](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Ad_auris_irvtl4.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3184: Sonify](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sonify-logo_nrclyj.png?_a=AVADKIB0)
+        
+    *   [Image](https://mad.firstmark.com/card#recmwKRC3CNz1jJ8v)
+        
+        ![Image 3185: Midjourney](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/midjourney_wuit1m.png?_a=AVADKIB0)
+        
+        ![Image 3186: Stability.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stability_ai_lx9w1z.png?_a=AVADKIB0)
+        
+        ![Image 3187: PhotoRoom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/photoroom_qx6kqz.png?_a=AVADKIB0)
+        
+        ![Image 3188: imagen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_Imagen_cz4pvj.png?_a=AVADKIB0)
+        
+        ![Image 3189: Prisma Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Prisma_Labs_ejcb7a.png?_a=AVADKIB0)
+        
+        ![Image 3190: Playground](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Playground_rzmgnu.png?_a=AVADKIB0)
+        
+        ![Image 3191: Lexica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/lexica_ys7haa.png?_a=AVADKIB0)
+        
+        ![Image 3192: Craiyon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/craiyon_igaxtt.png?_a=AVADKIB0)
+        
+        ![Image 3193: Alpaca](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alpaca_dqbhho.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3194: Ideogram](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ideogram_ps2z9f.png?_a=AVADKIB0)
+        
+        ![Image 3195: Finegrain](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Finegrain_ephrzi.png?_a=AVADKIB0)
+        
+        ![Image 3196: Facet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/facet.ai_vj7t5n.png?_a=AVADKIB0)
+        
+        ![Image 3197: Lets Enhance.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Lets_Enhance_h0jf68.png?_a=AVADKIB0)
+        
+        ![Image 3198: Topaz Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/topaz_labs_iq5noq.png?_a=AVADKIB0)
+        
+        ![Image 3199: Artbreeder](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/artbreeder_u29tmf.avif?_a=AVADKIB0)
+        
+        ![Image 3200: Hypotenuse AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hypotenuse_AI_p1v2dk.png?_a=AVADKIB0)
+        
+        ![Image 3201: Mage.space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mage.space_nxkgzs.png?_a=AVADKIB0)
+        
+        ![Image 3202: Nyx.gallery](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nyx_Gallery_b4tx8u.svg?_a=AVADKIB0)
+        
+        ![Image 3203: Windsor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/windsor_wpnctz.png?_a=AVADKIB0)
+        
+        ![Image 3204: Krea](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Krea_l3j3q3.png?_a=AVADKIB0)
+        
+        ![Image 3205: PixelVibe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/pixelvibe_sjsyt8.png?_a=AVADKIB0)
+        
+        ![Image 3206: Waifu Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Waifu_Labs_pxfufh.png?_a=AVADKIB0)
+        
+        ![Image 3207: Blend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BlendNow_jsjoj4.png?_a=AVADKIB0)
+        
+        ![Image 3208: Lightricks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/lightricks_zr1qbh.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3209: Metaspectral](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Metaspectral_juxlrq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3210: Visionary.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Visionary_ai_ri2aax.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3211: Visual Electric](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Visual_Electric_yrucnv.png?_a=AVADKIB0)
+        
+    *   [Presentation & Design](https://mad.firstmark.com/card#recWYs51tm7boo9WN)
+        
+        ![Image 3212: Adobe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/adobe_eig9hy.png?_a=AVADKIB0)
+        
+        ![Image 3213: Figma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Figma_ct4g2m.png?_a=AVADKIB0)
+        
+        ![Image 3214: Canva](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Canva-logo_ud7neq.png?_a=AVADKIB0)
+        
+        ![Image 3215: Notion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/notion__aawjag.png?_a=AVADKIB0)
+        
+        ![Image 3216: Mem](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/mem_ztmitr.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3217: tome](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/tome-logo_fpitfg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3218: Beautiful.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/beautiful_ai_geotvg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3219: Gamma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Gamma_ynsepj.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3220: Prezo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Prezo_fgxr0d.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3221: Napkin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Napkin_ul2ypw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3222: Galileo AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Galileo_AI_mrmhbz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3223: Poly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Poly_dogrlj.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3224: Vizcom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vizcom_ebc8uy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3225: Picsart](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Picsart-Logo_bh1rjv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3226: Recraft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Recraft_r44icm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3227: Kittl](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kittl_zyx0eg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3228: Modyfi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Modyfi_awjowk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3229: Framer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Framer_zf6xaf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3230: Durable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/durable_rxm96s.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3231: Moonshot AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Moonshot_ai_zw8ipy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3232: Krea](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Krea_xqasou.png?_a=AVADKIB0)
+        
+    *   [Video Editing](https://mad.firstmark.com/card#recqNQqpcWVgLROT4)
+        
+        ![Image 3233: Runway](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/runway_vk8r0s.png?_a=AVADKIB0)
+        
+        ![Image 3234: Descript](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/descript_wttwny.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3235: Captions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Captions_qr30aj.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3236: Lensa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lensa_ai_ujpku4.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3237: Remini](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Remini_z1z0rw.png?_a=AVADKIB0)
+        
+    *   [Video Generation](https://mad.firstmark.com/card#rec6UyZQMoSzU7mbg)
+        
+        New
+        
+        ![Image 3238: OpenAI Sora](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Open_AI_Sora_dxoz6h.png?_a=AVADKIB0)
+        
+        ![Image 3239: Synthesia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/synthesia_yatnpc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3240: Google Research Lumiere](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Google-Research-Lumiere_kulu3g.png?_a=AVADKIB0)
+        
+        ![Image 3241: Twelve Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Twelve_Labs_gy4abu.png?_a=AVADKIB0)
+        
+        ![Image 3242: EmbodyMe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EmbodyMe_dwmoae.png?_a=AVADKIB0)
+        
+        ![Image 3243: Deepbrain AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deepbrain_wal7hg.png?_a=AVADKIB0)
+        
+        ![Image 3244: Wombo.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Wombo_pcnb9a.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3245: Pika](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Pika_c5gflk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3246: Veed.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/veed-io_ji2cbx.png?_a=AVADKIB0)
+        
+        ![Image 3247: D-ID](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/D-ID_baywmg.png?_a=AVADKIB0)
+        
+        ![Image 3248: Fliki](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fliki_glzcfz.png?_a=AVADKIB0)
+        
+        ![Image 3249: Tavus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tavus_izv3av.png?_a=AVADKIB0)
+        
+        ![Image 3250: Hour One](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hour_One_eimfcn.png?_a=AVADKIB0)
+        
+        ![Image 3251: Soul Machines](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/soulmachines_zxnpcv.png?_a=AVADKIB0)
+        
+        ![Image 3252: Vidyo.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/vidyoAI_kcq2im.png?_a=AVADKIB0)
+        
+        ![Image 3253: Pictory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Pictory_bual72.png?_a=AVADKIB0)
+        
+        ![Image 3254: Movio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Movio_paczux.png?_a=AVADKIB0)
+        
+        ![Image 3255: Colossyan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Colossyan_nt3jzw.svg?_a=AVADKIB0)
+        
+        ![Image 3256: Metaphysic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Metaphysic_jn3j63.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3257: HeyGen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/HeyGen_x2t9xf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3258: Gan.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/gan_ai_logo_rfgy34.png?_a=AVADKIB0)
+        
+        ![Image 3259: Yepic.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Yepic_dfjles.png?_a=AVADKIB0)
+        
+        ![Image 3260: Typecast](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Typecast_hdcxth.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3261: Maverick](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Maverick_zyinpn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3262: Ozone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Ozone_rvfdvc.png?_a=AVADKIB0)
+        
+    *   [Animation & 3D / Gaming](https://mad.firstmark.com/card#recVyEMOnStKj3l3a)
+        
+        ![Image 3263: Avataar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/avataar_mrjqj5.png?_a=AVADKIB0)
+        
+        ![Image 3264: CSM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CSM_cyu30p.png?_a=AVADKIB0)
+        
+        ![Image 3265: Inworld](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/inworld_adoot5.png?_a=AVADKIB0)
+        
+        ![Image 3266: Luma.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/luma_labs_qd08xx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3267: SandboxAQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SandboxAQ_prsg1w.png?_a=AVADKIB0)
+        
+        ![Image 3268: DataGrid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datagrid_nm9tbu.png?_a=AVADKIB0)
+        
+        ![Image 3269: Anything World](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/anything.world_iysedy.png?_a=AVADKIB0)
+        
+        ![Image 3270: Didimo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Didimo_jt6keq.png?_a=AVADKIB0)
+        
+        ![Image 3271: Mirage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mirage_ujtvfn.png?_a=AVADKIB0)
+        
+        ![Image 3272: Kaedim](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kaedim_logo_s2fq96.png?_a=AVADKIB0)
+        
+        ![Image 3273: Hypothetic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hypothetic_oxhpyx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3274: Multiverse Computing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Multiverse_Computing_Logo_shfqiz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3275: Ready Player Me](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ReadyPlayerMe_r2edua.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3276: Leonardo.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Leonardo_ai_yv2qca.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3277: Convai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Convai_r2vewk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3278: Spline](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Spline_cpb9kp.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3279: Flawless](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Flawless_oyjwxb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3280: Move](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Move_ai_dmtcso.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3281: Wonder Dynamics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Wonder_Dynamics_cixo12.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3282: AI Dungeon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ai_dungeon_nnglpd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3283: Scenario](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Scenario_abtdhb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3284: Layer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Layer_l1f9hn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3285: Astroblox](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Astroblox_vjg98o.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3286: Physna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/physna_hz2xa0.png?_a=AVADKIB0)
+        
+    *   [Search / Conversational AI](https://mad.firstmark.com/card#recwmpNhqr2WtE0TG)
+        
+        ![Image 3287: OpenAI ChatGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/OpenAI_ChatGPT_cgd71e.png?_a=AVADKIB0)
+        
+        ![Image 3288: Anthropic Claude 3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/anthropic_Claude_3_mbspua.png?_a=AVADKIB0)
+        
+        ![Image 3289: Inflection Pi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Inflection_Pi_mtdxut.png?_a=AVADKIB0)
+        
+        ![Image 3290: Adept ACT 1](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adept_Act-1_hmv8bm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3291: Mistral Le Chat](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/le_chat_mistral_q8wps1.png?_a=AVADKIB0)
+        
+        ![Image 3292: Perplexity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Perplexity_oym3sw.png?_a=AVADKIB0)
+        
+        ![Image 3293: You](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/you.com_zeincr.png?_a=AVADKIB0)
+        
+        ![Image 3294: Metaphor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/metaphor_w8bnd1.png?_a=AVADKIB0)
+        
+        ![Image 3295: Mem](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/mem_ztmitr.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3296: Character.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Character.ai_pkw6a2.png?_a=AVADKIB0)
+        
+        ![Image 3297: Dust](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dust.tt_suiotw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3298: Leena AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/leena_ai_logo_cl15vv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3299: Voiceflow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Voiceflow_jkctxa.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3300: Chai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/chai-logo_wjelwy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3301: Xembly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Xembly_mk2g5a.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3302: Lindy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lindy_ai_mbnet4.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3303: Personal AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Personal_AI_od6wlg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3304: Dot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/New_Computer_sppct3.png?_a=AVADKIB0)
+        
+        ![Image 3305: WolframAlpha](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/wolfram_alpha_vwjt4m.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3306: Luzia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Luzia_xio9qv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3307: nlx](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/nlx_zmmttg.png?_a=AVADKIB0)
+        
+        ![Image 3308: Genei](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Genei_awgkep.png?_a=AVADKIB0)
+        
+        ![Image 3309: Deepsearch Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeepSearch_Labs_bnhtlo.svg?_a=AVADKIB0)
+        
+*   [Applications - Industry](https://mad.firstmark.com/card#recrtcsqKF61puOyL)
+    *   [Finance & Insurance](https://mad.firstmark.com/card#rec9sicw0k1qwVYn9)
+        
+        ![Image 3310: Kensho](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kensho_oaiphp.png?_a=AVADKIB0)
+        
+        ![Image 3311: Upstart](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/upstart_luehi9.png?_a=AVADKIB0)
+        
+        ![Image 3312: Lemonade](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Lemonade_kroqah.png?_a=AVADKIB0)
+        
+        ![Image 3313: Guidewire](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Guidewire_qgqavy.png?_a=AVADKIB0)
+        
+        ![Image 3314: EvolutionIQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EvolutionIQ_rtkl0o.png?_a=AVADKIB0)
+        
+        ![Image 3315: Arturo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/arturo_vevj4y.png?_a=AVADKIB0)
+        
+        ![Image 3316: Cape Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Cape_Analytics_nt4ozd.png?_a=AVADKIB0)
+        
+        ![Image 3317: Shift Technology](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Shift_Technology_k1xfye.png?_a=AVADKIB0)
+        
+        ![Image 3318: Planck](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/planck_szxerl.png?_a=AVADKIB0)
+        
+        ![Image 3319: Tractable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Tractable_zcaorb.png?_a=AVADKIB0)
+        
+        ![Image 3320: Cowbell](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cowbell_uek95s.png?_a=AVADKIB0)
+        
+        ![Image 3321: Friss](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/friss_vfpa7k.png?_a=AVADKIB0)
+        
+        ![Image 3322: Zelros](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/zelros_dtbtbm.png?_a=AVADKIB0)
+        
+        ![Image 3323: AlphaSense](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AlphaSense_bxgwac.png?_a=AVADKIB0)
+        
+        ![Image 3324: Zesty.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zesty_AI_e3btgu.png?_a=AVADKIB0)
+        
+        ![Image 3325: Envelop Risk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Envelop_hyl1br.png?_a=AVADKIB0)
+        
+        ![Image 3326: Socure](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Socure_v62w6q.png?_a=AVADKIB0)
+        
+        ![Image 3327: Zest AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zest_AI_qzlwg6.svg?_a=AVADKIB0)
+        
+        ![Image 3328: Symphony AI Sensa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Symphony_AI_Sensa_oxvmnc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3329: Boosted.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Boosted_ai_lzf5xi.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3330: Noetica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Noetica_b5whb4.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3331: Hyperplane](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hyperplane_ai_asevbf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3332: Streetbeat](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Streetbeat_a1prcp.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3333: Seel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Seel_mck9xr.png?_a=AVADKIB0)
+        
+        ![Image 3334: Enova](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Enova_x71mad.png?_a=AVADKIB0)
+        
+        ![Image 3335: Taktile](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Taktile_qffbvj.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3336: Zeplyn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Zeplyn_ai_uj7kcf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3337: Black Ore](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/black-ore-logo-horizontal_k4og3b.jpg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3338: Basis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Basis_dgox0w.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3339: Materia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Materia_ghn1r2.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3340: Farsight AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Farsight_spw5mh.png?_a=AVADKIB0)
+        
+    *   [Healthcare](https://mad.firstmark.com/card#rechiAmZpqCisYQfa)
+        
+        ![Image 3341: Flatiron](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/flatiron_lio2qp.png?_a=AVADKIB0)
+        
+        ![Image 3342: Grail](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/grail_cemyji.png?_a=AVADKIB0)
+        
+        ![Image 3343: Tempus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tempus_imm1zt.png?_a=AVADKIB0)
+        
+        ![Image 3344: Biofourmis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/biofourmis_lvrunz.png?_a=AVADKIB0)
+        
+        ![Image 3345: John Snow Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/john_snow_labs_uprmn3.png?_a=AVADKIB0)
+        
+        ![Image 3346: PathAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pathAI_t6pkr2.svg?_a=AVADKIB0)
+        
+        ![Image 3347: Aidoc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/aidoc_gmcxtl.png?_a=AVADKIB0)
+        
+        ![Image 3348: Human Longevity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/human_longevity_iht2nk.png?_a=AVADKIB0)
+        
+        ![Image 3349: Komodo Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Komodo_vmxnbe.png?_a=AVADKIB0)
+        
+        ![Image 3350: Cleerly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cleerly_zz5act.png?_a=AVADKIB0)
+        
+        ![Image 3351: AiCure](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AiCure_qw8i2m.png?_a=AVADKIB0)
+        
+        ![Image 3352: SigTuple](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sigtuple_gckh8v.png?_a=AVADKIB0)
+        
+        ![Image 3353: Syllable.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Syllable_bgq7fi.png?_a=AVADKIB0)
+        
+        ![Image 3354: Innovaccer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/innovaccer_cvyi1d.svg?_a=AVADKIB0)
+        
+        ![Image 3355: Pager](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pager_zapdv6.png?_a=AVADKIB0)
+        
+        ![Image 3356: Syapse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/syapse_xaddys.png?_a=AVADKIB0)
+        
+        ![Image 3357: Spring Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/springhealth_qtqh0w.png?_a=AVADKIB0)
+        
+        ![Image 3358: Iterative Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/iterative_health_zcxwc9.png?_a=AVADKIB0)
+        
+        ![Image 3359: Human DX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Human_DX_yhjckq.png?_a=AVADKIB0)
+        
+        ![Image 3360: Viz.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/vizAI_gjfgbe.svg?_a=AVADKIB0)
+        
+        ![Image 3361: Ezra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ezra_y76mkt.png?_a=AVADKIB0)
+        
+        ![Image 3362: Enlitic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Enlitic_epslrr.png?_a=AVADKIB0)
+        
+        ![Image 3363: Imagen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Imagen_apet8i.png?_a=AVADKIB0)
+        
+        ![Image 3364: Abacus Insights](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Abacus_Insights_cacjxr.png?_a=AVADKIB0)
+        
+        ![Image 3365: LeanTaas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/leantaas_b2r1y3.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3366: Eleos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Eleos_bju4vk.png?_a=AVADKIB0)
+        
+        ![Image 3367: Clarify](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/clarify_xrx1e3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3368: Navina](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Navina_xqxg3x.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3369: Subtle Medical](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Navina_xqxg3x.png?_a=AVADKIB0)
+        
+        ![Image 3370: Deepscribe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeepScribe_pz5qht.png?_a=AVADKIB0)
+        
+        ![Image 3371: Abridge](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Abridge_u1tfjm.png?_a=AVADKIB0)
+        
+        ![Image 3372: Nabla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nabla_j5xutp.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3373: Ambience](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Ambience_qg5g3u.png?_a=AVADKIB0)
+        
+        ![Image 3374: Regard](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Regard_h83sfx.png?_a=AVADKIB0)
+        
+        ![Image 3375: Vara](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Vara_bozfyp.png?_a=AVADKIB0)
+        
+        ![Image 3376: Fathom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fathom_Health_mdarvt.svg?_a=AVADKIB0)
+        
+        ![Image 3377: Rad AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rad_AI_v347ib.png?_a=AVADKIB0)
+        
+        ![Image 3378: Akasa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/akasa_aypdvd.png?_a=AVADKIB0)
+        
+        ![Image 3379: Anomaly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anomaly_mdatbo.png?_a=AVADKIB0)
+        
+        ![Image 3380: Sonio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sonio_hknfc0.png?_a=AVADKIB0)
+        
+        ![Image 3381: Quibim](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Quibim_v9vaaf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3382: Bayesian Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Bayesian-Health_le1qd0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3383: Turbine](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/turbine_bpoge9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3384: Corti](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/corti_tixzmd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3385: Xyla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Xyla_kzv4sv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3386: Forta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Forta_svre6o.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3387: Memora Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Memora_Health_pqxeqy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3388: Gesund AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Gesund_bodlk8.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3389: Caspar AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Caspar_AI_Logo_plkcl1.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3390: Hippocratic AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hippocratic_AI_gwvjr5.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3391: CoHelm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Co_Helm_ptf7a1.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3392: Glass Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Glass_Health_y9sgvx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3393: Latent](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Latent_uo4hvv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3394: SmarterDx](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SmarterDx_cppdxe.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3395: Aiberry](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/aiberry_z6hhlv.png?_a=AVADKIB0)
+        
+    *   [Life Sciences](https://mad.firstmark.com/card#rec23DDS6ZEcmOnj3)
+        
+        ![Image 3396: Insilico Medicine](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/insilico_medicine_e7bfn1.png?_a=AVADKIB0)
+        
+        ![Image 3397: Benchling](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Benchling_tho57n.svg?_a=AVADKIB0)
+        
+        ![Image 3398: 23andMe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/23andme_nmroxf.svg?_a=AVADKIB0)
+        
+        ![Image 3399: Color](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/color_prwfpi.png?_a=AVADKIB0)
+        
+        ![Image 3400: Sophia Genetics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sophia_Genetics_hwlomi.png?_a=AVADKIB0)
+        
+        ![Image 3401: Verily](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/verily_vumpps.svg?_a=AVADKIB0)
+        
+        ![Image 3402: BenevolentAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Benevolent_AI_ospa5y.png?_a=AVADKIB0)
+        
+        ![Image 3403: DNAnexus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DNAnexus_pitjrb.png?_a=AVADKIB0)
+        
+        ![Image 3404: Schrodinger](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/schrodinger_pmie2u.png?_a=AVADKIB0)
+        
+        ![Image 3405: iCarbonX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ICarbonX_fyfsx1.png?_a=AVADKIB0)
+        
+        ![Image 3406: Freenome](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/freenome_z3lzwr.png?_a=AVADKIB0)
+        
+        ![Image 3407: Owkin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Owkin_tgypo2.png?_a=AVADKIB0)
+        
+        ![Image 3408: Atomwise](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/atomwise_vz8kfg.png?_a=AVADKIB0)
+        
+        ![Image 3409: Rome Therapeutics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/rome_therapeutics_zlwsam.png?_a=AVADKIB0)
+        
+        ![Image 3410: Relay Therapeutics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Relay_csg79z.png?_a=AVADKIB0)
+        
+        ![Image 3411: ArsenalBio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Arsenalbio_sggr9g.png?_a=AVADKIB0)
+        
+        ![Image 3412: Nimbus Therapeutics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nimbus_qahnju.png?_a=AVADKIB0)
+        
+        ![Image 3413: Deep Genomics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deep_genomics_g5gihu.png?_a=AVADKIB0)
+        
+        ![Image 3414: Recursion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/recursion_utshpb.png?_a=AVADKIB0)
+        
+        ![Image 3415: Insitro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/insitro_vuqee6.png?_a=AVADKIB0)
+        
+        ![Image 3416: Moderna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Moderna_k4dhi7.svg?_a=AVADKIB0)
+        
+        ![Image 3417: Exscientia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/exscientia_e42emi.png?_a=AVADKIB0)
+        
+        ![Image 3418: Verana Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Verana-Health_pv7dl5.svg?_a=AVADKIB0)
+        
+        ![Image 3419: Valo Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Valo_ylgxtn.png?_a=AVADKIB0)
+        
+        ![Image 3420: ConcertAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/concertAI_iwsrw2.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3421: Unlearn.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/unlearn_lyaxhb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3422: Atomic AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Atomic_Ai_vhlcee.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3423: Aqemia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/aqemia_dnwgjm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3424: XtalPi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/XtalPi_Logo_gaomub.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3425: Cradle Bio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cradle_dx5hvz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3426: JADBio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/JADBio_logo_ienr1t.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3427: Atropos Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/atropos_health_dxazug.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3428: Potion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Potion_kghk80.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3429: Labviva](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Labviva_slzpc8.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3430: Lavo Life Sciences](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lavo_Life_Sciences_q68gk3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3431: PharmaTrace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/PharmaTrace_djiikd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3432: Elicit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Elicit_atlqsz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3433: Immunai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/immunai_icxndv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3434: Century Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Century_Health_w5ogfd.png?_a=AVADKIB0)
+        
+    *   [Transportation](https://mad.firstmark.com/card#rec5GRn3aAVDa6RfP)
+        
+        ![Image 3435: Uber](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/uber_jid1fa.svg?_a=AVADKIB0)
+        
+        ![Image 3436: Tesla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tesla_du1o1h.svg?_a=AVADKIB0)
+        
+        ![Image 3437: Waymo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/waymo_mlcqdx.png?_a=AVADKIB0)
+        
+        ![Image 3438: Cruise](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cruise_cdxdtt.svg?_a=AVADKIB0)
+        
+        ![Image 3439: Nuro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nuro_z8jxpf.png?_a=AVADKIB0)
+        
+        ![Image 3440: Aptive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/aptive_bcnxfp.png?_a=AVADKIB0)
+        
+        ![Image 3441: Cambridge Mobile Telematics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cambridge_mobile_telematics_dcc3sz.png?_a=AVADKIB0)
+        
+        ![Image 3442: Momenta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Momenta_tb89ku.png?_a=AVADKIB0)
+        
+        ![Image 3443: Wayve](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/wayve_yiunn9.png?_a=AVADKIB0)
+        
+        ![Image 3444: Applied Intuition](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/applied_intuition_cu96ou.svg?_a=AVADKIB0)
+        
+        ![Image 3445: Nio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nio_wbnqxp.svg?_a=AVADKIB0)
+        
+        ![Image 3446: Merlin Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Merlin_Labs_n6ntfy.png?_a=AVADKIB0)
+        
+        ![Image 3447: Mobileye](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mobileye_g4jc13.png?_a=AVADKIB0)
+        
+        ![Image 3448: G7](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/G7_dvmufj.png?_a=AVADKIB0)
+        
+        ![Image 3449: Nvidia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nvidia_b0zcs1.png?_a=AVADKIB0)
+        
+        ![Image 3450: Nexar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nexar_wa1r0o.png?_a=AVADKIB0)
+        
+        ![Image 3451: Kodiak Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kodiak_wnkqog.png?_a=AVADKIB0)
+        
+        ![Image 3452: Luminar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/luminar_bwsras.png?_a=AVADKIB0)
+        
+        ![Image 3453: Magna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/magna_logo_eqlhxx.svg?_a=AVADKIB0)
+        
+        ![Image 3454: Ghost](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ghost_nimali.png?_a=AVADKIB0)
+        
+        ![Image 3455: Motional](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Motional_asijeo.png?_a=AVADKIB0)
+        
+        ![Image 3456: MayMobility](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/MayMobility_p3tdzs.png?_a=AVADKIB0)
+        
+        ![Image 3457: DiDi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DiDi_fmy5mk.png?_a=AVADKIB0)
+        
+        ![Image 3458: Pony.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/ponyAI_i3o76l.png?_a=AVADKIB0)
+        
+        ![Image 3459: Via](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/via_ddp6rg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3460: Helm.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Helm_ai_aiqsiu.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3461: Phantom AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Phantom_Ai_b173kb.png?_a=AVADKIB0)
+        
+    *   [Agriculture](https://mad.firstmark.com/card#recVEuzJMR00kbl8C)
+        
+        ![Image 3462: John Deere](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/John_Deere_k6pchz.png?_a=AVADKIB0)
+        
+        ![Image 3463: Bowery Farming](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bowery_farming_ovunup.png?_a=AVADKIB0)
+        
+        ![Image 3464: Farmers Business Network](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Farmers_Business_Network_wvugyg.png?_a=AVADKIB0)
+        
+        ![Image 3465: Iron Ox](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/iron_ox_q3ahyn.png?_a=AVADKIB0)
+        
+        ![Image 3466: Blue River Technology](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Blue_River_Technology_qc5xq1.png?_a=AVADKIB0)
+        
+        ![Image 3467: Regrow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/regrow_cjggw5.svg?_a=AVADKIB0)
+        
+        ![Image 3468: Taranis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Taranis_tjndov.png?_a=AVADKIB0)
+        
+        ![Image 3469: FarmWise](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/FarmWise_jys4tv.png?_a=AVADKIB0)
+        
+        ![Image 3470: BensonHill](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/benson_hill_a8exu7.png?_a=AVADKIB0)
+        
+        ![Image 3471: Semios](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/semios_faqxeg.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3472: HowGood](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/HowGood_Color_Logo_vajpa0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3473: Pachama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Pachama_lsjtwl.png?_a=AVADKIB0)
+        
+    *   [Industrial & Logistics](https://mad.firstmark.com/card#recNiISh1VoBI4dwO)
+        
+        ![Image 3474: Verkada](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/verkada_rgzbql.png?_a=AVADKIB0)
+        
+        ![Image 3475: Siemens](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/siemens_cm9job.svg?_a=AVADKIB0)
+        
+        ![Image 3476: Schneider Electric](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Schneider-Electric_obdkhn.png?_a=AVADKIB0)
+        
+        ![Image 3477: Agile Robots](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Agile_Robots_cjusk1.png?_a=AVADKIB0)
+        
+        ![Image 3478: GE Digital Predix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Predix_z0jzwq.png?_a=AVADKIB0)
+        
+        ![Image 3479: Stem](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stem_rg5q1w.png?_a=AVADKIB0)
+        
+        ![Image 3480: Uptake](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/uptake_lzkdwd.png?_a=AVADKIB0)
+        
+        ![Image 3481: Path Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/path_robotics_cshohs.png?_a=AVADKIB0)
+        
+        ![Image 3482: Johnson Controls](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/johnson_controls_xlnpvk.png?_a=AVADKIB0)
+        
+        ![Image 3483: Scortex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Scortex_fs9bsv.png?_a=AVADKIB0)
+        
+        ![Image 3484: Geek+](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/geekplus_coomnk.png?_a=AVADKIB0)
+        
+        ![Image 3485: Bright Machines](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/brightmachines_x5e9eh.svg?_a=AVADKIB0)
+        
+        ![Image 3486: Augury](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/augury_ad8dza.png?_a=AVADKIB0)
+        
+        ![Image 3487: Built Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/built_robotics_wrz2iv.svg?_a=AVADKIB0)
+        
+        ![Image 3488: Beyond limits](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Beyond_Limits_zs1lhx.png?_a=AVADKIB0)
+        
+        ![Image 3489: CloudMinds](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cloundminds_vvxxfh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3490: Agility Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Agility_Robotics_bw9fkd.png?_a=AVADKIB0)
+        
+        ![Image 3491: Skydio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/skydio_khqoam.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3492: Zapata AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Zapata_Logo_NEW_jku8ix.png?_a=AVADKIB0)
+        
+        ![Image 3493: Cognite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cognite_hdjqwq.png?_a=AVADKIB0)
+        
+        ![Image 3494: Crisp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/crisp_qjmbp2.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3495: Covariant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/covariant_dr0qon.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3496: Higharc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Higharc_efne4q.png?_a=AVADKIB0)
+        
+        ![Image 3497: Osaro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Osaro_qkdcmy.png?_a=AVADKIB0)
+        
+        ![Image 3498: Deepomatic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deepomatic_ji5ggm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3499: Snaptrude](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/snaptrude_ylua5i.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3500: Verusen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Verusen_rz50kb.png?_a=AVADKIB0)
+        
+        ![Image 3501: Outrider AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Outrider_ew1wrv.svg?_a=AVADKIB0)
+        
+        ![Image 3502: AMP Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amp_Robotics_lhltew.png?_a=AVADKIB0)
+        
+        ![Image 3503: Locus Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Locus_robotics_p2fil5.png?_a=AVADKIB0)
+        
+        ![Image 3504: Instrumental](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Instrumental_vcdorz.png?_a=AVADKIB0)
+        
+        ![Image 3505: Boston Dynamics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Boston_Dynamics_dbkgwe.png?_a=AVADKIB0)
+        
+        ![Image 3506: Matroid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Matroid_f42by0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3507: Arcol](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Arcol_pubclt.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3508: MakinaRocks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Makina_Rocks_vkypeh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3509: WeaveGrid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/WeaveGrid_bgoz8h.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3510: Phaidra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/phaidra_iwwcxr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3511: Augmenta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Augmenta-black_d6ohg9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3512: Exodigo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/exodigo_ghw2cl.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3513: Muir.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Muir_ai_eyjur3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3514: Basetwo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/basetwo_ddhveo.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3515: Briq](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/briq_gkduui.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3516: Retrocausal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Retrocausal_t3wnqe.png?_a=AVADKIB0)
+        
+        ![Image 3517: Intrinsic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Intrinsic_dqlndw.png?_a=AVADKIB0)
+        
+    *   [Aerospace, Defense & Gov't](https://mad.firstmark.com/card#recFOazybAQV5AVT8)
+        
+        ![Image 3518: Anduril](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anduril_hucbw5.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3519: SpaceX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SpaceX_ve5jfv.png?_a=AVADKIB0)
+        
+        ![Image 3520: Dataminr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dataminr_v86mfq.svg?_a=AVADKIB0)
+        
+        ![Image 3521: Shield AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Shield_AI_fsb2oj.png?_a=AVADKIB0)
+        
+        ![Image 3522: Mark43](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mark_43_wsi2xz.png?_a=AVADKIB0)
+        
+        ![Image 3523: Opengov](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/opengov_cn7qiu.png?_a=AVADKIB0)
+        
+        ![Image 3524: FiscalNote](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/FiscalNote_gruguf.png?_a=AVADKIB0)
+        
+        ![Image 3525: Primer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/primer_g1yqhg.png?_a=AVADKIB0)
+        
+        ![Image 3526: Voyager Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Voyager_Labs_Logo_b3s2x2.png?_a=AVADKIB0)
+        
+        ![Image 3527: Streetlight Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/streetlight_data_f8n6yt.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3528: Helsing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Helsing_tu6ou9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3529: Hadrian](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hadrian_at7byr.png?_a=AVADKIB0)
+        
+        ![Image 3530: Epirus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Epirus_oshdeg.png?_a=AVADKIB0)
+        
+        ![Image 3531: Rebellion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rebellion_Defense_ohg7j4.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3532: BlueHalo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/BlueHalo_qtiouh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3533: Blue Origin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/blue-origin_nzvj7a.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3534: Relativity Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Relativity_Space_Logo_pawg8y.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3535: Astra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Astra_pxpp3q.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3536: abl Space Systems](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/abl_space_systems_bswjmy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3537: Vannevar Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vannevar_Labs_ssx7oe.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3538: Dedrone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dedrone_uauqfk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3539: Fortem Technologies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fortem_Technologies_xvzsle.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3540: Air Space Intelligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/AirSpace_Intelligence_ekcxqa.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3541: Leolabs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/leolabs_yjlxhi.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3542: Skywatch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/skywatch_cb4avt.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3543: Orbital Insight](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Orbital_Insight_Logo_mxekqs.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3544: Fleet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fleet_bd931q.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3545: Percipient](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Percipient_Ai_j78tui.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3546: Loft Orbital](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Loft_Orbital_xndxoy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3547: Slingshot Aerospace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Slingshot_Aerospace_s7iasl.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3548: Astranis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Astranis_Logo_sftqd0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3549: Varda Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Varda_iamics.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3550: Hedron](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hedron_ru9jpn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3551: Xona Space Systems](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Xona_Space_Systems_n3gp3m.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3552: Morpheus Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Morpheus_Space_phewdk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3553: Mach Industries](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mach_industries_o5zj1g.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3554: Epsilon3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Epsilon_3_lkfazn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3555: Unanimous AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/unanimous-ai_wkvtom.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3556: Modern Intelligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Modern_Intelligence_j6txeg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3557: TurbineOne](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Turbine_One__dg4osb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3558: Radian Aerospace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Radian_Aerospace_cloxeq.png?_a=AVADKIB0)
+        
+        ![Image 3559: Hayden](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hayden_AI_nx665g.png?_a=AVADKIB0)
+        
+        ![Image 3560: Merlin Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Merlin_Labs_zsfgle.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3561: Kayhan Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/KayhanSpaceLogo_aoi9pb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3562: Apex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/apex_yfconm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3563: Northwood Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Northwood_Space_f5j4kt.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3564: Blackshark.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/blackshark_vpdqej.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3565: Adarga](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adarga_c4henh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3566: Yurts](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Yurts_m0komc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3567: Omelas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/omelas_i7hd2u.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3568: Saronic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/saronic_v4pmba.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3569: Saildrone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Saildrone_aingf3.png?_a=AVADKIB0)
+        
+    *   [Cross-Industry](https://mad.firstmark.com/card#recb9PG3trWlbFGIC)
+        
+        ![Image 3570: Palantir](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Palantir_ol41mp.svg?_a=AVADKIB0)
+        
+        ![Image 3571: C3 AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/C3ai_tjtwpl.png?_a=AVADKIB0)
+        
+        ![Image 3572: Veritone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Veritone_qwz4rw.png?_a=AVADKIB0)
+        
+        ![Image 3573: Spark Cognition](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SparkCognition_oql2mk.png?_a=AVADKIB0)
+        
+*   [Open Source Infrastructure](https://mad.firstmark.com/card#rec6pS9qFgNv8bkNn)
+    *   [Data Frameworks](https://mad.firstmark.com/card#recMvXyexZmRFWono)
+        
+        ![Image 3574: Hadoop HDFS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_hadoop_nzqze0.svg?_a=AVADKIB0)
+        
+        ![Image 3575: Apache Spark](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Spark_ctohje.png?_a=AVADKIB0)
+        
+        ![Image 3576: Hadoop Map Reduce](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hadoop_Mapreduce_s5xxq7.png?_a=AVADKIB0)
+        
+        ![Image 3577: Flink](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Flink_u2l8px.png?_a=AVADKIB0)
+        
+        ![Image 3578: Yarn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Yarn_thj1yh.png?_a=AVADKIB0)
+        
+        ![Image 3579: Kubernetes](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kubernetes_jolu81.png?_a=AVADKIB0)
+        
+        ![Image 3580: Mesos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_mesos_puirlo.svg?_a=AVADKIB0)
+        
+        ![Image 3581: Docker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/docker_compose_wqdejj.png?_a=AVADKIB0)
+        
+        ![Image 3582: Cdap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CDAP_imoxqf.png?_a=AVADKIB0)
+        
+        ![Image 3583: Red Hat Cluster Suite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Open_Nebula_jgdhmn.png?_a=AVADKIB0)
+        
+        ![Image 3584: Apache Giraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Giraph_m56l7q.svg?_a=AVADKIB0)
+        
+        ![Image 3585: Ray](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Ray_sqyst7.png?_a=AVADKIB0)
+        
+        ![Image 3586: Dask](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/dask_b6xl9l.png?_a=AVADKIB0)
+        
+        ![Image 3587: Helix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Helix_zpvz5q.png?_a=AVADKIB0)
+        
+        ![Image 3588: Linux High Availability](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Linux_High_Availability_wyv7z2.png?_a=AVADKIB0)
+        
+    *   [Formats](https://mad.firstmark.com/card#rec0os8CKWmr4O87z)
+        
+        ![Image 3589: JSON](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/json_logo_icon_168490_qhkwh4.png?_a=AVADKIB0)
+        
+        ![Image 3590: Parquet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Parquet_logo_yf0d7i.svg?_a=AVADKIB0)
+        
+        ![Image 3591: Iceberg](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Iceberg_ggfba2.png?_a=AVADKIB0)
+        
+        ![Image 3592: Hudi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Hudi_f2xska.png?_a=AVADKIB0)
+        
+        ![Image 3593: Delta Lake](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deltalake_ysxjzd.png?_a=AVADKIB0)
+        
+        ![Image 3594: Orc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Orc_logo_frvpdd.svg?_a=AVADKIB0)
+        
+        ![Image 3595: Apache Arrow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Arrow_lw3lx3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3596: Protocol Buffers](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Protocol_Buffers_ygajtb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3597: FlatBuffers](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Flatbuffers_ljapnc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3598: Cap'n Proto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Capn_Proto_lqcwsd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3599: Apache Thrift](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/apache-thrift_gkni3o.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3600: MessagePack](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/messagepack_cpkdog.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3601: Apache Avro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Apache_Avro_Logo_2023.svg_oiux2m.png?_a=AVADKIB0)
+        
+    *   [Query/Data Flow](https://mad.firstmark.com/card#rec1vEpBmskB9ETZC)
+        
+        ![Image 3602: Spark SQL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Spark_ctohje.png?_a=AVADKIB0)
+        
+        ![Image 3603: Apache Pig](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Pig_hfsizt.svg?_a=AVADKIB0)
+        
+        ![Image 3604: Hive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Hive_eworbh.png?_a=AVADKIB0)
+        
+        ![Image 3605: Presto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/presto_arvoeg.svg?_a=AVADKIB0)
+        
+        ![Image 3606: Trino](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/trino_vmoudq.png?_a=AVADKIB0)
+        
+        ![Image 3607: GraphQL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/graphQL_zksxju.png?_a=AVADKIB0)
+        
+        ![Image 3608: Apache Drill](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Drill_agk4eh.png?_a=AVADKIB0)
+        
+        ![Image 3609: Apache Beam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_beam_vjxuo1.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3610: CloudQuery](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cloudquery_logo_png_light_background_adu92d.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3611: Apache Impala](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/apache-impala-logo-1_vjnniu.png?_a=AVADKIB0)
+        
+        ![Image 3612: Hawq](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Hawq_xtiwr9.png?_a=AVADKIB0)
+        
+    *   [Data Management](https://mad.firstmark.com/card#receFR1hkZqiHEcfh)
+        
+        ![Image 3613: Amundsen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amundsen_xx9kqh.svg?_a=AVADKIB0)
+        
+        ![Image 3614: DataHub](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datahub_d19mio.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3615: Apache Atlas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Apache_Atlas_shxaen.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3616: OpenMetadata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/marquez-logo_yyxiso.png?_a=AVADKIB0)
+        
+        ![Image 3617: Marquez](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/marquez_qlzaia.png?_a=AVADKIB0)
+        
+        ![Image 3618: Great Expectations](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/great_expectations_p31i5q.svg?_a=AVADKIB0)
+        
+        ![Image 3619: LakeFS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/lakefs_r9l9zu.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3620: Elementary](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Elementary_spljqj.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3621: Metacat](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Metacat_fltjyz.png?_a=AVADKIB0)
+        
+        ![Image 3622: OpenLineage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/OpenLineage_jktlwk.png?_a=AVADKIB0)
+        
+        ![Image 3623: Ckan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ckan_worc6j.png?_a=AVADKIB0)
+        
+        ![Image 3624: Project Nessie](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/project_nessie_cdwfzl.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3625: Singer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Singer_io__rvorag.png?_a=AVADKIB0)
+        
+    *   [Databases](https://mad.firstmark.com/card#reclHDJaxS2xehDjl)
+        
+        ![Image 3626: PostgreSQL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/postgreSQL_yxsppe.png?_a=AVADKIB0)
+        
+        ![Image 3627: MySQL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mysql_ygxorl.png?_a=AVADKIB0)
+        
+        ![Image 3628: MongoDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MongoDB_sggtir.svg?_a=AVADKIB0)
+        
+        ![Image 3629: Redis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Redis_fvyl1d.svg?_a=AVADKIB0)
+        
+        ![Image 3630: Cockroach Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cockroach_DB_dmovcx.jpg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3631: SQLite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sqlite_phgcur.png?_a=AVADKIB0)
+        
+        ![Image 3632: Apache Cassandra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_cassandra_wu1nkj.png?_a=AVADKIB0)
+        
+        ![Image 3633: MariaDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/maria_db_xrvhdl.png?_a=AVADKIB0)
+        
+        ![Image 3634: InfluxDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/influxdb_jrzncr.png?_a=AVADKIB0)
+        
+        ![Image 3635: Apache HBase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Hbase_fbfrmc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3636: Firebird](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/logo-firebird-black_lgthfg.png?_a=AVADKIB0)
+        
+        ![Image 3637: Supabase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/supabase_m0ownu.svg?_a=AVADKIB0)
+        
+        ![Image 3638: Timescale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Timescale_ovntke.svg?_a=AVADKIB0)
+        
+        ![Image 3639: SurrealDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Surreal_DB_tt9sbl.png?_a=AVADKIB0)
+        
+        ![Image 3640: Milvus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Milvus_bgcyfd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3641: Chroma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/chroma_ckmlnk.png?_a=AVADKIB0)
+        
+        ![Image 3642: Weaviate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/weaveate_wifz65.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3643: Neon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Neon-Logo_tkdtkf.png?_a=AVADKIB0)
+        
+        ![Image 3644: EdgeDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/edgedb_zfvupp.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3645: RocksDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/rocksdb_qpcjwj.png?_a=AVADKIB0)
+        
+        ![Image 3646: SciDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/SciDB-Py_v3jzvr.png?_a=AVADKIB0)
+        
+        ![Image 3647: OpenTSDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/openTSD_r3bdhk.png?_a=AVADKIB0)
+        
+        ![Image 3648: CouchDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_couchDB_qzhnt2.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3649: LevelDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LevelDB_ch2lp6.png?_a=AVADKIB0)
+        
+        ![Image 3650: Riak](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/riak_hxypjt.svg?_a=AVADKIB0)
+        
+        ![Image 3651: Accumulo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Accumulo_ylsrh0.svg?_a=AVADKIB0)
+        
+        ![Image 3652: Apache Flume](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_flume_aau5ft.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3653: Apache Ignite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/apache_ignite_yxa0gs.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3654: FoundationDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/FDB_logo_vrikam.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3655: TiKV](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/tikv-horizontal-color_asssdz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3656: SpiceDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/spicedb_m9kksx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3657: Oceanbase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Oceanbase_eatwrq.png?_a=AVADKIB0)
+        
+    *   [OLAP](https://mad.firstmark.com/card#recR9m3h2jcNXQkFp)
+        
+        ![Image 3658: ClickHouse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Clickhouse_ev5mlp.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3659: StarRocks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/starrocks-logo_rn7ief.png?_a=AVADKIB0)
+        
+        ![Image 3660: Druid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Druid_zpsf80.png?_a=AVADKIB0)
+        
+        ![Image 3661: Pinot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pinot_bhalrd.png?_a=AVADKIB0)
+        
+        ![Image 3662: Apache Kylin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_kylin_toutsf.png?_a=AVADKIB0)
+        
+        ![Image 3663: DuckDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DuckDB_l9lsp0.png?_a=AVADKIB0)
+        
+        ![Image 3664: Trino](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/trino_vmoudq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3665: DataBend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Databend_xr3fxm.png?_a=AVADKIB0)
+        
+        ![Image 3666: Doris](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Doris_usft5d.svg?_a=AVADKIB0)
+        
+    *   [Orchestration](https://mad.firstmark.com/card#recjmMtyR7rIP6L1F)
+        
+        ![Image 3667: Apache Airflow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_airflow_mxisbx.svg?_a=AVADKIB0)
+        
+        ![Image 3668: Prefect](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/prefect_aawz5x.png?_a=AVADKIB0)
+        
+        ![Image 3669: Dagster](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/dagster_bn4iee.svg?_a=AVADKIB0)
+        
+        ![Image 3670: Flyte](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/flyte_t70e82.png?_a=AVADKIB0)
+        
+        ![Image 3671: Metaflow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/metaflow_t5qfyc.png?_a=AVADKIB0)
+        
+        ![Image 3672: Luigi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/luigi_slkd6f.png?_a=AVADKIB0)
+        
+        ![Image 3673: Argo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Argo_cgfz5t.png?_a=AVADKIB0)
+        
+        ![Image 3674: Mage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mage_iwwruf.png?_a=AVADKIB0)
+        
+        ![Image 3675: Kestra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kestra.io_kkofmb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3676: DolphinScheduler](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DolphinScheduler-Logo_vfgxuc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3677: Cadence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cadence_workflow_gznfp7.png?_a=AVADKIB0)
+        
+    *   [Infrastructure](https://mad.firstmark.com/card#recNyBduKyOdZqDxt)
+        
+        ![Image 3678: Apache Zookeeper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Zookeeper_svegqf.svg?_a=AVADKIB0)
+        
+        ![Image 3679: Apache Ambari](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_ambari_rpwzg2.png?_a=AVADKIB0)
+        
+        ![Image 3680: Apache Mesos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Mesos_drfc0l.svg?_a=AVADKIB0)
+        
+    *   [Streaming & Messaging](https://mad.firstmark.com/card#rec8VLrSw9QQEa1uP)
+        
+        ![Image 3681: Spark Streaming](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Spark_Streaming_cllhwf.png?_a=AVADKIB0)
+        
+        ![Image 3682: Kafka](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_kafka_xthvvs.svg?_a=AVADKIB0)
+        
+        ![Image 3683: Flink](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Flink_u2l8px.png?_a=AVADKIB0)
+        
+        ![Image 3684: Apache Beam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_beam_vjxuo1.png?_a=AVADKIB0)
+        
+        ![Image 3685: Storm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/apache_storm_wmpfoj.png?_a=AVADKIB0)
+        
+        ![Image 3686: Pulsar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pulsar_b750sy.png?_a=AVADKIB0)
+        
+        ![Image 3687: RabbitMQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/RabbitMQ_bcloz8.png?_a=AVADKIB0)
+        
+        ![Image 3688: Apache RocketMQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_RocketMQ_pcwcpg.png?_a=AVADKIB0)
+        
+        ![Image 3689: Samza](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/samza_gmsr6v.svg?_a=AVADKIB0)
+        
+        ![Image 3690: Nifi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/apache_nifi_fet7so.png?_a=AVADKIB0)
+        
+        ![Image 3691: Debezium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/debezium_gbgpwu.svg?_a=AVADKIB0)
+        
+        ![Image 3692: Estuary Flow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Estuary_Flow_rv0den.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3693: Apache ActiveMQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/activemq_wtshwo.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3694: Mosquitto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mosquitto-text-side-28_wtieeu.png?_a=AVADKIB0)
+        
+        ![Image 3695: Memphis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Memphis_igunid.png?_a=AVADKIB0)
+        
+        ![Image 3696: Bytewax](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bytewax_h0z3kq.png?_a=AVADKIB0)
+        
+        ![Image 3697: Gazette](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Gazette_q8evth.png?_a=AVADKIB0)
+        
+    *   [Stat Languages](https://mad.firstmark.com/card#recQaYwGg19cLIOxG)
+        
+        ![Image 3698: Python](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/python_wu30bi.svg?_a=AVADKIB0)
+        
+        ![Image 3699: R](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/R_biepe5.png?_a=AVADKIB0)
+        
+        ![Image 3700: Scala](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Scala_knvr3q.png?_a=AVADKIB0)
+        
+        ![Image 3701: NumPy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/numpy_vxioix.svg?_a=AVADKIB0)
+        
+        ![Image 3702: Julia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/julia_twcgbw.svg?_a=AVADKIB0)
+        
+        ![Image 3703: SciPy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/scipy_m5l14t.png?_a=AVADKIB0)
+        
+        ![Image 3704: Pyro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pyro_kc75gl.png?_a=AVADKIB0)
+        
+        ![Image 3705: GNU Octave](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/GNU_Octave_af1jtx.png?_a=AVADKIB0)
+        
+        ![Image 3706: Datatable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/datatable_xksz9i.png?_a=AVADKIB0)
+        
+        ![Image 3707: Tidyverse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tidyverse_vmejl5.png?_a=AVADKIB0)
+        
+        ![Image 3708: Stan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stan_qtmge4.png?_a=AVADKIB0)
+        
+    *   [MLOps & AI Infra](https://mad.firstmark.com/card#recdRNLWaU95VoEj3)
+        
+        ![Image 3709: Langchain](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/LangChain_dviwl3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3710: PrivateGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Private_GPT_j1qtaf.png?_a=AVADKIB0)
+        
+        ![Image 3711: MediaPipe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/MediaPipe_mqfxfe.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3712: Jina](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/jina_r58wdx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3713: mindsdb](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mindsdb_o3lxuh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3714: Flowise](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Flowise_AI_fb2e09.png?_a=AVADKIB0)
+        
+        ![Image 3715: MLFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/MLflow_wzmuwh.png?_a=AVADKIB0)
+        
+        ![Image 3716: KubeFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kubeflow_mwcy1h.png?_a=AVADKIB0)
+        
+        ![Image 3717: DVC](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DVC_xf9r6f.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3718: Dify](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dify_z94eip.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3719: Cortex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cortex_zh7ch8.png?_a=AVADKIB0)
+        
+        ![Image 3720: Pachyderm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Pachyderm_jccwhu.png?_a=AVADKIB0)
+        
+        ![Image 3721: BentoML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bento_ML_ytubft.png?_a=AVADKIB0)
+        
+        ![Image 3722: Snorkel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Snorkel_yv93xz.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3723: Chainlit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Chainlit_npen0r.png?_a=AVADKIB0)
+        
+        ![Image 3724: Polyaxon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/polyaxon_kfbspx.png?_a=AVADKIB0)
+        
+        ![Image 3725: Ollama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ollama_nlfw08.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3726: ZenML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ZenML_ilj9f3.png?_a=AVADKIB0)
+        
+        ![Image 3727: Deepchecks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deepchecks_yfjmmj.png?_a=AVADKIB0)
+        
+        ![Image 3728: mLeap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mleap_hkngd9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3729: Gorilla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Gorilla_ho6fg7.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3730: CausalML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/causalml_logo_s0mvz9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3731: vLLM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/vLLM_cnch9o.png?_a=AVADKIB0)
+        
+    *   [AI Frameworks, Tools & Libraries](https://mad.firstmark.com/card#recNBsSwafbP13zgk)
+        
+        ![Image 3732: PyTorch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/PyTorch_gynbag.png?_a=AVADKIB0)
+        
+        ![Image 3733: TensorFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tensorflow_tmrtat.png?_a=AVADKIB0)
+        
+        ![Image 3734: PyTorch Lightning](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/PyTorch_gynbag.png?_a=AVADKIB0)
+        
+        ![Image 3735: Scikit-learn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Scikit_learn_inq2tq.svg?_a=AVADKIB0)
+        
+        ![Image 3736: Keras](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/keras_uq1h2q.png?_a=AVADKIB0)
+        
+        ![Image 3737: Hugging Face Candle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hugging_Face_Candle_uze70j.png?_a=AVADKIB0)
+        
+        ![Image 3738: Fast.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/fastai_cfspwu.png?_a=AVADKIB0)
+        
+        ![Image 3739: OpenCV](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/OpenCV_gevnc6.png?_a=AVADKIB0)
+        
+        ![Image 3740: Microsoft CNTK](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Microsoft-CogTK_ovxd9s.png?_a=AVADKIB0)
+        
+        ![Image 3741: dmlc XGBoost](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/xgboost_tgp46k.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3742: AutoGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/auto_gpt_ynqkpc.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3743: DeepLearning4J](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DL4J_irlqqp.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3744: Caffe2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/caffe2_t3zhui.png?_a=AVADKIB0)
+        
+        ![Image 3745: PostgresML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/postgresML_boea5x.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3746: DeepSpeed](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/deepspeed_sfeagn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3747: SuperAGI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SuperAGI_lqznqr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3748: BabyAGI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/BabyAGI-Logo_e3b4dr.png?_a=AVADKIB0)
+        
+        ![Image 3749: PaddlePaddle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Paddle_Paddle_rwfzie.png?_a=AVADKIB0)
+        
+        ![Image 3750: Mxnet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mxnet_nmgtwq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3751: Sonnet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sonnet_logo_godvau.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3752: Pycaret](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/pycaret_r7qpsh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3753: JARVIS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Jarvis_vc8mqx.png?_a=AVADKIB0)
+        
+        ![Image 3754: Chainer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/chainer_y8n31r.png?_a=AVADKIB0)
+        
+        ![Image 3755: ONNX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/onnx_n4wi2p.png?_a=AVADKIB0)
+        
+        ![Image 3756: Ludwig](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Ludwig_pnlrvv.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3757: Optuna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/optuna-logo_fx2eo4.png?_a=AVADKIB0)
+        
+        ![Image 3758: Horovod](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Horovod_d03hok.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3759: Apache Spark](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Apache_Spark_fyqyuk.png?_a=AVADKIB0)
+        
+        ![Image 3760: H2O.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/H2oai_hiiklu.png?_a=AVADKIB0)
+        
+        ![Image 3761: CoreNLP](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CoreNLP_alynyb.png?_a=AVADKIB0)
+        
+        ![Image 3762: apache Singa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Singa_qymxyq.png?_a=AVADKIB0)
+        
+        ![Image 3763: Kedro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kedro_y072br.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3764: OpenNN](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenNN_logo_q2rcfi.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3765: TimeGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Nixtla_TimeGPT_dlm0cp.png?_a=AVADKIB0)
+        
+    *   [AI Models & Architectures](https://mad.firstmark.com/card#recF78C1OB6dVqbiL)
+        
+        New
+        
+        ![Image 3766: Meta LLaMA 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Meta_AI_Llama_2_xexbmb.png?_a=AVADKIB0)
+        
+        ![Image 3767: Stable Diffusion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stability_ai_stable_diffusion_bapamk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3768: Mistral 7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Mistral_7b_bg1c8c.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3769: Google Gemma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Gemma_mbuxl8.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3770: Falcon 180B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Falcon_180B_lgn8ob.png?_a=AVADKIB0)
+        
+        ![Image 3771: Bloom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BigScience_Bloom_ctlqgb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3772: Vicuna 13B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hugging_Face_Vicuna-13B_q5dge0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3773: OpenAI Whisper v3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenAI_Whisper-v3_rcvakv.png?_a=AVADKIB0)
+        
+        ![Image 3774: OpenAI GPT2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/OpenAI_gpt2_dzjbhj.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3775: Mistral 7B Instruct](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Mistral_7b_Instruct_lujofu.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3776: Google PaLM 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/GoogleAI_PaLM_2_nsb2ku.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3777: EleutherAI Pythia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/EleutherAI_Pythia_hxk2dd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3778: Yi 34B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/01ai_Yi-34B_vxpja7.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3779: Together.ai RedPajama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/togetherai_redpajama_wskcii.png?_a=AVADKIB0)
+        
+        ![Image 3780: EleutherAI GPT-J-6B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EleutherAI_gpt-j-6B_r2q82n.png?_a=AVADKIB0)
+        
+        ![Image 3781: EleutherAI GPT-Neo-2.7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EleutherAI_gpt-neo-2.7B_oqvusn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3782: Together.ai StripedHyena 7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/togetherai_StripedHyena-7B_pvjt0u.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3783: Databricks Dolly v2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/togetherai_StripedHyena-7B_pvjt0u.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3784: MosaicML MPT 7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/togetherai_StripedHyena-7B_pvjt0u.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3785: Hugging Face Zephyr 7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hugging_Face_Zephyr-7B_wpoz4e.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3786: Microsoft Phi 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/microsoft_Phi-2_uyrrai.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3787: Mamba 2.8B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/microsoft_Phi-2_uyrrai.png?_a=AVADKIB0)
+        
+        ![Image 3788: Google Research Bert](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_Bert_dttc3p.png?_a=AVADKIB0)
+        
+        ![Image 3789: Google Research T5](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_T5_kzfbum.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3790: Cerebras GPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cerebras-gpt_pkc8fg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3791: Alpaca 7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Stanford_Alpaca_o665ps.png?_a=AVADKIB0)
+        
+        ![Image 3792: DeepMind AlphaFold](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeepMind_AlphaFold_jfxmip.png?_a=AVADKIB0)
+        
+        ![Image 3793: Meta AI BlenderBot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Meta_AI_blenderbot_j0axhq.png?_a=AVADKIB0)
+        
+        ![Image 3794: RoBERTa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/RoBERTa_ldnnji.png?_a=AVADKIB0)
+        
+        ![Image 3795: DistilBERT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DistilBERT_my2isj.png?_a=AVADKIB0)
+        
+        ![Image 3796: Google AI Flan-T5](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/GoogleAI_Flan-T5_brdpw1.png?_a=AVADKIB0)
+        
+        ![Image 3797: XLNet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/XLNet_cwz6p2.png?_a=AVADKIB0)
+        
+        ![Image 3798: Meta AI ESM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Meta_AI_ESM_iai1l7.png?_a=AVADKIB0)
+        
+        ![Image 3799: Meta AI Diplomacy Cicero](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Meta_AI_Cicero_p7sqlo.png?_a=AVADKIB0)
+        
+        ![Image 3800: Meta AI OPT-66B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Meta_AI_OPT-66B_grggok.png?_a=AVADKIB0)
+        
+        ![Image 3801: Google Research Transformer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_Transformer_vg84pm.png?_a=AVADKIB0)
+        
+        ![Image 3802: Nvidia Megatron](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nvidia_Megatron_mnkaps.png?_a=AVADKIB0)
+        
+        ![Image 3803: Google Research Dremix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_Dreamix_ctonoe.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3804: Codium AlphaCodium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/codium_ai_Alpha_Codium_o3emwb.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3805: Google DeepMind AlphaGeometry](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Google_Deepmind_AlphaGeometry_xuxy4j.png?_a=AVADKIB0)
+        
+    *   [Search](https://mad.firstmark.com/card#recI5vZhGJmZ2GhCL)
+        
+        ![Image 3806: Solr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/solr_av7fan.png?_a=AVADKIB0)
+        
+        ![Image 3807: Lucene](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/apache-lucene_swadct.svg?_a=AVADKIB0)
+        
+        ![Image 3808: Elasticsearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Elasticsearch_logo.svg_iuixcp.png?_a=AVADKIB0)
+        
+        ![Image 3809: Meilisearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/meilisearch_hjfhuw.svg?_a=AVADKIB0)
+        
+        ![Image 3810: Sonic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sonic_vyiol7.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3811: Typesense](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Typesense_s0sto3.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3812: Opensearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Opensearch_Logo.svg_kif8et.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3813: Swirl](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/swirl_n12ljz.png?_a=AVADKIB0)
+        
+        ![Image 3814: Toshi Search](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Toshi_Search_zdmudw.png?_a=AVADKIB0)
+        
+        ![Image 3815: Tantivy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tantivy_algwlt.png?_a=AVADKIB0)
+        
+    *   [Local AI](https://mad.firstmark.com/card#recEd0ErWy28XViMz)
+        
+        New
+        
+        ![Image 3816: LangChain OpenLLM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenLLM_waflft.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3817: Llama.cpp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Llamacpp_o5x0uu.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3818: Ollama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/llamafile_k4vsjm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3819: GPT4ALL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/GPT4All_nkhswj.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3820: text-generation-webui](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Text_Generation_Web_UI_kptkc7.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3821: LocalGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LocalGPT_nq76n8.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3822: llamafile](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/llamafile_k4vsjm.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3823: LMStudio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LM_Studio_qsfvtl.png?_a=AVADKIB0)
+        
+    *   [Logging & Monitoring](https://mad.firstmark.com/card#rec5HHAsNBME7dcSx)
+        
+        ![Image 3824: Elastic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Elastic_rdsmvs.svg?_a=AVADKIB0)
+        
+        ![Image 3825: Grafana](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Grafana_wfj0r6.png?_a=AVADKIB0)
+        
+        ![Image 3826: Prometheus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/prometheus_g8gqss.png?_a=AVADKIB0)
+        
+        ![Image 3827: Sentry](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sentry_yqs8kq.png?_a=AVADKIB0)
+        
+        ![Image 3828: OpenTelemetry](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Opentelemetry_vammbd.png?_a=AVADKIB0)
+        
+        ![Image 3829: Logstash](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/logstash_masv7z.png?_a=AVADKIB0)
+        
+        ![Image 3830: Fluentd](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/fluentd_dwkxc3.png?_a=AVADKIB0)
+        
+        ![Image 3831: Fluentbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/fluentbit_eihn1q.png?_a=AVADKIB0)
+        
+        ![Image 3832: Vector](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Vector_exqujx.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3833: SigNoz](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SigNoz_yshnsk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3834: OpenObserve](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenObserve_p1ovly.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3835: Graylog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/graylog-logo_tpy86f.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3836: Highlight.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/highlight_lzcht4.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3837: Syslog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/syslog_pvtcla.png?_a=AVADKIB0)
+        
+    *   [Visualization](https://mad.firstmark.com/card#recZS175pSdfiT6aI)
+        
+        ![Image 3838: D3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/D3JS_fehmmq.png?_a=AVADKIB0)
+        
+        ![Image 3839: Matplotlib](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/matplotlib_djsblr.svg?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3840: Plotly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Plotly_az84tk.png?_a=AVADKIB0)
+        
+        ![Image 3841: redash](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/redash_sox1ia.png?_a=AVADKIB0)
+        
+        ![Image 3842: Superset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Superset_psabjc.png?_a=AVADKIB0)
+        
+        ![Image 3843: TensorBoard](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tensorboard_fln6mg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3844: PyGWalker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/pygwalker_k15mer.png?_a=AVADKIB0)
+        
+        ![Image 3845: Seaborn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/seaborn_xjmezt.svg?_a=AVADKIB0)
+        
+        ![Image 3846: Bokeh](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bokeh_pr3sbf.png?_a=AVADKIB0)
+        
+        ![Image 3847: ggplot2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ggplot2_znz5tw.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3848: Datawrapper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/datawrapper_gsuuzh.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3849: Rawgraphs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/RAWGraphs_Logo_yjjzgb.png?_a=AVADKIB0)
+        
+    *   [Collaboration](https://mad.firstmark.com/card#rec3rydlPRbTWpodG)
+        
+        ![Image 3850: BeakerX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BeakerX_jltu0w.png?_a=AVADKIB0)
+        
+        ![Image 3851: Jupyter](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Jupyter_pb8jzb.png?_a=AVADKIB0)
+        
+        ![Image 3852: Zeppelin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Zepplin_eke4of.png?_a=AVADKIB0)
+        
+        ![Image 3853: RStudio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/RStudio-Logo-Flat_pg7n5p.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3854: Polynote](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/polynote_uj0jdj.png?_a=AVADKIB0)
+        
+*   [Data Sources & APIs](https://mad.firstmark.com/card#rec6wqQvYv6wFA1UN)
+    *   [Data Marketplaces & Discovery](https://mad.firstmark.com/card#recpQsghz771y9le3)
+        
+        ![Image 3855: AWS Data Exchange](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Data_Exchange_zful00.png?_a=AVADKIB0)
+        
+        ![Image 3856: Snowflake Data Exchange](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/snowflake_data_exchange_rzdfcg.png?_a=AVADKIB0)
+        
+        ![Image 3857: Dawex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dawex_dawypc.png?_a=AVADKIB0)
+        
+        ![Image 3858: Explorium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Explorium_kftbqr.png?_a=AVADKIB0)
+        
+        ![Image 3859: IBM Asset eXchange](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Asset_eXchange_bq31hf.png?_a=AVADKIB0)
+        
+        ![Image 3860: SAP Data Marketplace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SAP_Data_Marketplace_xdbpgt.png?_a=AVADKIB0)
+        
+        ![Image 3861: Oracle Data Marketplace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Oracle_Data_Marketplace_bhxo3y.png?_a=AVADKIB0)
+        
+        ![Image 3862: Databricks Marketplace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Databricks_marketplace_ipdux5.png?_a=AVADKIB0)
+        
+        ![Image 3863: Google Dataset Search ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Dataset_Search_iqtwza.png?_a=AVADKIB0)
+        
+        ![Image 3864: Datarade](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datarade_kjootl.png?_a=AVADKIB0)
+        
+        ![Image 3865: Eagle Alpha](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Eagle_Alpha_gm4nan.png?_a=AVADKIB0)
+        
+        ![Image 3866: Nomad Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nomad_data_blm4jf.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3867: Neudata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Neudata_wbtych.png?_a=AVADKIB0)
+        
+    *   [Financial & Market Data](https://mad.firstmark.com/card#recEEwLIgt2ujp89L)
+        
+        ![Image 3868: Bloomberg](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bloomberg_qyjm0n.svg?_a=AVADKIB0)
+        
+        ![Image 3869: Thomson Reuters](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/thomson-reuters_beysej.svg?_a=AVADKIB0)
+        
+        ![Image 3870: Dow Jones](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dow_Jones_pkzfpn.png?_a=AVADKIB0)
+        
+        ![Image 3871: Nasdaq Data Link](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Nasdaq_Data_Link_xjhus2.png?_a=AVADKIB0)
+        
+        ![Image 3872: S&P Global Market Intelligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/S_P_Global_Market_Intelligence_a7a5mk.png?_a=AVADKIB0)
+        
+        ![Image 3873: Preqin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/PREQIN_wg97ef.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3874: Sparta Commodities](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sparta_uzg3ny.png?_a=AVADKIB0)
+        
+        ![Image 3875: Plaid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/plaid_pgn8xq.svg?_a=AVADKIB0)
+        
+        ![Image 3876: Pitchbook](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Pitchbook_ymdxrw.png?_a=AVADKIB0)
+        
+        ![Image 3877: Crunchbase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Crunchbase_dcanca.png?_a=AVADKIB0)
+        
+        ![Image 3878: CB Insights](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CB_Insights_yvwhcg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3879: Cybersyn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Crunchbase_dcanca.png?_a=AVADKIB0)
+        
+        ![Image 3880: The World Bank](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/world_bank_w0g0fv.png?_a=AVADKIB0)
+        
+        ![Image 3881: Signal AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/signalAI_ncvbuv.png?_a=AVADKIB0)
+        
+        ![Image 3882: Factset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Factset_ig33wb.svg?_a=AVADKIB0)
+        
+        ![Image 3883: International Monetary Fund](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/international_monetary_fund_b87iaf.svg?_a=AVADKIB0)
+        
+        ![Image 3884: StockTwits](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stocktwits_pfuobs.png?_a=AVADKIB0)
+        
+        ![Image 3885: xignite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Xignite_m74upk.svg?_a=AVADKIB0)
+        
+        ![Image 3886: Intrinio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/intrinio_klh4dh.png?_a=AVADKIB0)
+        
+        ![Image 3887: DataBento](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databento_hbmvqq.png?_a=AVADKIB0)
+        
+        ![Image 3888: Earnest Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/earnest_analytics_osaksq.png?_a=AVADKIB0)
+        
+        ![Image 3889: Enigma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/enigma_uyffkv.png?_a=AVADKIB0)
+        
+        ![Image 3890: Refinitiv](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Refinitiv_o1g1kl.png?_a=AVADKIB0)
+        
+        ![Image 3891: SEC EDGAR](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SEC_Edgar_joufey.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3892: Kpler](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Crunchbase_dcanca.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3893: SourceScrub](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sourcescrub_y4goku.png?_a=AVADKIB0)
+        
+        ![Image 3894: MX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MX_pnxuba.png?_a=AVADKIB0)
+        
+        ![Image 3895: Tink](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tink_rqupoi.png?_a=AVADKIB0)
+        
+        ![Image 3896: SmartNews](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/smartnews_asksjg.png?_a=AVADKIB0)
+        
+        ![Image 3897: Truelayer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/truelayer_wbd1b0.png?_a=AVADKIB0)
+        
+        ![Image 3898: Kaiko](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kaiko_mjsvnv.png?_a=AVADKIB0)
+        
+        ![Image 3899: dv01](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DV01_ubzjmy.png?_a=AVADKIB0)
+        
+        ![Image 3900: Canoe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Canoe_v6cwyv.svg?_a=AVADKIB0)
+        
+        ![Image 3901: Coinmetrics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/coinmetrics_o9ygft.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3902: GoQuant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/GoQuant_kgbphj.png?_a=AVADKIB0)
+        
+    *   [Air/Space/Sea](https://mad.firstmark.com/card#recedfVBLVT7Lt96K)
+        
+        ![Image 3903: Orbital Insight](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/orbitalinsight_a14ioe.svg?_a=AVADKIB0)
+        
+        ![Image 3904: Spire](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/spire_cymhlq.png?_a=AVADKIB0)
+        
+        ![Image 3905: Preligens](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Preligens_nszb2q.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3906: Planet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Planet_logo_fccn2f.png?_a=AVADKIB0)
+        
+        ![Image 3907: Loft Orbital](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/loft_orbital_evm3r3.png?_a=AVADKIB0)
+        
+        ![Image 3908: Windward](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/windward_x1q224.png?_a=AVADKIB0)
+        
+        ![Image 3909: MarineTraffic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/marine_traffic_thvawk.png?_a=AVADKIB0)
+        
+        ![Image 3910: Freightwaves](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/FreightWaves-1_navp82.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3911: Mobito](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Mobito_bhpwdp.png?_a=AVADKIB0)
+        
+        ![Image 3912: RS Metrics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/RS_metrics_mzmil8.png?_a=AVADKIB0)
+        
+        ![Image 3913: Qianxun SI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Qianxun_SI_kkm7tv.png?_a=AVADKIB0)
+        
+        ![Image 3914: Synspective](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/synspective_logo_pjsvab.svg?_a=AVADKIB0)
+        
+        ![Image 3915: Eagleview](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/eagleview_vgaag0.png?_a=AVADKIB0)
+        
+        ![Image 3916: ICEYE](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Iceye_x9lxon.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3917: BlackSky](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/BlackSky_Logo_p9abga.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3918: Capella Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Capella_Space_m8qhe4.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3919: HawkEye 360](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/HawkEye_360_Logo_mnrl8z.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3920: Satellogic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Satellogic_zgexpb.png?_a=AVADKIB0)
+        
+    *   [People/Entities](https://mad.firstmark.com/card#recgk51u4KBLZ3KfA)
+        
+        ![Image 3921: Zoominfo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zoominfo_b9dexm.svg?_a=AVADKIB0)
+        
+        ![Image 3922: Acxiom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/acxiom_owkd9t.png?_a=AVADKIB0)
+        
+        ![Image 3923: Experian](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/experian_yjrjmo.svg?_a=AVADKIB0)
+        
+        ![Image 3924: Epsilon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/epsilon_ynst3b.png?_a=AVADKIB0)
+        
+        ![Image 3925: Klue](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/klue_hsg67t.svg?_a=AVADKIB0)
+        
+        ![Image 3926: Brandwatch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/brandwatch_w5hqs6.svg?_a=AVADKIB0)
+        
+        ![Image 3927: Quantcast](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Quantcast_llr205.png?_a=AVADKIB0)
+        
+        ![Image 3928: Cognism](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cognism_apvyjp.png?_a=AVADKIB0)
+        
+        ![Image 3929: Apollo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Apollo_io_ktovmh.png?_a=AVADKIB0)
+        
+        ![Image 3930: Clearbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/clearbit_xtxmnw.png?_a=AVADKIB0)
+        
+        ![Image 3931: People Data Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/people_data_labs_dyqp1e.png?_a=AVADKIB0)
+        
+        ![Image 3932: Databook](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Databook_vrxebl.png?_a=AVADKIB0)
+        
+        ![Image 3933: Melissa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/melissa_xnlknu.png?_a=AVADKIB0)
+        
+        ![Image 3934: Zignal Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/zignal_labs_zqkgyj.svg?_a=AVADKIB0)
+        
+        ![Image 3935: Dun & bradstreet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/dun_bradstreet_icvthl.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3936: Brew](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Brew_logo_j32ai1.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3937: Crayon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Crayon_msgowy.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3938: Ocean.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Ocean_io_pedzdr.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3939: UpLead](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/UpLead-logo_zhqixt.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3940: AroundDeal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/AroundDeal_ojpvfp.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3941: Tarci](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Tarci_ji3ezg.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3942: Lusha](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lusha_xhiwry.png?_a=AVADKIB0)
+        
+    *   [Location Intelligence](https://mad.firstmark.com/card#recp8bSZEE2fWEWED)
+        
+        ![Image 3943: Foursquare](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/foursquare_t1yk1a.png?_a=AVADKIB0)
+        
+        ![Image 3944: mapbox](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mapbox_ksm02i.png?_a=AVADKIB0)
+        
+        ![Image 3945: Safegraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/safegraph_r5rgoo.png?_a=AVADKIB0)
+        
+        ![Image 3946: Sense360](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sense360_f0mees.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3947: Dataplor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dataplor_gldj18.png?_a=AVADKIB0)
+        
+        ![Image 3948: Unacast](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/unacast_kuudjm.svg?_a=AVADKIB0)
+        
+        ![Image 3949: PlaceIQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/PlaceIQ_fiblyu.png?_a=AVADKIB0)
+        
+        ![Image 3950: Esri](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/esri_pqvwpn.svg?_a=AVADKIB0)
+        
+        ![Image 3951: Carto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/carto_tqf5j8.png?_a=AVADKIB0)
+        
+        ![Image 3952: Radar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/radar_rqjurf.png?_a=AVADKIB0)
+        
+        ![Image 3953: Placer.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/placerAI_cqdhtn.png?_a=AVADKIB0)
+        
+        ![Image 3954: Cuebiq](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cuebiq_dpf5bj.png?_a=AVADKIB0)
+        
+        ![Image 3955: OpenStreetMap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/OpenStreetMap_s4djkv.png?_a=AVADKIB0)
+        
+        ![Image 3956: CleverMaps](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CleverMaps_qjzoos.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3957: Spatial](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/spatial_geztwn.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3958: Galigeo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Galigeo_eseo0u.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3959: Veraset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Veraset_yh3hw4.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3960: CAP Locations](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/CAP_da8mjo.png?_a=AVADKIB0)
+        
+    *   [ESG](https://mad.firstmark.com/card#recC9MzrYSQNAl46E)
+        
+        ![Image 3961: Sustainalytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sustainalytics_r0zewe.png?_a=AVADKIB0)
+        
+        ![Image 3962: MSCI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/msci_ryaqxq.png?_a=AVADKIB0)
+        
+        ![Image 3963: Truvalue Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Truvalue_labs_n1jn3s.png?_a=AVADKIB0)
+        
+        ![Image 3964: RepRisk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Reprisk_t9r2hc.png?_a=AVADKIB0)
+        
+        ![Image 3965: ESG Book](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/esgbook_ps3tu1.png?_a=AVADKIB0)
+        
+        ![Image 3966: ISS ESG](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/iss_esg_n2oygr.png?_a=AVADKIB0)
+        
+        ![Image 3967: Clarity AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Clarity_AI_cwgjb0.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3968: Watershed](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Watershed_mk9q2r.png?_a=AVADKIB0)
+        
+        ![Image 3969: Arcadia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Arcadia_kyu7x7.png?_a=AVADKIB0)
+        
+        ![Image 3970: Novisto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/novisto_n7qly6.png?_a=AVADKIB0)
+        
+        ![Image 3971: Nossa Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nossa_Data_z4ssvu.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3972: ESG Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/esg_analytics_p56lto.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3973: Owl ESG](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OWL_ESG_opfj07.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3974: Kayrros](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kayrros_evrbqk.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3975: Gist Impact](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/gist_impact_cmh9hl.png?_a=AVADKIB0)
+        
+*   [Data & AI Consulting](https://mad.firstmark.com/card#rec4dmGEn3LQOizMO)
+    *   [Data & AI Consulting](https://mad.firstmark.com/card#recOoH9sErCBdkwAk)
+        
+        ![Image 3976: QuantumBlack AI by McKinsey](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Quantum_Black_cfebco.png?_a=AVADKIB0)
+        
+        ![Image 3977: BCGX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BCG_X_eqrl6l.png?_a=AVADKIB0)
+        
+        ![Image 3978: Deloitte AI Institute](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deloitte_AI_Institute_ooq20m.png?_a=AVADKIB0)
+        
+        ![Image 3979: IBM AI Consulting](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_AI_Consulting_gszbfh.png?_a=AVADKIB0)
+        
+        ![Image 3980: Cambridge Consultants](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cambridge_Consulting_AI_Consulting_jgdq4f.png?_a=AVADKIB0)
+        
+        ![Image 3981: LeewayHertz](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/LeewayHertz_c2btob.png?_a=AVADKIB0)
+        
+        ![Image 3982: Slalom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Slalom_ivwjrq.png?_a=AVADKIB0)
+        
+        ![Image 3983: Seattle Data Guy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Seattle_Data_Guy_bfgbwi.svg?_a=AVADKIB0)
+        
+        ![Image 3984: Brooklyn Data Co](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Brooklyn_Data_Co_rggupt.png?_a=AVADKIB0)
+        
+        ![Image 3985: Ternary Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ternary_Data_l5qgst.png?_a=AVADKIB0)
+        
+        ![Image 3986: System 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/sstm2_pzdxvo.png?_a=AVADKIB0)
+        
+        ![Image 3987: Tribe.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Tribe_AI_x0zuey.png?_a=AVADKIB0)
+        
+        ![Image 3988: KPMG Lighthouse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/NTT_Data_mljsc8.png?_a=AVADKIB0)
+        
+        ![Image 3989: itrex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/itrex_zvjyds.png?_a=AVADKIB0)
+        
+        ![Image 3990: Deeper Insights](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deeper_Insights_bfauwz.png?_a=AVADKIB0)
+        
+        ![Image 3991: DataRootLabs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Data_Root_Labs_allwqx.png?_a=AVADKIB0)
+        
+        ![Image 3992: InData Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/InData_Labs_xwbx7d.png?_a=AVADKIB0)
+        
+        ![Image 3993: ThirdEye](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ThirdEye_Data_mvxzaw.png?_a=AVADKIB0)
+        
+        ![Image 3994: Azati](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azati_hdmtbk.png?_a=AVADKIB0)
+        
+        ![Image 3995: Addepto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Addepto_jifvix.png?_a=AVADKIB0)
+        
+        ![Image 3996: Upright Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/upsolver_pfheat.png?_a=AVADKIB0)
+        
+        ![Image 3997: Bytecode IO](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bytecode_vbs4hw.png?_a=AVADKIB0)
+        
+        ![Image 3998: Rackspace Onica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/onica_g0path.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 3999: BlueOrange](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/BlueOrange_fhnsfe.png?_a=AVADKIB0)
+        
+        ![Image 4000: Leit Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Leit_Data_apevry.png?_a=AVADKIB0)
+        
+        ![Image 4001: Meru](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/MERU_logo_400x92_eqi8zm.png?_a=AVADKIB0)
+        
+        ![Image 4002: Big Time Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Big_time_Data_afmzqc.png?_a=AVADKIB0)
+        
+        ![Image 4003: DataCaptains](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/data_captains_kklq1l.png?_a=AVADKIB0)
+        
+        ![Image 4004: On the Mark Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/on_the_mark_data_set2lc.svg?_a=AVADKIB0)
+        
+        ![Image 4005: 4Mile](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/4_mile_media_tk0whr.png?_a=AVADKIB0)
+        
+        ![Image 4006: Revolt.BI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Revolt_BI_gjv5z1.svg?_a=AVADKIB0)
+        
+        ![Image 4007: Analytics8](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Analytics8_bpusuo.png?_a=AVADKIB0)
+        
+        ![Image 4008: phData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/phData_wcwsay.png?_a=AVADKIB0)
+        
+        ![Image 4009: 3Pillar Global](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/3_pillar_global_wehwua.png?_a=AVADKIB0)
+        
+        ![Image 4010: Kubrick](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kubrick_bpb3pm.png?_a=AVADKIB0)
+        
+        ![Image 4011: FluenFactors](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/FluenFactors_eblvks.png?_a=AVADKIB0)
+        
+        ![Image 4012: Deepsky Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deepsky_Data_ojmduj.png?_a=AVADKIB0)
+        
+        ![Image 4013: EY Consulting Services](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EY_Analytics_Consulting_wvdjc1.png?_a=AVADKIB0)
+        
+        ![Image 4014: ZS Associates](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ZS_pzufap.png?_a=AVADKIB0)
+        
+        ![Image 4015: Captech Consulting](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Captech_j9gea9.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 4016: Aimpoint Digital](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Aimpoint_Digital_cgb9cd.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 4017: DAS42](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DAS42_s4r8dq.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 4018: Markovate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/markovate_n9xyn4.png?_a=AVADKIB0)
+        
+        New
+        
+        ![Image 4019: NTT Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/NTT_Data_mljsc8.png?_a=AVADKIB0)
+        
+
+Download PDF
+
+Blog [mattturck.com/MAD2024](https://mattturck.com/MAD2024?utm_source=mad_landscape)Questions [MAD@firstmark.com](mailto:MAD@firstmark.com)
+
+Hire AI talent [Go Fractional](https://www.gofractional.com/?utm_source=mad_landscape&ref=mad)Card data [CB Insights](https://www.cbinsights.com/?utm_source=mad_landscape)
+
+[![Image 4020: Firstmark Logo](https://mad.firstmark.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirstmark.7d036ef9.png&w=384&q=75)](https://firstmark.com/?utm_source=mad_landscape)
+
+## Metadata
+
+```json
+{
+  "title": "FirstMark | 2024 MAD (ML/AI/Data) Landscape",
+  "description": "The 2024 MAD (ML/AI/Data) Landscape is the definitive market map of companies and products in machine learning, artificial intelligence and data, compiled by FirstMark.",
+  "url": "https://mad.firstmark.com/",
+  "content": "FirstMark | 2024 MAD (ML/AI/Data) Landscape\n===============\n\n*   [Landscape](https://mad.firstmark.com/)\n*   [Card](https://mad.firstmark.com/card)\n\n[MAD](https://mad.firstmark.com/)[The 2024 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com/)\n\n*   \n\n50%\n\n*   [Infrastructure](https://mad.firstmark.com/card#recxdDH7aSqjZZA9b)\n    *   [Storage](https://mad.firstmark.com/card#rec7qoEwLE4qZJW4q)\n        \n        ![Image 2011: Amazon S3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_S3_drkuax.png?_a=AVADKIB0)\n        \n        ![Image 2012: Azure Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Storage_v2ucut.png?_a=AVADKIB0)\n        \n        ![Image 2013: Google Cloud Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Storage_u5gz03.png?_a=AVADKIB0)\n        \n        ![Image 2014: IBM Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Storage_nmqnew.png?_a=AVADKIB0)\n        \n        ![Image 2015: Digital Ocean Spaces](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DigitalOcean_Spaces_ueffdu.png?_a=AVADKIB0)\n        \n        ![Image 2016: Pure Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pure_storage_x9bsjz.png?_a=AVADKIB0)\n        \n        ![Image 2017: NetApp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/NetApp_m947xt.png?_a=AVADKIB0)\n        \n        ![Image 2018: Wasabi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/wasabi_ig42ka.svg?_a=AVADKIB0)\n        \n        ![Image 2019: Vast Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/vast_data_ylfyvr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2020: Egnyte](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Egnyte_ep3flu.png?_a=AVADKIB0)\n        \n        ![Image 2021: Alluxio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alluxio_rlm0ka.png?_a=AVADKIB0)\n        \n        ![Image 2022: HPE Nimble Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/HPE_Nimble_Storage_oqvx7y.png?_a=AVADKIB0)\n        \n        ![Image 2023: Panasas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Panasas_jsvgv7.png?_a=AVADKIB0)\n        \n        ![Image 2024: Qumulo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Qumulo_yyeqph.svg?_a=AVADKIB0)\n        \n        ![Image 2025: Cohesity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cohesity_fvsubb.png?_a=AVADKIB0)\n        \n        ![Image 2026: Clumio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/clumio_bnfyxc.png?_a=AVADKIB0)\n        \n        ![Image 2027: Weka](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Weka_rwznwz.png?_a=AVADKIB0)\n        \n        ![Image 2028: MinIO](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MINIO_d1yhuv.png?_a=AVADKIB0)\n        \n        ![Image 2029: Backblaze](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Backblaze_amxymx.png?_a=AVADKIB0)\n        \n        ![Image 2030: Cloudflare](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CloudFlare_jdhbok.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2031: Tigris](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Tigris_Data_y83hdx.png?_a=AVADKIB0)\n        \n    *   [MPP DBs](https://mad.firstmark.com/card#recUJFlE2NjTDRBke)\n        \n        ![Image 2032: Teradata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Taradata_aw9th8.png?_a=AVADKIB0)\n        \n        ![Image 2033: Vertica, An OpenText Company](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Vertica_fesufc.svg?_a=AVADKIB0)\n        \n        ![Image 2034: IBM Data Warehouse Solutions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Data_Warehouse_cg9qdi.png?_a=AVADKIB0)\n        \n        ![Image 2035: Actian](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Actian_nidpyy.png?_a=AVADKIB0)\n        \n        ![Image 2036: Exasol](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/exasol_hzrypw.svg?_a=AVADKIB0)\n        \n        ![Image 2037: Greenplum Database](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Greenplum_Database_pa9tov.png?_a=AVADKIB0)\n        \n    *   [Data Lakes/Lakehouses](https://mad.firstmark.com/card#rec7OGBuH7z873Pgl)\n        \n        ![Image 2038: Dremio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dremio_lfcgup.png?_a=AVADKIB0)\n        \n        ![Image 2039: Databricks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databricks_y7ofwh.png?_a=AVADKIB0)\n        \n        ![Image 2040: Snowflake](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/snowflake_ryrk29.svg?_a=AVADKIB0)\n        \n        ![Image 2041: Starburst](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Starburst_gslbdi.png?_a=AVADKIB0)\n        \n        ![Image 2042: Azure HD Insight](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_HDInsight_kzchia.png?_a=AVADKIB0)\n        \n        ![Image 2043: Azure Data Lake Storage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Data_Lake_Storage_lgvtt8.png?_a=AVADKIB0)\n        \n        ![Image 2044: Google Cloud Dataproc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Dataproc_fdnyfy.png?_a=AVADKIB0)\n        \n        ![Image 2045: Google Cloud BigLake](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_BigLake_lwd4qj.png?_a=AVADKIB0)\n        \n        ![Image 2046: AWS Amazon EMR](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_EMR_pvi9a0.png?_a=AVADKIB0)\n        \n        ![Image 2047: AWS Lake Formation](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Lake_Formation_sah17t.png?_a=AVADKIB0)\n        \n        ![Image 2048: IBM Data Lake Solutions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Data_Lake_Solutions_rsqztg.png?_a=AVADKIB0)\n        \n        ![Image 2049: HPE Ezmeral Data Fabric](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/HPE_Ezmeral_Data_Fabric_f3srau.png?_a=AVADKIB0)\n        \n        ![Image 2050: Cloudera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cloudera_u7lqg7.png?_a=AVADKIB0)\n        \n        ![Image 2051: OneHouse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/onehouse_cviz01.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2052: Qubole](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/qubole_pbd6m9.png?_a=AVADKIB0)\n        \n        ![Image 2053: ChaosSearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/chaossearch_dsiuxm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2054: Cloudian](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cloudian_w0lzsr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2055: Iomete](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/iomete_s7l5wu.png?_a=AVADKIB0)\n        \n    *   [Data Warehouses](https://mad.firstmark.com/card#reczORl2ISwO91Uwl)\n        \n        ![Image 2056: AWS Amazon RedShift](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_RedShift_p2wc8i.png?_a=AVADKIB0)\n        \n        ![Image 2057: Snowflake](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/snowflake_ryrk29.svg?_a=AVADKIB0)\n        \n        ![Image 2058: Google Cloud BigQuery](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_BigQuery_ma5drg.png?_a=AVADKIB0)\n        \n        ![Image 2059: Azure Synapse Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Synapse_Analytics_ndfs57.png?_a=AVADKIB0)\n        \n        ![Image 2060: Oracle Exadata Cloud Service](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Exadata_gjhklx.png?_a=AVADKIB0)\n        \n        ![Image 2061: Firebolt](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Firebolt_tqvt4q.png?_a=AVADKIB0)\n        \n        ![Image 2062: VMWare Greenplum](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/VMware_Greenplum_mj39el.png?_a=AVADKIB0)\n        \n        ![Image 2063: IBM Db2 Warehouse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Db2_Warehouse_k64pom.png?_a=AVADKIB0)\n        \n        ![Image 2064: Kyligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kyligence_l5mjx8.png?_a=AVADKIB0)\n        \n        ![Image 2065: Yellowbrick](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Yellowbrick_zlqox1.svg?_a=AVADKIB0)\n        \n        ![Image 2066: Tabular](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tabular_luv7od.svg?_a=AVADKIB0)\n        \n        ![Image 2067: StarRocks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/starrocks_zwdlxt.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2068: Panoply by SQream](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/panoply_joebl6.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2069: SelectDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/selectdb_qhdmwq.png?_a=AVADKIB0)\n        \n        ![Image 2070: Ocient](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ocient_bfwfek.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2071: Hydra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hydra_tkaq7r.svg?_a=AVADKIB0)\n        \n    *   [Streaming/In-Memory](https://mad.firstmark.com/card#recUR4xZ6P8XZkOEX)\n        \n        ![Image 2072: AWS Amazon Kinesis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Kinesis_m2vgqe.png?_a=AVADKIB0)\n        \n        ![Image 2073: Google Cloud Dataflow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Dataflow_ryeb3n.png?_a=AVADKIB0)\n        \n        ![Image 2074: Confluent](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Confluent_ava4bp.svg?_a=AVADKIB0)\n        \n        ![Image 2075: Databricks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databricks_y7ofwh.png?_a=AVADKIB0)\n        \n        ![Image 2076: Oracle Coherence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Coherence_ii51dx.png?_a=AVADKIB0)\n        \n        ![Image 2077: SAP HANA Cloud](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_HANA_Cloud_tnjmbr.png?_a=AVADKIB0)\n        \n        ![Image 2078: RedPanda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Redpanda_txpp7d.png?_a=AVADKIB0)\n        \n        ![Image 2079: Hazelcast](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hazelcast_es38cf.png?_a=AVADKIB0)\n        \n        ![Image 2080: Decodable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Decodable_grapdx.png?_a=AVADKIB0)\n        \n        ![Image 2081: Striim](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/striim_yujd8f.png?_a=AVADKIB0)\n        \n        ![Image 2082: Estuary](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Estuary_hgt2zh.webp?_a=AVADKIB0)\n        \n        ![Image 2083: Gigaspaces](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/gigaspaces_bjvqgh.png?_a=AVADKIB0)\n        \n        ![Image 2084: GridGain](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/GridGain_nvkic0.png?_a=AVADKIB0)\n        \n        ![Image 2085: MotherDuck](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mother_duck_jhnfxh.png?_a=AVADKIB0)\n        \n        ![Image 2086: Meroxa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/meroxa_ijuras.svg?_a=AVADKIB0)\n        \n        ![Image 2087: Voltron Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Voltron_Data_omejjy.png?_a=AVADKIB0)\n        \n        ![Image 2088: DeltaStream](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeltaStream_dkgoff.png?_a=AVADKIB0)\n        \n        ![Image 2089: Tinybird](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tinybird_cc6w14.png?_a=AVADKIB0)\n        \n        ![Image 2090: StreamNative](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/streamNative_zpzm52.svg?_a=AVADKIB0)\n        \n        ![Image 2091: Conduktor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/conduktor_jgflmb.png?_a=AVADKIB0)\n        \n        ![Image 2092: Aiven](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aiven_aro1b2.png?_a=AVADKIB0)\n        \n        ![Image 2093: Upsolver](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/upsolver_pfheat.png?_a=AVADKIB0)\n        \n        ![Image 2094: Quix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/quix_rl0l0g.png?_a=AVADKIB0)\n        \n        ![Image 2095: Ververica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/ververica_oxrwu2.png?_a=AVADKIB0)\n        \n        ![Image 2096: RisingWave Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/RisingWave_Labs_ngvv35.svg?_a=AVADKIB0)\n        \n        ![Image 2097: Bytewax](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bytewax_h0z3kq.png?_a=AVADKIB0)\n        \n        ![Image 2098: Arcion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Arcion_xa9sds.png?_a=AVADKIB0)\n        \n        ![Image 2099: Ably](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ably_sn7p9u.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2100: InfinyOn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/InfinyOn_Logo_ezzar7.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2101: Artie](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/artie_so_nbci9s.png?_a=AVADKIB0)\n        \n    *   [RDBMs](https://mad.firstmark.com/card#recJaaH7hrkaPcng2)\n        \n        ![Image 2102: Oracle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_m5kbhw.svg?_a=AVADKIB0)\n        \n        ![Image 2103: IBM DB2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_DB2_wyth2x.png?_a=AVADKIB0)\n        \n        ![Image 2104: SAP ASE](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_ASE_l1xnst.png?_a=AVADKIB0)\n        \n        ![Image 2105: Microsoft SQL Server](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Microsoft_SQL_Server_mrkck4.png?_a=AVADKIB0)\n        \n        ![Image 2106: Microsoft Access](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Microsoft_Access_ymvkbx.png?_a=AVADKIB0)\n        \n        ![Image 2107: AWS Amazon RDS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_RDS_mkbudb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2108: Altibase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Altibase_Logo_Wiki_qzxhze.png?_a=AVADKIB0)\n        \n    *   [NoSQL Databases](https://mad.firstmark.com/card#recGv92EdWxVZoZ84)\n        \n        ![Image 2109: AWS Amazon DynamoDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_DynamoDB_ejvmba.png?_a=AVADKIB0)\n        \n        ![Image 2110: MongoDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MongoDB_sggtir.svg?_a=AVADKIB0)\n        \n        ![Image 2111: Azure CosmosDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Cosmos_DB_qlc8nm.png?_a=AVADKIB0)\n        \n        ![Image 2112: Google Cloud Bigtable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Bigtable_eirfbn.png?_a=AVADKIB0)\n        \n        ![Image 2113: Amazon DocumentDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_DocumentDB_kxjhns.png?_a=AVADKIB0)\n        \n        ![Image 2114: Oracle NoSQL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_NoSQL_itvree.png?_a=AVADKIB0)\n        \n        ![Image 2115: Progress MarkLogic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MarkLogic_gvvymf.png?_a=AVADKIB0)\n        \n        ![Image 2116: Couchbase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/couchbase_fuofqd.svg?_a=AVADKIB0)\n        \n        ![Image 2117: Datastax](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datastax_dfvwmg.svg?_a=AVADKIB0)\n        \n        ![Image 2118: ScyllaDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Scylla_lxxpdd.png?_a=AVADKIB0)\n        \n        ![Image 2119: Riak](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/riak_hxypjt.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2120: RavenDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/RavenDB_fiy1ne.png?_a=AVADKIB0)\n        \n        ![Image 2121: Aerospike](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aerospike_fnpres.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2122: pgEdge](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/pgedge_sbf5ex.png?_a=AVADKIB0)\n        \n        ![Image 2123: Crate.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/crate_gjae9n.png?_a=AVADKIB0)\n        \n        ![Image 2124: VMware Tanzu GemFire](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/VMware_GemFire_gouzlc.png?_a=AVADKIB0)\n        \n        ![Image 2125: Speedb](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Speedb_wxqger.jpg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2126: Infinispan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/infinispan-logo_zktlbk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2127: Crunchydata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Crunchydata_h5fdun.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2128: Nile](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Nile_nyok9j.png?_a=AVADKIB0)\n        \n    *   [NewSQL Databases](https://mad.firstmark.com/card#recUE6a1qB83wlzbq)\n        \n        ![Image 2129: AWS Amazon Aurora](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Aurora_pcuo9v.png?_a=AVADKIB0)\n        \n        ![Image 2130: Google Cloud Spanner](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Cloud_Spanner_yssc8q.png?_a=AVADKIB0)\n        \n        ![Image 2131: CockroachDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cockroach_DB_dmovcx.jpg?_a=AVADKIB0)\n        \n        ![Image 2132: Google Cloud AlloyDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_AlloyDB_h0tbzv.png?_a=AVADKIB0)\n        \n        ![Image 2133: MariaDB Xpand](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MariaDB_Xpand_f38xm5.png?_a=AVADKIB0)\n        \n        ![Image 2134: PlanetScale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/PlanetScale_gzrivb.svg?_a=AVADKIB0)\n        \n        ![Image 2135: YugabyteDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Yugabyte_a4jjf4.png?_a=AVADKIB0)\n        \n        ![Image 2136: InfluxData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Influx_Data_svgdex.svg?_a=AVADKIB0)\n        \n        ![Image 2137: Supabase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/supabase_m0ownu.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2138: Neon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Neon-Logo_ven5hj.png?_a=AVADKIB0)\n        \n        ![Image 2139: Timescale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Timescale_ovntke.svg?_a=AVADKIB0)\n        \n        ![Image 2140: PingCAP](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/PingCap_qbnzpr.png?_a=AVADKIB0)\n        \n        ![Image 2141: Volt Active Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Volt_Active_Data_bnmzau.png?_a=AVADKIB0)\n        \n        ![Image 2142: Dassault Systemes NuoDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dassault_Systemes_NuoDB_vbx44m.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2143: Altibase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Altibase_Logo_Wiki_qzxhze.png?_a=AVADKIB0)\n        \n    *   [Real Time Databases](https://mad.firstmark.com/card#recBrG2P6Zbk8OKjc)\n        \n        ![Image 2144: Clickhouse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Clickhouse_ev5mlp.png?_a=AVADKIB0)\n        \n        ![Image 2145: Redis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Redis_fvyl1d.svg?_a=AVADKIB0)\n        \n        ![Image 2146: SingleStore](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/singlestore_ruekje.svg?_a=AVADKIB0)\n        \n        ![Image 2147: Rockset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Rockset_r8q4nk.png?_a=AVADKIB0)\n        \n        ![Image 2148: Imply](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/imply_ylw5le.svg?_a=AVADKIB0)\n        \n        ![Image 2149: Materialize](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Materialize_glfmzm.png?_a=AVADKIB0)\n        \n        ![Image 2150: Startree](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Startree_w30rlf.svg?_a=AVADKIB0)\n        \n        ![Image 2151: Altinity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Altinity_mtavee.svg?_a=AVADKIB0)\n        \n        ![Image 2152: FeatureBase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/FeatureBase_a4gwuq.png?_a=AVADKIB0)\n        \n        ![Image 2153: Macrometa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Macrometa_dhivbd.png?_a=AVADKIB0)\n        \n        ![Image 2154: ReadySet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ReadySet_sfghbx.png?_a=AVADKIB0)\n        \n        ![Image 2155: Convex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Convex.dev_vmiguq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2156: QuestDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/QuestDB_vkonxc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2157: DolphinDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DolphinDB_r3qhu6.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2158: RethinkDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/rethinkdb_qwnbgz.png?_a=AVADKIB0)\n        \n        ![Image 2159: KX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/KX_xxm2cu.png?_a=AVADKIB0)\n        \n    *   [Graph DBs](https://mad.firstmark.com/card#reckl7lBcOjn9GF9l)\n        \n        ![Image 2160: neo4j](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Neo4J_onwibg.png?_a=AVADKIB0)\n        \n        ![Image 2161: AWS Amazon Neptune](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Neptune_uft2ge.png?_a=AVADKIB0)\n        \n        ![Image 2162: ArangoDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/arangoDB_j7taed.png?_a=AVADKIB0)\n        \n        ![Image 2163: Dgraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dgraph_gmrx3c.svg?_a=AVADKIB0)\n        \n        ![Image 2164: Memgraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Memgraph_mt0kzg.svg?_a=AVADKIB0)\n        \n        ![Image 2165: IBM Graph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Graph_hgcyoe.png?_a=AVADKIB0)\n        \n        ![Image 2166: Oracle Graph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Graph_a38p37.png?_a=AVADKIB0)\n        \n        ![Image 2167: Stardog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/stardog_nkqafz.png?_a=AVADKIB0)\n        \n        ![Image 2168: Objectivity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/objectivity_dkgtu6.png?_a=AVADKIB0)\n        \n        ![Image 2169: TigerGraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tigergraph_vqgzmc.png?_a=AVADKIB0)\n        \n        ![Image 2170: TerminusDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/TerminusDB_be3q6z.png?_a=AVADKIB0)\n        \n        ![Image 2171: Hasura](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hasura_biku56.png?_a=AVADKIB0)\n        \n        ![Image 2172: Apollo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apollo_rdpgfz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2173: NebulaGraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/NebulaGraph_ituedz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2174: Grafbase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Grafbase_fgynjt.png?_a=AVADKIB0)\n        \n    *   [GPU Databases](https://mad.firstmark.com/card#rec2NhLfjhmUAs5Ta)\n        \n        ![Image 2175: Kinetica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kinetica_kvjuy5.png?_a=AVADKIB0)\n        \n        ![Image 2176: SQream](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sqream_vs4g8p.png?_a=AVADKIB0)\n        \n        ![Image 2177: Heavy.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Heavy_ciietg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2178: IBM Spark GPU](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/IBM_Spark_GPU_flc3jm.png?_a=AVADKIB0)\n        \n        ![Image 2179: HeteroDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/PG-Strom_egbck8.png?_a=AVADKIB0)\n        \n        ![Image 2180: Brytlyt](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/brytlyt_p3pk4a.svg?_a=AVADKIB0)\n        \n    *   [Multi-Model Databases & Abstraction](https://mad.firstmark.com/card#recuapWYMOfszAYy2)\n        \n        ![Image 2181: SurrealDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Surreal_DB_tt9sbl.png?_a=AVADKIB0)\n        \n        ![Image 2182: Xata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Xata_erver0.png?_a=AVADKIB0)\n        \n        ![Image 2183: Prisma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Prisma_nd0ft6.svg?_a=AVADKIB0)\n        \n        ![Image 2184: Fauna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fauna_nqub19.svg?_a=AVADKIB0)\n        \n        ![Image 2185: TileDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/TileDB_logo_kvc8s4.png?_a=AVADKIB0)\n        \n        ![Image 2186: EdgeDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/edgedb_jfgvt3.png?_a=AVADKIB0)\n        \n    *   [Vector Databases](https://mad.firstmark.com/card#recNGGOHMFGfSbJ3k)\n        \n        ![Image 2187: Pinecone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Pinecone_aobfea.png?_a=AVADKIB0)\n        \n        ![Image 2188: Chroma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Chroma_yhogmr.png?_a=AVADKIB0)\n        \n        ![Image 2189: Weaviate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/weaveate_wifz65.png?_a=AVADKIB0)\n        \n        ![Image 2190: Zilliz](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zilliz_kmz82h.png?_a=AVADKIB0)\n        \n        ![Image 2191: Qdrant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Qdrant_jibzzn.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2192: Vespa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vespa_eafmuk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2193: Marqo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/marqo_ncnlqy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2194: LanceDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LanceDB_rebybt.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2195: Vald](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vald_tfvcc9.png?_a=AVADKIB0)\n        \n    *   [ETL/ELT/Data Transformation](https://mad.firstmark.com/card#recmgkiWcXb8kOPMy)\n        \n        ![Image 2196: dbt Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/dbt_pmf8ht.svg?_a=AVADKIB0)\n        \n        ![Image 2197: Talend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/talend_ikpj1d.png?_a=AVADKIB0)\n        \n        ![Image 2198: Alteryx](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alteryx_wpnsip.png?_a=AVADKIB0)\n        \n        ![Image 2199: Fivetran](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fivetran_vaqqkd.png?_a=AVADKIB0)\n        \n        ![Image 2200: Stitch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Stitch_Data_snnw5n.png?_a=AVADKIB0)\n        \n        ![Image 2201: Matillion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/matillion_tfxs7d.svg?_a=AVADKIB0)\n        \n        ![Image 2202: Estuary](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Estuary_oawn7u.png?_a=AVADKIB0)\n        \n        ![Image 2203: Airbyte](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/airbyte_na8ob7.svg?_a=AVADKIB0)\n        \n        ![Image 2204: Datorios](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datorios_logo_hatpta.png?_a=AVADKIB0)\n        \n        ![Image 2205: Azure Data Factory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Data_Factory_1650_1275_px_r5xejv.png?_a=AVADKIB0)\n        \n        ![Image 2206: Google Cloud Data Fusion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Data_Fusion_cavnmw.png?_a=AVADKIB0)\n        \n        ![Image 2207: AWS Glue](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Glue_xwwf35.png?_a=AVADKIB0)\n        \n        ![Image 2208: Integrate.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/integrate.io_k97yay.svg?_a=AVADKIB0)\n        \n        ![Image 2209: Hitachi Vantara Pentaho](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hitachi_Vantara_Pentaho_ggirns.png?_a=AVADKIB0)\n        \n        ![Image 2210: Kleene](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kleene_abdyhf.png?_a=AVADKIB0)\n        \n        ![Image 2211: tamr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tamr_uawk7k.svg?_a=AVADKIB0)\n        \n        ![Image 2212: Meltano](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Meltano_ycumga.png?_a=AVADKIB0)\n        \n        ![Image 2213: Rivery](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rivery_pd3yqg.png?_a=AVADKIB0)\n        \n        ![Image 2214: Hevo Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hevo_m1yxr3.png?_a=AVADKIB0)\n        \n        ![Image 2215: Portable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/portable_gqsy4q.png?_a=AVADKIB0)\n        \n        ![Image 2216: Prophecy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Prophecy_c1leqw.svg?_a=AVADKIB0)\n        \n        ![Image 2217: Coalesce](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/coalesce_cfbe5x.png?_a=AVADKIB0)\n        \n        ![Image 2218: Cdata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cdata_epupmr.png?_a=AVADKIB0)\n        \n        ![Image 2219: Dataddo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dataddo_cqt3ah.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2220: Osmos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/osmos_qigal3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2221: Unstructured.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Unstructured__ub0ylw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2222: DataChannel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DataChannel_wefpxa.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2223: Supermetrics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Supermetrics_jzxrvz.png?_a=AVADKIB0)\n        \n    *   [Reverse ETL](https://mad.firstmark.com/card#recdpFQYjFRUZ7vBJ)\n        \n        ![Image 2224: Census](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Census_rfddib.svg?_a=AVADKIB0)\n        \n        ![Image 2225: Hightouch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hightouch_olwzpe.png?_a=AVADKIB0)\n        \n        ![Image 2226: Rudderstack](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rudderstack_amyfgn.svg?_a=AVADKIB0)\n        \n        ![Image 2227: MessageGears](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MessageGears_acpimc.png?_a=AVADKIB0)\n        \n        ![Image 2228: Polytomic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/polytomic_onddpt.svg?_a=AVADKIB0)\n        \n        ![Image 2229: Octolis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/octolis_ulhkvb.png?_a=AVADKIB0)\n        \n    *   [Data Integration](https://mad.firstmark.com/card#recnOYlCktYjFYIjT)\n        \n        ![Image 2230: SAP Data Services](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_Data_Services_weagnl.png?_a=AVADKIB0)\n        \n        ![Image 2231: Twilio Segment](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Twilio_Segment_pxxuvw.png?_a=AVADKIB0)\n        \n        ![Image 2232: Informatica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/informatica_n8v5oy.svg?_a=AVADKIB0)\n        \n        ![Image 2233: Boomi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Boomi_eyfchs.png?_a=AVADKIB0)\n        \n        ![Image 2234: MuleSoft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mulesoft_lfl8yz.svg?_a=AVADKIB0)\n        \n        ![Image 2235: SnapLogic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Snaplogic_scopmc.png?_a=AVADKIB0)\n        \n        ![Image 2236: tray.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tray.io_euaz6v.png?_a=AVADKIB0)\n        \n        ![Image 2237: Tealium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tealium_nfkr0a.png?_a=AVADKIB0)\n        \n        ![Image 2238: Qlik](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Qlik_kyrrpw.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2239: Jitterbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Jitterbit_utlyxl.png?_a=AVADKIB0)\n        \n        ![Image 2240: Celigo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Celigo_k9fgqt.svg?_a=AVADKIB0)\n        \n        ![Image 2241: import.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/import-io_jdjizu.png?_a=AVADKIB0)\n        \n        ![Image 2242: Snowplow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Snowplow.io_m4ytga.png?_a=AVADKIB0)\n        \n        ![Image 2243: Flatfile](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Flatfile_zxb4lb.png?_a=AVADKIB0)\n        \n        ![Image 2244: Freshpaint](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/freshpaint_c7xook.svg?_a=AVADKIB0)\n        \n        ![Image 2245: InfoWorks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/infoworks_sboik6.png?_a=AVADKIB0)\n        \n        ![Image 2246: StreamSets](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/streamsets_amhyeg.png?_a=AVADKIB0)\n        \n        ![Image 2247: Denodo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Denodo_dwvwku.svg?_a=AVADKIB0)\n        \n        ![Image 2248: Crux Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/crux_tmr4ro.png?_a=AVADKIB0)\n        \n        ![Image 2249: Bobsled](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bobsled_usmoun.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2250: Sequin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sequin_rpeqmw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2251: Cinchy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cinchy_vnuh1e.png?_a=AVADKIB0)\n        \n        ![Image 2252: NextData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nextdata_ziqimb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2253: Immersa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Immersa_duh4bv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2254: Make](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Make-Logo-RGB_v3l9re.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2255: n8n](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/n8n_zfgwbd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2256: Whalesync](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Whalesync_gz4amx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2257: Parabola](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Parabola_ojuzmg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2258: YepCode](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Yepcode_vxqonx.png?_a=AVADKIB0)\n        \n    *   [Data Governance & Catalog](https://mad.firstmark.com/card#reccLdA0kDJN0yCzo)\n        \n        ![Image 2259: Informatica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/informatica_n8v5oy.svg?_a=AVADKIB0)\n        \n        ![Image 2260: SailPoint](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SailPoint_huhwzn.png?_a=AVADKIB0)\n        \n        ![Image 2261: Collibra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Collibra_kd4uoi.png?_a=AVADKIB0)\n        \n        ![Image 2262: IBM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/IBM_ffzo7p.png?_a=AVADKIB0)\n        \n        ![Image 2263: Alation](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alation_nlhsgm.png?_a=AVADKIB0)\n        \n        ![Image 2264: Atlan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/atlan_jhkbk8.png?_a=AVADKIB0)\n        \n        ![Image 2265: Data.world](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Data_World_w3mfli.png?_a=AVADKIB0)\n        \n        ![Image 2266: BigID](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BigID_ancp0f.png?_a=AVADKIB0)\n        \n        ![Image 2267: Metaphor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/metaphor_data_slab4u.webp?_a=AVADKIB0)\n        \n        ![Image 2268: Skyhigh Security](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Skyhigh_Security_phyj0e.png?_a=AVADKIB0)\n        \n        ![Image 2269: Immuta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/immuta_onak4e.png?_a=AVADKIB0)\n        \n        ![Image 2270: Stemma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/stemma_aapods.png?_a=AVADKIB0)\n        \n        ![Image 2271: Okera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/okera_jw0saw.png?_a=AVADKIB0)\n        \n        ![Image 2272: Hitachi Vantara](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hitachi_Vantara_amqu7c.png?_a=AVADKIB0)\n        \n        ![Image 2273: Select Star](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/select_star_nqswmi.png?_a=AVADKIB0)\n        \n        ![Image 2274: Secoda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/secoda_vz1r1c.svg?_a=AVADKIB0)\n        \n        ![Image 2275: Precisely](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Precisely_logo_eigig5.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2276: Alvin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Alvin_ub8dqd.png?_a=AVADKIB0)\n        \n        ![Image 2277: Acryl Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Acryl_Data_c0hmbg.png?_a=AVADKIB0)\n        \n        ![Image 2278: Securiti](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/securiti_melwd0.png?_a=AVADKIB0)\n        \n        ![Image 2279: ALTR](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Altr_jpteqa.png?_a=AVADKIB0)\n        \n        ![Image 2280: ObservePoint](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/observepoint_t49dyg.png?_a=AVADKIB0)\n        \n        ![Image 2281: Castor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/castor_ygf4dc.png?_a=AVADKIB0)\n        \n        ![Image 2282: Demyst](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/demyst_uy6el7.svg?_a=AVADKIB0)\n        \n        ![Image 2283: Stratio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stratio_ddwtvs.png?_a=AVADKIB0)\n        \n        ![Image 2284: Ataccama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ataccama_k7flzb.png?_a=AVADKIB0)\n        \n        ![Image 2285: Modern Data Company](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Modern_Data_Company_mjbwqp.png?_a=AVADKIB0)\n        \n        ![Image 2286: Orion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/orion_wqu2ne.png?_a=AVADKIB0)\n        \n        ![Image 2287: Raito](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Raito_bcnrje.png?_a=AVADKIB0)\n        \n        ![Image 2288: Solidatus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Solidatus_btexus.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2289: Octopai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Octopai_qk35f9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2290: OvalEdge](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OvalEdge_hjwkmu.png?_a=AVADKIB0)\n        \n    *   [Orchestration](https://mad.firstmark.com/card#recuRxuhkjgRPZ7Hi)\n        \n        ![Image 2291: Astronomer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/astronomer_r0brvk.png?_a=AVADKIB0)\n        \n        ![Image 2292: Prefect](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/prefect_aawz5x.png?_a=AVADKIB0)\n        \n        ![Image 2293: Elementl](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Elementl_ujrfi9.svg?_a=AVADKIB0)\n        \n        ![Image 2294: Outerbounds](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/outerbounds_s043ul.png?_a=AVADKIB0)\n        \n        ![Image 2295: Union.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/union_eq450l.png?_a=AVADKIB0)\n        \n        ![Image 2296: AWS Step Functions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Step_Functions_tlj2rg.png?_a=AVADKIB0)\n        \n        ![Image 2297: Microsoft Azure Data Factory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Data_Factory_1650_1275_px_cvpuow.png?_a=AVADKIB0)\n        \n        ![Image 2298: Akuity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Akuity_ii5d8s.png?_a=AVADKIB0)\n        \n        ![Image 2299: Mage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mage_iwwruf.png?_a=AVADKIB0)\n        \n        ![Image 2300: Google Cloud Workflows](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Workflows_zj7j5k.png?_a=AVADKIB0)\n        \n        ![Image 2301: Seqera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Seqera_e2uc24.png?_a=AVADKIB0)\n        \n        ![Image 2302: Trocco](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Trocco_uthve3.png?_a=AVADKIB0)\n        \n        ![Image 2303: Neurelo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Neurelo_dfoxpx.png?_a=AVADKIB0)\n        \n    *   [Data Quality & Observability](https://mad.firstmark.com/card#rec9PvNSW7vjVzvEe)\n        \n        ![Image 2304: Monte Carlo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/monte_carlo_mvfz0e.png?_a=AVADKIB0)\n        \n        ![Image 2305: Acceldata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Acceldata_dhg12c.png?_a=AVADKIB0)\n        \n        ![Image 2306: Manta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/manta_osiodh.png?_a=AVADKIB0)\n        \n        ![Image 2307: Collibra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Collibra_kd4uoi.png?_a=AVADKIB0)\n        \n        ![Image 2308: Unravel Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Unravel_gfz35c.svg?_a=AVADKIB0)\n        \n        ![Image 2309: Datafold](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/datafold_zasiuv.png?_a=AVADKIB0)\n        \n        ![Image 2310: Databand](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databand_yzozgo.png?_a=AVADKIB0)\n        \n        ![Image 2311: Metaplane](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Metaplane_hmmfws.svg?_a=AVADKIB0)\n        \n        ![Image 2312: Sifflet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sifflet_rfh4rj.svg?_a=AVADKIB0)\n        \n        ![Image 2313: Timeseer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Timeseer_j4mhw2.png?_a=AVADKIB0)\n        \n        ![Image 2314: Synq](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Synq_szddk6.png?_a=AVADKIB0)\n        \n        ![Image 2315: Talend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/talend_ikpj1d.png?_a=AVADKIB0)\n        \n        ![Image 2316: Soda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/soda.io_nfblfi.png?_a=AVADKIB0)\n        \n        ![Image 2317: Bigeye](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bigeye_ctr5d1.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2318: Masthead Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Masthead_Data_utc3me.png?_a=AVADKIB0)\n        \n        ![Image 2319: Great Expectations](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/great_expectations_p31i5q.svg?_a=AVADKIB0)\n        \n        ![Image 2320: Anomalo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/anomolo_idvxvu.png?_a=AVADKIB0)\n        \n        ![Image 2321: Precisely](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Precisely_logo_eigig5.svg?_a=AVADKIB0)\n        \n        ![Image 2322: Lightup](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/lightup_noxdny.png?_a=AVADKIB0)\n        \n        ![Image 2323: Validio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/validio_x6ncjy.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2324: Telmai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Telmai_ibnd18.png?_a=AVADKIB0)\n        \n    *   [Fully Managed](https://mad.firstmark.com/card#rec0SRi4qFFOqKlXn)\n        \n        ![Image 2325: Mozart Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Mozart_data_rlpecn.png?_a=AVADKIB0)\n        \n        ![Image 2326: Y42](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/y42_sgyrz8.png?_a=AVADKIB0)\n        \n        ![Image 2327: Fruition Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fruitiondata_mzkcn7.png?_a=AVADKIB0)\n        \n        ![Image 2328: Keboola](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/keboola_fppcre.svg?_a=AVADKIB0)\n        \n        ![Image 2329: Nexla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nexla_sp1vfh.png?_a=AVADKIB0)\n        \n        ![Image 2330: 5X](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/5x_ir3i5e.png?_a=AVADKIB0)\n        \n        ![Image 2331: Adverity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Adverity_pabyhr.png?_a=AVADKIB0)\n        \n        ![Image 2332: Sequentum](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sequentum_z9is4d.png?_a=AVADKIB0)\n        \n        ![Image 2333: Data Virtuality](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Data_Virtuality_erjirz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2334: Prequel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Prequel_gyhibc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2335: DoubleCloud](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DoubleCloud_q3ha1n.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2336: Selfr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Selfr_pocuoo.png?_a=AVADKIB0)\n        \n    *   [MGMT/Monitoring](https://mad.firstmark.com/card#recfwnGgxh21FFXVH)\n        \n        ![Image 2337: Datadog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datadog_ijtzoq.svg?_a=AVADKIB0)\n        \n        ![Image 2338: Amazon Cloudwatch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Aurora_pcuo9v.png?_a=AVADKIB0)\n        \n        ![Image 2339: New Relic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/New_Relic_aotymu.svg?_a=AVADKIB0)\n        \n        ![Image 2340: Cisco AppDynamics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AppDynamics_l3lpvz.png?_a=AVADKIB0)\n        \n        ![Image 2341: Splunk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/splunk_qunpbw.png?_a=AVADKIB0)\n        \n        ![Image 2342: Dynatrace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dynatrace_ougxqj.svg?_a=AVADKIB0)\n        \n        ![Image 2343: Cribl](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/crible_zvjcsx.png?_a=AVADKIB0)\n        \n        ![Image 2344: Solarwinds](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/solarwinds_eopk6x.svg?_a=AVADKIB0)\n        \n        ![Image 2345: Chronosphere](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Chronosphere_wzw16d.png?_a=AVADKIB0)\n        \n        ![Image 2346: Rubrik](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/rubrik-logo_hicybq.svg?_a=AVADKIB0)\n        \n        ![Image 2347: VMWare Aria](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/VMware_Aria_g78yox.png?_a=AVADKIB0)\n        \n        ![Image 2348: GrafanaLabs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Grafana_wfj0r6.png?_a=AVADKIB0)\n        \n        ![Image 2349: Wavefront](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Wavefront_tkzktp.png?_a=AVADKIB0)\n        \n        ![Image 2350: Moogsoft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/moogsoft_wnubsa.png?_a=AVADKIB0)\n        \n        ![Image 2351: DataSet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DataSet_ji1cjx.png?_a=AVADKIB0)\n        \n        ![Image 2352: ScienceLogic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ScienceLogic_gnhebq.png?_a=AVADKIB0)\n        \n        ![Image 2353: Veeam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/veeam_p2qudf.png?_a=AVADKIB0)\n        \n        ![Image 2354: PagerDuty](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pagerduty_er8lzu.png?_a=AVADKIB0)\n        \n        ![Image 2355: honeycomb.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/honeycomb_wvnjr9.png?_a=AVADKIB0)\n        \n        ![Image 2356: Cast AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cast_AI_ytedjf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2357: Embrace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Embrace_qccyvv.png?_a=AVADKIB0)\n        \n    *   [Privacy & Security](https://mad.firstmark.com/card#recgWbMKo6jECiOPT)\n        \n        ![Image 2358: Very Good Security](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/very_good_security_qyykej.png?_a=AVADKIB0)\n        \n        ![Image 2359: Privacera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/privacera_alzc7d.png?_a=AVADKIB0)\n        \n        ![Image 2360: Cyral](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cyral_fq5uev.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2361: Cyera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cyera_p8tckb.png?_a=AVADKIB0)\n        \n        ![Image 2362: Cape Privacy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cape_privacy_buctxn.png?_a=AVADKIB0)\n        \n        ![Image 2363: Transcend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/transcend_xh4kt4.svg?_a=AVADKIB0)\n        \n        ![Image 2364: SkyFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/skyflow_khkskq.png?_a=AVADKIB0)\n        \n        ![Image 2365: In Country](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/incountry_d30vnu.png?_a=AVADKIB0)\n        \n        ![Image 2366: Duality Technologies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Duality_jqxnme.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2367: OpenRaven](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenRaven_k0wr1p.png?_a=AVADKIB0)\n        \n        ![Image 2368: Privacy Dynamics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Privacy_Dynamics_cc93mw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2369: Dasera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dasera_cr6w2x.svg?_a=AVADKIB0)\n        \n        ![Image 2370: Ketch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ketch_n57gew.svg?_a=AVADKIB0)\n        \n        ![Image 2371: OneTrust](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/OneTrust_d4x6zv.svg?_a=AVADKIB0)\n        \n        ![Image 2372: PrivateAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Private_AI_cu2cmu.png?_a=AVADKIB0)\n        \n        ![Image 2373: Privitar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Privitar_hhxdki.png?_a=AVADKIB0)\n        \n        ![Image 2374: Opaque Systems](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/opaque_gvzzqs.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2375: Datagrail](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Datagrail_wjhjfk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2376: Piiano](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Piiano_oxl80z.png?_a=AVADKIB0)\n        \n        ![Image 2377: Enveil](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Enveil_b39ic3.png?_a=AVADKIB0)\n        \n        ![Image 2378: TripleBlind](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/TripleBlind_gasnkc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2379: Exate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Exate_q75rrt.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2380: Relyance](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Relyance_ikuqqc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2381: Symmetry Systems](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Symmetry_Systems_gmqmdm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2382: Alcion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Alcion_gnm6ut.png?_a=AVADKIB0)\n        \n    *   [Compute](https://mad.firstmark.com/card#recFneyBPhQVC3Kmx)\n        \n        ![Image 2383: Amazon ECS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_ECS_clr1fm.png?_a=AVADKIB0)\n        \n        ![Image 2384: Amazon EKS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_EKS_tedflu.png?_a=AVADKIB0)\n        \n        ![Image 2385: Microsoft Azure CycleCloud](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_CycleCloud_gabch6.png?_a=AVADKIB0)\n        \n        ![Image 2386: D2IQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/D2IQ_logo_xzp6tn.png?_a=AVADKIB0)\n        \n        ![Image 2387: AWS Lambda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Lambda_f7amja.png?_a=AVADKIB0)\n        \n        ![Image 2388: Penguin Solutions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Penguin_Solutions_vco1oi.png?_a=AVADKIB0)\n        \n        ![Image 2389: Nvidia Bright Cluster](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nvidia_Bright_Cluster_ly8efu.png?_a=AVADKIB0)\n        \n        ![Image 2390: HPE](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/HPE_a3e68i.svg?_a=AVADKIB0)\n        \n        ![Image 2391: Microsoft Azure](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_zb3xfe.svg?_a=AVADKIB0)\n        \n        ![Image 2392: Nuclio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nuclio_m7lhja.png?_a=AVADKIB0)\n        \n        ![Image 2393: Digital Ocean](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DigitalOcean_logo_1_v3ubc0.png?_a=AVADKIB0)\n        \n        ![Image 2394: Google Cloud Functions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Cloud_Functions_xel4uv.png?_a=AVADKIB0)\n        \n        ![Image 2395: Equinix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/equinix_xxhoy0.png?_a=AVADKIB0)\n        \n*   [Analytics](https://mad.firstmark.com/card#reccsDBDk22oQXsAs)\n    *   [BI Platforms](https://mad.firstmark.com/card#recCjW5VGRo9kP9rL)\n        \n        ![Image 2396: Looker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Looker_lt0obe.png?_a=AVADKIB0)\n        \n        ![Image 2397: Salesforce Einstein Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Salesforce_Einstein_zjvvkv.png?_a=AVADKIB0)\n        \n        ![Image 2398: Amazon QuickSight](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_QuickSight_emwmzm.png?_a=AVADKIB0)\n        \n        ![Image 2399: Domo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/domo_hlxkfr.png?_a=AVADKIB0)\n        \n        ![Image 2400: ThoughtSpot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/thoughtspot_sn7kif.png?_a=AVADKIB0)\n        \n        ![Image 2401: IBM Cognos Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Cognos_Analytics_rhkbly.png?_a=AVADKIB0)\n        \n        ![Image 2402: SAP Business Intelligence Suite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_Business_Intelligence_Suite_bybqdm.png?_a=AVADKIB0)\n        \n        ![Image 2403: Tibco Spotfire](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Tibco_Spotfire_pvkcrl.png?_a=AVADKIB0)\n        \n        ![Image 2404: Oracle Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Analytics_di2phr.png?_a=AVADKIB0)\n        \n        ![Image 2405: Sas Business Intelligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAS_Business_Intelligence_x5ticn.png?_a=AVADKIB0)\n        \n        ![Image 2406: Sisense](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sisense_ly5nug.png?_a=AVADKIB0)\n        \n        ![Image 2407: Atscale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AtScale_lyq9hn.png?_a=AVADKIB0)\n        \n        ![Image 2408: Qlik](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Qlik_kyrrpw.svg?_a=AVADKIB0)\n        \n        ![Image 2409: GoodData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/GoodData_x9bamn.svg?_a=AVADKIB0)\n        \n        ![Image 2410: InforBirst](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Infor_Birst_n4rwlw.png?_a=AVADKIB0)\n        \n        ![Image 2411: Omni](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Omni_deh9l9.png?_a=AVADKIB0)\n        \n        ![Image 2412: Microstrategy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/microstrategy_ezrt3z.png?_a=AVADKIB0)\n        \n        ![Image 2413: Grow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Grow_sq1n2s.png?_a=AVADKIB0)\n        \n        ![Image 2414: Metabase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Metabase_qzxguj.png?_a=AVADKIB0)\n        \n        ![Image 2415: Kyvos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kyvos_b5vzdr.png?_a=AVADKIB0)\n        \n        ![Image 2416: Popsql](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Popsql_ercjpv.png?_a=AVADKIB0)\n        \n        ![Image 2417: Lightdash](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Lightdash_hjwt9f.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2418: Whiz.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Whiz_ai_dgujy0.png?_a=AVADKIB0)\n        \n        ![Image 2419: Zing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Zing_pz1oob.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2420: Veezoo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Veezoo_c90v2s.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2421: Klipfolio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/klipfolio-logo_ewqvtf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2422: Fluent](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fluent_tmhkuo.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2423: SimplyPut](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SimplyPut_zd4esx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2424: Whaly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/whaly_nf1gzl.png?_a=AVADKIB0)\n        \n    *   [Visualization](https://mad.firstmark.com/card#reciSNRPJDs6AHPbU)\n        \n        ![Image 2425: Tableau](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Tableau-Logo_zfanho.png?_a=AVADKIB0)\n        \n        ![Image 2426: Microsoft Power BI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Microsoft_Power_BI_myd3ep.png?_a=AVADKIB0)\n        \n        ![Image 2427: SAP Lumira](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_Lumira_kp2hwj.png?_a=AVADKIB0)\n        \n        ![Image 2428: Google Data Studio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Data_Studio_soztj8.png?_a=AVADKIB0)\n        \n        ![Image 2429: Astrato](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Astrato_akjvfr.png?_a=AVADKIB0)\n        \n        ![Image 2430: Plotly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Plotly_uazetm.png?_a=AVADKIB0)\n        \n        ![Image 2431: Zoho Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Zoho_xugy7a.png?_a=AVADKIB0)\n        \n        ![Image 2432: Toucan Toco](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Toucan_Toco_logo_asgz9h.png?_a=AVADKIB0)\n        \n        ![Image 2433: Observable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/observable_lndygj.png?_a=AVADKIB0)\n        \n        ![Image 2434: FusionCharts by Yellowfin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/FusionCharts_zydbfw.png?_a=AVADKIB0)\n        \n        ![Image 2435: Preset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Preset_mb36ts.png?_a=AVADKIB0)\n        \n        ![Image 2436: Datawrapper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datawrapper_fgtu5t.svg?_a=AVADKIB0)\n        \n        ![Image 2437: Infogram](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Infogram_tbsqg2.png?_a=AVADKIB0)\n        \n        ![Image 2438: Grid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/grid_r5ixkj.png?_a=AVADKIB0)\n        \n        ![Image 2439: Streamlit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Streamlit_enqdck.png?_a=AVADKIB0)\n        \n        ![Image 2440: Rill](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rill_Data_cqmosr.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2441: Supermetrics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Supermetrics_dacngc.png?_a=AVADKIB0)\n        \n        ![Image 2442: Luzmo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Luzmo_pybg6x.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2443: Graphext](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Graphext_gzfyw8.png?_a=AVADKIB0)\n        \n    *   [Data Analyst Platforms](https://mad.firstmark.com/card#rec6qXIqOiTs0hcUD)\n        \n        ![Image 2444: Mode](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mode_pxrbo1.png?_a=AVADKIB0)\n        \n        ![Image 2445: Microsoft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/microsoft_tct4xz.png?_a=AVADKIB0)\n        \n        ![Image 2446: Alteryx](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alteryx_wpnsip.png?_a=AVADKIB0)\n        \n        ![Image 2447: Pyramid Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Pyramid_Analytics_vpsg5h.png?_a=AVADKIB0)\n        \n        ![Image 2448: Sisu Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sisu_Data_chatsi.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2449: Sigma Computing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sigma_computing_ilel6d.png?_a=AVADKIB0)\n        \n        ![Image 2450: Incorta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Incorta_ekcfxz.png?_a=AVADKIB0)\n        \n        ![Image 2451: Ascend.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ascend_o8nimi.png?_a=AVADKIB0)\n        \n        ![Image 2452: Airtable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Airtable_uvohts.svg?_a=AVADKIB0)\n        \n        ![Image 2453: Datameer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datameer_uptdgc.svg?_a=AVADKIB0)\n        \n        ![Image 2454: Preql](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/preql_tqiznk.png?_a=AVADKIB0)\n        \n        ![Image 2455: Cube](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cube_si7mjt.png?_a=AVADKIB0)\n        \n        ![Image 2456: Guavus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Guavus_d5enyd.png?_a=AVADKIB0)\n        \n        ![Image 2457: Anodot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anodot_iefwia.svg?_a=AVADKIB0)\n        \n        ![Image 2458: Seek AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Seek_u3rt7l.png?_a=AVADKIB0)\n        \n        ![Image 2459: Trace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Trace_jbkx97.png?_a=AVADKIB0)\n        \n        ![Image 2460: Pecan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Pecan_vlxeeg.svg?_a=AVADKIB0)\n        \n        ![Image 2461: Equals](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Equals_jnvhju.png?_a=AVADKIB0)\n        \n        ![Image 2462: Hashboard](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/hashboard_ttb8sd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2463: Rows](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Rows_bjggyg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2464: Smartsuite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Smartsuite_hvpmly.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2465: Noogata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Noogata_jpw6k4.png?_a=AVADKIB0)\n        \n        ![Image 2466: iGenius](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/iGenius_zkycoh.png?_a=AVADKIB0)\n        \n        ![Image 2467: Lido](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Lido_bemby5.png?_a=AVADKIB0)\n        \n        ![Image 2468: Canvas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Canvas_d0qx9h.png?_a=AVADKIB0)\n        \n        ![Image 2469: Workstream](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Workstream_cupxes.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2470: Clarisights](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/clarisights_g3who9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2471: Acho](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/acho_jy4j6b.png?_a=AVADKIB0)\n        \n        ![Image 2472: Deephaven](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deephaven_v82f3o.png?_a=AVADKIB0)\n        \n        ![Image 2473: Weld](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Weld_h7va2r.png?_a=AVADKIB0)\n        \n        ![Image 2474: Tellius](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Tellius_qbtaiu.png?_a=AVADKIB0)\n        \n        ![Image 2475: Narrator](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/narrator_hvub2g.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2476: Coginiti](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cogniti_zzxqrm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2477: Graphext](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Graphext_gzfyw8.png?_a=AVADKIB0)\n        \n    *   [Customer Data Platforms](https://mad.firstmark.com/card#rec3wy9e8Q1sYc0Xk)\n        \n        ![Image 2478: Tealium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tealium_nfkr0a.png?_a=AVADKIB0)\n        \n        ![Image 2479: ActionIQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ActionIQ_k8b1a5.png?_a=AVADKIB0)\n        \n        ![Image 2480: Twilio Segment](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Twilio_Segment_pxxuvw.png?_a=AVADKIB0)\n        \n        ![Image 2481: Simon Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/simon_vyqn6g.png?_a=AVADKIB0)\n        \n        ![Image 2482: mparticle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mparticle_pgwmq2.png?_a=AVADKIB0)\n        \n        ![Image 2483: Amperity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amperity_vw9yyd.png?_a=AVADKIB0)\n        \n        ![Image 2484: Lytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/lytics_ehrsfc.png?_a=AVADKIB0)\n        \n        ![Image 2485: Treasure Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/treasure_data_ggff2w.svg?_a=AVADKIB0)\n        \n        ![Image 2486: Growthloop](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/GrowthLoop_Logo_zfciv3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2487: Zeotap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/zeotap-logo_kxozof.png?_a=AVADKIB0)\n        \n        ![Image 2488: Insider](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Insider_acziqi.svg?_a=AVADKIB0)\n        \n        ![Image 2489: Blueshift](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Blueshift_hmvlle.png?_a=AVADKIB0)\n        \n        ![Image 2490: Adobe Experience Platform](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adobe_Experience_Platform_sowfdu.png?_a=AVADKIB0)\n        \n        ![Image 2491: Salesforce CDP](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Salesforce_CDP_hvq1zm.png?_a=AVADKIB0)\n        \n        ![Image 2492: Rudderstack](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rudderstack_amyfgn.svg?_a=AVADKIB0)\n        \n        ![Image 2493: Optimove](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Optimove_qhqni8.png?_a=AVADKIB0)\n        \n        ![Image 2494: Blueconic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Blueconic_rzj5k1.png?_a=AVADKIB0)\n        \n        ![Image 2495: Syncari](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Syncari_xjhcac.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2496: Funnel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Funnel-logo_udgkzm.png?_a=AVADKIB0)\n        \n    *   [Product Analytics](https://mad.firstmark.com/card#recICBH0DQF0TDQdr)\n        \n        ![Image 2497: Google Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Analytics_rlkjsh.svg?_a=AVADKIB0)\n        \n        ![Image 2498: Amplitude](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amplitude_wugk6c.svg?_a=AVADKIB0)\n        \n        ![Image 2499: Mixpanel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mixpanel_uuvb7g.svg?_a=AVADKIB0)\n        \n        ![Image 2500: Pendo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pendo_xjumu0.png?_a=AVADKIB0)\n        \n        ![Image 2501: Contentsquare](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Contentsquare_pw9ggv.png?_a=AVADKIB0)\n        \n        ![Image 2502: Heap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Heap_mhvxm9.svg?_a=AVADKIB0)\n        \n        ![Image 2503: Data.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Data_ai_fv3bxc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2504: Posthog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/posthog_evp6ow.png?_a=AVADKIB0)\n        \n        ![Image 2505: Glassbox](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Glassbox_i89b6f.png?_a=AVADKIB0)\n        \n        ![Image 2506: Fullstory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fullstory_ko8rt9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2507: Sprig](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sprig_jg2nzx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2508: Kubit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kubit_ncuynn.png?_a=AVADKIB0)\n        \n        ![Image 2509: Whatfix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Whatfix_cugilz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2510: Avo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Avo_jzdzpy.png?_a=AVADKIB0)\n        \n    *   [Log Analytics](https://mad.firstmark.com/card#recEVjS1t0c71AKn9)\n        \n        ![Image 2511: Splunk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/splunk_qunpbw.png?_a=AVADKIB0)\n        \n        ![Image 2512: Azure Monitor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Monitor_tgqetf.png?_a=AVADKIB0)\n        \n        ![Image 2513: Google Cloud Logging](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Cloud_Logging_yygxdj.png?_a=AVADKIB0)\n        \n        ![Image 2514: Sumologic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sumo_Logic_i2eocb.png?_a=AVADKIB0)\n        \n        ![Image 2515: Datadog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datadog_ijtzoq.svg?_a=AVADKIB0)\n        \n        ![Image 2516: Solarwinds loggly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/solarwind_loggly_kk18yc.png?_a=AVADKIB0)\n        \n        ![Image 2517: Cisco AppDynamics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AppDynamics_l3lpvz.png?_a=AVADKIB0)\n        \n        ![Image 2518: LogicMonitor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/LogicMonitor_wjkt4q.png?_a=AVADKIB0)\n        \n        ![Image 2519: Elastic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kibana_t2yhhp.svg?_a=AVADKIB0)\n        \n        ![Image 2520: Logz.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Logz.io_ymggwa.svg?_a=AVADKIB0)\n        \n        ![Image 2521: Mezmo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mezmo_fjqttf.png?_a=AVADKIB0)\n        \n        ![Image 2522: Coralogix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Coralogix_xel6gf.png?_a=AVADKIB0)\n        \n        ![Image 2523: LogRythm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/LogRhythm_gruwye.png?_a=AVADKIB0)\n        \n        ![Image 2524: Observe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/observe_hh7p1e.png?_a=AVADKIB0)\n        \n        ![Image 2525: Exabeam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Exabeam_n20uqz.svg?_a=AVADKIB0)\n        \n        ![Image 2526: Sematext](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/sematext_lhghid.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2527: Graylog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/graylog-logo_nqell0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2528: Better Stack](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/BetterStack_snmy16.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2529: Logmind](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/logmind_nvq3t5.png?_a=AVADKIB0)\n        \n    *   [Enterprise Search / Knowledge Analytics](https://mad.firstmark.com/card#recLIBdKjYFsPIMki)\n        \n        ![Image 2530: Elastic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Elastic_rdsmvs.svg?_a=AVADKIB0)\n        \n        ![Image 2531: Glean](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Glean_ggmcl8.png?_a=AVADKIB0)\n        \n        ![Image 2532: Amazon Kendra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Kendra_bijuj7.png?_a=AVADKIB0)\n        \n        ![Image 2533: Oracle Endeca](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Endeca_ny2ofp.png?_a=AVADKIB0)\n        \n        ![Image 2534: Amazon CloudSearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Aurora_pcuo9v.png?_a=AVADKIB0)\n        \n        ![Image 2535: AWS OpenSearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Open_Search_Postcard_1650_1275_px_agj3ee.png?_a=AVADKIB0)\n        \n        ![Image 2536: Microsoft Azure Cognitive Search](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Cognitive_Search_mzfkfv.png?_a=AVADKIB0)\n        \n        ![Image 2537: Algolia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Algolia_p09zi0.svg?_a=AVADKIB0)\n        \n        ![Image 2538: Coveo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Coveo_xmi31e.png?_a=AVADKIB0)\n        \n        ![Image 2539: Guru](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/guru-logo_xllx2h.png?_a=AVADKIB0)\n        \n        ![Image 2540: Sinequa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sinequa_rtiamw.png?_a=AVADKIB0)\n        \n        ![Image 2541: Lucidworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Lucidworks_sq6dmb.png?_a=AVADKIB0)\n        \n        ![Image 2542: Onna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Onna_alnybw.png?_a=AVADKIB0)\n        \n        ![Image 2543: Alphasense](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AlphaSense_bxgwac.png?_a=AVADKIB0)\n        \n        ![Image 2544: Moveworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/moveworks_cx0gvy.png?_a=AVADKIB0)\n        \n        ![Image 2545: Vectara](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Vectara_e1lonu.png?_a=AVADKIB0)\n        \n        ![Image 2546: Quickwit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/quickwit_blovrp.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2547: Hebbia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/hebbia_m24m2m.png?_a=AVADKIB0)\n        \n        ![Image 2548: Bloomfire](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Bloomfire_Logo_pbtggx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2549: Dashworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dashworks_hgzwih.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2550: Stravito](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Stravito_Logo_m4zone.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2551: Nuclia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Nuclia_reafbm.png?_a=AVADKIB0)\n        \n*   [Machine Learning & Artificial Intelligence](https://mad.firstmark.com/card#recrAqXmw72gb32V5)\n    *   [Data Science Notebooks](https://mad.firstmark.com/card#recHsXFoGFxPoimF0)\n        \n        ![Image 2552: Jupyter](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Jupyter_pb8jzb.png?_a=AVADKIB0)\n        \n        ![Image 2553: Hex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hex_vdvvly.png?_a=AVADKIB0)\n        \n        ![Image 2554: Google Colab](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_CoLab_bhmokd.svg?_a=AVADKIB0)\n        \n        ![Image 2555: SaturnCloud](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/saturncloud_ctsc1t.svg?_a=AVADKIB0)\n        \n        ![Image 2556: Google Cloud Vertex AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Google_Cloud_VertexAI_lmkai2.png?_a=AVADKIB0)\n        \n        ![Image 2557: Amazon SageMaker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_SageMaker_ckc8ck.png?_a=AVADKIB0)\n        \n        ![Image 2558: Azure Notebooks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Notebooks_qhhhvk.png?_a=AVADKIB0)\n        \n        ![Image 2559: Binder](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/binder_njrbgv.png?_a=AVADKIB0)\n        \n        ![Image 2560: Deepnote](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deepnote_od1fjb.png?_a=AVADKIB0)\n        \n        ![Image 2561: noteable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Noteable_brlzdh.png?_a=AVADKIB0)\n        \n        ![Image 2562: Count](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Count_mllzo9.png?_a=AVADKIB0)\n        \n        ![Image 2563: Cocalc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cocalc_uo7aes.png?_a=AVADKIB0)\n        \n        ![Image 2564: Curvenote](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Curvenote_unbtwi.png?_a=AVADKIB0)\n        \n        ![Image 2565: NextJournal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/NextJournal_ufm4n1.png?_a=AVADKIB0)\n        \n    *   [Data Science Platforms](https://mad.firstmark.com/card#recp3LFqnRUZ4ujNe)\n        \n        ![Image 2566: IBM Watson Studio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Watson_Studio_vp8tgw.png?_a=AVADKIB0)\n        \n        ![Image 2567: Oracle Data Science Ser](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_Data_Science_gcooxr.png?_a=AVADKIB0)\n        \n        ![Image 2568: RapidMiner](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/RapidMiner_-_New_clmo6c.png?_a=AVADKIB0)\n        \n        ![Image 2569: Sas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Sas_thceyf.svg?_a=AVADKIB0)\n        \n        ![Image 2570: Tibco](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tibco_ty9olk.png?_a=AVADKIB0)\n        \n        ![Image 2571: anaconda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anaconda_q6fw6l.png?_a=AVADKIB0)\n        \n        ![Image 2572: Altair](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Altair_c9ygqx.png?_a=AVADKIB0)\n        \n        ![Image 2573: Knime](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/knime_logo_ybljkr.png?_a=AVADKIB0)\n        \n        ![Image 2574: Mathworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mathworks_laeeiv.png?_a=AVADKIB0)\n        \n    *   [Enterprise ML Platforms](https://mad.firstmark.com/card#recziYOpwCoCNsfIQ)\n        \n        ![Image 2575: Databricks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databricks_y7ofwh.png?_a=AVADKIB0)\n        \n        ![Image 2576: Amazon SageMaker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_SageMaker_ckc8ck.png?_a=AVADKIB0)\n        \n        ![Image 2577: Dataiku](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dataiku_louwwt.png?_a=AVADKIB0)\n        \n        ![Image 2578: Azure Machine Learning](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Machine_Learning_x54hrn.png?_a=AVADKIB0)\n        \n        ![Image 2579: Google Cloud Vertex AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_VertexAI_ewau3b.png?_a=AVADKIB0)\n        \n        ![Image 2580: Palantir Technologies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Palantir_ol41mp.svg?_a=AVADKIB0)\n        \n        ![Image 2581: Scale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/scale_oxewex.png?_a=AVADKIB0)\n        \n        ![Image 2582: Domino](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/domino_ivfxjy.png?_a=AVADKIB0)\n        \n        ![Image 2583: H2O.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/H2oai_hiiklu.png?_a=AVADKIB0)\n        \n        ![Image 2584: DataRobot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/datarobot_zo5kxz.png?_a=AVADKIB0)\n        \n        ![Image 2585: Abacus.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Abacus_ai_ncef2i.png?_a=AVADKIB0)\n        \n        ![Image 2586: Snorkel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Snorkel_yv93xz.png?_a=AVADKIB0)\n        \n        ![Image 2587: Continual](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Continual_hzzwch.png?_a=AVADKIB0)\n        \n        ![Image 2588: Modular](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/modular_mksr8w.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2589: Dataloop](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dataloop_hzblu8.png?_a=AVADKIB0)\n        \n        ![Image 2590: Aible](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aible_x4z66r.png?_a=AVADKIB0)\n        \n        ![Image 2591: Obviously.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/obviouslyAI_de8q1h.png?_a=AVADKIB0)\n        \n        ![Image 2592: CausaLens](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CausaLense_iollxf.png?_a=AVADKIB0)\n        \n        ![Image 2593: DotData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/dotdata_j9b87p.png?_a=AVADKIB0)\n        \n        ![Image 2594: Graft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Graft_f7ovq8.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2595: CentML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/CentML_ay44uy.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2596: Qwak](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Quak_dtnsvo.png?_a=AVADKIB0)\n        \n    *   [Data Generation & Labelling](https://mad.firstmark.com/card#recvzDfigWzr87eXQ)\n        \n        ![Image 2597: Scale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/scale_oxewex.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2598: Labelbox](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Labelbox_Logo_ys02qv.png?_a=AVADKIB0)\n        \n        ![Image 2599: Hive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hive_le30rk.png?_a=AVADKIB0)\n        \n        ![Image 2600: Upwork](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/upwork_k8tnf7.svg?_a=AVADKIB0)\n        \n        ![Image 2601: Amazon MechanicalTurk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amazon_Mechanical_Turk_dhzh8u.png?_a=AVADKIB0)\n        \n        ![Image 2602: Appen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Appen_bpznol.png?_a=AVADKIB0)\n        \n        ![Image 2603: Unity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Unity_v6hyqd.svg?_a=AVADKIB0)\n        \n        ![Image 2604: Sama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/sama_knxa6n.png?_a=AVADKIB0)\n        \n        ![Image 2605: CloudFactory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cloudfactory_lvdth2.png?_a=AVADKIB0)\n        \n        ![Image 2606: super.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/superAI_gjpgik.png?_a=AVADKIB0)\n        \n        ![Image 2607: Superb AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/superbAI_vlgjzk.png?_a=AVADKIB0)\n        \n        ![Image 2608: SuperAnnotate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/superannotate_harjoz.svg?_a=AVADKIB0)\n        \n        ![Image 2609: Kili](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kili_ghth2a.png?_a=AVADKIB0)\n        \n        ![Image 2610: V7](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/v7_l89wrn.svg?_a=AVADKIB0)\n        \n        ![Image 2611: Datagen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/datagen_y9lhm5.svg?_a=AVADKIB0)\n        \n        ![Image 2612: Alegion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alegion_jimae8.png?_a=AVADKIB0)\n        \n        ![Image 2613: MostlyAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MostlyAI_obfuqa.png?_a=AVADKIB0)\n        \n        ![Image 2614: Tonic AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Tonic_cet7et.png?_a=AVADKIB0)\n        \n        ![Image 2615: Gretel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Gretel_gtmp9a.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2616: HumanSignal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/humansignal_b9bllq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2617: Hazy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hazy_ylhlhn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2618: Refuel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Refuel_ibnzum.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2619: Voxel51](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Voxel51_i63sm8.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2620: Datasaur](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Datasaur_AI_up7tsf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2621: Defined.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Definied_ai_sn3ev9.png?_a=AVADKIB0)\n        \n    *   [MLOps](https://mad.firstmark.com/card#rec36ZjpPrEFbh2Vr)\n        \n        ![Image 2622: Weights & Biases](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Weights_Biases_dvdhan.png?_a=AVADKIB0)\n        \n        ![Image 2623: Azure Machine Learning](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Machine_Learning_x54hrn.png?_a=AVADKIB0)\n        \n        ![Image 2624: Google Cloud Vertex AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_VertexAI_ewau3b.png?_a=AVADKIB0)\n        \n        ![Image 2625: Amazon SageMaker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_SageMaker_ckc8ck.png?_a=AVADKIB0)\n        \n        ![Image 2626: Tecton](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tecton_y3xegs.svg?_a=AVADKIB0)\n        \n        ![Image 2627: Comet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/comet_rzjphz.png?_a=AVADKIB0)\n        \n        ![Image 2628: Hopsworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/hopsworks_kvbiyx.png?_a=AVADKIB0)\n        \n        ![Image 2629: Deci](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deci_xul7ce.png?_a=AVADKIB0)\n        \n        ![Image 2630: Verta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Verta_dajhm8.png?_a=AVADKIB0)\n        \n        ![Image 2631: Iterative](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Iterative_hmq5ik.png?_a=AVADKIB0)\n        \n        ![Image 2632: Valohai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Valohai_kwyu2o.png?_a=AVADKIB0)\n        \n        ![Image 2633: Galileo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Galileo_bm6kol.png?_a=AVADKIB0)\n        \n        ![Image 2634: Datatron](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datatron_ly9jbk.png?_a=AVADKIB0)\n        \n        ![Image 2635: Feast](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Feast_fbzday.png?_a=AVADKIB0)\n        \n        ![Image 2636: Modzy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Modzy_e4axww.svg?_a=AVADKIB0)\n        \n        ![Image 2637: Seldon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/seldon_axr7rv.png?_a=AVADKIB0)\n        \n        ![Image 2638: Fal.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/fal.ai_kaj5tw.png?_a=AVADKIB0)\n        \n        ![Image 2639: MindsDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mindsdb_jk9exx.svg?_a=AVADKIB0)\n        \n        ![Image 2640: ZenML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ZenML_gelgtu.png?_a=AVADKIB0)\n        \n        ![Image 2641: AI Squared](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AISquared_cjhp7r.png?_a=AVADKIB0)\n        \n        ![Image 2642: Modelbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Modelbit_o99pfh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2643: Xethub](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/xet_hub_wt_adpfkr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2644: Featurebyte](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/FeatureByte_Logo_cdjqsz.png?_a=AVADKIB0)\n        \n    *   [AI Observability](https://mad.firstmark.com/card#reckqeFOquPH2Q8Sg)\n        \n        ![Image 2645: Fiddler AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/fiddler_c1egyr.png?_a=AVADKIB0)\n        \n        ![Image 2646: Arthur](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Arthur_cuueea.png?_a=AVADKIB0)\n        \n        ![Image 2647: Evidently AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/evidently_AI_pptrod.png?_a=AVADKIB0)\n        \n        ![Image 2648: Truera](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/truera_sjcwf2.svg?_a=AVADKIB0)\n        \n        ![Image 2649: Arize AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/arize_p4hugm.png?_a=AVADKIB0)\n        \n        ![Image 2650: Gantry](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/gantry.ai_p4dtbf.png?_a=AVADKIB0)\n        \n        ![Image 2651: Aporia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/aporia_nujdpi.svg?_a=AVADKIB0)\n        \n        ![Image 2652: WhyLabs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/whylabs_bujaid.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2653: HowSo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Howso_dohu45.png?_a=AVADKIB0)\n        \n        ![Image 2654: Neptune.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Neptune_azohhs.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2655: LatticeFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LatticeFlow_yxf0vo.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2656: Patronus AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Patronus_AI_ax9yl6.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2657: Distributional](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Distributional_MainLogo_c0zhvx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2658: Cranium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cranium-logo-600x292_k4o0n7.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2659: Braintrust Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Braintrust_julwer.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2660: Klu](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/klu_ofrste.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2661: HoneyHive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/HoneyHive_pzflee.png?_a=AVADKIB0)\n        \n        ![Image 2662: NannyML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/NannyML_epadw1.png?_a=AVADKIB0)\n        \n        ![Image 2663: Chainlit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Chainlit_npen0r.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2664: Mithril Security](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Mithril_Security_jhva7k.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2665: Aimon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/aimon_ai_logo_s1vcxw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2666: Usage Panda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Usage_Panda_irmixx.png?_a=AVADKIB0)\n        \n    *   [AI Developer Platforms](https://mad.firstmark.com/card#rec5pDG2QrC8vDseV)\n        \n        New\n        \n        ![Image 2667: Lightning AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LightningAI_dwcwr1.png?_a=AVADKIB0)\n        \n        ![Image 2668: Langchain](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/LangChain_dviwl3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2669: Fixie](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fixie-logo-2023_sobwlo.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2670: LlamaIndex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LlamaIndex_jc8s5i.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2671: Lamini](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lamini_logo_n2vmmn.png?_a=AVADKIB0)\n        \n        ![Image 2672: BentoML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bento_ML_ytubft.png?_a=AVADKIB0)\n        \n        ![Image 2673: OctoML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/octoML_esbkxv.svg?_a=AVADKIB0)\n        \n        ![Image 2674: Predibase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Predibase_ejf8eu.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2675: Humanloop](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Humanloop_x2n63r.png?_a=AVADKIB0)\n        \n        ![Image 2676: Neural Magic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/neural_magic_rqm075.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2677: Adaptive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adaptive_fmeoj5.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2678: AirOps](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Airops_iodcz5.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2679: Inngest](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/inngest_o5vwrt.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2680: LastMile AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/lastmile_ai_lojht4.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2681: Martian](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/martian_fvbkxe.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2682: Substrate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Substrate_bze4rb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2683: Arcee AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/arcee_ai_ddbiur.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2684: Voyage AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/voyage-ai_c0bqx0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2685: Fireworks AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/fireworks_ai_vnozyn.png?_a=AVADKIB0)\n        \n    *   [AI Safety & Security](https://mad.firstmark.com/card#recS11eK5hNpZF6E6)\n        \n        New\n        \n        ![Image 2686: Calypso AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Calypso_AI_dchgdi.png?_a=AVADKIB0)\n        \n        ![Image 2687: Robust Intelligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Robust_Intelligence_s4hojd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2688: Reality Defender](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/reality_defender_m89bgb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2689: Guardrails AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Guardrails_AI_cvasff.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2690: Credo AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Credo_ai_wb3xxp.png?_a=AVADKIB0)\n        \n        ![Image 2691: Giskard](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/giskard_j5yrkl.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2692: Credal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Credal_Ai_rgvdry.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2693: HiddenLayer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hidden_Layer_AI_nmdlin.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2694: Apheris](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/apheris_s75r1n.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2695: Trustible](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Trustible_jn6vtm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2696: Aim Security](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/aim_security_kpq6lh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2697: Holistic AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Holistic-AI-logo_yupkdy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2698: Rebuff AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Rebuff_s9aej5.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2699: Insightcircle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Insightcircle_vbrevd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2700: Fairly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fairly_fp5d3z.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2701: p0](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/p0_mybrqh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2702: Prompt Security](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/prompt_security_dnvr8o.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2703: Kindo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kindo_otgcgx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2704: Enzai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Enzai_yfouoq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2705: Preamble](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/preamble_pyl8ao.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2706: Lumenova](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/lumenova_pdaw82.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2707: Saidot.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/saidot-logo-450x145-1_gd1zbq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2708: Quantpi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Quantpi-AI-Logo_xcywsn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2709: Calvinrisk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/calvinrisk_gqptd1.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2710: Anch.AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/anch_AI_Logo_qwapxs.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2711: Konfer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Konfer_mxh4od.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2712: Monitaur](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/monitaur_uzekvl.png?_a=AVADKIB0)\n        \n    *   [Computer Vision](https://mad.firstmark.com/card#recyGaOYjso0Tc4Q1)\n        \n        ![Image 2713: Microsoft Azure](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_zb3xfe.svg?_a=AVADKIB0)\n        \n        ![Image 2714: Google Cloud Vision API](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Vision_AI_xym9uz.png?_a=AVADKIB0)\n        \n        ![Image 2715: Amazon Rekognition](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Rekognition_bndhou.png?_a=AVADKIB0)\n        \n        ![Image 2716: Chooch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Chooch_cot7ss.png?_a=AVADKIB0)\n        \n        ![Image 2717: Clarifai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Clarifai_gwtyll.png?_a=AVADKIB0)\n        \n        ![Image 2718: CoreML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/core_ml_f8s1zx.png?_a=AVADKIB0)\n        \n        ![Image 2719: Clearview.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Clearview_AI_y0qzen.png?_a=AVADKIB0)\n        \n        ![Image 2720: Prophesee](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/prophesee_a0lakf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2721: Encord](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/encord_c9vwho.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2722: Rerun](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Rerun_io_bch2z0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2723: Synativ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1707332371/MAD%202024/Synativ_xisztf.png?_a=AVADKIB0)\n        \n    *   [Speech](https://mad.firstmark.com/card#recmY34HFP508I8ly)\n        \n        ![Image 2724: Siri](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Siri_gixthb.png?_a=AVADKIB0)\n        \n        ![Image 2725: Amazon Alexa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amazon_Alexa_leuoqn.png?_a=AVADKIB0)\n        \n        ![Image 2726: Amazon Polly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Polly_xiv0yp.png?_a=AVADKIB0)\n        \n        ![Image 2727: Amazon Transcribe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Transcribe_rrknno.png?_a=AVADKIB0)\n        \n        ![Image 2728: Microsoft Cortana](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Microsoft_Cortana_uqm3kd.png?_a=AVADKIB0)\n        \n        ![Image 2729: Azure Cognitive Services](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azure_Cognitive_Services_jx27ce.png?_a=AVADKIB0)\n        \n        ![Image 2730: Nuance](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nuance_d7wkln.svg?_a=AVADKIB0)\n        \n        ![Image 2731: Eleven Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ElevenLabs_dulw5j.png?_a=AVADKIB0)\n        \n        ![Image 2732: AssemblyAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AssemblyAI_fbmkix.png?_a=AVADKIB0)\n        \n        ![Image 2733: DeepGram](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deepgram_ssunna.png?_a=AVADKIB0)\n        \n        ![Image 2734: SoundHound Inc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/soundhound_pe0dtw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2735: Gladia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Gladia_z3bwgi.png?_a=AVADKIB0)\n        \n        ![Image 2736: Cogito](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cogito_sasjww.svg?_a=AVADKIB0)\n        \n        ![Image 2737: OtterAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Otter_AI_kuekrk.svg?_a=AVADKIB0)\n        \n        ![Image 2738: Poly.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/PolyAI_ejsyoe.png?_a=AVADKIB0)\n        \n        ![Image 2739: Gridspace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Gridspace_yooen4.svg?_a=AVADKIB0)\n        \n        ![Image 2740: Verbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Verbit_n3kbzr.png?_a=AVADKIB0)\n        \n        ![Image 2741: Avoma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Avoma_mdmcyn.png?_a=AVADKIB0)\n        \n        ![Image 2742: Speechmatics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Speechmatics_tva4bo.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2743: Symbl AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Symbl_qofvfj.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2744: Sembly AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sembly-logo_fxbeaw.png?_a=AVADKIB0)\n        \n    *   [NLP](https://mad.firstmark.com/card#recpFclxYLTUQ3khn)\n        \n        ![Image 2745: Google Natural Language AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Natural_Language_AI_ioopsm.png?_a=AVADKIB0)\n        \n        ![Image 2746: Amazon Comprehend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Comprehend_ezik4l.png?_a=AVADKIB0)\n        \n        ![Image 2747: Hugging Face](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/hugging_face_xjhnu2.svg?_a=AVADKIB0)\n        \n        ![Image 2748: Cohere](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/co-here_fiujle.svg?_a=AVADKIB0)\n        \n        ![Image 2749: Primer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Primer-logo-01_bclisu.png?_a=AVADKIB0)\n        \n        ![Image 2750: Rasa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/rasa_yp8i42.png?_a=AVADKIB0)\n        \n        ![Image 2751: Deepset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deepset_ivgdn9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2752: Argilla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Argilla_uq2tfu.png?_a=AVADKIB0)\n        \n        ![Image 2753: Explosion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Explosion_jytux0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2754: Hume AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hume_AI_vlosbm.png?_a=AVADKIB0)\n        \n        ![Image 2755: Amenity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Amenity_o5arqq.png?_a=AVADKIB0)\n        \n        ![Image 2756: Emotibot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Emotibot_qp9nci.png?_a=AVADKIB0)\n        \n        ![Image 2757: Amazon Translate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Translate_z84vpa.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2758: DeepL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DeepL_logo_kfnmix.png?_a=AVADKIB0)\n        \n        ![Image 2759: Unbabel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/unbabel_aupmbq.png?_a=AVADKIB0)\n        \n        ![Image 2760: Lilt](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Lilt_nic0c2.svg?_a=AVADKIB0)\n        \n        ![Image 2761: Smartling](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/smartling_ndhwqz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2762: Language I/O](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Language_IO_Logo_mtmx5v.png?_a=AVADKIB0)\n        \n    *   [Commercial AI Research](https://mad.firstmark.com/card#rec8GbNn5VYqslTeM)\n        \n        ![Image 2763: OpenAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/openAI_ctn546.svg?_a=AVADKIB0)\n        \n        ![Image 2764: Microsoft Research](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/microsoft_research_o6osga.png?_a=AVADKIB0)\n        \n        ![Image 2765: Meta Research](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/meta_research_vntkbw.png?_a=AVADKIB0)\n        \n        ![Image 2766: Google Research](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_research_h5zyav.png?_a=AVADKIB0)\n        \n        ![Image 2767: Google DeepMind](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deepmind_i3sbfk.png?_a=AVADKIB0)\n        \n        ![Image 2768: Anthropic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/anthropic_sher3z.svg?_a=AVADKIB0)\n        \n        ![Image 2769: Adept](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Adept_bemipl.png?_a=AVADKIB0)\n        \n        ![Image 2770: Inflection](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/inflection_idwv1o.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2771: Mistral AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mistral-ai-logo-4539E12887-seeklogo.com_xj8lzj.png?_a=AVADKIB0)\n        \n        ![Image 2772: AI21Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AI21Labs_vy2p9v.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2773: LightOn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LightOn_aqw33a.png?_a=AVADKIB0)\n        \n        ![Image 2774: Aleph Alpha](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aleph_Alpha_wmd8jx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2775: 01.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/01.ai_jjqb7c.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2776: Imbue](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/imbue_v7g8h3.png?_a=AVADKIB0)\n        \n        ![Image 2777: Numenta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/numenta_t1zx8j.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2778: xAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/XAI_Logo.svg_ogi3pd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2779: Contextual AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Contextual_AI_h0g6pf.png?_a=AVADKIB0)\n        \n        ![Image 2780: Conjecture](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Conjecture_fzjel5.png?_a=AVADKIB0)\n        \n        ![Image 2781: 4Paradigm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/4Paradigm_zt6ier.png?_a=AVADKIB0)\n        \n        ![Image 2782: Yitu](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/yitu_ns4fqz.png?_a=AVADKIB0)\n        \n        ![Image 2783: Keen Technologies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Keen_Techologies_f0ymdd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2784: Reka](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Logo-reka-4-2-twitter_card_ousnse.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2785: Krutrim](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Krutrim_o8zbzg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2786: Liquid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Liquid_AI_dyehqu.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2787: Normal Computing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Normal_Computing_vmd0vs.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2788: Extropic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Extropic_ai_htyqcm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2789: Sema4.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sema4_ai_mf9est.png?_a=AVADKIB0)\n        \n    *   [Nonprofit AI Research](https://mad.firstmark.com/card#recu4PpjXhxYK523A)\n        \n        ![Image 2790: Eleuther AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EleutherAI_zepfqi.png?_a=AVADKIB0)\n        \n        ![Image 2791: Allen Institute](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Allen_Institute_bbxqav.png?_a=AVADKIB0)\n        \n        ![Image 2792: AI Foundation](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AI_Foundation_ifq8ws.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2793: Kyutai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kyutai_appd6j.png?_a=AVADKIB0)\n        \n        ![Image 2794: MIRI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Miri_thlcys.png?_a=AVADKIB0)\n        \n        ![Image 2795: Vector Institute](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/vector_institute_lz9oer.png?_a=AVADKIB0)\n        \n        ![Image 2796: MIT Csail](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MIT_Csail_ik9or1.png?_a=AVADKIB0)\n        \n        ![Image 2797: DFKI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DFKI_gm8x6m.png?_a=AVADKIB0)\n        \n        ![Image 2798: OFAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/OFAI_fw9jlf.svg?_a=AVADKIB0)\n        \n        ![Image 2799: MILA](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mila_xqxssz.svg?_a=AVADKIB0)\n        \n    *   [AI Hardware](https://mad.firstmark.com/card#recKSAKte0gj6Vcki)\n        \n        ![Image 2800: Intel AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Intel_AI_kxhtf6.png?_a=AVADKIB0)\n        \n        ![Image 2801: Google TPU](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Cloud_Cloud_TPU_xhjnvy.png?_a=AVADKIB0)\n        \n        ![Image 2802: Nvidia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nvidia_b0zcs1.png?_a=AVADKIB0)\n        \n        ![Image 2803: AMD](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/AMD_Logo_hjflm4.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2804: Microsoft Maia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Microsoft_Maia_pddrjm.png?_a=AVADKIB0)\n        \n        ![Image 2805: AWS Inferentia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Inferentia_xoivj2.png?_a=AVADKIB0)\n        \n        ![Image 2806: Arm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/arm_gjwlbo.png?_a=AVADKIB0)\n        \n        ![Image 2807: SambaNova](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sambanova_wdjjox.png?_a=AVADKIB0)\n        \n        ![Image 2808: Cerebras](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cerebras_cd5n8i.png?_a=AVADKIB0)\n        \n        ![Image 2809: Graphcore](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/graphcore_dnxl9o.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2810: Lightmatter](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lightmatter_vjb9rx.png?_a=AVADKIB0)\n        \n        ![Image 2811: Intellifusion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/intellifusion_eifhal.png?_a=AVADKIB0)\n        \n        ![Image 2812: Cambricon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cambricon_bfilfo.svg?_a=AVADKIB0)\n        \n        ![Image 2813: Berkshire Grey](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/berkshire_grey_exdu9x.png?_a=AVADKIB0)\n        \n        ![Image 2814: Blaize](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/blaize_q9fog1.png?_a=AVADKIB0)\n        \n        ![Image 2815: Credo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/credo_wgtkml.png?_a=AVADKIB0)\n        \n        ![Image 2816: Hailo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hailo_eq3egd.png?_a=AVADKIB0)\n        \n        ![Image 2817: Mobileye](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mobileye_g4jc13.png?_a=AVADKIB0)\n        \n        ![Image 2818: Horizon Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Horizon_Robotics_hoqffw.png?_a=AVADKIB0)\n        \n        ![Image 2819: Cornami](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cornami_logo_niqebt.png?_a=AVADKIB0)\n        \n        ![Image 2820: Speedata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/speedata_o0m6ze.png?_a=AVADKIB0)\n        \n        ![Image 2821: Tenstorrent](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tenstorrent_l3f0cz.png?_a=AVADKIB0)\n        \n        ![Image 2822: Groq](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/groq_vmqgud.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2823: Celestial AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Celestial_ai_b3ivdg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2824: Illuvatar CoreX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/illuvatar_CoreX_kjwsfh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2825: Etched](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Etched_j7qxkg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2826: Rebellions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/rebellions_gmt3ya.png?_a=AVADKIB0)\n        \n    *   [GPU Cloud / Infra](https://mad.firstmark.com/card#recVrUf3QYnfiw5QQ)\n        \n        ![Image 2827: Databricks MosaicML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MosaicML_iak0dd.png?_a=AVADKIB0)\n        \n        ![Image 2828: NVIDIA](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nvidia_b0zcs1.png?_a=AVADKIB0)\n        \n        ![Image 2829: Lambda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Lambda_cgcavg.png?_a=AVADKIB0)\n        \n        ![Image 2830: CoreWeave](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CoreWeave_koe9om.png?_a=AVADKIB0)\n        \n        ![Image 2831: Anyscale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/anyscale_eq1lru.png?_a=AVADKIB0)\n        \n        ![Image 2832: Modal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/modal_q2wd6c.png?_a=AVADKIB0)\n        \n        ![Image 2833: Baseten](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Baseten_fpsbgb.png?_a=AVADKIB0)\n        \n        ![Image 2834: Replicate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Replicate_zwru2a.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2835: Together](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/together.ai_logo_esytxy.png?_a=AVADKIB0)\n        \n        ![Image 2836: Weka](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Weka_azkool.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2837: Scaleway](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Scaleway_yxss0x.png?_a=AVADKIB0)\n        \n        ![Image 2838: Coiled](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/coiled_nj9uug.png?_a=AVADKIB0)\n        \n        ![Image 2839: Exafunction](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Exafunction_jjikhj.png?_a=AVADKIB0)\n        \n        ![Image 2840: RunAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Run.ai_txw4p9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2841: Banana](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Banana_lclnkk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2842: HippoML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hippoml_ijgojb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2843: Beam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Beam_c1fwr7.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2844: Cerebrium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cerebrium_nugyty.png?_a=AVADKIB0)\n        \n        ![Image 2845: Paperspace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/paperspace_vzaxfk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2846: Gradient AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/gradient_fdahmd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2847: Inference](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/inference_ai_ukb9be.png?_a=AVADKIB0)\n        \n    *   [Edge AI](https://mad.firstmark.com/card#recnIyl89zQM6kUGv)\n        \n        ![Image 2848: Hailo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hailo_eq3egd.png?_a=AVADKIB0)\n        \n        ![Image 2849: NVIDIA](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nvidia_b0zcs1.png?_a=AVADKIB0)\n        \n        ![Image 2850: Syntiant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Syntiant_ltlqyy.png?_a=AVADKIB0)\n        \n        ![Image 2851: Qeexo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/qeexo_uydgyg.png?_a=AVADKIB0)\n        \n        ![Image 2852: Deeplite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deeplite_nolyww.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2853: SiMa.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sima_AI_m6y3k1.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2854: Mythic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mythic_yfxgzx.png?_a=AVADKIB0)\n        \n        ![Image 2855: Edge Impulse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Edge_Impulse_uogw5p.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2856: Axelera AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Axelera_AI_Logo_ahhqba.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2857: Nota AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Nota_AI_cjpzny.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2858: Armada](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ARMADA_zkvlbc.png?_a=AVADKIB0)\n        \n    *   [Closed Source Models](https://mad.firstmark.com/card#recWLdrrNzvW4LExl)\n        \n        New\n        \n        ![Image 2859: OpenAI GPT4](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenAI_GPT-4_sw6stw.png?_a=AVADKIB0)\n        \n        ![Image 2860: OpenAI ChatGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Data_marketplaces_closed_source_model_Openai_ChatGPT_sopmee.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2861: OpenAI GPT3.5](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenAI_GPT-3.5_hwcmwq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2862: Google Gemini](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Google_Deepmind_Gemini_rnyg84.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2863: Anthropic Claude 3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/anthropic_Claude_3_mbspua.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2864: Mistral AI Au Large](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mistral_ai_au_large_wsxy0p.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2865: Google Research PaLM 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Google_Research_PaLM_2_xgodtu.png?_a=AVADKIB0)\n        \n        ![Image 2866: Google Bard](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Bard_zt9cpe.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2867: Anthropic Claude 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Anthropic_Claude_2_ha3j8j.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2868: AI21 Labs Jurassic 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ai21_Jurassic_2_yp4zbu.png?_a=AVADKIB0)\n        \n        ![Image 2869: Midjourney](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/midjourney_wuit1m.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2870: Adobe Firefly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adobe_Firefly_oie9yw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2871: Google DeepMind Imagen 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/google_Deepmind_Imagen_2_smvnyl.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2872: Inflection 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Inflection-2_pramp6.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2873: Cohere Command](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cohere_Command_x47t3p.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2874: Adept ACT 1](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adept_Act-1_hmv8bm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2875: Writer Palmyra X](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/writer_palmyra_x_of4vnw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2876: Inflection Pi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Inflection_Pi_mtdxut.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2877: Grok](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Grok_liqvld.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2878: Poe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Quora_Poe_nst82j.png?_a=AVADKIB0)\n        \n        ![Image 2879: OpenAI GPT3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/OpenAI_GPT3_hvz0fv.png?_a=AVADKIB0)\n        \n        ![Image 2880: Google Research PaLM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_PaLM_dpelli.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2881: Anthropic Claude](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Anthropic_Claude_1_fyenxa.png?_a=AVADKIB0)\n        \n        ![Image 2882: AI21 Labs Jurassic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/A121_Labs_Jurassic_aql2st.png?_a=AVADKIB0)\n        \n        ![Image 2883: Google Research LaMDA](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_LaMDA_n0qkfc.png?_a=AVADKIB0)\n        \n        ![Image 2884: DeepMind Gopher](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeepMind_Gopher_ap4sjf.png?_a=AVADKIB0)\n        \n        ![Image 2885: Deepmind Chinchilla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeepMind_Chinchilla_p0elbv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2886: Anthropic Claude Instant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Anthropic_Claude_Instant_pg8swe.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2887: Inflection](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Inflection_a8pmss.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2888: Writer Palmyra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Writer_Palmyra_feq1li.png?_a=AVADKIB0)\n        \n        ![Image 2889: Google Research Imagen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_Imagen_cz4pvj.png?_a=AVADKIB0)\n        \n        ![Image 2890: BaiduResearch Ernie 3.0](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Baidu_Research_Ernie_tlfr6a.png?_a=AVADKIB0)\n        \n*   [Applications - Enterprise](https://mad.firstmark.com/card#recr2hh5bFoSbrkmJ)\n    *   [Sales](https://mad.firstmark.com/card#recnC7fpun3EyUkIl)\n        \n        ![Image 2891: Salesforce Einstein](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Salesforce_Einstein_zjvvkv.png?_a=AVADKIB0)\n        \n        ![Image 2892: Gong](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Gong_st0dpm.png?_a=AVADKIB0)\n        \n        ![Image 2893: HubSpot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/hubspot_kftiok.png?_a=AVADKIB0)\n        \n        ![Image 2894: Clari](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/clari_pts63t.png?_a=AVADKIB0)\n        \n        ![Image 2895: Apollo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Apollo_io_qar01h.png?_a=AVADKIB0)\n        \n        ![Image 2896: Conversica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Conversica_ayklyf.png?_a=AVADKIB0)\n        \n        ![Image 2897: Aviso](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aviso_icgpit.svg?_a=AVADKIB0)\n        \n        ![Image 2898: People.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/People_bcqf93.svg?_a=AVADKIB0)\n        \n        ![Image 2899: Clearbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/clearbit_thlip1.png?_a=AVADKIB0)\n        \n        ![Image 2900: Regie.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/regieAI_vvadye.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2901: RevComm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/RevComm_dv6oph.png?_a=AVADKIB0)\n        \n        ![Image 2902: Headsup](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Headsup_xhsto7.png?_a=AVADKIB0)\n        \n        ![Image 2903: Lavender](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Lavender_fcswti.png?_a=AVADKIB0)\n        \n        ![Image 2904: Outreach](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/outreach_yysgst.png?_a=AVADKIB0)\n        \n        ![Image 2905: Salesloft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/salesloft_pgthjw.svg?_a=AVADKIB0)\n        \n        ![Image 2906: Databook](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databook_j7gzhl.png?_a=AVADKIB0)\n        \n        ![Image 2907: R2D2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Involve.ai_zwpig1.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2908: MadKudu](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/MadKudu_Logo_ixf1xs.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2909: Clay](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Clay_fnkogd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2910: Attention](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Attention_d9utxs.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2911: Unify](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Unify_gwvsnm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2912: Telescope](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Telescope_u7r7gy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2913: Toplyne](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Toplyne_vlysvq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2914: Closefactor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/CloseFactor_heoymk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2915: Salesform](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Salesform_vm6g54.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2916: Twain](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Twain_t21new.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2917: Collective[i]](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/CollectiveSideLogo_Black_asrk5m.png?_a=AVADKIB0)\n        \n    *   [Marketing](https://mad.firstmark.com/card#recwHQOloywtaco48)\n        \n        ![Image 2918: Klaviyo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Klaviyo_yiamdg.png?_a=AVADKIB0)\n        \n        ![Image 2919: Bluecore](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bluecore_tt4ts4.svg?_a=AVADKIB0)\n        \n        ![Image 2920: 6sense](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/6sense_terl3v.svg?_a=AVADKIB0)\n        \n        ![Image 2921: Attentive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Attentive_xca5g5.png?_a=AVADKIB0)\n        \n        ![Image 2922: Braze](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/braze_uduahn.png?_a=AVADKIB0)\n        \n        ![Image 2923: Appier](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/appier_p6kdhs.png?_a=AVADKIB0)\n        \n        ![Image 2924: Active Campaign](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ActiveCampaign_zkwib3.png?_a=AVADKIB0)\n        \n        ![Image 2925: Bloomreach](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bloomreach_uyveob.svg?_a=AVADKIB0)\n        \n        ![Image 2926: Zeta Global](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zeta_Global_bwxzzo.png?_a=AVADKIB0)\n        \n        ![Image 2927: Mutiny](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mutiny_v85t6n.png?_a=AVADKIB0)\n        \n        ![Image 2928: Demandbase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/demandbase_nn2a4g.png?_a=AVADKIB0)\n        \n        ![Image 2929: Persado](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/persado_uptm7q.png?_a=AVADKIB0)\n        \n        ![Image 2930: Invoca](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/invoca_wm9rnp.png?_a=AVADKIB0)\n        \n        ![Image 2931: DreamData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DreamData_ierdth.png?_a=AVADKIB0)\n        \n        ![Image 2932: NextRoll](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nextroll_w6ywnp.png?_a=AVADKIB0)\n        \n        ![Image 2933: Jasper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Jasper-Ai_ecqqd8.svg?_a=AVADKIB0)\n        \n        ![Image 2934: Writer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/writer_sstfi8.png?_a=AVADKIB0)\n        \n        ![Image 2935: Copy.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/copy_ai_epryos.png?_a=AVADKIB0)\n        \n        ![Image 2936: Copysmith](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/copysmith_lohicw.png?_a=AVADKIB0)\n        \n        ![Image 2937: Writesonic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/writesonic_wkmdgr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2938: Typeface](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Typeface_Logo_t0ylm6.png?_a=AVADKIB0)\n        \n        ![Image 2939: Phrasee](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/phrasee_qjufwn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2940: Vendelux](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vendelux_bc9xc2.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2941: Customer.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/customer-io-logo-color_qhgvt9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2942: Pepper Content](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/pepper-content-logo_lardmy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2943: Loops](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Loops__qgvfzl.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2944: Demandwell](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Demandwell_xvs6ae.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2945: Lately](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lately_qxczq9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2946: Rytr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Rytr_jnhriv.png?_a=AVADKIB0)\n        \n        ![Image 2947: Lily ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/lily_ai_ob8c1c.png?_a=AVADKIB0)\n        \n        ![Image 2948: Adcreative](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AdCreative_AI_msapvj.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2949: Recast AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ReCast_AI_hybgua.png?_a=AVADKIB0)\n        \n    *   [Customer Experience](https://mad.firstmark.com/card#recLClrNwDcfsgVDl)\n        \n        ![Image 2950: AWS Amazon Lex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_Lex_difb1w.png?_a=AVADKIB0)\n        \n        ![Image 2951: Dialogflow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Developer_DialogFlow_w0zdbj.png?_a=AVADKIB0)\n        \n        ![Image 2952: Zendesk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Zendesk_hzxwtt.png?_a=AVADKIB0)\n        \n        ![Image 2953: Liveperson](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/liveperson_xrcs2k.svg?_a=AVADKIB0)\n        \n        ![Image 2954: Intercom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/intercom_ksjxum.svg?_a=AVADKIB0)\n        \n        ![Image 2955: Ada](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ada_ar8qpb.svg?_a=AVADKIB0)\n        \n        ![Image 2956: Asapp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Asapp_i33lg9.png?_a=AVADKIB0)\n        \n        ![Image 2957: Genesys](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Genesys_gut3kr.png?_a=AVADKIB0)\n        \n        ![Image 2958: Drift](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Drift_n81jtz.png?_a=AVADKIB0)\n        \n        ![Image 2959: Uniphore](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Uniphore_pnrskr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2960: Dovetail](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dovetail_icffrs.png?_a=AVADKIB0)\n        \n        ![Image 2961: Watson Assistant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Watson_Assistant_xrcxxv.png?_a=AVADKIB0)\n        \n        ![Image 2962: Dialpad](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/dialpad_ea38ha.png?_a=AVADKIB0)\n        \n        ![Image 2963: Sprinklr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sprinklr_q3iybt.png?_a=AVADKIB0)\n        \n        ![Image 2964: Netomi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/netomi_ltcidd.png?_a=AVADKIB0)\n        \n        ![Image 2965: Slang.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Slang.ai__ir0v1x.png?_a=AVADKIB0)\n        \n        ![Image 2966: CallMiner](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/callminer_yxqxox.png?_a=AVADKIB0)\n        \n        ![Image 2967: Frame.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/frame_AI_zjqacx.png?_a=AVADKIB0)\n        \n        ![Image 2968: Kore.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kore.ai_dzwbzr.png?_a=AVADKIB0)\n        \n        ![Image 2969: Observe.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/observeAI_pr7uls.png?_a=AVADKIB0)\n        \n        ![Image 2970: Afiniti](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Afiniti_jwdafe.svg?_a=AVADKIB0)\n        \n        ![Image 2971: Cresta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cresta_okxwcb.png?_a=AVADKIB0)\n        \n        ![Image 2972: Moveworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/moveworks_cx0gvy.png?_a=AVADKIB0)\n        \n        ![Image 2973: Yellow.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/yellowAI_hxl77e.svg?_a=AVADKIB0)\n        \n        ![Image 2974: Forethought](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Forethought_g72lko.webp?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2975: Sierra AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sierra_etivlx.png?_a=AVADKIB0)\n        \n        ![Image 2976: Poly.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/PolyAI_ejsyoe.png?_a=AVADKIB0)\n        \n        ![Image 2977: Moengage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/moengage_ukyadd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2978: Ultimate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ultimate-logo_zrh9j0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2979: Kasisto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kasisto_llzbxf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2980: Dashbot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dashbot_iowagm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2981: Maven AGI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Maven_AGI_mdpe4a.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2982: Ask-AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ask-ai_c0ryt5.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2983: Certainly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Certainly_ai_vd8z0l.png?_a=AVADKIB0)\n        \n        ![Image 2984: Typewise](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Typewise_ozhxul.png?_a=AVADKIB0)\n        \n    *   [Human Capital](https://mad.firstmark.com/card#recAkWDQAhzpKXnaJ)\n        \n        ![Image 2985: HireVue](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/HireVue_gopbpm.png?_a=AVADKIB0)\n        \n        ![Image 2986: Gloat](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/gloat_nguekk.png?_a=AVADKIB0)\n        \n        ![Image 2987: Textio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/textio_ovcagl.png?_a=AVADKIB0)\n        \n        ![Image 2988: The Predictive Index](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/predictive_index_czmi1v.png?_a=AVADKIB0)\n        \n        ![Image 2989: StepStone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/stepstone_umeavo.svg?_a=AVADKIB0)\n        \n        ![Image 2990: eightfold.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/eightfold_je6mll.png?_a=AVADKIB0)\n        \n        ![Image 2991: Harver](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Harver_w6prlg.png?_a=AVADKIB0)\n        \n        ![Image 2992: Fetcher](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fetcher_vxxmwp.png?_a=AVADKIB0)\n        \n        ![Image 2993: PandoLogic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pandologic_ect0vv.png?_a=AVADKIB0)\n        \n        ![Image 2994: Lattice](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Lattice_yjs5z6.png?_a=AVADKIB0)\n        \n        ![Image 2995: Beamery](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/beamery_ixtuvd.svg?_a=AVADKIB0)\n        \n        ![Image 2996: Entelo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Entelo_z7jsgt.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 2997: Seekout](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SeekOut_nkhxyq.png?_a=AVADKIB0)\n        \n        ![Image 2998: Visier](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/visier_cguzio.png?_a=AVADKIB0)\n        \n        ![Image 2999: Turing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/turing_mmqzxd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3000: Moonhub](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Moonhub_ai_pmjb4z.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3001: Scribe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SCRIBE_Logo_e3npxw.png?_a=AVADKIB0)\n        \n    *   [Automation & Operations](https://mad.firstmark.com/card#reczICew2q9n06v1z)\n        \n        ![Image 3002: UiPath](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/UiPath_uv4q4c.png?_a=AVADKIB0)\n        \n        ![Image 3003: Celonis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Celonis_vujzxe.png?_a=AVADKIB0)\n        \n        ![Image 3004: HyperScience](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hyperscience_ta98fs.png?_a=AVADKIB0)\n        \n        ![Image 3005: Abbyy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Abbyy_iczypx.png?_a=AVADKIB0)\n        \n        ![Image 3006: Eigen Technologies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Eigen_Technologies_nt6zke.png?_a=AVADKIB0)\n        \n        ![Image 3007: Ocrolus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ocrolus_a1keou.png?_a=AVADKIB0)\n        \n        ![Image 3008: Tonkean](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tonkean_g7vt5w.svg?_a=AVADKIB0)\n        \n        ![Image 3009: Antworks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Antworks_yhszyj.png?_a=AVADKIB0)\n        \n        ![Image 3010: Tungsten Automation](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Tungsten_Automation_mvnvm7.png?_a=AVADKIB0)\n        \n        ![Image 3011: Instabase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/instabase_uoatbr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3012: Luminai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Luminai_mv1p1n.png?_a=AVADKIB0)\n        \n        ![Image 3013: Workato](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Workato_xv4llz.svg?_a=AVADKIB0)\n        \n        ![Image 3014: Zapier](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zapier_knzuao.svg?_a=AVADKIB0)\n        \n        ![Image 3015: Alkymi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alkymi_mtzrst.png?_a=AVADKIB0)\n        \n        ![Image 3016: JIFFY.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Jiffy_AI_lj5fqg.png?_a=AVADKIB0)\n        \n        ![Image 3017: Rossum](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rossum_izyu0e.png?_a=AVADKIB0)\n        \n        ![Image 3018: Bardeen.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bardeen_zgmkdo.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3019: Kognitos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kognitos_tm4xke.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3020: Orby AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Orby_AI_nfoted.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3021: DeepOpinion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DeepOpinion_bglpsw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3022: Axiom AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Axiom_ai_pq4cug.png?_a=AVADKIB0)\n        \n        ![Image 3023: Levity AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Levity_AI_nmbhsg.svg?_a=AVADKIB0)\n        \n    *   [Decision & Optimization](https://mad.firstmark.com/card#reczw46ANkskmHN9v)\n        \n        ![Image 3024: Peak AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/peak_vsy2ym.png?_a=AVADKIB0)\n        \n        ![Image 3025: NextMV](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/NextMV_ivu8b4.png?_a=AVADKIB0)\n        \n        ![Image 3026: Arena](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Arena_AI_dyrotx.png?_a=AVADKIB0)\n        \n        ![Image 3027: Buynomics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Buynomics_mztlwx.png?_a=AVADKIB0)\n        \n        ![Image 3028: Aera Technology](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aera_kezq7t.png?_a=AVADKIB0)\n        \n        ![Image 3029: Paretos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Paretos_tbhzep.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3030: Lyric](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Lyric_tnahjs.png?_a=AVADKIB0)\n        \n    *   [Legal](https://mad.firstmark.com/card#recGhGOmxA3oJ0h2i)\n        \n        ![Image 3031: CS Disco](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/disco_tqwwc1.png?_a=AVADKIB0)\n        \n        ![Image 3032: Relativity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/relativity_mgghs1.png?_a=AVADKIB0)\n        \n        ![Image 3033: Thomson Reuters Casetext](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/casetext_wulyce.png?_a=AVADKIB0)\n        \n        ![Image 3034: Everlaw](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Everlaw_qgtt3d.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3035: EvenUp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/EvenUp_g79lay.png?_a=AVADKIB0)\n        \n        ![Image 3036: Ironclad](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ironclad_wb3apq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3037: Harvey](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Harvey_zldxei.png?_a=AVADKIB0)\n        \n        ![Image 3038: icertis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Icertis_fofgbh.svg?_a=AVADKIB0)\n        \n        ![Image 3039: Linksquares](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/linksquares_jswjrk.svg?_a=AVADKIB0)\n        \n        ![Image 3040: ContractPodAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ContractPodAI_mpm5ya.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3041: Darrow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Darrow_orai3i.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3042: Lexion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lexion-logo-767x633_ww0ypj.png?_a=AVADKIB0)\n        \n        ![Image 3043: Reveal Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Reveal_data_dibsqx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3044: LexCheck](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LexCheck_Logo_eb66yw.png?_a=AVADKIB0)\n        \n        ![Image 3045: DoNotPay](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DoNotPay_qbxo7p.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3046: Robin AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Robin_AI_Logo_c9xba5.png?_a=AVADKIB0)\n        \n        ![Image 3047: TermScout](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/TermScout_azdkuy.svg?_a=AVADKIB0)\n        \n        ![Image 3048: Spellbook](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Spellbook_d0mgr2.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3049: Eve](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/eve_rkjmcg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3050: Midpage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/midpage_uwr3lu.png?_a=AVADKIB0)\n        \n        ![Image 3051: Luminance](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/luminance_uwgbor.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3052: Paxton](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Paxton_o7ctif.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3053: Pincites](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Pincites_hagxnj.png?_a=AVADKIB0)\n        \n    *   [Partnerships](https://mad.firstmark.com/card#recV1d2dz8WBeeTHD)\n        \n        ![Image 3054: Partnertap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Partnertap_gsc5yo.png?_a=AVADKIB0)\n        \n        ![Image 3055: Crossbeam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/crossbeam_dhskbi.png?_a=AVADKIB0)\n        \n        ![Image 3056: Partnerstack](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Partnerstack_anvyho.svg?_a=AVADKIB0)\n        \n        ![Image 3057: Workspan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/workspan_oubscp.png?_a=AVADKIB0)\n        \n        ![Image 3058: LiveRamp Habu](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Liveramp_x_Habu_eaqsvw.png?_a=AVADKIB0)\n        \n        ![Image 3059: Reveal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Reveal.io_bw3yel.png?_a=AVADKIB0)\n        \n        ![Image 3060: Infosum](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/infosum_jqk4ya.png?_a=AVADKIB0)\n        \n        ![Image 3061: Vendia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Vendia_mdppwn.svg?_a=AVADKIB0)\n        \n    *   [Regtech & Compliance](https://mad.firstmark.com/card#reclk8RLkDZ1lZvgV)\n        \n        ![Image 3062: Drata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Drata_t8drr5.png?_a=AVADKIB0)\n        \n        ![Image 3063: Vanta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vanta_zuhjry.png?_a=AVADKIB0)\n        \n        ![Image 3064: BigID](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BigID_ancp0f.png?_a=AVADKIB0)\n        \n        ![Image 3065: MinervaAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Minerva_AI_eg5ikj.png?_a=AVADKIB0)\n        \n        ![Image 3066: Hummingbird](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hummingbird_ua4x7f.png?_a=AVADKIB0)\n        \n        ![Image 3067: Comply Advantage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/comply_advantage_tyic26.png?_a=AVADKIB0)\n        \n        ![Image 3068: Forter](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/forter_af90a7.svg?_a=AVADKIB0)\n        \n        ![Image 3069: Compliance AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Compliance_AI_zda2zu.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3070: Logically](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/logically-logo_w4nmqy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3071: Unitary](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Unitary_bc7yed.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3072: Norm AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Norm_Ai_dvwsrm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3073: Greenlite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Greenlite_oxvfvr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3074: Weave AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Weave_ai_logo_af6rol.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3075: Hadrius](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hadrius_ybezn2.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3076: Fern AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fern_ai__z5cj4v.png?_a=AVADKIB0)\n        \n    *   [Finance](https://mad.firstmark.com/card#rechPcKzZDfh0mBau)\n        \n        ![Image 3077: Anaplan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anaplan_razezf.svg?_a=AVADKIB0)\n        \n        ![Image 3078: Avalara](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/avalara_y5glab.png?_a=AVADKIB0)\n        \n        ![Image 3079: oracle Netsuite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Oracle_NetSuite_v5fol6.svg?_a=AVADKIB0)\n        \n        ![Image 3080: SAP S/4 HANA](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SAP_S4_HANA_xsn1ct.png?_a=AVADKIB0)\n        \n        ![Image 3081: Cube](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cube_si7mjt.png?_a=AVADKIB0)\n        \n        ![Image 3082: Pigment](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pigment_o0gq7l.png?_a=AVADKIB0)\n        \n        ![Image 3083: Zuora](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zuora_yvdcvs.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3084: Metronome](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/metronome_qwctpi.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3085: Lago](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lago_ksrngm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3086: m3ter](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/m3ter-logo-blue_v4zfoy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3087: Orb](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Orb_czhyyv.png?_a=AVADKIB0)\n        \n        ![Image 3088: Digits](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Digits_wcdiv8.png?_a=AVADKIB0)\n        \n        ![Image 3089: Pilot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pilot_lpqfp8.png?_a=AVADKIB0)\n        \n        ![Image 3090: Appzen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/appzen_u3kqqp.svg?_a=AVADKIB0)\n        \n        ![Image 3091: Planful](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Planful_g8ocgr.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3092: Vic.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vic_ai_cti4pe.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3093: Causal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Causal_k8hzzq.png?_a=AVADKIB0)\n        \n        ![Image 3094: Vena](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/vena_solutions_k7afdl.png?_a=AVADKIB0)\n        \n        ![Image 3095: Datarails](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/datarails_g2wgis.png?_a=AVADKIB0)\n        \n        ![Image 3096: Highradius](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/highradius_uf9epk.png?_a=AVADKIB0)\n        \n        ![Image 3097: Botkeeper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/botkeeper_odbdbr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3098: WiseLayer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/WiseLayer_cb36ir.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3099: Anrok](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Anrok_z6syr3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3100: Truewind](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Truewind_ekziqd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3101: Arkifi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Arkifi_qxzuku.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3102: OpenEnvoy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenEnvoy_gkdl10.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3103: Arteria AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/arteria_ai_hoet4p.png?_a=AVADKIB0)\n        \n*   [Applications - Horizontal](https://mad.firstmark.com/card#recH4eV7b3RLJzk9S)\n    *   [Code & Documentation](https://mad.firstmark.com/card#rectAN6daM3fXr0QR)\n        \n        ![Image 3104: Replit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/replit_ul77hy.png?_a=AVADKIB0)\n        \n        ![Image 3105: GitHub Copilot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Github_Copilot_ydggqt.png?_a=AVADKIB0)\n        \n        ![Image 3106: Tabnine](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tabnine_ennswa.svg?_a=AVADKIB0)\n        \n        ![Image 3107: AWS CodeWhisperer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Amazon_CodeWhisperer_mviwvf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3108: Poolside](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Poolside_ai_m9yopm.png?_a=AVADKIB0)\n        \n        ![Image 3109: Magic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Magic.dev_god9wr.svg?_a=AVADKIB0)\n        \n        ![Image 3110: Warp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/warp.dev_enndzu.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3111: Cursor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cursor_lpyelt.png?_a=AVADKIB0)\n        \n        ![Image 3112: Stenography](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/stenography_t8egyr.png?_a=AVADKIB0)\n        \n        ![Image 3113: Mintlify](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mintlify_un46xz.svg?_a=AVADKIB0)\n        \n        ![Image 3114: Debuild](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/debuild_yzltxq.png?_a=AVADKIB0)\n        \n        ![Image 3115: Anima](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anima_uelkkx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3116: Coda](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/coda_io_fywscy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3117: Cody](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cody_ds3dhx.png?_a=AVADKIB0)\n        \n        ![Image 3118: Mutable.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mutable_lkfzqs.png?_a=AVADKIB0)\n        \n        ![Image 3119: AI2sql](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AI2sql_lez8ef.png?_a=AVADKIB0)\n        \n        ![Image 3120: Salesforce CodeGen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Salesforce_CodeGen_isjp9z.png?_a=AVADKIB0)\n        \n        ![Image 3121: Moderne](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Moderne_btqxm3.png?_a=AVADKIB0)\n        \n        ![Image 3122: Diffblue](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/diffblue_mhnydm.png?_a=AVADKIB0)\n        \n        ![Image 3123: Machinet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/machinet_zhwrlp.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3124: Factory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Factory_ai_dijuuw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3125: Codium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/codium_ai_rodcx5.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3126: Codeium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/codeium_qesvsn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3127: Astral](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Astral_f3yxcn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3128: TabbyML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/TabbyML_ndok0o.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3129: Cosine](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cosine__wubzy3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3130: Laredo Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Laredo_Labs_rh05f9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3131: Daytona](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Daytona_ou8lbu.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3132: CodeComplete](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/CodeComplete_uckbae.png?_a=AVADKIB0)\n        \n    *   [Text](https://mad.firstmark.com/card#recsNegCw6qyVCXVU)\n        \n        ![Image 3133: Jasper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Jasper-Ai_ecqqd8.svg?_a=AVADKIB0)\n        \n        ![Image 3134: Writer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/writer_sstfi8.png?_a=AVADKIB0)\n        \n        ![Image 3135: Copy.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/copy_ai_epryos.png?_a=AVADKIB0)\n        \n        ![Image 3136: Grammarly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Grammarly_sbtnzx.png?_a=AVADKIB0)\n        \n        ![Image 3137: Cogram](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cogram_xi8cae.png?_a=AVADKIB0)\n        \n        ![Image 3138: Sudowrite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sudowrite_hgyey9.png?_a=AVADKIB0)\n        \n        ![Image 3139: Wordtune](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/wordtune_ysdpwa.png?_a=AVADKIB0)\n        \n        ![Image 3140: Compose.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/compose_ai_dxsvmf.png?_a=AVADKIB0)\n        \n        ![Image 3141: Moonbeam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Moonbeam_qh6ssd.png?_a=AVADKIB0)\n        \n        ![Image 3142: Subtxt](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Subtxt_uisvtn.png?_a=AVADKIB0)\n        \n        ![Image 3143: NovelAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/novelAI_otngh1.png?_a=AVADKIB0)\n        \n        ![Image 3144: Laika](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/laika_qopg4z.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3145: Scalenut](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Scalenut_oqtqvl.png?_a=AVADKIB0)\n        \n        ![Image 3146: HyperWrite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/hyperwrite_tpxdtz.png?_a=AVADKIB0)\n        \n        ![Image 3147: Craftly AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Craftly_f74ko1.png?_a=AVADKIB0)\n        \n        ![Image 3148: Fable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/fable_ml_oedbpt.png?_a=AVADKIB0)\n        \n        ![Image 3149: OneAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/One_AI_gxoc2a.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3150: Strut](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Strut_v1v7mk.png?_a=AVADKIB0)\n        \n    *   [Audio & Voice](https://mad.firstmark.com/card#recU4ERIUXQNSkBJJ)\n        \n        ![Image 3151: Aimi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/aimi_f9v0da.png?_a=AVADKIB0)\n        \n        ![Image 3152: Descript](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/descript_wttwny.svg?_a=AVADKIB0)\n        \n        ![Image 3153: Krisp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/krisp_pqquq1.png?_a=AVADKIB0)\n        \n        ![Image 3154: Aiva](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Aiva_Technologies_wgr8qo.png?_a=AVADKIB0)\n        \n        ![Image 3155: OtterAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Otter_AI_kuekrk.svg?_a=AVADKIB0)\n        \n        ![Image 3156: Coqui](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/coqui_mgrd68.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3157: Suno](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Suno_bsu53c.png?_a=AVADKIB0)\n        \n        ![Image 3158: Hume AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hume_AI_s08cfk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3159: Sanas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sanas_Logo_khrhl3.png?_a=AVADKIB0)\n        \n        ![Image 3160: Wellsaid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/wellsaid_q3j8g5.png?_a=AVADKIB0)\n        \n        ![Image 3161: Voicemod](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Voicemod_Logo_elxksi.svg?_a=AVADKIB0)\n        \n        ![Image 3162: Neosapience](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/neosapience_lat9ys.png?_a=AVADKIB0)\n        \n        ![Image 3163: Resemble.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/ResembleAI_j31hgn.png?_a=AVADKIB0)\n        \n        ![Image 3164: Boomy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/boomy_tyyzrk.png?_a=AVADKIB0)\n        \n        ![Image 3165: Vocalid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/VocalID_fqiehv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3166: Fireflies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/fireflies_nvmfvv.png?_a=AVADKIB0)\n        \n        ![Image 3167: Play.ht](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Playground_rzmgnu.png?_a=AVADKIB0)\n        \n        ![Image 3168: Endel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Endel_p4koeq.png?_a=AVADKIB0)\n        \n        ![Image 3169: Replica Studios](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/replica_d9v7uh.png?_a=AVADKIB0)\n        \n        ![Image 3170: Supertone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/supertone_ccdkil.png?_a=AVADKIB0)\n        \n        ![Image 3171: Modulate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Modulate_bmkowv.png?_a=AVADKIB0)\n        \n        ![Image 3172: Murf.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Murf_vt8e5j.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3173: Rilla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Rilla_jfcemv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3174: Splash](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/splash_dq5hx8.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3175: Audialab](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Audialab_vjt4qs.png?_a=AVADKIB0)\n        \n        ![Image 3176: Podcast.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Podcast.ai_d06ovp.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3177: Riverside](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Riverside_ydl2j3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3178: Podcastle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/podcastle-logo-1024x427_xkjgss.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3179: Mubert](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mubert-logo_tznnds.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3180: Harmonai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Harmonai_oracwo.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3181: Okio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/okio_logo_uqlayo.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3182: TuneFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/TuneFlow_jirfnx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3183: Ad Auris](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Ad_auris_irvtl4.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3184: Sonify](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sonify-logo_nrclyj.png?_a=AVADKIB0)\n        \n    *   [Image](https://mad.firstmark.com/card#recmwKRC3CNz1jJ8v)\n        \n        ![Image 3185: Midjourney](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/midjourney_wuit1m.png?_a=AVADKIB0)\n        \n        ![Image 3186: Stability.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stability_ai_lx9w1z.png?_a=AVADKIB0)\n        \n        ![Image 3187: PhotoRoom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/photoroom_qx6kqz.png?_a=AVADKIB0)\n        \n        ![Image 3188: imagen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_Imagen_cz4pvj.png?_a=AVADKIB0)\n        \n        ![Image 3189: Prisma Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Prisma_Labs_ejcb7a.png?_a=AVADKIB0)\n        \n        ![Image 3190: Playground](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Playground_rzmgnu.png?_a=AVADKIB0)\n        \n        ![Image 3191: Lexica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/lexica_ys7haa.png?_a=AVADKIB0)\n        \n        ![Image 3192: Craiyon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/craiyon_igaxtt.png?_a=AVADKIB0)\n        \n        ![Image 3193: Alpaca](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Alpaca_dqbhho.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3194: Ideogram](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ideogram_ps2z9f.png?_a=AVADKIB0)\n        \n        ![Image 3195: Finegrain](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Finegrain_ephrzi.png?_a=AVADKIB0)\n        \n        ![Image 3196: Facet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/facet.ai_vj7t5n.png?_a=AVADKIB0)\n        \n        ![Image 3197: Lets Enhance.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Lets_Enhance_h0jf68.png?_a=AVADKIB0)\n        \n        ![Image 3198: Topaz Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/topaz_labs_iq5noq.png?_a=AVADKIB0)\n        \n        ![Image 3199: Artbreeder](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/artbreeder_u29tmf.avif?_a=AVADKIB0)\n        \n        ![Image 3200: Hypotenuse AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hypotenuse_AI_p1v2dk.png?_a=AVADKIB0)\n        \n        ![Image 3201: Mage.space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mage.space_nxkgzs.png?_a=AVADKIB0)\n        \n        ![Image 3202: Nyx.gallery](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nyx_Gallery_b4tx8u.svg?_a=AVADKIB0)\n        \n        ![Image 3203: Windsor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/windsor_wpnctz.png?_a=AVADKIB0)\n        \n        ![Image 3204: Krea](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Krea_l3j3q3.png?_a=AVADKIB0)\n        \n        ![Image 3205: PixelVibe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/pixelvibe_sjsyt8.png?_a=AVADKIB0)\n        \n        ![Image 3206: Waifu Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Waifu_Labs_pxfufh.png?_a=AVADKIB0)\n        \n        ![Image 3207: Blend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BlendNow_jsjoj4.png?_a=AVADKIB0)\n        \n        ![Image 3208: Lightricks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/lightricks_zr1qbh.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3209: Metaspectral](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Metaspectral_juxlrq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3210: Visionary.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Visionary_ai_ri2aax.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3211: Visual Electric](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Visual_Electric_yrucnv.png?_a=AVADKIB0)\n        \n    *   [Presentation & Design](https://mad.firstmark.com/card#recWYs51tm7boo9WN)\n        \n        ![Image 3212: Adobe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/adobe_eig9hy.png?_a=AVADKIB0)\n        \n        ![Image 3213: Figma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Figma_ct4g2m.png?_a=AVADKIB0)\n        \n        ![Image 3214: Canva](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Canva-logo_ud7neq.png?_a=AVADKIB0)\n        \n        ![Image 3215: Notion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/notion__aawjag.png?_a=AVADKIB0)\n        \n        ![Image 3216: Mem](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/mem_ztmitr.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3217: tome](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/tome-logo_fpitfg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3218: Beautiful.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/beautiful_ai_geotvg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3219: Gamma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Gamma_ynsepj.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3220: Prezo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Prezo_fgxr0d.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3221: Napkin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Napkin_ul2ypw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3222: Galileo AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Galileo_AI_mrmhbz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3223: Poly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Poly_dogrlj.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3224: Vizcom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vizcom_ebc8uy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3225: Picsart](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Picsart-Logo_bh1rjv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3226: Recraft](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Recraft_r44icm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3227: Kittl](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kittl_zyx0eg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3228: Modyfi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Modyfi_awjowk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3229: Framer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Framer_zf6xaf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3230: Durable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/durable_rxm96s.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3231: Moonshot AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Moonshot_ai_zw8ipy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3232: Krea](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Krea_xqasou.png?_a=AVADKIB0)\n        \n    *   [Video Editing](https://mad.firstmark.com/card#recqNQqpcWVgLROT4)\n        \n        ![Image 3233: Runway](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/runway_vk8r0s.png?_a=AVADKIB0)\n        \n        ![Image 3234: Descript](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/descript_wttwny.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3235: Captions](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Captions_qr30aj.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3236: Lensa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lensa_ai_ujpku4.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3237: Remini](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Remini_z1z0rw.png?_a=AVADKIB0)\n        \n    *   [Video Generation](https://mad.firstmark.com/card#rec6UyZQMoSzU7mbg)\n        \n        New\n        \n        ![Image 3238: OpenAI Sora](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Open_AI_Sora_dxoz6h.png?_a=AVADKIB0)\n        \n        ![Image 3239: Synthesia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/synthesia_yatnpc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3240: Google Research Lumiere](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Google-Research-Lumiere_kulu3g.png?_a=AVADKIB0)\n        \n        ![Image 3241: Twelve Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Twelve_Labs_gy4abu.png?_a=AVADKIB0)\n        \n        ![Image 3242: EmbodyMe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EmbodyMe_dwmoae.png?_a=AVADKIB0)\n        \n        ![Image 3243: Deepbrain AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deepbrain_wal7hg.png?_a=AVADKIB0)\n        \n        ![Image 3244: Wombo.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Wombo_pcnb9a.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3245: Pika](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Pika_c5gflk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3246: Veed.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/veed-io_ji2cbx.png?_a=AVADKIB0)\n        \n        ![Image 3247: D-ID](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/D-ID_baywmg.png?_a=AVADKIB0)\n        \n        ![Image 3248: Fliki](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fliki_glzcfz.png?_a=AVADKIB0)\n        \n        ![Image 3249: Tavus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tavus_izv3av.png?_a=AVADKIB0)\n        \n        ![Image 3250: Hour One](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hour_One_eimfcn.png?_a=AVADKIB0)\n        \n        ![Image 3251: Soul Machines](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/soulmachines_zxnpcv.png?_a=AVADKIB0)\n        \n        ![Image 3252: Vidyo.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/vidyoAI_kcq2im.png?_a=AVADKIB0)\n        \n        ![Image 3253: Pictory](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Pictory_bual72.png?_a=AVADKIB0)\n        \n        ![Image 3254: Movio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Movio_paczux.png?_a=AVADKIB0)\n        \n        ![Image 3255: Colossyan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Colossyan_nt3jzw.svg?_a=AVADKIB0)\n        \n        ![Image 3256: Metaphysic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Metaphysic_jn3j63.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3257: HeyGen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/HeyGen_x2t9xf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3258: Gan.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/gan_ai_logo_rfgy34.png?_a=AVADKIB0)\n        \n        ![Image 3259: Yepic.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Yepic_dfjles.png?_a=AVADKIB0)\n        \n        ![Image 3260: Typecast](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Typecast_hdcxth.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3261: Maverick](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Maverick_zyinpn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3262: Ozone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Ozone_rvfdvc.png?_a=AVADKIB0)\n        \n    *   [Animation & 3D / Gaming](https://mad.firstmark.com/card#recVyEMOnStKj3l3a)\n        \n        ![Image 3263: Avataar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/avataar_mrjqj5.png?_a=AVADKIB0)\n        \n        ![Image 3264: CSM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CSM_cyu30p.png?_a=AVADKIB0)\n        \n        ![Image 3265: Inworld](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/inworld_adoot5.png?_a=AVADKIB0)\n        \n        ![Image 3266: Luma.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/luma_labs_qd08xx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3267: SandboxAQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SandboxAQ_prsg1w.png?_a=AVADKIB0)\n        \n        ![Image 3268: DataGrid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datagrid_nm9tbu.png?_a=AVADKIB0)\n        \n        ![Image 3269: Anything World](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/anything.world_iysedy.png?_a=AVADKIB0)\n        \n        ![Image 3270: Didimo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Didimo_jt6keq.png?_a=AVADKIB0)\n        \n        ![Image 3271: Mirage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mirage_ujtvfn.png?_a=AVADKIB0)\n        \n        ![Image 3272: Kaedim](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kaedim_logo_s2fq96.png?_a=AVADKIB0)\n        \n        ![Image 3273: Hypothetic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hypothetic_oxhpyx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3274: Multiverse Computing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Multiverse_Computing_Logo_shfqiz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3275: Ready Player Me](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ReadyPlayerMe_r2edua.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3276: Leonardo.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Leonardo_ai_yv2qca.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3277: Convai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Convai_r2vewk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3278: Spline](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Spline_cpb9kp.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3279: Flawless](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Flawless_oyjwxb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3280: Move](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Move_ai_dmtcso.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3281: Wonder Dynamics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Wonder_Dynamics_cixo12.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3282: AI Dungeon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ai_dungeon_nnglpd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3283: Scenario](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Scenario_abtdhb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3284: Layer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Layer_l1f9hn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3285: Astroblox](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Astroblox_vjg98o.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3286: Physna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/physna_hz2xa0.png?_a=AVADKIB0)\n        \n    *   [Search / Conversational AI](https://mad.firstmark.com/card#recwmpNhqr2WtE0TG)\n        \n        ![Image 3287: OpenAI ChatGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/OpenAI_ChatGPT_cgd71e.png?_a=AVADKIB0)\n        \n        ![Image 3288: Anthropic Claude 3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/anthropic_Claude_3_mbspua.png?_a=AVADKIB0)\n        \n        ![Image 3289: Inflection Pi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Inflection_Pi_mtdxut.png?_a=AVADKIB0)\n        \n        ![Image 3290: Adept ACT 1](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adept_Act-1_hmv8bm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3291: Mistral Le Chat](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/le_chat_mistral_q8wps1.png?_a=AVADKIB0)\n        \n        ![Image 3292: Perplexity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Perplexity_oym3sw.png?_a=AVADKIB0)\n        \n        ![Image 3293: You](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/you.com_zeincr.png?_a=AVADKIB0)\n        \n        ![Image 3294: Metaphor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/metaphor_w8bnd1.png?_a=AVADKIB0)\n        \n        ![Image 3295: Mem](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/mem_ztmitr.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3296: Character.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Character.ai_pkw6a2.png?_a=AVADKIB0)\n        \n        ![Image 3297: Dust](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dust.tt_suiotw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3298: Leena AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/leena_ai_logo_cl15vv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3299: Voiceflow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Voiceflow_jkctxa.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3300: Chai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/chai-logo_wjelwy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3301: Xembly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Xembly_mk2g5a.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3302: Lindy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lindy_ai_mbnet4.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3303: Personal AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Personal_AI_od6wlg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3304: Dot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/New_Computer_sppct3.png?_a=AVADKIB0)\n        \n        ![Image 3305: WolframAlpha](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/wolfram_alpha_vwjt4m.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3306: Luzia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Luzia_xio9qv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3307: nlx](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/nlx_zmmttg.png?_a=AVADKIB0)\n        \n        ![Image 3308: Genei](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Genei_awgkep.png?_a=AVADKIB0)\n        \n        ![Image 3309: Deepsearch Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeepSearch_Labs_bnhtlo.svg?_a=AVADKIB0)\n        \n*   [Applications - Industry](https://mad.firstmark.com/card#recrtcsqKF61puOyL)\n    *   [Finance & Insurance](https://mad.firstmark.com/card#rec9sicw0k1qwVYn9)\n        \n        ![Image 3310: Kensho](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kensho_oaiphp.png?_a=AVADKIB0)\n        \n        ![Image 3311: Upstart](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/upstart_luehi9.png?_a=AVADKIB0)\n        \n        ![Image 3312: Lemonade](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Lemonade_kroqah.png?_a=AVADKIB0)\n        \n        ![Image 3313: Guidewire](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Guidewire_qgqavy.png?_a=AVADKIB0)\n        \n        ![Image 3314: EvolutionIQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EvolutionIQ_rtkl0o.png?_a=AVADKIB0)\n        \n        ![Image 3315: Arturo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/arturo_vevj4y.png?_a=AVADKIB0)\n        \n        ![Image 3316: Cape Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Cape_Analytics_nt4ozd.png?_a=AVADKIB0)\n        \n        ![Image 3317: Shift Technology](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Shift_Technology_k1xfye.png?_a=AVADKIB0)\n        \n        ![Image 3318: Planck](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/planck_szxerl.png?_a=AVADKIB0)\n        \n        ![Image 3319: Tractable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Tractable_zcaorb.png?_a=AVADKIB0)\n        \n        ![Image 3320: Cowbell](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cowbell_uek95s.png?_a=AVADKIB0)\n        \n        ![Image 3321: Friss](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/friss_vfpa7k.png?_a=AVADKIB0)\n        \n        ![Image 3322: Zelros](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/zelros_dtbtbm.png?_a=AVADKIB0)\n        \n        ![Image 3323: AlphaSense](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AlphaSense_bxgwac.png?_a=AVADKIB0)\n        \n        ![Image 3324: Zesty.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zesty_AI_e3btgu.png?_a=AVADKIB0)\n        \n        ![Image 3325: Envelop Risk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Envelop_hyl1br.png?_a=AVADKIB0)\n        \n        ![Image 3326: Socure](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Socure_v62w6q.png?_a=AVADKIB0)\n        \n        ![Image 3327: Zest AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zest_AI_qzlwg6.svg?_a=AVADKIB0)\n        \n        ![Image 3328: Symphony AI Sensa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Symphony_AI_Sensa_oxvmnc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3329: Boosted.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Boosted_ai_lzf5xi.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3330: Noetica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Noetica_b5whb4.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3331: Hyperplane](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hyperplane_ai_asevbf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3332: Streetbeat](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Streetbeat_a1prcp.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3333: Seel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Seel_mck9xr.png?_a=AVADKIB0)\n        \n        ![Image 3334: Enova](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Enova_x71mad.png?_a=AVADKIB0)\n        \n        ![Image 3335: Taktile](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Taktile_qffbvj.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3336: Zeplyn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Zeplyn_ai_uj7kcf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3337: Black Ore](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/black-ore-logo-horizontal_k4og3b.jpg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3338: Basis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Basis_dgox0w.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3339: Materia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Materia_ghn1r2.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3340: Farsight AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Farsight_spw5mh.png?_a=AVADKIB0)\n        \n    *   [Healthcare](https://mad.firstmark.com/card#rechiAmZpqCisYQfa)\n        \n        ![Image 3341: Flatiron](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/flatiron_lio2qp.png?_a=AVADKIB0)\n        \n        ![Image 3342: Grail](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/grail_cemyji.png?_a=AVADKIB0)\n        \n        ![Image 3343: Tempus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tempus_imm1zt.png?_a=AVADKIB0)\n        \n        ![Image 3344: Biofourmis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/biofourmis_lvrunz.png?_a=AVADKIB0)\n        \n        ![Image 3345: John Snow Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/john_snow_labs_uprmn3.png?_a=AVADKIB0)\n        \n        ![Image 3346: PathAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pathAI_t6pkr2.svg?_a=AVADKIB0)\n        \n        ![Image 3347: Aidoc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/aidoc_gmcxtl.png?_a=AVADKIB0)\n        \n        ![Image 3348: Human Longevity](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/human_longevity_iht2nk.png?_a=AVADKIB0)\n        \n        ![Image 3349: Komodo Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Komodo_vmxnbe.png?_a=AVADKIB0)\n        \n        ![Image 3350: Cleerly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cleerly_zz5act.png?_a=AVADKIB0)\n        \n        ![Image 3351: AiCure](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AiCure_qw8i2m.png?_a=AVADKIB0)\n        \n        ![Image 3352: SigTuple](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sigtuple_gckh8v.png?_a=AVADKIB0)\n        \n        ![Image 3353: Syllable.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Syllable_bgq7fi.png?_a=AVADKIB0)\n        \n        ![Image 3354: Innovaccer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/innovaccer_cvyi1d.svg?_a=AVADKIB0)\n        \n        ![Image 3355: Pager](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pager_zapdv6.png?_a=AVADKIB0)\n        \n        ![Image 3356: Syapse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/syapse_xaddys.png?_a=AVADKIB0)\n        \n        ![Image 3357: Spring Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/springhealth_qtqh0w.png?_a=AVADKIB0)\n        \n        ![Image 3358: Iterative Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/iterative_health_zcxwc9.png?_a=AVADKIB0)\n        \n        ![Image 3359: Human DX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Human_DX_yhjckq.png?_a=AVADKIB0)\n        \n        ![Image 3360: Viz.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/vizAI_gjfgbe.svg?_a=AVADKIB0)\n        \n        ![Image 3361: Ezra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ezra_y76mkt.png?_a=AVADKIB0)\n        \n        ![Image 3362: Enlitic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Enlitic_epslrr.png?_a=AVADKIB0)\n        \n        ![Image 3363: Imagen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Imagen_apet8i.png?_a=AVADKIB0)\n        \n        ![Image 3364: Abacus Insights](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Abacus_Insights_cacjxr.png?_a=AVADKIB0)\n        \n        ![Image 3365: LeanTaas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/leantaas_b2r1y3.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3366: Eleos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Eleos_bju4vk.png?_a=AVADKIB0)\n        \n        ![Image 3367: Clarify](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/clarify_xrx1e3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3368: Navina](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Navina_xqxg3x.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3369: Subtle Medical](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Navina_xqxg3x.png?_a=AVADKIB0)\n        \n        ![Image 3370: Deepscribe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeepScribe_pz5qht.png?_a=AVADKIB0)\n        \n        ![Image 3371: Abridge](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Abridge_u1tfjm.png?_a=AVADKIB0)\n        \n        ![Image 3372: Nabla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nabla_j5xutp.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3373: Ambience](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Ambience_qg5g3u.png?_a=AVADKIB0)\n        \n        ![Image 3374: Regard](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Regard_h83sfx.png?_a=AVADKIB0)\n        \n        ![Image 3375: Vara](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Vara_bozfyp.png?_a=AVADKIB0)\n        \n        ![Image 3376: Fathom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Fathom_Health_mdarvt.svg?_a=AVADKIB0)\n        \n        ![Image 3377: Rad AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rad_AI_v347ib.png?_a=AVADKIB0)\n        \n        ![Image 3378: Akasa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/akasa_aypdvd.png?_a=AVADKIB0)\n        \n        ![Image 3379: Anomaly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anomaly_mdatbo.png?_a=AVADKIB0)\n        \n        ![Image 3380: Sonio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sonio_hknfc0.png?_a=AVADKIB0)\n        \n        ![Image 3381: Quibim](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Quibim_v9vaaf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3382: Bayesian Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Bayesian-Health_le1qd0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3383: Turbine](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/turbine_bpoge9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3384: Corti](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/corti_tixzmd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3385: Xyla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Xyla_kzv4sv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3386: Forta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Forta_svre6o.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3387: Memora Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Memora_Health_pqxeqy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3388: Gesund AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Gesund_bodlk8.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3389: Caspar AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Caspar_AI_Logo_plkcl1.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3390: Hippocratic AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hippocratic_AI_gwvjr5.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3391: CoHelm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Co_Helm_ptf7a1.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3392: Glass Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Glass_Health_y9sgvx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3393: Latent](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Latent_uo4hvv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3394: SmarterDx](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SmarterDx_cppdxe.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3395: Aiberry](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/aiberry_z6hhlv.png?_a=AVADKIB0)\n        \n    *   [Life Sciences](https://mad.firstmark.com/card#rec23DDS6ZEcmOnj3)\n        \n        ![Image 3396: Insilico Medicine](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/insilico_medicine_e7bfn1.png?_a=AVADKIB0)\n        \n        ![Image 3397: Benchling](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Benchling_tho57n.svg?_a=AVADKIB0)\n        \n        ![Image 3398: 23andMe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/23andme_nmroxf.svg?_a=AVADKIB0)\n        \n        ![Image 3399: Color](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/color_prwfpi.png?_a=AVADKIB0)\n        \n        ![Image 3400: Sophia Genetics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sophia_Genetics_hwlomi.png?_a=AVADKIB0)\n        \n        ![Image 3401: Verily](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/verily_vumpps.svg?_a=AVADKIB0)\n        \n        ![Image 3402: BenevolentAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Benevolent_AI_ospa5y.png?_a=AVADKIB0)\n        \n        ![Image 3403: DNAnexus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DNAnexus_pitjrb.png?_a=AVADKIB0)\n        \n        ![Image 3404: Schrodinger](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/schrodinger_pmie2u.png?_a=AVADKIB0)\n        \n        ![Image 3405: iCarbonX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ICarbonX_fyfsx1.png?_a=AVADKIB0)\n        \n        ![Image 3406: Freenome](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/freenome_z3lzwr.png?_a=AVADKIB0)\n        \n        ![Image 3407: Owkin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Owkin_tgypo2.png?_a=AVADKIB0)\n        \n        ![Image 3408: Atomwise](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/atomwise_vz8kfg.png?_a=AVADKIB0)\n        \n        ![Image 3409: Rome Therapeutics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/rome_therapeutics_zlwsam.png?_a=AVADKIB0)\n        \n        ![Image 3410: Relay Therapeutics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Relay_csg79z.png?_a=AVADKIB0)\n        \n        ![Image 3411: ArsenalBio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Arsenalbio_sggr9g.png?_a=AVADKIB0)\n        \n        ![Image 3412: Nimbus Therapeutics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nimbus_qahnju.png?_a=AVADKIB0)\n        \n        ![Image 3413: Deep Genomics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deep_genomics_g5gihu.png?_a=AVADKIB0)\n        \n        ![Image 3414: Recursion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/recursion_utshpb.png?_a=AVADKIB0)\n        \n        ![Image 3415: Insitro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/insitro_vuqee6.png?_a=AVADKIB0)\n        \n        ![Image 3416: Moderna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Moderna_k4dhi7.svg?_a=AVADKIB0)\n        \n        ![Image 3417: Exscientia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/exscientia_e42emi.png?_a=AVADKIB0)\n        \n        ![Image 3418: Verana Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Verana-Health_pv7dl5.svg?_a=AVADKIB0)\n        \n        ![Image 3419: Valo Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Valo_ylgxtn.png?_a=AVADKIB0)\n        \n        ![Image 3420: ConcertAI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/concertAI_iwsrw2.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3421: Unlearn.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/unlearn_lyaxhb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3422: Atomic AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Atomic_Ai_vhlcee.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3423: Aqemia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/aqemia_dnwgjm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3424: XtalPi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/XtalPi_Logo_gaomub.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3425: Cradle Bio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Cradle_dx5hvz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3426: JADBio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/JADBio_logo_ienr1t.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3427: Atropos Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/atropos_health_dxazug.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3428: Potion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Potion_kghk80.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3429: Labviva](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Labviva_slzpc8.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3430: Lavo Life Sciences](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lavo_Life_Sciences_q68gk3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3431: PharmaTrace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/PharmaTrace_djiikd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3432: Elicit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Elicit_atlqsz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3433: Immunai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/immunai_icxndv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3434: Century Health](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Century_Health_w5ogfd.png?_a=AVADKIB0)\n        \n    *   [Transportation](https://mad.firstmark.com/card#rec5GRn3aAVDa6RfP)\n        \n        ![Image 3435: Uber](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/uber_jid1fa.svg?_a=AVADKIB0)\n        \n        ![Image 3436: Tesla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tesla_du1o1h.svg?_a=AVADKIB0)\n        \n        ![Image 3437: Waymo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/waymo_mlcqdx.png?_a=AVADKIB0)\n        \n        ![Image 3438: Cruise](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cruise_cdxdtt.svg?_a=AVADKIB0)\n        \n        ![Image 3439: Nuro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nuro_z8jxpf.png?_a=AVADKIB0)\n        \n        ![Image 3440: Aptive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/aptive_bcnxfp.png?_a=AVADKIB0)\n        \n        ![Image 3441: Cambridge Mobile Telematics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cambridge_mobile_telematics_dcc3sz.png?_a=AVADKIB0)\n        \n        ![Image 3442: Momenta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Momenta_tb89ku.png?_a=AVADKIB0)\n        \n        ![Image 3443: Wayve](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/wayve_yiunn9.png?_a=AVADKIB0)\n        \n        ![Image 3444: Applied Intuition](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/applied_intuition_cu96ou.svg?_a=AVADKIB0)\n        \n        ![Image 3445: Nio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nio_wbnqxp.svg?_a=AVADKIB0)\n        \n        ![Image 3446: Merlin Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Merlin_Labs_n6ntfy.png?_a=AVADKIB0)\n        \n        ![Image 3447: Mobileye](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mobileye_g4jc13.png?_a=AVADKIB0)\n        \n        ![Image 3448: G7](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/G7_dvmufj.png?_a=AVADKIB0)\n        \n        ![Image 3449: Nvidia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nvidia_b0zcs1.png?_a=AVADKIB0)\n        \n        ![Image 3450: Nexar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/nexar_wa1r0o.png?_a=AVADKIB0)\n        \n        ![Image 3451: Kodiak Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kodiak_wnkqog.png?_a=AVADKIB0)\n        \n        ![Image 3452: Luminar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/luminar_bwsras.png?_a=AVADKIB0)\n        \n        ![Image 3453: Magna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/magna_logo_eqlhxx.svg?_a=AVADKIB0)\n        \n        ![Image 3454: Ghost](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ghost_nimali.png?_a=AVADKIB0)\n        \n        ![Image 3455: Motional](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Motional_asijeo.png?_a=AVADKIB0)\n        \n        ![Image 3456: MayMobility](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/MayMobility_p3tdzs.png?_a=AVADKIB0)\n        \n        ![Image 3457: DiDi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DiDi_fmy5mk.png?_a=AVADKIB0)\n        \n        ![Image 3458: Pony.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/ponyAI_i3o76l.png?_a=AVADKIB0)\n        \n        ![Image 3459: Via](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/via_ddp6rg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3460: Helm.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Helm_ai_aiqsiu.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3461: Phantom AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Phantom_Ai_b173kb.png?_a=AVADKIB0)\n        \n    *   [Agriculture](https://mad.firstmark.com/card#recVEuzJMR00kbl8C)\n        \n        ![Image 3462: John Deere](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/John_Deere_k6pchz.png?_a=AVADKIB0)\n        \n        ![Image 3463: Bowery Farming](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bowery_farming_ovunup.png?_a=AVADKIB0)\n        \n        ![Image 3464: Farmers Business Network](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Farmers_Business_Network_wvugyg.png?_a=AVADKIB0)\n        \n        ![Image 3465: Iron Ox](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/iron_ox_q3ahyn.png?_a=AVADKIB0)\n        \n        ![Image 3466: Blue River Technology](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Blue_River_Technology_qc5xq1.png?_a=AVADKIB0)\n        \n        ![Image 3467: Regrow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/regrow_cjggw5.svg?_a=AVADKIB0)\n        \n        ![Image 3468: Taranis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Taranis_tjndov.png?_a=AVADKIB0)\n        \n        ![Image 3469: FarmWise](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/FarmWise_jys4tv.png?_a=AVADKIB0)\n        \n        ![Image 3470: BensonHill](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/benson_hill_a8exu7.png?_a=AVADKIB0)\n        \n        ![Image 3471: Semios](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/semios_faqxeg.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3472: HowGood](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/HowGood_Color_Logo_vajpa0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3473: Pachama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Pachama_lsjtwl.png?_a=AVADKIB0)\n        \n    *   [Industrial & Logistics](https://mad.firstmark.com/card#recNiISh1VoBI4dwO)\n        \n        ![Image 3474: Verkada](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/verkada_rgzbql.png?_a=AVADKIB0)\n        \n        ![Image 3475: Siemens](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/siemens_cm9job.svg?_a=AVADKIB0)\n        \n        ![Image 3476: Schneider Electric](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Schneider-Electric_obdkhn.png?_a=AVADKIB0)\n        \n        ![Image 3477: Agile Robots](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Agile_Robots_cjusk1.png?_a=AVADKIB0)\n        \n        ![Image 3478: GE Digital Predix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Predix_z0jzwq.png?_a=AVADKIB0)\n        \n        ![Image 3479: Stem](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stem_rg5q1w.png?_a=AVADKIB0)\n        \n        ![Image 3480: Uptake](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/uptake_lzkdwd.png?_a=AVADKIB0)\n        \n        ![Image 3481: Path Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/path_robotics_cshohs.png?_a=AVADKIB0)\n        \n        ![Image 3482: Johnson Controls](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/johnson_controls_xlnpvk.png?_a=AVADKIB0)\n        \n        ![Image 3483: Scortex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Scortex_fs9bsv.png?_a=AVADKIB0)\n        \n        ![Image 3484: Geek+](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/geekplus_coomnk.png?_a=AVADKIB0)\n        \n        ![Image 3485: Bright Machines](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/brightmachines_x5e9eh.svg?_a=AVADKIB0)\n        \n        ![Image 3486: Augury](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/augury_ad8dza.png?_a=AVADKIB0)\n        \n        ![Image 3487: Built Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/built_robotics_wrz2iv.svg?_a=AVADKIB0)\n        \n        ![Image 3488: Beyond limits](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Beyond_Limits_zs1lhx.png?_a=AVADKIB0)\n        \n        ![Image 3489: CloudMinds](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cloundminds_vvxxfh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3490: Agility Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Agility_Robotics_bw9fkd.png?_a=AVADKIB0)\n        \n        ![Image 3491: Skydio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/skydio_khqoam.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3492: Zapata AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Zapata_Logo_NEW_jku8ix.png?_a=AVADKIB0)\n        \n        ![Image 3493: Cognite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cognite_hdjqwq.png?_a=AVADKIB0)\n        \n        ![Image 3494: Crisp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/crisp_qjmbp2.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3495: Covariant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/covariant_dr0qon.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3496: Higharc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Higharc_efne4q.png?_a=AVADKIB0)\n        \n        ![Image 3497: Osaro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Osaro_qkdcmy.png?_a=AVADKIB0)\n        \n        ![Image 3498: Deepomatic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deepomatic_ji5ggm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3499: Snaptrude](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/snaptrude_ylua5i.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3500: Verusen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Verusen_rz50kb.png?_a=AVADKIB0)\n        \n        ![Image 3501: Outrider AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Outrider_ew1wrv.svg?_a=AVADKIB0)\n        \n        ![Image 3502: AMP Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amp_Robotics_lhltew.png?_a=AVADKIB0)\n        \n        ![Image 3503: Locus Robotics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Locus_robotics_p2fil5.png?_a=AVADKIB0)\n        \n        ![Image 3504: Instrumental](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Instrumental_vcdorz.png?_a=AVADKIB0)\n        \n        ![Image 3505: Boston Dynamics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Boston_Dynamics_dbkgwe.png?_a=AVADKIB0)\n        \n        ![Image 3506: Matroid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Matroid_f42by0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3507: Arcol](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Arcol_pubclt.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3508: MakinaRocks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Makina_Rocks_vkypeh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3509: WeaveGrid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/WeaveGrid_bgoz8h.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3510: Phaidra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/phaidra_iwwcxr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3511: Augmenta](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Augmenta-black_d6ohg9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3512: Exodigo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/exodigo_ghw2cl.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3513: Muir.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Muir_ai_eyjur3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3514: Basetwo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/basetwo_ddhveo.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3515: Briq](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/briq_gkduui.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3516: Retrocausal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Retrocausal_t3wnqe.png?_a=AVADKIB0)\n        \n        ![Image 3517: Intrinsic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Intrinsic_dqlndw.png?_a=AVADKIB0)\n        \n    *   [Aerospace, Defense & Gov't](https://mad.firstmark.com/card#recFOazybAQV5AVT8)\n        \n        ![Image 3518: Anduril](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Anduril_hucbw5.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3519: SpaceX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SpaceX_ve5jfv.png?_a=AVADKIB0)\n        \n        ![Image 3520: Dataminr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dataminr_v86mfq.svg?_a=AVADKIB0)\n        \n        ![Image 3521: Shield AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Shield_AI_fsb2oj.png?_a=AVADKIB0)\n        \n        ![Image 3522: Mark43](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mark_43_wsi2xz.png?_a=AVADKIB0)\n        \n        ![Image 3523: Opengov](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/opengov_cn7qiu.png?_a=AVADKIB0)\n        \n        ![Image 3524: FiscalNote](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/FiscalNote_gruguf.png?_a=AVADKIB0)\n        \n        ![Image 3525: Primer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/primer_g1yqhg.png?_a=AVADKIB0)\n        \n        ![Image 3526: Voyager Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Voyager_Labs_Logo_b3s2x2.png?_a=AVADKIB0)\n        \n        ![Image 3527: Streetlight Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/streetlight_data_f8n6yt.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3528: Helsing](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Helsing_tu6ou9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3529: Hadrian](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hadrian_at7byr.png?_a=AVADKIB0)\n        \n        ![Image 3530: Epirus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Epirus_oshdeg.png?_a=AVADKIB0)\n        \n        ![Image 3531: Rebellion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Rebellion_Defense_ohg7j4.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3532: BlueHalo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/BlueHalo_qtiouh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3533: Blue Origin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/blue-origin_nzvj7a.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3534: Relativity Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Relativity_Space_Logo_pawg8y.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3535: Astra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Astra_pxpp3q.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3536: abl Space Systems](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/abl_space_systems_bswjmy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3537: Vannevar Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Vannevar_Labs_ssx7oe.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3538: Dedrone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dedrone_uauqfk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3539: Fortem Technologies](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fortem_Technologies_xvzsle.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3540: Air Space Intelligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/AirSpace_Intelligence_ekcxqa.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3541: Leolabs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/leolabs_yjlxhi.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3542: Skywatch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/skywatch_cb4avt.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3543: Orbital Insight](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Orbital_Insight_Logo_mxekqs.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3544: Fleet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Fleet_bd931q.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3545: Percipient](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Percipient_Ai_j78tui.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3546: Loft Orbital](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Loft_Orbital_xndxoy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3547: Slingshot Aerospace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Slingshot_Aerospace_s7iasl.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3548: Astranis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Astranis_Logo_sftqd0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3549: Varda Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Varda_iamics.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3550: Hedron](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hedron_ru9jpn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3551: Xona Space Systems](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Xona_Space_Systems_n3gp3m.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3552: Morpheus Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Morpheus_Space_phewdk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3553: Mach Industries](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mach_industries_o5zj1g.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3554: Epsilon3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Epsilon_3_lkfazn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3555: Unanimous AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/unanimous-ai_wkvtom.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3556: Modern Intelligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Modern_Intelligence_j6txeg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3557: TurbineOne](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Turbine_One__dg4osb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3558: Radian Aerospace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Radian_Aerospace_cloxeq.png?_a=AVADKIB0)\n        \n        ![Image 3559: Hayden](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hayden_AI_nx665g.png?_a=AVADKIB0)\n        \n        ![Image 3560: Merlin Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Merlin_Labs_zsfgle.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3561: Kayhan Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/KayhanSpaceLogo_aoi9pb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3562: Apex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/apex_yfconm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3563: Northwood Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Northwood_Space_f5j4kt.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3564: Blackshark.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/blackshark_vpdqej.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3565: Adarga](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Adarga_c4henh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3566: Yurts](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Yurts_m0komc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3567: Omelas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/omelas_i7hd2u.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3568: Saronic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/saronic_v4pmba.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3569: Saildrone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Saildrone_aingf3.png?_a=AVADKIB0)\n        \n    *   [Cross-Industry](https://mad.firstmark.com/card#recb9PG3trWlbFGIC)\n        \n        ![Image 3570: Palantir](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Palantir_ol41mp.svg?_a=AVADKIB0)\n        \n        ![Image 3571: C3 AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/C3ai_tjtwpl.png?_a=AVADKIB0)\n        \n        ![Image 3572: Veritone](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Veritone_qwz4rw.png?_a=AVADKIB0)\n        \n        ![Image 3573: Spark Cognition](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SparkCognition_oql2mk.png?_a=AVADKIB0)\n        \n*   [Open Source Infrastructure](https://mad.firstmark.com/card#rec6pS9qFgNv8bkNn)\n    *   [Data Frameworks](https://mad.firstmark.com/card#recMvXyexZmRFWono)\n        \n        ![Image 3574: Hadoop HDFS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_hadoop_nzqze0.svg?_a=AVADKIB0)\n        \n        ![Image 3575: Apache Spark](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Spark_ctohje.png?_a=AVADKIB0)\n        \n        ![Image 3576: Hadoop Map Reduce](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Hadoop_Mapreduce_s5xxq7.png?_a=AVADKIB0)\n        \n        ![Image 3577: Flink](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Flink_u2l8px.png?_a=AVADKIB0)\n        \n        ![Image 3578: Yarn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Yarn_thj1yh.png?_a=AVADKIB0)\n        \n        ![Image 3579: Kubernetes](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kubernetes_jolu81.png?_a=AVADKIB0)\n        \n        ![Image 3580: Mesos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_mesos_puirlo.svg?_a=AVADKIB0)\n        \n        ![Image 3581: Docker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/docker_compose_wqdejj.png?_a=AVADKIB0)\n        \n        ![Image 3582: Cdap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CDAP_imoxqf.png?_a=AVADKIB0)\n        \n        ![Image 3583: Red Hat Cluster Suite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Open_Nebula_jgdhmn.png?_a=AVADKIB0)\n        \n        ![Image 3584: Apache Giraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Giraph_m56l7q.svg?_a=AVADKIB0)\n        \n        ![Image 3585: Ray](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Ray_sqyst7.png?_a=AVADKIB0)\n        \n        ![Image 3586: Dask](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/dask_b6xl9l.png?_a=AVADKIB0)\n        \n        ![Image 3587: Helix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Helix_zpvz5q.png?_a=AVADKIB0)\n        \n        ![Image 3588: Linux High Availability](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Linux_High_Availability_wyv7z2.png?_a=AVADKIB0)\n        \n    *   [Formats](https://mad.firstmark.com/card#rec0os8CKWmr4O87z)\n        \n        ![Image 3589: JSON](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/json_logo_icon_168490_qhkwh4.png?_a=AVADKIB0)\n        \n        ![Image 3590: Parquet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Parquet_logo_yf0d7i.svg?_a=AVADKIB0)\n        \n        ![Image 3591: Iceberg](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Iceberg_ggfba2.png?_a=AVADKIB0)\n        \n        ![Image 3592: Hudi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Hudi_f2xska.png?_a=AVADKIB0)\n        \n        ![Image 3593: Delta Lake](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/deltalake_ysxjzd.png?_a=AVADKIB0)\n        \n        ![Image 3594: Orc](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Orc_logo_frvpdd.svg?_a=AVADKIB0)\n        \n        ![Image 3595: Apache Arrow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Arrow_lw3lx3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3596: Protocol Buffers](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Protocol_Buffers_ygajtb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3597: FlatBuffers](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Flatbuffers_ljapnc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3598: Cap'n Proto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Capn_Proto_lqcwsd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3599: Apache Thrift](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/apache-thrift_gkni3o.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3600: MessagePack](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/messagepack_cpkdog.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3601: Apache Avro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Apache_Avro_Logo_2023.svg_oiux2m.png?_a=AVADKIB0)\n        \n    *   [Query/Data Flow](https://mad.firstmark.com/card#rec1vEpBmskB9ETZC)\n        \n        ![Image 3602: Spark SQL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Spark_ctohje.png?_a=AVADKIB0)\n        \n        ![Image 3603: Apache Pig](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Pig_hfsizt.svg?_a=AVADKIB0)\n        \n        ![Image 3604: Hive](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Hive_eworbh.png?_a=AVADKIB0)\n        \n        ![Image 3605: Presto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/presto_arvoeg.svg?_a=AVADKIB0)\n        \n        ![Image 3606: Trino](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/trino_vmoudq.png?_a=AVADKIB0)\n        \n        ![Image 3607: GraphQL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/graphQL_zksxju.png?_a=AVADKIB0)\n        \n        ![Image 3608: Apache Drill](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Drill_agk4eh.png?_a=AVADKIB0)\n        \n        ![Image 3609: Apache Beam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_beam_vjxuo1.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3610: CloudQuery](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cloudquery_logo_png_light_background_adu92d.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3611: Apache Impala](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/apache-impala-logo-1_vjnniu.png?_a=AVADKIB0)\n        \n        ![Image 3612: Hawq](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Hawq_xtiwr9.png?_a=AVADKIB0)\n        \n    *   [Data Management](https://mad.firstmark.com/card#receFR1hkZqiHEcfh)\n        \n        ![Image 3613: Amundsen](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Amundsen_xx9kqh.svg?_a=AVADKIB0)\n        \n        ![Image 3614: DataHub](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datahub_d19mio.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3615: Apache Atlas](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Apache_Atlas_shxaen.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3616: OpenMetadata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/marquez-logo_yyxiso.png?_a=AVADKIB0)\n        \n        ![Image 3617: Marquez](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/marquez_qlzaia.png?_a=AVADKIB0)\n        \n        ![Image 3618: Great Expectations](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/great_expectations_p31i5q.svg?_a=AVADKIB0)\n        \n        ![Image 3619: LakeFS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/lakefs_r9l9zu.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3620: Elementary](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Elementary_spljqj.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3621: Metacat](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Metacat_fltjyz.png?_a=AVADKIB0)\n        \n        ![Image 3622: OpenLineage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/OpenLineage_jktlwk.png?_a=AVADKIB0)\n        \n        ![Image 3623: Ckan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ckan_worc6j.png?_a=AVADKIB0)\n        \n        ![Image 3624: Project Nessie](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/project_nessie_cdwfzl.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3625: Singer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Singer_io__rvorag.png?_a=AVADKIB0)\n        \n    *   [Databases](https://mad.firstmark.com/card#reclHDJaxS2xehDjl)\n        \n        ![Image 3626: PostgreSQL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/postgreSQL_yxsppe.png?_a=AVADKIB0)\n        \n        ![Image 3627: MySQL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mysql_ygxorl.png?_a=AVADKIB0)\n        \n        ![Image 3628: MongoDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MongoDB_sggtir.svg?_a=AVADKIB0)\n        \n        ![Image 3629: Redis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Redis_fvyl1d.svg?_a=AVADKIB0)\n        \n        ![Image 3630: Cockroach Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cockroach_DB_dmovcx.jpg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3631: SQLite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sqlite_phgcur.png?_a=AVADKIB0)\n        \n        ![Image 3632: Apache Cassandra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_cassandra_wu1nkj.png?_a=AVADKIB0)\n        \n        ![Image 3633: MariaDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/maria_db_xrvhdl.png?_a=AVADKIB0)\n        \n        ![Image 3634: InfluxDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/influxdb_jrzncr.png?_a=AVADKIB0)\n        \n        ![Image 3635: Apache HBase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Hbase_fbfrmc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3636: Firebird](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/logo-firebird-black_lgthfg.png?_a=AVADKIB0)\n        \n        ![Image 3637: Supabase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/supabase_m0ownu.svg?_a=AVADKIB0)\n        \n        ![Image 3638: Timescale](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Timescale_ovntke.svg?_a=AVADKIB0)\n        \n        ![Image 3639: SurrealDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Surreal_DB_tt9sbl.png?_a=AVADKIB0)\n        \n        ![Image 3640: Milvus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Milvus_bgcyfd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3641: Chroma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/chroma_ckmlnk.png?_a=AVADKIB0)\n        \n        ![Image 3642: Weaviate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/weaveate_wifz65.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3643: Neon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Neon-Logo_tkdtkf.png?_a=AVADKIB0)\n        \n        ![Image 3644: EdgeDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/edgedb_zfvupp.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3645: RocksDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/rocksdb_qpcjwj.png?_a=AVADKIB0)\n        \n        ![Image 3646: SciDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/SciDB-Py_v3jzvr.png?_a=AVADKIB0)\n        \n        ![Image 3647: OpenTSDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/openTSD_r3bdhk.png?_a=AVADKIB0)\n        \n        ![Image 3648: CouchDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_couchDB_qzhnt2.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3649: LevelDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LevelDB_ch2lp6.png?_a=AVADKIB0)\n        \n        ![Image 3650: Riak](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/riak_hxypjt.svg?_a=AVADKIB0)\n        \n        ![Image 3651: Accumulo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Accumulo_ylsrh0.svg?_a=AVADKIB0)\n        \n        ![Image 3652: Apache Flume](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_flume_aau5ft.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3653: Apache Ignite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/apache_ignite_yxa0gs.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3654: FoundationDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/FDB_logo_vrikam.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3655: TiKV](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/tikv-horizontal-color_asssdz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3656: SpiceDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/spicedb_m9kksx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3657: Oceanbase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Oceanbase_eatwrq.png?_a=AVADKIB0)\n        \n    *   [OLAP](https://mad.firstmark.com/card#recR9m3h2jcNXQkFp)\n        \n        ![Image 3658: ClickHouse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Clickhouse_ev5mlp.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3659: StarRocks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/starrocks-logo_rn7ief.png?_a=AVADKIB0)\n        \n        ![Image 3660: Druid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Druid_zpsf80.png?_a=AVADKIB0)\n        \n        ![Image 3661: Pinot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pinot_bhalrd.png?_a=AVADKIB0)\n        \n        ![Image 3662: Apache Kylin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_kylin_toutsf.png?_a=AVADKIB0)\n        \n        ![Image 3663: DuckDB](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DuckDB_l9lsp0.png?_a=AVADKIB0)\n        \n        ![Image 3664: Trino](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/trino_vmoudq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3665: DataBend](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Databend_xr3fxm.png?_a=AVADKIB0)\n        \n        ![Image 3666: Doris](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Doris_usft5d.svg?_a=AVADKIB0)\n        \n    *   [Orchestration](https://mad.firstmark.com/card#recjmMtyR7rIP6L1F)\n        \n        ![Image 3667: Apache Airflow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_airflow_mxisbx.svg?_a=AVADKIB0)\n        \n        ![Image 3668: Prefect](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/prefect_aawz5x.png?_a=AVADKIB0)\n        \n        ![Image 3669: Dagster](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/dagster_bn4iee.svg?_a=AVADKIB0)\n        \n        ![Image 3670: Flyte](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/flyte_t70e82.png?_a=AVADKIB0)\n        \n        ![Image 3671: Metaflow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/metaflow_t5qfyc.png?_a=AVADKIB0)\n        \n        ![Image 3672: Luigi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/luigi_slkd6f.png?_a=AVADKIB0)\n        \n        ![Image 3673: Argo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Argo_cgfz5t.png?_a=AVADKIB0)\n        \n        ![Image 3674: Mage](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Mage_iwwruf.png?_a=AVADKIB0)\n        \n        ![Image 3675: Kestra](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kestra.io_kkofmb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3676: DolphinScheduler](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DolphinScheduler-Logo_vfgxuc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3677: Cadence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cadence_workflow_gznfp7.png?_a=AVADKIB0)\n        \n    *   [Infrastructure](https://mad.firstmark.com/card#recNyBduKyOdZqDxt)\n        \n        ![Image 3678: Apache Zookeeper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Zookeeper_svegqf.svg?_a=AVADKIB0)\n        \n        ![Image 3679: Apache Ambari](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_ambari_rpwzg2.png?_a=AVADKIB0)\n        \n        ![Image 3680: Apache Mesos](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Mesos_drfc0l.svg?_a=AVADKIB0)\n        \n    *   [Streaming & Messaging](https://mad.firstmark.com/card#rec8VLrSw9QQEa1uP)\n        \n        ![Image 3681: Spark Streaming](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Spark_Streaming_cllhwf.png?_a=AVADKIB0)\n        \n        ![Image 3682: Kafka](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/apache_kafka_xthvvs.svg?_a=AVADKIB0)\n        \n        ![Image 3683: Flink](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Flink_u2l8px.png?_a=AVADKIB0)\n        \n        ![Image 3684: Apache Beam](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_beam_vjxuo1.png?_a=AVADKIB0)\n        \n        ![Image 3685: Storm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/apache_storm_wmpfoj.png?_a=AVADKIB0)\n        \n        ![Image 3686: Pulsar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pulsar_b750sy.png?_a=AVADKIB0)\n        \n        ![Image 3687: RabbitMQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/RabbitMQ_bcloz8.png?_a=AVADKIB0)\n        \n        ![Image 3688: Apache RocketMQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_RocketMQ_pcwcpg.png?_a=AVADKIB0)\n        \n        ![Image 3689: Samza](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/samza_gmsr6v.svg?_a=AVADKIB0)\n        \n        ![Image 3690: Nifi](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/apache_nifi_fet7so.png?_a=AVADKIB0)\n        \n        ![Image 3691: Debezium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/debezium_gbgpwu.svg?_a=AVADKIB0)\n        \n        ![Image 3692: Estuary Flow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Estuary_Flow_rv0den.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3693: Apache ActiveMQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/activemq_wtshwo.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3694: Mosquitto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mosquitto-text-side-28_wtieeu.png?_a=AVADKIB0)\n        \n        ![Image 3695: Memphis](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Memphis_igunid.png?_a=AVADKIB0)\n        \n        ![Image 3696: Bytewax](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bytewax_h0z3kq.png?_a=AVADKIB0)\n        \n        ![Image 3697: Gazette](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Gazette_q8evth.png?_a=AVADKIB0)\n        \n    *   [Stat Languages](https://mad.firstmark.com/card#recQaYwGg19cLIOxG)\n        \n        ![Image 3698: Python](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/python_wu30bi.svg?_a=AVADKIB0)\n        \n        ![Image 3699: R](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/R_biepe5.png?_a=AVADKIB0)\n        \n        ![Image 3700: Scala](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Scala_knvr3q.png?_a=AVADKIB0)\n        \n        ![Image 3701: NumPy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/numpy_vxioix.svg?_a=AVADKIB0)\n        \n        ![Image 3702: Julia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/julia_twcgbw.svg?_a=AVADKIB0)\n        \n        ![Image 3703: SciPy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/scipy_m5l14t.png?_a=AVADKIB0)\n        \n        ![Image 3704: Pyro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/pyro_kc75gl.png?_a=AVADKIB0)\n        \n        ![Image 3705: GNU Octave](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/GNU_Octave_af1jtx.png?_a=AVADKIB0)\n        \n        ![Image 3706: Datatable](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/datatable_xksz9i.png?_a=AVADKIB0)\n        \n        ![Image 3707: Tidyverse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tidyverse_vmejl5.png?_a=AVADKIB0)\n        \n        ![Image 3708: Stan](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stan_qtmge4.png?_a=AVADKIB0)\n        \n    *   [MLOps & AI Infra](https://mad.firstmark.com/card#recdRNLWaU95VoEj3)\n        \n        ![Image 3709: Langchain](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/LangChain_dviwl3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3710: PrivateGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Private_GPT_j1qtaf.png?_a=AVADKIB0)\n        \n        ![Image 3711: MediaPipe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/MediaPipe_mqfxfe.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3712: Jina](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/jina_r58wdx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3713: mindsdb](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/mindsdb_o3lxuh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3714: Flowise](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Flowise_AI_fb2e09.png?_a=AVADKIB0)\n        \n        ![Image 3715: MLFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/MLflow_wzmuwh.png?_a=AVADKIB0)\n        \n        ![Image 3716: KubeFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kubeflow_mwcy1h.png?_a=AVADKIB0)\n        \n        ![Image 3717: DVC](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DVC_xf9r6f.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3718: Dify](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dify_z94eip.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3719: Cortex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cortex_zh7ch8.png?_a=AVADKIB0)\n        \n        ![Image 3720: Pachyderm](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Pachyderm_jccwhu.png?_a=AVADKIB0)\n        \n        ![Image 3721: BentoML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Bento_ML_ytubft.png?_a=AVADKIB0)\n        \n        ![Image 3722: Snorkel](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Snorkel_yv93xz.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3723: Chainlit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Chainlit_npen0r.png?_a=AVADKIB0)\n        \n        ![Image 3724: Polyaxon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/polyaxon_kfbspx.png?_a=AVADKIB0)\n        \n        ![Image 3725: Ollama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ollama_nlfw08.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3726: ZenML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/ZenML_ilj9f3.png?_a=AVADKIB0)\n        \n        ![Image 3727: Deepchecks](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deepchecks_yfjmmj.png?_a=AVADKIB0)\n        \n        ![Image 3728: mLeap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mleap_hkngd9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3729: Gorilla](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Gorilla_ho6fg7.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3730: CausalML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/causalml_logo_s0mvz9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3731: vLLM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/vLLM_cnch9o.png?_a=AVADKIB0)\n        \n    *   [AI Frameworks, Tools & Libraries](https://mad.firstmark.com/card#recNBsSwafbP13zgk)\n        \n        ![Image 3732: PyTorch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/PyTorch_gynbag.png?_a=AVADKIB0)\n        \n        ![Image 3733: TensorFlow](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tensorflow_tmrtat.png?_a=AVADKIB0)\n        \n        ![Image 3734: PyTorch Lightning](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/PyTorch_gynbag.png?_a=AVADKIB0)\n        \n        ![Image 3735: Scikit-learn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Scikit_learn_inq2tq.svg?_a=AVADKIB0)\n        \n        ![Image 3736: Keras](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/keras_uq1h2q.png?_a=AVADKIB0)\n        \n        ![Image 3737: Hugging Face Candle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hugging_Face_Candle_uze70j.png?_a=AVADKIB0)\n        \n        ![Image 3738: Fast.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/fastai_cfspwu.png?_a=AVADKIB0)\n        \n        ![Image 3739: OpenCV](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/OpenCV_gevnc6.png?_a=AVADKIB0)\n        \n        ![Image 3740: Microsoft CNTK](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Microsoft-CogTK_ovxd9s.png?_a=AVADKIB0)\n        \n        ![Image 3741: dmlc XGBoost](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/xgboost_tgp46k.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3742: AutoGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/auto_gpt_ynqkpc.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3743: DeepLearning4J](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DL4J_irlqqp.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3744: Caffe2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/caffe2_t3zhui.png?_a=AVADKIB0)\n        \n        ![Image 3745: PostgresML](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/postgresML_boea5x.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3746: DeepSpeed](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/deepspeed_sfeagn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3747: SuperAGI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SuperAGI_lqznqr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3748: BabyAGI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/BabyAGI-Logo_e3b4dr.png?_a=AVADKIB0)\n        \n        ![Image 3749: PaddlePaddle](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Paddle_Paddle_rwfzie.png?_a=AVADKIB0)\n        \n        ![Image 3750: Mxnet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mxnet_nmgtwq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3751: Sonnet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sonnet_logo_godvau.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3752: Pycaret](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/pycaret_r7qpsh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3753: JARVIS](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Jarvis_vc8mqx.png?_a=AVADKIB0)\n        \n        ![Image 3754: Chainer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/chainer_y8n31r.png?_a=AVADKIB0)\n        \n        ![Image 3755: ONNX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/onnx_n4wi2p.png?_a=AVADKIB0)\n        \n        ![Image 3756: Ludwig](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Ludwig_pnlrvv.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3757: Optuna](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/optuna-logo_fx2eo4.png?_a=AVADKIB0)\n        \n        ![Image 3758: Horovod](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Horovod_d03hok.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3759: Apache Spark](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Apache_Spark_fyqyuk.png?_a=AVADKIB0)\n        \n        ![Image 3760: H2O.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/H2oai_hiiklu.png?_a=AVADKIB0)\n        \n        ![Image 3761: CoreNLP](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CoreNLP_alynyb.png?_a=AVADKIB0)\n        \n        ![Image 3762: apache Singa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Apache_Singa_qymxyq.png?_a=AVADKIB0)\n        \n        ![Image 3763: Kedro](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/kedro_y072br.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3764: OpenNN](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenNN_logo_q2rcfi.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3765: TimeGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Nixtla_TimeGPT_dlm0cp.png?_a=AVADKIB0)\n        \n    *   [AI Models & Architectures](https://mad.firstmark.com/card#recF78C1OB6dVqbiL)\n        \n        New\n        \n        ![Image 3766: Meta LLaMA 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Meta_AI_Llama_2_xexbmb.png?_a=AVADKIB0)\n        \n        ![Image 3767: Stable Diffusion](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stability_ai_stable_diffusion_bapamk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3768: Mistral 7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Mistral_7b_bg1c8c.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3769: Google Gemma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Gemma_mbuxl8.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3770: Falcon 180B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Falcon_180B_lgn8ob.png?_a=AVADKIB0)\n        \n        ![Image 3771: Bloom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BigScience_Bloom_ctlqgb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3772: Vicuna 13B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hugging_Face_Vicuna-13B_q5dge0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3773: OpenAI Whisper v3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenAI_Whisper-v3_rcvakv.png?_a=AVADKIB0)\n        \n        ![Image 3774: OpenAI GPT2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/OpenAI_gpt2_dzjbhj.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3775: Mistral 7B Instruct](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Mistral_7b_Instruct_lujofu.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3776: Google PaLM 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/GoogleAI_PaLM_2_nsb2ku.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3777: EleutherAI Pythia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/EleutherAI_Pythia_hxk2dd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3778: Yi 34B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/01ai_Yi-34B_vxpja7.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3779: Together.ai RedPajama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/togetherai_redpajama_wskcii.png?_a=AVADKIB0)\n        \n        ![Image 3780: EleutherAI GPT-J-6B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EleutherAI_gpt-j-6B_r2q82n.png?_a=AVADKIB0)\n        \n        ![Image 3781: EleutherAI GPT-Neo-2.7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EleutherAI_gpt-neo-2.7B_oqvusn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3782: Together.ai StripedHyena 7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/togetherai_StripedHyena-7B_pvjt0u.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3783: Databricks Dolly v2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/togetherai_StripedHyena-7B_pvjt0u.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3784: MosaicML MPT 7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/togetherai_StripedHyena-7B_pvjt0u.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3785: Hugging Face Zephyr 7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Hugging_Face_Zephyr-7B_wpoz4e.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3786: Microsoft Phi 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/microsoft_Phi-2_uyrrai.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3787: Mamba 2.8B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/microsoft_Phi-2_uyrrai.png?_a=AVADKIB0)\n        \n        ![Image 3788: Google Research Bert](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_Bert_dttc3p.png?_a=AVADKIB0)\n        \n        ![Image 3789: Google Research T5](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_T5_kzfbum.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3790: Cerebras GPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/cerebras-gpt_pkc8fg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3791: Alpaca 7B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Stanford_Alpaca_o665ps.png?_a=AVADKIB0)\n        \n        ![Image 3792: DeepMind AlphaFold](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DeepMind_AlphaFold_jfxmip.png?_a=AVADKIB0)\n        \n        ![Image 3793: Meta AI BlenderBot](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Meta_AI_blenderbot_j0axhq.png?_a=AVADKIB0)\n        \n        ![Image 3794: RoBERTa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/RoBERTa_ldnnji.png?_a=AVADKIB0)\n        \n        ![Image 3795: DistilBERT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DistilBERT_my2isj.png?_a=AVADKIB0)\n        \n        ![Image 3796: Google AI Flan-T5](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/GoogleAI_Flan-T5_brdpw1.png?_a=AVADKIB0)\n        \n        ![Image 3797: XLNet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/XLNet_cwz6p2.png?_a=AVADKIB0)\n        \n        ![Image 3798: Meta AI ESM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Meta_AI_ESM_iai1l7.png?_a=AVADKIB0)\n        \n        ![Image 3799: Meta AI Diplomacy Cicero](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Meta_AI_Cicero_p7sqlo.png?_a=AVADKIB0)\n        \n        ![Image 3800: Meta AI OPT-66B](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Meta_AI_OPT-66B_grggok.png?_a=AVADKIB0)\n        \n        ![Image 3801: Google Research Transformer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_Transformer_vg84pm.png?_a=AVADKIB0)\n        \n        ![Image 3802: Nvidia Megatron](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nvidia_Megatron_mnkaps.png?_a=AVADKIB0)\n        \n        ![Image 3803: Google Research Dremix](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Research_Dreamix_ctonoe.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3804: Codium AlphaCodium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/codium_ai_Alpha_Codium_o3emwb.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3805: Google DeepMind AlphaGeometry](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Google_Deepmind_AlphaGeometry_xuxy4j.png?_a=AVADKIB0)\n        \n    *   [Search](https://mad.firstmark.com/card#recI5vZhGJmZ2GhCL)\n        \n        ![Image 3806: Solr](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/solr_av7fan.png?_a=AVADKIB0)\n        \n        ![Image 3807: Lucene](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/apache-lucene_swadct.svg?_a=AVADKIB0)\n        \n        ![Image 3808: Elasticsearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Elasticsearch_logo.svg_iuixcp.png?_a=AVADKIB0)\n        \n        ![Image 3809: Meilisearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/meilisearch_hjfhuw.svg?_a=AVADKIB0)\n        \n        ![Image 3810: Sonic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sonic_vyiol7.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3811: Typesense](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Typesense_s0sto3.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3812: Opensearch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Opensearch_Logo.svg_kif8et.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3813: Swirl](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/swirl_n12ljz.png?_a=AVADKIB0)\n        \n        ![Image 3814: Toshi Search](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Toshi_Search_zdmudw.png?_a=AVADKIB0)\n        \n        ![Image 3815: Tantivy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tantivy_algwlt.png?_a=AVADKIB0)\n        \n    *   [Local AI](https://mad.firstmark.com/card#recEd0ErWy28XViMz)\n        \n        New\n        \n        ![Image 3816: LangChain OpenLLM](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenLLM_waflft.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3817: Llama.cpp](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Llamacpp_o5x0uu.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3818: Ollama](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/llamafile_k4vsjm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3819: GPT4ALL](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/GPT4All_nkhswj.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3820: text-generation-webui](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Text_Generation_Web_UI_kptkc7.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3821: LocalGPT](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LocalGPT_nq76n8.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3822: llamafile](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/llamafile_k4vsjm.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3823: LMStudio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/LM_Studio_qsfvtl.png?_a=AVADKIB0)\n        \n    *   [Logging & Monitoring](https://mad.firstmark.com/card#rec5HHAsNBME7dcSx)\n        \n        ![Image 3824: Elastic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Elastic_rdsmvs.svg?_a=AVADKIB0)\n        \n        ![Image 3825: Grafana](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Grafana_wfj0r6.png?_a=AVADKIB0)\n        \n        ![Image 3826: Prometheus](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/prometheus_g8gqss.png?_a=AVADKIB0)\n        \n        ![Image 3827: Sentry](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sentry_yqs8kq.png?_a=AVADKIB0)\n        \n        ![Image 3828: OpenTelemetry](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Opentelemetry_vammbd.png?_a=AVADKIB0)\n        \n        ![Image 3829: Logstash](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/logstash_masv7z.png?_a=AVADKIB0)\n        \n        ![Image 3830: Fluentd](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/fluentd_dwkxc3.png?_a=AVADKIB0)\n        \n        ![Image 3831: Fluentbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/fluentbit_eihn1q.png?_a=AVADKIB0)\n        \n        ![Image 3832: Vector](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Vector_exqujx.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3833: SigNoz](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SigNoz_yshnsk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3834: OpenObserve](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OpenObserve_p1ovly.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3835: Graylog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/graylog-logo_tpy86f.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3836: Highlight.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/highlight_lzcht4.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3837: Syslog](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/syslog_pvtcla.png?_a=AVADKIB0)\n        \n    *   [Visualization](https://mad.firstmark.com/card#recZS175pSdfiT6aI)\n        \n        ![Image 3838: D3](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/D3JS_fehmmq.png?_a=AVADKIB0)\n        \n        ![Image 3839: Matplotlib](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/matplotlib_djsblr.svg?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3840: Plotly](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Plotly_az84tk.png?_a=AVADKIB0)\n        \n        ![Image 3841: redash](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/redash_sox1ia.png?_a=AVADKIB0)\n        \n        ![Image 3842: Superset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Superset_psabjc.png?_a=AVADKIB0)\n        \n        ![Image 3843: TensorBoard](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tensorboard_fln6mg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3844: PyGWalker](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/pygwalker_k15mer.png?_a=AVADKIB0)\n        \n        ![Image 3845: Seaborn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/seaborn_xjmezt.svg?_a=AVADKIB0)\n        \n        ![Image 3846: Bokeh](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bokeh_pr3sbf.png?_a=AVADKIB0)\n        \n        ![Image 3847: ggplot2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ggplot2_znz5tw.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3848: Datawrapper](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/datawrapper_gsuuzh.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3849: Rawgraphs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/RAWGraphs_Logo_yjjzgb.png?_a=AVADKIB0)\n        \n    *   [Collaboration](https://mad.firstmark.com/card#rec3rydlPRbTWpodG)\n        \n        ![Image 3850: BeakerX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BeakerX_jltu0w.png?_a=AVADKIB0)\n        \n        ![Image 3851: Jupyter](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Jupyter_pb8jzb.png?_a=AVADKIB0)\n        \n        ![Image 3852: Zeppelin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Apache_Zepplin_eke4of.png?_a=AVADKIB0)\n        \n        ![Image 3853: RStudio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/RStudio-Logo-Flat_pg7n5p.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3854: Polynote](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/polynote_uj0jdj.png?_a=AVADKIB0)\n        \n*   [Data Sources & APIs](https://mad.firstmark.com/card#rec6wqQvYv6wFA1UN)\n    *   [Data Marketplaces & Discovery](https://mad.firstmark.com/card#recpQsghz771y9le3)\n        \n        ![Image 3855: AWS Data Exchange](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/AWS_Data_Exchange_zful00.png?_a=AVADKIB0)\n        \n        ![Image 3856: Snowflake Data Exchange](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/snowflake_data_exchange_rzdfcg.png?_a=AVADKIB0)\n        \n        ![Image 3857: Dawex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dawex_dawypc.png?_a=AVADKIB0)\n        \n        ![Image 3858: Explorium](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Explorium_kftbqr.png?_a=AVADKIB0)\n        \n        ![Image 3859: IBM Asset eXchange](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_Asset_eXchange_bq31hf.png?_a=AVADKIB0)\n        \n        ![Image 3860: SAP Data Marketplace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/SAP_Data_Marketplace_xdbpgt.png?_a=AVADKIB0)\n        \n        ![Image 3861: Oracle Data Marketplace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Oracle_Data_Marketplace_bhxo3y.png?_a=AVADKIB0)\n        \n        ![Image 3862: Databricks Marketplace](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Databricks_marketplace_ipdux5.png?_a=AVADKIB0)\n        \n        ![Image 3863: Google Dataset Search ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Google_Dataset_Search_iqtwza.png?_a=AVADKIB0)\n        \n        ![Image 3864: Datarade](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Datarade_kjootl.png?_a=AVADKIB0)\n        \n        ![Image 3865: Eagle Alpha](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Eagle_Alpha_gm4nan.png?_a=AVADKIB0)\n        \n        ![Image 3866: Nomad Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nomad_data_blm4jf.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3867: Neudata](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Neudata_wbtych.png?_a=AVADKIB0)\n        \n    *   [Financial & Market Data](https://mad.firstmark.com/card#recEEwLIgt2ujp89L)\n        \n        ![Image 3868: Bloomberg](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bloomberg_qyjm0n.svg?_a=AVADKIB0)\n        \n        ![Image 3869: Thomson Reuters](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/thomson-reuters_beysej.svg?_a=AVADKIB0)\n        \n        ![Image 3870: Dow Jones](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Dow_Jones_pkzfpn.png?_a=AVADKIB0)\n        \n        ![Image 3871: Nasdaq Data Link](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Nasdaq_Data_Link_xjhus2.png?_a=AVADKIB0)\n        \n        ![Image 3872: S&P Global Market Intelligence](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/S_P_Global_Market_Intelligence_a7a5mk.png?_a=AVADKIB0)\n        \n        ![Image 3873: Preqin](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/PREQIN_wg97ef.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3874: Sparta Commodities](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Sparta_uzg3ny.png?_a=AVADKIB0)\n        \n        ![Image 3875: Plaid](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/plaid_pgn8xq.svg?_a=AVADKIB0)\n        \n        ![Image 3876: Pitchbook](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Pitchbook_ymdxrw.png?_a=AVADKIB0)\n        \n        ![Image 3877: Crunchbase](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Crunchbase_dcanca.png?_a=AVADKIB0)\n        \n        ![Image 3878: CB Insights](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CB_Insights_yvwhcg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3879: Cybersyn](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Crunchbase_dcanca.png?_a=AVADKIB0)\n        \n        ![Image 3880: The World Bank](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/world_bank_w0g0fv.png?_a=AVADKIB0)\n        \n        ![Image 3881: Signal AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/signalAI_ncvbuv.png?_a=AVADKIB0)\n        \n        ![Image 3882: Factset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Factset_ig33wb.svg?_a=AVADKIB0)\n        \n        ![Image 3883: International Monetary Fund](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/international_monetary_fund_b87iaf.svg?_a=AVADKIB0)\n        \n        ![Image 3884: StockTwits](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Stocktwits_pfuobs.png?_a=AVADKIB0)\n        \n        ![Image 3885: xignite](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Xignite_m74upk.svg?_a=AVADKIB0)\n        \n        ![Image 3886: Intrinio](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/intrinio_klh4dh.png?_a=AVADKIB0)\n        \n        ![Image 3887: DataBento](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Databento_hbmvqq.png?_a=AVADKIB0)\n        \n        ![Image 3888: Earnest Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/earnest_analytics_osaksq.png?_a=AVADKIB0)\n        \n        ![Image 3889: Enigma](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/enigma_uyffkv.png?_a=AVADKIB0)\n        \n        ![Image 3890: Refinitiv](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Refinitiv_o1g1kl.png?_a=AVADKIB0)\n        \n        ![Image 3891: SEC EDGAR](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/SEC_Edgar_joufey.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3892: Kpler](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Crunchbase_dcanca.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3893: SourceScrub](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/sourcescrub_y4goku.png?_a=AVADKIB0)\n        \n        ![Image 3894: MX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/MX_pnxuba.png?_a=AVADKIB0)\n        \n        ![Image 3895: Tink](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/tink_rqupoi.png?_a=AVADKIB0)\n        \n        ![Image 3896: SmartNews](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/smartnews_asksjg.png?_a=AVADKIB0)\n        \n        ![Image 3897: Truelayer](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/truelayer_wbd1b0.png?_a=AVADKIB0)\n        \n        ![Image 3898: Kaiko](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kaiko_mjsvnv.png?_a=AVADKIB0)\n        \n        ![Image 3899: dv01](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/DV01_ubzjmy.png?_a=AVADKIB0)\n        \n        ![Image 3900: Canoe](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Canoe_v6cwyv.svg?_a=AVADKIB0)\n        \n        ![Image 3901: Coinmetrics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/coinmetrics_o9ygft.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3902: GoQuant](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/GoQuant_kgbphj.png?_a=AVADKIB0)\n        \n    *   [Air/Space/Sea](https://mad.firstmark.com/card#recedfVBLVT7Lt96K)\n        \n        ![Image 3903: Orbital Insight](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/orbitalinsight_a14ioe.svg?_a=AVADKIB0)\n        \n        ![Image 3904: Spire](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/spire_cymhlq.png?_a=AVADKIB0)\n        \n        ![Image 3905: Preligens](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Preligens_nszb2q.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3906: Planet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Planet_logo_fccn2f.png?_a=AVADKIB0)\n        \n        ![Image 3907: Loft Orbital](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/loft_orbital_evm3r3.png?_a=AVADKIB0)\n        \n        ![Image 3908: Windward](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/windward_x1q224.png?_a=AVADKIB0)\n        \n        ![Image 3909: MarineTraffic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/marine_traffic_thvawk.png?_a=AVADKIB0)\n        \n        ![Image 3910: Freightwaves](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/FreightWaves-1_navp82.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3911: Mobito](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Mobito_bhpwdp.png?_a=AVADKIB0)\n        \n        ![Image 3912: RS Metrics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/RS_metrics_mzmil8.png?_a=AVADKIB0)\n        \n        ![Image 3913: Qianxun SI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Qianxun_SI_kkm7tv.png?_a=AVADKIB0)\n        \n        ![Image 3914: Synspective](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/synspective_logo_pjsvab.svg?_a=AVADKIB0)\n        \n        ![Image 3915: Eagleview](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/eagleview_vgaag0.png?_a=AVADKIB0)\n        \n        ![Image 3916: ICEYE](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Iceye_x9lxon.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3917: BlackSky](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/BlackSky_Logo_p9abga.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3918: Capella Space](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Capella_Space_m8qhe4.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3919: HawkEye 360](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/HawkEye_360_Logo_mnrl8z.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3920: Satellogic](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Satellogic_zgexpb.png?_a=AVADKIB0)\n        \n    *   [People/Entities](https://mad.firstmark.com/card#recgk51u4KBLZ3KfA)\n        \n        ![Image 3921: Zoominfo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Zoominfo_b9dexm.svg?_a=AVADKIB0)\n        \n        ![Image 3922: Acxiom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/acxiom_owkd9t.png?_a=AVADKIB0)\n        \n        ![Image 3923: Experian](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/experian_yjrjmo.svg?_a=AVADKIB0)\n        \n        ![Image 3924: Epsilon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/epsilon_ynst3b.png?_a=AVADKIB0)\n        \n        ![Image 3925: Klue](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/klue_hsg67t.svg?_a=AVADKIB0)\n        \n        ![Image 3926: Brandwatch](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/brandwatch_w5hqs6.svg?_a=AVADKIB0)\n        \n        ![Image 3927: Quantcast](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/Quantcast_llr205.png?_a=AVADKIB0)\n        \n        ![Image 3928: Cognism](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cognism_apvyjp.png?_a=AVADKIB0)\n        \n        ![Image 3929: Apollo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Apollo_io_ktovmh.png?_a=AVADKIB0)\n        \n        ![Image 3930: Clearbit](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/clearbit_xtxmnw.png?_a=AVADKIB0)\n        \n        ![Image 3931: People Data Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/people_data_labs_dyqp1e.png?_a=AVADKIB0)\n        \n        ![Image 3932: Databook](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Databook_vrxebl.png?_a=AVADKIB0)\n        \n        ![Image 3933: Melissa](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/melissa_xnlknu.png?_a=AVADKIB0)\n        \n        ![Image 3934: Zignal Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/zignal_labs_zqkgyj.svg?_a=AVADKIB0)\n        \n        ![Image 3935: Dun & bradstreet](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/dun_bradstreet_icvthl.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3936: Brew](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Brew_logo_j32ai1.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3937: Crayon](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Crayon_msgowy.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3938: Ocean.io](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Ocean_io_pedzdr.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3939: UpLead](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/UpLead-logo_zhqixt.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3940: AroundDeal](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/AroundDeal_ojpvfp.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3941: Tarci](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Tarci_ji3ezg.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3942: Lusha](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Lusha_xhiwry.png?_a=AVADKIB0)\n        \n    *   [Location Intelligence](https://mad.firstmark.com/card#recp8bSZEE2fWEWED)\n        \n        ![Image 3943: Foursquare](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/foursquare_t1yk1a.png?_a=AVADKIB0)\n        \n        ![Image 3944: mapbox](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/mapbox_ksm02i.png?_a=AVADKIB0)\n        \n        ![Image 3945: Safegraph](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/safegraph_r5rgoo.png?_a=AVADKIB0)\n        \n        ![Image 3946: Sense360](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/sense360_f0mees.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3947: Dataplor](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Dataplor_gldj18.png?_a=AVADKIB0)\n        \n        ![Image 3948: Unacast](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/unacast_kuudjm.svg?_a=AVADKIB0)\n        \n        ![Image 3949: PlaceIQ](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/PlaceIQ_fiblyu.png?_a=AVADKIB0)\n        \n        ![Image 3950: Esri](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/esri_pqvwpn.svg?_a=AVADKIB0)\n        \n        ![Image 3951: Carto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/carto_tqf5j8.png?_a=AVADKIB0)\n        \n        ![Image 3952: Radar](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/radar_rqjurf.png?_a=AVADKIB0)\n        \n        ![Image 3953: Placer.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/placerAI_cqdhtn.png?_a=AVADKIB0)\n        \n        ![Image 3954: Cuebiq](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/cuebiq_dpf5bj.png?_a=AVADKIB0)\n        \n        ![Image 3955: OpenStreetMap](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/OpenStreetMap_s4djkv.png?_a=AVADKIB0)\n        \n        ![Image 3956: CleverMaps](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/CleverMaps_qjzoos.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3957: Spatial](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/spatial_geztwn.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3958: Galigeo](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Galigeo_eseo0u.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3959: Veraset](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Veraset_yh3hw4.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3960: CAP Locations](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/CAP_da8mjo.png?_a=AVADKIB0)\n        \n    *   [ESG](https://mad.firstmark.com/card#recC9MzrYSQNAl46E)\n        \n        ![Image 3961: Sustainalytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Sustainalytics_r0zewe.png?_a=AVADKIB0)\n        \n        ![Image 3962: MSCI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/msci_ryaqxq.png?_a=AVADKIB0)\n        \n        ![Image 3963: Truvalue Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Truvalue_labs_n1jn3s.png?_a=AVADKIB0)\n        \n        ![Image 3964: RepRisk](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Reprisk_t9r2hc.png?_a=AVADKIB0)\n        \n        ![Image 3965: ESG Book](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/esgbook_ps3tu1.png?_a=AVADKIB0)\n        \n        ![Image 3966: ISS ESG](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/iss_esg_n2oygr.png?_a=AVADKIB0)\n        \n        ![Image 3967: Clarity AI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Clarity_AI_cwgjb0.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3968: Watershed](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Watershed_mk9q2r.png?_a=AVADKIB0)\n        \n        ![Image 3969: Arcadia](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Arcadia_kyu7x7.png?_a=AVADKIB0)\n        \n        ![Image 3970: Novisto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/novisto_n7qly6.png?_a=AVADKIB0)\n        \n        ![Image 3971: Nossa Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Nossa_Data_z4ssvu.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3972: ESG Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/esg_analytics_p56lto.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3973: Owl ESG](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/OWL_ESG_opfj07.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3974: Kayrros](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Kayrros_evrbqk.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3975: Gist Impact](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/gist_impact_cmh9hl.png?_a=AVADKIB0)\n        \n*   [Data & AI Consulting](https://mad.firstmark.com/card#rec4dmGEn3LQOizMO)\n    *   [Data & AI Consulting](https://mad.firstmark.com/card#recOoH9sErCBdkwAk)\n        \n        ![Image 3976: QuantumBlack AI by McKinsey](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Quantum_Black_cfebco.png?_a=AVADKIB0)\n        \n        ![Image 3977: BCGX](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/BCG_X_eqrl6l.png?_a=AVADKIB0)\n        \n        ![Image 3978: Deloitte AI Institute](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deloitte_AI_Institute_ooq20m.png?_a=AVADKIB0)\n        \n        ![Image 3979: IBM AI Consulting](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/IBM_AI_Consulting_gszbfh.png?_a=AVADKIB0)\n        \n        ![Image 3980: Cambridge Consultants](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Cambridge_Consulting_AI_Consulting_jgdq4f.png?_a=AVADKIB0)\n        \n        ![Image 3981: LeewayHertz](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/LeewayHertz_c2btob.png?_a=AVADKIB0)\n        \n        ![Image 3982: Slalom](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Slalom_ivwjrq.png?_a=AVADKIB0)\n        \n        ![Image 3983: Seattle Data Guy](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Seattle_Data_Guy_bfgbwi.svg?_a=AVADKIB0)\n        \n        ![Image 3984: Brooklyn Data Co](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Brooklyn_Data_Co_rggupt.png?_a=AVADKIB0)\n        \n        ![Image 3985: Ternary Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Ternary_Data_l5qgst.png?_a=AVADKIB0)\n        \n        ![Image 3986: System 2](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/sstm2_pzdxvo.png?_a=AVADKIB0)\n        \n        ![Image 3987: Tribe.ai](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Tribe_AI_x0zuey.png?_a=AVADKIB0)\n        \n        ![Image 3988: KPMG Lighthouse](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/NTT_Data_mljsc8.png?_a=AVADKIB0)\n        \n        ![Image 3989: itrex](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/itrex_zvjyds.png?_a=AVADKIB0)\n        \n        ![Image 3990: Deeper Insights](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deeper_Insights_bfauwz.png?_a=AVADKIB0)\n        \n        ![Image 3991: DataRootLabs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Data_Root_Labs_allwqx.png?_a=AVADKIB0)\n        \n        ![Image 3992: InData Labs](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/InData_Labs_xwbx7d.png?_a=AVADKIB0)\n        \n        ![Image 3993: ThirdEye](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ThirdEye_Data_mvxzaw.png?_a=AVADKIB0)\n        \n        ![Image 3994: Azati](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Azati_hdmtbk.png?_a=AVADKIB0)\n        \n        ![Image 3995: Addepto](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Addepto_jifvix.png?_a=AVADKIB0)\n        \n        ![Image 3996: Upright Analytics](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/upsolver_pfheat.png?_a=AVADKIB0)\n        \n        ![Image 3997: Bytecode IO](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/bytecode_vbs4hw.png?_a=AVADKIB0)\n        \n        ![Image 3998: Rackspace Onica](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/onica_g0path.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 3999: BlueOrange](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/BlueOrange_fhnsfe.png?_a=AVADKIB0)\n        \n        ![Image 4000: Leit Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Leit_Data_apevry.png?_a=AVADKIB0)\n        \n        ![Image 4001: Meru](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/MERU_logo_400x92_eqi8zm.png?_a=AVADKIB0)\n        \n        ![Image 4002: Big Time Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Big_time_Data_afmzqc.png?_a=AVADKIB0)\n        \n        ![Image 4003: DataCaptains](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/data_captains_kklq1l.png?_a=AVADKIB0)\n        \n        ![Image 4004: On the Mark Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/on_the_mark_data_set2lc.svg?_a=AVADKIB0)\n        \n        ![Image 4005: 4Mile](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/4_mile_media_tk0whr.png?_a=AVADKIB0)\n        \n        ![Image 4006: Revolt.BI](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Revolt_BI_gjv5z1.svg?_a=AVADKIB0)\n        \n        ![Image 4007: Analytics8](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Analytics8_bpusuo.png?_a=AVADKIB0)\n        \n        ![Image 4008: phData](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/phData_wcwsay.png?_a=AVADKIB0)\n        \n        ![Image 4009: 3Pillar Global](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/3_pillar_global_wehwua.png?_a=AVADKIB0)\n        \n        ![Image 4010: Kubrick](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Kubrick_bpb3pm.png?_a=AVADKIB0)\n        \n        ![Image 4011: FluenFactors](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/FluenFactors_eblvks.png?_a=AVADKIB0)\n        \n        ![Image 4012: Deepsky Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Deepsky_Data_ojmduj.png?_a=AVADKIB0)\n        \n        ![Image 4013: EY Consulting Services](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/EY_Analytics_Consulting_wvdjc1.png?_a=AVADKIB0)\n        \n        ![Image 4014: ZS Associates](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/ZS_pzufap.png?_a=AVADKIB0)\n        \n        ![Image 4015: Captech Consulting](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202023/Captech_j9gea9.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 4016: Aimpoint Digital](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/Aimpoint_Digital_cgb9cd.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 4017: DAS42](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/DAS42_s4r8dq.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 4018: Markovate](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/markovate_n9xyn4.png?_a=AVADKIB0)\n        \n        New\n        \n        ![Image 4019: NTT Data](https://res.cloudinary.com/dl0nekgpw/image/upload/c_limit,w_180/e_trim/f_auto/q_auto/v1/MAD%202024/NTT_Data_mljsc8.png?_a=AVADKIB0)\n        \n\nDownload PDF\n\nBlog [mattturck.com/MAD2024](https://mattturck.com/MAD2024?utm_source=mad_landscape)Questions [MAD@firstmark.com](mailto:MAD@firstmark.com)\n\nHire AI talent [Go Fractional](https://www.gofractional.com/?utm_source=mad_landscape&ref=mad)Card data [CB Insights](https://www.cbinsights.com/?utm_source=mad_landscape)\n\n[![Image 4020: Firstmark Logo](https://mad.firstmark.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirstmark.7d036ef9.png&w=384&q=75)](https://firstmark.com/?utm_source=mad_landscape)",
+  "usage": {
+    "tokens": 128046
+  }
+}
+```

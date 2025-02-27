@@ -1,0 +1,222 @@
+Features
+--------
+
+Hours of Work, Done in Minutes
+------------------------------
+
+### Enrich any list with new datapoints
+
+Easily scan multiple company websites to find pricing information, locate customer reviews, or gather contact details for potential leads.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Company
+
+TechCorp Solutions
+
+DataFlow Systems
+
+CloudNine Services
+
+InnovateTech
+
+SecureNet
+
+### Website
+
+techcorpsolutions.com
+
+dataflowsys.com
+
+cloudnineservices.io
+
+innovatetech.co
+
+securenet.com
+
+### Pricing Tier
+
+### Customer Review
+
+Great product, responsive support team!
+
+Powerful features, but steep learning curve.
+
+Good value for small businesses.
+
+Tailored solution that fits our needs perfectly.
+
+Impressive features for a free tier!
+
+### The simplest web scraper, ever.
+
+Browse and crawl links using plain English. No more scripts, proxies, or captchas.
+----------------------------------------------------------------------------------
+
+### Replace manual research workflows
+
+Use our research agent to find pricing information, locate customer testimonials, or gather contact details for potential leads.
+--------------------------------------------------------------------------------------------------------------------------------
+
+Do they have a mobile app?
+
+### Research Steps
+
+Browsing official website
+
+Yes, they do have a mobile app
+
+### Get through hundreds of documents in minutes
+
+Built to handle large volumes of documents. Set your column as a question, and Otto will process, read and answer for each one.
+-------------------------------------------------------------------------------------------------------------------------------
+
+| 
+Customer Feedback Call
+
+
+
+ | 
+
+Feedback
+
+
+
+ | 
+
+Type of Business
+
+
+
+ | 
+
+Customer Response
+
+
+
+ |
+| --- | --- | --- | --- |
+| 
+
+manufacturing\_call\_001.pdf
+
+
+
+ | 
+
+Praised product durability, requested volume pricing
+
+
+
+ | 
+
+Manufacturing
+
+
+
+ | 
+
+Potential Bulk Order
+
+
+
+ |
+| 
+
+logistics\_complaint\_002.pdf
+
+
+
+ | 
+
+Reported consistent late deliveries, seeking resolution
+
+
+
+ | 
+
+Logistics
+
+
+
+ | 
+
+Immediate Action Required
+
+
+
+ |
+| 
+
+retail\_inquiry\_003.pdf
+
+
+
+ | 
+
+Inquired about seasonal product availability
+
+
+
+ | 
+
+Retail
+
+
+
+ | 
+
+Inventory Check Needed
+
+
+
+ |
+| 
+
+healthcare\_feedback\_004.pdf
+
+
+
+ | 
+
+Expressed satisfaction with equipment reliability
+
+
+
+ | 
+
+Healthcare
+
+
+
+ | 
+
+Testimonial Opportunity
+
+
+
+ |
+| 
+
+tech\_support\_005.pdf
+
+
+
+ | 
+
+Reported API integration issues, requested assistance
+
+
+
+ | 
+
+Technology
+
+
+
+ | 
+
+Escalate to Dev Team
+
+
+
+ |

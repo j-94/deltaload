@@ -1,0 +1,3268 @@
+GitHub - metabase/metabase: The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+===============
+                                           
+
+[Skip to content](https://github.com/metabase/metabase?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmetabase%2Fmetabase%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmetabase%2Fmetabase%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=metabase%2Fmetabase) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[metabase](https://github.com/metabase) / **[metabase](https://github.com/metabase/metabase)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fmetabase%2Fmetabase) You must be signed in to change notification settings
+*   [Fork 5.3k](https://github.com/login?return_to=%2Fmetabase%2Fmetabase)
+*   [Star 39.7k](https://github.com/login?return_to=%2Fmetabase%2Fmetabase)
+    
+
+The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+
+[metabase.com](https://metabase.com/ "https://metabase.com")
+
+### License
+
+Unknown and 3 other licenses found
+
+### Licenses found
+
+[Unknown LICENSE.txt](https://github.com/metabase/metabase/blob/master/LICENSE.txt)[AGPL-3.0 LICENSE-AGPL.txt](https://github.com/metabase/metabase/blob/master/LICENSE-AGPL.txt)[Unknown LICENSE-EMBEDDING.txt](https://github.com/metabase/metabase/blob/master/LICENSE-EMBEDDING.txt)[Unknown LICENSE-MCL.txt](https://github.com/metabase/metabase/blob/master/LICENSE-MCL.txt)
+
+[39.7k stars](https://github.com/metabase/metabase/stargazers) [5.3k forks](https://github.com/metabase/metabase/forks) [Branches](https://github.com/metabase/metabase/branches) [Tags](https://github.com/metabase/metabase/tags) [Activity](https://github.com/metabase/metabase/activity)
+
+[Star](https://github.com/login?return_to=%2Fmetabase%2Fmetabase)
+
+[Notifications](https://github.com/login?return_to=%2Fmetabase%2Fmetabase) You must be signed in to change notification settings
+
+*   [Code](https://github.com/metabase/metabase)
+*   [Issues 3.9k](https://github.com/metabase/metabase/issues)
+*   [Pull requests 370](https://github.com/metabase/metabase/pulls)
+*   [Actions](https://github.com/metabase/metabase/actions)
+*   [Projects 0](https://github.com/metabase/metabase/projects)
+*   [Wiki](https://github.com/metabase/metabase/wiki)
+*   [Security 23](https://github.com/metabase/metabase/security)
+*   [Insights](https://github.com/metabase/metabase/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/metabase/metabase)
+*   [Issues](https://github.com/metabase/metabase/issues)
+*   [Pull requests](https://github.com/metabase/metabase/pulls)
+*   [Actions](https://github.com/metabase/metabase/actions)
+*   [Projects](https://github.com/metabase/metabase/projects)
+*   [Wiki](https://github.com/metabase/metabase/wiki)
+*   [Security](https://github.com/metabase/metabase/security)
+*   [Insights](https://github.com/metabase/metabase/pulse)
+
+metabase/metabase
+=================
+
+  
+
+ master
+
+[**2098** Branches](https://github.com/metabase/metabase/branches)[**1020** Tags](https://github.com/metabase/metabase/tags)
+
+[](https://github.com/metabase/metabase/branches)[](https://github.com/metabase/metabase/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 24: heypoom](https://avatars.githubusercontent.com/u/4714175?v=4&size=40)](https://github.com/heypoom)[heypoom](https://github.com/metabase/metabase/commits?author=heypoom)
+
+[feat(sdk): granular documentation links in usage problem banner (](https://github.com/metabase/metabase/commit/3bcf2d5989490a0316ca8b7d83e4c9724cff33a3)[#52257](https://github.com/metabase/metabase/pull/52257)[)](https://github.com/metabase/metabase/commit/3bcf2d5989490a0316ca8b7d83e4c9724cff33a3)
+
+Jan 20, 2025
+
+[3bcf2d5](https://github.com/metabase/metabase/commit/3bcf2d5989490a0316ca8b7d83e4c9724cff33a3) · Jan 20, 2025
+
+History
+-------
+
+[34,179 Commits](https://github.com/metabase/metabase/commits/master/)
+
+[](https://github.com/metabase/metabase/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.babel\_cache](https://github.com/metabase/metabase/tree/master/.babel_cache ".babel_cache")
+
+
+
+
+
+
+
+ | 
+
+[.babel\_cache](https://github.com/metabase/metabase/tree/master/.babel_cache ".babel_cache")
+
+
+
+
+
+
+
+ | 
+
+[Webpack!](https://github.com/metabase/metabase/commit/4dd8c1da38a11323374037749b6a6025fca70f8f "Webpack!")
+
+
+
+ | 
+
+Jun 9, 2015
+
+ |
+| 
+
+[.clj-kondo](https://github.com/metabase/metabase/tree/master/.clj-kondo ".clj-kondo")
+
+
+
+
+
+
+
+ | 
+
+[.clj-kondo](https://github.com/metabase/metabase/tree/master/.clj-kondo ".clj-kondo")
+
+
+
+
+
+
+
+ | 
+
+[Add Kondo linter to make sure defmultis have arglists (](https://github.com/metabase/metabase/commit/2a525ea3c1ab817a1075c6a3925469f900d3b011 "Add Kondo linter to make sure defmultis have arglists (#52083)
+* Add Kondo linter to make sure defmultis have arglists
+* Appease Kondo
+* cljfmt")[#52083](https://github.com/metabase/metabase/pull/52083)[)](https://github.com/metabase/metabase/commit/2a525ea3c1ab817a1075c6a3925469f900d3b011 "Add Kondo linter to make sure defmultis have arglists (#52083)
+* Add Kondo linter to make sure defmultis have arglists
+* Appease Kondo
+* cljfmt")
+
+
+
+ | 
+
+Jan 17, 2025
+
+ |
+| 
+
+[.devcontainer](https://github.com/metabase/metabase/tree/master/.devcontainer ".devcontainer")
+
+
+
+
+
+
+
+ | 
+
+[.devcontainer](https://github.com/metabase/metabase/tree/master/.devcontainer ".devcontainer")
+
+
+
+
+
+
+
+ | 
+
+[Update devcontainer Dockerile (](https://github.com/metabase/metabase/commit/9d446f9cd829a2365875c13eab4eefbc9d78dd55 "Update devcontainer Dockerile (#38598)")[#38598](https://github.com/metabase/metabase/pull/38598)[)](https://github.com/metabase/metabase/commit/9d446f9cd829a2365875c13eab4eefbc9d78dd55 "Update devcontainer Dockerile (#38598)")
+
+
+
+ | 
+
+Feb 9, 2024
+
+ |
+| 
+
+[.github](https://github.com/metabase/metabase/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/metabase/metabase/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[no need to reset PR comments on non-PRs (](https://github.com/metabase/metabase/commit/40e53d907bd7a0089e8407b6738b90a84ac7dbde "no need to reset PR comments on non-PRs (#52352)")[#52352](https://github.com/metabase/metabase/pull/52352)[)](https://github.com/metabase/metabase/commit/40e53d907bd7a0089e8407b6738b90a84ac7dbde "no need to reset PR comments on non-PRs (#52352)")
+
+
+
+ | 
+
+Jan 17, 2025
+
+ |
+| 
+
+[.husky](https://github.com/metabase/metabase/tree/master/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+[.husky](https://github.com/metabase/metabase/tree/master/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+[Adding linter and formatter pre-commit hooks for staged BE files](https://github.com/metabase/metabase/commit/d4957af14205d9afeaab3a013bf4ecaafbea9f87 "Adding linter and formatter pre-commit hooks for staged BE files
+* Adding linter and formatter to staged BE files.
+Note that `.cljfmt/indents.clj` tries to capture our indent rules
+and, so far, seems to get things right. There are still some inconsistencies
+in some of our nses in how we indent assoc(-in) and some t2 functions
+when it comes to key-value pairs on following lines. Should the keys
+align with the function call or be indented. Aesthetically, people
+seem to like indents, but these are functions, so should align with the
+first argument. IDK that it really matters as long as we have agreement.
+We may, as we adopt this, have some files be reformatted in unexpected ways
+for items that have been missed. If so, the developer can simply update
+the .cljfmt/indents.clj file, rerun the hook, and commit that along with
+their other changes.
+* Added whitespace linter.
+* Updating husky commit hook
+* Updated hook scripts to be exclusively for staged files.
+Updated cljfmt to use the latest and greatest along with the new format of config file.
+* Commenting out the actual formatting hook in .husky/pre-commit until we come up with a globally happy solution to forms that don't have good formatting rules, like defprotocol+ in a reader conditional.
+* Reverting formatting
+* Moving pre-commit hooks from .husky/pre-commit to the package.json's lint-staged section.
+Note that we're still not calling the cljfmt file (.bin/cljfmt_staged.sh)
+until we get agreement on formatting.
+One thing we might do since we're using lint-staged is we can probably
+exclude the \"bad\" files that go sideways with linting and format everything
+else automatically. This might be a good follow-on PR.")
+
+
+
+ | 
+
+Nov 14, 2023
+
+ |
+| 
+
+[.loki](https://github.com/metabase/metabase/tree/master/.loki ".loki")
+
+
+
+
+
+
+
+ | 
+
+[.loki](https://github.com/metabase/metabase/tree/master/.loki ".loki")
+
+
+
+
+
+
+
+ | 
+
+[Fix error button hover color (](https://github.com/metabase/metabase/commit/fbf0e7a3ad35fdd78fc56554fa6600c1157f4fe5 "Fix error button hover color (#52373)")[#52373](https://github.com/metabase/metabase/pull/52373)[)](https://github.com/metabase/metabase/commit/fbf0e7a3ad35fdd78fc56554fa6600c1157f4fe5 "Fix error button hover color (#52373)")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[.lsp](https://github.com/metabase/metabase/tree/master/.lsp ".lsp")
+
+
+
+
+
+
+
+ | 
+
+[.lsp](https://github.com/metabase/metabase/tree/master/.lsp ".lsp")
+
+
+
+
+
+
+
+ | 
+
+[Saml2 slo (](https://github.com/metabase/metabase/commit/b2d7dc6cc902e45f28dd660831054ec7898af15b "Saml2 slo (#39034)
+* wip
+* SLO works with auth slo handler route
+* move slo handling endpoint to /auth/sso/handle_slo
+* fix slo redirect url
+* SLO works, and the sso-handle-slo for saml is where it belongs
+- a ton of cleanup
+* fix api/session namespace + add docstrings
+* cleaning up logout action
+* add slo logout test along with slo response xml
+* whitespace + linter
+* add docstring
+* update exclusions in deps.edn
+* un-require metabase-enterprise ns from oss ns
+* add docs for how to setup SLO to metabase docs
+* docs: clarify that setting up SLO is optional
+* move slo logout endpoint into ee code
+- removes sso-info defenterprise since it is no longer needed
+* use current version of saml20-clj
+---------
+Co-authored-by: Nick Fitzpatrick <nickfitz.582@gmail.com>")[#39034](https://github.com/metabase/metabase/pull/39034)[)](https://github.com/metabase/metabase/commit/b2d7dc6cc902e45f28dd660831054ec7898af15b "Saml2 slo (#39034)
+* wip
+* SLO works with auth slo handler route
+* move slo handling endpoint to /auth/sso/handle_slo
+* fix slo redirect url
+* SLO works, and the sso-handle-slo for saml is where it belongs
+- a ton of cleanup
+* fix api/session namespace + add docstrings
+* cleaning up logout action
+* add slo logout test along with slo response xml
+* whitespace + linter
+* add docstring
+* update exclusions in deps.edn
+* un-require metabase-enterprise ns from oss ns
+* add docs for how to setup SLO to metabase docs
+* docs: clarify that setting up SLO is optional
+* move slo logout endpoint into ee code
+- removes sso-info defenterprise since it is no longer needed
+* use current version of saml20-clj
+---------
+Co-authored-by: Nick Fitzpatrick <nickfitz.582@gmail.com>")
+
+
+
+ | 
+
+Feb 29, 2024
+
+ |
+| 
+
+[.lychee](https://github.com/metabase/metabase/tree/master/.lychee ".lychee")
+
+
+
+
+
+
+
+ | 
+
+[.lychee](https://github.com/metabase/metabase/tree/master/.lychee ".lychee")
+
+
+
+
+
+
+
+ | 
+
+[lychee to lint doc links (](https://github.com/metabase/metabase/commit/e1a1e731281663ff2f4595513f7c98dfb6dc47d1 "lychee to lint doc links (#51422)
+Co-authored-by: Ryan Laurie <iethree@gmail.com>")[#51422](https://github.com/metabase/metabase/pull/51422)[)](https://github.com/metabase/metabase/commit/e1a1e731281663ff2f4595513f7c98dfb6dc47d1 "lychee to lint doc links (#51422)
+Co-authored-by: Ryan Laurie <iethree@gmail.com>")
+
+
+
+ | 
+
+Dec 17, 2024
+
+ |
+| 
+
+[.storybook-sdk](https://github.com/metabase/metabase/tree/master/.storybook-sdk ".storybook-sdk")
+
+
+
+
+
+
+
+ | 
+
+[.storybook-sdk](https://github.com/metabase/metabase/tree/master/.storybook-sdk ".storybook-sdk")
+
+
+
+
+
+
+
+ | 
+
+[add sdk theme selector to storybook + split the storybook sdk config …](https://github.com/metabase/metabase/commit/83cbbd7e45e429ea9fab3c7dfd562dcb978cec92 "add sdk theme selector to storybook + split the storybook sdk config into its own folder (#51122)
+* add sdk theme selector to storybook
+* let's try to split the storybook")
+
+
+
+ | 
+
+Dec 19, 2024
+
+ |
+| 
+
+[.storybook](https://github.com/metabase/metabase/tree/master/.storybook ".storybook")
+
+
+
+
+
+
+
+ | 
+
+[.storybook](https://github.com/metabase/metabase/tree/master/.storybook ".storybook")
+
+
+
+
+
+
+
+ | 
+
+[add sdk theme selector to storybook + split the storybook sdk config …](https://github.com/metabase/metabase/commit/83cbbd7e45e429ea9fab3c7dfd562dcb978cec92 "add sdk theme selector to storybook + split the storybook sdk config into its own folder (#51122)
+* add sdk theme selector to storybook
+* let's try to split the storybook")
+
+
+
+ | 
+
+Dec 19, 2024
+
+ |
+| 
+
+[.vscode](https://github.com/metabase/metabase/tree/master/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[.vscode](https://github.com/metabase/metabase/tree/master/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+```
+[embedding-sdk:dev](https://github.com/metabase/metabase/commit/302a99465449152dd0dfb4af884586ec226b092f "`embedding-sdk:dev`: --watch that makes \"fixed\" dts (#48574)
+* faster --watch command for the sdk
+* apparently we want an empty line at the end of jsons, but prettier removes it?
+* format tasks.json with prettier 😕
+* vscods tasks, move watch task from webpack config to the fixup script
+* cleanup webpack config
+* adds clean + waits for dist folder when not existing
+* minimal doc for the sdk commands")
+```[: --watch that makes "fixed" dts (](https://github.com/metabase/metabase/commit/302a99465449152dd0dfb4af884586ec226b092f "`embedding-sdk:dev`: --watch that makes \"fixed\" dts (#48574)
+* faster --watch command for the sdk
+* apparently we want an empty line at the end of jsons, but prettier removes it?
+* format tasks.json with prettier 😕
+* vscods tasks, move watch task from webpack config to the fixup script
+* cleanup webpack config
+* adds clean + waits for dist folder when not existing
+* minimal doc for the sdk commands")[#48574](https://github.com/metabase/metabase/pull/48574)[)](https://github.com/metabase/metabase/commit/302a99465449152dd0dfb4af884586ec226b092f "`embedding-sdk:dev`: --watch that makes \"fixed\" dts (#48574)
+* faster --watch command for the sdk
+* apparently we want an empty line at the end of jsons, but prettier removes it?
+* format tasks.json with prettier 😕
+* vscods tasks, move watch task from webpack config to the fixup script
+* cleanup webpack config
+* adds clean + waits for dist folder when not existing
+* minimal doc for the sdk commands")
+
+
+
+ | 
+
+Oct 16, 2024
+
+ |
+| 
+
+[bin](https://github.com/metabase/metabase/tree/master/bin "bin")
+
+
+
+
+
+
+
+ | 
+
+[bin](https://github.com/metabase/metabase/tree/master/bin "bin")
+
+
+
+
+
+
+
+ | 
+
+[Add Kondo linter to make sure defmultis have arglists (](https://github.com/metabase/metabase/commit/2a525ea3c1ab817a1075c6a3925469f900d3b011 "Add Kondo linter to make sure defmultis have arglists (#52083)
+* Add Kondo linter to make sure defmultis have arglists
+* Appease Kondo
+* cljfmt")[#52083](https://github.com/metabase/metabase/pull/52083)[)](https://github.com/metabase/metabase/commit/2a525ea3c1ab817a1075c6a3925469f900d3b011 "Add Kondo linter to make sure defmultis have arglists (#52083)
+* Add Kondo linter to make sure defmultis have arglists
+* Appease Kondo
+* cljfmt")
+
+
+
+ | 
+
+Jan 17, 2025
+
+ |
+| 
+
+[dev](https://github.com/metabase/metabase/tree/master/dev "dev")
+
+
+
+
+
+
+
+ | 
+
+[dev](https://github.com/metabase/metabase/tree/master/dev "dev")
+
+
+
+
+
+
+
+ | 
+
+[\[Backend modularization\]](https://github.com/metabase/metabase/commit/272f682da5e07ced197be19981dc2c1351f33e12 "[Backend modularization] `sync` module cleanup (#52251)
+* `sync` module cleanup
+* Fix another bug
+* Fix some references to old namespace
+* Fix references to stuff that doesn't exist anymore") ```
+[sync](https://github.com/metabase/metabase/commit/272f682da5e07ced197be19981dc2c1351f33e12 "[Backend modularization] `sync` module cleanup (#52251)
+* `sync` module cleanup
+* Fix another bug
+* Fix some references to old namespace
+* Fix references to stuff that doesn't exist anymore")
+``` [module cleanup (](https://github.com/metabase/metabase/commit/272f682da5e07ced197be19981dc2c1351f33e12 "[Backend modularization] `sync` module cleanup (#52251)
+* `sync` module cleanup
+* Fix another bug
+* Fix some references to old namespace
+* Fix references to stuff that doesn't exist anymore")[#52251](https://github.com/metabase/metabase/pull/52251)[)](https://github.com/metabase/metabase/commit/272f682da5e07ced197be19981dc2c1351f33e12 "[Backend modularization] `sync` module cleanup (#52251)
+* `sync` module cleanup
+* Fix another bug
+* Fix some references to old namespace
+* Fix references to stuff that doesn't exist anymore")
+
+
+
+ | 
+
+Jan 16, 2025
+
+ |
+| 
+
+[docs](https://github.com/metabase/metabase/tree/master/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs](https://github.com/metabase/metabase/tree/master/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs: linked filters (](https://github.com/metabase/metabase/commit/8452fc328cf6a5c4d05e256e9a749b7d8c96d893 "docs: linked filters (#52182)
+* linked filters draft
+* linked filters draft
+* probably should actually insert the link eh?
+* Apply suggestions from code review
+Co-authored-by: Jeff Bruemmer <jeff.bruemmer@gmail.com>
+* review feedback
+---------
+Co-authored-by: Jeff Bruemmer <jeff.bruemmer@gmail.com>")[#52182](https://github.com/metabase/metabase/pull/52182)[)](https://github.com/metabase/metabase/commit/8452fc328cf6a5c4d05e256e9a749b7d8c96d893 "docs: linked filters (#52182)
+* linked filters draft
+* linked filters draft
+* probably should actually insert the link eh?
+* Apply suggestions from code review
+Co-authored-by: Jeff Bruemmer <jeff.bruemmer@gmail.com>
+* review feedback
+---------
+Co-authored-by: Jeff Bruemmer <jeff.bruemmer@gmail.com>")
+
+
+
+ | 
+
+Jan 17, 2025
+
+ |
+| 
+
+[e2e](https://github.com/metabase/metabase/tree/master/e2e "e2e")
+
+
+
+
+
+
+
+ | 
+
+[e2e](https://github.com/metabase/metabase/tree/master/e2e "e2e")
+
+
+
+
+
+
+
+ | 
+
+[Use new search in tests, if available (](https://github.com/metabase/metabase/commit/a8927594c16f4660644e4e47329af99f6200dafe "Use new search in tests, if available (#51277)
+Fixes a bunch of minor issues found in the process of porting over the e2e tests, in particular.")[#51277](https://github.com/metabase/metabase/pull/51277)[)](https://github.com/metabase/metabase/commit/a8927594c16f4660644e4e47329af99f6200dafe "Use new search in tests, if available (#51277)
+Fixes a bunch of minor issues found in the process of porting over the e2e tests, in particular.")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[enterprise](https://github.com/metabase/metabase/tree/master/enterprise "enterprise")
+
+
+
+
+
+
+
+ | 
+
+[enterprise](https://github.com/metabase/metabase/tree/master/enterprise "enterprise")
+
+
+
+
+
+
+
+ | 
+
+[feat(sdk): granular documentation links in usage problem banner (](https://github.com/metabase/metabase/commit/3bcf2d5989490a0316ca8b7d83e4c9724cff33a3 "feat(sdk): granular documentation links in usage problem banner (#52257)")[#52257](https://github.com/metabase/metabase/pull/52257)[)](https://github.com/metabase/metabase/commit/3bcf2d5989490a0316ca8b7d83e4c9724cff33a3 "feat(sdk): granular documentation links in usage problem banner (#52257)")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[frontend](https://github.com/metabase/metabase/tree/master/frontend "frontend")
+
+
+
+
+
+
+
+ | 
+
+[frontend](https://github.com/metabase/metabase/tree/master/frontend "frontend")
+
+
+
+
+
+
+
+ | 
+
+[Fix error button hover color (](https://github.com/metabase/metabase/commit/fbf0e7a3ad35fdd78fc56554fa6600c1157f4fe5 "Fix error button hover color (#52373)")[#52373](https://github.com/metabase/metabase/pull/52373)[)](https://github.com/metabase/metabase/commit/fbf0e7a3ad35fdd78fc56554fa6600c1157f4fe5 "Fix error button hover color (#52373)")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[hooks](https://github.com/metabase/metabase/tree/master/hooks "hooks")
+
+
+
+
+
+
+
+ | 
+
+[hooks](https://github.com/metabase/metabase/tree/master/hooks "hooks")
+
+
+
+
+
+
+
+ | 
+
+[Add git pre-commit hook to catch](https://github.com/metabase/metabase/commit/8108f0aa2dc4c5a2207dd1fd24894ae1d4f243fb "Add git pre-commit hook to catch `nocommit` lines (#22096)
+Sometimes you’ll make a change to some code and not want to commit it. You probably add a comment to the code and hope you’ll either see the comment in the diff before committing or just remember not to check in the change. If you’ve ever done this you’ve probably also committed something you didn’t mean to commit. I know I have.
+Below is a git pre-commit hook that searches for the text `nocommit` and if found rejects the commit. With it you can stick `nocommit` in a comment next to the change you don’t want committed and know that it won’t be committed.
+You can maintain a list of personal forbidden words by exporting
+`NOCOMMIT_RE` e.g:
+`export NOCOMMIT_RE=\"spy|tap>|curse word\"`") ```
+[nocommit](https://github.com/metabase/metabase/commit/8108f0aa2dc4c5a2207dd1fd24894ae1d4f243fb "Add git pre-commit hook to catch `nocommit` lines (#22096)
+Sometimes you’ll make a change to some code and not want to commit it. You probably add a comment to the code and hope you’ll either see the comment in the diff before committing or just remember not to check in the change. If you’ve ever done this you’ve probably also committed something you didn’t mean to commit. I know I have.
+Below is a git pre-commit hook that searches for the text `nocommit` and if found rejects the commit. With it you can stick `nocommit` in a comment next to the change you don’t want committed and know that it won’t be committed.
+You can maintain a list of personal forbidden words by exporting
+`NOCOMMIT_RE` e.g:
+`export NOCOMMIT_RE=\"spy|tap>|curse word\"`")
+``` [lines (](https://github.com/metabase/metabase/commit/8108f0aa2dc4c5a2207dd1fd24894ae1d4f243fb "Add git pre-commit hook to catch `nocommit` lines (#22096)
+Sometimes you’ll make a change to some code and not want to commit it. You probably add a comment to the code and hope you’ll either see the comment in the diff before committing or just remember not to check in the change. If you’ve ever done this you’ve probably also committed something you didn’t mean to commit. I know I have.
+Below is a git pre-commit hook that searches for the text `nocommit` and if found rejects the commit. With it you can stick `nocommit` in a comment next to the change you don’t want committed and know that it won’t be committed.
+You can maintain a list of personal forbidden words by exporting
+`NOCOMMIT_RE` e.g:
+`export NOCOMMIT_RE=\"spy|tap>|curse word\"`")[#22096](https://github.com/metabase/metabase/pull/22096)[)](https://github.com/metabase/metabase/commit/8108f0aa2dc4c5a2207dd1fd24894ae1d4f243fb "Add git pre-commit hook to catch `nocommit` lines (#22096)
+Sometimes you’ll make a change to some code and not want to commit it. You probably add a comment to the code and hope you’ll either see the comment in the diff before committing or just remember not to check in the change. If you’ve ever done this you’ve probably also committed something you didn’t mean to commit. I know I have.
+Below is a git pre-commit hook that searches for the text `nocommit` and if found rejects the commit. With it you can stick `nocommit` in a comment next to the change you don’t want committed and know that it won’t be committed.
+You can maintain a list of personal forbidden words by exporting
+`NOCOMMIT_RE` e.g:
+`export NOCOMMIT_RE=\"spy|tap>|curse word\"`")
+
+
+
+ | 
+
+Apr 27, 2022
+
+ |
+| 
+
+[locales](https://github.com/metabase/metabase/tree/master/locales "locales")
+
+
+
+
+
+
+
+ | 
+
+[locales](https://github.com/metabase/metabase/tree/master/locales "locales")
+
+
+
+
+
+
+
+ | 
+
+[Update Translations for v52.1 (](https://github.com/metabase/metabase/commit/b4aa704be6399aef4ba1ac68076af04ec80911d6 "Update Translations for v52.1 (#50534)
+* Add new strings for v52.0
+* Update translations
+---------
+Co-authored-by: github-actions <github-actions@github.com>")[#50534](https://github.com/metabase/metabase/pull/50534)[)](https://github.com/metabase/metabase/commit/b4aa704be6399aef4ba1ac68076af04ec80911d6 "Update Translations for v52.1 (#50534)
+* Add new strings for v52.0
+* Update translations
+---------
+Co-authored-by: github-actions <github-actions@github.com>")
+
+
+
+ | 
+
+Dec 3, 2024
+
+ |
+| 
+
+[modules/drivers](https://github.com/metabase/metabase/tree/master/modules/drivers "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[modules/drivers](https://github.com/metabase/metabase/tree/master/modules/drivers "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[perf: faster snowflake sync with describe-fields (](https://github.com/metabase/metabase/commit/e3adb04fa41c9b84aff424b457e90da231861639 "perf: faster snowflake sync with describe-fields (#49625)
+* perf: faster snowflake sync with describe-fields
+Fixes: #49624
+* Fix formatting
+* Update modules/drivers/snowflake/test/metabase/driver/snowflake_test.clj
+Co-authored-by: Cam Saul <1455846+camsaul@users.noreply.github.com>
+* Fix up datetime types
+* Ensure describe-fields is sorted
+* Fix types for venues
+* Check for integer with numeric_scale
+* Consistency with getColumnMetadata
+* Add pks
+---------
+Co-authored-by: Cam Saul <1455846+camsaul@users.noreply.github.com>")[#49625](https://github.com/metabase/metabase/pull/49625)[)](https://github.com/metabase/metabase/commit/e3adb04fa41c9b84aff424b457e90da231861639 "perf: faster snowflake sync with describe-fields (#49625)
+* perf: faster snowflake sync with describe-fields
+Fixes: #49624
+* Fix formatting
+* Update modules/drivers/snowflake/test/metabase/driver/snowflake_test.clj
+Co-authored-by: Cam Saul <1455846+camsaul@users.noreply.github.com>
+* Fix up datetime types
+* Ensure describe-fields is sorted
+* Fix types for venues
+* Check for integer with numeric_scale
+* Consistency with getColumnMetadata
+* Add pks
+---------
+Co-authored-by: Cam Saul <1455846+camsaul@users.noreply.github.com>")
+
+
+
+ | 
+
+Jan 17, 2025
+
+ |
+| 
+
+[patches](https://github.com/metabase/metabase/tree/master/patches "patches")
+
+
+
+
+
+
+
+ | 
+
+[patches](https://github.com/metabase/metabase/tree/master/patches "patches")
+
+
+
+
+
+
+
+ | 
+
+[\[Redux\] Make core app use custom redux context (](https://github.com/metabase/metabase/commit/1fdc213d0837391c9055e747816f717081f5951f "[Redux] Make core app use custom redux context (#52040)
+* hacks solution together to test if everything passes CI
+* real implementation, removes hacked approach
+* patch types
+* add test coverage for patched package
+* add one more unit test")[#52040](https://github.com/metabase/metabase/pull/52040)[)](https://github.com/metabase/metabase/commit/1fdc213d0837391c9055e747816f717081f5951f "[Redux] Make core app use custom redux context (#52040)
+* hacks solution together to test if everything passes CI
+* real implementation, removes hacked approach
+* patch types
+* add test coverage for patched package
+* add one more unit test")
+
+
+
+ | 
+
+Jan 14, 2025
+
+ |
+| 
+
+[release](https://github.com/metabase/metabase/tree/master/release "release")
+
+
+
+
+
+
+
+ | 
+
+[release](https://github.com/metabase/metabase/tree/master/release "release")
+
+
+
+
+
+
+
+ | 
+
+[linked-issues.ts: codeql complained about regexp (](https://github.com/metabase/metabase/commit/be81c7f9221fab3251dd9b0b2439ad778a4a441f "linked-issues.ts: codeql complained about regexp (#52302)")[#52302](https://github.com/metabase/metabase/pull/52302)[)](https://github.com/metabase/metabase/commit/be81c7f9221fab3251dd9b0b2439ad778a4a441f "linked-issues.ts: codeql complained about regexp (#52302)")
+
+
+
+ | 
+
+Jan 17, 2025
+
+ |
+| 
+
+[resources](https://github.com/metabase/metabase/tree/master/resources "resources")
+
+
+
+
+
+
+
+ | 
+
+[resources](https://github.com/metabase/metabase/tree/master/resources "resources")
+
+
+
+
+
+
+
+ | 
+
+[Static Viz Start of Week in Subscription Emails (](https://github.com/metabase/metabase/commit/8ea5431774c03bd4450a05e21e766c1ef0c1c244 "Static Viz Start of Week in Subscription Emails (#51423)
+* WIP First attempt at passing start of week option to static viz bundle
+* Cleaning debug lines
+* set moment and dayjs start of week day setting in static viz
+* reverting index.ts
+* Adding backend test for checking first day of week setting is respected in static viz
+---------
+Co-authored-by: Aleksandr Lesnenko <alxnddr@gmail.com>
+Co-authored-by: Aleksandr Lesnenko <alxnddr@users.noreply.github.com>")[#51423](https://github.com/metabase/metabase/pull/51423)[)](https://github.com/metabase/metabase/commit/8ea5431774c03bd4450a05e21e766c1ef0c1c244 "Static Viz Start of Week in Subscription Emails (#51423)
+* WIP First attempt at passing start of week option to static viz bundle
+* Cleaning debug lines
+* set moment and dayjs start of week day setting in static viz
+* reverting index.ts
+* Adding backend test for checking first day of week setting is respected in static viz
+---------
+Co-authored-by: Aleksandr Lesnenko <alxnddr@gmail.com>
+Co-authored-by: Aleksandr Lesnenko <alxnddr@users.noreply.github.com>")
+
+
+
+ | 
+
+Jan 15, 2025
+
+ |
+| 
+
+[snowplow](https://github.com/metabase/metabase/tree/master/snowplow "snowplow")
+
+
+
+
+
+
+
+ | 
+
+[snowplow](https://github.com/metabase/metabase/tree/master/snowplow "snowplow")
+
+
+
+
+
+
+
+ | 
+
+[Adds missing schemas + data for metrics to snowplow stats ping (](https://github.com/metabase/metabase/commit/e5c181bdc3e2e034e037ff4c7ef964efeb909913 "Adds missing schemas + data for metrics to snowplow stats ping (#48476)
+* adds data + schema for metrics stats ping
+* remove comment
+* annotate todos
+* fill in the rest of the metrics values
+- and add defaults
+* fix some definitions + use a single timestamp
+* shuffle stuff around to appease the namespace linter
+- we aren't reaching into the api API, so the linter is more of a
+formality here.
+* update docstring
+* fix jsonschema, maybe
+* review responses
+- revert changes to 1-0-0
+- add metrics section to new file: 1-0-1
+- bump ::instance_stats to \"1-0-1\"
+- add tags into 1-0-1
+- make the code return tags (empty for now until we know what to tag things.)
+- also fix test that broke from shuffling settings around
+* remove a footgun
+* add tags to metrics,
+add grouped_metrics to jsonschema 1-0-1
+format 1-0-1
+* indent
+* cljfmt
+* version should match filename
+* update instance stats 1-0-1 schema
+* require `tags` in grouped_metric + snowcat comment
+* fix formatting noise
+* update schema to make it valid
+* remove grouped_metrics from instance_stats schema
+* cljfmt appeasement
+* unbin cache_num_queries_cached value
+- alphabetize metrics generation
+* we can now guarantee metric values will be ints
+* jsonschema for instance_uuid, settings, and grouped_metrics
+* add analytics_uuid and make it required
+* lint + alphabetize instance stats json schema
+* update setting key type
+- add maxLength to some strings
+* lint jsonschema
+- Add description to setting.items.tags
+- add maxLength, and {min,max}imum to setting.items.value
+* Bump instance stats to 2-0-0
+- remove analytics_uuid string length == 36 check
+- adds assertion to ensure required fields are set (and it passes)
+- adds info for embedding settings
+* adds a grouped-metric to stats ping
+- adds length info to the schema to pass jsonschema linting
+* cljfmt")[#48476](https://github.com/metabase/metabase/pull/48476)[)](https://github.com/metabase/metabase/commit/e5c181bdc3e2e034e037ff4c7ef964efeb909913 "Adds missing schemas + data for metrics to snowplow stats ping (#48476)
+* adds data + schema for metrics stats ping
+* remove comment
+* annotate todos
+* fill in the rest of the metrics values
+- and add defaults
+* fix some definitions + use a single timestamp
+* shuffle stuff around to appease the namespace linter
+- we aren't reaching into the api API, so the linter is more of a
+formality here.
+* update docstring
+* fix jsonschema, maybe
+* review responses
+- revert changes to 1-0-0
+- add metrics section to new file: 1-0-1
+- bump ::instance_stats to \"1-0-1\"
+- add tags into 1-0-1
+- make the code return tags (empty for now until we know what to tag things.)
+- also fix test that broke from shuffling settings around
+* remove a footgun
+* add tags to metrics,
+add grouped_metrics to jsonschema 1-0-1
+format 1-0-1
+* indent
+* cljfmt
+* version should match filename
+* update instance stats 1-0-1 schema
+* require `tags` in grouped_metric + snowcat comment
+* fix formatting noise
+* update schema to make it valid
+* remove grouped_metrics from instance_stats schema
+* cljfmt appeasement
+* unbin cache_num_queries_cached value
+- alphabetize metrics generation
+* we can now guarantee metric values will be ints
+* jsonschema for instance_uuid, settings, and grouped_metrics
+* add analytics_uuid and make it required
+* lint + alphabetize instance stats json schema
+* update setting key type
+- add maxLength to some strings
+* lint jsonschema
+- Add description to setting.items.tags
+- add maxLength, and {min,max}imum to setting.items.value
+* Bump instance stats to 2-0-0
+- remove analytics_uuid string length == 36 check
+- adds assertion to ensure required fields are set (and it passes)
+- adds info for embedding settings
+* adds a grouped-metric to stats ping
+- adds length info to the schema to pass jsonschema linting
+* cljfmt")
+
+
+
+ | 
+
+Oct 15, 2024
+
+ |
+| 
+
+[src/metabase](https://github.com/metabase/metabase/tree/master/src/metabase "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[src/metabase](https://github.com/metabase/metabase/tree/master/src/metabase "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[Use new search in tests, if available (](https://github.com/metabase/metabase/commit/a8927594c16f4660644e4e47329af99f6200dafe "Use new search in tests, if available (#51277)
+Fixes a bunch of minor issues found in the process of porting over the e2e tests, in particular.")[#51277](https://github.com/metabase/metabase/pull/51277)[)](https://github.com/metabase/metabase/commit/a8927594c16f4660644e4e47329af99f6200dafe "Use new search in tests, if available (#51277)
+Fixes a bunch of minor issues found in the process of porting over the e2e tests, in particular.")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[test/metabase](https://github.com/metabase/metabase/tree/master/test/metabase "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[test/metabase](https://github.com/metabase/metabase/tree/master/test/metabase "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[Use new search in tests, if available (](https://github.com/metabase/metabase/commit/a8927594c16f4660644e4e47329af99f6200dafe "Use new search in tests, if available (#51277)
+Fixes a bunch of minor issues found in the process of porting over the e2e tests, in particular.")[#51277](https://github.com/metabase/metabase/pull/51277)[)](https://github.com/metabase/metabase/commit/a8927594c16f4660644e4e47329af99f6200dafe "Use new search in tests, if available (#51277)
+Fixes a bunch of minor issues found in the process of porting over the e2e tests, in particular.")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[test\_config](https://github.com/metabase/metabase/tree/master/test_config "test_config")
+
+
+
+
+
+
+
+ | 
+
+[test\_config](https://github.com/metabase/metabase/tree/master/test_config "test_config")
+
+
+
+
+
+
+
+ | 
+
+[Bump Macaw to 0.2.3 and improve logging (](https://github.com/metabase/metabase/commit/1b9a267551a1f192436935f3de31c706cbc7f316 "Bump Macaw to 0.2.3 and improve logging (#47031)")[#47031](https://github.com/metabase/metabase/pull/47031)[)](https://github.com/metabase/metabase/commit/1b9a267551a1f192436935f3de31c706cbc7f316 "Bump Macaw to 0.2.3 and improve logging (#47031)")
+
+
+
+ | 
+
+Aug 21, 2024
+
+ |
+| 
+
+[test\_modules/drivers](https://github.com/metabase/metabase/tree/master/test_modules/drivers "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[test\_modules/drivers](https://github.com/metabase/metabase/tree/master/test_modules/drivers "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[Secrets 🔐 PR 7 - Enable Postgres driver to use secrets for configurin…](https://github.com/metabase/metabase/commit/f8d712d6e1ad44987e650d8f44fa136710e2bbf8 "Secrets 🔐 PR 7 - Enable Postgres driver to use secrets for configuring SSL parameters (#18968)
+* Enable Postgres driver to use secrets for configuring SSL parameters
+Adding secret related properties for SSL options to Postgres driver
+Move `conn-props->secret-props-by-name` to secret.clj since it's needed directly there, too
+Add `us-east-2-bundle.pem` to `test-resources/certificates` for testing Postgres with SSL connectivity to our RDS instance (and a README.md explaining how it differs from the existing `ssl` directory)
+Updating `value->file!` to have better logic for building the error message when the existing file is not found (for better UX from the Database admin page)
+Updating frontend to support the `visible-if` value being an array, in which case any value may match the current details value, in order for that field to be visible
+Adding secret related properties for SSL options to Postgres driver
+Updating CircleCI config.yml to refer to the RDS instance when running Postgres SSL test
+Implement server side expansion of transitive visible-if dependency chain
+Update shouldShowEngineProvidedField on client to consider multiple key/value pairs in the visible-if map, and only show the field if ALL are true
+Adding new test to confirm transitive visible-if resolution, and cycle detection
+Add Cypress test for SSL field visibility")
+
+
+
+ | 
+
+Dec 3, 2021
+
+ |
+| 
+
+[test\_resources](https://github.com/metabase/metabase/tree/master/test_resources "test_resources")
+
+
+
+
+
+
+
+ | 
+
+[test\_resources](https://github.com/metabase/metabase/tree/master/test_resources "test_resources")
+
+
+
+
+
+
+
+ | 
+
+[Simple API for storing KV pairs per-user (](https://github.com/metabase/metabase/commit/7ff5975436fa01c51efc33e2c10d37d1158cb291 "Simple API for storing KV pairs per-user (#48376)
+Co-authored-by: Noah Moss <noahbmoss@gmail.com>")[#48376](https://github.com/metabase/metabase/pull/48376)[)](https://github.com/metabase/metabase/commit/7ff5975436fa01c51efc33e2c10d37d1158cb291 "Simple API for storing KV pairs per-user (#48376)
+Co-authored-by: Noah Moss <noahbmoss@gmail.com>")
+
+
+
+ | 
+
+Dec 20, 2024
+
+ |
+| 
+
+[.cljfmt.edn](https://github.com/metabase/metabase/blob/master/.cljfmt.edn ".cljfmt.edn")
+
+
+
+
+
+
+
+ | 
+
+[.cljfmt.edn](https://github.com/metabase/metabase/blob/master/.cljfmt.edn ".cljfmt.edn")
+
+
+
+
+
+
+
+ | 
+
+[\[Backend modularization\] parcel out](https://github.com/metabase/metabase/commit/39a58d63114da1bcfdff7bf7394d04f95cf3b930 "[Backend modularization] parcel out `async` module (#52227)") ``[async](https://github.com/metabase/metabase/commit/39a58d63114da1bcfdff7bf7394d04f95cf3b930 "[Backend modularization] parcel out `async` module (#52227)")`` [module (](https://github.com/metabase/metabase/commit/39a58d63114da1bcfdff7bf7394d04f95cf3b930 "[Backend modularization] parcel out `async` module (#52227)")[#52227](https://github.com/metabase/metabase/pull/52227)[)](https://github.com/metabase/metabase/commit/39a58d63114da1bcfdff7bf7394d04f95cf3b930 "[Backend modularization] parcel out `async` module (#52227)")
+
+
+
+ | 
+
+Jan 15, 2025
+
+ |
+| 
+
+[.dir-locals.el](https://github.com/metabase/metabase/blob/master/.dir-locals.el ".dir-locals.el")
+
+
+
+
+
+
+
+ | 
+
+[.dir-locals.el](https://github.com/metabase/metabase/blob/master/.dir-locals.el ".dir-locals.el")
+
+
+
+
+
+
+
+ | 
+
+[Cljfmt config part 4 (](https://github.com/metabase/metabase/commit/31f209f33e39e590a2da06fb717bdb8f3f6fdee3 "Cljfmt config part 4 (#47047)")[#47047](https://github.com/metabase/metabase/pull/47047)[)](https://github.com/metabase/metabase/commit/31f209f33e39e590a2da06fb717bdb8f3f6fdee3 "Cljfmt config part 4 (#47047)")
+
+
+
+ | 
+
+Aug 22, 2024
+
+ |
+| 
+
+[.dockerignore](https://github.com/metabase/metabase/blob/master/.dockerignore ".dockerignore")
+
+
+
+
+
+
+
+ | 
+
+[.dockerignore](https://github.com/metabase/metabase/blob/master/.dockerignore ".dockerignore")
+
+
+
+
+
+
+
+ | 
+
+[Remove Mac App (](https://github.com/metabase/metabase/commit/d126e7492a332abfb6262f8960f91390daad0f09 "Remove Mac App (#18811)
+https://www.metabase.com/blog/Metabase-0.41/index.html")[#18811](https://github.com/metabase/metabase/pull/18811)[)](https://github.com/metabase/metabase/commit/d126e7492a332abfb6262f8960f91390daad0f09 "Remove Mac App (#18811)
+https://www.metabase.com/blog/Metabase-0.41/index.html")
+
+
+
+ | 
+
+Nov 2, 2021
+
+ |
+| 
+
+[.editorconfig](https://github.com/metabase/metabase/blob/master/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[.editorconfig](https://github.com/metabase/metabase/blob/master/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[add missing typescript configs (](https://github.com/metabase/metabase/commit/435b89e93d623949a222173c813bd3740f2abb2b "add missing typescript configs (#19390)")[#19390](https://github.com/metabase/metabase/pull/19390)[)](https://github.com/metabase/metabase/commit/435b89e93d623949a222173c813bd3740f2abb2b "add missing typescript configs (#19390)")
+
+
+
+ | 
+
+Dec 16, 2021
+
+ |
+| 
+
+[.eslintignore](https://github.com/metabase/metabase/blob/master/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[.eslintignore](https://github.com/metabase/metabase/blob/master/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[Align paths in Prettier & ESLint scripts (](https://github.com/metabase/metabase/commit/750638e4d2e04c21381dee6605682bf9fd129aad "Align paths in Prettier & ESLint scripts (#38951)
+* Align ESLint & prettier paths in \"lint-stage\" & \"scripts\" in package.json
+* Handle ts files in e2e tests
+* Manually fix ESLint-reported issues
+* Format \"lint-prettier-pure\" script the same way as \"prettier\"
+* Run \"yarn eslint-fix\"
+* Manually fix remaining issues
+* Ignore database files in ESLint as they reference a file that is git-ignored but does exist locally
+* Remove duplicated eslint call")[#38951](https://github.com/metabase/metabase/pull/38951)[)](https://github.com/metabase/metabase/commit/750638e4d2e04c21381dee6605682bf9fd129aad "Align paths in Prettier & ESLint scripts (#38951)
+* Align ESLint & prettier paths in \"lint-stage\" & \"scripts\" in package.json
+* Handle ts files in e2e tests
+* Manually fix ESLint-reported issues
+* Format \"lint-prettier-pure\" script the same way as \"prettier\"
+* Run \"yarn eslint-fix\"
+* Manually fix remaining issues
+* Ignore database files in ESLint as they reference a file that is git-ignored but does exist locally
+* Remove duplicated eslint call")
+
+
+
+ | 
+
+Feb 20, 2024
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/metabase/metabase/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/metabase/metabase/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: forbid legacyQuery usage with eslint (](https://github.com/metabase/metabase/commit/47d81c46bc45a10db226da05d384fd3b9ab87f22 "chore: forbid legacyQuery usage with eslint (#50141)
+* chore: forbid legacyQuery usage with eslint
+* fixup
+* fixup")[#50141](https://github.com/metabase/metabase/pull/50141)[)](https://github.com/metabase/metabase/commit/47d81c46bc45a10db226da05d384fd3b9ab87f22 "chore: forbid legacyQuery usage with eslint (#50141)
+* chore: forbid legacyQuery usage with eslint
+* fixup
+* fixup")
+
+
+
+ | 
+
+Nov 19, 2024
+
+ |
+| 
+
+[.gitignore](https://github.com/metabase/metabase/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/metabase/metabase/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Fix module errors when Embedding SDK Cypress tests running in develop…](https://github.com/metabase/metabase/commit/9586bca50a232c33db2edeb52d8a3ea90b6d259a "Fix module errors when Embedding SDK Cypress tests running in development mode (#52093)")
+
+
+
+ | 
+
+Jan 14, 2025
+
+ |
+| 
+
+[.lycheeignore](https://github.com/metabase/metabase/blob/master/.lycheeignore ".lycheeignore")
+
+
+
+
+
+
+
+ | 
+
+[.lycheeignore](https://github.com/metabase/metabase/blob/master/.lycheeignore ".lycheeignore")
+
+
+
+
+
+
+
+ | 
+
+[lychee to lint doc links (](https://github.com/metabase/metabase/commit/e1a1e731281663ff2f4595513f7c98dfb6dc47d1 "lychee to lint doc links (#51422)
+Co-authored-by: Ryan Laurie <iethree@gmail.com>")[#51422](https://github.com/metabase/metabase/pull/51422)[)](https://github.com/metabase/metabase/commit/e1a1e731281663ff2f4595513f7c98dfb6dc47d1 "lychee to lint doc links (#51422)
+Co-authored-by: Ryan Laurie <iethree@gmail.com>")
+
+
+
+ | 
+
+Dec 17, 2024
+
+ |
+| 
+
+[.mlc\_config.json](https://github.com/metabase/metabase/blob/master/.mlc_config.json ".mlc_config.json")
+
+
+
+
+
+
+
+ | 
+
+[.mlc\_config.json](https://github.com/metabase/metabase/blob/master/.mlc_config.json ".mlc_config.json")
+
+
+
+
+
+
+
+ | 
+
+[docs - update release list (](https://github.com/metabase/metabase/commit/647d3dfe8dacd2db079bee0600baf0e622624c66 "docs - update release list (#30955)")[#30955](https://github.com/metabase/metabase/pull/30955)[)](https://github.com/metabase/metabase/commit/647d3dfe8dacd2db079bee0600baf0e622624c66 "docs - update release list (#30955)")
+
+
+
+ | 
+
+May 23, 2023
+
+ |
+| 
+
+[.nvmrc](https://github.com/metabase/metabase/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/metabase/metabase/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[Upgrade node to 18.20 (](https://github.com/metabase/metabase/commit/0c9e3d55f910c8bb0741cf402979ef1530b8ec6a "Upgrade node to 18.20 (#40661)
+* Upgrade node to 18.20
+* Trigger CI
+* Try 20 again
+* Revert \"Try 20 again\"
+This reverts commit 8f4b39e7a64f1fae7c60decfb91ea87aff81f587.
+* Revert change
+* Add nvmrc to the frontend_sources list")[#40661](https://github.com/metabase/metabase/pull/40661)[)](https://github.com/metabase/metabase/commit/0c9e3d55f910c8bb0741cf402979ef1530b8ec6a "Upgrade node to 18.20 (#40661)
+* Upgrade node to 18.20
+* Trigger CI
+* Try 20 again
+* Revert \"Try 20 again\"
+This reverts commit 8f4b39e7a64f1fae7c60decfb91ea87aff81f587.
+* Revert change
+* Add nvmrc to the frontend_sources list")
+
+
+
+ | 
+
+Mar 27, 2024
+
+ |
+| 
+
+[.pre-commit-config.yaml](https://github.com/metabase/metabase/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")
+
+
+
+
+
+
+
+ | 
+
+[.pre-commit-config.yaml](https://github.com/metabase/metabase/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")
+
+
+
+
+
+
+
+ | 
+
+[Added `api/collection/{tree}` flag to remove other users' collections…](https://github.com/metabase/metabase/commit/b96a11bc69216fb2ef636b0ba0baa090a4a2087a "Added `api/collection/{tree}` flag to remove other users' collections from results (#28204)
+Added post-collection retrieval function `remove-other-users-personal-collections` that will filter out any personal collection that doesn't belong to the current user when the `exclude-other-user-collections=true` path param is used. Also added unit tests for both the `api/collection/` and `api/collection/tree` endpoint.")
+
+
+
+ | 
+
+Feb 27, 2023
+
+ |
+| 
+
+[.prettierignore](https://github.com/metabase/metabase/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/metabase/metabase/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[prettier formatting (](https://github.com/metabase/metabase/commit/71520bcc232a765945c43042ceca18b8f9e9a59b "prettier formatting (#49551)")[#49551](https://github.com/metabase/metabase/pull/49551)[)](https://github.com/metabase/metabase/commit/71520bcc232a765945c43042ceca18b8f9e9a59b "prettier formatting (#49551)")
+
+
+
+ | 
+
+Nov 5, 2024
+
+ |
+| 
+
+[.prettierrc](https://github.com/metabase/metabase/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc](https://github.com/metabase/metabase/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[Update Prettier to v2.7.1 (](https://github.com/metabase/metabase/commit/1aa9565c451fb2c92c4cab46c45dde7a0adab174 "Update Prettier to v2.7.1 (#23737)
+* update prettier
+* update prettier styling")[#23737](https://github.com/metabase/metabase/pull/23737)[)](https://github.com/metabase/metabase/commit/1aa9565c451fb2c92c4cab46c45dde7a0adab174 "Update Prettier to v2.7.1 (#23737)
+* update prettier
+* update prettier styling")
+
+
+
+ | 
+
+Jul 6, 2022
+
+ |
+| 
+
+[.stylelintrc.json](https://github.com/metabase/metabase/blob/master/.stylelintrc.json ".stylelintrc.json")
+
+
+
+
+
+
+
+ | 
+
+[.stylelintrc.json](https://github.com/metabase/metabase/blob/master/.stylelintrc.json ".stylelintrc.json")
+
+
+
+
+
+
+
+ | 
+
+[Add base color palette (](https://github.com/metabase/metabase/commit/11324019e30e830142671193f1dc48a4d0f7dd14 "Add base color palette (#49356)
+* add base color palette
+* add some more comments
+* fix formatting and color copy-pasta errors
+* ignore existing bad base color usage
+---------
+Co-authored-by: Oisin Coveney <oisin@metabase.com>")[#49356](https://github.com/metabase/metabase/pull/49356)[)](https://github.com/metabase/metabase/commit/11324019e30e830142671193f1dc48a4d0f7dd14 "Add base color palette (#49356)
+* add base color palette
+* add some more comments
+* fix formatting and color copy-pasta errors
+* ignore existing bad base color usage
+---------
+Co-authored-by: Oisin Coveney <oisin@metabase.com>")
+
+
+
+ | 
+
+Nov 5, 2024
+
+ |
+| 
+
+[.yarnrc](https://github.com/metabase/metabase/blob/master/.yarnrc ".yarnrc")
+
+
+
+
+
+
+
+ | 
+
+[.yarnrc](https://github.com/metabase/metabase/blob/master/.yarnrc ".yarnrc")
+
+
+
+
+
+
+
+ | 
+
+[Increase yarn network-timeout to try fixing DockerHub builds](https://github.com/metabase/metabase/commit/130bba51621b91dbbb65c1fc5ec19c251d5b7fed "Increase yarn network-timeout to try fixing DockerHub builds")
+
+
+
+ | 
+
+Feb 22, 2019
+
+ |
+| 
+
+[Dockerfile](https://github.com/metabase/metabase/blob/master/Dockerfile "Dockerfile")
+
+
+
+
+
+
+
+ | 
+
+[Dockerfile](https://github.com/metabase/metabase/blob/master/Dockerfile "Dockerfile")
+
+
+
+
+
+
+
+ | 
+
+[Don't hardcode Linux/x64 arch in Docker base image (](https://github.com/metabase/metabase/commit/200c69373dd8a15fb10514452f01af829b826cc2 "Don't hardcode Linux/x64 arch in Docker base image (#49979)")[#49979](https://github.com/metabase/metabase/pull/49979)[)](https://github.com/metabase/metabase/commit/200c69373dd8a15fb10514452f01af829b826cc2 "Don't hardcode Linux/x64 arch in Docker base image (#49979)")
+
+
+
+ | 
+
+Nov 13, 2024
+
+ |
+| 
+
+[LICENSE-AGPL.txt](https://github.com/metabase/metabase/blob/master/LICENSE-AGPL.txt "LICENSE-AGPL.txt")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE-AGPL.txt](https://github.com/metabase/metabase/blob/master/LICENSE-AGPL.txt "LICENSE-AGPL.txt")
+
+
+
+
+
+
+
+ | 
+
+[Move Metabase® Enterprise Edition™ code to core repo (](https://github.com/metabase/metabase/commit/4953ab8575a9acbdfe999349e0ecc39e38700663 "Move Metabase® Enterprise Edition™ code to core repo (#13590)")[#13590](https://github.com/metabase/metabase/pull/13590)[)](https://github.com/metabase/metabase/commit/4953ab8575a9acbdfe999349e0ecc39e38700663 "Move Metabase® Enterprise Edition™ code to core repo (#13590)")
+
+
+
+ | 
+
+Oct 23, 2020
+
+ |
+| 
+
+[LICENSE-EMBEDDING.txt](https://github.com/metabase/metabase/blob/master/LICENSE-EMBEDDING.txt "LICENSE-EMBEDDING.txt")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE-EMBEDDING.txt](https://github.com/metabase/metabase/blob/master/LICENSE-EMBEDDING.txt "LICENSE-EMBEDDING.txt")
+
+
+
+
+
+
+
+ | 
+
+[https everywhere](https://github.com/metabase/metabase/commit/6da375431d5ee0c9224779a0ceacaba406339b49 "https everywhere")
+
+
+
+ | 
+
+Apr 7, 2019
+
+ |
+| 
+
+[LICENSE-MCL.txt](https://github.com/metabase/metabase/blob/master/LICENSE-MCL.txt "LICENSE-MCL.txt")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE-MCL.txt](https://github.com/metabase/metabase/blob/master/LICENSE-MCL.txt "LICENSE-MCL.txt")
+
+
+
+
+
+
+
+ | 
+
+[more slash links (](https://github.com/metabase/metabase/commit/f77d2ccbbb05598147980083f1d900db1aec6695 "more slash links (#25642)")[#25642](https://github.com/metabase/metabase/pull/25642)[)](https://github.com/metabase/metabase/commit/f77d2ccbbb05598147980083f1d900db1aec6695 "more slash links (#25642)")
+
+
+
+ | 
+
+Sep 27, 2022
+
+ |
+| 
+
+[LICENSE.txt](https://github.com/metabase/metabase/blob/master/LICENSE.txt "LICENSE.txt")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE.txt](https://github.com/metabase/metabase/blob/master/LICENSE.txt "LICENSE.txt")
+
+
+
+
+
+
+
+ | 
+
+[more slash links (](https://github.com/metabase/metabase/commit/f77d2ccbbb05598147980083f1d900db1aec6695 "more slash links (#25642)")[#25642](https://github.com/metabase/metabase/pull/25642)[)](https://github.com/metabase/metabase/commit/f77d2ccbbb05598147980083f1d900db1aec6695 "more slash links (#25642)")
+
+
+
+ | 
+
+Sep 27, 2022
+
+ |
+| 
+
+[README.md](https://github.com/metabase/metabase/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/metabase/metabase/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Update year in the README (](https://github.com/metabase/metabase/commit/8f1e55bdb109b731efde8fb09d688ae6d0b0a799 "Update year in the README (#51923)")[#51923](https://github.com/metabase/metabase/pull/51923)[)](https://github.com/metabase/metabase/commit/8f1e55bdb109b731efde8fb09d688ae6d0b0a799 "Update year in the README (#51923)")
+
+
+
+ | 
+
+Jan 9, 2025
+
+ |
+| 
+
+[SECURITY.md](https://github.com/metabase/metabase/blob/master/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[SECURITY.md](https://github.com/metabase/metabase/blob/master/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[Create SECURITY.md (](https://github.com/metabase/metabase/commit/b6c7fd18ba739e169d7062b22148502c1a87a332 "Create SECURITY.md (#14112)
+Create SECURITY.md
+Point README.md to SECURITY.md to avoid duplicated information, and
+removed the explicit version table in SECURITY.md to make it easier to
+keep up to date.")[#14112](https://github.com/metabase/metabase/pull/14112)[)](https://github.com/metabase/metabase/commit/b6c7fd18ba739e169d7062b22148502c1a87a332 "Create SECURITY.md (#14112)
+Create SECURITY.md
+Point README.md to SECURITY.md to avoid duplicated information, and
+removed the explicit version table in SECURITY.md to make it easier to
+keep up to date.")
+
+
+
+ | 
+
+Dec 23, 2020
+
+ |
+| 
+
+[babel.config.json](https://github.com/metabase/metabase/blob/master/babel.config.json "babel.config.json")
+
+
+
+
+
+
+
+ | 
+
+[babel.config.json](https://github.com/metabase/metabase/blob/master/babel.config.json "babel.config.json")
+
+
+
+
+
+
+
+ | 
+
+[Use createStyles API to style components in the app (](https://github.com/metabase/metabase/commit/f7104db0b78c23a84ae930470837f5fd9fde78c7 "Use createStyles API to style components in the app (#31426)")[#31426](https://github.com/metabase/metabase/pull/31426)[)](https://github.com/metabase/metabase/commit/f7104db0b78c23a84ae930470837f5fd9fde78c7 "Use createStyles API to style components in the app (#31426)")
+
+
+
+ | 
+
+Jun 8, 2023
+
+ |
+| 
+
+[codecov.yml](https://github.com/metabase/metabase/blob/master/codecov.yml "codecov.yml")
+
+
+
+
+
+
+
+ | 
+
+[codecov.yml](https://github.com/metabase/metabase/blob/master/codecov.yml "codecov.yml")
+
+
+
+
+
+
+
+ | 
+
+[Increase the Codecov frontend target (](https://github.com/metabase/metabase/commit/bf5df6cd2b3d58f99975aa4fe0477ad46dd40795 "Increase the Codecov frontend target (#44613)
+* Fix the comment
+* Update the threshold for the front-end")[#44613](https://github.com/metabase/metabase/pull/44613)[)](https://github.com/metabase/metabase/commit/bf5df6cd2b3d58f99975aa4fe0477ad46dd40795 "Increase the Codecov frontend target (#44613)
+* Fix the comment
+* Update the threshold for the front-end")
+
+
+
+ | 
+
+Jun 24, 2024
+
+ |
+| 
+
+[deps.edn](https://github.com/metabase/metabase/blob/master/deps.edn "deps.edn")
+
+
+
+
+
+
+
+ | 
+
+[deps.edn](https://github.com/metabase/metabase/blob/master/deps.edn "deps.edn")
+
+
+
+
+
+
+
+ | 
+
+[Keep](https://github.com/metabase/metabase/commit/6dd40b824198f917c0e839aed9a4836d44adb9f6 "Keep `deps.edn` deps sorted (#52256)") ``[deps.edn](https://github.com/metabase/metabase/commit/6dd40b824198f917c0e839aed9a4836d44adb9f6 "Keep `deps.edn` deps sorted (#52256)")`` [deps sorted (](https://github.com/metabase/metabase/commit/6dd40b824198f917c0e839aed9a4836d44adb9f6 "Keep `deps.edn` deps sorted (#52256)")[#52256](https://github.com/metabase/metabase/pull/52256)[)](https://github.com/metabase/metabase/commit/6dd40b824198f917c0e839aed9a4836d44adb9f6 "Keep `deps.edn` deps sorted (#52256)")
+
+
+
+ | 
+
+Jan 16, 2025
+
+ |
+| 
+
+[jest.config.js](https://github.com/metabase/metabase/blob/master/jest.config.js "jest.config.js")
+
+
+
+
+
+
+
+ | 
+
+[jest.config.js](https://github.com/metabase/metabase/blob/master/jest.config.js "jest.config.js")
+
+
+
+
+
+
+
+ | 
+
+[tests(jest): add ES module is-absolute-url to the transform ignore (](https://github.com/metabase/metabase/commit/084384db11a93bbf149c7e6e71f8f6666dc6d11c "tests(jest): add ES module is-absolute-url to the transform ignore (#51438)")[#…](https://github.com/metabase/metabase/pull/51438)
+
+
+
+ | 
+
+Dec 18, 2024
+
+ |
+| 
+
+[jest.tz.unit.conf.json](https://github.com/metabase/metabase/blob/master/jest.tz.unit.conf.json "jest.tz.unit.conf.json")
+
+
+
+
+
+
+
+ | 
+
+[jest.tz.unit.conf.json](https://github.com/metabase/metabase/blob/master/jest.tz.unit.conf.json "jest.tz.unit.conf.json")
+
+
+
+
+
+
+
+ | 
+
+[fix(sdk): upgrade D3.js to the latest version for Vite compatibility (](https://github.com/metabase/metabase/commit/87914fd870f8e054aa1905a9c87a7142b2c667dc "fix(sdk): upgrade D3.js to the latest version for Vite compatibility (#44562)")[#…](https://github.com/metabase/metabase/pull/44562)
+
+
+
+ | 
+
+Jun 26, 2024
+
+ |
+| 
+
+[loki.config.js](https://github.com/metabase/metabase/blob/master/loki.config.js "loki.config.js")
+
+
+
+
+
+
+
+ | 
+
+[loki.config.js](https://github.com/metabase/metabase/blob/master/loki.config.js "loki.config.js")
+
+
+
+
+
+
+
+ | 
+
+[Fix error button hover color (](https://github.com/metabase/metabase/commit/fbf0e7a3ad35fdd78fc56554fa6600c1157f4fe5 "Fix error button hover color (#52373)")[#52373](https://github.com/metabase/metabase/pull/52373)[)](https://github.com/metabase/metabase/commit/fbf0e7a3ad35fdd78fc56554fa6600c1157f4fe5 "Fix error button hover color (#52373)")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[package.json](https://github.com/metabase/metabase/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/metabase/metabase/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Instant e2e test updates (](https://github.com/metabase/metabase/commit/0b880331dd713d3adf8049cd94f2931bdb9c039d "Instant e2e test updates (#51605)")[#51605](https://github.com/metabase/metabase/pull/51605)[)](https://github.com/metabase/metabase/commit/0b880331dd713d3adf8049cd94f2931bdb9c039d "Instant e2e test updates (#51605)")
+
+
+
+ | 
+
+Jan 17, 2025
+
+ |
+| 
+
+[postcss.config.js](https://github.com/metabase/metabase/blob/master/postcss.config.js "postcss.config.js")
+
+
+
+
+
+
+
+ | 
+
+[postcss.config.js](https://github.com/metabase/metabase/blob/master/postcss.config.js "postcss.config.js")
+
+
+
+
+
+
+
+ | 
+
+[Replace postcss-nesting with postcss-nested (](https://github.com/metabase/metabase/commit/54a356a60a88fef71e5046a4f88c5fb3d099808d "Replace postcss-nesting with postcss-nested (#50437)
+* Add postcss-nested
+* Use postcss-nested over postcss-nesting")[#50437](https://github.com/metabase/metabase/pull/50437)[)](https://github.com/metabase/metabase/commit/54a356a60a88fef71e5046a4f88c5fb3d099808d "Replace postcss-nesting with postcss-nested (#50437)
+* Add postcss-nested
+* Use postcss-nested over postcss-nesting")
+
+
+
+ | 
+
+Nov 25, 2024
+
+ |
+| 
+
+[rspack.config.js](https://github.com/metabase/metabase/blob/master/rspack.config.js "rspack.config.js")
+
+
+
+
+
+
+
+ | 
+
+[rspack.config.js](https://github.com/metabase/metabase/blob/master/rspack.config.js "rspack.config.js")
+
+
+
+
+
+
+
+ | 
+
+[Remove CLJS\_SRC\_PATH\_DEV from ignored watch dirs (](https://github.com/metabase/metabase/commit/0857356df9e515fa3488e3c049458d4b0cf2097a "Remove CLJS_SRC_PATH_DEV from ignored watch dirs (#48063)")[#48063](https://github.com/metabase/metabase/pull/48063)[)](https://github.com/metabase/metabase/commit/0857356df9e515fa3488e3c049458d4b0cf2097a "Remove CLJS_SRC_PATH_DEV from ignored watch dirs (#48063)")
+
+
+
+ | 
+
+Sep 25, 2024
+
+ |
+| 
+
+[shadow-cljs.edn](https://github.com/metabase/metabase/blob/master/shadow-cljs.edn "shadow-cljs.edn")
+
+
+
+
+
+
+
+ | 
+
+[shadow-cljs.edn](https://github.com/metabase/metabase/blob/master/shadow-cljs.edn "shadow-cljs.edn")
+
+
+
+
+
+
+
+ | 
+
+[\[refs\] Generate idents for new clauses in MBQL lib (](https://github.com/metabase/metabase/commit/6f1d9cbdd3985d4c8a1cf37341116d0fe661e9f5 "[refs] Generate idents for new clauses in MBQL lib (#50083)
+Specifically, for expressions, aggregations, breakouts, and joins.
+Adds MBQL lib unit tests for this behaviour.
+Currently these idents are discarded during `lib.convert` and don't
+survive a round trip to legacy. That will come with a later change.")[#50083](https://github.com/metabase/metabase/pull/50083)[)](https://github.com/metabase/metabase/commit/6f1d9cbdd3985d4c8a1cf37341116d0fe661e9f5 "[refs] Generate idents for new clauses in MBQL lib (#50083)
+Specifically, for expressions, aggregations, breakouts, and joins.
+Adds MBQL lib unit tests for this behaviour.
+Currently these idents are discarded during `lib.convert` and don't
+survive a round trip to legacy. That will come with a later change.")
+
+
+
+ | 
+
+Nov 29, 2024
+
+ |
+| 
+
+[tsconfig.base.json](https://github.com/metabase/metabase/blob/master/tsconfig.base.json "tsconfig.base.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.base.json](https://github.com/metabase/metabase/blob/master/tsconfig.base.json "tsconfig.base.json")
+
+
+
+
+
+
+
+ | 
+
+[Replace deprecated option from typescript v5 with eslint rule (](https://github.com/metabase/metabase/commit/8f399a1b3ea43fd68e1262519c21e9c8b3fa0186 "Replace deprecated option from typescript v5 with eslint rule (#43767)")[#43767](https://github.com/metabase/metabase/pull/43767)[)](https://github.com/metabase/metabase/commit/8f399a1b3ea43fd68e1262519c21e9c8b3fa0186 "Replace deprecated option from typescript v5 with eslint rule (#43767)")
+
+
+
+ | 
+
+Jun 10, 2024
+
+ |
+| 
+
+[tsconfig.json](https://github.com/metabase/metabase/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/metabase/metabase/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[Enable ClojureScript REPL and hot reloading of CLJS code (](https://github.com/metabase/metabase/commit/8e298158a4a8ad5bb47f07da4ba3cbedc3a47a5c "Enable ClojureScript REPL and hot reloading of CLJS code (#34007)
+This also moves the CLJS output out of `frontend/src/cljs{,_release}` to
+`target/cljs_{dev,release}`. If that causes problems for FE tooling I
+don't know about, it could be moved back.
+Hot reloading:
+CLJS changes are hot-reloaded into the running app by Shadow CLJS - no
+action is needed. Note that the UI will not refresh; you usually have to
+click around so the updated MLv2 code gets executed.
+Usage of the CLJS REPL:
+- Open the browser (you should see `shadow-cljs: #N ready!` in console)
+- Connect to nrepl on 50655
+- \"Select\" the `:app` build;
+- https://shadow-cljs.github.io/docs/UsersGuide.html#_editor_integration
+- Conjure: `:ConjureShadowSelect app`
+- Plain REPL: Eval in CLJ mode `(shadow/repl :app)`
+- Consider running `yarn build-hot:cljs` and `yarn build-hot:js` in
+separate terminals; then when `yarn build-hot:js` crashes you don't
+have to reconnect your REPL.
+- The REPL works beautifully, even loading files outside the :entries
+of the shadow-cljs build like tests!
+\"Stale\" error in browser:
+- This can happen if the webpack bundle is created before the CLJS is
+done building.
+- If you ran `yarn build-hot:cljs` and `:js` separately, let `:cljs`
+finish compiling first.
+- If you see this otherwise: (a) contact Braden so it can be fixed; and
+(b) either restart `build-hot:js` or force webpack to rebuild by
+hitting http://localhost:8080/webpack-dev-server/invalidate
+Yarn commands:
+`dev`, `dev-ee`, `build-hot`, and `build-static-viz:watch` all now wait
+for the CLJS build to be complete by watching for files to be generated.
+They should work the same from a user's POV.
+(Since the webpack build no longer watches the CLJS output,
+it won't notice the changes and immediately rebuild after the first
+build. This avoids errors on the clean build, or \"stale build\" messages
+in the app from Shadow CLJS.)
+Fixes #32674.")[#34007](https://github.com/metabase/metabase/pull/34007)[)](https://github.com/metabase/metabase/commit/8e298158a4a8ad5bb47f07da4ba3cbedc3a47a5c "Enable ClojureScript REPL and hot reloading of CLJS code (#34007)
+This also moves the CLJS output out of `frontend/src/cljs{,_release}` to
+`target/cljs_{dev,release}`. If that causes problems for FE tooling I
+don't know about, it could be moved back.
+Hot reloading:
+CLJS changes are hot-reloaded into the running app by Shadow CLJS - no
+action is needed. Note that the UI will not refresh; you usually have to
+click around so the updated MLv2 code gets executed.
+Usage of the CLJS REPL:
+- Open the browser (you should see `shadow-cljs: #N ready!` in console)
+- Connect to nrepl on 50655
+- \"Select\" the `:app` build;
+- https://shadow-cljs.github.io/docs/UsersGuide.html#_editor_integration
+- Conjure: `:ConjureShadowSelect app`
+- Plain REPL: Eval in CLJ mode `(shadow/repl :app)`
+- Consider running `yarn build-hot:cljs` and `yarn build-hot:js` in
+separate terminals; then when `yarn build-hot:js` crashes you don't
+have to reconnect your REPL.
+- The REPL works beautifully, even loading files outside the :entries
+of the shadow-cljs build like tests!
+\"Stale\" error in browser:
+- This can happen if the webpack bundle is created before the CLJS is
+done building.
+- If you ran `yarn build-hot:cljs` and `:js` separately, let `:cljs`
+finish compiling first.
+- If you see this otherwise: (a) contact Braden so it can be fixed; and
+(b) either restart `build-hot:js` or force webpack to rebuild by
+hitting http://localhost:8080/webpack-dev-server/invalidate
+Yarn commands:
+`dev`, `dev-ee`, `build-hot`, and `build-static-viz:watch` all now wait
+for the CLJS build to be complete by watching for files to be generated.
+They should work the same from a user's POV.
+(Since the webpack build no longer watches the CLJS output,
+it won't notice the changes and immediately rebuild after the first
+build. This avoids errors on the clean build, or \"stale build\" messages
+in the app from Shadow CLJS.)
+Fixes #32674.")
+
+
+
+ | 
+
+Oct 2, 2023
+
+ |
+| 
+
+[tsconfig.sdk.json](https://github.com/metabase/metabase/blob/master/tsconfig.sdk.json "tsconfig.sdk.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.sdk.json](https://github.com/metabase/metabase/blob/master/tsconfig.sdk.json "tsconfig.sdk.json")
+
+
+
+
+
+
+
+ | 
+
+[ci(sdk): Fix can't build SDK from master (](https://github.com/metabase/metabase/commit/f1e738fc34a635160633cf051589f5ae31b1816a "ci(sdk): Fix can't build SDK from master (#50319)
+* Prevent tests file from being imported when building SDK
+* Exclude more test files from SDK build")[#50319](https://github.com/metabase/metabase/pull/50319)[)](https://github.com/metabase/metabase/commit/f1e738fc34a635160633cf051589f5ae31b1816a "ci(sdk): Fix can't build SDK from master (#50319)
+* Prevent tests file from being imported when building SDK
+* Exclude more test files from SDK build")
+
+
+
+ | 
+
+Nov 21, 2024
+
+ |
+| 
+
+[webpack.config.js](https://github.com/metabase/metabase/blob/master/webpack.config.js "webpack.config.js")
+
+
+
+
+
+
+
+ | 
+
+[webpack.config.js](https://github.com/metabase/metabase/blob/master/webpack.config.js "webpack.config.js")
+
+
+
+
+
+
+
+ | 
+
+[dx: drop eslint-loader (](https://github.com/metabase/metabase/commit/9f6d99b5e0595d3433f758347b4aeffd4e344f30 "dx: drop eslint-loader (#46279)
+* cleanup webpack config
+* drop eslint-loader")[#46279](https://github.com/metabase/metabase/pull/46279)[)](https://github.com/metabase/metabase/commit/9f6d99b5e0595d3433f758347b4aeffd4e344f30 "dx: drop eslint-loader (#46279)
+* cleanup webpack config
+* drop eslint-loader")
+
+
+
+ | 
+
+Jul 31, 2024
+
+ |
+| 
+
+[webpack.embedding-sdk-cli.config.js](https://github.com/metabase/metabase/blob/master/webpack.embedding-sdk-cli.config.js "webpack.embedding-sdk-cli.config.js")
+
+
+
+
+
+
+
+ | 
+
+[webpack.embedding-sdk-cli.config.js](https://github.com/metabase/metabase/blob/master/webpack.embedding-sdk-cli.config.js "webpack.embedding-sdk-cli.config.js")
+
+
+
+
+
+
+
+ | 
+
+[feat(sdk): CLI to bootstrap an embedding-ready Metabase instance (](https://github.com/metabase/metabase/commit/4ce37a25167f93e8d0399745cfb931891ce6a606 "feat(sdk): CLI to bootstrap an embedding-ready Metabase instance (#46080)
+* add setup commands
+* fix settings definition
+* update environment variables for cli
+* handle instances not being ready
+* update error messages
+* add more specific loading messages
+* loading spinner state
+* improve error message
+* use a fixed demo setup token
+* remove extraneous spinner
+* update status checks
+* update container messages
+* update wait timing
+* create api keys
+* extract constants
+* remove manual steps
+* Add anonymous tracking + other things. will need to clean up
+* Modify SDK for better structure
+* remove line from print.ts
+* Update webpack.embedding-sdk-cli.config.js back to production
+* Add types and add quick note
+* Fix a typo
+* Add index file, simplify types, use an array
+* Add safer json parsing
+* use delay of 100ms between each setup call
+* Suggestions from review
+* ensure that cli works
+* Attempt to fix jest errors
+* Remove node-fetch from sdk code to hopefully get unit tests working again
+* fix yarn.lock file
+* revert capture groups change
+---------
+Co-authored-by: Oisin Coveney <oisin@metabase.com>")[#46080](https://github.com/metabase/metabase/pull/46080)
+
+
+
+ | 
+
+Aug 7, 2024
+
+ |
+| 
+
+[webpack.embedding-sdk.config.js](https://github.com/metabase/metabase/blob/master/webpack.embedding-sdk.config.js "webpack.embedding-sdk.config.js")
+
+
+
+
+
+
+
+ | 
+
+[webpack.embedding-sdk.config.js](https://github.com/metabase/metabase/blob/master/webpack.embedding-sdk.config.js "webpack.embedding-sdk.config.js")
+
+
+
+
+
+
+
+ | 
+
+[Fix module errors when Embedding SDK Cypress tests running in develop…](https://github.com/metabase/metabase/commit/9586bca50a232c33db2edeb52d8a3ea90b6d259a "Fix module errors when Embedding SDK Cypress tests running in development mode (#52093)")
+
+
+
+ | 
+
+Jan 14, 2025
+
+ |
+| 
+
+[webpack.shared.config.js](https://github.com/metabase/metabase/blob/master/webpack.shared.config.js "webpack.shared.config.js")
+
+
+
+
+
+
+
+ | 
+
+[webpack.shared.config.js](https://github.com/metabase/metabase/blob/master/webpack.shared.config.js "webpack.shared.config.js")
+
+
+
+
+
+
+
+ | 
+
+[update and minimize fe shared bundle (](https://github.com/metabase/metabase/commit/5e9b52a32dfeab754d218c758d08fffbacb7c0e7 "update and minimize fe shared bundle (#28333)")[#28333](https://github.com/metabase/metabase/pull/28333)[)](https://github.com/metabase/metabase/commit/5e9b52a32dfeab754d218c758d08fffbacb7c0e7 "update and minimize fe shared bundle (#28333)")
+
+
+
+ | 
+
+Mar 1, 2023
+
+ |
+| 
+
+[webpack.static-viz.config.js](https://github.com/metabase/metabase/blob/master/webpack.static-viz.config.js "webpack.static-viz.config.js")
+
+
+
+
+
+
+
+ | 
+
+[webpack.static-viz.config.js](https://github.com/metabase/metabase/blob/master/webpack.static-viz.config.js "webpack.static-viz.config.js")
+
+
+
+
+
+
+
+ | 
+
+[isomorphic viz settings computation (](https://github.com/metabase/metabase/commit/c6b0b2b722201f4b77587ccd93c808bee739afff "isomorphic viz settings computation (#47963)
+* isomorphic viz settings computation
+* stories
+* drop duplicated static formatter
+* drop formatValue from the renderingContext
+* clean up
+* stories
+* fix static charts stories
+* clean up mocked env
+* update sunburst formatters
+* no longer injecting formatValue
+* exclude modules without name
+* Update Loki Snapshots
+* Update Loki Snapshots
+---------
+Co-authored-by: Metabase Automation <github-automation@metabase.com>")[#47963](https://github.com/metabase/metabase/pull/47963)[)](https://github.com/metabase/metabase/commit/c6b0b2b722201f4b77587ccd93c808bee739afff "isomorphic viz settings computation (#47963)
+* isomorphic viz settings computation
+* stories
+* drop duplicated static formatter
+* drop formatValue from the renderingContext
+* clean up
+* stories
+* fix static charts stories
+* clean up mocked env
+* update sunburst formatters
+* no longer injecting formatValue
+* exclude modules without name
+* Update Loki Snapshots
+* Update Loki Snapshots
+---------
+Co-authored-by: Metabase Automation <github-automation@metabase.com>")
+
+
+
+ | 
+
+Oct 8, 2024
+
+ |
+| 
+
+[yarn.lock](https://github.com/metabase/metabase/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/metabase/metabase/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[Balance e2e specs by runtime (](https://github.com/metabase/metabase/commit/0c6f3eb867f74bae3be99e8e9c7004803edd92ad "Balance e2e specs by runtime (#52118)
+* split e2e tests by timings
+* dont do a volkswagen")[#52118](https://github.com/metabase/metabase/pull/52118)[)](https://github.com/metabase/metabase/commit/0c6f3eb867f74bae3be99e8e9c7004803edd92ad "Balance e2e specs by runtime (#52118)
+* split e2e tests by timings
+* dont do a volkswagen")
+
+
+
+ | 
+
+Jan 17, 2025
+
+ |
+| 
+
+[zen.md](https://github.com/metabase/metabase/blob/master/zen.md "zen.md")
+
+
+
+
+
+
+
+ | 
+
+[zen.md](https://github.com/metabase/metabase/blob/master/zen.md "zen.md")
+
+
+
+
+
+
+
+ | 
+
+[actual content](https://github.com/metabase/metabase/commit/0412b65747486667df28a6d4f9087794d9ea6c7f "actual content")
+
+
+
+ | 
+
+Mar 18, 2016
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/metabase/metabase?screenshot=true#)
+*   [License](https://github.com/metabase/metabase?screenshot=true#)
+*   [AGPL-3.0 license](https://github.com/metabase/metabase?screenshot=true#)
+*   [License](https://github.com/metabase/metabase?screenshot=true#)
+*   [License](https://github.com/metabase/metabase?screenshot=true#)
+*   [Security](https://github.com/metabase/metabase?screenshot=true#)
+
+Metabase
+========
+
+[](https://github.com/metabase/metabase?screenshot=true#metabase)
+
+[Metabase](https://www.metabase.com/) is the easy, open-source way for everyone in your company to ask questions and learn from data.
+
+[![Image 25: Metabase Product Screenshot](https://github.com/metabase/metabase/raw/master/docs/images/metabase-product-screenshot.svg)](https://github.com/metabase/metabase/blob/master/docs/images/metabase-product-screenshot.svg)
+
+[![Image 26: Latest Release](https://camo.githubusercontent.com/c27d432edeb0101c548cdc82821bae29e0b83ee957cbb0f9aee31886e529cb48/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f6d657461626173652f6d657461626173652e7376673f6c6162656c3d6c617465737425323072656c65617365)](https://github.com/metabase/metabase/releases) [![Image 27: codecov](https://camo.githubusercontent.com/4b844ae4869e05c02b90024d0b863061e255b2739085f58f71f9b83eab3d6964/68747470733a2f2f636f6465636f762e696f2f67682f6d657461626173652f6d657461626173652f6272616e63682f6d61737465722f67726170682f62616467652e737667)](https://codecov.io/gh/metabase/metabase) [![Image 28: Docker Pulls](https://camo.githubusercontent.com/df347e7bf989d737f56632c1317f90f67ae6eebb7f212068f2189d6a643c831a/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6d657461626173652f6d65746162617365)](https://camo.githubusercontent.com/df347e7bf989d737f56632c1317f90f67ae6eebb7f212068f2189d6a643c831a/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6d657461626173652f6d65746162617365)
+
+Get started
+-----------
+
+[](https://github.com/metabase/metabase?screenshot=true#get-started)
+
+The easiest way to get started with Metabase is to sign up for a free trial of [Metabase Cloud](https://store.metabase.com/checkout). You get support, backups, upgrades, an SMTP server, SSL certificate, SoC2 Type 2 security auditing, and more (plus your money goes toward improving Metabase). Check out our quick overview of [cloud vs self-hosting](https://www.metabase.com/docs/latest/cloud/cloud-vs-self-hosting). If you need to, you can always switch to [self-hosting](https://www.metabase.com/docs/latest/installation-and-operation/installing-metabase) Metabase at any time (or vice versa).
+
+Features
+--------
+
+[](https://github.com/metabase/metabase?screenshot=true#features)
+
+*   [Set up in five minutes](https://www.metabase.com/docs/latest/setting-up-metabase.html) (we're not kidding).
+*   Let anyone on your team [ask questions](https://www.metabase.com/docs/latest/users-guide/04-asking-questions.html) without knowing SQL.
+*   Use the [SQL editor](https://www.metabase.com/docs/latest/questions/native-editor/writing-sql) for more complex queries.
+*   Build handsome, interactive [dashboards](https://www.metabase.com/docs/latest/users-guide/07-dashboards.html) with filters, auto-refresh, fullscreen, and custom click behavior.
+*   Create [models](https://www.metabase.com/learn/metabase-basics/getting-started/models) that clean up, annotate, and/or combine raw tables.
+*   Define canonical [segments and metrics](https://www.metabase.com/docs/latest/administration-guide/07-segments-and-metrics.html) for your team to use.
+*   Send data to Slack or email on a schedule with [dashboard subscriptions](https://www.metabase.com/docs/latest/users-guide/dashboard-subscriptions).
+*   Set up [alerts](https://www.metabase.com/docs/latest/users-guide/15-alerts.html) to have Metabase notify you when your data changes.
+*   [Embed charts and dashboards](https://www.metabase.com/docs/latest/administration-guide/13-embedding.html) in your app, or even [your entire Metabase](https://www.metabase.com/docs/latest/enterprise-guide/full-app-embedding.html).
+
+Take a [tour of Metabase](https://www.metabase.com/learn/getting-started/tour-of-metabase).
+
+Supported databases
+-------------------
+
+[](https://github.com/metabase/metabase?screenshot=true#supported-databases)
+
+*   [Officially supported databases](https://github.com/metabase/metabase/blob/master/docs/databases/connecting.md#connecting-to-supported-databases)
+*   [Partner and Community drivers](https://github.com/metabase/metabase/blob/master/docs/developers-guide/partner-and-community-drivers.md)
+
+Installation
+------------
+
+[](https://github.com/metabase/metabase?screenshot=true#installation)
+
+Metabase can be run just about anywhere. Check out our [Installation Guides](https://www.metabase.com/docs/latest/operations-guide/installing-metabase).
+
+Contributing
+------------
+
+[](https://github.com/metabase/metabase?screenshot=true#contributing)
+
+Quick Setup: Dev environment
+----------------------------
+
+[](https://github.com/metabase/metabase?screenshot=true#quick-setup-dev-environment)
+
+In order to spin up a development environment, you need to start the front end and the backend as follows:
+
+### Frontend quick setup
+
+[](https://github.com/metabase/metabase?screenshot=true#frontend-quick-setup)
+
+The following command will install the Javascript dependencies:
+
+```
+$ yarn install
+```
+
+To build and run without watching changes:
+
+```
+$ yarn build
+```
+
+To build and run with hot-reload:
+
+```
+$ yarn build-hot
+```
+
+### Backend quick setup
+
+[](https://github.com/metabase/metabase?screenshot=true#backend--quick-setup)
+
+In order to run the backend, you'll need to build the drivers first, and then start the backend:
+
+```
+$ ./bin/build-drivers.sh
+$ clojure -M:run
+```
+
+For a more detailed setup of a dev environment for Metabase, check out our [Developers Guide](https://github.com/metabase/metabase/blob/master/docs/developers-guide/start.md).
+
+Internationalization
+--------------------
+
+[](https://github.com/metabase/metabase?screenshot=true#internationalization)
+
+We want Metabase to be available in as many languages as possible. See which translations are available and help contribute to internationalization using our project over at [POEditor](https://poeditor.com/join/project/ynjQmwSsGh). You can also check out our [policies on translations](https://www.metabase.com/docs/latest/administration-guide/localization.html).
+
+Extending Metabase
+------------------
+
+[](https://github.com/metabase/metabase?screenshot=true#extending-metabase)
+
+Hit our Query API from Javascript to integrate analytics. Metabase enables your application to:
+
+*   Build moderation interfaces.
+*   Export subsets of your users to third party marketing automation software.
+*   Provide a custom customer lookup application for the people in your company.
+
+Check out our guide, [Working with the Metabase API](https://www.metabase.com/learn/administration/metabase-api).
+
+Security Disclosure
+-------------------
+
+[](https://github.com/metabase/metabase?screenshot=true#security-disclosure)
+
+See [SECURITY.md](https://github.com/metabase/metabase/blob/master/SECURITY.md) for details.
+
+License
+-------
+
+[](https://github.com/metabase/metabase?screenshot=true#license)
+
+This repository contains the source code for both the Open Source edition of Metabase, released under the AGPL, as well as the [commercial editions of Metabase](https://www.metabase.com/pricing), which are released under the Metabase Commercial Software License.
+
+See [LICENSE.txt](https://github.com/metabase/metabase/blob/master/LICENSE.txt) for details.
+
+Unless otherwise noted, all files © 2025 Metabase, Inc.
+
+[Metabase Experts](https://www.metabase.com/partners/)
+------------------------------------------------------
+
+[](https://github.com/metabase/metabase?screenshot=true#metabase-experts)
+
+If you’d like more technical resources to set up your data stack with Metabase, connect with a [Metabase Expert](https://www.metabase.com/partners/?utm_source=readme&utm_medium=metabase-expetrs&utm_campaign=readme).
+
+About
+-----
+
+The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+
+[metabase.com](https://metabase.com/ "https://metabase.com")
+
+### Topics
+
+[visualization](https://github.com/topics/visualization "Topic: visualization") [mysql](https://github.com/topics/mysql "Topic: mysql") [slack](https://github.com/topics/slack "Topic: slack") [postgres](https://github.com/topics/postgres "Topic: postgres") [data](https://github.com/topics/data "Topic: data") [clojure](https://github.com/topics/clojure "Topic: clojure") [bi](https://github.com/topics/bi "Topic: bi") [database](https://github.com/topics/database "Topic: database") [dashboard](https://github.com/topics/dashboard "Topic: dashboard") [analytics](https://github.com/topics/analytics "Topic: analytics") [reporting](https://github.com/topics/reporting "Topic: reporting") [businessintelligence](https://github.com/topics/businessintelligence "Topic: businessintelligence") [postgresql](https://github.com/topics/postgresql "Topic: postgresql") [data-visualization](https://github.com/topics/data-visualization "Topic: data-visualization") [metabase](https://github.com/topics/metabase "Topic: metabase") [business-intelligence](https://github.com/topics/business-intelligence "Topic: business-intelligence") [data-analysis](https://github.com/topics/data-analysis "Topic: data-analysis") [sql-editor](https://github.com/topics/sql-editor "Topic: sql-editor")
+
+### Resources
+
+[Readme](https://github.com/metabase/metabase?screenshot=true#readme-ov-file)
+
+### License
+
+Unknown and 3 other licenses found
+
+### Licenses found
+
+[Unknown LICENSE.txt](https://github.com/metabase/metabase/blob/master/LICENSE.txt)[AGPL-3.0 LICENSE-AGPL.txt](https://github.com/metabase/metabase/blob/master/LICENSE-AGPL.txt)[Unknown LICENSE-EMBEDDING.txt](https://github.com/metabase/metabase/blob/master/LICENSE-EMBEDDING.txt)[Unknown LICENSE-MCL.txt](https://github.com/metabase/metabase/blob/master/LICENSE-MCL.txt)
+
+### Security policy
+
+[Security policy](https://github.com/metabase/metabase?screenshot=true#security-ov-file)
+
+[Activity](https://github.com/metabase/metabase/activity)
+
+[Custom properties](https://github.com/metabase/metabase/custom-properties)
+
+### Stars
+
+[**39.7k** stars](https://github.com/metabase/metabase/stargazers)
+
+### Watchers
+
+[**645** watching](https://github.com/metabase/metabase/watchers)
+
+### Forks
+
+[**5.3k** forks](https://github.com/metabase/metabase/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmetabase%2Fmetabase&report=metabase+%28user%29)
+
+[Releases 608](https://github.com/metabase/metabase/releases)
+-------------------------------------------------------------
+
+[Metabase 52.6 Latest Jan 15, 2025](https://github.com/metabase/metabase/releases/tag/v0.52.6)
+
+[\+ 607 releases](https://github.com/metabase/metabase/releases)
+
+[Contributors 430](https://github.com/metabase/metabase/graphs/contributors)
+----------------------------------------------------------------------------
+
+*   [![Image 29: @camsaul](https://avatars.githubusercontent.com/u/1455846?s=64&v=4)](https://github.com/camsaul)
+*   [![Image 30: @tlrobinson](https://avatars.githubusercontent.com/u/18193?s=64&v=4)](https://github.com/tlrobinson)
+*   [![Image 31: @agilliland](https://avatars.githubusercontent.com/u/1987787?s=64&v=4)](https://github.com/agilliland)
+*   [![Image 32: @nemanjaglumac](https://avatars.githubusercontent.com/u/31325167?s=64&v=4)](https://github.com/nemanjaglumac)
+*   [![Image 33: @kdoh](https://avatars.githubusercontent.com/u/5248953?s=64&v=4)](https://github.com/kdoh)
+*   [![Image 34: @ranquild](https://avatars.githubusercontent.com/u/8542534?s=64&v=4)](https://github.com/ranquild)
+*   [![Image 35: @sbelak](https://avatars.githubusercontent.com/u/178038?s=64&v=4)](https://github.com/sbelak)
+*   [![Image 36: @salsakran](https://avatars.githubusercontent.com/u/107439?s=64&v=4)](https://github.com/salsakran)
+*   [![Image 37: @attekei](https://avatars.githubusercontent.com/u/6034928?s=64&v=4)](https://github.com/attekei)
+*   [![Image 38: @kulyk](https://avatars.githubusercontent.com/u/17258145?s=64&v=4)](https://github.com/kulyk)
+*   [![Image 39: @mazameli](https://avatars.githubusercontent.com/u/2223916?s=64&v=4)](https://github.com/mazameli)
+*   [![Image 40: @jeff-bruemmer](https://avatars.githubusercontent.com/u/17343328?s=64&v=4)](https://github.com/jeff-bruemmer)
+*   [![Image 41: @alxnddr](https://avatars.githubusercontent.com/u/14301985?s=64&v=4)](https://github.com/alxnddr)
+*   [![Image 42: @iethree](https://avatars.githubusercontent.com/u/30528226?s=64&v=4)](https://github.com/iethree)
+
+[\+ 416 contributors](https://github.com/metabase/metabase/graphs/contributors)
+
+Languages
+---------
+
+*   [Clojure 50.0%](https://github.com/metabase/metabase/search?l=clojure)
+*   [TypeScript 33.7%](https://github.com/metabase/metabase/search?l=typescript)
+*   [JavaScript 15.6%](https://github.com/metabase/metabase/search?l=javascript)
+*   [CSS 0.4%](https://github.com/metabase/metabase/search?l=css)
+*   [MDX 0.1%](https://github.com/metabase/metabase/search?l=mdx)
+*   [Handlebars 0.1%](https://github.com/metabase/metabase/search?l=handlebars)
+*   Other 0.1%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

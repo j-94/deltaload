@@ -1,0 +1,414 @@
+---
+title: Search your tabs, bookmarks and history in the Chrome address bar
+description: We now have three site search shortcuts directly built into the Chrome address bar, starting with @tabs, @bookmarks and @history.
+url: https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/
+timestamp: 2025-01-20T15:51:08.006Z
+domain: blog.google
+path: products_chrome_search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar
+---
+
+# Search your tabs, bookmarks and history in the Chrome address bar
+
+
+We now have three site search shortcuts directly built into the Chrome address bar, starting with @tabs, @bookmarks and @history.
+
+
+## Content
+
+Search your tabs, bookmarks and history in the Chrome address bar
+===============
+
+ 
+
+\[{"model": "blogsurvey.survey", "pk": 5, "fields": {"name": "Sentiment Change - All Articles - Nov 2024", "survey\_id": "sentiment-change-all-articles-nov-2024\_241031", "scroll\_depth\_trigger": 75, "previous\_survey": null, "display\_rate": 50, "thank\_message": "Thank you!", "thank\_emoji": "✅", "questions": "\[{\\"id\\": \\"c32a4772-5575-4985-814a-afd8d15d5d6d\\", \\"type\\": \\"simple\_question\\", \\"value\\": {\\"question\\": \\"After reading this article, how has your perception of Google changed?\\", \\"responses\\": \[{\\"id\\": \\"cb111cda-60ba-4ac5-8260-17c5326e485b\\", \\"type\\": \\"item\\", \\"value\\": \\"Gotten better\\"}, {\\"id\\": \\"d8864abb-689a-4b52-b021-449af0b0a7c6\\", \\"type\\": \\"item\\", \\"value\\": \\"Gotten worse\\"}, {\\"id\\": \\"f169d98d-1731-4efc-be90-3cd379a2a63e\\", \\"type\\": \\"item\\", \\"value\\": \\"Stayed the same\\"}, {\\"id\\": \\"701d8c63-affe-4f44-85f0-71538a310d65\\", \\"type\\": \\"item\\", \\"value\\": \\"Don't know\\"}\]}}\]", "target\_article\_pages": true}}\]
+
+[Skip to main content](https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/#jump-content)
+
+[The Keyword](https://blog.google/)
+
+Search your tabs, bookmarks and history in the Chrome address bar
+
+Share
+
+[Twitter](https://twitter.com/intent/tweet?text=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%20%40google&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[Facebook](https://www.facebook.com/sharer/sharer.php?caption=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&u=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/&title=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar)[Mail](mailto:?subject=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&body=CheckoutthisarticleontheKeyword:%0A%0ASearch%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%0A%0AWenowhavethreesitesearchshortcutsdirectlybuiltintotheChromeaddressbar,startingwith@tabs,@bookmarksand@history.%0A%0Ahttps://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)
+
+Copy link
+
+*   [Home](https://blog.google/)
+*   Product news
+    
+    Product news
+    
+    *   Android, Chrome & Play
+        
+        *   [Android](https://blog.google/products/android/)
+        *   [Chrome](https://blog.google/products/chrome/)
+        *   [Chromebooks](https://blog.google/products/chromebooks/)
+        *   [Google Play](https://blog.google/products/google-play/)
+        *   [Wear OS](https://blog.google/products/wear-os/)
+        *   [See all](https://blog.google/products/android-chrome-play/)
+    *   Platforms & Devices
+        
+        *   [Fitbit](https://blog.google/products/fitbit/)
+        *   [Google Nest](https://blog.google/products/google-nest/)
+        *   [Pixel](https://blog.google/products/pixel/)
+        *   [See all](https://blog.google/products/platforms-devices/)
+    *   Explore & Get Answers
+        
+        *   [Gemini](https://blog.google/products/gemini/)
+        *   [Maps](https://blog.google/products/maps/)
+        *   [News](https://blog.google/products/news/)
+        *   [Search](https://blog.google/products/search/)
+        *   [Shopping](https://blog.google/products/shopping/)
+        *   [See all](https://blog.google/products/explore-get-answers/)
+    *   Connect & Communicate
+        
+        *   [Classroom](https://blog.google/products/classroom/)
+        *   [Photos](https://blog.google/products/photos/)
+        *   [Registry](https://blog.google/products/registry/)
+        *   [Translate](https://blog.google/products/translate/)
+    *   In the Cloud
+        
+        *   [Google Workspace](https://blog.google/products/workspace/)
+        *   [More on the Cloud Blog](https://cloud.google.com/blog/)
+        *   [Google Cloud](https://blog.google/products/google-cloud/)
+        *   [See all](https://blog.google/products/cloud/)
+    
+    [See all product updates](https://blog.google/products/)
+    
+    *   Android, Chrome & Play
+        
+        *   [Android](https://blog.google/products/android/)
+        *   [Chrome](https://blog.google/products/chrome/)
+        *   [Chromebooks](https://blog.google/products/chromebooks/)
+        *   [Google Play](https://blog.google/products/google-play/)
+        *   [Wear OS](https://blog.google/products/wear-os/)
+        
+        [See all](https://blog.google/products/android-chrome-play/ "See all Android, Chrome & Play articles")
+    *   Platforms & Devices
+        
+        *   [Fitbit](https://blog.google/products/fitbit/)
+        *   [Google Nest](https://blog.google/products/google-nest/)
+        *   [Pixel](https://blog.google/products/pixel/)
+        
+        [See all](https://blog.google/products/platforms-devices/ "See all Platforms & Devices articles")
+    *   Explore & Get Answers
+        
+        *   [Gemini](https://blog.google/products/gemini/)
+        *   [Maps](https://blog.google/products/maps/)
+        *   [News](https://blog.google/products/news/)
+        *   [Search](https://blog.google/products/search/)
+        *   [Shopping](https://blog.google/products/shopping/)
+        
+        [See all](https://blog.google/products/explore-get-answers/ "See all Explore & Get Answers articles")
+    *   Connect & Communicate
+        *   [Classroom](https://blog.google/products/classroom/)
+        *   [Photos](https://blog.google/products/photos/)
+        *   [Registry](https://blog.google/products/registry/)
+        *   [Translate](https://blog.google/products/translate/)
+    *   In the Cloud
+        
+        *   [Google Workspace](https://blog.google/products/workspace/)
+        *   [More on the Cloud Blog](https://cloud.google.com/blog/)
+        *   [Google Cloud](https://blog.google/products/google-cloud/)
+        
+        [See all](https://blog.google/products/cloud/ "See all In the Cloud articles")
+    
+    [See all product updates](https://blog.google/products/)
+    
+*   Company news
+    
+    Company news
+    
+    *   Outreach & initiatives
+        
+        *   [Arts & Culture](https://blog.google/outreach-initiatives/arts-culture/)
+        *   [Education](https://blog.google/outreach-initiatives/education/)
+        *   [Entrepreneurs](https://blog.google/outreach-initiatives/entrepreneurs/)
+        *   [Public Policy](https://blog.google/outreach-initiatives/public-policy/)
+        *   [Sustainability](https://blog.google/outreach-initiatives/sustainability/)
+        *   [See all](https://blog.google/outreach-initiatives/)
+    *   Technology
+        
+        *   [AI](https://blog.google/technology/ai/)
+        *   [Developers](https://blog.google/technology/developers/)
+        *   [Health](https://blog.google/technology/health/)
+        *   [Google DeepMind](https://blog.google/technology/google-deepmind/)
+        *   [Google Labs](https://blog.google/technology/google-labs/)
+        *   [Safety and security](https://blog.google/technology/safety-security/)
+        *   [See all](https://blog.google/technology/)
+    *   Inside Google
+        
+        *   [Data centers and infrastructure](https://blog.google/inside-google/infrastructure/)
+        *   [Doodles](https://blog.google/inside-google/doodles/)
+        *   [Googlers](https://blog.google/inside-google/googlers/)
+        *   [Life at Google](https://blog.google/inside-google/life-at-google/)
+        *   [See all](https://blog.google/inside-google/)
+    *   Around the globe
+        
+        *   [Google in Asia](https://blog.google/around-the-globe/google-asia/)
+        *   [Google in Europe](https://blog.google/around-the-globe/google-europe/)
+        *   [Google in Latin America](https://blog.google/around-the-globe/google-latin-america/)
+        *   [See all](https://blog.google/around-the-globe/)
+    *   Authors
+        
+        *   [Sundar Pichai, CEO](https://blog.google/authors/sundar-pichai/)
+        *   [Ruth Porat, President & Chief Investment Officer](https://blog.google/authors/ruth-porat/)
+        *   [Kent Walker, SVP](https://blog.google/authors/kent-walker/)
+        *   [James Manyika, SVP](https://blog.google/authors/james-manyika/)
+        *   [See all](https://blog.google/authors/)
+    
+    *   Outreach & initiatives
+        
+        *   [Arts & Culture](https://blog.google/outreach-initiatives/arts-culture/)
+        *   [Education](https://blog.google/outreach-initiatives/education/)
+        *   [Entrepreneurs](https://blog.google/outreach-initiatives/entrepreneurs/)
+        *   [Public Policy](https://blog.google/outreach-initiatives/public-policy/)
+        *   [Sustainability](https://blog.google/outreach-initiatives/sustainability/)
+        
+        [See all](https://blog.google/outreach-initiatives/ "See all Outreach & initiatives articles")
+    *   Technology
+        
+        *   [AI](https://blog.google/technology/ai/)
+        *   [Developers](https://blog.google/technology/developers/)
+        *   [Health](https://blog.google/technology/health/)
+        *   [Google DeepMind](https://blog.google/technology/google-deepmind/)
+        *   [Google Labs](https://blog.google/technology/google-labs/)
+        *   [Safety and security](https://blog.google/technology/safety-security/)
+        
+        [See all](https://blog.google/technology/ "See all Technology articles")
+    *   Inside Google
+        
+        *   [Data centers and infrastructure](https://blog.google/inside-google/infrastructure/)
+        *   [Doodles](https://blog.google/inside-google/doodles/)
+        *   [Googlers](https://blog.google/inside-google/googlers/)
+        *   [Life at Google](https://blog.google/inside-google/life-at-google/)
+        
+        [See all](https://blog.google/inside-google/ "See all Inside Google articles")
+    *   Around the globe
+        
+        *   [Google in Asia](https://blog.google/around-the-globe/google-asia/)
+        *   [Google in Europe](https://blog.google/around-the-globe/google-europe/)
+        *   [Google in Latin America](https://blog.google/around-the-globe/google-latin-america/)
+        
+        [See all](https://blog.google/around-the-globe/ "See all Around the globe articles")
+    *   Authors
+        
+        *   [Sundar Pichai, CEO](https://blog.google/authors/sundar-pichai/)
+        *   [Ruth Porat, President & Chief Investment Officer](https://blog.google/authors/ruth-porat/)
+        *   [Kent Walker, SVP](https://blog.google/authors/kent-walker/)
+        *   [James Manyika, SVP](https://blog.google/authors/james-manyika/)
+        
+        [See all](https://blog.google/authors/ "See all Authors articles")
+    
+*   [Feed](https://blog.google/feed)
+
+[Subscribe](https://blog.google/newsletter-subscribe/)
+
+[Subscribe](https://blog.google/newsletter-subscribe/)
+
+[The Keyword](https://blog.google/)
+
+*   [Home](https://blog.google/)
+*   Product news
+    
+    Product news
+    
+    *   Android, Chrome & Play
+        
+        *   [Android](https://blog.google/products/android/)
+        *   [Chrome](https://blog.google/products/chrome/)
+        *   [Chromebooks](https://blog.google/products/chromebooks/)
+        *   [Google Play](https://blog.google/products/google-play/)
+        *   [Wear OS](https://blog.google/products/wear-os/)
+        *   [See all](https://blog.google/products/android-chrome-play/)
+    *   Platforms & Devices
+        
+        *   [Fitbit](https://blog.google/products/fitbit/)
+        *   [Google Nest](https://blog.google/products/google-nest/)
+        *   [Pixel](https://blog.google/products/pixel/)
+        *   [See all](https://blog.google/products/platforms-devices/)
+    *   Explore & Get Answers
+        
+        *   [Gemini](https://blog.google/products/gemini/)
+        *   [Maps](https://blog.google/products/maps/)
+        *   [News](https://blog.google/products/news/)
+        *   [Search](https://blog.google/products/search/)
+        *   [Shopping](https://blog.google/products/shopping/)
+        *   [See all](https://blog.google/products/explore-get-answers/)
+    *   Connect & Communicate
+        
+        *   [Classroom](https://blog.google/products/classroom/)
+        *   [Photos](https://blog.google/products/photos/)
+        *   [Registry](https://blog.google/products/registry/)
+        *   [Translate](https://blog.google/products/translate/)
+    *   In the Cloud
+        
+        *   [Google Workspace](https://blog.google/products/workspace/)
+        *   [More on the Cloud Blog](https://cloud.google.com/blog/)
+        *   [Google Cloud](https://blog.google/products/google-cloud/)
+        *   [See all](https://blog.google/products/cloud/)
+    
+    [See all product updates](https://blog.google/products/)
+    
+*   Company news
+    
+    Company news
+    
+    *   Outreach & initiatives
+        
+        *   [Arts & Culture](https://blog.google/outreach-initiatives/arts-culture/)
+        *   [Education](https://blog.google/outreach-initiatives/education/)
+        *   [Entrepreneurs](https://blog.google/outreach-initiatives/entrepreneurs/)
+        *   [Public Policy](https://blog.google/outreach-initiatives/public-policy/)
+        *   [Sustainability](https://blog.google/outreach-initiatives/sustainability/)
+        *   [See all](https://blog.google/outreach-initiatives/)
+    *   Technology
+        
+        *   [AI](https://blog.google/technology/ai/)
+        *   [Developers](https://blog.google/technology/developers/)
+        *   [Health](https://blog.google/technology/health/)
+        *   [Google DeepMind](https://blog.google/technology/google-deepmind/)
+        *   [Google Labs](https://blog.google/technology/google-labs/)
+        *   [Safety and security](https://blog.google/technology/safety-security/)
+        *   [See all](https://blog.google/technology/)
+    *   Inside Google
+        
+        *   [Data centers and infrastructure](https://blog.google/inside-google/infrastructure/)
+        *   [Doodles](https://blog.google/inside-google/doodles/)
+        *   [Googlers](https://blog.google/inside-google/googlers/)
+        *   [Life at Google](https://blog.google/inside-google/life-at-google/)
+        *   [See all](https://blog.google/inside-google/)
+    *   Around the globe
+        
+        *   [Google in Asia](https://blog.google/around-the-globe/google-asia/)
+        *   [Google in Europe](https://blog.google/around-the-globe/google-europe/)
+        *   [Google in Latin America](https://blog.google/around-the-globe/google-latin-america/)
+        *   [See all](https://blog.google/around-the-globe/)
+    *   Authors
+        
+        *   [Sundar Pichai, CEO](https://blog.google/authors/sundar-pichai/)
+        *   [Ruth Porat, President & Chief Investment Officer](https://blog.google/authors/ruth-porat/)
+        *   [Kent Walker, SVP](https://blog.google/authors/kent-walker/)
+        *   [James Manyika, SVP](https://blog.google/authors/james-manyika/)
+        *   [See all](https://blog.google/authors/)
+    
+*   [Feed](https://blog.google/feed)
+
+*   [Press corner](https://blog.google/press// "Press corner")
+*   [RSS feed](https://blog.google/rss/ "RSS feed")
+
+[Subscribe](https://blog.google/newsletter-subscribe/)
+
+Breadcrumb
+
+1.  [](https://blog.google/ "The Keyword")
+2.  [Products](https://blog.google/products/)
+3.  [Google Chrome](https://blog.google/products/chrome/)
+
+Search your tabs, bookmarks and history in the Chrome address bar
+=================================================================
+
+Dec 06, 2022
+
+·\[\[read-time\]\] min read
+
+Share
+
+[Twitter](https://twitter.com/intent/tweet?text=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%20%40google&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[Facebook](https://www.facebook.com/sharer/sharer.php?caption=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&u=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/&title=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar)[Mail](mailto:?subject=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&body=CheckoutthisarticleontheKeyword:%0A%0ASearch%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%0A%0AWenowhavethreesitesearchshortcutsdirectlybuiltintotheChromeaddressbar,startingwith@tabs,@bookmarksand@history.%0A%0Ahttps://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)
+
+Copy link
+
+  ![Image 10: Nick Sexton headshot](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nick_Sexton_headshot.max-244x184.format-webp.webp)
+
+Nick Kim Sexton
+
+Product Manager, Chrome
+
+Share
+
+[Twitter](https://twitter.com/intent/tweet?text=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%20%40google&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[Facebook](https://www.facebook.com/sharer/sharer.php?caption=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&u=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/&title=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar)[Mail](mailto:?subject=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&body=CheckoutthisarticleontheKeyword:%0A%0ASearch%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%0A%0AWenowhavethreesitesearchshortcutsdirectlybuiltintotheChromeaddressbar,startingwith@tabs,@bookmarksand@history.%0A%0Ahttps://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)
+
+Copy link
+
+![Image 11: Image of the Chrome address bar with the “@” symbol connected to three magnifying glasses that represent Chrome Bookmarks, History and Tabs.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SiteSearch_Header.width-1200.format-webp.webp)
+
+Sometimes, finding the tab or bookmark you’re looking for in Chrome can be tough. Good news: The Chrome address bar on desktop just got an upgrade that can help. Now you can directly search through your Chrome tabs, bookmarks and history right from the address bar.
+
+### Use @tabs, @bookmarks and @history shortcuts
+
+We now have three site search shortcuts directly built into the Chrome address bar, starting with @tabs, @bookmarks and @history.
+
+@Tabs comes in handy when you have an explosion of tabs. Try it out by typing in “@tabs” in the address bar, pressing the “search tabs” button and then typing the title to see matching suggestions. Personally, I’m most guilty of having too many tabs when planning travel — like for the upcoming holidays. @Tabs can sift through heaps of tabs about flights, hotels, activities and rental cars to find the right tab. Combined with [tab groups](https://blog.google/products/chrome/manage-tabs-with-google-chrome/), @tabs makes getting things done easier.
+
+If you already bookmarked a hotel months ago and now want to check its availability, the @bookmarks shortcut can help. Using @bookmarks helps you find the bookmark you’re looking for among all your folders of bookmarks, right from the address bar.
+
+Sometimes while searching, you may need to revisit an old website for hiking trails on your trip that you forgot to bookmark and that is proving hard to find again. That’s not a problem, thanks to @history. This shortcut lets you quickly search through your browsing history right from the address bar, to help you get back to the page you’re seeking.
+
+In the address bar, type @tabs, enter the title of the tab, and you’ll see a suggestion for it directly in the address bar.
+
+Looking for a Bookmark? Type in @bookmarks, enter the bookmark name, and you’ll see the matching suggestions in the dropdown.
+
+Searching for something from your history that’s proving hard to find? Type in @history, enter some characters, and you’ll get a preview of your Chrome browsing history in the address bar.
+
+### Save time with custom site search shortcuts
+
+Do you have favorite sites that you search through often, like YouTube or Google Drive? You can also activate your own [custom site search shortcuts](https://support.google.com/chrome/answer/95426?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Add%2C%20edit%2C%20or%20remove%20site%20search%20shortcuts) to search through them directly from the Chrome address bar on your desktop. Go to “Manage search engines and site search” (chrome://settings/searchEngines) in Chrome settings on desktop and activate them. You can get there quickly using [Chrome Actions](https://blog.google/products/chrome/finding-answers-gets-better-chrome/), by typing in “customize site search,” too.
+
+POSTED IN:
+
+*   [Chrome](https://blog.google/products/chrome/)
+
+### 
+
+Related stories
+
+*     [![Image 12: Ink_2024-Wrap-Up_2096x1182](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ink_2024-Wrap-Up_2096x1182.max-1200x416.format-webp.webp) AI #### 60 of our biggest AI announcements in 2024 By Keyword Team Dec 23, 2024](https://blog.google/technology/ai/google-ai-news-recap-2024/)
+*     [![Image 13: Keyword_Autofill_Header_V2](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Autofill_Header_V2.max-1200x416.format-webp.webp) Chrome #### How Chrome's Autofill can drive more conversions at checkout By Lokesh Khurana Dec 20, 2024](https://blog.google/products/chrome/chrome-autofill/)
+*     [![Image 14: Chrome Web Store - Best of 24_Blog Header_V5_1](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Web_Store_-_Best_of_24_.max-1200x416.format-webp.webp) Chrome #### Our favorite Chrome extensions of 2024 By Jamie Anderson Dec 10, 2024](https://blog.google/products/chrome/our-favorite-chrome-extensions-of-2024/)
+*     [![Image 15: 004-YIR-EDU _ Product _ YIR Vision Video Thumbnail-Shantanu01](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/004-YIR-EDU____Product___YIR_V.max-1200x416.format-webp.webp) Learning & Education #### 6 ways we supported learning and education in 2024 By Shantanu Sinha Dec 04, 2024](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2024/)
+*     [![Image 16: Chrome_iOS_Hero](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_iOS_Hero.max-1200x416.format-webp.webp) Chrome #### 4 new Chrome improvements for iOS By Katia Muradyan Nov 12, 2024](https://blog.google/products/chrome/chrome-ios-updates-november-2024/)
+*     [![Image 17: Chrome_Performance Header_V2-03](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Performance_Header_V2-0.max-1200x416.format-webp.webp) Chrome #### Boost your browsing with Chrome's new performance controls By Kayce Hawkins Oct 29, 2024](https://blog.google/products/chrome/google-chrome-performance-controls-october-2024/)
+*   .
+
+     
+
+![Image 18](https://blog.google/static/blogv2/images/newsletter_toast.svg?version=pr20250108-1745)
+
+Let’s stay in touch. Get the latest news from Google in your inbox.
+
+[Subscribe](https://blog.google/newsletter-subscribe/) No thanks
+
+Follow Us
+
+*   [](https://www.instagram.com/google/)
+*   [](https://twitter.com/google)
+*   [](https://www.youtube.com/google)
+*   [](https://www.facebook.com/Google)
+*   [](https://www.linkedin.com/company/google)
+
+[](https://www.google.com/ "Google")
+
+*   [Privacy](https://policies.google.com/privacy)
+*   [Terms](https://policies.google.com/terms)
+*   [About Google](https://about.google/)
+*   [Google Products](https://about.google/products/)
+*   [About the Keyword](https://blog.google/about/)
+
+*   [Help](https://support.google.com/)
+*
+
+## Metadata
+
+```json
+{
+  "title": "Search your tabs, bookmarks and history in the Chrome address bar",
+  "description": "We now have three site search shortcuts directly built into the Chrome address bar, starting with @tabs, @bookmarks and @history.",
+  "url": "https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/",
+  "content": "Search your tabs, bookmarks and history in the Chrome address bar\n===============\n\n \n\n\\[{\"model\": \"blogsurvey.survey\", \"pk\": 5, \"fields\": {\"name\": \"Sentiment Change - All Articles - Nov 2024\", \"survey\\_id\": \"sentiment-change-all-articles-nov-2024\\_241031\", \"scroll\\_depth\\_trigger\": 75, \"previous\\_survey\": null, \"display\\_rate\": 50, \"thank\\_message\": \"Thank you!\", \"thank\\_emoji\": \"✅\", \"questions\": \"\\[{\\\\\"id\\\\\": \\\\\"c32a4772-5575-4985-814a-afd8d15d5d6d\\\\\", \\\\\"type\\\\\": \\\\\"simple\\_question\\\\\", \\\\\"value\\\\\": {\\\\\"question\\\\\": \\\\\"After reading this article, how has your perception of Google changed?\\\\\", \\\\\"responses\\\\\": \\[{\\\\\"id\\\\\": \\\\\"cb111cda-60ba-4ac5-8260-17c5326e485b\\\\\", \\\\\"type\\\\\": \\\\\"item\\\\\", \\\\\"value\\\\\": \\\\\"Gotten better\\\\\"}, {\\\\\"id\\\\\": \\\\\"d8864abb-689a-4b52-b021-449af0b0a7c6\\\\\", \\\\\"type\\\\\": \\\\\"item\\\\\", \\\\\"value\\\\\": \\\\\"Gotten worse\\\\\"}, {\\\\\"id\\\\\": \\\\\"f169d98d-1731-4efc-be90-3cd379a2a63e\\\\\", \\\\\"type\\\\\": \\\\\"item\\\\\", \\\\\"value\\\\\": \\\\\"Stayed the same\\\\\"}, {\\\\\"id\\\\\": \\\\\"701d8c63-affe-4f44-85f0-71538a310d65\\\\\", \\\\\"type\\\\\": \\\\\"item\\\\\", \\\\\"value\\\\\": \\\\\"Don't know\\\\\"}\\]}}\\]\", \"target\\_article\\_pages\": true}}\\]\n\n[Skip to main content](https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/#jump-content)\n\n[The Keyword](https://blog.google/)\n\nSearch your tabs, bookmarks and history in the Chrome address bar\n\nShare\n\n[Twitter](https://twitter.com/intent/tweet?text=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%20%40google&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[Facebook](https://www.facebook.com/sharer/sharer.php?caption=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&u=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/&title=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar)[Mail](mailto:?subject=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&body=CheckoutthisarticleontheKeyword:%0A%0ASearch%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%0A%0AWenowhavethreesitesearchshortcutsdirectlybuiltintotheChromeaddressbar,startingwith@tabs,@bookmarksand@history.%0A%0Ahttps://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)\n\nCopy link\n\n*   [Home](https://blog.google/)\n*   Product news\n    \n    Product news\n    \n    *   Android, Chrome & Play\n        \n        *   [Android](https://blog.google/products/android/)\n        *   [Chrome](https://blog.google/products/chrome/)\n        *   [Chromebooks](https://blog.google/products/chromebooks/)\n        *   [Google Play](https://blog.google/products/google-play/)\n        *   [Wear OS](https://blog.google/products/wear-os/)\n        *   [See all](https://blog.google/products/android-chrome-play/)\n    *   Platforms & Devices\n        \n        *   [Fitbit](https://blog.google/products/fitbit/)\n        *   [Google Nest](https://blog.google/products/google-nest/)\n        *   [Pixel](https://blog.google/products/pixel/)\n        *   [See all](https://blog.google/products/platforms-devices/)\n    *   Explore & Get Answers\n        \n        *   [Gemini](https://blog.google/products/gemini/)\n        *   [Maps](https://blog.google/products/maps/)\n        *   [News](https://blog.google/products/news/)\n        *   [Search](https://blog.google/products/search/)\n        *   [Shopping](https://blog.google/products/shopping/)\n        *   [See all](https://blog.google/products/explore-get-answers/)\n    *   Connect & Communicate\n        \n        *   [Classroom](https://blog.google/products/classroom/)\n        *   [Photos](https://blog.google/products/photos/)\n        *   [Registry](https://blog.google/products/registry/)\n        *   [Translate](https://blog.google/products/translate/)\n    *   In the Cloud\n        \n        *   [Google Workspace](https://blog.google/products/workspace/)\n        *   [More on the Cloud Blog](https://cloud.google.com/blog/)\n        *   [Google Cloud](https://blog.google/products/google-cloud/)\n        *   [See all](https://blog.google/products/cloud/)\n    \n    [See all product updates](https://blog.google/products/)\n    \n    *   Android, Chrome & Play\n        \n        *   [Android](https://blog.google/products/android/)\n        *   [Chrome](https://blog.google/products/chrome/)\n        *   [Chromebooks](https://blog.google/products/chromebooks/)\n        *   [Google Play](https://blog.google/products/google-play/)\n        *   [Wear OS](https://blog.google/products/wear-os/)\n        \n        [See all](https://blog.google/products/android-chrome-play/ \"See all Android, Chrome & Play articles\")\n    *   Platforms & Devices\n        \n        *   [Fitbit](https://blog.google/products/fitbit/)\n        *   [Google Nest](https://blog.google/products/google-nest/)\n        *   [Pixel](https://blog.google/products/pixel/)\n        \n        [See all](https://blog.google/products/platforms-devices/ \"See all Platforms & Devices articles\")\n    *   Explore & Get Answers\n        \n        *   [Gemini](https://blog.google/products/gemini/)\n        *   [Maps](https://blog.google/products/maps/)\n        *   [News](https://blog.google/products/news/)\n        *   [Search](https://blog.google/products/search/)\n        *   [Shopping](https://blog.google/products/shopping/)\n        \n        [See all](https://blog.google/products/explore-get-answers/ \"See all Explore & Get Answers articles\")\n    *   Connect & Communicate\n        *   [Classroom](https://blog.google/products/classroom/)\n        *   [Photos](https://blog.google/products/photos/)\n        *   [Registry](https://blog.google/products/registry/)\n        *   [Translate](https://blog.google/products/translate/)\n    *   In the Cloud\n        \n        *   [Google Workspace](https://blog.google/products/workspace/)\n        *   [More on the Cloud Blog](https://cloud.google.com/blog/)\n        *   [Google Cloud](https://blog.google/products/google-cloud/)\n        \n        [See all](https://blog.google/products/cloud/ \"See all In the Cloud articles\")\n    \n    [See all product updates](https://blog.google/products/)\n    \n*   Company news\n    \n    Company news\n    \n    *   Outreach & initiatives\n        \n        *   [Arts & Culture](https://blog.google/outreach-initiatives/arts-culture/)\n        *   [Education](https://blog.google/outreach-initiatives/education/)\n        *   [Entrepreneurs](https://blog.google/outreach-initiatives/entrepreneurs/)\n        *   [Public Policy](https://blog.google/outreach-initiatives/public-policy/)\n        *   [Sustainability](https://blog.google/outreach-initiatives/sustainability/)\n        *   [See all](https://blog.google/outreach-initiatives/)\n    *   Technology\n        \n        *   [AI](https://blog.google/technology/ai/)\n        *   [Developers](https://blog.google/technology/developers/)\n        *   [Health](https://blog.google/technology/health/)\n        *   [Google DeepMind](https://blog.google/technology/google-deepmind/)\n        *   [Google Labs](https://blog.google/technology/google-labs/)\n        *   [Safety and security](https://blog.google/technology/safety-security/)\n        *   [See all](https://blog.google/technology/)\n    *   Inside Google\n        \n        *   [Data centers and infrastructure](https://blog.google/inside-google/infrastructure/)\n        *   [Doodles](https://blog.google/inside-google/doodles/)\n        *   [Googlers](https://blog.google/inside-google/googlers/)\n        *   [Life at Google](https://blog.google/inside-google/life-at-google/)\n        *   [See all](https://blog.google/inside-google/)\n    *   Around the globe\n        \n        *   [Google in Asia](https://blog.google/around-the-globe/google-asia/)\n        *   [Google in Europe](https://blog.google/around-the-globe/google-europe/)\n        *   [Google in Latin America](https://blog.google/around-the-globe/google-latin-america/)\n        *   [See all](https://blog.google/around-the-globe/)\n    *   Authors\n        \n        *   [Sundar Pichai, CEO](https://blog.google/authors/sundar-pichai/)\n        *   [Ruth Porat, President & Chief Investment Officer](https://blog.google/authors/ruth-porat/)\n        *   [Kent Walker, SVP](https://blog.google/authors/kent-walker/)\n        *   [James Manyika, SVP](https://blog.google/authors/james-manyika/)\n        *   [See all](https://blog.google/authors/)\n    \n    *   Outreach & initiatives\n        \n        *   [Arts & Culture](https://blog.google/outreach-initiatives/arts-culture/)\n        *   [Education](https://blog.google/outreach-initiatives/education/)\n        *   [Entrepreneurs](https://blog.google/outreach-initiatives/entrepreneurs/)\n        *   [Public Policy](https://blog.google/outreach-initiatives/public-policy/)\n        *   [Sustainability](https://blog.google/outreach-initiatives/sustainability/)\n        \n        [See all](https://blog.google/outreach-initiatives/ \"See all Outreach & initiatives articles\")\n    *   Technology\n        \n        *   [AI](https://blog.google/technology/ai/)\n        *   [Developers](https://blog.google/technology/developers/)\n        *   [Health](https://blog.google/technology/health/)\n        *   [Google DeepMind](https://blog.google/technology/google-deepmind/)\n        *   [Google Labs](https://blog.google/technology/google-labs/)\n        *   [Safety and security](https://blog.google/technology/safety-security/)\n        \n        [See all](https://blog.google/technology/ \"See all Technology articles\")\n    *   Inside Google\n        \n        *   [Data centers and infrastructure](https://blog.google/inside-google/infrastructure/)\n        *   [Doodles](https://blog.google/inside-google/doodles/)\n        *   [Googlers](https://blog.google/inside-google/googlers/)\n        *   [Life at Google](https://blog.google/inside-google/life-at-google/)\n        \n        [See all](https://blog.google/inside-google/ \"See all Inside Google articles\")\n    *   Around the globe\n        \n        *   [Google in Asia](https://blog.google/around-the-globe/google-asia/)\n        *   [Google in Europe](https://blog.google/around-the-globe/google-europe/)\n        *   [Google in Latin America](https://blog.google/around-the-globe/google-latin-america/)\n        \n        [See all](https://blog.google/around-the-globe/ \"See all Around the globe articles\")\n    *   Authors\n        \n        *   [Sundar Pichai, CEO](https://blog.google/authors/sundar-pichai/)\n        *   [Ruth Porat, President & Chief Investment Officer](https://blog.google/authors/ruth-porat/)\n        *   [Kent Walker, SVP](https://blog.google/authors/kent-walker/)\n        *   [James Manyika, SVP](https://blog.google/authors/james-manyika/)\n        \n        [See all](https://blog.google/authors/ \"See all Authors articles\")\n    \n*   [Feed](https://blog.google/feed)\n\n[Subscribe](https://blog.google/newsletter-subscribe/)\n\n[Subscribe](https://blog.google/newsletter-subscribe/)\n\n[The Keyword](https://blog.google/)\n\n*   [Home](https://blog.google/)\n*   Product news\n    \n    Product news\n    \n    *   Android, Chrome & Play\n        \n        *   [Android](https://blog.google/products/android/)\n        *   [Chrome](https://blog.google/products/chrome/)\n        *   [Chromebooks](https://blog.google/products/chromebooks/)\n        *   [Google Play](https://blog.google/products/google-play/)\n        *   [Wear OS](https://blog.google/products/wear-os/)\n        *   [See all](https://blog.google/products/android-chrome-play/)\n    *   Platforms & Devices\n        \n        *   [Fitbit](https://blog.google/products/fitbit/)\n        *   [Google Nest](https://blog.google/products/google-nest/)\n        *   [Pixel](https://blog.google/products/pixel/)\n        *   [See all](https://blog.google/products/platforms-devices/)\n    *   Explore & Get Answers\n        \n        *   [Gemini](https://blog.google/products/gemini/)\n        *   [Maps](https://blog.google/products/maps/)\n        *   [News](https://blog.google/products/news/)\n        *   [Search](https://blog.google/products/search/)\n        *   [Shopping](https://blog.google/products/shopping/)\n        *   [See all](https://blog.google/products/explore-get-answers/)\n    *   Connect & Communicate\n        \n        *   [Classroom](https://blog.google/products/classroom/)\n        *   [Photos](https://blog.google/products/photos/)\n        *   [Registry](https://blog.google/products/registry/)\n        *   [Translate](https://blog.google/products/translate/)\n    *   In the Cloud\n        \n        *   [Google Workspace](https://blog.google/products/workspace/)\n        *   [More on the Cloud Blog](https://cloud.google.com/blog/)\n        *   [Google Cloud](https://blog.google/products/google-cloud/)\n        *   [See all](https://blog.google/products/cloud/)\n    \n    [See all product updates](https://blog.google/products/)\n    \n*   Company news\n    \n    Company news\n    \n    *   Outreach & initiatives\n        \n        *   [Arts & Culture](https://blog.google/outreach-initiatives/arts-culture/)\n        *   [Education](https://blog.google/outreach-initiatives/education/)\n        *   [Entrepreneurs](https://blog.google/outreach-initiatives/entrepreneurs/)\n        *   [Public Policy](https://blog.google/outreach-initiatives/public-policy/)\n        *   [Sustainability](https://blog.google/outreach-initiatives/sustainability/)\n        *   [See all](https://blog.google/outreach-initiatives/)\n    *   Technology\n        \n        *   [AI](https://blog.google/technology/ai/)\n        *   [Developers](https://blog.google/technology/developers/)\n        *   [Health](https://blog.google/technology/health/)\n        *   [Google DeepMind](https://blog.google/technology/google-deepmind/)\n        *   [Google Labs](https://blog.google/technology/google-labs/)\n        *   [Safety and security](https://blog.google/technology/safety-security/)\n        *   [See all](https://blog.google/technology/)\n    *   Inside Google\n        \n        *   [Data centers and infrastructure](https://blog.google/inside-google/infrastructure/)\n        *   [Doodles](https://blog.google/inside-google/doodles/)\n        *   [Googlers](https://blog.google/inside-google/googlers/)\n        *   [Life at Google](https://blog.google/inside-google/life-at-google/)\n        *   [See all](https://blog.google/inside-google/)\n    *   Around the globe\n        \n        *   [Google in Asia](https://blog.google/around-the-globe/google-asia/)\n        *   [Google in Europe](https://blog.google/around-the-globe/google-europe/)\n        *   [Google in Latin America](https://blog.google/around-the-globe/google-latin-america/)\n        *   [See all](https://blog.google/around-the-globe/)\n    *   Authors\n        \n        *   [Sundar Pichai, CEO](https://blog.google/authors/sundar-pichai/)\n        *   [Ruth Porat, President & Chief Investment Officer](https://blog.google/authors/ruth-porat/)\n        *   [Kent Walker, SVP](https://blog.google/authors/kent-walker/)\n        *   [James Manyika, SVP](https://blog.google/authors/james-manyika/)\n        *   [See all](https://blog.google/authors/)\n    \n*   [Feed](https://blog.google/feed)\n\n*   [Press corner](https://blog.google/press// \"Press corner\")\n*   [RSS feed](https://blog.google/rss/ \"RSS feed\")\n\n[Subscribe](https://blog.google/newsletter-subscribe/)\n\nBreadcrumb\n\n1.  [](https://blog.google/ \"The Keyword\")\n2.  [Products](https://blog.google/products/)\n3.  [Google Chrome](https://blog.google/products/chrome/)\n\nSearch your tabs, bookmarks and history in the Chrome address bar\n=================================================================\n\nDec 06, 2022\n\n·\\[\\[read-time\\]\\] min read\n\nShare\n\n[Twitter](https://twitter.com/intent/tweet?text=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%20%40google&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[Facebook](https://www.facebook.com/sharer/sharer.php?caption=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&u=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/&title=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar)[Mail](mailto:?subject=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&body=CheckoutthisarticleontheKeyword:%0A%0ASearch%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%0A%0AWenowhavethreesitesearchshortcutsdirectlybuiltintotheChromeaddressbar,startingwith@tabs,@bookmarksand@history.%0A%0Ahttps://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)\n\nCopy link\n\n  ![Image 10: Nick Sexton headshot](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nick_Sexton_headshot.max-244x184.format-webp.webp)\n\nNick Kim Sexton\n\nProduct Manager, Chrome\n\nShare\n\n[Twitter](https://twitter.com/intent/tweet?text=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%20%40google&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[Facebook](https://www.facebook.com/sharer/sharer.php?caption=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&u=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/&title=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar)[Mail](mailto:?subject=Search%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar&body=CheckoutthisarticleontheKeyword:%0A%0ASearch%20your%20tabs%2C%20bookmarks%20and%20history%20in%20the%20Chrome%20address%20bar%0A%0AWenowhavethreesitesearchshortcutsdirectlybuiltintotheChromeaddressbar,startingwith@tabs,@bookmarksand@history.%0A%0Ahttps://blog.google/products/chrome/search-your-tabs-bookmarks-and-history-in-the-chrome-address-bar/)\n\nCopy link\n\n![Image 11: Image of the Chrome address bar with the “@” symbol connected to three magnifying glasses that represent Chrome Bookmarks, History and Tabs.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SiteSearch_Header.width-1200.format-webp.webp)\n\nSometimes, finding the tab or bookmark you’re looking for in Chrome can be tough. Good news: The Chrome address bar on desktop just got an upgrade that can help. Now you can directly search through your Chrome tabs, bookmarks and history right from the address bar.\n\n### Use @tabs, @bookmarks and @history shortcuts\n\nWe now have three site search shortcuts directly built into the Chrome address bar, starting with @tabs, @bookmarks and @history.\n\n@Tabs comes in handy when you have an explosion of tabs. Try it out by typing in “@tabs” in the address bar, pressing the “search tabs” button and then typing the title to see matching suggestions. Personally, I’m most guilty of having too many tabs when planning travel — like for the upcoming holidays. @Tabs can sift through heaps of tabs about flights, hotels, activities and rental cars to find the right tab. Combined with [tab groups](https://blog.google/products/chrome/manage-tabs-with-google-chrome/), @tabs makes getting things done easier.\n\nIf you already bookmarked a hotel months ago and now want to check its availability, the @bookmarks shortcut can help. Using @bookmarks helps you find the bookmark you’re looking for among all your folders of bookmarks, right from the address bar.\n\nSometimes while searching, you may need to revisit an old website for hiking trails on your trip that you forgot to bookmark and that is proving hard to find again. That’s not a problem, thanks to @history. This shortcut lets you quickly search through your browsing history right from the address bar, to help you get back to the page you’re seeking.\n\nIn the address bar, type @tabs, enter the title of the tab, and you’ll see a suggestion for it directly in the address bar.\n\nLooking for a Bookmark? Type in @bookmarks, enter the bookmark name, and you’ll see the matching suggestions in the dropdown.\n\nSearching for something from your history that’s proving hard to find? Type in @history, enter some characters, and you’ll get a preview of your Chrome browsing history in the address bar.\n\n### Save time with custom site search shortcuts\n\nDo you have favorite sites that you search through often, like YouTube or Google Drive? You can also activate your own [custom site search shortcuts](https://support.google.com/chrome/answer/95426?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Add%2C%20edit%2C%20or%20remove%20site%20search%20shortcuts) to search through them directly from the Chrome address bar on your desktop. Go to “Manage search engines and site search” (chrome://settings/searchEngines) in Chrome settings on desktop and activate them. You can get there quickly using [Chrome Actions](https://blog.google/products/chrome/finding-answers-gets-better-chrome/), by typing in “customize site search,” too.\n\nPOSTED IN:\n\n*   [Chrome](https://blog.google/products/chrome/)\n\n### \n\nRelated stories\n\n*     [![Image 12: Ink_2024-Wrap-Up_2096x1182](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ink_2024-Wrap-Up_2096x1182.max-1200x416.format-webp.webp) AI #### 60 of our biggest AI announcements in 2024 By Keyword Team Dec 23, 2024](https://blog.google/technology/ai/google-ai-news-recap-2024/)\n*     [![Image 13: Keyword_Autofill_Header_V2](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Autofill_Header_V2.max-1200x416.format-webp.webp) Chrome #### How Chrome's Autofill can drive more conversions at checkout By Lokesh Khurana Dec 20, 2024](https://blog.google/products/chrome/chrome-autofill/)\n*     [![Image 14: Chrome Web Store - Best of 24_Blog Header_V5_1](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Web_Store_-_Best_of_24_.max-1200x416.format-webp.webp) Chrome #### Our favorite Chrome extensions of 2024 By Jamie Anderson Dec 10, 2024](https://blog.google/products/chrome/our-favorite-chrome-extensions-of-2024/)\n*     [![Image 15: 004-YIR-EDU _ Product _ YIR Vision Video Thumbnail-Shantanu01](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/004-YIR-EDU____Product___YIR_V.max-1200x416.format-webp.webp) Learning & Education #### 6 ways we supported learning and education in 2024 By Shantanu Sinha Dec 04, 2024](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2024/)\n*     [![Image 16: Chrome_iOS_Hero](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_iOS_Hero.max-1200x416.format-webp.webp) Chrome #### 4 new Chrome improvements for iOS By Katia Muradyan Nov 12, 2024](https://blog.google/products/chrome/chrome-ios-updates-november-2024/)\n*     [![Image 17: Chrome_Performance Header_V2-03](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Performance_Header_V2-0.max-1200x416.format-webp.webp) Chrome #### Boost your browsing with Chrome's new performance controls By Kayce Hawkins Oct 29, 2024](https://blog.google/products/chrome/google-chrome-performance-controls-october-2024/)\n*   .\n\n     \n\n![Image 18](https://blog.google/static/blogv2/images/newsletter_toast.svg?version=pr20250108-1745)\n\nLet’s stay in touch. Get the latest news from Google in your inbox.\n\n[Subscribe](https://blog.google/newsletter-subscribe/) No thanks\n\nFollow Us\n\n*   [](https://www.instagram.com/google/)\n*   [](https://twitter.com/google)\n*   [](https://www.youtube.com/google)\n*   [](https://www.facebook.com/Google)\n*   [](https://www.linkedin.com/company/google)\n\n[](https://www.google.com/ \"Google\")\n\n*   [Privacy](https://policies.google.com/privacy)\n*   [Terms](https://policies.google.com/terms)\n*   [About Google](https://about.google/)\n*   [Google Products](https://about.google/products/)\n*   [About the Keyword](https://blog.google/about/)\n\n*   [Help](https://support.google.com/)\n*",
+  "publishedTime": "2022-12-06T18:00:00+00:00",
+  "usage": {
+    "tokens": 6360
+  }
+}
+```

@@ -1,0 +1,232 @@
+---
+title: 2. Unsupervised learning
+description: Gaussian mixture models- Gaussian Mixture, Variational Bayesian Gaussian Mixture., Manifold learning- Introduction, Isomap, Locally Linear Embedding, Modified Locally Linear Embedding, Hessian Eige...
+url: https://scikit-learn.org/stable/unsupervised_learning.html
+timestamp: 2025-01-20T16:00:54.397Z
+domain: scikit-learn.org
+path: stable_unsupervised_learning.html
+---
+
+# 2. Unsupervised learning
+
+
+Gaussian mixture models- Gaussian Mixture, Variational Bayesian Gaussian Mixture., Manifold learning- Introduction, Isomap, Locally Linear Embedding, Modified Locally Linear Embedding, Hessian Eige...
+
+
+## Content
+
+2\. Unsupervised learning — scikit-learn 1.6.1 documentation
+===============        
+
+[Skip to main content](https://scikit-learn.org/stable/unsupervised_learning.html#main-content)
+
+Back to top Ctrl+K
+
+ [![Image 3: scikit-learn homepage](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png) ![Image 4: scikit-learn homepage](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)](https://scikit-learn.org/stable/index.html)
+
+*   [Install](https://scikit-learn.org/stable/install.html)
+*   [User Guide](https://scikit-learn.org/stable/user_guide.html)
+*   [API](https://scikit-learn.org/stable/api/index.html)
+*   [Examples](https://scikit-learn.org/stable/auto_examples/index.html)
+*   [Community](https://blog.scikit-learn.org/)
+*   More
+    *   [Getting Started](https://scikit-learn.org/stable/getting_started.html)
+    *   [Release History](https://scikit-learn.org/stable/whats_new.html)
+    *   [Glossary](https://scikit-learn.org/stable/glossary.html)
+    *   [Development](https://scikit-learn.org/dev/developers/index.html)
+    *   [FAQ](https://scikit-learn.org/stable/faq.html)
+    *   [Support](https://scikit-learn.org/stable/support.html)
+    *   [Related Projects](https://scikit-learn.org/stable/related_projects.html)
+    *   [Roadmap](https://scikit-learn.org/stable/roadmap.html)
+    *   [Governance](https://scikit-learn.org/stable/governance.html)
+    *   [About us](https://scikit-learn.org/stable/about.html)
+
+*   [GitHub](https://github.com/scikit-learn/scikit-learn "GitHub")
+
+Choose version
+
+*   [Install](https://scikit-learn.org/stable/install.html)
+*   [User Guide](https://scikit-learn.org/stable/user_guide.html)
+*   [API](https://scikit-learn.org/stable/api/index.html)
+*   [Examples](https://scikit-learn.org/stable/auto_examples/index.html)
+*   [Community](https://blog.scikit-learn.org/)
+*   [Getting Started](https://scikit-learn.org/stable/getting_started.html)
+*   [Release History](https://scikit-learn.org/stable/whats_new.html)
+*   [Glossary](https://scikit-learn.org/stable/glossary.html)
+*   [Development](https://scikit-learn.org/dev/developers/index.html)
+*   [FAQ](https://scikit-learn.org/stable/faq.html)
+*   [Support](https://scikit-learn.org/stable/support.html)
+*   [Related Projects](https://scikit-learn.org/stable/related_projects.html)
+*   [Roadmap](https://scikit-learn.org/stable/roadmap.html)
+*   [Governance](https://scikit-learn.org/stable/governance.html)
+*   [About us](https://scikit-learn.org/stable/about.html)
+
+*   [GitHub](https://github.com/scikit-learn/scikit-learn "GitHub")
+
+Choose version
+
+Section Navigation
+
+*   [1\. Supervised learning](https://scikit-learn.org/stable/supervised_learning.html)
+    
+    *   [1.1. Linear Models](https://scikit-learn.org/stable/modules/linear_model.html)
+    *   [1.2. Linear and Quadratic Discriminant Analysis](https://scikit-learn.org/stable/modules/lda_qda.html)
+    *   [1.3. Kernel ridge regression](https://scikit-learn.org/stable/modules/kernel_ridge.html)
+    *   [1.4. Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)
+    *   [1.5. Stochastic Gradient Descent](https://scikit-learn.org/stable/modules/sgd.html)
+    *   [1.6. Nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
+    *   [1.7. Gaussian Processes](https://scikit-learn.org/stable/modules/gaussian_process.html)
+    *   [1.8. Cross decomposition](https://scikit-learn.org/stable/modules/cross_decomposition.html)
+    *   [1.9. Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
+    *   [1.10. Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
+    *   [1.11. Ensembles: Gradient boosting, random forests, bagging, voting, stacking](https://scikit-learn.org/stable/modules/ensemble.html)
+    *   [1.12. Multiclass and multioutput algorithms](https://scikit-learn.org/stable/modules/multiclass.html)
+    *   [1.13. Feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
+    *   [1.14. Semi-supervised learning](https://scikit-learn.org/stable/modules/semi_supervised.html)
+    *   [1.15. Isotonic regression](https://scikit-learn.org/stable/modules/isotonic.html)
+    *   [1.16. Probability calibration](https://scikit-learn.org/stable/modules/calibration.html)
+    *   [1.17. Neural network models (supervised)](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)
+    
+*   [2\. Unsupervised learning](https://scikit-learn.org/stable/unsupervised_learning.html#)
+    
+    *   [2.1. Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html)
+    *   [2.2. Manifold learning](https://scikit-learn.org/stable/modules/manifold.html)
+    *   [2.3. Clustering](https://scikit-learn.org/stable/modules/clustering.html)
+    *   [2.4. Biclustering](https://scikit-learn.org/stable/modules/biclustering.html)
+    *   [2.5. Decomposing signals in components (matrix factorization problems)](https://scikit-learn.org/stable/modules/decomposition.html)
+    *   [2.6. Covariance estimation](https://scikit-learn.org/stable/modules/covariance.html)
+    *   [2.7. Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html)
+    *   [2.8. Density Estimation](https://scikit-learn.org/stable/modules/density.html)
+    *   [2.9. Neural network models (unsupervised)](https://scikit-learn.org/stable/modules/neural_networks_unsupervised.html)
+    
+*   [3\. Model selection and evaluation](https://scikit-learn.org/stable/model_selection.html)
+    
+    *   [3.1. Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html)
+    *   [3.2. Tuning the hyper-parameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html)
+    *   [3.3. Tuning the decision threshold for class prediction](https://scikit-learn.org/stable/modules/classification_threshold.html)
+    *   [3.4. Metrics and scoring: quantifying the quality of predictions](https://scikit-learn.org/stable/modules/model_evaluation.html)
+    *   [3.5. Validation curves: plotting scores to evaluate models](https://scikit-learn.org/stable/modules/learning_curve.html)
+    
+*   [4\. Inspection](https://scikit-learn.org/stable/inspection.html)
+    
+    *   [4.1. Partial Dependence and Individual Conditional Expectation plots](https://scikit-learn.org/stable/modules/partial_dependence.html)
+    *   [4.2. Permutation feature importance](https://scikit-learn.org/stable/modules/permutation_importance.html)
+    
+*   [5\. Visualizations](https://scikit-learn.org/stable/visualizations.html)
+*   [6\. Dataset transformations](https://scikit-learn.org/stable/data_transforms.html)
+    
+    *   [6.1. Pipelines and composite estimators](https://scikit-learn.org/stable/modules/compose.html)
+    *   [6.2. Feature extraction](https://scikit-learn.org/stable/modules/feature_extraction.html)
+    *   [6.3. Preprocessing data](https://scikit-learn.org/stable/modules/preprocessing.html)
+    *   [6.4. Imputation of missing values](https://scikit-learn.org/stable/modules/impute.html)
+    *   [6.5. Unsupervised dimensionality reduction](https://scikit-learn.org/stable/modules/unsupervised_reduction.html)
+    *   [6.6. Random Projection](https://scikit-learn.org/stable/modules/random_projection.html)
+    *   [6.7. Kernel Approximation](https://scikit-learn.org/stable/modules/kernel_approximation.html)
+    *   [6.8. Pairwise metrics, Affinities and Kernels](https://scikit-learn.org/stable/modules/metrics.html)
+    *   [6.9. Transforming the prediction target (`y`)](https://scikit-learn.org/stable/modules/preprocessing_targets.html)
+    
+*   [7\. Dataset loading utilities](https://scikit-learn.org/stable/datasets.html)
+    
+    *   [7.1. Toy datasets](https://scikit-learn.org/stable/datasets/toy_dataset.html)
+    *   [7.2. Real world datasets](https://scikit-learn.org/stable/datasets/real_world.html)
+    *   [7.3. Generated datasets](https://scikit-learn.org/stable/datasets/sample_generators.html)
+    *   [7.4. Loading other datasets](https://scikit-learn.org/stable/datasets/loading_other_datasets.html)
+    
+*   [8\. Computing with scikit-learn](https://scikit-learn.org/stable/computing.html)
+    
+    *   [8.1. Strategies to scale computationally: bigger data](https://scikit-learn.org/stable/computing/scaling_strategies.html)
+    *   [8.2. Computational Performance](https://scikit-learn.org/stable/computing/computational_performance.html)
+    *   [8.3. Parallelism, resource management, and configuration](https://scikit-learn.org/stable/computing/parallelism.html)
+    
+*   [9\. Model persistence](https://scikit-learn.org/stable/model_persistence.html)
+*   [10\. Common pitfalls and recommended practices](https://scikit-learn.org/stable/common_pitfalls.html)
+*   [11\. Dispatching](https://scikit-learn.org/stable/dispatching.html)
+    
+    *   [11.1. Array API support (experimental)](https://scikit-learn.org/stable/modules/array_api.html)
+    
+*   [12\. Choosing the right estimator](https://scikit-learn.org/stable/machine_learning_map.html)
+*   [13\. External Resources, Videos and Talks](https://scikit-learn.org/stable/presentations.html)
+
+*   [](https://scikit-learn.org/stable/index.html)
+*   [User Guide](https://scikit-learn.org/stable/user_guide.html)
+*   2\. Unsupervised learning
+
+2\. Unsupervised learning[#](https://scikit-learn.org/stable/unsupervised_learning.html#unsupervised-learning "Link to this heading")
+=====================================================================================================================================
+
+*   [2.1. Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html)
+    *   [2.1.1. Gaussian Mixture](https://scikit-learn.org/stable/modules/mixture.html#gaussian-mixture)
+    *   [2.1.2. Variational Bayesian Gaussian Mixture](https://scikit-learn.org/stable/modules/mixture.html#variational-bayesian-gaussian-mixture)
+*   [2.2. Manifold learning](https://scikit-learn.org/stable/modules/manifold.html)
+    *   [2.2.1. Introduction](https://scikit-learn.org/stable/modules/manifold.html#introduction)
+    *   [2.2.2. Isomap](https://scikit-learn.org/stable/modules/manifold.html#isomap)
+    *   [2.2.3. Locally Linear Embedding](https://scikit-learn.org/stable/modules/manifold.html#locally-linear-embedding)
+    *   [2.2.4. Modified Locally Linear Embedding](https://scikit-learn.org/stable/modules/manifold.html#modified-locally-linear-embedding)
+    *   [2.2.5. Hessian Eigenmapping](https://scikit-learn.org/stable/modules/manifold.html#hessian-eigenmapping)
+    *   [2.2.6. Spectral Embedding](https://scikit-learn.org/stable/modules/manifold.html#spectral-embedding)
+    *   [2.2.7. Local Tangent Space Alignment](https://scikit-learn.org/stable/modules/manifold.html#local-tangent-space-alignment)
+    *   [2.2.8. Multi-dimensional Scaling (MDS)](https://scikit-learn.org/stable/modules/manifold.html#multi-dimensional-scaling-mds)
+    *   [2.2.9. t-distributed Stochastic Neighbor Embedding (t-SNE)](https://scikit-learn.org/stable/modules/manifold.html#t-distributed-stochastic-neighbor-embedding-t-sne)
+    *   [2.2.10. Tips on practical use](https://scikit-learn.org/stable/modules/manifold.html#tips-on-practical-use)
+*   [2.3. Clustering](https://scikit-learn.org/stable/modules/clustering.html)
+    *   [2.3.1. Overview of clustering methods](https://scikit-learn.org/stable/modules/clustering.html#overview-of-clustering-methods)
+    *   [2.3.2. K-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+    *   [2.3.3. Affinity Propagation](https://scikit-learn.org/stable/modules/clustering.html#affinity-propagation)
+    *   [2.3.4. Mean Shift](https://scikit-learn.org/stable/modules/clustering.html#mean-shift)
+    *   [2.3.5. Spectral clustering](https://scikit-learn.org/stable/modules/clustering.html#spectral-clustering)
+    *   [2.3.6. Hierarchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
+    *   [2.3.7. DBSCAN](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
+    *   [2.3.8. HDBSCAN](https://scikit-learn.org/stable/modules/clustering.html#hdbscan)
+    *   [2.3.9. OPTICS](https://scikit-learn.org/stable/modules/clustering.html#optics)
+    *   [2.3.10. BIRCH](https://scikit-learn.org/stable/modules/clustering.html#birch)
+    *   [2.3.11. Clustering performance evaluation](https://scikit-learn.org/stable/modules/clustering.html#clustering-performance-evaluation)
+*   [2.4. Biclustering](https://scikit-learn.org/stable/modules/biclustering.html)
+    *   [2.4.1. Spectral Co-Clustering](https://scikit-learn.org/stable/modules/biclustering.html#spectral-co-clustering)
+    *   [2.4.2. Spectral Biclustering](https://scikit-learn.org/stable/modules/biclustering.html#spectral-biclustering)
+    *   [2.4.3. Biclustering evaluation](https://scikit-learn.org/stable/modules/biclustering.html#biclustering-evaluation)
+*   [2.5. Decomposing signals in components (matrix factorization problems)](https://scikit-learn.org/stable/modules/decomposition.html)
+    *   [2.5.1. Principal component analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+    *   [2.5.2. Kernel Principal Component Analysis (kPCA)](https://scikit-learn.org/stable/modules/decomposition.html#kernel-principal-component-analysis-kpca)
+    *   [2.5.3. Truncated singular value decomposition and latent semantic analysis](https://scikit-learn.org/stable/modules/decomposition.html#truncated-singular-value-decomposition-and-latent-semantic-analysis)
+    *   [2.5.4. Dictionary Learning](https://scikit-learn.org/stable/modules/decomposition.html#dictionary-learning)
+    *   [2.5.5. Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
+    *   [2.5.6. Independent component analysis (ICA)](https://scikit-learn.org/stable/modules/decomposition.html#independent-component-analysis-ica)
+    *   [2.5.7. Non-negative matrix factorization (NMF or NNMF)](https://scikit-learn.org/stable/modules/decomposition.html#non-negative-matrix-factorization-nmf-or-nnmf)
+    *   [2.5.8. Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
+*   [2.6. Covariance estimation](https://scikit-learn.org/stable/modules/covariance.html)
+    *   [2.6.1. Empirical covariance](https://scikit-learn.org/stable/modules/covariance.html#empirical-covariance)
+    *   [2.6.2. Shrunk Covariance](https://scikit-learn.org/stable/modules/covariance.html#shrunk-covariance)
+    *   [2.6.3. Sparse inverse covariance](https://scikit-learn.org/stable/modules/covariance.html#sparse-inverse-covariance)
+    *   [2.6.4. Robust Covariance Estimation](https://scikit-learn.org/stable/modules/covariance.html#robust-covariance-estimation)
+*   [2.7. Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html)
+    *   [2.7.1. Overview of outlier detection methods](https://scikit-learn.org/stable/modules/outlier_detection.html#overview-of-outlier-detection-methods)
+    *   [2.7.2. Novelty Detection](https://scikit-learn.org/stable/modules/outlier_detection.html#novelty-detection)
+    *   [2.7.3. Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html#id1)
+    *   [2.7.4. Novelty detection with Local Outlier Factor](https://scikit-learn.org/stable/modules/outlier_detection.html#novelty-detection-with-local-outlier-factor)
+*   [2.8. Density Estimation](https://scikit-learn.org/stable/modules/density.html)
+    *   [2.8.1. Density Estimation: Histograms](https://scikit-learn.org/stable/modules/density.html#density-estimation-histograms)
+    *   [2.8.2. Kernel Density Estimation](https://scikit-learn.org/stable/modules/density.html#kernel-density-estimation)
+*   [2.9. Neural network models (unsupervised)](https://scikit-learn.org/stable/modules/neural_networks_unsupervised.html)
+    *   [2.9.1. Restricted Boltzmann machines](https://scikit-learn.org/stable/modules/neural_networks_unsupervised.html#restricted-boltzmann-machines)
+
+[previous 1.17. Neural network models (supervised)](https://scikit-learn.org/stable/modules/neural_networks_supervised.html "previous page")[next 2.1. Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html "next page")
+
+### This Page
+
+*   [Show Source](https://scikit-learn.org/stable/_sources/unsupervised_learning.rst.txt)
+
+© Copyright 2007 - 2025, scikit-learn developers (BSD License).
+
+## Metadata
+
+```json
+{
+  "title": "2. Unsupervised learning",
+  "description": "Gaussian mixture models- Gaussian Mixture, Variational Bayesian Gaussian Mixture., Manifold learning- Introduction, Isomap, Locally Linear Embedding, Modified Locally Linear Embedding, Hessian Eige...",
+  "url": "https://scikit-learn.org/stable/unsupervised_learning.html",
+  "content": "2\\. Unsupervised learning — scikit-learn 1.6.1 documentation\n===============        \n\n[Skip to main content](https://scikit-learn.org/stable/unsupervised_learning.html#main-content)\n\nBack to top Ctrl+K\n\n [![Image 3: scikit-learn homepage](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png) ![Image 4: scikit-learn homepage](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)](https://scikit-learn.org/stable/index.html)\n\n*   [Install](https://scikit-learn.org/stable/install.html)\n*   [User Guide](https://scikit-learn.org/stable/user_guide.html)\n*   [API](https://scikit-learn.org/stable/api/index.html)\n*   [Examples](https://scikit-learn.org/stable/auto_examples/index.html)\n*   [Community](https://blog.scikit-learn.org/)\n*   More\n    *   [Getting Started](https://scikit-learn.org/stable/getting_started.html)\n    *   [Release History](https://scikit-learn.org/stable/whats_new.html)\n    *   [Glossary](https://scikit-learn.org/stable/glossary.html)\n    *   [Development](https://scikit-learn.org/dev/developers/index.html)\n    *   [FAQ](https://scikit-learn.org/stable/faq.html)\n    *   [Support](https://scikit-learn.org/stable/support.html)\n    *   [Related Projects](https://scikit-learn.org/stable/related_projects.html)\n    *   [Roadmap](https://scikit-learn.org/stable/roadmap.html)\n    *   [Governance](https://scikit-learn.org/stable/governance.html)\n    *   [About us](https://scikit-learn.org/stable/about.html)\n\n*   [GitHub](https://github.com/scikit-learn/scikit-learn \"GitHub\")\n\nChoose version\n\n*   [Install](https://scikit-learn.org/stable/install.html)\n*   [User Guide](https://scikit-learn.org/stable/user_guide.html)\n*   [API](https://scikit-learn.org/stable/api/index.html)\n*   [Examples](https://scikit-learn.org/stable/auto_examples/index.html)\n*   [Community](https://blog.scikit-learn.org/)\n*   [Getting Started](https://scikit-learn.org/stable/getting_started.html)\n*   [Release History](https://scikit-learn.org/stable/whats_new.html)\n*   [Glossary](https://scikit-learn.org/stable/glossary.html)\n*   [Development](https://scikit-learn.org/dev/developers/index.html)\n*   [FAQ](https://scikit-learn.org/stable/faq.html)\n*   [Support](https://scikit-learn.org/stable/support.html)\n*   [Related Projects](https://scikit-learn.org/stable/related_projects.html)\n*   [Roadmap](https://scikit-learn.org/stable/roadmap.html)\n*   [Governance](https://scikit-learn.org/stable/governance.html)\n*   [About us](https://scikit-learn.org/stable/about.html)\n\n*   [GitHub](https://github.com/scikit-learn/scikit-learn \"GitHub\")\n\nChoose version\n\nSection Navigation\n\n*   [1\\. Supervised learning](https://scikit-learn.org/stable/supervised_learning.html)\n    \n    *   [1.1. Linear Models](https://scikit-learn.org/stable/modules/linear_model.html)\n    *   [1.2. Linear and Quadratic Discriminant Analysis](https://scikit-learn.org/stable/modules/lda_qda.html)\n    *   [1.3. Kernel ridge regression](https://scikit-learn.org/stable/modules/kernel_ridge.html)\n    *   [1.4. Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)\n    *   [1.5. Stochastic Gradient Descent](https://scikit-learn.org/stable/modules/sgd.html)\n    *   [1.6. Nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)\n    *   [1.7. Gaussian Processes](https://scikit-learn.org/stable/modules/gaussian_process.html)\n    *   [1.8. Cross decomposition](https://scikit-learn.org/stable/modules/cross_decomposition.html)\n    *   [1.9. Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)\n    *   [1.10. Decision Trees](https://scikit-learn.org/stable/modules/tree.html)\n    *   [1.11. Ensembles: Gradient boosting, random forests, bagging, voting, stacking](https://scikit-learn.org/stable/modules/ensemble.html)\n    *   [1.12. Multiclass and multioutput algorithms](https://scikit-learn.org/stable/modules/multiclass.html)\n    *   [1.13. Feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)\n    *   [1.14. Semi-supervised learning](https://scikit-learn.org/stable/modules/semi_supervised.html)\n    *   [1.15. Isotonic regression](https://scikit-learn.org/stable/modules/isotonic.html)\n    *   [1.16. Probability calibration](https://scikit-learn.org/stable/modules/calibration.html)\n    *   [1.17. Neural network models (supervised)](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)\n    \n*   [2\\. Unsupervised learning](https://scikit-learn.org/stable/unsupervised_learning.html#)\n    \n    *   [2.1. Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html)\n    *   [2.2. Manifold learning](https://scikit-learn.org/stable/modules/manifold.html)\n    *   [2.3. Clustering](https://scikit-learn.org/stable/modules/clustering.html)\n    *   [2.4. Biclustering](https://scikit-learn.org/stable/modules/biclustering.html)\n    *   [2.5. Decomposing signals in components (matrix factorization problems)](https://scikit-learn.org/stable/modules/decomposition.html)\n    *   [2.6. Covariance estimation](https://scikit-learn.org/stable/modules/covariance.html)\n    *   [2.7. Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html)\n    *   [2.8. Density Estimation](https://scikit-learn.org/stable/modules/density.html)\n    *   [2.9. Neural network models (unsupervised)](https://scikit-learn.org/stable/modules/neural_networks_unsupervised.html)\n    \n*   [3\\. Model selection and evaluation](https://scikit-learn.org/stable/model_selection.html)\n    \n    *   [3.1. Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html)\n    *   [3.2. Tuning the hyper-parameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html)\n    *   [3.3. Tuning the decision threshold for class prediction](https://scikit-learn.org/stable/modules/classification_threshold.html)\n    *   [3.4. Metrics and scoring: quantifying the quality of predictions](https://scikit-learn.org/stable/modules/model_evaluation.html)\n    *   [3.5. Validation curves: plotting scores to evaluate models](https://scikit-learn.org/stable/modules/learning_curve.html)\n    \n*   [4\\. Inspection](https://scikit-learn.org/stable/inspection.html)\n    \n    *   [4.1. Partial Dependence and Individual Conditional Expectation plots](https://scikit-learn.org/stable/modules/partial_dependence.html)\n    *   [4.2. Permutation feature importance](https://scikit-learn.org/stable/modules/permutation_importance.html)\n    \n*   [5\\. Visualizations](https://scikit-learn.org/stable/visualizations.html)\n*   [6\\. Dataset transformations](https://scikit-learn.org/stable/data_transforms.html)\n    \n    *   [6.1. Pipelines and composite estimators](https://scikit-learn.org/stable/modules/compose.html)\n    *   [6.2. Feature extraction](https://scikit-learn.org/stable/modules/feature_extraction.html)\n    *   [6.3. Preprocessing data](https://scikit-learn.org/stable/modules/preprocessing.html)\n    *   [6.4. Imputation of missing values](https://scikit-learn.org/stable/modules/impute.html)\n    *   [6.5. Unsupervised dimensionality reduction](https://scikit-learn.org/stable/modules/unsupervised_reduction.html)\n    *   [6.6. Random Projection](https://scikit-learn.org/stable/modules/random_projection.html)\n    *   [6.7. Kernel Approximation](https://scikit-learn.org/stable/modules/kernel_approximation.html)\n    *   [6.8. Pairwise metrics, Affinities and Kernels](https://scikit-learn.org/stable/modules/metrics.html)\n    *   [6.9. Transforming the prediction target (`y`)](https://scikit-learn.org/stable/modules/preprocessing_targets.html)\n    \n*   [7\\. Dataset loading utilities](https://scikit-learn.org/stable/datasets.html)\n    \n    *   [7.1. Toy datasets](https://scikit-learn.org/stable/datasets/toy_dataset.html)\n    *   [7.2. Real world datasets](https://scikit-learn.org/stable/datasets/real_world.html)\n    *   [7.3. Generated datasets](https://scikit-learn.org/stable/datasets/sample_generators.html)\n    *   [7.4. Loading other datasets](https://scikit-learn.org/stable/datasets/loading_other_datasets.html)\n    \n*   [8\\. Computing with scikit-learn](https://scikit-learn.org/stable/computing.html)\n    \n    *   [8.1. Strategies to scale computationally: bigger data](https://scikit-learn.org/stable/computing/scaling_strategies.html)\n    *   [8.2. Computational Performance](https://scikit-learn.org/stable/computing/computational_performance.html)\n    *   [8.3. Parallelism, resource management, and configuration](https://scikit-learn.org/stable/computing/parallelism.html)\n    \n*   [9\\. Model persistence](https://scikit-learn.org/stable/model_persistence.html)\n*   [10\\. Common pitfalls and recommended practices](https://scikit-learn.org/stable/common_pitfalls.html)\n*   [11\\. Dispatching](https://scikit-learn.org/stable/dispatching.html)\n    \n    *   [11.1. Array API support (experimental)](https://scikit-learn.org/stable/modules/array_api.html)\n    \n*   [12\\. Choosing the right estimator](https://scikit-learn.org/stable/machine_learning_map.html)\n*   [13\\. External Resources, Videos and Talks](https://scikit-learn.org/stable/presentations.html)\n\n*   [](https://scikit-learn.org/stable/index.html)\n*   [User Guide](https://scikit-learn.org/stable/user_guide.html)\n*   2\\. Unsupervised learning\n\n2\\. Unsupervised learning[#](https://scikit-learn.org/stable/unsupervised_learning.html#unsupervised-learning \"Link to this heading\")\n=====================================================================================================================================\n\n*   [2.1. Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html)\n    *   [2.1.1. Gaussian Mixture](https://scikit-learn.org/stable/modules/mixture.html#gaussian-mixture)\n    *   [2.1.2. Variational Bayesian Gaussian Mixture](https://scikit-learn.org/stable/modules/mixture.html#variational-bayesian-gaussian-mixture)\n*   [2.2. Manifold learning](https://scikit-learn.org/stable/modules/manifold.html)\n    *   [2.2.1. Introduction](https://scikit-learn.org/stable/modules/manifold.html#introduction)\n    *   [2.2.2. Isomap](https://scikit-learn.org/stable/modules/manifold.html#isomap)\n    *   [2.2.3. Locally Linear Embedding](https://scikit-learn.org/stable/modules/manifold.html#locally-linear-embedding)\n    *   [2.2.4. Modified Locally Linear Embedding](https://scikit-learn.org/stable/modules/manifold.html#modified-locally-linear-embedding)\n    *   [2.2.5. Hessian Eigenmapping](https://scikit-learn.org/stable/modules/manifold.html#hessian-eigenmapping)\n    *   [2.2.6. Spectral Embedding](https://scikit-learn.org/stable/modules/manifold.html#spectral-embedding)\n    *   [2.2.7. Local Tangent Space Alignment](https://scikit-learn.org/stable/modules/manifold.html#local-tangent-space-alignment)\n    *   [2.2.8. Multi-dimensional Scaling (MDS)](https://scikit-learn.org/stable/modules/manifold.html#multi-dimensional-scaling-mds)\n    *   [2.2.9. t-distributed Stochastic Neighbor Embedding (t-SNE)](https://scikit-learn.org/stable/modules/manifold.html#t-distributed-stochastic-neighbor-embedding-t-sne)\n    *   [2.2.10. Tips on practical use](https://scikit-learn.org/stable/modules/manifold.html#tips-on-practical-use)\n*   [2.3. Clustering](https://scikit-learn.org/stable/modules/clustering.html)\n    *   [2.3.1. Overview of clustering methods](https://scikit-learn.org/stable/modules/clustering.html#overview-of-clustering-methods)\n    *   [2.3.2. K-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)\n    *   [2.3.3. Affinity Propagation](https://scikit-learn.org/stable/modules/clustering.html#affinity-propagation)\n    *   [2.3.4. Mean Shift](https://scikit-learn.org/stable/modules/clustering.html#mean-shift)\n    *   [2.3.5. Spectral clustering](https://scikit-learn.org/stable/modules/clustering.html#spectral-clustering)\n    *   [2.3.6. Hierarchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)\n    *   [2.3.7. DBSCAN](https://scikit-learn.org/stable/modules/clustering.html#dbscan)\n    *   [2.3.8. HDBSCAN](https://scikit-learn.org/stable/modules/clustering.html#hdbscan)\n    *   [2.3.9. OPTICS](https://scikit-learn.org/stable/modules/clustering.html#optics)\n    *   [2.3.10. BIRCH](https://scikit-learn.org/stable/modules/clustering.html#birch)\n    *   [2.3.11. Clustering performance evaluation](https://scikit-learn.org/stable/modules/clustering.html#clustering-performance-evaluation)\n*   [2.4. Biclustering](https://scikit-learn.org/stable/modules/biclustering.html)\n    *   [2.4.1. Spectral Co-Clustering](https://scikit-learn.org/stable/modules/biclustering.html#spectral-co-clustering)\n    *   [2.4.2. Spectral Biclustering](https://scikit-learn.org/stable/modules/biclustering.html#spectral-biclustering)\n    *   [2.4.3. Biclustering evaluation](https://scikit-learn.org/stable/modules/biclustering.html#biclustering-evaluation)\n*   [2.5. Decomposing signals in components (matrix factorization problems)](https://scikit-learn.org/stable/modules/decomposition.html)\n    *   [2.5.1. Principal component analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)\n    *   [2.5.2. Kernel Principal Component Analysis (kPCA)](https://scikit-learn.org/stable/modules/decomposition.html#kernel-principal-component-analysis-kpca)\n    *   [2.5.3. Truncated singular value decomposition and latent semantic analysis](https://scikit-learn.org/stable/modules/decomposition.html#truncated-singular-value-decomposition-and-latent-semantic-analysis)\n    *   [2.5.4. Dictionary Learning](https://scikit-learn.org/stable/modules/decomposition.html#dictionary-learning)\n    *   [2.5.5. Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)\n    *   [2.5.6. Independent component analysis (ICA)](https://scikit-learn.org/stable/modules/decomposition.html#independent-component-analysis-ica)\n    *   [2.5.7. Non-negative matrix factorization (NMF or NNMF)](https://scikit-learn.org/stable/modules/decomposition.html#non-negative-matrix-factorization-nmf-or-nnmf)\n    *   [2.5.8. Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)\n*   [2.6. Covariance estimation](https://scikit-learn.org/stable/modules/covariance.html)\n    *   [2.6.1. Empirical covariance](https://scikit-learn.org/stable/modules/covariance.html#empirical-covariance)\n    *   [2.6.2. Shrunk Covariance](https://scikit-learn.org/stable/modules/covariance.html#shrunk-covariance)\n    *   [2.6.3. Sparse inverse covariance](https://scikit-learn.org/stable/modules/covariance.html#sparse-inverse-covariance)\n    *   [2.6.4. Robust Covariance Estimation](https://scikit-learn.org/stable/modules/covariance.html#robust-covariance-estimation)\n*   [2.7. Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html)\n    *   [2.7.1. Overview of outlier detection methods](https://scikit-learn.org/stable/modules/outlier_detection.html#overview-of-outlier-detection-methods)\n    *   [2.7.2. Novelty Detection](https://scikit-learn.org/stable/modules/outlier_detection.html#novelty-detection)\n    *   [2.7.3. Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html#id1)\n    *   [2.7.4. Novelty detection with Local Outlier Factor](https://scikit-learn.org/stable/modules/outlier_detection.html#novelty-detection-with-local-outlier-factor)\n*   [2.8. Density Estimation](https://scikit-learn.org/stable/modules/density.html)\n    *   [2.8.1. Density Estimation: Histograms](https://scikit-learn.org/stable/modules/density.html#density-estimation-histograms)\n    *   [2.8.2. Kernel Density Estimation](https://scikit-learn.org/stable/modules/density.html#kernel-density-estimation)\n*   [2.9. Neural network models (unsupervised)](https://scikit-learn.org/stable/modules/neural_networks_unsupervised.html)\n    *   [2.9.1. Restricted Boltzmann machines](https://scikit-learn.org/stable/modules/neural_networks_unsupervised.html#restricted-boltzmann-machines)\n\n[previous 1.17. Neural network models (supervised)](https://scikit-learn.org/stable/modules/neural_networks_supervised.html \"previous page\")[next 2.1. Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html \"next page\")\n\n### This Page\n\n*   [Show Source](https://scikit-learn.org/stable/_sources/unsupervised_learning.rst.txt)\n\n© Copyright 2007 - 2025, scikit-learn developers (BSD License).",
+  "usage": {
+    "tokens": 4616
+  }
+}
+```

@@ -1,0 +1,275 @@
+Navs | Reflex
+===============
+
+[SBS](https://sbs-www.vercel.app/)
+
+*   [Blocks](https://sbs-www.vercel.app/library/blocks)
+    
+    *   [Header](https://sbs-www.vercel.app/library/blocks#header)
+    *   [Hero](https://sbs-www.vercel.app/library/blocks#hero)
+    *   [Features](https://sbs-www.vercel.app/library/blocks#features)
+    *   [Call to action](https://sbs-www.vercel.app/library/blocks#call-to-action)
+    *   [Forms](https://sbs-www.vercel.app/library/blocks#forms)
+    *   [Pricing](https://sbs-www.vercel.app/library/blocks#pricing)
+    *   [Team](https://sbs-www.vercel.app/library/blocks#team)
+    *   [Testimonials](https://sbs-www.vercel.app/library/blocks#testimonials)
+    *   [Cards](https://sbs-www.vercel.app/library/blocks#cards)
+    *   [Footer](https://sbs-www.vercel.app/library/blocks#footer)
+    *   [Posts](https://sbs-www.vercel.app/library/blocks#posts)
+    
+*   [Examples](https://sbs-www.vercel.app/library/pages)
+*   [Learn](https://sbs-www.vercel.app/learn)
+*   [Videos](https://sbs-www.vercel.app/videos)
+*   [Docs](https://sbs-www.vercel.app/docs)
+    
+    [### Get Started Learn how to install and use Reflex.](https://sbs-www.vercel.app/docs)
+    
+    [### Components Learn how to use components.](https://sbs-www.vercel.app/docs/components)[### Blocks Build blocks and use them on pages.](https://sbs-www.vercel.app/docs/blocks)[### Navs Build responsive navs using Markdown.](https://sbs-www.vercel.app/docs/navs)[### Theming Use style props to theme your site.](https://sbs-www.vercel.app/docs/theming)
+    
+    [### Recipes Helpful guides and code snippets.](https://sbs-www.vercel.app/docs/recipes)
+    
+*   [Theme](https://sbs-www.vercel.app/theme)
+    
+    Theme reference
+    
+    *   [Colors](https://sbs-www.vercel.app/theme#colors)
+    *   [Font family](https://sbs-www.vercel.app/theme#font-family)
+    *   [Font size](https://sbs-www.vercel.app/theme#font-size)
+    *   [Font weight](https://sbs-www.vercel.app/theme#font-weight)
+    *   [Line height](https://sbs-www.vercel.app/theme#line-height)
+    *   [Box shadow](https://sbs-www.vercel.app/theme#box-shadow)
+    
+    *   [Margin](https://sbs-www.vercel.app/theme#margin)
+    *   [Padding](https://sbs-www.vercel.app/theme#padding)
+    *   [Border](https://sbs-www.vercel.app/theme#border)
+    *   [Border radius](https://sbs-www.vercel.app/theme#border-radius)
+    *   [Grid](https://sbs-www.vercel.app/theme#grid)
+    
+    [Create a theme](https://sbs-www.vercel.app/docs/theming#create-a-theme) [Extend base](https://sbs-www.vercel.app/docs/presets#extend-base)
+    
+*   [Read](https://sbs-www.vercel.app/blog)
+
+[Call](https://sbs-www.vercel.app/)
+
+[SBS](https://sbs-www.vercel.app/)
+
+[Call](https://sbs-www.vercel.app/)
+
+[SBS](https://sbs-www.vercel.app/)
+
+*   [Blocks](https://sbs-www.vercel.app/library/blocks)
+    
+    *   [Header](https://sbs-www.vercel.app/library/blocks#header)
+    *   [Hero](https://sbs-www.vercel.app/library/blocks#hero)
+    *   [Features](https://sbs-www.vercel.app/library/blocks#features)
+    *   [Call to action](https://sbs-www.vercel.app/library/blocks#call-to-action)
+    *   [Forms](https://sbs-www.vercel.app/library/blocks#forms)
+    *   [Pricing](https://sbs-www.vercel.app/library/blocks#pricing)
+    *   [Team](https://sbs-www.vercel.app/library/blocks#team)
+    *   [Testimonials](https://sbs-www.vercel.app/library/blocks#testimonials)
+    *   [Cards](https://sbs-www.vercel.app/library/blocks#cards)
+    *   [Footer](https://sbs-www.vercel.app/library/blocks#footer)
+    *   [Posts](https://sbs-www.vercel.app/library/blocks#posts)
+    
+*   [Examples](https://sbs-www.vercel.app/library/pages)
+*   [Learn](https://sbs-www.vercel.app/learn)
+*   [Videos](https://sbs-www.vercel.app/videos)
+*   [Docs](https://sbs-www.vercel.app/docs)
+    
+    [### Get Started Learn how to install and use Reflex.](https://sbs-www.vercel.app/docs)
+    
+    [### Components Learn how to use components.](https://sbs-www.vercel.app/docs/components)[### Blocks Build blocks and use them on pages.](https://sbs-www.vercel.app/docs/blocks)[### Navs Build responsive navs using Markdown.](https://sbs-www.vercel.app/docs/navs)[### Theming Use style props to theme your site.](https://sbs-www.vercel.app/docs/theming)
+    
+    [### Recipes Helpful guides and code snippets.](https://sbs-www.vercel.app/docs/recipes)
+    
+*   [Theme](https://sbs-www.vercel.app/theme)
+    
+    Theme reference
+    
+    *   [Colors](https://sbs-www.vercel.app/theme#colors)
+    *   [Font family](https://sbs-www.vercel.app/theme#font-family)
+    *   [Font size](https://sbs-www.vercel.app/theme#font-size)
+    *   [Font weight](https://sbs-www.vercel.app/theme#font-weight)
+    *   [Line height](https://sbs-www.vercel.app/theme#line-height)
+    *   [Box shadow](https://sbs-www.vercel.app/theme#box-shadow)
+    
+    *   [Margin](https://sbs-www.vercel.app/theme#margin)
+    *   [Padding](https://sbs-www.vercel.app/theme#padding)
+    *   [Border](https://sbs-www.vercel.app/theme#border)
+    *   [Border radius](https://sbs-www.vercel.app/theme#border-radius)
+    *   [Grid](https://sbs-www.vercel.app/theme#grid)
+    
+    [Create a theme](https://sbs-www.vercel.app/docs/theming#create-a-theme) [Extend base](https://sbs-www.vercel.app/docs/presets#extend-base)
+    
+*   [Read](https://sbs-www.vercel.app/blog)
+
+[Call](https://sbs-www.vercel.app/)
+
+Menu 
+
+*   #### Documentation
+    
+    *   [Getting Started](https://sbs-www.vercel.app/docs)
+        *   [Requirements](https://sbs-www.vercel.app/docs#requirements)
+        *   [Create a site](https://sbs-www.vercel.app/docs#create-a-site)
+*   #### Site building
+    
+    *   [Components](https://sbs-www.vercel.app/docs/components)
+        *   [Installation](https://sbs-www.vercel.app/docs/components#installation)
+        *   [Build a button](https://sbs-www.vercel.app/docs/components#build-a-button)
+        *   [Style a button](https://sbs-www.vercel.app/docs/components#style-a-button)
+    *   [Blocks](https://sbs-www.vercel.app/docs/blocks)
+        *   [Installation](https://sbs-www.vercel.app/docs/blocks#installation)
+        *   [Add a block](https://sbs-www.vercel.app/docs/blocks#add-a-block)
+        *   [Using blocks](https://sbs-www.vercel.app/docs/blocks#using-blocks)
+        *   [Styling blocks](https://sbs-www.vercel.app/docs/blocks#styling-blocks)
+        *   [Dynamic blocks](https://sbs-www.vercel.app/docs/blocks#dynamic-blocks)
+        *   [useBlock](https://sbs-www.vercel.app/docs/blocks#useblock)
+    *   [Navs](https://sbs-www.vercel.app/docs/navs)
+        *   [Installation](https://sbs-www.vercel.app/docs/navs#installation)
+        *   [Add a nav](https://sbs-www.vercel.app/docs/navs#add-a-nav)
+        *   [Rendering navs](https://sbs-www.vercel.app/docs/navs#rendering-navs)
+        *   [useNav](https://sbs-www.vercel.app/docs/navs#usenav)
+    *   [Images](https://sbs-www.vercel.app/docs/images)
+        *   [Local images](https://sbs-www.vercel.app/docs/images#local-images)
+        *   [Remote images](https://sbs-www.vercel.app/docs/images#remote-images)
+    *   [Metatags](https://sbs-www.vercel.app/docs/metatags)
+        *   [Installation](https://sbs-www.vercel.app/docs/metatags#installation)
+        *   [Options](https://sbs-www.vercel.app/docs/metatags#options)
+        *   [Debug mode](https://sbs-www.vercel.app/docs/metatags#debug-mode)
+*   #### Adding content
+    
+    *   [Pages](https://sbs-www.vercel.app/docs/pages)
+        *   [Add a page](https://sbs-www.vercel.app/docs/pages#add-a-page)
+        *   [Using components](https://sbs-www.vercel.app/docs/pages#using-components-in-a-page)
+        *   [Using blocks](https://sbs-www.vercel.app/docs/pages#using-blocks-in-a-page)
+        *   [Slugs](https://sbs-www.vercel.app/docs/pages#slugs)
+    *   [Blog](https://sbs-www.vercel.app/docs/blog)
+        *   [Installation](https://sbs-www.vercel.app/docs/blog#installation)
+        *   [Add an author](https://sbs-www.vercel.app/docs/blog#add-an-author)
+        *   [Add a post](https://sbs-www.vercel.app/docs/blog#add-a-post)
+        *   [Metatags](https://sbs-www.vercel.app/docs/blog#metatags)
+*   #### Theming
+    
+    *   [Theming](https://sbs-www.vercel.app/docs/theming)
+        *   [Theme UI](https://sbs-www.vercel.app/docs/theming#theme-ui)
+        *   [Style props](https://sbs-www.vercel.app/docs/theming#style-props)
+        *   [Create a theme](https://sbs-www.vercel.app/docs/theming#create-a-theme)
+        *   [Styling](https://sbs-www.vercel.app/docs/theming#styling)
+        *   [Responsive](https://sbs-www.vercel.app/docs/theming#responsive)
+        *   [Hover and focus](https://sbs-www.vercel.app/docs/theming#hover-and-focus)
+        *   [Variants](https://sbs-www.vercel.app/docs/theming#variants)
+    *   [Presets](https://sbs-www.vercel.app/docs/presets)
+        *   [Base](https://sbs-www.vercel.app/docs/presets#base)
+        *   [Flex](https://sbs-www.vercel.app/docs/presets#flex)
+*   #### Recipes
+    
+    *   [Theming](https://sbs-www.vercel.app/docs/recipes#theming)
+        *   [Styling components](https://sbs-www.vercel.app/docs/recipes#styling-components)
+        *   [Skipping breakpoints](https://sbs-www.vercel.app/docs/recipes#skipping-breakpoints)
+        *   [Styling active links](https://sbs-www.vercel.app/docs/recipes#styling-active-links)
+    *   [Images](https://sbs-www.vercel.app/docs/recipes#images)
+        *   [Aspect ratio](https://sbs-www.vercel.app/docs/recipes#aspect-ratio)
+
+Note: Reflex is still in **development** and we are actively working on the documentation.
+
+Navs
+====
+
+Use navs to build header, footer and other navigation menus using mdx files.
+
+[Installation](https://sbs-www.vercel.app/docs/navs#installation)
+-----------------------------------------------------------------
+
+npm i @reflexjs/gatsby-theme-nav
+
+Copy
+
+[Add a nav](https://sbs-www.vercel.app/docs/navs#add-a-nav)
+-----------------------------------------------------------
+
+To add a nav, simply create an `.mdx` file in the `/content/navs` directory.
+
+Navs uses using simple lists of links.
+
+content/navs/main.mdx
+
+\- \[Home\](/home)
+
+\- \[Blocks\](/blocks)
+
+  \- \[Headers\](/blocks/headers)
+
+  \- \[Hero\](/blocks/hero)
+
+  \- \[Footers\](/blocks/footers)
+
+\- \[Docs\](/docs)
+
+  \- \[Components\](/docs/components)
+
+  \- \[Images\](/docs/images)
+
+Copy
+
+[Rendering navs](https://sbs-www.vercel.app/docs/navs#rendering-navs)
+---------------------------------------------------------------------
+
+Once your nav has been created, you can use the `useNav` hook to retrieve and render the nav.
+
+blocks/main-nav.mdx
+
+import { useNav } from "@reflexjs/gatsby-theme-nav"
+
+export const MainNav \= () \=\> {
+
+  const \[main\] \= useNav("main")
+
+  return main.items ? (
+
+    <Ul\>
+
+      {main.items.map(({ value, url, items }, index) \=\> (
+
+        <Li key\={index}\>
+
+          <Link href\={url}\>{value}</Link\>
+
+        </Li\>
+
+      ))}
+
+    </Ul\>
+
+  ) : null
+
+}
+
+Copy
+
+Check out the [Blocks library](https://sbs-www.vercel.app/library) for pre-built navs you can copy and drop into your site.
+
+[useNav](https://sbs-www.vercel.app/docs/navs#usenav)
+-----------------------------------------------------
+
+The `useNav` hook can be used to retrieve and filter navs.
+
+import { useNav } from "@reflexjs/gatsby-theme-nav"
+
+// Returns nav from /content/navs/main.
+
+const \[main\] \= useNav("main")
+
+// Returns nav from /content/navs/footer.
+
+const \[footer\] \= useNav("footer")
+
+Copy
+
+© 2021 Reflex
+
+*   [Blocks](https://sbs-www.vercel.app/library/blocks)
+*   [Examples](https://sbs-www.vercel.app/library/pages)
+*   [Learn](https://sbs-www.vercel.app/learn)
+*   [Docs](https://sbs-www.vercel.app/docs)
+*   [Github](https://github.com/reflexjs/reflex)

@@ -1,0 +1,270 @@
+Forge Ahead or Fall Behind: Composable Commerce - Builder.io
+=============== 
+
+[Livestream: How to Build an App Dashboard | Feb 6 Announcing Visual Copilot - Figma to production in half the time ![Image 47](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F298cf427a34f446ea00fd3985034c509?width=12)](https://www.builder.io/hub/webinars/builder-labs-app-dashboard)
+
+![Image 48](https://cdn.builder.io/api/v1/pixel?apiKey=YJIGb4i01jvw0SRdL5Bt)
+
+[![Image 49: Builder.io logo](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fe6a94bfbccd24ec8b4db085cd475b7eb?width=150)](https://www.builder.io/)
+
+Platform
+
+Solutions
+
+Developers
+
+[Pricing](https://www.builder.io/m/pricing)
+
+Resources
+
+[Contact Sales](https://www.builder.io/m/demo)[Sign Up](https://www.builder.io/content)
+
+Platform
+
+Visual Development Platform
+
+[Platform Overview](https://www.builder.io/visual-development-platform)[What's New](https://www.builder.io/updates)
+
+Capabilities
+
+[Design to Code](https://www.builder.io/m/design-to-code)[Visual Editor](https://www.builder.io/visual-editor)[Headless CMS](https://www.builder.io/headless-cms)[A/B Testing & Personalization](https://www.builder.io/c/docs/abtesting)
+
+Solutions
+
+Use Cases
+
+[Headless Commerce](https://www.builder.io/m/headless-commerce)[Design to Code](https://www.builder.io/m/design-to-code)[Marketing Sites](https://www.builder.io/m/marketing-sites)[Landing Pages](https://www.builder.io/m/landing-pages)[Mobile Apps](https://www.builder.io/m/mobile-apps)[Multi-Brand](https://www.builder.io/m/multi-brand-cms)
+
+Integrations
+
+[Vercel](https://www.builder.io/m/vercel)[Netlify](https://www.builder.io/m/netlify)[Shopify](https://www.builder.io/m/shopify)[Cloudinary](https://www.builder.io/m/cloudinary)[Salesforce](https://www.builder.io/m/integration/salesforce-commerce-cloud)[Figma](https://www.builder.io/figma-to-code)[Algolia](https://www.builder.io/m/algolia)[Phrase](https://www.builder.io/m/phrase)[See All](https://www.builder.io/m/integrations)
+
+Developers
+
+Overview
+
+[Documentation](https://www.builder.io/c/docs/developers)[Devtools](https://www.builder.io/c/docs/devtools)[Builder Blueprints](https://www.builder.io/c/blueprints)
+
+Frameworks
+
+[React](https://www.builder.io/m/react-cms)[Next.js](https://www.builder.io/m/nextjs-cms)[Qwik](https://www.builder.io/m/qwik-cms)[Gatsby](https://www.builder.io/m/gatsby-cms)[Angular](https://www.builder.io/m/angular-cms)[Vue](https://www.builder.io/m/vue-cms)[Svelte](https://www.builder.io/m/svelte-cms)[Remix](https://www.builder.io/m/remix-cms)[Nuxt](https://www.builder.io/m/nuxt-cms)[Astro](https://www.builder.io/m/astro-cms)[See all](https://www.builder.io/hub/home?resource-type=frameworks)
+
+Open Source
+
+[![Image 50](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F936569a54ac94eed9e225c4667c125da?width=20) Builder](https://github.com/BuilderIO/builder)
+
+[](https://github.com/BuilderIO/builder)
+
+[![Image 51](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fa45d49818e464caaab4f4bb416fed861?width=20) Mitosis](https://github.com/BuilderIO/mitosis)
+
+[](https://github.com/BuilderIO/mitosis)
+
+[![Image 52](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fc64656430525473a8d09f0bba9d6111c?width=20) AI Shell](https://github.com/BuilderIO/ai-shell)
+
+[](https://github.com/BuilderIO/ai-shell)
+
+[![Image 53](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fc64656430525473a8d09f0bba9d6111c?width=20) Micro Agent](https://github.com/BuilderIO/micro-agent)
+
+[](https://github.com/BuilderIO/micro-agent)
+
+[![Image 54](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fc64656430525473a8d09f0bba9d6111c?width=20) GPT Crawler](https://github.com/BuilderIO/gpt-crawler)
+
+[](https://github.com/BuilderIO/gpt-crawler)
+
+[![Image 55](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F416cf7e211004ff9b158aaae69c6127f?width=20) Qwik](https://github.com/BuilderIO/qwik)
+
+[](https://github.com/BuilderIO/qwik)
+
+[![Image 56](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fa363237e3a9b4913ab637a881141d58b?width=20) Partytown](https://github.com/BuilderIO/partytown)
+
+[](https://github.com/BuilderIO/partytown)
+
+Explore
+
+[Best of Web](https://best-of-web.builder.io/)[Performance Insights](https://www.builder.io/c/performance-insights)
+
+[Pricing](https://www.builder.io/m/pricing)
+
+Resources
+
+Explore
+
+[Blog](https://www.builder.io/blog)[Knowledge Base](https://www.builder.io/c/docs/intro)[Developer Docs](https://www.builder.io/c/docs/developers)[Community Forum](https://forum.builder.io/)[Partners](https://www.builder.io/m/partners)[Templates](https://www.builder.io/m/ultimate-landing-page-templates)
+
+Customers
+
+[Success Stories](https://www.builder.io/m/customers)[Showcase](https://www.builder.io/m/customer-showcase)
+
+Resource Center
+
+[Product Demos](https://www.builder.io/hub/home?resource-type=demos)[Guides](https://www.builder.io/hub/home?resource-type=guides)[Webinars](https://www.builder.io/hub/home?resource-type=webinars)[Explainers](https://www.builder.io/hub/home?resource-type=explainers)[See all](https://www.builder.io/hub/home)
+
+[Contact Sales](https://www.builder.io/m/demo)[](https://www.builder.io/content)
+
+![Image 57](https://cdn.builder.io/api/v1/pixel?apiKey=YJIGb4i01jvw0SRdL5Bt)
+
+< Back
+
+![Image 58](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F918146b468444bf2a2c3bc1403701db7?width=1200)
+
+WEBINAR
+
+Forge Ahead or Fall Behind: Embracing the Composable Commerce Trend
+===================================================================
+
+Join Kibo, Builder.io, Ignitiv, and special guest analyst Joe Cicman from Forrester as we discuss the labyrinth of decisions, architectural complexities, and unknown unknowns in the pursuit of digital transformation with composable commerce through the lens of our experiences and best practices.
+
+**During the webinar you will learn about:**
+
+*   Forrester’s perspective on who composable commerce is actually for (spoiler alert: not everyone)
+*   The importance of customer obsession in the adoption of composable commerce
+*   Real-world case studies highlighting successes and pitfalls in shifting to a composable architecture
+*   Why companies like Kibo, Builder, and Ignitiv are teaming up together in the market to drive adoption of composable commerce
+
+SPEAKERS
+
+![Image 59: Speaker photo](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Ff6d474c32b5a494183be18a3302acf9f?format=webp&width=74)
+
+**Joe Cicman**
+
+Principal Analyst, Forrester
+
+![Image 60: Speaker photo](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fea841c25bf2f423eafa545d13f014684?format=webp&width=74)
+
+Alexis Hail
+
+Sr. Director, Global Partnerships & Alliances, Kibo
+
+![Image 61: Speaker photo](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F2139d5fe15f748d684f2d8b0384f11a1?format=webp&width=74)
+
+Rajib Das
+
+Founder & CEO, Ignitiv
+
+![Image 62: Speaker photo](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fc1e72e3dad8d4c6095af45744b3ebf3e?format=webp&width=74)
+
+Brent Locks
+
+Co-Founder, Builder.io
+
+WATCH NOW
+
+![Image 63](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F1b3296750af74404a029f9998253741d?width=20)
+
+By submitting this form, I confirm that I have read and understood the Builder.io [Privacy Statement.](https://builder.io/docs/privacy)
+
+![Image 64](https://cdn.builder.io/api/v1/pixel?apiKey=YJIGb4i01jvw0SRdL5Bt)
+
+![Image 65](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F985c60abd03a483ba9bb7f10138a5fb9?width=269)
+
+### Get the latest from Builder.io
+
+Dev Drop Newsletter
+
+News, tips, and tricks from Builder, for frontend developers.
+
+Product Newsletter
+
+Latest features and updates on the Builder.io platform
+
+[By submitting, you agree to our Privacy Policy](https://builder.io/docs/privacy)
+
+![Image 66](https://cdn.builder.io/api/v1/pixel?apiKey=YJIGb4i01jvw0SRdL5Bt)
+
+### Product
+
+*   [Platform Overview](https://www.builder.io/visual-development-platform)
+*   [Integrations](https://www.builder.io/m/integrations)
+*   [What's New](https://www.builder.io/m/product-updates)
+
+### CAPABILITIES
+
+*   [Design to Code](https://www.builder.io/m/design-to-code)
+*   [Visual Editor](https://www.builder.io/visual-editor)
+*   [Headless CMS](https://www.builder.io/headless-cms)
+*   [A/B & Personalization](https://www.builder.io/c/docs/abtesting)
+
+### Company
+
+*   [About](https://www.builder.io/m/about-us)
+*   [Careers](https://www.builder.io/m/careers)
+
+### Developers
+
+*   [Documentation](https://www.builder.io/c/docs/developers)
+*   [Devtools](https://www.builder.io/c/docs/devtools)
+*   [Builder Blueprints](https://www.builder.io/c/blueprints)
+*   [Best of Web](https://best-of-web.builder.io/)
+*   [Performance Insights](https://www.builder.io/c/performance-insights)
+
+### Open Source
+
+*   [![Image 67](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F05935225729c41f3ba83a8add87aec54?width=16) Builder](https://github.com/BuilderIO/builder)
+*   [![Image 68](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fa45d49818e464caaab4f4bb416fed861?width=20) Mitosis](https://mitosis.builder.io/)
+*   [![Image 69](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5ec5133cd71343768c96843cc84c01b4?width=20) AI Shell](https://github.com/BuilderIO/ai-shell)
+*   [![Image 70](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5ec5133cd71343768c96843cc84c01b4?width=20) Micro Agent](https://github.com/BuilderIO/micro-agent)
+*   [![Image 71](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5ec5133cd71343768c96843cc84c01b4?width=20) GPT Crawler](https://github.com/BuilderIO/gpt-crawler)
+*   [![Image 72](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fddb7b5acc2d747f198e8ed90dc245f1a?width=20) Qwik](https://qwik.dev/)
+*   [![Image 73](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fa363237e3a9b4913ab637a881141d58b?width=20) Partytown](https://partytown.builder.io/)
+
+### Solutions
+
+*   [Headless Commerce](https://www.builder.io/m/headless-commerce)
+*   [Marketing Sites](https://www.builder.io/m/marketing-sites)
+*   [Landing Pages](https://www.builder.io/m/landing-pages)
+*   [Mobile Apps](https://www.builder.io/m/mobile-apps)
+*   [Multi-brand](https://www.builder.io/m/multi-brand-cms)
+
+### Popular Guides
+
+*   [From Design to Code Guide](https://www.builder.io/hub/guides/from-design-to-code-using-ai-to-ship-websites)
+*   [Composable Commerce Guide](https://www.builder.io/hub/guides/9-composable-commerce-pitfalls)
+*   [Headless CMS Guide](https://www.builder.io/m/knowledge-center/headless-cms-visual-guide)
+*   [Headless Commerce Guide](https://www.builder.io/m/knowledge-center/headless-commerce)
+*   [Composable DXP Guide](https://www.builder.io/m/explainers/composable-dxp)
+*   [Design to Code](https://www.builder.io/m/knowledge-center/design-to-code)
+
+### Resources
+
+*   [Blog](https://www.builder.io/blog)
+*   [Knowledge Base](https://www.builder.io/c/docs/intro)
+*   [Community Forum](https://forum.builder.io/)
+*   [Partners](https://www.builder.io/m/partners)
+*   [Templates](https://www.builder.io/m/ultimate-landing-page-templates)
+*   [Success Stories](https://www.builder.io/m/customers)
+*   [Showcase](https://www.builder.io/m/customer-showcase)
+*   [Resource Center](https://www.builder.io/hub/home)
+*   Page Builder
+    
+    \>
+    
+
+### Frameworks
+
+*   [![Image 74](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F95c70a06f779481a957c2b384e3a270d?width=20) React](https://www.builder.io/m/react-cms)
+*   [![Image 75](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fd9a84303eb3246b9b0c8f7e6fa6b2f67?width=20) Next.js](https://www.builder.io/m/nextjs-cms)
+*   [![Image 76](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F8469b183f0dd433aabd0fcd0a373b370?width=20) Qwik](https://www.builder.io/m/qwik-cms)
+*   [![Image 77](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F4edbe85d7b364b529ae3bdd8dc90fc8f?width=20) Gatsby](https://www.builder.io/m/gatsby-cms)
+*   [![Image 78](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5d03b12eaef74ce7b0da94c920d4b1de?width=22) Angular](https://www.builder.io/m/angular-cms)
+*   [![Image 79](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F73a54a19443e48fab077e6f21687cd20?width=20) Vue](https://www.builder.io/m/vue-cms)
+*   [![Image 80](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Ffbe9dfb6bb09448ba4fe5feb4bb0e53e?width=17) Svelte](https://www.builder.io/m/svelte-cms)
+*   [![Image 81](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F42b147207ed34ee0aa0d5238bccc8787?width=15) Remix](https://www.builder.io/m/remix-cms)
+*   [![Image 82](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F2b97b9f2700e4e7ea4e241597efe4d78?width=19) Nuxt](https://www.builder.io/m/nuxt-cms)
+*   [![Image 83](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F481bd636c38642ac93ae25816e026ad0?width=19) Astro](https://www.builder.io/m/astro-cms)
+*   [See All](https://www.builder.io/hub/home?resource-type=frameworks)
+
+![Image 84](https://cdn.builder.io/api/v1/pixel?apiKey=YJIGb4i01jvw0SRdL5Bt)
+
+© 2025 Builder.io, Inc.
+
+[Security](https://www.builder.io/c/security)[Privacy Policy](https://www.builder.io/docs/privacy)[SaaS Terms](https://www.builder.io/docs/terms)[Security & Compliance](https://trust.builder.io/)
+
+Cookie Preferences
+
+[](https://www.youtube.com/@Builderio)[](https://github.com/builderio/builder)[](https://bsky.app/profile/builderio.bsky.social)[](https://twitter.com/builderio)[](https://www.linkedin.com/company/builder-io/)[](https://www.builder.io/blog/feed.xml)
+
+[![Image 85: Gartner Cool Vendor 2024](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F6691e104a101461096cf87a6fe35249c?width=95)](https://www.builder.io/blog/builder-named-gartner-cool-vendor)
+
+![Image 86](https://cdn.builder.io/api/v1/pixel?apiKey=YJIGb4i01jvw0SRdL5Bt)
+
+![Image 87](https://cdn.builder.io/api/v1/pixel?apiKey=YJIGb4i01jvw0SRdL5Bt)

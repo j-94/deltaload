@@ -1,0 +1,51 @@
+[![Image 24: logo](https://heyneo.so/images/logo/Logo.svg)](https://heyneo.so/)
+
+NEO - The first autonomous ML Engineer
+--------------------------------------
+
+[Join the Waitlist](https://heyneo.so/waitlist)
+
+![Image 25: NEO Dashboard](https://heyneo.so/images/neo-vision/landing-page/dashboard.png)
+
+NEO is designed to save you from 1000s of hours of grunt work by automating the entire machine learning workflow.  
+It is powered by a system of agents that works in parallel to solve your most urgent and important ML engineering problems.
+
+[Read More](https://heyneo.so/blog)
+
+Powered by SOTA models and software
+-----------------------------------
+
+![Image 26: Tech Stack 1](https://heyneo.so/images/poweredby/techstack1.png)![Image 27: Tech Stack 2](https://heyneo.so/images/poweredby/techstack2.png)![Image 28: Tech Stack 3](https://heyneo.so/images/poweredby/techstack3.png)![Image 29: Tech Stack 4](https://heyneo.so/images/poweredby/techstack4.png)![Image 30: Tech Stack 5](https://heyneo.so/images/poweredby/techstack5.png)![Image 31: Tech Stack 6](https://heyneo.so/images/poweredby/techstack6.png)
+
+And More...
+
+NEO makes ML engineers superhuman
+
+*   ### Automate Model Optimization
+    
+    Neo uses multi-step reasoning with its extensive knowledge base and GPU sandbox computing to perform iterative ML experimentation for automatic model optimization. Neo understands the task and runs 100s of experiments and automatically evaluates their performance against targets, and select best models.
+    
+    ![Image 32: Automate Model Optimization](https://heyneo.so/images/features/image3.png)
+    
+*   ### Guide NEO through chat
+    
+    Take control over Neo with our interactive chat interface. Guide Neo's exploration of models and approaches, providing context and expertise to accelerate tasks and projects. Streamline your ML workflow with Neo's flexible and responsive assistance.
+    
+    ![Image 33: Guide NEO through chat](https://heyneo.so/images/features/image1.png)
+    
+*   ### Neo's Pathfinding Abilities
+    
+    Unlock Neo's full potential with Multi Step Reasoning. Neo proactively explores multiple approaches, assesses potential outcomes, and evaluates risks to find the most effective solution for your challenge. Leveraging its reasoning capabilities, Neo anticipates challenges and refines its recommendations, ensuring a swift and successful path forward.
+    
+    ![Image 34: Neo's Pathfinding Abilities](https://heyneo.so/images/features/image2.png)
+    
+
+Use Cases
+---------
+
+See NEO in action. When given a problem statement, it is able to assess a proper execution workflow with implementation steps including data engineering, ml engineering, training and evaluations to come up with a final solution.
+
+ML problem execution
+--------------------
+
+NEO can perform end to end model building and problem solving

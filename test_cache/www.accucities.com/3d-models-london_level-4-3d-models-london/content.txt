@@ -1,0 +1,207 @@
+Textured 3D London and High Detail City Models[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2022-02-27T09:31:51+00:00
+
+Textured City Models & Level 4 Context Models
+---------------------------------------------
+
+#### High Visual fidelity & Easy to work with
+
+AccuCities textured 3D Model of London has been created by wrapping our large and detailed Level 3 city model in editable textures from the latest 2020 high-resolution oblique imagery. The 3D model covers 60 km sq and can be purchased from as little as 500 x 500 meters tile.
+
+Level 4 models are based on our Level 3 High Detail 3D Models and upgraded using a combination of custom high-res photographs and terrestrial photogrammetry. All features are 3D Modelled, separated, materials are associated with geometry and where needed, the 3D models are textured. 3D Models, elevations and features are accurate to 15 cm in all axis. Terrain can also be upgraded and street furniture can be added.
+
+![Image 60](https://www.accucities.com/wp-content/uploads/2017/textured-3D-London-model-London-Eye.jpg)
+
+Textured 3D Model of London Gallery
+-----------------------------------
+
+#### Production Renders & Animations
+
+AccuCities [Textured 3D Model of London](https://www.accucities.com/textured-3d-model-of-london-2021/) has been created by projecting high-res oblique imagery onto a High Detail Level 3 city model. All textures are editable on individual terrain layers and buildings. Available for £1,000+VAT for a 500 x 500 meters tile. Use our [Quoting Tool](https://quote.accucities.com/) to order.
+
+Textured 3D Model of London Features
+------------------------------------
+
+#### Accurate, Upgradeable & Easy to Use
+
+The textured 3D Model of London dataset was created by wrapping our large and detailed Level 3 city model in [editable textures](https://www.accucities.com/re-texturing-focus-buildings-in-3d-london/) from the latest 2020 high-resolution oblique imagery. The 3D model covers 60 km sq and can be purchased from as little as 500 x 500 meters tile.
+
+Users can turn textures on/off for individual terrain layers, remove a building without creating a hole in the model, upgrade any of the geometry or textures and even manipulate any of the trees in the trees layer individually.
+
+[![Image 61](https://www.accucities.com/wp-content/uploads/2017/Textured-model-of-London-area-by-AccuCities-600x338.jpg)](https://quote.accucities.com/)
+
+### Dataset covers over 60km2 of London
+
+#### Gold-standard 3D city model
+
+240 individually UV mapped tiles with all layers and objects also UV mapped individually. Textured using 2020 oblique aerial imagery onto the Level 3 model.
+
+![Image 62](https://www.accucities.com/wp-content/uploads/2017/Textured-model-of-London-Canary-Wharf-2021-tile-by-AccuCities-600x338.jpg)
+
+### City model in Geo-referenced Tiles
+
+#### Library dataset with 1 day delivery
+
+Customers can buy individual tiles for £1,000+VAT. Textured Level 3 models are fully modular with our [Level 2](https://www.accucities.com/3d-models-london/level-2-3d-models-london/) and [Level 3](https://www.accucities.com/3d-models-london/level-3-3d-models-london/) models or OS maps. Available as FBX files or UE4 scene.
+
+![Image 63](https://www.accucities.com/wp-content/uploads/2017/placing-designs-into-Textured-model-of-London-600x338.jpg)
+
+### Your site in a high visual fidelity city context
+
+#### Simulate Views, Daylight & Sunlight and more
+
+Save time & money by reducing the need for a crane or aerial photographs! Insert your designs directly into the accurate city environment. Use Future Skyline to simulate change over time.
+
+![Image 64](https://www.accucities.com/wp-content/uploads/2017/Updating-Textured-model-of-London-600x338.gif)
+
+### Made for Makers & Creatives
+
+#### Update, Upgrade & Manipulate with ease
+
+Texturing city models using aerial oblique imagery makes the process affordable but the model suffers from shadowing, especially in urban canyons. Users can upgrade their hero buildings / walkable areas / sites in few hours using image editing software.
+
+Read [Re-texturing focus buildings in 3D London](https://www.accucities.com/re-texturing-focus-buildings-in-3d-london/) for a step-by-step guide.
+
+![Image 65](https://www.accucities.com/wp-content/uploads/2017/textured-3D-London-model-in-FBX-format-imported-into-Forum8-simulation-600x338.jpg)
+
+### Import into your Software of Choice
+
+#### FBX format as a Standard
+
+Textured 3D London model in FBX format can be imported into most 3D geometry editing software. Here it is imported into the [Forum8](https://www.forum8.com/) traffic simulation platform.
+
+![Image 66](https://www.accucities.com/wp-content/uploads/2017/textured-3D-London-model-in-UE4-scene-format-600x338.jpg)
+
+### UE4 Game Engine scene format
+
+#### Plug & Play into your Unreal Engine projects
+
+Background to your games and urban visualisations, a textured 3D model of London can be purchased loaded into a UE4 project.
+
+![Image 67](https://www.accucities.com/wp-content/uploads/2017/textured-3D-London-model-Future-Skyline-600x338.gif)
+
+### Impressive new capabilities
+
+#### VFX Example: Future Skyline with Reflectivity
+
+A CGI of reflectivity of a future building facade, somehow over-illustrated here. What was impossible yesterday is a matter of 5 minutes to render in 3D Studio with this textured 3D city model. Test and develop your ideas with our free 1 km sq sample.
+
+![Image 68](https://www.accucities.com/wp-content/uploads/2017/textured-3D-London-model-sample-in-FBX-format-600x338.jpg)
+
+### Free Textured 3D London sample
+
+#### Download 1,000 x 1,000 meters sample
+
+Free 1 km2 high-quality 3D Model of London in FBX and SKP formats. Sample tile TQ3280 consists of four 0.25 km2 tiles. Includes London Bridge, The Shard and River Thames.
+
+![Image 69](https://www.accucities.com/wp-content/uploads/2017/AccuCities_Textured-3D-model-of-London-in-OS-tiles-600x338.jpg)
+
+### Licensing Textured 3D London model
+
+#### Purchase single Tile or Subscribe to the entire Dataset
+
+The price for a textured 3D London model is £4,000+VAT per square kilometer. The minimum order size is a 0.25 km2 tile (500×500 meters) or £1,000 + VAT (5-year licence). [Order here](https://quote.accucities.com/).
+
+[3D London subscription](https://www.accucities.com/3d-models-london/high-detail-3d-model-london/) is available for £1,500+VAT / month or £12,000+VAT / year. All subscribers will receive the textured model covering 60 square kilometers as part of their subscription package.
+
+### Custom Level 4 Models
+
+#### Fully 3D modelled architectural and outdoor details
+
+All features on Level 4 models are 3D modelled, separated, materials are associated with geometry and where needed, the 3D models are textured. 3D Models, elevations and features are accurate to 15 cm in all axis.
+
+![Image 70: Level 3 to Level 4 3D Model Upgrade](https://www.accucities.com/wp-content/uploads/AccuCities_L3_L4_3D_Model.gif)
+
+### **Upgrades based on Level 3 Models**
+
+Level 3 buildings are accurate to 15cm in all axis. Using aerial stereo photogrammetry, all roofs features and structures are precisely manually captured with correct shapes and slopes. Level 4 models are captured on top of Level 3 3D Models using terrestrial photographs and manually textured.
+
+![Image 71](https://www.accucities.com/wp-content/uploads/Level-4-AccuCities-Geometry.jpg)
+
+### **Clean & Light Geometry**
+
+All main facade & architectural features are 3D modelled and structured in a way that allows for different materials to be separated. Although more labour-intensive, this workflow results in significantly lighter and more usable 3D models than other techniques.
+
+![Image 72](https://www.accucities.com/wp-content/uploads/Level-4-AccuCities-Photorealistic-Textures.jpg)
+
+### **Photo-Realistic Textures**
+
+For ultimate realism, Level 4 Models can be textured with photo realistic textures. Because 3D models are made from hi-res terrestrial photographs with UV mapping in mind, resulting 3D models have uniform and quality photo-realistic textures. Textured Level 4 models can be used in many 3D modelling packages or in a game engine.
+
+![Image 73](https://www.accucities.com/wp-content/uploads/3Dformats.jpg)
+
+### **Variety of File formats**
+
+Level 3 3D models are delivered in AutoCad Solid DWG, SketchUp SKP and Filmbox FBX formats for easy editing that suits most workflows. The 3D Model is easy to import into Revit, 3D Studio Max, Maya or Cinema 4D.
+
+**Level 4 3D Models of London Landmarks**
+-----------------------------------------
+
+3D Models of the most prominent London buildings are continuously upgraded to Level 4.
+
+Level 4 models are based on our Level 3 High Detail 3D Model of London and upgraded using a combination of custom high-res photographs and terrestrial photogrammetry. All features are 3D Modelled, separated, materials are associated with geometry and where needed, the 3D models are textured. 3D Models, elevations and features are accurate to 15 cm in all axis.
+
+### Frequently Asked Questions & Answers. [Contact Us](https://www.accucities.com/contact-accucities/) for more.
+
+How can I use your 3D models?[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2018-07-22T21:56:00+01:00
+
+3D models are distributed under company-wide, multiple-use licence which covers the use of the 3D model for 5 years. We grant to the User a worldwide, non-exclusive licence to use the 3D Model to unlimited number of Derived products (renders, animations), Incorporated products (Interactive Application, import into custom software), conduct In-house work and use 3D Model data for Physicalization such as 3D printing.
+
+Customers cannot distribute, alter to distribute or re-engineer the 3D model in any way. [**Read full EULA here**](https://www.accucities.com/wp-content/uploads/docs/AccuCities%20End%20User%20Licence%20Agreement%20Small%20Medium%20size%203D%20Models.pdf).
+
+Is there a demo of AccuCities London app?[3D City Models](https://accucities.com/author/accucities_admin/ "Posts by 3D City Models")2020-06-27T16:46:44+01:00
+
+AccuCities 3D London app is now [Plan.City](https://plan.city/)! Please [get in touch](https://www.accucities.com/contact-accucities/) and we will be happy to set up a meeting to demo the app.
+
+What is the difference between 3D city models?[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2022-03-28T21:11:02+01:00
+
+Both Level 2 and Level 3 3D Models are manually captured from latest aerial imagery available for the area of interest.
+
+![Image 74](https://www.accucities.com/wp-content/uploads/AccuCities_Level2_3D_model_FAQs-300x169.jpg)Level 2 3D Models are accurate to 50 cm in all axis. The 3D Model is very light and low poly. Buildings are captured with correct roof shapes of main structures with only chimneys, parapet walls and dormer windows omitted. Terrain is accurate to 20 cm and separated into land use categories. Trees locations (captured with correct height and canopy width) are also included.
+
+![Image 75](https://www.accucities.com/wp-content/uploads/AccuCities_Level3_3D_model_FAQs-300x169.jpg)Level 3 3D Models are accurate to 15 cm in all axis. Buildings are captured with correct roof shapes and all features such as chimneys, parapet walls or dormer windows. Terrain is separated into land use categories. Trees locations (captured with correct height and canopy width) are also included.
+
+What 3D formats can I choose from?[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2022-03-28T21:07:55+01:00
+
+Any model can be delivered as AutoCad solid .DWG, SketchUp .SKP or .FBX files.
+
+Our [**High Detail 3D Model of London**](https://high%20detail%203d%20model%20of%20london/) subscribers also receive Unreal Engine 4 app and all associated UE4 files.
+
+Can I try & test your 3D models before I buy?[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2018-07-22T01:22:16+01:00
+
+Of course – feel free to [**Download AccuCities sample tile TQ3280SE**](https://www.accucities.com/3d-city-models-gallery/). This large 500 x 500 meters sample can be used to evaluate our 3D models. The sample can be downloaded as AutoCad solid .DWG, SketchUp .SKP, FBX and .UE4 Project files as well as Interactive 3D Model. Different Levels of Detail 3D models are available in every format.
+
+I need facade details or interior models.[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2022-03-28T21:08:35+01:00
+
+If you require facade detail, we can upgrade our [**Level 3**](https://www.accucities.com/3d-models-london/level-3-3d-models-london/) 3D models to [**Level 4**](https://www.accucities.com/3d-models-london/level-4-3d-models-london/) using a combination of custom high-res photographs and terrestrial photogrammetry.
+
+If you require interior models, we can upgrade our models to [**Level 5**](https://www.accucities.com/3d-models-london/level-5-3d-models-london/).
+
+Do I need an account with you to order 3D models?[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2018-07-22T01:44:01+01:00
+
+You don’t need to have an account with us to order 3D models.
+
+Do you offer discounts to students?[3D City Models](https://accucities.com/author/accucities_admin/ "Posts by 3D City Models")2020-09-06T20:29:21+01:00
+
+We offer up to 80% discounts for students / non-profit projects. Send us your required area via our Quoting Tool and use “Student” instead of company name. Best of luck in your studies!
+
+What is the minimum order?[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2020-09-06T20:14:44+01:00
+
+Level 3 models can be ordered from as little as 0.1 km2 (which is about 330 x 330 meters in real world).
+
+Level 2 models can be ordered from as little as 0.25 km2  (which is about 500 x 500 meters in real world).
+
+Custom 3D models can be ordered in any shape – simply [draw a map mark-up](https://www.accucities.com/quote/) , send it over to us and we will come back to you with a quote.
+
+How can I send you my map mark-up?[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2020-01-30T07:02:18+00:00
+
+We prefer map mark-ups for quotes to be sent via our [**Quoting Tool**](https://quote.accucities.com/). If you are having any difficulties or have a map in any other format, simply email it to info@accucities.com with your name, company, required Level of Detail and your contact details and we will come back to you.
+
+How can I pay for your 3D models?[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2018-07-22T01:42:11+01:00
+
+Business customers will be invoiced with 14 days payment term in or shortly after 3D model delivery. Non-business customers might be asked to pay via Card, PayPal or UK money transfer before we accept an order.
+
+What happens after I send you Quote request?[3D London](https://accucities.com/author/admin/ "Posts by 3D London")2020-06-29T14:56:35+01:00
+
+We will usually come back to you within 2 hours with costs and delivery times for your project. Once these are confirmed by you we will order imagery, set-up a Photogrammetry project, manually capture your 3D model, post process the data and deliver the 3D model to you in required format via a download link.
+
+###### trusted by

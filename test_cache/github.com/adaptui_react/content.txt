@@ -1,0 +1,360 @@
+Skip to content
+Navigation Menu
+Product
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+adaptui
+/
+react
+Public
+Notifications
+Fork 9
+ Star 211
+Code
+Issues
+11
+Pull requests
+3
+Discussions
+Actions
+Security
+Insights
+adaptui/react
+ main
+Code
+Folders and files
+Name	Last commit message	Last commit date
+
+Latest commit
+navin-moorthy
+chore(renovate): 🧹 disable dependency checks
+0be2be9
+ · 
+History
+670 Commits
+
+
+.github
+	
+chore(github): 🍱 Add Pull Request Template for GitHub
+	
+
+
+.husky
+	
+refactor(pagination): ♻️ change pagination story type
+	
+
+
+.storybook
+	
+build(sb): 👷 update actions, sb & vscode configs
+	
+
+
+.vscode
+	
+build(sb): 👷 update actions, sb & vscode configs
+	
+
+
+assets
+	
+build(sb): 👷 update actions, sb & vscode configs
+	
+
+
+docs-templates
+	
+docs(typos): 📝 update typos
+	
+
+
+docs
+	
+docs(release): 📝 update core pkg to new alpha release
+	
+
+
+scripts
+	
+docs(release): 📝 update core pkg to new alpha release
+	
+
+
+src
+	
+refactor(disclosure): ♻️ migrate visible to open props
+	
+
+
+.all-contributorsrc
+	
+docs: add @mcnaveen as a contributor
+	
+
+
+.eslintignore
+	
+feat(ariakit): ✨ update the core library to v2 (#326)
+	
+
+
+.eslintrc.json
+	
+refactor(avatar): ♻️ update avatar stories & imports
+	
+
+
+.gitignore
+	
+chore(ingores): 🔧 update ignore configs to latest
+	
+
+
+.kodiak.toml
+	
+chore(kodiak): 🔧 update kodiak merge method
+	
+
+
+.nvmrc
+	
+build(actions): 👷 add .nvmrc file
+	
+
+
+.prettierignore
+	
+docs(scripts): 📝 update docs script for v2 syntax
+	
+
+
+.prettierrc.js
+	
+chore(config): 🔧 update & unify dev setups
+	
+
+
+.release-it.json
+	
+build(release-it): 💚 remove snapshot update in test
+	
+
+
+CHANGELOG.md
+	
+🚀 Release v1.0.0-alpha.9
+	
+
+
+LICENSE
+	
+Initial commit
+	
+
+
+README.md
+	
+docs: add @mcnaveen as a contributor
+	
+
+
+babel.config.js
+	
+chore(lint): 🔧 update eslint import config
+	
+
+
+index.d.ts
+	
+infra: added jest setup (#19)
+	
+
+
+jest.config.ts
+	
+docs(checkbox): 📝 refactor stories with better types handling
+	
+
+
+jest.setup.js
+	
+test: added tests for accordion (#22)
+	
+
+
+package.json
+	
+🚀 Release v1.0.0-alpha.9
+	
+
+
+postcss.config.js
+	
+feat(ariakit): ✨ update the core library to v2 (#326)
+	
+
+
+renovate.json
+	
+chore(renovate): 🧹 disable dependency checks
+	
+
+
+tailwind.config.js
+	
+feat(ariakit): ✨ update the core library to v2 (#326)
+	
+
+
+tsconfig.json
+	
+fix(numberinput): 🐛 remove number input label warning
+	
+
+
+tsconfig.prod.json
+	
+build: fix typescript component resolve (#134)
+	
+
+
+yarn.lock
+	
+refactor(disclosure): ♻️ migrate visible to open props
+	
+Repository files navigation
+README
+MIT license
+AdaptUI React
+
+Collection of headless components/hooks that are accessible, composable, customizable from low level to build your own UI & Design System powered by Ariakit System. Explore all components »
+
+  
+ 
+
+🚀 Features
+Accessible ♿
+Composable 🧰
+WAI-ARIA Compatible 🗒️
+React Hooks Based ⚓
+Easy To Customize, Style & Extend 💅
+⚓ Installation
+npm
+npm install @adaptui/react
+Yarn
+yarn add @adaptui/react
+
+Make sure react and react-dom is installed.
+
+🔰 Getting started
+
+Check out our getting started docs
+
+📑 Component Docs
+Accordion
+Breadcrumbs
+Calendar
+RangeCalendar
+DateField
+DatePicker
+DateRangePicker
+TimeField
+Drawer
+Disclosure
+Link
+Meter
+Number field
+Pagination
+Progress
+Slider
+Toast
+
+Note: As the 0.#.# version number suggests that we are still very much work in progress, so semantic versioning will not be followed until a v1 release. Expect breaking changes to occur on minor version jumps.
+
+✨ Contributors
+
+Thanks goes to these wonderful people (emoji key):
+
+
+Navin Moorthy
+💻	
+Anurag Hazra
+💻	
+Sandeep Prabhakaran
+🤔	
+MC Naveen
+💻
+
+This project follows the all-contributors specification. Contributions of any kind welcome!
+
+📋 License
+
+MIT © Timeless
+
+About
+
+Collection of headless components/hooks that are accessible, composable, customizable from low level to build your own UI & Design System powered by Ariakit.
+
+adaptui-react.vercel.app/
+Topics
+react hooks ui headless accessible customizable composable renderless renderless-components adaptui
+Resources
+ Readme
+License
+ MIT license
+ Activity
+ Custom properties
+Stars
+ 211 stars
+Watchers
+ 7 watching
+Forks
+ 9 forks
+Report repository
+
+
+Releases 47
+Release v0.11.0
+Latest
++ 46 releases
+
+
+Packages
+No packages published
+
+
+
+Contributors
+7
+
+
+Languages
+TypeScript
+79.5%
+ 
+JavaScript
+13.1%
+ 
+CSS
+7.2%
+ 
+Other
+0.2%
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information

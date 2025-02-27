@@ -1,0 +1,29 @@
+#### Private & local AI personal knowledge management app for high entropy thinkers.
+
+### Q&A
+
+Chat with an LLM that has full context of your notes.
+
+### Automatically connected ideas
+
+Never manually link your notes again.
+
+### Semantic Search
+
+Search without having to remember exact phrasing.
+
+### WYSIWYG Markdown
+
+Markdown is the language of thought.
+
+### Local First
+
+LLMs, Embedding Models, Vector database. Everything runs and stores locally.
+
+### Writing Assistant
+
+Write with the world's first local writing assistant.
+
+Your browser does not support the video tag.
+
+### Trusted by individuals who may have heard of these companies

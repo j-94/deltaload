@@ -1,0 +1,165 @@
+Supported File Types | Vectara Docs
+===============  
+
+[Skip to main content](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload-filetypes?_gl=1*kfepof*_ga*MTIxODgxODU5My4xNjk2OTM3MjY4*_ga_NVEPGMV1N3*MTcwMjQ5MTUwNi4xNC4xLjE3MDI0OTIyODguMC4wLjA.#__docusaurus_skipToContent_fallback)
+
+[![Image 3: Vectara Logo](https://docs.vectara.com/img/vectara_wordmark.png)![Image 4: Vectara Logo](https://docs.vectara.com/img/vectara_wordmark_light.png)](https://docs.vectara.com/)
+
+[Docs](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload-filetypes?_gl=1*kfepof*_ga*MTIxODgxODU5My4xNjk2OTM3MjY4*_ga_NVEPGMV1N3*MTcwMjQ5MTUwNi4xNC4xLjE3MDI0OTIyODguMC4wLjA.#)
+
+*   [Version 2.0 (Latest)](https://docs.vectara.com/docs/)
+*   [Version 1.0](https://docs.vectara.com/docs/1.0/)
+
+[API Reference](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload-filetypes?_gl=1*kfepof*_ga*MTIxODgxODU5My4xNjk2OTM3MjY4*_ga_NVEPGMV1N3*MTcwMjQ5MTUwNi4xNC4xLjE3MDI0OTIyODguMC4wLjA.#)
+
+*   [Version 2.0 (Latest)](https://docs.vectara.com/docs/rest-api)
+*   [Version 1.0](https://docs.vectara.com/docs/1.0/rest-api)
+
+[Release Notes](https://docs.vectara.com/docs/release-notes)[Changelog](https://docs.vectara.com/docs/changelog)
+
+[Console](https://console.vectara.com/)
+
+*   [The Vectara Platform](https://docs.vectara.com/docs/)
+*   [Migration Guide from REST API 1.0 to 2.0](https://docs.vectara.com/docs/migration-guide-api-v2)
+*   [Getting Started](https://docs.vectara.com/docs/vectara-trial)
+    
+*   [Data Management](https://docs.vectara.com/docs/data-management)
+    
+*   [Search and Retrieval](https://docs.vectara.com/docs/search-and-retrieval)
+    
+*   [Generation](https://docs.vectara.com/docs/generation)
+    
+*   [Observability and Evaluation](https://docs.vectara.com/docs/observability)
+    
+*   [Use Cases](https://docs.vectara.com/docs/use-case-exploration)
+    
+*   [Security and Data Privacy](https://docs.vectara.com/docs/learn/data-privacy/privacy-overview)
+    
+*   [Build Applications](https://docs.vectara.com/docs/build-apps/app-building)
+    
+*   [Integrations](https://docs.vectara.com/docs/integrations/community-collaborations-and-partnerships)
+    
+*   [Vectara Console](https://docs.vectara.com/docs/console-ui/vectara-console-overview)
+    
+*   [API Concepts](https://docs.vectara.com/docs/api-reference/api-overview)
+    
+    *   [Vectara APIs Overview](https://docs.vectara.com/docs/api-reference/api-overview)
+    *   [gRPC APIs](https://docs.vectara.com/docs/api-reference/protobuf-definitions)
+    *   [REST APIs](https://docs.vectara.com/docs/api-reference/rest)
+    *   [Query APIs](https://docs.vectara.com/docs/api-reference/search-apis/search)
+        
+    *   [Query History APIs](https://docs.vectara.com/docs/api-reference/query-history-apis/get-query-history)
+        
+    *   [File Upload APIs](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload)
+        
+        *   [File Upload API Definition](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload)
+        *   [Format Files for Upload](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/format-for-upload)
+        *   [Supported File Types](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload-filetypes)
+    *   [Indexing APIs](https://docs.vectara.com/docs/api-reference/indexing-apis/indexing)
+        
+    *   [Corpus Admin APIs](https://docs.vectara.com/docs/api-reference/admin-apis/admin)
+        
+    *   [Document Admin APIs](https://docs.vectara.com/docs/api-reference/admin-apis/corpus/list-documents)
+        
+    *   [Chat APIs](https://docs.vectara.com/docs/api-reference/chat-apis/chat-apis-overview)
+        
+    *   [Large Language Models APIs](https://docs.vectara.com/docs/api-reference/llms-apis/llms-api)
+        
+    *   [Encoder APIs](https://docs.vectara.com/docs/api-reference/encoder-apis/list-encoders)
+        
+    *   [Reranker APIs](https://docs.vectara.com/docs/api-reference/reranker-apis/reranker-apis)
+        
+    *   [Jobs APIs](https://docs.vectara.com/docs/api-reference/jobs-apis/list-jobs)
+        
+    *   [Users APIs](https://docs.vectara.com/docs/api-reference/admin-apis/manage-users/create-user)
+        
+    *   [Application Clients APIs](https://docs.vectara.com/docs/api-reference/app-clients/create-app-client)
+        
+    *   [API Key Admin APIs](https://docs.vectara.com/docs/api-reference/api-keys/create-api-key)
+        
+    *   [Generation Presets APIs](https://docs.vectara.com/docs/api-reference/generation-presets/list-generation-presets)
+        
+
+*   [](https://docs.vectara.com/)
+*   API Concepts
+*   File Upload APIs
+*   Supported File Types
+
+Version: 2.0
+
+On this page
+
+Supported File Types
+====================
+
+Raw document types[​](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload-filetypes?_gl=1*kfepof*_ga*MTIxODgxODU5My4xNjk2OTM3MjY4*_ga_NVEPGMV1N3*MTcwMjQ5MTUwNi4xNC4xLjE3MDI0OTIyODguMC4wLjA.#raw-document-types "Direct link to Raw document types")
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The upload endpoint supports several raw document types. Vectara extracts text from these documents and sections them as best it can. This provides a convenient way to index text, yet the caller has less control compared to when providing the `Document` proto message themselves. The following raw document types are supported:
+
+*   Commonmark / Markdown (`md` extension).
+*   PDF/A (`pdf`).
+*   Open Office (`odt`).
+*   Microsoft Word (`doc`, `docx`).
+*   Microsoft Powerpoint (`ppt`, `pptx`).
+*   Text files (`txt`).
+*   HTML files (`.html`).
+*   LXML files (`.lxml`).
+*   RTF files (`.rtf`).
+*   ePUB files (`.epub`).
+*   Email files conforming to RFC 822.
+
+Semi-structured documents[​](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload-filetypes?_gl=1*kfepof*_ga*MTIxODgxODU5My4xNjk2OTM3MjY4*_ga_NVEPGMV1N3*MTcwMjQ5MTUwNi4xNC4xLjE3MDI0OTIyODguMC4wLjA.#semi-structured-documents "Direct link to Semi-structured documents")
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+In addition, the [upload endpoint](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload) supports sending semi-structured documents through this endpoint that reflect a `Document` proto message. Those can be sent in the following formats:
+
+*   `pb`: Contains binary serialized `Document` proto message.
+    
+*   `pbtxt`: Contains `Document` proto message in proto text format.
+    
+*   `json`: Contains `Document` proto message in json text format.
+    
+
+For more details of how to format these types of files, read [the formatting document](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/format-for-upload)
+
+[Edit this page](https://github.com/vectara/vectara-docs/tree/master/www/docs/api-reference/indexing-apis/file-upload/supported_file_formats.md)
+
+[Previous Format Files for Upload](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/format-for-upload)[Next Indexing API Definition](https://docs.vectara.com/docs/api-reference/indexing-apis/indexing)
+
+*   [Raw document types](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload-filetypes?_gl=1*kfepof*_ga*MTIxODgxODU5My4xNjk2OTM3MjY4*_ga_NVEPGMV1N3*MTcwMjQ5MTUwNi4xNC4xLjE3MDI0OTIyODguMC4wLjA.#raw-document-types)
+*   [Semi-structured documents](https://docs.vectara.com/docs/api-reference/indexing-apis/file-upload/file-upload-filetypes?_gl=1*kfepof*_ga*MTIxODgxODU5My4xNjk2OTM3MjY4*_ga_NVEPGMV1N3*MTcwMjQ5MTUwNi4xNC4xLjE3MDI0OTIyODguMC4wLjA.#semi-structured-documents)
+
+APIs
+
+*   [Indexing](https://docs.vectara.com/docs/api-reference/indexing-apis/indexing)
+*   [Search](https://docs.vectara.com/docs/api-reference/search-apis/search)
+*   [Admin](https://docs.vectara.com/docs/api-reference/admin-apis/admin)
+
+Company
+
+*   [About](https://www.vectara.com/company/about-us/)
+*   [Careers and Culture](https://www.vectara.com/company/careers-and-culture/)
+*   [Contact Us](https://www.vectara.com/contact-us/)
+
+Security and Terms
+
+*   [Trust and Security](https://www.vectara.com/legal/security-at-vectara/)
+*   [Privacy Policy](https://www.vectara.com/legal/privacy-policy/)
+*   [Terms](https://www.vectara.com/legal/terms-of-service/)
+*   [FAQs](https://www.vectara.com/faqs/)
+
+Social Media
+
+*   [LinkedIn](https://www.linkedin.com/company/vectara/)
+*   [Facebook](https://www.facebook.com/vectara/)
+*   [X](https://x.com/vectara)
+*   [Youtube](https://www.youtube.com/channel/UCoP_hcyjJRLQr0CV050bfMg)
+*   [Discord](https://discord.gg/GFb8gMz6UH)
+
+Platform
+
+*   [Log In](https://console.vectara.com/login)
+*   [Sign Up](https://console.vectara.com/signup)
+
+Copyright © 2025 Vectara, Inc. Built with Docusaurus.

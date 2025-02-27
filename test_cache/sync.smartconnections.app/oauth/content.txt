@@ -1,0 +1,5 @@
+[](https://smartconnections.app/)Login using your email and supporter license key.
+
+Don't have a license key? You can become a supporter from the Smart Connections settings page in Obsidian.
+
+Not using Smart Connections yet? [Learn more](https://smartconnections.app/).

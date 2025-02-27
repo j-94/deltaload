@@ -1,0 +1,11 @@
+*   [Blog](https://www.zotero.org/blog/)
+*   [Forums](https://forums.zotero.org/)
+*   [Developers](https://www.zotero.org/support/dev/start)
+*   [Documentation](https://www.zotero.org/support/)
+*   [Privacy](https://www.zotero.org/support/privacy)
+*   [Get Involved](https://www.zotero.org/getinvolved/)
+*   [Jobs](https://www.zotero.org/jobs)
+*   [About](https://www.zotero.org/about/)
+*   [Mobile Site](https://www.zotero.org/groups/?fullsite=0)
+
+Zotero is a project of the [Corporation for Digital Scholarship](http://digitalscholar.org/), a nonprofit organization dedicated to the development of software and services for researchers and cultural heritage institutions, and is developed by a [global community](https://www.zotero.org/support/credits_and_acknowledgments).

@@ -1,0 +1,48 @@
+OpenAlex | Works search
+===============
+
+ [![Image 5](https://openalex.org/img/openalex-logo-icon-black-and-white.ea51cede.png) OpenAlex](https://openalex.org/)
+
+Unsaved search
+
+No filters applied
+
+Results
+
+Stats
+
+![Image 6](https://openalex.org/img/logo-full-small.a21c0984.png)
+
+Made by [OurResearch](https://ourresearch.org/) with support from [Arcadia.](https://www.arcadiafund.org.uk/)
+
+Learn
+
+[About the data](https://help.openalex.org/)
+
+[API docs](https://docs.openalex.org/)
+
+[Source Code](https://github.com/ourresearch)
+
+[Terms of Service](https://openalex.org/OpenAlex_termsofservice.pdf)
+
+[Privacy](https://openalex.org/OpenAlex_privacy_policy.pdf)
+
+Evaluate
+
+[Testimonials](https://openalex.org/testimonials)
+
+[Coverage](https://help.openalex.org/hc/en-us/articles/27190301279127-How-does-the-coverage-of-OpenAlex-compare-to-other-databases)
+
+[Pricing](https://help.openalex.org/pricing)
+
+[Press](https://help.openalex.org/hc/en-us/articles/29039538348823-OpenAlex-in-the-News)
+
+[Citations](https://openalex.org/works-citing-openalex)
+
+Connect
+
+[Contact](https://openalex.zendesk.com/hc/requests/new)
+
+[Mailing list](https://groups.google.com/g/openalex-users)
+
+[Twitter](https://twitter.com/openalex_org)

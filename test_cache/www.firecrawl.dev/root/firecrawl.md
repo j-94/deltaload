@@ -1,0 +1,304 @@
+---
+title: Firecrawl
+description: Firecrawl crawls and converts any website into clean markdown.
+url: https://www.firecrawl.dev/
+timestamp: 2025-01-20T16:14:17.281Z
+domain: www.firecrawl.dev
+path: root
+---
+
+# Firecrawl
+
+
+Firecrawl crawls and converts any website into clean markdown.
+
+
+## Content
+
+![Image 72: Example Webpage](https://www.firecrawl.dev/multiple-websites.png)
+
+Crawl, Scrape, Clean
+--------------------
+
+We crawl all accessible subpages and give you clean markdown for each. No sitemap required.
+
+```
+
+  [
+    {
+      "url": "https://www.firecrawl.dev/",
+      "markdown": "## Welcome to Firecrawl
+        Firecrawl is a web scraper that allows you to extract the content of a webpage."
+    },
+    {
+      "url": "https://www.firecrawl.dev/features",
+      "markdown": "## Features
+        Discover how Firecrawl's cutting-edge features can 
+        transform your data operations."
+    },
+    {
+      "url": "https://www.firecrawl.dev/pricing",
+      "markdown": "## Pricing Plans
+        Choose the perfect plan that fits your needs."
+    },
+    {
+      "url": "https://www.firecrawl.dev/about",
+      "markdown": "## About Us
+        Learn more about Firecrawl's mission and the 
+        team behind our innovative platform."
+    }
+  ]
+  
+```
+
+Note: The markdown has been edited for display purposes.
+
+Trusted by Top Companies
+------------------------
+
+Integrate today
+---------------
+
+Enhance your applications with top-tier web scraping and crawling capabilities.
+
+#### Use well-known tools
+
+Already fully integrated with the greatest existing tools and workflows.
+
+[![Image 73: LlamaIndex](https://www.firecrawl.dev/logos/llamaindex.svg)](https://docs.llamaindex.ai/en/stable/examples/data_connectors/WebPageDemo/#using-firecrawl-reader/)[![Image 74: Langchain](https://www.firecrawl.dev/integrations/langchain.png)](https://python.langchain.com/v0.2/docs/integrations/document_loaders/firecrawl/)[![Image 75: Dify](https://www.firecrawl.dev/logos/dify.png)](https://dify.ai/blog/dify-ai-blog-integrated-with-firecrawl/)[![Image 76: Dify](https://www.firecrawl.dev/integrations/langflow_2.png)](https://www.langflow.org/)[![Image 77: Flowise](https://www.firecrawl.dev/integrations/flowise.png)](https://flowiseai.com/)[![Image 78: CrewAI](https://www.firecrawl.dev/integrations/crewai.png)](https://crewai.com/)[![Image 79: Camel AI](https://www.firecrawl.dev/integrations/camel-ai.png)](https://docs.camel-ai.org/cookbooks/ingest_data_from_websites_with_Firecrawl.html)
+
+#### Start for free, scale easily
+
+Kick off your journey for free and scale seamlessly as your project expands.
+
+[Try it out](https://www.firecrawl.dev/signin/signup)
+
+#### Open-source
+
+Developed transparently and collaboratively. Join our community of contributors.
+
+[Check out our repo](https://github.com/mendableai/firecrawl)
+
+We handle the hard stuff
+------------------------
+
+Rotating proxies, orchestration, rate limits, js-blocked content and more
+
+#### Crawling
+
+Firecrawl crawls all accessible subpages, even without a sitemap.
+
+#### Dynamic content
+
+Firecrawl gathers data even if a website uses javascript to render content.
+
+#### To Markdown
+
+Firecrawl returns clean, well formatted markdown - ready for use in LLM applications
+
+#### Reliability first
+
+Reliability is our core focus. Firecrawl is designed to ensure you get all the data you need.
+
+#### No Caching
+
+Firecrawl doesn't cache content by default. You always get the latest data.
+
+#### Built for AI
+
+Built by LLM engineers, for LLM engineers. Giving you clean data the way you want it.
+
+#### Smart Wait
+
+Firecrawl can intelligently wait for content to load, making scraping faster and more reliable.
+
+#### Actions
+
+Click, scroll, write, wait, press and more before extracting content.
+
+#### Media Parsing
+
+Firecrawl can parse and output clean content from web hosted pdfs, docx, images and more.
+
+Our wall of love
+
+Don't take our word for it
+--------------------------
+
+Flexible Pricing
+----------------
+
+Start for free, then scale as you grow
+
+Monthly
+
+Yearly
+
+20% off\- 2 months free
+
+Free Plan
+---------
+
+500 credits
+
+$0 one-time
+
+No credit card required
+
+*   Scrape 500 pages
+*   10 /scrape per min
+*   1 /crawl per min
+
+Hobby
+-----
+
+3,000 credits per month
+
+$16/month
+
+$228/yr$190/yr (Billed annually)
+
+*   Scrape 3,000 pages\*
+*   20 /scrape per min
+*   3 /crawl per min
+*   1 seat
+
+StandardMost Popular
+--------------------
+
+100,000 credits per month
+
+$83/month
+
+$1188/yr$990/yr (Billed annually)
+
+*   Scrape 100,000 pages\*
+*   100 /scrape per min
+*   10 /crawl per min
+*   3 seats
+*   Standard Support
+
+Growth
+------
+
+500,000 credits per month
+
+$333/month
+
+$4788/yr$3990/yr (Billed annually)
+
+*   Scrape 500,000 pages\*
+*   1000 /scrape per min
+*   50 /crawl per min
+*   5 seats
+*   Priority Support
+
+Add-ons
+-------
+
+### Auto Recharge Credits
+
+Automatically recharge your credits when you run low.
+
+$11per 1000 credits
+
+Subscribe to a plan to enable auto recharge
+
+### Credit Pack
+
+Purchase a pack of additional monthly credits.
+
+$9/mo for 1000 credits
+
+Subscribe to a plan to purchase credit packs
+
+Enterprise Plan
+---------------
+
+Unlimited credits. Custom RPMs.
+
+*   Bulk discounts
+*   Top priority support
+*   Custom concurrency limits
+*   Feature Acceleration
+*   SLAs
+*   Custom seats
+
+\* a /scrape refers to the [scrape](https://docs.firecrawl.dev/api-reference/endpoint/scrape) API endpoint. Structured extraction costs vary. See [credits table](https://www.firecrawl.dev/pricing#credits).
+
+\* a /crawl refers to the [crawl](https://docs.firecrawl.dev/api-reference/endpoint/crawl) API endpoint.
+
+Ready to _Build?_
+-----------------
+
+Start scraping web data for your AI apps today.  
+No credit card needed.
+
+FAQ
+---
+
+Frequently asked questions about Firecrawl
+
+#### General
+
+What is Firecrawl?Firecrawl turns entire websites into clean, LLM-ready markdown or structured data. Scrape, crawl and extract the web with a single API. Ideal for AI companies looking to empower their LLM applications with web data.
+
+What sites work?Firecrawl is best suited for business websites, docs and help centers. We currently don't support social media platforms.
+
+Who can benefit from using Firecrawl?Firecrawl is tailored for LLM engineers, data scientists, AI researchers, and developers looking to harness web data for training machine learning models, market research, content aggregation, and more. It simplifies the data preparation process, allowing professionals to focus on insights and model development.
+
+Is Firecrawl open-source?Yes, it is. You can check out the repository on GitHub. Keep in mind that this repository is currently in its early stages of development. We are in the process of merging custom modules into this mono repository.
+
+What is the difference between Firecrawl and other web scrapers?Firecrawl is designed with reliability and AI-ready data in mind. We focus on delivering data reliably and in a LLM-ready format - so you can spend less tokens and build better AI applications.
+
+What is the difference between the open-source version and the hosted version?Firecrawl's hosted version features Fire-engine which is our proprietary scraper that takes care of proxies, anti-bot mechanisms and more. It is an intelligent scraper designed to get the data you need - reliably. The hosted version also allows for actions (interacting with the page before scraping), a dashboard for analytics, and it is 1 API call away.
+
+#### Scraping & Crawling
+
+How does Firecrawl handle dynamic content on websites?Unlike traditional web scrapers, Firecrawl is equipped to handle dynamic content rendered with JavaScript. It ensures comprehensive data collection from all accessible subpages, making it a reliable tool for scraping websites that rely heavily on JS for content delivery.
+
+Why is it not crawling all the pages?There are a few reasons why Firecrawl may not be able to crawl all the pages of a website. Some common reasons include rate limiting, and anti-scraping mechanisms, disallowing the crawler from accessing certain pages. If you're experiencing issues with the crawler, please reach out to our support team at help@firecrawl.com.
+
+Can Firecrawl crawl websites without a sitemap?Yes, Firecrawl can access and crawl all accessible subpages of a website, even in the absence of a sitemap. This feature enables users to gather data from a wide array of web sources with minimal setup.
+
+What formats can Firecrawl convert web data into?Firecrawl specializes in converting web data into clean, well-formatted markdown. This format is particularly suited for LLM applications, offering a structured yet flexible way to represent web content.
+
+How does Firecrawl ensure the cleanliness of the data?Firecrawl employs advanced algorithms to clean and structure the scraped data, removing unnecessary elements and formatting the content into readable markdown. This process ensures that the data is ready for use in LLM applications without further preprocessing.
+
+Is Firecrawl suitable for large-scale data scraping projects?Absolutely. Firecrawl offers various pricing plans, including a Scale plan that supports scraping of millions of pages. With features like caching and scheduled syncs, it's designed to efficiently handle large-scale data scraping and continuous updates, making it ideal for enterprises and large projects.
+
+Does it respect robots.txt?Yes, Firecrawl crawler respects the rules set in a website's robots.txt file. If you notice any issues with the way Firecrawl interacts with your website, you can adjust the robots.txt file to control the crawler's behavior. Firecrawl user agent name is 'FirecrawlAgent'. If you notice any behavior that is not expected, please let us know at help@firecrawl.com.
+
+What measures does Firecrawl take to handle web scraping challenges like rate limits and caching?Firecrawl is built to navigate common web scraping challenges, including stealth proxies, rate limits, and smart wait. It smartly manages requests and employs techniques to minimize bandwidth usage and avoid triggering anti-scraping mechanisms, ensuring reliable data collection.
+
+Does Firecrawl handle captcha or authentication?Firecrawl avoids captcha by using stealth proxies. When it encounters captcha, it attempts to solve it automatically, but this is not always possible. We are working to add support for more captcha solving methods. Firecrawl can handle authentication by providing auth headers to the API.
+
+#### API Related
+
+Where can I find my API key?Click on the dashboard button on the top navigation menu when logged in and you will find your API key in the main screen and under API Keys.
+
+#### Billing
+
+Is Firecrawl free?Firecrawl is free for the first 500 scraped pages (500 free credits). After that, you can upgrade to our Standard or Growth plans for more credits and higher rate limits.
+
+Is there a pay per use plan instead of monthly?We currently do notoffer a pay per use plan, instead you can upgrade to our Standard or Growth plans for more credits and higher rate limits.
+
+How many credit does scraping, crawling, and extraction cost?Scraping costs 1 credit per page. Crawling costs 1 credit per page. Check out the credits table in the pricing page for more details.
+
+Do you charge for failed requests (scrape, crawl, extract)?We do not charge for any failed requests (scrape, crawl, extract). Please contact support at help@firecrawl.com if you have notice something wrong.
+
+What payment methods do you accept?We accept payments through Stripe which accepts most major credit cards, debit cards, and PayPal.
+
+## Metadata
+
+```json
+{
+  "title": "Firecrawl",
+  "description": "Firecrawl crawls and converts any website into clean markdown.",
+  "url": "https://www.firecrawl.dev/",
+  "content": "![Image 72: Example Webpage](https://www.firecrawl.dev/multiple-websites.png)\n\nCrawl, Scrape, Clean\n--------------------\n\nWe crawl all accessible subpages and give you clean markdown for each. No sitemap required.\n\n```\n\n  [\n    {\n      \"url\": \"https://www.firecrawl.dev/\",\n      \"markdown\": \"## Welcome to Firecrawl\n        Firecrawl is a web scraper that allows you to extract the content of a webpage.\"\n    },\n    {\n      \"url\": \"https://www.firecrawl.dev/features\",\n      \"markdown\": \"## Features\n        Discover how Firecrawl's cutting-edge features can \n        transform your data operations.\"\n    },\n    {\n      \"url\": \"https://www.firecrawl.dev/pricing\",\n      \"markdown\": \"## Pricing Plans\n        Choose the perfect plan that fits your needs.\"\n    },\n    {\n      \"url\": \"https://www.firecrawl.dev/about\",\n      \"markdown\": \"## About Us\n        Learn more about Firecrawl's mission and the \n        team behind our innovative platform.\"\n    }\n  ]\n  \n```\n\nNote: The markdown has been edited for display purposes.\n\nTrusted by Top Companies\n------------------------\n\nIntegrate today\n---------------\n\nEnhance your applications with top-tier web scraping and crawling capabilities.\n\n#### Use well-known tools\n\nAlready fully integrated with the greatest existing tools and workflows.\n\n[![Image 73: LlamaIndex](https://www.firecrawl.dev/logos/llamaindex.svg)](https://docs.llamaindex.ai/en/stable/examples/data_connectors/WebPageDemo/#using-firecrawl-reader/)[![Image 74: Langchain](https://www.firecrawl.dev/integrations/langchain.png)](https://python.langchain.com/v0.2/docs/integrations/document_loaders/firecrawl/)[![Image 75: Dify](https://www.firecrawl.dev/logos/dify.png)](https://dify.ai/blog/dify-ai-blog-integrated-with-firecrawl/)[![Image 76: Dify](https://www.firecrawl.dev/integrations/langflow_2.png)](https://www.langflow.org/)[![Image 77: Flowise](https://www.firecrawl.dev/integrations/flowise.png)](https://flowiseai.com/)[![Image 78: CrewAI](https://www.firecrawl.dev/integrations/crewai.png)](https://crewai.com/)[![Image 79: Camel AI](https://www.firecrawl.dev/integrations/camel-ai.png)](https://docs.camel-ai.org/cookbooks/ingest_data_from_websites_with_Firecrawl.html)\n\n#### Start for free, scale easily\n\nKick off your journey for free and scale seamlessly as your project expands.\n\n[Try it out](https://www.firecrawl.dev/signin/signup)\n\n#### Open-source\n\nDeveloped transparently and collaboratively. Join our community of contributors.\n\n[Check out our repo](https://github.com/mendableai/firecrawl)\n\nWe handle the hard stuff\n------------------------\n\nRotating proxies, orchestration, rate limits, js-blocked content and more\n\n#### Crawling\n\nFirecrawl crawls all accessible subpages, even without a sitemap.\n\n#### Dynamic content\n\nFirecrawl gathers data even if a website uses javascript to render content.\n\n#### To Markdown\n\nFirecrawl returns clean, well formatted markdown - ready for use in LLM applications\n\n#### Reliability first\n\nReliability is our core focus. Firecrawl is designed to ensure you get all the data you need.\n\n#### No Caching\n\nFirecrawl doesn't cache content by default. You always get the latest data.\n\n#### Built for AI\n\nBuilt by LLM engineers, for LLM engineers. Giving you clean data the way you want it.\n\n#### Smart Wait\n\nFirecrawl can intelligently wait for content to load, making scraping faster and more reliable.\n\n#### Actions\n\nClick, scroll, write, wait, press and more before extracting content.\n\n#### Media Parsing\n\nFirecrawl can parse and output clean content from web hosted pdfs, docx, images and more.\n\nOur wall of love\n\nDon't take our word for it\n--------------------------\n\nFlexible Pricing\n----------------\n\nStart for free, then scale as you grow\n\nMonthly\n\nYearly\n\n20% off\\- 2 months free\n\nFree Plan\n---------\n\n500 credits\n\n$0 one-time\n\nNo credit card required\n\n*   Scrape 500 pages\n*   10 /scrape per min\n*   1 /crawl per min\n\nHobby\n-----\n\n3,000 credits per month\n\n$16/month\n\n$228/yr$190/yr (Billed annually)\n\n*   Scrape 3,000 pages\\*\n*   20 /scrape per min\n*   3 /crawl per min\n*   1 seat\n\nStandardMost Popular\n--------------------\n\n100,000 credits per month\n\n$83/month\n\n$1188/yr$990/yr (Billed annually)\n\n*   Scrape 100,000 pages\\*\n*   100 /scrape per min\n*   10 /crawl per min\n*   3 seats\n*   Standard Support\n\nGrowth\n------\n\n500,000 credits per month\n\n$333/month\n\n$4788/yr$3990/yr (Billed annually)\n\n*   Scrape 500,000 pages\\*\n*   1000 /scrape per min\n*   50 /crawl per min\n*   5 seats\n*   Priority Support\n\nAdd-ons\n-------\n\n### Auto Recharge Credits\n\nAutomatically recharge your credits when you run low.\n\n$11per 1000 credits\n\nSubscribe to a plan to enable auto recharge\n\n### Credit Pack\n\nPurchase a pack of additional monthly credits.\n\n$9/mo for 1000 credits\n\nSubscribe to a plan to purchase credit packs\n\nEnterprise Plan\n---------------\n\nUnlimited credits. Custom RPMs.\n\n*   Bulk discounts\n*   Top priority support\n*   Custom concurrency limits\n*   Feature Acceleration\n*   SLAs\n*   Custom seats\n\n\\* a /scrape refers to the [scrape](https://docs.firecrawl.dev/api-reference/endpoint/scrape) API endpoint. Structured extraction costs vary. See [credits table](https://www.firecrawl.dev/pricing#credits).\n\n\\* a /crawl refers to the [crawl](https://docs.firecrawl.dev/api-reference/endpoint/crawl) API endpoint.\n\nReady to _Build?_\n-----------------\n\nStart scraping web data for your AI apps today.  \nNo credit card needed.\n\nFAQ\n---\n\nFrequently asked questions about Firecrawl\n\n#### General\n\nWhat is Firecrawl?Firecrawl turns entire websites into clean, LLM-ready markdown or structured data. Scrape, crawl and extract the web with a single API. Ideal for AI companies looking to empower their LLM applications with web data.\n\nWhat sites work?Firecrawl is best suited for business websites, docs and help centers. We currently don't support social media platforms.\n\nWho can benefit from using Firecrawl?Firecrawl is tailored for LLM engineers, data scientists, AI researchers, and developers looking to harness web data for training machine learning models, market research, content aggregation, and more. It simplifies the data preparation process, allowing professionals to focus on insights and model development.\n\nIs Firecrawl open-source?Yes, it is. You can check out the repository on GitHub. Keep in mind that this repository is currently in its early stages of development. We are in the process of merging custom modules into this mono repository.\n\nWhat is the difference between Firecrawl and other web scrapers?Firecrawl is designed with reliability and AI-ready data in mind. We focus on delivering data reliably and in a LLM-ready format - so you can spend less tokens and build better AI applications.\n\nWhat is the difference between the open-source version and the hosted version?Firecrawl's hosted version features Fire-engine which is our proprietary scraper that takes care of proxies, anti-bot mechanisms and more. It is an intelligent scraper designed to get the data you need - reliably. The hosted version also allows for actions (interacting with the page before scraping), a dashboard for analytics, and it is 1 API call away.\n\n#### Scraping & Crawling\n\nHow does Firecrawl handle dynamic content on websites?Unlike traditional web scrapers, Firecrawl is equipped to handle dynamic content rendered with JavaScript. It ensures comprehensive data collection from all accessible subpages, making it a reliable tool for scraping websites that rely heavily on JS for content delivery.\n\nWhy is it not crawling all the pages?There are a few reasons why Firecrawl may not be able to crawl all the pages of a website. Some common reasons include rate limiting, and anti-scraping mechanisms, disallowing the crawler from accessing certain pages. If you're experiencing issues with the crawler, please reach out to our support team at help@firecrawl.com.\n\nCan Firecrawl crawl websites without a sitemap?Yes, Firecrawl can access and crawl all accessible subpages of a website, even in the absence of a sitemap. This feature enables users to gather data from a wide array of web sources with minimal setup.\n\nWhat formats can Firecrawl convert web data into?Firecrawl specializes in converting web data into clean, well-formatted markdown. This format is particularly suited for LLM applications, offering a structured yet flexible way to represent web content.\n\nHow does Firecrawl ensure the cleanliness of the data?Firecrawl employs advanced algorithms to clean and structure the scraped data, removing unnecessary elements and formatting the content into readable markdown. This process ensures that the data is ready for use in LLM applications without further preprocessing.\n\nIs Firecrawl suitable for large-scale data scraping projects?Absolutely. Firecrawl offers various pricing plans, including a Scale plan that supports scraping of millions of pages. With features like caching and scheduled syncs, it's designed to efficiently handle large-scale data scraping and continuous updates, making it ideal for enterprises and large projects.\n\nDoes it respect robots.txt?Yes, Firecrawl crawler respects the rules set in a website's robots.txt file. If you notice any issues with the way Firecrawl interacts with your website, you can adjust the robots.txt file to control the crawler's behavior. Firecrawl user agent name is 'FirecrawlAgent'. If you notice any behavior that is not expected, please let us know at help@firecrawl.com.\n\nWhat measures does Firecrawl take to handle web scraping challenges like rate limits and caching?Firecrawl is built to navigate common web scraping challenges, including stealth proxies, rate limits, and smart wait. It smartly manages requests and employs techniques to minimize bandwidth usage and avoid triggering anti-scraping mechanisms, ensuring reliable data collection.\n\nDoes Firecrawl handle captcha or authentication?Firecrawl avoids captcha by using stealth proxies. When it encounters captcha, it attempts to solve it automatically, but this is not always possible. We are working to add support for more captcha solving methods. Firecrawl can handle authentication by providing auth headers to the API.\n\n#### API Related\n\nWhere can I find my API key?Click on the dashboard button on the top navigation menu when logged in and you will find your API key in the main screen and under API Keys.\n\n#### Billing\n\nIs Firecrawl free?Firecrawl is free for the first 500 scraped pages (500 free credits). After that, you can upgrade to our Standard or Growth plans for more credits and higher rate limits.\n\nIs there a pay per use plan instead of monthly?We currently do notoffer a pay per use plan, instead you can upgrade to our Standard or Growth plans for more credits and higher rate limits.\n\nHow many credit does scraping, crawling, and extraction cost?Scraping costs 1 credit per page. Crawling costs 1 credit per page. Check out the credits table in the pricing page for more details.\n\nDo you charge for failed requests (scrape, crawl, extract)?We do not charge for any failed requests (scrape, crawl, extract). Please contact support at help@firecrawl.com if you have notice something wrong.\n\nWhat payment methods do you accept?We accept payments through Stripe which accepts most major credit cards, debit cards, and PayPal.",
+  "usage": {
+    "tokens": 2504
+  }
+}
+```

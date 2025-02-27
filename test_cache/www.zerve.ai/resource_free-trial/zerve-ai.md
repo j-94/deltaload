@@ -1,0 +1,105 @@
+---
+title: Zerve AI
+description: Data Science & AI Development Platform
+url: https://www.zerve.ai/resource/free-trial
+timestamp: 2025-01-20T16:16:48.597Z
+domain: www.zerve.ai
+path: resource_free-trial
+---
+
+# Zerve AI
+
+
+Data Science & AI Development Platform
+
+
+## Content
+
+Zerve AI
+===============
+
+[![Image 31: Zerve AI](https://www.zerve.ai/zerve.svg)](https://www.zerve.ai/)
+
+*   Product![Image 32: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)
+    
+    [![Image 33: Zerve Architecture](https://www.zerve.ai/assets/dropdown-menu/architecture.svg) * IDE for LLMs Develop on GPUs, deploy to production](https://www.zerve.ai/ide-for-llms)
+    
+    *   [![Image 34: IDE for LLMs](https://www.zerve.ai/assets/dropdown-menu/llm-icon.svg) IDE For LLMs Build, Fine-tune and Deploy like never before](https://www.zerve.ai/ide-for-llms)
+    *   [![Image 35: Why Zerve](https://www.zerve.ai/assets/dropdown-menu/why-zerve.svg) Why Zerve Learn more about Zerve’s differentiators and benefits.](https://www.zerve.ai/why-zerve)
+    *   [![Image 36: Platform Features](https://www.zerve.ai/assets/dropdown-menu/platform-features.svg) Platform Features Explore all features and see how can you use it.](https://www.zerve.ai/platform-features)
+    *   [![Image 37: Architecture](https://www.zerve.ai/assets/dropdown-menu/architecture-icon.svg) Architecture The foundational change in Data Science & AI Engineering.](https://www.zerve.ai/architecture)
+    *   [![Image 38: Integrations](https://www.zerve.ai/assets/dropdown-menu/integrations.svg) Integrations Discover how to get the most out of available integrations.](https://www.zerve.ai/integrations)
+    
+*   [Pricing](https://www.zerve.ai/pricing)
+    
+*   Resources![Image 39: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)
+    
+    *   [![Image 40: Blog](https://www.zerve.ai/assets/dropdown-menu/blog.svg) Blog Read Zerve’s articles and latest industry news and trends.](https://www.zerve.ai/blog)
+    *   [![Image 41: Documentation](https://www.zerve.ai/assets/dropdown-menu/documentation.svg) Documentation Get help for starting and using Zerve platform.](https://docs.zerve.ai/guide)
+    
+*   Company![Image 42: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)
+    
+    *   [![Image 43: About Zerve](https://www.zerve.ai/assets/dropdown-menu/about-zerve.svg) About Zerve Learn more about company and its vision for the future.](https://www.zerve.ai/about)
+    *   [![Image 44: Contact Us](https://www.zerve.ai/assets/dropdown-menu/contact.svg) Contact Us Can’t find answer on your questions? Feel free to contact us.](https://www.zerve.ai/contact)
+    
+
+[Start Free Trial](https://www.zerve.ai/free-trial)[Book a Call](https://www.zerve.ai/contact)
+
+*   Product![Image 45: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)
+    
+*   Pricing
+    
+*   Resources![Image 46: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)
+    
+*   Company![Image 47: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)
+    
+*   [Start Free Trial](https://www.zerve.ai/free-trial)[Book a Call](https://www.zerve.ai/contact)
+    
+
+[![Image 48: Zerve AI](https://www.zerve.ai/zerve.svg)](https://www.zerve.ai/)
+
+Data Science & AI Development Platform
+
+Platform
+
+*   [Why Zerve?](https://www.zerve.ai/why-zerve)
+*   [Architecture](https://www.zerve.ai/architecture)
+*   [Platform Features](https://www.zerve.ai/platform-features)
+*   [Integrations](https://www.zerve.ai/integrations)
+
+Pricing
+
+*   [Pricing](https://www.zerve.ai/pricing)
+
+Resources
+
+*   [Blog](https://www.zerve.ai/blog)
+*   [Documentation](https://docs.zerve.ai/guide)
+
+Company
+
+*   [About](https://www.zerve.ai/about)
+*   [Contact](https://www.zerve.ai/contact)
+*   [![Image 49: Zerve Github](https://www.zerve.ai/assets/github.svg)](https://github.com/Zerve-AI)[![Image 50: Zerve LinkedIn](https://www.zerve.ai/assets/linkedin.svg)](https://www.linkedin.com/company/zerve-ai/)[![Image 51: Zerve Discord](https://www.zerve.ai/assets/discord.svg)](https://discord.gg/AMF7rrs3hP)[![Image 52: Zerve Something](https://www.zerve.ai/assets/book.svg)](https://docs.zerve.ai/guide)
+
+Subscribe to our Newsletter
+
+![Image 53: Confirm email](https://www.zerve.ai/assets/confirmArrow.svg)
+
+© 2025 Zerve AI Ltd. All rights reserved.
+
+[Privacy Policy](https://docs.zerve.ai/privacy-policy)[Cookies Policy](https://docs.zerve.ai/cookie-policy)
+
+## Metadata
+
+```json
+{
+  "title": "Zerve AI",
+  "description": "Data Science & AI Development Platform",
+  "url": "https://www.zerve.ai/resource/free-trial",
+  "content": "Zerve AI\n===============\n\n[![Image 31: Zerve AI](https://www.zerve.ai/zerve.svg)](https://www.zerve.ai/)\n\n*   Product![Image 32: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)\n    \n    [![Image 33: Zerve Architecture](https://www.zerve.ai/assets/dropdown-menu/architecture.svg) * IDE for LLMs Develop on GPUs, deploy to production](https://www.zerve.ai/ide-for-llms)\n    \n    *   [![Image 34: IDE for LLMs](https://www.zerve.ai/assets/dropdown-menu/llm-icon.svg) IDE For LLMs Build, Fine-tune and Deploy like never before](https://www.zerve.ai/ide-for-llms)\n    *   [![Image 35: Why Zerve](https://www.zerve.ai/assets/dropdown-menu/why-zerve.svg) Why Zerve Learn more about Zerve’s differentiators and benefits.](https://www.zerve.ai/why-zerve)\n    *   [![Image 36: Platform Features](https://www.zerve.ai/assets/dropdown-menu/platform-features.svg) Platform Features Explore all features and see how can you use it.](https://www.zerve.ai/platform-features)\n    *   [![Image 37: Architecture](https://www.zerve.ai/assets/dropdown-menu/architecture-icon.svg) Architecture The foundational change in Data Science & AI Engineering.](https://www.zerve.ai/architecture)\n    *   [![Image 38: Integrations](https://www.zerve.ai/assets/dropdown-menu/integrations.svg) Integrations Discover how to get the most out of available integrations.](https://www.zerve.ai/integrations)\n    \n*   [Pricing](https://www.zerve.ai/pricing)\n    \n*   Resources![Image 39: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)\n    \n    *   [![Image 40: Blog](https://www.zerve.ai/assets/dropdown-menu/blog.svg) Blog Read Zerve’s articles and latest industry news and trends.](https://www.zerve.ai/blog)\n    *   [![Image 41: Documentation](https://www.zerve.ai/assets/dropdown-menu/documentation.svg) Documentation Get help for starting and using Zerve platform.](https://docs.zerve.ai/guide)\n    \n*   Company![Image 42: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)\n    \n    *   [![Image 43: About Zerve](https://www.zerve.ai/assets/dropdown-menu/about-zerve.svg) About Zerve Learn more about company and its vision for the future.](https://www.zerve.ai/about)\n    *   [![Image 44: Contact Us](https://www.zerve.ai/assets/dropdown-menu/contact.svg) Contact Us Can’t find answer on your questions? Feel free to contact us.](https://www.zerve.ai/contact)\n    \n\n[Start Free Trial](https://www.zerve.ai/free-trial)[Book a Call](https://www.zerve.ai/contact)\n\n*   Product![Image 45: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)\n    \n*   Pricing\n    \n*   Resources![Image 46: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)\n    \n*   Company![Image 47: dropdown menu](https://www.zerve.ai/assets/chevron-down.svg)\n    \n*   [Start Free Trial](https://www.zerve.ai/free-trial)[Book a Call](https://www.zerve.ai/contact)\n    \n\n[![Image 48: Zerve AI](https://www.zerve.ai/zerve.svg)](https://www.zerve.ai/)\n\nData Science & AI Development Platform\n\nPlatform\n\n*   [Why Zerve?](https://www.zerve.ai/why-zerve)\n*   [Architecture](https://www.zerve.ai/architecture)\n*   [Platform Features](https://www.zerve.ai/platform-features)\n*   [Integrations](https://www.zerve.ai/integrations)\n\nPricing\n\n*   [Pricing](https://www.zerve.ai/pricing)\n\nResources\n\n*   [Blog](https://www.zerve.ai/blog)\n*   [Documentation](https://docs.zerve.ai/guide)\n\nCompany\n\n*   [About](https://www.zerve.ai/about)\n*   [Contact](https://www.zerve.ai/contact)\n*   [![Image 49: Zerve Github](https://www.zerve.ai/assets/github.svg)](https://github.com/Zerve-AI)[![Image 50: Zerve LinkedIn](https://www.zerve.ai/assets/linkedin.svg)](https://www.linkedin.com/company/zerve-ai/)[![Image 51: Zerve Discord](https://www.zerve.ai/assets/discord.svg)](https://discord.gg/AMF7rrs3hP)[![Image 52: Zerve Something](https://www.zerve.ai/assets/book.svg)](https://docs.zerve.ai/guide)\n\nSubscribe to our Newsletter\n\n![Image 53: Confirm email](https://www.zerve.ai/assets/confirmArrow.svg)\n\n© 2025 Zerve AI Ltd. All rights reserved.\n\n[Privacy Policy](https://docs.zerve.ai/privacy-policy)[Cookies Policy](https://docs.zerve.ai/cookie-policy)",
+  "usage": {
+    "tokens": 1148
+  }
+}
+```

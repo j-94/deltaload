@@ -1,0 +1,156 @@
+Tailwind Play
+===============
+
+  
+
+ShareLoadingCopied!
+
+v3.4.15
+
+Switch to vertical split layoutSwitch to horizontal split layoutSwitch to preview-only layoutToggle responsive design mode
+
+Switch to dark themeSwitch to light theme
+
+HTMLCSSConfig
+
+Loading
+
+Tidy, and focus editor
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+<!--
+
+  Welcome to Tailwind Play, the official Tailwind 
+
+  CSS playground!
+
+  Everything here works just like it does when 
+
+  you're running Tailwind locally
+
+  with a real build pipeline. You can customize 
+
+  your config file, use features
+
+  like \`@apply\`, or even add third-party plugins.
+
+  Feel free to play with this example if you're 
+
+  just learning, or trash it and
+
+  start from scratch if you know enough to be 
+
+  dangerous. Have fun!
+
+\--\>
+
+<div class\="relative flex min-h-screen flex-col 
+
+justify-center overflow-hidden bg-gray-50 py-6 
+
+sm:py-12"\>
+
+  <img src\="/img/beams.jpg" alt\="" 
+
+  class\="absolute top-1/2 left-1/2 max-w-none 
+
+  \-translate-x-1/2 \-translate-y-1/2" width\="1308" 
+
+  /\>
+
+  <div class\="absolute inset-0 bg-\[url(/img/grid.
+
+  svg)\] bg-center \[mask-image:linear-gradient
+
+  (180deg,white,rgba(255,255,255,0))\]"\></div\>
+
+  <div class\="relative bg-white px-6 pt-10 pb-8 
+
+  shadow-xl ring-1 ring-gray-900/5 sm:mx-auto 
+
+  sm:max-w-lg sm:rounded-lg sm:px-10"\>
+
+    <div class\="mx-auto max-w-md"\>
+
+      <img src\="/img/logo.svg" class\="h-6" 
+
+      alt\="Tailwind Play" /\>
+
+      <div class\="divide-y divide-gray-300/50"\>
+
+        <div class\="space-y-6 py-8 text-base 
+
+        leading-7 text-gray-600"\>
+
+          <p\>An advanced online playground for 
+
+          Tailwind CSS, including support for 
+
+          things like:</p\>
+
+          <ul class\="space-y-4"\>
+
+            <li class\="flex items-center"\>
+
+              <svg class\="h-6 w-6 flex-none 
+
+              fill-sky-100 stroke-sky-500 
+
+              stroke-2" stroke-linecap\="round" 
+
+Enter to Rename, Shift+Enter to Preview
+
+Copy, then focus editor
+
+Generated CSS
+
+All
+
+1
+
+Enter to Rename, Shift+Enter to Preview
+
+Copy, then focus editor

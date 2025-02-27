@@ -1,0 +1,1498 @@
+---
+title: GitKraken Pricing - How Much Do GitKraken Tools Cost
+description: See how free and paid plans compare for GitKraken Git tools, including GitKraken Desktop, GitLens and Git Integration for Jira.
+url: https://www.gitkraken.com/pricing
+timestamp: 2025-01-20T16:18:15.263Z
+domain: www.gitkraken.com
+path: pricing
+---
+
+# GitKraken Pricing - How Much Do GitKraken Tools Cost
+
+
+See how free and paid plans compare for GitKraken Git tools, including GitKraken Desktop, GitLens and Git Integration for Jira.
+
+
+## Content
+
+GitKraken Pricing - How Much Do GitKraken Tools Cost
+===============
+                                                                                                                  
+
+![Image 19](https://www.gitkraken.com/wp-content/uploads/2024/12/Group-21678-1.png)
+
+Now Up To  80% OFF  GitKraken Pro
+
+Take Advantage to Save
+
+![Image 20](https://www.gitkraken.com/wp-content/uploads/2024/12/Vector-Stroke.png)
+
+[![Image 21](https://www.gitkraken.com/wp-content/uploads/2024/11/Group-21666.png)](https://www.gitkraken.com/)
+
+*   [Dev Tools](https://www.gitkraken.com/pricing# "Dev Tools")
+    *   Built for Teams
+        ---------------
+        
+        A DevEx platform that’s built for team velocity & greater collaboration.
+        
+        ![Image 22](https://staging-www.gitkraken.com/wp-content/uploads/2024/09/Vector.svg) Supercharge Your Dev Team \>
+        
+        Enterprise Grade
+        ----------------
+        
+        Solutions designed for large-scale security, privacy & control.
+        
+        ![Image 23](https://staging-www.gitkraken.com/wp-content/uploads/2024/09/Vector-1.svg) Secure Your Dev Team \>
+        
+        Products
+        --------
+        
+        *     [![Image 24](https://www.gitkraken.com/wp-content/uploads/2024/05/gkd-nav.svg) GitKraken Desktop](https://www.gitkraken.com/git-client)
+        *     [![Image 25](https://www.gitkraken.com/wp-content/uploads/2024/11/product-vs-code-rainbow.svg) GitLens for VS Code](https://www.gitkraken.com/gitlens)
+        *     [![Image 26](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-cli-nav.svg) GitKraken CLI](https://www.gitkraken.com/cli)
+        *     [![Image 27](https://www.gitkraken.com/wp-content/uploads/2024/05/Group-19573.svg) GitKraken.dev](https://www.gitkraken.com/gitkraken-dev)
+        *     [![Image 28](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-be-nav.svg) GitKraken Browser Extension](https://www.gitkraken.com/browser-extension)
+        
+        Features
+        --------
+        
+        *   [Git Simplified](https://www.gitkraken.com/features/git-simplified)
+        *   [Individual Productivity](https://www.gitkraken.com/features/individual-productivity)
+        *   [Team Collaboration](https://www.gitkraken.com/features/team-collaboration)
+        *   [PR & Code Review](https://www.gitkraken.com/features/pr-and-code-review)
+        *   [Security & Admin](https://www.gitkraken.com/features/security-and-admin)
+        
+*   [Planning Tools](https://www.gitkraken.com/pricing# "Planning Tools")
+    *   Products
+        --------
+        
+        *     [![Image 29](https://www.gitkraken.com/wp-content/uploads/2024/05/gij-nav.svg) Git Integration for Jira](https://www.gitkraken.com/git-integration-for-jira)
+        *     [![Image 30](https://www.gitkraken.com/wp-content/uploads/2024/05/pricing-nav.svg) Pricing](https://marketplace.atlassian.com/apps/4984/git-integration-for-jira?tab=pricing&utm_campaign=CTA&utm_content=Pricing&utm_medium=Navigation&hosting=cloud)  
+        
+        Features
+        --------
+        
+        *   [Sprint Planning & Execution](https://www.gitkraken.com/features/sprint-planning-execution)
+        *   [Individual Productivity](https://www.gitkraken.com/features/productivity)
+        *   [Dev Visibility](https://www.gitkraken.com/features/visibility)
+        *   [Security & Admin](https://www.gitkraken.com/features/jira-security-and-admin)
+        
+*   [Developer Problems](https://www.gitkraken.com/pricing# "Developer Problems")
+    *   *   [Git Is Complicated](https://www.gitkraken.com/developer-problems/git-is-complicated)
+        *   [PR & Code Review Friction](https://www.gitkraken.com/developer-problems/pr-and-code-review)
+        *   [Context Switching](https://www.gitkraken.com/developer-problems/context-switching)
+        *   [Managing Multiple Repos](https://www.gitkraken.com/developer-problems/manage-multi-repos)
+        *   [Merge Conflicts & Rebasing](https://www.gitkraken.com/developer-problems/merge-conflicts)
+        *   [Branch Management](https://www.gitkraken.com/developer-problems/branch-management)
+        
+        *   [Slow Onboarding](https://www.gitkraken.com/developer-problems/onboarding)
+        *   [Lack of Visibility](https://www.gitkraken.com/developer-problems/visibility)
+        *   [Dev Talent Retention](https://www.gitkraken.com/developer-problems/retaining-dev-talent)
+        *   [Lack of DORA Metrics](https://www.gitkraken.com/developer-problems/velocity-metrics)
+        *   [Lack of Standardization](https://www.gitkraken.com/developer-problems/standardization)
+        *   [Too Many Meetings 😂](https://www.gitkraken.com/developer-problems/meeting-hell)
+        
+*   [Git Resources](https://www.gitkraken.com/pricing# "Git Resources")
+    *   *   [Workshops](https://www.gitkraken.com/workshops)
+        *   [Learn Git Library](https://www.gitkraken.com/learn/git)
+        *   [Git Blog](https://www.gitkraken.com/blog)
+        *   [GitKon ’24](https://gitkon.com/)
+        
+        *   [Sample Customers](https://www.gitkraken.com/sample-customers)
+        *   [Customer Stories](https://www.gitkraken.com/media#customer-stories)
+        *   [Media](https://www.gitkraken.com/media)
+        *   [GitKraken Labs](https://www.gitkraken.com/labs)
+        *   [Help Center](https://help.gitkraken.com/)
+        
+*   [Pricing](https://www.gitkraken.com/pricing "Pricing")
+*   [Sign In](https://gitkraken.dev/login "Sign In")
+
+*   [GitKraken Desktop features](https://www.gitkraken.com/git-client "GitKraken Desktop features")
+*   [GitLens features](https://www.gitkraken.com/gitlens "GitLens features")
+*   [Git Integration for Jira features](https://www.gitkraken.com/git-integration-for-jira "Git Integration for Jira features")
+*   [GiKraken CLI features](https://www.gitkraken.com/cli "GiKraken CLI features")
+*   [Pricing](https://www.gitkraken.com/pricing "Pricing")
+*   [Sign up to start a free trial](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success "Sign up to start a free trial")
+
+Search 
+
+GitKraken Plans & Pricing Calculator [Calculate Your ROI \>](https://www.gitkraken.com/roi)
+===========================================================================================
+
+ User Seats 
+
+1
+
+50
+
+100
+
+500
+
+999
+
+ Need SSO?
+
+GitKraken Pro
+-------------
+
+For individual devs & small teams - up to 10 seats
+
+Unavailable for the selected seat count **$** per month,  
+paid annually
+
+[Buy Pro](https://gitkraken.dev/purchase?planType=PRO&promoCode=GKHOLIDAY&planQuantity=1) Features
+
+*   Includes GitKraken Desktop, GitLens, GitKraken CLI, GitKraken.dev, and Browser Extension
+*   All cloud Git integrations Connect to non-enterprise, cloud integrations from GitHub, GitLab, Azure DevOps & Bitbucket
+*   1 self-hosted Git integration Connect to one self-hosted Git integration (in GitKraken Desktop, we support one self-hosted Git integration per Profile)
+*   1 issue tracker integration Connect to one issue tracker integration (in GitKraken Desktop, we support one issue tracker integration per Profile)
+*   Shared Cloud Workspaces Create & share Cloud Workspaces with any users in your GitKraken Organization
+*   25 repos in Cloud Workspaces Connect up to 25 unique repos (per GitKraken Org) to your Cloud Workspaces
+*   Code Suggest preview Suggest code changes from a GitHub Pull Request in GitKraken Desktop and send to team members. Code suggestions are accessible from GitKraken.dev, GitKraken CLI, and GitLens in VS Code.
+*   Cloud Patches preview While in preview, securely share unlimited Cloud Patches with anyone at your company
+*   Basic Launchpad View, prioritize and act upon all your PR's, issues and WIPs (including ability to pin and snooze each item)
+*   Multiple profiles Switch between different sets of Git configurations, integrations, and app settings (available only in GitKraken Desktop)
+*   Timely email support Email support from GitKraken's team (no bots!)
+
+GitKraken Teams
+---------------
+
+For mid-sized teams & orgs - up to 100 seats
+
+Unavailable for the selected seat count **$** per month,  
+paid annually
+
+[Buy Teams](https://gitkraken.dev/purchase?planType=TEAMS&planQuantity=1) Everything in Pro, plus
+
+*   All Git and issue tracker integrations Connect to all supported Git & issue tracker integrations (cloud or self-hosted)
+*   Create & manage up to 10 teams Collaborate across up to 10 Teams within your GitKraken Org
+*   250 repos in Cloud Workspaces Connect up to 250 unique repos (per GitKraken Org) to your Cloud Workspaces
+*   Code Suggest preview Suggest code changes from a GitHub Pull Request in GitKraken Desktop and send to team members. Code suggestions are accessible from GitKraken.dev, GitKraken CLI, and GitLens in VS Code
+*   AI Security Controls Enable or disable AI commit message generation for your entire organization
+*   Cloud Patches preview Securely share unlimited Cloud Patches with anyone at your company (advanced controls coming soon)
+*   Private storage for Cloud Patches coming soon Dedicated cloud environment for all your Cloud Patches to enable enhanced security and control
+*   7 days of Insights & DORA metrics Measure how fast your pull requests get merged into your repos with metrics like Cycle Time, Throughput and more
+*   Advanced Launchpad coming soon Advanced capabilities like scheduled snoozing, nudging, smart routing of PR reviews, accept or decline requests for reviews, etc.
+*   SSO for 1 domain SSO with Azure Entra (AD), Okta, Google, Ping Identity, and other providers supporting SAML 2.0
+*   Priority support Onboarding assistance, as well as troubleshooting and how-to support via email or chat from GitKraken's team
+
+GitKraken Enterprise
+--------------------
+
+For large teams & orgs - unlimited seats
+
+Unavailable for the selected seat count **$** per month,  
+paid annually
+
+[Buy Enterprise](https://gitkraken.dev/purchase?planType=ENTERPRISE&planQuantity=1) Everything in Teams, plus
+
+*   Create & manage unlimited teams Collaborate across unlimited Teams within your GitKraken Org
+*   2500 repos in Cloud Workspaces Connect up to 2,500 unique repos (per GitKraken Org) to your Cloud Workspaces
+*   Code Suggest preview Suggest code changes from a GitHub Pull Request in GitKraken Desktop and send to team members. Code suggestions are accessible from GitKraken.dev, GitKraken CLI, and GitLens in VS Code
+*   Cloud Patches preview Securely share unlimited Cloud Patches with anyone at your company (unlimited usage and advanced controls coming soon)
+*   Self-hosted storage for Cloud Patches Self-managed environment for your Cloud Patches for highest level of security and control
+*   14 days of Insights & DORA metrics Measure how fast your pull requests get merged into your repos with metrics like Cycle Time, Throughput and more
+*   Advanced SSO for multiple domains SSO with Azure Entra (AD), Okta, Google, Ping Identity, and other providers supporting SAML 2.0. Manage multiple domains under one GitKraken organization
+*   SCIM provisioning coming soon Supports standard-based provisioning via SCIM (System for Cross-domain Identity Management)
+*   Premium setup, onboarding and support Tailored onboarding & training for new team members, as well as troubleshooting and how-to support directly from GitKraken's team
+*   Alternate payment & ordering options available Pay via Purchase Order, request custom payment terms
+*   Custom responses to security questionnaires Beyond our privacy & security policies, we'll work with you to answer custom questions about how we secure customers' data
+*   Foundations of Git training and certification
+
+Note: info on GitKraken On-Premise is [here](https://www.gitkraken.com/git-client/on-premise-pricing)
+
+Use GitKraken Desktop **free** forever
+
+For solo devs on public & local repos only
+
+[Start free GitKraken Pro trial](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success)
+
+Try **free** as a team for 30 days
+
+Unlimited users, includes all features, setup & support
+
+  [Start Multi-User Trial](https://gitkraken.dev/trial/launch)
+
+GitKraken Desktop
+
+GitLens
+
+GitKraken CLI
+
+GitKraken Desktop
+
+| Features | Free | Pro | Teams | Enterprise |
+| --- | --- | --- | --- | --- |
+| Features | 
+##### Free
+
+[Download Free](https://www.gitkraken.com/download)
+
+ | 
+
+##### Pro
+
+[Buy Pro](https://gitkraken.dev/purchase)
+
+ | 
+
+##### Teams
+
+[Buy Teams](https://gitkraken.dev/purchase)
+
+ | 
+
+##### Enterprise
+
+[Buy Enterprise](https://gitkraken.dev/purchase)
+
+ |
+| Repository Access |  |  |  |  |
+| Work with local repos and public remotes
+
+Local and publicly-hosted remote repositories only  
+
+
+ |  |  |  |  |
+| Work with private remotes
+
+Access privately-hosted remote repos  
+
+
+ |  |  |  |  |
+| Git Productivity |  |  |  |  |
+| Local Workspaces
+
+Group your local repos together to view branch status and run Git operations across multiple repos.  
+
+
+ |  |  |  |  |
+| Cloud Workspaces
+
+Create Workspaces that include PR and issue information for all repos.  
+
+
+ |  |  |  |  |
+| Merge Conflict Tool
+
+Easily resolve conflicts with a visual, 3-panel merge tool.  
+
+
+ | Public Repos Only |  |  |  |
+| Merge Conflict Output Editor
+
+Edit the output while resolving conflicts.  
+
+
+ |  |  |  |  |
+| Code Editor
+
+Edit code in the diff view.  
+
+
+ | Public Repos Only |  |  |  |
+| Pull or fetch multiple repos
+
+Group your repos together in a Workspace to access the option to pull or fetch multiple repositories at once.  
+
+
+ |  |  |  |  |
+| Multiple Profiles
+
+Create and switch between different sets of Git configurations, integrations, and app settings.  
+
+
+ |  |  |  |  |
+| Gitflow support
+
+Use Gitflow to start and finish features, releases, and hotfixes.  
+
+
+ | Public Repos Only |  |  |  |
+| Git LFS
+
+Work with LFS in repos with large binary files.  
+
+
+ | Public Repos Only |  |  |  |
+| File history & blame
+
+See changes to a file over time by author.  
+
+
+ | Public Repos Only |  |  |  |
+| View & create pull requests
+
+Use our hosting integrations to create and manage pull requests from within GitKraken Desktop.  
+
+
+ | Public Repos Only |  |  |  |
+| Hiding & soloing
+
+Focus on the branches you want to see in the Commit Graph.  
+
+
+ | Public Repos Only |  |  |  |
+| Auto-Gen SSH key
+
+One-click SSH key generation.  
+
+
+ |  |  |  |  |
+| Git hooks support
+
+Trigger hooks when performing commits, merges, rebases, etc.  
+
+
+ |  |  |  |  |
+| Submodules
+
+Work with repos that have submodules.  
+
+
+ |  |  |  |  |
+| Visual Interactive Rebase
+
+Plan which commits will be re-ordered, edited, squashed or dropped before initiating a rebase.  
+
+
+ | Public Repos Only |  |  |  |
+| One-click undo & redo Git operations | Public Repos Only |  |  |  |
+| Command Palette
+
+Navigate views and perform operations with keyboard commands.  
+
+
+ |  |  |  |  |
+| GPG commit signing
+
+Verify a commit has been signed by selecting a commit and reviewing the sign details in the Commit Panel.  
+
+
+ |  |  |  |  |
+| AI Commit Message Generation – Preview
+
+Generate commit messages from any staged changes.  
+
+
+ |  |  |  |  |
+| Keyboard shortcuts |  |  |  |  |
+| Dark & light themes |  |  |  |  |
+| Team Collaboration |  |  |  |  |
+| Code Suggest (preview)
+
+Suggest code changes from a GitHub Pull Request in GitKraken Desktop and send to team members. Code suggestions are accessible from GitKraken.dev, GitKraken CLI, and GitLens in VS Code.  
+
+
+ |  |  |  |  |
+| Share Cloud Workspaces with teams and individuals
+
+Share Cloud Workspaces with members of your Org for quicker repository provisioning and repo management.  
+
+
+ |  |  |  |  |
+| Cloud Patches (preview)
+
+Securely store patches and share a link that allows collaborators to view, download and apply them.  
+
+
+ |  |  |  |  |
+| GitKraken Insights for Cloud Workspaces
+
+Measure how fast your pull requests are merged with metrics like Cycle Time, Throughput and more.  
+
+
+ |  | View last 7 days | View up to last 14 days | View up to last 14 days |
+| Launchpad
+
+All your pull requests, issues and WIPs in one comprehensive list.  
+
+
+ |  |  |  |  |
+| Launchpad Pinning
+
+Priortize your list of pull requests, issues and WIPs by pinning the most important items to the top of the Launchpad.  
+
+
+ |  |  |  |  |
+| Launchpad Snoozing
+
+Snooze less important items to the Snoozed tab for later.  
+
+
+ |  |  |  |  |
+| Team View in Launchpad
+
+Get visibility on pull requests and issues for all repos in a Cloud Workspace.  
+
+
+ |  |  |  |  |
+| Team View with live activity status in Left Panel
+
+See active branches and file modifications by your team members.  
+
+
+ |  |  |  |  |
+| Predictive merge conflict alerts
+
+Know when you are modifying the same file as another team member.  
+
+
+ |  |  |  |  |
+| Filter commit graph by teams
+
+See only commits made by specific teams in the Commit Graph.  
+
+
+ |  |  |  |  |
+| Share with deep links
+
+Share links that open a repo to a specific workspace, repo, branch or commit.  
+
+
+ |  |  |  |  |
+| Cloud Repo Integrations |  |  |  |  |
+| GitHub
+
+Easily access remotes and create pull requests & issues for GitHub.com.  
+
+
+ | Public Repos Only |  |  |  |
+| GitLab
+
+Easily access remotes and create merge requests for GitLab.com.  
+
+
+ | Public Repos Only |  |  |  |
+| Bitbucket
+
+Easily access remotes and create pull requests for Bitbucket.org.  
+
+
+ | Public Repos Only |  |  |  |
+| Azure DevOps
+
+Easily access remotes and create pull requests for Azure DevOps.  
+
+
+ |  |  |  |  |
+| Self-Hosted Repo Integrations |  |  |  |  |
+| GitHub Enterprise Server
+
+Easily access remotes and create pull requests & issues for GitHub Enterprise Server.  
+
+
+ |  |  |  |  |
+| GitLab Self-Managed
+
+Easily access remotes and create merge requests for GitLab Self-Managed.  
+
+
+ |  |  |  |  |
+| Bitbucket Data Center
+
+Easily access remotes and create pull requests for Bitbucket Data Center.  
+
+
+ |  |  |  |  |
+| Pull Request Management |  |  |  |  |
+| GitHub
+
+View, edit, create and merge GitHub pull requests.  
+
+
+ | Public Repos Only |  |  |  |
+| Issue Tracker Integrations |  |  |  |  |
+| Jira Data Center/Cloud
+
+View, filter, modify and start work from Jira Issues.  
+
+
+ | View Only |  |  |  |
+| Jira App Integration: Git Integration for Jira
+
+Connect to your Git Integration for Jira account to open the commits view in Jira from the diff view in GitKraken Desktop.  
+
+
+ |  |  |  |  |
+| GitHub
+
+View, filter, modify and start work from GitHub.com Issues.  
+
+
+ | Public Repos Only |  |  |  |
+| GitHub Enterprise
+
+View, filter, modify and start work from GitHub Enterprise Issues.  
+
+
+ | View Only |  |  |  |
+| GitLab
+
+View, filter, modify and start work from GitLab.com Issues.  
+
+
+ | Public Repos Only |  |  |  |
+| GitLab Self-Managed
+
+View, filter, modify and start work from GitLab Self-Managed Issues.  
+
+
+ | View Only |  |  |  |
+| Trello
+
+View, filter, modify and start work from Trello Issues.  
+
+
+ | View Only |  |  |  |
+| User, Team & License Management |  |  |  |  |
+| One user license for all machines & OSes
+
+Use your license on multiple machines for Windows, Mac or Linux.  
+
+
+ |  |  |  |  |
+| Maximum Users
+
+Maximum number of licenses you can purchase on this plan.  
+
+
+ | 1 | 10 | 100 | Unlimited |
+| Maximum Teams
+
+Maximum number of teams you can create on this plan.  
+
+
+ |  |  | 10 | Unlimited |
+| One Team Renewal Date; New Team Members are Prorated
+
+All subscriptions renew yearly and new licenses are prorated based on the renewal date.  
+
+
+ |  |  |  | Default |
+| Cloud-Based User Account Management |  |  |  | Default |
+| [On-Premise Solutions (10 user minimum)](https://www.gitkraken.com/git-client/on-premise-pricing)
+
+On-Premise Self-Hosted Server and Serverless options available for license control, and secure air-gapped environments.  
+
+
+ |  |  |  | [Available](https://www.gitkraken.com/git-client/on-premise-pricing) |
+| Admin & Security Controls |  |  |  |  |
+| AI security controls
+
+Enable or disable AI commit message generation for your entire organization.  
+
+
+ |  |  |  |  |
+| Cloud Patch Private Storage (Coming Soon)
+
+Host your organization’s Cloud Patches on a dedicated AWS S3 bucket by GitKraken.  
+
+
+ |  |  |  |  |
+| Cloud Patch Self-Hosted Storage
+
+Host your organization’s Cloud Patches on your own AWS S3 bucket.  
+
+
+ |  |  |  |  |
+| Access Management |  |  |  |  |
+| Single Sign-On
+
+Support for Microsoft Entra (Azure AD), Google Identity Platform, Okta, Ping Identity, and custom SAML  
+
+
+ |  |  |  |  |
+| SAML
+
+Configure SSO with custom SAML  
+
+
+ |  |  |  |  |
+| Multi-Domain SSO
+
+Manage SSO for multiple domains within the same GitKraken organization  
+
+
+ |  |  |  |  |
+| Hosting Login |  |  |  |  |
+| GitHub
+
+Login with your GitHub account and automatically have access to your GitHub repos, PRs and issues.  
+
+
+ |  |  |  |  |
+| GitLab
+
+Login with your GitLab account and automatically have access to your GitLab repos, PRs and issues  
+
+
+ |  |  |  |  |
+| Bitbucket
+
+Login with your Bitbucket account and automatically have access to your Bitbucket repos, PRs and issues.  
+
+
+ |  |  |  |  |
+| Azure DevOps
+
+Login with your Azure account and automatically have access to your Azure repos, PRs and issues.  
+
+
+ |  |  |  |  |
+| Google
+
+Login with your Google credentials.  
+
+
+ |  |  |  |  |
+| Integrated Terminal |  |  |  |  |
+| Git-Enhanced Terminal
+
+Keyboard-first git-enhanced terminal experience found inside a Terminal Tab or Terminal Panel in the GitKraken Desktop.  
+
+
+ | Public Repos Only |  |  |  |
+| Live Synchronized Commit Graph
+
+See the Commit Graph and terminal in the same view.  
+
+
+ | Public Repos Only |  |  |  |
+| CLI Diff View, Blame & History
+
+View the diff, blame or history inside the Terminal tab.  
+
+
+ | Public Repos Only |  |  |  |
+| Auto-suggest & Auto-complete Git Commands
+
+Suggests Git commands and flags with descriptions as you type.  
+
+
+ |  |  |  |  |
+| Support |  |  |  |  |
+| Guaranteed email support
+
+Expect a response from the GitKraken Support team within one business day.  
+
+
+ |  |  |  |  |
+| [Support Documentation](https://help.gitkraken.com/)
+
+Access detailed information about all GitKraken Desktop features from help.gitkraken.com.  
+
+
+ |  |  |  |  |
+| [Resources for Learning Git](https://www.gitkraken.com/learn/git)
+
+Learn about Git concepts through articles, video motion graphics, & visual examples.  
+
+
+ |  |  |  |  |
+| [Git Course & Certification](https://learn.gitkraken.com/)
+
+Ensure your team has a good understanding of Git with this free training course & certification exam.  
+
+
+ |  |  |  |  |
+
+GitLens
+
+|  | Free | Pro | Teams | Enterprise |
+| --- | --- | --- | --- | --- |
+| Features | 
+##### Free
+
+[Install Free](https://www.gitkraken.com/pricing#install-gitlens)
+
+ | 
+
+##### Pro
+
+[Buy Pro](https://gitkraken.dev/purchase)
+
+ | 
+
+##### Teams
+
+[Buy Teams](https://gitkraken.dev/purchase)
+
+ | 
+
+##### Enterprise
+
+[Buy Enterprise](https://gitkraken.dev/purchase)
+
+ |
+| GitLens |  |  |  |  |
+| Current line blame
+
+Unobtrusive current line blame annotation.  
+
+
+ |  |  |  |  |
+| Git CodeLens
+
+Most recent commit and number of authors.  
+
+
+ |  |  |  |  |
+| Status bar blame
+
+Commit details and authorship in the status bar.  
+
+
+ |  |  |  |  |
+| Hovers
+
+Instantly view commit details and more.  
+
+
+ |  |  |  |  |
+| File Blame
+
+Annotations showing Blame.  
+
+
+ |  |  |  |  |
+| File Changes
+
+Annotations showing Changes.  
+
+
+ |  |  |  |  |
+| File Heatmap
+
+Annotations showing Heatmap.  
+
+
+ |  |  |  |  |
+| Revision Navigator
+
+Compare changes over time and view revision history of a file or individual line.  
+
+
+ |  |  |  |  |
+| Interactive Rebase Editor
+
+Easily configure an interactive rebase session.  
+
+
+ |  |  |  |  |
+| Home view |  |  |  |  |
+| Commits views
+
+See your repo’s commit history at a glance.  
+
+
+ |  |  |  |  |
+| Inspect view
+
+See your repo’s commit history at a glance.  
+
+
+ |  |  |  |  |
+| Repositories view
+
+Manage all your repos in one place.  
+
+
+ |  |  |  |  |
+| File History view
+
+See every change made to a file.  
+
+
+ |  |  |  |  |
+| Line History view
+
+Get granular with file changes.  
+
+
+ |  |  |  |  |
+| Branches view
+
+Explore all your branches with ease.  
+
+
+ |  |  |  |  |
+| Remote view
+
+Manage remote branches with ease.  
+
+
+ |  |  |  |  |
+| Stashes view
+
+Access and apply your stashes.  
+
+
+ |  |  |  |  |
+| Tags view
+
+Keep track of your repo’s tags.  
+
+
+ |  |  |  |  |
+| Contributors view
+
+See all contributors at a glance.  
+
+
+ |  |  |  |  |
+| Search & Compare view
+
+Find and compare code in seconds.  
+
+
+ |  |  |  |  |
+| Git Command Palette
+
+Guided (step-by-step) access to many Git commands.  
+
+
+ |  |  |  |  |
+| Autolinks
+
+Link to external references from your commit messages, like Jira issues or Zendesk tickets.  
+
+
+ |  |  |  |  |
+| Terminal integration
+
+Quickly jump to more details for commits, branches, tags, and more.  
+
+
+ |  |  |  |  |
+| Remote provider integrations
+
+GitHub, GitLab, Bitbucket, Azure DevOps, Gerrit, and Gitea  
+
+
+ |  |  |  |  |
+| Pro Commit Graph
+
+Visualize and track all work in progress. Open in-depth information about a commit or stash.  
+
+
+ | Public and local repos |  |  |  |
+| Pro Visual File History
+
+See when changes were made, how large they were, and who made them.  
+
+
+ | Public and local repos |  |  |  |
+| Pro Worktrees
+
+Easily work on different branches of a repository simultaneously.  
+
+
+ | Public and local repos |  |  |  |
+| Pro Launchpad
+
+All your pull requests and issues in one comprehensive list.  
+
+
+ | Public and local repos |  |  |  |
+| Pro Launchpad Pinning
+
+Prioritize your list of pull requests and issues by pinning the most important items to the top of the Launchpad  
+
+
+ | Account required |  |  |  |
+| Pro Launchpad Snoozing
+
+Snooze less important items to the Snoozed tab for later.  
+
+
+ | Account required |  |  |  |
+| Pro Preview Cloud Patches
+
+Securely store, apply, share and collaborate on code-in-progress
+
+ | Account required |  |  |  |
+| Pro Code Suggestions
+
+Suggest code changes from a GitHub Pull Request in GitLens and send to team members. Code suggestions are accessible from GitKraken.dev, GitKraken CLI, and GitKraken Desktop.
+
+ | Account required |  |  |  |
+| Local Workspaces
+
+Easily group, manage, and share multiple repositories, accessible from your local machine  
+
+
+ | Public and local repos |  |  |  |
+| Pro Preview Cloud Workspaces
+
+Easily group, manage, and share multiple repositories, accessible from anywhere  
+
+
+ | Account required |  |  |  |
+| 🧪 AI Explain Commit
+
+Use AI models like Anthropic and ChatGPT to explain commit messages  
+
+
+ |  |  |  |  |
+| 🧪 Automatically Generate Commit Message
+
+Use AI models like Anthropic and ChatGPT to write commit messages  
+
+
+ |  |  |  |  |
+| Hosting Provider Integrations  
+ |  |  |  |  |
+| GitHub
+
+Rich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  
+
+
+ |  |  |  |  |
+| GitLab
+
+Rich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  
+
+
+ |  |  |  |  |
+| Azure DevOps | Basic | Basic | Basic | Basic |
+| Bitbucket | Basic | Basic | Basic | Basic |
+| Google | Basic | Basic | Basic | Basic |
+| Gitea | Basic | Basic | Basic | Basic |
+| Gerrit | Basic | Basic | Basic | Basic |
+| Gerrit (Google Source)  
+ | Basic | Basic | Basic | Basic |
+| Self-Hosted Provider Integrations  
+ |  |  |  |  |
+| Pro GitHub Enterprise
+
+Rich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  
+
+
+ | Basic |  |  |  |
+| ProGitLab Self-Managed
+
+Rich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  
+
+
+ | Basic |  |  |  |
+| ProJira Integration
+
+See autolinks to your Jira issues in rich hovers, inspect view, and everywhere autolinks are supported.  
+
+
+ | Basic |  |  |  |
+| Bitbucket Data Center | Basic | Basic | Basic | Basic |
+| User, Team & License Management  
+ |  |  |  |  |
+| Maximum Users
+
+User limitations only apply to GitLens Pro, Teams, and Enterprise plans.  
+
+
+ |  | 10 | 100 | Unlimited |
+| One Team Renewal Date; New Team Members are Prorated |  | 1 | 10 | Unlimited |
+| Cloud-Based User Accounts Managed via GitKraken.com  
+ |  |  |  | Default |
+| Admin & Security Controls |  |  |  |  |
+| AI security controls
+
+Enable or disable AI commit message generation for your entire organization.  
+
+
+ |  |  |  |  |
+| Cloud Patch Private Storage (Coming Soon)
+
+Host your organization’s Cloud Patches on a dedicated AWS S3 bucket by GitKraken.  
+
+
+ |  |  |  |  |
+| Cloud Patch Self-Hosted Storage
+
+Host your organization’s Cloud Patches on your own AWS S3 bucket.  
+
+
+ |  |  |  |  |
+| Access Management |  |  |  |  |
+| Single Sign-On
+
+Support for Microsoft Entra (Azure AD), Google Identity Platform, Okta, Ping Identity, and custom SAML  
+
+
+ |  |  |  |  |
+| SAML
+
+Configure SSO with custom SAML  
+
+
+ |  |  |  |  |
+| Multi-Domain SSO
+
+Manage SSO for multiple domains within the same GitKraken organization  
+
+
+ |  |  |  |  |
+| Support  
+ |  |  |  |  |
+| GitHub Discussions
+
+Participate in the GitLens community. Provide feedback, ask or answer questions.  
+
+
+ |  |  |  |  |
+| GitHub Issues
+
+Report issues or request features or improvements.  
+
+
+ |  |  |  |  |
+| Custom onboarding and training |  |  |  |  |
+| Guaranteed email support |  |  |  |  |
+| [Support Documentation](https://help.gitkraken.com/gitlens/gitlens-home/) |  |  |  |  |
+| [Education & Training Resources for Learning Git](https://www.gitkraken.com/learn/git) |  |  |  |  |
+
+GitKraken CLI
+
+|  | Free | Pro | Teams | Enterprise |
+| --- | --- | --- | --- | --- |
+| Features | 
+##### Free
+
+[Install Free](https://www.gitkraken.com/gitkraken-cli/try-free)
+
+ | 
+
+##### Pro
+
+[Buy Pro](https://gitkraken.dev/purchase)
+
+ | 
+
+##### Teams
+
+[Buy Teams](https://gitkraken.dev/purchase)
+
+ | 
+
+##### Enterprise
+
+[Buy Enterprise](https://gitkraken.dev/purchase)
+
+ |
+| Git Productivity |  |  |  |  |
+| Launchpad
+
+All your pull requests, issues and WIPs in one comprehensive list.  
+
+
+ |  |  |  |  |
+| Local Workspaces
+
+Group repos on your local machine to see status and take action on multiple repos at once.  
+
+
+ |  |  |  |  |
+| Multi-repo fetch
+
+Fetch all, or specific repos in your Workspace with a single command.  
+
+
+ |  |  |  |  |
+| Multi-repo pull
+
+Pull all, or specific repos in your Workspace with a single command.  
+
+
+ |  |  |  |  |
+| Multi-repo push
+
+Push all, or specific repos in your Workspace with a single command.  
+
+
+ |  |  |  |  |
+| Multi-repo checkout
+
+Checkout branches across multiple repos in one command.  
+
+
+ |  |  |  |  |
+| Open visual commit graph
+
+Open a visual commit graph in GitKraken Desktop or GitLens/VS Code.  
+
+
+ | Public Repos |  |  |  |
+| Team Collaboration |  |  |  |  |
+| Cloud Patches (preview)
+
+View Code Suggestions created by other team members. Code suggestions are accessible from GitKraken.dev, GitKraken Desktop, and GitLens in VS Code.  
+
+
+ |  |  |  |  |
+| Review Code Suggestions
+
+Securely store patches and share a link that allows collaborators to view, download and apply them.  
+
+
+ |  |  |  |  |
+| Cloud Workspaces
+
+Create and share groups of repos with your team to see status and take action on multiple repos at once. Integrations with hosting and issue trackers allow you to see PRs and issues in your terminal.  
+
+
+ |  |  |  |  |
+| Multi-repo clone
+
+Improve onboarding with a single command to clone all repos in a shared Cloud Workspace.  
+
+
+ |  |  |  |  |
+| GitKraken Insights for Cloud Workspaces
+
+Measure how fast your pull requests get merged into your repos with metrics like Cycle Time, Throughput and more.  
+
+
+ |  | View last 7 days | View up to last 14 days | View up to last 14 days |
+| Pull Request Management |  |  |  |  |
+| List PRs for all repos in a Workspace
+
+List all open pull requests within a Workspace, with options for advanced filtering by title, author, or date.  
+
+
+ |  |  |  |  |
+| View PR details
+
+View pull requests details in your terminal.  
+
+
+ |  |  |  |  |
+| Cloud Repo Integrations |  |  |  |  |
+| [GitHub.com](https://github.com/)
+
+Easily access remotes and view pull requests for GitHub.com.  
+
+
+ |  |  |  |  |
+| [GitLab.com](http://gitlab.com/)
+
+Easily access remotes and view merge requests for GitLab.com.  
+
+
+ |  |  |  |  |
+| [Bitbucket.org](https://bitbucket.org/)
+
+Easily access remotes and view pull requests for Bitbucket.org.  
+
+
+ |  |  |  |  |
+| Azure DevOps
+
+Easily access remotes and view pull requests for Azure DevOps.  
+
+
+ |  |  |  |  |
+| Self-Hosted Repo Integrations |  |  |  |  |
+| GitHub Enterprise Server
+
+Easily access remotes and view pull requests & issues for GitHub Enterprise Server.  
+
+
+ |  |  |  |  |
+| GitLab Self-Managed
+
+Easily access remotes and view merge requests for GitLab Self-Managed.  
+
+
+ |  |  |  |  |
+| Bitbucket Data Center
+
+Easily access remotes and view pull requests for Bitbucket Data Center.  
+
+
+ |  |  |  |  |
+| Issue Tracker Integrations |  |  |  |  |
+| Jira Cloud
+
+View issues from Jira Cloud in your terminal.  
+
+
+ |  |  |  |  |
+| Jira Server
+
+View issues from Jira Server in your terminal.  
+
+
+ |  |  |  |  |
+| Azure DevOps
+
+View issues from Azure DevOps in your terminal.  
+
+
+ |  |  |  |  |
+| [GitHub.com](https://github.com/)
+
+View issues from GitHub.com in your terminal.  
+
+
+ |  |  |  |  |
+| GitHub Enterprise
+
+View issues from GitHub Enterprise in your terminal.  
+
+
+ |  |  |  |  |
+| [GitLab.com](http://gitlab.com/)
+
+View issues from GitLab.com in your terminal.  
+
+
+ |  |  |  |  |
+| GitLab Self-Managed
+
+View issues from GitLab Self-Managed in your terminal.  
+
+
+ |  |  |  |  |
+| Trello
+
+View issues from Trello in your terminal.  
+
+
+ |  |  |  |  |
+| Admin & Security Controls |  |  |  |  |
+| AI security controls
+
+Enable or disable AI commit message generation for your entire organization.  
+
+
+ |  |  |  |  |
+| Cloud Patch Private Storage (Coming Soon)
+
+Host your organization’s Cloud Patches on a dedicated AWS S3 bucket by GitKraken.  
+
+
+ |  |  |  |  |
+| Cloud Patch Self-Hosted Storage
+
+Host your organization’s Cloud Patches on your own AWS S3 bucket.  
+
+
+ |  |  |  |  |
+| Access Management  
+ |  |  |  |  |
+| Single Sign-On
+
+Support for Microsoft Entra (Azure AD), Google Identity Platform, Okta, Ping Identity, and custom SAML  
+
+
+ |  |  |  |  |
+| SAML
+
+Configure SSO with custom SAML  
+
+
+ |  |  |  |  |
+| Multi-Domain SSO
+
+Manage SSO for multiple domains within the same GitKraken organization  
+
+
+ |  |  |  |  |
+| Self-Hosted Repo Integrations  
+ |  |  |  |  |
+| GitHub Enterprise
+
+Rich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  
+
+
+ |  |  |  |  |
+| GitLab Self-Managed
+
+Rich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  
+
+
+ |  |  |  |  |
+| Bitbucket Server  
+ |  |  |  |  |
+| User, Team & License Management  
+ |  |  |  |  |
+| Maximum Users
+
+User limitations only apply to GitLens Pro, Teams, and Enterprise plans.  
+
+
+ |  | 10 | 100 | Unlimited |
+| One Team Renewal Date; New Team Members are Prorated |  | 1 | 10 | Unlimited |
+| Cloud-Based User Accounts Managed via GitKraken.com  
+ |  |  |  | Default |
+| Single Sign-On |  |  |  |  |
+| Azure Active Directory |  |  |  |  |
+| Google Identity Platform |  |  |  |  |
+| Okta |  |  |  |  |
+| Ping Identity |  |  |  |  |
+| Support  
+ |  |  |  |  |
+| Guaranteed email support
+
+Expect a response from the GitKraken Support team within one business day.  
+
+
+ |  |  |  |  |
+| [Support Documentation](https://help.gitkraken.com/cli/cli-home/)
+
+Access detailed information about all GitKraken Desktop features from help.gitkraken.com.  
+
+
+ |  |  |  |  |
+| [Education & Training Resources for Learning Git](https://www.gitkraken.com/learn/git)
+
+Learn about Git concepts through articles, video motion graphics, & visual examples.  
+
+
+ |  |  |  |  |
+| [Education & Training Resources for Learning Git](https://learn.gitkraken.com/)
+
+Ensure your team has a good understanding of Git with this free training course & certification exam.  
+
+
+ |  |  |  |  |
+
+![Image 31](https://www.gitkraken.com/wp-content/uploads/2021/12/Union.svg)
+
+**Products**
+
+[Pricing](https://www.gitkraken.com/pricing)
+
+[Help Center](https://help.gitkraken.com/)  
+
+[**GitKraken Desktop**](https://www.gitkraken.com/git-client)
+
+*   [Login](https://gitkraken.dev/login)  
+*   [Documentation](https://help.gitkraken.com/gitkraken-client/gitkraken-client-home/)  
+*   [Release Notes](https://help.gitkraken.com/gitkraken-client/current/)  
+*   [Roadmap](https://www.gitkraken.com/git-client/roadmap)
+*   [Cheat Sheet](https://www.gitkraken.com/pdfs/gitkraken-git-gui-cheat-sheet)
+*   [CLI Cheat Sheet](https://www.gitkraken.com/pdfs/gitkraken-cli-cheat-sheet)
+
+[**GitLens**](https://www.gitkraken.com/gitlens)
+
+*   [Documentation](https://help.gitkraken.com/gitlens/gitlens-home/)  
+
+[**Git Integration for Jira**](https://www.gitkraken.com/git-integration-for-jira)
+
+*   [Cloud Docs](https://help.gitkraken.com/git-integration-for-jira-cloud/git-integration-for-jira-home-gij-cloud/) 
+*   [Data Center/Server Docs](https://help.gitkraken.com/git-integration-for-jira-data-center/git-integration-for-jira-home-self-manged/)
+*   [Security & Trust](https://www.gitkraken.com/git-integration-for-jira/security-and-trust)
+
+**Community**
+
+[Learn Git Library](https://www.gitkraken.com/learn/git)  
+[Git Commands Cheat Sheet](https://www.gitkraken.com/pdfs/git-basics-cheat-sheet)  
+[Git Blog](https://www.gitkraken.com/blog)  
+[GitKraken Labs](https://www.gitkraken.com/labs)  
+[Git Conference](http://gitkon.com/)  
+[Ambassador Program](https://www.gitkraken.com/ambassador)  
+[Newsletter](https://www.gitkraken.com/newsletter)  
+[Slack Community](https://www.gitkraken.com/join-slack-community)    
+[GitKraken for Students](https://www.gitkraken.com/github-student-developer-pack-bundle)  
+[Store](https://www.gitkraken.com/store)  
+[Keif Gallery](https://www.gitkraken.com/keif-gallery)
+
+**Company**
+
+**[Contact Us](https://www.gitkraken.com/contact)  
+[About Us](https://www.gitkraken.com/about)  
+[Careers](https://www.gitkraken.com/careers)  
+[Customers](https://www.gitkraken.com/sample-customers)  
+****[Media](https://www.gitkraken.com/media)  
+[News](https://www.gitkraken.com/media/news)  
+****[Awards](https://www.gitkraken.com/media/awards)  
+[Events](https://www.gitkraken.com/media/events)  
+[Press Releases](https://www.gitkraken.com/media/press)  
+[Logos](https://www.gitkraken.com/media/press-releases#logos)  
+[Privacy](https://www.gitkraken.com/privacy)**
+
+[](https://twitter.com/gitkraken)[Slack](https://www.gitkraken.com/join-slack-community) [Youtube](https://www.youtube.com/gitkraken) [Linkedin](https://www.linkedin.com/company/gitkraken)
+
+**© 2025 Axosoft, LLC DBA GitKraken**
+
+  
+
+**Visual Studio Code is required to install GitLens.**  
+  
+Don’t have Visual Studio Code? [Get it now](https://code.visualstudio.com/download).
+
+[Continue to install GitLens](vscode:extension/eamodio.gitlens)
+
+#### Team Collaboration Services
+
+Secure cloud-backed services that span across all products in the DevEx platform to keep your workflows connected across projects, repos, and team members
+
+**Launchpad** – All your PRs, issues, & tasks in one spot to kick off a focused, unblocked day. **Code Suggest** – Real code suggestions anywhere in your project, as simple as in Google Docs. **Cloud Patches** – Speed up PR reviews by enabling early collaboration on work-in-progress. **Workspaces** – Group & sync repos to simplify multi-repo actions, & get new devs coding faster. **DORA Insights** – Data-driven code insights to track & improve development velocity. **Security & Admin** – Easily set up SSO, manage access, & streamline IdP integrations.
+
+[![Image 32](https://www.gitkraken.com/wp-content/uploads/2024/05/Union.svg) Start Your Free Trial](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success)
+
+#### GitKraken Browser Extension
+
+Your bridge between apps
+
+[Track PRs](https://www.gitkraken.com/browser-extension#track-prs)   –   [View PRs in GitKraken or VS Code](https://www.gitkraken.com/browser-extension#view-prs)  –   [Work More Effectively with Repo Providers](https://www.gitkraken.com/browser-extension#work-more-effectively)
+
+[![Image 33](https://www.gitkraken.com/wp-content/uploads/2024/05/chrome-icon.svg)Add to Chrome](https://chrome.google.com/webstore/detail/gitkraken/egmopflbpgdjmmkeabegohajillnebco)
+
+[![Image 34](https://www.gitkraken.com/wp-content/uploads/2024/05/ff-icon.svg)Add to Firefox](https://addons.mozilla.org/en-US/firefox/addon/gitkraken-browser-extension/)
+
+[![Image 35](https://www.gitkraken.com/wp-content/uploads/2024/05/edge-icon.svg)Add to Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/gitkraken/eehliiniplilmbgcnghhaneefihofjnl)
+
+#### GitLens for VS Code
+
+Your IDE, Smarter with Git  
+30M+ INSTALLS
+
+[Navigate Git, Minimize Mistakes](https://www.gitkraken.com/gitlens#navigate-git) – [Unblock PR & Code Reviews](https://www.gitkraken.com/gitlens#unblock-pr) – [Manage Multiple Repos](https://www.gitkraken.com/gitlens#manage-multiple-repos) – [Code with Momentum](https://www.gitkraken.com/gitlens#code-momentum)
+
+[![Image 36](https://www.gitkraken.com/wp-content/uploads/2024/05/gitlens-btn-icon.svg) Install GitLens in VS Code](https://www.gitkraken.com/pricing#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjY0OTciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
+
+#### GitKraken CLI
+
+Ultimate CLI for Git Collaboration
+
+[Bring PRs, WIPs & Issues to the Terminal](https://www.gitkraken.com/cli#bring-prs-to-terminal) – [Run Multi-Repo Commands](https://www.gitkraken.com/cli#run-multi-repo-commands) – [Manage Groups of Repos](https://www.gitkraken.com/cli#manage-groups-of-repos) – [Suggest Code Revisions](https://www.gitkraken.com/cli#suggest-code-revisions)
+
+winget install gitkraken.cli
+
+[Or download on GitHub](https://github.com/gitkraken/gk-cli/releases/latest)
+
+#### GitKraken.dev
+
+Your Command Center in the Browser
+
+[Track PRs & Issues](https://www.gitkraken.com/gitkraken-dev#track-prs) – [Suggest and Share Code Changes](https://www.gitkraken.com/gitkraken-dev#suggest-send-code-changes) – [Ramp Up New Devs Faster](https://www.gitkraken.com/gitkraken-dev#ramp-up-new-devs) – [Bring Your Team Together](https://www.gitkraken.com/gitkraken-dev#bring-your-team-together) – [Secure and Control Your Data](https://www.gitkraken.com/gitkraken-dev#secure-control-data)
+
+[Sign Into Your Account](https://gitkraken.dev/login)
+
+[Sign up for free](https://gitkraken.dev/register)
+
+#### GitKraken Desktop
+
+Simplify Git For Any OS
+
+[Visualize Git, Minimize Mistakes](https://www.gitkraken.com/git-client#visualize-git)   –   [Unblock PR & Code Reviews](https://www.gitkraken.com/git-client#unblock-pr)   –   [Manage Multiple Repos](https://www.gitkraken.com/git-client#manage-multiple-repos)   – [Resolve Merge Conflicts with Ease](https://www.gitkraken.com/git-client#resolve-merge-conflicts)   –   [Ramp Up Devs Faster](https://www.gitkraken.com/git-client#ramp-up-new-devs)
+
+[Start Free GitKraken Pro Trial](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success)
+
+## Metadata
+
+```json
+{
+  "title": "GitKraken Pricing - How Much Do GitKraken Tools Cost",
+  "description": "See how free and paid plans compare for GitKraken Git tools, including GitKraken Desktop, GitLens and Git Integration for Jira.",
+  "url": "https://www.gitkraken.com/pricing",
+  "content": "GitKraken Pricing - How Much Do GitKraken Tools Cost\n===============\n                                                                                                                  \n\n![Image 19](https://www.gitkraken.com/wp-content/uploads/2024/12/Group-21678-1.png)\n\nNow Up To  80% OFF  GitKraken Pro\n\nTake Advantage to Save\n\n![Image 20](https://www.gitkraken.com/wp-content/uploads/2024/12/Vector-Stroke.png)\n\n[![Image 21](https://www.gitkraken.com/wp-content/uploads/2024/11/Group-21666.png)](https://www.gitkraken.com/)\n\n*   [Dev Tools](https://www.gitkraken.com/pricing# \"Dev Tools\")\n    *   Built for Teams\n        ---------------\n        \n        A DevEx platform that’s built for team velocity & greater collaboration.\n        \n        ![Image 22](https://staging-www.gitkraken.com/wp-content/uploads/2024/09/Vector.svg) Supercharge Your Dev Team \\>\n        \n        Enterprise Grade\n        ----------------\n        \n        Solutions designed for large-scale security, privacy & control.\n        \n        ![Image 23](https://staging-www.gitkraken.com/wp-content/uploads/2024/09/Vector-1.svg) Secure Your Dev Team \\>\n        \n        Products\n        --------\n        \n        *     [![Image 24](https://www.gitkraken.com/wp-content/uploads/2024/05/gkd-nav.svg) GitKraken Desktop](https://www.gitkraken.com/git-client)\n        *     [![Image 25](https://www.gitkraken.com/wp-content/uploads/2024/11/product-vs-code-rainbow.svg) GitLens for VS Code](https://www.gitkraken.com/gitlens)\n        *     [![Image 26](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-cli-nav.svg) GitKraken CLI](https://www.gitkraken.com/cli)\n        *     [![Image 27](https://www.gitkraken.com/wp-content/uploads/2024/05/Group-19573.svg) GitKraken.dev](https://www.gitkraken.com/gitkraken-dev)\n        *     [![Image 28](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-be-nav.svg) GitKraken Browser Extension](https://www.gitkraken.com/browser-extension)\n        \n        Features\n        --------\n        \n        *   [Git Simplified](https://www.gitkraken.com/features/git-simplified)\n        *   [Individual Productivity](https://www.gitkraken.com/features/individual-productivity)\n        *   [Team Collaboration](https://www.gitkraken.com/features/team-collaboration)\n        *   [PR & Code Review](https://www.gitkraken.com/features/pr-and-code-review)\n        *   [Security & Admin](https://www.gitkraken.com/features/security-and-admin)\n        \n*   [Planning Tools](https://www.gitkraken.com/pricing# \"Planning Tools\")\n    *   Products\n        --------\n        \n        *     [![Image 29](https://www.gitkraken.com/wp-content/uploads/2024/05/gij-nav.svg) Git Integration for Jira](https://www.gitkraken.com/git-integration-for-jira)\n        *     [![Image 30](https://www.gitkraken.com/wp-content/uploads/2024/05/pricing-nav.svg) Pricing](https://marketplace.atlassian.com/apps/4984/git-integration-for-jira?tab=pricing&utm_campaign=CTA&utm_content=Pricing&utm_medium=Navigation&hosting=cloud)  \n        \n        Features\n        --------\n        \n        *   [Sprint Planning & Execution](https://www.gitkraken.com/features/sprint-planning-execution)\n        *   [Individual Productivity](https://www.gitkraken.com/features/productivity)\n        *   [Dev Visibility](https://www.gitkraken.com/features/visibility)\n        *   [Security & Admin](https://www.gitkraken.com/features/jira-security-and-admin)\n        \n*   [Developer Problems](https://www.gitkraken.com/pricing# \"Developer Problems\")\n    *   *   [Git Is Complicated](https://www.gitkraken.com/developer-problems/git-is-complicated)\n        *   [PR & Code Review Friction](https://www.gitkraken.com/developer-problems/pr-and-code-review)\n        *   [Context Switching](https://www.gitkraken.com/developer-problems/context-switching)\n        *   [Managing Multiple Repos](https://www.gitkraken.com/developer-problems/manage-multi-repos)\n        *   [Merge Conflicts & Rebasing](https://www.gitkraken.com/developer-problems/merge-conflicts)\n        *   [Branch Management](https://www.gitkraken.com/developer-problems/branch-management)\n        \n        *   [Slow Onboarding](https://www.gitkraken.com/developer-problems/onboarding)\n        *   [Lack of Visibility](https://www.gitkraken.com/developer-problems/visibility)\n        *   [Dev Talent Retention](https://www.gitkraken.com/developer-problems/retaining-dev-talent)\n        *   [Lack of DORA Metrics](https://www.gitkraken.com/developer-problems/velocity-metrics)\n        *   [Lack of Standardization](https://www.gitkraken.com/developer-problems/standardization)\n        *   [Too Many Meetings 😂](https://www.gitkraken.com/developer-problems/meeting-hell)\n        \n*   [Git Resources](https://www.gitkraken.com/pricing# \"Git Resources\")\n    *   *   [Workshops](https://www.gitkraken.com/workshops)\n        *   [Learn Git Library](https://www.gitkraken.com/learn/git)\n        *   [Git Blog](https://www.gitkraken.com/blog)\n        *   [GitKon ’24](https://gitkon.com/)\n        \n        *   [Sample Customers](https://www.gitkraken.com/sample-customers)\n        *   [Customer Stories](https://www.gitkraken.com/media#customer-stories)\n        *   [Media](https://www.gitkraken.com/media)\n        *   [GitKraken Labs](https://www.gitkraken.com/labs)\n        *   [Help Center](https://help.gitkraken.com/)\n        \n*   [Pricing](https://www.gitkraken.com/pricing \"Pricing\")\n*   [Sign In](https://gitkraken.dev/login \"Sign In\")\n\n*   [GitKraken Desktop features](https://www.gitkraken.com/git-client \"GitKraken Desktop features\")\n*   [GitLens features](https://www.gitkraken.com/gitlens \"GitLens features\")\n*   [Git Integration for Jira features](https://www.gitkraken.com/git-integration-for-jira \"Git Integration for Jira features\")\n*   [GiKraken CLI features](https://www.gitkraken.com/cli \"GiKraken CLI features\")\n*   [Pricing](https://www.gitkraken.com/pricing \"Pricing\")\n*   [Sign up to start a free trial](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success \"Sign up to start a free trial\")\n\nSearch \n\nGitKraken Plans & Pricing Calculator [Calculate Your ROI \\>](https://www.gitkraken.com/roi)\n===========================================================================================\n\n User Seats \n\n1\n\n50\n\n100\n\n500\n\n999\n\n Need SSO?\n\nGitKraken Pro\n-------------\n\nFor individual devs & small teams - up to 10 seats\n\nUnavailable for the selected seat count **$** per month,  \npaid annually\n\n[Buy Pro](https://gitkraken.dev/purchase?planType=PRO&promoCode=GKHOLIDAY&planQuantity=1) Features\n\n*   Includes GitKraken Desktop, GitLens, GitKraken CLI, GitKraken.dev, and Browser Extension\n*   All cloud Git integrations Connect to non-enterprise, cloud integrations from GitHub, GitLab, Azure DevOps & Bitbucket\n*   1 self-hosted Git integration Connect to one self-hosted Git integration (in GitKraken Desktop, we support one self-hosted Git integration per Profile)\n*   1 issue tracker integration Connect to one issue tracker integration (in GitKraken Desktop, we support one issue tracker integration per Profile)\n*   Shared Cloud Workspaces Create & share Cloud Workspaces with any users in your GitKraken Organization\n*   25 repos in Cloud Workspaces Connect up to 25 unique repos (per GitKraken Org) to your Cloud Workspaces\n*   Code Suggest preview Suggest code changes from a GitHub Pull Request in GitKraken Desktop and send to team members. Code suggestions are accessible from GitKraken.dev, GitKraken CLI, and GitLens in VS Code.\n*   Cloud Patches preview While in preview, securely share unlimited Cloud Patches with anyone at your company\n*   Basic Launchpad View, prioritize and act upon all your PR's, issues and WIPs (including ability to pin and snooze each item)\n*   Multiple profiles Switch between different sets of Git configurations, integrations, and app settings (available only in GitKraken Desktop)\n*   Timely email support Email support from GitKraken's team (no bots!)\n\nGitKraken Teams\n---------------\n\nFor mid-sized teams & orgs - up to 100 seats\n\nUnavailable for the selected seat count **$** per month,  \npaid annually\n\n[Buy Teams](https://gitkraken.dev/purchase?planType=TEAMS&planQuantity=1) Everything in Pro, plus\n\n*   All Git and issue tracker integrations Connect to all supported Git & issue tracker integrations (cloud or self-hosted)\n*   Create & manage up to 10 teams Collaborate across up to 10 Teams within your GitKraken Org\n*   250 repos in Cloud Workspaces Connect up to 250 unique repos (per GitKraken Org) to your Cloud Workspaces\n*   Code Suggest preview Suggest code changes from a GitHub Pull Request in GitKraken Desktop and send to team members. Code suggestions are accessible from GitKraken.dev, GitKraken CLI, and GitLens in VS Code\n*   AI Security Controls Enable or disable AI commit message generation for your entire organization\n*   Cloud Patches preview Securely share unlimited Cloud Patches with anyone at your company (advanced controls coming soon)\n*   Private storage for Cloud Patches coming soon Dedicated cloud environment for all your Cloud Patches to enable enhanced security and control\n*   7 days of Insights & DORA metrics Measure how fast your pull requests get merged into your repos with metrics like Cycle Time, Throughput and more\n*   Advanced Launchpad coming soon Advanced capabilities like scheduled snoozing, nudging, smart routing of PR reviews, accept or decline requests for reviews, etc.\n*   SSO for 1 domain SSO with Azure Entra (AD), Okta, Google, Ping Identity, and other providers supporting SAML 2.0\n*   Priority support Onboarding assistance, as well as troubleshooting and how-to support via email or chat from GitKraken's team\n\nGitKraken Enterprise\n--------------------\n\nFor large teams & orgs - unlimited seats\n\nUnavailable for the selected seat count **$** per month,  \npaid annually\n\n[Buy Enterprise](https://gitkraken.dev/purchase?planType=ENTERPRISE&planQuantity=1) Everything in Teams, plus\n\n*   Create & manage unlimited teams Collaborate across unlimited Teams within your GitKraken Org\n*   2500 repos in Cloud Workspaces Connect up to 2,500 unique repos (per GitKraken Org) to your Cloud Workspaces\n*   Code Suggest preview Suggest code changes from a GitHub Pull Request in GitKraken Desktop and send to team members. Code suggestions are accessible from GitKraken.dev, GitKraken CLI, and GitLens in VS Code\n*   Cloud Patches preview Securely share unlimited Cloud Patches with anyone at your company (unlimited usage and advanced controls coming soon)\n*   Self-hosted storage for Cloud Patches Self-managed environment for your Cloud Patches for highest level of security and control\n*   14 days of Insights & DORA metrics Measure how fast your pull requests get merged into your repos with metrics like Cycle Time, Throughput and more\n*   Advanced SSO for multiple domains SSO with Azure Entra (AD), Okta, Google, Ping Identity, and other providers supporting SAML 2.0. Manage multiple domains under one GitKraken organization\n*   SCIM provisioning coming soon Supports standard-based provisioning via SCIM (System for Cross-domain Identity Management)\n*   Premium setup, onboarding and support Tailored onboarding & training for new team members, as well as troubleshooting and how-to support directly from GitKraken's team\n*   Alternate payment & ordering options available Pay via Purchase Order, request custom payment terms\n*   Custom responses to security questionnaires Beyond our privacy & security policies, we'll work with you to answer custom questions about how we secure customers' data\n*   Foundations of Git training and certification\n\nNote: info on GitKraken On-Premise is [here](https://www.gitkraken.com/git-client/on-premise-pricing)\n\nUse GitKraken Desktop **free** forever\n\nFor solo devs on public & local repos only\n\n[Start free GitKraken Pro trial](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success)\n\nTry **free** as a team for 30 days\n\nUnlimited users, includes all features, setup & support\n\n  [Start Multi-User Trial](https://gitkraken.dev/trial/launch)\n\nGitKraken Desktop\n\nGitLens\n\nGitKraken CLI\n\nGitKraken Desktop\n\n| Features | Free | Pro | Teams | Enterprise |\n| --- | --- | --- | --- | --- |\n| Features | \n##### Free\n\n[Download Free](https://www.gitkraken.com/download)\n\n | \n\n##### Pro\n\n[Buy Pro](https://gitkraken.dev/purchase)\n\n | \n\n##### Teams\n\n[Buy Teams](https://gitkraken.dev/purchase)\n\n | \n\n##### Enterprise\n\n[Buy Enterprise](https://gitkraken.dev/purchase)\n\n |\n| Repository Access |  |  |  |  |\n| Work with local repos and public remotes\n\nLocal and publicly-hosted remote repositories only  \n\n\n |  |  |  |  |\n| Work with private remotes\n\nAccess privately-hosted remote repos  \n\n\n |  |  |  |  |\n| Git Productivity |  |  |  |  |\n| Local Workspaces\n\nGroup your local repos together to view branch status and run Git operations across multiple repos.  \n\n\n |  |  |  |  |\n| Cloud Workspaces\n\nCreate Workspaces that include PR and issue information for all repos.  \n\n\n |  |  |  |  |\n| Merge Conflict Tool\n\nEasily resolve conflicts with a visual, 3-panel merge tool.  \n\n\n | Public Repos Only |  |  |  |\n| Merge Conflict Output Editor\n\nEdit the output while resolving conflicts.  \n\n\n |  |  |  |  |\n| Code Editor\n\nEdit code in the diff view.  \n\n\n | Public Repos Only |  |  |  |\n| Pull or fetch multiple repos\n\nGroup your repos together in a Workspace to access the option to pull or fetch multiple repositories at once.  \n\n\n |  |  |  |  |\n| Multiple Profiles\n\nCreate and switch between different sets of Git configurations, integrations, and app settings.  \n\n\n |  |  |  |  |\n| Gitflow support\n\nUse Gitflow to start and finish features, releases, and hotfixes.  \n\n\n | Public Repos Only |  |  |  |\n| Git LFS\n\nWork with LFS in repos with large binary files.  \n\n\n | Public Repos Only |  |  |  |\n| File history & blame\n\nSee changes to a file over time by author.  \n\n\n | Public Repos Only |  |  |  |\n| View & create pull requests\n\nUse our hosting integrations to create and manage pull requests from within GitKraken Desktop.  \n\n\n | Public Repos Only |  |  |  |\n| Hiding & soloing\n\nFocus on the branches you want to see in the Commit Graph.  \n\n\n | Public Repos Only |  |  |  |\n| Auto-Gen SSH key\n\nOne-click SSH key generation.  \n\n\n |  |  |  |  |\n| Git hooks support\n\nTrigger hooks when performing commits, merges, rebases, etc.  \n\n\n |  |  |  |  |\n| Submodules\n\nWork with repos that have submodules.  \n\n\n |  |  |  |  |\n| Visual Interactive Rebase\n\nPlan which commits will be re-ordered, edited, squashed or dropped before initiating a rebase.  \n\n\n | Public Repos Only |  |  |  |\n| One-click undo & redo Git operations | Public Repos Only |  |  |  |\n| Command Palette\n\nNavigate views and perform operations with keyboard commands.  \n\n\n |  |  |  |  |\n| GPG commit signing\n\nVerify a commit has been signed by selecting a commit and reviewing the sign details in the Commit Panel.  \n\n\n |  |  |  |  |\n| AI Commit Message Generation – Preview\n\nGenerate commit messages from any staged changes.  \n\n\n |  |  |  |  |\n| Keyboard shortcuts |  |  |  |  |\n| Dark & light themes |  |  |  |  |\n| Team Collaboration |  |  |  |  |\n| Code Suggest (preview)\n\nSuggest code changes from a GitHub Pull Request in GitKraken Desktop and send to team members. Code suggestions are accessible from GitKraken.dev, GitKraken CLI, and GitLens in VS Code.  \n\n\n |  |  |  |  |\n| Share Cloud Workspaces with teams and individuals\n\nShare Cloud Workspaces with members of your Org for quicker repository provisioning and repo management.  \n\n\n |  |  |  |  |\n| Cloud Patches (preview)\n\nSecurely store patches and share a link that allows collaborators to view, download and apply them.  \n\n\n |  |  |  |  |\n| GitKraken Insights for Cloud Workspaces\n\nMeasure how fast your pull requests are merged with metrics like Cycle Time, Throughput and more.  \n\n\n |  | View last 7 days | View up to last 14 days | View up to last 14 days |\n| Launchpad\n\nAll your pull requests, issues and WIPs in one comprehensive list.  \n\n\n |  |  |  |  |\n| Launchpad Pinning\n\nPriortize your list of pull requests, issues and WIPs by pinning the most important items to the top of the Launchpad.  \n\n\n |  |  |  |  |\n| Launchpad Snoozing\n\nSnooze less important items to the Snoozed tab for later.  \n\n\n |  |  |  |  |\n| Team View in Launchpad\n\nGet visibility on pull requests and issues for all repos in a Cloud Workspace.  \n\n\n |  |  |  |  |\n| Team View with live activity status in Left Panel\n\nSee active branches and file modifications by your team members.  \n\n\n |  |  |  |  |\n| Predictive merge conflict alerts\n\nKnow when you are modifying the same file as another team member.  \n\n\n |  |  |  |  |\n| Filter commit graph by teams\n\nSee only commits made by specific teams in the Commit Graph.  \n\n\n |  |  |  |  |\n| Share with deep links\n\nShare links that open a repo to a specific workspace, repo, branch or commit.  \n\n\n |  |  |  |  |\n| Cloud Repo Integrations |  |  |  |  |\n| GitHub\n\nEasily access remotes and create pull requests & issues for GitHub.com.  \n\n\n | Public Repos Only |  |  |  |\n| GitLab\n\nEasily access remotes and create merge requests for GitLab.com.  \n\n\n | Public Repos Only |  |  |  |\n| Bitbucket\n\nEasily access remotes and create pull requests for Bitbucket.org.  \n\n\n | Public Repos Only |  |  |  |\n| Azure DevOps\n\nEasily access remotes and create pull requests for Azure DevOps.  \n\n\n |  |  |  |  |\n| Self-Hosted Repo Integrations |  |  |  |  |\n| GitHub Enterprise Server\n\nEasily access remotes and create pull requests & issues for GitHub Enterprise Server.  \n\n\n |  |  |  |  |\n| GitLab Self-Managed\n\nEasily access remotes and create merge requests for GitLab Self-Managed.  \n\n\n |  |  |  |  |\n| Bitbucket Data Center\n\nEasily access remotes and create pull requests for Bitbucket Data Center.  \n\n\n |  |  |  |  |\n| Pull Request Management |  |  |  |  |\n| GitHub\n\nView, edit, create and merge GitHub pull requests.  \n\n\n | Public Repos Only |  |  |  |\n| Issue Tracker Integrations |  |  |  |  |\n| Jira Data Center/Cloud\n\nView, filter, modify and start work from Jira Issues.  \n\n\n | View Only |  |  |  |\n| Jira App Integration: Git Integration for Jira\n\nConnect to your Git Integration for Jira account to open the commits view in Jira from the diff view in GitKraken Desktop.  \n\n\n |  |  |  |  |\n| GitHub\n\nView, filter, modify and start work from GitHub.com Issues.  \n\n\n | Public Repos Only |  |  |  |\n| GitHub Enterprise\n\nView, filter, modify and start work from GitHub Enterprise Issues.  \n\n\n | View Only |  |  |  |\n| GitLab\n\nView, filter, modify and start work from GitLab.com Issues.  \n\n\n | Public Repos Only |  |  |  |\n| GitLab Self-Managed\n\nView, filter, modify and start work from GitLab Self-Managed Issues.  \n\n\n | View Only |  |  |  |\n| Trello\n\nView, filter, modify and start work from Trello Issues.  \n\n\n | View Only |  |  |  |\n| User, Team & License Management |  |  |  |  |\n| One user license for all machines & OSes\n\nUse your license on multiple machines for Windows, Mac or Linux.  \n\n\n |  |  |  |  |\n| Maximum Users\n\nMaximum number of licenses you can purchase on this plan.  \n\n\n | 1 | 10 | 100 | Unlimited |\n| Maximum Teams\n\nMaximum number of teams you can create on this plan.  \n\n\n |  |  | 10 | Unlimited |\n| One Team Renewal Date; New Team Members are Prorated\n\nAll subscriptions renew yearly and new licenses are prorated based on the renewal date.  \n\n\n |  |  |  | Default |\n| Cloud-Based User Account Management |  |  |  | Default |\n| [On-Premise Solutions (10 user minimum)](https://www.gitkraken.com/git-client/on-premise-pricing)\n\nOn-Premise Self-Hosted Server and Serverless options available for license control, and secure air-gapped environments.  \n\n\n |  |  |  | [Available](https://www.gitkraken.com/git-client/on-premise-pricing) |\n| Admin & Security Controls |  |  |  |  |\n| AI security controls\n\nEnable or disable AI commit message generation for your entire organization.  \n\n\n |  |  |  |  |\n| Cloud Patch Private Storage (Coming Soon)\n\nHost your organization’s Cloud Patches on a dedicated AWS S3 bucket by GitKraken.  \n\n\n |  |  |  |  |\n| Cloud Patch Self-Hosted Storage\n\nHost your organization’s Cloud Patches on your own AWS S3 bucket.  \n\n\n |  |  |  |  |\n| Access Management |  |  |  |  |\n| Single Sign-On\n\nSupport for Microsoft Entra (Azure AD), Google Identity Platform, Okta, Ping Identity, and custom SAML  \n\n\n |  |  |  |  |\n| SAML\n\nConfigure SSO with custom SAML  \n\n\n |  |  |  |  |\n| Multi-Domain SSO\n\nManage SSO for multiple domains within the same GitKraken organization  \n\n\n |  |  |  |  |\n| Hosting Login |  |  |  |  |\n| GitHub\n\nLogin with your GitHub account and automatically have access to your GitHub repos, PRs and issues.  \n\n\n |  |  |  |  |\n| GitLab\n\nLogin with your GitLab account and automatically have access to your GitLab repos, PRs and issues  \n\n\n |  |  |  |  |\n| Bitbucket\n\nLogin with your Bitbucket account and automatically have access to your Bitbucket repos, PRs and issues.  \n\n\n |  |  |  |  |\n| Azure DevOps\n\nLogin with your Azure account and automatically have access to your Azure repos, PRs and issues.  \n\n\n |  |  |  |  |\n| Google\n\nLogin with your Google credentials.  \n\n\n |  |  |  |  |\n| Integrated Terminal |  |  |  |  |\n| Git-Enhanced Terminal\n\nKeyboard-first git-enhanced terminal experience found inside a Terminal Tab or Terminal Panel in the GitKraken Desktop.  \n\n\n | Public Repos Only |  |  |  |\n| Live Synchronized Commit Graph\n\nSee the Commit Graph and terminal in the same view.  \n\n\n | Public Repos Only |  |  |  |\n| CLI Diff View, Blame & History\n\nView the diff, blame or history inside the Terminal tab.  \n\n\n | Public Repos Only |  |  |  |\n| Auto-suggest & Auto-complete Git Commands\n\nSuggests Git commands and flags with descriptions as you type.  \n\n\n |  |  |  |  |\n| Support |  |  |  |  |\n| Guaranteed email support\n\nExpect a response from the GitKraken Support team within one business day.  \n\n\n |  |  |  |  |\n| [Support Documentation](https://help.gitkraken.com/)\n\nAccess detailed information about all GitKraken Desktop features from help.gitkraken.com.  \n\n\n |  |  |  |  |\n| [Resources for Learning Git](https://www.gitkraken.com/learn/git)\n\nLearn about Git concepts through articles, video motion graphics, & visual examples.  \n\n\n |  |  |  |  |\n| [Git Course & Certification](https://learn.gitkraken.com/)\n\nEnsure your team has a good understanding of Git with this free training course & certification exam.  \n\n\n |  |  |  |  |\n\nGitLens\n\n|  | Free | Pro | Teams | Enterprise |\n| --- | --- | --- | --- | --- |\n| Features | \n##### Free\n\n[Install Free](https://www.gitkraken.com/pricing#install-gitlens)\n\n | \n\n##### Pro\n\n[Buy Pro](https://gitkraken.dev/purchase)\n\n | \n\n##### Teams\n\n[Buy Teams](https://gitkraken.dev/purchase)\n\n | \n\n##### Enterprise\n\n[Buy Enterprise](https://gitkraken.dev/purchase)\n\n |\n| GitLens |  |  |  |  |\n| Current line blame\n\nUnobtrusive current line blame annotation.  \n\n\n |  |  |  |  |\n| Git CodeLens\n\nMost recent commit and number of authors.  \n\n\n |  |  |  |  |\n| Status bar blame\n\nCommit details and authorship in the status bar.  \n\n\n |  |  |  |  |\n| Hovers\n\nInstantly view commit details and more.  \n\n\n |  |  |  |  |\n| File Blame\n\nAnnotations showing Blame.  \n\n\n |  |  |  |  |\n| File Changes\n\nAnnotations showing Changes.  \n\n\n |  |  |  |  |\n| File Heatmap\n\nAnnotations showing Heatmap.  \n\n\n |  |  |  |  |\n| Revision Navigator\n\nCompare changes over time and view revision history of a file or individual line.  \n\n\n |  |  |  |  |\n| Interactive Rebase Editor\n\nEasily configure an interactive rebase session.  \n\n\n |  |  |  |  |\n| Home view |  |  |  |  |\n| Commits views\n\nSee your repo’s commit history at a glance.  \n\n\n |  |  |  |  |\n| Inspect view\n\nSee your repo’s commit history at a glance.  \n\n\n |  |  |  |  |\n| Repositories view\n\nManage all your repos in one place.  \n\n\n |  |  |  |  |\n| File History view\n\nSee every change made to a file.  \n\n\n |  |  |  |  |\n| Line History view\n\nGet granular with file changes.  \n\n\n |  |  |  |  |\n| Branches view\n\nExplore all your branches with ease.  \n\n\n |  |  |  |  |\n| Remote view\n\nManage remote branches with ease.  \n\n\n |  |  |  |  |\n| Stashes view\n\nAccess and apply your stashes.  \n\n\n |  |  |  |  |\n| Tags view\n\nKeep track of your repo’s tags.  \n\n\n |  |  |  |  |\n| Contributors view\n\nSee all contributors at a glance.  \n\n\n |  |  |  |  |\n| Search & Compare view\n\nFind and compare code in seconds.  \n\n\n |  |  |  |  |\n| Git Command Palette\n\nGuided (step-by-step) access to many Git commands.  \n\n\n |  |  |  |  |\n| Autolinks\n\nLink to external references from your commit messages, like Jira issues or Zendesk tickets.  \n\n\n |  |  |  |  |\n| Terminal integration\n\nQuickly jump to more details for commits, branches, tags, and more.  \n\n\n |  |  |  |  |\n| Remote provider integrations\n\nGitHub, GitLab, Bitbucket, Azure DevOps, Gerrit, and Gitea  \n\n\n |  |  |  |  |\n| Pro Commit Graph\n\nVisualize and track all work in progress. Open in-depth information about a commit or stash.  \n\n\n | Public and local repos |  |  |  |\n| Pro Visual File History\n\nSee when changes were made, how large they were, and who made them.  \n\n\n | Public and local repos |  |  |  |\n| Pro Worktrees\n\nEasily work on different branches of a repository simultaneously.  \n\n\n | Public and local repos |  |  |  |\n| Pro Launchpad\n\nAll your pull requests and issues in one comprehensive list.  \n\n\n | Public and local repos |  |  |  |\n| Pro Launchpad Pinning\n\nPrioritize your list of pull requests and issues by pinning the most important items to the top of the Launchpad  \n\n\n | Account required |  |  |  |\n| Pro Launchpad Snoozing\n\nSnooze less important items to the Snoozed tab for later.  \n\n\n | Account required |  |  |  |\n| Pro Preview Cloud Patches\n\nSecurely store, apply, share and collaborate on code-in-progress\n\n | Account required |  |  |  |\n| Pro Code Suggestions\n\nSuggest code changes from a GitHub Pull Request in GitLens and send to team members. Code suggestions are accessible from GitKraken.dev, GitKraken CLI, and GitKraken Desktop.\n\n | Account required |  |  |  |\n| Local Workspaces\n\nEasily group, manage, and share multiple repositories, accessible from your local machine  \n\n\n | Public and local repos |  |  |  |\n| Pro Preview Cloud Workspaces\n\nEasily group, manage, and share multiple repositories, accessible from anywhere  \n\n\n | Account required |  |  |  |\n| 🧪 AI Explain Commit\n\nUse AI models like Anthropic and ChatGPT to explain commit messages  \n\n\n |  |  |  |  |\n| 🧪 Automatically Generate Commit Message\n\nUse AI models like Anthropic and ChatGPT to write commit messages  \n\n\n |  |  |  |  |\n| Hosting Provider Integrations  \n |  |  |  |  |\n| GitHub\n\nRich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  \n\n\n |  |  |  |  |\n| GitLab\n\nRich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  \n\n\n |  |  |  |  |\n| Azure DevOps | Basic | Basic | Basic | Basic |\n| Bitbucket | Basic | Basic | Basic | Basic |\n| Google | Basic | Basic | Basic | Basic |\n| Gitea | Basic | Basic | Basic | Basic |\n| Gerrit | Basic | Basic | Basic | Basic |\n| Gerrit (Google Source)  \n | Basic | Basic | Basic | Basic |\n| Self-Hosted Provider Integrations  \n |  |  |  |  |\n| Pro GitHub Enterprise\n\nRich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  \n\n\n | Basic |  |  |  |\n| ProGitLab Self-Managed\n\nRich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  \n\n\n | Basic |  |  |  |\n| ProJira Integration\n\nSee autolinks to your Jira issues in rich hovers, inspect view, and everywhere autolinks are supported.  \n\n\n | Basic |  |  |  |\n| Bitbucket Data Center | Basic | Basic | Basic | Basic |\n| User, Team & License Management  \n |  |  |  |  |\n| Maximum Users\n\nUser limitations only apply to GitLens Pro, Teams, and Enterprise plans.  \n\n\n |  | 10 | 100 | Unlimited |\n| One Team Renewal Date; New Team Members are Prorated |  | 1 | 10 | Unlimited |\n| Cloud-Based User Accounts Managed via GitKraken.com  \n |  |  |  | Default |\n| Admin & Security Controls |  |  |  |  |\n| AI security controls\n\nEnable or disable AI commit message generation for your entire organization.  \n\n\n |  |  |  |  |\n| Cloud Patch Private Storage (Coming Soon)\n\nHost your organization’s Cloud Patches on a dedicated AWS S3 bucket by GitKraken.  \n\n\n |  |  |  |  |\n| Cloud Patch Self-Hosted Storage\n\nHost your organization’s Cloud Patches on your own AWS S3 bucket.  \n\n\n |  |  |  |  |\n| Access Management |  |  |  |  |\n| Single Sign-On\n\nSupport for Microsoft Entra (Azure AD), Google Identity Platform, Okta, Ping Identity, and custom SAML  \n\n\n |  |  |  |  |\n| SAML\n\nConfigure SSO with custom SAML  \n\n\n |  |  |  |  |\n| Multi-Domain SSO\n\nManage SSO for multiple domains within the same GitKraken organization  \n\n\n |  |  |  |  |\n| Support  \n |  |  |  |  |\n| GitHub Discussions\n\nParticipate in the GitLens community. Provide feedback, ask or answer questions.  \n\n\n |  |  |  |  |\n| GitHub Issues\n\nReport issues or request features or improvements.  \n\n\n |  |  |  |  |\n| Custom onboarding and training |  |  |  |  |\n| Guaranteed email support |  |  |  |  |\n| [Support Documentation](https://help.gitkraken.com/gitlens/gitlens-home/) |  |  |  |  |\n| [Education & Training Resources for Learning Git](https://www.gitkraken.com/learn/git) |  |  |  |  |\n\nGitKraken CLI\n\n|  | Free | Pro | Teams | Enterprise |\n| --- | --- | --- | --- | --- |\n| Features | \n##### Free\n\n[Install Free](https://www.gitkraken.com/gitkraken-cli/try-free)\n\n | \n\n##### Pro\n\n[Buy Pro](https://gitkraken.dev/purchase)\n\n | \n\n##### Teams\n\n[Buy Teams](https://gitkraken.dev/purchase)\n\n | \n\n##### Enterprise\n\n[Buy Enterprise](https://gitkraken.dev/purchase)\n\n |\n| Git Productivity |  |  |  |  |\n| Launchpad\n\nAll your pull requests, issues and WIPs in one comprehensive list.  \n\n\n |  |  |  |  |\n| Local Workspaces\n\nGroup repos on your local machine to see status and take action on multiple repos at once.  \n\n\n |  |  |  |  |\n| Multi-repo fetch\n\nFetch all, or specific repos in your Workspace with a single command.  \n\n\n |  |  |  |  |\n| Multi-repo pull\n\nPull all, or specific repos in your Workspace with a single command.  \n\n\n |  |  |  |  |\n| Multi-repo push\n\nPush all, or specific repos in your Workspace with a single command.  \n\n\n |  |  |  |  |\n| Multi-repo checkout\n\nCheckout branches across multiple repos in one command.  \n\n\n |  |  |  |  |\n| Open visual commit graph\n\nOpen a visual commit graph in GitKraken Desktop or GitLens/VS Code.  \n\n\n | Public Repos |  |  |  |\n| Team Collaboration |  |  |  |  |\n| Cloud Patches (preview)\n\nView Code Suggestions created by other team members. Code suggestions are accessible from GitKraken.dev, GitKraken Desktop, and GitLens in VS Code.  \n\n\n |  |  |  |  |\n| Review Code Suggestions\n\nSecurely store patches and share a link that allows collaborators to view, download and apply them.  \n\n\n |  |  |  |  |\n| Cloud Workspaces\n\nCreate and share groups of repos with your team to see status and take action on multiple repos at once. Integrations with hosting and issue trackers allow you to see PRs and issues in your terminal.  \n\n\n |  |  |  |  |\n| Multi-repo clone\n\nImprove onboarding with a single command to clone all repos in a shared Cloud Workspace.  \n\n\n |  |  |  |  |\n| GitKraken Insights for Cloud Workspaces\n\nMeasure how fast your pull requests get merged into your repos with metrics like Cycle Time, Throughput and more.  \n\n\n |  | View last 7 days | View up to last 14 days | View up to last 14 days |\n| Pull Request Management |  |  |  |  |\n| List PRs for all repos in a Workspace\n\nList all open pull requests within a Workspace, with options for advanced filtering by title, author, or date.  \n\n\n |  |  |  |  |\n| View PR details\n\nView pull requests details in your terminal.  \n\n\n |  |  |  |  |\n| Cloud Repo Integrations |  |  |  |  |\n| [GitHub.com](https://github.com/)\n\nEasily access remotes and view pull requests for GitHub.com.  \n\n\n |  |  |  |  |\n| [GitLab.com](http://gitlab.com/)\n\nEasily access remotes and view merge requests for GitLab.com.  \n\n\n |  |  |  |  |\n| [Bitbucket.org](https://bitbucket.org/)\n\nEasily access remotes and view pull requests for Bitbucket.org.  \n\n\n |  |  |  |  |\n| Azure DevOps\n\nEasily access remotes and view pull requests for Azure DevOps.  \n\n\n |  |  |  |  |\n| Self-Hosted Repo Integrations |  |  |  |  |\n| GitHub Enterprise Server\n\nEasily access remotes and view pull requests & issues for GitHub Enterprise Server.  \n\n\n |  |  |  |  |\n| GitLab Self-Managed\n\nEasily access remotes and view merge requests for GitLab Self-Managed.  \n\n\n |  |  |  |  |\n| Bitbucket Data Center\n\nEasily access remotes and view pull requests for Bitbucket Data Center.  \n\n\n |  |  |  |  |\n| Issue Tracker Integrations |  |  |  |  |\n| Jira Cloud\n\nView issues from Jira Cloud in your terminal.  \n\n\n |  |  |  |  |\n| Jira Server\n\nView issues from Jira Server in your terminal.  \n\n\n |  |  |  |  |\n| Azure DevOps\n\nView issues from Azure DevOps in your terminal.  \n\n\n |  |  |  |  |\n| [GitHub.com](https://github.com/)\n\nView issues from GitHub.com in your terminal.  \n\n\n |  |  |  |  |\n| GitHub Enterprise\n\nView issues from GitHub Enterprise in your terminal.  \n\n\n |  |  |  |  |\n| [GitLab.com](http://gitlab.com/)\n\nView issues from GitLab.com in your terminal.  \n\n\n |  |  |  |  |\n| GitLab Self-Managed\n\nView issues from GitLab Self-Managed in your terminal.  \n\n\n |  |  |  |  |\n| Trello\n\nView issues from Trello in your terminal.  \n\n\n |  |  |  |  |\n| Admin & Security Controls |  |  |  |  |\n| AI security controls\n\nEnable or disable AI commit message generation for your entire organization.  \n\n\n |  |  |  |  |\n| Cloud Patch Private Storage (Coming Soon)\n\nHost your organization’s Cloud Patches on a dedicated AWS S3 bucket by GitKraken.  \n\n\n |  |  |  |  |\n| Cloud Patch Self-Hosted Storage\n\nHost your organization’s Cloud Patches on your own AWS S3 bucket.  \n\n\n |  |  |  |  |\n| Access Management  \n |  |  |  |  |\n| Single Sign-On\n\nSupport for Microsoft Entra (Azure AD), Google Identity Platform, Okta, Ping Identity, and custom SAML  \n\n\n |  |  |  |  |\n| SAML\n\nConfigure SSO with custom SAML  \n\n\n |  |  |  |  |\n| Multi-Domain SSO\n\nManage SSO for multiple domains within the same GitKraken organization  \n\n\n |  |  |  |  |\n| Self-Hosted Repo Integrations  \n |  |  |  |  |\n| GitHub Enterprise\n\nRich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  \n\n\n |  |  |  |  |\n| GitLab Self-Managed\n\nRich integration, see avatars for commit authors, richer details for auto-linked issues and pull requests, and more.  \n\n\n |  |  |  |  |\n| Bitbucket Server  \n |  |  |  |  |\n| User, Team & License Management  \n |  |  |  |  |\n| Maximum Users\n\nUser limitations only apply to GitLens Pro, Teams, and Enterprise plans.  \n\n\n |  | 10 | 100 | Unlimited |\n| One Team Renewal Date; New Team Members are Prorated |  | 1 | 10 | Unlimited |\n| Cloud-Based User Accounts Managed via GitKraken.com  \n |  |  |  | Default |\n| Single Sign-On |  |  |  |  |\n| Azure Active Directory |  |  |  |  |\n| Google Identity Platform |  |  |  |  |\n| Okta |  |  |  |  |\n| Ping Identity |  |  |  |  |\n| Support  \n |  |  |  |  |\n| Guaranteed email support\n\nExpect a response from the GitKraken Support team within one business day.  \n\n\n |  |  |  |  |\n| [Support Documentation](https://help.gitkraken.com/cli/cli-home/)\n\nAccess detailed information about all GitKraken Desktop features from help.gitkraken.com.  \n\n\n |  |  |  |  |\n| [Education & Training Resources for Learning Git](https://www.gitkraken.com/learn/git)\n\nLearn about Git concepts through articles, video motion graphics, & visual examples.  \n\n\n |  |  |  |  |\n| [Education & Training Resources for Learning Git](https://learn.gitkraken.com/)\n\nEnsure your team has a good understanding of Git with this free training course & certification exam.  \n\n\n |  |  |  |  |\n\n![Image 31](https://www.gitkraken.com/wp-content/uploads/2021/12/Union.svg)\n\n**Products**\n\n[Pricing](https://www.gitkraken.com/pricing)\n\n[Help Center](https://help.gitkraken.com/)  \n\n[**GitKraken Desktop**](https://www.gitkraken.com/git-client)\n\n*   [Login](https://gitkraken.dev/login)  \n*   [Documentation](https://help.gitkraken.com/gitkraken-client/gitkraken-client-home/)  \n*   [Release Notes](https://help.gitkraken.com/gitkraken-client/current/)  \n*   [Roadmap](https://www.gitkraken.com/git-client/roadmap)\n*   [Cheat Sheet](https://www.gitkraken.com/pdfs/gitkraken-git-gui-cheat-sheet)\n*   [CLI Cheat Sheet](https://www.gitkraken.com/pdfs/gitkraken-cli-cheat-sheet)\n\n[**GitLens**](https://www.gitkraken.com/gitlens)\n\n*   [Documentation](https://help.gitkraken.com/gitlens/gitlens-home/)  \n\n[**Git Integration for Jira**](https://www.gitkraken.com/git-integration-for-jira)\n\n*   [Cloud Docs](https://help.gitkraken.com/git-integration-for-jira-cloud/git-integration-for-jira-home-gij-cloud/) \n*   [Data Center/Server Docs](https://help.gitkraken.com/git-integration-for-jira-data-center/git-integration-for-jira-home-self-manged/)\n*   [Security & Trust](https://www.gitkraken.com/git-integration-for-jira/security-and-trust)\n\n**Community**\n\n[Learn Git Library](https://www.gitkraken.com/learn/git)  \n[Git Commands Cheat Sheet](https://www.gitkraken.com/pdfs/git-basics-cheat-sheet)  \n[Git Blog](https://www.gitkraken.com/blog)  \n[GitKraken Labs](https://www.gitkraken.com/labs)  \n[Git Conference](http://gitkon.com/)  \n[Ambassador Program](https://www.gitkraken.com/ambassador)  \n[Newsletter](https://www.gitkraken.com/newsletter)  \n[Slack Community](https://www.gitkraken.com/join-slack-community)    \n[GitKraken for Students](https://www.gitkraken.com/github-student-developer-pack-bundle)  \n[Store](https://www.gitkraken.com/store)  \n[Keif Gallery](https://www.gitkraken.com/keif-gallery)\n\n**Company**\n\n**[Contact Us](https://www.gitkraken.com/contact)  \n[About Us](https://www.gitkraken.com/about)  \n[Careers](https://www.gitkraken.com/careers)  \n[Customers](https://www.gitkraken.com/sample-customers)  \n****[Media](https://www.gitkraken.com/media)  \n[News](https://www.gitkraken.com/media/news)  \n****[Awards](https://www.gitkraken.com/media/awards)  \n[Events](https://www.gitkraken.com/media/events)  \n[Press Releases](https://www.gitkraken.com/media/press)  \n[Logos](https://www.gitkraken.com/media/press-releases#logos)  \n[Privacy](https://www.gitkraken.com/privacy)**\n\n[](https://twitter.com/gitkraken)[Slack](https://www.gitkraken.com/join-slack-community) [Youtube](https://www.youtube.com/gitkraken) [Linkedin](https://www.linkedin.com/company/gitkraken)\n\n**© 2025 Axosoft, LLC DBA GitKraken**\n\n  \n\n**Visual Studio Code is required to install GitLens.**  \n  \nDon’t have Visual Studio Code? [Get it now](https://code.visualstudio.com/download).\n\n[Continue to install GitLens](vscode:extension/eamodio.gitlens)\n\n#### Team Collaboration Services\n\nSecure cloud-backed services that span across all products in the DevEx platform to keep your workflows connected across projects, repos, and team members\n\n**Launchpad** – All your PRs, issues, & tasks in one spot to kick off a focused, unblocked day. **Code Suggest** – Real code suggestions anywhere in your project, as simple as in Google Docs. **Cloud Patches** – Speed up PR reviews by enabling early collaboration on work-in-progress. **Workspaces** – Group & sync repos to simplify multi-repo actions, & get new devs coding faster. **DORA Insights** – Data-driven code insights to track & improve development velocity. **Security & Admin** – Easily set up SSO, manage access, & streamline IdP integrations.\n\n[![Image 32](https://www.gitkraken.com/wp-content/uploads/2024/05/Union.svg) Start Your Free Trial](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success)\n\n#### GitKraken Browser Extension\n\nYour bridge between apps\n\n[Track PRs](https://www.gitkraken.com/browser-extension#track-prs)   –   [View PRs in GitKraken or VS Code](https://www.gitkraken.com/browser-extension#view-prs)  –   [Work More Effectively with Repo Providers](https://www.gitkraken.com/browser-extension#work-more-effectively)\n\n[![Image 33](https://www.gitkraken.com/wp-content/uploads/2024/05/chrome-icon.svg)Add to Chrome](https://chrome.google.com/webstore/detail/gitkraken/egmopflbpgdjmmkeabegohajillnebco)\n\n[![Image 34](https://www.gitkraken.com/wp-content/uploads/2024/05/ff-icon.svg)Add to Firefox](https://addons.mozilla.org/en-US/firefox/addon/gitkraken-browser-extension/)\n\n[![Image 35](https://www.gitkraken.com/wp-content/uploads/2024/05/edge-icon.svg)Add to Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/gitkraken/eehliiniplilmbgcnghhaneefihofjnl)\n\n#### GitLens for VS Code\n\nYour IDE, Smarter with Git  \n30M+ INSTALLS\n\n[Navigate Git, Minimize Mistakes](https://www.gitkraken.com/gitlens#navigate-git) – [Unblock PR & Code Reviews](https://www.gitkraken.com/gitlens#unblock-pr) – [Manage Multiple Repos](https://www.gitkraken.com/gitlens#manage-multiple-repos) – [Code with Momentum](https://www.gitkraken.com/gitlens#code-momentum)\n\n[![Image 36](https://www.gitkraken.com/wp-content/uploads/2024/05/gitlens-btn-icon.svg) Install GitLens in VS Code](https://www.gitkraken.com/pricing#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjY0OTciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)\n\n#### GitKraken CLI\n\nUltimate CLI for Git Collaboration\n\n[Bring PRs, WIPs & Issues to the Terminal](https://www.gitkraken.com/cli#bring-prs-to-terminal) – [Run Multi-Repo Commands](https://www.gitkraken.com/cli#run-multi-repo-commands) – [Manage Groups of Repos](https://www.gitkraken.com/cli#manage-groups-of-repos) – [Suggest Code Revisions](https://www.gitkraken.com/cli#suggest-code-revisions)\n\nwinget install gitkraken.cli\n\n[Or download on GitHub](https://github.com/gitkraken/gk-cli/releases/latest)\n\n#### GitKraken.dev\n\nYour Command Center in the Browser\n\n[Track PRs & Issues](https://www.gitkraken.com/gitkraken-dev#track-prs) – [Suggest and Share Code Changes](https://www.gitkraken.com/gitkraken-dev#suggest-send-code-changes) – [Ramp Up New Devs Faster](https://www.gitkraken.com/gitkraken-dev#ramp-up-new-devs) – [Bring Your Team Together](https://www.gitkraken.com/gitkraken-dev#bring-your-team-together) – [Secure and Control Your Data](https://www.gitkraken.com/gitkraken-dev#secure-control-data)\n\n[Sign Into Your Account](https://gitkraken.dev/login)\n\n[Sign up for free](https://gitkraken.dev/register)\n\n#### GitKraken Desktop\n\nSimplify Git For Any OS\n\n[Visualize Git, Minimize Mistakes](https://www.gitkraken.com/git-client#visualize-git)   –   [Unblock PR & Code Reviews](https://www.gitkraken.com/git-client#unblock-pr)   –   [Manage Multiple Repos](https://www.gitkraken.com/git-client#manage-multiple-repos)   – [Resolve Merge Conflicts with Ease](https://www.gitkraken.com/git-client#resolve-merge-conflicts)   –   [Ramp Up Devs Faster](https://www.gitkraken.com/git-client#ramp-up-new-devs)\n\n[Start Free GitKraken Pro Trial](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success)",
+  "publishedTime": "2022-02-25T10:53:28+00:00",
+  "usage": {
+    "tokens": 11371
+  }
+}
+```

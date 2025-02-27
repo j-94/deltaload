@@ -1,0 +1,454 @@
+Directus Docs | Directus Docs
+===============   
+
+[Skip to content](https://docs.directus.io/#VPContent)
+
+[![Image 17](https://docs.directus.io/logo-dark.svg)![Image 18](https://docs.directus.io/logo-light.svg)](https://docs.directus.io/)
+
+SearchK
+
+Main Navigation[Website](https://directus.io/)[Cloud Dashboard](https://directus.cloud/)[Directus TV](https://directus.io/tv)
+
+[](https://github.com/directus/directus)[](https://twitter.com/directus)[](https://directus.chat/)
+
+Appearance
+
+[](https://github.com/directus/directus)[](https://twitter.com/directus)[](https://directus.chat/)
+
+Menu
+
+Return to top
+
+Sidebar Navigation
+
+[Developers](https://docs.directus.io/)[User Guide](https://docs.directus.io/user-guide/overview/data-studio-app)
+
+Getting Started
+---------------
+
+[Introduction](https://docs.directus.io/getting-started/introduction)
+
+[Quickstart Guide](https://docs.directus.io/getting-started/quickstart)
+
+[Architecture](https://docs.directus.io/getting-started/architecture)
+
+[Help & Support](https://docs.directus.io/getting-started/support)
+
+[Resources](https://docs.directus.io/getting-started/resources)
+
+[Developer Blog](https://docs.directus.io/blog/)
+
+Data Studio App
+---------------
+
+[### Data Model](https://docs.directus.io/app/data-model)
+
+[Collections](https://docs.directus.io/app/data-model/collections)
+
+[#### Fields](https://docs.directus.io/app/data-model/fields)
+
+[Text & Numbers](https://docs.directus.io/app/data-model/fields/text-numbers)
+
+[Selection](https://docs.directus.io/app/data-model/fields/selection)
+
+[Relational](https://docs.directus.io/app/data-model/fields/relational)
+
+[Presentation](https://docs.directus.io/app/data-model/fields/presentation)
+
+[Groups](https://docs.directus.io/app/data-model/fields/groups)
+
+[Other](https://docs.directus.io/app/data-model/fields/other)
+
+[Relationships](https://docs.directus.io/app/data-model/relationships)
+
+[### Flows](https://docs.directus.io/app/flows)
+
+[Triggers](https://docs.directus.io/app/flows/triggers)
+
+[Operations](https://docs.directus.io/app/flows/operations)
+
+API Reference
+-------------
+
+[Introduction](https://docs.directus.io/reference/introduction)
+
+[Authentication](https://docs.directus.io/reference/authentication)
+
+[Global Parameters](https://docs.directus.io/reference/query)
+
+[Filter Rules](https://docs.directus.io/reference/filter-rules)
+
+[Items](https://docs.directus.io/reference/items)
+
+[Files](https://docs.directus.io/reference/files)
+
+[Activity](https://docs.directus.io/reference/system/activity)
+
+[Collections](https://docs.directus.io/reference/system/collections)
+
+[Comments](https://docs.directus.io/reference/system/comments)
+
+[Content Versions](https://docs.directus.io/reference/system/versions)
+
+[Dashboards](https://docs.directus.io/reference/system/dashboards)
+
+[Extensions](https://docs.directus.io/reference/system/extensions)
+
+[Fields](https://docs.directus.io/reference/system/fields)
+
+[Flows](https://docs.directus.io/reference/system/flows)
+
+[Folders](https://docs.directus.io/reference/system/folders)
+
+[Notifications](https://docs.directus.io/reference/system/notifications)
+
+[Operations](https://docs.directus.io/reference/system/operations)
+
+[Panels](https://docs.directus.io/reference/system/panels)
+
+[Permissions](https://docs.directus.io/reference/system/permissions)
+
+[Policies](https://docs.directus.io/reference/system/policies)
+
+[Presets](https://docs.directus.io/reference/system/presets)
+
+[Relations](https://docs.directus.io/reference/system/relations)
+
+[Revisions](https://docs.directus.io/reference/system/revisions)
+
+[Roles](https://docs.directus.io/reference/system/roles)
+
+[Schema](https://docs.directus.io/reference/system/schema)
+
+[Server](https://docs.directus.io/reference/system/server)
+
+[Settings](https://docs.directus.io/reference/system/settings)
+
+[Shares](https://docs.directus.io/reference/system/shares)
+
+[Custom Translations](https://docs.directus.io/reference/system/translations)
+
+[Users](https://docs.directus.io/reference/system/users)
+
+[Utilities](https://docs.directus.io/reference/system/utilities)
+
+Guides
+------
+
+[All Guides](https://docs.directus.io/guides/)
+
+[SDK Guides](https://docs.directus.io/guides/sdk)
+
+[Framework Guides](https://docs.directus.io/guides/frameworks)
+
+[Use Case Guides](https://docs.directus.io/guides/use-cases)
+
+[Realtime Guides](https://docs.directus.io/guides/real-time)
+
+[Extensions Guides](https://docs.directus.io/guides/extensions)
+
+[Administration Guides](https://docs.directus.io/guides/administration)
+
+Use Cases
+---------
+
+### Headless CMS
+
+[Introduction](https://docs.directus.io/use-cases/headless-cms/introduction)
+
+[Concepts](https://docs.directus.io/use-cases/headless-cms/concepts)
+
+[Security Best Practices](https://docs.directus.io/use-cases/headless-cms/security)
+
+Extensions
+----------
+
+### Fundamentals
+
+[Introduction](https://docs.directus.io/extensions/introduction)
+
+[Installing Extensions](https://docs.directus.io/extensions/installing-extensions)
+
+### Developing Extensions
+
+[Creating Extensions](https://docs.directus.io/extensions/creating-extensions)
+
+#### Extension Types
+
+[Displays](https://docs.directus.io/extensions/displays)
+
+[Endpoints](https://docs.directus.io/extensions/endpoints)
+
+[Hooks](https://docs.directus.io/extensions/hooks)
+
+[Interfaces](https://docs.directus.io/extensions/interfaces)
+
+[Layouts](https://docs.directus.io/extensions/layouts)
+
+[Modules](https://docs.directus.io/extensions/modules)
+
+[Operations](https://docs.directus.io/extensions/operations)
+
+[Panels](https://docs.directus.io/extensions/panels)
+
+[Themes](https://docs.directus.io/extensions/themes)
+
+[Bundles](https://docs.directus.io/extensions/bundles)
+
+#### Sandboxed Extensions
+
+[Introduction](https://docs.directus.io/extensions/sandbox/introduction)
+
+[Registering Extensions](https://docs.directus.io/extensions/sandbox/register)
+
+[Sandbox SDK](https://docs.directus.io/extensions/sandbox/sandbox-sdk)
+
+#### Extension Services
+
+[Introduction](https://docs.directus.io/extensions/services/introduction)
+
+[Accessing Items](https://docs.directus.io/extensions/services/accessing-items)
+
+[Configuring Collections, Fields, and Relations](https://docs.directus.io/extensions/services/configuring-collections)
+
+[Accessing Files](https://docs.directus.io/extensions/services/accessing-files)
+
+[Working with Users](https://docs.directus.io/extensions/services/working-with-users)
+
+### Resources
+
+[Components](https://docs.directus.io/extensions/using-ui-components)
+
+[Composables](https://docs.directus.io/extensions/app-composables)
+
+[Packages](https://docs.directus.io/contributing/codebase-overview#packages-packages)
+
+[Marketplace Beta](https://docs.directus.io/extensions/marketplace/publishing)
+
+Contributing
+------------
+
+[Introduction](https://docs.directus.io/contributing/introduction)
+
+### Code
+
+[Request a Feature](https://docs.directus.io/contributing/feature-request-process)
+
+[Pull Request Process](https://docs.directus.io/contributing/pull-request-process)
+
+[Codebase Overview](https://docs.directus.io/contributing/codebase-overview)
+
+[Running Dev Environment](https://docs.directus.io/contributing/running-locally)
+
+[Tests](https://docs.directus.io/contributing/tests)
+
+[Community](https://docs.directus.io/contributing/community)
+
+[Sponsorship & Advocacy](https://docs.directus.io/contributing/sponsor)
+
+Self-Hosted
+-----------
+
+[Quickstart](https://docs.directus.io/self-hosted/quickstart)
+
+[Config Options](https://docs.directus.io/self-hosted/config-options)
+
+[Docker Guide](https://docs.directus.io/self-hosted/docker-guide)
+
+[CLI](https://docs.directus.io/self-hosted/cli)
+
+[Migrations](https://docs.directus.io/self-hosted/migrations)
+
+[Email Templates](https://docs.directus.io/self-hosted/email-templates)
+
+### Single Sign-On (SSO)
+
+[Quickstart](https://docs.directus.io/self-hosted/sso)
+
+[Examples](https://docs.directus.io/self-hosted/sso-examples)
+
+[Upgrades & Migrations](https://docs.directus.io/self-hosted/upgrades-migrations)
+
+Releases
+--------
+
+[Release Notes](https://github.com/directus/directus/releases)
+
+[Breaking Changes](https://docs.directus.io/releases/breaking-changes)
+
+[book New Documentation! ------------------ We've completely revamped our docs which will replace these ones soon. Take a look on https://directus.io/docs and let us know what you think!](https://directus.io/docs)
+
+Resource Hub
+
+Directus Documentation
+======================
+
+Explore our resources and powerful data engine to build your projects confidently.
+
+[Get Started](https://docs.directus.io/getting-started/quickstart)[GitHub](https://github.com/directus/directus/)
+
+Fetch ItemsCreate an ItemAuthenticationRealtime
+
+js
+
+```
+import { createDirectus, rest, readItems } from '@directus/sdk';
+const client = createDirectus('https://xyz.directus.app').with(rest());
+
+const item = await client.request(
+	readItems('articles', {
+		fields: ['id', 'title', 'date_published', 'summary']
+	})
+);
+```
+
+```
+import { createDirectus, rest, readItems } from '@directus/sdk';
+const client = createDirectus('https://xyz.directus.app').with(rest());
+
+const item = await client.request(
+	readItems('articles', {
+		fields: ['id', 'title', 'date_published', 'summary']
+	})
+);
+```
+
+js
+
+```
+import { createDirectus, rest, createItem } from '@directus/sdk';
+const client = createDirectus('https://xyz.directus.app').with(rest());
+
+const item = await client.request(
+	createItem('articles', {
+		title: 'Hello, world!',
+		summary: 'This is my next big thing.'
+	})
+);
+```
+
+```
+import { createDirectus, rest, createItem } from '@directus/sdk';
+const client = createDirectus('https://xyz.directus.app').with(rest());
+
+const item = await client.request(
+	createItem('articles', {
+		title: 'Hello, world!',
+		summary: 'This is my next big thing.'
+	})
+);
+```
+
+js
+
+```
+import { createDirectus, rest, createUser, authentication } from '@directus/sdk';
+const client = createDirectus('https://xyz.directus.app').with(rest()).with(authentication());
+
+const newUser = await client.request(
+	createUser({
+		email: 'user@example.com',
+		password: 'd1r3ctu5'
+	})
+);
+
+const user = await client.login('user@example.com', 'd1r3ctu5');
+```
+
+```
+import { createDirectus, rest, createUser, authentication } from '@directus/sdk';
+const client = createDirectus('https://xyz.directus.app').with(rest()).with(authentication());
+
+const newUser = await client.request(
+	createUser({
+		email: 'user@example.com',
+		password: 'd1r3ctu5'
+	})
+);
+
+const user = await client.login('user@example.com', 'd1r3ctu5');
+```
+
+js
+
+```
+import { createDirectus, realtime } from '@directus/sdk'
+const client = createDirectus('https://xyz.directus.app').with(realtime({ authMode: 'public' }));
+
+const { subscription } = await client.subscribe('messages');
+
+for await (const item of subscription) {
+	console.log(item);
+}
+```
+
+```
+import { createDirectus, realtime } from '@directus/sdk'
+const client = createDirectus('https://xyz.directus.app').with(realtime({ authMode: 'public' }));
+
+const { subscription } = await client.subscribe('messages');
+
+for await (const item of subscription) {
+	console.log(item);
+}
+```
+
+Developer ReferenceUser Guide
+
+[api Database APIs ------------- Use our dynamic REST and GraphQL APIs to access and efficiently manage your data.](https://docs.directus.io/reference/introduction)[database Data Model ---------- Structure and organize items, fields, and relationships in your collections.](https://docs.directus.io/app/data-model)[lock Authentication -------------- Use our powerful and simple authentication features in your own applications.](https://docs.directus.io/reference/authentication)[extension Extensions ---------- Build, modify or expand any feature needed for your project with our flexible extensions.](https://docs.directus.io/extensions/introduction)[bolt Realtime -------- Access real-time data in your project with WebSockets, backed by your database.](https://docs.directus.io/guides/real-time/getting-started/)[flowsheet Flows ----- Create custom, event-driven data processing and task automation workflows.](https://docs.directus.io/app/flows)
+
+Latest From The Blog
+--------------------
+
+Project tutorials, tips & tricks, and best practices from the Directus team and community.
+
+[![Image 19](https://marketing.directus.app/assets/cfdc7301-e0e5-4d8e-a55c-071a330fcae3?key=card) ### The Changelog #5](https://docs.directus.io/blog/the-changelog-5)
+
+[![Image 20](https://marketing.directus.app/assets/50674c9b-2b6c-48c2-8d52-d385ae59a151?key=card) ### How I Built an AI Open Source Santa Roast App with Directus and Nuxt](https://docs.directus.io/blog/ai-santa-roast-app-with-directus-nuxt)
+
+[![Image 21](https://marketing.directus.app/assets/ee44f66d-9090-45c5-b465-e92a9928c425?key=card) ### The Changelog #4](https://docs.directus.io/blog/the-changelog-4)
+
+[![Image 22](https://marketing.directus.app/assets/5a4c31ff-8686-452d-88d7-e3a069434492?key=card) ### The Changelog #3](https://docs.directus.io/blog/the-changelog-3)
+
+[View All Posts](https://docs.directus.io/blog/)
+
+We 💜 Your Framework
+--------------------
+
+Combine Directus with your favorite framework to create flexible and fast web applications.
+
+[![Image 23: Next.js](https://docs.directus.io/assets/frameworks/next.png)](https://docs.directus.io/guides/headless-cms/build-static-website/next)[![Image 24: Nuxt](https://docs.directus.io/assets/frameworks/nuxt.png)](https://docs.directus.io/guides/headless-cms/build-static-website/nuxt-3)[![Image 25: Astro](https://docs.directus.io/assets/frameworks/astro.png)](https://docs.directus.io/blog/getting-started-directus-astro)[![Image 26: SvelteKit](https://docs.directus.io/assets/frameworks/sveltekit.png)](https://docs.directus.io/blog/getting-started-directus-sveltekit)[![Image 27: SolidStart](https://docs.directus.io/assets/frameworks/solidstart.png)](https://docs.directus.io/blog/getting-started-solidstart)[![Image 28: Gastby](https://docs.directus.io/assets/frameworks/gatsby.png)](https://docs.directus.io/blog/getting-started-with-directus-and-gatsby)[![Image 29: Eleventy](https://docs.directus.io/assets/frameworks/11ty.png)](https://docs.directus.io/blog/getting-started-directus-and-eleventy-11ty-3)[![Image 30: Remix](https://docs.directus.io/assets/frameworks/remix.png)](https://docs.directus.io/blog/getting-started-with-directus-and-remix)
+
+[View All Guides](https://docs.directus.io/guides)
+
+Self Hosted Directus
+--------------------
+
+Learn how to run Directus on your own machine, customize settings, and deploy with confidence.
+
+[![Image 31](https://docs.directus.io/assets/docker.png) ### Get Started with Docker Get up and running with our Docker Guide.](https://docs.directus.io/self-hosted/quickstart)
+
+[![Image 32](https://docs.directus.io/assets/config-options.png) ### Config Options A reference of all possible settings in your project.](https://docs.directus.io/self-hosted/config-options)
+
+Contributing to Directus
+------------------------
+
+There are many ways in which you can contribute to the health and growth of the Directus project.
+
+[Join the Community](https://discord.com/invite/directus)[GitHub](https://github.com/directus/directus/)
+
+[post\_add ### Request a Feature Propose new features to improve Directus. Find out how we use GitHub Discussions to organize requests.](https://docs.directus.io/contributing/feature-request-process)[code ### Contribute via Code Make a significant impact with code contributions. Read our Pull Request process and find out about our CLA.](https://docs.directus.io/contributing/introduction)[handshake ### Sponsorship & Advocacy Sponsor our project, increase its visibility and find out how to share the word with others!](https://docs.directus.io/contributing/sponsor)
+
+*   [](https://www.linkedin.com/company/directus-io)
+*   [](https://hub.docker.com/r/directus/directus)
+*   [](https://www.npmjs.com/package/directus)
+*   [](https://www.youtube.com/c/DirectusVideos)
+*   [](https://directus.chat/)
+*   [](https://twitter.com/directus)
+*   [](https://github.com/directus)
+
+*   [License](https://github.com/directus/directus/blob/main/license)
+*   [Terms](https://directus.io/terms/)
+*   [Privacy](https://directus.io/privacy/)
+
+[© 2024 Monospace Inc](https://monospace.io/)

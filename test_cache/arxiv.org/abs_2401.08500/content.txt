@@ -1,0 +1,92 @@
+Skip to main content
+
+In just 3 minutes help us improve arXiv:
+
+Annual Global Survey
+We gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors.
+Donate
+>
+cs
+>
+arXiv:2401.08500
+
+Help | Advanced Search
+
+All fields
+Title
+Author
+Abstract
+Comments
+Journal reference
+ACM classification
+MSC classification
+Report number
+arXiv identifier
+DOI
+ORCID
+arXiv author ID
+Help pages
+Full text
+Search
+Computer Science > Machine Learning
+[Submitted on 16 Jan 2024]
+Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering
+Tal Ridnik, Dedy Kredo, Itamar Friedman
+Code generation problems differ from common natural language problems - they require matching the exact syntax of the target language, identifying happy paths and edge cases, paying attention to numerous small details in the problem spec, and addressing other code-specific issues and requirements. Hence, many of the optimizations and tricks that have been successful in natural language generation may not be effective for code tasks. In this work, we propose a new approach to code generation by LLMs, which we call AlphaCodium - a test-based, multi-stage, code-oriented iterative flow, that improves the performances of LLMs on code problems. We tested AlphaCodium on a challenging code generation dataset called CodeContests, which includes competitive programming problems from platforms such as Codeforces. The proposed flow consistently and significantly improves results. On the validation set, for example, GPT-4 accuracy (pass@5) increased from 19% with a single well-designed direct prompt to 44% with the AlphaCodium flow. Many of the principles and best practices acquired in this work, we believe, are broadly applicable to general code generation tasks. Full implementation is available at: this https URL
+Subjects:	Machine Learning (cs.LG); Computation and Language (cs.CL); Software Engineering (cs.SE)
+Cite as:	arXiv:2401.08500 [cs.LG]
+ 	(or arXiv:2401.08500v1 [cs.LG] for this version)
+ 	
+https://doi.org/10.48550/arXiv.2401.08500
+Focus to learn more
+Submission history
+From: Tal Ridnik [view email]
+[v1] Tue, 16 Jan 2024 17:00:36 UTC (358 KB)
+
+Access Paper:
+View PDF
+TeX Source
+Other Formats
+view license
+Current browse context:
+cs.LG
+< prev   |   next >
+
+new | recent | 2024-01
+Change to browse by:
+cs
+cs.CL
+cs.SE
+
+References & Citations
+NASA ADS
+Google Scholar
+Semantic Scholar
+Export BibTeX Citation
+Bookmark
+ 
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer (What is the Explorer?)
+Connected Papers Toggle
+Connected Papers (What is Connected Papers?)
+Litmaps Toggle
+Litmaps (What is Litmaps?)
+scite.ai Toggle
+scite Smart Citations (What are Smart Citations?)
+Code, Data, Media
+Demos
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?)
+About
+Help
+Contact
+Subscribe
+Copyright
+Privacy Policy
+Web Accessibility Assistance
+
+arXiv Operational Status 
+Get status notifications via email or slack

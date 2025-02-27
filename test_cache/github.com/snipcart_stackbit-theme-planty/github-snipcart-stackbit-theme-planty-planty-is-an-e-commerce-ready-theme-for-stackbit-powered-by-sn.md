@@ -1,0 +1,149 @@
+---
+title: GitHub - snipcart/stackbit-theme-planty: Planty is an e-commerce ready theme for Stackbit, powered by Snipcart.
+description: Planty is an e-commerce ready theme for Stackbit, powered by Snipcart. - snipcart/stackbit-theme-planty
+url: https://github.com/snipcart/stackbit-theme-planty
+timestamp: 2025-01-20T15:31:13.990Z
+domain: github.com
+path: snipcart_stackbit-theme-planty
+---
+
+# GitHub - snipcart/stackbit-theme-planty: Planty is an e-commerce ready theme for Stackbit, powered by Snipcart.
+
+
+Planty is an e-commerce ready theme for Stackbit, powered by Snipcart. - snipcart/stackbit-theme-planty
+
+
+## Content
+
+[![Image 38: logo](https://camo.githubusercontent.com/e0fd906c96989c365b7c4024585905d12b69caeb28b5bba95cd7d6f1a4bd5f5e/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343438352f6c6f676f2e737667)](https://camo.githubusercontent.com/e0fd906c96989c365b7c4024585905d12b69caeb28b5bba95cd7d6f1a4bd5f5e/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343438352f6c6f676f2e737667)
+
+Planty Stackbit theme
+---------------------
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#planty-stackbit-theme)
+
+[![Image 39: Create with Stackbit](https://camo.githubusercontent.com/d9bfd91e557369373c2893094b5b8405c16132c889c6b1317c966501a337e41c/68747470733a2f2f6173736574732e737461636b6269742e636f6d2f62616467652f6372656174652d776974682d737461636b6269742e737667)](https://app.stackbit.com/create?theme=https://github.com/snipcart/stackbit-theme-planty&ssg=jekyll)
+
+Planty is an e-commerce ready custom theme for Stackbit created by [Snipcart](http://bit.ly/2YB7AUL).
+
+This theme can be used to create an e-commerce ready website through Stackbit's platform. You'll get everything you need from products listing, categorization, FAQ, etc.
+
+You can see it in action right [here](https://stackbit-theme-planty.netlify.com/).
+
+> To learn more about Stackbit and its custom themes feature, [read this post](http://bit.ly/2YAvGix).
+
+How to get started
+------------------
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#how-to-get-started)
+
+In Stackbit's custom themes importer, just use this repository URL. For the moment, this theme works only with Jekyll but will soon work with other static site generators supported by Stackbit.
+
+Theme configuration
+-------------------
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#theme-configuration)
+
+> Please note that the screenshots below have been taken in Forestry, you can use Forestry as headless CMS for your project if you want, but this also work with other CMSs.
+
+### Configuring Snipcart
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#configuring-snipcart)
+
+First thing is to enter your Snipcart API key. Open your CMS and go to `Global site config`.
+
+[![Image 40: api-key](https://camo.githubusercontent.com/6f7da2bed5a82042e705fc4127358d5fe69c3753307e6d1648f818aecfb6a982/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531362f636f6e6669675f6170695f6b65792e706e67)](https://camo.githubusercontent.com/6f7da2bed5a82042e705fc4127358d5fe69c3753307e6d1648f818aecfb6a982/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531362f636f6e6669675f6170695f6b65792e706e67)
+
+Use your **public** API key in there.
+
+### Logos
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#logos)
+
+Logos can be updated via the CMS as well. You'll be asked to provide a dark and a light logo.
+
+[![Image 41: logo](https://camo.githubusercontent.com/f574ad728cd1a4587d9fb26962a68b66f58865d983b19881574f8075d9ded64d/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531382f636f6e6669675f6c6f676f732e706e67)](https://camo.githubusercontent.com/f574ad728cd1a4587d9fb26962a68b66f58865d983b19881574f8075d9ded64d/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531382f636f6e6669675f6c6f676f732e706e67)
+
+### Styles configuration
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#styles-configuration)
+
+Colors can be managed via the CMS as well. Under `Global site config` section, open `Styles config`. You'll see all colors used throughout the theme listed here. Adjust them for your own branding.
+
+[![Image 42: styles-config](https://camo.githubusercontent.com/f1b5f3646f975500f614e7bf27a653144f8cc1874e9590ba2df8442951f6cfa3/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530382f636f6e6669675f7374796c65732e706e67)](https://camo.githubusercontent.com/f1b5f3646f975500f614e7bf27a653144f8cc1874e9590ba2df8442951f6cfa3/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530382f636f6e6669675f7374796c65732e706e67)
+
+You can also configure background images in there.
+
+[![Image 43: background-images](https://camo.githubusercontent.com/0e1a4d434e7ca24c39108cdffe13b6619db23bd77aa96378e8ccf1c45c60886b/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531372f636f6e6669675f6261636b67726f756e64696d616765732e706e67)](https://camo.githubusercontent.com/0e1a4d434e7ca24c39108cdffe13b6619db23bd77aa96378e8ccf1c45c60886b/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531372f636f6e6669675f6261636b67726f756e64696d616765732e706e67)
+
+### Categories
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#categories)
+
+Each product can be associated to a category. Open the Categories section and manage them there.
+
+[![Image 44: categories](https://camo.githubusercontent.com/7928e3c977185f05e97502554bdf5428e73e219aa1013a2737dc3e488370fad4/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531302f6c6973745f63617465676f726965732e706e67)](https://camo.githubusercontent.com/7928e3c977185f05e97502554bdf5428e73e219aa1013a2737dc3e488370fad4/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531302f6c6973745f63617465676f726965732e706e67)
+
+### Products
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#products)
+
+Products can be managed directly through the CMS via the Products section.
+
+[![Image 45: products](https://camo.githubusercontent.com/47462175a15fb1ac7421619b4fcafabff8b72b5cd5f684cf9c02133b99646717/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531312f6c6973745f70726f64756374732e706e67)](https://camo.githubusercontent.com/47462175a15fb1ac7421619b4fcafabff8b72b5cd5f684cf9c02133b99646717/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531312f6c6973745f70726f64756374732e706e67)
+
+Products have several properties available, both for Snipcart and for the theme. You can define its price, description, name, ID, etc.
+
+You can also define if this is a **featured** product, meaning that it will show in the Best sellers section on the site. A feature product will use the Feature images set.
+
+[![Image 46: product-details](https://camo.githubusercontent.com/d8f58ef0e3cf3eb30be97b7683ac57a89d9dc61002c7129cfea7379701cb37b9/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531342f70726f647563745f64657461696c732e706e67)](https://camo.githubusercontent.com/d8f58ef0e3cf3eb30be97b7683ac57a89d9dc61002c7129cfea7379701cb37b9/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531342f70726f647563745f64657461696c732e706e67)
+
+### Promotion
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#promotion)
+
+The promotion is a component displayed just above the footer on some pages. You can configure what to show in that box via the CMS.
+
+[![Image 47: promotion](https://camo.githubusercontent.com/28ce0cda86d9272486c5dea92502380c79d7d3ac406a16aef59399c7144f3fde/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530342f636f6d706f6e656e74735f70726f6d6f74696f6e2e706e67)](https://camo.githubusercontent.com/28ce0cda86d9272486c5dea92502380c79d7d3ac406a16aef59399c7144f3fde/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530342f636f6d706f6e656e74735f70726f6d6f74696f6e2e706e67)
+
+You can define a Call to action for the promotion, it's usually a link to a section of your site.
+
+[![Image 48: promotion-cta](https://camo.githubusercontent.com/6bc85ee965a6e0b8647b32efe0ccab039fe8890423003a973411deb3fa6a4599/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530352f636f6d706f6e656e74735f70726f6d6f74696f6e5f6374612e706e67)](https://camo.githubusercontent.com/6bc85ee965a6e0b8647b32efe0ccab039fe8890423003a973411deb3fa6a4599/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530352f636f6d706f6e656e74735f70726f6d6f74696f6e5f6374612e706e67)
+
+### Testimonials
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#testimonials)
+
+You can manage testimonials to show on the site via this section.
+
+[![Image 49: testimonials](https://camo.githubusercontent.com/a870e2dd3ab80d3ff458148e2288f85f65e8e5ffb693b937c92883969eb00eda/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530362f636f6d706f6e656e74735f74657374696d6f6e69616c732e706e67)](https://camo.githubusercontent.com/a870e2dd3ab80d3ff458148e2288f85f65e8e5ffb693b937c92883969eb00eda/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530362f636f6d706f6e656e74735f74657374696d6f6e69616c732e706e67)
+
+### About
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#about)
+
+Manage the content of the About section here.
+
+[![Image 50: about](https://camo.githubusercontent.com/1aad0326a17062d78dbd88eb808722a0c0cf0d94b891e9da5cf1e7b9ed1a1476/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531322f70616765735f61626f75742e706e67)](https://camo.githubusercontent.com/1aad0326a17062d78dbd88eb808722a0c0cf0d94b891e9da5cf1e7b9ed1a1476/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531322f70616765735f61626f75742e706e67)
+
+### FAQ
+
+[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#faq)
+
+Manage your FAQ entries in this section.
+
+[![Image 51: faq](https://camo.githubusercontent.com/122e9c376dd4e2c12987575fe76765b3ca9fecb27da95ca8466d98ee847f5f3e/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531332f70616765735f6661712e706e67)](https://camo.githubusercontent.com/122e9c376dd4e2c12987575fe76765b3ca9fecb27da95ca8466d98ee847f5f3e/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531332f70616765735f6661712e706e67)
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - snipcart/stackbit-theme-planty: Planty is an e-commerce ready theme for Stackbit, powered by Snipcart.",
+  "description": "Planty is an e-commerce ready theme for Stackbit, powered by Snipcart. - snipcart/stackbit-theme-planty",
+  "url": "https://github.com/snipcart/stackbit-theme-planty?screenshot=true",
+  "content": "[![Image 38: logo](https://camo.githubusercontent.com/e0fd906c96989c365b7c4024585905d12b69caeb28b5bba95cd7d6f1a4bd5f5e/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343438352f6c6f676f2e737667)](https://camo.githubusercontent.com/e0fd906c96989c365b7c4024585905d12b69caeb28b5bba95cd7d6f1a4bd5f5e/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343438352f6c6f676f2e737667)\n\nPlanty Stackbit theme\n---------------------\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#planty-stackbit-theme)\n\n[![Image 39: Create with Stackbit](https://camo.githubusercontent.com/d9bfd91e557369373c2893094b5b8405c16132c889c6b1317c966501a337e41c/68747470733a2f2f6173736574732e737461636b6269742e636f6d2f62616467652f6372656174652d776974682d737461636b6269742e737667)](https://app.stackbit.com/create?theme=https://github.com/snipcart/stackbit-theme-planty&ssg=jekyll)\n\nPlanty is an e-commerce ready custom theme for Stackbit created by [Snipcart](http://bit.ly/2YB7AUL).\n\nThis theme can be used to create an e-commerce ready website through Stackbit's platform. You'll get everything you need from products listing, categorization, FAQ, etc.\n\nYou can see it in action right [here](https://stackbit-theme-planty.netlify.com/).\n\n> To learn more about Stackbit and its custom themes feature, [read this post](http://bit.ly/2YAvGix).\n\nHow to get started\n------------------\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#how-to-get-started)\n\nIn Stackbit's custom themes importer, just use this repository URL. For the moment, this theme works only with Jekyll but will soon work with other static site generators supported by Stackbit.\n\nTheme configuration\n-------------------\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#theme-configuration)\n\n> Please note that the screenshots below have been taken in Forestry, you can use Forestry as headless CMS for your project if you want, but this also work with other CMSs.\n\n### Configuring Snipcart\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#configuring-snipcart)\n\nFirst thing is to enter your Snipcart API key. Open your CMS and go to `Global site config`.\n\n[![Image 40: api-key](https://camo.githubusercontent.com/6f7da2bed5a82042e705fc4127358d5fe69c3753307e6d1648f818aecfb6a982/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531362f636f6e6669675f6170695f6b65792e706e67)](https://camo.githubusercontent.com/6f7da2bed5a82042e705fc4127358d5fe69c3753307e6d1648f818aecfb6a982/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531362f636f6e6669675f6170695f6b65792e706e67)\n\nUse your **public** API key in there.\n\n### Logos\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#logos)\n\nLogos can be updated via the CMS as well. You'll be asked to provide a dark and a light logo.\n\n[![Image 41: logo](https://camo.githubusercontent.com/f574ad728cd1a4587d9fb26962a68b66f58865d983b19881574f8075d9ded64d/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531382f636f6e6669675f6c6f676f732e706e67)](https://camo.githubusercontent.com/f574ad728cd1a4587d9fb26962a68b66f58865d983b19881574f8075d9ded64d/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531382f636f6e6669675f6c6f676f732e706e67)\n\n### Styles configuration\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#styles-configuration)\n\nColors can be managed via the CMS as well. Under `Global site config` section, open `Styles config`. You'll see all colors used throughout the theme listed here. Adjust them for your own branding.\n\n[![Image 42: styles-config](https://camo.githubusercontent.com/f1b5f3646f975500f614e7bf27a653144f8cc1874e9590ba2df8442951f6cfa3/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530382f636f6e6669675f7374796c65732e706e67)](https://camo.githubusercontent.com/f1b5f3646f975500f614e7bf27a653144f8cc1874e9590ba2df8442951f6cfa3/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530382f636f6e6669675f7374796c65732e706e67)\n\nYou can also configure background images in there.\n\n[![Image 43: background-images](https://camo.githubusercontent.com/0e1a4d434e7ca24c39108cdffe13b6619db23bd77aa96378e8ccf1c45c60886b/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531372f636f6e6669675f6261636b67726f756e64696d616765732e706e67)](https://camo.githubusercontent.com/0e1a4d434e7ca24c39108cdffe13b6619db23bd77aa96378e8ccf1c45c60886b/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531372f636f6e6669675f6261636b67726f756e64696d616765732e706e67)\n\n### Categories\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#categories)\n\nEach product can be associated to a category. Open the Categories section and manage them there.\n\n[![Image 44: categories](https://camo.githubusercontent.com/7928e3c977185f05e97502554bdf5428e73e219aa1013a2737dc3e488370fad4/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531302f6c6973745f63617465676f726965732e706e67)](https://camo.githubusercontent.com/7928e3c977185f05e97502554bdf5428e73e219aa1013a2737dc3e488370fad4/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531302f6c6973745f63617465676f726965732e706e67)\n\n### Products\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#products)\n\nProducts can be managed directly through the CMS via the Products section.\n\n[![Image 45: products](https://camo.githubusercontent.com/47462175a15fb1ac7421619b4fcafabff8b72b5cd5f684cf9c02133b99646717/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531312f6c6973745f70726f64756374732e706e67)](https://camo.githubusercontent.com/47462175a15fb1ac7421619b4fcafabff8b72b5cd5f684cf9c02133b99646717/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531312f6c6973745f70726f64756374732e706e67)\n\nProducts have several properties available, both for Snipcart and for the theme. You can define its price, description, name, ID, etc.\n\nYou can also define if this is a **featured** product, meaning that it will show in the Best sellers section on the site. A feature product will use the Feature images set.\n\n[![Image 46: product-details](https://camo.githubusercontent.com/d8f58ef0e3cf3eb30be97b7683ac57a89d9dc61002c7129cfea7379701cb37b9/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531342f70726f647563745f64657461696c732e706e67)](https://camo.githubusercontent.com/d8f58ef0e3cf3eb30be97b7683ac57a89d9dc61002c7129cfea7379701cb37b9/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531342f70726f647563745f64657461696c732e706e67)\n\n### Promotion\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#promotion)\n\nThe promotion is a component displayed just above the footer on some pages. You can configure what to show in that box via the CMS.\n\n[![Image 47: promotion](https://camo.githubusercontent.com/28ce0cda86d9272486c5dea92502380c79d7d3ac406a16aef59399c7144f3fde/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530342f636f6d706f6e656e74735f70726f6d6f74696f6e2e706e67)](https://camo.githubusercontent.com/28ce0cda86d9272486c5dea92502380c79d7d3ac406a16aef59399c7144f3fde/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530342f636f6d706f6e656e74735f70726f6d6f74696f6e2e706e67)\n\nYou can define a Call to action for the promotion, it's usually a link to a section of your site.\n\n[![Image 48: promotion-cta](https://camo.githubusercontent.com/6bc85ee965a6e0b8647b32efe0ccab039fe8890423003a973411deb3fa6a4599/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530352f636f6d706f6e656e74735f70726f6d6f74696f6e5f6374612e706e67)](https://camo.githubusercontent.com/6bc85ee965a6e0b8647b32efe0ccab039fe8890423003a973411deb3fa6a4599/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530352f636f6d706f6e656e74735f70726f6d6f74696f6e5f6374612e706e67)\n\n### Testimonials\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#testimonials)\n\nYou can manage testimonials to show on the site via this section.\n\n[![Image 49: testimonials](https://camo.githubusercontent.com/a870e2dd3ab80d3ff458148e2288f85f65e8e5ffb693b937c92883969eb00eda/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530362f636f6d706f6e656e74735f74657374696d6f6e69616c732e706e67)](https://camo.githubusercontent.com/a870e2dd3ab80d3ff458148e2288f85f65e8e5ffb693b937c92883969eb00eda/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343530362f636f6d706f6e656e74735f74657374696d6f6e69616c732e706e67)\n\n### About\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#about)\n\nManage the content of the About section here.\n\n[![Image 50: about](https://camo.githubusercontent.com/1aad0326a17062d78dbd88eb808722a0c0cf0d94b891e9da5cf1e7b9ed1a1476/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531322f70616765735f61626f75742e706e67)](https://camo.githubusercontent.com/1aad0326a17062d78dbd88eb808722a0c0cf0d94b891e9da5cf1e7b9ed1a1476/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531322f70616765735f61626f75742e706e67)\n\n### FAQ\n\n[](https://github.com/snipcart/stackbit-theme-planty?screenshot=true#faq)\n\nManage your FAQ entries in this section.\n\n[![Image 51: faq](https://camo.githubusercontent.com/122e9c376dd4e2c12987575fe76765b3ca9fecb27da95ca8466d98ee847f5f3e/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531332f70616765735f6661712e706e67)](https://camo.githubusercontent.com/122e9c376dd4e2c12987575fe76765b3ca9fecb27da95ca8466d98ee847f5f3e/68747470733a2f2f6f672d776562736974652e736e6970636172742e636f6d2f6d656469612f3230343531332f70616765735f6661712e706e67)",
+  "usage": {
+    "tokens": 3950
+  }
+}
+```

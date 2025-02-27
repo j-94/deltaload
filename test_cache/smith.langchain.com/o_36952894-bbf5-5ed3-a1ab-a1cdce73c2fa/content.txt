@@ -1,0 +1,8 @@
+Create an account
+-----------------
+
+or
+
+By continuing, you agree to our [Terms of Service](https://www.langchain.com/terms-of-service) and [Privacy Policy](https://www.langchain.com/privacy-policy).
+
+Data Security is important to us. To learn more about our policies and certifications, visit [trust.langchain.com](https://trust.langchain.com/) for more information.

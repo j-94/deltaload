@@ -1,0 +1,170 @@
+---
+title: Better RAG 2: Single-shot is not good enough
+description: A Blog post by Hrishi Olickel on Hugging Face
+url: https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking
+timestamp: 2025-01-20T15:59:53.587Z
+domain: huggingface.co
+path: blog_hrishioa_retrieval-augmented-generation-2-walking
+---
+
+# Better RAG 2: Single-shot is not good enough
+
+
+A Blog post by Hrishi Olickel on Hugging Face
+
+
+## Content
+
+[Back to Articles](https://huggingface.co/blog)
+
+[![Image 26: Hrishi Olickel's avatar](https://cdn-avatars.huggingface.co/v1/production/uploads/6469c972a5dd10c9a49d683b/EBh6q6vbmMYqBe4LHZzFx.png)](https://huggingface.co/hrishioa)
+
+*   [The Problem](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#the-problem "The Problem")
+    
+*   [1\. Fact Extraction](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#1-fact-extraction "1. Fact Extraction")
+    
+*   [2\. Finding new threads](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#2-finding-new-threads "2. Finding new threads")
+    *   [3\. Connecting the threads](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#3-connecting-the-threads "3. Connecting the threads")
+        
+*   [Entropy](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#entropy "Entropy")
+    
+*   [Intermediates](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#intermediates "Intermediates")
+    
+*   [Conclusion](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#conclusion "Conclusion")
+    
+
+This is part 2 of a series on improving retrieval-augmented-generation systems. [Part 1](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-1-basics) covers the basics and some considerations in system design, key concerns such as question complexity, and the need for new solutions.
+
+In this part, we'll cover the basics of multi-turn retrieval - what it is, why it's needed, and how to implement it. If you were interested in how WalkingRAG works, this article should leave you with a working, implementable understanding of how to build a similar system.
+
+[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#the-problem)The Problem
+--------------------------------------------------------------------------------------------------------
+
+Almost all RAG systems today work 'single-shot' - for a given question, they retrieve information, trim and modify, and use an LLM to generate an answer. Prima facie this seems okay - until you consider how humans answer questions.
+
+Let's presume that you're an above GPT-4 level intelligence. How often have you been able to solve problems with a single round of retrieval? In most cases, your first round of Google searches, combined with any residual information you have, gets you closer to _finding_ the answer - rarely do you have everything you need for a comprehensive, correct response from the first round alone. We need a method for the central intelligence - whether that's you or an LLM - to ask for more information, contextual to the retrieval that has already taken place.
+
+Moreover, expecting single-shot RAG to hit higher and higher benchmarks is placing an impossible requirement of intelligence purely on the Retrieval system. In most cases this is an unfortunate embedding model that's trained for semantic understanding, or [something even simpler](https://en.wikipedia.org/wiki/Okapi_BM25#:~:text=BM25%20is%20a%20bag%2Dof,slightly%20different%20components%20and%20parameters.). Trying to push single-shot retrieval to human-level is an easy path to [larger and larger](https://www.pinecone.io/) vector databases, [longer context](https://www.llamaindex.ai/blog/towards-long-context-rag) embeddings, and [complex embedding transformations](https://github.com/openai/openai-cookbook/blob/main/examples/Customizing_embeddings.ipynb) where you can burn large amounts of money and dev time without much benefit.
+
+The solution that worked for us with [WalkingRAG](https://twitter.com/hrishioa/status/1745835962108985737) is to find a way for the LLM - the largest and most intelligent brain in a RAG pipeline - to ask for more information, and to use this information for multiple rounds of retrieval.
+
+To have effective multi-shot retrieval, we need three things:
+
+1.  We need to extract partial information from retrieved pieces of source data, so we can learn as we go.
+    
+2.  We need to find new places to look, informed by the source data as well as the question.
+    
+3.  We need to retrieve information from those specific places.
+    
+
+If we can successfully connect all three, we can do multi-turn retrieval.
+
+[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#1-fact-extraction)1\. Fact Extraction
+----------------------------------------------------------------------------------------------------------------------
+
+We'll be using [GPTs](https://openai.com/blog/introducing-the-gpt-store) and [Huggingface Assistants](https://huggingface.co/chat/assistants) as demonstrations of individual concepts. The prompts will be provided, but there's something about an interactive prompt you can poke at.
+
+The prompts used are intentionally stripped down to be illustrative - I apologize in advance for any brittleness in the outputs!
+
+[Here's a GPT that demonstrates fact extraction.](https://chat.openai.com/g/g-kByF2Q1jD-partial-fact-extractor) Give it some document or text, and ask a question. [The COP24 report](https://unfccc.int/sites/default/files/resource/WHO%20COP24%20Special%20Report_final.pdf) is an easy public source you can use as a large document for testing. Let's load the document and ask a mildly complex question:
+
+[![Image 27: factextractor](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/iJiANqDEKnkBpagwzj27G.png)](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/iJiANqDEKnkBpagwzj27G.png)
+
+If you remember [Part 1](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-1-basics), you'll know what's happening under the hood: OpenAI's RAG system retrieves a few relevant chunks from the document we've uploaded, sorted by embedding similarity to our question, and passes these to the LLM to use for an answer.
+
+However, in this case, we're asking the LLM to extract individual facts from the chunks provided instead of an answer, as well as a description of why this fact is relevant to an eventual answer. We're adding an extra step - almost like a [chain of thought](https://olickel.com/everything-i-know-about-prompting-llms#engineeringtheinternalmonologue) - that will help us start listing out the information we need. Think of going to a library, and keeping a notebook of useful information as you pore over books of information.
+
+We internally call these **Partial Facts** - information extracted from the document that is at least loosely relevant to the question being asked. Here's the prompt we use:
+
+```
+Make a markdown table of relevant facts, following this typespec for the columns:
+
+"""
+fact: string; //  Provide information directly relevant to the question - either supplementary data, facts, or where the answer might be located, like pages and sections. Add definitions and other context from the page into the fact, so it's self-explanatory.
+relevance: string; // How is this fact relevant to the answer?
+"""
+```
+
+Note that the output is in Markdown here for readability - inside WalkingRAG we extract this out as streaming JSON. Here's [a video of streaming](https://twitter.com/hrishioa/status/1734935026201239800?s=20) in action.
+
+[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#2-finding-new-threads)2\. Finding new threads
+------------------------------------------------------------------------------------------------------------------------------
+
+Once we have partial facts, we want to know what they tell us about new places to look for additional information.
+
+Try the same document and question [with this GPT](https://chat.openai.com/g/g-ZqcIX0J27-partial-facts-with-links). Let's ask the same question, with the same document:
+
+[![Image 28: factswithlinks](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/x-j8Lyz3xF-q_E1LwUncE.png)](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/x-j8Lyz3xF-q_E1LwUncE.png)
+
+What it's doing here is extracting references from the chunks that were retrieved. In most cases, complex documents will tell you _outright_ where to look for more information - in footnotes, references, or by naming topics. It's often trivial to extract them, without much additional cost - since you're already extracting facts.
+
+All we've had to do is to expand our typespec, just a little:
+
+```
+fact: string; //  Provide information directly relevant to the question (or where to find more information in the text) - either supplementary data, facts, or where the answer might be located, like pages and sections. Add definitions and other context from the page into the fact, so it's self-explanatory.
+relevance: string; // How is this fact relevant to the answer?
+nextSource: string; // a page number, a section name, or other descriptors of where to look for more information.
+expectedInfo: string; // What information do you expect to find there?
+```
+
+### [](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#3-connecting-the-threads)3\. Connecting the threads
+
+Once we have these references - in our case, we're looking for 'Sections on climate change mitigation strategies' and 'health impacts of climate change' - we need a way to retrieve new information from the document specific to these descriptors.
+
+This is where [embeddings](https://huggingface.co/blog/getting-started-with-embeddings) can be quite useful. We can embed the descriptors, and use them to search the document for new chunks of information that were missed by the previous round of retrieval.
+
+It's hard to demonstrate this with a GPT, but try pasting the descriptors right back into the conversation and asking for more facts - chances are you'll find newer, more relevant chunks and information.
+
+[![Image 29: usinglinks](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/KdVyGabSTdQcnhUg0FKWK.png)](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/KdVyGabSTdQcnhUg0FKWK.png)
+
+Inside WalkingRAG, we embed the `nextSource` and `expectedInfo` descriptors, and it works quite well. The semantic distance we're trying to bridge is a lot smaller - often the document will refer to the same thing the same way, and we can filter our results to make sure we retrieve newer pieces from the dataset.
+
+Now all we have to do is repeat the cycle, this time from the embedded descriptors instead of the question. We keep the facts we extract - and two very desirable properties emerge: increased entropy and intermediate outputs.
+
+[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#entropy)Entropy
+------------------------------------------------------------------------------------------------
+
+[Entropy](https://benkrause.github.io/blog/human-level-text-prediction/) is a useful term to describe the amount of information contained in a sentence. In human terms, we can call this context. Every time you've asked 'What do you mean?' in response to a question, you were likely asking for more context - or entropy.
+
+The role of entropy in semantic-search based systems cannot be understated. Most human questions to AI systems have a massive amount of implied context that is hard to infer from the question alone. Humans like to be terse - especially when they type. This is fine with other humans, who can infer a massive amount of context from the physical, professional and historical states they share with the person asking them to do something.
+
+For an automated system, there is often painfully little information in the questions you get. For example, 'Where is the big screwup?' embeds the same, regardless of whether the target document in question is [Romeo+Juliet](https://en.wikipedia.org/wiki/Romeo_%2B_Juliet) or the [Lyft Earnings call transcript](https://www.fool.com/earnings/call-transcripts/2024/02/13/lyft-lyft-q4-2023-earnings-call-transcript/).
+
+The process of walking helps us enrich the original question with contextual entropy from the dataset to further guide the eventual answer.
+
+[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#intermediates)Intermediates
+------------------------------------------------------------------------------------------------------------
+
+You'll notice that we generate quite a bunch of intermediate outputs in our process. With a single cycle, we have extracted facts, relevance, expected next source descriptors and potential new information.
+
+This is a wonderful thing - even without any additional processing, there is already a lot that we can now do:
+
+1.  We can provide immediate feedback to the user about what goes on behind the scenes. This makes it easier for users to trust the system, verify outputs, and provide more feedback when the final result isn't up to spec. In a more complex system, users can interrupt cycles, modify outputs or questions, and return control to the system to _steer_ it in a new direction.
+    
+2.  The intermediates label and classify the document as more questions are asked - giving us a kind of long-term memory. We have extracted facts, which are a good source of information to be re-embedded and searched instead of the source document. We also know the causal paths we take through the document - where the false starts are, and where cycles usually end.
+    
+3.  We're also building a knowledge graph of the document, with the cost-effective method of doing it at query time. In WalkingRAG we also build one at ingest - this is something we can cover at a later time, as a way to tradeoff cost for better accuracy.
+    
+
+[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#conclusion)Conclusion
+------------------------------------------------------------------------------------------------------
+
+The information we record as humans - in PDFs, text messages, excel sheets or books - is deeply interlinked, as much as we are. Nothing means much in isolation - and the first look at something usually isn't enough to get the full picture.
+
+Cycles - or walkingRAG, or agents, call it what we want - are a way to improve the complexity of questions that modern retrieval systems can handle. Some things I've left out for clarity - how we build the graph at ingest, transformations on input data (to be covered in a later article), and how cycle terminations are implemented.
+
+In [the next part](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-3-structure) we'll cover how structure in your dataset is an untapped resource, and how to make use of it.
+
+## Metadata
+
+```json
+{
+  "title": "Better RAG 2: Single-shot is not good enough",
+  "description": "A Blog post by Hrishi Olickel on Hugging Face",
+  "url": "https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking",
+  "content": "[Back to Articles](https://huggingface.co/blog)\n\n[![Image 26: Hrishi Olickel's avatar](https://cdn-avatars.huggingface.co/v1/production/uploads/6469c972a5dd10c9a49d683b/EBh6q6vbmMYqBe4LHZzFx.png)](https://huggingface.co/hrishioa)\n\n*   [The Problem](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#the-problem \"The Problem\")\n    \n*   [1\\. Fact Extraction](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#1-fact-extraction \"1. Fact Extraction\")\n    \n*   [2\\. Finding new threads](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#2-finding-new-threads \"2. Finding new threads\")\n    *   [3\\. Connecting the threads](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#3-connecting-the-threads \"3. Connecting the threads\")\n        \n*   [Entropy](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#entropy \"Entropy\")\n    \n*   [Intermediates](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#intermediates \"Intermediates\")\n    \n*   [Conclusion](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#conclusion \"Conclusion\")\n    \n\nThis is part 2 of a series on improving retrieval-augmented-generation systems. [Part 1](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-1-basics) covers the basics and some considerations in system design, key concerns such as question complexity, and the need for new solutions.\n\nIn this part, we'll cover the basics of multi-turn retrieval - what it is, why it's needed, and how to implement it. If you were interested in how WalkingRAG works, this article should leave you with a working, implementable understanding of how to build a similar system.\n\n[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#the-problem)The Problem\n--------------------------------------------------------------------------------------------------------\n\nAlmost all RAG systems today work 'single-shot' - for a given question, they retrieve information, trim and modify, and use an LLM to generate an answer. Prima facie this seems okay - until you consider how humans answer questions.\n\nLet's presume that you're an above GPT-4 level intelligence. How often have you been able to solve problems with a single round of retrieval? In most cases, your first round of Google searches, combined with any residual information you have, gets you closer to _finding_ the answer - rarely do you have everything you need for a comprehensive, correct response from the first round alone. We need a method for the central intelligence - whether that's you or an LLM - to ask for more information, contextual to the retrieval that has already taken place.\n\nMoreover, expecting single-shot RAG to hit higher and higher benchmarks is placing an impossible requirement of intelligence purely on the Retrieval system. In most cases this is an unfortunate embedding model that's trained for semantic understanding, or [something even simpler](https://en.wikipedia.org/wiki/Okapi_BM25#:~:text=BM25%20is%20a%20bag%2Dof,slightly%20different%20components%20and%20parameters.). Trying to push single-shot retrieval to human-level is an easy path to [larger and larger](https://www.pinecone.io/) vector databases, [longer context](https://www.llamaindex.ai/blog/towards-long-context-rag) embeddings, and [complex embedding transformations](https://github.com/openai/openai-cookbook/blob/main/examples/Customizing_embeddings.ipynb) where you can burn large amounts of money and dev time without much benefit.\n\nThe solution that worked for us with [WalkingRAG](https://twitter.com/hrishioa/status/1745835962108985737) is to find a way for the LLM - the largest and most intelligent brain in a RAG pipeline - to ask for more information, and to use this information for multiple rounds of retrieval.\n\nTo have effective multi-shot retrieval, we need three things:\n\n1.  We need to extract partial information from retrieved pieces of source data, so we can learn as we go.\n    \n2.  We need to find new places to look, informed by the source data as well as the question.\n    \n3.  We need to retrieve information from those specific places.\n    \n\nIf we can successfully connect all three, we can do multi-turn retrieval.\n\n[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#1-fact-extraction)1\\. Fact Extraction\n----------------------------------------------------------------------------------------------------------------------\n\nWe'll be using [GPTs](https://openai.com/blog/introducing-the-gpt-store) and [Huggingface Assistants](https://huggingface.co/chat/assistants) as demonstrations of individual concepts. The prompts will be provided, but there's something about an interactive prompt you can poke at.\n\nThe prompts used are intentionally stripped down to be illustrative - I apologize in advance for any brittleness in the outputs!\n\n[Here's a GPT that demonstrates fact extraction.](https://chat.openai.com/g/g-kByF2Q1jD-partial-fact-extractor) Give it some document or text, and ask a question. [The COP24 report](https://unfccc.int/sites/default/files/resource/WHO%20COP24%20Special%20Report_final.pdf) is an easy public source you can use as a large document for testing. Let's load the document and ask a mildly complex question:\n\n[![Image 27: factextractor](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/iJiANqDEKnkBpagwzj27G.png)](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/iJiANqDEKnkBpagwzj27G.png)\n\nIf you remember [Part 1](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-1-basics), you'll know what's happening under the hood: OpenAI's RAG system retrieves a few relevant chunks from the document we've uploaded, sorted by embedding similarity to our question, and passes these to the LLM to use for an answer.\n\nHowever, in this case, we're asking the LLM to extract individual facts from the chunks provided instead of an answer, as well as a description of why this fact is relevant to an eventual answer. We're adding an extra step - almost like a [chain of thought](https://olickel.com/everything-i-know-about-prompting-llms#engineeringtheinternalmonologue) - that will help us start listing out the information we need. Think of going to a library, and keeping a notebook of useful information as you pore over books of information.\n\nWe internally call these **Partial Facts** - information extracted from the document that is at least loosely relevant to the question being asked. Here's the prompt we use:\n\n```\nMake a markdown table of relevant facts, following this typespec for the columns:\n\n\"\"\"\nfact: string; //  Provide information directly relevant to the question - either supplementary data, facts, or where the answer might be located, like pages and sections. Add definitions and other context from the page into the fact, so it's self-explanatory.\nrelevance: string; // How is this fact relevant to the answer?\n\"\"\"\n```\n\nNote that the output is in Markdown here for readability - inside WalkingRAG we extract this out as streaming JSON. Here's [a video of streaming](https://twitter.com/hrishioa/status/1734935026201239800?s=20) in action.\n\n[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#2-finding-new-threads)2\\. Finding new threads\n------------------------------------------------------------------------------------------------------------------------------\n\nOnce we have partial facts, we want to know what they tell us about new places to look for additional information.\n\nTry the same document and question [with this GPT](https://chat.openai.com/g/g-ZqcIX0J27-partial-facts-with-links). Let's ask the same question, with the same document:\n\n[![Image 28: factswithlinks](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/x-j8Lyz3xF-q_E1LwUncE.png)](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/x-j8Lyz3xF-q_E1LwUncE.png)\n\nWhat it's doing here is extracting references from the chunks that were retrieved. In most cases, complex documents will tell you _outright_ where to look for more information - in footnotes, references, or by naming topics. It's often trivial to extract them, without much additional cost - since you're already extracting facts.\n\nAll we've had to do is to expand our typespec, just a little:\n\n```\nfact: string; //  Provide information directly relevant to the question (or where to find more information in the text) - either supplementary data, facts, or where the answer might be located, like pages and sections. Add definitions and other context from the page into the fact, so it's self-explanatory.\nrelevance: string; // How is this fact relevant to the answer?\nnextSource: string; // a page number, a section name, or other descriptors of where to look for more information.\nexpectedInfo: string; // What information do you expect to find there?\n```\n\n### [](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#3-connecting-the-threads)3\\. Connecting the threads\n\nOnce we have these references - in our case, we're looking for 'Sections on climate change mitigation strategies' and 'health impacts of climate change' - we need a way to retrieve new information from the document specific to these descriptors.\n\nThis is where [embeddings](https://huggingface.co/blog/getting-started-with-embeddings) can be quite useful. We can embed the descriptors, and use them to search the document for new chunks of information that were missed by the previous round of retrieval.\n\nIt's hard to demonstrate this with a GPT, but try pasting the descriptors right back into the conversation and asking for more facts - chances are you'll find newer, more relevant chunks and information.\n\n[![Image 29: usinglinks](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/KdVyGabSTdQcnhUg0FKWK.png)](https://cdn-uploads.huggingface.co/production/uploads/6469c972a5dd10c9a49d683b/KdVyGabSTdQcnhUg0FKWK.png)\n\nInside WalkingRAG, we embed the `nextSource` and `expectedInfo` descriptors, and it works quite well. The semantic distance we're trying to bridge is a lot smaller - often the document will refer to the same thing the same way, and we can filter our results to make sure we retrieve newer pieces from the dataset.\n\nNow all we have to do is repeat the cycle, this time from the embedded descriptors instead of the question. We keep the facts we extract - and two very desirable properties emerge: increased entropy and intermediate outputs.\n\n[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#entropy)Entropy\n------------------------------------------------------------------------------------------------\n\n[Entropy](https://benkrause.github.io/blog/human-level-text-prediction/) is a useful term to describe the amount of information contained in a sentence. In human terms, we can call this context. Every time you've asked 'What do you mean?' in response to a question, you were likely asking for more context - or entropy.\n\nThe role of entropy in semantic-search based systems cannot be understated. Most human questions to AI systems have a massive amount of implied context that is hard to infer from the question alone. Humans like to be terse - especially when they type. This is fine with other humans, who can infer a massive amount of context from the physical, professional and historical states they share with the person asking them to do something.\n\nFor an automated system, there is often painfully little information in the questions you get. For example, 'Where is the big screwup?' embeds the same, regardless of whether the target document in question is [Romeo+Juliet](https://en.wikipedia.org/wiki/Romeo_%2B_Juliet) or the [Lyft Earnings call transcript](https://www.fool.com/earnings/call-transcripts/2024/02/13/lyft-lyft-q4-2023-earnings-call-transcript/).\n\nThe process of walking helps us enrich the original question with contextual entropy from the dataset to further guide the eventual answer.\n\n[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#intermediates)Intermediates\n------------------------------------------------------------------------------------------------------------\n\nYou'll notice that we generate quite a bunch of intermediate outputs in our process. With a single cycle, we have extracted facts, relevance, expected next source descriptors and potential new information.\n\nThis is a wonderful thing - even without any additional processing, there is already a lot that we can now do:\n\n1.  We can provide immediate feedback to the user about what goes on behind the scenes. This makes it easier for users to trust the system, verify outputs, and provide more feedback when the final result isn't up to spec. In a more complex system, users can interrupt cycles, modify outputs or questions, and return control to the system to _steer_ it in a new direction.\n    \n2.  The intermediates label and classify the document as more questions are asked - giving us a kind of long-term memory. We have extracted facts, which are a good source of information to be re-embedded and searched instead of the source document. We also know the causal paths we take through the document - where the false starts are, and where cycles usually end.\n    \n3.  We're also building a knowledge graph of the document, with the cost-effective method of doing it at query time. In WalkingRAG we also build one at ingest - this is something we can cover at a later time, as a way to tradeoff cost for better accuracy.\n    \n\n[](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-2-walking#conclusion)Conclusion\n------------------------------------------------------------------------------------------------------\n\nThe information we record as humans - in PDFs, text messages, excel sheets or books - is deeply interlinked, as much as we are. Nothing means much in isolation - and the first look at something usually isn't enough to get the full picture.\n\nCycles - or walkingRAG, or agents, call it what we want - are a way to improve the complexity of questions that modern retrieval systems can handle. Some things I've left out for clarity - how we build the graph at ingest, transformations on input data (to be covered in a later article), and how cycle terminations are implemented.\n\nIn [the next part](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-3-structure) we'll cover how structure in your dataset is an untapped resource, and how to make use of it.",
+  "usage": {
+    "tokens": 3398
+  }
+}
+```

@@ -1,0 +1,3346 @@
+GitHub - hygraph/reference-marketing-website: Next.js starter for creating a SaaS Marketing Website with Hygraph ⚡️
+===============
+                                           
+
+[Skip to content](https://github.com/hygraph/reference-marketing-website?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhygraph%2Freference-marketing-website%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhygraph%2Freference-marketing-website%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=hygraph%2Freference-marketing-website) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[hygraph](https://github.com/hygraph) / **[reference-marketing-website](https://github.com/hygraph/reference-marketing-website)** Public template
+
+*   [Notifications](https://github.com/login?return_to=%2Fhygraph%2Freference-marketing-website) You must be signed in to change notification settings
+*   [Fork 53](https://github.com/login?return_to=%2Fhygraph%2Freference-marketing-website)
+*   [Star 133](https://github.com/login?return_to=%2Fhygraph%2Freference-marketing-website)
+    
+
+Next.js starter for creating a SaaS Marketing Website with Hygraph ⚡️
+
+[marketing-websites.withheadlesscms.com](https://marketing-websites.withheadlesscms.com/ "https://marketing-websites.withheadlesscms.com")
+
+### License
+
+[MIT license](https://github.com/hygraph/reference-marketing-website/blob/main/LICENSE.md)
+
+[133 stars](https://github.com/hygraph/reference-marketing-website/stargazers) [53 forks](https://github.com/hygraph/reference-marketing-website/forks) [Branches](https://github.com/hygraph/reference-marketing-website/branches) [Tags](https://github.com/hygraph/reference-marketing-website/tags) [Activity](https://github.com/hygraph/reference-marketing-website/activity)
+
+[Star](https://github.com/login?return_to=%2Fhygraph%2Freference-marketing-website)
+
+[Notifications](https://github.com/login?return_to=%2Fhygraph%2Freference-marketing-website) You must be signed in to change notification settings
+
+*   [Code](https://github.com/hygraph/reference-marketing-website)
+*   [Issues 5](https://github.com/hygraph/reference-marketing-website/issues)
+*   [Pull requests 13](https://github.com/hygraph/reference-marketing-website/pulls)
+*   [Actions](https://github.com/hygraph/reference-marketing-website/actions)
+*   [Security](https://github.com/hygraph/reference-marketing-website/security)
+*   [Insights](https://github.com/hygraph/reference-marketing-website/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/hygraph/reference-marketing-website)
+*   [Issues](https://github.com/hygraph/reference-marketing-website/issues)
+*   [Pull requests](https://github.com/hygraph/reference-marketing-website/pulls)
+*   [Actions](https://github.com/hygraph/reference-marketing-website/actions)
+*   [Security](https://github.com/hygraph/reference-marketing-website/security)
+*   [Insights](https://github.com/hygraph/reference-marketing-website/pulse)
+
+hygraph/reference-marketing-website
+===================================
+
+  
+
+ main
+
+[**13** Branches](https://github.com/hygraph/reference-marketing-website/branches)[**0** Tags](https://github.com/hygraph/reference-marketing-website/tags)
+
+[](https://github.com/hygraph/reference-marketing-website/branches)[](https://github.com/hygraph/reference-marketing-website/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 15: brob](https://avatars.githubusercontent.com/u/799360?v=4&size=40)](https://github.com/brob)[brob](https://github.com/hygraph/reference-marketing-website/commits?author=brob)
+
+[Updates Next for remote patterns and sets wildcard for new asset syst…](https://github.com/hygraph/reference-marketing-website/commit/d3291b8081aac79ae8640cf09e685cdffd1524d7)
+
+Jul 18, 2024
+
+[d3291b8](https://github.com/hygraph/reference-marketing-website/commit/d3291b8081aac79ae8640cf09e685cdffd1524d7) · Jul 18, 2024
+
+History
+-------
+
+[83 Commits](https://github.com/hygraph/reference-marketing-website/commits/main/)
+
+[](https://github.com/hygraph/reference-marketing-website/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[components](https://github.com/hygraph/reference-marketing-website/tree/main/components "components")
+
+
+
+
+
+
+
+ | 
+
+[components](https://github.com/hygraph/reference-marketing-website/tree/main/components "components")
+
+
+
+
+
+
+
+ | 
+
+[chore: update GraphCMS references (](https://github.com/hygraph/reference-marketing-website/commit/72ae95288a3679de988e5da29ff86fa2d6a92dea "chore: update GraphCMS references (#184)")[#184](https://github.com/hygraph/reference-marketing-website/pull/184)[)](https://github.com/hygraph/reference-marketing-website/commit/72ae95288a3679de988e5da29ff86fa2d6a92dea "chore: update GraphCMS references (#184)")
+
+
+
+ | 
+
+Jul 14, 2022
+
+ |
+| 
+
+[lib](https://github.com/hygraph/reference-marketing-website/tree/main/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+[lib](https://github.com/hygraph/reference-marketing-website/tree/main/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+[refactor: unify name of starter variables for Vercel deployments (](https://github.com/hygraph/reference-marketing-website/commit/b3d252e2914f75abd9fa94b4ef71814440df30f0 "refactor: unify name of starter variables for Vercel deployments (#186)")[#186](https://github.com/hygraph/reference-marketing-website/pull/186)[)](https://github.com/hygraph/reference-marketing-website/commit/b3d252e2914f75abd9fa94b4ef71814440df30f0 "refactor: unify name of starter variables for Vercel deployments (#186)")
+
+
+
+ | 
+
+Sep 2, 2022
+
+ |
+| 
+
+[pages](https://github.com/hygraph/reference-marketing-website/tree/main/pages "pages")
+
+
+
+
+
+
+
+ | 
+
+[pages](https://github.com/hygraph/reference-marketing-website/tree/main/pages "pages")
+
+
+
+
+
+
+
+ | 
+
+[chore: update GraphCMS references (](https://github.com/hygraph/reference-marketing-website/commit/72ae95288a3679de988e5da29ff86fa2d6a92dea "chore: update GraphCMS references (#184)")[#184](https://github.com/hygraph/reference-marketing-website/pull/184)[)](https://github.com/hygraph/reference-marketing-website/commit/72ae95288a3679de988e5da29ff86fa2d6a92dea "chore: update GraphCMS references (#184)")
+
+
+
+ | 
+
+Jul 14, 2022
+
+ |
+| 
+
+[public](https://github.com/hygraph/reference-marketing-website/tree/main/public "public")
+
+
+
+
+
+
+
+ | 
+
+[public](https://github.com/hygraph/reference-marketing-website/tree/main/public "public")
+
+
+
+
+
+
+
+ | 
+
+[chore: final adjustments for release (](https://github.com/hygraph/reference-marketing-website/commit/4d8fdd76aaacbedd2608dadf2f93eeb47960a297 "chore: final adjustments for release (#98)
+* docs: adjust quick start
+* chore: adjust stat section and fix warning
+* chore: add favicon
+* refactor: remove react imports and rewrite fragments/conditionals")[#98](https://github.com/hygraph/reference-marketing-website/pull/98)[)](https://github.com/hygraph/reference-marketing-website/commit/4d8fdd76aaacbedd2608dadf2f93eeb47960a297 "chore: final adjustments for release (#98)
+* docs: adjust quick start
+* chore: adjust stat section and fix warning
+* chore: add favicon
+* refactor: remove react imports and rewrite fragments/conditionals")
+
+
+
+ | 
+
+Jun 14, 2021
+
+ |
+| 
+
+[styles](https://github.com/hygraph/reference-marketing-website/tree/main/styles "styles")
+
+
+
+
+
+
+
+ | 
+
+[styles](https://github.com/hygraph/reference-marketing-website/tree/main/styles "styles")
+
+
+
+
+
+
+
+ | 
+
+[chore: Initialise project](https://github.com/hygraph/reference-marketing-website/commit/2b014ce47e2bc1532ba602603ab5c276a1f6998b "chore: Initialise project
+chore: Add, initialise tailwindcss, @tailwindcss/ui
+feat: Add skeleton with data for index page (#2)
+Including barebones components
+fix: lowercase for file import statement
+chore: Update .gitignore
+feat: Add <Banner /> component (#3)
+* chore: Add classnames dependency
+* feat: Add <Banner /> component
+chore: renovate.json (#1)
+* chore(deps): add renovate.json
+* chore: Update renovate.json
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Jonathan Steele <jonathan.steele@graphcms.com>
+feat: Add <Button /> component (#4)
+* feat: Add <Button /> component
+* refactor: Prefer blue over indigo
+* fix: Don't truncate banner content
+feat: Add <Hero /> component (#5)
+* feat: Add <Hero /> component
+* fix: Assign default theme prop value
+* fix: return correct prop in switch
+* fix: return null if href or label falsy
+refactor: Abstract page layout to component
+feat: Build all other pages in CMS
+fix(deps): update dependency next to v9.4.4
+refactor: Have <Banner /> use <Button /> (#8)
+* refactor: Have <Banner /> use <Button />
+* feat: Add WHITE <Button /> theme
+* fix: Handle external links in <Button />
+* feat: Add size prop to <Button />
+feat: Add <Grid /> component (#9)
+* refactor: Deduplication of page query
+* feat: Add <Grid /> component
+fix(deps): update dependency graphql-request to v2 (#7)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+feat: Add <Feature /> component (#10)
+feat: Add <BlogPostCard /> component (#11)
+* feat: Use component field from Grid
+Use that as a component override, instead of just typeName
+* feat: Add theme prop, styling to <Grid />
+Improve spacing
+* feat: Add <BlogPostCard /> component
+* refactor: Remove unused component
+feat: Build /blog page (#12)
+* feat: Initial build of blog page
+* fix: Use markdown key from subtitle field
+* feat: Add featured post
+feat: Build blog post pages (#13)
+* feat: Build pages for blog posts
+* feat: Add <Link /> to <BlogPostCard />
+* feat: Render post content
+* chore: Add markdown-to-jsx dependency
+* feat: Add <MarkdownRenderer /> for basic elements
+feat: Add <FeatureCard /> component
+refactor: Use <MarkdownRenderer /> for hero subtitle
+refactor: Use <MarkdownRenderer /> for grid subtitle
+chore(deps): update dependency @tailwindcss/ui to v0.3.1
+chore(deps): update dependency tailwindcss to v1.5.1
+chore(deps): update dependency @tailwindcss/ui to v0.4.0
+chore(deps): update dependency tailwindcss to v1.5.2
+chore(deps): update dependency @tailwindcss/ui to v0.5.0
+chore(deps): update dependency tailwindcss to v1.6.1
+fix(deps): update dependency next to v9.5.1
+chore(deps): update dependency tailwindcss to v1.6.2
+fix(deps): update dependency next to v9.5.2
+chore(deps): update dependency tailwindcss to v1.7.3
+refactor: Nest blog page
+blog/index.js
+fix: <Grid /> background colour
+feat: Enable MDX for all RichText markdown fields (#25)
+* chore(deps): Add next-mdx-remote dependency
+* chore(deps): Remove markdown-to-jsx dependency
+* chore(deps): Add he dependency
+* feat: Add MDX for blog index, blog post pages
+* feat: Add MDX to block, column components
+* fix: Correct query names
+* feat: Parse RichText markdown for blocks, columns as MDX for all pages
+* fix: Don't wrap MDX in <p>
+* fix: Missing import
+feat: Improve blog post layout (#26)
+* chore(deps): Add @tailwindcss/typography dependency
+* chore: Remove deprecated Tailwind classes
+* feat: Use .prose class from @tailwindcss/typography for blog body
+* feat: Better layout for blog posts
+* feat: Add pagination to blog post pages
+chore(deps): update dependency tailwindcss to v1.7.6
+fix: gap-x utility class (#28)
+col-gap removed
+chore: Update renovate.json
+feat: Add primary navigation (#29)
+* feat: Add navigation fields to page query
+* feat: Add basic navigation to <Wrapper /> component
+* feat: Add <Navigation /> component
+* feat: Add active styling for <NavigationLink />
+* style: Import ordering
+* refactor: Use conditional props for <NavigationLink />
+* refactor: Move <Hero /> component from Block to reflect schema change
+* feat: Design for <Navigation />
+* feat: Add <NavigationMobile /> component
+* chore(deps): Add @tailwindui/react dependency
+* feat: Use <Transition /> component from @tailwindui/react
+Animates the mobile nav
+* feat: Close <NavigationMobile /> on outside click, escape key
+* feat: Close <NavigationMobile /> on route change
+* chore(deps): Add babel-plugin-inline-react-svg dependency
+* feat: Use GraphCMS logos in navigation
+feat: Add layout components (#33)
+* feat: Add basic <SiteLayout /> component
+Exports getLayout function
+* feat: Add <PageLayout />  component
+Move <Banner />, <Hero />, <Navigation />
+* feat: Add nav to /blog
+* feat: Add nav to blog posts
+* fix: Add as prop to <Link /> for dynamic routes
+* fix: z-index issue
+* style: query linting
+chore(deps): update dependency tailwindcss to v1.8.5 (#31)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+chore(deps): update dependency @tailwindcss/ui to v0.6.0 (#30)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Move RichText fields to Markdown (#34)
+* refactor: Markdown fields over RichText
+Reflect schema changes
+* chore: Use new project endpoint
+* refactor: Only include Authorization header if token variable present
+fix: Improve navigation render (#35)
+* fix: Always render <Navigation /> in <Hero />
+* fix: Conditionally map over pages in <Navigation />, <NavigationMobile />
+* fix: Only show mobile navigation button if there's pages
+* fix: <NavigationMobile /> positioning when open
+chore(deps): update dependency next to v9.5.3 (#32)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Remove <Link /> as prop (#36)
+* refactor: Remove as prop from next/link
+No longer needed for dynamic routes as of next@9.5.3
+* fix: pointless logical operator
+feat: Improve data fetching (#37)
+* feat: Enable fallback pages for dynamic generation of new pages
+* feat: Enable incremental static regeneration
+* fix: page props empty when using isFallback
+* fix: page props empty when using isFallback
+* fix: Always show <Navigation /> for fallback pages
+* feat: Handle 404 fallback cases
+* refactor: _parsePageData function
+chore(deps): update dependency tailwindcss to v1.8.10
+chore(deps): update dependency @tailwindcss/ui to v0.6.2
+feat: Add global page footer (#40)
+* feat: Add global <Footer /> component
+* fix: Protect against no footer pages
+feat: Add global footer to blog (#41)
+* feat: Add global footer to blog index, blog post pages
+* fix: Missing slash for <Link /> href
+* fix: optional chaining
+chore(deps): update dependency next to v9.5.5
+chore(deps): update dependency tailwindcss to v1.8.13
+chore: Housekeeping (#44)
+* chore(deps): Bump all project dependencies to latest
+* chore: Update package.json meta
+* chore: Upgrade to tailwindcss@2.x.x
+* chore(deps): Add graphql dependency
+* refactor: Add gql tag for queries
+* refactor: Use React namespace import
+chore: Add LICENSE
+refactor: Use next/image (#45)
+* chore: Configure domains for next/image
+* refactor: Use next/image component
+style: prettier --write (#46)
+* chore(deps): Add prettier dependency
+* style: prettier --write
+feat: Query, build localised content/pages (#47)
+feat: Add locale select UI (#48)
+* chore(deps): Add @headlessui/react dependency
+* chore(deps): Remove @tailwindui/react dependency
+* refactor: Use <Transition /> component from @headlessui/react
+* feat: Add <Select /> component
+Using @headlessui/react
+* feat: Add _locales.js to extend locales config
+* feat: Add language select to <Footer />
+* refactor: Add activeLocale constant
+feat: Add <LogoCloud /> component (#49)
+Can be used as a block via CMS
+feat: <PricingPlanSection /> component (#50)
+* fix: Don't spread markdown string
+* feat: Query, use columnComponent field
+* fix: Use component field from entry to lookup JSX component on <Grid />
+* refactor: Update query, code to reflect schema changes
+* feat: Add <PricingPlanSection /> component
+* feat: Permit <Grid /> to render children
+* feat: Implement billing period switching
+* refactor: <CheckIcon /> component
+* fix: Layout issue
+* feat: Add header to PageLayout
+Render the page title, subtitle if no <Hero />
+* fix: Protect against undefined
+feat: Add <FeatureCheck /> component (#51)
+feat: <FAQSection /> component (#52)
+* feat: Add <PricingFAQSection /> component
+* refactor: Rename component
+feat: Add <Breakpoint /> component (#53)
+feat: Add <StatSection /> component (#54)
+feat: Update <Hero /> component (#55)
+* feat: <Button /> updates
+* feat: <Hero /> updates
+feat: Update <Navigation /> component (#56)
+* feat: Update <Navigation /> component
+* refactor: Make SVGs components
+* refactor: Pass aria-hidden as prop
+* fix: Add missing key attr
+* style: Remove unused imports
+* fix: Handle container ref being null
+feat: Add <FeatureList /> component (#57)
+feat: Add <Testimonial /> component (#58)
+feat: Add <NewsletterSignup /> component (#59)
+* chore(deps): Add @tailwindcss/forms dependency
+* feat: Add <NewsletterSignup /> component
+* refactor: Move svgs dir to components/
+* fix: purple > indigo
+feat: Update <Footer /> component (#60)
+* feat: Update <Footer /> component
+* refactor: Move SVGs to their own component file
+Update footer
+Replace Inc. for GmbH
+feat: Add <FeatureSection /> component (#61)
+* chore(deps): Add lodash.{camelcase,startcase} dependencies
+* feat: Add new SVG icons
+* feat: Add <FeatureIcon /> component
+* feat: Add <FeatureSection /> component
+feat <BlogPostCard /> component improvements (#62)
+* feat: Tidy <BlogPostCard /> component
+* feat: Remove featured posts
+* fix: Remove duplicate headings from /blog
+feat: Misc improvements (#63)
+* feat: Prefer prose classes from @tailwind/typography
+* feat: Update @tailwind/typography config defaults
+* refactor: Remove unused components
+* fix: htmlFor, not for
+* style: Linting
+* feat: Configure module aliases
+* fix: dateTime, not datetime
+* fix: Use indigo colour for <Banner />
+* chore: Remove unused function prop
+* refactor: Remove mdxComponents
+* fix: Use module alias paths
+* refactor: Tidy util functions
+* refactor: Add parsePosrData util function
+* refactor: Remove <Heading /> component
+feat: Add SEO (#64)
+* refactor: Prefer id for key attr
+* chore(deps): Add next-seo dependency
+* feat: Add <DefaultSeo /> to _app.js
+* feat: Add <SEO /> component
+* feat: Query for SEO data
+* refactor: next-seo.config.js
+* fix: Only render <SEO /> if page entry has SEO relation
+* fix: className, not class
+feat: Component improvements (#65)
+* feat: Add gridSubtitle to <FeatureSection />
+* refactor: Consolidate <FeatureCheck /> component
+* chore(deps): Remove babel-plugin-inline-react-svg dependency
+* feat: Use <TagAttribute /> to control HTML tag used in grid instance
+* refactor: Consolidate feature components into <Grid />
+* refactor: Consolidate <FAQSection /> into <Grid />
+feat: Add team section (#66)
+fix: Fallback if person photo is null (#67)
+chore(deps): update dependency @headlessui/react to v0.3.1
+chore(deps): update dependency @tailwindcss/typography to v0.4.0
+chore(deps): update dependency graphql to v15.5.0
+chore(deps): update dependency graphql-request to v3.4.0
+chore(deps): update dependency next to v10.0.8
+chore(deps): update dependency next-seo to v4.20.0
+chore(deps): update dependency next-mdx-remote to v1.0.1
+chore(deps): update dependency next to v10.0.9
+chore(deps): update dependency next-seo to v4.22.0
+chore(deps): update dependency @tailwindcss/forms to v0.3.2
+chore(deps): update dependency next-seo to v4.23.0
+chore(deps): update dependency @headlessui/react to v0.3.2
+chore(deps): update dependency classnames to v2.3.1
+chore(deps): update dependency next to v10.1.3
+chore(deps): update react monorepo to v17.0.2
+chore(deps): update dependency next to v10.2.0
+chore(deps): update dependency next-seo to v4.24.0
+chore(deps): update dependency prettier to v2.3.0
+chore(deps): update dependency next to v10.2.2
+chore(deps): update dependency @tailwindcss/typography to v0.4.1
+chore(deps): update dependency next to v10.2.3
+feat: replace Tailwind CSS with Chakra UI (#92)
+* refactor: replace tailwind with chakra-ui
+* chore: remove unused icons
+* chore: remove tailwind
+* chore: rename license and .env
+* chore: add .editorconfig
+* refactor: use fallback blocking and increase revalidate
+* chore: layout adjustments to match tailwind version
+chore(deps): bump lodash from 4.17.20 to 4.17.21 (#93)
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
+---
+updated-dependencies:
+- dependency-name: lodash
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump browserslist from 4.14.7 to 4.16.6 (#94)
+Bumps [browserslist](https://github.com/browserslist/browserslist) from 4.14.7 to 4.16.6.
+- [Release notes](https://github.com/browserslist/browserslist/releases)
+- [Changelog](https://github.com/browserslist/browserslist/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/browserslist/browserslist/compare/4.14.7...4.16.6)
+---
+updated-dependencies:
+- dependency-name: browserslist
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump elliptic from 6.5.3 to 6.5.4 (#95)
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
+---
+updated-dependencies:
+- dependency-name: elliptic
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): update dependency next-mdx-remote to v3 (#88)
+* chore(deps): update dependency next-mdx-remote to v3
+* refactor: upgrade to next-mdx-remote v3
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: João Pedro Schmitz <jpedroschmitz@hotmail.com>
+chore(deps): pin dependencies
+chore(deps): update dependency prettier to v2.3.1")
+
+
+
+ | 
+
+Jun 10, 2021
+
+ |
+| 
+
+[utils](https://github.com/hygraph/reference-marketing-website/tree/main/utils "utils")
+
+
+
+
+
+
+
+ | 
+
+[utils](https://github.com/hygraph/reference-marketing-website/tree/main/utils "utils")
+
+
+
+
+
+
+
+ | 
+
+[chore: Initialise project](https://github.com/hygraph/reference-marketing-website/commit/2b014ce47e2bc1532ba602603ab5c276a1f6998b "chore: Initialise project
+chore: Add, initialise tailwindcss, @tailwindcss/ui
+feat: Add skeleton with data for index page (#2)
+Including barebones components
+fix: lowercase for file import statement
+chore: Update .gitignore
+feat: Add <Banner /> component (#3)
+* chore: Add classnames dependency
+* feat: Add <Banner /> component
+chore: renovate.json (#1)
+* chore(deps): add renovate.json
+* chore: Update renovate.json
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Jonathan Steele <jonathan.steele@graphcms.com>
+feat: Add <Button /> component (#4)
+* feat: Add <Button /> component
+* refactor: Prefer blue over indigo
+* fix: Don't truncate banner content
+feat: Add <Hero /> component (#5)
+* feat: Add <Hero /> component
+* fix: Assign default theme prop value
+* fix: return correct prop in switch
+* fix: return null if href or label falsy
+refactor: Abstract page layout to component
+feat: Build all other pages in CMS
+fix(deps): update dependency next to v9.4.4
+refactor: Have <Banner /> use <Button /> (#8)
+* refactor: Have <Banner /> use <Button />
+* feat: Add WHITE <Button /> theme
+* fix: Handle external links in <Button />
+* feat: Add size prop to <Button />
+feat: Add <Grid /> component (#9)
+* refactor: Deduplication of page query
+* feat: Add <Grid /> component
+fix(deps): update dependency graphql-request to v2 (#7)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+feat: Add <Feature /> component (#10)
+feat: Add <BlogPostCard /> component (#11)
+* feat: Use component field from Grid
+Use that as a component override, instead of just typeName
+* feat: Add theme prop, styling to <Grid />
+Improve spacing
+* feat: Add <BlogPostCard /> component
+* refactor: Remove unused component
+feat: Build /blog page (#12)
+* feat: Initial build of blog page
+* fix: Use markdown key from subtitle field
+* feat: Add featured post
+feat: Build blog post pages (#13)
+* feat: Build pages for blog posts
+* feat: Add <Link /> to <BlogPostCard />
+* feat: Render post content
+* chore: Add markdown-to-jsx dependency
+* feat: Add <MarkdownRenderer /> for basic elements
+feat: Add <FeatureCard /> component
+refactor: Use <MarkdownRenderer /> for hero subtitle
+refactor: Use <MarkdownRenderer /> for grid subtitle
+chore(deps): update dependency @tailwindcss/ui to v0.3.1
+chore(deps): update dependency tailwindcss to v1.5.1
+chore(deps): update dependency @tailwindcss/ui to v0.4.0
+chore(deps): update dependency tailwindcss to v1.5.2
+chore(deps): update dependency @tailwindcss/ui to v0.5.0
+chore(deps): update dependency tailwindcss to v1.6.1
+fix(deps): update dependency next to v9.5.1
+chore(deps): update dependency tailwindcss to v1.6.2
+fix(deps): update dependency next to v9.5.2
+chore(deps): update dependency tailwindcss to v1.7.3
+refactor: Nest blog page
+blog/index.js
+fix: <Grid /> background colour
+feat: Enable MDX for all RichText markdown fields (#25)
+* chore(deps): Add next-mdx-remote dependency
+* chore(deps): Remove markdown-to-jsx dependency
+* chore(deps): Add he dependency
+* feat: Add MDX for blog index, blog post pages
+* feat: Add MDX to block, column components
+* fix: Correct query names
+* feat: Parse RichText markdown for blocks, columns as MDX for all pages
+* fix: Don't wrap MDX in <p>
+* fix: Missing import
+feat: Improve blog post layout (#26)
+* chore(deps): Add @tailwindcss/typography dependency
+* chore: Remove deprecated Tailwind classes
+* feat: Use .prose class from @tailwindcss/typography for blog body
+* feat: Better layout for blog posts
+* feat: Add pagination to blog post pages
+chore(deps): update dependency tailwindcss to v1.7.6
+fix: gap-x utility class (#28)
+col-gap removed
+chore: Update renovate.json
+feat: Add primary navigation (#29)
+* feat: Add navigation fields to page query
+* feat: Add basic navigation to <Wrapper /> component
+* feat: Add <Navigation /> component
+* feat: Add active styling for <NavigationLink />
+* style: Import ordering
+* refactor: Use conditional props for <NavigationLink />
+* refactor: Move <Hero /> component from Block to reflect schema change
+* feat: Design for <Navigation />
+* feat: Add <NavigationMobile /> component
+* chore(deps): Add @tailwindui/react dependency
+* feat: Use <Transition /> component from @tailwindui/react
+Animates the mobile nav
+* feat: Close <NavigationMobile /> on outside click, escape key
+* feat: Close <NavigationMobile /> on route change
+* chore(deps): Add babel-plugin-inline-react-svg dependency
+* feat: Use GraphCMS logos in navigation
+feat: Add layout components (#33)
+* feat: Add basic <SiteLayout /> component
+Exports getLayout function
+* feat: Add <PageLayout />  component
+Move <Banner />, <Hero />, <Navigation />
+* feat: Add nav to /blog
+* feat: Add nav to blog posts
+* fix: Add as prop to <Link /> for dynamic routes
+* fix: z-index issue
+* style: query linting
+chore(deps): update dependency tailwindcss to v1.8.5 (#31)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+chore(deps): update dependency @tailwindcss/ui to v0.6.0 (#30)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Move RichText fields to Markdown (#34)
+* refactor: Markdown fields over RichText
+Reflect schema changes
+* chore: Use new project endpoint
+* refactor: Only include Authorization header if token variable present
+fix: Improve navigation render (#35)
+* fix: Always render <Navigation /> in <Hero />
+* fix: Conditionally map over pages in <Navigation />, <NavigationMobile />
+* fix: Only show mobile navigation button if there's pages
+* fix: <NavigationMobile /> positioning when open
+chore(deps): update dependency next to v9.5.3 (#32)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Remove <Link /> as prop (#36)
+* refactor: Remove as prop from next/link
+No longer needed for dynamic routes as of next@9.5.3
+* fix: pointless logical operator
+feat: Improve data fetching (#37)
+* feat: Enable fallback pages for dynamic generation of new pages
+* feat: Enable incremental static regeneration
+* fix: page props empty when using isFallback
+* fix: page props empty when using isFallback
+* fix: Always show <Navigation /> for fallback pages
+* feat: Handle 404 fallback cases
+* refactor: _parsePageData function
+chore(deps): update dependency tailwindcss to v1.8.10
+chore(deps): update dependency @tailwindcss/ui to v0.6.2
+feat: Add global page footer (#40)
+* feat: Add global <Footer /> component
+* fix: Protect against no footer pages
+feat: Add global footer to blog (#41)
+* feat: Add global footer to blog index, blog post pages
+* fix: Missing slash for <Link /> href
+* fix: optional chaining
+chore(deps): update dependency next to v9.5.5
+chore(deps): update dependency tailwindcss to v1.8.13
+chore: Housekeeping (#44)
+* chore(deps): Bump all project dependencies to latest
+* chore: Update package.json meta
+* chore: Upgrade to tailwindcss@2.x.x
+* chore(deps): Add graphql dependency
+* refactor: Add gql tag for queries
+* refactor: Use React namespace import
+chore: Add LICENSE
+refactor: Use next/image (#45)
+* chore: Configure domains for next/image
+* refactor: Use next/image component
+style: prettier --write (#46)
+* chore(deps): Add prettier dependency
+* style: prettier --write
+feat: Query, build localised content/pages (#47)
+feat: Add locale select UI (#48)
+* chore(deps): Add @headlessui/react dependency
+* chore(deps): Remove @tailwindui/react dependency
+* refactor: Use <Transition /> component from @headlessui/react
+* feat: Add <Select /> component
+Using @headlessui/react
+* feat: Add _locales.js to extend locales config
+* feat: Add language select to <Footer />
+* refactor: Add activeLocale constant
+feat: Add <LogoCloud /> component (#49)
+Can be used as a block via CMS
+feat: <PricingPlanSection /> component (#50)
+* fix: Don't spread markdown string
+* feat: Query, use columnComponent field
+* fix: Use component field from entry to lookup JSX component on <Grid />
+* refactor: Update query, code to reflect schema changes
+* feat: Add <PricingPlanSection /> component
+* feat: Permit <Grid /> to render children
+* feat: Implement billing period switching
+* refactor: <CheckIcon /> component
+* fix: Layout issue
+* feat: Add header to PageLayout
+Render the page title, subtitle if no <Hero />
+* fix: Protect against undefined
+feat: Add <FeatureCheck /> component (#51)
+feat: <FAQSection /> component (#52)
+* feat: Add <PricingFAQSection /> component
+* refactor: Rename component
+feat: Add <Breakpoint /> component (#53)
+feat: Add <StatSection /> component (#54)
+feat: Update <Hero /> component (#55)
+* feat: <Button /> updates
+* feat: <Hero /> updates
+feat: Update <Navigation /> component (#56)
+* feat: Update <Navigation /> component
+* refactor: Make SVGs components
+* refactor: Pass aria-hidden as prop
+* fix: Add missing key attr
+* style: Remove unused imports
+* fix: Handle container ref being null
+feat: Add <FeatureList /> component (#57)
+feat: Add <Testimonial /> component (#58)
+feat: Add <NewsletterSignup /> component (#59)
+* chore(deps): Add @tailwindcss/forms dependency
+* feat: Add <NewsletterSignup /> component
+* refactor: Move svgs dir to components/
+* fix: purple > indigo
+feat: Update <Footer /> component (#60)
+* feat: Update <Footer /> component
+* refactor: Move SVGs to their own component file
+Update footer
+Replace Inc. for GmbH
+feat: Add <FeatureSection /> component (#61)
+* chore(deps): Add lodash.{camelcase,startcase} dependencies
+* feat: Add new SVG icons
+* feat: Add <FeatureIcon /> component
+* feat: Add <FeatureSection /> component
+feat <BlogPostCard /> component improvements (#62)
+* feat: Tidy <BlogPostCard /> component
+* feat: Remove featured posts
+* fix: Remove duplicate headings from /blog
+feat: Misc improvements (#63)
+* feat: Prefer prose classes from @tailwind/typography
+* feat: Update @tailwind/typography config defaults
+* refactor: Remove unused components
+* fix: htmlFor, not for
+* style: Linting
+* feat: Configure module aliases
+* fix: dateTime, not datetime
+* fix: Use indigo colour for <Banner />
+* chore: Remove unused function prop
+* refactor: Remove mdxComponents
+* fix: Use module alias paths
+* refactor: Tidy util functions
+* refactor: Add parsePosrData util function
+* refactor: Remove <Heading /> component
+feat: Add SEO (#64)
+* refactor: Prefer id for key attr
+* chore(deps): Add next-seo dependency
+* feat: Add <DefaultSeo /> to _app.js
+* feat: Add <SEO /> component
+* feat: Query for SEO data
+* refactor: next-seo.config.js
+* fix: Only render <SEO /> if page entry has SEO relation
+* fix: className, not class
+feat: Component improvements (#65)
+* feat: Add gridSubtitle to <FeatureSection />
+* refactor: Consolidate <FeatureCheck /> component
+* chore(deps): Remove babel-plugin-inline-react-svg dependency
+* feat: Use <TagAttribute /> to control HTML tag used in grid instance
+* refactor: Consolidate feature components into <Grid />
+* refactor: Consolidate <FAQSection /> into <Grid />
+feat: Add team section (#66)
+fix: Fallback if person photo is null (#67)
+chore(deps): update dependency @headlessui/react to v0.3.1
+chore(deps): update dependency @tailwindcss/typography to v0.4.0
+chore(deps): update dependency graphql to v15.5.0
+chore(deps): update dependency graphql-request to v3.4.0
+chore(deps): update dependency next to v10.0.8
+chore(deps): update dependency next-seo to v4.20.0
+chore(deps): update dependency next-mdx-remote to v1.0.1
+chore(deps): update dependency next to v10.0.9
+chore(deps): update dependency next-seo to v4.22.0
+chore(deps): update dependency @tailwindcss/forms to v0.3.2
+chore(deps): update dependency next-seo to v4.23.0
+chore(deps): update dependency @headlessui/react to v0.3.2
+chore(deps): update dependency classnames to v2.3.1
+chore(deps): update dependency next to v10.1.3
+chore(deps): update react monorepo to v17.0.2
+chore(deps): update dependency next to v10.2.0
+chore(deps): update dependency next-seo to v4.24.0
+chore(deps): update dependency prettier to v2.3.0
+chore(deps): update dependency next to v10.2.2
+chore(deps): update dependency @tailwindcss/typography to v0.4.1
+chore(deps): update dependency next to v10.2.3
+feat: replace Tailwind CSS with Chakra UI (#92)
+* refactor: replace tailwind with chakra-ui
+* chore: remove unused icons
+* chore: remove tailwind
+* chore: rename license and .env
+* chore: add .editorconfig
+* refactor: use fallback blocking and increase revalidate
+* chore: layout adjustments to match tailwind version
+chore(deps): bump lodash from 4.17.20 to 4.17.21 (#93)
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
+---
+updated-dependencies:
+- dependency-name: lodash
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump browserslist from 4.14.7 to 4.16.6 (#94)
+Bumps [browserslist](https://github.com/browserslist/browserslist) from 4.14.7 to 4.16.6.
+- [Release notes](https://github.com/browserslist/browserslist/releases)
+- [Changelog](https://github.com/browserslist/browserslist/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/browserslist/browserslist/compare/4.14.7...4.16.6)
+---
+updated-dependencies:
+- dependency-name: browserslist
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump elliptic from 6.5.3 to 6.5.4 (#95)
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
+---
+updated-dependencies:
+- dependency-name: elliptic
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): update dependency next-mdx-remote to v3 (#88)
+* chore(deps): update dependency next-mdx-remote to v3
+* refactor: upgrade to next-mdx-remote v3
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: João Pedro Schmitz <jpedroschmitz@hotmail.com>
+chore(deps): pin dependencies
+chore(deps): update dependency prettier to v2.3.1")
+
+
+
+ | 
+
+Jun 10, 2021
+
+ |
+| 
+
+[.editorconfig](https://github.com/hygraph/reference-marketing-website/blob/main/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[.editorconfig](https://github.com/hygraph/reference-marketing-website/blob/main/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[chore: Initialise project](https://github.com/hygraph/reference-marketing-website/commit/2b014ce47e2bc1532ba602603ab5c276a1f6998b "chore: Initialise project
+chore: Add, initialise tailwindcss, @tailwindcss/ui
+feat: Add skeleton with data for index page (#2)
+Including barebones components
+fix: lowercase for file import statement
+chore: Update .gitignore
+feat: Add <Banner /> component (#3)
+* chore: Add classnames dependency
+* feat: Add <Banner /> component
+chore: renovate.json (#1)
+* chore(deps): add renovate.json
+* chore: Update renovate.json
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Jonathan Steele <jonathan.steele@graphcms.com>
+feat: Add <Button /> component (#4)
+* feat: Add <Button /> component
+* refactor: Prefer blue over indigo
+* fix: Don't truncate banner content
+feat: Add <Hero /> component (#5)
+* feat: Add <Hero /> component
+* fix: Assign default theme prop value
+* fix: return correct prop in switch
+* fix: return null if href or label falsy
+refactor: Abstract page layout to component
+feat: Build all other pages in CMS
+fix(deps): update dependency next to v9.4.4
+refactor: Have <Banner /> use <Button /> (#8)
+* refactor: Have <Banner /> use <Button />
+* feat: Add WHITE <Button /> theme
+* fix: Handle external links in <Button />
+* feat: Add size prop to <Button />
+feat: Add <Grid /> component (#9)
+* refactor: Deduplication of page query
+* feat: Add <Grid /> component
+fix(deps): update dependency graphql-request to v2 (#7)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+feat: Add <Feature /> component (#10)
+feat: Add <BlogPostCard /> component (#11)
+* feat: Use component field from Grid
+Use that as a component override, instead of just typeName
+* feat: Add theme prop, styling to <Grid />
+Improve spacing
+* feat: Add <BlogPostCard /> component
+* refactor: Remove unused component
+feat: Build /blog page (#12)
+* feat: Initial build of blog page
+* fix: Use markdown key from subtitle field
+* feat: Add featured post
+feat: Build blog post pages (#13)
+* feat: Build pages for blog posts
+* feat: Add <Link /> to <BlogPostCard />
+* feat: Render post content
+* chore: Add markdown-to-jsx dependency
+* feat: Add <MarkdownRenderer /> for basic elements
+feat: Add <FeatureCard /> component
+refactor: Use <MarkdownRenderer /> for hero subtitle
+refactor: Use <MarkdownRenderer /> for grid subtitle
+chore(deps): update dependency @tailwindcss/ui to v0.3.1
+chore(deps): update dependency tailwindcss to v1.5.1
+chore(deps): update dependency @tailwindcss/ui to v0.4.0
+chore(deps): update dependency tailwindcss to v1.5.2
+chore(deps): update dependency @tailwindcss/ui to v0.5.0
+chore(deps): update dependency tailwindcss to v1.6.1
+fix(deps): update dependency next to v9.5.1
+chore(deps): update dependency tailwindcss to v1.6.2
+fix(deps): update dependency next to v9.5.2
+chore(deps): update dependency tailwindcss to v1.7.3
+refactor: Nest blog page
+blog/index.js
+fix: <Grid /> background colour
+feat: Enable MDX for all RichText markdown fields (#25)
+* chore(deps): Add next-mdx-remote dependency
+* chore(deps): Remove markdown-to-jsx dependency
+* chore(deps): Add he dependency
+* feat: Add MDX for blog index, blog post pages
+* feat: Add MDX to block, column components
+* fix: Correct query names
+* feat: Parse RichText markdown for blocks, columns as MDX for all pages
+* fix: Don't wrap MDX in <p>
+* fix: Missing import
+feat: Improve blog post layout (#26)
+* chore(deps): Add @tailwindcss/typography dependency
+* chore: Remove deprecated Tailwind classes
+* feat: Use .prose class from @tailwindcss/typography for blog body
+* feat: Better layout for blog posts
+* feat: Add pagination to blog post pages
+chore(deps): update dependency tailwindcss to v1.7.6
+fix: gap-x utility class (#28)
+col-gap removed
+chore: Update renovate.json
+feat: Add primary navigation (#29)
+* feat: Add navigation fields to page query
+* feat: Add basic navigation to <Wrapper /> component
+* feat: Add <Navigation /> component
+* feat: Add active styling for <NavigationLink />
+* style: Import ordering
+* refactor: Use conditional props for <NavigationLink />
+* refactor: Move <Hero /> component from Block to reflect schema change
+* feat: Design for <Navigation />
+* feat: Add <NavigationMobile /> component
+* chore(deps): Add @tailwindui/react dependency
+* feat: Use <Transition /> component from @tailwindui/react
+Animates the mobile nav
+* feat: Close <NavigationMobile /> on outside click, escape key
+* feat: Close <NavigationMobile /> on route change
+* chore(deps): Add babel-plugin-inline-react-svg dependency
+* feat: Use GraphCMS logos in navigation
+feat: Add layout components (#33)
+* feat: Add basic <SiteLayout /> component
+Exports getLayout function
+* feat: Add <PageLayout />  component
+Move <Banner />, <Hero />, <Navigation />
+* feat: Add nav to /blog
+* feat: Add nav to blog posts
+* fix: Add as prop to <Link /> for dynamic routes
+* fix: z-index issue
+* style: query linting
+chore(deps): update dependency tailwindcss to v1.8.5 (#31)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+chore(deps): update dependency @tailwindcss/ui to v0.6.0 (#30)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Move RichText fields to Markdown (#34)
+* refactor: Markdown fields over RichText
+Reflect schema changes
+* chore: Use new project endpoint
+* refactor: Only include Authorization header if token variable present
+fix: Improve navigation render (#35)
+* fix: Always render <Navigation /> in <Hero />
+* fix: Conditionally map over pages in <Navigation />, <NavigationMobile />
+* fix: Only show mobile navigation button if there's pages
+* fix: <NavigationMobile /> positioning when open
+chore(deps): update dependency next to v9.5.3 (#32)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Remove <Link /> as prop (#36)
+* refactor: Remove as prop from next/link
+No longer needed for dynamic routes as of next@9.5.3
+* fix: pointless logical operator
+feat: Improve data fetching (#37)
+* feat: Enable fallback pages for dynamic generation of new pages
+* feat: Enable incremental static regeneration
+* fix: page props empty when using isFallback
+* fix: page props empty when using isFallback
+* fix: Always show <Navigation /> for fallback pages
+* feat: Handle 404 fallback cases
+* refactor: _parsePageData function
+chore(deps): update dependency tailwindcss to v1.8.10
+chore(deps): update dependency @tailwindcss/ui to v0.6.2
+feat: Add global page footer (#40)
+* feat: Add global <Footer /> component
+* fix: Protect against no footer pages
+feat: Add global footer to blog (#41)
+* feat: Add global footer to blog index, blog post pages
+* fix: Missing slash for <Link /> href
+* fix: optional chaining
+chore(deps): update dependency next to v9.5.5
+chore(deps): update dependency tailwindcss to v1.8.13
+chore: Housekeeping (#44)
+* chore(deps): Bump all project dependencies to latest
+* chore: Update package.json meta
+* chore: Upgrade to tailwindcss@2.x.x
+* chore(deps): Add graphql dependency
+* refactor: Add gql tag for queries
+* refactor: Use React namespace import
+chore: Add LICENSE
+refactor: Use next/image (#45)
+* chore: Configure domains for next/image
+* refactor: Use next/image component
+style: prettier --write (#46)
+* chore(deps): Add prettier dependency
+* style: prettier --write
+feat: Query, build localised content/pages (#47)
+feat: Add locale select UI (#48)
+* chore(deps): Add @headlessui/react dependency
+* chore(deps): Remove @tailwindui/react dependency
+* refactor: Use <Transition /> component from @headlessui/react
+* feat: Add <Select /> component
+Using @headlessui/react
+* feat: Add _locales.js to extend locales config
+* feat: Add language select to <Footer />
+* refactor: Add activeLocale constant
+feat: Add <LogoCloud /> component (#49)
+Can be used as a block via CMS
+feat: <PricingPlanSection /> component (#50)
+* fix: Don't spread markdown string
+* feat: Query, use columnComponent field
+* fix: Use component field from entry to lookup JSX component on <Grid />
+* refactor: Update query, code to reflect schema changes
+* feat: Add <PricingPlanSection /> component
+* feat: Permit <Grid /> to render children
+* feat: Implement billing period switching
+* refactor: <CheckIcon /> component
+* fix: Layout issue
+* feat: Add header to PageLayout
+Render the page title, subtitle if no <Hero />
+* fix: Protect against undefined
+feat: Add <FeatureCheck /> component (#51)
+feat: <FAQSection /> component (#52)
+* feat: Add <PricingFAQSection /> component
+* refactor: Rename component
+feat: Add <Breakpoint /> component (#53)
+feat: Add <StatSection /> component (#54)
+feat: Update <Hero /> component (#55)
+* feat: <Button /> updates
+* feat: <Hero /> updates
+feat: Update <Navigation /> component (#56)
+* feat: Update <Navigation /> component
+* refactor: Make SVGs components
+* refactor: Pass aria-hidden as prop
+* fix: Add missing key attr
+* style: Remove unused imports
+* fix: Handle container ref being null
+feat: Add <FeatureList /> component (#57)
+feat: Add <Testimonial /> component (#58)
+feat: Add <NewsletterSignup /> component (#59)
+* chore(deps): Add @tailwindcss/forms dependency
+* feat: Add <NewsletterSignup /> component
+* refactor: Move svgs dir to components/
+* fix: purple > indigo
+feat: Update <Footer /> component (#60)
+* feat: Update <Footer /> component
+* refactor: Move SVGs to their own component file
+Update footer
+Replace Inc. for GmbH
+feat: Add <FeatureSection /> component (#61)
+* chore(deps): Add lodash.{camelcase,startcase} dependencies
+* feat: Add new SVG icons
+* feat: Add <FeatureIcon /> component
+* feat: Add <FeatureSection /> component
+feat <BlogPostCard /> component improvements (#62)
+* feat: Tidy <BlogPostCard /> component
+* feat: Remove featured posts
+* fix: Remove duplicate headings from /blog
+feat: Misc improvements (#63)
+* feat: Prefer prose classes from @tailwind/typography
+* feat: Update @tailwind/typography config defaults
+* refactor: Remove unused components
+* fix: htmlFor, not for
+* style: Linting
+* feat: Configure module aliases
+* fix: dateTime, not datetime
+* fix: Use indigo colour for <Banner />
+* chore: Remove unused function prop
+* refactor: Remove mdxComponents
+* fix: Use module alias paths
+* refactor: Tidy util functions
+* refactor: Add parsePosrData util function
+* refactor: Remove <Heading /> component
+feat: Add SEO (#64)
+* refactor: Prefer id for key attr
+* chore(deps): Add next-seo dependency
+* feat: Add <DefaultSeo /> to _app.js
+* feat: Add <SEO /> component
+* feat: Query for SEO data
+* refactor: next-seo.config.js
+* fix: Only render <SEO /> if page entry has SEO relation
+* fix: className, not class
+feat: Component improvements (#65)
+* feat: Add gridSubtitle to <FeatureSection />
+* refactor: Consolidate <FeatureCheck /> component
+* chore(deps): Remove babel-plugin-inline-react-svg dependency
+* feat: Use <TagAttribute /> to control HTML tag used in grid instance
+* refactor: Consolidate feature components into <Grid />
+* refactor: Consolidate <FAQSection /> into <Grid />
+feat: Add team section (#66)
+fix: Fallback if person photo is null (#67)
+chore(deps): update dependency @headlessui/react to v0.3.1
+chore(deps): update dependency @tailwindcss/typography to v0.4.0
+chore(deps): update dependency graphql to v15.5.0
+chore(deps): update dependency graphql-request to v3.4.0
+chore(deps): update dependency next to v10.0.8
+chore(deps): update dependency next-seo to v4.20.0
+chore(deps): update dependency next-mdx-remote to v1.0.1
+chore(deps): update dependency next to v10.0.9
+chore(deps): update dependency next-seo to v4.22.0
+chore(deps): update dependency @tailwindcss/forms to v0.3.2
+chore(deps): update dependency next-seo to v4.23.0
+chore(deps): update dependency @headlessui/react to v0.3.2
+chore(deps): update dependency classnames to v2.3.1
+chore(deps): update dependency next to v10.1.3
+chore(deps): update react monorepo to v17.0.2
+chore(deps): update dependency next to v10.2.0
+chore(deps): update dependency next-seo to v4.24.0
+chore(deps): update dependency prettier to v2.3.0
+chore(deps): update dependency next to v10.2.2
+chore(deps): update dependency @tailwindcss/typography to v0.4.1
+chore(deps): update dependency next to v10.2.3
+feat: replace Tailwind CSS with Chakra UI (#92)
+* refactor: replace tailwind with chakra-ui
+* chore: remove unused icons
+* chore: remove tailwind
+* chore: rename license and .env
+* chore: add .editorconfig
+* refactor: use fallback blocking and increase revalidate
+* chore: layout adjustments to match tailwind version
+chore(deps): bump lodash from 4.17.20 to 4.17.21 (#93)
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
+---
+updated-dependencies:
+- dependency-name: lodash
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump browserslist from 4.14.7 to 4.16.6 (#94)
+Bumps [browserslist](https://github.com/browserslist/browserslist) from 4.14.7 to 4.16.6.
+- [Release notes](https://github.com/browserslist/browserslist/releases)
+- [Changelog](https://github.com/browserslist/browserslist/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/browserslist/browserslist/compare/4.14.7...4.16.6)
+---
+updated-dependencies:
+- dependency-name: browserslist
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump elliptic from 6.5.3 to 6.5.4 (#95)
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
+---
+updated-dependencies:
+- dependency-name: elliptic
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): update dependency next-mdx-remote to v3 (#88)
+* chore(deps): update dependency next-mdx-remote to v3
+* refactor: upgrade to next-mdx-remote v3
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: João Pedro Schmitz <jpedroschmitz@hotmail.com>
+chore(deps): pin dependencies
+chore(deps): update dependency prettier to v2.3.1")
+
+
+
+ | 
+
+Jun 10, 2021
+
+ |
+| 
+
+[.eslintrc](https://github.com/hygraph/reference-marketing-website/blob/main/.eslintrc ".eslintrc")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc](https://github.com/hygraph/reference-marketing-website/blob/main/.eslintrc ".eslintrc")
+
+
+
+
+
+
+
+ | 
+
+[chore: add eslint](https://github.com/hygraph/reference-marketing-website/commit/b8ad8791875c52e8fb97103a4b1a8525f05c9203 "chore: add eslint")
+
+
+
+ | 
+
+Jun 25, 2021
+
+ |
+| 
+
+[.gitignore](https://github.com/hygraph/reference-marketing-website/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/hygraph/reference-marketing-website/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[refactor: unify name of starter variables for Vercel deployments (](https://github.com/hygraph/reference-marketing-website/commit/b3d252e2914f75abd9fa94b4ef71814440df30f0 "refactor: unify name of starter variables for Vercel deployments (#186)")[#186](https://github.com/hygraph/reference-marketing-website/pull/186)[)](https://github.com/hygraph/reference-marketing-website/commit/b3d252e2914f75abd9fa94b4ef71814440df30f0 "refactor: unify name of starter variables for Vercel deployments (#186)")
+
+
+
+ | 
+
+Sep 2, 2022
+
+ |
+| 
+
+[LICENSE.md](https://github.com/hygraph/reference-marketing-website/blob/main/LICENSE.md "LICENSE.md")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE.md](https://github.com/hygraph/reference-marketing-website/blob/main/LICENSE.md "LICENSE.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: Initialise project](https://github.com/hygraph/reference-marketing-website/commit/2b014ce47e2bc1532ba602603ab5c276a1f6998b "chore: Initialise project
+chore: Add, initialise tailwindcss, @tailwindcss/ui
+feat: Add skeleton with data for index page (#2)
+Including barebones components
+fix: lowercase for file import statement
+chore: Update .gitignore
+feat: Add <Banner /> component (#3)
+* chore: Add classnames dependency
+* feat: Add <Banner /> component
+chore: renovate.json (#1)
+* chore(deps): add renovate.json
+* chore: Update renovate.json
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Jonathan Steele <jonathan.steele@graphcms.com>
+feat: Add <Button /> component (#4)
+* feat: Add <Button /> component
+* refactor: Prefer blue over indigo
+* fix: Don't truncate banner content
+feat: Add <Hero /> component (#5)
+* feat: Add <Hero /> component
+* fix: Assign default theme prop value
+* fix: return correct prop in switch
+* fix: return null if href or label falsy
+refactor: Abstract page layout to component
+feat: Build all other pages in CMS
+fix(deps): update dependency next to v9.4.4
+refactor: Have <Banner /> use <Button /> (#8)
+* refactor: Have <Banner /> use <Button />
+* feat: Add WHITE <Button /> theme
+* fix: Handle external links in <Button />
+* feat: Add size prop to <Button />
+feat: Add <Grid /> component (#9)
+* refactor: Deduplication of page query
+* feat: Add <Grid /> component
+fix(deps): update dependency graphql-request to v2 (#7)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+feat: Add <Feature /> component (#10)
+feat: Add <BlogPostCard /> component (#11)
+* feat: Use component field from Grid
+Use that as a component override, instead of just typeName
+* feat: Add theme prop, styling to <Grid />
+Improve spacing
+* feat: Add <BlogPostCard /> component
+* refactor: Remove unused component
+feat: Build /blog page (#12)
+* feat: Initial build of blog page
+* fix: Use markdown key from subtitle field
+* feat: Add featured post
+feat: Build blog post pages (#13)
+* feat: Build pages for blog posts
+* feat: Add <Link /> to <BlogPostCard />
+* feat: Render post content
+* chore: Add markdown-to-jsx dependency
+* feat: Add <MarkdownRenderer /> for basic elements
+feat: Add <FeatureCard /> component
+refactor: Use <MarkdownRenderer /> for hero subtitle
+refactor: Use <MarkdownRenderer /> for grid subtitle
+chore(deps): update dependency @tailwindcss/ui to v0.3.1
+chore(deps): update dependency tailwindcss to v1.5.1
+chore(deps): update dependency @tailwindcss/ui to v0.4.0
+chore(deps): update dependency tailwindcss to v1.5.2
+chore(deps): update dependency @tailwindcss/ui to v0.5.0
+chore(deps): update dependency tailwindcss to v1.6.1
+fix(deps): update dependency next to v9.5.1
+chore(deps): update dependency tailwindcss to v1.6.2
+fix(deps): update dependency next to v9.5.2
+chore(deps): update dependency tailwindcss to v1.7.3
+refactor: Nest blog page
+blog/index.js
+fix: <Grid /> background colour
+feat: Enable MDX for all RichText markdown fields (#25)
+* chore(deps): Add next-mdx-remote dependency
+* chore(deps): Remove markdown-to-jsx dependency
+* chore(deps): Add he dependency
+* feat: Add MDX for blog index, blog post pages
+* feat: Add MDX to block, column components
+* fix: Correct query names
+* feat: Parse RichText markdown for blocks, columns as MDX for all pages
+* fix: Don't wrap MDX in <p>
+* fix: Missing import
+feat: Improve blog post layout (#26)
+* chore(deps): Add @tailwindcss/typography dependency
+* chore: Remove deprecated Tailwind classes
+* feat: Use .prose class from @tailwindcss/typography for blog body
+* feat: Better layout for blog posts
+* feat: Add pagination to blog post pages
+chore(deps): update dependency tailwindcss to v1.7.6
+fix: gap-x utility class (#28)
+col-gap removed
+chore: Update renovate.json
+feat: Add primary navigation (#29)
+* feat: Add navigation fields to page query
+* feat: Add basic navigation to <Wrapper /> component
+* feat: Add <Navigation /> component
+* feat: Add active styling for <NavigationLink />
+* style: Import ordering
+* refactor: Use conditional props for <NavigationLink />
+* refactor: Move <Hero /> component from Block to reflect schema change
+* feat: Design for <Navigation />
+* feat: Add <NavigationMobile /> component
+* chore(deps): Add @tailwindui/react dependency
+* feat: Use <Transition /> component from @tailwindui/react
+Animates the mobile nav
+* feat: Close <NavigationMobile /> on outside click, escape key
+* feat: Close <NavigationMobile /> on route change
+* chore(deps): Add babel-plugin-inline-react-svg dependency
+* feat: Use GraphCMS logos in navigation
+feat: Add layout components (#33)
+* feat: Add basic <SiteLayout /> component
+Exports getLayout function
+* feat: Add <PageLayout />  component
+Move <Banner />, <Hero />, <Navigation />
+* feat: Add nav to /blog
+* feat: Add nav to blog posts
+* fix: Add as prop to <Link /> for dynamic routes
+* fix: z-index issue
+* style: query linting
+chore(deps): update dependency tailwindcss to v1.8.5 (#31)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+chore(deps): update dependency @tailwindcss/ui to v0.6.0 (#30)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Move RichText fields to Markdown (#34)
+* refactor: Markdown fields over RichText
+Reflect schema changes
+* chore: Use new project endpoint
+* refactor: Only include Authorization header if token variable present
+fix: Improve navigation render (#35)
+* fix: Always render <Navigation /> in <Hero />
+* fix: Conditionally map over pages in <Navigation />, <NavigationMobile />
+* fix: Only show mobile navigation button if there's pages
+* fix: <NavigationMobile /> positioning when open
+chore(deps): update dependency next to v9.5.3 (#32)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Remove <Link /> as prop (#36)
+* refactor: Remove as prop from next/link
+No longer needed for dynamic routes as of next@9.5.3
+* fix: pointless logical operator
+feat: Improve data fetching (#37)
+* feat: Enable fallback pages for dynamic generation of new pages
+* feat: Enable incremental static regeneration
+* fix: page props empty when using isFallback
+* fix: page props empty when using isFallback
+* fix: Always show <Navigation /> for fallback pages
+* feat: Handle 404 fallback cases
+* refactor: _parsePageData function
+chore(deps): update dependency tailwindcss to v1.8.10
+chore(deps): update dependency @tailwindcss/ui to v0.6.2
+feat: Add global page footer (#40)
+* feat: Add global <Footer /> component
+* fix: Protect against no footer pages
+feat: Add global footer to blog (#41)
+* feat: Add global footer to blog index, blog post pages
+* fix: Missing slash for <Link /> href
+* fix: optional chaining
+chore(deps): update dependency next to v9.5.5
+chore(deps): update dependency tailwindcss to v1.8.13
+chore: Housekeeping (#44)
+* chore(deps): Bump all project dependencies to latest
+* chore: Update package.json meta
+* chore: Upgrade to tailwindcss@2.x.x
+* chore(deps): Add graphql dependency
+* refactor: Add gql tag for queries
+* refactor: Use React namespace import
+chore: Add LICENSE
+refactor: Use next/image (#45)
+* chore: Configure domains for next/image
+* refactor: Use next/image component
+style: prettier --write (#46)
+* chore(deps): Add prettier dependency
+* style: prettier --write
+feat: Query, build localised content/pages (#47)
+feat: Add locale select UI (#48)
+* chore(deps): Add @headlessui/react dependency
+* chore(deps): Remove @tailwindui/react dependency
+* refactor: Use <Transition /> component from @headlessui/react
+* feat: Add <Select /> component
+Using @headlessui/react
+* feat: Add _locales.js to extend locales config
+* feat: Add language select to <Footer />
+* refactor: Add activeLocale constant
+feat: Add <LogoCloud /> component (#49)
+Can be used as a block via CMS
+feat: <PricingPlanSection /> component (#50)
+* fix: Don't spread markdown string
+* feat: Query, use columnComponent field
+* fix: Use component field from entry to lookup JSX component on <Grid />
+* refactor: Update query, code to reflect schema changes
+* feat: Add <PricingPlanSection /> component
+* feat: Permit <Grid /> to render children
+* feat: Implement billing period switching
+* refactor: <CheckIcon /> component
+* fix: Layout issue
+* feat: Add header to PageLayout
+Render the page title, subtitle if no <Hero />
+* fix: Protect against undefined
+feat: Add <FeatureCheck /> component (#51)
+feat: <FAQSection /> component (#52)
+* feat: Add <PricingFAQSection /> component
+* refactor: Rename component
+feat: Add <Breakpoint /> component (#53)
+feat: Add <StatSection /> component (#54)
+feat: Update <Hero /> component (#55)
+* feat: <Button /> updates
+* feat: <Hero /> updates
+feat: Update <Navigation /> component (#56)
+* feat: Update <Navigation /> component
+* refactor: Make SVGs components
+* refactor: Pass aria-hidden as prop
+* fix: Add missing key attr
+* style: Remove unused imports
+* fix: Handle container ref being null
+feat: Add <FeatureList /> component (#57)
+feat: Add <Testimonial /> component (#58)
+feat: Add <NewsletterSignup /> component (#59)
+* chore(deps): Add @tailwindcss/forms dependency
+* feat: Add <NewsletterSignup /> component
+* refactor: Move svgs dir to components/
+* fix: purple > indigo
+feat: Update <Footer /> component (#60)
+* feat: Update <Footer /> component
+* refactor: Move SVGs to their own component file
+Update footer
+Replace Inc. for GmbH
+feat: Add <FeatureSection /> component (#61)
+* chore(deps): Add lodash.{camelcase,startcase} dependencies
+* feat: Add new SVG icons
+* feat: Add <FeatureIcon /> component
+* feat: Add <FeatureSection /> component
+feat <BlogPostCard /> component improvements (#62)
+* feat: Tidy <BlogPostCard /> component
+* feat: Remove featured posts
+* fix: Remove duplicate headings from /blog
+feat: Misc improvements (#63)
+* feat: Prefer prose classes from @tailwind/typography
+* feat: Update @tailwind/typography config defaults
+* refactor: Remove unused components
+* fix: htmlFor, not for
+* style: Linting
+* feat: Configure module aliases
+* fix: dateTime, not datetime
+* fix: Use indigo colour for <Banner />
+* chore: Remove unused function prop
+* refactor: Remove mdxComponents
+* fix: Use module alias paths
+* refactor: Tidy util functions
+* refactor: Add parsePosrData util function
+* refactor: Remove <Heading /> component
+feat: Add SEO (#64)
+* refactor: Prefer id for key attr
+* chore(deps): Add next-seo dependency
+* feat: Add <DefaultSeo /> to _app.js
+* feat: Add <SEO /> component
+* feat: Query for SEO data
+* refactor: next-seo.config.js
+* fix: Only render <SEO /> if page entry has SEO relation
+* fix: className, not class
+feat: Component improvements (#65)
+* feat: Add gridSubtitle to <FeatureSection />
+* refactor: Consolidate <FeatureCheck /> component
+* chore(deps): Remove babel-plugin-inline-react-svg dependency
+* feat: Use <TagAttribute /> to control HTML tag used in grid instance
+* refactor: Consolidate feature components into <Grid />
+* refactor: Consolidate <FAQSection /> into <Grid />
+feat: Add team section (#66)
+fix: Fallback if person photo is null (#67)
+chore(deps): update dependency @headlessui/react to v0.3.1
+chore(deps): update dependency @tailwindcss/typography to v0.4.0
+chore(deps): update dependency graphql to v15.5.0
+chore(deps): update dependency graphql-request to v3.4.0
+chore(deps): update dependency next to v10.0.8
+chore(deps): update dependency next-seo to v4.20.0
+chore(deps): update dependency next-mdx-remote to v1.0.1
+chore(deps): update dependency next to v10.0.9
+chore(deps): update dependency next-seo to v4.22.0
+chore(deps): update dependency @tailwindcss/forms to v0.3.2
+chore(deps): update dependency next-seo to v4.23.0
+chore(deps): update dependency @headlessui/react to v0.3.2
+chore(deps): update dependency classnames to v2.3.1
+chore(deps): update dependency next to v10.1.3
+chore(deps): update react monorepo to v17.0.2
+chore(deps): update dependency next to v10.2.0
+chore(deps): update dependency next-seo to v4.24.0
+chore(deps): update dependency prettier to v2.3.0
+chore(deps): update dependency next to v10.2.2
+chore(deps): update dependency @tailwindcss/typography to v0.4.1
+chore(deps): update dependency next to v10.2.3
+feat: replace Tailwind CSS with Chakra UI (#92)
+* refactor: replace tailwind with chakra-ui
+* chore: remove unused icons
+* chore: remove tailwind
+* chore: rename license and .env
+* chore: add .editorconfig
+* refactor: use fallback blocking and increase revalidate
+* chore: layout adjustments to match tailwind version
+chore(deps): bump lodash from 4.17.20 to 4.17.21 (#93)
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
+---
+updated-dependencies:
+- dependency-name: lodash
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump browserslist from 4.14.7 to 4.16.6 (#94)
+Bumps [browserslist](https://github.com/browserslist/browserslist) from 4.14.7 to 4.16.6.
+- [Release notes](https://github.com/browserslist/browserslist/releases)
+- [Changelog](https://github.com/browserslist/browserslist/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/browserslist/browserslist/compare/4.14.7...4.16.6)
+---
+updated-dependencies:
+- dependency-name: browserslist
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump elliptic from 6.5.3 to 6.5.4 (#95)
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
+---
+updated-dependencies:
+- dependency-name: elliptic
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): update dependency next-mdx-remote to v3 (#88)
+* chore(deps): update dependency next-mdx-remote to v3
+* refactor: upgrade to next-mdx-remote v3
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: João Pedro Schmitz <jpedroschmitz@hotmail.com>
+chore(deps): pin dependencies
+chore(deps): update dependency prettier to v2.3.1")
+
+
+
+ | 
+
+Jun 10, 2021
+
+ |
+| 
+
+[README.md](https://github.com/hygraph/reference-marketing-website/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/hygraph/reference-marketing-website/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[refactor: unify name of starter variables for Vercel deployments (](https://github.com/hygraph/reference-marketing-website/commit/b3d252e2914f75abd9fa94b4ef71814440df30f0 "refactor: unify name of starter variables for Vercel deployments (#186)")[#186](https://github.com/hygraph/reference-marketing-website/pull/186)[)](https://github.com/hygraph/reference-marketing-website/commit/b3d252e2914f75abd9fa94b4ef71814440df30f0 "refactor: unify name of starter variables for Vercel deployments (#186)")
+
+
+
+ | 
+
+Sep 2, 2022
+
+ |
+| 
+
+[jsconfig.json](https://github.com/hygraph/reference-marketing-website/blob/main/jsconfig.json "jsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[jsconfig.json](https://github.com/hygraph/reference-marketing-website/blob/main/jsconfig.json "jsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[chore: Initialise project](https://github.com/hygraph/reference-marketing-website/commit/2b014ce47e2bc1532ba602603ab5c276a1f6998b "chore: Initialise project
+chore: Add, initialise tailwindcss, @tailwindcss/ui
+feat: Add skeleton with data for index page (#2)
+Including barebones components
+fix: lowercase for file import statement
+chore: Update .gitignore
+feat: Add <Banner /> component (#3)
+* chore: Add classnames dependency
+* feat: Add <Banner /> component
+chore: renovate.json (#1)
+* chore(deps): add renovate.json
+* chore: Update renovate.json
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Jonathan Steele <jonathan.steele@graphcms.com>
+feat: Add <Button /> component (#4)
+* feat: Add <Button /> component
+* refactor: Prefer blue over indigo
+* fix: Don't truncate banner content
+feat: Add <Hero /> component (#5)
+* feat: Add <Hero /> component
+* fix: Assign default theme prop value
+* fix: return correct prop in switch
+* fix: return null if href or label falsy
+refactor: Abstract page layout to component
+feat: Build all other pages in CMS
+fix(deps): update dependency next to v9.4.4
+refactor: Have <Banner /> use <Button /> (#8)
+* refactor: Have <Banner /> use <Button />
+* feat: Add WHITE <Button /> theme
+* fix: Handle external links in <Button />
+* feat: Add size prop to <Button />
+feat: Add <Grid /> component (#9)
+* refactor: Deduplication of page query
+* feat: Add <Grid /> component
+fix(deps): update dependency graphql-request to v2 (#7)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+feat: Add <Feature /> component (#10)
+feat: Add <BlogPostCard /> component (#11)
+* feat: Use component field from Grid
+Use that as a component override, instead of just typeName
+* feat: Add theme prop, styling to <Grid />
+Improve spacing
+* feat: Add <BlogPostCard /> component
+* refactor: Remove unused component
+feat: Build /blog page (#12)
+* feat: Initial build of blog page
+* fix: Use markdown key from subtitle field
+* feat: Add featured post
+feat: Build blog post pages (#13)
+* feat: Build pages for blog posts
+* feat: Add <Link /> to <BlogPostCard />
+* feat: Render post content
+* chore: Add markdown-to-jsx dependency
+* feat: Add <MarkdownRenderer /> for basic elements
+feat: Add <FeatureCard /> component
+refactor: Use <MarkdownRenderer /> for hero subtitle
+refactor: Use <MarkdownRenderer /> for grid subtitle
+chore(deps): update dependency @tailwindcss/ui to v0.3.1
+chore(deps): update dependency tailwindcss to v1.5.1
+chore(deps): update dependency @tailwindcss/ui to v0.4.0
+chore(deps): update dependency tailwindcss to v1.5.2
+chore(deps): update dependency @tailwindcss/ui to v0.5.0
+chore(deps): update dependency tailwindcss to v1.6.1
+fix(deps): update dependency next to v9.5.1
+chore(deps): update dependency tailwindcss to v1.6.2
+fix(deps): update dependency next to v9.5.2
+chore(deps): update dependency tailwindcss to v1.7.3
+refactor: Nest blog page
+blog/index.js
+fix: <Grid /> background colour
+feat: Enable MDX for all RichText markdown fields (#25)
+* chore(deps): Add next-mdx-remote dependency
+* chore(deps): Remove markdown-to-jsx dependency
+* chore(deps): Add he dependency
+* feat: Add MDX for blog index, blog post pages
+* feat: Add MDX to block, column components
+* fix: Correct query names
+* feat: Parse RichText markdown for blocks, columns as MDX for all pages
+* fix: Don't wrap MDX in <p>
+* fix: Missing import
+feat: Improve blog post layout (#26)
+* chore(deps): Add @tailwindcss/typography dependency
+* chore: Remove deprecated Tailwind classes
+* feat: Use .prose class from @tailwindcss/typography for blog body
+* feat: Better layout for blog posts
+* feat: Add pagination to blog post pages
+chore(deps): update dependency tailwindcss to v1.7.6
+fix: gap-x utility class (#28)
+col-gap removed
+chore: Update renovate.json
+feat: Add primary navigation (#29)
+* feat: Add navigation fields to page query
+* feat: Add basic navigation to <Wrapper /> component
+* feat: Add <Navigation /> component
+* feat: Add active styling for <NavigationLink />
+* style: Import ordering
+* refactor: Use conditional props for <NavigationLink />
+* refactor: Move <Hero /> component from Block to reflect schema change
+* feat: Design for <Navigation />
+* feat: Add <NavigationMobile /> component
+* chore(deps): Add @tailwindui/react dependency
+* feat: Use <Transition /> component from @tailwindui/react
+Animates the mobile nav
+* feat: Close <NavigationMobile /> on outside click, escape key
+* feat: Close <NavigationMobile /> on route change
+* chore(deps): Add babel-plugin-inline-react-svg dependency
+* feat: Use GraphCMS logos in navigation
+feat: Add layout components (#33)
+* feat: Add basic <SiteLayout /> component
+Exports getLayout function
+* feat: Add <PageLayout />  component
+Move <Banner />, <Hero />, <Navigation />
+* feat: Add nav to /blog
+* feat: Add nav to blog posts
+* fix: Add as prop to <Link /> for dynamic routes
+* fix: z-index issue
+* style: query linting
+chore(deps): update dependency tailwindcss to v1.8.5 (#31)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+chore(deps): update dependency @tailwindcss/ui to v0.6.0 (#30)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Move RichText fields to Markdown (#34)
+* refactor: Markdown fields over RichText
+Reflect schema changes
+* chore: Use new project endpoint
+* refactor: Only include Authorization header if token variable present
+fix: Improve navigation render (#35)
+* fix: Always render <Navigation /> in <Hero />
+* fix: Conditionally map over pages in <Navigation />, <NavigationMobile />
+* fix: Only show mobile navigation button if there's pages
+* fix: <NavigationMobile /> positioning when open
+chore(deps): update dependency next to v9.5.3 (#32)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Remove <Link /> as prop (#36)
+* refactor: Remove as prop from next/link
+No longer needed for dynamic routes as of next@9.5.3
+* fix: pointless logical operator
+feat: Improve data fetching (#37)
+* feat: Enable fallback pages for dynamic generation of new pages
+* feat: Enable incremental static regeneration
+* fix: page props empty when using isFallback
+* fix: page props empty when using isFallback
+* fix: Always show <Navigation /> for fallback pages
+* feat: Handle 404 fallback cases
+* refactor: _parsePageData function
+chore(deps): update dependency tailwindcss to v1.8.10
+chore(deps): update dependency @tailwindcss/ui to v0.6.2
+feat: Add global page footer (#40)
+* feat: Add global <Footer /> component
+* fix: Protect against no footer pages
+feat: Add global footer to blog (#41)
+* feat: Add global footer to blog index, blog post pages
+* fix: Missing slash for <Link /> href
+* fix: optional chaining
+chore(deps): update dependency next to v9.5.5
+chore(deps): update dependency tailwindcss to v1.8.13
+chore: Housekeeping (#44)
+* chore(deps): Bump all project dependencies to latest
+* chore: Update package.json meta
+* chore: Upgrade to tailwindcss@2.x.x
+* chore(deps): Add graphql dependency
+* refactor: Add gql tag for queries
+* refactor: Use React namespace import
+chore: Add LICENSE
+refactor: Use next/image (#45)
+* chore: Configure domains for next/image
+* refactor: Use next/image component
+style: prettier --write (#46)
+* chore(deps): Add prettier dependency
+* style: prettier --write
+feat: Query, build localised content/pages (#47)
+feat: Add locale select UI (#48)
+* chore(deps): Add @headlessui/react dependency
+* chore(deps): Remove @tailwindui/react dependency
+* refactor: Use <Transition /> component from @headlessui/react
+* feat: Add <Select /> component
+Using @headlessui/react
+* feat: Add _locales.js to extend locales config
+* feat: Add language select to <Footer />
+* refactor: Add activeLocale constant
+feat: Add <LogoCloud /> component (#49)
+Can be used as a block via CMS
+feat: <PricingPlanSection /> component (#50)
+* fix: Don't spread markdown string
+* feat: Query, use columnComponent field
+* fix: Use component field from entry to lookup JSX component on <Grid />
+* refactor: Update query, code to reflect schema changes
+* feat: Add <PricingPlanSection /> component
+* feat: Permit <Grid /> to render children
+* feat: Implement billing period switching
+* refactor: <CheckIcon /> component
+* fix: Layout issue
+* feat: Add header to PageLayout
+Render the page title, subtitle if no <Hero />
+* fix: Protect against undefined
+feat: Add <FeatureCheck /> component (#51)
+feat: <FAQSection /> component (#52)
+* feat: Add <PricingFAQSection /> component
+* refactor: Rename component
+feat: Add <Breakpoint /> component (#53)
+feat: Add <StatSection /> component (#54)
+feat: Update <Hero /> component (#55)
+* feat: <Button /> updates
+* feat: <Hero /> updates
+feat: Update <Navigation /> component (#56)
+* feat: Update <Navigation /> component
+* refactor: Make SVGs components
+* refactor: Pass aria-hidden as prop
+* fix: Add missing key attr
+* style: Remove unused imports
+* fix: Handle container ref being null
+feat: Add <FeatureList /> component (#57)
+feat: Add <Testimonial /> component (#58)
+feat: Add <NewsletterSignup /> component (#59)
+* chore(deps): Add @tailwindcss/forms dependency
+* feat: Add <NewsletterSignup /> component
+* refactor: Move svgs dir to components/
+* fix: purple > indigo
+feat: Update <Footer /> component (#60)
+* feat: Update <Footer /> component
+* refactor: Move SVGs to their own component file
+Update footer
+Replace Inc. for GmbH
+feat: Add <FeatureSection /> component (#61)
+* chore(deps): Add lodash.{camelcase,startcase} dependencies
+* feat: Add new SVG icons
+* feat: Add <FeatureIcon /> component
+* feat: Add <FeatureSection /> component
+feat <BlogPostCard /> component improvements (#62)
+* feat: Tidy <BlogPostCard /> component
+* feat: Remove featured posts
+* fix: Remove duplicate headings from /blog
+feat: Misc improvements (#63)
+* feat: Prefer prose classes from @tailwind/typography
+* feat: Update @tailwind/typography config defaults
+* refactor: Remove unused components
+* fix: htmlFor, not for
+* style: Linting
+* feat: Configure module aliases
+* fix: dateTime, not datetime
+* fix: Use indigo colour for <Banner />
+* chore: Remove unused function prop
+* refactor: Remove mdxComponents
+* fix: Use module alias paths
+* refactor: Tidy util functions
+* refactor: Add parsePosrData util function
+* refactor: Remove <Heading /> component
+feat: Add SEO (#64)
+* refactor: Prefer id for key attr
+* chore(deps): Add next-seo dependency
+* feat: Add <DefaultSeo /> to _app.js
+* feat: Add <SEO /> component
+* feat: Query for SEO data
+* refactor: next-seo.config.js
+* fix: Only render <SEO /> if page entry has SEO relation
+* fix: className, not class
+feat: Component improvements (#65)
+* feat: Add gridSubtitle to <FeatureSection />
+* refactor: Consolidate <FeatureCheck /> component
+* chore(deps): Remove babel-plugin-inline-react-svg dependency
+* feat: Use <TagAttribute /> to control HTML tag used in grid instance
+* refactor: Consolidate feature components into <Grid />
+* refactor: Consolidate <FAQSection /> into <Grid />
+feat: Add team section (#66)
+fix: Fallback if person photo is null (#67)
+chore(deps): update dependency @headlessui/react to v0.3.1
+chore(deps): update dependency @tailwindcss/typography to v0.4.0
+chore(deps): update dependency graphql to v15.5.0
+chore(deps): update dependency graphql-request to v3.4.0
+chore(deps): update dependency next to v10.0.8
+chore(deps): update dependency next-seo to v4.20.0
+chore(deps): update dependency next-mdx-remote to v1.0.1
+chore(deps): update dependency next to v10.0.9
+chore(deps): update dependency next-seo to v4.22.0
+chore(deps): update dependency @tailwindcss/forms to v0.3.2
+chore(deps): update dependency next-seo to v4.23.0
+chore(deps): update dependency @headlessui/react to v0.3.2
+chore(deps): update dependency classnames to v2.3.1
+chore(deps): update dependency next to v10.1.3
+chore(deps): update react monorepo to v17.0.2
+chore(deps): update dependency next to v10.2.0
+chore(deps): update dependency next-seo to v4.24.0
+chore(deps): update dependency prettier to v2.3.0
+chore(deps): update dependency next to v10.2.2
+chore(deps): update dependency @tailwindcss/typography to v0.4.1
+chore(deps): update dependency next to v10.2.3
+feat: replace Tailwind CSS with Chakra UI (#92)
+* refactor: replace tailwind with chakra-ui
+* chore: remove unused icons
+* chore: remove tailwind
+* chore: rename license and .env
+* chore: add .editorconfig
+* refactor: use fallback blocking and increase revalidate
+* chore: layout adjustments to match tailwind version
+chore(deps): bump lodash from 4.17.20 to 4.17.21 (#93)
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
+---
+updated-dependencies:
+- dependency-name: lodash
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump browserslist from 4.14.7 to 4.16.6 (#94)
+Bumps [browserslist](https://github.com/browserslist/browserslist) from 4.14.7 to 4.16.6.
+- [Release notes](https://github.com/browserslist/browserslist/releases)
+- [Changelog](https://github.com/browserslist/browserslist/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/browserslist/browserslist/compare/4.14.7...4.16.6)
+---
+updated-dependencies:
+- dependency-name: browserslist
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump elliptic from 6.5.3 to 6.5.4 (#95)
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
+---
+updated-dependencies:
+- dependency-name: elliptic
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): update dependency next-mdx-remote to v3 (#88)
+* chore(deps): update dependency next-mdx-remote to v3
+* refactor: upgrade to next-mdx-remote v3
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: João Pedro Schmitz <jpedroschmitz@hotmail.com>
+chore(deps): pin dependencies
+chore(deps): update dependency prettier to v2.3.1")
+
+
+
+ | 
+
+Jun 10, 2021
+
+ |
+| 
+
+[next-seo.config.js](https://github.com/hygraph/reference-marketing-website/blob/main/next-seo.config.js "next-seo.config.js")
+
+
+
+
+
+
+
+ | 
+
+[next-seo.config.js](https://github.com/hygraph/reference-marketing-website/blob/main/next-seo.config.js "next-seo.config.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: update GraphCMS references (](https://github.com/hygraph/reference-marketing-website/commit/72ae95288a3679de988e5da29ff86fa2d6a92dea "chore: update GraphCMS references (#184)")[#184](https://github.com/hygraph/reference-marketing-website/pull/184)[)](https://github.com/hygraph/reference-marketing-website/commit/72ae95288a3679de988e5da29ff86fa2d6a92dea "chore: update GraphCMS references (#184)")
+
+
+
+ | 
+
+Jul 14, 2022
+
+ |
+| 
+
+[next.config.js](https://github.com/hygraph/reference-marketing-website/blob/main/next.config.js "next.config.js")
+
+
+
+
+
+
+
+ | 
+
+[next.config.js](https://github.com/hygraph/reference-marketing-website/blob/main/next.config.js "next.config.js")
+
+
+
+
+
+
+
+ | 
+
+[Updates Next for remote patterns and sets wildcard for new asset syst…](https://github.com/hygraph/reference-marketing-website/commit/d3291b8081aac79ae8640cf09e685cdffd1524d7 "Updates Next for remote patterns and sets wildcard for new asset system (#191)")
+
+
+
+ | 
+
+Jul 18, 2024
+
+ |
+| 
+
+[package-lock.json](https://github.com/hygraph/reference-marketing-website/blob/main/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/hygraph/reference-marketing-website/blob/main/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[Updates Next for remote patterns and sets wildcard for new asset syst…](https://github.com/hygraph/reference-marketing-website/commit/d3291b8081aac79ae8640cf09e685cdffd1524d7 "Updates Next for remote patterns and sets wildcard for new asset system (#191)")
+
+
+
+ | 
+
+Jul 18, 2024
+
+ |
+| 
+
+[package.json](https://github.com/hygraph/reference-marketing-website/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/hygraph/reference-marketing-website/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Updates Next for remote patterns and sets wildcard for new asset syst…](https://github.com/hygraph/reference-marketing-website/commit/d3291b8081aac79ae8640cf09e685cdffd1524d7 "Updates Next for remote patterns and sets wildcard for new asset system (#191)")
+
+
+
+ | 
+
+Jul 18, 2024
+
+ |
+| 
+
+[prettier.config.js](https://github.com/hygraph/reference-marketing-website/blob/main/prettier.config.js "prettier.config.js")
+
+
+
+
+
+
+
+ | 
+
+[prettier.config.js](https://github.com/hygraph/reference-marketing-website/blob/main/prettier.config.js "prettier.config.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: Initialise project](https://github.com/hygraph/reference-marketing-website/commit/2b014ce47e2bc1532ba602603ab5c276a1f6998b "chore: Initialise project
+chore: Add, initialise tailwindcss, @tailwindcss/ui
+feat: Add skeleton with data for index page (#2)
+Including barebones components
+fix: lowercase for file import statement
+chore: Update .gitignore
+feat: Add <Banner /> component (#3)
+* chore: Add classnames dependency
+* feat: Add <Banner /> component
+chore: renovate.json (#1)
+* chore(deps): add renovate.json
+* chore: Update renovate.json
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Jonathan Steele <jonathan.steele@graphcms.com>
+feat: Add <Button /> component (#4)
+* feat: Add <Button /> component
+* refactor: Prefer blue over indigo
+* fix: Don't truncate banner content
+feat: Add <Hero /> component (#5)
+* feat: Add <Hero /> component
+* fix: Assign default theme prop value
+* fix: return correct prop in switch
+* fix: return null if href or label falsy
+refactor: Abstract page layout to component
+feat: Build all other pages in CMS
+fix(deps): update dependency next to v9.4.4
+refactor: Have <Banner /> use <Button /> (#8)
+* refactor: Have <Banner /> use <Button />
+* feat: Add WHITE <Button /> theme
+* fix: Handle external links in <Button />
+* feat: Add size prop to <Button />
+feat: Add <Grid /> component (#9)
+* refactor: Deduplication of page query
+* feat: Add <Grid /> component
+fix(deps): update dependency graphql-request to v2 (#7)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+feat: Add <Feature /> component (#10)
+feat: Add <BlogPostCard /> component (#11)
+* feat: Use component field from Grid
+Use that as a component override, instead of just typeName
+* feat: Add theme prop, styling to <Grid />
+Improve spacing
+* feat: Add <BlogPostCard /> component
+* refactor: Remove unused component
+feat: Build /blog page (#12)
+* feat: Initial build of blog page
+* fix: Use markdown key from subtitle field
+* feat: Add featured post
+feat: Build blog post pages (#13)
+* feat: Build pages for blog posts
+* feat: Add <Link /> to <BlogPostCard />
+* feat: Render post content
+* chore: Add markdown-to-jsx dependency
+* feat: Add <MarkdownRenderer /> for basic elements
+feat: Add <FeatureCard /> component
+refactor: Use <MarkdownRenderer /> for hero subtitle
+refactor: Use <MarkdownRenderer /> for grid subtitle
+chore(deps): update dependency @tailwindcss/ui to v0.3.1
+chore(deps): update dependency tailwindcss to v1.5.1
+chore(deps): update dependency @tailwindcss/ui to v0.4.0
+chore(deps): update dependency tailwindcss to v1.5.2
+chore(deps): update dependency @tailwindcss/ui to v0.5.0
+chore(deps): update dependency tailwindcss to v1.6.1
+fix(deps): update dependency next to v9.5.1
+chore(deps): update dependency tailwindcss to v1.6.2
+fix(deps): update dependency next to v9.5.2
+chore(deps): update dependency tailwindcss to v1.7.3
+refactor: Nest blog page
+blog/index.js
+fix: <Grid /> background colour
+feat: Enable MDX for all RichText markdown fields (#25)
+* chore(deps): Add next-mdx-remote dependency
+* chore(deps): Remove markdown-to-jsx dependency
+* chore(deps): Add he dependency
+* feat: Add MDX for blog index, blog post pages
+* feat: Add MDX to block, column components
+* fix: Correct query names
+* feat: Parse RichText markdown for blocks, columns as MDX for all pages
+* fix: Don't wrap MDX in <p>
+* fix: Missing import
+feat: Improve blog post layout (#26)
+* chore(deps): Add @tailwindcss/typography dependency
+* chore: Remove deprecated Tailwind classes
+* feat: Use .prose class from @tailwindcss/typography for blog body
+* feat: Better layout for blog posts
+* feat: Add pagination to blog post pages
+chore(deps): update dependency tailwindcss to v1.7.6
+fix: gap-x utility class (#28)
+col-gap removed
+chore: Update renovate.json
+feat: Add primary navigation (#29)
+* feat: Add navigation fields to page query
+* feat: Add basic navigation to <Wrapper /> component
+* feat: Add <Navigation /> component
+* feat: Add active styling for <NavigationLink />
+* style: Import ordering
+* refactor: Use conditional props for <NavigationLink />
+* refactor: Move <Hero /> component from Block to reflect schema change
+* feat: Design for <Navigation />
+* feat: Add <NavigationMobile /> component
+* chore(deps): Add @tailwindui/react dependency
+* feat: Use <Transition /> component from @tailwindui/react
+Animates the mobile nav
+* feat: Close <NavigationMobile /> on outside click, escape key
+* feat: Close <NavigationMobile /> on route change
+* chore(deps): Add babel-plugin-inline-react-svg dependency
+* feat: Use GraphCMS logos in navigation
+feat: Add layout components (#33)
+* feat: Add basic <SiteLayout /> component
+Exports getLayout function
+* feat: Add <PageLayout />  component
+Move <Banner />, <Hero />, <Navigation />
+* feat: Add nav to /blog
+* feat: Add nav to blog posts
+* fix: Add as prop to <Link /> for dynamic routes
+* fix: z-index issue
+* style: query linting
+chore(deps): update dependency tailwindcss to v1.8.5 (#31)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+chore(deps): update dependency @tailwindcss/ui to v0.6.0 (#30)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Move RichText fields to Markdown (#34)
+* refactor: Markdown fields over RichText
+Reflect schema changes
+* chore: Use new project endpoint
+* refactor: Only include Authorization header if token variable present
+fix: Improve navigation render (#35)
+* fix: Always render <Navigation /> in <Hero />
+* fix: Conditionally map over pages in <Navigation />, <NavigationMobile />
+* fix: Only show mobile navigation button if there's pages
+* fix: <NavigationMobile /> positioning when open
+chore(deps): update dependency next to v9.5.3 (#32)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Remove <Link /> as prop (#36)
+* refactor: Remove as prop from next/link
+No longer needed for dynamic routes as of next@9.5.3
+* fix: pointless logical operator
+feat: Improve data fetching (#37)
+* feat: Enable fallback pages for dynamic generation of new pages
+* feat: Enable incremental static regeneration
+* fix: page props empty when using isFallback
+* fix: page props empty when using isFallback
+* fix: Always show <Navigation /> for fallback pages
+* feat: Handle 404 fallback cases
+* refactor: _parsePageData function
+chore(deps): update dependency tailwindcss to v1.8.10
+chore(deps): update dependency @tailwindcss/ui to v0.6.2
+feat: Add global page footer (#40)
+* feat: Add global <Footer /> component
+* fix: Protect against no footer pages
+feat: Add global footer to blog (#41)
+* feat: Add global footer to blog index, blog post pages
+* fix: Missing slash for <Link /> href
+* fix: optional chaining
+chore(deps): update dependency next to v9.5.5
+chore(deps): update dependency tailwindcss to v1.8.13
+chore: Housekeeping (#44)
+* chore(deps): Bump all project dependencies to latest
+* chore: Update package.json meta
+* chore: Upgrade to tailwindcss@2.x.x
+* chore(deps): Add graphql dependency
+* refactor: Add gql tag for queries
+* refactor: Use React namespace import
+chore: Add LICENSE
+refactor: Use next/image (#45)
+* chore: Configure domains for next/image
+* refactor: Use next/image component
+style: prettier --write (#46)
+* chore(deps): Add prettier dependency
+* style: prettier --write
+feat: Query, build localised content/pages (#47)
+feat: Add locale select UI (#48)
+* chore(deps): Add @headlessui/react dependency
+* chore(deps): Remove @tailwindui/react dependency
+* refactor: Use <Transition /> component from @headlessui/react
+* feat: Add <Select /> component
+Using @headlessui/react
+* feat: Add _locales.js to extend locales config
+* feat: Add language select to <Footer />
+* refactor: Add activeLocale constant
+feat: Add <LogoCloud /> component (#49)
+Can be used as a block via CMS
+feat: <PricingPlanSection /> component (#50)
+* fix: Don't spread markdown string
+* feat: Query, use columnComponent field
+* fix: Use component field from entry to lookup JSX component on <Grid />
+* refactor: Update query, code to reflect schema changes
+* feat: Add <PricingPlanSection /> component
+* feat: Permit <Grid /> to render children
+* feat: Implement billing period switching
+* refactor: <CheckIcon /> component
+* fix: Layout issue
+* feat: Add header to PageLayout
+Render the page title, subtitle if no <Hero />
+* fix: Protect against undefined
+feat: Add <FeatureCheck /> component (#51)
+feat: <FAQSection /> component (#52)
+* feat: Add <PricingFAQSection /> component
+* refactor: Rename component
+feat: Add <Breakpoint /> component (#53)
+feat: Add <StatSection /> component (#54)
+feat: Update <Hero /> component (#55)
+* feat: <Button /> updates
+* feat: <Hero /> updates
+feat: Update <Navigation /> component (#56)
+* feat: Update <Navigation /> component
+* refactor: Make SVGs components
+* refactor: Pass aria-hidden as prop
+* fix: Add missing key attr
+* style: Remove unused imports
+* fix: Handle container ref being null
+feat: Add <FeatureList /> component (#57)
+feat: Add <Testimonial /> component (#58)
+feat: Add <NewsletterSignup /> component (#59)
+* chore(deps): Add @tailwindcss/forms dependency
+* feat: Add <NewsletterSignup /> component
+* refactor: Move svgs dir to components/
+* fix: purple > indigo
+feat: Update <Footer /> component (#60)
+* feat: Update <Footer /> component
+* refactor: Move SVGs to their own component file
+Update footer
+Replace Inc. for GmbH
+feat: Add <FeatureSection /> component (#61)
+* chore(deps): Add lodash.{camelcase,startcase} dependencies
+* feat: Add new SVG icons
+* feat: Add <FeatureIcon /> component
+* feat: Add <FeatureSection /> component
+feat <BlogPostCard /> component improvements (#62)
+* feat: Tidy <BlogPostCard /> component
+* feat: Remove featured posts
+* fix: Remove duplicate headings from /blog
+feat: Misc improvements (#63)
+* feat: Prefer prose classes from @tailwind/typography
+* feat: Update @tailwind/typography config defaults
+* refactor: Remove unused components
+* fix: htmlFor, not for
+* style: Linting
+* feat: Configure module aliases
+* fix: dateTime, not datetime
+* fix: Use indigo colour for <Banner />
+* chore: Remove unused function prop
+* refactor: Remove mdxComponents
+* fix: Use module alias paths
+* refactor: Tidy util functions
+* refactor: Add parsePosrData util function
+* refactor: Remove <Heading /> component
+feat: Add SEO (#64)
+* refactor: Prefer id for key attr
+* chore(deps): Add next-seo dependency
+* feat: Add <DefaultSeo /> to _app.js
+* feat: Add <SEO /> component
+* feat: Query for SEO data
+* refactor: next-seo.config.js
+* fix: Only render <SEO /> if page entry has SEO relation
+* fix: className, not class
+feat: Component improvements (#65)
+* feat: Add gridSubtitle to <FeatureSection />
+* refactor: Consolidate <FeatureCheck /> component
+* chore(deps): Remove babel-plugin-inline-react-svg dependency
+* feat: Use <TagAttribute /> to control HTML tag used in grid instance
+* refactor: Consolidate feature components into <Grid />
+* refactor: Consolidate <FAQSection /> into <Grid />
+feat: Add team section (#66)
+fix: Fallback if person photo is null (#67)
+chore(deps): update dependency @headlessui/react to v0.3.1
+chore(deps): update dependency @tailwindcss/typography to v0.4.0
+chore(deps): update dependency graphql to v15.5.0
+chore(deps): update dependency graphql-request to v3.4.0
+chore(deps): update dependency next to v10.0.8
+chore(deps): update dependency next-seo to v4.20.0
+chore(deps): update dependency next-mdx-remote to v1.0.1
+chore(deps): update dependency next to v10.0.9
+chore(deps): update dependency next-seo to v4.22.0
+chore(deps): update dependency @tailwindcss/forms to v0.3.2
+chore(deps): update dependency next-seo to v4.23.0
+chore(deps): update dependency @headlessui/react to v0.3.2
+chore(deps): update dependency classnames to v2.3.1
+chore(deps): update dependency next to v10.1.3
+chore(deps): update react monorepo to v17.0.2
+chore(deps): update dependency next to v10.2.0
+chore(deps): update dependency next-seo to v4.24.0
+chore(deps): update dependency prettier to v2.3.0
+chore(deps): update dependency next to v10.2.2
+chore(deps): update dependency @tailwindcss/typography to v0.4.1
+chore(deps): update dependency next to v10.2.3
+feat: replace Tailwind CSS with Chakra UI (#92)
+* refactor: replace tailwind with chakra-ui
+* chore: remove unused icons
+* chore: remove tailwind
+* chore: rename license and .env
+* chore: add .editorconfig
+* refactor: use fallback blocking and increase revalidate
+* chore: layout adjustments to match tailwind version
+chore(deps): bump lodash from 4.17.20 to 4.17.21 (#93)
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
+---
+updated-dependencies:
+- dependency-name: lodash
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump browserslist from 4.14.7 to 4.16.6 (#94)
+Bumps [browserslist](https://github.com/browserslist/browserslist) from 4.14.7 to 4.16.6.
+- [Release notes](https://github.com/browserslist/browserslist/releases)
+- [Changelog](https://github.com/browserslist/browserslist/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/browserslist/browserslist/compare/4.14.7...4.16.6)
+---
+updated-dependencies:
+- dependency-name: browserslist
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump elliptic from 6.5.3 to 6.5.4 (#95)
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
+---
+updated-dependencies:
+- dependency-name: elliptic
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): update dependency next-mdx-remote to v3 (#88)
+* chore(deps): update dependency next-mdx-remote to v3
+* refactor: upgrade to next-mdx-remote v3
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: João Pedro Schmitz <jpedroschmitz@hotmail.com>
+chore(deps): pin dependencies
+chore(deps): update dependency prettier to v2.3.1")
+
+
+
+ | 
+
+Jun 10, 2021
+
+ |
+| 
+
+[renovate.json](https://github.com/hygraph/reference-marketing-website/blob/main/renovate.json "renovate.json")
+
+
+
+
+
+
+
+ | 
+
+[renovate.json](https://github.com/hygraph/reference-marketing-website/blob/main/renovate.json "renovate.json")
+
+
+
+
+
+
+
+ | 
+
+[chore: Initialise project](https://github.com/hygraph/reference-marketing-website/commit/2b014ce47e2bc1532ba602603ab5c276a1f6998b "chore: Initialise project
+chore: Add, initialise tailwindcss, @tailwindcss/ui
+feat: Add skeleton with data for index page (#2)
+Including barebones components
+fix: lowercase for file import statement
+chore: Update .gitignore
+feat: Add <Banner /> component (#3)
+* chore: Add classnames dependency
+* feat: Add <Banner /> component
+chore: renovate.json (#1)
+* chore(deps): add renovate.json
+* chore: Update renovate.json
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Jonathan Steele <jonathan.steele@graphcms.com>
+feat: Add <Button /> component (#4)
+* feat: Add <Button /> component
+* refactor: Prefer blue over indigo
+* fix: Don't truncate banner content
+feat: Add <Hero /> component (#5)
+* feat: Add <Hero /> component
+* fix: Assign default theme prop value
+* fix: return correct prop in switch
+* fix: return null if href or label falsy
+refactor: Abstract page layout to component
+feat: Build all other pages in CMS
+fix(deps): update dependency next to v9.4.4
+refactor: Have <Banner /> use <Button /> (#8)
+* refactor: Have <Banner /> use <Button />
+* feat: Add WHITE <Button /> theme
+* fix: Handle external links in <Button />
+* feat: Add size prop to <Button />
+feat: Add <Grid /> component (#9)
+* refactor: Deduplication of page query
+* feat: Add <Grid /> component
+fix(deps): update dependency graphql-request to v2 (#7)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+feat: Add <Feature /> component (#10)
+feat: Add <BlogPostCard /> component (#11)
+* feat: Use component field from Grid
+Use that as a component override, instead of just typeName
+* feat: Add theme prop, styling to <Grid />
+Improve spacing
+* feat: Add <BlogPostCard /> component
+* refactor: Remove unused component
+feat: Build /blog page (#12)
+* feat: Initial build of blog page
+* fix: Use markdown key from subtitle field
+* feat: Add featured post
+feat: Build blog post pages (#13)
+* feat: Build pages for blog posts
+* feat: Add <Link /> to <BlogPostCard />
+* feat: Render post content
+* chore: Add markdown-to-jsx dependency
+* feat: Add <MarkdownRenderer /> for basic elements
+feat: Add <FeatureCard /> component
+refactor: Use <MarkdownRenderer /> for hero subtitle
+refactor: Use <MarkdownRenderer /> for grid subtitle
+chore(deps): update dependency @tailwindcss/ui to v0.3.1
+chore(deps): update dependency tailwindcss to v1.5.1
+chore(deps): update dependency @tailwindcss/ui to v0.4.0
+chore(deps): update dependency tailwindcss to v1.5.2
+chore(deps): update dependency @tailwindcss/ui to v0.5.0
+chore(deps): update dependency tailwindcss to v1.6.1
+fix(deps): update dependency next to v9.5.1
+chore(deps): update dependency tailwindcss to v1.6.2
+fix(deps): update dependency next to v9.5.2
+chore(deps): update dependency tailwindcss to v1.7.3
+refactor: Nest blog page
+blog/index.js
+fix: <Grid /> background colour
+feat: Enable MDX for all RichText markdown fields (#25)
+* chore(deps): Add next-mdx-remote dependency
+* chore(deps): Remove markdown-to-jsx dependency
+* chore(deps): Add he dependency
+* feat: Add MDX for blog index, blog post pages
+* feat: Add MDX to block, column components
+* fix: Correct query names
+* feat: Parse RichText markdown for blocks, columns as MDX for all pages
+* fix: Don't wrap MDX in <p>
+* fix: Missing import
+feat: Improve blog post layout (#26)
+* chore(deps): Add @tailwindcss/typography dependency
+* chore: Remove deprecated Tailwind classes
+* feat: Use .prose class from @tailwindcss/typography for blog body
+* feat: Better layout for blog posts
+* feat: Add pagination to blog post pages
+chore(deps): update dependency tailwindcss to v1.7.6
+fix: gap-x utility class (#28)
+col-gap removed
+chore: Update renovate.json
+feat: Add primary navigation (#29)
+* feat: Add navigation fields to page query
+* feat: Add basic navigation to <Wrapper /> component
+* feat: Add <Navigation /> component
+* feat: Add active styling for <NavigationLink />
+* style: Import ordering
+* refactor: Use conditional props for <NavigationLink />
+* refactor: Move <Hero /> component from Block to reflect schema change
+* feat: Design for <Navigation />
+* feat: Add <NavigationMobile /> component
+* chore(deps): Add @tailwindui/react dependency
+* feat: Use <Transition /> component from @tailwindui/react
+Animates the mobile nav
+* feat: Close <NavigationMobile /> on outside click, escape key
+* feat: Close <NavigationMobile /> on route change
+* chore(deps): Add babel-plugin-inline-react-svg dependency
+* feat: Use GraphCMS logos in navigation
+feat: Add layout components (#33)
+* feat: Add basic <SiteLayout /> component
+Exports getLayout function
+* feat: Add <PageLayout />  component
+Move <Banner />, <Hero />, <Navigation />
+* feat: Add nav to /blog
+* feat: Add nav to blog posts
+* fix: Add as prop to <Link /> for dynamic routes
+* fix: z-index issue
+* style: query linting
+chore(deps): update dependency tailwindcss to v1.8.5 (#31)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+chore(deps): update dependency @tailwindcss/ui to v0.6.0 (#30)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Move RichText fields to Markdown (#34)
+* refactor: Markdown fields over RichText
+Reflect schema changes
+* chore: Use new project endpoint
+* refactor: Only include Authorization header if token variable present
+fix: Improve navigation render (#35)
+* fix: Always render <Navigation /> in <Hero />
+* fix: Conditionally map over pages in <Navigation />, <NavigationMobile />
+* fix: Only show mobile navigation button if there's pages
+* fix: <NavigationMobile /> positioning when open
+chore(deps): update dependency next to v9.5.3 (#32)
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+refactor: Remove <Link /> as prop (#36)
+* refactor: Remove as prop from next/link
+No longer needed for dynamic routes as of next@9.5.3
+* fix: pointless logical operator
+feat: Improve data fetching (#37)
+* feat: Enable fallback pages for dynamic generation of new pages
+* feat: Enable incremental static regeneration
+* fix: page props empty when using isFallback
+* fix: page props empty when using isFallback
+* fix: Always show <Navigation /> for fallback pages
+* feat: Handle 404 fallback cases
+* refactor: _parsePageData function
+chore(deps): update dependency tailwindcss to v1.8.10
+chore(deps): update dependency @tailwindcss/ui to v0.6.2
+feat: Add global page footer (#40)
+* feat: Add global <Footer /> component
+* fix: Protect against no footer pages
+feat: Add global footer to blog (#41)
+* feat: Add global footer to blog index, blog post pages
+* fix: Missing slash for <Link /> href
+* fix: optional chaining
+chore(deps): update dependency next to v9.5.5
+chore(deps): update dependency tailwindcss to v1.8.13
+chore: Housekeeping (#44)
+* chore(deps): Bump all project dependencies to latest
+* chore: Update package.json meta
+* chore: Upgrade to tailwindcss@2.x.x
+* chore(deps): Add graphql dependency
+* refactor: Add gql tag for queries
+* refactor: Use React namespace import
+chore: Add LICENSE
+refactor: Use next/image (#45)
+* chore: Configure domains for next/image
+* refactor: Use next/image component
+style: prettier --write (#46)
+* chore(deps): Add prettier dependency
+* style: prettier --write
+feat: Query, build localised content/pages (#47)
+feat: Add locale select UI (#48)
+* chore(deps): Add @headlessui/react dependency
+* chore(deps): Remove @tailwindui/react dependency
+* refactor: Use <Transition /> component from @headlessui/react
+* feat: Add <Select /> component
+Using @headlessui/react
+* feat: Add _locales.js to extend locales config
+* feat: Add language select to <Footer />
+* refactor: Add activeLocale constant
+feat: Add <LogoCloud /> component (#49)
+Can be used as a block via CMS
+feat: <PricingPlanSection /> component (#50)
+* fix: Don't spread markdown string
+* feat: Query, use columnComponent field
+* fix: Use component field from entry to lookup JSX component on <Grid />
+* refactor: Update query, code to reflect schema changes
+* feat: Add <PricingPlanSection /> component
+* feat: Permit <Grid /> to render children
+* feat: Implement billing period switching
+* refactor: <CheckIcon /> component
+* fix: Layout issue
+* feat: Add header to PageLayout
+Render the page title, subtitle if no <Hero />
+* fix: Protect against undefined
+feat: Add <FeatureCheck /> component (#51)
+feat: <FAQSection /> component (#52)
+* feat: Add <PricingFAQSection /> component
+* refactor: Rename component
+feat: Add <Breakpoint /> component (#53)
+feat: Add <StatSection /> component (#54)
+feat: Update <Hero /> component (#55)
+* feat: <Button /> updates
+* feat: <Hero /> updates
+feat: Update <Navigation /> component (#56)
+* feat: Update <Navigation /> component
+* refactor: Make SVGs components
+* refactor: Pass aria-hidden as prop
+* fix: Add missing key attr
+* style: Remove unused imports
+* fix: Handle container ref being null
+feat: Add <FeatureList /> component (#57)
+feat: Add <Testimonial /> component (#58)
+feat: Add <NewsletterSignup /> component (#59)
+* chore(deps): Add @tailwindcss/forms dependency
+* feat: Add <NewsletterSignup /> component
+* refactor: Move svgs dir to components/
+* fix: purple > indigo
+feat: Update <Footer /> component (#60)
+* feat: Update <Footer /> component
+* refactor: Move SVGs to their own component file
+Update footer
+Replace Inc. for GmbH
+feat: Add <FeatureSection /> component (#61)
+* chore(deps): Add lodash.{camelcase,startcase} dependencies
+* feat: Add new SVG icons
+* feat: Add <FeatureIcon /> component
+* feat: Add <FeatureSection /> component
+feat <BlogPostCard /> component improvements (#62)
+* feat: Tidy <BlogPostCard /> component
+* feat: Remove featured posts
+* fix: Remove duplicate headings from /blog
+feat: Misc improvements (#63)
+* feat: Prefer prose classes from @tailwind/typography
+* feat: Update @tailwind/typography config defaults
+* refactor: Remove unused components
+* fix: htmlFor, not for
+* style: Linting
+* feat: Configure module aliases
+* fix: dateTime, not datetime
+* fix: Use indigo colour for <Banner />
+* chore: Remove unused function prop
+* refactor: Remove mdxComponents
+* fix: Use module alias paths
+* refactor: Tidy util functions
+* refactor: Add parsePosrData util function
+* refactor: Remove <Heading /> component
+feat: Add SEO (#64)
+* refactor: Prefer id for key attr
+* chore(deps): Add next-seo dependency
+* feat: Add <DefaultSeo /> to _app.js
+* feat: Add <SEO /> component
+* feat: Query for SEO data
+* refactor: next-seo.config.js
+* fix: Only render <SEO /> if page entry has SEO relation
+* fix: className, not class
+feat: Component improvements (#65)
+* feat: Add gridSubtitle to <FeatureSection />
+* refactor: Consolidate <FeatureCheck /> component
+* chore(deps): Remove babel-plugin-inline-react-svg dependency
+* feat: Use <TagAttribute /> to control HTML tag used in grid instance
+* refactor: Consolidate feature components into <Grid />
+* refactor: Consolidate <FAQSection /> into <Grid />
+feat: Add team section (#66)
+fix: Fallback if person photo is null (#67)
+chore(deps): update dependency @headlessui/react to v0.3.1
+chore(deps): update dependency @tailwindcss/typography to v0.4.0
+chore(deps): update dependency graphql to v15.5.0
+chore(deps): update dependency graphql-request to v3.4.0
+chore(deps): update dependency next to v10.0.8
+chore(deps): update dependency next-seo to v4.20.0
+chore(deps): update dependency next-mdx-remote to v1.0.1
+chore(deps): update dependency next to v10.0.9
+chore(deps): update dependency next-seo to v4.22.0
+chore(deps): update dependency @tailwindcss/forms to v0.3.2
+chore(deps): update dependency next-seo to v4.23.0
+chore(deps): update dependency @headlessui/react to v0.3.2
+chore(deps): update dependency classnames to v2.3.1
+chore(deps): update dependency next to v10.1.3
+chore(deps): update react monorepo to v17.0.2
+chore(deps): update dependency next to v10.2.0
+chore(deps): update dependency next-seo to v4.24.0
+chore(deps): update dependency prettier to v2.3.0
+chore(deps): update dependency next to v10.2.2
+chore(deps): update dependency @tailwindcss/typography to v0.4.1
+chore(deps): update dependency next to v10.2.3
+feat: replace Tailwind CSS with Chakra UI (#92)
+* refactor: replace tailwind with chakra-ui
+* chore: remove unused icons
+* chore: remove tailwind
+* chore: rename license and .env
+* chore: add .editorconfig
+* refactor: use fallback blocking and increase revalidate
+* chore: layout adjustments to match tailwind version
+chore(deps): bump lodash from 4.17.20 to 4.17.21 (#93)
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
+---
+updated-dependencies:
+- dependency-name: lodash
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump browserslist from 4.14.7 to 4.16.6 (#94)
+Bumps [browserslist](https://github.com/browserslist/browserslist) from 4.14.7 to 4.16.6.
+- [Release notes](https://github.com/browserslist/browserslist/releases)
+- [Changelog](https://github.com/browserslist/browserslist/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/browserslist/browserslist/compare/4.14.7...4.16.6)
+---
+updated-dependencies:
+- dependency-name: browserslist
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): bump elliptic from 6.5.3 to 6.5.4 (#95)
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
+---
+updated-dependencies:
+- dependency-name: elliptic
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+chore(deps): update dependency next-mdx-remote to v3 (#88)
+* chore(deps): update dependency next-mdx-remote to v3
+* refactor: upgrade to next-mdx-remote v3
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: João Pedro Schmitz <jpedroschmitz@hotmail.com>
+chore(deps): pin dependencies
+chore(deps): update dependency prettier to v2.3.1")
+
+
+
+ | 
+
+Jun 10, 2021
+
+ |
+| 
+
+[yarn.lock](https://github.com/hygraph/reference-marketing-website/blob/main/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/hygraph/reference-marketing-website/blob/main/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[Updates Next for remote patterns and sets wildcard for new asset syst…](https://github.com/hygraph/reference-marketing-website/commit/d3291b8081aac79ae8640cf09e685cdffd1524d7 "Updates Next for remote patterns and sets wildcard for new asset system (#191)")
+
+
+
+ | 
+
+Jul 18, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/hygraph/reference-marketing-website?screenshot=true#)
+*   [MIT license](https://github.com/hygraph/reference-marketing-website?screenshot=true#)
+
+reference-marketing-website
+===========================
+
+[](https://github.com/hygraph/reference-marketing-website?screenshot=true#reference-marketing-website)
+
+> A [Next.js](https://nextjs.org/) starter for creating a SaaS Marketing Website with [Hygraph](https://hygraph.com/)
+
+• [Demo](https://marketing-websites.withheadlesscms.com/)
+
+[![Image 16: Clone project](https://camo.githubusercontent.com/1b0b2eed2fdce534d06fffa3e6c686e2fd9aaa8827e62d75d28792498b42bd73/68747470733a2f2f687967726170682e636f6d2f627574746f6e)](https://app.graphcms.com/clone/5f2c35155b33496999b9467afe88b34f?name=Marketing%20Website) [![Image 17: Deploy with Vercel](https://camo.githubusercontent.com/20bea215d35a4e28f2c92ea5b657d006b087687486858a40de2922a4636301ab/68747470733a2f2f76657263656c2e636f6d2f627574746f6e)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FGraphCMS%2Freference-marketing-website&env=HYGRAPH_ENDPOINT&envDescription=Your%20GraphCMS%20API%20endpoint&envLink=https%3A%2F%2Fgraphcms.com%2Fdocs%2Fapi-reference%2Fbasics%2Fenvironments%23environment-endpoints&demo-title=GraphCMS%20Marketing%20Site%20Reference&demo-description=A%20Next.js%20starter%20for%20creating%20a%20SaaS%20Marketing%20Website%20with%20GraphCMS&demo-url=https%3A%2F%2Fmarketing-websites.withheadlesscms.com%2F&demo-image=https%3A%2F%2Fmedia.graphcms.com%2F0GnTWzWbRBSQzoDQs8R3)
+
+Quick start
+-----------
+
+[](https://github.com/hygraph/reference-marketing-website?screenshot=true#quick-start)
+
+1.  Clone the repository and install project dependencies
+
+```shell
+npx degit Hygraph/reference-marketing-website#main reference-marketing-website
+cd reference-marketing-website
+yarn
+```
+
+2.  **Provide your Hygraph project keys**
+
+Navigate into your new site’s directory and copy the `.env.local.example` file.
+
+```shell
+cp .env.local.example .env.local
+```
+
+Inside of your newly created `.env.local` file, provide values for the variable. These variables can be found in the [project settings UI](https://hygraph.com/docs/guides/concepts/apis#working-with-apis).
+
+```dotenv
+HYGRAPH_ENDPOINT=
+```
+
+3.  **Start building!**
+
+```shell
+yarn dev
+```
+
+Next.js Preview Mode
+--------------------
+
+[](https://github.com/hygraph/reference-marketing-website?screenshot=true#nextjs-preview-mode)
+
+If you want to enable [Next.js Preview Mode](https://nextjs.org/docs/advanced-features/preview-mode) you'll need to add the following to your `.env`:
+
+```dotenv
+GRAPHCMS_TOKEN=
+GRAPHCMS_PREVIEW_TOKEN=
+GRAPHCMS_PREVIEW_SECRET=
+```
+
+### `GRAPHCMS_TOKEN`
+
+[](https://github.com/hygraph/reference-marketing-website?screenshot=true#graphcms_token)
+
+This should be a Permanent Auth Token that is set to fetch content from _PUBLISHED_ content stage by default.
+
+### `GRAPHCMS_PREVIEW_TOKEN`
+
+[](https://github.com/hygraph/reference-marketing-website?screenshot=true#graphcms_preview_token)
+
+This should be a Permanent Auth Token that is set to fetch content from _DRAFT_ content stage by default.
+
+`GRAPHCMS_PREVIEW_SECRET`
+-------------------------
+
+[](https://github.com/hygraph/reference-marketing-website?screenshot=true#graphcms_preview_secret)
+
+You'll need to make sure when configuring the Preview URL inside Hygraph that it passes the same secret value you assigned to `GRAPHCMS_PREVIEW_SECRET`.
+
+You'll need to update both the Page & Blog Post model to add a Preview URL. The URLs should look like this:
+
+*   **Page**: `https://[your-domain.com]/api/preview?secret=[GRAPHCMS_PREVIEW_SECRET_VALUE_HERE]&slug={slug}`
+*   **Blog Post**: `https://[your-domain.com]/api/preview?secret=[GRAPHCMS_PREVIEW_SECRET_VALUE_HERE]&slug=blog/{slug}`
+
+Features
+--------
+
+[](https://github.com/hygraph/reference-marketing-website?screenshot=true#features)
+
+*   [Next.js Preview Mode](https://nextjs.org/docs/advanced-features/preview-mode)
+*   [next/image](https://nextjs.org/docs/api-reference/next/image)
+*   [Internationalized Routing](https://nextjs.org/docs/advanced-features/i18n-routing)
+*   [GraphQL Union Types (Polymorphic Relations)](https://hygraph.com/docs/schema/field-types)
+*   [next-seo](https://www.npmjs.com/package/next-seo)
+
+About
+-----
+
+Next.js starter for creating a SaaS Marketing Website with Hygraph ⚡️
+
+[marketing-websites.withheadlesscms.com](https://marketing-websites.withheadlesscms.com/ "https://marketing-websites.withheadlesscms.com")
+
+### Topics
+
+[nextjs](https://github.com/topics/nextjs "Topic: nextjs") [saas](https://github.com/topics/saas "Topic: saas") [reference-implementation](https://github.com/topics/reference-implementation "Topic: reference-implementation") [graphcms](https://github.com/topics/graphcms "Topic: graphcms") [chakra-ui](https://github.com/topics/chakra-ui "Topic: chakra-ui") [hygraph](https://github.com/topics/hygraph "Topic: hygraph")
+
+### Resources
+
+[Readme](https://github.com/hygraph/reference-marketing-website?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/hygraph/reference-marketing-website?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/hygraph/reference-marketing-website/activity)
+
+[Custom properties](https://github.com/hygraph/reference-marketing-website/custom-properties)
+
+### Stars
+
+[**133** stars](https://github.com/hygraph/reference-marketing-website/stargazers)
+
+### Watchers
+
+[**25** watching](https://github.com/hygraph/reference-marketing-website/watchers)
+
+### Forks
+
+[**53** forks](https://github.com/hygraph/reference-marketing-website/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhygraph%2Freference-marketing-website&report=hygraph+%28user%29)
+
+[Contributors 9](https://github.com/hygraph/reference-marketing-website/graphs/contributors)
+--------------------------------------------------------------------------------------------
+
+*   [![Image 18: @renovate-bot](https://avatars.githubusercontent.com/u/25180681?s=64&v=4)](https://github.com/renovate-bot)
+*   [![Image 19: @jpedroschmitz](https://avatars.githubusercontent.com/u/26466516?s=64&v=4)](https://github.com/jpedroschmitz)
+*   [![Image 20: @renovate[bot]](https://avatars.githubusercontent.com/in/2740?s=64&v=4)](https://github.com/apps/renovate)
+*   [![Image 21: @ronakganatra](https://avatars.githubusercontent.com/u/20298819?s=64&v=4)](https://github.com/ronakganatra)
+*   [![Image 22: @notrab](https://avatars.githubusercontent.com/u/950181?s=64&v=4)](https://github.com/notrab)
+*   [![Image 23: @ozguruysal](https://avatars.githubusercontent.com/u/53624?s=64&v=4)](https://github.com/ozguruysal)
+*   [![Image 24: @brob](https://avatars.githubusercontent.com/u/799360?s=64&v=4)](https://github.com/brob)
+*   [![Image 25: @Martian2Lee](https://avatars.githubusercontent.com/u/22679825?s=64&v=4)](https://github.com/Martian2Lee)
+*   [![Image 26: @MatteoGauthier](https://avatars.githubusercontent.com/u/32040951?s=64&v=4)](https://github.com/MatteoGauthier)
+
+Languages
+---------
+
+*   [JavaScript 99.7%](https://github.com/hygraph/reference-marketing-website/search?l=javascript)
+*   [CSS 0.3%](https://github.com/hygraph/reference-marketing-website/search?l=css)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

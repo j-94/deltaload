@@ -1,0 +1,5 @@
+`PrematureCommitError: Transaction committed too early. See http://bit.ly/2kdckMn`
+
+Please **close all other ChatCraft tabs and refresh**.
+
+If the problem persists, [file an issue](https://github.com/tarasglek/chatcraft.org "GitHub Repository") so we can investigate further. See the DevTools Console for more error info.

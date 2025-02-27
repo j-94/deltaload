@@ -1,0 +1,152 @@
+Supercharge your work with no-code
+----------------------------------
+
+AppSheet helps you build powerful applications and automations that boost productivity. No coding required.
+
+[Get started](https://www.appsheet.com/Account/Login)
+
+Create with intuitive tools
+---------------------------
+
+Harness AI to create and power intelligent apps
+
+Leverage Gemini, your AI-collaborator, to make app creation and usage more efficient and effective.
+
+*   ![Image 80: bulb icon](https://about.appsheet.com/static/img/bulb.svg)
+    
+    Go from idea to app in minutes
+    
+*   ![Image 81: message icon](https://about.appsheet.com/static/img/message.svg)
+    
+    Simply describe what you want your app to do and let Gemini do the work
+    
+*   ![Image 82: magic pen icon](https://about.appsheet.com/static/img/magic-pen.svg)
+    
+    Infuse AI into your apps to make them more intelligent and user-friendly
+    
+
+Create apps that adapt to how you work
+
+Rapidly create powerful apps tailored to your business needs.
+
+*   ![Image 83: unread msg icon](https://about.appsheet.com/static/img/unread-msg.svg)
+    
+    Create apps for Google Chat and publish them with one click
+    
+*   ![Image 84: pie icon](https://about.appsheet.com/static/img/pie.svg)
+    
+    Capture rich data using forms, barcodes, locations, signatures, and photo format
+    
+*   ![Image 85: stack icon](https://about.appsheet.com/static/img/stack.svg)
+    
+    Store your data in AppSheet’s built-in database
+    
+*   ![Image 86: drag box icon](https://about.appsheet.com/static/img/drag-box.svg)
+    
+    Customize features, design, security, and branding
+    
+*   ![Image 87: chevrons icon](https://about.appsheet.com/static/img/chevrons.svg)
+    
+    Embed critical apps and information in Google Docs with Smart Chips
+    
+
+Automate work that flows
+
+Automate manual tasks and accelerate work, so you and your team can focus on the work that matters most.
+
+*   ![Image 88: bell icon](https://about.appsheet.com/static/img/bell.svg)
+    
+    Send and automate email, SMS, and Push notifications
+    
+*   ![Image 89: fork icon](https://about.appsheet.com/static/img/fork.svg)
+    
+    Build workflow logic with triggers, conditions, and branches
+    
+*   ![Image 90: robot face icon](https://about.appsheet.com/static/img/robot-face.svg)
+    
+    Incorporate AI and machine learning including intelligent document processing and optical character recognition
+    
+*   ![Image 91: merge icon](https://about.appsheet.com/static/img/merge.svg)
+    
+    Call and process responses from connected Google Apps Script functions
+    
+
+Unify your apps and data
+
+Connect your data and software on a single platform that’s also fully integrated with Google Workspace.
+
+*   ![Image 92: devices icon](https://about.appsheet.com/static/img/devices.svg)
+    
+    Integrate with Google Workspace via Gmail, Google Sheets, Apps Script, and Chat integrations
+    
+*   ![Image 93: cloud icon](https://about.appsheet.com/static/img/cloud.svg)
+    
+    Connect to third-party apps like Office 365, Dropbox, and Salesforce
+    
+*   ![Image 94: grid icon](https://about.appsheet.com/static/img/grid.svg)
+    
+    Customize features, UX, security, and branding
+    
+*   ![Image 95: shield icon](https://about.appsheet.com/static/img/shield.svg)
+    
+    Integrate with Big Query, SQL databases, Apigee, REST APIs, and OData
+    
+
+Manage data and creators, safely and securely
+---------------------------------------------
+
+Govern with assurance
+
+Manage developers and users and govern apps and data for the entire organization.
+
+*   ![Image 96: reader icon](https://about.appsheet.com/static/img/reader.svg)
+    
+    Select from a rich library of App governance policies or create your own
+    
+*   ![Image 97: three dots icon](https://about.appsheet.com/static/img/three-dots.svg)
+    
+    Manage teams in an organization
+    
+*   ![Image 98: slashed chevron icon](https://about.appsheet.com/static/img/slashed-chevron.svg)
+    
+    Set guardrails and gain visibility with a true no-code development platform
+    
+*   ![Image 99: key icon](https://about.appsheet.com/static/img/key.svg)
+    
+    Built-in security controls, encryption and verification everywhere with a Zero Trust approach
+    
+*   ![Image 100: lock icon](https://about.appsheet.com/static/img/lock.svg)
+    
+    The data that companies, schools, and government agencies put into AppSheet is not controlled or managed by AppSheet - you retain full control
+    
+
+Explore how customers are driving impact with AppSheet
+
+![Image 101: Rhys Phillips](https://lh3.googleusercontent.com/eGXnUXXm0KX6YQUwS2BcjXnqGpppgtvWIhTM6kS2i7yN02G5ePlSofsohjFMHnnRYuXBaW2L_PO5UacdiIXiaj_pKcfk-HiA043EfRacHS3-m98S)
+
+![Image 102: Logo Airbus](https://lh3.googleusercontent.com/2uRp-ytB0but0-nmX1xUZJZ1HOfoXYNARoQkodoRzk8D9RvSPPj57a47wi8cLsGlwmmQzv6or0eLwElmCJe5MnDfsT5rGHVWowztMCgnP_v0Gd6Mb0I)
+
+“AppSheet allowed us to build an Inventory Logistics App with just one person over a couple of days, a task that would have previously taken several months to achieve by several developers.”
+
+Rhys Phillips
+
+Digital Workplace Change & Adoption Lead, Airbus
+
+*   All the latest
+    
+    Learn more about Google AppSheet
+    
+*   [![Image 103: How to create an app](https://lh3.googleusercontent.com/Cm5m3qf-LPRewEdA3HfWsuuejDhCZq0Kbzz4V4e8Op8al_nvZVLZRiAqsZWQMNGlqNe1UzxGMvifvpdLlLPP7bxlnbnUOazRgcqFjqHmWMflmM0W-Js) Tutorial How to create an app Learn the basics of how to create an app using AppSheet. Learn how](https://about.appsheet.com/how-to-create-an-app)
+*   [![Image 104: Build faster with templates](https://lh3.googleusercontent.com/IM9DWn5bd1OdWfjOclr_RfeSfEPG_lC1fhY3om6xOY2JbkYrx43rE1QhN00ANNoqYvpt91eJc0skq_yvym1wy2eAvWpyUdAZhe-QHs_gXY6YOiGN9Q) Templates Build faster with templates Get started with app templates for your industry, use case, or department. Explore templates](https://www.appsheet.com/templates)
+*   [![Image 105: How real people use AppSheet](https://lh3.googleusercontent.com/D1ko3fbuvIg8rY30Xuzq9ZCKmHjW8kQfdUiBvpXPlL0wfAy84IGSGXYQu7HU_Ycl_9qe50zNO0Vvra33ukKwiiow0Q0B73WitVUYpBQjxR-5-dblIw) Discover How real people use AppSheet Explore how people are using AppSheet to work smarter and make an impact. Read stories](https://about.appsheet.com/customers)
+*   [![Image 106: Better with Google Workspace](https://lh3.googleusercontent.com/ToM6dZ9t7fldjcHC3-a7erSJkz-TOdCCupqLUzxjgh2qemxX-DVCBhXOGfFPD8mEjWMw3AnqcEacClTs-nkMZ0trT-JvfiI_PZwVN6oJCxHPbVJjEjpW) Integration Better with Google Workspace Discover how AppSheet and Google Workspace work together to help you connect, create, and collaborate. Learn more](https://about.appsheet.com/google-workspace)
+*   [![Image 107: The Total Economic Impact of Google Workspace](https://lh3.googleusercontent.com/A6GJ1WcRounNpy7KjXiid4Jzh78_sgVMBiv54NfWIyZNHcrSeY1wIIRVJyDlgRGJwfuMduE683Ai02OdfhQwUswfq26iqn9zv-m4jsfJ3vrXtP1Ggpo) Discover The Total Economic Impact of Google Workspace This TEI study shows how Workspace and AppSheet drive transformation. Learn how](https://inthecloud.withgoogle.com/forrester-tei-report-on-gws/dl-cd.html)
+
+All the latest
+
+### Learn more about Google AppSheet
+
+Find the answers you need
+-------------------------
+
+![Image 108: App sheet logo](https://about.appsheet.com/static/img/app-sheet.svg)

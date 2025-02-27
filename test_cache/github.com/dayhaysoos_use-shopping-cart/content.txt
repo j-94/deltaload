@@ -1,0 +1,329 @@
+Skip to content
+Navigation Menu
+Product
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+dayhaysoos
+/
+use-shopping-cart
+Public
+ Sponsor
+Notifications
+Fork 118
+ Star 919
+Code
+Issues
+18
+Pull requests
+Actions
+Projects
+Security
+Insights
+dayhaysoos/use-shopping-cart
+ master
+Code
+Folders and files
+Name	Last commit message	Last commit date
+
+Latest commit
+dayhaysoos
+and
+Nick DeJesus
+Ssr release (#338)
+933f485
+ · 
+History
+674 Commits
+
+
+.github
+	
+migrated to pnpm, next-js example, fixed warning (#310)
+	
+
+
+.husky
+	
+Ssr release (#338)
+	
+
+
+assets
+	
+Add screenshots
+	
+
+
+docs
+	
+Ssr release (#338)
+	
+
+
+examples
+	
+Ssr release (#338)
+	
+
+
+gatsby-plugin-use-shopping-cart
+	
+(feat): update gatsby-plugin-use-shopping-cart (#216)
+	
+
+
+use-shopping-cart
+	
+Ssr release (#338)
+	
+
+
+.all-contributorsrc
+	
+add bhattrajat as a contributor for example (#335)
+	
+
+
+.env.example
+	
+update .env.example's + readme; one .gitignore to rule them all
+	
+
+
+.gitattributes
+	
+replaced images and added attributes
+	
+
+
+.gitignore
+	
+Typescript Usage (#267)
+	
+
+
+.huskyrc
+	
+Nick/instant checkout on click (#105)
+	
+
+
+.npmrc
+	
+migrated to pnpm, next-js example, fixed warning (#310)
+	
+
+
+.prettierrc
+	
+Fix some stuff in docs and run everything through Prettier
+	
+
+
+.quokka
+	
+Typescript Usage (#267)
+	
+
+
+CODE_OF_CONDUCT.md
+	
+Create CODE_OF_CONDUCT.md
+	
+
+
+LICENSE
+	
+Add MIT License
+	
+
+
+README.md
+	
+add bhattrajat as a contributor for example (#335)
+	
+
+
+package.json
+	
+Ssr release (#338)
+	
+
+
+payment-providers.md
+	
+Typescript Usage (#267)
+	
+
+
+pnpm-lock.yaml
+	
+Ssr release (#338)
+	
+
+
+pnpm-workspace.yaml
+	
+migrated to pnpm, next-js example, fixed warning (#310)
+	
+
+
+wallaby.conf.js
+	
+Typescript Usage (#267)
+	
+Repository files navigation
+README
+Code of conduct
+MIT license
+use-shopping-cart
+
+A React Hook that handles shopping cart state and logic for Stripe.
+
+https://useshoppingcart.com
+
+   Click to open gist.
+
+Documentation
+
+View our comprehensive documentation website. ✨📚
+
+Frequently Asked Questions
+
+This is a list of questions that you might have about use-shopping-cart once you get started.
+
+Why am I getting an error about formatToParts not being a function on older browsers?
+
+You need to polyfill formatToParts if you want to support older browsers. You can find more info on manually polyfilling formatToParts in issue #158.
+
+Why am I getting an SSR error about text content not matching?
+
+It is likely that you are using a value like cartCount that is loaded from LocalStorage which doesn't exist on the server. More info in issue #122
+
+Contributing to use-shopping-cart
+
+If you're working on this project please check out the CONTRIBUTING.md file.
+
+Contributors ✨
+
+Thanks goes to these wonderful people (emoji key):
+
+
+Kevin Cunningham
+⚠️ 💻	
+Ian Jones
+⚠️	
+Nick DeJesus
+⚠️ 📝 💼 🐛 🔣 📖 🔍 🚇 📆 💬 👀 🛡️	
+Shodipo Ayomide
+📖	
+Anders Bech Mellson
+💻	
+Thor 雷神
+📖 💻 ⚠️	
+Ryan Warner
+📖
+
+Horacio Herrera
+📖	
+Brian Douglas
+📖	
+Brittney Postma
+📖	
+Prince Wilson
+📖	
+Eric Howey
+📖 🔌	
+Hidetaka Okamoto
+💻	
+Andria Brown
+⚠️ 💻 📖 🐛 💡 🚇 🚧 🤔 💬 👀
+
+Konnor Rogers
+💻	
+Larissa Pissurno
+📖	
+Lucy Macartney
+📖 🖋 💡	
+brendanmorrell
+💻	
+Tom
+💻	
+Milind Goel
+📖	
+Rajat Bhatt
+💡
+
+This project follows the all-contributors specification. Contributions of any kind welcome!
+
+License
+
+MIT © dayhaysoos
+
+About
+
+Shopping cart state and logic for Stripe
+
+Resources
+ Readme
+License
+ MIT license
+Code of conduct
+ Code of conduct
+ Activity
+Stars
+ 919 stars
+Watchers
+ 9 watching
+Forks
+ 118 forks
+Report repository
+
+
+Releases 2
+README Revamp
+Latest
++ 1 release
+
+
+Sponsor this project
+dayhaysoos Nick DeJesus
+andria-dev Andria Brown
+Learn more about GitHub Sponsors
+
+
+Packages
+No packages published
+
+
+
+Contributors
+37
++ 23 contributors
+
+
+Languages
+JavaScript
+89.5%
+ 
+TypeScript
+10.4%
+ 
+Shell
+0.1%
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information

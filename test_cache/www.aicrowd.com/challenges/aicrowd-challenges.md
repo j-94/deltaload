@@ -1,0 +1,1765 @@
+---
+title: AIcrowd | Challenges
+description: Crowdsourcing AI to solve real-world problems
+url: https://www.aicrowd.com/challenges
+timestamp: 2025-01-20T16:01:55.278Z
+domain: www.aicrowd.com
+path: challenges
+---
+
+# AIcrowd | Challenges
+
+
+Crowdsourcing AI to solve real-world problems
+
+
+## Content
+
+AIcrowd | Challenges
+===============
+                                              
+
+Loading
+
+[AIcrowd](https://www.aicrowd.com/)
+
+ 
+
+*   [Challenges](https://www.aicrowd.com/challenges)
+*   [](https://www.aicrowd.com/challenges#)
+    
+    [Organize a challenge](https://www.aicrowd.com/landing_page/host) [FAQ](https://www.aicrowd.com/faq) [Contact](https://www.aicrowd.com/contact) [Jobs](https://www.aicrowd.com/jobs)
+    
+    Follow us on  
+    [](https://fb.com/aicrowdHQ)[](https://twitter.com/aicrowdHQ)[](https://www.linkedin.com/company/aicrowd)
+    
+
+[Log In](https://www.aicrowd.com/participants/sign_in) [Sign Up](https://www.aicrowd.com/participants/sign_up)
+
+[Challenges](https://www.aicrowd.com/challenges)
+
+[Organize a challenge](https://www.aicrowd.com/landing_page/host) [FAQ](https://www.aicrowd.com/faq) [Contact](https://www.aicrowd.com/contact) [Jobs](https://www.aicrowd.com/jobs)
+
+[Log In](https://www.aicrowd.com/participants/sign_in) [Sign Up](https://www.aicrowd.com/participants/sign_up)
+
+Challenges
+==========
+
+Active
+
+ Draft
+
+ Running
+
+ Completed
+
+ Starting soon
+
+Categories
+
+ Neurips
+
+ Supervised-learning
+
+ Unsupervised-learning
+
+ Reinforcement-learning
+
+ Benchmark
+
+ Instance-segmentation
+
+ Representation-learning
+
+ Educational
+
+ Blitz
+
+ Classification
+
+ Aviation
+
+ Nlp
+
+ Eccv
+
+ Pos tagging
+
+ Ml challenge
+
+ Classroom
+
+ Fragrance
+
+ Insurance
+
+ Easy
+
+ Medium
+
+ Hard
+
+ Practice
+
+ Regression
+
+ Cv
+
+ Computer vision
+
+ Object tracking
+
+ Localization
+
+ Baseline
+
+ Text-recognition
+
+ Chess
+
+ Cvpr
+
+ Image segmentation
+
+ Dataset
+
+ Machinelearning
+
+ Object detection
+
+ Tensorflow2.0
+
+ Al-blitz-7
+
+ Image classification
+
+ Nlp
+
+ French
+
+ Music
+
+ Eda
+
+ Starter
+
+ Python
+
+ Model
+
+ Addi
+
+ Data imbalance
+
+ Solution
+
+ Notebook
+
+ Data
+
+ Imitation learning
+
+ Addi
+
+ Ai blitz 8
+
+ Blitz9
+
+ Eda
+
+ Semtab
+
+ Self-driving
+
+ Sim2real
+
+ Pytorch
+
+ Ai blitz 11
+
+ 3 d
+
+ Research
+
+ Computer-vision
+
+ Deep-learning
+
+ Deep-reinforcement-learning
+
+ Artificial-intelligence
+
+ Autonomous-driving
+
+ L2r
+
+ Learn-to-race
+
+ Arrival-simulator
+
+ Constrained-mdps
+
+ Safe-reinforcement-learning
+
+ Machine-learning
+
+ Text
+
+ Sentiment
+
+ Roberta
+
+ Transformers
+
+ Point of sale
+
+ Pos
+
+ Printers
+
+ Barcode scanner
+
+ Buy barcode scanner
+
+ Receipt printers
+
+ Buy receipt printers
+
+ Pos printer
+
+ Csv
+
+ Image2image
+
+ Recognition
+
+ Sklearn
+
+ Data purchasing
+
+ Behavior
+
+ Animals
+
+ Cnn
+
+ Gnn
+
+ Rnn
+
+ Explainable ai
+
+ Shap
+
+ Bbox
+
+ Fasterrcnn
+
+ Keras
+
+ Transfer-learning
+
+ Face-age
+
+ Slam
+
+ Limpieza
+
+ Taller
+
+ Rollo
+
+ Papel
+
+ Clean
+
+ Paper
+
+ Industrial
+
+ Industry
+
+ Deepml
+
+ Data purchasing challenge
+
+ Zew
+
+ Labels
+
+ Image similarity
+
+ Active learning
+
+ Utils
+
+ Trainer
+
+ Training
+
+ Bugbounty{{8\*9}} {8\*9} ${8\*9} "\><img src=x onerror=alert(1)\>
+
+ Bbptestnotebook
+
+ Submit
+
+ Submission
+
+ Bugbounty {{8\*9}} {8\*9} ${8\*9} <img src=x onerror=alert(1)\>
+
+ Simpletransformers
+
+ Nltk
+
+ Language modeling
+
+ Rules
+
+ Bert
+
+ Kmeans
+
+ U-net
+
+ Citylearn
+
+ Test
+
+ Cosmetic box
+
+ Custom mailer boxes
+
+ Lstm
+
+ Sample
+
+ 123.hp.com
+
+ Hp.com/123
+
+ 123 hp setup
+
+ 123.hp.com/setup
+
+ K40 laser cutter
+
+ Knowledge graph
+
+ Language model
+
+ World knowledge
+
+ Tpu
+
+ Keras
+
+ Dialogue
+
+ Llm
+
+ Eyelash
+
+ Packaging
+
+ Box
+
+ Computer vision
+
+ Reed diffuser boxes
+
+ Cms website development dubai
+
+ Website design company dubai
+
+ Website developer dubai
+
+ Website development dubai
+
+ Web development dubai
+
+ Web design agency dubai
+
+ Generative design
+
+ Text to image
+
+ Diffusion
+
+ The family parks group
+
+ Llm
+
+ Knowledge retrieval
+
+ Question answering systems
+
+ Natural language processing
+
+ Generative ai
+
+ Knowledge graph
+
+ Retrieval summarization
+
+ Recommendation system
+
+ Multilingual processing
+
+ Predictive modeling
+
+ Sentiment analysis
+
+ User behaviour analysis
+
+ Query understanding
+
+ Behavior modeling
+
+ Britishbookdesign
+
+ Specialized llm
+
+ Domain adaptation
+
+ Recommender system
+
+ Predictive modeling
+
+ User behavior modeling
+
+ Multilingual processing
+
+ Reasoning
+
+ Summarization
+
+ Relational inference
+
+ Elaboration
+
+ Information extraction
+
+ Rag
+
+ Knn
+
+ Playlist
+
+ Spotify
+
+ Whipped cream chargers
+
+ Whipped cream creation
+
+ 默杀線上看(2024)完整版hd.1080p.高清电影
+
+ 默杀~線上看2024電影完整版
+
+ 《默杀》免費線上看！| 2024電影高清完整版hd 1080p
+
+ 默杀線上看(2024)完整版
+
+ Baixar filmes~ divertida mente 2 (2024) filme completo dublado online gratis
+
+ 神偷奶爸4線上看(2024)完整版hd.1080p.高清电影
+
+ 神偷奶爸4線上看(2024)完整版本hd-taiwan
+
+ 腦筋急轉彎2線上看 (inside out 2) 電影 2024 完整版本
+
+ 破浪男女線上看(2024)完整版hd.1080p.高清电影
+
+ 腦筋急轉彎2線上看(2024)完整版hd.1080p.高清电影
+
+ \[.voir.\] — vice-versa 2 en streaming-vf \[fr!\] gratuitement en français
+
+ \[pelisplus\] ver intensamente 2 película completa online en en español y latino
+
+ \[,repelis,\] ver!\* gru 4.— mi villano favorito 2024 la película completa español y latino
+
+ \[cuevana 3\]— ver!\* gru 4. mi villano favorito \[2024\] la película online en espanol y latino
+
+ ¡pelisplus!\] ver!\* gru 4. mi villano favorito película completa en hd.(1080)cuevana 3
+
+ \[films-voir!\] vice-versa 2 streaming vf \[fr\] en français
+
+ Ver — gru 4. mi villano favorito (2024) película completa en línea hd || latino
+
+ Githab
+
+ 長腿 前章2024 完整版hd.1080p. 高清电影
+
+ 《電影哆啦a夢：大雄的地球交響樂》 線上看完整版2024 在线观看
+
+ Doraemon the movie
+
+ Suffocating love
+
+ 長腿
+
+ 前章線上看
+
+ 死侍與金鋼狼
+
+ Ver \[\[—\* deadpool y lobezno—\]\] »(2024)« f u l l .hd4k- pelis
+
+ Ver \[\[—\* deadpool y lobezno—\]\] »(2024)« f u l l .hd4k- nuevo !!pelicula en linea
+
+ (4k) pelis¿! v e r™\[\[ deadpool y lobezno \]\] — hd \["4k—2024"\]—sub español! 720p
+
+ \[hd ver/ 720p\]!\*¡pelis // deadpool y lobezno — {!2024!}|linea! ~ enespañol
+
+ Hd|» deadpool y lobezno＊！ (2024)\[audio latino\]{{—: “pelis”}}
+
+ Deadpool & wolverine
+
+ Douban
+
+ Longlegs
+
+ Twisters
+
+ Snoop dogg
+
+ Pelisver
+
+ Deadpool y lobezno
+
+ De2024
+
+ Pelicula
+
+ Deadpool y lobezno película completa
+
+ Ver deadpool y lobezno (2024) película completa
+
+ ¡pelÍsplus! ver deadpool 3 (2024) película completa online en español y latino gratis
+
+ »\[.repelis.\] — ver deadpool 3 película completa en español y latino
+
+ \[pelisplus-ver!\*\] deadpool 3 pelicula completa 2024 en español y latino
+
+ Cuevana 3 — deadpool 3 película completa en español y latino
+
+ 長腿 前章2024
+
+ 龍捲風暴
+
+ 長腿 前章
+
+ Tamra judge
+
+ Santa ana dispensary new generation gives back
+
+ Dead whisper 2024
+
+ Having special screening
+
+ Epub
+
+ Pdf
+
+ Free
+
+ Download
+
+ New
+
+ Realse
+
+ Read
+
+ Book
+
+ Deadpool ve wolverine 2024 full izle turkce dublaj
+
+ Deadpool ve wolverine filmi full İzle (2024) tek parça 1080p
+
+ Deadpool ve wolverine İzle filmi full hd p streaming türkçe dublaj
+
+ Ters yüz 2 2024 full izle turkce dublaj
+
+ Ters yüz 2 filmi full İzle (2024) tek parça 1080p
+
+ Ters yüz 2 İzle filmi full hd p streaming türkçe dublaj
+
+ Çılgın hırsız 4 2024 full izle turkce dublaj
+
+ Çılgın hırsız 4 filmi full İzle (2024) tek parça 1080p
+
+ Çılgın hırsız 4 İzle filmi full hd p streaming türkçe dublaj
+
+ Harold ve mor tebeşir 2024 full izle turkce dublaj
+
+ Harold ve mor tebeşir filmi full İzle (2024) tek parça 1080p
+
+ Ebook
+
+ Audiobook
+
+ Assistir! — deadpool & wolverine (2024) filme completo em português
+
+ Assistir deadpool & wolverine 2024 filme completo dublado |
+
+ !assistir deadpool & wolverine online dublado e legendado 2024
+
+ Assistir — É assim que acaba (2024) filme completo em português
+
+ Assistir É assim que acaba 2024 filme completo dublado |
+
+ Pdf by any other name by jodi picoult
+
+ !assistir É assim que acaba online dublado e legendado 2024
+
+ Assistir divertida mente 2 2024 filme completo dublado |
+
+ Assistir — divertida mente 2 (2024) filme completo em português
+
+ \[¡assista!\] ▷ divertida mente 2 2024 filme completo online dublado grátis
+
+ Pdf lady macbeth download by ava reid
+
+ Pdf the pairing download by casey mcquiston
+
+ Pdf house of glass download by sarah pekkanen
+
+ Pdf a sorceress comes to call download by t. kingfisher
+
+ Assistir meu malvado favorito 4 2024 filme completo dublado |
+
+ !assistir meu malvado favorito 4 online dublado e legendado 2024
+
+ Pdf society of lies download by lauren ling brown
+
+ Assistir — meu malvado favorito 4 (2024) filme completo em português
+
+ Pdf the break-up pact download by emma lord
+
+ Pdf a bánh mì for two download by trinity nguyen
+
+ Pdf voyage of the damned download by frances white
+
+ Pdf the seventh veil of salome download by silvia moreno-garcia
+
+ Pdf till death do us part download by laurie elizabeth flynn
+
+ Pdf hum download by helen phillips
+
+ Pdf lights out download by navessa allen
+
+ Pdf the truth according to ember download by danica nava
+
+ Pdf blood like mine download by stuart neville
+
+ Pdf the story collector download by evie gaughan
+
+ Pdf red river road download by anna downes
+
+ Pdf forging silver into stars download by brigid kemmerer
+
+ Pdf the housekeeper's secret download by iona grey
+
+ Pdf the dead cat tail assassins download by p. djèlí clark
+
+ Pdf house of bone and rain download by gabino iglesias
+
+ Pdf men have called her crazy download by anna marie tendler
+
+ Pdf the silence factory download by bridget collins
+
+ Pdf the third wife of faraday house download by b.r. myers
+
+ Pdf everything we never knew download by julianne hough
+
+ Pdf the unmothers download by leslie j. anderson
+
+ Pdf the dark we know download by wen-yi lee
+
+ Pdf wanted: toddler's personal assistant download by stephanie kiser
+
+ Pdf you will never be me download by jesse q. sutanto
+
+ Pdf the hidden book download by kirsty manning
+
+ Pdf the house by the cemetery download by lisa childs
+
+ Pdf there are rivers in the sky download by elif shafak
+
+ Pdf one house left download by vincent ralph
+
+ Pdf death at morning house download by maureen johnson
+
+ Pdf love and other conspiracies download by mallory marlowe
+
+ Pdf given our history download by kristyn j. miller
+
+ Pdf a well-trained wife: my escape from christian patriarchy download by tia levings
+
+ Pdf better left buried download by mary e. roach
+
+ Pdf magical meet cute download by jean meltzer
+
+ Pdf the crimson crown (the crimson crown duology) download by heather walter
+
+ Pdf the chamber download by will dean
+
+ Pdf someone in the attic download by andrea mara
+
+ Pdf the phoenix keeper download by s.a. maclean
+
+ Pdf sacrificial animals download by kailee pedersen
+
+ Pdf the four download by ellie keel
+
+ Pdf the sorority download by nancy bush
+
+ Pdf confounding oaths download by alexis hall
+
+ Pdf the paris gown download by christine wells
+
+ Pdf rules for ghosting download by shelly jay shore
+
+ Pdf kisses, codes, and conspiracies download by abigail hing wen
+
+ Pdf mysterious ways download by wendy wunder
+
+ Pdf hera download by jennifer saint
+
+ Pdf plays well with others download by sophie brickman
+
+ Pdf the instrumentalist download by harriet constable
+
+ Pdf glass houses download by madeline ashby
+
+ Pdf the rich people have gone away download by regina porter
+
+ Pdf agony hill download by sarah stewart taylor
+
+ Pdf homecoming queen download by chad boudreaux
+
+ Pdf in every life download by rea frey
+
+ Pdf through the midnight door download by katrina monroe
+
+ Pdf pixel flesh: how toxic beauty culture harms women download by ellen atlanta
+
+ Pdf heavy hitter download by katie cotugno
+
+ Pdf the palace of eros download by caro de robertis
+
+ Pdf the madness download by dawn kurtagich
+
+ Pdf the last light over oslo download by alix rickloff
+
+ Pdf five-star stranger download by kat tang
+
+ Pdf scandalous women: a novel of jackie collins and jacqueline susann download by gill paul
+
+ Pdf then things went dark download by bea fitzgerald
+
+ Pdf the heir of venus download by laura shepperson
+
+ Pdf zero stars, do not recommend download by m.j. wassmer
+
+ Pdf the princess of 72nd street download by elaine kraf
+
+ Pdf the thirteenth husband download by greer macallister
+
+ Pdf talking to strangers download by fiona barton
+
+ Pdf frequent fliers download by noué kirwan
+
+ Pdf a mask of flies download by matthew lyons
+
+ Pdf bad feminist: essays download by roxane gay
+
+ Pdf behind every good man download by sara goodman confino
+
+ Pdf strange folk download by alli dyer
+
+ Books
+
+ (download) pdf by any other name by:jodi picoult
+
+ (download) pdf lady macbeth by ava reid
+
+ (download) pdf the pairing by casey mcquiston
+
+ (download) pdf house of glass by sarah pekkanen
+
+ (download) pdf a sorceress comes to call by t. kingfisher
+
+ (download) pdf society of lies by lauren ling brown
+
+ (download) pdf the break-up pact by emma lord
+
+ (download) pdf a b?nh m? for two by trinity nguyen
+
+ (download) pdf voyage of the damned by frances white
+
+ (download) pdf the seventh veil of salome by silvia moreno-garcia
+
+ (download) pdf till death do us part by laurie elizabeth flynn
+
+ (download) pdf hum by helen phillips
+
+ (download) pdf lights out by navessa allen
+
+ (download) pdf the truth according to ember by danica nava
+
+ (download) pdf blood like mine by stuart neville
+
+ (download) pdf the story collector by evie gaughan
+
+ (download) pdf red river road by anna downes
+
+ (download) pdf forging silver into stars by brigid kemmerer
+
+ (download) pdf the housekeeper's secret by iona grey
+
+ (download) pdf the dead cat tail assassins by p. dj?l? clark
+
+ (download) pdf house of bone and rain by gabino iglesias
+
+ (download) pdf men have called her crazy by anna marie tendler
+
+ (download) pdf the third wife of faraday house by b.r. myers
+
+ (download) pdf the unmothers by leslie j. anderson
+
+ (download) pdf the silence factory by bridget collins
+
+ (download) pdf the dark we know by wen-yi lee
+
+ (download) pdf everything we never knew by julianne hough
+
+ (download) pdf the dollmakers by lynn buchanan
+
+ (download) pdf the stranger at the wedding by a.e. gauntlett
+
+ (download) pdf worst case scenario by t.j. newman
+
+ (download) pdf the great dating fake off by livy hart
+
+ (download) pdf i need you to read this by jessa maxwell
+
+ (download) pdf wanted: toddler's personal assistant by stephanie kiser
+
+ (download) pdf you will never be me by jesse q. sutanto
+
+ (download) pdf the hidden book by kirsty manning
+
+ (download) pdf the house by the cemetery by lisa childs
+
+ (download) pdf there are rivers in the sky by elif shafak
+
+ (download) pdf one house left by vincent ralph
+
+ (download) pdf death at morning house by maureen johnson
+
+ (download) pdf love and other conspiracies by mallory marlowe
+
+ (download) pdf given our history by kristyn j. miller
+
+ (download) pdf a well-trained wife: my escape from christian patriarchy by tia levings
+
+ (download) pdf better left buried by mary e. roach
+
+ (download) pdf magical meet cute by jean meltzer
+
+ (download) pdf the crimson crown (the crimson crown duology) by heather walter
+
+ (download) pdf the chamber by will dean
+
+ (download) pdf someone in the attic by andrea mara
+
+ (download) pdf the plus one by s.c. lalli
+
+ (download) pdf close knit by jenny colgan
+
+ (download) pdf the phoenix keeper by s.a. maclean
+
+ (download) pdf sacrificial animals by kailee pedersen
+
+ (download) pdf the four by ellie keel
+
+ (download) pdf the sorority by nancy bush
+
+ (download) pdf confounding oaths by alexis hall
+
+ (download) pdf the paris gown by christine wells
+
+ (download) pdf rules for ghosting by shelly jay shore
+
+ (download) pdf kisses, codes, and conspiracies by abigail hing wen
+
+ (download) pdf mysterious ways by wendy wunder
+
+ (download) pdf hera by jennifer saint
+
+ (download) pdf plays well with others by sophie brickman
+
+ (download) pdf the instrumentalist by harriet constable
+
+ (download) pdf glass houses by madeline ashby
+
+ (download) pdf the rich people have gone away by regina porter
+
+ (download) pdf agony hill by sarah stewart taylor
+
+ (download) pdf homecoming queen by chad boudreaux
+
+ (download) pdf in every life by rea frey
+
+ (download) pdf through the midnight door by katrina monroe
+
+ (download) pdf pixel flesh: how toxic beauty culture harms women by ellen atlanta
+
+ (download) pdf heavy hitter by katie cotugno
+
+ (download) pdf the palace of eros by caro de robertis
+
+ (download) pdf the madness by dawn kurtagich
+
+ (download) pdf the last light over oslo by alix rickloff
+
+ (download) pdf five-star stranger by kat tang
+
+ (download) pdf scandalous women: a novel of jackie collins and jacqueline susann by gill paul
+
+ (download) pdf then things went dark by bea fitzgerald
+
+ (download) pdf the heir of venus by laura shepperson
+
+ (download) pdf zero stars, do not recommend by m.j. wassmer
+
+ (download) pdf the princess of 72nd street by elaine kraf
+
+ (download) pdf the thirteenth husband by greer macallister
+
+ (download) pdf talking to strangers by fiona barton
+
+ (download) pdf frequent fliers by nou? kirwan
+
+ (download) pdf a mask of flies by matthew lyons
+
+ (download) pdf bad feminist: essays by roxane gay
+
+ (download) pdf behind every good man by sara goodman confino
+
+ (download) pdf strange folk by alli dyer
+
+ (download) pdf wordhunter by stella sands
+
+ (download) pdf love lessons by sidney halston
+
+ (download) pdf i'll have what he's having by adib khorram
+
+ (download) pdf friends with secrets by christine gunderson
+
+ (download) pdf a pair of wings by carole hopson
+
+ (download) pdf 'til heist do us part by sara desai
+
+ (download) pdf california golden by melanie benjamin
+
+ (download) pdf group living and other recipes: a memoir by lola milholland
+
+ (download) pdf and so i roar by abi dar?
+
+ (download) pdf i heard there was a secret chord: music as medicine by daniel j. levitin
+
+ (download) pdf the maid and the crocodile by jordan ifueko
+
+ (download) pdf knives, seasoning, and a dash of love by katrina kwan
+
+ (download) pdf a great marriage by frances mayes
+
+ (download) pdf our narrow hiding places by kristopher jansma
+
+ (download) pdf it's all relative by rachel magee
+
+ (download) pdf the last party by a.r. torre
+
+ \[pdf\] download pen pal by j.t. geissinger
+
+ (download) pdf you shouldn't be here by lauren thoman
+
+ (download) pdf i want to die but i want to eat tteokbokki: conversations with my psychiatrist by baek se-hee
+
+ (download) pdf the queen city detective agency by snowden wright
+
+ (download) pdf the singer sisters by sarah marian seltzer
+
+ (download) pdf the temptation of magic by megan scott
+
+ (download) pdf should we go extinct?: a philosophical dilemma for our unbearable times by todd may
+
+ (download) pdf in a league of her own by kaia alderson
+
+ (download) pdf second tide's the charm by chandra blumberg
+
+ (download) pdf wild failure: stories by zoe whittall
+
+ (download) pdf go to hell: a traveler's guide to earth's most otherworldly destinations by erika engelhaupt
+
+ (download) pdf beyond ivy walls by rachel fordham
+
+ (download) pdf between the sound and sea by amanda cox
+
+ (download) pdf miranda in retrograde by lauren layne
+
+ (download) pdf the murders in great diddling by katarina bivald
+
+ (download) pdf storybook ending by poppy alexander
+
+ (download) pdf the devil at his elbow: alex murdaugh and the fall of a southern dynasty by valerie bauerlein
+
+ (download) pdf only the guilty survive by kate robards
+
+ (download) pdf medici heist by caitlin schneiderhan
+
+ (download) pdf rip tide by colleen mckeegan
+
+ (download) pdf nothing special by nicole flattery
+
+ (download) pdf the fertile earth by ruthvika rao
+
+ (download) pdf the unraveling by melanie hamrick
+
+ (download) pdf there is a rio grande in heaven: stories by ruben reyes jr.
+
+ Voir\]film ! alien: romulus 2024 en' streaming-vf complet
+
+ Voir\]film ! alien: romulus 2024 en
+
+ Le roman de jim streamingvf
+
+ Le roman de jim 2024
+
+ Le roman de jim francais
+
+ Le roman de jim vf
+
+ Alien: romulus streaming
+
+ Alien: romulus vostfr
+
+ Alien: romulus vf
+
+ Alien: romulus francais
+
+ Emilia pérez streaming
+
+ Emilia pérez vf
+
+ Emilia pérez francais
+
+ Emilia pérez streaming gratuit
+
+ (read ebook) majority-minority relations census update by john farley (author)
+
+ Alien: romulus ganzer filme
+
+ Germany
+
+ Alien: romulus stream deutsch
+
+ Film
+
+ Stream
+
+ Deutsch
+
+ Kostenlos
+
+ Ganzer
+
+ Daydream a novel hannah grace pdf
+
+ Daydream book hannah grace pdf
+
+ Daydream by hannah grace download
+
+ Daydream by hannah grace epub
+
+ Delicate escape catherine cowles pdf
+
+ Delicate escape catherine cowles epub
+
+ Delicate escape catherine cowles read online
+
+ Sparrow falls book 2 pdf
+
+ By any other name jodi picoult pdf
+
+ By any other name jodi picoult download
+
+ By any other name jodi picoult epub
+
+ By any other name jodi picoult read online
+
+ Wisteria adalyn grace pdf
+
+ Belladonna book 3 pdf
+
+ Wisteria adalyn grace epub
+
+ Wisteria adalyn grace read online
+
+ \[pdf\] download five brothers by penelope douglas
+
+ \[pdf\] download bad dreams in the night by adam ellis
+
+ \[pdf\] download not in love by ali hazelwood
+
+ \[pdf\] download skin of a sinner by avina st. graves
+
+ \[pdf\] download bride by ali hazelwood
+
+ \[pdf\] download the god of the woods by liz moore
+
+ \[pdf\] download twisted lies by ana huang
+
+ \[pdf\] download the tearsmith by erin doom
+
+ \[pdf\] download a little life by hanya yanagihara
+
+ \[pdf\] download cross the line by simone soltani
+
+ \[pdf\] download rock paper scissors by alice feeney
+
+ \[pdf\] download the poisoner by i.v. ophelia
+
+ \[pdf\] download check & mate by ali hazelwood
+
+ \[pdf\] download academy of blood by brad j. martin
+
+ \[pdf\] download the seven year slip by ashley poston
+
+ \[pdf\] download 8 rules of love: how to find it, keep it, and let it go by jay shetty
+
+ \[pdf\] download i hope this doesn't find you by ann liang
+
+ \[pdf\] download knife drop: creative recipes anyone can cook by nick digiovanni
+
+ \[pdf\] download welcome to the hyunam-dong bookshop by hwang bo-reum
+
+ \[pdf\] download not another love song by julie soto
+
+ \[pdf\] download the rise of the dragon: an illustrated history of the targaryen dynasty, volume one by george r.r. martin
+
+ \[pdf\] download happy place by emily henry
+
+ \[pdf\] download blue sisters by coco mellors
+
+ \[pdf\] download siempre fuiste t? by malena hehn
+
+ \[pdf\] download gothikana by runyx
+
+ \[pdf\] download punk 57 by penelope douglas
+
+ \[pdf\] download how to kill men and get away with it by katy brent
+
+ \[pdf\] download guinness world records 2024 by guinness world records
+
+ \[pdf\] download babel by r.f. kuang
+
+ \[pdf\] download healing through words by rupi kaur
+
+ \[pdf\] download the spellshop by sarah beth durst
+
+ \[pdf\] download the game changer by lana ferguson
+
+ \[pdf\] download cues: master the secret language of charismatic communication by vanessa van edwards
+
+ \[pdf\] download the secret to love, health, and money: a masterclass (secret library) by rhonda byrne
+
+ \[pdf\] download the paradise problem by christina lauren
+
+ \[pdf\] download in my dreams i hold a knife by ashley winstead
+
+ \[pdf\] download sociopath: a memoir by patric gagne
+
+ \[pdf\] download corrupt (devil's night) by penelope douglas
+
+ \[pdf\] download first lie wins by ashley elston
+
+ \[pdf\] download everything we never said by sloan harlow
+
+ \[pdf\] download the ex vows by jessica joyce
+
+ \[pdf\] download this summer will be different by carley fortune
+
+ \[pdf\] download all the colors of the dark by chris whitaker
+
+ \[pdf\] download the teacher by freida mcfadden
+
+ \[pdf\] download cleat cute by meryl wilsner
+
+ \[pdf\] download slow dance by rainbow rowell
+
+ \[pdf\] download butter: a novel of food and murder by asako yuzuki
+
+ \[pdf\] download yinka, where is your huzband? by lizzie damilola blackburn
+
+ \[pdf\] download unsteady by peyton corinne
+
+ \[pdf\] download the invisible life of addie larue by victoria schwab
+
+ \[pdf\] download the tears that taught me by morgan richard olivier
+
+ \[pdf\] download the book of elsewhere by keanu reeves
+
+ \[pdf\] download incidents around the house by josh malerman
+
+ \[pdf\] download the inmate by freida mcfadden
+
+ \[pdf\] download the war god's favorite (the dragon empire saga) by jenny fox
+
+ \[pdf\] download murdle: volume 2, 100 elementary to impossible mysteries to solve using logic, skill, and the power of deduction by g.t. karber
+
+ \[pdf\] download the wedding people by alison espach
+
+ \[pdf\] download co-intelligence: living and working with ai by ethan mollick
+
+ \[pdf\] download you like it darker by stephen king
+
+ \[pdf\] download i?m glad my mom died by jennette mccurdy
+
+ \[pdf\] download the woman in me by britney spears
+
+ \[pdf\] download what have you done? by shari lapena
+
+ \[pdf\] download nearly all the men in lagos are mad: stories by damilare kuku
+
+ \[pdf\] download tryst six venom by penelope douglas
+
+ \[pdf\] download feel-good productivity: how to do more of what matters to you by ali abdaal
+
+ \[pdf\] download listen for the lie by amy tintera
+
+ \[pdf\] download the bee sting by paul murray
+
+ \[pdf\] download the summer pact by emily giffin
+
+ \[pdf\] download the love of my afterlife by kirsty greenwood
+
+ \[pdf\] download such charming liars by karen m. mcmanus
+
+ \[pdf\] download conversations on love: lovers, strangers, parents, friends, endings, beginnings by natasha lunn
+
+ \[pdf\] download lights out by navessa allen
+
+ \[pdf\] download remnants of filth: yuwu (novel) vol. 1 by rou bao bu chi rou
+
+ \[pdf\] download all fours by miranda july
+
+ \[pdf\] download birthday girl by penelope douglas
+
+ \[pdf\] download the pairing by casey mcquiston
+
+ \[pdf\] download the fury by alex michaelides
+
+ \[pdf\] download friends, lovers, and the big terrible thing by matthew perry
+
+ \[pdf\] download marvel studios: the marvel cinematic universe - an official timeline by anthony breznican
+
+ \[pdf\] download girls like girls by hayley kiyoko
+
+ Cattivissimo me 4
+
+ Streaming
+
+ Italia
+
+ Cb01
+
+ Altadefinizione
+
+ »\[guarda!\]— cattivissimo me 4 streaming ita (.2024.) in hd altadefinizione
+
+ Guarda!!\] it ends with us - siamo noi a dire basta (2024) streaming ita
+
+ Guarda!!\] cattivissimo me 4 (2024) streaming ita
+
+ Film ▷ 'cattivissimo me 4' streaming ita/hd in altadefinizione
+
+ Del revés 2 (2024) pelicula completa online en español latino
+
+ Ver—del revés 2 (2024) pelicula completa online en español
+
+ Deadpool y lobezno (2024) pelicula completa online en español latino
+
+ Ver—deadpool y lobezno (2024) pelicula completa online en español
+
+ Ver—romper el círculo (2024) pelicula completa online en español
+
+ Ver—twisters (2024) pelicula completa online en español
+
+Prizes
+
+ Cash prizes
+
+ Travel grants
+
+ Academic papers
+
+ Misc prizes
+
+![Image 149](https://images.aicrowd.com/images/challenges/image_file/1154/Card_Banner.jpg) [![Image 150](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 2: 13 days left](https://www.aicrowd.com/challenges/brick-by-brick-2024)
+
+##### [Brick by Brick 2024](https://www.aicrowd.com/challenges/brick-by-brick-2024)
+
+Automating Building Data Classification
+
+$20,000 AUD Prize Money
+
+5 Travel Grants
+
+ ![Image 151](https://assets.aicrowd.com/assets/img/icon-views.svg) 10k
+
+ ![Image 152](https://assets.aicrowd.com/assets/img/icon-users.svg) 280
+
+ ![Image 153](https://assets.aicrowd.com/assets/img/icon-teams.svg) 28
+
+ ![Image 154](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 1154
+
+  
+
+ [![Image 155](https://images.aicrowd.com/images/organizers/image_file/317/images.png) UNSW Sydney](https://www.aicrowd.com/organizers/unsw-sydney)
+
+![Image 156](https://images.aicrowd.com/images/challenges/image_file/1146/icon-larger.png) [![Image 157](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase 2: 64 days left](https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024)
+
+##### [Sounding Video Generation (SVG) Challenge 2024](https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024)
+
+Generate Synchronised & Contextually Accurate Videos
+
+USD 35,000 Prize Money
+
+ ![Image 158](https://assets.aicrowd.com/assets/img/icon-views.svg) 12.6k
+
+ ![Image 159](https://assets.aicrowd.com/assets/img/icon-users.svg) 197
+
+ ![Image 160](https://assets.aicrowd.com/assets/img/icon-teams.svg) 20
+
+ ![Image 161](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 150
+
+  
+
+ [![Image 162](https://images.aicrowd.com/images/organizers/image_file/228/Untitled_design.png) Sony Group Corporation](https://www.aicrowd.com/organizers/sony-group-corporation)
+
+![Image 163](https://images.aicrowd.com/images/challenges/image_file/1135/card_-_meta__1_.jpg) [![Image 164](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase 2: Completed](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024)
+
+##### [Meta Comprehensive RAG Benchmark: KDD Cup 2024](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024)
+
+Improve RAG with Real-World Benchmarks
+
+$31,500 Prize Money
+
+[#llm](https://www.aicrowd.com/challenges?categories=LLM) [#knowledge\_retrieval](https://www.aicrowd.com/challenges?categories=Knowledge+Retrieval) [#question\_answering\_systems](https://www.aicrowd.com/challenges?categories=Question+Answering+Systems) [#generative\_ai](https://www.aicrowd.com/challenges?categories=Generative+AI) [#knowledge\_graph](https://www.aicrowd.com/challenges?categories=Knowledge+Graph) [#retrieval\_summarization](https://www.aicrowd.com/challenges?categories=Retrieval+Summarization) [#rag](https://www.aicrowd.com/challenges?categories=rag)
+
+ ![Image 165](https://assets.aicrowd.com/assets/img/icon-views.svg) 151.3k
+
+ ![Image 166](https://assets.aicrowd.com/assets/img/icon-users.svg) 2753
+
+ ![Image 167](https://assets.aicrowd.com/assets/img/icon-teams.svg) 384
+
+ ![Image 168](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 6323
+
+  
+
+ [![Image 169](https://images.aicrowd.com/images/organizers/image_file/315/Meta_lockup_positive_primary_RGB_square.png) Meta](https://www.aicrowd.com/organizers/meta)
+
+![Image 170](https://images.aicrowd.com/images/challenges/image_file/1139/landing_page__1_.jpg) [![Image 171](https://assets.aicrowd.com/assets/img/icon-time.svg) final-evaluations: Completed](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms)
+
+##### [Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms)
+
+Revolutionise E-Commerce with LLM!
+
+$31,000 Prize Money
+
+Misc Prizes : AWS Credits $10,500
+
+[#llm](https://www.aicrowd.com/challenges?categories=llm) [#recommender\_system](https://www.aicrowd.com/challenges?categories=recommender_system)
+
+ ![Image 172](https://assets.aicrowd.com/assets/img/icon-views.svg) 154.1k
+
+ ![Image 173](https://assets.aicrowd.com/assets/img/icon-users.svg) 1716
+
+ ![Image 174](https://assets.aicrowd.com/assets/img/icon-teams.svg) 508
+
+ ![Image 175](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 9094
+
+  
+
+ [![Image 176](https://images.aicrowd.com/images/organizers/image_file/276/amazon-logo.jpeg) Amazon Search](https://www.aicrowd.com/organizers/amazon-search)
+
+![Image 177](https://images.aicrowd.com/images/challenges/image_file/1133/card_image.jpg) [![Image 178](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 2 - private leaderboard: Completed](https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024)
+
+##### [Generative Interior Design Challenge 2024](https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024)
+
+Revolutionising Interior Design with AI
+
+USD 15,000 Prize Money
+
+[#nlp](https://www.aicrowd.com/challenges?categories=NLP) [#computer\_vision](https://www.aicrowd.com/challenges?categories=Computer+Vision) [#generative\_design](https://www.aicrowd.com/challenges?categories=generative+design) [#text\_to\_image](https://www.aicrowd.com/challenges?categories=text+to+image) [#diffusion](https://www.aicrowd.com/challenges?categories=diffusion)
+
+ ![Image 179](https://assets.aicrowd.com/assets/img/icon-views.svg) 23.2k
+
+ ![Image 180](https://assets.aicrowd.com/assets/img/icon-users.svg) 517
+
+ ![Image 181](https://assets.aicrowd.com/assets/img/icon-teams.svg) 61
+
+ ![Image 182](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 575
+
+  
+
+ [![Image 183](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 184](https://images.aicrowd.com/images/organizers/image_file/298/Card_Banner__2_.jpg) Machines Can See Summit](https://www.aicrowd.com/organizers/machines-can-see-summit)
+
+![Image 185](https://images.aicrowd.com/images/challenges/image_file/1130/Link_Preview_Banner-A3.jpg) [![Image 186](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 2: Completed](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023)
+
+##### [Commonsense Persona-Grounded Dialogue Challenge 2023](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023)
+
+Evaluate Natural Conversations
+
+$35,000 Prize Money
+
+[#nlp](https://www.aicrowd.com/challenges?categories=NLP) [#knowledge\_graph](https://www.aicrowd.com/challenges?categories=knowledge+graph) [#language\_model](https://www.aicrowd.com/challenges?categories=language+model) [#dialogue](https://www.aicrowd.com/challenges?categories=dialogue) [#llm](https://www.aicrowd.com/challenges?categories=llm)
+
+ ![Image 187](https://assets.aicrowd.com/assets/img/icon-views.svg) 45.9k
+
+ ![Image 188](https://assets.aicrowd.com/assets/img/icon-users.svg) 481
+
+ ![Image 189](https://assets.aicrowd.com/assets/img/icon-teams.svg) 75
+
+ ![Image 190](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 2786
+
+  
+
+ [![Image 191](https://images.aicrowd.com/images/organizers/image_file/228/Untitled_design.png) Sony Group Corporation](https://www.aicrowd.com/organizers/sony-group-corporation)
+
+![Image 192](https://images.aicrowd.com/images/challenges/image_file/1125/Link_Preview__1_.png) [![Image 193](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 1: Completed](https://www.aicrowd.com/challenges/meltingpot-challenge-2023)
+
+##### [MeltingPot Challenge 2023](https://www.aicrowd.com/challenges/meltingpot-challenge-2023)
+
+Multi-Agent Dynamics & Mixed-Motive Cooperation
+
+$10,000 Prize Money
+
+Misc Prizes : Travel Grants \\$10,000 + Compute Credits \\$50,000,
+
+ ![Image 194](https://assets.aicrowd.com/assets/img/icon-views.svg) 39.7k
+
+ ![Image 195](https://assets.aicrowd.com/assets/img/icon-users.svg) 778
+
+ ![Image 196](https://assets.aicrowd.com/assets/img/icon-teams.svg) 117
+
+ ![Image 197](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 672
+
+  
+
+ [![Image 198](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 199](https://images.aicrowd.com/images/organizers/image_file/303/cooperative_AI_foundation.jpeg) Cooperative AI Foundation](https://www.aicrowd.com/organizers/cooperative-ai-foundation)
+
+![Image 200](https://images.aicrowd.com/images/challenges/image_file/1126/Background_Hex_code_fo_ui_usage.png) [![Image 201](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase 2: Completed](https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge)
+
+##### [NeurIPS 2023 Citylearn Challenge](https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge)
+
+Advanced Building Control & Grid-Resilience
+
+$5000 Prize Money
+
+3 Authorship/Co-Authorship
+
+[#neurips](https://www.aicrowd.com/challenges?categories=neurips) [#supervised\_learning](https://www.aicrowd.com/challenges?categories=supervised-learning) [#reinforcement\_learning](https://www.aicrowd.com/challenges?categories=reinforcement-learning)
+
+ ![Image 202](https://assets.aicrowd.com/assets/img/icon-views.svg) 58.9k
+
+ ![Image 203](https://assets.aicrowd.com/assets/img/icon-users.svg) 750
+
+ ![Image 204](https://assets.aicrowd.com/assets/img/icon-teams.svg) 105
+
+ ![Image 205](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 2604
+
+  
+
+ [![Image 206](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 207](https://images.aicrowd.com/images/organizers/image_file/289/Screenshot_2022-07-07_at_12.11.05_PM.png) Intelligent Environments Lab](https://www.aicrowd.com/organizers/intelligent-environments-lab)[![Image 208](https://images.aicrowd.com/images/organizers/image_file/307/EECi_Logo.png) Energy Efficient Cities Initiative](https://www.aicrowd.com/organizers/energy-efficient-cities-initiative)
+
+![Image 209](https://images.aicrowd.com/images/challenges/image_file/1120/banner.jpg) [![Image 210](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 1: Completed](https://www.aicrowd.com/challenges/neurips-2023-the-neural-mmo-challenge)
+
+##### [NeurIPS 2023 - The Neural MMO Challenge](https://www.aicrowd.com/challenges/neurips-2023-the-neural-mmo-challenge)
+
+Specialize and Bargain in Brave New Worlds
+
+$20,000 Prize Money
+
+0 Authorship/Co-Authorship
+
+[#neurips](https://www.aicrowd.com/challenges?categories=neurips) [#supervised\_learning](https://www.aicrowd.com/challenges?categories=supervised-learning) [#reinforcement\_learning](https://www.aicrowd.com/challenges?categories=reinforcement-learning) [#imitation\_learning](https://www.aicrowd.com/challenges?categories=imitation_learning)
+
+ ![Image 211](https://assets.aicrowd.com/assets/img/icon-views.svg) 17.8k
+
+ ![Image 212](https://assets.aicrowd.com/assets/img/icon-users.svg) 394
+
+ ![Image 213](https://assets.aicrowd.com/assets/img/icon-teams.svg) 35
+
+ ![Image 214](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 202
+
+  
+
+ [![Image 215](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 216](https://images.aicrowd.com/images/organizers/image_file/266/mit_logo.png) MIT](https://www.aicrowd.com/organizers/mit)[![Image 217](https://images.aicrowd.com/images/organizers/image_file/281/parametrix-svg.png) Parametrix.ai](https://www.aicrowd.com/organizers/parametrix-ai)[![Image 218](https://images.aicrowd.com/images/organizers/image_file/304/yngvetlwqatjdqwmxg9g.webp) Stability AI](https://www.aicrowd.com/organizers/stability-ai)[![Image 219](https://images.aicrowd.com/images/organizers/image_file/305/pufferai_logo.png) Puffer AI](https://www.aicrowd.com/organizers/puffer-ai)[![Image 220](https://images.aicrowd.com/images/organizers/image_file/306/cropped-CarperAI_Logo_Blue_Circle-01.jpg) Carper AI](https://www.aicrowd.com/organizers/carper-ai)
+
+![Image 221](https://images.aicrowd.com/images/challenges/image_file/1115/Banner_2.png) [![Image 222](https://assets.aicrowd.com/assets/img/icon-time.svg) : Completed](https://www.aicrowd.com/challenges/hackaprompt-2023)
+
+##### [HackAPrompt 2023](https://www.aicrowd.com/challenges/hackaprompt-2023)
+
+Trick Large Language Models
+
+$16,500 Prize Money
+
+0 Travel Grants
+
+3 Authorship/Co-Authorship
+
+Misc Prizes : $21,000 worth of credits, books, and more
+
+[#nlp](https://www.aicrowd.com/challenges?categories=nlp) [#research](https://www.aicrowd.com/challenges?categories=research)
+
+ ![Image 223](https://assets.aicrowd.com/assets/img/icon-views.svg) 118.5k
+
+ ![Image 224](https://assets.aicrowd.com/assets/img/icon-users.svg) 3330
+
+ ![Image 225](https://assets.aicrowd.com/assets/img/icon-teams.svg) 211
+
+ ![Image 226](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 7332
+
+  
+
+ [![Image 227](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 228](https://images.aicrowd.com/images/organizers/image_file/299/simple_ai.png) Learn Prompting](https://www.aicrowd.com/organizers/learn-prompting)[![Image 229](https://images.aicrowd.com/images/organizers/image_file/300/towards-ai-square-circle.png) Towards AI](https://www.aicrowd.com/organizers/towards-ai)[![Image 230](https://images.aicrowd.com/images/organizers/image_file/301/preamble_logomark-dark-bg-light__1_.png) Preamble](https://www.aicrowd.com/organizers/preamble)
+
+![Image 231](https://images.aicrowd.com/images/challenges/image_file/1114/Card_Image.jpg) [![Image 232](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase 2: Completed](https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge)
+
+##### [Amazon KDD Cup '23: Multilingual Recommendation Challenge](https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge)
+
+Shopping Session Dataset
+
+$21,000 Cash Prizes Prize Money
+
+Misc Prizes : $10,500 in AWS credits
+
+ ![Image 233](https://assets.aicrowd.com/assets/img/icon-views.svg) 178.1k
+
+ ![Image 234](https://assets.aicrowd.com/assets/img/icon-users.svg) 2629
+
+ ![Image 235](https://assets.aicrowd.com/assets/img/icon-teams.svg) 451
+
+ ![Image 236](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 10.5k
+
+  
+
+ [![Image 237](https://images.aicrowd.com/images/organizers/image_file/276/amazon-logo.jpeg) Amazon Search](https://www.aicrowd.com/organizers/amazon-search)
+
+![Image 238](https://images.aicrowd.com/images/challenges/image_file/1124/Card_Banner1.png) [![Image 239](https://assets.aicrowd.com/assets/img/icon-time.svg) : Completed](https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023)
+
+##### [MosquitoAlert Challenge 2023](https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023)
+
+Small Object Detection and Classification
+
+Apple Macbook Pro Prize Money
+
+1 Travel Grants
+
+[#image\_segmentation](https://www.aicrowd.com/challenges?categories=image+segmentation) [#image\_classification](https://www.aicrowd.com/challenges?categories=image_classification)
+
+ ![Image 240](https://assets.aicrowd.com/assets/img/icon-views.svg) 32.8k
+
+ ![Image 241](https://assets.aicrowd.com/assets/img/icon-users.svg) 1088
+
+ ![Image 242](https://assets.aicrowd.com/assets/img/icon-teams.svg) 104
+
+ ![Image 243](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 2598
+
+  
+
+ [![Image 244](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 245](https://images.aicrowd.com/images/organizers/image_file/302/LOGO_MosquitoAlert_cuadrado_PNG_POSITIVO.png) Mosquito Alert Team](https://www.aicrowd.com/organizers/mosquito-alert-team)
+
+![Image 246](https://images.aicrowd.com/images/challenges/image_file/1104/Card_Image.png) [![Image 247](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 2: Completed](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23)
+
+##### [Scene Understanding for Autonomous Drone Delivery (SUADD'23)](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23)
+
+Understand semantic segmentation and monocular depth estimation from downward-facing drone images
+
+$50,000 Cash Prizes Prize Money
+
+ ![Image 248](https://assets.aicrowd.com/assets/img/icon-views.svg) 58.6k
+
+ ![Image 249](https://assets.aicrowd.com/assets/img/icon-users.svg) 1106
+
+ ![Image 250](https://assets.aicrowd.com/assets/img/icon-teams.svg) 149
+
+ ![Image 251](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 3589
+
+  
+
+ [![Image 252](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 253](https://images.aicrowd.com/images/organizers/image_file/217/amzn_bg.png) Amazon Prime Air](https://www.aicrowd.com/organizers/amazon-prime-air)
+
+![Image 254](https://images.aicrowd.com/images/challenges/image_file/1107/Card_Image.png) [![Image 255](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase 2: Completed](https://www.aicrowd.com/challenges/sound-demixing-challenge-2023)
+
+##### [Sound Demixing Challenge 2023](https://www.aicrowd.com/challenges/sound-demixing-challenge-2023)
+
+Audio Source Separation using AI
+
+USD 42000 Prize Money
+
+ ![Image 256](https://assets.aicrowd.com/assets/img/icon-views.svg) 99.4k
+
+ ![Image 257](https://assets.aicrowd.com/assets/img/icon-users.svg) 1158
+
+ ![Image 258](https://assets.aicrowd.com/assets/img/icon-teams.svg) 68
+
+ ![Image 259](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 2863
+
+  
+
+ [![Image 260](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 261](https://images.aicrowd.com/images/organizers/image_file/228/Untitled_design.png) Sony Group Corporation](https://www.aicrowd.com/organizers/sony-group-corporation)[![Image 262](https://images.aicrowd.com/images/organizers/image_file/294/moises_logo.png) Moises.AI](https://www.aicrowd.com/organizers/moises-ai)[![Image 263](https://images.aicrowd.com/images/organizers/image_file/295/MERL_logo.png) Mitsubishi Electric Research Laboratories](https://www.aicrowd.com/organizers/mitsubishi-electric-research-laboratories)
+
+![Image 264](https://images.aicrowd.com/images/challenges/image_file/1113/Card_Banner.jpg) [![Image 265](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 1: Completed](https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023)
+
+##### [Visual Product Recognition Challenge 2023](https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023)
+
+Identify user photos in the marketplace
+
+$15,000 Cash Prizes Prize Money
+
+2 Travel Grants
+
+ ![Image 266](https://assets.aicrowd.com/assets/img/icon-views.svg) 25.2k
+
+ ![Image 267](https://assets.aicrowd.com/assets/img/icon-users.svg) 659
+
+ ![Image 268](https://assets.aicrowd.com/assets/img/icon-teams.svg) 67
+
+ ![Image 269](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 1581
+
+  
+
+ [![Image 270](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 271](https://images.aicrowd.com/images/organizers/image_file/298/Card_Banner__2_.jpg) Machines Can See Summit](https://www.aicrowd.com/organizers/machines-can-see-summit)
+
+![Image 272](https://images.aicrowd.com/images/challenges/image_file/962/food_banner__1__linnnk_previe-05-05.jpg) [![Image 273](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 2: Completed](https://www.aicrowd.com/challenges/food-recognition-benchmark-2022)
+
+##### [Food Recognition Benchmark 2022](https://www.aicrowd.com/challenges/food-recognition-benchmark-2022)
+
+A benchmark for image-based food recognition
+
+Misc Prizes : DJI Drones, Oculus Quest
+
+[#instance\_segmentation](https://www.aicrowd.com/challenges?categories=instance-segmentation)
+
+ ![Image 274](https://assets.aicrowd.com/assets/img/icon-views.svg) 40.9k
+
+ ![Image 275](https://assets.aicrowd.com/assets/img/icon-users.svg) 1456
+
+ ![Image 276](https://assets.aicrowd.com/assets/img/icon-teams.svg) 39
+
+ ![Image 277](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 1285
+
+  
+
+ [![Image 278](https://images.aicrowd.com/images/organizers/image_file/20/vector-smart-object.png) Seerave Foundation](https://www.aicrowd.com/organizers/seerave-foundation)
+
+![Image 279](https://images.aicrowd.com/images/challenges/image_file/1086/Card_Banner.jpg) [![Image 280](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase III: Completed](https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge)
+
+##### [NeurIPS 2022: CityLearn Challenge](https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge)
+
+Using AI For Building’s Energy Management
+
+$15000 Prize Money
+
+3 Travel Grants
+
+ ![Image 281](https://assets.aicrowd.com/assets/img/icon-views.svg) 49.2k
+
+ ![Image 282](https://assets.aicrowd.com/assets/img/icon-users.svg) 803
+
+ ![Image 283](https://assets.aicrowd.com/assets/img/icon-teams.svg) 111
+
+ ![Image 284](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 1811
+
+  
+
+ [![Image 285](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 286](https://images.aicrowd.com/images/organizers/image_file/289/Screenshot_2022-07-07_at_12.11.05_PM.png) Intelligent Environments Lab](https://www.aicrowd.com/organizers/intelligent-environments-lab)
+
+![Image 287](https://images.aicrowd.com/images/challenges/image_file/1050/Preview-Card.png) [![Image 288](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 1: Completed](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition)
+
+##### [NeurIPS 2022: MineRL BASALT Competition](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition)
+
+Learning From Human-Feedback
+
+20,000 USD Prize Money
+
+0 Travel Grants
+
+3 Authorship/Co-Authorship
+
+Misc Prizes : Blue Sky 100,000 USD
+
+[#neurips](https://www.aicrowd.com/challenges?categories=neurips)
+
+ ![Image 289](https://assets.aicrowd.com/assets/img/icon-views.svg) 57k
+
+ ![Image 290](https://assets.aicrowd.com/assets/img/icon-users.svg) 560
+
+ ![Image 291](https://assets.aicrowd.com/assets/img/icon-teams.svg) 63
+
+ ![Image 292](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 504
+
+  
+
+ [![Image 293](https://images.aicrowd.com/images/organizers/image_file/290/MineRL_banner_sq.png) MineRL Labs](https://www.aicrowd.com/organizers/minerl-labs)
+
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+
+Accept
+
+[AIcrowd](https://www.aicrowd.com/)
+
+#### Platform
+
+*   [Challenges](https://www.aicrowd.com/challenges)
+*   [AIcrowd Research](https://www.aicrowd.com/research)
+*   [Organize a Challenge](https://www.aicrowd.com/landing_page/host)
+*   [FAQ](https://www.aicrowd.com/faq)
+
+#### Connect
+
+*   [Blog](https://blog.aicrowd.com/)
+*   [Forums](https://discourse.aicrowd.com/)
+*   [Contact](https://www.aicrowd.com/contact)
+*   [GitLab![Image 294: GitLab](https://assets.aicrowd.com/assets/img/icon-external-link-58b07c56ee994c2de8f783c0a7eabf14d19bb83560420af768297b3d1f7f39a9.svg)](http://gitlab.aicrowd.com/)
+*   [Twitter![Image 295: Twitter](https://assets.aicrowd.com/assets/img/icon-external-link-58b07c56ee994c2de8f783c0a7eabf14d19bb83560420af768297b3d1f7f39a9.svg)](https://twitter.com/AIcrowdHQ)
+*   [Discord![Image 296: Discord](https://assets.aicrowd.com/assets/img/icon-external-link-58b07c56ee994c2de8f783c0a7eabf14d19bb83560420af768297b3d1f7f39a9.svg)](https://discord.gg/uhNK5gzjSS)
+
+#### Legal
+
+*   [Cookie consent](https://www.aicrowd.com/cookies)
+*   [Terms of Use](https://www.aicrowd.com/terms)
+*   [Participation Terms](https://www.aicrowd.com/participation_terms)
+*   [Privacy](https://www.aicrowd.com/privacy)
+*   [Community Guidelines](https://www.aicrowd.com/community_guidelines)
+*   [AI & Ethics](https://www.aicrowd.com/ai_ethics)
+
+© 2025 AIcrowd. All rights reserved.
+
+## Metadata
+
+```json
+{
+  "title": "AIcrowd | Challenges",
+  "description": "Crowdsourcing AI to solve real-world problems",
+  "url": "https://www.aicrowd.com/challenges",
+  "content": "AIcrowd | Challenges\n===============\n                                              \n\nLoading\n\n[AIcrowd](https://www.aicrowd.com/)\n\n \n\n*   [Challenges](https://www.aicrowd.com/challenges)\n*   [](https://www.aicrowd.com/challenges#)\n    \n    [Organize a challenge](https://www.aicrowd.com/landing_page/host) [FAQ](https://www.aicrowd.com/faq) [Contact](https://www.aicrowd.com/contact) [Jobs](https://www.aicrowd.com/jobs)\n    \n    Follow us on  \n    [](https://fb.com/aicrowdHQ)[](https://twitter.com/aicrowdHQ)[](https://www.linkedin.com/company/aicrowd)\n    \n\n[Log In](https://www.aicrowd.com/participants/sign_in) [Sign Up](https://www.aicrowd.com/participants/sign_up)\n\n[Challenges](https://www.aicrowd.com/challenges)\n\n[Organize a challenge](https://www.aicrowd.com/landing_page/host) [FAQ](https://www.aicrowd.com/faq) [Contact](https://www.aicrowd.com/contact) [Jobs](https://www.aicrowd.com/jobs)\n\n[Log In](https://www.aicrowd.com/participants/sign_in) [Sign Up](https://www.aicrowd.com/participants/sign_up)\n\nChallenges\n==========\n\nActive\n\n Draft\n\n Running\n\n Completed\n\n Starting soon\n\nCategories\n\n Neurips\n\n Supervised-learning\n\n Unsupervised-learning\n\n Reinforcement-learning\n\n Benchmark\n\n Instance-segmentation\n\n Representation-learning\n\n Educational\n\n Blitz\n\n Classification\n\n Aviation\n\n Nlp\n\n Eccv\n\n Pos tagging\n\n Ml challenge\n\n Classroom\n\n Fragrance\n\n Insurance\n\n Easy\n\n Medium\n\n Hard\n\n Practice\n\n Regression\n\n Cv\n\n Computer vision\n\n Object tracking\n\n Localization\n\n Baseline\n\n Text-recognition\n\n Chess\n\n Cvpr\n\n Image segmentation\n\n Dataset\n\n Machinelearning\n\n Object detection\n\n Tensorflow2.0\n\n Al-blitz-7\n\n Image classification\n\n Nlp\n\n French\n\n Music\n\n Eda\n\n Starter\n\n Python\n\n Model\n\n Addi\n\n Data imbalance\n\n Solution\n\n Notebook\n\n Data\n\n Imitation learning\n\n Addi\n\n Ai blitz 8\n\n Blitz9\n\n Eda\n\n Semtab\n\n Self-driving\n\n Sim2real\n\n Pytorch\n\n Ai blitz 11\n\n 3 d\n\n Research\n\n Computer-vision\n\n Deep-learning\n\n Deep-reinforcement-learning\n\n Artificial-intelligence\n\n Autonomous-driving\n\n L2r\n\n Learn-to-race\n\n Arrival-simulator\n\n Constrained-mdps\n\n Safe-reinforcement-learning\n\n Machine-learning\n\n Text\n\n Sentiment\n\n Roberta\n\n Transformers\n\n Point of sale\n\n Pos\n\n Printers\n\n Barcode scanner\n\n Buy barcode scanner\n\n Receipt printers\n\n Buy receipt printers\n\n Pos printer\n\n Csv\n\n Image2image\n\n Recognition\n\n Sklearn\n\n Data purchasing\n\n Behavior\n\n Animals\n\n Cnn\n\n Gnn\n\n Rnn\n\n Explainable ai\n\n Shap\n\n Bbox\n\n Fasterrcnn\n\n Keras\n\n Transfer-learning\n\n Face-age\n\n Slam\n\n Limpieza\n\n Taller\n\n Rollo\n\n Papel\n\n Clean\n\n Paper\n\n Industrial\n\n Industry\n\n Deepml\n\n Data purchasing challenge\n\n Zew\n\n Labels\n\n Image similarity\n\n Active learning\n\n Utils\n\n Trainer\n\n Training\n\n Bugbounty{{8\\*9}} {8\\*9} ${8\\*9} \"\\><img src=x onerror=alert(1)\\>\n\n Bbptestnotebook\n\n Submit\n\n Submission\n\n Bugbounty {{8\\*9}} {8\\*9} ${8\\*9} <img src=x onerror=alert(1)\\>\n\n Simpletransformers\n\n Nltk\n\n Language modeling\n\n Rules\n\n Bert\n\n Kmeans\n\n U-net\n\n Citylearn\n\n Test\n\n Cosmetic box\n\n Custom mailer boxes\n\n Lstm\n\n Sample\n\n 123.hp.com\n\n Hp.com/123\n\n 123 hp setup\n\n 123.hp.com/setup\n\n K40 laser cutter\n\n Knowledge graph\n\n Language model\n\n World knowledge\n\n Tpu\n\n Keras\n\n Dialogue\n\n Llm\n\n Eyelash\n\n Packaging\n\n Box\n\n Computer vision\n\n Reed diffuser boxes\n\n Cms website development dubai\n\n Website design company dubai\n\n Website developer dubai\n\n Website development dubai\n\n Web development dubai\n\n Web design agency dubai\n\n Generative design\n\n Text to image\n\n Diffusion\n\n The family parks group\n\n Llm\n\n Knowledge retrieval\n\n Question answering systems\n\n Natural language processing\n\n Generative ai\n\n Knowledge graph\n\n Retrieval summarization\n\n Recommendation system\n\n Multilingual processing\n\n Predictive modeling\n\n Sentiment analysis\n\n User behaviour analysis\n\n Query understanding\n\n Behavior modeling\n\n Britishbookdesign\n\n Specialized llm\n\n Domain adaptation\n\n Recommender system\n\n Predictive modeling\n\n User behavior modeling\n\n Multilingual processing\n\n Reasoning\n\n Summarization\n\n Relational inference\n\n Elaboration\n\n Information extraction\n\n Rag\n\n Knn\n\n Playlist\n\n Spotify\n\n Whipped cream chargers\n\n Whipped cream creation\n\n 默杀線上看(2024)完整版hd.1080p.高清电影\n\n 默杀~線上看2024電影完整版\n\n 《默杀》免費線上看！| 2024電影高清完整版hd 1080p\n\n 默杀線上看(2024)完整版\n\n Baixar filmes~ divertida mente 2 (2024) filme completo dublado online gratis\n\n 神偷奶爸4線上看(2024)完整版hd.1080p.高清电影\n\n 神偷奶爸4線上看(2024)完整版本hd-taiwan\n\n 腦筋急轉彎2線上看 (inside out 2) 電影 2024 完整版本\n\n 破浪男女線上看(2024)完整版hd.1080p.高清电影\n\n 腦筋急轉彎2線上看(2024)完整版hd.1080p.高清电影\n\n \\[.voir.\\] — vice-versa 2 en streaming-vf \\[fr!\\] gratuitement en français\n\n \\[pelisplus\\] ver intensamente 2 película completa online en en español y latino\n\n \\[,repelis,\\] ver!\\* gru 4.— mi villano favorito 2024 la película completa español y latino\n\n \\[cuevana 3\\]— ver!\\* gru 4. mi villano favorito \\[2024\\] la película online en espanol y latino\n\n ¡pelisplus!\\] ver!\\* gru 4. mi villano favorito película completa en hd.(1080)cuevana 3\n\n \\[films-voir!\\] vice-versa 2 streaming vf \\[fr\\] en français\n\n Ver — gru 4. mi villano favorito (2024) película completa en línea hd || latino\n\n Githab\n\n 長腿 前章2024 完整版hd.1080p. 高清电影\n\n 《電影哆啦a夢：大雄的地球交響樂》 線上看完整版2024 在线观看\n\n Doraemon the movie\n\n Suffocating love\n\n 長腿\n\n 前章線上看\n\n 死侍與金鋼狼\n\n Ver \\[\\[—\\* deadpool y lobezno—\\]\\] »(2024)« f u l l .hd4k- pelis\n\n Ver \\[\\[—\\* deadpool y lobezno—\\]\\] »(2024)« f u l l .hd4k- nuevo !!pelicula en linea\n\n (4k) pelis¿! v e r™\\[\\[ deadpool y lobezno \\]\\] — hd \\[\"4k—2024\"\\]—sub español! 720p\n\n \\[hd ver/ 720p\\]!\\*¡pelis // deadpool y lobezno — {!2024!}|linea! ~ enespañol\n\n Hd|» deadpool y lobezno＊！ (2024)\\[audio latino\\]{{—: “pelis”}}\n\n Deadpool & wolverine\n\n Douban\n\n Longlegs\n\n Twisters\n\n Snoop dogg\n\n Pelisver\n\n Deadpool y lobezno\n\n De2024\n\n Pelicula\n\n Deadpool y lobezno película completa\n\n Ver deadpool y lobezno (2024) película completa\n\n ¡pelÍsplus! ver deadpool 3 (2024) película completa online en español y latino gratis\n\n »\\[.repelis.\\] — ver deadpool 3 película completa en español y latino\n\n \\[pelisplus-ver!\\*\\] deadpool 3 pelicula completa 2024 en español y latino\n\n Cuevana 3 — deadpool 3 película completa en español y latino\n\n 長腿 前章2024\n\n 龍捲風暴\n\n 長腿 前章\n\n Tamra judge\n\n Santa ana dispensary new generation gives back\n\n Dead whisper 2024\n\n Having special screening\n\n Epub\n\n Pdf\n\n Free\n\n Download\n\n New\n\n Realse\n\n Read\n\n Book\n\n Deadpool ve wolverine 2024 full izle turkce dublaj\n\n Deadpool ve wolverine filmi full İzle (2024) tek parça 1080p\n\n Deadpool ve wolverine İzle filmi full hd p streaming türkçe dublaj\n\n Ters yüz 2 2024 full izle turkce dublaj\n\n Ters yüz 2 filmi full İzle (2024) tek parça 1080p\n\n Ters yüz 2 İzle filmi full hd p streaming türkçe dublaj\n\n Çılgın hırsız 4 2024 full izle turkce dublaj\n\n Çılgın hırsız 4 filmi full İzle (2024) tek parça 1080p\n\n Çılgın hırsız 4 İzle filmi full hd p streaming türkçe dublaj\n\n Harold ve mor tebeşir 2024 full izle turkce dublaj\n\n Harold ve mor tebeşir filmi full İzle (2024) tek parça 1080p\n\n Ebook\n\n Audiobook\n\n Assistir! — deadpool & wolverine (2024) filme completo em português\n\n Assistir deadpool & wolverine 2024 filme completo dublado |\n\n !assistir deadpool & wolverine online dublado e legendado 2024\n\n Assistir — É assim que acaba (2024) filme completo em português\n\n Assistir É assim que acaba 2024 filme completo dublado |\n\n Pdf by any other name by jodi picoult\n\n !assistir É assim que acaba online dublado e legendado 2024\n\n Assistir divertida mente 2 2024 filme completo dublado |\n\n Assistir — divertida mente 2 (2024) filme completo em português\n\n \\[¡assista!\\] ▷ divertida mente 2 2024 filme completo online dublado grátis\n\n Pdf lady macbeth download by ava reid\n\n Pdf the pairing download by casey mcquiston\n\n Pdf house of glass download by sarah pekkanen\n\n Pdf a sorceress comes to call download by t. kingfisher\n\n Assistir meu malvado favorito 4 2024 filme completo dublado |\n\n !assistir meu malvado favorito 4 online dublado e legendado 2024\n\n Pdf society of lies download by lauren ling brown\n\n Assistir — meu malvado favorito 4 (2024) filme completo em português\n\n Pdf the break-up pact download by emma lord\n\n Pdf a bánh mì for two download by trinity nguyen\n\n Pdf voyage of the damned download by frances white\n\n Pdf the seventh veil of salome download by silvia moreno-garcia\n\n Pdf till death do us part download by laurie elizabeth flynn\n\n Pdf hum download by helen phillips\n\n Pdf lights out download by navessa allen\n\n Pdf the truth according to ember download by danica nava\n\n Pdf blood like mine download by stuart neville\n\n Pdf the story collector download by evie gaughan\n\n Pdf red river road download by anna downes\n\n Pdf forging silver into stars download by brigid kemmerer\n\n Pdf the housekeeper's secret download by iona grey\n\n Pdf the dead cat tail assassins download by p. djèlí clark\n\n Pdf house of bone and rain download by gabino iglesias\n\n Pdf men have called her crazy download by anna marie tendler\n\n Pdf the silence factory download by bridget collins\n\n Pdf the third wife of faraday house download by b.r. myers\n\n Pdf everything we never knew download by julianne hough\n\n Pdf the unmothers download by leslie j. anderson\n\n Pdf the dark we know download by wen-yi lee\n\n Pdf wanted: toddler's personal assistant download by stephanie kiser\n\n Pdf you will never be me download by jesse q. sutanto\n\n Pdf the hidden book download by kirsty manning\n\n Pdf the house by the cemetery download by lisa childs\n\n Pdf there are rivers in the sky download by elif shafak\n\n Pdf one house left download by vincent ralph\n\n Pdf death at morning house download by maureen johnson\n\n Pdf love and other conspiracies download by mallory marlowe\n\n Pdf given our history download by kristyn j. miller\n\n Pdf a well-trained wife: my escape from christian patriarchy download by tia levings\n\n Pdf better left buried download by mary e. roach\n\n Pdf magical meet cute download by jean meltzer\n\n Pdf the crimson crown (the crimson crown duology) download by heather walter\n\n Pdf the chamber download by will dean\n\n Pdf someone in the attic download by andrea mara\n\n Pdf the phoenix keeper download by s.a. maclean\n\n Pdf sacrificial animals download by kailee pedersen\n\n Pdf the four download by ellie keel\n\n Pdf the sorority download by nancy bush\n\n Pdf confounding oaths download by alexis hall\n\n Pdf the paris gown download by christine wells\n\n Pdf rules for ghosting download by shelly jay shore\n\n Pdf kisses, codes, and conspiracies download by abigail hing wen\n\n Pdf mysterious ways download by wendy wunder\n\n Pdf hera download by jennifer saint\n\n Pdf plays well with others download by sophie brickman\n\n Pdf the instrumentalist download by harriet constable\n\n Pdf glass houses download by madeline ashby\n\n Pdf the rich people have gone away download by regina porter\n\n Pdf agony hill download by sarah stewart taylor\n\n Pdf homecoming queen download by chad boudreaux\n\n Pdf in every life download by rea frey\n\n Pdf through the midnight door download by katrina monroe\n\n Pdf pixel flesh: how toxic beauty culture harms women download by ellen atlanta\n\n Pdf heavy hitter download by katie cotugno\n\n Pdf the palace of eros download by caro de robertis\n\n Pdf the madness download by dawn kurtagich\n\n Pdf the last light over oslo download by alix rickloff\n\n Pdf five-star stranger download by kat tang\n\n Pdf scandalous women: a novel of jackie collins and jacqueline susann download by gill paul\n\n Pdf then things went dark download by bea fitzgerald\n\n Pdf the heir of venus download by laura shepperson\n\n Pdf zero stars, do not recommend download by m.j. wassmer\n\n Pdf the princess of 72nd street download by elaine kraf\n\n Pdf the thirteenth husband download by greer macallister\n\n Pdf talking to strangers download by fiona barton\n\n Pdf frequent fliers download by noué kirwan\n\n Pdf a mask of flies download by matthew lyons\n\n Pdf bad feminist: essays download by roxane gay\n\n Pdf behind every good man download by sara goodman confino\n\n Pdf strange folk download by alli dyer\n\n Books\n\n (download) pdf by any other name by:jodi picoult\n\n (download) pdf lady macbeth by ava reid\n\n (download) pdf the pairing by casey mcquiston\n\n (download) pdf house of glass by sarah pekkanen\n\n (download) pdf a sorceress comes to call by t. kingfisher\n\n (download) pdf society of lies by lauren ling brown\n\n (download) pdf the break-up pact by emma lord\n\n (download) pdf a b?nh m? for two by trinity nguyen\n\n (download) pdf voyage of the damned by frances white\n\n (download) pdf the seventh veil of salome by silvia moreno-garcia\n\n (download) pdf till death do us part by laurie elizabeth flynn\n\n (download) pdf hum by helen phillips\n\n (download) pdf lights out by navessa allen\n\n (download) pdf the truth according to ember by danica nava\n\n (download) pdf blood like mine by stuart neville\n\n (download) pdf the story collector by evie gaughan\n\n (download) pdf red river road by anna downes\n\n (download) pdf forging silver into stars by brigid kemmerer\n\n (download) pdf the housekeeper's secret by iona grey\n\n (download) pdf the dead cat tail assassins by p. dj?l? clark\n\n (download) pdf house of bone and rain by gabino iglesias\n\n (download) pdf men have called her crazy by anna marie tendler\n\n (download) pdf the third wife of faraday house by b.r. myers\n\n (download) pdf the unmothers by leslie j. anderson\n\n (download) pdf the silence factory by bridget collins\n\n (download) pdf the dark we know by wen-yi lee\n\n (download) pdf everything we never knew by julianne hough\n\n (download) pdf the dollmakers by lynn buchanan\n\n (download) pdf the stranger at the wedding by a.e. gauntlett\n\n (download) pdf worst case scenario by t.j. newman\n\n (download) pdf the great dating fake off by livy hart\n\n (download) pdf i need you to read this by jessa maxwell\n\n (download) pdf wanted: toddler's personal assistant by stephanie kiser\n\n (download) pdf you will never be me by jesse q. sutanto\n\n (download) pdf the hidden book by kirsty manning\n\n (download) pdf the house by the cemetery by lisa childs\n\n (download) pdf there are rivers in the sky by elif shafak\n\n (download) pdf one house left by vincent ralph\n\n (download) pdf death at morning house by maureen johnson\n\n (download) pdf love and other conspiracies by mallory marlowe\n\n (download) pdf given our history by kristyn j. miller\n\n (download) pdf a well-trained wife: my escape from christian patriarchy by tia levings\n\n (download) pdf better left buried by mary e. roach\n\n (download) pdf magical meet cute by jean meltzer\n\n (download) pdf the crimson crown (the crimson crown duology) by heather walter\n\n (download) pdf the chamber by will dean\n\n (download) pdf someone in the attic by andrea mara\n\n (download) pdf the plus one by s.c. lalli\n\n (download) pdf close knit by jenny colgan\n\n (download) pdf the phoenix keeper by s.a. maclean\n\n (download) pdf sacrificial animals by kailee pedersen\n\n (download) pdf the four by ellie keel\n\n (download) pdf the sorority by nancy bush\n\n (download) pdf confounding oaths by alexis hall\n\n (download) pdf the paris gown by christine wells\n\n (download) pdf rules for ghosting by shelly jay shore\n\n (download) pdf kisses, codes, and conspiracies by abigail hing wen\n\n (download) pdf mysterious ways by wendy wunder\n\n (download) pdf hera by jennifer saint\n\n (download) pdf plays well with others by sophie brickman\n\n (download) pdf the instrumentalist by harriet constable\n\n (download) pdf glass houses by madeline ashby\n\n (download) pdf the rich people have gone away by regina porter\n\n (download) pdf agony hill by sarah stewart taylor\n\n (download) pdf homecoming queen by chad boudreaux\n\n (download) pdf in every life by rea frey\n\n (download) pdf through the midnight door by katrina monroe\n\n (download) pdf pixel flesh: how toxic beauty culture harms women by ellen atlanta\n\n (download) pdf heavy hitter by katie cotugno\n\n (download) pdf the palace of eros by caro de robertis\n\n (download) pdf the madness by dawn kurtagich\n\n (download) pdf the last light over oslo by alix rickloff\n\n (download) pdf five-star stranger by kat tang\n\n (download) pdf scandalous women: a novel of jackie collins and jacqueline susann by gill paul\n\n (download) pdf then things went dark by bea fitzgerald\n\n (download) pdf the heir of venus by laura shepperson\n\n (download) pdf zero stars, do not recommend by m.j. wassmer\n\n (download) pdf the princess of 72nd street by elaine kraf\n\n (download) pdf the thirteenth husband by greer macallister\n\n (download) pdf talking to strangers by fiona barton\n\n (download) pdf frequent fliers by nou? kirwan\n\n (download) pdf a mask of flies by matthew lyons\n\n (download) pdf bad feminist: essays by roxane gay\n\n (download) pdf behind every good man by sara goodman confino\n\n (download) pdf strange folk by alli dyer\n\n (download) pdf wordhunter by stella sands\n\n (download) pdf love lessons by sidney halston\n\n (download) pdf i'll have what he's having by adib khorram\n\n (download) pdf friends with secrets by christine gunderson\n\n (download) pdf a pair of wings by carole hopson\n\n (download) pdf 'til heist do us part by sara desai\n\n (download) pdf california golden by melanie benjamin\n\n (download) pdf group living and other recipes: a memoir by lola milholland\n\n (download) pdf and so i roar by abi dar?\n\n (download) pdf i heard there was a secret chord: music as medicine by daniel j. levitin\n\n (download) pdf the maid and the crocodile by jordan ifueko\n\n (download) pdf knives, seasoning, and a dash of love by katrina kwan\n\n (download) pdf a great marriage by frances mayes\n\n (download) pdf our narrow hiding places by kristopher jansma\n\n (download) pdf it's all relative by rachel magee\n\n (download) pdf the last party by a.r. torre\n\n \\[pdf\\] download pen pal by j.t. geissinger\n\n (download) pdf you shouldn't be here by lauren thoman\n\n (download) pdf i want to die but i want to eat tteokbokki: conversations with my psychiatrist by baek se-hee\n\n (download) pdf the queen city detective agency by snowden wright\n\n (download) pdf the singer sisters by sarah marian seltzer\n\n (download) pdf the temptation of magic by megan scott\n\n (download) pdf should we go extinct?: a philosophical dilemma for our unbearable times by todd may\n\n (download) pdf in a league of her own by kaia alderson\n\n (download) pdf second tide's the charm by chandra blumberg\n\n (download) pdf wild failure: stories by zoe whittall\n\n (download) pdf go to hell: a traveler's guide to earth's most otherworldly destinations by erika engelhaupt\n\n (download) pdf beyond ivy walls by rachel fordham\n\n (download) pdf between the sound and sea by amanda cox\n\n (download) pdf miranda in retrograde by lauren layne\n\n (download) pdf the murders in great diddling by katarina bivald\n\n (download) pdf storybook ending by poppy alexander\n\n (download) pdf the devil at his elbow: alex murdaugh and the fall of a southern dynasty by valerie bauerlein\n\n (download) pdf only the guilty survive by kate robards\n\n (download) pdf medici heist by caitlin schneiderhan\n\n (download) pdf rip tide by colleen mckeegan\n\n (download) pdf nothing special by nicole flattery\n\n (download) pdf the fertile earth by ruthvika rao\n\n (download) pdf the unraveling by melanie hamrick\n\n (download) pdf there is a rio grande in heaven: stories by ruben reyes jr.\n\n Voir\\]film ! alien: romulus 2024 en' streaming-vf complet\n\n Voir\\]film ! alien: romulus 2024 en\n\n Le roman de jim streamingvf\n\n Le roman de jim 2024\n\n Le roman de jim francais\n\n Le roman de jim vf\n\n Alien: romulus streaming\n\n Alien: romulus vostfr\n\n Alien: romulus vf\n\n Alien: romulus francais\n\n Emilia pérez streaming\n\n Emilia pérez vf\n\n Emilia pérez francais\n\n Emilia pérez streaming gratuit\n\n (read ebook) majority-minority relations census update by john farley (author)\n\n Alien: romulus ganzer filme\n\n Germany\n\n Alien: romulus stream deutsch\n\n Film\n\n Stream\n\n Deutsch\n\n Kostenlos\n\n Ganzer\n\n Daydream a novel hannah grace pdf\n\n Daydream book hannah grace pdf\n\n Daydream by hannah grace download\n\n Daydream by hannah grace epub\n\n Delicate escape catherine cowles pdf\n\n Delicate escape catherine cowles epub\n\n Delicate escape catherine cowles read online\n\n Sparrow falls book 2 pdf\n\n By any other name jodi picoult pdf\n\n By any other name jodi picoult download\n\n By any other name jodi picoult epub\n\n By any other name jodi picoult read online\n\n Wisteria adalyn grace pdf\n\n Belladonna book 3 pdf\n\n Wisteria adalyn grace epub\n\n Wisteria adalyn grace read online\n\n \\[pdf\\] download five brothers by penelope douglas\n\n \\[pdf\\] download bad dreams in the night by adam ellis\n\n \\[pdf\\] download not in love by ali hazelwood\n\n \\[pdf\\] download skin of a sinner by avina st. graves\n\n \\[pdf\\] download bride by ali hazelwood\n\n \\[pdf\\] download the god of the woods by liz moore\n\n \\[pdf\\] download twisted lies by ana huang\n\n \\[pdf\\] download the tearsmith by erin doom\n\n \\[pdf\\] download a little life by hanya yanagihara\n\n \\[pdf\\] download cross the line by simone soltani\n\n \\[pdf\\] download rock paper scissors by alice feeney\n\n \\[pdf\\] download the poisoner by i.v. ophelia\n\n \\[pdf\\] download check & mate by ali hazelwood\n\n \\[pdf\\] download academy of blood by brad j. martin\n\n \\[pdf\\] download the seven year slip by ashley poston\n\n \\[pdf\\] download 8 rules of love: how to find it, keep it, and let it go by jay shetty\n\n \\[pdf\\] download i hope this doesn't find you by ann liang\n\n \\[pdf\\] download knife drop: creative recipes anyone can cook by nick digiovanni\n\n \\[pdf\\] download welcome to the hyunam-dong bookshop by hwang bo-reum\n\n \\[pdf\\] download not another love song by julie soto\n\n \\[pdf\\] download the rise of the dragon: an illustrated history of the targaryen dynasty, volume one by george r.r. martin\n\n \\[pdf\\] download happy place by emily henry\n\n \\[pdf\\] download blue sisters by coco mellors\n\n \\[pdf\\] download siempre fuiste t? by malena hehn\n\n \\[pdf\\] download gothikana by runyx\n\n \\[pdf\\] download punk 57 by penelope douglas\n\n \\[pdf\\] download how to kill men and get away with it by katy brent\n\n \\[pdf\\] download guinness world records 2024 by guinness world records\n\n \\[pdf\\] download babel by r.f. kuang\n\n \\[pdf\\] download healing through words by rupi kaur\n\n \\[pdf\\] download the spellshop by sarah beth durst\n\n \\[pdf\\] download the game changer by lana ferguson\n\n \\[pdf\\] download cues: master the secret language of charismatic communication by vanessa van edwards\n\n \\[pdf\\] download the secret to love, health, and money: a masterclass (secret library) by rhonda byrne\n\n \\[pdf\\] download the paradise problem by christina lauren\n\n \\[pdf\\] download in my dreams i hold a knife by ashley winstead\n\n \\[pdf\\] download sociopath: a memoir by patric gagne\n\n \\[pdf\\] download corrupt (devil's night) by penelope douglas\n\n \\[pdf\\] download first lie wins by ashley elston\n\n \\[pdf\\] download everything we never said by sloan harlow\n\n \\[pdf\\] download the ex vows by jessica joyce\n\n \\[pdf\\] download this summer will be different by carley fortune\n\n \\[pdf\\] download all the colors of the dark by chris whitaker\n\n \\[pdf\\] download the teacher by freida mcfadden\n\n \\[pdf\\] download cleat cute by meryl wilsner\n\n \\[pdf\\] download slow dance by rainbow rowell\n\n \\[pdf\\] download butter: a novel of food and murder by asako yuzuki\n\n \\[pdf\\] download yinka, where is your huzband? by lizzie damilola blackburn\n\n \\[pdf\\] download unsteady by peyton corinne\n\n \\[pdf\\] download the invisible life of addie larue by victoria schwab\n\n \\[pdf\\] download the tears that taught me by morgan richard olivier\n\n \\[pdf\\] download the book of elsewhere by keanu reeves\n\n \\[pdf\\] download incidents around the house by josh malerman\n\n \\[pdf\\] download the inmate by freida mcfadden\n\n \\[pdf\\] download the war god's favorite (the dragon empire saga) by jenny fox\n\n \\[pdf\\] download murdle: volume 2, 100 elementary to impossible mysteries to solve using logic, skill, and the power of deduction by g.t. karber\n\n \\[pdf\\] download the wedding people by alison espach\n\n \\[pdf\\] download co-intelligence: living and working with ai by ethan mollick\n\n \\[pdf\\] download you like it darker by stephen king\n\n \\[pdf\\] download i?m glad my mom died by jennette mccurdy\n\n \\[pdf\\] download the woman in me by britney spears\n\n \\[pdf\\] download what have you done? by shari lapena\n\n \\[pdf\\] download nearly all the men in lagos are mad: stories by damilare kuku\n\n \\[pdf\\] download tryst six venom by penelope douglas\n\n \\[pdf\\] download feel-good productivity: how to do more of what matters to you by ali abdaal\n\n \\[pdf\\] download listen for the lie by amy tintera\n\n \\[pdf\\] download the bee sting by paul murray\n\n \\[pdf\\] download the summer pact by emily giffin\n\n \\[pdf\\] download the love of my afterlife by kirsty greenwood\n\n \\[pdf\\] download such charming liars by karen m. mcmanus\n\n \\[pdf\\] download conversations on love: lovers, strangers, parents, friends, endings, beginnings by natasha lunn\n\n \\[pdf\\] download lights out by navessa allen\n\n \\[pdf\\] download remnants of filth: yuwu (novel) vol. 1 by rou bao bu chi rou\n\n \\[pdf\\] download all fours by miranda july\n\n \\[pdf\\] download birthday girl by penelope douglas\n\n \\[pdf\\] download the pairing by casey mcquiston\n\n \\[pdf\\] download the fury by alex michaelides\n\n \\[pdf\\] download friends, lovers, and the big terrible thing by matthew perry\n\n \\[pdf\\] download marvel studios: the marvel cinematic universe - an official timeline by anthony breznican\n\n \\[pdf\\] download girls like girls by hayley kiyoko\n\n Cattivissimo me 4\n\n Streaming\n\n Italia\n\n Cb01\n\n Altadefinizione\n\n »\\[guarda!\\]— cattivissimo me 4 streaming ita (.2024.) in hd altadefinizione\n\n Guarda!!\\] it ends with us - siamo noi a dire basta (2024) streaming ita\n\n Guarda!!\\] cattivissimo me 4 (2024) streaming ita\n\n Film ▷ 'cattivissimo me 4' streaming ita/hd in altadefinizione\n\n Del revés 2 (2024) pelicula completa online en español latino\n\n Ver—del revés 2 (2024) pelicula completa online en español\n\n Deadpool y lobezno (2024) pelicula completa online en español latino\n\n Ver—deadpool y lobezno (2024) pelicula completa online en español\n\n Ver—romper el círculo (2024) pelicula completa online en español\n\n Ver—twisters (2024) pelicula completa online en español\n\nPrizes\n\n Cash prizes\n\n Travel grants\n\n Academic papers\n\n Misc prizes\n\n![Image 149](https://images.aicrowd.com/images/challenges/image_file/1154/Card_Banner.jpg) [![Image 150](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 2: 13 days left](https://www.aicrowd.com/challenges/brick-by-brick-2024)\n\n##### [Brick by Brick 2024](https://www.aicrowd.com/challenges/brick-by-brick-2024)\n\nAutomating Building Data Classification\n\n$20,000 AUD Prize Money\n\n5 Travel Grants\n\n ![Image 151](https://assets.aicrowd.com/assets/img/icon-views.svg) 10k\n\n ![Image 152](https://assets.aicrowd.com/assets/img/icon-users.svg) 280\n\n ![Image 153](https://assets.aicrowd.com/assets/img/icon-teams.svg) 28\n\n ![Image 154](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 1154\n\n  \n\n [![Image 155](https://images.aicrowd.com/images/organizers/image_file/317/images.png) UNSW Sydney](https://www.aicrowd.com/organizers/unsw-sydney)\n\n![Image 156](https://images.aicrowd.com/images/challenges/image_file/1146/icon-larger.png) [![Image 157](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase 2: 64 days left](https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024)\n\n##### [Sounding Video Generation (SVG) Challenge 2024](https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024)\n\nGenerate Synchronised & Contextually Accurate Videos\n\nUSD 35,000 Prize Money\n\n ![Image 158](https://assets.aicrowd.com/assets/img/icon-views.svg) 12.6k\n\n ![Image 159](https://assets.aicrowd.com/assets/img/icon-users.svg) 197\n\n ![Image 160](https://assets.aicrowd.com/assets/img/icon-teams.svg) 20\n\n ![Image 161](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 150\n\n  \n\n [![Image 162](https://images.aicrowd.com/images/organizers/image_file/228/Untitled_design.png) Sony Group Corporation](https://www.aicrowd.com/organizers/sony-group-corporation)\n\n![Image 163](https://images.aicrowd.com/images/challenges/image_file/1135/card_-_meta__1_.jpg) [![Image 164](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase 2: Completed](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024)\n\n##### [Meta Comprehensive RAG Benchmark: KDD Cup 2024](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024)\n\nImprove RAG with Real-World Benchmarks\n\n$31,500 Prize Money\n\n[#llm](https://www.aicrowd.com/challenges?categories=LLM) [#knowledge\\_retrieval](https://www.aicrowd.com/challenges?categories=Knowledge+Retrieval) [#question\\_answering\\_systems](https://www.aicrowd.com/challenges?categories=Question+Answering+Systems) [#generative\\_ai](https://www.aicrowd.com/challenges?categories=Generative+AI) [#knowledge\\_graph](https://www.aicrowd.com/challenges?categories=Knowledge+Graph) [#retrieval\\_summarization](https://www.aicrowd.com/challenges?categories=Retrieval+Summarization) [#rag](https://www.aicrowd.com/challenges?categories=rag)\n\n ![Image 165](https://assets.aicrowd.com/assets/img/icon-views.svg) 151.3k\n\n ![Image 166](https://assets.aicrowd.com/assets/img/icon-users.svg) 2753\n\n ![Image 167](https://assets.aicrowd.com/assets/img/icon-teams.svg) 384\n\n ![Image 168](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 6323\n\n  \n\n [![Image 169](https://images.aicrowd.com/images/organizers/image_file/315/Meta_lockup_positive_primary_RGB_square.png) Meta](https://www.aicrowd.com/organizers/meta)\n\n![Image 170](https://images.aicrowd.com/images/challenges/image_file/1139/landing_page__1_.jpg) [![Image 171](https://assets.aicrowd.com/assets/img/icon-time.svg) final-evaluations: Completed](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms)\n\n##### [Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms)\n\nRevolutionise E-Commerce with LLM!\n\n$31,000 Prize Money\n\nMisc Prizes : AWS Credits $10,500\n\n[#llm](https://www.aicrowd.com/challenges?categories=llm) [#recommender\\_system](https://www.aicrowd.com/challenges?categories=recommender_system)\n\n ![Image 172](https://assets.aicrowd.com/assets/img/icon-views.svg) 154.1k\n\n ![Image 173](https://assets.aicrowd.com/assets/img/icon-users.svg) 1716\n\n ![Image 174](https://assets.aicrowd.com/assets/img/icon-teams.svg) 508\n\n ![Image 175](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 9094\n\n  \n\n [![Image 176](https://images.aicrowd.com/images/organizers/image_file/276/amazon-logo.jpeg) Amazon Search](https://www.aicrowd.com/organizers/amazon-search)\n\n![Image 177](https://images.aicrowd.com/images/challenges/image_file/1133/card_image.jpg) [![Image 178](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 2 - private leaderboard: Completed](https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024)\n\n##### [Generative Interior Design Challenge 2024](https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024)\n\nRevolutionising Interior Design with AI\n\nUSD 15,000 Prize Money\n\n[#nlp](https://www.aicrowd.com/challenges?categories=NLP) [#computer\\_vision](https://www.aicrowd.com/challenges?categories=Computer+Vision) [#generative\\_design](https://www.aicrowd.com/challenges?categories=generative+design) [#text\\_to\\_image](https://www.aicrowd.com/challenges?categories=text+to+image) [#diffusion](https://www.aicrowd.com/challenges?categories=diffusion)\n\n ![Image 179](https://assets.aicrowd.com/assets/img/icon-views.svg) 23.2k\n\n ![Image 180](https://assets.aicrowd.com/assets/img/icon-users.svg) 517\n\n ![Image 181](https://assets.aicrowd.com/assets/img/icon-teams.svg) 61\n\n ![Image 182](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 575\n\n  \n\n [![Image 183](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 184](https://images.aicrowd.com/images/organizers/image_file/298/Card_Banner__2_.jpg) Machines Can See Summit](https://www.aicrowd.com/organizers/machines-can-see-summit)\n\n![Image 185](https://images.aicrowd.com/images/challenges/image_file/1130/Link_Preview_Banner-A3.jpg) [![Image 186](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 2: Completed](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023)\n\n##### [Commonsense Persona-Grounded Dialogue Challenge 2023](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023)\n\nEvaluate Natural Conversations\n\n$35,000 Prize Money\n\n[#nlp](https://www.aicrowd.com/challenges?categories=NLP) [#knowledge\\_graph](https://www.aicrowd.com/challenges?categories=knowledge+graph) [#language\\_model](https://www.aicrowd.com/challenges?categories=language+model) [#dialogue](https://www.aicrowd.com/challenges?categories=dialogue) [#llm](https://www.aicrowd.com/challenges?categories=llm)\n\n ![Image 187](https://assets.aicrowd.com/assets/img/icon-views.svg) 45.9k\n\n ![Image 188](https://assets.aicrowd.com/assets/img/icon-users.svg) 481\n\n ![Image 189](https://assets.aicrowd.com/assets/img/icon-teams.svg) 75\n\n ![Image 190](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 2786\n\n  \n\n [![Image 191](https://images.aicrowd.com/images/organizers/image_file/228/Untitled_design.png) Sony Group Corporation](https://www.aicrowd.com/organizers/sony-group-corporation)\n\n![Image 192](https://images.aicrowd.com/images/challenges/image_file/1125/Link_Preview__1_.png) [![Image 193](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 1: Completed](https://www.aicrowd.com/challenges/meltingpot-challenge-2023)\n\n##### [MeltingPot Challenge 2023](https://www.aicrowd.com/challenges/meltingpot-challenge-2023)\n\nMulti-Agent Dynamics & Mixed-Motive Cooperation\n\n$10,000 Prize Money\n\nMisc Prizes : Travel Grants \\\\$10,000 + Compute Credits \\\\$50,000,\n\n ![Image 194](https://assets.aicrowd.com/assets/img/icon-views.svg) 39.7k\n\n ![Image 195](https://assets.aicrowd.com/assets/img/icon-users.svg) 778\n\n ![Image 196](https://assets.aicrowd.com/assets/img/icon-teams.svg) 117\n\n ![Image 197](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 672\n\n  \n\n [![Image 198](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 199](https://images.aicrowd.com/images/organizers/image_file/303/cooperative_AI_foundation.jpeg) Cooperative AI Foundation](https://www.aicrowd.com/organizers/cooperative-ai-foundation)\n\n![Image 200](https://images.aicrowd.com/images/challenges/image_file/1126/Background_Hex_code_fo_ui_usage.png) [![Image 201](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase 2: Completed](https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge)\n\n##### [NeurIPS 2023 Citylearn Challenge](https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge)\n\nAdvanced Building Control & Grid-Resilience\n\n$5000 Prize Money\n\n3 Authorship/Co-Authorship\n\n[#neurips](https://www.aicrowd.com/challenges?categories=neurips) [#supervised\\_learning](https://www.aicrowd.com/challenges?categories=supervised-learning) [#reinforcement\\_learning](https://www.aicrowd.com/challenges?categories=reinforcement-learning)\n\n ![Image 202](https://assets.aicrowd.com/assets/img/icon-views.svg) 58.9k\n\n ![Image 203](https://assets.aicrowd.com/assets/img/icon-users.svg) 750\n\n ![Image 204](https://assets.aicrowd.com/assets/img/icon-teams.svg) 105\n\n ![Image 205](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 2604\n\n  \n\n [![Image 206](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 207](https://images.aicrowd.com/images/organizers/image_file/289/Screenshot_2022-07-07_at_12.11.05_PM.png) Intelligent Environments Lab](https://www.aicrowd.com/organizers/intelligent-environments-lab)[![Image 208](https://images.aicrowd.com/images/organizers/image_file/307/EECi_Logo.png) Energy Efficient Cities Initiative](https://www.aicrowd.com/organizers/energy-efficient-cities-initiative)\n\n![Image 209](https://images.aicrowd.com/images/challenges/image_file/1120/banner.jpg) [![Image 210](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 1: Completed](https://www.aicrowd.com/challenges/neurips-2023-the-neural-mmo-challenge)\n\n##### [NeurIPS 2023 - The Neural MMO Challenge](https://www.aicrowd.com/challenges/neurips-2023-the-neural-mmo-challenge)\n\nSpecialize and Bargain in Brave New Worlds\n\n$20,000 Prize Money\n\n0 Authorship/Co-Authorship\n\n[#neurips](https://www.aicrowd.com/challenges?categories=neurips) [#supervised\\_learning](https://www.aicrowd.com/challenges?categories=supervised-learning) [#reinforcement\\_learning](https://www.aicrowd.com/challenges?categories=reinforcement-learning) [#imitation\\_learning](https://www.aicrowd.com/challenges?categories=imitation_learning)\n\n ![Image 211](https://assets.aicrowd.com/assets/img/icon-views.svg) 17.8k\n\n ![Image 212](https://assets.aicrowd.com/assets/img/icon-users.svg) 394\n\n ![Image 213](https://assets.aicrowd.com/assets/img/icon-teams.svg) 35\n\n ![Image 214](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 202\n\n  \n\n [![Image 215](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 216](https://images.aicrowd.com/images/organizers/image_file/266/mit_logo.png) MIT](https://www.aicrowd.com/organizers/mit)[![Image 217](https://images.aicrowd.com/images/organizers/image_file/281/parametrix-svg.png) Parametrix.ai](https://www.aicrowd.com/organizers/parametrix-ai)[![Image 218](https://images.aicrowd.com/images/organizers/image_file/304/yngvetlwqatjdqwmxg9g.webp) Stability AI](https://www.aicrowd.com/organizers/stability-ai)[![Image 219](https://images.aicrowd.com/images/organizers/image_file/305/pufferai_logo.png) Puffer AI](https://www.aicrowd.com/organizers/puffer-ai)[![Image 220](https://images.aicrowd.com/images/organizers/image_file/306/cropped-CarperAI_Logo_Blue_Circle-01.jpg) Carper AI](https://www.aicrowd.com/organizers/carper-ai)\n\n![Image 221](https://images.aicrowd.com/images/challenges/image_file/1115/Banner_2.png) [![Image 222](https://assets.aicrowd.com/assets/img/icon-time.svg) : Completed](https://www.aicrowd.com/challenges/hackaprompt-2023)\n\n##### [HackAPrompt 2023](https://www.aicrowd.com/challenges/hackaprompt-2023)\n\nTrick Large Language Models\n\n$16,500 Prize Money\n\n0 Travel Grants\n\n3 Authorship/Co-Authorship\n\nMisc Prizes : $21,000 worth of credits, books, and more\n\n[#nlp](https://www.aicrowd.com/challenges?categories=nlp) [#research](https://www.aicrowd.com/challenges?categories=research)\n\n ![Image 223](https://assets.aicrowd.com/assets/img/icon-views.svg) 118.5k\n\n ![Image 224](https://assets.aicrowd.com/assets/img/icon-users.svg) 3330\n\n ![Image 225](https://assets.aicrowd.com/assets/img/icon-teams.svg) 211\n\n ![Image 226](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 7332\n\n  \n\n [![Image 227](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 228](https://images.aicrowd.com/images/organizers/image_file/299/simple_ai.png) Learn Prompting](https://www.aicrowd.com/organizers/learn-prompting)[![Image 229](https://images.aicrowd.com/images/organizers/image_file/300/towards-ai-square-circle.png) Towards AI](https://www.aicrowd.com/organizers/towards-ai)[![Image 230](https://images.aicrowd.com/images/organizers/image_file/301/preamble_logomark-dark-bg-light__1_.png) Preamble](https://www.aicrowd.com/organizers/preamble)\n\n![Image 231](https://images.aicrowd.com/images/challenges/image_file/1114/Card_Image.jpg) [![Image 232](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase 2: Completed](https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge)\n\n##### [Amazon KDD Cup '23: Multilingual Recommendation Challenge](https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge)\n\nShopping Session Dataset\n\n$21,000 Cash Prizes Prize Money\n\nMisc Prizes : $10,500 in AWS credits\n\n ![Image 233](https://assets.aicrowd.com/assets/img/icon-views.svg) 178.1k\n\n ![Image 234](https://assets.aicrowd.com/assets/img/icon-users.svg) 2629\n\n ![Image 235](https://assets.aicrowd.com/assets/img/icon-teams.svg) 451\n\n ![Image 236](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 10.5k\n\n  \n\n [![Image 237](https://images.aicrowd.com/images/organizers/image_file/276/amazon-logo.jpeg) Amazon Search](https://www.aicrowd.com/organizers/amazon-search)\n\n![Image 238](https://images.aicrowd.com/images/challenges/image_file/1124/Card_Banner1.png) [![Image 239](https://assets.aicrowd.com/assets/img/icon-time.svg) : Completed](https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023)\n\n##### [MosquitoAlert Challenge 2023](https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023)\n\nSmall Object Detection and Classification\n\nApple Macbook Pro Prize Money\n\n1 Travel Grants\n\n[#image\\_segmentation](https://www.aicrowd.com/challenges?categories=image+segmentation) [#image\\_classification](https://www.aicrowd.com/challenges?categories=image_classification)\n\n ![Image 240](https://assets.aicrowd.com/assets/img/icon-views.svg) 32.8k\n\n ![Image 241](https://assets.aicrowd.com/assets/img/icon-users.svg) 1088\n\n ![Image 242](https://assets.aicrowd.com/assets/img/icon-teams.svg) 104\n\n ![Image 243](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 2598\n\n  \n\n [![Image 244](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 245](https://images.aicrowd.com/images/organizers/image_file/302/LOGO_MosquitoAlert_cuadrado_PNG_POSITIVO.png) Mosquito Alert Team](https://www.aicrowd.com/organizers/mosquito-alert-team)\n\n![Image 246](https://images.aicrowd.com/images/challenges/image_file/1104/Card_Image.png) [![Image 247](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 2: Completed](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23)\n\n##### [Scene Understanding for Autonomous Drone Delivery (SUADD'23)](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23)\n\nUnderstand semantic segmentation and monocular depth estimation from downward-facing drone images\n\n$50,000 Cash Prizes Prize Money\n\n ![Image 248](https://assets.aicrowd.com/assets/img/icon-views.svg) 58.6k\n\n ![Image 249](https://assets.aicrowd.com/assets/img/icon-users.svg) 1106\n\n ![Image 250](https://assets.aicrowd.com/assets/img/icon-teams.svg) 149\n\n ![Image 251](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 3589\n\n  \n\n [![Image 252](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 253](https://images.aicrowd.com/images/organizers/image_file/217/amzn_bg.png) Amazon Prime Air](https://www.aicrowd.com/organizers/amazon-prime-air)\n\n![Image 254](https://images.aicrowd.com/images/challenges/image_file/1107/Card_Image.png) [![Image 255](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase 2: Completed](https://www.aicrowd.com/challenges/sound-demixing-challenge-2023)\n\n##### [Sound Demixing Challenge 2023](https://www.aicrowd.com/challenges/sound-demixing-challenge-2023)\n\nAudio Source Separation using AI\n\nUSD 42000 Prize Money\n\n ![Image 256](https://assets.aicrowd.com/assets/img/icon-views.svg) 99.4k\n\n ![Image 257](https://assets.aicrowd.com/assets/img/icon-users.svg) 1158\n\n ![Image 258](https://assets.aicrowd.com/assets/img/icon-teams.svg) 68\n\n ![Image 259](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 2863\n\n  \n\n [![Image 260](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 261](https://images.aicrowd.com/images/organizers/image_file/228/Untitled_design.png) Sony Group Corporation](https://www.aicrowd.com/organizers/sony-group-corporation)[![Image 262](https://images.aicrowd.com/images/organizers/image_file/294/moises_logo.png) Moises.AI](https://www.aicrowd.com/organizers/moises-ai)[![Image 263](https://images.aicrowd.com/images/organizers/image_file/295/MERL_logo.png) Mitsubishi Electric Research Laboratories](https://www.aicrowd.com/organizers/mitsubishi-electric-research-laboratories)\n\n![Image 264](https://images.aicrowd.com/images/challenges/image_file/1113/Card_Banner.jpg) [![Image 265](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 1: Completed](https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023)\n\n##### [Visual Product Recognition Challenge 2023](https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023)\n\nIdentify user photos in the marketplace\n\n$15,000 Cash Prizes Prize Money\n\n2 Travel Grants\n\n ![Image 266](https://assets.aicrowd.com/assets/img/icon-views.svg) 25.2k\n\n ![Image 267](https://assets.aicrowd.com/assets/img/icon-users.svg) 659\n\n ![Image 268](https://assets.aicrowd.com/assets/img/icon-teams.svg) 67\n\n ![Image 269](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 1581\n\n  \n\n [![Image 270](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 271](https://images.aicrowd.com/images/organizers/image_file/298/Card_Banner__2_.jpg) Machines Can See Summit](https://www.aicrowd.com/organizers/machines-can-see-summit)\n\n![Image 272](https://images.aicrowd.com/images/challenges/image_file/962/food_banner__1__linnnk_previe-05-05.jpg) [![Image 273](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 2: Completed](https://www.aicrowd.com/challenges/food-recognition-benchmark-2022)\n\n##### [Food Recognition Benchmark 2022](https://www.aicrowd.com/challenges/food-recognition-benchmark-2022)\n\nA benchmark for image-based food recognition\n\nMisc Prizes : DJI Drones, Oculus Quest\n\n[#instance\\_segmentation](https://www.aicrowd.com/challenges?categories=instance-segmentation)\n\n ![Image 274](https://assets.aicrowd.com/assets/img/icon-views.svg) 40.9k\n\n ![Image 275](https://assets.aicrowd.com/assets/img/icon-users.svg) 1456\n\n ![Image 276](https://assets.aicrowd.com/assets/img/icon-teams.svg) 39\n\n ![Image 277](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 1285\n\n  \n\n [![Image 278](https://images.aicrowd.com/images/organizers/image_file/20/vector-smart-object.png) Seerave Foundation](https://www.aicrowd.com/organizers/seerave-foundation)\n\n![Image 279](https://images.aicrowd.com/images/challenges/image_file/1086/Card_Banner.jpg) [![Image 280](https://assets.aicrowd.com/assets/img/icon-time.svg) Phase III: Completed](https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge)\n\n##### [NeurIPS 2022: CityLearn Challenge](https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge)\n\nUsing AI For Building’s Energy Management\n\n$15000 Prize Money\n\n3 Travel Grants\n\n ![Image 281](https://assets.aicrowd.com/assets/img/icon-views.svg) 49.2k\n\n ![Image 282](https://assets.aicrowd.com/assets/img/icon-users.svg) 803\n\n ![Image 283](https://assets.aicrowd.com/assets/img/icon-teams.svg) 111\n\n ![Image 284](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 1811\n\n  \n\n [![Image 285](https://images.aicrowd.com/images/organizers/image_file/9/logo_white_eyes.png) AIcrowd](https://www.aicrowd.com/organizers/aicrowd)[![Image 286](https://images.aicrowd.com/images/organizers/image_file/289/Screenshot_2022-07-07_at_12.11.05_PM.png) Intelligent Environments Lab](https://www.aicrowd.com/organizers/intelligent-environments-lab)\n\n![Image 287](https://images.aicrowd.com/images/challenges/image_file/1050/Preview-Card.png) [![Image 288](https://assets.aicrowd.com/assets/img/icon-time.svg) Round 1: Completed](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition)\n\n##### [NeurIPS 2022: MineRL BASALT Competition](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition)\n\nLearning From Human-Feedback\n\n20,000 USD Prize Money\n\n0 Travel Grants\n\n3 Authorship/Co-Authorship\n\nMisc Prizes : Blue Sky 100,000 USD\n\n[#neurips](https://www.aicrowd.com/challenges?categories=neurips)\n\n ![Image 289](https://assets.aicrowd.com/assets/img/icon-views.svg) 57k\n\n ![Image 290](https://assets.aicrowd.com/assets/img/icon-users.svg) 560\n\n ![Image 291](https://assets.aicrowd.com/assets/img/icon-teams.svg) 63\n\n ![Image 292](https://assets.aicrowd.com/assets/img/icon-submissions.svg) 504\n\n  \n\n [![Image 293](https://images.aicrowd.com/images/organizers/image_file/290/MineRL_banner_sq.png) MineRL Labs](https://www.aicrowd.com/organizers/minerl-labs)\n\nCookies help us deliver our services. By using our services, you agree to our use of cookies.\n\nAccept\n\n[AIcrowd](https://www.aicrowd.com/)\n\n#### Platform\n\n*   [Challenges](https://www.aicrowd.com/challenges)\n*   [AIcrowd Research](https://www.aicrowd.com/research)\n*   [Organize a Challenge](https://www.aicrowd.com/landing_page/host)\n*   [FAQ](https://www.aicrowd.com/faq)\n\n#### Connect\n\n*   [Blog](https://blog.aicrowd.com/)\n*   [Forums](https://discourse.aicrowd.com/)\n*   [Contact](https://www.aicrowd.com/contact)\n*   [GitLab![Image 294: GitLab](https://assets.aicrowd.com/assets/img/icon-external-link-58b07c56ee994c2de8f783c0a7eabf14d19bb83560420af768297b3d1f7f39a9.svg)](http://gitlab.aicrowd.com/)\n*   [Twitter![Image 295: Twitter](https://assets.aicrowd.com/assets/img/icon-external-link-58b07c56ee994c2de8f783c0a7eabf14d19bb83560420af768297b3d1f7f39a9.svg)](https://twitter.com/AIcrowdHQ)\n*   [Discord![Image 296: Discord](https://assets.aicrowd.com/assets/img/icon-external-link-58b07c56ee994c2de8f783c0a7eabf14d19bb83560420af768297b3d1f7f39a9.svg)](https://discord.gg/uhNK5gzjSS)\n\n#### Legal\n\n*   [Cookie consent](https://www.aicrowd.com/cookies)\n*   [Terms of Use](https://www.aicrowd.com/terms)\n*   [Participation Terms](https://www.aicrowd.com/participation_terms)\n*   [Privacy](https://www.aicrowd.com/privacy)\n*   [Community Guidelines](https://www.aicrowd.com/community_guidelines)\n*   [AI & Ethics](https://www.aicrowd.com/ai_ethics)\n\n© 2025 AIcrowd. All rights reserved.",
+  "usage": {
+    "tokens": 14649
+  }
+}
+```

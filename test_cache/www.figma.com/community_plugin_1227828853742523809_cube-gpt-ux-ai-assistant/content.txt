@@ -1,0 +1,216 @@
+Cube GPT - UX AI Assistant | Figma
+===============                     
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+[](https://www.figma.com/community)
+
+Browse
+
+×
+
+Log inSign up
+
+[](https://www.figma.com/community)
+
+[Design tools](https://www.figma.com/community/design-tools)
+
+[Editing & effects](https://www.figma.com/community/editing-effects)
+
+[](https://www.figma.com/@cubestudio)
+
+[Cube Studio](https://www.figma.com/@cubestudio)
+
+Cube GPT - UX AI Assistant
+==========================
+
+Plugin
+
+•
+
+653
+
+•
+
+28k users
+
+Open in Figma
+
+![Image 7: Cube GPT - UX AI Assistant preview](https://s3-figma-plugin-images-production-sig.figma.com/plugins/carousel/img/1227828853742523809/0c7e02fe59a21692610b282c22fb1671e1842e1f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LK5CLEt1bYegUxa9ThhQtBkb0PV7-7FPXu-omULjyYPtJZjmSTCJta2ClUB~2zBs5~yiph7I8-rN5KYv3FZP1jxfeIkTzXBabyIqp4Wo4pb5QeBerDdgocO7PHPlUXtB1m98DvZgzrlx~FvGhJ59XSURwmQ5PSV6No~ccNWvPdtvYGT6EMyKi~06TWuMo6T-ASzQkrzT4c8bFoJNX~cMHG4xdeoDbYjk5dvgUVJk1FJeZZ7sMHmj22msZn0ZAxzMWu49maSWTpggSn2fQQMW57yU7LZfiBI~nfGkajfhqt94bH-AQ0zepXyGHFMV6QrjNhhY-Z2xG5Vy1qpY8hc7dQ__)
+
+About
+
+Comments 13
+
+AI Assistant for your UIUX design work.
+---------------------------------------
+
+you can use the quick prompts to improve/continue/translate/shorter/longer your text, or filling content with built-in prompt.
+
+By the way, you can easily create more prompt to help yourself work on any design style, e.g. just give a random US full name.
+
+💬 **Discord:** [https://discord.com/invite/yTstW2K8Xz](https://discord.com/invite/yTstW2K8Xz)
+
+🍻 **Contact:** [https://bento.me/cube-studio](https://bento.me/cube-studio)
+
+🙈 **Privacy: Your API Key is stored only in Figma's client storage**
+
+More by this creator
+
+[![Image 8: Cube Translator icon](https://www.figma.com/community/icon?resource_id=1205127328344023071&resource_type=plugin) Cube Translator](https://www.figma.com/community/plugin/1205127328344023071/cube-translator)[![Image 9: Translator Lite icon](https://www.figma.com/community/icon?resource_id=1219587200701219295&resource_type=plugin) Translator Lite](https://www.figma.com/community/plugin/1219587200701219295/translator-lite)[![Image 10: Seal - AI Powered Figma to Code: React, RN, Vue, HTML 云音乐海豹（D2C）研发工具 icon](https://www.figma.com/community/icon?resource_id=1174548852019950797&resource_type=plugin) Seal - AI Powered Figma to Code: React, RN, Vue, HTML 云音乐海豹（D2C）研发工具](https://www.figma.com/community/plugin/1174548852019950797/seal-ai-powered-figma-to-code-react-rn-vue-html-d2c)
+
+* * *
+
+![Image 11: Cube GPT - UX AI Assistant icon](https://www.figma.com/community/icon?resource_id=1227828853742523809&resource_type=plugin)Version history
+
+Version 45 on January 10, 2025
+
+Version 44 on September 24, 2024
+
+See all
+
+A
+
+Post
+
+13 comments
+
+[Moustapha Ali Sabo](https://www.figma.com/@moustaphaalisab)@moustaphaalisab · 1 year ago
+
+fais moi un wireframe d'une boiteà surprise
+
+* * *
+
+[Khoa (JAK)](https://www.figma.com/@wblekhoa)@wblekhoa · 1 year ago
+
+It's not work went I put my API key. This is the error, how can I fix this? "The model \`text-davinci-003\` has been deprecated"
+
+[Cube Studio](https://www.figma.com/@cubestudio)@cubestudioCreator · 1 year ago
+
+Thanks for your feedback, we will release a hotfix later Fixed, please reload your figma and try again.
+
+* * *
+
+[David Bortey](https://www.figma.com/@mrdbortey)@mrdbortey · 1 year ago
+
+Okay this actually works. Thanks.
+
+* * *
+
+[Abdulaziz Zokirjanov](https://www.figma.com/@abdulazizzokirj)@abdulazizzokirj · 1 year ago
+
+[https://www.figma.com/file/jnwTbEquGYfErFSPLVIElL/Cooking-Template-%F0%9F%9F%A3-by-Flowbase.co-(Community)?type=design&mode=design&t=AIotSQKt7lquUwGe-0](https://www.figma.com/file/jnwTbEquGYfErFSPLVIElL/Cooking-Template-%F0%9F%9F%A3-by-Flowbase.co-(Community)?type=design&mode=design&t=AIotSQKt7lquUwGe-0) kodga ugurib ber
+
+* * *
+
+[Cube Studio](https://www.figma.com/@cubestudio)@cubestudioCreator · 2 years ago
+
+[@bravilor](https://www.figma.com/@bravilor) On the post above，or click here [https://discord.gg/Sb2TpwKF](https://discord.gg/Sb2TpwKF)
+
+* * *
+
+[Ties](https://www.figma.com/@bravilor)@bravilor · 2 years ago
+
+[@cubestudio](https://www.figma.com/@cubestudio) cool! What's the link?
+
+* * *
+
+[Cube Studio](https://www.figma.com/@cubestudio)@cubestudioCreator · 2 years ago
+
+[@bravilor](https://www.figma.com/@bravilor) 🍻 More features are on the way, you can join our discord, we will put a notice in discord when this feature is ready.
+
+* * *
+
+[Ties](https://www.figma.com/@bravilor)@bravilor · 2 years ago
+
+it's cool, but it doesn't generate an e-mail address based on the name it generated, nor does it allow other cities in the Netherlands than Amsterdam :')
+
+* * *
+
+[Cube Studio](https://www.figma.com/@cubestudio)@cubestudioCreator · 2 years ago
+
+[@janetracy](https://www.figma.com/@janetracy) Enjoy it brother! if there is any trouble, just join our Discord channel
+
+* * *
+
+[Jane Tracy](https://www.figma.com/@janetracy)@janetracy · 2 years ago
+
+This is super amazing. I use less time to copy and paste text from chat gpt itself to figma.
+
+* * *
+
+[Cube Studio](https://www.figma.com/@cubestudio)@cubestudioCreator · 2 years ago
+
+[@zoharmoyal](https://www.figma.com/@zoharmoyal) I'm glad this plugin can help you, and more feauture are on the way, stay tuned for this. 🚀
+
+* * *
+
+[zohar moyal](https://www.figma.com/@zoharmoyal)@zoharmoyal · 2 years ago
+
+Thanks!
+
+* * *
+
+[Cube Studio](https://www.figma.com/@cubestudio)@cubestudioCreator · 2 years ago
+
+Hey guys This is the official channel of Cube Studio, and we will reply to your questions here in the future [https://discord.gg/yTstW2K8Xz](https://discord.gg/yTstW2K8Xz)
+
+* * *
+
+**This is a Figma Community plugin.** Community is a space for Figma users to share things they create. [Get started with a free account →](https://www.figma.com/signup)
+
+### Tags
+
+[accessibility](https://www.figma.com/community/tag/accessibility/plugins)[ai](https://www.figma.com/community/tag/ai/plugins)[chatgpt](https://www.figma.com/community/tag/chatgpt/plugins)[copywriting](https://www.figma.com/community/tag/copywriting/plugins)[design](https://www.figma.com/community/tag/design/plugins)[gpt](https://www.figma.com/community/tag/gpt/plugins)[icons](https://www.figma.com/community/tag/icons/plugins)[mobile](https://www.figma.com/community/tag/mobile/plugins)[text](https://www.figma.com/community/tag/text/plugins)[ui](https://www.figma.com/community/tag/ui/plugins)[web](https://www.figma.com/community/tag/web/plugins)[wireframe](https://www.figma.com/community/tag/wireframe/plugins)
+
+* * *
+
+### Share
+
+[](https://twitter.com/intent/tweet?url=https://www.figma.com/community/plugin/1227828853742523809/cube-gpt-ux-ai-assistant&text=Check%20out%20Cube%20GPT%20-%20UX%20AI%20Assistant%20by%20Cube%20Studio%20on%20%40figma%3A)[](https://www.facebook.com/sharer/sharer.php?u=https://www.figma.com/community/plugin/1227828853742523809/cube-gpt-ux-ai-assistant)
+
+For Figma
+
+For FigJam
+
+Unrestricted network access
+
+Last updated 10 days ago
+
+Support: [cubestudio.official@gmail.com](mailto:cubestudio.official@gmail.com)
+
+Licensed under [Community Free Resource License](https://www.figma.com/community-free-resource-license/)
+
+[Report resource](mailto:content-reviews@figma.com)
+
+Popular searches
+
+[Resume templates](https://www.figma.com/community/resume-templates)[Mobile apps](https://www.figma.com/community/mobile-apps)[Presentation templates](https://www.figma.com/community/presentations)[UI kits](https://www.figma.com/community/ui-kits)[Calendar templates](https://www.figma.com/community/calendar-templates)
+
+Most used
+
+[Material 3 Design Kit](https://www.figma.com/community/file/1035203688168086460)[iOS 18 and iPadOS 18](https://www.figma.com/community/file/1385659531316001292)[Figma auto layout playground](https://www.figma.com/community/file/784448220678228461)[Anima - Figma to React, HTML](https://www.figma.com/community/plugin/857346721138427857/anima-figma-to-react-html-react-html-in-devmode)[Ant Design Open Source](https://www.figma.com/community/file/831698976089873405)
+
+Recommended categories
+
+[Instagram templates](https://www.figma.com/community/instagram-templates)[Workshop templates](https://www.figma.com/community/workshop-templates)[Data templates](https://www.figma.com/community/data-templates)[Laptop mockups](https://www.figma.com/community/laptop-mockups)[Design inspirations](https://www.figma.com/community/design-inspirations)
+
+Top categories
+
+[Design templates](https://www.figma.com/community/design-templates)[Libraries](https://www.figma.com/community/libraries)[Icons](https://www.figma.com/community/icons)[Development](https://www.figma.com/community/development)[Brainstorming](https://www.figma.com/community/brainstorming)
+
+[](https://www.figma.com/)
+
+© 2025 Figma, Inc.•[Site map](https://www.figma.com/auto-sitemaps/figma-community-index.xml)•[Community guidelines](https://help.figma.com/hc/en-us/articles/360038510573-Figma-Community-Guidelines)•[Terms of service](https://www.figma.com/legal/community-terms/)

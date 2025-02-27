@@ -1,0 +1,18 @@
+[Next.js + Sanity](https://nextjs-sanity-clean-peach-six.vercel.app/)
+
+![Image 5: Next.js Logo](https://nextjs-sanity-clean-peach-six.vercel.app/_next/static/media/nextjs.65f889c8.svg)+![Image 6: Sanity Logo](https://nextjs-sanity-clean-peach-six.vercel.app/_next/static/media/sanity.f98a71d4.svg)
+
+Next steps
+----------
+
+*   ### Publish a post in your Studio
+    
+    Visit the [Sanity Studio](https://nextjs-sanity-clean-peach-six.vercel.app/studio) and publish a new document of type post.
+    
+*   ### Dive into the documentation
+    
+    Check out [the documentation](https://www.sanity.io/docs) to learn more about Sanity.
+    
+*   ### Join the Sanity Community
+    
+    Leverage [our awesome community](https://www.sanity.io/exchange/community), and share tips and discuss!

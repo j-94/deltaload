@@ -1,0 +1,29 @@
+Page Not Found | TaskWeaver
+=============== 
+
+[Skip to main content](https://microsoft.github.io/TaskWeaver/docs/session#__docusaurus_skipToContent_fallback)
+
+[![Image 3: TaskWeaver Logo](https://microsoft.github.io/TaskWeaver/img/logo.svg)![Image 4: TaskWeaver Logo](https://microsoft.github.io/TaskWeaver/img/logo.svg) **TaskWeaver**](https://microsoft.github.io/TaskWeaver/)[Docs](https://microsoft.github.io/TaskWeaver/docs/overview)[Blog](https://microsoft.github.io/TaskWeaver/blog)
+
+[GitHub](https://github.com/microsoft/taskweaver/)
+
+Page Not Found
+==============
+
+We could not find what you were looking for.
+
+Please contact the owner of the site that linked you to the original URL and let them know their link is broken.
+
+Docs
+
+*   [Docs](https://microsoft.github.io/TaskWeaver/docs/overview)
+
+Community
+
+*   [Discord](https://discord.gg/Z56MXmZgMb)
+
+More
+
+*   [GitHub](https://github.com/microsoft/taskweaver/)
+
+Copyright © 2025 TaskWeaver

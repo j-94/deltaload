@@ -1,0 +1,883 @@
+GitHub - LiangliangNan/PolyFit: Polygonal Surface Reconstruction from Point Clouds (C++ & Python)
+===============
+                                           
+
+[Skip to content](https://github.com/LiangliangNan/PolyFit?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FLiangliangNan%2FPolyFit%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FLiangliangNan%2FPolyFit%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=LiangliangNan%2FPolyFit) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[LiangliangNan](https://github.com/LiangliangNan) / **[PolyFit](https://github.com/LiangliangNan/PolyFit)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2FLiangliangNan%2FPolyFit) You must be signed in to change notification settings
+*   [Fork 122](https://github.com/login?return_to=%2FLiangliangNan%2FPolyFit)
+*   [Star 744](https://github.com/login?return_to=%2FLiangliangNan%2FPolyFit)
+    
+
+Polygonal Surface Reconstruction from Point Clouds (C++ & Python)
+
+[3d.bk.tudelft.nl/liangliang/publications/2017/polyfit/polyfit.html](https://3d.bk.tudelft.nl/liangliang/publications/2017/polyfit/polyfit.html "https://3d.bk.tudelft.nl/liangliang/publications/2017/polyfit/polyfit.html")
+
+### License
+
+[GPL-3.0 license](https://github.com/LiangliangNan/PolyFit/blob/main/LICENSE)
+
+[744 stars](https://github.com/LiangliangNan/PolyFit/stargazers) [122 forks](https://github.com/LiangliangNan/PolyFit/forks) [Branches](https://github.com/LiangliangNan/PolyFit/branches) [Tags](https://github.com/LiangliangNan/PolyFit/tags) [Activity](https://github.com/LiangliangNan/PolyFit/activity)
+
+[Star](https://github.com/login?return_to=%2FLiangliangNan%2FPolyFit)
+
+[Notifications](https://github.com/login?return_to=%2FLiangliangNan%2FPolyFit) You must be signed in to change notification settings
+
+*   [Code](https://github.com/LiangliangNan/PolyFit)
+*   [Issues 0](https://github.com/LiangliangNan/PolyFit/issues)
+*   [Pull requests 0](https://github.com/LiangliangNan/PolyFit/pulls)
+*   [Actions](https://github.com/LiangliangNan/PolyFit/actions)
+*   [Projects 0](https://github.com/LiangliangNan/PolyFit/projects)
+*   [Wiki](https://github.com/LiangliangNan/PolyFit/wiki)
+*   [Security](https://github.com/LiangliangNan/PolyFit/security)
+*   [Insights](https://github.com/LiangliangNan/PolyFit/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/LiangliangNan/PolyFit)
+*   [Issues](https://github.com/LiangliangNan/PolyFit/issues)
+*   [Pull requests](https://github.com/LiangliangNan/PolyFit/pulls)
+*   [Actions](https://github.com/LiangliangNan/PolyFit/actions)
+*   [Projects](https://github.com/LiangliangNan/PolyFit/projects)
+*   [Wiki](https://github.com/LiangliangNan/PolyFit/wiki)
+*   [Security](https://github.com/LiangliangNan/PolyFit/security)
+*   [Insights](https://github.com/LiangliangNan/PolyFit/pulse)
+
+LiangliangNan/PolyFit
+=====================
+
+  
+
+ main
+
+[**5** Branches](https://github.com/LiangliangNan/PolyFit/branches)[**5** Tags](https://github.com/LiangliangNan/PolyFit/tags)
+
+[](https://github.com/LiangliangNan/PolyFit/branches)[](https://github.com/LiangliangNan/PolyFit/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 12: LiangliangNan](https://avatars.githubusercontent.com/u/15526536?v=4&size=40)](https://github.com/LiangliangNan)[LiangliangNan](https://github.com/LiangliangNan/PolyFit/commits?author=LiangliangNan)
+
+[clear buffers at the right place](https://github.com/LiangliangNan/PolyFit/commit/6dd2bd6e1441a12b762de75cc6831989af6389da)
+
+Jan 17, 2025
+
+[6dd2bd6](https://github.com/LiangliangNan/PolyFit/commit/6dd2bd6e1441a12b762de75cc6831989af6389da) · Jan 17, 2025
+
+History
+-------
+
+[436 Commits](https://github.com/LiangliangNan/PolyFit/commits/main/)
+
+[](https://github.com/LiangliangNan/PolyFit/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github/workflows](https://github.com/LiangliangNan/PolyFit/tree/main/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[.github/workflows](https://github.com/LiangliangNan/PolyFit/tree/main/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[Update cmake-build.yml](https://github.com/LiangliangNan/PolyFit/commit/096c787c7280a5c9ef56bb6d0f6851d2f0cf0c8e "Update cmake-build.yml")
+
+
+
+ | 
+
+Jan 13, 2025
+
+ |
+| 
+
+[code](https://github.com/LiangliangNan/PolyFit/tree/main/code "code")
+
+
+
+
+
+
+
+ | 
+
+[code](https://github.com/LiangliangNan/PolyFit/tree/main/code "code")
+
+
+
+
+
+
+
+ | 
+
+[clear buffers at the right place](https://github.com/LiangliangNan/PolyFit/commit/6dd2bd6e1441a12b762de75cc6831989af6389da "clear buffers at the right place")
+
+
+
+ | 
+
+Jan 17, 2025
+
+ |
+| 
+
+[data](https://github.com/LiangliangNan/PolyFit/tree/main/data "data")
+
+
+
+
+
+
+
+ | 
+
+[data](https://github.com/LiangliangNan/PolyFit/tree/main/data "data")
+
+
+
+
+
+
+
+ | 
+
+[Update ReadMe-data.md](https://github.com/LiangliangNan/PolyFit/commit/de8e1d1c997899b23f5894e5bfa80cebaba7032a "Update ReadMe-data.md")
+
+
+
+ | 
+
+Nov 16, 2024
+
+ |
+| 
+
+[images](https://github.com/LiangliangNan/PolyFit/tree/main/images "images")
+
+
+
+
+
+
+
+ | 
+
+[images](https://github.com/LiangliangNan/PolyFit/tree/main/images "images")
+
+
+
+
+
+
+
+ | 
+
+[add a snapshot of the user interface](https://github.com/LiangliangNan/PolyFit/commit/f96e7867885ebe5d414de8b02a4523f7ceed906b "add a snapshot of the user interface")
+
+
+
+ | 
+
+Feb 18, 2020
+
+ |
+| 
+
+[.gitattributes](https://github.com/LiangliangNan/PolyFit/blob/main/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[.gitattributes](https://github.com/LiangliangNan/PolyFit/blob/main/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[Squashed commit of the following:](https://github.com/LiangliangNan/PolyFit/commit/93859133989a6b59009da1f87b9625e1c94805cb "Squashed commit of the following:
+commit a1a45b26a15d20e5c14138604cdca844a6723fa1
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 17:24:00 2024 +0100
+Update CMakeLists.txt
+commit eb025fac98c2447c2f8882493b40e058cb515640
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 17:20:58 2024 +0100
+Update ReadMe.md
+commit 1ccac0bb18f4bea60b92fe961fa84d96d8a9b9be
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 17:11:09 2024 +0100
+compatible with both Qt5 and Qt6
+commit e06cff0cc3a3cc7f1558c80681f4ce8033eaf592
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 16:25:20 2024 +0100
+works with Qt5
+commit 862bb32e782300082613a9698ee6100562e1020c
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 15:04:41 2024 +0100
+clean
+commit 6fcda7fbccc2faa4c119bc3ace309ceafe8ee64a
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 15:00:17 2024 +0100
+works with Qt6
+commit 48d07d96a9b6f601fce52950a1f2f8a7df571d70
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 14:15:00 2024 +0100
+test with Qt5
+commit 6d7af35224a1f3f2c3ce21590d89a39fbce2b4a0
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 14:11:22 2024 +0100
+test with Qt5
+commit 5266c38c99818108f3cb9966d7b4eda95232a735
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 14:08:57 2024 +0100
+test Qt5
+commit 93c9650c3981a52e8fd0b9388b7df3a28d977dfb
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 14:04:15 2024 +0100
+no specific version of Qt5
+commit 8874e65f48e3e82d64749183ed88d64dcd06f819
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 14:02:16 2024 +0100
+use Qt6; updated qglviewer")
+
+
+
+ | 
+
+Dec 14, 2024
+
+ |
+| 
+
+[.gitignore](https://github.com/LiangliangNan/PolyFit/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/LiangliangNan/PolyFit/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Squashed commit of the following:](https://github.com/LiangliangNan/PolyFit/commit/93859133989a6b59009da1f87b9625e1c94805cb "Squashed commit of the following:
+commit a1a45b26a15d20e5c14138604cdca844a6723fa1
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 17:24:00 2024 +0100
+Update CMakeLists.txt
+commit eb025fac98c2447c2f8882493b40e058cb515640
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 17:20:58 2024 +0100
+Update ReadMe.md
+commit 1ccac0bb18f4bea60b92fe961fa84d96d8a9b9be
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 17:11:09 2024 +0100
+compatible with both Qt5 and Qt6
+commit e06cff0cc3a3cc7f1558c80681f4ce8033eaf592
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 16:25:20 2024 +0100
+works with Qt5
+commit 862bb32e782300082613a9698ee6100562e1020c
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 15:04:41 2024 +0100
+clean
+commit 6fcda7fbccc2faa4c119bc3ace309ceafe8ee64a
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 15:00:17 2024 +0100
+works with Qt6
+commit 48d07d96a9b6f601fce52950a1f2f8a7df571d70
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 14:15:00 2024 +0100
+test with Qt5
+commit 6d7af35224a1f3f2c3ce21590d89a39fbce2b4a0
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 14:11:22 2024 +0100
+test with Qt5
+commit 5266c38c99818108f3cb9966d7b4eda95232a735
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 14:08:57 2024 +0100
+test Qt5
+commit 93c9650c3981a52e8fd0b9388b7df3a28d977dfb
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 14:04:15 2024 +0100
+no specific version of Qt5
+commit 8874e65f48e3e82d64749183ed88d64dcd06f819
+Author: Liangliang Nan <liangliang.nan@gmail.com>
+Date:   Sat Dec 14 14:02:16 2024 +0100
+use Qt6; updated qglviewer")
+
+
+
+ | 
+
+Dec 14, 2024
+
+ |
+| 
+
+[CMakeLists.txt](https://github.com/LiangliangNan/PolyFit/blob/main/CMakeLists.txt "CMakeLists.txt")
+
+
+
+
+
+
+
+ | 
+
+[CMakeLists.txt](https://github.com/LiangliangNan/PolyFit/blob/main/CMakeLists.txt "CMakeLists.txt")
+
+
+
+
+
+
+
+ | 
+
+[allow creating whl and install it](https://github.com/LiangliangNan/PolyFit/commit/058479c6fb98997c20255275c69ed79541d67676 "allow creating whl and install it")
+
+
+
+ | 
+
+Jan 12, 2025
+
+ |
+| 
+
+[LICENSE](https://github.com/LiangliangNan/PolyFit/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/LiangliangNan/PolyFit/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Create LICENSE](https://github.com/LiangliangNan/PolyFit/commit/89440da141601ef6515a98b66ab68c4e40beef66 "Create LICENSE")
+
+
+
+ | 
+
+Mar 18, 2018
+
+ |
+| 
+
+[ReadMe.md](https://github.com/LiangliangNan/PolyFit/blob/main/ReadMe.md "ReadMe.md")
+
+
+
+
+
+
+
+ | 
+
+[ReadMe.md](https://github.com/LiangliangNan/PolyFit/blob/main/ReadMe.md "ReadMe.md")
+
+
+
+
+
+
+
+ | 
+
+[Update ReadMe.md](https://github.com/LiangliangNan/PolyFit/commit/1930adc57ba709b952394dda3546801f4e8cbbda "Update ReadMe.md")
+
+
+
+ | 
+
+Jan 11, 2025
+
+ |
+| 
+
+[Tricks for pairwise intersection.pdf](https://github.com/LiangliangNan/PolyFit/blob/main/Tricks%20for%20pairwise%20intersection.pdf "Tricks for pairwise intersection.pdf")
+
+
+
+
+
+
+
+ | 
+
+[Tricks for pairwise intersection.pdf](https://github.com/LiangliangNan/PolyFit/blob/main/Tricks%20for%20pairwise%20intersection.pdf "Tricks for pairwise intersection.pdf")
+
+
+
+
+
+
+
+ | 
+
+[Updated Visual Studio project file](https://github.com/LiangliangNan/PolyFit/commit/37fbb00d72554d81cdef9c19bc6419a0d45ccef8 "Updated Visual Studio project file")
+
+
+
+ | 
+
+Mar 20, 2018
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/LiangliangNan/PolyFit?screenshot=true#)
+*   [GPL-3.0 license](https://github.com/LiangliangNan/PolyFit?screenshot=true#)
+
+**[![Image 13](https://camo.githubusercontent.com/bb12a1f8e73d4531f57249e3171c07584a387560a2dd94211eb388e1d7d0b924/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537570706f72746564253230506c6174666f726d732d57696e646f77732532302537432532306d61634f532532302537432532304c696e75782d677265656e)](https://camo.githubusercontent.com/bb12a1f8e73d4531f57249e3171c07584a387560a2dd94211eb388e1d7d0b924/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537570706f72746564253230506c6174666f726d732d57696e646f77732532302537432532306d61634f532532302537432532304c696e75782d677265656e)**  
+**[![Image 14](https://camo.githubusercontent.com/ad46380f9474650a1795e84ed9e073de365c4db1067e243967f2d937c3b48f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c2d626c7565)](https://camo.githubusercontent.com/ad46380f9474650a1795e84ed9e073de365c4db1067e243967f2d937c3b48f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c2d626c7565)**
+
+Polygonal surface reconstruction from point clouds
+==================================================
+
+[](https://github.com/LiangliangNan/PolyFit?screenshot=true#polygonal-surface-reconstruction-from-point-clouds)
+
+(implemented with C++ & with Python bindings)
+
+[![Image 15](https://github.com/LiangliangNan/PolyFit/raw/main/images/polyfit.png)](https://github.com/LiangliangNan/PolyFit/blob/main/images/polyfit.png)
+
+PolyFit reconstruction pipeline
+
+PolyFit implements the hypothesis and selection based surface reconstruction method described in the following [paper](https://3d.bk.tudelft.nl/liangliang/publications/2017/polyfit/polyfit.html):
+
+```
+Liangliang Nan and Peter Wonka. 
+PolyFit: Polygonal Surface Reconstruction from Point Clouds. 
+ICCV 2017.
+```
+
+* * *
+
+### Obtaining PolyFit
+
+[](https://github.com/LiangliangNan/PolyFit?screenshot=true#obtaining-polyfit)
+
+Prebuilt executable files (for **macOS**, **Linux**, and **Windows**) are available [here](https://github.com/LiangliangNan/PolyFit/releases).
+
+You can also build PolyFit from the source code:
+
+*   Clone the repository or download the [source code](https://github.com/LiangliangNan/PolyFit).
+    
+*   Dependencies
+    
+    *   [Qt](https://www.qt.io/) ([v5.14.2](https://download.qt.io/archive/qt/5.14/5.14.2/), [v5.12.12](https://download.qt.io/archive/qt/5.12/5.12.12/), and [v6.7.3](https://www.qt.io/download-qt-installer-oss) have been tested). Qt is required by the [GUI demo](https://github.com/LiangliangNan/PolyFit/blob/main/code/PolyFit). You should still be able to build the [command-line example](https://github.com/LiangliangNan/PolyFit/blob/main/Example) without Qt.
+    *   [CGAL](http://www.cgal.org/index.html) (v6.0, v5.5, v5.0, v4.11.1, and v4.10 were tested).
+*   Build PolyFit
+    
+    There are many options to build PolyFit. Choose one of the following (not an exhaustive list):
+    
+    *   Option 1 (purely on the command line): Use CMake to generate Makefiles and then `make` (on Linux/macOS) or `nmake`(on Windows with Microsoft Visual Studio).
+        
+        *   On Linux or macOS
+            
+            ```
+            $ cd PolyFit
+            $ mkdir Release
+            $ cd Release
+            $ cmake -DCMAKE_BUILD_TYPE=Release ..
+            $ make
+            ```
+            
+        *   On Windows with Microsoft Visual Studio, use the `x64 Native Tools Command Prompt for VS XXXX` (don't use the x86 one), then
+            
+            ```
+            $ cd PolyFit
+            $ mkdir Release
+            $ cd Release
+            $ cmake -G "NMake Makefiles" -DCMAKE_BUILD_TYPE=Release ..
+            $ nmake
+            ```
+            
+    *   Option 2: Use any IDE that can directly handle CMakeLists files to open the `CMakeLists.txt` in the **root** directory of PolyFit. Then you should have obtained a usable project and just build it. I recommend using [CLion](https://www.jetbrains.com/clion/) or [QtCreator](https://www.qt.io/product). For Windows users: your IDE must be set for `x64`.
+        
+    *   Option 3: Use CMake-Gui to generate project files for your favorite IDE. Then load the project to your IDE and build it. For Windows users: your IDE must be set for `x64`.
+        
+    
+    Don't have any experience with C/C++ programming? Have a look at [How to build PolyFit step by step](https://github.com/LiangliangNan/PolyFit/blob/main/code/How_to_build.md).
+    
+    **News**: Since Aug. 5, 2019, PolyFit is also available in [CGAL](https://www.cgal.org/). Find more [here](https://www.cgal.org/2019/08/05/Polygonal_surface_reconstruction/).
+    
+
+* * *
+
+### Run PolyFit
+
+[](https://github.com/LiangliangNan/PolyFit?screenshot=true#run-polyfit)
+
+This repository includes the following executable programs:
+
+*   [two command-line examples in C++](https://github.com/LiangliangNan/PolyFit/blob/main/code/Examples);
+*   [two examples in Python](https://github.com/LiangliangNan/PolyFit/blob/main/code/python/Examples);
+*   [a GUI demo](https://github.com/LiangliangNan/PolyFit/blob/main/code/PolyFit), which provides a user interface with a few buttons and screen hints.
+
+[![Image 16](https://github.com/LiangliangNan/PolyFit/raw/main/images/gui.png)](https://github.com/LiangliangNan/PolyFit/blob/main/images/gui.png)
+
+* * *
+
+### Data
+
+[](https://github.com/LiangliangNan/PolyFit?screenshot=true#data)
+
+Some test data can be downloaded from the [project page](https://3d.bk.tudelft.nl/liangliang/publications/2017/polyfit/polyfit.html).
+
+More information about the data (e.g., data format) is described [here](https://github.com/LiangliangNan/PolyFit/blob/main/data/ReadMe-data.md).
+
+**Plane extraction**. Incorporating plane extraction adds an unnecessary dependency to more third-party libraries (e.g., [RANSAC](http://cg.cs.uni-bonn.de/en/publications/paper-details/schnabel-2007-efficient/)). Besides, it has some randomness (due to the nature of RANSAC) and the data quality can vary a lot (it should be fine if some regions of the planes are missing). So I isolated this part from this demo version and you're expected to provide the planar segments as input.
+
+You can use [Easy3D's Mapple](https://github.com/LiangliangNan/Easy3D/releases) to extract planes from point clouds. After you load the point cloud to Mapple, go to the menu 'Point Cloud' -\> "RANSAC primitive extraction', select "Plane" as the target primitive type, tune the parameters (if needed), and then click the "Extract" button. Then the extracted planar primitives will be visualized with each primitive randomly colored. You can save the extracted planes into a file in 'bvg' (**B**inary **V**ertex **G**roup) format. The ASCII 'vg' format also works but is slower. Please note, PolyFit assumes that the model is closed and all necessary planes are provided.
+
+* * *
+
+### About the solvers
+
+[](https://github.com/LiangliangNan/PolyFit?screenshot=true#about-the-solvers)
+
+Two solvers, namely Gurobi and SCIP (with source code), are provided in PolyFit. The Gurobi solver is more efficient and reliable and should always be your first choice. To use Gurobi, you need to install it and also obtain a license (free for academic use) from [here](https://www.gurobi.com/downloads/end-user-license-agreement-academic/). You may also need to modify the path(s) to Gurobi in [FindGUROBI.cmake](https://github.com/LiangliangNan/PolyFit/blob/main/code/cmake/FindGUROBI.cmake), for CMake to find Gurobi. In case you want a fast but open-source solver, please try SCIP, which is slower than Gurobi but acceptable. The GLPK and lp\_solve solvers (only available in previous PolyFit distributions) can only manage to solve small problems. They are too slow (and thus may not guarantee to succeed). For example the data "Fig1", Gurobi takes only 0.02 seconds, while lp\_solve 15 minutes.
+
+**Note for Linux users:** You may have to build the Gurobi library (`libgurobi_c++.a`) because the prebuilt one in the original package might NOT be compatible with your compiler. To do so, go to `src/build` and run `make`. Then replace the original `libgurobi_c++.a` (in the `lib` directory) with your generated file.
+
+### About the timing
+
+[](https://github.com/LiangliangNan/PolyFit?screenshot=true#about-the-timing)
+
+This demo implementation incorporates a progress logger in the user interface. Thus, running times should be (slightly) longer than those reported in our paper.
+
+* * *
+
+### Citation
+
+[](https://github.com/LiangliangNan/PolyFit?screenshot=true#citation)
+
+If you use the code/program (or part) of PolyFit in scientific work, please cite our paper:
+
+```bibtex
+@inproceedings{nan2017polyfit,
+  title={Polyfit: Polygonal surface reconstruction from point clouds},
+  author={Nan, Liangliang and Wonka, Peter},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={2353--2361},
+  year={2017}
+}
+```
+
+* * *
+
+### License
+
+[](https://github.com/LiangliangNan/PolyFit?screenshot=true#license)
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License or (at your option) any later version. The full text of the license can be found in the accompanying LICENSE file.
+
+* * *
+
+Should you have any questions, comments, or suggestions, please contact me at: [liangliang.nan@gmail.com](mailto:liangliang.nan@gmail.com)
+
+**_Liangliang Nan_**
+
+[https://3d.bk.tudelft.nl/liangliang/](https://3d.bk.tudelft.nl/liangliang/)
+
+July 18, 2017
+
+Copyright (C) 2017
+
+About
+-----
+
+Polygonal Surface Reconstruction from Point Clouds (C++ & Python)
+
+[3d.bk.tudelft.nl/liangliang/publications/2017/polyfit/polyfit.html](https://3d.bk.tudelft.nl/liangliang/publications/2017/polyfit/polyfit.html "https://3d.bk.tudelft.nl/liangliang/publications/2017/polyfit/polyfit.html")
+
+### Topics
+
+[surface-reconstruction](https://github.com/topics/surface-reconstruction "Topic: surface-reconstruction") [urban-reconstruction](https://github.com/topics/urban-reconstruction "Topic: urban-reconstruction") [urban-modeling](https://github.com/topics/urban-modeling "Topic: urban-modeling") [primitive-extraction](https://github.com/topics/primitive-extraction "Topic: primitive-extraction") [piecewise-planar-object](https://github.com/topics/piecewise-planar-object "Topic: piecewise-planar-object") [sharp-feature](https://github.com/topics/sharp-feature "Topic: sharp-feature") [linear-integer-programming](https://github.com/topics/linear-integer-programming "Topic: linear-integer-programming") [hypothesis-and-selection](https://github.com/topics/hypothesis-and-selection "Topic: hypothesis-and-selection")
+
+### Resources
+
+[Readme](https://github.com/LiangliangNan/PolyFit?screenshot=true#readme-ov-file)
+
+### License
+
+[GPL-3.0 license](https://github.com/LiangliangNan/PolyFit?screenshot=true#GPL-3.0-1-ov-file)
+
+[Activity](https://github.com/LiangliangNan/PolyFit/activity)
+
+### Stars
+
+[**744** stars](https://github.com/LiangliangNan/PolyFit/stargazers)
+
+### Watchers
+
+[**31** watching](https://github.com/LiangliangNan/PolyFit/watchers)
+
+### Forks
+
+[**122** forks](https://github.com/LiangliangNan/PolyFit/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FLiangliangNan%2FPolyFit&report=LiangliangNan+%28user%29)
+
+[Releases 5](https://github.com/LiangliangNan/PolyFit/releases)
+---------------------------------------------------------------
+
+[PolyFit\_v1.5 Latest Jan 27, 2021](https://github.com/LiangliangNan/PolyFit/releases/tag/v1.5)
+
+[\+ 4 releases](https://github.com/LiangliangNan/PolyFit/releases)
+
+[Packages 0](https://github.com/users/LiangliangNan/packages?repo_name=PolyFit)
+-------------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 4](https://github.com/LiangliangNan/PolyFit/graphs/contributors)
+------------------------------------------------------------------------------
+
+*    [![Image 17: @LiangliangNan](https://avatars.githubusercontent.com/u/15526536?s=64&v=4)](https://github.com/LiangliangNan)[**LiangliangNan** Liangliang Nan](https://github.com/LiangliangNan)
+*    [![Image 18: @StOriJimmy](https://avatars.githubusercontent.com/u/9996794?s=64&v=4)](https://github.com/StOriJimmy)[**StOriJimmy** Xinyi Liu](https://github.com/StOriJimmy)
+*    [![Image 19: @drkoller](https://avatars.githubusercontent.com/u/10689595?s=64&v=4)](https://github.com/drkoller)[**drkoller** David Koller](https://github.com/drkoller)
+*    [![Image 20: @bkhanal-11](https://avatars.githubusercontent.com/u/43448240?s=64&v=4)](https://github.com/bkhanal-11)[**bkhanal-11** Bishwash Khanal](https://github.com/bkhanal-11)
+
+Languages
+---------
+
+*   [C++ 95.1%](https://github.com/LiangliangNan/PolyFit/search?l=c%2B%2B)
+*   [CMake 3.5%](https://github.com/LiangliangNan/PolyFit/search?l=cmake)
+*   [Python 1.4%](https://github.com/LiangliangNan/PolyFit/search?l=python)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

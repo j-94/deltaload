@@ -1,0 +1,235 @@
+Getting Started - Hasura PromptQL
+===============
+
+[![Image 3: QL Logo](https://promptql.hasura.io/ql-logo-dark.svg)](https://promptql.hasura.io/)
+
+[Sign Up](https://promptql.console.hasura.io/?pg=promptql_docs&plcmt=header&cta=sign-up)[Docs](https://promptql.hasura.io/docs)
+
+[GitHub](https://github.com/hasura/graphql-engine)
+
+*   [Overview](https://promptql.hasura.io/docs)
+*   [Getting started](https://promptql.hasura.io/docs/getting-started)
+*   [Deploy and share](https://promptql.hasura.io/docs/deploy-and-share)
+*   Notes
+    
+    *   [100% Accuracy with RAG](https://promptql.hasura.io/docs/notes/rag-hundred-percent-accuracy)
+    
+*   Guides
+    
+    *   [Starting from scratch](https://promptql.hasura.io/docs/guides/start-scratch)
+    *   [Connect Structured PostgreSQL](https://promptql.hasura.io/docs/guides/connecting-structured-data)
+    *   [Connect Structured Snowlfake](https://promptql.hasura.io/docs/guides/connecting-structured-snowflake)
+    *   [Connect APIs - Bulk data](https://promptql.hasura.io/docs/guides/connecting-apis-bulk-data)
+    *   [Connect APIs directly](https://promptql.hasura.io/docs/guides/connecting-api-endpoints)
+    *   [Connect Unstructured Data](https://promptql.hasura.io/docs/guides/connecting-unstructured-data)
+    *   [Existing DDN project](https://promptql.hasura.io/docs/guides/existing-project)
+    *   [PromptQL Guide](https://promptql.hasura.io/docs/guides/promptql-guide)
+    *   [PromptQL Program API](https://promptql.hasura.io/docs/guides/program-api)
+    
+*   Tutorials
+    
+    *   [Apple Health Assistant](https://promptql.hasura.io/docs/tutorials/apple-health-assistant)
+    *   [Huggingface Datasets](https://promptql.hasura.io/docs/tutorials/huggingface-csv-parquet-sqlite)
+    *   [Kaggle Datasets](https://promptql.hasura.io/docs/tutorials/kaggle-csv-sqlite)
+    *   [DuckDuckGo Web Search](https://promptql.hasura.io/docs/tutorials/duckduckgo-web-search)
+    *   [Realtime Chat with BART API](https://promptql.hasura.io/docs/tutorials/bart-api)
+    
+
+On This Page
+
+*   [Setup](https://promptql.hasura.io/docs/example-github#setup)
+*   [Install the DDN CLI](https://promptql.hasura.io/docs/example-github#install-the-ddn-cli)
+*   [Install Docker](https://promptql.hasura.io/docs/example-github#install-docker)
+*   [Log in with the CLI](https://promptql.hasura.io/docs/example-github#log-in-with-the-cli)
+*   [Validate the installation](https://promptql.hasura.io/docs/example-github#validate-the-installation)
+*   [Build your PromptQL app](https://promptql.hasura.io/docs/example-github#build-your-promptql-app)
+*   [Clone the example project](https://promptql.hasura.io/docs/example-github#clone-the-example-project)
+*   [Set up your .env file](https://promptql.hasura.io/docs/example-github#set-up-your-env-file)
+*   [Set up your GitHub repo](https://promptql.hasura.io/docs/example-github#set-up-your-github-repo)
+*   [Setup your DDN project](https://promptql.hasura.io/docs/example-github#setup-your-ddn-project)
+*   [Fire up your PromptQL project](https://promptql.hasura.io/docs/example-github#fire-up-your-promptql-project)
+*   [Restarting the app](https://promptql.hasura.io/docs/example-github#restarting-the-app)
+*   [Act on your data](https://promptql.hasura.io/docs/example-github#act-on-your-data)
+*   [Open the PromptQL playground](https://promptql.hasura.io/docs/example-github#open-the-promptql-playground)
+*   [Ask questions about your GitHub repo](https://promptql.hasura.io/docs/example-github#ask-questions-about-your-github-repo)
+
+[Question? Give us feedback →](https://github.com/hasura/graphql-engine/issues/new?title=Feedback%20for%20%E2%80%9CGetting%20Started%E2%80%9D&labels=feedback)Scroll to top
+
+[Docs](https://promptql.hasura.io/docs "Docs")Getting started
+
+Getting started
+===============
+
+In this getting started guide, you’ll get hands on experience with PromptQL and the GitHub connector. We will be building a “Github Issues” assistant.
+
+You will learn how to:
+
+*   Set up PromptQL to work with a GitHub issues and pull requests.
+    *   You will be able to do natural language query to triage feature requests, bugs and other issues with your connected Github repository.
+*   Install all required prerequisites.
+*   Create and configure the necessary API keys.
+*   Run your PromptQL project in a local environment.
+*   Ask your questions with PromptQL playground.
+
+Setup[](https://promptql.hasura.io/docs/example-github#setup)
+-------------------------------------------------------------
+
+### Install the DDN CLI[](https://promptql.hasura.io/docs/example-github#install-the-ddn-cli)
+
+MacOS or LinuxWindows
+
+`bash copy curl -L https://graphql-engine-cdn.hasura.io/ddn/cli/v4/get.sh | bash `
+
+*   Download the latest
+    
+    [DDN CLI installer for Windows.](https://graphql-engine-cdn.hasura.io/ddn/cli/v4/latest/DDN_CLI_Setup.exe)
+  
+*   Run the `DDN_CLI_Setup.exe` installer file and follow the instructions. This will only take a minute.
+*   The DDN CLI is added to your `%PATH%` environment variable so that you can use the `ddn` command from your terminal.
+    
+
+### Install Docker[](https://promptql.hasura.io/docs/example-github#install-docker)
+
+Follow the instructions on the [Docker website](https://docs.docker.com/engine/install/) to install Docker on your machine.
+
+### Log in with the CLI[](https://promptql.hasura.io/docs/example-github#log-in-with-the-cli)
+
+Logging in allows you to connect to the PromptQL runtime which is necessary for development. It also allows you to deploy your project to Hasura DDN.
+
+```
+ddn auth login
+```
+
+You will be redirected to DDN signup/login page.
+
+### Validate the installation[](https://promptql.hasura.io/docs/example-github#validate-the-installation)
+
+You can verify that the DDN CLI is installed correctly by running:
+
+```
+ddn doctor
+```
+
+Build your PromptQL app[](https://promptql.hasura.io/docs/example-github#build-your-promptql-app)
+-------------------------------------------------------------------------------------------------
+
+### Clone the example project[](https://promptql.hasura.io/docs/example-github#clone-the-example-project)
+
+The [example project](https://github.com/hasura/example-promptql-github) is already set up to connect PromptQL to any GitHub repo.
+
+```
+git clone git@github.com:hasura/example-promptql-github.git
+cd example-promptql-github
+```
+
+### Set up your .env file[](https://promptql.hasura.io/docs/example-github#set-up-your-env-file)
+
+Set up your .env file with your GitHub API token.
+
+```
+cp .env.example .env
+```
+
+**Add GitHub API token to .env**
+
+For the Github integration. Create an API token from [https://github.com/settings/tokens](https://github.com/settings/tokens)
+
+```
+# .env
+ 
+...
+GITHUB_API_TOKEN=<GITHUB_API_TOKEN>
+```
+
+This token only needs read access to the repo you are interested in.
+
+![Image 4: Example: PromptQL on GitHub](https://promptql.hasura.io/_next/image?url=%2Fgithub-permissions-dark.png&w=2048&q=75)
+
+### Set up your GitHub repo[](https://promptql.hasura.io/docs/example-github#set-up-your-github-repo)
+
+Head to `app/connector/github/index.ts` and change the org name and the repo name to something you’d like:
+
+```
+// index.ts
+ 
+...
+  const manager = new GitHubIssueSyncManager('<org-name>', '<repo-name>');
+  if (!process.env.GITHUB_API_TOKEN) {
+...
+```
+
+### Setup your DDN project[](https://promptql.hasura.io/docs/example-github#setup-your-ddn-project)
+
+This will create a Hasura DDN cloud project and set up PromptQL keys to connect to the PromptQL runtime.
+
+```
+ddn project init
+```
+
+### Fire up your PromptQL project[](https://promptql.hasura.io/docs/example-github#fire-up-your-promptql-project)
+
+Build your supergraph.
+
+```
+ddn supergraph build local
+```
+
+Then bring up the PromptQL API server, the engine and the connector
+
+```
+ddn run docker-start
+```
+
+You’ll notice in amongst your Docker logs that your github synchronization has started.
+
+Docker logs
+
+\[2024-01-01 12:00:01\] Starting GitHub sync…  
+\[2024-01-01 12:00:02\] Fetching repository metadata…
+
+  
+\[2024-01-01 12:00:03\] Syncing issues and pull requests…
+
+  
+\[2024-01-01 12:00:04\] Loading repository contents…
+
+  
+\[2024-01-01 12:00:05\] GitHub sync complete
+
+If the specified repo has many issues or comments it may take some time to get them all and you may be rate limited. That’s ok, you can go ahead and try PromptQL without the process having fully finished yet.
+
+If you notice some logs regarding GitHub permissions, check that your GitHub API token has the correct permissions for the repo you’re trying to access.
+
+### Restarting the app[](https://promptql.hasura.io/docs/example-github#restarting-the-app)
+
+If you made a mis-step or want to start from scratch, simply restarting the docker containers will reset all state including any loaded data.
+
+```
+ddn run docker-start
+```
+
+Act on your data[](https://promptql.hasura.io/docs/example-github#act-on-your-data)
+-----------------------------------------------------------------------------------
+
+### Open the PromptQL playground[](https://promptql.hasura.io/docs/example-github#open-the-promptql-playground)
+
+In another terminal, run
+
+```
+ddn console --local
+```
+
+Browser support: PromptQL playground is supported on all browsers except Firefox and Safari. Support for these browsers should be available shortly.
+
+### Ask questions about your GitHub repo[](https://promptql.hasura.io/docs/example-github#ask-questions-about-your-github-repo)
+
+The console is a web app hosted at console.hasura.io that connects to your local PromptQL API and data sources. Your data is processed in the DDN PromptQL runtime but isn’t persisted externally.
+
+Head over to the console and ask a few questions about your GitHub repo.
+
+```
+> What are the open pull requests?
+> What kind of questions can I ask?
+```
+
+[Overview](https://promptql.hasura.io/docs "Overview")[Deploy and share](https://promptql.hasura.io/docs/deploy-and-share "Deploy and share")

@@ -1,0 +1,264 @@
+Agentic Platforms Foundational Stack for Autonomous Operations Delivered
+------------------------------------------------------------------------
+
+Akira AI
+
+Turn AI in your Applications into Agents and Agentic Automation
+---------------------------------------------------------------
+
+Agentic AI native platform to adapt, learn and innovate with Intelligent AI Agents while driving efficiency and agility
+
+![Image 137: product-icon-one](https://www.xenonstack.com/hubfs/product-icon-one.svg)
+
+### Multi-Agent Systems
+
+Distributed System consists of multiple decision-making agents that can adapt, learn and act autonomously in a shared environment to achieve common or conflicting goals.
+
+![Image 138: product-icon-two](https://www.xenonstack.com/hubfs/product-icon-two.svg)
+
+### Agentic Analytics
+
+Integration of AI agents that act autonomously within data and analytics workflows to optimize decision-making and streamline processes.
+
+![Image 139: product-icon-three](https://www.xenonstack.com/hubfs/product-icon-three.svg)
+
+### Agentic AI Systems
+
+Autonomous, Flexible, Precise and Intuitive Agents with diverse capabilities to complex workflows, data-driven decision-making.
+
+[Explore Further ![Image 140: button-arrow](https://www.xenonstack.com/hubfs/button-white-arrow.svg)](https://www.akira.ai/)
+
+![Image 141: ai-into-your-application-akiraai](https://www.xenonstack.com/hubfs/ai-into-your-application-akiraai.svg)
+
+ElixirData
+
+Decision AI – Model and Track Decision
+--------------------------------------
+
+Decision and Contextual Intelligence with Composite AI for decision-centric user interface to automate and augment decision making
+
+![Image 142: product-icon-one](https://www.xenonstack.com/hubfs/product-icon-one.svg)
+
+### Decision Modeling
+
+Design Agentic workflows by combining Data, context and AI to make fast, accurate and reliable.
+
+![Image 143: product-icon-two](https://www.xenonstack.com/hubfs/product-icon-two.svg)
+
+### Decision Reasoning
+
+Orchestrating Decision Management with Business rules, Knowledge graph and AI Agents for prescriptive and actionable recommendations.
+
+![Image 144: product-icon-three](https://www.xenonstack.com/hubfs/product-icon-three.svg)
+
+### Decision Action and Review
+
+Evaluating, Monitoring the decisions and Retaining decision artifacts and conducting decision retrospective.
+
+[Explore Further ![Image 145: button-arrow](https://www.xenonstack.com/hubfs/button-white-arrow.svg)](https://www.elixirdata.co/)
+
+![Image 146: decision-ai-model-and-track-decision](https://www.xenonstack.com/hubfs/decision-ai-model-and-track-decision.svg)
+
+XenonStack AI
+
+Build Visual AI Agents for Autonomous Decision Making
+-----------------------------------------------------
+
+Highly perceptive, accurate, and interactive visual AI agents to make better decisions using richer insights generated from natural interactions
+
+![Image 147: product-icon-one](https://www.xenonstack.com/hubfs/product-icon-one.svg)
+
+### Visual AI Agents
+
+Vision Language Models, VLM's allow users to interact with images and videos using natural language, gaining contextual insights.
+
+![Image 148: product-icon-two](https://www.xenonstack.com/hubfs/product-icon-two.svg)
+
+### AI vision at the EDGE
+
+Agentic Workflows for building EDGE AI applications and integrating into any Enterprise Systems and Applications for High Availability, reduced cost, Device Intelligence and Increased Privacy.
+
+![Image 149: product-icon-three](https://www.xenonstack.com/hubfs/product-icon-three.svg)
+
+### Autonomous Stores
+
+Autonomous Retail Stores with Agentic AI and Visual Agents enabling safety and hygiene with personalized experiences and valuable real-time insights and better inventory management and purchasing decisions to improve store efficiently.
+
+[Explore Further ![Image 150: button-arrow](https://www.xenonstack.com/hubfs/button-white-arrow.svg)](https://www.xenonstack.ai/)
+
+![Image 151: visual-ai-agents-for-autonomous-decision](https://www.xenonstack.com/hubfs/visual-ai-agents-for-autonomous-decision.svg)
+
+NexaStack
+
+Build and Manage Compound AI Systems
+------------------------------------
+
+Private Cloud AI Compute Engine for unstructured data processing and AI workloads on Hardware Accelerators
+
+![Image 152: product-icon-one](https://www.xenonstack.com/hubfs/product-icon-one.svg)
+
+### AI Model Training and Fine-tuning
+
+AI training model to perform specific tasks by providing it large amounts of data from scratch and Fine tuning enables and adapt AI models to specific tasks without starting from scratch.
+
+![Image 153: product-icon-two](https://www.xenonstack.com/hubfs/product-icon-two.svg)
+
+### AI Model Serving
+
+Unified Platform to deploy, govern, and query AI and ML models for real-time and batch inference for Cloud and On-premises Environments.
+
+![Image 154: product-icon-three](https://www.xenonstack.com/hubfs/product-icon-three.svg)
+
+### Private AI Cloud Compute
+
+Private Cloud Compute is custom-built server hardware that brings the power and security with Stateless computation and enforceable guarantees, No privileged runtime access, Non-targetability and Verifiable transparency.
+
+[Explore Further ![Image 155: button-arrow](https://www.xenonstack.com/hubfs/button-white-arrow.svg)](https://nexastack.ai/)
+
+![Image 156: build-and-manage-compound-ai-systems](https://www.xenonstack.com/hubfs/build-and-manage-compound-ai-systems.svg)
+
+![Image 157: models-left](https://www.xenonstack.com/hubfs/second-mid-banner-left.svg)
+
+AI Labs as Services AILaaS on On-Premises with AkiraStack
+---------------------------------------------------------
+
+Composable Platform provides scalable, customizable, and cost-effective solution for colleges and universities for building Innovation and research Labs
+
+![Image 158: models-right](https://www.xenonstack.com/hubfs/second-mid-banner-right.svg)
+
+MetaSecure
+
+Manage AI Risk and AI Application Security
+------------------------------------------
+
+AI risk management involves Data , Model, operational, Ethical and compliance risks for identifying and addressing vulnerabilities and threats for Agentic Systems
+
+![Image 159: product-icon-one](https://www.xenonstack.com/hubfs/product-icon-one.svg)
+
+### Autonomous SoC
+
+Enabling faster threat detection, containment, investigation and response. Eliminating alert fatigue and hyperautomation of Case Management with Agentic AI and Augment Soc Analysts with Aviators and Droids.
+
+![Image 160: product-icon-two](https://www.xenonstack.com/hubfs/product-icon-two.svg)
+
+### Red Team for AI Agents and Enterprise AI Workflows
+
+To identify and explore potential risks in an AI system by simulating real-world attacks, including malicious inputs, biased data, or adversarial manipulation attempts with structured way including leaks of sensitive data and generated content.
+
+![Image 161: product-icon-three](https://www.xenonstack.com/hubfs/product-icon-three.svg)
+
+### AI Software Supply Chain
+
+AI Application Security involves AI Security and AI Safety and Putting AI risk management framework into action with Visibility through an AI-BOM, Proactive risk mitigation with context and Threat detection in AI pipelines.
+
+[Explore Further ![Image 162: button-arrow](https://www.xenonstack.com/hubfs/button-white-arrow.svg)](https://metasecure.ai/)
+
+![Image 163: manage-ai-risk-metasecure](https://www.xenonstack.com/hubfs/manage-ai-risk-metasecure.svg)
+
+Neural AI OS
+
+Neural AI OS - Framework for Development of Responsible AI Applications
+-----------------------------------------------------------------------
+
+Identifying potential Risks, assessing data biases, assuring transparency and explainability, mitigating risks with privacy by design, continuous monitoring and evaluation, and defined accountability structure and metrics
+
+![Image 164: product-icon-one](https://www.xenonstack.com/hubfs/product-icon-one.svg)
+
+### AI Assurance
+
+Combining AI Guardrails and LLM Evaluation Towards Trustworthy, Explainable, Safe, and Ethical AI.
+
+![Image 165: product-icon-two](https://www.xenonstack.com/hubfs/product-icon-two.svg)
+
+### AI Engineering
+
+Human- Machine Interface design principles, privacy by design to build Safe AI Systems with combining systems engineering principles, software engineering and computer science.
+
+![Image 166: product-icon-three](https://www.xenonstack.com/hubfs/product-icon-three.svg)
+
+### Cloud Architecture – AI and ML Perspective
+
+Multi-Cloud Well-Architected Framework define principles and methods to design, build, and manage AI and ML Systems for operational, security, reliability, cost, and performance goals.
+
+[Explore Further ![Image 167: button-arrow](https://www.xenonstack.com/hubfs/button-white-arrow.svg)](https://www.xenonstack.com/neural-ai/)
+
+![Image 168: neural-ai-os-framework-for-development](https://www.xenonstack.com/hubfs/neural-ai-os-framework-for-development.svg)
+
+Industries
+----------
+
+How Industries and different departments use Agentic Workflows and Decision Intelligence to Become Decision Centric.
+
+![Image 169: aerospace-and-aviation](https://www.xenonstack.com/hubfs/aerospace-and-aviation.svg)
+
+### Aerospace and Aviation
+
+Revolutionizing travel with advanced tech for faster, safer air and space journeys
+
+![Image 170: financial-services](https://www.xenonstack.com/hubfs/financial-services.svg)
+
+### Financial Services
+
+Autonomous operations boost financial services by improving accuracy, speed, and efficiency
+
+![Image 171: automotive-and-industrial](https://www.xenonstack.com/hubfs/automotive-and-industrial.svg)
+
+### Automotive and Industrial
+
+Automotive and industrial sectors with improved precision, speed, and efficiency
+
+![Image 172: technology](https://www.xenonstack.com/hubfs/technology.svg)
+
+### Technology
+
+Boosting the tech industry with faster, more precise, and highly efficient processes
+
+![Image 173: consumer-tech](https://www.xenonstack.com/hubfs/consumer-tech.svg)
+
+### Consumer Tech
+
+Enhancing consumer tech with smarter, faster, and more reliable performance for daily life
+
+![Image 174: supply-chain](https://www.xenonstack.com/hubfs/supply-chain.svg)
+
+### Supply Chain
+
+Supply chains advance with autonomous tech, boosting efficiency, reducing costs, and staying competitive
+
+![Image 175: hospitality-and-tourism](https://www.xenonstack.com/hubfs/hospilaity-and-tourism.svg)
+
+### Hospitality and Tourism
+
+Elevating hospitality and tourism with smart tech for seamless, efficient guest experiences
+
+XAI Bootcamps
+-------------
+
+XenonStack XAI Bootcamps helps Enterprises to understand how to Infuse AI into Processes and Enterprise Systems and Reimagined the Enterprise workflows and developed initial use cases and onboarded and trained the resources for production environments.
+
+[Explore Further ![Image 176: button-arrow](https://www.xenonstack.com/hubfs/button-white-arrow.svg)](https://www.xenonstack.com/xenonstack-academy/)
+
+![Image 177: xai-bootcamp](https://www.xenonstack.com/hubfs/xai-bootcamp-1.svg)
+
+Take the Next Step
+------------------
+
+Reach out to our experts and discover how the Agentic AI system is transforming industries! By harnessing the power of Agentic workflow and Decision Intelligence, businesses can become truly decision-centric.
+
+![Image 178: become-xenonstack](https://www.xenonstack.com/hubfs/become-a-xenonstack.svg)
+
+Become XenonStack
+
+Get Started with XenonStack
+---------------------------
+
+Growth-oriented, open-minded thinker that thrives on change? You belong at XenonStack
+
+![Image 179: technology-insights](https://www.xenonstack.com/hubfs/technology-insights.svg)
+
+Resources
+
+Technology Insights
+-------------------
+
+Deep dive into Technology Enablers and advancements, Evolving Tech Landscape

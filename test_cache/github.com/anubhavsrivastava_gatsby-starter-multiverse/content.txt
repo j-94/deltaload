@@ -1,0 +1,866 @@
+GitHub - anubhavsrivastava/gatsby-starter-multiverse: Gatsby.js V2 starter template based on multiverse by HTML5 UP
+===============
+                                           
+
+[Skip to content](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fanubhavsrivastava%2Fgatsby-starter-multiverse%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fanubhavsrivastava%2Fgatsby-starter-multiverse%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=anubhavsrivastava%2Fgatsby-starter-multiverse) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[anubhavsrivastava](https://github.com/anubhavsrivastava) / **[gatsby-starter-multiverse](https://github.com/anubhavsrivastava/gatsby-starter-multiverse)** Public
+
+*   Sponsor
+    
+    Sponsor anubhavsrivastava/gatsby-starter-multiverse
+    ===================================================
+    
+    ##### GitHub Sponsors
+    
+    [Learn more about Sponsors](https://github.com/sponsors)
+    
+    [![Image 18: @anubhavsrivastava](https://avatars.githubusercontent.com/u/6449301?s=80&v=4)](https://github.com/anubhavsrivastava)
+    
+    [anubhavsrivastava](https://github.com/anubhavsrivastava)
+    
+    [anubhavsrivastava](https://github.com/anubhavsrivastava)
+    
+    [Sponsor](https://github.com/sponsors/anubhavsrivastava)
+    
+    ##### External links
+    
+    ![Image 19: patreon](https://github.githubassets.com/assets/patreon-96b15b9db4b9.svg)
+    
+    [patreon.com/**theanubhav**](https://patreon.com/theanubhav)
+    
+    ![Image 20: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)
+    
+    [opencollective.com/**onlyanubhav**](https://opencollective.com/onlyanubhav)
+    
+    ![Image 21: ko_fi](https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg)
+    
+    [ko-fi.com/**theanubhav**](https://ko-fi.com/theanubhav)
+    
+    [https://donorbox.org/theanubhav](https://donorbox.org/theanubhav)
+    
+    [https://www.buymeacoffee.com/theanubhav](https://www.buymeacoffee.com/theanubhav)
+    
+    [https://paypal.me/onlyanubhav](https://paypal.me/onlyanubhav)
+    
+    [https://theanubhav.com/sponsor](https://theanubhav.com/sponsor)
+    
+    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
+    
+    [Report abuse](https://github.com/contact/report-abuse?report=anubhavsrivastava%2Fgatsby-starter-multiverse+%28Repository+Funding+Links%29)
+    
+*   [Notifications](https://github.com/login?return_to=%2Fanubhavsrivastava%2Fgatsby-starter-multiverse) You must be signed in to change notification settings
+*   [Fork 10](https://github.com/login?return_to=%2Fanubhavsrivastava%2Fgatsby-starter-multiverse)
+*   [Star 19](https://github.com/login?return_to=%2Fanubhavsrivastava%2Fgatsby-starter-multiverse)
+    
+
+Gatsby.js V2 starter template based on multiverse by HTML5 UP
+
+[anubhavsrivastava.github.io/gatsby-starter-multiverse/](https://anubhavsrivastava.github.io/gatsby-starter-multiverse/ "https://anubhavsrivastava.github.io/gatsby-starter-multiverse/")
+
+[19 stars](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/stargazers) [10 forks](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/forks) [Branches](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/branches) [Tags](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/tags) [Activity](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/activity)
+
+[Star](https://github.com/login?return_to=%2Fanubhavsrivastava%2Fgatsby-starter-multiverse)
+
+[Notifications](https://github.com/login?return_to=%2Fanubhavsrivastava%2Fgatsby-starter-multiverse) You must be signed in to change notification settings
+
+*   [Code](https://github.com/anubhavsrivastava/gatsby-starter-multiverse)
+*   [Issues 2](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/issues)
+*   [Pull requests 0](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/pulls)
+*   [Actions](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/actions)
+*   [Projects 0](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/projects)
+*   [Security](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/security)
+*   [Insights](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/anubhavsrivastava/gatsby-starter-multiverse)
+*   [Issues](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/issues)
+*   [Pull requests](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/pulls)
+*   [Actions](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/actions)
+*   [Projects](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/projects)
+*   [Security](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/security)
+*   [Insights](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/pulse)
+
+anubhavsrivastava/gatsby-starter-multiverse
+===========================================
+
+  
+
+ master
+
+[**2** Branches](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/branches)[**0** Tags](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/tags)
+
+[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/branches)[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 22: anubhavsrivastava](https://avatars.githubusercontent.com/u/6449301?v=4&size=40)](https://github.com/anubhavsrivastava)[anubhavsrivastava](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commits?author=anubhavsrivastava)
+
+[Merge pull request](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/0b56fea5c7e0d3a44f1cdd4ba4b3c1750263c86b) [#2](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/pull/2) [from watsonneal/master](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/0b56fea5c7e0d3a44f1cdd4ba4b3c1750263c86b)
+
+Jan 13, 2022
+
+[0b56fea](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/0b56fea5c7e0d3a44f1cdd4ba4b3c1750263c86b) · Jan 13, 2022
+
+History
+-------
+
+[18 Commits](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commits/master/)
+
+[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[Create FUNDING.yml](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/31788e0d45c58eecd2e7f65ea4c129afa0767079 "Create FUNDING.yml")
+
+
+
+ | 
+
+Jul 12, 2020
+
+ |
+| 
+
+[src](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[Updating to Gatsby v4.2.0](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/406137ebe43eb941eb40b34dd74ba38291cfa6ee "Updating to Gatsby v4.2.0
+Updating to Gatsby v4.2.0
+Addressed Sass problems")
+
+
+
+ | 
+
+Jan 8, 2022
+
+ |
+| 
+
+[.gitignore](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[added prettier and gitignore config](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/c88841215e29ec05b18908545c9d668d310eba4a "added prettier and gitignore config")
+
+
+
+ | 
+
+May 25, 2019
+
+ |
+| 
+
+[.prettierrc](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[added prettier and gitignore config](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/c88841215e29ec05b18908545c9d668d310eba4a "added prettier and gitignore config")
+
+
+
+ | 
+
+May 25, 2019
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[Add files via upload](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/cd5478b7d6499a3ba8616ff307421ee24a7c70c2 "Add files via upload")
+
+
+
+ | 
+
+Jul 12, 2020
+
+ |
+| 
+
+[README.md](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Updating to Gatsby v4.2.0](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/406137ebe43eb941eb40b34dd74ba38291cfa6ee "Updating to Gatsby v4.2.0
+Updating to Gatsby v4.2.0
+Addressed Sass problems")
+
+
+
+ | 
+
+Jan 8, 2022
+
+ |
+| 
+
+[config.js](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/config.js "config.js")
+
+
+
+
+
+
+
+ | 
+
+[config.js](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/config.js "config.js")
+
+
+
+
+
+
+
+ | 
+
+[add basic gatsby config](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/053fc66ca0a596c5bc55265053012c27e311466f "add basic gatsby config")
+
+
+
+ | 
+
+May 25, 2019
+
+ |
+| 
+
+[gatsby-browser.js](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-browser.js](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[Added gatsby config files](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/8f19cdc6862c5d7d0b177be88fcbb5620c6d704b "Added gatsby config files")
+
+
+
+ | 
+
+Jul 5, 2019
+
+ |
+| 
+
+[gatsby-config.js](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-config.js](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[add basic gatsby config](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/053fc66ca0a596c5bc55265053012c27e311466f "add basic gatsby config")
+
+
+
+ | 
+
+May 25, 2019
+
+ |
+| 
+
+[gatsby-node.js](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-node.js](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[Added gatsby config files](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/8f19cdc6862c5d7d0b177be88fcbb5620c6d704b "Added gatsby config files")
+
+
+
+ | 
+
+Jul 5, 2019
+
+ |
+| 
+
+[gatsby-ssr.js](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-ssr.js](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[Added gatsby config files](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/8f19cdc6862c5d7d0b177be88fcbb5620c6d704b "Added gatsby config files")
+
+
+
+ | 
+
+Jul 5, 2019
+
+ |
+| 
+
+[package.json](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Updating to Gatsby v4.2.0](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/commit/406137ebe43eb941eb40b34dd74ba38291cfa6ee "Updating to Gatsby v4.2.0
+Updating to Gatsby v4.2.0
+Addressed Sass problems")
+
+
+
+ | 
+
+Jan 8, 2022
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#)
+
+gatsby-starter-multiverse
+=========================
+
+[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#gatsby-starter-multiverse)
+
+Gatsby.js V4 starter template based on Multiverse by HTML5 UP
+
+For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+
+[![Image 23: Screenshot](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/raw/master/src/assets/img/multiverse.jpg)](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/src/assets/img/multiverse.jpg)
+
+Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-multiverse/)
+
+Screenshot
+----------
+
+[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#screenshot)
+
+[![Image 24: Screenshot](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/raw/master/src/assets/img/demo.png)](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/src/assets/img/demo.png)
+
+Install
+-------
+
+[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#install)
+
+Make sure that you have the Gatsby CLI program installed:
+
+```shell
+npm install --global gatsby-cli
+```
+
+And run from your CLI:
+
+```shell
+gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-multiverse
+```
+
+Then you can run it by:
+
+```shell
+cd gatsby-example-site
+npm install
+gatsby develop
+```
+
+### Personalization
+
+[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#personalization)
+
+Edit `config.js` to put up your details
+
+```js
+module.exports = {
+  siteTitle: 'Gatsby Starter multiverse', // <title>
+  ...
+  heading: 'Anubhav',
+  subHeading: 'Web Developer',
+  // social
+  socialLinks: [
+    {
+      icon: 'fa-github',
+      name: 'Github',
+      url: 'https://github.com/anubhavsrivastava',
+    }
+    ...
+  ],
+};
+```
+
+### Deploying using Github page
+
+[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#deploying-using-github-page)
+
+`package.json` has a default script that uses `gh-pages` module to publish on Github pages. Simply running `npm run deploy` would publish the site on github pages.
+
+Additionally, it also has [path-prefix](https://www.gatsbyjs.org/docs/path-prefix/) value set for gatsby config in `config.js`. Change `pathPrefix` to relevant path if your gatsby site is hosted on subpath of a domain, `https://theanubhav.com/somePath/`. If you are hosting it as root site, i.e, `https://theanubhav.com/` , remove the pathPrefix configuration.
+
+### Checkout other similar starters
+
+[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#checkout-other-similar-starters)
+
+*   [gatsby-starter-casual](https://github.com/anubhavsrivastava/gatsby-starter-casual)
+*   [gatsby-starter-grayscale](https://github.com/anubhavsrivastava/gatsby-starter-grayscale)
+*   [gatsby-starter-resume](https://github.com/anubhavsrivastava/gatsby-starter-resume)
+*   [gatsby-starter-spectral](https://github.com/anubhavsrivastava/gatsby-starter-spectral)
+*   [gatsby-starter-newage](https://github.com/anubhavsrivastava/gatsby-starter-newage)
+*   [gatsby-starter-stylish](https://github.com/anubhavsrivastava/gatsby-starter-stylish)
+*   [gatsby-starter-solidstate](https://github.com/anubhavsrivastava/gatsby-starter-solidstate)
+*   [gatsby-starter-readonly](https://github.com/anubhavsrivastava/gatsby-starter-readonly)
+*   [gatsby-starter-prologue](https://github.com/anubhavsrivastava/gatsby-starter-prologue)
+*   [gatsby-starter-phantom](https://github.com/anubhavsrivastava/gatsby-starter-phantom)
+*   [gatsby-starter-paradigmshift](https://github.com/anubhavsrivastava/gatsby-starter-paradigmshift)
+*   [gatsby-starter-overflow](https://github.com/anubhavsrivastava/gatsby-starter-overflow)
+*   [gatsby-starter-identity](https://github.com/anubhavsrivastava/gatsby-starter-identity)
+*   [gatsby-starter-highlights](https://github.com/anubhavsrivastava/gatsby-starter-highlights)
+*   [gatsby-starter-fractal](https://github.com/anubhavsrivastava/gatsby-starter-fractal)
+*   [gatsby-starter-eventually](https://github.com/anubhavsrivastava/gatsby-starter-eventually)
+*   [gatsby-starter-directive](https://github.com/anubhavsrivastava/gatsby-starter-directive)
+*   [gatsby-starter-creative](https://github.com/anubhavsrivastava/gatsby-starter-creative)
+*   [gatsby-starter-aerial](https://github.com/anubhavsrivastava/gatsby-starter-aerial)
+
+### Contribution
+
+[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#contribution)
+
+Suggestions and PRs are welcome!
+
+Please create issue or open PR request for contribution.
+
+### License
+
+[](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#license)
+
+[![Image 25: Open Source Love](https://camo.githubusercontent.com/d6d3d36f4a3697707a0cdbe9f0b7935534baa6a94e906e36015020963c55afb3/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f6d69742f6d69742e7376673f763d313032)](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/blob/master/LICENSE)
+
+refer `LICENSE` file in this repository.
+
+About
+-----
+
+Gatsby.js V2 starter template based on multiverse by HTML5 UP
+
+[anubhavsrivastava.github.io/gatsby-starter-multiverse/](https://anubhavsrivastava.github.io/gatsby-starter-multiverse/ "https://anubhavsrivastava.github.io/gatsby-starter-multiverse/")
+
+### Topics
+
+[gatsby](https://github.com/topics/gatsby "Topic: gatsby") [starter-template](https://github.com/topics/starter-template "Topic: starter-template") [html5up](https://github.com/topics/html5up "Topic: html5up") [multiverse](https://github.com/topics/multiverse "Topic: multiverse") [gatsbyjs](https://github.com/topics/gatsbyjs "Topic: gatsbyjs") [gatsby-starter](https://github.com/topics/gatsby-starter "Topic: gatsby-starter") [gatsby-starter-kit](https://github.com/topics/gatsby-starter-kit "Topic: gatsby-starter-kit")
+
+### Resources
+
+[Readme](https://github.com/anubhavsrivastava/gatsby-starter-multiverse?screenshot=true#readme-ov-file)
+
+[Activity](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/activity)
+
+### Stars
+
+[**19** stars](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/stargazers)
+
+### Watchers
+
+[**3** watching](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/watchers)
+
+### Forks
+
+[**10** forks](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fanubhavsrivastava%2Fgatsby-starter-multiverse&report=anubhavsrivastava+%28user%29)
+
+[Releases](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/releases)
+-----------------------------------------------------------------------------------
+
+No releases published
+
+Sponsor this project
+--------------------
+
+*    [![Image 26: @anubhavsrivastava](https://avatars.githubusercontent.com/u/6449301?s=64&v=4)](https://github.com/anubhavsrivastava)[**anubhavsrivastava** Anubhav Srivastava](https://github.com/anubhavsrivastava)[](https://github.com/sponsors/anubhavsrivastava)
+
+*    ![Image 27: patreon](https://github.githubassets.com/assets/patreon-96b15b9db4b9.svg)[patreon.com/**theanubhav**](https://patreon.com/theanubhav)
+*    ![Image 28: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)[opencollective.com/**onlyanubhav**](https://opencollective.com/onlyanubhav)
+*    ![Image 29: ko_fi](https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg)[ko-fi.com/**theanubhav**](https://ko-fi.com/theanubhav)
+*   [https://donorbox.org/theanubhav](https://donorbox.org/theanubhav)
+*   [https://www.buymeacoffee.com/theanubhav](https://www.buymeacoffee.com/theanubhav)
+*   [https://paypal.me/onlyanubhav](https://paypal.me/onlyanubhav)
+*   [https://theanubhav.com/sponsor](https://theanubhav.com/sponsor)
+
+[Learn more about GitHub Sponsors](https://github.com/sponsors)
+
+[Packages 0](https://github.com/users/anubhavsrivastava/packages?repo_name=gatsby-starter-multiverse)
+-----------------------------------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 2](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/graphs/contributors)
+----------------------------------------------------------------------------------------------------
+
+*    [![Image 30: @anubhavsrivastava](https://avatars.githubusercontent.com/u/6449301?s=64&v=4)](https://github.com/anubhavsrivastava)[**anubhavsrivastava** Anubhav Srivastava](https://github.com/anubhavsrivastava)
+*    [![Image 31: @watsonneal](https://avatars.githubusercontent.com/u/3316697?s=64&v=4)](https://github.com/watsonneal)[**watsonneal**](https://github.com/watsonneal)
+
+Languages
+---------
+
+*   [SCSS 71.6%](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/search?l=scss)
+*   [JavaScript 28.4%](https://github.com/anubhavsrivastava/gatsby-starter-multiverse/search?l=javascript)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

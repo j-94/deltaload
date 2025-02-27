@@ -1,0 +1,39 @@
+[![Image 8](https://shangchenzhou.com/projects/ProPainter/assets/images/propainter_logo1)](https://shangchenzhou.com/projects/ProPainter/index.html)
+
+  
+
+ProPainter: Improving Propagation and Transformer for Video Inpainting
+----------------------------------------------------------------------
+
+S-Lab, Nanyang Technological University
+
+ICCV 2023
+
+  
+2.  **Object Removal**: remove the object(s) from a video.
+3.  **Video Completion**: complete the masked video.
+4.  **Video Outpainting**: expand the view of a video.
+
+Abstract
+--------
+
+Flow-based propagation and spatiotemporal Transformer are two mainstream mechanisms in video inpainting (VI). Despite the effectiveness of these components, they still suffer from some limitations that affect their performance. Previous propagation-based approaches are performed separately either in the image or feature domain. Global image propagation isolated from learning may cause spatial misalignment due to inaccurate optical flow. Moreover, memory or computational constraints limit the temporal range of feature propagation and video Transformer, preventing exploration of correspondence information from distant frames. To address these issues, we propose an improved framework, called **ProPainter**, which involves enhanced **ProPa**gat**i**o**n** and an efficient **T**ransform**er**. Specifically, we introduce dual-domain propagation that combines the advantages of image and feature warping, exploiting global correspondences reliably. We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens. With these components, ProPainter outperforms prior arts by a large margin of 1.46 dB in PSNR while maintaining appealing efficiency.
+
+Method
+------
+
+ProPainter comprises three key components: recurrent flow completion, dual-domain propagation, and mask-guided sparse Transformer. First, we employ a highly efficient recurrent flow completion network to complete the corrupted flow fields. We then perform propagation in both image and feature domains, which are jointly trained. This approach enables us to explore correspondences from both global and local temporal frames, resulting in more reliable and effective propagation. The subsequent mask-guided sparse Transformer blocks refine the propagated features using spatiotemporal attention, aided by a sparse strategy that considers only a subset of the tokens. This enhances efficiency and reduces memory consumption, while maintaining performance.
+
+![Image 9](https://shangchenzhou.com/projects/ProPainter/assets/images/ProPainter_pipeline.png)
+
+BibTeX
+------
+
+```
+@InProceedings{zhou2023propainter,
+      title     = {{ProPainter}: Improving Propagation and Transformer for Video Inpainting},
+      author    = {Zhou, Shangchen and Li, Chongyi and Chan, Kelvin C.K and Loy, Chen Change},
+      booktitle = {Proceedings of IEEE International Conference on Computer Vision (ICCV)},
+      year      = {2023}
+    }
+```

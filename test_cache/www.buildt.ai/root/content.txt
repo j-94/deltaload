@@ -1,0 +1,40 @@
+Cosine AI - Human Reasoning Lab
+===============
+ 
+
+[![Image 5: C](https://www.buildt.ai/resources/cosine-c-black.png)cosine](https://www.buildt.ai/)
+
+[Genie](https://www.buildt.ai/genie)[Blog](https://www.buildt.ai/blog)[About Us](https://www.buildt.ai/about)[Login](https://www.buildt.ai/login)
+
+[Join Waitlist](https://www.buildt.ai/register)
+
+[✨ Introducing Genie, an AI software engineering model](https://www.buildt.ai/genie)
+
+Powered by OpenAI  
+Experimental Access Program
+-----------------------------------------------
+
+![Image 6: C](https://www.buildt.ai/resources/cosine-c-black.png)
+
+Data-Driven Autonomy
+====================
+
+Genie’s unparalleled software intuition comes from embedding human reasoning directly into its training data
+
+[Learn More](https://www.buildt.ai/genie)
+
+Access the power of Genie
+=========================
+
+We’re excited to see all the creative ways you use Genie, if you’d like to try Genie on your own projects please tell us what you are building.
+
+[Get Access](https://go.cosine.sh/get-genie)
+
+Genie is the highest scoring software engineering model
+=======================================================
+
+[Technical Report](https://cosine.sh/blog/genie-technical-report)
+
+![Image 7: C](https://www.buildt.ai/resources/cosine-c-black.png)cosine
+
+[Terms](https://www.buildt.ai/legal/terms)Contact Us[Careers](https://app.dover.io/jobs/cosine)[![Image 8: Twitter](https://www.buildt.ai/_astro/x.BCpZt-mX.png)](https://go.cosine.sh/twitter)

@@ -1,0 +1,67 @@
+---
+title: Gemini Powers tldraw's "Natural Language Computing" Experience  |  Google AI for Developers
+description: Prototyping a new natural language computing experience on an infinite canvas with Gemini 2.0
+url: https://ai.google.dev/showcase/tldraw?_gl=1*1c82wis*_up*MQ..*_ga*NzczNDA1MDU2LjE3MzQwMzgzNzE.*_ga_P1DBVKWT6V*MTczNDAzODM3MS4xLjAuMTczNDAzODM3MS4wLjAuMTIxMzQzNTEw
+timestamp: 2025-01-20T16:19:01.821Z
+domain: ai.google.dev
+path: showcase_tldraw
+---
+
+# Gemini Powers tldraw's "Natural Language Computing" Experience  |  Google AI for Developers
+
+
+Prototyping a new natural language computing experience on an infinite canvas with Gemini 2.0
+
+
+## Content
+
+![Image 8: Tldraw showcase hero](https://ai.google.dev/static/images/showcase/tldraw/hero-image.jpg)
+
+The Gemini API empowers developers to seamlessly integrate advanced AI capabilities into their applications, unlocking new possibilities for user experience and functionality. This post highlights how tldraw leverages Gemini to build a revolutionary "natural language computing" experience within their new project, [computer](https://computer.tldraw.com/). This demonstrates the speed and ease with which startups can integrate powerful AI using the Gemini API and tldraw’s [canvas SDK](https://tldraw.dev/). The tldraw team is launching computer with [Gemini 1.5 Flash](https://ai.google.dev/gemini-api/docs/models/gemini#gemini-1.5-flash) soon ([join the waitlist](https://computer.tldraw.com/)) and is currently prototyping with [Gemini 2.0](http://ai.google.dev/gemini-api/docs/models/gemini#gemini-2.0-flash) Flash for future iterations.
+
+tldraw is using the Gemini API to bring the power of conversational AI to visual programming, allowing users to generate content and process information using natural language. This opens up exciting opportunities for more intuitive and efficient user experience around AI, pushing the boundaries of visual communication.
+
+tldraw, striving to make diagramming accessible and intuitive, envisioned a more natural way for users to interact with their canvas. Founder Steve Ruiz sought to leverage the power of tldraw’s infinite canvas SDK to create a dynamic environment for working with generative AI. This vision led to the development of [computer](http://computer.tldraw.com/), an experimental application where users create workflows from blocks of text, images, and instructions. When run, information flows from one component to the next, with the output of each generation serving as the input to the next, creating powerful processes that branch, loop, and iterate to produce outputs.
+
+tldraw’s computer is built upon a network of interconnected “components” representing elements on the canvas (text boxes, images, audio clips, etc.). These components are linked by arrows, visualizing the flow of data and transformations. Each component has associated "procedures"—sets of instructions executed based on inputs from connected components. A component can accept data from any number of other components and pass its output data to many other components—including itself! This component-based architecture, combined with the power and speed of Gemini 2.0 Flash, allows for a fast and flexible system capable of handling diverse tasks.
+
+video.title
+
+tldraw computer’s AI visual programming with text gen using Gemini 2.0 and image generation with an image gen model
+
+Here's how Gemini 2.0 Flash prototyping has powered the experience:
+
+  
+
+*   **Lightning-Fast Procedure Execution:** Gemini 2.0 Flash executes procedures rapidly. For example, an "Instruction" component might contain "Write a short commercial." Within moments of being triggered, the component will have generated a re-usable script of steps that can turn any combination of inputs into a commercial script. The component will then use this script, together with its current inputs (e.g., a "Text" component with "New AI-powered smartgloves for cats"), to make a second prompt to the model for its final output. This output may be passed to another linked "Text" component for display, as well as other connected components, like "Speech" for text-to-speech, "Image" for visual generation, or other “Instruction” components for further transformation.
+    
+*   **Lots of Context, Many Modes:** The maximalist bent in tldraw’s computer called for speed, capacity, and capability. With multiple components providing data for each generation, Gemini 2.0 Flash’s large context window was critical for producing outputs that took all inputs into account, as was its support for images and files alongside written prompts.
+    
+*   **Structured Data:** The flow of data between components would not be possible without adherence to a single schema. The structured JSON output from Gemini 2.0 Flash ensures that each component in a workflow can recognize data of any type and produce its outputs in the same structure, preventing stalls, smoothing execution, and ensuring even large workflows will reliably complete.
+    
+*   **Dynamic Procedure Generation:** Beyond executing predefined procedures, Gemini 2.0 Flash can generate procedures dynamically. A user could input "create a marketing campaign based on this product description," and Gemini 2.0 Flash would generate the necessary steps (procedures) and the required components, building a workflow on the canvas based on the user's high-level request. This dynamic generation unlocks tremendous potential for innovative user experiences and streamlined workflows.
+    
+
+tldraw’s quick implementation of computer highlights Gemini’s value proposition for startups: rapid prototyping, enhanced user experience through intuitive natural language interfaces, and efficient structured data handling thanks to models like Gemini 2.0 Flash. This combination empowers small teams to create innovative, AI-powered features quickly and cost-effectively.
+
+> “We want to show that any team can build ambitious projects with tldraw’s canvas SDK. Gemini Flash was a perfect engine for a fast, multi-modal, canvas-based workflow tool. With Gemini 2.0 and perhaps a better name, I’m pretty sure we could pitch computer as its own startup tomorrow.”
+
+— Steve Ruiz, Founder of tldraw
+
+Inspired by tldraw's success? The Gemini API offers powerful models like Gemini 1.5 Pro, Gemini 1.5 Flash, and now Gemini 2.0 Flash as an experimental preview model to bring innovative AI features to your application. Explore the [Gemini API documentation](https://ai.google.dev/gemini-api/docs) and empower your users with AI.
+
+For creative professionals, developers, and teams of all kinds, tldraw offers a unique and powerful platform to bring ideas to life. [Join the computer waitlist](https://computer.tldraw.com/). Experience the future of visual collaboration [today](https://tldraw.dev/).
+
+## Metadata
+
+```json
+{
+  "title": "Gemini Powers tldraw's \"Natural Language Computing\" Experience  |  Google AI for Developers",
+  "description": "Prototyping a new natural language computing experience on an infinite canvas with Gemini 2.0",
+  "url": "https://ai.google.dev/showcase/tldraw?_gl=1*1c82wis*_up*MQ..*_ga*NzczNDA1MDU2LjE3MzQwMzgzNzE.*_ga_P1DBVKWT6V*MTczNDAzODM3MS4xLjAuMTczNDAzODM3MS4wLjAuMTIxMzQzNTEw",
+  "content": "![Image 8: Tldraw showcase hero](https://ai.google.dev/static/images/showcase/tldraw/hero-image.jpg)\n\nThe Gemini API empowers developers to seamlessly integrate advanced AI capabilities into their applications, unlocking new possibilities for user experience and functionality. This post highlights how tldraw leverages Gemini to build a revolutionary \"natural language computing\" experience within their new project, [computer](https://computer.tldraw.com/). This demonstrates the speed and ease with which startups can integrate powerful AI using the Gemini API and tldraw’s [canvas SDK](https://tldraw.dev/). The tldraw team is launching computer with [Gemini 1.5 Flash](https://ai.google.dev/gemini-api/docs/models/gemini#gemini-1.5-flash) soon ([join the waitlist](https://computer.tldraw.com/)) and is currently prototyping with [Gemini 2.0](http://ai.google.dev/gemini-api/docs/models/gemini#gemini-2.0-flash) Flash for future iterations.\n\ntldraw is using the Gemini API to bring the power of conversational AI to visual programming, allowing users to generate content and process information using natural language. This opens up exciting opportunities for more intuitive and efficient user experience around AI, pushing the boundaries of visual communication.\n\ntldraw, striving to make diagramming accessible and intuitive, envisioned a more natural way for users to interact with their canvas. Founder Steve Ruiz sought to leverage the power of tldraw’s infinite canvas SDK to create a dynamic environment for working with generative AI. This vision led to the development of [computer](http://computer.tldraw.com/), an experimental application where users create workflows from blocks of text, images, and instructions. When run, information flows from one component to the next, with the output of each generation serving as the input to the next, creating powerful processes that branch, loop, and iterate to produce outputs.\n\ntldraw’s computer is built upon a network of interconnected “components” representing elements on the canvas (text boxes, images, audio clips, etc.). These components are linked by arrows, visualizing the flow of data and transformations. Each component has associated \"procedures\"—sets of instructions executed based on inputs from connected components. A component can accept data from any number of other components and pass its output data to many other components—including itself! This component-based architecture, combined with the power and speed of Gemini 2.0 Flash, allows for a fast and flexible system capable of handling diverse tasks.\n\nvideo.title\n\ntldraw computer’s AI visual programming with text gen using Gemini 2.0 and image generation with an image gen model\n\nHere's how Gemini 2.0 Flash prototyping has powered the experience:\n\n  \n\n*   **Lightning-Fast Procedure Execution:** Gemini 2.0 Flash executes procedures rapidly. For example, an \"Instruction\" component might contain \"Write a short commercial.\" Within moments of being triggered, the component will have generated a re-usable script of steps that can turn any combination of inputs into a commercial script. The component will then use this script, together with its current inputs (e.g., a \"Text\" component with \"New AI-powered smartgloves for cats\"), to make a second prompt to the model for its final output. This output may be passed to another linked \"Text\" component for display, as well as other connected components, like \"Speech\" for text-to-speech, \"Image\" for visual generation, or other “Instruction” components for further transformation.\n    \n*   **Lots of Context, Many Modes:** The maximalist bent in tldraw’s computer called for speed, capacity, and capability. With multiple components providing data for each generation, Gemini 2.0 Flash’s large context window was critical for producing outputs that took all inputs into account, as was its support for images and files alongside written prompts.\n    \n*   **Structured Data:** The flow of data between components would not be possible without adherence to a single schema. The structured JSON output from Gemini 2.0 Flash ensures that each component in a workflow can recognize data of any type and produce its outputs in the same structure, preventing stalls, smoothing execution, and ensuring even large workflows will reliably complete.\n    \n*   **Dynamic Procedure Generation:** Beyond executing predefined procedures, Gemini 2.0 Flash can generate procedures dynamically. A user could input \"create a marketing campaign based on this product description,\" and Gemini 2.0 Flash would generate the necessary steps (procedures) and the required components, building a workflow on the canvas based on the user's high-level request. This dynamic generation unlocks tremendous potential for innovative user experiences and streamlined workflows.\n    \n\ntldraw’s quick implementation of computer highlights Gemini’s value proposition for startups: rapid prototyping, enhanced user experience through intuitive natural language interfaces, and efficient structured data handling thanks to models like Gemini 2.0 Flash. This combination empowers small teams to create innovative, AI-powered features quickly and cost-effectively.\n\n> “We want to show that any team can build ambitious projects with tldraw’s canvas SDK. Gemini Flash was a perfect engine for a fast, multi-modal, canvas-based workflow tool. With Gemini 2.0 and perhaps a better name, I’m pretty sure we could pitch computer as its own startup tomorrow.”\n\n— Steve Ruiz, Founder of tldraw\n\nInspired by tldraw's success? The Gemini API offers powerful models like Gemini 1.5 Pro, Gemini 1.5 Flash, and now Gemini 2.0 Flash as an experimental preview model to bring innovative AI features to your application. Explore the [Gemini API documentation](https://ai.google.dev/gemini-api/docs) and empower your users with AI.\n\nFor creative professionals, developers, and teams of all kinds, tldraw offers a unique and powerful platform to bring ideas to life. [Join the computer waitlist](https://computer.tldraw.com/). Experience the future of visual collaboration [today](https://tldraw.dev/).",
+  "usage": {
+    "tokens": 1248
+  }
+}
+```

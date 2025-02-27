@@ -1,0 +1,15 @@
+*   [Start new chat](https://claude.ai/new)
+
+### Starred
+
+Star chats you use often
+
+### Recents
+
+[View all](https://claude.ai/recents)
+
+Free plan
+
+[Help & support](https://support.anthropic.com/en/)
+
+Loading...

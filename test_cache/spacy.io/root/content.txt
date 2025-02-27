@@ -1,0 +1,123 @@
+Industrial-Strength  
+Natural Language  
+Processing
+---------------------------------------------------
+
+in Python
+---------
+
+### Get things done
+
+spaCy is designed to help you do real work — to build real products, or gather real insights. The library respects your time, and tries to avoid wasting it. It's easy to install, and its API is simple and productive.
+
+### Blazing fast
+
+spaCy excels at large-scale information extraction tasks. It's written from the ground up in carefully memory-managed Cython. If your application needs to process entire web dumps, spaCy is the library you want to be using.
+
+### Awesome ecosystem
+
+Since its release in 2015, spaCy has become an industry standard with a huge ecosystem. Choose from a variety of plugins, integrate with your machine learning stack and build custom components and workflows.
+
+#### Edit the code & try spaCyspaCy v3.7 · Python 3 · via [Binder](https://mybinder.org/)
+
+Features
+--------
+
+*   Support for **75\+ languages**
+*   **84 trained pipelines** for 25 languages
+*   Multi-task learning with pretrained **transformers** like BERT
+*   Pretrained **word vectors**
+*   State-of-the-art speed
+*   Production-ready **training system**
+*   Linguistically-motivated **tokenization**
+*   Components for **named entity** recognition, part-of-speech tagging, dependency parsing, sentence segmentation, **text classification**, lemmatization, morphological analysis, entity linking and more
+*   Easily extensible with **custom components** and attributes
+*   Support for custom models in **PyTorch**, **TensorFlow** and other frameworks
+*   Built in **visualizers** for syntax and NER
+*   Easy **model packaging**, deployment and workflow management
+*   Robust, rigorously evaluated accuracy
+
+Reproducible training for custom pipelines
+------------------------------------------
+
+spaCy v3.0 introduces a comprehensive and extensible system for **configuring your training runs**. Your configuration file will describe every detail of your training run, with no hidden defaults, making it easy to **rerun your experiments** and track changes. You can use the quickstart widget or the [`init config`](https://spacy.io/api/cli#init-config) command to get started, or clone a project template for an end-to-end workflow.
+
+[Get started](https://spacy.io/usage/training)
+
+Components
+
+taggermorphologizertrainable\_lemmatizerparsernerspancattextcat
+
+Hardware
+
+CPUGPU (transformer)
+
+Optimize for
+
+efficiencyaccuracy
+
+```
+# This is an auto-generated partial config. To use it with 'spacy train'
+# you can run spacy init fill-config to auto-fill all default settings:
+# python -m spacy init fill-config ./base_config.cfg ./config.cfg
+[paths]
+train = null
+dev = null
+vectors = null
+[system]
+gpu_allocator = null
+
+[nlp]
+lang = "en"
+pipeline = []
+batch_size = 1000
+
+[components]
+
+[corpora]
+
+[corpora.train]
+@readers = "spacy.Corpus.v1"
+path = ${paths.train}
+max_length = 0
+
+[corpora.dev]
+@readers = "spacy.Corpus.v1"
+path = ${paths.dev}
+max_length = 0
+
+[training]
+dev_corpus = "corpora.dev"
+train_corpus = "corpora.train"
+
+[training.optimizer]
+@optimizers = "Adam.v1"
+
+[training.batcher]
+@batchers = "spacy.batch_by_words.v1"
+discard_oversize = false
+tolerance = 0.2
+
+[training.batcher.size]
+@schedules = "compounding.v1"
+start = 100
+stop = 1000
+compound = 1.001
+
+[initialize]
+vectors = ${paths.vectors}
+```
+
+End-to-end workflows from prototype to production
+-------------------------------------------------
+
+spaCy's new project system gives you a smooth path from prototype to production. It lets you keep track of all those **data transformation**, preprocessing and **training steps**, so you can make sure your project is always ready to hand over for automation. It features source asset download, command execution, checksum verification, and caching with a variety of backends and integrations.
+
+[Try it out](https://spacy.io/usage/projects)
+
+Benchmarks
+----------
+
+spaCy v3.0 introduces transformer-based pipelines that bring spaCy's accuracy right up to the current **state-of-the-art**. You can also use a CPU-optimized pipeline, which is less accurate but much cheaper to run.
+
+[More results](https://spacy.io/usage/facts-figures#benchmarks)

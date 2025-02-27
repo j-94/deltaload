@@ -1,0 +1,25 @@
+![Image 3](https://img.icons8.com/fluency/256/search-in-cloud.png)
+
+v0.1.5
+------
+
+Stremio Addon to search downloads and torrents in your Debrid cloud
+-------------------------------------------------------------------
+
+[Source Code on Github](https://github.com/MrMonkey42/stremio-addon-debrid-search)
+
+### This addon has more :
+
+*   Movies
+*   Series
+*   Animes
+*   Others
+
+### Get the API Key here:
+
+*   [RealDebrid API Key](https://real-debrid.com/apitoken)
+*   [DebridLink API Key](https://debrid-link.fr/webapp/apikey)
+
+Debrid Provider
+
+Debrid API Key

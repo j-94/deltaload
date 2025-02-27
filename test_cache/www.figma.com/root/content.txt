@@ -1,0 +1,397 @@
+Figma: The Collaborative Interface Design Tool
+===============
+
+[Skip to main content](https://www.figma.com/#main)
+
+[](https://www.figma.com/)
+
+*   Products
+    
+*   Solutions
+    
+*   Community
+    
+*   Resources
+    
+*   [Pricing](https://www.figma.com/pricing/)
+
+*   [Contact sales](https://www.figma.com/contact/)
+*   [Log in](https://www.figma.com/login?locale=en-us)
+*   [Get started](https://www.figma.com/signup?locale=en-us)[Get started for free](https://www.figma.com/signup?locale=en-us)
+
+*   [Figma Design Design and prototype in one place ![Image 85](blob:https://www.figma.com/babef67315ffed510181db6edfab8219)![Image 86](https://cdn.sanity.io/images/599r6htc/regionalized/8b823444edce5f6c81fbd959301a33582525c23f-540x305.png?w=540&h=305&q=75&fit=max&auto=format)](https://www.figma.com/design/)
+*   [FigJam Collaborate with a digital whiteboard ![Image 87](blob:https://www.figma.com/e9717bef1b3ba98350b561a5c9d4893c)![Image 88](https://cdn.sanity.io/images/599r6htc/regionalized/64c5beb99a9fc5a0b00dd4882ab1f6a915ee0752-540x305.png?w=540&h=305&q=75&fit=max&auto=format)](https://www.figma.com/figjam/)
+*   [Dev Mode Translate designs into code ![Image 89](blob:https://www.figma.com/358f5c7db75d3e425b8a9139291928ac)![Image 90](https://cdn.sanity.io/images/599r6htc/regionalized/c86a9976203e3264f89a20c5fb534a0d845d5f1b-540x305.png?w=540&h=305&q=75&fit=max&auto=format)](https://www.figma.com/dev-mode/)
+*   [Figma Slides Beta Co-create presentations ![Image 91](blob:https://www.figma.com/6d34652025f3840ae03b072bdb649bfb)![Image 92](https://cdn.sanity.io/images/599r6htc/regionalized/d5088df6b4e9cf91d8a615901b5d60e1534ce5bc-540x304.png?w=540&h=304&q=75&fit=max&auto=format)](https://www.figma.com/slides/)
+*   [AI New Explore all Figma AI features](https://www.figma.com/ai/)
+*   [Downloads Get the desktop, mobile, and font installer apps](https://www.figma.com/downloads/)
+*   [What’s new See the latest features and releases](https://www.figma.com/whats-new/)
+
+Use cases
+
+*   [Design systems](https://www.figma.com/design-systems/)
+*   [Prototyping](https://www.figma.com/prototyping/)
+*   [UX design](https://www.figma.com/ux-design-tool/)
+*   [Web design](https://www.figma.com/web-design/)
+*   [Wireframing](https://www.figma.com/wireframe-tool/)
+*   [Online whiteboard](https://www.figma.com/figjam/online-whiteboard/)
+*   [Team meetings](https://www.figma.com/figjam/team-meetings/)
+
+*   [Strategic planning](https://www.figma.com/figjam/strategic-planning/)
+*   [Brainstorming](https://www.figma.com/figjam/brainstorming-tool/)
+*   [Diagramming](https://www.figma.com/figjam/diagramming-tool/)
+*   [Product development](https://www.figma.com/product-development/)
+*   [Web development](https://www.figma.com/web-development/)
+*   [Design handoff](https://www.figma.com/design-handoff/)
+*   [Agile](https://www.figma.com/figjam/agile-workflows/)
+
+Roles
+
+*   [Design](https://www.figma.com/designers/)
+*   [Engineering](https://www.figma.com/engineers/)
+*   [Product managers](https://www.figma.com/product-managers/)
+
+Organizations
+
+*   [Enterprise](https://www.figma.com/enterprise/)
+*   [Education](https://www.figma.com/education/)
+
+*   [Config 2025 Register to join us in SF or online: May 6-8, 2025 ![Image 93](blob:https://www.figma.com/80a8189d9453bd2cbe561f62d5ab670d)![Image 94](https://cdn.sanity.io/images/599r6htc/regionalized/eb42e1b3e5042d96d6d542fffaae917dfba25521-540x304.png?w=540&h=304&q=75&fit=max&auto=format)](https://config.figma.com/)
+
+*   [Creator fund Build and sell what you love](https://www.figma.com/community-creators/)
+*   [User groups Join a local Friends of Figma group](https://friends.figma.com/)
+
+*   [Events Learn best practices at virtual events](https://www.figma.com/events/)
+*   [Customer stories Read about leading product teams](https://www.figma.com/customers/)
+
+*   [Shortcut: The Figma blog Stories about how products take shape—and shape our world ![Image 95](blob:https://www.figma.com/de7d21bdd96816e4475c2125b0bf49bc)![Image 96](https://cdn.sanity.io/images/599r6htc/regionalized/1883a9ebc4ce697b718301ad247c0fff45c572c1-540x304.png?w=540&h=304&q=75&fit=max&auto=format)](https://www.figma.com/blog/)
+
+Get started
+
+*   [Plugins](https://www.figma.com/community/plugins)
+*   [UI kits](https://www.figma.com/community/ui-kits)
+*   [Icons](https://www.figma.com/community/icons)
+*   [Widgets](https://www.figma.com/community/widgets)
+*   [Templates](https://www.figma.com/templates/)
+*   [Developer docs](https://www.figma.com/developers)
+*   [Partners](https://www.figma.com/partners/)
+*   [See all](https://www.figma.com/community)
+
+Learn
+
+*   [Best practices](https://www.figma.com/best-practices/)
+*   [Reports & insights](https://www.figma.com/reports/)
+*   [Resource library](https://www.figma.com/resource-library/)
+*   [Demos](https://www.figma.com/demo/)
+*   [Webinars](https://www.figma.com/webinars/)
+*   [Help center](https://help.figma.com/hc/en-us)
+
+[](https://www.figma.com/)
+
+*   [Contact sales](https://www.figma.com/contact/)
+*   [Log in](https://www.figma.com/login?locale=en-us)
+*   [Get started](https://www.figma.com/signup?locale=en-us)[Get started for free](https://www.figma.com/signup?locale=en-us)
+
+[](https://www.figma.com/)
+
+*   Products
+    
+    *   [Figma DesignDesign and prototype in one place](https://www.figma.com/design/)
+    *   [FigJamCollaborate with a digital whiteboard](https://www.figma.com/figjam/)
+    *   [Dev ModeTranslate designs into code](https://www.figma.com/dev-mode/)
+    *   [Figma Slides Beta](https://www.figma.com/slides/)
+    *   [AI New](https://www.figma.com/ai/)
+    *   [Downloads](https://www.figma.com/downloads/)
+    *   [What’s new](https://www.figma.com/whats-new/)
+    
+*   Solutions
+    
+    *   Use cases
+        
+        *   [Design systems](https://www.figma.com/design-systems/)
+        *   [Prototyping](https://www.figma.com/prototyping/)
+        *   [UX design](https://www.figma.com/ux-design-tool/)
+        *   [Web design](https://www.figma.com/web-design/)
+        *   [Wireframing](https://www.figma.com/wireframe-tool/)
+        *   [Online whiteboard](https://www.figma.com/figjam/online-whiteboard/)
+        *   [Team meetings](https://www.figma.com/figjam/team-meetings/)
+        *   [Strategic planning](https://www.figma.com/figjam/strategic-planning/)
+        *   [Brainstorming](https://www.figma.com/figjam/brainstorming-tool/)
+        *   [Diagramming](https://www.figma.com/figjam/diagramming-tool/)
+        *   [Product development](https://www.figma.com/product-development/)
+        *   [Web development](https://www.figma.com/web-development/)
+        *   [Design handoff](https://www.figma.com/design-handoff/)
+        *   [Agile](https://www.figma.com/figjam/agile-workflows/)
+    *   Roles
+        
+        *   [Design](https://www.figma.com/designers/)
+        *   [Engineering](https://www.figma.com/engineers/)
+        *   [Product managers](https://www.figma.com/product-managers/)
+    *   Organizations
+        
+        *   [Enterprise](https://www.figma.com/enterprise/)
+        *   [Education](https://www.figma.com/education/)
+    
+*   Community
+    
+    *   [Config 2025](https://config.figma.com/)
+    *   [Creator fund](https://www.figma.com/community-creators/)
+    *   [User groups](https://friends.figma.com/)
+    *   [Events](https://www.figma.com/events/)
+    *   [Customer stories](https://www.figma.com/customers/)
+    
+*   Resources
+    
+    *   Get started
+        
+        *   [Plugins](https://www.figma.com/community/plugins)
+        *   [UI kits](https://www.figma.com/community/ui-kits)
+        *   [Icons](https://www.figma.com/community/icons)
+        *   [Widgets](https://www.figma.com/community/widgets)
+        *   [Templates](https://www.figma.com/templates/)
+        *   [Developer docs](https://www.figma.com/developers)
+        *   [Partners](https://www.figma.com/partners/)
+        *   [See all](https://www.figma.com/community)
+    *   Learn
+        
+        *   [Shortcut: the Figma blog](https://www.figma.com/blog/)
+        *   [Best practices](https://www.figma.com/best-practices/)
+        *   [Reports & insights](https://www.figma.com/reports/)
+        *   [Resource library](https://www.figma.com/resource-library/)
+        *   [Demos](https://www.figma.com/demo/)
+        *   [Webinars](https://www.figma.com/webinars/)
+        *   [Help center](https://help.figma.com/hc/en-us)
+    
+*   [Pricing](https://www.figma.com/pricing/)
+*   [Contact sales](https://www.figma.com/contact/)
+
+*   [Get started](https://www.figma.com/signup?locale=en-us)
+*   [Log in](https://www.figma.com/login?locale=en-us)
+
+![Image 97](https://cdn.sanity.io/images/599r6htc/regionalized/af397d4468a4ad139e2603bf947e90075bedef91-375x188.svg?q=75&fit=max&auto=format)
+
+Think bigger. Build faster.
+===========================
+
+Figma helps design and development teams build great products, together.
+
+[Get started for free](https://www.figma.com/signup?locale=en-us)
+
+DesignBuildJamPresent
+
+Design and refine products with your team, in one shared design file.
+
+[Explore Figma Design](https://www.figma.com/design/)
+
+Design and refine products with your team, in one shared design file.
+
+[Explore Figma Design](https://www.figma.com/design/)
+
+Design and refine products with your team, in one shared design file.
+
+[Explore Figma Design](https://www.figma.com/design/)
+
+Design and refine products with your team, in one shared design file.
+
+[Explore Figma Design](https://www.figma.com/design/)
+
+> Nearly everything that designers and developers need is available in Figma.
+
+![Image 98: GitHub](https://cdn.sanity.io/images/599r6htc/regionalized/a9bfb23cca986ee16b0547274bcd7461ffd373aa-67x18.svg?q=75&fit=max&auto=format)
+
+![Image 99](blob:https://www.figma.com/00b9f78f853e94e770b656ab42c4f48e)![Image 100](https://cdn.sanity.io/images/599r6htc/regionalized/e544a94ec97a332ceed274228d79ef658b36c49f-640x640.png?w=48&h=48&q=75&fit=max&auto=format)
+
+Diana MounterHead of Design
+
+![Image 101: AirBnb](https://cdn.sanity.io/images/599r6htc/regionalized/1622439415c22e4475400432eae4619d1592a8bc-71x22.svg?q=75&fit=max&auto=format)![Image 102: Asana](https://cdn.sanity.io/images/599r6htc/regionalized/60b2475fef8f3b7937bf0f87d2963942bade992d-91x18.svg?q=75&fit=max&auto=format)![Image 103: Atlassian](https://cdn.sanity.io/images/599r6htc/regionalized/01d4ea19e824b3596f8f6c701d3b8319e49631b0-146x18.svg?q=75&fit=max&auto=format)![Image 104: Basic/Dept](https://cdn.sanity.io/images/599r6htc/regionalized/f57de7a60072186315b1f73e8bcdde7dbec4751d-137x18.svg?q=75&fit=max&auto=format)![Image 105: Braintree](https://cdn.sanity.io/images/599r6htc/regionalized/2ff6045d0ab55331e071ce8d8eb1b7599e990075-133x18.svg?q=75&fit=max&auto=format)![Image 106: Coinbase](https://cdn.sanity.io/images/599r6htc/regionalized/5346e3225c390cfbc1fb528a0b0d8443c50af995-102x18.svg?q=75&fit=max&auto=format)![Image 107: Dribbble](https://cdn.sanity.io/images/599r6htc/regionalized/c58b8c7de2db91357b690f215db6992f3538e67b-75x18.svg?q=75&fit=max&auto=format)![Image 108: Dropbox](https://cdn.sanity.io/images/599r6htc/regionalized/c641bb5bbe69c6b42344fd2333924a206ef43736-92x18.svg?q=75&fit=max&auto=format)![Image 109: GitHub](https://cdn.sanity.io/images/599r6htc/regionalized/a9bfb23cca986ee16b0547274bcd7461ffd373aa-67x18.svg?q=75&fit=max&auto=format)![Image 110: Herman Miller](https://cdn.sanity.io/images/599r6htc/regionalized/1bd42f01581af00431a984e96081d8af05c40051-90x22.svg?q=75&fit=max&auto=format)![Image 111: Microsoft](https://cdn.sanity.io/images/599r6htc/regionalized/cc8b81fd47ded1e82d83258e2f674e0951e20fcc-86x18.svg?q=75&fit=max&auto=format)![Image 112: The New York Times](https://cdn.sanity.io/images/599r6htc/regionalized/5e789db505180ee41e0612d7d53e2ec48c9c5837-153x20.svg?q=75&fit=max&auto=format)![Image 113: One Medical](https://cdn.sanity.io/images/599r6htc/regionalized/a2544152178b2e3388b0eff5cdb37ceb8bb5f148-146x18.svg?q=75&fit=max&auto=format)![Image 114: Rakuten](https://cdn.sanity.io/images/599r6htc/regionalized/365a922fac7ab7bd921329b8652a60d35a605e85-68x20.svg?q=75&fit=max&auto=format)![Image 115: Slack](https://cdn.sanity.io/images/599r6htc/regionalized/fb78b2f382a2d2d93b155601fbc9032379d2515d-79x20.svg?q=75&fit=max&auto=format)![Image 116: Vodafone](https://cdn.sanity.io/images/599r6htc/regionalized/1f96ed55745ae6e4bb23f98967e75b9bdff083d5-90x22.svg?q=75&fit=max&auto=format)![Image 117: Walgreens](https://cdn.sanity.io/images/599r6htc/regionalized/13a0eef20388c9c9d42d48c82ea5211360d31ce6-107x22.svg?q=75&fit=max&auto=format)![Image 118: Zoom](https://cdn.sanity.io/images/599r6htc/regionalized/3081387dc4c82dc9a24d653c3c86fa96b8c450a8-81x18.svg?q=75&fit=max&auto=format)
+
+![Image 119: AirBnb](https://cdn.sanity.io/images/599r6htc/regionalized/1622439415c22e4475400432eae4619d1592a8bc-71x22.svg?q=75&fit=max&auto=format)![Image 120: Asana](https://cdn.sanity.io/images/599r6htc/regionalized/60b2475fef8f3b7937bf0f87d2963942bade992d-91x18.svg?q=75&fit=max&auto=format)![Image 121: Atlassian](https://cdn.sanity.io/images/599r6htc/regionalized/01d4ea19e824b3596f8f6c701d3b8319e49631b0-146x18.svg?q=75&fit=max&auto=format)![Image 122: Basic/Dept](https://cdn.sanity.io/images/599r6htc/regionalized/f57de7a60072186315b1f73e8bcdde7dbec4751d-137x18.svg?q=75&fit=max&auto=format)![Image 123: Braintree](https://cdn.sanity.io/images/599r6htc/regionalized/2ff6045d0ab55331e071ce8d8eb1b7599e990075-133x18.svg?q=75&fit=max&auto=format)![Image 124: Coinbase](https://cdn.sanity.io/images/599r6htc/regionalized/5346e3225c390cfbc1fb528a0b0d8443c50af995-102x18.svg?q=75&fit=max&auto=format)![Image 125: Dribbble](https://cdn.sanity.io/images/599r6htc/regionalized/c58b8c7de2db91357b690f215db6992f3538e67b-75x18.svg?q=75&fit=max&auto=format)![Image 126: Dropbox](https://cdn.sanity.io/images/599r6htc/regionalized/c641bb5bbe69c6b42344fd2333924a206ef43736-92x18.svg?q=75&fit=max&auto=format)![Image 127: GitHub](https://cdn.sanity.io/images/599r6htc/regionalized/a9bfb23cca986ee16b0547274bcd7461ffd373aa-67x18.svg?q=75&fit=max&auto=format)![Image 128: Herman Miller](https://cdn.sanity.io/images/599r6htc/regionalized/1bd42f01581af00431a984e96081d8af05c40051-90x22.svg?q=75&fit=max&auto=format)![Image 129: Microsoft](https://cdn.sanity.io/images/599r6htc/regionalized/cc8b81fd47ded1e82d83258e2f674e0951e20fcc-86x18.svg?q=75&fit=max&auto=format)![Image 130: The New York Times](https://cdn.sanity.io/images/599r6htc/regionalized/5e789db505180ee41e0612d7d53e2ec48c9c5837-153x20.svg?q=75&fit=max&auto=format)![Image 131: One Medical](https://cdn.sanity.io/images/599r6htc/regionalized/a2544152178b2e3388b0eff5cdb37ceb8bb5f148-146x18.svg?q=75&fit=max&auto=format)![Image 132: Rakuten](https://cdn.sanity.io/images/599r6htc/regionalized/365a922fac7ab7bd921329b8652a60d35a605e85-68x20.svg?q=75&fit=max&auto=format)![Image 133: Slack](https://cdn.sanity.io/images/599r6htc/regionalized/fb78b2f382a2d2d93b155601fbc9032379d2515d-79x20.svg?q=75&fit=max&auto=format)![Image 134: Vodafone](https://cdn.sanity.io/images/599r6htc/regionalized/1f96ed55745ae6e4bb23f98967e75b9bdff083d5-90x22.svg?q=75&fit=max&auto=format)![Image 135: Walgreens](https://cdn.sanity.io/images/599r6htc/regionalized/13a0eef20388c9c9d42d48c82ea5211360d31ce6-107x22.svg?q=75&fit=max&auto=format)![Image 136: Zoom](https://cdn.sanity.io/images/599r6htc/regionalized/3081387dc4c82dc9a24d653c3c86fa96b8c450a8-81x18.svg?q=75&fit=max&auto=format)
+
+Redesign how you design.
+------------------------
+
+Explore your ideas freely and iterate quickly.
+
+### Generate simple UI with AI
+
+Instantly create mockups to explore a bigger option space.
+
+[Learn more](https://www.figma.com/ai/)
+
+![Image 137: calendar image](blob:https://www.figma.com/adb6a054f3a6a07ccd0fff778c1a8583)![Image 138: calendar image](https://cdn.sanity.io/images/599r6htc/regionalized/5ee6b7f438fa1f6a463a8c8f27cfa91f24ddb13f-1560x1248.png?rect=0,1,1560,1247&w=908&h=726&q=75&fit=max&auto=format)
+
+### Design consistently with Auto Layout
+
+Make designs that automatically adjust to layout size—no more manually resizing.
+
+![Image 139: list of food](blob:https://www.figma.com/5796bb539c4c6f916f3a763324c34051)![Image 140: list of food](https://cdn.sanity.io/images/599r6htc/regionalized/5023ad3065a0a3e921860efee9b350a1a5fceb1d-1560x1248.png?rect=0,1,1560,1247&w=908&h=726&q=75&fit=max&auto=format)
+
+### Scale your edits instantly
+
+Save time and effort by batch editing multiple frames at once, whether in a system or freeform.
+
+![Image 141: editing various lamps](blob:https://www.figma.com/0be1fc067f163f31b38fed418cb324da)![Image 142: editing various lamps](https://cdn.sanity.io/images/599r6htc/regionalized/aa8ae1c56226c77b4410e114cc5a03e078d4ed90-1560x1248.png?rect=0,1,1560,1247&w=908&h=726&q=75&fit=max&auto=format)
+
+### Make prototypes with AI
+
+Automatically create realistic prototypes for quick testing of your flows and interactions.
+
+![Image 143: library of prototypes](blob:https://www.figma.com/60d0c7346138af6c67d64f3341b954b5)![Image 144: library of prototypes](https://cdn.sanity.io/images/599r6htc/regionalized/c8174e61d33387509762b12d0033a5a3d5945252-1560x1248.png?rect=0,1,1560,1247&w=908&h=726&q=75&fit=max&auto=format)
+
+### Embed prototypes in your presentations
+
+Present playable, high-fidelity prototypes directly from your deck.
+
+![Image 145: slides preview with iphone ](blob:https://www.figma.com/4aa6cfa474e3648e52ca5b7960d0857a)![Image 146: slides preview with iphone ](https://cdn.sanity.io/images/599r6htc/regionalized/1fa810c230b19fb89ff3c2a50f5fb4986041a913-1560x1248.png?rect=0,1,1560,1247&w=908&h=726&q=75&fit=max&auto=format)
+
+Bring design and dev together.
+------------------------------
+
+Easily translate designs into code with a workflow built for developers.
+
+1/4
+
+![Image 147: icons and libraries](blob:https://www.figma.com/f2218fb3625410006ef2228e11f753d1)![Image 148: icons and libraries](https://cdn.sanity.io/images/599r6htc/regionalized/ed6e1575c8d6883805697d4c1520fb30973d6dc5-1200x800.png?rect=1,0,1199,800&w=700&h=467&q=75&fit=max&auto=format)
+
+### Design systems that scale.
+
+Streamline the product development process with a design system that’s aligned across design and code.
+
+[Learn about design systems](https://www.figma.com/design-systems/)
+
+![Image 149: inspect feature with code preview](blob:https://www.figma.com/5f247c1aaf13c2a38b215b89b68b1796)![Image 150: inspect feature with code preview](https://cdn.sanity.io/images/599r6htc/regionalized/6763a77d77f4a293f47012dbe547af93c5030cd7-1320x880.png?rect=1,0,1319,880&w=700&h=467&q=75&fit=max&auto=format)
+
+### Keep design and code connected.
+
+Bring your component code into Dev Mode so developers get the right code, every time.
+
+[Learn about Dev Mode](https://www.figma.com/dev-mode/)
+
+![Image 151: ready for dev preview](blob:https://www.figma.com/4f49ce20e8627a051cc4712a649c3a2e)![Image 152: ready for dev preview](https://cdn.sanity.io/images/599r6htc/regionalized/771714e605eb78af505cc99d18136308a48e43a6-1320x880.png?rect=1,0,1319,880&w=700&h=467&q=75&fit=max&auto=format)
+
+### Focus on the details in Focus View.
+
+Select and inspect a specific design in Dev Mode, then dig into the details in Focus View so you know exactly what to build.
+
+![Image 153: version history example](blob:https://www.figma.com/24e4f075611039373463b4a969257c11)![Image 154: version history example](https://cdn.sanity.io/images/599r6htc/regionalized/59b7504fab0d1f497159295d796bbfa289771461-1200x800.png?rect=1,0,1199,800&w=700&h=467&q=75&fit=max&auto=format)
+
+### Track progress with design statuses.
+
+Stay informed with clear design status updates on what’s changed, completed, or ready to build—all in Dev Mode.
+
+Build better products, together.
+--------------------------------
+
+Everything your team needs to brainstorm, design, and build.
+
+### Create one source of truth.
+
+Everyone can collaborate seamlessly in one shared file. Designers, developers, copywriters—even external contractors and clients.
+
+### Talk. Chat. Comment.
+
+Communicate via audio or chat to connect quickly within your file. Gather and keep track of feedback with comments.
+
+> Every discipline has a centralized location to view, understand, and contribute to the work.
+
+![Image 155: Patagonia](https://cdn.sanity.io/images/599r6htc/regionalized/4a455663c4f53c62a6ba9083c960b298ff226f70-122x25.svg?q=75&fit=max&auto=format)
+
+![Image 156](blob:https://www.figma.com/3919f347de396c8323c99adda98c52f7)![Image 157](https://cdn.sanity.io/images/599r6htc/regionalized/a665614100a42cf927fcf103846eb553fa982847-640x640.png?w=48&h=48&q=75&fit=max&auto=format)
+
+Levon SharrowDirector of Experience Design
+
+Learn how to use Figma
+----------------------
+
+[Figma Design: Beginner tutorial](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-tutorial-4-parts-)[Intro to design systems](https://help.figma.com/hc/en-us/sections/14548397990423-Introduction-to-design-systems-5-parts)[Guide to FigJam](https://help.figma.com/hc/en-us/articles/1500004362321-Guide-to-FigJam)
+
+[](https://www.figma.com/)
+
+*   [](https://x.com/figma "X")
+*   [](https://www.youtube.com/figmadesign "YouTube")
+*   [](https://www.instagram.com/figma "Instagram")
+*   [](https://www.facebook.com/figmadesign "Facebook")
+
+Product
+-------
+
+*   [Figma Design](https://www.figma.com/design/)
+*   [FigJam](https://www.figma.com/figjam/)
+*   [Dev Mode](https://www.figma.com/dev-mode/)
+*   [Figma Slides](https://www.figma.com/slides/)
+*   [Release notes](https://www.figma.com/release-notes/)
+*   [What’s new](https://www.figma.com/whats-new/)
+*   [Downloads](https://www.figma.com/downloads/)
+
+Plans
+-----
+
+*   [Pricing](https://www.figma.com/pricing/)
+*   [Enterprise](https://www.figma.com/enterprise/)
+*   [Organization](https://www.figma.com/organization/)
+*   [Professional](https://www.figma.com/professional/)
+
+Use cases
+---------
+
+*   [UI design](https://www.figma.com/ui-design-tool/)
+*   [UX design](https://www.figma.com/ux-design-tool/)
+*   [Wireframing](https://www.figma.com/wireframe-tool/)
+*   [Diagramming](https://www.figma.com/figjam/diagramming-tool/)
+*   [Prototyping](https://www.figma.com/prototyping/)
+*   [Brainstorming](https://www.figma.com/figjam/brainstorming-tool/)
+*   [Presentation maker](https://www.figma.com/presentation-maker/)
+*   [Online whiteboard](https://www.figma.com/online-whiteboard/)
+*   [Agile](https://www.figma.com/figjam/agile-workflows/)
+*   [Strategic planning](https://www.figma.com/figjam/strategic-planning/)
+*   [Mind mapping](https://www.figma.com/figjam/mind-map/)
+
+Resources
+---------
+
+*   [Blog](https://www.figma.com/blog/)
+*   [Best practices](https://www.figma.com/best-practices/)
+*   [Color wheel](https://www.figma.com/color-wheel/)
+*   [Colors](https://www.figma.com/colors/)
+*   [Color picker](https://www.figma.com/color-picker/)
+*   [Color palettes](https://www.figma.com/color-palettes/)
+*   [Color palette generator](https://www.figma.com/color-palette-generator/)
+*   [Color contrast checker](https://www.figma.com/color-contrast-checker/)
+*   [Templates](https://www.figma.com/templates/)
+*   [Developers](https://www.figma.com/developers)
+*   [Integrations](https://www.figma.com/product-integrations/)
+*   [Affiliate program](https://www.figma.com/affiliate-program/)
+*   [Resource library](https://www.figma.com/resource-library/)
+*   [Reports and insights](https://www.figma.com/reports/)
+*   [Support](https://help.figma.com/hc/en-us)
+*   [Status](https://status.figma.com/)
+*   [Legal and privacy](https://www.figma.com/legal/)
+*   [Modern slavery statement](https://static.figma.com/uploads/1b6f8f613c2cc1e77fe543424bbc631298504d35)
+*   [Climate disclosure statement](https://static.figma.com/uploads/d2a204b5cc4d64ff539fcd445d0ddedab7dc00f6)
+
+Compare
+-------
+
+*   [Sketch](https://www.figma.com/figma-vs-sketch/)
+*   [Adobe XD](https://www.figma.com/figma-vs-adobe-xd/)
+*   [Framer](https://www.figma.com/figma-vs-framer/)
+*   [Miro](https://www.figma.com/figjam-vs-miro/)
+
+Company
+-------
+
+*   [About us](https://www.figma.com/about/)
+*   [Events](https://www.figma.com/events/)
+*   [Customers](https://www.figma.com/customers/)
+*   [Careers](https://www.figma.com/careers/)
+
+English
+
+*   [English](https://www.figma.com/)
+*   [Deutsch](https://www.figma.com/de-de/)
+*   [Español (España)](https://www.figma.com/es-es/)
+*   [Español (Latinoamérica)](https://www.figma.com/es-la/)
+*   [Français](https://www.figma.com/fr-fr/)
+*   [Português (Brasil)](https://www.figma.com/pt-br/)
+*   [日本語](https://www.figma.com/ja-jp/)
+*   [한국어](https://www.figma.com/ko-kr/)

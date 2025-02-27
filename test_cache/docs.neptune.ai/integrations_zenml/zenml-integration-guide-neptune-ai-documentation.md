@@ -1,0 +1,276 @@
+---
+title: ZenML integration guide - neptune.ai documentation
+description: How to integrate Neptune with ZenML.
+url: https://docs.neptune.ai/integrations/zenml/
+timestamp: 2025-01-20T16:18:33.181Z
+domain: docs.neptune.ai
+path: integrations_zenml
+---
+
+# ZenML integration guide - neptune.ai documentation
+
+
+How to integrate Neptune with ZenML.
+
+
+## Content
+
+![Image 9: Custom dashboard displaying metadata logged with ZenML](https://docs.neptune.ai/img/app/integrations/zenml.png)
+
+ZenML is a technology-agnostic, open source pipelines framework. With the Neptune-ZenML integration, you can log and visualize information from your ZenML pipeline steps (such as models, parameters, metrics).
+
+[See in Neptune](https://app.neptune.ai/o/showcase/org/zenml/runs/details?viewId=9b9ba960-9942-4870-9347-5470b9c8f221&detailsTab=dashboard&dashboardId=9b9ba99d-6dfc-4f15-be2c-36a17a6b94a2&shortId=ZEN-1&type=run)  [Code examples](https://github.com/neptune-ai/examples/blob/main/integrations-and-supported-tools/zenml/scripts)
+
+Setup[#](https://docs.neptune.ai/integrations/zenml/#setup "Link to section")
+-----------------------------------------------------------------------------
+
+### Installing the Neptune-ZenML integration[#](https://docs.neptune.ai/integrations/zenml/#installing-the-neptune-zenml-integration "Link to section")
+
+The Neptune Experiment Tracker flavor is provided by the Neptune-ZenML integration. To register the Neptune Experiment Tracker and add it to your stack, start by installing the integration:
+
+```
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-0-1)zenmlintegrationinstallneptune-y
+```
+
+### Storing your Neptune credentials[#](https://docs.neptune.ai/integrations/zenml/#storing-your-neptune-credentials "Link to section")
+
+As a best practice, you should save your Neptune credentials as environment variables.
+
+#### Setting your API token[#](https://docs.neptune.ai/integrations/zenml/#setting-your-api-token "Link to section")
+
+1.  In the bottom-left corner of the app, expand your user menu.
+2.  Select **Get Your API token**.
+    
+    ![Image 10: How to find your Neptune API token](https://docs.neptune.ai/img/app/get_api_token.png)
+    
+3.  Depending on your system:
+    
+    Linux macOS Windows Jupyter Notebook
+    
+    From the API token dialog in Neptune, copy the `export` command and append the line to your `.profile` or other shell initialization file.
+    
+    Example line
+    
+    ```
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-1-1)exportNEPTUNE_API_TOKEN="uyVrZXkiOiIzNTd..."
+    ```
+    
+    From the API token dialog in Neptune, copy the `export` command and append the line to your `.profile` or other shell initialization file.
+    
+    Example line
+    
+    ```
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-2-1)exportNEPTUNE_API_TOKEN="uyVrZXkiOiIzNTd..."
+    ```
+    
+    1.  From the API token dialog in Neptune, copy the `setx` command.
+        
+        Example line
+        
+        ```
+        [](https://docs.neptune.ai/integrations/zenml/#__codelineno-3-1)setx NEPTUNE_API_TOKEN "uyVrZXkiOiIzNTd..."
+        ```
+        
+    2.  Open a terminal app, such as PowerShell or Command Prompt.
+        
+    3.  Paste the line you copied and press enter.
+    4.  To activate the change, restart the terminal app.
+    
+    You can also navigate to **Settings** → **Edit the system environment variables** and add the variable there.
+    
+    You can use the os library to set the token as an environment variable.
+    
+    Add the following to a notebook cell:
+    
+    ```
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-4-1)importos
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-4-2)fromgetpassimport getpass
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-4-3)os.environ["NEPTUNE_API_TOKEN"] = getpass("Enter your Neptune API token: ")
+    ```
+    
+    From the API token dialog, copy your token, paste it in the input box, and hit Enter.
+    
+    Note that any environment variables declared this way won't persist after the notebook kernel shuts down. If you start a new kernel, they need to be set again.
+    
+
+#### Setting your project name[#](https://docs.neptune.ai/integrations/zenml/#setting-your-project-name "Link to section")
+
+1.  Open the project settings ( ).
+2.  Select **Details & privacy**.
+    
+    ![Image 11: How to access project details](https://docs.neptune.ai/img/app/find_project_properties.png)
+    
+3.  Find the copy button () next to the project name.
+    
+4.  Assign the project name to an environment variable named `NEPTUNE_PROJECT`:
+    
+    Linux macOS Windows Jupyter Notebook
+    
+    Append the following line to your `.profile` (or other shell configuration file):
+    
+    ```
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-5-1)exportNEPTUNE_PROJECT="workspace-name/project-name"
+    ```
+    
+    where `workspace-name/project-name` is the full project name you just copied.
+    
+    Append the following line to your `.profile` (or other shell configuration file):
+    
+    ```
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-6-1)exportNEPTUNE_PROJECT="workspace-name/project-name"
+    ```
+    
+    where `workspace-name/project-name` is the full project name you just copied.
+    
+    To set the project name permanently:
+    
+    1.  Open a terminal app, such as PowerShell or Command Prompt.
+    2.  Paste in the following command and press enter:
+        
+        ```
+        [](https://docs.neptune.ai/integrations/zenml/#__codelineno-7-1)setx NEPTUNE_PROJECT "workspace-name/project-name"
+        ```
+        
+        where `workspace-name/project-name` is the full project name you just copied.
+        
+    3.  To activate the change, restart the terminal.
+        
+    
+    You can also navigate to **Settings** → **Edit the system environment variables** and add the variable there.
+    
+    You can use the os library to set the project name as an environment variable:
+    
+    ```
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-8-1)importos
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-8-2)os.environ["NEPTUNE_PROJECT"] = "workspace-name/project-name"
+    ```
+    
+    where `workspace-name/project-name` is the full project name you just copied.
+    
+    Note that any environment variables declared this way won't persist after the notebook kernel shuts down. If you start a new kernel, they need to be set again.
+    
+
+### Registering the Neptune Experiment Tracker[#](https://docs.neptune.ai/integrations/zenml/#registering-the-neptune-experiment-tracker "Link to section")
+
+Register `neptune_tracker` with the `neptune` flavor:
+
+```
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-9-1)zenmlexperiment-trackerregisterneptune_tracker--flavor=neptune# (1)!
+```
+
+1.  Neptune fetches the values of `project` and `api_token` from the `NEPTUNE_PROJECT` and `NEPTUNE_API_TOKEN` environment variables. If these have not been set, you can pass them directly to `zenml experiment-tracker register` (not recommended in production settings):
+    
+    ```
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-10-1)zenmlexperiment-trackerregisterneptune_tracker\
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-10-2)--flavor=neptune\
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-10-3)--project="YOUR_NEPTUNE_PROJECT"\
+    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-10-4)--api_token="YOUR_NEPTUNE_API_TOKEN"
+    ```
+    
+
+### Creating a stack with `neptune_tracker` as the experiment tracker[#](https://docs.neptune.ai/integrations/zenml/#creating-a-stack-with-neptune_tracker-as-the-experiment-tracker "Link to section")
+
+Create a new stack with the Neptune Experiment Tracker.
+
+The `--set` flag sets the new stack as the active one.
+
+```
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-11-1)zenmlstackregisterneptune_stack\
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-11-2)-eneptune_tracker\
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-11-3)...
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-11-4)--set
+```
+
+Adding Neptune to an existing stack
+
+You can add the Neptune Experiment Tracker to an existing stack by using `zenml stack update`:
+
+```
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-12-1)zenmlstackupdateEXISTING_STACK_NAME-eneptune_tracker
+```
+
+Using the Neptune-ZenML integration[#](https://docs.neptune.ai/integrations/zenml/#using-the-neptune-zenml-integration "Link to section")
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+### Manually logging metadata to the run object[#](https://docs.neptune.ai/integrations/zenml/#manually-logging-metadata-to-the-run-object "Link to section")
+
+You can access the Neptune [`Run`](https://docs.neptune.ai/api/run/) object with the `get_neptune_run()` function. Use the object to track metadata from your training pipeline in a structure of your choosing.
+
+```
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-1)fromzenml.integrations.neptune.experiment_trackers.run_stateimport (
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-2)    get_neptune_run
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-3))
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-4)
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-5)@step(experiment_tracker="neptune_tracker", ...)
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-6)defmy_step():
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-7)    neptune_run = get_neptune_run()
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-8)    neptune_run["sys/name"] = "My custom run name" # (1)!
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-9)    neptune_run["params/lr"] = params.lr # (2)!
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-10)    ...
+```
+
+1.  Sets a [custom name](https://docs.neptune.ai/logging/custom_run_name/), which you can use as a human-friendly ID.
+    
+    To display it in the app, add `sys/name` as a column.
+    
+    You can also edit the name in the run information view ( → **Run information**).
+    
+2.  Assign any value to a path of your choice. This would store the learning rate under a field called `lr` inside a namespace called `params`.
+    
+
+### Adding tags to the Neptune run[#](https://docs.neptune.ai/integrations/zenml/#adding-tags-to-the-neptune-run "Link to section")
+
+You can use `NeptuneExperimentTrackerSettings` to add tags to the Neptune run during initialization:
+
+```
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-1)fromzenml.integrations.neptune.flavorsimport NeptuneExperimentTrackerSettings
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-2)
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-3)neptune_settings = NeptuneExperimentTrackerSettings(
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-4)    tags={"regression", "script", "sklearn"}
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-5))
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-6)
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-7)@step(
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-8)    experiment_tracker="neptune_tracker",
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-9)    settings={"experiment_tracker.neptune": neptune_settings},
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-10)    ...
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-11))
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-12)defmy_step():
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-13)    ...
+```
+
+### Logging pipeline and step metadata to the run[#](https://docs.neptune.ai/integrations/zenml/#logging-pipeline-and-step-metadata-to-the-run "Link to section")
+
+```
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-1)fromzenmlimport get_step_context
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-2)fromzenml.integrations.neptune.experiment_trackers.run_stateimport (
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-3)    get_neptune_run
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-4))
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-5)fromneptune.utilsimport stringify_unsupported
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-6)
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-7)@step(experiment_tracker="neptune_tracker", ...)
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-8)defmy_step():
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-9)    neptune_run = get_neptune_run()
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-10)    context = get_step_context()
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-11)
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-12)    neptune_run["pipeline_metadata"] = stringify_unsupported(
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-13)        context.pipeline_run.get_metadata().dict()
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-14)    )    
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-15)    neptune_run[f"step_metadata/{context.step_name}"] = stringify_unsupported(
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-16)        context.step_run.get_metadata().dict()
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-17)    )
+[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-18)    ...
+```
+
+## Metadata
+
+```json
+{
+  "title": "ZenML integration guide - neptune.ai documentation",
+  "description": "How to integrate Neptune with ZenML.",
+  "url": "https://docs.neptune.ai/integrations/zenml/",
+  "content": "![Image 9: Custom dashboard displaying metadata logged with ZenML](https://docs.neptune.ai/img/app/integrations/zenml.png)\n\nZenML is a technology-agnostic, open source pipelines framework. With the Neptune-ZenML integration, you can log and visualize information from your ZenML pipeline steps (such as models, parameters, metrics).\n\n[See in Neptune](https://app.neptune.ai/o/showcase/org/zenml/runs/details?viewId=9b9ba960-9942-4870-9347-5470b9c8f221&detailsTab=dashboard&dashboardId=9b9ba99d-6dfc-4f15-be2c-36a17a6b94a2&shortId=ZEN-1&type=run)  [Code examples](https://github.com/neptune-ai/examples/blob/main/integrations-and-supported-tools/zenml/scripts)\n\nSetup[#](https://docs.neptune.ai/integrations/zenml/#setup \"Link to section\")\n-----------------------------------------------------------------------------\n\n### Installing the Neptune-ZenML integration[#](https://docs.neptune.ai/integrations/zenml/#installing-the-neptune-zenml-integration \"Link to section\")\n\nThe Neptune Experiment Tracker flavor is provided by the Neptune-ZenML integration. To register the Neptune Experiment Tracker and add it to your stack, start by installing the integration:\n\n```\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-0-1)zenmlintegrationinstallneptune-y\n```\n\n### Storing your Neptune credentials[#](https://docs.neptune.ai/integrations/zenml/#storing-your-neptune-credentials \"Link to section\")\n\nAs a best practice, you should save your Neptune credentials as environment variables.\n\n#### Setting your API token[#](https://docs.neptune.ai/integrations/zenml/#setting-your-api-token \"Link to section\")\n\n1.  In the bottom-left corner of the app, expand your user menu.\n2.  Select **Get Your API token**.\n    \n    ![Image 10: How to find your Neptune API token](https://docs.neptune.ai/img/app/get_api_token.png)\n    \n3.  Depending on your system:\n    \n    Linux macOS Windows Jupyter Notebook\n    \n    From the API token dialog in Neptune, copy the `export` command and append the line to your `.profile` or other shell initialization file.\n    \n    Example line\n    \n    ```\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-1-1)exportNEPTUNE_API_TOKEN=\"uyVrZXkiOiIzNTd...\"\n    ```\n    \n    From the API token dialog in Neptune, copy the `export` command and append the line to your `.profile` or other shell initialization file.\n    \n    Example line\n    \n    ```\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-2-1)exportNEPTUNE_API_TOKEN=\"uyVrZXkiOiIzNTd...\"\n    ```\n    \n    1.  From the API token dialog in Neptune, copy the `setx` command.\n        \n        Example line\n        \n        ```\n        [](https://docs.neptune.ai/integrations/zenml/#__codelineno-3-1)setx NEPTUNE_API_TOKEN \"uyVrZXkiOiIzNTd...\"\n        ```\n        \n    2.  Open a terminal app, such as PowerShell or Command Prompt.\n        \n    3.  Paste the line you copied and press enter.\n    4.  To activate the change, restart the terminal app.\n    \n    You can also navigate to **Settings** → **Edit the system environment variables** and add the variable there.\n    \n    You can use the os library to set the token as an environment variable.\n    \n    Add the following to a notebook cell:\n    \n    ```\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-4-1)importos\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-4-2)fromgetpassimport getpass\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-4-3)os.environ[\"NEPTUNE_API_TOKEN\"] = getpass(\"Enter your Neptune API token: \")\n    ```\n    \n    From the API token dialog, copy your token, paste it in the input box, and hit Enter.\n    \n    Note that any environment variables declared this way won't persist after the notebook kernel shuts down. If you start a new kernel, they need to be set again.\n    \n\n#### Setting your project name[#](https://docs.neptune.ai/integrations/zenml/#setting-your-project-name \"Link to section\")\n\n1.  Open the project settings ( ).\n2.  Select **Details & privacy**.\n    \n    ![Image 11: How to access project details](https://docs.neptune.ai/img/app/find_project_properties.png)\n    \n3.  Find the copy button () next to the project name.\n    \n4.  Assign the project name to an environment variable named `NEPTUNE_PROJECT`:\n    \n    Linux macOS Windows Jupyter Notebook\n    \n    Append the following line to your `.profile` (or other shell configuration file):\n    \n    ```\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-5-1)exportNEPTUNE_PROJECT=\"workspace-name/project-name\"\n    ```\n    \n    where `workspace-name/project-name` is the full project name you just copied.\n    \n    Append the following line to your `.profile` (or other shell configuration file):\n    \n    ```\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-6-1)exportNEPTUNE_PROJECT=\"workspace-name/project-name\"\n    ```\n    \n    where `workspace-name/project-name` is the full project name you just copied.\n    \n    To set the project name permanently:\n    \n    1.  Open a terminal app, such as PowerShell or Command Prompt.\n    2.  Paste in the following command and press enter:\n        \n        ```\n        [](https://docs.neptune.ai/integrations/zenml/#__codelineno-7-1)setx NEPTUNE_PROJECT \"workspace-name/project-name\"\n        ```\n        \n        where `workspace-name/project-name` is the full project name you just copied.\n        \n    3.  To activate the change, restart the terminal.\n        \n    \n    You can also navigate to **Settings** → **Edit the system environment variables** and add the variable there.\n    \n    You can use the os library to set the project name as an environment variable:\n    \n    ```\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-8-1)importos\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-8-2)os.environ[\"NEPTUNE_PROJECT\"] = \"workspace-name/project-name\"\n    ```\n    \n    where `workspace-name/project-name` is the full project name you just copied.\n    \n    Note that any environment variables declared this way won't persist after the notebook kernel shuts down. If you start a new kernel, they need to be set again.\n    \n\n### Registering the Neptune Experiment Tracker[#](https://docs.neptune.ai/integrations/zenml/#registering-the-neptune-experiment-tracker \"Link to section\")\n\nRegister `neptune_tracker` with the `neptune` flavor:\n\n```\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-9-1)zenmlexperiment-trackerregisterneptune_tracker--flavor=neptune# (1)!\n```\n\n1.  Neptune fetches the values of `project` and `api_token` from the `NEPTUNE_PROJECT` and `NEPTUNE_API_TOKEN` environment variables. If these have not been set, you can pass them directly to `zenml experiment-tracker register` (not recommended in production settings):\n    \n    ```\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-10-1)zenmlexperiment-trackerregisterneptune_tracker\\\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-10-2)--flavor=neptune\\\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-10-3)--project=\"YOUR_NEPTUNE_PROJECT\"\\\n    [](https://docs.neptune.ai/integrations/zenml/#__codelineno-10-4)--api_token=\"YOUR_NEPTUNE_API_TOKEN\"\n    ```\n    \n\n### Creating a stack with `neptune_tracker` as the experiment tracker[#](https://docs.neptune.ai/integrations/zenml/#creating-a-stack-with-neptune_tracker-as-the-experiment-tracker \"Link to section\")\n\nCreate a new stack with the Neptune Experiment Tracker.\n\nThe `--set` flag sets the new stack as the active one.\n\n```\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-11-1)zenmlstackregisterneptune_stack\\\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-11-2)-eneptune_tracker\\\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-11-3)...\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-11-4)--set\n```\n\nAdding Neptune to an existing stack\n\nYou can add the Neptune Experiment Tracker to an existing stack by using `zenml stack update`:\n\n```\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-12-1)zenmlstackupdateEXISTING_STACK_NAME-eneptune_tracker\n```\n\nUsing the Neptune-ZenML integration[#](https://docs.neptune.ai/integrations/zenml/#using-the-neptune-zenml-integration \"Link to section\")\n-----------------------------------------------------------------------------------------------------------------------------------------\n\n### Manually logging metadata to the run object[#](https://docs.neptune.ai/integrations/zenml/#manually-logging-metadata-to-the-run-object \"Link to section\")\n\nYou can access the Neptune [`Run`](https://docs.neptune.ai/api/run/) object with the `get_neptune_run()` function. Use the object to track metadata from your training pipeline in a structure of your choosing.\n\n```\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-1)fromzenml.integrations.neptune.experiment_trackers.run_stateimport (\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-2)    get_neptune_run\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-3))\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-4)\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-5)@step(experiment_tracker=\"neptune_tracker\", ...)\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-6)defmy_step():\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-7)    neptune_run = get_neptune_run()\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-8)    neptune_run[\"sys/name\"] = \"My custom run name\" # (1)!\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-9)    neptune_run[\"params/lr\"] = params.lr # (2)!\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-13-10)    ...\n```\n\n1.  Sets a [custom name](https://docs.neptune.ai/logging/custom_run_name/), which you can use as a human-friendly ID.\n    \n    To display it in the app, add `sys/name` as a column.\n    \n    You can also edit the name in the run information view ( → **Run information**).\n    \n2.  Assign any value to a path of your choice. This would store the learning rate under a field called `lr` inside a namespace called `params`.\n    \n\n### Adding tags to the Neptune run[#](https://docs.neptune.ai/integrations/zenml/#adding-tags-to-the-neptune-run \"Link to section\")\n\nYou can use `NeptuneExperimentTrackerSettings` to add tags to the Neptune run during initialization:\n\n```\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-1)fromzenml.integrations.neptune.flavorsimport NeptuneExperimentTrackerSettings\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-2)\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-3)neptune_settings = NeptuneExperimentTrackerSettings(\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-4)    tags={\"regression\", \"script\", \"sklearn\"}\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-5))\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-6)\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-7)@step(\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-8)    experiment_tracker=\"neptune_tracker\",\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-9)    settings={\"experiment_tracker.neptune\": neptune_settings},\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-10)    ...\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-11))\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-12)defmy_step():\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-14-13)    ...\n```\n\n### Logging pipeline and step metadata to the run[#](https://docs.neptune.ai/integrations/zenml/#logging-pipeline-and-step-metadata-to-the-run \"Link to section\")\n\n```\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-1)fromzenmlimport get_step_context\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-2)fromzenml.integrations.neptune.experiment_trackers.run_stateimport (\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-3)    get_neptune_run\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-4))\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-5)fromneptune.utilsimport stringify_unsupported\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-6)\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-7)@step(experiment_tracker=\"neptune_tracker\", ...)\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-8)defmy_step():\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-9)    neptune_run = get_neptune_run()\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-10)    context = get_step_context()\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-11)\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-12)    neptune_run[\"pipeline_metadata\"] = stringify_unsupported(\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-13)        context.pipeline_run.get_metadata().dict()\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-14)    )    \n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-15)    neptune_run[f\"step_metadata/{context.step_name}\"] = stringify_unsupported(\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-16)        context.step_run.get_metadata().dict()\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-17)    )\n[](https://docs.neptune.ai/integrations/zenml/#__codelineno-15-18)    ...\n```",
+  "usage": {
+    "tokens": 3691
+  }
+}
+```

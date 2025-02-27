@@ -1,0 +1,52 @@
+[​](https://docs.arguflow.ai/self_hosting#quick-start)
+
+Quick Start
+---------------------------------------------------------------------
+
+[API Reference ------------- Check out the API Reference to see all of the available endpoints and options for integrating Trieve into your application.](https://docs.trieve.ai/api-reference)[Getting Started --------------- Get started with Trieve quickly.](https://docs.trieve.ai/getting-started/quickstart)[Build Search for a Job Board ---------------------------- Learn how to build a search experience for a job board using Trieve.](https://docs.trieve.ai/examples/job-board)[Build Search for Ecommerce -------------------------- Learn how to build a search experience for an ecommerce platform using Trieve.](https://docs.trieve.ai/examples/ecommerce)
+
+Search and RAG are powerful primitives, but can take months to implement and deploy in production. Trieve abstracts away the complexity of these tasks, allowing you to focus on building your product.
+
+With Trieve, you can build and deploy a ChatGPT like experience or a search engine on your data in a matter of hours.
+
+### 
+
+[​](https://docs.arguflow.ai/self_hosting#demos-of-trieve-in-action)
+
+Demos of Trieve in Action
+
+Hackernews
+----------
+
+YCombinator Companies
+---------------------
+
+*   [Trieve HN Discovery](https://hn.trieve.ai/)
+    *   [📝 Launching Trieve HN Discovery - A Discovery Focused Search Engine for Hacker News](https://trieve.ai/launching-trieve-hn-discovery/)
+*   [YCombinator Companies Search](https://yc.trieve.ai/)
+    *   [📝 Building Search For the YC Company Directory With Trieve, Bun, and SolidJS](https://trieve.ai/building-search-for-yc-company-directory/)
+*   [SteamDB Search](https://steamdb.trieve.ai/)
+    *   [📝 Introducing Yet Another Steam Recommendation Engine!](https://trieve.ai/steam-recommendations)
+*   **This documentation site itself!** (and all Mintlify documentation sites)
+    *   [📝 Success Story: Mintlify](https://trieve.ai/success-story-mintlify/)
+
+If you are interested in a managed instance and/or SLA, reach out to us by emailing [humans@trieve.ai](mailto:humans@trieve.ai).
+
+To engage with the Trieve community, join our our [Discord](https://discord.com/invite/E9sPRZqpDT).
+
+### 
+
+[​](https://docs.arguflow.ai/self_hosting#client-libraries)
+
+Client Libraries
+
+*   [Trieve TypeScript/JavaScript Client](https://ts-sdk.trieve.ai/)
+*   [Trieve Python Client](https://pypi.org/project/trieve-py-client/)
+
+### 
+
+[​](https://docs.arguflow.ai/self_hosting#system-diagram)
+
+System Diagram
+
+Services in blue are horizontally scalable and can be run in a distributed manner.

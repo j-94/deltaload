@@ -1,0 +1,1920 @@
+GitHub - hoppscotch/hoppscotch: Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+===============
+                                           
+
+[Skip to content](https://github.com/hoppscotch/hoppscotch?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhoppscotch%2Fhoppscotch%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhoppscotch%2Fhoppscotch%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=hoppscotch%2Fhoppscotch) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[hoppscotch](https://github.com/hoppscotch) / **[hoppscotch](https://github.com/hoppscotch/hoppscotch)** Public
+
+*   Sponsor
+    
+    Sponsor hoppscotch/hoppscotch
+    =============================
+    
+    ##### GitHub Sponsors
+    
+    [Learn more about Sponsors](https://github.com/sponsors)
+    
+    [![Image 44: @hoppscotch](https://avatars.githubusercontent.com/u/56705483?s=80&v=4)](https://github.com/hoppscotch)
+    
+    [hoppscotch](https://github.com/hoppscotch)
+    
+    [hoppscotch](https://github.com/hoppscotch)
+    
+    [Sponsor](https://github.com/sponsors/hoppscotch)
+    
+    ##### External links
+    
+    ![Image 45: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)
+    
+    [opencollective.com/**hoppscotch**](https://opencollective.com/hoppscotch)
+    
+    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
+    
+    [Report abuse](https://github.com/contact/report-abuse?report=hoppscotch%2Fhoppscotch+%28Repository+Funding+Links%29)
+    
+*   [Notifications](https://github.com/login?return_to=%2Fhoppscotch%2Fhoppscotch) You must be signed in to change notification settings
+*   [Fork 4.6k](https://github.com/login?return_to=%2Fhoppscotch%2Fhoppscotch)
+*   [Star 66.6k](https://github.com/login?return_to=%2Fhoppscotch%2Fhoppscotch)
+    
+
+Open source API development ecosystem - [https://hoppscotch.io](https://hoppscotch.io/) (open-source alternative to Postman, Insomnia)
+
+[hoppscotch.io](https://hoppscotch.io/ "https://hoppscotch.io")
+
+### License
+
+[MIT license](https://github.com/hoppscotch/hoppscotch/blob/main/LICENSE)
+
+[66.6k stars](https://github.com/hoppscotch/hoppscotch/stargazers) [4.6k forks](https://github.com/hoppscotch/hoppscotch/forks) [Branches](https://github.com/hoppscotch/hoppscotch/branches) [Tags](https://github.com/hoppscotch/hoppscotch/tags) [Activity](https://github.com/hoppscotch/hoppscotch/activity)
+
+[Star](https://github.com/login?return_to=%2Fhoppscotch%2Fhoppscotch)
+
+[Notifications](https://github.com/login?return_to=%2Fhoppscotch%2Fhoppscotch) You must be signed in to change notification settings
+
+*   [Code](https://github.com/hoppscotch/hoppscotch)
+*   [Issues 478](https://github.com/hoppscotch/hoppscotch/issues)
+*   [Pull requests 55](https://github.com/hoppscotch/hoppscotch/pulls)
+*   [Discussions](https://github.com/hoppscotch/hoppscotch/discussions)
+*   [Actions](https://github.com/hoppscotch/hoppscotch/actions)
+*   [Projects 0](https://github.com/hoppscotch/hoppscotch/projects)
+*   [Wiki](https://github.com/hoppscotch/hoppscotch/wiki)
+*   [Security 3](https://github.com/hoppscotch/hoppscotch/security)
+*   [Insights](https://github.com/hoppscotch/hoppscotch/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/hoppscotch/hoppscotch)
+*   [Issues](https://github.com/hoppscotch/hoppscotch/issues)
+*   [Pull requests](https://github.com/hoppscotch/hoppscotch/pulls)
+*   [Discussions](https://github.com/hoppscotch/hoppscotch/discussions)
+*   [Actions](https://github.com/hoppscotch/hoppscotch/actions)
+*   [Projects](https://github.com/hoppscotch/hoppscotch/projects)
+*   [Wiki](https://github.com/hoppscotch/hoppscotch/wiki)
+*   [Security](https://github.com/hoppscotch/hoppscotch/security)
+*   [Insights](https://github.com/hoppscotch/hoppscotch/pulse)
+
+hoppscotch/hoppscotch
+=====================
+
+  
+
+ main
+
+[**147** Branches](https://github.com/hoppscotch/hoppscotch/branches)[**61** Tags](https://github.com/hoppscotch/hoppscotch/tags)
+
+[](https://github.com/hoppscotch/hoppscotch/branches)[](https://github.com/hoppscotch/hoppscotch/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 46: jamesgeorge007](https://avatars.githubusercontent.com/u/25279263?v=4&size=40)](https://github.com/jamesgeorge007)[jamesgeorge007](https://github.com/hoppscotch/hoppscotch/commits?author=jamesgeorge007)
+
+[chore: bump version to `2024.12.1`](https://github.com/hoppscotch/hoppscotch/commit/b48c982ea69ec086aaa00684261edf262d856ecc)
+
+Jan 15, 2025
+
+[b48c982](https://github.com/hoppscotch/hoppscotch/commit/b48c982ea69ec086aaa00684261edf262d856ecc) · Jan 15, 2025
+
+History
+-------
+
+[5,520 Commits](https://github.com/hoppscotch/hoppscotch/commits/main/)
+
+[](https://github.com/hoppscotch/hoppscotch/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.devcontainer](https://github.com/hoppscotch/hoppscotch/tree/main/.devcontainer ".devcontainer")
+
+
+
+
+
+
+
+ | 
+
+[.devcontainer](https://github.com/hoppscotch/hoppscotch/tree/main/.devcontainer ".devcontainer")
+
+
+
+
+
+
+
+ | 
+
+[chore: make devcontainer copy .env.example (](https://github.com/hoppscotch/hoppscotch/commit/0301649affa97f037605a8f7b0a2a208c42ebf3e "chore: make devcontainer copy .env.example (#3318)")[#3318](https://github.com/hoppscotch/hoppscotch/pull/3318)[)](https://github.com/hoppscotch/hoppscotch/commit/0301649affa97f037605a8f7b0a2a208c42ebf3e "chore: make devcontainer copy .env.example (#3318)")
+
+
+
+ | 
+
+Sep 28, 2023
+
+ |
+| 
+
+[.github](https://github.com/hoppscotch/hoppscotch/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/hoppscotch/hoppscotch/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[feat(ci): portable and installer build workflow for `hoppscotch-agent` (](https://github.com/hoppscotch/hoppscotch/commit/58407ae9dd14b58fe9eed9b74d7698364c55e32f "feat(ci): portable and installer build workflow for `hoppscotch-agent` (#4472)")
+
+
+
+ | 
+
+Oct 24, 2024
+
+ |
+| 
+
+[.husky](https://github.com/hoppscotch/hoppscotch/tree/main/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+[.husky](https://github.com/hoppscotch/hoppscotch/tree/main/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+[chore: bump dependencies (](https://github.com/hoppscotch/hoppscotch/commit/7aa43232ccb76ea299b739cce6ae8bcf38554e63 "chore: bump dependencies (#4444)")[#4444](https://github.com/hoppscotch/hoppscotch/pull/4444)[)](https://github.com/hoppscotch/hoppscotch/commit/7aa43232ccb76ea299b739cce6ae8bcf38554e63 "chore: bump dependencies (#4444)")
+
+
+
+ | 
+
+Oct 23, 2024
+
+ |
+| 
+
+[packages](https://github.com/hoppscotch/hoppscotch/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[packages](https://github.com/hoppscotch/hoppscotch/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[chore: bump version to `2024.12.1`](https://github.com/hoppscotch/hoppscotch/commit/b48c982ea69ec086aaa00684261edf262d856ecc "chore: bump version to `2024.12.1`
+Bump CLI version to `0.20.2`")
+
+
+
+ | 
+
+Jan 15, 2025
+
+ |
+| 
+
+[.dockerignore](https://github.com/hoppscotch/hoppscotch/blob/main/.dockerignore ".dockerignore")
+
+
+
+
+
+
+
+ | 
+
+[.dockerignore](https://github.com/hoppscotch/hoppscotch/blob/main/.dockerignore ".dockerignore")
+
+
+
+
+
+
+
+ | 
+
+[feat: container registry friendly docker images and all-in-one contai…](https://github.com/hoppscotch/hoppscotch/commit/efa40cf6ea1e4d50b7d800faa588f7f581c08aa0 "feat: container registry friendly docker images and all-in-one container (#3193)
+Co-authored-by: Balu Babu <balub997@gmail.com>")
+
+
+
+ | 
+
+Aug 23, 2023
+
+ |
+| 
+
+[.editorconfig](https://github.com/hoppscotch/hoppscotch/blob/main/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[.editorconfig](https://github.com/hoppscotch/hoppscotch/blob/main/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[docs: better copy](https://github.com/hoppscotch/hoppscotch/commit/fc05a4bb781d4f42e2ab7eabd350f2a71d0b9ffd "docs: better copy")
+
+
+
+ | 
+
+Apr 23, 2021
+
+ |
+| 
+
+[.env.example](https://github.com/hoppscotch/hoppscotch/blob/main/.env.example ".env.example")
+
+
+
+
+
+
+
+ | 
+
+[.env.example](https://github.com/hoppscotch/hoppscotch/blob/main/.env.example ".env.example")
+
+
+
+
+
+
+
+ | 
+
+[bug: .env.example fix comments formatting (](https://github.com/hoppscotch/hoppscotch/commit/86fc4d9eb5bba641ab929eff486e8838489e483c "bug: .env.example fix comments formatting (#4296)")[#4296](https://github.com/hoppscotch/hoppscotch/pull/4296)[)](https://github.com/hoppscotch/hoppscotch/commit/86fc4d9eb5bba641ab929eff486e8838489e483c "bug: .env.example fix comments formatting (#4296)")
+
+
+
+ | 
+
+Aug 26, 2024
+
+ |
+| 
+
+[.firebaserc](https://github.com/hoppscotch/hoppscotch/blob/main/.firebaserc ".firebaserc")
+
+
+
+
+
+
+
+ | 
+
+[.firebaserc](https://github.com/hoppscotch/hoppscotch/blob/main/.firebaserc ".firebaserc")
+
+
+
+
+
+
+
+ | 
+
+[Removed absolute Firebase files](https://github.com/hoppscotch/hoppscotch/commit/660cdb575a986ceb0b91feb7876cdad0093b2387 "Removed absolute Firebase files")
+
+
+
+ | 
+
+Nov 3, 2020
+
+ |
+| 
+
+[.gitattributes](https://github.com/hoppscotch/hoppscotch/blob/main/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[.gitattributes](https://github.com/hoppscotch/hoppscotch/blob/main/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[chore: add .gitattributes](https://github.com/hoppscotch/hoppscotch/commit/9f78a4c7e8074b2330eb358559a26a8716d7a7a0 "chore: add .gitattributes")
+
+
+
+ | 
+
+Mar 28, 2022
+
+ |
+| 
+
+[.gitignore](https://github.com/hoppscotch/hoppscotch/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/hoppscotch/hoppscotch/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[feat: collection runner (](https://github.com/hoppscotch/hoppscotch/commit/e8ed938b4c841a20901ab16908691088c32e1e51 "feat: collection runner (#3600)
+Co-authored-by: jamesgeorge007 <25279263+jamesgeorge007@users.noreply.github.com>
+Co-authored-by: nivedin <nivedinp@gmail.com>")[#3600](https://github.com/hoppscotch/hoppscotch/pull/3600)[)](https://github.com/hoppscotch/hoppscotch/commit/e8ed938b4c841a20901ab16908691088c32e1e51 "feat: collection runner (#3600)
+Co-authored-by: jamesgeorge007 <25279263+jamesgeorge007@users.noreply.github.com>
+Co-authored-by: nivedin <nivedinp@gmail.com>")
+
+
+
+ | 
+
+Nov 26, 2024
+
+ |
+| 
+
+[.npmrc](https://github.com/hoppscotch/hoppscotch/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[.npmrc](https://github.com/hoppscotch/hoppscotch/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[chore: pin dependencies across packages (](https://github.com/hoppscotch/hoppscotch/commit/439cd82c880427d50984681b85cb5f20564e53b9 "chore: pin dependencies across packages (#3876)")[#3876](https://github.com/hoppscotch/hoppscotch/pull/3876)[)](https://github.com/hoppscotch/hoppscotch/commit/439cd82c880427d50984681b85cb5f20564e53b9 "chore: pin dependencies across packages (#3876)")
+
+
+
+ | 
+
+Mar 7, 2024
+
+ |
+| 
+
+[.prettierignore](https://github.com/hoppscotch/hoppscotch/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/hoppscotch/hoppscotch/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[docs: better copy](https://github.com/hoppscotch/hoppscotch/commit/fc05a4bb781d4f42e2ab7eabd350f2a71d0b9ffd "docs: better copy")
+
+
+
+ | 
+
+Apr 23, 2021
+
+ |
+| 
+
+[.prettierrc.js](https://github.com/hoppscotch/hoppscotch/blob/main/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc.js](https://github.com/hoppscotch/hoppscotch/blob/main/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: bump dependencies (](https://github.com/hoppscotch/hoppscotch/commit/8c57d8171897bee35349c9e535997929ae2b95fe "chore: bump dependencies (#3258)
+Co-authored-by: Andrew Bastin <andrewbastin.k@gmail.com>")[#3258](https://github.com/hoppscotch/hoppscotch/pull/3258)[)](https://github.com/hoppscotch/hoppscotch/commit/8c57d8171897bee35349c9e535997929ae2b95fe "chore: bump dependencies (#3258)
+Co-authored-by: Andrew Bastin <andrewbastin.k@gmail.com>")
+
+
+
+ | 
+
+Aug 21, 2023
+
+ |
+| 
+
+[CHANGELOG.md](https://github.com/hoppscotch/hoppscotch/blob/main/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[CHANGELOG.md](https://github.com/hoppscotch/hoppscotch/blob/main/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[build: bump deps](https://github.com/hoppscotch/hoppscotch/commit/758460210a7ba83095ac82e5c0518b2b42fbed6f "build: bump deps")
+
+
+
+ | 
+
+Jan 24, 2022
+
+ |
+| 
+
+[CODEOWNERS](https://github.com/hoppscotch/hoppscotch/blob/main/CODEOWNERS "CODEOWNERS")
+
+
+
+
+
+
+
+ | 
+
+[CODEOWNERS](https://github.com/hoppscotch/hoppscotch/blob/main/CODEOWNERS "CODEOWNERS")
+
+
+
+
+
+
+
+ | 
+
+[chore: update CODEOWNERS](https://github.com/hoppscotch/hoppscotch/commit/cc1be91446f2f38f221832bf6353aebd22f6fe0a "chore: update CODEOWNERS")
+
+
+
+ | 
+
+Jun 17, 2024
+
+ |
+| 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/hoppscotch/hoppscotch/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/hoppscotch/hoppscotch/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[docs: updated screenshots and features list (](https://github.com/hoppscotch/hoppscotch/commit/f34d896095959e516fe6c3d0cda9892a51456b68 "docs: updated screenshots and features list (#3310)")[#3310](https://github.com/hoppscotch/hoppscotch/pull/3310)[)](https://github.com/hoppscotch/hoppscotch/commit/f34d896095959e516fe6c3d0cda9892a51456b68 "docs: updated screenshots and features list (#3310)")
+
+
+
+ | 
+
+Sep 5, 2023
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/hoppscotch/hoppscotch/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/hoppscotch/hoppscotch/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: update CONTRIBUTING.md](https://github.com/hoppscotch/hoppscotch/commit/292d752f329f5d9d22b3a50a0d61110d478a7236 "chore: update CONTRIBUTING.md")
+
+
+
+ | 
+
+Jun 17, 2024
+
+ |
+| 
+
+[LICENSE](https://github.com/hoppscotch/hoppscotch/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/hoppscotch/hoppscotch/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[docs: updated copyright year](https://github.com/hoppscotch/hoppscotch/commit/1350919c7869047845a60ff36fb41a7d70fe8407 "docs: updated copyright year")
+
+
+
+ | 
+
+Jan 24, 2022
+
+ |
+| 
+
+[README.md](https://github.com/hoppscotch/hoppscotch/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/hoppscotch/hoppscotch/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: added micro interactions (](https://github.com/hoppscotch/hoppscotch/commit/0d0ad7a2f80903fa16b9d5f1b9e761edfc0805c3 "chore: added micro interactions (#3783)
+Co-authored-by: Dmitry <mukovkin@yandex.ru>")[#3783](https://github.com/hoppscotch/hoppscotch/pull/3783)[)](https://github.com/hoppscotch/hoppscotch/commit/0d0ad7a2f80903fa16b9d5f1b9e761edfc0805c3 "chore: added micro interactions (#3783)
+Co-authored-by: Dmitry <mukovkin@yandex.ru>")
+
+
+
+ | 
+
+Jan 30, 2024
+
+ |
+| 
+
+[SECURITY.md](https://github.com/hoppscotch/hoppscotch/blob/main/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[SECURITY.md](https://github.com/hoppscotch/hoppscotch/blob/main/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: update SECURITY.md](https://github.com/hoppscotch/hoppscotch/commit/e6cd03c28385688cc6ec848131694309683c9022 "chore: update SECURITY.md")
+
+
+
+ | 
+
+Jun 17, 2024
+
+ |
+| 
+
+[TRANSLATIONS.md](https://github.com/hoppscotch/hoppscotch/blob/main/TRANSLATIONS.md "TRANSLATIONS.md")
+
+
+
+
+
+
+
+ | 
+
+[TRANSLATIONS.md](https://github.com/hoppscotch/hoppscotch/blob/main/TRANSLATIONS.md "TRANSLATIONS.md")
+
+
+
+
+
+
+
+ | 
+
+[docs: updated screenshots and features list (](https://github.com/hoppscotch/hoppscotch/commit/f34d896095959e516fe6c3d0cda9892a51456b68 "docs: updated screenshots and features list (#3310)")[#3310](https://github.com/hoppscotch/hoppscotch/pull/3310)[)](https://github.com/hoppscotch/hoppscotch/commit/f34d896095959e516fe6c3d0cda9892a51456b68 "docs: updated screenshots and features list (#3310)")
+
+
+
+ | 
+
+Sep 5, 2023
+
+ |
+| 
+
+[aio-multiport-setup.Caddyfile](https://github.com/hoppscotch/hoppscotch/blob/main/aio-multiport-setup.Caddyfile "aio-multiport-setup.Caddyfile")
+
+
+
+
+
+
+
+ | 
+
+[aio-multiport-setup.Caddyfile](https://github.com/hoppscotch/hoppscotch/blob/main/aio-multiport-setup.Caddyfile "aio-multiport-setup.Caddyfile")
+
+
+
+
+
+
+
+ | 
+
+[feat: ability for aio in sub-path access configurations to specify al…](https://github.com/hoppscotch/hoppscotch/commit/c1bc74635fca794d5bf6bee2ebae0a55773ddc3b "feat: ability for aio in sub-path access configurations to specify alternate ports (#4480)")
+
+
+
+ | 
+
+Oct 28, 2024
+
+ |
+| 
+
+[aio-subpath-access.Caddyfile](https://github.com/hoppscotch/hoppscotch/blob/main/aio-subpath-access.Caddyfile "aio-subpath-access.Caddyfile")
+
+
+
+
+
+
+
+ | 
+
+[aio-subpath-access.Caddyfile](https://github.com/hoppscotch/hoppscotch/blob/main/aio-subpath-access.Caddyfile "aio-subpath-access.Caddyfile")
+
+
+
+
+
+
+
+ | 
+
+[feat: ability for aio in sub-path access configurations to specify al…](https://github.com/hoppscotch/hoppscotch/commit/c1bc74635fca794d5bf6bee2ebae0a55773ddc3b "feat: ability for aio in sub-path access configurations to specify alternate ports (#4480)")
+
+
+
+ | 
+
+Oct 28, 2024
+
+ |
+| 
+
+[aio\_run.mjs](https://github.com/hoppscotch/hoppscotch/blob/main/aio_run.mjs "aio_run.mjs")
+
+
+
+
+
+
+
+ | 
+
+[aio\_run.mjs](https://github.com/hoppscotch/hoppscotch/blob/main/aio_run.mjs "aio_run.mjs")
+
+
+
+
+
+
+
+ | 
+
+[refactor: slim down the backend containers (](https://github.com/hoppscotch/hoppscotch/commit/afea75694fe0db497b0d2fc6cf1be05c636a38c8 "refactor: slim down the backend containers (#4233)
+* refactor: slim down the backend containers
+* refactor: make containers run as non-root user in container
+* chore: correct casing for the build stage definitions
+* chore: remove docker compose version field as its obsolete
+* chore: optimise chown and chmod into the COPY command itself
+* chore: add package overrides for packages with reported vulns
+* chore: add pnpm to containers + set workdir dir to the backend project
+* fix: permission issues with the fe containers
+* chore: define env variables on AIO")[#4233](https://github.com/hoppscotch/hoppscotch/pull/4233)[)](https://github.com/hoppscotch/hoppscotch/commit/afea75694fe0db497b0d2fc6cf1be05c636a38c8 "refactor: slim down the backend containers (#4233)
+* refactor: slim down the backend containers
+* refactor: make containers run as non-root user in container
+* chore: correct casing for the build stage definitions
+* chore: remove docker compose version field as its obsolete
+* chore: optimise chown and chmod into the COPY command itself
+* chore: add package overrides for packages with reported vulns
+* chore: add pnpm to containers + set workdir dir to the backend project
+* fix: permission issues with the fe containers
+* chore: define env variables on AIO")
+
+
+
+ | 
+
+Aug 8, 2024
+
+ |
+| 
+
+[commitlint.config.js](https://github.com/hoppscotch/hoppscotch/blob/main/commitlint.config.js "commitlint.config.js")
+
+
+
+
+
+
+
+ | 
+
+[commitlint.config.js](https://github.com/hoppscotch/hoppscotch/blob/main/commitlint.config.js "commitlint.config.js")
+
+
+
+
+
+
+
+ | 
+
+[feat: added commitlint, semantic pr](https://github.com/hoppscotch/hoppscotch/commit/a2354b5e9e501298727a2149955331d58cd4f29d "feat: added commitlint, semantic pr")
+
+
+
+ | 
+
+Jun 27, 2021
+
+ |
+| 
+
+[docker-compose.deploy.yml](https://github.com/hoppscotch/hoppscotch/blob/main/docker-compose.deploy.yml "docker-compose.deploy.yml")
+
+
+
+
+
+
+
+ | 
+
+[docker-compose.deploy.yml](https://github.com/hoppscotch/hoppscotch/blob/main/docker-compose.deploy.yml "docker-compose.deploy.yml")
+
+
+
+
+
+
+
+ | 
+
+[build: enable the use of external DB for internal test deployments (](https://github.com/hoppscotch/hoppscotch/commit/1fe4685fe9decf7e7cb60887beb5e0ef1665101c "build: enable the use of external DB for internal test deployments (#4625)
+HSB-516")[#…](https://github.com/hoppscotch/hoppscotch/pull/4625)
+
+
+
+ | 
+
+Dec 18, 2024
+
+ |
+| 
+
+[docker-compose.yml](https://github.com/hoppscotch/hoppscotch/blob/main/docker-compose.yml "docker-compose.yml")
+
+
+
+
+
+
+
+ | 
+
+[docker-compose.yml](https://github.com/hoppscotch/hoppscotch/blob/main/docker-compose.yml "docker-compose.yml")
+
+
+
+
+
+
+
+ | 
+
+[refactor: slim down the backend containers (](https://github.com/hoppscotch/hoppscotch/commit/afea75694fe0db497b0d2fc6cf1be05c636a38c8 "refactor: slim down the backend containers (#4233)
+* refactor: slim down the backend containers
+* refactor: make containers run as non-root user in container
+* chore: correct casing for the build stage definitions
+* chore: remove docker compose version field as its obsolete
+* chore: optimise chown and chmod into the COPY command itself
+* chore: add package overrides for packages with reported vulns
+* chore: add pnpm to containers + set workdir dir to the backend project
+* fix: permission issues with the fe containers
+* chore: define env variables on AIO")[#4233](https://github.com/hoppscotch/hoppscotch/pull/4233)[)](https://github.com/hoppscotch/hoppscotch/commit/afea75694fe0db497b0d2fc6cf1be05c636a38c8 "refactor: slim down the backend containers (#4233)
+* refactor: slim down the backend containers
+* refactor: make containers run as non-root user in container
+* chore: correct casing for the build stage definitions
+* chore: remove docker compose version field as its obsolete
+* chore: optimise chown and chmod into the COPY command itself
+* chore: add package overrides for packages with reported vulns
+* chore: add pnpm to containers + set workdir dir to the backend project
+* fix: permission issues with the fe containers
+* chore: define env variables on AIO")
+
+
+
+ | 
+
+Aug 8, 2024
+
+ |
+| 
+
+[firebase.json](https://github.com/hoppscotch/hoppscotch/blob/main/firebase.json "firebase.json")
+
+
+
+
+
+
+
+ | 
+
+[firebase.json](https://github.com/hoppscotch/hoppscotch/blob/main/firebase.json "firebase.json")
+
+
+
+
+
+
+
+ | 
+
+[fix: broken Dockerfile and final start command](https://github.com/hoppscotch/hoppscotch/commit/36903b338a3cb7b825379b41ff0ab40ed6bf5662 "fix: broken Dockerfile and final start command")
+
+
+
+ | 
+
+Dec 2, 2022
+
+ |
+| 
+
+[firestore.indexes.json](https://github.com/hoppscotch/hoppscotch/blob/main/firestore.indexes.json "firestore.indexes.json")
+
+
+
+
+
+
+
+ | 
+
+[firestore.indexes.json](https://github.com/hoppscotch/hoppscotch/blob/main/firestore.indexes.json "firestore.indexes.json")
+
+
+
+
+
+
+
+ | 
+
+[Removed absolute Firebase files](https://github.com/hoppscotch/hoppscotch/commit/660cdb575a986ceb0b91feb7876cdad0093b2387 "Removed absolute Firebase files")
+
+
+
+ | 
+
+Nov 3, 2020
+
+ |
+| 
+
+[firestore.rules](https://github.com/hoppscotch/hoppscotch/blob/main/firestore.rules "firestore.rules")
+
+
+
+
+
+
+
+ | 
+
+[firestore.rules](https://github.com/hoppscotch/hoppscotch/blob/main/firestore.rules "firestore.rules")
+
+
+
+
+
+
+
+ | 
+
+[refactor: updated firebase rules](https://github.com/hoppscotch/hoppscotch/commit/238e41ccdaf551e3057d577eda6564c26b195868 "refactor: updated firebase rules")
+
+
+
+ | 
+
+Jan 21, 2022
+
+ |
+| 
+
+[healthcheck.sh](https://github.com/hoppscotch/hoppscotch/blob/main/healthcheck.sh "healthcheck.sh")
+
+
+
+
+
+
+
+ | 
+
+[healthcheck.sh](https://github.com/hoppscotch/hoppscotch/blob/main/healthcheck.sh "healthcheck.sh")
+
+
+
+
+
+
+
+ | 
+
+[fix: broken healthchecks on sh containers (](https://github.com/hoppscotch/hoppscotch/commit/1105fb82744ef71360a51b5d5df193680e79a1ac "fix: broken healthchecks on sh containers (#4300)")[#4300](https://github.com/hoppscotch/hoppscotch/pull/4300)[)](https://github.com/hoppscotch/hoppscotch/commit/1105fb82744ef71360a51b5d5df193680e79a1ac "fix: broken healthchecks on sh containers (#4300)")
+
+
+
+ | 
+
+Aug 29, 2024
+
+ |
+| 
+
+[jsconfig.json](https://github.com/hoppscotch/hoppscotch/blob/main/jsconfig.json "jsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[jsconfig.json](https://github.com/hoppscotch/hoppscotch/blob/main/jsconfig.json "jsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[Revert "Revert "Migrate Postwoman to Nuxt.js (full Vue and SCSS suppo…](https://github.com/hoppscotch/hoppscotch/commit/b027eeb8467de65a730cde4e7a4a4f49794e2076 "Revert \"Revert \"Migrate Postwoman to Nuxt.js (full Vue and SCSS support)\"\"")
+
+
+
+ | 
+
+Aug 24, 2019
+
+ |
+| 
+
+[netlify.toml](https://github.com/hoppscotch/hoppscotch/blob/main/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[netlify.toml](https://github.com/hoppscotch/hoppscotch/blob/main/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[chore: reintroduce updated auth mechanism](https://github.com/hoppscotch/hoppscotch/commit/ce0898956d6c89cc867d1fa4e72911359086f2e2 "chore: reintroduce updated auth mechanism")
+
+
+
+ | 
+
+Feb 7, 2023
+
+ |
+| 
+
+[package.json](https://github.com/hoppscotch/hoppscotch/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/hoppscotch/hoppscotch/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[chore: resolve Docker image vulnerabilities associated with \`cross-sp…](https://github.com/hoppscotch/hoppscotch/commit/f29504b2f5da187cc6b259b18f70e1a009d1d8b9 "chore: resolve Docker image vulnerabilities associated with `cross-spawn` (#4634)
+Co-authored-by: jamesgeorge007 <25279263+jamesgeorge007@users.noreply.github.com>")
+
+
+
+ | 
+
+Dec 20, 2024
+
+ |
+| 
+
+[pnpm-lock.yaml](https://github.com/hoppscotch/hoppscotch/blob/main/pnpm-lock.yaml "pnpm-lock.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pnpm-lock.yaml](https://github.com/hoppscotch/hoppscotch/blob/main/pnpm-lock.yaml "pnpm-lock.yaml")
+
+
+
+
+
+
+
+ | 
+
+[feat: support for sending client credentials via basic auth header (](https://github.com/hoppscotch/hoppscotch/commit/8b70d7f419217d97c232a3b4826428577e6b2268 "feat: support for sending client credentials via basic auth header (#4635)
+Co-authored-by: jamesgeorge007 <25279263+jamesgeorge007@users.noreply.github.com>
+Co-authored-by: nivedin <nivedinp@gmail.com>")[#…](https://github.com/hoppscotch/hoppscotch/pull/4635)
+
+
+
+ | 
+
+Jan 15, 2025
+
+ |
+| 
+
+[pnpm-workspace.yaml](https://github.com/hoppscotch/hoppscotch/blob/main/pnpm-workspace.yaml "pnpm-workspace.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pnpm-workspace.yaml](https://github.com/hoppscotch/hoppscotch/blob/main/pnpm-workspace.yaml "pnpm-workspace.yaml")
+
+
+
+
+
+
+
+ | 
+
+[refactor: monorepo+pnpm (removed husky)](https://github.com/hoppscotch/hoppscotch/commit/b28f82a8815112d4ba2e6b5b7aaf79cdc1fb450b "refactor: monorepo+pnpm (removed husky)")
+
+
+
+ | 
+
+Sep 9, 2021
+
+ |
+| 
+
+[prod.Dockerfile](https://github.com/hoppscotch/hoppscotch/blob/main/prod.Dockerfile "prod.Dockerfile")
+
+
+
+
+
+
+
+ | 
+
+[prod.Dockerfile](https://github.com/hoppscotch/hoppscotch/blob/main/prod.Dockerfile "prod.Dockerfile")
+
+
+
+
+
+
+
+ | 
+
+[chore: resolve Docker image vulnerabilities associated with \`cross-sp…](https://github.com/hoppscotch/hoppscotch/commit/f29504b2f5da187cc6b259b18f70e1a009d1d8b9 "chore: resolve Docker image vulnerabilities associated with `cross-spawn` (#4634)
+Co-authored-by: jamesgeorge007 <25279263+jamesgeorge007@users.noreply.github.com>")
+
+
+
+ | 
+
+Dec 20, 2024
+
+ |
+| 
+
+[tailwind.config.ts](https://github.com/hoppscotch/hoppscotch/blob/main/tailwind.config.ts "tailwind.config.ts")
+
+
+
+
+
+
+
+ | 
+
+[tailwind.config.ts](https://github.com/hoppscotch/hoppscotch/blob/main/tailwind.config.ts "tailwind.config.ts")
+
+
+
+
+
+
+
+ | 
+
+[chore: move hoppscotch-ui package out of the monorepo (](https://github.com/hoppscotch/hoppscotch/commit/f93558324ffdda5239d211eb2a566242b44a2dbe "chore: move hoppscotch-ui package out of the monorepo (#3620)
+Co-authored-by: Andrew Bastin <andrewbastin.k@gmail.com>")[#3620](https://github.com/hoppscotch/hoppscotch/pull/3620)[)](https://github.com/hoppscotch/hoppscotch/commit/f93558324ffdda5239d211eb2a566242b44a2dbe "chore: move hoppscotch-ui package out of the monorepo (#3620)
+Co-authored-by: Andrew Bastin <andrewbastin.k@gmail.com>")
+
+
+
+ | 
+
+Dec 16, 2023
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/hoppscotch/hoppscotch?screenshot=true#)
+*   [Code of conduct](https://github.com/hoppscotch/hoppscotch?screenshot=true#)
+*   [MIT license](https://github.com/hoppscotch/hoppscotch?screenshot=true#)
+*   [Security](https://github.com/hoppscotch/hoppscotch?screenshot=true#)
+
+[![Image 47: Hoppscotch](https://avatars.githubusercontent.com/u/56705483)](https://hoppscotch.io/)
+
+### **Hoppscotch**
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#----------hoppscotch------)
+
+**Open Source API Development Ecosystem**
+
+[![Image 48: contributions welcome](https://camo.githubusercontent.com/fe892ee5cf9544372ea5653f5c14a6218d925e28ece2fbd677cfe1798de78dbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e747269627574696f6e732d77656c636f6d652d627269676874677265656e3f6c6f676f3d676974687562)](https://github.com/hoppscotch/hoppscotch/blob/main/CODE_OF_CONDUCT.md) [![Image 49: Website](https://camo.githubusercontent.com/8d953767a195d0dbcbeb1341fa5e266f6b478cfdfcf730a7c40e894e445d7265/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f75726c3d6874747073253341253246253246686f707073636f7463682e696f266c6f676f3d686f707073636f746368)](https://hoppscotch.io/) [![Image 50: Tests](https://github.com/hoppscotch/hoppscotch/actions/workflows/tests.yml/badge.svg)](https://github.com/hoppscotch/hoppscotch/actions) [![Image 51: Tweet](https://camo.githubusercontent.com/67cfa4d8afc4221ac89b2f8e30211742245885dce3ac1ec6985ad9f24e948841/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f75726c3d6874747073253341253246253246686f707073636f7463682e696f253246)](https://twitter.com/share?text=%F0%9F%91%BD%20Hoppscotch%20%E2%80%A2%20Open%20source%20API%20development%20ecosystem%20-%20Helps%20you%20create%20requests%20faster,%20saving%20precious%20time%20on%20development.&url=https://hoppscotch.io&hashtags=hoppscotch&via=hoppscotch_io)
+
+Built with ❤︎ by [contributors](https://github.com/hoppscotch/hoppscotch/graphs/contributors)
+
+  
+[![Image 52: Hoppscotch](https://github.com/hoppscotch/hoppscotch/raw/main/packages/hoppscotch-common/public/images/banner-dark.png)](https://hoppscotch.io/)
+
+_We highly recommend you take a look at the [**Hoppscotch Documentation**](https://docs.hoppscotch.io/) to learn more about the app._
+
+#### **Support**
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#support)
+
+[![Image 53: Chat on Discord](https://camo.githubusercontent.com/23038b0fe1bf498712f39feb3cefce11808087fcc284c9eced5d58cf2c65755f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d3732383944413f6c6f676f3d646973636f7264)](https://hoppscotch.io/discord) [![Image 54: Chat on Telegram](https://camo.githubusercontent.com/2a551d96029932de8f362ced3f9cc2727ed20c70d9594d70eddf44b41cbef8df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d54656c656772616d2d3243413545303f6c6f676f3d74656c656772616d)](https://hoppscotch.io/telegram) [![Image 55: Discuss on GitHub](https://camo.githubusercontent.com/ff485e5660bf203f523284484b4f66d6f7a06b848de4f1ff51a40f593a3207ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64697363757373696f6e732d4769744875622d3333333333333f6c6f676f3d676974687562)](https://github.com/hoppscotch/hoppscotch/discussions)
+
+### **Features**
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#features)
+
+❤️ **Lightweight:** Crafted with minimalistic UI design.
+
+⚡️ **Fast:** Send requests and get responses in real time.
+
+🗄️ **HTTP Methods:** Request methods define the type of action you are requesting to be performed.
+
+*   `GET` - Requests retrieve resource information
+*   `POST` - The server creates a new entry in a database
+*   `PUT` - Updates an existing resource
+*   `PATCH` - Very similar to `PUT` but makes a partial update on a resource
+*   `DELETE` - Deletes resource or related component
+*   `HEAD` - Retrieve response headers identical to those of a GET request, but without the response body.
+*   `CONNECT` - Establishes a tunnel to the server identified by the target resource
+*   `OPTIONS` - Describe the communication options for the target resource
+*   `TRACE` - Performs a message loop-back test along the path to the target resource
+*   `<custom>` - Some APIs use custom request methods such as `LIST`. Type in your custom methods.
+
+🌈 **Theming:** Customizable combinations for background, foreground, and accent colors — [customize now](https://hoppscotch.io/settings).
+
+*   Choose a theme: System preference, Light, Dark, and Black
+*   Choose accent colors: Green, Teal, Blue, Indigo, Purple, Yellow, Orange, Red, and Pink
+*   Distraction-free Zen mode
+
+_Customized themes are synced with your cloud/local session._
+
+🔥 **PWA:** Install as a [Progressive Web App](https://web.dev/progressive-web-apps) on your device.
+
+*   Instant loading with Service Workers
+*   Offline support
+*   Low RAM/memory and CPU usage
+*   Add to Home Screen
+*   Desktop PWA
+
+🚀 **Request:** Retrieve response from endpoint instantly.
+
+1.  Choose `method`
+2.  Enter `URL`
+3.  Send
+
+*   Copy/share public "Share URL"
+*   Generate/copy request code snippets for 10+ languages and frameworks
+*   Import `cURL`
+*   Label requests
+
+🔌 **WebSocket:** Establish full-duplex communication channels over a single TCP connection.
+
+📡 **Server-Sent Events:** Receive a stream of updates from a server over an HTTP connection without resorting to polling.
+
+🌩 **Socket.IO:** Send and Receive data with the SocketIO server.
+
+🦟 **MQTT:** Subscribe and Publish to topics of an MQTT Broker.
+
+🔮 **GraphQL:** GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.
+
+*   Set endpoint and get schema
+*   Multi-column docs
+*   Set custom request headers
+*   Query schema
+*   Get query response
+
+🔐 **Authorization:** Allows to identify the end-user.
+
+*   None
+*   Basic
+*   Bearer Token
+*   OAuth 2.0
+*   OIDC Access Token/PKCE
+
+📢 **Headers:** Describes the format the body of your request is being sent in.
+
+📫 **Parameters:** Use request parameters to set varying parts in simulated requests.
+
+📃 **Request Body:** Used to send and receive data via the REST API.
+
+*   Set `Content Type`
+*   FormData, JSON, and many more
+*   Toggle between key-value and RAW input parameter list
+
+📮 **Response:** Contains the status line, headers, and the message/response body.
+
+*   Copy the response to the clipboard
+*   Download the response as a file
+*   View response headers
+*   View raw and preview HTML, image, JSON, and XML responses
+
+⏰ **History:** Request entries are synced with your cloud/local session storage.
+
+📁 **Collections:** Keep your API requests organized with collections and folders. Reuse them with a single click.
+
+*   Unlimited collections, folders, and requests
+*   Nested folders
+*   Export and import as a file or GitHub gist
+
+_Collections are synced with your cloud/local session storage._
+
+📜 **Pre-Request Scripts:** Snippets of code associated with a request that is executed before the request is sent.
+
+*   Set environment variables
+*   Include timestamp in the request headers
+*   Send a random alphanumeric string in the URL parameters
+*   Any JavaScript functions
+
+👨‍👩‍👧‍👦 **Teams:** Helps you collaborate across your teams to design, develop, and test APIs faster.
+
+*   Create unlimited teams
+*   Create unlimited shared collections
+*   Create unlimited team members
+*   Role-based access control
+*   Cloud sync
+*   Multiple devices
+
+👥 **Workspaces:** Organize your personal and team collections environments into workspaces. Easily switch between workspaces to manage multiple projects.
+
+*   Create unlimited workspaces
+*   Switch between personal and team workspaces
+
+⌨️ **Keyboard Shortcuts:** Optimized for efficiency.
+
+> **[Read our documentation on Keyboard Shortcuts](https://docs.hoppscotch.io/documentation/features/shortcuts)**
+
+🌐 **Proxy:** Enable Proxy Mode from Settings to access blocked APIs.
+
+*   Hide your IP address
+*   Fixes [`CORS`](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) (Cross-Origin Resource Sharing) issues
+*   Access APIs served in non-HTTPS (`http://`) endpoints
+*   Use your Proxy URL
+
+_Official proxy server is hosted by Hoppscotch - **[GitHub](https://github.com/hoppscotch/proxyscotch)** - **[Privacy Policy](https://docs.hoppscotch.io/support/privacy)**._
+
+🌎 **i18n:** Experience the app in your language.
+
+Help us to translate Hoppscotch. Please read [`TRANSLATIONS`](https://github.com/hoppscotch/hoppscotch/blob/main/TRANSLATIONS.md) for details on our [`CODE OF CONDUCT`](https://github.com/hoppscotch/hoppscotch/blob/main/CODE_OF_CONDUCT.md) and the process for submitting pull requests to us.
+
+☁️ **Auth + Sync:** Sign in and sync your data in real-time across all your devices.
+
+**Sign in with:**
+
+*   GitHub
+*   Google
+*   Microsoft
+*   Email
+*   SSO (Single Sign-On)[1](https://github.com/hoppscotch/hoppscotch?screenshot=true#user-content-fn-EE-ac0447efcf8cee272ae00329cf99d7de)
+
+**🔄 Synchronize your data:** Handoff to continue tasks on your other devices.
+
+*   Workspaces
+*   History
+*   Collections
+*   Environments
+*   Settings
+
+✅ **Post-Request Tests:** Write tests associated with a request that is executed after the request's response.
+
+*   Check the status code as an integer
+*   Filter response headers
+*   Parse the response data
+*   Set environment variables
+*   Write JavaScript code
+
+🌱 **Environments:** Environment variables allow you to store and reuse values in your requests and scripts.
+
+*   Unlimited environments and variables
+*   Initialize through the pre-request script
+*   Export as / import from GitHub gist
+
+_Use-cases_
+
+* * *
+
+*   By storing a value in a variable, you can reference it throughout your request section
+*   If you need to update the value, you only have to change it in one place
+*   Using variables increases your ability to work efficiently and minimizes the likelihood of error
+
+* * *
+
+🚚 **Bulk Edit:** Edit key-value pairs in bulk.
+
+*   Entries are separated by newline
+*   Keys and values are separated by `:`
+*   Prepend `#` to any row you want to add but keep disabled
+
+🎛️ **Admin dashboard:** Manage your team and invite members.
+
+*   Insights
+*   Manage users
+*   Manage teams
+
+📦 **Add-ons:** Official add-ons for hoppscotch.
+
+*   **[Hoppscotch CLI](https://github.com/hoppscotch/hoppscotch/tree/main/packages/hoppscotch-cli)** - Command-line interface for Hoppscotch.
+    
+*   **[Proxy](https://github.com/hoppscotch/proxyscotch)** - A simple proxy server created for Hoppscotch.
+    
+*   **[Browser Extensions](https://github.com/hoppscotch/hoppscotch-extension)** - Browser extensions that enhance your Hoppscotch experience.
+    
+    [![Image 56: Firefox](https://camo.githubusercontent.com/86c935ed25f940b657eb4863ce32026f0b2a1e4f00faca9db61babcb4d8ec5d1/68747470733a2f2f7261772e6769746875622e636f6d2f616c7272612f62726f777365722d6c6f676f732f6d61737465722f7372632f66697265666f782f66697265666f785f31367831362e706e67) **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/hoppscotch)  |  [![Image 57: Chrome](https://camo.githubusercontent.com/ae6b3933b9520738559f6971f4e7643539a7a88c1a798aa563994797336f54ec/68747470733a2f2f7261772e6769746875622e636f6d2f616c7272612f62726f777365722d6c6f676f732f6d61737465722f7372632f6368726f6d652f6368726f6d655f31367831362e706e67) **Chrome**](https://chrome.google.com/webstore/detail/hoppscotch-extension-for-c/amknoiejhlmhancpahfcfcfhllgkpbld)
+    
+    > **Extensions fix `CORS` issues.**
+    
+
+_Add-ons are developed and maintained under **[Hoppscotch Organization](https://github.com/hoppscotch)**._
+
+**For a complete list of features, please read our [documentation](https://docs.hoppscotch.io/).**
+
+**Demo**
+--------
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#demo)
+
+[hoppscotch.io](https://hoppscotch.io/)
+
+**Usage**
+---------
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#usage)
+
+1.  Provide your API endpoint in the URL field
+2.  Click "Send" to simulate the request
+3.  View the response
+
+**Developing**
+--------------
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#developing)
+
+Follow our [self-hosting documentation](https://docs.hoppscotch.io/documentation/self-host/getting-started) to get started with the development environment.
+
+**Contributing**
+----------------
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#contributing)
+
+Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/hoppscotch/hoppscotch/compare).
+
+Please read [`CONTRIBUTING`](https://github.com/hoppscotch/hoppscotch/blob/main/CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](https://github.com/hoppscotch/hoppscotch/blob/main/CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
+
+**Continuous Integration**
+--------------------------
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#continuous-integration)
+
+We use [GitHub Actions](https://github.com/features/actions) for continuous integration. Check out our [build workflows](https://github.com/hoppscotch/hoppscotch/actions).
+
+**Changelog**
+-------------
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#changelog)
+
+See the [`CHANGELOG`](https://github.com/hoppscotch/hoppscotch/blob/main/CHANGELOG.md) file for details.
+
+**Authors**
+-----------
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#authors)
+
+This project owes its existence to the collective efforts of all those who contribute — [contribute now](https://github.com/hoppscotch/hoppscotch/blob/main/CONTRIBUTING.md).
+
+[![Image 58: Contributors](https://camo.githubusercontent.com/0231fad17781939faf29da73a09fcddfac17d56abfa1c96e682e388f9ad55208/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f686f707073636f7463682f636f6e7472696275746f72732e7376673f77696474683d38343026627574746f6e3d66616c7365)](https://github.com/hoppscotch/hoppscotch/graphs/contributors)
+
+**License**
+-----------
+
+[](https://github.com/hoppscotch/hoppscotch?screenshot=true#license)
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) — see the [`LICENSE`](https://github.com/hoppscotch/hoppscotch/blob/main/LICENSE) file for details.
+
+Footnotes
+---------
+
+1.  Enterprise edition feature. [Learn more](https://docs.hoppscotch.io/documentation/self-host/getting-started). [↩](https://github.com/hoppscotch/hoppscotch?screenshot=true#user-content-fnref-EE-ac0447efcf8cee272ae00329cf99d7de)
+    
+
+About
+-----
+
+Open source API development ecosystem - [https://hoppscotch.io](https://hoppscotch.io/) (open-source alternative to Postman, Insomnia)
+
+[hoppscotch.io](https://hoppscotch.io/ "https://hoppscotch.io")
+
+### Topics
+
+[testing](https://github.com/topics/testing "Topic: testing") [api](https://github.com/topics/api "Topic: api") [graphql](https://github.com/topics/graphql "Topic: graphql") [http](https://github.com/topics/http "Topic: http") [vuejs](https://github.com/topics/vuejs "Topic: vuejs") [spa](https://github.com/topics/spa "Topic: spa") [tools](https://github.com/topics/tools "Topic: tools") [pwa](https://github.com/topics/pwa "Topic: pwa") [rest](https://github.com/topics/rest "Topic: rest") [vue](https://github.com/topics/vue "Topic: vue") [rest-api](https://github.com/topics/rest-api "Topic: rest-api") [websocket](https://github.com/topics/websocket "Topic: websocket") [http-client](https://github.com/topics/http-client "Topic: http-client") [api-client](https://github.com/topics/api-client "Topic: api-client") [developer-tools](https://github.com/topics/developer-tools "Topic: developer-tools") [api-rest](https://github.com/topics/api-rest "Topic: api-rest") [testing-tools](https://github.com/topics/testing-tools "Topic: testing-tools") [api-testing](https://github.com/topics/api-testing "Topic: api-testing") [hacktoberfest](https://github.com/topics/hacktoberfest "Topic: hacktoberfest")
+
+### Resources
+
+[Readme](https://github.com/hoppscotch/hoppscotch?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/hoppscotch/hoppscotch?screenshot=true#MIT-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/hoppscotch/hoppscotch?screenshot=true#coc-ov-file)
+
+### Security policy
+
+[Security policy](https://github.com/hoppscotch/hoppscotch?screenshot=true#security-ov-file)
+
+[Activity](https://github.com/hoppscotch/hoppscotch/activity)
+
+[Custom properties](https://github.com/hoppscotch/hoppscotch/custom-properties)
+
+### Stars
+
+[**66.6k** stars](https://github.com/hoppscotch/hoppscotch/stargazers)
+
+### Watchers
+
+[**490** watching](https://github.com/hoppscotch/hoppscotch/watchers)
+
+### Forks
+
+[**4.6k** forks](https://github.com/hoppscotch/hoppscotch/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhoppscotch%2Fhoppscotch&report=hoppscotch+%28user%29)
+
+[Releases 61](https://github.com/hoppscotch/hoppscotch/releases)
+----------------------------------------------------------------
+
+[2024.12.1 Latest Jan 15, 2025](https://github.com/hoppscotch/hoppscotch/releases/tag/2024.12.1)
+
+[\+ 60 releases](https://github.com/hoppscotch/hoppscotch/releases)
+
+Sponsor this project
+--------------------
+
+*    [![Image 59: @hoppscotch](https://avatars.githubusercontent.com/u/56705483?s=64&v=4)](https://github.com/hoppscotch)[**hoppscotch** Hoppscotch](https://github.com/hoppscotch)[](https://github.com/sponsors/hoppscotch)
+
+*    ![Image 60: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)[opencollective.com/**hoppscotch**](https://opencollective.com/hoppscotch)
+
+[Learn more about GitHub Sponsors](https://github.com/sponsors)
+
+[Contributors 253](https://github.com/hoppscotch/hoppscotch/graphs/contributors)
+--------------------------------------------------------------------------------
+
+*   [![Image 61: @liyasthomas](https://avatars.githubusercontent.com/u/10395817?s=64&v=4)](https://github.com/liyasthomas)
+*   [![Image 62: @AndrewBastin](https://avatars.githubusercontent.com/u/9131943?s=64&v=4)](https://github.com/AndrewBastin)
+*   [![Image 63: @jamesgeorge007](https://avatars.githubusercontent.com/u/25279263?s=64&v=4)](https://github.com/jamesgeorge007)
+*   [![Image 64: @dependabot-preview[bot]](https://avatars.githubusercontent.com/in/2141?s=64&v=4)](https://github.com/apps/dependabot-preview)
+*   [![Image 65: @nivedin](https://avatars.githubusercontent.com/u/53208152?s=64&v=4)](https://github.com/nivedin)
+*   [![Image 66: @balub](https://avatars.githubusercontent.com/u/14091627?s=64&v=4)](https://github.com/balub)
+*   [![Image 67: @amk-dev](https://avatars.githubusercontent.com/u/57758277?s=64&v=4)](https://github.com/amk-dev)
+*   [![Image 68: @mirarifhasan](https://avatars.githubusercontent.com/u/30154643?s=64&v=4)](https://github.com/mirarifhasan)
+*   [![Image 69: @anwarulislam](https://avatars.githubusercontent.com/u/26295990?s=64&v=4)](https://github.com/anwarulislam)
+*   [![Image 70: @ankitsridhar16](https://avatars.githubusercontent.com/u/36269838?s=64&v=4)](https://github.com/ankitsridhar16)
+*   [![Image 71: @JoelJacobStephen](https://avatars.githubusercontent.com/u/70131076?s=64&v=4)](https://github.com/JoelJacobStephen)
+*   [![Image 72: @dihmeetree](https://avatars.githubusercontent.com/u/20114263?s=64&v=4)](https://github.com/dihmeetree)
+*   [![Image 73: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 74: @allcontributors[bot]](https://avatars.githubusercontent.com/in/23186?s=64&v=4)](https://github.com/apps/allcontributors)
+
+[\+ 239 contributors](https://github.com/hoppscotch/hoppscotch/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 59.8%](https://github.com/hoppscotch/hoppscotch/search?l=typescript)
+*   [Vue 34.2%](https://github.com/hoppscotch/hoppscotch/search?l=vue)
+*   [JavaScript 2.2%](https://github.com/hoppscotch/hoppscotch/search?l=javascript)
+*   [Rust 2.1%](https://github.com/hoppscotch/hoppscotch/search?l=rust)
+*   [SCSS 0.8%](https://github.com/hoppscotch/hoppscotch/search?l=scss)
+*   [Handlebars 0.5%](https://github.com/hoppscotch/hoppscotch/search?l=handlebars)
+*   Other 0.4%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

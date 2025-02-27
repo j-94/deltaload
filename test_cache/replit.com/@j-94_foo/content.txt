@@ -1,0 +1,97 @@
+foo - Replit
+=============== 
+
+[Skip to content](https://replit.com/@j-94/foo#main-content)
+
+*   [](https://replit.com/)
+*   
+*   *   Features
+        
+        *   [Replit AI](https://replit.com/ai)
+        *   [Collaboration](https://replit.com/collaboration)
+        *   [CDE](https://replit.com/cloud-development-environment)
+        *   [Deployments](https://replit.com/deployments)
+        
+    *   [Teams](https://replit.com/teams)
+    *   [Pricing](https://replit.com/pricing)
+    *   [Guides](https://replit.com/guides)
+    *   [Blog](https://blog.replit.com/)
+    *   [Careers](https://replit.com/careers)
+*   *   [Log in](https://replit.com/login)
+    *   [Start building](https://replit.com/signup)
+
+*   *   Features
+        
+        *   [Replit AI](https://replit.com/ai)
+        *   [Collaboration](https://replit.com/collaboration)
+        *   [CDE](https://replit.com/cloud-development-environment)
+        *   [Deployments](https://replit.com/deployments)
+        
+    *   [Teams](https://replit.com/teams)
+    *   [Pricing](https://replit.com/pricing)
+    *   [Guides](https://replit.com/guides)
+    *   [Blog](https://blog.replit.com/)
+    *   [Careers](https://replit.com/careers)
+*   *   [Log in](https://replit.com/login)
+    *   [Start building](https://replit.com/signup)
+
+Copyright © 2025 Replit, Inc. All rights reserved.
+
+*   [twitter](https://twitter.com/replit)
+*   [tiktok](https://www.tiktok.com/@replit)
+*   [instagram](https://instagram.com/repl.it)
+*   [facebook](https://facebook.com/repl.it)
+
+Replit
+------
+
+*   [Mobile app](https://replit.com/mobile)
+*   [Blog](https://blog.replit.com/)
+*   [Careers](https://replit.com/careers)
+*   [About](https://replit.com/about)
+*   [Pricing](https://replit.com/pricing)
+
+Legal
+-----
+
+*   [Terms of Service](https://replit.com/terms-of-service)
+*   [Replit Teams Agreement](https://replit.com/teams-agreement)
+*   [Privacy](https://replit.com/privacy-policy)
+*   [Subprocessors](https://replit.com/subprocessors)
+*   [DPA](https://replit.com/dpa)
+*   [Report Abuse](https://docs.replit.com/legal-and-security-info/abuse-report)
+
+Features
+--------
+
+*   [IDE](https://replit.com/site/ide)
+*   [Multiplayer](https://replit.com/site/multiplayer)
+*   [Deployments](https://replit.com/site/deployments)
+*   [Replit AI](https://replit.com/ai)
+*   [Bounties](https://replit.com/site/bounties)
+
+Handy links
+-----------
+
+*   [Languages](https://replit.com/languages)
+*   [Docs](https://docs.replit.com/)
+*   [Support](https://replit.com/help)
+*   [Community](https://replit.com/community)
+*   [Status](https://status.replit.com/)
+*   [Import from GitHub](https://replit.com/github)
+*   [Import from Glitch](https://replit.com/glitch)
+*   [Copilot alternative](https://replit.com/comparison)
+*   [Brand Kit](https://replit.com/brandkit)
+*   [Partnerships](https://replit.com/partnerships)
+
+Programming languages
+---------------------
+
+*   [Python](https://replit.com/languages/python3)
+*   [JavaScript](https://replit.com/languages/javascript)
+*   [TypeScript](https://replit.com/languages/typescript)
+*   [Node.js](https://replit.com/languages/nodejs)
+*   [Nix](https://replit.com/languages/nix)
+*   [HTML, CSS, JS](https://replit.com/languages/html)
+*   [C++](https://replit.com/languages/cpp)
+*   [Golang](https://replit.com/languages/go)

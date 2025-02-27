@@ -1,0 +1,146 @@
+HelloThere
+----------
+
+15th November 2024 at 5:08pm
+
+**Welcome to [TiddlyWiki](https://tiddlywiki.com/#TiddlyWiki), a unique [non-linear](https://tiddlywiki.com/#Philosophy%20of%20Tiddlers) notebook for [capturing](https://tiddlywiki.com/#Creating%20and%20editing%20tiddlers), [organising](https://tiddlywiki.com/#Structuring%20TiddlyWiki) and [sharing](https://tiddlywiki.com/#Sharing%20your%20tiddlers%20with%20others) complex information**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Use it to keep your [to-do list](https://tiddlywiki.com/#TaskManagementExample), to plan an [essay or novel](https://tiddlywiki.com/#%22TiddlyWiki%20for%20Scholars%22%20by%20Alberto%20Molina), or to organise your wedding. Record every thought that crosses your brain, or build a flexible and responsive website.
+
+*   TiddlyWiki lets you choose where to keep your data, guaranteeing that in the decades to come you will [still be able to use](https://tiddlywiki.com/#Future%20Proof) the notes you take today.
+*   TiddlyWiki is infinitely customisable and extensible with many plugins that add new features
+*   TiddlyWiki is the product of a collective of developers, part of an extensive community of users
+
+Quick Start
+-----------
+
+15th November 2024 at 5:08pm
+
+Choose how to get started quickly with TiddlyWiki.
+
+Find Out More
+-------------
+
+15th November 2024 at 5:08pm
+
+Resources to help you learn more about TiddlyWiki and its community.
+
+TiddlyWiki on the Web
+---------------------
+
+15th November 2024 at 5:08pm
+
+Links to the TiddlyWiki community elsewhere on the web.
+
+Testimonials and Reviews
+------------------------
+
+15th November 2024 at 5:08pm
+
+GettingStarted
+--------------
+
+19th August 2022 at 4:10am
+
+WelcomeWorking with TiddlyWiki
+
+The easiest way to use TiddlyWiki is to sign up for a free account with [Tiddlyhost](https://tiddlyhost.com/), an independently run community service. If you find Tiddlyhost useful, please consider [donation or sponsorship](https://tiddlyhost.com/donate).
+
+Click here to download an empty copy of TiddlyWiki:
+
+The next step is to choose a method for saving changes. There's a wide variety of methods available, with different features and limitations. Click on the badge for a method to see more information about it. You can also click on one of the platform filters to restrict the listing to methods that work with that platform.
+
+**Warning**
+
+Don't attempt to use the browser **File**/**Save** menu option to save changes (it doesn't work)
+
+Use the checkboxes to explore the methods of saving that work with your platform(s)
+
+Community
+---------
+
+22nd March 2021 at 3:22pm
+
+**Tip**
+
+The latest and most useful links are now being gathered in the [Community Links Aggregator](https://tiddlywiki.com/#Community%20Links%20Aggregator).
+
+Once all the relevant links have been transferred over these entries will be removed from the main tiddlywiki.com site.
+
+The latest news, articles, resources and examples.
+
+["TiddlyWiki Posts" by Jeffrey Kishner](https://tiddlywiki.com/#%22TiddlyWiki%20Posts%22%20by%20Jeffrey%20Kishner)
+------------------------------------------------------------------------------------------------------------------
+
+Posted 17 months ago
+
+A collection of articles covering integration with Fargo, Font Awesome and Google Calendar, and tips for managing task lists. The original site is missing, but a link to an archive is provided.
+
+[https://web.archive.org/web/20221015011644/http://blog.jeffreykishner.com/tiddlywiki/](https://web.archive.org/web/20221015011644/http://blog.jeffreykishner.com/tiddlywiki/)
+
+> I have become a regular user of [TiddlyWiki](https://tiddlywiki.com/#TiddlyWiki) and have become so accustomed to using Font Awesome icons in Fargo that I wanted to incorporate the icons into my wikis as well.
+
+["TW5 Magick" by Stephan Hradek](https://tiddlywiki.com/#%22TW5%20Magick%22%20by%20Stephan%20Hradek)
+----------------------------------------------------------------------------------------------------
+
+Posted 3 years ago
+
+Stephan Hradek's growing catalogue of tips, tutorials, and other resources. Stephan has also developed several plugins and macros that you can find at [http://tiddlystuff.tiddlyspot.com/](http://tiddlystuff.tiddlyspot.com/).
+
+[http://tw5magick.tiddlyspot.com/](http://tw5magick.tiddlyspot.com/)
+
+> Some things in [TiddlyWiki](https://tiddlywiki.com/#TiddlyWiki) seem like Magic. As my preferred nick is Skeeve, I felt that TW5 Magick is a proper name for this collection of some of the "magic" tricks one can do with [TiddlyWiki](https://tiddlywiki.com/#TiddlyWiki).
+
+["Reveal.js" by Devin Weaver](https://tiddlywiki.com/#%22Reveal.js%22%20by%20Devin%20Weaver)
+--------------------------------------------------------------------------------------------
+
+Posted 3 years ago
+
+Embed [Reveal.js](https://revealjs.com/) presentations inside your [TiddlyWiki](https://tiddlywiki.com/#TiddlyWiki).
+
+[https://sukima.github.io/tiddlywiki-reveal-js/](https://sukima.github.io/tiddlywiki-reveal-js/)
+
+> reveal.js enables you to create beautiful interactive slide decks using HTML.
+> 
+> With the power of [TiddlyWiki](https://tiddlywiki.com/#TiddlyWiki) and Reveal.js one can…
+> 
+> *   …make an interactive tiddler with fancy animations
+> *   …Make it go full screen for professional keynote
+> *   …Distribute the slideshow with examples and additional resources in one HTML file
+
+[TW-Scripts by Mohammad](https://tiddlywiki.com/#TW-Scripts%20by%20Mohammad)
+----------------------------------------------------------------------------
+
+Posted 4 years ago
+
+TW-Scripts is one of the most comprehensive collections of solutions for Tiddlywiki 5.
+
+[https://kookma.github.io/TW-Scripts/](https://kookma.github.io/TW-Scripts/)
+
+TW-Scripts includes:
+
+*   Collected solutions to questions in [Tiddlywiki Google groups](https://groups.google.com/group/TiddlyWiki)
+*   Learn through examples
+*   Templates, stylesheets
+*   Wikitext, macros, and snippets
+*   Tips and tricks
+*   Search tools 
+
+[RegExp in Tiddlywiki by Mohammad](https://tiddlywiki.com/#RegExp%20in%20Tiddlywiki%20by%20Mohammad)
+----------------------------------------------------------------------------------------------------
+
+Posted 4 years ago
+
+RegExp in Tiddlywiki contains practical use cases of regular expression in Tiddlywiki.
+
+[http://tw-regexp.tiddlyspot.com/](http://tw-regexp.tiddlyspot.com/)
+
+The regular expression is a way to describe complex search patterns using sequences of characters .
+
+RegExp in Tiddlywiki has four main parts
+
+*   Using regular expression to match a pattern in tiddler title
+*   Using regular expression to match a pattern in tiddler fields excluding tiddler text (body)
+*   Using regular expression to match a pattern in tiddler body (text field)
+*   Using regular expression for validation like username, password, etc.

@@ -1,0 +1,795 @@
+GitHub - gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+===============                                         
+
+[Skip to content](https://github.com/gothinkster/realworld?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fgothinkster%2Frealworld%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fgothinkster%2Frealworld%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=gothinkster%2Frealworld) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[gothinkster](https://github.com/gothinkster) / **[realworld](https://github.com/gothinkster/realworld)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fgothinkster%2Frealworld) You must be signed in to change notification settings
+*   [Fork 7.4k](https://github.com/login?return_to=%2Fgothinkster%2Frealworld)
+*   [Star 81k](https://github.com/login?return_to=%2Fgothinkster%2Frealworld)
+    
+
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+
+[realworld-docs.netlify.app/](https://realworld-docs.netlify.app/ "https://realworld-docs.netlify.app/")
+
+### License
+
+[MIT license](https://github.com/gothinkster/realworld/blob/main/LICENSE)
+
+[81k stars](https://github.com/gothinkster/realworld/stargazers) [7.4k forks](https://github.com/gothinkster/realworld/forks) [Branches](https://github.com/gothinkster/realworld/branches) [Tags](https://github.com/gothinkster/realworld/tags) [Activity](https://github.com/gothinkster/realworld/activity)
+
+[Star](https://github.com/login?return_to=%2Fgothinkster%2Frealworld)
+
+[Notifications](https://github.com/login?return_to=%2Fgothinkster%2Frealworld) You must be signed in to change notification settings
+
+*   [Code](https://github.com/gothinkster/realworld)
+*   [Issues 43](https://github.com/gothinkster/realworld/issues)
+*   [Pull requests 24](https://github.com/gothinkster/realworld/pulls)
+*   [Discussions](https://github.com/gothinkster/realworld/discussions)
+*   [Actions](https://github.com/gothinkster/realworld/actions)
+*   [Projects 0](https://github.com/gothinkster/realworld/projects)
+*   [Security](https://github.com/gothinkster/realworld/security)
+*   [Insights](https://github.com/gothinkster/realworld/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/gothinkster/realworld)
+*   [Issues](https://github.com/gothinkster/realworld/issues)
+*   [Pull requests](https://github.com/gothinkster/realworld/pulls)
+*   [Discussions](https://github.com/gothinkster/realworld/discussions)
+*   [Actions](https://github.com/gothinkster/realworld/actions)
+*   [Projects](https://github.com/gothinkster/realworld/projects)
+*   [Security](https://github.com/gothinkster/realworld/security)
+*   [Insights](https://github.com/gothinkster/realworld/pulse)
+
+gothinkster/realworld
+=====================
+
+  
+
+ main
+
+[Branches](https://github.com/gothinkster/realworld/branches)[Tags](https://github.com/gothinkster/realworld/tags)
+
+[](https://github.com/gothinkster/realworld/branches)[](https://github.com/gothinkster/realworld/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+History
+-------
+
+[974 Commits](https://github.com/gothinkster/realworld/commits/main/)
+
+[](https://github.com/gothinkster/realworld/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/gothinkster/realworld/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/gothinkster/realworld/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.husky](https://github.com/gothinkster/realworld/tree/main/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+[.husky](https://github.com/gothinkster/realworld/tree/main/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[api](https://github.com/gothinkster/realworld/tree/main/api "api")
+
+
+
+
+
+
+
+ | 
+
+[api](https://github.com/gothinkster/realworld/tree/main/api "api")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[apps](https://github.com/gothinkster/realworld/tree/main/apps "apps")
+
+
+
+
+
+
+
+ | 
+
+[apps](https://github.com/gothinkster/realworld/tree/main/apps "apps")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[media](https://github.com/gothinkster/realworld/tree/main/media "media")
+
+
+
+
+
+
+
+ | 
+
+[media](https://github.com/gothinkster/realworld/tree/main/media "media")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.gitignore](https://github.com/gothinkster/realworld/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/gothinkster/realworld/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.npmrc](https://github.com/gothinkster/realworld/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[.npmrc](https://github.com/gothinkster/realworld/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/gothinkster/realworld/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/gothinkster/realworld/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/gothinkster/realworld/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/gothinkster/realworld/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[LICENSE](https://github.com/gothinkster/realworld/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/gothinkster/realworld/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[MAINTENANCE.md](https://github.com/gothinkster/realworld/blob/main/MAINTENANCE.md "MAINTENANCE.md")
+
+
+
+
+
+
+
+ | 
+
+[MAINTENANCE.md](https://github.com/gothinkster/realworld/blob/main/MAINTENANCE.md "MAINTENANCE.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[Procfile](https://github.com/gothinkster/realworld/blob/main/Procfile "Procfile")
+
+
+
+
+
+
+
+ | 
+
+[Procfile](https://github.com/gothinkster/realworld/blob/main/Procfile "Procfile")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[README.md](https://github.com/gothinkster/realworld/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/gothinkster/realworld/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[package.json](https://github.com/gothinkster/realworld/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/gothinkster/realworld/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[pnpm-lock.yaml](https://github.com/gothinkster/realworld/blob/main/pnpm-lock.yaml "pnpm-lock.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pnpm-lock.yaml](https://github.com/gothinkster/realworld/blob/main/pnpm-lock.yaml "pnpm-lock.yaml")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[pnpm-workspace.yaml](https://github.com/gothinkster/realworld/blob/main/pnpm-workspace.yaml "pnpm-workspace.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pnpm-workspace.yaml](https://github.com/gothinkster/realworld/blob/main/pnpm-workspace.yaml "pnpm-workspace.yaml")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[turbo.json](https://github.com/gothinkster/realworld/blob/main/turbo.json "turbo.json")
+
+
+
+
+
+
+
+ | 
+
+[turbo.json](https://github.com/gothinkster/realworld/blob/main/turbo.json "turbo.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/gothinkster/realworld?screenshot=true#)
+*   [Code of conduct](https://github.com/gothinkster/realworld?screenshot=true#)
+*   [MIT license](https://github.com/gothinkster/realworld?screenshot=true#)
+
+[![Image 9: RealWorld Example Applications](https://github.com/gothinkster/realworld/raw/main/media/realworld-dual-mode.png)](https://github.com/gothinkster/realworld/blob/main/media/realworld-dual-mode.png)
+
+[![Image 10](https://github.com/gothinkster/realworld/raw/main/media/stacks_hr.gif)](https://github.com/gothinkster/realworld/blob/main/media/stacks_hr.gif)
+
+While most "todo" demos provide an excellent cursory glance at a framework's capabilities, they typically don't convey the knowledge & perspective required to actually build _real_ applications with it.
+
+**RealWorld** solves this by allowing you to choose any frontend (React, Angular, & more) and any backend (Node, Django, & more).
+
+_Read the [full blog post announcing RealWorld on Medium.](https://medium.com/@ericsimons/introducing-realworld-6016654d36b5)_
+
+Join us on [GitHub Discussions!](https://github.com/gothinkster/realworld/discussions) 🎉
+
+Implementations
+===============
+
+[](https://github.com/gothinkster/realworld?screenshot=true#implementations)
+
+Over 100 implementations have been created using various languages, libraries, and frameworks.
+
+Explore them on [**CodebaseShow**](https://codebase.show/projects/realworld).
+
+Create a new implementation
+===========================
+
+[](https://github.com/gothinkster/realworld?screenshot=true#create-a-new-implementation)
+
+[**Create a new implementation \>\>\>**](https://realworld-docs.netlify.app/implementation-creation/introduction)
+
+Or you can [view upcoming implementations (WIPs)](https://github.com/gothinkster/realworld/discussions/categories/wip-implementations).
+
+Learn more
+==========
+
+[](https://github.com/gothinkster/realworld?screenshot=true#learn-more)
+
+*   ["Introducing RealWorld 🙌"](https://medium.com/@ericsimons/introducing-realworld-6016654d36b5) by Eric Simons
+*   Every tutorial is built against the same [API spec](https://github.com/gothinkster/realworld/blob/main/api) to ensure modularity of every frontend & backend
+*   Every frontend utilizes the same handcrafted [Bootstrap 4 theme](https://github.com/gothinkster/conduit-bootstrap-template) for identical UI/UX
+*   There is a hosted version of the backend API available for public usage, no API keys are required
+*   Interested in creating a new RealWorld stack? View our [starter guide & spec](https://realworld-docs.netlify.app/implementation-creation/introduction)
+
+Active Maintainers
+==================
+
+[](https://github.com/gothinkster/realworld?screenshot=true#active-maintainers)
+
+#### [Gérôme Grignon](https://github.com/geromegrignon) - Maintainer
+
+[](https://github.com/gothinkster/realworld?screenshot=true#g%C3%A9r%C3%B4me-grignon---maintainer)
+
+[![Image 11](https://avatars.githubusercontent.com/u/32737308?v=4)](https://avatars.githubusercontent.com/u/32737308?v=4)
+
+Gérôme is a Frontend Software Engineer at Lucca. He's an open-source enthusiast.
+
+#### [Manuel Vila](https://github.com/mvila) - Maintainer
+
+[](https://github.com/gothinkster/realworld?screenshot=true#manuel-vila---maintainer)
+
+[![Image 12](https://avatars.githubusercontent.com/u/381671?v=40)](https://avatars.githubusercontent.com/u/381671?v=40)
+
+Manuel is an independent Software Engineer, creator of the [Layr framework](https://layrjs.com/) and the [CodebaseShow website](https://codebase.show/).
+
+About
+-----
+
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+
+[realworld-docs.netlify.app/](https://realworld-docs.netlify.app/ "https://realworld-docs.netlify.app/")
+
+### Resources
+
+[Readme](https://github.com/gothinkster/realworld?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/gothinkster/realworld?screenshot=true#MIT-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/gothinkster/realworld?screenshot=true#coc-ov-file)
+
+[Activity](https://github.com/gothinkster/realworld/activity)
+
+[Custom properties](https://github.com/gothinkster/realworld/custom-properties)
+
+### Stars
+
+[**81k** stars](https://github.com/gothinkster/realworld/stargazers)
+
+### Watchers
+
+[**1.5k** watching](https://github.com/gothinkster/realworld/watchers)
+
+### Forks
+
+[**7.4k** forks](https://github.com/gothinkster/realworld/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fgothinkster%2Frealworld&report=gothinkster+%28user%29)
+
+[Contributors 84](https://github.com/gothinkster/realworld/graphs/contributors)
+-------------------------------------------------------------------------------
+
+[\+ 70 contributors](https://github.com/gothinkster/realworld/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 98.4%](https://github.com/gothinkster/realworld/search?l=typescript)
+*   [Shell 1.4%](https://github.com/gothinkster/realworld/search?l=shell)
+*   [Procfile 0.2%](https://github.com/gothinkster/realworld/search?l=procfile)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

@@ -1,0 +1,114 @@
+Open source development has a rich and dynamic history that has shaped the software industry and fostered innovation and collaboration. The roots of open source can be traced back to the early days of computing, but it gained significant momentum in the late 20th century. One of the key milestones in open source development was the emergence of AT&T Unix in the 1970s. Unix was developed at Bell Labs and became widely used in academic and research institutions. AT&T Unix introduced the concept of sharing source code, allowing users to modify and distribute the software freely. This practice laid the foundation for the open source movement. In recent years, open source has extended beyond software to encompass hardware and other fields, largely promoting the related designs and development. Overall, the history of open source development is characterized by a commitment to collaboration, transparency, and the democratization of technology. It has revolutionized the software industry and continues to drive innovation in various domains like hardware, fostering a culture of sharing and community-driven development.
+
+We single out the latest open source achievements from 2022 to 2023 which already have growing impacts or would have impacts in the near future. Our evaluation criteria are as follows:
+
+（Please note that the tree diagram can be zoomed in, zoomed out, and moved. You can click on the circles at the branches to expand or collapse the content of the diagram.）
+
+When considering the main contributors of an open source project, we only list the co-founders and outstanding contributors for the initial release version.
+
+If you have any comments or suggestions about the list, please send an email to benchcouncil.evaluation@gmail.com
+
+| **Achievements** | **Contributors** | **Institution** | **Country** |
+| --- | --- | --- | --- |
+| AITemplate | Bing Xu|Ying Zhang|Hao Lu|Yang Chen|Terry Chen | Meta | USA |
+| Aptos | Mo Shaikh|Avery Ching | Aptos | USA |
+| ArchProbe | Rendong Liang|Ting Cao|Yunxin Liu | Microsoft|Tsinghua University|University of California Irvine | USA|China |
+| Artemis | Cong Li|Zhendong Su | Nanjing University|ETH Zurich | China|Switzerland |
+| Audiocraft | Jade Copet|Felix Kreuk|Alexandre Defossez | Meta | USA |
+| Autogen | Qingyun Wu|Chi Wang | Microsoft|Pennsylvania State University | USA |
+| AutoGPT | Toran Bruce Richards | Significant Gravitas | UK |
+| Baichuan2 | Xiaochuan Wang|Aiyuan Yang | Baichuan Inc. | China |
+| BayLing | Shaolei Zhang|Yang Feng | Institute of Computing Technology Chinese Academy of Sciences | China |
+| Base Node | Jesse Pollak | Coinbase | USA |
+| Bazzite | Kyle Gospodnetich | Bazzite | USA |
+| BDOA and BDWare | Gang Huang | Peking University | China |
+| Blink | Justine Tunney | Mozilla | USA |
+| BUDDY MLIR | Hongbin Zhang|Yanjun  Wu | Institute of Software Chinese Academy of Sciences | China |
+| Burn | Nathaniel Simard | Burn | Canada |
+| Candle | Clem Delangue|Laurent Mazare | Hugging Face | USA |
+| CeresDB | Jiacai Liu | Alibaba Group | China |
+| Chat2DB | Hexi Shan|JinYu Fan | Alibaba Group | China |
+| ChatGLM | Jie Tang|Aohan Zeng|Xiao Liu|Zhengxiao Du|Yujie Qian | Tsinghua University|Zhipu.AI|Beijing Academy of Artificial   Intelligence (BAAI)|MIT | China|USA |
+| Chroma | Jeff Huber|Anton Troynikov | Chroma | USA |
+| Comprehensive-rust | Martin Geisler|Andrew Walbran | Google | Switzerland|UK |
+| ControlNet | Lvmin Zhang|Maneesh Agrawala | Stanford University | USA |
+| Cumulative Reasoning | Yifan Zhang|Jingqin Yang|Andrew Chi-Chih Yao | Tsinghua University|Shanghai Qizhi Institute | China |
+| CV-CUDA | Yi Zhang|Yiyao Sheng | NVIDIA|ByteDance | USA|China |
+| DB-GPT | Xuanhe Zhou|Zhaoyan Sun|Guoliang Li | Tsinghua University | China |
+| DeePMD-kit | Zhuoqiang Guo|Weile Jia | Institute of Computing Technology Chinese Academy of   Sciences|University of Chinese Academy of Sciences | China |
+| DragGAN | Xingang Pan|Christian Theobalt | Max Planck Institute for Informatics|Saarbrucken Research   Center for Visual Computing Interaction and AI | Germany |
+| E2FGVI | Zhen Li|Cheng-Ze Lu|Chun-Le Guo | Nankai University | China |
+| Egos-2000 | Yunhao Zhang | Cornell University | USA |
+| Epsilla | Richard Song|Eric Y. | Epsilla | USA |
+| Eureka | Yecheng Jason Ma| Linxi Jim Fan | NVIDIA|University of Pennsylvania | USA |
+| FaceChain | Yang Liu| Cheng Yu|Yingda Chen|Xuansong Xie|Baigui Sun | Alibaba Group | China |
+| [Fairseq](https://github.com/facebookresearch/fairseq) | Myle Ott|Sergey Edunov|Michael Auli | Meta | USA |
+| FastDeploy | Jiajun Jiang | Baidu | China |
+| FastStream | Davor Runje|Hajdi Cenan Nikita Pastukhov | Airt.ai | Croatia |
+| Flowise | Zhenjing Heng|Chung Yau Ong | FlowiseAI | Ireland|Malaysia |
+| Generative Agents | Joon Sung Park|Michael S. Bernstein | Stanford University | USA |
+| GPT4All | Yuvanesh Anand|Andriy Mulyar | Nomic AI | USA |
+| GRACE | Haojie Ye|Nishil Talati | University of Michigan | USA |
+| GraphScope | Wenfei Fan|Rong Zhu | Alibaba Group|University of Edinburgh|Shenzhen Institute of   Computing Sciences | China|UK |
+| GreptimeDB | Xiaodan Zhuang | Greptime | China |
+| gStore | Lei Zou | Peking University | China |
+| Hermes | Rahul Bera|Onur Mutlu | ETH Zurich | Switzerland |
+| HertzBeat | Gong Chao | Dromara | China |
+| HuggingGPT | Yongliang Shen|Kaitao Song|Yueting Zhuang | Zhejiang University|Microsoft Research Asia | China |
+| HVML | Yongming Wei | FMSoft | China |
+| IREE | Hsin-I Cindy Liu|Stella Laurenzo | Google | USA |
+| Jq | Stephen Dolan | Trinity College Dublin | Ireland |
+| JSON Crack | Aykut Sarac | Trendyol | Turkey |
+| KubeBlocks | Songlu Cai|Wei Cao | ApeCloud | China |
+| LanceDB | Chang She|Lei Xu | LanceDB | USA |
+| langcc | Joe Zimmerman | Stanford University | USA |
+| LangChain | Harrison Chase | LangChain | USA |
+| Langflow | Gabriel Luiz Freitas Almeida | Logspace | Brazil |
+| LiteFS | Ben Johnson | [Fly.io](http://fly.io/) | USA |
+| LLaMA | Hugo Touvron|Thibaut Lavril|Gautier Izacard|Edouard   Grave|Guillaume Lample | Meta | USA |
+| LlamaIndex | Jerry Liu | LlamaIndex | USA |
+| Marqo | Tom Hamer|Jesse Clark | Marqo | Australia |
+| MetaGPT | Sirui Hong|Chenglin Wu | DeepWisdom | China |
+| MnemOS | James Munns|Eliza Weisman | OneVariable UG|BuoyantIO | Germany|USA |
+| Mojo | Chris Lattner | Modular AI | USA |
+| MOSS | Tianxiang Sun|Xipeng Qiu | Fudan University | China |
+| Noodle | Ahmed Elsakaan | Noodle | UK |
+| NVIDIA Linux open GPU kernel   module source | Andy Ritger|Bernhard Stockner | NVIDIA | USA |
+| OctoBase | Francisco De Carvalho | Octobase | South Africa |
+| OmniObject3D | Tong Wu|Dahua Lin|Ziwei Liu | The Chinese University of Hong Kong|Shanghai AI   Laboratory|S-Lab Nanyang Technological University | China|Singapore |
+| Open Interpreter | Killian Lucas | Open Interpreter | USA |
+| OpenHarmony | Chenglu Wang|Haibo Chen | Huawei|OpenAtom Foundation | China |
+| OpenLane-V2 | Huijie Wang|Tianyu Li|Yang Li|Hongyang Li | Shanghai AI Laboratory | China |
+| OpenObserve | Prabhat Sharma | OpenObserve | USA |
+| OSTrack | Botao Ye|Xilin Chen | Institute of Computing Technology Chinese Academy of   Sciences|University of Chinese Academy of Sciences | China |
+| Pandas AI | Gabriele Venturi | PandasAI | Germany |
+| ParadeDB | Philippe Noel | ParadeDB | USA |
+| Parseable | Nitish Tiwari | Parseable | India |
+| PiFlow | Zhihong Shen | Computer Network Information Center, Chinese Academy of Sciences | China |
+| PMIdioBench | Shashank Gugnani|Xiaoyi Lu | The Ohio State University | USA |
+| Pocketbase | Gani Georgiev | PocketBase | Bulgaria |
+| PostgresML | [Lev Kokotov](https://www.linkedin.com/in/levkk/overlay/about-this-profile/) | PostgresML | USA |
+| PRQL | Maximilian Roos|Aljaz Mur Erzen | Quantitative Trading Firm|EdgeDB  | USA|Slovenia |
+| PyScript | Fabio Pliger | Anaconda Inc. | USA |
+| RisingWave | Yingjun Wu | RisingWave Labs | USA |
+| Secretflow | Lei Wang | Alibaba Group | China |
+| Segment Anything | Alexander Kirillov|Eric Mintun|Nikhila Ravi|Hanzi Mao|Ross   Girshick | Meta | USA |
+| Service Weaver |  | Google | USA |
+| Service Weaver | Michael Whittaker | Google | USA |
+| Solider | Weihua Chen|Xiuyu Sun | Alibaba Group | China |
+| SQL Translator | Kate Reznykova | SQL Translator | UK |
+| Stable Diffusion | Robin Rombach|Andreas Blattmann|Bjorn Ommer | Ludwig Maximilian University of Munich|Heidelberg   University|Stability AI | Germany |
+| TaskMatrix | Chenfei Wu|Nan Duan | Microsoft Research Asia | China |
+| Transformer Engine | Kirthi Shankar Sivamani|Przemyslaw Tredak | NVIDIA | USA |
+| TreeSLS | Fangnuo Wu|Haibo Chen | Shanghai Jiao Tong University | China |
+| Twitter's Recommendation   Algorithm | Elon Musk | Twitter | USA |
+| TypeChat | Anders Hejlsberg|Steve Lucco | Microsoft | USA |
+| UniAD | Yihan Hu|Jiazhi Yang|Li Chen|Keyu Li|Hongyang Li | Shanghai AI Laboratory|Wuhan University | China |
+| Vanus | Wenfeng Wang|James Yean | Lifecycle AI|Linkall | China |
+| VClinic | Xin You|Depei Qian | Beihang University | China |
+| Volo and hertz | Di Wu|Wenjun Gao | ByteDance | China |
+| VoltaML |  Harish Prabhala | voltaML | India |
+| Whisper | Alec Radford|Jong Wook Kim | OpenAI | USA |
+| XLA | George Karpenkov|Eugene Zhulenev | Google | USA |
+| YOLOv6 | Xiaoming Xu|Chuyi Li|Lulu Li|Yifei Geng|Hongliang Jiang | Meituan | China |
+| YOLOv7 | Chien-Yao Wang|Hong-Yuan Mark Liao | Institute of Information Science Academia Sinica Taiwan | China |

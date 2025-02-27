@@ -1,0 +1,40 @@
+Smart Connections - Smart Connections
+===============            
+
+[Skip to content](https://smartconnections.app/#content "Skip to content")
+
+**Smart Connections**
+---------------------
+
+### **Obsidian**
+
+Install Obsidian Plugin
+
+[View code on GitHub](https://github.com/brianpetro/obsidian-smart-connections)
+
+### **ChatGPT**
+
+Chat with your notes without uploading your data to the cloud with the [Smart Connect – Obsidian GPT](https://chat.openai.com/g/g-9Xb1mRJYl-smart-connect-obsidian).
+
+[Smart Connect App](https://github.com/brianpetro/smart-connect?tab=readme-ov-file#getting-started-with-smart-connect)
+
+[Notes GPT](https://chatgpt.com/g/g-9Xb1mRJYl-smart-connect-notes)
+
+### **Community**
+
+[Private Community](https://chat.smartconnections.app/)
+
+[Public Discussion on GitHub](https://github.com/brianpetro/obsidian-smart-connections/discussions)
+
+### **Open-source**
+
+[JS Brains](https://github.com/brianpetro/jsbrains)
+
+[Documentation](https://github.com/brianpetro/Smart-Connections-Docs)
+
+*   [Privacy Policy](https://smartconnections.app/legal/privacy-policy/)
+*   [Terms of Service](https://smartconnections.app/legal/terms-of-service/)
+
+Copyright © 2025 SmartConnections.app
+
+Scroll to Top

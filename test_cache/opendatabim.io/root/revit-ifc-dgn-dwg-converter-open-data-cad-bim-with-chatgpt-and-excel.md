@@ -1,0 +1,1835 @@
+---
+title: Revit, IFC, DGN, DWG Converter. Open Data CAD (BIM) with ChatGPT and Excel
+description: Data Driven Construction: Revolutionizing the Construction Industry with Data Conversion and Analysis. Specializing in converting Revit and IFC data to actionable tables, we enhance decision-making and process optimization. Our data-driven approach transforms construction practices into dynamic, data-powered workflows.
+url: https://opendatabim.io/
+timestamp: 2025-01-20T15:42:51.944Z
+domain: opendatabim.io
+path: root
+---
+
+# Revit, IFC, DGN, DWG Converter. Open Data CAD (BIM) with ChatGPT and Excel
+
+
+Data Driven Construction: Revolutionizing the Construction Industry with Data Conversion and Analysis. Specializing in converting Revit and IFC data to actionable tables, we enhance decision-making and process optimization. Our data-driven approach transforms construction practices into dynamic, data-powered workflows.
+
+
+## Content
+
+Revit, IFC, DGN, DWG Converter. Open Data CAD (BIM) with ChatGPT and Excel - DataDrivenConstruction.io | Revolutionizing Construction with Data | Revit, AutoCAD, IFC, DGN converter
+===============
+            
+
+[![Image 299: DataDrivenConstruction (1)](https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png.webp)![Image 300: DataDrivenConstruction (1)](https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png.webp)![Image 301: DataDrivenConstruction (1)](https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png.webp)![Image 302: DataDrivenConstruction (1)](https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png.webp)](https://datadrivenconstruction.io/ "DataDrivenConstruction.io | Revolutionizing Construction with Data | Revit, AutoCAD, IFC, DGN converter")
+========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+[](https://opendatabim.io/#)
+
+*   [DDC Excel](https://datadrivenconstruction.io/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)
+*   [Convertors](https://datadrivenconstruction.io/convertors/)
+*   [LLM & ChatGPT](https://datadrivenconstruction.io/chatgpt-and-llm/)
+*   [Pipeline](https://datadrivenconstruction.io/pipeline-in-construction/)
+*   [Guidebook](https://datadrivenconstruction.io/books/)
+*   [Consulting](https://datadrivenconstruction.io/contact-support/)
+
+[](https://datadrivenconstruction.io/my-account/)[](https://datadrivenconstruction.io/basket/)[](https://opendatabim.io/#)
+
+ ✕  
+
+Not found text[See all results](https://opendatabim.io/#)
+
+ ![Image 303: Slide](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) 🚀 **Move to BIM level 3 / noBIM** where only unified granular structured  
+data & processes remain and where 🔓 **your data is yours**  
+Secure Your data is exclusively yours Scalable Adapts to Your Needs Easy To Get Started Unlock the Power  
+of Data in Construction Get started Get Slider Revolution →  ![Image 304](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) [![Image 305](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2023/12/15/rvt-revit-to-excel-converter)![Image 306](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)  [![Image 307](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2023/12/15/ifc-to-excel-converter/)[![Image 308](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2024/02/24/creating-a-database-using-chatgpt/)[![Image 309](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2023/08/02/install-jupyter-notebook-2/)[![Image 310](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2024/05/19/big-data-in-construction-2/)[![Image 311](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2023/08/01/autocad-dwg-to-excel-table-converter/)[![Image 312](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2024/02/26/predictions-and-forecasts-based-on-historical-data-2873/)[![Image 313](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2024/02/24/estimating-calculations/)![Image 314](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 315](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)  
+Turning Data into  
+[Insights](https://datadrivenconstruction.io/index.php/pipeline-in-construction/) and [Value](https://datadrivenconstruction.io/index.php/pipeline-in-construction/) ![Image 316](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)
+
+          ![Image 317: Slide](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 318](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 319](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 320](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 321](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 322](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 323](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 324](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 325](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 326](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)
+
+![Image 327](https://datadrivenconstruction.io/wp-content/uploads/2024/08/windows-converter-revit-ifc-autocad-dwg.png.webp)
+
+Windows
+
+[![Image 328](https://datadrivenconstruction.io/wp-content/uploads/2024/08/linux-converter-revit-ifc-autocad-dwg.png.webp)](https://opendatabim.io/#)
+
+[](https://opendatabim.io/#)
+
+Linux
+
+[![Image 329](https://datadrivenconstruction.io/wp-content/uploads/2024/08/apple-converter-revit-ifc-autocad-dwg.png.webp)](https://opendatabim.io/#mfn-popup-template-3846)
+
+[](https://opendatabim.io/#mfn-popup-template-3846)
+
+macOS
+
+free stand-alone tools for CAD (BIM) data extraction and structuring
+--------------------------------------------------------------------
+
+**Unlock Data** from **Revit®** | **IFC** | **DWG** | **DGN**
+=============================================================
+
+[![Image 330](https://datadrivenconstruction.io/wp-content/uploads/2024/11/IFC-to-Excel-converter-to-XLSX-2.png.webp)](https://datadrivenconstruction.io/index.php/2023/12/15/ifc-to-excel-converter/https://datadrivenconstruction.io/product/free-revit-2015-202x-converter-to-xlsx-dae/https://datadrivenconstruction.io/product/free-ifc-2x3-converter-to-xlsx-dae-2024/)
+
+[](https://datadrivenconstruction.io/index.php/2023/12/15/ifc-to-excel-converter/https://datadrivenconstruction.io/product/free-revit-2015-202x-converter-to-xlsx-dae/https://datadrivenconstruction.io/product/free-ifc-2x3-converter-to-xlsx-dae-2024/)
+
+V 12.1.2 (91.2 Mb.)
+
+#### Free Converter  
+IFC2x3 to Excel/Collada 
+
+download without registration
+
+[Start FREE download](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=1685)
+
+[\+ IFC4.1 - IFC4.X](https://datadrivenconstruction.io/index.php/product/ifc-converter-to-xlsx-dae/)
+
+[![Image 331](https://datadrivenconstruction.io/wp-content/uploads/2024/11/Revit-to-Excel-converter-RVT-to-XLSX-6.png.webp)](https://datadrivenconstruction.io/index.php/2023/12/15/rvt-revit-to-excel-converter/https://datadrivenconstruction.io/product/free-revit-2015-202x-converter-to-xlsx-dae/)
+
+[](https://datadrivenconstruction.io/index.php/2023/12/15/rvt-revit-to-excel-converter/https://datadrivenconstruction.io/product/free-revit-2015-202x-converter-to-xlsx-dae/)
+
+V 14.1.1 (289.3 Mb.)
+
+#### Free Converter Revit® 2015-2024 to Excel/Collada
+
+download without registration
+
+Start FREE download
+
+[\+ Revit® 2025](https://datadrivenconstruction.io/index.php/product/revit-converter-to-xlsx/)
+
+[![Image 332](https://datadrivenconstruction.io/wp-content/uploads/2024/11/DWG-to-Excel-converter-DWG-to-XLSX-2.png.webp)](https://datadrivenconstruction.io/index.php/2023/08/01/autocad-dwg-to-excel-table-converter/https://datadrivenconstruction.io/product/free-dgn-to-excel-converter/https://datadrivenconstruction.io/product/free-dwg-to-excel-converter/)
+
+[](https://datadrivenconstruction.io/index.php/2023/08/01/autocad-dwg-to-excel-table-converter/https://datadrivenconstruction.io/product/free-dgn-to-excel-converter/https://datadrivenconstruction.io/product/free-dwg-to-excel-converter/)
+
+V 12.1.2 (93.8 Mb.)
+
+#### Free Converter  
+DWG 1983-2023 to Excel
+
+download without registration
+
+Start FREE download
+
+[Ad-Free version](https://datadrivenconstruction.io/index.php/product/ad-free-dwg-to-excel-converter/)
+
+[![Image 333](https://datadrivenconstruction.io/wp-content/uploads/2024/11/DGN-to-Excel-converter-DGN-to-XLSX.png.webp)](https://opendatabim.io/#)
+
+[](https://opendatabim.io/#)
+
+V 12.1.2 (92.1 Mb.)
+
+#### Free Converter  
+DGN V7-V8 to Excel
+
+download without registration
+
+Start FREE download
+
+[Ad-Free version](https://datadrivenconstruction.io/index.php/product/ad-free-dgn-to-excel-converter/)
+
+[![Image 334](https://datadrivenconstruction.io/wp-content/uploads/2024/11/DW-1.png.webp)](https://datadrivenconstruction.io/chatgpt-and-llm/)
+
+[](https://datadrivenconstruction.io/chatgpt-and-llm/)
+
+CAD DATA  
+ BIM DATA
+
+1970s - 2010s
+
+complex data formats
+
+complex API access
+
+vendor lock-in
+
+limited sharing capabilities
+
+    Granular | normalized structured | unifed DATA
+--------------------------------------------------
+
+from 2020s onwards
+
+[single data schema](https://datadrivenconstruction.io/convertors/#flatdata)
+
+[LLM](https://datadrivenconstruction.io/chatgpt-and-llm/)
+
+[data analitycs](https://datadrivenconstruction.io/pipeline-in-construction/)
+
+[structured data](https://datadrivenconstruction.io/chatgpt-and-llm/)
+
+[multi-platform](https://datadrivenconstruction.io/#platforms)
+
+[unlimited access](https://datadrivenconstruction.io/convertors/#flatdata)
+
+closedBIM openBIM
+
+2002-2020s
+
+different schemes
+
+slow data processing
+
+lack of interoperability
+
+data loss control
+
+![Image 335](https://datadrivenconstruction.io/wp-content/uploads/2024/11/Flow-from-Data-to-Systems-4.png.webp)
+
+Systems and databases
+
+ERP 4D 5D
+
+CAFM
+
+SQL
+
+Business Intelligence
+
+[Microsoft Excel](https://datadrivenconstruction.io/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)
+
+[PowerBI](https://youtu.be/QBaH8oBsPpM?si=m0xH-MijbAoH9NLy&t=455)
+
+[Kaggle](https://www.kaggle.com/code/artemboiko/example-of-data-processing-from-revit-and-ifc)
+
+Automate and Process
+
+[Python Pandas](https://www.youtube.com/watch?v=lmhZiOkI_Uk&ab_channel=DataDrivenConstruction)
+
+[ETL and Pipeline](https://datadrivenconstruction.io/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)
+
+[ChatGPT](https://datadrivenconstruction.io/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)
+
+Visualize and Simulate
+
+[Unreal Engine](https://youtu.be/EvBbEAVi4_s?si=1mQ_z8R3Ic2sKZvn&t=90)
+
+[Unity Blender](https://youtu.be/EvBbEAVi4_s?si=b6_Jh5L_CmTyHGT5&t=211)
+
+[USD Omniverse](https://youtu.be/EvBbEAVi4_s?si=VW2K73peZXyTHjJu)
+
+Two-way **DATA exchange**
+=========================
+
+### Tools for importing modified data back into DWG, Revit**®** and IFC
+
+![Image 336](https://datadrivenconstruction.io/wp-content/uploads/2024/11/excel-to-DWG.png.webp)
+
+#### DDC Import  
+Excel to DWG
+
+[![Image 337](https://datadrivenconstruction.io/wp-content/uploads/2024/12/Revit-to-Excel-converter-RVT-to-XLSX-1.png.webp)](https://datadrivenconstruction.io/ddc-import-excel-to-revit-2/)
+
+[](https://datadrivenconstruction.io/ddc-import-excel-to-revit-2/)
+
+#### DDC Import  
+Excel to Revit™
+
+![Image 338](https://datadrivenconstruction.io/wp-content/uploads/2024/11/Excel-to-IFC.png.webp)
+
+#### DDC Import  
+Excel to IFC
+
+[![Image 339](https://datadrivenconstruction.io/wp-content/uploads/2025/01/Windows-Linux-MAC-converter-Revit-DWG-IFC-2-1.png)](https://datadrivenconstruction.io/#miningdata)
+
+[](https://datadrivenconstruction.io/#miningdata)
+
+Run on any platform
+-------------------
+
+### Launch DataDrivenConstruction on Windows, Linux and macOS - fast, offline, internet-free and secure
+
+Apps are Secured with Certificates
+
+All our applications feature code signing certificates to maintain integrity and authenticity
+
+FULL ACCESS TO CAD DATABASES (BIM)
+
+Reverse engineering technologies can legally and efficiently convert data from closed CAD formats
+
+[![Image 340](https://datadrivenconstruction.io/wp-content/uploads/2025/01/Cloud-Converter-Revit-IFC-DWG.png)](https://datadrivenconstruction.io/convertors/)
+
+[](https://datadrivenconstruction.io/convertors/)
+
+Self-hosted, and privacy compliant
+----------------------------------
+
+### Take ownership of your data by self-hosting DataDrivenConstruction on your own servers or with any cloud service provider. Comply with regulations such as GDPR, CPRA, and HIPAA by not sharing your data with third-party services.
+
+### DataDrivenConstruction Clients and Users
+
+![Image 341](https://datadrivenconstruction.io/wp-content/uploads/2025/01/DataDrivenConstruction-Clients-and-Users-4.png)
+
+...and thousands of professionals in the construction and design industries from
+
+87+
+
+countries around the globe
+
+### One Year in Numbers
+
+**RVT**
+=======
+
+53321+
+
+converted Revit® projects of different versions
+
+**DWG**
+=======
+
+45687+
+
+converted DWG projects of different versions
+
+**IFC**
+=======
+
+29542+
+
+converted IFC projects of different versions
+
+**DGN**
+=======
+
+2567+
+
+converted DGN projects of different versions
+
+![Image 342: Mohamed Touati](https://datadrivenconstruction.io/wp-content/uploads/2024/04/meanotek-3-200x200-1-60x60.webp)
+
+Mohamed Touati
+
+Principal Data Scientist at Pixemantic
+
+As a data scientist, I use data every day in every topic and field and think that data can appear in one format to make it easier to use and explore. After I tried the DDC converter, it became the only solution for me to manage and convert all BIM documents. Thanks to DataDrivenConstruction, I can now work with all IFC and Revit files automatically without having to upload files to the server.
+
+![Image 343: Nicolas Merot](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Photo-NMT-60x60.jpg.webp)
+
+Nicolas Merot
+
+Ingénieur BIM | Caeli Ingénierie
+
+DataDrivenConstruction products revolutionize data management in construction! Their IFC and RVT to Excel converters enable smooth data analysis and extraction, optimizing project management and documentation. A powerful, user-friendly solution for construction professionals (translated from French)
+
+![Image 344: Daniel Glober](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1697723018200-60x60.jpg.webp)
+
+Daniel Glober
+
+BIM-Manager | SCHOLZE-THOST GmbH
+
+Revit and IFC reports that used to take me almost weeks to create are now updated in just a few minutes. I was able to quickly understand what the DataDrivenConstruction did and thus extend and modify it to fit projects.The DataDrivenConstruction team showed me examples of blocks and scripts that can automatically generate PDF, XLSX, and DOCX files that mark errors/defects in the model. Additionally, we also now do automatic checks for IFC structure, file naming, etc.
+
+![Image 345: Abdelrahim (Mohamed) Deghidy](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1706011559909-60x60.jpg.webp)
+
+Abdelrahim (Mohamed) Deghidy
+
+BIM Manager l Consolidated Contractors Company
+
+DDC converter and Plugin is a fantastic and helpful tool for visualisation and quantification the meta data from Revit. Thanks for sharing such helpful tools!
+
+![Image 346: Valerio Spini](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Spini-200x200-1-60x60.webp)
+
+Valerio Spini
+
+Settore RVCS
+
+Great experience: Until now, I used to open IFC files in Blocknote to check the parameters and their structure. Thanks to the DataDrivenConstruction converter I can check the parameters and see their structure directly in MS Excel in an orderly and SMART way, amazing!
+
+![Image 347: Vinod Kumar](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1612850779877-200x200-1-60x60.webp)
+
+Vinod Kumar
+
+BIM Manager | Esttareal solutions
+
+DataDrivenConstruction approach is truly revolutionary and has the potential to transform the construction industry. It's amazing to see how you are empowering users to work with structured data in a user-friendly way, leveraging the power of Excel and open-source tools. I'm sure that your Excel plugin and data management solutions will be a game-changer for construction projects. Keep up the fantastic work!
+
+free standalone offline plugin for working with CAD (BIM) data
+--------------------------------------------------------------
+
+**Excel Add-in** to work with **RVT** | **DWG** | **IFC**
+=========================================================
+
+[![Image 348](https://datadrivenconstruction.io/wp-content/uploads/2024/07/Excel-DDC-Plugin.png.webp)](https://datadrivenconstruction.io/index.php/constructexcel/)
+
+[](https://datadrivenconstruction.io/index.php/constructexcel/)
+
+### The DDC Excel plugin lets users open and process CAD (BIM) files directly in Excel, eliminating the need for specialized software. It's perfect for small to medium projects (200-400 MB files), while larger datasets are better handled with tools like Jupyter Notebook, Pandas and LLM for advanced analytics.
+
+[Start FREE download](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=2414)
+
+Minimum Requirements:  
+◾️ Windows 10 64bit or Windows 11  
+◾️ Microsoft Office 32 bit or 64 bit (2013 or Later) or MS Office 365
+
+Functional applications available in the DataDrivenConstruction plugin for Excel
+
+[![Image 349](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Revit-to-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#revit)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#revit)
+
+[![Image 350](https://datadrivenconstruction.io/wp-content/uploads/2024/02/IFC-to-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#ifc)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#ifc)
+
+[![Image 351](https://datadrivenconstruction.io/wp-content/uploads/2024/02/DWG-to-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#dwg)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#dwg)
+
+[![Image 352](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Hide-rows-Excel-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#hide)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#hide)
+
+[![Image 353](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Off-filter-Excel-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#hide)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#hide)
+
+RVT to Excel
+
+IFC to Excel
+
+DWG to Excel
+
+Hide Columns
+
+Remove Filters
+
+[![Image 354](https://datadrivenconstruction.io/wp-content/uploads/2024/02/All-elements-geometry.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geometry)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geometry)
+
+[![Image 355](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Visible-rows.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geometryrows)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geometryrows)
+
+Project Geometry
+
+Visible Rows
+
+[![Image 356](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Selected-rows-geometry.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomvisib)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomvisib)
+
+[![Image 357](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Change-color-in-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomcolor)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomcolor)
+
+[![Image 358](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Transparenz-BIM-CAD-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomtransp)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomtransp)
+
+[![Image 359](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Add-BoundingBox-Excel-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#bbox)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#bbox)
+
+[![Image 360](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Duplicates-geometry-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#duplicate)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#duplicate)
+
+Selected Elements
+
+Change  
+Colors
+
+Change  
+Transparency
+
+Add BBox  
+Data
+
+Check  
+Duplicate
+
+[![Image 361](https://datadrivenconstruction.io/wp-content/uploads/2024/02/QTO-Tabelle-Excel-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#qto)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#qto)
+
+[![Image 362](https://datadrivenconstruction.io/wp-content/uploads/2024/02/CO2-Carbon-footprint-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#co2)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#co2)
+
+QTO  
+Table
+
+CO2  
+Emissions
+
+[![Image 363](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Check-data-Validation-CAD-BIM-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#validation)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#validation)
+
+[![Image 364](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Daschboard-Excel-from-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#dashboard)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#dashboard)
+
+[![Image 365](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Compare-two-projects-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#compare)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#compare)
+
+[![Image 366](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Merge-two-projects-CAD-BIM-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#merge)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#merge)
+
+[![Image 367](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Export-CAD-BIM-data-to-CSV.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportcsv)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportcsv)
+
+Check  
+Parameters
+
+Create  
+Dashboard
+
+Comparing  
+Versions
+
+Merging  
+Projects
+
+Export  
+to CSV
+
+[![Image 368](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Export-CAD-BIM-data-to-json.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportjson)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportjson)
+
+[![Image 369](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Export-CAD-BIM-data-to-XML.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportxml)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportxml)
+
+Export  
+to JSON
+
+Export  
+to XML
+
+### Data Validation, Quantity Take-Off (QTO), Data Grouping, Parameter Manipulation  
+and Visualization of CAD (BIM) Data Directly in Microsoft Excel®
+
+### DataDrivenConstruction Converter converts Revit®, AutoCAD, and IFC files into XLSX and DAE formats, enabling structured data extraction from design projects. It works offline, ensuring security and reliability, and integrates directly with Microsoft Excel®, allowing users to manage drawings and 3D models within a single spreadsheet.
+
+![Image 370: Nils Strumberger](https://datadrivenconstruction.io/wp-content/uploads/2024/06/photo_2024-06-11_09-54-56.jpg.webp)
+
+Nils Strumberger
+
+BIM- Coordinator | Fact GmbH
+
+The DDC (Data Driven Construction) Excel Plugin is a game-changer, transforming proprietary CAD models into open source data frames for seamless integration and AI interaction. It significantly improves workflows and offers exceptional value for money by saving time and boosting productivity. Highly recommended for anyone looking to enhance their projects with data-driven insights.
+
+![Image 371: Marie Annette Kittus](https://datadrivenconstruction.io/wp-content/uploads/2024/06/1654973882983.jpg.webp)
+
+Marie Annette Kittus
+
+BIM Manager | Esttareal solutions
+
+DataDrivenConstruction Excel Add-In is a wonderful additional tool to help extract data from CAD (BIM) Revit, IFC, DWG files in order to move forward with information validation processes in your workflows.Additionally the possibility to turn the long complex Excel file into easily human-and machine-readable files keep the Add-In modern and compatible with recent developments within IT. As we move forward in the industry it is crucial to think about diversity of data and how to find the most suitable outputs in order to keep said data valuable, up to date and usable.An influential tool with a user-friendly interface helping the construction industry move towards the future!
+
+![Image 372: Jānis Dzenis](https://datadrivenconstruction.io/wp-content/uploads/2024/06/Google-Colab-60x60.jpg.webp)
+
+Jānis Dzenis
+
+BIM Coordinator | Merks, SIA
+
+This is a fantastic tool, haven't seen one like this in a long time. In this era, we have countless tools and methods for creating models, drawings, tables, and other forms of data.The DDC Excel plugin provides me with the capability to manage information in alternative ways.
+
+[![Image 373](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Data-Mining-in-construction-with-Excel-1.gif.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)
+
+[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)
+
+### Data mining
+
+[Data mining](https://opendatabim.io/#miningdata) has become a fundamental pillar in today's data-driven world
+
+[![Image 374](https://datadrivenconstruction.io/wp-content/uploads/2023/12/revit-autocad-ifc-analyse-1.gif.webp)](https://datadrivenconstruction.io/index.php/pipeline-in-construction/)
+
+[](https://datadrivenconstruction.io/index.php/pipeline-in-construction/)
+
+### Grow your incomes
+
+[Data-driven insights](https://datadrivenconstruction.io/index.php/books/) and strategies help companies in the construction industry optimize processes
+
+* * *
+
+### Visualize and analyze
+
+[Uncover](https://opendatabim.io/#solutions) patterns, trends, and opportunities that drive informed decision-making
+
+* * *
+
+**Structured DataFrame** is ideal source for today's **processing and analytics tools**
+=======================================================================================
+
+### Structured data, organized in columns and rows, has become the backbone of modern storage and analysis systems due to its orderliness and ease of processing.  For example, only one Pandas library, which works with the DataFrame data format, is downloaded about [12 million times a day](https://www.pepy.tech/projects/pandas). Due to its popularity and ease of use, DataFrame (column based Data) has become the primary format for processing and automating data in ChatGPT, LLaMa and other LLM tools. Modern LLMs and data analytics tools almost always default to Python and Pandas for tasks such as data validation, analysis, visualization, and processing.
+
+[![Image 375](https://datadrivenconstruction.io/wp-content/uploads/2024/07/DataFrame-ChatGPT.gif.webp)](https://datadrivenconstruction.io/index.php/chatgpt-and-llm/ "ChatGPT with CAD (BIM) data")
+
+[](https://datadrivenconstruction.io/index.php/chatgpt-and-llm/ "ChatGPT with CAD (BIM) data")
+
+Structured and column based data are like the "JPEG of CAD (BIM)"
+-----------------------------------------------------------------
+
+[![Image 376](https://datadrivenconstruction.io/wp-content/uploads/2024/04/JEG-IMages.png.webp)](https://opendatabim.io/#)
+
+[](https://opendatabim.io/#)
+
+[![Image 377](https://datadrivenconstruction.io/wp-content/uploads/2024/04/MPEG-Video-1.png.webp)](https://opendatabim.io/#)
+
+[](https://opendatabim.io/#)
+
+[![Image 378](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Audio-in-MP-3.png.webp)](https://opendatabim.io/#)
+
+[](https://opendatabim.io/#)
+
+[![Image 379](https://datadrivenconstruction.io/wp-content/uploads/2024/09/CAD-BIM-Data-to-Excel-and-Collada-2.png.webp)](https://datadrivenconstruction.io/index.php/convertors/)
+
+[](https://datadrivenconstruction.io/index.php/convertors/)
+
+### LLM becomes an assistant in validation, analytics and automation
+
+**CHATGPT** ON CAD (BIM) DATA
+=============================
+
+[![Image 380](https://datadrivenconstruction.io/wp-content/uploads/2024/03/ChatGPT-with-BIM-CAD-2.png.webp)](https://datadrivenconstruction.io/index.php/chatgpt-and-llm/ "ChatGPT with Revit, IFC, DWG and DGN")
+
+[](https://datadrivenconstruction.io/index.php/chatgpt-and-llm/ "ChatGPT with Revit, IFC, DWG and DGN")
+
+### Revit®, IFC, DGN, and DWG models are created by one specialist, but dozens rely on their data. Optimizing data flow is crucial, and tools like ChatGPT can streamline this process. The DataDrivenConstruction converter and LLMs automate data handling, reducing manual work and boosting efficiency in CAD (BIM) projects.
+
+![Image 381: Dmitri Garbuzenko](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1698412286970-60x60.jpg.webp)
+
+Dmitri Garbuzenko
+
+BIM and AIM Coordinator | RB Rail AS
+
+With the help of Python and especially the pandas library, as the DataDrivenConstruction team does, we are now able to perform delivery checks four times faster. By turning IFC data into a pandas DataFrame and comparing it with quantification tables or classification databases, we have made our expertise fast and reliable.
+
+![Image 382: Prof. Dr.-Ing. Michael Bühler](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1548595407999-60x60.jpg.webp)
+
+Prof. Dr.-Ing. Michael Bühler
+
+Co-Owner GemeinWerk Ventures
+
+Be part of the movement with DataDrivenConstruction! Let’s make true freedom in data formats a reality and catalyze a new era of productivity and innovation in construction.The real and necessary journey from closed to “open” formats has not even started: True freedom in data formats—free from proprietary ties and accessible to all—is what we need to unlock innovation and collaboration across the construction industry, particularly benefiting the 99% of construction, i.e. SMEs and unchaining the sector for accelerated growth
+
+![Image 383: Irina Fischer](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1697990940943-60x60.jpg.webp)
+
+Irina Fischer
+
+BIM Coordinator | OBERMEYER Group
+
+The decision to use Jupyter Notebook for results verification turned out to be highly beneficial. Our experience with solutions from Data Driven Construction and Jupyter Notebook has been extremely positive.Overall, the integration of solutions from Data Driven Construction and Jupyter Notebook has greatly improved our workflows. Their combined capabilities and performance have not only optimized data processing, but also produced meaningful results, making them highly recommended tools.
+
+### for the engineering and construction industry
+
+**INTEGRATE** SOFTWARE
+======================
+
+#### Access the power of AI to analyze, summarize and transform data
+
+[![Image 384](https://datadrivenconstruction.io/wp-content/uploads/2023/12/Design-ohne-Titel-18.png.webp)](javascript:void(0);)
+
+[![Image 385](https://datadrivenconstruction.io/wp-content/uploads/2023/12/collab-1.png.webp)](javascript:void(0);)
+
+[![Image 386](https://datadrivenconstruction.io/wp-content/uploads/2023/12/kaggle-1.png.webp)](javascript:void(0);)
+
+[![Image 387](https://datadrivenconstruction.io/wp-content/uploads/2023/12/gimini-1.png.webp)](javascript:void(0);)
+
+[![Image 388](https://datadrivenconstruction.io/wp-content/uploads/2023/12/copilot-1.png.webp)](javascript:void(0);)
+
+ 
+
+#### Use free and popular libraries with  out-of-the-box data solutions
+
+[![Image 389](https://datadrivenconstruction.io/wp-content/uploads/2023/12/python-1.png.webp)](javascript:void(0);)
+
+[![Image 390](https://datadrivenconstruction.io/wp-content/uploads/2023/12/pandas-1.png.webp)](javascript:void(0);)
+
+[![Image 391](https://datadrivenconstruction.io/wp-content/uploads/2023/12/geopandas-1.png.webp)](javascript:void(0);)
+
+[![Image 392](https://datadrivenconstruction.io/wp-content/uploads/2023/12/numpy-1.png.webp)](javascript:void(0);)
+
+[![Image 393](https://datadrivenconstruction.io/wp-content/uploads/2023/12/matplotlib-1.png.webp)](javascript:void(0);)
+
+[![Image 394](https://datadrivenconstruction.io/wp-content/uploads/2023/12/scikitlaearn-1.png.webp)](javascript:void(0);)
+
+[![Image 395](https://datadrivenconstruction.io/wp-content/uploads/2023/12/plotly-1.png.webp)](javascript:void(0);)
+
+[![Image 396](https://datadrivenconstruction.io/wp-content/uploads/2023/12/pytest-1.png.webp)](javascript:void(0);)
+
+[![Image 397](https://datadrivenconstruction.io/wp-content/uploads/2023/12/dask.png.webp)](javascript:void(0);)
+
+[![Image 398](https://datadrivenconstruction.io/wp-content/uploads/2023/12/django.png.webp)](javascript:void(0);)
+
+#### Effortlessly integrate with industry-leading development tools 
+
+[![Image 399](https://datadrivenconstruction.io/wp-content/uploads/2023/12/vscode-1.png.webp)](javascript:void(0);)
+
+[![Image 400](https://datadrivenconstruction.io/wp-content/uploads/2023/12/unreal-engine-1.png.webp)](javascript:void(0);)
+
+[![Image 401](https://datadrivenconstruction.io/wp-content/uploads/2023/12/unity-1.png.webp)](javascript:void(0);)
+
+[![Image 402](https://datadrivenconstruction.io/wp-content/uploads/2023/12/tableu-1.png.webp)](javascript:void(0);)
+
+[![Image 403](https://datadrivenconstruction.io/wp-content/uploads/2023/12/pccharm-2.png.webp)](javascript:void(0);)
+
+[![Image 404](https://datadrivenconstruction.io/wp-content/uploads/2023/12/powerbi-1.png.webp)](javascript:void(0);)
+
+[![Image 405](https://datadrivenconstruction.io/wp-content/uploads/2023/12/jupyter-1.png.webp)](javascript:void(0);)
+
+[![Image 406](https://datadrivenconstruction.io/wp-content/uploads/2023/12/githhub-1.png.webp)](javascript:void(0);)
+
+[![Image 407](https://datadrivenconstruction.io/wp-content/uploads/2023/12/gitlab-1.png.webp)](javascript:void(0);)
+
+Complete CAD (BIM) Data Lifecycle
+
+**Extract** | **Verify** | Rewrite | Store | **Analyze** |  **Predict**
+
+[![Image 408](https://datadrivenconstruction.io/wp-content/uploads/2024/09/CAD-BIM-Qualitat-2.png.webp)](https://opendatabim.io/#)
+
+[](https://opendatabim.io/#)
+
+### **CAD (BIM) Data Quality**
+
+Ensure the integrity of your projects with our comprehensive data quality solutions.
+
+[![Image 409](https://datadrivenconstruction.io/wp-content/uploads/2024/09/CAD-to-Excel-DWG-Revit-IFC-2.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)
+
+[](https://datadrivenconstruction.io/#onepagerpdf)
+
+### **DDC Excel Add-in for RVT, IFC, DWG**
+
+Seamlessly convert and manage your CAD data directly in Excel.
+
+[![Image 410](https://datadrivenconstruction.io/wp-content/uploads/2024/09/Data-Check-BIM-2.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)
+
+[](https://datadrivenconstruction.io/#onepagerpdf)
+
+### **Data Filling in CAD (BIM)**
+
+Fill your CAD projects with accurate and comprehensive data effortlessly.
+
+[![Image 411](https://datadrivenconstruction.io/wp-content/uploads/2024/09/DataAnalytics-in-constructoin.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)
+
+[](https://datadrivenconstruction.io/#onepagerpdf)
+
+### **Data Analytics in Construction**
+
+Transform your construction outcomes with our tailored data analytics.
+
+[![Image 412](https://datadrivenconstruction.io/wp-content/uploads/2024/09/LLM-for-CAD-BIM-Data-3.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)
+
+[](https://datadrivenconstruction.io/#onepagerpdf)
+
+### **LLM for CAD-BIM**
+
+Streamline your CAD-BIM processes with Large Language Models ChatGPT, LLaMa and others.
+
+Building the Future of Construction Data Management
+---------------------------------------------------
+
+DataDrivenConstruction **Workshop**
+===================================
+
+### DataDrivenConstruction offers workshops tested and practiced on global leaders in the construction industry to help your team navigate and leverage the power of data and artificial intelligence in your company's decision making.
+
+Request a Workshop
+
+![Image 413](https://datadrivenconstruction.io/wp-content/uploads/2025/01/Workshop-DataDrivenConstruction-Consulting-1.png)
+
+![Image 414: Ralph Montague](https://datadrivenconstruction.io/wp-content/uploads/2025/01/t1B3NeQj_400x400-60x60.jpg)
+
+Ralph Montague
+
+Director | ARCDOX
+
+If "data is the new oil", we need to learn to define it, find it, mine it, refine it, to make it valuable. I've found Artem Boiko's research work, his book, and his posts very informative and insightful. He always provides a useful historical background and plain language explanation to his work. His regular contributions to the BIM Heroes community network help to give our AEC members, who are interested in digital transformation, a good understanding of data - how it works, and how it is structured, and how it can be used. Thanks Artem and DataDrivenConstruction for your continuous effort.
+
+![Image 415: Evan Ramenskiy](https://datadrivenconstruction.io/wp-content/uploads/2025/01/1732053926561-60x60.jpeg)
+
+Evan Ramenskiy
+
+CRO & Co-founder | Shapemaker
+
+Artem Boiko delivered an outstanding presentation to the entire Shapemaker team, providing deep insights into data migration from engineering software and related topics. His expertise and clear communication made complex concepts easy to grasp, equipping our team with practical knowledge we can apply immediately. Highly recommend his services for anyone seeking clarity and actionable strategies in this space!
+
+![Image 416: Markus Eiberger](https://datadrivenconstruction.io/wp-content/uploads/2025/01/1727993000845-60x60.jpeg)
+
+Markus Eiberger
+
+Banch Management | Konstruktionsgruppe Bauen
+
+Artem Boiko delivered an impressive presentation at our BIM Cluster BW Day 2024 on the use of data in relation to BIM. His expertise in presenting a new vision for the application of data was truly inspiring. With his passion and deep understanding of the subject, he was able to explain complex concepts clearly while also introducing innovative approaches.Although his presentation was rich in content and full of slides, this density of information highlighted the depth of his vision and his persuasive power. Artem has the ability to captivate his audience with his open and engaging style, effectively leading them through the material. He demonstrates not only remarkable technical expertise but also the skill to communicate his message in a way that sparks reflection and encourages discussion.We sincerely thank Artem Boiko for his valuable contribution and look forward to future opportunities to benefit from his knowledge and visionary perspective.
+
+> #### In today's rapidly evolving digital landscape, interoperability, data processing, data mining and process automation are no longer optional - they are simply essential. Our approach is built on two essential pillars: **theory** and **practice**, both tailored to the unique needs of each company.
+
+### **Theory:**
+
+We cover key topics and trends that are directly relevant to your organization. This isn’t dry, academic theory—it’s a clear, fact-based understanding of current trends, combined with practical insights on how to address them in real-world scenarios.
+
+### **Practice:**
+
+We can also move into practical application as needed. Using modern tools and techniques, we demonstrate how to solve data-related problems efficiently and effectively. The knowledge gained is immediately applied to real-world problems.
+
+[![Image 417](https://datadrivenconstruction.io/wp-content/uploads/2024/09/DataAnalytics-in-constructoin.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)
+
+[](https://datadrivenconstruction.io/#onepagerpdf)
+
+[![Image 418](https://datadrivenconstruction.io/wp-content/uploads/2024/09/LLM-for-CAD-BIM-Data-3.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)
+
+[](https://datadrivenconstruction.io/#onepagerpdf)
+
+[![Image 419](https://datadrivenconstruction.io/wp-content/uploads/2024/09/LLM-for-CAD-BIM-Data-3.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)
+
+[](https://datadrivenconstruction.io/#onepagerpdf)
+
+[![Image 420](https://datadrivenconstruction.io/wp-content/uploads/2025/01/DDC-OnePager-50-x-70.715-mm-1.png)](https://datadrivenconstruction.io/#onepagerpdf)
+
+[](https://datadrivenconstruction.io/#onepagerpdf)
+
+###  **Key Topics We Cover**
+
+*   **Data Mining**: Extracting usable data from PDFs, Excel files, images, and other sources.
+*   **BIM and CAD**: Gaining insights from RVT, IFC, DWG, and other file formats.
+*   **Data Quality**: Ensuring your data is accurate, complete, and ready for automation.
+*   **Analytics and Transformation**: Turning raw data into actionable insights and strategic ideas.
+*   **Systems Integration**: Embedding data into workflows, databases, and documents to maximize efficiency.
+
+Every step of the way, we discuss your real-world challenges, uncovering issues and opportunities specific to your team and organization. This personalized approach ensures that the training is directly relevant to your needs and immediately applicable to your work.
+
+don't miss your chance to enter a new era
+-----------------------------------------
+
+DATADRIVENCONSTRUCTION **GUIDE**
+================================
+
+*   [![Image 421](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-300x300.png)](https://datadrivenconstruction.io/product/data-driven-construction/)
+    
+    [](https://opendatabim.io/?add-to-cart=2926)[](https://datadrivenconstruction.io/product/data-driven-construction/)
+    
+    [](https://datadrivenconstruction.io/product/data-driven-construction/)
+    
+    #### [DATA-DRIVEN CONSTRUCTION. Navigating the Data Age in the Construction Industry](https://datadrivenconstruction.io/product/data-driven-construction/)
+    
+    $114.54
+    
+    [Add to basket](https://opendatabim.io/?add-to-cart=2926)
+    
+*   [![Image 422](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-4-300x300.png.webp)](https://datadrivenconstruction.io/product/data-driven-construction-3/)
+    
+    [](https://opendatabim.io/?add-to-cart=2958)[](https://datadrivenconstruction.io/product/data-driven-construction-3/)
+    
+    [](https://datadrivenconstruction.io/product/data-driven-construction-3/)
+    
+    #### [DATA-DRIVEN CONSTRUCTION. Navigieren im Datenzeitalter in der Bauindustrie](https://datadrivenconstruction.io/product/data-driven-construction-3/)
+    
+    $115.58
+    
+    [Add to basket](https://opendatabim.io/?add-to-cart=2958)
+    
+*   [![Image 423](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-3-300x300.png.webp)](https://datadrivenconstruction.io/product/cddc-guide/)
+    
+    [](https://opendatabim.io/?add-to-cart=2960)[](https://datadrivenconstruction.io/product/cddc-guide/)
+    
+    [](https://datadrivenconstruction.io/product/cddc-guide/)
+    
+    #### [数据驱动建设. 数据时代的导航](https://datadrivenconstruction.io/product/cddc-guide/)
+    
+    $115.24
+    
+    [Add to basket](https://opendatabim.io/?add-to-cart=2960)
+    
+*   [![Image 424](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-2-300x300.png.webp)](https://datadrivenconstruction.io/product/data-driven-construction-2/)
+    
+    [](https://opendatabim.io/?add-to-cart=2962)[](https://datadrivenconstruction.io/product/data-driven-construction-2/)
+    
+    [](https://datadrivenconstruction.io/product/data-driven-construction-2/)
+    
+    #### [DATA-DRIVEN CONSTRUCTION. Навигация в эпоху данных в строительной отрасли](https://datadrivenconstruction.io/product/data-driven-construction-2/)
+    
+    $115.24
+    
+    [Add to basket](https://opendatabim.io/?add-to-cart=2962)
+    
+*   [![Image 425](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-1-300x300.jpg.webp)](https://datadrivenconstruction.io/product/data-driven-construction-4/)
+    
+    [](https://opendatabim.io/?add-to-cart=3018)[](https://datadrivenconstruction.io/product/data-driven-construction-4/)
+    
+    [](https://datadrivenconstruction.io/product/data-driven-construction-4/)
+    
+    #### [DATA-DRIVEN CONSTRUCTION. Navegar na era dos dados no sector da construção](https://datadrivenconstruction.io/product/data-driven-construction-4/)
+    
+    $115.46
+    
+    [Add to basket](https://opendatabim.io/?add-to-cart=3018)
+    
+*   [![Image 426](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-2-300x300.jpg.webp)](https://datadrivenconstruction.io/product/data-driven-construction-5/)
+    
+    [](https://opendatabim.io/?add-to-cart=3020)[](https://datadrivenconstruction.io/product/data-driven-construction-5/)
+    
+    [](https://datadrivenconstruction.io/product/data-driven-construction-5/)
+    
+    #### [DATA-DRIVEN CONSTRUCTION. Navegar por la era de los datos en el sector de la construcción](https://datadrivenconstruction.io/product/data-driven-construction-5/)
+    
+    $115.00
+    
+    [Add to basket](https://opendatabim.io/?add-to-cart=3020)
+    
+*   [![Image 427](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-4-300x300.jpg.webp)](https://datadrivenconstruction.io/product/la-construction-guidee-par-les-donnees/)
+    
+    [](https://opendatabim.io/?add-to-cart=3022)[](https://datadrivenconstruction.io/product/la-construction-guidee-par-les-donnees/)
+    
+    [](https://datadrivenconstruction.io/product/la-construction-guidee-par-les-donnees/)
+    
+    #### [LA CONSTRUCTION GUIDÉE PAR LES DONNÉES. Naviguer dans l’ère des données dans l’industrie de la construction](https://datadrivenconstruction.io/product/la-construction-guidee-par-les-donnees/)
+    
+    $115.82
+    
+    [Add to basket](https://opendatabim.io/?add-to-cart=3022)
+    
+*   [![Image 428](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-3-300x300.jpg.webp)](https://datadrivenconstruction.io/product/costruzione-basata-sui-dati/)
+    
+    [](https://opendatabim.io/?add-to-cart=3024)[](https://datadrivenconstruction.io/product/costruzione-basata-sui-dati/)
+    
+    [](https://datadrivenconstruction.io/product/costruzione-basata-sui-dati/)
+    
+    #### [COSTRUZIONE BASATA SUI DATI. Navigare nell’era dei dati nel settore delle costruzioni](https://datadrivenconstruction.io/product/costruzione-basata-sui-dati/)
+    
+    $115.00
+    
+    [Add to basket](https://opendatabim.io/?add-to-cart=3024)
+    
+
+![Image 429: Martin Loureiro-Barrientos](https://datadrivenconstruction.io/wp-content/uploads/2024/04/HeadShoot_MLB_Low-60x60.png.webp)
+
+Martin Loureiro-Barrientos
+
+BIM Coordinator | Populous, London
+
+Probably the most interesting book of the last two years that I know of. Required reading to break free from the 'matrix' perpetuated by software vendors, this book delves into how emerging tools like artificial intelligence offer fresh opportunities for data management without extensive technical expertise, poised to revolutionize even the most antiquated sectors like construction.With flawless translation and mind-bending graphics, it's a must-read. Eagerly anticipating the sequel. Very good buy in my opinion...I will read it again and waiting for the second part!
+
+![Image 430: Paul Ransley](https://datadrivenconstruction.io/wp-content/uploads/2024/04/avatar-1-60x60.jpg.webp)
+
+Paul Ransley
+
+PLU Systems Engineer | Transport for London (TfL)
+
+I highly recommend Artem's book that addresses, as the title says, a data driven information management approach for AECO. I am currently using it to help initiate a number of discussions with various groups. I have found it a very accessible reference.As well as a thorough overview of the history context of tools in AECO, data and introducing several key technologies the book contains a number of very useful diagrams, that outline the scope of data sources and end user artefacts, common database types encountered, applications working on that data and output artefacts in organisations or projects, with sample workflows.It strikes me that these are the types of diagrams we need more of when developing and monitoring information strategies and contribute to BEP's - defining the overall enterprise data model onto which the boundary for a PIM and AIM can be overlaid.
+
+![Image 431: Pierpaolo Vergati](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1698934472463-60x60.jpg.webp)
+
+Pierpaolo Vergati
+
+Senior Construction Project Manager | Fintecna S.p.A., Rome
+
+For anyone in the construction industry, from rookies to seasoned pros, this book is a game-changer! It's not your typical dusty read—it's packed with insights, strategies, and a touch of humor to keep you engaged. From ancient data recording methods to cutting-edge digital technologies, it covers the evolution of data usage in construction.🚘 ⏱️It's like taking a time machine through the evolution of construction data—minus the wonky flux capacitor.😁And shoutout to Artem Boiko , our "Doc E. Brown", for crafting this data-packed journey! 🌟Whether you're an architect, engineer, project manager or data analyst, this comprehensive guide will revolutionize the way you approach projects. Get ready to optimize processes, enhance decision-making, and manage projects like never before! 💼💡 _(A review of the Italian version of the book "COSTRUZIONE BASATA SUI DATI. Navigare nell’era dei dati nel settore delle costruzioni")_
+
+![Image 432: Mikhail Kosarev](https://datadrivenconstruction.io/wp-content/uploads/2024/07/1602916325350-1-60x60.jpg.webp)
+
+Mikhail Kosarev
+
+TIM-ASG | Digital transformation expert
+
+📚 I read the book in one breath, in less than 6 hours. The presentation of information is as simple as possible, but for deep perception and coverage of the materials requires an expanded horizon of knowledge from the construction and IT industries. At 270 pages, a huge number of schemes. The manufacturing quality of the book is excellent, dense glossy paper, color schemes, a pleasant font.🏗 The content of the book allows you to look at construction project management from an information management perspective. Will broaden your horizons and understanding of modern digital technologies in construction. The large number of practical examples on how to work with ChatGPT specific to the construction industry will save you months, if not years, of self-study.💻 Work examples are very diverse, ranging from simple to complex, without requiring you to purchase complex and expensive software. The main focus is on open source software. In the book and about data analysis and programming, visualization of information. You will look at Excel and your computer in a different way.👨‍💼 The book will be especially useful for BIM specialists, IT specialists working or going to work in the construction industry. Digital ISU to take a new look at project management, to increase their efficiency. The book will allow owners of any business in the construction industry to take a fresh look at their business strategy, digitalization and development prospects. And for smaller companies to increase efficiency with affordable and free tools.📖 The book will be my go-to book for regular use for the next year until the PDF version comes out.
+
+![Image 433: Salih Ofluoğlu](https://datadrivenconstruction.io/wp-content/uploads/2024/07/1718214169342-60x60.jpg.webp)
+
+Salih Ofluoğlu
+
+Antalya Bilim University | Dean, Faculty of Architecture
+
+I think that the book addresses a significant, contemporary topic relevant to the construction industry. As it was also emphasized in the book, information is a crucial asset for the construction sector, and having it in accessible formats greatly facilitates accurate decision-making and expedites project timelines.The book offers a neutral and efficient approach to accessing and taking advantage of this source in decision-making. The methodology presented in the book leverages a contemporary approach that combines artificial intelligence-driven programming with accessible open-source tools.By harnessing the power of AI and utilizing open-source software, the methodology aims to enhance automation, optimize processes, and promote accessibility and collaboration within the field. The language of the book is clear and easy to follow.Congratulations on the quality work! I have enjoyed reading it. Wishing you continued success as well.
+
+![Image 434: Moayad Saleh](https://datadrivenconstruction.io/wp-content/uploads/2024/07/a5a15858-1fd2-4627-a53a-1b0089ab6b43-60x60.jpg.webp)
+
+Moayad Saleh
+
+BIM Manager | TMM GROUP Gesamtplanungs GmbH
+
+Artem's book, "DATA DRIVEN CONSTRUCTION," is a game-changer for anyone curious about where the construction industry is headed in the age of data. Whether you're deeply involved in construction or simply intrigued by its evolution, this book offers a captivating exploration of how technology is reshaping the field.Artem doesn't just scratch the surface; he delves deep into the current developments, challenges, and promising opportunities in construction. What sets this book apart is its accessibility—Artem explains complex ideas using relatable analogies that make the content easy to grasp.I found the book to be incredibly informative yet engaging. It's clear that Artem has a profound understanding of both the industry and the transformative power of data analytics. His writing style is approachable yet authoritative, making "DATA DRIVEN CONSTRUCTION" a must-read for anyone looking to stay ahead in this rapidly changing landscape.In summary, Artem has crafted a valuable resource that not only informs but also inspires. Whether you're a seasoned professional or a newcomer to construction, this book will broaden your perspective and deepen your understanding of where the industry is heading. Highly recommended!
+
+![Image 435: Isabella Deininger](https://datadrivenconstruction.io/wp-content/uploads/2024/08/Foto_Isabella_Deininger-60x60.jpg.webp)
+
+Isabella Deininger
+
+CEO LBI Association | TU München
+
+The "DATA-DRIVEN CONSTRUCTION" by Artem Boiko is a comprehensive work that fills a gap in the "modern" construction industry.It offers valuable insights into both the basics and advanced applications of data in construction. Artem also presents an interesting approach to handling data in construction and shows how it can be used. It is a successful presentation of the various possibilities that data can offer in construction and provides practical guidance and examples.As such, it is an absolute recommendation for anyone involved in the use of data in the construction industry.
+
+![Image 436: Ihor Rogchew](https://datadrivenconstruction.io/wp-content/uploads/2024/08/photo_2019-10-23_20-45-21-60x60.jpg.webp)
+
+Ihor Rogchew
+
+Head of IMT Competence Center | RZD
+
+At the moment, the degree of chaotic and oversaturated information in the construction industry has reached such a level that any specialist in the field of working with data would be horrified. But the problem is that builders have long been working in their own closed IT world and often come up with zoned existing approaches or directly ignoring the successful experience of working with data from other industries. Artem Boyko's work is one of the first steps beyond the boundaries of the usual world of builders, with their complex design and management systems, when, it would seem, the complexity and saturation of data does not even give a chance for radical simplification and increased transparency of work with construction data.In his book, Artem shows in simple language what opportunities modern technologies of working with data open before us, and literally gives concrete steps that you can immediately apply in your work. I urge everyone who wants to understand where automation systems will go in the construction industry to study this small book carefully in order to realize that the data revolution in construction is already knocking on our door.It's only of interest to geeks now, but in a few years, like BIM, such approaches and software will be ubiquitous!
+
+![Image 437: Natasha Prinsloo](https://datadrivenconstruction.io/wp-content/uploads/2024/08/1608480040202-60x60.jpg.webp)
+
+Natasha Prinsloo
+
+BIM Coordinator | energylab UK
+
+All I can say is, WOW! The way you incorporated history, ChatGPT, the graphics, and the overall ease of understanding your points is truly remarkable. The flow of the book is amazing.There are so many brilliant aspects to this book; it’s genuinely a game-changer. It’s a great source of information, and I commend you for the effort and passion you’ve put into it. Congratulations on creating such a remarkable work. I could go on, but suffice it to say, I’m incredibly impressed!
+
+![Image 438: Kristijan Vilibić](https://datadrivenconstruction.io/wp-content/uploads/2025/01/1697388650313-60x60.jpeg)
+
+Kristijan Vilibić
+
+Founder | Mastery of Digital
+
+I found this book to be an eye-opener for anyone in the construction industry interested in modernizing their approach to data. What I appreciated the most was how it doesn’t assume you’re a tech expert—it’s written in a way that feels approachable, even if you're just starting out.The book connects the dots between technical concepts and real-world applications, like improving project schedules or estimating costs more accurately. The illustrations and graphs made complex ideas so much easier to understand.If you’re curious about how data can transform construction workflows or just want to stay ahead in this fast-evolving industry, this book is a fantastic guide. It felt practical, relevant, and relatable to my work.
+
+![Image 439: Ediz Yazicioglu](https://datadrivenconstruction.io/wp-content/uploads/2025/01/1690018918329-60x60.jpeg)
+
+Ediz Yazicioglu
+
+Owner | ArchCube
+
+I am a civil engineer. I have a PhD in project and construction management. As a civil engineer, in addition to the many construction projects I have realized, I have been involved in the development in the field of AEC since 1987, which Artem Boiko described in BIM history https://bigdataconstruction.com/history-of-bim/. In addition to representing Archtrion, Vectorworks software in Turkey, I have realized the Turkish localization of these software. In partnership with Bentley, I provided sales and training of Bentley's AEC solutions. I produced kitchen design and order automation software called ArchKitchen. In addition to world brands such as Arup, Bayer, Mercedes, Renault, Siemens, Franke, Teka, public institutions of my country and sector leading brands have become my customers. I have produced a lot of software in the field of AEC. When I review the book Data-Driven Construction with the knowledge and experience I have gained in my professional life of more than thirty-five years, I would like to say the following.I would like to start by saying that when you take the Data-Driven Construction book in your hand, you will feel its high quality with its print quality and binding. Most importantly, I should also say that Data-Driven Construction is worthy of being taught as a textbook in universities and is a book that will make valuable contributions to the developing BIM field. Data-Driven Construction contains a technical glossary that explains the concepts very well. The explanation of conceptual and technical terms adds value to the understanding of the text. I think it would be appropriate to develop these sections of the book as a technical glossary.Data-Driven Construction book is supported by visual narration. Topics that are extremely difficult to explain are made simple and understandable with a very beautiful visual language. I think that what is intended to be explained in the visuals should be expressed to the reader, even if briefly. The comprehensibility of some visuals, in other words, reading the visual requires separate information. The book Data-Driven Construction explains very well what is conceptually related to what with its historical background. I would like to suggest that in the development of the book, these narratives should be made comprehensive instead of being a summary.The book Data-Driven Construction has traces of Artem Boiko's education and software development experiences, which increases the gains of the reader. I think that it would be better to relate what is described in the book to Artem Boiko's education and software development with the links to be given and to increase the software examples in case-study style. I must say that the topics of the Data-Driven Construction book are very well structured. I think it would be useful to give information about software development tools in the parts of the book that will guide those who want to work in this field.I think it would be useful to have a section in the Data-Driven Construction book where existing software solutions on the subject are examined. For example, I think it would be useful to explain the operation of a system such as ERP and data relationships to the reader in a short understandable language. In the book Data-Driven Construction, many file and data sharing formats are mentioned. I think it would be useful to provide more detailed information about the content of these formats or to provide the reader with access to detailed information by referring to references.In the Data-Driven Construction book, I think that BIM standard setters such as BuildingSmart, BSI are introduced and the relationship between BIM standards and data should be given in more detail. For example, I think it is a necessity to explain the structure of IFC in the book in great detail.I think that how data is obtained from BIM model information should be exemplified in the book as in Artem Boiko's trainings. Finally, I must say that the Data-Driven Construction book is a very good study on the essence of the subject and each title is open to be developed more comprehensively. I would like to say a few words about Artem Boiko himself.In my PhD study, I argued that Revit-Dynamo software, a visual programming tool, can be used in the calculation of construction costs in an unconventional way. I must say that I am surprised that among the over 10.000 sources I examined for Cost Network Modeling, which I developed in my PhD, only Artem Boiko followed the same approach. I would also like to say that I am happy to introduce Artem Boiko's valuable work in my lectures and seminars at universities. I am happy to know Artem Boiko, a good and valuable person. I wish him continued success.
+
+### Have you attended one of our workshops, read our book, or used our solutions?
+
+Share your feedback
+
+**Focus on** **DATA**, not on schemas
+=====================================
+
+#### PARTNERS IN DATA MINING AND PROCESSING
+
+![Image 440](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-buildinformed-2.png.webp)
+
+![Image 441](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-thost-1.png.webp)
+
+![Image 442](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-morphbim-3.png.webp)
+
+![Image 443](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-bim2b-2.png.webp)
+
+![Image 444](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-gemeinwerk-3.png.webp)
+
+![Image 445](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-baufomr-2.png.webp)
+
+![Image 446](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-creasi-2.png.webp)
+
+![Image 447](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-pixematic.png.webp)
+
+![Image 448](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-control-seek-2.png.webp)
+
+![Image 449](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-visplu-1.png.webp)
+
+![Image 450](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-manotek-2.png.webp)
+
+![Image 451](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-we-bim-1.png.webp)
+
+from pre-built code blocks
+--------------------------
+
+**BUILD A CUSTOM** SOLUTION
+===========================
+
+
+===========================================================
+
+100+mln
+
+Community of experts
+
+[More about Pipeline](https://datadrivenconstruction.io/pipeline-in-construction/)
+
+100x
+
+Easier to code
+
+15 December 2023
+
+[![Image 452](https://datadrivenconstruction.io/wp-content/uploads/2023/08/IFC-to-table.png.webp)](https://datadrivenconstruction.io/2023/12/ifc-to-excel-converter/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2023/08/IFC-to-table.png)[](https://datadrivenconstruction.io/2023/12/ifc-to-excel-converter/)
+
+Categories
+
+*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)
+*   [Data Processing and Export](https://datadrivenconstruction.io/category/pipelines/data-processing-and-export/)
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[IFC to Excel Converter](https://datadrivenconstruction.io/2023/12/ifc-to-excel-converter/)
+-------------------------------------------------------------------------------------------
+
+22 February 2024
+
+[![Image 453](https://datadrivenconstruction.io/wp-content/uploads/2024/02/QTO-volume-table-revit-IFC-1.png.webp)](https://datadrivenconstruction.io/2024/02/qto-project-calculations-using-rules-from-excel-spreadsheet-2518/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/QTO-volume-table-revit-IFC-1.png)[](https://datadrivenconstruction.io/2024/02/qto-project-calculations-using-rules-from-excel-spreadsheet-2518/)
+
+Categories
+
+*   [DATA-DRIVEN ESTIMATING AND QUANTITY TAKE-OFFS](https://datadrivenconstruction.io/category/datadrivenconstruction/data-driven-estimating-and-quantity-take-offs/)
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[QTO calculations using rules from Excel](https://datadrivenconstruction.io/2024/02/qto-project-calculations-using-rules-from-excel-spreadsheet-2518/)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+24 February 2024
+
+[![Image 454](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Rules-for-Validationa-in-CAD-BIM.png.webp)](https://datadrivenconstruction.io/2024/02/structured-requirements-and-regex/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Rules-for-Validationa-in-CAD-BIM.png)[](https://datadrivenconstruction.io/2024/02/structured-requirements-and-regex/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[Structured requirements and RegEx](https://datadrivenconstruction.io/2024/02/structured-requirements-and-regex/)
+-----------------------------------------------------------------------------------------------------------------
+
+24 February 2024
+
+[![Image 455](https://datadrivenconstruction.io/wp-content/uploads/2024/02/CO2-carpon-bim-cad-2.png.webp)](https://datadrivenconstruction.io/2024/02/qto-with-chatgpt-of-cad-bim-data/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/CO2-carpon-bim-cad-2.png)[](https://datadrivenconstruction.io/2024/02/qto-with-chatgpt-of-cad-bim-data/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+*   [Uncategorized](https://datadrivenconstruction.io/category/uncategorized/)
+
+[QTO with ChatGPT of CAD (BIM) data](https://datadrivenconstruction.io/2024/02/qto-with-chatgpt-of-cad-bim-data/)
+-----------------------------------------------------------------------------------------------------------------
+
+24 February 2024
+
+[![Image 456](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT.png.webp)](https://datadrivenconstruction.io/2024/02/open-structured-data-2311-2/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT.png)[](https://datadrivenconstruction.io/2024/02/open-structured-data-2311-2/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[Open Data, Pandas, DataFrame and ChatGPT](https://datadrivenconstruction.io/2024/02/open-structured-data-2311-2/)
+------------------------------------------------------------------------------------------------------------------
+
+24 February 2024
+
+[![Image 457](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Image-to-table-with-ChatGPT.png.webp)](https://datadrivenconstruction.io/2024/02/image-into-table-with-chatgpt/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Image-to-table-with-ChatGPT.png)[](https://datadrivenconstruction.io/2024/02/image-into-table-with-chatgpt/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[Image into table with ChatGPT](https://datadrivenconstruction.io/2024/02/image-into-table-with-chatgpt/)
+---------------------------------------------------------------------------------------------------------
+
+31 July 2023
+
+[![Image 458](https://datadrivenconstruction.io/wp-content/uploads/2023/07/PDF-to-Excel-4.png.webp)](https://datadrivenconstruction.io/2023/07/pdf-to-table-df/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2023/07/PDF-to-Excel-4.png)[](https://datadrivenconstruction.io/2023/07/pdf-to-table-df/)
+
+Categories
+
+*   [Data Conversion](https://datadrivenconstruction.io/category/pipelines/data-conversion/)
+*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[PDF to Excel](https://datadrivenconstruction.io/2023/07/pdf-to-table-df/)
+--------------------------------------------------------------------------
+
+26 February 2024
+
+[![Image 459](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT-3-1.png.webp)](https://datadrivenconstruction.io/2024/02/pipeline-etl-cad-bim-project-verification-2803/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT-3-1.png)[](https://datadrivenconstruction.io/2024/02/pipeline-etl-cad-bim-project-verification-2803/)
+
+Categories
+
+*   [AUTOMATIC PIPELINE- ETL DATA VALIDATION](https://datadrivenconstruction.io/category/datadrivenconstruction/automatic-pipeline-etl-data-validation/)
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[Pipeline-ETL: CAD (BIM) project verification](https://datadrivenconstruction.io/2024/02/pipeline-etl-cad-bim-project-verification-2803/)
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+24 February 2024
+
+[![Image 460](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Create-DataBase-with-ChatGPT.png.webp)](https://datadrivenconstruction.io/2024/02/creating-a-database-using-chatgpt/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Create-DataBase-with-ChatGPT.png)[](https://datadrivenconstruction.io/2024/02/creating-a-database-using-chatgpt/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[Creating a database using ChatGPT](https://datadrivenconstruction.io/2024/02/creating-a-database-using-chatgpt/)
+-----------------------------------------------------------------------------------------------------------------
+
+15 December 2023
+
+[![Image 461](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Revit-to-table-4.png.webp)](https://datadrivenconstruction.io/2023/12/rvt-revit-to-excel-converter/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Revit-to-table-4.png)[](https://datadrivenconstruction.io/2023/12/rvt-revit-to-excel-converter/)
+
+Categories
+
+*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)
+*   [Data Processing and Export](https://datadrivenconstruction.io/category/pipelines/data-processing-and-export/)
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[RVT Revit to Excel Converter](https://datadrivenconstruction.io/2023/12/rvt-revit-to-excel-converter/)
+-------------------------------------------------------------------------------------------------------
+
+2 August 2023
+
+[![Image 462](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Excel-to-JPEG.png.webp)](https://datadrivenconstruction.io/2023/08/visualizing-data-from-excel/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Excel-to-JPEG.png)[](https://datadrivenconstruction.io/2023/08/visualizing-data-from-excel/)
+
+Categories
+
+*   [Data Conversion](https://datadrivenconstruction.io/category/pipelines/data-conversion/)
+*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[Visualizing Data from Excel](https://datadrivenconstruction.io/2023/08/visualizing-data-from-excel/)
+-----------------------------------------------------------------------------------------------------
+
+24 February 2024
+
+[![Image 463](https://datadrivenconstruction.io/wp-content/uploads/2024/02/PDF-to-Excel-1.png.webp)](https://datadrivenconstruction.io/2024/02/data-validation-and-validation-results/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/PDF-to-Excel-1.png)[](https://datadrivenconstruction.io/2024/02/data-validation-and-validation-results/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[Data validation and validation results](https://datadrivenconstruction.io/2024/02/data-validation-and-validation-results/)
+---------------------------------------------------------------------------------------------------------------------------
+
+26 February 2024
+
+[![Image 464](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT-2.png.webp)](https://datadrivenconstruction.io/2024/02/predictions-and-forecasts-based-on-historical-data-2873/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT-2.png)[](https://datadrivenconstruction.io/2024/02/predictions-and-forecasts-based-on-historical-data-2873/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+*   [THE FUTURE: PREDICTIONS, FORECASTS AND MACHINE LEARNING](https://datadrivenconstruction.io/category/datadrivenconstruction/the-future-predictions-forecasts-and-machine-learning/)
+
+[Predictions and forecasts based on historical data](https://datadrivenconstruction.io/2024/02/predictions-and-forecasts-based-on-historical-data-2873/)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+24 February 2024
+
+[![Image 465](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pdf-to-table-with-chatgpt.png.webp)](https://datadrivenconstruction.io/2024/02/pdf-to-table-with-chatgpt/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pdf-to-table-with-chatgpt.png)[](https://datadrivenconstruction.io/2024/02/pdf-to-table-with-chatgpt/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[PDF to table with ChatGPT](https://datadrivenconstruction.io/2024/02/pdf-to-table-with-chatgpt/)
+-------------------------------------------------------------------------------------------------
+
+19 May 2024
+
+[![Image 466](https://datadrivenconstruction.io/wp-content/uploads/2024/05/Pandas-ChatGPT-1.png.webp)](https://datadrivenconstruction.io/2024/05/big-data-in-construction-2/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/05/Pandas-ChatGPT-1.png)[](https://datadrivenconstruction.io/2024/05/big-data-in-construction-2/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[Big Data in Construction](https://datadrivenconstruction.io/2024/05/big-data-in-construction-2/)
+-------------------------------------------------------------------------------------------------
+
+24 February 2024
+
+[![Image 467](https://datadrivenconstruction.io/wp-content/uploads/2024/02/CO2-carpon-bim-cad-1.png.webp)](https://datadrivenconstruction.io/2024/02/co2-estimation-and-calculation/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/CO2-carpon-bim-cad-1.png)[](https://datadrivenconstruction.io/2024/02/co2-estimation-and-calculation/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[CO2 estimation and calculation](https://datadrivenconstruction.io/2024/02/co2-estimation-and-calculation/)
+-----------------------------------------------------------------------------------------------------------
+
+24 February 2024
+
+[![Image 468](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Estimating-Calculations.png.webp)](https://datadrivenconstruction.io/2024/02/estimating-calculations/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Estimating-Calculations.png)[](https://datadrivenconstruction.io/2024/02/estimating-calculations/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[Estimating Calculations](https://datadrivenconstruction.io/2024/02/estimating-calculations/)
+---------------------------------------------------------------------------------------------
+
+2 August 2023
+
+[![Image 469](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Install-Jupyter-Notebook-5.png.webp)](https://datadrivenconstruction.io/2023/08/install-jupyter-notebook-2/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Install-Jupyter-Notebook-5.png)[](https://datadrivenconstruction.io/2023/08/install-jupyter-notebook-2/)
+
+Categories
+
+*   [Data Conversion](https://datadrivenconstruction.io/category/pipelines/data-conversion/)
+*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[Install Jupyter Notebook](https://datadrivenconstruction.io/2023/08/install-jupyter-notebook-2/)
+-------------------------------------------------------------------------------------------------
+
+24 February 2024
+
+[![Image 470](https://datadrivenconstruction.io/wp-content/uploads/2024/02/PDF-to-Excel.png.webp)](https://datadrivenconstruction.io/2024/02/construction-schedules/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/PDF-to-Excel.png)[](https://datadrivenconstruction.io/2024/02/construction-schedules/)
+
+Categories
+
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+*   [Uncategorized](https://datadrivenconstruction.io/category/uncategorized/)
+
+[Construction schedules](https://datadrivenconstruction.io/2024/02/construction-schedules/)
+-------------------------------------------------------------------------------------------
+
+1 August 2023
+
+[![Image 471](https://datadrivenconstruction.io/wp-content/uploads/2023/08/AutoCAD-to-table.png.webp)](https://datadrivenconstruction.io/2023/08/autocad-dwg-to-excel-table-converter/)
+
+[](https://datadrivenconstruction.io/wp-content/uploads/2023/08/AutoCAD-to-table.png)[](https://datadrivenconstruction.io/2023/08/autocad-dwg-to-excel-table-converter/)
+
+Categories
+
+*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)
+*   [Data Processing and Export](https://datadrivenconstruction.io/category/pipelines/data-processing-and-export/)
+*   [Main Page](https://datadrivenconstruction.io/category/main-page/)
+
+[DWG AutoCAD to Excel Converter](https://datadrivenconstruction.io/2023/08/autocad-dwg-to-excel-table-converter/)
+-----------------------------------------------------------------------------------------------------------------
+
+**Open Data** Means **Open Solutions**
+======================================
+
+### Harness the power of GitHub to bring transparency and flexibility to your processes
+
+[![Image 472](https://datadrivenconstruction.io/wp-content/uploads/2024/08/GitHub-DataDrivenConstruction-DDC-1.png.webp)](https://github.com/datadrivenconstruction)
+
+[](https://github.com/datadrivenconstruction)
+
+[![Image 473](https://datadrivenconstruction.io/wp-content/uploads/2024/11/GitHub-Solutions-for-Construction.png.webp)](https://github.com/datadrivenconstruction)
+
+[](https://github.com/datadrivenconstruction)
+
+![Image 474](https://datadrivenconstruction.io/wp-content/uploads/2023/07/Design-ohne-Titel-9-300x200.png.webp)
+
+### Fresh solutions are also published via our social channels
+
+[](https://www.linkedin.com/company/data-driven-construction)
+
+[](https://twitter.com/datadrivenconst)
+
+[](https://www.youtube.com/@datadrivenconstruction)
+
+[](https://t.me/datadrivenconstruction)
+
+### Stay updated: news and insights
+
+Email 
+
+**GET STARTED TODAY**
+=====================
+
+###  Experience the DDC software  
+without any limitations for free.  
+No obligations, no need for a credit card
+
+[START WORKING WITH DATA FOR FREE](https://datadrivenconstruction.io/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)
+
+#### Customer-centric approach
+
+![Image 475](https://datadrivenconstruction.io/wp-content/uploads/2024/04/customer-centric-approach.png.webp)
+
+#### Validation and Proof of Concept
+
+![Image 476](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Describe-your-task.png.webp)
+
+#### Payment upon completion
+
+![Image 477](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Complete-the-work-you-will-have-the-opportunity.png.webp)
+
+[![Image 478](https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png.webp)](https://datadrivenconstruction.io/index.php/contact-support/)
+
+[](https://datadrivenconstruction.io/index.php/contact-support/)
+
+[Custom solutions and services](https://datadrivenconstruction.io/contact-support/)
+
+### Feel free to contact us
+
+Greater Karlsruhe Area.  
+Obergrombacher Str. 31, 76646 Bruchsal
+
+*   +49 (0) 15258901584
+*   [info@datadrivenconstruction.io](https://opendatabim.io/ma)
+
+Subscribe to our news
+---------------------
+
+[](https://linkedin.com/company/datadrivenconstruction)
+
+[](https://twitter.com/datadrivenconst)
+
+[](https://www.youtube.com/@datadrivenconstruction)
+
+[](https://t.me/datadrivenconstruction)
+
+16 January 2025
+
+![Image 479](https://datadrivenconstruction.io/wp-content/uploads/2025/01/data-driven-construction.io_-1.png)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [🚀 New Version of Free offline Revit® 2015-2024 Converter is Out!](https://datadrivenconstruction.io/2025/01/%f0%9f%9a%80-new-version-of-free-offline-revit-2015-2024-converter-is-out/)
+
+7 January 2025
+
+![Image 480](https://datadrivenconstruction.io/wp-content/uploads/2025/01/CAD-BIM-Bubble-33.jpg)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [Die Welt nach BIM. Braucht das Baugewerbe Semantik, Formate und Interoperabilität, wenn es um Daten und Prozesse geht?](https://datadrivenconstruction.io/2025/01/die-welt-nach-bim-braucht-das-baugewerbe-semantik-formate-und-interoperabilitat-wenn-es-um-daten-und-prozesse-geht/)
+
+7 January 2025
+
+![Image 481](https://datadrivenconstruction.io/wp-content/uploads/2024/12/4-2.jpg)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [El mundo post-BIM. Pasando a los datos y los procesos, ¿necesita el sector de la construcción semántica, formatos e interoperabilidad?](https://datadrivenconstruction.io/2025/01/el-mundo-post-bim-pasando-a-los-datos-y-los-procesos-necesita-el-sector-de-la-construccion-semantica-formatos-e-interoperabilidad/)
+
+27 December 2024
+
+![Image 482](https://datadrivenconstruction.io/wp-content/uploads/2024/12/3-3.jpg)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [后 BIM 世界。向数据和流程过渡，建筑行业是否需要语义、格式和互操作性](https://datadrivenconstruction.io/2024/12/%e5%90%8e-bim-%e4%b8%96%e7%95%8c%e3%80%82%e5%90%91%e6%95%b0%e6%8d%ae%e5%92%8c%e6%b5%81%e7%a8%8b%e8%bf%87%e6%b8%a1%ef%bc%8c%e5%bb%ba%e7%ad%91%e8%a1%8c%e4%b8%9a%e6%98%af%e5%90%a6%e9%9c%80%e8%a6%81/)
+
+19 December 2024
+
+![Image 483](https://datadrivenconstruction.io/wp-content/uploads/2024/12/5-2.jpg)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [The post-BIM world. Transition to data and processes and whether the construction industry needs semantics, formats and interoperability](https://datadrivenconstruction.io/2024/12/the-post-bim-world-transition-to-data-and-processes-and-whether-the-construction-industry-needs-semantics-formats-and-interoperability/) 
+
+17 December 2024
+
+![Image 484](https://datadrivenconstruction.io/wp-content/uploads/2024/12/Semantic-Web.png.webp)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [🌑 Why Semantic Ontology and IFC May Not Be the Future of Construction](https://datadrivenconstruction.io/2024/12/%f0%9f%8c%91-why-semantic-ontology-and-ifc-may-not-be-the-future-of-construction/)
+
+3 December 2024
+
+![Image 485](https://datadrivenconstruction.io/wp-content/uploads/2024/12/IFC-to-USD-18.jpg)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [Das Zeitalter des Wandels: IFC gehört der Vergangenheit an oder warum ADSK und andere CAD-Anbieter bereit sind, IFC für USD aufzugeben — 14 wichtige Fakten](https://datadrivenconstruction.io/2024/12/das-zeitalter-des-wandels-ifc-gehort-der-vergangenheit-an-oder-warum-ads-und-andere-cad-anbieter-bereit-sind-ifc-fur-usd-aufzugeben-14-wichtige-fakten/)
+
+24 November 2024
+
+![Image 486](https://datadrivenconstruction.io/wp-content/uploads/2024/12/IFC-to-USD-17.jpg)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [The Age of Change: IFC is a thing of the past or why CAD vendors are willing to give up IFC for USD in 14 key facts](https://datadrivenconstruction.io/2024/11/%f0%9f%9a%80-major-update-ddc-free-revit-converter-expands-capabilities-revit-2004-and-selecting-the-speed-and-completeness-of-conversion-4289/)
+
+20 November 2024
+
+![Image 487](https://datadrivenconstruction.io/wp-content/uploads/2024/11/Revit-2015-Revit-2024-2.jpg.webp)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [🚀 Major update: DDC Free Revit Converter expands capabilities! Revit 2004 and selecting the speed and completeness of conversion.](https://datadrivenconstruction.io/2024/11/%f0%9f%9a%80-major-update-ddc-free-revit-converter-expands-capabilities-revit-2004-and-selecting-the-speed-and-completeness-of-conversion/)
+
+7 November 2024
+
+![Image 488](https://datadrivenconstruction.io/wp-content/uploads/2024/11/3.png.webp)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [Is interoperability a goal or an illusion?](https://datadrivenconstruction.io/2024/11/is-interoperability-a-goal-or-an-illusion/)
+
+28 October 2024
+
+![Image 489](https://datadrivenconstruction.io/wp-content/uploads/2024/10/Database-AI-CAD-BIM.png.webp)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [🚨 The AI LLM Revolution is Here: Adapt or Get Left Behind](https://datadrivenconstruction.io/2024/10/%f0%9f%9a%a8-the-ai-llm-revolution-is-here-adapt-or-get-left-behind/)
+
+24 October 2024
+
+![Image 490](https://datadrivenconstruction.io/wp-content/uploads/2024/10/1728461171779.jpg.webp)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [🚀 We are entering the era of BIM Level 3—noBIM.](https://datadrivenconstruction.io/2024/10/%f0%9f%9a%80-we-are-entering-the-era-of-bim-level-3-nobim/)
+
+24 October 2024
+
+![Image 491](https://datadrivenconstruction.io/wp-content/uploads/2024/10/BIM-is-DataBase.png.webp)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [🤔 Is BIM data processing just data analytics in disguise?](https://datadrivenconstruction.io/2024/10/%f0%9f%a4%94-is-bim-data-processing-just-data-analytics-in-disguise/)
+
+30 August 2024
+
+![Image 492](https://datadrivenconstruction.io/wp-content/uploads/2024/08/Check-Data-From-CAD-BIM-.jpg.webp)
+
+Categories
+
+*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)
+
+### [Revit® and IFC validation in seconds | Streamline Data Validation in CAD BIM Projects](https://datadrivenconstruction.io/2024/08/revit-and-ifc-validation-in-seconds-streamline-data-validation-in-cad-bim-projects/)
+
+Revit and IFC validation in seconds | Streamline Data Validation in CAD BIM Projects 30 Revit Charts with 4 ChatGPT Prompts | Unlock Revit Data for \[…\]
+
+[![Image 493: DataDrivenConstruction (2)](https://datadrivenconstruction.io/wp-content/uploads/2023/08/DataDrivenConstruction-2.png#1018.webp)](https://datadrivenconstruction.io/)
+
+[](https://www.linkedin.com/company/98416806)
+
+[](https://twitter.com/datadrivenconst)
+
+[](https://www.youtube.com/@datadrivenconstruction)
+
+[](https://t.me/datadrivenconstruction)
+
+Greater Karlsruhe Area.  
+Obergrombacher Str. 31  
+76646 Bruchsal
+
+[Term of use & EULA](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)  
+[Impressum](https://datadrivenconstruction.io/index.php/datenschutz-impressum/)  
+[Datenschutz](https://datadrivenconstruction.io/index.php/datenschutz-impressum/)  
+[Write us](https://datadrivenconstruction.io/index.php/contact-support/)
+
+© 2022 All Rights Reserved | Powered by Data-Driven Construction
+
+[✕](https://opendatabim.io/#)
+
+#### Login
+
+Username or email \*
+
+Password \*
+
+Remember me   Login
+
+[Lost your password?](https://datadrivenconstruction.io/my-account/lost-password/)
+
+[✕](https://opendatabim.io/#)
+
+### Basket
+
+[Proceed to checkout](https://datadrivenconstruction.io/checkout/)[View basket](https://datadrivenconstruction.io/basket/)
+
+[✕](https://opendatabim.io/#)
+
+Don't miss the new solutions
+----------------------------
+
+Email 
+
+[✕](https://opendatabim.io/#)
+
+[Download DDC Excel Plugin](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=2414)
+
+[✕](https://opendatabim.io/#)
+
+![Image 494](https://datadrivenconstruction.io/wp-content/uploads/2024/08/linux-converter-revit-ifc-autocad-dwg.png.webp)
+
+Linux
+
+![Image 495](https://datadrivenconstruction.io/wp-content/uploads/2024/08/apple-converter-revit-ifc-autocad-dwg.png.webp)
+
+macOS
+
+### Looking for the Linux or MAC version? Send us a quick message using the button below, and we’ll guide you through the process!
+
+[Get in Touch](https://datadrivenconstruction.io/index.php/contact-support/#writeus)
+
+[✕](https://opendatabim.io/#)
+
+  
+
+### **📥 Download OnePager**
+
+Welcome to DataDrivenConstruction—where data meets innovation in the construction industry. Our One-Pager offers a concise overview of how our data-driven solutions can transform your projects, enhance efficiency, and drive sustainable growth.
+
+[![Image 496](https://datadrivenconstruction.io/wp-content/uploads/2024/09/Download-Onepager-1.png.webp)](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=3911)
+
+[](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=3911)
+
+PDF (16 Mb.)
+
+[![Image 497](https://datadrivenconstruction.io/wp-content/uploads/2024/09/Herunterladen-OnePager-1.png.webp)](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=3984)
+
+[](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=3984)
+
+PDF (15 Mb.)
+
+[✕](https://opendatabim.io/#)
+
+🚀 **Welcome to the future of data in construction!**
+
+You're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.
+
+![Image 498](https://datadrivenconstruction.io/wp-content/uploads/2024/10/Revit-converter-to-excel-4.gif.webp)
+
+By downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)
+
+[Start FREE download Revit Converter](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=1682)
+
+Stay ahead with the latest updates on converters, tools, AI, LLM  
+and data analytics in construction — **Subscribe now!  
+**
+
+Email 
+
+[✕](https://opendatabim.io/#)
+
+🚀 **Welcome to the future of data in construction!**
+
+You're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.
+
+![Image 499](https://datadrivenconstruction.io/wp-content/uploads/2024/10/IFC-converter-to-excel-5.gif.webp)
+
+By downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)
+
+[Start FREE download IFC Converter](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=1685)
+
+Stay ahead with the latest updates on converters, tools, AI, LLM  
+and data analytics in construction — **Subscribe now!  
+**
+
+Email 
+
+[✕](https://opendatabim.io/#)
+
+🚀 **Welcome to the future of data in construction!**
+
+You're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.
+
+![Image 500](https://datadrivenconstruction.io/wp-content/uploads/2024/10/DGN-converter-to-excel-5.gif.webp)
+
+By downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)
+
+[Start FREE download DGN Converter](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=2177)
+
+Stay ahead with the latest updates on converters, tools, AI, LLM  
+and data analytics in construction — **Subscribe now!  
+**
+
+Email 
+
+[✕](https://opendatabim.io/#)
+
+🚀 **Welcome to the future of data in construction!**
+
+You're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.
+
+![Image 501](https://datadrivenconstruction.io/wp-content/uploads/2024/10/DWG-converter-to-excel-1.gif.webp)
+
+By downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)
+
+[Start FREE download DWG Converter](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=1726)
+
+Stay ahead with the latest updates on converters, tools, AI, LLM  
+and data analytics in construction — **Subscribe now!  
+**
+
+Email 
+
+[✕](https://opendatabim.io/#)
+
+🚀 **Welcome to the future of data in construction!**
+
+You're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.
+
+![Image 502](https://datadrivenconstruction.io/wp-content/uploads/2024/10/Excel-Converter-DWG-Revit-IFC-3.gif.webp)
+
+By downloading, you agree to the DDC [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)
+
+[Start FREE download (Office 64bit)](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=2414)
+
+[Start FREE download (Office 32bit)](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=3696)
+
+[✕](https://opendatabim.io/#)
+
+🚀 **Welcome to the future of data in construction!**
+
+You're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.
+
+![Image 503](https://datadrivenconstruction.io/wp-content/uploads/2024/10/DWG-converter-to-excel-5.gif.webp)
+
+By downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)
+
+[Start FREE download DWG Converter](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=1726)
+
+Stay ahead with the latest updates on converters, tools, AI, LLM  
+and data analytics in construction — **Subscribe now!  
+**
+
+Email 
+
+[✕](https://opendatabim.io/#)
+
+DataDrivenConstruction offers workshops tested and practiced on global leaders in the construction industry to help your team navigate and leverage the power of data and artificial intelligence in your company's decision making.
+
+#### Reserve your spot now to rethink your  
+approach to decision making!
+
+Please enable JavaScript in your browser to complete this form.
+
+Company name \*
+
+Email \*
+
+You Are In? 
+
+What Are You Interested In?
+
+Submit![Image 504: Loading](https://datadrivenconstruction.io/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg)
+
+[✕](https://opendatabim.io/#)
+
+🚀 **Welcome to the future of data in construction!**
+
+![Image 505](https://datadrivenconstruction.io/wp-content/uploads/2024/11/Excel-to-Revit-import.gif.webp)
+
+By downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)
+
+[FREE download Excel to Revit plugin](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=4250)
+
+Stay ahead with the latest updates on converters, tools, AI, LLM  
+and data analytics in construction — **Subscribe now!  
+**
+
+Email 
+
+[✕](https://opendatabim.io/#)
+
+Have a question or need more information? Reach out to us directly!
+
+[Contact Us](https://datadrivenconstruction.io/contact-support/#contact_us)
+
+Schedule a time to discuss your needs with our team.
+
+[Book a Meeting](https://calendly.com/datadrivenconstruction)
+
+Tailored sessions to help your team grow — let's plan together!
+
+[Request a Workshop](https://datadrivenconstruction.io/contact-support/#contact_us)
+
+[✕](https://opendatabim.io/#)
+
+Have you attended one of our workshops, read our book, or used our solutions? Share your thoughts with us!
+
+Please enable JavaScript in your browser to complete this form.
+
+Name \*
+
+First
+
+Last
+
+Email \*
+
+Message Name Email 
+
+Comment or Message
+
+Submit![Image 506: Loading](https://datadrivenconstruction.io/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg)
+
+![Image 507: Revit, IFC, DGN, DWG Converter. Open Data CAD (BIM) with ChatGPT and Excel](https://datadrivenconstruction.io/wp-content/themes/betheme/images/cookies.png)
+
+This website uses cookies to improve your experience. By using this website you agree to our [Data Protection Policy](https://opendatabim.io/#).
+
+[Read more](https://datadrivenconstruction.io/datenschutz-impressum/)Accept all
+
+[](javascript:void(0);)
+
+ 
+
+  
+  
+
+Subscribe now to get free product updates  
+and get free discount coupon code.  
+Don't miss out!
+
+SUBSCRIBE
+
+ I agree register a new account
+
+ I agree with the [term and condition](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)
+
+No, thanks
+
+We will never spam you, unsubscribe anytime.
+
+                     
+
+×
+
+## Metadata
+
+```json
+{
+  "title": "Revit, IFC, DGN, DWG Converter. Open Data CAD (BIM) with ChatGPT and Excel",
+  "description": "Data Driven Construction: Revolutionizing the Construction Industry with Data Conversion and Analysis. Specializing in converting Revit and IFC data to actionable tables, we enhance decision-making and process optimization. Our data-driven approach transforms construction practices into dynamic, data-powered workflows.",
+  "url": "https://opendatabim.io/",
+  "content": "Revit, IFC, DGN, DWG Converter. Open Data CAD (BIM) with ChatGPT and Excel - DataDrivenConstruction.io | Revolutionizing Construction with Data | Revit, AutoCAD, IFC, DGN converter\n===============\n            \n\n[![Image 299: DataDrivenConstruction (1)](https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png.webp)![Image 300: DataDrivenConstruction (1)](https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png.webp)![Image 301: DataDrivenConstruction (1)](https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png.webp)![Image 302: DataDrivenConstruction (1)](https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png.webp)](https://datadrivenconstruction.io/ \"DataDrivenConstruction.io | Revolutionizing Construction with Data | Revit, AutoCAD, IFC, DGN converter\")\n========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================\n\n[](https://opendatabim.io/#)\n\n*   [DDC Excel](https://datadrivenconstruction.io/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)\n*   [Convertors](https://datadrivenconstruction.io/convertors/)\n*   [LLM & ChatGPT](https://datadrivenconstruction.io/chatgpt-and-llm/)\n*   [Pipeline](https://datadrivenconstruction.io/pipeline-in-construction/)\n*   [Guidebook](https://datadrivenconstruction.io/books/)\n*   [Consulting](https://datadrivenconstruction.io/contact-support/)\n\n[](https://datadrivenconstruction.io/my-account/)[](https://datadrivenconstruction.io/basket/)[](https://opendatabim.io/#)\n\n ✕  \n\nNot found text[See all results](https://opendatabim.io/#)\n\n ![Image 303: Slide](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) 🚀 **Move to BIM level 3 / noBIM** where only unified granular structured  \ndata & processes remain and where 🔓 **your data is yours**  \nSecure Your data is exclusively yours Scalable Adapts to Your Needs Easy To Get Started Unlock the Power  \nof Data in Construction Get started Get Slider Revolution →  ![Image 304](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) [![Image 305](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2023/12/15/rvt-revit-to-excel-converter)![Image 306](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)  [![Image 307](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2023/12/15/ifc-to-excel-converter/)[![Image 308](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2024/02/24/creating-a-database-using-chatgpt/)[![Image 309](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2023/08/02/install-jupyter-notebook-2/)[![Image 310](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2024/05/19/big-data-in-construction-2/)[![Image 311](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2023/08/01/autocad-dwg-to-excel-table-converter/)[![Image 312](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2024/02/26/predictions-and-forecasts-based-on-historical-data-2873/)[![Image 313](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)](https://datadrivenconstruction.io/index.php/2024/02/24/estimating-calculations/)![Image 314](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 315](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)  \nTurning Data into  \n[Insights](https://datadrivenconstruction.io/index.php/pipeline-in-construction/) and [Value](https://datadrivenconstruction.io/index.php/pipeline-in-construction/) ![Image 316](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)\n\n          ![Image 317: Slide](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 318](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 319](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 320](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 321](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 322](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 323](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 324](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 325](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png) ![Image 326](https://datadrivenconstruction.io/wp-content/plugins/revslider/sr6/assets/assets/dummy.png)\n\n![Image 327](https://datadrivenconstruction.io/wp-content/uploads/2024/08/windows-converter-revit-ifc-autocad-dwg.png.webp)\n\nWindows\n\n[![Image 328](https://datadrivenconstruction.io/wp-content/uploads/2024/08/linux-converter-revit-ifc-autocad-dwg.png.webp)](https://opendatabim.io/#)\n\n[](https://opendatabim.io/#)\n\nLinux\n\n[![Image 329](https://datadrivenconstruction.io/wp-content/uploads/2024/08/apple-converter-revit-ifc-autocad-dwg.png.webp)](https://opendatabim.io/#mfn-popup-template-3846)\n\n[](https://opendatabim.io/#mfn-popup-template-3846)\n\nmacOS\n\nfree stand-alone tools for CAD (BIM) data extraction and structuring\n--------------------------------------------------------------------\n\n**Unlock Data** from **Revit®** | **IFC** | **DWG** | **DGN**\n=============================================================\n\n[![Image 330](https://datadrivenconstruction.io/wp-content/uploads/2024/11/IFC-to-Excel-converter-to-XLSX-2.png.webp)](https://datadrivenconstruction.io/index.php/2023/12/15/ifc-to-excel-converter/https://datadrivenconstruction.io/product/free-revit-2015-202x-converter-to-xlsx-dae/https://datadrivenconstruction.io/product/free-ifc-2x3-converter-to-xlsx-dae-2024/)\n\n[](https://datadrivenconstruction.io/index.php/2023/12/15/ifc-to-excel-converter/https://datadrivenconstruction.io/product/free-revit-2015-202x-converter-to-xlsx-dae/https://datadrivenconstruction.io/product/free-ifc-2x3-converter-to-xlsx-dae-2024/)\n\nV 12.1.2 (91.2 Mb.)\n\n#### Free Converter  \nIFC2x3 to Excel/Collada \n\ndownload without registration\n\n[Start FREE download](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=1685)\n\n[\\+ IFC4.1 - IFC4.X](https://datadrivenconstruction.io/index.php/product/ifc-converter-to-xlsx-dae/)\n\n[![Image 331](https://datadrivenconstruction.io/wp-content/uploads/2024/11/Revit-to-Excel-converter-RVT-to-XLSX-6.png.webp)](https://datadrivenconstruction.io/index.php/2023/12/15/rvt-revit-to-excel-converter/https://datadrivenconstruction.io/product/free-revit-2015-202x-converter-to-xlsx-dae/)\n\n[](https://datadrivenconstruction.io/index.php/2023/12/15/rvt-revit-to-excel-converter/https://datadrivenconstruction.io/product/free-revit-2015-202x-converter-to-xlsx-dae/)\n\nV 14.1.1 (289.3 Mb.)\n\n#### Free Converter Revit® 2015-2024 to Excel/Collada\n\ndownload without registration\n\nStart FREE download\n\n[\\+ Revit® 2025](https://datadrivenconstruction.io/index.php/product/revit-converter-to-xlsx/)\n\n[![Image 332](https://datadrivenconstruction.io/wp-content/uploads/2024/11/DWG-to-Excel-converter-DWG-to-XLSX-2.png.webp)](https://datadrivenconstruction.io/index.php/2023/08/01/autocad-dwg-to-excel-table-converter/https://datadrivenconstruction.io/product/free-dgn-to-excel-converter/https://datadrivenconstruction.io/product/free-dwg-to-excel-converter/)\n\n[](https://datadrivenconstruction.io/index.php/2023/08/01/autocad-dwg-to-excel-table-converter/https://datadrivenconstruction.io/product/free-dgn-to-excel-converter/https://datadrivenconstruction.io/product/free-dwg-to-excel-converter/)\n\nV 12.1.2 (93.8 Mb.)\n\n#### Free Converter  \nDWG 1983-2023 to Excel\n\ndownload without registration\n\nStart FREE download\n\n[Ad-Free version](https://datadrivenconstruction.io/index.php/product/ad-free-dwg-to-excel-converter/)\n\n[![Image 333](https://datadrivenconstruction.io/wp-content/uploads/2024/11/DGN-to-Excel-converter-DGN-to-XLSX.png.webp)](https://opendatabim.io/#)\n\n[](https://opendatabim.io/#)\n\nV 12.1.2 (92.1 Mb.)\n\n#### Free Converter  \nDGN V7-V8 to Excel\n\ndownload without registration\n\nStart FREE download\n\n[Ad-Free version](https://datadrivenconstruction.io/index.php/product/ad-free-dgn-to-excel-converter/)\n\n[![Image 334](https://datadrivenconstruction.io/wp-content/uploads/2024/11/DW-1.png.webp)](https://datadrivenconstruction.io/chatgpt-and-llm/)\n\n[](https://datadrivenconstruction.io/chatgpt-and-llm/)\n\nCAD DATA  \n BIM DATA\n\n1970s - 2010s\n\ncomplex data formats\n\ncomplex API access\n\nvendor lock-in\n\nlimited sharing capabilities\n\n    Granular | normalized structured | unifed DATA\n--------------------------------------------------\n\nfrom 2020s onwards\n\n[single data schema](https://datadrivenconstruction.io/convertors/#flatdata)\n\n[LLM](https://datadrivenconstruction.io/chatgpt-and-llm/)\n\n[data analitycs](https://datadrivenconstruction.io/pipeline-in-construction/)\n\n[structured data](https://datadrivenconstruction.io/chatgpt-and-llm/)\n\n[multi-platform](https://datadrivenconstruction.io/#platforms)\n\n[unlimited access](https://datadrivenconstruction.io/convertors/#flatdata)\n\nclosedBIM openBIM\n\n2002-2020s\n\ndifferent schemes\n\nslow data processing\n\nlack of interoperability\n\ndata loss control\n\n![Image 335](https://datadrivenconstruction.io/wp-content/uploads/2024/11/Flow-from-Data-to-Systems-4.png.webp)\n\nSystems and databases\n\nERP 4D 5D\n\nCAFM\n\nSQL\n\nBusiness Intelligence\n\n[Microsoft Excel](https://datadrivenconstruction.io/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)\n\n[PowerBI](https://youtu.be/QBaH8oBsPpM?si=m0xH-MijbAoH9NLy&t=455)\n\n[Kaggle](https://www.kaggle.com/code/artemboiko/example-of-data-processing-from-revit-and-ifc)\n\nAutomate and Process\n\n[Python Pandas](https://www.youtube.com/watch?v=lmhZiOkI_Uk&ab_channel=DataDrivenConstruction)\n\n[ETL and Pipeline](https://datadrivenconstruction.io/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)\n\n[ChatGPT](https://datadrivenconstruction.io/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)\n\nVisualize and Simulate\n\n[Unreal Engine](https://youtu.be/EvBbEAVi4_s?si=1mQ_z8R3Ic2sKZvn&t=90)\n\n[Unity Blender](https://youtu.be/EvBbEAVi4_s?si=b6_Jh5L_CmTyHGT5&t=211)\n\n[USD Omniverse](https://youtu.be/EvBbEAVi4_s?si=VW2K73peZXyTHjJu)\n\nTwo-way **DATA exchange**\n=========================\n\n### Tools for importing modified data back into DWG, Revit**®** and IFC\n\n![Image 336](https://datadrivenconstruction.io/wp-content/uploads/2024/11/excel-to-DWG.png.webp)\n\n#### DDC Import  \nExcel to DWG\n\n[![Image 337](https://datadrivenconstruction.io/wp-content/uploads/2024/12/Revit-to-Excel-converter-RVT-to-XLSX-1.png.webp)](https://datadrivenconstruction.io/ddc-import-excel-to-revit-2/)\n\n[](https://datadrivenconstruction.io/ddc-import-excel-to-revit-2/)\n\n#### DDC Import  \nExcel to Revit™\n\n![Image 338](https://datadrivenconstruction.io/wp-content/uploads/2024/11/Excel-to-IFC.png.webp)\n\n#### DDC Import  \nExcel to IFC\n\n[![Image 339](https://datadrivenconstruction.io/wp-content/uploads/2025/01/Windows-Linux-MAC-converter-Revit-DWG-IFC-2-1.png)](https://datadrivenconstruction.io/#miningdata)\n\n[](https://datadrivenconstruction.io/#miningdata)\n\nRun on any platform\n-------------------\n\n### Launch DataDrivenConstruction on Windows, Linux and macOS - fast, offline, internet-free and secure\n\nApps are Secured with Certificates\n\nAll our applications feature code signing certificates to maintain integrity and authenticity\n\nFULL ACCESS TO CAD DATABASES (BIM)\n\nReverse engineering technologies can legally and efficiently convert data from closed CAD formats\n\n[![Image 340](https://datadrivenconstruction.io/wp-content/uploads/2025/01/Cloud-Converter-Revit-IFC-DWG.png)](https://datadrivenconstruction.io/convertors/)\n\n[](https://datadrivenconstruction.io/convertors/)\n\nSelf-hosted, and privacy compliant\n----------------------------------\n\n### Take ownership of your data by self-hosting DataDrivenConstruction on your own servers or with any cloud service provider. Comply with regulations such as GDPR, CPRA, and HIPAA by not sharing your data with third-party services.\n\n### DataDrivenConstruction Clients and Users\n\n![Image 341](https://datadrivenconstruction.io/wp-content/uploads/2025/01/DataDrivenConstruction-Clients-and-Users-4.png)\n\n...and thousands of professionals in the construction and design industries from\n\n87+\n\ncountries around the globe\n\n### One Year in Numbers\n\n**RVT**\n=======\n\n53321+\n\nconverted Revit® projects of different versions\n\n**DWG**\n=======\n\n45687+\n\nconverted DWG projects of different versions\n\n**IFC**\n=======\n\n29542+\n\nconverted IFC projects of different versions\n\n**DGN**\n=======\n\n2567+\n\nconverted DGN projects of different versions\n\n![Image 342: Mohamed Touati](https://datadrivenconstruction.io/wp-content/uploads/2024/04/meanotek-3-200x200-1-60x60.webp)\n\nMohamed Touati\n\nPrincipal Data Scientist at Pixemantic\n\nAs a data scientist, I use data every day in every topic and field and think that data can appear in one format to make it easier to use and explore. After I tried the DDC converter, it became the only solution for me to manage and convert all BIM documents. Thanks to DataDrivenConstruction, I can now work with all IFC and Revit files automatically without having to upload files to the server.\n\n![Image 343: Nicolas Merot](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Photo-NMT-60x60.jpg.webp)\n\nNicolas Merot\n\nIngénieur BIM | Caeli Ingénierie\n\nDataDrivenConstruction products revolutionize data management in construction! Their IFC and RVT to Excel converters enable smooth data analysis and extraction, optimizing project management and documentation. A powerful, user-friendly solution for construction professionals (translated from French)\n\n![Image 344: Daniel Glober](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1697723018200-60x60.jpg.webp)\n\nDaniel Glober\n\nBIM-Manager | SCHOLZE-THOST GmbH\n\nRevit and IFC reports that used to take me almost weeks to create are now updated in just a few minutes. I was able to quickly understand what the DataDrivenConstruction did and thus extend and modify it to fit projects.The DataDrivenConstruction team showed me examples of blocks and scripts that can automatically generate PDF, XLSX, and DOCX files that mark errors/defects in the model. Additionally, we also now do automatic checks for IFC structure, file naming, etc.\n\n![Image 345: Abdelrahim (Mohamed) Deghidy](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1706011559909-60x60.jpg.webp)\n\nAbdelrahim (Mohamed) Deghidy\n\nBIM Manager l Consolidated Contractors Company\n\nDDC converter and Plugin is a fantastic and helpful tool for visualisation and quantification the meta data from Revit. Thanks for sharing such helpful tools!\n\n![Image 346: Valerio Spini](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Spini-200x200-1-60x60.webp)\n\nValerio Spini\n\nSettore RVCS\n\nGreat experience: Until now, I used to open IFC files in Blocknote to check the parameters and their structure. Thanks to the DataDrivenConstruction converter I can check the parameters and see their structure directly in MS Excel in an orderly and SMART way, amazing!\n\n![Image 347: Vinod Kumar](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1612850779877-200x200-1-60x60.webp)\n\nVinod Kumar\n\nBIM Manager | Esttareal solutions\n\nDataDrivenConstruction approach is truly revolutionary and has the potential to transform the construction industry. It's amazing to see how you are empowering users to work with structured data in a user-friendly way, leveraging the power of Excel and open-source tools. I'm sure that your Excel plugin and data management solutions will be a game-changer for construction projects. Keep up the fantastic work!\n\nfree standalone offline plugin for working with CAD (BIM) data\n--------------------------------------------------------------\n\n**Excel Add-in** to work with **RVT** | **DWG** | **IFC**\n=========================================================\n\n[![Image 348](https://datadrivenconstruction.io/wp-content/uploads/2024/07/Excel-DDC-Plugin.png.webp)](https://datadrivenconstruction.io/index.php/constructexcel/)\n\n[](https://datadrivenconstruction.io/index.php/constructexcel/)\n\n### The DDC Excel plugin lets users open and process CAD (BIM) files directly in Excel, eliminating the need for specialized software. It's perfect for small to medium projects (200-400 MB files), while larger datasets are better handled with tools like Jupyter Notebook, Pandas and LLM for advanced analytics.\n\n[Start FREE download](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=2414)\n\nMinimum Requirements:  \n◾️ Windows 10 64bit or Windows 11  \n◾️ Microsoft Office 32 bit or 64 bit (2013 or Later) or MS Office 365\n\nFunctional applications available in the DataDrivenConstruction plugin for Excel\n\n[![Image 349](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Revit-to-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#revit)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#revit)\n\n[![Image 350](https://datadrivenconstruction.io/wp-content/uploads/2024/02/IFC-to-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#ifc)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#ifc)\n\n[![Image 351](https://datadrivenconstruction.io/wp-content/uploads/2024/02/DWG-to-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#dwg)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#dwg)\n\n[![Image 352](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Hide-rows-Excel-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#hide)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#hide)\n\n[![Image 353](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Off-filter-Excel-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#hide)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#hide)\n\nRVT to Excel\n\nIFC to Excel\n\nDWG to Excel\n\nHide Columns\n\nRemove Filters\n\n[![Image 354](https://datadrivenconstruction.io/wp-content/uploads/2024/02/All-elements-geometry.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geometry)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geometry)\n\n[![Image 355](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Visible-rows.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geometryrows)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geometryrows)\n\nProject Geometry\n\nVisible Rows\n\n[![Image 356](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Selected-rows-geometry.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomvisib)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomvisib)\n\n[![Image 357](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Change-color-in-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomcolor)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomcolor)\n\n[![Image 358](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Transparenz-BIM-CAD-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomtransp)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#geomtransp)\n\n[![Image 359](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Add-BoundingBox-Excel-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#bbox)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#bbox)\n\n[![Image 360](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Duplicates-geometry-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#duplicate)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#duplicate)\n\nSelected Elements\n\nChange  \nColors\n\nChange  \nTransparency\n\nAdd BBox  \nData\n\nCheck  \nDuplicate\n\n[![Image 361](https://datadrivenconstruction.io/wp-content/uploads/2024/02/QTO-Tabelle-Excel-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#qto)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#qto)\n\n[![Image 362](https://datadrivenconstruction.io/wp-content/uploads/2024/02/CO2-Carbon-footprint-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#co2)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#co2)\n\nQTO  \nTable\n\nCO2  \nEmissions\n\n[![Image 363](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Check-data-Validation-CAD-BIM-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#validation)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#validation)\n\n[![Image 364](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Daschboard-Excel-from-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#dashboard)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#dashboard)\n\n[![Image 365](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Compare-two-projects-CAD-BIM.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#compare)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#compare)\n\n[![Image 366](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Merge-two-projects-CAD-BIM-Excel.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#merge)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#merge)\n\n[![Image 367](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Export-CAD-BIM-data-to-CSV.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportcsv)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportcsv)\n\nCheck  \nParameters\n\nCreate  \nDashboard\n\nComparing  \nVersions\n\nMerging  \nProjects\n\nExport  \nto CSV\n\n[![Image 368](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Export-CAD-BIM-data-to-json.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportjson)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportjson)\n\n[![Image 369](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Export-CAD-BIM-data-to-XML.png.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportxml)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/#exportxml)\n\nExport  \nto JSON\n\nExport  \nto XML\n\n### Data Validation, Quantity Take-Off (QTO), Data Grouping, Parameter Manipulation  \nand Visualization of CAD (BIM) Data Directly in Microsoft Excel®\n\n### DataDrivenConstruction Converter converts Revit®, AutoCAD, and IFC files into XLSX and DAE formats, enabling structured data extraction from design projects. It works offline, ensuring security and reliability, and integrates directly with Microsoft Excel®, allowing users to manage drawings and 3D models within a single spreadsheet.\n\n![Image 370: Nils Strumberger](https://datadrivenconstruction.io/wp-content/uploads/2024/06/photo_2024-06-11_09-54-56.jpg.webp)\n\nNils Strumberger\n\nBIM- Coordinator | Fact GmbH\n\nThe DDC (Data Driven Construction) Excel Plugin is a game-changer, transforming proprietary CAD models into open source data frames for seamless integration and AI interaction. It significantly improves workflows and offers exceptional value for money by saving time and boosting productivity. Highly recommended for anyone looking to enhance their projects with data-driven insights.\n\n![Image 371: Marie Annette Kittus](https://datadrivenconstruction.io/wp-content/uploads/2024/06/1654973882983.jpg.webp)\n\nMarie Annette Kittus\n\nBIM Manager | Esttareal solutions\n\nDataDrivenConstruction Excel Add-In is a wonderful additional tool to help extract data from CAD (BIM) Revit, IFC, DWG files in order to move forward with information validation processes in your workflows.Additionally the possibility to turn the long complex Excel file into easily human-and machine-readable files keep the Add-In modern and compatible with recent developments within IT. As we move forward in the industry it is crucial to think about diversity of data and how to find the most suitable outputs in order to keep said data valuable, up to date and usable.An influential tool with a user-friendly interface helping the construction industry move towards the future!\n\n![Image 372: Jānis Dzenis](https://datadrivenconstruction.io/wp-content/uploads/2024/06/Google-Colab-60x60.jpg.webp)\n\nJānis Dzenis\n\nBIM Coordinator | Merks, SIA\n\nThis is a fantastic tool, haven't seen one like this in a long time. In this era, we have countless tools and methods for creating models, drawings, tables, and other forms of data.The DDC Excel plugin provides me with the capability to manage information in alternative ways.\n\n[![Image 373](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Data-Mining-in-construction-with-Excel-1.gif.webp)](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)\n\n[](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)\n\n### Data mining\n\n[Data mining](https://opendatabim.io/#miningdata) has become a fundamental pillar in today's data-driven world\n\n[![Image 374](https://datadrivenconstruction.io/wp-content/uploads/2023/12/revit-autocad-ifc-analyse-1.gif.webp)](https://datadrivenconstruction.io/index.php/pipeline-in-construction/)\n\n[](https://datadrivenconstruction.io/index.php/pipeline-in-construction/)\n\n### Grow your incomes\n\n[Data-driven insights](https://datadrivenconstruction.io/index.php/books/) and strategies help companies in the construction industry optimize processes\n\n* * *\n\n### Visualize and analyze\n\n[Uncover](https://opendatabim.io/#solutions) patterns, trends, and opportunities that drive informed decision-making\n\n* * *\n\n**Structured DataFrame** is ideal source for today's **processing and analytics tools**\n=======================================================================================\n\n### Structured data, organized in columns and rows, has become the backbone of modern storage and analysis systems due to its orderliness and ease of processing.  For example, only one Pandas library, which works with the DataFrame data format, is downloaded about [12 million times a day](https://www.pepy.tech/projects/pandas). Due to its popularity and ease of use, DataFrame (column based Data) has become the primary format for processing and automating data in ChatGPT, LLaMa and other LLM tools. Modern LLMs and data analytics tools almost always default to Python and Pandas for tasks such as data validation, analysis, visualization, and processing.\n\n[![Image 375](https://datadrivenconstruction.io/wp-content/uploads/2024/07/DataFrame-ChatGPT.gif.webp)](https://datadrivenconstruction.io/index.php/chatgpt-and-llm/ \"ChatGPT with CAD (BIM) data\")\n\n[](https://datadrivenconstruction.io/index.php/chatgpt-and-llm/ \"ChatGPT with CAD (BIM) data\")\n\nStructured and column based data are like the \"JPEG of CAD (BIM)\"\n-----------------------------------------------------------------\n\n[![Image 376](https://datadrivenconstruction.io/wp-content/uploads/2024/04/JEG-IMages.png.webp)](https://opendatabim.io/#)\n\n[](https://opendatabim.io/#)\n\n[![Image 377](https://datadrivenconstruction.io/wp-content/uploads/2024/04/MPEG-Video-1.png.webp)](https://opendatabim.io/#)\n\n[](https://opendatabim.io/#)\n\n[![Image 378](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Audio-in-MP-3.png.webp)](https://opendatabim.io/#)\n\n[](https://opendatabim.io/#)\n\n[![Image 379](https://datadrivenconstruction.io/wp-content/uploads/2024/09/CAD-BIM-Data-to-Excel-and-Collada-2.png.webp)](https://datadrivenconstruction.io/index.php/convertors/)\n\n[](https://datadrivenconstruction.io/index.php/convertors/)\n\n### LLM becomes an assistant in validation, analytics and automation\n\n**CHATGPT** ON CAD (BIM) DATA\n=============================\n\n[![Image 380](https://datadrivenconstruction.io/wp-content/uploads/2024/03/ChatGPT-with-BIM-CAD-2.png.webp)](https://datadrivenconstruction.io/index.php/chatgpt-and-llm/ \"ChatGPT with Revit, IFC, DWG and DGN\")\n\n[](https://datadrivenconstruction.io/index.php/chatgpt-and-llm/ \"ChatGPT with Revit, IFC, DWG and DGN\")\n\n### Revit®, IFC, DGN, and DWG models are created by one specialist, but dozens rely on their data. Optimizing data flow is crucial, and tools like ChatGPT can streamline this process. The DataDrivenConstruction converter and LLMs automate data handling, reducing manual work and boosting efficiency in CAD (BIM) projects.\n\n![Image 381: Dmitri Garbuzenko](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1698412286970-60x60.jpg.webp)\n\nDmitri Garbuzenko\n\nBIM and AIM Coordinator | RB Rail AS\n\nWith the help of Python and especially the pandas library, as the DataDrivenConstruction team does, we are now able to perform delivery checks four times faster. By turning IFC data into a pandas DataFrame and comparing it with quantification tables or classification databases, we have made our expertise fast and reliable.\n\n![Image 382: Prof. Dr.-Ing. Michael Bühler](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1548595407999-60x60.jpg.webp)\n\nProf. Dr.-Ing. Michael Bühler\n\nCo-Owner GemeinWerk Ventures\n\nBe part of the movement with DataDrivenConstruction! Let’s make true freedom in data formats a reality and catalyze a new era of productivity and innovation in construction.The real and necessary journey from closed to “open” formats has not even started: True freedom in data formats—free from proprietary ties and accessible to all—is what we need to unlock innovation and collaboration across the construction industry, particularly benefiting the 99% of construction, i.e. SMEs and unchaining the sector for accelerated growth\n\n![Image 383: Irina Fischer](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1697990940943-60x60.jpg.webp)\n\nIrina Fischer\n\nBIM Coordinator | OBERMEYER Group\n\nThe decision to use Jupyter Notebook for results verification turned out to be highly beneficial. Our experience with solutions from Data Driven Construction and Jupyter Notebook has been extremely positive.Overall, the integration of solutions from Data Driven Construction and Jupyter Notebook has greatly improved our workflows. Their combined capabilities and performance have not only optimized data processing, but also produced meaningful results, making them highly recommended tools.\n\n### for the engineering and construction industry\n\n**INTEGRATE** SOFTWARE\n======================\n\n#### Access the power of AI to analyze, summarize and transform data\n\n[![Image 384](https://datadrivenconstruction.io/wp-content/uploads/2023/12/Design-ohne-Titel-18.png.webp)](javascript:void(0);)\n\n[![Image 385](https://datadrivenconstruction.io/wp-content/uploads/2023/12/collab-1.png.webp)](javascript:void(0);)\n\n[![Image 386](https://datadrivenconstruction.io/wp-content/uploads/2023/12/kaggle-1.png.webp)](javascript:void(0);)\n\n[![Image 387](https://datadrivenconstruction.io/wp-content/uploads/2023/12/gimini-1.png.webp)](javascript:void(0);)\n\n[![Image 388](https://datadrivenconstruction.io/wp-content/uploads/2023/12/copilot-1.png.webp)](javascript:void(0);)\n\n \n\n#### Use free and popular libraries with  out-of-the-box data solutions\n\n[![Image 389](https://datadrivenconstruction.io/wp-content/uploads/2023/12/python-1.png.webp)](javascript:void(0);)\n\n[![Image 390](https://datadrivenconstruction.io/wp-content/uploads/2023/12/pandas-1.png.webp)](javascript:void(0);)\n\n[![Image 391](https://datadrivenconstruction.io/wp-content/uploads/2023/12/geopandas-1.png.webp)](javascript:void(0);)\n\n[![Image 392](https://datadrivenconstruction.io/wp-content/uploads/2023/12/numpy-1.png.webp)](javascript:void(0);)\n\n[![Image 393](https://datadrivenconstruction.io/wp-content/uploads/2023/12/matplotlib-1.png.webp)](javascript:void(0);)\n\n[![Image 394](https://datadrivenconstruction.io/wp-content/uploads/2023/12/scikitlaearn-1.png.webp)](javascript:void(0);)\n\n[![Image 395](https://datadrivenconstruction.io/wp-content/uploads/2023/12/plotly-1.png.webp)](javascript:void(0);)\n\n[![Image 396](https://datadrivenconstruction.io/wp-content/uploads/2023/12/pytest-1.png.webp)](javascript:void(0);)\n\n[![Image 397](https://datadrivenconstruction.io/wp-content/uploads/2023/12/dask.png.webp)](javascript:void(0);)\n\n[![Image 398](https://datadrivenconstruction.io/wp-content/uploads/2023/12/django.png.webp)](javascript:void(0);)\n\n#### Effortlessly integrate with industry-leading development tools \n\n[![Image 399](https://datadrivenconstruction.io/wp-content/uploads/2023/12/vscode-1.png.webp)](javascript:void(0);)\n\n[![Image 400](https://datadrivenconstruction.io/wp-content/uploads/2023/12/unreal-engine-1.png.webp)](javascript:void(0);)\n\n[![Image 401](https://datadrivenconstruction.io/wp-content/uploads/2023/12/unity-1.png.webp)](javascript:void(0);)\n\n[![Image 402](https://datadrivenconstruction.io/wp-content/uploads/2023/12/tableu-1.png.webp)](javascript:void(0);)\n\n[![Image 403](https://datadrivenconstruction.io/wp-content/uploads/2023/12/pccharm-2.png.webp)](javascript:void(0);)\n\n[![Image 404](https://datadrivenconstruction.io/wp-content/uploads/2023/12/powerbi-1.png.webp)](javascript:void(0);)\n\n[![Image 405](https://datadrivenconstruction.io/wp-content/uploads/2023/12/jupyter-1.png.webp)](javascript:void(0);)\n\n[![Image 406](https://datadrivenconstruction.io/wp-content/uploads/2023/12/githhub-1.png.webp)](javascript:void(0);)\n\n[![Image 407](https://datadrivenconstruction.io/wp-content/uploads/2023/12/gitlab-1.png.webp)](javascript:void(0);)\n\nComplete CAD (BIM) Data Lifecycle\n\n**Extract** | **Verify** | Rewrite | Store | **Analyze** |  **Predict**\n\n[![Image 408](https://datadrivenconstruction.io/wp-content/uploads/2024/09/CAD-BIM-Qualitat-2.png.webp)](https://opendatabim.io/#)\n\n[](https://opendatabim.io/#)\n\n### **CAD (BIM) Data Quality**\n\nEnsure the integrity of your projects with our comprehensive data quality solutions.\n\n[![Image 409](https://datadrivenconstruction.io/wp-content/uploads/2024/09/CAD-to-Excel-DWG-Revit-IFC-2.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)\n\n[](https://datadrivenconstruction.io/#onepagerpdf)\n\n### **DDC Excel Add-in for RVT, IFC, DWG**\n\nSeamlessly convert and manage your CAD data directly in Excel.\n\n[![Image 410](https://datadrivenconstruction.io/wp-content/uploads/2024/09/Data-Check-BIM-2.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)\n\n[](https://datadrivenconstruction.io/#onepagerpdf)\n\n### **Data Filling in CAD (BIM)**\n\nFill your CAD projects with accurate and comprehensive data effortlessly.\n\n[![Image 411](https://datadrivenconstruction.io/wp-content/uploads/2024/09/DataAnalytics-in-constructoin.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)\n\n[](https://datadrivenconstruction.io/#onepagerpdf)\n\n### **Data Analytics in Construction**\n\nTransform your construction outcomes with our tailored data analytics.\n\n[![Image 412](https://datadrivenconstruction.io/wp-content/uploads/2024/09/LLM-for-CAD-BIM-Data-3.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)\n\n[](https://datadrivenconstruction.io/#onepagerpdf)\n\n### **LLM for CAD-BIM**\n\nStreamline your CAD-BIM processes with Large Language Models ChatGPT, LLaMa and others.\n\nBuilding the Future of Construction Data Management\n---------------------------------------------------\n\nDataDrivenConstruction **Workshop**\n===================================\n\n### DataDrivenConstruction offers workshops tested and practiced on global leaders in the construction industry to help your team navigate and leverage the power of data and artificial intelligence in your company's decision making.\n\nRequest a Workshop\n\n![Image 413](https://datadrivenconstruction.io/wp-content/uploads/2025/01/Workshop-DataDrivenConstruction-Consulting-1.png)\n\n![Image 414: Ralph Montague](https://datadrivenconstruction.io/wp-content/uploads/2025/01/t1B3NeQj_400x400-60x60.jpg)\n\nRalph Montague\n\nDirector | ARCDOX\n\nIf \"data is the new oil\", we need to learn to define it, find it, mine it, refine it, to make it valuable. I've found Artem Boiko's research work, his book, and his posts very informative and insightful. He always provides a useful historical background and plain language explanation to his work. His regular contributions to the BIM Heroes community network help to give our AEC members, who are interested in digital transformation, a good understanding of data - how it works, and how it is structured, and how it can be used. Thanks Artem and DataDrivenConstruction for your continuous effort.\n\n![Image 415: Evan Ramenskiy](https://datadrivenconstruction.io/wp-content/uploads/2025/01/1732053926561-60x60.jpeg)\n\nEvan Ramenskiy\n\nCRO & Co-founder | Shapemaker\n\nArtem Boiko delivered an outstanding presentation to the entire Shapemaker team, providing deep insights into data migration from engineering software and related topics. His expertise and clear communication made complex concepts easy to grasp, equipping our team with practical knowledge we can apply immediately. Highly recommend his services for anyone seeking clarity and actionable strategies in this space!\n\n![Image 416: Markus Eiberger](https://datadrivenconstruction.io/wp-content/uploads/2025/01/1727993000845-60x60.jpeg)\n\nMarkus Eiberger\n\nBanch Management | Konstruktionsgruppe Bauen\n\nArtem Boiko delivered an impressive presentation at our BIM Cluster BW Day 2024 on the use of data in relation to BIM. His expertise in presenting a new vision for the application of data was truly inspiring. With his passion and deep understanding of the subject, he was able to explain complex concepts clearly while also introducing innovative approaches.Although his presentation was rich in content and full of slides, this density of information highlighted the depth of his vision and his persuasive power. Artem has the ability to captivate his audience with his open and engaging style, effectively leading them through the material. He demonstrates not only remarkable technical expertise but also the skill to communicate his message in a way that sparks reflection and encourages discussion.We sincerely thank Artem Boiko for his valuable contribution and look forward to future opportunities to benefit from his knowledge and visionary perspective.\n\n> #### In today's rapidly evolving digital landscape, interoperability, data processing, data mining and process automation are no longer optional - they are simply essential. Our approach is built on two essential pillars: **theory** and **practice**, both tailored to the unique needs of each company.\n\n### **Theory:**\n\nWe cover key topics and trends that are directly relevant to your organization. This isn’t dry, academic theory—it’s a clear, fact-based understanding of current trends, combined with practical insights on how to address them in real-world scenarios.\n\n### **Practice:**\n\nWe can also move into practical application as needed. Using modern tools and techniques, we demonstrate how to solve data-related problems efficiently and effectively. The knowledge gained is immediately applied to real-world problems.\n\n[![Image 417](https://datadrivenconstruction.io/wp-content/uploads/2024/09/DataAnalytics-in-constructoin.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)\n\n[](https://datadrivenconstruction.io/#onepagerpdf)\n\n[![Image 418](https://datadrivenconstruction.io/wp-content/uploads/2024/09/LLM-for-CAD-BIM-Data-3.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)\n\n[](https://datadrivenconstruction.io/#onepagerpdf)\n\n[![Image 419](https://datadrivenconstruction.io/wp-content/uploads/2024/09/LLM-for-CAD-BIM-Data-3.png.webp)](https://datadrivenconstruction.io/#onepagerpdf)\n\n[](https://datadrivenconstruction.io/#onepagerpdf)\n\n[![Image 420](https://datadrivenconstruction.io/wp-content/uploads/2025/01/DDC-OnePager-50-x-70.715-mm-1.png)](https://datadrivenconstruction.io/#onepagerpdf)\n\n[](https://datadrivenconstruction.io/#onepagerpdf)\n\n###  **Key Topics We Cover**\n\n*   **Data Mining**: Extracting usable data from PDFs, Excel files, images, and other sources.\n*   **BIM and CAD**: Gaining insights from RVT, IFC, DWG, and other file formats.\n*   **Data Quality**: Ensuring your data is accurate, complete, and ready for automation.\n*   **Analytics and Transformation**: Turning raw data into actionable insights and strategic ideas.\n*   **Systems Integration**: Embedding data into workflows, databases, and documents to maximize efficiency.\n\nEvery step of the way, we discuss your real-world challenges, uncovering issues and opportunities specific to your team and organization. This personalized approach ensures that the training is directly relevant to your needs and immediately applicable to your work.\n\ndon't miss your chance to enter a new era\n-----------------------------------------\n\nDATADRIVENCONSTRUCTION **GUIDE**\n================================\n\n*   [![Image 421](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-300x300.png)](https://datadrivenconstruction.io/product/data-driven-construction/)\n    \n    [](https://opendatabim.io/?add-to-cart=2926)[](https://datadrivenconstruction.io/product/data-driven-construction/)\n    \n    [](https://datadrivenconstruction.io/product/data-driven-construction/)\n    \n    #### [DATA-DRIVEN CONSTRUCTION. Navigating the Data Age in the Construction Industry](https://datadrivenconstruction.io/product/data-driven-construction/)\n    \n    $114.54\n    \n    [Add to basket](https://opendatabim.io/?add-to-cart=2926)\n    \n*   [![Image 422](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-4-300x300.png.webp)](https://datadrivenconstruction.io/product/data-driven-construction-3/)\n    \n    [](https://opendatabim.io/?add-to-cart=2958)[](https://datadrivenconstruction.io/product/data-driven-construction-3/)\n    \n    [](https://datadrivenconstruction.io/product/data-driven-construction-3/)\n    \n    #### [DATA-DRIVEN CONSTRUCTION. Navigieren im Datenzeitalter in der Bauindustrie](https://datadrivenconstruction.io/product/data-driven-construction-3/)\n    \n    $115.58\n    \n    [Add to basket](https://opendatabim.io/?add-to-cart=2958)\n    \n*   [![Image 423](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-3-300x300.png.webp)](https://datadrivenconstruction.io/product/cddc-guide/)\n    \n    [](https://opendatabim.io/?add-to-cart=2960)[](https://datadrivenconstruction.io/product/cddc-guide/)\n    \n    [](https://datadrivenconstruction.io/product/cddc-guide/)\n    \n    #### [数据驱动建设. 数据时代的导航](https://datadrivenconstruction.io/product/cddc-guide/)\n    \n    $115.24\n    \n    [Add to basket](https://opendatabim.io/?add-to-cart=2960)\n    \n*   [![Image 424](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-2-300x300.png.webp)](https://datadrivenconstruction.io/product/data-driven-construction-2/)\n    \n    [](https://opendatabim.io/?add-to-cart=2962)[](https://datadrivenconstruction.io/product/data-driven-construction-2/)\n    \n    [](https://datadrivenconstruction.io/product/data-driven-construction-2/)\n    \n    #### [DATA-DRIVEN CONSTRUCTION. Навигация в эпоху данных в строительной отрасли](https://datadrivenconstruction.io/product/data-driven-construction-2/)\n    \n    $115.24\n    \n    [Add to basket](https://opendatabim.io/?add-to-cart=2962)\n    \n*   [![Image 425](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-1-300x300.jpg.webp)](https://datadrivenconstruction.io/product/data-driven-construction-4/)\n    \n    [](https://opendatabim.io/?add-to-cart=3018)[](https://datadrivenconstruction.io/product/data-driven-construction-4/)\n    \n    [](https://datadrivenconstruction.io/product/data-driven-construction-4/)\n    \n    #### [DATA-DRIVEN CONSTRUCTION. Navegar na era dos dados no sector da construção](https://datadrivenconstruction.io/product/data-driven-construction-4/)\n    \n    $115.46\n    \n    [Add to basket](https://opendatabim.io/?add-to-cart=3018)\n    \n*   [![Image 426](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-2-300x300.jpg.webp)](https://datadrivenconstruction.io/product/data-driven-construction-5/)\n    \n    [](https://opendatabim.io/?add-to-cart=3020)[](https://datadrivenconstruction.io/product/data-driven-construction-5/)\n    \n    [](https://datadrivenconstruction.io/product/data-driven-construction-5/)\n    \n    #### [DATA-DRIVEN CONSTRUCTION. Navegar por la era de los datos en el sector de la construcción](https://datadrivenconstruction.io/product/data-driven-construction-5/)\n    \n    $115.00\n    \n    [Add to basket](https://opendatabim.io/?add-to-cart=3020)\n    \n*   [![Image 427](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-4-300x300.jpg.webp)](https://datadrivenconstruction.io/product/la-construction-guidee-par-les-donnees/)\n    \n    [](https://opendatabim.io/?add-to-cart=3022)[](https://datadrivenconstruction.io/product/la-construction-guidee-par-les-donnees/)\n    \n    [](https://datadrivenconstruction.io/product/la-construction-guidee-par-les-donnees/)\n    \n    #### [LA CONSTRUCTION GUIDÉE PAR LES DONNÉES. Naviguer dans l’ère des données dans l’industrie de la construction](https://datadrivenconstruction.io/product/la-construction-guidee-par-les-donnees/)\n    \n    $115.82\n    \n    [Add to basket](https://opendatabim.io/?add-to-cart=3022)\n    \n*   [![Image 428](https://datadrivenconstruction.io/wp-content/uploads/2024/03/DDC-Book-3-300x300.jpg.webp)](https://datadrivenconstruction.io/product/costruzione-basata-sui-dati/)\n    \n    [](https://opendatabim.io/?add-to-cart=3024)[](https://datadrivenconstruction.io/product/costruzione-basata-sui-dati/)\n    \n    [](https://datadrivenconstruction.io/product/costruzione-basata-sui-dati/)\n    \n    #### [COSTRUZIONE BASATA SUI DATI. Navigare nell’era dei dati nel settore delle costruzioni](https://datadrivenconstruction.io/product/costruzione-basata-sui-dati/)\n    \n    $115.00\n    \n    [Add to basket](https://opendatabim.io/?add-to-cart=3024)\n    \n\n![Image 429: Martin Loureiro-Barrientos](https://datadrivenconstruction.io/wp-content/uploads/2024/04/HeadShoot_MLB_Low-60x60.png.webp)\n\nMartin Loureiro-Barrientos\n\nBIM Coordinator | Populous, London\n\nProbably the most interesting book of the last two years that I know of. Required reading to break free from the 'matrix' perpetuated by software vendors, this book delves into how emerging tools like artificial intelligence offer fresh opportunities for data management without extensive technical expertise, poised to revolutionize even the most antiquated sectors like construction.With flawless translation and mind-bending graphics, it's a must-read. Eagerly anticipating the sequel. Very good buy in my opinion...I will read it again and waiting for the second part!\n\n![Image 430: Paul Ransley](https://datadrivenconstruction.io/wp-content/uploads/2024/04/avatar-1-60x60.jpg.webp)\n\nPaul Ransley\n\nPLU Systems Engineer | Transport for London (TfL)\n\nI highly recommend Artem's book that addresses, as the title says, a data driven information management approach for AECO. I am currently using it to help initiate a number of discussions with various groups. I have found it a very accessible reference.As well as a thorough overview of the history context of tools in AECO, data and introducing several key technologies the book contains a number of very useful diagrams, that outline the scope of data sources and end user artefacts, common database types encountered, applications working on that data and output artefacts in organisations or projects, with sample workflows.It strikes me that these are the types of diagrams we need more of when developing and monitoring information strategies and contribute to BEP's - defining the overall enterprise data model onto which the boundary for a PIM and AIM can be overlaid.\n\n![Image 431: Pierpaolo Vergati](https://datadrivenconstruction.io/wp-content/uploads/2024/04/1698934472463-60x60.jpg.webp)\n\nPierpaolo Vergati\n\nSenior Construction Project Manager | Fintecna S.p.A., Rome\n\nFor anyone in the construction industry, from rookies to seasoned pros, this book is a game-changer! It's not your typical dusty read—it's packed with insights, strategies, and a touch of humor to keep you engaged. From ancient data recording methods to cutting-edge digital technologies, it covers the evolution of data usage in construction.🚘 ⏱️It's like taking a time machine through the evolution of construction data—minus the wonky flux capacitor.😁And shoutout to Artem Boiko , our \"Doc E. Brown\", for crafting this data-packed journey! 🌟Whether you're an architect, engineer, project manager or data analyst, this comprehensive guide will revolutionize the way you approach projects. Get ready to optimize processes, enhance decision-making, and manage projects like never before! 💼💡 _(A review of the Italian version of the book \"COSTRUZIONE BASATA SUI DATI. Navigare nell’era dei dati nel settore delle costruzioni\")_\n\n![Image 432: Mikhail Kosarev](https://datadrivenconstruction.io/wp-content/uploads/2024/07/1602916325350-1-60x60.jpg.webp)\n\nMikhail Kosarev\n\nTIM-ASG | Digital transformation expert\n\n📚 I read the book in one breath, in less than 6 hours. The presentation of information is as simple as possible, but for deep perception and coverage of the materials requires an expanded horizon of knowledge from the construction and IT industries. At 270 pages, a huge number of schemes. The manufacturing quality of the book is excellent, dense glossy paper, color schemes, a pleasant font.🏗 The content of the book allows you to look at construction project management from an information management perspective. Will broaden your horizons and understanding of modern digital technologies in construction. The large number of practical examples on how to work with ChatGPT specific to the construction industry will save you months, if not years, of self-study.💻 Work examples are very diverse, ranging from simple to complex, without requiring you to purchase complex and expensive software. The main focus is on open source software. In the book and about data analysis and programming, visualization of information. You will look at Excel and your computer in a different way.👨‍💼 The book will be especially useful for BIM specialists, IT specialists working or going to work in the construction industry. Digital ISU to take a new look at project management, to increase their efficiency. The book will allow owners of any business in the construction industry to take a fresh look at their business strategy, digitalization and development prospects. And for smaller companies to increase efficiency with affordable and free tools.📖 The book will be my go-to book for regular use for the next year until the PDF version comes out.\n\n![Image 433: Salih Ofluoğlu](https://datadrivenconstruction.io/wp-content/uploads/2024/07/1718214169342-60x60.jpg.webp)\n\nSalih Ofluoğlu\n\nAntalya Bilim University | Dean, Faculty of Architecture\n\nI think that the book addresses a significant, contemporary topic relevant to the construction industry. As it was also emphasized in the book, information is a crucial asset for the construction sector, and having it in accessible formats greatly facilitates accurate decision-making and expedites project timelines.The book offers a neutral and efficient approach to accessing and taking advantage of this source in decision-making. The methodology presented in the book leverages a contemporary approach that combines artificial intelligence-driven programming with accessible open-source tools.By harnessing the power of AI and utilizing open-source software, the methodology aims to enhance automation, optimize processes, and promote accessibility and collaboration within the field. The language of the book is clear and easy to follow.Congratulations on the quality work! I have enjoyed reading it. Wishing you continued success as well.\n\n![Image 434: Moayad Saleh](https://datadrivenconstruction.io/wp-content/uploads/2024/07/a5a15858-1fd2-4627-a53a-1b0089ab6b43-60x60.jpg.webp)\n\nMoayad Saleh\n\nBIM Manager | TMM GROUP Gesamtplanungs GmbH\n\nArtem's book, \"DATA DRIVEN CONSTRUCTION,\" is a game-changer for anyone curious about where the construction industry is headed in the age of data. Whether you're deeply involved in construction or simply intrigued by its evolution, this book offers a captivating exploration of how technology is reshaping the field.Artem doesn't just scratch the surface; he delves deep into the current developments, challenges, and promising opportunities in construction. What sets this book apart is its accessibility—Artem explains complex ideas using relatable analogies that make the content easy to grasp.I found the book to be incredibly informative yet engaging. It's clear that Artem has a profound understanding of both the industry and the transformative power of data analytics. His writing style is approachable yet authoritative, making \"DATA DRIVEN CONSTRUCTION\" a must-read for anyone looking to stay ahead in this rapidly changing landscape.In summary, Artem has crafted a valuable resource that not only informs but also inspires. Whether you're a seasoned professional or a newcomer to construction, this book will broaden your perspective and deepen your understanding of where the industry is heading. Highly recommended!\n\n![Image 435: Isabella Deininger](https://datadrivenconstruction.io/wp-content/uploads/2024/08/Foto_Isabella_Deininger-60x60.jpg.webp)\n\nIsabella Deininger\n\nCEO LBI Association | TU München\n\nThe \"DATA-DRIVEN CONSTRUCTION\" by Artem Boiko is a comprehensive work that fills a gap in the \"modern\" construction industry.It offers valuable insights into both the basics and advanced applications of data in construction. Artem also presents an interesting approach to handling data in construction and shows how it can be used. It is a successful presentation of the various possibilities that data can offer in construction and provides practical guidance and examples.As such, it is an absolute recommendation for anyone involved in the use of data in the construction industry.\n\n![Image 436: Ihor Rogchew](https://datadrivenconstruction.io/wp-content/uploads/2024/08/photo_2019-10-23_20-45-21-60x60.jpg.webp)\n\nIhor Rogchew\n\nHead of IMT Competence Center | RZD\n\nAt the moment, the degree of chaotic and oversaturated information in the construction industry has reached such a level that any specialist in the field of working with data would be horrified. But the problem is that builders have long been working in their own closed IT world and often come up with zoned existing approaches or directly ignoring the successful experience of working with data from other industries. Artem Boyko's work is one of the first steps beyond the boundaries of the usual world of builders, with their complex design and management systems, when, it would seem, the complexity and saturation of data does not even give a chance for radical simplification and increased transparency of work with construction data.In his book, Artem shows in simple language what opportunities modern technologies of working with data open before us, and literally gives concrete steps that you can immediately apply in your work. I urge everyone who wants to understand where automation systems will go in the construction industry to study this small book carefully in order to realize that the data revolution in construction is already knocking on our door.It's only of interest to geeks now, but in a few years, like BIM, such approaches and software will be ubiquitous!\n\n![Image 437: Natasha Prinsloo](https://datadrivenconstruction.io/wp-content/uploads/2024/08/1608480040202-60x60.jpg.webp)\n\nNatasha Prinsloo\n\nBIM Coordinator | energylab UK\n\nAll I can say is, WOW! The way you incorporated history, ChatGPT, the graphics, and the overall ease of understanding your points is truly remarkable. The flow of the book is amazing.There are so many brilliant aspects to this book; it’s genuinely a game-changer. It’s a great source of information, and I commend you for the effort and passion you’ve put into it. Congratulations on creating such a remarkable work. I could go on, but suffice it to say, I’m incredibly impressed!\n\n![Image 438: Kristijan Vilibić](https://datadrivenconstruction.io/wp-content/uploads/2025/01/1697388650313-60x60.jpeg)\n\nKristijan Vilibić\n\nFounder | Mastery of Digital\n\nI found this book to be an eye-opener for anyone in the construction industry interested in modernizing their approach to data. What I appreciated the most was how it doesn’t assume you’re a tech expert—it’s written in a way that feels approachable, even if you're just starting out.The book connects the dots between technical concepts and real-world applications, like improving project schedules or estimating costs more accurately. The illustrations and graphs made complex ideas so much easier to understand.If you’re curious about how data can transform construction workflows or just want to stay ahead in this fast-evolving industry, this book is a fantastic guide. It felt practical, relevant, and relatable to my work.\n\n![Image 439: Ediz Yazicioglu](https://datadrivenconstruction.io/wp-content/uploads/2025/01/1690018918329-60x60.jpeg)\n\nEdiz Yazicioglu\n\nOwner | ArchCube\n\nI am a civil engineer. I have a PhD in project and construction management. As a civil engineer, in addition to the many construction projects I have realized, I have been involved in the development in the field of AEC since 1987, which Artem Boiko described in BIM history https://bigdataconstruction.com/history-of-bim/. In addition to representing Archtrion, Vectorworks software in Turkey, I have realized the Turkish localization of these software. In partnership with Bentley, I provided sales and training of Bentley's AEC solutions. I produced kitchen design and order automation software called ArchKitchen. In addition to world brands such as Arup, Bayer, Mercedes, Renault, Siemens, Franke, Teka, public institutions of my country and sector leading brands have become my customers. I have produced a lot of software in the field of AEC. When I review the book Data-Driven Construction with the knowledge and experience I have gained in my professional life of more than thirty-five years, I would like to say the following.I would like to start by saying that when you take the Data-Driven Construction book in your hand, you will feel its high quality with its print quality and binding. Most importantly, I should also say that Data-Driven Construction is worthy of being taught as a textbook in universities and is a book that will make valuable contributions to the developing BIM field. Data-Driven Construction contains a technical glossary that explains the concepts very well. The explanation of conceptual and technical terms adds value to the understanding of the text. I think it would be appropriate to develop these sections of the book as a technical glossary.Data-Driven Construction book is supported by visual narration. Topics that are extremely difficult to explain are made simple and understandable with a very beautiful visual language. I think that what is intended to be explained in the visuals should be expressed to the reader, even if briefly. The comprehensibility of some visuals, in other words, reading the visual requires separate information. The book Data-Driven Construction explains very well what is conceptually related to what with its historical background. I would like to suggest that in the development of the book, these narratives should be made comprehensive instead of being a summary.The book Data-Driven Construction has traces of Artem Boiko's education and software development experiences, which increases the gains of the reader. I think that it would be better to relate what is described in the book to Artem Boiko's education and software development with the links to be given and to increase the software examples in case-study style. I must say that the topics of the Data-Driven Construction book are very well structured. I think it would be useful to give information about software development tools in the parts of the book that will guide those who want to work in this field.I think it would be useful to have a section in the Data-Driven Construction book where existing software solutions on the subject are examined. For example, I think it would be useful to explain the operation of a system such as ERP and data relationships to the reader in a short understandable language. In the book Data-Driven Construction, many file and data sharing formats are mentioned. I think it would be useful to provide more detailed information about the content of these formats or to provide the reader with access to detailed information by referring to references.In the Data-Driven Construction book, I think that BIM standard setters such as BuildingSmart, BSI are introduced and the relationship between BIM standards and data should be given in more detail. For example, I think it is a necessity to explain the structure of IFC in the book in great detail.I think that how data is obtained from BIM model information should be exemplified in the book as in Artem Boiko's trainings. Finally, I must say that the Data-Driven Construction book is a very good study on the essence of the subject and each title is open to be developed more comprehensively. I would like to say a few words about Artem Boiko himself.In my PhD study, I argued that Revit-Dynamo software, a visual programming tool, can be used in the calculation of construction costs in an unconventional way. I must say that I am surprised that among the over 10.000 sources I examined for Cost Network Modeling, which I developed in my PhD, only Artem Boiko followed the same approach. I would also like to say that I am happy to introduce Artem Boiko's valuable work in my lectures and seminars at universities. I am happy to know Artem Boiko, a good and valuable person. I wish him continued success.\n\n### Have you attended one of our workshops, read our book, or used our solutions?\n\nShare your feedback\n\n**Focus on** **DATA**, not on schemas\n=====================================\n\n#### PARTNERS IN DATA MINING AND PROCESSING\n\n![Image 440](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-buildinformed-2.png.webp)\n\n![Image 441](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-thost-1.png.webp)\n\n![Image 442](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-morphbim-3.png.webp)\n\n![Image 443](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-bim2b-2.png.webp)\n\n![Image 444](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-gemeinwerk-3.png.webp)\n\n![Image 445](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-baufomr-2.png.webp)\n\n![Image 446](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-creasi-2.png.webp)\n\n![Image 447](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-pixematic.png.webp)\n\n![Image 448](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-control-seek-2.png.webp)\n\n![Image 449](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-visplu-1.png.webp)\n\n![Image 450](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-manotek-2.png.webp)\n\n![Image 451](https://datadrivenconstruction.io/wp-content/uploads/2024/05/partner-we-bim-1.png.webp)\n\nfrom pre-built code blocks\n--------------------------\n\n**BUILD A CUSTOM** SOLUTION\n===========================\n\n\n===========================================================\n\n100+mln\n\nCommunity of experts\n\n[More about Pipeline](https://datadrivenconstruction.io/pipeline-in-construction/)\n\n100x\n\nEasier to code\n\n15 December 2023\n\n[![Image 452](https://datadrivenconstruction.io/wp-content/uploads/2023/08/IFC-to-table.png.webp)](https://datadrivenconstruction.io/2023/12/ifc-to-excel-converter/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2023/08/IFC-to-table.png)[](https://datadrivenconstruction.io/2023/12/ifc-to-excel-converter/)\n\nCategories\n\n*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)\n*   [Data Processing and Export](https://datadrivenconstruction.io/category/pipelines/data-processing-and-export/)\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[IFC to Excel Converter](https://datadrivenconstruction.io/2023/12/ifc-to-excel-converter/)\n-------------------------------------------------------------------------------------------\n\n22 February 2024\n\n[![Image 453](https://datadrivenconstruction.io/wp-content/uploads/2024/02/QTO-volume-table-revit-IFC-1.png.webp)](https://datadrivenconstruction.io/2024/02/qto-project-calculations-using-rules-from-excel-spreadsheet-2518/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/QTO-volume-table-revit-IFC-1.png)[](https://datadrivenconstruction.io/2024/02/qto-project-calculations-using-rules-from-excel-spreadsheet-2518/)\n\nCategories\n\n*   [DATA-DRIVEN ESTIMATING AND QUANTITY TAKE-OFFS](https://datadrivenconstruction.io/category/datadrivenconstruction/data-driven-estimating-and-quantity-take-offs/)\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[QTO calculations using rules from Excel](https://datadrivenconstruction.io/2024/02/qto-project-calculations-using-rules-from-excel-spreadsheet-2518/)\n------------------------------------------------------------------------------------------------------------------------------------------------------\n\n24 February 2024\n\n[![Image 454](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Rules-for-Validationa-in-CAD-BIM.png.webp)](https://datadrivenconstruction.io/2024/02/structured-requirements-and-regex/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Rules-for-Validationa-in-CAD-BIM.png)[](https://datadrivenconstruction.io/2024/02/structured-requirements-and-regex/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[Structured requirements and RegEx](https://datadrivenconstruction.io/2024/02/structured-requirements-and-regex/)\n-----------------------------------------------------------------------------------------------------------------\n\n24 February 2024\n\n[![Image 455](https://datadrivenconstruction.io/wp-content/uploads/2024/02/CO2-carpon-bim-cad-2.png.webp)](https://datadrivenconstruction.io/2024/02/qto-with-chatgpt-of-cad-bim-data/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/CO2-carpon-bim-cad-2.png)[](https://datadrivenconstruction.io/2024/02/qto-with-chatgpt-of-cad-bim-data/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n*   [Uncategorized](https://datadrivenconstruction.io/category/uncategorized/)\n\n[QTO with ChatGPT of CAD (BIM) data](https://datadrivenconstruction.io/2024/02/qto-with-chatgpt-of-cad-bim-data/)\n-----------------------------------------------------------------------------------------------------------------\n\n24 February 2024\n\n[![Image 456](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT.png.webp)](https://datadrivenconstruction.io/2024/02/open-structured-data-2311-2/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT.png)[](https://datadrivenconstruction.io/2024/02/open-structured-data-2311-2/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[Open Data, Pandas, DataFrame and ChatGPT](https://datadrivenconstruction.io/2024/02/open-structured-data-2311-2/)\n------------------------------------------------------------------------------------------------------------------\n\n24 February 2024\n\n[![Image 457](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Image-to-table-with-ChatGPT.png.webp)](https://datadrivenconstruction.io/2024/02/image-into-table-with-chatgpt/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Image-to-table-with-ChatGPT.png)[](https://datadrivenconstruction.io/2024/02/image-into-table-with-chatgpt/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[Image into table with ChatGPT](https://datadrivenconstruction.io/2024/02/image-into-table-with-chatgpt/)\n---------------------------------------------------------------------------------------------------------\n\n31 July 2023\n\n[![Image 458](https://datadrivenconstruction.io/wp-content/uploads/2023/07/PDF-to-Excel-4.png.webp)](https://datadrivenconstruction.io/2023/07/pdf-to-table-df/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2023/07/PDF-to-Excel-4.png)[](https://datadrivenconstruction.io/2023/07/pdf-to-table-df/)\n\nCategories\n\n*   [Data Conversion](https://datadrivenconstruction.io/category/pipelines/data-conversion/)\n*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[PDF to Excel](https://datadrivenconstruction.io/2023/07/pdf-to-table-df/)\n--------------------------------------------------------------------------\n\n26 February 2024\n\n[![Image 459](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT-3-1.png.webp)](https://datadrivenconstruction.io/2024/02/pipeline-etl-cad-bim-project-verification-2803/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT-3-1.png)[](https://datadrivenconstruction.io/2024/02/pipeline-etl-cad-bim-project-verification-2803/)\n\nCategories\n\n*   [AUTOMATIC PIPELINE- ETL DATA VALIDATION](https://datadrivenconstruction.io/category/datadrivenconstruction/automatic-pipeline-etl-data-validation/)\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[Pipeline-ETL: CAD (BIM) project verification](https://datadrivenconstruction.io/2024/02/pipeline-etl-cad-bim-project-verification-2803/)\n-----------------------------------------------------------------------------------------------------------------------------------------\n\n24 February 2024\n\n[![Image 460](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Create-DataBase-with-ChatGPT.png.webp)](https://datadrivenconstruction.io/2024/02/creating-a-database-using-chatgpt/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Create-DataBase-with-ChatGPT.png)[](https://datadrivenconstruction.io/2024/02/creating-a-database-using-chatgpt/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[Creating a database using ChatGPT](https://datadrivenconstruction.io/2024/02/creating-a-database-using-chatgpt/)\n-----------------------------------------------------------------------------------------------------------------\n\n15 December 2023\n\n[![Image 461](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Revit-to-table-4.png.webp)](https://datadrivenconstruction.io/2023/12/rvt-revit-to-excel-converter/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Revit-to-table-4.png)[](https://datadrivenconstruction.io/2023/12/rvt-revit-to-excel-converter/)\n\nCategories\n\n*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)\n*   [Data Processing and Export](https://datadrivenconstruction.io/category/pipelines/data-processing-and-export/)\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[RVT Revit to Excel Converter](https://datadrivenconstruction.io/2023/12/rvt-revit-to-excel-converter/)\n-------------------------------------------------------------------------------------------------------\n\n2 August 2023\n\n[![Image 462](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Excel-to-JPEG.png.webp)](https://datadrivenconstruction.io/2023/08/visualizing-data-from-excel/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Excel-to-JPEG.png)[](https://datadrivenconstruction.io/2023/08/visualizing-data-from-excel/)\n\nCategories\n\n*   [Data Conversion](https://datadrivenconstruction.io/category/pipelines/data-conversion/)\n*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[Visualizing Data from Excel](https://datadrivenconstruction.io/2023/08/visualizing-data-from-excel/)\n-----------------------------------------------------------------------------------------------------\n\n24 February 2024\n\n[![Image 463](https://datadrivenconstruction.io/wp-content/uploads/2024/02/PDF-to-Excel-1.png.webp)](https://datadrivenconstruction.io/2024/02/data-validation-and-validation-results/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/PDF-to-Excel-1.png)[](https://datadrivenconstruction.io/2024/02/data-validation-and-validation-results/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[Data validation and validation results](https://datadrivenconstruction.io/2024/02/data-validation-and-validation-results/)\n---------------------------------------------------------------------------------------------------------------------------\n\n26 February 2024\n\n[![Image 464](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT-2.png.webp)](https://datadrivenconstruction.io/2024/02/predictions-and-forecasts-based-on-historical-data-2873/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pandas-ChatGPT-2.png)[](https://datadrivenconstruction.io/2024/02/predictions-and-forecasts-based-on-historical-data-2873/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n*   [THE FUTURE: PREDICTIONS, FORECASTS AND MACHINE LEARNING](https://datadrivenconstruction.io/category/datadrivenconstruction/the-future-predictions-forecasts-and-machine-learning/)\n\n[Predictions and forecasts based on historical data](https://datadrivenconstruction.io/2024/02/predictions-and-forecasts-based-on-historical-data-2873/)\n--------------------------------------------------------------------------------------------------------------------------------------------------------\n\n24 February 2024\n\n[![Image 465](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pdf-to-table-with-chatgpt.png.webp)](https://datadrivenconstruction.io/2024/02/pdf-to-table-with-chatgpt/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Pdf-to-table-with-chatgpt.png)[](https://datadrivenconstruction.io/2024/02/pdf-to-table-with-chatgpt/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[PDF to table with ChatGPT](https://datadrivenconstruction.io/2024/02/pdf-to-table-with-chatgpt/)\n-------------------------------------------------------------------------------------------------\n\n19 May 2024\n\n[![Image 466](https://datadrivenconstruction.io/wp-content/uploads/2024/05/Pandas-ChatGPT-1.png.webp)](https://datadrivenconstruction.io/2024/05/big-data-in-construction-2/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/05/Pandas-ChatGPT-1.png)[](https://datadrivenconstruction.io/2024/05/big-data-in-construction-2/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[Big Data in Construction](https://datadrivenconstruction.io/2024/05/big-data-in-construction-2/)\n-------------------------------------------------------------------------------------------------\n\n24 February 2024\n\n[![Image 467](https://datadrivenconstruction.io/wp-content/uploads/2024/02/CO2-carpon-bim-cad-1.png.webp)](https://datadrivenconstruction.io/2024/02/co2-estimation-and-calculation/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/CO2-carpon-bim-cad-1.png)[](https://datadrivenconstruction.io/2024/02/co2-estimation-and-calculation/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[CO2 estimation and calculation](https://datadrivenconstruction.io/2024/02/co2-estimation-and-calculation/)\n-----------------------------------------------------------------------------------------------------------\n\n24 February 2024\n\n[![Image 468](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Estimating-Calculations.png.webp)](https://datadrivenconstruction.io/2024/02/estimating-calculations/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/Estimating-Calculations.png)[](https://datadrivenconstruction.io/2024/02/estimating-calculations/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[Estimating Calculations](https://datadrivenconstruction.io/2024/02/estimating-calculations/)\n---------------------------------------------------------------------------------------------\n\n2 August 2023\n\n[![Image 469](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Install-Jupyter-Notebook-5.png.webp)](https://datadrivenconstruction.io/2023/08/install-jupyter-notebook-2/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2023/08/Install-Jupyter-Notebook-5.png)[](https://datadrivenconstruction.io/2023/08/install-jupyter-notebook-2/)\n\nCategories\n\n*   [Data Conversion](https://datadrivenconstruction.io/category/pipelines/data-conversion/)\n*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[Install Jupyter Notebook](https://datadrivenconstruction.io/2023/08/install-jupyter-notebook-2/)\n-------------------------------------------------------------------------------------------------\n\n24 February 2024\n\n[![Image 470](https://datadrivenconstruction.io/wp-content/uploads/2024/02/PDF-to-Excel.png.webp)](https://datadrivenconstruction.io/2024/02/construction-schedules/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2024/02/PDF-to-Excel.png)[](https://datadrivenconstruction.io/2024/02/construction-schedules/)\n\nCategories\n\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n*   [Uncategorized](https://datadrivenconstruction.io/category/uncategorized/)\n\n[Construction schedules](https://datadrivenconstruction.io/2024/02/construction-schedules/)\n-------------------------------------------------------------------------------------------\n\n1 August 2023\n\n[![Image 471](https://datadrivenconstruction.io/wp-content/uploads/2023/08/AutoCAD-to-table.png.webp)](https://datadrivenconstruction.io/2023/08/autocad-dwg-to-excel-table-converter/)\n\n[](https://datadrivenconstruction.io/wp-content/uploads/2023/08/AutoCAD-to-table.png)[](https://datadrivenconstruction.io/2023/08/autocad-dwg-to-excel-table-converter/)\n\nCategories\n\n*   [Data Management](https://datadrivenconstruction.io/category/pipelines/data-management/)\n*   [Data Processing and Export](https://datadrivenconstruction.io/category/pipelines/data-processing-and-export/)\n*   [Main Page](https://datadrivenconstruction.io/category/main-page/)\n\n[DWG AutoCAD to Excel Converter](https://datadrivenconstruction.io/2023/08/autocad-dwg-to-excel-table-converter/)\n-----------------------------------------------------------------------------------------------------------------\n\n**Open Data** Means **Open Solutions**\n======================================\n\n### Harness the power of GitHub to bring transparency and flexibility to your processes\n\n[![Image 472](https://datadrivenconstruction.io/wp-content/uploads/2024/08/GitHub-DataDrivenConstruction-DDC-1.png.webp)](https://github.com/datadrivenconstruction)\n\n[](https://github.com/datadrivenconstruction)\n\n[![Image 473](https://datadrivenconstruction.io/wp-content/uploads/2024/11/GitHub-Solutions-for-Construction.png.webp)](https://github.com/datadrivenconstruction)\n\n[](https://github.com/datadrivenconstruction)\n\n![Image 474](https://datadrivenconstruction.io/wp-content/uploads/2023/07/Design-ohne-Titel-9-300x200.png.webp)\n\n### Fresh solutions are also published via our social channels\n\n[](https://www.linkedin.com/company/data-driven-construction)\n\n[](https://twitter.com/datadrivenconst)\n\n[](https://www.youtube.com/@datadrivenconstruction)\n\n[](https://t.me/datadrivenconstruction)\n\n### Stay updated: news and insights\n\nEmail \n\n**GET STARTED TODAY**\n=====================\n\n###  Experience the DDC software  \nwithout any limitations for free.  \nNo obligations, no need for a credit card\n\n[START WORKING WITH DATA FOR FREE](https://datadrivenconstruction.io/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/)\n\n#### Customer-centric approach\n\n![Image 475](https://datadrivenconstruction.io/wp-content/uploads/2024/04/customer-centric-approach.png.webp)\n\n#### Validation and Proof of Concept\n\n![Image 476](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Describe-your-task.png.webp)\n\n#### Payment upon completion\n\n![Image 477](https://datadrivenconstruction.io/wp-content/uploads/2024/04/Complete-the-work-you-will-have-the-opportunity.png.webp)\n\n[![Image 478](https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png.webp)](https://datadrivenconstruction.io/index.php/contact-support/)\n\n[](https://datadrivenconstruction.io/index.php/contact-support/)\n\n[Custom solutions and services](https://datadrivenconstruction.io/contact-support/)\n\n### Feel free to contact us\n\nGreater Karlsruhe Area.  \nObergrombacher Str. 31, 76646 Bruchsal\n\n*   +49 (0) 15258901584\n*   [info@datadrivenconstruction.io](https://opendatabim.io/ma)\n\nSubscribe to our news\n---------------------\n\n[](https://linkedin.com/company/datadrivenconstruction)\n\n[](https://twitter.com/datadrivenconst)\n\n[](https://www.youtube.com/@datadrivenconstruction)\n\n[](https://t.me/datadrivenconstruction)\n\n16 January 2025\n\n![Image 479](https://datadrivenconstruction.io/wp-content/uploads/2025/01/data-driven-construction.io_-1.png)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [🚀 New Version of Free offline Revit® 2015-2024 Converter is Out!](https://datadrivenconstruction.io/2025/01/%f0%9f%9a%80-new-version-of-free-offline-revit-2015-2024-converter-is-out/)\n\n7 January 2025\n\n![Image 480](https://datadrivenconstruction.io/wp-content/uploads/2025/01/CAD-BIM-Bubble-33.jpg)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [Die Welt nach BIM. Braucht das Baugewerbe Semantik, Formate und Interoperabilität, wenn es um Daten und Prozesse geht?](https://datadrivenconstruction.io/2025/01/die-welt-nach-bim-braucht-das-baugewerbe-semantik-formate-und-interoperabilitat-wenn-es-um-daten-und-prozesse-geht/)\n\n7 January 2025\n\n![Image 481](https://datadrivenconstruction.io/wp-content/uploads/2024/12/4-2.jpg)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [El mundo post-BIM. Pasando a los datos y los procesos, ¿necesita el sector de la construcción semántica, formatos e interoperabilidad?](https://datadrivenconstruction.io/2025/01/el-mundo-post-bim-pasando-a-los-datos-y-los-procesos-necesita-el-sector-de-la-construccion-semantica-formatos-e-interoperabilidad/)\n\n27 December 2024\n\n![Image 482](https://datadrivenconstruction.io/wp-content/uploads/2024/12/3-3.jpg)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [后 BIM 世界。向数据和流程过渡，建筑行业是否需要语义、格式和互操作性](https://datadrivenconstruction.io/2024/12/%e5%90%8e-bim-%e4%b8%96%e7%95%8c%e3%80%82%e5%90%91%e6%95%b0%e6%8d%ae%e5%92%8c%e6%b5%81%e7%a8%8b%e8%bf%87%e6%b8%a1%ef%bc%8c%e5%bb%ba%e7%ad%91%e8%a1%8c%e4%b8%9a%e6%98%af%e5%90%a6%e9%9c%80%e8%a6%81/)\n\n19 December 2024\n\n![Image 483](https://datadrivenconstruction.io/wp-content/uploads/2024/12/5-2.jpg)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [The post-BIM world. Transition to data and processes and whether the construction industry needs semantics, formats and interoperability](https://datadrivenconstruction.io/2024/12/the-post-bim-world-transition-to-data-and-processes-and-whether-the-construction-industry-needs-semantics-formats-and-interoperability/) \n\n17 December 2024\n\n![Image 484](https://datadrivenconstruction.io/wp-content/uploads/2024/12/Semantic-Web.png.webp)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [🌑 Why Semantic Ontology and IFC May Not Be the Future of Construction](https://datadrivenconstruction.io/2024/12/%f0%9f%8c%91-why-semantic-ontology-and-ifc-may-not-be-the-future-of-construction/)\n\n3 December 2024\n\n![Image 485](https://datadrivenconstruction.io/wp-content/uploads/2024/12/IFC-to-USD-18.jpg)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [Das Zeitalter des Wandels: IFC gehört der Vergangenheit an oder warum ADSK und andere CAD-Anbieter bereit sind, IFC für USD aufzugeben — 14 wichtige Fakten](https://datadrivenconstruction.io/2024/12/das-zeitalter-des-wandels-ifc-gehort-der-vergangenheit-an-oder-warum-ads-und-andere-cad-anbieter-bereit-sind-ifc-fur-usd-aufzugeben-14-wichtige-fakten/)\n\n24 November 2024\n\n![Image 486](https://datadrivenconstruction.io/wp-content/uploads/2024/12/IFC-to-USD-17.jpg)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [The Age of Change: IFC is a thing of the past or why CAD vendors are willing to give up IFC for USD in 14 key facts](https://datadrivenconstruction.io/2024/11/%f0%9f%9a%80-major-update-ddc-free-revit-converter-expands-capabilities-revit-2004-and-selecting-the-speed-and-completeness-of-conversion-4289/)\n\n20 November 2024\n\n![Image 487](https://datadrivenconstruction.io/wp-content/uploads/2024/11/Revit-2015-Revit-2024-2.jpg.webp)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [🚀 Major update: DDC Free Revit Converter expands capabilities! Revit 2004 and selecting the speed and completeness of conversion.](https://datadrivenconstruction.io/2024/11/%f0%9f%9a%80-major-update-ddc-free-revit-converter-expands-capabilities-revit-2004-and-selecting-the-speed-and-completeness-of-conversion/)\n\n7 November 2024\n\n![Image 488](https://datadrivenconstruction.io/wp-content/uploads/2024/11/3.png.webp)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [Is interoperability a goal or an illusion?](https://datadrivenconstruction.io/2024/11/is-interoperability-a-goal-or-an-illusion/)\n\n28 October 2024\n\n![Image 489](https://datadrivenconstruction.io/wp-content/uploads/2024/10/Database-AI-CAD-BIM.png.webp)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [🚨 The AI LLM Revolution is Here: Adapt or Get Left Behind](https://datadrivenconstruction.io/2024/10/%f0%9f%9a%a8-the-ai-llm-revolution-is-here-adapt-or-get-left-behind/)\n\n24 October 2024\n\n![Image 490](https://datadrivenconstruction.io/wp-content/uploads/2024/10/1728461171779.jpg.webp)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [🚀 We are entering the era of BIM Level 3—noBIM.](https://datadrivenconstruction.io/2024/10/%f0%9f%9a%80-we-are-entering-the-era-of-bim-level-3-nobim/)\n\n24 October 2024\n\n![Image 491](https://datadrivenconstruction.io/wp-content/uploads/2024/10/BIM-is-DataBase.png.webp)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [🤔 Is BIM data processing just data analytics in disguise?](https://datadrivenconstruction.io/2024/10/%f0%9f%a4%94-is-bim-data-processing-just-data-analytics-in-disguise/)\n\n30 August 2024\n\n![Image 492](https://datadrivenconstruction.io/wp-content/uploads/2024/08/Check-Data-From-CAD-BIM-.jpg.webp)\n\nCategories\n\n*   [News & Blog](https://datadrivenconstruction.io/category/news-blog/)\n\n### [Revit® and IFC validation in seconds | Streamline Data Validation in CAD BIM Projects](https://datadrivenconstruction.io/2024/08/revit-and-ifc-validation-in-seconds-streamline-data-validation-in-cad-bim-projects/)\n\nRevit and IFC validation in seconds | Streamline Data Validation in CAD BIM Projects 30 Revit Charts with 4 ChatGPT Prompts | Unlock Revit Data for \\[…\\]\n\n[![Image 493: DataDrivenConstruction (2)](https://datadrivenconstruction.io/wp-content/uploads/2023/08/DataDrivenConstruction-2.png#1018.webp)](https://datadrivenconstruction.io/)\n\n[](https://www.linkedin.com/company/98416806)\n\n[](https://twitter.com/datadrivenconst)\n\n[](https://www.youtube.com/@datadrivenconstruction)\n\n[](https://t.me/datadrivenconstruction)\n\nGreater Karlsruhe Area.  \nObergrombacher Str. 31  \n76646 Bruchsal\n\n[Term of use & EULA](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)  \n[Impressum](https://datadrivenconstruction.io/index.php/datenschutz-impressum/)  \n[Datenschutz](https://datadrivenconstruction.io/index.php/datenschutz-impressum/)  \n[Write us](https://datadrivenconstruction.io/index.php/contact-support/)\n\n© 2022 All Rights Reserved | Powered by Data-Driven Construction\n\n[✕](https://opendatabim.io/#)\n\n#### Login\n\nUsername or email \\*\n\nPassword \\*\n\nRemember me   Login\n\n[Lost your password?](https://datadrivenconstruction.io/my-account/lost-password/)\n\n[✕](https://opendatabim.io/#)\n\n### Basket\n\n[Proceed to checkout](https://datadrivenconstruction.io/checkout/)[View basket](https://datadrivenconstruction.io/basket/)\n\n[✕](https://opendatabim.io/#)\n\nDon't miss the new solutions\n----------------------------\n\nEmail \n\n[✕](https://opendatabim.io/#)\n\n[Download DDC Excel Plugin](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=2414)\n\n[✕](https://opendatabim.io/#)\n\n![Image 494](https://datadrivenconstruction.io/wp-content/uploads/2024/08/linux-converter-revit-ifc-autocad-dwg.png.webp)\n\nLinux\n\n![Image 495](https://datadrivenconstruction.io/wp-content/uploads/2024/08/apple-converter-revit-ifc-autocad-dwg.png.webp)\n\nmacOS\n\n### Looking for the Linux or MAC version? Send us a quick message using the button below, and we’ll guide you through the process!\n\n[Get in Touch](https://datadrivenconstruction.io/index.php/contact-support/#writeus)\n\n[✕](https://opendatabim.io/#)\n\n  \n\n### **📥 Download OnePager**\n\nWelcome to DataDrivenConstruction—where data meets innovation in the construction industry. Our One-Pager offers a concise overview of how our data-driven solutions can transform your projects, enhance efficiency, and drive sustainable growth.\n\n[![Image 496](https://datadrivenconstruction.io/wp-content/uploads/2024/09/Download-Onepager-1.png.webp)](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=3911)\n\n[](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=3911)\n\nPDF (16 Mb.)\n\n[![Image 497](https://datadrivenconstruction.io/wp-content/uploads/2024/09/Herunterladen-OnePager-1.png.webp)](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=3984)\n\n[](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=3984)\n\nPDF (15 Mb.)\n\n[✕](https://opendatabim.io/#)\n\n🚀 **Welcome to the future of data in construction!**\n\nYou're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.\n\n![Image 498](https://datadrivenconstruction.io/wp-content/uploads/2024/10/Revit-converter-to-excel-4.gif.webp)\n\nBy downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)\n\n[Start FREE download Revit Converter](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=1682)\n\nStay ahead with the latest updates on converters, tools, AI, LLM  \nand data analytics in construction — **Subscribe now!  \n**\n\nEmail \n\n[✕](https://opendatabim.io/#)\n\n🚀 **Welcome to the future of data in construction!**\n\nYou're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.\n\n![Image 499](https://datadrivenconstruction.io/wp-content/uploads/2024/10/IFC-converter-to-excel-5.gif.webp)\n\nBy downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)\n\n[Start FREE download IFC Converter](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=1685)\n\nStay ahead with the latest updates on converters, tools, AI, LLM  \nand data analytics in construction — **Subscribe now!  \n**\n\nEmail \n\n[✕](https://opendatabim.io/#)\n\n🚀 **Welcome to the future of data in construction!**\n\nYou're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.\n\n![Image 500](https://datadrivenconstruction.io/wp-content/uploads/2024/10/DGN-converter-to-excel-5.gif.webp)\n\nBy downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)\n\n[Start FREE download DGN Converter](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=2177)\n\nStay ahead with the latest updates on converters, tools, AI, LLM  \nand data analytics in construction — **Subscribe now!  \n**\n\nEmail \n\n[✕](https://opendatabim.io/#)\n\n🚀 **Welcome to the future of data in construction!**\n\nYou're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.\n\n![Image 501](https://datadrivenconstruction.io/wp-content/uploads/2024/10/DWG-converter-to-excel-1.gif.webp)\n\nBy downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)\n\n[Start FREE download DWG Converter](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=1726)\n\nStay ahead with the latest updates on converters, tools, AI, LLM  \nand data analytics in construction — **Subscribe now!  \n**\n\nEmail \n\n[✕](https://opendatabim.io/#)\n\n🚀 **Welcome to the future of data in construction!**\n\nYou're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.\n\n![Image 502](https://datadrivenconstruction.io/wp-content/uploads/2024/10/Excel-Converter-DWG-Revit-IFC-3.gif.webp)\n\nBy downloading, you agree to the DDC [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)\n\n[Start FREE download (Office 64bit)](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=2414)\n\n[Start FREE download (Office 32bit)](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=3696)\n\n[✕](https://opendatabim.io/#)\n\n🚀 **Welcome to the future of data in construction!**\n\nYou're taking your first step into the world of open data, working with normalized, structured data—the foundation of data analytics and modern automation tools.\n\n![Image 503](https://datadrivenconstruction.io/wp-content/uploads/2024/10/DWG-converter-to-excel-5.gif.webp)\n\nBy downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)\n\n[Start FREE download DWG Converter](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=1726)\n\nStay ahead with the latest updates on converters, tools, AI, LLM  \nand data analytics in construction — **Subscribe now!  \n**\n\nEmail \n\n[✕](https://opendatabim.io/#)\n\nDataDrivenConstruction offers workshops tested and practiced on global leaders in the construction industry to help your team navigate and leverage the power of data and artificial intelligence in your company's decision making.\n\n#### Reserve your spot now to rethink your  \napproach to decision making!\n\nPlease enable JavaScript in your browser to complete this form.\n\nCompany name \\*\n\nEmail \\*\n\nYou Are In? \n\nWhat Are You Interested In?\n\nSubmit![Image 504: Loading](https://datadrivenconstruction.io/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg)\n\n[✕](https://opendatabim.io/#)\n\n🚀 **Welcome to the future of data in construction!**\n\n![Image 505](https://datadrivenconstruction.io/wp-content/uploads/2024/11/Excel-to-Revit-import.gif.webp)\n\nBy downloading, you agree to the DataDrivenConstruction [terms of use](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)\n\n[FREE download Excel to Revit plugin](https://datadrivenconstruction.io/?sdm_process_download=1&download_id=4250)\n\nStay ahead with the latest updates on converters, tools, AI, LLM  \nand data analytics in construction — **Subscribe now!  \n**\n\nEmail \n\n[✕](https://opendatabim.io/#)\n\nHave a question or need more information? Reach out to us directly!\n\n[Contact Us](https://datadrivenconstruction.io/contact-support/#contact_us)\n\nSchedule a time to discuss your needs with our team.\n\n[Book a Meeting](https://calendly.com/datadrivenconstruction)\n\nTailored sessions to help your team grow — let's plan together!\n\n[Request a Workshop](https://datadrivenconstruction.io/contact-support/#contact_us)\n\n[✕](https://opendatabim.io/#)\n\nHave you attended one of our workshops, read our book, or used our solutions? Share your thoughts with us!\n\nPlease enable JavaScript in your browser to complete this form.\n\nName \\*\n\nFirst\n\nLast\n\nEmail \\*\n\nMessage Name Email \n\nComment or Message\n\nSubmit![Image 506: Loading](https://datadrivenconstruction.io/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg)\n\n![Image 507: Revit, IFC, DGN, DWG Converter. Open Data CAD (BIM) with ChatGPT and Excel](https://datadrivenconstruction.io/wp-content/themes/betheme/images/cookies.png)\n\nThis website uses cookies to improve your experience. By using this website you agree to our [Data Protection Policy](https://opendatabim.io/#).\n\n[Read more](https://datadrivenconstruction.io/datenschutz-impressum/)Accept all\n\n[](javascript:void(0);)\n\n \n\n  \n  \n\nSubscribe now to get free product updates  \nand get free discount coupon code.  \nDon't miss out!\n\nSUBSCRIBE\n\n I agree register a new account\n\n I agree with the [term and condition](https://datadrivenconstruction.io/index.php/term-of-use-and-eula/)\n\nNo, thanks\n\nWe will never spam you, unsubscribe anytime.\n\n                     \n\n×",
+  "usage": {
+    "tokens": 25279
+  }
+}
+```

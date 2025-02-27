@@ -1,0 +1,660 @@
+GitHub - vito24/gatsby-theme-antd-docs: A Gatsby theme helps to build document site like Ant Design quickly.
+===============
+                                           
+
+[Skip to content](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvito24%2Fgatsby-theme-antd-docs%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvito24%2Fgatsby-theme-antd-docs%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=vito24%2Fgatsby-theme-antd-docs) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[vito24](https://github.com/vito24) / **[gatsby-theme-antd-docs](https://github.com/vito24/gatsby-theme-antd-docs)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fvito24%2Fgatsby-theme-antd-docs) You must be signed in to change notification settings
+*   [Fork 2](https://github.com/login?return_to=%2Fvito24%2Fgatsby-theme-antd-docs)
+*   [Star 21](https://github.com/login?return_to=%2Fvito24%2Fgatsby-theme-antd-docs)
+    
+
+A Gatsby theme helps to build document site like Ant Design quickly.
+
+[vito24.github.io/gatsby-theme-antd-docs](https://vito24.github.io/gatsby-theme-antd-docs "https://vito24.github.io/gatsby-theme-antd-docs")
+
+### License
+
+[MIT license](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/LICENSE)
+
+[21 stars](https://github.com/vito24/gatsby-theme-antd-docs/stargazers) [2 forks](https://github.com/vito24/gatsby-theme-antd-docs/forks) [Branches](https://github.com/vito24/gatsby-theme-antd-docs/branches) [Tags](https://github.com/vito24/gatsby-theme-antd-docs/tags) [Activity](https://github.com/vito24/gatsby-theme-antd-docs/activity)
+
+[Star](https://github.com/login?return_to=%2Fvito24%2Fgatsby-theme-antd-docs)
+
+[Notifications](https://github.com/login?return_to=%2Fvito24%2Fgatsby-theme-antd-docs) You must be signed in to change notification settings
+
+*   [Code](https://github.com/vito24/gatsby-theme-antd-docs)
+*   [Issues 0](https://github.com/vito24/gatsby-theme-antd-docs/issues)
+*   [Pull requests 1](https://github.com/vito24/gatsby-theme-antd-docs/pulls)
+*   [Actions](https://github.com/vito24/gatsby-theme-antd-docs/actions)
+*   [Projects 0](https://github.com/vito24/gatsby-theme-antd-docs/projects)
+*   [Security](https://github.com/vito24/gatsby-theme-antd-docs/security)
+*   [Insights](https://github.com/vito24/gatsby-theme-antd-docs/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/vito24/gatsby-theme-antd-docs)
+*   [Issues](https://github.com/vito24/gatsby-theme-antd-docs/issues)
+*   [Pull requests](https://github.com/vito24/gatsby-theme-antd-docs/pulls)
+*   [Actions](https://github.com/vito24/gatsby-theme-antd-docs/actions)
+*   [Projects](https://github.com/vito24/gatsby-theme-antd-docs/projects)
+*   [Security](https://github.com/vito24/gatsby-theme-antd-docs/security)
+*   [Insights](https://github.com/vito24/gatsby-theme-antd-docs/pulse)
+
+vito24/gatsby-theme-antd-docs
+=============================
+
+  
+
+ master
+
+[**3** Branches](https://github.com/vito24/gatsby-theme-antd-docs/branches)[**4** Tags](https://github.com/vito24/gatsby-theme-antd-docs/tags)
+
+[](https://github.com/vito24/gatsby-theme-antd-docs/branches)[](https://github.com/vito24/gatsby-theme-antd-docs/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 2: vito24](https://avatars.githubusercontent.com/u/13133596?v=4&size=40)](https://github.com/vito24)[vito24](https://github.com/vito24/gatsby-theme-antd-docs/commits?author=vito24)
+
+[docs: update example](https://github.com/vito24/gatsby-theme-antd-docs/commit/48451abdf6da9e9adc8b08ec847119045a1208d9)
+
+Jul 27, 2020
+
+[48451ab](https://github.com/vito24/gatsby-theme-antd-docs/commit/48451abdf6da9e9adc8b08ec847119045a1208d9) · Jul 27, 2020
+
+History
+-------
+
+[13 Commits](https://github.com/vito24/gatsby-theme-antd-docs/commits/master/)
+
+[](https://github.com/vito24/gatsby-theme-antd-docs/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[example](https://github.com/vito24/gatsby-theme-antd-docs/tree/master/example "example")
+
+
+
+
+
+
+
+ | 
+
+[example](https://github.com/vito24/gatsby-theme-antd-docs/tree/master/example "example")
+
+
+
+
+
+
+
+ | 
+
+[docs: update example](https://github.com/vito24/gatsby-theme-antd-docs/commit/48451abdf6da9e9adc8b08ec847119045a1208d9 "docs: update example")
+
+
+
+ | 
+
+Jul 27, 2020
+
+ |
+| 
+
+[gatsby-theme-antd-docs](https://github.com/vito24/gatsby-theme-antd-docs/tree/master/gatsby-theme-antd-docs "gatsby-theme-antd-docs")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-theme-antd-docs](https://github.com/vito24/gatsby-theme-antd-docs/tree/master/gatsby-theme-antd-docs "gatsby-theme-antd-docs")
+
+
+
+
+
+
+
+ | 
+
+[v0.1.3](https://github.com/vito24/gatsby-theme-antd-docs/commit/997977c484733747ee69285058b6fe3159dfb4ec "v0.1.3")
+
+
+
+ | 
+
+Sep 16, 2019
+
+ |
+| 
+
+[www](https://github.com/vito24/gatsby-theme-antd-docs/tree/master/www "www")
+
+
+
+
+
+
+
+ | 
+
+[www](https://github.com/vito24/gatsby-theme-antd-docs/tree/master/www "www")
+
+
+
+
+
+
+
+ | 
+
+[docs: update example](https://github.com/vito24/gatsby-theme-antd-docs/commit/48451abdf6da9e9adc8b08ec847119045a1208d9 "docs: update example")
+
+
+
+ | 
+
+Jul 27, 2020
+
+ |
+| 
+
+[.gitignore](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[initial commit](https://github.com/vito24/gatsby-theme-antd-docs/commit/da82b010f0764c5de9fa854d92f16560092f1e47 "initial commit")
+
+
+
+ | 
+
+Aug 30, 2019
+
+ |
+| 
+
+[LICENSE](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Create LICENSE](https://github.com/vito24/gatsby-theme-antd-docs/commit/2ab2da7915caedcdb9ecd11eeda13161dc2e6045 "Create LICENSE")
+
+
+
+ | 
+
+Sep 4, 2019
+
+ |
+| 
+
+[README-zh\_CN.md](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/README-zh_CN.md "README-zh_CN.md")
+
+
+
+
+
+
+
+ | 
+
+[README-zh\_CN.md](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/README-zh_CN.md "README-zh_CN.md")
+
+
+
+
+
+
+
+ | 
+
+[initial commit](https://github.com/vito24/gatsby-theme-antd-docs/commit/da82b010f0764c5de9fa854d92f16560092f1e47 "initial commit")
+
+
+
+ | 
+
+Aug 30, 2019
+
+ |
+| 
+
+[README.md](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[initial commit](https://github.com/vito24/gatsby-theme-antd-docs/commit/da82b010f0764c5de9fa854d92f16560092f1e47 "initial commit")
+
+
+
+ | 
+
+Aug 30, 2019
+
+ |
+| 
+
+[package.json](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[initial commit](https://github.com/vito24/gatsby-theme-antd-docs/commit/da82b010f0764c5de9fa854d92f16560092f1e47 "initial commit")
+
+
+
+ | 
+
+Aug 30, 2019
+
+ |
+| 
+
+[yarn.lock](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[docs: update example](https://github.com/vito24/gatsby-theme-antd-docs/commit/48451abdf6da9e9adc8b08ec847119045a1208d9 "docs: update example")
+
+
+
+ | 
+
+Jul 27, 2020
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#)
+*   [MIT license](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#)
+
+gatsby-theme-antd-docs
+======================
+
+[](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#gatsby-theme-antd-docs)
+
+This is a [Gatsby](https://www.gatsbyjs.org/) theme to build document site like [Ant Design](https://ant.design/) quickly.
+
+English | [简体中文](https://github.com/vito24/gatsby-theme-antd-docs/blob/master/README-zh_CN.md)
+
+Why this repo
+-------------
+
+[](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#why-this-repo)
+
+[Ant Design](https://ant.design/) has a set of high-quality React components out of the box, and its website is also very simple and beautiful, very suitable for use as a document site. So，based on this code of [Ant Design](https://ant.design/) and [Ant Design Pro](https://pro.ant.design/) , i created this repo.
+
+Thanks to the team of [Ant Design](https://ant.design/) for bringing us such excellent open source project!
+
+Features
+--------
+
+[](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#features)
+
+*   Awesome UI based on Ant Design.
+*   Write markdown files, generate pages automatically.
+*   Online preview jsx code in markdown.
+
+Install
+-------
+
+[](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#install)
+
+```shell
+yarn add gatsby-theme-antd-docs
+```
+
+Then add the theme to your `gatsby-config.js`.
+
+```js
+module.exports = {
+  plugins: ['gatsby-theme-antd-docs']
+}
+```
+
+View example locally
+--------------------
+
+[](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#view-example-locally)
+
+```shell
+yarn install
+yarn workspace example start
+```
+
+Open your browser and visit [http://127.0.0.1:8000](http://127.0.0.1:8000/).
+
+Links
+-----
+
+[](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#links)
+
+*   [Gatsby](https://www.gatsbyjs.org/)
+*   [Ant Design](http://ant.design/)
+*   [Ant Design Pro](http://pro.ant.design/)
+
+About
+-----
+
+A Gatsby theme helps to build document site like Ant Design quickly.
+
+[vito24.github.io/gatsby-theme-antd-docs](https://vito24.github.io/gatsby-theme-antd-docs "https://vito24.github.io/gatsby-theme-antd-docs")
+
+### Topics
+
+[docs](https://github.com/topics/docs "Topic: docs") [gatsby](https://github.com/topics/gatsby "Topic: gatsby") [ant-design](https://github.com/topics/ant-design "Topic: ant-design") [gatsby-theme](https://github.com/topics/gatsby-theme "Topic: gatsby-theme") [reaact](https://github.com/topics/reaact "Topic: reaact")
+
+### Resources
+
+[Readme](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/vito24/gatsby-theme-antd-docs?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/vito24/gatsby-theme-antd-docs/activity)
+
+### Stars
+
+[**21** stars](https://github.com/vito24/gatsby-theme-antd-docs/stargazers)
+
+### Watchers
+
+[**2** watching](https://github.com/vito24/gatsby-theme-antd-docs/watchers)
+
+### Forks
+
+[**2** forks](https://github.com/vito24/gatsby-theme-antd-docs/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fvito24%2Fgatsby-theme-antd-docs&report=vito24+%28user%29)
+
+[Releases](https://github.com/vito24/gatsby-theme-antd-docs/releases)
+---------------------------------------------------------------------
+
+[4 tags](https://github.com/vito24/gatsby-theme-antd-docs/tags)
+
+[Packages 0](https://github.com/users/vito24/packages?repo_name=gatsby-theme-antd-docs)
+---------------------------------------------------------------------------------------
+
+No packages published  
+
+Languages
+---------
+
+*   [JavaScript 76.1%](https://github.com/vito24/gatsby-theme-antd-docs/search?l=javascript)
+*   [CSS 23.9%](https://github.com/vito24/gatsby-theme-antd-docs/search?l=css)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

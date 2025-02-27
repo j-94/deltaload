@@ -1,0 +1,392 @@
+Skip to content
+Navigation Menu
+Product
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+chakra-ui
+/
+chakra-ui
+Public
+ Sponsor
+Notifications
+Fork 3.3k
+ Star 38.4k
+Code
+Issues
+6
+Pull requests
+4
+Discussions
+Actions
+Projects
+Wiki
+Security
+chakra-ui/chakra-ui
+ main
+Code
+Folders and files
+Name	Last commit message	Last commit date
+
+Latest commit
+segunadebayo
+refactor(native-select): use explicit bg for options
+6773708
+ · 
+History
+10,355 Commits
+
+
+.changelog
+	
+chore: update changelog
+	
+
+
+.changeset
+	
+refactor(native-select): use explicit bg for options
+	
+
+
+.github
+	
+chore(.github): update action version in workflow files (#9444)
+	
+
+
+.husky
+	
+chore: updte husky setup
+	
+
+
+.storybook
+	
+chore: update logo in storybook
+	
+
+
+.vscode
+	
+refactor: unify alert stories
+	
+
+
+apps
+	
+docs: add presence
+	
+
+
+media
+	
+chore: update readme
+	
+
+
+packages
+	
+refactor(native-select): use explicit bg for options
+	
+
+
+sandbox
+	
+chore: bump deps
+	
+
+
+scripts
+	
+ci: update slack script
+	
+
+
+.all-contributorsrc
+	
+docs: add vadimdemedes as a contributor for code (#7597)
+	
+
+
+.commitlintrc
+	
+docs: ui updates
+	
+
+
+.eslintignore
+	
+chore: move color-mode to package
+	
+
+
+.eslintrc
+	
+fix: tsconfig + eslint parser
+	
+
+
+.gitignore
+	
+chore: add storybook sandbox
+	
+
+
+.lintstagedrc
+	
+feat(v3): redesign styled system (#8312)
+	
+
+
+.npmrc
+	
+Update Entrypoints (#6369)
+	
+
+
+.nvmrc
+	
+chore(.nvmrc): update node version to 22 (#9445)
+	
+
+
+.prettierignore
+	
+perf(tsc): speed up autocompletion
+	
+
+
+.prettierrc
+	
+feat(v3): redesign styled system (#8312)
+	
+
+
+CODE_OF_CONDUCT.md
+	
+docs: update code of conduct
+	
+
+
+CONTRIBUTING.md
+	
+docs: update contributing guidelines
+	
+
+
+LICENSE
+	
+Create LICENSE
+	
+
+
+README.md
+	
+[README] Add proper links to npm and github badges (#9307)
+	
+
+
+package.json
+	
+chore: bump deps
+	
+
+
+pnpm-lock.yaml
+	
+chore: bump ark-ui
+	
+
+
+pnpm-workspace.yaml
+	
+chore: mv examples -> sandbox
+	
+
+
+renovate.json
+	
+feat: panda preset for chakra (#9430)
+	
+
+
+tsconfig.build.json
+	
+feat(v3): Let there be ark (#8393)
+	
+
+
+tsconfig.json
+	
+feat: add link button composition
+	
+
+
+vite.config.ts
+	
+(v3) chore: remove utils package (#8829)
+	
+
+
+vitest.setup.ts
+	
+feat(v3): Let there be ark (#8393)
+	
+Repository files navigation
+README
+Code of conduct
+MIT license
+
+Build Accessible React Apps with Speed ⚡️
+
+
+
+     
+
+
+
+
+Chakra UI is a component system for building products with speed. Accessible React components for building high-quality web apps and design systems. Works with Next.js RSC
+
+Documentation
+
+It's the https://chakra-ui.com website for the latest version of Chakra UI.
+
+Latest: https://chakra-ui.com
+v2: https://v2.chakra-ui.com
+v1: https://v1.chakra-ui.com
+v0: https://v0.chakra-ui.com
+Installation
+
+To use Chakra UI components, all you need to do is install the @chakra-ui/react package and its peer dependencies:
+
+# with Yarn
+$ yarn add @chakra-ui/react @emotion/react
+
+# with npm
+$ npm i @chakra-ui/react @emotion/react
+
+# with pnpm
+$ pnpm add @chakra-ui/react @emotion/react
+
+# with Bun
+$ bun add @chakra-ui/react @emotion/react
+Usage
+
+Read the docs here: https://www.chakra-ui.com/docs/get-started/installation
+
+Contributing
+
+Read the contribution guide here: https://www.chakra-ui.com/docs/get-started/contributing
+
+Support Chakra UI
+Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [Contribute]
+
+         
+
+Individuals
+
+By donating $5 or more you can support the ongoing development of this project. We'll appreciate some support. Thank you to all our supporters! 🙏 [Contribute]
+
+Testimonials
+
+People throw React component libraries and design systems at me regularly. This might be the best one I've seen. The APIs are simple but composable and the accessibility on the couple components I looked is complete.
+
+Great work @thesegunadebayo, really inspiring work. – Ryan Florence
+
+Awesome new open-source component library from @thesegunadebayo. Really impressive stuff! – Colm Tuite
+
+This is incredible work. Amazing job Segun! – Lee Robinson
+
+Chakra UI is glorious! I love the consistent use of focus styling and the subtle animation – Guillermo ▲
+
+Awards and Mentions
+
+We've been extremely humbled to receive awards and mentions from the community for all the innovation and reach Chakra UI brings to the JavaScript ecosystem.
+
+	
+Solution Worth Pursuing
+
+Technology Radar (2020–2021)
+
+
+	
+The Most Impactful Contribution to the community
+
+Open Source Awards (2020)
+
+License
+
+MIT © Segun Adebayo
+
+About
+
+Chakra UI is a component system for building products with speed ⚡️
+
+chakra-ui.com
+Topics
+react component reactjs uikit a11y react-components css-in-js accessible wai-aria ui-components styled dark-mode design-system ui-library chakra-ui ark-ui
+Resources
+ Readme
+License
+ MIT license
+Code of conduct
+ Code of conduct
+ Activity
+ Custom properties
+Stars
+ 38.4k stars
+Watchers
+ 202 watching
+Forks
+ 3.3k forks
+Report repository
+
+
+Releases 3,419
+@chakra-ui/react@3.4.0
+Latest
++ 3,418 releases
+
+
+Sponsor this project
+patreon.com/segunadebayo
+opencollective.com/chakra-ui
+
+
+Used by 354k
++ 354,165
+
+
+Contributors
+671
++ 657 contributors
+
+
+Languages
+TypeScript
+82.7%
+ 
+MDX
+16.4%
+ 
+Other
+0.9%
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information

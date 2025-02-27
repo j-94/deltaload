@@ -1,0 +1,61 @@
+### Installation Instructions
+
+Rhino 8
+
+1.  Run the PackageManager command in Rhino 8
+    
+2.  Look for PlanFinder
+    
+3.  Install PlanFinder
+    
+4.  Restart Rhino
+    
+
+![Image 11: logo_rhino_rounded.png](https://static.wixstatic.com/media/8c8caa_75de78adff704df59a533cee73f12c6e~mv2.png/v1/fill/w_74,h_74,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo_rhino_rounded.png)
+
+Rhino 7
+
+1.  Unzip the PlanFinder.zip package
+    
+2.  Run the planfinder.rhi installer, found at PlanFinder/PlanFinderRhino
+    
+3.  Restart Rhino
+    
+
+![Image 12: logo_rhino_rounded.png](https://static.wixstatic.com/media/8c8caa_75de78adff704df59a533cee73f12c6e~mv2.png/v1/fill/w_74,h_74,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo_rhino_rounded.png)
+
+Grasshopper
+
+1.  Right-click on the PlanFinder.zip, go to Properties -\> Unblock -\> Apply
+    
+2.  Unzip the PlanFinder.zip package
+    
+3.  Open Grasshopper
+    
+4.  Go to File-\>Special Folders-\>Components Folder
+    
+5.  Move the entire PlanFinderGH folder into the components folder
+    
+6.  Start Rhino
+    
+7.  Run the "GrasshopperDeveloperSettings" command in Rhino and turn off "Memory load \*.GHA assemblies using COFF byte arrays"
+    
+8.  Start Grasshopper
+    
+
+![Image 13: logo_gh_rounded.png](https://static.wixstatic.com/media/8c8caa_8ea159975ebf4c5da315a69d74abaacc~mv2.png/v1/fill/w_74,h_74,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo_gh_rounded.png)
+
+Revit
+
+1.  Right-click on the PlanFinder.zip, go to Properties -\> Unblock -\> Apply
+    
+2.  Unzip the PlanFinder.zip package
+    
+3.  Close Revit
+    
+4.  Run PlanFinder.exe, found at PlanFinder/PlanFinderRevit
+    
+5.  Restart Revit
+    
+
+![Image 14: revit_logo_rounded.png](https://static.wixstatic.com/media/8c8caa_5ac3ae7943a640b28678541d920cb894~mv2.png/v1/fill/w_74,h_74,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/revit_logo_rounded.png)

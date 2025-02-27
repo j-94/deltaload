@@ -1,0 +1,378 @@
+---
+title: Exploratory Data Analysis with Python Jupyter Notebook | Medium
+description: Exploratory Data Analysis with Python Jupyter Notebook: A tutorial on how to perform exploratory data analysis (EDA) in Jupyter Notebook, covering data cleaning, data preprocessing & data visualization techniques.
+url: https://medium.com/@techlatest.net/exploratory-data-analysis-with-python-jupyter-notebook-a-tutorial-on-how-to-perform-exploratory-5a800791b04f
+timestamp: 2025-01-20T15:57:08.692Z
+domain: medium.com
+path: @techlatest.net_exploratory-data-analysis-with-python-jupyter-notebook-a-tutorial-on-how-to-perform-exploratory-5a800791b04f
+---
+
+# Exploratory Data Analysis with Python Jupyter Notebook | Medium
+
+
+Exploratory Data Analysis with Python Jupyter Notebook: A tutorial on how to perform exploratory data analysis (EDA) in Jupyter Notebook, covering data cleaning, data preprocessing & data visualization techniques.
+
+
+## Content
+
+Exploratory Data Analysis with Python Jupyter Notebook: A tutorial on how to perform exploratory data analysis (EDA) in Jupyter Notebook, covering data cleaning, data preprocessing & data visualization techniques.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Image 47: TechLatest.Net](https://miro.medium.com/v2/resize:fill:88:88/1*xOBbyuD18ga2LHk7i9KRsA.jpeg)](https://medium.com/@techlatest.net?source=post_page---byline--5a800791b04f--------------------------------)
+
+![Image 48](https://miro.medium.com/v2/resize:fit:700/1*-INp00ZDUaefc0ed-lgl0A.png)
+
+Introduction
+------------
+
+Exploratory data analysis is an important first step when working with any new data. It allows us to get familiar with the data, identify any issues or anomalies, and gain insights that help guide the rest of the analysis process.
+
+In this blog post, I will walk through performing exploratory data analysis in Python using Jupyter Notebook.
+
+Importing the Data
+------------------
+
+The first step is to import the data into your Jupyter Notebook. For Example, We will use the Numpy, Pandas, Seaborn & other libraries to read the data into a DataFrame.
+
+For example, if your data is in a CSV file, you can import it like this:
+
+  import pandas as pddf = pd.read\_csv("data.csv")
+
+Data Cleaning
+-------------
+
+Once the data is imported, the next step is to clean the data. This includes:
+
+*   Handling missing values  
+    We can check for null values using `.isnull()` and fill them in using `.fillna()`
+*   Removing duplicates  
+    We can use `.drop_duplicates()`
+*   Converting data types  
+    Using `.astype()`
+
+Here are the key steps for data cleaning in exploratory data analysis:
+----------------------------------------------------------------------
+
+Handle missing values
+---------------------
+
+This is one of the most common issues with real-world data. You can handle missing values in a few ways:
+
+*   Drop rows with missing values
+*   Fill in missing values with the mean, median, or mode of the column
+*   Fill in missing values with a constant value (like 0)
+
+The approach you take depends on the nature of the data and your analysis goals.
+
+Remove duplicates
+-----------------
+
+Duplicate rows can skew your analysis, so it’s important to identify and remove them. You can use pandas .duplicated() and .drop\_duplicates() methods.
+
+Check for outliers
+------------------
+
+Outliers can significantly impact your results, so you’ll want to identify them and either remove them or handle them appropriately. You can use box plots, histograms, and z-scores to find outliers.
+
+Correct data types
+------------------
+
+Ensure all columns have the correct data type (string, integer, float, boolean, etc.). You may need to convert some columns using .astype().
+
+Fix inconsistent data
+---------------------
+
+Look for inconsistencies in the data, like spelling variations, different formats, etc., and standardize the data.
+
+Address class imbalance (if relevant)
+-------------------------------------
+
+If you have a target variable with class imbalance, you may need to resample the data to get meaningful results.
+
+Feature engineering
+-------------------
+
+Derive new features from your existing data that might be useful for your analysis. This is an important step for creating an effective model.
+
+Those are the main steps for cleaning your data as part of the exploratory data analysis process.
+
+Data Preprocessing
+------------------
+
+Next, we perform some preprocessing:
+
+*   Renaming columns  
+    Using `.rename()`
+*   Changing column order  
+    Using `.reindex()`
+*   Dropping unnecessary columns
+*   Encoding categorical variables
+
+key steps for data preprocessing in exploratory data analysis:
+--------------------------------------------------------------
+
+Rename columns
+--------------
+
+Give your columns meaningful and consistent names to make the data easier to work with. Use .rename() in pandas.
+
+Reorder columns
+---------------
+
+Put the columns in a logical order so related columns are next to each other. Use .reindex() in pandas.
+
+Drop unnecessary columns
+------------------------
+
+Remove any columns that are not relevant to your analysis. Use .drop() in pandas.
+
+Encode categorical variables
+----------------------------
+
+If you have categorical variables like ‘gender’ or ‘color’, encode them as integers to prepare for modeling. You can use label encoding, one-hot encoding, or target encoding.
+
+Normalize/standardize numeric variables
+---------------------------------------
+
+If you have numeric features on different scales, normalize or standardize them to the same scale. This helps prevent features with larger ranges from dominating.
+
+Impute missing values
+---------------------
+
+Fill in any remaining missing values after your initial data cleaning. You can use mean, median or mode imputation.
+
+Transform skewed variables
+--------------------------
+
+If you have variables with skewed distributions, apply a transformation like a log or square root to make them more normal. This helps many models work best.
+
+Create new features
+-------------------
+
+Derive additional features from your existing data that may be useful for your analysis. This is an important part of feature engineering.
+
+Handle outliers
+---------------
+
+You may choose to cap outliers at a certain value, winsorize them, or remove them, depending on your analysis goals.
+
+**Those are some of the main techniques for preprocessing your data as part of exploratory data analysis. The goal is to transform your raw data into a form that’s easier to analyze and model.**
+
+Data Visualization
+------------------
+
+Now we can visualize the data to gain insights:
+
+*   `.hist()` for histograms
+*   `.plot()` for line plots, scatter plots, etc.
+*   `.value_counts()` to see counts of categorical variables
+*   `.describe()` for summary statistics
+
+Main techniques for data visualization during exploratory data analysis:
+------------------------------------------------------------------------
+
+Histograms
+----------
+
+Use .hist() in pandas to get a visual representation of the distribution of a numeric variable. This can reveal outliers, skewness, and other patterns.
+
+Box plots
+---------
+
+Use .boxplot() in pandas to visualize the distribution through quartiles, extremes, and outliers for a numeric variable.
+
+Scatter plots
+-------------
+
+Use .plot(kind=’scatter’) to visualize the relationship between two numeric variables. This can reveal correlations, clusters, and outliers.
+
+Bar plots
+---------
+
+Use .plot(kind=’bar’) to compare categorical variables or the counts of categorical variables. This gives a quick visual summary.
+
+Line plots
+----------
+
+Use .plot(kind=’line’) to visualize trends over time for time series data.
+
+Pair plots
+----------
+
+Use seaborn pairplot() to visualize the relationships between all variables in a dataset.
+
+Correlation heatmaps
+--------------------
+
+Use a seaborn heatmap() to visualize the correlation between all numeric variables.
+
+Pie charts
+----------
+
+Use .plot(kind=’pie’) to visualize the proportional breakdown of a categorical variable.
+
+Word clouds
+-----------
+
+Generate a word cloud to visualize the most common words in a text column.
+
+Descriptive statistics
+----------------------
+
+Use .describe() to get summary stats like count, mean, standard deviation, minimum, and maximum for numeric columns.
+
+**These techniques help you gain a quick understanding of your data and reveal patterns, outliers, and relationships that you can then investigate further. Data visualization is a critical part of the exploratory data analysis process.**
+
+So we can understand all the above points Importing the Data, Data Cleaning, Data Preprocessing, and Data Visualization from one example:
+
+Demonstration
+-------------
+
+Note
+----
+
+If you are looking to quickly set up and explore **AI/ML & Python Jupyter Notebook Kit**, [**Techlatest.net**](http://techlatest.net/) provides an out-of-the-box setup for **AI/ML & Python Jupyter Notebook Kit** on **AWS, Azure and GCP.** Please follow the below links for the step-by-step guide to set up the **AI/ML & Python Jupyter Notebook Kit** on your choice of cloud platform.
+
+**For AI/ML KIT:** [**AWS**](https://medium.com/@techlatest.net/how-to-get-ai-ml-development-training-inference-using-python-jupyter-kit-on-aws-amazon-web-fbd38fb46a34)**,** [**GCP**](https://medium.com/@techlatest.net/how-to-get-ai-ml-development-training-inference-using-python-jupyter-kit-on-gcp-google-cloud-b30e50354223) **&** [**Azure**](https://medium.com/@techlatest.net/how-to-get-ai-ml-development-training-inference-using-python-jupyter-kit-on-azure-aaca5fd592c5)**.**
+
+Why did you choose [Techlatest.net](https://www.techlatest.net/) VM, AI/ML Kit & Python Jupyter Notebook?
+---------------------------------------------------------------------------------------------------------
+
+*   In-browser editing of code
+*   Ability to run and execute code in various programming languages
+*   Supports rich media outputs like images, videos, charts, etc.
+*   Supports connecting to external data sources
+*   Supports collaborative editing by multiple users
+*   Simple interface to create and manage notebooks
+*   Ability to save and share notebooks
+
+During VM selection “We are selecting GPU instance by going to GPU tab and selecting the desired GPU instance type. GPU instance will give 10 to 15 times better performance compared to equivalent CPU instance, however, GPU instances will have a significantly higher cost, so choose the right instance type for your performance and budget requirement”.
+
+I take all three examples of **AWS, GCP & Azure** for Your Reference.
+
+![Image 49](https://miro.medium.com/v2/resize:fit:700/0*ttBE4xBbqwaovhib.jpeg)
+
+![Image 50](https://miro.medium.com/v2/resize:fit:700/0*_X4XMUYkn32akHvO.jpeg)
+
+![Image 51](https://miro.medium.com/v2/resize:fit:700/0*BbpAEE5K2wkdYrCU.png)
+
+After setup the VM, we can log in to Jupyter Hub, so below you can see step by step guide.
+
+Step 1
+------
+
+This VM comes with the default **Ubuntu** as an admin user. So to access the Web UI and to install additional packages, log in with the **Ubuntu** user and the password you set during the first login to the Jupyter Notebook.
+
+![Image 52](https://miro.medium.com/v2/resize:fit:451/0*XZP2DtxSQPXN28h_.png)
+
+Step 2
+------
+
+Open a Terminal in your **Jupyter Notebook** and enter the below command to install the **there** package using **pip**.
+
+sudo -E pip install there
+
+**Note**: Don’t forget to use **sudo** in the above command.
+
+![Image 53](https://miro.medium.com/v2/resize:fit:700/0*MtpgAOw3RiNuRrc4.png)
+
+![Image 54](https://miro.medium.com/v2/resize:fit:700/0*f_EjMtnX_hOpyrWf.png)
+
+Step 3
+------
+
+Import some libraries.
+
+import numpy as np   
+import pandas as pd   
+import matplotlib.pyplot as plt # visualizing data  
+%matplotlib inline  
+import seaborn as sns
+
+![Image 55](https://miro.medium.com/v2/resize:fit:700/1*h18-1jYJPnspGHShKyeD7g.png)
+
+Step 4
+------
+
+Import the data, if your data is in a CSV file you can import it like this,
+
+\# import csv file  
+df = pd.read\_csv('Diwali Sales Data.csv', encoding= 'unicode\_escape')
+
+![Image 56](https://miro.medium.com/v2/resize:fit:700/1*CPUJkbcL2MaTjjk8j4yDwg.png)
+
+Step 5
+------
+
+Once the data is imported, the next step is to clean the data.
+
+![Image 57](https://miro.medium.com/v2/resize:fit:700/1*m-1MYwJF1LlU3RZwg0zcZg.png)
+
+![Image 58](https://miro.medium.com/v2/resize:fit:700/1*EpafZdfA1GQoWrf0jbCI8Q.png)
+
+![Image 59](https://miro.medium.com/v2/resize:fit:700/1*lJbOuyVPoqBkMrPg6Rt2iQ.png)
+
+![Image 60](https://miro.medium.com/v2/resize:fit:700/1*BQbLzFlNoFicafgZgnIc-Q.png)
+
+Step 6
+------
+
+Next, we perform some preprocessing:
+
+![Image 61](https://miro.medium.com/v2/resize:fit:700/1*Jo7nZ9q7GNZ8WHsguXxNLA.png)
+
+![Image 62](https://miro.medium.com/v2/resize:fit:700/1*4zDqeEx0QqMAiyXR41m1Uw.png)
+
+![Image 63](https://miro.medium.com/v2/resize:fit:700/1*t8Bk6rW5T996iyQ8R959jw.png)
+
+Step 7
+------
+
+Now we can visualize the data to gain insights:
+
+\# plotting a bar chart for Gender and it's countax = sns.countplot(x = 'Gender',data = df)
+
+for bars in ax.containers:  
+    ax.bar\_label(bars)
+
+![Image 64](https://miro.medium.com/v2/resize:fit:700/1*2msrGBonN2RJiG9dG3jNmw.png)
+
+\# plotting a bar chart for gender vs total amountsales\_gen = df.groupby(\['Gender'\], as\_index=False)\['Amount'\].sum().sort\_values(by='Amount', ascending=False)
+
+sns.barplot(x = 'Gender',y= 'Amount' ,data = sales\_gen)
+
+![Image 65](https://miro.medium.com/v2/resize:fit:700/1*9gZfSpa4iUdvZRxFQ8PDhw.png)
+
+From the above graphs, we can see that most of the buyers are females and even the purchasing power of females is greater than men.
+
+Age
+---
+
+ax = sns.countplot(data = df, x = 'Age Group', hue = 'Gender')for bars in ax.containers:  
+    ax.bar\_label(bars)
+
+![Image 66](https://miro.medium.com/v2/resize:fit:700/1*Oc_7nvRVnjsFtAA4VTP8AA.png)
+
+Conclusion
+----------
+
+The blog then provided a demonstration of the above steps using an example dataset, showcasing how to import the data, clean it, preprocess it, and visualize it. Finally, the blog concluded with a brief recommendation for using Techlatest.net’s VM, AI/ML Kit, and Python Jupyter Notebook for setting up an AI/ML development environment.
+
+Overall, the blog aimed to provide a comprehensive overview of the exploratory data analysis process and highlight the importance of each step in understanding and preparing the data for further analysis and modeling.
+
+![Image 67](https://miro.medium.com/v2/resize:fit:500/1*VXiUoUbiGJxy7Obdzz7tQw.gif)
+
+## Metadata
+
+```json
+{
+  "title": "Exploratory Data Analysis with Python Jupyter Notebook | Medium",
+  "description": "Exploratory Data Analysis with Python Jupyter Notebook: A tutorial on how to perform exploratory data analysis (EDA) in Jupyter Notebook, covering data cleaning, data preprocessing & data visualization techniques.",
+  "url": "https://medium.com/@techlatest.net/exploratory-data-analysis-with-python-jupyter-notebook-a-tutorial-on-how-to-perform-exploratory-5a800791b04f",
+  "content": "Exploratory Data Analysis with Python Jupyter Notebook: A tutorial on how to perform exploratory data analysis (EDA) in Jupyter Notebook, covering data cleaning, data preprocessing & data visualization techniques.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n[![Image 47: TechLatest.Net](https://miro.medium.com/v2/resize:fill:88:88/1*xOBbyuD18ga2LHk7i9KRsA.jpeg)](https://medium.com/@techlatest.net?source=post_page---byline--5a800791b04f--------------------------------)\n\n![Image 48](https://miro.medium.com/v2/resize:fit:700/1*-INp00ZDUaefc0ed-lgl0A.png)\n\nIntroduction\n------------\n\nExploratory data analysis is an important first step when working with any new data. It allows us to get familiar with the data, identify any issues or anomalies, and gain insights that help guide the rest of the analysis process.\n\nIn this blog post, I will walk through performing exploratory data analysis in Python using Jupyter Notebook.\n\nImporting the Data\n------------------\n\nThe first step is to import the data into your Jupyter Notebook. For Example, We will use the Numpy, Pandas, Seaborn & other libraries to read the data into a DataFrame.\n\nFor example, if your data is in a CSV file, you can import it like this:\n\n  import pandas as pddf = pd.read\\_csv(\"data.csv\")\n\nData Cleaning\n-------------\n\nOnce the data is imported, the next step is to clean the data. This includes:\n\n*   Handling missing values  \n    We can check for null values using `.isnull()` and fill them in using `.fillna()`\n*   Removing duplicates  \n    We can use `.drop_duplicates()`\n*   Converting data types  \n    Using `.astype()`\n\nHere are the key steps for data cleaning in exploratory data analysis:\n----------------------------------------------------------------------\n\nHandle missing values\n---------------------\n\nThis is one of the most common issues with real-world data. You can handle missing values in a few ways:\n\n*   Drop rows with missing values\n*   Fill in missing values with the mean, median, or mode of the column\n*   Fill in missing values with a constant value (like 0)\n\nThe approach you take depends on the nature of the data and your analysis goals.\n\nRemove duplicates\n-----------------\n\nDuplicate rows can skew your analysis, so it’s important to identify and remove them. You can use pandas .duplicated() and .drop\\_duplicates() methods.\n\nCheck for outliers\n------------------\n\nOutliers can significantly impact your results, so you’ll want to identify them and either remove them or handle them appropriately. You can use box plots, histograms, and z-scores to find outliers.\n\nCorrect data types\n------------------\n\nEnsure all columns have the correct data type (string, integer, float, boolean, etc.). You may need to convert some columns using .astype().\n\nFix inconsistent data\n---------------------\n\nLook for inconsistencies in the data, like spelling variations, different formats, etc., and standardize the data.\n\nAddress class imbalance (if relevant)\n-------------------------------------\n\nIf you have a target variable with class imbalance, you may need to resample the data to get meaningful results.\n\nFeature engineering\n-------------------\n\nDerive new features from your existing data that might be useful for your analysis. This is an important step for creating an effective model.\n\nThose are the main steps for cleaning your data as part of the exploratory data analysis process.\n\nData Preprocessing\n------------------\n\nNext, we perform some preprocessing:\n\n*   Renaming columns  \n    Using `.rename()`\n*   Changing column order  \n    Using `.reindex()`\n*   Dropping unnecessary columns\n*   Encoding categorical variables\n\nkey steps for data preprocessing in exploratory data analysis:\n--------------------------------------------------------------\n\nRename columns\n--------------\n\nGive your columns meaningful and consistent names to make the data easier to work with. Use .rename() in pandas.\n\nReorder columns\n---------------\n\nPut the columns in a logical order so related columns are next to each other. Use .reindex() in pandas.\n\nDrop unnecessary columns\n------------------------\n\nRemove any columns that are not relevant to your analysis. Use .drop() in pandas.\n\nEncode categorical variables\n----------------------------\n\nIf you have categorical variables like ‘gender’ or ‘color’, encode them as integers to prepare for modeling. You can use label encoding, one-hot encoding, or target encoding.\n\nNormalize/standardize numeric variables\n---------------------------------------\n\nIf you have numeric features on different scales, normalize or standardize them to the same scale. This helps prevent features with larger ranges from dominating.\n\nImpute missing values\n---------------------\n\nFill in any remaining missing values after your initial data cleaning. You can use mean, median or mode imputation.\n\nTransform skewed variables\n--------------------------\n\nIf you have variables with skewed distributions, apply a transformation like a log or square root to make them more normal. This helps many models work best.\n\nCreate new features\n-------------------\n\nDerive additional features from your existing data that may be useful for your analysis. This is an important part of feature engineering.\n\nHandle outliers\n---------------\n\nYou may choose to cap outliers at a certain value, winsorize them, or remove them, depending on your analysis goals.\n\n**Those are some of the main techniques for preprocessing your data as part of exploratory data analysis. The goal is to transform your raw data into a form that’s easier to analyze and model.**\n\nData Visualization\n------------------\n\nNow we can visualize the data to gain insights:\n\n*   `.hist()` for histograms\n*   `.plot()` for line plots, scatter plots, etc.\n*   `.value_counts()` to see counts of categorical variables\n*   `.describe()` for summary statistics\n\nMain techniques for data visualization during exploratory data analysis:\n------------------------------------------------------------------------\n\nHistograms\n----------\n\nUse .hist() in pandas to get a visual representation of the distribution of a numeric variable. This can reveal outliers, skewness, and other patterns.\n\nBox plots\n---------\n\nUse .boxplot() in pandas to visualize the distribution through quartiles, extremes, and outliers for a numeric variable.\n\nScatter plots\n-------------\n\nUse .plot(kind=’scatter’) to visualize the relationship between two numeric variables. This can reveal correlations, clusters, and outliers.\n\nBar plots\n---------\n\nUse .plot(kind=’bar’) to compare categorical variables or the counts of categorical variables. This gives a quick visual summary.\n\nLine plots\n----------\n\nUse .plot(kind=’line’) to visualize trends over time for time series data.\n\nPair plots\n----------\n\nUse seaborn pairplot() to visualize the relationships between all variables in a dataset.\n\nCorrelation heatmaps\n--------------------\n\nUse a seaborn heatmap() to visualize the correlation between all numeric variables.\n\nPie charts\n----------\n\nUse .plot(kind=’pie’) to visualize the proportional breakdown of a categorical variable.\n\nWord clouds\n-----------\n\nGenerate a word cloud to visualize the most common words in a text column.\n\nDescriptive statistics\n----------------------\n\nUse .describe() to get summary stats like count, mean, standard deviation, minimum, and maximum for numeric columns.\n\n**These techniques help you gain a quick understanding of your data and reveal patterns, outliers, and relationships that you can then investigate further. Data visualization is a critical part of the exploratory data analysis process.**\n\nSo we can understand all the above points Importing the Data, Data Cleaning, Data Preprocessing, and Data Visualization from one example:\n\nDemonstration\n-------------\n\nNote\n----\n\nIf you are looking to quickly set up and explore **AI/ML & Python Jupyter Notebook Kit**, [**Techlatest.net**](http://techlatest.net/) provides an out-of-the-box setup for **AI/ML & Python Jupyter Notebook Kit** on **AWS, Azure and GCP.** Please follow the below links for the step-by-step guide to set up the **AI/ML & Python Jupyter Notebook Kit** on your choice of cloud platform.\n\n**For AI/ML KIT:** [**AWS**](https://medium.com/@techlatest.net/how-to-get-ai-ml-development-training-inference-using-python-jupyter-kit-on-aws-amazon-web-fbd38fb46a34)**,** [**GCP**](https://medium.com/@techlatest.net/how-to-get-ai-ml-development-training-inference-using-python-jupyter-kit-on-gcp-google-cloud-b30e50354223) **&** [**Azure**](https://medium.com/@techlatest.net/how-to-get-ai-ml-development-training-inference-using-python-jupyter-kit-on-azure-aaca5fd592c5)**.**\n\nWhy did you choose [Techlatest.net](https://www.techlatest.net/) VM, AI/ML Kit & Python Jupyter Notebook?\n---------------------------------------------------------------------------------------------------------\n\n*   In-browser editing of code\n*   Ability to run and execute code in various programming languages\n*   Supports rich media outputs like images, videos, charts, etc.\n*   Supports connecting to external data sources\n*   Supports collaborative editing by multiple users\n*   Simple interface to create and manage notebooks\n*   Ability to save and share notebooks\n\nDuring VM selection “We are selecting GPU instance by going to GPU tab and selecting the desired GPU instance type. GPU instance will give 10 to 15 times better performance compared to equivalent CPU instance, however, GPU instances will have a significantly higher cost, so choose the right instance type for your performance and budget requirement”.\n\nI take all three examples of **AWS, GCP & Azure** for Your Reference.\n\n![Image 49](https://miro.medium.com/v2/resize:fit:700/0*ttBE4xBbqwaovhib.jpeg)\n\n![Image 50](https://miro.medium.com/v2/resize:fit:700/0*_X4XMUYkn32akHvO.jpeg)\n\n![Image 51](https://miro.medium.com/v2/resize:fit:700/0*BbpAEE5K2wkdYrCU.png)\n\nAfter setup the VM, we can log in to Jupyter Hub, so below you can see step by step guide.\n\nStep 1\n------\n\nThis VM comes with the default **Ubuntu** as an admin user. So to access the Web UI and to install additional packages, log in with the **Ubuntu** user and the password you set during the first login to the Jupyter Notebook.\n\n![Image 52](https://miro.medium.com/v2/resize:fit:451/0*XZP2DtxSQPXN28h_.png)\n\nStep 2\n------\n\nOpen a Terminal in your **Jupyter Notebook** and enter the below command to install the **there** package using **pip**.\n\nsudo -E pip install there\n\n**Note**: Don’t forget to use **sudo** in the above command.\n\n![Image 53](https://miro.medium.com/v2/resize:fit:700/0*MtpgAOw3RiNuRrc4.png)\n\n![Image 54](https://miro.medium.com/v2/resize:fit:700/0*f_EjMtnX_hOpyrWf.png)\n\nStep 3\n------\n\nImport some libraries.\n\nimport numpy as np   \nimport pandas as pd   \nimport matplotlib.pyplot as plt # visualizing data  \n%matplotlib inline  \nimport seaborn as sns\n\n![Image 55](https://miro.medium.com/v2/resize:fit:700/1*h18-1jYJPnspGHShKyeD7g.png)\n\nStep 4\n------\n\nImport the data, if your data is in a CSV file you can import it like this,\n\n\\# import csv file  \ndf = pd.read\\_csv('Diwali Sales Data.csv', encoding= 'unicode\\_escape')\n\n![Image 56](https://miro.medium.com/v2/resize:fit:700/1*CPUJkbcL2MaTjjk8j4yDwg.png)\n\nStep 5\n------\n\nOnce the data is imported, the next step is to clean the data.\n\n![Image 57](https://miro.medium.com/v2/resize:fit:700/1*m-1MYwJF1LlU3RZwg0zcZg.png)\n\n![Image 58](https://miro.medium.com/v2/resize:fit:700/1*EpafZdfA1GQoWrf0jbCI8Q.png)\n\n![Image 59](https://miro.medium.com/v2/resize:fit:700/1*lJbOuyVPoqBkMrPg6Rt2iQ.png)\n\n![Image 60](https://miro.medium.com/v2/resize:fit:700/1*BQbLzFlNoFicafgZgnIc-Q.png)\n\nStep 6\n------\n\nNext, we perform some preprocessing:\n\n![Image 61](https://miro.medium.com/v2/resize:fit:700/1*Jo7nZ9q7GNZ8WHsguXxNLA.png)\n\n![Image 62](https://miro.medium.com/v2/resize:fit:700/1*4zDqeEx0QqMAiyXR41m1Uw.png)\n\n![Image 63](https://miro.medium.com/v2/resize:fit:700/1*t8Bk6rW5T996iyQ8R959jw.png)\n\nStep 7\n------\n\nNow we can visualize the data to gain insights:\n\n\\# plotting a bar chart for Gender and it's countax = sns.countplot(x = 'Gender',data = df)\n\nfor bars in ax.containers:  \n    ax.bar\\_label(bars)\n\n![Image 64](https://miro.medium.com/v2/resize:fit:700/1*2msrGBonN2RJiG9dG3jNmw.png)\n\n\\# plotting a bar chart for gender vs total amountsales\\_gen = df.groupby(\\['Gender'\\], as\\_index=False)\\['Amount'\\].sum().sort\\_values(by='Amount', ascending=False)\n\nsns.barplot(x = 'Gender',y= 'Amount' ,data = sales\\_gen)\n\n![Image 65](https://miro.medium.com/v2/resize:fit:700/1*9gZfSpa4iUdvZRxFQ8PDhw.png)\n\nFrom the above graphs, we can see that most of the buyers are females and even the purchasing power of females is greater than men.\n\nAge\n---\n\nax = sns.countplot(data = df, x = 'Age Group', hue = 'Gender')for bars in ax.containers:  \n    ax.bar\\_label(bars)\n\n![Image 66](https://miro.medium.com/v2/resize:fit:700/1*Oc_7nvRVnjsFtAA4VTP8AA.png)\n\nConclusion\n----------\n\nThe blog then provided a demonstration of the above steps using an example dataset, showcasing how to import the data, clean it, preprocess it, and visualize it. Finally, the blog concluded with a brief recommendation for using Techlatest.net’s VM, AI/ML Kit, and Python Jupyter Notebook for setting up an AI/ML development environment.\n\nOverall, the blog aimed to provide a comprehensive overview of the exploratory data analysis process and highlight the importance of each step in understanding and preparing the data for further analysis and modeling.\n\n![Image 67](https://miro.medium.com/v2/resize:fit:500/1*VXiUoUbiGJxy7Obdzz7tQw.gif)",
+  "publishedTime": "2023-07-10T21:44:27.846Z",
+  "usage": {
+    "tokens": 3223
+  }
+}
+```

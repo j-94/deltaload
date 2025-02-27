@@ -1,0 +1,496 @@
+---
+title: Be extraordinarily productive with style
+description: Create data workflows, streamline conversations, and develop custom Apps effortlessly with AI.
+url: https://www.datagran.io/
+timestamp: 2025-01-20T15:48:17.691Z
+domain: www.datagran.io
+path: root
+---
+
+# Be extraordinarily productive with style
+
+
+Create data workflows, streamline conversations, and develop custom Apps effortlessly with AI.
+
+
+## Content
+
+Build Professional Internal Software with AI
+===============  
+
+[Subscribe to our Newsletter For New & latest Blogs and Resources ![Image 77: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65a52973b043f495c17b47da_Arrow%201.svg)](https://blog.datagran.io/)
+
+[![Image 78](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6263477eadc1be96ea23913f_XMLID%202.svg)](https://www.datagran.io/)
+
+*   Features
+    
+    ![Image 79](https://cdn.prod.website-files.com/651de19cb3f81bdf55d01c9b/6557eb87e145de07aa8d1269_header%20icon.svg)
+    
+    [![Image 80: IMAGE](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65af0357456cba33c14a3c03_G3.svg) Integrate ========= Connect anything from business applications to data warehouses with our state of the art EL (Extract and Load).](https://www.datagran.io/integrate)[![Image 81: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65aff372b71590c4549d8f38_Asset%20194%201.svg) AI Bots ======= With Datagran, any business user can ask any data question without having to log into analytics tools or request queries from analysts.](https://www.datagran.io/bots)[![Image 82: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba577f2b2b66ba5c08de76_Vector.svg) Alerts ====== Create custom logic and get alerts directly on slack.](https://www.datagran.io/alerts)[![Image 83: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b7c11843604157c64a89ae_Asset%2072%201.svg) Apps ==== Write your instruction. Code. Ship remarkably fast.](https://www.datagran.io/apps)[![Image 84: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65afe3ba4fc737c1aa865fc6_C1.svg) Data Models =========== Transform or create data models.](https://www.datagran.io/data-models)[![Image 85: IMAGE](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b2ebf28ad871718866c23d_Asset%20279%201.svg) Visualize ========= Datagran gives you the flexibility to visualize your data in the tools you use everyday.](https://www.datagran.io/visualise)[![Image 86: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b7c98d80f7ca2693c9e926_A4.svg) Destinations ============ Send your pipeline's output to business applications in seconds via Datagran's Destinations.](https://www.datagran.io/destinations)
+    
+*   [Customers](https://www.datagran.io/customers)
+*   [Academy](https://proud-botany-7dd.notion.site/Academy-9d11b8e2bc2e4f26aa5318d33f5194f4)
+*   [Pricing](https://www.datagran.io/pricing)
+*   [Contact](https://www.datagran.io/contact)
+*   [Login](https://app.datagran.io/v2/welcome)
+*   [Sign up Free](https://app.datagran.io/v2/workspaces/create/1)
+
+[**WATCH VIDEO**](https://youtu.be/r05SUPlXB70)
+
+build Data apps with ai-in seconds.
+===================================
+
+[Sign up for free](https://app.datagran.io/v2/workspaces/create/1)
+
+ 
+
+![Image 88: Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)![Image 89: Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)
+
+Create professional data software with Datagran Intelligence. Describe what you need and our agents will build it. Your own automated Data Scientist.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 90: Get alerts on Slack, WhatsApp, or teams.](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6660bcc41d4aa0a5803bff2d_Frame%2016783.svg)Get alerts on Slack.
+
+![Image 91: Create Apps with AI](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6660c03536f4816577173346_Frame%2016781.svg)Build Apps with Natural Language.
+
+![Image 92: Send data to any destination](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6660c0358a14a477005077d7_Frame%2016779.svg)Create data workflows and send your data to any destination.
+
+![Image 93: Ask questions in Natural Language](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6660c035816da30927e13295_Frame%2016782.svg)Ask questions to Bots in natural language.
+
+![Image 94: Create dashboards in Notion](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6660c0358a14a4770050775a_Frame%2016780.svg)Create embedded charts and build dashboards in Notion.
+
+Integrate
+
+Transform
+
+AI Bots
+
+Embed
+
+Alerts
+
+Apps
+
+Destinations
+
+ 
+
+![Image 96: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)
+
+![Image 97: IMAGE](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65af0357456cba33c14a3c03_G3.svg)INTEGRATE
+
+Integrate data from multiple sources
+====================================
+
+Connect anything from business applications to data warehouses with our state of the art EL (Extract and Load).
+
+[Learn More](https://www.datagran.io/integrate)
+
+ 
+
+![Image 99: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)
+
+![Image 100: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65aff372b71590c4549d8f38_Asset%20194%201.svg)DATA MODELS
+
+Transform your data in any language.
+====================================
+
+The flexibility you need
+
+[Learn More](https://www.datagran.io/data-models)
+
+ 
+
+![Image 102: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)
+
+![Image 103: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65aff372b71590c4549d8f38_Asset%20194%201.svg)AI BOTS
+
+Enterprise Agents
+=================
+
+With Datagran, businesses can build AI agents for any need, from AI help desks to data analysts.
+
+[Learn More](https://www.datagran.io/bots)
+
+ 
+
+![Image 105: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)
+
+![Image 106: IMAGE](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b2ebf28ad871718866c23d_Asset%20279%201.svg)VISUALIZE
+
+Embed your data anywhere
+========================
+
+Datagran gives you the flexibility to Embed your data in the tools you use everyday.
+
+[Learn More](https://www.datagran.io/visualise)
+
+ 
+
+![Image 108: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)
+
+![Image 109: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba577f2b2b66ba5c08de76_Vector.svg)ALERTS
+
+Alerts where you need them, when you need them.
+===============================================
+
+Create custom logic and get alerts directly on Slack
+
+[Learn More](https://www.datagran.io/alerts)
+
+ 
+
+![Image 111: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)
+
+![Image 112: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b7c11843604157c64a89ae_Asset%2072%201.svg)APPS
+
+Write your instruction. Code. Ship remarkably fast.
+===================================================
+
+With Datagran Apps, you can deliver internal data tools, fast.
+
+[Learn More](https://www.datagran.io/apps)
+
+ 
+
+![Image 114: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)
+
+![Image 115: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b7c98d80f7ca2693c9e926_A4.svg)Destinations
+
+Your models in production
+=========================
+
+Send your pipeline's output to business applications in seconds via Datagran's Destinations.
+
+[Learn More](https://www.datagran.io/destinations)
+
+![Image 116: Client logos](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e9da649a623ea4cc56_image-3%20(1).webp)![Image 117: Domino's](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e9707af4af1f2bce15_image-2%20(1).webp)![Image 118: Subway](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e97f6953bc7a69b686_image-4%20(1).webp)![Image 119: Jumex](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6665c43230132e475908112b_Frame%201000002861.svg)![Image 120: GreenRun](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e9c43fd10a417ec5e1_image-53.webp)![Image 121: Archies](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e9786e49b3411d0e21_Frame-1000002863.webp)
+
+The best teams are using conversational analytics
+
+Case Studies
+============
+
+ 
+
+![Image 123: Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)![Image 124: Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)
+
+[](https://www.datagran.io/#)
+
+![Image 125: United Roofing](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6665be12e4464033f595490c_Layer_1.svg)
+
+How Datagran powers the multiplicity of channels United needs
+=============================================================
+
+[Learn More](https://youtu.be/kkfcPojpG08)
+
+![Image 126: GreenRun](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e9c43fd10a417ec5e1_image-53.webp)
+
+How conversations became the new way of data analytics
+======================================================
+
+[Learn More](https://proud-botany-7dd.notion.site/Green-Run-case-study-cd70cf8802d94fb497c5c6eebd5009ad?pvs=4)
+
+More about us
+
+Why large and small companies are using Datagran
+================================================
+
+Flexibility
+===========
+
+Provides the flexibility (code and no-code) that technical and not technical users need.
+
+Enterprise grade platform
+=========================
+
+Enterprise grade platform at a fraction of the cost with free forever tier.  
+‍
+
+Cost \`Reduction
+================
+
+Cost reduction by eliminating the need to put toguether big specialized teams.
+
+Freedom to business users
+=========================
+
+Gives freedom to business users so that they query their data when and how they need it.
+
+Visualize Data
+==============
+
+Visualize data with a flexible system. Share and embedd your charts anywhere.
+
+A new way of work
+=================
+
+Introduce a different way of work that boosts goal accomplishment by 52% through collaboration.
+
+Testimonials
+
+Success Stories  from Our Clients
+=================================
+
+![Image 127: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8ed33ce2e28a99477_image%2064.svg)
+
+Matt Martin
+===========
+
+Dir. of Business Analytics
+==========================
+
+“Datagran's product is so timely. This is a real problem we are encountering right now. Our unit has a ton of models but there's just too many pain points to operationalize them."
+
+![Image 128: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b862895245365a5383_image%2064-1.svg)
+
+Remi Denoyer
+============
+
+Dir. of Business Analytics
+==========================
+
+“Datagran makes it super easy to deploy an ML model, and since I am the only Data Scientist in the company, it helps me to keep focused. It also lets me iterate faster, then I can make the core.We can connect to our database and run linear regressions to qualify leads for our sales team."
+
+![Image 129: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8816a96ab171d3bc2_image%2064-2.svg)
+
+Chris Sanborn
+=============
+
+COO at Hfactor Water
+====================
+
+“We spent 3 months speaking with over 10 different people at Salesforce trying to set up an analytics platform that could integrate from multiple data sources. Datagran did it in under 15 minutes and offers so much more with predictive AI."
+
+![Image 130: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b95788a28342b67133_Frame%20427321212.svg)
+
+Fabián Hernández
+================
+
+CEO at Teléfonica
+=================
+
+"Datagran helped us by allowing us to zoom in on all the information we have through a tech based tool. They provided us speed and the ability to merge technologies like AI, impacting positively our way of work. We were able to reduce CAC by 90% and increase our revenue by 4 or 5 times."
+
+![Image 131: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8318f4af5e891cd8d_Frame%20427321212-1.svg)
+
+Santiago Diaz
+=============
+
+Growth at Rappi
+===============
+
+"The concept of an All-in-One for data is extremely valuable. Now, every player in a company can speak the same language and share the same information. It is leveling up the play field."
+
+![Image 132: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8a953add8959f3074_Frame%20427321212-2.svg)
+
+Juliana Patiño
+==============
+
+"We did a one month pilot program with Datagran and the results were incredible."
+
+![Image 133: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65a54560cc8160086f3cf52f_Avatar.png)
+
+Matt Martin
+===========
+
+Dir. of Business Analytics
+==========================
+
+![Image 134: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8ed33ce2e28a99477_image%2064.svg)
+
+Matt Martin
+===========
+
+Dir. of Business Analytics
+==========================
+
+“Datagran's product is so timely. This is a real problem we are encountering right now. Our unit has a ton of models but there's just too many pain points to operationalize them."
+
+![Image 135: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b862895245365a5383_image%2064-1.svg)
+
+Remi Denoyer
+============
+
+Dir. of Business Analytics
+==========================
+
+“Datagran makes it super easy to deploy an ML model, and since I am the only Data Scientist in the company, it helps me to keep focused. It also lets me iterate faster, then I can make the core.We can connect to our database and run linear regressions to qualify leads for our sales team."
+
+![Image 136: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8816a96ab171d3bc2_image%2064-2.svg)
+
+Chris Sanborn
+=============
+
+COO at Hfactor Water
+====================
+
+“We spent 3 months speaking with over 10 different people at Salesforce trying to set up an analytics platform that could integrate from multiple data sources. Datagran did it in under 15 minutes and offers so much more with predictive AI."
+
+![Image 137: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b95788a28342b67133_Frame%20427321212.svg)
+
+Fabián Hernández
+================
+
+CEO at Teléfonica
+=================
+
+"Datagran helped us by allowing us to zoom in on all the information we have through a tech based tool. They provided us speed and the ability to merge technologies like AI, impacting positively our way of work. We were able to reduce CAC by 90% and increase our revenue by 4 or 5 times."
+
+![Image 138: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8318f4af5e891cd8d_Frame%20427321212-1.svg)
+
+Santiago Diaz
+=============
+
+Growth at Rappi
+===============
+
+"The concept of an All-in-One for data is extremely valuable. Now, every player in a company can speak the same language and share the same information. It is leveling up the play field."
+
+![Image 139: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8a953add8959f3074_Frame%20427321212-2.svg)
+
+Juliana Patiño
+==============
+
+"We did a one month pilot program with Datagran and the results were incredible."
+
+![Image 140: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65a54560cc8160086f3cf52f_Avatar.png)
+
+Matt Martin
+===========
+
+Dir. of Business Analytics
+==========================
+
+Blog
+
+Datagran’s Blog
+===============
+
+Real-Time Model API
+===================
+
+Data Workflows
+
+[Read more](https://blog.datagran.io/posts/real-time-model-api)
+
+August new features
+===================
+
+Data Workflows
+
+[Read more](https://blog.datagran.io/posts/august-new-features)
+
+Datagran launches 2 major features
+==================================
+
+Data Workflows
+
+[Read more](https://blog.datagran.io/posts/datagran-launches-2-major-features)
+
+Need help? Send us a message. If you have suggestions, please send them our way
+
+let's talk
+==========
+
+![Image 141: IMAGE
+](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65a52973b043f495c17b47da_Arrow%201.svg)
+
+![Image 142: Datagran logo](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/5e4453d30e6b80ad70ec86cb_Datagran_Logo_Horizontal_White%402x.png)
+
+#### Better together
+
+Made with **iii** in San Francisco
+
+Features
+
+[Integration](https://www.datagran.io/integrate)
+
+[AI Bots](https://www.datagran.io/bots)
+
+[Alerts](https://www.datagran.io/alerts)
+
+[Apps](https://www.datagran.io/apps)
+
+[Data Models](https://www.datagran.io/data-models)
+
+[Visualize](https://www.datagran.io/visualise)
+
+[Destinations](https://www.datagran.io/destinations)
+
+Company
+
+[About us](https://www.datagran.io/about-us)
+
+[Blog](https://blog.datagran.io/)
+
+[Careers](https://www.datagran.io/careers)
+
+Developers
+
+[FAQ](https://www.notion.so/FAQ-73bebfd130e54d1e97b414206f59e3f1)
+
+[Academy](https://www.notion.so/Academy-9d11b8e2bc2e4f26aa5318d33f5194f4)
+
+[Documentation](https://www.notion.so/Datagran-Documentation-bd0f3437b00a49ca816f43cffb9d22c8)
+
+[Wiki](https://www.notion.so/Datagran-WIKI-9b63d4021e5d4c04a6ebe4a0e591d188)
+
+Resources
+
+[Terms & Conditions](https://www.datagran.io/terms-and-conditions)
+
+[Privacy Policy](https://www.datagran.io/privacy-policy)
+
+[**Contact**](https://www.datagran.io/contact)
+
+[Form C-AR Filing](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6283186b1c39cf6a2c20cb71_datagranformc-ar.pdf)
+
+Social
+
+[X](https://twitter.com/datagran)
+
+[LinkedIn](https://www.linkedin.com/company/datagran/)
+
+[Facebook](https://www.facebook.com/datagran)
+
+[Instagram](https://www.instagram.com/datagran/)
+
+[YouTube](https://www.youtube.com/channel/UCfwgM9lEeiDQtf0CrMRGsEw/videos)
+
+[Login](https://app.datagran.io/v2/welcome)[Sign up Free](https://app.datagran.io/v2/workspaces/create/1)
+
+[![Image 143: Product hunt badge](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/5e4f5c207fa93b4fdeda875c_Producthunt.svg)![Image 144](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/5e4f5c207fa93b4fdeda875c_Producthunt.svg)](https://www.producthunt.com/posts/datagran)![Image 145](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/605e6bdcde5cb47b882a66ed_badge_Mesa%20de%20trabajo%201.svg)For any request related to your personal information, please contact us here: legal@datagran.io. 44 Montgomery St. 3rd Floor, San Francisco CA 94104
+
+## Metadata
+
+```json
+{
+  "title": "Be extraordinarily productive with style",
+  "description": "Create data workflows, streamline conversations, and develop custom Apps effortlessly with AI.",
+  "url": "https://www.datagran.io/",
+  "content": "Build Professional Internal Software with AI\n===============  \n\n[Subscribe to our Newsletter For New & latest Blogs and Resources ![Image 77: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65a52973b043f495c17b47da_Arrow%201.svg)](https://blog.datagran.io/)\n\n[![Image 78](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6263477eadc1be96ea23913f_XMLID%202.svg)](https://www.datagran.io/)\n\n*   Features\n    \n    ![Image 79](https://cdn.prod.website-files.com/651de19cb3f81bdf55d01c9b/6557eb87e145de07aa8d1269_header%20icon.svg)\n    \n    [![Image 80: IMAGE](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65af0357456cba33c14a3c03_G3.svg) Integrate ========= Connect anything from business applications to data warehouses with our state of the art EL (Extract and Load).](https://www.datagran.io/integrate)[![Image 81: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65aff372b71590c4549d8f38_Asset%20194%201.svg) AI Bots ======= With Datagran, any business user can ask any data question without having to log into analytics tools or request queries from analysts.](https://www.datagran.io/bots)[![Image 82: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba577f2b2b66ba5c08de76_Vector.svg) Alerts ====== Create custom logic and get alerts directly on slack.](https://www.datagran.io/alerts)[![Image 83: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b7c11843604157c64a89ae_Asset%2072%201.svg) Apps ==== Write your instruction. Code. Ship remarkably fast.](https://www.datagran.io/apps)[![Image 84: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65afe3ba4fc737c1aa865fc6_C1.svg) Data Models =========== Transform or create data models.](https://www.datagran.io/data-models)[![Image 85: IMAGE](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b2ebf28ad871718866c23d_Asset%20279%201.svg) Visualize ========= Datagran gives you the flexibility to visualize your data in the tools you use everyday.](https://www.datagran.io/visualise)[![Image 86: IMAGE ](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b7c98d80f7ca2693c9e926_A4.svg) Destinations ============ Send your pipeline's output to business applications in seconds via Datagran's Destinations.](https://www.datagran.io/destinations)\n    \n*   [Customers](https://www.datagran.io/customers)\n*   [Academy](https://proud-botany-7dd.notion.site/Academy-9d11b8e2bc2e4f26aa5318d33f5194f4)\n*   [Pricing](https://www.datagran.io/pricing)\n*   [Contact](https://www.datagran.io/contact)\n*   [Login](https://app.datagran.io/v2/welcome)\n*   [Sign up Free](https://app.datagran.io/v2/workspaces/create/1)\n\n[**WATCH VIDEO**](https://youtu.be/r05SUPlXB70)\n\nbuild Data apps with ai-in seconds.\n===================================\n\n[Sign up for free](https://app.datagran.io/v2/workspaces/create/1)\n\n \n\n![Image 88: Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)![Image 89: Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)\n\nCreate professional data software with Datagran Intelligence. Describe what you need and our agents will build it. Your own automated Data Scientist.\n-----------------------------------------------------------------------------------------------------------------------------------------------------\n\n![Image 90: Get alerts on Slack, WhatsApp, or teams.](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6660bcc41d4aa0a5803bff2d_Frame%2016783.svg)Get alerts on Slack.\n\n![Image 91: Create Apps with AI](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6660c03536f4816577173346_Frame%2016781.svg)Build Apps with Natural Language.\n\n![Image 92: Send data to any destination](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6660c0358a14a477005077d7_Frame%2016779.svg)Create data workflows and send your data to any destination.\n\n![Image 93: Ask questions in Natural Language](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6660c035816da30927e13295_Frame%2016782.svg)Ask questions to Bots in natural language.\n\n![Image 94: Create dashboards in Notion](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6660c0358a14a4770050775a_Frame%2016780.svg)Create embedded charts and build dashboards in Notion.\n\nIntegrate\n\nTransform\n\nAI Bots\n\nEmbed\n\nAlerts\n\nApps\n\nDestinations\n\n \n\n![Image 96: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)\n\n![Image 97: IMAGE](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65af0357456cba33c14a3c03_G3.svg)INTEGRATE\n\nIntegrate data from multiple sources\n====================================\n\nConnect anything from business applications to data warehouses with our state of the art EL (Extract and Load).\n\n[Learn More](https://www.datagran.io/integrate)\n\n \n\n![Image 99: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)\n\n![Image 100: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65aff372b71590c4549d8f38_Asset%20194%201.svg)DATA MODELS\n\nTransform your data in any language.\n====================================\n\nThe flexibility you need\n\n[Learn More](https://www.datagran.io/data-models)\n\n \n\n![Image 102: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)\n\n![Image 103: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65aff372b71590c4549d8f38_Asset%20194%201.svg)AI BOTS\n\nEnterprise Agents\n=================\n\nWith Datagran, businesses can build AI agents for any need, from AI help desks to data analysts.\n\n[Learn More](https://www.datagran.io/bots)\n\n \n\n![Image 105: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)\n\n![Image 106: IMAGE](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b2ebf28ad871718866c23d_Asset%20279%201.svg)VISUALIZE\n\nEmbed your data anywhere\n========================\n\nDatagran gives you the flexibility to Embed your data in the tools you use everyday.\n\n[Learn More](https://www.datagran.io/visualise)\n\n \n\n![Image 108: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)\n\n![Image 109: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba577f2b2b66ba5c08de76_Vector.svg)ALERTS\n\nAlerts where you need them, when you need them.\n===============================================\n\nCreate custom logic and get alerts directly on Slack\n\n[Learn More](https://www.datagran.io/alerts)\n\n \n\n![Image 111: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)\n\n![Image 112: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b7c11843604157c64a89ae_Asset%2072%201.svg)APPS\n\nWrite your instruction. Code. Ship remarkably fast.\n===================================================\n\nWith Datagran Apps, you can deliver internal data tools, fast.\n\n[Learn More](https://www.datagran.io/apps)\n\n \n\n![Image 114: Play video](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65bcf192585bed115b3f5fc9_Button.svg)\n\n![Image 115: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65b7c98d80f7ca2693c9e926_A4.svg)Destinations\n\nYour models in production\n=========================\n\nSend your pipeline's output to business applications in seconds via Datagran's Destinations.\n\n[Learn More](https://www.datagran.io/destinations)\n\n![Image 116: Client logos](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e9da649a623ea4cc56_image-3%20(1).webp)![Image 117: Domino's](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e9707af4af1f2bce15_image-2%20(1).webp)![Image 118: Subway](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e97f6953bc7a69b686_image-4%20(1).webp)![Image 119: Jumex](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6665c43230132e475908112b_Frame%201000002861.svg)![Image 120: GreenRun](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e9c43fd10a417ec5e1_image-53.webp)![Image 121: Archies](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e9786e49b3411d0e21_Frame-1000002863.webp)\n\nThe best teams are using conversational analytics\n\nCase Studies\n============\n\n \n\n![Image 123: Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)![Image 124: Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)\n\n[](https://www.datagran.io/#)\n\n![Image 125: United Roofing](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6665be12e4464033f595490c_Layer_1.svg)\n\nHow Datagran powers the multiplicity of channels United needs\n=============================================================\n\n[Learn More](https://youtu.be/kkfcPojpG08)\n\n![Image 126: GreenRun](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/666818e9c43fd10a417ec5e1_image-53.webp)\n\nHow conversations became the new way of data analytics\n======================================================\n\n[Learn More](https://proud-botany-7dd.notion.site/Green-Run-case-study-cd70cf8802d94fb497c5c6eebd5009ad?pvs=4)\n\nMore about us\n\nWhy large and small companies are using Datagran\n================================================\n\nFlexibility\n===========\n\nProvides the flexibility (code and no-code) that technical and not technical users need.\n\nEnterprise grade platform\n=========================\n\nEnterprise grade platform at a fraction of the cost with free forever tier.  \n‍\n\nCost \\`Reduction\n================\n\nCost reduction by eliminating the need to put toguether big specialized teams.\n\nFreedom to business users\n=========================\n\nGives freedom to business users so that they query their data when and how they need it.\n\nVisualize Data\n==============\n\nVisualize data with a flexible system. Share and embedd your charts anywhere.\n\nA new way of work\n=================\n\nIntroduce a different way of work that boosts goal accomplishment by 52% through collaboration.\n\nTestimonials\n\nSuccess Stories  from Our Clients\n=================================\n\n![Image 127: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8ed33ce2e28a99477_image%2064.svg)\n\nMatt Martin\n===========\n\nDir. of Business Analytics\n==========================\n\n“Datagran's product is so timely. This is a real problem we are encountering right now. Our unit has a ton of models but there's just too many pain points to operationalize them.\"\n\n![Image 128: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b862895245365a5383_image%2064-1.svg)\n\nRemi Denoyer\n============\n\nDir. of Business Analytics\n==========================\n\n“Datagran makes it super easy to deploy an ML model, and since I am the only Data Scientist in the company, it helps me to keep focused. It also lets me iterate faster, then I can make the core.We can connect to our database and run linear regressions to qualify leads for our sales team.\"\n\n![Image 129: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8816a96ab171d3bc2_image%2064-2.svg)\n\nChris Sanborn\n=============\n\nCOO at Hfactor Water\n====================\n\n“We spent 3 months speaking with over 10 different people at Salesforce trying to set up an analytics platform that could integrate from multiple data sources. Datagran did it in under 15 minutes and offers so much more with predictive AI.\"\n\n![Image 130: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b95788a28342b67133_Frame%20427321212.svg)\n\nFabián Hernández\n================\n\nCEO at Teléfonica\n=================\n\n\"Datagran helped us by allowing us to zoom in on all the information we have through a tech based tool. They provided us speed and the ability to merge technologies like AI, impacting positively our way of work. We were able to reduce CAC by 90% and increase our revenue by 4 or 5 times.\"\n\n![Image 131: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8318f4af5e891cd8d_Frame%20427321212-1.svg)\n\nSantiago Diaz\n=============\n\nGrowth at Rappi\n===============\n\n\"The concept of an All-in-One for data is extremely valuable. Now, every player in a company can speak the same language and share the same information. It is leveling up the play field.\"\n\n![Image 132: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8a953add8959f3074_Frame%20427321212-2.svg)\n\nJuliana Patiño\n==============\n\n\"We did a one month pilot program with Datagran and the results were incredible.\"\n\n![Image 133: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65a54560cc8160086f3cf52f_Avatar.png)\n\nMatt Martin\n===========\n\nDir. of Business Analytics\n==========================\n\n![Image 134: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8ed33ce2e28a99477_image%2064.svg)\n\nMatt Martin\n===========\n\nDir. of Business Analytics\n==========================\n\n“Datagran's product is so timely. This is a real problem we are encountering right now. Our unit has a ton of models but there's just too many pain points to operationalize them.\"\n\n![Image 135: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b862895245365a5383_image%2064-1.svg)\n\nRemi Denoyer\n============\n\nDir. of Business Analytics\n==========================\n\n“Datagran makes it super easy to deploy an ML model, and since I am the only Data Scientist in the company, it helps me to keep focused. It also lets me iterate faster, then I can make the core.We can connect to our database and run linear regressions to qualify leads for our sales team.\"\n\n![Image 136: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8816a96ab171d3bc2_image%2064-2.svg)\n\nChris Sanborn\n=============\n\nCOO at Hfactor Water\n====================\n\n“We spent 3 months speaking with over 10 different people at Salesforce trying to set up an analytics platform that could integrate from multiple data sources. Datagran did it in under 15 minutes and offers so much more with predictive AI.\"\n\n![Image 137: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b95788a28342b67133_Frame%20427321212.svg)\n\nFabián Hernández\n================\n\nCEO at Teléfonica\n=================\n\n\"Datagran helped us by allowing us to zoom in on all the information we have through a tech based tool. They provided us speed and the ability to merge technologies like AI, impacting positively our way of work. We were able to reduce CAC by 90% and increase our revenue by 4 or 5 times.\"\n\n![Image 138: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8318f4af5e891cd8d_Frame%20427321212-1.svg)\n\nSantiago Diaz\n=============\n\nGrowth at Rappi\n===============\n\n\"The concept of an All-in-One for data is extremely valuable. Now, every player in a company can speak the same language and share the same information. It is leveling up the play field.\"\n\n![Image 139: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65ba69b8a953add8959f3074_Frame%20427321212-2.svg)\n\nJuliana Patiño\n==============\n\n\"We did a one month pilot program with Datagran and the results were incredible.\"\n\n![Image 140: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65a54560cc8160086f3cf52f_Avatar.png)\n\nMatt Martin\n===========\n\nDir. of Business Analytics\n==========================\n\nBlog\n\nDatagran’s Blog\n===============\n\nReal-Time Model API\n===================\n\nData Workflows\n\n[Read more](https://blog.datagran.io/posts/real-time-model-api)\n\nAugust new features\n===================\n\nData Workflows\n\n[Read more](https://blog.datagran.io/posts/august-new-features)\n\nDatagran launches 2 major features\n==================================\n\nData Workflows\n\n[Read more](https://blog.datagran.io/posts/datagran-launches-2-major-features)\n\nNeed help? Send us a message. If you have suggestions, please send them our way\n\nlet's talk\n==========\n\n![Image 141: IMAGE\n](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/65a52973b043f495c17b47da_Arrow%201.svg)\n\n![Image 142: Datagran logo](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/5e4453d30e6b80ad70ec86cb_Datagran_Logo_Horizontal_White%402x.png)\n\n#### Better together\n\nMade with **iii** in San Francisco\n\nFeatures\n\n[Integration](https://www.datagran.io/integrate)\n\n[AI Bots](https://www.datagran.io/bots)\n\n[Alerts](https://www.datagran.io/alerts)\n\n[Apps](https://www.datagran.io/apps)\n\n[Data Models](https://www.datagran.io/data-models)\n\n[Visualize](https://www.datagran.io/visualise)\n\n[Destinations](https://www.datagran.io/destinations)\n\nCompany\n\n[About us](https://www.datagran.io/about-us)\n\n[Blog](https://blog.datagran.io/)\n\n[Careers](https://www.datagran.io/careers)\n\nDevelopers\n\n[FAQ](https://www.notion.so/FAQ-73bebfd130e54d1e97b414206f59e3f1)\n\n[Academy](https://www.notion.so/Academy-9d11b8e2bc2e4f26aa5318d33f5194f4)\n\n[Documentation](https://www.notion.so/Datagran-Documentation-bd0f3437b00a49ca816f43cffb9d22c8)\n\n[Wiki](https://www.notion.so/Datagran-WIKI-9b63d4021e5d4c04a6ebe4a0e591d188)\n\nResources\n\n[Terms & Conditions](https://www.datagran.io/terms-and-conditions)\n\n[Privacy Policy](https://www.datagran.io/privacy-policy)\n\n[**Contact**](https://www.datagran.io/contact)\n\n[Form C-AR Filing](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/6283186b1c39cf6a2c20cb71_datagranformc-ar.pdf)\n\nSocial\n\n[X](https://twitter.com/datagran)\n\n[LinkedIn](https://www.linkedin.com/company/datagran/)\n\n[Facebook](https://www.facebook.com/datagran)\n\n[Instagram](https://www.instagram.com/datagran/)\n\n[YouTube](https://www.youtube.com/channel/UCfwgM9lEeiDQtf0CrMRGsEw/videos)\n\n[Login](https://app.datagran.io/v2/welcome)[Sign up Free](https://app.datagran.io/v2/workspaces/create/1)\n\n[![Image 143: Product hunt badge](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/5e4f5c207fa93b4fdeda875c_Producthunt.svg)![Image 144](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/5e4f5c207fa93b4fdeda875c_Producthunt.svg)](https://www.producthunt.com/posts/datagran)![Image 145](https://cdn.prod.website-files.com/5e444773efc5ac27ea639dbf/605e6bdcde5cb47b882a66ed_badge_Mesa%20de%20trabajo%201.svg)For any request related to your personal information, please contact us here: legal@datagran.io. 44 Montgomery St. 3rd Floor, San Francisco CA 94104",
+  "usage": {
+    "tokens": 5611
+  }
+}
+```

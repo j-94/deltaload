@@ -1,0 +1,98 @@
+Created Dec 10, 202332,768 context
+
+$0.24/M input tokens$0.24/M output tokens
+
+Mixtral 8x7B Instruct is a pretrained generative Sparse Mixture of Experts, by Mistral AI, for chat and instruction use. Incorporates 8 experts (feed-forward networks) for a total of 47 billion parameters.
+
+Instruct model fine-tuned by Mistral. #moe
+
+Providers for Mixtral 8x7B Instruct[](https://openrouter.ai/mistralai/mixtral-8x7b-instruct/providers)
+------------------------------------------------------------------------------------------------------
+
+### OpenRouter [routes requests](https://openrouter.ai/docs/provider-routing) to the top-ranked providers able to handle your prompts.
+
+Apps using Mixtral 8x7B Instruct[](https://openrouter.ai/mistralai/mixtral-8x7b-instruct/apps)
+----------------------------------------------------------------------------------------------
+
+### Top public apps this week using this model
+
+Recent activity on Mixtral 8x7B Instruct[](https://openrouter.ai/mistralai/mixtral-8x7b-instruct/activity)
+----------------------------------------------------------------------------------------------------------
+
+### Tokens processed per day
+
+Uptime stats for Mixtral 8x7B Instruct[](https://openrouter.ai/mistralai/mixtral-8x7b-instruct/uptime)
+------------------------------------------------------------------------------------------------------
+
+### Uptime stats for Mixtral 8x7B Instruct across all providers
+
+Sample code and API for Mixtral 8x7B Instruct[](https://openrouter.ai/mistralai/mixtral-8x7b-instruct/api)
+----------------------------------------------------------------------------------------------------------
+
+### OpenRouter normalizes requests and responses across providers for you.
+
+OpenRouter provides an OpenAI-compatible completion API to 0 models & providers that you can call directly, or using the OpenAI SDK. Additionally, some third-party SDKs are available.
+
+In the examples below, the [OpenRouter-specific headers](https://openrouter.ai/docs/requests#request-headers) are optional. Setting them allows your app to appear on the OpenRouter leaderboards.
+
+Using the OpenAI SDK
+--------------------
+
+```
+import OpenAI from "openai"
+
+const openai = new OpenAI({
+  baseURL: "https://openrouter.ai/api/v1",
+  apiKey: "<OPENROUTER_API_KEY>",
+  defaultHeaders: {
+    "HTTP-Referer": "<YOUR_SITE_URL>", // Optional. Site URL for rankings on openrouter.ai.
+    "X-Title": "<YOUR_SITE_NAME>", // Optional. Site title for rankings on openrouter.ai.
+  }
+})
+
+async function main() {
+  const completion = await openai.chat.completions.create({
+    model: "mistralai/mixtral-8x7b-instruct",
+    messages: [
+      {
+        "role": "user",
+        "content": "What is the meaning of life?"
+      }
+    ]
+  })
+
+  console.log(completion.choices[0].message)
+}
+main()
+```
+
+Using the OpenRouter API directly
+---------------------------------
+
+```
+fetch("https://openrouter.ai/api/v1/chat/completions", {
+  method: "POST",
+  headers: {
+    "Authorization": "Bearer <OPENROUTER_API_KEY>",
+    "HTTP-Referer": "<YOUR_SITE_URL>", // Optional. Site URL for rankings on openrouter.ai.
+    "X-Title": "<YOUR_SITE_NAME>", // Optional. Site title for rankings on openrouter.ai.
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify({
+    "model": "mistralai/mixtral-8x7b-instruct",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is the meaning of life?"
+      }
+    ]
+  })
+});
+```
+
+Using third-party SDKs
+----------------------
+
+For information about using third-party SDKs and frameworks with OpenRouter, please see our [frameworks documentation](https://openrouter.ai/docs/frameworks).
+
+See the [Request docs](https://openrouter.ai/docs/requests) for all possible parameters, and [Parameters](https://openrouter.ai/mistralai/mixtral-8x7b-instruct?tab=parameters) for recommended values.

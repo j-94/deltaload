@@ -1,0 +1,589 @@
+React UI Roundup
+----------------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#react-ui-roundup)
+
+Are you a frontend developer or designer? Do you wish you had a one-stop-shop where you could check out the various implementations of common components? If so - React UI Roundup is for you!
+
+*   [About](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#About)
+*   [Framework Statistics](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Framework-Statistics)
+*   [Framework Features](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Framework-Features)
+*   [Components](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Components)
+    *   [Alert](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Alert)
+    *   [AppBar](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#AppBar)
+    *   [Avatar](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Avatar)
+    *   [AvatarGroup](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#AvatarGroup)
+    *   [Button](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Button)
+    *   [Checkbox](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Checkbox)
+    *   [DatePicker](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#DatePicker)
+    *   [ErrorBoundary](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#ErrorBoundary)
+    *   [Pagination](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Pagination)
+    *   [Select](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Select)
+    *   [Stepper](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Stepper)
+    *   [Switch](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Switch)
+    *   [Tabs](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#Tabs)
+
+About
+-----
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#about)
+
+I decided to make this project [while contributing an Alert component to material-ui](https://github.com/mui-org/material-ui/issues/18094). While thinking about that component, it was HUGELY helpful to review other implementations from everything from feature set, DOM structure, CSS usage, theming integration, prop naming, and more. I wanted something where I could stand back at a distance and look at many high-quality implementations of a similar component while I researched - so I made this project.
+
+An even more better version of this exact document is available at [react-ui-roundup.dimitrimitropoulos.com](http://react-ui-roundup.dimitrimitropoulos.com/). It has special "Open All" buttons that allow you to open every link in a table with one click! Also, the Framework Statistics section on the website is always up to date since it pulls the data in realtime when you load the page.
+
+Frameworks
+----------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#frameworks)
+
+Framework Statistics
+--------------------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#framework-statistics)
+
+| Name | Homepage | Repository | Stars | Forks | Issues | License |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ant Design | [ant.design](https://ant.design/) | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 82,199 | 36,207 | 929 | MIT |
+| Atlaskit | [atlassian.design](https://atlassian.design/) | [bitbucket.org/atlassian/atlaskit-mk-2](https://bitbucket.org/atlassian/atlaskit-mk-2) | \-- | \-- | \-- | \-- |
+| Blueprint | [blueprintjs.com](https://blueprintjs.com/) | [palantir/blueprint](https://github.com/palantir/blueprint) | 19,338 | 2,062 | 669 | Apache 2.0 |
+| Carbon Design | [react.carbondesignsystem.com](http://react.carbondesignsystem.com/) | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 5,973 | 1,405 | 541 | Apache 2.0 |
+| Chakra UI | [chakra-ui.com/docs](https://chakra-ui.com/docs) | [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) | 28,998 | 2,589 | 84 | MIT |
+| Elastic UI | [elastic.github.io/eui](https://elastic.github.io/eui) | [elastic/eui](https://github.com/elastic/eui) | 5,350 | 714 | 354 | Other |
+| Element | [element.eleme.io](https://element.eleme.io/) | [ElemeFE/element](https://github.com/ElemeFE/element) | 52,726 | 14,246 | 2,301 | MIT |
+| Elemental UI | [elemental-ui.com](http://elemental-ui.com/) | [elementalui/elemental](https://github.com/elementalui/elemental) | 4,322 | 242 | 49 | MIT |
+| Evergreen | [evergreen.segment.com](https://evergreen.segment.com/) | [segmentio/evergreen](https://github.com/segmentio/evergreen) | 11,821 | 817 | 45 | MIT |
+| Fluent UI | [developer.microsoft.com/en-us/fluentui](https://developer.microsoft.com/en-us/fluentui) | [microsoft/fluentui](https://github.com/microsoft/fluentui) | 14,113 | 2,316 | 675 | Other |
+| Gestalt | [gestalt.netlify.app](https://gestalt.netlify.app/) | [pinterest/gestalt](https://github.com/pinterest/gestalt) | 4,023 | 321 | 15 | Apache 2.0 |
+| Grommet | [v2.grommet.io](https://v2.grommet.io/) | [grommet/grommet](https://github.com/grommet/grommet) | 8,048 | 982 | 198 | Apache 2.0 |
+| MUI | [mui.com/material-ui/](https://mui.com/material-ui/) | [mui/material-ui](https://github.com/mui/material-ui) | 81,915 | 28,229 | 1,278 | MIT |
+| Onsen UI | [onsen.io](https://onsen.io/) | [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) | 8,641 | 1,024 | 104 | \-- |
+| Orbit | [orbit.kiwi](https://orbit.kiwi/) | [kiwicom/orbit](https://github.com/kiwicom/orbit) | 1,254 | 128 | 26 | MIT |
+| Prime React | [primefaces.org/primereact](https://primefaces.org/primereact) | [primefaces/primereact](https://github.com/primefaces/primereact) | 3,190 | 647 | 200 | MIT |
+| Quasar | [quasar.dev](https://quasar.dev/) | [quasarframework/quasar](https://github.com/quasarframework/quasar) | 22,121 | 2,979 | 448 | MIT |
+| React Bootstrap | [react-bootstrap.github.io](https://react-bootstrap.github.io/) | [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) | 21,160 | 3,417 | 164 | MIT |
+| React Toolbox | [react-toolbox.io](http://react-toolbox.io/) | [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) | 8,700 | 1,040 | 268 | MIT |
+| react-md | [react-md.dev](https://react-md.dev/) | [mlaursen/react-md](https://github.com/mlaursen/react-md) | 2,322 | 316 | 52 | MIT |
+| Ring UI | [jetbrains.github.io/ring-ui/master/index.html?path=/docs](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs) | [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) | 3,293 | 191 | 7 | Apache 2.0 |
+| Semantic UI | [semantic-ui.com](https://semantic-ui.com/) | [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 50,195 | 5,108 | 1,059 | MIT |
+| Smooth UI | [smooth-code.com/open-source/smooth-ui](https://smooth-code.com/open-source/smooth-ui) | [smooth-code/smooth-ui](https://github.com/smooth-code/smooth-ui) | 1,603 | 114 | 10 | MIT |
+| Zendesk Garden | [garden.zendesk.com](https://garden.zendesk.com/) | [zendeskgarden/react-components](https://github.com/zendeskgarden/react-components) | 1,030 | 86 | 15 | Apache 2.0 |
+
+> all of the above statistics were last updated Wed, 12 Oct 2022 18:16:19 GMT. For real-time data, [see the website](http://react-ui-roundup.dimitrimitropoulos.com/).
+
+Framework Features
+------------------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#framework-features)
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria)
+
+*   `Native Dark Mode`: The project is made with dark-mode styling in mind. An out-of-the-box dark mode is either used on the docs site itself or well documented and easy to configure.
+*   `Design Kits`: Ready-made resources exist for designers such as Sketch or Figma download packs.
+*   `RTL Support`: Explicit right-to-Left support for use in apps with languages like Arabic, Hebrew, or Persian.
+*   `Themer`: A user-interactable theming area where designers and developers can play around with look and feel without needing to do any programming.
+*   `Native TypeScript`: Is either written in TypeScript (ideally) or has TypeScript definitions directly in the project. DefinitelyTyped does not qualify.
+
+| Name | Native Dark Mode | Design Kits | RTL Support | Themer | Native TypeScript |
+| --- | --- | --- | --- | --- | --- |
+| Ant Design | ✔️ | [Figma](https://ant.design/docs/spec/download), [Sketch](https://ant.design/docs/spec/download) | ✔️ | [Link](https://antdtheme.com/aliyun) | ✔️ |
+| Atlaskit | ❌ | [Sketch](https://atlassian.design/guidelines/product/resources/web-product-gui-pack) | ❌ | ❌ | ❌ |
+| Blueprint | ✔️ | [Sketch](https://blueprintjs.com/docs/#resources) | ✔️ | ❌ | ✔️ |
+| Carbon Design | ✔️ | [Sketch](https://www.carbondesignsystem.com/resources#theme-libraries) | ✔️ | [Link](https://themes.carbondesignsystem.com/?nav=button) | ❌ |
+| Chakra UI | ✔️ | ❌ | ✔️ | ❌ | ✔️ |
+| Elastic UI | ✔️ | [Sketch](https://elastic.github.io/eui) | ❌ | ❌ | ✔️ |
+| Element | ❌ | [Axure](https://element.eleme.io/#/en-US/resource), [Sketch](https://element.eleme.io/#/en-US/resource) | ❌ | [Link](https://element.eleme.io/#/en-US/theme/preview) | ❌ |
+| Elemental UI | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Evergreen | ❌ | [Sketch](https://evergreen.segment.com/for-designers) | ❌ | ❌ | ❌ |
+| Fluent UI | ✔️ | [Figma](https://developer.microsoft.com/en-us/fluentui#/resources), [Sketch](https://developer.microsoft.com/en-us/fluentui#/resources) | ❌ | ❌ | ✔️ |
+| Gestalt | ❌ | ❌ | ✔️ | ❌ | ❌ |
+| Grommet | ❌ | [Custom](https://designer.grommet.io/), [Framer X](https://github.com/grommet/design-kit/blob/master/grommet-2-open-theme.framerx), [Sketch](https://github.com/grommet/design-kit) | ✔️ | [Link](https://theme-designer.grommet.io/Dashboard) | ✔️ |
+| MUI | ✔️ | [Adobe XD](https://mui.com/material-ui//discover-more/related-projects/#design-resources), [Figma](https://mui.com/material-ui//discover-more/related-projects/#design-resources), [Sketch](https://mui.com/material-ui//discover-more/related-projects/#design-resources) | ✔️ | [Link](https://mui.com/material-ui//discover-more/related-projects/#theming) | ✔️ |
+| Onsen UI | ✔️ | ❌ | ❌ | ❌ | ✔️ |
+| Orbit | ❌ | [Abstract](https://orbit.kiwi/getting-started/for-designers), [Sketch](https://orbit.kiwi/getting-started/for-designers) | ✔️ | [Link](https://themer.orbit.kiwi/) | ❌ |
+| Prime React | ✔️ | ❌ | ❌ | ❌ | ❌ |
+| Quasar | ✔️ | ❌ | ✔️ | [Link](https://quasar.dev/style/theme-builder) | ✔️ |
+| React Bootstrap | ❌ | ❌ | ❌ | ❌ | ✔️ |
+| React Toolbox | ❌ | ❌ | ❌ | ❌ | ✔️ |
+| react-md | ✔️ | ❌ | ❌ | ❌ | ✔️ |
+| Ring UI | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Semantic UI | ❌ | [Sketch](https://semantic-ui.com/introduction/advanced-usage.html#sketch-files) | ✔️ | ❌ | ❌ |
+| Smooth UI | ✔️ | ❌ | ❌ | ❌ | ❌ |
+| Zendesk Garden | ❌ | ❌ | ✔️ | ❌ | ✔️ |
+
+Components
+----------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#components)
+
+Alert
+-----
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#alert)
+
+Alerts are used to show an important message to users.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-1)
+
+*   `Closable`: The alert has an "out of the box" way to dismiss, usually with an `onClose` prop.
+*   `Types`: The alert has ready-made variations.
+
+| Framework | Name | Closable | Types |
+| --- | --- | --- | --- |
+| Ant Design | [Alert](https://ant.design/components/alert) | ✔️ | `error`, `info`, `success`, `warning` |
+| Atlaskit | [SectionMessage](https://atlassian.design/components/section-message) | ❌ | `change`, `confirmation`, `error`, `info`, `warning` |
+| Atlaskit | [Flag](https://atlassian.design/components/flag) | ❌ | `change`, `confirmation`, `error`, `info`, `warning` |
+| Chakra UI | [Alert](https://chakra-ui.com/docs/feedback/alert) | ✔️ | `error`, `info`, `success`, `warning` |
+| Element | [Alert](https://element.eleme.io/#/en-US/component/alert) | ✔️ | `error`, `info`, `success`, `warning` |
+| Elemental UI | [Alert](http://elemental-ui.com/misc) | ❌ | `danger`, `info`, `primary`, `success`, `warning` |
+| Evergreen | [Alert](https://evergreen.segment.com/components/alert) | ✔️ | `danger`, `none`, `success`, `warning` |
+| Fluent UI | [MessageBar](https://developer.microsoft.com/en-us/fluentui#/controls/web/messagebar) | ✔️ | `blocked`, `error`, `info`, `remove`, `severeWarning`, `success`, `warning` |
+| MUI | [Alert](https://mui.com/material-ui//react-alert) | ✔️ | `error`, `info`, `success`, `warning` |
+| Orbit | [Alert](https://orbit.kiwi/components/information/alert-message/) | ✔️ | `critical`, `info`, `success`, `warning` |
+| Quasar | [banner](https://quasar.dev/vue-components/banner) | ❌ |  |
+| React Bootstrap | [Alert](https://react-bootstrap.github.io/components/alerts) | ✔️ | `danger`, `dark`, `info`, `light`, `primary`, `secondary`, `success`, `warning` |
+| Ring UI | [Alert](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs/components-alert--simple) | ✔️ | `error`, `loading`, `message`, `success`, `warning` |
+| Smooth UI | [Alert](https://smooth-code.com/open-source/smooth-ui/docs/alert) | ❌ | `danger`, `dark`, `info`, `light`, `primary`, `secondary`, `success`, `warning` |
+| Zendesk Garden | [Notification](https://garden.zendesk.com/components) | ✔️ | `error`, `info`, `success`, `warning` |
+
+> [Blueprint](https://github.com/palantir/blueprint), [Carbon Design](https://github.com/carbon-design-system/carbon), [Elastic UI](https://github.com/elastic/eui), [Gestalt](https://github.com/pinterest/gestalt), [Grommet](https://github.com/grommet/grommet), [Onsen UI](https://github.com/OnsenUI/OnsenUI), [Prime React](https://github.com/primefaces/primereact), [React Toolbox](https://github.com/react-toolbox/react-toolbox), [react-md](https://github.com/mlaursen/react-md), and [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) appear to be missing an Alert component. [Please file an issue](https://github.com/dimitropoulos/react-ui-roundup/issues/new) if one now exists.
+
+AppBar
+------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#appbar)
+
+The AppBar displays information and actions relating to the current screen.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-2)
+
+*   `API`: The API style used for the components contained within the AppBar.
+*   `Dense`: There is a built-in way to make the bar take up less vertical space.
+*   `Sticky`: A prop exists which can set the bar into a mode where it remains at the top of the screen, independent of scroll depth.
+*   `Theme Mode`: The bar can be individually themed to use a theme mode that doesn't match the rest of the app. E.g. dark mode AppBar in a light mode app.
+
+| Framework | Name | API | Dense | Sticky | Theme Mode |
+| --- | --- | --- | --- | --- | --- |
+| Elastic UI | [Header](https://elastic.github.io/eui/#/layout/header) | `customComponents` | ❌ | ✔️ | ✔️ |
+| MUI | [AppBar](https://mui.com/material-ui//react-app-bar) | `children` | ✔️ | ✔️ | ✔️ |
+| React Toolbox | [AppBar](http://react-toolbox.io/#/components/app_bar) | `props` | ❌ | ✔️ | ❌ |
+| react-md | [AppBar](https://react-md.dev/packages/app-bar/demos) | `customComponents` | ✔️ | ❌ | ✔️ |
+| Ring UI | [Header](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs/components-header--header) | `children` | ✔️ | ❌ | ✔️ |
+| Zendesk Garden | [Header](https://garden.zendesk.com/components/chrome#header) | `customComponents` | ✔️ | ❌ | ✔️ |
+
+> [Ant Design](https://github.com/ant-design/ant-design), [Atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2), [Blueprint](https://github.com/palantir/blueprint), [Carbon Design](https://github.com/carbon-design-system/carbon), [Chakra UI](https://github.com/chakra-ui/chakra-ui), [Element](https://github.com/ElemeFE/element), [Elemental UI](https://github.com/elementalui/elemental), [Evergreen](https://github.com/segmentio/evergreen), [Fluent UI](https://github.com/microsoft/fluentui), [Gestalt](https://github.com/pinterest/gestalt), [Grommet](https://github.com/grommet/grommet), [Onsen UI](https://github.com/OnsenUI/OnsenUI), [Orbit](https://github.com/kiwicom/orbit), [Prime React](https://github.com/primefaces/primereact), [Quasar](https://github.com/quasarframework/quasar), [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), and [Smooth UI](https://github.com/smooth-code/smooth-ui) appear to be missing an AppBar component. [Please file an issue](https://github.com/dimitropoulos/react-ui-roundup/issues/new) if one now exists.
+
+Avatar
+------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#avatar)
+
+Avatars can be used to represent people or objects.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-3)
+
+*   `Badge`: A custom badge or status is available or easily configurable.
+*   `Shapes`: Avatars can be easily formed into different styles using a prop or similar mechanism (not custom CSS).
+*   `Sizes`: Avatars can be easily sized between different (and consistent) major sizes.
+*   `Types`: Avatars can be presented to users as icons (i.e. generic fallback illustrations), custom images, or can contain text.
+
+| Framework | Name | Badge | Shapes | Sizes | Types |
+| --- | --- | --- | --- | --- | --- |
+| Ant Design | [Avatar](https://ant.design/components/avatar) | ✔️ | `circle`, `square` | `default`, `large`, `number`, `small` | `icon`, `image`, `text` |
+| Atlaskit | [Avatar](https://atlassian.design/components/avatar) | ❌ | `circle`, `square` | `large`, `medium`, `small`, `xlarge`, `xsmall`, `xxlarge` | `icon`, `image` |
+| Chakra UI | [Avatar](https://chakra-ui.com/docs/media-and-icons//avatar) | ✔️ | `circle` | `2xl`, `2xs`, `lg`, `md`, `sm`, `xl`, `xs` |  |
+| Element | [Avatar](https://element.eleme.io/#/en-US/component/avatar) | ❌ | `circle`, `square` | `large`, `medium`, `number`, `small` | `image`, `image`, `text` |
+| Evergreen | [Avatar](https://evergreen.segment.com/components/avatar) | ❌ | `circle` | `number` | `image`, `text` |
+| Fluent UI | [Persona](https://developer.microsoft.com/en-us/fluentui#/controls/web/persona) | ✔️ | `circle`, `rounded-square` | `number` | `icon`, `image`, `text` |
+| MUI | [Avatar](https://mui.com/material-ui//react-avatar) | ✔️ | `circle`, `rounded-square`, `square` | `number` | `icon`, `image`, `text` |
+| Quasar | [avatar](https://quasar.dev/vue-components/avatar) | ✔️ | `circle`, `rounded-square`, `square` | `lg`, `md`, `number`, `sm`, `xl`, `xs` | `icon`, `image`, `text` |
+| Ring UI | [Avatar](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs/components-avatar--basic) | ❌ | `circle`, `rounded-square` | `18`, `20`, `24`, `32`, `40`, `48`, `56`, `number` | `image` |
+| Zendesk Garden | [Avatar](https://garden.zendesk.com/components/avatar) | ✔️ | `circle`, `rounded-square` | `extraextrasmall`, `extrasmall`, `large`, `medium`, `small` | `icon`, `image`, `text` |
+
+> [Blueprint](https://github.com/palantir/blueprint), [Carbon Design](https://github.com/carbon-design-system/carbon), [Elastic UI](https://github.com/elastic/eui), [Elemental UI](https://github.com/elementalui/elemental), [Gestalt](https://github.com/pinterest/gestalt), [Grommet](https://github.com/grommet/grommet), [Onsen UI](https://github.com/OnsenUI/OnsenUI), [Orbit](https://github.com/kiwicom/orbit), [Prime React](https://github.com/primefaces/primereact), [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap), [React Toolbox](https://github.com/react-toolbox/react-toolbox), [react-md](https://github.com/mlaursen/react-md), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), and [Smooth UI](https://github.com/smooth-code/smooth-ui) appear to be missing an Avatar component. [Please file an issue](https://github.com/dimitropoulos/react-ui-roundup/issues/new) if one now exists.
+
+AvatarGroup
+-----------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#avatargroup)
+
+AvatarGroups stack a set of Avatars into a customized list, often with customized animations and options.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-4)
+
+*   `Cascade Direction`: A prop exists that allows you to set whether the children overlap above or below each other.
+*   `Expandable Group`: Avatar groups support expandable lists where a user can click to see more members in the list.
+*   `Max Count`: A custom number can be set representing the number of avatars shown.
+
+| Framework | Name | Cascade Direction | Expandable Group | Max Count |
+| --- | --- | --- | --- | --- |
+| Ant Design | [Avatar.Group](https://ant.design/components/avatar) | `above` | ✔️ | ✔️ |
+| Atlaskit | [AvatarGroup](https://atlassian.design/components/avatar-group) | `below` | ✔️ | ✔️ |
+| Chakra UI | [AvatarGroup](https://chakra-ui.com/docs/media-and-icons/avatar) | `below` | ❌ | ✔️ |
+| Fluent UI | [Facepile](https://developer.microsoft.com/en-us/fluentui#/controls/web/facepile) | `no-overlap` | ✔️ | ✔️ |
+| MUI | [AvatarGroup](https://mui.com/material-ui//react-avatar) | `below` | ❌ | ✔️ |
+
+> [Blueprint](https://github.com/palantir/blueprint), [Carbon Design](https://github.com/carbon-design-system/carbon), [Elastic UI](https://github.com/elastic/eui), [Element](https://github.com/ElemeFE/element), [Elemental UI](https://github.com/elementalui/elemental), [Evergreen](https://github.com/segmentio/evergreen), [Gestalt](https://github.com/pinterest/gestalt), [Grommet](https://github.com/grommet/grommet), [Onsen UI](https://github.com/OnsenUI/OnsenUI), [Orbit](https://github.com/kiwicom/orbit), [Prime React](https://github.com/primefaces/primereact), [Quasar](https://github.com/quasarframework/quasar), [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap), [React Toolbox](https://github.com/react-toolbox/react-toolbox), [react-md](https://github.com/mlaursen/react-md), [Ring UI](https://github.com/JetBrains/ring-ui), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), [Smooth UI](https://github.com/smooth-code/smooth-ui), and [Zendesk Garden](https://github.com/zendeskgarden/react-components) appear to be missing an AvatarGroup component. [Please file an issue](https://github.com/dimitropoulos/react-ui-roundup/issues/new) if one now exists.
+
+Button
+------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#button)
+
+Users trigger actions by clicking on buttons.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-5)
+
+*   `Disabled`: A `disabled` prop exists for use in situations where the user cannot interact with the button.
+*   `Groupable`: A ButtonGroup component exists in the library, or other such pre-made methods for making button groups.
+*   `Icon`: An icon can be included either at the left or right of the text, or button can be used with just an icon and no text (notated as `only`).
+*   `Loading`: The button has a pre-made loading state for asynchronous events.
+*   `Sizes`: The button can be easily sized between different (and consistent) major sizes.
+
+| Framework | Name | Disabled | Groupable | Icon | Loading | Sizes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ant Design | [Button](https://ant.design/components/button) | ✔️ | ✔️ | `left`, `only`, `right` | ✔️ | `default`, `large`, `small` |
+| Atlaskit | [Button](https://atlassian.design/components/button) | ✔️ | ✔️ | `left`, `right` | ✔️ |  |
+| Blueprint | [Button](https://blueprintjs.com/docs/#core/components/button) | ✔️ | ✔️ | `left`, `only`, `right` | ✔️ | `default`, `large` |
+| Carbon Design | [Button](http://react.carbondesignsystem.com/?path=/story/buttons--default) | ✔️ | ✔️ | `only`, `right` | ✔️ | `default`, `field`, `small` |
+| Chakra UI | [Button](https://chakra-ui.com/docs/form/button) | ✔️ | ❌ | `left`, `only`, `right` | ❌ | `lg`, `md`, `sm`, `xs` |
+| Elastic UI | [Button](https://elastic.github.io/eui/#/navigation/button) | ✔️ | ✔️ | `left`, `only`, `right` | ✔️ | `m`, `sm`, `xs` |
+| Element | [Button](https://element.eleme.io/#/en-US/component/button) | ✔️ | ✔️ | `left`, `only`, `right` | ✔️ | `default`, `medium`, `mini`, `small` |
+| Elemental UI | [Button](http://elemental-ui.com/buttons) | ❌ | ✔️ |  | ❌ | `default`, `extra small`, `large`, `small` |
+| Evergreen | [Button](https://evergreen.segment.com/components/buttons) | ✔️ | ✔️ | `left`, `only`, `right` | ✔️ | `arbitrary pixel sizes` |
+| Fluent UI | [Button](https://developer.microsoft.com/en-us/fluentui#/controls/web/button) | ✔️ | ❌ |  | ❌ |  |
+| Gestalt | [Button](https://gestalt.netlify.app/button) | ✔️ | ❌ | `only` | ❌ | `lg`, `md`, `sm` |
+| Grommet | [Button](https://v2.grommet.io/button) | ✔️ | ❌ | `left`, `only`, `right` | ❌ |  |
+| MUI | [Button](https://mui.com/material-ui//react-button) | ✔️ | ✔️ | `left`, `only`, `right` | ❌ | `large`, `medium`, `small` |
+| Onsen UI | [Button](https://onsen.io/v2/api/react/Button.html) | ✔️ | ❌ |  | ❌ | `default`, `large` |
+| Orbit | [Button](https://orbit.kiwi/components/action/button/) | ✔️ | ✔️ | `left`, `only`, `right` | ✔️ | `large`, `normal`, `small` |
+| Prime React | [Button](https://primefaces.org/primereact/button) | ❌ | ❌ | `left`, `only`, `right` | ❌ |  |
+| Quasar | [btn](https://quasar.dev/vue-components/button) | ✔️ | ✔️ | `left`, `only`, `right` | ✔️ | `custom`, `lg`, `md`, `sm`, `xs` |
+| React Bootstrap | [Button](https://react-bootstrap.github.io/components/buttons) | ✔️ | ✔️ |  | ❌ | `lg`, `sm` |
+| React Toolbox | [Button](http://react-toolbox.io/#/components/button) | ✔️ | ❌ | `left`, `only` | ❌ |  |
+| react-md | [Button](https://react-md.dev/packages/buttons/demos) | ✔️ | ❌ | `left`, `only`, `right` | ❌ |  |
+| Ring UI | [Button](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs/components-button--basic) | ✔️ | ✔️ | `left`, `only` | ✔️ | `default`, `large`, `small` |
+| Semantic UI | [Button](https://semantic-ui.com/elements/button.html) | ✔️ | ✔️ | `left`, `only`, `right` | ✔️ | `big`, `huge`, `large`, `massive`, `medium`, `mini`, `small`, `tiny` |
+| Smooth UI | [Button](https://smooth-code.com/open-source/smooth-ui/docs/button) | ✔️ | ❌ |  | ❌ | `base`, `lg`, `sm`, `xl`, `xs` |
+| Zendesk Garden | [Button](https://garden.zendesk.com/components/button) | ✔️ | ✔️ | `only` | ❌ | `default`, `large`, `small` |
+
+Checkbox
+--------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#checkbox)
+
+Users toggle between checked, unchecked (or indeterminate) values with checkboxes.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-6)
+
+*   `Custom Icon`: A custom icon can be provided in place of the checkbox itself via a prop or a child.
+*   `Disabled`: The checkbox has a `disabled` state, indicating the user cannot interact with it.
+*   `Indeterminate`: The checkbox has an indeterminate state.
+*   `Invalid`: The checkbox has an `invalid` or `error` state.
+*   `Label Placement`: The text can be positioned at different places around the checkbox.
+
+| Framework | Name | Custom Icon | Disabled | Indeterminate | Invalid | Label Placement |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ant Design | [Checkbox](https://ant.design/components/checkbox) | ❌ | ✔️ | ✔️ | ❌ | `right` |
+| Atlaskit | [Checkbox](https://atlassian.design/components/checkbox) | ❌ | ✔️ | ✔️ | ✔️ | `right` |
+| Blueprint | [Checkbox](https://blueprintjs.com/docs/#core/components/checkbox) | ❌ | ❌ | ✔️ | ❌ | `left`, `right` |
+| Carbon Design | [Checkbox](http://react.carbondesignsystem.com/?path=/story/checkbox--checked) | ❌ | ✔️ | ✔️ | ❌ | `right` |
+| Chakra UI | [Checkbox](https://chakra-ui.com/docs/form/checkbox) | ❌ | ✔️ | ✔️ | ✔️ | `right` |
+| Elastic UI | [Checkbox](https://elastic.github.io/eui/#/forms/form-controls) | ❌ | ✔️ | ✔️ | ❌ | `right` |
+| Element | [Checkbox](https://element.eleme.io/#/en-US/component/checkbox) | ❌ | ✔️ | ✔️ | ❌ | `right` |
+| Elemental UI | [Checkbox](http://elemental-ui.com/components/checkbox) | ❌ | ❌ | ❌ | ❌ | `right` |
+| Evergreen | [Checkbox](https://evergreen.segment.com/components/checkbox) | ❌ | ✔️ | ✔️ | ✔️ | `right` |
+| Fluent UI | [Checkbox](https://developer.microsoft.com/en-us/fluentui#/controls/web/checkbox) | ❌ | ✔️ | ✔️ | ❌ | `left`, `right` |
+| Gestalt | [Checkbox](https://gestalt.netlify.app/checkbox) | ❌ | ✔️ | ✔️ | ✔️ | `right` |
+| Grommet | [CheckBox](https://v2.grommet.io/checkbox) | ❌ | ✔️ | ✔️ | ❌ | `right` |
+| MUI | [Checkbox](https://mui.com/material-ui//react-checkbox) | ✔️ | ✔️ | ✔️ | ❌ | `above`, `below`, `left`, `right` |
+| Onsen UI | [Checkbox](https://onsen.io/v2/api/react/Checkbox.html) | ✔️ | ❌ | ✔️ | ✔️ | `right` |
+| Orbit | [Checkbox](https://orbit.kiwi/components/input/checkbox) | ❌ | ✔️ | ❌ | ✔️ | `right` |
+| Prime React | [Checkbox](https://primefaces.org/primereact/checkbox) | ❌ | ✔️ | ❌ | ❌ | `right` |
+| Quasar | [checkbox](https://quasar.dev/vue-components/checkbox) | ❌ | ✔️ | ✔️ | ❌ | `left`, `right` |
+| React Bootstrap | [Form.Check](https://react-bootstrap.github.io/components/forms/#forms-form-check) | ❌ | ✔️ | ❌ | ❌ |  |
+| React Toolbox | [Checkbox](http://react-toolbox.io/#/components/checkbox) | ❌ | ✔️ | ❌ | ❌ | `right` |
+| react-md | [Checkbox](https://react-md.dev/packages/form/selection-control-demos) | ✔️ | ✔️ | ❌ | ❌ | `right` |
+| Ring UI | [Checkbox](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs/components-checkbox--basic) | ❌ | ✔️ | ❌ | ❌ | `right` |
+| Semantic UI | [Checkbox](https://semantic-ui.com/modules/checkbox.html) | ❌ | ✔️ | ✔️ | ❌ | `right` |
+| Smooth UI | [Checkbox](https://smooth-code.com/open-source/smooth-ui/docs/checkbox) | ❌ | ✔️ | ❌ | ❌ | `right` |
+| Zendesk Garden | [Checkbox](https://garden.zendesk.com/components/checkbox) | ❌ | ✔️ | ✔️ | ❌ | `right` |
+
+DatePicker
+----------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#datepicker)
+
+Users select a date or date range using a date picker.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-7)
+
+*   `Clearable`: Has a prop that allows the user to easily clear the date selection.
+*   `Custom Locale`: A developer can specify a custom locale with a prop.
+*   `Min/Max`: Allows a devloper to easily set a minimum and maximum date.
+*   `Modes`: Allows users to quickly select from different magnituteds of lengths of time.
+*   `Presets`: A super simple way exists to provide the user with preset dates (e.g. "Today", "Last Week", , "Past 3 years").
+*   `Range`: An out-of-the-box solution exists for allowing the user to select date ranges.
+*   `Time`: Users are able to input times.
+
+| Framework | Name | Clearable | Custom Locale | Min/Max | Modes | Presets | Range | Time |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ant Design | [DatePicker](https://ant.design/components/date-picker) | ✔️ | ✔️ | ❌ | `day`, `month`, `quarter`, `week`, `year` | ✔️ | ✔️ | ✔️ |
+| Blueprint | [DatePicker](https://blueprintjs.com/docs/#datetime/daterangepicker) | ❌ | ✔️ | ✔️ | `day`, `month`, `year` | ✔️ | ✔️ | ✔️ |
+| Carbon Design | [DatePicker](http://react.carbondesignsystem.com/?path=/story/components-datepicker--simple) | ❌ | ❌ | ✔️ | `day`, `year` | ❌ | ✔️ | ✔️ |
+| Elastic UI | [DatePicker](https://elastic.github.io/eui/#/forms/date-picker) | ✔️ | ✔️ | ✔️ | `day` | ❌ | ✔️ | ✔️ |
+| Element | [DatePicker](https://element.eleme.io/#/en-US/component/date-picker) | ✔️ | ❌ | ✔️ | `day`, `month`, `week`, `year` | ✔️ | ✔️ | ✔️ |
+| Fluent UI | [DatePicker](https://developer.microsoft.com/en-us/fluentui#/controls/web/datepicker) | ❌ | ❌ | ✔️ | `day`, `month`, `year` | ❌ | ✔️ | ❌ |
+| Gestalt | [DatePicker](https://gestalt.netlify.app/datepicker) | ❌ | ✔️ | ✔️ | `day` | ❌ | ✔️ | ❌ |
+| Grommet | [DateInput](https://v2.grommet.io/dateinput) | ❌ | ❌ | ❌ | `day` | ❌ | ❌ | ❌ |
+| MUI | [DatePicker](https://mui.com/x/react-date-pickers/date-picker/) | ❌ | ❌ | ❌ | `day` | ❌ | ❌ | ✔️ |
+| Quasar | [date](https://quasar.dev/vue-components/date) | ❌ | ❌ | ✔️ | `day`, `month`, `year` | ❌ | ✔️ | ✔️ |
+| React Toolbox | [DatePicker](http://react-toolbox.io/#/components/date_picker) | ❌ | ✔️ | ✔️ | `day`, `month`, `year` | ❌ | ❌ | ❌ |
+| Ring UI | [DatePicker](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs/components-date-picker--clearable) | ✔️ | ❌ | ✔️ | `day`, `month`, `year` | ❌ | ✔️ | ✔️ |
+| Zendesk Garden | [DatePicker](https://garden.zendesk.com/components/date-picker) | ❌ | ✔️ | ✔️ | `day` | ❌ | ✔️ | ❌ |
+
+> [Atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2), [Chakra UI](https://github.com/chakra-ui/chakra-ui), [Elemental UI](https://github.com/elementalui/elemental), [Evergreen](https://github.com/segmentio/evergreen), [Onsen UI](https://github.com/OnsenUI/OnsenUI), [Orbit](https://github.com/kiwicom/orbit), [Prime React](https://github.com/primefaces/primereact), [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap), [react-md](https://github.com/mlaursen/react-md), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), and [Smooth UI](https://github.com/smooth-code/smooth-ui) appear to be missing a DatePicker component. [Please file an issue](https://github.com/dimitropoulos/react-ui-roundup/issues/new) if one now exists.
+
+ErrorBoundary
+-------------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#errorboundary)
+
+[ErrorBoundaries](https://reactjs.org/docs/error-boundaries.html) are a React 16+ specific feature that uses the [componentDidCatch](https://reactjs.org/docs/react-component.html#componentdidcatch) API for handling uncaught errors without unmounting the whole React component tree.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-8)
+
+*   `Custom Text`: Has a prop or props that can be used to provide a custom title and/or description (as a string, not a ReactNode).
+*   `Drop-In JSX Fallback`: Has a prop that can be used to provide a custom ReactNode fallback that does not receive the date of `componentDidCatch`.
+*   `Wrapper JSX Fallback`: Has a prop that can be used to provide a custom ReactNode for fallback which receives the data of `componentDidCatch`.
+
+| Framework | Name | Custom Text | Drop-In JSX Fallback | Wrapper JSX Fallback |
+| --- | --- | --- | --- | --- |
+| Ant Design | [Alert.ErrorBoundary](https://ant.design/components/alert/#components-alert-demo-error-boundary) | ✔️ | ❌ | ❌ |
+| Carbon Design | [ErrorBoundary](http://react.carbondesignsystem.com/?path=/story/errorboundary--default) | ❌ | ✔️ | ❌ |
+| Elastic UI | [ErrorBoundary](https://elastic.github.io/eui/#/utilities/error-boundary) | ❌ | ❌ | ❌ |
+
+> [Atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2), [Blueprint](https://github.com/palantir/blueprint), [Chakra UI](https://github.com/chakra-ui/chakra-ui), [Element](https://github.com/ElemeFE/element), [Elemental UI](https://github.com/elementalui/elemental), [Evergreen](https://github.com/segmentio/evergreen), [Fluent UI](https://github.com/microsoft/fluentui), [Gestalt](https://github.com/pinterest/gestalt), [Grommet](https://github.com/grommet/grommet), [MUI](https://github.com/mui/material-ui), [Onsen UI](https://github.com/OnsenUI/OnsenUI), [Orbit](https://github.com/kiwicom/orbit), [Prime React](https://github.com/primefaces/primereact), [Quasar](https://github.com/quasarframework/quasar), [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap), [React Toolbox](https://github.com/react-toolbox/react-toolbox), [react-md](https://github.com/mlaursen/react-md), [Ring UI](https://github.com/JetBrains/ring-ui), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), [Smooth UI](https://github.com/smooth-code/smooth-ui), and [Zendesk Garden](https://github.com/zendeskgarden/react-components) appear to be missing an ErrorBoundary component. [Please file an issue](https://github.com/dimitropoulos/react-ui-roundup/issues/new) if one now exists.
+
+Pagination
+----------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#pagination)
+
+Pagination allows long lists to be divided into several pages.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-9)
+
+*   `Compact`: Has a mode that greatly conserves horizontal space, likely by omitting multiple page selectors.
+*   `Edge #`: Allows configuring the number of items that will be shown at the beginning and end of the range.
+*   `First/Last`: Has ready-made functionality to allow users to quickly select first and last pages (either with a stationary page number or a dedicated button).
+*   `# of Pages`: Allows the number of page items shown to be configurable.
+*   `Page Size`: Allows configuring the number of items that will be shown per page.
+*   `Style`: Has an API the is oriented around pages (but disregards pages) or items (and figures out pages automatically).
+
+| Framework | Name | \# of Pages | Compact | Edge # | First/Last | Page Size | Style |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Ant Design | [Pagination](https://ant.design/components/pagination) | ✔️ | ✔️ | ❌ | ❌ | ✔️ | `items` |
+| Atlaskit | [Pagination](https://atlassian.design/components/pagination) | ✔️ | ❌ | ❌ | ❌ | ❌ | `pages` |
+| Carbon Design | [PaginationNav](http://react.carbondesignsystem.com/?path=/story/components-paginationnav--default) | ✔️ | ❌ | ❌ | ❌ | ✔️ | `items` |
+| Elastic UI | [Pagination](https://elastic.github.io/eui/#/navigation/pagination) | ❌ | ✔️ | ❌ | ✔️ | ❌ | `pages` |
+| Element | [Pagination](https://element.eleme.io/#/en-US/component/pagination) | ✔️ | ✔️ | ❌ | ❌ | ✔️ | `items` |
+| Evergreen | [Pagination](https://evergreen.segment.com/components/pagination) | ❌ | ✔️ | ❌ | ❌ | ❌ | `pages` |
+| Grommet | [Pagination](https://v2.grommet.io/pagination) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | `items` |
+| MUI | [Pagination](https://mui.com/material-ui//react-pagination) | ❌ | ✔️ | ✔️ | ✔️ | ❌ | `pages` |
+| Orbit | [Pagination](https://orbit.kiwi/components/navigation/pagination) | ✔️ | ✔️ | ❌ | ❌ | ❌ | `pages` |
+| Prime React | [Paginator](https://primefaces.org/primereact/paginator) | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | `items`, `pages` |
+| Quasar | [pagination](https://quasar.dev/vue-components/pagination) | ✔️ | ✔️ | ❌ | ✔️ | ❌ | `pages` |
+| React Bootstrap | [Pagination](https://react-bootstrap.github.io/components/pagination) | ❌ | ✔️ | ❌ | ✔️ | ❌ | `pages` |
+| Ring UI | [Pager](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs/components-pager--basic) | ✔️ | ❌ | ❌ | ✔️ | ✔️ | `pages` |
+| Zendesk Garden | [Pagination](https://garden.zendesk.com/components/pagination) | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | `pages` |
+
+> [Blueprint](https://github.com/palantir/blueprint), [Chakra UI](https://github.com/chakra-ui/chakra-ui), [Elemental UI](https://github.com/elementalui/elemental), [Fluent UI](https://github.com/microsoft/fluentui), [Gestalt](https://github.com/pinterest/gestalt), [Onsen UI](https://github.com/OnsenUI/OnsenUI), [React Toolbox](https://github.com/react-toolbox/react-toolbox), [react-md](https://github.com/mlaursen/react-md), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), and [Smooth UI](https://github.com/smooth-code/smooth-ui) appear to be missing a Pagination component. [Please file an issue](https://github.com/dimitropoulos/react-ui-roundup/issues/new) if one now exists.
+
+Select
+------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#select)
+
+A Select allows a user to select a value from a series of options. Much more advanced than the native HTML select.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-10)
+
+*   `Async`: Has support fo async-loaded lists (for example, a loading state).
+*   `Disabled`: The whole select be disabled with a built-in prop.
+*   `Disabled Options`: Individual options can be easily disabled with a prop.
+*   `Filterable`: Filter the options of the select with keyboard input.
+*   `Groupable`: Can group the options into sub sections within the options list.
+*   `Icons`: Has out-of-the-box (i.e. props) support for start or end icons (or can easily be composed with icons and has examples of such on the docs).
+*   `Virtual`: Either had a prop that you can use to make the items virtualized, or proveds a simple (documented) way to use another library to do it, e.g. react-virtualized.
+
+| Framework | Name | Async | Disabled | Disabled Options | Filterable | Groupable | Icons | Virtual |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ant Design | [Select](https://ant.design/components/select) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | `end` | ✔️ |
+| Atlaskit | [Select](https://atlassian.design/components/select) | ✔️ | ✔️ | ❌ | ✔️ | ✔️ |  | ❌ |
+| Blueprint | [Select](https://blueprintjs.com/docs/#select/select-component) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |  | ✔️ |
+| Carbon Design | [Select](http://react.carbondesignsystem.com/?path=/story/components-select--default) | ❌ | ✔️ | ✔️ | ❌ | ✔️ |  | ❌ |
+| Chakra UI | [Select](https://chakra-ui.com/docs/form/select) | ❌ | ✔️ | ✔️ | ❌ | ❌ |  | ❌ |
+| Elastic UI | [SuperSelect](https://elastic.github.io/eui/#/forms/super-select) | ✔️ | ❌ | ✔️ | ❌ | ❌ | `composable` | ❌ |
+| Element | [Select](https://element.eleme.io/#/en-US/component/select) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |  | ❌ |
+| Elemental UI | [Dropdown](http://elemental-ui.com/components/dropdown) | ❌ | ❌ | ❌ | ❌ | ✔️ |  | ❌ |
+| Evergreen | [SelectMenu](https://evergreen.segment.com/components/select-menu) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | `start` | ✔️ |
+| Fluent UI | [Dropdown](https://developer.microsoft.com/en-us/fluentui#/controls/web/dropdown) | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | `composable` | ❌ |
+| Gestalt | [SelectList](https://gestalt.netlify.app/selectlist) | ❌ | ✔️ | ✔️ | ❌ | ❌ |  | ❌ |
+| Grommet | [Select](https://v2.grommet.io/select) | ❌ | ✔️ | ✔️ | ❌ | ❌ |  | ❌ |
+| MUI | [Select](https://mui.com/material-ui//react-select) | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | `composable` | ❌ |
+| Onsen UI | [Select](https://onsen.io/v2/api/react/Select.html) | ❌ | ✔️ | ✔️ | ❌ | ❌ |  | ❌ |
+| Orbit | [Select](https://orbit.kiwi/components/input/select) | ❌ | ✔️ | ✔️ | ❌ | ❌ | `end`, `start` | ❌ |
+| Prime React | [Dropdown](https://primefaces.org/primereact/dropdown) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | `composable` | ✔️ |
+| Quasar | [select](https://quasar.dev/vue-components/select) | ✔️ | ✔️ | ✔️ | ✔️ | ❌ |  | ✔️ |
+| React Bootstrap | [Dropdown](https://react-bootstrap.github.io/components/dropdowns) | ❌ | ✔️ | ✔️ | ✔️ | ✔️ |  | ❌ |
+| React Toolbox | [Dropdown](http://react-toolbox.io/#/components/dropdown) | ❌ | ✔️ | ✔️ | ❌ | ❌ |  | ❌ |
+| react-md | [Dropdown](https://react-md.dev/packages/dropdown/demos) | ❌ | ❌ | ❌ | ❌ | ❌ | `end`, `start` | ✔️ |
+| Ring UI | [Select](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs/components-select--with-a-filter-and-tags) | ✔️ | ✔️ | ✔️ | ✔️ | ❌ |  | ❌ |
+| Semantic UI | [Dropdown](https://semantic-ui.com/modules/dropdown.html) | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | `composable` | ❌ |
+| Smooth UI | [Select](https://smooth-code.com/open-source/smooth-ui/docs/select) | ❌ | ✔️ | ✔️ | ❌ | ❌ |  | ❌ |
+| Zendesk Garden | [Select](https://garden.zendesk.com/components/select) | ❌ | ✔️ | ✔️ | ❌ | ❌ | `start` | ❌ |
+
+Stepper
+-------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#stepper)
+
+Navigation that guides users through the steps of a task.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-11)
+
+*   `Can Be Vertical`: The steps can be stacked vertically.
+*   `Clickable`: A user can click on the step itself to navigate.
+*   `Step Description`: A step can have a subtext with a description.
+*   `Step Error`: A step with an error can be easily identified to the user.
+*   `Step Icon`: The steps have a prop whereby they can be given custom icons.
+
+| Framework | Name | Can Be Vertical | Clickable | Step Description | Step Error | Step Icon |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ant Design | [Steps](https://ant.design/components/steps) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| Atlaskit | [ProgressTracker](https://atlassian.design/components/progress-tracker) | ❌ | ✔️ | ❌ | ❌ | ❌ |
+| Carbon Design | [ProgressIndicator](http://react.carbondesignsystem.com/?path=/story/progressindicator--default) | ✔️ | ✔️ | ✔️ | ✔️ | ❌ |
+| Elastic UI | [Steps](https://elastic.github.io/eui/#/navigation/steps) | ✔️ | ❌ | ❌ | ❌ | ❌ |
+| Element | [Steps](https://element.eleme.io/#/en-US/component/steps) | ✔️ | ❌ | ✔️ | ✔️ | ✔️ |
+| MUI | [Stepper](https://mui.com/material-ui//react-stepper) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| Prime React | [Steps](https://primefaces.org/primereact/steps) | ❌ | ✔️ | ❌ | ❌ | ❌ |
+| Quasar | [stepper](https://quasar.dev/vue-components/stepper) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| Semantic UI | [Steps](https://semantic-ui.com/elements/step.html) | ✔️ | ✔️ | ✔️ | ❌ | ✔️ |
+| Zendesk Garden | [Stepper](https://garden.zendesk.com/components/stepper) | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+> [Blueprint](https://github.com/palantir/blueprint), [Chakra UI](https://github.com/chakra-ui/chakra-ui), [Elemental UI](https://github.com/elementalui/elemental), [Evergreen](https://github.com/segmentio/evergreen), [Fluent UI](https://github.com/microsoft/fluentui), [Gestalt](https://github.com/pinterest/gestalt), [Grommet](https://github.com/grommet/grommet), [Onsen UI](https://github.com/OnsenUI/OnsenUI), [Orbit](https://github.com/kiwicom/orbit), [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap), [React Toolbox](https://github.com/react-toolbox/react-toolbox), [react-md](https://github.com/mlaursen/react-md), [Ring UI](https://github.com/JetBrains/ring-ui), and [Smooth UI](https://github.com/smooth-code/smooth-ui) appear to be missing a Stepper component. [Please file an issue](https://github.com/dimitropoulos/react-ui-roundup/issues/new) if one now exists.
+
+Switch
+------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#switch)
+
+Used to toggle between two states: on and off.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-12)
+
+*   `Disabled`: The switch has a `disabled` state, indicating that the user cannot interact with it.
+*   `Indeterminate`: The switch has an ability to display an indeterminate state.
+*   `Internal Icons`: The switch has a prop (or child) to include custom icons within the space of the switch (e.g. a `checkmark` and an `x` icon).
+*   `Internal Text`: The switch has a prop (or child) to include custom text within the space of the switch (e.g. the text `on` and `off`).
+*   `Lable Placement`: Where a label can be attached to the switch.
+*   `Loading`: The switch has a `loading` state that indicates a pending state of a switch action.
+*   `Sizes`: The lable has native, pre-configured size options.
+
+| Framework | Name | Disabled | Indeterminate | Internal Icons | Internal Text | Lable Placement | Loading | Sizes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ant Design | [Switch](https://ant.design/components/switch) | ✔️ | ❌ | ✔️ | ✔️ |  | ✔️ | `default`, `small` |
+| Atlaskit | [Toggle](https://atlassian.design/components/toggle) | ✔️ | ❌ | ❌ | ❌ |  | ❌ | `large`, `regular` |
+| Blueprint | [Switch](https://blueprintjs.com/docs/#core/components/switch) | ✔️ | ❌ | ❌ | ✔️ | `left`, `right` | ❌ | `default`, `large` |
+| Carbon Design | [Switch](http://react.carbondesignsystem.com/?path=/story/toggle--toggled) | ✔️ | ❌ | ❌ | ❌ | `right` | ❌ | `default`, `small` |
+| Chakra UI | [Switch](https://chakra-ui.com/docs/form/switch) | ✔️ | ❌ | ❌ | ❌ | `left`, `right` | ❌ | `lg`, `md`, `sm` |
+| Elastic UI | [Switch](https://elastic.github.io/eui/#/forms/form-controls) | ✔️ | ❌ | ❌ | ❌ | `right` | ❌ | `compressed`, `default` |
+| Element | [Switch](https://element.eleme.io/#/en-US/component/switch) | ✔️ | ❌ | ❌ | ❌ | `left`, `right` | ❌ |  |
+| Evergreen | [Switch](https://evergreen.segment.com/components/switch) | ✔️ | ❌ | ❌ | ❌ |  | ❌ | `integers` |
+| Fluent UI | [Toggle](https://developer.microsoft.com/en-us/fluentui#/controls/web/toggle) | ✔️ | ❌ | ❌ | ❌ | `left`, `right` | ❌ |  |
+| Gestalt | [Switch](https://gestalt.netlify.app/switch) | ✔️ | ❌ | ❌ | ❌ |  | ❌ |  |
+| Grommet | [CheckBox](https://v2.grommet.io/checkbox) | ✔️ | ❌ | ❌ | ❌ | `left`, `right` | ❌ |  |
+| MUI | [Switch](https://mui.com/material-ui//react-switch) | ✔️ | ❌ | ❌ | ❌ | `above`, `below`, `left`, `right` | ❌ | `default`, `small` |
+| Onsen UI | [Switch](https://onsen.io/v2/api/react/Switch.html) | ✔️ | ❌ | ❌ | ❌ |  | ❌ |  |
+| Prime React | [InputSwitch](https://primefaces.org/primereact/inputswitch) | ✔️ | ❌ | ❌ | ❌ |  | ❌ |  |
+| Quasar | [toggle](https://quasar.dev/vue-components/toggle) | ✔️ | ❌ | ✔️ | ❌ | `left`, `right` | ❌ | `custom`, `lg`, `md`, `sm`, `xl`, `xs` |
+| React Bootstrap | [Form.Check](https://react-bootstrap.github.io/components/forms/#forms-custom-switch) | ✔️ | ❌ | ❌ | ❌ | `right` | ❌ |  |
+| React Toolbox | [Switch](http://react-toolbox.io/#/components/switch) | ✔️ | ❌ | ❌ | ❌ | `right` | ❌ |  |
+| Ring UI | [Toggle](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs/components-toggle--basic) | ✔️ | ❌ | ❌ | ❌ | `left`, `right` | ❌ |  |
+| Smooth UI | [Switch](https://smooth-code.com/open-source/smooth-ui/docs/switch) | ✔️ | ❌ | ❌ | ✔️ |  | ❌ | `base`, `lg`, `sm`, `xl`, `xs` |
+| Zendesk Garden | [Toggle](https://garden.zendesk.com/components/toggle) | ❌ | ❌ | ❌ | ❌ | `above`, `below` | ❌ |  |
+
+> [Elemental UI](https://github.com/elementalui/elemental), [Orbit](https://github.com/kiwicom/orbit), [react-md](https://github.com/mlaursen/react-md), and [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) appear to be missing a Switch component. [Please file an issue](https://github.com/dimitropoulos/react-ui-roundup/issues/new) if one now exists.
+
+Tabs
+----
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#tabs)
+
+Users switch between different views with tabs.
+
+#### Criteria
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#criteria-13)
+
+*   `Can Be Vertical`: The tabs can be stacked vertically.
+
+| Framework | Name | Can Be Vertical |
+| --- | --- | --- |
+| Ant Design | [Tabs](https://ant.design/components/tabs) | ✔️ |
+| Atlaskit | [Tabs](https://atlassian.design/components/tabs) | ❌ |
+| Blueprint | [Tabs](https://blueprintjs.com/docs/#core/components/tabs) | ✔️ |
+| Carbon Design | [Tabs](http://react.carbondesignsystem.com/?path=/story/tabs--default) | ❌ |
+| Chakra UI | [Tabs](https://chakra-ui.com/docs/disclosure/tabs) | ✔️ |
+| Elastic UI | [Tabs](https://elastic.github.io/eui/#/navigation/tabs) | ❌ |
+| Element | [Tabs](https://element.eleme.io/#/en-US/component/tabs) | ✔️ |
+| Evergreen | [Tablist](https://evergreen.segment.com/components/tabs) | ✔️ |
+| Fluent UI | [Pivot](https://developer.microsoft.com/en-us/fluentui#/controls/web/pivot) | ❌ |
+| Gestalt | [Tabs](https://gestalt.netlify.app/tabs) | ❌ |
+| Grommet | [Tabs](https://v2.grommet.io/tabs) | ❌ |
+| MUI | [Tabs](https://mui.com/material-ui//react-tabs) | ✔️ |
+| Onsen UI | [Tabbar](https://onsen.io/v2/api/react/Tabbar.html) | ❌ |
+| Prime React | [TabView](https://primefaces.org/primereact/tabview) | ❌ |
+| Quasar | [tabs](https://quasar.dev/vue-components/tabs) | ✔️ |
+| React Bootstrap | [Tabs](https://react-bootstrap.github.io/components/tabs) | ❌ |
+| React Toolbox | [Tabs](http://react-toolbox.io/#/components/tabs) | ❌ |
+| react-md | [Tabs](https://react-md.dev/packages/tabs/demos) | ❌ |
+| Ring UI | [Tabs](https://jetbrains.github.io/ring-ui/master/index.html?path=/docs/components-tabs--basic) | ❌ |
+| Semantic UI | [Tabs](https://semantic-ui.com/modules/tab.html) | ❌ |
+| Zendesk Garden | [Tabs](https://garden.zendesk.com/components/tabs) | ✔️ |
+
+> [Elemental UI](https://github.com/elementalui/elemental), [Orbit](https://github.com/kiwicom/orbit), and [Smooth UI](https://github.com/smooth-code/smooth-ui) appear to be missing a Tabs component. [Please file an issue](https://github.com/dimitropoulos/react-ui-roundup/issues/new) if one now exists.
+
+How to Make a Change
+--------------------
+
+[](https://github.com/dimitropoulos/react-ui-roundup?screenshot=true#how-to-make-a-change)
+
+The README.md and website are both autogenerated from the same source input files. For convenience, there is exactly one file for each project that has all the information for that project, located in the [`frameworks directory`](https://github.com/dimitropoulos/react-ui-roundup/tree/master/frameworks). To update any given data point, simply make a change to one of those files and run `yarn generate`.

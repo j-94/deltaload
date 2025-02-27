@@ -1,0 +1,1333 @@
+Skip to content
+Navigation Menu
+Product
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+blitz-js
+/
+blitz
+Public
+ Sponsor
+Notifications
+Fork 801
+ Star 13.8k
+Code
+Issues
+74
+Pull requests
+5
+Discussions
+Actions
+Projects
+1
+Wiki
+Security
+blitz-js/blitz
+ main
+Code
+Folders and files
+Name	Last commit message	Last commit date
+
+Latest commit
+github-actions[bot]
+and
+siddhsuresh
+Version Packages (#4403)
+0fc2d71
+ · 
+History
+682 Commits
+
+
+.changeset
+	
+Version Packages (#4403)
+	
+
+
+.github
+	
+chore: fix CI action versions (#4366)
+	
+
+
+.husky
+	
+(fix): Fix the Type error in RpcServerPlugin (#4152)
+	
+
+
+.vscode
+	
+Add a .vscode/settings.json file to specify a TypeScript version (#3876)
+	
+
+
+apps
+	
+Version Packages (#4403)
+	
+
+
+assets
+	
+sponsor: add route4me as seedling sponsor (#4361)
+	
+
+
+integration-tests
+	
+Version Packages (#4403)
+	
+
+
+packages
+	
+Version Packages (#4403)
+	
+
+
+patches
+	
+feat: upgrade to latest next-auth v4 version (#4345)
+	
+
+
+recipes
+	
+Version Packages (#4403)
+	
+
+
+.all-contributorsrc
+	
+(meta) added @fungilation as contributor
+	
+
+
+.eslintignore
+	
+Set up fancy new monorepo for blitz toolkit with pnpm, turborepo, unb…
+	
+
+
+.gitattributes
+	
+Set up fancy new monorepo for blitz toolkit with pnpm, turborepo, unb…
+	
+
+
+.gitignore
+	
+Replace blitz-env.d.ts with next-env.d.ts (#3773)
+	
+
+
+.kodiak.toml
+	
+add currentPassword to default masked fields in the logger (#4042)
+	
+
+
+.npmrc
+	
+update monorepo tooling (#4169)
+	
+
+
+.prettierignore
+	
+Set up fancy new monorepo for blitz toolkit with pnpm, turborepo, unb…
+	
+
+
+CODE_OF_CONDUCT.md
+	
+Set up fancy new monorepo for blitz toolkit with pnpm, turborepo, unb…
+	
+
+
+CONTRIBUTING.md
+	
+Set latest tag in package json files (#3731)
+	
+
+
+CONTRIBUTOR_STATS.md
+	
+Set up fancy new monorepo for blitz toolkit with pnpm, turborepo, unb…
+	
+
+
+LICENSE
+	
+mit license
+	
+
+
+README.md
+	
+(meta) added @fungilation as contributor
+	
+
+
+SECURITY.md
+	
+Set up fancy new monorepo for blitz toolkit with pnpm, turborepo, unb…
+	
+
+
+flake.lock
+	
+update monorepo tooling (#4169)
+	
+
+
+flake.nix
+	
+update monorepo tooling (#4169)
+	
+
+
+package.json
+	
+chore: support next.js 15 (#4387)
+	
+
+
+pnpm-lock.yaml
+	
+Version Packages (#4403)
+	
+
+
+pnpm-workspace.yaml
+	
+Migrate recipes (#3784)
+	
+
+
+prettier.config.js
+	
+Set up fancy new monorepo for blitz toolkit with pnpm, turborepo, unb…
+	
+
+
+tsconfig.json
+	
+Migrate auth code to Blitz toolkit, add server & client setup (#3147)
+	
+
+
+turbo.json
+	
+update monorepo tooling (#4169)
+	
+Repository files navigation
+README
+Code of conduct
+MIT license
+Security
+
+   
+
+
+
+The Missing Fullstack Toolkit for Next.js
+
+
+Quick Start
+Install Blitz
+
+Run npm install -g blitz or yarn global add blitz
+
+You can alternatively use npx
+
+Create a New App
+blitz new myAppName
+cd myAppName
+blitz dev
+View your brand new app at http://localhost:3000
+
+
+
+
+
+Welcome to the Blitz Community 👋
+
+The Blitz community is warm, safe, diverse, inclusive, and fun! LGBTQ+, women, and minorities are especially welcome. Please read our Code of Conduct.
+
+Join our Discord Community where we help each other build Blitz apps. It's also where we collaborate on building Blitz itself.
+
+For questions and longer form discussions, post in our forum.
+
+There's still a lot of work to do, so you are especially invited to join us in building Blitz! A good place to start is The Contributing Guide.
+
+
+
+Financial Contributors
+
+Your financial contributions help ensure Blitz continues to be developed and maintained! We have monthly sponsorship options starting at $5/month.
+
+👉 View options and contribute at GitHub Sponsors, PayPal, or Open Collective
+
+🌱 Seedling Sponsors
+					
+🥉 Bronze Sponsors
+		
+🥈 Silver Sponsors
+🏆 Gold Sponsors
+💎 Diamond Sponsors
+
+
+Core Team ✨
+
+Brandon Bayer
+Creator	
+Dillon Raphael
+	
+Siddharth Suresh
+
+
+Maintainers (Level 2) ✨
+
+Code ownership, pull request approvals and merging, etc (see Maintainers L2)
+
+
+Simon Knott
+SuperJSON	
+JH.Lee
+SuperJSON
+
+
+Maintainers (Level 1) ✨
+
+Issue triage, pull request triage, community encouragement and moderation, etc (see Maintainers L1)
+
+
+Jeremy Liberman
+
+
+Contributors ✨
+
+Thanks to these wonderful people (emoji key):
+
+
+Brandon Bayer
+💻 🖋 🤔 👀 ⚠️ 📖	
+Rudi Yardley
+💻 🤔 👀 ⚠️	
+Dylan Brookes
+💻 🤔 👀 ⚠️ 📖	
+Adam Markon
+💻 🤔 👀 ⚠️ 🚧	
+Corey Brown
+💻 👀 🚧	
+Lori Karikari
+💻 👀 🚧 📖	
+Elias Johansson
+💻 👀 🚧
+
+Michael Edelman
+🚇 💻	
+Todd Geist
+💵 💻	
+Robert Rosenberg
+💻 🚧 📖	
+Beata Obrok
+💻	
+Tahir Awan
+💻	
+Camilo Gonzalez
+💻	
+Daniel Kempner
+💻
+
+Giel
+💻	
+Jeremy Liberman
+💻 🚧 ⚠️ 📖	
+Jim Cummins
+💻	
+Kristina Matuška
+🎨	
+Jason Blalock
+💻	
+aej11a
+💻	
+marcoseoane
+🤔
+
+Rishabh Poddar
+🤔	
+Lorenzo Rapetti
+💻	
+Justin Hall
+💻 📖	
+Sajjad Hashemian
+💻	
+Eduardo Lopes
+💻	
+Matthew Leffler
+📖	
+Matt
+📖
+
+Sonny
+📖	
+Fran Zekan
+💻 📖	
+Jan Baykara
+📖	
+Mike Perry Y Attara
+📖	
+Devan
+📖	
+Jack Clancy
+💻 🚧	
+Nicolas Torres
+⚠️ 💻 👀 📖
+
+Simon Knott
+💻 ⚠️ 🚧 📖	
+Jaga Santagostino
+💻 📖 🚧	
+João Portela
+💻	
+Da-Jin Chu
+💻	
+Shinobu Hayashi
+💻	
+Karan Kiri
+💻	
+Alan Long
+📖
+
+codingsh
+💻	
+Rafael Nunes
+👀 💻	
+Simon Debbarma
+🎨 🚧 📖	
+0xflotus
+💻 📖	
+tmns
+💻 📖	
+Jru Harris
+📖	
+Ivan Medina
+💻 🚧
+
+Dwight Watson
+💻 📖	
+Horie Issei
+💻	
+Nhat Khanh
+💻	
+Abu Uzayr
+💻 📖	
+Nabiullah elham
+💻	
+Lachlan Campbell
+💻	
+Enzo Ferey
+💻
+
+Pierre Grimaud
+💻	
+Andreas Adam
+💻	
+Kevin Tovar
+💻	
+Ante Primorac
+💻 📖	
+Mykal Machon
+💻	
+Jamie Davenport
+💻 🚧	
+GaneshMani
+💻
+
+reymon359
+💻	
+gvasquez11
+💻	
+José Miguel Ochoa
+💻	
+Oscar Sirvent
+💻 📖	
+Daniel Molnar
+📖 💻	
+Kevin Wu Won
+📖	
+John Duong
+💻
+
+Noah Fleischmann
+💻	
+Matsumoto Toshi
+💻 📖	
+Simon Edelmann
+💻	
+Shaun Church
+📖 💻	
+Steven
+📖	
+Sigurd Moland Wahl
+💻	
+Brian Andrews
+📖
+
+Garrison Snelling
+📖	
+Ty Lange-Smith
+💻	
+Rubén Moya
+💻 ⚠️	
+robertgrzonka
+💻 🚇	
+Alex Orr
+💻	
+Chris Tse
+💻	
+Netto Farah
+💻
+
+Rohan Julka
+🚇	
+Ivan Santos
+💻	
+Soumyajit Pathak
+💻	
+Sebastian Kurpiel
+📖	
+Steffan
+💻 📖 💵	
+Kristóf Poduszló
+💻	
+Weilbyte
+💻 📖
+
+Ricardo Trejos
+💻 📖	
+George Karagkiaouris
+💻 📖	
+Brady Pascoe
+💻	
+Jirka Svoboda
+💻	
+Alan Alickovic
+💻 📖	
+Yngve Høiseth
+📖	
+Bruno Crosier
+📖
+
+Johan Schepmans
+💻	
+Dillon Raphael
+💻 📖 ⚠️	
+Cody G
+💻 ⚠️	
+madflow
+📖	
+Satoshi Nitawaki
+💻 🚧 💬 📖	
+sirmyron
+📖 💻	
+engelkes-finstreet
+📖 💻 🚧
+
+Denis Radin
+👀 💻 📖	
+Michael Li
+💻	
+yuta0801
+💻	
+Obadja Ris
+📖	
+Jose Felix
+💻	
+John Cantrell
+💻	
+Kwuang Tang
+💻
+
+John Letey
+💻	
+Juan Di Toro
+💻	
+Taylor Johnson
+💻 📖	
+Sriram Thiagarajan
+📖	
+Sergio Xalambrí
+📖	
+Patrick G
+💻	
+अभिनाश (Avinash)
+💻
+
+Enrico Schaaf
+💻	
+Kitze
+🤔	
+Mohamed Shaban
+💻	
+Joris
+💻	
+Valentin Funk
+📖	
+Luke Bennett
+💻	
+Haseeb Majid
+💻
+
+Phillipp Schmedt
+💻	
+Piotr Monwid-Olechnowicz
+💻	
+Kotaro Chikuba
+💻 ⚠️	
+Konrad Kalemba
+💻 📖	
+Alucard17
+💻	
+Domantas Mauruča
+⚠️ 💻	
+Stratulat Alexandru
+💻 🚧
+
+André Ericson
+💻 📖	
+Carlos Fernández
+📖	
+Kevin Østerkilde
+📖 💻	
+aaronfulkerson
+💻 💬	
+Alexandru Naiman
+💻	
+David Ezekiel Lutta
+💻	
+wanjuntham
+💻
+
+Victor Nahuel Chaves
+💻	
+Peter Shih
+💻	
+Seweryn Kalemba
+💻	
+Nikhil Saraf
+💻 📖	
+Zane
+📖	
+Dulce Hernández
+💻	
+Mark Hähnel
+💻
+
+Viktor Nemes
+💻	
+Gabe O'Leary
+📖	
+Lucas Machado
+💻	
+maciek_grzybek
+💻	
+Michael Weibel
+💻	
+Hiroki Isogai
+💻	
+matamatanot
+📖
+
+Eric Sakmar
+📖	
+Simon Legg
+📖	
+Robert Soriano
+💻	
+Benedikt Schnatterbeck
+💻	
+Talor Anderson
+💻 📖	
+Akira Baruah
+💻	
+Christopher Wray
+💻
+
+Piotrek Tomczewski
+💻 📖	
+Raphaël Huchet
+📖 ⚠️ 💻	
+Alex Johansson
+💻	
+David Mazza
+💻	
+Ray Andrew
+💻 📖	
+Abdullah Mzaien
+💻 📖	
+William Kwao
+📖
+
+Lukas Strassel
+💻 ⚠️	
+Thibaut Patel
+💻	
+Jon Stuebe
+💻	
+Ugo Onali
+📖	
+SaintMalik
+📖	
+Khaled Garbaya
+💻	
+tundera
+💻 ⚠️ 📖
+
+markylaing
+💻 📖	
+Akifumi Sato
+💻	
+Beep LIN
+💻	
+Matt Wood
+💻	
+Joaquin Bravo Contreras
+💻	
+Arjun Dubey
+💻	
+chanand
+💻
+
+phillipkregg
+📖	
+Tim Reynolds
+📖	
+Linbudu
+📖	
+C Reimers
+📖	
+Tsuyoshi Osawa
+💻	
+Rembrandt Reyes
+💻 📖 ⚠️	
+Toshiya Doi
+📖
+
+t.kuriyama
+💻	
+Robert Malko
+💻	
+Ranjan Purbey
+💻	
+tarunama
+💻	
+David Kramer
+💻	
+Michael Esteban
+📖	
+marina
+📖 💻
+
+Jonas Thiesen
+📖	
+Yash Thakkar
+💻	
+Kazuma Suzuki
+🎨 💻	
+Yuji Matsumoto
+📖	
+Gimel Dick
+💻	
+Andreas Bollig
+💻 📖	
+AJ Markow
+⚠️ 💻
+
+TagawaHirotaka
+💻 ⚠️	
+Amr A.Mohammed
+💻	
+Lucas Willems
+📖 💻	
+Alistair Smith
+💻	
+Rodrigo Ehlers
+💻	
+Michael Ford
+💻	
+Brian Liu
+💻
+
+Aleksandra Sikora
+💻 📖 ⚠️	
+JuanM04
+💻 📖 ⚠️	
+Arend de Boer
+📖	
+Felipe Milani
+📖	
+Joe Edelman
+💻	
+Gary
+📖	
+Oliver Lopez
+📖
+
+Andreas Zaralis
+📖	
+David Torbeck
+📖	
+Gustavo Gard
+📖	
+Immortalin
+💻	
+Cristian Granda
+💻	
+Denise Yu
+💻	
+Andrea Della Corte
+📖
+
+Adit Sachde
+📖	
+Hiren Chauhan
+💻	
+Mark Jackson
+📖 💻	
+Lewis Blackburn
+📖	
+Vytenis
+💻	
+Matthieu
+💻 ⚠️	
+Mitchell Johnson
+💻
+
+Roshan Manuel
+💻 📖 ⚠️	
+Kevin Langley Jr.
+💻 📖	
+Gabriel Picard
+📖	
+Ryan Chenkie
+📖	
+Santhosh B. Appan
+📖	
+James Moran
+💻 📖	
+Jack Zhao
+💻
+
+Hisaki Akaza
+📖	
+Flavio
+💻	
+Bhanu Teja Pachipulusu
+💻	
+Pavel Struhar
+💻	
+Reo Ishiyama
+💻	
+Tom MacWright
+📖 ⚠️ 💻	
+François Best
+💻
+
+Faraz Patankar
+📖	
+Eric Vicenti
+📖 💻	
+Alex Dolan
+📖 💻 ⚠️	
+Mathis Pinsault
+📖	
+gstranger
+💻 📖	
+Mark Hughes
+💻 📖	
+Andrea Rizzello
+📖
+
+Jahred Hope
+📖	
+Simon El Nahas
+📖	
+Buleandra Cristian
+📖 💻	
+Pedro Enrique Palau Isaac
+💻	
+sean-brydon
+📖	
+Alessandro
+📖	
+laubonghaudoi
+📖
+
+Tommaso Bruno
+📖	
+Antony
+📖	
+Fatih Altinok
+📖	
+Mokshit Jain
+💻	
+Muhammad Ubaid Raza
+💻 📖	
+Nick Warren
+💻	
+mlabate
+📖
+
+Lukas Spieß
+📖	
+DawnOfMidnight
+📖	
+Kenza Iraki
+⚠️ 💻	
+Agusti Fernandez
+💻	
+Anjianto
+💻	
+Blanc Adrien
+💻	
+meepdeew
+📖
+
+Hardik Gaur
+📖	
+acornellier
+💻	
+craigglennie
+📖	
+Fernando Villasenor
+💻	
+swiftgaruda
+📖	
+Pankaj Patil
+📖	
+Mina Abadir
+💻 📖 ⚠️
+
+Francesco Sardo
+📖 💻	
+Nikolay
+📖	
+Dipesh Wagle
+💻	
+Benjamin Bender
+💻	
+Nima Shoghi
+💻	
+Andreas Thomas
+📖	
+guoqqqi
+📖
+
+Tim
+💻 ⚠️	
+Marek Orłowski
+📖	
+Antoine G
+💻	
+Sean Winner
+💻 ⚠️ 📖	
+Max Programming
+💻	
+Sebastian Hoitz
+⚠️ 💻	
+garnerp
+📖
+
+kivi
+💻	
+Dan Greaves
+💻	
+Lukas Neumann
+📖 💻 ⚠️	
+Dustin Bachrach
+💻 📖	
+Ashikka Gupta
+💻 ⚠️	
+Daniel Almaguer
+📖	
+Kevin Peters
+📖
+
+Daniel Bannert
+💻 📖	
+Benja Kugler
+💻	
+Eric Semeniuc
+⚠️ 💻	
+Ricardo Romero
+📖	
+Moritz Reiter
+📖	
+Matt Sichterman
+📖	
+Kai Schlamp
+📖 💻
+
+Muyiwa Olu
+💻	
+Rabbi Hossain
+📖	
+bravo-kernel
+💻 📖	
+Sam Holmes
+💻	
+Miguel Cabrerizo
+💻 📖	
+Zack Hobson
+💻 📖	
+Mokhtar
+📖
+
+Ken Kuan
+💻	
+meehawk
+💻	
+Rahul Ravindran
+💻	
+Ilya
+💻 📖 ⚠️	
+Hashim Warren
+📖	
+Damilola Randolph
+📖	
+Matt Campbell
+📖
+
+(◕ᴥ◕)
+💻	
+Mat Milbury
+📖	
+Andreas Asprou
+💻	
+Kot
+💻 ⚠️ 📖	
+Amane
+📖	
+John Leung
+📖	
+Bruce
+💻
+
+Emily
+💻	
+Nathan Verni
+📖	
+Davy Engone
+📖	
+Federico Joel Orlandau
+📖 💻	
+John Murphy
+📖 💻	
+martinsaxa
+💻	
+Austin Walhof
+📖
+
+Geoffrey
+💻 📖 ⚠️	
+Kevin Pham
+📖	
+kimngan-bui
+📖	
+Bahk Chanhee
+💻	
+John Vandivier
+💻 ⚠️ 📖	
+Namir
+📖 💻 ⚠️	
+Scott Cooper
+📖
+
+Abduttayyeb M.r
+📖	
+Mayuran
+💻	
+Aleksei Vesselko
+📖	
+Punn Siriphanthong
+💻	
+Shawn Fetanat
+📖	
+Moyuru
+💻 ⚠️ 📖	
+Cam Sloan
+📖
+
+Maciek Sitkowski
+📖	
+Vivek
+📖 💻	
+CJ Lazell
+💻	
+Robert
+📖	
+Christian Jensen
+📖	
+Devin Rasmussen
+💻	
+Thomas Brenneur
+💻 📖 ⚠️
+
+Lucas Vazquez
+💻	
+Chris Johnson
+📖	
+Rob Stevenson
+📖	
+Lucas Heymès
+💻 📖	
+Lasse Norfeldt
+📖	
+Péter Nyári
+📖 💻	
+Holger Frohloff
+📖
+
+Basil Khan
+📖	
+Daniel Esteves
+📖	
+Cory House
+📖	
+Austin (Thang Pham)
+📖	
+Marcus Reinhardt
+📖 💻	
+David Christie
+📖	
+Ajanth
+📖
+
+Div
+📖	
+David Arteaga
+📖	
+Mukul Kolpe
+💻	
+tyler
+💻	
+Sofiane Djellouli
+📖	
+kreako
+📖	
+Sarah Dayan
+💻
+
+Cristi Ciobanu
+📖	
+Arpit Dalal
+📖	
+robertrisch
+📖	
+saadaltabari
+📖 💻	
+Jeeho Ahn
+📖 🔧 💻	
+Ryan Washburne
+📖	
+Shundan Xiao
+📖
+
+tommywong-dev
+📖	
+Datner
+📖 💻	
+Chaiwat Trisuwan
+📖 💻	
+Daniel Oltmanns
+📖 💻	
+Edrick Leong
+📖 💻 ⚠️	
+Siddharth Suresh
+📖 💻 ⚠️ 🚧	
+JH.Lee
+💻 ⚠️ 🚧 📖
+
+Cory Deppen
+📖	
+oloost
+📖	
+Jan Vennemann
+📖 💻	
+Kevin Jones
+📖	
+Paul
+📖 💻 ⚠️	
+Selçuk Fatih Sevinç
+📖 💻	
+usamaster
+📖
+
+Andrew Glago
+📖 💻	
+Tobias
+💻 📖 ⚠️	
+Iagor Moraes
+📖 💻	
+Dawid Urbaniak
+📖 💻	
+Jhonny Michel
+📖 💻 ⚠️	
+sweetliquid
+💻	
+Sakamoto, Kazunori
+📖 💻
+
+Johan Eliasson
+📖	
+Hikmat Jafarli
+📖 💻	
+Maotora ᕙ(⇀‸↼‶)ᕗ
+📖 💻	
+Vitalie
+📖 💻	
+Nelson Estevão
+📖 💻	
+David
+📖 💻 ⚠️	
+G.J. Moed
+📖 💻
+
+Tetsuya Fukuda
+📖 💻	
+Nikita Kamaev
+📖	
+Nikola Ivanov
+📖	
+Jakub Mazurek
+📖 💻	
+Maciej Kasprzyk
+📖 💻	
+Justin Smid
+📖 💻	
+rodobre
+📖 💻
+
+Zamfira Costin-Andrei
+📖 💻	
+Sergey
+📖	
+Savvas Papageorgiadis
+📖 💻	
+Leonidas
+📖 💻	
+Doc0x1
+📖 💻	
+Luis Isea
+📖 💻	
+Jiawen Geng
+📖 💻
+
+Tim Neutkens
+📖 💻 ⚠️	
+Aviv Keller
+💻	
+bezalel6
+📖 💻	
+Andrew Cherniavskii
+📖	
+Daniel Idoko
+📖 💻 ⚠️	
+Gary Fung
+📖 💻
+
+This project follows the all-contributors specification. Contributions of any kind welcome!
+
+About
+
+⚡️ The Missing Fullstack Toolkit for Next.js
+
+Blitzjs.com
+Topics
+react javascript framework typescript reactjs nextjs blitz fullstack blitzjs prisma prisma2
+Resources
+ Readme
+License
+ MIT license
+Code of conduct
+ Code of conduct
+Security policy
+ Security policy
+ Activity
+ Custom properties
+Stars
+ 13.8k stars
+Watchers
+ 98 watching
+Forks
+ 801 forks
+Report repository
+
+
+Releases 283
+v2.2.0
+Latest
++ 282 releases
+
+
+Sponsor this project
+blitz-js ⚡️Blitz
+https://paypal.me/thebayers
+opencollective.com/blitzjs
+patreon.com/flybayer
+Learn more about GitHub Sponsors
+
+
+Packages
+No packages published
+
+
+
+Used by 2.8k
++ 2,753
+
+
+Contributors
+65
++ 51 contributors
+
+
+Languages
+TypeScript
+95.0%
+ 
+JavaScript
+2.7%
+ 
+CSS
+2.1%
+ 
+Nix
+0.1%
+ 
+SCSS
+0.1%
+ 
+MDX
+0.0%
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information

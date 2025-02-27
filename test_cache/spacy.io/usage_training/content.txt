@@ -1,0 +1,423 @@
+Training Pipelines & Models
+---------------------------
+
+Train and update components on your own data and integrate custom models
+
+spaCy’s tagger, parser, text categorizer and many other components are powered by **statistical models**. Every “decision” these components make – for example, which part-of-speech tag to assign, or whether a word is a named entity – is a **prediction** based on the model’s current **weight values**. The weight values are estimated based on examples the model has seen during **training**. To train a model, you first need training data – examples of text, and the labels you want the model to predict. This could be a part-of-speech tag, a named entity or any other information.
+
+Training is an iterative process in which the model’s predictions are compared against the reference annotations in order to estimate the **gradient of the loss**. The gradient of the loss is then used to calculate the gradient of the weights through [backpropagation](https://thinc.ai/docs/backprop101). The gradients indicate how the weight values should be changed so that the model’s predictions become more similar to the reference labels over time.
+
+![Image 8: The training process](https://spacy.io/images/training.svg)
+
+When training a model, we don’t just want it to memorize our examples – we want it to come up with a theory that can be **generalized across unseen data**. After all, we don’t just want the model to learn that this one instance of “Amazon” right here is a company – we want it to learn that “Amazon”, in contexts _like this_, is most likely a company. That’s why the training data should always be representative of the data we want to process. A model trained on Wikipedia, where sentences in the first person are extremely rare, will likely perform badly on Twitter. Similarly, a model trained on romantic novels will likely perform badly on legal text.
+
+This also means that in order to know how the model is performing, and whether it’s learning the right things, you don’t only need **training data** – you’ll also need **evaluation data**. If you only test the model with the data it was trained on, you’ll have no idea how well it’s generalizing. If you want to train a model from scratch, you usually need at least a few hundred examples for both training and evaluation.
+
+[Quickstart](https://spacy.io/usage/training#quickstart) new
+------------------------------------------------------------
+
+The recommended way to train your spaCy pipelines is via the [`spacy train`](https://spacy.io/api/cli#train) command on the command line. It only needs a single [`config.cfg`](https://spacy.io/usage/training#config) **configuration file** that includes all settings and hyperparameters. You can optionally [overwrite](https://spacy.io/usage/training#config-overrides) settings on the command line, and load in a Python file to register [custom functions](https://spacy.io/usage/training#custom-code) and architectures. This quickstart widget helps you generate a starter config with the **recommended settings** for your specific use case. It’s also available in spaCy as the [`init config`](https://spacy.io/api/cli#init-config) command.
+
+Components
+
+taggermorphologizertrainable\_lemmatizerparsernerspancattextcat
+
+Hardware
+
+CPUGPU (transformer)
+
+Optimize for
+
+efficiencyaccuracy
+
+```
+# This is an auto-generated partial config. To use it with 'spacy train'
+# you can run spacy init fill-config to auto-fill all default settings:
+# python -m spacy init fill-config ./base_config.cfg ./config.cfg
+[paths]
+train = null
+dev = null
+vectors = null
+[system]
+gpu_allocator = null
+
+[nlp]
+lang = "en"
+pipeline = []
+batch_size = 1000
+
+[components]
+
+[corpora]
+
+[corpora.train]
+@readers = "spacy.Corpus.v1"
+path = ${paths.train}
+max_length = 0
+
+[corpora.dev]
+@readers = "spacy.Corpus.v1"
+path = ${paths.dev}
+max_length = 0
+
+[training]
+dev_corpus = "corpora.dev"
+train_corpus = "corpora.train"
+
+[training.optimizer]
+@optimizers = "Adam.v1"
+
+[training.batcher]
+@batchers = "spacy.batch_by_words.v1"
+discard_oversize = false
+tolerance = 0.2
+
+[training.batcher.size]
+@schedules = "compounding.v1"
+start = 100
+stop = 1000
+compound = 1.001
+
+[initialize]
+vectors = ${paths.vectors}
+```
+
+After you’ve saved the starter config to a file `base_config.cfg`, you can use the [`init fill-config`](https://spacy.io/api/cli#init-fill-config) command to fill in the remaining defaults. Training configs should always be **complete and without hidden defaults**, to keep your experiments reproducible.
+
+Instead of exporting your starter config from the quickstart widget and auto-filling it, you can also use the [`init config`](https://spacy.io/api/cli#init-config) command and specify your requirement and settings as CLI arguments. You can now add your data and run [`train`](https://spacy.io/api/cli#train) with your config. See the [`convert`](https://spacy.io/api/cli#convert) command for details on how to convert your data to spaCy’s binary `.spacy` format. You can either include the data paths in the `[paths]` section of your config, or pass them in via the command line.
+
+The recommended config settings generated by the quickstart widget and the [`init config`](https://spacy.io/api/cli#init-config) command are based on some general **best practices** and things we’ve found to work well in our experiments. The goal is to provide you with the most **useful defaults**.
+
+Under the hood, the [`quickstart_training.jinja`](https://github.com/explosion/spaCy/tree/master/spacy/cli/templates/quickstart_training.jinja) template defines the different combinations – for example, which parameters to change if the pipeline should optimize for efficiency vs. accuracy. The file [`quickstart_training_recommendations.yml`](https://github.com/explosion/spaCy/tree/master/spacy/cli/templates/quickstart_training_recommendations.yml) collects the recommended settings and available resources for each language including the different transformer weights. For some languages, we include different transformer recommendations, depending on whether you want the model to be more efficient or more accurate. The recommendations will be **evolving** as we run more experiments.
+
+[Training config system](https://spacy.io/usage/training#config)
+----------------------------------------------------------------
+
+Training config files include all **settings and hyperparameters** for training your pipeline. Instead of providing lots of arguments on the command line, you only need to pass your `config.cfg` file to [`spacy train`](https://spacy.io/api/cli#train). Under the hood, the training config uses the [configuration system](https://thinc.ai/docs/usage-config) provided by our machine learning library [Thinc](https://thinc.ai/). This also makes it easy to integrate custom models and architectures, written in your framework of choice. Some of the main advantages and features of spaCy’s training config are:
+
+*   **Structured sections.** The config is grouped into sections, and nested sections are defined using the `.` notation. For example, `[components.ner]` defines the settings for the pipeline’s named entity recognizer. The config can be loaded as a Python dict.
+*   **References to registered functions.** Sections can refer to registered functions like [model architectures](https://spacy.io/api/architectures), [optimizers](https://thinc.ai/docs/api-optimizers) or [schedules](https://thinc.ai/docs/api-schedules) and define arguments that are passed into them. You can also [register your own functions](https://spacy.io/usage/training#custom-functions) to define custom architectures or methods, reference them in your config and tweak their parameters.
+*   **Interpolation.** If you have hyperparameters or other settings used by multiple components, define them once and reference them as [variables](https://spacy.io/usage/training#config-interpolation).
+*   **Reproducibility with no hidden defaults.** The config file is the “single source of truth” and includes all settings.
+*   **Automated checks and validation.** When you load a config, spaCy checks if the settings are complete and if all values have the correct types. This lets you catch potential mistakes early. In your custom architectures, you can use Python [type hints](https://docs.python.org/3/library/typing.html) to tell the config which types of data to expect.
+
+Under the hood, the config is parsed into a dictionary. It’s divided into sections and subsections, indicated by the square brackets and dot notation. For example, `[training]` is a section and `[training.batcher]` a subsection. Subsections can define values, just like a dictionary, or use the `@` syntax to refer to [registered functions](https://spacy.io/usage/training#config-functions). This allows the config to not just define static settings, but also construct objects like architectures, schedules, optimizers or any other custom components. The main top-level sections of a config file are:
+
+| Section | Description |
+| --- | --- |
+| `nlp` | Definition of the `nlp` object, its tokenizer and [processing pipeline](https://spacy.io/usage/processing-pipelines) component names. |
+| `components` | Definitions of the [pipeline components](https://spacy.io/usage/processing-pipelines) and their models. |
+| `paths` | Paths to data and other assets. Re-used across the config as variables, e.g. `${paths.train}`, and can be [overwritten](https://spacy.io/usage/training#config-overrides) on the CLI. |
+| `system` | Settings related to system and hardware. Re-used across the config as variables, e.g. `${system.seed}`, and can be [overwritten](https://spacy.io/usage/training#config-overrides) on the CLI. |
+| `training` | Settings and controls for the training and evaluation process. |
+| `pretraining` | Optional settings and controls for the [language model pretraining](https://spacy.io/usage/embeddings-transformers#pretraining). |
+| `initialize` | Data resources and arguments passed to components when [`nlp.initialize`](https://spacy.io/api/language#initialize) is called before training (but not at runtime). |
+
+### [Config lifecycle at runtime and training](https://spacy.io/usage/training#config-lifecycle)
+
+A pipeline’s `config.cfg` is considered the “single source of truth”, both at **training** and **runtime**. Under the hood, [`Language.from_config`](https://spacy.io/api/language#from_config) takes care of constructing the `nlp` object using the settings defined in the config. An `nlp` object’s config is available as [`nlp.config`](https://spacy.io/api/language#config) and it includes all information about the pipeline, as well as the settings used to train and initialize it.
+
+![Image 9: Illustration of pipeline lifecycle](https://spacy.io/images/lifecycle.svg)
+
+At runtime spaCy will only use the `[nlp]` and `[components]` blocks of the config and load all data, including tokenization rules, model weights and other resources from the pipeline directory. The `[training]` block contains the settings for training the model and is only used during training. Similarly, the `[initialize]` block defines how the initial `nlp` object should be set up before training and whether it should be initialized with vectors or pretrained tok2vec weights, or any other data needed by the components.
+
+The initialization settings are only loaded and used when [`nlp.initialize`](https://spacy.io/api/language#initialize) is called (typically right before training). This allows you to set up your pipeline using local data resources and custom functions, and preserve the information in your config – but without requiring it to be available at runtime. You can also use this mechanism to provide data paths to custom pipeline components and custom tokenizers – see the section on [custom initialization](https://spacy.io/usage/training#initialization) for details.
+
+### [Overwriting config settings on the command line](https://spacy.io/usage/training#config-overrides)
+
+The config system means that you can define all settings **in one place** and in a consistent format. There are no command-line arguments that need to be set, and no hidden defaults. However, there can still be scenarios where you may want to override config settings when you run [`spacy train`](https://spacy.io/api/cli#train). This includes **file paths** to vectors or other resources that shouldn’t be hard-coded in a config file, or **system-dependent settings**.
+
+For cases like this, you can set additional command-line options starting with `--` that correspond to the config section and value to override. For example, `--paths.train ./corpus/train.spacy` sets the `train` value in the `[paths]` block.
+
+Only existing sections and values in the config can be overwritten. At the end of the training, the final filled `config.cfg` is exported with your pipeline, so you’ll always have a record of the settings that were used, including your overrides. Overrides are added before [variables](https://spacy.io/usage/training#config-interpolation) are resolved, by the way – so if you need to use a value in multiple places, reference it across your config and override it on the CLI once.
+
+#### [Adding overrides via environment variables](https://spacy.io/usage/training#config-overrides-env)
+
+Instead of defining the overrides as CLI arguments, you can also use the `SPACY_CONFIG_OVERRIDES` environment variable using the same argument syntax. This is especially useful if you’re training models as part of an automated process. Environment variables **take precedence** over CLI overrides and values defined in the config file.
+
+### [Reading from standard input](https://spacy.io/usage/training#config-stdin)
+
+Setting the config path to `-` on the command line lets you read the config from standard input and pipe it forward from a different process, like [`init config`](https://spacy.io/api/cli#init-config) or your own custom script. This is especially useful for quick experiments, as it lets you generate a config on the fly without having to save to and load from disk.
+
+### [Using variable interpolation](https://spacy.io/usage/training#config-interpolation)
+
+Another very useful feature of the config system is that it supports variable interpolation for both **values and sections**. This means that you only need to define a setting once and can reference it across your config using the `${section.value}` syntax. In this example, the value of `seed` is reused within the `[training]` block, and the whole block of `[training.optimizer]` is reused in `[pretraining]` and will become `pretraining.optimizer`.
+
+#### config.cfg (excerpt)
+
+You can also use variables inside strings. In that case, it works just like f-strings in Python. If the value of a variable is not a string, it’s converted to a string.
+
+[Preparing Training Data](https://spacy.io/usage/training#training-data)
+------------------------------------------------------------------------
+
+Training data for NLP projects comes in many different formats. For some common formats such as CoNLL, spaCy provides [converters](https://spacy.io/api/cli#convert) you can use from the command line. In other cases you’ll have to prepare the training data yourself.
+
+When converting training data for use in spaCy, the main thing is to create [`Doc`](https://spacy.io/api/doc) objects just like the results you want as output from the pipeline. For example, if you’re creating an NER pipeline, loading your annotations and setting them as the `.ents` property on a `Doc` is all you need to worry about. On disk the annotations will be saved as a [`DocBin`](https://spacy.io/api/docbin) in the [`.spacy` format](https://spacy.io/api/data-formats#binary-training), but the details of that are handled automatically.
+
+Here’s an example of creating a `.spacy` file from some NER annotations.
+
+#### preprocess.py
+
+For more examples of how to convert training data from a wide variety of formats for use with spaCy, look at the preprocessing steps in the [tutorial projects](https://github.com/explosion/projects/tree/v3/tutorials).
+
+In spaCy v2, the recommended way to store training data was in [a particular JSON format](https://spacy.io/api/data-formats#json-input), but in v3 this format is deprecated. It’s fine as a readable storage format, but there’s no need to convert your data to JSON before creating a `.spacy` file.
+
+[Customizing the pipeline and training](https://spacy.io/usage/training#config-custom)
+--------------------------------------------------------------------------------------
+
+### [Defining pipeline components](https://spacy.io/usage/training#config-components)
+
+You typically train a [pipeline](https://spacy.io/usage/processing-pipelines) of **one or more components**. The `[components]` block in the config defines the available pipeline components and how they should be created – either by a built-in or custom [factory](https://spacy.io/usage/processing-pipelines#built-in), or [sourced](https://spacy.io/usage/processing-pipelines#sourced-components) from an existing trained pipeline. For example, `[components.parser]` defines the component named `"parser"` in the pipeline. There are different ways you might want to treat your components during training, and the most common scenarios are:
+
+1.  Train a **new component** from scratch on your data.
+2.  Update an existing **trained component** with more examples.
+3.  Include an existing trained component without updating it.
+4.  Include a non-trainable component, like a rule-based [`EntityRuler`](https://spacy.io/api/entityruler) or [`Sentencizer`](https://spacy.io/api/sentencizer), or a fully [custom component](https://spacy.io/usage/processing-pipelines#custom-components).
+
+If a component block defines a `factory`, spaCy will look it up in the [built-in](https://spacy.io/usage/processing-pipelines#built-in) or [custom](https://spacy.io/usage/processing-pipelines#custom-components) components and create a new component from scratch. All settings defined in the config block will be passed to the component factory as arguments. This lets you configure the model settings and hyperparameters. If a component block defines a `source`, the component will be copied over from an existing trained pipeline, with its existing weights. This lets you include an already trained component in your pipeline, or update a trained component with more data specific to your use case.
+
+#### config.cfg (excerpt)
+
+The `pipeline` setting in the `[nlp]` block defines the pipeline components added to the pipeline, in order. For example, `"parser"` here references `[components.parser]`. By default, spaCy will **update all components that can be updated**. Trainable components that are created from scratch are initialized with random weights. For sourced components, spaCy will keep the existing weights and [resume training](https://spacy.io/api/language#resume_training).
+
+If you don’t want a component to be updated, you can **freeze** it by adding it to the `frozen_components` list in the `[training]` block. Frozen components are **not updated** during training and are included in the final trained pipeline as-is. They are also excluded when calling [`nlp.initialize`](https://spacy.io/api/language#initialize).
+
+### [Using predictions from preceding components](https://spacy.io/usage/training#annotating-components) v3.1
+
+By default, components are updated in isolation during training, which means that they don’t see the predictions of any earlier components in the pipeline. A component receives [`Example.predicted`](https://spacy.io/api/example) as input and compares its predictions to [`Example.reference`](https://spacy.io/api/example) without saving its annotations in the `predicted` doc.
+
+Instead, if certain components should **set their annotations** during training, use the setting `annotating_components` in the `[training]` block to specify a list of components. For example, the feature `DEP` from the parser could be used as a tagger feature by including `DEP` in the tok2vec `attrs` and including `parser` in `annotating_components`:
+
+#### config.cfg (excerpt)
+
+Any component in the pipeline can be included as an annotating component, including frozen components. Frozen components can set annotations during training just as they would set annotations during evaluation or when the final pipeline is run. The config excerpt below shows how a frozen `ner` component and a `sentencizer` can provide the required `doc.sents` and `doc.ents` for the entity linker during training:
+
+#### config.cfg (excerpt)
+
+Similarly, a pretrained `tok2vec` layer can be frozen and specified in the list of `annotating_components` to ensure that a downstream component can use the embedding layer without updating it.
+
+### [Using registered functions](https://spacy.io/usage/training#config-functions)
+
+The training configuration defined in the config file doesn’t have to only consist of static values. Some settings can also be **functions**. For instance, the batch size can be a number that doesn’t change, or a schedule, like a sequence of compounding values, which has shown to be an effective trick (see [Smith et al., 2017](https://arxiv.org/abs/1711.00489)).
+
+#### With static value
+
+To refer to a function instead, you can make `[training.batcher.size]` its own section and use the `@` syntax to specify the function and its arguments – in this case [`compounding.v1`](https://thinc.ai/docs/api-schedules#compounding) defined in the [function registry](https://spacy.io/api/top-level#registry). All other values defined in the block are passed to the function as keyword arguments when it’s initialized. You can also use this mechanism to register [custom implementations and architectures](https://spacy.io/usage/training#custom-functions) and reference them from your configs.
+
+#### With registered function
+
+### [Model architectures](https://spacy.io/usage/training#model-architectures)
+
+A **model architecture** is a function that wires up a Thinc [`Model`](https://thinc.ai/docs/api-model) instance, which you can then use in a component or as a layer of a larger network. You can use Thinc as a thin [wrapper around frameworks](https://thinc.ai/docs/usage-frameworks) such as PyTorch, TensorFlow or MXNet, or you can implement your logic in Thinc [directly](https://thinc.ai/docs/usage-models). For more details and examples, see the usage guide on [layers and architectures](https://spacy.io/usage/layers-architectures).
+
+spaCy’s built-in components will never construct their `Model` instances themselves, so you won’t have to subclass the component to change its model architecture. You can just **update the config** so that it refers to a different registered function. Once the component has been created, its `Model` instance has already been assigned, so you cannot change its model architecture. The architecture is like a recipe for the network, and you can’t change the recipe once the dish has already been prepared. You have to make a new one. spaCy includes a variety of built-in [architectures](https://spacy.io/api/architectures) for different tasks. For example:
+
+| Architecture | Description |
+| --- | --- |
+| [HashEmbedCNN](https://spacy.io/api/architectures#HashEmbedCNN) | Build spaCy’s “standard” embedding layer, which uses hash embedding with subword features and a CNN with layer-normalized maxout. [Model](https://thinc.ai/docs/api-model)\[List\[[Doc](https://spacy.io/api/doc)\], List\[[Floats2d](https://thinc.ai/docs/api-types#types)\]\] |
+| [TransitionBasedParser](https://spacy.io/api/architectures#TransitionBasedParser) | Build a [transition-based parser](https://explosion.ai/blog/parsing-english-in-python) model used in the default [`EntityRecognizer`](https://spacy.io/api/entityrecognizer) and [`DependencyParser`](https://spacy.io/api/dependencyparser). [Model](https://thinc.ai/docs/api-model)\[List\[Docs\], List\[List\[[Floats2d](https://thinc.ai/docs/api-types#types)\]\]\] |
+| [TextCatEnsemble](https://spacy.io/api/architectures#TextCatEnsemble) | Stacked ensemble of a bag-of-words model and a neural network model with an internal CNN embedding layer. Used in the default [`TextCategorizer`](https://spacy.io/api/textcategorizer). [Model](https://thinc.ai/docs/api-model)\[List\[[Doc](https://spacy.io/api/doc)\],[Floats2d](https://thinc.ai/docs/api-types#types)\] |
+
+### [Metrics, training output and weighted scores](https://spacy.io/usage/training#metrics)
+
+When you train a pipeline using the [`spacy train`](https://spacy.io/api/cli#train) command, you’ll see a table showing the metrics after each pass over the data. The available metrics **depend on the pipeline components**. Pipeline components also define which scores are shown and how they should be **weighted in the final score** that decides about the best model.
+
+The `training.score_weights` setting in your `config.cfg` lets you customize the scores shown in the table and how they should be weighted. In this example, the labeled dependency accuracy and NER F-score count towards the final score with 40% each and the tagging accuracy makes up the remaining 20%. The tokenization accuracy and speed are both shown in the table, but not counted towards the score.
+
+The `score_weights` don’t _have to_ sum to `1.0` – but it’s recommended. When you generate a config for a given pipeline, the score weights are generated by combining and normalizing the default score weights of the pipeline components. The default score weights are defined by each pipeline component via the `default_score_weights` setting on the [`@Language.factory`](https://spacy.io/api/language#factory) decorator. By default, all pipeline components are weighted equally. If a score weight is set to `null`, it will be excluded from the logs and the score won’t be weighted.
+
+| Name | Description |
+| --- | --- |
+| **Loss** | The training loss representing the amount of work left for the optimizer. Should decrease, but usually not to `0`. |
+| **Precision** (P) | Percentage of predicted annotations that were correct. Should increase. |
+| **Recall** (R) | Percentage of reference annotations recovered. Should increase. |
+| **F-Score** (F) | Harmonic mean of precision and recall. Should increase. |
+| **UAS** / **LAS** | Unlabeled and labeled attachment score for the dependency parser, i.e. the percentage of correct arcs. Should increase. |
+| **Speed** | Prediction speed in words per second (WPS). Should stay stable. |
+
+Note that if the development data has raw text, some of the gold-standard entities might not align to the predicted tokenization. These tokenization errors are **excluded from the NER evaluation**. If your tokenization makes it impossible for the model to predict 50% of your entities, your NER F-score might still look good.
+
+[Custom functions](https://spacy.io/usage/training#custom-functions)
+--------------------------------------------------------------------
+
+Registered functions in the training config files can refer to built-in implementations, but you can also plug in fully **custom implementations**. All you need to do is register your function using the `@spacy.registry` decorator with the name of the respective [registry](https://spacy.io/api/top-level#registry), e.g. `@spacy.registry.architectures`, and a string name to assign to your function. Registering custom functions allows you to **plug in models** defined in PyTorch or TensorFlow, make **custom modifications** to the `nlp` object, create custom optimizers or schedules, or **stream in data** and preprocess it on the fly while training.
+
+Each custom function can have any number of arguments that are passed in via the [config](https://spacy.io/usage/training#config), just the built-in functions. If your function defines **default argument values**, spaCy is able to auto-fill your config when you run [`init fill-config`](https://spacy.io/api/cli#init-fill-config). If you want to make sure that a given parameter is always explicitly set in the config, avoid setting a default value for it.
+
+### [Training with custom code](https://spacy.io/usage/training#custom-code)
+
+The [`spacy train`](https://spacy.io/api/cli#train) recipe lets you specify an optional argument `--code` that points to a Python file. The file is imported before training and allows you to add custom functions and architectures to the function registry that can then be referenced from your `config.cfg`. This lets you train spaCy pipelines with custom components, without having to re-implement the whole training workflow. When you package your trained pipeline later using [`spacy package`](https://spacy.io/api/cli#package), you can provide one or more Python files to be included in the package and imported in its `__init__.py`. This means that any custom architectures, functions or [components](https://spacy.io/usage/processing-pipelines#custom-components) will be shipped with your pipeline and registered when it’s loaded. See the documentation on [saving and loading pipelines](https://spacy.io/usage/saving-loading#models-custom) for details.
+
+#### [Example: Modifying the nlp object](https://spacy.io/usage/training#custom-code-nlp-callbacks)
+
+For many use cases, you don’t necessarily want to implement the whole `Language` subclass and language data from scratch – it’s often enough to make a few small modifications, like adjusting the [tokenization rules](https://spacy.io/usage/linguistic-features#native-tokenizer-additions) or [language defaults](https://spacy.io/api/language#defaults) like stop words. The config lets you provide five optional **callback functions** that give you access to the language class and `nlp` object at different points of the lifecycle:
+
+| Callback | Description |
+| --- | --- |
+| `nlp.before_creation` | Called before the `nlp` object is created and receives the language subclass like `English` (not the instance). Useful for writing to the [`Language.Defaults`](https://spacy.io/api/language#defaults) aside from the tokenizer settings. |
+| `nlp.after_creation` | Called right after the `nlp` object is created, but before the pipeline components are added to the pipeline and receives the `nlp` object. |
+| `nlp.after_pipeline_creation` | Called right after the pipeline components are created and added and receives the `nlp` object. Useful for modifying pipeline components. |
+| `initialize.before_init` | Called before the pipeline components are initialized and receives the `nlp` object for in-place modification. Useful for modifying the tokenizer settings, similar to the v2 base model option. |
+| `initialize.after_init` | Called after the pipeline components are initialized and receives the `nlp` object for in-place modification. |
+
+The `@spacy.registry.callbacks` decorator lets you register your custom function in the `callbacks` [registry](https://spacy.io/api/top-level#registry) under a given name. You can then reference the function in a config block using the `@callbacks` key. If a block contains a key starting with an `@`, it’s interpreted as a reference to a function. Because you’ve registered the function, spaCy knows how to create it when you reference `"customize_language_data"` in your config. Here’s an example of a callback that runs before the `nlp` object is created and adds a custom stop word to the defaults:
+
+#### functions.py
+
+Any registered function – in this case `create_callback` – can also take **arguments** that can be **set by the config**. This lets you implement and keep track of different configurations, without having to hack at your code. You can choose any arguments that make sense for your use case. In this example, we’re adding the arguments `extra_stop_words` (a list of strings) and `debug` (boolean) for printing additional info when the function runs.
+
+#### functions.py
+
+With your `functions.py` defining additional code and the updated `config.cfg`, you can now run [`spacy train`](https://spacy.io/api/cli#train) and point the argument `--code` to your Python file. Before loading the config, spaCy will import the `functions.py` module and your custom functions will be registered.
+
+#### [Example: Modifying tokenizer settings](https://spacy.io/usage/training#custom-tokenizer)
+
+Use the `initialize.before_init` callback to modify the tokenizer settings when training a new pipeline. Write a registered callback that modifies the tokenizer settings and specify this callback in your config:
+
+#### functions.py
+
+When training, provide the function above with the `--code` option:
+
+Because this callback is only called in the one-time initialization step before training, the callback code does not need to be packaged with the final pipeline package. However, to make it easier for others to replicate your training setup, you can choose to package the initialization callbacks with the pipeline package or to publish them separately.
+
+#### [Example: Custom logging function](https://spacy.io/usage/training#custom-logging)
+
+During training, the results of each step are passed to a logger function. By default, these results are written to the console with the [`ConsoleLogger`](https://spacy.io/api/top-level#ConsoleLogger). There is also built-in support for writing the log files to [Weights & Biases](https://www.wandb.com/) with the [`WandbLogger`](https://github.com/explosion/spacy-loggers#wandblogger). On each step, the logger function receives a **dictionary** with the following keys:
+
+| Key | Value |
+| --- | --- |
+| `epoch` | How many passes over the data have been completed. int |
+| `step` | How many steps have been completed. int |
+| `score` | The main score from the last evaluation, measured on the dev set. float |
+| `other_scores` | The other scores from the last evaluation, measured on the dev set. Dict\[str, Any\] |
+| `losses` | The accumulated training losses, keyed by component name. Dict\[str, float\] |
+| `checkpoints` | A list of previous results, where each result is a `(score, step)` tuple. List\[Tuple\[float, int\]\] |
+
+You can easily implement and plug in your own logger that records the training results in a custom way, or sends them to an experiment management tracker of your choice. In this example, the function `my_custom_logger.v1` writes the tabular results to a file:
+
+#### functions.py
+
+#### [Example: Custom batch size schedule](https://spacy.io/usage/training#custom-code-schedule)
+
+You can also implement your own batch size schedule to use during training. The `@spacy.registry.schedules` decorator lets you register that function in the `schedules` [registry](https://spacy.io/api/top-level#registry) and assign it a string name:
+
+#### functions.py
+
+In your config, you can now reference the schedule in the `[training.batcher.size]` block via `@schedules`. If a block contains a key starting with an `@`, it’s interpreted as a reference to a function. All other settings in the block will be passed to the function as keyword arguments. Keep in mind that the config shouldn’t have any hidden defaults and all arguments on the functions need to be represented in the config.
+
+#### config.cfg (excerpt)
+
+### [Defining custom architectures](https://spacy.io/usage/training#custom-architectures)
+
+Built-in pipeline components such as the tagger or named entity recognizer are constructed with default neural network [models](https://spacy.io/api/architectures). You can change the model architecture entirely by implementing your own custom models and providing those in the config when creating the pipeline component. See the documentation on [layers and model architectures](https://spacy.io/usage/layers-architectures) for more details.
+
+#### functions.py
+
+[Customizing the initialization](https://spacy.io/usage/training#initialization)
+--------------------------------------------------------------------------------
+
+When you start training a new model from scratch, [`spacy train`](https://spacy.io/api/cli#train) will call [`nlp.initialize`](https://spacy.io/api/language#initialize) to initialize the pipeline and load the required data. All settings for this are defined in the [`[initialize]`](https://spacy.io/api/data-formats#config-initialize) block of the config, so you can keep track of how the initial `nlp` object was created. The initialization process typically includes the following:
+
+1.  Load in **data resources** defined in the `[initialize]` config, including **word vectors** and [pretrained](https://spacy.io/usage/embeddings-transformers#pretraining) **tok2vec weights**.
+2.  Call the `initialize` methods of the tokenizer (if implemented, e.g. for [Chinese](https://spacy.io/usage/models#chinese)) and pipeline components with a callback to access the training data, the current `nlp` object and any **custom arguments** defined in the `[initialize]` config.
+3.  In **pipeline components**: if needed, use the data to [infer missing shapes](https://spacy.io/usage/layers-architectures#thinc-shape-inference) and set up the label scheme if no labels are provided. Components may also load other data like lookup tables or dictionaries.
+
+The initialization step allows the config to define **all settings** required for the pipeline, while keeping a separation between settings and functions that should only be used **before training** to set up the initial pipeline, and logic and configuration that needs to be available **at runtime**. Without that separation, it would be very difficult to use the same, reproducible config file because the component settings required for training (load data from an external file) wouldn’t match the component settings required at runtime (load what’s included with the saved `nlp` object and don’t depend on external file).
+
+![Image 10: Illustration of pipeline lifecycle](https://spacy.io/images/lifecycle.svg)
+
+#### [Initializing labels](https://spacy.io/usage/training#initialization-labels)
+
+Built-in pipeline components like the [`EntityRecognizer`](https://spacy.io/api/entityrecognizer) or [`DependencyParser`](https://spacy.io/api/dependencyparser) need to know their available labels and associated internal meta information to initialize their model weights. Using the `get_examples` callback provided on initialization, they’re able to **read the labels off the training data** automatically, which is very convenient – but it can also slow down the training process to compute this information on every run.
+
+The [`init labels`](https://spacy.io/api/cli#init-labels) command lets you auto-generate JSON files containing the label data for all supported components. You can then pass in the labels in the `[initialize]` settings for the respective components to allow them to initialize faster.
+
+Under the hood, the command delegates to the `label_data` property of the pipeline components, for instance [`EntityRecognizer.label_data`](https://spacy.io/api/entityrecognizer#label_data).
+
+[Data utilities](https://spacy.io/usage/training#data)
+------------------------------------------------------
+
+spaCy includes various features and utilities to make it easy to train models using your own data, manage training and evaluation corpora, convert existing annotations and configure data augmentation strategies for more robust models.
+
+### [Converting existing corpora and annotations](https://spacy.io/usage/training#data-convert)
+
+If you have training data in a standard format like `.conll` or `.conllu`, the easiest way to convert it for use with spaCy is to run [`spacy convert`](https://spacy.io/api/cli#convert) and pass it a file and an output directory. By default, the command will pick the converter based on the file extension.
+
+The binary `.spacy` format is a serialized [`DocBin`](https://spacy.io/api/docbin) containing one or more [`Doc`](https://spacy.io/api/doc) objects. It’s extremely **efficient in storage**, especially when packing multiple documents together. You can also create `Doc` objects manually, so you can write your own custom logic to convert and store existing annotations for use in spaCy.
+
+#### Training data from Doc objects
+
+### [Working with corpora](https://spacy.io/usage/training#data-corpora)
+
+The [`[corpora]`](https://spacy.io/api/data-formats#config-corpora) block in your config lets you define **data resources** to use for training, evaluation, pretraining or any other custom workflows. `corpora.train` and `corpora.dev` are used as conventions within spaCy’s default configs, but you can also define any other custom blocks. Each section in the corpora config should resolve to a [`Corpus`](https://spacy.io/api/corpus) – for example, using spaCy’s built-in [corpus reader](https://spacy.io/api/top-level#corpus-readers) that takes a path to a binary `.spacy` file. The `train_corpus` and `dev_corpus` fields in the [`[training]`](https://spacy.io/api/data-formats#config-training) block specify where to find the corpus in your config. This makes it easy to **swap out** different corpora by only changing a single config setting.
+
+Instead of making `[corpora]` a block with multiple subsections for each portion of the data, you can also use a single function that returns a dictionary of corpora, keyed by corpus name, e.g. `"train"` and `"dev"`. This can be especially useful if you need to split a single file into corpora for training and evaluation, without loading the same file twice.
+
+By default, the training data is loaded into memory and shuffled before each epoch. If the corpus is **too large to fit into memory** during training, stream the corpus using a custom reader as described in the next section.
+
+### [Custom data reading and batching](https://spacy.io/usage/training#custom-code-readers-batchers)
+
+Some use-cases require **streaming in data** or manipulating datasets on the fly, rather than generating all data beforehand and storing it to disk. Instead of using the built-in [`Corpus`](https://spacy.io/api/corpus) reader, which uses static file paths, you can create and register a custom function that generates [`Example`](https://spacy.io/api/example) objects.
+
+In the following example we assume a custom function `read_custom_data` which loads or generates texts with relevant text classification annotations. Then, small lexical variations of the input text are created before generating the final [`Example`](https://spacy.io/api/example) objects. The `@spacy.registry.readers` decorator lets you register the function creating the custom reader in the `readers` [registry](https://spacy.io/api/top-level#registry) and assign it a string name, so it can be used in your config. All arguments on the registered function become available as **config settings** – in this case, `source`.
+
+#### functions.py
+
+If the corpus is **too large to load into memory** or the corpus reader is an **infinite generator**, use the setting `max_epochs = -1` to indicate that the train corpus should be streamed. With this setting the train corpus is merely streamed and batched, not shuffled, so any shuffling needs to be implemented in the corpus reader itself. In the example below, a corpus reader that generates sentences containing even or odd numbers is used with an unlimited number of examples for the train corpus and a limited number of examples for the dev corpus. The dev corpus should always be finite and fit in memory during the evaluation step. `max_steps` and/or `patience` are used to determine when the training should stop.
+
+#### functions.py
+
+If the train corpus is streamed, the initialize step peeks at the first 100 examples in the corpus to find the labels for each component. If this isn’t sufficient, you’ll need to [provide the labels](https://spacy.io/usage/training#initialization-labels) for each component in the `[initialize]` block. [`init labels`](https://spacy.io/api/cli#init-labels) can be used to generate JSON files in the correct format, which you can extend with the full label set.
+
+We can also customize the **batching strategy** by registering a new batcher function in the `batchers` [registry](https://spacy.io/api/top-level#registry). A batcher turns a stream of items into a stream of batches. spaCy has several useful built-in [batching strategies](https://spacy.io/api/top-level#batchers) with customizable sizes, but it’s also easy to implement your own. For instance, the following function takes the stream of generated [`Example`](https://spacy.io/api/example) objects, and removes those which have the same underlying raw text, to avoid duplicates within each batch. Note that in a more realistic implementation, you’d also want to check whether the annotations are the same.
+
+#### functions.py
+
+### [Data augmentation](https://spacy.io/usage/training#data-augmentation)
+
+Data augmentation is the process of applying small **modifications** to the training data. It can be especially useful for punctuation and case replacement – for example, if your corpus only uses smart quotes and you want to include variations using regular quotes, or to make the model less sensitive to capitalization by including a mix of capitalized and lowercase examples.
+
+The easiest way to use data augmentation during training is to provide an `augmenter` to the training corpus, e.g. in the `[corpora.train]` section of your config. The built-in [`orth_variants`](https://spacy.io/api/top-level#orth_variants) augmenter creates a data augmentation callback that uses orth-variant replacement.
+
+#### config.cfg (excerpt)
+
+The `orth_variants` argument lets you pass in a dictionary of replacement rules, typically loaded from a JSON file. There are two types of orth variant rules: `"single"` for single tokens that should be replaced (e.g. hyphens) and `"paired"` for pairs of tokens (e.g. quotes).
+
+#### orth\_variants.json
+
+#### [Writing custom data augmenters](https://spacy.io/usage/training#data-augmentation-custom)
+
+Using the [`@spacy.augmenters`](https://spacy.io/api/top-level#registry) registry, you can also register your own data augmentation callbacks. The callback should be a function that takes the current `nlp` object and a training [`Example`](https://spacy.io/api/example) and yields `Example` objects. Keep in mind that the augmenter should yield **all examples** you want to use in your corpus, not only the augmented examples (unless you want to augment all examples).
+
+Here’a an example of a custom augmentation callback that produces text variants in [“SpOnGeBoB cAsE”](https://knowyourmeme.com/memes/mocking-spongebob). The registered function takes one argument `randomize` that can be set via the config and decides whether the uppercase/lowercase transformation is applied randomly or not. The augmenter yields two `Example` objects: the original example and the augmented example.
+
+An easy way to create modified `Example` objects is to use the [`Example.from_dict`](https://spacy.io/api/example#from_dict) method with a new reference [`Doc`](https://spacy.io/api/doc) created from the modified text. In this case, only the capitalization changes, so only the `ORTH` values of the tokens will be different between the original and augmented examples.
+
+Note that if your data augmentation strategy involves changing the tokenization (for instance, removing or adding tokens) and your training examples include token-based annotations like the dependency parse or entity labels, you’ll need to take care to adjust the `Example` object so its annotations match and remain valid.
+
+[Internal training API](https://spacy.io/usage/training#api)
+------------------------------------------------------------
+
+### [Training from a Python script](https://spacy.io/usage/training#api-train) v3.2
+
+If you want to run the training from a Python script instead of using the [`spacy train`](https://spacy.io/api/cli#train) CLI command, you can call into the [`train`](https://spacy.io/api/cli#train-function) helper function directly. It takes the path to the config file, an optional output directory and an optional dictionary of [config overrides](https://spacy.io/usage/training#config-overrides).
+
+### [Internal training loop API](https://spacy.io/usage/training#api-loop)
+
+The [`Example`](https://spacy.io/api/example) object contains annotated training data, also called the **gold standard**. It’s initialized with a [`Doc`](https://spacy.io/api/doc) object that will hold the predictions, and another `Doc` object that holds the gold-standard annotations. It also includes the **alignment** between those two documents if they differ in tokenization. The `Example` class ensures that spaCy can rely on one **standardized format** that’s passed through the pipeline. For instance, let’s say we want to define gold-standard part-of-speech tags:
+
+As this is quite verbose, there’s an alternative way to create the reference `Doc` with the gold-standard annotations. The function `Example.from_dict` takes a dictionary with keyword arguments specifying the annotations, like `tags` or `entities`. Using the resulting `Example` object and its gold-standard annotations, the model can be updated to learn a sentence of three words with their assigned part-of-speech tags.
+
+Here’s another example that shows how to define gold-standard named entities. The letters added before the labels refer to the tags of the [BILUO scheme](https://spacy.io/usage/linguistic-features#updating-biluo) – `O` is a token outside an entity, `U` a single entity unit, `B` the beginning of an entity, `I` a token inside an entity and `L` the last token of an entity.
+
+Of course, it’s not enough to only show a model a single example once. Especially if you only have few examples, you’ll want to train for a **number of iterations**. At each iteration, the training data is **shuffled** to ensure the model doesn’t make any generalizations based on the order of examples. Another technique to improve the learning results is to set a **dropout rate**, a rate at which to randomly “drop” individual features and representations. This makes it harder for the model to memorize the training data. For example, a `0.25` dropout means that each feature or internal representation has a 1/4 likelihood of being dropped.
+
+#### Example training loop
+
+The [`nlp.update`](https://spacy.io/api/language#update) method takes the following arguments:
+
+| Name | Description |
+| --- | --- |
+| `examples` | [`Example`](https://spacy.io/api/example) objects. The `update` method takes a sequence of them, so you can batch up your training examples. |
+| `drop` | Dropout rate. Makes it harder for the model to just memorize the data. |
+| `sgd` | An [`Optimizer`](https://thinc.ai/docs/api-optimizers) object, which updates the model’s weights. If not set, spaCy will create a new one and save it for further use. |

@@ -1,0 +1,32 @@
+---
+title: Foundation Interface Lab
+description: Foundation Interface Lab at UC San Diego
+url: https://creativity.ucsd.edu/foundation
+timestamp: 2025-01-20T16:17:25.388Z
+domain: creativity.ucsd.edu
+path: foundation
+---
+
+# Foundation Interface Lab
+
+
+Foundation Interface Lab at UC San Diego
+
+
+## Content
+
+AI is taking the world by storm. Many are thinking about integrating AI into their applications or creating AI-based applications. In this talk, I argue that the application-centric information space has been and will continue to be a poor foundation for diverse information activities. The rush of integrating AI with the application-centric information space is analogous to what happened during the transition between previous industrial revolutions. Economists Erik Brynjolfsson and Andrew McAfee found that, at the advent of the second industrial revolution, owners of steam engine-based factories rushed to replace the steam engines with electric motors. This switch, however, made very little impact on the factory’s productivity, as the factories’ layouts and workflows had been optimized for steam engines. It wasn’t until 30 years later that new generations of engineers reconfigured the factory layouts and manufacturing workflows to leverage the flexibility of electricity, and productivity skyrocketed. We are at a very similar paradigm shift with AI. Instead of integrating AI into our old information space, the application-centric information space, we should think about what changes we need to make to our information space to unlock the full potential of AI. I have been working on the fundamental elements of our digital information spaces and human-computer interfaces since 2015. In this talk, I covered 9 projects along this research direction using a preliminary conceptual framework. There is still a lot to do, but it’s an exciting path forward.
+
+## Metadata
+
+```json
+{
+  "title": "Foundation Interface Lab",
+  "description": "Foundation Interface Lab at UC San Diego",
+  "url": "https://creativity.ucsd.edu/foundation",
+  "content": "AI is taking the world by storm. Many are thinking about integrating AI into their applications or creating AI-based applications. In this talk, I argue that the application-centric information space has been and will continue to be a poor foundation for diverse information activities. The rush of integrating AI with the application-centric information space is analogous to what happened during the transition between previous industrial revolutions. Economists Erik Brynjolfsson and Andrew McAfee found that, at the advent of the second industrial revolution, owners of steam engine-based factories rushed to replace the steam engines with electric motors. This switch, however, made very little impact on the factory’s productivity, as the factories’ layouts and workflows had been optimized for steam engines. It wasn’t until 30 years later that new generations of engineers reconfigured the factory layouts and manufacturing workflows to leverage the flexibility of electricity, and productivity skyrocketed. We are at a very similar paradigm shift with AI. Instead of integrating AI into our old information space, the application-centric information space, we should think about what changes we need to make to our information space to unlock the full potential of AI. I have been working on the fundamental elements of our digital information spaces and human-computer interfaces since 2015. In this talk, I covered 9 projects along this research direction using a preliminary conceptual framework. There is still a lot to do, but it’s an exciting path forward.",
+  "usage": {
+    "tokens": 282
+  }
+}
+```

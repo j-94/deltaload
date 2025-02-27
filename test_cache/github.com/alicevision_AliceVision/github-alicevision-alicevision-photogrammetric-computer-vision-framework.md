@@ -1,0 +1,1320 @@
+---
+title: GitHub - alicevision/AliceVision: Photogrammetric Computer Vision Framework
+description: Photogrammetric Computer Vision Framework. Contribute to alicevision/AliceVision development by creating an account on GitHub.
+url: https://github.com/alicevision/AliceVision
+timestamp: 2025-01-20T15:30:08.863Z
+domain: github.com
+path: alicevision_AliceVision
+---
+
+# GitHub - alicevision/AliceVision: Photogrammetric Computer Vision Framework
+
+
+Photogrammetric Computer Vision Framework. Contribute to alicevision/AliceVision development by creating an account on GitHub.
+
+
+## Content
+
+GitHub - alicevision/AliceVision: Photogrammetric Computer Vision Framework
+===============
+                                           
+
+[Skip to content](https://github.com/alicevision/AliceVision?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Falicevision%2FAliceVision%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Falicevision%2FAliceVision%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=alicevision%2FAliceVision) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[alicevision](https://github.com/alicevision) / **[AliceVision](https://github.com/alicevision/AliceVision)** Public
+
+*   Sponsor
+    
+    Sponsor alicevision/AliceVision
+    ===============================
+    
+    ##### GitHub Sponsors
+    
+    [Learn more about Sponsors](https://github.com/sponsors)
+    
+    [![Image 26: @alicevision](https://avatars.githubusercontent.com/u/9333123?s=80&v=4)](https://github.com/alicevision)
+    
+    [alicevision](https://github.com/alicevision)
+    
+    [alicevision](https://github.com/alicevision)
+    
+    [Sponsor](https://github.com/sponsors/alicevision)
+    
+    ##### External links
+    
+    [https://alicevision.org/association/#donate](https://alicevision.org/association/#donate)
+    
+    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
+    
+    [Report abuse](https://github.com/contact/report-abuse?report=alicevision%2FAliceVision+%28Repository+Funding+Links%29)
+    
+*   [Notifications](https://github.com/login?return_to=%2Falicevision%2FAliceVision) You must be signed in to change notification settings
+*   [Fork 832](https://github.com/login?return_to=%2Falicevision%2FAliceVision)
+*   [Star 3.1k](https://github.com/login?return_to=%2Falicevision%2FAliceVision)
+    
+
+Photogrammetric Computer Vision Framework
+
+[alicevision.org](http://alicevision.org/ "http://alicevision.org")
+
+### License
+
+Unknown and 2 other licenses found
+
+### Licenses found
+
+[Unknown COPYING.md](https://github.com/alicevision/AliceVision/blob/develop/COPYING.md)[MIT LICENSE-MIT-libmv.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MIT-libmv.md)[MPL-2.0 LICENSE-MPL2.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MPL2.md)
+
+[3.1k stars](https://github.com/alicevision/AliceVision/stargazers) [832 forks](https://github.com/alicevision/AliceVision/forks) [Branches](https://github.com/alicevision/AliceVision/branches) [Tags](https://github.com/alicevision/AliceVision/tags) [Activity](https://github.com/alicevision/AliceVision/activity)
+
+[Star](https://github.com/login?return_to=%2Falicevision%2FAliceVision)
+
+[Notifications](https://github.com/login?return_to=%2Falicevision%2FAliceVision) You must be signed in to change notification settings
+
+*   [Code](https://github.com/alicevision/AliceVision)
+*   [Issues 22](https://github.com/alicevision/AliceVision/issues)
+*   [Pull requests 19](https://github.com/alicevision/AliceVision/pulls)
+*   [Discussions](https://github.com/alicevision/AliceVision/discussions)
+*   [Actions](https://github.com/alicevision/AliceVision/actions)
+*   [Projects 0](https://github.com/alicevision/AliceVision/projects)
+*   [Wiki](https://github.com/alicevision/AliceVision/wiki)
+*   [Security](https://github.com/alicevision/AliceVision/security)
+*   [Insights](https://github.com/alicevision/AliceVision/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/alicevision/AliceVision)
+*   [Issues](https://github.com/alicevision/AliceVision/issues)
+*   [Pull requests](https://github.com/alicevision/AliceVision/pulls)
+*   [Discussions](https://github.com/alicevision/AliceVision/discussions)
+*   [Actions](https://github.com/alicevision/AliceVision/actions)
+*   [Projects](https://github.com/alicevision/AliceVision/projects)
+*   [Wiki](https://github.com/alicevision/AliceVision/wiki)
+*   [Security](https://github.com/alicevision/AliceVision/security)
+*   [Insights](https://github.com/alicevision/AliceVision/pulse)
+
+alicevision/AliceVision
+=======================
+
+  
+
+ develop
+
+[**124** Branches](https://github.com/alicevision/AliceVision/branches)[**23** Tags](https://github.com/alicevision/AliceVision/tags)
+
+[](https://github.com/alicevision/AliceVision/branches)[](https://github.com/alicevision/AliceVision/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 27: cbentejac](https://avatars.githubusercontent.com/u/11963329?v=4&size=40)](https://github.com/cbentejac)[cbentejac](https://github.com/alicevision/AliceVision/commits?author=cbentejac)
+
+[Merge pull request](https://github.com/alicevision/AliceVision/commit/ce3c1e11be651291bc1597f4ed89df7d75790971) [#1803](https://github.com/alicevision/AliceVision/pull/1803) [from alicevision/dev/sfmLidar](https://github.com/alicevision/AliceVision/commit/ce3c1e11be651291bc1597f4ed89df7d75790971)
+
+Jan 20, 2025
+
+[ce3c1e1](https://github.com/alicevision/AliceVision/commit/ce3c1e11be651291bc1597f4ed89df7d75790971) · Jan 20, 2025
+
+History
+-------
+
+[9,749 Commits](https://github.com/alicevision/AliceVision/commits/develop/)
+
+[](https://github.com/alicevision/AliceVision/commits/develop/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/alicevision/AliceVision/tree/develop/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/alicevision/AliceVision/tree/develop/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[\[ci\] Update the tag for the Linux dependencies images](https://github.com/alicevision/AliceVision/commit/579a69d3e8433353833f138bef49229e8202df45 "[ci] Update the tag for the Linux dependencies images")
+
+
+
+ | 
+
+Jan 7, 2025
+
+ |
+| 
+
+[ci](https://github.com/alicevision/AliceVision/tree/develop/ci "ci")
+
+
+
+
+
+
+
+ | 
+
+[ci](https://github.com/alicevision/AliceVision/tree/develop/ci "ci")
+
+
+
+
+
+
+
+ | 
+
+[\[ci\] Add ALICEVISION\_ROOT definition in ci/env.sh](https://github.com/alicevision/AliceVision/commit/1ffd64af815608645326cc5050b46cf55ee8efc4 "[ci] Add ALICEVISION_ROOT definition in ci/env.sh")
+
+
+
+ | 
+
+Oct 17, 2022
+
+ |
+| 
+
+[docker](https://github.com/alicevision/AliceVision/tree/develop/docker "docker")
+
+
+
+
+
+
+
+ | 
+
+[docker](https://github.com/alicevision/AliceVision/tree/develop/docker "docker")
+
+
+
+
+
+
+
+ | 
+
+[\[docker\] Update default Cuda versions from 12.1.0 to 12.1.1](https://github.com/alicevision/AliceVision/commit/d469aec775dcf7f237a29f304b3b023cc4706dfb "[docker] Update default Cuda versions from 12.1.0 to 12.1.1")
+
+
+
+ | 
+
+Jan 7, 2025
+
+ |
+| 
+
+[docs](https://github.com/alicevision/AliceVision/tree/develop/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs](https://github.com/alicevision/AliceVision/tree/develop/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[\[docs\] avoid sphinx overwriting doxygen html files](https://github.com/alicevision/AliceVision/commit/d185361bc3aae54f232d30735d8dea08cc27d94b "[docs] avoid sphinx overwriting doxygen html files")
+
+
+
+ | 
+
+Dec 4, 2023
+
+ |
+| 
+
+[pyTests](https://github.com/alicevision/AliceVision/tree/develop/pyTests "pyTests")
+
+
+
+
+
+
+
+ | 
+
+[pyTests](https://github.com/alicevision/AliceVision/tree/develop/pyTests "pyTests")
+
+
+
+
+
+
+
+ | 
+
+[Add tests for vec2 values](https://github.com/alicevision/AliceVision/commit/65f2f3613fb269c6ee9dae85bd15a6b37f32bd43 "Add tests for vec2 values")
+
+
+
+ | 
+
+Dec 4, 2024
+
+ |
+| 
+
+[src](https://github.com/alicevision/AliceVision/tree/develop/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/alicevision/AliceVision/tree/develop/src "src")
+
+
+
+
+
+
+
+ | 
+
+[\[software\] Update versions for executables with new cmdline parameters](https://github.com/alicevision/AliceVision/commit/0d4bbdab5484a9f47d34542ac2e6c54f6bc847d8 "[software] Update versions for executables with new cmdline parameters")
+
+
+
+ | 
+
+Jan 17, 2025
+
+ |
+| 
+
+[.clang-format](https://github.com/alicevision/AliceVision/blob/develop/.clang-format ".clang-format")
+
+
+
+
+
+
+
+ | 
+
+[.clang-format](https://github.com/alicevision/AliceVision/blob/develop/.clang-format ".clang-format")
+
+
+
+
+
+
+
+ | 
+
+[Formatting: Updated .clang-format for more exhaustive rules](https://github.com/alicevision/AliceVision/commit/dc4c948ce3a6046fd644bd9072218f07a4379abe "Formatting: Updated .clang-format for more exhaustive rules
+Co-authored-by: Candice Bentéjac <candice.bentejac@gmail.com>")
+
+
+
+ | 
+
+Oct 26, 2023
+
+ |
+| 
+
+[.clang-tidy](https://github.com/alicevision/AliceVision/blob/develop/.clang-tidy ".clang-tidy")
+
+
+
+
+
+
+
+ | 
+
+[.clang-tidy](https://github.com/alicevision/AliceVision/blob/develop/.clang-tidy ".clang-tidy")
+
+
+
+
+
+
+
+ | 
+
+[Set basic working .clang-tidy file with rules on naming](https://github.com/alicevision/AliceVision/commit/877db50256e46b4c519383d110e6dbfd1b31cdee "Set basic working .clang-tidy file with rules on naming")
+
+
+
+ | 
+
+Jan 10, 2024
+
+ |
+| 
+
+[.coveralls.yml](https://github.com/alicevision/AliceVision/blob/develop/.coveralls.yml ".coveralls.yml")
+
+
+
+
+
+
+
+ | 
+
+[.coveralls.yml](https://github.com/alicevision/AliceVision/blob/develop/.coveralls.yml ".coveralls.yml")
+
+
+
+
+
+
+
+ | 
+
+[Putative to add coveralls (unit test code coverage).](https://github.com/alicevision/AliceVision/commit/a761cfec70c907d9d159fe34323ee298f2abd03c "Putative to add coveralls (unit test code coverage). #141") [#141](https://github.com/alicevision/AliceVision/pull/141)
+
+
+
+ | 
+
+Jun 27, 2014
+
+ |
+| 
+
+[.git-blame-ignore-revs](https://github.com/alicevision/AliceVision/blob/develop/.git-blame-ignore-revs ".git-blame-ignore-revs")
+
+
+
+
+
+
+
+ | 
+
+[.git-blame-ignore-revs](https://github.com/alicevision/AliceVision/blob/develop/.git-blame-ignore-revs ".git-blame-ignore-revs")
+
+
+
+
+
+
+
+ | 
+
+[Add latest reformatting commits to `.git-blame-ignore-revs`](https://github.com/alicevision/AliceVision/commit/341aa19a68b84e4f6a7697d599d6b361300d8425 "Add latest reformatting commits to `.git-blame-ignore-revs`")
+
+
+
+ | 
+
+Jan 12, 2024
+
+ |
+| 
+
+[.gitignore](https://github.com/alicevision/AliceVision/blob/develop/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/alicevision/AliceVision/blob/develop/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[\[gitignore\] Update .gitignore](https://github.com/alicevision/AliceVision/commit/55786b1f4364145132faeaafa77a250841699432 "[gitignore] Update .gitignore
+Ignore Visual Studio and Visual Studio Code project folders")
+
+
+
+ | 
+
+Jun 6, 2023
+
+ |
+| 
+
+[.readthedocs.yaml](https://github.com/alicevision/AliceVision/blob/develop/.readthedocs.yaml ".readthedocs.yaml")
+
+
+
+
+
+
+
+ | 
+
+[.readthedocs.yaml](https://github.com/alicevision/AliceVision/blob/develop/.readthedocs.yaml ".readthedocs.yaml")
+
+
+
+
+
+
+
+ | 
+
+[\[docs\] minor corrections for RTD build - 2](https://github.com/alicevision/AliceVision/commit/d2d17977954eefb1f8b518cc87dd043f6710eae5 "[docs] minor corrections for RTD build - 2")
+
+
+
+ | 
+
+Nov 14, 2022
+
+ |
+| 
+
+[BIBLIOGRAPHY.md](https://github.com/alicevision/AliceVision/blob/develop/BIBLIOGRAPHY.md "BIBLIOGRAPHY.md")
+
+
+
+
+
+
+
+ | 
+
+[BIBLIOGRAPHY.md](https://github.com/alicevision/AliceVision/blob/develop/BIBLIOGRAPHY.md "BIBLIOGRAPHY.md")
+
+
+
+
+
+
+
+ | 
+
+[\[software\] add aliceVision\_intrinsicsCalibration with only simple gri…](https://github.com/alicevision/AliceVision/commit/f1adcef1776e8935f1911a031a0719e5af11ae35 "[software] add aliceVision_intrinsicsCalibration with only simple grid support")
+
+
+
+ | 
+
+Oct 4, 2023
+
+ |
+| 
+
+[CHANGES.md](https://github.com/alicevision/AliceVision/blob/develop/CHANGES.md "CHANGES.md")
+
+
+
+
+
+
+
+ | 
+
+[CHANGES.md](https://github.com/alicevision/AliceVision/blob/develop/CHANGES.md "CHANGES.md")
+
+
+
+
+
+
+
+ | 
+
+[\[doc\] CHANGES: Add release note for version 3.2.0](https://github.com/alicevision/AliceVision/commit/564d41ded44777ba6ff76470493eb6349a03f31d "[doc] CHANGES: Add release note for version 3.2.0")
+
+
+
+ | 
+
+Dec 7, 2023
+
+ |
+| 
+
+[CMakeLists.txt](https://github.com/alicevision/AliceVision/blob/develop/CMakeLists.txt "CMakeLists.txt")
+
+
+
+
+
+
+
+ | 
+
+[CMakeLists.txt](https://github.com/alicevision/AliceVision/blob/develop/CMakeLists.txt "CMakeLists.txt")
+
+
+
+
+
+
+
+ | 
+
+[code coverage is back to life](https://github.com/alicevision/AliceVision/commit/f12f0883016a8af50e1d627b31f9bc690405f466 "code coverage is back to life")
+
+
+
+ | 
+
+Mar 20, 2024
+
+ |
+| 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/alicevision/AliceVision/blob/develop/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/alicevision/AliceVision/blob/develop/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[New AliceVision introduction files: README, CONTRIBUTING, logo, etc.](https://github.com/alicevision/AliceVision/commit/05e4a72a9887ebe8becf629bde57e5e98daea355 "New AliceVision introduction files: README, CONTRIBUTING, logo, etc.")
+
+
+
+ | 
+
+Sep 5, 2017
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[\[doc\] fix typo](https://github.com/alicevision/AliceVision/commit/f2d7b035870b25bb96efc54437014633542c9188 "[doc] fix typo")
+
+
+
+ | 
+
+Jun 12, 2020
+
+ |
+| 
+
+[CONTRIBUTORS.md](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTORS.md "CONTRIBUTORS.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTORS.md](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTORS.md "CONTRIBUTORS.md")
+
+
+
+
+
+
+
+ | 
+
+[\[doc\] CONTRIBUTORS: Add Abdelrahman Al Marouk](https://github.com/alicevision/AliceVision/commit/96b69796c58d77a11e41f9c41695733231bdf61e "[doc] CONTRIBUTORS: Add Abdelrahman Al Marouk")
+
+
+
+ | 
+
+Jun 21, 2023
+
+ |
+| 
+
+[COPYING.md](https://github.com/alicevision/AliceVision/blob/develop/COPYING.md "COPYING.md")
+
+
+
+
+
+
+
+ | 
+
+[COPYING.md](https://github.com/alicevision/AliceVision/blob/develop/COPYING.md "COPYING.md")
+
+
+
+
+
+
+
+ | 
+
+[libE57Format](https://github.com/alicevision/AliceVision/commit/520d2741b6a7706af568dcb8f2307f3717ddd1da "libE57Format")
+
+
+
+ | 
+
+Jun 25, 2024
+
+ |
+| 
+
+[INSTALL.md](https://github.com/alicevision/AliceVision/blob/develop/INSTALL.md "INSTALL.md")
+
+
+
+
+
+
+
+ | 
+
+[INSTALL.md](https://github.com/alicevision/AliceVision/blob/develop/INSTALL.md "INSTALL.md")
+
+
+
+
+
+
+
+ | 
+
+[\[doc\] INSTALL.md: Update documentation for the build of Docker images](https://github.com/alicevision/AliceVision/commit/bbf85f862deb3b3343ed2c775d3151975dd0f987 "[doc] INSTALL.md: Update documentation for the build of Docker images")
+
+
+
+ | 
+
+Dec 11, 2024
+
+ |
+| 
+
+[LICENSE-MIT-libmv.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MIT-libmv.md "LICENSE-MIT-libmv.md")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE-MIT-libmv.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MIT-libmv.md "LICENSE-MIT-libmv.md")
+
+
+
+
+
+
+
+ | 
+
+[\[license\] revert an accidental change to the libmv license file](https://github.com/alicevision/AliceVision/commit/2156a20e5ca6fd5bae856795ba749143decf183a "[license] revert an accidental change to the libmv license file
+This file has been modified accidentally. I took the text back from an
+header file, and didn't notice that it was not exactly the same from the
+global file.")
+
+
+
+ | 
+
+Oct 27, 2017
+
+ |
+| 
+
+[LICENSE-MPL2.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MPL2.md "LICENSE-MPL2.md")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE-MPL2.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MPL2.md "LICENSE-MPL2.md")
+
+
+
+
+
+
+
+ | 
+
+[New AliceVision introduction files: README, CONTRIBUTING, logo, etc.](https://github.com/alicevision/AliceVision/commit/05e4a72a9887ebe8becf629bde57e5e98daea355 "New AliceVision introduction files: README, CONTRIBUTING, logo, etc.")
+
+
+
+ | 
+
+Sep 5, 2017
+
+ |
+| 
+
+[README.md](https://github.com/alicevision/AliceVision/blob/develop/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/alicevision/AliceVision/blob/develop/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[\[docs\] add bibliography](https://github.com/alicevision/AliceVision/commit/0ec4db812f900be2b649e7b5444a567f93ad592b "[docs] add bibliography")
+
+
+
+ | 
+
+Nov 14, 2022
+
+ |
+| 
+
+[RELEASING.md](https://github.com/alicevision/AliceVision/blob/develop/RELEASING.md "RELEASING.md")
+
+
+
+
+
+
+
+ | 
+
+[RELEASING.md](https://github.com/alicevision/AliceVision/blob/develop/RELEASING.md "RELEASING.md")
+
+
+
+
+
+
+
+ | 
+
+[\[doc\] RELEASING: Update command to generate the release note](https://github.com/alicevision/AliceVision/commit/00cd22aad7eca51964b01083d99ccf4dd071bbc3 "[doc] RELEASING: Update command to generate the release note")
+
+
+
+ | 
+
+Dec 7, 2023
+
+ |
+| 
+
+[cudaInstallAppveyor.cmd](https://github.com/alicevision/AliceVision/blob/develop/cudaInstallAppveyor.cmd "cudaInstallAppveyor.cmd")
+
+
+
+
+
+
+
+ | 
+
+[cudaInstallAppveyor.cmd](https://github.com/alicevision/AliceVision/blob/develop/cudaInstallAppveyor.cmd "cudaInstallAppveyor.cmd")
+
+
+
+
+
+
+
+ | 
+
+[AppVeyor: Use CUDA 11](https://github.com/alicevision/AliceVision/commit/f08d3c5529c4bdf313a039100f2452afea0b093a "AppVeyor: Use CUDA 11
+Updates the AppVeyor configuration to the CUDA Toolkit 11.0.1")
+
+
+
+ | 
+
+Jun 10, 2020
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/alicevision/AliceVision?screenshot=true#)
+*   [Code of conduct](https://github.com/alicevision/AliceVision?screenshot=true#)
+*   [License](https://github.com/alicevision/AliceVision?screenshot=true#)
+*   [MIT license](https://github.com/alicevision/AliceVision?screenshot=true#)
+*   [MPL-2.0 license](https://github.com/alicevision/AliceVision?screenshot=true#)
+
+[![Image 28: AliceVision - Photogrammetric Computer Vision Framework](https://github.com/alicevision/AliceVision/raw/develop/docs/logo/AliceVision_banner.png)](https://github.com/alicevision/AliceVision/raw/develop/docs/logo/AliceVision_banner.png)
+========================================================================================================================================================================================================================================================
+
+[](https://github.com/alicevision/AliceVision?screenshot=true#)
+
+[AliceVision](http://alicevision.github.io/) is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. AliceVision aims to provide strong software basis with state-of-the-art computer vision algorithms that can be tested, analyzed and reused. The project is a result of collaboration between academia and industry to provide cutting-edge algorithms with the robustness and the quality required for production usage.
+
+Learn more details about the pipeline and tools based on it on [AliceVision website](http://alicevision.github.io/).
+
+See [results of the pipeline on sketchfab](http://sketchfab.com/AliceVision).
+
+Photogrammetry
+--------------
+
+[](https://github.com/alicevision/AliceVision?screenshot=true#photogrammetry)
+
+Photogrammetry is the science of making measurements from photographs. It infers the geometry of a scene from a set of unordered photographies or videos. Photography is the projection of a 3D scene onto a 2D plane, losing depth information. The goal of photogrammetry is to reverse this process.
+
+See the [presentation of the pipeline steps](http://alicevision.github.io/#photogrammetry).
+
+License
+-------
+
+[](https://github.com/alicevision/AliceVision?screenshot=true#license)
+
+The project is released under MPLv2, see [**COPYING.md**](https://github.com/alicevision/AliceVision/blob/develop/COPYING.md).
+
+Citation
+--------
+
+[](https://github.com/alicevision/AliceVision?screenshot=true#citation)
+
+If you use this project for a publication, please cite the [paper](https://hal.archives-ouvertes.fr/hal-03351139):
+
+```
+@inproceedings{alicevision2021,
+  title={{A}liceVision {M}eshroom: An open-source {3D} reconstruction pipeline},
+  author={Carsten Griwodz and Simone Gasparini and Lilian Calvet and Pierre Gurdjos and Fabien Castan and Benoit Maujean and Gregoire De Lillo and Yann Lanthony},
+  booktitle={Proceedings of the 12th ACM Multimedia Systems Conference - {MMSys '21}},
+  doi = {10.1145/3458305.3478443},
+  publisher = {ACM Press},
+  year = {2021}
+}
+```
+
+Bibliography
+------------
+
+[](https://github.com/alicevision/AliceVision?screenshot=true#bibliography)
+
+See [**Bibliography**](https://github.com/alicevision/AliceVision/blob/develop/BIBLIOGRAPHY.md) for the list of research papers and tools used in this project.
+
+Get the project
+---------------
+
+[](https://github.com/alicevision/AliceVision?screenshot=true#get-the-project)
+
+Get the source code: `git clone --recursive git://github.com/alicevision/AliceVision`
+
+See [**INSTALL.md**](https://github.com/alicevision/AliceVision/blob/develop/INSTALL.md) to build the project.
+
+Continuous integration status: [![Image 29: Build Status](https://camo.githubusercontent.com/696556cedaa51bca0fce3676841d5266bebcd4e3fae720194c7814c72df2ac8f/68747470733a2f2f7472617669732d63692e6f72672f616c696365766973696f6e2f416c696365566973696f6e2e706e673f6272616e63683d646576656c6f70)](https://travis-ci.org/alicevision/AliceVision) [![Image 30: Coverage Status](https://camo.githubusercontent.com/bdacd3030c42bee9d8da04311969d3bdea168e837fb1129dce3bf7bf5fc498c4/68747470733a2f2f636f766572616c6c732e696f2f7265706f732f6769746875622f616c696365766973696f6e2f416c696365566973696f6e2f62616467652e706e673f6272616e63683d646576656c6f70)](https://coveralls.io/github/alicevision/AliceVision?branch=develop).
+
+Launch 3D reconstructions
+-------------------------
+
+[](https://github.com/alicevision/AliceVision?screenshot=true#launch-3d-reconstructions)
+
+Use [Meshroom](https://github.com/alicevision/meshroom) to launch the AliceVision pipeline.
+
+*   Meshroom provides a User Interface to create 3D reconstructions.
+*   Meshroom provides a command line to launch all the steps of the pipeline.
+*   Meshroom is written in python and can be used to create your own python scripts to customize the pipeline or create custom automation.
+
+The User Interface of Meshroom relies on Qt and PySide. The Meshroom engine and command line has no dependency to Qt.
+
+Contact
+-------
+
+[](https://github.com/alicevision/AliceVision?screenshot=true#contact)
+
+Use the public mailing-list to ask questions or request features. It is also a good place for informal discussions like sharing results, interesting related technologies or publications:
+
+> [alicevision@googlegroups.com](mailto:alicevision@googlegroups.com) [http://groups.google.com/group/alicevision](http://groups.google.com/group/alicevision)
+
+You can also contact the core team privately on: [alicevision-team@googlegroups.com](mailto:alicevision-team@googlegroups.com).
+
+Contributing
+------------
+
+[](https://github.com/alicevision/AliceVision?screenshot=true#contributing)
+
+[![Image 31: CII Best Practices](https://camo.githubusercontent.com/338a8e8a81abd873466c6d49dc09840ea58849a47eed2a27f77e7b552f223e40/68747470733a2f2f626573747072616374696365732e636f7265696e6672617374727563747572652e6f72672f70726f6a656374732f323939352f6261646765)](https://bestpractices.coreinfrastructure.org/projects/2995)
+
+Beyond open source interest to foster developments, open source is a way of life. The project has started as a collaborative project and aims to continue. We love to exchange ideas, improve ourselves while making improvements for other people and discover new collaboration opportunities to expand everybody’s horizon. Contributions are welcome. We integrate all contributions as soon as it is useful for someone, don't create troubles for others and the code quality is good enough for maintainance.
+
+Please have a look at the [project code of conduct](https://github.com/alicevision/AliceVision/blob/develop/CODE_OF_CONDUCT.md) to provide a friendly, motivating and welcoming environment for all. Please have a look at the [project contributing guide](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTING.md) to provide an efficient workflow that minimize waste of time for contributors and maintainers as well as maximizing the project quality and efficiency.
+
+Use github Pull Requests to submit contributions:
+
+> [http://github.com/alicevision/AliceVision/issues](http://github.com/alicevision/AliceVision/issues)
+
+Use the public mailing-list to ask questions or request features and use github issues to report bugs:
+
+> [http://github.com/alicevision/AliceVision/pulls](http://github.com/alicevision/AliceVision/pulls)
+
+Project history
+---------------
+
+[](https://github.com/alicevision/AliceVision?screenshot=true#project-history)
+
+In 2009, CMP research team from CTU started the PhD thesis of Michal Jancosek supervised by Tomas Pajdla. They released windows binaries of their MVS pipeline, called CMPMVS, in 2012. In 2009, Toulouse INP, INRIA and Duran Duboi started a French ANR project to create a model based Camera Tracking solution based on natural features and a new marker design called CCTag. In 2010, Mikros Image and IMAGINE research team (a joint research group between Ecole des Ponts ParisTech and Centre Scientifique et Technique du Batiment) started a partnership around Pierre Moulon’s thesis, supervised by Renaud Marlet and Pascal Monasse on the academic side and Benoit Maujean on the industrial side. In 2013, they released an open source SfM pipeline, called openMVG (“Multiple View Geometry”), to provide the basis of a better solution for the creation of visual effects matte-paintings. In 2015, Simula, Toulouse INP and Mikros Image joined their efforts in the EU project POPART to create a Previz system based on AliceVision. In 2017, CTU join the team in the EU project LADIO to create a central hub with structured access to all data generated on set based on AliceVision.
+
+See [CONTRIBUTORS.md](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTORS.md) for the full list of contributors. We hope to see you in this list soon!
+
+About
+-----
+
+Photogrammetric Computer Vision Framework
+
+[alicevision.org](http://alicevision.org/ "http://alicevision.org")
+
+### Topics
+
+[computer-vision](https://github.com/topics/computer-vision "Topic: computer-vision") [structure-from-motion](https://github.com/topics/structure-from-motion "Topic: structure-from-motion") [photogrammetry](https://github.com/topics/photogrammetry "Topic: photogrammetry") [3d-reconstruction](https://github.com/topics/3d-reconstruction "Topic: 3d-reconstruction") [panorama-image](https://github.com/topics/panorama-image "Topic: panorama-image") [camera-tracking](https://github.com/topics/camera-tracking "Topic: camera-tracking") [panorama-stitching](https://github.com/topics/panorama-stitching "Topic: panorama-stitching") [multiview-stereo](https://github.com/topics/multiview-stereo "Topic: multiview-stereo") [meshroom](https://github.com/topics/meshroom "Topic: meshroom") [alicevision](https://github.com/topics/alicevision "Topic: alicevision") [hdri-image](https://github.com/topics/hdri-image "Topic: hdri-image")
+
+### Resources
+
+[Readme](https://github.com/alicevision/AliceVision?screenshot=true#readme-ov-file)
+
+### License
+
+Unknown and 2 other licenses found
+
+### Licenses found
+
+[Unknown COPYING.md](https://github.com/alicevision/AliceVision/blob/develop/COPYING.md)[MIT LICENSE-MIT-libmv.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MIT-libmv.md)[MPL-2.0 LICENSE-MPL2.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MPL2.md)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/alicevision/AliceVision?screenshot=true#coc-ov-file)
+
+[Activity](https://github.com/alicevision/AliceVision/activity)
+
+[Custom properties](https://github.com/alicevision/AliceVision/custom-properties)
+
+### Stars
+
+[**3.1k** stars](https://github.com/alicevision/AliceVision/stargazers)
+
+### Watchers
+
+[**131** watching](https://github.com/alicevision/AliceVision/watchers)
+
+### Forks
+
+[**832** forks](https://github.com/alicevision/AliceVision/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Falicevision%2FAliceVision&report=alicevision+%28user%29)
+
+[Releases 9](https://github.com/alicevision/AliceVision/releases)
+-----------------------------------------------------------------
+
+[Release 3.2.0 (2023/12/07) Latest Dec 11, 2023](https://github.com/alicevision/AliceVision/releases/tag/v3.2.0)
+
+[\+ 8 releases](https://github.com/alicevision/AliceVision/releases)
+
+Sponsor this project
+--------------------
+
+*    [![Image 32: @alicevision](https://avatars.githubusercontent.com/u/9333123?s=64&v=4)](https://github.com/alicevision)[**alicevision** AliceVision](https://github.com/alicevision)[](https://github.com/sponsors/alicevision)
+
+*   [https://alicevision.org/association/#donate](https://alicevision.org/association/#donate)
+
+[Learn more about GitHub Sponsors](https://github.com/sponsors)
+
+[Contributors 184](https://github.com/alicevision/AliceVision/graphs/contributors)
+----------------------------------------------------------------------------------
+
+*   [![Image 33: @fabiencastan](https://avatars.githubusercontent.com/u/153585?s=64&v=4)](https://github.com/fabiencastan)
+*   [![Image 34: @simogasp](https://avatars.githubusercontent.com/u/1331744?s=64&v=4)](https://github.com/simogasp)
+*   [![Image 35: @gregoire-dl](https://avatars.githubusercontent.com/u/16002026?s=64&v=4)](https://github.com/gregoire-dl)
+*   [![Image 36: @pmoulon](https://avatars.githubusercontent.com/u/3235050?s=64&v=4)](https://github.com/pmoulon)
+*   [![Image 37: @servantftechnicolor](https://avatars.githubusercontent.com/u/100348063?s=64&v=4)](https://github.com/servantftechnicolor)
+*   [![Image 38: @cbentejac](https://avatars.githubusercontent.com/u/11963329?s=64&v=4)](https://github.com/cbentejac)
+*   [![Image 39: @fcastan](https://avatars.githubusercontent.com/u/5681756?s=64&v=4)](https://github.com/fcastan)
+*   [![Image 40: @jmelou](https://avatars.githubusercontent.com/u/14567010?s=64&v=4)](https://github.com/jmelou)
+*   [![Image 41: @mugulmd](https://avatars.githubusercontent.com/u/70104194?s=64&v=4)](https://github.com/mugulmd)
+*   [![Image 42: @caymard](https://avatars.githubusercontent.com/u/5090050?s=64&v=4)](https://github.com/caymard)
+*   [![Image 43: @p12tic](https://avatars.githubusercontent.com/u/1056711?s=64&v=4)](https://github.com/p12tic)
+*   [![Image 44: @demoulinv](https://avatars.githubusercontent.com/u/99878110?s=64&v=4)](https://github.com/demoulinv)
+*   [![Image 45: @yann-lty](https://avatars.githubusercontent.com/u/1674646?s=64&v=4)](https://github.com/yann-lty)
+*   [![Image 46: @Debize](https://avatars.githubusercontent.com/u/10706647?s=64&v=4)](https://github.com/Debize)
+
+[\+ 170 contributors](https://github.com/alicevision/AliceVision/graphs/contributors)
+
+Languages
+---------
+
+*   [C++ 86.8%](https://github.com/alicevision/AliceVision/search?l=c%2B%2B)
+*   [C 5.5%](https://github.com/alicevision/AliceVision/search?l=c)
+*   [CMake 3.6%](https://github.com/alicevision/AliceVision/search?l=cmake)
+*   [Cuda 2.0%](https://github.com/alicevision/AliceVision/search?l=cuda)
+*   [Python 1.7%](https://github.com/alicevision/AliceVision/search?l=python)
+*   [SWIG 0.3%](https://github.com/alicevision/AliceVision/search?l=swig)
+*   Other 0.1%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - alicevision/AliceVision: Photogrammetric Computer Vision Framework",
+  "description": "Photogrammetric Computer Vision Framework. Contribute to alicevision/AliceVision development by creating an account on GitHub.",
+  "url": "https://github.com/alicevision/AliceVision?screenshot=true",
+  "content": "GitHub - alicevision/AliceVision: Photogrammetric Computer Vision Framework\n===============\n                                           \n\n[Skip to content](https://github.com/alicevision/AliceVision?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Falicevision%2FAliceVision%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Falicevision%2FAliceVision%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=alicevision%2FAliceVision) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[alicevision](https://github.com/alicevision) / **[AliceVision](https://github.com/alicevision/AliceVision)** Public\n\n*   Sponsor\n    \n    Sponsor alicevision/AliceVision\n    ===============================\n    \n    ##### GitHub Sponsors\n    \n    [Learn more about Sponsors](https://github.com/sponsors)\n    \n    [![Image 26: @alicevision](https://avatars.githubusercontent.com/u/9333123?s=80&v=4)](https://github.com/alicevision)\n    \n    [alicevision](https://github.com/alicevision)\n    \n    [alicevision](https://github.com/alicevision)\n    \n    [Sponsor](https://github.com/sponsors/alicevision)\n    \n    ##### External links\n    \n    [https://alicevision.org/association/#donate](https://alicevision.org/association/#donate)\n    \n    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).\n    \n    [Report abuse](https://github.com/contact/report-abuse?report=alicevision%2FAliceVision+%28Repository+Funding+Links%29)\n    \n*   [Notifications](https://github.com/login?return_to=%2Falicevision%2FAliceVision) You must be signed in to change notification settings\n*   [Fork 832](https://github.com/login?return_to=%2Falicevision%2FAliceVision)\n*   [Star 3.1k](https://github.com/login?return_to=%2Falicevision%2FAliceVision)\n    \n\nPhotogrammetric Computer Vision Framework\n\n[alicevision.org](http://alicevision.org/ \"http://alicevision.org\")\n\n### License\n\nUnknown and 2 other licenses found\n\n### Licenses found\n\n[Unknown COPYING.md](https://github.com/alicevision/AliceVision/blob/develop/COPYING.md)[MIT LICENSE-MIT-libmv.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MIT-libmv.md)[MPL-2.0 LICENSE-MPL2.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MPL2.md)\n\n[3.1k stars](https://github.com/alicevision/AliceVision/stargazers) [832 forks](https://github.com/alicevision/AliceVision/forks) [Branches](https://github.com/alicevision/AliceVision/branches) [Tags](https://github.com/alicevision/AliceVision/tags) [Activity](https://github.com/alicevision/AliceVision/activity)\n\n[Star](https://github.com/login?return_to=%2Falicevision%2FAliceVision)\n\n[Notifications](https://github.com/login?return_to=%2Falicevision%2FAliceVision) You must be signed in to change notification settings\n\n*   [Code](https://github.com/alicevision/AliceVision)\n*   [Issues 22](https://github.com/alicevision/AliceVision/issues)\n*   [Pull requests 19](https://github.com/alicevision/AliceVision/pulls)\n*   [Discussions](https://github.com/alicevision/AliceVision/discussions)\n*   [Actions](https://github.com/alicevision/AliceVision/actions)\n*   [Projects 0](https://github.com/alicevision/AliceVision/projects)\n*   [Wiki](https://github.com/alicevision/AliceVision/wiki)\n*   [Security](https://github.com/alicevision/AliceVision/security)\n*   [Insights](https://github.com/alicevision/AliceVision/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/alicevision/AliceVision)\n*   [Issues](https://github.com/alicevision/AliceVision/issues)\n*   [Pull requests](https://github.com/alicevision/AliceVision/pulls)\n*   [Discussions](https://github.com/alicevision/AliceVision/discussions)\n*   [Actions](https://github.com/alicevision/AliceVision/actions)\n*   [Projects](https://github.com/alicevision/AliceVision/projects)\n*   [Wiki](https://github.com/alicevision/AliceVision/wiki)\n*   [Security](https://github.com/alicevision/AliceVision/security)\n*   [Insights](https://github.com/alicevision/AliceVision/pulse)\n\nalicevision/AliceVision\n=======================\n\n  \n\n develop\n\n[**124** Branches](https://github.com/alicevision/AliceVision/branches)[**23** Tags](https://github.com/alicevision/AliceVision/tags)\n\n[](https://github.com/alicevision/AliceVision/branches)[](https://github.com/alicevision/AliceVision/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 27: cbentejac](https://avatars.githubusercontent.com/u/11963329?v=4&size=40)](https://github.com/cbentejac)[cbentejac](https://github.com/alicevision/AliceVision/commits?author=cbentejac)\n\n[Merge pull request](https://github.com/alicevision/AliceVision/commit/ce3c1e11be651291bc1597f4ed89df7d75790971) [#1803](https://github.com/alicevision/AliceVision/pull/1803) [from alicevision/dev/sfmLidar](https://github.com/alicevision/AliceVision/commit/ce3c1e11be651291bc1597f4ed89df7d75790971)\n\nJan 20, 2025\n\n[ce3c1e1](https://github.com/alicevision/AliceVision/commit/ce3c1e11be651291bc1597f4ed89df7d75790971) · Jan 20, 2025\n\nHistory\n-------\n\n[9,749 Commits](https://github.com/alicevision/AliceVision/commits/develop/)\n\n[](https://github.com/alicevision/AliceVision/commits/develop/)\n\n\n\n\n\n\n\n |\n| \n\n[.github](https://github.com/alicevision/AliceVision/tree/develop/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[.github](https://github.com/alicevision/AliceVision/tree/develop/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[\\[ci\\] Update the tag for the Linux dependencies images](https://github.com/alicevision/AliceVision/commit/579a69d3e8433353833f138bef49229e8202df45 \"[ci] Update the tag for the Linux dependencies images\")\n\n\n\n | \n\nJan 7, 2025\n\n |\n| \n\n[ci](https://github.com/alicevision/AliceVision/tree/develop/ci \"ci\")\n\n\n\n\n\n\n\n | \n\n[ci](https://github.com/alicevision/AliceVision/tree/develop/ci \"ci\")\n\n\n\n\n\n\n\n | \n\n[\\[ci\\] Add ALICEVISION\\_ROOT definition in ci/env.sh](https://github.com/alicevision/AliceVision/commit/1ffd64af815608645326cc5050b46cf55ee8efc4 \"[ci] Add ALICEVISION_ROOT definition in ci/env.sh\")\n\n\n\n | \n\nOct 17, 2022\n\n |\n| \n\n[docker](https://github.com/alicevision/AliceVision/tree/develop/docker \"docker\")\n\n\n\n\n\n\n\n | \n\n[docker](https://github.com/alicevision/AliceVision/tree/develop/docker \"docker\")\n\n\n\n\n\n\n\n | \n\n[\\[docker\\] Update default Cuda versions from 12.1.0 to 12.1.1](https://github.com/alicevision/AliceVision/commit/d469aec775dcf7f237a29f304b3b023cc4706dfb \"[docker] Update default Cuda versions from 12.1.0 to 12.1.1\")\n\n\n\n | \n\nJan 7, 2025\n\n |\n| \n\n[docs](https://github.com/alicevision/AliceVision/tree/develop/docs \"docs\")\n\n\n\n\n\n\n\n | \n\n[docs](https://github.com/alicevision/AliceVision/tree/develop/docs \"docs\")\n\n\n\n\n\n\n\n | \n\n[\\[docs\\] avoid sphinx overwriting doxygen html files](https://github.com/alicevision/AliceVision/commit/d185361bc3aae54f232d30735d8dea08cc27d94b \"[docs] avoid sphinx overwriting doxygen html files\")\n\n\n\n | \n\nDec 4, 2023\n\n |\n| \n\n[pyTests](https://github.com/alicevision/AliceVision/tree/develop/pyTests \"pyTests\")\n\n\n\n\n\n\n\n | \n\n[pyTests](https://github.com/alicevision/AliceVision/tree/develop/pyTests \"pyTests\")\n\n\n\n\n\n\n\n | \n\n[Add tests for vec2 values](https://github.com/alicevision/AliceVision/commit/65f2f3613fb269c6ee9dae85bd15a6b37f32bd43 \"Add tests for vec2 values\")\n\n\n\n | \n\nDec 4, 2024\n\n |\n| \n\n[src](https://github.com/alicevision/AliceVision/tree/develop/src \"src\")\n\n\n\n\n\n\n\n | \n\n[src](https://github.com/alicevision/AliceVision/tree/develop/src \"src\")\n\n\n\n\n\n\n\n | \n\n[\\[software\\] Update versions for executables with new cmdline parameters](https://github.com/alicevision/AliceVision/commit/0d4bbdab5484a9f47d34542ac2e6c54f6bc847d8 \"[software] Update versions for executables with new cmdline parameters\")\n\n\n\n | \n\nJan 17, 2025\n\n |\n| \n\n[.clang-format](https://github.com/alicevision/AliceVision/blob/develop/.clang-format \".clang-format\")\n\n\n\n\n\n\n\n | \n\n[.clang-format](https://github.com/alicevision/AliceVision/blob/develop/.clang-format \".clang-format\")\n\n\n\n\n\n\n\n | \n\n[Formatting: Updated .clang-format for more exhaustive rules](https://github.com/alicevision/AliceVision/commit/dc4c948ce3a6046fd644bd9072218f07a4379abe \"Formatting: Updated .clang-format for more exhaustive rules\nCo-authored-by: Candice Bentéjac <candice.bentejac@gmail.com>\")\n\n\n\n | \n\nOct 26, 2023\n\n |\n| \n\n[.clang-tidy](https://github.com/alicevision/AliceVision/blob/develop/.clang-tidy \".clang-tidy\")\n\n\n\n\n\n\n\n | \n\n[.clang-tidy](https://github.com/alicevision/AliceVision/blob/develop/.clang-tidy \".clang-tidy\")\n\n\n\n\n\n\n\n | \n\n[Set basic working .clang-tidy file with rules on naming](https://github.com/alicevision/AliceVision/commit/877db50256e46b4c519383d110e6dbfd1b31cdee \"Set basic working .clang-tidy file with rules on naming\")\n\n\n\n | \n\nJan 10, 2024\n\n |\n| \n\n[.coveralls.yml](https://github.com/alicevision/AliceVision/blob/develop/.coveralls.yml \".coveralls.yml\")\n\n\n\n\n\n\n\n | \n\n[.coveralls.yml](https://github.com/alicevision/AliceVision/blob/develop/.coveralls.yml \".coveralls.yml\")\n\n\n\n\n\n\n\n | \n\n[Putative to add coveralls (unit test code coverage).](https://github.com/alicevision/AliceVision/commit/a761cfec70c907d9d159fe34323ee298f2abd03c \"Putative to add coveralls (unit test code coverage). #141\") [#141](https://github.com/alicevision/AliceVision/pull/141)\n\n\n\n | \n\nJun 27, 2014\n\n |\n| \n\n[.git-blame-ignore-revs](https://github.com/alicevision/AliceVision/blob/develop/.git-blame-ignore-revs \".git-blame-ignore-revs\")\n\n\n\n\n\n\n\n | \n\n[.git-blame-ignore-revs](https://github.com/alicevision/AliceVision/blob/develop/.git-blame-ignore-revs \".git-blame-ignore-revs\")\n\n\n\n\n\n\n\n | \n\n[Add latest reformatting commits to `.git-blame-ignore-revs`](https://github.com/alicevision/AliceVision/commit/341aa19a68b84e4f6a7697d599d6b361300d8425 \"Add latest reformatting commits to `.git-blame-ignore-revs`\")\n\n\n\n | \n\nJan 12, 2024\n\n |\n| \n\n[.gitignore](https://github.com/alicevision/AliceVision/blob/develop/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/alicevision/AliceVision/blob/develop/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[\\[gitignore\\] Update .gitignore](https://github.com/alicevision/AliceVision/commit/55786b1f4364145132faeaafa77a250841699432 \"[gitignore] Update .gitignore\nIgnore Visual Studio and Visual Studio Code project folders\")\n\n\n\n | \n\nJun 6, 2023\n\n |\n| \n\n[.readthedocs.yaml](https://github.com/alicevision/AliceVision/blob/develop/.readthedocs.yaml \".readthedocs.yaml\")\n\n\n\n\n\n\n\n | \n\n[.readthedocs.yaml](https://github.com/alicevision/AliceVision/blob/develop/.readthedocs.yaml \".readthedocs.yaml\")\n\n\n\n\n\n\n\n | \n\n[\\[docs\\] minor corrections for RTD build - 2](https://github.com/alicevision/AliceVision/commit/d2d17977954eefb1f8b518cc87dd043f6710eae5 \"[docs] minor corrections for RTD build - 2\")\n\n\n\n | \n\nNov 14, 2022\n\n |\n| \n\n[BIBLIOGRAPHY.md](https://github.com/alicevision/AliceVision/blob/develop/BIBLIOGRAPHY.md \"BIBLIOGRAPHY.md\")\n\n\n\n\n\n\n\n | \n\n[BIBLIOGRAPHY.md](https://github.com/alicevision/AliceVision/blob/develop/BIBLIOGRAPHY.md \"BIBLIOGRAPHY.md\")\n\n\n\n\n\n\n\n | \n\n[\\[software\\] add aliceVision\\_intrinsicsCalibration with only simple gri…](https://github.com/alicevision/AliceVision/commit/f1adcef1776e8935f1911a031a0719e5af11ae35 \"[software] add aliceVision_intrinsicsCalibration with only simple grid support\")\n\n\n\n | \n\nOct 4, 2023\n\n |\n| \n\n[CHANGES.md](https://github.com/alicevision/AliceVision/blob/develop/CHANGES.md \"CHANGES.md\")\n\n\n\n\n\n\n\n | \n\n[CHANGES.md](https://github.com/alicevision/AliceVision/blob/develop/CHANGES.md \"CHANGES.md\")\n\n\n\n\n\n\n\n | \n\n[\\[doc\\] CHANGES: Add release note for version 3.2.0](https://github.com/alicevision/AliceVision/commit/564d41ded44777ba6ff76470493eb6349a03f31d \"[doc] CHANGES: Add release note for version 3.2.0\")\n\n\n\n | \n\nDec 7, 2023\n\n |\n| \n\n[CMakeLists.txt](https://github.com/alicevision/AliceVision/blob/develop/CMakeLists.txt \"CMakeLists.txt\")\n\n\n\n\n\n\n\n | \n\n[CMakeLists.txt](https://github.com/alicevision/AliceVision/blob/develop/CMakeLists.txt \"CMakeLists.txt\")\n\n\n\n\n\n\n\n | \n\n[code coverage is back to life](https://github.com/alicevision/AliceVision/commit/f12f0883016a8af50e1d627b31f9bc690405f466 \"code coverage is back to life\")\n\n\n\n | \n\nMar 20, 2024\n\n |\n| \n\n[CODE\\_OF\\_CONDUCT.md](https://github.com/alicevision/AliceVision/blob/develop/CODE_OF_CONDUCT.md \"CODE_OF_CONDUCT.md\")\n\n\n\n\n\n\n\n | \n\n[CODE\\_OF\\_CONDUCT.md](https://github.com/alicevision/AliceVision/blob/develop/CODE_OF_CONDUCT.md \"CODE_OF_CONDUCT.md\")\n\n\n\n\n\n\n\n | \n\n[New AliceVision introduction files: README, CONTRIBUTING, logo, etc.](https://github.com/alicevision/AliceVision/commit/05e4a72a9887ebe8becf629bde57e5e98daea355 \"New AliceVision introduction files: README, CONTRIBUTING, logo, etc.\")\n\n\n\n | \n\nSep 5, 2017\n\n |\n| \n\n[CONTRIBUTING.md](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTING.md \"CONTRIBUTING.md\")\n\n\n\n\n\n\n\n | \n\n[CONTRIBUTING.md](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTING.md \"CONTRIBUTING.md\")\n\n\n\n\n\n\n\n | \n\n[\\[doc\\] fix typo](https://github.com/alicevision/AliceVision/commit/f2d7b035870b25bb96efc54437014633542c9188 \"[doc] fix typo\")\n\n\n\n | \n\nJun 12, 2020\n\n |\n| \n\n[CONTRIBUTORS.md](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTORS.md \"CONTRIBUTORS.md\")\n\n\n\n\n\n\n\n | \n\n[CONTRIBUTORS.md](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTORS.md \"CONTRIBUTORS.md\")\n\n\n\n\n\n\n\n | \n\n[\\[doc\\] CONTRIBUTORS: Add Abdelrahman Al Marouk](https://github.com/alicevision/AliceVision/commit/96b69796c58d77a11e41f9c41695733231bdf61e \"[doc] CONTRIBUTORS: Add Abdelrahman Al Marouk\")\n\n\n\n | \n\nJun 21, 2023\n\n |\n| \n\n[COPYING.md](https://github.com/alicevision/AliceVision/blob/develop/COPYING.md \"COPYING.md\")\n\n\n\n\n\n\n\n | \n\n[COPYING.md](https://github.com/alicevision/AliceVision/blob/develop/COPYING.md \"COPYING.md\")\n\n\n\n\n\n\n\n | \n\n[libE57Format](https://github.com/alicevision/AliceVision/commit/520d2741b6a7706af568dcb8f2307f3717ddd1da \"libE57Format\")\n\n\n\n | \n\nJun 25, 2024\n\n |\n| \n\n[INSTALL.md](https://github.com/alicevision/AliceVision/blob/develop/INSTALL.md \"INSTALL.md\")\n\n\n\n\n\n\n\n | \n\n[INSTALL.md](https://github.com/alicevision/AliceVision/blob/develop/INSTALL.md \"INSTALL.md\")\n\n\n\n\n\n\n\n | \n\n[\\[doc\\] INSTALL.md: Update documentation for the build of Docker images](https://github.com/alicevision/AliceVision/commit/bbf85f862deb3b3343ed2c775d3151975dd0f987 \"[doc] INSTALL.md: Update documentation for the build of Docker images\")\n\n\n\n | \n\nDec 11, 2024\n\n |\n| \n\n[LICENSE-MIT-libmv.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MIT-libmv.md \"LICENSE-MIT-libmv.md\")\n\n\n\n\n\n\n\n | \n\n[LICENSE-MIT-libmv.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MIT-libmv.md \"LICENSE-MIT-libmv.md\")\n\n\n\n\n\n\n\n | \n\n[\\[license\\] revert an accidental change to the libmv license file](https://github.com/alicevision/AliceVision/commit/2156a20e5ca6fd5bae856795ba749143decf183a \"[license] revert an accidental change to the libmv license file\nThis file has been modified accidentally. I took the text back from an\nheader file, and didn't notice that it was not exactly the same from the\nglobal file.\")\n\n\n\n | \n\nOct 27, 2017\n\n |\n| \n\n[LICENSE-MPL2.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MPL2.md \"LICENSE-MPL2.md\")\n\n\n\n\n\n\n\n | \n\n[LICENSE-MPL2.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MPL2.md \"LICENSE-MPL2.md\")\n\n\n\n\n\n\n\n | \n\n[New AliceVision introduction files: README, CONTRIBUTING, logo, etc.](https://github.com/alicevision/AliceVision/commit/05e4a72a9887ebe8becf629bde57e5e98daea355 \"New AliceVision introduction files: README, CONTRIBUTING, logo, etc.\")\n\n\n\n | \n\nSep 5, 2017\n\n |\n| \n\n[README.md](https://github.com/alicevision/AliceVision/blob/develop/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/alicevision/AliceVision/blob/develop/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[\\[docs\\] add bibliography](https://github.com/alicevision/AliceVision/commit/0ec4db812f900be2b649e7b5444a567f93ad592b \"[docs] add bibliography\")\n\n\n\n | \n\nNov 14, 2022\n\n |\n| \n\n[RELEASING.md](https://github.com/alicevision/AliceVision/blob/develop/RELEASING.md \"RELEASING.md\")\n\n\n\n\n\n\n\n | \n\n[RELEASING.md](https://github.com/alicevision/AliceVision/blob/develop/RELEASING.md \"RELEASING.md\")\n\n\n\n\n\n\n\n | \n\n[\\[doc\\] RELEASING: Update command to generate the release note](https://github.com/alicevision/AliceVision/commit/00cd22aad7eca51964b01083d99ccf4dd071bbc3 \"[doc] RELEASING: Update command to generate the release note\")\n\n\n\n | \n\nDec 7, 2023\n\n |\n| \n\n[cudaInstallAppveyor.cmd](https://github.com/alicevision/AliceVision/blob/develop/cudaInstallAppveyor.cmd \"cudaInstallAppveyor.cmd\")\n\n\n\n\n\n\n\n | \n\n[cudaInstallAppveyor.cmd](https://github.com/alicevision/AliceVision/blob/develop/cudaInstallAppveyor.cmd \"cudaInstallAppveyor.cmd\")\n\n\n\n\n\n\n\n | \n\n[AppVeyor: Use CUDA 11](https://github.com/alicevision/AliceVision/commit/f08d3c5529c4bdf313a039100f2452afea0b093a \"AppVeyor: Use CUDA 11\nUpdates the AppVeyor configuration to the CUDA Toolkit 11.0.1\")\n\n\n\n | \n\nJun 10, 2020\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/alicevision/AliceVision?screenshot=true#)\n*   [Code of conduct](https://github.com/alicevision/AliceVision?screenshot=true#)\n*   [License](https://github.com/alicevision/AliceVision?screenshot=true#)\n*   [MIT license](https://github.com/alicevision/AliceVision?screenshot=true#)\n*   [MPL-2.0 license](https://github.com/alicevision/AliceVision?screenshot=true#)\n\n[![Image 28: AliceVision - Photogrammetric Computer Vision Framework](https://github.com/alicevision/AliceVision/raw/develop/docs/logo/AliceVision_banner.png)](https://github.com/alicevision/AliceVision/raw/develop/docs/logo/AliceVision_banner.png)\n========================================================================================================================================================================================================================================================\n\n[](https://github.com/alicevision/AliceVision?screenshot=true#)\n\n[AliceVision](http://alicevision.github.io/) is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. AliceVision aims to provide strong software basis with state-of-the-art computer vision algorithms that can be tested, analyzed and reused. The project is a result of collaboration between academia and industry to provide cutting-edge algorithms with the robustness and the quality required for production usage.\n\nLearn more details about the pipeline and tools based on it on [AliceVision website](http://alicevision.github.io/).\n\nSee [results of the pipeline on sketchfab](http://sketchfab.com/AliceVision).\n\nPhotogrammetry\n--------------\n\n[](https://github.com/alicevision/AliceVision?screenshot=true#photogrammetry)\n\nPhotogrammetry is the science of making measurements from photographs. It infers the geometry of a scene from a set of unordered photographies or videos. Photography is the projection of a 3D scene onto a 2D plane, losing depth information. The goal of photogrammetry is to reverse this process.\n\nSee the [presentation of the pipeline steps](http://alicevision.github.io/#photogrammetry).\n\nLicense\n-------\n\n[](https://github.com/alicevision/AliceVision?screenshot=true#license)\n\nThe project is released under MPLv2, see [**COPYING.md**](https://github.com/alicevision/AliceVision/blob/develop/COPYING.md).\n\nCitation\n--------\n\n[](https://github.com/alicevision/AliceVision?screenshot=true#citation)\n\nIf you use this project for a publication, please cite the [paper](https://hal.archives-ouvertes.fr/hal-03351139):\n\n```\n@inproceedings{alicevision2021,\n  title={{A}liceVision {M}eshroom: An open-source {3D} reconstruction pipeline},\n  author={Carsten Griwodz and Simone Gasparini and Lilian Calvet and Pierre Gurdjos and Fabien Castan and Benoit Maujean and Gregoire De Lillo and Yann Lanthony},\n  booktitle={Proceedings of the 12th ACM Multimedia Systems Conference - {MMSys '21}},\n  doi = {10.1145/3458305.3478443},\n  publisher = {ACM Press},\n  year = {2021}\n}\n```\n\nBibliography\n------------\n\n[](https://github.com/alicevision/AliceVision?screenshot=true#bibliography)\n\nSee [**Bibliography**](https://github.com/alicevision/AliceVision/blob/develop/BIBLIOGRAPHY.md) for the list of research papers and tools used in this project.\n\nGet the project\n---------------\n\n[](https://github.com/alicevision/AliceVision?screenshot=true#get-the-project)\n\nGet the source code: `git clone --recursive git://github.com/alicevision/AliceVision`\n\nSee [**INSTALL.md**](https://github.com/alicevision/AliceVision/blob/develop/INSTALL.md) to build the project.\n\nContinuous integration status: [![Image 29: Build Status](https://camo.githubusercontent.com/696556cedaa51bca0fce3676841d5266bebcd4e3fae720194c7814c72df2ac8f/68747470733a2f2f7472617669732d63692e6f72672f616c696365766973696f6e2f416c696365566973696f6e2e706e673f6272616e63683d646576656c6f70)](https://travis-ci.org/alicevision/AliceVision) [![Image 30: Coverage Status](https://camo.githubusercontent.com/bdacd3030c42bee9d8da04311969d3bdea168e837fb1129dce3bf7bf5fc498c4/68747470733a2f2f636f766572616c6c732e696f2f7265706f732f6769746875622f616c696365766973696f6e2f416c696365566973696f6e2f62616467652e706e673f6272616e63683d646576656c6f70)](https://coveralls.io/github/alicevision/AliceVision?branch=develop).\n\nLaunch 3D reconstructions\n-------------------------\n\n[](https://github.com/alicevision/AliceVision?screenshot=true#launch-3d-reconstructions)\n\nUse [Meshroom](https://github.com/alicevision/meshroom) to launch the AliceVision pipeline.\n\n*   Meshroom provides a User Interface to create 3D reconstructions.\n*   Meshroom provides a command line to launch all the steps of the pipeline.\n*   Meshroom is written in python and can be used to create your own python scripts to customize the pipeline or create custom automation.\n\nThe User Interface of Meshroom relies on Qt and PySide. The Meshroom engine and command line has no dependency to Qt.\n\nContact\n-------\n\n[](https://github.com/alicevision/AliceVision?screenshot=true#contact)\n\nUse the public mailing-list to ask questions or request features. It is also a good place for informal discussions like sharing results, interesting related technologies or publications:\n\n> [alicevision@googlegroups.com](mailto:alicevision@googlegroups.com) [http://groups.google.com/group/alicevision](http://groups.google.com/group/alicevision)\n\nYou can also contact the core team privately on: [alicevision-team@googlegroups.com](mailto:alicevision-team@googlegroups.com).\n\nContributing\n------------\n\n[](https://github.com/alicevision/AliceVision?screenshot=true#contributing)\n\n[![Image 31: CII Best Practices](https://camo.githubusercontent.com/338a8e8a81abd873466c6d49dc09840ea58849a47eed2a27f77e7b552f223e40/68747470733a2f2f626573747072616374696365732e636f7265696e6672617374727563747572652e6f72672f70726f6a656374732f323939352f6261646765)](https://bestpractices.coreinfrastructure.org/projects/2995)\n\nBeyond open source interest to foster developments, open source is a way of life. The project has started as a collaborative project and aims to continue. We love to exchange ideas, improve ourselves while making improvements for other people and discover new collaboration opportunities to expand everybody’s horizon. Contributions are welcome. We integrate all contributions as soon as it is useful for someone, don't create troubles for others and the code quality is good enough for maintainance.\n\nPlease have a look at the [project code of conduct](https://github.com/alicevision/AliceVision/blob/develop/CODE_OF_CONDUCT.md) to provide a friendly, motivating and welcoming environment for all. Please have a look at the [project contributing guide](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTING.md) to provide an efficient workflow that minimize waste of time for contributors and maintainers as well as maximizing the project quality and efficiency.\n\nUse github Pull Requests to submit contributions:\n\n> [http://github.com/alicevision/AliceVision/issues](http://github.com/alicevision/AliceVision/issues)\n\nUse the public mailing-list to ask questions or request features and use github issues to report bugs:\n\n> [http://github.com/alicevision/AliceVision/pulls](http://github.com/alicevision/AliceVision/pulls)\n\nProject history\n---------------\n\n[](https://github.com/alicevision/AliceVision?screenshot=true#project-history)\n\nIn 2009, CMP research team from CTU started the PhD thesis of Michal Jancosek supervised by Tomas Pajdla. They released windows binaries of their MVS pipeline, called CMPMVS, in 2012. In 2009, Toulouse INP, INRIA and Duran Duboi started a French ANR project to create a model based Camera Tracking solution based on natural features and a new marker design called CCTag. In 2010, Mikros Image and IMAGINE research team (a joint research group between Ecole des Ponts ParisTech and Centre Scientifique et Technique du Batiment) started a partnership around Pierre Moulon’s thesis, supervised by Renaud Marlet and Pascal Monasse on the academic side and Benoit Maujean on the industrial side. In 2013, they released an open source SfM pipeline, called openMVG (“Multiple View Geometry”), to provide the basis of a better solution for the creation of visual effects matte-paintings. In 2015, Simula, Toulouse INP and Mikros Image joined their efforts in the EU project POPART to create a Previz system based on AliceVision. In 2017, CTU join the team in the EU project LADIO to create a central hub with structured access to all data generated on set based on AliceVision.\n\nSee [CONTRIBUTORS.md](https://github.com/alicevision/AliceVision/blob/develop/CONTRIBUTORS.md) for the full list of contributors. We hope to see you in this list soon!\n\nAbout\n-----\n\nPhotogrammetric Computer Vision Framework\n\n[alicevision.org](http://alicevision.org/ \"http://alicevision.org\")\n\n### Topics\n\n[computer-vision](https://github.com/topics/computer-vision \"Topic: computer-vision\") [structure-from-motion](https://github.com/topics/structure-from-motion \"Topic: structure-from-motion\") [photogrammetry](https://github.com/topics/photogrammetry \"Topic: photogrammetry\") [3d-reconstruction](https://github.com/topics/3d-reconstruction \"Topic: 3d-reconstruction\") [panorama-image](https://github.com/topics/panorama-image \"Topic: panorama-image\") [camera-tracking](https://github.com/topics/camera-tracking \"Topic: camera-tracking\") [panorama-stitching](https://github.com/topics/panorama-stitching \"Topic: panorama-stitching\") [multiview-stereo](https://github.com/topics/multiview-stereo \"Topic: multiview-stereo\") [meshroom](https://github.com/topics/meshroom \"Topic: meshroom\") [alicevision](https://github.com/topics/alicevision \"Topic: alicevision\") [hdri-image](https://github.com/topics/hdri-image \"Topic: hdri-image\")\n\n### Resources\n\n[Readme](https://github.com/alicevision/AliceVision?screenshot=true#readme-ov-file)\n\n### License\n\nUnknown and 2 other licenses found\n\n### Licenses found\n\n[Unknown COPYING.md](https://github.com/alicevision/AliceVision/blob/develop/COPYING.md)[MIT LICENSE-MIT-libmv.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MIT-libmv.md)[MPL-2.0 LICENSE-MPL2.md](https://github.com/alicevision/AliceVision/blob/develop/LICENSE-MPL2.md)\n\n### Code of conduct\n\n[Code of conduct](https://github.com/alicevision/AliceVision?screenshot=true#coc-ov-file)\n\n[Activity](https://github.com/alicevision/AliceVision/activity)\n\n[Custom properties](https://github.com/alicevision/AliceVision/custom-properties)\n\n### Stars\n\n[**3.1k** stars](https://github.com/alicevision/AliceVision/stargazers)\n\n### Watchers\n\n[**131** watching](https://github.com/alicevision/AliceVision/watchers)\n\n### Forks\n\n[**832** forks](https://github.com/alicevision/AliceVision/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Falicevision%2FAliceVision&report=alicevision+%28user%29)\n\n[Releases 9](https://github.com/alicevision/AliceVision/releases)\n-----------------------------------------------------------------\n\n[Release 3.2.0 (2023/12/07) Latest Dec 11, 2023](https://github.com/alicevision/AliceVision/releases/tag/v3.2.0)\n\n[\\+ 8 releases](https://github.com/alicevision/AliceVision/releases)\n\nSponsor this project\n--------------------\n\n*    [![Image 32: @alicevision](https://avatars.githubusercontent.com/u/9333123?s=64&v=4)](https://github.com/alicevision)[**alicevision** AliceVision](https://github.com/alicevision)[](https://github.com/sponsors/alicevision)\n\n*   [https://alicevision.org/association/#donate](https://alicevision.org/association/#donate)\n\n[Learn more about GitHub Sponsors](https://github.com/sponsors)\n\n[Contributors 184](https://github.com/alicevision/AliceVision/graphs/contributors)\n----------------------------------------------------------------------------------\n\n*   [![Image 33: @fabiencastan](https://avatars.githubusercontent.com/u/153585?s=64&v=4)](https://github.com/fabiencastan)\n*   [![Image 34: @simogasp](https://avatars.githubusercontent.com/u/1331744?s=64&v=4)](https://github.com/simogasp)\n*   [![Image 35: @gregoire-dl](https://avatars.githubusercontent.com/u/16002026?s=64&v=4)](https://github.com/gregoire-dl)\n*   [![Image 36: @pmoulon](https://avatars.githubusercontent.com/u/3235050?s=64&v=4)](https://github.com/pmoulon)\n*   [![Image 37: @servantftechnicolor](https://avatars.githubusercontent.com/u/100348063?s=64&v=4)](https://github.com/servantftechnicolor)\n*   [![Image 38: @cbentejac](https://avatars.githubusercontent.com/u/11963329?s=64&v=4)](https://github.com/cbentejac)\n*   [![Image 39: @fcastan](https://avatars.githubusercontent.com/u/5681756?s=64&v=4)](https://github.com/fcastan)\n*   [![Image 40: @jmelou](https://avatars.githubusercontent.com/u/14567010?s=64&v=4)](https://github.com/jmelou)\n*   [![Image 41: @mugulmd](https://avatars.githubusercontent.com/u/70104194?s=64&v=4)](https://github.com/mugulmd)\n*   [![Image 42: @caymard](https://avatars.githubusercontent.com/u/5090050?s=64&v=4)](https://github.com/caymard)\n*   [![Image 43: @p12tic](https://avatars.githubusercontent.com/u/1056711?s=64&v=4)](https://github.com/p12tic)\n*   [![Image 44: @demoulinv](https://avatars.githubusercontent.com/u/99878110?s=64&v=4)](https://github.com/demoulinv)\n*   [![Image 45: @yann-lty](https://avatars.githubusercontent.com/u/1674646?s=64&v=4)](https://github.com/yann-lty)\n*   [![Image 46: @Debize](https://avatars.githubusercontent.com/u/10706647?s=64&v=4)](https://github.com/Debize)\n\n[\\+ 170 contributors](https://github.com/alicevision/AliceVision/graphs/contributors)\n\nLanguages\n---------\n\n*   [C++ 86.8%](https://github.com/alicevision/AliceVision/search?l=c%2B%2B)\n*   [C 5.5%](https://github.com/alicevision/AliceVision/search?l=c)\n*   [CMake 3.6%](https://github.com/alicevision/AliceVision/search?l=cmake)\n*   [Cuda 2.0%](https://github.com/alicevision/AliceVision/search?l=cuda)\n*   [Python 1.7%](https://github.com/alicevision/AliceVision/search?l=python)\n*   [SWIG 0.3%](https://github.com/alicevision/AliceVision/search?l=swig)\n*   Other 0.1%\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 10007
+  }
+}
+```

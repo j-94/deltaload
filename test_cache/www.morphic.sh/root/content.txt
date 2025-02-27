@@ -1,0 +1,20 @@
+Morphic
+===============
+
+[Morphic](https://www.morphic.sh/)
+
+[Sign In](https://www.morphic.sh/login)[Sign Up](https://www.morphic.sh/signup)
+
+Discover Smarter Search
+
+**Shift + Return** to add a new line
+
+Why is Nvidia growing rapidly?
+
+What is OpenAI o1?
+
+Tell me about a video that explains Cursor
+
+Summary: https://arxiv.org/pdf/2407.16833
+
+Search WebSummarize URLFind Videos

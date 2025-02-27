@@ -1,0 +1,460 @@
+---
+title: Guru | AI-Powered Enterprise Search, Intranet, and Wiki
+description: Guru seamlessly connects your chats, apps, and docs into one single source of truth with our all-in-one knowledge platform for enterprise search, knowledge base, wiki, and intranet.
+url: https://www.getguru.com/
+timestamp: 2025-01-20T15:54:08.345Z
+domain: www.getguru.com
+path: root
+---
+
+# Guru | AI-Powered Enterprise Search, Intranet, and Wiki
+
+
+Guru seamlessly connects your chats, apps, and docs into one single source of truth with our all-in-one knowledge platform for enterprise search, knowledge base, wiki, and intranet.
+
+
+## Content
+
+[![Image 280: Guru Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/5ef1f340d1a59cdf49926d8e_Guru%20logo.svg)](https://www.getguru.com/?r=0)
+
+![Image 281](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/649b06b9b6e1ee6bc1c261d6_cookie-emoji%402x.webp)
+
+We use cookies to give our users a better experience.  By using this site, you agree to our [Privacy Policy](https://www.getguru.com/privacy).
+
+[Okay](https://www.getguru.com/#)
+
+Your single source of truth, everywhere
+---------------------------------------
+
+Guru combines the best parts of AI search, a knowledge base, and an intranet into a single, seamless platform for the modern workplace, providing reliable answers and rich insights exactly when and where your team needs them.
+
+Smarter search. Better answers.
+-------------------------------
+
+Guru connects your company’s scattered information into an intelligent web of knowledge and uses AI to deliver personalized, actionable answers you can trust. By integrating with key systems like your CRM, HRIS, and file storage, Guru has a complete contextual view of your company and provides smarter answers, faster.
+
+Create your own Knowledge Agents for any team
+---------------------------------------------
+
+Guru’s customizable Knowledge Agents provide tailored insights for any team or project, with adjustable sources, tone, and formatting. Fine-tuned with prompts, they become increasingly precise over time, delivering high-quality, expertise-specific answers.
+
+Examples of real Knowledge Agents:
+
+![Image 282](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd99f35e80b0d54797a_%F0%9F%A6%B8%E2%80%8D%E2%99%80%EF%B8%8F.avif)
+
+Support Superhero
+
+![Image 283](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd9b861092bc70271dd_%F0%9F%A4%96.avif)
+
+HR Buddy
+
+![Image 284](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd9396a13eb345e0067_%F0%9F%A4%93.avif)
+
+Product Expert
+
+![Image 285](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd969479cf47b1bb12c_%F0%9F%A7%9E%EF%B8%8F.avif)
+
+Sales Optimizer
+
+![Image 286](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd971a144b07e20bcaf_%F0%9F%A7%A0.avif)
+
+Executive Agent
+
+![Image 287](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd9881890c752d41c9a_%E2%9B%B5%EF%B8%8F.avif)
+
+Onboarding Captain
+
+![Image 288](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd9ce0d975155177cf3_%F0%9F%92%B0.avif)
+
+Money Bot
+
+![Image 289](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd9724a2a4fbe3f52b4_%E2%9C%94%EF%B8%8F.avif)
+
+Regulatory Advisor
+
+[Learn more about Knowledge Agents](https://www.getguru.com/features/knowledge-agents)
+
+### AI Answers, in your workflow
+
+Get instant, context-aware AI answers wherever you work in–Slack, Chrome, or even ChatGPT.
+
+### AI Knowledge Agents
+
+Build custom Knowledge Agents to get tailored answers that are relevant to employee roles, workflows, and more.
+
+### Custom Pages
+
+Create custom Pages for any team, project, or workflow to organize the knowledge your team needs in one place
+
+### AI Training Center
+
+Ensure accuracy and constantly improve with Guru’s AI Training Center and ongoing content verification.
+
+### Smart, trusted permissions
+
+Users access only the information they’re authorized to see, with custom groups and automatic syncing from platforms like Google Drive and Slack
+
+### Verification
+
+Good information is like a good friend: you know you can trust it. Guru's automated reminders help SMEs keep content fresh.
+
+The people have spoken
+----------------------
+
+[![Image 290](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66fac7b39a7feadf479671fe_video-testimonial-thumbnail_kepler%402x.avif)](https://www.getguru.com/#)
+
+Director of Data Strategy and Analytics
+
+Advertising services | 501-1K employees
+
+![Image 291: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/65f06c2934a7e0cc68920187_hp-review-logo_capterra.svg)
+
+[![Image 292](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/664641dcacf86d91fce45e5b_capterra-video-testimonial-thumbnail__lucien%402x.webp)](https://www.getguru.com/#)
+
+VP of GTM
+
+Information technology and services | 201-500 employees
+
+[![Image 293](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66fac7b3e8517e401b0c84d2_video-testimonial-thumbnail_rush-street%402x.avif)](https://www.getguru.com/#)
+
+Human Resources and Support
+
+iGaming Technology | 501-1K employees
+
+![Image 294: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/65f06c2934a7e0cc68920187_hp-review-logo_capterra.svg)
+
+[![Image 295](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/664646bd40ab3ef750d31dba_capterra-video-testimonial-thumbnail_aubrey%402x.webp)](https://www.getguru.com/#)
+
+Training Manager
+
+Insurance | 201-500 employees
+
+![Image 296: GetApp Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66fc41e720fadb7ba8f61563_getapp_logo.svg)
+
+[![Image 297](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66fc394f377ffc947ef7a10c_getapp-video-testimonial-thumbnail__John-C%402x.avif)](https://www.getguru.com/#)
+
+Marketing Director
+
+Internet | 1-10 employees
+
+![Image 298: G2 Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/6543e48a46f44f21f33a8f0a_g2-compare-badge.svg)
+
+“It makes creating, sharing, and organizing documentation easy. This is important for building redudancy within a team so that when one member is out another member can cover using the Guru cards.”
+
+Marketing Operations Manager
+
+Mid-Market  |  51-1000 employees
+
+![Image 299: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)
+
+“Our business scaled by 2x in the 1st month of Guru subscription because of no hassle and workload confusions.”
+
+Marketing Manager
+
+Marketing and Advertising
+
+![Image 300: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)
+
+“I can't imagine working in my role without Guru, as it is a constant guiding light, especially in a profession like mine where the norms do change and we need to follow the regulations as a regulated bank.”
+
+Customer operations
+
+Banking  |  5001-10,000 employees
+
+![Image 301: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)
+
+“Guru is a game-changer for every employee in every department. Everyone has questions that arise during the day and asking those questions takes others away from their job and out of their flow. When every question has an answer in Guru it increases productivity.”
+
+VP of Sales
+
+E-Learning Technology |  11-50 employees
+
+![Image 302: G2 Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/6543e48a46f44f21f33a8f0a_g2-compare-badge.svg)
+
+“I love that it empowers employees to figure out questions, as well as make it easy to fill gaps where questions are still being asked.”
+
+Compliance Manager
+
+Consumer Services
+
+![Image 303: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)
+
+“Our business was streamlined like never before in just 2 months.”
+
+Marketing Manager
+
+Marketing and Advertising
+
+![Image 304: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)
+
+“Guru has become our company’s internal “knowledge hub”. We have folks from all departments using Guru to share teaching materials as well as basic troubleshooting tips and tricks.”
+
+![Image 305: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)
+
+“Teams I’ve worked with have adopted this quickly and found value in the platform almost immediately.”
+
+VP of Customer Success
+
+Professional Training and Coaching
+
+![Image 306: G2 Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/6543e48a46f44f21f33a8f0a_g2-compare-badge.svg)
+
+“Guru has a phenomenal integartion section for all my team’s tools. At the click of their mouse, they can get all of the answers to their questions effortlessly, regardless of where they are in the processes.”
+
+Customer Support Manager
+
+Mid-market  |  51-1000 employess
+
+![Image 307: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)
+
+“We use Guru to streamline operations and make information handy for our various teams. Prior to Guru, a lot of information and processes were held in someone’s head.”
+
+GM Finance & Accounting
+
+IT services
+
+![Image 308: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)
+
+“Google Docs is very limited and truly a nightmare to locate information once it’s been lost in the Google Doc abyss. Guru has helped us not only find our lost data, but make sure the data is up to date and helpful for our respective teams.”
+
+Support Manager
+
+FinTech  |  50-200 employees
+
+![Image 309: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)
+
+“It allows our team to communicate company-wide changes.”
+
+Head of HR
+
+Writing and Editing  |  11-50 employees
+
+Guru is for every team
+----------------------
+
+Guru's like a Swiss Army knife for your whole company - it connects to everything, answers anything, and helps create content effortlessly, working best when everyone's using it to share knowledge freely.
+
+![Image 310](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Find answers right where you’re fielding customer questions without switching apps
+
+![Image 311](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Get AI-powered suggestions for faster ticket resolution
+
+![Image 312](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Align reps on latest help articles and guides
+
+![Image 313](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Consolidate fragmented knowledge into one place
+
+![Image 314](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Identify and leverage insights from recurring topics
+
+![Image 315](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Reduce new employee onboarding time
+
+![Image 316](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6bf43ff13e95a3069a934_hp-teams_support%402x.avif)
+
+![Image 317](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Centralize and manage all operational documentation in a single platform
+
+![Image 318](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Get real-time, AI-powered answers without having to switch apps
+
+![Image 319](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Send critical updates that can’t be missed and receive confirmation that they’ve been read
+
+![Image 320](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Leverage AI to create and distribute documentation quickly and easily
+
+![Image 321](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Identify and fill knowledge gaps by analyzing what information employees are searching for
+
+![Image 322](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Reduce new employee onboarding time
+
+![Image 323](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6ce87f26e331add045369_hp-teams_operations%402x.avif)
+
+![Image 324](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Get AI-powered answers right in your workflow to streamline issue resolution
+
+![Image 325](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Centralized knowledge ensures everyone is on the same page with quickly-changing information
+
+![Image 326](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Secure automation keeps content accurate
+
+![Image 327](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Push important information to employees in the exact place they need it
+
+![Image 328](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Get visibility into what questions employees are asking and proactively create content using AI
+
+![Image 329](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Reduce new employee onboarding time
+
+![Image 330](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6d0a12289a8edb7f87407_hp-teams_IT%402x.avif)
+
+![Image 331](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Get reliable information with AI-powered answers right in your workflow
+
+![Image 332](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Use Guru’s intranet capabilities to consolidates core HR and company knowledge into one place
+
+![Image 333](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Send critical updates that can’t be missed and receive confirmation that they’ve been read
+
+![Image 334](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+AI-assisted content creation simplifies drafting and maintaining HR documentation
+
+![Image 335](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Identify and fill knowledge gaps by getting insights on what employees are searching for
+
+![Image 336](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Reduce new employee onboarding time
+
+![Image 337](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6d20db5799f56ce3eb0e2_hp-teams_HR%402x.avif)
+
+![Image 338](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Get real-time, AI-powered answers without having to switch apps
+
+![Image 339](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+AI-driven insights enhance learning program effectiveness
+
+![Image 340](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Create content using AI to continuously improve while maximizing efficiency
+
+![Image 341](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Send critical updates that can’t be missed and receive confirmation that they’ve been read
+
+![Image 342](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+A layer of verification ensures the information employees are getting is up-to-date and accurate
+
+![Image 343](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Reduce new employee onboarding time
+
+![Image 344](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6f07743d9062bb81d3d99_hp-teams_L%26D%402x.avif)
+
+![Image 345](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Get real-time, AI-powered answers right where reps are working
+
+![Image 346](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Get tailored collateral to insert into conversations based on customer history and rep activity
+
+![Image 347](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Reduce prospecting prep time with quick access to up-to-date battle cards
+
+![Image 348](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Leverage AI to create and distribute sales documentation quickly and easily
+
+![Image 349](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Keep messaging consistent with centralized, approved sales materials
+
+![Image 350](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Speed up new rep onboarding and ramp time
+
+![Image 351](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6f20874d931cbc1669c47_hp-teams_sales%402x.avif)
+
+![Image 352](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Get real-time, AI-powered answers without having to switch apps
+
+![Image 353](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Facilitate knowledge sharing for cleaner, more reliable code
+
+![Image 354](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Send critical updates that can’t be missed and receive confirmation that they’ve been read
+
+![Image 355](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Align product, design, and engineering on the latest requirements and specifications
+
+![Image 356](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Reduce miscommunication with always up-to-date product documentation
+
+![Image 357](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Reduce new employee onboarding time
+
+![Image 358](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6f387c6e9916a8a323efc_hp-teams_product%402x.avif)
+
+![Image 359](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Centralize and manage all messaging and brand assets and guidelines
+
+![Image 360](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Get real-time, AI-powered answers without having to switch apps
+
+![Image 361](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Send critical updates that can’t be missed and receive confirmation that they’ve been read
+
+![Image 362](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Leverage AI to create and distribute documentation quickly and easily
+
+![Image 363](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Repurpose high-performing content quickly
+
+![Image 364](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)
+
+Reduce new employee onboarding time
+
+![Image 365](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6f53e1c297c5aa3f80ebf_hp-teams_marketing%402x.avif)
+
+See how the best companies use Guru with our step-by-step guides
+----------------------------------------------------------------
+
+## Metadata
+
+```json
+{
+  "title": "Guru | AI-Powered Enterprise Search, Intranet, and Wiki",
+  "description": "Guru seamlessly connects your chats, apps, and docs into one single source of truth with our all-in-one knowledge platform for enterprise search, knowledge base, wiki, and intranet.",
+  "url": "https://www.getguru.com/",
+  "content": "[![Image 280: Guru Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/5ef1f340d1a59cdf49926d8e_Guru%20logo.svg)](https://www.getguru.com/?r=0)\n\n![Image 281](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/649b06b9b6e1ee6bc1c261d6_cookie-emoji%402x.webp)\n\nWe use cookies to give our users a better experience.  By using this site, you agree to our [Privacy Policy](https://www.getguru.com/privacy).\n\n[Okay](https://www.getguru.com/#)\n\nYour single source of truth, everywhere\n---------------------------------------\n\nGuru combines the best parts of AI search, a knowledge base, and an intranet into a single, seamless platform for the modern workplace, providing reliable answers and rich insights exactly when and where your team needs them.\n\nSmarter search. Better answers.\n-------------------------------\n\nGuru connects your company’s scattered information into an intelligent web of knowledge and uses AI to deliver personalized, actionable answers you can trust. By integrating with key systems like your CRM, HRIS, and file storage, Guru has a complete contextual view of your company and provides smarter answers, faster.\n\nCreate your own Knowledge Agents for any team\n---------------------------------------------\n\nGuru’s customizable Knowledge Agents provide tailored insights for any team or project, with adjustable sources, tone, and formatting. Fine-tuned with prompts, they become increasingly precise over time, delivering high-quality, expertise-specific answers.\n\nExamples of real Knowledge Agents:\n\n![Image 282](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd99f35e80b0d54797a_%F0%9F%A6%B8%E2%80%8D%E2%99%80%EF%B8%8F.avif)\n\nSupport Superhero\n\n![Image 283](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd9b861092bc70271dd_%F0%9F%A4%96.avif)\n\nHR Buddy\n\n![Image 284](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd9396a13eb345e0067_%F0%9F%A4%93.avif)\n\nProduct Expert\n\n![Image 285](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd969479cf47b1bb12c_%F0%9F%A7%9E%EF%B8%8F.avif)\n\nSales Optimizer\n\n![Image 286](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd971a144b07e20bcaf_%F0%9F%A7%A0.avif)\n\nExecutive Agent\n\n![Image 287](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd9881890c752d41c9a_%E2%9B%B5%EF%B8%8F.avif)\n\nOnboarding Captain\n\n![Image 288](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd9ce0d975155177cf3_%F0%9F%92%B0.avif)\n\nMoney Bot\n\n![Image 289](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/674e0dd9724a2a4fbe3f52b4_%E2%9C%94%EF%B8%8F.avif)\n\nRegulatory Advisor\n\n[Learn more about Knowledge Agents](https://www.getguru.com/features/knowledge-agents)\n\n### AI Answers, in your workflow\n\nGet instant, context-aware AI answers wherever you work in–Slack, Chrome, or even ChatGPT.\n\n### AI Knowledge Agents\n\nBuild custom Knowledge Agents to get tailored answers that are relevant to employee roles, workflows, and more.\n\n### Custom Pages\n\nCreate custom Pages for any team, project, or workflow to organize the knowledge your team needs in one place\n\n### AI Training Center\n\nEnsure accuracy and constantly improve with Guru’s AI Training Center and ongoing content verification.\n\n### Smart, trusted permissions\n\nUsers access only the information they’re authorized to see, with custom groups and automatic syncing from platforms like Google Drive and Slack\n\n### Verification\n\nGood information is like a good friend: you know you can trust it. Guru's automated reminders help SMEs keep content fresh.\n\nThe people have spoken\n----------------------\n\n[![Image 290](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66fac7b39a7feadf479671fe_video-testimonial-thumbnail_kepler%402x.avif)](https://www.getguru.com/#)\n\nDirector of Data Strategy and Analytics\n\nAdvertising services | 501-1K employees\n\n![Image 291: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/65f06c2934a7e0cc68920187_hp-review-logo_capterra.svg)\n\n[![Image 292](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/664641dcacf86d91fce45e5b_capterra-video-testimonial-thumbnail__lucien%402x.webp)](https://www.getguru.com/#)\n\nVP of GTM\n\nInformation technology and services | 201-500 employees\n\n[![Image 293](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66fac7b3e8517e401b0c84d2_video-testimonial-thumbnail_rush-street%402x.avif)](https://www.getguru.com/#)\n\nHuman Resources and Support\n\niGaming Technology | 501-1K employees\n\n![Image 294: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/65f06c2934a7e0cc68920187_hp-review-logo_capterra.svg)\n\n[![Image 295](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/664646bd40ab3ef750d31dba_capterra-video-testimonial-thumbnail_aubrey%402x.webp)](https://www.getguru.com/#)\n\nTraining Manager\n\nInsurance | 201-500 employees\n\n![Image 296: GetApp Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66fc41e720fadb7ba8f61563_getapp_logo.svg)\n\n[![Image 297](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66fc394f377ffc947ef7a10c_getapp-video-testimonial-thumbnail__John-C%402x.avif)](https://www.getguru.com/#)\n\nMarketing Director\n\nInternet | 1-10 employees\n\n![Image 298: G2 Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/6543e48a46f44f21f33a8f0a_g2-compare-badge.svg)\n\n“It makes creating, sharing, and organizing documentation easy. This is important for building redudancy within a team so that when one member is out another member can cover using the Guru cards.”\n\nMarketing Operations Manager\n\nMid-Market  |  51-1000 employees\n\n![Image 299: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)\n\n“Our business scaled by 2x in the 1st month of Guru subscription because of no hassle and workload confusions.”\n\nMarketing Manager\n\nMarketing and Advertising\n\n![Image 300: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)\n\n“I can't imagine working in my role without Guru, as it is a constant guiding light, especially in a profession like mine where the norms do change and we need to follow the regulations as a regulated bank.”\n\nCustomer operations\n\nBanking  |  5001-10,000 employees\n\n![Image 301: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)\n\n“Guru is a game-changer for every employee in every department. Everyone has questions that arise during the day and asking those questions takes others away from their job and out of their flow. When every question has an answer in Guru it increases productivity.”\n\nVP of Sales\n\nE-Learning Technology |  11-50 employees\n\n![Image 302: G2 Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/6543e48a46f44f21f33a8f0a_g2-compare-badge.svg)\n\n“I love that it empowers employees to figure out questions, as well as make it easy to fill gaps where questions are still being asked.”\n\nCompliance Manager\n\nConsumer Services\n\n![Image 303: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)\n\n“Our business was streamlined like never before in just 2 months.”\n\nMarketing Manager\n\nMarketing and Advertising\n\n![Image 304: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)\n\n“Guru has become our company’s internal “knowledge hub”. We have folks from all departments using Guru to share teaching materials as well as basic troubleshooting tips and tricks.”\n\n![Image 305: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)\n\n“Teams I’ve worked with have adopted this quickly and found value in the platform almost immediately.”\n\nVP of Customer Success\n\nProfessional Training and Coaching\n\n![Image 306: G2 Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/6543e48a46f44f21f33a8f0a_g2-compare-badge.svg)\n\n“Guru has a phenomenal integartion section for all my team’s tools. At the click of their mouse, they can get all of the answers to their questions effortlessly, regardless of where they are in the processes.”\n\nCustomer Support Manager\n\nMid-market  |  51-1000 employess\n\n![Image 307: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)\n\n“We use Guru to streamline operations and make information handy for our various teams. Prior to Guru, a lot of information and processes were held in someone’s head.”\n\nGM Finance & Accounting\n\nIT services\n\n![Image 308: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)\n\n“Google Docs is very limited and truly a nightmare to locate information once it’s been lost in the Google Doc abyss. Guru has helped us not only find our lost data, but make sure the data is up to date and helpful for our respective teams.”\n\nSupport Manager\n\nFinTech  |  50-200 employees\n\n![Image 309: Trust Radius Logo](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/654baec19bb39870d62b4765_trust-radius_logo.svg)\n\n“It allows our team to communicate company-wide changes.”\n\nHead of HR\n\nWriting and Editing  |  11-50 employees\n\nGuru is for every team\n----------------------\n\nGuru's like a Swiss Army knife for your whole company - it connects to everything, answers anything, and helps create content effortlessly, working best when everyone's using it to share knowledge freely.\n\n![Image 310](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nFind answers right where you’re fielding customer questions without switching apps\n\n![Image 311](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nGet AI-powered suggestions for faster ticket resolution\n\n![Image 312](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nAlign reps on latest help articles and guides\n\n![Image 313](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nConsolidate fragmented knowledge into one place\n\n![Image 314](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nIdentify and leverage insights from recurring topics\n\n![Image 315](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nReduce new employee onboarding time\n\n![Image 316](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6bf43ff13e95a3069a934_hp-teams_support%402x.avif)\n\n![Image 317](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nCentralize and manage all operational documentation in a single platform\n\n![Image 318](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nGet real-time, AI-powered answers without having to switch apps\n\n![Image 319](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nSend critical updates that can’t be missed and receive confirmation that they’ve been read\n\n![Image 320](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nLeverage AI to create and distribute documentation quickly and easily\n\n![Image 321](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nIdentify and fill knowledge gaps by analyzing what information employees are searching for\n\n![Image 322](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nReduce new employee onboarding time\n\n![Image 323](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6ce87f26e331add045369_hp-teams_operations%402x.avif)\n\n![Image 324](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nGet AI-powered answers right in your workflow to streamline issue resolution\n\n![Image 325](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nCentralized knowledge ensures everyone is on the same page with quickly-changing information\n\n![Image 326](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nSecure automation keeps content accurate\n\n![Image 327](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nPush important information to employees in the exact place they need it\n\n![Image 328](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nGet visibility into what questions employees are asking and proactively create content using AI\n\n![Image 329](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nReduce new employee onboarding time\n\n![Image 330](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6d0a12289a8edb7f87407_hp-teams_IT%402x.avif)\n\n![Image 331](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nGet reliable information with AI-powered answers right in your workflow\n\n![Image 332](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nUse Guru’s intranet capabilities to consolidates core HR and company knowledge into one place\n\n![Image 333](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nSend critical updates that can’t be missed and receive confirmation that they’ve been read\n\n![Image 334](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nAI-assisted content creation simplifies drafting and maintaining HR documentation\n\n![Image 335](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nIdentify and fill knowledge gaps by getting insights on what employees are searching for\n\n![Image 336](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nReduce new employee onboarding time\n\n![Image 337](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6d20db5799f56ce3eb0e2_hp-teams_HR%402x.avif)\n\n![Image 338](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nGet real-time, AI-powered answers without having to switch apps\n\n![Image 339](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nAI-driven insights enhance learning program effectiveness\n\n![Image 340](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nCreate content using AI to continuously improve while maximizing efficiency\n\n![Image 341](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nSend critical updates that can’t be missed and receive confirmation that they’ve been read\n\n![Image 342](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nA layer of verification ensures the information employees are getting is up-to-date and accurate\n\n![Image 343](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nReduce new employee onboarding time\n\n![Image 344](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6f07743d9062bb81d3d99_hp-teams_L%26D%402x.avif)\n\n![Image 345](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nGet real-time, AI-powered answers right where reps are working\n\n![Image 346](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nGet tailored collateral to insert into conversations based on customer history and rep activity\n\n![Image 347](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nReduce prospecting prep time with quick access to up-to-date battle cards\n\n![Image 348](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nLeverage AI to create and distribute sales documentation quickly and easily\n\n![Image 349](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nKeep messaging consistent with centralized, approved sales materials\n\n![Image 350](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nSpeed up new rep onboarding and ramp time\n\n![Image 351](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6f20874d931cbc1669c47_hp-teams_sales%402x.avif)\n\n![Image 352](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nGet real-time, AI-powered answers without having to switch apps\n\n![Image 353](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nFacilitate knowledge sharing for cleaner, more reliable code\n\n![Image 354](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nSend critical updates that can’t be missed and receive confirmation that they’ve been read\n\n![Image 355](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nAlign product, design, and engineering on the latest requirements and specifications\n\n![Image 356](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nReduce miscommunication with always up-to-date product documentation\n\n![Image 357](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nReduce new employee onboarding time\n\n![Image 358](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6f387c6e9916a8a323efc_hp-teams_product%402x.avif)\n\n![Image 359](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nCentralize and manage all messaging and brand assets and guidelines\n\n![Image 360](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nGet real-time, AI-powered answers without having to switch apps\n\n![Image 361](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nSend critical updates that can’t be missed and receive confirmation that they’ve been read\n\n![Image 362](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nLeverage AI to create and distribute documentation quickly and easily\n\n![Image 363](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nRepurpose high-performing content quickly\n\n![Image 364](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6c151517131bb3b15734b_Vectors-Wrapper.svg)\n\nReduce new employee onboarding time\n\n![Image 365](https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/66f6f53e1c297c5aa3f80ebf_hp-teams_marketing%402x.avif)\n\nSee how the best companies use Guru with our step-by-step guides\n----------------------------------------------------------------",
+  "usage": {
+    "tokens": 5918
+  }
+}
+```

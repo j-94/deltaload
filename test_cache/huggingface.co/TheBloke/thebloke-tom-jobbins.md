@@ -1,0 +1,63 @@
+---
+title: TheBloke (Tom Jobbins)
+description: LLM: quantisation, fine tuning
+url: https://huggingface.co/TheBloke
+timestamp: 2025-01-20T15:43:40.281Z
+domain: huggingface.co
+path: TheBloke
+---
+
+# TheBloke (Tom Jobbins)
+
+
+LLM: quantisation, fine tuning
+
+
+## Content
+
+TheBloke
+
+*   [TheBlokeAI](https://twitter.com/TheBlokeAI)
+*   [TheBloke](https://github.com/TheBloke)
+
+### AI & ML interests
+
+LLM: quantisation, fine tuning
+
+### Organizations
+
+[![Image 56: Open Access AI Collective's profile picture](https://www.gravatar.com/avatar/31c001d6d4cf57054b30ce7d2f380c6a?d=retro&size=100)](https://huggingface.co/openaccess-ai-collective) [![Image 57: RolePlai's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/63f950e570d45efb75a2da9e/XFaXk0wNJCzzN0L0vS6Ci.png)](https://huggingface.co/RolePl) [![Image 58: Blog-explorers's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/60a551a34ecc5d054c8ad93e/Ku5nM2bKq-8ZF3Jid1ocw.png)](https://huggingface.co/blog-explorers) [![Image 59: DRMWorld Archived models's profile picture](https://www.gravatar.com/avatar/36a4f815c6eac5f62e76803ac68df531?d=retro&size=100)](https://huggingface.co/drmworld-archive) [![Image 60: TheBlokeAI's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/waPyqc71Im-fpVAOiC0BW.jpeg)](https://huggingface.co/TheBlokeAI) [![Image 61: OpenOrca's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/63972e77157559113eb8396d/RUc4QKDRtHQYWGRL6mNGF.png)](https://huggingface.co/Open-Orca) [![Image 62: IntellectX AI's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/noauth/dhy9S2c1BAlmDw06l9KzS.png)](https://huggingface.co/IntellectX) [![Image 63: TheBloke Perplexity Testing's profile picture](https://www.gravatar.com/avatar/50b630ace2c12a6d8d2f88e5e805b8ef?d=retro&size=100)](https://huggingface.co/TheBlokePPL) [![Image 64: Keynote Technology's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/6500c7c912c1442d994c36e5/pyc454jIWYKQXhohhJKuA.png)](https://huggingface.co/Keynote-Technology) [![Image 65: TheBloke Testing's profile picture](https://www.gravatar.com/avatar/e97bf0552971d7895a67876c91b2ff94?d=retro&size=100)](https://huggingface.co/TheBlokeTesting) [![Image 66: SCTest's profile picture](https://www.gravatar.com/avatar/d6a75f548c0547ce7ceb98862f5a4db7?d=retro&size=100)](https://huggingface.co/SCTest) [![Image 67: Social Post Explorers's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/5f17f0a0925b9863e28ad517/nxmdd6m86cxu55UZBlQeg.jpeg)](https://huggingface.co/social-post-explorers)[![Image 68: Cognitive Computations's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/63111b2d88942700629f5771/hd3QCLnAkFFGI07Z5d1Ol.png)](https://huggingface.co/cognitivecomputations)
+
+[![Image 69](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CapybaraHermes-2.5-Mistral-7B-GPTQ Updated Jan 31, 2024 • 3.47k • 56](https://huggingface.co/TheBloke/CapybaraHermes-2.5-Mistral-7B-GPTQ)
+
+[![Image 70](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CapybaraHermes-2.5-Mistral-7B-AWQ Updated Jan 31, 2024 • 514 • 21](https://huggingface.co/TheBloke/CapybaraHermes-2.5-Mistral-7B-AWQ)
+
+[![Image 71](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF Updated Jan 31, 2024 • 7.12k • 102](https://huggingface.co/TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF)
+
+[![Image 72](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/KafkaLM-70B-German-V0.1-GPTQ Text Generation • Updated Jan 31, 2024 • 24 • 3](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GPTQ)
+
+[![Image 73](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/KafkaLM-70B-German-V0.1-AWQ Text Generation • Updated Jan 31, 2024 • 29 • 2](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-AWQ)
+
+[![Image 74](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/KafkaLM-70B-German-V0.1-GGUF Text Generation • Updated Jan 31, 2024 • 762 • 23](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GGUF)
+
+[![Image 75](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CodeLlama-70B-Python-GPTQ Text Generation • Updated Jan 31, 2024 • 106 • 18](https://huggingface.co/TheBloke/CodeLlama-70B-Python-GPTQ)
+
+[![Image 76](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CodeLlama-70B-Python-AWQ Text Generation • Updated Jan 31, 2024 • 26 • 5](https://huggingface.co/TheBloke/CodeLlama-70B-Python-AWQ)
+
+[![Image 77](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CodeLlama-70B-Python-GGUF Text Generation • Updated Jan 31, 2024 • 1.62k • 40](https://huggingface.co/TheBloke/CodeLlama-70B-Python-GGUF)
+
+[![Image 78](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CodeLlama-70B-Instruct-GPTQ Text Generation • Updated Jan 31, 2024 • 25 • 12](https://huggingface.co/TheBloke/CodeLlama-70B-Instruct-GPTQ)
+
+## Metadata
+
+```json
+{
+  "title": "TheBloke (Tom Jobbins)",
+  "description": "LLM: quantisation, fine tuning",
+  "url": "https://huggingface.co/TheBloke",
+  "content": "TheBloke\n\n*   [TheBlokeAI](https://twitter.com/TheBlokeAI)\n*   [TheBloke](https://github.com/TheBloke)\n\n### AI & ML interests\n\nLLM: quantisation, fine tuning\n\n### Organizations\n\n[![Image 56: Open Access AI Collective's profile picture](https://www.gravatar.com/avatar/31c001d6d4cf57054b30ce7d2f380c6a?d=retro&size=100)](https://huggingface.co/openaccess-ai-collective) [![Image 57: RolePlai's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/63f950e570d45efb75a2da9e/XFaXk0wNJCzzN0L0vS6Ci.png)](https://huggingface.co/RolePl) [![Image 58: Blog-explorers's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/60a551a34ecc5d054c8ad93e/Ku5nM2bKq-8ZF3Jid1ocw.png)](https://huggingface.co/blog-explorers) [![Image 59: DRMWorld Archived models's profile picture](https://www.gravatar.com/avatar/36a4f815c6eac5f62e76803ac68df531?d=retro&size=100)](https://huggingface.co/drmworld-archive) [![Image 60: TheBlokeAI's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/waPyqc71Im-fpVAOiC0BW.jpeg)](https://huggingface.co/TheBlokeAI) [![Image 61: OpenOrca's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/63972e77157559113eb8396d/RUc4QKDRtHQYWGRL6mNGF.png)](https://huggingface.co/Open-Orca) [![Image 62: IntellectX AI's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/noauth/dhy9S2c1BAlmDw06l9KzS.png)](https://huggingface.co/IntellectX) [![Image 63: TheBloke Perplexity Testing's profile picture](https://www.gravatar.com/avatar/50b630ace2c12a6d8d2f88e5e805b8ef?d=retro&size=100)](https://huggingface.co/TheBlokePPL) [![Image 64: Keynote Technology's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/6500c7c912c1442d994c36e5/pyc454jIWYKQXhohhJKuA.png)](https://huggingface.co/Keynote-Technology) [![Image 65: TheBloke Testing's profile picture](https://www.gravatar.com/avatar/e97bf0552971d7895a67876c91b2ff94?d=retro&size=100)](https://huggingface.co/TheBlokeTesting) [![Image 66: SCTest's profile picture](https://www.gravatar.com/avatar/d6a75f548c0547ce7ceb98862f5a4db7?d=retro&size=100)](https://huggingface.co/SCTest) [![Image 67: Social Post Explorers's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/5f17f0a0925b9863e28ad517/nxmdd6m86cxu55UZBlQeg.jpeg)](https://huggingface.co/social-post-explorers)[![Image 68: Cognitive Computations's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/63111b2d88942700629f5771/hd3QCLnAkFFGI07Z5d1Ol.png)](https://huggingface.co/cognitivecomputations)\n\n[![Image 69](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CapybaraHermes-2.5-Mistral-7B-GPTQ Updated Jan 31, 2024 • 3.47k • 56](https://huggingface.co/TheBloke/CapybaraHermes-2.5-Mistral-7B-GPTQ)\n\n[![Image 70](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CapybaraHermes-2.5-Mistral-7B-AWQ Updated Jan 31, 2024 • 514 • 21](https://huggingface.co/TheBloke/CapybaraHermes-2.5-Mistral-7B-AWQ)\n\n[![Image 71](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF Updated Jan 31, 2024 • 7.12k • 102](https://huggingface.co/TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF)\n\n[![Image 72](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/KafkaLM-70B-German-V0.1-GPTQ Text Generation • Updated Jan 31, 2024 • 24 • 3](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GPTQ)\n\n[![Image 73](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/KafkaLM-70B-German-V0.1-AWQ Text Generation • Updated Jan 31, 2024 • 29 • 2](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-AWQ)\n\n[![Image 74](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/KafkaLM-70B-German-V0.1-GGUF Text Generation • Updated Jan 31, 2024 • 762 • 23](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GGUF)\n\n[![Image 75](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CodeLlama-70B-Python-GPTQ Text Generation • Updated Jan 31, 2024 • 106 • 18](https://huggingface.co/TheBloke/CodeLlama-70B-Python-GPTQ)\n\n[![Image 76](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CodeLlama-70B-Python-AWQ Text Generation • Updated Jan 31, 2024 • 26 • 5](https://huggingface.co/TheBloke/CodeLlama-70B-Python-AWQ)\n\n[![Image 77](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CodeLlama-70B-Python-GGUF Text Generation • Updated Jan 31, 2024 • 1.62k • 40](https://huggingface.co/TheBloke/CodeLlama-70B-Python-GGUF)\n\n[![Image 78](https://cdn-avatars.huggingface.co/v1/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg) #### TheBloke/CodeLlama-70B-Instruct-GPTQ Text Generation • Updated Jan 31, 2024 • 25 • 12](https://huggingface.co/TheBloke/CodeLlama-70B-Instruct-GPTQ)",
+  "usage": {
+    "tokens": 2094
+  }
+}
+```

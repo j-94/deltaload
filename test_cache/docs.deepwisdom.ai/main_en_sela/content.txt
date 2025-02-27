@@ -1,0 +1,76 @@
+MetaGPT | MetaGPT
+===============
+
+[Skip to content](https://docs.deepwisdom.ai/main/en/sela/#VPContent)
+
+[![Image 3](https://docs.deepwisdom.ai/main/logo-light.svg)![Image 4](https://docs.deepwisdom.ai/main/logo-dark.svg)MetaGPT](https://docs.deepwisdom.ai/main/en/)
+
+SearchK
+
+Main Navigation[Docs](https://docs.deepwisdom.ai/main/en/guide/get_started/introduction.html)
+
+Demo
+
+[Data Interpreter](https://docs.deepwisdom.ai/main/en/DataInterpreter/index.html)
+
+[SELA](https://docs.deepwisdom.ai/main/en/sela/index.html)
+
+[Blogs](https://docs.deepwisdom.ai/main/en/blog/blogs.html)[RFCs](https://docs.deepwisdom.ai/main/en/rfcs/RFC-116-MetaGPT%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html)
+
+main
+
+[main (unstable)](https://docs.deepwisdom.ai/main/)
+
+[v0.8 (stable)](https://docs.deepwisdom.ai/v0.8/)
+
+[v0.7](https://docs.deepwisdom.ai/v0.7/)
+
+[v0.6](https://docs.deepwisdom.ai/v0.6/)
+
+[v0.5](https://docs.deepwisdom.ai/v0.5/)
+
+[v0.4](https://docs.deepwisdom.ai/v0.4/)
+
+English
+
+[中文](https://docs.deepwisdom.ai/main/zh/sela/)
+
+[](https://github.com/geekan/MetaGPT)[](https://discord.com/invite/wCp6Q3fsAk)[](https://twitter.com/MetaGPT_)[](https://deepwisdom.ai/)
+
+English
+
+[中文](https://docs.deepwisdom.ai/main/zh/sela/)
+
+Appearance
+
+[](https://github.com/geekan/MetaGPT)[](https://discord.com/invite/wCp6Q3fsAk)[](https://twitter.com/MetaGPT_)[](https://deepwisdom.ai/)
+
+Return to top
+
+Demo page for [SELA](https://arxiv.org/abs/2410.17238)
+
+Datasets
+
+score
+
+max
+
+min
+
+Vannila instruction without insight
+
+```
+More generated code for the rest of the pipeline ...
+```
+
+Vannila instruction without insight
+
+```
+More generated code for the rest of the pipeline ...
+```
+
+Vannila instruction without insight
+
+```
+More generated code for the rest of the pipeline ...
+```

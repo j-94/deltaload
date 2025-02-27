@@ -1,0 +1,149 @@
+[![Image 36](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/6507bbdc3085cf26d1e8041e_white-wm-tiny.png)](https://www.magickml.com/)
+
+BUILDING WITH Magick
+
+**The Future of AI Development**
+--------------------------------
+
+No-code visual node-graph editors will revolutionize the building of AI experiences. Our Artificial Intelligence Development Environment (AIDE) is similar to existing tools you know, as well as platform agnostic, and open-source, allowing full control to always be in your hands.
+
+![Image 37: Magick AIDE ](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/65a5e6a1475be4e728e33b2d_AIDE%20workspace%20-%20HD%20prototype.png)
+
+Whether you're a Video Game Developer, a Small Business Owner, or a Services Agency, our platform empowers you to rapidly prototype and deploy advanced AI agents and applications for an endless array of use-cases. This is a full-stack solution for building, deploying, maintaining and scaling your AI creations without coding.
+
+Features at a Glance
+
+**The Power of Magick at your Fingertips**
+------------------------------------------
+
+Explore some of the innovative features that make our AIDE a game-changer for creative professionals across industries.
+
+![Image 38](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/65a5f68c59f57bb3be987286_Node-Based%20Development-dark%20nodes.png)
+
+**Open-Source Flexibility**
+---------------------------
+
+Dive into a community-driven development experience.
+
+**Platform Agnostic**
+---------------------
+
+Use any LLM you want. Compare and contrast different models.
+
+**Visual Node Builder**
+-----------------------
+
+Code visually, create intuitively.
+
+**Powerful Document Processing**
+--------------------------------
+
+Embed and access complex data effortlessly.
+
+**Rapid-Prototyping**
+---------------------
+
+Bring your ideas to life faster than ever.
+
+**Deep Customization**
+----------------------
+
+Tailor the AI to your specific needs.
+
+**User-Friendly**
+-----------------
+
+No coding skills required. Perfect for all skill levels.
+
+**Real-Time &   
+Event-Driven**
+-------------------------------
+
+Agents respond to events in real-time, right in the AIDE.
+
+**Scalable Deployment**
+-----------------------
+
+Your agents can handle any amount of users.
+
+**Multi-Platform Integrations**
+-------------------------------
+
+Connect with tools like Discord, Unreal Blueprints, Google AI, & more.
+
+**Comprehensive Tooling**
+-------------------------
+
+From building to deployment, we've got you covered.
+
+**Metered Billing**
+-------------------
+
+Pay as you grow.
+
+**The tool that**
+-----------------
+
+![Image 39](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/659c49c87bec05765c543bec_Google_2015_logo.svg.png)
+
+**can trust**
+-------------
+
+Magick proudly partners with Google to usher in a new era of AI. This collaboration integrates Google's advanced LLMs into Magick's AIDE, democratizing cutting-edge AI technology. Our joint endeavor emphasizes safety and quality, empowering creators and businesses to safely build powerful AI agents. Together, we're redefining AI innovation, transforming industries with impactful, accessible, and innovative solutions.
+
+Industries
+
+**AI Solutions Across the Spectrum**
+------------------------------------
+
+Explore some of the innovative features that make our AIDE a game-changer for creative professionals across industries.
+
+**Gaming**
+----------
+
+**Custom Game Characters, Narrative & Quest Generation  
+‍  
+**The gaming industry thrives on immersive experiences. Our AIDE facilitates the creation of truly customizable, realistic, AI-driven game characters and NPCs, enhancing player interaction. Furthermore, it aids in generating intricate narratives, world states, items, and quests, providing the ability to create a deeply engaging and ever-evolving gaming environment.
+
+![Image 40](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/6599023c363d614cf8dacb6f_gaming.jpg)
+
+![Image 41](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/65990186bb9e8df41deee34d_m%26e.jpg)
+
+**Media & Entertainment**
+-------------------------
+
+**Content Creation & Audience Engagement**The media and entertainment industry is all about captivating audiences. With our AIDE, creators can design AI agents that assist in any kind of content creation, from scriptwriting to music composition. These agents can also be employed to engage with and analyze audience feedback, enabling creators to tailor their offerings for maximum engagement and impact.
+
+**Services Agencies**
+---------------------
+
+**AI Chatbots & Bespoke Agents‍
+
+**As services agencies expand their digital offerings, the demand for personalized and efficient customer interactions grows. Our tool empowers these agencies to develop bespoke AI agents tailored to specific client needs. These agents can handle a wide range of tasks, from customer inquiries to complex knowledge-based problem-solving, providing a scalable and versatile solution for agencies looking to enhance their service delivery.
+
+![Image 42](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/6599018675cd2c34faaa5c39_services.jpg)
+
+![Image 43](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/65990186bd649806f437477f_sales.jpg)
+
+**Marketing & Advertising**
+---------------------------
+
+**Targeted Campaigns & Consumer Insights‍
+
+**In marketing and advertising, understanding and engaging the audience is key. Our tool enables agencies to build AI agents capable of analyzing consumer data, identifying trends, and predicting behaviors. This insight can be used to create more targeted, interactive and responsive marketing campaigns, ensuring that the right message reaches the right audience at the right time.
+
+**Crypto/Web3**
+---------------
+
+**Knowledge Bots & Customer Service Bots‍
+
+**In the rapidly evolving world of cryptocurrency and Web3, staying informed and providing timely customer support is crucial. Our tool enables the creation of knowledge bots that can digest and relay complex blockchain information in an understandable way. For customer service, our bots are equipped to handle inquiries and transactions securely and efficiently, ensuring a high level of user engagement and trust in this dynamic industry.
+
+![Image 44](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/6598fc5219a3fdd15d4c2179_Screenshot%202024-01-05%20at%2011.07.20%E2%80%AFPM.jpg)
+
+![Image 45](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/65a5e6a16abe028b49686410_Node%20Graph%20example.png)
+
+**Start creating with Magick**
+------------------------------
+
+[![Image 46](https://cdn.prod.website-files.com/6507b4af22875d0b8abf95a7/651e22ef7fa34d107295238f_justblue.png)](https://beta.magickml.com/)

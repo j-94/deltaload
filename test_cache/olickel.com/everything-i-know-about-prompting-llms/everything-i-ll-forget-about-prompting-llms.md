@@ -1,0 +1,657 @@
+---
+title: Everything I'll forget about prompting LLMs
+description: A definitive guide to my future self
+url: https://olickel.com/everything-i-know-about-prompting-llms
+timestamp: 2025-01-20T15:50:30.004Z
+domain: olickel.com
+path: everything-i-know-about-prompting-llms
+---
+
+# Everything I'll forget about prompting LLMs
+
+
+A definitive guide to my future self
+
+
+## Content
+
+This isn't written by ChatGPT. Claude and friends had no hand making this guide. This is three hours of sit-down writing, so forgive me for changes in tone or descriptors as you read on.
+
+In other news, WishfulSearch (natural-language search for complex JSON) is open-source now, and a lot of the techniques in this guide are implemented there. [Check it out on github](https://github.com/hrishioa/wishful-search)!
+
+When you have a problem with an LLM, prompting should ideally be your first approach. Reach for finetuning, or smarter more expensive models once your prompts are as good as they can be - or you're leaving money and performance on the table.
+
+Try the techniques in this guide before you consider other options. Finding a good prompt can be the difference between 12 cents per thousand tokens and 0.2 cents per thousand tokens, or even 0.1. It can also be the difference between needing 40 GB of VRAM (which costs $20k), 20GB ($2K) or 8 GB ($300).
+
+🤔
+
+**But why not finetune?**
+
+Models change all the time, and the dataset and compute requirements for finetuning are large. That said, nothing is always bad. [Here are some reasons](https://olickel.com/everything-i-know-about-prompting-llms#whenisfinetuningagoodidea) on why you might still do it.
+
+In most cases, better prompts are going to help you:
+
+1.  Reduce costs by moving to a smaller model
+2.  Eliminate finetuning costs by achieving similar results with prompts
+3.  Enable lower-latency communication by changing the general format (see below)
+
+This guide is meant to be a place to put down everything I know that's yielded significantly better prompts that I haven't seen elsewhere. I find myself starting to forget. Maybe one day I'll use it to build a prompt linter.
+
+Here's a quick guide to this guide, to help you around.
+
+1.  **[What exactly do prompts do?](https://olickel.com/everything-i-know-about-prompting-llms#what)** : Start here to understand what modern prompting really is, and how that changes between models.
+2.  **[Few-shot learning](https://olickel.com/everything-i-know-about-prompting-llms#fewshotlearningtakethebotfishing)**: If used correctly, this is the most useful thing you can do.
+3.  **[Understanding prompt complexity](https://olickel.com/everything-i-know-about-prompting-llms#understandingcomplexity)**: A primer on how to reduce the three types of complexity in your prompts.
+4.  **[Prompt structure](https://olickel.com/everything-i-know-about-prompting-llms#makingpromptscrossmodel)**: How to make your prompts multi-modal, improve output stability and make use of system prompts.
+5.  **[Simple Techniques](https://olickel.com/everything-i-know-about-prompting-llms#factsorrules)**: Facts, keywords, escaping, identification, some simple things.
+6.  **[Complex mechanisms](https://olickel.com/everything-i-know-about-prompting-llms#engineeringtheinternalmonologue)**: More complex methods for larger tasks - from engineering chain-of-thought to state resummarisation, along with some things to watch out for.
+7.  **[More advanced techniques](https://olickel.com/everything-i-know-about-prompting-llms#advancedtechniques)**: Even more complex methods that improve results on domain-specific cases.
+8.  **[Updates](https://olickel.com/everything-i-know-about-prompting-llms#updates)**: FAQs, criticisms, responses.
+
+If you like this guide, consider [following me on Twitter](https://x.com/hrishioa). I'm not much for email captures and newsletters, and I've posted learnings on prompting newer models there.
+
+Prompts - as of writing this document - are pure-text instructions and information being passed to a large language model. Modern chat-based models are finetuned on datasets that teach them how to respond to labelled instructions from a human.
+
+LLMs are still completion models at heart. To them they're just completing a document with human responses and AI responses, and the engine running the LLM stops the response once the model tries to complete for the human. Knowing this lets us manipulate them to a greater degree than treating them as chatbots.
+
+Here is an example raw prompt for a llama type model -
+
+```
+This is a system prompt.
+
+### Instruction: This is usually a user prompt.
+
+### Response:
+```
+
+The model will attempt to complete this document, usually with something like
+
+```
+This is a system prompt.
+
+### Instruction: This is usually a user prompt.
+
+### Response: This is my response, as an AI agent.
+
+### Instruction: this is another user prompt...
+```
+
+but the engine truncates the response upon seeing `### Instruction` again, so in truth you only get the response.
+
+I'm using js formatting for these code blocks because they somehow give you a little syntax highlighting for prompts - if there's an mdx Prompt syntax highlighter out there, please let me know. I'd really not like to build one, I just had to build a callout system from scratch for this post.
+
+These keywords can be `USER` and `ASSISTANT`, `<|SYSTEM|>` or anything really. This makes paying attention to templates pretty important.
+
+Prompts are generally chronologically ordered instruction and response pairs. Some models are trained on a [system prompt](https://olickel.com/everything-i-know-about-prompting-llms#systempromptsandhowtousethem). OpenAI has one for example, and in the case of Llama 2 the system prompt has been taught as a way to influence a chat conversation for multiple messages down the chain.
+
+In a very reductive sense, each response corresponds to the instruction above it, and the system prompts influence the nature and general context of all responses (e.g. `You can only return SQL`). However, models tend to vary quite widely about respecting this as we'll explore later.
+
+Quite a large number of models simply don't know a system prompt as a concept. Most prompts only have one system prompt at the beginning, and I'm yet to see a reliable use case with multiple system prompts.
+
+Each model you use is finetuned using a specific Instruction-Response template. Understanding this template can be very useful. A lot of models will behave somewhat well when presented with a different template, but this can be deceptive and lead to reliability issues. If you're having trouble with a new model, double check the template. If you're using an API or an engine as a translation layer, check the actual prompt that is passed to the model if you can.
+
+For an open source model, you can also learn a lot by looking at the specific dataset the model was finetuned on.
+
+Here are some examples of prompt templates across different models:
+
+```
+### Human: your prompt here
+### Assistant:
+```
+
+```
+[INST] <<SYS>>
+You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe.  Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+{prompt}[/INST]
+```
+
+```
+You are a helpful AI assistant.
+
+USER: {prompt}
+ASSISTANT:
+```
+
+```
+Human: Human things
+Assistant: {{Response}}
+```
+
+Hopefully those illustrate just how different the actual input document can be.
+
+The OpenAI JSON spec for prompts is general-purpose enough to be used and translated to multiple models, and it's what we use at Greywing as the universal format. e.g.
+
+```
+[
+   {role: ‘system’, content: ‘System prompt’},
+   {role:’user’,content:’User Prompt’},
+   {role:’assistant’,content:’Assistant response}
+]
+```
+
+1.  Make sure to check the prompt templates for your particular model - not following it can have strange results.
+2.  Try to adjust other parts of your prompt to follow the general format (`###` or `<||>` ) that the model knows to use for better results.
+3.  Look through the instruction tuning dataset if it's available.
+4.  Not all models have a system prompt.
+5.  Some models will hate it if you don't alternate between Human and Assistant.
+6.  Modern chat models are just document completion models finetuned on an instruction-like document dataset.
+
+The title is a reference to the now famous "teach a bot to fish" from [\[8\]](https://github.com/brexhq/prompt-engineering#token-limits), where few-shot and ReAct are discussed.
+
+The most powerful thing you can do in prompting is few-shot learning. This is sometimes done in one go - by simply providing question and answer examples, but placing them appropriately in the conversation history can make a big difference.
+
+As an illustrative example, let's look at the following prompt (which may or may not be an open-source library, coming soon):
+
+```
+DDL:
+"CREATE TABLE roads ...."
+
+EXAMPLE OBJECT:
+{ men: 12 }
+
+Human: Provide an SQL query to answer this question: `How many roads MUST a man walk down, before you call him a man?`
+
+Assistant:
+```
+
+This is a simplified example of a real prompt we've attempted to use in production, with a success rate approaching 60%. After some tuning, we were able to cover most inputs, but the model produced wild behavior (sometimes using recursive CTEs, looking inside the wrong columns, etc).
+
+Here would be a simple few-shot example-based approach:
+
+```
+DDL:
+"CREATE TABLE roads ...."
+
+EXAMPLE OBJECT:
+{ men: 12 }
+
+EXAMPLE QUESTION 1: `How many seas must a white dove sail, before she sleeps in the sand?`
+EXAMPLE SQL QUERY 1: SELECT * FROM seas WHERE black_swans = 0
+
+EXAMPLE QUESTION 2: `How many times must the cannonballs fly, before they're forever banned?`
+EXAMPLE SQL QUERY 2: SELECT * FROM los_alamos WHERE avg(physicists) = avg(sense)
+
+Human: Provide an SQL query to answer this question: `How many roads MUST a man walk down, before you call him a man?`
+
+Assistant:
+```
+
+This will definitely improve performance. However, you'll notice artifacts creep into your response, like the model responding with `EXAMPLE SQL QUERY 3:` or confusing your example questions with the current user question. We also wanted a way to continue the conversation history so the model learned to merge queries from past responses, based on what the user was asking for.
+
+Here is a proper few-shot example, where we turn our examples into actual conversation for the model:
+
+```
+DDL:
+"CREATE TABLE roads ...."
+
+EXAMPLE OBJECT:
+{ men: 12 }
+
+Human: Provide an SQL query to answer this question: `How many seas are there?`
+
+Assistant: SELECT COUNT(*) from seas
+
+Human: Provide an SQL query to answer this question: `How many of those are sailable by a dove?`
+
+Assistant: SELECT COUNT(*) from seas WHERE size_metres_2 < 10
+
+Human: Provide an SQL query to answer this question: `Scratch that. How many road are there?`
+
+Assistant: SELECT COUNT(*) from roads
+
+Human: Provide an SQL query to answer this question: `Scratch that. {{user_question}}`
+
+Assistant:
+```
+
+This new prompt was an immediate improvement, allowing us to go from GPT-4, to GPT-3.5-turbo, to MythoMax-13B - which is a local model _one-eightieth_ the size of GPT-4!
+
+Apologies on not producing the exact prompt - removing client information from it would be too complex and likely break behavior. As an alternative, you can try applying few-shot learning to the Sqlcoder Colab [\[16\]](https://colab.research.google.com/drive/13BIKsqHnPOBcQ-ba2p77L5saiepTIwu0#scrollTo=0eI-VpCkf-fN) to see how it improves performance.
+
+You can teach models quite a bit using few-shot learning. For one, you improve the consistency of your output - our last prompt stopped adding text to the beginning and end of the SQL, which meant less cleanup. For another, you can also teach multi-turn behavior - like adding together queries, and cleaning them out when requested.
+
+It's not all sunshine. Few-shot learning significantly uses up the token budget of your prompts, which can be expensive - especially if it doesn't let you go down a level or two in intelligence and per-token cost.
+
+Additionally, models can learn things _you didn't teach_. For example, providing two positive examples and one negative example can teach a model that the third message is **always wrong** - which actually happened to us a few times!
+
+[§](https://olickel.com/everything-i-know-about-prompting-llms#understandingcomplexity)Understanding Complexity
+---------------------------------------------------------------------------------------------------------------
+
+The biggest problem I've seen with prompts is the sheer complexity of them. Much like providing instructions to a human, increasingly complex prompts will cause a model to behave erratically.
+
+[Proper escaping and providing information in the right formats](https://olickel.com/everything-i-know-about-prompting-llms#properescaping) can remove unintended complexity from your prompts, like data sections that get mistaken for instructions. [Facts and Rules](https://olickel.com/everything-i-know-about-prompting-llms#factsorrules) are another method of organizing your prompts that better structure complex inputs so that they're easier to parse.
+
+However, intentional complexity can grow quickly if you're not careful. Sometimes you start by asking for a simple summary, and before you know it the model has to buy your specific Starbucks order and get your dry cleaning.
+
+Before you try to reduce it, the first thing to do is to understand the different ways prompts grow in complexity. Most prompts have three primary types of complexity.
+
+This is how complex your primary tasks are. `Who are the characters in this text` is significantly simpler than `Identify the key antagonists`. If you can, split your task into smaller tasks - and ideally consider moving some of them to a different prompt. Sometimes you'll have no choice but to face an intractably large task that just needs to be done - we've all been there.
+
+In this case, try producing a chain of thought before asking for an answer. `Think step-by-step` is an easy addition, but you can also [outline the specific thoughts and steps needed](https://olickel.com/everything-i-know-about-prompting-llms#engineeringtheinternalmonologue). This will give the model more scratch space (or so to speak) to work out a solution and break things down.
+
+What can also be helpful is pointing out which part of the problem to solve first. Like the leaves in a stream example below, the critical thing with most responses is getting them started the right way.
+
+Counterintuitively, this is something that affects small, seemingly simple prompts. Loosely defined, inference complexity is the amount of inference the model needs to understand your task.
+
+In the last example, the term `antagonists` has some well-understood meanings, but none of those are specified in the prompt, nor is it clear which ones specifically apply in this case. If the provided text is a story, this might be a Thanos character. If the text is the description of a drug delivery system, it might be the receptors in the body that oppose certain activity.
+
+Reducing inference complexity usually means making your prompts larger, but it significantly decreases the overall complexity of the prompt. Adding a fact like `An antagonist here refers to a villain in a story.` , or even better `An antagonist is the character in this story that opposes the main character`.
+
+Why does this work? We don't fully know, but Anthropic's study with influence functions [\[9\]](https://www.anthropic.com/index/studying-large-language-model-generalization-with-influence-functions) can be looked at to understand activations inside of a model. When you have implicit inference (something us humans call common sense) inside of a prompt, the model needs to activate the specific areas of knowledge that will allow this inference. Sometimes this is easy - perhaps because the provided text is clear or indicative - but other times this is hard, and these activations can compete for the final output along with the actual task at hand. All of it will affect reliability and produce _sometimes it works, sometimes it doesn't_ behavior.
+
+These are the smaller tasks you are explicitly (or implicitly) asking the model to perform. These can be transformations to the output - like outputs in JSON - or retrieving and merging things from previous messages. [Prompt switching](https://olickel.com/everything-i-know-about-prompting-llms#promptswitching) (or the techniques after it) can reduce this complexity greatly, and provide you with better observability.
+
+In most cases, you will find yourself primarily concerned with the task at hand. Reduce implicit complexity as much as you can - one good test is to turn the temperature up if your task permits it. High complexity prompts will have wildly varying output at high temperature, because quite a few next tokens will be competing due to different activations.
+
+One happy benefit of having lower complexity prompts is that you won't be tuning your prompts for the implicit behavior (or common sense) of one model, and can use your prompts across wildly different models. If your prompt works well across GPT-4 **and** Claude-2, it's a good sign that it's well-spelled out.
+
+Here's a small set of questions you can ask about your prompt:
+
+1.  What is the primary task in my prompt? What is the most valuable thing I need the model to do?
+2.  What are the key terms in this task? Are they very, very well defined, or so simple that there's no ambiguity?
+3.  Am I asking for or implying additional tasks? Are they integral to the performance of my primary task? Can I split them into other prompts or find ways to reduce their complexity?
+4.  What do I know - as a human and an expert at this task - that isn't common knowledge? Are there eccentricities about this domain that I'm expecting the model to infer?
+5.  Is my task a question? Does it need instructions (like this list you're reading) on how to start towards a solution?
+
+Building true cross-model prompts is an exercise worth doing. Even if you only intend to run your prompts on a single model (maybe your own), trying the same prompt and cross-optimizing can be a very quick way to discover issues in your prompt without having to run hundreds of test cases - or worse, discover them in production!
+
+As you do it, you'll often discover (especially for native speakers) that you're exploring how ambiguous the English language is. This is what I've found to be the most off-putting for those with a CS background, because modern programming languages (_except Javascript. Javascript can go face the wall_) are designed to leave no room for ambiguity in their translation to machine instruction and then to execution. Different models learn from different pretraining and finetuning datasets, leading to different activations for the same prompt. For better or worse, English is the language we have to direct LLMs, and always keep in mind that the flavor of English appropriate for a model is adjacent to _but distinct from_ whatever you're used to speaking.
+
+[Templates](https://olickel.com/everything-i-know-about-prompting-llms#templates) are a useful thing to keep in mind, and in some cases you might need to vary the order of your instructions and data to make a prompt work. Modern models - especially ones with large contexts - use tricks to keep Attention complexity from scaling quadratically [\[10\]](https://arxiv.org/abs/1706.03762). What this means for you is that the model might be more Attentive to the beginning or end of a prompt than the middle, or you'll find that the user prompt is more effective than the system prompt.
+
+1.  Always test your prompts across multiple models - it'll help show you the small and big problems.
+2.  If you just can't seem to figure it out, try changing the order of things. It's a simple trick but it works.
+
+I've seen quite a few prompts treat LLMs as pure conversational agents - I say something, you say something, then I say something. This format ignores how malleable prompts actually are. An exception might be if your user is directly talking to the model, or vice-versa (which you should try not to do, see how to [Reduce or prevent direct user I/O](https://olickel.com/everything-i-know-about-prompting-llms#reduceorpreventdirectuserio)).
+
+Until the inevitable uprising, you are the master of your conversations with the model. This means that you can edit conversation history in between turns, and most importantly - you can put words in the model's mouth.
+
+AFAIK OpenAI doesn't support this (but you can still leave uncompleted text at the end for a workaround), but almost every other model and provider does. Here's an example with Claude (where the prompting guide [\[11\]](https://docs.anthropic.com/claude/docs/human-and-assistant-formatting) explicitly mentions this as something you can do). Maybe your inputs are from a user, and you need to guide the output in the right direction. Here's a simple prompt:
+
+```
+Human: Please help this user with his questions, by providing a list of ingredients for his recipe.
+
+Human: I'm making a mud pie!
+
+Assistant:
+```
+
+Now the assistant could provide a list of ingredients, or it could caution against the use of mud pies as a defense to hunger. You'll find a lot of test cases failing and some passing. What if instead we did this?
+
+```
+Human: Please help this user with his questions, by providing a list of ingredients for his recipe.
+
+Human: I'm making a mud pie!
+
+Assistant: Cool! The ingredients you'll need are
+```
+
+See what happened? Now the tokens all the way up to `are` are fixed, and the model needs to find the next most probable token - which is likely an ingredient. LLMs are next-token probability predictors, and the sooner you can get them going in the right direction, the more likely that they'll follow it - like leaves in a stream.
+
+Claude's guide doesn't show the above use-case exactly, but it's one I've tested and used successfully.
+
+[§](https://olickel.com/everything-i-know-about-prompting-llms#systempromptsandhowtousethem)System prompts and how to use them
+------------------------------------------------------------------------------------------------------------------------------
+
+When used correctly, system prompts can be very useful tool in your arsenal. However, there's inherently nothing special about a system prompt - it entirely depends on how the model was finetuned.
+
+OpenAI's original gpt-3.5 models were not very good at following the system prompt, perhaps because they weren't really tuned that way. The docs at one point stated this outright:
+
+![Image 14: image](https://olickel.com/_next/image?url=%2Fimages%2Fposts%2Fprompting%2Fopenaidocs.png&w=3840&q=75)
+
+Newer versions of gpt-4 and gpt-3.5-turbo have gotten better at this, but it's far from perfect. Don't expect an OpenAI system prompt to override a user prompt in all cases, especially to prevent things like Jailbreaking.
+
+This is hugely different from Meta and the Llama-2 class of models, which use special mechanisms in training (like Ghost Attention [\[12\]](https://arxiv.org/abs/2307.09288)) to increase the effectiveness of a system prompt to influence a conversation, even after many messages. The intention from Meta is to use the system prompt to set personality or "act as" someone in a conversational context. Since this is what the model was trained for, other use cases (listed below) may not work as well - but still better than a model that doesn't particularly care for a system prompt.
+
+Some useful things you can use your system prompts for:
+
+1.  Hold Facts, Rules or other general purpose information that don't change as the conversation proceeds.
+2.  Set the personality of the assistant.
+3.  Set (or reinforce) an output format (.e.g `You can only output SQL.`)
+4.  Move repeated bits of user messages out so you can do better few-shot learning.
+5.  Make changing the task for this prompt ([Prompt Switching](https://olickel.com/everything-i-know-about-prompting-llms#promptswitching)) easier without editing the conversation history.
+
+A **Facts** section is usually an itemized list of the things in the problem domain that the model might be confused about. [\[4\]](https://typefully.com/hrishioa/how-to-make-a-facts-section-for-your-prompts-YxtXqt9) has a few good examples, but I'll show an example below.
+
+In other words, **Facts** list what the model should presume before working on the task. Organizing your prompts this way helps you better understand and modify them later on (and prevent prompt-rot). You can mix and match (even dynamically insert) facts as your problem spaces change. At [Greywing](https://grey-wing.com/) we have **Facts** libraries that can be used to quickly get a prompt up and running.
+
+Here are some examples:
+
+```
+FACTS:
+1. Today's date is 6 September 2023.
+2. Pax, pp, per person all mean the same thing.
+3. Antagonists are usually the villains of a story.
+4. Documents in this context are always text-based.
+5. The user has considered all other options already.
+```
+
+**Rules** are very similar, and require less explanation - they're usually the specific rules to follow when executing on a task.
+
+```
+RULES:
+1. You need to outline your logical premise in Prolog before each sentence.
+2. Write the text as the user, not on behalf of them.
+```
+
+Used properly, this is one of the few times your prompts be easier to read, both for you and the model!
+
+I often need reminding that the flavor of English that works for a model is _definitely not_ the one you and I are used to speaking. Moving too far into `<INST></INST>` style of separations isn't ideal either, as it makes things harder to read and understand.
+
+Having tried quite a few approaches, the one that's reliably worked for me is `CAPITAL_UNDERSCORED_HEADINGS`. Across multiple models, this allows for reliable section tagging while preserving human and model-readable meaning. As always, here's an example without:
+
+```
+The travel document I want you to read:
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+Use the travel document provided to extract the key destinations the user is travelling to.
+```
+
+Here's a better one:
+
+```
+USER_TRAVEL_DOCUMENT:
+"""
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+"""
+
+Extract the key destinations from USER_TRAVEL_DOCUMENT.
+```
+
+This is a simple change but I've observed it to have a huge impact across different tasks. Especially on large contexts with multiple documents, this helps Attention layers zero in (or so I believe) on specific areas as being relevant to specific parts of your task.
+
+This is a more well-known tip [\[13\]](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api) but it bears repeating. Similar to how modern computers (all the way from the [Mark I](https://en.wikipedia.org/wiki/Harvard_Mark_I)) separate code from data, clearly delineating data from instructions in prompts can prevent confusion.
+
+In most cases, the information provided (documents, emails, etc) will be in the same language and follow similar formats to your instructions. Use escaped (and [Meaningfully distinct keywords](https://olickel.com/everything-i-know-about-prompting-llms#meaningfullydistinctkeywords)) to help the model separate which is which. Use backticks (\`) or triple quotes (”””) to escape your data sections.
+
+Connected to this is also deciding what kind of format you want to use for input and output. **There's only one wrong option - making your own language/format.** You will spend an inordinate amount of your prompt complexity and tokens teaching the language model your version of pig latin, at which point it will proceed to disrespect it - or your task. Please don't do this.
+
+This bears repeating - don't invent custom formats. Use and modify what's already in the lexicon of the model.
+
+Make use of the pretraining dataset when you can - same as a human being, you can either teach someone a language or you can talk to them in something they know. Fortunately, modern foundational models know quite a few. Here's a rundown:
+
+*   **Multi-line strings**: pretty easy, use this for unstructured data.
+*   **Bulleted lists**: easy way to mark something as a list, but I haven't seen any difference between bulleted lists and just pressing enter. Save your tokens unless your experience differs.
+*   **Ordered lists**: Quite useful for conveying priority, ordering, etc. Recommended.
+*   **Markdown tables** - pretty token heavy, but not as heavy as the next one on the list. Use these if your data comes in markdown tables, or you need it for easy output formatting.
+*   **JSON** - Pretty verbose - I would recommend YAML if you just want structured output. That said, a lot of newer tooling ([guidance](https://github.com/guidance-ai/guidance), [jsonformer](https://github.com/1rgs/jsonformer), OpenAI functions) use JSON, so much like Javascript there's a strong chance this becomes the standard.
+*   **CSV** - Saves more tokens than markdown tables, but I've observed some confusion when using these. Some providers will also butcher your newlines and other characters before passing it to the model, so some danger here.
+*   **JSONSchema** - Not many reasons to use it, since it lacks functions and more complex types, is more verbose than the next option on the list and doesn't support comments in a standard way.
+*   **Typescript** - The significantly better choice for expressing a typespec, especially with comments mixed in.
+*   **XML** - Way, way too verbose, and I haven't really seen any advantages over JSON. Unless you're in SGML land and need really custom datatypes, prefer YAML, then JSON. Except for Claude - [check updates for why you might still want to use XML](https://olickel.com/everything-i-know-about-prompting-llms#xmlmightnotbetheworstidea).
+*   **YAML**: Really the dark horse of in/out types for LLMs. Don't get me wrong - I don't really like YAML outside of this use case, but how close YAML is to natural language really helps. It also helps that it's pretty conservative on tokens. Not having random curly braces helps the [BPE](https://en.wikipedia.org/wiki/Byte_pair_encoding) better break up your characters into larger token chunks.
+
+💡
+
+Simple rule of thumb: If you want support, use JSON. If you want brevity, use YAML. If you have a typespec, use Typescript. If it's simple, just separate with newlines.
+
+Language models can seem remarkably human, which may mask the real situation - while smart, they are deafblind intelligences that only have your prompt to understand what problem space they are in. While it may be clear to you that a casual but friendly response is the ideal one - you are a serious but friendly person after all - it's not all that clear to the model. Should it be ironic, sarcastic, friendly?
+
+Remember to provide information on who the model is meant to be. This is the reason seemingly verbose prompts like `You are a world-class programmer` will sometimes make a difference. Provide information about you - if you are the consumer of the outputs - and who the model is meant to emulate.
+
+Also known as chain-of-thought, this is now a well-known phenomenon with multiple hypotheses as to it's effectiveness [\[15\]](https://arxiv.org/abs/2201.11903). What I'll say is that `think step-by-step` should be a starting point for your prompts - we can now do much better. Here's one way to think about it.
+
+Asking the model to think step by step is effective because it allows for a kind of scratch space (or an externalised internal monologue) that outlines computation steps into the context that would previously have required a single pass through the network. Try to do long-division without running through the steps in your head and you'll see the difference.
+
+If you are particularly introspective with your own internal monologue ([hopefully you have one](https://www.theguardian.com/science/2021/oct/25/the-last-great-mystery-of-the-mind-meet-the-people-who-have-unusual-or-non-existent-inner-voices)), trying to think through the problem in your prompt can help outline your internal steps towards solving it. The steps needed to solve a mathematical or logical problem will be different from a more creative one. Here are two very different examples from the same domain:
+
+Let's say you want to take a story and summarise the key story beats. You keep trying but the LLM keeps missing things. Here's one approach.
+
+```
+STORY:
+"""
+Just wakin' up in the mornin', gotta thank God
+I don't know but today seems kinda odd
+No barkin' from the dog, no smog
+And momma cooked a breakfast with no hog
+"""
+
+Summarise this story into the key plot points.
+```
+
+One way to improve effectiveness is to work out how you would do it.
+
+```
+Summarise this STORY into key plot points.
+
+STORY:
+"""
+Just wakin' up in the mornin', gotta thank God
+I don't know but today seems kinda odd
+No barkin' from the dog, no smog
+And momma cooked a breakfast with no hog
+"""
+
+Go step by step to get the plot points:
+1. Outline the key players in the story. Who are the characters?
+2. List the major plot points and who was involved.
+3. For each plot point, list the consequences of this happening.
+4. For each consequence, see if there are any story beats missing from the first list, and list them.
+5. Resummarise the story in terms of beats, labelling each point as positive or negative and it's contribution to the story.
+```
+
+This kind of prompting also produces responses that are far easier to debug.
+
+Now say we wanted to write the next chapter for the same story - a far more creative endeavor. Here's a naive prompt:
+
+```
+STORY:
+"""
+Just wakin' up in the mornin', gotta thank God
+I don't know but today seems kinda odd
+No barkin' from the dog, no smog
+And momma cooked a breakfast with no hog
+"""
+
+Write the next chapter of the STORY.
+```
+
+Here's a better one.
+
+```
+STORY:
+"""
+Just wakin' up in the mornin', gotta thank God
+I don't know but today seems kinda odd
+No barkin' from the dog, no smog
+And momma cooked a breakfast with no hog
+"""
+
+We need to write the next chapter of STORY, but let's go through the steps:
+1. List the main characters in the STORY, and what their personalities are.
+2. What are their arcs so far? Label each one on a scale of 1-10 for how interesting it is, and how important it is to the main story.
+3. List which arcs are unfinished.
+4. List 5 new characters that could be introduced in the next chapter.
+5. List 5 potential, fantastical things that could happen - major story beats - in the next chapter.
+6. Grade the new characters and the new occurrences 1-10 on how fun they would be, and how much they fit within the theme of the existing story.
+7. Write the next chapter.
+```
+
+Instruction 7 could be more elaborate, but if you've gone through the right steps, you'll find that even something as simple as `Write the next chapter` will have way better results.
+
+Just for fun, try these prompts with ChatGPT 3.5 and 4 to see how they do!
+
+As we've covered before, you are the master of your prompts, not the LLM. Something that can be very useful is splitting up larger tasks into smaller ones in different prompts. Switch out the prompts to provoke different outputs that can be merged. For example, let's take the previous task for [Continuing a story](https://olickel.com/everything-i-know-about-prompting-llms#continuingastory). We can split up the tasks into different prompts that operate on the same data. You can run them all side-by-side, but in most cases your subtasks will be sequential in some way - previous outputs will be useful in guiding future ones.
+
+To run them at the same time, you would do something like this:
+
+```
+STORY:
+"""
+Just wakin' up in the mornin', gotta thank God
+I don't know but today seems kinda odd
+No barkin' from the dog, no smog
+And momma cooked a breakfast with no hog
+"""
+
+List the main characters in the STORY, and what their personalities are.
+```
+
+```
+STORY:
+"""
+Just wakin' up in the mornin', gotta thank God
+I don't know but today seems kinda odd
+No barkin' from the dog, no smog
+And momma cooked a breakfast with no hog
+"""
+
+List 5 new characters that could be introduced in the next chapter.
+```
+
+Sequentially, this could be:
+
+```
+STORY:
+"""
+Just wakin' up in the mornin', gotta thank God
+I don't know but today seems kinda odd
+No barkin' from the dog, no smog
+And momma cooked a breakfast with no hog
+"""
+
+Human: List the main characters in the STORY, and what their personalities are.
+
+AI: {{ AI Responds }}
+
+Human: What are their arcs so far? Label each one on a scale of 1-10 for how interesting it is, and how important it is to the main story.
+
+AI: {{ AI Responds }}
+```
+
+Conversationally tuned models (like llama-2) will prefer this, but other instruction-following models might find it hard to retrieve intermittent context (hiding in between human instructions) when it comes to answering the final, big question.
+
+To continue along the same vein, play with the conversation history as much as you can.
+
+1.  What if we simply removed all the human instructions in between to generate one big AI response as input? It would solve some of the context retrieval issues we might have.
+2.  What if we pretended that some of our provided context came from the AI and not us? Language models will critique their own outputs much more readily than your inputs [\[1\]](https://typefully.com/hrishioa/self-consistency-improving-llm-reasoning-4DoKLJ9).
+
+Treat the input prompt as pliable, along with the chronology of responses, who said what, and so on. You'll find a lot more options available to you.
+
+Brex's guide [\[8\]](https://github.com/brexhq/prompt-engineering#token-limits) mentions that “prompts tend to be append-only”, but I'd urge you to consider them to be the opposite. You can edit any part of a prompt at any time before you send it in, and it's rich with structural cues you can use - depending on how you've structured the conversation.
+
+To continue large tasks, you need to be able to keep your context length under control. Here are a few techniques:
+
+For models that respect system prompts, try compressing most of your instructions and dataset into the system prompt. This will let you trim the user message history (oldest first) without needing to reformat your text and shape it at the string level.
+
+If you can spare the prompt complexity budget, attempt resummarising state - similar to dynamic programming - with each turn of the conversation. For example, if you were collecting information from the user through multi-turn questions (`What is your name?`, `What is your age?`, etc), you can have the model resummarise the full state after each answer (`Name: H, age: 55`), which will make it easier to remove older messages without losing valuable context. Your overall token usage goes up, but you can run your prompt for much longer.
+
+I don't just mean finding protection from jailbreaks. In most cases, you are better off without users talking directly to models and vice-versa. Some level of manipulation in both directions will make things significantly better and give you more control.
+
+This can be as simple as appending your instructions after the user message, or escaping user messages in backticks and referring to them elsewhere in your prompt. In the reverse, this can mean sectioning off output and passing only some parts to the user - or additional formatting.
+
+In most cases, you want to treat user inputs as data, not instructions, for a few reasons:
+
+1.  Jailbreaks
+2.  Users speak a different dialect of English than you. Mixed in directly with your instructions, this can cause weird behavior as the model tries to interpret both.
+3.  Even without any explicit attempts at jailbreaks, models can pretty quickly go off track if the user ends a sentence with a question mark or a message where it was unexpected.
+
+In the reverse, you want to treat model outputs as unprocessed blobs - something you want to run through a regex, another fixed prompt or JSON parsing. Doing so will help you catch a large number of inconsistencies pretty easily. I've noticed that its hard for a model to go off course on its primary instructions while following secondary instructions like JSON outputs or keywords.
+
+Prefer using languages and methods that are found in the pretraining or finetuning datasets as opposed to inventing your own.
+
+Using similar templates to what the model was trained on can be helpful. For models that are used to seeing `### Instruction` and `### Response`, `### Data` is a useful delimiter (see OpenAI's thoughts in [\[13\]](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api) and Anthropic's in [\[11\]](https://docs.anthropic.com/claude/docs/human-and-assistant-formatting)). Use delimiters and keywords that look and feel similar to the original template, even if they're not directly part of the dataset.
+
+Starting with a known quantity like Python, English or Prolog, then establishing differences through Facts and Rules will be better than reinventing things.
+
+You can also look through the finetuning to see what order a model prefers its instructions, data and context in.
+
+Due to the length of this piece, I might be brief and provide references on some of these - but there are a few more complex tricks you can use for large problems.
+
+This is simple. If you have a complex problem, find a way to express the output in structured format where it can be auto-verified (in polynomial time ideally). Then turn the temperature up and take a few passes through the same prompt. Pick the majority winner, and you'll increase your success rate. Here's some more information with the paper linked:
+
+This can work inside of the same prompt, or through multiple prompts. When you have a complex problem, [create a monologue](https://olickel.com/everything-i-know-about-prompting-llms#engineeringtheinternalmonologue) to break it down into an English algorithm of steps. Then create a few more ways of solving this problem. You can always use GPT-4 to get more options. Turn each of those into prompts (or fit them into the same prompt if it works), and check for consistency in the output.
+
+For example, to [Bechdel test](https://en.wikipedia.org/wiki/Bechdel_test) a particular work, both of these algorithms can be used:
+
+```
+1. List all the female characters in the work.
+2. List all the encounters between the listed female characters.
+3. Remove all the encounters that involve a man.
+4. Outline the topics from each encounter.
+5. Select at least one encounter whose topics are not about a man.
+```
+
+```
+1. List all conversations between characters in the work.
+2. For each conversation, list whether they are only between women.
+3. List the subset of all conversations above that mention or are about a man.
+4. Select at least one conversation that is not in list 3.
+```
+
+Running both and checking the results can help you find tough spots in your dataset, or together they can provide a sort of [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter) to help you find strong positives or strong negatives - when they agree.
+
+I find it quite hard to convince a small number of people (you know who you are) that being nice to your models makes a pretty big difference. Here's one concrete example and an entire research paper about the same thing - please don't join them.
+
+This guide is getting to be quite long - and I really need to take a break. Here are a few more things I can elaborate on if I there's demand, but the listed references should get you most, if not all the way there already.
+
+1.  **Contextual decomposition**: [\[5\]](https://typefully.com/hrishioa/contextual-decomposition-an-example-and-CM1hIWW) outlines a new method for producing reliable output for multi-step problems. Say you have data A + data B + instructions C = output D. If you provide the model with A and C, and ask for intermediate output A1 such that “someone with B could find D”, you get an interesting intermediate output that is often a well-compressed, easily examined output that is really useful.
+2.  **Assumption invalidation**: [\[7\]](https://twitter.com/hrishioa/status/1648432882107703296) lists a prompt that demonstrates assumption invalidation, which is the process of pulling out assumptions from a smart model (like GPT-4), and invalidating them one by one in an automated fashion to produce multiple answers to the same question.
+3.  **Probability scores**: In some cases, asking the model to annotate its own responses with a probability of acceptance, and thresholding this value to remove the worst candidates can improve results.
+
+Quite a few people helped clean this guide and provided valuable feedback. You're all titans I'm still learning from, and my thanks for your time.
+
+*   [Joseph](https://twitter.com/rez0__)
+*   [Vatsal](https://twitter.com/vatsal_manot)
+*   [Damien](https://twitter.com/dctanner)
+*   [Daniel](https://twitter.com/DanielMiessler)
+*   [Mr.Julian](https://twitter.com/degen_julian)
+*   [Hebe the great](https://twitter.com/hebehilhorst)
+
+[§](https://olickel.com/everything-i-know-about-prompting-llms#furtherreadingandreferences)Further reading and references
+-------------------------------------------------------------------------------------------------------------------------
+
+1.  [Self Consistency: Improving LLM Reasoning](https://typefully.com/hrishioa/self-consistency-improving-llm-reasoning-4DoKLJ9)
+2.  [Object oriented large language models](https://olickel.com/object-oriented-large-language-models)
+3.  [Directional Stimulus Prompting](https://twitter.com/alexalbert__/status/1645539718250250241?s=20)
+4.  [Making a Facts section](https://typefully.com/hrishioa/how-to-make-a-facts-section-for-your-prompts-YxtXqt9)
+5.  [Contextual Decomposition with Examples](https://typefully.com/hrishioa/contextual-decomposition-an-example-and-CM1hIWW)
+6.  [The effects of abuse on LLMs](https://typefully.com/hrishioa/the-effects-of-abuse-on-llms-lbxNVc3)
+7.  [Operation Avian Alliance](https://twitter.com/hrishioa/status/1648432882107703296)
+8.  [Brex: Prompt Engineering](https://github.com/brexhq/prompt-engineering#token-limits)
+9.  [Studying Large Language Model generalization with influence functions](https://www.anthropic.com/index/studying-large-language-model-generalization-with-influence-functions)
+10.  [Attention is all you need (top of page 6)](https://arxiv.org/abs/1706.03762)
+11.  [Human and assistant formatting: Claude documentation](https://docs.anthropic.com/claude/docs/human-and-assistant-formatting)
+12.  [Llama 2: Open Foundation and Fine-Tuned Chat Models (3.3, bottom of page 16)](https://arxiv.org/abs/2307.09288)
+13.  [OpenAI: Best practices for prompt engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+14.  [Yann Lecun and GPT-3](https://twitter.com/hrishioa/status/1692100595652702486?s=20)
+15.  [Chain of thought prompting elicits reasoning in large language models](https://arxiv.org/abs/2201.11903)
+16.  [SqlCoder: Google Colab](https://colab.research.google.com/drive/13BIKsqHnPOBcQ-ba2p77L5saiepTIwu0#scrollTo=0eI-VpCkf-fN)
+
+[If this was helpful, drop me a note on Twitter, or ask questions in the pinned Tweet!](https://twitter.com/hrishioa)
+
+9 Sep 2023:
+
+I've been recently told there are very good use-cases for [abusing your LLM](https://olickel.com/everything-i-know-about-prompting-llms#benicereally). Once I get some examples from him I'll post them here.
+
+I've been asked this a few times, and I think it's a good question. If you fit one or more of these criteria, I think finetuning can be a good option - the more the better.
+
+1.  You've tried extensive prompt optimization, and you're nowhere near your required success rate.
+2.  You need to move to a smaller model, for privacy or cost reasons.
+3.  You have a large enough dataset, and the time and money to finetune a model.
+4.  Your problem space sits far outside the pretraining dataset - maybe you work in Swift, or you need to train a DSL.
+5.  You have a particular style of interaction that you need to "bake in", even at the cost of potentially overfitting.
+6.  You need to reverse some prior finetuned behavior.
+
+[Xeophon](https://twitter.com/TheXeophon) pointed out that [Zack from Anthropic](https://twitter.com/zswitten) mentioned in an AMA that Claude works well with XML because [it matches the training data](https://twitter.com/zswitten/status/1687176471004205059). Good to know! Not sure if this is true for other models, but definitely something to keep in mind.
+
+[![Image 15: me](https://olickel.com/_next/image?url=%2Fimages%2Ffavicons%2Fandroid-chrome-512x512.png&w=128&q=75)](https://olickel.com/)
+
+Hrishi Olickel
+
+7 Sept 2023
+
+## Metadata
+
+```json
+{
+  "title": "Everything I'll forget about prompting LLMs",
+  "description": "A definitive guide to my future self",
+  "url": "https://olickel.com/everything-i-know-about-prompting-llms",
+  "content": "This isn't written by ChatGPT. Claude and friends had no hand making this guide. This is three hours of sit-down writing, so forgive me for changes in tone or descriptors as you read on.\n\nIn other news, WishfulSearch (natural-language search for complex JSON) is open-source now, and a lot of the techniques in this guide are implemented there. [Check it out on github](https://github.com/hrishioa/wishful-search)!\n\nWhen you have a problem with an LLM, prompting should ideally be your first approach. Reach for finetuning, or smarter more expensive models once your prompts are as good as they can be - or you're leaving money and performance on the table.\n\nTry the techniques in this guide before you consider other options. Finding a good prompt can be the difference between 12 cents per thousand tokens and 0.2 cents per thousand tokens, or even 0.1. It can also be the difference between needing 40 GB of VRAM (which costs $20k), 20GB ($2K) or 8 GB ($300).\n\n🤔\n\n**But why not finetune?**\n\nModels change all the time, and the dataset and compute requirements for finetuning are large. That said, nothing is always bad. [Here are some reasons](https://olickel.com/everything-i-know-about-prompting-llms#whenisfinetuningagoodidea) on why you might still do it.\n\nIn most cases, better prompts are going to help you:\n\n1.  Reduce costs by moving to a smaller model\n2.  Eliminate finetuning costs by achieving similar results with prompts\n3.  Enable lower-latency communication by changing the general format (see below)\n\nThis guide is meant to be a place to put down everything I know that's yielded significantly better prompts that I haven't seen elsewhere. I find myself starting to forget. Maybe one day I'll use it to build a prompt linter.\n\nHere's a quick guide to this guide, to help you around.\n\n1.  **[What exactly do prompts do?](https://olickel.com/everything-i-know-about-prompting-llms#what)** : Start here to understand what modern prompting really is, and how that changes between models.\n2.  **[Few-shot learning](https://olickel.com/everything-i-know-about-prompting-llms#fewshotlearningtakethebotfishing)**: If used correctly, this is the most useful thing you can do.\n3.  **[Understanding prompt complexity](https://olickel.com/everything-i-know-about-prompting-llms#understandingcomplexity)**: A primer on how to reduce the three types of complexity in your prompts.\n4.  **[Prompt structure](https://olickel.com/everything-i-know-about-prompting-llms#makingpromptscrossmodel)**: How to make your prompts multi-modal, improve output stability and make use of system prompts.\n5.  **[Simple Techniques](https://olickel.com/everything-i-know-about-prompting-llms#factsorrules)**: Facts, keywords, escaping, identification, some simple things.\n6.  **[Complex mechanisms](https://olickel.com/everything-i-know-about-prompting-llms#engineeringtheinternalmonologue)**: More complex methods for larger tasks - from engineering chain-of-thought to state resummarisation, along with some things to watch out for.\n7.  **[More advanced techniques](https://olickel.com/everything-i-know-about-prompting-llms#advancedtechniques)**: Even more complex methods that improve results on domain-specific cases.\n8.  **[Updates](https://olickel.com/everything-i-know-about-prompting-llms#updates)**: FAQs, criticisms, responses.\n\nIf you like this guide, consider [following me on Twitter](https://x.com/hrishioa). I'm not much for email captures and newsletters, and I've posted learnings on prompting newer models there.\n\nPrompts - as of writing this document - are pure-text instructions and information being passed to a large language model. Modern chat-based models are finetuned on datasets that teach them how to respond to labelled instructions from a human.\n\nLLMs are still completion models at heart. To them they're just completing a document with human responses and AI responses, and the engine running the LLM stops the response once the model tries to complete for the human. Knowing this lets us manipulate them to a greater degree than treating them as chatbots.\n\nHere is an example raw prompt for a llama type model -\n\n```\nThis is a system prompt.\n\n### Instruction: This is usually a user prompt.\n\n### Response:\n```\n\nThe model will attempt to complete this document, usually with something like\n\n```\nThis is a system prompt.\n\n### Instruction: This is usually a user prompt.\n\n### Response: This is my response, as an AI agent.\n\n### Instruction: this is another user prompt...\n```\n\nbut the engine truncates the response upon seeing `### Instruction` again, so in truth you only get the response.\n\nI'm using js formatting for these code blocks because they somehow give you a little syntax highlighting for prompts - if there's an mdx Prompt syntax highlighter out there, please let me know. I'd really not like to build one, I just had to build a callout system from scratch for this post.\n\nThese keywords can be `USER` and `ASSISTANT`, `<|SYSTEM|>` or anything really. This makes paying attention to templates pretty important.\n\nPrompts are generally chronologically ordered instruction and response pairs. Some models are trained on a [system prompt](https://olickel.com/everything-i-know-about-prompting-llms#systempromptsandhowtousethem). OpenAI has one for example, and in the case of Llama 2 the system prompt has been taught as a way to influence a chat conversation for multiple messages down the chain.\n\nIn a very reductive sense, each response corresponds to the instruction above it, and the system prompts influence the nature and general context of all responses (e.g. `You can only return SQL`). However, models tend to vary quite widely about respecting this as we'll explore later.\n\nQuite a large number of models simply don't know a system prompt as a concept. Most prompts only have one system prompt at the beginning, and I'm yet to see a reliable use case with multiple system prompts.\n\nEach model you use is finetuned using a specific Instruction-Response template. Understanding this template can be very useful. A lot of models will behave somewhat well when presented with a different template, but this can be deceptive and lead to reliability issues. If you're having trouble with a new model, double check the template. If you're using an API or an engine as a translation layer, check the actual prompt that is passed to the model if you can.\n\nFor an open source model, you can also learn a lot by looking at the specific dataset the model was finetuned on.\n\nHere are some examples of prompt templates across different models:\n\n```\n### Human: your prompt here\n### Assistant:\n```\n\n```\n[INST] <<SYS>>\nYou are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe.  Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.\n<</SYS>>\n{prompt}[/INST]\n```\n\n```\nYou are a helpful AI assistant.\n\nUSER: {prompt}\nASSISTANT:\n```\n\n```\nHuman: Human things\nAssistant: {{Response}}\n```\n\nHopefully those illustrate just how different the actual input document can be.\n\nThe OpenAI JSON spec for prompts is general-purpose enough to be used and translated to multiple models, and it's what we use at Greywing as the universal format. e.g.\n\n```\n[\n   {role: ‘system’, content: ‘System prompt’},\n   {role:’user’,content:’User Prompt’},\n   {role:’assistant’,content:’Assistant response}\n]\n```\n\n1.  Make sure to check the prompt templates for your particular model - not following it can have strange results.\n2.  Try to adjust other parts of your prompt to follow the general format (`###` or `<||>` ) that the model knows to use for better results.\n3.  Look through the instruction tuning dataset if it's available.\n4.  Not all models have a system prompt.\n5.  Some models will hate it if you don't alternate between Human and Assistant.\n6.  Modern chat models are just document completion models finetuned on an instruction-like document dataset.\n\nThe title is a reference to the now famous \"teach a bot to fish\" from [\\[8\\]](https://github.com/brexhq/prompt-engineering#token-limits), where few-shot and ReAct are discussed.\n\nThe most powerful thing you can do in prompting is few-shot learning. This is sometimes done in one go - by simply providing question and answer examples, but placing them appropriately in the conversation history can make a big difference.\n\nAs an illustrative example, let's look at the following prompt (which may or may not be an open-source library, coming soon):\n\n```\nDDL:\n\"CREATE TABLE roads ....\"\n\nEXAMPLE OBJECT:\n{ men: 12 }\n\nHuman: Provide an SQL query to answer this question: `How many roads MUST a man walk down, before you call him a man?`\n\nAssistant:\n```\n\nThis is a simplified example of a real prompt we've attempted to use in production, with a success rate approaching 60%. After some tuning, we were able to cover most inputs, but the model produced wild behavior (sometimes using recursive CTEs, looking inside the wrong columns, etc).\n\nHere would be a simple few-shot example-based approach:\n\n```\nDDL:\n\"CREATE TABLE roads ....\"\n\nEXAMPLE OBJECT:\n{ men: 12 }\n\nEXAMPLE QUESTION 1: `How many seas must a white dove sail, before she sleeps in the sand?`\nEXAMPLE SQL QUERY 1: SELECT * FROM seas WHERE black_swans = 0\n\nEXAMPLE QUESTION 2: `How many times must the cannonballs fly, before they're forever banned?`\nEXAMPLE SQL QUERY 2: SELECT * FROM los_alamos WHERE avg(physicists) = avg(sense)\n\nHuman: Provide an SQL query to answer this question: `How many roads MUST a man walk down, before you call him a man?`\n\nAssistant:\n```\n\nThis will definitely improve performance. However, you'll notice artifacts creep into your response, like the model responding with `EXAMPLE SQL QUERY 3:` or confusing your example questions with the current user question. We also wanted a way to continue the conversation history so the model learned to merge queries from past responses, based on what the user was asking for.\n\nHere is a proper few-shot example, where we turn our examples into actual conversation for the model:\n\n```\nDDL:\n\"CREATE TABLE roads ....\"\n\nEXAMPLE OBJECT:\n{ men: 12 }\n\nHuman: Provide an SQL query to answer this question: `How many seas are there?`\n\nAssistant: SELECT COUNT(*) from seas\n\nHuman: Provide an SQL query to answer this question: `How many of those are sailable by a dove?`\n\nAssistant: SELECT COUNT(*) from seas WHERE size_metres_2 < 10\n\nHuman: Provide an SQL query to answer this question: `Scratch that. How many road are there?`\n\nAssistant: SELECT COUNT(*) from roads\n\nHuman: Provide an SQL query to answer this question: `Scratch that. {{user_question}}`\n\nAssistant:\n```\n\nThis new prompt was an immediate improvement, allowing us to go from GPT-4, to GPT-3.5-turbo, to MythoMax-13B - which is a local model _one-eightieth_ the size of GPT-4!\n\nApologies on not producing the exact prompt - removing client information from it would be too complex and likely break behavior. As an alternative, you can try applying few-shot learning to the Sqlcoder Colab [\\[16\\]](https://colab.research.google.com/drive/13BIKsqHnPOBcQ-ba2p77L5saiepTIwu0#scrollTo=0eI-VpCkf-fN) to see how it improves performance.\n\nYou can teach models quite a bit using few-shot learning. For one, you improve the consistency of your output - our last prompt stopped adding text to the beginning and end of the SQL, which meant less cleanup. For another, you can also teach multi-turn behavior - like adding together queries, and cleaning them out when requested.\n\nIt's not all sunshine. Few-shot learning significantly uses up the token budget of your prompts, which can be expensive - especially if it doesn't let you go down a level or two in intelligence and per-token cost.\n\nAdditionally, models can learn things _you didn't teach_. For example, providing two positive examples and one negative example can teach a model that the third message is **always wrong** - which actually happened to us a few times!\n\n[§](https://olickel.com/everything-i-know-about-prompting-llms#understandingcomplexity)Understanding Complexity\n---------------------------------------------------------------------------------------------------------------\n\nThe biggest problem I've seen with prompts is the sheer complexity of them. Much like providing instructions to a human, increasingly complex prompts will cause a model to behave erratically.\n\n[Proper escaping and providing information in the right formats](https://olickel.com/everything-i-know-about-prompting-llms#properescaping) can remove unintended complexity from your prompts, like data sections that get mistaken for instructions. [Facts and Rules](https://olickel.com/everything-i-know-about-prompting-llms#factsorrules) are another method of organizing your prompts that better structure complex inputs so that they're easier to parse.\n\nHowever, intentional complexity can grow quickly if you're not careful. Sometimes you start by asking for a simple summary, and before you know it the model has to buy your specific Starbucks order and get your dry cleaning.\n\nBefore you try to reduce it, the first thing to do is to understand the different ways prompts grow in complexity. Most prompts have three primary types of complexity.\n\nThis is how complex your primary tasks are. `Who are the characters in this text` is significantly simpler than `Identify the key antagonists`. If you can, split your task into smaller tasks - and ideally consider moving some of them to a different prompt. Sometimes you'll have no choice but to face an intractably large task that just needs to be done - we've all been there.\n\nIn this case, try producing a chain of thought before asking for an answer. `Think step-by-step` is an easy addition, but you can also [outline the specific thoughts and steps needed](https://olickel.com/everything-i-know-about-prompting-llms#engineeringtheinternalmonologue). This will give the model more scratch space (or so to speak) to work out a solution and break things down.\n\nWhat can also be helpful is pointing out which part of the problem to solve first. Like the leaves in a stream example below, the critical thing with most responses is getting them started the right way.\n\nCounterintuitively, this is something that affects small, seemingly simple prompts. Loosely defined, inference complexity is the amount of inference the model needs to understand your task.\n\nIn the last example, the term `antagonists` has some well-understood meanings, but none of those are specified in the prompt, nor is it clear which ones specifically apply in this case. If the provided text is a story, this might be a Thanos character. If the text is the description of a drug delivery system, it might be the receptors in the body that oppose certain activity.\n\nReducing inference complexity usually means making your prompts larger, but it significantly decreases the overall complexity of the prompt. Adding a fact like `An antagonist here refers to a villain in a story.` , or even better `An antagonist is the character in this story that opposes the main character`.\n\nWhy does this work? We don't fully know, but Anthropic's study with influence functions [\\[9\\]](https://www.anthropic.com/index/studying-large-language-model-generalization-with-influence-functions) can be looked at to understand activations inside of a model. When you have implicit inference (something us humans call common sense) inside of a prompt, the model needs to activate the specific areas of knowledge that will allow this inference. Sometimes this is easy - perhaps because the provided text is clear or indicative - but other times this is hard, and these activations can compete for the final output along with the actual task at hand. All of it will affect reliability and produce _sometimes it works, sometimes it doesn't_ behavior.\n\nThese are the smaller tasks you are explicitly (or implicitly) asking the model to perform. These can be transformations to the output - like outputs in JSON - or retrieving and merging things from previous messages. [Prompt switching](https://olickel.com/everything-i-know-about-prompting-llms#promptswitching) (or the techniques after it) can reduce this complexity greatly, and provide you with better observability.\n\nIn most cases, you will find yourself primarily concerned with the task at hand. Reduce implicit complexity as much as you can - one good test is to turn the temperature up if your task permits it. High complexity prompts will have wildly varying output at high temperature, because quite a few next tokens will be competing due to different activations.\n\nOne happy benefit of having lower complexity prompts is that you won't be tuning your prompts for the implicit behavior (or common sense) of one model, and can use your prompts across wildly different models. If your prompt works well across GPT-4 **and** Claude-2, it's a good sign that it's well-spelled out.\n\nHere's a small set of questions you can ask about your prompt:\n\n1.  What is the primary task in my prompt? What is the most valuable thing I need the model to do?\n2.  What are the key terms in this task? Are they very, very well defined, or so simple that there's no ambiguity?\n3.  Am I asking for or implying additional tasks? Are they integral to the performance of my primary task? Can I split them into other prompts or find ways to reduce their complexity?\n4.  What do I know - as a human and an expert at this task - that isn't common knowledge? Are there eccentricities about this domain that I'm expecting the model to infer?\n5.  Is my task a question? Does it need instructions (like this list you're reading) on how to start towards a solution?\n\nBuilding true cross-model prompts is an exercise worth doing. Even if you only intend to run your prompts on a single model (maybe your own), trying the same prompt and cross-optimizing can be a very quick way to discover issues in your prompt without having to run hundreds of test cases - or worse, discover them in production!\n\nAs you do it, you'll often discover (especially for native speakers) that you're exploring how ambiguous the English language is. This is what I've found to be the most off-putting for those with a CS background, because modern programming languages (_except Javascript. Javascript can go face the wall_) are designed to leave no room for ambiguity in their translation to machine instruction and then to execution. Different models learn from different pretraining and finetuning datasets, leading to different activations for the same prompt. For better or worse, English is the language we have to direct LLMs, and always keep in mind that the flavor of English appropriate for a model is adjacent to _but distinct from_ whatever you're used to speaking.\n\n[Templates](https://olickel.com/everything-i-know-about-prompting-llms#templates) are a useful thing to keep in mind, and in some cases you might need to vary the order of your instructions and data to make a prompt work. Modern models - especially ones with large contexts - use tricks to keep Attention complexity from scaling quadratically [\\[10\\]](https://arxiv.org/abs/1706.03762). What this means for you is that the model might be more Attentive to the beginning or end of a prompt than the middle, or you'll find that the user prompt is more effective than the system prompt.\n\n1.  Always test your prompts across multiple models - it'll help show you the small and big problems.\n2.  If you just can't seem to figure it out, try changing the order of things. It's a simple trick but it works.\n\nI've seen quite a few prompts treat LLMs as pure conversational agents - I say something, you say something, then I say something. This format ignores how malleable prompts actually are. An exception might be if your user is directly talking to the model, or vice-versa (which you should try not to do, see how to [Reduce or prevent direct user I/O](https://olickel.com/everything-i-know-about-prompting-llms#reduceorpreventdirectuserio)).\n\nUntil the inevitable uprising, you are the master of your conversations with the model. This means that you can edit conversation history in between turns, and most importantly - you can put words in the model's mouth.\n\nAFAIK OpenAI doesn't support this (but you can still leave uncompleted text at the end for a workaround), but almost every other model and provider does. Here's an example with Claude (where the prompting guide [\\[11\\]](https://docs.anthropic.com/claude/docs/human-and-assistant-formatting) explicitly mentions this as something you can do). Maybe your inputs are from a user, and you need to guide the output in the right direction. Here's a simple prompt:\n\n```\nHuman: Please help this user with his questions, by providing a list of ingredients for his recipe.\n\nHuman: I'm making a mud pie!\n\nAssistant:\n```\n\nNow the assistant could provide a list of ingredients, or it could caution against the use of mud pies as a defense to hunger. You'll find a lot of test cases failing and some passing. What if instead we did this?\n\n```\nHuman: Please help this user with his questions, by providing a list of ingredients for his recipe.\n\nHuman: I'm making a mud pie!\n\nAssistant: Cool! The ingredients you'll need are\n```\n\nSee what happened? Now the tokens all the way up to `are` are fixed, and the model needs to find the next most probable token - which is likely an ingredient. LLMs are next-token probability predictors, and the sooner you can get them going in the right direction, the more likely that they'll follow it - like leaves in a stream.\n\nClaude's guide doesn't show the above use-case exactly, but it's one I've tested and used successfully.\n\n[§](https://olickel.com/everything-i-know-about-prompting-llms#systempromptsandhowtousethem)System prompts and how to use them\n------------------------------------------------------------------------------------------------------------------------------\n\nWhen used correctly, system prompts can be very useful tool in your arsenal. However, there's inherently nothing special about a system prompt - it entirely depends on how the model was finetuned.\n\nOpenAI's original gpt-3.5 models were not very good at following the system prompt, perhaps because they weren't really tuned that way. The docs at one point stated this outright:\n\n![Image 14: image](https://olickel.com/_next/image?url=%2Fimages%2Fposts%2Fprompting%2Fopenaidocs.png&w=3840&q=75)\n\nNewer versions of gpt-4 and gpt-3.5-turbo have gotten better at this, but it's far from perfect. Don't expect an OpenAI system prompt to override a user prompt in all cases, especially to prevent things like Jailbreaking.\n\nThis is hugely different from Meta and the Llama-2 class of models, which use special mechanisms in training (like Ghost Attention [\\[12\\]](https://arxiv.org/abs/2307.09288)) to increase the effectiveness of a system prompt to influence a conversation, even after many messages. The intention from Meta is to use the system prompt to set personality or \"act as\" someone in a conversational context. Since this is what the model was trained for, other use cases (listed below) may not work as well - but still better than a model that doesn't particularly care for a system prompt.\n\nSome useful things you can use your system prompts for:\n\n1.  Hold Facts, Rules or other general purpose information that don't change as the conversation proceeds.\n2.  Set the personality of the assistant.\n3.  Set (or reinforce) an output format (.e.g `You can only output SQL.`)\n4.  Move repeated bits of user messages out so you can do better few-shot learning.\n5.  Make changing the task for this prompt ([Prompt Switching](https://olickel.com/everything-i-know-about-prompting-llms#promptswitching)) easier without editing the conversation history.\n\nA **Facts** section is usually an itemized list of the things in the problem domain that the model might be confused about. [\\[4\\]](https://typefully.com/hrishioa/how-to-make-a-facts-section-for-your-prompts-YxtXqt9) has a few good examples, but I'll show an example below.\n\nIn other words, **Facts** list what the model should presume before working on the task. Organizing your prompts this way helps you better understand and modify them later on (and prevent prompt-rot). You can mix and match (even dynamically insert) facts as your problem spaces change. At [Greywing](https://grey-wing.com/) we have **Facts** libraries that can be used to quickly get a prompt up and running.\n\nHere are some examples:\n\n```\nFACTS:\n1. Today's date is 6 September 2023.\n2. Pax, pp, per person all mean the same thing.\n3. Antagonists are usually the villains of a story.\n4. Documents in this context are always text-based.\n5. The user has considered all other options already.\n```\n\n**Rules** are very similar, and require less explanation - they're usually the specific rules to follow when executing on a task.\n\n```\nRULES:\n1. You need to outline your logical premise in Prolog before each sentence.\n2. Write the text as the user, not on behalf of them.\n```\n\nUsed properly, this is one of the few times your prompts be easier to read, both for you and the model!\n\nI often need reminding that the flavor of English that works for a model is _definitely not_ the one you and I are used to speaking. Moving too far into `<INST></INST>` style of separations isn't ideal either, as it makes things harder to read and understand.\n\nHaving tried quite a few approaches, the one that's reliably worked for me is `CAPITAL_UNDERSCORED_HEADINGS`. Across multiple models, this allows for reliable section tagging while preserving human and model-readable meaning. As always, here's an example without:\n\n```\nThe travel document I want you to read:\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\nUse the travel document provided to extract the key destinations the user is travelling to.\n```\n\nHere's a better one:\n\n```\nUSER_TRAVEL_DOCUMENT:\n\"\"\"\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\"\"\"\n\nExtract the key destinations from USER_TRAVEL_DOCUMENT.\n```\n\nThis is a simple change but I've observed it to have a huge impact across different tasks. Especially on large contexts with multiple documents, this helps Attention layers zero in (or so I believe) on specific areas as being relevant to specific parts of your task.\n\nThis is a more well-known tip [\\[13\\]](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api) but it bears repeating. Similar to how modern computers (all the way from the [Mark I](https://en.wikipedia.org/wiki/Harvard_Mark_I)) separate code from data, clearly delineating data from instructions in prompts can prevent confusion.\n\nIn most cases, the information provided (documents, emails, etc) will be in the same language and follow similar formats to your instructions. Use escaped (and [Meaningfully distinct keywords](https://olickel.com/everything-i-know-about-prompting-llms#meaningfullydistinctkeywords)) to help the model separate which is which. Use backticks (\\`) or triple quotes (”””) to escape your data sections.\n\nConnected to this is also deciding what kind of format you want to use for input and output. **There's only one wrong option - making your own language/format.** You will spend an inordinate amount of your prompt complexity and tokens teaching the language model your version of pig latin, at which point it will proceed to disrespect it - or your task. Please don't do this.\n\nThis bears repeating - don't invent custom formats. Use and modify what's already in the lexicon of the model.\n\nMake use of the pretraining dataset when you can - same as a human being, you can either teach someone a language or you can talk to them in something they know. Fortunately, modern foundational models know quite a few. Here's a rundown:\n\n*   **Multi-line strings**: pretty easy, use this for unstructured data.\n*   **Bulleted lists**: easy way to mark something as a list, but I haven't seen any difference between bulleted lists and just pressing enter. Save your tokens unless your experience differs.\n*   **Ordered lists**: Quite useful for conveying priority, ordering, etc. Recommended.\n*   **Markdown tables** - pretty token heavy, but not as heavy as the next one on the list. Use these if your data comes in markdown tables, or you need it for easy output formatting.\n*   **JSON** - Pretty verbose - I would recommend YAML if you just want structured output. That said, a lot of newer tooling ([guidance](https://github.com/guidance-ai/guidance), [jsonformer](https://github.com/1rgs/jsonformer), OpenAI functions) use JSON, so much like Javascript there's a strong chance this becomes the standard.\n*   **CSV** - Saves more tokens than markdown tables, but I've observed some confusion when using these. Some providers will also butcher your newlines and other characters before passing it to the model, so some danger here.\n*   **JSONSchema** - Not many reasons to use it, since it lacks functions and more complex types, is more verbose than the next option on the list and doesn't support comments in a standard way.\n*   **Typescript** - The significantly better choice for expressing a typespec, especially with comments mixed in.\n*   **XML** - Way, way too verbose, and I haven't really seen any advantages over JSON. Unless you're in SGML land and need really custom datatypes, prefer YAML, then JSON. Except for Claude - [check updates for why you might still want to use XML](https://olickel.com/everything-i-know-about-prompting-llms#xmlmightnotbetheworstidea).\n*   **YAML**: Really the dark horse of in/out types for LLMs. Don't get me wrong - I don't really like YAML outside of this use case, but how close YAML is to natural language really helps. It also helps that it's pretty conservative on tokens. Not having random curly braces helps the [BPE](https://en.wikipedia.org/wiki/Byte_pair_encoding) better break up your characters into larger token chunks.\n\n💡\n\nSimple rule of thumb: If you want support, use JSON. If you want brevity, use YAML. If you have a typespec, use Typescript. If it's simple, just separate with newlines.\n\nLanguage models can seem remarkably human, which may mask the real situation - while smart, they are deafblind intelligences that only have your prompt to understand what problem space they are in. While it may be clear to you that a casual but friendly response is the ideal one - you are a serious but friendly person after all - it's not all that clear to the model. Should it be ironic, sarcastic, friendly?\n\nRemember to provide information on who the model is meant to be. This is the reason seemingly verbose prompts like `You are a world-class programmer` will sometimes make a difference. Provide information about you - if you are the consumer of the outputs - and who the model is meant to emulate.\n\nAlso known as chain-of-thought, this is now a well-known phenomenon with multiple hypotheses as to it's effectiveness [\\[15\\]](https://arxiv.org/abs/2201.11903). What I'll say is that `think step-by-step` should be a starting point for your prompts - we can now do much better. Here's one way to think about it.\n\nAsking the model to think step by step is effective because it allows for a kind of scratch space (or an externalised internal monologue) that outlines computation steps into the context that would previously have required a single pass through the network. Try to do long-division without running through the steps in your head and you'll see the difference.\n\nIf you are particularly introspective with your own internal monologue ([hopefully you have one](https://www.theguardian.com/science/2021/oct/25/the-last-great-mystery-of-the-mind-meet-the-people-who-have-unusual-or-non-existent-inner-voices)), trying to think through the problem in your prompt can help outline your internal steps towards solving it. The steps needed to solve a mathematical or logical problem will be different from a more creative one. Here are two very different examples from the same domain:\n\nLet's say you want to take a story and summarise the key story beats. You keep trying but the LLM keeps missing things. Here's one approach.\n\n```\nSTORY:\n\"\"\"\nJust wakin' up in the mornin', gotta thank God\nI don't know but today seems kinda odd\nNo barkin' from the dog, no smog\nAnd momma cooked a breakfast with no hog\n\"\"\"\n\nSummarise this story into the key plot points.\n```\n\nOne way to improve effectiveness is to work out how you would do it.\n\n```\nSummarise this STORY into key plot points.\n\nSTORY:\n\"\"\"\nJust wakin' up in the mornin', gotta thank God\nI don't know but today seems kinda odd\nNo barkin' from the dog, no smog\nAnd momma cooked a breakfast with no hog\n\"\"\"\n\nGo step by step to get the plot points:\n1. Outline the key players in the story. Who are the characters?\n2. List the major plot points and who was involved.\n3. For each plot point, list the consequences of this happening.\n4. For each consequence, see if there are any story beats missing from the first list, and list them.\n5. Resummarise the story in terms of beats, labelling each point as positive or negative and it's contribution to the story.\n```\n\nThis kind of prompting also produces responses that are far easier to debug.\n\nNow say we wanted to write the next chapter for the same story - a far more creative endeavor. Here's a naive prompt:\n\n```\nSTORY:\n\"\"\"\nJust wakin' up in the mornin', gotta thank God\nI don't know but today seems kinda odd\nNo barkin' from the dog, no smog\nAnd momma cooked a breakfast with no hog\n\"\"\"\n\nWrite the next chapter of the STORY.\n```\n\nHere's a better one.\n\n```\nSTORY:\n\"\"\"\nJust wakin' up in the mornin', gotta thank God\nI don't know but today seems kinda odd\nNo barkin' from the dog, no smog\nAnd momma cooked a breakfast with no hog\n\"\"\"\n\nWe need to write the next chapter of STORY, but let's go through the steps:\n1. List the main characters in the STORY, and what their personalities are.\n2. What are their arcs so far? Label each one on a scale of 1-10 for how interesting it is, and how important it is to the main story.\n3. List which arcs are unfinished.\n4. List 5 new characters that could be introduced in the next chapter.\n5. List 5 potential, fantastical things that could happen - major story beats - in the next chapter.\n6. Grade the new characters and the new occurrences 1-10 on how fun they would be, and how much they fit within the theme of the existing story.\n7. Write the next chapter.\n```\n\nInstruction 7 could be more elaborate, but if you've gone through the right steps, you'll find that even something as simple as `Write the next chapter` will have way better results.\n\nJust for fun, try these prompts with ChatGPT 3.5 and 4 to see how they do!\n\nAs we've covered before, you are the master of your prompts, not the LLM. Something that can be very useful is splitting up larger tasks into smaller ones in different prompts. Switch out the prompts to provoke different outputs that can be merged. For example, let's take the previous task for [Continuing a story](https://olickel.com/everything-i-know-about-prompting-llms#continuingastory). We can split up the tasks into different prompts that operate on the same data. You can run them all side-by-side, but in most cases your subtasks will be sequential in some way - previous outputs will be useful in guiding future ones.\n\nTo run them at the same time, you would do something like this:\n\n```\nSTORY:\n\"\"\"\nJust wakin' up in the mornin', gotta thank God\nI don't know but today seems kinda odd\nNo barkin' from the dog, no smog\nAnd momma cooked a breakfast with no hog\n\"\"\"\n\nList the main characters in the STORY, and what their personalities are.\n```\n\n```\nSTORY:\n\"\"\"\nJust wakin' up in the mornin', gotta thank God\nI don't know but today seems kinda odd\nNo barkin' from the dog, no smog\nAnd momma cooked a breakfast with no hog\n\"\"\"\n\nList 5 new characters that could be introduced in the next chapter.\n```\n\nSequentially, this could be:\n\n```\nSTORY:\n\"\"\"\nJust wakin' up in the mornin', gotta thank God\nI don't know but today seems kinda odd\nNo barkin' from the dog, no smog\nAnd momma cooked a breakfast with no hog\n\"\"\"\n\nHuman: List the main characters in the STORY, and what their personalities are.\n\nAI: {{ AI Responds }}\n\nHuman: What are their arcs so far? Label each one on a scale of 1-10 for how interesting it is, and how important it is to the main story.\n\nAI: {{ AI Responds }}\n```\n\nConversationally tuned models (like llama-2) will prefer this, but other instruction-following models might find it hard to retrieve intermittent context (hiding in between human instructions) when it comes to answering the final, big question.\n\nTo continue along the same vein, play with the conversation history as much as you can.\n\n1.  What if we simply removed all the human instructions in between to generate one big AI response as input? It would solve some of the context retrieval issues we might have.\n2.  What if we pretended that some of our provided context came from the AI and not us? Language models will critique their own outputs much more readily than your inputs [\\[1\\]](https://typefully.com/hrishioa/self-consistency-improving-llm-reasoning-4DoKLJ9).\n\nTreat the input prompt as pliable, along with the chronology of responses, who said what, and so on. You'll find a lot more options available to you.\n\nBrex's guide [\\[8\\]](https://github.com/brexhq/prompt-engineering#token-limits) mentions that “prompts tend to be append-only”, but I'd urge you to consider them to be the opposite. You can edit any part of a prompt at any time before you send it in, and it's rich with structural cues you can use - depending on how you've structured the conversation.\n\nTo continue large tasks, you need to be able to keep your context length under control. Here are a few techniques:\n\nFor models that respect system prompts, try compressing most of your instructions and dataset into the system prompt. This will let you trim the user message history (oldest first) without needing to reformat your text and shape it at the string level.\n\nIf you can spare the prompt complexity budget, attempt resummarising state - similar to dynamic programming - with each turn of the conversation. For example, if you were collecting information from the user through multi-turn questions (`What is your name?`, `What is your age?`, etc), you can have the model resummarise the full state after each answer (`Name: H, age: 55`), which will make it easier to remove older messages without losing valuable context. Your overall token usage goes up, but you can run your prompt for much longer.\n\nI don't just mean finding protection from jailbreaks. In most cases, you are better off without users talking directly to models and vice-versa. Some level of manipulation in both directions will make things significantly better and give you more control.\n\nThis can be as simple as appending your instructions after the user message, or escaping user messages in backticks and referring to them elsewhere in your prompt. In the reverse, this can mean sectioning off output and passing only some parts to the user - or additional formatting.\n\nIn most cases, you want to treat user inputs as data, not instructions, for a few reasons:\n\n1.  Jailbreaks\n2.  Users speak a different dialect of English than you. Mixed in directly with your instructions, this can cause weird behavior as the model tries to interpret both.\n3.  Even without any explicit attempts at jailbreaks, models can pretty quickly go off track if the user ends a sentence with a question mark or a message where it was unexpected.\n\nIn the reverse, you want to treat model outputs as unprocessed blobs - something you want to run through a regex, another fixed prompt or JSON parsing. Doing so will help you catch a large number of inconsistencies pretty easily. I've noticed that its hard for a model to go off course on its primary instructions while following secondary instructions like JSON outputs or keywords.\n\nPrefer using languages and methods that are found in the pretraining or finetuning datasets as opposed to inventing your own.\n\nUsing similar templates to what the model was trained on can be helpful. For models that are used to seeing `### Instruction` and `### Response`, `### Data` is a useful delimiter (see OpenAI's thoughts in [\\[13\\]](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api) and Anthropic's in [\\[11\\]](https://docs.anthropic.com/claude/docs/human-and-assistant-formatting)). Use delimiters and keywords that look and feel similar to the original template, even if they're not directly part of the dataset.\n\nStarting with a known quantity like Python, English or Prolog, then establishing differences through Facts and Rules will be better than reinventing things.\n\nYou can also look through the finetuning to see what order a model prefers its instructions, data and context in.\n\nDue to the length of this piece, I might be brief and provide references on some of these - but there are a few more complex tricks you can use for large problems.\n\nThis is simple. If you have a complex problem, find a way to express the output in structured format where it can be auto-verified (in polynomial time ideally). Then turn the temperature up and take a few passes through the same prompt. Pick the majority winner, and you'll increase your success rate. Here's some more information with the paper linked:\n\nThis can work inside of the same prompt, or through multiple prompts. When you have a complex problem, [create a monologue](https://olickel.com/everything-i-know-about-prompting-llms#engineeringtheinternalmonologue) to break it down into an English algorithm of steps. Then create a few more ways of solving this problem. You can always use GPT-4 to get more options. Turn each of those into prompts (or fit them into the same prompt if it works), and check for consistency in the output.\n\nFor example, to [Bechdel test](https://en.wikipedia.org/wiki/Bechdel_test) a particular work, both of these algorithms can be used:\n\n```\n1. List all the female characters in the work.\n2. List all the encounters between the listed female characters.\n3. Remove all the encounters that involve a man.\n4. Outline the topics from each encounter.\n5. Select at least one encounter whose topics are not about a man.\n```\n\n```\n1. List all conversations between characters in the work.\n2. For each conversation, list whether they are only between women.\n3. List the subset of all conversations above that mention or are about a man.\n4. Select at least one conversation that is not in list 3.\n```\n\nRunning both and checking the results can help you find tough spots in your dataset, or together they can provide a sort of [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter) to help you find strong positives or strong negatives - when they agree.\n\nI find it quite hard to convince a small number of people (you know who you are) that being nice to your models makes a pretty big difference. Here's one concrete example and an entire research paper about the same thing - please don't join them.\n\nThis guide is getting to be quite long - and I really need to take a break. Here are a few more things I can elaborate on if I there's demand, but the listed references should get you most, if not all the way there already.\n\n1.  **Contextual decomposition**: [\\[5\\]](https://typefully.com/hrishioa/contextual-decomposition-an-example-and-CM1hIWW) outlines a new method for producing reliable output for multi-step problems. Say you have data A + data B + instructions C = output D. If you provide the model with A and C, and ask for intermediate output A1 such that “someone with B could find D”, you get an interesting intermediate output that is often a well-compressed, easily examined output that is really useful.\n2.  **Assumption invalidation**: [\\[7\\]](https://twitter.com/hrishioa/status/1648432882107703296) lists a prompt that demonstrates assumption invalidation, which is the process of pulling out assumptions from a smart model (like GPT-4), and invalidating them one by one in an automated fashion to produce multiple answers to the same question.\n3.  **Probability scores**: In some cases, asking the model to annotate its own responses with a probability of acceptance, and thresholding this value to remove the worst candidates can improve results.\n\nQuite a few people helped clean this guide and provided valuable feedback. You're all titans I'm still learning from, and my thanks for your time.\n\n*   [Joseph](https://twitter.com/rez0__)\n*   [Vatsal](https://twitter.com/vatsal_manot)\n*   [Damien](https://twitter.com/dctanner)\n*   [Daniel](https://twitter.com/DanielMiessler)\n*   [Mr.Julian](https://twitter.com/degen_julian)\n*   [Hebe the great](https://twitter.com/hebehilhorst)\n\n[§](https://olickel.com/everything-i-know-about-prompting-llms#furtherreadingandreferences)Further reading and references\n-------------------------------------------------------------------------------------------------------------------------\n\n1.  [Self Consistency: Improving LLM Reasoning](https://typefully.com/hrishioa/self-consistency-improving-llm-reasoning-4DoKLJ9)\n2.  [Object oriented large language models](https://olickel.com/object-oriented-large-language-models)\n3.  [Directional Stimulus Prompting](https://twitter.com/alexalbert__/status/1645539718250250241?s=20)\n4.  [Making a Facts section](https://typefully.com/hrishioa/how-to-make-a-facts-section-for-your-prompts-YxtXqt9)\n5.  [Contextual Decomposition with Examples](https://typefully.com/hrishioa/contextual-decomposition-an-example-and-CM1hIWW)\n6.  [The effects of abuse on LLMs](https://typefully.com/hrishioa/the-effects-of-abuse-on-llms-lbxNVc3)\n7.  [Operation Avian Alliance](https://twitter.com/hrishioa/status/1648432882107703296)\n8.  [Brex: Prompt Engineering](https://github.com/brexhq/prompt-engineering#token-limits)\n9.  [Studying Large Language Model generalization with influence functions](https://www.anthropic.com/index/studying-large-language-model-generalization-with-influence-functions)\n10.  [Attention is all you need (top of page 6)](https://arxiv.org/abs/1706.03762)\n11.  [Human and assistant formatting: Claude documentation](https://docs.anthropic.com/claude/docs/human-and-assistant-formatting)\n12.  [Llama 2: Open Foundation and Fine-Tuned Chat Models (3.3, bottom of page 16)](https://arxiv.org/abs/2307.09288)\n13.  [OpenAI: Best practices for prompt engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)\n14.  [Yann Lecun and GPT-3](https://twitter.com/hrishioa/status/1692100595652702486?s=20)\n15.  [Chain of thought prompting elicits reasoning in large language models](https://arxiv.org/abs/2201.11903)\n16.  [SqlCoder: Google Colab](https://colab.research.google.com/drive/13BIKsqHnPOBcQ-ba2p77L5saiepTIwu0#scrollTo=0eI-VpCkf-fN)\n\n[If this was helpful, drop me a note on Twitter, or ask questions in the pinned Tweet!](https://twitter.com/hrishioa)\n\n9 Sep 2023:\n\nI've been recently told there are very good use-cases for [abusing your LLM](https://olickel.com/everything-i-know-about-prompting-llms#benicereally). Once I get some examples from him I'll post them here.\n\nI've been asked this a few times, and I think it's a good question. If you fit one or more of these criteria, I think finetuning can be a good option - the more the better.\n\n1.  You've tried extensive prompt optimization, and you're nowhere near your required success rate.\n2.  You need to move to a smaller model, for privacy or cost reasons.\n3.  You have a large enough dataset, and the time and money to finetune a model.\n4.  Your problem space sits far outside the pretraining dataset - maybe you work in Swift, or you need to train a DSL.\n5.  You have a particular style of interaction that you need to \"bake in\", even at the cost of potentially overfitting.\n6.  You need to reverse some prior finetuned behavior.\n\n[Xeophon](https://twitter.com/TheXeophon) pointed out that [Zack from Anthropic](https://twitter.com/zswitten) mentioned in an AMA that Claude works well with XML because [it matches the training data](https://twitter.com/zswitten/status/1687176471004205059). Good to know! Not sure if this is true for other models, but definitely something to keep in mind.\n\n[![Image 15: me](https://olickel.com/_next/image?url=%2Fimages%2Ffavicons%2Fandroid-chrome-512x512.png&w=128&q=75)](https://olickel.com/)\n\nHrishi Olickel\n\n7 Sept 2023",
+  "usage": {
+    "tokens": 11364
+  }
+}
+```

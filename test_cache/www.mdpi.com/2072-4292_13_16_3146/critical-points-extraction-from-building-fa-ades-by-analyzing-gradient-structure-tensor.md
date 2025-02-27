@@ -1,0 +1,2535 @@
+---
+title: Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor
+description: This paper proposes a building façade contouring method from LiDAR (Light Detection and Ranging) scans and photogrammetric point clouds. To this end, we calculate the confidence property at multiple scales for an individual point cloud to measure the point cloud’s quality. The confidence property is utilized in the definition of the gradient for each point. We encode the individual point gradient structure tensor, whose eigenvalues reflect the gradient variations in the local neighborhood areas. The critical point clouds representing the building façade and rooftop (if, of course, such rooftops exist) contours are then extracted by jointly analyzing dual-thresholds of the gradient and gradient structure tensor. Based on the requirements of compact representation, the initial obtained critical points are finally downsampled, thereby achieving a tradeoff between the accurate geometry and abstract representation at a reasonable level. Various experiments using representative buildings in Semantic3D benchmark and other ubiquitous point clouds from ALS DublinCity and Dutch AHN3 datasets, MLS TerraMobilita/iQmulus 3D urban analysis benchmark, UAV-based photogrammetric dataset, and GeoSLAM ZEB-HORIZON scans have shown that the proposed method generates building contours that are accurate, lightweight, and robust to ubiquitous point clouds. Two comparison experiments also prove the superiority of the proposed method in terms of topological correctness, geometric accuracy, and representation compactness.
+url: https://www.mdpi.com/2072-4292/13/16/3146
+timestamp: 2025-01-20T15:42:28.311Z
+domain: www.mdpi.com
+path: 2072-4292_13_16_3146
+---
+
+# Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor
+
+
+This paper proposes a building façade contouring method from LiDAR (Light Detection and Ranging) scans and photogrammetric point clouds. To this end, we calculate the confidence property at multiple scales for an individual point cloud to measure the point cloud’s quality. The confidence property is utilized in the definition of the gradient for each point. We encode the individual point gradient structure tensor, whose eigenvalues reflect the gradient variations in the local neighborhood areas. The critical point clouds representing the building façade and rooftop (if, of course, such rooftops exist) contours are then extracted by jointly analyzing dual-thresholds of the gradient and gradient structure tensor. Based on the requirements of compact representation, the initial obtained critical points are finally downsampled, thereby achieving a tradeoff between the accurate geometry and abstract representation at a reasonable level. Various experiments using representative buildings in Semantic3D benchmark and other ubiquitous point clouds from ALS DublinCity and Dutch AHN3 datasets, MLS TerraMobilita/iQmulus 3D urban analysis benchmark, UAV-based photogrammetric dataset, and GeoSLAM ZEB-HORIZON scans have shown that the proposed method generates building contours that are accurate, lightweight, and robust to ubiquitous point clouds. Two comparison experiments also prove the superiority of the proposed method in terms of topological correctness, geometric accuracy, and representation compactness.
+
+
+## Content
+
+ menu
+ 
+Search:
+All Journals
+Acoustics
+Acta Microbiologica Hellenica (AMH)
+Actuators
+Adhesives
+Administrative Sciences
+Adolescents
+Advances in Respiratory Medicine (ARM)
+Aerobiology
+Aerospace
+Agriculture
+AgriEngineering
+Agrochemicals
+Agronomy
+AI
+Air
+Algorithms
+Allergies
+Alloys
+Analytica
+Analytics
+Anatomia
+Anesthesia Research
+Animals
+Antibiotics
+Antibodies
+Antioxidants
+Applied Biosciences
+Applied Mechanics
+Applied Microbiology
+Applied Nano
+Applied Sciences
+Applied System Innovation (ASI)
+AppliedChem
+AppliedMath
+Aquaculture Journal
+Architecture
+Arthropoda
+Arts
+Astronomy
+Atmosphere
+Atoms
+Audiology Research
+Automation
+Axioms
+Bacteria
+Batteries
+Behavioral Sciences
+Beverages
+Big Data and Cognitive Computing (BDCC)
+BioChem
+Bioengineering
+Biologics
+Biology
+Biology and Life Sciences Forum
+Biomass
+Biomechanics
+BioMed
+Biomedicines
+BioMedInformatics
+Biomimetics
+Biomolecules
+Biophysica
+Biosensors
+Biosphere
+BioTech
+Birds
+Blockchains
+Brain Sciences
+Buildings
+Businesses
+C
+Cancers
+Cardiogenetics
+Catalysts
+Cells
+Ceramics
+Challenges
+ChemEngineering
+Chemistry
+Chemistry Proceedings
+Chemosensors
+Children
+Chips
+CivilEng
+Clean Technologies (Clean Technol.)
+Climate
+Clinical and Translational Neuroscience (CTN)
+Clinical Bioenergetics
+Clinics and Practice
+Clocks & Sleep
+Coasts
+Coatings
+Colloids and Interfaces
+Colorants
+Commodities
+Complications
+Compounds
+Computation
+Computer Sciences & Mathematics Forum
+Computers
+Condensed Matter
+Conservation
+Construction Materials
+Corrosion and Materials Degradation (CMD)
+Cosmetics
+COVID
+Craniomaxillofacial Trauma & Reconstruction (CMTR)
+Crops
+Cryo
+Cryptography
+Crystals
+Current Issues in Molecular Biology (CIMB)
+Current Oncology
+Dairy
+Data
+Dentistry Journal
+Dermato
+Dermatopathology
+Designs
+Diabetology
+Diagnostics
+Dietetics
+Digital
+Disabilities
+Diseases
+Diversity
+DNA
+Drones
+Drugs and Drug Candidates (DDC)
+Dynamics
+Earth
+Ecologies
+Econometrics
+Economies
+Education Sciences
+Electricity
+Electrochem
+Electronic Materials
+Electronics
+Emergency Care and Medicine
+Encyclopedia
+Endocrines
+Energies
+Energy Storage and Applications (ESA)
+Eng
+Engineering Proceedings
+Entropy
+Environmental and Earth Sciences Proceedings
+Environments
+Epidemiologia
+Epigenomes
+European Burn Journal (EBJ)
+European Journal of Investigation in Health, Psychology and Education (EJIHPE)
+Fermentation
+Fibers
+FinTech
+Fire
+Fishes
+Fluids
+Foods
+Forecasting
+Forensic Sciences
+Forests
+Fossil Studies
+Foundations
+Fractal and Fractional (Fractal Fract)
+Fuels
+Future
+Future Internet
+Future Pharmacology
+Future Transportation
+Galaxies
+Games
+Gases
+Gastroenterology Insights
+Gastrointestinal Disorders
+Gastronomy
+Gels
+Genealogy
+Genes
+Geographies
+GeoHazards
+Geomatics
+Geometry
+Geosciences
+Geotechnics
+Geriatrics
+Glacies
+Gout, Urate, and Crystal Deposition Disease (GUCDD)
+Grasses
+Green Health
+Hardware
+Healthcare
+Hearts
+Hemato
+Hematology Reports
+Heritage
+Histories
+Horticulturae
+Hospitals
+Humanities
+Humans
+Hydrobiology
+Hydrogen
+Hydrology
+Hygiene
+Immuno
+Infectious Disease Reports
+Informatics
+Information
+Infrastructures
+Inorganics
+Insects
+Instruments
+Intelligent Infrastructure and Construction
+International Journal of Environmental Research and Public Health (IJERPH)
+International Journal of Financial Studies (IJFS)
+International Journal of Molecular Sciences (IJMS)
+International Journal of Neonatal Screening (IJNS)
+International Journal of Orofacial Myology and Myofunctional Therapy (IJOM)
+International Journal of Plant Biology (IJPB)
+International Journal of Topology
+International Journal of Translational Medicine (IJTM)
+International Journal of Turbomachinery, Propulsion and Power (IJTPP)
+International Medical Education (IME)
+Inventions
+IoT
+ISPRS International Journal of Geo-Information (IJGI)
+J
+Journal of Ageing and Longevity (JAL)
+Journal of Cardiovascular Development and Disease (JCDD)
+Journal of Clinical & Translational Ophthalmology (JCTO)
+Journal of Clinical Medicine (JCM)
+Journal of Composites Science (J. Compos. Sci.)
+Journal of Cybersecurity and Privacy (JCP)
+Journal of Dementia and Alzheimer's Disease (JDAD)
+Journal of Developmental Biology (JDB)
+Journal of Experimental and Theoretical Analyses (JETA)
+Journal of Eye Movement Research (JEMR)
+Journal of Functional Biomaterials (JFB)
+Journal of Functional Morphology and Kinesiology (JFMK)
+Journal of Fungi (JoF)
+Journal of Imaging (J. Imaging)
+Journal of Intelligence (J. Intell.)
+Journal of Low Power Electronics and Applications (JLPEA)
+Journal of Manufacturing and Materials Processing (JMMP)
+Journal of Marine Science and Engineering (JMSE)
+Journal of Market Access & Health Policy (JMAHP)
+Journal of Mind and Medical Sciences (JMMS)
+Journal of Molecular Pathology (JMP)
+Journal of Nanotheranostics (JNT)
+Journal of Nuclear Engineering (JNE)
+Journal of Otorhinolaryngology, Hearing and Balance Medicine (JOHBM)
+Journal of Parks
+Journal of Personalized Medicine (JPM)
+Journal of Pharmaceutical and BioTech Industry (JPBI)
+Journal of Respiration (JoR)
+Journal of Risk and Financial Management (JRFM)
+Journal of Sensor and Actuator Networks (JSAN)
+Journal of the Oman Medical Association (JOMA)
+Journal of Theoretical and Applied Electronic Commerce Research (JTAER)
+Journal of Vascular Diseases (JVD)
+Journal of Xenobiotics (JoX)
+Journal of Zoological and Botanical Gardens (JZBG)
+Journalism and Media
+Kidney and Dialysis
+Kinases and Phosphatases
+Knowledge
+LabMed
+Laboratories
+Land
+Languages
+Laws
+Life
+Limnological Review
+Lipidology
+Liquids
+Literature
+Livers
+Logics
+Logistics
+Lubricants
+Lymphatics
+Machine Learning and Knowledge Extraction (MAKE)
+Machines
+Macromol
+Magnetism
+Magnetochemistry
+Marine Drugs
+Materials
+Materials Proceedings
+Mathematical and Computational Applications (MCA)
+Mathematics
+Medical Sciences
+Medical Sciences Forum
+Medicina
+Medicines
+Membranes
+Merits
+Metabolites
+Metals
+Meteorology
+Methane
+Methods and Protocols (MPs)
+Metrics
+Metrology
+Micro
+Microbiology Research
+Micromachines
+Microorganisms
+Microplastics
+Microwave
+Minerals
+Mining
+Modelling
+Modern Mathematical Physics
+Molbank
+Molecules
+Multimodal Technologies and Interaction (MTI)
+Muscles
+Nanoenergy Advances
+Nanomanufacturing
+Nanomaterials
+NDT
+Network
+Neuroglia
+Neurology International
+NeuroSci
+Nitrogen
+Non-Coding RNA (ncRNA)
+Nursing Reports
+Nutraceuticals
+Nutrients
+Obesities
+Oceans
+Onco
+Optics
+Oral
+Organics
+Organoids
+Osteology
+Oxygen
+Parasitologia
+Particles
+Pathogens
+Pathophysiology
+Pediatric Reports
+Pets
+Pharmaceuticals
+Pharmaceutics
+Pharmacoepidemiology
+Pharmacy
+Philosophies
+Photochem
+Photonics
+Phycology
+Physchem
+Physical Sciences Forum
+Physics
+Physiologia
+Plants
+Plasma
+Platforms
+Pollutants
+Polymers
+Polysaccharides
+Populations
+Poultry
+Powders
+Proceedings
+Processes
+Prosthesis
+Proteomes
+Psychiatry International
+Psychoactives
+Psychology International
+Publications
+Quantum Beam Science (QuBS)
+Quantum Reports
+Quaternary
+Radiation
+Reactions
+Real Estate
+Receptors
+Recycling
+Regional Science and Environmental Economics (RSEE)
+Religions
+Remote Sensing
+Reports
+Reproductive Medicine (Reprod. Med.)
+Resources
+Rheumato
+Risks
+Robotics
+Ruminants
+Safety
+Sci
+Scientia Pharmaceutica (Sci. Pharm.)
+Sclerosis
+Seeds
+Sensors
+Separations
+Sexes
+Signals
+Sinusitis
+Smart Cities
+Social Sciences
+Société Internationale d’Urologie Journal (SIUJ)
+Societies
+Software
+Soil Systems
+Solar
+Solids
+Spectroscopy Journal
+Sports
+Standards
+Stats
+Stresses
+Surfaces
+Surgeries
+Surgical Techniques Development
+Sustainability
+Sustainable Chemistry
+Symmetry
+SynBio
+Systems
+Targets
+Taxonomy
+Technologies
+Telecom
+Textiles
+Thalassemia Reports
+Therapeutics
+Thermo
+Time and Space
+Tomography
+Tourism and Hospitality
+Toxics
+Toxins
+Transplantology
+Trauma Care
+Trends in Higher Education
+Tropical Medicine and Infectious Disease (TropicalMed)
+Universe
+Urban Science
+Uro
+Vaccines
+Vehicles
+Venereology
+Veterinary Sciences
+Vibration
+Virtual Worlds
+Viruses
+Vision
+Waste
+Water
+Wild
+Wind
+Women
+World
+World Electric Vehicle Journal (WEVJ)
+Youth
+Zoonotic Diseases
+All Article Types
+Article
+Review
+Communication
+Editorial
+Abstract
+Book Review
+Brief Communication
+Brief Report
+Case Report
+Clinicopathological Challenge
+Comment
+Commentary
+Concept Paper
+Conference Report
+Correction
+Creative
+Data Descriptor
+Discussion
+Entry
+Essay
+Expression of Concern
+Extended Abstract
+Field Guide
+Giants in Urology
+Guidelines
+Hypothesis
+Interesting Images
+Letter
+New Book Received
+Obituary
+Opinion
+Perspective
+Proceeding Paper
+Project Report
+Protocol
+Registered Report
+Reply
+Retraction
+Short Note
+Study Protocol
+Systematic Review
+Technical Note
+Tutorial
+Urology around the World
+Viewpoint
+Advanced
+ 
+Journals  Remote Sensing  Volume 13  Issue 16  10.3390/rs13163146 
+Submit to this Journal Review for this Journal Propose a Special Issue
+Article Menu
+Academic Editor
+Belen Riveiro
+Subscribe SciFeed
+Related Info Link
+More by Authors Links
+Table of Contents
+share
+Share
+announcement
+Help
+format_quote
+Cite
+question_answer
+Discuss in SciProfiles
+thumb_up
+Endorse
+textsms
+Comment
+settings
+Order Article Reprints
+Open AccessArticle
+Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor
+by Dong Chen 1,Jing Li 1,†,Shaoning Di 1,2,†,Jiju Peethambaran 3,*,Guiqiu Xiang 1,Lincheng Wan 1 andXianghong Li 1
+1
+College of Civil Engineering, Nanjing Forestry University, Nanjing 210037, China
+2
+School of Geosciences and Info Physics, Central South University, Changsha 410083, China
+3
+Department of Mathematics and Computing Science, Saint Mary’s University, Halifax, NS B3P 2M6, Canada
+*
+Author to whom correspondence should be addressed.
+†
+These authors contributed equally to this work.
+Remote Sens. 2021, 13(16), 3146; https://doi.org/10.3390/rs13163146
+Submission received: 23 June 2021 / Revised: 27 July 2021 / Accepted: 3 August 2021 / Published: 9 August 2021
+(This article belongs to the Special Issue Advances in Deep Learning Based 3D Scene Understanding from LiDAR)
+
+Download
+keyboard_arrow_down
+ Browse Figures Review Reports Versions Notes
+
+Abstract
+: This paper proposes a building façade contouring method from LiDAR (Light Detection and Ranging) scans and photogrammetric point clouds. To this end, we calculate the confidence property at multiple scales for an individual point cloud to measure the point cloud’s quality. The confidence property is utilized in the definition of the gradient for each point. We encode the individual point gradient structure tensor, whose eigenvalues reflect the gradient variations in the local neighborhood areas. The critical point clouds representing the building façade and rooftop (if, of course, such rooftops exist) contours are then extracted by jointly analyzing dual-thresholds of the gradient and gradient structure tensor. Based on the requirements of compact representation, the initial obtained critical points are finally downsampled, thereby achieving a tradeoff between the accurate geometry and abstract representation at a reasonable level. Various experiments using representative buildings in Semantic3D benchmark and other ubiquitous point clouds from ALS DublinCity and Dutch AHN3 datasets, MLS TerraMobilita/iQmulus 3D urban analysis benchmark, UAV-based photogrammetric dataset, and GeoSLAM ZEB-HORIZON scans have shown that the proposed method generates building contours that are accurate, lightweight, and robust to ubiquitous point clouds. Two comparison experiments also prove the superiority of the proposed method in terms of topological correctness, geometric accuracy, and representation compactness.
+Keywords: critical points; gradient; gradient structure tensor; simplification; building façade; Semantic3D; DublinCity; Dutch AHN3; potogrammetric point clouds; GeoSLAM
+
+Graphical Abstract
+1. Introduction
+Building contours are the most significant component of the geometric features of a building. As the most basic and critical feature, building contours provide the foundations for scene understanding [1], semantic annotation [2], and 3D abstract perception [3]. In the initial stage of computer vision, a majority of contouring methods are image-based because the “linear” features of images are more accurate when the resolution is guaranteed. Further, the contour of images has a clear definition: the image pixels at the discontinuities in gray level, color, texture, etc. [4]. These discontinuities produce four types of edge profiles which are step, ramp, roof, and ridge edges [5]. The building contour feature is an important feature for image segmentation [6], image understanding [7], and image recognition [8]; however, as image-based contouring cannot fully describe the 3D geometric shapes of complex objects, it is not directly applicable to applications in 3D scene recognition and geometric expression. Recently, the company ESRI (https://www.esri.com/en-us/home, last accessed on 6 August 2021) used the deep learning framework, i.e., MaskRCNN [9], to extract accurate building contours from high-resolution aerial and satellite imagery. The deep learning framework is capable of learning complex semantics and obtaining accurate building contours by training a network on a big dataset. Using deep learning for building contouring from aerial and satellite imagery is also computationally efficient compared with digitizing building features manually; however, it should be noted that the created building contours from aerial and satellite imagery are only 2D building footprints rather than 2.5D building highmaps or 3D building envelops.
+In the past two decades, with the improvement of LiDAR sensor technology, the density and precision of point clouds have been significantly improved. The point clouds are sufficient to describe the global structure features and the local detailed geometric features, which facilitate critical points extraction from point clouds [10]. Despite this, it should be noted that the outdoor scenes are complex and the scans are frequently contaminated by noise, outliers, and missing data caused by occlusion and/or self-occlusion. These adverse factors present a huge challenge for the intelligent extraction of building contours. One should be aware that the term “critical points” has not yet been clearly defined in the context of point clouds [11]. Compared with feature extraction from the images, the feature extraction from the discrete point clouds is far from being mature, and there is still much room for improvement. In this paper, we explicitly define the term “critical points” in the context of 3D point clouds to avoid ambiguity. It contains three types of point sets: (1) corner points: the intersections of three non-parallel planes; (2) edge points: the intersections between two consecutive pairs of planes; (3) boundary points: the outer boundaries of planes, the boundaries of the inner holes, such as the frames of the windows, and the boundaries caused by missing data.
+Critical point extraction is the basis of many applications, such as 3D reconstruction [12,13,14,15], registration [16,17,18], target detection [19,20,21], and data simplification [22]. The critical points of buildings are important of the intermediate inputs for 3D reconstruction. For instance, Mineo et al. [13] propose an algorithm to generate tessellated meshes from point clouds by combing boundary points (a subset of critical points) extraction method and a Fourier transform based spatial filtering. The two stage method of [13] is insensitive to predefined thresholds and superior to methods based on polynomial fitting for 3D reconstruction. Critical points of the objects can also be regarded as the feature points for the registration of multiple scans. For example, Choi et al. [18] use the organized structure information (such as 3D shape information and photometric texture information) of RGB-D images to effectively detect critical points. These detected critical points are applied in edge-based pair-wise registration and a pose-graph SLAM problem based on this registration. The advantages of the registration algorithm based on the detected critical points are verified from both qualitative and quantitative perspectives. Critical point extraction is also the basis of many target detection methods. For example, Wang et al. [21] first extract the critical points of windows, and then realize detection and recognition of window targets by considering the position of windows. This method is robust to noisy data but is not suitable for window detection in complex and large-scale scenes. Data simplification can be achieved by extracting the critical points of objects. In this line, Song and Feng [22] propose a simplification algorithm to reduce the number of points of mechanical parts. This algorithm first identifies these critical points, and then gradually deletes the least important data points until the specified data reduction ratio is reached. The effectiveness of the simplification [22] is verified by the simplified results of several actual point cloud datasets.
+The contour feature of point clouds is fundamental to many applications. We can generally categorize the existing contouring methods into two types based on the spatial dimensions in which the contouring is performed: image-based contouring methods and LiDAR-based contouring methods.
+(1) Image-based Contouring: The contouring methods in images are more mature than in 3D point clouds. Many methods project the input 3D point cloud onto an image, and directly use the existing contouring methods of images to extract contour pixels. In this line, some methods convert point clouds into grayscale images. For example, Li et al. [23] generate a corresponding grayscale image and then determine the critical points based on the contours detected in the grayscale image; however, this method is only for the extraction of the roof contours of buildings. Similarly, Poullis [24] converts the building roof points into a binary image, and then use the contouring method in the binary image to extract the roof contours. Converting the point clouds into a distance image is another commonly used method. Wang et al. [25] detect the contours in the 2D grayscale image and the distance image. Then multiple sets of contour pixels generated from grayscale and distance images are combined to finalize the contour generation from 3D point clouds. This method not only extracts the contours of the buildings but also regularizes it. Apart from the above methods, there are methods that establish the correspondences between the image pixels and the corresponding 3D point clouds to maintain accurate feature pairs. For example, Li et al. [26] use the elevation difference in the point clouds to extract rough contours, and then project these rough contours onto the image for compact contour extraction. This method has strong robustness in complex scenes. Chen et al. [27] match a single scene of point clouds with a single corresponding image to realize critical point detection. This method reduces the computational complexity.
+(2) LiDAR-based Contouring: Since the 3D point clouds contain the intrinsic structure information and topological relationship of object parts, the intrinsic information of 3D point clouds, such as curvature, normal vector, and gradient can also be used for the extraction of critical points. For instance, Yang and Zang [28] use local curvature as an edge index and select points with curvature higher than the given threshold as critical points. This method is suitable for contouring in small objects with high-quality point clouds. Demarsin et al. [29] first perform first-order segmentation and extraction of critical points based on normal vector estimation, and then organize the generated segments into a graph to restore sharp feature lines. Essentially, most of the edges can also be seen as intersections of surfaces. Borges et al. [30] divide the point clouds into planes and then locate critical points by calculating the intersection lines between adjacent planes; however, this method is not suitable for extracting the critical points from the objects with the small fragment of the planes. To solve this problem, Ni et al. [31] project adjacent points on a local plane and then extract critical points according to the angular gap metric. This method can achieve good results from the small scenes with high-quality point clouds, but for large and complex scenes, parameter tuning is an extremely difficult task.
+In summary, image-based contouring methods need to rasterize 3D point clouds onto regular 2D images and use more mature image edge detection algorithms to extract various contour pixels; however, this type of method ignores the spatial information and topological relationship of the 3D point clouds and loses precision during coordinate transformation. Although LiDAR-based contouring methods overcome these drawbacks, this type of method is only suitable for contouring some specific objects, such as buildings, road curbs, and tree skeletons. It requires accurate segmentation and target recognition from 3D raw points [32], and it is difficult to control the thickness of the extracted critical points.
+In this paper, we propose a method to extract critical points of buildings from 3D discrete point clouds. More specifically, the point confidence indicating the local quality of point clouds is estimated. After that, the 3D gradient of individual point is defined. The gradient of point clouds is successively encoded into 3 × 3 structure tensor whose eigenvalues represent the distribution of gradients in the local neighborhood. The problem of the façade critical points extraction can be transformed into the problem of analyzing eigenvalues of structure tensor along three eigenvectors. Considering the detected critical points are relatively thick, these critical points are refined by the concept of contour simplification. The proposed method is not only more accurate than the existing methods which directly derive contour features in 3D point clouds, but also superior to the projected contouring methods, which convert 3D point clouds into 2D images followed by image-based contouring [33]. In addition, the results of the proposed method have high precision and the method is capable of controlling the degree of contour thickness easily. Considering our work is built on the previous works, we explicitly denote the novel contributions of the paper.
+Building façade contouring framework: We propose a generic framework for building façade contouring from LiDAR and photogrammetric point clouds. The framework consists of five steps including confidence measure estimation, 3D gradient calculation, gradient structure tensor encoding, dual-threshold criterion, and simplification. These steps loosely coupled interact in the pipeline (see Figure 1) to enhance the flexibility of the framework, thereby achieving a tradeoff between geometric accuracy and compact abstraction of building façades.
+Gradient structure tensor encoding: We encode each point’s structure tensor, which describes the gradient variation in the local neighborhood areas. Through analyzing each point’s structure tensor, building point clouds can be roughly labeled into corner points, edge points, boundary points, and constant points (see Section 2.3).
+The solid experiments and effective comparisons: We provide qualitative and quantitative performance evaluations using five datasets, and give two comparisons with the state-of-the-art methods to demonstrate the superiority of the proposed method in terms of topological correctness, geometric accuracy, and compact abstraction.
+The reminder of this paper is organized as follows. Section 2 describes the detailed methodology including 3D gradient definition, gradient structure tensor encoding, dual-threshold criterion, and the concept of refinement. In Section 3, the experimental datasets, the performance evaluation of building contours are presented, analyzed, and discussed. Finally, Section 4 concludes the paper along with a few suggestions for future research topics.
+2. Methodology
+To generate a compact set of critical points of building façades and rooftops (if, of course, such rooftops exist), we propose the methodology that consists of the following steps that are denoted in Figure 1. The confidence measure of each point is estimated by the eigenvalue analysis of covariance matrix established in a local neighborhood (see Figure 1b), followed by the calculation of the gradient of each point cloud in 3D space (see Figure 1c). The point’s gradient is then decomposed into three components along with the corresponding coordinate axis. We encode gradient information of the point cloud into a 3 × 3 structure tensor, whose eigenvalues can reflect the gradient distribution in the local neighborhood of each point. (see Figure 1d). After that, the confidence measure and the gradient structure tensor of each point are both provided as inputs to the proposed dual-threshold method, which determines whether the current point under processing is a critical point or not (see Figure 1e). In the final step, we simplify the results to provide a highly compact set of critical points, thereby enhancing the flexibility of building façade abstraction (see Figure 1f).
+2.1. Confidence Estimation
+Confidence measures the local quality of point clouds within a small sphere centered at the individual point. Since the purpose of this paper is to extract critical points from building façades, the confidence definition should be directly related to the characteristics of these critical points. Based on this principle, we estimate the confidence by a combination of two geometric properties, i.e., fitting quality 
+𝐶
+𝑓
+ and sampling uniformity 
+𝐶
+𝑠
+. The first geometric property represents the fitting quality of the local tangent plane at point 
+𝑝
+𝑖
+, and it can be calculated by: 
+𝐶
+𝑓
+𝑖
+=
+𝜆
+0
+𝑖
+/
+(
+𝜆
+0
+𝑖
++
+𝜆
+1
+𝑖
++
+𝜆
+2
+𝑖
+)
+, where 
+𝜆
+0
+𝑖
+≤
+𝜆
+1
+𝑖
+≤
+𝜆
+2
+𝑖
+ represents three eigenvalues of the covariance matrix of point 
+𝑝
+𝑖
+ and its local neighborhood points. If point 
+𝑝
+𝑖
+ and its local neighbors can perfectly fit the local tangent plane, the value of fitting quality measure 
+𝐶
+𝑓
+𝑖
+ of 
+𝑝
+𝑖
+ approaches 0. In contrast, if the neighbors of point 
+𝑝
+𝑖
+ is inhomogeneous, they are most probably distributed on façade edges, façade corners, and façade extrusions and intrusions. In this case, the value of 
+𝐶
+𝑓
+𝑖
+ of 
+𝑝
+𝑖
+ tends to be 1. The second geometric property 
+𝐶
+𝑠
+ represents the local sampling uniformity, and it can be calculated by the following equation: 
+𝐶
+𝑠
+𝑖
+=
+𝜆
+1
+𝑖
+/
+𝜆
+2
+𝑖
+. If point 
+𝑝
+𝑖
+ and its local neighbors are distributed linearly, the value of 
+𝐶
+𝑠
+ of 
+𝑝
+𝑖
+ approaches 0; if uniformly distributed, 
+𝐶
+𝑠
+ tends to be 1; therefore, this measure is effective detection of outer boundaries of façades and the window frames, where the density variances and data missing frequently occur due to laser beam penetration through window glass. In addition, to make the calculation of confidence measure more robust, the above two measures are calculated at multiple scales by varying the size of the neighborhood spheres. In our case, we set three scales of the local neighborhood sphere with a radius of 1.0, 1.5, and 2.0 times of mean point density of point clouds. Inspired by the work in [34], the complete confidence measure 
+𝐶
+𝑖
+∈
+[
+0
+,
+1
+]
+ of point 
+𝑝
+𝑖
+ is given as below:
+𝐶
+𝑖
+=
+1
+−
+1
+𝑛
+∑
+𝑗
+=
+1
+𝑛
+(
+1
+−
+3
+𝐶
+𝑓
+𝑖
+)
+·
+𝐶
+𝑠
+𝑖
+	
+(1)
+where, parameter n represents the number of static scales for individual point’s confidence estimation. It is obvious that if the confidence measure 
+𝐶
+𝑖
+ of point 
+𝑝
+𝑖
+ tends to be 1, it means 
+𝑝
+𝑖
+ mostly comes from façade boundaries, corners, windows frames, and other shapes that varied dramatically, as demonstrated in Figure 2. In contrast, if this value approaches 0, the point 
+𝑝
+𝑖
+ has high local fitting quality, and it most likely comes from inner points of façades, as evident in Figure 2.
+2.2. Gradient Definition in 3D Point Cloud Space
+Once the confidence measures of point clouds are estimated, we can define the gradient for the discrete point clouds in 3D space based on the confidence measure. We first analyze the directional derivative, from which the gradient can be inferred. The directional derivative denotes a rate of change of a function in any given direction. The gradient indicates the direction of the greatest change of a function of more than one variable. The magnitude of the gradient is the largest value of all directional derivatives of the current point, and the gradient direction is the corresponding direction of the directional derivative. Let function 
+𝑓
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+ be a differentiable function with three variables and 
+𝑢
+=
+cos
+(
+𝛼
+)
+𝑖
++
+cos
+(
+𝛽
+)
+𝑗
++
+cos
+(
+𝛾
+)
+𝑘
+ be a direction vector in the 3D space. The directional derivative of function 
+𝑓
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+ along the direction vector u is given by the equation: 
+𝐷
+𝑢
+𝑓
+=
+lim
+𝑡
+→
+0
+𝑓
+(
+𝑥
++
+𝑡
+cos
+(
+𝛼
+)
+,
+𝑦
++
+𝑡
+𝑐
+𝑜
+𝑠
+(
+𝛽
+)
+,
+𝑧
++
+𝑡
+cos
+(
+𝛾
+)
+)
+−
+𝑓
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+𝑡
+ if the limit exists. Three angles 
+𝛼
+, 
+𝛽
+, and 
+𝛾
+ represent the angles between the directional vector u and positive of three axes. The symbol t represents the distance between the current point and its neighbors. The maximum value of the directional derivative occurs when the gradient 
+∇
+𝑓
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+ and the direction vector u are in the same direction.
+In the context of discrete point clouds, the function 
+𝑓
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+ denotes the confidence value at point 
+𝑝
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+. The gradient value 
+𝐺
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+ of point 
+𝑝
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+ can be obtained by maximizing the directional derivative 
+𝐷
+𝑢
+𝑓
+, which is approximately equal to 
+max
+𝑗
+∈
+𝑁
+(
+𝐶
+𝑖
+−
+𝐶
+𝑗
+𝑑
+𝑖
+𝑗
+)
+, where 
+𝐶
+𝑖
+ and 
+𝐶
+𝑗
+ represent the confidence measures of current point 
+𝑝
+𝑖
+ and its neighborhood point 
+𝑝
+𝑗
+ selected from 
+𝑝
+𝑖
+’s neighborhood set N; 
+𝑑
+𝑖
+𝑗
+ denotes the Euclidean distance from point 
+𝑝
+𝑖
+ to point 
+𝑝
+𝑗
+. The relationship between gradient and directional derivative in the discrete form of 3D space is given below:
+𝐺
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+=
+max
+(
+𝐷
+𝑢
+𝑓
+)
+≈
+max
+𝑗
+∈
+𝑁
+(
+𝐶
+𝑖
+−
+𝐶
+𝑗
+𝑑
+𝑖
+𝑗
+)
+.
+	
+(2)
+The gradients of individual point cloud are vividly shown in Figure 3. The value of gradient 
+𝐺
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+ of point 
+𝑝
+𝑖
+ can be decomposed into three components along three axes:
+𝑔
+𝑥
+≈
+max
+𝑗
+∈
+𝑁
+(
+𝐶
+𝑖
+−
+𝐶
+𝑗
+𝑑
+𝑖
+𝑗
+)
+×
+𝑑
+𝑖
+𝑗
+𝑥
+𝑑
+𝑖
+𝑗
+
+
+𝑔
+𝑦
+≈
+max
+𝑗
+∈
+𝑁
+(
+𝐶
+𝑖
+−
+𝐶
+𝑗
+𝑑
+𝑖
+𝑗
+)
+×
+𝑑
+𝑖
+𝑗
+𝑦
+𝑑
+𝑖
+𝑗
+
+
+𝑔
+𝑧
+≈
+max
+𝑗
+∈
+𝑁
+(
+𝐶
+𝑖
+−
+𝐶
+𝑗
+𝑑
+𝑖
+𝑗
+)
+×
+𝑑
+𝑖
+𝑗
+𝑧
+𝑑
+𝑖
+𝑗
+	
+(3)
+where 
+𝑑
+𝑖
+𝑗
+𝑥
+, 
+𝑑
+𝑖
+𝑗
+𝑦
+, and 
+𝑑
+𝑖
+𝑗
+𝑧
+ represent the coordinate differences between 
+𝑝
+𝑖
+ and 
+𝑝
+𝑗
+ in x-, y-, and z-axis.
+2.3. Gradient Structure Tensor Generation
+Inspired by Harris’s corner detector [35] and edge detector [36] using the intensity changes by shifting the windows in a small amount in various directions, we calculate the changes of the point gradient by shifting a small amount in various directions 
+(
+Δ
+𝑥
+,
+Δ
+𝑦
+,
+Δ
+𝑧
+)
+ in 3D point cloud space. The change of gradient 
+𝐸
+(
+Δ
+𝑥
+,
+Δ
+𝑦
+,
+Δ
+𝑧
+)
+ of a point cloud 
+𝑝
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+ in the local neighborhood set N can be represented as below:
+𝐸
+(
+Δ
+𝑥
+,
+Δ
+𝑦
+,
+Δ
+𝑧
+)
+=
+∑
+𝑝
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+∈
+𝑁
+[
+𝐺
+𝑥
++
+Δ
+𝑥
+,
+𝑦
++
+Δ
+𝑦
+,
+𝑧
++
+Δ
+𝑧
+−
+𝐺
+𝑥
+,
+𝑦
+,
+𝑧
+]
+2
+	
+(4)
+Equation (4) can be transformed into Equation (5) using Taylor expansion with 
+𝑂
+(
+Δ
+𝑥
+2
++
+Δ
+𝑦
+2
++
+Δ
+𝑧
+2
+)
+ as the reminder term:
+𝐸
+(
+Δ
+𝑥
+,
+Δ
+𝑦
+,
+Δ
+𝑧
+)
+	
+=
+∑
+𝑝
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+∈
+𝑁
+[
+Δ
+𝑥
+·
+𝑔
+𝑥
++
+Δ
+𝑦
+·
+𝑔
+𝑦
++
+Δ
+𝑧
+·
+𝑔
+𝑧
++
+𝑂
+(
+Δ
+𝑥
+2
++
+Δ
+𝑦
+2
++
+Δ
+𝑧
+2
+)
+]
+2
+
+	
+≈
+(
+Δ
+𝑥
+,
+Δ
+𝑦
+,
+Δ
+𝑧
+)
+𝑀
+(
+Δ
+𝑥
+,
+Δ
+𝑦
+,
+Δ
+𝑧
+)
+𝑇
+	
+(5)
+where 
+𝑀
+=
+∑
+𝑝
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+∈
+𝑁
+𝑔
+𝑥
+2
+	
+𝑔
+𝑥
+𝑔
+𝑦
+	
+𝑔
+𝑥
+𝑔
+𝑧
+
+
+𝑔
+𝑦
+𝑔
+𝑥
+	
+𝑔
+𝑦
+2
+	
+𝑔
+𝑦
+𝑔
+𝑧
+
+
+𝑔
+𝑧
+𝑔
+𝑥
+	
+𝑔
+𝑧
+𝑔
+𝑦
+	
+𝑔
+𝑧
+2
+, and it represents the gradient structure tensor of the local neighborhood point set N centered at current point 
+𝑝
+𝑖
+. M is a semi-positive and symmetric matrix, whose three eigenvalues 
+𝜆
+0
+𝑀
+, 
+𝜆
+1
+𝑀
+ and 
+𝜆
+2
+𝑀
+ are mutually orthogonal. The gradient distribution in the local neighborhood set N can be estimated by analyzing three eigenvalues of gradient structure tensor M. The current point 
+𝑝
+𝑖
+ has four status to be considered:
+Corner points: the current point 
+𝑝
+𝑖
+ is most probably at the intersection area of three mutually nonparallel surfaces (façades and rooftop planes). In this case, all three eigenvalues are large.
+Edge points: the current point 
+𝑝
+𝑖
+ most likely belongs to the intersection edges generated from façades and/or rooftop planes. In this situation, two eigenvalues are relatively large.
+Boundary points: the current point 
+𝑝
+𝑖
+ most probably comes from the outer boundaries or boundaries of inner holes (e.g., window frames) caused by missing data of the façades. In this case, only one large eigenvalue can be observed.
+Constant points: the local neighborhood areas of current point 
+𝑝
+𝑖
+ maintain approximately constant gradient values, i.e., arbitrary shifts of 3d voxel windows centered at 
+𝑝
+𝑖
+ cause little change value in E (see Equation (4)). All three eigenvalues are small in this case.
+Obviously, the term critical points in our paper refer to three types of point sets, including corner points, intersection points, and boundary points. These three parts constitute the skeleton of building façades.
+As the gradient matrix, M is calculated as a discrete form rather than continuous representation, the calculated eigenvalues are not stable and robust. That is to say, the obtained gradient structure tensor M cannot fully reflect the gradient distributions in the local neighborhood areas. To solve this deficiency, the gradient structure tensor M needs to be smoothed using the Gaussian weight function, and the smoothing processing is given as follows:
+𝑀
+𝑖
+¯
+=
+∑
+𝑝
+𝑗
+∈
+𝑁
+𝐺
+𝑎
+𝑢
+𝑠
+𝑠
+(
+𝑝
+𝑖
+,
+𝑝
+𝑗
+)
+·
+𝑀
+𝑖
+⊗
+𝑀
+𝑗
+
+
+𝑠
+.
+𝑡
+.
+𝐺
+𝑎
+𝑢
+𝑠
+𝑠
+(
+𝑝
+𝑖
+,
+𝑝
+𝑗
+)
+=
+1
+𝜎
+2
+𝜋
+𝑒
+−
+‖
+𝑝
+𝑖
+−
+𝑝
+𝑗
+‖
+2
+2
+𝜎
+2
+	
+(6)
+where, “·” represents the multiplication of numbers and matrices, and the symbol “⊗” represents convolution operation between two gradient structure tensors 
+𝑀
+𝑖
+ and 
+𝑀
+𝑗
+ produced by two point 
+𝑝
+𝑖
+ and 
+𝑝
+𝑗
+ according to Equation (5). 
+𝑀
+𝑖
+¯
+ is the Gaussian smoothed version of 
+𝑀
+𝑖
+. 
+𝜎
+ is the standard deviation of distance between current 
+𝑝
+𝑖
+ and its neighborhood point 
+𝑝
+𝑗
+.
+2.4. Dual-Threshold Criterion
+As the large or small eigenvalue is hard to be defined, inspired by [35], we directly define the response function using the three eigenvalues of gradient structure tensor M to detect the critical points from building façades. The response function of critical points is defined below:
+𝑅
+𝑀
+¯
+=
+𝑑
+𝑒
+𝑡
+(
+𝑀
+¯
+)
+−
+𝑘
+[
+𝑡
+𝑟
+𝑎
+𝑐
+𝑒
+(
+𝑀
+¯
+)
+]
+3
+.
+
+
+𝑠
+.
+𝑡
+.
+𝑑
+𝑒
+𝑡
+(
+𝑀
+¯
+)
+=
+𝜆
+0
+𝑀
+¯
+·
+𝜆
+1
+𝑀
+¯
+·
+𝜆
+2
+𝑀
+¯
+
+
+𝑡
+𝑟
+𝑎
+𝑐
+𝑒
+(
+𝑀
+¯
+)
+=
+𝜆
+0
+𝑀
+¯
++
+𝜆
+1
+𝑀
+¯
++
+𝜆
+2
+𝑀
+¯
+	
+(7)
+The value of 
+𝑅
+𝑀
+¯
+ expresses the the status of current point by an elegant combination of three eigenvalues of gradient structure tensor 
+𝑀
+¯
+ in Equation (7). This means that if the value of 
+𝑅
+𝑀
+¯
+ is greater than or equal to a predefined threshold 
+𝑇
+𝑀
+¯
+, the corresponding point is regarded as the critical point; however, setting an inappropriate threshold 
+𝑇
+𝑀
+¯
+ will cause the under- and/or over-segmentation of a façade’s critical points. This is most probably because the calculated value of 
+𝑅
+𝑀
+¯
+ is a local variable, and it is determined through multiple steps including confidence estimation, gradient tensor generation, and tensor smoothing, using varied scales of local neighborhood sizes. In contrast, 
+𝑇
+𝑀
+¯
+ is a global threshold defined in the whole building façade data space, causing the fixed threshold to be unable to fully represent each point’s gradient variations estimated at different local neighborhood areas.
+As shown in Figure 4, the result with green color shows the extracted critical points using the single-threshold criterion, i.e., determination of critical points by checking whether the condition 
+𝑅
+𝑀
+¯
+≥
+𝑇
+𝑀
+¯
+ is met. We can see that the building skeleton is relatively thick and some outliers distributed at the rooftops are mistakenly classified as critical points. To alleviate this problem, we employ a dual-threshold criterion by introducing another constraint, i.e., 
+𝐺
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+≥
+𝑇
+𝐺
+ where 
+𝑇
+𝐺
+ is a predefined gradient threshold. As mentioned previously, the gradient value of each discrete point is calculated by Equation (2). That is to say, if a point cloud is labeled as a critical point, it must simultaneously satisfy the following two conditions: 
+𝐺
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+≥
+𝑇
+𝐺
+ and 
+𝑅
+𝑀
+¯
+≥
+𝑇
+𝑀
+¯
+. As shown in Figure 4, the point clouds with red color are critical points generated using dual-threshold criterion by setting 2.25 and 25 as threshold values regarding 
+𝑇
+𝐺
+ and 
+𝑇
+𝑀
+¯
+. Compared with results by single-threshold criterion, the obtained critical points using dual-threshold criterion is relatively thin and more reasonable to describe the skeleton of building façades and rooftops. Moreover, some scattered outliers on the rooftop are eliminated, making the results clean and concise.
+2.5. Critical Point Refinement through Concept of Simplification
+Although we can also obtain an optimal critical point set by jointly tuning two thresholds, i.e., 
+𝑇
+𝑀
+¯
+ and 
+𝑇
+𝐺
+ to guarantee the geometric accuracy and high compactness of building façade representation, it should be noticed that it is not a trivial work to simultaneously tune two parameters. It needs trial and error experiments, leading to time-consuming and labor-intensive work. In this sense, we prefer to obtain a relative thick façade skeleton with thick points on edges and refine the result in the successive simplification step.
+To this end, we transform the problem of building skeleton abstraction into the problem of simplification. This is to say, we further refine the dual-threshold result by the concept of simplification to enhance the flexibility of building façade abstraction. To this end, we employ three classic algorithms, i.e., grid simplification, hierarchical simplification [37], and the weighted locally optimal projection (WLOP) algorithm [38]. The grid simplification algorithm divides the space of point clouds into multiple supervoxels, from which only the representative one is chosen to express the corresponding supervoxel. The hierarchical simplification provides an adaptive simplification of the points set through recursively splitting the point clouds using binary space partitioning. Compared with two other simplification algorithms, the WLOP algorithm not only simplifies but also regularizes the critical façades point clouds. WLOP algorithm is an improved LOP algorithm [39] with a weighted density term, which can denoise and remove outliers from imperfect point data and produce an evenly distributed set of particles that faithfully adheres to the captured shapes [38]. The consolidated points generated by WLOP are newly created instead of being chosen from the critical point set. These three refinement results with different inputs are shown in Figure 5.
+In fact, there is no “absolute criterion” to determine whether the created critical point clouds are optimal or not. The generated critical points with fewer point clouds tend to be more lightweight/compact. The critical point clouds with high compactness are suitable for storage, web transmission, acceleration of rendering large-scale scenes, and other VR and/or AR applications. Although having compactness has such strengths, it should be aware that the geometric accuracy might be weakened if imposing a strict abstraction for building façade point clouds. In this sense, we think an optimal abstraction should strike a balance between geometric accuracy and compactness of critical points. To increase the flexibility of façade representation, we hope the created points are generated at different LoDs rather than a single fixed-level representation.
+3. Performance Evaluation
+3.1. Dataset Specification
+The first dataset we used for experiment is Semantic3D (http://www.semantic3d.net/, last accessed on 6 August 2021) [40]. It provides a large-scale outdoor scene of 30 scans over 4 billion labeled point clouds with diverse outdoor scenes. We selected eight representative buildings to verify the critical extraction algorithm. The reasons for the selection of the buildings from Semantic 3D are threefold: (1) Accurate labeled point clouds: each point cloud from Semantic3D is manually assigned a specific class label. We can easily select diverse buildings according to the building label to verify the proposed algorithm. (2) Diverse architectures: all the released scenes are captured in Central Europe, from which diverse European architectures are provided. (3) Inhomogeneous scan points: this dataset is particularly challenging because the scans are acquired using a surveying-grade terrestrial laser scanner (TLS) with a long measurement range, thereby resulting in extreme point density changes and occlusions. Because of this, the buildings are well suited for testing the proposed algorithm. Regarding the detailed descriptions with Semantic3D, we suggest the reader refers to the work in [40].
+To evaluate the proposed algorithm’s capability for processing building façades with extremely sparse point clouds, we select two groups of buildings from Dutch AHN3 (Actueel Hoogtebestand Nederland) and DublinCity (https://geo.nyu.edu/catalog/nyu_2451_38684, last accessed on 6 August 2021) datasets. The Dutch AHN3 point cloud is acquired by an aircraft during 2014 and 2019. For the acquisition, Riegl LMS-Q680i laser scanning sensor is the most frequently used and sometimes adoption of Riegl VQ-780i [41]. The mean density of point clouds is around 16 points/m2. The AHN3 dataset is released to the public through a central distributed platform PDOK (https://downloads.pdok.nl/ahn3-downloadpage/, last accessed on 6 August 2021). The DublinCity dataset is acquired by the helicopter in March 2015. The entire dataset consists of 14 flight paths, covering the major areas of the Dublin city center with around 5.6 km2. The adopted sensor is a TopEye system S/N 443. The entire dataset consists of 500 × 500 rectangular tiles. The registered point clouds by multiple paths offer the mean point density of 250 to 348 points/m2 for different titles. The reader can refer to the work [42] for more details of the DublinCity dataset. These two ALS (Airborne Laser Scanning, ALS) datasets have a clear semantic building label, which facilitates us to choose the buildings with a variety of geometric shapes. The building façades contained by these two ALS datasets are extremely sparse and include missing data due to the building self-occlusions. In addition, the selected two groups have varied sizes and rooftop shapes/structures in different orientations. These two datasets provide an opportunity to test the proposed algorithm’s abstraction capability, focusing not only on building façades but rooftops.
+To evaluate the algorithm’s extensibility, we select one zone MLS (Mobile Laser Scanning, MLS) point clouds from the TerraMobilita/iQmulus 3D urban analysis benchmark [43] (http://data.ign.fr/benchmarks/UrbanAnalysis/, last accessed on 6 August 2021). The entire benchmark contains 11 zones with 300 million point clouds in the center of Paris, France. The dataset is acquired in January 2013 by Stereopolis II, an MLS system developed at the French National Mapping Agency. Two Riegl LMS-Q12Oi and one HDL-64E Velodyne LiDAR sensors are integrated into Stereopolis II. Our selected zone contains a fully annotated street section 200 m long with 12 million point clouds. We believe this section of MLS point clouds from a dense urban environment in Paris can effectively test the algorithm’s extensibility to a large scale.
+We also use UAV-based photogrammetric points and hand-held scanning (HLS) points to verify the robustness of the proposed algorithm. As shown in Figure 6, point clouds for Buildings 
+𝐴
+ and 
+𝐵
+ at Nanjing Forestry University are derived by the overlap images captured by DJI Phantom 4 RTK with a GSD (Ground Sampling Distance, GSD) of 2.74 cm at 100 meters flight altitude. The front and side overlap rates are set to 80% and 70%, respectively. The acquired oblique images are fed into Bentley ContextCapture commercial software package for generating high-density point clouds. Because of the high density, we downsample the raw point clouds to 3 cm. Another Building 
+𝐶
+ shown in Figure 7 at Nanjing Forestry University is scanned by GeoSLAM ZEB-HORIZON Scanner, which achieves 3D point cloud registration and stitching in real time based on SLAM (Simultaneous Localization and Mapping) technique. These two types of point clouds have low point precision and high outliers and noise, thereby posing extreme challenges for critical point extraction.
+3.2. Parameter Analyzing
+Before we evaluate the quality of the created critical points, we first analyze all the relevant thresholds and explain how to select their appropriate values. All the thresholds that are used in the experiments are listed in Table 1. For the confidence estimation, we average the confidence measure at three scales of neighborhood spheres centered on current point 
+𝑝
+𝑖
+ with the radius of 1.0, 1.5, and 2.0 times of mean point density (
+𝜌
+) of a given dataset. Compared with the calculation at a single, fixed scale, our multi-scale strategy reduces parameter insensitivity and enhances the stability and reliability of the confidence measure; however, it should be noted that increasing the size of the radius at a multi-scale will increase the computational complexity. Through trial-and-error experiments, it has been found that the neighborhood sphere 
+𝑟
+=
+{
+𝜌
+,
+1.5
+𝜌
+,
+2
+𝜌
+}
+ can strike a balance between the highly reliable confidence calculation and low cost computation. In the steps of gradient calculation, structure tensor generation, and structure tensor smoothing, the neighborhood N of the current point 
+𝑝
+𝑖
+ is commonly used. Fortunately, the threshold N is insensitive to a wide range of values. Through experiments, it has been found that, by selecting in the range [20, 80], the obtained results have no obvious differences. In our case, we simply set 
+𝑁
+=
+40
+ for the sake of achieving a balance between the result stability and the computational efficiency. For the dual-threshold setting, the gradient obeys a normal distribution, i.e., 
+𝐺
+(
+𝑥
+,
+𝑦
+,
+𝑧
+)
+∼
+𝑁
+(
+𝜇
+,
+𝜎
+2
+)
+, where, 
+𝜇
+ and 
+𝜎
+ are the mean and the standard derivation of the gradient that can be obtained by the histogram analysis of a set of individual building points. Threshold 
+𝑇
+𝐺
+ is encouraged to be set with a relatively smaller value and it is suggested to be within the range [0.6
+𝜇
+, 
+𝜇
+]. Threshold 
+𝑇
+𝑀
+¯
+ controls the strictness of determining whether a point is a critical point or not. Selecting smaller or larger values will cause over- or under-segmentation. Fortunately, this threshold is less sensitive to a wide range of values. It is recommended to be set in the range [5, 30]. These principles can be demonstrated in Figure 8 with varying thresholds 
+𝑇
+𝐺
+ and 
+𝑇
+𝑀
+¯
+. The grid simplification algorithm has only one input parameter, i.e., cell size (
+𝐺
+𝑟
+𝑖
+𝑑
+_
+𝑠
+𝑖
+𝑧
+𝑒
+) of the supervoxel. The larger the cell size is, the lower the geometric accuracy it produces, and less critical points might be generated and vice versa. Generally, we set 
+𝐺
+𝑟
+𝑖
+𝑑
+_
+𝑠
+𝑖
+𝑧
+𝑒
+ as two or three times the mean point density to meet the requirements of simplification. The hierarchical simplification algorithm has two input parameters, including max cluster size (
+𝐶
+𝑙
+𝑢
+𝑠
+𝑡
+𝑒
+𝑟
+_
+𝑠
+𝑖
+𝑧
+𝑒
+) and max surface variation (
+𝑆
+𝑢
+𝑟
+𝑓
+𝑎
+𝑐
+𝑒
+_
+𝑣
+𝑎
+𝑟
+). The larger they are, the fewer sampled points we have. In our case, they are set to 30 and 0.01. The WLOP algorithm also needs two input parameters, including the percentage of points to retain (
+𝑅
+𝑎
+𝑡
+𝑖
+𝑜
+) and the neighbor size (
+𝑅
+𝑎
+𝑑
+𝑖
+𝑢
+𝑠
+). The former controls the percentage of the obtained critical point clouds, while the latter decides the degree of regularization. More specifically, when we adopt a large neighbor size, we tend to generate the regularized result. In our case, they are simply set to 50% and 0.2 to achieve a certain degree of simplification. More results of the simplification threshold settings are shown in Figure 5. It should be noted that there was no optimal threshold setting for simplification, instead one should consider the geometric accuracy and the degree of abstraction, which are generally determined by practical applications.
+3.3. Compactness
+Compactness is a critical index for the evaluation of whether the extracted critical point set is lightweight. That is, if the result contains a few critical points, it represents more compactness of the building façade abstraction. Critical points with high compactness facilitate web transmission, storage-saving, and large-scale building point clouds rendering. We use compactness ratio 
+𝐶
+𝑎
+ calculated by dividing the number of critical points by the number of raw building point clouds to represent the degree of compactness. In addition, we also use another compactness ratio 
+𝐶
+𝑏
+ calculated by dividing the number of created point clouds by the number of reference point clouds. The reference point clouds are generated by extensive manual work using the CloudCompare open-source tool (https://www.danielgm.net/cc/, last accessed on 6 August 2021).
+Quantitative evaluation results of the selected buildings from different datasets are listed in Table 2. We can see that for eight Semantic3D buildings, the mean compactness ratio of dual-threshold results approaches 36.96%. In this case, the number of critical points is consistent with the number of reference points, as demonstrated by 
+𝐶
+𝑏
+ in the dual-threshold column. This ratio can be further compressed to less than 20% or even 10% according to the different degrees of abstraction via three types of refinement algorithms. We note that high compactness (e.g., 0.92% for Semantic Building 8 after grid refinement) does not mean that the results are more reasonable. Although having a high compactness ratio, the detailed shape features might be ignored on some occasions, thereby weakening abstraction accuracy. For the two other ALS and MLS datasets, the compactness ratio 
+𝐶
+𝑎
+ is significantly lower than the TLS dataset (e.g., only 0.72 for DublinCity after hierarchy refinement). This is because the ALS point clouds do not have enough capability to describe the building shape’s details due to sparse point density. As UAV and HLS datasets include sufficient shape details due to high-density point clouds, the abstraction accuracy can be guaranteed when posing heavy abstraction (less than 1% after grid or hierarchy refinements). In summary, the compactness is closely related to scene complexity, point cloud density, and a degree of abstraction. We should strike a balance between the compactness and accuracy while guaranteeing an abstraction of critical points.
+3.4. Accuracy
+As previously mentioned, we have the reference of the critical point cloud for each building in the Semantic3D dataset. The reference is generated through manual labeling using the CloudCompare open-source tool. Based on the reference, we evaluate the quality of results generated by the dual-threshold analysis and the successive refinement using grid, hierarchy, and WLOP algorithms. The quantitative evaluation statistics are shown in Table 3. The 
+𝑀
+𝑎
+𝑥
+ values for Buildings 4 and 5 are greater than three meters because some critical points are contaminated by outliers generated by the laser beam penetration through façade window glass, as demonstrated in the areas labeled in black ovals in Figure 9d. Another reason is that our results contain some pseudo-edges/boundaries that are generated in some regions of the building façades corrupted by the missing data due to occlusions, as evident in the region labeled by black rectangles in Figure 9. In fact, these pseudo-edge/boundary points in reference are not included, thereby causing relatively large 
+𝑀
+𝑎
+𝑥
+ values of these two buildings. We also observe that 
+𝑀
+𝑎
+𝑥
+ values for dual-threshold are constantly greater than grid and hierarchy results because these two results are downsampled from the initial dual-threshold result. Although WLOP is also generated from the initial dual-threshold result, the 
+𝑀
+𝑎
+𝑥
+ value of Building 7 is 1.3606 m, which is greater than the dual-threshold result of 1.3306 m. The possible reason could be that the WLOP result is not simply downsampled from the initial dual-threshold critical point set but is a newly regenerated point set through the optimized technique. Apart from the hierarchy 
+𝑀
+𝑒
+𝑎
+𝑛
+ values of 0.0271 m and 0.0442 m for Buildings 2 and 4, the dual-threshold 
+𝑀
+𝑒
+𝑎
+𝑛
+ values are less than the 
+𝑀
+𝑒
+𝑎
+𝑛
+ values in the three refinement algorithms. This means that the refinement through the concept of simplification can weaken the geometric accuracy. This point keeps consistent with the conclusion derived in Section 3.3. The 
+𝑅
+𝑀
+𝑆
+𝐸
+ measures the differences between the generated critical point set and the reference. To evaluate the importance of this difference and make the difference independent of the unit, we use another relevant measure 
+𝑅
+𝑀
+𝑆
+𝐸
+′
+ calculated by dividing the value of 
+𝑅
+𝑀
+𝑆
+𝐸
+ to the diagonal length of the corresponding building’s bounding box. As we can see, the maximum of 
+𝑅
+𝑀
+𝑆
+𝐸
+′
+ is 0.0088 for Building 6, which means that the maximum gap between our result and reference is only 0.88% of the building’s diagonal.
+3.5. Comparison
+We compare the proposed algorithm with two other classic algorithms, including Canny edge detector [33] and Xia’s method [36]. As the Canny edge detector is designed for 2D images rather than 3D point clouds, we project the building façades onto 2D gray images according to the dominant façade’s normal and location. The value of each pixel is an average gradient value of all point clouds within each pixel. The pixel value is normalized to the range from 0 to 255. Compared with the Canny edge detector that worked on raster images, Xia’s and our methods are implemented onto 3D point clouds. The comparison results with these two methods are shown in Figure 10. We can see that our method can effectively extract the critical points from façades with a high degree of complex shapes. In Semantic3D Building 3, the enlarged rectangles denoted by the purple color have a very complex geometric shape with a high degree of nonlinear structure. Despite this, we can obtain a reasonable skeleton for this complex shape; however, some edge points are missing in Xia’s result. As our method works directly on the 3D point clouds like Xia’s method, this means these two methods can effectively maintain the geometric shapes of building façades without artifacts; however, for the Canny method, it inevitably brings distortions during the conversion from 3D point clouds to 2D grayscale images. This is demonstrated in Building 5 denoted by red rectangles. In addition, it should be noted that the Canny detector often produces an adverse effect of “double edge”, which means one edge is represented by two contours due to the thickness/width of the edge, as evident in blue rectangles in Semantic3D Building 5. We should also notice that our method is also insensitive to the density of point clouds. In the enlarged areas of green rectangles in Semantic3D Building 7, the point cloud is extremely sparse and with irregular distribution. In this case, Canny and Xia’s results are very messy; however, our method is superior to these two methods because of the reasonable definition of 3D gradient and an accurate analysis of the gradient structure tensor.
+Apart from qualitative comparisons with the Canny detector and Xia’s method, we also conduct a quantitative comparison with Xia’s method using eight buildings in the Semantic3D dataset. We first calculate each building’s 
+𝑀
+𝑒
+𝑎
+𝑛
+, 
+SD
+, 
+𝑅
+𝑀
+𝑆
+𝐸
+, and 
+𝐶
+𝑜
+𝑚
+𝑝
+𝑎
+𝑐
+𝑡
+𝑛
+𝑒
+𝑠
+𝑠
+ according to the reference. Next, we average all of them to obtain the overall values of the entire Semantic3D dataset. The statistics are listed in Table 4, from which we can see that our method outperforms Xia’s method in terms of geometric accuracy and compactness.
+3.6. Robustness
+Apart from using the Semantic3D TLS dataset, we also employ various types of ubiquitous point clouds captured by different platforms with different LiDAR sensors to verify the robustness of the proposed algorithm. We use two patches of ALS building clouds clipped from DublinCity and Dutch AHN3 datasets. Due to the advantages of airborne scanning, the acquired building point clouds are relatively dense for rooftops and sparse and non-uniform distributed for building façades. The proposed algorithm successfully extracts the rooftop skeleton (see the enlarged rectangle views in Figure 11); however, it is hard to extract feature contours from building façades due to very sparse and irregular points and/or large-scale missing data caused by occlusion and self-occlusion.
+We used large-scale MLS point clouds from the TerraMobilita/iQmulus 3D urban analysis benchmark to test whether the proposed algorithm is sensitive to the irregularity of point clouds. Generally, for MLS point clouds, the point density at the bottom of street façades is higher than the point density at the areas of the top façades. In addition, when scanning the street façades, the laser beam can be easily blocked by moving cars, pedestrians, and street trees in front of the façades, thereby causing missing data. Despite this, the building façade contour is successfully extracted, as shown in Figure 12.
+The UAV-based photogrammetric point cloud is used to test the algorithm’s applicability for processing data captured from the consumer-grade UAV DJI Phantom 4 RTK. The density of UAV-based point clouds is restricted to the resolution of the acquired images. The obtained point clouds are calculated by stereo-image matching rather than directly surveying using the LiDAR technique. Because of this, the photogrammetric point clouds miss fine details and sharp edges with massive artifacts, as demonstrated in the enlarged views in Figure 6. Despite this, the proposed algorithm has the capability to abstract the building façade contours.
+In addition, GeoSLAM ZEB-HORIZON point clouds are used for testing the sensitiveness to point precision. In Figure 7, we observe that GeoSLAM point clouds have very low point precision with mess point cloud distribution. In this case, the sharp façade features cannot be clearly described in the raw point clouds; however, fortunately, the proposed algorithm can perceive the differences of the façade points and successively detect the feature point clouds, as evident in the overlap view in Figure 7c.
+4. Conclusions and Suggestions for Future Works
+In this paper, we present a method for extracting building façade contours. Our method analyzes each point gradient and its derived gradient structure tensor to obtain the gradient distribution for each point in the local neighborhood areas. To relieve the dependence on thresholds of gradient and gradient structure tensor, we refine the initial critical point set, striking a balance between geometric accuracy and compact representation/abstraction. We use multiple ubiquitous LiDAR datasets to verify the applicability of the proposed algorithm.
+Although promising results are achieved, it should be noted that our algorithm is effective when it is applied to building contouring. The contouring results may not reasonably be expected to other objects, such as trees and cars. This requires us to recognize individual building at the instance level from LiDAR scans through machine learning [44] and/or deep learning [45,46] methods. In addition, we should be aware that the critical points are extracted based on the analysis of the gradient structure tensor in the local areas, but these critical points jointly describe the global feature of architectural shapes. This implies that in future work, we can carry out successive research on the analysis of building structures and geometric shapes. Although we provide the critical points with fine details for the description of the building façades and rooftops, these critical points cannot maintain the topological relationships, making it difficult for further reconstruction with a boundary representation. In future work, we plan to research how to segment these critical point clouds into multiple clusters with meaningful semantics using the graph convolutional network and how to organize the clusters into watertight building models using a topology optimization technique.
+Author Contributions
+J.L. and S.D. analyzed the data and wrote the C++ source code. J.P. and D.C. helped in the project and study design, paper writing, and data analysis. G.X., L.W. and X.L. helped in proofreading, data acquisition, and experiment comparison. All authors have read and agreed to the published version of the manuscript.
+Funding
+This work was supported in part by the National Natural Science Foundation of China under Grant 41971415, in part by the Natural Science Foundation of Jiangsu Province under Grant BK20201387, in part by the Open Fund of State Key Laboratory of Remote Sensing Science under Grant OFSLRSS202010, and it was performed while the corresponding author, Dong Chen, acted as an awardee of the 2021 Qinglan Project, sponsored by Jiangsu Province, China.
+Institutional Review Board Statement
+Not applicable.
+Informed Consent Statement
+Not applicable.
+Data Availability Statement
+The datasets including Semantic3D, DublinCity, Dutch AHN3, and TerraMobilita/iQmulus 3D are publicly available from the corresponding benchmark websites or distribution platform. Other datasets analyzed in this study are acquired by ourselves.
+Acknowledgments
+The authors would like to thank Shaobo Xia for providing C++ code in [36] for comparison.
+Conflicts of Interest
+The authors declare no conflict of interest.
+References
+Rosenfeld, A.; Thurston, M. Edge and curve detection for visual scene analysis. IEEE Trans. Comput. 1971, 100, 562–569. [Google Scholar] [CrossRef]
+Zhang, W.; Zhang, W.; Gu, J. Edge-semantic learning strategy for layout estimation in indoor environment. IEEE Trans. Cybern. 2019, 50, 2730–2739. [Google Scholar] [CrossRef] [Green Version]
+Lepora, N.F.; Church, A.; De Kerckhove, C.; Hadsell, R.; Lloyd, J. From pixels to percepts: Highly robust edge perception and contour following using deep learning and an optical biomimetic tactile sensor. IEEE Robot. Autom. Lett. 2019, 4, 2101–2107. [Google Scholar] [CrossRef] [Green Version]
+Baterina, A.V.; Oppus, C. Image edge detection using ant colony optimization. Wseas Trans. Signal Process. 2010, 6, 58–67. [Google Scholar]
+Sadiq, B.O.; Sani, S.; Garba, S. Edge detection: A collection of pixel based approach for colored images. Int. J. Comput. Appl. 2015, 113, 29–32. [Google Scholar]
+Marmanis, D.; Schindler, K.; Wegner, J.D.; Galliani, S.; Datcu, M.; Stilla, U. Classification with an edge: Improving semantic image segmentation with boundary detection. ISPRS J. Photogramm. Remote Sens. 2018, 135, 158–172. [Google Scholar] [CrossRef] [Green Version]
+Duan, R.l.; Li, Q.x.; Li, Y.h. Summary of image edge detection. Opt. Tech. 2005, 3, 415–419. [Google Scholar]
+Guo, K.Y.; Hoare, E.G.; Jasteh, D.; Sheng, X.Q.; Gashinova, M. Road edge recognition using the stripe Hough transform from millimeter-wave radar images. IEEE Trans. Intell. Transp. Syst. 2014, 16, 825–833. [Google Scholar] [CrossRef]
+He, K.; Gkioxari, G.; Dollár, P.; Girshick, R. Mask r-cnn. In Proceedings of the IEEE International Conference on Computer Vision, Venice, Italy, 22–29 October 2017; pp. 2961–2969. [Google Scholar]
+Ni, H.; Lin, X.; Zhang, J.; Chen, D.; Peethambaran, J. Joint clusters and iterative graph cuts for ALS point cloud filtering. IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. 2018, 11, 990–1004. [Google Scholar] [CrossRef]
+Hackel, T.; Wegner, J.D.; Schindler, K. Contour detection in unstructured 3d point clouds. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, NV, USA, 26 June–1 July 2016; pp. 1610–1618. [Google Scholar]
+Wang, R.; Peethambaran, J.; Chen, D. LiDAR point clouds to 3-D Urban Models: A review. IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens. 2018, 11, 606–627. [Google Scholar] [CrossRef]
+Mineo, C.; Pierce, S.G.; Summan, R. Novel algorithms for 3D surface point cloud boundary detection and edge reconstruction. J. Comput. Des. Eng. 2019, 6, 81–91. [Google Scholar] [CrossRef]
+Ahmmed, A.; Paul, M.; Pickering, M. Dynamic point cloud texture video compression using the edge position difference oriented motion model. In Proceedings of the 2021 Data Compression Conference (DCC), Snowbird, UT, USA, 23–26 March 2021; p. 335. [Google Scholar]
+Xia, S.; Chen, D.; Wang, R.; Li, J.; Zhang, X. Geometric primitives in LiDAR point clouds: A review. IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens. 2020, 13, 685–707. [Google Scholar] [CrossRef]
+Li, J.; Zhao, P.; Hu, Q.; Ai, M. Robust point cloud registration based on topological graph and Cauchy weighted lq-norm. ISPRS J. Photogramm. Remote Sens. 2020, 160, 244–259. [Google Scholar] [CrossRef]
+Gojcic, Z.; Zhou, C.; Wegner, J.D.; Guibas, L.J.; Birdal, T. Learning multiview 3D point cloud registration. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, Seattle, WA, USA, 16–20 June 2020; pp. 1759–1769. [Google Scholar]
+Choi, C.; Trevor, A.J.; Christensen, H.I. RGB-D edge detection and edge-based registration. In Proceedings of the 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems, Tokyo, Japan, 3–7 November 2013; pp. 1568–1575. [Google Scholar]
+Shi, W.; Rajkumar, R. Point-gnn: Graph neural network for 3d object detection in a point cloud. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, Seattle, WA, USA, 16–20 June 2020; pp. 1711–1719. [Google Scholar]
+Hu, F.; Yang, D.; Li, Y. Combined edge-and stixel-based object detection in 3D point cloud. Sensors 2019, 19, 4423. [Google Scholar] [CrossRef] [Green Version]
+Wang, R.; Ferrie, F.P.; Macfarlane, J. A method for detecting windows from mobile LiDAR data. Photogramm. Eng. Remote Sens. 2012, 78, 1129���1140. [Google Scholar] [CrossRef] [Green Version]
+Song, H.; Feng, H.Y. A progressive point cloud simplification algorithm with preserved sharp edge data. Int. J. Adv. Manuf. Technol. 2009, 45, 583–592. [Google Scholar] [CrossRef]
+Li, H.; Zhong, C.; Hu, X.; Xiao, L.; Huang, X. New methodologies for precise building boundary extraction from LiDAR data and high resolution image. Sens. Rev. 2013, 33, 157–165. [Google Scholar] [CrossRef]
+Poullis, C. A framework for automatic modeling from point cloud data. IEEE Trans. Pattern Anal. Mach. Intell. 2013, 35, 2563–2575. [Google Scholar] [CrossRef] [PubMed]
+Wang, Y.; Ewert, D.; Schilberg, D.; Jeschke, S. Edge extraction by merging 3D point cloud and 2D image data. In Proceedings of the 2013 10th International Conference and Expo on Emerging Technologies for a Smarter World (CEWIT), Melville, NY, USA, 21–22 October 2013; pp. 1–6. [Google Scholar]
+Li, Y.; Wu, H.; An, R.; Xu, H.; He, Q.; Xu, J. An improved building boundary extraction algorithm based on fusion of optical imagery and LiDAR data. Optik 2013, 124, 5357–5362. [Google Scholar] [CrossRef]
+Chen, Y.; Zhang, W.; Zhou, G.; Yan, G. A novel building boundary reconstruction method based on lidar data and images. In International Symposium on Photoelectronic Detection and Imaging 2013: Laser Sensing and Imaging and Applications; SPIE-International Society for Optics and Photonics: Bellingham, WA, USA, 2013; Volume 8905, p. 890522. [Google Scholar]
+Yang, B.; Zang, Y. Automated registration of dense terrestrial laser-scanning point clouds using curves. ISPRS J. Photogramm. Remote Sens. 2014, 95, 109–121. [Google Scholar] [CrossRef]
+Demarsin, K.; Vanderstraeten, D.; Volodine, T.; Roose, D. Detection of closed sharp edges in point clouds using normal estimation and graph theory. Comput. Aided Des. 2007, 39, 276–283. [Google Scholar] [CrossRef]
+Borges, P.; Zlot, R.; Bosse, M.; Nuske, S.; Tews, A. Vision-based localization using an edge map extracted from 3D laser range data. In Proceedings of the 2010 IEEE International Conference on Robotics and Automation, Anchorage, AK, USA, 3–7 May 2010; pp. 4902–4909. [Google Scholar]
+Ni, H.; Lin, X.; Ning, X.; Zhang, J. Edge detection and feature line tracing in 3d-point clouds by analyzing geometric properties of neighborhoods. Remote Sens. 2016, 8, 710. [Google Scholar] [CrossRef] [Green Version]
+Wang, R.; Lai, X.; Hou, W. Study on edge detection of LIDAR point cloud. In Proceedings of the 2011 International Conference on Intelligent Computation and Bio-Medical Instrumentation, Wuhan, China, 14–17 December 2011; pp. 71–73. [Google Scholar]
+Canny, J. A computational approach to edge detection. IEEE Trans. Pattern Anal. Mach. Intell. 1986, 679–698. [Google Scholar] [CrossRef]
+Pauly, M.; Mitra, N.J.; Giesen, J.; Gross, M.H.; Guibas, L.J. Example-Based 3d Scan Completion. 2005. Available online: https://infoscience.epfl.ch/record/149337/files/pauly_2005_EBS.pdf (accessed on 6 August 2021).
+Harris, C.G.; Stephens, M. A Combined Corner and Edge Detector. In Proceedings of the Alvey Vision Conference, Manchester, UK, 31 August–2 September, 1988; pp. 1–6. Available online: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.434.4816&rep=rep1&type=pdf (accessed on 6 August 2021).
+Xia, S.; Wang, R. A fast edge extraction method for mobile LiDAR point clouds. IEEE Geosci. Remote Sens. Lett. 2017, 14, 1288–1292. [Google Scholar] [CrossRef]
+Pauly, M.; Gross, M.; Kobbelt, L.P. Efficient simplification of point-sampled surfaces. In Proceedings of the IEEE Visualization, VIS 2002, Boston, MA, USA, 27 October–1 November 2002; pp. 163–170. [Google Scholar]
+Huang, H.; Li, D.; Zhang, H.; Ascher, U.; Cohen-Or, D. Consolidation of unorganized point clouds for surface reconstruction. ACM Trans. Graph. 2009, 28, 1–7. [Google Scholar] [CrossRef] [Green Version]
+Lipman, Y.; Cohen-Or, D.; Levin, D.; Tal-Ezer, H. Parameterization-free projection for geometry reconstruction. ACM Trans. Graph. 2007, 26, 22-es. [Google Scholar] [CrossRef]
+Hackel, T.; Savinov, N.; Ladicky, L.; Wegner, J.D.; Schindler, K.; Pollefeys, M. SEMANTIC3D.NET: A new large-scale point cloud classification benchmark. arXiv 2017, arXiv:1704.03847. [Google Scholar] [CrossRef] [Green Version]
+Du, J.; Chen, D.; Wang, R.; Peethambaran, J.; Mathiopoulos, P.T.; Xie, L.; Yun, T. A novel framework for 2.5-D building contouring from large-scale residential scenes. IEEE Trans. Geosci. Remote Sens. 2019, 57, 4121–4145. [Google Scholar] [CrossRef]
+Zolanvari, S.; Ruano, S.; Rana, A.; Cummins, A.; da Silva, R.E.; Rahbar, M.; Smolic, A. DublinCity: Annotated LiDAR point cloud and its applications. arXiv 2019, arXiv:1909.03613. [Google Scholar]
+Vallet, B.; Brédif, M.; Serna, A.; Marcotegui, B.; Paparoditis, N. TerraMobilita/iQmulus urban point cloud analysis benchmark. Comput. Graph. 2015, 49, 126–133. [Google Scholar] [CrossRef] [Green Version]
+Breiman, L. Random forests. Mach. Learn. 2001, 45, 5–32. [Google Scholar] [CrossRef] [Green Version]
+Qi, C.R.; Su, H.; Mo, K.; Guibas, L.J. Pointnet: Deep learning on point sets for 3d classification and segmentation. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Honolulu, HI, USA, 21–26 July 2017; pp. 652–660. [Google Scholar]
+Hu, Q.; Yang, B.; Xie, L.; Rosa, S.; Guo, Y.; Wang, Z.; Trigoni, N.; Markham, A. Randla-net: Efficient semantic segmentation of large-scale point clouds. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, Seattle, WA, USA, 16–20 June 2020; pp. 11108–11117. [Google Scholar]
+Figure 1. Pipeline of the proposed methodology. (a) The representative building is selected by the manual segmentation. (b) The visualization of confidence measure of building point clouds. (c) Gradient visualization of building point clouds. (d) Gradient structure tensor encoding. (e) The critical point clouds extraction via dual-threshold criterion. (f) The refinement of critical point clouds through simplification.
+Figure 2. Confidence measure visualization for a representative building. (a) Confidence measure visualization for building façades and rooftops. (b) The histogram distribution of confidence.
+Figure 3. Gradient property visualization for a representative building. (a) Gradient property visualization of building façades and rooftops. (b) The histogram distribution of each point’s gradient. Note that gradient values are normalized into the range [0, 1] for better visualization.
+Figure 4. Critical point cloud comparisons by single- and dual-threshold criteria.
+Figure 5. The refinement results generated by the grid, hierarchical, and WLOP algorithms with different input parameters.
+Figure 6. Critical point extraction from UAV-based photogrammetric point clouds. (a,c) are the colored point clouds of two representative Buildings A and B at Nanjing Forestry University. The generated critical points for these two buildings are shown in (b,d). Note that the enlarged rectangle views show that the UAV point clouds miss sharp edge features and have massive artifacts.
+Figure 7. Critical points derived from GeoSLAM ZEB-HORIZON point clouds. (a–c) are the raw points, the façade contour result, and their overlap map for better visualization.
+Figure 8. The critical point extraction from building façades using dual-threshold criterion. It can be seen that the results are slightly different based on the composition of 
+𝑇
+𝐺
+ and 
+𝑇
+𝑀
+¯
+.
+Figure 9. Comparison between dual-threshold result and the corresponding reference data for Semantic3D Building 4. (a) is the raw data of Semantic3D Building 4. (b,c) show that the reference data denoted by blue color and the dual-threshold result denoted by red color are superimposed onto their raw data. (d) is the overlap between the reference and the dual-threshold result.
+Figure 10. Comparison with classic Canny edge detector [33] and Xia’s method [36] on eight representative buildings in the Semantic3D dataset. The first two rows represent results derived from the Canny edge detector. The grayscale images in the first row generated by projection of Semantic3D TLS point clouds are provided as inputs to the Canny edge detector. Xia’s results are presented in the middle row, and our results are given in the bottom row.
+Figure 11. Critical point extraction from part of DublinCity and Dutch AHN3 datasets. Subfigures (a,b) are the part of DublinCity building point clouds and contour point results, while (c,d) are some selected building point clouds from the Dutch AHN3 dataset and their contour points. Since these two datasets are captured by airborne laser scanners, they have more detailed rooftop shapes than façades.
+Figure 12. Critical point results of TerraMobilita/iQmulus 3D urban analysis benchmark. Subfigures (a,c) are the raw point clouds, while (b,d) are the corresponding building contour results. Point clouds in (c) come from subfigure (a). Note that subfigure (b) only includes building critical points, and the ground, trees, and other irrelevant objects are excluded according to the class label.
+Table 1. Parameters for the proposed critical point extraction algorithm. The symbol “-” denotes that the corresponding value can be calculated by the given dataset. “
+𝜌
+” is the mean density of the dataset and “
+𝜇
+” is the mean value of the gradient, which can be obtained by the histogram analysis of a set of individual building points.
+Table 2. Quantitative evaluation of extracted critical points’ compactness. #Building and #Reference represent the number of point clouds for building raw data and reference data. 
+𝐶
+𝑎
+ and 
+𝐶
+𝑏
+ denote the compactness ratios of the generated critical point clouds with respect to the input buildings and the reference point clouds. Two types of ratios are calculated in two phases, including the dual-threshold judgment stage and the refinement stage using three different simplification algorithms. The symbol “-” means the corresponding data are not available.
+Table 3. The accuracy statistics for eight representative buildings in Semantic3D dataset. The symbols Min, Max, Mean, and 
+SD
+ represent the minimum, maximum, mean, and standard deviation of the Euclidean distance from the critical point to its closest point in the reference. ‘RMSE’ measures the RMS distance from the extracted critical point to its closest point in the reference. These values are normalized (
+𝑅
+𝑀
+𝑆
+𝐸
+′
+) to the diagonal length of the building’s bounding box. The first five measures are all in meters, while the last measure 
+𝑅
+𝑀
+𝑆
+𝐸
+′
+ is dimensionless. Four rows of values associated with each building represent the statistics generated by dual-threshold analysis, grid refinement, hierarchy refinement, and WLOP refinement.
+Table 4. Quantitative comparison between our method and Xia’s method [36] of eight buildings in the Semantic3D dataset in terms of 
+𝑀
+𝑒
+𝑎
+𝑛
+, 
+SD
+, 
+𝑅
+𝑀
+𝑆
+𝐸
+, and 
+𝐶
+𝑜
+𝑚
+𝑝
+𝑎
+𝑐
+𝑡
+𝑛
+𝑒
+𝑠
+𝑠
+. Note that all values are the average of eight buildings in the Semantic3D dataset.
+	
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+© 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+Share and Cite
+      
+MDPI and ACS Style
+
+Chen, D.; Li, J.; Di, S.; Peethambaran, J.; Xiang, G.; Wan, L.; Li, X. Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor. Remote Sens. 2021, 13, 3146. https://doi.org/10.3390/rs13163146
+
+AMA Style
+
+
+Chen D, Li J, Di S, Peethambaran J, Xiang G, Wan L, Li X. Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor. Remote Sensing. 2021; 13(16):3146. https://doi.org/10.3390/rs13163146
+
+Chicago/Turabian Style
+
+
+Chen, Dong, Jing Li, Shaoning Di, Jiju Peethambaran, Guiqiu Xiang, Lincheng Wan, and Xianghong Li. 2021. "Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor" Remote Sensing 13, no. 16: 3146. https://doi.org/10.3390/rs13163146
+
+APA Style
+
+
+Chen, D., Li, J., Di, S., Peethambaran, J., Xiang, G., Wan, L., & Li, X. (2021). Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor. Remote Sensing, 13(16), 3146. https://doi.org/10.3390/rs13163146
+
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here.
+Article Metrics
+Remote Sens., EISSN 2072-4292, Published by MDPI RSS Content Alert
+Further Information
+Article Processing Charges
+Pay an Invoice
+Open Access Policy
+Contact MDPI
+Jobs at MDPI
+Guidelines
+For Authors
+For Reviewers
+For Editors
+For Librarians
+For Publishers
+For Societies
+For Conference Organizers
+MDPI Initiatives
+Sciforum
+MDPI Books
+Preprints.org
+Scilit
+SciProfiles
+Encyclopedia
+JAMS
+Proceedings Series
+Follow MDPI
+LinkedIn
+Facebook
+Twitter
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+Acoustics
+Acta Microbiologica Hellenica
+Actuators
+Adhesives
+Administrative Sciences
+Adolescents
+Advances in Respiratory Medicine
+Aerobiology
+Aerospace
+Agriculture
+AgriEngineering
+Agrochemicals
+Agronomy
+AI
+Air
+Algorithms
+Allergies
+Alloys
+Analytica
+Analytics
+Anatomia
+Anesthesia Research
+Animals
+Antibiotics
+Antibodies
+Antioxidants
+Applied Biosciences
+Applied Mechanics
+Applied Microbiology
+Applied Nano
+Applied Sciences
+Applied System Innovation
+AppliedChem
+AppliedMath
+Aquaculture Journal
+Architecture
+Arthropoda
+Arts
+Astronomy
+Atmosphere
+Atoms
+Audiology Research
+Automation
+Axioms
+Bacteria
+Batteries
+Behavioral Sciences
+Beverages
+Big Data and Cognitive Computing
+BioChem
+Bioengineering
+Biologics
+Biology
+Biology and Life Sciences Forum
+Biomass
+Biomechanics
+BioMed
+Biomedicines
+BioMedInformatics
+Biomimetics
+Biomolecules
+Biophysica
+Biosensors
+Biosphere
+BioTech
+Birds
+Blockchains
+Brain Sciences
+Buildings
+Businesses
+C
+Cancers
+Cardiogenetics
+Catalysts
+Cells
+Ceramics
+Challenges
+ChemEngineering
+Chemistry
+Chemistry Proceedings
+Chemosensors
+Children
+Chips
+CivilEng
+Clean Technologies
+Climate
+Clinical and Translational Neuroscience
+Clinical Bioenergetics
+Clinics and Practice
+Clocks & Sleep
+Coasts
+Coatings
+Colloids and Interfaces
+Colorants
+Commodities
+Complications
+Compounds
+Computation
+Computer Sciences & Mathematics Forum
+Computers
+Condensed Matter
+Conservation
+Construction Materials
+Corrosion and Materials Degradation
+Cosmetics
+COVID
+Craniomaxillofacial Trauma & Reconstruction
+Crops
+Cryo
+Cryptography
+Crystals
+Current Issues in Molecular Biology
+Current Oncology
+Dairy
+Data
+Dentistry Journal
+Dermato
+Dermatopathology
+Designs
+Diabetology
+Diagnostics
+Dietetics
+Digital
+Disabilities
+Diseases
+Diversity
+DNA
+Drones
+Drugs and Drug Candidates
+Dynamics
+Earth
+Ecologies
+Econometrics
+Economies
+Education Sciences
+Electricity
+Electrochem
+Electronic Materials
+Electronics
+Emergency Care and Medicine
+Encyclopedia
+Endocrines
+Energies
+Energy Storage and Applications
+Eng
+Engineering Proceedings
+Entropy
+Environmental and Earth Sciences Proceedings
+Environments
+Epidemiologia
+Epigenomes
+European Burn Journal
+European Journal of Investigation in Health, Psychology and Education
+Fermentation
+Fibers
+FinTech
+Fire
+Fishes
+Fluids
+Foods
+Forecasting
+Forensic Sciences
+Forests
+Fossil Studies
+Foundations
+Fractal and Fractional
+Fuels
+Future
+Future Internet
+Future Pharmacology
+Future Transportation
+Galaxies
+Games
+Gases
+Gastroenterology Insights
+Gastrointestinal Disorders
+Gastronomy
+Gels
+Genealogy
+Genes
+Geographies
+GeoHazards
+Geomatics
+Geometry
+Geosciences
+Geotechnics
+Geriatrics
+Glacies
+Gout, Urate, and Crystal Deposition Disease
+Grasses
+Green Health
+Hardware
+Healthcare
+Hearts
+Hemato
+Hematology Reports
+Heritage
+Histories
+Horticulturae
+Hospitals
+Humanities
+Humans
+Hydrobiology
+Hydrogen
+Hydrology
+Hygiene
+Immuno
+Infectious Disease Reports
+Informatics
+Information
+Infrastructures
+Inorganics
+Insects
+Instruments
+Intelligent Infrastructure and Construction
+International Journal of Environmental Research and Public Health
+International Journal of Financial Studies
+International Journal of Molecular Sciences
+International Journal of Neonatal Screening
+International Journal of Orofacial Myology and Myofunctional Therapy
+International Journal of Plant Biology
+International Journal of Topology
+International Journal of Translational Medicine
+International Journal of Turbomachinery, Propulsion and Power
+International Medical Education
+Inventions
+IoT
+ISPRS International Journal of Geo-Information
+J
+Journal of Ageing and Longevity
+Journal of Cardiovascular Development and Disease
+Journal of Clinical & Translational Ophthalmology
+Journal of Clinical Medicine
+Journal of Composites Science
+Journal of Cybersecurity and Privacy
+Journal of Dementia and Alzheimer's Disease
+Journal of Developmental Biology
+Journal of Experimental and Theoretical Analyses
+Journal of Eye Movement Research
+Journal of Functional Biomaterials
+Journal of Functional Morphology and Kinesiology
+Journal of Fungi
+Journal of Imaging
+Journal of Intelligence
+Journal of Low Power Electronics and Applications
+Journal of Manufacturing and Materials Processing
+Journal of Marine Science and Engineering
+Journal of Market Access & Health Policy
+Journal of Mind and Medical Sciences
+Journal of Molecular Pathology
+Journal of Nanotheranostics
+Journal of Nuclear Engineering
+Journal of Otorhinolaryngology, Hearing and Balance Medicine
+Journal of Parks
+Journal of Personalized Medicine
+Journal of Pharmaceutical and BioTech Industry
+Journal of Respiration
+Journal of Risk and Financial Management
+Journal of Sensor and Actuator Networks
+Journal of the Oman Medical Association
+Journal of Theoretical and Applied Electronic Commerce Research
+Journal of Vascular Diseases
+Journal of Xenobiotics
+Journal of Zoological and Botanical Gardens
+Journalism and Media
+Kidney and Dialysis
+Kinases and Phosphatases
+Knowledge
+LabMed
+Laboratories
+Land
+Languages
+Laws
+Life
+Limnological Review
+Lipidology
+Liquids
+Literature
+Livers
+Logics
+Logistics
+Lubricants
+Lymphatics
+Machine Learning and Knowledge Extraction
+Machines
+Macromol
+Magnetism
+Magnetochemistry
+Marine Drugs
+Materials
+Materials Proceedings
+Mathematical and Computational Applications
+Mathematics
+Medical Sciences
+Medical Sciences Forum
+Medicina
+Medicines
+Membranes
+Merits
+Metabolites
+Metals
+Meteorology
+Methane
+Methods and Protocols
+Metrics
+Metrology
+Micro
+Microbiology Research
+Micromachines
+Microorganisms
+Microplastics
+Microwave
+Minerals
+Mining
+Modelling
+Modern Mathematical Physics
+Molbank
+Molecules
+Multimodal Technologies and Interaction
+Muscles
+Nanoenergy Advances
+Nanomanufacturing
+Nanomaterials
+NDT
+Network
+Neuroglia
+Neurology International
+NeuroSci
+Nitrogen
+Non-Coding RNA
+Nursing Reports
+Nutraceuticals
+Nutrients
+Obesities
+Oceans
+Onco
+Optics
+Oral
+Organics
+Organoids
+Osteology
+Oxygen
+Parasitologia
+Particles
+Pathogens
+Pathophysiology
+Pediatric Reports
+Pets
+Pharmaceuticals
+Pharmaceutics
+Pharmacoepidemiology
+Pharmacy
+Philosophies
+Photochem
+Photonics
+Phycology
+Physchem
+Physical Sciences Forum
+Physics
+Physiologia
+Plants
+Plasma
+Platforms
+Pollutants
+Polymers
+Polysaccharides
+Populations
+Poultry
+Powders
+Proceedings
+Processes
+Prosthesis
+Proteomes
+Psychiatry International
+Psychoactives
+Psychology International
+Publications
+Quantum Beam Science
+Quantum Reports
+Quaternary
+Radiation
+Reactions
+Real Estate
+Receptors
+Recycling
+Regional Science and Environmental Economics
+Religions
+Remote Sensing
+Reports
+Reproductive Medicine
+Resources
+Rheumato
+Risks
+Robotics
+Ruminants
+Safety
+Sci
+Scientia Pharmaceutica
+Sclerosis
+Seeds
+Sensors
+Separations
+Sexes
+Signals
+Sinusitis
+Smart Cities
+Social Sciences
+Société Internationale d’Urologie Journal
+Societies
+Software
+Soil Systems
+Solar
+Solids
+Spectroscopy Journal
+Sports
+Standards
+Stats
+Stresses
+Surfaces
+Surgeries
+Surgical Techniques Development
+Sustainability
+Sustainable Chemistry
+Symmetry
+SynBio
+Systems
+Targets
+Taxonomy
+Technologies
+Telecom
+Textiles
+Thalassemia Reports
+Therapeutics
+Thermo
+Time and Space
+Tomography
+Tourism and Hospitality
+Toxics
+Toxins
+Transplantology
+Trauma Care
+Trends in Higher Education
+Tropical Medicine and Infectious Disease
+Universe
+Urban Science
+Uro
+Vaccines
+Vehicles
+Venereology
+Veterinary Sciences
+Vibration
+Virtual Worlds
+Viruses
+Vision
+Waste
+Water
+Wild
+Wind
+Women
+World
+World Electric Vehicle Journal
+Youth
+Zoonotic Diseases
+  Subscribe
+© 1996-2025 MDPI (Basel, Switzerland) unless otherwise stated
+Disclaimer Terms and Conditions Privacy Policy
+
+## Metadata
+
+```json
+{
+  "title": "Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor",
+  "description": "This paper proposes a building façade contouring method from LiDAR (Light Detection and Ranging) scans and photogrammetric point clouds. To this end, we calculate the confidence property at multiple scales for an individual point cloud to measure the point cloud’s quality. The confidence property is utilized in the definition of the gradient for each point. We encode the individual point gradient structure tensor, whose eigenvalues reflect the gradient variations in the local neighborhood areas. The critical point clouds representing the building façade and rooftop (if, of course, such rooftops exist) contours are then extracted by jointly analyzing dual-thresholds of the gradient and gradient structure tensor. Based on the requirements of compact representation, the initial obtained critical points are finally downsampled, thereby achieving a tradeoff between the accurate geometry and abstract representation at a reasonable level. Various experiments using representative buildings in Semantic3D benchmark and other ubiquitous point clouds from ALS DublinCity and Dutch AHN3 datasets, MLS TerraMobilita/iQmulus 3D urban analysis benchmark, UAV-based photogrammetric dataset, and GeoSLAM ZEB-HORIZON scans have shown that the proposed method generates building contours that are accurate, lightweight, and robust to ubiquitous point clouds. Two comparison experiments also prove the superiority of the proposed method in terms of topological correctness, geometric accuracy, and representation compactness.",
+  "url": "https://www.mdpi.com/2072-4292/13/16/3146",
+  "content": " menu\n \nSearch:\nAll Journals\nAcoustics\nActa Microbiologica Hellenica (AMH)\nActuators\nAdhesives\nAdministrative Sciences\nAdolescents\nAdvances in Respiratory Medicine (ARM)\nAerobiology\nAerospace\nAgriculture\nAgriEngineering\nAgrochemicals\nAgronomy\nAI\nAir\nAlgorithms\nAllergies\nAlloys\nAnalytica\nAnalytics\nAnatomia\nAnesthesia Research\nAnimals\nAntibiotics\nAntibodies\nAntioxidants\nApplied Biosciences\nApplied Mechanics\nApplied Microbiology\nApplied Nano\nApplied Sciences\nApplied System Innovation (ASI)\nAppliedChem\nAppliedMath\nAquaculture Journal\nArchitecture\nArthropoda\nArts\nAstronomy\nAtmosphere\nAtoms\nAudiology Research\nAutomation\nAxioms\nBacteria\nBatteries\nBehavioral Sciences\nBeverages\nBig Data and Cognitive Computing (BDCC)\nBioChem\nBioengineering\nBiologics\nBiology\nBiology and Life Sciences Forum\nBiomass\nBiomechanics\nBioMed\nBiomedicines\nBioMedInformatics\nBiomimetics\nBiomolecules\nBiophysica\nBiosensors\nBiosphere\nBioTech\nBirds\nBlockchains\nBrain Sciences\nBuildings\nBusinesses\nC\nCancers\nCardiogenetics\nCatalysts\nCells\nCeramics\nChallenges\nChemEngineering\nChemistry\nChemistry Proceedings\nChemosensors\nChildren\nChips\nCivilEng\nClean Technologies (Clean Technol.)\nClimate\nClinical and Translational Neuroscience (CTN)\nClinical Bioenergetics\nClinics and Practice\nClocks & Sleep\nCoasts\nCoatings\nColloids and Interfaces\nColorants\nCommodities\nComplications\nCompounds\nComputation\nComputer Sciences & Mathematics Forum\nComputers\nCondensed Matter\nConservation\nConstruction Materials\nCorrosion and Materials Degradation (CMD)\nCosmetics\nCOVID\nCraniomaxillofacial Trauma & Reconstruction (CMTR)\nCrops\nCryo\nCryptography\nCrystals\nCurrent Issues in Molecular Biology (CIMB)\nCurrent Oncology\nDairy\nData\nDentistry Journal\nDermato\nDermatopathology\nDesigns\nDiabetology\nDiagnostics\nDietetics\nDigital\nDisabilities\nDiseases\nDiversity\nDNA\nDrones\nDrugs and Drug Candidates (DDC)\nDynamics\nEarth\nEcologies\nEconometrics\nEconomies\nEducation Sciences\nElectricity\nElectrochem\nElectronic Materials\nElectronics\nEmergency Care and Medicine\nEncyclopedia\nEndocrines\nEnergies\nEnergy Storage and Applications (ESA)\nEng\nEngineering Proceedings\nEntropy\nEnvironmental and Earth Sciences Proceedings\nEnvironments\nEpidemiologia\nEpigenomes\nEuropean Burn Journal (EBJ)\nEuropean Journal of Investigation in Health, Psychology and Education (EJIHPE)\nFermentation\nFibers\nFinTech\nFire\nFishes\nFluids\nFoods\nForecasting\nForensic Sciences\nForests\nFossil Studies\nFoundations\nFractal and Fractional (Fractal Fract)\nFuels\nFuture\nFuture Internet\nFuture Pharmacology\nFuture Transportation\nGalaxies\nGames\nGases\nGastroenterology Insights\nGastrointestinal Disorders\nGastronomy\nGels\nGenealogy\nGenes\nGeographies\nGeoHazards\nGeomatics\nGeometry\nGeosciences\nGeotechnics\nGeriatrics\nGlacies\nGout, Urate, and Crystal Deposition Disease (GUCDD)\nGrasses\nGreen Health\nHardware\nHealthcare\nHearts\nHemato\nHematology Reports\nHeritage\nHistories\nHorticulturae\nHospitals\nHumanities\nHumans\nHydrobiology\nHydrogen\nHydrology\nHygiene\nImmuno\nInfectious Disease Reports\nInformatics\nInformation\nInfrastructures\nInorganics\nInsects\nInstruments\nIntelligent Infrastructure and Construction\nInternational Journal of Environmental Research and Public Health (IJERPH)\nInternational Journal of Financial Studies (IJFS)\nInternational Journal of Molecular Sciences (IJMS)\nInternational Journal of Neonatal Screening (IJNS)\nInternational Journal of Orofacial Myology and Myofunctional Therapy (IJOM)\nInternational Journal of Plant Biology (IJPB)\nInternational Journal of Topology\nInternational Journal of Translational Medicine (IJTM)\nInternational Journal of Turbomachinery, Propulsion and Power (IJTPP)\nInternational Medical Education (IME)\nInventions\nIoT\nISPRS International Journal of Geo-Information (IJGI)\nJ\nJournal of Ageing and Longevity (JAL)\nJournal of Cardiovascular Development and Disease (JCDD)\nJournal of Clinical & Translational Ophthalmology (JCTO)\nJournal of Clinical Medicine (JCM)\nJournal of Composites Science (J. Compos. Sci.)\nJournal of Cybersecurity and Privacy (JCP)\nJournal of Dementia and Alzheimer's Disease (JDAD)\nJournal of Developmental Biology (JDB)\nJournal of Experimental and Theoretical Analyses (JETA)\nJournal of Eye Movement Research (JEMR)\nJournal of Functional Biomaterials (JFB)\nJournal of Functional Morphology and Kinesiology (JFMK)\nJournal of Fungi (JoF)\nJournal of Imaging (J. Imaging)\nJournal of Intelligence (J. Intell.)\nJournal of Low Power Electronics and Applications (JLPEA)\nJournal of Manufacturing and Materials Processing (JMMP)\nJournal of Marine Science and Engineering (JMSE)\nJournal of Market Access & Health Policy (JMAHP)\nJournal of Mind and Medical Sciences (JMMS)\nJournal of Molecular Pathology (JMP)\nJournal of Nanotheranostics (JNT)\nJournal of Nuclear Engineering (JNE)\nJournal of Otorhinolaryngology, Hearing and Balance Medicine (JOHBM)\nJournal of Parks\nJournal of Personalized Medicine (JPM)\nJournal of Pharmaceutical and BioTech Industry (JPBI)\nJournal of Respiration (JoR)\nJournal of Risk and Financial Management (JRFM)\nJournal of Sensor and Actuator Networks (JSAN)\nJournal of the Oman Medical Association (JOMA)\nJournal of Theoretical and Applied Electronic Commerce Research (JTAER)\nJournal of Vascular Diseases (JVD)\nJournal of Xenobiotics (JoX)\nJournal of Zoological and Botanical Gardens (JZBG)\nJournalism and Media\nKidney and Dialysis\nKinases and Phosphatases\nKnowledge\nLabMed\nLaboratories\nLand\nLanguages\nLaws\nLife\nLimnological Review\nLipidology\nLiquids\nLiterature\nLivers\nLogics\nLogistics\nLubricants\nLymphatics\nMachine Learning and Knowledge Extraction (MAKE)\nMachines\nMacromol\nMagnetism\nMagnetochemistry\nMarine Drugs\nMaterials\nMaterials Proceedings\nMathematical and Computational Applications (MCA)\nMathematics\nMedical Sciences\nMedical Sciences Forum\nMedicina\nMedicines\nMembranes\nMerits\nMetabolites\nMetals\nMeteorology\nMethane\nMethods and Protocols (MPs)\nMetrics\nMetrology\nMicro\nMicrobiology Research\nMicromachines\nMicroorganisms\nMicroplastics\nMicrowave\nMinerals\nMining\nModelling\nModern Mathematical Physics\nMolbank\nMolecules\nMultimodal Technologies and Interaction (MTI)\nMuscles\nNanoenergy Advances\nNanomanufacturing\nNanomaterials\nNDT\nNetwork\nNeuroglia\nNeurology International\nNeuroSci\nNitrogen\nNon-Coding RNA (ncRNA)\nNursing Reports\nNutraceuticals\nNutrients\nObesities\nOceans\nOnco\nOptics\nOral\nOrganics\nOrganoids\nOsteology\nOxygen\nParasitologia\nParticles\nPathogens\nPathophysiology\nPediatric Reports\nPets\nPharmaceuticals\nPharmaceutics\nPharmacoepidemiology\nPharmacy\nPhilosophies\nPhotochem\nPhotonics\nPhycology\nPhyschem\nPhysical Sciences Forum\nPhysics\nPhysiologia\nPlants\nPlasma\nPlatforms\nPollutants\nPolymers\nPolysaccharides\nPopulations\nPoultry\nPowders\nProceedings\nProcesses\nProsthesis\nProteomes\nPsychiatry International\nPsychoactives\nPsychology International\nPublications\nQuantum Beam Science (QuBS)\nQuantum Reports\nQuaternary\nRadiation\nReactions\nReal Estate\nReceptors\nRecycling\nRegional Science and Environmental Economics (RSEE)\nReligions\nRemote Sensing\nReports\nReproductive Medicine (Reprod. Med.)\nResources\nRheumato\nRisks\nRobotics\nRuminants\nSafety\nSci\nScientia Pharmaceutica (Sci. Pharm.)\nSclerosis\nSeeds\nSensors\nSeparations\nSexes\nSignals\nSinusitis\nSmart Cities\nSocial Sciences\nSociété Internationale d’Urologie Journal (SIUJ)\nSocieties\nSoftware\nSoil Systems\nSolar\nSolids\nSpectroscopy Journal\nSports\nStandards\nStats\nStresses\nSurfaces\nSurgeries\nSurgical Techniques Development\nSustainability\nSustainable Chemistry\nSymmetry\nSynBio\nSystems\nTargets\nTaxonomy\nTechnologies\nTelecom\nTextiles\nThalassemia Reports\nTherapeutics\nThermo\nTime and Space\nTomography\nTourism and Hospitality\nToxics\nToxins\nTransplantology\nTrauma Care\nTrends in Higher Education\nTropical Medicine and Infectious Disease (TropicalMed)\nUniverse\nUrban Science\nUro\nVaccines\nVehicles\nVenereology\nVeterinary Sciences\nVibration\nVirtual Worlds\nViruses\nVision\nWaste\nWater\nWild\nWind\nWomen\nWorld\nWorld Electric Vehicle Journal (WEVJ)\nYouth\nZoonotic Diseases\nAll Article Types\nArticle\nReview\nCommunication\nEditorial\nAbstract\nBook Review\nBrief Communication\nBrief Report\nCase Report\nClinicopathological Challenge\nComment\nCommentary\nConcept Paper\nConference Report\nCorrection\nCreative\nData Descriptor\nDiscussion\nEntry\nEssay\nExpression of Concern\nExtended Abstract\nField Guide\nGiants in Urology\nGuidelines\nHypothesis\nInteresting Images\nLetter\nNew Book Received\nObituary\nOpinion\nPerspective\nProceeding Paper\nProject Report\nProtocol\nRegistered Report\nReply\nRetraction\nShort Note\nStudy Protocol\nSystematic Review\nTechnical Note\nTutorial\nUrology around the World\nViewpoint\nAdvanced\n \nJournals  Remote Sensing  Volume 13  Issue 16  10.3390/rs13163146 \nSubmit to this Journal Review for this Journal Propose a Special Issue\nArticle Menu\nAcademic Editor\nBelen Riveiro\nSubscribe SciFeed\nRelated Info Link\nMore by Authors Links\nTable of Contents\nshare\nShare\nannouncement\nHelp\nformat_quote\nCite\nquestion_answer\nDiscuss in SciProfiles\nthumb_up\nEndorse\ntextsms\nComment\nsettings\nOrder Article Reprints\nOpen AccessArticle\nCritical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor\nby Dong Chen 1,Jing Li 1,†,Shaoning Di 1,2,†,Jiju Peethambaran 3,*,Guiqiu Xiang 1,Lincheng Wan 1 andXianghong Li 1\n1\nCollege of Civil Engineering, Nanjing Forestry University, Nanjing 210037, China\n2\nSchool of Geosciences and Info Physics, Central South University, Changsha 410083, China\n3\nDepartment of Mathematics and Computing Science, Saint Mary’s University, Halifax, NS B3P 2M6, Canada\n*\nAuthor to whom correspondence should be addressed.\n†\nThese authors contributed equally to this work.\nRemote Sens. 2021, 13(16), 3146; https://doi.org/10.3390/rs13163146\nSubmission received: 23 June 2021 / Revised: 27 July 2021 / Accepted: 3 August 2021 / Published: 9 August 2021\n(This article belongs to the Special Issue Advances in Deep Learning Based 3D Scene Understanding from LiDAR)\n\nDownload\nkeyboard_arrow_down\n Browse Figures Review Reports Versions Notes\n\nAbstract\n: This paper proposes a building façade contouring method from LiDAR (Light Detection and Ranging) scans and photogrammetric point clouds. To this end, we calculate the confidence property at multiple scales for an individual point cloud to measure the point cloud’s quality. The confidence property is utilized in the definition of the gradient for each point. We encode the individual point gradient structure tensor, whose eigenvalues reflect the gradient variations in the local neighborhood areas. The critical point clouds representing the building façade and rooftop (if, of course, such rooftops exist) contours are then extracted by jointly analyzing dual-thresholds of the gradient and gradient structure tensor. Based on the requirements of compact representation, the initial obtained critical points are finally downsampled, thereby achieving a tradeoff between the accurate geometry and abstract representation at a reasonable level. Various experiments using representative buildings in Semantic3D benchmark and other ubiquitous point clouds from ALS DublinCity and Dutch AHN3 datasets, MLS TerraMobilita/iQmulus 3D urban analysis benchmark, UAV-based photogrammetric dataset, and GeoSLAM ZEB-HORIZON scans have shown that the proposed method generates building contours that are accurate, lightweight, and robust to ubiquitous point clouds. Two comparison experiments also prove the superiority of the proposed method in terms of topological correctness, geometric accuracy, and representation compactness.\nKeywords: critical points; gradient; gradient structure tensor; simplification; building façade; Semantic3D; DublinCity; Dutch AHN3; potogrammetric point clouds; GeoSLAM\n\nGraphical Abstract\n1. Introduction\nBuilding contours are the most significant component of the geometric features of a building. As the most basic and critical feature, building contours provide the foundations for scene understanding [1], semantic annotation [2], and 3D abstract perception [3]. In the initial stage of computer vision, a majority of contouring methods are image-based because the “linear” features of images are more accurate when the resolution is guaranteed. Further, the contour of images has a clear definition: the image pixels at the discontinuities in gray level, color, texture, etc. [4]. These discontinuities produce four types of edge profiles which are step, ramp, roof, and ridge edges [5]. The building contour feature is an important feature for image segmentation [6], image understanding [7], and image recognition [8]; however, as image-based contouring cannot fully describe the 3D geometric shapes of complex objects, it is not directly applicable to applications in 3D scene recognition and geometric expression. Recently, the company ESRI (https://www.esri.com/en-us/home, last accessed on 6 August 2021) used the deep learning framework, i.e., MaskRCNN [9], to extract accurate building contours from high-resolution aerial and satellite imagery. The deep learning framework is capable of learning complex semantics and obtaining accurate building contours by training a network on a big dataset. Using deep learning for building contouring from aerial and satellite imagery is also computationally efficient compared with digitizing building features manually; however, it should be noted that the created building contours from aerial and satellite imagery are only 2D building footprints rather than 2.5D building highmaps or 3D building envelops.\nIn the past two decades, with the improvement of LiDAR sensor technology, the density and precision of point clouds have been significantly improved. The point clouds are sufficient to describe the global structure features and the local detailed geometric features, which facilitate critical points extraction from point clouds [10]. Despite this, it should be noted that the outdoor scenes are complex and the scans are frequently contaminated by noise, outliers, and missing data caused by occlusion and/or self-occlusion. These adverse factors present a huge challenge for the intelligent extraction of building contours. One should be aware that the term “critical points” has not yet been clearly defined in the context of point clouds [11]. Compared with feature extraction from the images, the feature extraction from the discrete point clouds is far from being mature, and there is still much room for improvement. In this paper, we explicitly define the term “critical points” in the context of 3D point clouds to avoid ambiguity. It contains three types of point sets: (1) corner points: the intersections of three non-parallel planes; (2) edge points: the intersections between two consecutive pairs of planes; (3) boundary points: the outer boundaries of planes, the boundaries of the inner holes, such as the frames of the windows, and the boundaries caused by missing data.\nCritical point extraction is the basis of many applications, such as 3D reconstruction [12,13,14,15], registration [16,17,18], target detection [19,20,21], and data simplification [22]. The critical points of buildings are important of the intermediate inputs for 3D reconstruction. For instance, Mineo et al. [13] propose an algorithm to generate tessellated meshes from point clouds by combing boundary points (a subset of critical points) extraction method and a Fourier transform based spatial filtering. The two stage method of [13] is insensitive to predefined thresholds and superior to methods based on polynomial fitting for 3D reconstruction. Critical points of the objects can also be regarded as the feature points for the registration of multiple scans. For example, Choi et al. [18] use the organized structure information (such as 3D shape information and photometric texture information) of RGB-D images to effectively detect critical points. These detected critical points are applied in edge-based pair-wise registration and a pose-graph SLAM problem based on this registration. The advantages of the registration algorithm based on the detected critical points are verified from both qualitative and quantitative perspectives. Critical point extraction is also the basis of many target detection methods. For example, Wang et al. [21] first extract the critical points of windows, and then realize detection and recognition of window targets by considering the position of windows. This method is robust to noisy data but is not suitable for window detection in complex and large-scale scenes. Data simplification can be achieved by extracting the critical points of objects. In this line, Song and Feng [22] propose a simplification algorithm to reduce the number of points of mechanical parts. This algorithm first identifies these critical points, and then gradually deletes the least important data points until the specified data reduction ratio is reached. The effectiveness of the simplification [22] is verified by the simplified results of several actual point cloud datasets.\nThe contour feature of point clouds is fundamental to many applications. We can generally categorize the existing contouring methods into two types based on the spatial dimensions in which the contouring is performed: image-based contouring methods and LiDAR-based contouring methods.\n(1) Image-based Contouring: The contouring methods in images are more mature than in 3D point clouds. Many methods project the input 3D point cloud onto an image, and directly use the existing contouring methods of images to extract contour pixels. In this line, some methods convert point clouds into grayscale images. For example, Li et al. [23] generate a corresponding grayscale image and then determine the critical points based on the contours detected in the grayscale image; however, this method is only for the extraction of the roof contours of buildings. Similarly, Poullis [24] converts the building roof points into a binary image, and then use the contouring method in the binary image to extract the roof contours. Converting the point clouds into a distance image is another commonly used method. Wang et al. [25] detect the contours in the 2D grayscale image and the distance image. Then multiple sets of contour pixels generated from grayscale and distance images are combined to finalize the contour generation from 3D point clouds. This method not only extracts the contours of the buildings but also regularizes it. Apart from the above methods, there are methods that establish the correspondences between the image pixels and the corresponding 3D point clouds to maintain accurate feature pairs. For example, Li et al. [26] use the elevation difference in the point clouds to extract rough contours, and then project these rough contours onto the image for compact contour extraction. This method has strong robustness in complex scenes. Chen et al. [27] match a single scene of point clouds with a single corresponding image to realize critical point detection. This method reduces the computational complexity.\n(2) LiDAR-based Contouring: Since the 3D point clouds contain the intrinsic structure information and topological relationship of object parts, the intrinsic information of 3D point clouds, such as curvature, normal vector, and gradient can also be used for the extraction of critical points. For instance, Yang and Zang [28] use local curvature as an edge index and select points with curvature higher than the given threshold as critical points. This method is suitable for contouring in small objects with high-quality point clouds. Demarsin et al. [29] first perform first-order segmentation and extraction of critical points based on normal vector estimation, and then organize the generated segments into a graph to restore sharp feature lines. Essentially, most of the edges can also be seen as intersections of surfaces. Borges et al. [30] divide the point clouds into planes and then locate critical points by calculating the intersection lines between adjacent planes; however, this method is not suitable for extracting the critical points from the objects with the small fragment of the planes. To solve this problem, Ni et al. [31] project adjacent points on a local plane and then extract critical points according to the angular gap metric. This method can achieve good results from the small scenes with high-quality point clouds, but for large and complex scenes, parameter tuning is an extremely difficult task.\nIn summary, image-based contouring methods need to rasterize 3D point clouds onto regular 2D images and use more mature image edge detection algorithms to extract various contour pixels; however, this type of method ignores the spatial information and topological relationship of the 3D point clouds and loses precision during coordinate transformation. Although LiDAR-based contouring methods overcome these drawbacks, this type of method is only suitable for contouring some specific objects, such as buildings, road curbs, and tree skeletons. It requires accurate segmentation and target recognition from 3D raw points [32], and it is difficult to control the thickness of the extracted critical points.\nIn this paper, we propose a method to extract critical points of buildings from 3D discrete point clouds. More specifically, the point confidence indicating the local quality of point clouds is estimated. After that, the 3D gradient of individual point is defined. The gradient of point clouds is successively encoded into 3 × 3 structure tensor whose eigenvalues represent the distribution of gradients in the local neighborhood. The problem of the façade critical points extraction can be transformed into the problem of analyzing eigenvalues of structure tensor along three eigenvectors. Considering the detected critical points are relatively thick, these critical points are refined by the concept of contour simplification. The proposed method is not only more accurate than the existing methods which directly derive contour features in 3D point clouds, but also superior to the projected contouring methods, which convert 3D point clouds into 2D images followed by image-based contouring [33]. In addition, the results of the proposed method have high precision and the method is capable of controlling the degree of contour thickness easily. Considering our work is built on the previous works, we explicitly denote the novel contributions of the paper.\nBuilding façade contouring framework: We propose a generic framework for building façade contouring from LiDAR and photogrammetric point clouds. The framework consists of five steps including confidence measure estimation, 3D gradient calculation, gradient structure tensor encoding, dual-threshold criterion, and simplification. These steps loosely coupled interact in the pipeline (see Figure 1) to enhance the flexibility of the framework, thereby achieving a tradeoff between geometric accuracy and compact abstraction of building façades.\nGradient structure tensor encoding: We encode each point’s structure tensor, which describes the gradient variation in the local neighborhood areas. Through analyzing each point’s structure tensor, building point clouds can be roughly labeled into corner points, edge points, boundary points, and constant points (see Section 2.3).\nThe solid experiments and effective comparisons: We provide qualitative and quantitative performance evaluations using five datasets, and give two comparisons with the state-of-the-art methods to demonstrate the superiority of the proposed method in terms of topological correctness, geometric accuracy, and compact abstraction.\nThe reminder of this paper is organized as follows. Section 2 describes the detailed methodology including 3D gradient definition, gradient structure tensor encoding, dual-threshold criterion, and the concept of refinement. In Section 3, the experimental datasets, the performance evaluation of building contours are presented, analyzed, and discussed. Finally, Section 4 concludes the paper along with a few suggestions for future research topics.\n2. Methodology\nTo generate a compact set of critical points of building façades and rooftops (if, of course, such rooftops exist), we propose the methodology that consists of the following steps that are denoted in Figure 1. The confidence measure of each point is estimated by the eigenvalue analysis of covariance matrix established in a local neighborhood (see Figure 1b), followed by the calculation of the gradient of each point cloud in 3D space (see Figure 1c). The point’s gradient is then decomposed into three components along with the corresponding coordinate axis. We encode gradient information of the point cloud into a 3 × 3 structure tensor, whose eigenvalues can reflect the gradient distribution in the local neighborhood of each point. (see Figure 1d). After that, the confidence measure and the gradient structure tensor of each point are both provided as inputs to the proposed dual-threshold method, which determines whether the current point under processing is a critical point or not (see Figure 1e). In the final step, we simplify the results to provide a highly compact set of critical points, thereby enhancing the flexibility of building façade abstraction (see Figure 1f).\n2.1. Confidence Estimation\nConfidence measures the local quality of point clouds within a small sphere centered at the individual point. Since the purpose of this paper is to extract critical points from building façades, the confidence definition should be directly related to the characteristics of these critical points. Based on this principle, we estimate the confidence by a combination of two geometric properties, i.e., fitting quality \n𝐶\n𝑓\n and sampling uniformity \n𝐶\n𝑠\n. The first geometric property represents the fitting quality of the local tangent plane at point \n𝑝\n𝑖\n, and it can be calculated by: \n𝐶\n𝑓\n𝑖\n=\n𝜆\n0\n𝑖\n/\n(\n𝜆\n0\n𝑖\n+\n𝜆\n1\n𝑖\n+\n𝜆\n2\n𝑖\n)\n, where \n𝜆\n0\n𝑖\n≤\n𝜆\n1\n𝑖\n≤\n𝜆\n2\n𝑖\n represents three eigenvalues of the covariance matrix of point \n𝑝\n𝑖\n and its local neighborhood points. If point \n𝑝\n𝑖\n and its local neighbors can perfectly fit the local tangent plane, the value of fitting quality measure \n𝐶\n𝑓\n𝑖\n of \n𝑝\n𝑖\n approaches 0. In contrast, if the neighbors of point \n𝑝\n𝑖\n is inhomogeneous, they are most probably distributed on façade edges, façade corners, and façade extrusions and intrusions. In this case, the value of \n𝐶\n𝑓\n𝑖\n of \n𝑝\n𝑖\n tends to be 1. The second geometric property \n𝐶\n𝑠\n represents the local sampling uniformity, and it can be calculated by the following equation: \n𝐶\n𝑠\n𝑖\n=\n𝜆\n1\n𝑖\n/\n𝜆\n2\n𝑖\n. If point \n𝑝\n𝑖\n and its local neighbors are distributed linearly, the value of \n𝐶\n𝑠\n of \n𝑝\n𝑖\n approaches 0; if uniformly distributed, \n𝐶\n𝑠\n tends to be 1; therefore, this measure is effective detection of outer boundaries of façades and the window frames, where the density variances and data missing frequently occur due to laser beam penetration through window glass. In addition, to make the calculation of confidence measure more robust, the above two measures are calculated at multiple scales by varying the size of the neighborhood spheres. In our case, we set three scales of the local neighborhood sphere with a radius of 1.0, 1.5, and 2.0 times of mean point density of point clouds. Inspired by the work in [34], the complete confidence measure \n𝐶\n𝑖\n∈\n[\n0\n,\n1\n]\n of point \n𝑝\n𝑖\n is given as below:\n𝐶\n𝑖\n=\n1\n−\n1\n𝑛\n∑\n𝑗\n=\n1\n𝑛\n(\n1\n−\n3\n𝐶\n𝑓\n𝑖\n)\n·\n𝐶\n𝑠\n𝑖\n\t\n(1)\nwhere, parameter n represents the number of static scales for individual point’s confidence estimation. It is obvious that if the confidence measure \n𝐶\n𝑖\n of point \n𝑝\n𝑖\n tends to be 1, it means \n𝑝\n𝑖\n mostly comes from façade boundaries, corners, windows frames, and other shapes that varied dramatically, as demonstrated in Figure 2. In contrast, if this value approaches 0, the point \n𝑝\n𝑖\n has high local fitting quality, and it most likely comes from inner points of façades, as evident in Figure 2.\n2.2. Gradient Definition in 3D Point Cloud Space\nOnce the confidence measures of point clouds are estimated, we can define the gradient for the discrete point clouds in 3D space based on the confidence measure. We first analyze the directional derivative, from which the gradient can be inferred. The directional derivative denotes a rate of change of a function in any given direction. The gradient indicates the direction of the greatest change of a function of more than one variable. The magnitude of the gradient is the largest value of all directional derivatives of the current point, and the gradient direction is the corresponding direction of the directional derivative. Let function \n𝑓\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n be a differentiable function with three variables and \n𝑢\n=\ncos\n(\n𝛼\n)\n𝑖\n+\ncos\n(\n𝛽\n)\n𝑗\n+\ncos\n(\n𝛾\n)\n𝑘\n be a direction vector in the 3D space. The directional derivative of function \n𝑓\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n along the direction vector u is given by the equation: \n𝐷\n𝑢\n𝑓\n=\nlim\n𝑡\n→\n0\n𝑓\n(\n𝑥\n+\n𝑡\ncos\n(\n𝛼\n)\n,\n𝑦\n+\n𝑡\n𝑐\n𝑜\n𝑠\n(\n𝛽\n)\n,\n𝑧\n+\n𝑡\ncos\n(\n𝛾\n)\n)\n−\n𝑓\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n𝑡\n if the limit exists. Three angles \n𝛼\n, \n𝛽\n, and \n𝛾\n represent the angles between the directional vector u and positive of three axes. The symbol t represents the distance between the current point and its neighbors. The maximum value of the directional derivative occurs when the gradient \n∇\n𝑓\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n and the direction vector u are in the same direction.\nIn the context of discrete point clouds, the function \n𝑓\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n denotes the confidence value at point \n𝑝\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n. The gradient value \n𝐺\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n of point \n𝑝\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n can be obtained by maximizing the directional derivative \n𝐷\n𝑢\n𝑓\n, which is approximately equal to \nmax\n𝑗\n∈\n𝑁\n(\n𝐶\n𝑖\n−\n𝐶\n𝑗\n𝑑\n𝑖\n𝑗\n)\n, where \n𝐶\n𝑖\n and \n𝐶\n𝑗\n represent the confidence measures of current point \n𝑝\n𝑖\n and its neighborhood point \n𝑝\n𝑗\n selected from \n𝑝\n𝑖\n’s neighborhood set N; \n𝑑\n𝑖\n𝑗\n denotes the Euclidean distance from point \n𝑝\n𝑖\n to point \n𝑝\n𝑗\n. The relationship between gradient and directional derivative in the discrete form of 3D space is given below:\n𝐺\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n=\nmax\n(\n𝐷\n𝑢\n𝑓\n)\n≈\nmax\n𝑗\n∈\n𝑁\n(\n𝐶\n𝑖\n−\n𝐶\n𝑗\n𝑑\n𝑖\n𝑗\n)\n.\n\t\n(2)\nThe gradients of individual point cloud are vividly shown in Figure 3. The value of gradient \n𝐺\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n of point \n𝑝\n𝑖\n can be decomposed into three components along three axes:\n𝑔\n𝑥\n≈\nmax\n𝑗\n∈\n𝑁\n(\n𝐶\n𝑖\n−\n𝐶\n𝑗\n𝑑\n𝑖\n𝑗\n)\n×\n𝑑\n𝑖\n𝑗\n𝑥\n𝑑\n𝑖\n𝑗\n\n\n𝑔\n𝑦\n≈\nmax\n𝑗\n∈\n𝑁\n(\n𝐶\n𝑖\n−\n𝐶\n𝑗\n𝑑\n𝑖\n𝑗\n)\n×\n𝑑\n𝑖\n𝑗\n𝑦\n𝑑\n𝑖\n𝑗\n\n\n𝑔\n𝑧\n≈\nmax\n𝑗\n∈\n𝑁\n(\n𝐶\n𝑖\n−\n𝐶\n𝑗\n𝑑\n𝑖\n𝑗\n)\n×\n𝑑\n𝑖\n𝑗\n𝑧\n𝑑\n𝑖\n𝑗\n\t\n(3)\nwhere \n𝑑\n𝑖\n𝑗\n𝑥\n, \n𝑑\n𝑖\n𝑗\n𝑦\n, and \n𝑑\n𝑖\n𝑗\n𝑧\n represent the coordinate differences between \n𝑝\n𝑖\n and \n𝑝\n𝑗\n in x-, y-, and z-axis.\n2.3. Gradient Structure Tensor Generation\nInspired by Harris’s corner detector [35] and edge detector [36] using the intensity changes by shifting the windows in a small amount in various directions, we calculate the changes of the point gradient by shifting a small amount in various directions \n(\nΔ\n𝑥\n,\nΔ\n𝑦\n,\nΔ\n𝑧\n)\n in 3D point cloud space. The change of gradient \n𝐸\n(\nΔ\n𝑥\n,\nΔ\n𝑦\n,\nΔ\n𝑧\n)\n of a point cloud \n𝑝\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n in the local neighborhood set N can be represented as below:\n𝐸\n(\nΔ\n𝑥\n,\nΔ\n𝑦\n,\nΔ\n𝑧\n)\n=\n∑\n𝑝\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n∈\n𝑁\n[\n𝐺\n𝑥\n+\nΔ\n𝑥\n,\n𝑦\n+\nΔ\n𝑦\n,\n𝑧\n+\nΔ\n𝑧\n−\n𝐺\n𝑥\n,\n𝑦\n,\n𝑧\n]\n2\n\t\n(4)\nEquation (4) can be transformed into Equation (5) using Taylor expansion with \n𝑂\n(\nΔ\n𝑥\n2\n+\nΔ\n𝑦\n2\n+\nΔ\n𝑧\n2\n)\n as the reminder term:\n𝐸\n(\nΔ\n𝑥\n,\nΔ\n𝑦\n,\nΔ\n𝑧\n)\n\t\n=\n∑\n𝑝\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n∈\n𝑁\n[\nΔ\n𝑥\n·\n𝑔\n𝑥\n+\nΔ\n𝑦\n·\n𝑔\n𝑦\n+\nΔ\n𝑧\n·\n𝑔\n𝑧\n+\n𝑂\n(\nΔ\n𝑥\n2\n+\nΔ\n𝑦\n2\n+\nΔ\n𝑧\n2\n)\n]\n2\n\n\t\n≈\n(\nΔ\n𝑥\n,\nΔ\n𝑦\n,\nΔ\n𝑧\n)\n𝑀\n(\nΔ\n𝑥\n,\nΔ\n𝑦\n,\nΔ\n𝑧\n)\n𝑇\n\t\n(5)\nwhere \n𝑀\n=\n∑\n𝑝\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n∈\n𝑁\n𝑔\n𝑥\n2\n\t\n𝑔\n𝑥\n𝑔\n𝑦\n\t\n𝑔\n𝑥\n𝑔\n𝑧\n\n\n𝑔\n𝑦\n𝑔\n𝑥\n\t\n𝑔\n𝑦\n2\n\t\n𝑔\n𝑦\n𝑔\n𝑧\n\n\n𝑔\n𝑧\n𝑔\n𝑥\n\t\n𝑔\n𝑧\n𝑔\n𝑦\n\t\n𝑔\n𝑧\n2\n, and it represents the gradient structure tensor of the local neighborhood point set N centered at current point \n𝑝\n𝑖\n. M is a semi-positive and symmetric matrix, whose three eigenvalues \n𝜆\n0\n𝑀\n, \n𝜆\n1\n𝑀\n and \n𝜆\n2\n𝑀\n are mutually orthogonal. The gradient distribution in the local neighborhood set N can be estimated by analyzing three eigenvalues of gradient structure tensor M. The current point \n𝑝\n𝑖\n has four status to be considered:\nCorner points: the current point \n𝑝\n𝑖\n is most probably at the intersection area of three mutually nonparallel surfaces (façades and rooftop planes). In this case, all three eigenvalues are large.\nEdge points: the current point \n𝑝\n𝑖\n most likely belongs to the intersection edges generated from façades and/or rooftop planes. In this situation, two eigenvalues are relatively large.\nBoundary points: the current point \n𝑝\n𝑖\n most probably comes from the outer boundaries or boundaries of inner holes (e.g., window frames) caused by missing data of the façades. In this case, only one large eigenvalue can be observed.\nConstant points: the local neighborhood areas of current point \n𝑝\n𝑖\n maintain approximately constant gradient values, i.e., arbitrary shifts of 3d voxel windows centered at \n𝑝\n𝑖\n cause little change value in E (see Equation (4)). All three eigenvalues are small in this case.\nObviously, the term critical points in our paper refer to three types of point sets, including corner points, intersection points, and boundary points. These three parts constitute the skeleton of building façades.\nAs the gradient matrix, M is calculated as a discrete form rather than continuous representation, the calculated eigenvalues are not stable and robust. That is to say, the obtained gradient structure tensor M cannot fully reflect the gradient distributions in the local neighborhood areas. To solve this deficiency, the gradient structure tensor M needs to be smoothed using the Gaussian weight function, and the smoothing processing is given as follows:\n𝑀\n𝑖\n¯\n=\n∑\n𝑝\n𝑗\n∈\n𝑁\n𝐺\n𝑎\n𝑢\n𝑠\n𝑠\n(\n𝑝\n𝑖\n,\n𝑝\n𝑗\n)\n·\n𝑀\n𝑖\n⊗\n𝑀\n𝑗\n\n\n𝑠\n.\n𝑡\n.\n𝐺\n𝑎\n𝑢\n𝑠\n𝑠\n(\n𝑝\n𝑖\n,\n𝑝\n𝑗\n)\n=\n1\n𝜎\n2\n𝜋\n𝑒\n−\n‖\n𝑝\n𝑖\n−\n𝑝\n𝑗\n‖\n2\n2\n𝜎\n2\n\t\n(6)\nwhere, “·” represents the multiplication of numbers and matrices, and the symbol “⊗” represents convolution operation between two gradient structure tensors \n𝑀\n𝑖\n and \n𝑀\n𝑗\n produced by two point \n𝑝\n𝑖\n and \n𝑝\n𝑗\n according to Equation (5). \n𝑀\n𝑖\n¯\n is the Gaussian smoothed version of \n𝑀\n𝑖\n. \n𝜎\n is the standard deviation of distance between current \n𝑝\n𝑖\n and its neighborhood point \n𝑝\n𝑗\n.\n2.4. Dual-Threshold Criterion\nAs the large or small eigenvalue is hard to be defined, inspired by [35], we directly define the response function using the three eigenvalues of gradient structure tensor M to detect the critical points from building façades. The response function of critical points is defined below:\n𝑅\n𝑀\n¯\n=\n𝑑\n𝑒\n𝑡\n(\n𝑀\n¯\n)\n−\n𝑘\n[\n𝑡\n𝑟\n𝑎\n𝑐\n𝑒\n(\n𝑀\n¯\n)\n]\n3\n.\n\n\n𝑠\n.\n𝑡\n.\n𝑑\n𝑒\n𝑡\n(\n𝑀\n¯\n)\n=\n𝜆\n0\n𝑀\n¯\n·\n𝜆\n1\n𝑀\n¯\n·\n𝜆\n2\n𝑀\n¯\n\n\n𝑡\n𝑟\n𝑎\n𝑐\n𝑒\n(\n𝑀\n¯\n)\n=\n𝜆\n0\n𝑀\n¯\n+\n𝜆\n1\n𝑀\n¯\n+\n𝜆\n2\n𝑀\n¯\n\t\n(7)\nThe value of \n𝑅\n𝑀\n¯\n expresses the the status of current point by an elegant combination of three eigenvalues of gradient structure tensor \n𝑀\n¯\n in Equation (7). This means that if the value of \n𝑅\n𝑀\n¯\n is greater than or equal to a predefined threshold \n𝑇\n𝑀\n¯\n, the corresponding point is regarded as the critical point; however, setting an inappropriate threshold \n𝑇\n𝑀\n¯\n will cause the under- and/or over-segmentation of a façade’s critical points. This is most probably because the calculated value of \n𝑅\n𝑀\n¯\n is a local variable, and it is determined through multiple steps including confidence estimation, gradient tensor generation, and tensor smoothing, using varied scales of local neighborhood sizes. In contrast, \n𝑇\n𝑀\n¯\n is a global threshold defined in the whole building façade data space, causing the fixed threshold to be unable to fully represent each point’s gradient variations estimated at different local neighborhood areas.\nAs shown in Figure 4, the result with green color shows the extracted critical points using the single-threshold criterion, i.e., determination of critical points by checking whether the condition \n𝑅\n𝑀\n¯\n≥\n𝑇\n𝑀\n¯\n is met. We can see that the building skeleton is relatively thick and some outliers distributed at the rooftops are mistakenly classified as critical points. To alleviate this problem, we employ a dual-threshold criterion by introducing another constraint, i.e., \n𝐺\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n≥\n𝑇\n𝐺\n where \n𝑇\n𝐺\n is a predefined gradient threshold. As mentioned previously, the gradient value of each discrete point is calculated by Equation (2). That is to say, if a point cloud is labeled as a critical point, it must simultaneously satisfy the following two conditions: \n𝐺\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n≥\n𝑇\n𝐺\n and \n𝑅\n𝑀\n¯\n≥\n𝑇\n𝑀\n¯\n. As shown in Figure 4, the point clouds with red color are critical points generated using dual-threshold criterion by setting 2.25 and 25 as threshold values regarding \n𝑇\n𝐺\n and \n𝑇\n𝑀\n¯\n. Compared with results by single-threshold criterion, the obtained critical points using dual-threshold criterion is relatively thin and more reasonable to describe the skeleton of building façades and rooftops. Moreover, some scattered outliers on the rooftop are eliminated, making the results clean and concise.\n2.5. Critical Point Refinement through Concept of Simplification\nAlthough we can also obtain an optimal critical point set by jointly tuning two thresholds, i.e., \n𝑇\n𝑀\n¯\n and \n𝑇\n𝐺\n to guarantee the geometric accuracy and high compactness of building façade representation, it should be noticed that it is not a trivial work to simultaneously tune two parameters. It needs trial and error experiments, leading to time-consuming and labor-intensive work. In this sense, we prefer to obtain a relative thick façade skeleton with thick points on edges and refine the result in the successive simplification step.\nTo this end, we transform the problem of building skeleton abstraction into the problem of simplification. This is to say, we further refine the dual-threshold result by the concept of simplification to enhance the flexibility of building façade abstraction. To this end, we employ three classic algorithms, i.e., grid simplification, hierarchical simplification [37], and the weighted locally optimal projection (WLOP) algorithm [38]. The grid simplification algorithm divides the space of point clouds into multiple supervoxels, from which only the representative one is chosen to express the corresponding supervoxel. The hierarchical simplification provides an adaptive simplification of the points set through recursively splitting the point clouds using binary space partitioning. Compared with two other simplification algorithms, the WLOP algorithm not only simplifies but also regularizes the critical façades point clouds. WLOP algorithm is an improved LOP algorithm [39] with a weighted density term, which can denoise and remove outliers from imperfect point data and produce an evenly distributed set of particles that faithfully adheres to the captured shapes [38]. The consolidated points generated by WLOP are newly created instead of being chosen from the critical point set. These three refinement results with different inputs are shown in Figure 5.\nIn fact, there is no “absolute criterion” to determine whether the created critical point clouds are optimal or not. The generated critical points with fewer point clouds tend to be more lightweight/compact. The critical point clouds with high compactness are suitable for storage, web transmission, acceleration of rendering large-scale scenes, and other VR and/or AR applications. Although having compactness has such strengths, it should be aware that the geometric accuracy might be weakened if imposing a strict abstraction for building façade point clouds. In this sense, we think an optimal abstraction should strike a balance between geometric accuracy and compactness of critical points. To increase the flexibility of façade representation, we hope the created points are generated at different LoDs rather than a single fixed-level representation.\n3. Performance Evaluation\n3.1. Dataset Specification\nThe first dataset we used for experiment is Semantic3D (http://www.semantic3d.net/, last accessed on 6 August 2021) [40]. It provides a large-scale outdoor scene of 30 scans over 4 billion labeled point clouds with diverse outdoor scenes. We selected eight representative buildings to verify the critical extraction algorithm. The reasons for the selection of the buildings from Semantic 3D are threefold: (1) Accurate labeled point clouds: each point cloud from Semantic3D is manually assigned a specific class label. We can easily select diverse buildings according to the building label to verify the proposed algorithm. (2) Diverse architectures: all the released scenes are captured in Central Europe, from which diverse European architectures are provided. (3) Inhomogeneous scan points: this dataset is particularly challenging because the scans are acquired using a surveying-grade terrestrial laser scanner (TLS) with a long measurement range, thereby resulting in extreme point density changes and occlusions. Because of this, the buildings are well suited for testing the proposed algorithm. Regarding the detailed descriptions with Semantic3D, we suggest the reader refers to the work in [40].\nTo evaluate the proposed algorithm’s capability for processing building façades with extremely sparse point clouds, we select two groups of buildings from Dutch AHN3 (Actueel Hoogtebestand Nederland) and DublinCity (https://geo.nyu.edu/catalog/nyu_2451_38684, last accessed on 6 August 2021) datasets. The Dutch AHN3 point cloud is acquired by an aircraft during 2014 and 2019. For the acquisition, Riegl LMS-Q680i laser scanning sensor is the most frequently used and sometimes adoption of Riegl VQ-780i [41]. The mean density of point clouds is around 16 points/m2. The AHN3 dataset is released to the public through a central distributed platform PDOK (https://downloads.pdok.nl/ahn3-downloadpage/, last accessed on 6 August 2021). The DublinCity dataset is acquired by the helicopter in March 2015. The entire dataset consists of 14 flight paths, covering the major areas of the Dublin city center with around 5.6 km2. The adopted sensor is a TopEye system S/N 443. The entire dataset consists of 500 × 500 rectangular tiles. The registered point clouds by multiple paths offer the mean point density of 250 to 348 points/m2 for different titles. The reader can refer to the work [42] for more details of the DublinCity dataset. These two ALS (Airborne Laser Scanning, ALS) datasets have a clear semantic building label, which facilitates us to choose the buildings with a variety of geometric shapes. The building façades contained by these two ALS datasets are extremely sparse and include missing data due to the building self-occlusions. In addition, the selected two groups have varied sizes and rooftop shapes/structures in different orientations. These two datasets provide an opportunity to test the proposed algorithm’s abstraction capability, focusing not only on building façades but rooftops.\nTo evaluate the algorithm’s extensibility, we select one zone MLS (Mobile Laser Scanning, MLS) point clouds from the TerraMobilita/iQmulus 3D urban analysis benchmark [43] (http://data.ign.fr/benchmarks/UrbanAnalysis/, last accessed on 6 August 2021). The entire benchmark contains 11 zones with 300 million point clouds in the center of Paris, France. The dataset is acquired in January 2013 by Stereopolis II, an MLS system developed at the French National Mapping Agency. Two Riegl LMS-Q12Oi and one HDL-64E Velodyne LiDAR sensors are integrated into Stereopolis II. Our selected zone contains a fully annotated street section 200 m long with 12 million point clouds. We believe this section of MLS point clouds from a dense urban environment in Paris can effectively test the algorithm’s extensibility to a large scale.\nWe also use UAV-based photogrammetric points and hand-held scanning (HLS) points to verify the robustness of the proposed algorithm. As shown in Figure 6, point clouds for Buildings \n𝐴\n and \n𝐵\n at Nanjing Forestry University are derived by the overlap images captured by DJI Phantom 4 RTK with a GSD (Ground Sampling Distance, GSD) of 2.74 cm at 100 meters flight altitude. The front and side overlap rates are set to 80% and 70%, respectively. The acquired oblique images are fed into Bentley ContextCapture commercial software package for generating high-density point clouds. Because of the high density, we downsample the raw point clouds to 3 cm. Another Building \n𝐶\n shown in Figure 7 at Nanjing Forestry University is scanned by GeoSLAM ZEB-HORIZON Scanner, which achieves 3D point cloud registration and stitching in real time based on SLAM (Simultaneous Localization and Mapping) technique. These two types of point clouds have low point precision and high outliers and noise, thereby posing extreme challenges for critical point extraction.\n3.2. Parameter Analyzing\nBefore we evaluate the quality of the created critical points, we first analyze all the relevant thresholds and explain how to select their appropriate values. All the thresholds that are used in the experiments are listed in Table 1. For the confidence estimation, we average the confidence measure at three scales of neighborhood spheres centered on current point \n𝑝\n𝑖\n with the radius of 1.0, 1.5, and 2.0 times of mean point density (\n𝜌\n) of a given dataset. Compared with the calculation at a single, fixed scale, our multi-scale strategy reduces parameter insensitivity and enhances the stability and reliability of the confidence measure; however, it should be noted that increasing the size of the radius at a multi-scale will increase the computational complexity. Through trial-and-error experiments, it has been found that the neighborhood sphere \n𝑟\n=\n{\n𝜌\n,\n1.5\n𝜌\n,\n2\n𝜌\n}\n can strike a balance between the highly reliable confidence calculation and low cost computation. In the steps of gradient calculation, structure tensor generation, and structure tensor smoothing, the neighborhood N of the current point \n𝑝\n𝑖\n is commonly used. Fortunately, the threshold N is insensitive to a wide range of values. Through experiments, it has been found that, by selecting in the range [20, 80], the obtained results have no obvious differences. In our case, we simply set \n𝑁\n=\n40\n for the sake of achieving a balance between the result stability and the computational efficiency. For the dual-threshold setting, the gradient obeys a normal distribution, i.e., \n𝐺\n(\n𝑥\n,\n𝑦\n,\n𝑧\n)\n∼\n𝑁\n(\n𝜇\n,\n𝜎\n2\n)\n, where, \n𝜇\n and \n𝜎\n are the mean and the standard derivation of the gradient that can be obtained by the histogram analysis of a set of individual building points. Threshold \n𝑇\n𝐺\n is encouraged to be set with a relatively smaller value and it is suggested to be within the range [0.6\n𝜇\n, \n𝜇\n]. Threshold \n𝑇\n𝑀\n¯\n controls the strictness of determining whether a point is a critical point or not. Selecting smaller or larger values will cause over- or under-segmentation. Fortunately, this threshold is less sensitive to a wide range of values. It is recommended to be set in the range [5, 30]. These principles can be demonstrated in Figure 8 with varying thresholds \n𝑇\n𝐺\n and \n𝑇\n𝑀\n¯\n. The grid simplification algorithm has only one input parameter, i.e., cell size (\n𝐺\n𝑟\n𝑖\n𝑑\n_\n𝑠\n𝑖\n𝑧\n𝑒\n) of the supervoxel. The larger the cell size is, the lower the geometric accuracy it produces, and less critical points might be generated and vice versa. Generally, we set \n𝐺\n𝑟\n𝑖\n𝑑\n_\n𝑠\n𝑖\n𝑧\n𝑒\n as two or three times the mean point density to meet the requirements of simplification. The hierarchical simplification algorithm has two input parameters, including max cluster size (\n𝐶\n𝑙\n𝑢\n𝑠\n𝑡\n𝑒\n𝑟\n_\n𝑠\n𝑖\n𝑧\n𝑒\n) and max surface variation (\n𝑆\n𝑢\n𝑟\n𝑓\n𝑎\n𝑐\n𝑒\n_\n𝑣\n𝑎\n𝑟\n). The larger they are, the fewer sampled points we have. In our case, they are set to 30 and 0.01. The WLOP algorithm also needs two input parameters, including the percentage of points to retain (\n𝑅\n𝑎\n𝑡\n𝑖\n𝑜\n) and the neighbor size (\n𝑅\n𝑎\n𝑑\n𝑖\n𝑢\n𝑠\n). The former controls the percentage of the obtained critical point clouds, while the latter decides the degree of regularization. More specifically, when we adopt a large neighbor size, we tend to generate the regularized result. In our case, they are simply set to 50% and 0.2 to achieve a certain degree of simplification. More results of the simplification threshold settings are shown in Figure 5. It should be noted that there was no optimal threshold setting for simplification, instead one should consider the geometric accuracy and the degree of abstraction, which are generally determined by practical applications.\n3.3. Compactness\nCompactness is a critical index for the evaluation of whether the extracted critical point set is lightweight. That is, if the result contains a few critical points, it represents more compactness of the building façade abstraction. Critical points with high compactness facilitate web transmission, storage-saving, and large-scale building point clouds rendering. We use compactness ratio \n𝐶\n𝑎\n calculated by dividing the number of critical points by the number of raw building point clouds to represent the degree of compactness. In addition, we also use another compactness ratio \n𝐶\n𝑏\n calculated by dividing the number of created point clouds by the number of reference point clouds. The reference point clouds are generated by extensive manual work using the CloudCompare open-source tool (https://www.danielgm.net/cc/, last accessed on 6 August 2021).\nQuantitative evaluation results of the selected buildings from different datasets are listed in Table 2. We can see that for eight Semantic3D buildings, the mean compactness ratio of dual-threshold results approaches 36.96%. In this case, the number of critical points is consistent with the number of reference points, as demonstrated by \n𝐶\n𝑏\n in the dual-threshold column. This ratio can be further compressed to less than 20% or even 10% according to the different degrees of abstraction via three types of refinement algorithms. We note that high compactness (e.g., 0.92% for Semantic Building 8 after grid refinement) does not mean that the results are more reasonable. Although having a high compactness ratio, the detailed shape features might be ignored on some occasions, thereby weakening abstraction accuracy. For the two other ALS and MLS datasets, the compactness ratio \n𝐶\n𝑎\n is significantly lower than the TLS dataset (e.g., only 0.72 for DublinCity after hierarchy refinement). This is because the ALS point clouds do not have enough capability to describe the building shape’s details due to sparse point density. As UAV and HLS datasets include sufficient shape details due to high-density point clouds, the abstraction accuracy can be guaranteed when posing heavy abstraction (less than 1% after grid or hierarchy refinements). In summary, the compactness is closely related to scene complexity, point cloud density, and a degree of abstraction. We should strike a balance between the compactness and accuracy while guaranteeing an abstraction of critical points.\n3.4. Accuracy\nAs previously mentioned, we have the reference of the critical point cloud for each building in the Semantic3D dataset. The reference is generated through manual labeling using the CloudCompare open-source tool. Based on the reference, we evaluate the quality of results generated by the dual-threshold analysis and the successive refinement using grid, hierarchy, and WLOP algorithms. The quantitative evaluation statistics are shown in Table 3. The \n𝑀\n𝑎\n𝑥\n values for Buildings 4 and 5 are greater than three meters because some critical points are contaminated by outliers generated by the laser beam penetration through façade window glass, as demonstrated in the areas labeled in black ovals in Figure 9d. Another reason is that our results contain some pseudo-edges/boundaries that are generated in some regions of the building façades corrupted by the missing data due to occlusions, as evident in the region labeled by black rectangles in Figure 9. In fact, these pseudo-edge/boundary points in reference are not included, thereby causing relatively large \n𝑀\n𝑎\n𝑥\n values of these two buildings. We also observe that \n𝑀\n𝑎\n𝑥\n values for dual-threshold are constantly greater than grid and hierarchy results because these two results are downsampled from the initial dual-threshold result. Although WLOP is also generated from the initial dual-threshold result, the \n𝑀\n𝑎\n𝑥\n value of Building 7 is 1.3606 m, which is greater than the dual-threshold result of 1.3306 m. The possible reason could be that the WLOP result is not simply downsampled from the initial dual-threshold critical point set but is a newly regenerated point set through the optimized technique. Apart from the hierarchy \n𝑀\n𝑒\n𝑎\n𝑛\n values of 0.0271 m and 0.0442 m for Buildings 2 and 4, the dual-threshold \n𝑀\n𝑒\n𝑎\n𝑛\n values are less than the \n𝑀\n𝑒\n𝑎\n𝑛\n values in the three refinement algorithms. This means that the refinement through the concept of simplification can weaken the geometric accuracy. This point keeps consistent with the conclusion derived in Section 3.3. The \n𝑅\n𝑀\n𝑆\n𝐸\n measures the differences between the generated critical point set and the reference. To evaluate the importance of this difference and make the difference independent of the unit, we use another relevant measure \n𝑅\n𝑀\n𝑆\n𝐸\n′\n calculated by dividing the value of \n𝑅\n𝑀\n𝑆\n𝐸\n to the diagonal length of the corresponding building’s bounding box. As we can see, the maximum of \n𝑅\n𝑀\n𝑆\n𝐸\n′\n is 0.0088 for Building 6, which means that the maximum gap between our result and reference is only 0.88% of the building’s diagonal.\n3.5. Comparison\nWe compare the proposed algorithm with two other classic algorithms, including Canny edge detector [33] and Xia’s method [36]. As the Canny edge detector is designed for 2D images rather than 3D point clouds, we project the building façades onto 2D gray images according to the dominant façade’s normal and location. The value of each pixel is an average gradient value of all point clouds within each pixel. The pixel value is normalized to the range from 0 to 255. Compared with the Canny edge detector that worked on raster images, Xia’s and our methods are implemented onto 3D point clouds. The comparison results with these two methods are shown in Figure 10. We can see that our method can effectively extract the critical points from façades with a high degree of complex shapes. In Semantic3D Building 3, the enlarged rectangles denoted by the purple color have a very complex geometric shape with a high degree of nonlinear structure. Despite this, we can obtain a reasonable skeleton for this complex shape; however, some edge points are missing in Xia’s result. As our method works directly on the 3D point clouds like Xia’s method, this means these two methods can effectively maintain the geometric shapes of building façades without artifacts; however, for the Canny method, it inevitably brings distortions during the conversion from 3D point clouds to 2D grayscale images. This is demonstrated in Building 5 denoted by red rectangles. In addition, it should be noted that the Canny detector often produces an adverse effect of “double edge”, which means one edge is represented by two contours due to the thickness/width of the edge, as evident in blue rectangles in Semantic3D Building 5. We should also notice that our method is also insensitive to the density of point clouds. In the enlarged areas of green rectangles in Semantic3D Building 7, the point cloud is extremely sparse and with irregular distribution. In this case, Canny and Xia’s results are very messy; however, our method is superior to these two methods because of the reasonable definition of 3D gradient and an accurate analysis of the gradient structure tensor.\nApart from qualitative comparisons with the Canny detector and Xia’s method, we also conduct a quantitative comparison with Xia’s method using eight buildings in the Semantic3D dataset. We first calculate each building’s \n𝑀\n𝑒\n𝑎\n𝑛\n, \nSD\n, \n𝑅\n𝑀\n𝑆\n𝐸\n, and \n𝐶\n𝑜\n𝑚\n𝑝\n𝑎\n𝑐\n𝑡\n𝑛\n𝑒\n𝑠\n𝑠\n according to the reference. Next, we average all of them to obtain the overall values of the entire Semantic3D dataset. The statistics are listed in Table 4, from which we can see that our method outperforms Xia’s method in terms of geometric accuracy and compactness.\n3.6. Robustness\nApart from using the Semantic3D TLS dataset, we also employ various types of ubiquitous point clouds captured by different platforms with different LiDAR sensors to verify the robustness of the proposed algorithm. We use two patches of ALS building clouds clipped from DublinCity and Dutch AHN3 datasets. Due to the advantages of airborne scanning, the acquired building point clouds are relatively dense for rooftops and sparse and non-uniform distributed for building façades. The proposed algorithm successfully extracts the rooftop skeleton (see the enlarged rectangle views in Figure 11); however, it is hard to extract feature contours from building façades due to very sparse and irregular points and/or large-scale missing data caused by occlusion and self-occlusion.\nWe used large-scale MLS point clouds from the TerraMobilita/iQmulus 3D urban analysis benchmark to test whether the proposed algorithm is sensitive to the irregularity of point clouds. Generally, for MLS point clouds, the point density at the bottom of street façades is higher than the point density at the areas of the top façades. In addition, when scanning the street façades, the laser beam can be easily blocked by moving cars, pedestrians, and street trees in front of the façades, thereby causing missing data. Despite this, the building façade contour is successfully extracted, as shown in Figure 12.\nThe UAV-based photogrammetric point cloud is used to test the algorithm’s applicability for processing data captured from the consumer-grade UAV DJI Phantom 4 RTK. The density of UAV-based point clouds is restricted to the resolution of the acquired images. The obtained point clouds are calculated by stereo-image matching rather than directly surveying using the LiDAR technique. Because of this, the photogrammetric point clouds miss fine details and sharp edges with massive artifacts, as demonstrated in the enlarged views in Figure 6. Despite this, the proposed algorithm has the capability to abstract the building façade contours.\nIn addition, GeoSLAM ZEB-HORIZON point clouds are used for testing the sensitiveness to point precision. In Figure 7, we observe that GeoSLAM point clouds have very low point precision with mess point cloud distribution. In this case, the sharp façade features cannot be clearly described in the raw point clouds; however, fortunately, the proposed algorithm can perceive the differences of the façade points and successively detect the feature point clouds, as evident in the overlap view in Figure 7c.\n4. Conclusions and Suggestions for Future Works\nIn this paper, we present a method for extracting building façade contours. Our method analyzes each point gradient and its derived gradient structure tensor to obtain the gradient distribution for each point in the local neighborhood areas. To relieve the dependence on thresholds of gradient and gradient structure tensor, we refine the initial critical point set, striking a balance between geometric accuracy and compact representation/abstraction. We use multiple ubiquitous LiDAR datasets to verify the applicability of the proposed algorithm.\nAlthough promising results are achieved, it should be noted that our algorithm is effective when it is applied to building contouring. The contouring results may not reasonably be expected to other objects, such as trees and cars. This requires us to recognize individual building at the instance level from LiDAR scans through machine learning [44] and/or deep learning [45,46] methods. In addition, we should be aware that the critical points are extracted based on the analysis of the gradient structure tensor in the local areas, but these critical points jointly describe the global feature of architectural shapes. This implies that in future work, we can carry out successive research on the analysis of building structures and geometric shapes. Although we provide the critical points with fine details for the description of the building façades and rooftops, these critical points cannot maintain the topological relationships, making it difficult for further reconstruction with a boundary representation. In future work, we plan to research how to segment these critical point clouds into multiple clusters with meaningful semantics using the graph convolutional network and how to organize the clusters into watertight building models using a topology optimization technique.\nAuthor Contributions\nJ.L. and S.D. analyzed the data and wrote the C++ source code. J.P. and D.C. helped in the project and study design, paper writing, and data analysis. G.X., L.W. and X.L. helped in proofreading, data acquisition, and experiment comparison. All authors have read and agreed to the published version of the manuscript.\nFunding\nThis work was supported in part by the National Natural Science Foundation of China under Grant 41971415, in part by the Natural Science Foundation of Jiangsu Province under Grant BK20201387, in part by the Open Fund of State Key Laboratory of Remote Sensing Science under Grant OFSLRSS202010, and it was performed while the corresponding author, Dong Chen, acted as an awardee of the 2021 Qinglan Project, sponsored by Jiangsu Province, China.\nInstitutional Review Board Statement\nNot applicable.\nInformed Consent Statement\nNot applicable.\nData Availability Statement\nThe datasets including Semantic3D, DublinCity, Dutch AHN3, and TerraMobilita/iQmulus 3D are publicly available from the corresponding benchmark websites or distribution platform. Other datasets analyzed in this study are acquired by ourselves.\nAcknowledgments\nThe authors would like to thank Shaobo Xia for providing C++ code in [36] for comparison.\nConflicts of Interest\nThe authors declare no conflict of interest.\nReferences\nRosenfeld, A.; Thurston, M. Edge and curve detection for visual scene analysis. IEEE Trans. Comput. 1971, 100, 562–569. [Google Scholar] [CrossRef]\nZhang, W.; Zhang, W.; Gu, J. Edge-semantic learning strategy for layout estimation in indoor environment. IEEE Trans. Cybern. 2019, 50, 2730–2739. [Google Scholar] [CrossRef] [Green Version]\nLepora, N.F.; Church, A.; De Kerckhove, C.; Hadsell, R.; Lloyd, J. From pixels to percepts: Highly robust edge perception and contour following using deep learning and an optical biomimetic tactile sensor. IEEE Robot. Autom. Lett. 2019, 4, 2101–2107. [Google Scholar] [CrossRef] [Green Version]\nBaterina, A.V.; Oppus, C. Image edge detection using ant colony optimization. Wseas Trans. Signal Process. 2010, 6, 58–67. [Google Scholar]\nSadiq, B.O.; Sani, S.; Garba, S. Edge detection: A collection of pixel based approach for colored images. Int. J. Comput. Appl. 2015, 113, 29–32. [Google Scholar]\nMarmanis, D.; Schindler, K.; Wegner, J.D.; Galliani, S.; Datcu, M.; Stilla, U. Classification with an edge: Improving semantic image segmentation with boundary detection. ISPRS J. Photogramm. Remote Sens. 2018, 135, 158–172. [Google Scholar] [CrossRef] [Green Version]\nDuan, R.l.; Li, Q.x.; Li, Y.h. Summary of image edge detection. Opt. Tech. 2005, 3, 415–419. [Google Scholar]\nGuo, K.Y.; Hoare, E.G.; Jasteh, D.; Sheng, X.Q.; Gashinova, M. Road edge recognition using the stripe Hough transform from millimeter-wave radar images. IEEE Trans. Intell. Transp. Syst. 2014, 16, 825–833. [Google Scholar] [CrossRef]\nHe, K.; Gkioxari, G.; Dollár, P.; Girshick, R. Mask r-cnn. In Proceedings of the IEEE International Conference on Computer Vision, Venice, Italy, 22–29 October 2017; pp. 2961–2969. [Google Scholar]\nNi, H.; Lin, X.; Zhang, J.; Chen, D.; Peethambaran, J. Joint clusters and iterative graph cuts for ALS point cloud filtering. IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. 2018, 11, 990–1004. [Google Scholar] [CrossRef]\nHackel, T.; Wegner, J.D.; Schindler, K. Contour detection in unstructured 3d point clouds. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, NV, USA, 26 June–1 July 2016; pp. 1610–1618. [Google Scholar]\nWang, R.; Peethambaran, J.; Chen, D. LiDAR point clouds to 3-D Urban Models: A review. IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens. 2018, 11, 606–627. [Google Scholar] [CrossRef]\nMineo, C.; Pierce, S.G.; Summan, R. Novel algorithms for 3D surface point cloud boundary detection and edge reconstruction. J. Comput. Des. Eng. 2019, 6, 81–91. [Google Scholar] [CrossRef]\nAhmmed, A.; Paul, M.; Pickering, M. Dynamic point cloud texture video compression using the edge position difference oriented motion model. In Proceedings of the 2021 Data Compression Conference (DCC), Snowbird, UT, USA, 23–26 March 2021; p. 335. [Google Scholar]\nXia, S.; Chen, D.; Wang, R.; Li, J.; Zhang, X. Geometric primitives in LiDAR point clouds: A review. IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens. 2020, 13, 685–707. [Google Scholar] [CrossRef]\nLi, J.; Zhao, P.; Hu, Q.; Ai, M. Robust point cloud registration based on topological graph and Cauchy weighted lq-norm. ISPRS J. Photogramm. Remote Sens. 2020, 160, 244–259. [Google Scholar] [CrossRef]\nGojcic, Z.; Zhou, C.; Wegner, J.D.; Guibas, L.J.; Birdal, T. Learning multiview 3D point cloud registration. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, Seattle, WA, USA, 16–20 June 2020; pp. 1759–1769. [Google Scholar]\nChoi, C.; Trevor, A.J.; Christensen, H.I. RGB-D edge detection and edge-based registration. In Proceedings of the 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems, Tokyo, Japan, 3–7 November 2013; pp. 1568–1575. [Google Scholar]\nShi, W.; Rajkumar, R. Point-gnn: Graph neural network for 3d object detection in a point cloud. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, Seattle, WA, USA, 16–20 June 2020; pp. 1711–1719. [Google Scholar]\nHu, F.; Yang, D.; Li, Y. Combined edge-and stixel-based object detection in 3D point cloud. Sensors 2019, 19, 4423. [Google Scholar] [CrossRef] [Green Version]\nWang, R.; Ferrie, F.P.; Macfarlane, J. A method for detecting windows from mobile LiDAR data. Photogramm. Eng. Remote Sens. 2012, 78, 1129���1140. [Google Scholar] [CrossRef] [Green Version]\nSong, H.; Feng, H.Y. A progressive point cloud simplification algorithm with preserved sharp edge data. Int. J. Adv. Manuf. Technol. 2009, 45, 583–592. [Google Scholar] [CrossRef]\nLi, H.; Zhong, C.; Hu, X.; Xiao, L.; Huang, X. New methodologies for precise building boundary extraction from LiDAR data and high resolution image. Sens. Rev. 2013, 33, 157–165. [Google Scholar] [CrossRef]\nPoullis, C. A framework for automatic modeling from point cloud data. IEEE Trans. Pattern Anal. Mach. Intell. 2013, 35, 2563–2575. [Google Scholar] [CrossRef] [PubMed]\nWang, Y.; Ewert, D.; Schilberg, D.; Jeschke, S. Edge extraction by merging 3D point cloud and 2D image data. In Proceedings of the 2013 10th International Conference and Expo on Emerging Technologies for a Smarter World (CEWIT), Melville, NY, USA, 21–22 October 2013; pp. 1–6. [Google Scholar]\nLi, Y.; Wu, H.; An, R.; Xu, H.; He, Q.; Xu, J. An improved building boundary extraction algorithm based on fusion of optical imagery and LiDAR data. Optik 2013, 124, 5357–5362. [Google Scholar] [CrossRef]\nChen, Y.; Zhang, W.; Zhou, G.; Yan, G. A novel building boundary reconstruction method based on lidar data and images. In International Symposium on Photoelectronic Detection and Imaging 2013: Laser Sensing and Imaging and Applications; SPIE-International Society for Optics and Photonics: Bellingham, WA, USA, 2013; Volume 8905, p. 890522. [Google Scholar]\nYang, B.; Zang, Y. Automated registration of dense terrestrial laser-scanning point clouds using curves. ISPRS J. Photogramm. Remote Sens. 2014, 95, 109–121. [Google Scholar] [CrossRef]\nDemarsin, K.; Vanderstraeten, D.; Volodine, T.; Roose, D. Detection of closed sharp edges in point clouds using normal estimation and graph theory. Comput. Aided Des. 2007, 39, 276–283. [Google Scholar] [CrossRef]\nBorges, P.; Zlot, R.; Bosse, M.; Nuske, S.; Tews, A. Vision-based localization using an edge map extracted from 3D laser range data. In Proceedings of the 2010 IEEE International Conference on Robotics and Automation, Anchorage, AK, USA, 3–7 May 2010; pp. 4902–4909. [Google Scholar]\nNi, H.; Lin, X.; Ning, X.; Zhang, J. Edge detection and feature line tracing in 3d-point clouds by analyzing geometric properties of neighborhoods. Remote Sens. 2016, 8, 710. [Google Scholar] [CrossRef] [Green Version]\nWang, R.; Lai, X.; Hou, W. Study on edge detection of LIDAR point cloud. In Proceedings of the 2011 International Conference on Intelligent Computation and Bio-Medical Instrumentation, Wuhan, China, 14–17 December 2011; pp. 71–73. [Google Scholar]\nCanny, J. A computational approach to edge detection. IEEE Trans. Pattern Anal. Mach. Intell. 1986, 679–698. [Google Scholar] [CrossRef]\nPauly, M.; Mitra, N.J.; Giesen, J.; Gross, M.H.; Guibas, L.J. Example-Based 3d Scan Completion. 2005. Available online: https://infoscience.epfl.ch/record/149337/files/pauly_2005_EBS.pdf (accessed on 6 August 2021).\nHarris, C.G.; Stephens, M. A Combined Corner and Edge Detector. In Proceedings of the Alvey Vision Conference, Manchester, UK, 31 August–2 September, 1988; pp. 1–6. Available online: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.434.4816&rep=rep1&type=pdf (accessed on 6 August 2021).\nXia, S.; Wang, R. A fast edge extraction method for mobile LiDAR point clouds. IEEE Geosci. Remote Sens. Lett. 2017, 14, 1288–1292. [Google Scholar] [CrossRef]\nPauly, M.; Gross, M.; Kobbelt, L.P. Efficient simplification of point-sampled surfaces. In Proceedings of the IEEE Visualization, VIS 2002, Boston, MA, USA, 27 October–1 November 2002; pp. 163–170. [Google Scholar]\nHuang, H.; Li, D.; Zhang, H.; Ascher, U.; Cohen-Or, D. Consolidation of unorganized point clouds for surface reconstruction. ACM Trans. Graph. 2009, 28, 1–7. [Google Scholar] [CrossRef] [Green Version]\nLipman, Y.; Cohen-Or, D.; Levin, D.; Tal-Ezer, H. Parameterization-free projection for geometry reconstruction. ACM Trans. Graph. 2007, 26, 22-es. [Google Scholar] [CrossRef]\nHackel, T.; Savinov, N.; Ladicky, L.; Wegner, J.D.; Schindler, K.; Pollefeys, M. SEMANTIC3D.NET: A new large-scale point cloud classification benchmark. arXiv 2017, arXiv:1704.03847. [Google Scholar] [CrossRef] [Green Version]\nDu, J.; Chen, D.; Wang, R.; Peethambaran, J.; Mathiopoulos, P.T.; Xie, L.; Yun, T. A novel framework for 2.5-D building contouring from large-scale residential scenes. IEEE Trans. Geosci. Remote Sens. 2019, 57, 4121–4145. [Google Scholar] [CrossRef]\nZolanvari, S.; Ruano, S.; Rana, A.; Cummins, A.; da Silva, R.E.; Rahbar, M.; Smolic, A. DublinCity: Annotated LiDAR point cloud and its applications. arXiv 2019, arXiv:1909.03613. [Google Scholar]\nVallet, B.; Brédif, M.; Serna, A.; Marcotegui, B.; Paparoditis, N. TerraMobilita/iQmulus urban point cloud analysis benchmark. Comput. Graph. 2015, 49, 126–133. [Google Scholar] [CrossRef] [Green Version]\nBreiman, L. Random forests. Mach. Learn. 2001, 45, 5–32. [Google Scholar] [CrossRef] [Green Version]\nQi, C.R.; Su, H.; Mo, K.; Guibas, L.J. Pointnet: Deep learning on point sets for 3d classification and segmentation. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Honolulu, HI, USA, 21–26 July 2017; pp. 652–660. [Google Scholar]\nHu, Q.; Yang, B.; Xie, L.; Rosa, S.; Guo, Y.; Wang, Z.; Trigoni, N.; Markham, A. Randla-net: Efficient semantic segmentation of large-scale point clouds. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, Seattle, WA, USA, 16–20 June 2020; pp. 11108–11117. [Google Scholar]\nFigure 1. Pipeline of the proposed methodology. (a) The representative building is selected by the manual segmentation. (b) The visualization of confidence measure of building point clouds. (c) Gradient visualization of building point clouds. (d) Gradient structure tensor encoding. (e) The critical point clouds extraction via dual-threshold criterion. (f) The refinement of critical point clouds through simplification.\nFigure 2. Confidence measure visualization for a representative building. (a) Confidence measure visualization for building façades and rooftops. (b) The histogram distribution of confidence.\nFigure 3. Gradient property visualization for a representative building. (a) Gradient property visualization of building façades and rooftops. (b) The histogram distribution of each point’s gradient. Note that gradient values are normalized into the range [0, 1] for better visualization.\nFigure 4. Critical point cloud comparisons by single- and dual-threshold criteria.\nFigure 5. The refinement results generated by the grid, hierarchical, and WLOP algorithms with different input parameters.\nFigure 6. Critical point extraction from UAV-based photogrammetric point clouds. (a,c) are the colored point clouds of two representative Buildings A and B at Nanjing Forestry University. The generated critical points for these two buildings are shown in (b,d). Note that the enlarged rectangle views show that the UAV point clouds miss sharp edge features and have massive artifacts.\nFigure 7. Critical points derived from GeoSLAM ZEB-HORIZON point clouds. (a–c) are the raw points, the façade contour result, and their overlap map for better visualization.\nFigure 8. The critical point extraction from building façades using dual-threshold criterion. It can be seen that the results are slightly different based on the composition of \n𝑇\n𝐺\n and \n𝑇\n𝑀\n¯\n.\nFigure 9. Comparison between dual-threshold result and the corresponding reference data for Semantic3D Building 4. (a) is the raw data of Semantic3D Building 4. (b,c) show that the reference data denoted by blue color and the dual-threshold result denoted by red color are superimposed onto their raw data. (d) is the overlap between the reference and the dual-threshold result.\nFigure 10. Comparison with classic Canny edge detector [33] and Xia’s method [36] on eight representative buildings in the Semantic3D dataset. The first two rows represent results derived from the Canny edge detector. The grayscale images in the first row generated by projection of Semantic3D TLS point clouds are provided as inputs to the Canny edge detector. Xia’s results are presented in the middle row, and our results are given in the bottom row.\nFigure 11. Critical point extraction from part of DublinCity and Dutch AHN3 datasets. Subfigures (a,b) are the part of DublinCity building point clouds and contour point results, while (c,d) are some selected building point clouds from the Dutch AHN3 dataset and their contour points. Since these two datasets are captured by airborne laser scanners, they have more detailed rooftop shapes than façades.\nFigure 12. Critical point results of TerraMobilita/iQmulus 3D urban analysis benchmark. Subfigures (a,c) are the raw point clouds, while (b,d) are the corresponding building contour results. Point clouds in (c) come from subfigure (a). Note that subfigure (b) only includes building critical points, and the ground, trees, and other irrelevant objects are excluded according to the class label.\nTable 1. Parameters for the proposed critical point extraction algorithm. The symbol “-” denotes that the corresponding value can be calculated by the given dataset. “\n𝜌\n” is the mean density of the dataset and “\n𝜇\n” is the mean value of the gradient, which can be obtained by the histogram analysis of a set of individual building points.\nTable 2. Quantitative evaluation of extracted critical points’ compactness. #Building and #Reference represent the number of point clouds for building raw data and reference data. \n𝐶\n𝑎\n and \n𝐶\n𝑏\n denote the compactness ratios of the generated critical point clouds with respect to the input buildings and the reference point clouds. Two types of ratios are calculated in two phases, including the dual-threshold judgment stage and the refinement stage using three different simplification algorithms. The symbol “-” means the corresponding data are not available.\nTable 3. The accuracy statistics for eight representative buildings in Semantic3D dataset. The symbols Min, Max, Mean, and \nSD\n represent the minimum, maximum, mean, and standard deviation of the Euclidean distance from the critical point to its closest point in the reference. ‘RMSE’ measures the RMS distance from the extracted critical point to its closest point in the reference. These values are normalized (\n𝑅\n𝑀\n𝑆\n𝐸\n′\n) to the diagonal length of the building’s bounding box. The first five measures are all in meters, while the last measure \n𝑅\n𝑀\n𝑆\n𝐸\n′\n is dimensionless. Four rows of values associated with each building represent the statistics generated by dual-threshold analysis, grid refinement, hierarchy refinement, and WLOP refinement.\nTable 4. Quantitative comparison between our method and Xia’s method [36] of eight buildings in the Semantic3D dataset in terms of \n𝑀\n𝑒\n𝑎\n𝑛\n, \nSD\n, \n𝑅\n𝑀\n𝑆\n𝐸\n, and \n𝐶\n𝑜\n𝑚\n𝑝\n𝑎\n𝑐\n𝑡\n𝑛\n𝑒\n𝑠\n𝑠\n. Note that all values are the average of eight buildings in the Semantic3D dataset.\n\t\nPublisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.\n\n© 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).\nShare and Cite\n      \nMDPI and ACS Style\n\nChen, D.; Li, J.; Di, S.; Peethambaran, J.; Xiang, G.; Wan, L.; Li, X. Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor. Remote Sens. 2021, 13, 3146. https://doi.org/10.3390/rs13163146\n\nAMA Style\n\n\nChen D, Li J, Di S, Peethambaran J, Xiang G, Wan L, Li X. Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor. Remote Sensing. 2021; 13(16):3146. https://doi.org/10.3390/rs13163146\n\nChicago/Turabian Style\n\n\nChen, Dong, Jing Li, Shaoning Di, Jiju Peethambaran, Guiqiu Xiang, Lincheng Wan, and Xianghong Li. 2021. \"Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor\" Remote Sensing 13, no. 16: 3146. https://doi.org/10.3390/rs13163146\n\nAPA Style\n\n\nChen, D., Li, J., Di, S., Peethambaran, J., Xiang, G., Wan, L., & Li, X. (2021). Critical Points Extraction from Building Façades by Analyzing Gradient Structure Tensor. Remote Sensing, 13(16), 3146. https://doi.org/10.3390/rs13163146\n\nNote that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here.\nArticle Metrics\nRemote Sens., EISSN 2072-4292, Published by MDPI RSS Content Alert\nFurther Information\nArticle Processing Charges\nPay an Invoice\nOpen Access Policy\nContact MDPI\nJobs at MDPI\nGuidelines\nFor Authors\nFor Reviewers\nFor Editors\nFor Librarians\nFor Publishers\nFor Societies\nFor Conference Organizers\nMDPI Initiatives\nSciforum\nMDPI Books\nPreprints.org\nScilit\nSciProfiles\nEncyclopedia\nJAMS\nProceedings Series\nFollow MDPI\nLinkedIn\nFacebook\nTwitter\n\nSubscribe to receive issue release notifications and newsletters from MDPI journals\n\nAcoustics\nActa Microbiologica Hellenica\nActuators\nAdhesives\nAdministrative Sciences\nAdolescents\nAdvances in Respiratory Medicine\nAerobiology\nAerospace\nAgriculture\nAgriEngineering\nAgrochemicals\nAgronomy\nAI\nAir\nAlgorithms\nAllergies\nAlloys\nAnalytica\nAnalytics\nAnatomia\nAnesthesia Research\nAnimals\nAntibiotics\nAntibodies\nAntioxidants\nApplied Biosciences\nApplied Mechanics\nApplied Microbiology\nApplied Nano\nApplied Sciences\nApplied System Innovation\nAppliedChem\nAppliedMath\nAquaculture Journal\nArchitecture\nArthropoda\nArts\nAstronomy\nAtmosphere\nAtoms\nAudiology Research\nAutomation\nAxioms\nBacteria\nBatteries\nBehavioral Sciences\nBeverages\nBig Data and Cognitive Computing\nBioChem\nBioengineering\nBiologics\nBiology\nBiology and Life Sciences Forum\nBiomass\nBiomechanics\nBioMed\nBiomedicines\nBioMedInformatics\nBiomimetics\nBiomolecules\nBiophysica\nBiosensors\nBiosphere\nBioTech\nBirds\nBlockchains\nBrain Sciences\nBuildings\nBusinesses\nC\nCancers\nCardiogenetics\nCatalysts\nCells\nCeramics\nChallenges\nChemEngineering\nChemistry\nChemistry Proceedings\nChemosensors\nChildren\nChips\nCivilEng\nClean Technologies\nClimate\nClinical and Translational Neuroscience\nClinical Bioenergetics\nClinics and Practice\nClocks & Sleep\nCoasts\nCoatings\nColloids and Interfaces\nColorants\nCommodities\nComplications\nCompounds\nComputation\nComputer Sciences & Mathematics Forum\nComputers\nCondensed Matter\nConservation\nConstruction Materials\nCorrosion and Materials Degradation\nCosmetics\nCOVID\nCraniomaxillofacial Trauma & Reconstruction\nCrops\nCryo\nCryptography\nCrystals\nCurrent Issues in Molecular Biology\nCurrent Oncology\nDairy\nData\nDentistry Journal\nDermato\nDermatopathology\nDesigns\nDiabetology\nDiagnostics\nDietetics\nDigital\nDisabilities\nDiseases\nDiversity\nDNA\nDrones\nDrugs and Drug Candidates\nDynamics\nEarth\nEcologies\nEconometrics\nEconomies\nEducation Sciences\nElectricity\nElectrochem\nElectronic Materials\nElectronics\nEmergency Care and Medicine\nEncyclopedia\nEndocrines\nEnergies\nEnergy Storage and Applications\nEng\nEngineering Proceedings\nEntropy\nEnvironmental and Earth Sciences Proceedings\nEnvironments\nEpidemiologia\nEpigenomes\nEuropean Burn Journal\nEuropean Journal of Investigation in Health, Psychology and Education\nFermentation\nFibers\nFinTech\nFire\nFishes\nFluids\nFoods\nForecasting\nForensic Sciences\nForests\nFossil Studies\nFoundations\nFractal and Fractional\nFuels\nFuture\nFuture Internet\nFuture Pharmacology\nFuture Transportation\nGalaxies\nGames\nGases\nGastroenterology Insights\nGastrointestinal Disorders\nGastronomy\nGels\nGenealogy\nGenes\nGeographies\nGeoHazards\nGeomatics\nGeometry\nGeosciences\nGeotechnics\nGeriatrics\nGlacies\nGout, Urate, and Crystal Deposition Disease\nGrasses\nGreen Health\nHardware\nHealthcare\nHearts\nHemato\nHematology Reports\nHeritage\nHistories\nHorticulturae\nHospitals\nHumanities\nHumans\nHydrobiology\nHydrogen\nHydrology\nHygiene\nImmuno\nInfectious Disease Reports\nInformatics\nInformation\nInfrastructures\nInorganics\nInsects\nInstruments\nIntelligent Infrastructure and Construction\nInternational Journal of Environmental Research and Public Health\nInternational Journal of Financial Studies\nInternational Journal of Molecular Sciences\nInternational Journal of Neonatal Screening\nInternational Journal of Orofacial Myology and Myofunctional Therapy\nInternational Journal of Plant Biology\nInternational Journal of Topology\nInternational Journal of Translational Medicine\nInternational Journal of Turbomachinery, Propulsion and Power\nInternational Medical Education\nInventions\nIoT\nISPRS International Journal of Geo-Information\nJ\nJournal of Ageing and Longevity\nJournal of Cardiovascular Development and Disease\nJournal of Clinical & Translational Ophthalmology\nJournal of Clinical Medicine\nJournal of Composites Science\nJournal of Cybersecurity and Privacy\nJournal of Dementia and Alzheimer's Disease\nJournal of Developmental Biology\nJournal of Experimental and Theoretical Analyses\nJournal of Eye Movement Research\nJournal of Functional Biomaterials\nJournal of Functional Morphology and Kinesiology\nJournal of Fungi\nJournal of Imaging\nJournal of Intelligence\nJournal of Low Power Electronics and Applications\nJournal of Manufacturing and Materials Processing\nJournal of Marine Science and Engineering\nJournal of Market Access & Health Policy\nJournal of Mind and Medical Sciences\nJournal of Molecular Pathology\nJournal of Nanotheranostics\nJournal of Nuclear Engineering\nJournal of Otorhinolaryngology, Hearing and Balance Medicine\nJournal of Parks\nJournal of Personalized Medicine\nJournal of Pharmaceutical and BioTech Industry\nJournal of Respiration\nJournal of Risk and Financial Management\nJournal of Sensor and Actuator Networks\nJournal of the Oman Medical Association\nJournal of Theoretical and Applied Electronic Commerce Research\nJournal of Vascular Diseases\nJournal of Xenobiotics\nJournal of Zoological and Botanical Gardens\nJournalism and Media\nKidney and Dialysis\nKinases and Phosphatases\nKnowledge\nLabMed\nLaboratories\nLand\nLanguages\nLaws\nLife\nLimnological Review\nLipidology\nLiquids\nLiterature\nLivers\nLogics\nLogistics\nLubricants\nLymphatics\nMachine Learning and Knowledge Extraction\nMachines\nMacromol\nMagnetism\nMagnetochemistry\nMarine Drugs\nMaterials\nMaterials Proceedings\nMathematical and Computational Applications\nMathematics\nMedical Sciences\nMedical Sciences Forum\nMedicina\nMedicines\nMembranes\nMerits\nMetabolites\nMetals\nMeteorology\nMethane\nMethods and Protocols\nMetrics\nMetrology\nMicro\nMicrobiology Research\nMicromachines\nMicroorganisms\nMicroplastics\nMicrowave\nMinerals\nMining\nModelling\nModern Mathematical Physics\nMolbank\nMolecules\nMultimodal Technologies and Interaction\nMuscles\nNanoenergy Advances\nNanomanufacturing\nNanomaterials\nNDT\nNetwork\nNeuroglia\nNeurology International\nNeuroSci\nNitrogen\nNon-Coding RNA\nNursing Reports\nNutraceuticals\nNutrients\nObesities\nOceans\nOnco\nOptics\nOral\nOrganics\nOrganoids\nOsteology\nOxygen\nParasitologia\nParticles\nPathogens\nPathophysiology\nPediatric Reports\nPets\nPharmaceuticals\nPharmaceutics\nPharmacoepidemiology\nPharmacy\nPhilosophies\nPhotochem\nPhotonics\nPhycology\nPhyschem\nPhysical Sciences Forum\nPhysics\nPhysiologia\nPlants\nPlasma\nPlatforms\nPollutants\nPolymers\nPolysaccharides\nPopulations\nPoultry\nPowders\nProceedings\nProcesses\nProsthesis\nProteomes\nPsychiatry International\nPsychoactives\nPsychology International\nPublications\nQuantum Beam Science\nQuantum Reports\nQuaternary\nRadiation\nReactions\nReal Estate\nReceptors\nRecycling\nRegional Science and Environmental Economics\nReligions\nRemote Sensing\nReports\nReproductive Medicine\nResources\nRheumato\nRisks\nRobotics\nRuminants\nSafety\nSci\nScientia Pharmaceutica\nSclerosis\nSeeds\nSensors\nSeparations\nSexes\nSignals\nSinusitis\nSmart Cities\nSocial Sciences\nSociété Internationale d’Urologie Journal\nSocieties\nSoftware\nSoil Systems\nSolar\nSolids\nSpectroscopy Journal\nSports\nStandards\nStats\nStresses\nSurfaces\nSurgeries\nSurgical Techniques Development\nSustainability\nSustainable Chemistry\nSymmetry\nSynBio\nSystems\nTargets\nTaxonomy\nTechnologies\nTelecom\nTextiles\nThalassemia Reports\nTherapeutics\nThermo\nTime and Space\nTomography\nTourism and Hospitality\nToxics\nToxins\nTransplantology\nTrauma Care\nTrends in Higher Education\nTropical Medicine and Infectious Disease\nUniverse\nUrban Science\nUro\nVaccines\nVehicles\nVenereology\nVeterinary Sciences\nVibration\nVirtual Worlds\nViruses\nVision\nWaste\nWater\nWild\nWind\nWomen\nWorld\nWorld Electric Vehicle Journal\nYouth\nZoonotic Diseases\n  Subscribe\n© 1996-2025 MDPI (Basel, Switzerland) unless otherwise stated\nDisclaimer Terms and Conditions Privacy Policy",
+  "usage": {
+    "tokens": 22526
+  }
+}
+```

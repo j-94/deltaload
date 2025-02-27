@@ -1,0 +1,229 @@
+Learn to use MindStudio
+===============
+       
+
+[Return to homepage](https://youai.ai/)
+
+*   [Partners](https://youai.ai/learn#)
+    
+    *   [Become a partner](https://youai.ai/partners)
+    *   [Find a partner](https://partners.mindstudio.ai/)
+    
+*   [Developers](https://youai.ai/developers)
+*   [Enterprise](https://youai.ai/enterprise)
+*   [Pricing](https://youai.ai/pricing)
+*   [Learn](https://youai.ai/learn)
+
+![Image 132](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/672b6c5fa2095f1e0da958a4_menu-8%201%20(1).svg)
+
+[Login](https://app.mindstudio.ai/login)[Sign up](https://app.mindstudio.ai/signup)
+
+[Login](https://app.mindstudio.ai/login)[Sign up](https://app.mindstudio.ai/signup)
+
+[My workspace](https://app.mindstudio.ai/)
+
+      
+
+Learn
+=====
+
+Watch our getting started video to learn the basics, or check out our detailed guides below.
+
+Events & webinars
+-----------------
+
+[View all](https://youai.ai/events)
+
+[Recent Event ### Getting started with MindStudio: Platform Updates ![Image 133](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/66725e2fb80bbf38b0207359_calendar.svg)Dec 19 @ 11am PT / 2pm ET](https://youai.ai/events/getting-more-out-of-mindstudio)
+
+ON DEMAND EVENT
+
+### Customize AI Applications With Your Data
+
+[Sign Up Now](javascript:;)
+
+ON DEMAND EVENT
+
+### MindStudio for Partners: Level Up Your Agency With AI Workflows
+
+[Sign Up Now](javascript:;)
+
+Success stories
+---------------
+
+See how our users leverage AI using MindStudio to solve daily business challenges and streamline processes.
+
+[View all](https://learn.mindstudio.ai/topics/success-stories)
+
+[![Image 134](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66aa50f50ad8e74b0caece2f_enso.png)](https://youai.ai/articles/mindstudio-is-automating-insights-and-strategy-for-the-pharma-sector)
+
+[![Image 135](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66aa50dd2ebb9b397f5431a2_zen.png)](https://youai.ai/articles/zenbusiness-tech-transformed-coaching-business-with-mindstudio)
+
+[![Image 136](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66aa50ec281a7e88c8708a3e_solutions.png)](https://youai.ai/articles/mindstudio-is-expanding-educational-opportunities-in-africa)
+
+Feature guides
+--------------
+
+All topics
+
+Builds
+
+Workspaces
+
+Prompt writing
+
+Automations & workflows
+
+User inputs & variables
+
+Model settings
+
+[![Image 137](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/677c637ddaf0225bfd6cc3af_image%20(1).png) #### Creating Notion Projects from Transcripts When teams collaborate, meetings serve as a vital platform for ideation and strategy. But too often, the insights from these conversations get trapped in transcripts or lost in the manual shuffle of turning talk into tangible outcomes. That’s where the MindStudio Project Generator can step in. ![Image 138](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/creating-notion-projects-from-transcripts)
+
+[![Image 139](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebe311913c6272aa398ce_Display%20Text.jpg) #### How to Use the Display Text Block Learn how to use the Display block to present text and images to users for more customization. ![Image 140](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:58 Automation Workflows](https://youai.ai/guides/how-to-use-the-display-text-block)
+
+[![Image 141](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668eba9bbf4ad7e59bc94559_What%20is%20a%20Prompt_.jpg) #### What is a Prompt? Learn how to write system prompts to instruct AI to fulfill a specific role. ![Image 142](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 2:07 Prompt Writing](https://youai.ai/guides/what-is-a-prompt)
+
+[![Image 143](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebae9e242d8fe0bd45a78_Generate%20a%20Prompt%20with%20AI.jpg) #### The AI Prompt Generator Learn how to use the prompt generator to quickly create effective prompts when building a new application. ![Image 144](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:04 Prompt Writing](https://youai.ai/guides/the-ai-prompt-generator)
+
+[![Image 145](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668eba33b15b984dd4064881_Manage%20Usage.jpg) #### Workspace Usage and Costs Learn how to view and export usage data to monitor your AI spending and make informed decisions about your projects. ![Image 146](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:10 Workspaces](https://youai.ai/guides/workspace-usage-and-costs)
+
+[![Image 147](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66ac01499f85e89dd20a4120_Model%20settings.jpg) #### The Underlying Model Settings Learn how to select and configure the underlying model settings to customize the AI’s behavior. ![Image 148](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 0:53 Model Settings](https://youai.ai/guides/the-underlying-model-settings)
+
+[![Image 149](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66c51241d4a9046ef86c4189_Create%20an%20onboarding%20flow%20learnpage.jpg) #### Create an Onboarding Flow Using Global Variables Learn how to create and store global variables by creating an onboarding flow in your AI Projects. ![Image 150](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:42 User inputs and Variables](https://youai.ai/guides/create-an-onboarding-flow-using-global-variables)
+
+[![Image 151](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebcb541d68f06a22e496d_Generate%20Text.jpg) #### How to Use the Generate Text Block Learn how to use Generate Text blocks to create and customize AI-powered output. ![Image 152](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:47 Automation Workflows](https://youai.ai/guides/how-to-use-the-generate-text-block)
+
+[![Image 153](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/6761c7d7c838cb7a3be2bfc0_Motinoring%20Websites.png) #### Building a MindStudio Worker for Website Monitoring and Notifications Create a powerful MindStudio worker that monitors a website for updates and sends alert notifications via email when new content is detected. ![Image 154](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 3:10 Use Case](https://youai.ai/guides/building-a-mindstudio-worker-for-website-monitoring-and-notifications)
+
+[![Image 155](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66b4f3fb2cea5210b622136c_How%20to%20Use%20the%20Copy%20and%20Paste%20Feature%20in%20Mindstudio_1200x630px.png) #### How to Use Copy & Paste in Mindstudio Learn how to effectively utilize the copy and paste feature in MindStudio to transfer automation blocks, user inputs, functions, or entire workflows between applications within your workspace. Follow along as we demonstrate step-by-step instructions, including copying a complete workflow, user inputs, and custom function blocks across different applications and documents. ![Image 156](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:55 Automation Workflows](https://youai.ai/guides/how-to-use-copy-paste-in-mindstudio)
+
+[![Image 157](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ed9e131f3533fee0ac05c_User%20input.jpg) #### How to Use the User Input Block Learn how to use the User Input block to create and customize AI-powered output. ![Image 158](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:48 Automation Workflows](https://youai.ai/guides/how-to-use-the-user-input-block)
+
+[![Image 159](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66a934c58bb00058b27c1a31_Query%20a%20data%20source.jpg) #### How to Use the Query Data Block Learn how to query a data source to pull in information to use in your applications. ![Image 160](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 6:20 Automation Workflows](https://youai.ai/guides/how-to-use-the-query-data-block)
+
+[![Image 161](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66a933efee0f3acbc82e5408_Displaying%20User%20Inputs-1200x630.png) #### Displaying User Inputs Learn how to use user inputs to create multi-page forms. ![Image 162](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:06 User inputs and Variables](https://youai.ai/guides/displaying-user-inputs)
+
+[![Image 163](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/677c64759299666fd5765139_image%20(2).png) #### How We Built a Powerful AI Product Recommendation Worker in Just a Few Hours Here’s how we built a fully functional AI-powered product recommendation worker in just a few hours—and why this approach is a game-changer for businesses. ![Image 164](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/how-we-built-a-powerful-ai-product-recommendation-worker-in-just-a-few-hours)
+
+[![Image 165](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/677c5f3dac5f0c895b3178e0_slackCompetitorScan.png) #### Leverage Our Logic, Search, and Function Blocks To Build an AI-Enhanced Slack Channel Using Zapier Read how this AI tool was built, the way I tackled a couple of issues that arose, and some info on how you can remix and expand upon this project! ![Image 166](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/leverage-our-logic-search-and-function-blocks-to-build-an-ai-enhanced-slack-channel-using-zapier)
+
+[![Image 167](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebd7224e6f34e6680f62b_Text%20to%20Speech.jpg) #### How to Use the Text to Speech Block Learn how to use the Text to Speech block to produce audio outputs from inputted text. ![Image 168](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:51 Automation Workflows](https://youai.ai/guides/how-to-use-the-text-to-speech-block)
+
+[![Image 169](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66982cb9bfb853c397e75364_What%20is%20a%20User%20input_.jpg) #### What is a User Input? Learn how to create user inputs and utilize their collected data throughout your AI applications. ![Image 170](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:41 User inputs and Variables](https://youai.ai/guides/what-is-a-user-input)
+
+[![Image 171](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebc584d9a2d53fd4d24d1_What%20is%20an%20Automation%20Workflow_.jpg) #### Automation Workflow Basics Learn how to use the automation workflow in MindStudio to streamline your AI applications. ![Image 172](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 2:12 Automation Workflows](https://youai.ai/guides/automation-workflow-basics)
+
+[![Image 173](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66ba776210e82f11592c3c5e_Group%20inputs%20into%20a%20single%20input.jpg) #### Group User Inputs Under a Single Variable Learn how to efficiently group user inputs under a single variable name for seamless data handling. This tutorial guides you through the process of configuring and referencing grouped user inputs in your workflow, making multiple data points manageable and easy to incorporate into your projects. ![Image 174](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 0:58 User inputs and Variables](https://youai.ai/guides/group-user-inputs-under-a-single-variable)
+
+[![Image 175](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebdc925f5efabd82c2b81_Analyze%20Image.jpg) #### How to Use the Analyze Image Block Learn how to use the Analyze Image block to analyze images based on specific instructions. ![Image 176](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:44 Automation Workflows](https://youai.ai/guides/how-to-use-the-analyze-image-block)
+
+[![Image 177](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebb5b06cf237b4f528774_Test%20your%20Prompt.jpg) #### The Prompt Tester Learn how to use the prompt tester to ensure the instructions you give your AI are working as intended. ![Image 178](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:02 Prompt Writing](https://youai.ai/guides/the-prompt-tester)
+
+[![Image 179](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668eb97b8320d16ea6f380a0_What%20is%20a%20Workspace.jpg) #### What is a Workspace? Learn how to manage all the AI applications you build in the MindStudio workspace. ![Image 180](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:44 Workspaces](https://youai.ai/guides/what-is-a-workspace)
+
+[![Image 181](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668eb9e4bf4ad7e59bc8c82a_Manage%20Usage%20Limits.jpg) #### How to Set Monthly Usage Limits Learn to set and manage usage limits for your MindStudio workspace. ![Image 182](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:19 Workspaces](https://youai.ai/guides/how-to-set-monthly-usage-limits)
+
+[![Image 183](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66982c041313bef3ddc76186_What%20is%20a%20Variable_.jpg) #### What is a Variable? Learn how to use variables to reference user inputs throughout your AI applications. ![Image 184](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:12 User inputs and Variables](https://youai.ai/guides/what-is-a-variable)
+
+[![Image 185](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebd0586ade8054825acd6_Generate%20Image.jpg) #### How to Use the Generate Image Block Learn how to use Generate Image blocks to generate custom images for your AI applications. ![Image 186](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:43 Automation Workflows](https://youai.ai/guides/how-to-use-the-generate-image-block)
+
+[![Image 187](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/675f9dac25ff5aab4cda0224_qnFNb5JbSVmLF8SV41TiBQ.webp) #### Building a Slack Bot with MindStudio: A Developer's Guide Looking to enhance your Slack workspace with a custom-trained AI-powered assistant? This guide walks you through creating a smart Slack bot using a MindStudio AI Worker. ![Image 188](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/building-a-slack-bot-with-mindstudio)
+
+[![Image 189](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/67814c58424e52b1cc787966_Live%20Build%20Tom%20Vazdar%20V2.png) #### Event recap: AI workers for creating recipes, planning trips, and interpreting your dreams Read on for a recap of the livestream hosted by Tom Vazdar, from Riskoria Advising, a Certified MindStudio Partner. ![Image 190](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/event-recap-ai-workers-for-creating-recipes-planning-trips-and-interpreting-your-dreams)
+
+[![Image 191](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/677c67719272a25a2e736fa7_Screenshot%202024-12-16%20at%201.13.39%E2%80%AFPM.png) #### Run AI Workers from Slack Streamline your AI workflow by integrating MindStudio directly with your team's Slack workspace. This powerful integration enables you to run AI Workers and share results instantly within your existing communication channels. ![Image 192](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/run-ai-workers-from-slack)
+
+[![Image 193](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66b1488a97e30ab7981d0ddc_Types%20of%20User%20inputs%20OG.jpg) #### Types of User Inputs Explore the various types of user inputs available in MindStudio and how to use them effectively. ![Image 194](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 2:26 User inputs and Variables](https://youai.ai/guides/types-of-user-inputs)
+
+[![Image 195](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66ac019c873a5c50289e2736_Select%20the%20underlying%20model.jpg) #### How to Select the Underlying Model for Your AI Application Learn how to select the underlying AI model for your MindStudio application. ![Image 196](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:02 Model Settings](https://youai.ai/guides/how-to-select-the-underlying-model-for-your-ai-application)
+
+[![Image 197](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66982c736ef921f500948095_Scrape%20URL.jpg) #### How to Use the Scrape URL Block Learn how to scrape a full webpage and use that data within your AI applications’ workflows. ![Image 198](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 2:52 Automation Workflows](https://youai.ai/guides/how-to-use-the-scrape-url-block)
+
+[![Image 199](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/67814c58424e52b1cc787966_Live%20Build%20Tom%20Vazdar%20V2.png) #### Event recap: AI workers for creating recipes, planning trips, and interpreting your dreams Read on for a recap of the livestream hosted by Tom Vazdar, from Riskoria Advising, a Certified MindStudio Partner. ![Image 200](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/event-recap-ai-workers-for-creating-recipes-planning-trips-and-interpreting-your-dreams)
+
+[![Image 201](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/677c67719272a25a2e736fa7_Screenshot%202024-12-16%20at%201.13.39%E2%80%AFPM.png) #### Run AI Workers from Slack Streamline your AI workflow by integrating MindStudio directly with your team's Slack workspace. This powerful integration enables you to run AI Workers and share results instantly within your existing communication channels. ![Image 202](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/run-ai-workers-from-slack)
+
+[![Image 203](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/677c64759299666fd5765139_image%20(2).png) #### How We Built a Powerful AI Product Recommendation Worker in Just a Few Hours Here’s how we built a fully functional AI-powered product recommendation worker in just a few hours—and why this approach is a game-changer for businesses. ![Image 204](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/how-we-built-a-powerful-ai-product-recommendation-worker-in-just-a-few-hours)
+
+[![Image 205](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/677c637ddaf0225bfd6cc3af_image%20(1).png) #### Creating Notion Projects from Transcripts When teams collaborate, meetings serve as a vital platform for ideation and strategy. But too often, the insights from these conversations get trapped in transcripts or lost in the manual shuffle of turning talk into tangible outcomes. That’s where the MindStudio Project Generator can step in. ![Image 206](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/creating-notion-projects-from-transcripts)
+
+[![Image 207](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/677c5f3dac5f0c895b3178e0_slackCompetitorScan.png) #### Leverage Our Logic, Search, and Function Blocks To Build an AI-Enhanced Slack Channel Using Zapier Read how this AI tool was built, the way I tackled a couple of issues that arose, and some info on how you can remix and expand upon this project! ![Image 208](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/leverage-our-logic-search-and-function-blocks-to-build-an-ai-enhanced-slack-channel-using-zapier)
+
+[![Image 209](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/6761c7d7c838cb7a3be2bfc0_Motinoring%20Websites.png) #### Building a MindStudio Worker for Website Monitoring and Notifications Create a powerful MindStudio worker that monitors a website for updates and sends alert notifications via email when new content is detected. ![Image 210](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 3:10 Use Case](https://youai.ai/guides/building-a-mindstudio-worker-for-website-monitoring-and-notifications)
+
+[![Image 211](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/675f9dac25ff5aab4cda0224_qnFNb5JbSVmLF8SV41TiBQ.webp) #### Building a Slack Bot with MindStudio: A Developer's Guide Looking to enhance your Slack workspace with a custom-trained AI-powered assistant? This guide walks you through creating a smart Slack bot using a MindStudio AI Worker. ![Image 212](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) Use Case](https://youai.ai/guides/building-a-slack-bot-with-mindstudio)
+
+[![Image 213](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668eba33b15b984dd4064881_Manage%20Usage.jpg) #### Workspace Usage and Costs Learn how to view and export usage data to monitor your AI spending and make informed decisions about your projects. ![Image 214](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:10 Workspaces](https://youai.ai/guides/workspace-usage-and-costs)
+
+[![Image 215](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668eb9e4bf4ad7e59bc8c82a_Manage%20Usage%20Limits.jpg) #### How to Set Monthly Usage Limits Learn to set and manage usage limits for your MindStudio workspace. ![Image 216](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:19 Workspaces](https://youai.ai/guides/how-to-set-monthly-usage-limits)
+
+[![Image 217](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668eb97b8320d16ea6f380a0_What%20is%20a%20Workspace.jpg) #### What is a Workspace? Learn how to manage all the AI applications you build in the MindStudio workspace. ![Image 218](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:44 Workspaces](https://youai.ai/guides/what-is-a-workspace)
+
+[![Image 219](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebb5b06cf237b4f528774_Test%20your%20Prompt.jpg) #### The Prompt Tester Learn how to use the prompt tester to ensure the instructions you give your AI are working as intended. ![Image 220](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:02 Prompt Writing](https://youai.ai/guides/the-prompt-tester)
+
+[![Image 221](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebae9e242d8fe0bd45a78_Generate%20a%20Prompt%20with%20AI.jpg) #### The AI Prompt Generator Learn how to use the prompt generator to quickly create effective prompts when building a new application. ![Image 222](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:04 Prompt Writing](https://youai.ai/guides/the-ai-prompt-generator)
+
+[![Image 223](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668eba9bbf4ad7e59bc94559_What%20is%20a%20Prompt_.jpg) #### What is a Prompt? Learn how to write system prompts to instruct AI to fulfill a specific role. ![Image 224](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 2:07 Prompt Writing](https://youai.ai/guides/what-is-a-prompt)
+
+[![Image 225](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66b4f3fb2cea5210b622136c_How%20to%20Use%20the%20Copy%20and%20Paste%20Feature%20in%20Mindstudio_1200x630px.png) #### How to Use Copy & Paste in Mindstudio Learn how to effectively utilize the copy and paste feature in MindStudio to transfer automation blocks, user inputs, functions, or entire workflows between applications within your workspace. Follow along as we demonstrate step-by-step instructions, including copying a complete workflow, user inputs, and custom function blocks across different applications and documents. ![Image 226](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:55 Automation Workflows](https://youai.ai/guides/how-to-use-copy-paste-in-mindstudio)
+
+[![Image 227](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66a934c58bb00058b27c1a31_Query%20a%20data%20source.jpg) #### How to Use the Query Data Block Learn how to query a data source to pull in information to use in your applications. ![Image 228](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 6:20 Automation Workflows](https://youai.ai/guides/how-to-use-the-query-data-block)
+
+[![Image 229](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66982c736ef921f500948095_Scrape%20URL.jpg) #### How to Use the Scrape URL Block Learn how to scrape a full webpage and use that data within your AI applications’ workflows. ![Image 230](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 2:52 Automation Workflows](https://youai.ai/guides/how-to-use-the-scrape-url-block)
+
+[![Image 231](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ed9e131f3533fee0ac05c_User%20input.jpg) #### How to Use the User Input Block Learn how to use the User Input block to create and customize AI-powered output. ![Image 232](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:48 Automation Workflows](https://youai.ai/guides/how-to-use-the-user-input-block)
+
+[![Image 233](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebe311913c6272aa398ce_Display%20Text.jpg) #### How to Use the Display Text Block Learn how to use the Display block to present text and images to users for more customization. ![Image 234](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:58 Automation Workflows](https://youai.ai/guides/how-to-use-the-display-text-block)
+
+[![Image 235](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebdc925f5efabd82c2b81_Analyze%20Image.jpg) #### How to Use the Analyze Image Block Learn how to use the Analyze Image block to analyze images based on specific instructions. ![Image 236](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:44 Automation Workflows](https://youai.ai/guides/how-to-use-the-analyze-image-block)
+
+[![Image 237](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebd7224e6f34e6680f62b_Text%20to%20Speech.jpg) #### How to Use the Text to Speech Block Learn how to use the Text to Speech block to produce audio outputs from inputted text. ![Image 238](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:51 Automation Workflows](https://youai.ai/guides/how-to-use-the-text-to-speech-block)
+
+[![Image 239](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebd0586ade8054825acd6_Generate%20Image.jpg) #### How to Use the Generate Image Block Learn how to use Generate Image blocks to generate custom images for your AI applications. ![Image 240](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:43 Automation Workflows](https://youai.ai/guides/how-to-use-the-generate-image-block)
+
+[![Image 241](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebcb541d68f06a22e496d_Generate%20Text.jpg) #### How to Use the Generate Text Block Learn how to use Generate Text blocks to create and customize AI-powered output. ![Image 242](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:47 Automation Workflows](https://youai.ai/guides/how-to-use-the-generate-text-block)
+
+[![Image 243](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/668ebc584d9a2d53fd4d24d1_What%20is%20an%20Automation%20Workflow_.jpg) #### Automation Workflow Basics Learn how to use the automation workflow in MindStudio to streamline your AI applications. ![Image 244](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 2:12 Automation Workflows](https://youai.ai/guides/automation-workflow-basics)
+
+[![Image 245](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66c51241d4a9046ef86c4189_Create%20an%20onboarding%20flow%20learnpage.jpg) #### Create an Onboarding Flow Using Global Variables Learn how to create and store global variables by creating an onboarding flow in your AI Projects. ![Image 246](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:42 User inputs and Variables](https://youai.ai/guides/create-an-onboarding-flow-using-global-variables)
+
+[![Image 247](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66ba776210e82f11592c3c5e_Group%20inputs%20into%20a%20single%20input.jpg) #### Group User Inputs Under a Single Variable Learn how to efficiently group user inputs under a single variable name for seamless data handling. This tutorial guides you through the process of configuring and referencing grouped user inputs in your workflow, making multiple data points manageable and easy to incorporate into your projects. ![Image 248](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 0:58 User inputs and Variables](https://youai.ai/guides/group-user-inputs-under-a-single-variable)
+
+[![Image 249](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66b1488a97e30ab7981d0ddc_Types%20of%20User%20inputs%20OG.jpg) #### Types of User Inputs Explore the various types of user inputs available in MindStudio and how to use them effectively. ![Image 250](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 2:26 User inputs and Variables](https://youai.ai/guides/types-of-user-inputs)
+
+[![Image 251](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66a933efee0f3acbc82e5408_Displaying%20User%20Inputs-1200x630.png) #### Displaying User Inputs Learn how to use user inputs to create multi-page forms. ![Image 252](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:06 User inputs and Variables](https://youai.ai/guides/displaying-user-inputs)
+
+[![Image 253](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66982cb9bfb853c397e75364_What%20is%20a%20User%20input_.jpg) #### What is a User Input? Learn how to create user inputs and utilize their collected data throughout your AI applications. ![Image 254](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:41 User inputs and Variables](https://youai.ai/guides/what-is-a-user-input)
+
+[![Image 255](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66982c041313bef3ddc76186_What%20is%20a%20Variable_.jpg) #### What is a Variable? Learn how to use variables to reference user inputs throughout your AI applications. ![Image 256](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:12 User inputs and Variables](https://youai.ai/guides/what-is-a-variable)
+
+[![Image 257](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66ac019c873a5c50289e2736_Select%20the%20underlying%20model.jpg) #### How to Select the Underlying Model for Your AI Application Learn how to select the underlying AI model for your MindStudio application. ![Image 258](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 1:02 Model Settings](https://youai.ai/guides/how-to-select-the-underlying-model-for-your-ai-application)
+
+[![Image 259](https://cdn.prod.website-files.com/6629665bc5174a15d3403d21/66ac01499f85e89dd20a4120_Model%20settings.jpg) #### The Underlying Model Settings Learn how to select and configure the underlying model settings to customize the AI’s behavior. ![Image 260](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/668feaf067a025dd495dac41_runtime.svg) 0:53 Model Settings](https://youai.ai/guides/the-underlying-model-settings)
+
+Product
+
+*   [Partners](https://youai.ai/partners)
+*   [Download](https://youai.ai/download)
+
+Solutions
+
+*   [Developers](https://youai.ai/developers)
+*   [Enterprise](https://youai.ai/enterprise)
+
+Learn
+
+*   [Blog](https://youai.ai/learn)
+*   [Events](https://youai.ai/events)
+*   [Success Stories](https://www.mindstudio.ai/topics/success-stories)
+
+[Youtube](https://www.youtube.com/@MindStudio_ai)[X/Twitter](https://twitter.com/mindstudioai)[Discord](https://discord.gg/youai-mindstudio)[Linkedin](https://www.linkedin.com/company/mindstudioai)
+
+Copyright © 2024 MindStudio (GoMeta, Inc.). All Rights Reserved.
+
+*   [Terms of Use](https://youai.ai/legal/terms-of-use)
+*   [Privacy Policy](https://youai.ai/legal/privacy-policy)
+*   [Cookie Settings](https://youai.ai/legal/embedded-applications)
+
+![Image 261](https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/6723cd08aed2067a5ffb9dcb_Vector%201%20(2).webp)

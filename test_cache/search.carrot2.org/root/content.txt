@@ -1,0 +1,489 @@
+Carrot2 search results clustering engine
+===============
+
+[](https://search.carrot2.org/#/)[](https://search.carrot2.org/#/search)[](https://search.carrot2.org/#/workbench)
+
+[](https://search.carrot2.org/#/about)[](https://github.com/carrot2/carrot2)
+
+clusteringWorkbench
+
+Cluster
+
+Data source
+
+Clustering algorithm
+
+Filters
+
+#### Web
+
+Query
+
+Language
+
+Country
+
+Safe search
+
+Data sources
+
+AllFastest
+
+Partner
+
+Customer ID
+
+#### PubMed
+
+Query
+
+Max results
+
+0
+
+500
+
+100
+
+API key
+
+#### Local file
+
+Loads documents from a local file. Carrot2 XML, JSON, CSV and Excel formats are supported.
+
+File
+
+Browse or drag 'n' drop your file here.
+
+Fields to cluster
+
+No natural text content detected
+
+Only natural text fields shown, show all fields.
+
+#### Solr
+
+Queries Apache Solr.
+
+Solr service URL
+
+Connect
+
+Solr collection to search
+
+Collection list is empty, no content to search.
+
+Fields to cluster
+
+No natural text content detected
+
+Only natural text fields shown, show all fields.
+
+Query
+
+Max results
+
+0
+
+1000
+
+100
+
+Use highlights for clustering
+
+Additional search request parameters
+
+#### Elasticsearch
+
+Queries Elasticsearch.
+
+Elasticsearch service URL
+
+Connect
+
+Elasticsearch collection to search
+
+Collection list is empty, no content to search.
+
+Fields to cluster
+
+No natural text content detected
+
+Only natural text fields shown, show all fields.
+
+Query
+
+Max results
+
+0
+
+1000
+
+100
+
+#### Clusters
+
+Parameters affecting the number, structure and content of clusters.
+
+Desired cluster count
+
+2
+
+100
+
+30
+
+Minimum cluster size
+
+1
+
+100
+
+2
+
+Cluster label assignment method
+
+SimpleLabelAssigner
+
+UniqueLabelAssigner
+
+Exact phrase assignment
+
+Cluster merging threshold
+
+0
+
+1
+
+0.70
+
+Size-score sorting ratio
+
+0
+
+1
+
+0
+
+#### Cluster labels
+
+Customization of cluster labels.
+
+Phrase label boost
+
+0
+
+10
+
+1.5
+
+Phrase length penalty start
+
+2
+
+8
+
+8
+
+Phrase length penalty stop
+
+2
+
+8
+
+8
+
+Truncated label filter enabled
+
+Truncated label threshold
+
+0
+
+1
+
+0.65
+
+Genitive label filter enabled
+
+Minimum label length filter enabled
+
+Minimum label length
+
+Numeric label filter enabled
+
+Query label filter enabled
+
+Stop label filter enabled
+
+Stop word label filter enabled
+
+#### Dictionaries
+
+Label and word exclusion dictionaries.
+
+Excluded label patterns
+
+glob
+
+exact
+
+regexp
+
+Copy JSONCopy JSONCopy JSON
+
+One pattern per line, separate words with spaces, `*` is zero or more words, syntax help
+
+Stop words
+
+glob
+
+exact
+
+regexp
+
+Copy JSONCopy JSONCopy JSON
+
+One pattern per line, separate words with spaces, `*` is zero or more words, syntax help
+
+#### Language model
+
+Parameters of the document representation used by the clustering algorithm.
+
+Language
+
+Term weighting for term-document matrix
+
+Boosted fields
+
+Boosted fields weight
+
+0
+
+10
+
+2.0
+
+Phrase document frequency threshold
+
+1
+
+100
+
+1
+
+Word document frequency threshold
+
+1
+
+100
+
+1
+
+Maximum word document frequency
+
+0
+
+1
+
+0.90
+
+Term-document matrix factorization method
+
+Factorization quality
+
+Factorization quality
+
+Factorization quality
+
+Factorization quality
+
+Maximum term-document matrix size
+
+#### Clusters
+
+Parameters affecting the number, structure and content of clusters.
+
+Maximum number of final clusters
+
+Maximum base clusters
+
+Minimum base cluster score
+
+0
+
+10
+
+2.0
+
+Minimum base cluster documents
+
+2
+
+20
+
+2
+
+Document count boost
+
+Merge all stem-equivalent phrases when discovering base clusters
+
+Base cluster merge threshold
+
+0
+
+1
+
+0.60
+
+Size-score sorting ratio
+
+0
+
+1
+
+0
+
+#### Cluster labels
+
+Customization of cluster labels.
+
+Boost single-term clusters
+
+Optimal cluster label length
+
+Phrase length tolerance
+
+Maximum words per label
+
+Maximum phrases per label
+
+Maximum cluster phrase overlap
+
+0
+
+1
+
+0.60
+
+Minimum general phrase coverage
+
+0
+
+1
+
+0.50
+
+#### Language model
+
+Parameters of the document representation used by the clustering algorithm.
+
+Language
+
+Max relative word DF
+
+0
+
+1
+
+0.90
+
+Word document frequency threshold
+
+1
+
+100
+
+1
+
+#### Clusters
+
+Parameters affecting the number, structure and content of clusters.
+
+Cluster count
+
+Maximum iterations
+
+Partition count
+
+2
+
+10
+
+2
+
+#### Cluster labels
+
+Customization of cluster labels.
+
+Label count
+
+1
+
+10
+
+3
+
+#### Language model
+
+Parameters of the document representation used by the clustering algorithm.
+
+Language
+
+Term weighting for term-document matrix
+
+Boosted fields
+
+Boosted fields weight
+
+0
+
+10
+
+2.0
+
+Maximum word document frequency
+
+0
+
+1
+
+0.90
+
+Word document frequency threshold
+
+1
+
+100
+
+1
+
+Use dimensionality reduction
+
+Term-document matrix factorization method
+
+Factorization quality
+
+Factorization quality
+
+Factorization quality
+
+Factorization quality
+
+Maximum term-document matrix size
+
+Welcome to Clustering Workbench
+-------------------------------
+
+### the expert-level Carrot2 application
+
+1.  ### Choose data source:
+    
+    *   Web search results
+    *   PubMed abstracts
+    *   Excel, CSV, OpenOffice, JSON or XML files
+    *   Apache Solr search results
+    *   Elasticsearch results
+2.  ### Configure **Web** data source
+    
+    Type your query in the **Query** box. Use the common web search engine syntax such as double quotes for `"phrase search"`,`-` to exclude words or phrases etc.
+3.  ### Press the **Cluster** button

@@ -1,0 +1,125 @@
+---
+title: Repoformer: Selective Retrieval for Repository-Level Code Completion
+description: Abstract page for arXiv paper 2403.10059: Repoformer: Selective Retrieval for Repository-Level Code Completion
+url: https://arxiv.org/abs/2403.10059
+timestamp: 2025-01-20T15:59:59.002Z
+domain: arxiv.org
+path: abs_2403.10059
+---
+
+# Repoformer: Selective Retrieval for Repository-Level Code Completion
+
+
+Abstract page for arXiv paper 2403.10059: Repoformer: Selective Retrieval for Repository-Level Code Completion
+
+
+## Content
+
+Skip to main content
+
+In just 3 minutes help us improve arXiv:
+
+Annual Global Survey
+We gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors.
+Donate
+>
+cs
+>
+arXiv:2403.10059
+
+Help | Advanced Search
+
+All fields
+Title
+Author
+Abstract
+Comments
+Journal reference
+ACM classification
+MSC classification
+Report number
+arXiv identifier
+DOI
+ORCID
+arXiv author ID
+Help pages
+Full text
+Search
+Computer Science > Software Engineering
+[Submitted on 15 Mar 2024 (v1), last revised 4 Jun 2024 (this version, v2)]
+Repoformer: Selective Retrieval for Repository-Level Code Completion
+Di Wu, Wasi Uddin Ahmad, Dejiao Zhang, Murali Krishna Ramanathan, Xiaofei Ma
+Recent advances in retrieval-augmented generation (RAG) have initiated a new era in repository-level code completion. However, the invariable use of retrieval in existing methods exposes issues in both efficiency and robustness, with a large proportion of the retrieved contexts proving unhelpful or harmful to code language models (code LMs). In this paper, we propose a selective RAG framework to avoid retrieval when unnecessary. To power this framework, we design a self-supervised learning approach to enable a code LM to accurately self-evaluate whether retrieval can improve its output quality and robustly leverage the potentially noisy retrieved contexts. Using this LM as both the selective RAG policy and the generation model, our framework achieves state-of-the-art repository-level code completion performance on diverse benchmarks including RepoEval, CrossCodeEval, and CrossCodeLongEval, a new long-form code completion benchmark. Meanwhile, our analyses show that selectively retrieving brings as much as 70% inference speedup in the online serving setting without harming the performance. We further demonstrate that our framework is able to accommodate different generation models, retrievers, and programming languages. These advancements position our framework as an important step towards more accurate and efficient repository-level code completion.
+Comments:	ICML 2024
+Subjects:	Software Engineering (cs.SE); Computation and Language (cs.CL)
+Cite as:	arXiv:2403.10059 [cs.SE]
+ 	(or arXiv:2403.10059v2 [cs.SE] for this version)
+ 	
+https://doi.org/10.48550/arXiv.2403.10059
+Focus to learn more
+Submission history
+From: Di Wu [view email]
+[v1] Fri, 15 Mar 2024 06:59:43 UTC (9,421 KB)
+[v2] Tue, 4 Jun 2024 10:04:33 UTC (8,639 KB)
+
+Access Paper:
+View PDF
+HTML (experimental)
+TeX Source
+Other Formats
+view license
+Current browse context:
+cs.SE
+< prev   |   next >
+
+new | recent | 2024-03
+Change to browse by:
+cs
+cs.CL
+
+References & Citations
+NASA ADS
+Google Scholar
+Semantic Scholar
+Export BibTeX Citation
+Bookmark
+ 
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer (What is the Explorer?)
+Connected Papers Toggle
+Connected Papers (What is Connected Papers?)
+Litmaps Toggle
+Litmaps (What is Litmaps?)
+scite.ai Toggle
+scite Smart Citations (What are Smart Citations?)
+Code, Data, Media
+Demos
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?)
+About
+Help
+Contact
+Subscribe
+Copyright
+Privacy Policy
+Web Accessibility Assistance
+
+arXiv Operational Status 
+Get status notifications via email or slack
+
+## Metadata
+
+```json
+{
+  "title": "Repoformer: Selective Retrieval for Repository-Level Code Completion",
+  "description": "Abstract page for arXiv paper 2403.10059: Repoformer: Selective Retrieval for Repository-Level Code Completion",
+  "url": "https://arxiv.org/abs/2403.10059",
+  "content": "Skip to main content\n\nIn just 3 minutes help us improve arXiv:\n\nAnnual Global Survey\nWe gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors.\nDonate\n>\ncs\n>\narXiv:2403.10059\n\nHelp | Advanced Search\n\nAll fields\nTitle\nAuthor\nAbstract\nComments\nJournal reference\nACM classification\nMSC classification\nReport number\narXiv identifier\nDOI\nORCID\narXiv author ID\nHelp pages\nFull text\nSearch\nComputer Science > Software Engineering\n[Submitted on 15 Mar 2024 (v1), last revised 4 Jun 2024 (this version, v2)]\nRepoformer: Selective Retrieval for Repository-Level Code Completion\nDi Wu, Wasi Uddin Ahmad, Dejiao Zhang, Murali Krishna Ramanathan, Xiaofei Ma\nRecent advances in retrieval-augmented generation (RAG) have initiated a new era in repository-level code completion. However, the invariable use of retrieval in existing methods exposes issues in both efficiency and robustness, with a large proportion of the retrieved contexts proving unhelpful or harmful to code language models (code LMs). In this paper, we propose a selective RAG framework to avoid retrieval when unnecessary. To power this framework, we design a self-supervised learning approach to enable a code LM to accurately self-evaluate whether retrieval can improve its output quality and robustly leverage the potentially noisy retrieved contexts. Using this LM as both the selective RAG policy and the generation model, our framework achieves state-of-the-art repository-level code completion performance on diverse benchmarks including RepoEval, CrossCodeEval, and CrossCodeLongEval, a new long-form code completion benchmark. Meanwhile, our analyses show that selectively retrieving brings as much as 70% inference speedup in the online serving setting without harming the performance. We further demonstrate that our framework is able to accommodate different generation models, retrievers, and programming languages. These advancements position our framework as an important step towards more accurate and efficient repository-level code completion.\nComments:\tICML 2024\nSubjects:\tSoftware Engineering (cs.SE); Computation and Language (cs.CL)\nCite as:\tarXiv:2403.10059 [cs.SE]\n \t(or arXiv:2403.10059v2 [cs.SE] for this version)\n \t\nhttps://doi.org/10.48550/arXiv.2403.10059\nFocus to learn more\nSubmission history\nFrom: Di Wu [view email]\n[v1] Fri, 15 Mar 2024 06:59:43 UTC (9,421 KB)\n[v2] Tue, 4 Jun 2024 10:04:33 UTC (8,639 KB)\n\nAccess Paper:\nView PDF\nHTML (experimental)\nTeX Source\nOther Formats\nview license\nCurrent browse context:\ncs.SE\n< prev   |   next >\n\nnew | recent | 2024-03\nChange to browse by:\ncs\ncs.CL\n\nReferences & Citations\nNASA ADS\nGoogle Scholar\nSemantic Scholar\nExport BibTeX Citation\nBookmark\n \nBibliographic Tools\nBibliographic and Citation Tools\nBibliographic Explorer Toggle\nBibliographic Explorer (What is the Explorer?)\nConnected Papers Toggle\nConnected Papers (What is Connected Papers?)\nLitmaps Toggle\nLitmaps (What is Litmaps?)\nscite.ai Toggle\nscite Smart Citations (What are Smart Citations?)\nCode, Data, Media\nDemos\nRelated Papers\nAbout arXivLabs\nWhich authors of this paper are endorsers? | Disable MathJax (What is MathJax?)\nAbout\nHelp\nContact\nSubscribe\nCopyright\nPrivacy Policy\nWeb Accessibility Assistance\n\narXiv Operational Status \nGet status notifications via email or slack",
+  "usage": {
+    "tokens": 791
+  }
+}
+```

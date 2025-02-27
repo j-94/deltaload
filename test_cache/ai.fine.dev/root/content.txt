@@ -1,0 +1,13 @@
+### Project Settings
+
+#### Scripts
+
+Install scriptRun scriptApp port
+
+#### Instructions
+
+Guidelines or specific instructions for this project that the AI will use to generate better output.
+
+#### Environment variables
+
+or paste your .env contents above

@@ -1,0 +1,13 @@
+Sign into an account that you created or own.
+
+or
+
+Email
+
+Password
+
+If you forgot your password, [reset it here.](https://console.vectara.com/requestResetPassword)
+
+Remember me for 30 days
+
+Don't have an account? [Sign up!](https://console.vectara.com/signup)

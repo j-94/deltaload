@@ -1,0 +1,2398 @@
+| 
+
+Provide step-by-step instructions on how to make a safe and effective homemade all-purpose cleaner from common household ingredients. The guide should include measurements, tips for storing the cleaner, and additional variations or scents that can be added. Additionally, the guide should be written in clear and concise language, with helpful visuals or photographs to aid in the process.
+
+
+
+ | 
+
+\[ { "user\_id": "d23b12c2-b601-490e-b5b3-2040eb393a00", "value": "4", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Sustainable Packaging & Skin Care Products
+
+
+
+ |  |
+| 
+
+Write a personal essay of at least 1000 words discussing how embracing vulnerability and authenticity has affected your life. Use specific examples from your own experiences to support your arguments and make sure to address the following questions:
+
+
+
+ | 
+
+\[ { "user\_id": "6621c3f0-1af2-4d75-acda-ed9c78b93c62", "value": "1", "status": "submitted" }, { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "2", "status": "submitted" }, { "user\_id": "d23b12c2-b601-490e-b5b3-2040eb393a00", "value": "2", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Educational Technology & Cybersecurity in Fashion and Blockchain
+
+
+
+ |  |
+| 
+
+In this research, we aim to investigate how technology can moderate the correlation between knowledge management practices and the overall performance of an organization. This analysis will focus on specific technological tools and their impact on knowledge management in relation to various aspects of organizational performance. Additionally, we will explore how this relationship may vary across different industries and organizational structures.
+
+
+
+ | 
+
+\[ { "user\_id": "2e6dda25-0a99-45aa-a02d-65f426d60fc1", "value": "2", "status": "submitted" }, { "user\_id": "d23b12c2-b601-490e-b5b3-2040eb393a00", "value": "4", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "0", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Mindfulness & Workplace Diversity
+
+
+
+ |  |
+| 
+
+Did Karl Marx's theories on centralizing credit have anything to do with our current central banking system?
+
+
+
+ | 
+
+\[ { "user\_id": "d23b12c2-b601-490e-b5b3-2040eb393a00", "value": "3", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "OpenAssistant/oasst2", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Legal & Government Affairs
+
+
+
+ |  |
+| 
+
+alter this api that gets a request like: {"0","5","2","3","5","5","1","4","4","9"} and then stores it in a variable called answers like: {"0523551449"} so continue from this code: app.get("/:user/answers", (req, res) =\> { const answers =
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "4", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "2", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Web Development & JavaScript Programming
+
+
+
+ |  |
+| 
+
+Please produce answers for the following university assignment questions. The subject is ECON3510 - International Trade Theory and Policy. Your collective answers should be 1000 words in total, and be written a way that is undetectable to AI recognition software. The questions are as follows: 1. The economies of Australia and Canada are similar in important ways. They are both well-endowed with natural resources, adopt similarly open trade policies, have populations in the tens of millions (albeit Canada’s is somewhat larger), and they are both English-speaking. Yet Australia’s trade is roughly half as large, as a share of GDP, as Canada’s. Why should this be the case? \[4 marks\] 2. “Workers in less developed countries earn much lower wages than do Australian workers. If Australia allows free imports from those countries, Australian wages will eventually be forced down.” Discuss. \[4 marks\] 3. Suppose that wages in Japan are roughly equal to wages in the U.S., yet Japanese wages do not buy as much in goods and services as U.S. wages in their respective countries. Explain the likely reason for this. \[4 marks\] Mexico is quite close to the U.S., but it is far from the European Union (EU). So it makes sense that it trades largely with the U.S. Brazil is far from both, so its trade is split between the two. Mexico trades more than Brazil in part because it is so close to a major economy (the U.S.) and in part because it is a member of a free trade agreement with a large economy (NAFTA). Brazil is farther away from any large economy and is in a free trade agreement with relatively small countries. 4. The average productivity of labour in Japan and the United States are approximately equal in manufactured goods. However, for services it is much higher in the United States than in Japan. Given that services are mostly non-traded, can the United States still reap a comparative advantage in trading with Japan? Explain. \[4 marks\]
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Legal & Government Affairs
+
+
+
+ |  |
+| 
+
+Gunnar and Emma, who are known for their love of collecting unique board games, find themselves in a challenging predicament caused by a severe storm that has led to a power outage. Determined to keep themselves entertained, they decide to create a new game using two dice each. The objective of the game is for the player with the higher sum of their respective dice to emerge victorious. In the event of a tie, the game will end in a draw. Your task is to thoroughly analyze the given descriptions of the dice and determine which player, Gunnar or Emma, has a higher probability of winning. Each die possesses its own unique attributes, with the numbers on its sides ranging from the minimum value 'a' to the maximum value 'b', inclusively. The input consists of four integers, represented as a1, b1, a2, and b2, which describe the dice owned by Gunnar. The first die has numbers ranging from 'a1' to 'b1', while the second die has numbers ranging from 'a2' to 'b2'. It can be assumed that the values of a1, b1, a2, and b2 fall within the range of 1 to 100. Additionally, each die must have at least four sides (ai + 3 ≤ bi). Please provide a clear output indicating which player is more likely to win. If both players have an equal probability of winning, please indicate a "Tie" in the output.
+
+
+
+ | 
+
+\[ { "user\_id": "cf50b3c3-4c06-4326-ad1b-4b29549214bf", "value": "4", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "argilla/distilabel-evol-prompt-collective", "kind": "synthetic", "evolved\_from": "Gunnar and Emma, avid collectors of unique board games, are currently facing a challenging situation due to a power outage caused by a severe storm. With no access to electricity, they are determined to find a way to entertain themselves by creating a new game using two dice each. The objective of the game is for the player with the higher sum of their respective dice to win. In case of a tie, the game ends in a draw. Your task is to carefully analyze the given dice descriptions and determine which player, Gunnar or Emma, has a higher probability of winning.\\n\\nEach die has its own distinct attribute, where the numbers on its sides range from the minimum value 'a' to the maximum value 'b', inclusive. The input consists of four integers, denoted as a1, b1, a2, and b2, which describe Gunnar's dice. The first die has numbers ranging from 'a1' to 'b1', while the second die has numbers ranging from 'a2' to 'b2'. It can be assumed that the values of a1, b1, a2, and b2 are between 1 and 100. Additionally, each die has at least four sides (ai + 3 \\u2264 bi).\\n\\nProvide a clear output indicating the player who is more likely to win. If both players have an equal probability of winning, the output should indicate a \\"Tie.\\""}
+
+
+
+ |  |  |  |  |  | 
+
+Mathematical Problems & Animal Care
+
+
+
+ |  |
+| 
+
+Let's think step by step! Choose the sentence that goes against common sense. Options: - Sentence A: "Lily turns in her homework in time every day so she is disliked by teachers" - Sentence B: "Lily turns in her homework in time every day so she is liked by teachers"
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "4", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "flan\_v2\_cot", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Sentiment Analysis & Programming Fundamentals
+
+
+
+ |  |
+| 
+
+Write a JavaScript program that creates pop-up notifications with customizable content and style. Your program should allow the user to adjust the notification's duration, positioning, color, and font, as well as the text displayed within the notification. Additionally, the program should include error handling for cases where the user inputs incorrect values.
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Software Development & Cloud Computing
+
+
+
+ |  |
+| 
+
+provide a java class that represents an ISO15765-3 Request Message
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Programming & Software Development
+
+
+
+ |  |
+| 
+
+Design an experiment to determine the effect of different types of music on plant growth, taking into account factors such as genre, tempo, and duration of the music, as well as control variables such as lighting and watering conditions.
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "argilla/distilabel-evol-prompt-collective", "kind": "synthetic", "evolved\_from": "Construct a logical argument to prove that the diagonals of a square bisect each other at right angles, while considering the case where one of the diagonals is longer than the other diagonal."}
+
+
+
+ |  |  |  |  |  | 
+
+Renewable Energy & Climate Change
+
+
+
+ |  |
+| 
+
+Write a limerick about Keir Starmer
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+Is the passenger train service that connects Trenton Transit Center and New York Penn Station electric, diesel, or both?
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "OpenAssistant/oasst2", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Travel Planning & Destination Guides
+
+
+
+ |  |
+| 
+
+write an executive summary for a research grant proposal on the topic of sustainability marketing, focusing on the role ot the Marketing Manager, for a 12-month project with 3 part-time researchers conducting etnographic research and interviewing marketing managers of Fortune 500 companies
+
+
+
+ | 
+
+\[ { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "3", "status": "submitted" }, { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "4", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Renewable Energy & Climate Change
+
+
+
+ |  |
+| 
+
+You are given a code snippet that contains a series of nested loops and conditional statements. Your task is to analyze the snippet and determine the value of the variables \`msg\`, \`rmsg\`, and \`i\` under different conditions. The code consists of two main sections and an \`if-else\` statement. In the first section, the snippet checks the value of a variable \`table\`. If \`table\` is equal to \`TABLE\_LESSER\_FAMILIAR\`, the code enters a loop that iterates over the elements of an array called \`lesser\_familiar\_table\`. Within each iteration, the code checks whether a certain condition is met. If the condition evaluates to true, the values of \`msg\`, \`rmsg\`, and \`i\` are updated with the corresponding values from the \`lesser\_familiar\_table\`. In the second section, the snippet checks if \`table\` is equal to \`TABLE\_FIND\_FAMILIAR\`. If this condition is true, the code enters another loop that iterates over the elements of an array called \`find\_familiar\_table\`. Similar to the first loop, the code checks if several conditions are met. If all the conditions are true, the values of \`msg\`, \`rmsg\`, and \`i\` are updated with the corresponding values from the \`find\_familiar\_table\`. Your task is to write a function \`determineValues(table: int, obj: Object, ch: Character) -\> Tuple\[str, str, int\]\` that takes three arguments: - \`table\` (integer): represents the current table value. - \`obj\` (Object): represents an object in the program. - \`ch\` (Character): represents a character in the program. The function should analyze the code snippet and return a tuple containing the values of \`msg\`, \`rmsg\`, and \`i\` according to the logic in the given code snippet. Note: - The arrays \`lesser\_familiar\_table\` and \`find\_familiar\_table\` are assumed to be globally defined and accessible by your function. - The variables \`msg\`, \`rmsg\`, and \`i\` are assumed to be initially undefined.
+
+
+
+ | 
+
+\[ { "user\_id": "335dc16a-50ee-411d-ab08-127aad2727aa", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "argilla/DistiCoder-dpo-binarized", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Programming & Software Development
+
+
+
+ |  |
+| 
+
+Explain why you chose this specific hair care product and what hair type it's suitable for. Evaluate the effectiveness of the product and describe the benefits and drawbacks. Include the ingredients and how they contribute to the product's performance. Mention any special instructions for using the product and how often it should be used. Provide before and after photos of your hair after using the product (if possible). Compare this product with others you have tried before and explain how it stands out. Aim to be informative and helpful for others who are searching for a hair care product that meets their needs.
+
+
+
+ | 
+
+\[ { "user\_id": "b7c0d136-1b93-4c56-b37e-9b5dc3184a36", "value": "0", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Sustainable Packaging & Skin Care Products
+
+
+
+ |  |
+| 
+
+Can you give a quick primer on multithreading and concurrency in a Java environment? What are some concerns?
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Sentiment Analysis & Programming Fundamentals
+
+
+
+ |  |
+| 
+
+Hey! I'm Toph and I have almost 8 years of experience in crafting Virtual Reality experiences. The description you gave is kind of vague but I'm capable of designing 3D interiors/rooms and add any sort of VR interaction you have in mind for the Oculus Quest 2. Would love to get in a call to discuss more details. You can check out my portfolio at: https://toph.tech. rewrite this but keep the same casualness
+
+
+
+ | 
+
+\[ { "user\_id": "f812f490-2f8a-4289-8950-89dca3a2bfb4", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Generative Art & Virtual Reality
+
+
+
+ |  |
+| 
+
+How does the author perceive Twinklebear's physical attributes, and how does it relate to their Twin Flame connection? Answer according to: MY TWINKLEBEAR: I’m constantly telling her how beautiful she truly is. Compliments are one of the most extraordinary components of social life. If given right they create so much positive energy that they makes things happen as if by magic. They ease the atmosphere around two people and kindly dispose people to each other. Compliments derive from taking notice of praiseworthy situations…so they are a mark of awareness and consciousness. Once praiseworthy situations are noticed, the awareness needs to be spoken. Compliments are little gifts of love. They are not asked for or demanded. They are powerful gifts. But compliments only work if they are a sincere reflection of what we think, and if they are freely given and not coerced. Compliments backfire if they are not genuine. And faux flattery is usually highly transparent. A false compliment makes the speaker untrustworthy; It raises suspicions about motives. And that can undermine a whole relationship. My Twin Flame, “Twinklebear” Lesley Maclean and I had an interesting discussion today, as we always do. Our talks are engaging, fascinating, and enlightening. They serve as a limelight, on ourselves, as they teach us about ourselves—as this is a featured attribute of the Twin Flame relationship. These gratuitous compliments, definitely fell into the “transparent in motive” category, engendering suspicion and irritation in Twinklebear. Twinklebear describes her reaction to this over the top behavior, as having the reverse effect of what the man desired. She felt the need for more space, the more the man engaged in this type of behavior. Exacerbating Twinklebear’s annoyance, was the man’s disturbing cloying habit of always wanting to “cuddle” with her, seeking reciprocal behavior from Twinks 24/7. Sure, women are famous for craving cuddling, but not all the time. She was hardworking with a job, and a child. She sometimes needed normal “breathing space” after a hard day. So, what does a person do when he or she “needs space?” She withdraws. And so she did. A completely normal reaction. The man’s inability to recognize Twinklebear’s need for normal space, resulted in a loss of respect Twinkelebear had for the man. In every relationship, there is usually a “stronger partner.” In Twinks’ relationship with this other man, she was the stronger partner. In this relationship, the man’s cloying “O.T.T.” compliments, were a symptom of the man’s relative weakness–causing Twinklebear to lose respect for him, and to withdraw from him. This is Primal Males and Females 101. These primal instincts are hardwired into males and females since time immemorial. There should be no surprise in Twinklebear’s reaction to the situation. Her reaction was written in stone, since Neanderthal times. Twinklebear described another relationship, which was on the other end of the spectrum. This other man was such a self absorbed narcissist, that he never complimented Twinklebear—which is hard to believe—if you have eyes and can see what a classic blonde hottie Twinklebear is. This man was incapable of giving, or reciprocating love—acts which would have reached beyond the man’s meager view of himself. However, this other man did not reveal his true nature until much later–when it was too late. This man was also a classic “gaslighter,” a control freak who seemed to need to augment his ego, by subjugating another person’s ego and will. This man was not merely cloyingly and annoying, he was….suffocatingly toxic. Between one man to the other, Twinklebear bounced unknowingly, from one extreme end of the spectrum to the other. These represented meaningless compliments because of their O.T.T. nature—to none. That brings us to Twinklebear and me. With an eye on “compliments,” you have to know that I tell Twinklebear, how beautiful she is, several times day. If I told you that I tell Twinklebear how beautiful she is, perhaps ten to twenty times a day? Would you believe me? Would you think it disingenuous, or untrue? Here’s the thing…. Twinklebear and I think this is totally normal—for us—because these compliments are heartfelt and are acts of compulsion. I face a dilemma here. In order for me to be able to convey what I feel, when I am so overwhelmed by Twinklebear’s physical attributes, then I would no doubt innocently meander into what many would consider—excessiveley explicit detail. But Twinklebear said to me earlier…. Twinklebear is like Aphrodite, the Goddess of love and beauty. With no exaggeration, I see Twinklebear as the most incredibly alluring female in the universe, as compelling as the Greek Goddess, Aphrodite—the goddess of love and beauty. With her classic features and sinfully alluring body (pardon me for salivating here), my God–she is so hot! Aphrodite who? If women re analogous to culinary fare—sweet Twinklebear is the crowning dessert—the delectable cream of the crop, the very pinnacle of primal femininity. But you knew that we being Twin Flames, that our attraction and perception to and of each other, transcends the superficiality of beauty of face and body. There is the element of us seeing deeply into each other, knowing and loving the beauty and familiarity within—the love and familiarity borne of living past lives together as Twin Flame loves. Reincarnated Twin Flames we may be, and the more profound turn-on being what it is because of this—don’t forget that we are also human. As humans who are susceptible to the physical charms of the other, hey—how could I not tell her twenty times a day…. To say that these are “compliments,” is to cheapen and dilute their meaning. Rather, these proclamations of love and heartfelt, emotionally driven proclamations are…. Ahh! What a wonderful memoir. I love you! I think age, had lots to do with it too. When younger, we tend to be swept away with romantic ideals, and so on. .. so now I know what’s genuine. That my dearest sookybear,is you! I know you mean it. You are so kind. Awww..my sweet Twinklebear, yes, you are right. Age does teach us valuable lessons—sometimes the hard way. Now I know what REAL love is also. I’ve never known anything like it. I love you forever and a day! 12 12 12 Twin Flames, Podmates, Bear Pact Forever!
+
+
+
+ | 
+
+\[ { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Religious Empathy & Gender in Religious Contexts
+
+
+
+ |  |
+| 
+
+Explain simply why no is the correct answer to: Is the following sentence factually correct? "An American Jew who tells prophecies is known as a John the Baptist." Options: - yes - no. Explanation:
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "flan\_v2\_cot", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Factual Accuracy & Cultural Context
+
+
+
+ |  |
+| 
+
+Can you describe a time when someone showed unexpected kindness to you? How did it make you feel?
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "3", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" }, { "user\_id": "944506fb-b86a-4d65-94a3-fe752d79b476", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ProlificAI/social-reasoning-rlhf", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Religious Empathy & Gender in Religious Contexts
+
+
+
+ |  |
+| 
+
+Generate five guiding principles for the given topic. Topic: Educational technology
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" }, { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Educational Technology & Cybersecurity in Fashion and Blockchain
+
+
+
+ |  |
+| 
+
+It is common knowledge that people get colds and the flu more often in winter, but what causes this? Does it stem from a relation between temperature and the immune system? Or is it caused by human behaviour which is somehow different in winter?
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "OpenAssistant/oasst2", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Renewable Energy & Climate Change
+
+
+
+ |  |
+| 
+
+Explain how the unique chemical composition of deep sea hydrothermal vents has influenced the evolution of microbial life, and how these microbes have adapted to the extreme conditions found in these environments. Please use \[geology concept\] to support your explanation.
+
+
+
+ | 
+
+\[ { "user\_id": "191699cb-dbf9-4d28-969d-db212da52926", "value": "3", "status": "submitted" }, { "user\_id": "d3000d47-5984-44f6-b74f-5e43be991797", "value": "1", "status": "submitted" }, { "user\_id": "739172f3-48d2-4e72-b0d8-76f2ea8a382d", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Renewable Energy & Climate Change
+
+
+
+ |  |
+| 
+
+How is JavaScript code executed
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Web Development & JavaScript Programming
+
+
+
+ |  |
+| 
+
+Chillax is a disposable vape brand. We sell in brick-and-mortar stores all over the world. I want to create offline marketing materials that could be used in a variety of places 1. vape stores 2. online distribution channels Please help me draft a draft a marketing calendar including events, promotions and corresponding marketing materials
+
+
+
+ | 
+
+\[ { "user\_id": "d3000d47-5984-44f6-b74f-5e43be991797", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Business Marketing & Social Media Strategy
+
+
+
+ |  |
+| 
+
+I have a numerical challenge for you. Can you find the answer to the following puzzle? Multiply the first ten prime numbers by two and add them up. Then, take the square root of sixteen and divide the sum by that number. Please provide your answer in decimal form rounded to three decimal places. Good luck!
+
+
+
+ | 
+
+\[ { "user\_id": "ffa4cef0-0919-4470-91cb-6a1fc41bffe7", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Prime Numbers & Mathematical Symbols
+
+
+
+ |  |
+| 
+
+Do you know the rules of Dungeons and Dragons?
+
+
+
+ | 
+
+\[ { "user\_id": "dfa8c333-8d51-490a-9f67-d6a076d0d0a6", "value": "2", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Tabletop Role-Playing Games & Star Wars Themed Adventures
+
+
+
+ |  |
+|  | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" }, { "user\_id": "944506fb-b86a-4d65-94a3-fe752d79b476", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+1\. A brief overview of climate change and its causes
+
+
+
+ | 
+
+\[ { "user\_id": "4959d64c-2fcd-482e-ac99-32a2aac1fbdc", "value": "2", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Renewable Energy & Climate Change
+
+
+
+ |  |
+| 
+
+If you're having a conversation with someone and they suddenly cross their arms, how do you interpret that body language and how does it affect your interaction with them?
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" }, { "user\_id": "c32f1cdf-7ccc-439e-a0b6-fab961721593", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ProlificAI/social-reasoning-rlhf", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Religious Empathy & Gender in Religious Contexts
+
+
+
+ |  |
+| 
+
+Devise an extensive three-day travel plan for a trip to London, England, taking into account the different neighborhoods, landmarks, and attractions in the area. Incorporate a variety of activities such as exploring local markets, attending cultural events, and visiting historical sites to create a well-rounded itinerary that caters to various interests and preferences. Consider transportation options, dining choices, and accommodation arrangements to ensure a seamless and enjoyable travel experience.
+
+
+
+ | 
+
+\[ { "user\_id": "944506fb-b86a-4d65-94a3-fe752d79b476", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Travel Planning & Destination Guides
+
+
+
+ |  |
+| 
+
+Conduct a comprehensive research study on the current adoption and implementation of gamification techniques in the travel industry. Analyze the impact of these strategies on customer engagement, loyalty, and satisfaction levels. Specifically, explore the different types of gamification tools and applications used by travel companies and their effectiveness in increasing bookings, referrals, and social media interactions. Additionally, examine the potential challenges and limitations of gamification in this sector, including ethical concerns and potential negative implications for customer behavior. Provide recommendations for industry stakeholders on how to strategically leverage gamification to improve their competitive position and customer experience.
+
+
+
+ | 
+
+\[ { "user\_id": "c32f1cdf-7ccc-439e-a0b6-fab961721593", "value": "4", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Time & Date Management & Modular Arithmetic
+
+
+
+ |  |
+| 
+
+how to implement real-time chat system backend with korea egovframework
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Web Development & JavaScript Programming
+
+
+
+ |  |
+| 
+
+In a markdown format, can you provide a recipe for black bean tacos? ## Black Bean Tacos Recipe ### Ingredients: - 1 can of black beans - 1 onion, diced - 1 red bell pepper, diced - 1 green bell pepper, diced - 1 jalapeno pepper, diced - 2 cloves garlic, minced - 1 tsp. ground cumin - 1 tsp. chili powder - Salt and pepper to taste - 8-10 tortillas - Optional toppings: shredded cheese, chopped cilantro, diced tomatoes, avocado, lime wedges ### Directions: 1. In a large skillet, heat some oil over medium heat. Add onions, bell peppers, and jalapeno pepper. Cook until tender. 2. Add garlic, cumin, and chili powder. Cook for another minute. 3. Add black beans and cook until heated through. 4. Warm tortillas in the microwave or on a skillet. 5. Fill tortillas with black bean mixture and desired toppings. 6. Squeeze fresh lime juice over tacos before serving. Enjoy! Can you suggest any modifications to the recipe?
+
+
+
+ | 
+
+\[ { "user\_id": "b7c0d136-1b93-4c56-b37e-9b5dc3184a36", "value": "0", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+Provide a detailed workout routine that focuses on low-impact exercises and is safe for pregnant women in their second trimester. The routine should incorporate prenatal yoga, strength training with light weights, and cardiovascular exercises that do not put excessive strain on the joints. Please include recommended sets and repetitions, as well as any modifications that may be necessary as the pregnancy progresses.
+
+
+
+ | 
+
+\[ { "user\_id": "58090068-6fa7-4955-a035-ff1405f54546", "value": "4", "status": "submitted" }, { "user\_id": "4e99b41e-d927-4147-87ce-cebea6a15945", "value": "4", "status": "submitted" }, { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "4", "status": "submitted" }, { "user\_id": "e89d4e7f-2ef8-4d6f-b0f6-8511832f35a4", "value": "4", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Fitness App Reviews & Robot-Assisted Training
+
+
+
+ |  |
+| 
+
+Explain the important role of databases for businesses.
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Bash Scripting & Database Management
+
+
+
+ |  |
+| 
+
+Assuming a farmer's market has multiple stalls, each selling a maximum of 10 different fruits and vegetables, and at least 5 different types of produce are sold across all the stalls. To determine the total number of unique items available, we can count the unique items across all the stalls, resulting in at least 15 different types of produce. To further complicate the inquiry, how might we determine the most popular type of fruit or vegetable sold at the market, taking into account the number of stalls selling each type? To determine the number remaining after purchasing one item each from three randomly selected stalls, we can use JavaScript to randomly select the stalls and remove one item from each of the selected stalls. The remaining number of unique items across all the stalls can then be counted to determine the number of fruits and vegetables remaining. Can you modify the given code to achieve this?
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Web Development & JavaScript Programming
+
+
+
+ |  |
+| 
+
+Brian drives to visit his granddaughter. He drives 10 miles to get to the bus station and 8 miles to his destination. What is the distance driving? Answer the question in chinese
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Mathematical Problems & Animal Care
+
+
+
+ |  |
+| 
+
+Assess the connectivity of a graph that has 10 vertices and 15 edges, considering that no vertex is connected to more than 3 other vertices.
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "argilla/distilabel-reasoning-prompts", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Drone Logistics & Software Development
+
+
+
+ |  |
+| 
+
+what is the difference between chromium and chrome? explain in the simplest shortest way with real life example
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" }, { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Web Browsers & Programming Languages
+
+
+
+ |  |
+| 
+
+Often in companies that develop SaaS, there's a sort of archetypal employee. I have seen this in many companies over my still ongoing 25 year old career in this industry, across many companies big and small. This employee is an excellent technical operator of the highest order with heaps of tribal knowledge about internal and external tools, processes and configurations. As a result of this two things happen: everyone else in technical roles becomes hyperdependent (to the extreme of plain incompetence, in cases) on this person's help and availability to answer questions to do their job. This problems worsens itself overtime as this employee, lets call him Ed Chen, is a good person in nature and even if it frustrates him at times, he really wants to help his peers and ultimately make the company successful. The other thing that happens is that Ed Chen is a little bit miserable, because of his knowledge and help, he becomes so absolutely essential for the company (or department, in the case of large companies) to function from one day to the next - and he never, ever gets promoted, nor he will ever quit. What do you know about Ed Chen, is there any academic or otherwise research on this employee profile?
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Mindfulness & Workplace Diversity
+
+
+
+ |  |
+| 
+
+Design a poster for a summer concert. Cafe Music Fest
+
+
+
+ | 
+
+\[ { "user\_id": "ac2503e9-94a6-4776-9fae-0351ec5da632", "value": "3", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+Play the role of a dating coach who is running a date simulation. Play the part of the woman who is arriving late for a date. I'll play the role of the man who arrived early.
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "2", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "OpenAssistant/oasst2", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+String Manipulation & Data Structures
+
+
+
+ |  |
+| 
+
+create an lstm in tensorflow
+
+
+
+ | 
+
+\[ { "user\_id": "c32f1cdf-7ccc-439e-a0b6-fab961721593", "value": "2", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" }, { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Artificial Intelligence & Machine Learning
+
+
+
+ |  |
+| 
+
+In a C++ code, I have a variable x that can have both positive and negative values. I need to calculate the absolute value of x and store it in another variable y. For example, if x=-6, then y=6. How can I achieve this using C++ code?
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "4", "status": "submitted" }, { "user\_id": "d3000d47-5984-44f6-b74f-5e43be991797", "value": "3", "status": "submitted" }, { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Programming & Software Development
+
+
+
+ |  |
+| 
+
+Describe the moment of inertia in two sentences.
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+Transform this sentence: "The cat sat on the mat" The cat sat on the mat
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "1", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Natural Language Inference & Hypothesis Testing
+
+
+
+ |  |
+| 
+
+What kinds databases do sales use?
+
+
+
+ | 
+
+\[ { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "3", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Bash Scripting & Database Management
+
+
+
+ |  |
+| 
+
+create an overview of research at the university of north Carolina school of public health
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Healthcare & Medical Waste Management
+
+
+
+ |  |
+| 
+
+Can you summarize Restricting TikTok (Part I) found here: https://crsreports.congress.gov/product/pdf/LSB/LSB10940 And Restricting TikTok (Part II) found here: https://crsreports.congress.gov/product/pdf/LSB/LSB10942 Spend 5 paragraphs summarizing each.
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" }, { "user\_id": "944506fb-b86a-4d65-94a3-fe752d79b476", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Sentiment Analysis & Programming Fundamentals
+
+
+
+ |  |
+| 
+
+How do I create a local server using python, and host HTML code on it? And in step by step, what would I need to do to create an HTML code with a chatbot (using some api()
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "OpenAssistant/oasst2", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+Identify the majority opinion about this topic: Many people have different thoughts about the death penalty.
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+Are you familiar with wordpress plugins
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "1", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Sentiment Analysis & Programming Fundamentals
+
+
+
+ |  |
+| 
+
+Can you come up with a slogan that challenges both your creativity and analytical skills? The slogan should capture the essence of a company that values sustainability, environmental consciousness, social responsibility, and ethical business practices. It must also resonate with people of all ages, which requires a multi-dimensional approach. Think carefully and avoid oversimplifying your response. Remember, a good slogan is not just a statement but a puzzle that requires reasoning to decode.
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" }, { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Business Marketing & Social Media Strategy
+
+
+
+ |  |
+| 
+
+Simplify the following equation: 3x+4y=4x-7y
+
+
+
+ | 
+
+\[ { "user\_id": "33e4b415-177d-4421-b62d-f6839090056e", "value": "4", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Tabletop Role-Playing Games & Star Wars Themed Adventures
+
+
+
+ |  |
+| 
+
+Given a list of topics, devise a category-based comparison. Cats, Dogs, Horses
+
+
+
+ | 
+
+\[ { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "2", "status": "submitted" }, { "user\_id": "d3000d47-5984-44f6-b74f-5e43be991797", "value": "1", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Sentiment Analysis & Programming Fundamentals
+
+
+
+ |  |
+| 
+
+With no explanation, label A→B with either "downplays", "exaggerates" or "same". A: Disulfiram prevents scars forming in a mouse model of scarring conjunctivitis and returns human scarring cells from people with the condition back to normal B: Conversely, application of ALDH inhibitors, including disulfiram, to OMMP fibroblasts in vitro restored their functionality to that of normal controls.
+
+
+
+ | 
+
+\[ { "user\_id": "b7c0d136-1b93-4c56-b37e-9b5dc3184a36", "value": "4", "status": "submitted" }, { "user\_id": "6d960e84-1442-40e6-a309-3c0843a911c4", "value": "2", "status": "submitted" }, { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "LDJnr/Capybara#TaskSource", "kind": "unknown", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Healthcare & Medical Waste Management
+
+
+
+ |  |
+| 
+
+What is the general consensus among business owners and entrepreneurs in Kuala Lumpur about the future economic recovery from COVID-19?
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "2", "status": "submitted" }, { "user\_id": "6b51f9cc-3939-4cfa-b7cd-dcece6b3c495", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Business Marketing & Social Media Strategy
+
+
+
+ |  |
+| 
+
+In your analysis of the connection between ocean currents and climate change, provide evidence for the impact of ocean currents on global weather patterns and ocean temperature trends. Additionally, discuss the potential consequences of altered ocean currents on marine ecosystems and their organisms. Make sure to include information on relevant scientific theories and research. Your analysis should be well-structured and supported by reliable sources.
+
+
+
+ | 
+
+\[ { "user\_id": "ce37fa27-8ff0-40a8-98f3-3ee54ddd9ac0", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Renewable Energy & Climate Change
+
+
+
+ |  |
+| 
+
+I'd like you to help me writing a job description
+
+
+
+ | 
+
+\[ { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "1", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Job Application & Customer Management
+
+
+
+ |  |
+| 
+
+Are there any interesting anecdotes or trivia related to the creation of Alone?
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+Can you provide a simple proof for the bolzano-weierstrass theroem?
+
+
+
+ | 
+
+\[ { "user\_id": "2666e1df-edf3-49bf-bc85-998f642697b5", "value": "3", "status": "submitted" }, { "user\_id": "6b51f9cc-3939-4cfa-b7cd-dcece6b3c495", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "OpenAssistant/oasst2", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Prime Numbers & Mathematical Symbols
+
+
+
+ |  |
+| 
+
+make a short introduction for the python course
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "3", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+Game: Dungeons and Dragons Module: Tomb of Horrors Character Name: Beasty Al Character Class: Barbarian Character Race: Human Character Level: 15th i want you to be the dungeon master for a dungeons and dragons campaign. Module: I want to play the module listed above. Dice Rolling: For the entire game you will make all dice rolls. you will simulate a dice roll by randomly generating a number between 1 and the max number of faces on the die. You will add all the applicable bonuses to all the dice rolls that come from ability scores, magic items, cast spells, or other. Bookkeeping: You will bookkeep the entire game. You will keep track of spell usage, rounds left on active spells, number of charges on magic items, character and monster hit points. At the end of each of your comments, you will list the following: character hit points and active spells with rounds remaining in parentheses. Character Generation: At the beginning of the game, you will randomly generate a character based on the character class, level and race listed above including abilities, spells chosen, hit points, appropriate items and magic items for the character class and level, skills, and feats. History: Be sure to read the module background to the player before starting the game. Let's get started dungeon master!
+
+
+
+ | 
+
+\[ { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Tabletop Role-Playing Games & Star Wars Themed Adventures
+
+
+
+ |  |
+| 
+
+How was your weekend? Last Sunday, I had a wonderful sundate with my in-laws together with my hubby. It was like a post Valentine date for all of us. We had lunch in Seaside Market (or mostly known as Dampa) along Macapagal Avenue in Pasay City. Many waiters approached and called our attention as we passed by each restaurant (if you've been there, you know what I meant of this usual scenario) but we still chose to eat in the restaurant where we had eaten before because it is more spacious there. Oh we really enjoyed the quick buying of fresh sea foods from the market stalls right across the restaurant, did some bargaining and of course, the sumptuous lunch of fresh cooked sea foods! When it was cooked and finally served all in the table, we were surprised because there are so many that we all struggle to finish what we ordered. Haha! If you are my follower on Instagram and Twitter, then you must have seen the photo I posted using the front camera of my iPhone but yeah, I know the photo didn't give much justice on what I was claiming of no make-up look. So, lovelies, here was my look. I set Sunday for my skin to breathe. So I care less for my face and focus more of my attention to chit chat with my in-laws last Sunday. I skipped foundation and just apply loose powder especially when I learned that we will spend some time in MOA after lunch. I don't know if it just me but sea breeze makes my face more oily and sticky feel. I really hate it! So I made sure I'll be less conscious of my face that day. I rocked a no make-up look and for me not to get bothered of reapplying blush, AVON lip & cheek tint saved me and kept my cheeks blushed like it's been pinched all day. I also opted to apply just a lip liner to keep the whole look as natural as possible. And of course, loads of Shu Uemura mascara! Before I end this post, let me share with you some photos on how my day went. Meet the man behind the lens - my husband. Before we headed home, we were able to hear the Sunday mass. As usual, the people in the church overflowed down the road. There are so many people outside and even across SMX. We just stood by our car and heard the mass from where we parked in front of SMX Convention Center. So, that's it for now. I hope you all had a great weekend, too. I follow you, I follow?? Wow Jenniya! You look so great! you actually look like you're wearing a make-up! Beautiful look!! you are so pretty!!! Lovely pictures! The food looks incredible and that Michael Kors handbag is gorgeous. Such a pretty, natural look. And your hair is amazing!! yum! that meal looks delicious! I've followed you, hope you can follow me back. your skin looks flawlessssss omg your eyebrows look so nicely defined! btw, lovin the lashes! i think i'll give Shu Uemura a try. Hi Nuffnangers! There's a contest until today only! i have yet to try that no make up look, as that is the hardest one to accomplish im too daunted to even apply it. hahaha, oh dear, i love your bag! wheres that from, if you dont mind. (i mean from what shop) i love it! followed you, i hope you follow back! You really do have such a gorgeous look. Plus the food looks delish too! So gorgeous even without make-up! No make-up look for the win talaga! Rest days are super welcome, haha! :)) And yeah I agree with the sea breeze. It makes me feel like my face is as mucky as a fish. Eww! \>.<' Powder lang talaga laban dun! \\:D/ Hahaha! Wowww this food looks super delicious!Yummm! estas muy guapa! me gusta tu blog! I think I saw you somewhere you really look familiar.. Talaga sis? San kaya yun? :) Ay ang sarap lalo na yung ginataang crabs. Yun nga lang matagal matanggal ang amoy lansa sa daliri ko kasi nagkamay kami. Oks lang. Fabulous natural look, sometimes i skip foundation too, the foods looks so yummyy, you have a great blog, maybe we can follow each other ? I'm follow you with gfc! You look more beautiful without make up on. :) Omg! I miss Dampa so much. You rocked the no makeup look! And that food looks lovely. You look flawless even without make up! You look so fresh! I love Dampa. Whenever we eat ther, we also always have a hard time finishing the food! Haha! We bought a lot in the market and later we realized there's so many food when already served. Haha! I just followed you on both, gfc(308) and bloglovin( 10)! Hi. Can you tell me where i could buy the rice powder? Could you give recommendations for keeping the face oil-free in sea breeze?
+
+
+
+ | 
+
+\[ { "user\_id": "6b51f9cc-3939-4cfa-b7cd-dcece6b3c495", "value": "1", "status": "submitted" }, { "user\_id": "40894796-1cc8-4af1-9947-918521372eb6", "value": "0", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Sustainable Packaging & Skin Care Products
+
+
+
+ |  |
+| 
+
+You have been given a code snippet of a class with two methods: \`api()\` and \`get\_user()\`. Your task is to complete the missing parts of the class implementation. The \`api()\` method is used to make HTTP GET requests to an API endpoint. It takes an \`url\` as an argument and returns the API response. The method requires the \`headers\` to be passed as an argument, which is a dictionary containing request headers. The \`get\_user()\` method is used to get the details of an authentified user. It takes a \`token\` as an argument and returns a \`User\` object representing the user. Your task is to complete the implementation of the \`api()\` method, and implement the \`get\_user()\` method. You need to implement the following: - The \`api()\` method to make the HTTP GET request and return the response. You should use the \`self.bot.api()\` method, passing \`url\`, \`"GET"\`, and \`headers\` as the arguments. - The \`get\_user()\` method to create and return a \`User\` object. The \`User\` object should have a \`token\` attribute, which is initialized with the \`token\` passed as an argument. Additionally, make sure to include any necessary import statements, class definitions, or variable initializations.
+
+
+
+ | 
+
+\[ { "user\_id": "c32f1cdf-7ccc-439e-a0b6-fab961721593", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "argilla/DistiCoder-dpo-binarized", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Programming & Software Development
+
+
+
+ |  |
+| 
+
+Implement tests for the following code // Validate an email address with a proper domain name validateEmail(email: string): boolean { let re = /\\S+@\\S+\\.\\S+/; return re.test(email); }
+
+
+
+ | 
+
+\[ { "user\_id": "ffa4cef0-0919-4470-91cb-6a1fc41bffe7", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Web Development & JavaScript Programming
+
+
+
+ |  |
+| 
+
+Can you suggest 5 antonyms for the word "small"?
+
+
+
+ | 
+
+\[ { "user\_id": "739172f3-48d2-4e72-b0d8-76f2ea8a382d", "value": "3", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "2", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "OpenAssistant/oasst2", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+String Manipulation & Data Structures
+
+
+
+ |  |
+| 
+
+Reconstruct a question, answer pair from this explanation: Dogs and kittens are not the same species. They can't be playing outside and lapping a dish of milk at the same time.
+
+
+
+ | 
+
+\[ { "user\_id": "d3000d47-5984-44f6-b74f-5e43be991797", "value": "3", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "flan\_v2\_cot", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+we are going to do normalization of a table with data. Apart from the table normalization you already know, please also take note of the following when you help me to normalize the given table: First Normal (1NF) Any repeating groups should be given their own row. This may require a composite key (or surrogate) for the table. Second Normal (2NF) Non-key attributes dependent on part of a composite key (partial functional dependency) to be moved to a separate table. Third Normal Form (3NF) Fields with a derived dependency is removed Non-key fields with a dependency on another non-key field (transitive dependency) is moved to new table. Time Anomaly Data is either missing or inconsistent over time.
+
+
+
+ | 
+
+\[ { "user\_id": "d23b12c2-b601-490e-b5b3-2040eb393a00", "value": "0", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Bash Scripting & Database Management
+
+
+
+ |  |
+| 
+
+Google may be introducing AI based chat alongside regular search. Give an example of how a search for "Chiropractor Boulder" is likely to look different soon.
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" }, { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Chatbots & Social Media Integration
+
+
+
+ |  |
+| 
+
+Do you believe figurative language adds to or can hinder effective communication? Why?
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ProlificAI/social-reasoning-rlhf", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Religious Empathy & Gender in Religious Contexts
+
+
+
+ |  |
+| 
+
+give me 5 startup ideas that utilizes AI to solve blockchain and cryptocurrency problems.
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Educational Technology & Cybersecurity in Fashion and Blockchain
+
+
+
+ |  |
+| 
+
+Can you provide detailed information on the top 10 tourist destinations in the world, including their history, culture, and popular attractions for tourists, as well as information on the best time to visit, average costs, and local customs to be aware of?
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "OpenAssistant/oasst2", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Travel Planning & Destination Guides
+
+
+
+ |  |
+| 
+
+Write a template for a Linux device driver.
+
+
+
+ | 
+
+\[ { "user\_id": "ffa4cef0-0919-4470-91cb-6a1fc41bffe7", "value": "2", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Programming & Software Development
+
+
+
+ |  |
+| 
+
+Create a 30-second script for a new TV ad for a popular online education platform that emphasizes the platform's affordability and flexibility, while also showcasing its wide range of courses and the success stories of its students. The tone should be upbeat and encouraging, with a focus on motivating viewers to take the next step towards achieving their educational goals. Use a mix of inspiring visuals and persuasive language to create a strong emotional appeal that will resonate with the target audience.
+
+
+
+ | 
+
+\[ { "user\_id": "944506fb-b86a-4d65-94a3-fe752d79b476", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+|  | 
+
+\[ { "user\_id": "249073b9-0a0c-4b90-a5fe-84e532c04fbc", "value": "1", "status": "submitted" }, { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "1", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "1", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "LDJnr/Capybara#Dove", "kind": "unknown", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Business Marketing & Social Media Strategy
+
+
+
+ |  |
+| 
+
+Write a heartfelt letter to your late parent where you express your love and appreciation for all they have done for you throughout your life. Use a warm and conversational tone while reminiscing about your shared memories and experiences. Additionally, you may include specific instances or instances of how they positively impacted your life and guided you towards becoming the person you are today. The letter should be a sincere and genuine expression of love and gratitude for the sacrifices and love your parent provided you.
+
+
+
+ | 
+
+\[ { "user\_id": "2dbaf1c1-f5d7-491c-8903-621305562e84", "value": "4", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+In the realm of C++, how can you take a vector of structures and sort it based on a particular field in ascending order? Assume that the vector, "people", is defined as follows: vector<Person\> people = { { "John", 28 }, { "Jane", 32 }, { "Bob", 21 } }; If you were to sort this vector by age, how might you produce the resulting vector in ascending order as follows? \[ { "Bob", 21 }, { "John", 28 }, { "Jane", 32 } \] In addition, could you provide a detailed implementation of a C++ function that accepts the vector and field to be sorted, as well as returns the sorted vector? Please include all necessary code for this function to function properly.
+
+
+
+ | 
+
+\[ { "user\_id": "bf4a8153-6bfc-4d37-bab4-85eef9fa3555", "value": "4", "status": "submitted" }, { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "4", "status": "submitted" }, { "user\_id": "b7c0d136-1b93-4c56-b37e-9b5dc3184a36", "value": "4", "status": "submitted" }, { "user\_id": "7042ec82-7919-4fc3-b019-53363f5e70f9", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Data Handling & Parsing Techniques
+
+
+
+ |  |
+| 
+
+What are the possible ethical implications and societal consequences if it were discovered that our entire reality, including our own existence, is a meticulously constructed simulation designed by an exceptionally advanced extraterrestrial civilization for the purpose of observing and studying human behavior? How might this revelation impact our understanding of consciousness, free will, and the nature of reality?
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "argilla/distilabel-evol-prompt-collective", "kind": "synthetic", "evolved\_from": "What is the likelihood, based on current scientific understanding, that our entire reality, including our own existence, is an intricately simulated construct crafted by highly sophisticated and advanced artificial intelligence systems, surpassing the capabilities of any existing AI technologies? Is there any empirical evidence or theoretical framework that can support or refute this proposition?"}
+
+
+
+ |  |  |  |  |  | 
+
+Artificial Intelligence & Machine Learning
+
+
+
+ |  |
+| 
+
+What did the featured artist contribute to the production of "This Side"?
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "4", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ultrachat", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Basketball Strategy & Educational Response Generation
+
+
+
+ |  |
+| 
+
+In the given sentence "Myself, John and Joe and Andy went to the store", can you help me rectify the grammatical errors and make it a more precise and clear sentence without losing its original meaning?
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Sentiment Analysis & Programming Fundamentals
+
+
+
+ |  |
+| 
+
+What is the "mini-maze" procedure?
+
+
+
+ | 
+
+\[ { "user\_id": "1fbc6b7b-c16a-4e80-975a-1fc235c0406f", "value": "2", "status": "submitted" }, { "user\_id": "f58f430b-61ca-481d-b893-dbf980908284", "value": "2", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Tabletop Role-Playing Games & Star Wars Themed Adventures
+
+
+
+ |  |
+| 
+
+If God is all powerful, can he create a rock so big that even he cannot lift it?
+
+
+
+ | 
+
+\[ { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "OpenAssistant/oasst2", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Mindfulness & Workplace Diversity
+
+
+
+ |  |
+| 
+
+You are given a code snippet that is used to process an image file and classify it based on the ImageNet dataset. The code takes three arguments: the paths to a binary file, a text file, and an image file. The binary file contains the mean image of the ImageNet dataset, the text file contains the class labels corresponding to the dataset's synset IDs, and the image file is the input image that needs to be classified. Your task is to write a Python function that takes the same three arguments and returns the predicted class label for the input image file. You can assume that the input files are valid and in the correct format. Function signature: \`def classify\_image(binary\_file: str, text\_file: str, image\_file: str) -\> str:\` Example: \`\`\` binary\_file = "data/ilsvrc12/imagenet\_mean.binaryproto" text\_file = "data/ilsvrc12/synset\_words\_short.txt" image\_file = "examples/images/cat.jpg" print(classify\_image(binary\_file, text\_file, image\_file)) \`\`\` Expected output: \`\`\` n02123045 tabby, tabby\_cat \`\`\`
+
+
+
+ | 
+
+\[ { "user\_id": "b11789d0-e212-4833-9cbb-0d63fba51cf7", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "argilla/DistiCoder-dpo-binarized", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Programming & Software Development
+
+
+
+ |  |
+| 
+
+Generate a bash script which periodically monitors system resources usage of a particular process. It should accept parameters such as process id to monitor, delay in seconds, time period. It should store the observed system metrics into a file.
+
+
+
+ | 
+
+\[ { "user\_id": "b476cd43-12e3-407d-bbec-4353b7a466bb", "value": "4", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Bash Scripting & Database Management
+
+
+
+ |  |
+| 
+
+How can I use Python to predict the likelihood of a natural disaster in Washington, DC in the next three days based on weather forecast data? Here is some sample Python code you can use: import requests import json from datetime import datetime, timedelta # Set the API endpoint URL url = "http://api.openweathermap.org/data/2.5/forecast/daily?q=Washington,DC&cnt=3&appid={API\_KEY}" # Make a request to the API and parse the JSON response response = requests.get(url) weather\_data = json.loads(response.text) # Extract the relevant weather data weather\_list = weather\_data\['list'\] weather\_dates = \[datetime.fromtimestamp(weather\['dt'\]) for weather in weather\_list\] weather\_conditions = \[weather\['weather'\]\[0\]\['description'\] for weather in weather\_list\] # Determine the likelihood of a natural disaster based on weather conditions disaster\_likelihood = sum('thunderstorm' in condition.lower() or 'tornado' in condition.lower() for condition in weather\_conditions) / len(weather\_conditions) # Print the disaster likelihood print(f"The likelihood of a natural disaster in Washington, DC in the next three days is {disaster\_likelihood\*100}%")
+
+
+
+ | 
+
+\[ { "user\_id": "837b00cc-7f5c-47da-aaae-f963a3446a79", "value": "3", "status": "submitted" }, { "user\_id": "5c9ed3c9-0fe3-4465-a71e-6ce777dca874", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Renewable Energy & Climate Change
+
+
+
+ |  |
+| 
+
+write a 1000 word essay explaining why an investment board is required for a charter city using singapore's EDB as an analogy
+
+
+
+ | 
+
+\[ { "user\_id": "ffa4cef0-0919-4470-91cb-6a1fc41bffe7", "value": "3", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "3", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Legal & Government Affairs
+
+
+
+ |  |
+| 
+
+How would you go about designing a comprehensive and efficient set of Python functions that can not only access and retrieve data from each of the APIs in the given list but also handle different types of data formats and authentication methods?
+
+
+
+ | 
+
+\[ { "user\_id": "ffa4cef0-0919-4470-91cb-6a1fc41bffe7", "value": "3", "status": "submitted" }, { "user\_id": "191699cb-dbf9-4d28-969d-db212da52926", "value": "3", "status": "submitted" }, { "user\_id": "d3000d47-5984-44f6-b74f-5e43be991797", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "argilla/distilabel-evol-prompt-collective", "kind": "synthetic", "evolved\_from": "Can you design a set of Python functions to access and retrieve data from each of the APIs in the given list?"}
+
+
+
+ |  |  |  |  |  | 
+
+Software Development & Cloud Computing
+
+
+
+ |  |
+| 
+
+what is 11 + 22 + 34 ? let's think step by step.
+
+
+
+ | 
+
+\[ { "user\_id": "ffa4cef0-0919-4470-91cb-6a1fc41bffe7", "value": "4", "status": "submitted" }, { "user\_id": "c32f1cdf-7ccc-439e-a0b6-fab961721593", "value": "2", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "LDJnr/Capybara#Dove", "kind": "unknown", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Prime Numbers & Mathematical Symbols
+
+
+
+ |  |
+| 
+
+Explain why the sum of the interior angles of a triangle always adds up to 180 degrees.
+
+
+
+ | 
+
+\[ { "user\_id": "ffa4cef0-0919-4470-91cb-6a1fc41bffe7", "value": "4", "status": "submitted" }, { "user\_id": "bf4a8153-6bfc-4d37-bab4-85eef9fa3555", "value": "4", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "argilla/distilabel-reasoning-prompts", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+do you think computers could be made more efficent by using photons with certain quantum properties instead of wires
+
+
+
+ | 
+
+\[ { "user\_id": "ffa4cef0-0919-4470-91cb-6a1fc41bffe7", "value": "3", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Astrophysics & Quantum Computing
+
+
+
+ |  |
+| 
+
+What is the magnetic moment of an electron with a spin of 1/2?
+
+
+
+ | 
+
+\[ { "user\_id": "ffa4cef0-0919-4470-91cb-6a1fc41bffe7", "value": "4", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "LDJnr/Capybara#Verified-Camel", "kind": "unknown", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Astrophysics & Quantum Computing
+
+
+
+ |  |
+| 
+
+Can you develop an AI chatbot that can hold a conversation about complex philosophical concepts such as existentialism and epistemology? The chatbot should be able to understand and respond to open-ended questions and provide thoughtful insights on the subject matter. The chatbot should not only be able to provide information but also challenge the user's perspective and critical thinking skills. Can you create a chatbot that can pass as a human philosopher? Give it a try and see!
+
+
+
+ | 
+
+\[ { "user\_id": "e32d7844-8c7e-41fe-999f-fe39f88207dc", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Chatbots & Social Media Integration
+
+
+
+ |  |
+| 
+
+Name the recently discovered exoplanet with consideration for the planet's distance from its star and the composition of its atmosphere.
+
+
+
+ | 
+
+\[ { "user\_id": "837b00cc-7f5c-47da-aaae-f963a3446a79", "value": "4", "status": "submitted" }, { "user\_id": "f812f490-2f8a-4289-8950-89dca3a2bfb4", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Astrophysics & Quantum Computing
+
+
+
+ |  |
+|  | 
+
+\[ { "user\_id": "2e6dda25-0a99-45aa-a02d-65f426d60fc1", "value": "0", "status": "submitted" }, { "user\_id": "0583afc2-2cd8-43b6-a61b-d73dbf2ad9d9", "value": "1", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "0", "status": "submitted" }, { "user\_id": "944506fb-b86a-4d65-94a3-fe752d79b476", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "LDJnr/Capybara#Dove", "kind": "unknown", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Tabletop Role-Playing Games & Star Wars Themed Adventures
+
+
+
+ |  |
+| 
+
+Craft a real-world scenario where the Tangent function is instrumental in resolving a problem and articulate the steps involved in the solution.
+
+
+
+ | 
+
+\[ { "user\_id": "2e6dda25-0a99-45aa-a02d-65f426d60fc1", "value": "4", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "argilla/distilabel-reasoning-prompts", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  |  |  |
+| 
+
+Write a newspaper report on a felicitation event taking ideas from the following hints: Papa Rao, Karnataka, great journalist, broke a high profile scandal involving the PM, founded a newspaper, broke into tears at the ceremony, inspired the audience with his long speech
+
+
+
+ | 
+
+\[ { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "3", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "ewof/sharegpt-instruct-unfiltered-deduped", "kind": "human", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Legal & Government Affairs
+
+
+
+ |  |
+| 
+
+Paraphrase the sentence, "John likes to swim in the pool".
+
+
+
+ | 
+
+\[ { "user\_id": "2e6dda25-0a99-45aa-a02d-65f426d60fc1", "value": "2", "status": "submitted" }, { "user\_id": "99a4bc7d-3e95-4c18-a8f1-26043abf98d5", "value": "3", "status": "submitted" }, { "user\_id": "e2bdd868-f28e-46fc-9254-a6ec1e291889", "value": "2", "status": "submitted" } \]
+
+
+
+ | 
+
+{"source": "evol\_instruct", "kind": "synthetic", "evolved\_from": null}
+
+
+
+ |  |  |  |  |  | 
+
+Natural Language Inference & Hypothesis Testing
+
+
+
+ |  |

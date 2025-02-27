@@ -1,0 +1,5 @@
+![Image 4](https://app.datagran.io/static/close-icon.svg)
+
+### A new version of Datagran is avaliable.
+
+Hey! we just deployed a new version, please refresh your browser to get the latest version.

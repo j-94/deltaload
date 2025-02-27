@@ -1,0 +1,25 @@
+On This Page
+
+*   [What is Nextra?](https://untitled-umber-five.vercel.app/#what-is-nextra)
+*   [Documentation](https://untitled-umber-five.vercel.app/#documentation)
+
+[Question? Give us feedback → (opens in a new tab)](https://github.com/shuding/nextra-docs-template/issues/new?title=Feedback%20for%20%E2%80%9CIntroduction%E2%80%9D&labels=feedback)[Edit this page](https://github.com/shuding/nextra-docs-template/pages/index.mdx)
+
+Introduction
+
+Introduction
+------------
+
+Welcome to Nextra! This is a basic docs template. You can use it as a starting point for your own project :)
+
+What is Nextra?[](https://untitled-umber-five.vercel.app/#what-is-nextra)
+-------------------------------------------------------------------------
+
+A **simple**, **powerful** and **flexible** site generation framework with everything you love from Next.js.
+
+Documentation[](https://untitled-umber-five.vercel.app/#documentation)
+----------------------------------------------------------------------
+
+The documentation is available at [https://nextra.site (opens in a new tab)](https://nextra.site/).
+
+[Another Page](https://untitled-umber-five.vercel.app/another "Another Page")

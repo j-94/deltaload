@@ -1,0 +1,1194 @@
+GitHub - tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+===============
+                                           
+
+[Skip to content](https://github.com/tailwindlabs/headlessui?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ftailwindlabs%2Fheadlessui%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ftailwindlabs%2Fheadlessui%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=tailwindlabs%2Fheadlessui) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[tailwindlabs](https://github.com/tailwindlabs) / **[headlessui](https://github.com/tailwindlabs/headlessui)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Ftailwindlabs%2Fheadlessui) You must be signed in to change notification settings
+*   [Fork 1.1k](https://github.com/login?return_to=%2Ftailwindlabs%2Fheadlessui)
+*   [Star 26.6k](https://github.com/login?return_to=%2Ftailwindlabs%2Fheadlessui)
+    
+
+Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+
+[headlessui.com](https://headlessui.com/ "https://headlessui.com")
+
+### License
+
+[MIT license](https://github.com/tailwindlabs/headlessui/blob/main/LICENSE)
+
+[26.6k stars](https://github.com/tailwindlabs/headlessui/stargazers) [1.1k forks](https://github.com/tailwindlabs/headlessui/forks) [Branches](https://github.com/tailwindlabs/headlessui/branches) [Tags](https://github.com/tailwindlabs/headlessui/tags) [Activity](https://github.com/tailwindlabs/headlessui/activity)
+
+[Star](https://github.com/login?return_to=%2Ftailwindlabs%2Fheadlessui)
+
+[Notifications](https://github.com/login?return_to=%2Ftailwindlabs%2Fheadlessui) You must be signed in to change notification settings
+
+*   [Code](https://github.com/tailwindlabs/headlessui)
+*   [Issues 96](https://github.com/tailwindlabs/headlessui/issues)
+*   [Pull requests 10](https://github.com/tailwindlabs/headlessui/pulls)
+*   [Discussions](https://github.com/tailwindlabs/headlessui/discussions)
+*   [Actions](https://github.com/tailwindlabs/headlessui/actions)
+*   [Projects 0](https://github.com/tailwindlabs/headlessui/projects)
+*   [Security](https://github.com/tailwindlabs/headlessui/security)
+*   [Insights](https://github.com/tailwindlabs/headlessui/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/tailwindlabs/headlessui)
+*   [Issues](https://github.com/tailwindlabs/headlessui/issues)
+*   [Pull requests](https://github.com/tailwindlabs/headlessui/pulls)
+*   [Discussions](https://github.com/tailwindlabs/headlessui/discussions)
+*   [Actions](https://github.com/tailwindlabs/headlessui/actions)
+*   [Projects](https://github.com/tailwindlabs/headlessui/projects)
+*   [Security](https://github.com/tailwindlabs/headlessui/security)
+*   [Insights](https://github.com/tailwindlabs/headlessui/pulse)
+
+tailwindlabs/headlessui
+=======================
+
+  
+
+ main
+
+[**18** Branches](https://github.com/tailwindlabs/headlessui/branches)[**120** Tags](https://github.com/tailwindlabs/headlessui/tags)
+
+[](https://github.com/tailwindlabs/headlessui/branches)[](https://github.com/tailwindlabs/headlessui/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 36: RobinMalfait](https://avatars.githubusercontent.com/u/1834413?v=4&size=40)](https://github.com/RobinMalfait)[RobinMalfait](https://github.com/tailwindlabs/headlessui/commits?author=RobinMalfait)
+
+[update changelog](https://github.com/tailwindlabs/headlessui/commit/b6f355d154f69ac67d2196f755f9751c6b1acba0)
+
+Dec 12, 2024
+
+[b6f355d](https://github.com/tailwindlabs/headlessui/commit/b6f355d154f69ac67d2196f755f9751c6b1acba0) · Dec 12, 2024
+
+History
+-------
+
+[860 Commits](https://github.com/tailwindlabs/headlessui/commits/main/)
+
+[](https://github.com/tailwindlabs/headlessui/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/tailwindlabs/headlessui/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/tailwindlabs/headlessui/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[Update CI workflows to use latest version of actions (](https://github.com/tailwindlabs/headlessui/commit/2ff8458b0043f900bf6f8267f01385a6f7df2f04 "Update CI workflows to use latest version of actions (#3445)
+GitHub began the Node16 deprecation process a year ago [1][2]. This
+commit updates CI workflows to use the latest Node20 actions.
+[1]: https://github.blog/changelog/2023-09-22-github-actions-transitioning-from-node-16-to-node-20/
+[2]: https://github.blog/changelog/2024-03-07-github-actions-all-actions-will-run-on-node20-instead-of-node16-by-default/
+Signed-off-by: Eng Zer Jun <engzerjun@gmail.com>")[#3445](https://github.com/tailwindlabs/headlessui/pull/3445)[)](https://github.com/tailwindlabs/headlessui/commit/2ff8458b0043f900bf6f8267f01385a6f7df2f04 "Update CI workflows to use latest version of actions (#3445)
+GitHub began the Node16 deprecation process a year ago [1][2]. This
+commit updates CI workflows to use the latest Node20 actions.
+[1]: https://github.blog/changelog/2023-09-22-github-actions-transitioning-from-node-16-to-node-20/
+[2]: https://github.blog/changelog/2024-03-07-github-actions-all-actions-will-run-on-node20-instead-of-node16-by-default/
+Signed-off-by: Eng Zer Jun <engzerjun@gmail.com>")
+
+
+
+ | 
+
+Sep 1, 2024
+
+ |
+| 
+
+[jest](https://github.com/tailwindlabs/headlessui/tree/main/jest "jest")
+
+
+
+
+
+
+
+ | 
+
+[jest](https://github.com/tailwindlabs/headlessui/tree/main/jest "jest")
+
+
+
+
+
+
+
+ | 
+
+[Prevent crash in environments where `Element.prototype.getAnimations`…](https://github.com/tailwindlabs/headlessui/commit/4737c6df97993492dde4a2b6384f8222184e1211 "Prevent crash in environments where `Element.prototype.getAnimations` is not available (#3473)
+Recently we made improvements to the `Transition` component and internal
+`useTransition` hook. We now use the `Element.prototype.getAnimations`
+API to know whether or not all transitions are done.
+This API has been available in browsers since 2020, however jsdom
+doesn't have support for this. This results in a lot of failing tests
+where users rely on jsdom (e.g. inside of Jest or Vitest).
+In a perfect world, jsdom is not used because it's not a real browser
+and there is a lot you need to workaround to even mimic a real browser.
+I understand that just switching to real browser tests (using Playwright
+for example) is not an easy task that can be done easily.
+Even our tests still rely on jsdom…
+So to make the development experience better, we polyfill the
+`Element.prototype.getAnimations` API only in tests
+(`process.env.NODE_ENV === 'test'`) and show a warning in the console on
+how to proceed.
+The polyfill we ship simply returns an empty array for
+`node.getAnimations()`. This means that it will be _enough_ for most
+tests to pass. The exception is if you are actually relying on
+`transition-duration` and `transition-delay` CSS properties.
+The warning you will get looks like this:
+``````
+Headless UI has polyfilled `Element.prototype.getAnimations` for your tests.
+Please install a proper polyfill e.g. `jsdom-testing-mocks`, to silence these warnings.
+Example usage:
+```js
+import { mockAnimationsApi } from 'jsdom-testing-mocks'
+mockAnimationsApi()
+```
+``````
+Fixes: #3470
+Fixes: #3469
+Fixes: #3468")
+
+
+
+ | 
+
+Sep 11, 2024
+
+ |
+| 
+
+[packages](https://github.com/tailwindlabs/headlessui/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[packages](https://github.com/tailwindlabs/headlessui/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[update changelog](https://github.com/tailwindlabs/headlessui/commit/b6f355d154f69ac67d2196f755f9751c6b1acba0 "update changelog")
+
+
+
+ | 
+
+Dec 12, 2024
+
+ |
+| 
+
+[playgrounds](https://github.com/tailwindlabs/headlessui/tree/main/playgrounds "playgrounds")
+
+
+
+
+
+
+
+ | 
+
+[playgrounds](https://github.com/tailwindlabs/headlessui/tree/main/playgrounds "playgrounds")
+
+
+
+
+
+
+
+ | 
+
+[Use](https://github.com/tailwindlabs/headlessui/commit/13d882957b3ee3116c06ef7a8df2889c048743f3 "Use `React.JSX` instead of `JSX` (#3511)
+The global JSX type is deprecated in React 18.3 and removed in React 19
+RC. This PR changes the code to use the supported React.JSX syntax
+instead.
+PS. Would you accept a similar PR for 1.x? I personally haven't upgraded
+all my projects yet.") ```
+[React.JSX](https://github.com/tailwindlabs/headlessui/commit/13d882957b3ee3116c06ef7a8df2889c048743f3 "Use `React.JSX` instead of `JSX` (#3511)
+The global JSX type is deprecated in React 18.3 and removed in React 19
+RC. This PR changes the code to use the supported React.JSX syntax
+instead.
+PS. Would you accept a similar PR for 1.x? I personally haven't upgraded
+all my projects yet.")
+``` [instead of](https://github.com/tailwindlabs/headlessui/commit/13d882957b3ee3116c06ef7a8df2889c048743f3 "Use `React.JSX` instead of `JSX` (#3511)
+The global JSX type is deprecated in React 18.3 and removed in React 19
+RC. This PR changes the code to use the supported React.JSX syntax
+instead.
+PS. Would you accept a similar PR for 1.x? I personally haven't upgraded
+all my projects yet.") ```
+[JSX](https://github.com/tailwindlabs/headlessui/commit/13d882957b3ee3116c06ef7a8df2889c048743f3 "Use `React.JSX` instead of `JSX` (#3511)
+The global JSX type is deprecated in React 18.3 and removed in React 19
+RC. This PR changes the code to use the supported React.JSX syntax
+instead.
+PS. Would you accept a similar PR for 1.x? I personally haven't upgraded
+all my projects yet.")
+``` [(](https://github.com/tailwindlabs/headlessui/commit/13d882957b3ee3116c06ef7a8df2889c048743f3 "Use `React.JSX` instead of `JSX` (#3511)
+The global JSX type is deprecated in React 18.3 and removed in React 19
+RC. This PR changes the code to use the supported React.JSX syntax
+instead.
+PS. Would you accept a similar PR for 1.x? I personally haven't upgraded
+all my projects yet.")[#3511](https://github.com/tailwindlabs/headlessui/pull/3511)[)](https://github.com/tailwindlabs/headlessui/commit/13d882957b3ee3116c06ef7a8df2889c048743f3 "Use `React.JSX` instead of `JSX` (#3511)
+The global JSX type is deprecated in React 18.3 and removed in React 19
+RC. This PR changes the code to use the supported React.JSX syntax
+instead.
+PS. Would you accept a similar PR for 1.x? I personally haven't upgraded
+all my projects yet.")
+
+
+
+ | 
+
+Oct 8, 2024
+
+ |
+| 
+
+[scripts](https://github.com/tailwindlabs/headlessui/tree/main/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[scripts](https://github.com/tailwindlabs/headlessui/tree/main/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[Ensure playgrounds work + switch to npm workspaces (](https://github.com/tailwindlabs/headlessui/commit/a73007388fbf4cf1ebd9e6d3c5762c8102daf84d "Ensure playgrounds work + switch to npm workspaces (#2907)
+* bump Next in playground
+* convert legacy Link after Next.js bump
+* update yarn.lock
+* switch to npm workspaces
+* move `packages/playground-*` to `playgrounds/*`
+* use `npm` instead of `yarn`
+* sync package-lock.json
+* use node 20 for insiders releases")[#2907](https://github.com/tailwindlabs/headlessui/pull/2907)[)](https://github.com/tailwindlabs/headlessui/commit/a73007388fbf4cf1ebd9e6d3c5762c8102daf84d "Ensure playgrounds work + switch to npm workspaces (#2907)
+* bump Next in playground
+* convert legacy Link after Next.js bump
+* update yarn.lock
+* switch to npm workspaces
+* move `packages/playground-*` to `playgrounds/*`
+* use `npm` instead of `yarn`
+* sync package-lock.json
+* use node 20 for insiders releases")
+
+
+
+ | 
+
+Jan 3, 2024
+
+ |
+| 
+
+[.eslintignore](https://github.com/tailwindlabs/headlessui/blob/main/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[.eslintignore](https://github.com/tailwindlabs/headlessui/blob/main/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[setup monorepo](https://github.com/tailwindlabs/headlessui/commit/672afbe9f84765d877ab49c4349b2d5192d5270c "setup monorepo")
+
+
+
+ | 
+
+Sep 16, 2020
+
+ |
+| 
+
+[.gitignore](https://github.com/tailwindlabs/headlessui/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/tailwindlabs/headlessui/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Ensure playgrounds work + switch to npm workspaces (](https://github.com/tailwindlabs/headlessui/commit/a73007388fbf4cf1ebd9e6d3c5762c8102daf84d "Ensure playgrounds work + switch to npm workspaces (#2907)
+* bump Next in playground
+* convert legacy Link after Next.js bump
+* update yarn.lock
+* switch to npm workspaces
+* move `packages/playground-*` to `playgrounds/*`
+* use `npm` instead of `yarn`
+* sync package-lock.json
+* use node 20 for insiders releases")[#2907](https://github.com/tailwindlabs/headlessui/pull/2907)[)](https://github.com/tailwindlabs/headlessui/commit/a73007388fbf4cf1ebd9e6d3c5762c8102daf84d "Ensure playgrounds work + switch to npm workspaces (#2907)
+* bump Next in playground
+* convert legacy Link after Next.js bump
+* update yarn.lock
+* switch to npm workspaces
+* move `packages/playground-*` to `playgrounds/*`
+* use `npm` instead of `yarn`
+* sync package-lock.json
+* use node 20 for insiders releases")
+
+
+
+ | 
+
+Jan 3, 2024
+
+ |
+| 
+
+[.prettierignore](https://github.com/tailwindlabs/headlessui/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/tailwindlabs/headlessui/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[Improve overal codebase, use modern tech like `esbuild` and TypeScrip…](https://github.com/tailwindlabs/headlessui/commit/fdd26297953080d5ec905dda0bf5ec9607897d86 "Improve overal codebase, use modern tech like `esbuild` and TypeScript 4! (#1055)
+* use esbuild for React instead of tsdx
+* remove tsdx from Vue
+* use consistent names
+* add jest and prettier
+* update scripts
+* ignore some folders for prettier
+* run lint script instead of tsdx lint
+* run prettier en-masse
+This has a few changes because of the new prettier version.
+* bump typescript to latest version
+* make typescript happy
+* cleanup playground package.json
+* make esbuild a dev dependency
+* make scripts consistent
+* fix husky hooks
+* add dedicated watch script
+* add `yarn playground-react` and `yarn react-playground` (alias)
+This will make sure to run a watcher for the actual @headlessui/react
+package, and start a development server in the playground-react package.
+* ignore formatting in the .next folder
+* run prettier on playground-react package
+* setup playground-vue
+Still not 100% working, but getting there!
+* add playground aliases in @headlessui/vue and @headlessui/react
+This allows you to run `yarn react playground` or `yarn vue playground`
+from the root.
+* add `clean` script
+* move examples folder in playground-vue to root
+* ensure new lines for consistency in scripts
+* fix typescript issue
+* fix typescript issues in playgrounds
+* make sure to run prettier on everything it can
+* run prettier on all files
+* improve error output
+If you minify the code, then it could happen that the errors are a bit
+obscure. This will hardcode the component name to improve errors.
+* add the `prettier-plugin-tailwindcss` plugin, party!
+* update changelog")
+
+
+
+ | 
+
+Jan 27, 2022
+
+ |
+| 
+
+[.swcrc](https://github.com/tailwindlabs/headlessui/blob/main/.swcrc ".swcrc")
+
+
+
+
+
+
+
+ | 
+
+[.swcrc](https://github.com/tailwindlabs/headlessui/blob/main/.swcrc ".swcrc")
+
+
+
+
+
+
+
+ | 
+
+[Improve overal codebase, use modern tech like `esbuild` and TypeScrip…](https://github.com/tailwindlabs/headlessui/commit/fdd26297953080d5ec905dda0bf5ec9607897d86 "Improve overal codebase, use modern tech like `esbuild` and TypeScript 4! (#1055)
+* use esbuild for React instead of tsdx
+* remove tsdx from Vue
+* use consistent names
+* add jest and prettier
+* update scripts
+* ignore some folders for prettier
+* run lint script instead of tsdx lint
+* run prettier en-masse
+This has a few changes because of the new prettier version.
+* bump typescript to latest version
+* make typescript happy
+* cleanup playground package.json
+* make esbuild a dev dependency
+* make scripts consistent
+* fix husky hooks
+* add dedicated watch script
+* add `yarn playground-react` and `yarn react-playground` (alias)
+This will make sure to run a watcher for the actual @headlessui/react
+package, and start a development server in the playground-react package.
+* ignore formatting in the .next folder
+* run prettier on playground-react package
+* setup playground-vue
+Still not 100% working, but getting there!
+* add playground aliases in @headlessui/vue and @headlessui/react
+This allows you to run `yarn react playground` or `yarn vue playground`
+from the root.
+* add `clean` script
+* move examples folder in playground-vue to root
+* ensure new lines for consistency in scripts
+* fix typescript issue
+* fix typescript issues in playgrounds
+* make sure to run prettier on everything it can
+* run prettier on all files
+* improve error output
+If you minify the code, then it could happen that the errors are a bit
+obscure. This will hardcode the component name to improve errors.
+* add the `prettier-plugin-tailwindcss` plugin, party!
+* update changelog")
+
+
+
+ | 
+
+Jan 27, 2022
+
+ |
+| 
+
+[CHANGELOG.md](https://github.com/tailwindlabs/headlessui/blob/main/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[CHANGELOG.md](https://github.com/tailwindlabs/headlessui/blob/main/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[Split](https://github.com/tailwindlabs/headlessui/commit/d3ed3f5d26463339091dc4dffdbc15673c9e41bf "Split `CHANGELOG.md` into file per package (#1516)
+* splitup CHANGELOG.md file
+Scope each changelog per package
+* simplify CHANGELOG.md files
+We don't need to scope them anymore, they are already scoped.") ```
+[CHANGELOG.md](https://github.com/tailwindlabs/headlessui/commit/d3ed3f5d26463339091dc4dffdbc15673c9e41bf "Split `CHANGELOG.md` into file per package (#1516)
+* splitup CHANGELOG.md file
+Scope each changelog per package
+* simplify CHANGELOG.md files
+We don't need to scope them anymore, they are already scoped.")
+``` [into file per package (](https://github.com/tailwindlabs/headlessui/commit/d3ed3f5d26463339091dc4dffdbc15673c9e41bf "Split `CHANGELOG.md` into file per package (#1516)
+* splitup CHANGELOG.md file
+Scope each changelog per package
+* simplify CHANGELOG.md files
+We don't need to scope them anymore, they are already scoped.")[#1516](https://github.com/tailwindlabs/headlessui/pull/1516)[)](https://github.com/tailwindlabs/headlessui/commit/d3ed3f5d26463339091dc4dffdbc15673c9e41bf "Split `CHANGELOG.md` into file per package (#1516)
+* splitup CHANGELOG.md file
+Scope each changelog per package
+* simplify CHANGELOG.md files
+We don't need to scope them anymore, they are already scoped.")
+
+
+
+ | 
+
+May 28, 2022
+
+ |
+| 
+
+[LICENSE](https://github.com/tailwindlabs/headlessui/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/tailwindlabs/headlessui/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[setup monorepo](https://github.com/tailwindlabs/headlessui/commit/672afbe9f84765d877ab49c4349b2d5192d5270c "setup monorepo")
+
+
+
+ | 
+
+Sep 16, 2020
+
+ |
+| 
+
+[README.md](https://github.com/tailwindlabs/headlessui/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/tailwindlabs/headlessui/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Update README.md (](https://github.com/tailwindlabs/headlessui/commit/65d5ce22ba1ffa2b045c910268dde5b3a93a39dc "Update README.md (#2135)")[#2135](https://github.com/tailwindlabs/headlessui/pull/2135)[)](https://github.com/tailwindlabs/headlessui/commit/65d5ce22ba1ffa2b045c910268dde5b3a93a39dc "Update README.md (#2135)")
+
+
+
+ | 
+
+Jan 1, 2023
+
+ |
+| 
+
+[jest.config.cjs](https://github.com/tailwindlabs/headlessui/blob/main/jest.config.cjs "jest.config.cjs")
+
+
+
+
+
+
+
+ | 
+
+[jest.config.cjs](https://github.com/tailwindlabs/headlessui/blob/main/jest.config.cjs "jest.config.cjs")
+
+
+
+
+
+
+
+ | 
+
+[convert .js to .cjs](https://github.com/tailwindlabs/headlessui/commit/6174c47291765038bccba36df08eacb7c6693e82 "convert .js to .cjs")
+
+
+
+ | 
+
+Jan 31, 2022
+
+ |
+| 
+
+[package-lock.json](https://github.com/tailwindlabs/headlessui/blob/main/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/tailwindlabs/headlessui/blob/main/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[Bump @tanstack/react-virtual (](https://github.com/tailwindlabs/headlessui/commit/058a14b058cbb56384e1a34671a37eee78808aca "Bump @tanstack/react-virtual (#3588)
+`@tanstack/react-virtual` added peer deps support for React 19 in
+[v3.11.0](https://github.com/TanStack/virtual/releases/tag/v3.11.0)
+(https://github.com/TanStack/virtual/pull/893)
+This PR upgrades the packages. This can resolve some warnings on some
+React 19 projects, e.g.:
+```
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @tanstack/react-virtual@3.10.9
+npm warn Found: react@19.0.0
+npm warn node_modules/react
+npm warn   peer react@\"^18 || ^19 || ^19.0.0-rc\" from @headlessui/react@2.2.0
+npm warn   node_modules/@headlessui/react
+npm warn     @headlessui/react@\"^2.2.0\" from the root project
+npm warn   15 more (@floating-ui/react, @floating-ui/react-dom, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@\"^16.8.0 || ^17.0.0 || ^18.0.0\" from @tanstack/react-virtual@3.10.9
+npm warn node_modules/@headlessui/react/node_modules/@tanstack/react-virtual
+npm warn   @tanstack/react-virtual@\"^3.8.1\" from @headlessui/react@2.2.0
+npm warn   node_modules/@headlessui/react
+npm warn
+npm warn Conflicting peer dependency: react@18.3.1
+npm warn node_modules/react
+npm warn   peer react@\"^16.8.0 || ^17.0.0 || ^18.0.0\" from @tanstack/react-virtual@3.10.9
+npm warn   node_modules/@headlessui/react/node_modules/@tanstack/react-virtual
+npm warn     @tanstack/react-virtual@\"^3.8.1\" from @headlessui/react@2.2.0
+npm warn     node_modules/@headlessui/react
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @tanstack/react-virtual@3.10.9
+npm warn Found: react-dom@19.0.0
+npm warn node_modules/react-dom
+npm warn   peer react-dom@\"^18 || ^19 || ^19.0.0-rc\" from @headlessui/react@2.2.0
+npm warn   node_modules/@headlessui/react
+npm warn     @headlessui/react@\"^2.2.0\" from the root project
+npm warn   5 more (@floating-ui/react, @floating-ui/react-dom, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react-dom@\"^16.8.0 || ^17.0.0 || ^18.0.0\" from @tanstack/react-virtual@3.10.9
+npm warn node_modules/@headlessui/react/node_modules/@tanstack/react-virtual
+npm warn   @tanstack/react-virtual@\"^3.8.1\" from @headlessui/react@2.2.0
+npm warn   node_modules/@headlessui/react
+npm warn
+npm warn Conflicting peer dependency: react-dom@18.3.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@\"^16.8.0 || ^17.0.0 || ^18.0.0\" from @tanstack/react-virtual@3.10.9
+npm warn   node_modules/@headlessui/react/node_modules/@tanstack/react-virtual
+npm warn     @tanstack/react-virtual@\"^3.8.1\" from @headlessui/react@2.2.0
+npm warn     node_modules/@headlessui/react
+```")[#3588](https://github.com/tailwindlabs/headlessui/pull/3588)[)](https://github.com/tailwindlabs/headlessui/commit/058a14b058cbb56384e1a34671a37eee78808aca "Bump @tanstack/react-virtual (#3588)
+`@tanstack/react-virtual` added peer deps support for React 19 in
+[v3.11.0](https://github.com/TanStack/virtual/releases/tag/v3.11.0)
+(https://github.com/TanStack/virtual/pull/893)
+This PR upgrades the packages. This can resolve some warnings on some
+React 19 projects, e.g.:
+```
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @tanstack/react-virtual@3.10.9
+npm warn Found: react@19.0.0
+npm warn node_modules/react
+npm warn   peer react@\"^18 || ^19 || ^19.0.0-rc\" from @headlessui/react@2.2.0
+npm warn   node_modules/@headlessui/react
+npm warn     @headlessui/react@\"^2.2.0\" from the root project
+npm warn   15 more (@floating-ui/react, @floating-ui/react-dom, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@\"^16.8.0 || ^17.0.0 || ^18.0.0\" from @tanstack/react-virtual@3.10.9
+npm warn node_modules/@headlessui/react/node_modules/@tanstack/react-virtual
+npm warn   @tanstack/react-virtual@\"^3.8.1\" from @headlessui/react@2.2.0
+npm warn   node_modules/@headlessui/react
+npm warn
+npm warn Conflicting peer dependency: react@18.3.1
+npm warn node_modules/react
+npm warn   peer react@\"^16.8.0 || ^17.0.0 || ^18.0.0\" from @tanstack/react-virtual@3.10.9
+npm warn   node_modules/@headlessui/react/node_modules/@tanstack/react-virtual
+npm warn     @tanstack/react-virtual@\"^3.8.1\" from @headlessui/react@2.2.0
+npm warn     node_modules/@headlessui/react
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @tanstack/react-virtual@3.10.9
+npm warn Found: react-dom@19.0.0
+npm warn node_modules/react-dom
+npm warn   peer react-dom@\"^18 || ^19 || ^19.0.0-rc\" from @headlessui/react@2.2.0
+npm warn   node_modules/@headlessui/react
+npm warn     @headlessui/react@\"^2.2.0\" from the root project
+npm warn   5 more (@floating-ui/react, @floating-ui/react-dom, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react-dom@\"^16.8.0 || ^17.0.0 || ^18.0.0\" from @tanstack/react-virtual@3.10.9
+npm warn node_modules/@headlessui/react/node_modules/@tanstack/react-virtual
+npm warn   @tanstack/react-virtual@\"^3.8.1\" from @headlessui/react@2.2.0
+npm warn   node_modules/@headlessui/react
+npm warn
+npm warn Conflicting peer dependency: react-dom@18.3.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@\"^16.8.0 || ^17.0.0 || ^18.0.0\" from @tanstack/react-virtual@3.10.9
+npm warn   node_modules/@headlessui/react/node_modules/@tanstack/react-virtual
+npm warn     @tanstack/react-virtual@\"^3.8.1\" from @headlessui/react@2.2.0
+npm warn     node_modules/@headlessui/react
+```")
+
+
+
+ | 
+
+Dec 12, 2024
+
+ |
+| 
+
+[package.json](https://github.com/tailwindlabs/headlessui/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/tailwindlabs/headlessui/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Bump dependencies (](https://github.com/tailwindlabs/headlessui/commit/f0e3e5b4a6d8243a56e7b01cd518525a4e30c852 "Bump dependencies (#3158)
+* use `act` from `react` instead of `@testing-library/react`
+* bump dependencies
+* bump `@testing-library/react`
+* bump `@react-aria/interactions`
+* bump \"@tanstack/react-virtual\"
+* add `ResizeObserver` polyfill, and enable it by default for tests
+* mock `getBoundingClientRect`
+Otherwise the virtualization tests don't work as expected because they
+rely on the client rect which is not supported (or not correctly
+measured) in JSDOM.")[#3158](https://github.com/tailwindlabs/headlessui/pull/3158)[)](https://github.com/tailwindlabs/headlessui/commit/f0e3e5b4a6d8243a56e7b01cd518525a4e30c852 "Bump dependencies (#3158)
+* use `act` from `react` instead of `@testing-library/react`
+* bump dependencies
+* bump `@testing-library/react`
+* bump `@react-aria/interactions`
+* bump \"@tanstack/react-virtual\"
+* add `ResizeObserver` polyfill, and enable it by default for tests
+* mock `getBoundingClientRect`
+Otherwise the virtualization tests don't work as expected because they
+rely on the client rect which is not supported (or not correctly
+measured) in JSDOM.")
+
+
+
+ | 
+
+May 2, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/tailwindlabs/headlessui?screenshot=true#)
+*   [MIT license](https://github.com/tailwindlabs/headlessui?screenshot=true#)
+
+### Headless UI
+
+[](https://github.com/tailwindlabs/headlessui?screenshot=true#--headless-ui)
+
+A set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+
+* * *
+
+Documentation
+-------------
+
+[](https://github.com/tailwindlabs/headlessui?screenshot=true#documentation)
+
+For full documentation, visit [headlessui.com](https://headlessui.com/).
+
+### Installing the latest version
+
+[](https://github.com/tailwindlabs/headlessui?screenshot=true#installing-the-latest-version)
+
+You can install the latest version by using:
+
+*   `npm install @headlessui/react@latest`
+*   `npm install @headlessui/vue@latest`
+
+### Installing the insiders version
+
+[](https://github.com/tailwindlabs/headlessui?screenshot=true#installing-the-insiders-version)
+
+You can install the insiders version (which points to whatever the latest commit on the `main` branch is) by using:
+
+*   `npm install @headlessui/react@insiders`
+*   `npm install @headlessui/vue@insiders`
+
+**Note:** The insiders build doesn't follow semver and therefore doesn't guarantee that the APIs will be the same once they are released.
+
+Packages
+--------
+
+[](https://github.com/tailwindlabs/headlessui?screenshot=true#packages)
+
+| Name | Version | Downloads |
+| :-- | :-: | :-: |
+| [`@headlessui/react`](https://github.com/tailwindlabs/headlessui/tree/main/packages/%40headlessui-react) | [![Image 37: npm version](https://camo.githubusercontent.com/551343ed143425c7d7ee081c84e7d1d4e4e5ce86b307605f09b2f9ad33b3d88e/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40686561646c65737375692f72656163742e737667)](https://www.npmjs.com/package/@headlessui/react) | [![Image 38: npm downloads](https://camo.githubusercontent.com/10f0080ec6be62011fe499e4485b408bd9380701487bb030c52a87e204abe25c/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f40686561646c65737375692f72656163742e737667)](https://www.npmjs.com/package/@headlessui/react) |
+| [`@headlessui/vue`](https://github.com/tailwindlabs/headlessui/tree/main/packages/%40headlessui-vue) | [![Image 39: npm version](https://camo.githubusercontent.com/6f0c08b97ccf62e815503129ede7ec2588d5ad6ccedf1938ebb38521158b5cbc/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40686561646c65737375692f7675652e737667)](https://www.npmjs.com/package/@headlessui/vue) | [![Image 40: npm downloads](https://camo.githubusercontent.com/811cbf7958b67c5093ae2d236184cc5c3078df0e00463579cf58cbb8dd22d3ba/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f40686561646c65737375692f7675652e737667)](https://www.npmjs.com/package/@headlessui/vue) |
+| [`@headlessui/tailwindcss`](https://github.com/tailwindlabs/headlessui/tree/main/packages/%40headlessui-tailwindcss) | [![Image 41: npm version](https://camo.githubusercontent.com/adf7d01ee14ff086565b64c434791c872d521d88ca25a2667c377b7e120b6436/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40686561646c65737375692f7461696c77696e646373732e737667)](https://www.npmjs.com/package/@headlessui/tailwindcss) | [![Image 42: npm downloads](https://camo.githubusercontent.com/2e60b64501509720774990f3d23c2e92db6b1bd8eb04da80ae7b8194c394579d/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f40686561646c65737375692f7461696c77696e646373732e737667)](https://www.npmjs.com/package/@headlessui/tailwindcss) |
+
+Community
+---------
+
+[](https://github.com/tailwindlabs/headlessui?screenshot=true#community)
+
+For help, discussion about best practices, or any other conversation that would benefit from being searchable:
+
+[Discuss Headless UI on GitHub](https://github.com/tailwindlabs/headlessui/discussions)
+
+For casual chit-chat with others using the library:
+
+[Join the Tailwind CSS Discord Server](https://discord.gg/7NF8GNe)
+
+Contributing
+------------
+
+[](https://github.com/tailwindlabs/headlessui?screenshot=true#contributing)
+
+If you're interested in contributing to Headless UI, please read our [contributing docs](https://github.com/tailwindlabs/headlessui/blob/main/.github/CONTRIBUTING.md) **before submitting a pull request**.
+
+About
+-----
+
+Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+
+[headlessui.com](https://headlessui.com/ "https://headlessui.com")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [components](https://github.com/topics/components "Topic: components") [vue](https://github.com/topics/vue "Topic: vue") [accessibility](https://github.com/topics/accessibility "Topic: accessibility") [a11y](https://github.com/topics/a11y "Topic: a11y") [tailwindcss](https://github.com/topics/tailwindcss "Topic: tailwindcss") [headless-ui](https://github.com/topics/headless-ui "Topic: headless-ui") [headlessui](https://github.com/topics/headlessui "Topic: headlessui")
+
+### Resources
+
+[Readme](https://github.com/tailwindlabs/headlessui?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/tailwindlabs/headlessui?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/tailwindlabs/headlessui/activity)
+
+[Custom properties](https://github.com/tailwindlabs/headlessui/custom-properties)
+
+### Stars
+
+[**26.6k** stars](https://github.com/tailwindlabs/headlessui/stargazers)
+
+### Watchers
+
+[**162** watching](https://github.com/tailwindlabs/headlessui/watchers)
+
+### Forks
+
+[**1.1k** forks](https://github.com/tailwindlabs/headlessui/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Ftailwindlabs%2Fheadlessui&report=tailwindlabs+%28user%29)
+
+[Releases 119](https://github.com/tailwindlabs/headlessui/releases)
+-------------------------------------------------------------------
+
+[@headlessui/react@v2.2.0 Latest Oct 25, 2024](https://github.com/tailwindlabs/headlessui/releases/tag/%40headlessui%2Freact%40v2.2.0)
+
+[\+ 118 releases](https://github.com/tailwindlabs/headlessui/releases)
+
+[Used by 6.1k](https://github.com/tailwindlabs/headlessui/network/dependents)
+-----------------------------------------------------------------------------
+
+[* ![Image 43: @umaremlyn](https://avatars.githubusercontent.com/u/48784990?s=64&v=4) * ![Image 44: @sanoh-intern](https://avatars.githubusercontent.com/u/179923942?s=64&v=4) * ![Image 45: @EBEXBusiness](https://avatars.githubusercontent.com/u/195148717?s=64&v=4) * ![Image 46: @SSWConsulting](https://avatars.githubusercontent.com/u/7947936?s=64&v=4) * ![Image 47: @hanna-khan](https://avatars.githubusercontent.com/u/95651577?s=64&v=4) * ![Image 48: @Calinator444](https://avatars.githubusercontent.com/u/65635198?s=64&v=4) * ![Image 49: @beringui1611](https://avatars.githubusercontent.com/u/132324277?s=64&v=4) * ![Image 50: @Thapabiplav](https://avatars.githubusercontent.com/u/169600024?s=64&v=4) \+ 6,122](https://github.com/tailwindlabs/headlessui/network/dependents)
+
+[Contributors 95](https://github.com/tailwindlabs/headlessui/graphs/contributors)
+---------------------------------------------------------------------------------
+
+*   [![Image 51: @RobinMalfait](https://avatars.githubusercontent.com/u/1834413?s=64&v=4)](https://github.com/RobinMalfait)
+*   [![Image 52: @thecrypticace](https://avatars.githubusercontent.com/u/614993?s=64&v=4)](https://github.com/thecrypticace)
+*   [![Image 53: @reinink](https://avatars.githubusercontent.com/u/882133?s=64&v=4)](https://github.com/reinink)
+*   [![Image 54: @adamwathan](https://avatars.githubusercontent.com/u/4323180?s=64&v=4)](https://github.com/adamwathan)
+*   [![Image 55: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 56: @simonswiss](https://avatars.githubusercontent.com/u/485747?s=64&v=4)](https://github.com/simonswiss)
+*   [![Image 57: @NoelDeMartin](https://avatars.githubusercontent.com/u/1517677?s=64&v=4)](https://github.com/NoelDeMartin)
+*   [![Image 58: @philipp-spiess](https://avatars.githubusercontent.com/u/458591?s=64&v=4)](https://github.com/philipp-spiess)
+*   [![Image 59: @rynz](https://avatars.githubusercontent.com/u/2523492?s=64&v=4)](https://github.com/rynz)
+*   [![Image 60: @henribru](https://avatars.githubusercontent.com/u/6639509?s=64&v=4)](https://github.com/henribru)
+*   [![Image 61: @eps1lon](https://avatars.githubusercontent.com/u/12292047?s=64&v=4)](https://github.com/eps1lon)
+*   [![Image 62: @thetnaingtn](https://avatars.githubusercontent.com/u/28681575?s=64&v=4)](https://github.com/thetnaingtn)
+*   [![Image 63: @milhamm](https://avatars.githubusercontent.com/u/35242329?s=64&v=4)](https://github.com/milhamm)
+*   [![Image 64: @funkjedi](https://avatars.githubusercontent.com/u/9314?s=64&v=4)](https://github.com/funkjedi)
+
+[\+ 81 contributors](https://github.com/tailwindlabs/headlessui/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 95.3%](https://github.com/tailwindlabs/headlessui/search?l=typescript)
+*   [Vue 4.3%](https://github.com/tailwindlabs/headlessui/search?l=vue)
+*   Other 0.4%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

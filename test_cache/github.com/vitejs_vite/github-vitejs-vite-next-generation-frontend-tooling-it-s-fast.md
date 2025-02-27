@@ -1,0 +1,1302 @@
+---
+title: GitHub - vitejs/vite: Next generation frontend tooling. It's fast!
+description: Next generation frontend tooling. It's fast! Contribute to vitejs/vite development by creating an account on GitHub.
+url: https://github.com/vitejs/vite
+timestamp: 2025-01-20T15:31:49.834Z
+domain: github.com
+path: vitejs_vite
+---
+
+# GitHub - vitejs/vite: Next generation frontend tooling. It's fast!
+
+
+Next generation frontend tooling. It's fast! Contribute to vitejs/vite development by creating an account on GitHub.
+
+
+## Content
+
+GitHub - vitejs/vite: Next generation frontend tooling. It's fast!
+===============
+                                           
+
+[Skip to content](https://github.com/vitejs/vite?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvitejs%2Fvite%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvitejs%2Fvite%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=vitejs%2Fvite) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[vitejs](https://github.com/vitejs) / **[vite](https://github.com/vitejs/vite)** Public
+
+*   Sponsor
+    
+    Sponsor vitejs/vite
+    ===================
+    
+    ##### GitHub Sponsors
+    
+    [Learn more about Sponsors](https://github.com/sponsors)
+    
+    [![Image 48: @vitejs](https://avatars.githubusercontent.com/u/65625612?s=80&v=4)](https://github.com/vitejs)
+    
+    [vitejs](https://github.com/vitejs)
+    
+    [vitejs](https://github.com/vitejs)
+    
+    [Sponsor](https://github.com/sponsors/vitejs)
+    
+    ##### External links
+    
+    ![Image 49: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)
+    
+    [opencollective.com/**vite**](https://opencollective.com/vite)
+    
+    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
+    
+    [Report abuse](https://github.com/contact/report-abuse?report=vitejs%2Fvite+%28Repository+Funding+Links%29)
+    
+*   [Notifications](https://github.com/login?return_to=%2Fvitejs%2Fvite) You must be signed in to change notification settings
+*   [Fork 6.4k](https://github.com/login?return_to=%2Fvitejs%2Fvite)
+*   [Star 70.1k](https://github.com/login?return_to=%2Fvitejs%2Fvite)
+    
+
+Next generation frontend tooling. It's fast!
+
+[vite.dev](http://vite.dev/ "http://vite.dev")
+
+### License
+
+[MIT license](https://github.com/vitejs/vite/blob/main/LICENSE)
+
+[70.1k stars](https://github.com/vitejs/vite/stargazers) [6.4k forks](https://github.com/vitejs/vite/forks) [Branches](https://github.com/vitejs/vite/branches) [Tags](https://github.com/vitejs/vite/tags) [Activity](https://github.com/vitejs/vite/activity)
+
+[Star](https://github.com/login?return_to=%2Fvitejs%2Fvite)
+
+[Notifications](https://github.com/login?return_to=%2Fvitejs%2Fvite) You must be signed in to change notification settings
+
+*   [Code](https://github.com/vitejs/vite)
+*   [Issues 464](https://github.com/vitejs/vite/issues)
+*   [Pull requests 178](https://github.com/vitejs/vite/pulls)
+*   [Discussions](https://github.com/vitejs/vite/discussions)
+*   [Actions](https://github.com/vitejs/vite/actions)
+*   [Projects 1](https://github.com/vitejs/vite/projects)
+*   [Security 7](https://github.com/vitejs/vite/security)
+*   [Insights](https://github.com/vitejs/vite/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/vitejs/vite)
+*   [Issues](https://github.com/vitejs/vite/issues)
+*   [Pull requests](https://github.com/vitejs/vite/pulls)
+*   [Discussions](https://github.com/vitejs/vite/discussions)
+*   [Actions](https://github.com/vitejs/vite/actions)
+*   [Projects](https://github.com/vitejs/vite/projects)
+*   [Security](https://github.com/vitejs/vite/security)
+*   [Insights](https://github.com/vitejs/vite/pulse)
+
+vitejs/vite
+===========
+
+  
+
+ main
+
+[**52** Branches](https://github.com/vitejs/vite/branches)[**836** Tags](https://github.com/vitejs/vite/tags)
+
+[](https://github.com/vitejs/vite/branches)[](https://github.com/vitejs/vite/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 50: sapphi-red](https://avatars.githubusercontent.com/u/49056869?v=4&size=40)](https://github.com/sapphi-red)[sapphi-red](https://github.com/vitejs/vite/commits?author=sapphi-red)
+
+[release: v6.0.9](https://github.com/vitejs/vite/commit/a55f8ba3e43108de340610d4d021dcd926be5876)
+
+Jan 20, 2025
+
+[a55f8ba](https://github.com/vitejs/vite/commit/a55f8ba3e43108de340610d4d021dcd926be5876) · Jan 20, 2025
+
+History
+-------
+
+[7,443 Commits](https://github.com/vitejs/vite/commits/main/)
+
+[](https://github.com/vitejs/vite/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/vitejs/vite/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/vitejs/vite/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[fix(deps): update all non-major dependencies (](https://github.com/vitejs/vite/commit/8639538e6498d1109da583ad942c1472098b5919 "fix(deps): update all non-major dependencies (#19098)
+Co-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>")[#19098](https://github.com/vitejs/vite/pull/19098)[)](https://github.com/vitejs/vite/commit/8639538e6498d1109da583ad942c1472098b5919 "fix(deps): update all non-major dependencies (#19098)
+Co-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>")
+
+
+
+ | 
+
+Jan 7, 2025
+
+ |
+| 
+
+[.stackblitz](https://github.com/vitejs/vite/tree/main/.stackblitz ".stackblitz")
+
+
+
+
+
+
+
+ | 
+
+[.stackblitz](https://github.com/vitejs/vite/tree/main/.stackblitz ".stackblitz")
+
+
+
+
+
+
+
+ | 
+
+[chore: add plugin-legacy override to codeflow config (](https://github.com/vitejs/vite/commit/e701277b5fc402a8ad9da363472a4c8da2533d55 "chore: add plugin-legacy override to codeflow config (#12229)")[#12229](https://github.com/vitejs/vite/pull/12229)[)](https://github.com/vitejs/vite/commit/e701277b5fc402a8ad9da363472a4c8da2533d55 "chore: add plugin-legacy override to codeflow config (#12229)")
+
+
+
+ | 
+
+Feb 28, 2023
+
+ |
+| 
+
+[docs](https://github.com/vitejs/vite/tree/main/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs](https://github.com/vitejs/vite/tree/main/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[fix!: check host header to prevent DNS rebinding attacks and introduc…](https://github.com/vitejs/vite/commit/bd896fb5f312fc0ff1730166d1d142fc0d34ba6d "fix!: check host header to prevent DNS rebinding attacks and introduce `server.allowedHosts`")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[packages](https://github.com/vitejs/vite/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[packages](https://github.com/vitejs/vite/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[release: v6.0.9](https://github.com/vitejs/vite/commit/a55f8ba3e43108de340610d4d021dcd926be5876 "release: v6.0.9")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[patches](https://github.com/vitejs/vite/tree/main/patches "patches")
+
+
+
+
+
+
+
+ | 
+
+[patches](https://github.com/vitejs/vite/tree/main/patches "patches")
+
+
+
+
+
+
+
+ | 
+
+[revert: use chokidar v3 (](https://github.com/vitejs/vite/commit/49783da298bc45f3f3c5ad4ce2fb1260ee8856bb "revert: use chokidar v3 (#18659)")[#18659](https://github.com/vitejs/vite/pull/18659)[)](https://github.com/vitejs/vite/commit/49783da298bc45f3f3c5ad4ce2fb1260ee8856bb "revert: use chokidar v3 (#18659)")
+
+
+
+ | 
+
+Nov 14, 2024
+
+ |
+| 
+
+[playground](https://github.com/vitejs/vite/tree/main/playground "playground")
+
+
+
+
+
+
+
+ | 
+
+[playground](https://github.com/vitejs/vite/tree/main/playground "playground")
+
+
+
+
+
+
+
+ | 
+
+[fix!: check host header to prevent DNS rebinding attacks and introduc…](https://github.com/vitejs/vite/commit/bd896fb5f312fc0ff1730166d1d142fc0d34ba6d "fix!: check host header to prevent DNS rebinding attacks and introduce `server.allowedHosts`")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[scripts](https://github.com/vitejs/vite/tree/main/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[scripts](https://github.com/vitejs/vite/tree/main/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[revert: update moduleResolution value casing (](https://github.com/vitejs/vite/commit/b0fc6e3c2591a30360d3714263cf7cc0e2acbfdf "revert: update moduleResolution value casing (#18409) (#18774)")[#18409](https://github.com/vitejs/vite/pull/18409)[) (](https://github.com/vitejs/vite/commit/b0fc6e3c2591a30360d3714263cf7cc0e2acbfdf "revert: update moduleResolution value casing (#18409) (#18774)")[#18774](https://github.com/vitejs/vite/pull/18774)[)](https://github.com/vitejs/vite/commit/b0fc6e3c2591a30360d3714263cf7cc0e2acbfdf "revert: update moduleResolution value casing (#18409) (#18774)")
+
+
+
+ | 
+
+Nov 26, 2024
+
+ |
+| 
+
+[.editorconfig](https://github.com/vitejs/vite/blob/main/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[.editorconfig](https://github.com/vitejs/vite/blob/main/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[chore: enforce LF line endings in the repository (](https://github.com/vitejs/vite/commit/1bf759daea0edbce60534faa9c320098b19e8b41 "chore: enforce LF line endings in the repository (#5092)")[#5092](https://github.com/vitejs/vite/pull/5092)[)](https://github.com/vitejs/vite/commit/1bf759daea0edbce60534faa9c320098b19e8b41 "chore: enforce LF line endings in the repository (#5092)")
+
+
+
+ | 
+
+Sep 26, 2021
+
+ |
+| 
+
+[.git-blame-ignore-revs](https://github.com/vitejs/vite/blob/main/.git-blame-ignore-revs ".git-blame-ignore-revs")
+
+
+
+
+
+
+
+ | 
+
+[.git-blame-ignore-revs](https://github.com/vitejs/vite/blob/main/.git-blame-ignore-revs ".git-blame-ignore-revs")
+
+
+
+
+
+
+
+ | 
+
+[chore: add .git-blame-ignore-revs (](https://github.com/vitejs/vite/commit/b27eba38670eea3f7041a9b0fa3c277668ec5204 "chore: add .git-blame-ignore-revs (#11212)")[#11212](https://github.com/vitejs/vite/pull/11212)[)](https://github.com/vitejs/vite/commit/b27eba38670eea3f7041a9b0fa3c277668ec5204 "chore: add .git-blame-ignore-revs (#11212)")
+
+
+
+ | 
+
+Dec 6, 2022
+
+ |
+| 
+
+[.gitattributes](https://github.com/vitejs/vite/blob/main/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[.gitattributes](https://github.com/vitejs/vite/blob/main/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[chore: enforce LF line endings in the repository (](https://github.com/vitejs/vite/commit/1bf759daea0edbce60534faa9c320098b19e8b41 "chore: enforce LF line endings in the repository (#5092)")[#5092](https://github.com/vitejs/vite/pull/5092)[)](https://github.com/vitejs/vite/commit/1bf759daea0edbce60534faa9c320098b19e8b41 "chore: enforce LF line endings in the repository (#5092)")
+
+
+
+ | 
+
+Sep 26, 2021
+
+ |
+| 
+
+[.gitignore](https://github.com/vitejs/vite/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/vitejs/vite/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[chore(deps): update eslint-define-config (](https://github.com/vitejs/vite/commit/88be6140a53d77c0343a6da5ab67ae04abfe0c7c "chore(deps): update eslint-define-config (#15026)")[#15026](https://github.com/vitejs/vite/pull/15026)[)](https://github.com/vitejs/vite/commit/88be6140a53d77c0343a6da5ab67ae04abfe0c7c "chore(deps): update eslint-define-config (#15026)")
+
+
+
+ | 
+
+Nov 21, 2023
+
+ |
+| 
+
+[.npmrc](https://github.com/vitejs/vite/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[.npmrc](https://github.com/vitejs/vite/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[chore(deps)!: update postcss-load-config to v6 (](https://github.com/vitejs/vite/commit/3a27f627df278f6c9778a55f44cb347665b65204 "chore(deps)!: update postcss-load-config to v6 (#15235)
+Co-authored-by: bluwy <bjornlu.dev@gmail.com>
+Co-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>")[#15235](https://github.com/vitejs/vite/pull/15235)[)](https://github.com/vitejs/vite/commit/3a27f627df278f6c9778a55f44cb347665b65204 "chore(deps)!: update postcss-load-config to v6 (#15235)
+Co-authored-by: bluwy <bjornlu.dev@gmail.com>
+Co-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>")
+
+
+
+ | 
+
+Oct 28, 2024
+
+ |
+| 
+
+[.prettierignore](https://github.com/vitejs/vite/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/vitejs/vite/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[fix(css): skip non css in custom sass importer (](https://github.com/vitejs/vite/commit/21680bdf9ca7c12f677136b56e47f46469db8be2 "fix(css): skip non css in custom sass importer (#18970)
+Co-authored-by: 翠 / green <green@sapphi.red>")[#18970](https://github.com/vitejs/vite/pull/18970)[)](https://github.com/vitejs/vite/commit/21680bdf9ca7c12f677136b56e47f46469db8be2 "fix(css): skip non css in custom sass importer (#18970)
+Co-authored-by: 翠 / green <green@sapphi.red>")
+
+
+
+ | 
+
+Dec 17, 2024
+
+ |
+| 
+
+[.prettierrc.json](https://github.com/vitejs/vite/blob/main/.prettierrc.json ".prettierrc.json")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc.json](https://github.com/vitejs/vite/blob/main/.prettierrc.json ".prettierrc.json")
+
+
+
+
+
+
+
+ | 
+
+[chore(deps): update dependency prettier to v3 (](https://github.com/vitejs/vite/commit/5a56941a895fd0ffdbdbf0094336fb7f0f4099c1 "chore(deps): update dependency prettier to v3 (#13759)
+Co-authored-by: Arnaud Barré <arnaud.barre@carbometrix.com>")[#13759](https://github.com/vitejs/vite/pull/13759)[)](https://github.com/vitejs/vite/commit/5a56941a895fd0ffdbdbf0094336fb7f0f4099c1 "chore(deps): update dependency prettier to v3 (#13759)
+Co-authored-by: Arnaud Barré <arnaud.barre@carbometrix.com>")
+
+
+
+ | 
+
+Jul 19, 2023
+
+ |
+| 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/vitejs/vite/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/vitejs/vite/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: update all url references of vitejs.dev to vite.dev (](https://github.com/vitejs/vite/commit/7052c8f6fc253f0a88ff04a4c18c108f3bfdaa78 "chore: update all url references of vitejs.dev to vite.dev (#18276)")[#18276](https://github.com/vitejs/vite/pull/18276)[)](https://github.com/vitejs/vite/commit/7052c8f6fc253f0a88ff04a4c18c108f3bfdaa78 "chore: update all url references of vitejs.dev to vite.dev (#18276)")
+
+
+
+ | 
+
+Oct 4, 2024
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/vitejs/vite/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/vitejs/vite/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: update contributing.md vite version (](https://github.com/vitejs/vite/commit/81c31c16d10bff48c9965f7aedbf7efb7c7022c4 "chore: update contributing.md vite version (#18866)")[#18866](https://github.com/vitejs/vite/pull/18866)[)](https://github.com/vitejs/vite/commit/81c31c16d10bff48c9965f7aedbf7efb7c7022c4 "chore: update contributing.md vite version (#18866)")
+
+
+
+ | 
+
+Dec 3, 2024
+
+ |
+| 
+
+[LICENSE](https://github.com/vitejs/vite/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/vitejs/vite/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[chore: update license copyright (](https://github.com/vitejs/vite/commit/56eb869a67551a257d20cba00016ea59b1e1a2c4 "chore: update license copyright (#18278)")[#18278](https://github.com/vitejs/vite/pull/18278)[)](https://github.com/vitejs/vite/commit/56eb869a67551a257d20cba00016ea59b1e1a2c4 "chore: update license copyright (#18278)")
+
+
+
+ | 
+
+Oct 4, 2024
+
+ |
+| 
+
+[README.md](https://github.com/vitejs/vite/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/vitejs/vite/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: update all url references of vitejs.dev to vite.dev (](https://github.com/vitejs/vite/commit/7052c8f6fc253f0a88ff04a4c18c108f3bfdaa78 "chore: update all url references of vitejs.dev to vite.dev (#18276)")[#18276](https://github.com/vitejs/vite/pull/18276)[)](https://github.com/vitejs/vite/commit/7052c8f6fc253f0a88ff04a4c18c108f3bfdaa78 "chore: update all url references of vitejs.dev to vite.dev (#18276)")
+
+
+
+ | 
+
+Oct 4, 2024
+
+ |
+| 
+
+[eslint.config.js](https://github.com/vitejs/vite/blob/main/eslint.config.js "eslint.config.js")
+
+
+
+
+
+
+
+ | 
+
+[eslint.config.js](https://github.com/vitejs/vite/blob/main/eslint.config.js "eslint.config.js")
+
+
+
+
+
+
+
+ | 
+
+[feat(css): add more stricter typing of lightningcss (](https://github.com/vitejs/vite/commit/b9b925eb3f911ab63972124dc8ab0455449b925d "feat(css): add more stricter typing of lightningcss (#18460)")[#18460](https://github.com/vitejs/vite/pull/18460)[)](https://github.com/vitejs/vite/commit/b9b925eb3f911ab63972124dc8ab0455449b925d "feat(css): add more stricter typing of lightningcss (#18460)")
+
+
+
+ | 
+
+Oct 28, 2024
+
+ |
+| 
+
+[netlify.toml](https://github.com/vitejs/vite/blob/main/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[netlify.toml](https://github.com/vitejs/vite/blob/main/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[chore: use node v22 on netlify (](https://github.com/vitejs/vite/commit/e6c2754f41d360f96a1a09bba59aa0d6d348b41a "chore: use node v22 on netlify (#19041)")[#19041](https://github.com/vitejs/vite/pull/19041)[)](https://github.com/vitejs/vite/commit/e6c2754f41d360f96a1a09bba59aa0d6d348b41a "chore: use node v22 on netlify (#19041)")
+
+
+
+ | 
+
+Dec 24, 2024
+
+ |
+| 
+
+[package.json](https://github.com/vitejs/vite/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/vitejs/vite/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[fix(deps): update all non-major dependencies (](https://github.com/vitejs/vite/commit/8639538e6498d1109da583ad942c1472098b5919 "fix(deps): update all non-major dependencies (#19098)
+Co-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>")[#19098](https://github.com/vitejs/vite/pull/19098)[)](https://github.com/vitejs/vite/commit/8639538e6498d1109da583ad942c1472098b5919 "fix(deps): update all non-major dependencies (#19098)
+Co-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>")
+
+
+
+ | 
+
+Jan 7, 2025
+
+ |
+| 
+
+[pnpm-lock.yaml](https://github.com/vitejs/vite/blob/main/pnpm-lock.yaml "pnpm-lock.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pnpm-lock.yaml](https://github.com/vitejs/vite/blob/main/pnpm-lock.yaml "pnpm-lock.yaml")
+
+
+
+
+
+
+
+ | 
+
+[fix: verify token for HMR WebSocket connection](https://github.com/vitejs/vite/commit/029dcd6d77d3e3ef10bc38e9a0829784d9760fdb "fix: verify token for HMR WebSocket connection")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[pnpm-workspace.yaml](https://github.com/vitejs/vite/blob/main/pnpm-workspace.yaml "pnpm-workspace.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pnpm-workspace.yaml](https://github.com/vitejs/vite/blob/main/pnpm-workspace.yaml "pnpm-workspace.yaml")
+
+
+
+
+
+
+
+ | 
+
+[docs: add](https://github.com/vitejs/vite/commit/6f8a3206653127a1ca9e20880af117d3a7c4fadc "docs: add `@shikiji/vitepress-twoslash` (#16168)") ``[@shikiji/vitepress-twoslash](https://github.com/vitejs/vite/commit/6f8a3206653127a1ca9e20880af117d3a7c4fadc "docs: add `@shikiji/vitepress-twoslash` (#16168)")`` [(](https://github.com/vitejs/vite/commit/6f8a3206653127a1ca9e20880af117d3a7c4fadc "docs: add `@shikiji/vitepress-twoslash` (#16168)")[#16168](https://github.com/vitejs/vite/pull/16168)[)](https://github.com/vitejs/vite/commit/6f8a3206653127a1ca9e20880af117d3a7c4fadc "docs: add `@shikiji/vitepress-twoslash` (#16168)")
+
+
+
+ | 
+
+Mar 15, 2024
+
+ |
+| 
+
+[vitest.config.e2e.ts](https://github.com/vitejs/vite/blob/main/vitest.config.e2e.ts "vitest.config.e2e.ts")
+
+
+
+
+
+
+
+ | 
+
+[vitest.config.e2e.ts](https://github.com/vitejs/vite/blob/main/vitest.config.e2e.ts "vitest.config.e2e.ts")
+
+
+
+
+
+
+
+ | 
+
+[chore: reduce diffs with v6 branch (](https://github.com/vitejs/vite/commit/bf9065aa13da6a519014c3bc1d34cfb1cb49ccca "chore: reduce diffs with v6 branch (#17942)")[#17942](https://github.com/vitejs/vite/pull/17942)[)](https://github.com/vitejs/vite/commit/bf9065aa13da6a519014c3bc1d34cfb1cb49ccca "chore: reduce diffs with v6 branch (#17942)")
+
+
+
+ | 
+
+Aug 24, 2024
+
+ |
+| 
+
+[vitest.config.ts](https://github.com/vitejs/vite/blob/main/vitest.config.ts "vitest.config.ts")
+
+
+
+
+
+
+
+ | 
+
+[vitest.config.ts](https://github.com/vitejs/vite/blob/main/vitest.config.ts "vitest.config.ts")
+
+
+
+
+
+
+
+ | 
+
+[feat: Environment API (](https://github.com/vitejs/vite/commit/242f550eb46c93896fca6b55495578921e29a8af "feat: Environment API (#16471)
+Co-authored-by: Hiroshi Ogawa <hi.ogawa.zz@gmail.com>
+Co-authored-by: Dario Piotrowicz <dario.piotrowicz@gmail.com>
+Co-authored-by: Vladimir Sheremet <sleuths.slews0s@icloud.com>
+Co-authored-by: Arnaud Barré <arnaud.barre@carbometrix.com>
+Co-authored-by: Anthony Fu <github@antfu.me>
+Co-authored-by: Dominik G <dominik.goepel@gmx.de>
+Co-authored-by: Igor Minar <i@igor.dev>
+Co-authored-by: Viktor Lázár <lazarv1982@gmail.com>
+Co-authored-by: Joaquín Sánchez <userquin@gmail.com>
+Co-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>
+Co-authored-by: bluwy <bjornlu.dev@gmail.com>")[#16471](https://github.com/vitejs/vite/pull/16471)[)](https://github.com/vitejs/vite/commit/242f550eb46c93896fca6b55495578921e29a8af "feat: Environment API (#16471)
+Co-authored-by: Hiroshi Ogawa <hi.ogawa.zz@gmail.com>
+Co-authored-by: Dario Piotrowicz <dario.piotrowicz@gmail.com>
+Co-authored-by: Vladimir Sheremet <sleuths.slews0s@icloud.com>
+Co-authored-by: Arnaud Barré <arnaud.barre@carbometrix.com>
+Co-authored-by: Anthony Fu <github@antfu.me>
+Co-authored-by: Dominik G <dominik.goepel@gmx.de>
+Co-authored-by: Igor Minar <i@igor.dev>
+Co-authored-by: Viktor Lázár <lazarv1982@gmail.com>
+Co-authored-by: Joaquín Sánchez <userquin@gmail.com>
+Co-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>
+Co-authored-by: bluwy <bjornlu.dev@gmail.com>")
+
+
+
+ | 
+
+Sep 4, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/vitejs/vite?screenshot=true#)
+*   [Code of conduct](https://github.com/vitejs/vite?screenshot=true#)
+*   [MIT license](https://github.com/vitejs/vite?screenshot=true#)
+*   [Security](https://github.com/vitejs/vite?screenshot=true#)
+
+[![Image 51: Vite logo](https://camo.githubusercontent.com/237e20be5fcfd8f7133f43d126fc49fb29dec7631679938bdd2ecb8cbb2a610e/68747470733a2f2f766974652e6465762f6c6f676f2e737667)](https://vite.dev/)
+
+  
+[![Image 52: npm package](https://camo.githubusercontent.com/0cab233b90a847d35af7e7baa2b2bf5fdc56153550eead9ac280e96d6aea7774/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f766974652e737667)](https://npmjs.com/package/vite) [![Image 53: node compatibility](https://camo.githubusercontent.com/54fb3397a349d4c937f8cb66f5093c7ec856f461a383e7454b79a77ce027a8b3/68747470733a2f2f696d672e736869656c64732e696f2f6e6f64652f762f766974652e737667)](https://nodejs.org/en/about/previous-releases) [![Image 54: build status](https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vitejs/vite/actions/workflows/ci.yml) [![Image 55: Start new PR in StackBlitz Codeflow](https://camo.githubusercontent.com/957328f6f3354bdbbe075da7d68da2fce390c1031492ed9e99a1dba9519a5d11/68747470733a2f2f646576656c6f7065722e737461636b626c69747a2e636f6d2f696d672f73746172745f70725f6461726b5f736d616c6c2e737667)](https://pr.new/vitejs/vite) [![Image 56: discord chat](https://camo.githubusercontent.com/24662a7ddea754b6d2cf7aa7e97af6dcc4c262e899fd3369994e6fda61faf8a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d646973636f72642d626c75653f7374796c653d666c6174266c6f676f3d646973636f7264)](https://chat.vite.dev/)
+
+  
+
+Vite ⚡
+======
+
+[](https://github.com/vitejs/vite?screenshot=true#vite-)
+
+> Next Generation Frontend Tooling
+
+*   💡 Instant Server Start
+*   ⚡️ Lightning Fast HMR
+*   🛠️ Rich Features
+*   📦 Optimized Build
+*   🔩 Universal Plugin Interface
+*   🔑 Fully Typed APIs
+
+Vite (French word for "quick", pronounced [`/vit/`](https://cdn.jsdelivr.net/gh/vitejs/vite@main/docs/public/vite.mp3), like "veet") is a new breed of frontend build tooling that significantly improves the frontend development experience. It consists of two major parts:
+
+*   A dev server that serves your source files over [native ES modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules), with [rich built-in features](https://vite.dev/guide/features.html) and astonishingly fast [Hot Module Replacement (HMR)](https://vite.dev/guide/features.html#hot-module-replacement).
+    
+*   A [build command](https://vite.dev/guide/build.html) that bundles your code with [Rollup](https://rollupjs.org/), pre-configured to output highly optimized static assets for production.
+    
+
+In addition, Vite is highly extensible via its [Plugin API](https://vite.dev/guide/api-plugin.html) and [JavaScript API](https://vite.dev/guide/api-javascript.html) with full typing support.
+
+[Read the Docs to Learn More](https://vite.dev/).
+
+Packages
+--------
+
+[](https://github.com/vitejs/vite?screenshot=true#packages)
+
+| Package | Version (click for changelogs) |
+| --- | :-- |
+| [vite](https://github.com/vitejs/vite/blob/main/packages/vite) | [![Image 57: vite version](https://camo.githubusercontent.com/3f80131d1f6fae98e46891dd20eab87d54e5aa63091bbf9ebd2a206e97b465ae/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f766974652e7376673f6c6162656c3d253230)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md) |
+| [@vitejs/plugin-legacy](https://github.com/vitejs/vite/blob/main/packages/plugin-legacy) | [![Image 58: plugin-legacy version](https://camo.githubusercontent.com/f260436117a14574f740c3205217f72909ad7e5b6929d5b803a0e07e3c71c4bc/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40766974656a732f706c7567696e2d6c65676163792e7376673f6c6162656c3d253230)](https://github.com/vitejs/vite/blob/main/packages/plugin-legacy/CHANGELOG.md) |
+| [create-vite](https://github.com/vitejs/vite/blob/main/packages/create-vite) | [![Image 59: create-vite version](https://camo.githubusercontent.com/38f62d30ff78a9e126d11e34d8e75788a79d318dad907751392dfb88af58d970/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f6372656174652d766974652e7376673f6c6162656c3d253230)](https://github.com/vitejs/vite/blob/main/packages/create-vite/CHANGELOG.md) |
+
+Contribution
+------------
+
+[](https://github.com/vitejs/vite?screenshot=true#contribution)
+
+See [Contributing Guide](https://github.com/vitejs/vite/blob/main/CONTRIBUTING.md).
+
+License
+-------
+
+[](https://github.com/vitejs/vite?screenshot=true#license)
+
+[MIT](https://github.com/vitejs/vite/blob/main/LICENSE).
+
+Sponsors
+--------
+
+[](https://github.com/vitejs/vite?screenshot=true#sponsors)
+
+[![Image 60: sponsors](https://camo.githubusercontent.com/1be32d3b9e17fd090eee5acc3975d3d18c7eadb26bb34023bd8cc163061c5840/68747470733a2f2f73706f6e736f72732e7675656a732e6f72672f766974652e7376673f7632)](https://github.com/sponsors/yyx990803)
+
+About
+-----
+
+Next generation frontend tooling. It's fast!
+
+[vite.dev](http://vite.dev/ "http://vite.dev")
+
+### Topics
+
+[frontend](https://github.com/topics/frontend "Topic: frontend") [hmr](https://github.com/topics/hmr "Topic: hmr") [dev-server](https://github.com/topics/dev-server "Topic: dev-server") [build-tool](https://github.com/topics/build-tool "Topic: build-tool") [vite](https://github.com/topics/vite "Topic: vite")
+
+### Resources
+
+[Readme](https://github.com/vitejs/vite?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/vitejs/vite?screenshot=true#MIT-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/vitejs/vite?screenshot=true#coc-ov-file)
+
+### Security policy
+
+[Security policy](https://github.com/vitejs/vite?screenshot=true#security-ov-file)
+
+[Activity](https://github.com/vitejs/vite/activity)
+
+[Custom properties](https://github.com/vitejs/vite/custom-properties)
+
+### Stars
+
+[**70.1k** stars](https://github.com/vitejs/vite/stargazers)
+
+### Watchers
+
+[**433** watching](https://github.com/vitejs/vite/watchers)
+
+### Forks
+
+[**6.4k** forks](https://github.com/vitejs/vite/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fvitejs%2Fvite&report=vitejs+%28user%29)
+
+[Releases 509](https://github.com/vitejs/vite/releases)
+-------------------------------------------------------
+
+[v6.0.9 Latest Jan 20, 2025](https://github.com/vitejs/vite/releases/tag/v6.0.9)
+
+[\+ 508 releases](https://github.com/vitejs/vite/releases)
+
+Sponsor this project
+--------------------
+
+*    [![Image 61: @vitejs](https://avatars.githubusercontent.com/u/65625612?s=64&v=4)](https://github.com/vitejs)[**vitejs** Vite](https://github.com/vitejs)[](https://github.com/sponsors/vitejs)
+
+*    ![Image 62: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)[opencollective.com/**vite**](https://opencollective.com/vite)
+
+[Learn more about GitHub Sponsors](https://github.com/sponsors)
+
+[Packages 0](https://github.com/orgs/vitejs/packages?repo_name=vite)
+--------------------------------------------------------------------
+
+No packages published  
+
+[Used by 7.3m](https://github.com/vitejs/vite/network/dependents)
+-----------------------------------------------------------------
+
+[* ![Image 63: @ruitingm](https://avatars.githubusercontent.com/u/78056622?s=64&v=4) * ![Image 64: @sinaibnamin](https://avatars.githubusercontent.com/u/39765231?s=64&v=4) * ![Image 65: @rajnish-oss](https://avatars.githubusercontent.com/u/189872487?s=64&v=4) * ![Image 66: @xzhHas](https://avatars.githubusercontent.com/u/123355440?s=64&v=4) * ![Image 67: @i-am-Sirius-Black](https://avatars.githubusercontent.com/u/57246596?s=64&v=4) * ![Image 68: @RamisaFatima2005](https://avatars.githubusercontent.com/u/163189004?s=64&v=4) * ![Image 69: @M-anisha-coder](https://avatars.githubusercontent.com/u/66690707?s=64&v=4) * ![Image 70: @poudelalina86](https://avatars.githubusercontent.com/u/157300402?s=64&v=4) \+ 7,280,330](https://github.com/vitejs/vite/network/dependents)
+
+[Contributors 1,067](https://github.com/vitejs/vite/graphs/contributors)
+------------------------------------------------------------------------
+
+*   [![Image 71: @yyx990803](https://avatars.githubusercontent.com/u/499550?s=64&v=4)](https://github.com/yyx990803)
+*   [![Image 72: @patak-dev](https://avatars.githubusercontent.com/u/583075?s=64&v=4)](https://github.com/patak-dev)
+*   [![Image 73: @sapphi-red](https://avatars.githubusercontent.com/u/49056869?s=64&v=4)](https://github.com/sapphi-red)
+*   [![Image 74: @bluwy](https://avatars.githubusercontent.com/u/34116392?s=64&v=4)](https://github.com/bluwy)
+*   [![Image 75: @renovate[bot]](https://avatars.githubusercontent.com/in/2740?s=64&v=4)](https://github.com/apps/renovate)
+*   [![Image 76: @antfu](https://avatars.githubusercontent.com/u/11247099?s=64&v=4)](https://github.com/antfu)
+*   [![Image 77: @underfin](https://avatars.githubusercontent.com/u/14008915?s=64&v=4)](https://github.com/underfin)
+*   [![Image 78: @btea](https://avatars.githubusercontent.com/u/24516654?s=64&v=4)](https://github.com/btea)
+*   [![Image 79: @Shinigami92](https://avatars.githubusercontent.com/u/7195563?s=64&v=4)](https://github.com/Shinigami92)
+*   [![Image 80: @aleclarson](https://avatars.githubusercontent.com/u/1925840?s=64&v=4)](https://github.com/aleclarson)
+*   [![Image 81: @benmccann](https://avatars.githubusercontent.com/u/322311?s=64&v=4)](https://github.com/benmccann)
+*   [![Image 82: @poyoho](https://avatars.githubusercontent.com/u/36070057?s=64&v=4)](https://github.com/poyoho)
+*   [![Image 83: @ArnaudBarre](https://avatars.githubusercontent.com/u/14235743?s=64&v=4)](https://github.com/ArnaudBarre)
+*   [![Image 84: @hi-ogawa](https://avatars.githubusercontent.com/u/4232207?s=64&v=4)](https://github.com/hi-ogawa)
+
+[\+ 1,053 contributors](https://github.com/vitejs/vite/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 83.2%](https://github.com/vitejs/vite/search?l=typescript)
+*   [JavaScript 9.9%](https://github.com/vitejs/vite/search?l=javascript)
+*   [HTML 5.1%](https://github.com/vitejs/vite/search?l=html)
+*   [CSS 1.3%](https://github.com/vitejs/vite/search?l=css)
+*   [Vue 0.2%](https://github.com/vitejs/vite/search?l=vue)
+*   [AppleScript 0.1%](https://github.com/vitejs/vite/search?l=applescript)
+*   Other 0.2%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - vitejs/vite: Next generation frontend tooling. It's fast!",
+  "description": "Next generation frontend tooling. It's fast! Contribute to vitejs/vite development by creating an account on GitHub.",
+  "url": "https://github.com/vitejs/vite?screenshot=true",
+  "content": "GitHub - vitejs/vite: Next generation frontend tooling. It's fast!\n===============\n                                           \n\n[Skip to content](https://github.com/vitejs/vite?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvitejs%2Fvite%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvitejs%2Fvite%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=vitejs%2Fvite) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[vitejs](https://github.com/vitejs) / **[vite](https://github.com/vitejs/vite)** Public\n\n*   Sponsor\n    \n    Sponsor vitejs/vite\n    ===================\n    \n    ##### GitHub Sponsors\n    \n    [Learn more about Sponsors](https://github.com/sponsors)\n    \n    [![Image 48: @vitejs](https://avatars.githubusercontent.com/u/65625612?s=80&v=4)](https://github.com/vitejs)\n    \n    [vitejs](https://github.com/vitejs)\n    \n    [vitejs](https://github.com/vitejs)\n    \n    [Sponsor](https://github.com/sponsors/vitejs)\n    \n    ##### External links\n    \n    ![Image 49: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)\n    \n    [opencollective.com/**vite**](https://opencollective.com/vite)\n    \n    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).\n    \n    [Report abuse](https://github.com/contact/report-abuse?report=vitejs%2Fvite+%28Repository+Funding+Links%29)\n    \n*   [Notifications](https://github.com/login?return_to=%2Fvitejs%2Fvite) You must be signed in to change notification settings\n*   [Fork 6.4k](https://github.com/login?return_to=%2Fvitejs%2Fvite)\n*   [Star 70.1k](https://github.com/login?return_to=%2Fvitejs%2Fvite)\n    \n\nNext generation frontend tooling. It's fast!\n\n[vite.dev](http://vite.dev/ \"http://vite.dev\")\n\n### License\n\n[MIT license](https://github.com/vitejs/vite/blob/main/LICENSE)\n\n[70.1k stars](https://github.com/vitejs/vite/stargazers) [6.4k forks](https://github.com/vitejs/vite/forks) [Branches](https://github.com/vitejs/vite/branches) [Tags](https://github.com/vitejs/vite/tags) [Activity](https://github.com/vitejs/vite/activity)\n\n[Star](https://github.com/login?return_to=%2Fvitejs%2Fvite)\n\n[Notifications](https://github.com/login?return_to=%2Fvitejs%2Fvite) You must be signed in to change notification settings\n\n*   [Code](https://github.com/vitejs/vite)\n*   [Issues 464](https://github.com/vitejs/vite/issues)\n*   [Pull requests 178](https://github.com/vitejs/vite/pulls)\n*   [Discussions](https://github.com/vitejs/vite/discussions)\n*   [Actions](https://github.com/vitejs/vite/actions)\n*   [Projects 1](https://github.com/vitejs/vite/projects)\n*   [Security 7](https://github.com/vitejs/vite/security)\n*   [Insights](https://github.com/vitejs/vite/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/vitejs/vite)\n*   [Issues](https://github.com/vitejs/vite/issues)\n*   [Pull requests](https://github.com/vitejs/vite/pulls)\n*   [Discussions](https://github.com/vitejs/vite/discussions)\n*   [Actions](https://github.com/vitejs/vite/actions)\n*   [Projects](https://github.com/vitejs/vite/projects)\n*   [Security](https://github.com/vitejs/vite/security)\n*   [Insights](https://github.com/vitejs/vite/pulse)\n\nvitejs/vite\n===========\n\n  \n\n main\n\n[**52** Branches](https://github.com/vitejs/vite/branches)[**836** Tags](https://github.com/vitejs/vite/tags)\n\n[](https://github.com/vitejs/vite/branches)[](https://github.com/vitejs/vite/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 50: sapphi-red](https://avatars.githubusercontent.com/u/49056869?v=4&size=40)](https://github.com/sapphi-red)[sapphi-red](https://github.com/vitejs/vite/commits?author=sapphi-red)\n\n[release: v6.0.9](https://github.com/vitejs/vite/commit/a55f8ba3e43108de340610d4d021dcd926be5876)\n\nJan 20, 2025\n\n[a55f8ba](https://github.com/vitejs/vite/commit/a55f8ba3e43108de340610d4d021dcd926be5876) · Jan 20, 2025\n\nHistory\n-------\n\n[7,443 Commits](https://github.com/vitejs/vite/commits/main/)\n\n[](https://github.com/vitejs/vite/commits/main/)\n\n\n\n\n\n\n\n |\n| \n\n[.github](https://github.com/vitejs/vite/tree/main/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[.github](https://github.com/vitejs/vite/tree/main/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[fix(deps): update all non-major dependencies (](https://github.com/vitejs/vite/commit/8639538e6498d1109da583ad942c1472098b5919 \"fix(deps): update all non-major dependencies (#19098)\nCo-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>\")[#19098](https://github.com/vitejs/vite/pull/19098)[)](https://github.com/vitejs/vite/commit/8639538e6498d1109da583ad942c1472098b5919 \"fix(deps): update all non-major dependencies (#19098)\nCo-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>\")\n\n\n\n | \n\nJan 7, 2025\n\n |\n| \n\n[.stackblitz](https://github.com/vitejs/vite/tree/main/.stackblitz \".stackblitz\")\n\n\n\n\n\n\n\n | \n\n[.stackblitz](https://github.com/vitejs/vite/tree/main/.stackblitz \".stackblitz\")\n\n\n\n\n\n\n\n | \n\n[chore: add plugin-legacy override to codeflow config (](https://github.com/vitejs/vite/commit/e701277b5fc402a8ad9da363472a4c8da2533d55 \"chore: add plugin-legacy override to codeflow config (#12229)\")[#12229](https://github.com/vitejs/vite/pull/12229)[)](https://github.com/vitejs/vite/commit/e701277b5fc402a8ad9da363472a4c8da2533d55 \"chore: add plugin-legacy override to codeflow config (#12229)\")\n\n\n\n | \n\nFeb 28, 2023\n\n |\n| \n\n[docs](https://github.com/vitejs/vite/tree/main/docs \"docs\")\n\n\n\n\n\n\n\n | \n\n[docs](https://github.com/vitejs/vite/tree/main/docs \"docs\")\n\n\n\n\n\n\n\n | \n\n[fix!: check host header to prevent DNS rebinding attacks and introduc…](https://github.com/vitejs/vite/commit/bd896fb5f312fc0ff1730166d1d142fc0d34ba6d \"fix!: check host header to prevent DNS rebinding attacks and introduce `server.allowedHosts`\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\n[packages](https://github.com/vitejs/vite/tree/main/packages \"packages\")\n\n\n\n\n\n\n\n | \n\n[packages](https://github.com/vitejs/vite/tree/main/packages \"packages\")\n\n\n\n\n\n\n\n | \n\n[release: v6.0.9](https://github.com/vitejs/vite/commit/a55f8ba3e43108de340610d4d021dcd926be5876 \"release: v6.0.9\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\n[patches](https://github.com/vitejs/vite/tree/main/patches \"patches\")\n\n\n\n\n\n\n\n | \n\n[patches](https://github.com/vitejs/vite/tree/main/patches \"patches\")\n\n\n\n\n\n\n\n | \n\n[revert: use chokidar v3 (](https://github.com/vitejs/vite/commit/49783da298bc45f3f3c5ad4ce2fb1260ee8856bb \"revert: use chokidar v3 (#18659)\")[#18659](https://github.com/vitejs/vite/pull/18659)[)](https://github.com/vitejs/vite/commit/49783da298bc45f3f3c5ad4ce2fb1260ee8856bb \"revert: use chokidar v3 (#18659)\")\n\n\n\n | \n\nNov 14, 2024\n\n |\n| \n\n[playground](https://github.com/vitejs/vite/tree/main/playground \"playground\")\n\n\n\n\n\n\n\n | \n\n[playground](https://github.com/vitejs/vite/tree/main/playground \"playground\")\n\n\n\n\n\n\n\n | \n\n[fix!: check host header to prevent DNS rebinding attacks and introduc…](https://github.com/vitejs/vite/commit/bd896fb5f312fc0ff1730166d1d142fc0d34ba6d \"fix!: check host header to prevent DNS rebinding attacks and introduce `server.allowedHosts`\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\n[scripts](https://github.com/vitejs/vite/tree/main/scripts \"scripts\")\n\n\n\n\n\n\n\n | \n\n[scripts](https://github.com/vitejs/vite/tree/main/scripts \"scripts\")\n\n\n\n\n\n\n\n | \n\n[revert: update moduleResolution value casing (](https://github.com/vitejs/vite/commit/b0fc6e3c2591a30360d3714263cf7cc0e2acbfdf \"revert: update moduleResolution value casing (#18409) (#18774)\")[#18409](https://github.com/vitejs/vite/pull/18409)[) (](https://github.com/vitejs/vite/commit/b0fc6e3c2591a30360d3714263cf7cc0e2acbfdf \"revert: update moduleResolution value casing (#18409) (#18774)\")[#18774](https://github.com/vitejs/vite/pull/18774)[)](https://github.com/vitejs/vite/commit/b0fc6e3c2591a30360d3714263cf7cc0e2acbfdf \"revert: update moduleResolution value casing (#18409) (#18774)\")\n\n\n\n | \n\nNov 26, 2024\n\n |\n| \n\n[.editorconfig](https://github.com/vitejs/vite/blob/main/.editorconfig \".editorconfig\")\n\n\n\n\n\n\n\n | \n\n[.editorconfig](https://github.com/vitejs/vite/blob/main/.editorconfig \".editorconfig\")\n\n\n\n\n\n\n\n | \n\n[chore: enforce LF line endings in the repository (](https://github.com/vitejs/vite/commit/1bf759daea0edbce60534faa9c320098b19e8b41 \"chore: enforce LF line endings in the repository (#5092)\")[#5092](https://github.com/vitejs/vite/pull/5092)[)](https://github.com/vitejs/vite/commit/1bf759daea0edbce60534faa9c320098b19e8b41 \"chore: enforce LF line endings in the repository (#5092)\")\n\n\n\n | \n\nSep 26, 2021\n\n |\n| \n\n[.git-blame-ignore-revs](https://github.com/vitejs/vite/blob/main/.git-blame-ignore-revs \".git-blame-ignore-revs\")\n\n\n\n\n\n\n\n | \n\n[.git-blame-ignore-revs](https://github.com/vitejs/vite/blob/main/.git-blame-ignore-revs \".git-blame-ignore-revs\")\n\n\n\n\n\n\n\n | \n\n[chore: add .git-blame-ignore-revs (](https://github.com/vitejs/vite/commit/b27eba38670eea3f7041a9b0fa3c277668ec5204 \"chore: add .git-blame-ignore-revs (#11212)\")[#11212](https://github.com/vitejs/vite/pull/11212)[)](https://github.com/vitejs/vite/commit/b27eba38670eea3f7041a9b0fa3c277668ec5204 \"chore: add .git-blame-ignore-revs (#11212)\")\n\n\n\n | \n\nDec 6, 2022\n\n |\n| \n\n[.gitattributes](https://github.com/vitejs/vite/blob/main/.gitattributes \".gitattributes\")\n\n\n\n\n\n\n\n | \n\n[.gitattributes](https://github.com/vitejs/vite/blob/main/.gitattributes \".gitattributes\")\n\n\n\n\n\n\n\n | \n\n[chore: enforce LF line endings in the repository (](https://github.com/vitejs/vite/commit/1bf759daea0edbce60534faa9c320098b19e8b41 \"chore: enforce LF line endings in the repository (#5092)\")[#5092](https://github.com/vitejs/vite/pull/5092)[)](https://github.com/vitejs/vite/commit/1bf759daea0edbce60534faa9c320098b19e8b41 \"chore: enforce LF line endings in the repository (#5092)\")\n\n\n\n | \n\nSep 26, 2021\n\n |\n| \n\n[.gitignore](https://github.com/vitejs/vite/blob/main/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/vitejs/vite/blob/main/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[chore(deps): update eslint-define-config (](https://github.com/vitejs/vite/commit/88be6140a53d77c0343a6da5ab67ae04abfe0c7c \"chore(deps): update eslint-define-config (#15026)\")[#15026](https://github.com/vitejs/vite/pull/15026)[)](https://github.com/vitejs/vite/commit/88be6140a53d77c0343a6da5ab67ae04abfe0c7c \"chore(deps): update eslint-define-config (#15026)\")\n\n\n\n | \n\nNov 21, 2023\n\n |\n| \n\n[.npmrc](https://github.com/vitejs/vite/blob/main/.npmrc \".npmrc\")\n\n\n\n\n\n\n\n | \n\n[.npmrc](https://github.com/vitejs/vite/blob/main/.npmrc \".npmrc\")\n\n\n\n\n\n\n\n | \n\n[chore(deps)!: update postcss-load-config to v6 (](https://github.com/vitejs/vite/commit/3a27f627df278f6c9778a55f44cb347665b65204 \"chore(deps)!: update postcss-load-config to v6 (#15235)\nCo-authored-by: bluwy <bjornlu.dev@gmail.com>\nCo-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>\")[#15235](https://github.com/vitejs/vite/pull/15235)[)](https://github.com/vitejs/vite/commit/3a27f627df278f6c9778a55f44cb347665b65204 \"chore(deps)!: update postcss-load-config to v6 (#15235)\nCo-authored-by: bluwy <bjornlu.dev@gmail.com>\nCo-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>\")\n\n\n\n | \n\nOct 28, 2024\n\n |\n| \n\n[.prettierignore](https://github.com/vitejs/vite/blob/main/.prettierignore \".prettierignore\")\n\n\n\n\n\n\n\n | \n\n[.prettierignore](https://github.com/vitejs/vite/blob/main/.prettierignore \".prettierignore\")\n\n\n\n\n\n\n\n | \n\n[fix(css): skip non css in custom sass importer (](https://github.com/vitejs/vite/commit/21680bdf9ca7c12f677136b56e47f46469db8be2 \"fix(css): skip non css in custom sass importer (#18970)\nCo-authored-by: 翠 / green <green@sapphi.red>\")[#18970](https://github.com/vitejs/vite/pull/18970)[)](https://github.com/vitejs/vite/commit/21680bdf9ca7c12f677136b56e47f46469db8be2 \"fix(css): skip non css in custom sass importer (#18970)\nCo-authored-by: 翠 / green <green@sapphi.red>\")\n\n\n\n | \n\nDec 17, 2024\n\n |\n| \n\n[.prettierrc.json](https://github.com/vitejs/vite/blob/main/.prettierrc.json \".prettierrc.json\")\n\n\n\n\n\n\n\n | \n\n[.prettierrc.json](https://github.com/vitejs/vite/blob/main/.prettierrc.json \".prettierrc.json\")\n\n\n\n\n\n\n\n | \n\n[chore(deps): update dependency prettier to v3 (](https://github.com/vitejs/vite/commit/5a56941a895fd0ffdbdbf0094336fb7f0f4099c1 \"chore(deps): update dependency prettier to v3 (#13759)\nCo-authored-by: Arnaud Barré <arnaud.barre@carbometrix.com>\")[#13759](https://github.com/vitejs/vite/pull/13759)[)](https://github.com/vitejs/vite/commit/5a56941a895fd0ffdbdbf0094336fb7f0f4099c1 \"chore(deps): update dependency prettier to v3 (#13759)\nCo-authored-by: Arnaud Barré <arnaud.barre@carbometrix.com>\")\n\n\n\n | \n\nJul 19, 2023\n\n |\n| \n\n[CODE\\_OF\\_CONDUCT.md](https://github.com/vitejs/vite/blob/main/CODE_OF_CONDUCT.md \"CODE_OF_CONDUCT.md\")\n\n\n\n\n\n\n\n | \n\n[CODE\\_OF\\_CONDUCT.md](https://github.com/vitejs/vite/blob/main/CODE_OF_CONDUCT.md \"CODE_OF_CONDUCT.md\")\n\n\n\n\n\n\n\n | \n\n[chore: update all url references of vitejs.dev to vite.dev (](https://github.com/vitejs/vite/commit/7052c8f6fc253f0a88ff04a4c18c108f3bfdaa78 \"chore: update all url references of vitejs.dev to vite.dev (#18276)\")[#18276](https://github.com/vitejs/vite/pull/18276)[)](https://github.com/vitejs/vite/commit/7052c8f6fc253f0a88ff04a4c18c108f3bfdaa78 \"chore: update all url references of vitejs.dev to vite.dev (#18276)\")\n\n\n\n | \n\nOct 4, 2024\n\n |\n| \n\n[CONTRIBUTING.md](https://github.com/vitejs/vite/blob/main/CONTRIBUTING.md \"CONTRIBUTING.md\")\n\n\n\n\n\n\n\n | \n\n[CONTRIBUTING.md](https://github.com/vitejs/vite/blob/main/CONTRIBUTING.md \"CONTRIBUTING.md\")\n\n\n\n\n\n\n\n | \n\n[chore: update contributing.md vite version (](https://github.com/vitejs/vite/commit/81c31c16d10bff48c9965f7aedbf7efb7c7022c4 \"chore: update contributing.md vite version (#18866)\")[#18866](https://github.com/vitejs/vite/pull/18866)[)](https://github.com/vitejs/vite/commit/81c31c16d10bff48c9965f7aedbf7efb7c7022c4 \"chore: update contributing.md vite version (#18866)\")\n\n\n\n | \n\nDec 3, 2024\n\n |\n| \n\n[LICENSE](https://github.com/vitejs/vite/blob/main/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[LICENSE](https://github.com/vitejs/vite/blob/main/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[chore: update license copyright (](https://github.com/vitejs/vite/commit/56eb869a67551a257d20cba00016ea59b1e1a2c4 \"chore: update license copyright (#18278)\")[#18278](https://github.com/vitejs/vite/pull/18278)[)](https://github.com/vitejs/vite/commit/56eb869a67551a257d20cba00016ea59b1e1a2c4 \"chore: update license copyright (#18278)\")\n\n\n\n | \n\nOct 4, 2024\n\n |\n| \n\n[README.md](https://github.com/vitejs/vite/blob/main/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/vitejs/vite/blob/main/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[chore: update all url references of vitejs.dev to vite.dev (](https://github.com/vitejs/vite/commit/7052c8f6fc253f0a88ff04a4c18c108f3bfdaa78 \"chore: update all url references of vitejs.dev to vite.dev (#18276)\")[#18276](https://github.com/vitejs/vite/pull/18276)[)](https://github.com/vitejs/vite/commit/7052c8f6fc253f0a88ff04a4c18c108f3bfdaa78 \"chore: update all url references of vitejs.dev to vite.dev (#18276)\")\n\n\n\n | \n\nOct 4, 2024\n\n |\n| \n\n[eslint.config.js](https://github.com/vitejs/vite/blob/main/eslint.config.js \"eslint.config.js\")\n\n\n\n\n\n\n\n | \n\n[eslint.config.js](https://github.com/vitejs/vite/blob/main/eslint.config.js \"eslint.config.js\")\n\n\n\n\n\n\n\n | \n\n[feat(css): add more stricter typing of lightningcss (](https://github.com/vitejs/vite/commit/b9b925eb3f911ab63972124dc8ab0455449b925d \"feat(css): add more stricter typing of lightningcss (#18460)\")[#18460](https://github.com/vitejs/vite/pull/18460)[)](https://github.com/vitejs/vite/commit/b9b925eb3f911ab63972124dc8ab0455449b925d \"feat(css): add more stricter typing of lightningcss (#18460)\")\n\n\n\n | \n\nOct 28, 2024\n\n |\n| \n\n[netlify.toml](https://github.com/vitejs/vite/blob/main/netlify.toml \"netlify.toml\")\n\n\n\n\n\n\n\n | \n\n[netlify.toml](https://github.com/vitejs/vite/blob/main/netlify.toml \"netlify.toml\")\n\n\n\n\n\n\n\n | \n\n[chore: use node v22 on netlify (](https://github.com/vitejs/vite/commit/e6c2754f41d360f96a1a09bba59aa0d6d348b41a \"chore: use node v22 on netlify (#19041)\")[#19041](https://github.com/vitejs/vite/pull/19041)[)](https://github.com/vitejs/vite/commit/e6c2754f41d360f96a1a09bba59aa0d6d348b41a \"chore: use node v22 on netlify (#19041)\")\n\n\n\n | \n\nDec 24, 2024\n\n |\n| \n\n[package.json](https://github.com/vitejs/vite/blob/main/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[package.json](https://github.com/vitejs/vite/blob/main/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[fix(deps): update all non-major dependencies (](https://github.com/vitejs/vite/commit/8639538e6498d1109da583ad942c1472098b5919 \"fix(deps): update all non-major dependencies (#19098)\nCo-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>\")[#19098](https://github.com/vitejs/vite/pull/19098)[)](https://github.com/vitejs/vite/commit/8639538e6498d1109da583ad942c1472098b5919 \"fix(deps): update all non-major dependencies (#19098)\nCo-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>\")\n\n\n\n | \n\nJan 7, 2025\n\n |\n| \n\n[pnpm-lock.yaml](https://github.com/vitejs/vite/blob/main/pnpm-lock.yaml \"pnpm-lock.yaml\")\n\n\n\n\n\n\n\n | \n\n[pnpm-lock.yaml](https://github.com/vitejs/vite/blob/main/pnpm-lock.yaml \"pnpm-lock.yaml\")\n\n\n\n\n\n\n\n | \n\n[fix: verify token for HMR WebSocket connection](https://github.com/vitejs/vite/commit/029dcd6d77d3e3ef10bc38e9a0829784d9760fdb \"fix: verify token for HMR WebSocket connection\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\n[pnpm-workspace.yaml](https://github.com/vitejs/vite/blob/main/pnpm-workspace.yaml \"pnpm-workspace.yaml\")\n\n\n\n\n\n\n\n | \n\n[pnpm-workspace.yaml](https://github.com/vitejs/vite/blob/main/pnpm-workspace.yaml \"pnpm-workspace.yaml\")\n\n\n\n\n\n\n\n | \n\n[docs: add](https://github.com/vitejs/vite/commit/6f8a3206653127a1ca9e20880af117d3a7c4fadc \"docs: add `@shikiji/vitepress-twoslash` (#16168)\") ``[@shikiji/vitepress-twoslash](https://github.com/vitejs/vite/commit/6f8a3206653127a1ca9e20880af117d3a7c4fadc \"docs: add `@shikiji/vitepress-twoslash` (#16168)\")`` [(](https://github.com/vitejs/vite/commit/6f8a3206653127a1ca9e20880af117d3a7c4fadc \"docs: add `@shikiji/vitepress-twoslash` (#16168)\")[#16168](https://github.com/vitejs/vite/pull/16168)[)](https://github.com/vitejs/vite/commit/6f8a3206653127a1ca9e20880af117d3a7c4fadc \"docs: add `@shikiji/vitepress-twoslash` (#16168)\")\n\n\n\n | \n\nMar 15, 2024\n\n |\n| \n\n[vitest.config.e2e.ts](https://github.com/vitejs/vite/blob/main/vitest.config.e2e.ts \"vitest.config.e2e.ts\")\n\n\n\n\n\n\n\n | \n\n[vitest.config.e2e.ts](https://github.com/vitejs/vite/blob/main/vitest.config.e2e.ts \"vitest.config.e2e.ts\")\n\n\n\n\n\n\n\n | \n\n[chore: reduce diffs with v6 branch (](https://github.com/vitejs/vite/commit/bf9065aa13da6a519014c3bc1d34cfb1cb49ccca \"chore: reduce diffs with v6 branch (#17942)\")[#17942](https://github.com/vitejs/vite/pull/17942)[)](https://github.com/vitejs/vite/commit/bf9065aa13da6a519014c3bc1d34cfb1cb49ccca \"chore: reduce diffs with v6 branch (#17942)\")\n\n\n\n | \n\nAug 24, 2024\n\n |\n| \n\n[vitest.config.ts](https://github.com/vitejs/vite/blob/main/vitest.config.ts \"vitest.config.ts\")\n\n\n\n\n\n\n\n | \n\n[vitest.config.ts](https://github.com/vitejs/vite/blob/main/vitest.config.ts \"vitest.config.ts\")\n\n\n\n\n\n\n\n | \n\n[feat: Environment API (](https://github.com/vitejs/vite/commit/242f550eb46c93896fca6b55495578921e29a8af \"feat: Environment API (#16471)\nCo-authored-by: Hiroshi Ogawa <hi.ogawa.zz@gmail.com>\nCo-authored-by: Dario Piotrowicz <dario.piotrowicz@gmail.com>\nCo-authored-by: Vladimir Sheremet <sleuths.slews0s@icloud.com>\nCo-authored-by: Arnaud Barré <arnaud.barre@carbometrix.com>\nCo-authored-by: Anthony Fu <github@antfu.me>\nCo-authored-by: Dominik G <dominik.goepel@gmx.de>\nCo-authored-by: Igor Minar <i@igor.dev>\nCo-authored-by: Viktor Lázár <lazarv1982@gmail.com>\nCo-authored-by: Joaquín Sánchez <userquin@gmail.com>\nCo-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>\nCo-authored-by: bluwy <bjornlu.dev@gmail.com>\")[#16471](https://github.com/vitejs/vite/pull/16471)[)](https://github.com/vitejs/vite/commit/242f550eb46c93896fca6b55495578921e29a8af \"feat: Environment API (#16471)\nCo-authored-by: Hiroshi Ogawa <hi.ogawa.zz@gmail.com>\nCo-authored-by: Dario Piotrowicz <dario.piotrowicz@gmail.com>\nCo-authored-by: Vladimir Sheremet <sleuths.slews0s@icloud.com>\nCo-authored-by: Arnaud Barré <arnaud.barre@carbometrix.com>\nCo-authored-by: Anthony Fu <github@antfu.me>\nCo-authored-by: Dominik G <dominik.goepel@gmx.de>\nCo-authored-by: Igor Minar <i@igor.dev>\nCo-authored-by: Viktor Lázár <lazarv1982@gmail.com>\nCo-authored-by: Joaquín Sánchez <userquin@gmail.com>\nCo-authored-by: sapphi-red <49056869+sapphi-red@users.noreply.github.com>\nCo-authored-by: bluwy <bjornlu.dev@gmail.com>\")\n\n\n\n | \n\nSep 4, 2024\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/vitejs/vite?screenshot=true#)\n*   [Code of conduct](https://github.com/vitejs/vite?screenshot=true#)\n*   [MIT license](https://github.com/vitejs/vite?screenshot=true#)\n*   [Security](https://github.com/vitejs/vite?screenshot=true#)\n\n[![Image 51: Vite logo](https://camo.githubusercontent.com/237e20be5fcfd8f7133f43d126fc49fb29dec7631679938bdd2ecb8cbb2a610e/68747470733a2f2f766974652e6465762f6c6f676f2e737667)](https://vite.dev/)\n\n  \n[![Image 52: npm package](https://camo.githubusercontent.com/0cab233b90a847d35af7e7baa2b2bf5fdc56153550eead9ac280e96d6aea7774/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f766974652e737667)](https://npmjs.com/package/vite) [![Image 53: node compatibility](https://camo.githubusercontent.com/54fb3397a349d4c937f8cb66f5093c7ec856f461a383e7454b79a77ce027a8b3/68747470733a2f2f696d672e736869656c64732e696f2f6e6f64652f762f766974652e737667)](https://nodejs.org/en/about/previous-releases) [![Image 54: build status](https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vitejs/vite/actions/workflows/ci.yml) [![Image 55: Start new PR in StackBlitz Codeflow](https://camo.githubusercontent.com/957328f6f3354bdbbe075da7d68da2fce390c1031492ed9e99a1dba9519a5d11/68747470733a2f2f646576656c6f7065722e737461636b626c69747a2e636f6d2f696d672f73746172745f70725f6461726b5f736d616c6c2e737667)](https://pr.new/vitejs/vite) [![Image 56: discord chat](https://camo.githubusercontent.com/24662a7ddea754b6d2cf7aa7e97af6dcc4c262e899fd3369994e6fda61faf8a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d646973636f72642d626c75653f7374796c653d666c6174266c6f676f3d646973636f7264)](https://chat.vite.dev/)\n\n  \n\nVite ⚡\n======\n\n[](https://github.com/vitejs/vite?screenshot=true#vite-)\n\n> Next Generation Frontend Tooling\n\n*   💡 Instant Server Start\n*   ⚡️ Lightning Fast HMR\n*   🛠️ Rich Features\n*   📦 Optimized Build\n*   🔩 Universal Plugin Interface\n*   🔑 Fully Typed APIs\n\nVite (French word for \"quick\", pronounced [`/vit/`](https://cdn.jsdelivr.net/gh/vitejs/vite@main/docs/public/vite.mp3), like \"veet\") is a new breed of frontend build tooling that significantly improves the frontend development experience. It consists of two major parts:\n\n*   A dev server that serves your source files over [native ES modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules), with [rich built-in features](https://vite.dev/guide/features.html) and astonishingly fast [Hot Module Replacement (HMR)](https://vite.dev/guide/features.html#hot-module-replacement).\n    \n*   A [build command](https://vite.dev/guide/build.html) that bundles your code with [Rollup](https://rollupjs.org/), pre-configured to output highly optimized static assets for production.\n    \n\nIn addition, Vite is highly extensible via its [Plugin API](https://vite.dev/guide/api-plugin.html) and [JavaScript API](https://vite.dev/guide/api-javascript.html) with full typing support.\n\n[Read the Docs to Learn More](https://vite.dev/).\n\nPackages\n--------\n\n[](https://github.com/vitejs/vite?screenshot=true#packages)\n\n| Package | Version (click for changelogs) |\n| --- | :-- |\n| [vite](https://github.com/vitejs/vite/blob/main/packages/vite) | [![Image 57: vite version](https://camo.githubusercontent.com/3f80131d1f6fae98e46891dd20eab87d54e5aa63091bbf9ebd2a206e97b465ae/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f766974652e7376673f6c6162656c3d253230)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md) |\n| [@vitejs/plugin-legacy](https://github.com/vitejs/vite/blob/main/packages/plugin-legacy) | [![Image 58: plugin-legacy version](https://camo.githubusercontent.com/f260436117a14574f740c3205217f72909ad7e5b6929d5b803a0e07e3c71c4bc/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40766974656a732f706c7567696e2d6c65676163792e7376673f6c6162656c3d253230)](https://github.com/vitejs/vite/blob/main/packages/plugin-legacy/CHANGELOG.md) |\n| [create-vite](https://github.com/vitejs/vite/blob/main/packages/create-vite) | [![Image 59: create-vite version](https://camo.githubusercontent.com/38f62d30ff78a9e126d11e34d8e75788a79d318dad907751392dfb88af58d970/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f6372656174652d766974652e7376673f6c6162656c3d253230)](https://github.com/vitejs/vite/blob/main/packages/create-vite/CHANGELOG.md) |\n\nContribution\n------------\n\n[](https://github.com/vitejs/vite?screenshot=true#contribution)\n\nSee [Contributing Guide](https://github.com/vitejs/vite/blob/main/CONTRIBUTING.md).\n\nLicense\n-------\n\n[](https://github.com/vitejs/vite?screenshot=true#license)\n\n[MIT](https://github.com/vitejs/vite/blob/main/LICENSE).\n\nSponsors\n--------\n\n[](https://github.com/vitejs/vite?screenshot=true#sponsors)\n\n[![Image 60: sponsors](https://camo.githubusercontent.com/1be32d3b9e17fd090eee5acc3975d3d18c7eadb26bb34023bd8cc163061c5840/68747470733a2f2f73706f6e736f72732e7675656a732e6f72672f766974652e7376673f7632)](https://github.com/sponsors/yyx990803)\n\nAbout\n-----\n\nNext generation frontend tooling. It's fast!\n\n[vite.dev](http://vite.dev/ \"http://vite.dev\")\n\n### Topics\n\n[frontend](https://github.com/topics/frontend \"Topic: frontend\") [hmr](https://github.com/topics/hmr \"Topic: hmr\") [dev-server](https://github.com/topics/dev-server \"Topic: dev-server\") [build-tool](https://github.com/topics/build-tool \"Topic: build-tool\") [vite](https://github.com/topics/vite \"Topic: vite\")\n\n### Resources\n\n[Readme](https://github.com/vitejs/vite?screenshot=true#readme-ov-file)\n\n### License\n\n[MIT license](https://github.com/vitejs/vite?screenshot=true#MIT-1-ov-file)\n\n### Code of conduct\n\n[Code of conduct](https://github.com/vitejs/vite?screenshot=true#coc-ov-file)\n\n### Security policy\n\n[Security policy](https://github.com/vitejs/vite?screenshot=true#security-ov-file)\n\n[Activity](https://github.com/vitejs/vite/activity)\n\n[Custom properties](https://github.com/vitejs/vite/custom-properties)\n\n### Stars\n\n[**70.1k** stars](https://github.com/vitejs/vite/stargazers)\n\n### Watchers\n\n[**433** watching](https://github.com/vitejs/vite/watchers)\n\n### Forks\n\n[**6.4k** forks](https://github.com/vitejs/vite/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fvitejs%2Fvite&report=vitejs+%28user%29)\n\n[Releases 509](https://github.com/vitejs/vite/releases)\n-------------------------------------------------------\n\n[v6.0.9 Latest Jan 20, 2025](https://github.com/vitejs/vite/releases/tag/v6.0.9)\n\n[\\+ 508 releases](https://github.com/vitejs/vite/releases)\n\nSponsor this project\n--------------------\n\n*    [![Image 61: @vitejs](https://avatars.githubusercontent.com/u/65625612?s=64&v=4)](https://github.com/vitejs)[**vitejs** Vite](https://github.com/vitejs)[](https://github.com/sponsors/vitejs)\n\n*    ![Image 62: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)[opencollective.com/**vite**](https://opencollective.com/vite)\n\n[Learn more about GitHub Sponsors](https://github.com/sponsors)\n\n[Packages 0](https://github.com/orgs/vitejs/packages?repo_name=vite)\n--------------------------------------------------------------------\n\nNo packages published  \n\n[Used by 7.3m](https://github.com/vitejs/vite/network/dependents)\n-----------------------------------------------------------------\n\n[* ![Image 63: @ruitingm](https://avatars.githubusercontent.com/u/78056622?s=64&v=4) * ![Image 64: @sinaibnamin](https://avatars.githubusercontent.com/u/39765231?s=64&v=4) * ![Image 65: @rajnish-oss](https://avatars.githubusercontent.com/u/189872487?s=64&v=4) * ![Image 66: @xzhHas](https://avatars.githubusercontent.com/u/123355440?s=64&v=4) * ![Image 67: @i-am-Sirius-Black](https://avatars.githubusercontent.com/u/57246596?s=64&v=4) * ![Image 68: @RamisaFatima2005](https://avatars.githubusercontent.com/u/163189004?s=64&v=4) * ![Image 69: @M-anisha-coder](https://avatars.githubusercontent.com/u/66690707?s=64&v=4) * ![Image 70: @poudelalina86](https://avatars.githubusercontent.com/u/157300402?s=64&v=4) \\+ 7,280,330](https://github.com/vitejs/vite/network/dependents)\n\n[Contributors 1,067](https://github.com/vitejs/vite/graphs/contributors)\n------------------------------------------------------------------------\n\n*   [![Image 71: @yyx990803](https://avatars.githubusercontent.com/u/499550?s=64&v=4)](https://github.com/yyx990803)\n*   [![Image 72: @patak-dev](https://avatars.githubusercontent.com/u/583075?s=64&v=4)](https://github.com/patak-dev)\n*   [![Image 73: @sapphi-red](https://avatars.githubusercontent.com/u/49056869?s=64&v=4)](https://github.com/sapphi-red)\n*   [![Image 74: @bluwy](https://avatars.githubusercontent.com/u/34116392?s=64&v=4)](https://github.com/bluwy)\n*   [![Image 75: @renovate[bot]](https://avatars.githubusercontent.com/in/2740?s=64&v=4)](https://github.com/apps/renovate)\n*   [![Image 76: @antfu](https://avatars.githubusercontent.com/u/11247099?s=64&v=4)](https://github.com/antfu)\n*   [![Image 77: @underfin](https://avatars.githubusercontent.com/u/14008915?s=64&v=4)](https://github.com/underfin)\n*   [![Image 78: @btea](https://avatars.githubusercontent.com/u/24516654?s=64&v=4)](https://github.com/btea)\n*   [![Image 79: @Shinigami92](https://avatars.githubusercontent.com/u/7195563?s=64&v=4)](https://github.com/Shinigami92)\n*   [![Image 80: @aleclarson](https://avatars.githubusercontent.com/u/1925840?s=64&v=4)](https://github.com/aleclarson)\n*   [![Image 81: @benmccann](https://avatars.githubusercontent.com/u/322311?s=64&v=4)](https://github.com/benmccann)\n*   [![Image 82: @poyoho](https://avatars.githubusercontent.com/u/36070057?s=64&v=4)](https://github.com/poyoho)\n*   [![Image 83: @ArnaudBarre](https://avatars.githubusercontent.com/u/14235743?s=64&v=4)](https://github.com/ArnaudBarre)\n*   [![Image 84: @hi-ogawa](https://avatars.githubusercontent.com/u/4232207?s=64&v=4)](https://github.com/hi-ogawa)\n\n[\\+ 1,053 contributors](https://github.com/vitejs/vite/graphs/contributors)\n\nLanguages\n---------\n\n*   [TypeScript 83.2%](https://github.com/vitejs/vite/search?l=typescript)\n*   [JavaScript 9.9%](https://github.com/vitejs/vite/search?l=javascript)\n*   [HTML 5.1%](https://github.com/vitejs/vite/search?l=html)\n*   [CSS 1.3%](https://github.com/vitejs/vite/search?l=css)\n*   [Vue 0.2%](https://github.com/vitejs/vite/search?l=vue)\n*   [AppleScript 0.1%](https://github.com/vitejs/vite/search?l=applescript)\n*   Other 0.2%\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 11710
+  }
+}
+```

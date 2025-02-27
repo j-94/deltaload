@@ -1,0 +1,349 @@
+Skip to content
+Navigation Menu
+Product
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+ritz078
+/
+transform
+Public
+ Sponsor
+Notifications
+Fork 610
+ Star 8.3k
+Code
+Issues
+60
+Pull requests
+11
+Actions
+Projects
+Security
+Insights
+ritz078/transform
+ master
+Code
+Folders and files
+Name	Last commit message	Last commit date
+
+Latest commit
+allcontributors[bot]
+docs: add salman0ansari as a contributor for code (#394)
+e129420
+ · 
+History
+394 Commits
+
+
+.github
+	
+Update FUNDING.yml
+	
+
+
+assets
+	
+fix: valid JSDoc types, nested objects and order (#308)
+	
+
+
+components
+	
+✨ Add dark mode (#349)
+	
+
+
+constants
+	
+Feat: new cadence to go transform backend (#363)
+	
+
+
+hooks
+	
+✨ Add dark mode (#349)
+	
+
+
+pages
+	
+feat: add js object to typescript converter (#392)
+	
+
+
+patches
+	
+🐛 (html-to-jsx) remove semicolon at start and keep empty prop values (#…
+	
+
+
+public
+	
+added favicon
+	
+
+
+styles
+	
+✨ Add dark mode (#349)
+	
+
+
+typings/npm
+	
+Custom config and variants support in css-to-tailwind (#243)
+	
+
+
+utils
+	
+feat: add js object to typescript converter (#392)
+	
+
+
+workers
+	
+format code
+	
+
+
+.all-contributorsrc
+	
+docs: add salman0ansari as a contributor for code (#394)
+	
+
+
+.gitignore
+	
+Strip type annotation from TypeScript / Flow (#313)
+	
+
+
+.prettierignore
+	
+move /static to public/ & change all static folder entries (#156)
+	
+
+
+.prettierrc
+	
+Add a Prettier config file (#332)
+	
+
+
+LICENSE
+	
+Create LICENSE
+	
+
+
+README.md
+	
+docs: add salman0ansari as a contributor for code (#394)
+	
+
+
+next-env.d.ts
+	
+Upgrade Next.js to 9 (#126)
+	
+
+
+next.config.js
+	
+replace monaco editor with compiled version (#290) (#291)
+	
+
+
+now.json
+	
+fix(build): the build was failing on CLI (#214)
+	
+
+
+package.json
+	
+Update "CSS to Tailwind" page (#355)
+	
+
+
+tsconfig.json
+	
+update-json-typegen (#168)
+	
+
+
+typings.d.ts
+	
+update-dependencies (#294)
+	
+
+
+yarn.lock
+	
+Update "CSS to Tailwind" page (#355)
+	
+Repository files navigation
+README
+MIT license
+
+Sponsors
+
+Jack Sutton
+Credits
+
+The logo has been designed by mikicon.
+
+License
+
+MIT @ Ritesh Kumar
+
+Development
+Run yarn && yarn dev for development.
+Every route is a diggerent file in the pages/* directory
+You can add a new transformer by adding a file there and adding the route in utils/routes.tsx
+Self Hosting
+You can self-host the project by running yarn && yarn build && yarn start
+Contributors
+
+Thanks goes to these wonderful people (emoji key):
+
+
+Ritesh Kumar
+📖 💻 🤔 👀	
+Florian Gilcher
+💻	
+Pascal Hertleif
+💻	
+Lado Lomidze
+💻	
+Mattia Manzati
+💻	
+Mohammad Rajabifard
+🤔 💻	
+Raathigeshan Kugarajan
+💻
+
+Gyandeep Singh
+💻	
+Matt Holt
+💻	
+sreenivas alapati
+💻	
+Boris Cherny
+💻	
+Mark Lussier
+💻	
+Brice BERNARD
+💻	
+Satyajit Sahoo
+💻
+
+Shane Osbourne
+💻	
+Rongjian Zhang
+💻	
+Keshan Nageswaran
+💻	
+codegent
+💻	
+Sebastian Maliszczak
+💻	
+Haroen Viaene
+💻	
+Tim Neutkens
+🔌 💻
+
+Ramin Rezaie
+💻	
+Guilherme Esteves
+💻	
+Prasham Ashesh
+💻	
+James George
+💻	
+Chaitanya Gadodia
+💻	
+Miklos Megyes
+💻	
+Rishabh Rathod
+💻
+
+agent515
+💻	
+John Schulz
+💻	
+Nasrul Faizin
+💻	
+Jordan Fisher
+💻	
+Chris Sandvik
+💻	
+LemonNeko
+💻	
+Pooja Kulkarni
+💻
+
+Jack Sutton
+💻	
+Salakhutdinov Salavat
+💻	
+Mohd Salman
+💻
+
+This project follows the all-contributors specification. Contributions of any kind welcome!
+
+About
+
+A polyglot web converter.
+
+transform.tools
+Topics
+react css graphql rust golang flow typescript react-native jsx transformations
+Resources
+ Readme
+License
+ MIT license
+ Activity
+Stars
+ 8.3k stars
+Watchers
+ 52 watching
+Forks
+ 610 forks
+Report repository
+
+
+Sponsor this project
+ritz078 Ritesh Kumar
+ Sponsor
+Learn more about GitHub Sponsors
+
+
+Contributors
+36
++ 22 contributors
+
+
+Languages
+TypeScript
+98.9%
+ 
+Other
+1.1%
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information

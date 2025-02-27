@@ -1,0 +1,7 @@
+[](https://raindrop.io/)
+
+Email or username
+
+Password[Reset password](https://app.raindrop.io/account/lost)
+
+[Sign in with google](https://api.raindrop.io/v1/auth/google?redirect=https%3A%2F%2Fapi.raindrop.io%2Fv2%2Fraindrop%2F914170151%2Ffile%3Ftype%3Dimage%2Fpng) [Sign in with apple](https://api.raindrop.io/v1/auth/apple?redirect=https%3A%2F%2Fapi.raindrop.io%2Fv2%2Fraindrop%2F914170151%2Ffile%3Ftype%3Dimage%2Fpng)[Sign up](https://app.raindrop.io/account/signup)

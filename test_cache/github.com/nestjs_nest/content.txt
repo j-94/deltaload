@@ -1,0 +1,361 @@
+Skip to content
+Navigation Menu
+Product
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+nestjs
+/
+nest
+Public
+ Sponsor
+Notifications
+Fork 7.7k
+ Star 69k
+Code
+Issues
+28
+Pull requests
+14
+Actions
+Projects
+Security
+Insights
+nestjs/nest
+ master
+Code
+Folders and files
+Name	Last commit message	Last commit date
+
+Latest commit
+kamilmysliwiec
+Merge pull request #14462 from nestjs/renovate/nest-monorepo
+f5400b6
+ · 
+History
+17,194 Commits
+
+
+.circleci
+	
+ci: use npm install instead of ci as ci is flaky
+	
+
+
+.github
+	
+chore: add issue types to issue templates forms
+	
+
+
+.husky
+	
+chore: migrate husky from v8 to v9
+	
+
+
+benchmarks
+	
+fix(fastify): address deprecation warning
+	
+
+
+hooks
+	
+style: fix formatting on everything
+	
+
+
+integration
+	
+chore(deps): update graphql-subscriptions package
+	
+
+
+packages
+	
+chore(@nestjs) publish v11.0.3 release
+	
+
+
+sample
+	
+fix(deps): update nest monorepo to v11.0.3
+	
+
+
+scripts
+	
+Merge branch '8.0.0' into fix-set-name-property-of-exception-object-e…
+	
+
+
+tools
+	
+Merge pull request #14051 from micalevisk/add-esm-only-sample
+	
+
+
+.commitlintrc.json
+	
+chore: add allowed scopes to commitlint config
+	
+
+
+.gitattributes
+	
+build: hide package lock
+	
+
+
+.gitignore
+	
+chore: remove package lock files from sample projects
+	
+
+
+.npmignore
+	
+chore: ignore tsbuildinfo when publishing packages
+	
+
+
+.prettierignore
+	
+chore: fix mismatch between lint-staged config and format
+	
+
+
+.prettierrc
+	
+refactor(): update to the latest version of prettier
+	
+
+
+CODE_OF_CONDUCT.md
+	
+Create CODE_OF_CONDUCT.md
+	
+
+
+CONTRIBUTING.md
+	
+Update CONTRIBUTING.md
+	
+
+
+LICENSE
+	
+chore: update copyright years 2025
+	
+
+
+Readme.md
+	
+Update Readme.md
+	
+
+
+SECURITY.md
+	
+Update SECURITY.md
+	
+
+
+eslint.config.mjs
+	
+style: address spec lint errors
+	
+
+
+gulpfile.js
+	
+build(): Refactor Gulpfile to TS
+	
+
+
+lerna.json
+	
+chore(@nestjs) publish v11.0.3 release
+	
+
+
+package-lock.json
+	
+chore(deps): update graphql-subscriptions package
+	
+
+
+package.json
+	
+chore: update package.json
+	
+
+
+readme_jp.md
+	
+docs: more translate readme ja
+	
+
+
+readme_kr.md
+	
+docs(): replace HTTP with HTTPS on readme
+	
+
+
+readme_zh.md
+	
+docs(): replace HTTP with HTTPS on readme
+	
+
+
+renovate.json
+	
+Update renovate.json
+	
+
+
+tsconfig.json
+	
+build: use strict null checks part 1
+	
+
+
+tsconfig.spec.json
+	
+style: address integration tests lint errors
+	
+Repository files navigation
+README
+Code of conduct
+MIT license
+Security
+
+A progressive Node.js framework for building efficient and scalable server-side applications.
+
+         
+
+Description
+
+Nest is a framework for building efficient, scalable Node.js server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+
+Under the hood, Nest makes use of Express, but also provides compatibility with a wide range of other libraries, like Fastify, allowing for easy use of the myriad of third-party plugins which are available.
+
+Philosophy
+
+In recent years, thanks to Node.js, JavaScript has become the “lingua franca” of the web for both front and backend applications, giving rise to awesome projects like Angular, React, and Vue, which improve developer productivity and enable the construction of fast, testable, and extensible frontend applications. However, on the server-side, while there are a lot of superb libraries, helpers, and tools for Node, none of them effectively solve the main problem - the architecture.
+
+Nest aims to provide an application architecture out of the box which allows for effortless creation of highly testable, scalable, and loosely coupled and easily maintainable applications. The architecture is heavily inspired by Angular.
+
+Getting started
+To check out the guide, visit docs.nestjs.com. 📚
+要查看中文 指南, 请访问 docs.nestjs.cn. 📚
+가이드 문서는 docs.nestjs.com에서 확인하실 수 있습니다. 📚
+ガイドは docs.nestjs.comでご確認ください。 📚
+Questions
+
+For questions and support please use the official Discord channel. The issue list of this repo is exclusively for bug reports and feature requests.
+
+Issues
+
+Please make sure to read the Issue Reporting Checklist before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+
+Consulting
+
+With official support, you can get expert help straight from Nest core team. We provide dedicated technical support, migration strategies, advice on best practices (and design decisions), PR reviews, and team augmentation. Read more about support here.
+
+Support
+
+Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support from the amazing backers. If you'd like to join them, please read more here.
+
+Principal Sponsors
+					
+Gold Sponsors
+				
+				
+Silver Sponsors
+					
+Sponsors
+					
+					
+					
+				
+Backers
+
+Stay in touch
+Author - Kamil Myśliwiec
+Website - https://nestjs.com
+X - @nestframework
+License
+
+Nest is MIT licensed.
+
+About
+
+A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+
+nestjs.com
+Topics
+nodejs javascript node microservices framework typescript javascript-framework websockets nest hacktoberfest nodejs-framework typescript-framework nestjs
+Resources
+ Readme
+License
+ MIT license
+Code of conduct
+ Code of conduct
+Security policy
+ Security policy
+ Activity
+ Custom properties
+Stars
+ 69k stars
+Watchers
+ 737 watching
+Forks
+ 7.7k forks
+Report repository
+
+
+Releases 106
+v11.0.0
+Latest
++ 105 releases
+
+
+Sponsor this project
+kamilmysliwiec Kamil Mysliwiec
+opencollective.com/nest
+Learn more about GitHub Sponsors
+
+
+Used by 581k
++ 581,252
+
+
+Contributors
+502
++ 488 contributors
+
+
+Languages
+TypeScript
+99.9%
+ 
+Other
+0.1%
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information

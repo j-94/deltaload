@@ -1,0 +1,71 @@
+---
+title: Facebook
+description: 
+url: https://www.facebook.com/marketplace/profile/100078996215172/
+timestamp: 2025-01-20T16:01:41.612Z
+domain: www.facebook.com
+path: marketplace_profile_100078996215172
+---
+
+# Facebook
+
+
+
+## Content
+
+Facebook
+
+![Image 49](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/470560714_578920184751184_6504220737180633054_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=OXEZeZOMSvcQ7kNvgG7mDRF&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYB-krFjaQdMh8r4O9En3EzCv5qheSub_30023TVzzxA0Q&oe=67944F7D)
+
+Magda Antiques
+
+347 followers
+
+Follow
+
+[View profile](https://www.facebook.com/people/Magda-Antiques/pfbid02Ko5xEFkNpjf4aq6snPzebJtPsq9fAvFgWjs6NTPJVuuPTd383n3QuQyWBqK9Hmdpl/)
+
+Magda's listings
+----------------
+
+Available & in stock
+
+Sort by
+
+[![Image 50: Westminster Chiming Art Deco Mantel Clock in Goole](https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/474201837_1340728230256984_8696515063149200364_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=XwpwBFHigVcQ7kNvgGXCk3Z&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYDbVpW9uJXQP4N1fys5Cg08GAMOy70P9i03J-JTTrwNWQ&oe=67944CC9) £120](https://www.facebook.com/marketplace/item/566543553028642/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 51: Vintage Rotary men's watch in Goole](https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/473206717_1169220991220822_1430087004468351478_n.jpg?stp=c0.228.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=gpLZIkqdLbsQ7kNvgHiYSmF&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYCgDsbhDTM97M5mPkZbMS95e4OzBoa9-egzYI5jj06RUg&oe=67945907) £65](https://www.facebook.com/marketplace/item/1027179112782007/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 52: VINTAGE Cuff Bangle Bracelet in Goole](https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/474111649_1069203174979552_2413345447174153620_n.jpg?stp=c114.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=TFTGD7eOpAsQ7kNvgGxiU-P&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYDRSawY7IgtH2sRi8U2HzJfl4r-AUCJVbijckY_WZ54Bw&oe=67945A06) £55](https://www.facebook.com/marketplace/item/2322779291448474/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 53: Diamond Ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473199332_1161896298657349_1860646950738747372_n.jpg?stp=c75.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=247b10&_nc_ohc=EMsE_xrPQY4Q7kNvgFQNL8_&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYALU3BUFURWo-RD6K45RDnqi5B8EKdO4XGQULdo6wLpkQ&oe=67944260) £55](https://www.facebook.com/marketplace/item/1125449342074606/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 54: 375 9ct gold diamond ring in Goole](https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/473207372_1123713945581450_2267298920931388854_n.jpg?stp=c73.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=247b10&_nc_ohc=2rHgv7xvh24Q7kNvgGnvSuP&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYAyborSo1kMwYo438peM9FX3dduf6aiE3foSb_2E_v9Eg&oe=6794549D) £60](https://www.facebook.com/marketplace/item/9430902146944197/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 55: 925 sterling silver amber ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473212353_1270079930878809_2957850033476291743_n.jpg?stp=c65.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=sZkqkjiFdqcQ7kNvgHMz9fd&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYDDH2ZESOrQQgJjLdAkBzwd3Aql18MNoaElilPo7rl_qA&oe=67944955) £30](https://www.facebook.com/marketplace/item/1116873189651739/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 56: 925 sterling silver Ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473201177_494073390464436_2502110197827617147_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=247b10&_nc_ohc=4uIEouRZsXUQ7kNvgFAFpLu&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYALS1cJASlbQlk23Bz7aqsCGjgJWsoAUIZPc9kLtPjcrw&oe=679453FC) £30](https://www.facebook.com/marketplace/item/1146331747188913/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 57: 925 sterling silver Garnet ring in Goole](https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/473213653_1749901995795383_1306115967593375370_n.jpg?stp=c42.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=247b10&_nc_ohc=OlwZF2yOCqsQ7kNvgFfC2Xq&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYC7sdoO2pp1osrPa6rEIYZz2vaHitZzO0e44cMk-LZSkA&oe=67945800) £25](https://www.facebook.com/marketplace/item/1385954332788941/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 58: 925 sterling silver ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473215409_1643016876636928_3530069702459788899_n.jpg?stp=c121.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=G2kuFxpiRAkQ7kNvgFgPDU-&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYANfnynM3Mo7IrSSang5XpYAv4NnfiSFTCL5t79y8em3g&oe=679451FD) £25](https://www.facebook.com/marketplace/item/991124342837171/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 59: 375 9ct gold band ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473214651_1064801055312621_5380577592122349660_n.jpg?stp=c5.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=247b10&_nc_ohc=G_r-GdlF4CsQ7kNvgGx_dNW&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYB_FSHAE5c_Idz5HPpwUgA1m2l2QkRoi74ERelo54qbpQ&oe=6794320B) £75](https://www.facebook.com/marketplace/item/993248392857323/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 60: 925 sterling silver amethyst ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473204191_1517805718908927_1391672387874352684_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=247b10&_nc_ohc=JVgN5okyDU4Q7kNvgHJod2K&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYAIVKOtSeAUr-i6VQz-HvzxI78ZoPEwLGDfiXL1yRj34g&oe=679434D6) £25](https://www.facebook.com/marketplace/item/1308333803538091/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+[![Image 61: Accurist men's watch in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473201433_496790856770161_2142353874553908522_n.jpg?stp=c32.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=RzdVlL7irGYQ7kNvgGMCkeM&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYDLt7Qzraps2PsWTwI0lLzAvNbZgbxP49_2t-Bc7LvDbw&oe=67945417) £45](https://www.facebook.com/marketplace/item/569912749206803/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)
+
+## Metadata
+
+```json
+{
+  "title": "Facebook",
+  "description": "",
+  "url": "https://www.facebook.com/marketplace/profile/100078996215172/",
+  "content": "Facebook\n\n![Image 49](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/470560714_578920184751184_6504220737180633054_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=OXEZeZOMSvcQ7kNvgG7mDRF&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYB-krFjaQdMh8r4O9En3EzCv5qheSub_30023TVzzxA0Q&oe=67944F7D)\n\nMagda Antiques\n\n347 followers\n\nFollow\n\n[View profile](https://www.facebook.com/people/Magda-Antiques/pfbid02Ko5xEFkNpjf4aq6snPzebJtPsq9fAvFgWjs6NTPJVuuPTd383n3QuQyWBqK9Hmdpl/)\n\nMagda's listings\n----------------\n\nAvailable & in stock\n\nSort by\n\n[![Image 50: Westminster Chiming Art Deco Mantel Clock in Goole](https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/474201837_1340728230256984_8696515063149200364_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=XwpwBFHigVcQ7kNvgGXCk3Z&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYDbVpW9uJXQP4N1fys5Cg08GAMOy70P9i03J-JTTrwNWQ&oe=67944CC9) £120](https://www.facebook.com/marketplace/item/566543553028642/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 51: Vintage Rotary men's watch in Goole](https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/473206717_1169220991220822_1430087004468351478_n.jpg?stp=c0.228.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=gpLZIkqdLbsQ7kNvgHiYSmF&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYCgDsbhDTM97M5mPkZbMS95e4OzBoa9-egzYI5jj06RUg&oe=67945907) £65](https://www.facebook.com/marketplace/item/1027179112782007/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 52: VINTAGE Cuff Bangle Bracelet in Goole](https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/474111649_1069203174979552_2413345447174153620_n.jpg?stp=c114.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=TFTGD7eOpAsQ7kNvgGxiU-P&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYDRSawY7IgtH2sRi8U2HzJfl4r-AUCJVbijckY_WZ54Bw&oe=67945A06) £55](https://www.facebook.com/marketplace/item/2322779291448474/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 53: Diamond Ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473199332_1161896298657349_1860646950738747372_n.jpg?stp=c75.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=247b10&_nc_ohc=EMsE_xrPQY4Q7kNvgFQNL8_&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYALU3BUFURWo-RD6K45RDnqi5B8EKdO4XGQULdo6wLpkQ&oe=67944260) £55](https://www.facebook.com/marketplace/item/1125449342074606/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 54: 375 9ct gold diamond ring in Goole](https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/473207372_1123713945581450_2267298920931388854_n.jpg?stp=c73.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=247b10&_nc_ohc=2rHgv7xvh24Q7kNvgGnvSuP&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYAyborSo1kMwYo438peM9FX3dduf6aiE3foSb_2E_v9Eg&oe=6794549D) £60](https://www.facebook.com/marketplace/item/9430902146944197/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 55: 925 sterling silver amber ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473212353_1270079930878809_2957850033476291743_n.jpg?stp=c65.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=sZkqkjiFdqcQ7kNvgHMz9fd&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYDDH2ZESOrQQgJjLdAkBzwd3Aql18MNoaElilPo7rl_qA&oe=67944955) £30](https://www.facebook.com/marketplace/item/1116873189651739/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 56: 925 sterling silver Ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473201177_494073390464436_2502110197827617147_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=247b10&_nc_ohc=4uIEouRZsXUQ7kNvgFAFpLu&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYALS1cJASlbQlk23Bz7aqsCGjgJWsoAUIZPc9kLtPjcrw&oe=679453FC) £30](https://www.facebook.com/marketplace/item/1146331747188913/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 57: 925 sterling silver Garnet ring in Goole](https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/473213653_1749901995795383_1306115967593375370_n.jpg?stp=c42.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=247b10&_nc_ohc=OlwZF2yOCqsQ7kNvgFfC2Xq&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYC7sdoO2pp1osrPa6rEIYZz2vaHitZzO0e44cMk-LZSkA&oe=67945800) £25](https://www.facebook.com/marketplace/item/1385954332788941/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 58: 925 sterling silver ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473215409_1643016876636928_3530069702459788899_n.jpg?stp=c121.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=G2kuFxpiRAkQ7kNvgFgPDU-&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYANfnynM3Mo7IrSSang5XpYAv4NnfiSFTCL5t79y8em3g&oe=679451FD) £25](https://www.facebook.com/marketplace/item/991124342837171/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 59: 375 9ct gold band ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473214651_1064801055312621_5380577592122349660_n.jpg?stp=c5.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=247b10&_nc_ohc=G_r-GdlF4CsQ7kNvgGx_dNW&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYB_FSHAE5c_Idz5HPpwUgA1m2l2QkRoi74ERelo54qbpQ&oe=6794320B) £75](https://www.facebook.com/marketplace/item/993248392857323/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 60: 925 sterling silver amethyst ring in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473204191_1517805718908927_1391672387874352684_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=247b10&_nc_ohc=JVgN5okyDU4Q7kNvgHJod2K&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYAIVKOtSeAUr-i6VQz-HvzxI78ZoPEwLGDfiXL1yRj34g&oe=679434D6) £25](https://www.facebook.com/marketplace/item/1308333803538091/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)\n\n[![Image 61: Accurist men's watch in Goole](https://scontent-dfw5-1.xx.fbcdn.net/v/t45.5328-4/473201433_496790856770161_2142353874553908522_n.jpg?stp=c32.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=247b10&_nc_ohc=RzdVlL7irGYQ7kNvgGMCkeM&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=A90rHjcrgEnotBBXuRbER6z&oh=00_AYDLt7Qzraps2PsWTwI0lLzAvNbZgbxP49_2t-Bc7LvDbw&oe=67945417) £45](https://www.facebook.com/marketplace/item/569912749206803/?ref=marketplace_profile&referral_code=undefined&__tn__=!%3AD)",
+  "usage": {
+    "tokens": 3146
+  }
+}
+```

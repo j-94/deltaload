@@ -1,0 +1,750 @@
+GitHub - appbaseio/reactivemaps: A data aware UI components library for building realtime maps
+===============
+                                           
+
+[Skip to content](https://github.com/appbaseio/reactivemaps?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fappbaseio%2Freactivemaps%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fappbaseio%2Freactivemaps%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=appbaseio%2Freactivemaps) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[appbaseio](https://github.com/appbaseio) / **[reactivemaps](https://github.com/appbaseio/reactivemaps)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fappbaseio%2Freactivemaps) You must be signed in to change notification settings
+*   [Fork 44](https://github.com/login?return_to=%2Fappbaseio%2Freactivemaps)
+*   [Star 941](https://github.com/login?return_to=%2Fappbaseio%2Freactivemaps)
+    
+
+A data aware UI components library for building realtime maps
+
+[opensource.appbase.io/reactivemaps](https://opensource.appbase.io/reactivemaps "https://opensource.appbase.io/reactivemaps")
+
+[941 stars](https://github.com/appbaseio/reactivemaps/stargazers) [44 forks](https://github.com/appbaseio/reactivemaps/forks) [Branches](https://github.com/appbaseio/reactivemaps/branches) [Tags](https://github.com/appbaseio/reactivemaps/tags) [Activity](https://github.com/appbaseio/reactivemaps/activity)
+
+[Star](https://github.com/login?return_to=%2Fappbaseio%2Freactivemaps)
+
+[Notifications](https://github.com/login?return_to=%2Fappbaseio%2Freactivemaps) You must be signed in to change notification settings
+
+*   [Code](https://github.com/appbaseio/reactivemaps)
+*   [Issues 11](https://github.com/appbaseio/reactivemaps/issues)
+*   [Pull requests 25](https://github.com/appbaseio/reactivemaps/pulls)
+*   [Actions](https://github.com/appbaseio/reactivemaps/actions)
+*   [Projects 0](https://github.com/appbaseio/reactivemaps/projects)
+*   [Security](https://github.com/appbaseio/reactivemaps/security)
+*   [Insights](https://github.com/appbaseio/reactivemaps/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/appbaseio/reactivemaps)
+*   [Issues](https://github.com/appbaseio/reactivemaps/issues)
+*   [Pull requests](https://github.com/appbaseio/reactivemaps/pulls)
+*   [Actions](https://github.com/appbaseio/reactivemaps/actions)
+*   [Projects](https://github.com/appbaseio/reactivemaps/projects)
+*   [Security](https://github.com/appbaseio/reactivemaps/security)
+*   [Insights](https://github.com/appbaseio/reactivemaps/pulse)
+
+appbaseio/reactivemaps
+======================
+
+  
+
+ website
+
+[**29** Branches](https://github.com/appbaseio/reactivemaps/branches)[**90** Tags](https://github.com/appbaseio/reactivemaps/tags)
+
+[](https://github.com/appbaseio/reactivemaps/branches)[](https://github.com/appbaseio/reactivemaps/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 24: mohdashraf010897](https://avatars.githubusercontent.com/u/57627350?v=4&size=40)](https://github.com/mohdashraf010897)[mohdashraf010897](https://github.com/appbaseio/reactivemaps/commits?author=mohdashraf010897)
+
+[link earthquake-reporter demo through reactivesearch site](https://github.com/appbaseio/reactivemaps/commit/e07dfc2117319f43d4961e9d7f1fd32b24e20aa5)
+
+May 9, 2022
+
+[e07dfc2](https://github.com/appbaseio/reactivemaps/commit/e07dfc2117319f43d4961e9d7f1fd32b24e20aa5) · May 9, 2022
+
+History
+-------
+
+[44 Commits](https://github.com/appbaseio/reactivemaps/commits/website/)
+
+[](https://github.com/appbaseio/reactivemaps/commits/website/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.vscode](https://github.com/appbaseio/reactivemaps/tree/website/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[.vscode](https://github.com/appbaseio/reactivemaps/tree/website/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[updates home page content](https://github.com/appbaseio/reactivemaps/commit/bb7b74b95f193a1d986799fd2998d5340b649508 "updates home page content")
+
+
+
+ | 
+
+May 14, 2018
+
+ |
+| 
+
+[public](https://github.com/appbaseio/reactivemaps/tree/website/public "public")
+
+
+
+
+
+
+
+ | 
+
+[public](https://github.com/appbaseio/reactivemaps/tree/website/public "public")
+
+
+
+
+
+
+
+ | 
+
+[adds hotjar tracking code](https://github.com/appbaseio/reactivemaps/commit/e81f421de2f8129b93f4b25c5f6126c6584d9b95 "adds hotjar tracking code")
+
+
+
+ | 
+
+May 31, 2018
+
+ |
+| 
+
+[src](https://github.com/appbaseio/reactivemaps/tree/website/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/appbaseio/reactivemaps/tree/website/src "src")
+
+
+
+
+
+
+
+ | 
+
+[link earthquake-reporter demo through reactivesearch site](https://github.com/appbaseio/reactivemaps/commit/e07dfc2117319f43d4961e9d7f1fd32b24e20aa5 "link earthquake-reporter demo through reactivesearch site")
+
+
+
+ | 
+
+May 9, 2022
+
+ |
+| 
+
+[.editorconfig](https://github.com/appbaseio/reactivemaps/blob/website/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[.editorconfig](https://github.com/appbaseio/reactivemaps/blob/website/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[update linting setup and cleanup](https://github.com/appbaseio/reactivemaps/commit/482882627f55b07ef5638be89dde9803c44f5f0d "update linting setup and cleanup")
+
+
+
+ | 
+
+May 3, 2018
+
+ |
+| 
+
+[.eslintignore](https://github.com/appbaseio/reactivemaps/blob/website/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[.eslintignore](https://github.com/appbaseio/reactivemaps/blob/website/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[update linting setup and cleanup](https://github.com/appbaseio/reactivemaps/commit/482882627f55b07ef5638be89dde9803c44f5f0d "update linting setup and cleanup")
+
+
+
+ | 
+
+May 3, 2018
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/appbaseio/reactivemaps/blob/website/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/appbaseio/reactivemaps/blob/website/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[update linting setup and cleanup](https://github.com/appbaseio/reactivemaps/commit/482882627f55b07ef5638be89dde9803c44f5f0d "update linting setup and cleanup")
+
+
+
+ | 
+
+May 3, 2018
+
+ |
+| 
+
+[.gitignore](https://github.com/appbaseio/reactivemaps/blob/website/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/appbaseio/reactivemaps/blob/website/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[init](https://github.com/appbaseio/reactivemaps/commit/a2b04a8fe7af14dd8a1e8efddaa9b9c1b8bc3b46 "init")
+
+
+
+ | 
+
+May 2, 2018
+
+ |
+| 
+
+[.prettierrc.js](https://github.com/appbaseio/reactivemaps/blob/website/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc.js](https://github.com/appbaseio/reactivemaps/blob/website/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[update linting setup and cleanup](https://github.com/appbaseio/reactivemaps/commit/482882627f55b07ef5638be89dde9803c44f5f0d "update linting setup and cleanup")
+
+
+
+ | 
+
+May 3, 2018
+
+ |
+| 
+
+[README.md](https://github.com/appbaseio/reactivemaps/blob/website/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/appbaseio/reactivemaps/blob/website/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[format(site): update links and content](https://github.com/appbaseio/reactivemaps/commit/9a0a27dd41623772b58cea2d92102bf63d8a3710 "format(site): update links and content")
+
+
+
+ | 
+
+Apr 29, 2022
+
+ |
+| 
+
+[package.json](https://github.com/appbaseio/reactivemaps/blob/website/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/appbaseio/reactivemaps/blob/website/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Pin designkit](https://github.com/appbaseio/reactivemaps/commit/8be3130a8150ed7a0fe7da0d147d583573bb93fc "Pin designkit")
+
+
+
+ | 
+
+Jul 27, 2018
+
+ |
+| 
+
+[yarn.lock](https://github.com/appbaseio/reactivemaps/blob/website/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/appbaseio/reactivemaps/blob/website/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[format(site): update links and content](https://github.com/appbaseio/reactivemaps/commit/9a0a27dd41623772b58cea2d92102bf63d8a3710 "format(site): update links and content")
+
+
+
+ | 
+
+Apr 29, 2022
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/appbaseio/reactivemaps?screenshot=true#)
+
+[![Image 25: reactivemaps](https://camo.githubusercontent.com/5c539c13e83ec520dc09ba6bb5618f6a2834fcf2075033d0f7848a65a5d527a4/68747470733a2f2f692e696d6775722e636f6d2f696952397741732e706e67)](https://camo.githubusercontent.com/5c539c13e83ec520dc09ba6bb5618f6a2834fcf2075033d0f7848a65a5d527a4/68747470733a2f2f692e696d6775722e636f6d2f696952397741732e706e67)  
+Reactivemaps  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/appbaseio/reactivemaps?screenshot=true#------reactivemaps--)
+
+UI components for building data-driven Map UIs with Elasticsearch, OpenSearch and MongoDB Atlas Search. [Website 🌐](https://opensource.appbase.io/reactivemaps/)
+
+[Quickstart with ReactiveMaps](https://docs.appbase.io/docs/reactivesearch/v3/overview/reactivemaps/).
+
+* * *
+
+[![Image 26: npm version](https://camo.githubusercontent.com/8a6935f40d8d8a464dfd06a1f7e2888e278ec4cfe6dd9c52a3970d43af8b06ec/68747470733a2f2f62616467652e667572792e696f2f6a732f25343061707062617365696f25324672656163746976656d6170732e737667)](https://badge.fury.io/js/%40appbaseio%2Freactivemaps) [![Image 27](https://camo.githubusercontent.com/bcb3735b856f436a5f7f86663b3ba80c1c44ee4a7ff476a767136867f2fd124d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d417061636865253230322d626c75652e737667)](https://github.com/appbaseio/mirage/blob/dev/LICENSE.md) [![Image 28: Gitter](https://camo.githubusercontent.com/5e3106bdac78e60b3a04d1258cda8a09760d64109354cc31eafc26dea7c6edbb/68747470733a2f2f696d672e736869656c64732e696f2f6769747465722f726f6f6d2f6e776a732f6e772e6a732e737667)](https://gitter.im/appbaseio/reactivesearch) [![Image 29: npm](https://camo.githubusercontent.com/80c290ea3f726b0bbbef27699305f68ed31d9ba00c9b2f4ead69480420d1a99d/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f4061707062617365696f2f72656163746976656d6170732e737667)](https://www.npmjs.com/package/@appbaseio/reactivemaps) [![Image 30: PRs Welcome](https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667)](https://github.com/appbaseio/reactivesearch/blob/dev/.github/CONTRIBUTING.md)
+
+Elasticsearch UI components for building data-driven Map UIs.
+
+[![Image 31](https://camo.githubusercontent.com/0dd3745b67c3cd001e4720a4d23c77e0bd5debd85f7f6d0d788c57740bc22246/68747470733a2f2f692e696d6775722e636f6d2f44777a387058342e706e67)](https://camo.githubusercontent.com/0dd3745b67c3cd001e4720a4d23c77e0bd5debd85f7f6d0d788c57740bc22246/68747470733a2f2f692e696d6775722e636f6d2f44777a387058342e706e67)
+
+[Get our designer templates for sketch](https://opensource.appbase.io/reactivemaps/resources/ReactiveMaps_Playground.sketch).
+
+Installation
+------------
+
+[](https://github.com/appbaseio/reactivemaps?screenshot=true#installation)
+
+ReactiveMaps is a complimentary library to ReactiveSearch. Map components require ReactiveSearch architecture and its root component to begin with. If you wish to build anything on reactivemaps, you’ll need to install reactivesearch along with it.
+
+```
+yarn add @appbaseio/reactivemaps @appbaseio/reactivesearch
+```
+
+Introduction
+------------
+
+[](https://github.com/appbaseio/reactivemaps?screenshot=true#introduction)
+
+Reactivemaps allow you to connect your google-map component with your Elasticsearch cluster and also enables it to talk to other **reactive** components. Not just that, it enhances the development experience by efficiently integrating the streaming enhancements on the map component allowing you to build realtime apps with maps seamlessly.
+
+Reactivemap efficiently evaluates the map centers dynamically as the map updates and it also allows you to search on the map as it is moved. All and all, Reactivemap offers a rich bundled experience of realtime maps with a simple-to-use API.
+
+Concepts
+--------
+
+[](https://github.com/appbaseio/reactivemaps?screenshot=true#concepts)
+
+**1\. Map component**
+
+ReactiveMaps provides map UI components. There are two flavors of Map components: [ReactiveOpenStreetMap](https://docs.appbase.io/docs/reactivesearch/v3/map/reactiveopenstreetmap/) and [ReactiveGoogleMap](https://docs.appbase.io/docs/reactivesearch/v3/map/reactivegooglemap/)
+
+**2\. Complimentary sensor components**
+
+Besides the sensor components from reactivesearch, reactivemap is compatible with two other pre-defined sensor components - GeoDistanceSlider and GeoDistanceDropdown. You can read more about them in the [docs](https://docs.appbase.io/docs/reactivesearch/v3/map/geodistanceslider/)
+
+Live Demos
+----------
+
+[](https://github.com/appbaseio/reactivemaps?screenshot=true#live-demos)
+
+A set of live demos inspired by real world apps, built with Reactivemaps.
+
+*   [Airbeds](https://opensource.appbase.io/reactivesearch/demos/airbeds/) - An airbnb-like booking search experience.
+*   [Datalayers](https://opensource.appbase.io/reactivesearch/demos/datalayer/) - Demo combining the dark forces of datalayer and Reactivemaps.
+*   [Meetup Blast](https://opensource.appbase.io/reactivesearch/demos/meetup/) - A kickass meetup inspired search app built with Reactivemaps.
+*   [Board the bus](https://opensource.appbase.io/reactivesearch/demos/transport/) - Catch realtime bus transportation demo in action with Reactivemaps.
+
+Documentation
+-------------
+
+[](https://github.com/appbaseio/reactivemaps?screenshot=true#documentation)
+
+The official docs for the library are at [docs.appbase.io/docs/reactivesearch/v3/overview/quickstart/](https://docs.appbase.io/docs/reactivesearch/v3/overview/quickstart/).
+
+Related tooling and projects
+----------------------------
+
+[](https://github.com/appbaseio/reactivemaps?screenshot=true#related-tooling-and-projects)
+
+*   [**ReactiveSearch**](https://opensource.appbase.io/reactivesearch/) Everything you need to know about reactivesearch.
+    
+*   [**appbase-js**](https://github.com/appbaseio/appbase-js) While building search UIs is dandy with Reactive Search, you might also need to add some input forms. **appbase-js** comes in handy there.
+    
+*   [**dejavu**](https://github.com/appbaseio/dejavu) allows viewing raw data within an appbase.io (or Elasticsearch) app. **Soon to be released feature:** An ability to import custom data from CSV and JSON files, along with a guided walkthrough on applying data mappings.
+    
+
+[![Image 32](https://camo.githubusercontent.com/08c92b551dd0fafb299e6dbe49c5ea88d5d869a3f0d7ae274ab4a5daec6dc136/68747470733a2f2f692e696d6775722e636f6d2f554c36423075452e706e67)](https://appbase.io/pricing/#premium-support/)
+
+About
+-----
+
+A data aware UI components library for building realtime maps
+
+[opensource.appbase.io/reactivemaps](https://opensource.appbase.io/reactivemaps "https://opensource.appbase.io/reactivemaps")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [javascript](https://github.com/topics/javascript "Topic: javascript") [ui](https://github.com/topics/ui "Topic: ui") [maps](https://github.com/topics/maps "Topic: maps") [realtime](https://github.com/topics/realtime "Topic: realtime") [web-ui](https://github.com/topics/web-ui "Topic: web-ui") [ui-components](https://github.com/topics/ui-components "Topic: ui-components") [data-components](https://github.com/topics/data-components "Topic: data-components")
+
+### Resources
+
+[Readme](https://github.com/appbaseio/reactivemaps?screenshot=true#readme-ov-file)
+
+[Activity](https://github.com/appbaseio/reactivemaps/activity)
+
+[Custom properties](https://github.com/appbaseio/reactivemaps/custom-properties)
+
+### Stars
+
+[**941** stars](https://github.com/appbaseio/reactivemaps/stargazers)
+
+### Watchers
+
+[**25** watching](https://github.com/appbaseio/reactivemaps/watchers)
+
+### Forks
+
+[**44** forks](https://github.com/appbaseio/reactivemaps/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fappbaseio%2Freactivemaps&report=appbaseio+%28user%29)
+
+[Releases 88](https://github.com/appbaseio/reactivemaps/releases)
+-----------------------------------------------------------------
+
+[Bug fixes Latest Oct 31, 2017](https://github.com/appbaseio/reactivemaps/releases/tag/v1.4.2)
+
+[\+ 87 releases](https://github.com/appbaseio/reactivemaps/releases)
+
+[Packages 0](https://github.com/orgs/appbaseio/packages?repo_name=reactivemaps)
+-------------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 6](https://github.com/appbaseio/reactivemaps/graphs/contributors)
+-------------------------------------------------------------------------------
+
+*   [![Image 33: @metagrover](https://avatars.githubusercontent.com/u/9116042?s=64&v=4)](https://github.com/metagrover)
+*   [![Image 34: @siddharthlatest](https://avatars.githubusercontent.com/u/630042?s=64&v=4)](https://github.com/siddharthlatest)
+*   [![Image 35: @mohdashraf010897](https://avatars.githubusercontent.com/u/57627350?s=64&v=4)](https://github.com/mohdashraf010897)
+*   [![Image 36: @bietkul](https://avatars.githubusercontent.com/u/20393043?s=64&v=4)](https://github.com/bietkul)
+*   [![Image 37: @divyanshu013](https://avatars.githubusercontent.com/u/6682655?s=64&v=4)](https://github.com/divyanshu013)
+*   [![Image 38: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+
+Languages
+---------
+
+*   [JavaScript 93.5%](https://github.com/appbaseio/reactivemaps/search?l=javascript)
+*   [HTML 6.1%](https://github.com/appbaseio/reactivemaps/search?l=html)
+*   [CSS 0.4%](https://github.com/appbaseio/reactivemaps/search?l=css)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

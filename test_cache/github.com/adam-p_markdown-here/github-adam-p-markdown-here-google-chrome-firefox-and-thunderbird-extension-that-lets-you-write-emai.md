@@ -1,0 +1,355 @@
+---
+title: GitHub - adam-p/markdown-here: Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+description: Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - adam-p/markdown-here
+url: https://github.com/adam-p/markdown-here
+timestamp: 2025-01-20T15:30:01.796Z
+domain: github.com
+path: adam-p_markdown-here
+---
+
+# GitHub - adam-p/markdown-here: Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+
+
+Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - adam-p/markdown-here
+
+
+## Content
+
+[![Image 26: Markdown Here logo](https://camo.githubusercontent.com/23d27047587115fcf37b23240611e49ca047ff0ad678df077203f01a5ea2f0b1/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f7372632f636f6d6d6f6e2f696d616765732f69636f6e34382e706e67)](https://camo.githubusercontent.com/23d27047587115fcf37b23240611e49ca047ff0ad678df077203f01a5ea2f0b1/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f7372632f636f6d6d6f6e2f696d616765732f69636f6e34382e706e67) Markdown Here
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#-markdown-here)
+
+[**Visit the website.**](https://markdown-here.com/)  
+[**Get it for Chrome.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)  
+[**Get it for Firefox.**](https://addons.mozilla.org/firefox/addon/markdown-here/)  
+[**Get it for Safari.**](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz)  
+[**Get it for Thunderbird.**](https://addons.mozilla.org/thunderbird/addon/markdown-here/)  
+[**Get it for Opera.**](https://addons.opera.com/extensions/details/markdown-here/)  
+[**Discuss it and ask questions in GitHub Discussions.**](https://github.com/adam-p/markdown-here/discussions)
+
+_Markdown Here_ is a Google Chrome, Firefox, Safari, Opera, and Thunderbird extension that lets you write email† in Markdown‡ and render them before sending. It also supports syntax highlighting (just specify the language in a fenced code block).
+
+Writing email with code in it is pretty tedious. Writing Markdown with code in it is easy. I found myself writing email in Markdown in the GitHub in-browser editor, then copying the preview into email. This is a pretty absurd workflow, so I decided to create a tool to write and render Markdown right in the email.
+
+To discover what can be done with Markdown in _Markdown Here_, check out the [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) and the other [wiki pages](https://github.com/adam-p/markdown-here/wiki).
+
+†: And Google Groups posts, and Blogger posts, and Evernote notes, and Wordpress posts! [See more](https://github.com/adam-p/markdown-here?screenshot=true#compatibility).  
+‡: And TeX mathematical formulae!
+
+[![Image 27: screenshot of conversion](https://camo.githubusercontent.com/7a856da345d0cf7991bf60402b3f3ddd574c6cbc00e75b2c613f840f2dd27989/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765312e67696d702e706e67)](https://camo.githubusercontent.com/7a856da345d0cf7991bf60402b3f3ddd574c6cbc00e75b2c613f840f2dd27989/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765312e67696d702e706e67)
+
+### Table of Contents
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#table-of-contents)
+
+**[Installation Instructions](https://github.com/adam-p/markdown-here?screenshot=true#installation-instructions)**  
+**[Usage Instructions](https://github.com/adam-p/markdown-here?screenshot=true#usage-instructions)**  
+**[Troubleshooting](https://github.com/adam-p/markdown-here?screenshot=true#troubleshooting)**  
+**[Compatibility](https://github.com/adam-p/markdown-here?screenshot=true#compatibility)**  
+**[Notes and Miscellaneous](https://github.com/adam-p/markdown-here?screenshot=true#notes-and-miscellaneous)**  
+**[Building the Extension Bundles](https://github.com/adam-p/markdown-here?screenshot=true#building-the-extension-bundles)**  
+**[Next Steps, Credits, Feedback, License](https://github.com/adam-p/markdown-here?screenshot=true#next-steps)**
+
+Installation Instructions
+-------------------------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#installation-instructions)
+
+### Chrome
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#chrome)
+
+#### Chrome Web Store
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#chrome-web-store)
+
+Go to the [Chrome Web Store page for _Markdown Here_](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa) and install normally.
+
+After installing, make sure to reload your webmail or restart Chrome!
+
+#### Manual/Development
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#manualdevelopment)
+
+1.  Clone this repo.
+2.  In Chrome, open the Extensions settings. (Wrench button, Tools, Extensions.)
+3.  On the Extensions settings page, click the "Developer Mode" checkbox.
+4.  Click the now-visible "Load unpacked extension…" button. Navigate to the directory where you cloned the repo, then the `src` directory under that.
+5.  The _Markdown Here_ extension should now be visible in your extensions list.
+6.  Reload your webmail page (and maybe application) before trying to convert an email.
+
+### Firefox and Thunderbird
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#firefox-and-thunderbird)
+
+#### Mozilla Add-ons site
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#mozilla-add-ons-site)
+
+Go to the [Firefox Add-ons page for _Markdown Here_](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/) and install normally.
+
+Or go to the "Tools \> Add-ons" menu and then search for "Markdown Here".
+
+After installing, make sure to restart Firefox/Thunderbird!
+
+**Note:** It takes up to a month for Mozilla to approve changes to the Firefox/Thunderbird extension, so updates (features, fixes) will lag behind what is shown here. You can manually choose to install the newest version before it's reviewed from the list of versions: [https://addons.mozilla.org/en-US/firefox/addon/markdown-here/versions/](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/versions/)
+
+#### Manual/Development
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#manualdevelopment-1)
+
+1.  Clone this repo.
+2.  Follow the instructions in the MDN ["Your first WebExtension"](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#installing) article.
+
+### Safari
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#safari)
+
+[Download the extension directly.](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz) When it has finished downloading, double click it to install.
+
+#### Preferences
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#preferences)
+
+To get to the Markdown Here preferences, open the Safari preferences and then go to the "Extensions" tab. Then click the "Click me to show Markdown Here options" box.
+
+### Opera
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#opera)
+
+Note that _Markdown Here_ only works with Opera versions 16 and higher (i.e., the ones that are based on Chromium).
+
+Go to the [Opera Add-ons store page for _Markdown Here_](https://addons.opera.com/en/extensions/details/markdown-here/) and install normally.
+
+After installing, make sure to reload your webmail or restart Chrome!
+
+Usage Instructions
+------------------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#usage-instructions)
+
+Install it, and then…
+
+1.  In Chrome/Safari/Opera, _make sure_ you reload your web mail page before trying to use Markdown Here.
+    
+2.  In Chrome/Firefox/Safari/Opera, log into your Gmail, Hotmail, or Yahoo account and start a new email. In Thunderbird, start a new message.
+    
+3.  Make sure you're using the rich editor.
+    
+    *   In Gmail, click the "Rich formatting" link, if it's visible.
+    *   In Thunderbird, make sure "Compose messages in HTML format" is enabled in your "Account Settings", "Composition & Addressing" pane.
+4.  Compose an email in Markdown. For example:
+    
+    \*\*Hello\*\* \`world\`.
+    
+    \`\`\`javascript
+    alert('Hello syntax highlighting.');
+    \`\`\`
+    
+5.  Right-click in the compose box and choose the "Markdown Toggle" item from the context menu. Or click the button that appears in your address bar. Or use the hotkey (CTRL+ALT+M by default).
+    
+6.  You should see your email rendered correctly from Markdown into rich HTML.
+    
+7.  Send your awesome email to everyone you know. It will appear to them the same way it looks to you.
+    
+
+### Revert to Markdown
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#revert-to-markdown)
+
+After rendering your Markdown to pretty HTML, you can still get back to your original Markdown. Just right-click anywhere in the newly rendered Markdown and click "Markdown Toggle" -- your email compose body will change back to the Markdown you had written.
+
+Note that any changes you make to the pretty HTML will be lost when you revert to Markdown.
+
+In Gmail, you can also use the browser's Undo command (CTRL+Z / CMD+Z, or from the Edit menu). Be warned that you might also lose the last few characters you entered.
+
+### Replies
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#replies)
+
+In Gmail, Thunderbird, and Google Groups, you can use "Markdown Toggle" normally: just write your reply (top, bottom, inline, wherever) and then convert. The original email that you're replying to will be left alone. (Technically: Existing `blockquote` blocks will be left intact.)
+
+In Hotmail and Yahoo (which don't put the original in a `blockquote`), and optionally in Gmail, Thunderbird, and Google Groups, you can ensure that only the part of the reply that you wrote gets converted by selecting what you want to convert and then clicking "Markdown Toggle" -- see the next section.
+
+### Selection/Piecemeal Conversion
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#selectionpiecemeal-conversion)
+
+Sometimes you don't want to convert the entire email; sometimes your email isn't entirely Markdown. To convert only part of the email, select the text (with your mouse or keyboard), right-click on it, and click the "Markdown Toggle" menu item. Your selection is magically rendered into pretty HTML.
+
+To revert back to Markdown, just put your cursor anywhere in the block of converted text, right-click, and click the "Markdown Toggle" menu item again. Now it's magically back to the original Markdown.
+
+[![Image 28: screenshot of selection conversion](https://camo.githubusercontent.com/f8702080a67a8ca0228bfbcf852ddfe74080050b86049afc7e78fd0274a3335c/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765322e67696d702e706e67)](https://camo.githubusercontent.com/f8702080a67a8ca0228bfbcf852ddfe74080050b86049afc7e78fd0274a3335c/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765322e67696d702e706e67)
+
+#### Things to know about converting/reverting a selection
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#things-to-know-about-convertingreverting-a-selection)
+
+*   If you select only part of a block of text, only that text will be converted. The converted block will be wrapped in a paragraph element, so the original line will be broken up. You probably don't want to ever do this.
+    
+*   You can select and revert multiple converted blocks at the same time. One upshot of this is that you can select your entire email, click "Markdown Toggle", and all portions of it that you had converted will be reverted.
+    
+*   If you don't have anything selected when you click "Markdown Toggle", _Markdown Here_ will check if there are converted blocks anywhere in the message and revert them. If there no converted blocks are found, it will convert the entire email.
+    
+
+### Options
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#options)
+
+The _Markdown Here_ Options page can be accessed via the Chrome, Firefox, Safari, or Thunderbird extensions list. The available options include:
+
+*   Styling modifications for the rendered Markdown.
+*   Syntax highlighting theme selection and modification.
+*   TeX math formulae processing enabling and customization.
+*   What the hotkey should be.
+
+For Chrome and Firefox, any changes made in the _Markdown Here_ Options are automatically synchronized between your other installations of that browser (if you have the sync feature enabled in the browser).
+
+[![Image 29: screenshot of options](https://raw.githubusercontent.com/adam-p/markdown-here/master/store-assets/markdown-here-chrome-options-1.gimp.png)](https://raw.githubusercontent.com/adam-p/markdown-here/master/store-assets/markdown-here-chrome-options-1.gimp.png)
+
+Troubleshooting
+---------------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#troubleshooting)
+
+See the [Troubleshooting wiki page](https://github.com/adam-p/markdown-here/wiki/Troubleshooting).
+
+Compatibility
+-------------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#compatibility)
+
+See the [Compatibility wiki page](https://github.com/adam-p/markdown-here/wiki/Compatibility).
+
+Notes and Miscellaneous
+-----------------------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#notes-and-miscellaneous)
+
+*   _Markdown Here_ uses [Github Flavored Markdown](https://github.github.com/gfm/), with the limitation that GFM special links are not supported ([issue #11](https://github.com/adam-p/markdown-here/issues/11)); nor will they be, as MDH is not Github-specific.
+    
+*   Available languages for syntax highlighting (and the way they should be written in the fenced code block) can be seen on the [highlight.js demo page](https://highlightjs.org/demo).
+    
+*   Images embedded inline in your Markdown will be retained when you "Markdown Toggle". Gmail allows you to put images inline in your email -- this can be much easier than referencing an external image.
+    
+*   Email signatures are automatically excluded from conversion. Specifically, anything after the semi-standard `'-- '` (note the trailing space) is left alone.
+    
+    *   Note that Hotmail and Yahoo do _not_ automatically add the `'-- '` to signatures, so you have to add it yourself.
+*   The "Markdown Toggle" menu item shows up for more element types than it can correctly render. This is intended to help people realize that they're not using a rich editor. Otherwise they just don't see the menu item and don't know why.
+    
+*   Styling:
+    
+    *   The use of browser-specific styles (-moz-, -webkit-) should be avoided. If used, they may not render correctly for people reading the email in a different browser from the one where the email was sent.
+    *   The use of state-dependent styles (like `a:hover`) don't work because they don't match at the time the styles are made explicit. (In email, styles must be explicitly applied to all elements -- stylesheets get stripped.)
+*   For more tweaky features, visit the [Tips and Tricks](https://github.com/adam-p/markdown-here/wiki/Tips-and-Tricks) section.
+    
+
+Building the Extension Bundles
+------------------------------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#building-the-extension-bundles)
+
+### Chrome, Opera, and Firefox (WebExtension) extension
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#chrome-opera-and-firefox-webextension-extension)
+
+Create a file with a `.zip` extension containing these files and directories:
+
+```
+manifest.json
+common/
+chrome/
+_locales
+```
+
+### Thunderbird (XUL) extension
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#thunderbird-xul-extension)
+
+Create a file with a `.xpi` extension containing these files and directories:
+
+```
+chrome.manifest
+install.rdf
+common/
+firefox/
+```
+
+### Safari extension
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#safari-extension)
+
+The browser-specific code is located in the [`markdown-here-safari`](https://github.com/adam-p/markdown-here-safari) project.
+
+Use the Safari Extension Builder.
+
+Next Steps
+----------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#next-steps)
+
+See the [issues list](https://github.com/adam-p/markdown-here/issues) and the [Notes Wiki](https://github.com/adam-p/markdown-here/wiki/Development-Notes). All ideas, bugs, plans, complaints, and dreams will end up in one of those two places.
+
+Feel free to create a feature request issue if what you want isn't already there. If you'd prefer a less formal approach to floating an idea, post to our [GitHub Discussions](https://github.com/adam-p/markdown-here/discussions).
+
+It also takes a fair bit of work to stay up-to-date with the latest changes in all the applications and web sites where Markdown Here works.
+
+Credits
+-------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#credits)
+
+_Markdown Here_ was coded on the shoulders of giants.
+
+*   Markdown-to-HTML: [chjj/marked](https://github.com/chjj/marked)
+*   Syntax highlighting: [isagalaev/highlight.js](https://github.com/isagalaev/highlight.js)
+*   HTML-to-text: [mtrimpe/jsHtmlToText](https://github.com/mtrimpe/jsHtmlToText)
+
+Feedback
+--------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#feedback)
+
+All bugs, feature requests, pull requests, feedback, etc., are welcome. [Create an issue](https://github.com/adam-p/markdown-here/issues). Or [post to out GitHub Discussions](https://github.com/adam-p/markdown-here/discussions).
+
+License
+-------
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#license)
+
+### Code
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#code)
+
+MIT License: [https://adampritchard.mit-license.org/](https://adampritchard.mit-license.org/) or see [the `LICENSE` file](https://github.com/adam-p/markdown-here/blob/master/LICENSE).
+
+### Logo
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#logo)
+
+Copyright 2015, [Austin Anderson](https://www.angerson.org/). Licensed to Markdown Here under the [MDH contributor license agreement](https://github.com/adam-p/markdown-here/blob/master/CLA-individual.md).
+
+### Other images
+
+[](https://github.com/adam-p/markdown-here?screenshot=true#other-images)
+
+[Creative Commons Attribution 3.0 Unported (CC BY 3.0) License](https://creativecommons.org/licenses/by/3.0/)
+
+* * *
+
+[![Image 30: Dos Equis man says](https://camo.githubusercontent.com/3084e7678660f7d168ecfcd755622493baff340e1c9554c13bd13365e6617bde/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f646f732d65717569732d4d44482e6a7067)](https://camo.githubusercontent.com/3084e7678660f7d168ecfcd755622493baff340e1c9554c13bd13365e6617bde/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f646f732d65717569732d4d44482e6a7067)
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - adam-p/markdown-here: Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",
+  "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. - adam-p/markdown-here",
+  "url": "https://github.com/adam-p/markdown-here?screenshot=true",
+  "content": "[![Image 26: Markdown Here logo](https://camo.githubusercontent.com/23d27047587115fcf37b23240611e49ca047ff0ad678df077203f01a5ea2f0b1/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f7372632f636f6d6d6f6e2f696d616765732f69636f6e34382e706e67)](https://camo.githubusercontent.com/23d27047587115fcf37b23240611e49ca047ff0ad678df077203f01a5ea2f0b1/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f7372632f636f6d6d6f6e2f696d616765732f69636f6e34382e706e67) Markdown Here\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#-markdown-here)\n\n[**Visit the website.**](https://markdown-here.com/)  \n[**Get it for Chrome.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)  \n[**Get it for Firefox.**](https://addons.mozilla.org/firefox/addon/markdown-here/)  \n[**Get it for Safari.**](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz)  \n[**Get it for Thunderbird.**](https://addons.mozilla.org/thunderbird/addon/markdown-here/)  \n[**Get it for Opera.**](https://addons.opera.com/extensions/details/markdown-here/)  \n[**Discuss it and ask questions in GitHub Discussions.**](https://github.com/adam-p/markdown-here/discussions)\n\n_Markdown Here_ is a Google Chrome, Firefox, Safari, Opera, and Thunderbird extension that lets you write email† in Markdown‡ and render them before sending. It also supports syntax highlighting (just specify the language in a fenced code block).\n\nWriting email with code in it is pretty tedious. Writing Markdown with code in it is easy. I found myself writing email in Markdown in the GitHub in-browser editor, then copying the preview into email. This is a pretty absurd workflow, so I decided to create a tool to write and render Markdown right in the email.\n\nTo discover what can be done with Markdown in _Markdown Here_, check out the [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) and the other [wiki pages](https://github.com/adam-p/markdown-here/wiki).\n\n†: And Google Groups posts, and Blogger posts, and Evernote notes, and Wordpress posts! [See more](https://github.com/adam-p/markdown-here?screenshot=true#compatibility).  \n‡: And TeX mathematical formulae!\n\n[![Image 27: screenshot of conversion](https://camo.githubusercontent.com/7a856da345d0cf7991bf60402b3f3ddd574c6cbc00e75b2c613f840f2dd27989/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765312e67696d702e706e67)](https://camo.githubusercontent.com/7a856da345d0cf7991bf60402b3f3ddd574c6cbc00e75b2c613f840f2dd27989/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765312e67696d702e706e67)\n\n### Table of Contents\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#table-of-contents)\n\n**[Installation Instructions](https://github.com/adam-p/markdown-here?screenshot=true#installation-instructions)**  \n**[Usage Instructions](https://github.com/adam-p/markdown-here?screenshot=true#usage-instructions)**  \n**[Troubleshooting](https://github.com/adam-p/markdown-here?screenshot=true#troubleshooting)**  \n**[Compatibility](https://github.com/adam-p/markdown-here?screenshot=true#compatibility)**  \n**[Notes and Miscellaneous](https://github.com/adam-p/markdown-here?screenshot=true#notes-and-miscellaneous)**  \n**[Building the Extension Bundles](https://github.com/adam-p/markdown-here?screenshot=true#building-the-extension-bundles)**  \n**[Next Steps, Credits, Feedback, License](https://github.com/adam-p/markdown-here?screenshot=true#next-steps)**\n\nInstallation Instructions\n-------------------------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#installation-instructions)\n\n### Chrome\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#chrome)\n\n#### Chrome Web Store\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#chrome-web-store)\n\nGo to the [Chrome Web Store page for _Markdown Here_](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa) and install normally.\n\nAfter installing, make sure to reload your webmail or restart Chrome!\n\n#### Manual/Development\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#manualdevelopment)\n\n1.  Clone this repo.\n2.  In Chrome, open the Extensions settings. (Wrench button, Tools, Extensions.)\n3.  On the Extensions settings page, click the \"Developer Mode\" checkbox.\n4.  Click the now-visible \"Load unpacked extension…\" button. Navigate to the directory where you cloned the repo, then the `src` directory under that.\n5.  The _Markdown Here_ extension should now be visible in your extensions list.\n6.  Reload your webmail page (and maybe application) before trying to convert an email.\n\n### Firefox and Thunderbird\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#firefox-and-thunderbird)\n\n#### Mozilla Add-ons site\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#mozilla-add-ons-site)\n\nGo to the [Firefox Add-ons page for _Markdown Here_](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/) and install normally.\n\nOr go to the \"Tools \\> Add-ons\" menu and then search for \"Markdown Here\".\n\nAfter installing, make sure to restart Firefox/Thunderbird!\n\n**Note:** It takes up to a month for Mozilla to approve changes to the Firefox/Thunderbird extension, so updates (features, fixes) will lag behind what is shown here. You can manually choose to install the newest version before it's reviewed from the list of versions: [https://addons.mozilla.org/en-US/firefox/addon/markdown-here/versions/](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/versions/)\n\n#### Manual/Development\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#manualdevelopment-1)\n\n1.  Clone this repo.\n2.  Follow the instructions in the MDN [\"Your first WebExtension\"](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#installing) article.\n\n### Safari\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#safari)\n\n[Download the extension directly.](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz) When it has finished downloading, double click it to install.\n\n#### Preferences\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#preferences)\n\nTo get to the Markdown Here preferences, open the Safari preferences and then go to the \"Extensions\" tab. Then click the \"Click me to show Markdown Here options\" box.\n\n### Opera\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#opera)\n\nNote that _Markdown Here_ only works with Opera versions 16 and higher (i.e., the ones that are based on Chromium).\n\nGo to the [Opera Add-ons store page for _Markdown Here_](https://addons.opera.com/en/extensions/details/markdown-here/) and install normally.\n\nAfter installing, make sure to reload your webmail or restart Chrome!\n\nUsage Instructions\n------------------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#usage-instructions)\n\nInstall it, and then…\n\n1.  In Chrome/Safari/Opera, _make sure_ you reload your web mail page before trying to use Markdown Here.\n    \n2.  In Chrome/Firefox/Safari/Opera, log into your Gmail, Hotmail, or Yahoo account and start a new email. In Thunderbird, start a new message.\n    \n3.  Make sure you're using the rich editor.\n    \n    *   In Gmail, click the \"Rich formatting\" link, if it's visible.\n    *   In Thunderbird, make sure \"Compose messages in HTML format\" is enabled in your \"Account Settings\", \"Composition & Addressing\" pane.\n4.  Compose an email in Markdown. For example:\n    \n    \\*\\*Hello\\*\\* \\`world\\`.\n    \n    \\`\\`\\`javascript\n    alert('Hello syntax highlighting.');\n    \\`\\`\\`\n    \n5.  Right-click in the compose box and choose the \"Markdown Toggle\" item from the context menu. Or click the button that appears in your address bar. Or use the hotkey (CTRL+ALT+M by default).\n    \n6.  You should see your email rendered correctly from Markdown into rich HTML.\n    \n7.  Send your awesome email to everyone you know. It will appear to them the same way it looks to you.\n    \n\n### Revert to Markdown\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#revert-to-markdown)\n\nAfter rendering your Markdown to pretty HTML, you can still get back to your original Markdown. Just right-click anywhere in the newly rendered Markdown and click \"Markdown Toggle\" -- your email compose body will change back to the Markdown you had written.\n\nNote that any changes you make to the pretty HTML will be lost when you revert to Markdown.\n\nIn Gmail, you can also use the browser's Undo command (CTRL+Z / CMD+Z, or from the Edit menu). Be warned that you might also lose the last few characters you entered.\n\n### Replies\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#replies)\n\nIn Gmail, Thunderbird, and Google Groups, you can use \"Markdown Toggle\" normally: just write your reply (top, bottom, inline, wherever) and then convert. The original email that you're replying to will be left alone. (Technically: Existing `blockquote` blocks will be left intact.)\n\nIn Hotmail and Yahoo (which don't put the original in a `blockquote`), and optionally in Gmail, Thunderbird, and Google Groups, you can ensure that only the part of the reply that you wrote gets converted by selecting what you want to convert and then clicking \"Markdown Toggle\" -- see the next section.\n\n### Selection/Piecemeal Conversion\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#selectionpiecemeal-conversion)\n\nSometimes you don't want to convert the entire email; sometimes your email isn't entirely Markdown. To convert only part of the email, select the text (with your mouse or keyboard), right-click on it, and click the \"Markdown Toggle\" menu item. Your selection is magically rendered into pretty HTML.\n\nTo revert back to Markdown, just put your cursor anywhere in the block of converted text, right-click, and click the \"Markdown Toggle\" menu item again. Now it's magically back to the original Markdown.\n\n[![Image 28: screenshot of selection conversion](https://camo.githubusercontent.com/f8702080a67a8ca0228bfbcf852ddfe74080050b86049afc7e78fd0274a3335c/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765322e67696d702e706e67)](https://camo.githubusercontent.com/f8702080a67a8ca0228bfbcf852ddfe74080050b86049afc7e78fd0274a3335c/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765322e67696d702e706e67)\n\n#### Things to know about converting/reverting a selection\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#things-to-know-about-convertingreverting-a-selection)\n\n*   If you select only part of a block of text, only that text will be converted. The converted block will be wrapped in a paragraph element, so the original line will be broken up. You probably don't want to ever do this.\n    \n*   You can select and revert multiple converted blocks at the same time. One upshot of this is that you can select your entire email, click \"Markdown Toggle\", and all portions of it that you had converted will be reverted.\n    \n*   If you don't have anything selected when you click \"Markdown Toggle\", _Markdown Here_ will check if there are converted blocks anywhere in the message and revert them. If there no converted blocks are found, it will convert the entire email.\n    \n\n### Options\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#options)\n\nThe _Markdown Here_ Options page can be accessed via the Chrome, Firefox, Safari, or Thunderbird extensions list. The available options include:\n\n*   Styling modifications for the rendered Markdown.\n*   Syntax highlighting theme selection and modification.\n*   TeX math formulae processing enabling and customization.\n*   What the hotkey should be.\n\nFor Chrome and Firefox, any changes made in the _Markdown Here_ Options are automatically synchronized between your other installations of that browser (if you have the sync feature enabled in the browser).\n\n[![Image 29: screenshot of options](https://raw.githubusercontent.com/adam-p/markdown-here/master/store-assets/markdown-here-chrome-options-1.gimp.png)](https://raw.githubusercontent.com/adam-p/markdown-here/master/store-assets/markdown-here-chrome-options-1.gimp.png)\n\nTroubleshooting\n---------------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#troubleshooting)\n\nSee the [Troubleshooting wiki page](https://github.com/adam-p/markdown-here/wiki/Troubleshooting).\n\nCompatibility\n-------------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#compatibility)\n\nSee the [Compatibility wiki page](https://github.com/adam-p/markdown-here/wiki/Compatibility).\n\nNotes and Miscellaneous\n-----------------------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#notes-and-miscellaneous)\n\n*   _Markdown Here_ uses [Github Flavored Markdown](https://github.github.com/gfm/), with the limitation that GFM special links are not supported ([issue #11](https://github.com/adam-p/markdown-here/issues/11)); nor will they be, as MDH is not Github-specific.\n    \n*   Available languages for syntax highlighting (and the way they should be written in the fenced code block) can be seen on the [highlight.js demo page](https://highlightjs.org/demo).\n    \n*   Images embedded inline in your Markdown will be retained when you \"Markdown Toggle\". Gmail allows you to put images inline in your email -- this can be much easier than referencing an external image.\n    \n*   Email signatures are automatically excluded from conversion. Specifically, anything after the semi-standard `'-- '` (note the trailing space) is left alone.\n    \n    *   Note that Hotmail and Yahoo do _not_ automatically add the `'-- '` to signatures, so you have to add it yourself.\n*   The \"Markdown Toggle\" menu item shows up for more element types than it can correctly render. This is intended to help people realize that they're not using a rich editor. Otherwise they just don't see the menu item and don't know why.\n    \n*   Styling:\n    \n    *   The use of browser-specific styles (-moz-, -webkit-) should be avoided. If used, they may not render correctly for people reading the email in a different browser from the one where the email was sent.\n    *   The use of state-dependent styles (like `a:hover`) don't work because they don't match at the time the styles are made explicit. (In email, styles must be explicitly applied to all elements -- stylesheets get stripped.)\n*   For more tweaky features, visit the [Tips and Tricks](https://github.com/adam-p/markdown-here/wiki/Tips-and-Tricks) section.\n    \n\nBuilding the Extension Bundles\n------------------------------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#building-the-extension-bundles)\n\n### Chrome, Opera, and Firefox (WebExtension) extension\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#chrome-opera-and-firefox-webextension-extension)\n\nCreate a file with a `.zip` extension containing these files and directories:\n\n```\nmanifest.json\ncommon/\nchrome/\n_locales\n```\n\n### Thunderbird (XUL) extension\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#thunderbird-xul-extension)\n\nCreate a file with a `.xpi` extension containing these files and directories:\n\n```\nchrome.manifest\ninstall.rdf\ncommon/\nfirefox/\n```\n\n### Safari extension\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#safari-extension)\n\nThe browser-specific code is located in the [`markdown-here-safari`](https://github.com/adam-p/markdown-here-safari) project.\n\nUse the Safari Extension Builder.\n\nNext Steps\n----------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#next-steps)\n\nSee the [issues list](https://github.com/adam-p/markdown-here/issues) and the [Notes Wiki](https://github.com/adam-p/markdown-here/wiki/Development-Notes). All ideas, bugs, plans, complaints, and dreams will end up in one of those two places.\n\nFeel free to create a feature request issue if what you want isn't already there. If you'd prefer a less formal approach to floating an idea, post to our [GitHub Discussions](https://github.com/adam-p/markdown-here/discussions).\n\nIt also takes a fair bit of work to stay up-to-date with the latest changes in all the applications and web sites where Markdown Here works.\n\nCredits\n-------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#credits)\n\n_Markdown Here_ was coded on the shoulders of giants.\n\n*   Markdown-to-HTML: [chjj/marked](https://github.com/chjj/marked)\n*   Syntax highlighting: [isagalaev/highlight.js](https://github.com/isagalaev/highlight.js)\n*   HTML-to-text: [mtrimpe/jsHtmlToText](https://github.com/mtrimpe/jsHtmlToText)\n\nFeedback\n--------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#feedback)\n\nAll bugs, feature requests, pull requests, feedback, etc., are welcome. [Create an issue](https://github.com/adam-p/markdown-here/issues). Or [post to out GitHub Discussions](https://github.com/adam-p/markdown-here/discussions).\n\nLicense\n-------\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#license)\n\n### Code\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#code)\n\nMIT License: [https://adampritchard.mit-license.org/](https://adampritchard.mit-license.org/) or see [the `LICENSE` file](https://github.com/adam-p/markdown-here/blob/master/LICENSE).\n\n### Logo\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#logo)\n\nCopyright 2015, [Austin Anderson](https://www.angerson.org/). Licensed to Markdown Here under the [MDH contributor license agreement](https://github.com/adam-p/markdown-here/blob/master/CLA-individual.md).\n\n### Other images\n\n[](https://github.com/adam-p/markdown-here?screenshot=true#other-images)\n\n[Creative Commons Attribution 3.0 Unported (CC BY 3.0) License](https://creativecommons.org/licenses/by/3.0/)\n\n* * *\n\n[![Image 30: Dos Equis man says](https://camo.githubusercontent.com/3084e7678660f7d168ecfcd755622493baff340e1c9554c13bd13365e6617bde/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f646f732d65717569732d4d44482e6a7067)](https://camo.githubusercontent.com/3084e7678660f7d168ecfcd755622493baff340e1c9554c13bd13365e6617bde/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f646f732d65717569732d4d44482e6a7067)",
+  "usage": {
+    "tokens": 4981
+  }
+}
+```

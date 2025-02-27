@@ -1,0 +1,392 @@
+Property Market Analytics - PropertyData
+===============
+
+[![Image 32: PropertyData - the leading analytics tool for residential property investors, agents & developers](https://propertydata.co.uk/images/logo.svg)](https://propertydata.co.uk/)
+
+*   Research
+    
+    [Local Data Detailed analytics for any UK urban or suburban area](https://propertydata.co.uk/local-data)[Postcode Data Key property investment statistics by postcode district](https://propertydata.co.uk/postcode-data)[Newsroom The latest property market news](https://propertydata.co.uk/newsroom)
+    
+    [Yield hotspots Areas with the best rental yields](https://propertydata.co.uk/yield-hotspots)[National Chart Library Charts on the national property market & economy](https://propertydata.co.uk/chart-library)[Browser extension Add data to portal listings pages](https://propertydata.co.uk/browser-extension)[Council Tax Index Average Band D council tax payable annually](https://propertydata.co.uk/council-tax)
+    
+    [Research overview](https://propertydata.co.uk/research)
+    
+*   Source
+    
+    On-market
+    
+    [Source by strategy Quickly find on-market opportunities identified by our algorithms](https://propertydata.co.uk/source-on-market)[Rent-to-rent Source rent-to-rent property opportunities](https://propertydata.co.uk/rent-to-rent)[Quick property finder Chat with our bot to find your next investment property](https://propertydata.co.uk/property-finder)
+    
+    Off-market
+    
+    [Letter sending Use our off-market sourcing tools to send letters and generate leads](https://propertydata.co.uk/source-off-market)[Planning alerts Create alerts for new matching planning applications in particular areas](https://propertydata.co.uk/planning-alerts)[Titles by company Find all the land titles that are owned by a particular company](https://propertydata.co.uk/plots-by-company)
+    
+    [Source overview](https://propertydata.co.uk/sourcing)
+    
+*   Evaluate
+    
+    [Plot Map Hi-res plot maps showing buildings, boundaries, ownership & more](https://propertydata.co.uk/plot-map)[Valuation Instant valuation of any urban or suburban UK property](https://propertydata.co.uk/valuation)[Comparables Quickly find sale / rental comparables](https://propertydata.co.uk/comparables-finder)[Construction costs Use our set of calculators to estimate construction and development costs](https://propertydata.co.uk/construction-costs)
+    
+    [Finance finder Specialist development & bridging loans](https://propertydata.co.uk/finance-finder)[National HMO register Search our National HMO Register](https://propertydata.co.uk/national-hmo-register)[Internal area lookup Find the internal area of a property](https://propertydata.co.uk/internal-area-lookup)[Council tax lookup Find the council tax band of a property](https://propertydata.co.uk/council-tax-lookup)[Stamp duty calculator Calculate the transaction tax on property purchases](https://propertydata.co.uk/stamp-duty-calculator)[Mortgage interest calculator Calculate the interest payable on a fixed term deal](https://propertydata.co.uk/mortgage-interest-calculator)[Yield calculator Calculate rental yields for a property](https://propertydata.co.uk/yield-calculator)
+    
+    [Evaluate overview](https://propertydata.co.uk/evaluate)
+    
+
+*   Learn
+    
+    2-min tutorials
+    
+    [Quick overview](https://propertydata.co.uk/videos/quick-overview)[Postcode Data](https://propertydata.co.uk/videos/postcode-data)[Local Data](https://propertydata.co.uk/videos/local-data)[On-market sourcing](https://propertydata.co.uk/videos/on-market-sourcing)[Letter sending](https://propertydata.co.uk/videos/letter-sending)[Planning alerts](https://propertydata.co.uk/videos/planning-alerts)[Plot Map](https://propertydata.co.uk/videos/plot-map)[Valuation](https://propertydata.co.uk/videos/valuation)[Comparables](https://propertydata.co.uk/videos/comparables)[Development Calculator](https://propertydata.co.uk/videos/development-calculator)
+    
+    [![Image 33](https://propertydata.co.uk/images/illustrations/squares.svg)One-on-one training Get the most out of your PropertyData subscription with a training session](https://propertydata.co.uk/training)[![Image 34](https://propertydata.co.uk/images/illustrations/circles.svg)For Investors Some of the ways property investors use PropertyData to boost their returns](https://propertydata.co.uk/investors)[![Image 35](https://propertydata.co.uk/images/illustrations/bricks.svg)For Developers How property developers can use market research in decision-making](https://propertydata.co.uk/developers)[![Image 36](https://propertydata.co.uk/images/illustrations/dots.svg)For Agents How agents can use PropertyData to gain an edge on the competition](https://propertydata.co.uk/agents)
+    
+*   About
+    
+    [Pricing Simple subscription packages from £14/month](https://propertydata.co.uk/pricing?x=pricing)[£/sqft Our data on this important valuation metric](https://propertydata.co.uk/price-per-square-foot)[Data sources We're always completely transparent about our data](https://propertydata.co.uk/data-sources)
+    
+    [Coverage Find out which data sets cover which UK countries](https://propertydata.co.uk/coverage)[Manage your account Change or cancel your subscription in your account area](https://propertydata.co.uk/account)[Email support Email us for technical support, account queries, or anything else](https://propertydata.co.uk/contact)
+    
+*   API
+    
+    [Overview The UK's most comprehensive residential property API](https://propertydata.co.uk/api)[Documentation Complete API documentation including sample API requests](https://propertydata.co.uk/api/documentation)[Excel service We provide a bespoke service where a supplied Excel document is returned populated with data](https://propertydata.co.uk/excel-service)
+    
+    [Pricing Competitively priced packages starting from £28/month](https://propertydata.co.uk/api/pricing?x=navigation)[Status We monitor our API constantly to track uptime and response times](https://propertydata.co.uk/api/status)
+    
+
+[Log in](https://propertydata.co.uk/login) [Try for free](https://propertydata.co.uk/pricing?x=sign_up)
+
+The leading analytics tool for investors and developers
+=======================================================
+
+[Try for free](https://propertydata.co.uk/pricing?x=homepage_hero)
+
+Whether you are a property investor or a homebuyer, PropertyData provides you with the tools to make better decisions when buying UK residential property.
+
+[01 Research ![Image 37: Circle arrow pointing right](https://propertydata.co.uk/images/v2/icons/arrow-circle-right.svg) Start with our research tools to shortlist areas and then analyse local areas in great detail. You'll find data on pricing, rental values, yields, capital growth, property stock analysis demographics and much more. ![Image 38: Circle arrow pointing right](https://propertydata.co.uk/images/v2/icons/arrow-circle-right.svg)](https://propertydata.co.uk/research)[02 Source ![Image 39: Circle arrow pointing right](https://propertydata.co.uk/images/v2/icons/arrow-circle-right.svg) Our algorithms scan the market daily for properties that match specific buying strategies. Or try our off-market sourcing tool where you can send letters to property owners offering to buy their property. ![Image 40: Circle arrow pointing right](https://propertydata.co.uk/images/v2/icons/arrow-circle-right.svg)](https://propertydata.co.uk/sourcing)[03 Evaluate ![Image 41: Circle arrow pointing right](https://propertydata.co.uk/images/v2/icons/arrow-circle-right.svg) Use our Plot Map tool to confirm boundaries, building footprints, planning applications and much more. Or use our Valuation tool to get instant automated valuations for any urban or suburban property. ![Image 42: Circle arrow pointing right](https://propertydata.co.uk/images/v2/icons/arrow-circle-right.svg)](https://propertydata.co.uk/evaluate)
+
+How PropertyData can help you
+
+[Be a smarter property investor using data Some of the ways property investors use PropertyData to boost their returns I'm an investor ![Image 43: White arrow pointing right](https://propertydata.co.uk/images/v2/icons/arrow-right-white.svg)](https://propertydata.co.uk/investors) [Make data-driven development decisions How property developers can use market research in decision-making I'm a developer ![Image 44: White arrow pointing right](https://propertydata.co.uk/images/v2/icons/arrow-right-white.svg)](https://propertydata.co.uk/developers) [Save time and impress your clients with data How agents can use PropertyData to gain an edge on the competition I'm an agent ![Image 45: White arrow pointing right](https://propertydata.co.uk/images/v2/icons/arrow-right-white.svg)](https://propertydata.co.uk/agents) 
+
+Hear from our satisfied customers
+
+“As a Data Engineer, I have a profound appreciation for PropertyData, as it automates so much of the sourcing process that I would have otherwise written my own scripts for. It's an easy-to-use tool at an affordable price.”
+
+Play video![Image 46: Play video symbol triangle in circle pointing right](https://propertydata.co.uk/images/v2/icons/play-button-white.svg)
+
+![Image 47: Photo of Christian Buehner](https://propertydata.co.uk/images/v2/jpg/christian-buehner.png)
+
+  
+
+Newsroom
+
+The latest property market and economic news
+
+[3 days ago Mortgage rules could be eased to boost loans ![Image 48](https://propertydata.co.uk/images/news-sources/bbc.png) ![Image 49: Circle arrow pointing top right](https://propertydata.co.uk/images/v2/icons/arrow-circle-top-right.svg)](https://www.bbc.co.uk/news/articles/cdryy33v13ko) [1 week ago The latest data signals much-needed stability for the London rental market ![Image 50](https://propertydata.co.uk/images/news-sources/property-industry-eye.png) ![Image 51: Circle arrow pointing top right](https://propertydata.co.uk/images/v2/icons/arrow-circle-top-right.svg)](https://propertydata.co.uk/Thelatestdatasignalsmuch-neededstabilityfortheLondonrentalmarket) [1 week ago Sellers hit as house price gains reach record low ![Image 52](https://propertydata.co.uk/images/news-sources/estate-agent-today.png) ![Image 53: Circle arrow pointing top right](https://propertydata.co.uk/images/v2/icons/arrow-circle-top-right.svg)](https://www.estateagenttoday.co.uk/breaking-news/2025/01/sellers-hit-as-house-price-gains-reach-record-low/) [1 week ago Average rental yields rise by 0.6pp ![Image 54](https://propertydata.co.uk/images/news-sources/financial-times.png) ![Image 55: Circle arrow pointing top right](https://propertydata.co.uk/images/v2/icons/arrow-circle-top-right.svg)](https://www.ftadviser.com/property/2025/1/13/average-rental-yields-rise-by-0-6pp/) 
+
+Get the insights you need to find your next property investment opportunity.
+
+Try PropertyData for free for 14-days with no commitment. Monthly rolling subscription after trial, cancel at any time.
+
+[Signup for free](https://propertydata.co.uk/pricing?x=research)
+
+![Image 56: PropertyData - the leading analytics tool for residential property investors, agents & developers](https://propertydata.co.uk/images/v2/icons/logo-white.svg)
+
+[Data by city](https://propertydata.co.uk/cities) [Resources](https://propertydata.co.uk/resources) [What's new](https://propertydata.co.uk/whats-new) [PropertyData Score](https://propertydata.co.uk/propertydata-score) [Contact us](https://propertydata.co.uk/contact)
+
+[Liberty Tech Limited](http://libertytech.ltd/) • Company number 7689724 • VAT number 132 0271 67
+
+[Terms](https://propertydata.co.uk/terms) [Privacy](https://propertydata.co.uk/privacy) [Fair usage policy](https://propertydata.co.uk/fair-usage) [Cookies](https://propertydata.co.uk/cookies) [Affiliate program](https://propertydata.co.uk/affiliates)
+
+Loading...
+
+...
+
+Limit reached
+
+Sorry, you've reached your monthly search limit.
+
+Upgrade your account for more searches.
+
+[Upgrade](https://propertydata.co.uk/change-plan)
+
+Upgrade to download PDFs
+
+There are many places in PropertyData to export data as well-formatted PDF files, including Local Data, Plot Map, Valuations, property reports and more.
+
+|   | Download PDFs | Branded PDFs |
+| --- | --- | --- |
+| Basic |  |  |
+| Standard |  |  |
+| Pro |  |  |
+| Unlimited |  |  |
+
+[Start your free trial now](https://propertydata.co.uk/pricing?x=download_pdf)
+
+Transparent data promise
+
+Where does the raw data come from?
+
+Property listings seen on rightmove.co.uk, zoopla.co.uk and onthemarket.com.
+
+How often is the data updated?
+
+The data is updated in near real-time.
+
+What time period does the data cover?
+
+This is a real-time market snapshot - the data covers currently listed properties. Once properties are removed from the portal, they are soon removed from this tab.
+
+How is the raw data processed?
+
+Duplicates from multiple sources are matched and reconciled as far as possible. Listings with obvious errors, where price or number or bedrooms appear out of range, are discarded.
+
+What are the statistics used?
+
+Averages shown are the [interquartile mean](https://en.wikipedia.org/wiki/Interquartile_mean), a type of average that is insensitive to outliers while being its own distinct parameter. The 80% range means that 80% of the listed properties fall inside this range.
+
+Where does the raw data come from?
+
+Property listings seen on rightmove.co.uk, zoopla.co.uk and onthemarket.com.
+
+How do you know the square footage of properties?
+
+We use proprietary technology to read the square footage of properties from agent floorplans. Although we cannot determine the square footage for all properties, we can usually get sufficient coverage. Agents are sometimes known to inflate square footage, and this should be borne in mind as a weakness of this data.
+
+How often is the data updated?
+
+The data is updated in near real-time.
+
+What time period does the data cover?
+
+This is a real-time market snapshot - the data covers currently listed properties. Once properties are removed from the portal, they are soon removed from this tab.
+
+How is the raw data processed?
+
+Duplicates from multiple sources are matched and reconciled as far as possible. Listings with obvious errors, where price or number or bedrooms appear out of range, are discarded.
+
+What are the statistics used?
+
+The average shown is the [interquartile mean](https://en.wikipedia.org/wiki/Interquartile_mean), a type of average that is insensitive to outliers while being its own distinct parameter. The 80% range means that 80% of the listed properties fall inside this range.
+
+Where does the raw data come from?
+
+Property "price paid" data provided by the [Land Registry](https://www.gov.uk/government/organisations/land-registry).
+
+How often is the data updated?
+
+Once per month when released by the Land Registry, typically towards the end of each calendar month covering up to the end of the previous calendar month.
+
+What time period does the data cover?
+
+You can customise the time period using the filter at the top of the view. The default time period is up to 9 months back from today's date. The latest data covers the period up to 2024-11-29, although some sales that took place before this date may still be added in the coming months.
+
+How is the raw data processed?
+
+No additional processes are applied to this data.
+
+What are the statistics used?
+
+Averages shown are the [interquartile mean](https://en.wikipedia.org/wiki/Interquartile_mean), a type of average that is insensitive to outliers while being its own distinct parameter. The 80% range means that 80% of the listed properties fall inside this range.
+
+Where does the raw data come from?
+
+Property "price paid" data provided by the [Land Registry](https://www.gov.uk/government/organisations/land-registry), and Energy Performance Certificate (EPC) data provided by [Department for Levelling Up, Housing & Communities](https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities).
+
+How do you know the square footage of properties?
+
+We match the Land Registry data to EPC data provided by the Department for Levelling Up, Housing & Communities. Due to the fact that not all properties sold have had an EPC and vagaries of addressing in the UK, we are not able to determine the square footage of all properties, but we can usually get sufficient coverage.
+
+How often is the data updated?
+
+The private paid data is updated once per month when released by the Land Registry, typically towards the end of each calendar month covering up to the end of the previous calendar month. The energy performance certificate database is updated monthly.
+
+What time period does the data cover?
+
+You can customise the time period using the filter at the top of the view. The default time period is up to 9 months back from today's date. The latest data covers the period up to 2024-11-29, although some sales that took place before this date may still be added in the coming months.
+
+How is the raw data processed?
+
+No additional processes are applied to this data.
+
+What are the statistics used?
+
+The average shown is the [interquartile mean](https://en.wikipedia.org/wiki/Interquartile_mean), a type of average that is insensitive to outliers while being its own distinct parameter. The 80% range means that 80% of the listed properties fall inside this range.
+
+Where does the raw data come from?
+
+Property listings seen on rightmove.co.uk, zoopla.co.uk and onthemarket.com.
+
+How often is the data updated?
+
+The data is updated in near real-time.
+
+What time period does the data cover?
+
+This is a real-time market snapshot - the data covers currently listed properties. Once properties are removed from the portal, they are soon removed from this tab.
+
+How is the raw data processed?
+
+Duplicates from multiple sources are matched and reconciled as far as possible. Listings with obvious errors, where price or number or bedrooms appear out of range, are discarded.
+
+What are the statistics used?
+
+The average shown is the [interquartile mean](https://en.wikipedia.org/wiki/Interquartile_mean), a type of average that is insensitive to outliers while being its own distinct parameter. The 80% range means that 80% of the listed properties fall inside this range.
+
+Where does the raw data come from?
+
+Room let listings on [SpareRoom](http://spareroom.co.uk/), the UK's biggest room letting website.
+
+How often is the data updated?
+
+The data is updated in near real-time.
+
+What time period does the data cover?
+
+This is a real-time market snapshot - the data covers currently listed properties. Once properties are removed from SpareRoom, they are soon removed from this tab.
+
+How is the raw data processed?
+
+Listings with obvious errors, where price or number or bedrooms appear out of range, are discarded.
+
+What are the statistics used?
+
+The average shown is the [interquartile mean](https://en.wikipedia.org/wiki/Interquartile_mean), a type of average that is insensitive to outliers while being its own distinct parameter. The 80% range means that 80% of the listed properties fall inside this range.
+
+Where does the raw data come from?
+
+Property listings seen on rightmove.co.uk, zoopla.co.uk and onthemarket.com.
+
+How often is the data updated?
+
+The data is updated in near real-time.
+
+What time period does the data cover?
+
+This is a real-time market snapshot - the data covers currently listed properties. Once properties are removed from the portal, they are soon removed from this tab.
+
+How is the raw data processed?
+
+Duplicates from multiple sources are matched and reconciled as far as possible. Listings with obvious errors, where price or number or bedrooms appear out of range, are discarded. Yields are calculated by comparing only properties with the same number of bedrooms, e.g. 3-bedroom properties for rent with 3-bedroom properties for sale.
+
+What is the yield calculation used?
+
+The calculation used is (average\_weekly\_asking\_rent \* 52 / average\_asking\_price), expressed as a percentage. It is a top-line gross yield, meaning no expenses are considered.
+
+What are the statistics used?
+
+The average shown is the [interquartile mean](https://en.wikipedia.org/wiki/Interquartile_mean), a type of average that is insensitive to outliers while being its own distinct parameter. The 80% range means that 80% of the listed properties fall inside this range.
+
+Where does the raw data come from?
+
+Property listings seen on rightmove.co.uk, zoopla.co.uk and onthemarket.com.
+
+How often is the data updated?
+
+The data is updated in near real-time.
+
+What time period does the data cover?
+
+This is a real-time market snapshot - the data covers currently listed properties. Once properties are removed from Zoopla, Rightmove or Spareroom, they are soon removed from this tab.
+
+How is the raw data processed?
+
+Duplicates from multiple sources are matched and reconciled as far as possible. Yields are calculated by comparing only properties with the same number of bedrooms, e.g. 3-bedroom properties for rent with 3-bedroom properties for sale. For the SpareRoom data, hypothetical properties consisting of two to six average double rooms with shared bathrooms are used to derived average rent. For all sources, listings with obvious errors, where price or number or bedrooms appear out of range, are discarded.
+
+What is the yield calculation used?
+
+The calculation used is (average\_weekly\_asking\_rent \* 52 / average\_asking\_price), expressed as a percentage. It is a top-line gross yield, meaning no expenses are considered.
+
+What are the statistics used?
+
+The average shown is the [interquartile mean](https://en.wikipedia.org/wiki/Interquartile_mean), a type of average that is insensitive to outliers while being its own distinct parameter. The 80% range means that 80% of the listed properties fall inside this range.
+
+Where does the raw data come from?
+
+Property "price paid" data provided by the [Land Registry](https://www.gov.uk/government/organisations/land-registry).
+
+How often is the data updated?
+
+Once per month when released by the Land Registry, typically towards the end of each calendar month covering up to the end of the previous calendar month.
+
+[Zoopla](http://zoopla.co.uk/) Zed-index
+
+What time period does the data cover?
+
+The data covers transactions in the last six years
+
+How is the raw data processed?
+
+No additional processes are applied to this data.
+
+What are the statistics used?
+
+The average shown is the [interquartile mean](https://en.wikipedia.org/wiki/Interquartile_mean), a type of average that is insensitive to outliers while being its own distinct parameter. The 80% range means that 80% of the listed properties fall inside this range.
+
+Where does the raw data come from?
+
+Property listings seen on rightmove.co.uk, zoopla.co.uk and onthemarket.com.
+
+How often is the data updated?
+
+The listings data is updated in near real-time. The Land Registry data is updated once per month when released, typically towards the end of each calendar month covering up to the end of the previous calendar month.
+
+What time period does the data cover?
+
+The price paid data shown goes back to January 2015. The listings data is a real-time market snapshot - the data covers currently listed properties. Once properties are removed from the portal, they are soon removed from this tab.
+
+How is the raw data processed?
+
+Duplicates from multiple sources are matched and reconciled as far as possible. Listings with obvious errors, where price or number or bedrooms appear out of range, are discarded.
+
+What are the calculations used?
+
+Average sales per month are for the last 3 finalised months. Turnover is average sales per month divided by total for sale. Inventory is 100 divided by turnover.
+
+Where does the raw data come from?
+
+Property listings seen on rightmove.co.uk, zoopla.co.uk and onthemarket.com.
+
+How often is the data updated?
+
+The listings data is updated in near real-time. The Land Registry data is updated once per month when released, typically towards the end of each calendar month covering up to the end of the previous calendar month.
+
+What time period does the data cover?
+
+This is a real-time market snapshot - the data covers currently listed properties. Once properties are removed from the portal, they are soon removed from this tab.
+
+How is the raw data processed?
+
+Duplicates from multiple sources are matched and reconciled as far as possible. Listings with obvious errors, where price or number or bedrooms appear out of range, are discarded.
+
+Where does the raw data come from?
+
+We receive data on the extent and corporate ownership of all land titles in England & Wales from the [Land Registry](https://www.gov.uk/government/organisations/land-registry).
+
+How often is the data updated?
+
+The data is updated once per month when released, typically in the first few days of each calendar month.
+
+What time period does the data cover?
+
+This is an ownership snapshot - the data represents ownership as recorded by the Land Registry at the last monthly export.
+
+How is the raw data processed?
+
+No additional processes are applied to this data.
+
+Where does the raw data come from?
+
+We source different expert forecasts [Savills](https://www.savills.co.uk/), [Knight Frank](https://www.knightfrank.com/), [OBR](https://obr.uk/)
+
+How often is the data updated?
+
+The data is updated annually when new forecasts are released, typically towards the beginning of the year.
+
+How is the raw data processed?
+
+We calculate a consensus forecast using a simple mean average.
+
+[](https://propertydata.co.uk/#)   
+
+![Image 58](https://propertydata.co.uk/images/propertydata-loading.gif)**65 people** have started a free trial in the last 24 hours including Karampal, Ben, Thomas, and Janine 5 minutes ago. [Join them](https://propertydata.co.uk/pricing?x=social)

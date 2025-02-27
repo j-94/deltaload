@@ -1,0 +1,124 @@
+Overview | Mage Pro
+=============== 
+
+[Pipelines](https://demo.mage.ai/pipelines)
+
+[Triggers](https://demo.mage.ai/triggers)
+
+[Runs](https://demo.mage.ai/pipeline-runs)
+
+[Chat now](https://mageai.slack.com/archives/C07BW8WFRF0)
+
+[Docs](https://docs.mage.ai/)
+
+Get Mage Pro
+
+[Create](https://demo.mage.ai/overview?tab=today#)
+
+[Pro New](https://www.mage.ai/)
+
+[Pipelines](https://demo.mage.ai/pipelines)
+
+[Triggers](https://demo.mage.ai/triggers)
+
+[Runs](https://demo.mage.ai/pipeline-runs)
+
+[Monitoring](https://demo.mage.ai/overview)
+
+[Pipeline graph](https://demo.mage.ai/apps/observability/pipelines)
+
+[Code editor](https://demo.mage.ai/apps/coder)
+
+[Git terminal](https://demo.mage.ai/apps/terminal)
+
+New pipeline
+
+Standard (batch)
+
+Data integration
+
+Streaming
+
+Retrieval Augmented Generation
+
+From a template
+
+Import pipeline zip
+
+Using AI (beta)
+
+Today
+
+Last 7 days
+
+Last 30 days
+
+Dashboard
+
+#### Today (UTC): January 20, 2025
+
+\-- total pipeline runs
+
+All
+
+Latest pipeline run failures
+
+No pipeline run failures for today
+
+[View more](https://demo.mage.ai/pipeline-runs?status=failed)
+
+Standard
+
+Latest standard pipeline run failures
+
+No standard pipeline run failures for today
+
+[View more](https://demo.mage.ai/pipeline-runs?status=failed)
+
+Integration
+
+Latest integration pipeline run failures
+
+No integration pipeline run failures for today
+
+[View more](https://demo.mage.ai/pipeline-runs?status=failed)
+
+Streaming
+
+Latest streaming pipeline run failures
+
+No streaming pipeline run failures for today
+
+[View more](https://demo.mage.ai/pipeline-runs?status=failed)
+
+⎋esc
+
+⌘
+
++
+
+.
+
+Close output
+
+^ctrl
+
++
+
+C
+
+Select
+
+↵enter
+
+Recent
+
+⬆
+
+Down
+
+⬇
+
+Close
+
+⎋esc

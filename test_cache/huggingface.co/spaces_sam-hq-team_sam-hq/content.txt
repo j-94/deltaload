@@ -1,0 +1,27 @@
+Sam Hq - a Hugging Face Space by sam-hq-team
+===============
+
+[Spaces](https://huggingface.co/spaces) [![Image 3: Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/) 
+
+* * *
+
+[![Image 4](https://www.gravatar.com/avatar/9e43c0d5f50935e748513b611f7d8c95?d=retro&size=100)](https://huggingface.co/sam-hq-team)
+
+[sam-hq-team](https://huggingface.co/sam-hq-team)
+
+/
+
+[sam-hq](https://huggingface.co/spaces/sam-hq-team/sam-hq)
+
+like 66
+
+Running on T4
+
+
+==============================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+[App](https://huggingface.co/spaces/sam-hq-team/sam-hq) [Files Files](https://huggingface.co/spaces/sam-hq-team/sam-hq/tree/main) [Community 1](https://huggingface.co/spaces/sam-hq-team/sam-hq/discussions)
+
+Fetching metadata from the HF Docker repository...
+
+Refreshing

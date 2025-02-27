@@ -1,0 +1,81 @@
+AI search for the modern world
+------------------------------
+
+We help companies build unfair competitive advantages through their discovery experiences
+
+Powering 30,000+ discovery experiences across categories
+--------------------------------------------------------
+
+End-to-end
+
+Trieve Coordinates, You Scale
+-----------------------------
+
+Billion-scale search, discovery, and RAG experiences within the same API
+
+### Semantic Vector Search
+
+For when you need more than just full-text search. Trieve supports semantic vector search out of the box.
+
+### BM25 & SPLADE Full-Text Search
+
+Choose between the leading state-of-the-art retrieval models for full-text search.
+
+### Stock and Custom Embedding models
+
+Our modular infrastructure offers several models and bring your own embedding model.
+
+### Hybrid Search
+
+Get the best of both worlds. Trieve supports hybrid search, combining full-text search and semantic vector search with cross-encoder re-ranker models.
+
+### Merchandising & Relevance tuning
+
+Tune and boost search results to hit your KPIs via the API or no-code dashboard.
+
+### Sub-sentence Highlighting
+
+Search results can get long. Sub-sentence highlights show users exactly what they are looking for, quick.
+
+Build Fast and Don't Break Things
+
+Manage ingestion, embeddings and analytics with ease
+----------------------------------------------------
+
+### Built on the best foundations
+
+We help companies build unfair competitive advantages through their search, discovery, and RAG experiences
+
+### Private Open-Source Models
+
+We use open source embedding models and LLMs running in our own servers. Data is never leaked.
+
+### Batteries Included
+
+Our API surface covers chunking, ingestion, search, recommendations, RAG, and even a little front-end.
+
+### Self-Hostable
+
+Sensitive data? Need maximum performance? Host Trieve yourself with terraform templates and no external dependencies.
+
+Set up industry-leading search in 30 minutes
+--------------------------------------------
+
+Step 1: Add Existing Data
+
+Upload individual chunks or entire documents that get chunked by our algorithms via our API or no-code dashboard.
+
+Step 2: Integrate our API
+
+Add calls to our API on your create and update routes to keep your data current.
+
+Step 3: Search, Recommend, or Generate
+
+Test and tune search, recommendations, and chat quality with our search playground, then integrate the API calls into your product.
+
+![Image 25: Steps to use](https://cdn.trieve.ai/db-4-square.png)
+
+Take control of your discovery.
+-------------------------------
+
+AI-native, end-to-end, solution for the trends of today and tomorrow

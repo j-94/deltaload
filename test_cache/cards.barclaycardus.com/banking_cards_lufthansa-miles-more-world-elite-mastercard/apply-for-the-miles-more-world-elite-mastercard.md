@@ -1,0 +1,175 @@
+---
+title: Apply for the Miles & More® World Elite Mastercard®
+description: With the Miles & More World Elite Mastercard you can earn 50,000 miles, up to 2X miles per $1 spent and Lufthansa Business Lounge access. $89 annual fee.
+url: https://cards.barclaycardus.com/banking/cards/lufthansa-miles-more-world-elite-mastercard/
+timestamp: 2025-01-20T16:13:11.146Z
+domain: cards.barclaycardus.com
+path: banking_cards_lufthansa-miles-more-world-elite-mastercard
+---
+
+# Apply for the Miles & More® World Elite Mastercard®
+
+
+With the Miles & More World Elite Mastercard you can earn 50,000 miles, up to 2X miles per $1 spent and Lufthansa Business Lounge access. $89 annual fee.
+
+
+## Content
+
+Skip to Content
+Rewards
+ 
+Benefits
+ 
+Rates and Fees
+Apply Now
+
+Miles & More®
+
+ 
+
+World Elite Mastercard®
+
+Earn 50,000 miles
+
+after qualifying account activity2
+
+Earn 2 miles
+
+
+per $1 spent on Miles & More ticket purchases2
+
+Receive 2 complimentary
+
+Lufthansa Business Lounge Vouchers annually2
+
+
+$89
+
+annual fee1
+
+Rewards
+
+Earn 50,000 miles
+
+Earn 50,000 miles if you spend $3,000 in purchases and pay the annual fee, both within the first 90 days.2
+
+Earn 2 miles per $1
+
+Earn 2 miles per $1 spent on ticket purchases directly from Miles & More integrated airline partners.2
+
+Earn 1 mile per $1
+
+Earn 1 mile per $1 spent on all other purchases.2
+
+Lounge access
+
+Receive two complimentary Lufthansa Business Lounge Vouchers after each account anniversary.2
+
+Receive a Companion Ticket 
+
+after each account anniversary (taxes and fees apply).2
+
+Redeem miles
+
+You can redeem miles for flight awards and upgrades on Lufthansa, Austrian Airlines, Brussels Airlines, SWISS, Star Alliance Airlines and other partners.2,3
+
+Benefits
+
+Achieve Miles & More status faster
+
+Once each calendar year, you can convert 5,000 to 25,000 miles earned on purchases into Points and Qualifying Points. For example, 5,000 miles convert to 20 Points + 20 Qualifying Points.2
+
+No foreign transaction fees
+
+on international purchases.1
+
+Low Introductory APR
+
+0% introductory APR for 15 months on balance transfers made within 45 days of account opening. After that, a variable APR will apply, 20.24% to 29.99%, based on your creditworthiness and other factors. There is a fee for balance transfers.1
+
+Interest Rates and Charges Summary
+
+APR for purchases
+
+	
+
+20.24% to 29.99%, based on your creditworthiness and other factors. This APR will vary with the market based on the Prime Rate. 
+
+
+
+
+APR for balance transfers
+
+	
+
+0% introductory APR for the first fifteen billing cycles following each balance transfer that posts to your account within 45 days of account opening. After that, (and for balance transfers that do not post to your account within 45 days of account opening) your APR will be 20.24% to 29.99%, based on your creditworthiness and other factors. This APR will vary with the market based on the Prime Rate.
+
+
+
+
+APR for cash advances
+
+	
+
+29.99%. This APR will vary with the market based on the Prime Rate.
+
+Fee Summary
+
+Annual fee
+
+	
+
+$89
+
+
+
+
+Balance transfer fee
+
+	
+
+Either $5 or 5% of the amount of each transfer, whichever is greater.
+
+
+See Terms and Conditions for a complete listing of rates and fees
+
+Important Information
+
+Offer subject to credit approval. This offer is available through this advertisement and may not be accessible elsewhere. Other offers may be available. For complete pricing and other details, please see the Terms and Conditions.
+
+This offer is valid for approved applicants. Any bonus associated with this offer may only be earned once. You may not be eligible for this offer if you currently have or previously had an account with us in this program. In addition, you may not be eligible for this offer if, at any time during our relationship with you, we have cause, as determined by us in our sole discretion, to suspect that the account is being obtained or will be used for abusive or gaming activity (such as, but not limited to, obtaining or using the account to maximize rewards earned in a manner that is not consistent with typical consumer activity and/or multiple credit card account applications/openings). Please see the About This Offer section of the Terms and Conditions for important information.
+
+Annual Fee is $89. 0% introductory APR on balance transfers made within 45 days of account opening is applicable for the first 15 billing cycles that immediately follow each balance transfer. This introductory APR offer does not apply to purchases and cash advances. For new and outstanding balance transfers after the introductory period and all purchases, the variable APR is 20.24% to 29.99%, depending upon our review of your application, your credit history at account opening, and other factors. The variable APR for cash advances is 29.99%. The APRs on your account will vary with the market based on the Prime Rate and are subject to change. The minimum monthly interest charge will be $0.50. Balance transfer fee: 5% (min. $5). Cash advance fee: 5% (min. $10). Foreign transaction fee: 0%. See Terms and Conditions for updated and more information about the terms of this offer, including the “About the Variable APRs on Your Account” section for the current Prime Rate information.
+
+The annual fee will be waived for Senator and HON Circle Members, as long as they maintain their Senator or HON Circle Member status.
+
+The personal Miles & More service card number of the primary applicant is required within the application process. If you are not already a Miles & More member, please click here to enroll.
+
+Conditions and limitations apply. Please refer to the Introductory Bonus Offer section of the Terms and Conditions for more information about the introductory offer. Please refer to the Reward Rules within the Terms and Conditions for additional information about the rewards program.
+
+
+For details on the Miles & More program and redemption opportunities please visit miles-and-more.com.
+
+The Miles & More World Elite Mastercard is issued by Barclays Bank Delaware pursuant to a license from Mastercard International Incorporated. Mastercard, World Mastercard, World Elite Mastercard, and the circles design are registered trademarks of Mastercard International Incorporated.
+
+Terms and Conditions
+Connect with us:
+   
+ 
+Cardmember Agreements Privacy Policy Terms of Use Security Center Accessibility FAQs Contact Us Careers Investments
+© 2025 Barclays Bank Delaware, Member FDIC
+Credit Card Customer Support: 877-523-0478
+
+## Metadata
+
+```json
+{
+  "title": "Apply for the Miles & More® World Elite Mastercard®",
+  "description": "With the Miles & More World Elite Mastercard you can earn 50,000 miles, up to 2X miles per $1 spent and Lufthansa Business Lounge access. $89 annual fee.",
+  "url": "https://cards.barclaycardus.com/banking/cards/lufthansa-miles-more-world-elite-mastercard/",
+  "content": "Skip to Content\nRewards\n \nBenefits\n \nRates and Fees\nApply Now\n\nMiles & More®\n\n \n\nWorld Elite Mastercard®\n\nEarn 50,000 miles\n\nafter qualifying account activity2\n\nEarn 2 miles\n\n\nper $1 spent on Miles & More ticket purchases2\n\nReceive 2 complimentary\n\nLufthansa Business Lounge Vouchers annually2\n\n\n$89\n\nannual fee1\n\nRewards\n\nEarn 50,000 miles\n\nEarn 50,000 miles if you spend $3,000 in purchases and pay the annual fee, both within the first 90 days.2\n\nEarn 2 miles per $1\n\nEarn 2 miles per $1 spent on ticket purchases directly from Miles & More integrated airline partners.2\n\nEarn 1 mile per $1\n\nEarn 1 mile per $1 spent on all other purchases.2\n\nLounge access\n\nReceive two complimentary Lufthansa Business Lounge Vouchers after each account anniversary.2\n\nReceive a Companion Ticket \n\nafter each account anniversary (taxes and fees apply).2\n\nRedeem miles\n\nYou can redeem miles for flight awards and upgrades on Lufthansa, Austrian Airlines, Brussels Airlines, SWISS, Star Alliance Airlines and other partners.2,3\n\nBenefits\n\nAchieve Miles & More status faster\n\nOnce each calendar year, you can convert 5,000 to 25,000 miles earned on purchases into Points and Qualifying Points. For example, 5,000 miles convert to 20 Points + 20 Qualifying Points.2\n\nNo foreign transaction fees\n\non international purchases.1\n\nLow Introductory APR\n\n0% introductory APR for 15 months on balance transfers made within 45 days of account opening. After that, a variable APR will apply, 20.24% to 29.99%, based on your creditworthiness and other factors. There is a fee for balance transfers.1\n\nInterest Rates and Charges Summary\n\nAPR for purchases\n\n\t\n\n20.24% to 29.99%, based on your creditworthiness and other factors. This APR will vary with the market based on the Prime Rate. \n\n\n\n\nAPR for balance transfers\n\n\t\n\n0% introductory APR for the first fifteen billing cycles following each balance transfer that posts to your account within 45 days of account opening. After that, (and for balance transfers that do not post to your account within 45 days of account opening) your APR will be 20.24% to 29.99%, based on your creditworthiness and other factors. This APR will vary with the market based on the Prime Rate.\n\n\n\n\nAPR for cash advances\n\n\t\n\n29.99%. This APR will vary with the market based on the Prime Rate.\n\nFee Summary\n\nAnnual fee\n\n\t\n\n$89\n\n\n\n\nBalance transfer fee\n\n\t\n\nEither $5 or 5% of the amount of each transfer, whichever is greater.\n\n\nSee Terms and Conditions for a complete listing of rates and fees\n\nImportant Information\n\nOffer subject to credit approval. This offer is available through this advertisement and may not be accessible elsewhere. Other offers may be available. For complete pricing and other details, please see the Terms and Conditions.\n\nThis offer is valid for approved applicants. Any bonus associated with this offer may only be earned once. You may not be eligible for this offer if you currently have or previously had an account with us in this program. In addition, you may not be eligible for this offer if, at any time during our relationship with you, we have cause, as determined by us in our sole discretion, to suspect that the account is being obtained or will be used for abusive or gaming activity (such as, but not limited to, obtaining or using the account to maximize rewards earned in a manner that is not consistent with typical consumer activity and/or multiple credit card account applications/openings). Please see the About This Offer section of the Terms and Conditions for important information.\n\nAnnual Fee is $89. 0% introductory APR on balance transfers made within 45 days of account opening is applicable for the first 15 billing cycles that immediately follow each balance transfer. This introductory APR offer does not apply to purchases and cash advances. For new and outstanding balance transfers after the introductory period and all purchases, the variable APR is 20.24% to 29.99%, depending upon our review of your application, your credit history at account opening, and other factors. The variable APR for cash advances is 29.99%. The APRs on your account will vary with the market based on the Prime Rate and are subject to change. The minimum monthly interest charge will be $0.50. Balance transfer fee: 5% (min. $5). Cash advance fee: 5% (min. $10). Foreign transaction fee: 0%. See Terms and Conditions for updated and more information about the terms of this offer, including the “About the Variable APRs on Your Account” section for the current Prime Rate information.\n\nThe annual fee will be waived for Senator and HON Circle Members, as long as they maintain their Senator or HON Circle Member status.\n\nThe personal Miles & More service card number of the primary applicant is required within the application process. If you are not already a Miles & More member, please click here to enroll.\n\nConditions and limitations apply. Please refer to the Introductory Bonus Offer section of the Terms and Conditions for more information about the introductory offer. Please refer to the Reward Rules within the Terms and Conditions for additional information about the rewards program.\n\n\nFor details on the Miles & More program and redemption opportunities please visit miles-and-more.com.\n\nThe Miles & More World Elite Mastercard is issued by Barclays Bank Delaware pursuant to a license from Mastercard International Incorporated. Mastercard, World Mastercard, World Elite Mastercard, and the circles design are registered trademarks of Mastercard International Incorporated.\n\nTerms and Conditions\nConnect with us:\n   \n \nCardmember Agreements Privacy Policy Terms of Use Security Center Accessibility FAQs Contact Us Careers Investments\n© 2025 Barclays Bank Delaware, Member FDIC\nCredit Card Customer Support: 877-523-0478",
+  "usage": {
+    "tokens": 1260
+  }
+}
+```

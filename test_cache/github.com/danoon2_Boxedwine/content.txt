@@ -1,0 +1,818 @@
+GitHub - danoon2/Boxedwine: Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine
+===============                                         
+
+[Skip to content](https://github.com/danoon2/Boxedwine?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdanoon2%2FBoxedwine%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdanoon2%2FBoxedwine%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=danoon2%2FBoxedwine) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[danoon2](https://github.com/danoon2) / **[Boxedwine](https://github.com/danoon2/Boxedwine)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fdanoon2%2FBoxedwine) You must be signed in to change notification settings
+*   [Fork 71](https://github.com/login?return_to=%2Fdanoon2%2FBoxedwine)
+*   [Star 834](https://github.com/login?return_to=%2Fdanoon2%2FBoxedwine)
+    
+
+Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine
+
+### License
+
+[GPL-2.0 license](https://github.com/danoon2/Boxedwine/blob/master/license.txt)
+
+[834 stars](https://github.com/danoon2/Boxedwine/stargazers) [71 forks](https://github.com/danoon2/Boxedwine/forks) [Branches](https://github.com/danoon2/Boxedwine/branches) [Tags](https://github.com/danoon2/Boxedwine/tags) [Activity](https://github.com/danoon2/Boxedwine/activity)
+
+[Star](https://github.com/login?return_to=%2Fdanoon2%2FBoxedwine)
+
+[Notifications](https://github.com/login?return_to=%2Fdanoon2%2FBoxedwine) You must be signed in to change notification settings
+
+*   [Code](https://github.com/danoon2/Boxedwine)
+*   [Issues 43](https://github.com/danoon2/Boxedwine/issues)
+*   [Pull requests 1](https://github.com/danoon2/Boxedwine/pulls)
+*   [Discussions](https://github.com/danoon2/Boxedwine/discussions)
+*   [Actions](https://github.com/danoon2/Boxedwine/actions)
+*   [Projects 0](https://github.com/danoon2/Boxedwine/projects)
+*   [Wiki](https://github.com/danoon2/Boxedwine/wiki)
+*   [Security](https://github.com/danoon2/Boxedwine/security)
+*   [Insights](https://github.com/danoon2/Boxedwine/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/danoon2/Boxedwine)
+*   [Issues](https://github.com/danoon2/Boxedwine/issues)
+*   [Pull requests](https://github.com/danoon2/Boxedwine/pulls)
+*   [Discussions](https://github.com/danoon2/Boxedwine/discussions)
+*   [Actions](https://github.com/danoon2/Boxedwine/actions)
+*   [Projects](https://github.com/danoon2/Boxedwine/projects)
+*   [Wiki](https://github.com/danoon2/Boxedwine/wiki)
+*   [Security](https://github.com/danoon2/Boxedwine/security)
+*   [Insights](https://github.com/danoon2/Boxedwine/pulse)
+
+danoon2/Boxedwine
+=================
+
+  
+
+ master
+
+[Branches](https://github.com/danoon2/Boxedwine/branches)[Tags](https://github.com/danoon2/Boxedwine/tags)
+
+[](https://github.com/danoon2/Boxedwine/branches)[](https://github.com/danoon2/Boxedwine/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+History
+-------
+
+[1,617 Commits](https://github.com/danoon2/Boxedwine/commits/master/)
+
+[](https://github.com/danoon2/Boxedwine/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[docs](https://github.com/danoon2/Boxedwine/tree/master/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs](https://github.com/danoon2/Boxedwine/tree/master/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[include](https://github.com/danoon2/Boxedwine/tree/master/include "include")
+
+
+
+
+
+
+
+ | 
+
+[include](https://github.com/danoon2/Boxedwine/tree/master/include "include")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[lib](https://github.com/danoon2/Boxedwine/tree/master/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+[lib](https://github.com/danoon2/Boxedwine/tree/master/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[platform](https://github.com/danoon2/Boxedwine/tree/master/platform "platform")
+
+
+
+
+
+
+
+ | 
+
+[platform](https://github.com/danoon2/Boxedwine/tree/master/platform "platform")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[project](https://github.com/danoon2/Boxedwine/tree/master/project "project")
+
+
+
+
+
+
+
+ | 
+
+[project](https://github.com/danoon2/Boxedwine/tree/master/project "project")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[source](https://github.com/danoon2/Boxedwine/tree/master/source "source")
+
+
+
+
+
+
+
+ | 
+
+[source](https://github.com/danoon2/Boxedwine/tree/master/source "source")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[tools](https://github.com/danoon2/Boxedwine/tree/master/tools "tools")
+
+
+
+
+
+
+
+ | 
+
+[tools](https://github.com/danoon2/Boxedwine/tree/master/tools "tools")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.gitattributes](https://github.com/danoon2/Boxedwine/blob/master/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[.gitattributes](https://github.com/danoon2/Boxedwine/blob/master/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.gitignore](https://github.com/danoon2/Boxedwine/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/danoon2/Boxedwine/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[BUILD.md](https://github.com/danoon2/Boxedwine/blob/master/BUILD.md "BUILD.md")
+
+
+
+
+
+
+
+ | 
+
+[BUILD.md](https://github.com/danoon2/Boxedwine/blob/master/BUILD.md "BUILD.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[Jenkinsfile](https://github.com/danoon2/Boxedwine/blob/master/Jenkinsfile "Jenkinsfile")
+
+
+
+
+
+
+
+ | 
+
+[Jenkinsfile](https://github.com/danoon2/Boxedwine/blob/master/Jenkinsfile "Jenkinsfile")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[README.md](https://github.com/danoon2/Boxedwine/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/danoon2/Boxedwine/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[buildFlags.txt](https://github.com/danoon2/Boxedwine/blob/master/buildFlags.txt "buildFlags.txt")
+
+
+
+
+
+
+
+ | 
+
+[buildFlags.txt](https://github.com/danoon2/Boxedwine/blob/master/buildFlags.txt "buildFlags.txt")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[changeLog.txt](https://github.com/danoon2/Boxedwine/blob/master/changeLog.txt "changeLog.txt")
+
+
+
+
+
+
+
+ | 
+
+[changeLog.txt](https://github.com/danoon2/Boxedwine/blob/master/changeLog.txt "changeLog.txt")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[commandLine.txt](https://github.com/danoon2/Boxedwine/blob/master/commandLine.txt "commandLine.txt")
+
+
+
+
+
+
+
+ | 
+
+[commandLine.txt](https://github.com/danoon2/Boxedwine/blob/master/commandLine.txt "commandLine.txt")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[license.txt](https://github.com/danoon2/Boxedwine/blob/master/license.txt "license.txt")
+
+
+
+
+
+
+
+ | 
+
+[license.txt](https://github.com/danoon2/Boxedwine/blob/master/license.txt "license.txt")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/danoon2/Boxedwine?screenshot=true#)
+*   [GPL-2.0 license](https://github.com/danoon2/Boxedwine?screenshot=true#)
+
+Boxedwine
+=========
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#boxedwine)
+
+Boxedwine is an emulator that runs Windows applications. It achieves this by running a 32-bit version of Wine, and emulating the Linux kernel and CPU. It is written in C++ with SDL and is supported on multiple platforms.
+
+Boxedwine is open source and released under the terms of the GNU General Public License v2 (GPL).
+
+Features
+--------
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#features)
+
+*   Runs 16/32-bit Windows programs
+*   Works on Windows, MacOSX, Linux, Raspberry Pi and Web
+*   Works on x86-64, i686, ARMv7 and ARMv8
+*   Can run multiple versions of Wine, from 1.8 to 5.0
+*   Tools and games using OpenGL or Direct3D are supported
+
+TODOs
+-----
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#todos)
+
+*   Networking does not work well
+*   Mac OpenGL does not work with frame buffers
+*   ARMv8 CPU core for Mac M1 and Raspberry Pi still has bugs
+*   Games after the year 2000 have limitted success at running
+
+Platforms being tested
+----------------------
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#platforms-being-tested)
+
+*   Emscripten (WASM)
+*   Linux 64-bit
+*   MacOSX (ARM)
+*   MacOSX (Intel)
+*   Raspberry Pi 4 32-bit
+*   Raspberry Pi 4 64-bit
+*   Windows 32-bit
+*   Windows 64-bit
+
+Performance Test using MDK Perf with GDI backend on Wine
+--------------------------------------------------------
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#performance-test-using-mdk-perf-with-gdi-backend-on-wine)
+
+[![Image 3: This is an image](https://camo.githubusercontent.com/52bc3c4f02bcd18103aa671c9785d6948ed43976a0319ed840b8023120f5efb7/687474703a2f2f626f78656477696e652e6f72672f6d646b2e6a7067)](https://camo.githubusercontent.com/52bc3c4f02bcd18103aa671c9785d6948ed43976a0319ed840b8023120f5efb7/687474703a2f2f626f78656477696e652e6f72672f6d646b2e6a7067)
+
+### Emscripten on Intel i7-6700K on Windows 10
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#emscripten-on-intel-i7-6700k-on-windows-10)
+
+*   **27** Firefox 81
+*   **29** Chrome Version 96.0.4664.110 (Official Build) (64-bit)
+
+### Mac Mini M1
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#mac-mini-m1)
+
+*   **870** ARMv8 CPU Core
+*   **150** x64 CPU Core with Rosetta
+
+### iMac 2017 3.4GHz i5
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#imac-2017-34ghz-i5)
+
+*   **245** x64 CPU Core
+
+### Raspberry Pi 4 64-bit
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#raspberry-pi-4-64-bit)
+
+*   **133** ARMv8 CPU Core
+
+### Raspberry Pi 4 32-bit
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#raspberry-pi-4-32-bit)
+
+*   **14** Normal CPU Core + JIT
+
+### Windows 10 on Intel i7-6700K
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#windows-10-on-intel-i7-6700k)
+
+*   **48** Normal CPU Core
+*   **64** Normal CPU Core + JIT
+*   **985** x64 CPU Core
+
+Documentation
+-------------
+
+[](https://github.com/danoon2/Boxedwine?screenshot=true#documentation)
+
+*   [Upcoming Features](https://github.com/danoon2/Boxedwine/blob/master/docs/Roadmap-Features.md)
+*   [Troubleshooting Games/Apps](https://github.com/danoon2/Boxedwine/blob/master/docs/Troubleshooting-Games-Apps.md)
+*   [Developer Debugging](https://github.com/danoon2/Boxedwine/blob/master/docs/Developer-Debugging.md)
+*   [How To Build Wine](https://github.com/danoon2/Boxedwine/blob/master/docs/How-To-Build-Boxedwine.md)
+*   [How To Build OSMesa on MacOSX](https://github.com/danoon2/Boxedwine/blob/master/docs/How-To-Build-OSMesa-on-Mac.md)
+*   [CPU Emulation](https://github.com/danoon2/Boxedwine/blob/master/docs/CPUemulation.md)
+
+About
+-----
+
+Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine
+
+### Topics
+
+[emulator](https://github.com/topics/emulator "Topic: emulator") [raspberry-pi](https://github.com/topics/raspberry-pi "Topic: raspberry-pi") [emscripten](https://github.com/topics/emscripten "Topic: emscripten")
+
+### Resources
+
+[Readme](https://github.com/danoon2/Boxedwine?screenshot=true#readme-ov-file)
+
+### License
+
+[GPL-2.0 license](https://github.com/danoon2/Boxedwine?screenshot=true#GPL-2.0-1-ov-file)
+
+[Activity](https://github.com/danoon2/Boxedwine/activity)
+
+### Stars
+
+[**834** stars](https://github.com/danoon2/Boxedwine/stargazers)
+
+### Watchers
+
+[**23** watching](https://github.com/danoon2/Boxedwine/watchers)
+
+### Forks
+
+[**71** forks](https://github.com/danoon2/Boxedwine/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fdanoon2%2FBoxedwine&report=danoon2+%28user%29)
+
+[Releases](https://github.com/danoon2/Boxedwine/releases)
+---------------------------------------------------------
+
+[5 tags](https://github.com/danoon2/Boxedwine/tags)
+
+[Packages 0](https://github.com/users/danoon2/packages?repo_name=Boxedwine)
+---------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 5](https://github.com/danoon2/Boxedwine/graphs/contributors)
+--------------------------------------------------------------------------
+
+Languages
+---------
+
+*   [C 57.4%](https://github.com/danoon2/Boxedwine/search?l=c)
+*   [C++ 34.8%](https://github.com/danoon2/Boxedwine/search?l=c%2B%2B)
+*   [Objective-C 1.9%](https://github.com/danoon2/Boxedwine/search?l=objective-c)
+*   [Java 1.7%](https://github.com/danoon2/Boxedwine/search?l=java)
+*   [HTML 1.6%](https://github.com/danoon2/Boxedwine/search?l=html)
+*   [Shell 0.6%](https://github.com/danoon2/Boxedwine/search?l=shell)
+*   Other 2.0%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

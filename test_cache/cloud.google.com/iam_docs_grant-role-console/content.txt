@@ -1,0 +1,605 @@
+Quickstart: Grant roles in the Google Cloud console  |  IAM Documentation
+===============  
+
+[![Image 9: Google Cloud](https://www.gstatic.com/devrel-devsite/prod/vda41147226ae308b24384f785d31d739107d2716272d99cd11c490ff3892954d/cloud/images/cloud-logo.svg)](https://cloud.google.com/)
+
+[Documentation](https://cloud.google.com/docs) [Technology areas](https://cloud.google.com/docs/tech-area-overviews)[](https://cloud.google.com/iam/docs/grant-role-console?_gl=1*fh14io*_ga*NzUwNjM0NTA0LjE3MzA4MTY4Mzg.*_ga_WH2QY8WWF5*MTczMDg5NjQ2MS4zLjEuMTczMDg5ODMxOS4yOS4wLjA.#)
+
+close
+
+*   [AI and ML](https://cloud.google.com/docs/ai-ml)
+*   [Application development](https://cloud.google.com/docs/application-development)
+*   [Application hosting](https://cloud.google.com/docs/application-hosting)
+*   [Compute](https://cloud.google.com/docs/compute-area)
+*   [Data analytics and pipelines](https://cloud.google.com/docs/data)
+*   [Databases](https://cloud.google.com/docs/databases)
+*   [Distributed, hybrid, and multicloud](https://cloud.google.com/docs/dhm-cloud)
+*   [Generative AI](https://cloud.google.com/docs/generative-ai)
+*   [Industry solutions](https://cloud.google.com/docs/industry)
+*   [Networking](https://cloud.google.com/docs/networking)
+*   [Observability and monitoring](https://cloud.google.com/docs/observability)
+*   [Security](https://cloud.google.com/docs/security)
+*   [Storage](https://cloud.google.com/docs/storage)
+
+[Cross-product tools](https://cloud.google.com/docs/cross-product-overviews)[](https://cloud.google.com/iam/docs/grant-role-console?_gl=1*fh14io*_ga*NzUwNjM0NTA0LjE3MzA4MTY4Mzg.*_ga_WH2QY8WWF5*MTczMDg5NjQ2MS4zLjEuMTczMDg5ODMxOS4yOS4wLjA.#)
+
+close
+
+*   [Access and resources management](https://cloud.google.com/docs/access-resources)
+*   [Costs and usage management](https://cloud.google.com/docs/costs-usage)
+*   [Google Cloud SDK, languages, frameworks, and tools](https://cloud.google.com/docs/devtools)
+*   [Infrastructure as code](https://cloud.google.com/docs/iac)
+*   [Migration](https://cloud.google.com/docs/migration)
+
+[Related sites](https://cloud.google.com/)[](https://cloud.google.com/iam/docs/grant-role-console?_gl=1*fh14io*_ga*NzUwNjM0NTA0LjE3MzA4MTY4Mzg.*_ga_WH2QY8WWF5*MTczMDg5NjQ2MS4zLjEuMTczMDg5ODMxOS4yOS4wLjA.#)
+
+close
+
+*   [Google Cloud Home](https://cloud.google.com/)
+*   [Free Trial and Free Tier](https://cloud.google.com/free)
+*   [Architecture Center](https://cloud.google.com/architecture)
+*   [Blog](https://cloud.google.com/blog)
+*   [Contact Sales](https://cloud.google.com/contact)
+*   [Google Cloud Developer Center](https://cloud.google.com/developers)
+*   [Google Developer Center](https://developers.google.com/)
+*   [Google Cloud Marketplace](https://console.cloud.google.com/marketplace)
+*   [Google Cloud Marketplace Documentation](https://cloud.google.com/marketplace/docs)
+*   [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths)
+*   [Google Cloud Solution Center](https://cloud.google.com/solutions)
+*   [Google Cloud Support](https://cloud.google.com/support-hub)
+*   [Google Cloud Tech Youtube Channel](https://www.youtube.com/@googlecloudtech)
+
+/
+
+*   English
+*   Deutsch
+*   Español – América Latina
+*   Français
+*   Português – Brasil
+*   中文 – 简体
+*   日本語
+*   한국어
+
+Sign in
+
+*   [IAM](https://cloud.google.com/iam)
+
+[Guides](https://cloud.google.com/iam/docs/overview) [Reference](https://cloud.google.com/iam/docs/apis) [Samples](https://cloud.google.com/iam/docs/samples) [Resources](https://cloud.google.com/iam/docs/resources)
+
+[Contact Us](https://cloud.google.com/contact) [Start free](https://console.cloud.google.com/freetrial)
+
+[![Image 10: Google Cloud](https://www.gstatic.com/devrel-devsite/prod/vda41147226ae308b24384f785d31d739107d2716272d99cd11c490ff3892954d/cloud/images/cloud-logo.svg)](https://cloud.google.com/)
+
+*   [Documentation](https://cloud.google.com/docs)
+    *   [Guides](https://cloud.google.com/iam/docs/overview)
+    *   [Reference](https://cloud.google.com/iam/docs/apis)
+    *   [Samples](https://cloud.google.com/iam/docs/samples)
+    *   [Resources](https://cloud.google.com/iam/docs/resources)
+*   [Technology areas](https://cloud.google.com/docs/tech-area-overviews)
+    *   More
+*   [Cross-product tools](https://cloud.google.com/docs/cross-product-overviews)
+    *   More
+*   [Related sites](https://cloud.google.com/)
+    *   More
+*   [Console](https://console.cloud.google.com/)
+*   [Contact Us](https://cloud.google.com/contact)
+*   [Start free](https://console.cloud.google.com/freetrial)
+
+*   Discover
+    
+*   [Product overview](https://cloud.google.com/iam/docs/overview)
+*   Get started
+    
+*   [Grant roles in the Google Cloud console](https://cloud.google.com/iam/docs/grant-role-console)
+*   [Grant roles using client libraries](https://cloud.google.com/iam/docs/write-policy-client-libraries)
+*   [IAM and your security architecture](https://cloud.google.com/iam/docs/iam-security-architecture)
+*   [Identity management for Google Cloud](https://cloud.google.com/iam/docs/google-identities)
+*   Configure identities for users
+    
+*   [Identities for users](https://cloud.google.com/iam/docs/user-identities)
+*   [Create and manage Google groups in the Google Cloud console](https://cloud.google.com/iam/docs/groups-in-cloud-console)
+*   [Best practices for using Google groups](https://cloud.google.com/iam/docs/groups-best-practices)
+*   Federate identities for users
+    
+    *   [Workforce identity federation](https://cloud.google.com/iam/docs/workforce-identity-federation)
+    *   Configure Workforce Identity Federation
+        
+        *   [Microsoft Entra ID](https://cloud.google.com/iam/docs/workforce-sign-in-microsoft-entra-id)
+        *   [Okta](https://cloud.google.com/iam/docs/workforce-sign-in-okta)
+        *   [Other OIDC or SAML 2.0](https://cloud.google.com/iam/docs/configuring-workforce-identity-federation)
+        *   [Access BigQuery data in Power BI with Microsoft Entra](https://cloud.google.com/iam/docs/workforce-sign-in-power-bi)
+        
+    *   [Obtain short-lived credentials for Workforce Identity Federation](https://cloud.google.com/iam/docs/workforce-obtaining-short-lived-credentials)
+    *   [Manage workforce identity pools and providers](https://cloud.google.com/iam/docs/manage-workforce-identity-pools-providers)
+    *   [Delete Workforce Identity Federation users and their data](https://cloud.google.com/iam/docs/workforce-delete-user-data)
+    *   [Set up user access to console (federated)](https://cloud.google.com/iam/docs/workforce-console-sso)
+    *   Integrate OAuth applications
+        
+        *   [OAuth application integration overview](https://cloud.google.com/iam/docs/workforce-oauth-app)
+        *   [Manage OAuth applications](https://cloud.google.com/iam/docs/workforce-manage-oauth-app)
+        
+    
+*   Configure identities for workloads
+    
+*   [Identities for workloads](https://cloud.google.com/iam/docs/workload-identities)
+*   Create and manage service accounts
+    
+    *   About service accounts
+        
+        *   [Service accounts](https://cloud.google.com/iam/docs/service-account-overview)
+        *   [Service account credentials](https://cloud.google.com/iam/docs/service-account-creds)
+        *   [Service account impersonation](https://cloud.google.com/iam/docs/service-account-impersonation)
+        *   [Service account types](https://cloud.google.com/iam/docs/service-account-types)
+        *   [Roles for service account authentication](https://cloud.google.com/iam/docs/service-account-permissions)
+        
+    *   [Create and grant roles to service agents](https://cloud.google.com/iam/docs/create-service-agents)
+    *   [Create service accounts](https://cloud.google.com/iam/docs/service-accounts-create)
+    *   Manage service accounts
+        
+        *   [List and edit service accounts](https://cloud.google.com/iam/docs/service-accounts-list-edit)
+        *   [Disable and enable service accounts](https://cloud.google.com/iam/docs/service-accounts-disable-enable)
+        *   [Delete and undelete service accounts](https://cloud.google.com/iam/docs/service-accounts-delete-undelete)
+        *   [Manage tags for service accounts](https://cloud.google.com/iam/docs/service-accounts-tags)
+        
+    *   [Attach service accounts to resources](https://cloud.google.com/iam/docs/attach-service-accounts)
+    *   [Use custom organization policies for service accounts and keys](https://cloud.google.com/iam/docs/service-accounts-custom-constraints)
+    *   Service account best practices
+        
+        *   [Best practices for using service accounts](https://cloud.google.com/iam/docs/best-practices-service-accounts)
+        *   [Best practices for using service accounts in deployment pipelines](https://cloud.google.com/iam/docs/best-practices-for-using-service-accounts-in-deployment-pipelines)
+        
+    
+*   Create managed workload identities
+    
+    *   [About managed workload identities](https://cloud.google.com/iam/docs/managed-workload-identity)
+    *   [Create managed workload identities](https://cloud.google.com/iam/docs/create-managed-workload-identities)
+    
+*   Federate identities for external workloads
+    
+    *   [Workload Identity Federation](https://cloud.google.com/iam/docs/workload-identity-federation)
+    *   Configure Workload Identity Federation
+        
+        *   [AWS or Azure](https://cloud.google.com/iam/docs/workload-identity-federation-with-other-clouds)
+        *   [Active Directory](https://cloud.google.com/iam/docs/workload-identity-federation-with-active-directory)
+        *   [Deployment pipelines](https://cloud.google.com/iam/docs/workload-identity-federation-with-deployment-pipelines)
+        *   [Kubernetes](https://cloud.google.com/iam/docs/workload-identity-federation-with-kubernetes)
+        *   [Workloads with X.509 certificates](https://cloud.google.com/iam/docs/workload-identity-federation-with-x509-certificates)
+        *   [Other identity providers](https://cloud.google.com/iam/docs/workload-identity-federation-with-other-providers)
+        
+    *   [Manage workload identity pools and providers](https://cloud.google.com/iam/docs/manage-workload-identity-pools-providers)
+    *   [Best practices for using Workload Identity Federation](https://cloud.google.com/iam/docs/best-practices-for-using-workload-identity-federation)
+    *   [Let customers access their Google Cloud resources from your product or service](https://cloud.google.com/iam/docs/use-workload-identity-federation-to-let-customers-access-their-cloud-resources)
+    *   [Download credential configuration and grant access](https://cloud.google.com/iam/docs/workload-download-cred-and-grant-access)
+    *   [Integrate Cloud Run and Workload Identity Federation](https://cloud.google.com/iam/docs/tutorial-cloud-run-workload-id-federation)
+    
+*   Create and manage service account keys
+    
+    *   [Migrate from service account keys](https://cloud.google.com/iam/docs/migrate-from-service-account-keys)
+    *   [Service account key rotation](https://cloud.google.com/iam/docs/key-rotation)
+    *   [Create and delete service account keys](https://cloud.google.com/iam/docs/keys-create-delete)
+    *   [List and get service account keys](https://cloud.google.com/iam/docs/keys-list-get)
+    *   [Upload a public key](https://cloud.google.com/iam/docs/keys-upload)
+    *   [Disable and enable service account keys](https://cloud.google.com/iam/docs/keys-disable-enable)
+    *   [Best practices for managing service account keys](https://cloud.google.com/iam/docs/best-practices-for-managing-service-account-keys)
+    
+*   [Built-in identities for resources](https://cloud.google.com/iam/docs/built-in-resource-identities)
+*   Control access to resources
+    
+*   About IAM access controls
+    
+    *   [Roles and permissions](https://cloud.google.com/iam/docs/roles-overview)
+    *   [Policy types](https://cloud.google.com/iam/docs/policy-types)
+    *   [Allow policies](https://cloud.google.com/iam/docs/policies)
+    *   [Allow policy inheritance](https://cloud.google.com/iam/docs/resource-hierarchy-access-control)
+    *   [Deny policies](https://cloud.google.com/iam/docs/deny-overview)
+    *   [Principal access boundary policies](https://cloud.google.com/iam/docs/principal-access-boundary-policies)
+    *   [Access change propagation](https://cloud.google.com/iam/docs/access-change-propagation)
+    *   [IAM conditions](https://cloud.google.com/iam/docs/conditions-overview)
+    
+*   Choose roles to grant
+    
+    *   [Choose predefined roles](https://cloud.google.com/iam/docs/choose-predefined-roles)
+    *   [View grantable roles](https://cloud.google.com/iam/docs/viewing-grantable-roles)
+    *   Roles for specific job functions
+        
+        *   [Billing-related job functions](https://cloud.google.com/iam/docs/job-functions/billing)
+        *   [Networking-related job functions](https://cloud.google.com/iam/docs/job-functions/networking)
+        *   [Auditing-related job functions](https://cloud.google.com/iam/docs/job-functions/auditing)
+        
+    *   Create and manage custom roles
+        
+        *   [Create and manage custom roles](https://cloud.google.com/iam/docs/creating-custom-roles)
+        *   [Use Deployment Manager to maintain custom roles](https://cloud.google.com/iam/docs/maintain-custom-roles-deployment-manager)
+        
+    
+*   Grant access
+    
+    *   [Manage access to projects, folders, and organizations](https://cloud.google.com/iam/docs/granting-changing-revoking-access)
+    *   [Manage access to service accounts](https://cloud.google.com/iam/docs/manage-access-service-accounts)
+    *   [Manage access to other resources](https://cloud.google.com/iam/docs/manage-access-other-resources)
+    *   [Test allow policy changes](https://cloud.google.com/iam/docs/test-policy-changes)
+    
+*   Grant access conditionally
+    
+    *   [Manage conditional role bindings](https://cloud.google.com/iam/docs/managing-conditional-role-bindings)
+    *   [Configure temporary access](https://cloud.google.com/iam/docs/configuring-temporary-access)
+    *   [Configure resource-based access](https://cloud.google.com/iam/docs/configuring-resource-based-access)
+    *   [Tags and conditional access](https://cloud.google.com/iam/docs/tags-access-control)
+    *   [Set limits on granting roles](https://cloud.google.com/iam/docs/setting-limits-on-granting-roles)
+    *   [Lint conditions in allow policies](https://cloud.google.com/iam/docs/linting-policies)
+    
+*   [Deny access](https://cloud.google.com/iam/docs/deny-access)
+*   Restrict the resources that a principal can access
+    
+    *   [Create and apply principal access boundary policies](https://cloud.google.com/iam/docs/principal-access-boundary-policies-create)
+    *   [View principal access boundary policies](https://cloud.google.com/iam/docs/principal-access-boundary-policies-view)
+    *   [Edit principal access boundary policies](https://cloud.google.com/iam/docs/principal-access-boundary-policies-edit)
+    *   [Remove principal access boundary policies](https://cloud.google.com/iam/docs/principal-access-boundary-policies-remove)
+    
+*   Temporary elevated access
+    
+    *   [Temporary elevated access overview](https://cloud.google.com/iam/docs/temporary-elevated-access)
+    *   Control temporary elevated access with PAM
+        
+        *   [PAM overview](https://cloud.google.com/iam/docs/pam-overview)
+        *   [Permissions and setup](https://cloud.google.com/iam/docs/pam-permissions-and-setup)
+        *   [Create entitlements](https://cloud.google.com/iam/docs/pam-create-entitlements)
+        *   [View, update, and delete entitlements](https://cloud.google.com/iam/docs/pam-view-update-delete-entitlements)
+        *   [View grants](https://cloud.google.com/iam/docs/pam-view-grants)
+        *   [Revoke grants](https://cloud.google.com/iam/docs/pam-revoke-grants)
+        *   [Audit entitlement and grant events](https://cloud.google.com/iam/docs/pam-audit-entitlement-events)
+        
+    *   [Request temporary elevated access with PAM](https://cloud.google.com/iam/docs/pam-request-temporary-elevated-access)
+    *   [Approve or deny grants with PAM](https://cloud.google.com/iam/docs/pam-approve-deny-grants)
+    *   [Create short-lived credentials for a service account](https://cloud.google.com/iam/docs/create-short-lived-credentials-direct)
+    *   [Create short-lived credentials for multiple service accounts](https://cloud.google.com/iam/docs/create-short-lived-credentials-delegated)
+    *   [Restrict a credential's Cloud Storage permissions](https://cloud.google.com/iam/docs/downscoping-short-lived-credentials)
+    *   [Migrate to the Service Account Credentials API](https://cloud.google.com/iam/docs/migrating-to-credentials-api)
+    
+*   [Test permissions for custom user interfaces](https://cloud.google.com/iam/docs/testing-permissions)
+*   [Use custom organization policies for allow policies](https://cloud.google.com/iam/docs/org-policy-custom-constraints)
+*   [Use IAM to help prevent exfiltration from data pipelines](https://cloud.google.com/solutions/help-secure-the-pipeline-from-your-data-lake-to-your-data-warehouse)
+*   Optimize your IAM configuration
+    
+*   [Use IAM securely](https://cloud.google.com/iam/docs/using-iam-securely)
+*   [Optimize IAM policies by using Policy Intelligence tools](https://cloud.google.com/iam/docs/policy-intelligence-tools)
+*   [Help secure IAM using VPC Service Controls](https://cloud.google.com/iam/docs/secure-iam-vpc-sc)
+*   Monitor
+    
+*   Audit logging
+    
+    *   [IAM API audit logging](https://cloud.google.com/iam/docs/audit-logging)
+    *   [Service Account Credentials API audit logging](https://cloud.google.com/iam/docs/audit-logging/audit-logging-iamcreds)
+    *   [Privileged Access Manager audit logging](https://cloud.google.com/iam/docs/audit-logging/audit-logging-pam)
+    *   [Security Token Service API audit logging](https://cloud.google.com/iam/docs/audit-logging/audit-logging-sts)
+    *   [Example logs for service accounts](https://cloud.google.com/iam/docs/audit-logging/examples-service-accounts)
+    *   [Example logs for Workforce Identity Federation](https://cloud.google.com/iam/docs/audit-logging/examples-workforce-identity)
+    *   [Example logs for Workforce OAuth application integration](https://cloud.google.com/iam/docs/audit-logging/examples-oauth-clients)
+    *   [Example logs for Workload Identity Federation](https://cloud.google.com/iam/docs/audit-logging/examples-workload-identity)
+    
+*   [Analyze access to resources](https://cloud.google.com/iam/docs/analyze-access)
+*   Monitor service account usage
+    
+    *   [Tools to understand service account usage](https://cloud.google.com/iam/docs/service-account-usage-tools)
+    *   [Monitor usage patterns for service accounts and keys](https://cloud.google.com/iam/docs/service-account-monitoring)
+    
+*   [Review allow policy history](https://cloud.google.com/iam/docs/review-iam-policy-history)
+*   Troubleshoot
+    
+*   [Troubleshoot allow and deny policies](https://cloud.google.com/iam/docs/troubleshoot-policies)
+*   [Troubleshoot organization policy errors for service accounts](https://cloud.google.com/iam/docs/troubleshoot-org-policies)
+*   [Troubleshoot "withcond" in policies and role bindings](https://cloud.google.com/iam/docs/troubleshooting-withcond)
+*   [Troubleshoot Workforce Identity Federation](https://cloud.google.com/iam/docs/troubleshooting-workforce-identity-federation)
+*   [Troubleshoot Workload Identity Federation](https://cloud.google.com/iam/docs/troubleshooting-workload-identity-federation)
+*   Samples
+    
+*   [All Identity and Access Management code samples](https://cloud.google.com/iam/docs/samples)
+*   [Code samples for all products](https://cloud.google.com/docs/samples)
+
+*   [AI and ML](https://cloud.google.com/docs/ai-ml)
+*   [Application development](https://cloud.google.com/docs/application-development)
+*   [Application hosting](https://cloud.google.com/docs/application-hosting)
+*   [Compute](https://cloud.google.com/docs/compute-area)
+*   [Data analytics and pipelines](https://cloud.google.com/docs/data)
+*   [Databases](https://cloud.google.com/docs/databases)
+*   [Distributed, hybrid, and multicloud](https://cloud.google.com/docs/dhm-cloud)
+*   [Generative AI](https://cloud.google.com/docs/generative-ai)
+*   [Industry solutions](https://cloud.google.com/docs/industry)
+*   [Networking](https://cloud.google.com/docs/networking)
+*   [Observability and monitoring](https://cloud.google.com/docs/observability)
+*   [Security](https://cloud.google.com/docs/security)
+*   [Storage](https://cloud.google.com/docs/storage)
+
+*   [Access and resources management](https://cloud.google.com/docs/access-resources)
+*   [Costs and usage management](https://cloud.google.com/docs/costs-usage)
+*   [Google Cloud SDK, languages, frameworks, and tools](https://cloud.google.com/docs/devtools)
+*   [Infrastructure as code](https://cloud.google.com/docs/iac)
+*   [Migration](https://cloud.google.com/docs/migration)
+
+*   [Google Cloud Home](https://cloud.google.com/)
+*   [Free Trial and Free Tier](https://cloud.google.com/free)
+*   [Architecture Center](https://cloud.google.com/architecture)
+*   [Blog](https://cloud.google.com/blog)
+*   [Contact Sales](https://cloud.google.com/contact)
+*   [Google Cloud Developer Center](https://cloud.google.com/developers)
+*   [Google Developer Center](https://developers.google.com/)
+*   [Google Cloud Marketplace](https://console.cloud.google.com/marketplace)
+*   [Google Cloud Marketplace Documentation](https://cloud.google.com/marketplace/docs)
+*   [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths)
+*   [Google Cloud Solution Center](https://cloud.google.com/solutions)
+*   [Google Cloud Support](https://cloud.google.com/support-hub)
+*   [Google Cloud Tech Youtube Channel](https://www.youtube.com/@googlecloudtech)
+
+*   [Home](https://cloud.google.com/)
+*   [IAM](https://cloud.google.com/iam)
+*   [Documentation](https://cloud.google.com/iam/docs)
+*   [Guides](https://cloud.google.com/iam/docs/overview)
+
+Send feedback Stay organized with collections Save and categorize content based on your preferences.
+
+Grant an IAM role by using the Google Cloud console
+===================================================
+
+Learn how to use the Google Cloud console to grant IAM roles to principals at the project level.
+
+**Note:** If you're getting started with Google Cloud, you can grant the appropriate IAM roles to your organization administrator groups as part of the [Google Cloud setup process](https://cloud.google.com/docs/enterprise/setup-checklist).
+
+See the following video for a quick walkthrough:
+
+[![Image 11: A video showing how to grant IAM roles to principals using the Google Cloud console.](https://img.youtube.com/vi/Sdt-i-Q7tyA/0.jpg)](https://www.youtube.com/watch?v=Sdt-i-Q7tyA)
+
+* * *
+
+To follow step-by-step guidance for this task directly in the Google Cloud console, click **Guide me**:
+
+[Guide me](https://console.cloud.google.com/iam-admin/iam?walkthrough_id=iam--quickstart)
+
+* * *
+
+Before you begin
+----------------
+
+### Create a Google Cloud project
+
+For this quickstart, you need a new Google Cloud project.
+
+**Warning:** If you use an existing project, then completing this quickstart will enable some users to access resources in that project.
+
+1.  In the Google Cloud console, go to the project selector page.
+    
+    [Go to project selector](https://console.cloud.google.com/projectselector2/home/dashboard)
+    
+2.  Click **Create project**.
+    
+3.  Name your project. Make a note of your generated project ID.
+    
+4.  Edit the other fields as needed.
+    
+5.  Click **Create**.
+    
+
+### Ensure that you have the required roles
+
+Make sure that you have the following role or roles on the project: Project IAM Admin
+
+#### Check for the roles
+
+1.  In the Google Cloud console, go to the **IAM** page.
+    
+    [Go to IAM](https://console.cloud.google.com/projectselector/iam-admin/iam?supportedpurview=project)
+2.  Select the project.
+3.  In the **Principal** column, find all rows that identify you or a group that you're included in. To learn which groups you're included in, contact your administrator.
+    
+4.  For all rows that specify or include you, check the **Role** column to see whether the list of roles includes the required roles.
+
+#### Grant the roles
+
+1.  In the Google Cloud console, go to the **IAM** page.
+    
+    [Go to IAM](https://console.cloud.google.com/projectselector/iam-admin/iam?supportedpurview=project)
+2.  Select the project.
+3.  Click person\_add **Grant access**.
+4.  In the **New principals** field, enter your user identifier. This is typically the email address for a Google Account.
+    
+5.  In the **Select a role** list, select a role.
+6.  To grant additional roles, click add **Add another role** and add each additional role.
+7.  Click **Save**.
+
+### Enable the APIs
+
+Enable the IAM and Resource Manager APIs.
+
+[Enable the APIs](https://console.cloud.google.com/flows/enableapi?apiid=iam.googleapis.com,cloudresourcemanager.googleapis.com&redirect=https://console.cloud.google.com)
+
+Grant an IAM role
+-----------------
+
+Grant a principal the Logs Viewer role on the project.
+
+1.  In the Google Cloud console, go to the **IAM** page.
+    
+    [Go to IAM](https://console.cloud.google.com/iam-admin/iam?supportedpurview=project)
+    
+2.  Select your new project.
+    
+3.  Click person\_add **Grant access**.
+    
+4.  Enter an identifier for the principal. For example, `my-user@example.com`.
+    
+5.  From the **Select a role** drop-down menu, search for **Logs Viewer**, then click **Logs Viewer**.
+    
+6.  Click **Save**.
+    
+7.  Verify that the principal and the corresponding role are listed in the IAM page.
+    
+
+You have successfully granted an IAM role to a principal.
+
+Observe the effects of IAM roles
+--------------------------------
+
+Verify that the principal you granted a role to can access the expected Google Cloud console pages by doing the following:
+
+1.  Send the following URL to the principal to whom you granted the role in the preceding step:
+    
+    ```
+    https://console.cloud.google.com/logs?project=PROJECT_ID
+    ```
+    This URL takes the principal to the **Logs Explorer** page for your project.
+    
+2.  Verify that the principal is able to access and view the URL.
+    
+
+If the principal tries to access a different Google Cloud console page that they don't have access to, they see an error message.
+
+Grant additional roles to the same principal
+--------------------------------------------
+
+Grant the principal the Compute Viewer role in addition to their Logs Viewer role.
+
+1.  In the Google Cloud console, go to the **IAM** page.
+    
+    [Go to IAM](https://console.cloud.google.com/iam-admin/iam)
+    
+2.  Locate the row that contains the principal to whom you want to grant another role, and click **Edit principal** edit in that row.
+    
+3.  In the **Edit permissions** pane, click **Add another role**.
+    
+    ![Image 12](https://cloud.google.com/static/iam/img/quickstart-roles-add.png)
+    
+    ![Image 13](https://cloud.google.com/static/iam/img/quickstart-roles-add.png)
+    
+4.  From the **Select a role** drop-down menu, search for **Compute Viewer**, then click **Compute Viewer**. Click **Save**.
+    
+5.  Click **Save**.
+    
+
+The principal now has a second IAM role.
+
+Revoke IAM roles
+----------------
+
+Revoke the roles you granted to the principal in the preceding steps by doing the following:
+
+1.  Locate the row that contains the principal that you granted roles to and click **Edit principal** edit in that row.
+    
+2.  In the **Edit permissions** pane, click the delete icon next to the Logs Viewer and Compute Viewer roles.
+    
+3.  Click **Save**.
+    
+
+You have now removed the principal from both of the roles. If they try to view the **Logs Explorer** page, they see the following error message:
+
+`You don't have permissions to view logs.`
+
+Clean up
+--------
+
+To avoid incurring charges to your Google Cloud account for the resources used on this page, follow these steps.
+
+Clean up by deleting the project that you created for this quickstart.
+
+**Caution**: Deleting a project has the following effects:
+
+*   **Everything in the project is deleted.** If you used an existing project for the tasks in this document, when you delete it, you also delete any other work you've done in the project.
+*   **Custom project IDs are lost.** When you created this project, you might have created a custom project ID that you want to use in the future. To preserve the URLs that use the project ID, such as an `appspot.com` URL, delete selected resources inside the project instead of deleting the whole project.
+
+If you plan to explore multiple architectures, tutorials, or quickstarts, reusing projects can help you avoid exceeding project quota limits.
+
+2.  In the Google Cloud console, go to the **Manage resources** page.[Go to Manage resources](https://console.cloud.google.com/iam-admin/projects)
+    
+3.  In the project list, select the project that you want to delete, and then click **Delete**.
+4.  In the dialog, type the project ID, and then click **Shut down** to delete the project.
+
+What's next
+-----------
+
+*   [Learn the basics](https://cloud.google.com/iam/docs/overview) of IAM.
+*   Review the [list of all IAM roles](https://cloud.google.com/iam/docs/understanding-roles).
+*   Find out how to [manage access with IAM](https://cloud.google.com/iam/docs/granting-changing-revoking-access).
+
+Send feedback
+
+Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
+
+Last updated 2025-01-17 UTC.
+
+Need to tell us more? \[\[\["Easy to understand","easyToUnderstand","thumb-up"\],\["Solved my problem","solvedMyProblem","thumb-up"\],\["Other","otherUp","thumb-up"\]\],\[\["Hard to understand","hardToUnderstand","thumb-down"\],\["Incorrect information or sample code","incorrectInformationOrSampleCode","thumb-down"\],\["Missing the information/samples I need","missingTheInformationSamplesINeed","thumb-down"\],\["Other","otherDown","thumb-down"\]\],\["Last updated 2025-01-17 UTC."\],\[\],\[\]\]
+
+*   ### Why Google
+    
+    *   [Choosing Google Cloud](https://cloud.google.com/why-google-cloud/)
+    *   [Trust and security](https://cloud.google.com/trust-center/)
+    *   [Modern Infrastructure Cloud](https://cloud.google.com/solutions/modern-infrastructure/)
+    *   [Multicloud](https://cloud.google.com/multicloud/)
+    *   [Global infrastructure](https://cloud.google.com/infrastructure/)
+    *   [Customers and case studies](https://cloud.google.com/customers/)
+    *   [Analyst reports](https://cloud.google.com/analyst-reports/)
+    *   [Whitepapers](https://cloud.google.com/whitepapers/)
+    *   [Blog](https://cloud.google.com/blog/)
+*   ### Products and pricing
+    
+    *   [Google Cloud pricing](https://cloud.google.com/pricing/)
+    *   [Google Workspace pricing](https://workspace.google.com/pricing.html)
+    *   [See all products](https://cloud.google.com/products/)
+*   ### Solutions
+    
+    *   [Infrastructure modernization](https://cloud.google.com/solutions/infrastructure-modernization/)
+    *   [Databases](https://cloud.google.com/solutions/databases/)
+    *   [Application modernization](https://cloud.google.com/solutions/application-modernization/)
+    *   [Smart analytics](https://cloud.google.com/solutions/smart-analytics/)
+    *   [Artificial Intelligence](https://cloud.google.com/solutions/ai/)
+    *   [Security](https://cloud.google.com/solutions/security/)
+    *   [Productivity & work transformation](https://workspace.google.com/enterprise/)
+    *   [Industry solutions](https://cloud.google.com/solutions/#industry-solutions)
+    *   [DevOps solutions](https://cloud.google.com/solutions/devops/)
+    *   [Small business solutions](https://cloud.google.com/solutions/#section-14)
+    *   [See all solutions](https://cloud.google.com/solutions/)
+*   ### Resources
+    
+    *   [Google Cloud Affiliate Program](https://cloud.google.com/affiliate-program/)
+    *   [Google Cloud documentation](https://cloud.google.com/docs/)
+    *   [Google Cloud quickstarts](https://cloud.google.com/docs/get-started/)
+    *   [Google Cloud Marketplace](https://cloud.google.com/marketplace/)
+    *   [Learn about cloud computing](https://cloud.google.com/discover/)
+    *   [Support](https://cloud.google.com/support-hub/)
+    *   [Code samples](https://cloud.google.com/docs/samples)
+    *   [Cloud Architecture Center](https://cloud.google.com/architecture/)
+    *   [Training](https://cloud.google.com/learn/training/)
+    *   [Certifications](https://cloud.google.com/learn/certification/)
+    *   [Google for Developers](https://developers.google.com/)
+    *   [Google Cloud for Startups](https://cloud.google.com/startup/)
+    *   [System status](https://status.cloud.google.com/)
+    *   [Release Notes](https://cloud.google.com/release-notes)
+*   ### Engage
+    
+    *   [Contact sales](https://cloud.google.com/contact/)
+    *   [Find a Partner](https://cloud.google.com/find-a-partner)
+    *   [Become a Partner](https://cloud.google.com/partners/become-a-partner/)
+    *   [Events](https://cloud.google.com/events/)
+    *   [Podcasts](https://cloud.google.com/podcasts/)
+    *   [Developer Center](https://cloud.google.com/developers/)
+    *   [Press Corner](https://www.googlecloudpresscorner.com/)
+    *   [Google Cloud on YouTube](https://www.youtube.com/googlecloud)
+    *   [Google Cloud Tech on YouTube](https://www.youtube.com/googlecloudplatform)
+    *   [Follow on X](https://x.com/googlecloud)
+    *   [Join User Research](https://userresearch.google.com/?reserved=1&utm_source=website&Q_Language=en&utm_medium=own_srch&utm_campaign=CloudWebFooter&utm_term=0&utm_content=0&productTag=clou&campaignDate=jul19&pType=devel&referral_code=jk212693)
+    *   [We're hiring. Join Google Cloud!](https://careers.google.com/cloud)
+    *   [Google Cloud Community](https://www.googlecloudcommunity.com/)
+
+*   [About Google](https://about.google/)
+*   [Privacy](https://policies.google.com/privacy)
+*   [Site terms](https://www.google.com/intl/en/policies/terms/regional.html)
+*   [Google Cloud terms](https://cloud.google.com/product-terms/)
+*   [Manage cookies](https://cloud.google.com/iam/docs/grant-role-console?_gl=1*fh14io*_ga*NzUwNjM0NTA0LjE3MzA4MTY4Mzg.*_ga_WH2QY8WWF5*MTczMDg5NjQ2MS4zLjEuMTczMDg5ODMxOS4yOS4wLjA.#)
+*   [Our third decade of climate action: join us](https://cloud.google.com/sustainability)
+*   Sign up for the Google Cloud newsletter [Subscribe](https://cloud.google.com/newsletter/)
+
+*   English
+*   Deutsch
+*   Español – América Latina
+*   Français
+*   Português – Brasil
+*   中文 – 简体
+*   日本語
+*   한국어

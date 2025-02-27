@@ -1,0 +1,1628 @@
+GitHub - xlayers/xlayers: ✨ Generate code from your design
+===============
+                                           
+
+[Skip to content](https://github.com/xlayers/xlayers?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fxlayers%2Fxlayers%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fxlayers%2Fxlayers%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=xlayers%2Fxlayers) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[xlayers](https://github.com/xlayers) / **[xlayers](https://github.com/xlayers/xlayers)** Public
+
+*   Sponsor
+    
+    Sponsor xlayers/xlayers
+    =======================
+    
+    ##### External links
+    
+    ![Image 62: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)
+    
+    [opencollective.com/**xlayers**](https://opencollective.com/xlayers)
+    
+    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
+    
+    [Report abuse](https://github.com/contact/report-abuse?report=xlayers%2Fxlayers+%28Repository+Funding+Links%29)
+    
+*   [Notifications](https://github.com/login?return_to=%2Fxlayers%2Fxlayers) You must be signed in to change notification settings
+*   [Fork 85](https://github.com/login?return_to=%2Fxlayers%2Fxlayers)
+*   [Star 822](https://github.com/login?return_to=%2Fxlayers%2Fxlayers)
+    
+
+✨ Generate code from your design
+
+[xlayers.dev](https://xlayers.dev/ "https://xlayers.dev")
+
+### License
+
+[Apache-2.0 license](https://github.com/xlayers/xlayers/blob/main/LICENSE)
+
+[822 stars](https://github.com/xlayers/xlayers/stargazers) [85 forks](https://github.com/xlayers/xlayers/forks) [Branches](https://github.com/xlayers/xlayers/branches) [Tags](https://github.com/xlayers/xlayers/tags) [Activity](https://github.com/xlayers/xlayers/activity)
+
+[Star](https://github.com/login?return_to=%2Fxlayers%2Fxlayers)
+
+[Notifications](https://github.com/login?return_to=%2Fxlayers%2Fxlayers) You must be signed in to change notification settings
+
+*   [Code](https://github.com/xlayers/xlayers)
+*   [Issues 18](https://github.com/xlayers/xlayers/issues)
+*   [Pull requests 20](https://github.com/xlayers/xlayers/pulls)
+*   [Discussions](https://github.com/xlayers/xlayers/discussions)
+*   [Actions](https://github.com/xlayers/xlayers/actions)
+*   [Projects 0](https://github.com/xlayers/xlayers/projects)
+*   [Wiki](https://github.com/xlayers/xlayers/wiki)
+*   [Security](https://github.com/xlayers/xlayers/security)
+*   [Insights](https://github.com/xlayers/xlayers/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/xlayers/xlayers)
+*   [Issues](https://github.com/xlayers/xlayers/issues)
+*   [Pull requests](https://github.com/xlayers/xlayers/pulls)
+*   [Discussions](https://github.com/xlayers/xlayers/discussions)
+*   [Actions](https://github.com/xlayers/xlayers/actions)
+*   [Projects](https://github.com/xlayers/xlayers/projects)
+*   [Wiki](https://github.com/xlayers/xlayers/wiki)
+*   [Security](https://github.com/xlayers/xlayers/security)
+*   [Insights](https://github.com/xlayers/xlayers/pulse)
+
+xlayers/xlayers
+===============
+
+  
+
+ main
+
+[**24** Branches](https://github.com/xlayers/xlayers/branches)[**19** Tags](https://github.com/xlayers/xlayers/tags)
+
+[](https://github.com/xlayers/xlayers/branches)[](https://github.com/xlayers/xlayers/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 63: geromegrignon](https://avatars.githubusercontent.com/u/32737308?v=4&size=40)](https://github.com/geromegrignon)[geromegrignon](https://github.com/xlayers/xlayers/commits?author=geromegrignon)
+
+[docs: fix typo (](https://github.com/xlayers/xlayers/commit/9e6d4264430f3901039cd6099c96a71350c2ab5d)[#446](https://github.com/xlayers/xlayers/pull/446)[)](https://github.com/xlayers/xlayers/commit/9e6d4264430f3901039cd6099c96a71350c2ab5d)
+
+Nov 2, 2021
+
+[9e6d426](https://github.com/xlayers/xlayers/commit/9e6d4264430f3901039cd6099c96a71350c2ab5d) · Nov 2, 2021
+
+History
+-------
+
+[795 Commits](https://github.com/xlayers/xlayers/commits/main/)
+
+[](https://github.com/xlayers/xlayers/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/xlayers/xlayers/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/xlayers/xlayers/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[ci: handle node version correct (](https://github.com/xlayers/xlayers/commit/8b728f2836d9730278a32a93db42e29292a4b41b "ci: handle node version correct (#400)")[#400](https://github.com/xlayers/xlayers/pull/400)[)](https://github.com/xlayers/xlayers/commit/8b728f2836d9730278a32a93db42e29292a4b41b "ci: handle node version correct (#400)")
+
+
+
+ | 
+
+Dec 12, 2020
+
+ |
+| 
+
+[.vscode](https://github.com/xlayers/xlayers/tree/main/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[.vscode](https://github.com/xlayers/xlayers/tree/main/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[V11 (](https://github.com/xlayers/xlayers/commit/0bfbf91d813de389364606c2e2814d1f02c1be25 "V11 (#402)
+* chore: update v11 dependensies
+* chore: update nrwl nx to v11
+* chore: update secondary packages to v11
+* chore: update to latest nx version
+* chore: update to nx 11.0.8
+* chore: update to latest nx app
+* chore: update to latest NX
+* test: resolve e2e tests")[#402](https://github.com/xlayers/xlayers/pull/402)[)](https://github.com/xlayers/xlayers/commit/0bfbf91d813de389364606c2e2814d1f02c1be25 "V11 (#402)
+* chore: update v11 dependensies
+* chore: update nrwl nx to v11
+* chore: update secondary packages to v11
+* chore: update to latest nx version
+* chore: update to nx 11.0.8
+* chore: update to latest nx app
+* chore: update to latest NX
+* test: resolve e2e tests")
+
+
+
+ | 
+
+Dec 20, 2020
+
+ |
+| 
+
+[apps](https://github.com/xlayers/xlayers/tree/main/apps "apps")
+
+
+
+
+
+
+
+ | 
+
+[apps](https://github.com/xlayers/xlayers/tree/main/apps "apps")
+
+
+
+
+
+
+
+ | 
+
+[feat(codegen): add svelte support (](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")[#397](https://github.com/xlayers/xlayers/pull/397)[)](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")
+
+
+
+ | 
+
+Jul 11, 2021
+
+ |
+| 
+
+[libs](https://github.com/xlayers/xlayers/tree/main/libs "libs")
+
+
+
+
+
+
+
+ | 
+
+[libs](https://github.com/xlayers/xlayers/tree/main/libs "libs")
+
+
+
+
+
+
+
+ | 
+
+[feat(codegen): add svelte support (](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")[#397](https://github.com/xlayers/xlayers/pull/397)[)](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")
+
+
+
+ | 
+
+Jul 11, 2021
+
+ |
+| 
+
+[tools](https://github.com/xlayers/xlayers/tree/main/tools "tools")
+
+
+
+
+
+
+
+ | 
+
+[tools](https://github.com/xlayers/xlayers/tree/main/tools "tools")
+
+
+
+
+
+
+
+ | 
+
+[refactor/migrate-tslint-to-eslint (](https://github.com/xlayers/xlayers/commit/0dbf74f4f9579156b242e17f383b8d35470fe787 "refactor/migrate-tslint-to-eslint (#418)
+* style(x-layers-app): use eslint instead of tslint
+* style(xlayers-e2e): use eslint instead tslint
+* style(angular-codegen): use eslint instead of tslint
+* style(css-codegen): use eslint instead of tslint
+* style(lit-element-codegen): use eslint instead of tslint
+* style(react-codegen): use eslint instead of tslint
+* style(sketch-ingestor): use eslint instead of tslint
+* style(sketch-lib): use eslint instead of tslint
+* style(sketchtypes): use eslint inteadof tslint
+* style(stencil-codegen): use eslint instead of tslint
+* style(svg-codegen): use eslint instead of tslint
+* style(test-helpers): use eslint to tslint
+* style(vue-codegen): use eslint intead of tslint
+* style(web-codegen): use eslint instead of tslint
+* style(web-component-codegen): use eslint instead of tslint
+* style(xaml-codegen): use eslint instead of tslint
+* refactor:
+* fix(xlayers): radix error linter")[#418](https://github.com/xlayers/xlayers/pull/418)[)](https://github.com/xlayers/xlayers/commit/0dbf74f4f9579156b242e17f383b8d35470fe787 "refactor/migrate-tslint-to-eslint (#418)
+* style(x-layers-app): use eslint instead of tslint
+* style(xlayers-e2e): use eslint instead tslint
+* style(angular-codegen): use eslint instead of tslint
+* style(css-codegen): use eslint instead of tslint
+* style(lit-element-codegen): use eslint instead of tslint
+* style(react-codegen): use eslint instead of tslint
+* style(sketch-ingestor): use eslint instead of tslint
+* style(sketch-lib): use eslint instead of tslint
+* style(sketchtypes): use eslint inteadof tslint
+* style(stencil-codegen): use eslint instead of tslint
+* style(svg-codegen): use eslint instead of tslint
+* style(test-helpers): use eslint to tslint
+* style(vue-codegen): use eslint intead of tslint
+* style(web-codegen): use eslint instead of tslint
+* style(web-component-codegen): use eslint instead of tslint
+* style(xaml-codegen): use eslint instead of tslint
+* refactor:
+* fix(xlayers): radix error linter")
+
+
+
+ | 
+
+Mar 30, 2021
+
+ |
+| 
+
+[.commitlintrc.json](https://github.com/xlayers/xlayers/blob/main/.commitlintrc.json ".commitlintrc.json")
+
+
+
+
+
+
+
+ | 
+
+[.commitlintrc.json](https://github.com/xlayers/xlayers/blob/main/.commitlintrc.json ".commitlintrc.json")
+
+
+
+
+
+
+
+ | 
+
+[chore: verify commit message before commiting](https://github.com/xlayers/xlayers/commit/67fee60028ab6c98ab77cecbff6d3397f7459972 "chore: verify commit message before commiting")
+
+
+
+ | 
+
+Mar 4, 2019
+
+ |
+| 
+
+[.editorconfig](https://github.com/xlayers/xlayers/blob/main/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[.editorconfig](https://github.com/xlayers/xlayers/blob/main/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[fix: update broken unit tests](https://github.com/xlayers/xlayers/commit/cd0147499594e66d4ec5ee0c0fcb32492844e2a8 "fix: update broken unit tests")
+
+
+
+ | 
+
+Feb 29, 2020
+
+ |
+| 
+
+[.eslintrc.json](https://github.com/xlayers/xlayers/blob/main/.eslintrc.json ".eslintrc.json")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.json](https://github.com/xlayers/xlayers/blob/main/.eslintrc.json ".eslintrc.json")
+
+
+
+
+
+
+
+ | 
+
+[refactor/migrate-tslint-to-eslint (](https://github.com/xlayers/xlayers/commit/0dbf74f4f9579156b242e17f383b8d35470fe787 "refactor/migrate-tslint-to-eslint (#418)
+* style(x-layers-app): use eslint instead of tslint
+* style(xlayers-e2e): use eslint instead tslint
+* style(angular-codegen): use eslint instead of tslint
+* style(css-codegen): use eslint instead of tslint
+* style(lit-element-codegen): use eslint instead of tslint
+* style(react-codegen): use eslint instead of tslint
+* style(sketch-ingestor): use eslint instead of tslint
+* style(sketch-lib): use eslint instead of tslint
+* style(sketchtypes): use eslint inteadof tslint
+* style(stencil-codegen): use eslint instead of tslint
+* style(svg-codegen): use eslint instead of tslint
+* style(test-helpers): use eslint to tslint
+* style(vue-codegen): use eslint intead of tslint
+* style(web-codegen): use eslint instead of tslint
+* style(web-component-codegen): use eslint instead of tslint
+* style(xaml-codegen): use eslint instead of tslint
+* refactor:
+* fix(xlayers): radix error linter")[#418](https://github.com/xlayers/xlayers/pull/418)[)](https://github.com/xlayers/xlayers/commit/0dbf74f4f9579156b242e17f383b8d35470fe787 "refactor/migrate-tslint-to-eslint (#418)
+* style(x-layers-app): use eslint instead of tslint
+* style(xlayers-e2e): use eslint instead tslint
+* style(angular-codegen): use eslint instead of tslint
+* style(css-codegen): use eslint instead of tslint
+* style(lit-element-codegen): use eslint instead of tslint
+* style(react-codegen): use eslint instead of tslint
+* style(sketch-ingestor): use eslint instead of tslint
+* style(sketch-lib): use eslint instead of tslint
+* style(sketchtypes): use eslint inteadof tslint
+* style(stencil-codegen): use eslint instead of tslint
+* style(svg-codegen): use eslint instead of tslint
+* style(test-helpers): use eslint to tslint
+* style(vue-codegen): use eslint intead of tslint
+* style(web-codegen): use eslint instead of tslint
+* style(web-component-codegen): use eslint instead of tslint
+* style(xaml-codegen): use eslint instead of tslint
+* refactor:
+* fix(xlayers): radix error linter")
+
+
+
+ | 
+
+Mar 30, 2021
+
+ |
+| 
+
+[.firebaserc](https://github.com/xlayers/xlayers/blob/main/.firebaserc ".firebaserc")
+
+
+
+
+
+
+
+ | 
+
+[.firebaserc](https://github.com/xlayers/xlayers/blob/main/.firebaserc ".firebaserc")
+
+
+
+
+
+
+
+ | 
+
+[chore: add firebase support](https://github.com/xlayers/xlayers/commit/3276f4681326a9681989381b3d649ba4e5fbacae "chore: add firebase support")
+
+
+
+ | 
+
+Jun 12, 2018
+
+ |
+| 
+
+[.gitignore](https://github.com/xlayers/xlayers/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/xlayers/xlayers/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[refactor/migrate-tslint-to-eslint (](https://github.com/xlayers/xlayers/commit/0dbf74f4f9579156b242e17f383b8d35470fe787 "refactor/migrate-tslint-to-eslint (#418)
+* style(x-layers-app): use eslint instead of tslint
+* style(xlayers-e2e): use eslint instead tslint
+* style(angular-codegen): use eslint instead of tslint
+* style(css-codegen): use eslint instead of tslint
+* style(lit-element-codegen): use eslint instead of tslint
+* style(react-codegen): use eslint instead of tslint
+* style(sketch-ingestor): use eslint instead of tslint
+* style(sketch-lib): use eslint instead of tslint
+* style(sketchtypes): use eslint inteadof tslint
+* style(stencil-codegen): use eslint instead of tslint
+* style(svg-codegen): use eslint instead of tslint
+* style(test-helpers): use eslint to tslint
+* style(vue-codegen): use eslint intead of tslint
+* style(web-codegen): use eslint instead of tslint
+* style(web-component-codegen): use eslint instead of tslint
+* style(xaml-codegen): use eslint instead of tslint
+* refactor:
+* fix(xlayers): radix error linter")[#418](https://github.com/xlayers/xlayers/pull/418)[)](https://github.com/xlayers/xlayers/commit/0dbf74f4f9579156b242e17f383b8d35470fe787 "refactor/migrate-tslint-to-eslint (#418)
+* style(x-layers-app): use eslint instead of tslint
+* style(xlayers-e2e): use eslint instead tslint
+* style(angular-codegen): use eslint instead of tslint
+* style(css-codegen): use eslint instead of tslint
+* style(lit-element-codegen): use eslint instead of tslint
+* style(react-codegen): use eslint instead of tslint
+* style(sketch-ingestor): use eslint instead of tslint
+* style(sketch-lib): use eslint instead of tslint
+* style(sketchtypes): use eslint inteadof tslint
+* style(stencil-codegen): use eslint instead of tslint
+* style(svg-codegen): use eslint instead of tslint
+* style(test-helpers): use eslint to tslint
+* style(vue-codegen): use eslint intead of tslint
+* style(web-codegen): use eslint instead of tslint
+* style(web-component-codegen): use eslint instead of tslint
+* style(xaml-codegen): use eslint instead of tslint
+* refactor:
+* fix(xlayers): radix error linter")
+
+
+
+ | 
+
+Mar 30, 2021
+
+ |
+| 
+
+[.nvmrc](https://github.com/xlayers/xlayers/blob/main/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/xlayers/xlayers/blob/main/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[chore: set Node version to 12.13.0](https://github.com/xlayers/xlayers/commit/a79d431a19b7170dff0aeb59d17e1e4f5e368203 "chore: set Node version to 12.13.0")
+
+
+
+ | 
+
+Feb 29, 2020
+
+ |
+| 
+
+[.prettierignore](https://github.com/xlayers/xlayers/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/xlayers/xlayers/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[refactor: move code structure to NX workspace](https://github.com/xlayers/xlayers/commit/de9ae5b9ab9ec7e8b00560af5435e2477304e1b6 "refactor: move code structure to NX workspace")
+
+
+
+ | 
+
+Sep 16, 2020
+
+ |
+| 
+
+[.prettierrc](https://github.com/xlayers/xlayers/blob/main/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc](https://github.com/xlayers/xlayers/blob/main/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[refactor: move code structure to NX workspace](https://github.com/xlayers/xlayers/commit/de9ae5b9ab9ec7e8b00560af5435e2477304e1b6 "refactor: move code structure to NX workspace")
+
+
+
+ | 
+
+Sep 16, 2020
+
+ |
+| 
+
+[.release-it.json](https://github.com/xlayers/xlayers/blob/main/.release-it.json ".release-it.json")
+
+
+
+
+
+
+
+ | 
+
+[.release-it.json](https://github.com/xlayers/xlayers/blob/main/.release-it.json ".release-it.json")
+
+
+
+
+
+
+
+ | 
+
+[chore: add script for generating changelog (](https://github.com/xlayers/xlayers/commit/f2f74223e69e44125f1311742e63f80333e790a3 "chore: add script for generating changelog (#388)")[#388](https://github.com/xlayers/xlayers/pull/388)[)](https://github.com/xlayers/xlayers/commit/f2f74223e69e44125f1311742e63f80333e790a3 "chore: add script for generating changelog (#388)")
+
+
+
+ | 
+
+Oct 22, 2020
+
+ |
+| 
+
+[CHANGELOG.md](https://github.com/xlayers/xlayers/blob/main/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[CHANGELOG.md](https://github.com/xlayers/xlayers/blob/main/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: add script for generating changelog (](https://github.com/xlayers/xlayers/commit/f2f74223e69e44125f1311742e63f80333e790a3 "chore: add script for generating changelog (#388)")[#388](https://github.com/xlayers/xlayers/pull/388)[)](https://github.com/xlayers/xlayers/commit/f2f74223e69e44125f1311742e63f80333e790a3 "chore: add script for generating changelog (#388)")
+
+
+
+ | 
+
+Oct 22, 2020
+
+ |
+| 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/xlayers/xlayers/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/xlayers/xlayers/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[docs: add CODE\_OF\_CONDUCT (](https://github.com/xlayers/xlayers/commit/a4a953a482198ebf62c16c41808f2e4b23a04e6e "docs: add CODE_OF_CONDUCT (#383)")[#383](https://github.com/xlayers/xlayers/pull/383)[)](https://github.com/xlayers/xlayers/commit/a4a953a482198ebf62c16c41808f2e4b23a04e6e "docs: add CODE_OF_CONDUCT (#383)")
+
+
+
+ | 
+
+Oct 19, 2020
+
+ |
+| 
+
+[CODING\_STANDARDS.md](https://github.com/xlayers/xlayers/blob/main/CODING_STANDARDS.md "CODING_STANDARDS.md")
+
+
+
+
+
+
+
+ | 
+
+[CODING\_STANDARDS.md](https://github.com/xlayers/xlayers/blob/main/CODING_STANDARDS.md "CODING_STANDARDS.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: merge develop (](https://github.com/xlayers/xlayers/commit/96cdd5d67321304ba85f578f0ea046a346c8f3a4 "chore: merge develop (#36)
+* docs: add CODING_STANDARDS.md
+* docs: update CODING_STANDARDS.md
+* fix(docs): change base branch name from master to develop (#33)
+* fix(editor): change zoom origin to center (#32)
+* fix(home): change logo image and animation (#31)
+* feat(packaging): add basic PWA support (#30)
+* docs: add \"is it maintained\" badge (#1) (#34)")[#36](https://github.com/xlayers/xlayers/pull/36)[)](https://github.com/xlayers/xlayers/commit/96cdd5d67321304ba85f578f0ea046a346c8f3a4 "chore: merge develop (#36)
+* docs: add CODING_STANDARDS.md
+* docs: update CODING_STANDARDS.md
+* fix(docs): change base branch name from master to develop (#33)
+* fix(editor): change zoom origin to center (#32)
+* fix(home): change logo image and animation (#31)
+* feat(packaging): add basic PWA support (#30)
+* docs: add \"is it maintained\" badge (#1) (#34)")
+
+
+
+ | 
+
+Sep 4, 2018
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/xlayers/xlayers/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/xlayers/xlayers/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[docs: fix typo (](https://github.com/xlayers/xlayers/commit/9e6d4264430f3901039cd6099c96a71350c2ab5d "docs: fix typo (#446)
+change Condut to Conduct")[#446](https://github.com/xlayers/xlayers/pull/446)[)](https://github.com/xlayers/xlayers/commit/9e6d4264430f3901039cd6099c96a71350c2ab5d "docs: fix typo (#446)
+change Condut to Conduct")
+
+
+
+ | 
+
+Nov 2, 2021
+
+ |
+| 
+
+[LICENSE](https://github.com/xlayers/xlayers/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/xlayers/xlayers/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Create LICENSE](https://github.com/xlayers/xlayers/commit/b0e7f363a9cbb0b488be78e181c2ff34ebcfad6b "Create LICENSE")
+
+
+
+ | 
+
+Aug 29, 2018
+
+ |
+| 
+
+[PRIVACY.md](https://github.com/xlayers/xlayers/blob/main/PRIVACY.md "PRIVACY.md")
+
+
+
+
+
+
+
+ | 
+
+[PRIVACY.md](https://github.com/xlayers/xlayers/blob/main/PRIVACY.md "PRIVACY.md")
+
+
+
+
+
+
+
+ | 
+
+[docs: remove bugsnag from PRIVACY](https://github.com/xlayers/xlayers/commit/7e74d7cbd8083d15cdd8b4c1cc4acfd8e2af0876 "docs: remove bugsnag from PRIVACY")
+
+
+
+ | 
+
+Feb 20, 2019
+
+ |
+| 
+
+[README.md](https://github.com/xlayers/xlayers/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/xlayers/xlayers/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: rename "master" to "main" (](https://github.com/xlayers/xlayers/commit/1c738ef8b317b9137bd8f628fbba03595b278820 "chore: rename \"master\" to \"main\" (#361)
+* chore: rename \"master\" to \"main\"
+* fix: not a valid object name affected:e2e
+* fix: not a valid object name affected:e2e
+* fix: run all e2e tests
+* fix: run lint, test and build on affected files
+* ci: handle e2e by running them always
+Co-authored-by: Jefiozie <jefiozie.bosch@gmail.com>")[#361](https://github.com/xlayers/xlayers/pull/361)[)](https://github.com/xlayers/xlayers/commit/1c738ef8b317b9137bd8f628fbba03595b278820 "chore: rename \"master\" to \"main\" (#361)
+* chore: rename \"master\" to \"main\"
+* fix: not a valid object name affected:e2e
+* fix: not a valid object name affected:e2e
+* fix: run all e2e tests
+* fix: run lint, test and build on affected files
+* ci: handle e2e by running them always
+Co-authored-by: Jefiozie <jefiozie.bosch@gmail.com>")
+
+
+
+ | 
+
+Sep 16, 2020
+
+ |
+| 
+
+[SECURITY.md](https://github.com/xlayers/xlayers/blob/main/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[SECURITY.md](https://github.com/xlayers/xlayers/blob/main/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[refactor: move code structure to NX workspace](https://github.com/xlayers/xlayers/commit/de9ae5b9ab9ec7e8b00560af5435e2477304e1b6 "refactor: move code structure to NX workspace")
+
+
+
+ | 
+
+Sep 16, 2020
+
+ |
+| 
+
+[angular.json](https://github.com/xlayers/xlayers/blob/main/angular.json "angular.json")
+
+
+
+
+
+
+
+ | 
+
+[angular.json](https://github.com/xlayers/xlayers/blob/main/angular.json "angular.json")
+
+
+
+
+
+
+
+ | 
+
+[feat(codegen): add svelte support (](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")[#397](https://github.com/xlayers/xlayers/pull/397)[)](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")
+
+
+
+ | 
+
+Jul 11, 2021
+
+ |
+| 
+
+[decorate-angular-cli.js](https://github.com/xlayers/xlayers/blob/main/decorate-angular-cli.js "decorate-angular-cli.js")
+
+
+
+
+
+
+
+ | 
+
+[decorate-angular-cli.js](https://github.com/xlayers/xlayers/blob/main/decorate-angular-cli.js "decorate-angular-cli.js")
+
+
+
+
+
+
+
+ | 
+
+[V11 (](https://github.com/xlayers/xlayers/commit/0bfbf91d813de389364606c2e2814d1f02c1be25 "V11 (#402)
+* chore: update v11 dependensies
+* chore: update nrwl nx to v11
+* chore: update secondary packages to v11
+* chore: update to latest nx version
+* chore: update to nx 11.0.8
+* chore: update to latest nx app
+* chore: update to latest NX
+* test: resolve e2e tests")[#402](https://github.com/xlayers/xlayers/pull/402)[)](https://github.com/xlayers/xlayers/commit/0bfbf91d813de389364606c2e2814d1f02c1be25 "V11 (#402)
+* chore: update v11 dependensies
+* chore: update nrwl nx to v11
+* chore: update secondary packages to v11
+* chore: update to latest nx version
+* chore: update to nx 11.0.8
+* chore: update to latest nx app
+* chore: update to latest NX
+* test: resolve e2e tests")
+
+
+
+ | 
+
+Dec 20, 2020
+
+ |
+| 
+
+[firebase.json](https://github.com/xlayers/xlayers/blob/main/firebase.json "firebase.json")
+
+
+
+
+
+
+
+ | 
+
+[firebase.json](https://github.com/xlayers/xlayers/blob/main/firebase.json "firebase.json")
+
+
+
+
+
+
+
+ | 
+
+[refactor: move code structure to NX workspace](https://github.com/xlayers/xlayers/commit/de9ae5b9ab9ec7e8b00560af5435e2477304e1b6 "refactor: move code structure to NX workspace")
+
+
+
+ | 
+
+Sep 16, 2020
+
+ |
+| 
+
+[jest.config.js](https://github.com/xlayers/xlayers/blob/main/jest.config.js "jest.config.js")
+
+
+
+
+
+
+
+ | 
+
+[jest.config.js](https://github.com/xlayers/xlayers/blob/main/jest.config.js "jest.config.js")
+
+
+
+
+
+
+
+ | 
+
+[feat(codegen): add svelte support (](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")[#397](https://github.com/xlayers/xlayers/pull/397)[)](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")
+
+
+
+ | 
+
+Jul 11, 2021
+
+ |
+| 
+
+[jest.preset.js](https://github.com/xlayers/xlayers/blob/main/jest.preset.js "jest.preset.js")
+
+
+
+
+
+
+
+ | 
+
+[jest.preset.js](https://github.com/xlayers/xlayers/blob/main/jest.preset.js "jest.preset.js")
+
+
+
+
+
+
+
+ | 
+
+[refactor: change deprecated api async to waitForAsync (](https://github.com/xlayers/xlayers/commit/f1fca74d8773191f9186e9ea70bf03f6560a72a7 "refactor: change deprecated api async to waitForAsync (#412)
+* refactor: change deprecated api async to waitForAsync
+* test: fix pages of undefined for css codegen")[#412](https://github.com/xlayers/xlayers/pull/412)[)](https://github.com/xlayers/xlayers/commit/f1fca74d8773191f9186e9ea70bf03f6560a72a7 "refactor: change deprecated api async to waitForAsync (#412)
+* refactor: change deprecated api async to waitForAsync
+* test: fix pages of undefined for css codegen")
+
+
+
+ | 
+
+Mar 23, 2021
+
+ |
+| 
+
+[nx.json](https://github.com/xlayers/xlayers/blob/main/nx.json "nx.json")
+
+
+
+
+
+
+
+ | 
+
+[nx.json](https://github.com/xlayers/xlayers/blob/main/nx.json "nx.json")
+
+
+
+
+
+
+
+ | 
+
+[feat(codegen): add svelte support (](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")[#397](https://github.com/xlayers/xlayers/pull/397)[)](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")
+
+
+
+ | 
+
+Jul 11, 2021
+
+ |
+| 
+
+[package-lock.json](https://github.com/xlayers/xlayers/blob/main/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/xlayers/xlayers/blob/main/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[build(deps-dev): bump url-parse from 1.5.0 to 1.5.2 (](https://github.com/xlayers/xlayers/commit/26c4b50bde6e4739e3cbf0ee924e09dd017e0f1c "build(deps-dev): bump url-parse from 1.5.0 to 1.5.2 (#445)
+Bumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.0 to 1.5.2.
+- [Release notes](https://github.com/unshiftio/url-parse/releases)
+- [Commits](https://github.com/unshiftio/url-parse/compare/1.5.0...1.5.2)
+---
+updated-dependencies:
+- dependency-name: url-parse
+dependency-type: direct:development
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")[#445](https://github.com/xlayers/xlayers/pull/445)[)](https://github.com/xlayers/xlayers/commit/26c4b50bde6e4739e3cbf0ee924e09dd017e0f1c "build(deps-dev): bump url-parse from 1.5.0 to 1.5.2 (#445)
+Bumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.0 to 1.5.2.
+- [Release notes](https://github.com/unshiftio/url-parse/releases)
+- [Commits](https://github.com/unshiftio/url-parse/compare/1.5.0...1.5.2)
+---
+updated-dependencies:
+- dependency-name: url-parse
+dependency-type: direct:development
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")
+
+
+
+ | 
+
+Oct 6, 2021
+
+ |
+| 
+
+[package.json](https://github.com/xlayers/xlayers/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/xlayers/xlayers/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[build(deps-dev): bump url-parse from 1.5.0 to 1.5.2 (](https://github.com/xlayers/xlayers/commit/26c4b50bde6e4739e3cbf0ee924e09dd017e0f1c "build(deps-dev): bump url-parse from 1.5.0 to 1.5.2 (#445)
+Bumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.0 to 1.5.2.
+- [Release notes](https://github.com/unshiftio/url-parse/releases)
+- [Commits](https://github.com/unshiftio/url-parse/compare/1.5.0...1.5.2)
+---
+updated-dependencies:
+- dependency-name: url-parse
+dependency-type: direct:development
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")[#445](https://github.com/xlayers/xlayers/pull/445)[)](https://github.com/xlayers/xlayers/commit/26c4b50bde6e4739e3cbf0ee924e09dd017e0f1c "build(deps-dev): bump url-parse from 1.5.0 to 1.5.2 (#445)
+Bumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.0 to 1.5.2.
+- [Release notes](https://github.com/unshiftio/url-parse/releases)
+- [Commits](https://github.com/unshiftio/url-parse/compare/1.5.0...1.5.2)
+---
+updated-dependencies:
+- dependency-name: url-parse
+dependency-type: direct:development
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")
+
+
+
+ | 
+
+Oct 6, 2021
+
+ |
+| 
+
+[tsconfig.json](https://github.com/xlayers/xlayers/blob/main/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/xlayers/xlayers/blob/main/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[feat(codegen): add svelte support (](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")[#397](https://github.com/xlayers/xlayers/pull/397)[)](https://github.com/xlayers/xlayers/commit/65d478c63634ee59304ee155b5a864602c9818c9 "feat(codegen): add svelte support (#397)
+* feat(codegen): add svelte support
+* fix: compatibility with eslint")
+
+
+
+ | 
+
+Jul 11, 2021
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/xlayers/xlayers?screenshot=true#)
+*   [Code of conduct](https://github.com/xlayers/xlayers?screenshot=true#)
+*   [Apache-2.0 license](https://github.com/xlayers/xlayers?screenshot=true#)
+*   [Security](https://github.com/xlayers/xlayers?screenshot=true#)
+
+[Welcome to xLayers](https://xlayers.app/)
+==========================================
+
+[](https://github.com/xlayers/xlayers?screenshot=true#--welcome-to-xlayers)
+
+[![Image 64](https://camo.githubusercontent.com/3663ba923bba7ae7fb42eebdf1053c0c520e980e6d8c8ff26de512a0d8192535/68747470733a2f2f696d672e736869656c64732e696f2f776562736974652d75702d646f776e2d6666363962342d6666363962342f687474702f736869656c64732e696f2e7376673f6c6162656c3d786c61796572732e617070)](https://xlayers.app/)[![Image 65](https://camo.githubusercontent.com/8a958926b6b8175d30695d04d734c843def498f49e918782279fd7fe47ee77d6/68747470733a2f2f696d672e736869656c64732e696f2f776562736974652d75702d646f776e2d6666363962342d6666363962342f687474702f736869656c64732e696f2e7376673f6c6162656c3d786c61796572732e646576)](https://xlayers.dev/)[![Image 66](https://camo.githubusercontent.com/8272705a1f174e8b84206dda8143533ff0c871a449d684e6b6bc11293f7f9971/68747470733a2f2f696d672e736869656c64732e696f2f776562736974652d75702d646f776e2d6666363962342d6666363962342f687474702f736869656c64732e696f2e7376673f6c6162656c3d786c61796572732e64657369676e)](https://xlayers.design/)
+
+[![Image 67](https://camo.githubusercontent.com/92e5339493f6e309a330bf15d2e764304faaa508fde661840b65f29ae5ff1fcb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7361792d7468616e6b732d6666363962342e737667)](https://twitter.com/xlayers_)[![Image 68](https://camo.githubusercontent.com/268e325c12a3fb66561982f180f0fc4d6e178732d0b0ef472fabd62932a2bb25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230776974682d416e67756c61722d4531333133372e737667)](https://angular.io/)[![Image 69](https://camo.githubusercontent.com/b31279b6bdcae47bdb73038247b6b84ad5476ffe3f36721b75857251c970657b/687474703a2f2f697369746d61696e7461696e65642e636f6d2f62616467652f7265736f6c7574696f6e2f786c61796572732f786c61796572732e737667)](https://github.com/xlayers/xlayers/issues)  
+[![Image 70](https://github.com/xlayers/xlayers/workflows/mainworkflow/badge.svg)](https://github.com/xlayers/xlayers/actions)
+
+[![Image 71](https://camo.githubusercontent.com/5c5cc7be1553723e92d0023fcea1a077631cca1547356de7b813221514ce0555/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f786c61796572732f786c61796572732e737667)](https://camo.githubusercontent.com/5c5cc7be1553723e92d0023fcea1a077631cca1547356de7b813221514ce0555/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f786c61796572732f786c61796572732e737667) [![Image 72](https://camo.githubusercontent.com/863d076f48496f4d511fd66f7a06033ef0ed638a4399579b3ec2fc8a83f2321a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f786c61796572732f786c61796572732e737667)](https://github.com/xlayers/xlayers)
+
+Preview and Convert SketchApp Design Files Into ANY Framework And Library.
+
+[![Image 73](https://raw.githubusercontent.com/xlayers/xlayers/main/apps/xlayers/src/assets/xlayers-ui-1.png?raw=true)](https://raw.githubusercontent.com/xlayers/xlayers/main/apps/xlayers/src/assets/xlayers-ui-1.png?raw=true)
+
+What is xLayers?
+----------------
+
+[](https://github.com/xlayers/xlayers?screenshot=true#what-is-xlayers)
+
+[xLayers](https://xlayers.dev/) is a community-driven effort to bridge the gap between designers, who implement the UI sketch and developers who implement the code from these design sketches. Put simply, [xLayers](https://xlayers.design/) is a code generation tool for your design sketches: use [xLayers](https://xlayers.app/) to instantly scaffold your components out of your design.
+
+The xLayers project is driven by community contributions. Please send us your Pull Requests and feedback!
+
+Want to help? [![Image 74: contributions welcome](https://camo.githubusercontent.com/a93286920599112849c7c2af9d239294be27738b440248e434813b1bd0ffb368/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e747269627574696f6e732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c6174)](https://github.com/xlayers/xlayers/issues)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/xlayers/xlayers?screenshot=true#want-to-help-)
+
+Want to file a bug, contribute some code, or improve the documentation? Excellent! Read up on our guidelines for [contributing](https://github.com/xlayers/xlayers/blob/main/CONTRIBUTING.md) and then check out one of our issues in the hotlist: [community-help](https://github.com/xlayers/xlayers/issues).
+
+Contributors
+------------
+
+[](https://github.com/xlayers/xlayers?screenshot=true#contributors)
+
+This project exists thanks to all the people who contribute. \[[Contribute](https://github.com/xlayers/xlayers/blob/main/CONTRIBUTING.md)\]. [![Image 75](https://camo.githubusercontent.com/9cac5f35deed795425e758235e14def4e6d093682290e777e92abac4b9bf2216/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f786c61796572732f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365)](https://github.com/xlayers/xlayers/graphs/contributors)
+
+Backers
+-------
+
+[](https://github.com/xlayers/xlayers?screenshot=true#backers)
+
+Thank you to all our backers! 🙏 \[[Become a backer](https://opencollective.com/xlayers#backer)\] [![Image 76](https://camo.githubusercontent.com/7de927700d3c292f41067ccf5fcb0d3972af6a5454ea724e846c0864eb53fbe7/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f786c61796572732f6261636b6572732e7376673f77696474683d383930)](https://opencollective.com/xlayers#backers)
+
+Sponsors
+--------
+
+[](https://github.com/xlayers/xlayers?screenshot=true#sponsors)
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. \[[Become a sponsor](https://opencollective.com/xlayers#sponsor)\]
+
+[![Image 77](https://camo.githubusercontent.com/fff480f849360b9ceabb76d9e8fe0f558f81457180e6e59c84c9bc6855f8e478/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f3438313333333134323233383637393034302f4572796b527642475f323030783230302e706e67)](https://www.centigrade.de/en) [![Image 78](https://camo.githubusercontent.com/f35714da39fb24949776c16edb562ed52f7728710645a18c9150c09013d86deb/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f786c61796572732f73706f6e736f722f322f6176617461722e737667)](https://opencollective.com/xlayers/sponsor/2/website) [![Image 79](https://camo.githubusercontent.com/da76da2fad4bd5b829a1f181ef482fd9bd6cf36fa7c83292181c6b27e975aec4/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f786c61796572732f73706f6e736f722f332f6176617461722e737667)](https://opencollective.com/xlayers/sponsor/3/website) [![Image 80](https://camo.githubusercontent.com/62399cdb9735b79c5b661677b0e0e3b58d2662b578af9c706892057c51ddea5c/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f786c61796572732f73706f6e736f722f342f6176617461722e737667)](https://opencollective.com/xlayers/sponsor/4/website) [![Image 81](https://camo.githubusercontent.com/02b57e59a7fd6986bfeec979f4d98d7318888cfe52600a3b862087d103218c99/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f786c61796572732f73706f6e736f722f352f6176617461722e737667)](https://opencollective.com/xlayers/sponsor/5/website) [![Image 82](https://camo.githubusercontent.com/28a44290f8340efb9af90f0d4919eaa8db267be579d4b9af0e58f55d3962427b/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f786c61796572732f73706f6e736f722f362f6176617461722e737667)](https://opencollective.com/xlayers/sponsor/6/website) [![Image 83](https://camo.githubusercontent.com/3a327857958f769e2d9f662c75bf1c57d2c90225c92e5e21d7982da579476d5e/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f786c61796572732f73706f6e736f722f372f6176617461722e737667)](https://opencollective.com/xlayers/sponsor/7/website) [![Image 84](https://camo.githubusercontent.com/17a866edc8ec0991a53b2e8e87a4880d9cadff6dffd59ae2381964310e021c11/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f786c61796572732f73706f6e736f722f382f6176617461722e737667)](https://opencollective.com/xlayers/sponsor/8/website) [![Image 85](https://camo.githubusercontent.com/8b90995c7a1475c674a934431de41c90918932848092b15ecd30d53eec92a861/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f786c61796572732f73706f6e736f722f392f6176617461722e737667)](https://opencollective.com/xlayers/sponsor/9/website)
+
+About
+-----
+
+✨ Generate code from your design
+
+[xlayers.dev](https://xlayers.dev/ "https://xlayers.dev")
+
+### Topics
+
+[productivity](https://github.com/topics/productivity "Topic: productivity") [design](https://github.com/topics/design "Topic: design") [ui](https://github.com/topics/ui "Topic: ui") [ux](https://github.com/topics/ux "Topic: ux") [sketches](https://github.com/topics/sketches "Topic: sketches") [hacktoberfest](https://github.com/topics/hacktoberfest "Topic: hacktoberfest") [sketchapp](https://github.com/topics/sketchapp "Topic: sketchapp") [developers](https://github.com/topics/developers "Topic: developers") [designers](https://github.com/topics/designers "Topic: designers") [xlayers](https://github.com/topics/xlayers "Topic: xlayers")
+
+### Resources
+
+[Readme](https://github.com/xlayers/xlayers?screenshot=true#readme-ov-file)
+
+### License
+
+[Apache-2.0 license](https://github.com/xlayers/xlayers?screenshot=true#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/xlayers/xlayers?screenshot=true#coc-ov-file)
+
+### Security policy
+
+[Security policy](https://github.com/xlayers/xlayers?screenshot=true#security-ov-file)
+
+[Activity](https://github.com/xlayers/xlayers/activity)
+
+[Custom properties](https://github.com/xlayers/xlayers/custom-properties)
+
+### Stars
+
+[**822** stars](https://github.com/xlayers/xlayers/stargazers)
+
+### Watchers
+
+[**14** watching](https://github.com/xlayers/xlayers/watchers)
+
+### Forks
+
+[**85** forks](https://github.com/xlayers/xlayers/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fxlayers%2Fxlayers&report=xlayers+%28user%29)
+
+[Releases](https://github.com/xlayers/xlayers/releases)
+-------------------------------------------------------
+
+[19 tags](https://github.com/xlayers/xlayers/tags)
+
+Sponsor this project
+--------------------
+
+*    ![Image 86: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)[opencollective.com/**xlayers**](https://opencollective.com/xlayers)
+
+[Packages 0](https://github.com/orgs/xlayers/packages?repo_name=xlayers)
+------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 26](https://github.com/xlayers/xlayers/graphs/contributors)
+-------------------------------------------------------------------------
+
+*   [![Image 87: @manekinekko](https://avatars.githubusercontent.com/u/1699357?s=64&v=4)](https://github.com/manekinekko)
+*   [![Image 88: @shikanime](https://avatars.githubusercontent.com/u/22115108?s=64&v=4)](https://github.com/shikanime)
+*   [![Image 89: @Jefiozie](https://avatars.githubusercontent.com/u/17835373?s=64&v=4)](https://github.com/Jefiozie)
+*   [![Image 90: @sumitparakh](https://avatars.githubusercontent.com/u/4236211?s=64&v=4)](https://github.com/sumitparakh)
+*   [![Image 91: @romulocintra](https://avatars.githubusercontent.com/u/1572026?s=64&v=4)](https://github.com/romulocintra)
+*   [![Image 92: @ayshiff](https://avatars.githubusercontent.com/u/32459935?s=64&v=4)](https://github.com/ayshiff)
+*   [![Image 93: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 94: @gioboa](https://avatars.githubusercontent.com/u/35845425?s=64&v=4)](https://github.com/gioboa)
+*   [![Image 95: @vitaliy-bobrov](https://avatars.githubusercontent.com/u/6780441?s=64&v=4)](https://github.com/vitaliy-bobrov)
+*   [![Image 96: @daniloff200](https://avatars.githubusercontent.com/u/13692220?s=64&v=4)](https://github.com/daniloff200)
+*   [![Image 97: @artolshansky](https://avatars.githubusercontent.com/u/14160094?s=64&v=4)](https://github.com/artolshansky)
+*   [![Image 98: @anediaz](https://avatars.githubusercontent.com/u/17216937?s=64&v=4)](https://github.com/anediaz)
+*   [![Image 99: @mchmielarski](https://avatars.githubusercontent.com/u/6870499?s=64&v=4)](https://github.com/mchmielarski)
+*   [![Image 100: @emilio-martinez](https://avatars.githubusercontent.com/u/9163179?s=64&v=4)](https://github.com/emilio-martinez)
+
+[\+ 12 contributors](https://github.com/xlayers/xlayers/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 89.2%](https://github.com/xlayers/xlayers/search?l=typescript)
+*   [HTML 4.6%](https://github.com/xlayers/xlayers/search?l=html)
+*   [JavaScript 3.2%](https://github.com/xlayers/xlayers/search?l=javascript)
+*   [CSS 3.0%](https://github.com/xlayers/xlayers/search?l=css)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

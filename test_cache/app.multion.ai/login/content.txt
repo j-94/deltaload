@@ -1,0 +1,9 @@
+Email
+
+Password[Forgot your password?](https://platform.multion.ai/forgot-password)
+
+Don't have an account? [Sign up](https://platform.multion.ai/register).
+
+OR
+
+By logging in or signing up, you are agreeing to our [Privacy Policy](https://www.multion.ai/privacy) and [Terms of Use](https://www.multion.ai/terms)

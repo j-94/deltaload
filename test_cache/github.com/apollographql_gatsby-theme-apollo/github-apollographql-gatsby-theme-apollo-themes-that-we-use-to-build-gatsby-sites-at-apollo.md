@@ -1,0 +1,695 @@
+---
+title: GitHub - apollographql/gatsby-theme-apollo: 💜 Themes that we use to build Gatsby sites at Apollo
+description: 💜 Themes that we use to build Gatsby sites at Apollo - apollographql/gatsby-theme-apollo
+url: https://github.com/apollographql/gatsby-theme-apollo
+timestamp: 2025-01-20T15:30:59.809Z
+domain: github.com
+path: apollographql_gatsby-theme-apollo
+---
+
+# GitHub - apollographql/gatsby-theme-apollo: 💜 Themes that we use to build Gatsby sites at Apollo
+
+
+💜 Themes that we use to build Gatsby sites at Apollo - apollographql/gatsby-theme-apollo
+
+
+## Content
+
+GitHub - apollographql/gatsby-theme-apollo: 💜 Themes that we use to build Gatsby sites at Apollo
+===============
+                                           
+
+[Skip to content](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fapollographql%2Fgatsby-theme-apollo%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fapollographql%2Fgatsby-theme-apollo%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=apollographql%2Fgatsby-theme-apollo) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+This repository has been archived by the owner on Apr 13, 2023. It is now read-only.
+
+[apollographql](https://github.com/apollographql) / **[gatsby-theme-apollo](https://github.com/apollographql/gatsby-theme-apollo)** Public archive
+
+*   [Notifications](https://github.com/login?return_to=%2Fapollographql%2Fgatsby-theme-apollo) You must be signed in to change notification settings
+*   [Fork 102](https://github.com/login?return_to=%2Fapollographql%2Fgatsby-theme-apollo)
+*   [Star 369](https://github.com/login?return_to=%2Fapollographql%2Fgatsby-theme-apollo)
+    
+
+💜 Themes that we use to build Gatsby sites at Apollo
+
+### License
+
+[MIT license](https://github.com/apollographql/gatsby-theme-apollo/blob/main/LICENSE)
+
+[369 stars](https://github.com/apollographql/gatsby-theme-apollo/stargazers) [102 forks](https://github.com/apollographql/gatsby-theme-apollo/forks) [Branches](https://github.com/apollographql/gatsby-theme-apollo/branches) [Tags](https://github.com/apollographql/gatsby-theme-apollo/tags) [Activity](https://github.com/apollographql/gatsby-theme-apollo/activity)
+
+[Star](https://github.com/login?return_to=%2Fapollographql%2Fgatsby-theme-apollo)
+
+[Notifications](https://github.com/login?return_to=%2Fapollographql%2Fgatsby-theme-apollo) You must be signed in to change notification settings
+
+*   [Code](https://github.com/apollographql/gatsby-theme-apollo)
+*   [Issues 28](https://github.com/apollographql/gatsby-theme-apollo/issues)
+*   [Pull requests 2](https://github.com/apollographql/gatsby-theme-apollo/pulls)
+*   [Actions](https://github.com/apollographql/gatsby-theme-apollo/actions)
+*   [Projects 0](https://github.com/apollographql/gatsby-theme-apollo/projects)
+*   [Security](https://github.com/apollographql/gatsby-theme-apollo/security)
+*   [Insights](https://github.com/apollographql/gatsby-theme-apollo/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/apollographql/gatsby-theme-apollo)
+*   [Issues](https://github.com/apollographql/gatsby-theme-apollo/issues)
+*   [Pull requests](https://github.com/apollographql/gatsby-theme-apollo/pulls)
+*   [Actions](https://github.com/apollographql/gatsby-theme-apollo/actions)
+*   [Projects](https://github.com/apollographql/gatsby-theme-apollo/projects)
+*   [Security](https://github.com/apollographql/gatsby-theme-apollo/security)
+*   [Insights](https://github.com/apollographql/gatsby-theme-apollo/pulse)
+
+apollographql/gatsby-theme-apollo
+=================================
+
+  
+
+ main
+
+[**21** Branches](https://github.com/apollographql/gatsby-theme-apollo/branches)[**945** Tags](https://github.com/apollographql/gatsby-theme-apollo/tags)
+
+[](https://github.com/apollographql/gatsby-theme-apollo/branches)[](https://github.com/apollographql/gatsby-theme-apollo/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 25: peakematt](https://avatars.githubusercontent.com/u/7741049?v=4&size=40)](https://github.com/peakematt)[peakematt](https://github.com/apollographql/gatsby-theme-apollo/commits?author=peakematt)
+
+[Initial exclusion of false positive secrets (](https://github.com/apollographql/gatsby-theme-apollo/commit/a0fd7f636c9572b92412e447609c3ac0221c6a61)[#244](https://github.com/apollographql/gatsby-theme-apollo/pull/244)[)](https://github.com/apollographql/gatsby-theme-apollo/commit/a0fd7f636c9572b92412e447609c3ac0221c6a61)
+
+Apr 13, 2023
+
+[a0fd7f6](https://github.com/apollographql/gatsby-theme-apollo/commit/a0fd7f636c9572b92412e447609c3ac0221c6a61) · Apr 13, 2023
+
+History
+-------
+
+[1,314 Commits](https://github.com/apollographql/gatsby-theme-apollo/commits/main/)
+
+[](https://github.com/apollographql/gatsby-theme-apollo/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[example](https://github.com/apollographql/gatsby-theme-apollo/tree/main/example "example")
+
+
+
+
+
+
+
+ | 
+
+[example](https://github.com/apollographql/gatsby-theme-apollo/tree/main/example "example")
+
+
+
+
+
+
+
+ | 
+
+[Update example README](https://github.com/apollographql/gatsby-theme-apollo/commit/a436a55ad0cc1eac21ed0bd309edbf0d8a5c0bb0 "Update example README")
+
+
+
+ | 
+
+Jan 25, 2022
+
+ |
+| 
+
+[packages](https://github.com/apollographql/gatsby-theme-apollo/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[packages](https://github.com/apollographql/gatsby-theme-apollo/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[Add deprecation notices](https://github.com/apollographql/gatsby-theme-apollo/commit/a73f2673dbba757fe82a4652c4d893dfeb6674fe "Add deprecation notices")
+
+
+
+ | 
+
+Aug 6, 2022
+
+ |
+| 
+
+[.gitignore](https://github.com/apollographql/gatsby-theme-apollo/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/apollographql/gatsby-theme-apollo/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Update apollo-algolia-autocomplete version](https://github.com/apollographql/gatsby-theme-apollo/commit/14d0811f58b5216ecaffb6a84ac96cbfb46a1188 "Update apollo-algolia-autocomplete version")
+
+
+
+ | 
+
+Sep 9, 2021
+
+ |
+| 
+
+[.gitleaks.toml](https://github.com/apollographql/gatsby-theme-apollo/blob/main/.gitleaks.toml ".gitleaks.toml")
+
+
+
+
+
+
+
+ | 
+
+[.gitleaks.toml](https://github.com/apollographql/gatsby-theme-apollo/blob/main/.gitleaks.toml ".gitleaks.toml")
+
+
+
+
+
+
+
+ | 
+
+[Initial exclusion of false positive secrets (](https://github.com/apollographql/gatsby-theme-apollo/commit/a0fd7f636c9572b92412e447609c3ac0221c6a61 "Initial exclusion of false positive secrets (#244)")[#244](https://github.com/apollographql/gatsby-theme-apollo/pull/244)[)](https://github.com/apollographql/gatsby-theme-apollo/commit/a0fd7f636c9572b92412e447609c3ac0221c6a61 "Initial exclusion of false positive secrets (#244)")
+
+
+
+ | 
+
+Apr 13, 2023
+
+ |
+| 
+
+[LICENSE](https://github.com/apollographql/gatsby-theme-apollo/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/apollographql/gatsby-theme-apollo/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Create LICENSE](https://github.com/apollographql/gatsby-theme-apollo/commit/7e3fd2646d73b81060a1701a66ee3e84119eea30 "Create LICENSE")
+
+
+
+ | 
+
+Jan 23, 2020
+
+ |
+| 
+
+[README.md](https://github.com/apollographql/gatsby-theme-apollo/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/apollographql/gatsby-theme-apollo/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Update root readme](https://github.com/apollographql/gatsby-theme-apollo/commit/02aceec412e238aa9cfdcd8237199d4eca850b0f "Update root readme")
+
+
+
+ | 
+
+Aug 6, 2022
+
+ |
+| 
+
+[lerna.json](https://github.com/apollographql/gatsby-theme-apollo/blob/main/lerna.json "lerna.json")
+
+
+
+
+
+
+
+ | 
+
+[lerna.json](https://github.com/apollographql/gatsby-theme-apollo/blob/main/lerna.json "lerna.json")
+
+
+
+
+
+
+
+ | 
+
+[Move theme to packages dir and use lerna](https://github.com/apollographql/gatsby-theme-apollo/commit/70818322f7023ecf494a2026eab57a0a08a553e2 "Move theme to packages dir and use lerna")
+
+
+
+ | 
+
+Feb 5, 2019
+
+ |
+| 
+
+[package.json](https://github.com/apollographql/gatsby-theme-apollo/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/apollographql/gatsby-theme-apollo/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Accept remark-typescript options](https://github.com/apollographql/gatsby-theme-apollo/commit/0af30cf882b9090175a2029a3dbbed38fc2ba2d7 "Accept remark-typescript options")
+
+
+
+ | 
+
+Oct 26, 2021
+
+ |
+| 
+
+[yarn.lock](https://github.com/apollographql/gatsby-theme-apollo/blob/main/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/apollographql/gatsby-theme-apollo/blob/main/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[Bump gatsby-transformer-remark](https://github.com/apollographql/gatsby-theme-apollo/commit/eea15e920b27afe4385cfa847f0855ad00a4bfdd "Bump gatsby-transformer-remark")
+
+
+
+ | 
+
+Jan 24, 2022
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#)
+*   [Code of conduct](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#)
+*   [MIT license](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#)
+*   [Security](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#)
+
+> ⚠️ These packages are no longer being maintained. Feel free to continue using them, but we won't be supporting them moving forward.
+
+[![Image 26](https://camo.githubusercontent.com/1fe4a7b1c74ccd490b255382a50dd6dbbe6ef4704e0f4df1cb397ee0430c7c13/68747470733a2f2f692e696d6775722e636f6d2f5263576f444c342e706e67)](https://camo.githubusercontent.com/1fe4a7b1c74ccd490b255382a50dd6dbbe6ef4704e0f4df1cb397ee0430c7c13/68747470733a2f2f692e696d6775722e636f6d2f5263576f444c342e706e67)
+
+Apollo Gatsby Themes
+====================
+
+[](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#apollo-gatsby-themes)
+
+This repo contains [Gatsby](https://gatsbyjs.org/) themes made by Apollo.
+
+Packages
+--------
+
+[](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#packages)
+
+*   [`gatsby-theme-apollo`](https://github.com/apollographql/gatsby-theme-apollo/blob/main/packages/gatsby-theme-apollo)
+*   [`gatsby-theme-apollo-core`](https://github.com/apollographql/gatsby-theme-apollo/blob/main/packages/gatsby-theme-apollo-core)
+*   [`gatsby-theme-apollo-docs`](https://github.com/apollographql/gatsby-theme-apollo/blob/main/packages/gatsby-theme-apollo-docs)
+
+Examples
+--------
+
+[](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#examples)
+
+*   [Non-Apollo usage with overrides](https://github.com/apollographql/gatsby-theme-apollo/blob/main/example)
+
+License
+-------
+
+[](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#license)
+
+[MIT](https://github.com/apollographql/gatsby-theme-apollo/blob/main/LICENSE)
+
+About
+-----
+
+💜 Themes that we use to build Gatsby sites at Apollo
+
+### Topics
+
+[apollo](https://github.com/topics/apollo "Topic: apollo") [gatsby](https://github.com/topics/gatsby "Topic: gatsby") [gatsby-theme](https://github.com/topics/gatsby-theme "Topic: gatsby-theme")
+
+### Resources
+
+[Readme](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#MIT-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#coc-ov-file)
+
+### Security policy
+
+[Security policy](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#security-ov-file)
+
+[Activity](https://github.com/apollographql/gatsby-theme-apollo/activity)
+
+[Custom properties](https://github.com/apollographql/gatsby-theme-apollo/custom-properties)
+
+### Stars
+
+[**369** stars](https://github.com/apollographql/gatsby-theme-apollo/stargazers)
+
+### Watchers
+
+[**34** watching](https://github.com/apollographql/gatsby-theme-apollo/watchers)
+
+### Forks
+
+[**102** forks](https://github.com/apollographql/gatsby-theme-apollo/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fapollographql%2Fgatsby-theme-apollo&report=apollographql+%28user%29)
+
+[Releases 1](https://github.com/apollographql/gatsby-theme-apollo/releases)
+---------------------------------------------------------------------------
+
+[gatsby-theme-apollo-docs@4.5.4: Merge pull request #157 from apollographql/sb/publish Latest Oct 22, 2020](https://github.com/apollographql/gatsby-theme-apollo/releases/tag/gatsby-theme-apollo-docs%404.5.4)
+
+[Packages 0](https://github.com/orgs/apollographql/packages?repo_name=gatsby-theme-apollo)
+------------------------------------------------------------------------------------------
+
+No packages published  
+
+[Used by 130](https://github.com/apollographql/gatsby-theme-apollo/network/dependents)
+--------------------------------------------------------------------------------------
+
+[* ![Image 27: @SherfeyInv](https://avatars.githubusercontent.com/u/153985591?s=64&v=4) * ![Image 28: @productlabs](https://avatars.githubusercontent.com/u/9044176?s=64&v=4) * ![Image 29: @jfarchivum](https://avatars.githubusercontent.com/u/168072969?s=64&v=4) * ![Image 30: @X-oss-byte](https://avatars.githubusercontent.com/u/136061549?s=64&v=4) * ![Image 31: @X-oss-byte](https://avatars.githubusercontent.com/u/136061549?s=64&v=4) * ![Image 32: @kelvintaywl-cci](https://avatars.githubusercontent.com/u/96301722?s=64&v=4) * ![Image 33: @Christian-Sibo-ONRR](https://avatars.githubusercontent.com/u/87087353?s=64&v=4) * ![Image 34: @ogii-test](https://avatars.githubusercontent.com/u/75459273?s=64&v=4) \+ 122](https://github.com/apollographql/gatsby-theme-apollo/network/dependents)
+
+[Contributors 24](https://github.com/apollographql/gatsby-theme-apollo/graphs/contributors)
+-------------------------------------------------------------------------------------------
+
+*   [![Image 35: @trevorblades](https://avatars.githubusercontent.com/u/1216917?s=64&v=4)](https://github.com/trevorblades)
+*   [![Image 36: @jgarrow](https://avatars.githubusercontent.com/u/32886852?s=64&v=4)](https://github.com/jgarrow)
+*   [![Image 37: @StephenBarlow](https://avatars.githubusercontent.com/u/3433000?s=64&v=4)](https://github.com/StephenBarlow)
+*   [![Image 38: @jchesterman](https://avatars.githubusercontent.com/u/8431868?s=64&v=4)](https://github.com/jchesterman)
+*   [![Image 39: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 40: @jspears](https://avatars.githubusercontent.com/u/1071?s=64&v=4)](https://github.com/jspears)
+*   [![Image 41: @mayakoneval](https://avatars.githubusercontent.com/u/14367451?s=64&v=4)](https://github.com/mayakoneval)
+*   [![Image 42: @benjamn](https://avatars.githubusercontent.com/u/5750?s=64&v=4)](https://github.com/benjamn)
+*   [![Image 43: @solon](https://avatars.githubusercontent.com/u/48528?s=64&v=4)](https://github.com/solon)
+*   [![Image 44: @PowerKiKi](https://avatars.githubusercontent.com/u/72603?s=64&v=4)](https://github.com/PowerKiKi)
+*   [![Image 45: @coldice](https://avatars.githubusercontent.com/u/260038?s=64&v=4)](https://github.com/coldice)
+*   [![Image 46: @mohammed786](https://avatars.githubusercontent.com/u/3727464?s=64&v=4)](https://github.com/mohammed786)
+*   [![Image 47: @Jephuff](https://avatars.githubusercontent.com/u/3953093?s=64&v=4)](https://github.com/Jephuff)
+*   [![Image 48: @leoweigand](https://avatars.githubusercontent.com/u/5489276?s=64&v=4)](https://github.com/leoweigand)
+
+[\+ 10 contributors](https://github.com/apollographql/gatsby-theme-apollo/graphs/contributors)
+
+Languages
+---------
+
+*   [JavaScript 95.5%](https://github.com/apollographql/gatsby-theme-apollo/search?l=javascript)
+*   [Less 4.5%](https://github.com/apollographql/gatsby-theme-apollo/search?l=less)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - apollographql/gatsby-theme-apollo: 💜 Themes that we use to build Gatsby sites at Apollo",
+  "description": "💜 Themes that we use to build Gatsby sites at Apollo - apollographql/gatsby-theme-apollo",
+  "url": "https://github.com/apollographql/gatsby-theme-apollo?screenshot=true",
+  "content": "GitHub - apollographql/gatsby-theme-apollo: 💜 Themes that we use to build Gatsby sites at Apollo\n===============\n                                           \n\n[Skip to content](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fapollographql%2Fgatsby-theme-apollo%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fapollographql%2Fgatsby-theme-apollo%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=apollographql%2Fgatsby-theme-apollo) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\nThis repository has been archived by the owner on Apr 13, 2023. It is now read-only.\n\n[apollographql](https://github.com/apollographql) / **[gatsby-theme-apollo](https://github.com/apollographql/gatsby-theme-apollo)** Public archive\n\n*   [Notifications](https://github.com/login?return_to=%2Fapollographql%2Fgatsby-theme-apollo) You must be signed in to change notification settings\n*   [Fork 102](https://github.com/login?return_to=%2Fapollographql%2Fgatsby-theme-apollo)\n*   [Star 369](https://github.com/login?return_to=%2Fapollographql%2Fgatsby-theme-apollo)\n    \n\n💜 Themes that we use to build Gatsby sites at Apollo\n\n### License\n\n[MIT license](https://github.com/apollographql/gatsby-theme-apollo/blob/main/LICENSE)\n\n[369 stars](https://github.com/apollographql/gatsby-theme-apollo/stargazers) [102 forks](https://github.com/apollographql/gatsby-theme-apollo/forks) [Branches](https://github.com/apollographql/gatsby-theme-apollo/branches) [Tags](https://github.com/apollographql/gatsby-theme-apollo/tags) [Activity](https://github.com/apollographql/gatsby-theme-apollo/activity)\n\n[Star](https://github.com/login?return_to=%2Fapollographql%2Fgatsby-theme-apollo)\n\n[Notifications](https://github.com/login?return_to=%2Fapollographql%2Fgatsby-theme-apollo) You must be signed in to change notification settings\n\n*   [Code](https://github.com/apollographql/gatsby-theme-apollo)\n*   [Issues 28](https://github.com/apollographql/gatsby-theme-apollo/issues)\n*   [Pull requests 2](https://github.com/apollographql/gatsby-theme-apollo/pulls)\n*   [Actions](https://github.com/apollographql/gatsby-theme-apollo/actions)\n*   [Projects 0](https://github.com/apollographql/gatsby-theme-apollo/projects)\n*   [Security](https://github.com/apollographql/gatsby-theme-apollo/security)\n*   [Insights](https://github.com/apollographql/gatsby-theme-apollo/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/apollographql/gatsby-theme-apollo)\n*   [Issues](https://github.com/apollographql/gatsby-theme-apollo/issues)\n*   [Pull requests](https://github.com/apollographql/gatsby-theme-apollo/pulls)\n*   [Actions](https://github.com/apollographql/gatsby-theme-apollo/actions)\n*   [Projects](https://github.com/apollographql/gatsby-theme-apollo/projects)\n*   [Security](https://github.com/apollographql/gatsby-theme-apollo/security)\n*   [Insights](https://github.com/apollographql/gatsby-theme-apollo/pulse)\n\napollographql/gatsby-theme-apollo\n=================================\n\n  \n\n main\n\n[**21** Branches](https://github.com/apollographql/gatsby-theme-apollo/branches)[**945** Tags](https://github.com/apollographql/gatsby-theme-apollo/tags)\n\n[](https://github.com/apollographql/gatsby-theme-apollo/branches)[](https://github.com/apollographql/gatsby-theme-apollo/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 25: peakematt](https://avatars.githubusercontent.com/u/7741049?v=4&size=40)](https://github.com/peakematt)[peakematt](https://github.com/apollographql/gatsby-theme-apollo/commits?author=peakematt)\n\n[Initial exclusion of false positive secrets (](https://github.com/apollographql/gatsby-theme-apollo/commit/a0fd7f636c9572b92412e447609c3ac0221c6a61)[#244](https://github.com/apollographql/gatsby-theme-apollo/pull/244)[)](https://github.com/apollographql/gatsby-theme-apollo/commit/a0fd7f636c9572b92412e447609c3ac0221c6a61)\n\nApr 13, 2023\n\n[a0fd7f6](https://github.com/apollographql/gatsby-theme-apollo/commit/a0fd7f636c9572b92412e447609c3ac0221c6a61) · Apr 13, 2023\n\nHistory\n-------\n\n[1,314 Commits](https://github.com/apollographql/gatsby-theme-apollo/commits/main/)\n\n[](https://github.com/apollographql/gatsby-theme-apollo/commits/main/)\n\n\n\n\n\n\n\n |\n| \n\n[example](https://github.com/apollographql/gatsby-theme-apollo/tree/main/example \"example\")\n\n\n\n\n\n\n\n | \n\n[example](https://github.com/apollographql/gatsby-theme-apollo/tree/main/example \"example\")\n\n\n\n\n\n\n\n | \n\n[Update example README](https://github.com/apollographql/gatsby-theme-apollo/commit/a436a55ad0cc1eac21ed0bd309edbf0d8a5c0bb0 \"Update example README\")\n\n\n\n | \n\nJan 25, 2022\n\n |\n| \n\n[packages](https://github.com/apollographql/gatsby-theme-apollo/tree/main/packages \"packages\")\n\n\n\n\n\n\n\n | \n\n[packages](https://github.com/apollographql/gatsby-theme-apollo/tree/main/packages \"packages\")\n\n\n\n\n\n\n\n | \n\n[Add deprecation notices](https://github.com/apollographql/gatsby-theme-apollo/commit/a73f2673dbba757fe82a4652c4d893dfeb6674fe \"Add deprecation notices\")\n\n\n\n | \n\nAug 6, 2022\n\n |\n| \n\n[.gitignore](https://github.com/apollographql/gatsby-theme-apollo/blob/main/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/apollographql/gatsby-theme-apollo/blob/main/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[Update apollo-algolia-autocomplete version](https://github.com/apollographql/gatsby-theme-apollo/commit/14d0811f58b5216ecaffb6a84ac96cbfb46a1188 \"Update apollo-algolia-autocomplete version\")\n\n\n\n | \n\nSep 9, 2021\n\n |\n| \n\n[.gitleaks.toml](https://github.com/apollographql/gatsby-theme-apollo/blob/main/.gitleaks.toml \".gitleaks.toml\")\n\n\n\n\n\n\n\n | \n\n[.gitleaks.toml](https://github.com/apollographql/gatsby-theme-apollo/blob/main/.gitleaks.toml \".gitleaks.toml\")\n\n\n\n\n\n\n\n | \n\n[Initial exclusion of false positive secrets (](https://github.com/apollographql/gatsby-theme-apollo/commit/a0fd7f636c9572b92412e447609c3ac0221c6a61 \"Initial exclusion of false positive secrets (#244)\")[#244](https://github.com/apollographql/gatsby-theme-apollo/pull/244)[)](https://github.com/apollographql/gatsby-theme-apollo/commit/a0fd7f636c9572b92412e447609c3ac0221c6a61 \"Initial exclusion of false positive secrets (#244)\")\n\n\n\n | \n\nApr 13, 2023\n\n |\n| \n\n[LICENSE](https://github.com/apollographql/gatsby-theme-apollo/blob/main/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[LICENSE](https://github.com/apollographql/gatsby-theme-apollo/blob/main/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[Create LICENSE](https://github.com/apollographql/gatsby-theme-apollo/commit/7e3fd2646d73b81060a1701a66ee3e84119eea30 \"Create LICENSE\")\n\n\n\n | \n\nJan 23, 2020\n\n |\n| \n\n[README.md](https://github.com/apollographql/gatsby-theme-apollo/blob/main/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/apollographql/gatsby-theme-apollo/blob/main/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[Update root readme](https://github.com/apollographql/gatsby-theme-apollo/commit/02aceec412e238aa9cfdcd8237199d4eca850b0f \"Update root readme\")\n\n\n\n | \n\nAug 6, 2022\n\n |\n| \n\n[lerna.json](https://github.com/apollographql/gatsby-theme-apollo/blob/main/lerna.json \"lerna.json\")\n\n\n\n\n\n\n\n | \n\n[lerna.json](https://github.com/apollographql/gatsby-theme-apollo/blob/main/lerna.json \"lerna.json\")\n\n\n\n\n\n\n\n | \n\n[Move theme to packages dir and use lerna](https://github.com/apollographql/gatsby-theme-apollo/commit/70818322f7023ecf494a2026eab57a0a08a553e2 \"Move theme to packages dir and use lerna\")\n\n\n\n | \n\nFeb 5, 2019\n\n |\n| \n\n[package.json](https://github.com/apollographql/gatsby-theme-apollo/blob/main/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[package.json](https://github.com/apollographql/gatsby-theme-apollo/blob/main/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[Accept remark-typescript options](https://github.com/apollographql/gatsby-theme-apollo/commit/0af30cf882b9090175a2029a3dbbed38fc2ba2d7 \"Accept remark-typescript options\")\n\n\n\n | \n\nOct 26, 2021\n\n |\n| \n\n[yarn.lock](https://github.com/apollographql/gatsby-theme-apollo/blob/main/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[yarn.lock](https://github.com/apollographql/gatsby-theme-apollo/blob/main/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[Bump gatsby-transformer-remark](https://github.com/apollographql/gatsby-theme-apollo/commit/eea15e920b27afe4385cfa847f0855ad00a4bfdd \"Bump gatsby-transformer-remark\")\n\n\n\n | \n\nJan 24, 2022\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#)\n*   [Code of conduct](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#)\n*   [MIT license](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#)\n*   [Security](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#)\n\n> ⚠️ These packages are no longer being maintained. Feel free to continue using them, but we won't be supporting them moving forward.\n\n[![Image 26](https://camo.githubusercontent.com/1fe4a7b1c74ccd490b255382a50dd6dbbe6ef4704e0f4df1cb397ee0430c7c13/68747470733a2f2f692e696d6775722e636f6d2f5263576f444c342e706e67)](https://camo.githubusercontent.com/1fe4a7b1c74ccd490b255382a50dd6dbbe6ef4704e0f4df1cb397ee0430c7c13/68747470733a2f2f692e696d6775722e636f6d2f5263576f444c342e706e67)\n\nApollo Gatsby Themes\n====================\n\n[](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#apollo-gatsby-themes)\n\nThis repo contains [Gatsby](https://gatsbyjs.org/) themes made by Apollo.\n\nPackages\n--------\n\n[](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#packages)\n\n*   [`gatsby-theme-apollo`](https://github.com/apollographql/gatsby-theme-apollo/blob/main/packages/gatsby-theme-apollo)\n*   [`gatsby-theme-apollo-core`](https://github.com/apollographql/gatsby-theme-apollo/blob/main/packages/gatsby-theme-apollo-core)\n*   [`gatsby-theme-apollo-docs`](https://github.com/apollographql/gatsby-theme-apollo/blob/main/packages/gatsby-theme-apollo-docs)\n\nExamples\n--------\n\n[](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#examples)\n\n*   [Non-Apollo usage with overrides](https://github.com/apollographql/gatsby-theme-apollo/blob/main/example)\n\nLicense\n-------\n\n[](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#license)\n\n[MIT](https://github.com/apollographql/gatsby-theme-apollo/blob/main/LICENSE)\n\nAbout\n-----\n\n💜 Themes that we use to build Gatsby sites at Apollo\n\n### Topics\n\n[apollo](https://github.com/topics/apollo \"Topic: apollo\") [gatsby](https://github.com/topics/gatsby \"Topic: gatsby\") [gatsby-theme](https://github.com/topics/gatsby-theme \"Topic: gatsby-theme\")\n\n### Resources\n\n[Readme](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#readme-ov-file)\n\n### License\n\n[MIT license](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#MIT-1-ov-file)\n\n### Code of conduct\n\n[Code of conduct](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#coc-ov-file)\n\n### Security policy\n\n[Security policy](https://github.com/apollographql/gatsby-theme-apollo?screenshot=true#security-ov-file)\n\n[Activity](https://github.com/apollographql/gatsby-theme-apollo/activity)\n\n[Custom properties](https://github.com/apollographql/gatsby-theme-apollo/custom-properties)\n\n### Stars\n\n[**369** stars](https://github.com/apollographql/gatsby-theme-apollo/stargazers)\n\n### Watchers\n\n[**34** watching](https://github.com/apollographql/gatsby-theme-apollo/watchers)\n\n### Forks\n\n[**102** forks](https://github.com/apollographql/gatsby-theme-apollo/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fapollographql%2Fgatsby-theme-apollo&report=apollographql+%28user%29)\n\n[Releases 1](https://github.com/apollographql/gatsby-theme-apollo/releases)\n---------------------------------------------------------------------------\n\n[gatsby-theme-apollo-docs@4.5.4: Merge pull request #157 from apollographql/sb/publish Latest Oct 22, 2020](https://github.com/apollographql/gatsby-theme-apollo/releases/tag/gatsby-theme-apollo-docs%404.5.4)\n\n[Packages 0](https://github.com/orgs/apollographql/packages?repo_name=gatsby-theme-apollo)\n------------------------------------------------------------------------------------------\n\nNo packages published  \n\n[Used by 130](https://github.com/apollographql/gatsby-theme-apollo/network/dependents)\n--------------------------------------------------------------------------------------\n\n[* ![Image 27: @SherfeyInv](https://avatars.githubusercontent.com/u/153985591?s=64&v=4) * ![Image 28: @productlabs](https://avatars.githubusercontent.com/u/9044176?s=64&v=4) * ![Image 29: @jfarchivum](https://avatars.githubusercontent.com/u/168072969?s=64&v=4) * ![Image 30: @X-oss-byte](https://avatars.githubusercontent.com/u/136061549?s=64&v=4) * ![Image 31: @X-oss-byte](https://avatars.githubusercontent.com/u/136061549?s=64&v=4) * ![Image 32: @kelvintaywl-cci](https://avatars.githubusercontent.com/u/96301722?s=64&v=4) * ![Image 33: @Christian-Sibo-ONRR](https://avatars.githubusercontent.com/u/87087353?s=64&v=4) * ![Image 34: @ogii-test](https://avatars.githubusercontent.com/u/75459273?s=64&v=4) \\+ 122](https://github.com/apollographql/gatsby-theme-apollo/network/dependents)\n\n[Contributors 24](https://github.com/apollographql/gatsby-theme-apollo/graphs/contributors)\n-------------------------------------------------------------------------------------------\n\n*   [![Image 35: @trevorblades](https://avatars.githubusercontent.com/u/1216917?s=64&v=4)](https://github.com/trevorblades)\n*   [![Image 36: @jgarrow](https://avatars.githubusercontent.com/u/32886852?s=64&v=4)](https://github.com/jgarrow)\n*   [![Image 37: @StephenBarlow](https://avatars.githubusercontent.com/u/3433000?s=64&v=4)](https://github.com/StephenBarlow)\n*   [![Image 38: @jchesterman](https://avatars.githubusercontent.com/u/8431868?s=64&v=4)](https://github.com/jchesterman)\n*   [![Image 39: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)\n*   [![Image 40: @jspears](https://avatars.githubusercontent.com/u/1071?s=64&v=4)](https://github.com/jspears)\n*   [![Image 41: @mayakoneval](https://avatars.githubusercontent.com/u/14367451?s=64&v=4)](https://github.com/mayakoneval)\n*   [![Image 42: @benjamn](https://avatars.githubusercontent.com/u/5750?s=64&v=4)](https://github.com/benjamn)\n*   [![Image 43: @solon](https://avatars.githubusercontent.com/u/48528?s=64&v=4)](https://github.com/solon)\n*   [![Image 44: @PowerKiKi](https://avatars.githubusercontent.com/u/72603?s=64&v=4)](https://github.com/PowerKiKi)\n*   [![Image 45: @coldice](https://avatars.githubusercontent.com/u/260038?s=64&v=4)](https://github.com/coldice)\n*   [![Image 46: @mohammed786](https://avatars.githubusercontent.com/u/3727464?s=64&v=4)](https://github.com/mohammed786)\n*   [![Image 47: @Jephuff](https://avatars.githubusercontent.com/u/3953093?s=64&v=4)](https://github.com/Jephuff)\n*   [![Image 48: @leoweigand](https://avatars.githubusercontent.com/u/5489276?s=64&v=4)](https://github.com/leoweigand)\n\n[\\+ 10 contributors](https://github.com/apollographql/gatsby-theme-apollo/graphs/contributors)\n\nLanguages\n---------\n\n*   [JavaScript 95.5%](https://github.com/apollographql/gatsby-theme-apollo/search?l=javascript)\n*   [Less 4.5%](https://github.com/apollographql/gatsby-theme-apollo/search?l=less)\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 5830
+  }
+}
+```

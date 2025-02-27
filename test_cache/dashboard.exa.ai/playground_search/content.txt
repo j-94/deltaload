@@ -1,0 +1,26 @@
+Exa API Dashboard
+===============
+
+[](https://exa.ai/search/back)
+
+[Docs](https://docs.exa.ai/)[Exa Search](https://exa.ai/search)
+
+Thousands of companies and developers use Exa to integrate **live web data** into their **AI app**
+==================================================================================================
+
+![Image 7: logo](https://exa.imgix.net/openai2x.png)![Image 8: logo](https://exa.imgix.net/langchain2x.png)![Image 9: logo](https://exa.imgix.net/llamaindex2x.png)![Image 10: logo](https://exa.imgix.net/databricks2x.png)
+
+![Image 11](https://exa.imgix.net/dashboard/dashboard-mockup-4x-1.png)![Image 12](https://exa.imgix.net/dashboard/search-comparison-4x.png)
+
+Get started with Exa
+--------------------
+
+No credit card required
+
+Continue with Google
+
+OR
+
+CONTINUE WITH EMAIL
+
+If you are supposed to join a team, please contact your team's administrator for an invite link.

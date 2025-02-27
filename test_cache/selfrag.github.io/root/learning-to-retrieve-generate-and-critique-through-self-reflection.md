@@ -1,0 +1,135 @@
+---
+title: Learning to Retrieve, Generate and Critique through Self-Reflection
+description: Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflection.
+url: https://selfrag.github.io/
+timestamp: 2025-01-20T15:51:07.117Z
+domain: selfrag.github.io
+path: root
+---
+
+# Learning to Retrieve, Generate and Critique through Self-Reflection
+
+
+Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflection.
+
+
+## Content
+
+1University of Washington, 2IBM AI Research, 3Allen Institute for AI
+
+Self-RAG learns to retrieve, generate and critique to enhance LM's output quality and factuality, outperforming ChatGPT and retrieval-augmented LLama2 Chat on six tasks.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 11: BUFFET teaser.](https://selfrag.github.io/static/images/teaser_self_rag_v8.png)
+
+Summary
+-------
+
+**The issue: Factual inaccuracies of versatile LLMs**  
+Despite their remarkable capabilities, large language models (LLMs) often produce responses containing factual inaccuracies due to their sole reliance on the parametric knowledge they encapsulate. They often generate hallucinations, especially in long-tail, their knowledge gets obsolete, and lacks attribution.
+
+**Is Retrieval-Augmented Generation a silver bullet?**  
+Retrieval-Augmented Generation (RAG), an ad hoc approach that augments LMs with retrieval of relevant knowledge, decreases such issues and shows effectiveness in knowledge-intensive tasks such as QA. However, **indiscriminately retrieving and incorporating a fixed number of retrieved passages, regardless of whether retrieval is necessary, or passages are relevant, diminishes LM versatility or can lead to unhelpful response generation**. Moreover, there's no guarantee that generations are entailed by cited evidence.
+
+**What is **Self-RAG**?**  
+**Self-Reflective Retrieval-Augmented Generation (Self-RAG)** is a new framework to enhances an LM's quality and factuality through retrieval and self-reflection. Our framework trains a single arbitrary LM that adaptively **retrieves passages on-demand** (e.g., can retrieve multiple times during generation, or completely skip retrieval), and **generates and reflects on retrieved passages and its own generations** using special tokens, called **reflection tokens**. Generating reflection tokens makes the LM controllable during the inference phase, enabling it to tailor its behavior to diverse task requirements.
+
+**How good is **Self-RAG**?**  
+Experiments show that **Self-RAG (7B and 13B parameters) significantly outperforms state-of-the-art LLMs and retrieval-augmented models on a diverse set of tasks**. Specifically, Self-RAG outperforms ChatGPT and retrieval-augmented Llama2-chat on Open-domain QA, reasoning and fact verification tasks, and it shows significant gains in improving factuality and citation accuracy for long-form generations relative to these models.
+
+Self-RAG: Learning to Retrieve, Generate and Critique
+-----------------------------------------------------
+
+**Self-RAG** is a new framework that trains and controls an arbitrary LM through **Self-reflection tokens**. In particular, at every segment (e.g., sentence), Self-RAG can
+
+*   **Retrieve: Self-RAG first** decodes a **retrieval token** to evaluate the utility of retrieval and control a retrieval component. If retrieval is required, our LM calls an external retrieval module to find top relevant documents, using input query and previous generation.
+*   **Generate:** If retrieval is not required, the model predicts the next output segment, as it does in a standard LM. If retrieval is needed, the model first generates generates **critique token** evaluating whether retrieved documents are relevant, and then generate continuation conditioned on the retrieved passages.
+*   **Critique:** If retrieval is required, the model further evaluates if passages support generation. Finally, a new critique token evaluates the overall utility of the response.
+
+Below, we show different types of our **reflection tokens** that are added to Self-RAG vocabulary during training.  
+![Image 12: special tokens](https://selfrag.github.io/static/images/special_tokens.png)
+
+  
+
+### Training of Self-RAG
+
+**Self-RAG** training consists of three models, a **Retriever**, a **Critic** and a **Generator**.
+
+1\. Trains the **Critic** and augment diverse instruction-output data with retrieved passages by the **Retriever** as well as reflection tokens (See Figure below).
+
+2\. Train the **Generator** LM using a standard next token prediction objective to learns to generate natural continuations as well as special tokens to retrieve or critique its own generations.
+
+![Image 13: special tokens](https://selfrag.github.io/static/images/training_examples.png)
+
+### Inference of Self-RAG
+
+By learning to generate reflection tokens, Self-RAG enables to tailor model behaviors for diverse downstream tasks or preferences, without requiring training LMs. In particular,
+
+*   **Adaptive retrieval with retrieval tokens:** Prior work often retrieves passages fixed times (e.g., only retrieves at the beginning, every k-tokens) during generation struggles to balance trade-off between quality and efficiency. While Self-RAG learns to generate retrieval tokens to adaptively retrieve, one can also change frequency based on their soft-constraints using token probability of retrieval tokens.
+*   **Tree-decoding with critique tokens:** Self-RAG introduces multiple fine-grained critique tokens evaluating different aspects of generation quality (e.g., supported by evidence, completeness). We conduct segment-level beam search using linear interpolation of desirable critique token probability to identify K best continuations at every time step.
+
+### Connections to Prior Work
+
+#### v.s. Retrieval-augmented Generation
+
+*   Standard RAG only retrieves once or fixed number of time steps, while Self-RAG enables **Adaptive retrieval** for diverse task inputs, and can retrieve multiple times while generations, or completely skip retrieval, making it more suitable for diverse downstream queries (e.g., instruction-following).
+*   Self-RAG carefully **criticize** retrieved passages or its own generations via reflection tokens and incorporate hard or soft constrained during decoding, while standard RAG does not assess relevance of passages or whether the output is indeed supported by the passages.
+
+#### v.s. Learning from Critique (Feedback)
+
+*   Reflection tokens are inserted offline by another Critic model trained on machine-generated feedback, making training much more memory efficient and stable than widely adopted RLHF methods (e.g., PPO).
+*   Self-RAG enables tailored behaviors by simply adjusting reward weights across multiple preference aspects, while prior fine-grained feedback learning method requires training for different model behaviors.
+
+Results and Analysis
+--------------------
+
+  
+
+### Main Results
+
+**Self-RAG** outperforms vanilla ChatGPT or LLama2-chat across six tasks, and outperforms those SOTA models with widely-used retrieval-augmentation methods in most tasks by large margin.
+
+![Image 14: results](https://selfrag.github.io/static/images/results.png)
+
+### Analysis
+
+![Image 15: analysis results](https://selfrag.github.io/static/images/analysis_result_1.png)
+
+#### (A) Ablations
+
+Our ablation results show that all training and inference components play important roles to improve performance off Self-RAG.
+
+#### (B) Inference-time customization via critique tokens
+
+Self-RAG enables practitioners to tailor model's behaviors for different fine-grained preferences. For instance, putting more emphasis on whether a model generation is supported by the evidence can increase citation precision (precision in Figure (b)) on long-form generation, while putting less emphasis on it can increase the output fluency as a model may generate output more flexibly and fluently, regardless of whether it is supported by the cite evidence.
+
+#### (C) Adaptive retrieval via retrieval tokens
+
+Self-RAGgenerates retrieval tokens by itself when it judges retrieval is necessary, while one can also increase or decrease retrieval frequency based on diverse end tasks. As you can see, retrieval less can hurt performance on Open domain QA (PopQA; 40% relative performance drop) while it gives marginal performance deterioration in fact verification task (PubHealth; 2%).
+
+BibTeX
+------
+
+```
+@article{asai2023selfrag,
+      author    = {Asai, Akari and Wu, Zeqiu and Wang, Yizhong and Sil, Avirup and Hajishirzi, Hannaneh},
+      title     = {{Self-RAG}: Learning to Retrieve, Generate, and Critique through Self-Reflection},
+      year      = {2023},
+     journal    = {arXiv preprint arXiv:2310.11511},
+     url        = {https://arxiv.org/abs/2310.11511}
+    }
+```
+
+## Metadata
+
+```json
+{
+  "title": "Learning to Retrieve, Generate and Critique through Self-Reflection",
+  "description": "Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflection.",
+  "url": "https://selfrag.github.io/",
+  "content": "1University of Washington, 2IBM AI Research, 3Allen Institute for AI\n\nSelf-RAG learns to retrieve, generate and critique to enhance LM's output quality and factuality, outperforming ChatGPT and retrieval-augmented LLama2 Chat on six tasks.\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n![Image 11: BUFFET teaser.](https://selfrag.github.io/static/images/teaser_self_rag_v8.png)\n\nSummary\n-------\n\n**The issue: Factual inaccuracies of versatile LLMs**  \nDespite their remarkable capabilities, large language models (LLMs) often produce responses containing factual inaccuracies due to their sole reliance on the parametric knowledge they encapsulate. They often generate hallucinations, especially in long-tail, their knowledge gets obsolete, and lacks attribution.\n\n**Is Retrieval-Augmented Generation a silver bullet?**  \nRetrieval-Augmented Generation (RAG), an ad hoc approach that augments LMs with retrieval of relevant knowledge, decreases such issues and shows effectiveness in knowledge-intensive tasks such as QA. However, **indiscriminately retrieving and incorporating a fixed number of retrieved passages, regardless of whether retrieval is necessary, or passages are relevant, diminishes LM versatility or can lead to unhelpful response generation**. Moreover, there's no guarantee that generations are entailed by cited evidence.\n\n**What is **Self-RAG**?**  \n**Self-Reflective Retrieval-Augmented Generation (Self-RAG)** is a new framework to enhances an LM's quality and factuality through retrieval and self-reflection. Our framework trains a single arbitrary LM that adaptively **retrieves passages on-demand** (e.g., can retrieve multiple times during generation, or completely skip retrieval), and **generates and reflects on retrieved passages and its own generations** using special tokens, called **reflection tokens**. Generating reflection tokens makes the LM controllable during the inference phase, enabling it to tailor its behavior to diverse task requirements.\n\n**How good is **Self-RAG**?**  \nExperiments show that **Self-RAG (7B and 13B parameters) significantly outperforms state-of-the-art LLMs and retrieval-augmented models on a diverse set of tasks**. Specifically, Self-RAG outperforms ChatGPT and retrieval-augmented Llama2-chat on Open-domain QA, reasoning and fact verification tasks, and it shows significant gains in improving factuality and citation accuracy for long-form generations relative to these models.\n\nSelf-RAG: Learning to Retrieve, Generate and Critique\n-----------------------------------------------------\n\n**Self-RAG** is a new framework that trains and controls an arbitrary LM through **Self-reflection tokens**. In particular, at every segment (e.g., sentence), Self-RAG can\n\n*   **Retrieve: Self-RAG first** decodes a **retrieval token** to evaluate the utility of retrieval and control a retrieval component. If retrieval is required, our LM calls an external retrieval module to find top relevant documents, using input query and previous generation.\n*   **Generate:** If retrieval is not required, the model predicts the next output segment, as it does in a standard LM. If retrieval is needed, the model first generates generates **critique token** evaluating whether retrieved documents are relevant, and then generate continuation conditioned on the retrieved passages.\n*   **Critique:** If retrieval is required, the model further evaluates if passages support generation. Finally, a new critique token evaluates the overall utility of the response.\n\nBelow, we show different types of our **reflection tokens** that are added to Self-RAG vocabulary during training.  \n![Image 12: special tokens](https://selfrag.github.io/static/images/special_tokens.png)\n\n  \n\n### Training of Self-RAG\n\n**Self-RAG** training consists of three models, a **Retriever**, a **Critic** and a **Generator**.\n\n1\\. Trains the **Critic** and augment diverse instruction-output data with retrieved passages by the **Retriever** as well as reflection tokens (See Figure below).\n\n2\\. Train the **Generator** LM using a standard next token prediction objective to learns to generate natural continuations as well as special tokens to retrieve or critique its own generations.\n\n![Image 13: special tokens](https://selfrag.github.io/static/images/training_examples.png)\n\n### Inference of Self-RAG\n\nBy learning to generate reflection tokens, Self-RAG enables to tailor model behaviors for diverse downstream tasks or preferences, without requiring training LMs. In particular,\n\n*   **Adaptive retrieval with retrieval tokens:** Prior work often retrieves passages fixed times (e.g., only retrieves at the beginning, every k-tokens) during generation struggles to balance trade-off between quality and efficiency. While Self-RAG learns to generate retrieval tokens to adaptively retrieve, one can also change frequency based on their soft-constraints using token probability of retrieval tokens.\n*   **Tree-decoding with critique tokens:** Self-RAG introduces multiple fine-grained critique tokens evaluating different aspects of generation quality (e.g., supported by evidence, completeness). We conduct segment-level beam search using linear interpolation of desirable critique token probability to identify K best continuations at every time step.\n\n### Connections to Prior Work\n\n#### v.s. Retrieval-augmented Generation\n\n*   Standard RAG only retrieves once or fixed number of time steps, while Self-RAG enables **Adaptive retrieval** for diverse task inputs, and can retrieve multiple times while generations, or completely skip retrieval, making it more suitable for diverse downstream queries (e.g., instruction-following).\n*   Self-RAG carefully **criticize** retrieved passages or its own generations via reflection tokens and incorporate hard or soft constrained during decoding, while standard RAG does not assess relevance of passages or whether the output is indeed supported by the passages.\n\n#### v.s. Learning from Critique (Feedback)\n\n*   Reflection tokens are inserted offline by another Critic model trained on machine-generated feedback, making training much more memory efficient and stable than widely adopted RLHF methods (e.g., PPO).\n*   Self-RAG enables tailored behaviors by simply adjusting reward weights across multiple preference aspects, while prior fine-grained feedback learning method requires training for different model behaviors.\n\nResults and Analysis\n--------------------\n\n  \n\n### Main Results\n\n**Self-RAG** outperforms vanilla ChatGPT or LLama2-chat across six tasks, and outperforms those SOTA models with widely-used retrieval-augmentation methods in most tasks by large margin.\n\n![Image 14: results](https://selfrag.github.io/static/images/results.png)\n\n### Analysis\n\n![Image 15: analysis results](https://selfrag.github.io/static/images/analysis_result_1.png)\n\n#### (A) Ablations\n\nOur ablation results show that all training and inference components play important roles to improve performance off Self-RAG.\n\n#### (B) Inference-time customization via critique tokens\n\nSelf-RAG enables practitioners to tailor model's behaviors for different fine-grained preferences. For instance, putting more emphasis on whether a model generation is supported by the evidence can increase citation precision (precision in Figure (b)) on long-form generation, while putting less emphasis on it can increase the output fluency as a model may generate output more flexibly and fluently, regardless of whether it is supported by the cite evidence.\n\n#### (C) Adaptive retrieval via retrieval tokens\n\nSelf-RAGgenerates retrieval tokens by itself when it judges retrieval is necessary, while one can also increase or decrease retrieval frequency based on diverse end tasks. As you can see, retrieval less can hurt performance on Open domain QA (PopQA; 40% relative performance drop) while it gives marginal performance deterioration in fact verification task (PubHealth; 2%).\n\nBibTeX\n------\n\n```\n@article{asai2023selfrag,\n      author    = {Asai, Akari and Wu, Zeqiu and Wang, Yizhong and Sil, Avirup and Hajishirzi, Hannaneh},\n      title     = {{Self-RAG}: Learning to Retrieve, Generate, and Critique through Self-Reflection},\n      year      = {2023},\n     journal    = {arXiv preprint arXiv:2310.11511},\n     url        = {https://arxiv.org/abs/2310.11511}\n    }\n```",
+  "usage": {
+    "tokens": 1705
+  }
+}
+```

@@ -1,0 +1,63 @@
+![Image 13](https://bookface-images.s3.amazonaws.com/small_logos/04048e20ad9f577bc3492f6e2f693d9acc9475d4.png)
+
+### Task automation platform for GTM teams
+
+Lysto is a task automation platform built for go-to-market (GTM) teams, designed to streamline workflows and reduce time spent on administrative tasks. By aggregating data from your video calls, emails, and other data sources like internal documents and product analytics, Lysto automates key GTM tasks such as updating CRM records, drafting personalized follow-up emails, and logging customer issues in tools like Slack or JIRA. Each task can be fully automated or flagged for final review in Lysto’s task inbox, providing both efficiency and oversight.
+
+![Image 14: Lysto AI](https://bookface-images.s3.us-west-2.amazonaws.com/logos/75ff67e3d00d0fbdbe74faea4d10a1e174fe9272.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJAQ3MRIU%2F20250120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250120T161110Z&X-Amz-Expires=2062&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICXJgF6gDkYitaCRLkkmgIgLrxy%2FKBSpr%2FphH00%2BgGpiAiEAvF45%2Btx67p2%2B2X19WHDYuBgDgeaBaMxZv8xmTpLZjzsq7gMIpP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDHOqjKxPWFpY8HHw%2FirCA%2BxSiD2ldSa7vIunhZYyp7udPDQMczSZLgMyzD33lKcmgK6Q5Yi8ds1GXROr7nLPAffnvThRhhCjINcOq8Nov%2FPNBKxq9mJR0P0sww3grGOw1vCm6JnLIpEmzh8Y1oIaUoa99oLozUk2p9aE6XtRSvaxvtbld2vbHefzd66KHbzE2wKEnZLN39FgFPqJO79xaBydvwaylK70LbFx91m1Ax%2BxkvarPNvH2fc5Kl1RWL7RRpsdXd0jrDVajfOCkLik7l59bXfzXW3wsBZGM%2FvnZNr%2F636QeQyHAr%2BHrpjOu1eHHb98ll1ipW7VK%2BRVhtWhjUwpT0vG%2F8ZxF1RgjVIumCAkO1re4Cc66znb3jKDjfaUBElfjaOWxUSpqkwCd4hHuQrMzypikJf%2BJ1cdkOKzPFhFrpR92D7ng9IX6EdxPIop6Neunnvil9jNw%2B2KgHMwrHKBL%2FaHetJFZ757FG3av3d8W%2BMAfbTOpIQaNxGRtBbKV%2F4AihzWZTtAP5XYoPl2WIHC5FXAW4Ks7XQS8yABHeynIwnixUKzaLqU%2FtbA9Bfarkpu%2BKibC2%2F%2Bxvi2zP8aGNMa2riw41ft5GYhwGkml3La%2FzDN0ri8BjqlAY%2Ff8yeoywOddUdNxDf6MgSXShcyuAF3VIkahu8WueVL1b12G%2FsvFvzPouZxWXjD3MKpdL%2FuxHpieF9RguPuODb3Ufw8oH7Mu6pdvKg%2FsUCl3YbP1h7ICdC9fz049mIn8KeLD8x2W8K3WNVmKLGt2kWvXsbfAhtfxHKrqjWeKpD6j4HRVufmIaExRmjU%2BcEYPBWnuThyQlL0oDtDO6kHSPJD2VuA8A%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e3d1b073dd24bef6f1b137f97487466bf0ca1e977387fc48fde04d2bfb77b833)
+
+Lysto AI
+
+Founded:2023
+
+Team Size:2
+
+Location:New York
+
+### Active Founders
+
+### Kyle Archie, Founder
+
+CEO of Lysto AI. Previously worked at Meta on early LLM product research (2019-2020), Conversational AI Voice Interfaces (2021-2022), and started IMU Gestural Interface product group (2022-2023) for Meta Smart Glasses. Prior to Meta, led Product at Tripod AI, processing 500+ images/second using 20+ ML models for brands including Flickr, Yahoo and Verizon. Holds two patents in Conversational AI. BS in Computer Science from Stanford University.
+
+![Image 15: Kyle Archie](https://bookface-images.s3.us-west-2.amazonaws.com/avatars/a211d7d4527791a2a205d4ebab7d53f9bc6f4432.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJAQ3MRIU%2F20250120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250120T161110Z&X-Amz-Expires=2062&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICXJgF6gDkYitaCRLkkmgIgLrxy%2FKBSpr%2FphH00%2BgGpiAiEAvF45%2Btx67p2%2B2X19WHDYuBgDgeaBaMxZv8xmTpLZjzsq7gMIpP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDHOqjKxPWFpY8HHw%2FirCA%2BxSiD2ldSa7vIunhZYyp7udPDQMczSZLgMyzD33lKcmgK6Q5Yi8ds1GXROr7nLPAffnvThRhhCjINcOq8Nov%2FPNBKxq9mJR0P0sww3grGOw1vCm6JnLIpEmzh8Y1oIaUoa99oLozUk2p9aE6XtRSvaxvtbld2vbHefzd66KHbzE2wKEnZLN39FgFPqJO79xaBydvwaylK70LbFx91m1Ax%2BxkvarPNvH2fc5Kl1RWL7RRpsdXd0jrDVajfOCkLik7l59bXfzXW3wsBZGM%2FvnZNr%2F636QeQyHAr%2BHrpjOu1eHHb98ll1ipW7VK%2BRVhtWhjUwpT0vG%2F8ZxF1RgjVIumCAkO1re4Cc66znb3jKDjfaUBElfjaOWxUSpqkwCd4hHuQrMzypikJf%2BJ1cdkOKzPFhFrpR92D7ng9IX6EdxPIop6Neunnvil9jNw%2B2KgHMwrHKBL%2FaHetJFZ757FG3av3d8W%2BMAfbTOpIQaNxGRtBbKV%2F4AihzWZTtAP5XYoPl2WIHC5FXAW4Ks7XQS8yABHeynIwnixUKzaLqU%2FtbA9Bfarkpu%2BKibC2%2F%2Bxvi2zP8aGNMa2riw41ft5GYhwGkml3La%2FzDN0ri8BjqlAY%2Ff8yeoywOddUdNxDf6MgSXShcyuAF3VIkahu8WueVL1b12G%2FsvFvzPouZxWXjD3MKpdL%2FuxHpieF9RguPuODb3Ufw8oH7Mu6pdvKg%2FsUCl3YbP1h7ICdC9fz049mIn8KeLD8x2W8K3WNVmKLGt2kWvXsbfAhtfxHKrqjWeKpD6j4HRVufmIaExRmjU%2BcEYPBWnuThyQlL0oDtDO6kHSPJD2VuA8A%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b5854242d405587cf5ebb56eb7b8b1ecdb701595d86a15eba7086860824fd996)
+
+### Manuel Diaz-Granados, Founder
+
+CTO of Lysto AI. Previously led Ads Web Team at Rokt (Series D startup), developing ML pipeline integrations that optimized 100M+ in ad traffic. Prior to Rokt, led Enrichment Team at Tripod AI, processing 500+ images/second using 20+ ML models for brands including Flickr, Yahoo and Verizon. Master's in ECE from Carnegie Mellon with publications in cloud computing, big data, and computer vision.
+
+![Image 16: Manuel Diaz-Granados](https://bookface-images.s3.us-west-2.amazonaws.com/avatars/d44ece29d50d294154c65c8ebae4b1bc7d6ed123.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAJAQ3MRIU%2F20250120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250120T161110Z&X-Amz-Expires=2062&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICXJgF6gDkYitaCRLkkmgIgLrxy%2FKBSpr%2FphH00%2BgGpiAiEAvF45%2Btx67p2%2B2X19WHDYuBgDgeaBaMxZv8xmTpLZjzsq7gMIpP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDHOqjKxPWFpY8HHw%2FirCA%2BxSiD2ldSa7vIunhZYyp7udPDQMczSZLgMyzD33lKcmgK6Q5Yi8ds1GXROr7nLPAffnvThRhhCjINcOq8Nov%2FPNBKxq9mJR0P0sww3grGOw1vCm6JnLIpEmzh8Y1oIaUoa99oLozUk2p9aE6XtRSvaxvtbld2vbHefzd66KHbzE2wKEnZLN39FgFPqJO79xaBydvwaylK70LbFx91m1Ax%2BxkvarPNvH2fc5Kl1RWL7RRpsdXd0jrDVajfOCkLik7l59bXfzXW3wsBZGM%2FvnZNr%2F636QeQyHAr%2BHrpjOu1eHHb98ll1ipW7VK%2BRVhtWhjUwpT0vG%2F8ZxF1RgjVIumCAkO1re4Cc66znb3jKDjfaUBElfjaOWxUSpqkwCd4hHuQrMzypikJf%2BJ1cdkOKzPFhFrpR92D7ng9IX6EdxPIop6Neunnvil9jNw%2B2KgHMwrHKBL%2FaHetJFZ757FG3av3d8W%2BMAfbTOpIQaNxGRtBbKV%2F4AihzWZTtAP5XYoPl2WIHC5FXAW4Ks7XQS8yABHeynIwnixUKzaLqU%2FtbA9Bfarkpu%2BKibC2%2F%2Bxvi2zP8aGNMa2riw41ft5GYhwGkml3La%2FzDN0ri8BjqlAY%2Ff8yeoywOddUdNxDf6MgSXShcyuAF3VIkahu8WueVL1b12G%2FsvFvzPouZxWXjD3MKpdL%2FuxHpieF9RguPuODb3Ufw8oH7Mu6pdvKg%2FsUCl3YbP1h7ICdC9fz049mIn8KeLD8x2W8K3WNVmKLGt2kWvXsbfAhtfxHKrqjWeKpD6j4HRVufmIaExRmjU%2BcEYPBWnuThyQlL0oDtDO6kHSPJD2VuA8A%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7f5778b7e8b22757c70006d9235cdeb4491e7a0b6e2fe9560b0cccb8cbd988a6)
+
+### Company Launches
+
+[### Lysto AI ⚡ Task automation platform for GTM teams](https://www.ycombinator.com/launches/Lpy-lysto-ai-task-automation-platform-for-gtm-teams)
+
+Hey everyone! We’re [Kyle](https://www.linkedin.com/in/kylearchie/) and [Manuel](https://www.linkedin.com/in/manuel-dg/), the founders of [Lysto AI](https://lysto.ai/).
+
+### **TL;DR**
+
+[Lysto](https://lysto.ai/) is a task automation platform for GTM teams that automates key workflows for sales, CS, and ops. It aggregates your customer data to help you do things like track deals, engage customers, and log issues in JIRA. You can check out a quick tour of the product [here](https://www.youtube.com/watch?v=yUWMwcpkDT0).
+
+### **❌ The Problem**
+
+As a GTM team, you’re probably managing sales, customer success, and more all at once. But between juggling emails, calls, CRM updates, and internal sync-ups, things can easily slip through the cracks, leaving everyone overworked and misaligned.
+
+### **✅ The Solution**
+
+Lysto AI integrates with the tools you already use — email, video calls, CRM, product analytics — and organizes your deal-related data automatically. It then uses this context to streamline your workflow and enhance productivity by automatically managing key aspects of your deals, ensuring nothing falls through the cracks. Here’s how Lysto simplifies your deal management process:
+
+*   **Automatic Deal Tracking:** Lysto captures emails, meetings, and messages and provides a clear, real-time overview of your deals — with summaries so you’re always up to speed.
+*   **Task Inbox & Automated Follow-Ups:** After calls, Lysto generates key takeaways and adds tasks to your inbox, such as CRM updates or personalized meeting recaps that you can review and send with a click.
+*   **Custom Workflows:** Whether it’s sharing call recordings in Slack or logging customer complaints in JIRA, Lysto can also fully automate internal tasks that are less sensitive, making it easy to keep everyone in the loop.
+*   **AI Assistant:** Leo, Lysto’s on-board AI companion, helps you quickly access insights from your pipeline and can even draft emails or reports so you stay productive while focusing on higher-value activities.
+
+### **🧩 Team**
+
+We've been friends since we met in 2017, when we built an ML platform that enriched 500+ images/second for Flickr and other big brands like Verizon. Kyle has a knack for AI interfaces from his time working on early LLMs and wearables at Meta, while Manuel is the go-to guy for ML pipelines, having optimized $100M+ in ad traffic at Rokt. We founded Lysto AI to combine our passion for automation and startups to help founders and GTM teams do more with AI.
+
+![Image 17](https://www.ycombinator.com/media/?type=post&id=83946&key=user_uploads/864720/d46d37f9-d5fc-4b07-863e-ea627ea75ce6)
+
+### **🙋 Our Asks**
+
+*   Try out Lysto! Get your first 3 months free if you [sign up](https://calendar.app.google/Jzs2bPbzsQqtFPe97) before 9/23.
+*   Share this post with founders or sales/CS leads who might benefit from automating their GTM workflows.

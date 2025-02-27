@@ -1,0 +1,79 @@
+Our talent-first data collection platform matches AI companies with expert-vetted data labelers. From same-day experimental data to fully managed teams, fine-tune any dimension of your AI/LLM model with the highest quality data at unbeatable prices.
+
+Work with diverse & vetted professionals
+
+Introducing the top 0.01% of AI data labelers
+
+We are a globally distributed network of master annotators, evaluators, and prompt engineers with proven track record successfully completing 3,000,000+ tasks for the world's largest AI/ML organizations.
+
+Fictitious images and names are used to protect privacy. All degrees, skills, and accreditations are verified.
+
+Harness the potential of world-class AI talent
+
+![Image 39: Harness Pareto AI](https://pareto.ai/misc/potential.webp)Partner with experienced labelers for unique insights to refine your labels, improve guidelines, and track team performance. Ensure smooth setup and cost-effective execution whatever the use case.
+
+[![Image 40: RLHF](https://pareto.ai/misc/rlhf.png) RLHF We provide human feedback on a model's output through demonstrations, evaluations, or ranking of its generated results. Learn more M](https://pareto.ai/rlhf)[![Image 41: Side-by-side model comparison](https://pareto.ai/misc/reinforcement-learning.png) Side-by-side model comparison We evaluate and rank outputs across multiple models based on accuracy, relevance, and quality to determine the best-performing model. Learn more M](https://pareto.ai/reinforcement-learning)[![Image 42: Unique original content](https://pareto.ai/misc/original-content-generation.png) Unique original content We create and collect unique prompts and demonstrations of ideal responses across hundreds of categories to train creativity and originality. Learn more M](https://pareto.ai/original-content-generation)[![Image 43: Creative hallucination inducement](https://pareto.ai/misc/llm-hallucination-testing.png) Creative hallucination inducement We apply creative strategies to induce models to break rules and determine the areas that need improvement. Learn more M](https://pareto.ai/llm-hallucination-testing)[![Image 44: Honesty and factuality training](https://pareto.ai/misc/ai-factuality-training.png) Honesty and factuality training We evaluate a model's outputs, provide feedback, and ensure that the model's responses are both honest and factual. Learn more M](https://pareto.ai/ai-factuality-training)[![Image 45: AI safety, compliance, and ethics training](https://pareto.ai/misc/ai-safety-ethics-training.png) AI safety, compliance, and ethics training We find problematic, adversarial, harmful, and illegal behavior by models and provide feedback as needed. Learn more M](https://pareto.ai/ai-safety-ethics-training)[![Image 46: In-depth engine annotation](https://pareto.ai/misc/engine-annotation.png) In-depth engine annotation We annotate every step of the LLM process, from data labeling, training & fine-tuning, quality control, human-in-the-loop feedback, and evaluation. Learn more M](https://pareto.ai/engine-annotation)[![Image 47: Classification](https://pareto.ai/misc/classification.png) Classification We classify and compare LLM data, including text, images, audio questions, and prompts. Learn more M](https://pareto.ai/data-classification-and-indexing)[![Image 48: Prompt creation](https://pareto.ai/misc/prompt-creation.png) Prompt creation We craft highly effective prompts that stimulate creative responses from LLMs, generating original and engaging content for various applications. Learn more M](https://pareto.ai/llm-prompting)[![Image 49: Term relevancy and item fluency grading](https://pareto.ai/misc/term-relevancy.png) Term relevancy and item fluency grading We ensure that the LLM's outputs are both contextually relevant and fluently constructed. Learn more M](https://pareto.ai/llm-fluency-relevancy-grading)
+
+Transparent & unbeatable rates
+
+On demand and cost-effective pricing
+
+Start with no minimums & pay as you go for quality-assured results. Fair hourly rates are set based on the expertise and skills of the workforce you need.
+
+How it works
+
+1
+
+Describe your project
+
+We help you develop clear project guidelines, determine the ideal labeling team, and set a cost-effective hourly rate to fit your timeline.
+
+2
+
+Match with top labelers
+
+We assemble your team same-day from our vetted network. If you have unique needs, we can find the right experts in just 3-5 days.
+
+3
+
+Fully managed & quality assured
+
+We support labelers to deliver the highest quality data with paid trials, expert-review & feedback, gold standard items, and more QA techniques.
+
+Redefining ethical crowd work
+
+Built by and for a new generation of labelers
+
+The infrastructure behind human data collection is outdated. We've joined forces with seasoned data labelers and crowd work researchers to redefine the relationship between workers and requesters.
+
+Pareto operates on the principles of equitable compensation, collaborative management, and expert evaluation & feedback. Our mission is to empower talented & diverse professionals worldwide to contribute to AI training.
+
+Impressions from our community
+
+Fine-tune your AI model with the highest quality human data
+
+Refine every facet of your AI with elite teams of expert-vetted data labelers at unbeatable prices.
+
+Get ready to join forces!
+
+What are your goals this quarter? (Select all that apply)
+
+Reinforcement Learning
+
+Safety, Ethics, & Compliance Training
+
+Data Labelling
+
+Engine Annotation
+
+Model Evaluation
+
+Domain Specific Training
+
+Other
+
+When do you want to get started?
+
+Join leading AI companies in harnessing world-class AI talent.
+
+Harness world-class AI talent.

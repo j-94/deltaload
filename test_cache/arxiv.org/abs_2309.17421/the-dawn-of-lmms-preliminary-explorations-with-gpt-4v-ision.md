@@ -1,0 +1,123 @@
+---
+title: The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)
+description: Abstract page for arXiv paper 2309.17421: The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)
+url: https://arxiv.org/abs/2309.17421
+timestamp: 2025-01-20T15:45:25.077Z
+domain: arxiv.org
+path: abs_2309.17421
+---
+
+# The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)
+
+
+Abstract page for arXiv paper 2309.17421: The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)
+
+
+## Content
+
+Skip to main content
+
+In just 3 minutes help us improve arXiv:
+
+Annual Global Survey
+We gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors.
+Donate
+>
+cs
+>
+arXiv:2309.17421
+
+Help | Advanced Search
+
+All fields
+Title
+Author
+Abstract
+Comments
+Journal reference
+ACM classification
+MSC classification
+Report number
+arXiv identifier
+DOI
+ORCID
+arXiv author ID
+Help pages
+Full text
+Search
+Computer Science > Computer Vision and Pattern Recognition
+[Submitted on 29 Sep 2023 (v1), last revised 11 Oct 2023 (this version, v2)]
+The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)
+Zhengyuan Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Chung-Ching Lin, Zicheng Liu, Lijuan Wang
+Large multimodal models (LMMs) extend large language models (LLMs) with multi-sensory skills, such as visual understanding, to achieve stronger generic intelligence. In this paper, we analyze the latest model, GPT-4V(ision), to deepen the understanding of LMMs. The analysis focuses on the intriguing tasks that GPT-4V can perform, containing test samples to probe the quality and genericity of GPT-4V's capabilities, its supported inputs and working modes, and the effective ways to prompt the model. In our approach to exploring GPT-4V, we curate and organize a collection of carefully designed qualitative samples spanning a variety of domains and tasks. Observations from these samples demonstrate that GPT-4V's unprecedented ability in processing arbitrarily interleaved multimodal inputs and the genericity of its capabilities together make GPT-4V a powerful multimodal generalist system. Furthermore, GPT-4V's unique capability of understanding visual markers drawn on input images can give rise to new human-computer interaction methods such as visual referring prompting. We conclude the report with in-depth discussions on the emerging application scenarios and the future research directions for GPT-4V-based systems. We hope that this preliminary exploration will inspire future research on the next-generation multimodal task formulation, new ways to exploit and enhance LMMs to solve real-world problems, and gaining better understanding of multimodal foundation models. Finally, we acknowledge that the model under our study is solely the product of OpenAI's innovative work, and they should be fully credited for its development. Please see the GPT-4V contributions paper for the authorship and credit attribution: this https URL
+Subjects:	Computer Vision and Pattern Recognition (cs.CV); Computation and Language (cs.CL)
+Cite as:	arXiv:2309.17421 [cs.CV]
+ 	(or arXiv:2309.17421v2 [cs.CV] for this version)
+ 	
+https://doi.org/10.48550/arXiv.2309.17421
+Focus to learn more
+Submission history
+From: Zhengyuan Yang [view email]
+[v1] Fri, 29 Sep 2023 17:34:51 UTC (41,898 KB)
+[v2] Wed, 11 Oct 2023 05:07:37 UTC (41,899 KB)
+
+Access Paper:
+View PDF
+TeX Source
+Other Formats
+view license
+Current browse context:
+cs.CV
+< prev   |   next >
+
+new | recent | 2023-09
+Change to browse by:
+cs
+cs.CL
+
+References & Citations
+NASA ADS
+Google Scholar
+Semantic Scholar
+Export BibTeX Citation
+Bookmark
+ 
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer (What is the Explorer?)
+Connected Papers Toggle
+Connected Papers (What is Connected Papers?)
+Litmaps Toggle
+Litmaps (What is Litmaps?)
+scite.ai Toggle
+scite Smart Citations (What are Smart Citations?)
+Code, Data, Media
+Demos
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?)
+About
+Help
+Contact
+Subscribe
+Copyright
+Privacy Policy
+Web Accessibility Assistance
+
+arXiv Operational Status 
+Get status notifications via email or slack
+
+## Metadata
+
+```json
+{
+  "title": "The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)",
+  "description": "Abstract page for arXiv paper 2309.17421: The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)",
+  "url": "https://arxiv.org/abs/2309.17421",
+  "content": "Skip to main content\n\nIn just 3 minutes help us improve arXiv:\n\nAnnual Global Survey\nWe gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors.\nDonate\n>\ncs\n>\narXiv:2309.17421\n\nHelp | Advanced Search\n\nAll fields\nTitle\nAuthor\nAbstract\nComments\nJournal reference\nACM classification\nMSC classification\nReport number\narXiv identifier\nDOI\nORCID\narXiv author ID\nHelp pages\nFull text\nSearch\nComputer Science > Computer Vision and Pattern Recognition\n[Submitted on 29 Sep 2023 (v1), last revised 11 Oct 2023 (this version, v2)]\nThe Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)\nZhengyuan Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Chung-Ching Lin, Zicheng Liu, Lijuan Wang\nLarge multimodal models (LMMs) extend large language models (LLMs) with multi-sensory skills, such as visual understanding, to achieve stronger generic intelligence. In this paper, we analyze the latest model, GPT-4V(ision), to deepen the understanding of LMMs. The analysis focuses on the intriguing tasks that GPT-4V can perform, containing test samples to probe the quality and genericity of GPT-4V's capabilities, its supported inputs and working modes, and the effective ways to prompt the model. In our approach to exploring GPT-4V, we curate and organize a collection of carefully designed qualitative samples spanning a variety of domains and tasks. Observations from these samples demonstrate that GPT-4V's unprecedented ability in processing arbitrarily interleaved multimodal inputs and the genericity of its capabilities together make GPT-4V a powerful multimodal generalist system. Furthermore, GPT-4V's unique capability of understanding visual markers drawn on input images can give rise to new human-computer interaction methods such as visual referring prompting. We conclude the report with in-depth discussions on the emerging application scenarios and the future research directions for GPT-4V-based systems. We hope that this preliminary exploration will inspire future research on the next-generation multimodal task formulation, new ways to exploit and enhance LMMs to solve real-world problems, and gaining better understanding of multimodal foundation models. Finally, we acknowledge that the model under our study is solely the product of OpenAI's innovative work, and they should be fully credited for its development. Please see the GPT-4V contributions paper for the authorship and credit attribution: this https URL\nSubjects:\tComputer Vision and Pattern Recognition (cs.CV); Computation and Language (cs.CL)\nCite as:\tarXiv:2309.17421 [cs.CV]\n \t(or arXiv:2309.17421v2 [cs.CV] for this version)\n \t\nhttps://doi.org/10.48550/arXiv.2309.17421\nFocus to learn more\nSubmission history\nFrom: Zhengyuan Yang [view email]\n[v1] Fri, 29 Sep 2023 17:34:51 UTC (41,898 KB)\n[v2] Wed, 11 Oct 2023 05:07:37 UTC (41,899 KB)\n\nAccess Paper:\nView PDF\nTeX Source\nOther Formats\nview license\nCurrent browse context:\ncs.CV\n< prev   |   next >\n\nnew | recent | 2023-09\nChange to browse by:\ncs\ncs.CL\n\nReferences & Citations\nNASA ADS\nGoogle Scholar\nSemantic Scholar\nExport BibTeX Citation\nBookmark\n \nBibliographic Tools\nBibliographic and Citation Tools\nBibliographic Explorer Toggle\nBibliographic Explorer (What is the Explorer?)\nConnected Papers Toggle\nConnected Papers (What is Connected Papers?)\nLitmaps Toggle\nLitmaps (What is Litmaps?)\nscite.ai Toggle\nscite Smart Citations (What are Smart Citations?)\nCode, Data, Media\nDemos\nRelated Papers\nAbout arXivLabs\nWhich authors of this paper are endorsers? | Disable MathJax (What is MathJax?)\nAbout\nHelp\nContact\nSubscribe\nCopyright\nPrivacy Policy\nWeb Accessibility Assistance\n\narXiv Operational Status \nGet status notifications via email or slack",
+  "usage": {
+    "tokens": 903
+  }
+}
+```

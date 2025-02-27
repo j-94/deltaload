@@ -1,0 +1,40 @@
+[Skip to content](https://vercel.com/jasedgws-projects/getplanscouk/8DrC1T9enT1HR9972fjmTnjEf6LN#geist-skip-nav)
+
+[](https://vercel.com/home)
+
+*   [![Image 2](https://vercel.com/api/www/avatar?&s=44)](https://vercel.com/dashboard)
+    
+
+[Deployment](https://vercel.com/jasedgws-projects/getplanscouk/8DrC1T9enT1HR9972fjmTnjEf6LN)[Logs](https://vercel.com/jasedgws-projects/getplanscouk/8DrC1T9enT1HR9972fjmTnjEf6LN/logs)[Functions](https://vercel.com/jasedgws-projects/getplanscouk/8DrC1T9enT1HR9972fjmTnjEf6LN/functions)[Source](https://vercel.com/jasedgws-projects/getplanscouk/8DrC1T9enT1HR9972fjmTnjEf6LN/source)[Open Graph](https://vercel.com/jasedgws-projects/getplanscouk/8DrC1T9enT1HR9972fjmTnjEf6LN/og)
+
+Status
+
+Environment
+
+Duration
+
+Domains
+
+Source
+
+Deployment Details
+==================
+
+Expand All
+
+Build Logs
+
+
+--------------
+
+Deployment Summary
+
+
+----------------------
+
+[Runtime Logs View and debug runtime logs & errors](https://vercel.com/jasedgws-projects/getplanscouk/logs)[Web Analytics Analyze visitors & traffic in real-time](https://vercel.com/jasedgws-projects/getplanscouk/analytics)[Speed Insights Optimize performance with real user metrics](https://vercel.com/jasedgws-projects/getplanscouk/speed-insights)
+
+getplanscouk – Deployment Overview – Vercel
+===============
+getplanscouk – Deployment Overview – Vercel
+===============

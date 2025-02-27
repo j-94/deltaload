@@ -1,0 +1,259 @@
+Skip to content
+Navigation Menu
+Product
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+cometkim
+/
+gatsby-plugin-typegen
+Public
+Notifications
+Fork 23
+ Star 204
+Code
+Issues
+11
+Pull requests
+Actions
+Projects
+Security
+Insights
+cometkim/gatsby-plugin-typegen
+ main
+Code
+Folders and files
+Name	Last commit message	Last commit date
+
+Latest commit
+cometkim
+Fix doc
+b452c42
+ · 
+History
+116 Commits
+
+
+.github
+	
+fix CI
+	
+
+
+.vim
+	
+prepare v3 release
+	
+
+
+.vscode
+	
+prepare v3 release
+	
+
+
+.yarn
+	
+prepare v3 release
+	
+
+
+examples
+	
+fix CI
+	
+
+
+plugin
+	
+Fix doc
+	
+
+
+.all-contributorsrc
+	
+docs: add ofqwx as a contributor (#158)
+	
+
+
+.editorconfig
+	
+Setup project
+	
+
+
+.eslintignore
+	
+prepare v3 release
+	
+
+
+.eslintrc.js
+	
+fix CI
+	
+
+
+.gitattributes
+	
+prepare v3 release
+	
+
+
+.gitignore
+	
+prepare v3 release
+	
+
+
+.yarnrc.yml
+	
+prepare v3 release
+	
+
+
+LICENSE
+	
+Initial commit
+	
+
+
+README.md
+	
+prepare v3 release
+	
+
+
+package.json
+	
+prepare v3 release
+	
+
+
+tsconfig.json
+	
+prepare v3 release
+	
+
+
+yarn.lock
+	
+Support Gatsby v5 (#177)
+	
+Repository files navigation
+README
+MIT license
+gatsby-plugin-typegen
+
+Let's give developers using GatsbyJS better DX with extreme type-safety.
+
+Plugin: Source code of the plugin.
+
+TypeScript example
+
+Flow example
+
+Contributors ✨
+
+Thanks goes to these wonderful people (emoji key):
+
+
+Hyeseong Kim
+🚧 💻 📖 🐛 🤔 👀	
+Richard Sewell
+💻 🚧	
+Derek Nguyen
+💻 🚧	
+Vincent Khougaz
+💻	
+JongChan Choi
+💻 📖	
+John Rom
+💻	
+Jeremy Albright
+💻 🐛 🤔 👀
+
+Lars Francke
+📖	
+Piotr Monwid-Olechnowicz
+📖	
+Edward Kim
+🐛 💻	
+Emily Marigold Klassen
+📖	
+Thijmen
+🚧	
+Ricardo Gallardo
+📖	
+Antonio Aznarez
+💻
+
+This project follows the all-contributors specification. Contributions of any kind welcome!
+
+Backers
+
+Thank you to all our backers! 🙏 [Become a backers]
+
+Sponsors
+
+Does your company has large GatsbyJS codebase? Consider supporting this project! It can help contributors to develop tools and discover patterns so that we can use GatsbyJS more soundly. [Become a sponsor]
+
+ 
+
+LICENSE
+
+MIT
+
+About
+
+Let's give developers using GatsbyJS better DX with extreme type-safety
+
+www.gatsbyjs.org/packages/gatsby-plugin-typegen/
+Topics
+graphql flow typescript gatsby flowtype codegen hacktoberfest gatsby-plugin
+Resources
+ Readme
+License
+ MIT license
+ Activity
+Stars
+ 204 stars
+Watchers
+ 6 watching
+Forks
+ 23 forks
+Report repository
+
+
+Releases 2
+v3.1.0
+Latest
++ 1 release
+
+
+Contributors
+17
++ 3 contributors
+
+
+Languages
+TypeScript
+93.6%
+ 
+JavaScript
+6.4%
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information

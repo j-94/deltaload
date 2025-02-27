@@ -1,0 +1,16 @@
+OpenAI Platform
+===============
+
+[](https://platform.openai.com/docs/overview)
+
+[DocsDocs](https://platform.openai.com/docs)[API referenceAPI](https://platform.openai.com/docs/api-reference/introduction)
+
+Log in[Sign up](https://platform.openai.com/signup)
+
+[Cookbook](https://cookbook.openai.com/)[Forum](https://community.openai.com/categories)Help
+
+Authentication required
+
+Please log in to access this page
+
+Log inSign up

@@ -1,0 +1,27 @@
+Jupyter Agent - a Hugging Face Space by data-agents
+===============
+
+[Spaces](https://huggingface.co/spaces) [![Image 3: Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/) 
+
+* * *
+
+[![Image 4](https://www.gravatar.com/avatar/b8e6a19d52546ec99766d15d3402212c?d=retro&size=100)](https://huggingface.co/data-agents)
+
+[data-agents](https://huggingface.co/data-agents)
+
+/
+
+[jupyter-agent](https://huggingface.co/spaces/data-agents/jupyter-agent)
+
+like 231
+
+Running
+
+
+=======================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+[App](https://huggingface.co/spaces/data-agents/jupyter-agent) [Files Files](https://huggingface.co/spaces/data-agents/jupyter-agent/tree/main) [Community 2](https://huggingface.co/spaces/data-agents/jupyter-agent/discussions)
+
+Fetching metadata from the HF Docker repository...
+
+Refreshing

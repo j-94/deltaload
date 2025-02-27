@@ -1,0 +1,406 @@
+Embedded iPaaS | Embedded Integration Platform for SaaS | Workato
+===============
+
+[](https://www.workato.com/)
+
+*   Platform
+    
+    Platform
+    
+    *   [How it works](https://www.workato.com/how_it_works)
+    *   [Why Workato](https://www.workato.com/platform)
+    *   [Pricing](https://www.workato.com/pricing)
+    
+    Orchestration
+    
+    *   [Enterprise iPaaS](https://www.workato.com/products/ipaas)
+    *   [Workflow Bots](https://www.workato.com/platform/workbot)
+    *   [App Connectors](https://www.workato.com/integrations)
+    *   [Low Code Apps](https://www.workato.com/platform/workflow-apps)
+    *   [Data Orchestration](https://www.workato.com/platform/data-orchestration)
+    *   [B2B/EDI](https://www.workato.com/platform/b2b-edi)
+    *   [API Management](https://www.workato.com/platform/api-management)
+    *   [Process Insights](https://www.workato.com/platform/insights)
+    *   [Data Hub / MDM](https://www.workato.com/platform/mdm)
+    
+    Generative AI
+    
+    *   [Copilots](https://www.workato.com/platform/copilots)
+    *   [Workato Agentic](https://www.workato.com/genie)
+    *   [IT Genie](https://www.workato.com/genie/it-helpdesk)
+    *   [AI workflows](https://www.workato.com/platform/ai-by-workato)
+    
+    Embedded iPaaS
+    
+    *   [Embedded integrations](https://www.workato.com/embed-saas-integrations)
+    *   [Embedded Case Study](https://www.workato.com/customers/guidecx)
+    
+    Featured Content
+    
+    *   [![Image 62: Enterprise Automation Impact Hub](https://images.ctfassets.net/khy5qy7zbpmq/5vRSM6GMaREpON89YvRLSq/b9850f6ece4d75d25347a53c479f47f2/value-calculator.png) Enterprise Automation Impact Hub ![Image 63: cta](blob:https://www.workato.com/d23b99db5e3075dbe6dca53b53a6b8fa)](https://discover.workato.com/impacthub/p/1?ref=website_nav) 
+    *   [![Image 64: AI-powered automations to drive business efficiency at scale.](https://images.ctfassets.net/khy5qy7zbpmq/6bAahHbmo0eDBrK78LMnOk/de258c20d28a6a12e9652f46418454e5/ai_work.svg) AI-powered automations to drive business efficiency at scale. ![Image 65: cta](blob:https://www.workato.com/d23b99db5e3075dbe6dca53b53a6b8fa)](https://www.workato.com/ai) 
+    
+*   Solutions
+    
+    App Integrations
+    
+    *    [![Image 66](https://images.ctfassets.net/khy5qy7zbpmq/2205858149/d9741424675056c5570a604d9f171dcb/salesforce-color.svg) Salesforce](https://www.workato.com/integrations/salesforce)
+    *    [![Image 67](https://images.ctfassets.net/khy5qy7zbpmq/3226198782/d1e7e54f5d5ffd99bc370c1226e61e17/slack-color.svg) Slack](https://www.workato.com/integrations/slack)
+    *    [![Image 68](https://images.ctfassets.net/khy5qy7zbpmq/2098866315/db6dd2a58e0dcaabafbcdecc8b0b8f6f/marketo-color.svg) Marketo](https://www.workato.com/integrations/marketo)
+    *    [![Image 69](https://images.ctfassets.net/khy5qy7zbpmq/3092879114/3281fcd53bfbb395750ebf88c2912de6/netsuite-color.svg) NetSuite](https://www.workato.com/integrations/netsuite)
+    *    [![Image 70](https://images.ctfassets.net/khy5qy7zbpmq/1663724616/cc9bb9f75b12d1c98c7da4fbb83697bf/servicenow-color.svg) ServiceNow](https://www.workato.com/integrations/service_now)
+    *    [![Image 71](https://images.ctfassets.net/khy5qy7zbpmq/1795845599/79459e78a7f9de4db2c7612c6491b765/workday-color.svg) Workday](https://www.workato.com/integrations/workday)
+    
+    [View all](https://www.workato.com/integrations)
+    
+    By Function
+    
+    *   [IT](https://www.workato.com/editions/it)
+    *   [Finance](https://www.workato.com/editions/finance)
+    *   [Support](https://www.workato.com/editions/support)
+    *   [HR](https://www.workato.com/editions/hr)
+    *   [Marketing](https://www.workato.com/editions/marketing)
+    *   [Sales](https://www.workato.com/editions/sales)
+    *   [Revenue Operations](https://www.workato.com/revops)
+    *   [Product (Embed)](https://www.workato.com/embed-saas-integrations)
+    
+    by use case
+    
+    *   [Order-to-cash](https://www.workato.com/use_cases/order_to_cash)
+    *   [Employee onboarding](https://www.workato.com/use_cases/employee_onboarding)
+    *   [Enterprise iPaaS](https://www.workato.com/products/ipaas)
+    *   [Product-led sales](https://www.workato.com/use_cases/product_led_sales)
+    *   [Embedded Integrations](https://www.workato.com/embed-saas-integrations)
+    
+    [View all](https://www.workato.com/use_cases)
+    
+    by industry
+    
+    *   [Manufacturing](https://www.workato.com/industry/manufacturing)
+    *   [Retail](https://www.workato.com/industry/retail)
+    *   [Logistics](https://www.workato.com/industry/logistics)
+    *   [Healthcare](https://www.workato.com/industry/healthcare)
+    *   [Media](https://www.workato.com/industry/media)
+    *   [BPO](https://www.workato.com/impact/bpm-services)
+    *   [Non-profit](https://www.workato.com/industry/non-profit)
+    
+*   Resources
+    
+    Resources
+    
+    *    [![Image 72](https://images.ctfassets.net/khy5qy7zbpmq/3686578114/7628698109b2247c173f6d05058b2cb7/header-navigation_dropdown-icons_resources_ebooks.svg) Ebooks](https://www.workato.com/resources)
+    *    [![Image 73](https://images.ctfassets.net/khy5qy7zbpmq/1601573873/8e28602b0cfcdff6241dfaaed2a187b1/header-navigation_dropdown-icons_resources_whitepapers.svg) Whitepapers](https://www.workato.com/resources)
+    *    [![Image 74](https://images.ctfassets.net/khy5qy7zbpmq/4y8vcyCMnSg4Ts7C9lHGoE/fea876e0fe206e3c601965575ba19321/Live_demos.svg) Podcast](https://www.workato.com/podcast)
+    
+    [View all](https://www.workato.com/resources)
+    
+    Events
+    
+    *    [![Image 75](https://images.ctfassets.net/khy5qy7zbpmq/20dJsZJAFN5qD3pDdKwUB9/b71044f5c4cab99fce23bcf0c7704f76/Automate.svg) Automate](https://www.workato.com/events/automate)
+    
+    [View all](https://www.workato.com/events)
+    
+    blog
+    
+    *    [![Image 76](https://images.ctfassets.net/khy5qy7zbpmq/3071380772/f8216c3be810be1e727a879f6e1c90e7/header-navigation_dropdown-icons_resources_blog.svg) The Connector](https://www.workato.com/the-connector/)
+    *    [![Image 77](https://images.ctfassets.net/khy5qy7zbpmq/4214776421/483cd349987c996f5a7ff1d7b5d745ca/product-updates-transparent-bg.svg) Product updates](https://www.workato.com/product-hub/whats-new/)
+    
+    User Success
+    
+    *    [![Image 78](https://images.ctfassets.net/khy5qy7zbpmq/39633771/3364109bcceff3f5b47fe9cdade4344e/header-navigation_dropdown-icons_user-success_self-certification.svg) Workato Academy](https://academy.workato.com/)
+    *    [![Image 79](https://images.ctfassets.net/khy5qy7zbpmq/753005788/c456ea024b98640d78a39006295f85fd/header-navigation_dropdown-icons_user-success_documentation.svg) Documentation](https://docs.workato.com/)
+    *    [![Image 80](https://images.ctfassets.net/khy5qy7zbpmq/3002840969/5b8fa5d205c180b76981a798d1c6583f/header-navigation_dropdown-icons_user-success_support.svg) Support](https://support.workato.com/support/home)
+    *    [![Image 81](https://images.ctfassets.net/khy5qy7zbpmq/1215024689/a2eafa5521a2bcfca0b711db3d440c82/header-navigation_dropdown-icons_community_it-community.svg) Ask Workato Pros](https://systematic.workato.com/t5/workato-pros/ct-p/workato-pros)
+    
+    Featured Content
+    
+    *   [![Image 82: Start learning Workato at your own pace!](https://images.ctfassets.net/khy5qy7zbpmq/5YKMPxqfiogtA0Sj8eGeT8/6cdc2c2c885beb4bb496a0eb60497fb2/automation-institute.png) Start learning Workato at your own pace! ![Image 83: cta](blob:https://www.workato.com/d23b99db5e3075dbe6dca53b53a6b8fa)](https://www.workato.com/certification) 
+    *   [![Image 84: Learn with a live instructor, available virtually or on-site](https://images.ctfassets.net/khy5qy7zbpmq/1LsLwX84ewB4AdISYY1Q6r/65eabf08c7283585bbf98da6c59135e4/ea-certification.png) Learn with a live instructor, available virtually or on-site ![Image 85: cta](blob:https://www.workato.com/d23b99db5e3075dbe6dca53b53a6b8fa)](https://www.workato.com/instructor-led-training) 
+    
+*   Case Studies
+    
+    case studies
+    
+    *   [![Image 86: Nutanix](https://images.ctfassets.net/khy5qy7zbpmq/434441036/232c60aba8ccad9c95c2500d07deb9da/nutanix.svg)](https://www.workato.com/customers/nutanix)
+    *   [![Image 87: Nextdoor](https://images.ctfassets.net/khy5qy7zbpmq/4015020229/9c0dda0cd09dcb0a930a2487194e0c14/nextdoor.svg)](https://www.workato.com/customers/nextdoor)
+    *   [![Image 88: Broadcom](https://images.ctfassets.net/khy5qy7zbpmq/2138194476/eb8b3723923ca81727d68fce6a874567/broadcom.svg)](https://www.workato.com/customers/broadcom)
+    *   [![Image 89: Box](https://images.ctfassets.net/khy5qy7zbpmq/126745244/54e83e251a568bab01783ce6ee80883d/box.svg)](https://www.workato.com/customers/box)
+    *   [![Image 90: Grab](https://images.ctfassets.net/khy5qy7zbpmq/4174967991/8d8686f33da1220296bc151e798022c7/grab.svg)](https://www.workato.com/customers/grab)
+    *   [![Image 91: Scoot](https://images.ctfassets.net/khy5qy7zbpmq/jPHNUbEAwXNlzNuL53Wsb/a9be9bcdc42a492965503f3f4972b2b5/Scoot.svg)](https://www.workato.com/customers/scoot)
+    *   [![Image 92: Monday](https://images.ctfassets.net/khy5qy7zbpmq/1602552340/1f94594e86629c63067529917f2af28e/header-navigation_customers_logos_monday.svg)](https://www.workato.com/customers/monday)
+    
+    [View all](https://www.workato.com/customers)
+    
+    Featured Content
+    
+    *   [![Image 93: See how HubSpot saved 100+ hours of work.](https://images.ctfassets.net/khy5qy7zbpmq/3369512081/381b04d4ed42973b60c29125d039da6d/hubspot.png) See how HubSpot saved 100+ hours of work. ![Image 94: cta](blob:https://www.workato.com/d23b99db5e3075dbe6dca53b53a6b8fa)](https://www.workato.com/customers/hubspot) 
+    
+*   Partners
+    
+    Our Network
+    
+    *    [![Image 95](https://images.ctfassets.net/khy5qy7zbpmq/2297091198/abe66805ec5db9c66dd219189922b4dd/find-partner.svg) Find a Partner](https://partners.workato.com/)
+    *    [![Image 96](https://images.ctfassets.net/khy5qy7zbpmq/376552817/7f779531cc08241ceb881fa7d2faabee/header-navigation_dropdown-icons_partners_become.svg) Become a Partner](https://www.workato.com/partners)
+    *    [![Image 97](https://images.ctfassets.net/khy5qy7zbpmq/2973797713/ae5a9ef70622ae0d5ccda09e04be90b0/tech-partnership.svg) Technology Partners](https://www.workato.com/partners/technology_partners)
+    *    [![Image 98](https://images.ctfassets.net/khy5qy7zbpmq/2065717023/0a30974cb846088f0cc6cbd8602bb932/si-partnership.svg) System Integrators](https://www.workato.com/partners/system_integrators)
+    
+    Featured Content
+    
+    *   [![Image 99: Workato available in AWS marketplace](https://images.ctfassets.net/khy5qy7zbpmq/21053983/014f507afb5f8bb587cf09b72ade038e/aws.png) Workato available in AWS marketplace ![Image 100: cta](blob:https://www.workato.com/d23b99db5e3075dbe6dca53b53a6b8fa)](https://www.workato.com/partners/key/aws) 
+    
+
+*   [US (English)](https://www.workato.com/embed-saas-integrations)[France (français)](https://www.workato.com/fr-FR/embed-saas-integrations)[대한민국 (한국어)](https://www.workato.com/ko-KR/embed-saas-integrations)[日本 (日本語)](https://www.workato.com/ja-JP/embed-saas-integrations)
+    
+*   [Login](https://app.workato.com/users/sign_in) [Europe](https://app.eu.workato.com/users/sign_in) [Singapore](https://app.sg.workato.com/users/sign_in) [Japan](https://app.jp.workato.com/users/sign_in) [Australia](https://app.au.workato.com/users/sign_in)
+    
+
+*   [Get a trial](https://www.workato.com/request_demo?utm_content=dual_cta_nav) Talk to sales
+    
+    *   
+    
+                 Talk to sales
+    
+    [Let's chat](https://www.workato.com/request_demo?navigation=true)
+    
+
+Embedded Integrations at Scale
+==============================
+
+Transform your platform’s value and empower your customers with flexible pre-built integrations and automations
+
+*   
+
+             Schedule a Demo
+
+![Image 101: Expand your product with integrations](https://images.ctfassets.net/khy5qy7zbpmq/256919720/a86f85c9742141c24a8cdb11516d544b/hero_image_2x.png?w=1222&h=815&fm=webp&q=100) 
+
+*   ![Image 102: Zendesk](https://images.ctfassets.net/khy5qy7zbpmq/DaNOxjvrdSqNP0wJK4hP7/afd0c7b6fedb79b8ae82f0f82884076f/Zendesk.svg)
+*   ![Image 103: Epicor](https://images.ctfassets.net/khy5qy7zbpmq/1733438468/23bedab10d15ca04aa706ecc66a6514d/Epicor.svg)
+*   ![Image 104: Shutterstock](https://images.ctfassets.net/khy5qy7zbpmq/xjOqG6MnJgE8kBoe2m9aE/c11371dcf4ee64228ebeea7f38e42593/Shutterstock.svg)
+*   ![Image 105: Autodesk](https://images.ctfassets.net/khy5qy7zbpmq/6VFZwktz66B1MERcjXCrd2/1854463bd3734d4be74c53d25c4df84c/Autodesk.svg)
+*   ![Image 106: Cycognito](https://images.ctfassets.net/khy5qy7zbpmq/1mHYh8aksxM2lNYnMnBRKN/dd960e72bbe004cb2b586aec6848c522/Cycognito_2x.png?w=1536&fm=webp&q=100)
+*   ![Image 107: Smartrecruiters](https://images.ctfassets.net/khy5qy7zbpmq/4nSIaWxYMkn3nSXg1JNuEo/eecf91f2cfd88e7b3772f676308bb180/smart-recruiter.svg)
+
+Customize your integration experience 
+--------------------------------------
+
+Workato offers flexible deployment models and branding to ensure a seamless fit into your product.
+
+### Branded Access
+
+Standalone integration service for internal and/or external teams
+
+![Image 108: White Label](https://images.ctfassets.net/khy5qy7zbpmq/5a2g4q0CYvdT8dINIHm6W5/fedc81944c3ae6fcca329a3c09a4479f/white_label_2x.png?w=1536&h=1095&fm=webp&q=100)
+
+*   Quickly deploy an integration marketplace that showcases the breadth of your product’s connectivity ecosystem.
+*   Grant granular access permissions with 3rd party SSO support
+
+### Embedded
+
+In-product integration offering for a seamless end-user experience
+
+![Image 109: Embedded](https://images.ctfassets.net/khy5qy7zbpmq/5cYAiPXtyMB5X4JlppDTFx/531b72afdafb2c111f6c4c485e1226fd/fully_embedded_2x.png?w=1536&h=1093&fm=webp&q=100)
+
+*   Bring an enterprise-ready automation experience directly into your product to empower your customers to deepen your product’s value.
+*   Embed secure iframes. Create different customer journeys through Workato’s multi-tenancy architecture.
+
+The embedded integrations platform built for scale
+--------------------------------------------------
+
+*   ![Image 110: Always say “yes” to integration requests](https://images.ctfassets.net/khy5qy7zbpmq/3178420005/b6a0a247b2ce6944812445314fe24ada/Say_yes_2x.png?w=1200&h=629&fm=webp&q=100)
+    
+    ### Always say “yes” to integration requests
+    
+    *   Launch integrations 3x faster with pre-built smart connectors to 600+ SaaS apps and databases
+    *   Build additional connections easily with our SDK connector
+    *   Improve customer stickiness and reduce competitive pressures
+    
+*   ![Image 111: Save engineering resources with a centralized, low-code platform](https://images.ctfassets.net/khy5qy7zbpmq/315705516/0a47fbabf1ecc5bb831612429d886aa7/Save_engineering_2x.png?w=1200&h=629&fm=webp&q=100)
+    
+    ### Save engineering resources with a centralized, low-code platform
+    
+    *   Manage, monitor and deploy thousands of customers with a single administrative experience
+    *   Easily enable entire field teams to support users through the entire customer journey
+    *   Get immediate feedback of customer issues and consumption metrics
+    
+*   ![Image 112: Build differentiation through automation and integrations](https://images.ctfassets.net/khy5qy7zbpmq/2424279754/34f68527ff3decdba58fb1985b7e2467/build-product_2x.png?w=1200&h=629&fm=webp&q=100)
+    
+    ### Build differentiation through automation and integrations
+    
+    *   Simply leverage a low-code UX to build integrations and automations
+    *   Add product differentiation and meaningful value for customers with common automation templates
+    *   Build workflows that consolidate customers’ processes in your product
+    
+
+ Fast-track your integration roadmap
+------------------------------------
+
+Teams using the Workato Embedded Platform see rapid results.
+
+*   900%
+    
+    ROI
+    
+*   $4M+
+    
+    in new pipeline
+    
+*   3.5X
+    
+    in ACV
+    
+
+Customer Stories
+
+Leading companies use Workato
+-----------------------------
+
+![Image 113: Autodesk](https://images.ctfassets.net/khy5qy7zbpmq/4hsOIOJOanyGF89L2aUIAD/71d2d9bb213c3db7bb1355331dcefeb2/quote-autodesk-logo.svg)
+
+“The ease of use and what our team can do with Workato surpasses what we could do before… Workato has really gone above and beyond. They’ve made sure that all connections are very robust and bulletproof.”
+
+![Image 114: James Cook](https://images.ctfassets.net/khy5qy7zbpmq/pHYt5pHB0k3x7wPqpJT2t/5f9255a2e68cdd0677a8ef29f8808476/james-cook.png?w=1536&h=1536&fm=webp&q=100)
+
+James Cook
+
+Head of Integrations
+
+### The **best iPaaS** with the **best embedded** capabilities
+
+*   1,000+
+    
+    connectivity options (SaaS apps, databases, APIs and more)
+    
+*   300+
+    
+    industry leading customers
+    
+*   #1
+    
+    rated integration platform by Product Managers
+    
+
+Frequently Asked Questions
+--------------------------
+
+*   #### How quickly can you build integrations with Workato?
+    
+    Workato’s low-code/no-code platform enables both business and IT teams to build integrations at five times the speed of typical integration platforms. This is achieved through accelerators like pre-built connectors for 1000+ SaaS, on-prem databases, ERP and more; 400,000+ ready-to-use recipes for common business processes shared by 70,000+ community members. A fully cloud-native architecture that is built for scale and speed significantly reduces operational footprint and overall costs.
+    
+*   #### What is a recipe?
+    
+    In Workato, recipes are automations for business processes. They are a set of workflows that help connect your business applications. Coupled with many other advanced features, Workato recipes are able to handle all app integration and workflow automation scenarios ranging from simple to complex.
+    
+*   #### What is a connector?
+    
+    Workato connectors secure access to your business applications. Each connector includes authentication methods, triggers, and actions for its specific target app. The Workato platform has over a thousand connectors. To view all supported connectors or search by category, visit [our app integrations](https://www.workato.com/integrations).
+    
+*   #### What is the Workato Embedded Admin experience?
+    
+    The [Admin console](https://docs.workato.com/oem/admin-console.html) is the central hub for Workato Embedded partners to manage, monitor, and provision customer accounts. Partners can access sharing settings, customer information, and usage metrics through the Admin console.
+    
+*   #### What is the difference between Workato & Workato Embedded?
+    
+    Workato’s Embedded Platform includes the same codebase and architecture as the Workato Platform.
+    
+*   #### Which elements of Workato can I embed into my product directly for customer interaction?
+    
+    Any page of your customer's tenant can be dropped into a secure iframe should you want to build a full in-app automation experience. Workato also provides an authentication widget iframe for secure third-party credential collection to any workato connector. In addition, we have a full suite of APIs to build other UX flows to meet your product needs.
+    
+
+More Resources
+--------------
+
+### Guides and how-to’s
+
+*   [Build vs. Buy - Which is Better](https://www.workato.com/the-connector/build-vs-buy/)
+*   [Why an Embedded Integration Platform is Critical](https://www.workato.com/the-connector/embedded-integration/)
+*   [What is an Embedded iPaaS? Pros and Cons](https://www.workato.com/the-connector/embedded-ipaas/)
+
+### Docs and enablement
+
+*   [Workato Full Embedded Overview](https://docs.workato.com/oem/workato-embedded.html)
+*   [Embedded Connection Widget Implementation Guide](https://docs.workato.com/oem/embedded-connections.html)
+*   [](https://events.bizzabo.com/the-new-automation-mindset-podcast-live-event)
+
+### Let’s start automating
+
+[Schedule a demo](https://www.workato.com/request_demo)
+
+Product
+
+*   [How it works](https://www.workato.com/how_it_works)
+*   [Pricing](https://www.workato.com/pricing)
+*   [Live Demo](https://discover.workato.com/workato-kitchen/p/1)
+*   [What's New](https://www.workato.com/product-hub/whats-new/)
+*   [Recipes](https://app.workato.com/browse/recipes)
+*   [Security](https://www.workato.com/legal/security)
+*   [Documentation](https://docs.workato.com/)
+*   [Developer Platform](https://docs.workato.com/)
+*   [Product Blog](https://www.workato.com/product-hub/?utm_source=website&utm_medium=internal&utm_campaign=footer)
+
+Solutions
+
+*   [HR](https://www.workato.com/editions/hr)
+*   [Sales](https://www.workato.com/editions/sales)
+*   [Marketing](https://www.workato.com/editions/marketing)
+*   [Finance](https://www.workato.com/editions/finance)
+*   [Support](https://www.workato.com/editions/support)
+*   [IT](https://www.workato.com/editions/it)
+*   [Product (Embed)](https://www.workato.com/embed-saas-integrations)
+*   [Higher Ed](https://www.workato.com/highered)
+*   [Revenue Operations](https://www.workato.com/revops)
+
+Resources
+
+*   [Docs](https://docs.workato.com/)
+*   [Customer Success](https://support.workato.com/support/home)
+*   [Content Library](https://www.workato.com/resources)
+*   [Systematic Community](https://systematic.workato.com/)
+*   [Workato for Slack](https://www.workato.com/workbot-slack)
+*   [Workato for MS Teams](https://www.workato.com/workbot-teams)
+
+Use Cases
+
+*   [Product Led Sales](https://www.workato.com/use_cases/product_led_sales)
+*   [Order to Cash](https://www.workato.com/use_cases/order_to_cash)
+*   [Employee Onboarding](https://www.workato.com/use_cases/employee_onboarding)
+*   [Embedded Integrations](https://www.workato.com/embed-saas-integrations)
+*   [Enterprise iPaaS](https://www.workato.com/products/ipaas)
+*   [IT Help Desk Bot](https://www.workato.com/accelerators/it_help_desk_bot)
+*   [All Use Cases](https://www.workato.com/use_cases)
+
+Applications
+
+*   [Salesforce](https://www.workato.com/integrations/salesforce)
+*   [Slack](https://www.workato.com/integrations/slack)
+*   [Marketo](https://www.workato.com/integrations/marketo)
+*   [NetSuite](https://www.workato.com/integrations/netsuite)
+*   [ServiceNow](https://www.workato.com/integrations/service_now)
+*   [Workday](https://www.workato.com/integrations/workday)
+*   [All Apps](https://www.workato.com/integrations)
+
+Company
+
+*   [About us](https://www.workato.com/about_us)
+*   [Customers](https://www.workato.com/customers)
+*   [Blog](https://www.workato.com/the-connector/)
+*   [Press](https://www.workato.com/press)
+*   [Careers](https://www.workato.com/careers)
+*   [Partners](https://www.workato.com/partners)
+*   [Events](https://discover.workato.com/events/p/1)
+*   [Workato Cares](https://www.workato.com/social-impact)
+
+US (English)
+
+[US (English)](https://www.workato.com/embed-saas-integrations)[France (français)](https://www.workato.com/fr-FR/embed-saas-integrations)[대한민국 (한국어)](https://www.workato.com/ko-KR/embed-saas-integrations)[日本 (日本語)](https://www.workato.com/ja-JP/embed-saas-integrations)
+
+\*GARTNER is a registered trademarks and service mark, and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved. Gartner, Magic Quadrant for Integration Platform as a Service, Worldwide, January 19 2024 by analysts: Keith Guttridge, Andrew Comes, Shrey Pasricha, Max van der Berk, and Andrew Humphreys. GARTNER is a registered trademarks and service mark, and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved. Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose. This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of the entire document. The Gartner document is available upon request from Workato.
+
+[](https://www.workato.com/)
+
+© Workato 2025 [Privacy](https://www.workato.com/legal/privacy-policy) [Email preferences](https://mktg.workato.com/lp/741-DET-352/Preference-Centre.html?mkt_unsubscribe=1) [Legal](https://www.workato.com/legal) [Sitemap](https://www.workato.com/sitemap) [Contact: (844) 469-6752](tel:+18444696752)
+
+The trademarks WORKATO®, WORKBOT® and WORK JAM® are registered in U.S. Patent & Trademark Office to Workato, Inc.
+
+[](mailto:info@workato.com)[](https://linkedin.com/company/workato)[](https://linkedin.com/newsletters/6956987807621910528/?displayConfirmation=true)[](https://twitter.com/workato)

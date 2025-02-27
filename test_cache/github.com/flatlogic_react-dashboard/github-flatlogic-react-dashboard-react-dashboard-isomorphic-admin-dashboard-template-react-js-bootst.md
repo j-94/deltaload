@@ -1,0 +1,993 @@
+---
+title: GitHub - flatlogic/react-dashboard: 🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥
+description: 🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥 - flatlogic/react-dashboard
+url: https://github.com/flatlogic/react-dashboard
+timestamp: 2025-01-20T15:30:16.706Z
+domain: github.com
+path: flatlogic_react-dashboard
+---
+
+# GitHub - flatlogic/react-dashboard: 🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥
+
+
+🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥 - flatlogic/react-dashboard
+
+
+## Content
+
+GitHub - flatlogic/react-dashboard: 🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥
+===============
+                                           
+
+[Skip to content](https://github.com/flatlogic/react-dashboard?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fflatlogic%2Freact-dashboard%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fflatlogic%2Freact-dashboard%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=flatlogic%2Freact-dashboard) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[flatlogic](https://github.com/flatlogic) / **[react-dashboard](https://github.com/flatlogic/react-dashboard)** Public template
+
+*   [Notifications](https://github.com/login?return_to=%2Fflatlogic%2Freact-dashboard) You must be signed in to change notification settings
+*   [Fork 373](https://github.com/login?return_to=%2Fflatlogic%2Freact-dashboard)
+*   [Star 1.6k](https://github.com/login?return_to=%2Fflatlogic%2Freact-dashboard)
+    
+
+🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥
+
+[flatlogic.com/admin-dashboards/react-dashboard/demo](https://flatlogic.com/admin-dashboards/react-dashboard/demo "https://flatlogic.com/admin-dashboards/react-dashboard/demo")
+
+[1.6k stars](https://github.com/flatlogic/react-dashboard/stargazers) [373 forks](https://github.com/flatlogic/react-dashboard/forks) [Branches](https://github.com/flatlogic/react-dashboard/branches) [Tags](https://github.com/flatlogic/react-dashboard/tags) [Activity](https://github.com/flatlogic/react-dashboard/activity)
+
+[Star](https://github.com/login?return_to=%2Fflatlogic%2Freact-dashboard)
+
+[Notifications](https://github.com/login?return_to=%2Fflatlogic%2Freact-dashboard) You must be signed in to change notification settings
+
+*   [Code](https://github.com/flatlogic/react-dashboard)
+*   [Issues 0](https://github.com/flatlogic/react-dashboard/issues)
+*   [Pull requests 2](https://github.com/flatlogic/react-dashboard/pulls)
+*   [Actions](https://github.com/flatlogic/react-dashboard/actions)
+*   [Projects 0](https://github.com/flatlogic/react-dashboard/projects)
+*   [Security](https://github.com/flatlogic/react-dashboard/security)
+*   [Insights](https://github.com/flatlogic/react-dashboard/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/flatlogic/react-dashboard)
+*   [Issues](https://github.com/flatlogic/react-dashboard/issues)
+*   [Pull requests](https://github.com/flatlogic/react-dashboard/pulls)
+*   [Actions](https://github.com/flatlogic/react-dashboard/actions)
+*   [Projects](https://github.com/flatlogic/react-dashboard/projects)
+*   [Security](https://github.com/flatlogic/react-dashboard/security)
+*   [Insights](https://github.com/flatlogic/react-dashboard/pulse)
+
+flatlogic/react-dashboard
+=========================
+
+  
+
+ master
+
+[**5** Branches](https://github.com/flatlogic/react-dashboard/branches)[**7** Tags](https://github.com/flatlogic/react-dashboard/tags)
+
+[](https://github.com/flatlogic/react-dashboard/branches)[](https://github.com/flatlogic/react-dashboard/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 20: Blari](https://avatars.githubusercontent.com/u/12595579?v=4&size=40)](https://github.com/Blari)[Blari](https://github.com/flatlogic/react-dashboard/commits?author=Blari)
+
+[Merge pull request](https://github.com/flatlogic/react-dashboard/commit/0a45547c50246dc8f3da058196f2d87f10b421c5) [#66](https://github.com/flatlogic/react-dashboard/pull/66) [from flatlogic/updated\_readme](https://github.com/flatlogic/react-dashboard/commit/0a45547c50246dc8f3da058196f2d87f10b421c5)
+
+Nov 29, 2024
+
+[0a45547](https://github.com/flatlogic/react-dashboard/commit/0a45547c50246dc8f3da058196f2d87f10b421c5) · Nov 29, 2024
+
+History
+-------
+
+[1,035 Commits](https://github.com/flatlogic/react-dashboard/commits/master/)
+
+[](https://github.com/flatlogic/react-dashboard/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[public](https://github.com/flatlogic/react-dashboard/tree/master/public "public")
+
+
+
+
+
+
+
+ | 
+
+[public](https://github.com/flatlogic/react-dashboard/tree/master/public "public")
+
+
+
+
+
+
+
+ | 
+
+[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")
+
+
+
+ | 
+
+Nov 15, 2019
+
+ |
+| 
+
+[server](https://github.com/flatlogic/react-dashboard/tree/master/server "server")
+
+
+
+
+
+
+
+ | 
+
+[server](https://github.com/flatlogic/react-dashboard/tree/master/server "server")
+
+
+
+
+
+
+
+ | 
+
+[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")
+
+
+
+ | 
+
+Nov 15, 2019
+
+ |
+| 
+
+[src](https://github.com/flatlogic/react-dashboard/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/flatlogic/react-dashboard/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[Updated react-scripts to version 5 (webpack 5), updated React from 16…](https://github.com/flatlogic/react-dashboard/commit/5de91dd7994a7247ea8322f8ce5d990d5175722e "Updated react-scripts to version 5 (webpack 5), updated React from 16 to 18, added bootstrap icons, updated changelogs, updated yarn.lock")
+
+
+
+ | 
+
+Sep 14, 2024
+
+ |
+| 
+
+[.env](https://github.com/flatlogic/react-dashboard/blob/master/.env ".env")
+
+
+
+
+
+
+
+ | 
+
+[.env](https://github.com/flatlogic/react-dashboard/blob/master/.env ".env")
+
+
+
+
+
+
+
+ | 
+
+[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")
+
+
+
+ | 
+
+Nov 15, 2019
+
+ |
+| 
+
+[.gitignore](https://github.com/flatlogic/react-dashboard/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/flatlogic/react-dashboard/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")
+
+
+
+ | 
+
+Nov 15, 2019
+
+ |
+| 
+
+[README.md](https://github.com/flatlogic/react-dashboard/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/flatlogic/react-dashboard/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Updated readme](https://github.com/flatlogic/react-dashboard/commit/143f76d27c38c7387cbb3ad460d42a1d2275af08 "Updated readme")
+
+
+
+ | 
+
+Sep 15, 2024
+
+ |
+| 
+
+[babel.config.js](https://github.com/flatlogic/react-dashboard/blob/master/babel.config.js "babel.config.js")
+
+
+
+
+
+
+
+ | 
+
+[babel.config.js](https://github.com/flatlogic/react-dashboard/blob/master/babel.config.js "babel.config.js")
+
+
+
+
+
+
+
+ | 
+
+[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")
+
+
+
+ | 
+
+Nov 15, 2019
+
+ |
+| 
+
+[changelog.md](https://github.com/flatlogic/react-dashboard/blob/master/changelog.md "changelog.md")
+
+
+
+
+
+
+
+ | 
+
+[changelog.md](https://github.com/flatlogic/react-dashboard/blob/master/changelog.md "changelog.md")
+
+
+
+
+
+
+
+ | 
+
+[Updated react-scripts to version 5 (webpack 5), updated React from 16…](https://github.com/flatlogic/react-dashboard/commit/5de91dd7994a7247ea8322f8ce5d990d5175722e "Updated react-scripts to version 5 (webpack 5), updated React from 16 to 18, added bootstrap icons, updated changelogs, updated yarn.lock")
+
+
+
+ | 
+
+Sep 14, 2024
+
+ |
+| 
+
+[config-overrides.js](https://github.com/flatlogic/react-dashboard/blob/master/config-overrides.js "config-overrides.js")
+
+
+
+
+
+
+
+ | 
+
+[config-overrides.js](https://github.com/flatlogic/react-dashboard/blob/master/config-overrides.js "config-overrides.js")
+
+
+
+
+
+
+
+ | 
+
+[Updated react-scripts to version 5 (webpack 5), updated React from 16…](https://github.com/flatlogic/react-dashboard/commit/5de91dd7994a7247ea8322f8ce5d990d5175722e "Updated react-scripts to version 5 (webpack 5), updated React from 16 to 18, added bootstrap icons, updated changelogs, updated yarn.lock")
+
+
+
+ | 
+
+Sep 14, 2024
+
+ |
+| 
+
+[database.sqlite](https://github.com/flatlogic/react-dashboard/blob/master/database.sqlite "database.sqlite")
+
+
+
+
+
+
+
+ | 
+
+[database.sqlite](https://github.com/flatlogic/react-dashboard/blob/master/database.sqlite "database.sqlite")
+
+
+
+
+
+
+
+ | 
+
+[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")
+
+
+
+ | 
+
+Nov 15, 2019
+
+ |
+| 
+
+[package.json](https://github.com/flatlogic/react-dashboard/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/flatlogic/react-dashboard/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Updated react-scripts to version 5 (webpack 5), updated React from 16…](https://github.com/flatlogic/react-dashboard/commit/5de91dd7994a7247ea8322f8ce5d990d5175722e "Updated react-scripts to version 5 (webpack 5), updated React from 16 to 18, added bootstrap icons, updated changelogs, updated yarn.lock")
+
+
+
+ | 
+
+Sep 14, 2024
+
+ |
+| 
+
+[screenshot.png](https://github.com/flatlogic/react-dashboard/blob/master/screenshot.png "screenshot.png")
+
+
+
+
+
+
+
+ | 
+
+[screenshot.png](https://github.com/flatlogic/react-dashboard/blob/master/screenshot.png "screenshot.png")
+
+
+
+
+
+
+
+ | 
+
+[feat: shadow added to image](https://github.com/flatlogic/react-dashboard/commit/85731ead47c62dc916c7033d6f1ed554a0ed5e0b "feat: shadow added to image")
+
+
+
+ | 
+
+Jun 25, 2018
+
+ |
+| 
+
+[table.png](https://github.com/flatlogic/react-dashboard/blob/master/table.png "table.png")
+
+
+
+
+
+
+
+ | 
+
+[table.png](https://github.com/flatlogic/react-dashboard/blob/master/table.png "table.png")
+
+
+
+
+
+
+
+ | 
+
+[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 "remade project on create-react-app (#22)
+* initial commit with history
+* update gitignore, readme and user actions, removed useless comments
+* readme markup fixes
+* added section to readme.md, how to configure db
+* fix readme markup")
+
+
+
+ | 
+
+Nov 15, 2019
+
+ |
+| 
+
+[yarn.lock](https://github.com/flatlogic/react-dashboard/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/flatlogic/react-dashboard/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[Updated react-scripts to version 5 (webpack 5), updated React from 16…](https://github.com/flatlogic/react-dashboard/commit/5de91dd7994a7247ea8322f8ce5d990d5175722e "Updated react-scripts to version 5 (webpack 5), updated React from 16 to 18, added bootstrap icons, updated changelogs, updated yarn.lock")
+
+
+
+ | 
+
+Sep 14, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/flatlogic/react-dashboard?screenshot=true#)
+
+React Dashboard — "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" admin dashboard template
+-------------------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#react-dashboard--isomorphic-admin-dashboard-template)
+
+built with [React](https://facebook.github.io/react/), [Bootstrap](http://getbootstrap.com/), [React Router](https://reacttraining.com/react-router/), [Redux](http://redux.js.org/) and [GraphQL](http://graphql.org/) based on [Create React App](https://github.com/facebook/create-react-app) and latest industry best practices.
+
+[View Demo](https://flatlogic.com/admin-dashboards/react-dashboard/demo) | [Download](https://github.com/flatlogic/react-dashboard.git) | [More templates](https://flatlogic.com/templates) | [Support forum](https://flatlogic.com/forum)
+
+[![Image 21: react-dashboard](https://github.com/flatlogic/react-dashboard/raw/master/screenshot.png)](https://flatlogic.com/admin-dashboards/react-dashboard/demo)
+
+This seed project is like a free version of a template you can find on [Themeforest](https://themeforest.net/category/site-templates/admin-templates) or [Wrapbootstrap](https://wrapbootstrap.com/themes/admin), with working backend integration, to get you started on your next [business software](https://flatlogic.com/) development.
+
+Features
+--------
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#features)
+
+*   React
+*   Mobile friendly layout (responsive)
+*   React Router
+*   Bootstrap3
+*   GraphQL
+*   Nodejs backend inegration
+*   Sass styles
+*   Stylish, clean, responsive layout
+*   Lots of utility css classes for rapid development (flatlogic css set)
+*   Authentication
+*   CRUD operations examples
+
+Quick Start
+-----------
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#quick-start)
+
+#### 1\. Get the latest version
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#1-get-the-latest-version)
+
+You can start by cloning the latest version of React Dashboard on your local machine by running:
+
+```shell
+$ git clone -o react-dashboard -b master --single-branch \
+      https://github.com/flatlogic/react-dashboard.git MyApp
+$ cd MyApp
+```
+
+#### 2\. Run `yarn install`
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#2-run-yarn-install)
+
+This will install both run-time project dependencies and developer tools listed in [package.json](https://github.com/flatlogic/react-dashboard/blob/package.json) file.
+
+#### 3\. Run `yarn dev`
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#3-run-yarn-dev)
+
+This command will start the app with simultaneously with express server, set up your database, start local server XAMPP, opensever, or other tool to start database, connect to it in file
+
+```shell
+src > data > sequelize.js.
+```
+
+Also go to
+
+```shell
+src > data > schema.js 
+```
+
+and enable mutation. This preparation will enable to realize CRUD operations locally
+
+### 4\. How to create db
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#4-how-to-create-db)
+
+Create db. For instance name it "sequelize" and add posts table to it, your table should have same structure as you can see on the screenshot  
+[![Image 22: table structure](https://github.com/flatlogic/react-dashboard/raw/master/table.png)](https://github.com/flatlogic/react-dashboard/blob/master/table.png)
+
+> [http://localhost:3000/](http://localhost:3000/) — Node.js server  
+> [http://localhost:3000/graphql](http://localhost:3000/graphql) — GraphQL server and IDE
+
+#### 5\. Run `yarn build`
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#5-run-yarn-build)
+
+Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes. Your app is ready to be deployed!
+
+Now you can open your web app in a browser, on mobile devices and start hacking. Whenever you modify any of the source files inside the `/src` folder, the module bundler ([Webpack](http://webpack.github.io/)) will recompile the app on the fly and refresh all the connected browsers.
+
+For more info please refer to [getting started](https://github.com/flatlogic/react-dashboard/blob/master/docs/getting-started.md) guide to download and run the project (Node.js \>\= 6.5)
+
+Support
+-------
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#support)
+
+For any additional information please go to our [**support forum**](https://flatlogic.com/forum) and raise your questions or feedback provide there. We highly appreciate your participation!
+
+How can I support developers?
+-----------------------------
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#how-can-i-support-developers)
+
+*   Star our GitHub repo ⭐
+*   [Tweet about it](https://twitter.com/intent/tweet?text=Amazing%20dashboard%20built%20with%20NodeJS,%20React%20and%20Bootstrap!&url=https://github.com/flatlogic/react-dashboard&via=flatlogic).
+*   Create pull requests, submit bugs, suggest new features or documentation updates 🔧
+*   Follow [@flatlogic on Twitter](https://twitter.com/flatlogic).
+*   Subscribe to Flatlogic newsletter at [flatlogic.com](https://flatlogic.com/)
+*   Like our page on [Facebook](https://www.facebook.com/flatlogic/) 👍
+
+Premium themes
+--------------
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#premium-themes)
+
+Looking for premium themes and templates? Check out more [admin dashboard templates at flatlogic.com](https://flatlogic.com/admin-dashboards).
+
+License
+-------
+
+[](https://github.com/flatlogic/react-dashboard?screenshot=true#license)
+
+[MIT](https://github.com/flatlogic/react-dashboard/blob/master/LICENSE.txt) and another [MIT](https://github.com/flatlogic/react-dashboard/blob/master/LICENSE-react-starter-kit.txt) from RSK.
+
+About
+-----
+
+🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥
+
+[flatlogic.com/admin-dashboards/react-dashboard/demo](https://flatlogic.com/admin-dashboards/react-dashboard/demo "https://flatlogic.com/admin-dashboards/react-dashboard/demo")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [redux](https://github.com/topics/redux "Topic: redux") [sass](https://github.com/topics/sass "Topic: sass") [bootstrap](https://github.com/topics/bootstrap "Topic: bootstrap") [graphql](https://github.com/topics/graphql "Topic: graphql") [webpack](https://github.com/topics/webpack "Topic: webpack") [dashboard](https://github.com/topics/dashboard "Topic: dashboard") [react-router](https://github.com/topics/react-router "Topic: react-router") [hmr](https://github.com/topics/hmr "Topic: hmr") [react-bootstrap](https://github.com/topics/react-bootstrap "Topic: react-bootstrap") [browsersync](https://github.com/topics/browsersync "Topic: browsersync") [react-router-v4](https://github.com/topics/react-router-v4 "Topic: react-router-v4")
+
+### Resources
+
+[Readme](https://github.com/flatlogic/react-dashboard?screenshot=true#readme-ov-file)
+
+[Activity](https://github.com/flatlogic/react-dashboard/activity)
+
+[Custom properties](https://github.com/flatlogic/react-dashboard/custom-properties)
+
+### Stars
+
+[**1.6k** stars](https://github.com/flatlogic/react-dashboard/stargazers)
+
+### Watchers
+
+[**57** watching](https://github.com/flatlogic/react-dashboard/watchers)
+
+### Forks
+
+[**373** forks](https://github.com/flatlogic/react-dashboard/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fflatlogic%2Freact-dashboard&report=flatlogic+%28user%29)
+
+[Releases 7](https://github.com/flatlogic/react-dashboard/releases)
+-------------------------------------------------------------------
+
+[v1.5.0 Latest Sep 14, 2024](https://github.com/flatlogic/react-dashboard/releases/tag/v1.5.0)
+
+[\+ 6 releases](https://github.com/flatlogic/react-dashboard/releases)
+
+[Packages 0](https://github.com/orgs/flatlogic/packages?repo_name=react-dashboard)
+----------------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 18](https://github.com/flatlogic/react-dashboard/graphs/contributors)
+-----------------------------------------------------------------------------------
+
+*   [![Image 23: @okendoken](https://avatars.githubusercontent.com/u/1212194?s=64&v=4)](https://github.com/okendoken)
+*   [![Image 24: @frenzzy](https://avatars.githubusercontent.com/u/640669?s=64&v=4)](https://github.com/frenzzy)
+*   [![Image 25: @langpavel](https://avatars.githubusercontent.com/u/142462?s=64&v=4)](https://github.com/langpavel)
+*   [![Image 26: @haikov](https://avatars.githubusercontent.com/u/9068073?s=64&v=4)](https://github.com/haikov)
+*   [![Image 27: @kulgavy](https://avatars.githubusercontent.com/u/24964748?s=64&v=4)](https://github.com/kulgavy)
+*   [![Image 28: @DimaSavchenko](https://avatars.githubusercontent.com/u/11638499?s=64&v=4)](https://github.com/DimaSavchenko)
+*   [![Image 29: @guardofparadise](https://avatars.githubusercontent.com/u/27496705?s=64&v=4)](https://github.com/guardofparadise)
+*   [![Image 30: @shoudaos](https://avatars.githubusercontent.com/u/9693810?s=64&v=4)](https://github.com/shoudaos)
+*   [![Image 31: @michaeldaineka](https://avatars.githubusercontent.com/u/43149862?s=64&v=4)](https://github.com/michaeldaineka)
+*   [![Image 32: @koistya](https://avatars.githubusercontent.com/u/197134?s=64&v=4)](https://github.com/koistya)
+*   [![Image 33: @Stupidism](https://avatars.githubusercontent.com/u/5801015?s=64&v=4)](https://github.com/Stupidism)
+*   [![Image 34: @matrus2](https://avatars.githubusercontent.com/u/9248211?s=64&v=4)](https://github.com/matrus2)
+*   [![Image 35: @M-Numonov](https://avatars.githubusercontent.com/u/27615720?s=64&v=4)](https://github.com/M-Numonov)
+*   [![Image 36: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+
+[\+ 4 contributors](https://github.com/flatlogic/react-dashboard/graphs/contributors)
+
+Languages
+---------
+
+*   [JavaScript 92.4%](https://github.com/flatlogic/react-dashboard/search?l=javascript)
+*   [SCSS 7.0%](https://github.com/flatlogic/react-dashboard/search?l=scss)
+*   [HTML 0.6%](https://github.com/flatlogic/react-dashboard/search?l=html)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - flatlogic/react-dashboard: 🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥",
+  "description": "🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥 - flatlogic/react-dashboard",
+  "url": "https://github.com/flatlogic/react-dashboard?screenshot=true",
+  "content": "GitHub - flatlogic/react-dashboard: 🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥\n===============\n                                           \n\n[Skip to content](https://github.com/flatlogic/react-dashboard?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fflatlogic%2Freact-dashboard%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fflatlogic%2Freact-dashboard%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=flatlogic%2Freact-dashboard) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[flatlogic](https://github.com/flatlogic) / **[react-dashboard](https://github.com/flatlogic/react-dashboard)** Public template\n\n*   [Notifications](https://github.com/login?return_to=%2Fflatlogic%2Freact-dashboard) You must be signed in to change notification settings\n*   [Fork 373](https://github.com/login?return_to=%2Fflatlogic%2Freact-dashboard)\n*   [Star 1.6k](https://github.com/login?return_to=%2Fflatlogic%2Freact-dashboard)\n    \n\n🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥\n\n[flatlogic.com/admin-dashboards/react-dashboard/demo](https://flatlogic.com/admin-dashboards/react-dashboard/demo \"https://flatlogic.com/admin-dashboards/react-dashboard/demo\")\n\n[1.6k stars](https://github.com/flatlogic/react-dashboard/stargazers) [373 forks](https://github.com/flatlogic/react-dashboard/forks) [Branches](https://github.com/flatlogic/react-dashboard/branches) [Tags](https://github.com/flatlogic/react-dashboard/tags) [Activity](https://github.com/flatlogic/react-dashboard/activity)\n\n[Star](https://github.com/login?return_to=%2Fflatlogic%2Freact-dashboard)\n\n[Notifications](https://github.com/login?return_to=%2Fflatlogic%2Freact-dashboard) You must be signed in to change notification settings\n\n*   [Code](https://github.com/flatlogic/react-dashboard)\n*   [Issues 0](https://github.com/flatlogic/react-dashboard/issues)\n*   [Pull requests 2](https://github.com/flatlogic/react-dashboard/pulls)\n*   [Actions](https://github.com/flatlogic/react-dashboard/actions)\n*   [Projects 0](https://github.com/flatlogic/react-dashboard/projects)\n*   [Security](https://github.com/flatlogic/react-dashboard/security)\n*   [Insights](https://github.com/flatlogic/react-dashboard/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/flatlogic/react-dashboard)\n*   [Issues](https://github.com/flatlogic/react-dashboard/issues)\n*   [Pull requests](https://github.com/flatlogic/react-dashboard/pulls)\n*   [Actions](https://github.com/flatlogic/react-dashboard/actions)\n*   [Projects](https://github.com/flatlogic/react-dashboard/projects)\n*   [Security](https://github.com/flatlogic/react-dashboard/security)\n*   [Insights](https://github.com/flatlogic/react-dashboard/pulse)\n\nflatlogic/react-dashboard\n=========================\n\n  \n\n master\n\n[**5** Branches](https://github.com/flatlogic/react-dashboard/branches)[**7** Tags](https://github.com/flatlogic/react-dashboard/tags)\n\n[](https://github.com/flatlogic/react-dashboard/branches)[](https://github.com/flatlogic/react-dashboard/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 20: Blari](https://avatars.githubusercontent.com/u/12595579?v=4&size=40)](https://github.com/Blari)[Blari](https://github.com/flatlogic/react-dashboard/commits?author=Blari)\n\n[Merge pull request](https://github.com/flatlogic/react-dashboard/commit/0a45547c50246dc8f3da058196f2d87f10b421c5) [#66](https://github.com/flatlogic/react-dashboard/pull/66) [from flatlogic/updated\\_readme](https://github.com/flatlogic/react-dashboard/commit/0a45547c50246dc8f3da058196f2d87f10b421c5)\n\nNov 29, 2024\n\n[0a45547](https://github.com/flatlogic/react-dashboard/commit/0a45547c50246dc8f3da058196f2d87f10b421c5) · Nov 29, 2024\n\nHistory\n-------\n\n[1,035 Commits](https://github.com/flatlogic/react-dashboard/commits/master/)\n\n[](https://github.com/flatlogic/react-dashboard/commits/master/)\n\n\n\n\n\n\n\n |\n| \n\n[public](https://github.com/flatlogic/react-dashboard/tree/master/public \"public\")\n\n\n\n\n\n\n\n | \n\n[public](https://github.com/flatlogic/react-dashboard/tree/master/public \"public\")\n\n\n\n\n\n\n\n | \n\n[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")\n\n\n\n | \n\nNov 15, 2019\n\n |\n| \n\n[server](https://github.com/flatlogic/react-dashboard/tree/master/server \"server\")\n\n\n\n\n\n\n\n | \n\n[server](https://github.com/flatlogic/react-dashboard/tree/master/server \"server\")\n\n\n\n\n\n\n\n | \n\n[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")\n\n\n\n | \n\nNov 15, 2019\n\n |\n| \n\n[src](https://github.com/flatlogic/react-dashboard/tree/master/src \"src\")\n\n\n\n\n\n\n\n | \n\n[src](https://github.com/flatlogic/react-dashboard/tree/master/src \"src\")\n\n\n\n\n\n\n\n | \n\n[Updated react-scripts to version 5 (webpack 5), updated React from 16…](https://github.com/flatlogic/react-dashboard/commit/5de91dd7994a7247ea8322f8ce5d990d5175722e \"Updated react-scripts to version 5 (webpack 5), updated React from 16 to 18, added bootstrap icons, updated changelogs, updated yarn.lock\")\n\n\n\n | \n\nSep 14, 2024\n\n |\n| \n\n[.env](https://github.com/flatlogic/react-dashboard/blob/master/.env \".env\")\n\n\n\n\n\n\n\n | \n\n[.env](https://github.com/flatlogic/react-dashboard/blob/master/.env \".env\")\n\n\n\n\n\n\n\n | \n\n[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")\n\n\n\n | \n\nNov 15, 2019\n\n |\n| \n\n[.gitignore](https://github.com/flatlogic/react-dashboard/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/flatlogic/react-dashboard/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")\n\n\n\n | \n\nNov 15, 2019\n\n |\n| \n\n[README.md](https://github.com/flatlogic/react-dashboard/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/flatlogic/react-dashboard/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[Updated readme](https://github.com/flatlogic/react-dashboard/commit/143f76d27c38c7387cbb3ad460d42a1d2275af08 \"Updated readme\")\n\n\n\n | \n\nSep 15, 2024\n\n |\n| \n\n[babel.config.js](https://github.com/flatlogic/react-dashboard/blob/master/babel.config.js \"babel.config.js\")\n\n\n\n\n\n\n\n | \n\n[babel.config.js](https://github.com/flatlogic/react-dashboard/blob/master/babel.config.js \"babel.config.js\")\n\n\n\n\n\n\n\n | \n\n[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")\n\n\n\n | \n\nNov 15, 2019\n\n |\n| \n\n[changelog.md](https://github.com/flatlogic/react-dashboard/blob/master/changelog.md \"changelog.md\")\n\n\n\n\n\n\n\n | \n\n[changelog.md](https://github.com/flatlogic/react-dashboard/blob/master/changelog.md \"changelog.md\")\n\n\n\n\n\n\n\n | \n\n[Updated react-scripts to version 5 (webpack 5), updated React from 16…](https://github.com/flatlogic/react-dashboard/commit/5de91dd7994a7247ea8322f8ce5d990d5175722e \"Updated react-scripts to version 5 (webpack 5), updated React from 16 to 18, added bootstrap icons, updated changelogs, updated yarn.lock\")\n\n\n\n | \n\nSep 14, 2024\n\n |\n| \n\n[config-overrides.js](https://github.com/flatlogic/react-dashboard/blob/master/config-overrides.js \"config-overrides.js\")\n\n\n\n\n\n\n\n | \n\n[config-overrides.js](https://github.com/flatlogic/react-dashboard/blob/master/config-overrides.js \"config-overrides.js\")\n\n\n\n\n\n\n\n | \n\n[Updated react-scripts to version 5 (webpack 5), updated React from 16…](https://github.com/flatlogic/react-dashboard/commit/5de91dd7994a7247ea8322f8ce5d990d5175722e \"Updated react-scripts to version 5 (webpack 5), updated React from 16 to 18, added bootstrap icons, updated changelogs, updated yarn.lock\")\n\n\n\n | \n\nSep 14, 2024\n\n |\n| \n\n[database.sqlite](https://github.com/flatlogic/react-dashboard/blob/master/database.sqlite \"database.sqlite\")\n\n\n\n\n\n\n\n | \n\n[database.sqlite](https://github.com/flatlogic/react-dashboard/blob/master/database.sqlite \"database.sqlite\")\n\n\n\n\n\n\n\n | \n\n[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")\n\n\n\n | \n\nNov 15, 2019\n\n |\n| \n\n[package.json](https://github.com/flatlogic/react-dashboard/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[package.json](https://github.com/flatlogic/react-dashboard/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[Updated react-scripts to version 5 (webpack 5), updated React from 16…](https://github.com/flatlogic/react-dashboard/commit/5de91dd7994a7247ea8322f8ce5d990d5175722e \"Updated react-scripts to version 5 (webpack 5), updated React from 16 to 18, added bootstrap icons, updated changelogs, updated yarn.lock\")\n\n\n\n | \n\nSep 14, 2024\n\n |\n| \n\n[screenshot.png](https://github.com/flatlogic/react-dashboard/blob/master/screenshot.png \"screenshot.png\")\n\n\n\n\n\n\n\n | \n\n[screenshot.png](https://github.com/flatlogic/react-dashboard/blob/master/screenshot.png \"screenshot.png\")\n\n\n\n\n\n\n\n | \n\n[feat: shadow added to image](https://github.com/flatlogic/react-dashboard/commit/85731ead47c62dc916c7033d6f1ed554a0ed5e0b \"feat: shadow added to image\")\n\n\n\n | \n\nJun 25, 2018\n\n |\n| \n\n[table.png](https://github.com/flatlogic/react-dashboard/blob/master/table.png \"table.png\")\n\n\n\n\n\n\n\n | \n\n[table.png](https://github.com/flatlogic/react-dashboard/blob/master/table.png \"table.png\")\n\n\n\n\n\n\n\n | \n\n[remade project on create-react-app (](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")[#22](https://github.com/flatlogic/react-dashboard/pull/22)[)](https://github.com/flatlogic/react-dashboard/commit/3788f57ba7be582a7731fa82f8a9a49b10bcfbd4 \"remade project on create-react-app (#22)\n* initial commit with history\n* update gitignore, readme and user actions, removed useless comments\n* readme markup fixes\n* added section to readme.md, how to configure db\n* fix readme markup\")\n\n\n\n | \n\nNov 15, 2019\n\n |\n| \n\n[yarn.lock](https://github.com/flatlogic/react-dashboard/blob/master/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[yarn.lock](https://github.com/flatlogic/react-dashboard/blob/master/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[Updated react-scripts to version 5 (webpack 5), updated React from 16…](https://github.com/flatlogic/react-dashboard/commit/5de91dd7994a7247ea8322f8ce5d990d5175722e \"Updated react-scripts to version 5 (webpack 5), updated React from 16 to 18, added bootstrap icons, updated changelogs, updated yarn.lock\")\n\n\n\n | \n\nSep 14, 2024\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/flatlogic/react-dashboard?screenshot=true#)\n\nReact Dashboard — \"[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)\" admin dashboard template\n-------------------------------------------------------------------------------------------------------------------------\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#react-dashboard--isomorphic-admin-dashboard-template)\n\nbuilt with [React](https://facebook.github.io/react/), [Bootstrap](http://getbootstrap.com/), [React Router](https://reacttraining.com/react-router/), [Redux](http://redux.js.org/) and [GraphQL](http://graphql.org/) based on [Create React App](https://github.com/facebook/create-react-app) and latest industry best practices.\n\n[View Demo](https://flatlogic.com/admin-dashboards/react-dashboard/demo) | [Download](https://github.com/flatlogic/react-dashboard.git) | [More templates](https://flatlogic.com/templates) | [Support forum](https://flatlogic.com/forum)\n\n[![Image 21: react-dashboard](https://github.com/flatlogic/react-dashboard/raw/master/screenshot.png)](https://flatlogic.com/admin-dashboards/react-dashboard/demo)\n\nThis seed project is like a free version of a template you can find on [Themeforest](https://themeforest.net/category/site-templates/admin-templates) or [Wrapbootstrap](https://wrapbootstrap.com/themes/admin), with working backend integration, to get you started on your next [business software](https://flatlogic.com/) development.\n\nFeatures\n--------\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#features)\n\n*   React\n*   Mobile friendly layout (responsive)\n*   React Router\n*   Bootstrap3\n*   GraphQL\n*   Nodejs backend inegration\n*   Sass styles\n*   Stylish, clean, responsive layout\n*   Lots of utility css classes for rapid development (flatlogic css set)\n*   Authentication\n*   CRUD operations examples\n\nQuick Start\n-----------\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#quick-start)\n\n#### 1\\. Get the latest version\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#1-get-the-latest-version)\n\nYou can start by cloning the latest version of React Dashboard on your local machine by running:\n\n```shell\n$ git clone -o react-dashboard -b master --single-branch \\\n      https://github.com/flatlogic/react-dashboard.git MyApp\n$ cd MyApp\n```\n\n#### 2\\. Run `yarn install`\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#2-run-yarn-install)\n\nThis will install both run-time project dependencies and developer tools listed in [package.json](https://github.com/flatlogic/react-dashboard/blob/package.json) file.\n\n#### 3\\. Run `yarn dev`\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#3-run-yarn-dev)\n\nThis command will start the app with simultaneously with express server, set up your database, start local server XAMPP, opensever, or other tool to start database, connect to it in file\n\n```shell\nsrc > data > sequelize.js.\n```\n\nAlso go to\n\n```shell\nsrc > data > schema.js \n```\n\nand enable mutation. This preparation will enable to realize CRUD operations locally\n\n### 4\\. How to create db\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#4-how-to-create-db)\n\nCreate db. For instance name it \"sequelize\" and add posts table to it, your table should have same structure as you can see on the screenshot  \n[![Image 22: table structure](https://github.com/flatlogic/react-dashboard/raw/master/table.png)](https://github.com/flatlogic/react-dashboard/blob/master/table.png)\n\n> [http://localhost:3000/](http://localhost:3000/) — Node.js server  \n> [http://localhost:3000/graphql](http://localhost:3000/graphql) — GraphQL server and IDE\n\n#### 5\\. Run `yarn build`\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#5-run-yarn-build)\n\nBuilds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.\n\nThe build is minified and the filenames include the hashes. Your app is ready to be deployed!\n\nNow you can open your web app in a browser, on mobile devices and start hacking. Whenever you modify any of the source files inside the `/src` folder, the module bundler ([Webpack](http://webpack.github.io/)) will recompile the app on the fly and refresh all the connected browsers.\n\nFor more info please refer to [getting started](https://github.com/flatlogic/react-dashboard/blob/master/docs/getting-started.md) guide to download and run the project (Node.js \\>\\= 6.5)\n\nSupport\n-------\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#support)\n\nFor any additional information please go to our [**support forum**](https://flatlogic.com/forum) and raise your questions or feedback provide there. We highly appreciate your participation!\n\nHow can I support developers?\n-----------------------------\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#how-can-i-support-developers)\n\n*   Star our GitHub repo ⭐\n*   [Tweet about it](https://twitter.com/intent/tweet?text=Amazing%20dashboard%20built%20with%20NodeJS,%20React%20and%20Bootstrap!&url=https://github.com/flatlogic/react-dashboard&via=flatlogic).\n*   Create pull requests, submit bugs, suggest new features or documentation updates 🔧\n*   Follow [@flatlogic on Twitter](https://twitter.com/flatlogic).\n*   Subscribe to Flatlogic newsletter at [flatlogic.com](https://flatlogic.com/)\n*   Like our page on [Facebook](https://www.facebook.com/flatlogic/) 👍\n\nPremium themes\n--------------\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#premium-themes)\n\nLooking for premium themes and templates? Check out more [admin dashboard templates at flatlogic.com](https://flatlogic.com/admin-dashboards).\n\nLicense\n-------\n\n[](https://github.com/flatlogic/react-dashboard?screenshot=true#license)\n\n[MIT](https://github.com/flatlogic/react-dashboard/blob/master/LICENSE.txt) and another [MIT](https://github.com/flatlogic/react-dashboard/blob/master/LICENSE-react-starter-kit.txt) from RSK.\n\nAbout\n-----\n\n🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥\n\n[flatlogic.com/admin-dashboards/react-dashboard/demo](https://flatlogic.com/admin-dashboards/react-dashboard/demo \"https://flatlogic.com/admin-dashboards/react-dashboard/demo\")\n\n### Topics\n\n[react](https://github.com/topics/react \"Topic: react\") [redux](https://github.com/topics/redux \"Topic: redux\") [sass](https://github.com/topics/sass \"Topic: sass\") [bootstrap](https://github.com/topics/bootstrap \"Topic: bootstrap\") [graphql](https://github.com/topics/graphql \"Topic: graphql\") [webpack](https://github.com/topics/webpack \"Topic: webpack\") [dashboard](https://github.com/topics/dashboard \"Topic: dashboard\") [react-router](https://github.com/topics/react-router \"Topic: react-router\") [hmr](https://github.com/topics/hmr \"Topic: hmr\") [react-bootstrap](https://github.com/topics/react-bootstrap \"Topic: react-bootstrap\") [browsersync](https://github.com/topics/browsersync \"Topic: browsersync\") [react-router-v4](https://github.com/topics/react-router-v4 \"Topic: react-router-v4\")\n\n### Resources\n\n[Readme](https://github.com/flatlogic/react-dashboard?screenshot=true#readme-ov-file)\n\n[Activity](https://github.com/flatlogic/react-dashboard/activity)\n\n[Custom properties](https://github.com/flatlogic/react-dashboard/custom-properties)\n\n### Stars\n\n[**1.6k** stars](https://github.com/flatlogic/react-dashboard/stargazers)\n\n### Watchers\n\n[**57** watching](https://github.com/flatlogic/react-dashboard/watchers)\n\n### Forks\n\n[**373** forks](https://github.com/flatlogic/react-dashboard/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fflatlogic%2Freact-dashboard&report=flatlogic+%28user%29)\n\n[Releases 7](https://github.com/flatlogic/react-dashboard/releases)\n-------------------------------------------------------------------\n\n[v1.5.0 Latest Sep 14, 2024](https://github.com/flatlogic/react-dashboard/releases/tag/v1.5.0)\n\n[\\+ 6 releases](https://github.com/flatlogic/react-dashboard/releases)\n\n[Packages 0](https://github.com/orgs/flatlogic/packages?repo_name=react-dashboard)\n----------------------------------------------------------------------------------\n\nNo packages published  \n\n[Contributors 18](https://github.com/flatlogic/react-dashboard/graphs/contributors)\n-----------------------------------------------------------------------------------\n\n*   [![Image 23: @okendoken](https://avatars.githubusercontent.com/u/1212194?s=64&v=4)](https://github.com/okendoken)\n*   [![Image 24: @frenzzy](https://avatars.githubusercontent.com/u/640669?s=64&v=4)](https://github.com/frenzzy)\n*   [![Image 25: @langpavel](https://avatars.githubusercontent.com/u/142462?s=64&v=4)](https://github.com/langpavel)\n*   [![Image 26: @haikov](https://avatars.githubusercontent.com/u/9068073?s=64&v=4)](https://github.com/haikov)\n*   [![Image 27: @kulgavy](https://avatars.githubusercontent.com/u/24964748?s=64&v=4)](https://github.com/kulgavy)\n*   [![Image 28: @DimaSavchenko](https://avatars.githubusercontent.com/u/11638499?s=64&v=4)](https://github.com/DimaSavchenko)\n*   [![Image 29: @guardofparadise](https://avatars.githubusercontent.com/u/27496705?s=64&v=4)](https://github.com/guardofparadise)\n*   [![Image 30: @shoudaos](https://avatars.githubusercontent.com/u/9693810?s=64&v=4)](https://github.com/shoudaos)\n*   [![Image 31: @michaeldaineka](https://avatars.githubusercontent.com/u/43149862?s=64&v=4)](https://github.com/michaeldaineka)\n*   [![Image 32: @koistya](https://avatars.githubusercontent.com/u/197134?s=64&v=4)](https://github.com/koistya)\n*   [![Image 33: @Stupidism](https://avatars.githubusercontent.com/u/5801015?s=64&v=4)](https://github.com/Stupidism)\n*   [![Image 34: @matrus2](https://avatars.githubusercontent.com/u/9248211?s=64&v=4)](https://github.com/matrus2)\n*   [![Image 35: @M-Numonov](https://avatars.githubusercontent.com/u/27615720?s=64&v=4)](https://github.com/M-Numonov)\n*   [![Image 36: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)\n\n[\\+ 4 contributors](https://github.com/flatlogic/react-dashboard/graphs/contributors)\n\nLanguages\n---------\n\n*   [JavaScript 92.4%](https://github.com/flatlogic/react-dashboard/search?l=javascript)\n*   [SCSS 7.0%](https://github.com/flatlogic/react-dashboard/search?l=scss)\n*   [HTML 0.6%](https://github.com/flatlogic/react-dashboard/search?l=html)\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 7892
+  }
+}
+```

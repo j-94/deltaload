@@ -1,0 +1,60 @@
+Next.js landing page template for SaaS products - Jamstack Themes
+===============
+
+[Jamstack Themes](https://jamstackthemes.dev/ "Jamstack Themes")
+
+*   [New Themes](https://jamstackthemes.dev/)
+*   [All Themes](https://jamstackthemes.dev/theme/)
+
+[Submit](https://github.com/stackbit/jamstackthemes) [Submit Theme](https://github.com/stackbit/jamstackthemes) [![Image 5: Github Repo](https://jamstackthemes.dev/images/icons/github.svg)](https://github.com/stackbit/jamstackthemes)
+
+Next.js landing page template for SaaS products
+===============================================
+
+A free Next.js TypeScript landing page template for SaaS products, online services and more.
+
+[![Image 6: Next](https://jamstackthemes.dev/images/icons/next.svg)](https://jamstackthemes.dev/ssg/next/) [Business](https://jamstackthemes.dev/archetype/business/)
+
+Author Jaakko Kytölä
+
+Github Stars 532
+
+Last Commit Mar 2, 2021
+
+[Github](https://github.com/jkytoela/next-startd) [Demo](https://jamstackthemes.dev/demo/theme/next-startd/)
+
+![Image 7: Next.js landing page template for SaaS products screenshot](https://jamstackthemes.dev/capture/jkytoela-next-startd.png)
+
+A free Next.js TypeScript landing page template for SaaS products, online services and more.
+============================================================================================
+
+Features
+--------
+
+*   ⚡ **Next.js** — The React Framework
+*   🔥 **next-seo** — Manage SEO easily
+*   💡 **Twind** — The smallest, fastest, most feature complete Tailwind-in-JS solution in existence
+*   📏 **ESLint** — Pluggable JavaScript linter
+*   💖 **Prettier** — Opinionated Code Formatter
+*   🐶 **Husky** — Use git hooks with ease
+*   📄 **Commitizen** — Conventional commit messages CLI
+*   🚓 **Commitlint** — Lint commit messages
+*   🖌 **Renovate** — Dependency update tool
+*   🚫 **lint-staged** — Run linters against staged git files
+*   🗂 **Absolute import** — Import folders and files using the `@` prefix
+
+### Jamstack Themes
+
+[Submit a theme](https://github.com/stackbit/jamstackthemes) [Themes JSON](https://jamstackthemes.dev/index.json) [Themes RSS](https://jamstackthemes.dev/index.xml)
+
+### Themes
+
+[New Themes](https://jamstackthemes.dev/) [All Themes](https://jamstackthemes.dev/theme/) [Create a Site](https://create.netlify.com/?ref=jst&utm_source=jamstackthemes&utm_medium=referral&utm_campaign=jamstackthemeswebsite&utm_content=footer)
+
+### Static Site Generator Themes
+
+[Astro Themes](https://jamstackthemes.dev/ssg/astro/) [Brunch Themes](https://jamstackthemes.dev/ssg/brunch/) [Docusaurus Themes](https://jamstackthemes.dev/ssg/docusaurus/) [Eleventy Themes](https://jamstackthemes.dev/ssg/eleventy/) [Gatsby Themes](https://jamstackthemes.dev/ssg/gatsby/) [Gozer Themes](https://jamstackthemes.dev/ssg/gozer/) [Gridsome Themes](https://jamstackthemes.dev/ssg/gridsome/) [Hexo Themes](https://jamstackthemes.dev/ssg/hexo/) [Hugo Themes](https://jamstackthemes.dev/ssg/hugo/) [Jekyll Themes](https://jamstackthemes.dev/ssg/jekyll/) [Jigsaw Themes](https://jamstackthemes.dev/ssg/jigsaw/) [Metalsmith Themes](https://jamstackthemes.dev/ssg/metalsmith/) [Middleman Themes](https://jamstackthemes.dev/ssg/middleman/) [Mkdocs Themes](https://jamstackthemes.dev/ssg/mkdocs/) [Next Themes](https://jamstackthemes.dev/ssg/next/) [Nuxt Themes](https://jamstackthemes.dev/ssg/nuxt/) [Pelican Themes](https://jamstackthemes.dev/ssg/pelican/) [Platframe Themes](https://jamstackthemes.dev/ssg/platframe/) [Sapper Themes](https://jamstackthemes.dev/ssg/sapper/) [Scully Themes](https://jamstackthemes.dev/ssg/scully/) [Statiq Themes](https://jamstackthemes.dev/ssg/statiq/) [Sveltekit Themes](https://jamstackthemes.dev/ssg/sveltekit/) [Unibit Themes](https://jamstackthemes.dev/ssg/unibit/) [Vuepress Themes](https://jamstackthemes.dev/ssg/vuepress/)
+
+### Headless CMS Themes
+
+[Airtable Themes](https://jamstackthemes.dev/cms/airtable/) [Contentful Themes](https://jamstackthemes.dev/cms/contentful/) [Cosmic Themes](https://jamstackthemes.dev/cms/cosmic/) [DatoCMS Themes](https://jamstackthemes.dev/cms/datocms/) [DecapCMS Themes](https://jamstackthemes.dev/cms/decapcms/) [Directus Themes](https://jamstackthemes.dev/cms/directus/) [Firebase Themes](https://jamstackthemes.dev/cms/firebase/) [Flotiq Themes](https://jamstackthemes.dev/cms/flotiq/) [Forestry Themes](https://jamstackthemes.dev/cms/forestry/) [Ghost Themes](https://jamstackthemes.dev/cms/ghost/) [GraphCMS Themes](https://jamstackthemes.dev/cms/graphcms/) [Kontent Themes](https://jamstackthemes.dev/cms/kontent/) [No CMS Themes](https://jamstackthemes.dev/cms/no-cms/) [Notion Themes](https://jamstackthemes.dev/cms/notion/) [Prismic Themes](https://jamstackthemes.dev/cms/prismic/) [Sanity Themes](https://jamstackthemes.dev/cms/sanity/) [Storyblok Themes](https://jamstackthemes.dev/cms/storyblok/) [Tina Themes](https://jamstackthemes.dev/cms/tina/) [Wisp Themes](https://jamstackthemes.dev/cms/wisp/) [Wordpress Themes](https://jamstackthemes.dev/cms/wordpress/)

@@ -1,0 +1,876 @@
+GitHub - joe-bell/plaiceholder: Beautiful image placeholders, without the hassle.
+===============                                         
+
+[Skip to content](https://github.com/joe-bell/plaiceholder?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjoe-bell%2Fplaiceholder%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjoe-bell%2Fplaiceholder%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=joe-bell%2Fplaiceholder) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+This repository has been archived by the owner on May 31, 2023. It is now read-only.
+
+[joe-bell](https://github.com/joe-bell) / **[plaiceholder](https://github.com/joe-bell/plaiceholder)** Public archive
+
+*   [Notifications](https://github.com/login?return_to=%2Fjoe-bell%2Fplaiceholder) You must be signed in to change notification settings
+*   [Fork 73](https://github.com/login?return_to=%2Fjoe-bell%2Fplaiceholder)
+*   [Star 2.3k](https://github.com/login?return_to=%2Fjoe-bell%2Fplaiceholder)
+    
+
+Beautiful image placeholders, without the hassle.
+
+[plaiceholder.co](https://plaiceholder.co/ "https://plaiceholder.co")
+
+### License
+
+[Apache-2.0 license](https://github.com/joe-bell/plaiceholder/blob/main/LICENSE)
+
+[2.3k stars](https://github.com/joe-bell/plaiceholder/stargazers) [73 forks](https://github.com/joe-bell/plaiceholder/forks) [Branches](https://github.com/joe-bell/plaiceholder/branches) [Tags](https://github.com/joe-bell/plaiceholder/tags) [Activity](https://github.com/joe-bell/plaiceholder/activity)
+
+[Star](https://github.com/login?return_to=%2Fjoe-bell%2Fplaiceholder)
+
+[Notifications](https://github.com/login?return_to=%2Fjoe-bell%2Fplaiceholder) You must be signed in to change notification settings
+
+*   [Code](https://github.com/joe-bell/plaiceholder)
+*   [Pull requests 0](https://github.com/joe-bell/plaiceholder/pulls)
+*   [Actions](https://github.com/joe-bell/plaiceholder/actions)
+*   [Security](https://github.com/joe-bell/plaiceholder/security)
+*   [Insights](https://github.com/joe-bell/plaiceholder/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/joe-bell/plaiceholder)
+*   [Pull requests](https://github.com/joe-bell/plaiceholder/pulls)
+*   [Actions](https://github.com/joe-bell/plaiceholder/actions)
+*   [Security](https://github.com/joe-bell/plaiceholder/security)
+*   [Insights](https://github.com/joe-bell/plaiceholder/pulse)
+
+joe-bell/plaiceholder
+=====================
+
+  
+
+ main
+
+[Branches](https://github.com/joe-bell/plaiceholder/branches)[Tags](https://github.com/joe-bell/plaiceholder/tags)
+
+[](https://github.com/joe-bell/plaiceholder/branches)[](https://github.com/joe-bell/plaiceholder/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+History
+-------
+
+[484 Commits](https://github.com/joe-bell/plaiceholder/commits/main/)
+
+[](https://github.com/joe-bell/plaiceholder/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.changeset](https://github.com/joe-bell/plaiceholder/tree/main/.changeset ".changeset")
+
+
+
+
+
+
+
+ | 
+
+[.changeset](https://github.com/joe-bell/plaiceholder/tree/main/.changeset ".changeset")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.config](https://github.com/joe-bell/plaiceholder/tree/main/.config ".config")
+
+
+
+
+
+
+
+ | 
+
+[.config](https://github.com/joe-bell/plaiceholder/tree/main/.config ".config")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.github](https://github.com/joe-bell/plaiceholder/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/joe-bell/plaiceholder/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.husky](https://github.com/joe-bell/plaiceholder/tree/main/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+[.husky](https://github.com/joe-bell/plaiceholder/tree/main/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[docs](https://github.com/joe-bell/plaiceholder/tree/main/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs](https://github.com/joe-bell/plaiceholder/tree/main/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[examples](https://github.com/joe-bell/plaiceholder/tree/main/examples "examples")
+
+
+
+
+
+
+
+ | 
+
+[examples](https://github.com/joe-bell/plaiceholder/tree/main/examples "examples")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[packages](https://github.com/joe-bell/plaiceholder/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[packages](https://github.com/joe-bell/plaiceholder/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.czrc](https://github.com/joe-bell/plaiceholder/blob/main/.czrc ".czrc")
+
+
+
+
+
+
+
+ | 
+
+[.czrc](https://github.com/joe-bell/plaiceholder/blob/main/.czrc ".czrc")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.gitignore](https://github.com/joe-bell/plaiceholder/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/joe-bell/plaiceholder/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.npmrc](https://github.com/joe-bell/plaiceholder/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[.npmrc](https://github.com/joe-bell/plaiceholder/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.nvmrc](https://github.com/joe-bell/plaiceholder/blob/main/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/joe-bell/plaiceholder/blob/main/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.prettierignore](https://github.com/joe-bell/plaiceholder/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/joe-bell/plaiceholder/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/joe-bell/plaiceholder/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/joe-bell/plaiceholder/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/joe-bell/plaiceholder/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/joe-bell/plaiceholder/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[LICENSE](https://github.com/joe-bell/plaiceholder/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/joe-bell/plaiceholder/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[README.md](https://github.com/joe-bell/plaiceholder/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/joe-bell/plaiceholder/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[package.json](https://github.com/joe-bell/plaiceholder/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/joe-bell/plaiceholder/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[pnpm-lock.yaml](https://github.com/joe-bell/plaiceholder/blob/main/pnpm-lock.yaml "pnpm-lock.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pnpm-lock.yaml](https://github.com/joe-bell/plaiceholder/blob/main/pnpm-lock.yaml "pnpm-lock.yaml")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[pnpm-workspace.yaml](https://github.com/joe-bell/plaiceholder/blob/main/pnpm-workspace.yaml "pnpm-workspace.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pnpm-workspace.yaml](https://github.com/joe-bell/plaiceholder/blob/main/pnpm-workspace.yaml "pnpm-workspace.yaml")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[tsconfig.json](https://github.com/joe-bell/plaiceholder/blob/main/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/joe-bell/plaiceholder/blob/main/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/joe-bell/plaiceholder?screenshot=true#)
+*   [Code of conduct](https://github.com/joe-bell/plaiceholder?screenshot=true#)
+*   [Apache-2.0 license](https://github.com/joe-bell/plaiceholder?screenshot=true#)
+
+> **Note**
+> 
+> The `plaiceholder` project is feature complete and will now be kept in maintenance mode.
+> 
+> [**Read the migration guide**](https://plaiceholder.co/docs/upgrading-to-3) for further information.
+> 
+> If this project has been useful to you, please consider [sponsoring my work](https://joebell.co.uk/sponsors).
+
+* * *
+
+plaiceholder
+============
+
+[](https://github.com/joe-bell/plaiceholder?screenshot=true#--plaiceholder)
+
+[![Image 27: Plaice Fish](https://github.com/joe-bell/plaiceholder/raw/main/.github/assets/logo.jpg)](https://github.com/joe-bell/plaiceholder/blob/main/.github/assets/logo.jpg)
+
+**Beautiful image placeholders, without the hassle.**
+
+Choose-your-own adventure, from pure CSS to SVG…
+
+[**Read the Docs 📖**](https://plaiceholder.co/)
+
+[![Image 28: NPM Version](https://camo.githubusercontent.com/29abefd492b7dead0a675d43d5a068144e526c13202e66cdc09d4ee72534f122/68747470733a2f2f62616467656e2e6e65742f6e706d2f762f706c61696365686f6c646572)](https://www.npmjs.com/package/plaiceholder)[![Image 29: Types Included](https://camo.githubusercontent.com/3e92ccef4ef96340e71906674ceba0182edd7d9e4a794a03e47918ba183cb217/68747470733a2f2f62616467656e2e6e65742f6e706d2f74797065732f706c61696365686f6c646572)](https://www.npmjs.com/package/plaiceholder)[![Image 30: MIT License](https://camo.githubusercontent.com/ec1884c739bcf363ec9064c7bb76df8b608fa78d7ac62a4334637a4977e7ef96/68747470733a2f2f62616467656e2e6e65742f6769746875622f6c6963656e73652f6a6f652d62656c6c2f706c61696365686f6c646572)](https://github.com/joe-bell/plaiceholder/blob/main/LICENSE)[![Image 31: NPM Downloads](https://camo.githubusercontent.com/13d04da4c7fd685dab7c09e9c4869f87563e56a43d7e20e7c0aebf9ad2eea8ac/68747470733a2f2f62616467656e2e6e65742f6e706d2f646d2f706c61696365686f6c646572)](https://www.npmjs.com/package/plaiceholder)[![Image 32: Follow @joebell_ on Twitter](https://camo.githubusercontent.com/543dda0f53a90c6fbe49cb6ceb7975e05605107ea533ea236f28ae1d81b60f86/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6a6f6562656c6c5f2e7376673f7374796c653d736f6369616c266c6162656c3d466f6c6c6f77)](https://twitter.com/joebell_)
+
+  
+
+Supporters
+----------
+
+[](https://github.com/joe-bell/plaiceholder?screenshot=true#supporters)
+
+Thanks go to these wondeful people for their long-standing support.
+
+ [![Image 33: Avatar of @elijahharry](https://avatars.githubusercontent.com/u/8610716?v=4)](https://github.com/elijahharry)[![Image 34: Avatar of @heysanil](https://avatars.githubusercontent.com/u/6345801?v=4)](https://github.com/heysanil)[![Image 35: Avatar of @reallybadnews](https://avatars.githubusercontent.com/u/1545970?v=4)](https://github.com/reallybadnews)
+
+License
+-------
+
+[](https://github.com/joe-bell/plaiceholder?screenshot=true#license)
+
+Apache-2.0 License © [Joe Bell](https://twitter.com/joebell_)
+
+### Acknowledgements
+
+[](https://github.com/joe-bell/plaiceholder?screenshot=true#acknowledgements)
+
+#### [Lovell Fuller](https://github.com/lovell) ([Sharp](https://github.com/lovell/sharp))
+
+[](https://github.com/joe-bell/plaiceholder?screenshot=true#lovell-fuller-sharp)
+
+Copyright © 2013-2022, Lovell Fuller. All Rights Reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License").
+
+About
+-----
+
+Beautiful image placeholders, without the hassle.
+
+[plaiceholder.co](https://plaiceholder.co/ "https://plaiceholder.co")
+
+### Topics
+
+[css](https://github.com/topics/css "Topic: css") [placeholder](https://github.com/topics/placeholder "Topic: placeholder") [image-optimisation](https://github.com/topics/image-optimisation "Topic: image-optimisation") [lqip](https://github.com/topics/lqip "Topic: lqip") [tailwindcss](https://github.com/topics/tailwindcss "Topic: tailwindcss") [blurhash](https://github.com/topics/blurhash "Topic: blurhash") [plaiceholder](https://github.com/topics/plaiceholder "Topic: plaiceholder")
+
+### Resources
+
+[Readme](https://github.com/joe-bell/plaiceholder?screenshot=true#readme-ov-file)
+
+### License
+
+[Apache-2.0 license](https://github.com/joe-bell/plaiceholder?screenshot=true#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/joe-bell/plaiceholder?screenshot=true#coc-ov-file)
+
+[Activity](https://github.com/joe-bell/plaiceholder/activity)
+
+### Stars
+
+[**2.3k** stars](https://github.com/joe-bell/plaiceholder/stargazers)
+
+### Watchers
+
+[**10** watching](https://github.com/joe-bell/plaiceholder/watchers)
+
+### Forks
+
+[**73** forks](https://github.com/joe-bell/plaiceholder/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fjoe-bell%2Fplaiceholder&report=joe-bell+%28user%29)
+
+[Releases 13](https://github.com/joe-bell/plaiceholder/releases)
+----------------------------------------------------------------
+
+[v3.0.0 Latest May 24, 2023](https://github.com/joe-bell/plaiceholder/releases/tag/v3.0.0)
+
+[\+ 12 releases](https://github.com/joe-bell/plaiceholder/releases)
+
+Sponsor this project
+--------------------
+
+*   [https://joebell.co.uk/sponsors](https://joebell.co.uk/sponsors)
+
+[Used by 4.7k](https://github.com/joe-bell/plaiceholder/network/dependents)
+---------------------------------------------------------------------------
+
+[* ![Image 36: @RohanKhatua](https://avatars.githubusercontent.com/u/90958884?s=64&v=4) * ![Image 37: @adryserage](https://avatars.githubusercontent.com/u/17680194?s=64&v=4) * ![Image 38: @gabeodame](https://avatars.githubusercontent.com/u/66753945?s=64&v=4) * ![Image 39: @liudaye18108064499](https://avatars.githubusercontent.com/u/179396120?s=64&v=4) * ![Image 40: @rexali](https://avatars.githubusercontent.com/u/32009443?s=64&v=4) * ![Image 41: @Leonn-twww](https://avatars.githubusercontent.com/u/194895863?s=64&v=4) * ![Image 42: @BobbiSixkiller](https://avatars.githubusercontent.com/u/27970264?s=64&v=4) * ![Image 43: @ProjectZeroDays](https://avatars.githubusercontent.com/u/56379955?s=64&v=4) \+ 4,708](https://github.com/joe-bell/plaiceholder/network/dependents)
+
+[Contributors 14](https://github.com/joe-bell/plaiceholder/graphs/contributors)
+-------------------------------------------------------------------------------
+
+Languages
+---------
+
+*   [TypeScript 96.9%](https://github.com/joe-bell/plaiceholder/search?l=typescript)
+*   [JavaScript 2.6%](https://github.com/joe-bell/plaiceholder/search?l=javascript)
+*   [Shell 0.5%](https://github.com/joe-bell/plaiceholder/search?l=shell)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

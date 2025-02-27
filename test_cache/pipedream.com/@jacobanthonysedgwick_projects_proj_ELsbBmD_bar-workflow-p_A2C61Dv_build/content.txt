@@ -1,0 +1,18 @@
+Create your free account
+------------------------
+
+Sign up with Google
+
+Sign up with GitHub
+
+or
+
+Email
+
+Password
+
+Sign up
+
+By signing up, you agree to Pipedream's [Terms of Service](https://pipedream.com/terms) and [Privacy Policy](https://pipedream.com/privacy).
+
+Already have an account? [Sign In](https://pipedream.com/auth/login?r=/@jacobanthonysedgwick/projects/proj_ELsbBmD/bar-workflow-p_A2C61Dv/build)

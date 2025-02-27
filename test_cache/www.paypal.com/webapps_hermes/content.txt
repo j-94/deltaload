@@ -1,0 +1,9 @@
+PayPal
+===============
+
+Things don’t appear to be working at the moment.
+
+*   [Policies](https://www.paypal.com/US/cgi-bin/webscr?cmd=xpt/cps/popup/FundingMixEducation-outside&locale.x=en_US)
+*   [Terms](https://www.paypal.com/webapps/mpp/ua/legalhub-full?country.x=US&locale.x=en_US)
+*   [Privacy](https://www.paypal.com/webapps/mpp/ua/privacy-full?country.x=US&locale.x=en_US)
+*   © 1999 - 2025

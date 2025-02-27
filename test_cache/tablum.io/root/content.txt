@@ -1,0 +1,339 @@
+TABLUM.IO — Ingest raw unstructured data into an analytics-ready SQL tables.
+===============
+
+TABLUM.IO
+
+ 
+
+  
+
+[![Image 10: Company](https://static.tildacdn.one/tild3336-3131-4639-b636-383037623664/big_full_logo.png)](https://tablum.io/)
+
+*   [Blog](https://blog.tablum.io/)
+*   [Pricing](https://tablum.io/pricing)
+*   [✉ info@tablum.io](mailto:info@tablum.io)
+
+     
+
+**Pipeline Raw Data Into**  
+**an Analysis-Ready SQL Database**
+
+
+===================================================================
+
+Transform data from CSV, XML, JSON, MS Excel & Google Sheets into a live SQL database, and explore it via a powerful SQL console and standard database connector, or pipeline it to your Data Warehouse without coding.  
+
+[<table role="presentation" style="width:100%; height:100%;"><tbody><tr><td data-field="buttontitle">Try It For Free</td></tr></tbody></table>](https://tablum.io/try)
+
+[<table role="presentation" style="width:100%; height:100%;"><tbody><tr><td data-field="buttontitle2">Contact Us</td></tr></tbody></table>](https://tablum.io/#rec501239748)
+
+Pipeline Raw Data Into  
+an Analysis-Ready SQL Database
+
+
+===========================================================
+
+Transform data from CSV, XML, JSON, MS Excel & Google Sheets into a live SQL database, and explore it via a powerful SQL console and standard database connector, or pipeline it to your Data Warehouse without coding.
+
+[<table role="presentation" style="width:100%; height:100%;"><tbody><tr><td data-field="buttontitle">Try It For Free</td></tr></tbody></table>](https://tablum.io/try)
+
+[<table role="presentation" style="width:100%; height:100%;"><tbody><tr><td data-field="buttontitle2">Contact Us</td></tr></tbody></table>](https://tablum.io/#rec501239748)
+
+Data Integration
+
+TABLUM.IO is a data integration and preparation SaaS solution that imports data from various data sources, such as flat files and 3rd-party service APIs, into a ready-to-use database without coding.  
+  
+TABLUM.IO streamlines the integration of raw unstructured data. It normalizes data upon loading and stores the results in a ready-to-use relational database powered by ClickHouse.
+
+ 
+
+  
+Data Integration
+
+TABLUM.IO is a data integration and preparation SaaS solution that imports data from various data sources, such as flat files and 3rd-party service APIs, into a ready-to-use database without coding.  
+  
+TABLUM.IO streamlines the integration of raw unstructured data. It normalizes data upon loading and stores the results in a ready-to-use relational database powered by ClickHouse.  
+  
+
+ ![Image 11](https://thb.tildacdn.one/tild3334-3631-4330-b935-303532663437/-/empty/1_1_1.png)
+
+Data Cleansing
+
+TABLUM.IO turns inconsistent and “dirty” data stored across multiple data sources into a consistent and well-structured dataset in seconds.  
+  
+It automatically recognizes data column types, applies date and time formatting, parses and normalizes financial data to provide ready-to-use datasets for your favourite Business Intelligence & Data Analytics apps.  
+  
+TABLUM.IO minimizes data engineering efforts required for data preparation.
+
+ 
+
+  
+Data Cleansing
+
+TABLUM.IO turns inconsistent and “dirty” data stored across multiple data sources into a consistent and well-structured dataset in seconds.  
+  
+It automatically recognizes data column types, applies date and time formatting, parses and normalizes financial data to provide ready-to-use datasets for your favourite Business Intelligence & Data Analytics apps.  
+  
+TABLUM.IO minimizes data engineering efforts required for data preparation.
+
+ ![Image 12](https://thb.tildacdn.one/tild3562-3533-4361-a335-643561343530/-/empty/test.png)
+
+Enhanced Transformation
+
+TABLUM.IO provides unlimited data transformation, merging and aggregation capabilities over the imported data. It keeps the workflow transparent and the datasets available for digestion by 3rd party tools at each step.  
+  
+Power users can build a sequence of transformations using comprehensive ClickHouse SQL dialect with hundreds of ready-to-use functions from statistics, text processing, and data manipulation fields.
+
+ 
+
+  
+Enhanced Transformation
+
+TABLUM.IO provides unlimited data transformation, merging and aggregation capabilities over the imported data. It keeps the workflow transparent and the datasets available for digestion by 3rd party tools at each step.  
+  
+Power users can build a sequence of transformations using comprehensive ClickHouse SQL dialect with hundreds of ready-to-use functions from statistics, text processing, and data manipulation fields.
+
+ ![Image 13](https://thb.tildacdn.one/tild3136-3964-4662-b565-313061383965/-/empty/test_3.png)
+
+Data Pipelining & Export
+
+TABLUM.IO is a missing element in your Data Stack. It can be easily integrated with your favorite Business Intelligence platforms or Data Visualization applications via a common ClickHouse DB connector.  
+  
+Imported and cleansed data can be shared as ClickHouse tables for further usage in Data Analytics software or instantly downloaded as CSV, TSV, JSON, or XML files.
+
+ 
+
+  
+Data Pipelining & Export
+
+TABLUM.IO is a missing element in your Data Stack. It can be easily integrated with your favorite Business Intelligence platforms or Data Visualization applications via a common ClickHouse DB connector.  
+  
+Imported and cleansed data can be shared as ClickHouse tables for further usage in Data Analytics software or instantly downloaded as CSV, TSV, JSON, or XML files.
+
+ ![Image 14](https://thb.tildacdn.one/tild6436-3436-4334-b866-303835653532/-/empty/test_1.png)
+
+Product Features
+
+*   **Data Import via URL**
+    
+    Provides an embedded HTTP client that downloads content over the HTTP(S). Loads any supported data from websites and remote servers via the URLs.
+    
+*   **REST/SOAP clients**
+    
+    Fetches data from 3rd-party services via REST or SOAP-based APIs. Supports custom HTTP headers, iterators & loops, URL parameters, and scheduled runs.
+    
+*   **Import from the Clipboard**
+    
+    Supports copy-and-paste operations for any HTML tables, Google Spreadsheets & MS Excel. Turns the Clipboard content into a relational table instantly.
+    
+
+*   **Import from Flat Files**
+    
+    Loads data from any flat file or unstructured dataset stored in CSV, TSV with custom separator, LOG file, JSON, XML, ODT, MS Excel 2003/2007 with million+ rows.
+    
+*   **Import from Google Sheets**
+    
+    Provides a versatile Google Spreadsheet connector for privately-accessed documents. One connector for multiple documents that belong to an authorized user.
+    
+*   **Import from JSON & XML**
+    
+    Turns nested data from JSON and XML into relational tables instantly: automatic de-nesting of hierarchical structures, multi-level iterators, and data type recognition.
+    
+
+*   **Drag-n-Drop File Import**
+    
+    Turns flat and semi-structured files into a relational table with drag-n-drop. Supported formats: CSV, JSON, XML, LOG, TSV, ODT, MS Excel. Custom delimiter support.
+    
+*   **RegExp-based Parsing**
+    
+    Provides unstructured data import via custom regexp-based text parsing. The easiest way to import raw flat data from text logs and .txt files into a relational table.
+    
+*   **Auto Type Recognition**
+    
+    Implements intelligent data type detection upon import. Normalizes dates, parses financial records, reformats numbers, and automatically makes data consistent.
+    
+
+*   **Data Profiling**
+    
+    Provides one-click data profiling with all the necessary figures: Min/Max/Average/Median/Null Cells/Empty Cells/etc. It helps to discover content quickly.
+    
+*   **Data Cleansing**
+    
+    Cleanses data upon import automatically and provides additional manual functionality to edit loaded data, change column types, and remove specific columns and rows.
+    
+*   **Table Visualization**
+    
+    Visualizes loaded data as an easy-reading spreadsheet with typography and perfect data formatting. It provides a context menu to access shortcuts and manipulate data.
+    
+
+*   **Multi-Level Queries**
+    
+    Supports SQL-based subqueries for the data imported into TABLUM.IO. Provides rich ClickHouse SQL dialect to query, aggregate, and transform data step-by-step.
+    
+*   **SQL-based Transformations**
+    
+    Supports ClickHouse SQL dialect with hundreds of ready-to-use functions for string & date processing, arithmetics, machine learning, aggregation, and statistics.
+    
+*   **Database Connectors**
+    
+    Provides ready-to-use connectors to relational databases: Postgres, MySQL, MS SQL, and ClickHouse. Integrates and merges data from heterogeneous databases.
+    
+
+*   **Export in Multiple Formats**
+    
+    Exports the result of data integration and data preparation in multiple formats, including CSV, XML, JSON, and TSV. Save the results of data cleansing with just a click.
+    
+*   **Scheduled Imports**
+    
+    Provides scheduled data import for the data stored in the database and data loaded via URL. Allows configuring the interval of data update every minute or less often.
+    
+*   **Direct Database Access**
+    
+    Enables data pipelining and data sharing using direct access to the prepared data via the common ClickHouse interface. Connect your favourite BI/Data apps directly.
+    
+
+Product Features
+
+*   Data Import via URL
+    
+    Provides an embedded HTTP client that downloads content over the HTTP(S). Loads any supported data from websites and remote servers via the URLs.
+    
+*   REST/SOAP clients
+    
+    Fetches data from 3rd-party services via REST or SOAP-based APIs. Supports custom HTTP headers, iterators & loops, URL parameters, and scheduled runs.
+    
+*   Import from the Clipboard
+    
+    Supports copy-and-paste operations for any HTML tables, Google Spreadsheets & MS Excel. Turns the Clipboard content into a relational table instantly.
+    
+*   Import from Flat Files
+    
+    Loads data from any flat file or unstructured dataset stored in CSV, TSV with custom separator, LOG file, JSON, XML, ODT, MS Excel 2003/2007 with million+ rows.
+    
+*   Import from Google Sheets
+    
+    Provides a versatile Google Spreadsheet connector for privately-accessed documents. One connector for multiple documents that belong to an authorized user.
+    
+*   Import from JSON & XML
+    
+    Turns nested data from JSON and XML into relational tables instantly: automatic de-nesting of hierarchical structures, multi-level iterators, and data type recognition.
+    
+*   Drag-n-Drop File Import
+    
+    Turns flat and semi-structured files into a relational table with drag-n-drop. Supported formats: CSV, JSON, XML, LOG, TSV, ODT, MS Excel. Custom delimiter support.
+    
+*   RegExp-based Parsing
+    
+    Provides unstructured data import via custom regexp-based text parsing. The easiest way to import raw flat data from text logs and .txt files into a relational table.
+    
+*   Auto Type Recognition
+    
+    Implements intelligent data type detection upon import. Normalizes dates, parses financial records, reformats numbers, and automatically makes data consistent.
+    
+*   Data Profiling
+    
+    Provides one-click data profiling with all the necessary figures: Min/Max/Average/Median/Null Cells/Empty Cells/etc. It helps to discover content quickly.
+    
+*   Data Cleansing
+    
+    Cleanses data upon import automatically and provides additional manual functionality to edit loaded data, change column types, and remove specific columns and rows.
+    
+*   Table Visualization
+    
+    Visualizes loaded data as an easy-reading spreadsheet with typography and perfect data formatting. It provides a context menu to access shortcuts and manipulate data.
+    
+*   Multi-Level Queries
+    
+    Supports SQL-based subqueries for the data imported into TABLUM.IO. Provides rich ClickHouse SQL dialect to query, aggregate, and transform data step-by-step.
+    
+*   SQL-based Transformations
+    
+    Supports ClickHouse SQL dialect with hundreds of ready-to-use functions for string & date processing, arithmetics, machine learning, aggregation, and statistics.
+    
+*   Database Connectors
+    
+    Provides ready-to-use connectors to relational databases: Postgres, MySQL, MS SQL, and ClickHouse. Integrates and merges data from heterogeneous databases.
+    
+*   Export in Multiple Formats
+    
+    Exports the result of data integration and data preparation in multiple formats, including CSV, XML, JSON, and TSV. Save the results of data cleansing with just a click.
+    
+*   Scheduled Imports
+    
+    Provides scheduled data import for the data stored in the database and data loaded via URL. Allows configuring the interval of data update every minute or less often.
+    
+*   Direct Database Access
+    
+    Enables data pipelining and data sharing using direct access to the prepared data via the common ClickHouse interface. Connect your favourite BI/Data apps directly.
+    
+
+Frequently Asked Questions About TABLUM.IO
+
+If you have any additional questions, please contact us at [info@tablum.io](mailto:info@tablum.io), and we will gladly help you.
+
+Who can benefit from using TABLUM.IO?
+
+TABLUM.IO can be beneficial to anyone who works with data, regardless of their technical background or level of expertise. Specifically, it can be useful for data analysts, business intelligence professionals, data scientists, researchers, and anyone who needs to clean and prepare data for analysis. Additionally, it can be helpful for small business owners, entrepreneurs, and startup founders who need to make data-driven decisions but may not have a dedicated data team. TABLUM.IO can save time and increase productivity for anyone who wants to streamline their data preparation process and focus on analyzing data.
+
+What advantages does TABLUM.IO offer compared to using custom Python scripts for data preparation tasks?
+
+While Python scripts can be useful for data analysis, not all data engineers have a strong background in programming and may find it time-consuming to create scripts from scratch. TABLUM.IO is a specialized data preparation tool that can automate and streamline many data engineering tasks, saving time and improving efficiency in the data preparation process.  
+  
+Unlike writing code, TABLUM.IO requires no coding skills, making it an ideal solution for data engineers and analysts without programming experience. TABLUM.IO is designed to be user-friendly and intuitive for non-technical users, allowing for a more efficient data ingestion process.
+
+**How does TABLUM.IO differ from other low-code ETL tools in terms of file-loading operations?**
+
+TABLUM.IO is designed to simplify and streamline the data ingestion process, with a focus on files, custom API responses, and feeds. Unlike other tools, it requires minimal to no coding for most cases and is especially effective for raw unstructured datasets.
+
+What sets TABLUM.IO apart from other low-code ETL tools in terms of data schema detection?
+
+Competing ETL tools often have the disadvantage of being excessive for many data engineering tasks related to files, API responses, and feeds. Additionally, installing, configuring, and maintaining these solutions can be time-consuming and require significant effort. Furthermore, if there is heterogeneous source data, it may take considerable time to reconfigure and adjust the solution to new inputs.  
+  
+With TABLUM.IO, there is no need to go through the hassle of installing, configuring, and maintaining the solution. TABLUM.IO can be used out of the box with ease. Schema detection is a strong suit of TABLUM.IO, making it easier and faster to ingest data. TABLUM.IO is a user-friendly and efficient tool for data engineers and analysts to prepare and transform their data.
+
+Can TABLUM.IO handle nested structures found in JSON and XML datasets?
+
+Yes, TABLUM.IO can handle nested structures from JSON and XML datasets. It automatically selects the most suitable root node (or the user can specify the root node via node selector) and then flattens the nested structure up to the 3rd level into separate columns, creating a single SQL table. During the import, the user can also specify which columns to keep and which ones to remove. The resulting dataset will be stored as a SQL table. For more detailed information, please refer to this [post](https://blog.tablum.io/tpost/mh4pah9lm1-how-to-convert-a-json-dataset-into-sql-f).
+
+Does TABLUM.IO support importing data from Google Sheets?
+
+TABLUM.IO supports Google Sheets as a data source and provides a universal connector that can be configured with a specific Google account to access all Google Sheet documents. Once the connector is configured, you can easily and securely import Google Sheets documents from your Google account into TABLUM.IO with just a few clicks. For more detailed instructions on how to set up and use the Google Sheets connector in TABLUM.IO, please refer to this [post](https://blog.tablum.io/tpost/auayipyzm1-how-to-provide-sql-access-to-ms-excel-fi).
+
+Get in touch with us:
+
+   
+
+Name
+
+Email
+
+Tell us what kind of solution you are looking for or ask questions:
+
+*   Required Field
+*   Please enter a valid email address
+
+Send
+
+*   Required Field
+*   Please enter a valid email address
+
+By clicking the button you agree to our [Privacy Policy](https://tablum.io/privacy-policy)
+
+See our other projects: [AI Workflow Automation](https://extractum.io/) and [Website Recovering Platform](https://walive.io/)
+
+ [![Image 16](https://counter.yadro.ru/hit?t50.1;r;s800*600*24;uhttps%3A//tablum.io/;hTABLUM.IO%20%u2014%20Ingest%20raw%20unstructured%20data%20into%20an%20analytics-ready%20SQL%20tables.;0.13728195068837556)](https://www.liveinternet.ru/click)
+
+This website uses cookies. Cookies remember your actions and preferences for a better online experience.
+
+    
+
+*   [Term of Use](https://tablum.io/term-of-use)
+*   [Privacy Policy](https://tablum.io/privacy-policy)
+*   [Cookie Policy](https://tablum.io/cookie-policy)
+*   [info@tablum.io](mailto:info@tablum.io)
+
+[Back to top](javascript:t389_scrollToTop();)
+
+© 2021-2022 All Rights Reserved, RELATO GARRIDO LDA, Rua das Palmeiras, Lote 5, 244, Quinta da Marinha, Cascais, Portugal
+
+[Made on ![Image 17](https://static.tildacdn.one/img/tildacopy.png) Tilda](https://tilda.cc/)

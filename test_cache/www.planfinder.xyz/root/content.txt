@@ -1,0 +1,104 @@
+PlanFinder
+
+Home
+
+Download
+
+Pricing
+
+Chonk
+
+About
+
+FAQ
+
+Contact
+
+More
+
+Draw
+
+Plans
+
+Faster
+
+Draw floorplans faster with the PlanFinder plugin.
+
+Download Trial
+
+Trusted by
+
+Speed up drawing plans with
+Machine Learning
+Design Faster
+In a few seconds, PlanFinder can generate, fit or furnish floor plans.
+Explore variations
+Compare multiple floor plan variations and explore trade-offs.
+Simple to use
+PlanFinders' accessible interface makes it easy to use for everyone. 
+Generate
+Generate floor plans by simply giving the outer boundary and the desired rooms. In a few seconds, multiple options are generated.
+
+Revit
+
+Rhino
+
+Fit
+Quickly fit apartment floor plans and explore variations. Recycle existing designs and create your own floor plan library.
+
+Revit
+
+Rhino
+
+GH
+
+Furnish
+Furnish a plan in less than a second, and customize it to your needs.
+
+Revit
+
+Rhino
+
+Manage
+Manage your own library of custom floor plans (residential, commercial, office, or something else) to reuse in future projects.
+
+Revit
+
+Available for your favorite software
+Autodesk Revit
+Grasshopper 3D
+Rhinoceros 3D
+Pricing
+Are you a Student?
+Free Trial
+30-day free trial
+Access to all PlanFinder plugins
+Access to all features of PlanFinder
+Generate up to 8 plans per run
+Add up to 8 custom plans
+0€
+No CC Required
+Download
+Pro
+Node-locked license
+Access to all PlanFinder plugins
+Access to all features of PlanFinder
+Generate up to 12 plans per run
+Add up to 16 custom plans
+10€ /mo
+Billed monthly
+Buy
+Enterprise
+Node-locked license
+Access to all PlanFinder plugins
+Access to all features of PlanFinder
+Generate up to 24 plans per run
+Add infinite custom plans
+20€ /mo
+Billed monthly
+Buy
+Get In Touch
+Submit
+© PlanFinder 2025
+Registered in the Netherlands
+KVK: 72330546

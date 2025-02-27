@@ -1,0 +1,750 @@
+VIN decoder, check a car and get vehicle history report | carVertical
+===============
+  
+
+[![Image 79: carVertical](https://www.carvertical.com/logo.svg)](https://www.carvertical.com/gb)
+
+*   Reports
+    
+*   For business
+    
+*   Company
+    
+*   [Blog](https://www.carvertical.com/gb/blog "Blog")
+*   [Help](https://www.carvertical.com/gb/help "Help")
+
+Log In
+
+Sign Up
+
+Check the history of any used car
+=================================
+
+Over 2 in 10 cars have been damaged – get a vehicle history report and avoid safety issues.
+
+Choose input mode between VIN number and license plate
+
+VIN
+
+Reg
+
+Enter VIN
+
+![Image 80: gb flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fgb.png&w=3840&q=100)
+
+GB
+
+Enter Reg
+
+Enter Reg
+
+Check vehicle
+
+[Buy now, check later](https://www.carvertical.com/gb/landing/no-vin-precheck)
+
+With carVertical you may get information about:
+
+Recorded images
+
+Damage
+
+Theft records
+
+Mileage rollbacks
+
+Specs & equipment
+
+Emission taxes
+
+Market value
+
+Safety
+
+Financial restrictions
+
+Natural disaster
+
+![Image 81](https://www.carvertical.com/_next/image?url=%2Fimages%2FhomeStat%2Fstat-facts-mobile-en-gb.png&w=750&q=100)
+
+![Image 82: Trustpilot clients](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Ftrustpilot-avatars-clean-2b953ad6a455f9af605004da6f120b83.png&w=256&q=75)
+
+Trusted by over 1,800,000 people across 30 countries
+
+*   ![Image 83: autobild](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fautobild-10c0c55f5ed19ae91dd1da8fd623071e.png&w=48&q=75)
+    
+*   ![Image 84: topgear](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Ftopgear-4296f3d5ffa655a4962999498bc0401b.png&w=256&q=75)
+    
+*   ![Image 85: Forbes](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fforbes-4329d773d0aaf4ddef0d78cbdc14d722.png&w=256&q=75)
+    
+*   ![Image 86: Reuters](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Freuters-f5a15ae8bf1a141f5205c32b89ada19f.png&w=256&q=75)
+    
+
+What we check for when preparing a report
+-----------------------------------------
+
+carVertical is the largest online database of used vehicle records. It contains more than a billion data points from all over the world.
+
+Recorded images
+
+Damage
+
+Theft records
+
+Mileage rollbacks
+
+Specs & equipment
+
+Emission taxes
+
+Market value
+
+Safety
+
+Financial restrictions
+
+Natural disaster
+
+![Image 87](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Fphotos-en.png&w=828&q=100)
+
+### Recorded images
+
+Knowing how the car looked in the past is very important for understanding its history and learning about damaged or weak spots.
+
+![Image 88](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Fdamage-en-gb.png&w=828&q=100)
+
+### Damage
+
+No one wants a car with hidden damages. This may result in overpaying or road-safety issues.
+
+![Image 89](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Fstolen-vehicle-check-en-gb.png&w=828&q=100)
+
+### Theft records
+
+We check millions of records from international and local law enforcement to make sure a car wasn't stolen in any country.
+
+![Image 90](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Fmileage-en-gb.png&w=828&q=100)
+
+### Mileage rollbacks
+
+Mileage fraud is more common than you think. You're not only overpaying for the car but also might end up with a hefty repair bill.
+
+![Image 91](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Fspecifications-en-gb.png&w=828&q=100)
+
+### Specs & equipment
+
+The specs/equipment of the vehicle provided by the seller may not always match with the actual facts. Compare them when evaluating vehicles.
+
+![Image 92](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Femission-taxes-en-gb.png&w=828&q=100)
+
+### Emission taxes
+
+Learn how much the vehicle will cost in taxes. Each vehicle is assigned a VED (Vehicle Excise Duty) band, determined by its level of emissions.
+
+![Image 93](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Fvaluation-en-gb.png&w=828&q=100)
+
+### Market value
+
+Don't overestimate when buying or selling the car. Compare the average price of the vehicle you're checking to other similar vehicles of the same model and year.
+
+![Image 94](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Fsafety-en-gb.png&w=828&q=100)
+
+### Safety
+
+Manufacturers typically issue safety recalls to fix harmful defects. Make sure your car doesn't have any before taking it on the road and also learn its general safety rating.
+
+![Image 95](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Ffinancial-restrictions-en-gb.png&w=828&q=100)
+
+### Financial restrictions
+
+No one wants a car with unpaid lease or other hidden debts. Avoid unnecessary financial hardship on the vehicle.
+
+![Image 96](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Fnatural-disasters-en-gb.png&w=828&q=100)
+
+### Natural disaster
+
+Make sure if your vehicle wasn’t located in a natural disaster area (flood, fire, volcanic eruption, etc.) and wasn’t affected by specific damages.
+
+![Image 97](https://www.carvertical.com/_next/image?url=%2Fimages%2Ffeatures%2Fphotos-en.png&w=828&q=100)
+
+### Recorded images
+
+Knowing how the car looked in the past is very important for understanding its history and learning about damaged or weak spots.
+
+Choose wisely
+-------------
+
+Make sure your new car is a trusty companion
+
+### Avoid expensive mistakes
+
+Learn the history of any car to ensure you're not buying a money sink.
+
+### Save precious time
+
+Test drives take hours, so filter out the noise before you go.
+
+### Negotiate a better deal
+
+Once you've found your next vehicle, we'll have the facts to get that price down.
+
+### Avoid expensive mistakes
+
+Learn the history of any car to ensure you're not buying a money sink.
+
+Hear from people like you
+-------------------------
+
+See why they're using carVertical to make smarter car deals.
+
+Verified review
+
+Very reassuring before buying a used car. The site offers plenty of checks across multiple verification services. Very detailed and comprehensive report.
+
+Jc
+
+Verified review
+
+Overall, the app is good. A bit pricey, but worth it. Better to pay £30 once than spend hundreds or thousands on a car that's been through the wars. It helped me find what I wanted, while avoiding damaged cars with fake mileage!
+
+Sasha
+
+Verified review
+
+Everything's spot on. Thanks to the carVertical report, I avoided buying a car that showed 40,000 miles on the clock instead of the 135,000 it really had! Very helpful.
+
+Rolando
+
+Vehicle history report
+----------------------
+
+Avoid costly problems by checking a car's history. Get a report instantly.
+
+Choose input mode between VIN number and license plate
+
+VIN
+
+Reg
+
+Enter VIN
+
+![Image 98: gb flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fgb.png&w=3840&q=100)
+
+GB
+
+Enter Reg
+
+Enter Reg
+
+Check vehicle
+
+[I don't have a VIN](https://www.carvertical.com/gb/landing/no-vin-precheck)
+
+Trusted by over 1,800,000 people across 30 countries
+
+*   ![Image 99: autobild](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fautobild-10c0c55f5ed19ae91dd1da8fd623071e.png&w=48&q=75)
+    
+*   ![Image 100: topgear](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Ftopgear-4296f3d5ffa655a4962999498bc0401b.png&w=256&q=75)
+    
+*   ![Image 101: Forbes](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fforbes-4329d773d0aaf4ddef0d78cbdc14d722.png&w=256&q=75)
+    
+*   ![Image 102: Reuters](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Freuters-f5a15ae8bf1a141f5205c32b89ada19f.png&w=256&q=75)
+    
+
+Vehicle history report
+----------------------
+
+Avoid costly problems by checking a car's history. Get a report instantly.
+
+Trusted by over 1,800,000 people across 30 countries
+
+*   ![Image 103: autobild](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fautobild-10c0c55f5ed19ae91dd1da8fd623071e.png&w=48&q=75)
+    
+*   ![Image 104: topgear](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Ftopgear-4296f3d5ffa655a4962999498bc0401b.png&w=256&q=75)
+    
+*   ![Image 105: Forbes](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fforbes-4329d773d0aaf4ddef0d78cbdc14d722.png&w=256&q=75)
+    
+*   ![Image 106: Reuters](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Freuters-f5a15ae8bf1a141f5205c32b89ada19f.png&w=256&q=75)
+    
+
+Choose input mode between VIN number and license plate
+
+VIN
+
+Reg
+
+Enter VIN
+
+![Image 107: gb flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fgb.png&w=3840&q=100)
+
+GB
+
+Enter Reg
+
+Enter Reg
+
+Check vehicle
+
+[I don't have a VIN](https://www.carvertical.com/gb/landing/no-vin-precheck)
+
+Leading the way in automotive data
+----------------------------------
+
+Since our start in 2019, we've expanded into 30 markets and are continuously growing. The listed countries indicate where you can access carVertical reports.
+
+Our car history reports are based on data from 900+ international databases belonging to national car registries, insurance companies, law enforcement agencies, and other institutions.
+
+North America
+
+![Image 108: us flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fus.png&w=3840&q=100)
+
+US
+
+![Image 109: mx flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fmx.png&w=3840&q=100)
+
+Mexico
+
+Europe
+
+![Image 110: gb flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fgb.png&w=3840&q=100)
+
+United Kingdom
+
+![Image 111: lt flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Flt.png&w=3840&q=100)
+
+Lithuania
+
+![Image 112: ee flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fee.png&w=3840&q=100)
+
+Estonia
+
+![Image 113: lv flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Flv.png&w=3840&q=100)
+
+Latvia
+
+![Image 114: pl flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fpl.png&w=3840&q=100)
+
+Poland
+
+![Image 115: ro flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fro.png&w=3840&q=100)
+
+Romania
+
+![Image 116: hu flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fhu.png&w=3840&q=100)
+
+Hungary
+
+![Image 117: fr flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Ffr.png&w=3840&q=100)
+
+France
+
+![Image 118: ua flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fua.png&w=3840&q=100)
+
+Ukraine
+
+![Image 119: se flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fse.png&w=3840&q=100)
+
+Sweden
+
+![Image 120: be flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fbe.png&w=3840&q=100)
+
+Belgium
+
+![Image 121: cz flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fcz.png&w=3840&q=100)
+
+Czech Republic
+
+![Image 122: hr flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fhr.png&w=3840&q=100)
+
+Croatia
+
+![Image 123: bg flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fbg.png&w=3840&q=100)
+
+Bulgaria
+
+![Image 124: sk flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fsk.png&w=3840&q=100)
+
+Slovakia
+
+![Image 125: rs flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Frs.png&w=3840&q=100)
+
+Serbia
+
+![Image 126: fi flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Ffi.png&w=3840&q=100)
+
+Finland
+
+![Image 127: si flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fsi.png&w=3840&q=100)
+
+Slovenia
+
+![Image 128: de flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fde.png&w=3840&q=100)
+
+Germany
+
+![Image 129: it flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fit.png&w=3840&q=100)
+
+Italy
+
+![Image 130: ch flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fch.png&w=3840&q=100)
+
+Switzerland
+
+![Image 131: dk flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fdk.png&w=3840&q=100)
+
+Denmark
+
+![Image 132: es flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fes.png&w=3840&q=100)
+
+Spain
+
+![Image 133: pt flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fpt.png&w=3840&q=100)
+
+Portugal
+
+![Image 134: gr flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fgr.png&w=3840&q=100)
+
+Greece
+
+![Image 135: lv flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Flv.png&w=3840&q=100)
+
+![Image 136: pl flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fpl.png&w=3840&q=100)
+
+![Image 137: ro flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fro.png&w=3840&q=100)
+
+![Image 138: hu flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fhu.png&w=3840&q=100)
+
++22 Markets
+
+Oceania
+
+![Image 139: au flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fau.png&w=3840&q=100)
+
+Australia
+
+Africa
+
+![Image 140: za flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fza.png&w=3840&q=100)
+
+South Africa
+
+Middle East
+
+![Image 141: ae flag](https://www.carvertical.com/_next/image?url=%2Fimages%2Fflags%2Fae.png&w=3840&q=100)
+
+United Arab Emirates
+
+Boost your dealership business
+------------------------------
+
+Our products will make your automotive business more efficient, transparent and will increase customer satisfaction.
+
+*   Reduce the risk of unexpected costs
+    
+*   Simplify the car evaluation process
+    
+*   Accelerate your sales
+    
+
+[Become a business partner](https://www.carvertical.com/gb/business)
+
+Providing our users and partners with trust
+
+![Image 142](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fbusiness-hero-image-2-1004b4a4d3707223836d6028d6c5fbd9.jpg&w=3840&q=75)
+
+**2 200+**
+
+Happy business partners
+
+![Image 143](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Finsurance-hero-image-3-2672599c1b2ea119fe5d2bc97a62f863.jpg&w=3840&q=75)
+
+**1 800 000+**
+
+Unique users per month
+
+Providing our users and partners with trust
+
+![Image 144](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fbusiness-hero-image-2-1004b4a4d3707223836d6028d6c5fbd9.jpg&w=3840&q=75)
+
+**2 200+**
+
+Happy business partners
+
+![Image 145](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Finsurance-hero-image-3-2672599c1b2ea119fe5d2bc97a62f863.jpg&w=3840&q=75)
+
+**1 800 000+**
+
+Unique users per month
+
+![Image 146: Support team member: Brigida](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fbrigida-35f33916830a3a162bad98c6631da67f.png&w=128&q=75)![Image 147: Support team member: Paulius](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fpaulius-d0fd66c34f8eda300559478bda990087.png&w=128&q=75)![Image 148: Support team member: Kornelija](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Fkornelija-3b05f21b0bb631fb6ce2a113969d72fa.png&w=128&q=75)![Image 149: Support team member: Augis](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Faugis-9c9bef3ecc3da875c51cca548ade653b.png&w=128&q=75)![Image 150: Support team member: Toma](https://www.carvertical.com/_next/image?url=%2F_next%2Fstatic%2Fimages%2Ftoma-71dce211ac6b5d599b4a2ddfddb5b82f.png&w=128&q=75)
+
+Customer support is always here to help you
+-------------------------------------------
+
+Our support team is happy to assist you whenever you have a question. [Drop us a message](https://www.carvertical.com/gb/contacts#contact-form) and we will get back to you.
+
+### 97%
+
+satisfaction rate
+
+### 12-24h
+
+avg. response time
+
+### 24/7
+
+always available
+
+Blog
+----
+
+Read our latest news and detailed analysis
+
+[![Image 151](https://cdn.sanity.io/images/v2r3zeun/production/88392ecaa34baf3250d21789375306f2cd281db1-1920x1080.jpg?w=3840&q=75&fit=clip&auto=format) Buying and selling tips 2025-01-13 How to avoid buying a car on lease (and save lots of money) ----------------------------------------------------------- ![Image 152: Renata Liubertaitė](https://cdn.sanity.io/images/v2r3zeun/production/7652d1bf2b4de0954ff2cf07657cdd0517444079-2560x2560.jpg?w=3840&q=75&fit=clip&auto=format) Renata Liubertaitė](https://www.carvertical.com/gb/blog/how-to-avoid-buying-car-on-lease)
+
+[![Image 153](https://cdn.sanity.io/images/v2r3zeun/production/db8fe4b9053f1b6c98c829d42a5c6596163a9dbf-1920x1080.jpg?w=3840&q=75&fit=clip&auto=format) Research 2025-01-09 Research: How common are cars with unresolved recalls, and should you ignore them? ---------------------------------------------------------------------------------- ![Image 154: Karolis Bareckas](https://cdn.sanity.io/images/v2r3zeun/production/b4f8e58ecb2847b0b61b0f9e64bc0d5855644b03-1000x1000.jpg?w=2048&q=75&fit=clip&auto=format) Karolis Bareckas](https://www.carvertical.com/gb/blog/cars-with-unresolved-recalls)
+
+[![Image 155](https://cdn.sanity.io/images/v2r3zeun/production/3d54fb6e3c537a9d5c33166e595fd5638d4f633e-1920x1080.jpg?w=3840&q=75&fit=clip&auto=format) Buying and selling tips 2025-01-06 How to identify a taxi when looking for a used car -------------------------------------------------- ![Image 156: Evaldas Zabitis](https://cdn.sanity.io/images/v2r3zeun/production/ae871ab994b173eb1a25dcd2ee1bf03ae8a5ade1-1000x1000.jpg?w=2048&q=75&fit=clip&auto=format) Evaldas Zabitis](https://www.carvertical.com/gb/blog/identify-taxi-when-looking-for-used-car)
+
+[All posts](https://www.carvertical.com/gb/blog)
+
+Join our newsletter
+-------------------
+
+We'll keep you updated with exciting news, useful content and promotions.
+
+Enter your email
+
+Subscribe
+
+Subscribe
+
+You may opt out any time. For more details, review our [Privacy Policy.](https://www.carvertical.com/gb/privacy-policy)
+
+Download our app
+----------------
+
+Buying or selling a used car? Try our app!
+
+*   [Play Store](https://play.google.com/store/apps/details?id=com.cvmobileapp "Play Store")
+*   [App Store](https://apps.apple.com/us/app/carvertical-check-car-history/id1528834650 "App Store")
+
+Reports
+-------
+
+*   [Sample Report](https://www.carvertical.com/gb/sample-report)
+    
+*   [Sample Report](https://www.carvertical.com/gb/sample-report)
+    
+*   [Pricing](https://www.carvertical.com/gb/pricing)
+    
+*   [Pricing](https://www.carvertical.com/gb/pricing)
+    
+*   [B2B pricing](https://www.carvertical.com/gb/business#pricing)
+    
+*   [B2B pricing](https://www.carvertical.com/gb/business#pricing)
+    
+*   [Why choose us?](https://www.carvertical.com/gb/advantages)
+    
+*   [Why choose us?](https://www.carvertical.com/gb/advantages)
+    
+*   [Features](https://www.carvertical.com/gb/features)
+    
+*   [Features](https://www.carvertical.com/gb/features)
+    
+*   [VIN Decoder UK: Free VIN Number Check](https://www.carvertical.com/gb/vin-decoder)
+    
+*   [VIN Decoder UK: Free VIN Number Check](https://www.carvertical.com/gb/vin-decoder)
+    
+*   [Motorcycle VIN lookup](https://www.carvertical.com/gb/motorcycle-vin-check)
+    
+*   [Motorcycle VIN lookup](https://www.carvertical.com/gb/motorcycle-vin-check)
+    
+
+For business
+------------
+
+*   [Dealerships](https://www.carvertical.com/gb/business)
+    
+*   [Dealerships](https://www.carvertical.com/gb/business)
+    
+*   [Insurance companies](https://www.carvertical.com/gb/business/insurance)
+    
+*   [Insurance companies](https://www.carvertical.com/gb/business/insurance)
+    
+*   [Leasing companies](https://www.carvertical.com/gb/business/leasing)
+    
+*   [Leasing companies](https://www.carvertical.com/gb/business/leasing)
+    
+*   [API integration](https://www.carvertical.com/en/business/api)
+    
+*   [API integration](https://www.carvertical.com/en/business/api)
+    
+*   [Affiliate program](https://www.carvertical.com/gb/affiliate-program)
+    
+*   [Affiliate program](https://www.carvertical.com/gb/affiliate-program)
+    
+*   [Influencers program](https://www.carvertical.com/gb/influencers)
+    
+*   [Influencers program](https://www.carvertical.com/gb/influencers)
+    
+
+Resources
+---------
+
+*   [Blog](https://www.carvertical.com/gb/blog)
+    
+*   [Blog](https://www.carvertical.com/gb/blog)
+    
+*   [Help](https://www.carvertical.com/gb/help)
+    
+*   [Help](https://www.carvertical.com/gb/help)
+    
+*   [Used car market transparency index](https://www.carvertical.com/gb/transparency-index)
+    
+*   [Used car market transparency index](https://www.carvertical.com/gb/transparency-index)
+    
+*   [Student discount](https://connect.studentbeans.com/v4/hosted/carvertical/uk)
+    
+*   [Student discount](https://connect.studentbeans.com/v4/hosted/carvertical/uk)
+    
+
+Mobile Apps
+-----------
+
+*   [VIN Decoder for Android](https://play.google.com/store/apps/details?id=com.cvmobileapp)
+    
+*   [VIN Decoder for Android](https://play.google.com/store/apps/details?id=com.cvmobileapp)
+    
+*   [VIN Decoder for iOS](https://apps.apple.com/us/app/carvertical-check-car-history/id1528834650)
+    
+*   [VIN Decoder for iOS](https://apps.apple.com/us/app/carvertical-check-car-history/id1528834650)
+    
+
+Company
+-------
+
+*   [About Us](https://www.carvertical.com/gb/about-us)
+    
+*   [About Us](https://www.carvertical.com/gb/about-us)
+    
+*   [Contacts](https://www.carvertical.com/gb/contacts)
+    
+*   [Contacts](https://www.carvertical.com/gb/contacts)
+    
+*   [Press Area](https://www.carvertical.com/gb/press)
+    
+*   [Press Area](https://www.carvertical.com/gb/press)
+    
+
+Decoders by Make
+----------------
+
+*   [Audi VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/audi-vin-decoder)
+    
+*   [Audi VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/audi-vin-decoder)
+    
+*   [Chevrolet VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/chevrolet-vin-decoder)
+    
+*   [Chevrolet VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/chevrolet-vin-decoder)
+    
+*   [Dodge VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/dodge-vin-decoder)
+    
+*   [Dodge VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/dodge-vin-decoder)
+    
+*   [Ford VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/ford-vin-decoder)
+    
+*   [Ford VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/ford-vin-decoder)
+    
+*   [Jeep UK VIN Decoder: Free VIN check](https://www.carvertical.com/gb/jeep-vin-decoder)
+    
+*   [Jeep UK VIN Decoder: Free VIN check](https://www.carvertical.com/gb/jeep-vin-decoder)
+    
+*   [Lexus VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/lexus-vin-decoder)
+    
+*   [Lexus VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/lexus-vin-decoder)
+    
+*   [Mercedes VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/mercedes-benz-vin-decoder)
+    
+*   [Mercedes VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/mercedes-benz-vin-decoder)
+    
+*   [Nissan VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/nissan-vin-decoder)
+    
+*   [Nissan VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/nissan-vin-decoder)
+    
+*   [RAM VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/ram-vin-decoder)
+    
+*   [RAM VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/ram-vin-decoder)
+    
+*   [Toyota VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/toyota-vin-decoder)
+    
+*   [Toyota VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/toyota-vin-decoder)
+    
+*   [Volkswagen VIN decoder UK: Free VIN check](https://www.carvertical.com/gb/volkswagen-vin-decoder)
+    
+*   [Volkswagen VIN decoder UK: Free VIN check](https://www.carvertical.com/gb/volkswagen-vin-decoder)
+    
+
+Decoders by Make
+----------------
+
+*   [Audi VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/audi-vin-decoder)
+    
+*   [Chevrolet VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/chevrolet-vin-decoder)
+    
+*   [Dodge VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/dodge-vin-decoder)
+    
+*   [Ford VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/ford-vin-decoder)
+    
+*   [Jeep UK VIN Decoder: Free VIN check](https://www.carvertical.com/gb/jeep-vin-decoder)
+    
+*   [Lexus VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/lexus-vin-decoder)
+    
+*   [Mercedes VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/mercedes-benz-vin-decoder)
+    
+*   [Nissan VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/nissan-vin-decoder)
+    
+*   [RAM VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/ram-vin-decoder)
+    
+*   [Toyota VIN Decoder UK: Free VIN check](https://www.carvertical.com/gb/toyota-vin-decoder)
+    
+*   [Volkswagen VIN decoder UK: Free VIN check](https://www.carvertical.com/gb/volkswagen-vin-decoder)
+    
+
+Download our app
+----------------
+
+Buying or selling a used car? Try our app!
+
+*   [Play Store](https://play.google.com/store/apps/details?id=com.cvmobileapp "Play Store")
+*   [App Store](https://apps.apple.com/us/app/carvertical-check-car-history/id1528834650 "App Store")
+
+*   [](https://www.youtube.com/channel/UCRqoBXtP2v0H8C844YN8mdA "YouTube")
+*   [](https://www.facebook.com/carverticalcom/ "Facebook")
+*   [](https://www.instagram.com/carvertical_com/ "Instagram")
+*   [](https://linkedin.com/company/carvertical "LinkedIn")
+
+*   [Privacy](https://www.carvertical.com/gb/policies)
+    
+*   [Terms & Conditions](https://www.carvertical.com/gb/terms-and-conditions)
+    
+*   [Security](https://www.carvertical.com/information-security-management-system)
+    
+*   [Remove Your Data](https://www.carvertical.com/gb/remove-your-data)
+    
+*   [carVertical Refund Policy](https://www.carvertical.com/gb/refund-policy)
+    
+
+© 2025 carVertical. All rights reserved.
+
+  
+
+It’s your choice
+----------------
+
+This website uses various cookies. Your choices will be remembered during future visits. By clicking “Accept all”, you are agreeing with the use of cookies (including for analytical, functional, and marketing purposes).
+
+By clicking “Configure” you will be able to choose which cookies are used. If you would like to see more information, please visit our [Cookie Policy section.](https://www.carvertical.com/gb/cookie-policy)
+
+Accept all
+
+Configure

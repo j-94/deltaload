@@ -1,0 +1,144 @@
+Since v0.3.0, we are now providing a utility kit for easier DevTools integrations, similar to `@nuxt/kit`.
+
+```
+import { addCustomTab } from '@nuxt/devtools-kit'
+```
+
+We recommend module authors to install `@nuxt/devtools-kit` as a dependency and `@nuxt/devtools` as a dev dependency.
+
+### [`addCustomTab()`](https://devtools.nuxt.com/module/utils-kit#addcustomtab)
+
+A shorthand for calling the hook `devtools:customTabs`.
+
+```
+import { addCustomTab } from '@nuxt/devtools-kit'
+addCustomTab(() => ({
+  // unique identifier
+  name: 'my-module',
+  // title to display in the tab
+  title: 'My Module',
+  // any icon from Iconify, or a URL to an image
+  icon: 'carbon:apps',
+  // iframe view
+  view: {
+    type: 'iframe',
+    src: '/url-to-your-module-view',
+  },
+}))
+```
+
+### [`refreshCustomTabs()`](https://devtools.nuxt.com/module/utils-kit#refreshcustomtabs)
+
+A shorthand for call hook `devtools:customTabs:refresh`. It will refresh all custom tabs.
+
+### [`startSubprocess()`](https://devtools.nuxt.com/module/utils-kit#startsubprocess)
+
+Start a sub process using `execa` and create a terminal tab in DevTools.
+
+```
+import { startSubprocess } from '@nuxt/devtools-kit'
+const subprocess = startSubprocess(
+  {
+    command: 'code-server',
+    args: [
+      'serve-local',
+      '--accept-server-license-terms',
+      '--without-connection-token',
+      `--port=${port}`,
+    ],
+  },
+  {
+    id: 'devtools:vscode',
+    name: 'VS Code Server',
+    icon: 'logos-visual-studio-code',
+  },
+)
+```
+
+```
+subprocess.restart()
+subprocess.terminate()
+```
+
+### [`extendServerRpc()`](https://devtools.nuxt.com/module/utils-kit#extendserverrpc)
+
+Extend the server RPC with your own methods.
+
+```
+import { extendServerRpc } from '@nuxt/devtools-kit'
+const rpc = extendServerRpc('my-module', {
+  async myMethod() {
+    return 'hello'
+  },
+})
+```
+
+Learn more about [Custom RPC functions](https://devtools.nuxt.com/module/guide#custom-rpc-functions).
+
+To provide complex interactions for your module integrations, we recommend to host your own view and display it in devtools via iframe.
+
+To get the infomation from the devtools and the client app, you can do this in your client app:
+
+```
+import { useDevtoolsClient } from '@nuxt/devtools-kit/iframe-client'
+export const devtoolsClient = useDevtoolsClient()
+```
+
+When the iframe been served with the same origin (CORS limitation), devtools will automatically inject `__NUXT_DEVTOOLS__` to the iframe's window object. You can access it as a ref using `useDevtoolsClient()` utility.
+
+### [`useDevtoolsClient()`](https://devtools.nuxt.com/module/utils-kit#usedevtoolsclient)
+
+It will return a ref of `NuxtDevtoolsIframeClient` object that are intially `null` and will be updated when the connection is ready.
+
+`NuxtDevtoolsIframeClient` contains two properties:
+
+*   `host`: APIs to communicate with the main app in browser
+*   `devtools`: APIs to communicate with the devtools
+
+`host` can be undefined when devtools are accessed standalone or from a different origin.
+
+For example, you can get the router instance from the client app:
+
+```
+const router = computed(() => devtoolsClient.value?.host?.nuxt.vueApp.config.globalProperties?.$router)
+```
+
+### [`onDevtoolsClientConnected()`](https://devtools.nuxt.com/module/utils-kit#ondevtoolsclientconnected)
+
+Similiar to `useDevtoolsClient()` but as a callback style:
+
+```
+import { onDevtoolsClientConnected } from '@nuxt/devtools-kit/iframe-client'
+onDevtoolsClientConnected(async (client) => {
+  // client is NuxtDevtoolsIframeClient
+  const config = client.devtools.rpc.getServerConfig()
+  // ...
+})
+```
+
+When you have iframe for your devtools view, sometimes you need to communicate with the devtools host (the main app in browser) with a runtime plugin. You can use `@nuxt/devtools-kit/host-client` to do that.
+
+### [`useDevtoolsHostClient()`](https://devtools.nuxt.com/module/utils-kit#usedevtoolshostclient)
+
+It will return a ref of `NuxtDevtoolsHostClient` object that are intially `null` and will be updated when the host is initialized by NuxtDevtools.
+
+```
+import { useDevtoolsHostClient } from '@nuxt/devtools-kit/host-client'
+export default defineNuxtPlugin({
+  name: 'my-module:devtools',
+  setup(nuxtApp) {
+    const devtoolsHost = useDevtoolsHostClient()
+    // ...
+  }
+})
+```
+
+### [`onDevtoolsHostClientConnected()`](https://devtools.nuxt.com/module/utils-kit#ondevtoolshostclientconnected)
+
+Similiar to `useDevtoolsHostClient()` but as a callback style:
+
+```
+import { onDevtoolsHostClientConnected } from '@nuxt/devtools-kit/host-client'
+onDevtoolsHostClientConnected(async (host) => {
+})
+```

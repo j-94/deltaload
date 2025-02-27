@@ -1,0 +1,68 @@
+The command line for the AI era
+
+Use plain English to accomplish multi-step workflows with AI that's native to the terminal. Try it today.
+
+Watch Agent Mode in action.
+
+Type plain English on the command line
+--------------------------------------
+
+Agent Mode can recognize and interpret natural language in addition to traditional commands. You can type phrases like questions or tasks directly into the input prompt. Switch seamlessly between commands and conversation.
+
+“Delete all my fully merged branches.”
+
+“Fix all my import errors” in a Rust project.
+
+“Find all implementations of the asci::Handler trait in this project.”
+
+Get environment-specific guidance
+---------------------------------
+
+Unlike an external AI assistant, Agent Mode can follow along in your terminal. It makes highly tailored recommendations based on your environment. You can attach context, like errors in output, and ask Agent Mode to fix them.
+
+“Help me find which PR caused this merge conflict using the GitHub CLI.”
+
+Why can’t I ssh into this machine?”
+
+“Change the missing migration to use today’s date.”
+
+Let AI guide you through multi-step workflows
+---------------------------------------------
+
+Agent Mode can do more than answer questions—it can also execute tasks. More agent-like than a chatbot, it knows when it needs more context to help you work through a task and it will request that you run commands to get information. Approve and adjust commands as you work through a task together.
+
+List all the functions in a project, find out when a specific function was last deployed, and print the logs.
+
+Replace an element size property across many .json files in a directory.
+
+“Fix this using nvm” to resolve an error with an outdated node version.
+
+Universal AI for any dev tool
+-----------------------------
+
+If a dev tool has a CLI with –help or any public docs, Agent Mode can learn the tool and teach you how to use it. Quickly learn the right commands to run without opening your browser.
+
+Warp founder Zach Lloyd uses Agent Mode to write a completion spec.
+
+How Agent Mode works
+--------------------
+
+### Auto-detection for natural language
+
+Natural language detection happens locally with a classifier that ships with the Warp app. No data leaves your terminal input until you explicitly hit ‘enter’ to send the request to Warp AI. You can configure a denylist to ensure specific commands or keywords are never interpreted as natural language. You can disable auto-detection for natural language on the command line in your Warp settings at any time. [Learn more](https://docs.warp.dev/features/warp-ai/agent-mode).
+
+### Transparency and control
+
+You have total control over any information sent to Warp AI. You also have total control to approve commands before Agent Mode executes them. Please be cautious when approving commands that modify files or system settings. Watch Agent Mode like a self-driving car, and cancel out of any requested commands that are unsafe or sensitive.
+
+### Warp AI and OpenAI
+
+Agent Mode is a feature of Warp AI which relies on OpenAI APIs. Warp does not store or retain your input or output from the command line, rather Warp AI sends requests to OpenAI through a proxy. Once data is passed to OpenAI, it is not used to train their models. Zero Data Retention for OpenAI is available for customers on Warp’s Enterprise plan. [Learn more](https://www.warp.dev/pricing).
+
+### Limitations
+
+There are some limitations with Agent Mode. Warp AI may not always have access to the most up-to-date documentation for a tool or service. Agent Mode may suggest commands that are out of date. If Agent Mode does not have enough context, it may suggest invalid commands.
+
+### Self-correcting
+
+In the case that Agent Mode does run an invalid command or causes an error, it will attempt to correct the mistake and continue adjusting itself until a task is completed successfully. Read more about Agent Mode in the [announcement blog](https://www.warp.dev/blog/agent-mode) or in the [Warp docs](https://docs.warp.dev/features/warp-ai/agent-mode).

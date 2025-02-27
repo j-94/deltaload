@@ -1,0 +1,41 @@
+LangSmith
+=============== 
+
+[](https://smith.langchain.com/)
+
+[](https://docs.smith.langchain.com/)[](https://docs.smith.langchain.com/)[](https://www.langchain.com/contact-sales)
+
+light
+
+[Hub](https://smith.langchain.com/hub/)[chuxij](https://smith.langchain.com/hub/chuxij)[open-interpreter-system](https://smith.langchain.com/hub/chuxij/open-interpreter-system)
+
+[PENDING](https://smith.langchain.com/o/null/settings/payments)
+
+Log in
+
+chuxij/open-interpreter-system
+
+Public
+
+
+
+
+------------------------------------------
+
+[Try it](https://smith.langchain.com/hub/chuxij/open-interpreter-system/playground)
+
+PromptCommits2
+
+Updated a year ago
+
+•
+
+51
+
+•
+
+15k
+
+•
+
+1.46k

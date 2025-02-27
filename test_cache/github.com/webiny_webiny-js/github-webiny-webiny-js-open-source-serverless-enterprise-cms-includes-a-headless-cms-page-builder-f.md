@@ -1,0 +1,1657 @@
+---
+title: GitHub - webiny/webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+description: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. - webiny/webiny-js
+url: https://github.com/webiny/webiny-js
+timestamp: 2025-01-20T15:30:41.639Z
+domain: github.com
+path: webiny_webiny-js
+---
+
+# GitHub - webiny/webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+
+
+Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. - webiny/webiny-js
+
+
+## Content
+
+GitHub - webiny/webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+===============
+                                           
+
+[Skip to content](https://github.com/webiny/webiny-js?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwebiny%2Fwebiny-js%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwebiny%2Fwebiny-js%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=webiny%2Fwebiny-js) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[webiny](https://github.com/webiny) / **[webiny-js](https://github.com/webiny/webiny-js)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fwebiny%2Fwebiny-js) You must be signed in to change notification settings
+*   [Fork 618](https://github.com/login?return_to=%2Fwebiny%2Fwebiny-js)
+*   [Star 7.5k](https://github.com/login?return_to=%2Fwebiny%2Fwebiny-js)
+    
+
+Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+
+[www.webiny.com](https://www.webiny.com/ "https://www.webiny.com")
+
+### License
+
+[View license](https://github.com/webiny/webiny-js/blob/next/LICENSE)
+
+[7.5k stars](https://github.com/webiny/webiny-js/stargazers) [618 forks](https://github.com/webiny/webiny-js/forks) [Branches](https://github.com/webiny/webiny-js/branches) [Tags](https://github.com/webiny/webiny-js/tags) [Activity](https://github.com/webiny/webiny-js/activity)
+
+[Star](https://github.com/login?return_to=%2Fwebiny%2Fwebiny-js)
+
+[Notifications](https://github.com/login?return_to=%2Fwebiny%2Fwebiny-js) You must be signed in to change notification settings
+
+*   [Code](https://github.com/webiny/webiny-js)
+*   [Issues 292](https://github.com/webiny/webiny-js/issues)
+*   [Pull requests 35](https://github.com/webiny/webiny-js/pulls)
+*   [Actions](https://github.com/webiny/webiny-js/actions)
+*   [Projects 0](https://github.com/webiny/webiny-js/projects)
+*   [Security 1](https://github.com/webiny/webiny-js/security)
+*   [Insights](https://github.com/webiny/webiny-js/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/webiny/webiny-js)
+*   [Issues](https://github.com/webiny/webiny-js/issues)
+*   [Pull requests](https://github.com/webiny/webiny-js/pulls)
+*   [Actions](https://github.com/webiny/webiny-js/actions)
+*   [Projects](https://github.com/webiny/webiny-js/projects)
+*   [Security](https://github.com/webiny/webiny-js/security)
+*   [Insights](https://github.com/webiny/webiny-js/pulse)
+
+webiny/webiny-js
+================
+
+  
+
+ next
+
+[**345** Branches](https://github.com/webiny/webiny-js/branches)[**167** Tags](https://github.com/webiny/webiny-js/tags)
+
+[](https://github.com/webiny/webiny-js/branches)[](https://github.com/webiny/webiny-js/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 34: adrians5j](https://avatars.githubusercontent.com/u/5121148?v=4&size=40)](https://github.com/adrians5j)[adrians5j](https://github.com/webiny/webiny-js/commits?author=adrians5j)
+
+[Merge remote-tracking branch 'refs/remotes/origin/dev' into next](https://github.com/webiny/webiny-js/commit/c4afd419b4ceb9ed217259995d9c5f0656f5856c)
+
+Jan 20, 2025
+
+[c4afd41](https://github.com/webiny/webiny-js/commit/c4afd419b4ceb9ed217259995d9c5f0656f5856c) · Jan 20, 2025
+
+History
+-------
+
+[16,665 Commits](https://github.com/webiny/webiny-js/commits/next/)
+
+[](https://github.com/webiny/webiny-js/commits/next/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/webiny/webiny-js/tree/next/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/webiny/webiny-js/tree/next/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[chore: ignore yml files from prettier](https://github.com/webiny/webiny-js/commit/fcabc160eaa6f598a6970d87ca6365a86ee4703f "chore: ignore yml files from prettier")
+
+
+
+ | 
+
+Jan 15, 2025
+
+ |
+| 
+
+[.yarn](https://github.com/webiny/webiny-js/tree/next/.yarn ".yarn")
+
+
+
+
+
+
+
+ | 
+
+[.yarn](https://github.com/webiny/webiny-js/tree/next/.yarn ".yarn")
+
+
+
+
+
+
+
+ | 
+
+[refactor: upgrade to typescript 5 (](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f "refactor: upgrade to typescript 5 (#4464)")[#4464](https://github.com/webiny/webiny-js/pull/4464)[)](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f "refactor: upgrade to typescript 5 (#4464)")
+
+
+
+ | 
+
+Jan 16, 2025
+
+ |
+| 
+
+[apps](https://github.com/webiny/webiny-js/tree/next/apps "apps")
+
+
+
+
+
+
+
+ | 
+
+[apps](https://github.com/webiny/webiny-js/tree/next/apps "apps")
+
+
+
+
+
+
+
+ | 
+
+[fix: sync package versions (](https://github.com/webiny/webiny-js/commit/cdc9b2ab028a7a92550ee8df81ae31f810c5ae91 "fix: sync package versions (#4485)")[#4485](https://github.com/webiny/webiny-js/pull/4485)[)](https://github.com/webiny/webiny-js/commit/cdc9b2ab028a7a92550ee8df81ae31f810c5ae91 "fix: sync package versions (#4485)")
+
+
+
+ | 
+
+Jan 10, 2025
+
+ |
+| 
+
+[cypress-tests](https://github.com/webiny/webiny-js/tree/next/cypress-tests "cypress-tests")
+
+
+
+
+
+
+
+ | 
+
+[cypress-tests](https://github.com/webiny/webiny-js/tree/next/cypress-tests "cypress-tests")
+
+
+
+
+
+
+
+ | 
+
+[refactor: upgrade to typescript 5 (](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f "refactor: upgrade to typescript 5 (#4464)")[#4464](https://github.com/webiny/webiny-js/pull/4464)[)](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f "refactor: upgrade to typescript 5 (#4464)")
+
+
+
+ | 
+
+Jan 16, 2025
+
+ |
+| 
+
+[docs](https://github.com/webiny/webiny-js/tree/next/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs](https://github.com/webiny/webiny-js/tree/next/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[Merge remote-tracking branch 'refs/remotes/origin/dev' into next](https://github.com/webiny/webiny-js/commit/8c8141a1d25cf70e7392ed4960443092a4eebcd4 "Merge remote-tracking branch 'refs/remotes/origin/dev' into next")
+
+
+
+ | 
+
+Nov 8, 2024
+
+ |
+| 
+
+[extensions](https://github.com/webiny/webiny-js/tree/next/extensions "extensions")
+
+
+
+
+
+
+
+ | 
+
+[extensions](https://github.com/webiny/webiny-js/tree/next/extensions "extensions")
+
+
+
+
+
+
+
+ | 
+
+[fix: improve rendering of children menu items (](https://github.com/webiny/webiny-js/commit/3cd8723daf0ad12b15f3600f01aec89e106b6ba6 "fix: improve rendering of children menu items (#4491)")[#4491](https://github.com/webiny/webiny-js/pull/4491)[)](https://github.com/webiny/webiny-js/commit/3cd8723daf0ad12b15f3600f01aec89e106b6ba6 "fix: improve rendering of children menu items (#4491)")
+
+
+
+ | 
+
+Jan 14, 2025
+
+ |
+| 
+
+[packages](https://github.com/webiny/webiny-js/tree/next/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[packages](https://github.com/webiny/webiny-js/tree/next/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[Merge remote-tracking branch 'refs/remotes/origin/dev' into next](https://github.com/webiny/webiny-js/commit/c4afd419b4ceb9ed217259995d9c5f0656f5856c "Merge remote-tracking branch 'refs/remotes/origin/dev' into next")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[scripts](https://github.com/webiny/webiny-js/tree/next/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[scripts](https://github.com/webiny/webiny-js/tree/next/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[refactor: upgrade to typescript 5 (](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f "refactor: upgrade to typescript 5 (#4464)")[#4464](https://github.com/webiny/webiny-js/pull/4464)[)](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f "refactor: upgrade to typescript 5 (#4464)")
+
+
+
+ | 
+
+Jan 16, 2025
+
+ |
+| 
+
+[typings](https://github.com/webiny/webiny-js/tree/next/typings "typings")
+
+
+
+
+
+
+
+ | 
+
+[typings](https://github.com/webiny/webiny-js/tree/next/typings "typings")
+
+
+
+
+
+
+
+ | 
+
+[feat: api log (](https://github.com/webiny/webiny-js/commit/3a255481d46002693ce9d5ccfabd60b662d1b90a "feat: api log (#4366)")[#4366](https://github.com/webiny/webiny-js/pull/4366)[)](https://github.com/webiny/webiny-js/commit/3a255481d46002693ce9d5ccfabd60b662d1b90a "feat: api log (#4366)")
+
+
+
+ | 
+
+Nov 11, 2024
+
+ |
+| 
+
+[.adiorc.js](https://github.com/webiny/webiny-js/blob/next/.adiorc.js ".adiorc.js")
+
+
+
+
+
+
+
+ | 
+
+[.adiorc.js](https://github.com/webiny/webiny-js/blob/next/.adiorc.js ".adiorc.js")
+
+
+
+
+
+
+
+ | 
+
+[fix: direct download of extensions (](https://github.com/webiny/webiny-js/commit/f67778732392ed88f28da869ddacbf08a98cdec6 "fix: direct download of extensions (#4206)")[#4206](https://github.com/webiny/webiny-js/pull/4206)[)](https://github.com/webiny/webiny-js/commit/f67778732392ed88f28da869ddacbf08a98cdec6 "fix: direct download of extensions (#4206)")
+
+
+
+ | 
+
+Aug 19, 2024
+
+ |
+| 
+
+[.eslintignore](https://github.com/webiny/webiny-js/blob/next/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[.eslintignore](https://github.com/webiny/webiny-js/blob/next/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[refactor: update yarn to 4.6.0 (](https://github.com/webiny/webiny-js/commit/06b211c7a407ea85b9504dba2176b185b046ce28 "refactor: update yarn to 4.6.0 (#4482)")[#4482](https://github.com/webiny/webiny-js/pull/4482)[)](https://github.com/webiny/webiny-js/commit/06b211c7a407ea85b9504dba2176b185b046ce28 "refactor: update yarn to 4.6.0 (#4482)")
+
+
+
+ | 
+
+Jan 9, 2025
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/webiny/webiny-js/blob/next/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/webiny/webiny-js/blob/next/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[fix: eslint rules (](https://github.com/webiny/webiny-js/commit/a9d3b1a5c082d3cbec0edbf5306a1cf5c5407727 "fix: eslint rules (#3853)")[#3853](https://github.com/webiny/webiny-js/pull/3853)[)](https://github.com/webiny/webiny-js/commit/a9d3b1a5c082d3cbec0edbf5306a1cf5c5407727 "fix: eslint rules (#3853)")
+
+
+
+ | 
+
+Feb 7, 2024
+
+ |
+| 
+
+[.gitattributes](https://github.com/webiny/webiny-js/blob/next/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[.gitattributes](https://github.com/webiny/webiny-js/blob/next/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[Moved all JS packages into a single monorepo.](https://github.com/webiny/webiny-js/commit/301f31265fd06f8c94e31b4427cc32f1063da3bb "Moved all JS packages into a single monorepo.")
+
+
+
+ | 
+
+Jan 9, 2018
+
+ |
+| 
+
+[.gitignore](https://github.com/webiny/webiny-js/blob/next/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/webiny/webiny-js/blob/next/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[chore: add .nx to gitignore \[skip ci\]](https://github.com/webiny/webiny-js/commit/b7d4123139be3c86aabfc8cbd7b1497c2946fb4e "chore: add .nx to gitignore [skip ci]")
+
+
+
+ | 
+
+May 17, 2024
+
+ |
+| 
+
+[.prettierignore](https://github.com/webiny/webiny-js/blob/next/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/webiny/webiny-js/blob/next/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[chore: ignore yml files from prettier](https://github.com/webiny/webiny-js/commit/fcabc160eaa6f598a6970d87ca6365a86ee4703f "chore: ignore yml files from prettier")
+
+
+
+ | 
+
+Jan 15, 2025
+
+ |
+| 
+
+[.prettierrc.js](https://github.com/webiny/webiny-js/blob/next/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc.js](https://github.com/webiny/webiny-js/blob/next/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: update prettier to v2](https://github.com/webiny/webiny-js/commit/50c2e2d134d2b7eac8dbdcb05754ff761a903aff "chore: update prettier to v2")
+
+
+
+ | 
+
+Aug 2, 2021
+
+ |
+| 
+
+[.verdaccio.yaml](https://github.com/webiny/webiny-js/blob/next/.verdaccio.yaml ".verdaccio.yaml")
+
+
+
+
+
+
+
+ | 
+
+[.verdaccio.yaml](https://github.com/webiny/webiny-js/blob/next/.verdaccio.yaml ".verdaccio.yaml")
+
+
+
+
+
+
+
+ | 
+
+[chore: add "max\_body\_size"](https://github.com/webiny/webiny-js/commit/02418ada18ef6e6f911afbbb07e38e986d2c4443 "chore: add \"max_body_size\"")
+
+
+
+ | 
+
+Feb 11, 2021
+
+ |
+| 
+
+[.yarnrc.yml](https://github.com/webiny/webiny-js/blob/next/.yarnrc.yml ".yarnrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[.yarnrc.yml](https://github.com/webiny/webiny-js/blob/next/.yarnrc.yml ".yarnrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[refactor: update yarn to 4.6.0 (](https://github.com/webiny/webiny-js/commit/06b211c7a407ea85b9504dba2176b185b046ce28 "refactor: update yarn to 4.6.0 (#4482)")[#4482](https://github.com/webiny/webiny-js/pull/4482)[)](https://github.com/webiny/webiny-js/commit/06b211c7a407ea85b9504dba2176b185b046ce28 "refactor: update yarn to 4.6.0 (#4482)")
+
+
+
+ | 
+
+Jan 9, 2025
+
+ |
+| 
+
+[CHANGELOG.md](https://github.com/webiny/webiny-js/blob/next/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[CHANGELOG.md](https://github.com/webiny/webiny-js/blob/next/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[chore(release): publish v5.33.5 🎉 🚀](https://github.com/webiny/webiny-js/commit/5063045cd2abdcdb360f97262f9b90b8858ec1df "chore(release): publish v5.33.5 :tada: :rocket:")
+
+
+
+ | 
+
+Dec 23, 2022
+
+ |
+| 
+
+[LICENSE](https://github.com/webiny/webiny-js/blob/next/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/webiny/webiny-js/blob/next/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Updated the legal entity name on the license to our top-co.](https://github.com/webiny/webiny-js/commit/79b4cd88ffc4f6857a9ea00ad3e177cac53676b6 "Updated the legal entity name on the license to our top-co.")
+
+
+
+ | 
+
+Feb 20, 2023
+
+ |
+| 
+
+[README.md](https://github.com/webiny/webiny-js/blob/next/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/webiny/webiny-js/blob/next/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: node 20](https://github.com/webiny/webiny-js/commit/8cba4f589c3a841e108288bcb54897a13ef5f8d0 "chore: node 20")
+
+
+
+ | 
+
+Jan 3, 2025
+
+ |
+| 
+
+[SECURITY.md](https://github.com/webiny/webiny-js/blob/next/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[SECURITY.md](https://github.com/webiny/webiny-js/blob/next/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[feat: Added the issue templates and security policy to report vulnera…](https://github.com/webiny/webiny-js/commit/b2cc547ad7f87881121c01f5e25c533319c6606c "feat: Added the issue templates and security policy to report vulnerability (#1867)")
+
+
+
+ | 
+
+Aug 17, 2021
+
+ |
+| 
+
+[babel.config.js](https://github.com/webiny/webiny-js/blob/next/babel.config.js "babel.config.js")
+
+
+
+
+
+
+
+ | 
+
+[babel.config.js](https://github.com/webiny/webiny-js/blob/next/babel.config.js "babel.config.js")
+
+
+
+
+
+
+
+ | 
+
+[chore(workspaces): rename allPackages to allWorkspaces](https://github.com/webiny/webiny-js/commit/c6c4df9f5262498ee0d53535c1b9aa8e19829d10 "chore(workspaces): rename allPackages to allWorkspaces")
+
+
+
+ | 
+
+Jan 10, 2021
+
+ |
+| 
+
+[example.cypress.config.ts](https://github.com/webiny/webiny-js/blob/next/example.cypress.config.ts "example.cypress.config.ts")
+
+
+
+
+
+
+
+ | 
+
+[example.cypress.config.ts](https://github.com/webiny/webiny-js/blob/next/example.cypress.config.ts "example.cypress.config.ts")
+
+
+
+
+
+
+
+ | 
+
+[ci: remove `/admin`](https://github.com/webiny/webiny-js/commit/76a0cd9bd5db5a2296d232baec23a8be0eaf5e4e "ci: remove `/admin`")
+
+
+
+ | 
+
+Jan 26, 2024
+
+ |
+| 
+
+[example.env](https://github.com/webiny/webiny-js/blob/next/example.env "example.env")
+
+
+
+
+
+
+
+ | 
+
+[example.env](https://github.com/webiny/webiny-js/blob/next/example.env "example.env")
+
+
+
+
+
+
+
+ | 
+
+[feat: assign WCP project ID via WCP\_PROJECT\_ID](https://github.com/webiny/webiny-js/commit/ef55575323737151a0f6675471e6964703ac7513 "feat: assign WCP project ID via WCP_PROJECT_ID
+Usually, the ID is set via webiny.project.ts, but, for dev/testing purposes, we want to be able to set the WCP project ID via an env var too.")
+
+
+
+ | 
+
+Jul 8, 2022
+
+ |
+| 
+
+[example.graphqlconfig](https://github.com/webiny/webiny-js/blob/next/example.graphqlconfig "example.graphqlconfig")
+
+
+
+
+
+
+
+ | 
+
+[example.graphqlconfig](https://github.com/webiny/webiny-js/blob/next/example.graphqlconfig "example.graphqlconfig")
+
+
+
+
+
+
+
+ | 
+
+[chore: add example.graphqlconfig file](https://github.com/webiny/webiny-js/commit/a8287d7a86be28b57f538d0a004341af702fa779 "chore: add example.graphqlconfig file")
+
+
+
+ | 
+
+Sep 18, 2020
+
+ |
+| 
+
+[example.lerna.json](https://github.com/webiny/webiny-js/blob/next/example.lerna.json "example.lerna.json")
+
+
+
+
+
+
+
+ | 
+
+[example.lerna.json](https://github.com/webiny/webiny-js/blob/next/example.lerna.json "example.lerna.json")
+
+
+
+
+
+
+
+ | 
+
+[chore: remove packages-v6 \[skip ci\]](https://github.com/webiny/webiny-js/commit/0df90887d378534ec185d92bd259e5baa89afd9c "chore: remove packages-v6 [skip ci]")
+
+
+
+ | 
+
+Aug 1, 2023
+
+ |
+| 
+
+[jest-es-config.js](https://github.com/webiny/webiny-js/blob/next/jest-es-config.js "jest-es-config.js")
+
+
+
+
+
+
+
+ | 
+
+[jest-es-config.js](https://github.com/webiny/webiny-js/blob/next/jest-es-config.js "jest-es-config.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: change ElasticSearch port (`9201` to `9200`)](https://github.com/webiny/webiny-js/commit/d66ab6063463e98a97f4d847ed107fbd68ab51d2 "chore: change ElasticSearch port (`9201` to `9200`)")
+
+
+
+ | 
+
+Dec 2, 2020
+
+ |
+| 
+
+[jest.config.base.js](https://github.com/webiny/webiny-js/blob/next/jest.config.base.js "jest.config.base.js")
+
+
+
+
+
+
+
+ | 
+
+[jest.config.base.js](https://github.com/webiny/webiny-js/blob/next/jest.config.base.js "jest.config.base.js")
+
+
+
+
+
+
+
+ | 
+
+[feat: api log (](https://github.com/webiny/webiny-js/commit/3a255481d46002693ce9d5ccfabd60b662d1b90a "feat: api log (#4366)")[#4366](https://github.com/webiny/webiny-js/pull/4366)[)](https://github.com/webiny/webiny-js/commit/3a255481d46002693ce9d5ccfabd60b662d1b90a "feat: api log (#4366)")
+
+
+
+ | 
+
+Nov 11, 2024
+
+ |
+| 
+
+[jest.config.base.setup.js](https://github.com/webiny/webiny-js/blob/next/jest.config.base.setup.js "jest.config.base.setup.js")
+
+
+
+
+
+
+
+ | 
+
+[jest.config.base.setup.js](https://github.com/webiny/webiny-js/blob/next/jest.config.base.setup.js "jest.config.base.setup.js")
+
+
+
+
+
+
+
+ | 
+
+[feat(api-headless-cms-ddb-es): entry values modifier (](https://github.com/webiny/webiny-js/commit/267d85259735a2028fdc5adfea120842ca703318 "feat(api-headless-cms-ddb-es): entry values modifier (#3422)")[#3422](https://github.com/webiny/webiny-js/pull/3422)[)](https://github.com/webiny/webiny-js/commit/267d85259735a2028fdc5adfea120842ca703318 "feat(api-headless-cms-ddb-es): entry values modifier (#3422)")
+
+
+
+ | 
+
+Aug 1, 2023
+
+ |
+| 
+
+[jest.config.js](https://github.com/webiny/webiny-js/blob/next/jest.config.js "jest.config.js")
+
+
+
+
+
+
+
+ | 
+
+[jest.config.js](https://github.com/webiny/webiny-js/blob/next/jest.config.js "jest.config.js")
+
+
+
+
+
+
+
+ | 
+
+[feat(app-headless-cms): add support for nested dynamic zones and ref …](https://github.com/webiny/webiny-js/commit/ec04ae79b5bf0c1aebff70d95712fc2ce6af7951 "feat(app-headless-cms): add support for nested dynamic zones and ref fields (#3471)")
+
+
+
+ | 
+
+Aug 31, 2023
+
+ |
+| 
+
+[package.json](https://github.com/webiny/webiny-js/blob/next/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/webiny/webiny-js/blob/next/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[refactor: upgrade to typescript 5 (](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f "refactor: upgrade to typescript 5 (#4464)")[#4464](https://github.com/webiny/webiny-js/pull/4464)[)](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f "refactor: upgrade to typescript 5 (#4464)")
+
+
+
+ | 
+
+Jan 16, 2025
+
+ |
+| 
+
+[tsconfig.build.json](https://github.com/webiny/webiny-js/blob/next/tsconfig.build.json "tsconfig.build.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.build.json](https://github.com/webiny/webiny-js/blob/next/tsconfig.build.json "tsconfig.build.json")
+
+
+
+
+
+
+
+ | 
+
+[refactor: upgrade to typescript 5 (](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f "refactor: upgrade to typescript 5 (#4464)")[#4464](https://github.com/webiny/webiny-js/pull/4464)[)](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f "refactor: upgrade to typescript 5 (#4464)")
+
+
+
+ | 
+
+Jan 16, 2025
+
+ |
+| 
+
+[tsconfig.json](https://github.com/webiny/webiny-js/blob/next/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/webiny/webiny-js/blob/next/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[feat: introduce a new page rendering engine (](https://github.com/webiny/webiny-js/commit/cb483e177f4f12a7bbe786fdda67fd685664fa74 "feat: introduce a new page rendering engine (#2928)")[#2928](https://github.com/webiny/webiny-js/pull/2928)[)](https://github.com/webiny/webiny-js/commit/cb483e177f4f12a7bbe786fdda67fd685664fa74 "feat: introduce a new page rendering engine (#2928)")
+
+
+
+ | 
+
+Jan 12, 2023
+
+ |
+| 
+
+[webiny.project.ts](https://github.com/webiny/webiny-js/blob/next/webiny.project.ts "webiny.project.ts")
+
+
+
+
+
+
+
+ | 
+
+[webiny.project.ts](https://github.com/webiny/webiny-js/blob/next/webiny.project.ts "webiny.project.ts")
+
+
+
+
+
+
+
+ | 
+
+[fix(app-headless-cms): various full screen editor (](https://github.com/webiny/webiny-js/commit/6bf1d8fd9dd36792aeabc3df9499c79037831e1c "fix(app-headless-cms): various  full screen editor (#4480)")[#4480](https://github.com/webiny/webiny-js/pull/4480)[)](https://github.com/webiny/webiny-js/commit/6bf1d8fd9dd36792aeabc3df9499c79037831e1c "fix(app-headless-cms): various  full screen editor (#4480)")
+
+
+
+ | 
+
+Jan 9, 2025
+
+ |
+| 
+
+[yarn.lock](https://github.com/webiny/webiny-js/blob/next/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/webiny/webiny-js/blob/next/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[chore: update pm2 agent to 2.0.4 to fix ws security issue](https://github.com/webiny/webiny-js/commit/e88b2bb5f28415d035cbfd60649fec4d6f3822b7 "chore: update pm2 agent to 2.0.4 to fix ws security issue")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/webiny/webiny-js?screenshot=true#)
+*   [Code of conduct](https://github.com/webiny/webiny-js?screenshot=true#)
+*   [License](https://github.com/webiny/webiny-js?screenshot=true#)
+*   [Security](https://github.com/webiny/webiny-js?screenshot=true#)
+
+[![Image 35](https://github.com/webiny/webiny-js/raw/next/docs/static/webiny-logo.svg)](https://github.com/webiny/webiny-js/blob/next/docs/static/webiny-logo.svg)  
+  
+**Open-Source Serverless Enterprise CMS**
+
+[Website](https://www.webiny.com/) | [Documentation](https://www.webiny.com/docs/webiny/introduction/) | [Community Slack](https://www.webiny.com/slack) | [Forum](https://github.com/webiny/webiny-js/discussions) | [Twitter](https://twitter.com/WebinyCMS)
+
+[![Image 36: Prettier](https://camo.githubusercontent.com/754faf8c130f602a98f87fd2912a8d4b9bcf8ab623fa9ac3352853015968cdb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64655f7374796c652d70726574746965722d6666363962342e737667)](https://prettier.io/) [![Image 37: license](https://camo.githubusercontent.com/44e7845c81a431dc740c9a7f76d0ea33e030e05d7a41d6164167ee435b17168f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d677265656e2e737667)](https://github.com/webiny/webiny-js/blob/master/LICENSE) [![Image 38: SemVer](https://camo.githubusercontent.com/86bdbb7575d94258ae53b717878d9817a70e3dbf20a2074dd70153388c1de94a/687474703a2f2f696d672e736869656c64732e696f2f3a73656d7665722d322e302e302d627269676874677265656e2e737667)](http://semver.org/) [![Image 39](https://camo.githubusercontent.com/49a6c2600b8a59f430ae0c4dc502b2223da33c7c0ccebb5f15082dcbf373b206/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f74797065732f73637275622d6a732e737667)](https://camo.githubusercontent.com/49a6c2600b8a59f430ae0c4dc502b2223da33c7c0ccebb5f15082dcbf373b206/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f74797065732f73637275622d6a732e737667) [![Image 40: PRs Welcome](https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667)](http://makeapullrequest.com/) [![Image 41: Contributor Covenant](https://camo.githubusercontent.com/71217453f48cd1f12ba5a720412bb92743010653a5cc69654e627fd99e2e9104/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d322e312d3462616161612e737667)](https://github.com/webiny/webiny-js/blob/next/docs/CODE_OF_CONDUCT.md) [![Image 42: Join our Slack community https://www.webiny.com/slack](https://camo.githubusercontent.com/1ccd24a3800a0669a9b6072e5dee5a5d5297275a243538571e573966bc2a542b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d4a6f696e2532306f7572253230636f6d6d756e697479212d6f72616e6765)](https://www.webiny.com/slack)
+
+product-video-2022.mp4Webiny Serverless CMS includes:
+
+1️⃣ **Page Builder** - Drag&drop page editor. Pages are prerendered automatically and cached on CloudFront for lightning-fast delivery.
+
+2️⃣ **Headless CMS** - Headless CMS with a GraphQL API. Build APIs and content models through a UI. It includes content revisions, localization, and fine-grain permission control.
+
+3️⃣ **File Manager** - Upload files images. Search and organize your assets. It includes a built-in image editor for basic image manipulations.
+
+4️⃣ **Form Builder** - Build forms with a drag&drop editor. Insert forms through Page Builder into your pages. It has webhook support and ReCaptcha integration.
+
+All Webiny apps can be customized easily to fully fit an enterprise publishing workflow and integrate with leading identity providers like OKTA and Cognito.
+
+🏁 Quick installation guide
+---------------------------
+
+[](https://github.com/webiny/webiny-js?screenshot=true#-quick-installation-guide)
+
+1.  Create a Webiny project:
+
+`npx create-webiny-project my-new-project`
+
+2.  Deploy to your AWS cloud:
+
+`yarn webiny deploy`
+
+**Prerequisites**
+
+*   Node.js ^20
+*   yarn ^1.22.21
+*   AWS account
+
+For the detailed install guide, please see 👉 [https://www.webiny.com/docs/get-started/install-webiny](https://www.webiny.com/docs/get-started/install-webiny)
+
+Need help, having trouble installing, find us on our community slack 👉 [https://www.webiny.com/slack](https://www.webiny.com/slack)
+
+📕 Documentation
+----------------
+
+[](https://github.com/webiny/webiny-js?screenshot=true#-documentation)
+
+For complete documentation 👉 [https://www.webiny.com/docs](https://www.webiny.com/docs)
+
+🤝 Community & Support
+----------------------
+
+[](https://github.com/webiny/webiny-js?screenshot=true#-community--support)
+
+Community Forum. Best for: help with building, discussion about database best practices 👉 [https://www.webiny.com/slack](https://www.webiny.com/slack)
+
+GitHub Issues. Best for: bugs and errors you encounter using Webbiny 👉 [https://github.com/webiny/webiny-js/issues](https://github.com/webiny/webiny-js/issues)
+
+💪 Contributing
+---------------
+
+[](https://github.com/webiny/webiny-js?screenshot=true#-contributing)
+
+Webiny is all about the community. Please feel free to join in, whether it's fixing bugs, improving our documentation, or simply spreading the word. Please see our [Contributing Guidelines](https://github.com/webiny/webiny-js/blob/next/docs/CONTRIBUTING.md), which explain project organization, setup, testing, and other steps. If you need any assistance in contribution, please reach out via our [community Slack](https://www.webiny.com/slack).
+
+📜 License
+----------
+
+[](https://github.com/webiny/webiny-js?screenshot=true#-license)
+
+This project is licensed under the terms of the [MIT license](https://github.com/webiny/webiny-js/blob/next/LICENSE) except for the following modules, which require a Webiny Enterprise license:
+
+*   Multi-tenancy module
+*   OKTA integration
+
+Contact [sales@webiny.com](mailto:sales@webiny.com) for more information.
+
+Why are those modules paid? It's a way we support the development of the project!
+
+👷‍♀️ When to use Webiny?
+-------------------------
+
+[](https://github.com/webiny/webiny-js?screenshot=true#%EF%B8%8F-when-to-use-webiny)
+
+Webiny has many features, too many to list to make this readme digestible, so instead of talking about features, here are the common use-cases you can satisfy using Webiny:
+
+*   **Headless CMS** - Programmatically integrate your apps with Webiny's GraphQL Headless CMS.
+    
+*   **GraphQL API** - You can build a GraphQL API using the [Headless CMS](https://www.webiny.com/serverless-app/headless-cms), but you can [also use the `webiny scaffold` command](https://www.webiny.com/docs/how-to-guides/scaffolding/graphql-api) to create new GraphQL resolvers where you can add your custom business logic.
+    
+*   **Marketing landing pages and micro-sites** - Using the [Page Builder](https://www.webiny.com/serverless-app/page-builder) marketing teams can quickly build new websites without knowledge of HTML or CSS.
+    
+*   **Multi-tenant SaaS applications** - Webiny has a robust multi-tenancy layer with built-in data separation. You can build your own SaaS applications on top and let Webiny handle the API, security, and data storage for you.
+    
+*   **Full-stack serverless applications** - Besides using Webiny to manage your content needs, you can expand the existing functionality by creating new full-stack serverless applications on top. Follow [this tutorial](https://www.webiny.com/docs/tutorials/create-custom-application/introduction) to build your own full-stack serverless Pinterest clone.
+    
+*   **Multi-website & multi-language portal** - All Webiny apps are multi-tenant by default, meaning with a single instance of Webiny, you can run hundreds of projects and websites from a single code-base.
+    
+*   **Dynamic Page** (coming soon) - We're working on seamless integration between the Headless CMS and the Page Builder, so you can build and publish dynamic pages without a single line of code or build pipelines required. New content is live instantly and visible to the users.
+    
+*   **Multi-cloud support** (coming soon) - At the moment, Webiny only supports AWS, but we have plans to add support for other cloud vendors such as GCP and Azure. Because Webiny uses cloud-native services to run, not containers, this task is not easy, but we have a plan.
+    
+
+❓ FAQ
+-----
+
+[](https://github.com/webiny/webiny-js?screenshot=true#-faq)
+
+**♦ Why serverless?**
+
+We believe serverless is the future of web development. It gives us much more bang for our buck!
+
+**♦ Why open-source?**
+
+Open-source has two main aspects over SaaS:
+
+1.  It's customizable, unlike being locked in a SaaS solution.
+2.  Your data is stored under your rules, in your data center, with your compliance standard inside your security parameter and delivered through your CDN.
+
+**♦ How is this enterprise?**
+
+1.  Webiny is built to be integrated inside enterprise environments. Being open-source is one part of that solution; the other is that Webiny integrates with enterprise IdPs such as OKTA and Cognito.
+2.  Webiny is architected to sustain heavy usage coming from large volumes of users.
+3.  Webiny is built on top of fault-tolerant serverless services.
+4.  Webiny keeps the data encrypted both in transit and at rest.
+5.  In the paid edition, enterprises have access to our SLA-based support and consultancy services.
+
+**♦ How fast and scalable is Webiny?**
+
+How about a [load-test](https://www.webiny.com/docs/webiny-overview/performance-benchmark/introduction/) :)
+
+**♦ How much does it cost to run Webiny?**
+
+Webiny comes in 2 database options, DynamoDB + Elasticsearch and DynamoDB only. The latter option, when looking at all the infrastructure pieces Webiny uses to operate, the consumption of the AWS services fully determines the cost. In the DDB + ES option, there is a minimum ~$25/mo charge to AWS for the Elasticsearch cluster as it's not a consumption-based service.
+
+As part of our performance benchmark, we also benchmarked the cost of the DDB + ES, specifically, Headless CMS [read](https://www.webiny.com/docs/webiny-overview/performance-benchmark/headless-cms-read-benchmark#cost-per-10k-requests) and [write](https://www.webiny.com/docs/webiny-overview/performance-benchmark/headless-cms-write-benchmark#cost-per-10k-requests) operations. So that benchmark is a good starting point to determine your cost.
+
+As a rule of thumb, we recommend the DDB option for small and medium-size projects, which should be cheaper when compared to a solution running on VMs or containers.
+
+**♦ Why should my enterprise consider using Webiny?**
+
+Top 5 reasons to do so:
+
+1.  **Self-hosted**: Webiny runs inside your own AWS cloud; you keep control over your data and security perimeter.
+2.  **Open-source**: We released Webiny under the MIT license, so you can customize every aspect of the system to match your needs fully.
+3.  **Serverless**: Webiny runs on AWS services such as Lambda, S3, and DynamoDB, to offer a highly scalable and fault-tolerant infrastructure.
+4.  **Cost-savings**: Cut your infrastructure and operations costs by 60% to 80% compared to solutions running on VMs.
+5.  **Secure**: Webiny follows security best practices by encrypting data both in transit and rest across all services. It integrates with IdPs such as OKTA and Cognito. CodeQL and Dependabot scanning tools ensure code security.
+
+  
+
+Contributors
+------------
+
+[](https://github.com/webiny/webiny-js?screenshot=true#contributors)
+
+### 🧡 Thanks goes to these wonderful people!
+
+[](https://github.com/webiny/webiny-js?screenshot=true#-thanks-goes-to-these-wonderful-people)
+
+[![Image 43](https://camo.githubusercontent.com/77193b1782d8e9a5482d1eb54f2ab2188f53fb137449a38b63ce2d9fe7f81298/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d776562696e792f776562696e792d6a73)](https://github.com/webiny/webiny-js/graphs/contributors)
+
+About
+-----
+
+Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+
+[www.webiny.com](https://www.webiny.com/ "https://www.webiny.com")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [nodejs](https://github.com/topics/nodejs "Topic: nodejs") [javascript](https://github.com/topics/javascript "Topic: javascript") [graphql](https://github.com/topics/graphql "Topic: graphql") [cms](https://github.com/topics/cms "Topic: cms") [aws](https://github.com/topics/aws "Topic: aws") [lambda](https://github.com/topics/lambda "Topic: lambda") [cloud](https://github.com/topics/cloud "Topic: cloud") [typescript](https://github.com/topics/typescript "Topic: typescript") [spa](https://github.com/topics/spa "Topic: spa") [aws-lambda](https://github.com/topics/aws-lambda "Topic: aws-lambda") [microservice](https://github.com/topics/microservice "Topic: microservice") [serverless](https://github.com/topics/serverless "Topic: serverless") [headless](https://github.com/topics/headless "Topic: headless") [lambda-functions](https://github.com/topics/lambda-functions "Topic: lambda-functions") [serverless-framework](https://github.com/topics/serverless-framework "Topic: serverless-framework") [serverless-architectures](https://github.com/topics/serverless-architectures "Topic: serverless-architectures") [serverless-applications](https://github.com/topics/serverless-applications "Topic: serverless-applications") [headless-cms](https://github.com/topics/headless-cms "Topic: headless-cms")
+
+### Resources
+
+[Readme](https://github.com/webiny/webiny-js?screenshot=true#readme-ov-file)
+
+### License
+
+[View license](https://github.com/webiny/webiny-js?screenshot=true#License-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/webiny/webiny-js?screenshot=true#coc-ov-file)
+
+### Security policy
+
+[Security policy](https://github.com/webiny/webiny-js?screenshot=true#security-ov-file)
+
+[Activity](https://github.com/webiny/webiny-js/activity)
+
+[Custom properties](https://github.com/webiny/webiny-js/custom-properties)
+
+### Stars
+
+[**7.5k** stars](https://github.com/webiny/webiny-js/stargazers)
+
+### Watchers
+
+[**71** watching](https://github.com/webiny/webiny-js/watchers)
+
+### Forks
+
+[**618** forks](https://github.com/webiny/webiny-js/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fwebiny%2Fwebiny-js&report=webiny+%28user%29)
+
+[Releases 1,842](https://github.com/webiny/webiny-js/releases)
+--------------------------------------------------------------
+
+[v5.41.4 Latest Dec 30, 2024](https://github.com/webiny/webiny-js/releases/tag/v5.41.4)
+
+[\+ 1,841 releases](https://github.com/webiny/webiny-js/releases)
+
+[Contributors 73](https://github.com/webiny/webiny-js/graphs/contributors)
+--------------------------------------------------------------------------
+
+*   [![Image 44: @adrians5j](https://avatars.githubusercontent.com/u/5121148?s=64&v=4)](https://github.com/adrians5j)
+*   [![Image 45: @Pavel910](https://avatars.githubusercontent.com/u/3920893?s=64&v=4)](https://github.com/Pavel910)
+*   [![Image 46: @Ashu96](https://avatars.githubusercontent.com/u/13612227?s=64&v=4)](https://github.com/Ashu96)
+*   [![Image 47: @brunozoric](https://avatars.githubusercontent.com/u/10399339?s=64&v=4)](https://github.com/brunozoric)
+*   [![Image 48: @SvenAlHamad](https://avatars.githubusercontent.com/u/3808420?s=64&v=4)](https://github.com/SvenAlHamad)
+*   [![Image 49: @Andrei199991](https://avatars.githubusercontent.com/u/16700631?s=64&v=4)](https://github.com/Andrei199991)
+*   [![Image 50: @leopuleo](https://avatars.githubusercontent.com/u/2866531?s=64&v=4)](https://github.com/leopuleo)
+*   [![Image 51: @EmilK15](https://avatars.githubusercontent.com/u/9532882?s=64&v=4)](https://github.com/EmilK15)
+*   [![Image 52: @neatbyte-vnobis](https://avatars.githubusercontent.com/u/77202393?s=64&v=4)](https://github.com/neatbyte-vnobis)
+*   [![Image 53: @Ewan-Roberts](https://avatars.githubusercontent.com/u/6106045?s=64&v=4)](https://github.com/Ewan-Roberts)
+*   [![Image 54: @TommyJackson85](https://avatars.githubusercontent.com/u/22279028?s=64&v=4)](https://github.com/TommyJackson85)
+*   [![Image 55: @mihajlovco](https://avatars.githubusercontent.com/u/82515066?s=64&v=4)](https://github.com/mihajlovco)
+*   [![Image 56: @kedrzu](https://avatars.githubusercontent.com/u/2473784?s=64&v=4)](https://github.com/kedrzu)
+*   [![Image 57: @swapnilmmane](https://avatars.githubusercontent.com/u/7145848?s=64&v=4)](https://github.com/swapnilmmane)
+
+[\+ 59 contributors](https://github.com/webiny/webiny-js/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 83.6%](https://github.com/webiny/webiny-js/search?l=typescript)
+*   [JavaScript 16.1%](https://github.com/webiny/webiny-js/search?l=javascript)
+*   Other 0.3%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - webiny/webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.",
+  "description": "Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. - webiny/webiny-js",
+  "url": "https://github.com/webiny/webiny-js?screenshot=true",
+  "content": "GitHub - webiny/webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.\n===============\n                                           \n\n[Skip to content](https://github.com/webiny/webiny-js?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwebiny%2Fwebiny-js%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwebiny%2Fwebiny-js%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=webiny%2Fwebiny-js) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[webiny](https://github.com/webiny) / **[webiny-js](https://github.com/webiny/webiny-js)** Public\n\n*   [Notifications](https://github.com/login?return_to=%2Fwebiny%2Fwebiny-js) You must be signed in to change notification settings\n*   [Fork 618](https://github.com/login?return_to=%2Fwebiny%2Fwebiny-js)\n*   [Star 7.5k](https://github.com/login?return_to=%2Fwebiny%2Fwebiny-js)\n    \n\nOpen-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.\n\n[www.webiny.com](https://www.webiny.com/ \"https://www.webiny.com\")\n\n### License\n\n[View license](https://github.com/webiny/webiny-js/blob/next/LICENSE)\n\n[7.5k stars](https://github.com/webiny/webiny-js/stargazers) [618 forks](https://github.com/webiny/webiny-js/forks) [Branches](https://github.com/webiny/webiny-js/branches) [Tags](https://github.com/webiny/webiny-js/tags) [Activity](https://github.com/webiny/webiny-js/activity)\n\n[Star](https://github.com/login?return_to=%2Fwebiny%2Fwebiny-js)\n\n[Notifications](https://github.com/login?return_to=%2Fwebiny%2Fwebiny-js) You must be signed in to change notification settings\n\n*   [Code](https://github.com/webiny/webiny-js)\n*   [Issues 292](https://github.com/webiny/webiny-js/issues)\n*   [Pull requests 35](https://github.com/webiny/webiny-js/pulls)\n*   [Actions](https://github.com/webiny/webiny-js/actions)\n*   [Projects 0](https://github.com/webiny/webiny-js/projects)\n*   [Security 1](https://github.com/webiny/webiny-js/security)\n*   [Insights](https://github.com/webiny/webiny-js/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/webiny/webiny-js)\n*   [Issues](https://github.com/webiny/webiny-js/issues)\n*   [Pull requests](https://github.com/webiny/webiny-js/pulls)\n*   [Actions](https://github.com/webiny/webiny-js/actions)\n*   [Projects](https://github.com/webiny/webiny-js/projects)\n*   [Security](https://github.com/webiny/webiny-js/security)\n*   [Insights](https://github.com/webiny/webiny-js/pulse)\n\nwebiny/webiny-js\n================\n\n  \n\n next\n\n[**345** Branches](https://github.com/webiny/webiny-js/branches)[**167** Tags](https://github.com/webiny/webiny-js/tags)\n\n[](https://github.com/webiny/webiny-js/branches)[](https://github.com/webiny/webiny-js/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 34: adrians5j](https://avatars.githubusercontent.com/u/5121148?v=4&size=40)](https://github.com/adrians5j)[adrians5j](https://github.com/webiny/webiny-js/commits?author=adrians5j)\n\n[Merge remote-tracking branch 'refs/remotes/origin/dev' into next](https://github.com/webiny/webiny-js/commit/c4afd419b4ceb9ed217259995d9c5f0656f5856c)\n\nJan 20, 2025\n\n[c4afd41](https://github.com/webiny/webiny-js/commit/c4afd419b4ceb9ed217259995d9c5f0656f5856c) · Jan 20, 2025\n\nHistory\n-------\n\n[16,665 Commits](https://github.com/webiny/webiny-js/commits/next/)\n\n[](https://github.com/webiny/webiny-js/commits/next/)\n\n\n\n\n\n\n\n |\n| \n\n[.github](https://github.com/webiny/webiny-js/tree/next/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[.github](https://github.com/webiny/webiny-js/tree/next/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[chore: ignore yml files from prettier](https://github.com/webiny/webiny-js/commit/fcabc160eaa6f598a6970d87ca6365a86ee4703f \"chore: ignore yml files from prettier\")\n\n\n\n | \n\nJan 15, 2025\n\n |\n| \n\n[.yarn](https://github.com/webiny/webiny-js/tree/next/.yarn \".yarn\")\n\n\n\n\n\n\n\n | \n\n[.yarn](https://github.com/webiny/webiny-js/tree/next/.yarn \".yarn\")\n\n\n\n\n\n\n\n | \n\n[refactor: upgrade to typescript 5 (](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f \"refactor: upgrade to typescript 5 (#4464)\")[#4464](https://github.com/webiny/webiny-js/pull/4464)[)](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f \"refactor: upgrade to typescript 5 (#4464)\")\n\n\n\n | \n\nJan 16, 2025\n\n |\n| \n\n[apps](https://github.com/webiny/webiny-js/tree/next/apps \"apps\")\n\n\n\n\n\n\n\n | \n\n[apps](https://github.com/webiny/webiny-js/tree/next/apps \"apps\")\n\n\n\n\n\n\n\n | \n\n[fix: sync package versions (](https://github.com/webiny/webiny-js/commit/cdc9b2ab028a7a92550ee8df81ae31f810c5ae91 \"fix: sync package versions (#4485)\")[#4485](https://github.com/webiny/webiny-js/pull/4485)[)](https://github.com/webiny/webiny-js/commit/cdc9b2ab028a7a92550ee8df81ae31f810c5ae91 \"fix: sync package versions (#4485)\")\n\n\n\n | \n\nJan 10, 2025\n\n |\n| \n\n[cypress-tests](https://github.com/webiny/webiny-js/tree/next/cypress-tests \"cypress-tests\")\n\n\n\n\n\n\n\n | \n\n[cypress-tests](https://github.com/webiny/webiny-js/tree/next/cypress-tests \"cypress-tests\")\n\n\n\n\n\n\n\n | \n\n[refactor: upgrade to typescript 5 (](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f \"refactor: upgrade to typescript 5 (#4464)\")[#4464](https://github.com/webiny/webiny-js/pull/4464)[)](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f \"refactor: upgrade to typescript 5 (#4464)\")\n\n\n\n | \n\nJan 16, 2025\n\n |\n| \n\n[docs](https://github.com/webiny/webiny-js/tree/next/docs \"docs\")\n\n\n\n\n\n\n\n | \n\n[docs](https://github.com/webiny/webiny-js/tree/next/docs \"docs\")\n\n\n\n\n\n\n\n | \n\n[Merge remote-tracking branch 'refs/remotes/origin/dev' into next](https://github.com/webiny/webiny-js/commit/8c8141a1d25cf70e7392ed4960443092a4eebcd4 \"Merge remote-tracking branch 'refs/remotes/origin/dev' into next\")\n\n\n\n | \n\nNov 8, 2024\n\n |\n| \n\n[extensions](https://github.com/webiny/webiny-js/tree/next/extensions \"extensions\")\n\n\n\n\n\n\n\n | \n\n[extensions](https://github.com/webiny/webiny-js/tree/next/extensions \"extensions\")\n\n\n\n\n\n\n\n | \n\n[fix: improve rendering of children menu items (](https://github.com/webiny/webiny-js/commit/3cd8723daf0ad12b15f3600f01aec89e106b6ba6 \"fix: improve rendering of children menu items (#4491)\")[#4491](https://github.com/webiny/webiny-js/pull/4491)[)](https://github.com/webiny/webiny-js/commit/3cd8723daf0ad12b15f3600f01aec89e106b6ba6 \"fix: improve rendering of children menu items (#4491)\")\n\n\n\n | \n\nJan 14, 2025\n\n |\n| \n\n[packages](https://github.com/webiny/webiny-js/tree/next/packages \"packages\")\n\n\n\n\n\n\n\n | \n\n[packages](https://github.com/webiny/webiny-js/tree/next/packages \"packages\")\n\n\n\n\n\n\n\n | \n\n[Merge remote-tracking branch 'refs/remotes/origin/dev' into next](https://github.com/webiny/webiny-js/commit/c4afd419b4ceb9ed217259995d9c5f0656f5856c \"Merge remote-tracking branch 'refs/remotes/origin/dev' into next\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\n[scripts](https://github.com/webiny/webiny-js/tree/next/scripts \"scripts\")\n\n\n\n\n\n\n\n | \n\n[scripts](https://github.com/webiny/webiny-js/tree/next/scripts \"scripts\")\n\n\n\n\n\n\n\n | \n\n[refactor: upgrade to typescript 5 (](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f \"refactor: upgrade to typescript 5 (#4464)\")[#4464](https://github.com/webiny/webiny-js/pull/4464)[)](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f \"refactor: upgrade to typescript 5 (#4464)\")\n\n\n\n | \n\nJan 16, 2025\n\n |\n| \n\n[typings](https://github.com/webiny/webiny-js/tree/next/typings \"typings\")\n\n\n\n\n\n\n\n | \n\n[typings](https://github.com/webiny/webiny-js/tree/next/typings \"typings\")\n\n\n\n\n\n\n\n | \n\n[feat: api log (](https://github.com/webiny/webiny-js/commit/3a255481d46002693ce9d5ccfabd60b662d1b90a \"feat: api log (#4366)\")[#4366](https://github.com/webiny/webiny-js/pull/4366)[)](https://github.com/webiny/webiny-js/commit/3a255481d46002693ce9d5ccfabd60b662d1b90a \"feat: api log (#4366)\")\n\n\n\n | \n\nNov 11, 2024\n\n |\n| \n\n[.adiorc.js](https://github.com/webiny/webiny-js/blob/next/.adiorc.js \".adiorc.js\")\n\n\n\n\n\n\n\n | \n\n[.adiorc.js](https://github.com/webiny/webiny-js/blob/next/.adiorc.js \".adiorc.js\")\n\n\n\n\n\n\n\n | \n\n[fix: direct download of extensions (](https://github.com/webiny/webiny-js/commit/f67778732392ed88f28da869ddacbf08a98cdec6 \"fix: direct download of extensions (#4206)\")[#4206](https://github.com/webiny/webiny-js/pull/4206)[)](https://github.com/webiny/webiny-js/commit/f67778732392ed88f28da869ddacbf08a98cdec6 \"fix: direct download of extensions (#4206)\")\n\n\n\n | \n\nAug 19, 2024\n\n |\n| \n\n[.eslintignore](https://github.com/webiny/webiny-js/blob/next/.eslintignore \".eslintignore\")\n\n\n\n\n\n\n\n | \n\n[.eslintignore](https://github.com/webiny/webiny-js/blob/next/.eslintignore \".eslintignore\")\n\n\n\n\n\n\n\n | \n\n[refactor: update yarn to 4.6.0 (](https://github.com/webiny/webiny-js/commit/06b211c7a407ea85b9504dba2176b185b046ce28 \"refactor: update yarn to 4.6.0 (#4482)\")[#4482](https://github.com/webiny/webiny-js/pull/4482)[)](https://github.com/webiny/webiny-js/commit/06b211c7a407ea85b9504dba2176b185b046ce28 \"refactor: update yarn to 4.6.0 (#4482)\")\n\n\n\n | \n\nJan 9, 2025\n\n |\n| \n\n[.eslintrc.js](https://github.com/webiny/webiny-js/blob/next/.eslintrc.js \".eslintrc.js\")\n\n\n\n\n\n\n\n | \n\n[.eslintrc.js](https://github.com/webiny/webiny-js/blob/next/.eslintrc.js \".eslintrc.js\")\n\n\n\n\n\n\n\n | \n\n[fix: eslint rules (](https://github.com/webiny/webiny-js/commit/a9d3b1a5c082d3cbec0edbf5306a1cf5c5407727 \"fix: eslint rules (#3853)\")[#3853](https://github.com/webiny/webiny-js/pull/3853)[)](https://github.com/webiny/webiny-js/commit/a9d3b1a5c082d3cbec0edbf5306a1cf5c5407727 \"fix: eslint rules (#3853)\")\n\n\n\n | \n\nFeb 7, 2024\n\n |\n| \n\n[.gitattributes](https://github.com/webiny/webiny-js/blob/next/.gitattributes \".gitattributes\")\n\n\n\n\n\n\n\n | \n\n[.gitattributes](https://github.com/webiny/webiny-js/blob/next/.gitattributes \".gitattributes\")\n\n\n\n\n\n\n\n | \n\n[Moved all JS packages into a single monorepo.](https://github.com/webiny/webiny-js/commit/301f31265fd06f8c94e31b4427cc32f1063da3bb \"Moved all JS packages into a single monorepo.\")\n\n\n\n | \n\nJan 9, 2018\n\n |\n| \n\n[.gitignore](https://github.com/webiny/webiny-js/blob/next/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/webiny/webiny-js/blob/next/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[chore: add .nx to gitignore \\[skip ci\\]](https://github.com/webiny/webiny-js/commit/b7d4123139be3c86aabfc8cbd7b1497c2946fb4e \"chore: add .nx to gitignore [skip ci]\")\n\n\n\n | \n\nMay 17, 2024\n\n |\n| \n\n[.prettierignore](https://github.com/webiny/webiny-js/blob/next/.prettierignore \".prettierignore\")\n\n\n\n\n\n\n\n | \n\n[.prettierignore](https://github.com/webiny/webiny-js/blob/next/.prettierignore \".prettierignore\")\n\n\n\n\n\n\n\n | \n\n[chore: ignore yml files from prettier](https://github.com/webiny/webiny-js/commit/fcabc160eaa6f598a6970d87ca6365a86ee4703f \"chore: ignore yml files from prettier\")\n\n\n\n | \n\nJan 15, 2025\n\n |\n| \n\n[.prettierrc.js](https://github.com/webiny/webiny-js/blob/next/.prettierrc.js \".prettierrc.js\")\n\n\n\n\n\n\n\n | \n\n[.prettierrc.js](https://github.com/webiny/webiny-js/blob/next/.prettierrc.js \".prettierrc.js\")\n\n\n\n\n\n\n\n | \n\n[chore: update prettier to v2](https://github.com/webiny/webiny-js/commit/50c2e2d134d2b7eac8dbdcb05754ff761a903aff \"chore: update prettier to v2\")\n\n\n\n | \n\nAug 2, 2021\n\n |\n| \n\n[.verdaccio.yaml](https://github.com/webiny/webiny-js/blob/next/.verdaccio.yaml \".verdaccio.yaml\")\n\n\n\n\n\n\n\n | \n\n[.verdaccio.yaml](https://github.com/webiny/webiny-js/blob/next/.verdaccio.yaml \".verdaccio.yaml\")\n\n\n\n\n\n\n\n | \n\n[chore: add \"max\\_body\\_size\"](https://github.com/webiny/webiny-js/commit/02418ada18ef6e6f911afbbb07e38e986d2c4443 \"chore: add \\\"max_body_size\\\"\")\n\n\n\n | \n\nFeb 11, 2021\n\n |\n| \n\n[.yarnrc.yml](https://github.com/webiny/webiny-js/blob/next/.yarnrc.yml \".yarnrc.yml\")\n\n\n\n\n\n\n\n | \n\n[.yarnrc.yml](https://github.com/webiny/webiny-js/blob/next/.yarnrc.yml \".yarnrc.yml\")\n\n\n\n\n\n\n\n | \n\n[refactor: update yarn to 4.6.0 (](https://github.com/webiny/webiny-js/commit/06b211c7a407ea85b9504dba2176b185b046ce28 \"refactor: update yarn to 4.6.0 (#4482)\")[#4482](https://github.com/webiny/webiny-js/pull/4482)[)](https://github.com/webiny/webiny-js/commit/06b211c7a407ea85b9504dba2176b185b046ce28 \"refactor: update yarn to 4.6.0 (#4482)\")\n\n\n\n | \n\nJan 9, 2025\n\n |\n| \n\n[CHANGELOG.md](https://github.com/webiny/webiny-js/blob/next/CHANGELOG.md \"CHANGELOG.md\")\n\n\n\n\n\n\n\n | \n\n[CHANGELOG.md](https://github.com/webiny/webiny-js/blob/next/CHANGELOG.md \"CHANGELOG.md\")\n\n\n\n\n\n\n\n | \n\n[chore(release): publish v5.33.5 🎉 🚀](https://github.com/webiny/webiny-js/commit/5063045cd2abdcdb360f97262f9b90b8858ec1df \"chore(release): publish v5.33.5 :tada: :rocket:\")\n\n\n\n | \n\nDec 23, 2022\n\n |\n| \n\n[LICENSE](https://github.com/webiny/webiny-js/blob/next/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[LICENSE](https://github.com/webiny/webiny-js/blob/next/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[Updated the legal entity name on the license to our top-co.](https://github.com/webiny/webiny-js/commit/79b4cd88ffc4f6857a9ea00ad3e177cac53676b6 \"Updated the legal entity name on the license to our top-co.\")\n\n\n\n | \n\nFeb 20, 2023\n\n |\n| \n\n[README.md](https://github.com/webiny/webiny-js/blob/next/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/webiny/webiny-js/blob/next/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[chore: node 20](https://github.com/webiny/webiny-js/commit/8cba4f589c3a841e108288bcb54897a13ef5f8d0 \"chore: node 20\")\n\n\n\n | \n\nJan 3, 2025\n\n |\n| \n\n[SECURITY.md](https://github.com/webiny/webiny-js/blob/next/SECURITY.md \"SECURITY.md\")\n\n\n\n\n\n\n\n | \n\n[SECURITY.md](https://github.com/webiny/webiny-js/blob/next/SECURITY.md \"SECURITY.md\")\n\n\n\n\n\n\n\n | \n\n[feat: Added the issue templates and security policy to report vulnera…](https://github.com/webiny/webiny-js/commit/b2cc547ad7f87881121c01f5e25c533319c6606c \"feat: Added the issue templates and security policy to report vulnerability (#1867)\")\n\n\n\n | \n\nAug 17, 2021\n\n |\n| \n\n[babel.config.js](https://github.com/webiny/webiny-js/blob/next/babel.config.js \"babel.config.js\")\n\n\n\n\n\n\n\n | \n\n[babel.config.js](https://github.com/webiny/webiny-js/blob/next/babel.config.js \"babel.config.js\")\n\n\n\n\n\n\n\n | \n\n[chore(workspaces): rename allPackages to allWorkspaces](https://github.com/webiny/webiny-js/commit/c6c4df9f5262498ee0d53535c1b9aa8e19829d10 \"chore(workspaces): rename allPackages to allWorkspaces\")\n\n\n\n | \n\nJan 10, 2021\n\n |\n| \n\n[example.cypress.config.ts](https://github.com/webiny/webiny-js/blob/next/example.cypress.config.ts \"example.cypress.config.ts\")\n\n\n\n\n\n\n\n | \n\n[example.cypress.config.ts](https://github.com/webiny/webiny-js/blob/next/example.cypress.config.ts \"example.cypress.config.ts\")\n\n\n\n\n\n\n\n | \n\n[ci: remove `/admin`](https://github.com/webiny/webiny-js/commit/76a0cd9bd5db5a2296d232baec23a8be0eaf5e4e \"ci: remove `/admin`\")\n\n\n\n | \n\nJan 26, 2024\n\n |\n| \n\n[example.env](https://github.com/webiny/webiny-js/blob/next/example.env \"example.env\")\n\n\n\n\n\n\n\n | \n\n[example.env](https://github.com/webiny/webiny-js/blob/next/example.env \"example.env\")\n\n\n\n\n\n\n\n | \n\n[feat: assign WCP project ID via WCP\\_PROJECT\\_ID](https://github.com/webiny/webiny-js/commit/ef55575323737151a0f6675471e6964703ac7513 \"feat: assign WCP project ID via WCP_PROJECT_ID\nUsually, the ID is set via webiny.project.ts, but, for dev/testing purposes, we want to be able to set the WCP project ID via an env var too.\")\n\n\n\n | \n\nJul 8, 2022\n\n |\n| \n\n[example.graphqlconfig](https://github.com/webiny/webiny-js/blob/next/example.graphqlconfig \"example.graphqlconfig\")\n\n\n\n\n\n\n\n | \n\n[example.graphqlconfig](https://github.com/webiny/webiny-js/blob/next/example.graphqlconfig \"example.graphqlconfig\")\n\n\n\n\n\n\n\n | \n\n[chore: add example.graphqlconfig file](https://github.com/webiny/webiny-js/commit/a8287d7a86be28b57f538d0a004341af702fa779 \"chore: add example.graphqlconfig file\")\n\n\n\n | \n\nSep 18, 2020\n\n |\n| \n\n[example.lerna.json](https://github.com/webiny/webiny-js/blob/next/example.lerna.json \"example.lerna.json\")\n\n\n\n\n\n\n\n | \n\n[example.lerna.json](https://github.com/webiny/webiny-js/blob/next/example.lerna.json \"example.lerna.json\")\n\n\n\n\n\n\n\n | \n\n[chore: remove packages-v6 \\[skip ci\\]](https://github.com/webiny/webiny-js/commit/0df90887d378534ec185d92bd259e5baa89afd9c \"chore: remove packages-v6 [skip ci]\")\n\n\n\n | \n\nAug 1, 2023\n\n |\n| \n\n[jest-es-config.js](https://github.com/webiny/webiny-js/blob/next/jest-es-config.js \"jest-es-config.js\")\n\n\n\n\n\n\n\n | \n\n[jest-es-config.js](https://github.com/webiny/webiny-js/blob/next/jest-es-config.js \"jest-es-config.js\")\n\n\n\n\n\n\n\n | \n\n[chore: change ElasticSearch port (`9201` to `9200`)](https://github.com/webiny/webiny-js/commit/d66ab6063463e98a97f4d847ed107fbd68ab51d2 \"chore: change ElasticSearch port (`9201` to `9200`)\")\n\n\n\n | \n\nDec 2, 2020\n\n |\n| \n\n[jest.config.base.js](https://github.com/webiny/webiny-js/blob/next/jest.config.base.js \"jest.config.base.js\")\n\n\n\n\n\n\n\n | \n\n[jest.config.base.js](https://github.com/webiny/webiny-js/blob/next/jest.config.base.js \"jest.config.base.js\")\n\n\n\n\n\n\n\n | \n\n[feat: api log (](https://github.com/webiny/webiny-js/commit/3a255481d46002693ce9d5ccfabd60b662d1b90a \"feat: api log (#4366)\")[#4366](https://github.com/webiny/webiny-js/pull/4366)[)](https://github.com/webiny/webiny-js/commit/3a255481d46002693ce9d5ccfabd60b662d1b90a \"feat: api log (#4366)\")\n\n\n\n | \n\nNov 11, 2024\n\n |\n| \n\n[jest.config.base.setup.js](https://github.com/webiny/webiny-js/blob/next/jest.config.base.setup.js \"jest.config.base.setup.js\")\n\n\n\n\n\n\n\n | \n\n[jest.config.base.setup.js](https://github.com/webiny/webiny-js/blob/next/jest.config.base.setup.js \"jest.config.base.setup.js\")\n\n\n\n\n\n\n\n | \n\n[feat(api-headless-cms-ddb-es): entry values modifier (](https://github.com/webiny/webiny-js/commit/267d85259735a2028fdc5adfea120842ca703318 \"feat(api-headless-cms-ddb-es): entry values modifier (#3422)\")[#3422](https://github.com/webiny/webiny-js/pull/3422)[)](https://github.com/webiny/webiny-js/commit/267d85259735a2028fdc5adfea120842ca703318 \"feat(api-headless-cms-ddb-es): entry values modifier (#3422)\")\n\n\n\n | \n\nAug 1, 2023\n\n |\n| \n\n[jest.config.js](https://github.com/webiny/webiny-js/blob/next/jest.config.js \"jest.config.js\")\n\n\n\n\n\n\n\n | \n\n[jest.config.js](https://github.com/webiny/webiny-js/blob/next/jest.config.js \"jest.config.js\")\n\n\n\n\n\n\n\n | \n\n[feat(app-headless-cms): add support for nested dynamic zones and ref …](https://github.com/webiny/webiny-js/commit/ec04ae79b5bf0c1aebff70d95712fc2ce6af7951 \"feat(app-headless-cms): add support for nested dynamic zones and ref fields (#3471)\")\n\n\n\n | \n\nAug 31, 2023\n\n |\n| \n\n[package.json](https://github.com/webiny/webiny-js/blob/next/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[package.json](https://github.com/webiny/webiny-js/blob/next/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[refactor: upgrade to typescript 5 (](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f \"refactor: upgrade to typescript 5 (#4464)\")[#4464](https://github.com/webiny/webiny-js/pull/4464)[)](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f \"refactor: upgrade to typescript 5 (#4464)\")\n\n\n\n | \n\nJan 16, 2025\n\n |\n| \n\n[tsconfig.build.json](https://github.com/webiny/webiny-js/blob/next/tsconfig.build.json \"tsconfig.build.json\")\n\n\n\n\n\n\n\n | \n\n[tsconfig.build.json](https://github.com/webiny/webiny-js/blob/next/tsconfig.build.json \"tsconfig.build.json\")\n\n\n\n\n\n\n\n | \n\n[refactor: upgrade to typescript 5 (](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f \"refactor: upgrade to typescript 5 (#4464)\")[#4464](https://github.com/webiny/webiny-js/pull/4464)[)](https://github.com/webiny/webiny-js/commit/726161b4927a659643bafa8706e9c0dd74a0ce0f \"refactor: upgrade to typescript 5 (#4464)\")\n\n\n\n | \n\nJan 16, 2025\n\n |\n| \n\n[tsconfig.json](https://github.com/webiny/webiny-js/blob/next/tsconfig.json \"tsconfig.json\")\n\n\n\n\n\n\n\n | \n\n[tsconfig.json](https://github.com/webiny/webiny-js/blob/next/tsconfig.json \"tsconfig.json\")\n\n\n\n\n\n\n\n | \n\n[feat: introduce a new page rendering engine (](https://github.com/webiny/webiny-js/commit/cb483e177f4f12a7bbe786fdda67fd685664fa74 \"feat: introduce a new page rendering engine (#2928)\")[#2928](https://github.com/webiny/webiny-js/pull/2928)[)](https://github.com/webiny/webiny-js/commit/cb483e177f4f12a7bbe786fdda67fd685664fa74 \"feat: introduce a new page rendering engine (#2928)\")\n\n\n\n | \n\nJan 12, 2023\n\n |\n| \n\n[webiny.project.ts](https://github.com/webiny/webiny-js/blob/next/webiny.project.ts \"webiny.project.ts\")\n\n\n\n\n\n\n\n | \n\n[webiny.project.ts](https://github.com/webiny/webiny-js/blob/next/webiny.project.ts \"webiny.project.ts\")\n\n\n\n\n\n\n\n | \n\n[fix(app-headless-cms): various full screen editor (](https://github.com/webiny/webiny-js/commit/6bf1d8fd9dd36792aeabc3df9499c79037831e1c \"fix(app-headless-cms): various  full screen editor (#4480)\")[#4480](https://github.com/webiny/webiny-js/pull/4480)[)](https://github.com/webiny/webiny-js/commit/6bf1d8fd9dd36792aeabc3df9499c79037831e1c \"fix(app-headless-cms): various  full screen editor (#4480)\")\n\n\n\n | \n\nJan 9, 2025\n\n |\n| \n\n[yarn.lock](https://github.com/webiny/webiny-js/blob/next/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[yarn.lock](https://github.com/webiny/webiny-js/blob/next/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[chore: update pm2 agent to 2.0.4 to fix ws security issue](https://github.com/webiny/webiny-js/commit/e88b2bb5f28415d035cbfd60649fec4d6f3822b7 \"chore: update pm2 agent to 2.0.4 to fix ws security issue\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/webiny/webiny-js?screenshot=true#)\n*   [Code of conduct](https://github.com/webiny/webiny-js?screenshot=true#)\n*   [License](https://github.com/webiny/webiny-js?screenshot=true#)\n*   [Security](https://github.com/webiny/webiny-js?screenshot=true#)\n\n[![Image 35](https://github.com/webiny/webiny-js/raw/next/docs/static/webiny-logo.svg)](https://github.com/webiny/webiny-js/blob/next/docs/static/webiny-logo.svg)  \n  \n**Open-Source Serverless Enterprise CMS**\n\n[Website](https://www.webiny.com/) | [Documentation](https://www.webiny.com/docs/webiny/introduction/) | [Community Slack](https://www.webiny.com/slack) | [Forum](https://github.com/webiny/webiny-js/discussions) | [Twitter](https://twitter.com/WebinyCMS)\n\n[![Image 36: Prettier](https://camo.githubusercontent.com/754faf8c130f602a98f87fd2912a8d4b9bcf8ab623fa9ac3352853015968cdb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64655f7374796c652d70726574746965722d6666363962342e737667)](https://prettier.io/) [![Image 37: license](https://camo.githubusercontent.com/44e7845c81a431dc740c9a7f76d0ea33e030e05d7a41d6164167ee435b17168f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d677265656e2e737667)](https://github.com/webiny/webiny-js/blob/master/LICENSE) [![Image 38: SemVer](https://camo.githubusercontent.com/86bdbb7575d94258ae53b717878d9817a70e3dbf20a2074dd70153388c1de94a/687474703a2f2f696d672e736869656c64732e696f2f3a73656d7665722d322e302e302d627269676874677265656e2e737667)](http://semver.org/) [![Image 39](https://camo.githubusercontent.com/49a6c2600b8a59f430ae0c4dc502b2223da33c7c0ccebb5f15082dcbf373b206/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f74797065732f73637275622d6a732e737667)](https://camo.githubusercontent.com/49a6c2600b8a59f430ae0c4dc502b2223da33c7c0ccebb5f15082dcbf373b206/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f74797065732f73637275622d6a732e737667) [![Image 40: PRs Welcome](https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667)](http://makeapullrequest.com/) [![Image 41: Contributor Covenant](https://camo.githubusercontent.com/71217453f48cd1f12ba5a720412bb92743010653a5cc69654e627fd99e2e9104/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d322e312d3462616161612e737667)](https://github.com/webiny/webiny-js/blob/next/docs/CODE_OF_CONDUCT.md) [![Image 42: Join our Slack community https://www.webiny.com/slack](https://camo.githubusercontent.com/1ccd24a3800a0669a9b6072e5dee5a5d5297275a243538571e573966bc2a542b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d4a6f696e2532306f7572253230636f6d6d756e697479212d6f72616e6765)](https://www.webiny.com/slack)\n\nproduct-video-2022.mp4Webiny Serverless CMS includes:\n\n1️⃣ **Page Builder** - Drag&drop page editor. Pages are prerendered automatically and cached on CloudFront for lightning-fast delivery.\n\n2️⃣ **Headless CMS** - Headless CMS with a GraphQL API. Build APIs and content models through a UI. It includes content revisions, localization, and fine-grain permission control.\n\n3️⃣ **File Manager** - Upload files images. Search and organize your assets. It includes a built-in image editor for basic image manipulations.\n\n4️⃣ **Form Builder** - Build forms with a drag&drop editor. Insert forms through Page Builder into your pages. It has webhook support and ReCaptcha integration.\n\nAll Webiny apps can be customized easily to fully fit an enterprise publishing workflow and integrate with leading identity providers like OKTA and Cognito.\n\n🏁 Quick installation guide\n---------------------------\n\n[](https://github.com/webiny/webiny-js?screenshot=true#-quick-installation-guide)\n\n1.  Create a Webiny project:\n\n`npx create-webiny-project my-new-project`\n\n2.  Deploy to your AWS cloud:\n\n`yarn webiny deploy`\n\n**Prerequisites**\n\n*   Node.js ^20\n*   yarn ^1.22.21\n*   AWS account\n\nFor the detailed install guide, please see 👉 [https://www.webiny.com/docs/get-started/install-webiny](https://www.webiny.com/docs/get-started/install-webiny)\n\nNeed help, having trouble installing, find us on our community slack 👉 [https://www.webiny.com/slack](https://www.webiny.com/slack)\n\n📕 Documentation\n----------------\n\n[](https://github.com/webiny/webiny-js?screenshot=true#-documentation)\n\nFor complete documentation 👉 [https://www.webiny.com/docs](https://www.webiny.com/docs)\n\n🤝 Community & Support\n----------------------\n\n[](https://github.com/webiny/webiny-js?screenshot=true#-community--support)\n\nCommunity Forum. Best for: help with building, discussion about database best practices 👉 [https://www.webiny.com/slack](https://www.webiny.com/slack)\n\nGitHub Issues. Best for: bugs and errors you encounter using Webbiny 👉 [https://github.com/webiny/webiny-js/issues](https://github.com/webiny/webiny-js/issues)\n\n💪 Contributing\n---------------\n\n[](https://github.com/webiny/webiny-js?screenshot=true#-contributing)\n\nWebiny is all about the community. Please feel free to join in, whether it's fixing bugs, improving our documentation, or simply spreading the word. Please see our [Contributing Guidelines](https://github.com/webiny/webiny-js/blob/next/docs/CONTRIBUTING.md), which explain project organization, setup, testing, and other steps. If you need any assistance in contribution, please reach out via our [community Slack](https://www.webiny.com/slack).\n\n📜 License\n----------\n\n[](https://github.com/webiny/webiny-js?screenshot=true#-license)\n\nThis project is licensed under the terms of the [MIT license](https://github.com/webiny/webiny-js/blob/next/LICENSE) except for the following modules, which require a Webiny Enterprise license:\n\n*   Multi-tenancy module\n*   OKTA integration\n\nContact [sales@webiny.com](mailto:sales@webiny.com) for more information.\n\nWhy are those modules paid? It's a way we support the development of the project!\n\n👷‍♀️ When to use Webiny?\n-------------------------\n\n[](https://github.com/webiny/webiny-js?screenshot=true#%EF%B8%8F-when-to-use-webiny)\n\nWebiny has many features, too many to list to make this readme digestible, so instead of talking about features, here are the common use-cases you can satisfy using Webiny:\n\n*   **Headless CMS** - Programmatically integrate your apps with Webiny's GraphQL Headless CMS.\n    \n*   **GraphQL API** - You can build a GraphQL API using the [Headless CMS](https://www.webiny.com/serverless-app/headless-cms), but you can [also use the `webiny scaffold` command](https://www.webiny.com/docs/how-to-guides/scaffolding/graphql-api) to create new GraphQL resolvers where you can add your custom business logic.\n    \n*   **Marketing landing pages and micro-sites** - Using the [Page Builder](https://www.webiny.com/serverless-app/page-builder) marketing teams can quickly build new websites without knowledge of HTML or CSS.\n    \n*   **Multi-tenant SaaS applications** - Webiny has a robust multi-tenancy layer with built-in data separation. You can build your own SaaS applications on top and let Webiny handle the API, security, and data storage for you.\n    \n*   **Full-stack serverless applications** - Besides using Webiny to manage your content needs, you can expand the existing functionality by creating new full-stack serverless applications on top. Follow [this tutorial](https://www.webiny.com/docs/tutorials/create-custom-application/introduction) to build your own full-stack serverless Pinterest clone.\n    \n*   **Multi-website & multi-language portal** - All Webiny apps are multi-tenant by default, meaning with a single instance of Webiny, you can run hundreds of projects and websites from a single code-base.\n    \n*   **Dynamic Page** (coming soon) - We're working on seamless integration between the Headless CMS and the Page Builder, so you can build and publish dynamic pages without a single line of code or build pipelines required. New content is live instantly and visible to the users.\n    \n*   **Multi-cloud support** (coming soon) - At the moment, Webiny only supports AWS, but we have plans to add support for other cloud vendors such as GCP and Azure. Because Webiny uses cloud-native services to run, not containers, this task is not easy, but we have a plan.\n    \n\n❓ FAQ\n-----\n\n[](https://github.com/webiny/webiny-js?screenshot=true#-faq)\n\n**♦ Why serverless?**\n\nWe believe serverless is the future of web development. It gives us much more bang for our buck!\n\n**♦ Why open-source?**\n\nOpen-source has two main aspects over SaaS:\n\n1.  It's customizable, unlike being locked in a SaaS solution.\n2.  Your data is stored under your rules, in your data center, with your compliance standard inside your security parameter and delivered through your CDN.\n\n**♦ How is this enterprise?**\n\n1.  Webiny is built to be integrated inside enterprise environments. Being open-source is one part of that solution; the other is that Webiny integrates with enterprise IdPs such as OKTA and Cognito.\n2.  Webiny is architected to sustain heavy usage coming from large volumes of users.\n3.  Webiny is built on top of fault-tolerant serverless services.\n4.  Webiny keeps the data encrypted both in transit and at rest.\n5.  In the paid edition, enterprises have access to our SLA-based support and consultancy services.\n\n**♦ How fast and scalable is Webiny?**\n\nHow about a [load-test](https://www.webiny.com/docs/webiny-overview/performance-benchmark/introduction/) :)\n\n**♦ How much does it cost to run Webiny?**\n\nWebiny comes in 2 database options, DynamoDB + Elasticsearch and DynamoDB only. The latter option, when looking at all the infrastructure pieces Webiny uses to operate, the consumption of the AWS services fully determines the cost. In the DDB + ES option, there is a minimum ~$25/mo charge to AWS for the Elasticsearch cluster as it's not a consumption-based service.\n\nAs part of our performance benchmark, we also benchmarked the cost of the DDB + ES, specifically, Headless CMS [read](https://www.webiny.com/docs/webiny-overview/performance-benchmark/headless-cms-read-benchmark#cost-per-10k-requests) and [write](https://www.webiny.com/docs/webiny-overview/performance-benchmark/headless-cms-write-benchmark#cost-per-10k-requests) operations. So that benchmark is a good starting point to determine your cost.\n\nAs a rule of thumb, we recommend the DDB option for small and medium-size projects, which should be cheaper when compared to a solution running on VMs or containers.\n\n**♦ Why should my enterprise consider using Webiny?**\n\nTop 5 reasons to do so:\n\n1.  **Self-hosted**: Webiny runs inside your own AWS cloud; you keep control over your data and security perimeter.\n2.  **Open-source**: We released Webiny under the MIT license, so you can customize every aspect of the system to match your needs fully.\n3.  **Serverless**: Webiny runs on AWS services such as Lambda, S3, and DynamoDB, to offer a highly scalable and fault-tolerant infrastructure.\n4.  **Cost-savings**: Cut your infrastructure and operations costs by 60% to 80% compared to solutions running on VMs.\n5.  **Secure**: Webiny follows security best practices by encrypting data both in transit and rest across all services. It integrates with IdPs such as OKTA and Cognito. CodeQL and Dependabot scanning tools ensure code security.\n\n  \n\nContributors\n------------\n\n[](https://github.com/webiny/webiny-js?screenshot=true#contributors)\n\n### 🧡 Thanks goes to these wonderful people!\n\n[](https://github.com/webiny/webiny-js?screenshot=true#-thanks-goes-to-these-wonderful-people)\n\n[![Image 43](https://camo.githubusercontent.com/77193b1782d8e9a5482d1eb54f2ab2188f53fb137449a38b63ce2d9fe7f81298/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d776562696e792f776562696e792d6a73)](https://github.com/webiny/webiny-js/graphs/contributors)\n\nAbout\n-----\n\nOpen-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.\n\n[www.webiny.com](https://www.webiny.com/ \"https://www.webiny.com\")\n\n### Topics\n\n[react](https://github.com/topics/react \"Topic: react\") [nodejs](https://github.com/topics/nodejs \"Topic: nodejs\") [javascript](https://github.com/topics/javascript \"Topic: javascript\") [graphql](https://github.com/topics/graphql \"Topic: graphql\") [cms](https://github.com/topics/cms \"Topic: cms\") [aws](https://github.com/topics/aws \"Topic: aws\") [lambda](https://github.com/topics/lambda \"Topic: lambda\") [cloud](https://github.com/topics/cloud \"Topic: cloud\") [typescript](https://github.com/topics/typescript \"Topic: typescript\") [spa](https://github.com/topics/spa \"Topic: spa\") [aws-lambda](https://github.com/topics/aws-lambda \"Topic: aws-lambda\") [microservice](https://github.com/topics/microservice \"Topic: microservice\") [serverless](https://github.com/topics/serverless \"Topic: serverless\") [headless](https://github.com/topics/headless \"Topic: headless\") [lambda-functions](https://github.com/topics/lambda-functions \"Topic: lambda-functions\") [serverless-framework](https://github.com/topics/serverless-framework \"Topic: serverless-framework\") [serverless-architectures](https://github.com/topics/serverless-architectures \"Topic: serverless-architectures\") [serverless-applications](https://github.com/topics/serverless-applications \"Topic: serverless-applications\") [headless-cms](https://github.com/topics/headless-cms \"Topic: headless-cms\")\n\n### Resources\n\n[Readme](https://github.com/webiny/webiny-js?screenshot=true#readme-ov-file)\n\n### License\n\n[View license](https://github.com/webiny/webiny-js?screenshot=true#License-1-ov-file)\n\n### Code of conduct\n\n[Code of conduct](https://github.com/webiny/webiny-js?screenshot=true#coc-ov-file)\n\n### Security policy\n\n[Security policy](https://github.com/webiny/webiny-js?screenshot=true#security-ov-file)\n\n[Activity](https://github.com/webiny/webiny-js/activity)\n\n[Custom properties](https://github.com/webiny/webiny-js/custom-properties)\n\n### Stars\n\n[**7.5k** stars](https://github.com/webiny/webiny-js/stargazers)\n\n### Watchers\n\n[**71** watching](https://github.com/webiny/webiny-js/watchers)\n\n### Forks\n\n[**618** forks](https://github.com/webiny/webiny-js/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fwebiny%2Fwebiny-js&report=webiny+%28user%29)\n\n[Releases 1,842](https://github.com/webiny/webiny-js/releases)\n--------------------------------------------------------------\n\n[v5.41.4 Latest Dec 30, 2024](https://github.com/webiny/webiny-js/releases/tag/v5.41.4)\n\n[\\+ 1,841 releases](https://github.com/webiny/webiny-js/releases)\n\n[Contributors 73](https://github.com/webiny/webiny-js/graphs/contributors)\n--------------------------------------------------------------------------\n\n*   [![Image 44: @adrians5j](https://avatars.githubusercontent.com/u/5121148?s=64&v=4)](https://github.com/adrians5j)\n*   [![Image 45: @Pavel910](https://avatars.githubusercontent.com/u/3920893?s=64&v=4)](https://github.com/Pavel910)\n*   [![Image 46: @Ashu96](https://avatars.githubusercontent.com/u/13612227?s=64&v=4)](https://github.com/Ashu96)\n*   [![Image 47: @brunozoric](https://avatars.githubusercontent.com/u/10399339?s=64&v=4)](https://github.com/brunozoric)\n*   [![Image 48: @SvenAlHamad](https://avatars.githubusercontent.com/u/3808420?s=64&v=4)](https://github.com/SvenAlHamad)\n*   [![Image 49: @Andrei199991](https://avatars.githubusercontent.com/u/16700631?s=64&v=4)](https://github.com/Andrei199991)\n*   [![Image 50: @leopuleo](https://avatars.githubusercontent.com/u/2866531?s=64&v=4)](https://github.com/leopuleo)\n*   [![Image 51: @EmilK15](https://avatars.githubusercontent.com/u/9532882?s=64&v=4)](https://github.com/EmilK15)\n*   [![Image 52: @neatbyte-vnobis](https://avatars.githubusercontent.com/u/77202393?s=64&v=4)](https://github.com/neatbyte-vnobis)\n*   [![Image 53: @Ewan-Roberts](https://avatars.githubusercontent.com/u/6106045?s=64&v=4)](https://github.com/Ewan-Roberts)\n*   [![Image 54: @TommyJackson85](https://avatars.githubusercontent.com/u/22279028?s=64&v=4)](https://github.com/TommyJackson85)\n*   [![Image 55: @mihajlovco](https://avatars.githubusercontent.com/u/82515066?s=64&v=4)](https://github.com/mihajlovco)\n*   [![Image 56: @kedrzu](https://avatars.githubusercontent.com/u/2473784?s=64&v=4)](https://github.com/kedrzu)\n*   [![Image 57: @swapnilmmane](https://avatars.githubusercontent.com/u/7145848?s=64&v=4)](https://github.com/swapnilmmane)\n\n[\\+ 59 contributors](https://github.com/webiny/webiny-js/graphs/contributors)\n\nLanguages\n---------\n\n*   [TypeScript 83.6%](https://github.com/webiny/webiny-js/search?l=typescript)\n*   [JavaScript 16.1%](https://github.com/webiny/webiny-js/search?l=javascript)\n*   Other 0.3%\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 12959
+  }
+}
+```

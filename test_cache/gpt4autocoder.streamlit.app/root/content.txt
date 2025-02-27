@@ -1,0 +1,5 @@
+[Hosted with Streamlit](https://streamlit.io/cloud)
+
+Created by echohive42
+
+[![Image 3: App Creator Avatar](https://avatars.githubusercontent.com/u/122702381?v=4)](https://share.streamlit.io/user/echohive42)

@@ -1,0 +1,181 @@
+Our friends over at [Synthminds](https://synthminds.ai/) shared an incredible study with us from the University of Illinois. The title is "Unleashing Cognitive Synergy In Large Language Models: A Task-Solving Agent Through Multi-Persona Self-Collaboration”. (You can check it out [here](https://arxiv.org/pdf/2307.05300.pdf)).
+
+The study proposed a new method of prompt engineering that instructs the LLM to summon multiple personas and have them work together to solve a task. They call it solo performance prompting (SPP).
+
+For example, if you asked the LLM to write an outline for a science fiction novel, this prompting method would generate a few persons, probably a novelist, a scientist, and maybe a nuclear physicist. These three personas would engage in active dialogue until they all agreed on the output.
+
+I found this paper to be another interesting development in prompt engineering, with a technique you can implement today. I’m going to do my best to summarize the study. I'll delve into the specific experiments, explore the results, and provide insights on implementing this technique.
+
+I would highly suggest reading the whole study but for those that don’t have time, let’s jump in.
+
+### The multi-persona framework
+
+We touched on what this framework is, so let’s jump in to how it works.
+
+**How it works**
+
+The Solo Performance Prompting (SPP) method involves identifying multiple personas that are helpful for the specific task. Each persona contributes their expertise and provides input on how to approach the task based on their experience They all brainstorm together.
+
+Within this framework, one of the personas is the AI Assitant. They lead the group and the brainstorm.
+
+What makes this process flexible is that the personas are dynamically determined based on the specific task at hand.
+
+The study tested this framework in 3 expirments: Trivia Creative Writing, Codenames Collaborative, and Logic Grid Puzzle. These experiments range from knowledge-intensive tasks to reasoning-intensive tasks.
+
+‍
+
+![Image 25: Flow chart for standard prompting, Chain of thought prompting and solo performance prompting](https://cdn.prod.website-files.com/646e63db3a42c618e0a9935c/66bcb8583aa92a4b2a131e81_64b856cd5d59fd627bfcffde_Comparing%2520CoT%2520to%2520SPP.png)
+
+Personas used in standard, CoT, and SPP prompting
+
+‍
+
+‍
+
+![Image 26: prompt flow for standard prompting and SPP](https://cdn.prod.website-files.com/646e63db3a42c618e0a9935c/66ccac78d81a120d2280af2a_64b8570246319e6c1d4c74e5_Standard%2520prompting%2520flow%2520vs%2520SPP%2520prompting%2520flow.png)
+
+Prompt flow for standard prompting versus SPP
+
+‍
+
+**SPP Prompt Structure**
+
+_Persona Identification_: Identify multiple participants with special personas (including a leader persona: AI Assistant)
+
+_Beginning Remarks_: Each participant delivers beginning remarks. Providing suggestions or info on how to approach the task based on their own expertise.
+
+_Multi-Persona Iterative Collaboration_: The leader persona, AI Assistant, proposes initial solutions, consults the other participants for feedback, and revises the answer iteratively.
+
+System Principle: The first part of the prompt contains a high-level instruction: "When faced with a task, begin by identifying the participants who will contribute to solving the task. Then, initiate a multi-turn collaboration process until a final solution is reached. The participants will give critical comments and detailed suggestions whenever necessary."
+
+The prompt includes two examples to showcase expected multi-persona behavior.
+
+‍
+
+You can access the prompt template in PromptHub ([here](https://app.prompthub.us/templates/100)) and try it out right away. We added two additional examples (one that included a code generation task), to make the prompt more robust.  
+If you don't have PromptHub access but want to try it out, reply to the email that gets sent when you join the waitlist and I'll share an access code with you.
+
+‍
+
+![Image 27: Template page in PromptHub](https://cdn.prod.website-files.com/646e63db3a42c618e0a9935c/66ccac78d81a120d2280aef6_64b85935e61b5e6b2142f968_Multi-Persona%2520Template.png)
+
+‍
+
+### E**xperiment 1: Trivia**
+
+The first expirment was a classic trivia test. It was conducted twice, once with 5 questions, once with 10 questions. We’d put this experiment in the ‘knowledge-intensive’ bucket.  
+This experiment, along with all the others in this study, used [**GPT-4**](https://www.prompthub.us/models/gpt-4).
+
+‍
+
+Before diving into the results, let’s define the differnt prompting methods used.
+
+**Standard -** Classic prompting. Just asking the model straight up, like ChatGPT.
+
+[**Chain of Thought**](https://www.prompthub.us/blog/chain-of-thought-prompting-guide) **(CoT) -** Involves structuring the prompt in a way that guides the model through a series of reasoning steps to arrive at a final answer. For example:
+
+*   Prompt: "Let's solve this problem step by step. First, we need to identify the key elements of the problem. The problem states that..."
+*   The model generates a response, and the next step in the reasoning chain is introduced:
+*   Prompt: "Great, now that we've identified the key elements, let's consider how they relate to each other..."
+*   This process continues, with the prompt guiding the model through each step of the reasoning process.
+
+**SPP-Profile** **\-** The personas are pre-determined
+
+**SPP -** The personas are dynamically generated by the model
+
+With that out of the way, let’s check out the results.
+
+‍
+
+![Image 28: Results from Trivia Experiment](https://cdn.prod.website-files.com/646e63db3a42c618e0a9935c/66ccac78d81a120d2280aee0_64b85ab237c2d5bffbb400ce_Trivia%2520Results.png)
+
+Results from the Trivia Experiment
+
+‍
+
+*   SPP outperformed CoT by 23% on the 10-question trivia test, which was surprising because CoT is often considered one of the best prompting methods.
+*   Trivia requires knowledge from various areas. The results shows that SPP can be particularly helpful when a task requires diverse expertise.
+*   Standard prompting outperformed CoT.
+*   While CoT generated reasonable plans for solving the tasks, it often suffered from hallucinations or produced factually incorrect final outputs.
+*   SPP won out over SPP-Profile. You could atrtibute this to a prompting best practice known as “giving the model room to think”. Allowing the model to generate the personas resulted in better persona selection and more correct answers.
+
+‍
+
+### E**xperiment 2: Codenames Collaborative**
+
+The second experiment is based off the popular board game, Codenames. It involves a Spymaster and a Guesser. This task requires both knowledge and reasoning. If you haven’t heard of Codenames before, check out the example below.
+
+‍
+
+![Image 29: Codenames example input and output](https://cdn.prod.website-files.com/646e63db3a42c618e0a9935c/66ccac78d81a120d2280aedd_66ccac6d07cac738f48b363b_Multi%2520persona%2520prompting%2520codenames%2520example.png)
+
+‍
+
+‍
+
+Let's take a look at the results
+
+‍
+
+![Image 30: Results from Codenames Experiment](https://cdn.prod.website-files.com/646e63db3a42c618e0a9935c/66ccac78d81a120d2280aed3_64b933ed9c8880298a8e91b3_Codespaces%2520Results.png)
+
+Results from Codenames experiment
+
+What stands out?
+
+*   SPP wins out again. Showing it can effectively perform tasks that require knowledge and reasoning tasks.
+*   Standard prompting outperforms CoT again.
+*   SPP’s full output (viewable in the study) shows SPP generates a highly detailed and impressive dialogue. This highlights the value of the multi-persona iterative collaboration process in SPP, where the leader persona consults the other participants for feedback and revises the answer iteratively.
+
+‍
+
+### E**xperiment 3: Logic Grid Puzzle**
+
+The last experiment was a pure-reasoning intensive puzzle, that requires the model to solve complex puzzles. You can see what the puzzle looked like below.
+
+![Image 31: Input and Output for the logic grid puzzle experiment](https://cdn.prod.website-files.com/646e63db3a42c618e0a9935c/66ccac78d81a120d2280aeee_64b933b5299a9102617767cf_Logic%2520Grid%2520Input%253AOutput%2520Example.png)
+
+Input and output for the logic grid puzzle experiment
+
+Let’s take a look at the results.
+
+‍
+
+![Image 32: Results from the logic grid experiment](https://cdn.prod.website-files.com/646e63db3a42c618e0a9935c/66ccac78d81a120d2280aed6_64b934533eb4a41608cb9df7_Logic%2520Puzzles%2520Results.png)
+
+Results from the logic grid experiment
+
+What stands out?
+
+*   CoT finally (and significantly) outperformed standard prompting. This helps verify that CoT works better for reasoning-intensive tasks rather than knowledge-intensive tasks. .
+*   SPP signigicantly outpeformed standard prompting, and beat out CoT. This was the biggest delta between SPP and standard.
+*   SPP wins out over SPP-Profile again (more evidence for “giving the model room to think”)
+
+‍
+
+### SPP-Profile vs SPP
+
+SPP outperformed SPP-Profile in each experiment. This indicates that the ability to dynamically identify and simluate different personas based on the specific task at hand is crucial.
+
+But here’s the really interesting part.
+
+The results showed that LLMs ([GPT-4](https://www.prompthub.us/models/gpt-4) was the model used in all the experiments) can effectively identify personas without additional fine-tuning. This is promising because it suggests that SPP can be used effectively without the need for any model customization.
+
+‍
+
+### Wrapping up
+
+Prompt engineering is such a new field, and new methods are popping up everyday, with SPP being the latest. For those thinking about how you can leverage SPP in your prompts, here are my takeaways.
+
+1.  **Enhanced Problem-solving**: SPP combines multiple personas to enhance problem-solving in complex tasks.
+2.  **Knowledge and Reasoning**: SPP excels in both knowledge-intensive and reasoning-intensive tasks.
+3.  **Collaborative Process**: SPP's iterative collaboration process with personas, generates accurate results through feedback and revision.
+4.  **Flexible Persona Identification**: SPP dynamically identifies personas based on task inputs, adapting with no fine-tuning needed.
+
+To make it easy to try this method out, we created a template based on the SPP prompt discussed in the article.
+
+The template includes additional examples, including a code generation example. You can access and add the template to your prompt library [here](https://app.prompthub.us/templates/100).
+
+‍
+
+‍

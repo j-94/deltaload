@@ -1,0 +1,21 @@
+![Image 13: Symbolic logo](https://studio.symbolic.ai/images/logomark.png)
+
+Sign in to Symbolic
+-------------------
+
+Don't have an account?
+
+ [Sign up](https://studio.symbolic.ai/users/register)
+
+Email
+
+Password
+
+[Forgot?](https://studio.symbolic.ai/users/reset_password)
+
+By signing in, you agree to our [Private Beta Agreement](https://symbolic.ai/terms)
+
+Superpowers for publishing.![Image 14: publishing](https://studio.symbolic.ai/images/home_undermark.png)
+--------------------------------------------------------------------------------------------------------
+
+![Image 15: star element](https://studio.symbolic.ai/images/home_star_element.png) ![Image 16: blue element](https://studio.symbolic.ai/images/home_blue_element.png) ![Image 17: orange element](https://studio.symbolic.ai/images/home_orange_element.png) ![Image 18: red element](https://studio.symbolic.ai/images/home_red_element.png)

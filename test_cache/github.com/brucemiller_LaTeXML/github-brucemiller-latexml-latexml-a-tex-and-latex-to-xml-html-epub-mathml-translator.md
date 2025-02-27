@@ -1,0 +1,1072 @@
+---
+title: GitHub - brucemiller/LaTeXML: LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
+description: LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. - brucemiller/LaTeXML
+url: https://github.com/brucemiller/LaTeXML
+timestamp: 2025-01-20T15:30:04.442Z
+domain: github.com
+path: brucemiller_LaTeXML
+---
+
+# GitHub - brucemiller/LaTeXML: LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
+
+
+LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. - brucemiller/LaTeXML
+
+
+## Content
+
+GitHub - brucemiller/LaTeXML: LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
+===============
+                                           
+
+[Skip to content](https://github.com/brucemiller/LaTeXML?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbrucemiller%2FLaTeXML%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbrucemiller%2FLaTeXML%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=brucemiller%2FLaTeXML) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[brucemiller](https://github.com/brucemiller) / **[LaTeXML](https://github.com/brucemiller/LaTeXML)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fbrucemiller%2FLaTeXML) You must be signed in to change notification settings
+*   [Fork 104](https://github.com/login?return_to=%2Fbrucemiller%2FLaTeXML)
+*   [Star 983](https://github.com/login?return_to=%2Fbrucemiller%2FLaTeXML)
+    
+
+LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
+
+[dlmf.nist.gov/LaTeXML/](http://dlmf.nist.gov/LaTeXML/ "http://dlmf.nist.gov/LaTeXML/")
+
+### License
+
+[View license](https://github.com/brucemiller/LaTeXML/blob/master/LICENSE)
+
+[983 stars](https://github.com/brucemiller/LaTeXML/stargazers) [104 forks](https://github.com/brucemiller/LaTeXML/forks) [Branches](https://github.com/brucemiller/LaTeXML/branches) [Tags](https://github.com/brucemiller/LaTeXML/tags) [Activity](https://github.com/brucemiller/LaTeXML/activity)
+
+[Star](https://github.com/login?return_to=%2Fbrucemiller%2FLaTeXML)
+
+[Notifications](https://github.com/login?return_to=%2Fbrucemiller%2FLaTeXML) You must be signed in to change notification settings
+
+*   [Code](https://github.com/brucemiller/LaTeXML)
+*   [Issues 229](https://github.com/brucemiller/LaTeXML/issues)
+*   [Pull requests 43](https://github.com/brucemiller/LaTeXML/pulls)
+*   [Actions](https://github.com/brucemiller/LaTeXML/actions)
+*   [Projects 0](https://github.com/brucemiller/LaTeXML/projects)
+*   [Wiki](https://github.com/brucemiller/LaTeXML/wiki)
+*   [Security](https://github.com/brucemiller/LaTeXML/security)
+*   [Insights](https://github.com/brucemiller/LaTeXML/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/brucemiller/LaTeXML)
+*   [Issues](https://github.com/brucemiller/LaTeXML/issues)
+*   [Pull requests](https://github.com/brucemiller/LaTeXML/pulls)
+*   [Actions](https://github.com/brucemiller/LaTeXML/actions)
+*   [Projects](https://github.com/brucemiller/LaTeXML/projects)
+*   [Wiki](https://github.com/brucemiller/LaTeXML/wiki)
+*   [Security](https://github.com/brucemiller/LaTeXML/security)
+*   [Insights](https://github.com/brucemiller/LaTeXML/pulse)
+
+brucemiller/LaTeXML
+===================
+
+  
+
+ master
+
+[**7** Branches](https://github.com/brucemiller/LaTeXML/branches)[**35** Tags](https://github.com/brucemiller/LaTeXML/tags)
+
+[](https://github.com/brucemiller/LaTeXML/branches)[](https://github.com/brucemiller/LaTeXML/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 24: brucemiller](https://avatars.githubusercontent.com/u/2972564?v=4&size=40)](https://github.com/brucemiller)[brucemiller](https://github.com/brucemiller/LaTeXML/commits?author=brucemiller)
+
+[To attribute (](https://github.com/brucemiller/LaTeXML/commit/fa8191e757fcac70716db9f532346496a4c8a449)[#2465](https://github.com/brucemiller/LaTeXML/pull/2465)[)](https://github.com/brucemiller/LaTeXML/commit/fa8191e757fcac70716db9f532346496a4c8a449)
+
+Jan 8, 2025
+
+[fa8191e](https://github.com/brucemiller/LaTeXML/commit/fa8191e757fcac70716db9f532346496a4c8a449) · Jan 8, 2025
+
+History
+-------
+
+[6,135 Commits](https://github.com/brucemiller/LaTeXML/commits/master/)
+
+[](https://github.com/brucemiller/LaTeXML/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github/workflows](https://github.com/brucemiller/LaTeXML/tree/master/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[.github/workflows](https://github.com/brucemiller/LaTeXML/tree/master/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[migrate to win CI with full choco commands](https://github.com/brucemiller/LaTeXML/commit/415815bc1fb10211181b69720701f16b2b4b370d "migrate to win CI with full choco commands")
+
+
+
+ | 
+
+Jul 3, 2023
+
+ |
+| 
+
+[bin](https://github.com/brucemiller/LaTeXML/tree/master/bin "bin")
+
+
+
+
+
+
+
+ | 
+
+[bin](https://github.com/brucemiller/LaTeXML/tree/master/bin "bin")
+
+
+
+
+
+
+
+ | 
+
+[add status\_code field for latexmls-based calls (](https://github.com/brucemiller/LaTeXML/commit/d723d14b3e03e31f240e00aca228a42fb06f2012 "add status_code field for latexmls-based calls (#2339)")[#2339](https://github.com/brucemiller/LaTeXML/pull/2339)[)](https://github.com/brucemiller/LaTeXML/commit/d723d14b3e03e31f240e00aca228a42fb06f2012 "add status_code field for latexmls-based calls (#2339)")
+
+
+
+ | 
+
+Apr 1, 2024
+
+ |
+| 
+
+[doc](https://github.com/brucemiller/LaTeXML/tree/master/doc "doc")
+
+
+
+
+
+
+
+ | 
+
+[doc](https://github.com/brucemiller/LaTeXML/tree/master/doc "doc")
+
+
+
+
+
+
+
+ | 
+
+[Release 0.8.8 (](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 "Release 0.8.8 (#2328)
+* Bump release to 0.8.8
+* Update Changes
+* Avoid pointless warning during make test
+* Wrong conjunction; avoid warning in make test
+* Update notes
+* Updated manual
+* fix typo
+* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs
+* Update mention of arXiv")[#2328](https://github.com/brucemiller/LaTeXML/pull/2328)[)](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 "Release 0.8.8 (#2328)
+* Bump release to 0.8.8
+* Update Changes
+* Avoid pointless warning during make test
+* Wrong conjunction; avoid warning in make test
+* Update notes
+* Updated manual
+* fix typo
+* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs
+* Update mention of arXiv")
+
+
+
+ | 
+
+Feb 26, 2024
+
+ |
+| 
+
+[lib](https://github.com/brucemiller/LaTeXML/tree/master/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+[lib](https://github.com/brucemiller/LaTeXML/tree/master/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+[To attribute (](https://github.com/brucemiller/LaTeXML/commit/fa8191e757fcac70716db9f532346496a4c8a449 "To attribute (#2465)
+* New toAttribute option to Constructors, Environment which allows customizing conversion to attribute value, with syntax analogous to revert
+* List, which is a list of digested things, needs it's own toAttribute method
+* Document->setAttribute should recognize _box,_font specially; otherwise use toAttribute
+* \hskip needs the flexibility of a Constructor, but still should yield pure text spacing in attribute values
+* Attributes holding text for eventual output should (fall-back to) toAttribute, not toString
+* attributeForm is a better name for the customization option for toAttribute (dginev)
+* Issue warning for inappropriate object set for attribute value")[#2465](https://github.com/brucemiller/LaTeXML/pull/2465)[)](https://github.com/brucemiller/LaTeXML/commit/fa8191e757fcac70716db9f532346496a4c8a449 "To attribute (#2465)
+* New toAttribute option to Constructors, Environment which allows customizing conversion to attribute value, with syntax analogous to revert
+* List, which is a list of digested things, needs it's own toAttribute method
+* Document->setAttribute should recognize _box,_font specially; otherwise use toAttribute
+* \hskip needs the flexibility of a Constructor, but still should yield pure text spacing in attribute values
+* Attributes holding text for eventual output should (fall-back to) toAttribute, not toString
+* attributeForm is a better name for the customization option for toAttribute (dginev)
+* Issue warning for inappropriate object set for attribute value")
+
+
+
+ | 
+
+Jan 8, 2025
+
+ |
+| 
+
+[release](https://github.com/brucemiller/LaTeXML/tree/master/release "release")
+
+
+
+
+
+
+
+ | 
+
+[release](https://github.com/brucemiller/LaTeXML/tree/master/release "release")
+
+
+
+
+
+
+
+ | 
+
+[Release 0.8.8 (](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 "Release 0.8.8 (#2328)
+* Bump release to 0.8.8
+* Update Changes
+* Avoid pointless warning during make test
+* Wrong conjunction; avoid warning in make test
+* Update notes
+* Updated manual
+* fix typo
+* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs
+* Update mention of arXiv")[#2328](https://github.com/brucemiller/LaTeXML/pull/2328)[)](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 "Release 0.8.8 (#2328)
+* Bump release to 0.8.8
+* Update Changes
+* Avoid pointless warning during make test
+* Wrong conjunction; avoid warning in make test
+* Update notes
+* Updated manual
+* fix typo
+* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs
+* Update mention of arXiv")
+
+
+
+ | 
+
+Feb 26, 2024
+
+ |
+| 
+
+[t](https://github.com/brucemiller/LaTeXML/tree/master/t "t")
+
+
+
+
+
+
+
+ | 
+
+[t](https://github.com/brucemiller/LaTeXML/tree/master/t "t")
+
+
+
+
+
+
+
+ | 
+
+[Everymath (](https://github.com/brucemiller/LaTeXML/commit/f82b733eade2c81f24567c349929f2a696cb66cb "Everymath (#2461)
+* Use \everymath, \everydisplay correctly (latter without former)
+* Update test case to test \everymath,\everydisplay
+* Use \everymath,\everydisplay as part of Stomach->setMode
+* Math entering commands no longer need to handle \everymath,\everydisplay, just beginMode appropriately
+* Update and enrich \everymath,\everydisplay tests")[#2461](https://github.com/brucemiller/LaTeXML/pull/2461)[)](https://github.com/brucemiller/LaTeXML/commit/f82b733eade2c81f24567c349929f2a696cb66cb "Everymath (#2461)
+* Use \everymath, \everydisplay correctly (latter without former)
+* Update test case to test \everymath,\everydisplay
+* Use \everymath,\everydisplay as part of Stomach->setMode
+* Math entering commands no longer need to handle \everymath,\everydisplay, just beginMode appropriately
+* Update and enrich \everymath,\everydisplay tests")
+
+
+
+ | 
+
+Dec 28, 2024
+
+ |
+| 
+
+[tools](https://github.com/brucemiller/LaTeXML/tree/master/tools "tools")
+
+
+
+
+
+
+
+ | 
+
+[tools](https://github.com/brucemiller/LaTeXML/tree/master/tools "tools")
+
+
+
+
+
+
+
+ | 
+
+[Accents (](https://github.com/brucemiller/LaTeXML/commit/dfc3bc96306b7f14ace5b4241a9f477a6f433955 "Accents (#2404)
+* Add Unicode data and accessor for accents, along with combining char, standalone char and for use in math
+* Update OT1 FontMap to use appropriate 'standalone' chars for accents
+* Use more consistent model of unicode combining and standalone (spacing) chars for accents, leveraging data from Util::Unicode module
+* safer lookup
+* Use new Util::Unicode data to get 'unwrapped' char for over/under operand token
+* Update use of DefAccent to be consistent with Util::Unicode's better choices
+* Make keywords avoid clumsy font recoding
+* Updated tests for better tracking of font encoding
+* Simplistic handling of \accent (as overlay) when a non-accent is used; add a testcase
+* Cleaner naming conventions; use \N{NBSP} instead of a var.
+* HTML/MathML tests no longer need javascript polyfill")[#2404](https://github.com/brucemiller/LaTeXML/pull/2404)[)](https://github.com/brucemiller/LaTeXML/commit/dfc3bc96306b7f14ace5b4241a9f477a6f433955 "Accents (#2404)
+* Add Unicode data and accessor for accents, along with combining char, standalone char and for use in math
+* Update OT1 FontMap to use appropriate 'standalone' chars for accents
+* Use more consistent model of unicode combining and standalone (spacing) chars for accents, leveraging data from Util::Unicode module
+* safer lookup
+* Use new Util::Unicode data to get 'unwrapped' char for over/under operand token
+* Update use of DefAccent to be consistent with Util::Unicode's better choices
+* Make keywords avoid clumsy font recoding
+* Updated tests for better tracking of font encoding
+* Simplistic handling of \accent (as overlay) when a non-accent is used; add a testcase
+* Cleaner naming conventions; use \N{NBSP} instead of a var.
+* HTML/MathML tests no longer need javascript polyfill")
+
+
+
+ | 
+
+Aug 25, 2024
+
+ |
+| 
+
+[.gitignore](https://github.com/brucemiller/LaTeXML/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/brucemiller/LaTeXML/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[ignore .DS\_Store (](https://github.com/brucemiller/LaTeXML/commit/c044719f6f19ec11dcdd4bab7173606247ba2150 "ignore .DS_Store (#1878)
+The Mac OS X Finder app (the file explorer GUI) adds a .DS_Store file to every directory the user interacts with.")[#1878](https://github.com/brucemiller/LaTeXML/pull/1878)[)](https://github.com/brucemiller/LaTeXML/commit/c044719f6f19ec11dcdd4bab7173606247ba2150 "ignore .DS_Store (#1878)
+The Mac OS X Finder app (the file explorer GUI) adds a .DS_Store file to every directory the user interacts with.")
+
+
+
+ | 
+
+Jun 29, 2022
+
+ |
+| 
+
+[Changes](https://github.com/brucemiller/LaTeXML/blob/master/Changes "Changes")
+
+
+
+
+
+
+
+ | 
+
+[Changes](https://github.com/brucemiller/LaTeXML/blob/master/Changes "Changes")
+
+
+
+
+
+
+
+ | 
+
+[Move rule (](https://github.com/brucemiller/LaTeXML/commit/a40cf40addb4cc4b15bdd9b8e60908e827e946f2 "Move rule (#2440)
+* Update schema to move ltx:rule from only being Inline, but also Block and Para level (avoids spurious ltx:p,ltx:para)
+* Update testcases for more permissive ltx:rule schema
+* Define \vspace to use \vskip, rather than no-op
+* Make \hrule close ltx:p, if it's a full-width rule
+* Fix stupid typo
+* Update changes file for more extreme changes")[#2440](https://github.com/brucemiller/LaTeXML/pull/2440)[)](https://github.com/brucemiller/LaTeXML/commit/a40cf40addb4cc4b15bdd9b8e60908e827e946f2 "Move rule (#2440)
+* Update schema to move ltx:rule from only being Inline, but also Block and Para level (avoids spurious ltx:p,ltx:para)
+* Update testcases for more permissive ltx:rule schema
+* Define \vspace to use \vskip, rather than no-op
+* Make \hrule close ltx:p, if it's a full-width rule
+* Fix stupid typo
+* Update changes file for more extreme changes")
+
+
+
+ | 
+
+Nov 24, 2024
+
+ |
+| 
+
+[INSTALL](https://github.com/brucemiller/LaTeXML/blob/master/INSTALL "INSTALL")
+
+
+
+
+
+
+
+ | 
+
+[INSTALL](https://github.com/brucemiller/LaTeXML/blob/master/INSTALL "INSTALL")
+
+
+
+
+
+
+
+ | 
+
+[Version 0.1.0 released 2004-05-10](https://github.com/brucemiller/LaTeXML/commit/60ae115a0223b45e5f3bff459c730f59bf0182ca "Version 0.1.0 released 2004-05-10")
+
+
+
+ | 
+
+Jul 6, 2006
+
+ |
+| 
+
+[INSTALL.SKIP](https://github.com/brucemiller/LaTeXML/blob/master/INSTALL.SKIP "INSTALL.SKIP")
+
+
+
+
+
+
+
+ | 
+
+[INSTALL.SKIP](https://github.com/brucemiller/LaTeXML/blob/master/INSTALL.SKIP "INSTALL.SKIP")
+
+
+
+
+
+
+
+ | 
+
+[Do not install the man page for README.pod](https://github.com/brucemiller/LaTeXML/commit/ede01a4d5714fde53e63f4203da738ed6b7dc511 "Do not install the man page for README.pod")
+
+
+
+ | 
+
+May 24, 2016
+
+ |
+| 
+
+[LICENSE](https://github.com/brucemiller/LaTeXML/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/brucemiller/LaTeXML/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[aligned the LICENSE and site pages; updated manual](https://github.com/brucemiller/LaTeXML/commit/a35d5a3f254408108470d7620ef3b137290e5c5a "aligned the LICENSE and site pages; updated manual")
+
+
+
+ | 
+
+Jun 3, 2015
+
+ |
+| 
+
+[MANIFEST](https://github.com/brucemiller/LaTeXML/blob/master/MANIFEST "MANIFEST")
+
+
+
+
+
+
+
+ | 
+
+[MANIFEST](https://github.com/brucemiller/LaTeXML/blob/master/MANIFEST "MANIFEST")
+
+
+
+
+
+
+
+ | 
+
+[Expansions (](https://github.com/brucemiller/LaTeXML/commit/6167612e2eff3296cdb8990c9dc3a3b688f89a30 "Expansions (#2421)
+* Adjust args to readXToken and readBalanced to support but fully and partially expanded variations
+* Default state->lookupExpandable same as gullet->readXToken
+* Make GeneralText, XGeneralText use gullet->skipFiller correctly; have Expanded be fully expanded, but introduce ExpandedPartially
+* pdfTeX's \expanded, \pdfstrcmp should use XGeneralText parameter types
+* Make Expand() expand fully; add ExpandPartially defers \protected,\the
+* Use partial expansion for unit type arguments
+* Add test case distinguishing fully vs partially expanded cases
+* Clarifying comments
+* Simplify Expand(),ExpandPartially(), probably more robust, if slightly less efficient
+* For gullet->readArg Add optional expanded argument (0,1,2 for not; partial; fully expanded); Use that for Expanded, ExpandedPartially ParameterTypes (slight update of POD)")[#2421](https://github.com/brucemiller/LaTeXML/pull/2421)[)](https://github.com/brucemiller/LaTeXML/commit/6167612e2eff3296cdb8990c9dc3a3b688f89a30 "Expansions (#2421)
+* Adjust args to readXToken and readBalanced to support but fully and partially expanded variations
+* Default state->lookupExpandable same as gullet->readXToken
+* Make GeneralText, XGeneralText use gullet->skipFiller correctly; have Expanded be fully expanded, but introduce ExpandedPartially
+* pdfTeX's \expanded, \pdfstrcmp should use XGeneralText parameter types
+* Make Expand() expand fully; add ExpandPartially defers \protected,\the
+* Use partial expansion for unit type arguments
+* Add test case distinguishing fully vs partially expanded cases
+* Clarifying comments
+* Simplify Expand(),ExpandPartially(), probably more robust, if slightly less efficient
+* For gullet->readArg Add optional expanded argument (0,1,2 for not; partial; fully expanded); Use that for Expanded, ExpandedPartially ParameterTypes (slight update of POD)")
+
+
+
+ | 
+
+Sep 26, 2024
+
+ |
+| 
+
+[MANIFEST.SKIP](https://github.com/brucemiller/LaTeXML/blob/master/MANIFEST.SKIP "MANIFEST.SKIP")
+
+
+
+
+
+
+
+ | 
+
+[MANIFEST.SKIP](https://github.com/brucemiller/LaTeXML/blob/master/MANIFEST.SKIP "MANIFEST.SKIP")
+
+
+
+
+
+
+
+ | 
+
+[ignore .DS\_Store (](https://github.com/brucemiller/LaTeXML/commit/c044719f6f19ec11dcdd4bab7173606247ba2150 "ignore .DS_Store (#1878)
+The Mac OS X Finder app (the file explorer GUI) adds a .DS_Store file to every directory the user interacts with.")[#1878](https://github.com/brucemiller/LaTeXML/pull/1878)[)](https://github.com/brucemiller/LaTeXML/commit/c044719f6f19ec11dcdd4bab7173606247ba2150 "ignore .DS_Store (#1878)
+The Mac OS X Finder app (the file explorer GUI) adds a .DS_Store file to every directory the user interacts with.")
+
+
+
+ | 
+
+Jun 29, 2022
+
+ |
+| 
+
+[Makefile.PL](https://github.com/brucemiller/LaTeXML/blob/master/Makefile.PL "Makefile.PL")
+
+
+
+
+
+
+
+ | 
+
+[Makefile.PL](https://github.com/brucemiller/LaTeXML/blob/master/Makefile.PL "Makefile.PL")
+
+
+
+
+
+
+
+ | 
+
+[use Win32::ShellQuote for kpsewhich (](https://github.com/brucemiller/LaTeXML/commit/aef0bc2a9f058a636b3ee4ebf2324c9f14ece7b5 "use Win32::ShellQuote for kpsewhich (#2297)
+* escape kpsewhich arguments on Windows
+* remove pathname_is_nasty defensive checks
+The call to kpsewhich can now receive arbitrary arguments safely on all
+platforms.")[#2297](https://github.com/brucemiller/LaTeXML/pull/2297)[)](https://github.com/brucemiller/LaTeXML/commit/aef0bc2a9f058a636b3ee4ebf2324c9f14ece7b5 "use Win32::ShellQuote for kpsewhich (#2297)
+* escape kpsewhich arguments on Windows
+* remove pathname_is_nasty defensive checks
+The call to kpsewhich can now receive arbitrary arguments safely on all
+platforms.")
+
+
+
+ | 
+
+Jan 28, 2024
+
+ |
+| 
+
+[README.pod](https://github.com/brucemiller/LaTeXML/blob/master/README.pod "README.pod")
+
+
+
+
+
+
+
+ | 
+
+[README.pod](https://github.com/brucemiller/LaTeXML/blob/master/README.pod "README.pod")
+
+
+
+
+
+
+
+ | 
+
+[fix URLs for badges in the README (](https://github.com/brucemiller/LaTeXML/commit/dc89f1686becb638010dbbc9486be89bd9cf0004 "fix URLs for badges in the README (#2301)")[#2301](https://github.com/brucemiller/LaTeXML/pull/2301)[)](https://github.com/brucemiller/LaTeXML/commit/dc89f1686becb638010dbbc9486be89bd9cf0004 "fix URLs for badges in the README (#2301)")
+
+
+
+ | 
+
+Jan 28, 2024
+
+ |
+| 
+
+[manual.pdf](https://github.com/brucemiller/LaTeXML/blob/master/manual.pdf "manual.pdf")
+
+
+
+
+
+
+
+ | 
+
+[manual.pdf](https://github.com/brucemiller/LaTeXML/blob/master/manual.pdf "manual.pdf")
+
+
+
+
+
+
+
+ | 
+
+[Release 0.8.8 (](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 "Release 0.8.8 (#2328)
+* Bump release to 0.8.8
+* Update Changes
+* Avoid pointless warning during make test
+* Wrong conjunction; avoid warning in make test
+* Update notes
+* Updated manual
+* fix typo
+* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs
+* Update mention of arXiv")[#2328](https://github.com/brucemiller/LaTeXML/pull/2328)[)](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 "Release 0.8.8 (#2328)
+* Bump release to 0.8.8
+* Update Changes
+* Avoid pointless warning during make test
+* Wrong conjunction; avoid warning in make test
+* Update notes
+* Updated manual
+* fix typo
+* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs
+* Update mention of arXiv")
+
+
+
+ | 
+
+Feb 26, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/brucemiller/LaTeXML?screenshot=true#)
+*   [License](https://github.com/brucemiller/LaTeXML?screenshot=true#)
+
+[LaTeXML](http://dlmf.nist.gov/LaTeXML/)
+========================================
+
+[](https://github.com/brucemiller/LaTeXML?screenshot=true#latexml)
+
+[![Image 25](https://github.com/brucemiller/LaTeXML/workflows/Linux/badge.svg)](https://github.com/brucemiller/LaTeXML/actions?query=workflow%3ALinux) [![Image 26](https://github.com/brucemiller/LaTeXML/workflows/Windows/badge.svg)](https://github.com/brucemiller/LaTeXML/actions?query=workflow%3AWindows) [![Image 27: license](https://camo.githubusercontent.com/bd1ceeae51ea6dbdb69dfdb31fbfc9df8b0cf4d3ccee8b4111124f2b4f17050b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4343302d626c75652e737667)](https://raw.githubusercontent.com/brucemiller/LaTeXML/master/LICENSE) [![Image 28: CPAN version](https://camo.githubusercontent.com/a32a63156fe8fadcb6785d248aee99811dc24c11968a1d0d0a414d8312b6c5a8/68747470733a2f2f62616467652e667572792e696f2f706c2f4c615465584d4c2e737667)](https://metacpan.org/release/LaTeXML)LaTeXML is a TeX & LaTeX to XML, HTML, MathML, ePub, JATS, ... converter.
+
+See the included [Manual](http://dlmf.nist.gov/LaTeXML/manual.pdf) for documentation.
+
+The official project home page is at [http://dlmf.nist.gov/LaTeXML/](http://dlmf.nist.gov/LaTeXML/).
+
+LaTeXML development is currently hosted on [GitHub](https://github.com/brucemiller/LaTeXML), where you can retrieve and browse the current source, along with an [Issue tracker](https://github.com/brucemiller/LaTeXML/issues) and [Wiki](https://github.com/brucemiller/LaTeXML/wiki).
+
+For general discussion feel free to join the [mailing list](http://lists.informatik.uni-erlangen.de/mailman/listinfo/latexml).
+
+[LICENSE](http://dlmf.nist.gov/LaTeXML/notices.html)
+====================================================
+
+[](https://github.com/brucemiller/LaTeXML?screenshot=true#license)
+
+See the [LICENSE](https://github.com/brucemiller/LaTeXML/blob/master/LICENSE) file for copyright and licensing information.
+
+[AUTHOR](https://www.nist.gov/people/bruce-r-miller)
+====================================================
+
+[](https://github.com/brucemiller/LaTeXML?screenshot=true#author)
+
+Bruce R. Miller, [mailto:bruce.miller@nist.gov](mailto:bruce.miller@nist.gov), Deyan Ginev, [mailto:deyan.ginev@gmail.com](mailto:deyan.ginev@gmail.com).
+
+About
+-----
+
+LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
+
+[dlmf.nist.gov/LaTeXML/](http://dlmf.nist.gov/LaTeXML/ "http://dlmf.nist.gov/LaTeXML/")
+
+### Resources
+
+[Readme](https://github.com/brucemiller/LaTeXML?screenshot=true#readme-ov-file)
+
+### License
+
+[View license](https://github.com/brucemiller/LaTeXML?screenshot=true#License-1-ov-file)
+
+[Activity](https://github.com/brucemiller/LaTeXML/activity)
+
+### Stars
+
+[**983** stars](https://github.com/brucemiller/LaTeXML/stargazers)
+
+### Watchers
+
+[**37** watching](https://github.com/brucemiller/LaTeXML/watchers)
+
+### Forks
+
+[**104** forks](https://github.com/brucemiller/LaTeXML/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fbrucemiller%2FLaTeXML&report=brucemiller+%28user%29)
+
+[Releases 3](https://github.com/brucemiller/LaTeXML/releases)
+-------------------------------------------------------------
+
+[0.8.8 Latest Feb 26, 2024](https://github.com/brucemiller/LaTeXML/releases/tag/v0.8.8)
+
+[\+ 2 releases](https://github.com/brucemiller/LaTeXML/releases)
+
+[Packages 0](https://github.com/users/brucemiller/packages?repo_name=LaTeXML)
+-----------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 32](https://github.com/brucemiller/LaTeXML/graphs/contributors)
+-----------------------------------------------------------------------------
+
+*   [![Image 29: @brucemiller](https://avatars.githubusercontent.com/u/2972564?s=64&v=4)](https://github.com/brucemiller)
+*   [![Image 30: @dginev](https://avatars.githubusercontent.com/u/348975?s=64&v=4)](https://github.com/dginev)
+*   [![Image 31: @tkw1536](https://avatars.githubusercontent.com/u/2923242?s=64&v=4)](https://github.com/tkw1536)
+*   [![Image 32: @kpj](https://avatars.githubusercontent.com/u/645279?s=64&v=4)](https://github.com/kpj)
+*   [![Image 33: @xworld21](https://avatars.githubusercontent.com/u/1962985?s=64&v=4)](https://github.com/xworld21)
+*   [![Image 34: @teepeemm](https://avatars.githubusercontent.com/u/13021169?s=64&v=4)](https://github.com/teepeemm)
+*   [![Image 35: @Thanathan-k](https://avatars.githubusercontent.com/u/12493494?s=64&v=4)](https://github.com/Thanathan-k)
+*   [![Image 36: @bfirsh](https://avatars.githubusercontent.com/u/40906?s=64&v=4)](https://github.com/bfirsh)
+*   [![Image 37: @kohlhase](https://avatars.githubusercontent.com/u/4037538?s=64&v=4)](https://github.com/kohlhase)
+*   [![Image 38: @matteosecli](https://avatars.githubusercontent.com/u/4618521?s=64&v=4)](https://github.com/matteosecli)
+*   [![Image 39: @HansOlsson](https://avatars.githubusercontent.com/u/13217430?s=64&v=4)](https://github.com/HansOlsson)
+*   [![Image 40: @stamer](https://avatars.githubusercontent.com/u/331673?s=64&v=4)](https://github.com/stamer)
+*   [![Image 41: @fred-wang](https://avatars.githubusercontent.com/u/567455?s=64&v=4)](https://github.com/fred-wang)
+*   [![Image 42: @lkohlhase](https://avatars.githubusercontent.com/u/6492381?s=64&v=4)](https://github.com/lkohlhase)
+
+[\+ 18 contributors](https://github.com/brucemiller/LaTeXML/graphs/contributors)
+
+Languages
+---------
+
+*   [Perl 84.3%](https://github.com/brucemiller/LaTeXML/search?l=perl)
+*   [TeX 9.5%](https://github.com/brucemiller/LaTeXML/search?l=tex)
+*   [XSLT 5.0%](https://github.com/brucemiller/LaTeXML/search?l=xslt)
+*   [CSS 0.6%](https://github.com/brucemiller/LaTeXML/search?l=css)
+*   [HTML 0.2%](https://github.com/brucemiller/LaTeXML/search?l=html)
+*   [Shell 0.1%](https://github.com/brucemiller/LaTeXML/search?l=shell)
+*   Other 0.3%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - brucemiller/LaTeXML: LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.",
+  "description": "LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. - brucemiller/LaTeXML",
+  "url": "https://github.com/brucemiller/LaTeXML?screenshot=true",
+  "content": "GitHub - brucemiller/LaTeXML: LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.\n===============\n                                           \n\n[Skip to content](https://github.com/brucemiller/LaTeXML?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbrucemiller%2FLaTeXML%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbrucemiller%2FLaTeXML%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=brucemiller%2FLaTeXML) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[brucemiller](https://github.com/brucemiller) / **[LaTeXML](https://github.com/brucemiller/LaTeXML)** Public\n\n*   [Notifications](https://github.com/login?return_to=%2Fbrucemiller%2FLaTeXML) You must be signed in to change notification settings\n*   [Fork 104](https://github.com/login?return_to=%2Fbrucemiller%2FLaTeXML)\n*   [Star 983](https://github.com/login?return_to=%2Fbrucemiller%2FLaTeXML)\n    \n\nLaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.\n\n[dlmf.nist.gov/LaTeXML/](http://dlmf.nist.gov/LaTeXML/ \"http://dlmf.nist.gov/LaTeXML/\")\n\n### License\n\n[View license](https://github.com/brucemiller/LaTeXML/blob/master/LICENSE)\n\n[983 stars](https://github.com/brucemiller/LaTeXML/stargazers) [104 forks](https://github.com/brucemiller/LaTeXML/forks) [Branches](https://github.com/brucemiller/LaTeXML/branches) [Tags](https://github.com/brucemiller/LaTeXML/tags) [Activity](https://github.com/brucemiller/LaTeXML/activity)\n\n[Star](https://github.com/login?return_to=%2Fbrucemiller%2FLaTeXML)\n\n[Notifications](https://github.com/login?return_to=%2Fbrucemiller%2FLaTeXML) You must be signed in to change notification settings\n\n*   [Code](https://github.com/brucemiller/LaTeXML)\n*   [Issues 229](https://github.com/brucemiller/LaTeXML/issues)\n*   [Pull requests 43](https://github.com/brucemiller/LaTeXML/pulls)\n*   [Actions](https://github.com/brucemiller/LaTeXML/actions)\n*   [Projects 0](https://github.com/brucemiller/LaTeXML/projects)\n*   [Wiki](https://github.com/brucemiller/LaTeXML/wiki)\n*   [Security](https://github.com/brucemiller/LaTeXML/security)\n*   [Insights](https://github.com/brucemiller/LaTeXML/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/brucemiller/LaTeXML)\n*   [Issues](https://github.com/brucemiller/LaTeXML/issues)\n*   [Pull requests](https://github.com/brucemiller/LaTeXML/pulls)\n*   [Actions](https://github.com/brucemiller/LaTeXML/actions)\n*   [Projects](https://github.com/brucemiller/LaTeXML/projects)\n*   [Wiki](https://github.com/brucemiller/LaTeXML/wiki)\n*   [Security](https://github.com/brucemiller/LaTeXML/security)\n*   [Insights](https://github.com/brucemiller/LaTeXML/pulse)\n\nbrucemiller/LaTeXML\n===================\n\n  \n\n master\n\n[**7** Branches](https://github.com/brucemiller/LaTeXML/branches)[**35** Tags](https://github.com/brucemiller/LaTeXML/tags)\n\n[](https://github.com/brucemiller/LaTeXML/branches)[](https://github.com/brucemiller/LaTeXML/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 24: brucemiller](https://avatars.githubusercontent.com/u/2972564?v=4&size=40)](https://github.com/brucemiller)[brucemiller](https://github.com/brucemiller/LaTeXML/commits?author=brucemiller)\n\n[To attribute (](https://github.com/brucemiller/LaTeXML/commit/fa8191e757fcac70716db9f532346496a4c8a449)[#2465](https://github.com/brucemiller/LaTeXML/pull/2465)[)](https://github.com/brucemiller/LaTeXML/commit/fa8191e757fcac70716db9f532346496a4c8a449)\n\nJan 8, 2025\n\n[fa8191e](https://github.com/brucemiller/LaTeXML/commit/fa8191e757fcac70716db9f532346496a4c8a449) · Jan 8, 2025\n\nHistory\n-------\n\n[6,135 Commits](https://github.com/brucemiller/LaTeXML/commits/master/)\n\n[](https://github.com/brucemiller/LaTeXML/commits/master/)\n\n\n\n\n\n\n\n |\n| \n\n[.github/workflows](https://github.com/brucemiller/LaTeXML/tree/master/.github/workflows \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[.github/workflows](https://github.com/brucemiller/LaTeXML/tree/master/.github/workflows \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[migrate to win CI with full choco commands](https://github.com/brucemiller/LaTeXML/commit/415815bc1fb10211181b69720701f16b2b4b370d \"migrate to win CI with full choco commands\")\n\n\n\n | \n\nJul 3, 2023\n\n |\n| \n\n[bin](https://github.com/brucemiller/LaTeXML/tree/master/bin \"bin\")\n\n\n\n\n\n\n\n | \n\n[bin](https://github.com/brucemiller/LaTeXML/tree/master/bin \"bin\")\n\n\n\n\n\n\n\n | \n\n[add status\\_code field for latexmls-based calls (](https://github.com/brucemiller/LaTeXML/commit/d723d14b3e03e31f240e00aca228a42fb06f2012 \"add status_code field for latexmls-based calls (#2339)\")[#2339](https://github.com/brucemiller/LaTeXML/pull/2339)[)](https://github.com/brucemiller/LaTeXML/commit/d723d14b3e03e31f240e00aca228a42fb06f2012 \"add status_code field for latexmls-based calls (#2339)\")\n\n\n\n | \n\nApr 1, 2024\n\n |\n| \n\n[doc](https://github.com/brucemiller/LaTeXML/tree/master/doc \"doc\")\n\n\n\n\n\n\n\n | \n\n[doc](https://github.com/brucemiller/LaTeXML/tree/master/doc \"doc\")\n\n\n\n\n\n\n\n | \n\n[Release 0.8.8 (](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 \"Release 0.8.8 (#2328)\n* Bump release to 0.8.8\n* Update Changes\n* Avoid pointless warning during make test\n* Wrong conjunction; avoid warning in make test\n* Update notes\n* Updated manual\n* fix typo\n* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs\n* Update mention of arXiv\")[#2328](https://github.com/brucemiller/LaTeXML/pull/2328)[)](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 \"Release 0.8.8 (#2328)\n* Bump release to 0.8.8\n* Update Changes\n* Avoid pointless warning during make test\n* Wrong conjunction; avoid warning in make test\n* Update notes\n* Updated manual\n* fix typo\n* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs\n* Update mention of arXiv\")\n\n\n\n | \n\nFeb 26, 2024\n\n |\n| \n\n[lib](https://github.com/brucemiller/LaTeXML/tree/master/lib \"lib\")\n\n\n\n\n\n\n\n | \n\n[lib](https://github.com/brucemiller/LaTeXML/tree/master/lib \"lib\")\n\n\n\n\n\n\n\n | \n\n[To attribute (](https://github.com/brucemiller/LaTeXML/commit/fa8191e757fcac70716db9f532346496a4c8a449 \"To attribute (#2465)\n* New toAttribute option to Constructors, Environment which allows customizing conversion to attribute value, with syntax analogous to revert\n* List, which is a list of digested things, needs it's own toAttribute method\n* Document->setAttribute should recognize _box,_font specially; otherwise use toAttribute\n* \\hskip needs the flexibility of a Constructor, but still should yield pure text spacing in attribute values\n* Attributes holding text for eventual output should (fall-back to) toAttribute, not toString\n* attributeForm is a better name for the customization option for toAttribute (dginev)\n* Issue warning for inappropriate object set for attribute value\")[#2465](https://github.com/brucemiller/LaTeXML/pull/2465)[)](https://github.com/brucemiller/LaTeXML/commit/fa8191e757fcac70716db9f532346496a4c8a449 \"To attribute (#2465)\n* New toAttribute option to Constructors, Environment which allows customizing conversion to attribute value, with syntax analogous to revert\n* List, which is a list of digested things, needs it's own toAttribute method\n* Document->setAttribute should recognize _box,_font specially; otherwise use toAttribute\n* \\hskip needs the flexibility of a Constructor, but still should yield pure text spacing in attribute values\n* Attributes holding text for eventual output should (fall-back to) toAttribute, not toString\n* attributeForm is a better name for the customization option for toAttribute (dginev)\n* Issue warning for inappropriate object set for attribute value\")\n\n\n\n | \n\nJan 8, 2025\n\n |\n| \n\n[release](https://github.com/brucemiller/LaTeXML/tree/master/release \"release\")\n\n\n\n\n\n\n\n | \n\n[release](https://github.com/brucemiller/LaTeXML/tree/master/release \"release\")\n\n\n\n\n\n\n\n | \n\n[Release 0.8.8 (](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 \"Release 0.8.8 (#2328)\n* Bump release to 0.8.8\n* Update Changes\n* Avoid pointless warning during make test\n* Wrong conjunction; avoid warning in make test\n* Update notes\n* Updated manual\n* fix typo\n* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs\n* Update mention of arXiv\")[#2328](https://github.com/brucemiller/LaTeXML/pull/2328)[)](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 \"Release 0.8.8 (#2328)\n* Bump release to 0.8.8\n* Update Changes\n* Avoid pointless warning during make test\n* Wrong conjunction; avoid warning in make test\n* Update notes\n* Updated manual\n* fix typo\n* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs\n* Update mention of arXiv\")\n\n\n\n | \n\nFeb 26, 2024\n\n |\n| \n\n[t](https://github.com/brucemiller/LaTeXML/tree/master/t \"t\")\n\n\n\n\n\n\n\n | \n\n[t](https://github.com/brucemiller/LaTeXML/tree/master/t \"t\")\n\n\n\n\n\n\n\n | \n\n[Everymath (](https://github.com/brucemiller/LaTeXML/commit/f82b733eade2c81f24567c349929f2a696cb66cb \"Everymath (#2461)\n* Use \\everymath, \\everydisplay correctly (latter without former)\n* Update test case to test \\everymath,\\everydisplay\n* Use \\everymath,\\everydisplay as part of Stomach->setMode\n* Math entering commands no longer need to handle \\everymath,\\everydisplay, just beginMode appropriately\n* Update and enrich \\everymath,\\everydisplay tests\")[#2461](https://github.com/brucemiller/LaTeXML/pull/2461)[)](https://github.com/brucemiller/LaTeXML/commit/f82b733eade2c81f24567c349929f2a696cb66cb \"Everymath (#2461)\n* Use \\everymath, \\everydisplay correctly (latter without former)\n* Update test case to test \\everymath,\\everydisplay\n* Use \\everymath,\\everydisplay as part of Stomach->setMode\n* Math entering commands no longer need to handle \\everymath,\\everydisplay, just beginMode appropriately\n* Update and enrich \\everymath,\\everydisplay tests\")\n\n\n\n | \n\nDec 28, 2024\n\n |\n| \n\n[tools](https://github.com/brucemiller/LaTeXML/tree/master/tools \"tools\")\n\n\n\n\n\n\n\n | \n\n[tools](https://github.com/brucemiller/LaTeXML/tree/master/tools \"tools\")\n\n\n\n\n\n\n\n | \n\n[Accents (](https://github.com/brucemiller/LaTeXML/commit/dfc3bc96306b7f14ace5b4241a9f477a6f433955 \"Accents (#2404)\n* Add Unicode data and accessor for accents, along with combining char, standalone char and for use in math\n* Update OT1 FontMap to use appropriate 'standalone' chars for accents\n* Use more consistent model of unicode combining and standalone (spacing) chars for accents, leveraging data from Util::Unicode module\n* safer lookup\n* Use new Util::Unicode data to get 'unwrapped' char for over/under operand token\n* Update use of DefAccent to be consistent with Util::Unicode's better choices\n* Make keywords avoid clumsy font recoding\n* Updated tests for better tracking of font encoding\n* Simplistic handling of \\accent (as overlay) when a non-accent is used; add a testcase\n* Cleaner naming conventions; use \\N{NBSP} instead of a var.\n* HTML/MathML tests no longer need javascript polyfill\")[#2404](https://github.com/brucemiller/LaTeXML/pull/2404)[)](https://github.com/brucemiller/LaTeXML/commit/dfc3bc96306b7f14ace5b4241a9f477a6f433955 \"Accents (#2404)\n* Add Unicode data and accessor for accents, along with combining char, standalone char and for use in math\n* Update OT1 FontMap to use appropriate 'standalone' chars for accents\n* Use more consistent model of unicode combining and standalone (spacing) chars for accents, leveraging data from Util::Unicode module\n* safer lookup\n* Use new Util::Unicode data to get 'unwrapped' char for over/under operand token\n* Update use of DefAccent to be consistent with Util::Unicode's better choices\n* Make keywords avoid clumsy font recoding\n* Updated tests for better tracking of font encoding\n* Simplistic handling of \\accent (as overlay) when a non-accent is used; add a testcase\n* Cleaner naming conventions; use \\N{NBSP} instead of a var.\n* HTML/MathML tests no longer need javascript polyfill\")\n\n\n\n | \n\nAug 25, 2024\n\n |\n| \n\n[.gitignore](https://github.com/brucemiller/LaTeXML/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/brucemiller/LaTeXML/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[ignore .DS\\_Store (](https://github.com/brucemiller/LaTeXML/commit/c044719f6f19ec11dcdd4bab7173606247ba2150 \"ignore .DS_Store (#1878)\nThe Mac OS X Finder app (the file explorer GUI) adds a .DS_Store file to every directory the user interacts with.\")[#1878](https://github.com/brucemiller/LaTeXML/pull/1878)[)](https://github.com/brucemiller/LaTeXML/commit/c044719f6f19ec11dcdd4bab7173606247ba2150 \"ignore .DS_Store (#1878)\nThe Mac OS X Finder app (the file explorer GUI) adds a .DS_Store file to every directory the user interacts with.\")\n\n\n\n | \n\nJun 29, 2022\n\n |\n| \n\n[Changes](https://github.com/brucemiller/LaTeXML/blob/master/Changes \"Changes\")\n\n\n\n\n\n\n\n | \n\n[Changes](https://github.com/brucemiller/LaTeXML/blob/master/Changes \"Changes\")\n\n\n\n\n\n\n\n | \n\n[Move rule (](https://github.com/brucemiller/LaTeXML/commit/a40cf40addb4cc4b15bdd9b8e60908e827e946f2 \"Move rule (#2440)\n* Update schema to move ltx:rule from only being Inline, but also Block and Para level (avoids spurious ltx:p,ltx:para)\n* Update testcases for more permissive ltx:rule schema\n* Define \\vspace to use \\vskip, rather than no-op\n* Make \\hrule close ltx:p, if it's a full-width rule\n* Fix stupid typo\n* Update changes file for more extreme changes\")[#2440](https://github.com/brucemiller/LaTeXML/pull/2440)[)](https://github.com/brucemiller/LaTeXML/commit/a40cf40addb4cc4b15bdd9b8e60908e827e946f2 \"Move rule (#2440)\n* Update schema to move ltx:rule from only being Inline, but also Block and Para level (avoids spurious ltx:p,ltx:para)\n* Update testcases for more permissive ltx:rule schema\n* Define \\vspace to use \\vskip, rather than no-op\n* Make \\hrule close ltx:p, if it's a full-width rule\n* Fix stupid typo\n* Update changes file for more extreme changes\")\n\n\n\n | \n\nNov 24, 2024\n\n |\n| \n\n[INSTALL](https://github.com/brucemiller/LaTeXML/blob/master/INSTALL \"INSTALL\")\n\n\n\n\n\n\n\n | \n\n[INSTALL](https://github.com/brucemiller/LaTeXML/blob/master/INSTALL \"INSTALL\")\n\n\n\n\n\n\n\n | \n\n[Version 0.1.0 released 2004-05-10](https://github.com/brucemiller/LaTeXML/commit/60ae115a0223b45e5f3bff459c730f59bf0182ca \"Version 0.1.0 released 2004-05-10\")\n\n\n\n | \n\nJul 6, 2006\n\n |\n| \n\n[INSTALL.SKIP](https://github.com/brucemiller/LaTeXML/blob/master/INSTALL.SKIP \"INSTALL.SKIP\")\n\n\n\n\n\n\n\n | \n\n[INSTALL.SKIP](https://github.com/brucemiller/LaTeXML/blob/master/INSTALL.SKIP \"INSTALL.SKIP\")\n\n\n\n\n\n\n\n | \n\n[Do not install the man page for README.pod](https://github.com/brucemiller/LaTeXML/commit/ede01a4d5714fde53e63f4203da738ed6b7dc511 \"Do not install the man page for README.pod\")\n\n\n\n | \n\nMay 24, 2016\n\n |\n| \n\n[LICENSE](https://github.com/brucemiller/LaTeXML/blob/master/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[LICENSE](https://github.com/brucemiller/LaTeXML/blob/master/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[aligned the LICENSE and site pages; updated manual](https://github.com/brucemiller/LaTeXML/commit/a35d5a3f254408108470d7620ef3b137290e5c5a \"aligned the LICENSE and site pages; updated manual\")\n\n\n\n | \n\nJun 3, 2015\n\n |\n| \n\n[MANIFEST](https://github.com/brucemiller/LaTeXML/blob/master/MANIFEST \"MANIFEST\")\n\n\n\n\n\n\n\n | \n\n[MANIFEST](https://github.com/brucemiller/LaTeXML/blob/master/MANIFEST \"MANIFEST\")\n\n\n\n\n\n\n\n | \n\n[Expansions (](https://github.com/brucemiller/LaTeXML/commit/6167612e2eff3296cdb8990c9dc3a3b688f89a30 \"Expansions (#2421)\n* Adjust args to readXToken and readBalanced to support but fully and partially expanded variations\n* Default state->lookupExpandable same as gullet->readXToken\n* Make GeneralText, XGeneralText use gullet->skipFiller correctly; have Expanded be fully expanded, but introduce ExpandedPartially\n* pdfTeX's \\expanded, \\pdfstrcmp should use XGeneralText parameter types\n* Make Expand() expand fully; add ExpandPartially defers \\protected,\\the\n* Use partial expansion for unit type arguments\n* Add test case distinguishing fully vs partially expanded cases\n* Clarifying comments\n* Simplify Expand(),ExpandPartially(), probably more robust, if slightly less efficient\n* For gullet->readArg Add optional expanded argument (0,1,2 for not; partial; fully expanded); Use that for Expanded, ExpandedPartially ParameterTypes (slight update of POD)\")[#2421](https://github.com/brucemiller/LaTeXML/pull/2421)[)](https://github.com/brucemiller/LaTeXML/commit/6167612e2eff3296cdb8990c9dc3a3b688f89a30 \"Expansions (#2421)\n* Adjust args to readXToken and readBalanced to support but fully and partially expanded variations\n* Default state->lookupExpandable same as gullet->readXToken\n* Make GeneralText, XGeneralText use gullet->skipFiller correctly; have Expanded be fully expanded, but introduce ExpandedPartially\n* pdfTeX's \\expanded, \\pdfstrcmp should use XGeneralText parameter types\n* Make Expand() expand fully; add ExpandPartially defers \\protected,\\the\n* Use partial expansion for unit type arguments\n* Add test case distinguishing fully vs partially expanded cases\n* Clarifying comments\n* Simplify Expand(),ExpandPartially(), probably more robust, if slightly less efficient\n* For gullet->readArg Add optional expanded argument (0,1,2 for not; partial; fully expanded); Use that for Expanded, ExpandedPartially ParameterTypes (slight update of POD)\")\n\n\n\n | \n\nSep 26, 2024\n\n |\n| \n\n[MANIFEST.SKIP](https://github.com/brucemiller/LaTeXML/blob/master/MANIFEST.SKIP \"MANIFEST.SKIP\")\n\n\n\n\n\n\n\n | \n\n[MANIFEST.SKIP](https://github.com/brucemiller/LaTeXML/blob/master/MANIFEST.SKIP \"MANIFEST.SKIP\")\n\n\n\n\n\n\n\n | \n\n[ignore .DS\\_Store (](https://github.com/brucemiller/LaTeXML/commit/c044719f6f19ec11dcdd4bab7173606247ba2150 \"ignore .DS_Store (#1878)\nThe Mac OS X Finder app (the file explorer GUI) adds a .DS_Store file to every directory the user interacts with.\")[#1878](https://github.com/brucemiller/LaTeXML/pull/1878)[)](https://github.com/brucemiller/LaTeXML/commit/c044719f6f19ec11dcdd4bab7173606247ba2150 \"ignore .DS_Store (#1878)\nThe Mac OS X Finder app (the file explorer GUI) adds a .DS_Store file to every directory the user interacts with.\")\n\n\n\n | \n\nJun 29, 2022\n\n |\n| \n\n[Makefile.PL](https://github.com/brucemiller/LaTeXML/blob/master/Makefile.PL \"Makefile.PL\")\n\n\n\n\n\n\n\n | \n\n[Makefile.PL](https://github.com/brucemiller/LaTeXML/blob/master/Makefile.PL \"Makefile.PL\")\n\n\n\n\n\n\n\n | \n\n[use Win32::ShellQuote for kpsewhich (](https://github.com/brucemiller/LaTeXML/commit/aef0bc2a9f058a636b3ee4ebf2324c9f14ece7b5 \"use Win32::ShellQuote for kpsewhich (#2297)\n* escape kpsewhich arguments on Windows\n* remove pathname_is_nasty defensive checks\nThe call to kpsewhich can now receive arbitrary arguments safely on all\nplatforms.\")[#2297](https://github.com/brucemiller/LaTeXML/pull/2297)[)](https://github.com/brucemiller/LaTeXML/commit/aef0bc2a9f058a636b3ee4ebf2324c9f14ece7b5 \"use Win32::ShellQuote for kpsewhich (#2297)\n* escape kpsewhich arguments on Windows\n* remove pathname_is_nasty defensive checks\nThe call to kpsewhich can now receive arbitrary arguments safely on all\nplatforms.\")\n\n\n\n | \n\nJan 28, 2024\n\n |\n| \n\n[README.pod](https://github.com/brucemiller/LaTeXML/blob/master/README.pod \"README.pod\")\n\n\n\n\n\n\n\n | \n\n[README.pod](https://github.com/brucemiller/LaTeXML/blob/master/README.pod \"README.pod\")\n\n\n\n\n\n\n\n | \n\n[fix URLs for badges in the README (](https://github.com/brucemiller/LaTeXML/commit/dc89f1686becb638010dbbc9486be89bd9cf0004 \"fix URLs for badges in the README (#2301)\")[#2301](https://github.com/brucemiller/LaTeXML/pull/2301)[)](https://github.com/brucemiller/LaTeXML/commit/dc89f1686becb638010dbbc9486be89bd9cf0004 \"fix URLs for badges in the README (#2301)\")\n\n\n\n | \n\nJan 28, 2024\n\n |\n| \n\n[manual.pdf](https://github.com/brucemiller/LaTeXML/blob/master/manual.pdf \"manual.pdf\")\n\n\n\n\n\n\n\n | \n\n[manual.pdf](https://github.com/brucemiller/LaTeXML/blob/master/manual.pdf \"manual.pdf\")\n\n\n\n\n\n\n\n | \n\n[Release 0.8.8 (](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 \"Release 0.8.8 (#2328)\n* Bump release to 0.8.8\n* Update Changes\n* Avoid pointless warning during make test\n* Wrong conjunction; avoid warning in make test\n* Update notes\n* Updated manual\n* fix typo\n* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs\n* Update mention of arXiv\")[#2328](https://github.com/brucemiller/LaTeXML/pull/2328)[)](https://github.com/brucemiller/LaTeXML/commit/ae2c8b266d1aa04af4350a64c79215bbe4b7c482 \"Release 0.8.8 (#2328)\n* Bump release to 0.8.8\n* Update Changes\n* Avoid pointless warning during make test\n* Wrong conjunction; avoid warning in make test\n* Update notes\n* Updated manual\n* fix typo\n* Gratuitously use strict; use warnings to make Kwalitee happy; sort keys in dump to minimize future diffs\n* Update mention of arXiv\")\n\n\n\n | \n\nFeb 26, 2024\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/brucemiller/LaTeXML?screenshot=true#)\n*   [License](https://github.com/brucemiller/LaTeXML?screenshot=true#)\n\n[LaTeXML](http://dlmf.nist.gov/LaTeXML/)\n========================================\n\n[](https://github.com/brucemiller/LaTeXML?screenshot=true#latexml)\n\n[![Image 25](https://github.com/brucemiller/LaTeXML/workflows/Linux/badge.svg)](https://github.com/brucemiller/LaTeXML/actions?query=workflow%3ALinux) [![Image 26](https://github.com/brucemiller/LaTeXML/workflows/Windows/badge.svg)](https://github.com/brucemiller/LaTeXML/actions?query=workflow%3AWindows) [![Image 27: license](https://camo.githubusercontent.com/bd1ceeae51ea6dbdb69dfdb31fbfc9df8b0cf4d3ccee8b4111124f2b4f17050b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4343302d626c75652e737667)](https://raw.githubusercontent.com/brucemiller/LaTeXML/master/LICENSE) [![Image 28: CPAN version](https://camo.githubusercontent.com/a32a63156fe8fadcb6785d248aee99811dc24c11968a1d0d0a414d8312b6c5a8/68747470733a2f2f62616467652e667572792e696f2f706c2f4c615465584d4c2e737667)](https://metacpan.org/release/LaTeXML)LaTeXML is a TeX & LaTeX to XML, HTML, MathML, ePub, JATS, ... converter.\n\nSee the included [Manual](http://dlmf.nist.gov/LaTeXML/manual.pdf) for documentation.\n\nThe official project home page is at [http://dlmf.nist.gov/LaTeXML/](http://dlmf.nist.gov/LaTeXML/).\n\nLaTeXML development is currently hosted on [GitHub](https://github.com/brucemiller/LaTeXML), where you can retrieve and browse the current source, along with an [Issue tracker](https://github.com/brucemiller/LaTeXML/issues) and [Wiki](https://github.com/brucemiller/LaTeXML/wiki).\n\nFor general discussion feel free to join the [mailing list](http://lists.informatik.uni-erlangen.de/mailman/listinfo/latexml).\n\n[LICENSE](http://dlmf.nist.gov/LaTeXML/notices.html)\n====================================================\n\n[](https://github.com/brucemiller/LaTeXML?screenshot=true#license)\n\nSee the [LICENSE](https://github.com/brucemiller/LaTeXML/blob/master/LICENSE) file for copyright and licensing information.\n\n[AUTHOR](https://www.nist.gov/people/bruce-r-miller)\n====================================================\n\n[](https://github.com/brucemiller/LaTeXML?screenshot=true#author)\n\nBruce R. Miller, [mailto:bruce.miller@nist.gov](mailto:bruce.miller@nist.gov), Deyan Ginev, [mailto:deyan.ginev@gmail.com](mailto:deyan.ginev@gmail.com).\n\nAbout\n-----\n\nLaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.\n\n[dlmf.nist.gov/LaTeXML/](http://dlmf.nist.gov/LaTeXML/ \"http://dlmf.nist.gov/LaTeXML/\")\n\n### Resources\n\n[Readme](https://github.com/brucemiller/LaTeXML?screenshot=true#readme-ov-file)\n\n### License\n\n[View license](https://github.com/brucemiller/LaTeXML?screenshot=true#License-1-ov-file)\n\n[Activity](https://github.com/brucemiller/LaTeXML/activity)\n\n### Stars\n\n[**983** stars](https://github.com/brucemiller/LaTeXML/stargazers)\n\n### Watchers\n\n[**37** watching](https://github.com/brucemiller/LaTeXML/watchers)\n\n### Forks\n\n[**104** forks](https://github.com/brucemiller/LaTeXML/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fbrucemiller%2FLaTeXML&report=brucemiller+%28user%29)\n\n[Releases 3](https://github.com/brucemiller/LaTeXML/releases)\n-------------------------------------------------------------\n\n[0.8.8 Latest Feb 26, 2024](https://github.com/brucemiller/LaTeXML/releases/tag/v0.8.8)\n\n[\\+ 2 releases](https://github.com/brucemiller/LaTeXML/releases)\n\n[Packages 0](https://github.com/users/brucemiller/packages?repo_name=LaTeXML)\n-----------------------------------------------------------------------------\n\nNo packages published  \n\n[Contributors 32](https://github.com/brucemiller/LaTeXML/graphs/contributors)\n-----------------------------------------------------------------------------\n\n*   [![Image 29: @brucemiller](https://avatars.githubusercontent.com/u/2972564?s=64&v=4)](https://github.com/brucemiller)\n*   [![Image 30: @dginev](https://avatars.githubusercontent.com/u/348975?s=64&v=4)](https://github.com/dginev)\n*   [![Image 31: @tkw1536](https://avatars.githubusercontent.com/u/2923242?s=64&v=4)](https://github.com/tkw1536)\n*   [![Image 32: @kpj](https://avatars.githubusercontent.com/u/645279?s=64&v=4)](https://github.com/kpj)\n*   [![Image 33: @xworld21](https://avatars.githubusercontent.com/u/1962985?s=64&v=4)](https://github.com/xworld21)\n*   [![Image 34: @teepeemm](https://avatars.githubusercontent.com/u/13021169?s=64&v=4)](https://github.com/teepeemm)\n*   [![Image 35: @Thanathan-k](https://avatars.githubusercontent.com/u/12493494?s=64&v=4)](https://github.com/Thanathan-k)\n*   [![Image 36: @bfirsh](https://avatars.githubusercontent.com/u/40906?s=64&v=4)](https://github.com/bfirsh)\n*   [![Image 37: @kohlhase](https://avatars.githubusercontent.com/u/4037538?s=64&v=4)](https://github.com/kohlhase)\n*   [![Image 38: @matteosecli](https://avatars.githubusercontent.com/u/4618521?s=64&v=4)](https://github.com/matteosecli)\n*   [![Image 39: @HansOlsson](https://avatars.githubusercontent.com/u/13217430?s=64&v=4)](https://github.com/HansOlsson)\n*   [![Image 40: @stamer](https://avatars.githubusercontent.com/u/331673?s=64&v=4)](https://github.com/stamer)\n*   [![Image 41: @fred-wang](https://avatars.githubusercontent.com/u/567455?s=64&v=4)](https://github.com/fred-wang)\n*   [![Image 42: @lkohlhase](https://avatars.githubusercontent.com/u/6492381?s=64&v=4)](https://github.com/lkohlhase)\n\n[\\+ 18 contributors](https://github.com/brucemiller/LaTeXML/graphs/contributors)\n\nLanguages\n---------\n\n*   [Perl 84.3%](https://github.com/brucemiller/LaTeXML/search?l=perl)\n*   [TeX 9.5%](https://github.com/brucemiller/LaTeXML/search?l=tex)\n*   [XSLT 5.0%](https://github.com/brucemiller/LaTeXML/search?l=xslt)\n*   [CSS 0.6%](https://github.com/brucemiller/LaTeXML/search?l=css)\n*   [HTML 0.2%](https://github.com/brucemiller/LaTeXML/search?l=html)\n*   [Shell 0.1%](https://github.com/brucemiller/LaTeXML/search?l=shell)\n*   Other 0.3%\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 9664
+  }
+}
+```

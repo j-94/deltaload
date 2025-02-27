@@ -1,0 +1,128 @@
+AutoGen — Build Powerful AI Agents with ChatGPT/GPT-4 | by Venelin Valkov | Medium
+===============
+ 
+
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F426cc50ef720&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fvenelinvalkov.medium.com%2Fautogen-build-powerful-ai-agents-with-chatgpt-gpt-4-426cc50ef720&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fvenelinvalkov.medium.com%2Fautogen-build-powerful-ai-agents-with-chatgpt-gpt-4-426cc50ef720&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![Image 8](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+
+Member-only story
+
+AutoGen — Build Powerful AI Agents with ChatGPT/GPT-4
+=====================================================
+
+Explore AutoGen, a Microsoft library that lets you create LLM applications with agents. These agents can communicate and help you solve complex tasks.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Image 9: Venelin Valkov](https://miro.medium.com/v2/resize:fill:88:88/2*OoQjeo1aWgiGKub_5QxwvA.jpeg)](https://venelinvalkov.medium.com/?source=post_page---byline--426cc50ef720--------------------------------)
+
+[Venelin Valkov](https://venelinvalkov.medium.com/?source=post_page---byline--426cc50ef720--------------------------------)
+
+·[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F102e34a0beb1&operation=register&redirect=https%3A%2F%2Fvenelinvalkov.medium.com%2Fautogen-build-powerful-ai-agents-with-chatgpt-gpt-4-426cc50ef720&user=Venelin+Valkov&userId=102e34a0beb1&source=post_page-102e34a0beb1--byline--426cc50ef720---------------------post_header-----------)
+
+5 min read
+
+·
+
+Oct 17, 2023
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F426cc50ef720&operation=register&redirect=https%3A%2F%2Fvenelinvalkov.medium.com%2Fautogen-build-powerful-ai-agents-with-chatgpt-gpt-4-426cc50ef720&user=Venelin+Valkov&userId=102e34a0beb1&source=---header_actions--426cc50ef720---------------------clap_footer-----------)
+
+\--
+
+3
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F426cc50ef720&operation=register&redirect=https%3A%2F%2Fvenelinvalkov.medium.com%2Fautogen-build-powerful-ai-agents-with-chatgpt-gpt-4-426cc50ef720&source=---header_actions--426cc50ef720---------------------bookmark_footer-----------)
+
+Share
+
+![Image 10](https://miro.medium.com/v2/resize:fit:700/0*sg0-8_704ed1HT8G)
+
+Photo by [julien Tromeur](https://unsplash.com/@julientromeur?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+
+We’ll begin with an introduction to AutoGen and its benefits. Then, we’ll kick off with a basic example of building a single agent for analyzing stock price trends. Afterward, we’ll delve into a more advanced demonstration, using four agents to construct a cryptocurrency indicator, drawing insights from historical prices and news.
+
+> In this part, we will be using Jupyter Notebook to run the code. If you prefer to follow along, you can find the notebook on GitHub: [GitHub Repository](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain)
+
+What Makes AutoGen Cool?
+========================
+
+*   **Flexible Chats**: AutoGen can make agents talk to each other to solve problems. This is much more powerful than just one LLM doing everything.
+*   **Customization**: You can create agents to do specific tasks. You can choose which LLM to…
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F426cc50ef720&operation=register&redirect=https%3A%2F%2Fvenelinvalkov.medium.com%2Fautogen-build-powerful-ai-agents-with-chatgpt-gpt-4-426cc50ef720&user=Venelin+Valkov&userId=102e34a0beb1&source=---footer_actions--426cc50ef720---------------------clap_footer-----------)
+
+\--
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F426cc50ef720&operation=register&redirect=https%3A%2F%2Fvenelinvalkov.medium.com%2Fautogen-build-powerful-ai-agents-with-chatgpt-gpt-4-426cc50ef720&user=Venelin+Valkov&userId=102e34a0beb1&source=---footer_actions--426cc50ef720---------------------clap_footer-----------)
+
+\--
+
+3
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F426cc50ef720&operation=register&redirect=https%3A%2F%2Fvenelinvalkov.medium.com%2Fautogen-build-powerful-ai-agents-with-chatgpt-gpt-4-426cc50ef720&source=---footer_actions--426cc50ef720---------------------bookmark_footer-----------)
+
+[![Image 11: Venelin Valkov](https://miro.medium.com/v2/resize:fill:96:96/2*OoQjeo1aWgiGKub_5QxwvA.jpeg)](https://venelinvalkov.medium.com/?source=post_page---post_author_info--426cc50ef720--------------------------------)
+
+[![Image 12: Venelin Valkov](https://miro.medium.com/v2/resize:fill:128:128/2*OoQjeo1aWgiGKub_5QxwvA.jpeg)](https://venelinvalkov.medium.com/?source=post_page---post_author_info--426cc50ef720--------------------------------)
+
+Follow
+
+[Written by Venelin Valkov -------------------------](https://venelinvalkov.medium.com/?source=post_page---post_author_info--426cc50ef720--------------------------------)
+
+[3K Followers](https://venelinvalkov.medium.com/followers?source=post_page---post_author_info--426cc50ef720--------------------------------)
+
+·[0 Following](https://venelinvalkov.medium.com/following?source=post_page---post_author_info--426cc50ef720--------------------------------)
+
+Adventures in Artificial Intelligence [https://mlexpert.io](https://mlexpert.io/)
+
+Follow
+
+Responses (3)
+-------------
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--426cc50ef720--------------------------------)
+
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fvenelinvalkov.medium.com%2Fautogen-build-powerful-ai-agents-with-chatgpt-gpt-4-426cc50ef720&source=---post_responses--426cc50ef720---------------------respond_sidebar-----------)
+
+Also publish to my profile
+
+Respond
+
+Respond
+
+See all responses
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----426cc50ef720--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----426cc50ef720--------------------------------)
+
+[About](https://medium.com/about?autoplay=1&source=post_page-----426cc50ef720--------------------------------)
+
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----426cc50ef720--------------------------------)
+
+[Press](https://venelinvalkov.medium.com/pressinquiries@medium.com?source=post_page-----426cc50ef720--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----426cc50ef720--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----426cc50ef720--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----426cc50ef720--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----426cc50ef720--------------------------------)
+
+[Teams](https://medium.com/business?source=post_page-----426cc50ef720--------------------------------)

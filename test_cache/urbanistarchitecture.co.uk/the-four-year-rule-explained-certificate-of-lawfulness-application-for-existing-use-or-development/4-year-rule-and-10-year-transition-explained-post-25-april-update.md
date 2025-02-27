@@ -1,0 +1,231 @@
+---
+title: 4 year rule and 10 year transition explained [Post-25 April update]
+description: Did you convert your house into flats without planning permission? The most-shared guide about 4 and 10 year rule. Act swiftly to regularise your property.
+url: https://urbanistarchitecture.co.uk/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/
+timestamp: 2025-01-20T16:09:50.957Z
+domain: urbanistarchitecture.co.uk
+path: the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development
+---
+
+# 4 year rule and 10 year transition explained [Post-25 April update]
+
+
+Did you convert your house into flats without planning permission? The most-shared guide about 4 and 10 year rule. Act swiftly to regularise your property.
+
+
+## Content
+
+Here's your issue: you – or your property’s previous owner – made changes without getting the planning permission that was required.
+
+Maybe you’ve converted your house into multiple flats unlawfully, or perhaps you added a rear extension to your home without understanding the need for planning permission.
+
+If you didn't realise that you were breaking planning rules at the time, then it can be alarming to discover you've done the wrong thing, and that you could be issued with an enforcement notice at any moment if your local authority learns of these changes.
+
+If you're panicking - take a breath!
+
+The good news is that, in some cases, a Certificate of Lawfulness – long known as a '4 year rule' - application can help you fix your sticky situation.
+
+In this article, you'll learn more about the policy behind the Certificate of Lawfulness procedure, and how we successfully help our clients navigate what can be a confusing application process.
+
+But before we get there, there is an important update concerning the four year rule that, if you're reading this article, we think could impact you.
+
+4 year rule expands to 10 years starting 25th April 2024
+--------------------------------------------------------
+
+Long story short, the four-year rule was [replaced by a ten year rule](https://www.rtpi.org.uk/media/16105/lura-enforcement-guidance.pdf) on 25th April 2024. This means that moving forward, any works completed without the required planning permission will need to demonstrate ten years of continuous use rather than four - a far more arduous task.
+
+However, there are some transitional provisions and if your project was “substantially completed” before April 25, then the new time limit may not apply to you.
+
+What does “substantially completed” mean? Great question. The definition is vague and will likely be further clarified and defined over the next few years through consequential appeals and court interpretations.
+
+In the meantime, the Royal Town Planning Institute (RTPI) has offered the following transitional guidance in their most updated Enforcement Handbook: “Substantial completion is not always clear and is a matter of fact and degree. A building is complete when it is complete for the purposes for which it was intended.”
+
+Additionally, the RTPI note that when buildings are built in stages, the clock can be restarted if lawfulness of a previous stage has not been accrued and demonstrated. This will similarly likely be tested through the legal system over the coming years.
+
+If you have any questions, please get in touch with our team.
+
+What's the 4 year rule in planning?
+-----------------------------------
+
+Put simply, the 4 year rule is a way you can retrospectively bring your property into line with local council regulations, meaning you won't be running the risk of receiving an enforcement notice, which could mean returning your property to the state it was in before you made your changes.
+
+In order to do attain a Certificate of Lawfulness for four year rule, current policy requires applicants to prove that the property has constantly been in the same use throughout the past four year period – which is why the process is commonly referred to as the '4 year rule'.
+
+Planning policy context
+-----------------------
+
+Any application for a Certificate of Lawfulness draws upon the Town and Country Planning Act (1990) section 191. The policy defines the purpose of a Certificate of Lawfulness as follows:
+
+If any person wishes to learn whether:
+
+a. Any existing use of buildings or land is lawful;
+
+b. Any operations which have been carried out in, on, over or under land are lawful; or
+
+c. Any other matter constituting a failure to comply with any condition or limitation subject to which planning permission has been granted is lawful,
+
+…then they are able to make an application for the purpose of determining this to their local planning authority. Your application is therefore seeking to understand whether your development is now lawful, since the enforcement period has passed.
+
+The Act goes on to define an operation as ‘lawful’ if no enforcement action can be taken against it and if no enforcement action is already in place.
+
+This is an important point: it’s not possible to apply for a Certificate of Lawfulness if enforcement action is in progress. That’s because a key element to prove here is the fact that you were unknowingly in breach of planning regulation – and enforcement, of course, would have brought this to your attention.
+
+While the policy uses clunky language to explain this, it establishes a helpful route for avoiding the threat of any future enforcement that could negatively impact the property.
+
+Besides, in Certificate of Lawfulness applications, the planning policies and the merits of the development are of no concern. The decision is solely based on the law and the evidence provided as to how the property has been used in the past. The onus is on the applicant to prove their case on the balance of probability.
+
+Additionally, it is established law that in these cases, there is no need for independent evidence if the evidence provided by the applicant is clear, unambiguous, and convincing. Therefore, your planning consultants should aim to present a case that encompasses these three aspects.
+
+   ![Image 26: Prospective homebuyers intently viewing real estate listings in a property agent's window, reflecting their search for a new home in an urban neighborhood.](https://urbanistarchitecture.co.uk/media/pages/blog/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/346c8a5476-1679668560/02-the-four-year-rule-1024x.jpg)
+
+How do I know if I qualify for the '4 year rule' - and what is the '10 Year Rule'?
+----------------------------------------------------------------------------------
+
+There are a few other points of confusion that come up about this, even beyond the looming legislation update. Incidentally, these also derive from the Town and Country Planning Act (1990) – Section 171B this time.
+
+The policy defines a four year enforcement period for the change of use of any building to be used as a single dwellinghouse (use class C3). It also specifies a four year enforcement period for unauthorised building works.
+
+This differs from the so-called 10 Year Rule. Section 171B states that “any other breach of planning control” is subject to a 10 year enforcement period.
+
+So, if you’re trying to regularise a non-residential building, or deal with a planning condition that has not been complied with, you’ll have to prove 10 continuous years of the relevant use. This could, for instance, mean regularising an agricultural outbuilding in the Green Belt that’s not being used as housing.
+
+The evidence for this may look different than the evidence you’ll need to gather for a residential 4 year rule application – which we’ll cover later. Since you likely won’t have the same type of consistent proof offered by bank statements and rent payments, you may have to get creative. Google Earth satellite imagery and sworn, notarised affidavits could play a role here.
+
+We should also note that the 10 year rule generally applies when it comes to HMOs, because of their use class (C4 or sui generis). In order to secure a Certificate of Lawfulness, you’ll need at least a decade of consistent evidence that demonstrates the relevant continued use.
+
+   ![Image 27: Architectural planning with detailed house blueprints, a laptop, drafting compass, and pencil on a wooden desk, showcasing the design phase of home construction.](https://urbanistarchitecture.co.uk/media/pages/blog/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/847ec75049-1679668560/03-the-four-year-rule-1024x.jpg)
+
+Certificate of lawfulness vs retrospective planning permission
+--------------------------------------------------------------
+
+Under the Act, a Certificate of Lawfulness is therefore defined as a legal document that regularises unauthorised development. The current 4 year rule allows you to make a formal application to determine whether your unauthorised use has become lawful through the passage of time — rather than through its compliance with space standards and other planning requirements.
+
+It therefore allows your use to continue without the need for planning permission.
+
+In many ways, this is a desirable alternative to the other option available to you: applying for full planning consent through a retrospective planning application. The burden of proof here is much higher, because a full [planning application](https://urbanistarchitecture.co.uk/planning-permission-london/) requires the development to adhere strictly to national and local standards.
+
+Anything that the council could consider a material planning consideration would be of relevance to a retrospective planning application. This could include factors like:
+
+*   Overlooking/loss of privacy
+*   Impact on neighbouring amenity
+*   Loss of light or overshadowing
+*   Design (bulk and massing, appearance and materials)
+*   Layout and density of building
+*   Highway safety
+*   Traffic generation
+*   Parking (vehicle and cycle)
+*   Effect on the character of the area
+*   Effect on listed building and conservation area
+*   Access for emergency services
+*   Emergency exits for residents
+*   Biodiversity and potential harm to valued plants, insects and wildlife
+
+And that list is not even exhaustive. So, if you have the right evidence and are able to clearly prove that your property has been in continuous use over the designated (4 or 10 year) period of time, then a Certificate of Lawfulness can be a far safer route to take in terms of regularising your permission.
+
+   ![Image 28: Approved urban planning documents with a 'GRANTED' stamp from Haringey Council, including a Certificate of Lawfulness and detailed application references, demonstrating successful building permission processes.](https://urbanistarchitecture.co.uk/media/pages/blog/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/5bcf593052-1679668560/04-the-four-year-rule-1024x.jpg)
+
+What do I need to make a '4 year rule' application?
+---------------------------------------------------
+
+However, ‘safe’ does not mean ‘easy.’ Nothing is guaranteed when it comes to seeking planning consent, and a Certificate of Lawfulness is no exception.
+
+In order for your application to be successful, your architects or planners need to provide your council with sufficient factual information for them to consider the evidence.
+
+For example, in the case of regularising the use of your house as multiple self-contained flats, you should be able to prove the site’s continued, uninterrupted use as flats for a minimum of four years. (Remember, in the case of an HMO, this extends to 10).
+
+Potential evidence includes but is not limited to the following:
+
+*   Tenancy agreements for the last 4 years;
+*   Electoral Roll evidence of current and previous tenants;
+*   Council tax bills for the last 4 years;
+*   Electricity, water and gas bills for the last 4 years;
+*   Title Register;
+*   Any vehicle registration documents;
+*   Any dated photos indicating the previous use of the site or buildings;
+*   Any sworn affidavits from people with personal knowledge of the existing use or works carried out and;
+*   Any additional maintenance bills (i.e. builder bills, appliance bills, community charge bills and etc.).
+
+A word of caution: these examples are meant to give an idea of the documents required but the list is NOT exhaustive. It is wise to engage the services of professionals with experience in obtaining Certificates of Lawfulness to avoid receiving an enforcement notice from your local council.
+
+   ![Image 29: Official planning documents from Hackney Council with an 'APPROVED' stamp, showcasing a detailed lawful development certificate for a property project, signifying compliance with Local Planning regulations.](https://urbanistarchitecture.co.uk/media/pages/blog/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/b5d07aeef9-1679668560/05-the-four-year-rule-1024x.jpg)
+
+Why do I need to do this?
+-------------------------
+
+A Certificate of Lawfulness is important for owners in this unfortunate situation, because one will definitely be needed if you ever go to sell your property. You also will need it if you ever go to remortgage. And, it prevents you from ever experiencing enforcement action in the future.
+
+Because a Certificate of Lawfulness is a retrospective regularisation, getting one is more complicated than it sounds. You will need to provide sufficient factual information to demonstrate that the use in question has continued at the same level of intensity, and for the same purpose, for the last four consecutive years.
+
+We therefore often accompany our evidence with a detailed Design and Access Statement to tell the story of the evidence and make clear what we are proving.
+
+To date, we have prepared, submitted and managed dozens of Certificate of Lawfulness applications, and have maintained a 97% success rate. We look forward to helping you regularise your unauthorised development.
+
+### Applicants for a COL will soon need to show 10 years of continuous use. Act swiftly to regularise your property under the 4 year rule.
+
+[LEARN MORE](https://urbanistarchitecture.co.uk/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/#author)
+
+Is a planning condition concerning housing subject to the 4 year rule or the 10 year rule?
+------------------------------------------------------------------------------------------
+
+This has been the subject of endless debate within planning circles. The confusion is caused by two things that are generally agreed on but clash:
+
+a) The use of a property or part of a property as a single home falls under the four year rule  
+b) Breaches of planning conditions are covered by the 10 year rule
+
+The consensus in the profession has leaned towards 10 years being the correct answer. However, a landmark planning appeal in summer 2022 gave permission for the continued use of a barn as a home that had been under a condition restricting it to agricultural use and for which there were four years of evidence.
+
+Even so, planning inspectors can give contradictory rulings and so we would continue to advise caution when it comes to planning conditions and Certificate of Lawfulness applications. For our clients, we will assess the situation on a case-by-case basis and advise them on the safest path in their particular circumstances.
+
+I've got a property license for an HMO - do I still need a Certificate of Lawfulness?
+-------------------------------------------------------------------------------------
+
+We get often get calls from HMO owners who are confused by the fact that they have a licence from the council for their HMO and yet they have been told there is a possibility of enforcement because they don’t have planning permission.
+
+Planning permission is a legal authorisation granted by the local planning authority, which allows a proposed development to proceed. It ensures that any proposed development is in compliance with local planning policies and regulations, and takes into consideration factors such as the impact on the surrounding environment, infrastructure, and community.
+
+On the other hand, property licensing is a regulatory framework that sets out the minimum standards for rented properties. It aims to ensure that rented properties are safe, habitable, and well-managed. Property licensing requirements vary across different local authorities and depend on the type of property being rented and the number of occupants.
+
+To clarify, obtaining documents of property licensing and building control approval does not mean you have planning permission for an HMO (house in multiple occupation). However, having these documents may serve as supporting evidence if you choose to regularise your HMO through the 10 year rule.
+
+In such cases, the approval documents of property licensing and building control may demonstrate to the council that the property has been used as an HMO for over 10 years. However, to determine whether you are eligible to apply for a Certificate of Lawfulness, further supporting documentation is likely to be required.
+
+How to avoid needing a Certificate of Lawfulness for Existing Development
+-------------------------------------------------------------------------
+
+We’ve mostly focused on the 4 and 10 year rules for existing use, but the rules also cover building something. And one easily avoidable issue concerns permitted development. What tends to happen is this:
+
+People do a loft conversion, build a rear extension or an outbuilding under permitted development. Because they’ve been told this is something they are allowed to do, they don’t bother getting paperwork. Then, a few years later, they come to sell the house or remortgage and discover they need to have that paperwork, and sometimes start to worry about whether their building contractor did stick to the rules.
+
+The safer path is always to get a Certificate of Lawfulness for Proposed Development before you start the work if you are making changes to a house - that means you’ve checked with the council in advance that what you want to do is OK and have plans that you will be sure are within the rules (and make sure your builders stick to them). This will spare time, money and much stress later on.
+
+Urbanist Architecture's 97% success rate for Certificate of Lawfulness for Existing Use or Development
+------------------------------------------------------------------------------------------------------
+
+As we have said, getting a Certificate of Lawfulness is far from simple. Remember, you are trying to prove that you have done something the council did not want you to do, and get them to agree that there is nothing you can do about it. Approving COL applications causes headaches for councils, because they then have to explain to people with no knowledge of the planning system why their neighbour has been allowed a flat conversion or an extension and they will not be able to have the same thing. So planning officers can be very tough when looking at these applications, looking for any holes in the evidence that has been presented.
+
+That's why we are proud of our record with four and ten year rule applications, many of them for flat conversions but also for roof terraces, the use of a garage as a home and various commercial cases. We're based in London, but we have worked on successful Certificate of Lawful applications in, for instance, Dover as well as South Norfolk.
+
+Our rigorous feasibility process means that we will let you know if you have a good chance of succeeding well before we get to the point of submitting anything on your behalf.
+
+How Urbanist Architecture can help you
+--------------------------------------
+
+Urbanist Architecture is a London-based RIBA chartered architecture and planning practice with offices in Greenwich and Belgravia. We have a record of getting Certificates of Lawfulness granted that compares to any in the business.
+
+To minimise your risks, get in touch today to discuss how we can help you understand the status of your property and give you the best chance to get it regularised.
+
+Please note, we do not take on four year rule applications for garden outbuildings used as housing.
+
+## Metadata
+
+```json
+{
+  "title": "4 year rule and 10 year transition explained [Post-25 April update]",
+  "description": "Did you convert your house into flats without planning permission? The most-shared guide about 4 and 10 year rule. Act swiftly to regularise your property.",
+  "url": "https://urbanistarchitecture.co.uk/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/",
+  "content": "Here's your issue: you – or your property’s previous owner – made changes without getting the planning permission that was required.\n\nMaybe you’ve converted your house into multiple flats unlawfully, or perhaps you added a rear extension to your home without understanding the need for planning permission.\n\nIf you didn't realise that you were breaking planning rules at the time, then it can be alarming to discover you've done the wrong thing, and that you could be issued with an enforcement notice at any moment if your local authority learns of these changes.\n\nIf you're panicking - take a breath!\n\nThe good news is that, in some cases, a Certificate of Lawfulness – long known as a '4 year rule' - application can help you fix your sticky situation.\n\nIn this article, you'll learn more about the policy behind the Certificate of Lawfulness procedure, and how we successfully help our clients navigate what can be a confusing application process.\n\nBut before we get there, there is an important update concerning the four year rule that, if you're reading this article, we think could impact you.\n\n4 year rule expands to 10 years starting 25th April 2024\n--------------------------------------------------------\n\nLong story short, the four-year rule was [replaced by a ten year rule](https://www.rtpi.org.uk/media/16105/lura-enforcement-guidance.pdf) on 25th April 2024. This means that moving forward, any works completed without the required planning permission will need to demonstrate ten years of continuous use rather than four - a far more arduous task.\n\nHowever, there are some transitional provisions and if your project was “substantially completed” before April 25, then the new time limit may not apply to you.\n\nWhat does “substantially completed” mean? Great question. The definition is vague and will likely be further clarified and defined over the next few years through consequential appeals and court interpretations.\n\nIn the meantime, the Royal Town Planning Institute (RTPI) has offered the following transitional guidance in their most updated Enforcement Handbook: “Substantial completion is not always clear and is a matter of fact and degree. A building is complete when it is complete for the purposes for which it was intended.”\n\nAdditionally, the RTPI note that when buildings are built in stages, the clock can be restarted if lawfulness of a previous stage has not been accrued and demonstrated. This will similarly likely be tested through the legal system over the coming years.\n\nIf you have any questions, please get in touch with our team.\n\nWhat's the 4 year rule in planning?\n-----------------------------------\n\nPut simply, the 4 year rule is a way you can retrospectively bring your property into line with local council regulations, meaning you won't be running the risk of receiving an enforcement notice, which could mean returning your property to the state it was in before you made your changes.\n\nIn order to do attain a Certificate of Lawfulness for four year rule, current policy requires applicants to prove that the property has constantly been in the same use throughout the past four year period – which is why the process is commonly referred to as the '4 year rule'.\n\nPlanning policy context\n-----------------------\n\nAny application for a Certificate of Lawfulness draws upon the Town and Country Planning Act (1990) section 191. The policy defines the purpose of a Certificate of Lawfulness as follows:\n\nIf any person wishes to learn whether:\n\na. Any existing use of buildings or land is lawful;\n\nb. Any operations which have been carried out in, on, over or under land are lawful; or\n\nc. Any other matter constituting a failure to comply with any condition or limitation subject to which planning permission has been granted is lawful,\n\n…then they are able to make an application for the purpose of determining this to their local planning authority. Your application is therefore seeking to understand whether your development is now lawful, since the enforcement period has passed.\n\nThe Act goes on to define an operation as ‘lawful’ if no enforcement action can be taken against it and if no enforcement action is already in place.\n\nThis is an important point: it’s not possible to apply for a Certificate of Lawfulness if enforcement action is in progress. That’s because a key element to prove here is the fact that you were unknowingly in breach of planning regulation – and enforcement, of course, would have brought this to your attention.\n\nWhile the policy uses clunky language to explain this, it establishes a helpful route for avoiding the threat of any future enforcement that could negatively impact the property.\n\nBesides, in Certificate of Lawfulness applications, the planning policies and the merits of the development are of no concern. The decision is solely based on the law and the evidence provided as to how the property has been used in the past. The onus is on the applicant to prove their case on the balance of probability.\n\nAdditionally, it is established law that in these cases, there is no need for independent evidence if the evidence provided by the applicant is clear, unambiguous, and convincing. Therefore, your planning consultants should aim to present a case that encompasses these three aspects.\n\n   ![Image 26: Prospective homebuyers intently viewing real estate listings in a property agent's window, reflecting their search for a new home in an urban neighborhood.](https://urbanistarchitecture.co.uk/media/pages/blog/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/346c8a5476-1679668560/02-the-four-year-rule-1024x.jpg)\n\nHow do I know if I qualify for the '4 year rule' - and what is the '10 Year Rule'?\n----------------------------------------------------------------------------------\n\nThere are a few other points of confusion that come up about this, even beyond the looming legislation update. Incidentally, these also derive from the Town and Country Planning Act (1990) – Section 171B this time.\n\nThe policy defines a four year enforcement period for the change of use of any building to be used as a single dwellinghouse (use class C3). It also specifies a four year enforcement period for unauthorised building works.\n\nThis differs from the so-called 10 Year Rule. Section 171B states that “any other breach of planning control” is subject to a 10 year enforcement period.\n\nSo, if you’re trying to regularise a non-residential building, or deal with a planning condition that has not been complied with, you’ll have to prove 10 continuous years of the relevant use. This could, for instance, mean regularising an agricultural outbuilding in the Green Belt that’s not being used as housing.\n\nThe evidence for this may look different than the evidence you’ll need to gather for a residential 4 year rule application – which we’ll cover later. Since you likely won’t have the same type of consistent proof offered by bank statements and rent payments, you may have to get creative. Google Earth satellite imagery and sworn, notarised affidavits could play a role here.\n\nWe should also note that the 10 year rule generally applies when it comes to HMOs, because of their use class (C4 or sui generis). In order to secure a Certificate of Lawfulness, you’ll need at least a decade of consistent evidence that demonstrates the relevant continued use.\n\n   ![Image 27: Architectural planning with detailed house blueprints, a laptop, drafting compass, and pencil on a wooden desk, showcasing the design phase of home construction.](https://urbanistarchitecture.co.uk/media/pages/blog/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/847ec75049-1679668560/03-the-four-year-rule-1024x.jpg)\n\nCertificate of lawfulness vs retrospective planning permission\n--------------------------------------------------------------\n\nUnder the Act, a Certificate of Lawfulness is therefore defined as a legal document that regularises unauthorised development. The current 4 year rule allows you to make a formal application to determine whether your unauthorised use has become lawful through the passage of time — rather than through its compliance with space standards and other planning requirements.\n\nIt therefore allows your use to continue without the need for planning permission.\n\nIn many ways, this is a desirable alternative to the other option available to you: applying for full planning consent through a retrospective planning application. The burden of proof here is much higher, because a full [planning application](https://urbanistarchitecture.co.uk/planning-permission-london/) requires the development to adhere strictly to national and local standards.\n\nAnything that the council could consider a material planning consideration would be of relevance to a retrospective planning application. This could include factors like:\n\n*   Overlooking/loss of privacy\n*   Impact on neighbouring amenity\n*   Loss of light or overshadowing\n*   Design (bulk and massing, appearance and materials)\n*   Layout and density of building\n*   Highway safety\n*   Traffic generation\n*   Parking (vehicle and cycle)\n*   Effect on the character of the area\n*   Effect on listed building and conservation area\n*   Access for emergency services\n*   Emergency exits for residents\n*   Biodiversity and potential harm to valued plants, insects and wildlife\n\nAnd that list is not even exhaustive. So, if you have the right evidence and are able to clearly prove that your property has been in continuous use over the designated (4 or 10 year) period of time, then a Certificate of Lawfulness can be a far safer route to take in terms of regularising your permission.\n\n   ![Image 28: Approved urban planning documents with a 'GRANTED' stamp from Haringey Council, including a Certificate of Lawfulness and detailed application references, demonstrating successful building permission processes.](https://urbanistarchitecture.co.uk/media/pages/blog/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/5bcf593052-1679668560/04-the-four-year-rule-1024x.jpg)\n\nWhat do I need to make a '4 year rule' application?\n---------------------------------------------------\n\nHowever, ‘safe’ does not mean ‘easy.’ Nothing is guaranteed when it comes to seeking planning consent, and a Certificate of Lawfulness is no exception.\n\nIn order for your application to be successful, your architects or planners need to provide your council with sufficient factual information for them to consider the evidence.\n\nFor example, in the case of regularising the use of your house as multiple self-contained flats, you should be able to prove the site’s continued, uninterrupted use as flats for a minimum of four years. (Remember, in the case of an HMO, this extends to 10).\n\nPotential evidence includes but is not limited to the following:\n\n*   Tenancy agreements for the last 4 years;\n*   Electoral Roll evidence of current and previous tenants;\n*   Council tax bills for the last 4 years;\n*   Electricity, water and gas bills for the last 4 years;\n*   Title Register;\n*   Any vehicle registration documents;\n*   Any dated photos indicating the previous use of the site or buildings;\n*   Any sworn affidavits from people with personal knowledge of the existing use or works carried out and;\n*   Any additional maintenance bills (i.e. builder bills, appliance bills, community charge bills and etc.).\n\nA word of caution: these examples are meant to give an idea of the documents required but the list is NOT exhaustive. It is wise to engage the services of professionals with experience in obtaining Certificates of Lawfulness to avoid receiving an enforcement notice from your local council.\n\n   ![Image 29: Official planning documents from Hackney Council with an 'APPROVED' stamp, showcasing a detailed lawful development certificate for a property project, signifying compliance with Local Planning regulations.](https://urbanistarchitecture.co.uk/media/pages/blog/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/b5d07aeef9-1679668560/05-the-four-year-rule-1024x.jpg)\n\nWhy do I need to do this?\n-------------------------\n\nA Certificate of Lawfulness is important for owners in this unfortunate situation, because one will definitely be needed if you ever go to sell your property. You also will need it if you ever go to remortgage. And, it prevents you from ever experiencing enforcement action in the future.\n\nBecause a Certificate of Lawfulness is a retrospective regularisation, getting one is more complicated than it sounds. You will need to provide sufficient factual information to demonstrate that the use in question has continued at the same level of intensity, and for the same purpose, for the last four consecutive years.\n\nWe therefore often accompany our evidence with a detailed Design and Access Statement to tell the story of the evidence and make clear what we are proving.\n\nTo date, we have prepared, submitted and managed dozens of Certificate of Lawfulness applications, and have maintained a 97% success rate. We look forward to helping you regularise your unauthorised development.\n\n### Applicants for a COL will soon need to show 10 years of continuous use. Act swiftly to regularise your property under the 4 year rule.\n\n[LEARN MORE](https://urbanistarchitecture.co.uk/the-four-year-rule-explained-certificate-of-lawfulness-application-for-existing-use-or-development/#author)\n\nIs a planning condition concerning housing subject to the 4 year rule or the 10 year rule?\n------------------------------------------------------------------------------------------\n\nThis has been the subject of endless debate within planning circles. The confusion is caused by two things that are generally agreed on but clash:\n\na) The use of a property or part of a property as a single home falls under the four year rule  \nb) Breaches of planning conditions are covered by the 10 year rule\n\nThe consensus in the profession has leaned towards 10 years being the correct answer. However, a landmark planning appeal in summer 2022 gave permission for the continued use of a barn as a home that had been under a condition restricting it to agricultural use and for which there were four years of evidence.\n\nEven so, planning inspectors can give contradictory rulings and so we would continue to advise caution when it comes to planning conditions and Certificate of Lawfulness applications. For our clients, we will assess the situation on a case-by-case basis and advise them on the safest path in their particular circumstances.\n\nI've got a property license for an HMO - do I still need a Certificate of Lawfulness?\n-------------------------------------------------------------------------------------\n\nWe get often get calls from HMO owners who are confused by the fact that they have a licence from the council for their HMO and yet they have been told there is a possibility of enforcement because they don’t have planning permission.\n\nPlanning permission is a legal authorisation granted by the local planning authority, which allows a proposed development to proceed. It ensures that any proposed development is in compliance with local planning policies and regulations, and takes into consideration factors such as the impact on the surrounding environment, infrastructure, and community.\n\nOn the other hand, property licensing is a regulatory framework that sets out the minimum standards for rented properties. It aims to ensure that rented properties are safe, habitable, and well-managed. Property licensing requirements vary across different local authorities and depend on the type of property being rented and the number of occupants.\n\nTo clarify, obtaining documents of property licensing and building control approval does not mean you have planning permission for an HMO (house in multiple occupation). However, having these documents may serve as supporting evidence if you choose to regularise your HMO through the 10 year rule.\n\nIn such cases, the approval documents of property licensing and building control may demonstrate to the council that the property has been used as an HMO for over 10 years. However, to determine whether you are eligible to apply for a Certificate of Lawfulness, further supporting documentation is likely to be required.\n\nHow to avoid needing a Certificate of Lawfulness for Existing Development\n-------------------------------------------------------------------------\n\nWe’ve mostly focused on the 4 and 10 year rules for existing use, but the rules also cover building something. And one easily avoidable issue concerns permitted development. What tends to happen is this:\n\nPeople do a loft conversion, build a rear extension or an outbuilding under permitted development. Because they’ve been told this is something they are allowed to do, they don’t bother getting paperwork. Then, a few years later, they come to sell the house or remortgage and discover they need to have that paperwork, and sometimes start to worry about whether their building contractor did stick to the rules.\n\nThe safer path is always to get a Certificate of Lawfulness for Proposed Development before you start the work if you are making changes to a house - that means you’ve checked with the council in advance that what you want to do is OK and have plans that you will be sure are within the rules (and make sure your builders stick to them). This will spare time, money and much stress later on.\n\nUrbanist Architecture's 97% success rate for Certificate of Lawfulness for Existing Use or Development\n------------------------------------------------------------------------------------------------------\n\nAs we have said, getting a Certificate of Lawfulness is far from simple. Remember, you are trying to prove that you have done something the council did not want you to do, and get them to agree that there is nothing you can do about it. Approving COL applications causes headaches for councils, because they then have to explain to people with no knowledge of the planning system why their neighbour has been allowed a flat conversion or an extension and they will not be able to have the same thing. So planning officers can be very tough when looking at these applications, looking for any holes in the evidence that has been presented.\n\nThat's why we are proud of our record with four and ten year rule applications, many of them for flat conversions but also for roof terraces, the use of a garage as a home and various commercial cases. We're based in London, but we have worked on successful Certificate of Lawful applications in, for instance, Dover as well as South Norfolk.\n\nOur rigorous feasibility process means that we will let you know if you have a good chance of succeeding well before we get to the point of submitting anything on your behalf.\n\nHow Urbanist Architecture can help you\n--------------------------------------\n\nUrbanist Architecture is a London-based RIBA chartered architecture and planning practice with offices in Greenwich and Belgravia. We have a record of getting Certificates of Lawfulness granted that compares to any in the business.\n\nTo minimise your risks, get in touch today to discuss how we can help you understand the status of your property and give you the best chance to get it regularised.\n\nPlease note, we do not take on four year rule applications for garden outbuildings used as housing.",
+  "usage": {
+    "tokens": 3788
+  }
+}
+```
