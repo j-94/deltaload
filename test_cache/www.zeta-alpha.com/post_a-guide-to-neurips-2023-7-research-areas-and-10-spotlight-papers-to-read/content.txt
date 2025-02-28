@@ -1,0 +1,169 @@
+_NeurIPS is back_ in _New Orleans, with_ record-breaking _numbers across the board: 3584 main papers, 58 workshops, 14 tutorials, and 8 keynote talks. Featuring new developments in fields such as Language Modeling, Reinforcement Learning, Machine Learning Optimization, Representation Learning, and Diffusion Models, this year's edition is once again packed with world-class AI research. At Zeta Alpha, we have curated a short guide to help you navigate the conference, highlighting some of the papers and areas that grabbed our attention._
+
+![Image 11](https://static.wixstatic.com/media/de4c56_4bf154d41dd342b4aedd4e97eba3fbb6~mv2.png/v1/fill/w_49,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/de4c56_4bf154d41dd342b4aedd4e97eba3fbb6~mv2.png)
+
+Image by Zeta Alpha.
+
+Before we start: we will be covering these highlights in this month's installment of our Trends in AI webinar, so [join us live this Thursday, December 14th](https://us06web.zoom.us/webinar/register/2616329472988/WN_eN_jspyBSLm8sdP0nkpoHw), either in person at LAB42 or online on Zoom, to discuss recent developments in the field, along with a highlight of our favorites from NeurIPS and other papers from the past month!
+
+To visualize the content that will be presented at the conference, we created a semantic map of the published papers, categorizing them into clusters based on their similarity using the VOSviewer tool and a bit of our secret sauce using Language Models to automatically label the cluster centroids.
+
+_Pro tip: view the graph below in full screen (or_ [_in a new tab_](https://vos.zeta-alpha.com/?json=https://zav-vos-viewer.s3.eu-central-1.amazonaws.com/data/2023-neurips-all.json)_) to navigate it freely, and discover the papers of interest in each cluster at your own pace!_
+
+As this high-level overview can still be overwhelming, we dove deeper into each research area presented in the visualization above and selected some of the spotlight papers that are worth reading in more detail. We have organized our top-10 spotlight papers in a [Zeta Alpha tag](https://search.zeta-alpha.com/tags/78039) for your browsing convenience, and you can also find all 77 oral papers [here](https://search.zeta-alpha.com/tags/77992).
+
+You will notice that most of these papers are already widely known, with some having already received dozens of citations and inspired follow-up work, as they have been public on arXiv for a few months now. Despite this, this overview also serves as a round-up of some of the most influential works in 2023, with their publication at this prestigious venue being yet another proof of their impact.
+
+Throughout this guide, you can use Zeta Alpha to browse more of the papers that will be presented at NeurIPS this year, by clicking on the "🔎 Find Similar" button next to each of the featured titles, which will take you to our platform to discover similar work using neural search.
+
+Before we dive in, we wanted to give a shoutout to the excellent work that came out of Amsterdam, which is where our home base is located. You can explore the contributions from researchers affiliated with the University of Amsterdam to this year's conference [directly in Zeta Alpha](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=authority&with_code=false&q=&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&orgs=UvA)!
+
+⚠️ Disclaimer ⚠️ Of course, this cannot be a fully comprehensive guide, given the sheer number of papers we're working with here, but we hope this is a useful entry point to the conference.
+
+1\. Large Language Models
+-------------------------
+
+**Spotlight papers:**
+
+💡 Researchers from the University of Washington have developed QLoRA, an efficient finetuning approach for quantized language models, achieving state-of-the-art results on the Vicuna benchmark and reducing memory usage while maintaining performance.
+
+💡 This paper presents the "Tree of Thoughts" (ToT) framework, which enhances language model inference by introducing deliberate problem-solving through the generation and evaluation of coherent text units, demonstrating improved problem-solving on tasks requiring planning or search.
+
+💡 This work questions emergent abilities in large language models, asserting that these skills are shaped by metric choices, not inherent model traits. By altering evaluation metrics, the authors demonstrate how observed abilities can vanish or emerge, emphasizing the crucial role of metric selection and the necessity for rigorous controls in assessing LLM capabilities.
+
+**More in this research area:**
+
+*   [Guiding Large Language Models via Directional Stimulus Prompting](https://search.zeta-alpha.com/?doc_ids=c48f604f48b9bdce81dea071936d61627edec3a7) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4017201)
+    
+*   [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://search.zeta-alpha.com/?doc_ids=e62806aeab63a148f12d05e993264cb3a792d4a4) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4201398)
+    
+*   [H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models](https://search.zeta-alpha.com/?doc_ids=8f170299b1419f2ce8b2e341eda3f47e8989292c) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4392033)
+    
+*   [ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://search.zeta-alpha.com/?doc_ids=774eff82967040c88d8d09c343eaf18d0fd8c7b9) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4242312)
+    
+*   [ToolQA: A Dataset for LLM Question Answering with External Tools](https://search.zeta-alpha.com/?doc_ids=92f74f8dd10b6252d89af2fa03eabc53c7192fcd) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4388313)
+    
+
+2\. Reinforcement Learning
+--------------------------
+
+**Spotlight paper:**
+
+💡 Direct Preference Optimization (DPO), a novel algorithm for training language models, aligns with human preferences by directly optimizing the policy through a binary cross-entropy objective, outperforming methods like PPO while being computationally efficient and simple to implement.
+
+**More in this research area:**
+
+*   [Coherent Soft Imitation Learning](https://search.zeta-alpha.com/?doc_ids=0792708c0a7189bf448cccd35bfd801f81ada831) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4261839)
+    
+*   [HIQL: Offline Goal-Conditioned RL with Latent States as Actions](https://search.zeta-alpha.com/?doc_ids=15877114e0178dd24cad4f5d33399a997d603bf0) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4494148)
+    
+*   [Self-Supervised Reinforcement Learning that Transfers using Random Features](https://search.zeta-alpha.com/?doc_ids=2411a7aeffc88d062d282cc09c783e7a0f4c9be1) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4265459)
+    
+*   [On the Importance of Exploration for Generalization in Reinforcement Learning](https://search.zeta-alpha.com/?doc_ids=a5d1a68984988807ec3e3114ba3a8971be2fc8cc) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4365658)
+    
+*   [Learning from Active Human Involvement through Proxy Value Propagation](https://search.zeta-alpha.com/?doc_ids=d61d9965e0690adbd0a15a8dfa0d63be9953810f) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=d61d9965e0690adbd0a15a8dfa0d63be9953810f_88b30f3c-2193-4eff-9fe7-01aa578abe6f)
+    
+
+3\. Neural Network Optimization
+-------------------------------
+
+**Spotlight papers:**
+
+💡 Researchers from Princeton University have developed MeZO, a memory-efficient zeroth-order optimizer that significantly reduces memory requirements for fine-tuning large language models, achieves comparable performance to backpropagation with reduced memory usage, and is compatible with non-differentiable objectives and various tuning techniques.
+
+💡 This paper explores the scaling of language models in data-constrained scenarios, suggesting that training models with multiple epochs of repeated data can yield negligible changes in loss compared to using unique data. The authors propose a scaling law for compute optimality that accounts for the decreasing value of repeated tokens and excess parameters, while also discussing strategies for mitigating data scarcity, such as augmenting the training dataset with code data or removing commonly used filters.
+
+**More in this research area:**
+
+*   [Private (Stochastic) Non-Convex Optimization Revisited: Second-Order Stationary Points and Excess Risks](https://search.zeta-alpha.com/?doc_ids=7aeab2fade3cd61dbfa3ec1015d01003126cbb31) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4012720)
+    
+*   [Smoothing the Landscape Boosts the Signal for SGD: Optimal Sample Complexity for Learning Single Index Models](https://search.zeta-alpha.com/?doc_ids=249b3f3704c52acf2c54c108995fbc9ef2a1d196) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4241125)
+    
+*   [Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection](https://search.zeta-alpha.com/?doc_ids=a1b2828f313e7b5e53d7bfb568532d435e5dec4e) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4360769)
+    
+*   [Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension](https://search.zeta-alpha.com/?doc_ids=d62b46dba0baac5c8c761dbb94b5b0bb8b1d7137) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4250653)
+    
+*   [Learning in the Presence of Low-dimensional Structure: A Spiked Random Matrix Perspective](https://search.zeta-alpha.com/?doc_ids=52c6e7b779dbf5f29f7e646ad2a339476ef01fb6) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=52c6e7b779dbf5f29f7e646ad2a339476ef01fb6_c5be75ce-01f3-4667-ac94-d0bca58ccd01)
+    
+
+4\. Equivariant Representation Learning
+---------------------------------------
+
+**Spotlight paper:**
+
+💡 Clifford Group Equivariant Neural Networks, utilizing Clifford algebra and the Clifford group, present a novel method for constructing O(n)- and E(n)-equivariant models, achieving state-of-the-art performance in tasks like n-body simulations, convex hull estimation, and top tagging in particle physics.
+
+**More in this research area:**
+
+*   [Learning Linear Causal Representations from Interventions under General Nonlinear Mixing](https://search.zeta-alpha.com/?doc_ids=5442187c1956661d03264dc657a78bfc6c576e62) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4354866)
+    
+*   [Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules](https://search.zeta-alpha.com/?doc_ids=3759c7d59b7eaa75fe8b93a8df5c30d8b82e7220) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=3759c7d59b7eaa75fe8b93a8df5c30d8b82e7220_2e5d3813-5276-475b-9d38-b79c0b65992d)
+    
+*   [AbDiffuser: full-atom generation of in-vitro functioning antibodies](https://search.zeta-alpha.com/?doc_ids=7ddbffdcf68faa3e4462cb7ecbe77a5564c8bfe4) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4523510)
+    
+*   [Fair Graph Distillation](https://search.zeta-alpha.com/?doc_ids=691ed4011f8d5c1698221657d144c92384308bb3) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=691ed4011f8d5c1698221657d144c92384308bb3_864e3edf-11de-4350-8a8f-1f0f4642c68a)
+    
+*   [Self-Supervised Learning with Lie Symmetries for Partial Differential Equations](https://search.zeta-alpha.com/?doc_ids=54539fbe2eb19b13fb746d1aeb8eae2a2a5d1b65) — 🔎[Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4162152)
+    
+
+5\. Adversarial Attacks & Generalization
+----------------------------------------
+
+**Spotlight paper:**
+
+💡 Despite safety training, large language models remain susceptible to jailbreak attacks due to competing objectives and mismatched generalization, revealing persistent vulnerabilities that scaling alone cannot eliminate, underscoring the crucial necessity for safety-capability parity and addressing limitations in current safety training methods.
+
+**More in this research area:**
+
+*   [Learning Sample Difficulty from Pre-trained Models for Reliable Prediction](https://search.zeta-alpha.com/?doc_ids=6320df623a6119ed32f53f3ac36713d6b04aba35) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4173883)
+    
+*   [Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection](https://search.zeta-alpha.com/?doc_ids=1ba9d95cc75a065ad77585d5d6ff61ca8ed06bee) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_3999502)
+    
+*   [StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](https://search.zeta-alpha.com/?doc_ids=dfc09a930b1d57b7e5d07dea28469669dfdd071a) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4347860)
+    
+*   [Harnessing Hard Mixed Samples with Decoupled Regularizer](https://search.zeta-alpha.com/?doc_ids=12c9c293a8af53b9e8c37a7d8cbbcc6ec3ae9489) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=12c9c293a8af53b9e8c37a7d8cbbcc6ec3ae9489_fb6adf2e-6913-4570-a258-0c6b9e535a9e)
+    
+*   [Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization](https://search.zeta-alpha.com/?doc_ids=6a643a6393e3caa1bd3ff347a758fd76d5dc9192) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4191938)
+    
+
+6\. Diffusion Models
+--------------------
+
+**Spotlight paper:**
+
+💡 This paper reveals the close relationship between diffusion model objectives and the Evidence Lower Bound (ELBO), showing that diffusion objectives can be understood as weighted integrals of ELBOs and proposing new monotonic weightings that achieve state-of-the-art scores on ImageNet.
+
+**More in this research area:**
+
+*   [CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation](https://search.zeta-alpha.com/?doc_ids=ee2899d8965f7f333de9daa27f73b520dd7c1804) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=ee2899d8965f7f333de9daa27f73b520dd7c1804_6cfd55c9-8a52-48cf-9b5b-2251d178745b)
+    
+*   [Real-World Image Variation by Aligning Diffusion Inversion Chain](https://search.zeta-alpha.com/?doc_ids=efe88cc97c9c5af52e83d2fdd210a70e2d6a39c0) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4266287)
+    
+*   [Collaborative Score Distillation for Consistent Visual Editing](https://search.zeta-alpha.com/?doc_ids=45c6be05e7c162f2fe4defac17cccbd8d6adff61) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=45c6be05e7c162f2fe4defac17cccbd8d6adff61_98be823b-db0c-450a-b46a-e48851d665d0)
+    
+*   [UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild](https://search.zeta-alpha.com/?doc_ids=d16bc0eb00de43e72a09701876dafc824304d524) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4240541)
+    
+*   [Controlling Text-to-Image Diffusion by Orthogonal Finetuning](https://search.zeta-alpha.com/?doc_ids=5e4a75b675ba4304d230304154fd300ad5b8b1f0) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4367799)
+    
+
+7\. 3D Object Representations
+-----------------------------
+
+**Spotlight paper:**
+
+💡 This paper introduces Rotating Features, a novel approach for object discovery in machine learning, leveraging higher-dimensional generalization of complex-valued features to represent a greater number of objects concurrently, showcasing scalability across simple toy datasets to complex real-world datasets and offering a new paradigm to tackle the binding problem.
+
+**More in this research area:**
+
+*   [Autodecoding Latent 3D Diffusion Models](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4464780) — 🔎 [Find Similar](https://search.zeta-alpha.com/?doc_ids=3beaaf67d5f637732d594d62a6a4ed0c6c2178ab)
+    
+*   [Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects](https://search.zeta-alpha.com/?doc_ids=23b92d940ff70779c797c1b822ec73d9d26959fb) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=23b92d940ff70779c797c1b822ec73d9d26959fb_f6d72479-1c07-4a63-a44a-2d939d6160e8)
+    
+*   [PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation](https://search.zeta-alpha.com/?doc_ids=3ac61eec6ef46e907845859404432300bd526637) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=3ac61eec6ef46e907845859404432300bd526637_0b618e1b-a846-4e4d-bf3a-ccad25d7a745)
+    
+*   [Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion](https://search.zeta-alpha.com/?doc_ids=42d37599e4fc1b7969d10556b25dac5e4b9270bf) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=CO_4360750)
+    
+*   [Slot-guided Volumetric Object Radiance Fields](https://search.zeta-alpha.com/?doc_ids=228318a2f73f01793fdb5bf561d4f55f1818ba09) — 🔎 [Find Similar](https://search.zeta-alpha.com/?retrieval_method=knn&retrieval_unit=document&d=c&sort_by=relevance&with_code=false&dr=2023-01-01T00:00:00,2023-12-31T23:59:59&doc_sources=Advances+in+Neural+Information+Processing+Systems&similar_to=228318a2f73f01793fdb5bf561d4f55f1818ba09_4d864044-61a1-47b9-ac0c-e092c3471ec4)
+    
+
+Did we miss anything major? Let us know what you think on X (formerly Twitter): [@ZetaVector](https://twitter.com/ZetaVector).

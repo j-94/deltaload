@@ -1,0 +1,32 @@
+[Spaces](https://huggingface.co/spaces) [![Image 5: Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/) 
+
+* * *
+
+[![Image 6](https://cdn-avatars.huggingface.co/v1/production/uploads/62cfd8e9c1d35087f5fde537/rA48WIRA_z1jrob4xosHf.png)](https://huggingface.co/kornia)
+
+[kornia](https://huggingface.co/kornia)
+
+/
+
+[kornia-edge-detection](https://huggingface.co/spaces/kornia/kornia-edge-detection)
+
+Runtime error
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[App](https://huggingface.co/spaces/kornia/kornia-edge-detection) [Files Files](https://huggingface.co/spaces/kornia/kornia-edge-detection/tree/main) [Community1](https://huggingface.co/spaces/kornia/kornia-edge-detection/discussions)
+
+Fetching metadata from the HF Docker repository...
+
+runtime error
+-------------
+
+Exit code: ?. Reason:
+---------------------
+
+Container logs:
+
+Fetching error logs...

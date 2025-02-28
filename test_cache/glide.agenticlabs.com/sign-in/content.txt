@@ -1,0 +1,28 @@
+\_\_\_\_\_\_\_\_\_     \_\_
+  / \_\_\_\_/ (\_)\_\_\_/ /\_\_ 
+ / / \_\_/ / / \_\_  / \_ \\
+/ /\_/ / / / /\_/ /  \_\_/
+\\\_\_\_\_/\_/\_/\\\_\_,\_/\\\_\_\_/
+
+Glide helps you tackle hard(er) software engineering problems with AI.
+
+Here‘s how it works:
+
+Glide
++-- connect repo
++-- describe task   
++-- search code
++-- generate && edit technical design document
+    +-- context
+    +-- goals
+    +-- proposed code changes
+    +-- alternative solutions
+        
+
+Login
+
+to access your private repos
+
+We ask for repo access to tailor code generation to your project. We only access your repo when you work on it in Glide. We don‘t store your code.
+
+You can change or revoke permissions any time.

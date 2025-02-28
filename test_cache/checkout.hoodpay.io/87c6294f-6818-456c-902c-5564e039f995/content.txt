@@ -1,0 +1,32 @@
+Hoodpay Checkout
+===============
+
+### Error
+
+Unhandled error
+
+Subtotal
+
+$
+
+Due today
+
+$0.00
+
+This checkout is secured and processed by our payments platform, Hoodpay.
+
+*   [support@hoodpay.io](mailto:support@hoodpay.io)
+*   [Terms](mailto:support@hoodpay.io)
+*   [Privacy](mailto:support@hoodpay.io)
+
+Guest checkout
+
+Continue →
+
+By tapping “Continue”, you agree to ’s and Hoodpay’s terms and conditions.
+
+This checkout is secured and processed by our payments platform, Hoodpay.
+
+*   [support@hoodpay.io](mailto:support@hoodpay.io)
+*   [Terms](mailto:support@hoodpay.io)
+*   [Privacy](mailto:support@hoodpay.io)

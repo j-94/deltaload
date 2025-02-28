@@ -1,0 +1,44 @@
+[koodos](https://koodos.substack.com/)’ collective (inspired by Andy Warhol’s [Factory](https://en.wikipedia.org/wiki/The_Factory)) is a selective group of young talented engineers & creatives that sit adjacent to the core koodos team. The collective will run for one season. The collective designs & builds stand-alone open-source product experiments that contribute to a creative layer on internet content. Below is an experiment from the koodos collective.
+
+Serendipitous use of the internet is slowly going extinct as we replace link-hopping with the algorithmic-feed. Ranked results and recommendations have become the dominant mode of exploring information online. In this experiment, we break away from this paradigm, and present [Wikigraph](http://giantgra.ph/) - our project for [Interhackt](https://interhackt.space/). While a “search engine” returns a ranked list of results, [Wikigraph](http://giantgra.ph/) returns the most relevant sub-graph of pages. Such an application we term an “exploration engine.”
+
+[Share](https://kcollective.substack.com/p/exploration-engines?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+The introduction of the “feed” in modern social media has been controversial. At its core, [“algorithmic curation is ultimately about power — about who controls what we see and how we see it.”](https://medium.com/@annawchung/news-feeds-old-content-a-brief-history-of-algorithmically-curated-feeds-on-facebook-and-twitter-85b5e5d8e30a) As our lawmakers now discuss this question on Capitol Hill, most of the discussion is centered around how we can “fix” the feed. However, our political and technological leaders still take the feed as a given. This piece suggests an alternative: rather than ranking content algorithmically, we propose an “exploration engine” which returns a sub-graph of linked content.
+
+_**[Wikigraph](http://giantgra.ph/)**_ is the first (usable) exploration engine for searching connected subgraphs of Wikipedia pages. Applying this idea to other media platforms is an alternative to our current search and recommendation technology.
+
+A common criticism of visualization technology is that it doesn’t enhance productivity. Some (we) have labelled these products as “YACVTTDRDMFTU” (Yet Another Cool Visualization Technology That Doesn’t Really Do Much For The User). However, smart UX and good graph algorithms empower the user to find content and make connections more effectively than traditional search engines and feeds. The big difference is that while they are optimized for finding particular pieces of content — an exploration engine is optimized for analyzing large communities of content.
+
+[Looking at content at the community scale allows for four main types of insights:](https://www.microsoft.com/en-us/research/uploads/prod/2018/12/TrimmingTheHairball.pdf)
+
+1.  _Unexpected community_. Discovering a community containing known content not expected to be interrelated.
+    
+2.  _Unexpected membership_. Discovering an unexpected or unknown member in a known community of content.
+    
+3.  _Unexpected connection_. Discovering an unexpected connection between known content across communities.
+    
+4.  _Unexpected degree_. Discovering a known or unknown piece of content with an unexpectedly high degree.
+    
+
+[Wikigraph](http://giantgra.ph/) uses the simplest possible algorithm to generate graphs, which is particularly good for making _unexpected connection_ discoveries.
+
+It works as follows: the algorithm picks the most relevant page as a starting point, and follows all outgoing links, moving in concentric circles. [Wikigraph](http://giantgra.ph/) performs this twice, meaning two concentric circles out from the original page. We then apply a random filter to the results in order to prevent the “hairball” problem \[Fig. 1\]. This strategy usually leads to “hub and spoke” structured graphs \[Fig. 2\], which are good for discovering unexpected links between pages.
+
+[![Image 15](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd34ffec-06f4-4e57-9a70-e505c895a3ba_831x807.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd34ffec-06f4-4e57-9a70-e505c895a3ba_831x807.png)
+
+Fig 1. A preliminary test of [Wikigraph](http://giantgra.ph/), with no filtering. Since each Wikipedia page has on the order of hundreds of links, our algorithm produces a link structure so dense that it is completely useless — and it looks like a hairball
+
+Soon, the technology will be viable for much larger graphs, on the scale of Facebook, Twitter, and YouTube. Rather than a random filter, we can use advanced link-cutting strategies to make large graphs usable. The implication is that if we are unhappy with recommendations, we can easily “zoom out” to find different perspectives. We can always “zoom in” elsewhere to find different content. Browsing through content on any platform will feel like Google Maps.
+
+[![Image 16](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e6a4bed-f836-4ff8-aa5d-4747e51bf2b5_1600x1313.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e6a4bed-f836-4ff8-aa5d-4747e51bf2b5_1600x1313.png)
+
+Fig 2. After applying filtering to the graph, we get “hub and spoke” structures — which have a single central node and somewhat limited connections between lower-level topics
+
+Beyond commercial applications, exploration engines have the potential to enhance our creativity. If Steve Jobs is correct that [“creativity is just connecting things,”](https://fs.blog/2014/08/steve-jobs-on-creativity/) then [Wikigraph](http://giantgra.ph/) is a creative machine — a bicycle for the mind. We can literally see the missing link, and find the disparate connection. It can take us to the frontiers of knowledge: where the links, nodes, and cliques are sparse.
+
+The history of technology and globalization are the expansion and connection of knowledge. All written knowledge, from the Rosetta Stone, to the Talmud, to the modern academic paper, are graph structured \[Fig. 3\]. Yet, 21st century digital media still imitates the linear scroll. It’s time to update how we create, search, and explore information. The feed is an effective interface for presenting content, but it diminishes human agency and curiosity, and therefore also our understanding, discovery, and creativity. With [Wikigraph](http://giantgra.ph/), the first experiment from the [Koodos Collective](https://koodos.com/about), we hope to inspire new products and interfaces that don’t lease our taste to the private manipulation of algorithms, but one where users are in control. One where we are free to explore.
+
+**[Drew Tada](https://twitter.com/drew_tada) & [Pam Beardsell](https://github.com/pamann)**
+
+#### Discussion about this post

@@ -1,0 +1,119 @@
+![Image 10: solidtime background](https://www.solidtime.io/_astro/header_bg.GG5eHJNh_ZEelG4.webp)
+
+OPEN BETA
+
+The modern Open-Source Time Tracker
+
+1h 23min 1:23:21
+
+For Freelancers and Teams
+-------------------------
+
+Collaborate with your Team and configure granular control through our Roles and Permission System. Or track just yourself.
+
+[SIGN UP NOW](https://app.solidtime.io/register)
+
+Book a demo
+-----------
+
+**Not sure if solidtime is a good fit for your company?** Let's figure it out together, schedule a 30 minute demo with us.
+
+[Schedule a demo](https://cal.com/solidtime/30min)
+
+Join our community
+------------------
+
+Join our Discord Community to get the latest updates, ask questions and share your feedback.
+
+[Join our Discord](https://discord.gg/Ge6mJpapVR)
+
+![Image 11: solidtime background](https://www.solidtime.io/_astro/section_fingertips_background.BcXCTfek_Z1LjyEn.webp)
+
+### Time-Tracking  
+at your fingertips
+
+The global command menu gives you access to any action you can think of.
+
+![Image 12: Demo Screen of solidtime on a mobile device ](https://www.solidtime.io/_astro/phone_demo.CyIdNk2U_Z6lIJl.webp)
+
+Progressive Mobile Experience
+-----------------------------
+
+Fast and consistent experience across platforms thanks to the power of Progressive Web Applications (PWAs).
+
+### On every device
+
+Compatible with iOS, Android and every mobile OS that supports PWAs.
+
+### Notifications
+
+Native Support for System Notifications on mobile devices.
+
+### Offline SupportComing Soon
+
+Track your time even without an active internet connection.
+
+### Add to Homescreen
+
+Add solidtime to your Homescreen and access it with just a tap.
+
+Quick & Easy Migration
+----------------------
+
+Import your all your data from other time tracking applications like Toggl and Clockify with just a few clicks.  
+Solidtime supports imports for time entries, tags, clients and projects. Migrate your existing data and have all your data ready right inside your new favourite time tracker.
+
+Lightning Fast
+--------------
+
+We are committed to provide the best and fastest time tracking experience possible. Your time is valuable, that’s why solidtime application speed is a top priority for us. Everything feels nice and snappy.
+
+Billing and Invoicing
+
+Coming Soon
+
+
+
+
+----------------------------------------
+
+Manage client billing and invoicing in a central location. solidtime generated beautiful invoices and reports for your clients.
+
+### Fast & Beautiful PDF Invoices
+
+Invoicing has never been easier! With solidtime you can quickly generate invoices.
+
+### Hourly Rates
+
+Automatically calculate invoice totals based on Client, User or Task rates.
+
+### Client Templates
+
+Save client data like address and company identifycation number in templates.
+
+### Detailed Report
+
+solidtime makes it easy to include a detailed hourly report in every invoice.
+
+![Image 13: Billing and Invoicing](https://www.solidtime.io/_astro/invoice.DNJFTVGj_WELp0.svg)
+
+Track the way YOU want
+----------------------
+
+solidtime gives you maximum flexibility. Use our fully managed SaaS solution or set up your own server with solidtime.
+
+solidtime Cloud
+---------------
+
+With our hosted service you do not have to care about infrastructure and maintaining solidtime. We’ll offer a simple user-based pricing with a limited free plan for single users. It’s the best solution if you just want to use solidtime.
+
+Simple & transparent pricing
+
+Support solidtime development
+
+solidtime On-Premise
+--------------------
+
+Host solidtime on your own infrastructure completely under your control. We’ll offer Enterprise Support plans to assist you with Setup and Maintanance of solidtime.
+
+Interested in Enterprise Support?

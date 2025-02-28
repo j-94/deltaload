@@ -1,0 +1,11 @@
+Welcome to
+
+![Image 3: Vectorize logo](https://platform.vectorize.io/images/vectorize_logo_white.png)
+
+### Sign into your account
+
+Sign in
+
+Email
+
+Password

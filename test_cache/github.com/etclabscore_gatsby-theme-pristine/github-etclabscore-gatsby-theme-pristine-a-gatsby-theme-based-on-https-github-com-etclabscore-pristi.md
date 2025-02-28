@@ -1,0 +1,619 @@
+---
+title: GitHub - etclabscore/gatsby-theme-pristine: A Gatsby theme based on https://github.com/etclabscore/pristine-typescript-react-material-ui.
+description: A Gatsby theme based on https://github.com/etclabscore/pristine-typescript-react-material-ui. - etclabscore/gatsby-theme-pristine
+url: https://github.com/etclabscore/gatsby-theme-pristine
+timestamp: 2025-01-20T15:31:39.309Z
+domain: github.com
+path: etclabscore_gatsby-theme-pristine
+---
+
+# GitHub - etclabscore/gatsby-theme-pristine: A Gatsby theme based on https://github.com/etclabscore/pristine-typescript-react-material-ui.
+
+
+A Gatsby theme based on https://github.com/etclabscore/pristine-typescript-react-material-ui. - etclabscore/gatsby-theme-pristine
+
+
+## Content
+
+[Skip to content](https://github.com/etclabscore/gatsby-theme-pristine?screenshot=true#start-of-content)
+
+Navigation Menu
+---------------
+
+*   *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+
+*   Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+*   *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+*   [Pricing](https://github.com/pricing)
+
+Provide feedback
+----------------
+
+Saved searches
+--------------
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=etclabscore%2Fgatsby-theme-pristine)
+
+*   [Notifications](https://github.com/login?return_to=%2Fetclabscore%2Fgatsby-theme-pristine) You must be signed in to change notification settings
+*   [Fork 7](https://github.com/login?return_to=%2Fetclabscore%2Fgatsby-theme-pristine)
+*   [Star 4](https://github.com/login?return_to=%2Fetclabscore%2Fgatsby-theme-pristine)
+    
+
+*   [Code](https://github.com/etclabscore/gatsby-theme-pristine)
+*   [Issues](https://github.com/etclabscore/gatsby-theme-pristine/issues)
+*   [Pull requests 1](https://github.com/etclabscore/gatsby-theme-pristine/pulls)
+*   [Actions](https://github.com/etclabscore/gatsby-theme-pristine/actions)
+*   [Projects](https://github.com/etclabscore/gatsby-theme-pristine/projects)
+*   [Security](https://github.com/etclabscore/gatsby-theme-pristine/security)
+*   [Insights](https://github.com/etclabscore/gatsby-theme-pristine/pulse)
+
+Folders and files
+-----------------
+
+| Name | Name | Last commit message
+ | Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 6: semantic-release-bot](https://avatars.githubusercontent.com/u/32174276?v=4&size=40)](https://github.com/semantic-release-bot)[semantic-release-bot](https://github.com/etclabscore/gatsby-theme-pristine/commits?author=semantic-release-bot)
+
+[chore(release): 1.1.5 \[skip ci\]](https://github.com/etclabscore/gatsby-theme-pristine/commit/c3abf389172b3f738215fe9dfced1af1291ea39a)
+
+Mar 23, 2020
+
+[c3abf38](https://github.com/etclabscore/gatsby-theme-pristine/commit/c3abf389172b3f738215fe9dfced1af1291ea39a) · Mar 23, 2020
+
+History
+-------
+
+[36 Commits](https://github.com/etclabscore/gatsby-theme-pristine/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.circleci](https://github.com/etclabscore/gatsby-theme-pristine/tree/master/.circleci ".circleci")
+
+
+
+ | 
+
+[.circleci](https://github.com/etclabscore/gatsby-theme-pristine/tree/master/.circleci ".circleci")
+
+
+
+ | 
+
+[fix: build needs node version \>\=10.18, updating to 12x stable](https://github.com/etclabscore/gatsby-theme-pristine/commit/42f0dd8357eed8445ac075160451cd43e80fba55 "fix: build needs node version >=10.18, updating to 12x stable")
+
+
+
+ | Mar 22, 2020
+
+ |
+| 
+
+[src](https://github.com/etclabscore/gatsby-theme-pristine/tree/master/src "src")
+
+
+
+ | 
+
+[src](https://github.com/etclabscore/gatsby-theme-pristine/tree/master/src "src")
+
+
+
+ | 
+
+[fix: changed default body font size to 17px](https://github.com/etclabscore/gatsby-theme-pristine/commit/d872a0fff7f2e97a63d1992a34c93de06630ed84 "fix: changed default body font size to 17px")
+
+
+
+ | Mar 20, 2020
+
+ |
+| 
+
+[.editorconfig](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.editorconfig ".editorconfig")
+
+
+
+ | 
+
+[.editorconfig](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.editorconfig ".editorconfig")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[.gitignore](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.gitignore ".gitignore")
+
+
+
+ | 
+
+[.gitignore](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.gitignore ".gitignore")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[.prettierignore](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.prettierignore ".prettierignore")
+
+
+
+ | 
+
+[.prettierignore](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.prettierignore ".prettierignore")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[.prettierrc](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.prettierrc ".prettierrc")
+
+
+
+ | 
+
+[.prettierrc](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.prettierrc ".prettierrc")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[.releaserc](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.releaserc ".releaserc")
+
+
+
+ | 
+
+[.releaserc](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.releaserc ".releaserc")
+
+
+
+ | 
+
+[fix(CI): remove gh-pages release step](https://github.com/etclabscore/gatsby-theme-pristine/commit/1a315579ef8c935f940e79b047ebf2700f8dc18d "fix(CI): remove gh-pages release step")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[CHANGELOG.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CHANGELOG.md "CHANGELOG.md")
+
+
+
+ | 
+
+[CHANGELOG.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CHANGELOG.md "CHANGELOG.md")
+
+
+
+ | 
+
+[chore(release): 1.1.5 \[skip ci\]](https://github.com/etclabscore/gatsby-theme-pristine/commit/c3abf389172b3f738215fe9dfced1af1291ea39a "chore(release): 1.1.5 [skip ci]
+## [1.1.5](https://github.com/etclabscore/gatsby-theme-pristine/compare/1.1.4...1.1.5) (2020-03-23)
+### Bug Fixes
+* build needs node version >=10.18, updating to 12x stable ([42f0dd8](https://github.com/etclabscore/gatsby-theme-pristine/commit/42f0dd8357eed8445ac075160451cd43e80fba55))
+* changed default body font size to 17px ([d872a0f](https://github.com/etclabscore/gatsby-theme-pristine/commit/d872a0fff7f2e97a63d1992a34c93de06630ed84))")
+
+
+
+ | Mar 23, 2020
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[CONVENTIONAL\_COMMITS.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONVENTIONAL_COMMITS.md "CONVENTIONAL_COMMITS.md")
+
+
+
+ | 
+
+[CONVENTIONAL\_COMMITS.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONVENTIONAL_COMMITS.md "CONVENTIONAL_COMMITS.md")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[LICENSE](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/LICENSE "LICENSE")
+
+
+
+ | 
+
+[LICENSE](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/LICENSE "LICENSE")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[README.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/README.md "README.md")
+
+
+
+ | 
+
+[README.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/README.md "README.md")
+
+
+
+ | 
+
+[fix(README): add install and usage instructions](https://github.com/etclabscore/gatsby-theme-pristine/commit/3ca639ef1cd8dc6d87b16515d4fe516dda411494 "fix(README): add install and usage instructions")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[VERSIONING.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/VERSIONING.md "VERSIONING.md")
+
+
+
+ | 
+
+[VERSIONING.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/VERSIONING.md "VERSIONING.md")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[gatsby-browser.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+ | 
+
+[gatsby-browser.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[gatsby-config.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+ | 
+
+[gatsby-config.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+ | 
+
+[feat: add search](https://github.com/etclabscore/gatsby-theme-pristine/commit/be9c714a6f3d465a9bebf87fed9217d30509ad16 "feat: add search")
+
+
+
+ | Jan 21, 2020
+
+ |
+| 
+
+[gatsby-node.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+ | 
+
+[gatsby-node.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+ | 
+
+[fix: remove console.log](https://github.com/etclabscore/gatsby-theme-pristine/commit/f7571e808295acae69be23e1d794df1ac06892da "fix: remove console.log")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[gatsby-ssr.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+ | 
+
+[gatsby-ssr.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[package-lock.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/package-lock.json "package-lock.json")
+
+
+
+ | 
+
+[package-lock.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/package-lock.json "package-lock.json")
+
+
+
+ | 
+
+[feat: add search](https://github.com/etclabscore/gatsby-theme-pristine/commit/be9c714a6f3d465a9bebf87fed9217d30509ad16 "feat: add search")
+
+
+
+ | Jan 21, 2020
+
+ |
+| 
+
+[package.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/package.json "package.json")
+
+
+
+ | 
+
+[package.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/package.json "package.json")
+
+
+
+ | 
+
+[feat: add search](https://github.com/etclabscore/gatsby-theme-pristine/commit/be9c714a6f3d465a9bebf87fed9217d30509ad16 "feat: add search")
+
+
+
+ | Jan 21, 2020
+
+ |
+| 
+
+[tsconfig.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+| 
+
+[tslint.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/tslint.json "tslint.json")
+
+
+
+ | 
+
+[tslint.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/tslint.json "tslint.json")
+
+
+
+ | 
+
+[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 "feat: Initial Commit")
+
+
+
+ | Jan 18, 2020
+
+ |
+|  |
+
+gatsby-theme-pristine
+---------------------
+
+[](https://github.com/etclabscore/gatsby-theme-pristine?screenshot=true#gatsby-theme-pristine)
+
+Usage
+-----
+
+[](https://github.com/etclabscore/gatsby-theme-pristine?screenshot=true#usage)
+
+1.  Install:
+
+```
+npm install @etclabscore/gatsby-theme-pristine
+```
+
+2.  Add as a plugin to your Gatsby config:
+
+`gatsby-config.js`
+
+  //...
+  plugins: \[
+    "@etclabscore/gatsby-theme-pristine"
+  \],
+  //...
+
+3.  Add markdown files to `src/docs`
+
+`src/docs`:
+
+```
+src
+├── docs
+│   ├── page-3.md
+│   ├── page-4.md
+│   └── page-5.md
+```
+
+OR
+
+4.  Add tsx files to `src/pages`
+
+```
+src
+├── pages
+│   ├── index.tsx
+```
+
+### Contributing
+
+[](https://github.com/etclabscore/gatsby-theme-pristine?screenshot=true#contributing)
+
+How to contribute, build and release are outlined in [CONTRIBUTING.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONTRIBUTING.md), . Commits in this repository follow the [CONVENTIONAL\_COMMITS.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONVENTIONAL_COMMITS.md) specification.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - etclabscore/gatsby-theme-pristine: A Gatsby theme based on https://github.com/etclabscore/pristine-typescript-react-material-ui.",
+  "description": "A Gatsby theme based on https://github.com/etclabscore/pristine-typescript-react-material-ui. - etclabscore/gatsby-theme-pristine",
+  "url": "https://github.com/etclabscore/gatsby-theme-pristine?screenshot=true",
+  "content": "[Skip to content](https://github.com/etclabscore/gatsby-theme-pristine?screenshot=true#start-of-content)\n\nNavigation Menu\n---------------\n\n*   *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n\n*   Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n*   *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n*   [Pricing](https://github.com/pricing)\n\nProvide feedback\n----------------\n\nSaved searches\n--------------\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=etclabscore%2Fgatsby-theme-pristine)\n\n*   [Notifications](https://github.com/login?return_to=%2Fetclabscore%2Fgatsby-theme-pristine) You must be signed in to change notification settings\n*   [Fork 7](https://github.com/login?return_to=%2Fetclabscore%2Fgatsby-theme-pristine)\n*   [Star 4](https://github.com/login?return_to=%2Fetclabscore%2Fgatsby-theme-pristine)\n    \n\n*   [Code](https://github.com/etclabscore/gatsby-theme-pristine)\n*   [Issues](https://github.com/etclabscore/gatsby-theme-pristine/issues)\n*   [Pull requests 1](https://github.com/etclabscore/gatsby-theme-pristine/pulls)\n*   [Actions](https://github.com/etclabscore/gatsby-theme-pristine/actions)\n*   [Projects](https://github.com/etclabscore/gatsby-theme-pristine/projects)\n*   [Security](https://github.com/etclabscore/gatsby-theme-pristine/security)\n*   [Insights](https://github.com/etclabscore/gatsby-theme-pristine/pulse)\n\nFolders and files\n-----------------\n\n| Name | Name | Last commit message\n | Last commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 6: semantic-release-bot](https://avatars.githubusercontent.com/u/32174276?v=4&size=40)](https://github.com/semantic-release-bot)[semantic-release-bot](https://github.com/etclabscore/gatsby-theme-pristine/commits?author=semantic-release-bot)\n\n[chore(release): 1.1.5 \\[skip ci\\]](https://github.com/etclabscore/gatsby-theme-pristine/commit/c3abf389172b3f738215fe9dfced1af1291ea39a)\n\nMar 23, 2020\n\n[c3abf38](https://github.com/etclabscore/gatsby-theme-pristine/commit/c3abf389172b3f738215fe9dfced1af1291ea39a) · Mar 23, 2020\n\nHistory\n-------\n\n[36 Commits](https://github.com/etclabscore/gatsby-theme-pristine/commits/master/)\n\n\n\n\n\n\n\n |\n| \n\n[.circleci](https://github.com/etclabscore/gatsby-theme-pristine/tree/master/.circleci \".circleci\")\n\n\n\n | \n\n[.circleci](https://github.com/etclabscore/gatsby-theme-pristine/tree/master/.circleci \".circleci\")\n\n\n\n | \n\n[fix: build needs node version \\>\\=10.18, updating to 12x stable](https://github.com/etclabscore/gatsby-theme-pristine/commit/42f0dd8357eed8445ac075160451cd43e80fba55 \"fix: build needs node version >=10.18, updating to 12x stable\")\n\n\n\n | Mar 22, 2020\n\n |\n| \n\n[src](https://github.com/etclabscore/gatsby-theme-pristine/tree/master/src \"src\")\n\n\n\n | \n\n[src](https://github.com/etclabscore/gatsby-theme-pristine/tree/master/src \"src\")\n\n\n\n | \n\n[fix: changed default body font size to 17px](https://github.com/etclabscore/gatsby-theme-pristine/commit/d872a0fff7f2e97a63d1992a34c93de06630ed84 \"fix: changed default body font size to 17px\")\n\n\n\n | Mar 20, 2020\n\n |\n| \n\n[.editorconfig](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.editorconfig \".editorconfig\")\n\n\n\n | \n\n[.editorconfig](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.editorconfig \".editorconfig\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[.gitignore](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.gitignore \".gitignore\")\n\n\n\n | \n\n[.gitignore](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.gitignore \".gitignore\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[.prettierignore](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.prettierignore \".prettierignore\")\n\n\n\n | \n\n[.prettierignore](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.prettierignore \".prettierignore\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[.prettierrc](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.prettierrc \".prettierrc\")\n\n\n\n | \n\n[.prettierrc](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.prettierrc \".prettierrc\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[.releaserc](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.releaserc \".releaserc\")\n\n\n\n | \n\n[.releaserc](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/.releaserc \".releaserc\")\n\n\n\n | \n\n[fix(CI): remove gh-pages release step](https://github.com/etclabscore/gatsby-theme-pristine/commit/1a315579ef8c935f940e79b047ebf2700f8dc18d \"fix(CI): remove gh-pages release step\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[CHANGELOG.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CHANGELOG.md \"CHANGELOG.md\")\n\n\n\n | \n\n[CHANGELOG.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CHANGELOG.md \"CHANGELOG.md\")\n\n\n\n | \n\n[chore(release): 1.1.5 \\[skip ci\\]](https://github.com/etclabscore/gatsby-theme-pristine/commit/c3abf389172b3f738215fe9dfced1af1291ea39a \"chore(release): 1.1.5 [skip ci]\n## [1.1.5](https://github.com/etclabscore/gatsby-theme-pristine/compare/1.1.4...1.1.5) (2020-03-23)\n### Bug Fixes\n* build needs node version >=10.18, updating to 12x stable ([42f0dd8](https://github.com/etclabscore/gatsby-theme-pristine/commit/42f0dd8357eed8445ac075160451cd43e80fba55))\n* changed default body font size to 17px ([d872a0f](https://github.com/etclabscore/gatsby-theme-pristine/commit/d872a0fff7f2e97a63d1992a34c93de06630ed84))\")\n\n\n\n | Mar 23, 2020\n\n |\n| \n\n[CONTRIBUTING.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONTRIBUTING.md \"CONTRIBUTING.md\")\n\n\n\n | \n\n[CONTRIBUTING.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONTRIBUTING.md \"CONTRIBUTING.md\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[CONVENTIONAL\\_COMMITS.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONVENTIONAL_COMMITS.md \"CONVENTIONAL_COMMITS.md\")\n\n\n\n | \n\n[CONVENTIONAL\\_COMMITS.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONVENTIONAL_COMMITS.md \"CONVENTIONAL_COMMITS.md\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[LICENSE](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/LICENSE \"LICENSE\")\n\n\n\n | \n\n[LICENSE](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/LICENSE \"LICENSE\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[README.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/README.md \"README.md\")\n\n\n\n | \n\n[README.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/README.md \"README.md\")\n\n\n\n | \n\n[fix(README): add install and usage instructions](https://github.com/etclabscore/gatsby-theme-pristine/commit/3ca639ef1cd8dc6d87b16515d4fe516dda411494 \"fix(README): add install and usage instructions\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[VERSIONING.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/VERSIONING.md \"VERSIONING.md\")\n\n\n\n | \n\n[VERSIONING.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/VERSIONING.md \"VERSIONING.md\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[gatsby-browser.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-browser.js \"gatsby-browser.js\")\n\n\n\n | \n\n[gatsby-browser.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-browser.js \"gatsby-browser.js\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[gatsby-config.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-config.js \"gatsby-config.js\")\n\n\n\n | \n\n[gatsby-config.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-config.js \"gatsby-config.js\")\n\n\n\n | \n\n[feat: add search](https://github.com/etclabscore/gatsby-theme-pristine/commit/be9c714a6f3d465a9bebf87fed9217d30509ad16 \"feat: add search\")\n\n\n\n | Jan 21, 2020\n\n |\n| \n\n[gatsby-node.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-node.js \"gatsby-node.js\")\n\n\n\n | \n\n[gatsby-node.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-node.js \"gatsby-node.js\")\n\n\n\n | \n\n[fix: remove console.log](https://github.com/etclabscore/gatsby-theme-pristine/commit/f7571e808295acae69be23e1d794df1ac06892da \"fix: remove console.log\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[gatsby-ssr.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-ssr.js \"gatsby-ssr.js\")\n\n\n\n | \n\n[gatsby-ssr.js](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/gatsby-ssr.js \"gatsby-ssr.js\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[package-lock.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/package-lock.json \"package-lock.json\")\n\n\n\n | \n\n[package-lock.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/package-lock.json \"package-lock.json\")\n\n\n\n | \n\n[feat: add search](https://github.com/etclabscore/gatsby-theme-pristine/commit/be9c714a6f3d465a9bebf87fed9217d30509ad16 \"feat: add search\")\n\n\n\n | Jan 21, 2020\n\n |\n| \n\n[package.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/package.json \"package.json\")\n\n\n\n | \n\n[package.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/package.json \"package.json\")\n\n\n\n | \n\n[feat: add search](https://github.com/etclabscore/gatsby-theme-pristine/commit/be9c714a6f3d465a9bebf87fed9217d30509ad16 \"feat: add search\")\n\n\n\n | Jan 21, 2020\n\n |\n| \n\n[tsconfig.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/tsconfig.json \"tsconfig.json\")\n\n\n\n | \n\n[tsconfig.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/tsconfig.json \"tsconfig.json\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n| \n\n[tslint.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/tslint.json \"tslint.json\")\n\n\n\n | \n\n[tslint.json](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/tslint.json \"tslint.json\")\n\n\n\n | \n\n[feat: Initial Commit](https://github.com/etclabscore/gatsby-theme-pristine/commit/e6c22ff461ec59d02f4819a56c09b249ef6cb576 \"feat: Initial Commit\")\n\n\n\n | Jan 18, 2020\n\n |\n|  |\n\ngatsby-theme-pristine\n---------------------\n\n[](https://github.com/etclabscore/gatsby-theme-pristine?screenshot=true#gatsby-theme-pristine)\n\nUsage\n-----\n\n[](https://github.com/etclabscore/gatsby-theme-pristine?screenshot=true#usage)\n\n1.  Install:\n\n```\nnpm install @etclabscore/gatsby-theme-pristine\n```\n\n2.  Add as a plugin to your Gatsby config:\n\n`gatsby-config.js`\n\n  //...\n  plugins: \\[\n    \"@etclabscore/gatsby-theme-pristine\"\n  \\],\n  //...\n\n3.  Add markdown files to `src/docs`\n\n`src/docs`:\n\n```\nsrc\n├── docs\n│   ├── page-3.md\n│   ├── page-4.md\n│   └── page-5.md\n```\n\nOR\n\n4.  Add tsx files to `src/pages`\n\n```\nsrc\n├── pages\n│   ├── index.tsx\n```\n\n### Contributing\n\n[](https://github.com/etclabscore/gatsby-theme-pristine?screenshot=true#contributing)\n\nHow to contribute, build and release are outlined in [CONTRIBUTING.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONTRIBUTING.md), . Commits in this repository follow the [CONVENTIONAL\\_COMMITS.md](https://github.com/etclabscore/gatsby-theme-pristine/blob/master/CONVENTIONAL_COMMITS.md) specification.",
+  "usage": {
+    "tokens": 4258
+  }
+}
+```

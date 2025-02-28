@@ -1,0 +1,91 @@
+### Edit Models filters
+
+Multimodal
+
+[Audio-Text-to-Text](https://huggingface.co/models?pipeline_tag=audio-text-to-text)[Image-Text-to-Text](https://huggingface.co/models?pipeline_tag=image-text-to-text)[Visual Question Answering](https://huggingface.co/models?pipeline_tag=visual-question-answering)[Document Question Answering](https://huggingface.co/models?pipeline_tag=document-question-answering)[Video-Text-to-Text](https://huggingface.co/models?pipeline_tag=video-text-to-text)[Any-to-Any](https://huggingface.co/models?pipeline_tag=any-to-any)
+
+Computer Vision
+
+[Depth Estimation](https://huggingface.co/models?pipeline_tag=depth-estimation)[Image Classification](https://huggingface.co/models?pipeline_tag=image-classification)[Object Detection](https://huggingface.co/models?pipeline_tag=object-detection)[Image Segmentation](https://huggingface.co/models?pipeline_tag=image-segmentation)[Text-to-Image](https://huggingface.co/models?pipeline_tag=text-to-image)[Image-to-Text](https://huggingface.co/models?pipeline_tag=image-to-text)[Image-to-Image](https://huggingface.co/models?pipeline_tag=image-to-image)[Image-to-Video](https://huggingface.co/models?pipeline_tag=image-to-video)[Unconditional Image Generation](https://huggingface.co/models?pipeline_tag=unconditional-image-generation)[Video Classification](https://huggingface.co/models?pipeline_tag=video-classification)[Text-to-Video](https://huggingface.co/models?pipeline_tag=text-to-video)[Zero-Shot Image Classification](https://huggingface.co/models?pipeline_tag=zero-shot-image-classification)[Mask Generation](https://huggingface.co/models?pipeline_tag=mask-generation)[Zero-Shot Object Detection](https://huggingface.co/models?pipeline_tag=zero-shot-object-detection)[Text-to-3D](https://huggingface.co/models?pipeline_tag=text-to-3d)[Image-to-3D](https://huggingface.co/models?pipeline_tag=image-to-3d)[Image Feature Extraction](https://huggingface.co/models?pipeline_tag=image-feature-extraction)[Keypoint Detection](https://huggingface.co/models?pipeline_tag=keypoint-detection)
+
+Natural Language Processing
+
+[Text Classification](https://huggingface.co/models?pipeline_tag=text-classification)[Token Classification](https://huggingface.co/models?pipeline_tag=token-classification)[Table Question Answering](https://huggingface.co/models?pipeline_tag=table-question-answering)[Question Answering](https://huggingface.co/models?pipeline_tag=question-answering)[Zero-Shot Classification](https://huggingface.co/models?pipeline_tag=zero-shot-classification)[Translation](https://huggingface.co/models?pipeline_tag=translation)[Summarization](https://huggingface.co/models?pipeline_tag=summarization)[Feature Extraction](https://huggingface.co/models?pipeline_tag=feature-extraction)[Text Generation](https://huggingface.co/models?pipeline_tag=text-generation)[Text2Text Generation](https://huggingface.co/models?pipeline_tag=text2text-generation)[Fill-Mask](https://huggingface.co/models?pipeline_tag=fill-mask)[Sentence Similarity](https://huggingface.co/models?pipeline_tag=sentence-similarity)
+
+Audio
+
+[Text-to-Speech](https://huggingface.co/models?pipeline_tag=text-to-speech)[Text-to-Audio](https://huggingface.co/models?pipeline_tag=text-to-audio)[Automatic Speech Recognition](https://huggingface.co/models?pipeline_tag=automatic-speech-recognition)[Audio-to-Audio](https://huggingface.co/models?pipeline_tag=audio-to-audio)[Audio Classification](https://huggingface.co/models?pipeline_tag=audio-classification)[Voice Activity Detection](https://huggingface.co/models?pipeline_tag=voice-activity-detection)
+
+Tabular
+
+[Tabular Classification](https://huggingface.co/models?pipeline_tag=tabular-classification)[Tabular Regression](https://huggingface.co/models?pipeline_tag=tabular-regression)[Time Series Forecasting](https://huggingface.co/models?pipeline_tag=time-series-forecasting)
+
+Reinforcement Learning
+
+[Reinforcement Learning](https://huggingface.co/models?pipeline_tag=reinforcement-learning)[Robotics](https://huggingface.co/models?pipeline_tag=robotics)
+
+Other
+
+[Graph Machine Learning](https://huggingface.co/models?pipeline_tag=graph-ml)
+
+[Full-text search](https://huggingface.co/search/full-text?type=model)
+
+[![Image 62](https://cdn-avatars.huggingface.co/v1/production/uploads/6629552c96f529a39bac7c89/AJJtp6lphF1Ij8I2p9XFG.png) #### hexgrad/Kokoro-82M Text-to-Speech • Updated 3 days ago • 27.4k • 2.08k](https://huggingface.co/hexgrad/Kokoro-82M)
+
+[![Image 63](https://cdn-avatars.huggingface.co/v1/production/uploads/1670387859384-633fe7784b362488336bbfad.png) #### openbmb/MiniCPM-o-2\_6 Any-to-Any • Updated about 9 hours ago • 18.3k • 675](https://huggingface.co/openbmb/MiniCPM-o-2_6)
+
+[![Image 64](https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png) #### deepseek-ai/DeepSeek-R1 Updated about 3 hours ago • 490](https://huggingface.co/deepseek-ai/DeepSeek-R1)
+
+[![Image 65](https://cdn-avatars.huggingface.co/v1/production/uploads/676e38ad04af5bec20bc9faf/dUd-LsZEX0H_d4qefO_g6.jpeg) #### MiniMaxAI/MiniMax-Text-01 Text Generation • Updated 3 days ago • 2.7k • 434](https://huggingface.co/MiniMaxAI/MiniMax-Text-01)
+
+[![Image 66](https://cdn-avatars.huggingface.co/v1/production/uploads/1583646260758-5e64858c87403103f9f1055d.png) #### microsoft/phi-4 Text Generation • Updated 12 days ago • 134k • 1.47k](https://huggingface.co/microsoft/phi-4)
+
+[![Image 67](https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png) #### deepseek-ai/DeepSeek-V3 Updated 22 days ago • 162k • 2.07k](https://huggingface.co/deepseek-ai/DeepSeek-V3)
+
+[![Image 68](https://cdn-avatars.huggingface.co/v1/production/uploads/603763514de52ff951d89793/AFoybzd5lpBQXEBrQHuTt.png) #### jinaai/ReaderLM-v2 Text Generation • Updated about 12 hours ago • 12k • 290](https://huggingface.co/jinaai/ReaderLM-v2)
+
+[![Image 69](https://cdn-avatars.huggingface.co/v1/production/uploads/677da7a639aa9532a65cac96/RS_uZqqAkbs7L3qLpIMot.jpeg) #### NovaSky-AI/Sky-T1-32B-Preview Text Generation • Updated 7 days ago • 7.99k • 483](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview)
+
+[![Image 70](https://cdn-avatars.huggingface.co/v1/production/uploads/676e38ad04af5bec20bc9faf/dUd-LsZEX0H_d4qefO_g6.jpeg) #### MiniMaxAI/MiniMax-VL-01 Text Generation • Updated 5 days ago • 703 • 199](https://huggingface.co/MiniMaxAI/MiniMax-VL-01)
+
+[![Image 71](https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png) #### deepseek-ai/DeepSeek-R1-Zero Updated about 3 hours ago • 183](https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero)
+
+[![Image 72](https://cdn-avatars.huggingface.co/v1/production/uploads/6445306bc525660aa2099ecc/ipmEgm86UIby2q5q7NkKm.jpeg) #### internlm/internlm3-8b-instruct Text Generation • Updated 4 days ago • 4.83k • 179](https://huggingface.co/internlm/internlm3-8b-instruct)
+
+[![Image 73](https://cdn-avatars.huggingface.co/v1/production/uploads/62cfefa74b3e8dc1e32e38bf/GgkglHn3sIo6C5XGTtZSs.png) #### black-forest-labs/FLUX.1-dev Text-to-Image • Updated Aug 16, 2024 • 1.31M • • 8.12k](https://huggingface.co/black-forest-labs/FLUX.1-dev)
+
+[![Image 74](https://cdn-avatars.huggingface.co/v1/production/uploads/643cb43e6eeb746f5ad81c26/_DUtzHpNtpTeDw7u0oYyX.png) #### ostris/Flex.1-alpha Text-to-Image • Updated 1 day ago • 1.53k • 133](https://huggingface.co/ostris/Flex.1-alpha)
+
+[![Image 75](https://cdn-avatars.huggingface.co/v1/production/uploads/6355a3c1805be5a8f30fea49/8xGdIOlfkopZfhbMitw_k.jpeg) #### kyutai/helium-1-preview-2b Text Generation • Updated 6 days ago • 4.13k • 119](https://huggingface.co/kyutai/helium-1-preview-2b)
+
+[![Image 76](https://cdn-avatars.huggingface.co/v1/production/uploads/611494b423b498d2f9c7da2f/Nbz9s0FshIRmI6yl5Bi7B.jpeg) #### LatitudeGames/Wayfarer-12B Text Generation • Updated 3 days ago • 471 • 103](https://huggingface.co/LatitudeGames/Wayfarer-12B)
+
+[![Image 77](https://cdn-avatars.huggingface.co/v1/production/uploads/646cf8084eefb026fb8fd8bc/oCTqufkdTkjyGodsx1vo1.png) #### meta-llama/Llama-3.3-70B-Instruct Text Generation • Updated 30 days ago • 503k • • 1.7k](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
+
+[![Image 78](https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png) #### deepseek-ai/DeepSeek-R1-Distill-Qwen-32B Updated about 3 hours ago • 85](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B)
+
+[![Image 79](https://cdn-avatars.huggingface.co/v1/production/uploads/63117568fa95534e218da163/8h9zN8aKRxPLBnXW7sqY9.jpeg) #### vikhyatk/moondream2 Image-Text-to-Text • Updated 11 days ago • 143k • 991](https://huggingface.co/vikhyatk/moondream2)
+
+[![Image 80](https://cdn-avatars.huggingface.co/v1/production/uploads/643feeb67bc3fbde1385cc25/7vmYr2XwVcPtkLzac_jxQ.png) #### stabilityai/stable-diffusion-3.5-large Text-to-Image • Updated Oct 22, 2024 • 96.8k • • 1.94k](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)
+
+[![Image 81](https://cdn-avatars.huggingface.co/v1/production/uploads/61b253b7ac5ecaae3d1efe0c/BpiYJ-m5mXPXfjkzEt6yZ.png) #### onnx-community/Kokoro-82M-ONNX Text-to-Speech • Updated 4 days ago • 6.66k • 71](https://huggingface.co/onnx-community/Kokoro-82M-ONNX)
+
+[![Image 82](https://cdn-avatars.huggingface.co/v1/production/uploads/661faec40d6d77fb4baf494c/CTtnTeNTSfSBpd7FjT88m.png) #### OuteAI/OuteTTS-0.3-1B Text-to-Speech • Updated 3 days ago • 5.79k • 70](https://huggingface.co/OuteAI/OuteTTS-0.3-1B)
+
+[![Image 83](https://cdn-avatars.huggingface.co/v1/production/uploads/643feeb67bc3fbde1385cc25/7vmYr2XwVcPtkLzac_jxQ.png) #### stabilityai/stable-point-aware-3d Image-to-3D • Updated 4 days ago • 4.83k • 187](https://huggingface.co/stabilityai/stable-point-aware-3d)
+
+[![Image 84](https://cdn-avatars.huggingface.co/v1/production/uploads/603763514de52ff951d89793/AFoybzd5lpBQXEBrQHuTt.png) #### jinaai/reader-lm-1.5b Text Generation • Updated 3 days ago • 19.7k • 574](https://huggingface.co/jinaai/reader-lm-1.5b)
+
+[![Image 85](https://huggingface.co/avatars/76c31ea218108cf6c3715269f7605404.svg) #### omkarthawakar/LlamaV-o1 Question Answering • Updated 8 days ago • 2.58k • 73](https://huggingface.co/omkarthawakar/LlamaV-o1)
+
+[![Image 86](https://cdn-avatars.huggingface.co/v1/production/uploads/1652114014657-5edc0500968f6028e0559ff8.jpeg) #### jxm/cde-small-v2 Feature Extraction • Updated 4 days ago • 1.88k • 62](https://huggingface.co/jxm/cde-small-v2)
+
+[![Image 87](https://cdn-avatars.huggingface.co/v1/production/uploads/620760a26e3b7210c2ff1943/-s1gyJfvbE1RgO5iBeNOi.png) #### Qwen/Qwen2.5-Math-PRM-72B Text Classification • Updated 3 days ago • 611 • 59](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B)
+
+[![Image 88](https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png) #### deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B Updated about 3 hours ago • 57](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
+
+[![Image 89](https://cdn-avatars.huggingface.co/v1/production/uploads/646cf8084eefb026fb8fd8bc/oCTqufkdTkjyGodsx1vo1.png) #### meta-llama/Llama-3.1-8B-Instruct Text Generation • Updated Sep 25, 2024 • 5.9M • • 3.48k](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct)
+
+[![Image 90](https://cdn-avatars.huggingface.co/v1/production/uploads/64b63f8ad57e02621dc93c8b/jdVmYv0-boVHUf0WAusPQ.jpeg) #### lightblue/lb-reranker-0.5B-v1.0 Text Generation • Updated about 5 hours ago • 1.08k • • 56](https://huggingface.co/lightblue/lb-reranker-0.5B-v1.0)
+
+[![Image 91](https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png) #### deepseek-ai/DeepSeek-R1-Distill-Llama-70B Updated about 3 hours ago • 55](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B)

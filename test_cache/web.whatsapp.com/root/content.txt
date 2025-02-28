@@ -1,0 +1,18 @@
+Log into WhatsApp Web
+
+Link with phone number instead.
+
+Message privately with friends and family using WhatsApp on your browser.
+
+1.  Open WhatsApp on your phone
+2.  Tap **Menu** on Android, or **Settings** on iPhone
+3.  Tap **Linked devices** and then **Link a device**
+4.  Point your phone at this screen to scan the QR code
+
+Need help getting started?
+
+Log in with phone number
+
+Stay logged in on this browser
+
+Your personal messages are end-to-end encrypted

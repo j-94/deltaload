@@ -1,0 +1,84 @@
+---
+title: Introducing ChainForge: A visual programming environment for prompt engineering
+description: We’ve all had fun chatting with large language models (LLMs), but it’s very time-consuming to evaluate their responses manually. To a certain extent, companies don’t want to make it easy — after all…
+url: https://ianarawjo.medium.com/introducing-chainforge-a-visual-programming-environment-for-prompt-engineering-bc6910be01cf
+timestamp: 2025-01-20T15:58:18.261Z
+domain: ianarawjo.medium.com
+path: introducing-chainforge-a-visual-programming-environment-for-prompt-engineering-bc6910be01cf
+---
+
+# Introducing ChainForge: A visual programming environment for prompt engineering
+
+
+We’ve all had fun chatting with large language models (LLMs), but it’s very time-consuming to evaluate their responses manually. To a certain extent, companies don’t want to make it easy — after all…
+
+
+## Content
+
+[![Image 19: Ian Arawjo](https://miro.medium.com/v2/da:true/resize:fill:88:88/0*feAygH1GJYQwB7gx)](https://ianarawjo.medium.com/?source=post_page---byline--bc6910be01cf--------------------------------)
+
+![Image 20](https://miro.medium.com/v2/resize:fit:700/1*SA3ZXy_xaNbP-8DCrBy7aw.png)
+
+To chainforge (verb): To have fun while doing some pretty serious prompt engineering
+
+What prompt should I use? What model should I use? At what settings?
+
+We’ve all had fun chatting with large language models (LLMs), but it’s very time-consuming to evaluate their responses manually. To a certain extent, companies don’t want to make it easy — after all, it’s bad press if it gets around that one model’s worse than another, so providing tools to compare across models is only wise for the strongest player. But as the large language model ecosystem grows, it’s more important than ever to provide tools that allow everyday users to compare models, audit responses, and choose the most robust prompt and model for their use case.
+
+That’s why today I’m releasing [**ChainForge**](https://github.com/ianarawjo/ChainForge). ChainForge is a visual programming environment for prompt engineering, being developed in consultation with colleagues at Harvard HCI. Unlike prior flow-based UIs, it’s geared towards the _evaluation_ of large language model responses — across multiple prompts, prompt parameters, and models. It’s an early alpha —more akin to a working prototype than a shiny product —but already we’ve found it useful for real research internally at Harvard, and I hope you can find it useful and generative for your use cases.
+
+A typical workflow of ChainForge is the following: you need to choose the best prompt template and model with the most robust / consistent outputs for your use case. Perhaps you are concerned about prompt injection attacks to the specific prompts embedded in your LLM application. So you plug the prompts into ChainForge, provide some example attacks, and select a few models to query:
+
+![Image 21](https://miro.medium.com/v2/resize:fit:700/1*tEhTizEmmA-ZCB0ECj7UoQ.png)
+
+An example test of model robustness against prompt injection, trying all permutations of command prefixes and various prompt injection attacks.
+
+You query all the LLMs simultaneously with all prompt permutations (all combinations of your input parameters):
+
+![Image 22](https://miro.medium.com/v2/resize:fit:424/1*ud4zA7MMwID0GptGsYD_Nw.gif)
+
+Then you write an evaluator function. You only have to tell ChainForge how to ‘score’ a single response (currently a Python function, though in the near future you will be able to use LLMs as an annotation step):
+
+![Image 23](https://miro.medium.com/v2/resize:fit:700/1*BheCbjmvP-ovNUWVVcmEdA.png)
+
+A cheap evaluation of detecting whether the prompt injection (to say LOL) succeeded.
+
+Immediately you see a plot of the results across all responses and models:
+
+![Image 24](https://miro.medium.com/v2/resize:fit:700/1*n0UO2J3qTD09xBRkC1RGtg.png)
+
+Whether ‘LOL’ appeared in the response, by each LLM queried.
+
+In a fraction of the time it’d take to evaluate across models manually, we can already see that GPT4 is the most robust against prompt injection attacks for the provided inputs, in that it does not appear at all in the “true” stack. More to the point, we have a plot showing this insight that we can share with others. And, if we want to extend the evaluation — say to try out more prompt variations — we can do that, too, and ChainForge will only send queries for any prompts that we don’t already have the answers for. In ChainForge, the idea is, you’re spending more time waiting for a response from an LLM than you are validating your hypotheses about them.
+
+![Image 25](https://miro.medium.com/v2/resize:fit:700/1*UdtkzTqnYP7ATEya9UcZpg.png)
+
+Another example plot comparing evaluation results between two models, where a numeric evaluation metric was specified. (Evaluation code not shown.)
+
+It’s early stages for ChainForge —we currently only support numerical and boolean evaluation metrics, and models are limited to only a few at standard settings (GPT3.5, GPT4, Anthropic’s Claudev1, Google’s PaLM2 text-bison, and Alpaca.7b via Dalai). But, we hope you play around and get excited about what’s to come. And, if you have a feature you’d like to see or for us to support, submit an [Issue](https://github.com/ianarawjo/ChainForge/issues) or make a [Pull Request](https://github.com/ianarawjo/ChainForge/pulls).
+
+That’s all for now. More soon. In the meantime, checkout the [Github repo](https://github.com/ianarawjo/ChainForge) or the [User Guide](https://github.com/ianarawjo/ChainForge/blob/main/GUIDE.md) for more details.
+
+_~Ian Arawjo_
+
+Bio
+---
+
+[**Ian Arawjo**](https://ianarawjo.therottingcartridge.com/) is a Postdoctoral Fellow at Harvard University working with Professor [Elena Glassman](https://glassmanlab.seas.harvard.edu/glassman.html) in the [Harvard HCI](https://glassmanlab.seas.harvard.edu/) group. He holds a Ph.D. in Information Science from Cornell University, where he was advised by Professor [Tapan Parikh](http://tap2k.org/). His dissertation work studied the intersection of programming and culture. In January 2024, he will be an Assistant Professor of HCI at the [University of Montreal](https://diro.umontreal.ca/english/home/), where he will conduct research at the intersection of AI, programming, and HCI.
+
+**_Disclaimer:_** _This work was partially funded by the NSF grants IIS-2107391, IIS-2040880, and IIS-1955699. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation._
+
+## Metadata
+
+```json
+{
+  "title": "Introducing ChainForge: A visual programming environment for prompt engineering",
+  "description": "We’ve all had fun chatting with large language models (LLMs), but it’s very time-consuming to evaluate their responses manually. To a certain extent, companies don’t want to make it easy — after all…",
+  "url": "https://ianarawjo.medium.com/introducing-chainforge-a-visual-programming-environment-for-prompt-engineering-bc6910be01cf",
+  "content": "[![Image 19: Ian Arawjo](https://miro.medium.com/v2/da:true/resize:fill:88:88/0*feAygH1GJYQwB7gx)](https://ianarawjo.medium.com/?source=post_page---byline--bc6910be01cf--------------------------------)\n\n![Image 20](https://miro.medium.com/v2/resize:fit:700/1*SA3ZXy_xaNbP-8DCrBy7aw.png)\n\nTo chainforge (verb): To have fun while doing some pretty serious prompt engineering\n\nWhat prompt should I use? What model should I use? At what settings?\n\nWe’ve all had fun chatting with large language models (LLMs), but it’s very time-consuming to evaluate their responses manually. To a certain extent, companies don’t want to make it easy — after all, it’s bad press if it gets around that one model’s worse than another, so providing tools to compare across models is only wise for the strongest player. But as the large language model ecosystem grows, it’s more important than ever to provide tools that allow everyday users to compare models, audit responses, and choose the most robust prompt and model for their use case.\n\nThat’s why today I’m releasing [**ChainForge**](https://github.com/ianarawjo/ChainForge). ChainForge is a visual programming environment for prompt engineering, being developed in consultation with colleagues at Harvard HCI. Unlike prior flow-based UIs, it’s geared towards the _evaluation_ of large language model responses — across multiple prompts, prompt parameters, and models. It’s an early alpha —more akin to a working prototype than a shiny product —but already we’ve found it useful for real research internally at Harvard, and I hope you can find it useful and generative for your use cases.\n\nA typical workflow of ChainForge is the following: you need to choose the best prompt template and model with the most robust / consistent outputs for your use case. Perhaps you are concerned about prompt injection attacks to the specific prompts embedded in your LLM application. So you plug the prompts into ChainForge, provide some example attacks, and select a few models to query:\n\n![Image 21](https://miro.medium.com/v2/resize:fit:700/1*tEhTizEmmA-ZCB0ECj7UoQ.png)\n\nAn example test of model robustness against prompt injection, trying all permutations of command prefixes and various prompt injection attacks.\n\nYou query all the LLMs simultaneously with all prompt permutations (all combinations of your input parameters):\n\n![Image 22](https://miro.medium.com/v2/resize:fit:424/1*ud4zA7MMwID0GptGsYD_Nw.gif)\n\nThen you write an evaluator function. You only have to tell ChainForge how to ‘score’ a single response (currently a Python function, though in the near future you will be able to use LLMs as an annotation step):\n\n![Image 23](https://miro.medium.com/v2/resize:fit:700/1*BheCbjmvP-ovNUWVVcmEdA.png)\n\nA cheap evaluation of detecting whether the prompt injection (to say LOL) succeeded.\n\nImmediately you see a plot of the results across all responses and models:\n\n![Image 24](https://miro.medium.com/v2/resize:fit:700/1*n0UO2J3qTD09xBRkC1RGtg.png)\n\nWhether ‘LOL’ appeared in the response, by each LLM queried.\n\nIn a fraction of the time it’d take to evaluate across models manually, we can already see that GPT4 is the most robust against prompt injection attacks for the provided inputs, in that it does not appear at all in the “true” stack. More to the point, we have a plot showing this insight that we can share with others. And, if we want to extend the evaluation — say to try out more prompt variations — we can do that, too, and ChainForge will only send queries for any prompts that we don’t already have the answers for. In ChainForge, the idea is, you’re spending more time waiting for a response from an LLM than you are validating your hypotheses about them.\n\n![Image 25](https://miro.medium.com/v2/resize:fit:700/1*UdtkzTqnYP7ATEya9UcZpg.png)\n\nAnother example plot comparing evaluation results between two models, where a numeric evaluation metric was specified. (Evaluation code not shown.)\n\nIt’s early stages for ChainForge —we currently only support numerical and boolean evaluation metrics, and models are limited to only a few at standard settings (GPT3.5, GPT4, Anthropic’s Claudev1, Google’s PaLM2 text-bison, and Alpaca.7b via Dalai). But, we hope you play around and get excited about what’s to come. And, if you have a feature you’d like to see or for us to support, submit an [Issue](https://github.com/ianarawjo/ChainForge/issues) or make a [Pull Request](https://github.com/ianarawjo/ChainForge/pulls).\n\nThat’s all for now. More soon. In the meantime, checkout the [Github repo](https://github.com/ianarawjo/ChainForge) or the [User Guide](https://github.com/ianarawjo/ChainForge/blob/main/GUIDE.md) for more details.\n\n_~Ian Arawjo_\n\nBio\n---\n\n[**Ian Arawjo**](https://ianarawjo.therottingcartridge.com/) is a Postdoctoral Fellow at Harvard University working with Professor [Elena Glassman](https://glassmanlab.seas.harvard.edu/glassman.html) in the [Harvard HCI](https://glassmanlab.seas.harvard.edu/) group. He holds a Ph.D. in Information Science from Cornell University, where he was advised by Professor [Tapan Parikh](http://tap2k.org/). His dissertation work studied the intersection of programming and culture. In January 2024, he will be an Assistant Professor of HCI at the [University of Montreal](https://diro.umontreal.ca/english/home/), where he will conduct research at the intersection of AI, programming, and HCI.\n\n**_Disclaimer:_** _This work was partially funded by the NSF grants IIS-2107391, IIS-2040880, and IIS-1955699. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation._",
+  "publishedTime": "2023-05-23T19:42:27.882Z",
+  "usage": {
+    "tokens": 1409
+  }
+}
+```

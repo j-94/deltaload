@@ -1,0 +1,193 @@
+---
+title: Get a Shelf
+description: A visual summary of all your interests: automatically track and showcase what you're into – from music, books, shows, movies, games & more.
+url: https://www.shelf.im/
+timestamp: 2025-01-20T16:00:02.462Z
+domain: www.shelf.im
+path: root
+---
+
+# Get a Shelf
+
+
+A visual summary of all your interests: automatically track and showcase what you're into – from music, books, shows, movies, games & more.
+
+
+## Content
+
+Get a Shelf
+===============
+
+What you’re into each week updated as you listen
+================================================
+
+What you’re into each week updated as you listen
+================================================
+
+What you’re into each week updated as you listen
+================================================
+
+Watch the film!
+
+![Image 25](https://framerusercontent.com/images/Y7uosiMcIMG0Qy8vOJb2zSncw.webp?scale-down-to=1024)
+
+![Image 26](https://framerusercontent.com/images/Y7uosiMcIMG0Qy8vOJb2zSncw.webp?scale-down-to=1024)
+
+![Image 27](https://framerusercontent.com/images/KJsng6WGi8yJW8LS6l8uLwrDE.webp)
+
+[![Image 28](https://framerusercontent.com/images/B4vIgVpISjIUMQGKnvKhhIEraDQ.png)](https://onelink.to/cp6dpr)
+
+← scan to get the app!
+
+Love yourshelf
+
+[![Image 29](https://framerusercontent.com/images/iB5bftZBjggIo1NPzxpfqITVntE.png) ![Image 30](https://framerusercontent.com/images/iB5bftZBjggIo1NPzxpfqITVntE.png)](https://share.koodos.com/discord)[](https://tiktok.com/@getashelf)[](https://www.instagram.com/getashelf/)[](https://twitter.com/getashelf)
+
+Love yourshelf
+
+[![Image 31](https://framerusercontent.com/images/iB5bftZBjggIo1NPzxpfqITVntE.png) ![Image 32](https://framerusercontent.com/images/iB5bftZBjggIo1NPzxpfqITVntE.png)](https://share.koodos.com/discord)[](https://www.tiktok.com/@getashelf)[](https://www.instagram.com/getashelf)[](https://twitter.com/getashelf)
+
+![Image 33](https://framerusercontent.com/images/Y7uosiMcIMG0Qy8vOJb2zSncw.webp?scale-down-to=1024)
+
+Watch the film!
+
+![Image 34](https://framerusercontent.com/images/DXAfU3g3iTR2cHVoQfJyCCYkRA.webp?scale-down-to=2048)
+
+![Image 35](https://framerusercontent.com/images/Een6wS3IwqHz4SIZEZ4RpVZd28.webp?scale-down-to=512)
+
+Who's on Shelf?
+===============
+
+![Image 36](https://framerusercontent.com/images/JSADyGdjeQkPXExNT0AzPod3k4.jpg)
+
+![Image 37](https://framerusercontent.com/images/JSADyGdjeQkPXExNT0AzPod3k4.jpg)
+
+[**What's on my Shelf?:** Avantika](https://shelf.im/avantika)
+
+[shelf.im/avantika](https://www.shelf.im/avantika)
+
+[**What's on my Shelf?:**](https://blog.koodos.com/p/whats-on-my-shelf-celebrity-memoir?r=od1n&utm_campaign=post&utm_medium=web)
+
+[Celebrity Memoir Book Club](https://blog.koodos.com/p/whats-on-my-shelf-celebrity-memoir?r=od1n&utm_campaign=post&utm_medium=web)
+
+[shelf.im/ashleyhammm](https://www.shelf.im/ashleyhammm)[](https://www.shelf.im/ashleyhammm)[shelf.im/clairethescare](https://www.shelf.im/clairethescare)
+
+[**What's on my Shelf?:** Kailey Laise](https://shelf.im/kailey)
+
+[shelf.im/kailey](https://www.shelf.im/kailey)
+
+[**What's on my Shelf?:** Jean-Luc](https://shelf.im/thejeanluc)
+
+[shelf.im/thejeanluc](https://www.shelf.im/thejeanluc)
+
+[**What's on my Shelf?:** Corbin](https://shelf.im/corbinchase)
+
+[shelf.im/corbinchase](https://shelf.im/corbinchase)
+
+[**What's on my Shelf?:** Simona](https://shelf.im/simonachrome)
+
+[shelf.im/simonachrome](https://www.shelf.im/simonachrome)
+
+[**What's on my Shelf?:** Dominique](https://shelf.im/dominiquereshae)[shelf.im/dominiquereshae](https://www.shelf.im/dominiquereshae)
+
+[**What's on my Shelf?:** Alex](https://shelf.im/mutammara)
+
+[shelf.im/mutammara](https://www.shelf.im/mutammara)
+
+[**What's on my Shelf?:** Courtney](https://shelf.im/courtneykinnare)
+
+[shelf.im/courtneykinnare](http://www.shelf.im/courtneykinnare)
+
+![Image 38](https://framerusercontent.com/images/EZnfypORC1AoxqiGIqk9gUKaXc.jpg)
+
+![Image 39](https://framerusercontent.com/images/EZnfypORC1AoxqiGIqk9gUKaXc.jpg)
+
+[**What's on my Shelf?:** Moss](https://shelf.im/mossperricone)
+
+[shelf.im/mossperricone](https://shelf.im/mossperricone)
+
+Who's on Shelf?
+===============
+
+Who's on Shelf?
+===============
+
+![Image 40](https://framerusercontent.com/images/JSADyGdjeQkPXExNT0AzPod3k4.jpg)
+
+![Image 41](https://framerusercontent.com/images/JSADyGdjeQkPXExNT0AzPod3k4.jpg)
+
+[**What's on my Shelf?:** Avantika](https://blog.koodos.com/p/whats-on-my-shelf-avantika)
+
+[shelf.im/avantika](https://www.shelf.im/avantika)
+
+[**What's on my Shelf?:** Celebrity Memoir Book Club](https://blog.koodos.com/p/whats-on-my-shelf-celebrity-memoir?r=od1n&utm_campaign=post&utm_medium=web)
+
+[shelf.im/ashleyhammm](https://www.shelf.im/ashleyhammm)[](https://www.shelf.im/ashleyhammm)[shelf.im/clairethescare](https://www.shelf.im/clairethescare)
+
+[**What's on my Shelf?:** Kailey Laise](https://blog.koodos.com/p/whats-on-my-shelf-kailey-laise?r=od1n&utm_campaign=post&utm_medium=web)
+
+[shelf.im/kailey](https://www.shelf.im/kailey)
+
+[**What's on my Shelf?:** Jean-Luc](https://blog.koodos.com/p/whats-on-my-shelf-jean-luc)
+
+[shelf.im/thejeanluc](https://www.shelf.im/thejeanluc)
+
+[**What's on my Shelf?:** Corbin Chase](https://blog.koodos.com/p/whats-on-my-shelf-corbin-chase)
+
+[shelf.im/corbinchase](https://shelf.im/corbinchase)
+
+[**What's on my Shelf?:** Simona Ruzer](https://open.substack.com/pub/koodos/p/whats-on-my-shelf-simona?r=od1n&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+[shelf.im/simonachrome](https://www.shelf.im/simonachrome)
+
+[**What's on my Shelf?:** Dominique Reshae](https://blog.koodos.com/p/whats-on-my-shelf-dominique)
+
+[shelf.im/dominiquereshae](https://www.shelf.im/dominiquereshae)
+
+[**What's on my Shelf?:** Alex Mutammara](https://blog.koodos.com/p/whats-on-my-shelf-dominique)
+
+[shelf.im/mutammara](https://www.shelf.im/mutammara)
+
+[**What's on my Shelf?:** Courtney Kinnare](https://open.substack.com/pub/koodos/p/whats-on-my-shelf-courtney-kinnare?r=od1n&utm_campaign=post&utm_medium=web&showWelcome=true)
+
+[shelf.im/courtneykinnare](http://www.shelf.im/courtneykinnare)
+
+![Image 42](https://framerusercontent.com/images/EZnfypORC1AoxqiGIqk9gUKaXc.jpg)
+
+![Image 43](https://framerusercontent.com/images/EZnfypORC1AoxqiGIqk9gUKaXc.jpg)
+
+[**What's on my Shelf?:** Moss Perricone](https://open.substack.com/pub/koodos/p/whats-on-my-shelf-courtney-kinnare?r=od1n&utm_campaign=post&utm_medium=web&showWelcome=true)
+
+[shelf.im/mossperricone](https://shelf.im/mossperricone)
+
+[iOS](https://apps.apple.com/us/app/shelf-whats-on-yours/id1667391175)[Android](https://play.google.com/store/apps/details?id=com.koodos.shelf)
+
+[iOS](https://apps.apple.com/us/app/shelf-whats-on-yours/id1667391175)[Android](https://play.google.com/store/apps/details?id=com.koodos.shelf)
+
+[iOS](https://apps.apple.com/us/app/shelf-whats-on-yours/id1667391175)[Android](https://play.google.com/store/apps/details?id=com.koodos.shelf)
+
+Made by [koodos labs](http://koodoslabs.xyz/) in NYC
+
+Love yourshelf
+
+[![Image 44](https://framerusercontent.com/images/aEyM8StxLauaKLEAtLDpNPegbLg.svg)](https://share.shelf.im/discord)[](https://tiktok.com/@getashelf)[](https://instagram.com/getashelf)
+
+[](https://twitter.com/getashelf)
+
+[Your Data Rights](https://www.shelf.im/data-rights)
+
+[Shelf Merch](http://shelfcouture.com/)
+
+## Metadata
+
+```json
+{
+  "title": "Get a Shelf",
+  "description": "A visual summary of all your interests: automatically track and showcase what you're into – from music, books, shows, movies, games & more.",
+  "url": "https://www.shelf.im/",
+  "content": "Get a Shelf\n===============\n\nWhat you’re into each week updated as you listen\n================================================\n\nWhat you’re into each week updated as you listen\n================================================\n\nWhat you’re into each week updated as you listen\n================================================\n\nWatch the film!\n\n![Image 25](https://framerusercontent.com/images/Y7uosiMcIMG0Qy8vOJb2zSncw.webp?scale-down-to=1024)\n\n![Image 26](https://framerusercontent.com/images/Y7uosiMcIMG0Qy8vOJb2zSncw.webp?scale-down-to=1024)\n\n![Image 27](https://framerusercontent.com/images/KJsng6WGi8yJW8LS6l8uLwrDE.webp)\n\n[![Image 28](https://framerusercontent.com/images/B4vIgVpISjIUMQGKnvKhhIEraDQ.png)](https://onelink.to/cp6dpr)\n\n← scan to get the app!\n\nLove yourshelf\n\n[![Image 29](https://framerusercontent.com/images/iB5bftZBjggIo1NPzxpfqITVntE.png) ![Image 30](https://framerusercontent.com/images/iB5bftZBjggIo1NPzxpfqITVntE.png)](https://share.koodos.com/discord)[](https://tiktok.com/@getashelf)[](https://www.instagram.com/getashelf/)[](https://twitter.com/getashelf)\n\nLove yourshelf\n\n[![Image 31](https://framerusercontent.com/images/iB5bftZBjggIo1NPzxpfqITVntE.png) ![Image 32](https://framerusercontent.com/images/iB5bftZBjggIo1NPzxpfqITVntE.png)](https://share.koodos.com/discord)[](https://www.tiktok.com/@getashelf)[](https://www.instagram.com/getashelf)[](https://twitter.com/getashelf)\n\n![Image 33](https://framerusercontent.com/images/Y7uosiMcIMG0Qy8vOJb2zSncw.webp?scale-down-to=1024)\n\nWatch the film!\n\n![Image 34](https://framerusercontent.com/images/DXAfU3g3iTR2cHVoQfJyCCYkRA.webp?scale-down-to=2048)\n\n![Image 35](https://framerusercontent.com/images/Een6wS3IwqHz4SIZEZ4RpVZd28.webp?scale-down-to=512)\n\nWho's on Shelf?\n===============\n\n![Image 36](https://framerusercontent.com/images/JSADyGdjeQkPXExNT0AzPod3k4.jpg)\n\n![Image 37](https://framerusercontent.com/images/JSADyGdjeQkPXExNT0AzPod3k4.jpg)\n\n[**What's on my Shelf?:** Avantika](https://shelf.im/avantika)\n\n[shelf.im/avantika](https://www.shelf.im/avantika)\n\n[**What's on my Shelf?:**](https://blog.koodos.com/p/whats-on-my-shelf-celebrity-memoir?r=od1n&utm_campaign=post&utm_medium=web)\n\n[Celebrity Memoir Book Club](https://blog.koodos.com/p/whats-on-my-shelf-celebrity-memoir?r=od1n&utm_campaign=post&utm_medium=web)\n\n[shelf.im/ashleyhammm](https://www.shelf.im/ashleyhammm)[](https://www.shelf.im/ashleyhammm)[shelf.im/clairethescare](https://www.shelf.im/clairethescare)\n\n[**What's on my Shelf?:** Kailey Laise](https://shelf.im/kailey)\n\n[shelf.im/kailey](https://www.shelf.im/kailey)\n\n[**What's on my Shelf?:** Jean-Luc](https://shelf.im/thejeanluc)\n\n[shelf.im/thejeanluc](https://www.shelf.im/thejeanluc)\n\n[**What's on my Shelf?:** Corbin](https://shelf.im/corbinchase)\n\n[shelf.im/corbinchase](https://shelf.im/corbinchase)\n\n[**What's on my Shelf?:** Simona](https://shelf.im/simonachrome)\n\n[shelf.im/simonachrome](https://www.shelf.im/simonachrome)\n\n[**What's on my Shelf?:** Dominique](https://shelf.im/dominiquereshae)[shelf.im/dominiquereshae](https://www.shelf.im/dominiquereshae)\n\n[**What's on my Shelf?:** Alex](https://shelf.im/mutammara)\n\n[shelf.im/mutammara](https://www.shelf.im/mutammara)\n\n[**What's on my Shelf?:** Courtney](https://shelf.im/courtneykinnare)\n\n[shelf.im/courtneykinnare](http://www.shelf.im/courtneykinnare)\n\n![Image 38](https://framerusercontent.com/images/EZnfypORC1AoxqiGIqk9gUKaXc.jpg)\n\n![Image 39](https://framerusercontent.com/images/EZnfypORC1AoxqiGIqk9gUKaXc.jpg)\n\n[**What's on my Shelf?:** Moss](https://shelf.im/mossperricone)\n\n[shelf.im/mossperricone](https://shelf.im/mossperricone)\n\nWho's on Shelf?\n===============\n\nWho's on Shelf?\n===============\n\n![Image 40](https://framerusercontent.com/images/JSADyGdjeQkPXExNT0AzPod3k4.jpg)\n\n![Image 41](https://framerusercontent.com/images/JSADyGdjeQkPXExNT0AzPod3k4.jpg)\n\n[**What's on my Shelf?:** Avantika](https://blog.koodos.com/p/whats-on-my-shelf-avantika)\n\n[shelf.im/avantika](https://www.shelf.im/avantika)\n\n[**What's on my Shelf?:** Celebrity Memoir Book Club](https://blog.koodos.com/p/whats-on-my-shelf-celebrity-memoir?r=od1n&utm_campaign=post&utm_medium=web)\n\n[shelf.im/ashleyhammm](https://www.shelf.im/ashleyhammm)[](https://www.shelf.im/ashleyhammm)[shelf.im/clairethescare](https://www.shelf.im/clairethescare)\n\n[**What's on my Shelf?:** Kailey Laise](https://blog.koodos.com/p/whats-on-my-shelf-kailey-laise?r=od1n&utm_campaign=post&utm_medium=web)\n\n[shelf.im/kailey](https://www.shelf.im/kailey)\n\n[**What's on my Shelf?:** Jean-Luc](https://blog.koodos.com/p/whats-on-my-shelf-jean-luc)\n\n[shelf.im/thejeanluc](https://www.shelf.im/thejeanluc)\n\n[**What's on my Shelf?:** Corbin Chase](https://blog.koodos.com/p/whats-on-my-shelf-corbin-chase)\n\n[shelf.im/corbinchase](https://shelf.im/corbinchase)\n\n[**What's on my Shelf?:** Simona Ruzer](https://open.substack.com/pub/koodos/p/whats-on-my-shelf-simona?r=od1n&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)\n\n[shelf.im/simonachrome](https://www.shelf.im/simonachrome)\n\n[**What's on my Shelf?:** Dominique Reshae](https://blog.koodos.com/p/whats-on-my-shelf-dominique)\n\n[shelf.im/dominiquereshae](https://www.shelf.im/dominiquereshae)\n\n[**What's on my Shelf?:** Alex Mutammara](https://blog.koodos.com/p/whats-on-my-shelf-dominique)\n\n[shelf.im/mutammara](https://www.shelf.im/mutammara)\n\n[**What's on my Shelf?:** Courtney Kinnare](https://open.substack.com/pub/koodos/p/whats-on-my-shelf-courtney-kinnare?r=od1n&utm_campaign=post&utm_medium=web&showWelcome=true)\n\n[shelf.im/courtneykinnare](http://www.shelf.im/courtneykinnare)\n\n![Image 42](https://framerusercontent.com/images/EZnfypORC1AoxqiGIqk9gUKaXc.jpg)\n\n![Image 43](https://framerusercontent.com/images/EZnfypORC1AoxqiGIqk9gUKaXc.jpg)\n\n[**What's on my Shelf?:** Moss Perricone](https://open.substack.com/pub/koodos/p/whats-on-my-shelf-courtney-kinnare?r=od1n&utm_campaign=post&utm_medium=web&showWelcome=true)\n\n[shelf.im/mossperricone](https://shelf.im/mossperricone)\n\n[iOS](https://apps.apple.com/us/app/shelf-whats-on-yours/id1667391175)[Android](https://play.google.com/store/apps/details?id=com.koodos.shelf)\n\n[iOS](https://apps.apple.com/us/app/shelf-whats-on-yours/id1667391175)[Android](https://play.google.com/store/apps/details?id=com.koodos.shelf)\n\n[iOS](https://apps.apple.com/us/app/shelf-whats-on-yours/id1667391175)[Android](https://play.google.com/store/apps/details?id=com.koodos.shelf)\n\nMade by [koodos labs](http://koodoslabs.xyz/) in NYC\n\nLove yourshelf\n\n[![Image 44](https://framerusercontent.com/images/aEyM8StxLauaKLEAtLDpNPegbLg.svg)](https://share.shelf.im/discord)[](https://tiktok.com/@getashelf)[](https://instagram.com/getashelf)\n\n[](https://twitter.com/getashelf)\n\n[Your Data Rights](https://www.shelf.im/data-rights)\n\n[Shelf Merch](http://shelfcouture.com/)",
+  "usage": {
+    "tokens": 2286
+  }
+}
+```

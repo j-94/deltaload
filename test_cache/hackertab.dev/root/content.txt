@@ -1,0 +1,64 @@
+The Developers homepage
+-----------------------
+
+Hackertab makes it easy for you to stay up-to-date with the latest developer news, tools and conferences.
+
+![Image 45](https://hackertab.dev/assets/images/browsers/chrome-web-store.svg)
+
+#### Chrome web store
+
+[![Image 46](https://hackertab.dev/assets/images/rating-stars.svg)](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp/reviews)4.9 out of 5
+
+![Image 47: Hackertab](https://hackertab.dev/assets/images/hackertab_demo_2.webp)
+
+Your favorite websites in one place
+-----------------------------------
+
+Find everything in one place. no time wasted
+
+All the features you want
+-------------------------
+
+Hackertab has everything you need to stay-to-date as developer
+
+#### Personalized by interests
+
+Hackertab offers a tailored content specifically to what developers are interested in
+
+#### 360°
+
+We cover news, respositories, tools, events and jobs, well everything you need to stay-to-date as developer.
+
+#### Bookmark
+
+Save your favorite links a visually-appealing bar so you can access them easily at a later date
+
+#### No tracking
+
+Hackertab is a privacy first tool, we don't collect or sell any personal data
+
+#### Free & Open source
+
+Hackertab is totally Free and available as an open source project backed by a community of users and contributors
+
+#### Dark mode
+
+Because developers love the dark mode, we adopted the same experience for a better concetration
+
+People love using Hackertab
+---------------------------
+
+Here are some nice things our users have said about us
+
+![Image 48](https://lh3.googleusercontent.com/a-/AOh14GiV9HLME9mqdLzw0rV4fW8Dm7-c9MTRa6kWFLsXxQ=s60-c-k)A wonderful extension for devs from jobs to new articles, it has got everything!
+
+![Image 49](https://lh3.googleusercontent.com/a-/AOh14Gj3TSF0cpliHYsfIg_-0hIIzcQPIItfRE_ibVXDtwQ=s60-c-k)Great extension! All the info from the sources I like to read, none of the fluff I don't need!
+
+![Image 50](https://lh3.googleusercontent.com/a-/AOh14GjHCdCLXsh0uyuDi2h47iapeonJGRRRa2AFpqzKcg=s60-c-k)Great and doesn't slow down my browsing experience.
+
+❤️ And many other developers from all over the world
+
+Try it now — Free
+-----------------
+
+Hackertab extension is available on Chrome, Firefox, Brave and Edge

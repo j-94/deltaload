@@ -1,0 +1,524 @@
+---
+title: GitHub - bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development
+description: Free resources for learning Full Stack Web Development - bmorelli25/Become-A-Full-Stack-Web-Developer
+url: https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+timestamp: 2025-01-20T15:30:28.051Z
+domain: github.com
+path: bmorelli25_Become-A-Full-Stack-Web-Developer
+---
+
+# GitHub - bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development
+
+
+Free resources for learning Full Stack Web Development - bmorelli25/Become-A-Full-Stack-Web-Developer
+
+
+## Content
+
+100+ Free resources for learning Full Stack Web Development.
+------------------------------------------------------------
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#100-free-resources-for-learning-full-stack-web-development)
+
+#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to the once-weekly newsletter!**
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#hello-i-created-this-list-and-am-constantly-updating-it-with-new-resources-information-and-news-if-you-want-to-stay-updated-on-the-newest-trends-tutorials-and-articles-in-the-web-development-world-please-subscribe-to-the-once-weekly-newsletter)
+
+### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#subscribe-to-the-weekly-newsletter-here)
+
+_Never more than one email per week. Easy to unsubscribe. Your information will **never** be shared._
+
+* * *
+
+### Table of Contents
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#table-of-contents)
+
+1.  **[Start Here](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#start-here)**
+2.  **[How to learn](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#how-to-learn)**
+3.  **[What is the Most Useful CS Bookmark You have](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#what-is-the-single-most-useful-cs-bookmark-you-have)**
+4.  **[Programs & Classes](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#programs-and-classes)**
+5.  **[Learn HTML](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-html)**
+6.  **[Learn CSS](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-css)**
+7.  **[Learn JavaScript](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-javascript)**
+8.  **[Learn React.js](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-react-js)**
+9.  **[Full Stack Tutorials](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#full-stack-tutorials)**
+10.  **[Learn Node.js](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-node-js)**
+11.  **[Learn Python](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-python)**
+12.  **[Learn APIs](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-apis)**
+13.  **[Learn Databases](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-databases)**
+14.  **[Learn Authentication](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-authentication)**
+15.  **[Learn Git](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-git)**
+16.  **[Games & Challenge Websites](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#games-and-challenge-websites)**
+17.  **[Free Programming Books](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#free-programming-books)**
+18.  **[Open Source Contribution Opportunities](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#open-source-contribution-opportunities)**
+19.  **[Am I Ready to be a Developer?](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#am-i-ready-to-be-a-developer)**
+20.  **[Software Developer Success Stories](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#software-developer-success-stories)**
+21.  **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#get-the-job)**
+
+* * *
+
+### Start Here
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#start-here)
+
+The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
+
+More free resources can be found on [codeburst.io](https://codeburst.io/)
+
+* * *
+
+*   Take a look at the big picture:
+    *   [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+    *   YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
+*   Learn about the common tools associated with full stack web development - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
+*   [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
+*   What happens when you type google into your address bar?
+    *   [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
+    *   [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+*   Find a local Web Development related [Meetup!](https://www.meetup.com/) Don't worry, it's not as scary as you might think, and is one of the best ways to start learning
+
+* * *
+
+### How to Learn
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#how-to-learn)
+
+*   How to Learn.
+    *   Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
+    *   Repetition, Repetition, Repetition - [Reddit Discussion on study techniques](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
+    *   What technologies to learn and strategies to learn them - [How to learn web development](https://codetheweb.blog/2017/10/04/how-to-learn-web-development/)
+
+* * *
+
+### What is the Single most useful CS Bookmark you have?
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#what-is-the-single-most-useful-cs-bookmark-you-have)
+
+*   What is the single most useful CS Bookmark you have? [Reddit Link to discussion](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
+    *   [Learn X in Y Minutes](https://learnxinyminutes.com/)
+    *   [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
+    *   [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+    *   [CSS Tricks - Complete Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    *   [Regex Cheat Sheet](http://regexr.com/)
+    *   [DevDocs](http://devdocs.io/)
+    *   [Awesome List of Everything Programming](https://github.com/sindresorhus/awesome)
+    *   [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+
+* * *
+
+### Programs and Classes
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#programs-and-classes)
+
+*   Bootcamps
+    *   [The Web Developer Bootcamp by Colt Steele](http://bit.ly/2yEYsoB). I include this paid course because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course to learn WebDev, buy this one. Also see - [The Advanced Web Dev Bootcamp](http://bit.ly/2z3TnGR)
+    *   [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
+    *   [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
+    *   Self Study - My programming notes. 275 Pages of Content [\[Updated Reddit Link\]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [\[Original Reddit Link\]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
+*   Programs
+    *   [The Odin Project](http://www.theodinproject.com/)
+    *   [FreeCodeCamp](https://www.freecodecamp.com/)
+    *   [The Essential Web Developer Course](http://upskillcourses.com/p/essential-web-developer-course)
+    *   [Epicodus Programming Bootcamp Curriculum](https://www.learnhowtoprogram.com/courses)
+*   Classes
+    *   [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - _Needs Updating_
+    *   [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
+*   GitHub
+    *   [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
+
+* * *
+
+### Learn HTML
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-html)
+
+*   [Introduction to HTML - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+*   [HTML5 Tutorial](http://www.html5tutorial.info/)
+*   [HTML5 Introduction EDX](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
+*   [Learn to code HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)
+*   [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/)
+*   [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+*   [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
+*   [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
+*   [Learn HTML series - Code The Web](https://codetheweb.blog/learn/html/)
+
+* * *
+
+### Learn CSS
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-css)
+
+*   [25 HTML & CSS Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185) - Learn HTML & CSS by exploring these 25 tutorials.
+*   [Everything you need to know about Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc)
+*   [Build a Minimalist HTML Card in just 53 lines of code (with Flexbox)](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)
+*   A visual guide to CSS - [CSS Reference](http://cssreference.io/)
+*   [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - A collection of tips to help take your CSS skills pro.
+*   [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
+*   [Css Fundamentals - SoloLearn](https://www.sololearn.com/Course/CSS/)
+*   [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
+
+* * *
+
+### Learn JavaScript
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-javascript)
+
+*   Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    
+*   Courses/Tutorials
+    
+    *   [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e) - Learn JavaScript and key concepts by exploring more than 60 organized tutorials!
+    *   [Recent News, Articles, Tutorials on JavaScript](https://codeburst.io/tagged/javascript)
+    *   [JavaScript for Beginners - Understand the hard stuff](https://codeburst.io/javascript-for-beginners-a-new-series-22762d8e5c42)
+    *   [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
+    *   [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
+    *   Javascript [The Right Way](http://jstherightway.org/)
+    *   Courses.AngularClass.com - Topics Include: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
+        *   [\[Course Link\]](http://courses.angularclass.com/courses/modern-javascript) [\[Reddit Post\]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
+    *   Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
+        *   [\[Edabit - Website Link\]](https://edabit.com/explore) [\[Reddit Post\]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
+    *   [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
+    *   [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
+    *   [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
+*   Understanding Tougher Topics
+    
+    *   [JavaScript - The keyword 'this' for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
+    *   [JavaScript - Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
+    *   [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+    *   [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
+    *   [JavaScript for Beginners: The new Operator](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
+    *   [Javascript: Learn Regular Expressions for Beginners](https://codeburst.io/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
+    *   [JavaScript Template Literals and Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)
+    *   [JavaScript & the spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)
+    *   [JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
+    *   [JavaScript: What is the ternary operator?](https://codeburst.io/javascript-what-is-the-ternary-operator-c819af8a7f6c)
+    *   [JavaScript: Why does 3 + true = 4? (and 7 other tricky equations)](https://codeburst.io/javascript-why-does-3-true-4-and-7-other-tricky-equations-9dd13cb2a92a)
+    *   [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
+    *   [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
+    *   [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+*   Projects
+    
+    *   [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
+    *   [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
+    *   **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
+*   Articles/Books
+    
+    *   [Three awesome (and free) eBooks for learning JavaScript](https://codeburst.io/three-awesome-and-free-ebooks-for-learning-javascript-c874f65bbd7a)
+    *   [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
+    *   [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
+    *   [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
+    *   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - learn about the quirky parts of JS
+    *   [Learning js Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Reusable solutions to commonly occurring problems
+    *   [Asynchronous Module Definition](http://requirejs.org/docs/api.html)
+
+* * *
+
+### Learn React JS
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-react-js)
+
+*   Official React [Docs](https://facebook.github.io/react/docs/hello-world.html)
+*   Official React [Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
+*   3rd Party Tutorials
+    *   [10 React Mini Patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.nn8nyilyi)
+    *   [Top 5 Tutorials for getting started with React](http://andrewhfarmer.com/getting-started-tutorials/)
+    *   [10 best ReactJS tutorials](http://noeticforce.com/best-reactjs-tutorials-with-examples)
+    *   [Three awesome courses for learning React JS (Paid courses under $20)](https://hackernoon.com/javascript-frameworks-learn-react-js-2ed10c0dc06d)
+    *   [React Starter Project Search](http://andrewhfarmer.com/starter-project/)
+    *   [Exploring the react Ecosystem!](https://www.toptal.com/react/navigating-the-react-ecosystem) - Article
+    *   [Code academy React program](https://www.codeacademy.com/)
+    *   [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md) - Use this link first
+    *   [Code Daily](https://codedaily.io/)
+    *   [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac) - Learn React Native by exploring these 25 tutorials.
+    *   [Build a Todo Application with React Native](https://codedaily.io/courses/2/Build-a-React-Native-Todo-Application)
+    *   [Learn to Animate with React Native](https://codedaily.io/courses/1/Animate-React-Native-UI-Elements)
+*   Medium Links:
+    *   [React Components, Elements, and Instances (Medium)](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.rjx4d6bgw)
+    *   [Working with React](https://medium.com/@prodia/working-with-react-js-3e21a2ff5443#.ensczdgi0)
+    *   [Beginners guide to React Router (Medium)](https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669#.4lul6fhvy)
+    *   [Angular JS vs React JS (Medium)](https://medium.com/@paramsingh_66174/angularjs-vs-reactjs-e651a194dfcb#.bbx4qapwu)
+    *   [React Native: Nine Animation Screencast Tutorials](https://codeburst.io/react-native-nine-animation-screencast-tutorials-9d031e8bb86f)
+
+* * *
+
+### Full Stack Tutorials
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#full-stack-tutorials)
+
+*   [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
+*   [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
+*   [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+*   [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
+*   [Express - Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
+*   [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)
+*   [Node JS and Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
+*   [Express JS Database Integration](https://expressjs.com/en/guide/database-integration.html)
+*   [MERN Stack Tutorial - Mongo, Express, React, Node](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50#.xfd2ixtz6)
+*   [MongoDB MERN Tutorial Series](https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack)
+*   [Full Stack MERN Tutorial - YouTube](https://www.youtube.com/watch?v=cV-bGvnRZdw)
+*   [Build a URL Shortener with Node, Hapi, and Mongo](https://codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+*   [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)
+*   [Building web app using react.js, express.js, node.js and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2
+*   [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts
+*   [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+*   [Building a React Universal Blog App: A Step-by-Step Guide](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
+*   [Building a Secure RESTful Node.js app](http://thejackalofjavascript.com/architecting-a-restful-node-js-app/)
+*   Cool stuff other people have built:
+*   [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
+*   [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
+*   [Confessions of an Unintentional CTO - lessons in growing a web app](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto)
+
+* * *
+
+### Learn Node JS
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-node-js)
+
+*   Official Node.js [Docs](https://nodejs.org/en/docs/)
+*   [25 Node JS Tutorials](https://codeburst.io/25-node-js-tutorials-1db3b1da0260) - Learn Node JS by exploring these 25 free tutorials.
+*   Resources for learning Node.js [\[Reddit Link\]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
+    *   [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+    *   [Colt Steele's Bootcamp](http://bit.ly/2yEYsoB)
+    *   [Node School](https://nodeschool.io/#workshoppers)
+    *   [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
+*   Courses/Tutorials
+    *   [Three awesome courses for learning Node.js (Paid courses under $20)](https://codeburst.io/three-awesome-courses-for-learning-node-js-d7f761437101)
+    *   [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
+    *   [Build a simple Twitter Bot with Node.js - PART 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
+    *   [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)
+    *   [Learn to build an Amazon Alexa Skill with Node.js (and get paid to do it)](https://codeburst.io/learn-to-build-an-amazon-alexa-skill-with-node-js-and-get-paid-to-do-it-cf55ae534650)
+    *   [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+    *   [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+    *   [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+*   Optimization Techniques
+    *   [Make your node server faster by caching responses with redis](https://community.risingstack.com/redis-node-js-introduction-to-caching/)
+
+* * *
+
+### Learn Python
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-python)
+
+*   [15 Free e-books to learn Python](https://medium.com/@bmorelli25/15-free-ebooks-to-learn-python-c299943f9f2c)
+*   [Programming Foundations with Python - Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+*   [Designing RESTful APIs - Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
+
+* * *
+
+### Learn APIs
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-apis)
+
+*   Where to start with learning APIs [\[Reddit Link\]](https://www.reddit.com/r/learnprogramming/comments/5761ir/where_to_start_with_learning_how_to_use_apis/)
+    *   [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)
+    *   [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)
+    *   [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
+    *   [Free Intro to APIs Book/Course by Zapier](https://zapier.com/learn/apis/)
+    *   [Google Maps API](https://developers.google.com/maps/documentation/)
+    *   [Distance Calculator Web Services API](https://developers.google.com/maps/documentation/distance-matrix/start)
+    *   [Build and Secure a Backend API Server](https://www.udacity.com/course/designing-restful-apis--ud388)
+
+* * *
+
+### Learn Databases
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-databases)
+
+*   [SQL vs NoSQL](https://www.digitalocean.com/community/tutorials/understanding-sql-and-nosql-databases-and-different-database-models)
+*   [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) - SQL, DB-API, and More!
+*   [MongoDB University](https://university.mongodb.com/) - Numerous classes on learning MongoDB
+*   [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/)
+*   [PostgreSQL Exercises](https://pgexercises.com/)
+*   [Learn PostgreSQL (GitHub)](https://github.com/dwyl/learn-postgresql)
+*   [Try Redis](https://try.redis.io/)
+*   [Redis Tutorial](https://www.tutorialspoint.com/redis/)
+
+* * *
+
+### Learn Authentication
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-authentication)
+
+*   [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+*   [Learn about JSON Web Tokens](https://jwt.io/introduction/)
+*   [JWT Sample App Example](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
+*   [OAuth 2](https://aaronparecki.com/oauth-2-simplified/#web-server-apps)
+*   [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)
+
+* * *
+
+### Learn Git
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-git)
+
+*   Official [Tutorial](https://try.github.io/levels/1/challenges/1) - Learn Git in 15 Minutes
+*   Official [Docs](https://git-scm.com/documentation)
+*   Other Tuts:
+    *   [Git, the simple guide](http://rogerdudler.github.io/git-guide/)
+    *   [Learn Git Branching - Level by Level learning](http://learngitbranching.js.org/)
+    *   [Learn Git in 30 Minutes - Article](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
+    *   [Here are all the Git commands I used last week and what they do (Medium)](https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52)
+*   Why to Use GIT [No, I have no side projects to show you](https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit)
+
+* * *
+
+### Games and Challenge Websites
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#games-and-challenge-websites)
+
+*   Games to learn Programming in an easy and fun way [\[Reddit Link\]](https://www.reddit.com/r/learnprogramming/comments/5wwkxi/do_you_recommend_any_games_to_learn_coding_in_an/)
+    
+    *   [Flex Box Froggy](http://flexboxfroggy.com/)
+    *   [Flex Box Defense](http://www.flexboxdefense.com/)
+    *   [Edabit](https://edabit.com/explore)
+    *   [Coding Game](https://www.codingame.com/)
+    *   [Elevator Saga - JS](http://play.elevatorsaga.com/)
+    *   [Scratch - Absolute Basics](https://scratch.mit.edu/)
+    *   [Hacked - Mobile App teaching through puzzles](http://www.hackedapp.com/)
+*   Coding Challenge Websites [\[Reddit Link\]](https://www.reddit.com/r/learnprogramming/comments/5oxwjj/any_good_sitesapps_for_small_coding_exercises/) [\[Reddit Link #2\]](https://www.reddit.com/r/learnprogramming/comments/5g3xgi/anyone_knows_the_name_of_a_website_to_learn_to/)
+    
+    *   [Medium - 10 most popular coding challenge sites of 2016](https://medium.com/coderbyte/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f#.fn8c7imvk)
+    *   [Codechef](https://www.codechef.com/)
+    *   [Code Wars](https://www.codewars.com/)
+    *   [Coding Game](https://www.codingame.com/)
+    *   [Hacker Rank (some debate about this being good/bad](https://www.hackerrank.com/domains/cpp/cpp-introduction)
+    *   [Project Euler (math focus)](https://projecteuler.net/)
+    *   [Exercism](http://exercism.io/)
+
+* * *
+
+### Free Programming Books
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#free-programming-books)
+
+*   [O'Reilly Offering Programming eBooks for Free (Reddit)](https://www.reddit.com/r/learnprogramming/comments/556kxj/oreilly_offering_programming_ebooks_for_free/)
+*   [GitHub - Thousands of free programming Books on every topic](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+*   [Non-Technical Books to make you a better Programmer (Reddit)](https://www.reddit.com/r/learnprogramming/comments/51zz5g/what_non_technical_books_can_i_bring_with_me/)
+
+* * *
+
+### Open Source Contribution Opportunities
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#open-source-contribution-opportunities)
+
+*   [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) - The official GitHub guide.
+*   [Make your first open source contribution in 5 minutes](https://github.com/Roshanjossey/first-contributions)
+*   [How do I get skilled enough to work on open source projects?](https://www.reddit.com/r/learnprogramming/comments/4xts2c/how_do_i_get_skilled_enough_to_work_on_open/)
+*   [Exercism](https://github.com/exercism/exercism.io), an open source project to learn programming and a good opportunity to get you started contributing on github.
+*   Open Source Contribution Opportunites [\[Reddit Discussion\]](https://www.reddit.com/r/learnprogramming/comments/5wgefy/many_devs_here_on_reddit_and_on_slack_were_asking/)
+    *   [Redditor Form to fill out to get notified about Open Source Opportunities](https://devchat.devolio.net/hellocode/)
+    *   [Up For Grabs - Browse a list of projects with curated tasks](http://up-for-grabs.net/#/)
+*   [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Open source activity held every October. Easy to participate, and you get a free t-shirt!
+*   [I'm afraid if I say anything on GitHub people will laugh at me and I will die.](https://www.reddit.com/r/learnprogramming/comments/4pgb44/im_afraid_if_i_say_anything_on_github_people_will/)
+
+* * *
+
+### Am I Ready to be a Developer?
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#am-i-ready-to-be-a-developer)
+
+*   Readiness
+    *   [Self taught front end devs... When did you know that you were "Job ready"?](https://www.reddit.com/r/learnprogramming/comments/59paoi/self_taught_front_end_devs_when_did_you_know_that/)
+    *   [People who are self-taught developers, how long did it take you to get your first job?](https://www.reddit.com/r/cscareerquestions/comments/53avew/people_who_are_selftaught_developers_how_long_did/)
+    *   [When do you know when you're ready to start interviewing?](https://www.reddit.com/r/learnprogramming/comments/52c3os/when_do_you_know_when_youre_ready_to_start/)
+*   [Software developers- what is the best advice you have for people learning CS?](https://www.reddit.com/r/cscareerquestions/comments/516gps/software_developers_what_is_the_best_advice_you/)
+*   [I want a career in programming](https://www.reddit.com/r/learnprogramming/comments/5516vo/i_want_a_career_in_programming/)
+*   What should you know as a web dev just out of college?
+    *   [Reddit Discussion - newer](https://www.reddit.com/r/cscareerquestions/comments/5dg39i/what_should_you_know_as_a_web_dev_just_out_of/)
+    *   [What CS Majors Should Know - older](http://matt.might.net/articles/what-cs-majors-should-know/)
+*   How I got started with Side Projects - [link](http://antrikshy.com/blog/how-i-got-started-with-programming-side-projects)
+*   [What are some goals a beginning Self-Taught Developer should have?](https://www.reddit.com/r/learnprogramming/comments/4vr2of/what_are_some_goals_a_beginning_selftaught/)
+*   [Computer programmers of Reddit, what is your best advice to someone who is currently learning how to code?](https://www.reddit.com/r/AskReddit/comments/4f1tgy/computer_programmers_of_reddit_what_is_your_best/)
+*   [I began teaching myself to code a year ago. I got hired at my first job 4 months ago. Here is a breakdown of somethings I was not ready for (FYI job is remote ruby/rails dev)](https://www.reddit.com/r/learnprogramming/comments/4y7e3d/i_began_teaching_myself_to_code_a_year_ago_i_got/)
+
+* * *
+
+### Software Developer Success Stories
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#software-developer-success-stories)
+
+*   Success Stories
+    *   [18 months ago I didn’t know how to code, I’m now a self-taught programmer who’s made apps for the NBA, NHL, and schools like Purdue, Notre Dame, Alabama and Clemson. I’m now releasing my software under the MIT license for anyone’s use — AMA!](https://www.reddit.com/r/IAmA/comments/5pouv4/18_months_ago_i_didnt_know_how_to_code_im_now_a/)
+    *   [Last year I was unemployed and miserable. Using this sub and resources, I've been full time employed for a year. I did it with all free resources. I wanna share with you how I did it. (IOS)](https://www.reddit.com/r/learnprogramming/comments/590v8l/last_year_i_was_unemployed_and_miserable_using/)
+    *   [I began teaching myself to code a year ago. I got hired at my first job 4 months ago. Here is a breakdown of somethings I was not ready for (FYI job is remote ruby/rails dev)](https://www.reddit.com/r/learnprogramming/comments/4y7e3d/i_began_teaching_myself_to_code_a_year_ago_i_got/)
+    *   [I'm 32 years old, and just started my first full-time job as a developer. One year ago my programming knowledge was basically nil. Everything I learned, I found via /r/learnprogramming, so just wanted to share my experience.](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/)
+    *   [From zero to software developer - Not really a success story, but a lot of redditors share how they learned. Great for beginners with no path](https://www.reddit.com/r/learnprogramming/comments/5elrb5/from_zero_to_software_developer/)
+
+* * *
+
+### Get The Job
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#get-the-job)
+
+**Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**
+
+*   Make your portfolio
+    
+    *   [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox.
+    *   [10 Awesome Web Developer Portfolios](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)
+*   How to Apply
+    
+    *   [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
+    *   [Lessons from my Post-bootcamp Job search (Medium)](https://medium.freecodecamp.com/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f#.u83avhawf)
+    *   [How to land a six figure job in tech with no connections (Medium)](https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4#.9cc270q7j)
+*   Resume & LinkedIn
+    
+    *   [What are some of the best resuмe formats you've seen?](https://www.reddit.com/r/cscareerquestions/comments/5gnmkj/what_are_some_of_the_best_resu%D0%BCe_formats_youve/)
+    *   [Model examples for Fullstack Developer LinkedIn profiles](https://www.reddit.com/r/cscareerquestions/comments/5f5e3f/what_are_some_model_examples_for_fullstack/)
+*   Personal Projects
+    
+    *   [Recruiters, what kind of CS projects impress?](https://www.reddit.com/r/cscareerquestions/comments/586lbg/recruiters_what_kind_of_cs_projects_impress/)
+*   Interview Prep
+    
+    *   [CS50 - Prep and Practice for Technical Interviews \[YouTube\]](https://youtu.be/qIi-tIrcaww?t=2m32s)
+    *   [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+    *   Common JavaScript Interview Questions Repo
+        *   [GitHub Repo - All questions and answers](https://github.com/kennymkchan/interview-questions-in-javascript)
+        *   [Reddit Post - Discussion, with additional questions and answers](https://www.reddit.com/r/learnprogramming/comments/5sa35k/fun_github_repo_containing_common_interview/)
+    *   [Ammon Bartram - Ask an interviewer anything: interview questions, answers, mistakes](https://www.reddit.com/r/cscareerquestions/comments/5y95x6/i_am_ammon_bartram_and_i_have_done_900/)
+    *   [Sharing some interview tips (Silicon valley employee)](https://www.reddit.com/r/cscareerquestions/comments/5w2oyn/sharing_some_interview_tips/)
+    *   [Job interview questions to ask the interviewer](https://www.reddit.com/r/AskReddit/comments/5iqnkj/at_the_end_of_a_job_interview_they_always_ask/)
+    *   [I suck at programming interviews.](https://www.reddit.com/r/cscareerquestions/comments/5dk7we/i_suck_at_programming_interviews_maybe_i_suck_too/)
+    *   [When solving an interview problem, talk all the time.](https://www.reddit.com/r/cscareerquestions/comments/58htcc/when_solving_an_interview_problem_talk_all_the/)
+    *   [Hiring managers (or other seasoned developers), what qualities do you look for in your ideal candidate?](https://www.reddit.com/r/cscareerquestions/comments/5557j0/hiring_managers_or_other_seasoned_developers_what/)
+    *   [Post your best interview questions](https://www.reddit.com/r/cscareerquestions/comments/4rdcy0/post_your_best_interview_questions/)
+    *   [Been interviewing with a lot of tech startups as a frontend dev, here are the technical questions I've been asked (MID-SENIOR LEVEL)](https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)
+    *   [10 Interview Questions every JS Developer should know (Medium)](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.v0dk97v5v)
+*   Salary Information
+    
+    *   [How Much Do Software Developers Make in 2017?](https://codeburst.io/how-much-do-software-developers-make-in-2017-e6ae657966be)
+    *   [12/2016 Salary Sharing Thread (<2 yrs Experience)](https://www.reddit.com/r/cscareerquestions/comments/5h6xvj/official_salary_sharing_thread_for_new_grads/)
+    *   [Salary Negotiations and how not to set a bunch of money on fire (Medium)](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.75xz4zut8)
+    *   [10 Rules for negotiating a job offer (Medium)](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.g8u1wnyw8)
+    *   [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)
+
+* * *
+
+### Assorted Links
+
+[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#assorted-links)
+
+*   Tutorial/Screencast: [Lets Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
+*   JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
+*   [Watch And Code](https://watchandcode.com/)
+*   [RegexOne](http://regexone.com/) - Learn Regular Expressions
+*   [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
+*   [Regex 101 by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+*   [20 Developers to Follow on Twitter](https://codeburst.io/best-web-developers-to-follow-on-twitter-9318a3f6525a)
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development",
+  "description": "Free resources for learning Full Stack Web Development - bmorelli25/Become-A-Full-Stack-Web-Developer",
+  "url": "https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true",
+  "content": "100+ Free resources for learning Full Stack Web Development.\n------------------------------------------------------------\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#100-free-resources-for-learning-full-stack-web-development)\n\n#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to the once-weekly newsletter!**\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#hello-i-created-this-list-and-am-constantly-updating-it-with-new-resources-information-and-news-if-you-want-to-stay-updated-on-the-newest-trends-tutorials-and-articles-in-the-web-development-world-please-subscribe-to-the-once-weekly-newsletter)\n\n### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#subscribe-to-the-weekly-newsletter-here)\n\n_Never more than one email per week. Easy to unsubscribe. Your information will **never** be shared._\n\n* * *\n\n### Table of Contents\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#table-of-contents)\n\n1.  **[Start Here](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#start-here)**\n2.  **[How to learn](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#how-to-learn)**\n3.  **[What is the Most Useful CS Bookmark You have](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#what-is-the-single-most-useful-cs-bookmark-you-have)**\n4.  **[Programs & Classes](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#programs-and-classes)**\n5.  **[Learn HTML](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-html)**\n6.  **[Learn CSS](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-css)**\n7.  **[Learn JavaScript](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-javascript)**\n8.  **[Learn React.js](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-react-js)**\n9.  **[Full Stack Tutorials](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#full-stack-tutorials)**\n10.  **[Learn Node.js](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-node-js)**\n11.  **[Learn Python](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-python)**\n12.  **[Learn APIs](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-apis)**\n13.  **[Learn Databases](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-databases)**\n14.  **[Learn Authentication](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-authentication)**\n15.  **[Learn Git](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-git)**\n16.  **[Games & Challenge Websites](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#games-and-challenge-websites)**\n17.  **[Free Programming Books](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#free-programming-books)**\n18.  **[Open Source Contribution Opportunities](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#open-source-contribution-opportunities)**\n19.  **[Am I Ready to be a Developer?](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#am-i-ready-to-be-a-developer)**\n20.  **[Software Developer Success Stories](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#software-developer-success-stories)**\n21.  **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#get-the-job)**\n\n* * *\n\n### Start Here\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#start-here)\n\nThe list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.\n\nMore free resources can be found on [codeburst.io](https://codeburst.io/)\n\n* * *\n\n*   Take a look at the big picture:\n    *   [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)\n    *   YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)\n*   Learn about the common tools associated with full stack web development - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)\n*   [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)\n*   What happens when you type google into your address bar?\n    *   [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)\n    *   [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)\n*   Find a local Web Development related [Meetup!](https://www.meetup.com/) Don't worry, it's not as scary as you might think, and is one of the best ways to start learning\n\n* * *\n\n### How to Learn\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#how-to-learn)\n\n*   How to Learn.\n    *   Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)\n    *   Repetition, Repetition, Repetition - [Reddit Discussion on study techniques](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)\n    *   What technologies to learn and strategies to learn them - [How to learn web development](https://codetheweb.blog/2017/10/04/how-to-learn-web-development/)\n\n* * *\n\n### What is the Single most useful CS Bookmark you have?\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#what-is-the-single-most-useful-cs-bookmark-you-have)\n\n*   What is the single most useful CS Bookmark you have? [Reddit Link to discussion](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)\n    *   [Learn X in Y Minutes](https://learnxinyminutes.com/)\n    *   [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)\n    *   [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)\n    *   [CSS Tricks - Complete Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\n    *   [Regex Cheat Sheet](http://regexr.com/)\n    *   [DevDocs](http://devdocs.io/)\n    *   [Awesome List of Everything Programming](https://github.com/sindresorhus/awesome)\n    *   [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)\n\n* * *\n\n### Programs and Classes\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#programs-and-classes)\n\n*   Bootcamps\n    *   [The Web Developer Bootcamp by Colt Steele](http://bit.ly/2yEYsoB). I include this paid course because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course to learn WebDev, buy this one. Also see - [The Advanced Web Dev Bootcamp](http://bit.ly/2z3TnGR)\n    *   [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)\n    *   [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)\n    *   Self Study - My programming notes. 275 Pages of Content [\\[Updated Reddit Link\\]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [\\[Original Reddit Link\\]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)\n*   Programs\n    *   [The Odin Project](http://www.theodinproject.com/)\n    *   [FreeCodeCamp](https://www.freecodecamp.com/)\n    *   [The Essential Web Developer Course](http://upskillcourses.com/p/essential-web-developer-course)\n    *   [Epicodus Programming Bootcamp Curriculum](https://www.learnhowtoprogram.com/courses)\n*   Classes\n    *   [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - _Needs Updating_\n    *   [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)\n*   GitHub\n    *   [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)\n\n* * *\n\n### Learn HTML\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-html)\n\n*   [Introduction to HTML - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)\n*   [HTML5 Tutorial](http://www.html5tutorial.info/)\n*   [HTML5 Introduction EDX](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)\n*   [Learn to code HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)\n*   [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/)\n*   [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)\n*   [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)\n*   [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)\n*   [Learn HTML series - Code The Web](https://codetheweb.blog/learn/html/)\n\n* * *\n\n### Learn CSS\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-css)\n\n*   [25 HTML & CSS Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185) - Learn HTML & CSS by exploring these 25 tutorials.\n*   [Everything you need to know about Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc)\n*   [Build a Minimalist HTML Card in just 53 lines of code (with Flexbox)](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)\n*   A visual guide to CSS - [CSS Reference](http://cssreference.io/)\n*   [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - A collection of tips to help take your CSS skills pro.\n*   [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)\n*   [Css Fundamentals - SoloLearn](https://www.sololearn.com/Course/CSS/)\n*   [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)\n\n* * *\n\n### Learn JavaScript\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-javascript)\n\n*   Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)\n    \n*   Courses/Tutorials\n    \n    *   [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e) - Learn JavaScript and key concepts by exploring more than 60 organized tutorials!\n    *   [Recent News, Articles, Tutorials on JavaScript](https://codeburst.io/tagged/javascript)\n    *   [JavaScript for Beginners - Understand the hard stuff](https://codeburst.io/javascript-for-beginners-a-new-series-22762d8e5c42)\n    *   [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)\n    *   [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)\n    *   Javascript [The Right Way](http://jstherightway.org/)\n    *   Courses.AngularClass.com - Topics Include: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript\n        *   [\\[Course Link\\]](http://courses.angularclass.com/courses/modern-javascript) [\\[Reddit Post\\]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)\n    *   Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard\n        *   [\\[Edabit - Website Link\\]](https://edabit.com/explore) [\\[Reddit Post\\]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)\n    *   [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)\n    *   [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)\n    *   [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)\n*   Understanding Tougher Topics\n    \n    *   [JavaScript - The keyword 'this' for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)\n    *   [JavaScript - Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)\n    *   [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)\n    *   [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)\n    *   [JavaScript for Beginners: The new Operator](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)\n    *   [Javascript: Learn Regular Expressions for Beginners](https://codeburst.io/javascript-learn-regular-expressions-for-beginners-bb6107015d91)\n    *   [JavaScript Template Literals and Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)\n    *   [JavaScript & the spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)\n    *   [JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)\n    *   [JavaScript: What is the ternary operator?](https://codeburst.io/javascript-what-is-the-ternary-operator-c819af8a7f6c)\n    *   [JavaScript: Why does 3 + true = 4? (and 7 other tricky equations)](https://codeburst.io/javascript-why-does-3-true-4-and-7-other-tricky-equations-9dd13cb2a92a)\n    *   [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)\n    *   [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)\n    *   [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)\n*   Projects\n    \n    *   [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)\n    *   [Learn to Code with Projects - enlight.ml](https://enlight.ml/)\n    *   **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources\n*   Articles/Books\n    \n    *   [Three awesome (and free) eBooks for learning JavaScript](https://codeburst.io/three-awesome-and-free-ebooks-for-learning-javascript-c874f65bbd7a)\n    *   [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)\n    *   [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook\n    *   [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub\n    *   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - learn about the quirky parts of JS\n    *   [Learning js Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Reusable solutions to commonly occurring problems\n    *   [Asynchronous Module Definition](http://requirejs.org/docs/api.html)\n\n* * *\n\n### Learn React JS\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-react-js)\n\n*   Official React [Docs](https://facebook.github.io/react/docs/hello-world.html)\n*   Official React [Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)\n*   3rd Party Tutorials\n    *   [10 React Mini Patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.nn8nyilyi)\n    *   [Top 5 Tutorials for getting started with React](http://andrewhfarmer.com/getting-started-tutorials/)\n    *   [10 best ReactJS tutorials](http://noeticforce.com/best-reactjs-tutorials-with-examples)\n    *   [Three awesome courses for learning React JS (Paid courses under $20)](https://hackernoon.com/javascript-frameworks-learn-react-js-2ed10c0dc06d)\n    *   [React Starter Project Search](http://andrewhfarmer.com/starter-project/)\n    *   [Exploring the react Ecosystem!](https://www.toptal.com/react/navigating-the-react-ecosystem) - Article\n    *   [Code academy React program](https://www.codeacademy.com/)\n    *   [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md) - Use this link first\n    *   [Code Daily](https://codedaily.io/)\n    *   [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac) - Learn React Native by exploring these 25 tutorials.\n    *   [Build a Todo Application with React Native](https://codedaily.io/courses/2/Build-a-React-Native-Todo-Application)\n    *   [Learn to Animate with React Native](https://codedaily.io/courses/1/Animate-React-Native-UI-Elements)\n*   Medium Links:\n    *   [React Components, Elements, and Instances (Medium)](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.rjx4d6bgw)\n    *   [Working with React](https://medium.com/@prodia/working-with-react-js-3e21a2ff5443#.ensczdgi0)\n    *   [Beginners guide to React Router (Medium)](https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669#.4lul6fhvy)\n    *   [Angular JS vs React JS (Medium)](https://medium.com/@paramsingh_66174/angularjs-vs-reactjs-e651a194dfcb#.bbx4qapwu)\n    *   [React Native: Nine Animation Screencast Tutorials](https://codeburst.io/react-native-nine-animation-screencast-tutorials-9d031e8bb86f)\n\n* * *\n\n### Full Stack Tutorials\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#full-stack-tutorials)\n\n*   [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)\n*   [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)\n*   [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)\n*   [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.\n*   [Express - Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)\n*   [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)\n*   [Node JS and Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)\n*   [Express JS Database Integration](https://expressjs.com/en/guide/database-integration.html)\n*   [MERN Stack Tutorial - Mongo, Express, React, Node](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50#.xfd2ixtz6)\n*   [MongoDB MERN Tutorial Series](https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack)\n*   [Full Stack MERN Tutorial - YouTube](https://www.youtube.com/watch?v=cV-bGvnRZdw)\n*   [Build a URL Shortener with Node, Hapi, and Mongo](https://codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)\n*   [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)\n*   [Building web app using react.js, express.js, node.js and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2\n*   [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts\n*   [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)\n*   [Building a React Universal Blog App: A Step-by-Step Guide](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)\n*   [Building a Secure RESTful Node.js app](http://thejackalofjavascript.com/architecting-a-restful-node-js-app/)\n*   Cool stuff other people have built:\n*   [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)\n*   [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)\n*   [Confessions of an Unintentional CTO - lessons in growing a web app](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto)\n\n* * *\n\n### Learn Node JS\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-node-js)\n\n*   Official Node.js [Docs](https://nodejs.org/en/docs/)\n*   [25 Node JS Tutorials](https://codeburst.io/25-node-js-tutorials-1db3b1da0260) - Learn Node JS by exploring these 25 free tutorials.\n*   Resources for learning Node.js [\\[Reddit Link\\]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)\n    *   [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)\n    *   [Colt Steele's Bootcamp](http://bit.ly/2yEYsoB)\n    *   [Node School](https://nodeschool.io/#workshoppers)\n    *   [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)\n*   Courses/Tutorials\n    *   [Three awesome courses for learning Node.js (Paid courses under $20)](https://codeburst.io/three-awesome-courses-for-learning-node-js-d7f761437101)\n    *   [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)\n    *   [Build a simple Twitter Bot with Node.js - PART 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)\n    *   [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)\n    *   [Learn to build an Amazon Alexa Skill with Node.js (and get paid to do it)](https://codeburst.io/learn-to-build-an-amazon-alexa-skill-with-node-js-and-get-paid-to-do-it-cf55ae534650)\n    *   [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)\n    *   [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)\n    *   [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)\n*   Optimization Techniques\n    *   [Make your node server faster by caching responses with redis](https://community.risingstack.com/redis-node-js-introduction-to-caching/)\n\n* * *\n\n### Learn Python\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-python)\n\n*   [15 Free e-books to learn Python](https://medium.com/@bmorelli25/15-free-ebooks-to-learn-python-c299943f9f2c)\n*   [Programming Foundations with Python - Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)\n*   [Designing RESTful APIs - Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)\n\n* * *\n\n### Learn APIs\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-apis)\n\n*   Where to start with learning APIs [\\[Reddit Link\\]](https://www.reddit.com/r/learnprogramming/comments/5761ir/where_to_start_with_learning_how_to_use_apis/)\n    *   [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)\n    *   [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)\n    *   [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)\n    *   [Free Intro to APIs Book/Course by Zapier](https://zapier.com/learn/apis/)\n    *   [Google Maps API](https://developers.google.com/maps/documentation/)\n    *   [Distance Calculator Web Services API](https://developers.google.com/maps/documentation/distance-matrix/start)\n    *   [Build and Secure a Backend API Server](https://www.udacity.com/course/designing-restful-apis--ud388)\n\n* * *\n\n### Learn Databases\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-databases)\n\n*   [SQL vs NoSQL](https://www.digitalocean.com/community/tutorials/understanding-sql-and-nosql-databases-and-different-database-models)\n*   [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) - SQL, DB-API, and More!\n*   [MongoDB University](https://university.mongodb.com/) - Numerous classes on learning MongoDB\n*   [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/)\n*   [PostgreSQL Exercises](https://pgexercises.com/)\n*   [Learn PostgreSQL (GitHub)](https://github.com/dwyl/learn-postgresql)\n*   [Try Redis](https://try.redis.io/)\n*   [Redis Tutorial](https://www.tutorialspoint.com/redis/)\n\n* * *\n\n### Learn Authentication\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-authentication)\n\n*   [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)\n*   [Learn about JSON Web Tokens](https://jwt.io/introduction/)\n*   [JWT Sample App Example](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)\n*   [OAuth 2](https://aaronparecki.com/oauth-2-simplified/#web-server-apps)\n*   [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)\n\n* * *\n\n### Learn Git\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#learn-git)\n\n*   Official [Tutorial](https://try.github.io/levels/1/challenges/1) - Learn Git in 15 Minutes\n*   Official [Docs](https://git-scm.com/documentation)\n*   Other Tuts:\n    *   [Git, the simple guide](http://rogerdudler.github.io/git-guide/)\n    *   [Learn Git Branching - Level by Level learning](http://learngitbranching.js.org/)\n    *   [Learn Git in 30 Minutes - Article](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)\n    *   [Here are all the Git commands I used last week and what they do (Medium)](https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52)\n*   Why to Use GIT [No, I have no side projects to show you](https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit)\n\n* * *\n\n### Games and Challenge Websites\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#games-and-challenge-websites)\n\n*   Games to learn Programming in an easy and fun way [\\[Reddit Link\\]](https://www.reddit.com/r/learnprogramming/comments/5wwkxi/do_you_recommend_any_games_to_learn_coding_in_an/)\n    \n    *   [Flex Box Froggy](http://flexboxfroggy.com/)\n    *   [Flex Box Defense](http://www.flexboxdefense.com/)\n    *   [Edabit](https://edabit.com/explore)\n    *   [Coding Game](https://www.codingame.com/)\n    *   [Elevator Saga - JS](http://play.elevatorsaga.com/)\n    *   [Scratch - Absolute Basics](https://scratch.mit.edu/)\n    *   [Hacked - Mobile App teaching through puzzles](http://www.hackedapp.com/)\n*   Coding Challenge Websites [\\[Reddit Link\\]](https://www.reddit.com/r/learnprogramming/comments/5oxwjj/any_good_sitesapps_for_small_coding_exercises/) [\\[Reddit Link #2\\]](https://www.reddit.com/r/learnprogramming/comments/5g3xgi/anyone_knows_the_name_of_a_website_to_learn_to/)\n    \n    *   [Medium - 10 most popular coding challenge sites of 2016](https://medium.com/coderbyte/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f#.fn8c7imvk)\n    *   [Codechef](https://www.codechef.com/)\n    *   [Code Wars](https://www.codewars.com/)\n    *   [Coding Game](https://www.codingame.com/)\n    *   [Hacker Rank (some debate about this being good/bad](https://www.hackerrank.com/domains/cpp/cpp-introduction)\n    *   [Project Euler (math focus)](https://projecteuler.net/)\n    *   [Exercism](http://exercism.io/)\n\n* * *\n\n### Free Programming Books\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#free-programming-books)\n\n*   [O'Reilly Offering Programming eBooks for Free (Reddit)](https://www.reddit.com/r/learnprogramming/comments/556kxj/oreilly_offering_programming_ebooks_for_free/)\n*   [GitHub - Thousands of free programming Books on every topic](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)\n*   [Non-Technical Books to make you a better Programmer (Reddit)](https://www.reddit.com/r/learnprogramming/comments/51zz5g/what_non_technical_books_can_i_bring_with_me/)\n\n* * *\n\n### Open Source Contribution Opportunities\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#open-source-contribution-opportunities)\n\n*   [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) - The official GitHub guide.\n*   [Make your first open source contribution in 5 minutes](https://github.com/Roshanjossey/first-contributions)\n*   [How do I get skilled enough to work on open source projects?](https://www.reddit.com/r/learnprogramming/comments/4xts2c/how_do_i_get_skilled_enough_to_work_on_open/)\n*   [Exercism](https://github.com/exercism/exercism.io), an open source project to learn programming and a good opportunity to get you started contributing on github.\n*   Open Source Contribution Opportunites [\\[Reddit Discussion\\]](https://www.reddit.com/r/learnprogramming/comments/5wgefy/many_devs_here_on_reddit_and_on_slack_were_asking/)\n    *   [Redditor Form to fill out to get notified about Open Source Opportunities](https://devchat.devolio.net/hellocode/)\n    *   [Up For Grabs - Browse a list of projects with curated tasks](http://up-for-grabs.net/#/)\n*   [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Open source activity held every October. Easy to participate, and you get a free t-shirt!\n*   [I'm afraid if I say anything on GitHub people will laugh at me and I will die.](https://www.reddit.com/r/learnprogramming/comments/4pgb44/im_afraid_if_i_say_anything_on_github_people_will/)\n\n* * *\n\n### Am I Ready to be a Developer?\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#am-i-ready-to-be-a-developer)\n\n*   Readiness\n    *   [Self taught front end devs... When did you know that you were \"Job ready\"?](https://www.reddit.com/r/learnprogramming/comments/59paoi/self_taught_front_end_devs_when_did_you_know_that/)\n    *   [People who are self-taught developers, how long did it take you to get your first job?](https://www.reddit.com/r/cscareerquestions/comments/53avew/people_who_are_selftaught_developers_how_long_did/)\n    *   [When do you know when you're ready to start interviewing?](https://www.reddit.com/r/learnprogramming/comments/52c3os/when_do_you_know_when_youre_ready_to_start/)\n*   [Software developers- what is the best advice you have for people learning CS?](https://www.reddit.com/r/cscareerquestions/comments/516gps/software_developers_what_is_the_best_advice_you/)\n*   [I want a career in programming](https://www.reddit.com/r/learnprogramming/comments/5516vo/i_want_a_career_in_programming/)\n*   What should you know as a web dev just out of college?\n    *   [Reddit Discussion - newer](https://www.reddit.com/r/cscareerquestions/comments/5dg39i/what_should_you_know_as_a_web_dev_just_out_of/)\n    *   [What CS Majors Should Know - older](http://matt.might.net/articles/what-cs-majors-should-know/)\n*   How I got started with Side Projects - [link](http://antrikshy.com/blog/how-i-got-started-with-programming-side-projects)\n*   [What are some goals a beginning Self-Taught Developer should have?](https://www.reddit.com/r/learnprogramming/comments/4vr2of/what_are_some_goals_a_beginning_selftaught/)\n*   [Computer programmers of Reddit, what is your best advice to someone who is currently learning how to code?](https://www.reddit.com/r/AskReddit/comments/4f1tgy/computer_programmers_of_reddit_what_is_your_best/)\n*   [I began teaching myself to code a year ago. I got hired at my first job 4 months ago. Here is a breakdown of somethings I was not ready for (FYI job is remote ruby/rails dev)](https://www.reddit.com/r/learnprogramming/comments/4y7e3d/i_began_teaching_myself_to_code_a_year_ago_i_got/)\n\n* * *\n\n### Software Developer Success Stories\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#software-developer-success-stories)\n\n*   Success Stories\n    *   [18 months ago I didn’t know how to code, I’m now a self-taught programmer who’s made apps for the NBA, NHL, and schools like Purdue, Notre Dame, Alabama and Clemson. I’m now releasing my software under the MIT license for anyone’s use — AMA!](https://www.reddit.com/r/IAmA/comments/5pouv4/18_months_ago_i_didnt_know_how_to_code_im_now_a/)\n    *   [Last year I was unemployed and miserable. Using this sub and resources, I've been full time employed for a year. I did it with all free resources. I wanna share with you how I did it. (IOS)](https://www.reddit.com/r/learnprogramming/comments/590v8l/last_year_i_was_unemployed_and_miserable_using/)\n    *   [I began teaching myself to code a year ago. I got hired at my first job 4 months ago. Here is a breakdown of somethings I was not ready for (FYI job is remote ruby/rails dev)](https://www.reddit.com/r/learnprogramming/comments/4y7e3d/i_began_teaching_myself_to_code_a_year_ago_i_got/)\n    *   [I'm 32 years old, and just started my first full-time job as a developer. One year ago my programming knowledge was basically nil. Everything I learned, I found via /r/learnprogramming, so just wanted to share my experience.](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/)\n    *   [From zero to software developer - Not really a success story, but a lot of redditors share how they learned. Great for beginners with no path](https://www.reddit.com/r/learnprogramming/comments/5elrb5/from_zero_to_software_developer/)\n\n* * *\n\n### Get The Job\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#get-the-job)\n\n**Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**\n\n*   Make your portfolio\n    \n    *   [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox.\n    *   [10 Awesome Web Developer Portfolios](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)\n*   How to Apply\n    \n    *   [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)\n    *   [Lessons from my Post-bootcamp Job search (Medium)](https://medium.freecodecamp.com/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f#.u83avhawf)\n    *   [How to land a six figure job in tech with no connections (Medium)](https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4#.9cc270q7j)\n*   Resume & LinkedIn\n    \n    *   [What are some of the best resuмe formats you've seen?](https://www.reddit.com/r/cscareerquestions/comments/5gnmkj/what_are_some_of_the_best_resu%D0%BCe_formats_youve/)\n    *   [Model examples for Fullstack Developer LinkedIn profiles](https://www.reddit.com/r/cscareerquestions/comments/5f5e3f/what_are_some_model_examples_for_fullstack/)\n*   Personal Projects\n    \n    *   [Recruiters, what kind of CS projects impress?](https://www.reddit.com/r/cscareerquestions/comments/586lbg/recruiters_what_kind_of_cs_projects_impress/)\n*   Interview Prep\n    \n    *   [CS50 - Prep and Practice for Technical Interviews \\[YouTube\\]](https://youtu.be/qIi-tIrcaww?t=2m32s)\n    *   [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)\n    *   Common JavaScript Interview Questions Repo\n        *   [GitHub Repo - All questions and answers](https://github.com/kennymkchan/interview-questions-in-javascript)\n        *   [Reddit Post - Discussion, with additional questions and answers](https://www.reddit.com/r/learnprogramming/comments/5sa35k/fun_github_repo_containing_common_interview/)\n    *   [Ammon Bartram - Ask an interviewer anything: interview questions, answers, mistakes](https://www.reddit.com/r/cscareerquestions/comments/5y95x6/i_am_ammon_bartram_and_i_have_done_900/)\n    *   [Sharing some interview tips (Silicon valley employee)](https://www.reddit.com/r/cscareerquestions/comments/5w2oyn/sharing_some_interview_tips/)\n    *   [Job interview questions to ask the interviewer](https://www.reddit.com/r/AskReddit/comments/5iqnkj/at_the_end_of_a_job_interview_they_always_ask/)\n    *   [I suck at programming interviews.](https://www.reddit.com/r/cscareerquestions/comments/5dk7we/i_suck_at_programming_interviews_maybe_i_suck_too/)\n    *   [When solving an interview problem, talk all the time.](https://www.reddit.com/r/cscareerquestions/comments/58htcc/when_solving_an_interview_problem_talk_all_the/)\n    *   [Hiring managers (or other seasoned developers), what qualities do you look for in your ideal candidate?](https://www.reddit.com/r/cscareerquestions/comments/5557j0/hiring_managers_or_other_seasoned_developers_what/)\n    *   [Post your best interview questions](https://www.reddit.com/r/cscareerquestions/comments/4rdcy0/post_your_best_interview_questions/)\n    *   [Been interviewing with a lot of tech startups as a frontend dev, here are the technical questions I've been asked (MID-SENIOR LEVEL)](https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)\n    *   [10 Interview Questions every JS Developer should know (Medium)](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.v0dk97v5v)\n*   Salary Information\n    \n    *   [How Much Do Software Developers Make in 2017?](https://codeburst.io/how-much-do-software-developers-make-in-2017-e6ae657966be)\n    *   [12/2016 Salary Sharing Thread (<2 yrs Experience)](https://www.reddit.com/r/cscareerquestions/comments/5h6xvj/official_salary_sharing_thread_for_new_grads/)\n    *   [Salary Negotiations and how not to set a bunch of money on fire (Medium)](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.75xz4zut8)\n    *   [10 Rules for negotiating a job offer (Medium)](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.g8u1wnyw8)\n    *   [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)\n\n* * *\n\n### Assorted Links\n\n[](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer?screenshot=true#assorted-links)\n\n*   Tutorial/Screencast: [Lets Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)\n*   JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)\n*   [Watch And Code](https://watchandcode.com/)\n*   [RegexOne](http://regexone.com/) - Learn Regular Expressions\n*   [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)\n*   [Regex 101 by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)\n*   [20 Developers to Follow on Twitter](https://codeburst.io/best-web-developers-to-follow-on-twitter-9318a3f6525a)",
+  "usage": {
+    "tokens": 11442
+  }
+}
+```

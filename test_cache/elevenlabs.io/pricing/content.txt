@@ -1,0 +1,780 @@
+Pricing | ElevenLabs
+===============
+ 
+
+[](https://elevenlabs.io/)[Skip to content](https://elevenlabs.io/pricing#content)
+
+*   AI Audio
+    
+*   Solutions
+    
+*   [API](https://elevenlabs.io/api)
+*   [Pricing](https://elevenlabs.io/pricing)
+*   Company
+    
+
+[Log in](https://elevenlabs.io/app/sign-in)[Try for free](https://elevenlabs.io/app/sign-up)
+
+[](https://elevenlabs.io/)
+
+*   [Get started free](https://elevenlabs.io/app/sign-up)
+
+Pricing
+=======
+
+From individual creators to the biggest enterprises, we have a plan for you.
+
+Monthly
+
+Yearly
+
+2 months free
+
+*   Free
+    ----
+    
+    For individuals who want to try out the most advanced AI audio
+    
+    $0/mo
+    
+    [GET STARTED](https://elevenlabs.io/app/sign-up)
+    
+    10k credits limit
+    
+    What's included
+    
+    *   10 minutes of ultra-high quality text to speech per month
+    *   Generate speech in 32 languages using thousands of unique voices
+    *   Translate content with automatic dubbing
+    *   Create custom, synthetic voices
+    *   Generate sound effects
+    *   API access
+    
+*   Starter
+    -------
+    
+    For hobbyists creating projects with AI audio
+    
+    $5/mo
+    
+    [GET STARTED](https://elevenlabs.io/app/sign-up?redirect=/app/subscription)
+    
+    30k credits limit
+    
+    Everything in free, plus
+    
+    *   30 minutes of ultra-high quality text to speech per month
+    *   Clone your voice with as little as 1 minute of audio
+    *   Projects to create long form content with multiple speakers
+    *   Access to the Dubbing Studio for more control over translation & timing
+    *   License to use ElevenLabs for commercial use
+    
+*   Most popular
+    
+    Creator
+    -------
+    
+    For creators making premium content for global audiences
+    
+    first month 50% off
+    
+    $22
+    
+    $11/mo
+    
+    [GET STARTED](https://elevenlabs.io/app/sign-up?redirect=/app/subscription)
+    
+    100k credits limit
+    
+    Everything in Starter, plus
+    
+    *   100 minutes of ultra-high quality text to speech per month
+    *   Professional voice cloning to create the most realistic digital replica of your voice
+    *   Audio Native to add narration to your website and blogs
+    *   Higher quality audio - 192 kbps
+    *   Usage based billing for additional credits
+    
+*   Pro
+    ---
+    
+    For creators ramping up their content production
+    
+    $99/mo
+    
+    [GET STARTED](https://elevenlabs.io/app/sign-up?redirect=/app/subscription)
+    
+    500k credits limit
+    
+    Everything in Creator, plus
+    
+    *   500 minutes of ultra-high quality text to speech per month
+    *   Higher quality audio via Projects - 192 kbps
+    *   44.1 kHz PCM audio output via API
+    *   Usage analytics dashboard
+    *   Usage based billing for additional credits
+    
+*   Scale
+    -----
+    
+    For startups and publishers
+    
+    $330/mo
+    
+    [GET STARTED](https://elevenlabs.io/app/sign-up?redirect=/app/subscription)
+    
+    2M credits limit
+    
+    Everything in Pro, plus
+    
+    *   2,000 minutes of ultra-high quality text to speech per month
+    *   Usage based billing for additional credits
+    
+*   Business
+    --------
+    
+    For rapidly scaling startups and publishers
+    
+    $1,320/mo
+    
+    [GET STARTED](https://elevenlabs.io/app/sign-up?redirect=/app/subscription)
+    
+    11M credits limit
+    
+    Everything in Scale, plus
+    
+    *   11,000 minutes of ultra-high quality text to speech per month or 22,000 minutes of Flash/Turbo text to speech
+    *   Usage based billing for additional credits
+    *   Flash/Turbo models at $50/million characters (when paying annually)
+    *   3 professional voice clones
+    
+*   Enterprise
+    ----------
+    
+    For enterprises' that need volume based discounts and custom terms.
+    
+    Custom pricing
+    
+    [GET STARTED](https://elevenlabs.io/contact-sales)
+    
+    As much as you need
+    
+    Everything in Business, plus
+    
+    *   API access to everything
+    *   Custom terms & assurance around DPA/SLAs
+    *   Security questionnaires
+    *   Custom SSO
+    *   More voices & more monthly voice operations
+    *   Elevated concurrency limit
+    *   ElevenStudios fully managed dubbing service
+    *   Significantly discounted pricing at scale
+    *   Priority support
+    
+
+Actual price may vary based on the exchange rate between USD and local currency at the time of payment processing or invoicing. Prices exclude all taxes, levies and duties.
+
+Compare our plans and find the right fit
+----------------------------------------
+
+FreeStarterCreatorProScaleBusiness
+
+Credits
+
+Monthly credits included
+
+Additional credits cost
+
+10,000
+
+Text to Speech
+
+Text to speech
+
+Highest quality models
+
+Additional characters (highest quality)
+
+Flash/Turbo models
+
+Additional characters (Flash/Turbo)
+
+Concurrency limit
+
+Priority
+
+10,000 characters  
+(~10 minutes)
+
+20,000 characters  
+(~20 minutes)
+
+2
+
+3
+
+Speech to Speech
+
+Speech to speech
+
+Minutes of speech to speech
+
+10 minutes
+
+Voices
+
+Custom voices
+
+Voice design
+
+Instant voice cloning
+
+Professional voice cloning
+
+Number of Professional Voice Clones
+
+3 voices
+
+0 PVCs
+
+Projects
+
+Access to projects
+
+Maximum number of projects
+
+0
+
+Audio Native
+
+Access to Audio Native
+
+Maximum number of Audio Native projects
+
+0
+
+Automatic Dubbing
+
+Automatic dubbing
+
+Minutes of video (with watermark)
+
+Minutes of video (without watermark)
+
+5
+
+0
+
+Dubbing Studio
+
+Dubbing Studio
+
+Minutes of video (with watermark)
+
+Minutes of video (without watermark)
+
+0
+
+0
+
+Sound effects
+
+Text to sound effects
+
+Seconds of text to sound effects
+
+250
+
+Voice Isolator
+
+Voice isolator
+
+Minutes of voice isolation
+
+0 minutes
+
+Licensing and analytics
+
+Commercial licence
+
+No attribution requirement
+
+Usage analytics
+
+Quality and formats
+
+Audio quality
+
+API formats
+
+128 kbps, 44.1kHz
+
+16kHz PCM, uLaw
+
+Free
+
+[GET STARTED](https://elevenlabs.io/app/sign-up)
+
+Starter
+
+[GET STARTED](https://elevenlabs.io/app/sign-up?redirect=/app/subscription)
+
+Creator
+
+[GET STARTED](https://elevenlabs.io/app/sign-up?redirect=/app/subscription)
+
+Pro
+
+[GET STARTED](https://elevenlabs.io/app/sign-up?redirect=/app/subscription)
+
+Scale
+
+[GET STARTED](https://elevenlabs.io/app/sign-up?redirect=/app/subscription)
+
+Business
+
+[GET STARTED](https://elevenlabs.io/app/sign-up?redirect=/app/subscription)
+
+Credits
+
+Monthly credits included
+
+Additional credits cost
+
+Text to Speech
+
+Text to speech
+
+Highest quality models
+
+Additional characters (highest quality)
+
+Flash/Turbo models
+
+Additional characters (Flash/Turbo)
+
+Concurrency limit
+
+Priority
+
+Speech to Speech
+
+Speech to speech
+
+Minutes of speech to speech
+
+Voices
+
+Custom voices
+
+Voice design
+
+Instant voice cloning
+
+Professional voice cloning
+
+Number of Professional Voice Clones
+
+Projects
+
+Access to projects
+
+Maximum number of projects
+
+Audio Native
+
+Access to Audio Native
+
+Maximum number of Audio Native projects
+
+Automatic Dubbing
+
+Automatic dubbing
+
+Minutes of video (with watermark)
+
+Minutes of video (without watermark)
+
+Dubbing Studio
+
+Dubbing Studio
+
+Minutes of video (with watermark)
+
+Minutes of video (without watermark)
+
+Sound effects
+
+Text to sound effects
+
+Seconds of text to sound effects
+
+Voice Isolator
+
+Voice isolator
+
+Minutes of voice isolation
+
+Licensing and analytics
+
+Commercial licence
+
+No attribution requirement
+
+Usage analytics
+
+Quality and formats
+
+Audio quality
+
+API formats
+
+10,000
+
+10,000 characters  
+(~10 minutes)
+
+20,000 characters  
+(~20 minutes)
+
+2
+
+3
+
+10 minutes
+
+3 voices
+
+0 PVCs
+
+0
+
+0
+
+5
+
+0
+
+0
+
+0
+
+250
+
+0 minutes
+
+128 kbps, 44.1kHz
+
+16kHz PCM, uLaw
+
+30,000
+
+30,000 characters  
+(~30 minutes)
+
+60,000 characters  
+(~60 minutes)
+
+3
+
+4
+
+30 minutes
+
+10 voices
+
+0 PVCs
+
+20
+
+0
+
+15
+
+0
+
+6
+
+0
+
+750
+
+30 minutes
+
+128 kbps, 44.1kHz
+
+22.05kHz PCM, uLaw
+
+100,000
+
+$0.30/1000
+
+100,000 characters  
+(~100 minutes)
+
+$0.30/1000
+
+200,000 characters  
+(~200 minutes)
+
+$0.15/1000
+
+5
+
+5
+
+100 minutes
+
+30 voices
+
+1 PVCs
+
+1,000
+
+1,000
+
+50
+
+33
+
+20
+
+10
+
+2,500
+
+100 minutes
+
+128 & 192 kbps (via API), 44.1kHz
+
+24kHz PCM, uLaw
+
+500,000
+
+$0.24/1000
+
+500,000 characters  
+(~500 minutes)
+
+$0.24/1000
+
+1,000,000 characters  
+(~1,000 minutes)
+
+$0.12/1000
+
+10
+
+5
+
+500 minutes
+
+160 voices
+
+1 PVCs
+
+3,000
+
+3,000
+
+250
+
+167
+
+100
+
+50
+
+12,500
+
+500 minutes
+
+128 & 192 kbps (via Projects & API), 44.1kHz
+
+44.1kHz PCM, uLaw
+
+2,000,000
+
+$0.18/1000
+
+2,000,000 characters  
+(~2,000 minutes)
+
+$0.18/1000
+
+4,000,000 characters  
+(~4,000 minutes)
+
+$0.09/1000
+
+15
+
+5
+
+2,000 minutes
+
+660 voices
+
+1 PVCs
+
+20,000
+
+20,000
+
+1,000
+
+667
+
+400
+
+200
+
+50,000
+
+2,000 minutes
+
+128 & 192 kbps (via Projects & API), 44.1kHz
+
+44.1kHz PCM, uLaw
+
+11,000,000
+
+$0.10/1000 on annual or $0.12/1000
+
+11,000,000 characters  
+(~11,000 minutes)
+
+$0.10/1000 on annual or $0.12/1000
+
+22,000,000 characters  
+(~22,000 minutes)
+
+$0.05/1000 on annual or $0.06/1000
+
+15
+
+5
+
+11,000 minutes
+
+660 voices
+
+3 PVCs
+
+20,000
+
+20,000
+
+5,500
+
+3,667
+
+2,200
+
+1,100
+
+275,000
+
+11,000 minutes
+
+128 & 192 kbps (via Projects & API), 44.1kHz
+
+44.1kHz PCM, uLaw
+
+Frequently asked questions
+--------------------------
+
+### Are unused text characters rolled over to the next month?
+
+### What is usage-based billing?
+
+### Can I pause my subscription?
+
+### How do text characters and credits work?
+
+### What kind of payment do you accept?
+
+ElevenLabs
+
+Create with the highest quality AI Audio
+
+[Get started free](https://elevenlabs.io/app/sign-up)Already have an account? [Log in](https://elevenlabs.io/app/sign-in)
+
+*   [](https://twitter.com/elevenlabsio)
+*   [](https://www.linkedin.com/company/elevenlabsio)
+*   [](https://github.com/elevenlabs)
+*   [](https://www.youtube.com/@elevenlabsio)
+*   [](https://discord.gg/elevenlabs)
+
+Footer
+------
+
+### Research
+
+### Products
+
+### Solutions
+
+### Earn As
+
+### Resources
+
+### Company
+
+*   Research
+    
+    *   [Text to Speech](https://elevenlabs.io/text-to-speech)
+    *   [Speech to Speech](https://elevenlabs.io/voice-changer)
+    *   [Text to Sound Effects](https://elevenlabs.io/sound-effects)
+    *   [Voice Cloning](https://elevenlabs.io/voice-cloning)
+    *   [Voice Isolator](https://elevenlabs.io/voice-isolator)
+*   Products
+    
+    *   [Projects](https://elevenlabs.io/projects)
+    *   [Dubbing Studio](https://elevenlabs.io/dubbing-studio)
+    *   [Audio Native](https://elevenlabs.io/audio-native)
+    *   [ElevenStudios](https://elevenlabs.io/elevenstudios)
+    *   [API](https://elevenlabs.io/api)
+    *   [Voiceover Studio](https://elevenlabs.io/voiceover-studio)
+    *   [ElevenReader](https://elevenlabs.io/text-reader)
+*   Solutions
+    
+    *   [For Enterprise](https://elevenlabs.io/enterprise)
+    *   [For Teams](https://elevenlabs.io/teams)
+    *   [For Creators](https://elevenlabs.io/creators)
+    *   [For Developers](https://elevenlabs.io/api)
+    *   [For Startups](https://elevenlabs.io/grants)
+    *   [Publishing](https://elevenlabs.io/publishing)
+    *   [Media and Entertainment](https://elevenlabs.io/media-and-entertainment)
+    *   [Conversational AI](https://elevenlabs.io/customer-service)
+*   Earn As
+    
+    *   [Affiliate](https://elevenlabs.io/affiliates)
+    *   [Voice Actor](https://elevenlabs.io/payouts)
+    *   [Data Partner](https://elevenlabs.io/voice-data-partnerships)
+*   Resources
+    
+    *   [API Reference](https://elevenlabs.io/docs/api-reference/text-to-speech)
+    *   [Product Guides](https://elevenlabs.io/docs/introduction)
+    *   [Help Centre](https://help.elevenlabs.io/hc/en-us)
+    *   [Languages](https://elevenlabs.io/languages)
+*   Company
+    
+    *   [About](https://elevenlabs.io/about)
+    *   [Safety](https://elevenlabs.io/safety)
+    *   [Careers](https://jobs.ashbyhq.com/elevenlabs/)
+    *   [Blog](https://elevenlabs.io/blog)
+    *   [Impact Program](https://elevenlabs.io/impact-program)
+    *   [Brand and Press Kit](https://elevenlabs.io/brand)
+    *   [Iconic Voices](https://elevenlabs.io/iconic-voices)
+
+[](https://elevenlabs.io/)English
+
+Reach everyone with AI audio
+
+© 2025 ElevenLabs
+
+*   [Privacy](https://elevenlabs.io/privacy-policy)
+*   [Terms](https://elevenlabs.io/terms-of-use)
+*   [Safety](https://elevenlabs.io/safety)
+
+Soc IIGDPRC2PA

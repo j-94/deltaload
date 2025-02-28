@@ -1,0 +1,314 @@
+---
+title: AI Visual Sitemap Builder Tool, Website Planner, Architecture
+description: FREE visual sitemap builder with lo-fi wireframes for prototyping website architecture & structure. Use our website planning and site mapping tool to create a site map instantly. Our website diagram tool and website mapping is extremely fast and easy, we promise!
+url: https://octopus.do/
+timestamp: 2025-01-20T16:04:10.133Z
+domain: octopus.do
+path: root
+---
+
+# AI Visual Sitemap Builder Tool, Website Planner, Architecture
+
+
+FREE visual sitemap builder with lo-fi wireframes for prototyping website architecture & structure. Use our website planning and site mapping tool to create a site map instantly. Our website diagram tool and website mapping is extremely fast and easy, we promise!
+
+
+## Content
+
+Octopus.do, Visual Sitemap Tool, Website Planner, Architecture
+=============== 
+
+![Image 45](blob:https://octopus.do/3285e7d595a3abf366fef7abd039b5e5)
+
+Connecting...
+
+Untitled project
+
+Search
+
+Project settings
+
+Save
+
+Profile
+
+AI assistant
+
+Sticky note
+
+Attach file
+
+External link
+
+Add section
+
+Estimate
+
+Tags
+
+Simple view
+
+Image mode
+
+MAIN
+
+Page
+
+Header
+
+Introduction
+
+Services
+
+Latest news
+
+Footer
+
+Content
+
+Generate pages
+
+Collapse
+
+Page
+
+Content
+
+Generate pages
+
+Page
+
+Content
+
+Generate pages
+
+Page
+
+Content
+
+Generate pages
+
+SECTION
+
+Cookies
+
+Content
+
+Generate pages
+
+404 error
+
+Content
+
+Generate pages
+
+Blue
+
+Topaz
+
+Purple
+
+Sitemap ver. 1
+
+100%
+
+Zoom to center
+
+Cookies anyone?
+
+We use cookies on our website to provide you with a better experience.
+
+[Details](https://octopus.do/sitemap/cookies)Accept all
+
+![Image 46: Logo](https://octopus.do/assets/images/welcome-modal/logo-mobile.svg)
+
+Sign in
+
+![Image 47: close](https://octopus.do/assets/images/welcome-modal/close.svg)
+
+![Image 48: Logo](https://octopus.do/assets/images/welcome-modal/logo.svg) Octopus
+
+*   [Product](https://octopus.do/sitemap)
+*   Features
+    
+    [Sitemap](https://octopus.do/sitemap/features) [Content](https://octopus.do/sitemap/content) [Share](https://octopus.do/sitemap/share) [Ai Generate](https://octopus.do/sitemap/ai) [Crawler](https://octopus.do/sitemap/generator)
+    
+*   [Pricing](https://octopus.do/sitemap/pricing)
+*   Resources
+    
+    [Changelog](https://octopus.do/sitemap/changelog) [Blog](https://octopus.do/sitemap/blog) [Community](https://octopus.do/sitemap/community) [Plugins](https://octopus.do/sitemap/plugins)
+    
+*   [Support](https://octopus.do/sitemap/support)
+
+![Image 49](https://octopus.do/assets/images/welcome-modal/site-structure-preview-mobile.png)
+
+Lightning-fast visual  
+sitemap builder &  
+website planner.
+============================================================
+
+![Image 50](https://octopus.do/assets/images/welcome-modal/site-structure-preview.png)
+
+AI Generate Crawl URL Start from scratch
+
+ Generate
+
+ Crawl
+
+or Start from scratch
+
+*   [Product](https://octopus.do/sitemap)
+*   Features
+    
+    [Sitemap](https://octopus.do/sitemap/features) [Content](https://octopus.do/sitemap/content) [Share](https://octopus.do/sitemap/share) [Ai Generate](https://octopus.do/sitemap/ai) [Crawler](https://octopus.do/sitemap/generator)
+    
+*   [Pricing](https://octopus.do/sitemap/pricing)
+*   Resources
+    
+    [Support](https://octopus.do/sitemap/support) [Community](https://octopus.do/sitemap/community) [Blog](https://octopus.do/sitemap/blog) [Changelog](https://octopus.do/sitemap/changelog) [Plugins](https://octopus.do/sitemap/plugins) [Contact](mailto:hello@octopus.do)
+    
+*   [Support](https://octopus.do/sitemap/support)
+
+projects created for the past 24h
+
+![Image 51: Twitter](https://octopus.do/assets/images/welcome-modal/partners/logo-1.svg)
+
+![Image 52: Squarespace](https://octopus.do/assets/images/welcome-modal/partners/logo-2.svg)
+
+![Image 53: Figma](https://octopus.do/assets/images/welcome-modal/partners/logo-3.svg)
+
+![Image 54: Amazon](https://octopus.do/assets/images/welcome-modal/partners/logo-4.svg)
+
+![Image 55: BBDO](https://octopus.do/assets/images/welcome-modal/partners/logo-5.svg)
+
+![Image 56: Interbrand](https://octopus.do/assets/images/welcome-modal/partners/logo-6.svg)
+
+![Image 57](https://octopus.do/assets/images/welcome-modal/steps-1.png)
+
+### Plan website  
+architecture
+
+Site mapping has never been so easy and fun!  
+Within minutes you can start website  
+planning, create colourful visual sitemaps that  
+are pleasant to look at.
+
+[AI Website Builder](https://octopus.do/sitemap/ai) or [Generate sitemap](https://octopus.do/sitemap/generator)
+
+![Image 58](https://octopus.do/assets/images/welcome-modal/steps-2.png)
+
+### Prototype with lo-fi  
+wireframes
+
+Using low fidelity wireframes can help you  
+visualize the contents of every website  
+section, so that it's easy to understand the  
+page layout.
+
+[Our wireframes](https://octopus.do/sitemap/wireframes)
+
+![Image 59](https://octopus.do/assets/images/welcome-modal/steps-3.png)
+
+### Plan website content
+
+Prepare, write, manage, gather, share and  
+work together on your website content & SEO.  
+Organize all in one place.
+
+[More about content and SEO](https://octopus.do/sitemap/content)
+
+Now website planning is fast,  
+easy, and fun. We promise!
+----------------------------------------------------------
+
+[### Be inspired by library sitemap templates Design agency eCommerce Corporate website Non-profit Website Portfolio website Payment card application SaaS website Personal Website Personal blog Product Promo Website Landing page Event website Medical solutions corporate website Educational Website Online bank Sitemap templates](https://octopus.do/sitemap/resource/sitemap-template)
+
+### Work together  
+in real time
+
+![Image 60](https://octopus.do/assets/images/welcome-modal/features-line.svg)
+
+![Image 61](https://octopus.do/assets/images/welcome-modal/features-line-2.svg)
+
+[### Improve your onsite SEO ![Image 62](https://octopus.do/assets/images/welcome-modal/features-tag.svg) ![Image 63](https://octopus.do/assets/images/welcome-modal/features-seo.svg) Explore](https://octopus.do/sitemap/content)
+
+### Simply share your  
+sitemap via URL
+
+![Image 64](https://octopus.do/assets/images/welcome-modal/features-users.png) ![Image 65](https://octopus.do/assets/images/welcome-modal/features-user.png)
+
+[### Export sitemap to PDF, PNG, CSV or XML files ![Image 66](https://octopus.do/assets/images/welcome-modal/features-export.svg) Explore](https://octopus.do/sitemap/share)
+
+### Integrate  
+Figma  
+designs
+
+![Image 67](https://octopus.do/assets/images/welcome-modal/features-toolbar.png)
+
+![Image 68](https://octopus.do/assets/images/welcome-modal/features-figma.svg)
+
+[### Be inspired by library sitemap templates Design agency eCommerce Corporate website Non-profit Website Portfolio website Payment card application SaaS website Personal Website Personal blog Product Promo Website Landing page Event website Medical solutions corporate website Educational Website Online bank Sitemap templates](https://octopus.do/sitemap/templates)
+
+### Simply share your  
+sitemap via URL
+
+![Image 69](https://octopus.do/assets/images/welcome-modal/features-users-mobile.svg)
+
+[### Export sitemap to PDF, PNG, CSV or XML files ![Image 70](https://octopus.do/assets/images/welcome-modal/features-export.svg) Explore](https://octopus.do/sitemap/share)
+
+### Work together  
+in real time
+
+![Image 71](https://octopus.do/assets/images/welcome-modal/features-line.svg)
+
+[### Improve your onsite SEO ![Image 72](https://octopus.do/assets/images/welcome-modal/features-tag.svg) ![Image 73](https://octopus.do/assets/images/welcome-modal/features-seo.svg) Explore](https://octopus.do/sitemap/features)
+
+### Integrate Figma designs
+
+![Image 74](https://octopus.do/assets/images/welcome-modal/features-toolbar.png)
+
+![Image 75](https://octopus.do/assets/images/welcome-modal/features-figma.svg)
+
+Try Octopus [Explore more](https://octopus.do/sitemap/features)No sign up, Let's start site mapping
+
+![Image 76: Logo](https://octopus.do/assets/images/welcome-modal/logo.svg)
+
+*   Product
+*   [Overview](https://octopus.do/sitemap)
+*   [The Method](https://octopus.do/sitemap/method)
+*   [Pricing](https://octopus.do/sitemap/pricing)
+
+*   Features
+*   [Sitemap](https://octopus.do/sitemap/features)
+*   [Content](https://octopus.do/sitemap/content)
+*   [Share](https://octopus.do/sitemap/share)
+*   [Ai Generate](https://octopus.do/sitemap/ai)
+*   [Crawler](https://octopus.do/sitemap/generator)
+
+*   Resources
+*   [Support](https://octopus.do/sitemap/support)
+*   [Community](https://octopus.do/sitemap/community)
+*   [Blog](https://octopus.do/sitemap/blog)
+*   [Changelog](https://octopus.do/sitemap/changelog)
+*   [Plugins](https://octopus.do/sitemap/plugins)
+*   [Contact](mailto:hello@octopus.do)
+
+*   [Privacy policy](https://octopus.do/sitemap/privacy)
+*   [Terms of use](https://octopus.do/sitemap/terms)
+*   [Cookies Policy](https://octopus.do/sitemap/cookies)
+
+[Product updates](https://twitter.com/octopusdoHQ)
+
+## Metadata
+
+```json
+{
+  "title": "AI Visual Sitemap Builder Tool, Website Planner, Architecture",
+  "description": "FREE visual sitemap builder with lo-fi wireframes for prototyping website architecture & structure. Use our website planning and site mapping tool to create a site map instantly. Our website diagram tool and website mapping is extremely fast and easy, we promise!",
+  "url": "https://octopus.do/",
+  "content": "Octopus.do, Visual Sitemap Tool, Website Planner, Architecture\n=============== \n\n![Image 45](blob:https://octopus.do/3285e7d595a3abf366fef7abd039b5e5)\n\nConnecting...\n\nUntitled project\n\nSearch\n\nProject settings\n\nSave\n\nProfile\n\nAI assistant\n\nSticky note\n\nAttach file\n\nExternal link\n\nAdd section\n\nEstimate\n\nTags\n\nSimple view\n\nImage mode\n\nMAIN\n\nPage\n\nHeader\n\nIntroduction\n\nServices\n\nLatest news\n\nFooter\n\nContent\n\nGenerate pages\n\nCollapse\n\nPage\n\nContent\n\nGenerate pages\n\nPage\n\nContent\n\nGenerate pages\n\nPage\n\nContent\n\nGenerate pages\n\nSECTION\n\nCookies\n\nContent\n\nGenerate pages\n\n404 error\n\nContent\n\nGenerate pages\n\nBlue\n\nTopaz\n\nPurple\n\nSitemap ver. 1\n\n100%\n\nZoom to center\n\nCookies anyone?\n\nWe use cookies on our website to provide you with a better experience.\n\n[Details](https://octopus.do/sitemap/cookies)Accept all\n\n![Image 46: Logo](https://octopus.do/assets/images/welcome-modal/logo-mobile.svg)\n\nSign in\n\n![Image 47: close](https://octopus.do/assets/images/welcome-modal/close.svg)\n\n![Image 48: Logo](https://octopus.do/assets/images/welcome-modal/logo.svg) Octopus\n\n*   [Product](https://octopus.do/sitemap)\n*   Features\n    \n    [Sitemap](https://octopus.do/sitemap/features) [Content](https://octopus.do/sitemap/content) [Share](https://octopus.do/sitemap/share) [Ai Generate](https://octopus.do/sitemap/ai) [Crawler](https://octopus.do/sitemap/generator)\n    \n*   [Pricing](https://octopus.do/sitemap/pricing)\n*   Resources\n    \n    [Changelog](https://octopus.do/sitemap/changelog) [Blog](https://octopus.do/sitemap/blog) [Community](https://octopus.do/sitemap/community) [Plugins](https://octopus.do/sitemap/plugins)\n    \n*   [Support](https://octopus.do/sitemap/support)\n\n![Image 49](https://octopus.do/assets/images/welcome-modal/site-structure-preview-mobile.png)\n\nLightning-fast visual  \nsitemap builder &  \nwebsite planner.\n============================================================\n\n![Image 50](https://octopus.do/assets/images/welcome-modal/site-structure-preview.png)\n\nAI Generate Crawl URL Start from scratch\n\n Generate\n\n Crawl\n\nor Start from scratch\n\n*   [Product](https://octopus.do/sitemap)\n*   Features\n    \n    [Sitemap](https://octopus.do/sitemap/features) [Content](https://octopus.do/sitemap/content) [Share](https://octopus.do/sitemap/share) [Ai Generate](https://octopus.do/sitemap/ai) [Crawler](https://octopus.do/sitemap/generator)\n    \n*   [Pricing](https://octopus.do/sitemap/pricing)\n*   Resources\n    \n    [Support](https://octopus.do/sitemap/support) [Community](https://octopus.do/sitemap/community) [Blog](https://octopus.do/sitemap/blog) [Changelog](https://octopus.do/sitemap/changelog) [Plugins](https://octopus.do/sitemap/plugins) [Contact](mailto:hello@octopus.do)\n    \n*   [Support](https://octopus.do/sitemap/support)\n\nprojects created for the past 24h\n\n![Image 51: Twitter](https://octopus.do/assets/images/welcome-modal/partners/logo-1.svg)\n\n![Image 52: Squarespace](https://octopus.do/assets/images/welcome-modal/partners/logo-2.svg)\n\n![Image 53: Figma](https://octopus.do/assets/images/welcome-modal/partners/logo-3.svg)\n\n![Image 54: Amazon](https://octopus.do/assets/images/welcome-modal/partners/logo-4.svg)\n\n![Image 55: BBDO](https://octopus.do/assets/images/welcome-modal/partners/logo-5.svg)\n\n![Image 56: Interbrand](https://octopus.do/assets/images/welcome-modal/partners/logo-6.svg)\n\n![Image 57](https://octopus.do/assets/images/welcome-modal/steps-1.png)\n\n### Plan website  \narchitecture\n\nSite mapping has never been so easy and fun!  \nWithin minutes you can start website  \nplanning, create colourful visual sitemaps that  \nare pleasant to look at.\n\n[AI Website Builder](https://octopus.do/sitemap/ai) or [Generate sitemap](https://octopus.do/sitemap/generator)\n\n![Image 58](https://octopus.do/assets/images/welcome-modal/steps-2.png)\n\n### Prototype with lo-fi  \nwireframes\n\nUsing low fidelity wireframes can help you  \nvisualize the contents of every website  \nsection, so that it's easy to understand the  \npage layout.\n\n[Our wireframes](https://octopus.do/sitemap/wireframes)\n\n![Image 59](https://octopus.do/assets/images/welcome-modal/steps-3.png)\n\n### Plan website content\n\nPrepare, write, manage, gather, share and  \nwork together on your website content & SEO.  \nOrganize all in one place.\n\n[More about content and SEO](https://octopus.do/sitemap/content)\n\nNow website planning is fast,  \neasy, and fun. We promise!\n----------------------------------------------------------\n\n[### Be inspired by library sitemap templates Design agency eCommerce Corporate website Non-profit Website Portfolio website Payment card application SaaS website Personal Website Personal blog Product Promo Website Landing page Event website Medical solutions corporate website Educational Website Online bank Sitemap templates](https://octopus.do/sitemap/resource/sitemap-template)\n\n### Work together  \nin real time\n\n![Image 60](https://octopus.do/assets/images/welcome-modal/features-line.svg)\n\n![Image 61](https://octopus.do/assets/images/welcome-modal/features-line-2.svg)\n\n[### Improve your onsite SEO ![Image 62](https://octopus.do/assets/images/welcome-modal/features-tag.svg) ![Image 63](https://octopus.do/assets/images/welcome-modal/features-seo.svg) Explore](https://octopus.do/sitemap/content)\n\n### Simply share your  \nsitemap via URL\n\n![Image 64](https://octopus.do/assets/images/welcome-modal/features-users.png) ![Image 65](https://octopus.do/assets/images/welcome-modal/features-user.png)\n\n[### Export sitemap to PDF, PNG, CSV or XML files ![Image 66](https://octopus.do/assets/images/welcome-modal/features-export.svg) Explore](https://octopus.do/sitemap/share)\n\n### Integrate  \nFigma  \ndesigns\n\n![Image 67](https://octopus.do/assets/images/welcome-modal/features-toolbar.png)\n\n![Image 68](https://octopus.do/assets/images/welcome-modal/features-figma.svg)\n\n[### Be inspired by library sitemap templates Design agency eCommerce Corporate website Non-profit Website Portfolio website Payment card application SaaS website Personal Website Personal blog Product Promo Website Landing page Event website Medical solutions corporate website Educational Website Online bank Sitemap templates](https://octopus.do/sitemap/templates)\n\n### Simply share your  \nsitemap via URL\n\n![Image 69](https://octopus.do/assets/images/welcome-modal/features-users-mobile.svg)\n\n[### Export sitemap to PDF, PNG, CSV or XML files ![Image 70](https://octopus.do/assets/images/welcome-modal/features-export.svg) Explore](https://octopus.do/sitemap/share)\n\n### Work together  \nin real time\n\n![Image 71](https://octopus.do/assets/images/welcome-modal/features-line.svg)\n\n[### Improve your onsite SEO ![Image 72](https://octopus.do/assets/images/welcome-modal/features-tag.svg) ![Image 73](https://octopus.do/assets/images/welcome-modal/features-seo.svg) Explore](https://octopus.do/sitemap/features)\n\n### Integrate Figma designs\n\n![Image 74](https://octopus.do/assets/images/welcome-modal/features-toolbar.png)\n\n![Image 75](https://octopus.do/assets/images/welcome-modal/features-figma.svg)\n\nTry Octopus [Explore more](https://octopus.do/sitemap/features)No sign up, Let's start site mapping\n\n![Image 76: Logo](https://octopus.do/assets/images/welcome-modal/logo.svg)\n\n*   Product\n*   [Overview](https://octopus.do/sitemap)\n*   [The Method](https://octopus.do/sitemap/method)\n*   [Pricing](https://octopus.do/sitemap/pricing)\n\n*   Features\n*   [Sitemap](https://octopus.do/sitemap/features)\n*   [Content](https://octopus.do/sitemap/content)\n*   [Share](https://octopus.do/sitemap/share)\n*   [Ai Generate](https://octopus.do/sitemap/ai)\n*   [Crawler](https://octopus.do/sitemap/generator)\n\n*   Resources\n*   [Support](https://octopus.do/sitemap/support)\n*   [Community](https://octopus.do/sitemap/community)\n*   [Blog](https://octopus.do/sitemap/blog)\n*   [Changelog](https://octopus.do/sitemap/changelog)\n*   [Plugins](https://octopus.do/sitemap/plugins)\n*   [Contact](mailto:hello@octopus.do)\n\n*   [Privacy policy](https://octopus.do/sitemap/privacy)\n*   [Terms of use](https://octopus.do/sitemap/terms)\n*   [Cookies Policy](https://octopus.do/sitemap/cookies)\n\n[Product updates](https://twitter.com/octopusdoHQ)",
+  "usage": {
+    "tokens": 1982
+  }
+}
+```

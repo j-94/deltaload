@@ -1,0 +1,178 @@
+---
+title: ThoughtSpot Intelligence Platform
+description: ThoughtSpot's complete intelligence platform empowers everyone to ask and answer any question, on any data, anywhere you work.
+url: https://www.thoughtspot.com/
+timestamp: 2025-01-20T16:12:25.389Z
+domain: www.thoughtspot.com
+path: root
+---
+
+# ThoughtSpot Intelligence Platform
+
+
+ThoughtSpot's complete intelligence platform empowers everyone to ask and answer any question, on any data, anywhere you work.
+
+
+## Content
+
+Unlock your data team’s potential—be the first to experience Analyst Studio  
+[Request access](https://www.thoughtspot.com/product/analyst-studio#analyst-studio-form)
+
+AI is the new BI
+----------------
+
+Talk to your data, and finally experience true self-service. Drive real business outcomes with a dedicated AI analyst who can answer any question, on any data, anywhere you work.
+
+[Request a demo](https://www.thoughtspot.com/demo)
+
+![Image 54](https://media.thoughtspot.com/35707/1736792036-refresh_home_1_min.png?auto=format,compress&w=11)
+
+Autonomous Agent  
+for analytics
+--------------------------------
+
+Spotter is your dedicated AI Analyst, answering questions and providing business-ready insights for anyone, anywhere — while delivering enterprise-grade trust. Enter the new era of analytics with agentic AI.
+
+[Meet Spotter](https://www.thoughtspot.com/product/ai-analyst)
+
+ ![Image 55](https://media.thoughtspot.com/35707/1736894779-refresh_wheel.png?auto=format,compress&w=11) ![Image 56](https://media.thoughtspot.com/35707/1736881176-refresh_wheel_mobile.png?auto=format,compress&w=11)
+
+Smart Apps
+----------
+
+Embedded Analytics, Insights to Actions,  
+Workflow Automation
+
+Automated Insights
+------------------
+
+Personalized Exploration, SpotIQ,  
+Proactive Alerts, NLG, AI Highlights
+
+Data Management
+---------------
+
+Real time, Zero Copy or In-Memory,  
+Unified Metadata and Compliance
+
+Autonomous AI Agents
+--------------------
+
+Spotter - Your Trusted AI Analyst,  
+Agent as a Service
+
+AI-Augmented Dashboards
+-----------------------
+
+Self Service - Descriptive, Diagnostic &  
+Predictive Insights, Liveboards, Drill Anywhere
+
+Analyst Studio
+--------------
+
+Data Readiness, Semantic Data Model,  
+SQL, Python, and R
+
+Trusted AI & Analytics for everyone
+-----------------------------------
+
+[### AI Agents Autonomous AI agents that deliver true self-service, backed by enterprise-grade trust. **Explore AI Agents**](https://www.thoughtspot.com/product/ai-analyst)[### AI-Augmented Dashboards Bring insights to life with interactive, endlessly-drillable visualizations. **Explore Visualizations**](https://www.thoughtspot.com/product/visualize)[### Analyst Studio Unleash your analysts to accelerate data to insights with SQL, R, and Python. **Explore Analyst Studio**](https://www.thoughtspot.com/product/analyst-studio)[### Smart Apps Embedded Analytics Embed AI-powered insights everywhere your teams and customers are. **Explore Embedded Analytics**](https://www.thoughtspot.com/product/embedded)[### Automated Insights Go beyond promises to real ROI with ThoughtSpot’s enterprise-grade AI. **Explore Trusted AI**](https://www.thoughtspot.com/product/automated-analytics)[### Any Data, Anywhere Data Management Prep, join, model, and shape your data – real-time or cached – any way you want. **Explore Data Connections**](https://www.thoughtspot.com/product/connect)[### Enterprise BI Drive business outcomes in the AI era with self-service analytics the way it was meant to be. **Explore Enterprise BI**](https://www.thoughtspot.com/product/analytics)[### Actionable Insights AI-powered BI that lets anyone get actionable, trusted, data-driven insights, wherever they are. **Explore Actionable Analytics**](https://www.thoughtspot.com/product/actionable-analytics)[### Ecosystem Make insights a part of every workflow, no matter your data ecosystem. **Explore Ecosystem**](https://www.thoughtspot.com/product/ecosystem)
+
+The leader in  
+data analytics
+------------------------------
+
+Real Customers. Real Stories.
+-----------------------------
+
+Ritesh Ramesh
+
+![Image 57: CVT](https://media.thoughtspot.com/35707/1711030738-logo-black-mdaudit.svg)
+
+Chief Technology Officer
+
+We chose ThoughtSpot because of its performance and search, interactive visualization, the end user experience, and flexible APIs which we can customize into our own platforms.
+
+Nick Latocha
+
+![Image 58: Brambles](https://media.thoughtspot.com/35707/1730904375-logo-black-brambles.svg)
+
+Senior Director at Brambles
+
+ThoughtSpot has become an important tool in our GenAI toolbox that is changing the way our teams do business, with self-service at the core.
+
+Craig Haughan
+
+![Image 59: CWT](https://media.thoughtspot.com/35707/1736361142-cwt.svg)
+
+VP, Data Engineering & Architecture
+
+Spotter introduces a limitless conversational experience to supercharge self-serve capabilities for our customers, who will never be more than a question away from data insights.
+
+Riley Molloy
+
+![Image 60: EA](https://media.thoughtspot.com/35707/1731112595-ts-customer-eagames-logo.png?auto=format,compress&w=11)
+
+Senior Manager of Data Science
+
+We anticipate significant efficiency gains as we continue to leverage ThoughtSpot as any stakeholder can use natural language to ask questions and get answers on their own.
+
+Rachel Hartley
+
+![Image 61: The Modern Milkman](https://media.thoughtspot.com/35707/1668547424-ts_home_modern_milkman_logo.png?auto=format,compress&w=11)
+
+Performance Marketing Manager
+
+45 days worth of Excel spreadsheets turned into 20 minutes with ThoughtSpot and we now have so much better insights because of it.
+
+Vivek Malhotra
+
+![Image 62: Unilever](https://media.thoughtspot.com/35707/1668548742-ts_home_unilever_logo.png?auto=format,compress&w=11)
+
+Sr. Manager Customer Development Analytics
+
+Our finance team can easily get granular, actionable insights on underlying sales growth, turnover and more with the scale and speed we need.
+
+Built for data teams using 
+---------------------------
+
+Get the latest from ThoughtSpot
+-------------------------------
+
+![Image 63](https://media.thoughtspot.com/35707/1735228695-embedded-wp-thumbnail.png?auto=format,compress&w=11)
+
+#### Whitepaper
+
+Product leaders share 6 rules for embedded analytics success
+
+[Download now](https://go.thoughtspot.com/whitepaper-6-rules-for-embedded-analytics-success.html)
+
+![Image 64](https://media.thoughtspot.com/35707/1712069658-ts-webinar-builders-buy-in-res.png?auto=format,compress&w=11)
+
+#### Webinar
+
+Builders buy in: Why Goldcast and ZIPZERO bought into embedded analytics
+
+[View now](https://go.thoughtspot.com/webinar-builders-buy-in.html)
+
+![Image 65](https://media.thoughtspot.com/35707/1735233819-genai-blog-res.png?auto=format,compress&w=11)
+
+#### Blog
+
+Embedded analytics in the age of generative AI
+
+[Read more](https://www.thoughtspot.com/blog/embedded-analytics-for-generative-ai)
+
+## Metadata
+
+```json
+{
+  "title": "ThoughtSpot Intelligence Platform",
+  "description": "ThoughtSpot's complete intelligence platform empowers everyone to ask and answer any question, on any data, anywhere you work.",
+  "url": "https://www.thoughtspot.com/",
+  "content": "Unlock your data team’s potential—be the first to experience Analyst Studio  \n[Request access](https://www.thoughtspot.com/product/analyst-studio#analyst-studio-form)\n\nAI is the new BI\n----------------\n\nTalk to your data, and finally experience true self-service. Drive real business outcomes with a dedicated AI analyst who can answer any question, on any data, anywhere you work.\n\n[Request a demo](https://www.thoughtspot.com/demo)\n\n![Image 54](https://media.thoughtspot.com/35707/1736792036-refresh_home_1_min.png?auto=format,compress&w=11)\n\nAutonomous Agent  \nfor analytics\n--------------------------------\n\nSpotter is your dedicated AI Analyst, answering questions and providing business-ready insights for anyone, anywhere — while delivering enterprise-grade trust. Enter the new era of analytics with agentic AI.\n\n[Meet Spotter](https://www.thoughtspot.com/product/ai-analyst)\n\n ![Image 55](https://media.thoughtspot.com/35707/1736894779-refresh_wheel.png?auto=format,compress&w=11) ![Image 56](https://media.thoughtspot.com/35707/1736881176-refresh_wheel_mobile.png?auto=format,compress&w=11)\n\nSmart Apps\n----------\n\nEmbedded Analytics, Insights to Actions,  \nWorkflow Automation\n\nAutomated Insights\n------------------\n\nPersonalized Exploration, SpotIQ,  \nProactive Alerts, NLG, AI Highlights\n\nData Management\n---------------\n\nReal time, Zero Copy or In-Memory,  \nUnified Metadata and Compliance\n\nAutonomous AI Agents\n--------------------\n\nSpotter - Your Trusted AI Analyst,  \nAgent as a Service\n\nAI-Augmented Dashboards\n-----------------------\n\nSelf Service - Descriptive, Diagnostic &  \nPredictive Insights, Liveboards, Drill Anywhere\n\nAnalyst Studio\n--------------\n\nData Readiness, Semantic Data Model,  \nSQL, Python, and R\n\nTrusted AI & Analytics for everyone\n-----------------------------------\n\n[### AI Agents Autonomous AI agents that deliver true self-service, backed by enterprise-grade trust. **Explore AI Agents**](https://www.thoughtspot.com/product/ai-analyst)[### AI-Augmented Dashboards Bring insights to life with interactive, endlessly-drillable visualizations. **Explore Visualizations**](https://www.thoughtspot.com/product/visualize)[### Analyst Studio Unleash your analysts to accelerate data to insights with SQL, R, and Python. **Explore Analyst Studio**](https://www.thoughtspot.com/product/analyst-studio)[### Smart Apps Embedded Analytics Embed AI-powered insights everywhere your teams and customers are. **Explore Embedded Analytics**](https://www.thoughtspot.com/product/embedded)[### Automated Insights Go beyond promises to real ROI with ThoughtSpot’s enterprise-grade AI. **Explore Trusted AI**](https://www.thoughtspot.com/product/automated-analytics)[### Any Data, Anywhere Data Management Prep, join, model, and shape your data – real-time or cached – any way you want. **Explore Data Connections**](https://www.thoughtspot.com/product/connect)[### Enterprise BI Drive business outcomes in the AI era with self-service analytics the way it was meant to be. **Explore Enterprise BI**](https://www.thoughtspot.com/product/analytics)[### Actionable Insights AI-powered BI that lets anyone get actionable, trusted, data-driven insights, wherever they are. **Explore Actionable Analytics**](https://www.thoughtspot.com/product/actionable-analytics)[### Ecosystem Make insights a part of every workflow, no matter your data ecosystem. **Explore Ecosystem**](https://www.thoughtspot.com/product/ecosystem)\n\nThe leader in  \ndata analytics\n------------------------------\n\nReal Customers. Real Stories.\n-----------------------------\n\nRitesh Ramesh\n\n![Image 57: CVT](https://media.thoughtspot.com/35707/1711030738-logo-black-mdaudit.svg)\n\nChief Technology Officer\n\nWe chose ThoughtSpot because of its performance and search, interactive visualization, the end user experience, and flexible APIs which we can customize into our own platforms.\n\nNick Latocha\n\n![Image 58: Brambles](https://media.thoughtspot.com/35707/1730904375-logo-black-brambles.svg)\n\nSenior Director at Brambles\n\nThoughtSpot has become an important tool in our GenAI toolbox that is changing the way our teams do business, with self-service at the core.\n\nCraig Haughan\n\n![Image 59: CWT](https://media.thoughtspot.com/35707/1736361142-cwt.svg)\n\nVP, Data Engineering & Architecture\n\nSpotter introduces a limitless conversational experience to supercharge self-serve capabilities for our customers, who will never be more than a question away from data insights.\n\nRiley Molloy\n\n![Image 60: EA](https://media.thoughtspot.com/35707/1731112595-ts-customer-eagames-logo.png?auto=format,compress&w=11)\n\nSenior Manager of Data Science\n\nWe anticipate significant efficiency gains as we continue to leverage ThoughtSpot as any stakeholder can use natural language to ask questions and get answers on their own.\n\nRachel Hartley\n\n![Image 61: The Modern Milkman](https://media.thoughtspot.com/35707/1668547424-ts_home_modern_milkman_logo.png?auto=format,compress&w=11)\n\nPerformance Marketing Manager\n\n45 days worth of Excel spreadsheets turned into 20 minutes with ThoughtSpot and we now have so much better insights because of it.\n\nVivek Malhotra\n\n![Image 62: Unilever](https://media.thoughtspot.com/35707/1668548742-ts_home_unilever_logo.png?auto=format,compress&w=11)\n\nSr. Manager Customer Development Analytics\n\nOur finance team can easily get granular, actionable insights on underlying sales growth, turnover and more with the scale and speed we need.\n\nBuilt for data teams using \n---------------------------\n\nGet the latest from ThoughtSpot\n-------------------------------\n\n![Image 63](https://media.thoughtspot.com/35707/1735228695-embedded-wp-thumbnail.png?auto=format,compress&w=11)\n\n#### Whitepaper\n\nProduct leaders share 6 rules for embedded analytics success\n\n[Download now](https://go.thoughtspot.com/whitepaper-6-rules-for-embedded-analytics-success.html)\n\n![Image 64](https://media.thoughtspot.com/35707/1712069658-ts-webinar-builders-buy-in-res.png?auto=format,compress&w=11)\n\n#### Webinar\n\nBuilders buy in: Why Goldcast and ZIPZERO bought into embedded analytics\n\n[View now](https://go.thoughtspot.com/webinar-builders-buy-in.html)\n\n![Image 65](https://media.thoughtspot.com/35707/1735233819-genai-blog-res.png?auto=format,compress&w=11)\n\n#### Blog\n\nEmbedded analytics in the age of generative AI\n\n[Read more](https://www.thoughtspot.com/blog/embedded-analytics-for-generative-ai)",
+  "usage": {
+    "tokens": 1455
+  }
+}
+```

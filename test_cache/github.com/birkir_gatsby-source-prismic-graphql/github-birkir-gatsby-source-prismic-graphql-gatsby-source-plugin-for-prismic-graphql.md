@@ -1,0 +1,586 @@
+---
+title: GitHub - birkir/gatsby-source-prismic-graphql: Gatsby source plugin for Prismic GraphQL
+description: Gatsby source plugin for Prismic GraphQL . Contribute to birkir/gatsby-source-prismic-graphql development by creating an account on GitHub.
+url: https://github.com/birkir/gatsby-source-prismic-graphql
+timestamp: 2025-01-20T15:31:01.070Z
+domain: github.com
+path: birkir_gatsby-source-prismic-graphql
+---
+
+# GitHub - birkir/gatsby-source-prismic-graphql: Gatsby source plugin for Prismic GraphQL
+
+
+Gatsby source plugin for Prismic GraphQL . Contribute to birkir/gatsby-source-prismic-graphql development by creating an account on GitHub.
+
+
+## Content
+
+gatsby-source-prismic-graphql
+-----------------------------
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#gatsby-source-prismic-graphql)
+
+A Gatsby plugin for fetching source data from the [Prismic headless CMS](https://prismic.io/) using Prismic's beta [GraphQL API](https://prismic.io/docs/graphql/getting-started/integrate-with-existing-js-project). This plugin provides full support for Prismic's preview feature out of the box.
+
+For more context, be sure to checkout Prismic's getting started guide: [Using Prismic With Gatsby](https://prismic.io/docs/reactjs/getting-started/prismic-gatsby). This README, however, serves as the most-up-to-date source of information on `gatsby-source-prismic-graphql`'s latest developments and breaking changes.
+
+Please **be sure your Prismic repository has the GraphQL API enabled**. It is enabled by default on all new Prismic repositories. If you have an older repository or are unable to access `https://[your_repo].prismic.io/graphql`, please reach out to Prismic support to request the GraphQL API.
+
+Contents
+--------
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#contents)
+
+*   [Differences From gatsby-source-prismic](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#differences-from-gatsby-source-prismic)
+*   [Getting Started](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#getting-started)
+*   [Usage](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#usage)
+    *   [Automatic Page Generation](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#automatic-page-generation)
+    *   [Support for Multiple Languages/Locales](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#support-for-multiple-languages)
+    *   [Page Queries: Fetch Data From Prismic](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#page-queries-fetch-data-from-prismic)
+    *   [Prismic Previews](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#prismic-previews)
+    *   [StaticQuery & useStaticQuery](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#staticquery-and-usestaticquery)
+    *   [Fragments](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#fragments)
+    *   [Dynamic Queries & Fetching](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#dynamic-queries-and-fetching)
+    *   [Pagination](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#pagination)
+    *   [Working with gatsby-image](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#working-with-gatsby-image)
+    *   [Prismic.io A/B Experiments Integration](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#prismicio-content-ab-experiments-integration)
+*   [How This Plugin Works](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#how-this-plugin-works)
+*   [Development](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#development)
+*   [Issues & Troubleshooting](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#issues-and-troubleshooting)
+
+Differences From `gatsby-source-prismic`
+----------------------------------------
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#differences-from-gatsby-source-prismic)
+
+`gatsby-source-prismic-graphql` (this plugin) fetches data using Prismic's beta [GraphQL API](https://prismic.io/docs/graphql/getting-started/integrate-with-existing-js-project) and provides full support for Prismic's Preview feature out of the box. It also provides an easy-to-configure interface for page generation.
+
+[`gatsby-source-prismic`](https://github.com/angeloashmore/gatsby-source-prismic) is a different plugin that fetches data using Prismic's REST and Javascript APIs. Previews must be coded up separately.
+
+Getting Started
+---------------
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#getting-started)
+
+**Install the plugin**
+
+npm install --save gatsby-source-prismic-graphql
+
+or
+
+yarn add gatsby-source-prismic-graphql
+
+**Add plugin to `gatsby-config.js` and configure**
+
+{
+  resolve: 'gatsby-source-prismic-graphql',
+  options: {
+    repositoryName: 'gatsby-source-prismic-test-site', // required
+    defaultLang: 'en-us', // optional, but recommended
+    accessToken: '...', // optional
+    prismicRef: '...', // optional, default: master; useful for A/B experiments
+    path: '/preview', // optional, default: /preview
+    previews: true, // optional, default: true
+    pages: \[{ // optional
+      type: 'Article', // TypeName from prismic
+      match: '/article/:uid', // pages will be generated under this pattern
+      previewPath: '/article', // optional path for unpublished documents
+      component: require.resolve('./src/templates/article.js'),
+      sortBy: 'date\_ASC', // optional, default: meta\_lastPublicationDate\_ASC; useful for pagination
+    }\],
+    extraPageFields: 'article\_type', // optional, extends pages query to pass extra fields
+    sharpKeys: \[
+      /image|photo|picture/, // (default)
+      'profilepic',
+    \],
+  }
+}
+
+**Edit your `gatsby-browser.js`**
+
+const { registerLinkResolver } \= require('gatsby-source-prismic-graphql');
+const { linkResolver } \= require('./src/utils/linkResolver');
+
+registerLinkResolver(linkResolver);
+
+Usage
+-----
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#usage)
+
+### Automatic Page Generation
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#automatic-page-generation)
+
+You can generate pages automatically by providing a mapping configuration under the `pages` option in `gatsby-config.js`.
+
+Let's assume we have the following page configuration set:
+
+{
+  pages: \[{
+    type: 'Article',
+    match: '/blogpost/:uid',
+    previewPath: '/blogpost',
+    component: require.resolve('./src/templates/article.js'),
+  }\],
+}
+
+If you have two blog posts with UIDs of `foo` and `bar`, the following URL slugs will be generated:
+
+*   `/blogpost/foo`
+*   `/blogpost/bar`
+
+If you create a new unpublished blogpost, `baz` it will be accessible for preview under, assuming you've established a preview session with Prismic:
+
+*   `/blogpost?uid=baz`
+
+More on [Prismic Previews](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#prismic-previews) below.
+
+#### Conditionally generating pages
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#conditionally-generating-pages)
+
+If the default page generation doesn't cover your use-case, you can provide an optional `filter` option to your individual page configurations.
+
+For example, if you had a single Prismic _Article_ type and wanted pages with `music` in their UIDs to be generated at a different URL :
+
+{
+  pages: \[{
+    type: 'Article',
+    match: '/musicblog/:uid',
+    filter: data \=\> data.node.\_meta.uid.includes('music'),
+    previewPath: '/blogposts',
+    component: require.resolve('./src/templates/article.js'),
+  }, {
+    type: 'Article',
+    match: '/blog/:uid',
+    filter: data \=\> !data.node.\_meta.uid.includes('music'),
+    previewPath: '/blogposts',
+    component: require.resolve('./src/templates/article.js'),
+  }\],
+}
+
+Given 3 articles with UIDs of `why-i-like-music`, `why-i-like-sports` and `why-i-like-food`, the following URL slugs will be generated:
+
+*   `/musicblog/why-i-like-music`
+*   `/blog/why-i-like-sports`
+*   `/blog/why-i-like-food`
+
+### Generating pages from page fields
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#generating-pages-from-page-fields)
+
+Sometimes the meta provided by default doesn't contain enough context to be able to filter pages effectively. By passing `extraPageFields` to the plugin options, we can extend what we can filter on.
+
+{
+  extraPageFields: 'music\_genre',
+  pages: \[{
+    type: 'Article',
+    match: '/techno/:uid',
+    filter: data \=\> data.node.music\_genre \=== 'techno',
+    previewPath: '/blogposts',
+    component: require.resolve('./src/templates/article.js'),
+  }, {
+    type: 'Article',
+    match: '/acoustic/:uid',
+    filter: data \=\> data.node.music\_genre \=== 'acoustic',
+    previewPath: '/blogposts',
+    component: require.resolve('./src/templates/article.js'),
+  }\]
+}
+
+Given 2 articles with the `music_genre` field set, we'll get the following slugs:
+
+/techno/darude /acoustic/mik-parsons
+
+### Support for Multiple Languages
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#support-for-multiple-languages)
+
+Prismic allows you to create your content in multiple languages. This library supports that too. When setting up your configuration options in `gatsby-config.js`, there are three _optional_ properties you should be aware of: `options.defaultLang`, `options.langs`, and `options.pages[i].langs`. In the following example, all are in use:
+
+{
+  resolve: 'gatsby-source-prismic-graphql',
+  options: {
+    repositoryName: 'gatsby-source-prismic-test-site',
+    defaultLang: 'en-us',
+    langs: \['en-us', 'es-es', 'is'\],
+    path: '/preview',
+    previews: true,
+    pages: \[{
+      type: 'Article',
+      match: '/:lang?/:uid',
+      previewPath: '/article',
+      component: require.resolve('./src/templates/article.js'),
+      sortBy: 'date\_ASC',
+      langs: \['en-us', 'es-es', 'is'\],
+    }, {
+      type: "Noticias",
+      match: '/noticias/:uid',
+      previewPath: '/noticias',
+      component: require.resolve('./src/templates/noticias.js'),
+      sortBy: 'date\_ASC',
+      langs: \['es-es'\],
+    }\],
+  }
+}
+
+In the example above, pages are generated for two document types from Prismic--Articles and Noticias. The latter consists of news stories in Spanish. There are three languages total in use in this blog: US English, Traditional Spanish and Icelandic.
+
+For Articles, we are instructing the plugin to generate pages for articles of all three languages. But, because there is a question mark (`?`) after the `:lang` portion of the `match` property (`/:lang?/:uid`), we only include the locale tag in the URL slug for languages that are not the `defaultLang` specified above (_i.e._, 'en-us'). So for the following languages, these are the slugs generated:
+
+*   US English: `/epic-destinations`
+*   Spanish: `/es-es/destinos-increibles`
+*   Icelandic: `/is/reykjadalur`
+
+If we had not specified a `defaultLang`, the slug for US English would have been `/en-us/epic-destinations`. And, in fact, including the `langs: ['en-us', 'es-es', 'is']` declaration for this particular document type (`Articles`) is unnecessary because we already specified that as the default language set right after `defaultLang` in the plugin options.
+
+For Noticias, however, we only want to generate pages for Spanish documents of that type (`langs` is `[es-es]`). We decide that in this context, no locale tag is needed in the URL slug; "noticias" is already enough indication that the contents are in Spanish. So we omit the `:lang` match entirely and specify only `match: '/noticias/:uid'`.
+
+This is an example of how these three properties can be used together to offer maximum flexibility. To see this in action, check out the [languages example app](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/languages).
+
+#### (Optional) Short language codes
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#optional-short-language-codes)
+
+To use short language codes (_e.g. `/fr/articles`_) instead of the default (_e.g. `/fr-fr/articles`_), you can set `options.shortenUrlLangs` to `true`.
+
+Keep in mind that if you use this option & have multiple variants of a language (e.g. _en-us_ and _en-au_) that would be shortened to the same value, you should add UIDs to your URLs to differentiate them.
+
+### Page Queries: Fetch Data From Prismic
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#page-queries-fetch-data-from-prismic)
+
+It is very easy to fetch data from Prismic in your pages:
+
+import React from 'react';
+import { RichText } from 'prismic-reactjs';
+
+export const query \= graphql\`
+  {
+    prismic {
+      page(uid:"homepage", lang:"en-us") {
+        title
+        description
+      }
+    }
+  }
+\`
+
+export default function Page({ data }) \=\> <\>
+  <h1\>{RichText.render(data.prismic.title)}</h1\>
+  <h2\>{RichText.render(data.prismic.description)}</h2\>
+</\>
+
+### Prismic Previews
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#prismic-previews)
+
+Previews are enabled by default, however they must be configured in your prismic instance/repository. For instructions on configuring previews in Prismic, refer to Prismic's guide: [How to set up a preview](https://user-guides.prismic.io/preview/how-to-set-up-a-preview/how-to-set-up-a-preview).
+
+When testing previews, be sure you are starting from a valid Prismic preview URL/path. The most reliable way to test previews is by using the preview button from your draft in Prismic. If you wish to test the Preview locally, catch the URL that opens immediately after clicking the preview link:
+
+`https://[your-domain.tld]/preview?token=https%3A%2F%[your-prismic-repo].prismic.io%2Fpreviews%2FXRag6xAAACA...ABwjduaa%3FwebsitePreviewId%3DXRA...djaa&documentId=XRBH...jduAa`
+
+Then replace the protocol and domain at the beginning of the URL with your `localhost:PORT` instance, or wherever you're wanting to preview from.
+
+This URL will be parsed and replaced by the web app and browser with the proper URL as specified in your page configuration.
+
+### StaticQuery and useStaticQuery
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#staticquery-and-usestaticquery)
+
+You can use `StaticQuery` as usual, but if you would like to preview them, you must use the `withPreview` function.
+
+[See the example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/static-query)
+
+import { StaticQuery, graphql } from 'gatsby';
+import { withPreview } from 'gatsby-source-prismic-graphql';
+
+const articlesQuery \= graphql\`
+  query {
+    prismic {
+      ...
+    }
+  }
+\`;
+
+export const Articles \= () \=\> (
+  <StaticQuery
+    query\={articlesQuery}
+    render\={withPreview(data \=\> { ... }, articlesQuery)}
+  /\>
+);
+
+`useStaticQuery` is not yet supported.
+
+### Fragments
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#fragments)
+
+Fragments are supported for both page queries and static queries.
+
+[See the example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/fragments)
+
+**Within page components**:
+
+import { graphql } from 'gatsby';
+
+const fragmentX \= graphql\` fragment X on Y { ... } \`;
+
+export const query \= graphql\`
+  query {
+    ...X
+  }
+\`;
+
+const MyPage \= (data) \=\> { ... };
+MyPage.fragments \= \[fragmentX\];
+
+export default MyPage;
+
+**With StaticQuery**:
+
+import { StaticQuery, graphql } from 'gatsby';
+import { withPreview } from 'gatsby-source-prismic-graphql';
+
+const fragmentX \= graphql\` fragment X on Y { ... } \`;
+
+export const query \= graphql\`
+  query {
+    ...X
+  }
+\`;
+
+export default () \=\> (
+  <StaticQuery
+    query\={query}
+    render\={withPreview(data \=\> { ... }, query, \[fragmentX\])}
+  /\>
+);
+
+### Dynamic Queries and Fetching
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#dynamic-queries-and-fetching)
+
+You can use this plugin to dynamically fetch data for your component using `prismic.load`. Refer to the [pagination example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/pagination) to see it in action.
+
+import React from 'react';
+import { graphql } from 'gatsby';
+
+export const query \= graphql\`
+  query Example($limit: Int) {
+    prismic {
+      allArticles(first: $limit) {
+        edges {
+          node {
+            title
+          }
+        }
+      }
+    }
+  }
+\`;
+
+export default function Example({ data, prismic }) {
+  const handleClick \= () \=\>
+    prismic.load({
+      variables: { limit: 20 },
+      query, // (optional)
+      fragments: \[\], // (optional)
+    });
+
+  return (
+    // ... data
+    <button onClick\={handleClick}\>load more</button\>
+  );
+}
+
+### Pagination
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#pagination)
+
+Pagination can be accomplished statically (_i.e._, during initialy page generation) or dynamically (_i.e._, with JS in the browser). Examples of both can be found in the [pagination example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/pagination).
+
+Prismic pagination is cursor-based. See Prismic's [Paginate your results](https://prismic.io/docs/graphql/query-the-api/paginate-your-results) article to learn about cursor-based pagination.
+
+By default, pagination will be sorted by last publication date. If you would like to change that, specify a `sortBy` value in your page configuration in `gatsby-config.js`.
+
+#### Dynamically-Generated Pagination
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#dynamically-generated-pagination)
+
+When coupled with `prismic.load`, as demonstrated in the [index page of the pagination example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/pagination), other pages can be fetched dynamically using page and cursor calculations.
+
+GraphQL documents from Prismic have a cursor--a base64-encoded string that represents their order, or page number, in the set of all documents queried. We provide two helpers for converting between cursor strings and page numbers:
+
+*   `getCursorFromDocumentIndex(index: number)`
+*   `getDocumentIndexFromCursor(cursor: string)`
+
+#### Statically-Generated Pagination
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#statically-generated-pagination)
+
+##### Basic Pagination
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#basic-pagination)
+
+For basic linking between the pages, metadata for the previous and next pages are provided to you automatically via `pageContext` in the `paginationPreviousMeta` and `paginationNextMeta` properties. These can be used in conjunction with your `linkResolver` to generate links between pages without any additional GraphQL query. For an example of this, take a look at the `<Pagination />` component in the pagination example's [`article.js`](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/pagination/src/templates/article.js).
+
+##### Enhanced Pagination
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#enhanced-pagination)
+
+If you would like to gather other information about previous and next pages (say a title or image), simply modify your page query to retrieve those documents. This also is demonstrated in the same [pagination example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/pagination/src/templates/article.js) with the `<EnhancedPagination />` component and the page's GraphQL query.
+
+### Working with gatsby-image
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#working-with-gatsby-image)
+
+The latest versions of this plugin support gatsby-image by adding a new property to GraphQL types that contains fields that match the `sharpKeys` array (this defaults to `/image|photo|picture/`) to the `Sharp` suffix.
+
+**Note:** When querying, make sure to also query the source field. For example:
+
+query {
+  prismic {
+    Article(id: "123") {
+      title
+      articlePhoto
+      articlePhotoSharp {
+        childImageSharp {
+          fluid(maxWidth: 400, maxHeight: 250) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }
+  }
+}
+
+You can also get access to specific crop sizes from Prismic by passing the `crop` argument:
+
+query {
+  prismic {
+    Author(id: "123") {
+      name
+      profile\_picture
+      profile\_pictureSharp(crop: "face") {
+        childImageSharp {
+          fluid(maxWidth: 500, maxHeight: 500) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }
+  }
+}
+
+**NOTE** Images are not transformed in preview mode, so be sure to fall back to the default image when the sharp image is `null`.
+
+import Img from 'gatsby-image';
+import get from 'lodash/get';
+
+// ...
+
+const sharpImage \= get(data, 'prismic.Author.profile\_pictureSharp.childImageSharp.fluid');
+return sharpImage ? (
+  <Img fluid\={sharpImage} /\>
+) : (
+  <img src\={get(data, 'prismic.Author.profile\_picture.url')} /\>
+);
+
+Later, we may add an `Image` component that does this for you and leverages the new Prismic Image API as a fallback for preview modes.
+
+### Prismic.io Content A/B Experiments Integration
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#prismicio-content-ab-experiments-integration)
+
+You can use this plugin in combination with Prismic's built-in experiments functionality, and a hosting service like Netlify, to run content A/B tests.
+
+Experiments in Prismic are basically branches of the core content, split into 'refs' similar to git branches. So if you want to get content from a certain experiment variation, you can pass the corresponding ref through to Prismic in your request, and it will return content based on that ref's variation.
+
+A/B experiments are tricky to implement in a static website though; A/B testing needs a way to dynamically serve up the different variations to different website visitors. This is at odds with the idea of a static, non-dynamic website.
+
+Fortunately, static hosting providers like Netlify allow you to run A/B tests at a routing level. This makes it possible for us to build multiple versions of our project using different source data, and then within Netlify split traffic to our different static variations.
+
+Therefore, we can use A/B experiments from Prismic in the following way:
+
+1.  Setup an experiment in Prismic.
+    
+2.  Create a new git branch of your project which will be used to get content. You will need to create a separate git branch for each variation.
+    
+3.  In that git branch, edit/add the optional 'prismicRef' parameter (documented above). The value of this should be the ref of the variation this git branch is for.
+    
+4.  Push the newly created branch to your git repo.
+    
+5.  Now go to your static hosting provider (we'll use Netlify in this example), and setup split testing based on your git branches/Prismic variations.
+    
+6.  Now your static website will show different experimental variations of the content to different users! At this point the process is manual and non-ideal, but hopefully we'll be able to automate it more in the future.
+    
+
+How This Plugin Works
+---------------------
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#how-this-plugin-works)
+
+1.  The plugin creates a new page at `/preview` (by default, you can change this), that will be your preview URL you setup in the Prismic admin interface.
+    
+    It will automatically set cookies based on the query parameters and attempt to find the correct page to redirect to with your linkResolver.
+    
+2.  It uses a different `babel-plugin-remove-graphql-queries` on the client.
+    
+    The modified plugin emits your GraphQL queries as a string so they can be read and re-used on the client side by the plugin.
+    
+3.  Once redirected to a page with the content, everything will load normally.
+    
+    In the background, the plugin takes your original Gatsby GraphQL query, extracts the Prismic subquery and uses it to make a GraphQL request to Prismic with a preview reference.
+    
+    Once data is received, it will update the `data` prop with merged data from Prismic preview and re-render the component.
+    
+
+Development
+-----------
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#development)
+
+git clone git@github.com:birkir/gatsby-source-prismic-graphql.git
+cd gatsby-source-prismic-graphql
+yarn install
+yarn setup
+yarn start
+
+# select example to work with
+cd examples/default
+yarn start
+
+Issues and Troubleshooting
+--------------------------
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#issues-and-troubleshooting)
+
+Please raise an issue on GitHub if you have any problems.
+
+### My page GraphQL query does not hot-reload for previews
+
+[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#my-page-graphql-query-does-not-hot-reload-for-previews)
+
+This is a Gatsby limitation. You can bypass this limitation by adding the following:
+
+export const query \= graphql\` ... \`;
+const MyPage \= () \=\> { ... };
+
+MyPage.query \= query; // <\-- set the query manually to allow hot-reload.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - birkir/gatsby-source-prismic-graphql: Gatsby source plugin for Prismic GraphQL",
+  "description": "Gatsby source plugin for Prismic GraphQL . Contribute to birkir/gatsby-source-prismic-graphql development by creating an account on GitHub.",
+  "url": "https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true",
+  "content": "gatsby-source-prismic-graphql\n-----------------------------\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#gatsby-source-prismic-graphql)\n\nA Gatsby plugin for fetching source data from the [Prismic headless CMS](https://prismic.io/) using Prismic's beta [GraphQL API](https://prismic.io/docs/graphql/getting-started/integrate-with-existing-js-project). This plugin provides full support for Prismic's preview feature out of the box.\n\nFor more context, be sure to checkout Prismic's getting started guide: [Using Prismic With Gatsby](https://prismic.io/docs/reactjs/getting-started/prismic-gatsby). This README, however, serves as the most-up-to-date source of information on `gatsby-source-prismic-graphql`'s latest developments and breaking changes.\n\nPlease **be sure your Prismic repository has the GraphQL API enabled**. It is enabled by default on all new Prismic repositories. If you have an older repository or are unable to access `https://[your_repo].prismic.io/graphql`, please reach out to Prismic support to request the GraphQL API.\n\nContents\n--------\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#contents)\n\n*   [Differences From gatsby-source-prismic](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#differences-from-gatsby-source-prismic)\n*   [Getting Started](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#getting-started)\n*   [Usage](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#usage)\n    *   [Automatic Page Generation](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#automatic-page-generation)\n    *   [Support for Multiple Languages/Locales](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#support-for-multiple-languages)\n    *   [Page Queries: Fetch Data From Prismic](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#page-queries-fetch-data-from-prismic)\n    *   [Prismic Previews](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#prismic-previews)\n    *   [StaticQuery & useStaticQuery](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#staticquery-and-usestaticquery)\n    *   [Fragments](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#fragments)\n    *   [Dynamic Queries & Fetching](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#dynamic-queries-and-fetching)\n    *   [Pagination](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#pagination)\n    *   [Working with gatsby-image](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#working-with-gatsby-image)\n    *   [Prismic.io A/B Experiments Integration](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#prismicio-content-ab-experiments-integration)\n*   [How This Plugin Works](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#how-this-plugin-works)\n*   [Development](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#development)\n*   [Issues & Troubleshooting](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#issues-and-troubleshooting)\n\nDifferences From `gatsby-source-prismic`\n----------------------------------------\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#differences-from-gatsby-source-prismic)\n\n`gatsby-source-prismic-graphql` (this plugin) fetches data using Prismic's beta [GraphQL API](https://prismic.io/docs/graphql/getting-started/integrate-with-existing-js-project) and provides full support for Prismic's Preview feature out of the box. It also provides an easy-to-configure interface for page generation.\n\n[`gatsby-source-prismic`](https://github.com/angeloashmore/gatsby-source-prismic) is a different plugin that fetches data using Prismic's REST and Javascript APIs. Previews must be coded up separately.\n\nGetting Started\n---------------\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#getting-started)\n\n**Install the plugin**\n\nnpm install --save gatsby-source-prismic-graphql\n\nor\n\nyarn add gatsby-source-prismic-graphql\n\n**Add plugin to `gatsby-config.js` and configure**\n\n{\n  resolve: 'gatsby-source-prismic-graphql',\n  options: {\n    repositoryName: 'gatsby-source-prismic-test-site', // required\n    defaultLang: 'en-us', // optional, but recommended\n    accessToken: '...', // optional\n    prismicRef: '...', // optional, default: master; useful for A/B experiments\n    path: '/preview', // optional, default: /preview\n    previews: true, // optional, default: true\n    pages: \\[{ // optional\n      type: 'Article', // TypeName from prismic\n      match: '/article/:uid', // pages will be generated under this pattern\n      previewPath: '/article', // optional path for unpublished documents\n      component: require.resolve('./src/templates/article.js'),\n      sortBy: 'date\\_ASC', // optional, default: meta\\_lastPublicationDate\\_ASC; useful for pagination\n    }\\],\n    extraPageFields: 'article\\_type', // optional, extends pages query to pass extra fields\n    sharpKeys: \\[\n      /image|photo|picture/, // (default)\n      'profilepic',\n    \\],\n  }\n}\n\n**Edit your `gatsby-browser.js`**\n\nconst { registerLinkResolver } \\= require('gatsby-source-prismic-graphql');\nconst { linkResolver } \\= require('./src/utils/linkResolver');\n\nregisterLinkResolver(linkResolver);\n\nUsage\n-----\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#usage)\n\n### Automatic Page Generation\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#automatic-page-generation)\n\nYou can generate pages automatically by providing a mapping configuration under the `pages` option in `gatsby-config.js`.\n\nLet's assume we have the following page configuration set:\n\n{\n  pages: \\[{\n    type: 'Article',\n    match: '/blogpost/:uid',\n    previewPath: '/blogpost',\n    component: require.resolve('./src/templates/article.js'),\n  }\\],\n}\n\nIf you have two blog posts with UIDs of `foo` and `bar`, the following URL slugs will be generated:\n\n*   `/blogpost/foo`\n*   `/blogpost/bar`\n\nIf you create a new unpublished blogpost, `baz` it will be accessible for preview under, assuming you've established a preview session with Prismic:\n\n*   `/blogpost?uid=baz`\n\nMore on [Prismic Previews](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#prismic-previews) below.\n\n#### Conditionally generating pages\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#conditionally-generating-pages)\n\nIf the default page generation doesn't cover your use-case, you can provide an optional `filter` option to your individual page configurations.\n\nFor example, if you had a single Prismic _Article_ type and wanted pages with `music` in their UIDs to be generated at a different URL :\n\n{\n  pages: \\[{\n    type: 'Article',\n    match: '/musicblog/:uid',\n    filter: data \\=\\> data.node.\\_meta.uid.includes('music'),\n    previewPath: '/blogposts',\n    component: require.resolve('./src/templates/article.js'),\n  }, {\n    type: 'Article',\n    match: '/blog/:uid',\n    filter: data \\=\\> !data.node.\\_meta.uid.includes('music'),\n    previewPath: '/blogposts',\n    component: require.resolve('./src/templates/article.js'),\n  }\\],\n}\n\nGiven 3 articles with UIDs of `why-i-like-music`, `why-i-like-sports` and `why-i-like-food`, the following URL slugs will be generated:\n\n*   `/musicblog/why-i-like-music`\n*   `/blog/why-i-like-sports`\n*   `/blog/why-i-like-food`\n\n### Generating pages from page fields\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#generating-pages-from-page-fields)\n\nSometimes the meta provided by default doesn't contain enough context to be able to filter pages effectively. By passing `extraPageFields` to the plugin options, we can extend what we can filter on.\n\n{\n  extraPageFields: 'music\\_genre',\n  pages: \\[{\n    type: 'Article',\n    match: '/techno/:uid',\n    filter: data \\=\\> data.node.music\\_genre \\=== 'techno',\n    previewPath: '/blogposts',\n    component: require.resolve('./src/templates/article.js'),\n  }, {\n    type: 'Article',\n    match: '/acoustic/:uid',\n    filter: data \\=\\> data.node.music\\_genre \\=== 'acoustic',\n    previewPath: '/blogposts',\n    component: require.resolve('./src/templates/article.js'),\n  }\\]\n}\n\nGiven 2 articles with the `music_genre` field set, we'll get the following slugs:\n\n/techno/darude /acoustic/mik-parsons\n\n### Support for Multiple Languages\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#support-for-multiple-languages)\n\nPrismic allows you to create your content in multiple languages. This library supports that too. When setting up your configuration options in `gatsby-config.js`, there are three _optional_ properties you should be aware of: `options.defaultLang`, `options.langs`, and `options.pages[i].langs`. In the following example, all are in use:\n\n{\n  resolve: 'gatsby-source-prismic-graphql',\n  options: {\n    repositoryName: 'gatsby-source-prismic-test-site',\n    defaultLang: 'en-us',\n    langs: \\['en-us', 'es-es', 'is'\\],\n    path: '/preview',\n    previews: true,\n    pages: \\[{\n      type: 'Article',\n      match: '/:lang?/:uid',\n      previewPath: '/article',\n      component: require.resolve('./src/templates/article.js'),\n      sortBy: 'date\\_ASC',\n      langs: \\['en-us', 'es-es', 'is'\\],\n    }, {\n      type: \"Noticias\",\n      match: '/noticias/:uid',\n      previewPath: '/noticias',\n      component: require.resolve('./src/templates/noticias.js'),\n      sortBy: 'date\\_ASC',\n      langs: \\['es-es'\\],\n    }\\],\n  }\n}\n\nIn the example above, pages are generated for two document types from Prismic--Articles and Noticias. The latter consists of news stories in Spanish. There are three languages total in use in this blog: US English, Traditional Spanish and Icelandic.\n\nFor Articles, we are instructing the plugin to generate pages for articles of all three languages. But, because there is a question mark (`?`) after the `:lang` portion of the `match` property (`/:lang?/:uid`), we only include the locale tag in the URL slug for languages that are not the `defaultLang` specified above (_i.e._, 'en-us'). So for the following languages, these are the slugs generated:\n\n*   US English: `/epic-destinations`\n*   Spanish: `/es-es/destinos-increibles`\n*   Icelandic: `/is/reykjadalur`\n\nIf we had not specified a `defaultLang`, the slug for US English would have been `/en-us/epic-destinations`. And, in fact, including the `langs: ['en-us', 'es-es', 'is']` declaration for this particular document type (`Articles`) is unnecessary because we already specified that as the default language set right after `defaultLang` in the plugin options.\n\nFor Noticias, however, we only want to generate pages for Spanish documents of that type (`langs` is `[es-es]`). We decide that in this context, no locale tag is needed in the URL slug; \"noticias\" is already enough indication that the contents are in Spanish. So we omit the `:lang` match entirely and specify only `match: '/noticias/:uid'`.\n\nThis is an example of how these three properties can be used together to offer maximum flexibility. To see this in action, check out the [languages example app](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/languages).\n\n#### (Optional) Short language codes\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#optional-short-language-codes)\n\nTo use short language codes (_e.g. `/fr/articles`_) instead of the default (_e.g. `/fr-fr/articles`_), you can set `options.shortenUrlLangs` to `true`.\n\nKeep in mind that if you use this option & have multiple variants of a language (e.g. _en-us_ and _en-au_) that would be shortened to the same value, you should add UIDs to your URLs to differentiate them.\n\n### Page Queries: Fetch Data From Prismic\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#page-queries-fetch-data-from-prismic)\n\nIt is very easy to fetch data from Prismic in your pages:\n\nimport React from 'react';\nimport { RichText } from 'prismic-reactjs';\n\nexport const query \\= graphql\\`\n  {\n    prismic {\n      page(uid:\"homepage\", lang:\"en-us\") {\n        title\n        description\n      }\n    }\n  }\n\\`\n\nexport default function Page({ data }) \\=\\> <\\>\n  <h1\\>{RichText.render(data.prismic.title)}</h1\\>\n  <h2\\>{RichText.render(data.prismic.description)}</h2\\>\n</\\>\n\n### Prismic Previews\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#prismic-previews)\n\nPreviews are enabled by default, however they must be configured in your prismic instance/repository. For instructions on configuring previews in Prismic, refer to Prismic's guide: [How to set up a preview](https://user-guides.prismic.io/preview/how-to-set-up-a-preview/how-to-set-up-a-preview).\n\nWhen testing previews, be sure you are starting from a valid Prismic preview URL/path. The most reliable way to test previews is by using the preview button from your draft in Prismic. If you wish to test the Preview locally, catch the URL that opens immediately after clicking the preview link:\n\n`https://[your-domain.tld]/preview?token=https%3A%2F%[your-prismic-repo].prismic.io%2Fpreviews%2FXRag6xAAACA...ABwjduaa%3FwebsitePreviewId%3DXRA...djaa&documentId=XRBH...jduAa`\n\nThen replace the protocol and domain at the beginning of the URL with your `localhost:PORT` instance, or wherever you're wanting to preview from.\n\nThis URL will be parsed and replaced by the web app and browser with the proper URL as specified in your page configuration.\n\n### StaticQuery and useStaticQuery\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#staticquery-and-usestaticquery)\n\nYou can use `StaticQuery` as usual, but if you would like to preview them, you must use the `withPreview` function.\n\n[See the example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/static-query)\n\nimport { StaticQuery, graphql } from 'gatsby';\nimport { withPreview } from 'gatsby-source-prismic-graphql';\n\nconst articlesQuery \\= graphql\\`\n  query {\n    prismic {\n      ...\n    }\n  }\n\\`;\n\nexport const Articles \\= () \\=\\> (\n  <StaticQuery\n    query\\={articlesQuery}\n    render\\={withPreview(data \\=\\> { ... }, articlesQuery)}\n  /\\>\n);\n\n`useStaticQuery` is not yet supported.\n\n### Fragments\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#fragments)\n\nFragments are supported for both page queries and static queries.\n\n[See the example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/fragments)\n\n**Within page components**:\n\nimport { graphql } from 'gatsby';\n\nconst fragmentX \\= graphql\\` fragment X on Y { ... } \\`;\n\nexport const query \\= graphql\\`\n  query {\n    ...X\n  }\n\\`;\n\nconst MyPage \\= (data) \\=\\> { ... };\nMyPage.fragments \\= \\[fragmentX\\];\n\nexport default MyPage;\n\n**With StaticQuery**:\n\nimport { StaticQuery, graphql } from 'gatsby';\nimport { withPreview } from 'gatsby-source-prismic-graphql';\n\nconst fragmentX \\= graphql\\` fragment X on Y { ... } \\`;\n\nexport const query \\= graphql\\`\n  query {\n    ...X\n  }\n\\`;\n\nexport default () \\=\\> (\n  <StaticQuery\n    query\\={query}\n    render\\={withPreview(data \\=\\> { ... }, query, \\[fragmentX\\])}\n  /\\>\n);\n\n### Dynamic Queries and Fetching\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#dynamic-queries-and-fetching)\n\nYou can use this plugin to dynamically fetch data for your component using `prismic.load`. Refer to the [pagination example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/pagination) to see it in action.\n\nimport React from 'react';\nimport { graphql } from 'gatsby';\n\nexport const query \\= graphql\\`\n  query Example($limit: Int) {\n    prismic {\n      allArticles(first: $limit) {\n        edges {\n          node {\n            title\n          }\n        }\n      }\n    }\n  }\n\\`;\n\nexport default function Example({ data, prismic }) {\n  const handleClick \\= () \\=\\>\n    prismic.load({\n      variables: { limit: 20 },\n      query, // (optional)\n      fragments: \\[\\], // (optional)\n    });\n\n  return (\n    // ... data\n    <button onClick\\={handleClick}\\>load more</button\\>\n  );\n}\n\n### Pagination\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#pagination)\n\nPagination can be accomplished statically (_i.e._, during initialy page generation) or dynamically (_i.e._, with JS in the browser). Examples of both can be found in the [pagination example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/pagination).\n\nPrismic pagination is cursor-based. See Prismic's [Paginate your results](https://prismic.io/docs/graphql/query-the-api/paginate-your-results) article to learn about cursor-based pagination.\n\nBy default, pagination will be sorted by last publication date. If you would like to change that, specify a `sortBy` value in your page configuration in `gatsby-config.js`.\n\n#### Dynamically-Generated Pagination\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#dynamically-generated-pagination)\n\nWhen coupled with `prismic.load`, as demonstrated in the [index page of the pagination example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/pagination), other pages can be fetched dynamically using page and cursor calculations.\n\nGraphQL documents from Prismic have a cursor--a base64-encoded string that represents their order, or page number, in the set of all documents queried. We provide two helpers for converting between cursor strings and page numbers:\n\n*   `getCursorFromDocumentIndex(index: number)`\n*   `getDocumentIndexFromCursor(cursor: string)`\n\n#### Statically-Generated Pagination\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#statically-generated-pagination)\n\n##### Basic Pagination\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#basic-pagination)\n\nFor basic linking between the pages, metadata for the previous and next pages are provided to you automatically via `pageContext` in the `paginationPreviousMeta` and `paginationNextMeta` properties. These can be used in conjunction with your `linkResolver` to generate links between pages without any additional GraphQL query. For an example of this, take a look at the `<Pagination />` component in the pagination example's [`article.js`](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/pagination/src/templates/article.js).\n\n##### Enhanced Pagination\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#enhanced-pagination)\n\nIf you would like to gather other information about previous and next pages (say a title or image), simply modify your page query to retrieve those documents. This also is demonstrated in the same [pagination example](https://github.com/birkir/gatsby-source-prismic-graphql/tree/master/examples/pagination/src/templates/article.js) with the `<EnhancedPagination />` component and the page's GraphQL query.\n\n### Working with gatsby-image\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#working-with-gatsby-image)\n\nThe latest versions of this plugin support gatsby-image by adding a new property to GraphQL types that contains fields that match the `sharpKeys` array (this defaults to `/image|photo|picture/`) to the `Sharp` suffix.\n\n**Note:** When querying, make sure to also query the source field. For example:\n\nquery {\n  prismic {\n    Article(id: \"123\") {\n      title\n      articlePhoto\n      articlePhotoSharp {\n        childImageSharp {\n          fluid(maxWidth: 400, maxHeight: 250) {\n            ...GatsbyImageSharpFluid\n          }\n        }\n      }\n    }\n  }\n}\n\nYou can also get access to specific crop sizes from Prismic by passing the `crop` argument:\n\nquery {\n  prismic {\n    Author(id: \"123\") {\n      name\n      profile\\_picture\n      profile\\_pictureSharp(crop: \"face\") {\n        childImageSharp {\n          fluid(maxWidth: 500, maxHeight: 500) {\n            ...GatsbyImageSharpFluid\n          }\n        }\n      }\n    }\n  }\n}\n\n**NOTE** Images are not transformed in preview mode, so be sure to fall back to the default image when the sharp image is `null`.\n\nimport Img from 'gatsby-image';\nimport get from 'lodash/get';\n\n// ...\n\nconst sharpImage \\= get(data, 'prismic.Author.profile\\_pictureSharp.childImageSharp.fluid');\nreturn sharpImage ? (\n  <Img fluid\\={sharpImage} /\\>\n) : (\n  <img src\\={get(data, 'prismic.Author.profile\\_picture.url')} /\\>\n);\n\nLater, we may add an `Image` component that does this for you and leverages the new Prismic Image API as a fallback for preview modes.\n\n### Prismic.io Content A/B Experiments Integration\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#prismicio-content-ab-experiments-integration)\n\nYou can use this plugin in combination with Prismic's built-in experiments functionality, and a hosting service like Netlify, to run content A/B tests.\n\nExperiments in Prismic are basically branches of the core content, split into 'refs' similar to git branches. So if you want to get content from a certain experiment variation, you can pass the corresponding ref through to Prismic in your request, and it will return content based on that ref's variation.\n\nA/B experiments are tricky to implement in a static website though; A/B testing needs a way to dynamically serve up the different variations to different website visitors. This is at odds with the idea of a static, non-dynamic website.\n\nFortunately, static hosting providers like Netlify allow you to run A/B tests at a routing level. This makes it possible for us to build multiple versions of our project using different source data, and then within Netlify split traffic to our different static variations.\n\nTherefore, we can use A/B experiments from Prismic in the following way:\n\n1.  Setup an experiment in Prismic.\n    \n2.  Create a new git branch of your project which will be used to get content. You will need to create a separate git branch for each variation.\n    \n3.  In that git branch, edit/add the optional 'prismicRef' parameter (documented above). The value of this should be the ref of the variation this git branch is for.\n    \n4.  Push the newly created branch to your git repo.\n    \n5.  Now go to your static hosting provider (we'll use Netlify in this example), and setup split testing based on your git branches/Prismic variations.\n    \n6.  Now your static website will show different experimental variations of the content to different users! At this point the process is manual and non-ideal, but hopefully we'll be able to automate it more in the future.\n    \n\nHow This Plugin Works\n---------------------\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#how-this-plugin-works)\n\n1.  The plugin creates a new page at `/preview` (by default, you can change this), that will be your preview URL you setup in the Prismic admin interface.\n    \n    It will automatically set cookies based on the query parameters and attempt to find the correct page to redirect to with your linkResolver.\n    \n2.  It uses a different `babel-plugin-remove-graphql-queries` on the client.\n    \n    The modified plugin emits your GraphQL queries as a string so they can be read and re-used on the client side by the plugin.\n    \n3.  Once redirected to a page with the content, everything will load normally.\n    \n    In the background, the plugin takes your original Gatsby GraphQL query, extracts the Prismic subquery and uses it to make a GraphQL request to Prismic with a preview reference.\n    \n    Once data is received, it will update the `data` prop with merged data from Prismic preview and re-render the component.\n    \n\nDevelopment\n-----------\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#development)\n\ngit clone git@github.com:birkir/gatsby-source-prismic-graphql.git\ncd gatsby-source-prismic-graphql\nyarn install\nyarn setup\nyarn start\n\n# select example to work with\ncd examples/default\nyarn start\n\nIssues and Troubleshooting\n--------------------------\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#issues-and-troubleshooting)\n\nPlease raise an issue on GitHub if you have any problems.\n\n### My page GraphQL query does not hot-reload for previews\n\n[](https://github.com/birkir/gatsby-source-prismic-graphql?screenshot=true#my-page-graphql-query-does-not-hot-reload-for-previews)\n\nThis is a Gatsby limitation. You can bypass this limitation by adding the following:\n\nexport const query \\= graphql\\` ... \\`;\nconst MyPage \\= () \\=\\> { ... };\n\nMyPage.query \\= query; // <\\-- set the query manually to allow hot-reload.",
+  "usage": {
+    "tokens": 5845
+  }
+}
+```

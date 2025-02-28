@@ -1,0 +1,498 @@
+---
+title: GitHub - danburzo/percollate: A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
+description: A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs. - danburzo/percollate
+url: https://github.com/danburzo/percollate
+timestamp: 2025-01-20T15:30:56.376Z
+domain: github.com
+path: danburzo_percollate
+---
+
+# GitHub - danburzo/percollate: A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
+
+
+A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs. - danburzo/percollate
+
+
+## Content
+
+[![Image 22: percollate](https://github.com/danburzo/percollate/raw/main/.github/percollate.svg)](https://github.com/danburzo/percollate/blob/main/.github/percollate.svg)
+
+[![Image 23: npm version](https://camo.githubusercontent.com/77211829bc9483a2a3bfb98e21c37c2e60fe5ce96f0c9b718e54c1c387835ad0/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f706572636f6c6c6174652e7376673f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d33323441393726636f6c6f723d626c61636b)](https://www.npmjs.org/package/percollate)
+
+Percollate is a command-line tool that turns web pages into beautifully formatted PDF, EPUB, HTML or Markdown files.
+
+[![Image 24: Sample Output](https://github.com/danburzo/percollate/raw/main/.github/dimensions-of-colour.png)](https://github.com/danburzo/percollate/blob/main/.github/dimensions-of-colour.png)
+
+Sample spread from the generated PDF of [a chapter in Dimensions of Colour](http://www.huevaluechroma.com/072.php); rendered here in black & white for a smaller image file size.
+
+*   [Installation](https://github.com/danburzo/percollate?screenshot=true#installation)
+*   [Usage](https://github.com/danburzo/percollate?screenshot=true#usage)
+    *   [Available commands](https://github.com/danburzo/percollate?screenshot=true#available-commands)
+    *   [Available options](https://github.com/danburzo/percollate?screenshot=true#available-options)
+*   [Recipes](https://github.com/danburzo/percollate?screenshot=true#recipes)
+    *   [Basic bundling](https://github.com/danburzo/percollate?screenshot=true#basic-bundling)
+    *   [The `--css` option](https://github.com/danburzo/percollate?screenshot=true#the---css-option)
+    *   [The `--style` option](https://github.com/danburzo/percollate?screenshot=true#the---style-option)
+    *   [The `--template` option](https://github.com/danburzo/percollate?screenshot=true#the---template-option)
+*   [How it works](https://github.com/danburzo/percollate?screenshot=true#how-it-works)
+*   [Updating](https://github.com/danburzo/percollate?screenshot=true#updating)
+*   [Limitations](https://github.com/danburzo/percollate?screenshot=true#limitations)
+*   [Troubleshooting](https://github.com/danburzo/percollate?screenshot=true#troubleshooting)
+*   [Contributing](https://github.com/danburzo/percollate?screenshot=true#contributing)
+*   [See also](https://github.com/danburzo/percollate?screenshot=true#see-also)
+
+Installation
+------------
+
+[](https://github.com/danburzo/percollate?screenshot=true#installation)
+
+`percollate` is a Node.js command-line tool which you can install globally from npm:
+
+npm install -g percollate
+
+Percollate and its dependencies **require Node.js 14.17.0** or later.
+
+#### Community-maintained packages
+
+[](https://github.com/danburzo/percollate?screenshot=true#community-maintained-packages)
+
+There's [a packaged version](https://aur.archlinux.org/packages/nodejs-percollate/) available on [Arch User Repository](https://wiki.archlinux.org/index.php/Arch_User_Repository), which you can install using your local [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) (`yay`, `pacaur`, or similar):
+
+Some Docker images are available in this [tracking issue](https://github.com/danburzo/percollate/issues/95).
+
+Usage
+-----
+
+[](https://github.com/danburzo/percollate?screenshot=true#usage)
+
+> Run `percollate --help` for a list of available commands and options.
+
+Percollate is invoked on one or more operands (usually URLs):
+
+percollate <command\> \[options\] url \[url\]...
+
+The following commands are available:
+
+*   `percollate pdf` produces a PDF file;
+*   `percollate epub` produces an EPUB file;
+*   `percollate html` produces a HTML file.
+*   `percollate md` produces a Markdown file.
+
+The operands can be URLs, paths to local files, or the `-` character which stands for `stdin` (the standard inputs).
+
+### Available options
+
+[](https://github.com/danburzo/percollate?screenshot=true#available-options)
+
+Unless otherwise stated, these options apply to all three commands.
+
+#### `-o, --output`
+
+[](https://github.com/danburzo/percollate?screenshot=true#-o---output)
+
+Specify the path of the resulting bundle relative to the current folder.
+
+percollate pdf https://example.com -o my-example.pdf
+
+#### `-u, --url`
+
+[](https://github.com/danburzo/percollate?screenshot=true#-u---url)
+
+Using the `-` operand you can read the HTML content from `stdin`, as fetched by a separate command, such as `curl`. In this sort of setup, `percollate` does not know the URL from which the content has been fetched, and relative paths on images, anchors, et cetera won't resolve correctly.
+
+Use the `--url` option to supply the source's original URL.
+
+curl https://example.com | percollate pdf - --url=https://example.com
+
+#### `-w, --wait`
+
+[](https://github.com/danburzo/percollate?screenshot=true#-w---wait)
+
+By default, percollate processes URLs in parallel. Use the `--wait` option to process them sequentially instead, with a pause between items. The delay is specified in seconds, and can be zero.
+
+percollate epub --wait=1 url1 url2 url3
+
+#### `--individual`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--individual)
+
+By default, percollate bundles all web pages in a single file. Use the `--individual` flag to export each source to a separate file.
+
+percollate pdf --individual http://example.com/page1 http://example.com/page2
+
+#### `--template`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--template)
+
+Path to a custom HTML template. Applies to `pdf`, `html`, and `md`.
+
+#### `--style`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--style)
+
+Path to a custom CSS stylesheet, relative to the current folder.
+
+#### `--css`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--css)
+
+Additional CSS styles you can pass from the command-line to override styles specified by the default/custom stylesheet.
+
+#### `--no-amp`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--no-amp)
+
+Don't prefer the AMP version of the web page.
+
+#### `--debug`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--debug)
+
+Print more detailed information.
+
+#### `-t, --title`
+
+[](https://github.com/danburzo/percollate?screenshot=true#-t---title)
+
+Provide a title for the bundle.
+
+percollate epub http://example.com/page-1 http://example.com/page-2 --title="Best Of Example"
+
+#### `-a, --author`
+
+[](https://github.com/danburzo/percollate?screenshot=true#-a---author)
+
+Provide an author for the bundle.
+
+percollate pdf --author="Ella Example" http://example.com
+
+#### `--cover`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--cover)
+
+Generate a cover. The option is implicitly enabled when the `--title` option is provided, or when bundling more than one web page to a single file. Disable this implicit behavior by passing the `--no-cover` flag.
+
+#### `--toc`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--toc)
+
+Generate a hyperlinked table of contents. The option is implicitly enabled when bundling more than one web page to a single file. Disable this implicit behavior by passing the `--no-toc` flag.
+
+Applies to `pdf`, `html`, and `md`.
+
+#### `--toc-level=<level>`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--toc-levellevel)
+
+By default, the table of contents is a flat list of article titles. With the `--toc-level` option the table of contents will include headings under each article title (`<h2>`, `<h3>`, etc.), up to the specified heading depth. A number between `1` and `6` is expected.
+
+Using `--toc-level` with a value greater than `1` implies `--toc`.
+
+#### `--hyphenate`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--hyphenate)
+
+Hyphenation is enabled by default for `pdf`, and disabled for `epub`, `html`, and `md`. You can opt into hyphenation with the `--hyphenate` flag, or disable it with the `--no-hyphenate` flag.
+
+See also the [Hyphenation and justification](https://github.com/danburzo/percollate?screenshot=true#hyphenation-and-justification) recipe.
+
+#### `--inline`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--inline)
+
+Embed images inline with the document. Images are fetched and converted to Base64-encoded `data` URLs.
+
+This option is particularly useful for `html` to produce self-contained HTML files.
+
+#### `--md.<option>=<value>`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--mdoptionvalue)
+
+Pass options to the underlying Markdown stringifier, [`mdast-util-to-markdown`](https://github.com/syntax-tree/mdast-util-to-markdown#options). These are the default Markdown options:
+
+const DEFAULT\_MARKDOWN\_OPTIONS \= {
+	fences: true,
+	emphasis: '\_',
+	strong: '\_',
+	resourceLink: true,
+	rule: '-'
+};
+
+#### `--unsafe`
+
+[](https://github.com/danburzo/percollate?screenshot=true#--unsafe)
+
+Disables some [JSDOM validations](https://github.com/jsdom/jsdom/blob/main/lib/jsdom/living/helpers/validate-names.js) that may throw an error when parsing invalid HTML pages (See [#177](https://github.com/danburzo/percollate/issues/177)).
+
+Recipes
+-------
+
+[](https://github.com/danburzo/percollate?screenshot=true#recipes)
+
+### Basic bundling
+
+[](https://github.com/danburzo/percollate?screenshot=true#basic-bundling)
+
+To turn a single web page into a PDF:
+
+percollate pdf --output=some.pdf https://example.com
+
+To bundle _several_ web pages into a single PDF, specify them as separate arguments to the command:
+
+percollate pdf --output=some.pdf https://example.com/page1 https://example.com/page2
+
+You can use common Unix commands and keep the list of URLs in a newline-delimited text file:
+
+cat urls.txt | xargs percollate pdf --output=some.pdf
+
+To transform several web pages into individual PDF files at once, use the `--individual` flag:
+
+percollate pdf --individual https://example.com/page1 https://example.com/page2
+
+If you'd like to fetch the HTML with an external command, you can use `-` as an operand, which stands for `stdin` (the standard input):
+
+curl https://example.com/page1 | percollate pdf --url=https://example.com/page1 -
+
+Notice we're using the `url` option to tell percollate the source of our (now-anonymous) HTML it gets on stdin, so that relative URLs on links and images resolve correctly.
+
+### The `--css` option
+
+[](https://github.com/danburzo/percollate?screenshot=true#the---css-option)
+
+The `--css` option lets you pass a small snippet of CSS to percollate. Here are some common use-cases:
+
+#### Custom page size / margins
+
+[](https://github.com/danburzo/percollate?screenshot=true#custom-page-size--margins)
+
+The default page size is A5 (portrait). You can use the `--css` option to override it using [any supported CSS `size`](https://www.w3.org/TR/css3-page/#page-size):
+
+percollate pdf --css "@page { size: A3 landscape }" http://example.com
+
+Similarly, you can define:
+
+*   custom margins, e.g. `@page { margin: 0 }`
+*   the base font size: `html { font-size: 10pt }`
+
+#### Changing the font stacks
+
+[](https://github.com/danburzo/percollate?screenshot=true#changing-the-font-stacks)
+
+The default stylesheet includes CSS variables for the fonts used in the PDF:
+
+:root {
+	\--main-font: Palatino, 'Palatino Linotype', 'Times New Roman',
+		'Droid Serif', Times, 'Source Serif Pro', serif, 'Apple Color Emoji',
+		'Segoe UI Emoji', 'Segoe UI Symbol';
+	\--alt-font: 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial,
+		sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+	\--code-font: Menlo, Consolas, monospace;
+}
+
+| CSS variable | What it does |
+| --- | --- |
+| `--main-font` | The font stack used for body text |
+| `--alt-font` | Used in headings, captions, et cetera |
+| `--code-font` | Used for code snippets |
+
+To override them, use the `--css` option:
+
+percollate pdf --css ":root { --main-font: 'PT Serif';  --alt-font: Roboto; }" http://example.com
+
+> 💡 To work correctly, you must have the fonts installed on your machine. Custom web fonts currently require you to use a custom CSS stylesheet / HTML template.
+
+#### Remove the appended `href`s from hyperlinks
+
+[](https://github.com/danburzo/percollate?screenshot=true#remove-the-appended-hrefs-from-hyperlinks)
+
+The idea with percollate is to make PDFs that can be printed without losing where the hyperlinks point to. However, for some link-heavy pages, the appended `href`s can become bothersome. You can remove them using:
+
+percollate pdf --css "a:after { display: none }" http://example.com
+
+#### Hyphenation and justification
+
+[](https://github.com/danburzo/percollate?screenshot=true#hyphenation-and-justification)
+
+Hyphenation is only enabled by default for PDFs, but you can opt in or out of it for any output format with [a flag](https://github.com/danburzo/percollate?screenshot=true#--hyphenate).
+
+When hyphenation is enabled, paragraphs will be justified:
+
+.article\_\_content p {
+	text-align: justify;
+}
+
+If you prefer left-aligned text:
+
+percollate pdf --css ".article\_\_content p { text-align: left }" http://example.com
+
+### The `--style` option
+
+[](https://github.com/danburzo/percollate?screenshot=true#the---style-option)
+
+The `--style` option lets you use your own CSS stylesheet instead of the default one. Here are some common use-cases for this option:
+
+> ⚠️ TODO add examples here
+
+### The `--template` option
+
+[](https://github.com/danburzo/percollate?screenshot=true#the---template-option)
+
+The `--template` option lets you use a custom HTML template for the PDF.
+
+> 💡 The HTML template is parsed with [nunjucks](https://mozilla.github.io/nunjucks/), which is a close JavaScript relative of Twig for PHP, Jinja2 for Python and L for Ruby.
+
+Here are some common use-cases:
+
+#### Customizing the page header / footer
+
+[](https://github.com/danburzo/percollate?screenshot=true#customizing-the-page-header--footer)
+
+Puppeteer can print some basic information about the page in the PDF. The following CSS class names are available for the header / footer, into which the appropriate content will be injected:
+
+*   `date` — The formatted print date
+*   `title` — The document title
+*   `url` — document location (**Note:** this will print the path of the _temporary html_, not the original web page URL)
+*   `pageNumber` — the current page number
+*   `totalPages` — total pages in the document
+
+> 👉 See the [Chromium source code](https://cs.chromium.org/chromium/src/components/printing/resources/print_header_footer_template_page.html) for details.
+
+You place your header / footer template in a `template` element in your HTML:
+
+<template class\="header-template"\> My header </template\>
+
+<template class\="footer-template"\>
+	<div class\="text center"\>
+		<span class\="pageNumber"\></span\>
+	</div\>
+</template\>
+
+See the [default HTML](https://github.com/danburzo/percollate/blob/main/templates/default.html) for example usage.
+
+You can add CSS styles to the header / footer with either the `--css` option or a separate CSS stylesheet (the `--style` option).
+
+> 💡 The header / footer template [do not inherit their styles](https://github.com/puppeteer/puppeteer/issues/1853) from the rest of the page (i.e. they are not part of the cascade), so you'll have to write the full CSS you want to apply to them.
+
+An example from the [default stylesheet](https://github.com/danburzo/percollate/blob/main/templates/default.css):
+
+.footer-template {
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+Updating
+--------
+
+[](https://github.com/danburzo/percollate?screenshot=true#updating)
+
+To keep the tool up-to-date, you can run:
+
+npm install -g percollate
+
+Occasionally, an upgrade might not go according to plan; in this case, you can uninstall and re-install `percollate`:
+
+npm uninstall -g percollate && npm install -g percollate
+
+How it works
+------------
+
+[](https://github.com/danburzo/percollate?screenshot=true#how-it-works)
+
+All export formats follow a common pipeline:
+
+1.  Fetch the page(s) using [`node-fetch`](https://github.com/node-fetch/node-fetch)
+2.  If an AMP version of the page exists, use that instead (disable with `--no-amp` flag)
+3.  [Enhance](https://github.com/danburzo/percollate/blob/main/src/enhancements.js) the DOM using [`jsdom`](https://github.com/jsdom/jsdom)
+4.  Pass the DOM through [`mozilla/readability`](https://github.com/mozilla/readability) to strip unnecessary elements
+5.  Apply the [HTML template](https://github.com/danburzo/percollate/blob/main/templates/default.html) and the [stylesheet](https://github.com/danburzo/percollate/blob/main/templates/default.css) to the resulting HTML
+
+Different formats then use different tools to produce the final file.
+
+PDFs are rendered with [`puppeteer`](https://github.com/puppeteer/puppeteer).
+
+EPUBs have external images fetched and bundled together with the HTML of each article. When the `--inline` option is used, images are instead converted to `data` URLs and embedded into the HTML.
+
+HTMLs are saved without any further changes. When the `--inline` option is used, images are converted to `data` URLs and embedded into the HTML. External images are not otherwise fetched.
+
+Markdown files are produced the same way as HTMLs, then processed with a series of utilities from the [unified.js](https://unifiedjs.com/) umbrella.
+
+Limitations
+-----------
+
+[](https://github.com/danburzo/percollate?screenshot=true#limitations)
+
+Percollate inherits the limitations of two of its main components, Readability and Puppeteer (headless Chrome).
+
+The imperative approach Readability takes will not be perfect in each case, especially on HTML pages with atypical markup; you may occasionally notice that it either leaves in superfluous content, or that it strips out parts of the content. You can confirm the problem against [Firefox's Reader View](https://blog.mozilla.org/firefox/reader-view/). In this case, consider [filing an issue on `mozilla/readability`](https://github.com/mozilla/readability/issues).
+
+Using a browser to generate the PDF is a double-edged sword. On the one hand, you get excellent support for web platform features. On the other hand, [print CSS](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/) as defined by W3C specifications is only partially implemented, and it seems unlikely that support will be improved any time soon. However, even with modest print support, I think Chrome is the best (free) tool for the job.
+
+Troubleshooting
+---------------
+
+[](https://github.com/danburzo/percollate?screenshot=true#troubleshooting)
+
+On some Linux machines you'll need to [install a few more Chrome dependencies](https://github.com/puppeteer/puppeteer/blob/master/docs/troubleshooting.md#chrome-headless-doesnt-launch) before `percollate` works correctly. (_Thanks to @ptica for [sorting it out](https://github.com/danburzo/percollate/issues/19#issuecomment-428496041)_)
+
+The `percollate pdf` command supports the `--no-sandbox` Puppeteer flag, but make sure you're [aware of the implications](https://github.com/puppeteer/puppeteer/blob/master/docs/troubleshooting.md#chrome-headless-fails-due-to-sandbox-issues) before disabling the sandbox.
+
+Using Firefox to render PDFs
+----------------------------
+
+[](https://github.com/danburzo/percollate?screenshot=true#using-firefox-to-render-pdfs)
+
+> This feature is experimental. Please log an issue if you notice anything wrong.
+
+Starting with `percollate` 3.x, it's possible to use Firefox Nightly as an alternative browser with which to render PDFs. To make Firefox available to Percollate, use the following install command:
+
+PUPPETEER\_PRODUCT=firefox npm install percollate
+
+After installation, `percollate pdf` commands can be run with the `--browser=firefox` option.
+
+### Limitations of Firefox PDF rendering
+
+[](https://github.com/danburzo/percollate?screenshot=true#limitations-of-firefox-pdf-rendering)
+
+At the moment, rendering PDFs with Firefox has the following limitations:
+
+*   The pages can't have headers and footers, so there are no page numbers.
+
+Contributing
+------------
+
+[](https://github.com/danburzo/percollate?screenshot=true#contributing)
+
+Contributions of all kinds are welcome! See [CONTRIBUTING.md](https://github.com/danburzo/percollate/blob/main/CONTRIBUTING.md) for details.
+
+See also
+--------
+
+[](https://github.com/danburzo/percollate?screenshot=true#see-also)
+
+Here are some other projects to check out if you're interested in building books using the browser:
+
+*   [weasyprint](https://github.com/Kozea/WeasyPrint) ([website](https://weasyprint.org/))
+*   [bindery.js](https://github.com/evnbr/bindery) ([website](https://evanbrooks.info/bindery/))
+*   [HummusJS](https://github.com/galkahana/HummusJS)
+*   [Editoria](https://gitlab.coko.foundation/editoria/editoria) ([website](https://editoria.pub/))
+*   [pagedjs](https://gitlab.pagedmedia.org/tools/pagedjs) ([article](https://www.pagedmedia.org/pagedjs-sneak-peeks/))
+*   [Mercury](https://mercury.postlight.com/)
+*   [Foliojs](https://github.com/foliojs)
+*   [Magicbook](https://github.com/magicbookproject/magicbook)
+*   [monolith](https://github.com/Y2Z/monolith)
+*   [SaraVieira/starter-book](https://github.com/SaraVieira/starter-book)
+*   [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ)
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - danburzo/percollate: A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.",
+  "description": "A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs. - danburzo/percollate",
+  "url": "https://github.com/danburzo/percollate?screenshot=true",
+  "content": "[![Image 22: percollate](https://github.com/danburzo/percollate/raw/main/.github/percollate.svg)](https://github.com/danburzo/percollate/blob/main/.github/percollate.svg)\n\n[![Image 23: npm version](https://camo.githubusercontent.com/77211829bc9483a2a3bfb98e21c37c2e60fe5ce96f0c9b718e54c1c387835ad0/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f706572636f6c6c6174652e7376673f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d33323441393726636f6c6f723d626c61636b)](https://www.npmjs.org/package/percollate)\n\nPercollate is a command-line tool that turns web pages into beautifully formatted PDF, EPUB, HTML or Markdown files.\n\n[![Image 24: Sample Output](https://github.com/danburzo/percollate/raw/main/.github/dimensions-of-colour.png)](https://github.com/danburzo/percollate/blob/main/.github/dimensions-of-colour.png)\n\nSample spread from the generated PDF of [a chapter in Dimensions of Colour](http://www.huevaluechroma.com/072.php); rendered here in black & white for a smaller image file size.\n\n*   [Installation](https://github.com/danburzo/percollate?screenshot=true#installation)\n*   [Usage](https://github.com/danburzo/percollate?screenshot=true#usage)\n    *   [Available commands](https://github.com/danburzo/percollate?screenshot=true#available-commands)\n    *   [Available options](https://github.com/danburzo/percollate?screenshot=true#available-options)\n*   [Recipes](https://github.com/danburzo/percollate?screenshot=true#recipes)\n    *   [Basic bundling](https://github.com/danburzo/percollate?screenshot=true#basic-bundling)\n    *   [The `--css` option](https://github.com/danburzo/percollate?screenshot=true#the---css-option)\n    *   [The `--style` option](https://github.com/danburzo/percollate?screenshot=true#the---style-option)\n    *   [The `--template` option](https://github.com/danburzo/percollate?screenshot=true#the---template-option)\n*   [How it works](https://github.com/danburzo/percollate?screenshot=true#how-it-works)\n*   [Updating](https://github.com/danburzo/percollate?screenshot=true#updating)\n*   [Limitations](https://github.com/danburzo/percollate?screenshot=true#limitations)\n*   [Troubleshooting](https://github.com/danburzo/percollate?screenshot=true#troubleshooting)\n*   [Contributing](https://github.com/danburzo/percollate?screenshot=true#contributing)\n*   [See also](https://github.com/danburzo/percollate?screenshot=true#see-also)\n\nInstallation\n------------\n\n[](https://github.com/danburzo/percollate?screenshot=true#installation)\n\n`percollate` is a Node.js command-line tool which you can install globally from npm:\n\nnpm install -g percollate\n\nPercollate and its dependencies **require Node.js 14.17.0** or later.\n\n#### Community-maintained packages\n\n[](https://github.com/danburzo/percollate?screenshot=true#community-maintained-packages)\n\nThere's [a packaged version](https://aur.archlinux.org/packages/nodejs-percollate/) available on [Arch User Repository](https://wiki.archlinux.org/index.php/Arch_User_Repository), which you can install using your local [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) (`yay`, `pacaur`, or similar):\n\nSome Docker images are available in this [tracking issue](https://github.com/danburzo/percollate/issues/95).\n\nUsage\n-----\n\n[](https://github.com/danburzo/percollate?screenshot=true#usage)\n\n> Run `percollate --help` for a list of available commands and options.\n\nPercollate is invoked on one or more operands (usually URLs):\n\npercollate <command\\> \\[options\\] url \\[url\\]...\n\nThe following commands are available:\n\n*   `percollate pdf` produces a PDF file;\n*   `percollate epub` produces an EPUB file;\n*   `percollate html` produces a HTML file.\n*   `percollate md` produces a Markdown file.\n\nThe operands can be URLs, paths to local files, or the `-` character which stands for `stdin` (the standard inputs).\n\n### Available options\n\n[](https://github.com/danburzo/percollate?screenshot=true#available-options)\n\nUnless otherwise stated, these options apply to all three commands.\n\n#### `-o, --output`\n\n[](https://github.com/danburzo/percollate?screenshot=true#-o---output)\n\nSpecify the path of the resulting bundle relative to the current folder.\n\npercollate pdf https://example.com -o my-example.pdf\n\n#### `-u, --url`\n\n[](https://github.com/danburzo/percollate?screenshot=true#-u---url)\n\nUsing the `-` operand you can read the HTML content from `stdin`, as fetched by a separate command, such as `curl`. In this sort of setup, `percollate` does not know the URL from which the content has been fetched, and relative paths on images, anchors, et cetera won't resolve correctly.\n\nUse the `--url` option to supply the source's original URL.\n\ncurl https://example.com | percollate pdf - --url=https://example.com\n\n#### `-w, --wait`\n\n[](https://github.com/danburzo/percollate?screenshot=true#-w---wait)\n\nBy default, percollate processes URLs in parallel. Use the `--wait` option to process them sequentially instead, with a pause between items. The delay is specified in seconds, and can be zero.\n\npercollate epub --wait=1 url1 url2 url3\n\n#### `--individual`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--individual)\n\nBy default, percollate bundles all web pages in a single file. Use the `--individual` flag to export each source to a separate file.\n\npercollate pdf --individual http://example.com/page1 http://example.com/page2\n\n#### `--template`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--template)\n\nPath to a custom HTML template. Applies to `pdf`, `html`, and `md`.\n\n#### `--style`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--style)\n\nPath to a custom CSS stylesheet, relative to the current folder.\n\n#### `--css`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--css)\n\nAdditional CSS styles you can pass from the command-line to override styles specified by the default/custom stylesheet.\n\n#### `--no-amp`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--no-amp)\n\nDon't prefer the AMP version of the web page.\n\n#### `--debug`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--debug)\n\nPrint more detailed information.\n\n#### `-t, --title`\n\n[](https://github.com/danburzo/percollate?screenshot=true#-t---title)\n\nProvide a title for the bundle.\n\npercollate epub http://example.com/page-1 http://example.com/page-2 --title=\"Best Of Example\"\n\n#### `-a, --author`\n\n[](https://github.com/danburzo/percollate?screenshot=true#-a---author)\n\nProvide an author for the bundle.\n\npercollate pdf --author=\"Ella Example\" http://example.com\n\n#### `--cover`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--cover)\n\nGenerate a cover. The option is implicitly enabled when the `--title` option is provided, or when bundling more than one web page to a single file. Disable this implicit behavior by passing the `--no-cover` flag.\n\n#### `--toc`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--toc)\n\nGenerate a hyperlinked table of contents. The option is implicitly enabled when bundling more than one web page to a single file. Disable this implicit behavior by passing the `--no-toc` flag.\n\nApplies to `pdf`, `html`, and `md`.\n\n#### `--toc-level=<level>`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--toc-levellevel)\n\nBy default, the table of contents is a flat list of article titles. With the `--toc-level` option the table of contents will include headings under each article title (`<h2>`, `<h3>`, etc.), up to the specified heading depth. A number between `1` and `6` is expected.\n\nUsing `--toc-level` with a value greater than `1` implies `--toc`.\n\n#### `--hyphenate`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--hyphenate)\n\nHyphenation is enabled by default for `pdf`, and disabled for `epub`, `html`, and `md`. You can opt into hyphenation with the `--hyphenate` flag, or disable it with the `--no-hyphenate` flag.\n\nSee also the [Hyphenation and justification](https://github.com/danburzo/percollate?screenshot=true#hyphenation-and-justification) recipe.\n\n#### `--inline`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--inline)\n\nEmbed images inline with the document. Images are fetched and converted to Base64-encoded `data` URLs.\n\nThis option is particularly useful for `html` to produce self-contained HTML files.\n\n#### `--md.<option>=<value>`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--mdoptionvalue)\n\nPass options to the underlying Markdown stringifier, [`mdast-util-to-markdown`](https://github.com/syntax-tree/mdast-util-to-markdown#options). These are the default Markdown options:\n\nconst DEFAULT\\_MARKDOWN\\_OPTIONS \\= {\n\tfences: true,\n\temphasis: '\\_',\n\tstrong: '\\_',\n\tresourceLink: true,\n\trule: '-'\n};\n\n#### `--unsafe`\n\n[](https://github.com/danburzo/percollate?screenshot=true#--unsafe)\n\nDisables some [JSDOM validations](https://github.com/jsdom/jsdom/blob/main/lib/jsdom/living/helpers/validate-names.js) that may throw an error when parsing invalid HTML pages (See [#177](https://github.com/danburzo/percollate/issues/177)).\n\nRecipes\n-------\n\n[](https://github.com/danburzo/percollate?screenshot=true#recipes)\n\n### Basic bundling\n\n[](https://github.com/danburzo/percollate?screenshot=true#basic-bundling)\n\nTo turn a single web page into a PDF:\n\npercollate pdf --output=some.pdf https://example.com\n\nTo bundle _several_ web pages into a single PDF, specify them as separate arguments to the command:\n\npercollate pdf --output=some.pdf https://example.com/page1 https://example.com/page2\n\nYou can use common Unix commands and keep the list of URLs in a newline-delimited text file:\n\ncat urls.txt | xargs percollate pdf --output=some.pdf\n\nTo transform several web pages into individual PDF files at once, use the `--individual` flag:\n\npercollate pdf --individual https://example.com/page1 https://example.com/page2\n\nIf you'd like to fetch the HTML with an external command, you can use `-` as an operand, which stands for `stdin` (the standard input):\n\ncurl https://example.com/page1 | percollate pdf --url=https://example.com/page1 -\n\nNotice we're using the `url` option to tell percollate the source of our (now-anonymous) HTML it gets on stdin, so that relative URLs on links and images resolve correctly.\n\n### The `--css` option\n\n[](https://github.com/danburzo/percollate?screenshot=true#the---css-option)\n\nThe `--css` option lets you pass a small snippet of CSS to percollate. Here are some common use-cases:\n\n#### Custom page size / margins\n\n[](https://github.com/danburzo/percollate?screenshot=true#custom-page-size--margins)\n\nThe default page size is A5 (portrait). You can use the `--css` option to override it using [any supported CSS `size`](https://www.w3.org/TR/css3-page/#page-size):\n\npercollate pdf --css \"@page { size: A3 landscape }\" http://example.com\n\nSimilarly, you can define:\n\n*   custom margins, e.g. `@page { margin: 0 }`\n*   the base font size: `html { font-size: 10pt }`\n\n#### Changing the font stacks\n\n[](https://github.com/danburzo/percollate?screenshot=true#changing-the-font-stacks)\n\nThe default stylesheet includes CSS variables for the fonts used in the PDF:\n\n:root {\n\t\\--main-font: Palatino, 'Palatino Linotype', 'Times New Roman',\n\t\t'Droid Serif', Times, 'Source Serif Pro', serif, 'Apple Color Emoji',\n\t\t'Segoe UI Emoji', 'Segoe UI Symbol';\n\t\\--alt-font: 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial,\n\t\tsans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';\n\t\\--code-font: Menlo, Consolas, monospace;\n}\n\n| CSS variable | What it does |\n| --- | --- |\n| `--main-font` | The font stack used for body text |\n| `--alt-font` | Used in headings, captions, et cetera |\n| `--code-font` | Used for code snippets |\n\nTo override them, use the `--css` option:\n\npercollate pdf --css \":root { --main-font: 'PT Serif';  --alt-font: Roboto; }\" http://example.com\n\n> 💡 To work correctly, you must have the fonts installed on your machine. Custom web fonts currently require you to use a custom CSS stylesheet / HTML template.\n\n#### Remove the appended `href`s from hyperlinks\n\n[](https://github.com/danburzo/percollate?screenshot=true#remove-the-appended-hrefs-from-hyperlinks)\n\nThe idea with percollate is to make PDFs that can be printed without losing where the hyperlinks point to. However, for some link-heavy pages, the appended `href`s can become bothersome. You can remove them using:\n\npercollate pdf --css \"a:after { display: none }\" http://example.com\n\n#### Hyphenation and justification\n\n[](https://github.com/danburzo/percollate?screenshot=true#hyphenation-and-justification)\n\nHyphenation is only enabled by default for PDFs, but you can opt in or out of it for any output format with [a flag](https://github.com/danburzo/percollate?screenshot=true#--hyphenate).\n\nWhen hyphenation is enabled, paragraphs will be justified:\n\n.article\\_\\_content p {\n\ttext-align: justify;\n}\n\nIf you prefer left-aligned text:\n\npercollate pdf --css \".article\\_\\_content p { text-align: left }\" http://example.com\n\n### The `--style` option\n\n[](https://github.com/danburzo/percollate?screenshot=true#the---style-option)\n\nThe `--style` option lets you use your own CSS stylesheet instead of the default one. Here are some common use-cases for this option:\n\n> ⚠️ TODO add examples here\n\n### The `--template` option\n\n[](https://github.com/danburzo/percollate?screenshot=true#the---template-option)\n\nThe `--template` option lets you use a custom HTML template for the PDF.\n\n> 💡 The HTML template is parsed with [nunjucks](https://mozilla.github.io/nunjucks/), which is a close JavaScript relative of Twig for PHP, Jinja2 for Python and L for Ruby.\n\nHere are some common use-cases:\n\n#### Customizing the page header / footer\n\n[](https://github.com/danburzo/percollate?screenshot=true#customizing-the-page-header--footer)\n\nPuppeteer can print some basic information about the page in the PDF. The following CSS class names are available for the header / footer, into which the appropriate content will be injected:\n\n*   `date` — The formatted print date\n*   `title` — The document title\n*   `url` — document location (**Note:** this will print the path of the _temporary html_, not the original web page URL)\n*   `pageNumber` — the current page number\n*   `totalPages` — total pages in the document\n\n> 👉 See the [Chromium source code](https://cs.chromium.org/chromium/src/components/printing/resources/print_header_footer_template_page.html) for details.\n\nYou place your header / footer template in a `template` element in your HTML:\n\n<template class\\=\"header-template\"\\> My header </template\\>\n\n<template class\\=\"footer-template\"\\>\n\t<div class\\=\"text center\"\\>\n\t\t<span class\\=\"pageNumber\"\\></span\\>\n\t</div\\>\n</template\\>\n\nSee the [default HTML](https://github.com/danburzo/percollate/blob/main/templates/default.html) for example usage.\n\nYou can add CSS styles to the header / footer with either the `--css` option or a separate CSS stylesheet (the `--style` option).\n\n> 💡 The header / footer template [do not inherit their styles](https://github.com/puppeteer/puppeteer/issues/1853) from the rest of the page (i.e. they are not part of the cascade), so you'll have to write the full CSS you want to apply to them.\n\nAn example from the [default stylesheet](https://github.com/danburzo/percollate/blob/main/templates/default.css):\n\n.footer-template {\n\tfont-size: 10pt;\n\tfont-weight: bold;\n}\n\nUpdating\n--------\n\n[](https://github.com/danburzo/percollate?screenshot=true#updating)\n\nTo keep the tool up-to-date, you can run:\n\nnpm install -g percollate\n\nOccasionally, an upgrade might not go according to plan; in this case, you can uninstall and re-install `percollate`:\n\nnpm uninstall -g percollate && npm install -g percollate\n\nHow it works\n------------\n\n[](https://github.com/danburzo/percollate?screenshot=true#how-it-works)\n\nAll export formats follow a common pipeline:\n\n1.  Fetch the page(s) using [`node-fetch`](https://github.com/node-fetch/node-fetch)\n2.  If an AMP version of the page exists, use that instead (disable with `--no-amp` flag)\n3.  [Enhance](https://github.com/danburzo/percollate/blob/main/src/enhancements.js) the DOM using [`jsdom`](https://github.com/jsdom/jsdom)\n4.  Pass the DOM through [`mozilla/readability`](https://github.com/mozilla/readability) to strip unnecessary elements\n5.  Apply the [HTML template](https://github.com/danburzo/percollate/blob/main/templates/default.html) and the [stylesheet](https://github.com/danburzo/percollate/blob/main/templates/default.css) to the resulting HTML\n\nDifferent formats then use different tools to produce the final file.\n\nPDFs are rendered with [`puppeteer`](https://github.com/puppeteer/puppeteer).\n\nEPUBs have external images fetched and bundled together with the HTML of each article. When the `--inline` option is used, images are instead converted to `data` URLs and embedded into the HTML.\n\nHTMLs are saved without any further changes. When the `--inline` option is used, images are converted to `data` URLs and embedded into the HTML. External images are not otherwise fetched.\n\nMarkdown files are produced the same way as HTMLs, then processed with a series of utilities from the [unified.js](https://unifiedjs.com/) umbrella.\n\nLimitations\n-----------\n\n[](https://github.com/danburzo/percollate?screenshot=true#limitations)\n\nPercollate inherits the limitations of two of its main components, Readability and Puppeteer (headless Chrome).\n\nThe imperative approach Readability takes will not be perfect in each case, especially on HTML pages with atypical markup; you may occasionally notice that it either leaves in superfluous content, or that it strips out parts of the content. You can confirm the problem against [Firefox's Reader View](https://blog.mozilla.org/firefox/reader-view/). In this case, consider [filing an issue on `mozilla/readability`](https://github.com/mozilla/readability/issues).\n\nUsing a browser to generate the PDF is a double-edged sword. On the one hand, you get excellent support for web platform features. On the other hand, [print CSS](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/) as defined by W3C specifications is only partially implemented, and it seems unlikely that support will be improved any time soon. However, even with modest print support, I think Chrome is the best (free) tool for the job.\n\nTroubleshooting\n---------------\n\n[](https://github.com/danburzo/percollate?screenshot=true#troubleshooting)\n\nOn some Linux machines you'll need to [install a few more Chrome dependencies](https://github.com/puppeteer/puppeteer/blob/master/docs/troubleshooting.md#chrome-headless-doesnt-launch) before `percollate` works correctly. (_Thanks to @ptica for [sorting it out](https://github.com/danburzo/percollate/issues/19#issuecomment-428496041)_)\n\nThe `percollate pdf` command supports the `--no-sandbox` Puppeteer flag, but make sure you're [aware of the implications](https://github.com/puppeteer/puppeteer/blob/master/docs/troubleshooting.md#chrome-headless-fails-due-to-sandbox-issues) before disabling the sandbox.\n\nUsing Firefox to render PDFs\n----------------------------\n\n[](https://github.com/danburzo/percollate?screenshot=true#using-firefox-to-render-pdfs)\n\n> This feature is experimental. Please log an issue if you notice anything wrong.\n\nStarting with `percollate` 3.x, it's possible to use Firefox Nightly as an alternative browser with which to render PDFs. To make Firefox available to Percollate, use the following install command:\n\nPUPPETEER\\_PRODUCT=firefox npm install percollate\n\nAfter installation, `percollate pdf` commands can be run with the `--browser=firefox` option.\n\n### Limitations of Firefox PDF rendering\n\n[](https://github.com/danburzo/percollate?screenshot=true#limitations-of-firefox-pdf-rendering)\n\nAt the moment, rendering PDFs with Firefox has the following limitations:\n\n*   The pages can't have headers and footers, so there are no page numbers.\n\nContributing\n------------\n\n[](https://github.com/danburzo/percollate?screenshot=true#contributing)\n\nContributions of all kinds are welcome! See [CONTRIBUTING.md](https://github.com/danburzo/percollate/blob/main/CONTRIBUTING.md) for details.\n\nSee also\n--------\n\n[](https://github.com/danburzo/percollate?screenshot=true#see-also)\n\nHere are some other projects to check out if you're interested in building books using the browser:\n\n*   [weasyprint](https://github.com/Kozea/WeasyPrint) ([website](https://weasyprint.org/))\n*   [bindery.js](https://github.com/evnbr/bindery) ([website](https://evanbrooks.info/bindery/))\n*   [HummusJS](https://github.com/galkahana/HummusJS)\n*   [Editoria](https://gitlab.coko.foundation/editoria/editoria) ([website](https://editoria.pub/))\n*   [pagedjs](https://gitlab.pagedmedia.org/tools/pagedjs) ([article](https://www.pagedmedia.org/pagedjs-sneak-peeks/))\n*   [Mercury](https://mercury.postlight.com/)\n*   [Foliojs](https://github.com/foliojs)\n*   [Magicbook](https://github.com/magicbookproject/magicbook)\n*   [monolith](https://github.com/Y2Z/monolith)\n*   [SaraVieira/starter-book](https://github.com/SaraVieira/starter-book)\n*   [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ)",
+  "usage": {
+    "tokens": 5439
+  }
+}
+```

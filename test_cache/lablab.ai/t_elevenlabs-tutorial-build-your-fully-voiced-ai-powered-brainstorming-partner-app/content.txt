@@ -1,0 +1,223 @@
+![Image 27: ElevenLabs Tutorial: Build Your Fully Voiced AI-Powered Brainstorming Partner App](https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Ftutorials%2Feleven-brainstorm.png&w=3840&q=80)
+
+Introduction: Unleash the Potential of ElevenLabs API
+-----------------------------------------------------
+
+Welcome to this in-depth tutorial where you'll unlock the full potential of Eleven Labs API to create a dynamic AI-powered brainstorming partner app. In this section, we'll introduce you to the exciting world of Eleven Labs API and give you a glimpse of what's ahead in this comprehensive guide.
+
+Are you ready to embark on a journey into the realm of AI-driven creativity? [Eleven Labs API](https://lablab.ai/tech/elevenlabs) opens the door to endless possibilities, allowing you to harness the power of AI speech synthesis for your unique applications. In the following sections, we'll dive deep into the technologies that form the foundation of our project. Let's begin our exploration of the Eleven Labs API, Anthropic's Claude, ReactJS, and Flask as we build your AI-powered brainstorming partner app step by step.
+
+### Introduction to ElevenLabs and Speech Synthesis
+
+[ElevenLabs](https://lablab.ai/tech/elevenlabs) is a voice technology research company which develops "the most compelling AI speech software for publishers and creators". Their goal is to instantly convert spoken audio between languages by making on-demand multilingual audio support a reality across education, streaming, audiobooks, gaming, movies, and even real-time conversation. They offer a suite of tools ranging for voice cloning, designing synthetic voices and their main offering, text-to-speech models which rely on high compression and context understanding.
+
+### Understanding Anthropic's Claude: Your Chatbot's AI Engine
+
+Anthropic is an AI safety and research company. Which means, alongside developing products such as AI models, they also put emphasis on the safety, interpretability and safety on their AI systems. They believe AI has the potential to fundamentally change how the world works. By promoting safety on AI at the industry-wide scale, they aim to build frontier AI systems that are reliable, interpretable, and steerable.
+
+Based on their research, they launched their product, an AI model called Claude. Claude is accessible via chat interface and free-to-use API and capable of wide variety of conversational and text processing tasks while maintaining a high degree of reliability and predictability. Users describe Claude's answers as "detailed and easily understood, feel like natural conversation". For that reason, we chose Anthropic's Claude to power our brainstorming partner chatbot app.
+
+### Leveraging ReactJS for Intuitive User Interfaces
+
+ReactJS is a Javascript/Typescript library for developing user interfaces, which is particularly popular for single-page applications. It makes possible for developers to build both simple and complex apps from ground-up, by building components by components. One particularly popular features of React is its simple but powerful state management which only update and renders certain parts of the UI without requiring full page reloads. For that reason, we will use ReactJs to build the front-end of our brainstorming partner chatbot app.
+
+### Building a Robust Backend with Flask
+
+Flask is a Python-based web framework which is lightweight, simple and easy to use. Developers can start small by adding a few routes and develop the app further by adding more functionalities along the way. This tutorial leverages Flask to build the backend of our chatbot app as some of the libraries, such as `anthropic` and `elevenlabs` are mostly available for Python.
+
+### Prerequisites
+
+Before diving into this tutorial, it's advisable to have:
+
+*   Basic knowledge of Python and preferably Flask
+*   Basic knowledge of Typescript and ReactJS
+*   Access to ElevenLabs API
+*   Access to Anthropic's Claude API
+
+### Outline
+
+Here's an overview of what we'll cover in this tutorial:
+
+1.  Initializing the Projects
+2.  Building the Backend
+3.  Testing the Backend
+4.  Building the Frontend
+5.  Testing the Brainstormy App
+
+Step-by-Step Tutorial: How to Use Eleven Labs API
+-------------------------------------------------
+
+### Step 1: Initializing the Projects
+
+First thing first, let's initialize our projects for our chatbot app, which we will call "Brainstormy". In this tutorial, we will create two separate projects, one for the backend and one for the frontend.
+
+#### Initializing the Backend
+
+The steps to initialize our backend project consists mainly of setting up a virtual environment to isolate our dependencies from outside world and installing Flask for the basis of our backend.
+
+1.  **Create a new directory for your project:**
+
+We will name the backend of our project `brainstormy-backend`. Let's make the directory and enter it.
+
+2.  **Create a new virtual environment:**
+
+Next, we'll create our virtual environment, which we will call `env`.
+
+3.  **Activate the virtual environment:**
+
+Let's activate the virtual environment, the command to use will vary depending on the operating system.
+
+On macOS and Linux:
+
+On Windows:
+
+1.  **Install Flask:**
+
+Now that our virtual environment is activated, we can install our dependencies! in this initialization step, we start by installing `flask`.
+
+5.  **Create a new Flask application:**
+
+Let's create a new file called `app.py` and edit it with our favorite IDE or code editor. In that file, we add the following code:
+
+This step creates a Flask app with a route that returns the text "Hello, World!".
+
+#### Initializing the Frontend
+
+1.  **Create a new ReactJS application:**
+
+We can create a new ReactJS application using `create-react-app`. Just make sure we already have Node.js installed, the commands that we use, `npm` and `npx` are included with Node.js. Open a new terminal window, navigate to the directory where you want to create your project, and run the following command:
+
+This command creates a new directory named `brainstormy-client` and sets up a new ReactJS application inside it.
+
+2.  **Installing TailwindCSS for Styling**
+
+Next, let's change directory into our `brainstormy-client` project. Once our current working directory is inside the project directory, run this command to install `tailwindcss` via npm as well as initialize the library by generating `tailwind.config.js` file. The next step will involves configuring the `tailwind.config.js` file and adding the `@tailwind` diretives. For the complete details, please refer to the [documentation](https://tailwindcss.com/docs/guides/create-react-app).
+
+3.  **Start the ReactJS application:**
+
+Navigate into your new project directory and start the application:
+
+The command above should run the app in development mode, which automatically opens in our default browsers.
+
+### Step 2: Building the Backend
+
+Now, let's get into the coding part! In this part, we will begin by adding some handlers for our backend's endpoints. However, let's start off our coding session by installing the remaining dependencies that our backend needs.
+
+#### Installing the Necessary Libraries
+
+Let's run this command to install all the required libraries in a single command
+
+This time, along with `flask-cors` for handling Cross Origin Resource Sharing (CORS) with our frontend, `anthropic` to use Anthropic's Claude model, and `elevenlabs` to use speech systhesis technology by ElevenLabs, we also install `pydantic` library, but with the version locked to 1.\*. This is necessary because the `elevenlabs` returned Pydantic-related error when using the default `pydantic` installation.
+
+#### Editing the `app.py` file
+
+1.  **Import necessary modules and packages:**
+
+We import all the necessary libraries for our backend. `os` is for retrieving environment variables which contains our sensitive API keys. `flask` is for building our endpoints' handlers, `elevenlabs` for speech synthesis, and `anthropic` is for powering our chatbot app with Large Language Model. We also import `CORS` from `flask_cors` library to handle cross-origin request from our front-end.
+
+2.  **Initialize Flask application and set up CORS:**
+
+After the import statements, we start our Flask app by setting up CORS. The configuration allows requests from both `http://localhost:3000` and `http://example.com`. Although we only use `http://localhost:3000` for our frontend.
+
+3.  **Set API key for ElevenLabs:**
+
+Next,we set the API key for our ElevenLabs library by invoking the `set_api_key` function. We pass the API key which is retrieved from environment variables, which we'll write in the `.env` file after this.
+
+4.  **Define route for generating chat response:**
+
+Next up, our handler for `/chat` endpoint! this endpoint accepts a list of conversation history from both "human" and "assistant" and will return the latest response from Claude model (the "assistant" role). We also use `claude-v1.3-100k` model, the most recent and sophisticated Claude model provided by Anthropic. Do note that in this handler function, we explicitly tell the AI model to be our brainstorming partner and we need it to collaboratively brainstorm some ideas and provide some suggestions, we also tell it to keep the response concise. We need to keep the response concise mainly because there is a certain limit of characters that can be processed in the Free plan of ElevenLabs API, as well as keeping the conversation natural and engaging.
+
+5.  **Define route for generating speech:**
+
+Our second endpoint is the `/talk` endpoint, which will generate speeches from the messages received. In the context of our chatbot, the message sent to the `/talk` endpoint is the response from the chatbot. We use `generate()` function from `elevenlabs` library to generate the speeches, with "Bella" voice, which is a pre-made female voice with a professional but youthful characteristic and `eleven_monolingual_v1` model, which is a voice model geared towards monolingual speech, or English only.
+
+6.  **Run the Flask application:**
+
+We wrap up our `app.py` file with this conditional statement, which is the entrypoint of a python script. In the entrypoint, we run Flask's `app` with debug enabled. This allow us to observe and trace some logs related to the operational of our backend.
+
+#### Editing the .env file
+
+Remember the API keys that we use for our various AI services? We will write it down in this special file called `.env` file.
+
+### Step 3: Testing the Backend
+
+Before moving on to the frontend, it's crucial to ensure our backend is functioning as expected. We will use tools like Postman or Insomnia to send POST requests to our Flask routes and verify the responses. We should receive an audio file that plays the synthesized speech of Claude's response. Once we're confident that our backend is operating correctly, we can proceed to build the frontend.
+
+To begin, ensure that your current working directory is set inside the backend project, `brainstormy-backend`. Also, confirm that your virtual environment is activated. Once all systems are ready, let's run the command to start our backend!
+
+If everything is installed correctly, and our virtual environment is activated, our terminal should display the following output:
+
+[![Image 28: The output of our terminal, indicating that the backend is running well](https://lablab.ai/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FK11gkZF3xaVyYzFESMdWIQ%2Fc98fff5a-b8f4-422f-9615-946dc44e2400%2Ffull&w=3840&q=100)](https://imagedelivery.net/K11gkZF3xaVyYzFESMdWIQ/c98fff5a-b8f4-422f-9615-946dc44e2400/full)
+
+Great! Now, let's begin testing our backend! In this tutorial, I'm going to use [Insomnia](https://insomnia.rest/), a free REST API testing and documentation design tool. It's straightforward to get started - simply create a new collection and begin adding the endpoints we need to test!
+
+#### `/chat` endpoint
+
+Let's test our `/chat` endpoint first! This endpoint accepts a JSON payload with a `messages` field, which is a list of message objects each containing `role` and `content` fields. Let's ask our backend this question: "let's talk about how we can innovate the health care system".
+
+[![Image 29: We asked the backend to talk about how we can innovate the health care system](https://lablab.ai/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FK11gkZF3xaVyYzFESMdWIQ%2Fd8da2bab-6efc-445d-e175-ff46d73fe100%2Ffull&w=3840&q=100)](https://imagedelivery.net/K11gkZF3xaVyYzFESMdWIQ/d8da2bab-6efc-445d-e175-ff46d73fe100/full)
+
+The backend should respond with its ideas about innovation in the health care system. Because we've specified in the backend code that we need our brainstorming partner to provide concise suggestions, it keeps the response short while still packing in essential information.
+
+Next, how do we generate the speech from the backend? Remember the other endpoint besides `/chat`? That's right, we're going to use the `/talk` endpoint to incorporate speech generation into our brainstorming partner app.
+
+#### `/talk` endpoint
+
+Next, let's test our `/talk` endpoint. This endpoint accepts JSON as a parameter with a `message` field, where we input our message as a "script" that the ElevenLabs API will use to generate speech. For this test, we'll copy the response from the `/chat` endpoint earlier and use it as the payload for our request to the `/talk` endpoint.
+
+[![Image 30: We made a request to the `/talk` endpoint and, after a while, we received an audio file containing the generated speech](https://lablab.ai/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FK11gkZF3xaVyYzFESMdWIQ%2F8c3deb2f-6e62-4079-6a01-990d3a474f00%2Ffull&w=3840&q=100)](https://imagedelivery.net/K11gkZF3xaVyYzFESMdWIQ/8c3deb2f-6e62-4079-6a01-990d3a474f00/full)
+
+After a few seconds, our `/talk` endpoint should return an audio file that we can play directly to test the result. Listen to the soothing voice of "Bella" as it reads the suggestion from the Claude model on how we should innovate the health care system. Impressive, isn't it? Now, what could make this even better? Of course, an app based on our backend that automatically plays the generated speech as the bot responds with its brainstorming suggestions.
+
+### Step 4: Building the Frontend
+
+After the backend is done and tested, let's move on to the front-end. Thankfully, in our front-end project, we will only build two components, the `App` component, which is the main component of our front-end, and `Chatbot` component, which contains most of the functionalities of our `Brainstormy` app.
+
+#### App.tsx
+
+This is the content of our `App` component.
+
+As we can see, not much happens here, only that we import the `Chatbot` component and include it inside the `<div>` element.
+
+#### Chatbot.tsx
+
+This component is where all the actions of our chatbot app go on! let's break it down part by part.
+
+We start by declaring import statements in the topmost part of our code. If we're using IDEs such as [Visual Studio Code](https://code.visualstudio.com/) or [Jetbrains' Webstorm](https://www.jetbrains.com/webstorm/), this part is mostly done automatically. Next, we also declare interface for `Message` object, which encapsulates our messages objects that are formed and then sent to the backend as conversation history.
+
+This is the body of our Chatbot component. It handles states such as `messages` for storing the chat history, `input` to handle the user text input, `isLoading` to activate the loading indicator while the request is waiting for the response. We also declared `ref` for the audio player, which we can use to control the audio player once we get the response from the `/talk` endpoint in the form of audio file.
+
+Next, we have two handler functions, the first one is a standard input change handler, which update the `input` state as the user enter some text to the input. The next one is the handler for the "Send" button click event. Once the "Send" button is clicked, the frontend will make a POST request to our `/chat` endpoint to generate response from the Claude model based on our questions or statements. The response from the `/chat` endpoint, once received, is further used as a payload for the next request to the `/talk` endpoint. This handler function makes as if our app "talks" once it receives the responses, by playing the audio speech file generated from the `/talk` endpoint.
+
+#### public/index.html
+
+Finally, to complete the visual of our brainstorming partner app, let's change the title of our app into "Brainstormy".
+
+### Step 5: Testing the Brainstormy App
+
+Once our frontend is complete, it's time to test the entire application. We will interact with the chatbot, sending various messages and checking the responses. The responses should be relevant to our messages, and we should hear the synthesized speech of Claude's responses. If everything is working correctly, we have successfully built a chatbot application using the ElevenLabs API, Anthropic's Claude, ReactJS, and Flask.
+
+Let's run our front-end by running this command:
+
+Our browser should automatically open the app. At this point, it was pretty simple, but it has all the components that we need. It has a component to display the chat history, a text input, and also an audio player to play the generated speech from the backend.
+
+[![Image 31: The view of our Brainstormy app, it has a title, text input, and an audio player](https://lablab.ai/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FK11gkZF3xaVyYzFESMdWIQ%2F233b28ba-2d75-4165-bb65-7f181811b600%2Ffull&w=3840&q=100)](https://imagedelivery.net/K11gkZF3xaVyYzFESMdWIQ/233b28ba-2d75-4165-bb65-7f181811b600/full)
+
+Let's ask our app to brainstorm some idea on how we innovate the health care system. After we're done, click the "Send" button!
+
+[![Image 32: The app shows a loading indicator with the label 'Thinking'](https://lablab.ai/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FK11gkZF3xaVyYzFESMdWIQ%2F5d27ece1-3e37-4454-c9b2-d17acdd80100%2Ffull&w=3840&q=100)](https://imagedelivery.net/K11gkZF3xaVyYzFESMdWIQ/5d27ece1-3e37-4454-c9b2-d17acdd80100/full)
+
+Look how our Brainstormy app is thinking! hopefully, it won't take long for the answer to arrive.
+
+[![Image 33: The app shows the response and plays the generated speech immediately after it's received by the frontend](https://lablab.ai/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FK11gkZF3xaVyYzFESMdWIQ%2Fe540902b-7f4a-4088-01dc-cea63b225200%2Ffull&w=3840&q=100)](https://imagedelivery.net/K11gkZF3xaVyYzFESMdWIQ/e540902b-7f4a-4088-01dc-cea63b225200/full)
+
+See? just as in our real brainstorming sessions, we throw around ideas and let our mind focus on the topics at hand, it might take a while before the next person speaks up. However, once the response along with the generated speech is received, it's immediately played! So, we don't have to worry about missing anything by, for instance, leaving the window minimized, as we shall soon hear the Brainstormy app "speak" its mind.
+
+Conclusion
+----------
+
+In this tutorial, we demonstrated how to use the ElevenLabs API to integrate AI-generated voice into our AI-powered brainstorming partner app. By leveraging Anthropic's Claude model, we ensured more engaging and human-like responses for our ideas, making it an ideal solution for a brainstorming partner app.
+
+By delivering the generated voice as an audio file, we were able to seamlessly incorporate the voice into our front-end app, which automatically plays the audio response upon receipt. This feature enhances the interactivity of our brainstorming partner app, fostering more engaging discussions.
+
+Thank you for joining me on this project, where we combined both text and voice to build an interactive chatbot app with a twist. I hope this tutorial has inspired you to brainstorm more with the app, or even sparked new ideas about how to utilize ElevenLabs in various use cases! You can find the projects for the [backend](https://github.com/septiannugraha/brainstormy-backend.git) and [frontend](https://github.com/septiannugraha/brainstormy-client.git) on my Github. Stay tuned for more exciting tutorials in the future!

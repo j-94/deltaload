@@ -1,0 +1,154 @@
+Experience The Power of Generative AI With Unmatched Data Privacy
+-----------------------------------------------------------------
+
+Unlock the full potential of generative AI while keeping your data secure and compliant.
+
+[Book a Demo](https://bionic-gpt.com/contact/)**and join hundreds of global installations!**
+
+Trusted by the World's Best Companies
+
+### Built with support from our partners
+
+Leverage Generative AI Across Your Enterprise
+---------------------------------------------
+
+While Chat-GPT offers incredible potential, sending sensitive data to external servers poses significant risks like breaches and unauthorized access. For businesses handling private or regulated data, this trade-off is unacceptable.
+
+Bionic-GPT provides the power of Chat-GPT without the risks of data leakage by running securely within your environment. Enjoy advanced AI capabilities while keeping your data private, compliant, and fully under your control.
+
+![Image 16: Product screenshot](https://bionic-gpt.com/landing-page/private-deployment.svg)
+
+Benefits
+--------
+
+Rapidly Deploy Generative AI Across Your Organization
+-----------------------------------------------------
+
+Accelerate Generative AI Adoption
+---------------------------------
+
+Boost productivity with a solution that's simple to implement and use securely.
+
+Custom AI Assistants (RAG)
+--------------------------
+
+Utilize your data to create AI assistants that deliver smarter, tailored responses.
+
+Data Compliance and Auditability
+--------------------------------
+
+Enjoy the advantages of generative AI with robust data governance and compliance.
+
+Data Governance
+---------------
+
+Empower Your Teams with Secure AI
+
+No learning curve, no confusion—just instant productivity. Bionic-GPT features an intuitive user interface, so your teamscan get started immediately. Familiarity means faster adoption and a seamless experience for everyone.
+
+![Image 17: Product screenshot](https://bionic-gpt.com/landing-page/bionic-console.png)
+
+Retrieval Augmented Generation
+------------------------------
+
+Transform Your Data into a Competitive Advantage
+
+Build AI assistants tailored to your needs by training on your unique datasets. Bionic-GPT provides accurate, context-aware insights and automates tasks specific to your business—all securely within your environment.
+
+![Image 18: Product screenshot](https://bionic-gpt.com/landing-page/assistants.png)
+
+Teams
+-----
+
+Seamless Integration for Enhanced Collaboration
+
+Empower your teams with AI that works where they do. Bionic-GPT integrates seamlessly into your workflows, providing advanced capabilities without sacrificing security. Your data stays private, enabling trustworthy collaboration and innovation.
+
+![Image 19: Product screenshot](https://bionic-gpt.com/landing-page/teams.png)
+
+Observability and Auditability
+------------------------------
+
+Stay in Control with Detailed Insights
+
+Monitor usage, track interactions, and ensure compliance with robust observability and auditability tools. Transparency and accountability are built right into Bionic-GPT.
+
+![Image 20: Product screenshot](https://bionic-gpt.com/landing-page/dashboard.png)
+
+Bionic-GPT Features
+-------------------
+
+A comprehensive solution for all your AI needs.
+
+### No-Code RAG (Retrieval-Augmented Generation)
+
+Create RAG pipelines in minutes without any coding.
+
+### Team-Based Permissions
+
+Control data access and ensure security by allowing teams to manage permissions.
+
+### Full Observability
+
+Gain insights into usage and compliance with detailed dashboards and logs.
+
+### Cost Control
+
+Set usage limits by user and team to manage costs effectively.
+
+### Advanced Encryption
+
+Ensure data security with encryption at rest, in transit, and during runtime.
+
+### Scalable Architecture
+
+Built on Kubernetes for maximum scalability and reliability.
+
+Testimonials
+------------
+
+Having the flexibility to use the best model for the job has been a game-changer. Bionic-GPT’s support for multiple models ensures we can tailor solutions to specific challenges, delivering optimal results every time.
+
+![Image 21: testimonial](https://dummyimage.com/106x106)EmmatData Scientist
+
+Bionic-GPT’s observability feature, which logs all messages into and out of the models, has been critical for ensuring compliance in our organization. It gives us peace of mind and robust accountability.
+
+![Image 22: testimonial](https://dummyimage.com/106x106)PatrickCompliance Officer
+
+Frequently asked questions
+--------------------------
+
+How does Bionic-GPT ensure data privacy?
+
+Bionic-GPT runs entirely within your environment, meaning your data never leaves your control. Unlike traditional AI models, there’s no need to send information to external servers, eliminating the risk of leaks or unauthorized access.
+
+Is Bionic-GPT as powerful as Chat-GPT?
+
+Yes! Bionic-GPT delivers the same advanced AI capabilities as Chat-GPT, with the added advantage of running securely within your infrastructure. You get the full power of GPT without compromising privacy or control.
+
+Can Bionic-GPT be tailored to my specific needs?
+
+Absolutely. Bionic-GPT allows you to customize and fine-tune the AI using your own data, ensuring it provides accurate, context-aware insights and performs tasks specific to your business requirements.
+
+How do I monitor and manage usage?
+
+Bionic-GPT includes powerful observability and auditability features. You can track usage, monitor performance, and ensure compliance with detailed logs and insights into how the AI is being used.
+
+Is Bionic-GPT suitable for regulated industries?
+
+Yes. Bionic-GPT is designed with security and compliance in mind, making it ideal for industries with strict data protection requirements. It keeps sensitive information private while meeting regulatory standards.
+
+Built with Enterprise Security, Privacy, and Compliance at Its Core
+-------------------------------------------------------------------
+
+Bionic-GPT was built with enterprise security, privacy, and compliance in mind from day one.
+
+Choose Between On Premise or Private Cloud Deployment and keep your data 100% safe.
+
+### ISO 27001
+
+### SOC II
+
+### GDPR
+
+### Compliance

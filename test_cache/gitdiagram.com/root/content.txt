@@ -1,0 +1,7 @@
+Turn any GitHub repository into an interactive diagram for visualization.
+
+This is useful for quickly visualizing projects.
+
+You can also replace 'hub' with 'diagram' in any Github URL
+
+Try these example repositories:

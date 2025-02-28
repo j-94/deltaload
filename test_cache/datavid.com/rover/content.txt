@@ -1,0 +1,212 @@
+Datavid Rover | Datavid
+=============== 
+
+[Skip to content](https://datavid.com/rover#main-content)
+
+*    [![Image 74: info@datavid.com](https://no-cache.hubspot.com/cta/default/9471259/ea4a689e-2a53-4a43-87df-3e2bede42acf.png)](https://cta-redirect.hubspot.com/cta/redirect/9471259/ea4a689e-2a53-4a43-87df-3e2bede42acf)
+*    [![Image 75: +44 203 488 5494](https://no-cache.hubspot.com/cta/default/9471259/8c6f1fe0-e1dd-4bbc-93ec-d463a9f504ea.png)](https://cta-redirect.hubspot.com/cta/redirect/9471259/8c6f1fe0-e1dd-4bbc-93ec-d463a9f504ea)
+
+[![Image 76: datavid logo](https://datavid.com/hubfs/branding/datavid%20official%20vector%20logo.svg)](https://datavid.com/)
+
+*   Services
+    
+    [![Image 77: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/EasyAccessData.svg) Data managementDeploy custom software that supports your enteprise's data backbone with the help of Datavid's expert engineers.](https://datavid.com/services/enterprise-data-management)[![Image 78: datavid mega menu icon](https://datavid.com/hs-fs/hubfs/icons/blue/AI.png?width=100&name=AI.png) Artificial intelligenceDiscover our AI services tailored to your unique needs, harnessing the power of Semantics and GenAI to drive innovation, and optimise operations.](https://datavid.com/services/artificial-intelligence)[![Image 79: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataMart.svg) Data architectureResolve performance issues or build entire new capabilities from scratch with scalable data architecture.](https://datavid.com/services/data-architecture)[![Image 80: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataSet.svg) Data engineeringHire senior engineers to solve complex data problems, from data pipelines to entire semantic data platforms.](https://datavid.com/services/data-engineering-services)[![Image 81: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataPipeline.svg) Data integrationConnect dozens of internal and external sources and get your data ready for use in your applications.](https://datavid.com/services/data-integration)[![Image 82: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DuplicatedData.svg) Data migrationEasily migrate data from on-premise to the cloud, from point solutions into a data platform, or even from file storage.](https://datavid.com/services/data-migration)[![Image 83: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataFabric.svg) Data scienceGive your data scientists the software tools they need to gain a competitive advantage and derive business value.](https://datavid.com/services/data-science)[![Image 84: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataLayers.svg) Full stack developmentCreate integrated software solutions, covering both frontend and backend, utilising diverse skills for efficient project design and implementation.](https://datavid.com/services/application-development)[![Image 85: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/ConsultingAdvisory.svg) MarkLogic consultingLeverage Datavid's MarkLogic expertise in design, execution, and sustained management of data-intensive applications.](https://datavid.com/services/marklogic-consulting)[![Image 86: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/Metadata.svg) Prompt engineeringDevelop expertise in prompting for tapping into the transformative possibilities of intelligent data management with Generative AI!](https://datavid.com/services/prompt-engineering)[![Image 87: datavid mega menu icon](https://datavid.com/hs-fs/hubfs/icons/blue/Quality%20Assurance%20PNG.png?width=100&name=Quality%20Assurance%20PNG.png) Quality Assurance ServicesAchieve dependable software through our extensive QA services, focused on delivering superior user experiences while meeting your business goals.](https://datavid.com/services/quality-assurance-services)[![Image 88: datavid mega menu icon](https://datavid.com/hs-fs/hubfs/Marklogic%20Managed%20services%20icon.png?width=100&name=Marklogic%20Managed%20services%20icon.png) MarkLogic Managed ServicesEnhance your ecosystem with Datavid's MarkLogic Managed Services, offering expert support, performance optimisation, and seamless cloud integration.](https://datavid.com/services/marklogic-managed-services)
+    
+    [Check out all services](https://datavid.com/services)[](https://datavid.com/services/quality-assurance-services)
+    
+*   Solutions
+    
+    [![Image 89: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/TextExtraction.svg) Ontology managementStructure relevant concept relationships in unstructured data and uncover hidden business insights at scale.](https://datavid.com/solutions/ontology-management)[![Image 90: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/KnowledgeGraph.svg) Knowledge graphsCreate a real-world representation of all your data and enable contextual experiences across your enterprise.](https://datavid.com/solutions/knowledge-graphs-solutions)[![Image 91: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataWarehouse.svg) Data warehousesAnalyze thousands of data points from a single source of truth with a data warehouse built to deliver business results.](https://datavid.com/solutions/data-warehouse-consulting)[![Image 92: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataGovernance.svg) Data governanceGet a complete, 360-degree view of your data with governance systems made to be used by everyone—not just admins.](https://datavid.com/solutions/data-governance)[![Image 93: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataDiscovery.svg) Data analyticsProcess huge amounts of data to help your teams better analyze business performance and growth opportunities.](https://datavid.com/solutions/data-analytics-consulting)[![Image 94: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataLake.svg) Data lakesAvoid drowning in a data swamp with expert data lake implementation that gives purpose to your tech stack.](https://datavid.com/solutions/data-lake-consulting)
+    
+    [Explore all solutions](https://datavid.com/solutions)
+    
+*   Datavid Rover
+    
+    [![Image 95: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/EntityRelationship.svg) Named entity recognitionUncover hidden relationships in your data with large-scale NER, powered by pre-made or entirely custom ontologies.](https://datavid.com/rover/named-entity-recognition)[![Image 96: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataArchitecture.svg) Semantic data platformExtract information from millions of files, enrich your data, and uncover new knowledge-all in one unified platform.](https://datavid.com/rover/semantic-data-platform)[![Image 97: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/UnifyingData.svg) Metadata managementTurn all data available to you into your biggest enterprise asset by classifying and indexing unstructured data at scale.](https://datavid.com/rover/metadata-management)[![Image 98: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/IntelligentSearch.svg) Cognitive searchDeliver natural language search applications that go beyond traditional rule- or text-based queries.](https://datavid.com/rover/cognitive-enterprise-search)[![Image 99: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/UserInterface.svg) Data discoveryDiscover and present new insights to key stakeholders with visual data reporting that tells impactful business stories.](https://datavid.com/rover/data-discovery)[![Image 100: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/ContinuousImprovement.svg) DataOpsCombine the benefit of agile software development with automated data workflows for extreme efficiency.](https://datavid.com/rover/dataops)
+    
+    [See all Rover features](https://datavid.com/rover) [... or get a demo »](https://datavid.com/rover-demo)
+    
+*   Use cases
+    
+    [![Image 101: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/MedicalIndustry.svg) Clinical data managementMake the most of your clinical data and innovate faster with HIPAA-compliant content extraction and discovery.](https://datavid.com/use-cases/clinical-data-management)[![Image 102: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/MachineLearning.svg) Knowledge managementOrganise, manage, and share your enterprise's most valuable knowledge with a data platform that fits your needs.](https://datavid.com/use-cases/knowledge-management-services)[![Image 103: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/Checklist.svg) Data complianceMake auditors' lives easier and build reports faster with automated compliance monitoring for strict data regulations.](https://datavid.com/use-cases/data-compliance)[![Image 104: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/Future.svg) Predictive analyticsPredict operational inefficiencies and failures before they happen by bringing together hundreds of data points.](https://datavid.com/use-cases/predictive-analytics-consulting)[![Image 105: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/EntityAsPerson.svg) Sentiment analysisLeverage NLP techniques to extract user sentiment across forums, social media, email communications, and more.](https://datavid.com/use-cases/sentiment-analysis)[![Image 106: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/ClinicalResearch.svg) Scientific researchSurface the most relevant studies and concepts across huge bodies of scientific knowledge to uncover hidden insights.](https://datavid.com/use-cases/research-data-management)
+    
+    [Discover all use cases](https://datavid.com/use-cases) [... or explore by industry »](https://datavid.com/use-cases/by-industry)
+    
+*   Resources
+    
+    [![Image 107: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/DataRepository.svg) Resource libraryBrowse a vast library of videos, webinars, white papers, and actionable documents ready to download.](https://datavid.com/resources)[![Image 108: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/Review.svg) Case studiesSee previous customer success stories and get inspired to implement your own enterprise data solution.](https://datavid.com/case-studies)[![Image 109: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/Publishing.svg) Blog postsRead Datavid's latest insights into data engineering, knowledge management, semantic Al, and more.](https://datavid.com/blog)[![Image 110: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/EasyStorage.svg) NewsletterGet monthly insights and curated content on all things data with Datavid's value-packed email newsletter.](https://datavid.com/newsletter)
+    
+*   About
+    
+    [![Image 111: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/RoundCheck.svg) Make the most of your dataExplore Datavid's philosophy and learn how we achieve and maintain a strong project success rate for customers.](https://datavid.com/about)[![Image 112: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/UserFacingInterface.svg) The team behind DatavidGet to know our developers, engineers, testers, UX designers, and the management team behind Datavid.](https://datavid.com/about/team)[![Image 113: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/360View.svg) Why work with usUnlike other data solution providers, we take a 360-degree approach to your success. Learn why we're worth your time.](https://datavid.com/about/why-us)[![Image 114: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/EntityAsOrganization.svg) Events & WebinarsDiscover our upcoming events and webinars, consult and rewatch the past ones.](https://datavid.com/about/events-webinars)[![Image 115: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/GoalSetting.svg) CareersDatavid helps large global organisations solve complex data challenges—and we need your talent to help us grow.](https://datavid.com/careers)[![Image 116: datavid mega menu icon](https://datavid.com/hubfs/icons/blue/Handshake.svg) PartnersLearn more about the network of partners who help us delivering your success.](https://datavid.com/partners)
+    
+
+ [![Image 117: GET A FREE ASSESSMENT](https://no-cache.hubspot.com/cta/default/9471259/485bc05a-fbc8-47bc-897a-79e4fa82b31e.png)](https://cta-redirect.hubspot.com/cta/redirect/9471259/485bc05a-fbc8-47bc-897a-79e4fa82b31e)
+
+*   [Partners](https://datavid.com/partners)
+*   [Careers](https://datavid.com/careers)
+
+*    [![Image 118: info@datavid.com](https://no-cache.hubspot.com/cta/default/9471259/ea4a689e-2a53-4a43-87df-3e2bede42acf.png)](https://cta-redirect.hubspot.com/cta/redirect/9471259/ea4a689e-2a53-4a43-87df-3e2bede42acf)
+*    [![Image 119: +44 203 488 5494](https://no-cache.hubspot.com/cta/default/9471259/8c6f1fe0-e1dd-4bbc-93ec-d463a9f504ea.png)](https://cta-redirect.hubspot.com/cta/redirect/9471259/8c6f1fe0-e1dd-4bbc-93ec-d463a9f504ea)
+
+Rapidly increase your organisation's data capabilities
+======================================================
+
+With Datavid Rover, we've built an extensible platform that turns your data into actionable knowledge in weeks.
+
+[![Image 120: GET A DEMO](https://no-cache.hubspot.com/cta/default/9471259/ccf67e41-542b-4c66-865d-f84cad8a2a17.png)](https://cta-redirect.hubspot.com/cta/redirect/9471259/ccf67e41-542b-4c66-865d-f84cad8a2a17)
+
+[NAMED ENTITY RECOGNITION Break large unstructured text down into bite-sized knowledge ------------------------------------------------------------ Your enterprise produces a lot of unstructured text in Word files, team chats, emails, and more. With Datavid Rover's named entity recognition (NER), you can tap into this valuable body of knowledge without browsing years worth of content.](https://datavid.com/rover/named-entity-recognition)
+
+![Image 121: Named entity recognition datavid rover](https://datavid.com/hs-fs/hubfs/Named%20entity%20rover%20vertical%20illustration.png?width=300&height=532&name=Named%20entity%20rover%20vertical%20illustration.png)
+
+![Image 122: Semantic data platform datavid rover](https://datavid.com/hs-fs/hubfs/Semantic%20data%20rover%20vertical%20illustration.png?width=300&height=532&name=Semantic%20data%20rover%20vertical%20illustration.png)
+
+[SEMANTIC DATA PLATFORMS Turn data into knowledge with an ontology-powered semantic layer ---------------------------------------------------------------- To prove its value, your organisation's data has to be classified, processed and interpreted by people. What if you could extract that same knowledge with only 20% of the effort? That's how Datavid Rover's semantic layer works.](https://datavid.com/rover/semantic-data-platform)
+
+[METADATA MANAGEMENT Solve the data context problem by classifying and indexing metadata ------------------------------------------------------------------- Data isn't just what your organisation sees on the surface—it's the time a file was created, its technical properties, the people who created and accessed it, and a lot more. Datavid Rover helps you make sense of all this metadata in one workflow.](https://datavid.com/rover/metadata-management)
+
+![Image 123: Metadata management datavid rover](https://datavid.com/hs-fs/hubfs/Metadata%20management%20rover%20vertical%20illustration.png?width=300&height=532&name=Metadata%20management%20rover%20vertical%20illustration.png)
+
+Datavid is all about _data_
+---------------------------
+
+We're so passionate about working with data that we've developed an entire working philosophy to promote your organisation's success.
+
+[![Image 124: LEARN DATAVID'S METHOD](https://no-cache.hubspot.com/cta/default/9471259/a174f286-f735-46fa-ae9e-660c3c5ecaef.png)](https://cta-redirect.hubspot.com/cta/redirect/9471259/a174f286-f735-46fa-ae9e-660c3c5ecaef)
+
+![Image 125: Cognitive search datavid rover](https://datavid.com/hs-fs/hubfs/illustrations/Knowledge%20management%20use%20cases%20vertical%20illustration.png?width=300&height=532&name=Knowledge%20management%20use%20cases%20vertical%20illustration.png)
+
+[COGNITIVE SEARCH Give stakeholders search features that speak their language ----------------------------------------------------------- The problem with enterprise search is clear—a lack of context. If you want your organisation's researchers to make the most of their time, Datavid Rover features natural language search that's specific to their domain and intent.](https://datavid.com/rover/cognitive-enterprise-search)
+
+[DATA DISCOVERY Make it easy to find information no matter the filename or data structure ------------------------------------------------------------------------- It's time for data platforms to deliver on their promise of finding relevant information without requiring complex naming schemes. Datavid Rover's discovery tools help your organisation cut down on wasted search time.](https://datavid.com/rover/data-discovery)
+
+![Image 126: Data discovery datavid rover](https://datavid.com/hs-fs/hubfs/Data%20discovery%20rover%20vertical%20illustration.png?width=300&height=532&name=Data%20discovery%20rover%20vertical%20illustration.png)
+
+![Image 127: DataOps rover datavid rover](https://datavid.com/hs-fs/hubfs/illustrations/DataOps%20rover%20vertical%20illustration.png?width=300&height=532&name=DataOps%20rover%20vertical%20illustration.png)
+
+[DATAOPS Merge good data practices with agile operations for extreme efficiency ---------------------------------------------------------------------- Enterprise solutions serve some functions as well but often fall short on others. To unlock your organisation's data potential, Datavid Rover can seamlessly connect with the rest of your tech stack—enabling greater efficiency at scale.](https://datavid.com/rover/dataops)
+
+Deploying software that powers world-class organisations
+--------------------------------------------------------
+
+*   ![Image 128: syngenta datavid customer](https://datavid.com/hs-fs/hubfs/logos/datavid%20syngenta%20partner%20logo.png?width=240&name=datavid%20syngenta%20partner%20logo.png)
+*   ![Image 129: roche datavid customer ](https://datavid.com/hs-fs/hubfs/logos/roche%20customer%20logo%20case%20study%20datavid.png?width=240&name=roche%20customer%20logo%20case%20study%20datavid.png)
+*   ![Image 130: department of levelling up housing and communities datavid customer](https://datavid.com/hs-fs/hubfs/logos/department%20of%20levelling%20up%20housing%20and%20communities%20customer%20logo%20datavid.png?width=240&name=department%20of%20levelling%20up%20housing%20and%20communities%20customer%20logo%20datavid.png)
+*   ![Image 131: standards australia datavid customer](https://datavid.com/hs-fs/hubfs/logos/standards%20australia%20customer%20logo%20datavid.png?width=240&name=standards%20australia%20customer%20logo%20datavid.png)
+*   ![Image 132: american chemical society datavid customer](https://datavid.com/hs-fs/hubfs/logos/american%20chemical%20society%20customer%20logo%20datavid.png?width=240&name=american%20chemical%20society%20customer%20logo%20datavid.png)
+*   ![Image 133: medical protection society datavid customer](https://datavid.com/hs-fs/hubfs/logos/medical%20protection%20society%20customer%20logo.png?width=240&name=medical%20protection%20society%20customer%20logo.png)
+*   ![Image 134: smith and nephew datavid customer](https://datavid.com/hs-fs/hubfs/logos/smith%20and%20nephew%20customer%20logo%20datavid.png?width=240&name=smith%20and%20nephew%20customer%20logo%20datavid.png)
+*   ![Image 135: abbvie datavid customer](https://datavid.com/hs-fs/hubfs/logos/abbvie%20customer%20logo%20datavid.png?width=240&name=abbvie%20customer%20logo%20datavid.png)
+*   ![Image 136: healx datavid customer](https://datavid.com/hs-fs/hubfs/logos/healx%20customer%20logo%20datavid%20small.png?width=240&name=healx%20customer%20logo%20datavid%20small.png)
+*   ![Image 137: progress marklogic datavid partner](https://datavid.com/hs-fs/hubfs/progress%20marklogic%20logo%20small%20centered%20hq.png?width=181&name=progress%20marklogic%20logo%20small%20centered%20hq.png)
+
+Your questions. Answered.
+-------------------------
+
+##### Why should I trust Datavid with our data?
+
+Datavid implements security and confidentiality processes from day 1. We usually work within the client's secure environment, avoiding any data spillover to our systems.
+
+##### How many people does Datavid employ?
+
+Datavid's headcount is 80+ strong, and we expect to grow to over 100 people by the end of next year. We have the capacity and growth rate to take on large data projects.
+
+##### Does Datavid offer other IT services?
+
+Yes, especially around system performance optimisation and cloud migration. However, Datavid's primary focus is on delivering large-scale data applications.
+
+Take your organisation's data practices to new heights
+------------------------------------------------------
+
+ [![Image 138: GET A FREE ASSESSMENT](https://no-cache.hubspot.com/cta/default/9471259/7613b772-2163-4871-9e9c-518e4223875c.png)](https://cta-redirect.hubspot.com/cta/redirect/9471259/7613b772-2163-4871-9e9c-518e4223875c)
+
+![Image 139: datavid deepshikha data engineer](https://datavid.com/hs-fs/hubfs/portraits/_busts/datavid%20deepshikha%20data%20engineer.png?width=363&height=503&name=datavid%20deepshikha%20data%20engineer.png)
+
+* * *
+
+![Image 140: Datavid is certified Cyber Essentials Plus](https://datavid.com/hs-fs/hubfs/logos/Cyber-Essentials-Plus-Certification-Logo.png?width=130&height=156&name=Cyber-Essentials-Plus-Certification-Logo.png)
+
+![Image 141: Datavid is ISO 27001 certified](https://datavid.com/hs-fs/hubfs/logos/ISO%2027001-ico.png?width=130&height=156&name=ISO%2027001-ico.png)
+
+#### Services
+
+*   [Data management](https://datavid.com/services/enterprise-data-management)
+*   [Artificial Intelligence](https://datavid.com/services/artificial-intelligence)
+*   [Data architecture](https://datavid.com/services/data-architecture)
+*   [Data engineering](https://datavid.com/services/data-engineering-services)
+*   [Data integration](https://datavid.com/services/data-integration)
+*   [Data migration](https://datavid.com/services/data-migration)
+*   [Data science](https://datavid.com/services/data-science)
+*   [MarkLogic consulting](https://datavid.com/services/marklogic-consulting)
+*   [Full Stack Development](https://datavid.com/services/application-development)
+*   [Prompt Engineering](https://datavid.com/services/prompt-engineering)
+*   [Quality Assurance as a Service](https://datavid.com/services/quality-assurance-services)
+*   [MarkLogic Managed Services](https://datavid.com/services/marklogic-managed-services)
+
+#### Solutions
+
+*   [Ontology management](https://datavid.com/solutions/ontology-management)
+*   [Knowledge graphs](https://datavid.com/solutions/knowledge-graphs-solutions)
+*   [Data warehouses](https://datavid.com/solutions/data-warehouse-consulting)
+*   [Data governance](https://datavid.com/solutions/data-governance)
+*   [Data analytics](https://datavid.com/solutions/data-analytics-consulting)
+*   [Data lakes](https://datavid.com/solutions/data-lake-consulting)
+
+#### Software
+
+*   [Named entity recognition](https://datavid.com/rover/named-entity-recognition)
+*   [Semantic data platform](https://datavid.com/rover/semantic-data-platform)
+*   [Metadata management](https://datavid.com/rover/metadata-management)
+*   [Cognitive search](https://datavid.com/rover/cognitive-enterprise-search)
+*   [Data discovery](https://datavid.com/rover/data-discovery)
+*   [DataOps](https://datavid.com/rover/dataops)
+
+#### Use cases
+
+*   [Clinical data management](https://datavid.com/use-cases/clinical-data-management)
+*   [Knowledge management](https://datavid.com/use-cases/knowledge-management-services)
+*   [Data compliance](https://datavid.com/use-cases/data-compliance)
+*   [Predictive analytics](https://datavid.com/use-cases/predictive-analytics-consulting)
+*   [Sentiment analysis](https://datavid.com/use-cases/sentiment-analysis)
+*   [Scientific research](https://datavid.com/use-cases/research-data-management)
+
+#### Industries
+
+*   [Finance & banking](https://datavid.com/use-cases/by-industry/financial-data-consulting)
+*   [Life sciences](https://datavid.com/use-cases/by-industry/life-sciences-it)
+*   [Government](https://datavid.com/use-cases/by-industry/government)
+*   [Healthcare](https://datavid.com/use-cases/by-industry/healthcare-analytics)
+
+#### Resources
+
+*   [Resource library](https://datavid.com/resources)
+*   [Case studies](https://datavid.com/case-studies)
+*   [Blog posts](https://datavid.com/blog)
+*   [Newsletter](https://datavid.com/newsletter)
+
+#### About
+
+*   [Make the most of your data](https://datavid.com/about)
+*   [The team behind Datavid](https://datavid.com/about/team)
+*   [Why work with us](https://datavid.com/about/why-us)
+*   [Events & Webinars](https://datavid.com/about/events-webinars)
+
+#### Company
+
+*   [Contact us](https://datavid.com/free-assessment)
+*   [Partners](https://datavid.com/partners)
+*   [Careers](https://datavid.com/careers)
+
+* * *
+
+© 2024 All rights reserved | Datavid
+
+ [![Image 142: New call-to-action](https://datavid.com/hubfs/icons/_social/linkedin.svg)](https://datavid.com/cs/c/?cta_guid=cccddbc5-161d-40c8-95d1-bd89e9e317b8&signature=AAH58kGw8Mmu6Jd_lR73zd0q_JOgXMBgyg&portal_id=9471259&pageId=178202385730&placement_guid=527d6e76-a2b8-468e-9b38-f7369d9a0510&click=7c337915-38aa-4331-94cd-31a79322a15d&redirect_url=APefjpEnt79lLD53_pm57CqWVhksWt7-JCNUoN1JI0HqKAE6JMWxiC9-myGudLQv_6x-kZz--_9L_5GTXzsVmN1B_fox8nMAMaQm_Z6_ws8fB6qxtFJ7twY5_3mPhRoNSJo744yBRx7A&hsutk=&canon=https%3A%2F%2Fdatavid.com%2F-temporary-slug-60dcf797-469a-445c-bfa2-376052237d08&ts=1726120249030)[![Image 143: X](https://datavid.com/hs-fs/hubfs/icons/_social/X.png?width=23&height=23&name=X.png)](https://datavid.com/cs/c/?cta_guid=ae6e8c6a-08e1-4d9c-9fe7-c2947276e6e2&signature=AAH58kFMkuUXS1GAkeXClqG0H6oKL4cTfw&portal_id=9471259&pageId=178202385730&placement_guid=59f2f642-d3aa-4545-8b60-ada5c93f9006&click=11824f2e-0b0f-4df7-86a6-5a981c7355c6&redirect_url=APefjpFLgEm5LuGoR35x-hPgZa71zPFGUJjJhS23FpOQkKjHk45m6Lfnnbe9lx1nV9xn_zUZdgdZszJgIf4z3NCO0e75AZlET6x9NkZPYrECdG6cIYQSCbY&hsutk=&canon=https%3A%2F%2Fdatavid.com%2F-temporary-slug-60dcf797-469a-445c-bfa2-376052237d08&ts=1726120249151)     [![Image 144: youtube icon](https://datavid.com/hubfs/icons/_social/youtube.svg)](https://www.youtube.com/@dataavid)    [](https://datavid.com/blog/rss.xml)
+
+Datavid Limited,124 City Road, London, EC1V 2NX
+
+ [![Image 145: info@datavid.com](https://no-cache.hubspot.com/cta/default/9471259/ea4a689e-2a53-4a43-87df-3e2bede42acf.png)](https://cta-redirect.hubspot.com/cta/redirect/9471259/ea4a689e-2a53-4a43-87df-3e2bede42acf)  [![Image 146: +44 203 488 5494](https://no-cache.hubspot.com/cta/default/9471259/8c6f1fe0-e1dd-4bbc-93ec-d463a9f504ea.png)](https://cta-redirect.hubspot.com/cta/redirect/9471259/8c6f1fe0-e1dd-4bbc-93ec-d463a9f504ea)
+
+*   [Privacy policy](https://datavid.com/privacy)
+*   [Carbon reduction plan](https://datavid.com/hubfs/Datavid-Carbon-Reduction-Plan-2023-2024.pdf)

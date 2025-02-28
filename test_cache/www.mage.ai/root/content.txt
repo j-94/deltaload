@@ -1,0 +1,217 @@
+Magical workflows for data engineering – Mage AI
+===============
+
+Your AI data engineer
+=====================
+
+Your AI data engineer
+=====================
+
+Your AI  
+data engineer
+=======================
+
+Build, deploy, and run data pipelines
+-------------------------------------
+
+through an intuitive interface in minutes.
+------------------------------------------
+
+Run at any scale instantly with Mage Pro.
+-----------------------------------------
+
+Build, deploy, and run data pipelines through an intuitive interface in minutes. Run at any scale instantly with Mage Pro.
+
+Build, deploy, and run data pipelines through an intuitive interface in minutes. Run at any scale instantly with Mage Pro.
+
+Pipeline IDE
+
+24/7 orchestration
+
+Live monitoring
+
+Powerful AI
+
+[Try Pro](https://cloud.mage.ai/sign-up)
+
+[Try Pro](https://cloud.mage.ai/sign-up)
+
+[Try Pro](https://cloud.mage.ai/sign-up)
+
+![Image 7](https://framerusercontent.com/images/cZap19CAi140MgG3yyLMuZkmBjE.png)
+
+![Image 8](https://framerusercontent.com/images/cZap19CAi140MgG3yyLMuZkmBjE.png)
+
+[Move data from Google cloud to our analytics platform. Remove any duplicate cells you find. Done. Here’s your pipeline. ### Intelligent data engineering ### Intelligent data engineering Write production-ready code faster with AI that understands your data. Get instant debugging, best practice recommendations, and automated data engineering tasks - all within your workflow. Write production-ready code faster with AI that understands your data. Get instant debugging, best practice recommendations, and automated data engineering tasks - all within your workflow. Write production-ready code faster with AI that understands your data. Get instant debugging, best practice recommendations, and automated data engineering tasks - all within your workflow.](https://www.mage.ai/product)[Running In Out Retriever.py 1 2 3 4 5 6 7 from dense\_retriever import DenseRetriever class CustomRetriever(DenseRetriever): def retrieve(self, query, documents): \# Custom retrieval logic custom\_results = super().retrieve(query, documents) return custom\_results ### One platform for all data pipelines ### One platform for all data pipelines Build any pipeline type - batch, streaming, ML, RAG - in our interactive environment. Seamlessly combine Python, SQL, R, and dbt with instant previews at every step. Build any pipeline type - batch, streaming, ML, RAG - in our interactive environment. Seamlessly combine Python, SQL, R, and dbt with instant previews at every step. Build any pipeline type - batch, streaming, ML, RAG - in our interactive environment. Seamlessly combine Python, SQL, R, and dbt with instant previews at every step.](https://www.mage.ai/product)
+
+Batch
+
+Integration
+
+Streaming
+
+RAG
+
+Spark
+
+ML
+
+Batch
+
+Integration
+
+Streaming
+
+RAG
+
+Spark
+
+ML
+
+[Deploy Live main b83bf2 Optimized pipeline Deploy main 4h34xt Added dynamic blocks ### Your DevOps command center ### Your DevOps command center Launch environments, collaborate in team workspaces, and deploy continuously with zero friction. Keep your pipelines organized and production-ready without the DevOps complexity. Launch environments, collaborate in team workspaces, and deploy continuously with zero friction. Keep your pipelines organized and production-ready without the DevOps complexity. Launch environments, collaborate in team workspaces, and deploy continuously with zero friction. Keep your pipelines organized and production-ready without the DevOps complexity.](https://www.mage.ai/product)[Architecture ![Image 9](https://framerusercontent.com/images/E0PT0XZkBxH7N7vu9cLsDmQQFk.svg?scale-down-to=512) ![Image 10](https://framerusercontent.com/images/E0PT0XZkBxH7N7vu9cLsDmQQFk.svg?scale-down-to=512) ### Your personal data infrastructure team ### Your personal data infrastructure team Scale from terabytes to thousands of concurrent tasks automatically. Mage’s intelligent architecture handles your most complex workloads without the operational overhead. Scale from terabytes to thousands of concurrent tasks automatically. Mage’s intelligent architecture handles your most complex workloads without the operational overhead. Scale from terabytes to thousands of concurrent tasks automatically. Mage’s intelligent architecture handles your most complex workloads without the operational overhead.](https://www.mage.ai/product)
+
+Familiar patterns.  
+Powerful new framework.
+
+Build. Collaborate. Launch. Analyze. Win.
+
+Filter
+
+SQL
+
+Transform along the way using
+
+Py, R, or Sql
+
+Amazon S3
+
+SQL
+
+Combine multiple sources
+
+at different stages
+
+Google Cloud
+
+PY
+
+Source data from anywhere
+
+Aggregate
+
+R
+
+Refine and enhance
+
+modularly and nondestructively
+
+Daily Analytics
+
+PY
+
+Deliver exactly when and
+
+where it is needed
+
+Sensor
+
+PY
+
+Detect and react to data changes
+
+You
+
+Thomas
+
+Sarah
+
+Filter
+
+SQL
+
+Transform along the way using
+
+Py, R, or Sql
+
+Google Cloud
+
+PY
+
+Source data from anywhere
+
+Daily Analytics
+
+PY
+
+Deliver exactly when and
+
+where it is needed
+
+You
+
+Thomas
+
+### Available in two spellbinding versions
+
+### Available in two  
+spellbinding versions
+
+[### **For teams.** Fully managed platform for integrating and transforming data. Try Pro](https://cloud.mage.ai/sign-up)
+
+[### **For teams.** Fully managed platform for integrating and transforming data. Try Pro](https://cloud.mage.ai/sign-up)
+
+[### **For teams.** Fully managed platform for integrating and transforming data. Try Pro](https://cloud.mage.ai/sign-up)
+
+[OSS ### **Self hosted.** System to build, run, and manage data pipelines. Try OSS](https://docs.mage.ai/)
+
+[OSS ### **Self hosted.** System to build, run, and manage data pipelines. Try OSS](https://docs.mage.ai/)
+
+[OSS ### **Self hosted.** System to build, run, and manage data pipelines. Try OSS](https://docs.mage.ai/)
+
+[](https://www.mage.ai/)
+
+[Product](https://www.mage.ai/product)
+
+[Docs](https://docs.mage.ai/)
+
+[Pricing](https://www.mage.ai/pricing)
+
+[Updates](https://www.mage.ai/updates)
+
+[Blog](https://pro.mage.ai/blog)
+
+[Start now](https://cloud.mage.ai/sign-up)
+
+[Community](https://mage.ai/chat)
+
+[Demo](https://mage.ai/demo)
+
+[](https://www.mage.ai/)
+
+[Product](https://www.mage.ai/product)
+
+[Docs](https://docs.mage.ai/)
+
+[Start](https://cloud.mage.ai/sign-up)
+
+© 2024 Mage Technologies, Inc.
+
+[Terms of Service](https://www.mage.ai/terms)
+
+[Privacy Policy](https://www.mage.ai/privacy)
+
+© 2024 Mage Technologies, Inc.
+
+[Terms of Service](https://www.mage.ai/terms)
+
+[Privacy Policy](https://www.mage.ai/privacy)
+
+© 2024 Mage Technologies, Inc.
+
+[Terms of Service](https://www.mage.ai/terms)
+
+[Privacy Policy](https://www.mage.ai/privacy)
+
+![Image 11](https://framerusercontent.com/images/jxXOeURKHh58yC6s7x8mMG5kDyE.png)
+
+![Image 12](https://framerusercontent.com/images/jxXOeURKHh58yC6s7x8mMG5kDyE.png)

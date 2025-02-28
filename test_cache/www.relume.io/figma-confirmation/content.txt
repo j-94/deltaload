@@ -1,0 +1,6 @@
+![Image 5](https://cdn.prod.website-files.com/6177739448baa66404ce1d9c/65b58b6a471ce9630ab3989c_figma%20plugin%20confirmation%20image.svg)
+
+Account successfully linked
+---------------------------
+
+Close this tab and head back to Figma to start using the plugin.

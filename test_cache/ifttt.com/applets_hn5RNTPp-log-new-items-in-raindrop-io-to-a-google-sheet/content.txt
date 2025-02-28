@@ -1,0 +1,116 @@
+Log new items in Raindrop.io to a Google Sheet - IFTTT
+=============== 
+
+   
+
+[](https://ifttt.com/ "Home")
+
+[Explore](https://ifttt.com/explore "Explore") [Plans](https://ifttt.com/plans "Plans") [Log in](https://ifttt.com/login) [Get started](https://ifttt.com/join "Get started")
+
+ 
+
+Back
+
+Share
+
+[![Image 50: Raindrop.io New item.](https://assets.ifttt.com/images/channels/946168322/icons/monochrome_regular.webp)](https://ifttt.com/raindrop) [![Image 51: Google Sheets Add row to spreadsheet.](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp)](https://ifttt.com/google_sheets)
+
+Log new items in Raindrop.io to a Google Sheet
+==============================================
+
+ [![Image 52: Raindrop.io](https://assets.ifttt.com/images/channels/946168322/icons/monochrome_regular.webp) Raindrop.io](https://ifttt.com/raindrop "Visit Service Page")
+
+1k
+
+Connect
+
+Title | URL | Tags | CreatedAt
+------------------------------
+
+### If
+
+[![Image 53: Raindrop.io icon](https://assets.ifttt.com/images/channels/946168322/icons/monochrome_regular.webp)](https://ifttt.com/raindrop "Raindrop.io")
+
+[#### New item This trigger fires when any new item is added to Raindrop.io](https://ifttt.com/raindrop/triggers/raindrops_all "Learn more: Raindrop.io - New item")
+
+### Then
+
+[![Image 54: Google Sheets icon](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp)](https://ifttt.com/google_sheets "Google Sheets")
+
+[#### Add row to spreadsheet This action will add a single row to the bottom of the first worksheet of a spreadsheet you specify. Note: a new spreadsheet is created after 2000 rows.](https://ifttt.com/google_sheets/actions/append_to_google_spreadsheet "Learn more: Google Sheets - Add row to spreadsheet")
+
+Fewer details
+
+More details
+
+### You might also like
+
+*   [* ![Image 55: iOS Contacts](https://assets.ifttt.com/images/channels/79/icons/monochrome_regular.webp) * ![Image 56: Google Sheets](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp) Sync all your new iOS Contacts to a Google Spreadsheet by IFTTT ![Image 57: user icon](https://web-assets.ifttt.com/packs/media/applet_card/user-icon-3c5f6942aee397b1d59f.svg)272K](https://ifttt.com/applets/dycqQ5A6)
+*   [* ![Image 58: Google Sheets](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp) * ![Image 59: Location](https://assets.ifttt.com/images/channels/941030000/icons/monochrome_regular.webp) Log how much time you spend at specific locations like the office or home in a spreadsheet ![Image 60: Google](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp) Google ![Image 61: user icon](https://web-assets.ifttt.com/packs/media/applet_card/user-icon-3c5f6942aee397b1d59f.svg)156K](https://ifttt.com/applets/XnveYFDL)
+*   [* ![Image 62: Google Sheets](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp) * ![Image 63: Button widget](https://assets.ifttt.com/images/channels/1108205771/icons/monochrome_regular.webp) Press a button to track work hours in Google Drive ![Image 64: Google](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp) Google ![Image 65: user icon](https://web-assets.ifttt.com/packs/media/applet_card/user-icon-3c5f6942aee397b1d59f.svg)123K](https://ifttt.com/applets/NAMgXbLj)
+*   [* ![Image 66: Twitter](https://assets.ifttt.com/images/channels/2/icons/monochrome_regular.webp) * ![Image 67: Google Sheets](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp) Keep a simple spreadsheet of every Tweet you post ![Image 68: Twitter](https://assets.ifttt.com/images/channels/2/icons/monochrome_regular.webp) Twitter ![Image 69: user icon](https://web-assets.ifttt.com/packs/media/applet_card/user-icon-3c5f6942aee397b1d59f.svg)35.9K](https://ifttt.com/applets/badK5xCy)
+*   [* ![Image 70: Fitbit](https://assets.ifttt.com/images/channels/594746782/icons/monochrome_regular.webp) * ![Image 71: Google Sheets](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp) Track your daily Fitbit activity in a Google spreadsheet ![Image 72: Fitbit](https://assets.ifttt.com/images/channels/594746782/icons/monochrome_regular.webp) Fitbit ![Image 73: user icon](https://web-assets.ifttt.com/packs/media/applet_card/user-icon-3c5f6942aee397b1d59f.svg)26.4K](https://ifttt.com/applets/UAaFUztX)
+*   [* ![Image 74: YouTube](https://assets.ifttt.com/images/channels/32/icons/monochrome_regular.webp) * ![Image 75: Google Sheets](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp) Save all of your liked videos in a spreadsheet by jamisonross ![Image 76: user icon](https://web-assets.ifttt.com/packs/media/applet_card/user-icon-3c5f6942aee397b1d59f.svg)14.7K](https://ifttt.com/applets/XwJXdnj4)
+
+### Popular services on IFTTT
+
+*    [![Image 77: iRobot](https://assets.ifttt.com/images/channels/1158179406/icons/monochrome_regular.webp) iRobot](https://ifttt.com/irobot)
+*    [![Image 78: Husqvarna Automower®](https://assets.ifttt.com/images/channels/214221502/icons/monochrome_regular.webp) Husqvarna Automower®](https://ifttt.com/automower)
+*    [![Image 79: Todoist](https://assets.ifttt.com/images/channels/1148373811/icons/monochrome_regular.webp) Todoist](https://ifttt.com/todoist)
+*    [![Image 80: Android Device](https://assets.ifttt.com/images/channels/1089090894/icons/monochrome_regular.webp) Android Device](https://ifttt.com/android_device)
+*    [![Image 81: Twitter](https://assets.ifttt.com/images/channels/2/icons/monochrome_regular.webp) Twitter](https://ifttt.com/twitter)
+*    [![Image 82: Google Drive](https://assets.ifttt.com/images/channels/142226432/icons/monochrome_regular.webp) Google Drive](https://ifttt.com/google_drive)
+*    [![Image 83: VoIP Calls](https://assets.ifttt.com/images/channels/324969693/icons/monochrome_regular.webp) VoIP Calls](https://ifttt.com/voip_calls)
+*    [![Image 84: Finance](https://assets.ifttt.com/images/channels/22/icons/monochrome_regular.webp) Finance](https://ifttt.com/finance)
+*    [![Image 85: Google Sheets](https://assets.ifttt.com/images/channels/799977804/icons/monochrome_regular.webp) Google Sheets](https://ifttt.com/google_sheets)
+*    [![Image 86: Notifications](https://assets.ifttt.com/images/channels/651849913/icons/monochrome_regular.webp) Notifications](https://ifttt.com/if_notifications)
+*    [![Image 87: Monzo](https://assets.ifttt.com/images/channels/1201183828/icons/monochrome_regular.webp) Monzo](https://ifttt.com/monzo)
+*    [![Image 88: LIFX](https://assets.ifttt.com/images/channels/690473090/icons/monochrome_regular.webp) LIFX](https://ifttt.com/lifx)
+
+[Get the best business tools. Try it free](https://ifttt.com/subscriptions/pro_plus "Try IFTTT Pro")
+
+[](https://ifttt.com/ "Home")
+
+#### [Explore](https://ifttt.com/explore "Explore")
+
+*   [Services](https://ifttt.com/explore/services "Services")
+*   [Stories](https://ifttt.com/explore/stories "Stories")
+*   [Applets](https://ifttt.com/explore/applets "Applets")
+*   [Help Center](https://ifttt.com/help "Help Center")
+*   [Content Map](https://ifttt.com/content_map "Content Map")
+*   [Search](https://ifttt.com/explore "Search")
+*   [Plans](https://ifttt.com/plans "Plans")
+*   [Developer Docs](https://ifttt.com/docs/api_reference "Developer Docs")
+
+#### Top Integrations
+
+*   [Google Sheets and iOS Contacts](https://ifttt.com/connect/google_sheets/ios_contacts "Google Sheets and iOS Contacts")
+*   [Google Sheets and Location](https://ifttt.com/connect/google_sheets/location "Google Sheets and Location")
+*   [Button widget and Google Sheets](https://ifttt.com/connect/do_button/google_sheets "Button widget and Google Sheets")
+*   [Google Sheets and Twitter](https://ifttt.com/connect/google_sheets/twitter "Google Sheets and Twitter")
+*   [Fitbit and Google Sheets](https://ifttt.com/connect/fitbit/google_sheets "Fitbit and Google Sheets")
+*   [Raindrop.io and YouTube](https://ifttt.com/connect/raindrop/youtube "Raindrop.io and YouTube")
+*   [Raindrop.io and Reddit](https://ifttt.com/connect/raindrop/reddit "Raindrop.io and Reddit")
+*   [Pocket and Raindrop.io](https://ifttt.com/connect/pocket/raindrop "Pocket and Raindrop.io")
+*   [Google Sheets and Raindrop.io](https://ifttt.com/connect/google_sheets/raindrop "Google Sheets and Raindrop.io")
+*   [Instapaper and Raindrop.io](https://ifttt.com/connect/instapaper/raindrop "Instapaper and Raindrop.io")
+
+#### [Latest Stories](https://ifttt.com/explore/stories "Latest Stories")
+
+*   [How to Share Google Calendar with iPhone](https://ifttt.com/explore/how-to-share-google-calendar-with-iphone "How to Share Google Calendar with iPhone")
+*   [Best Twitter Automation Tools](https://ifttt.com/explore/best-twitter-automation-tools "Best Twitter Automation Tools")
+*   [How to Make Money with AI](https://ifttt.com/applets/explore/how-to-make-money-with-ai "How to Make Money with AI")
+*   [7 Repetitive Tasks That Small Businesses Should Automate in 2025](https://ifttt.com/explore/7-tasks-small-business-automation "7 Repetitive Tasks That Small Businesses Should Automate in 2025")
+*   [How to Use RSS Feeds](https://ifttt.com/explore/how-to-use-rss-feeds "How to Use RSS Feeds")
+*   [What are Webhooks](https://ifttt.com/explore/what-are-webhooks "What are Webhooks")
+*   [5 best Pomodoro Productivity Apps](https://ifttt.com/explore/5-best-pomodoro-productivity-apps "5 best Pomodoro Productivity Apps")
+*   [How to Use NFC Tags for Android & iPhone](https://ifttt.com/explore/how-to-use-nfc-tag-with-phone "How to Use NFC Tags for Android & iPhone")
+*   [How to Automate Social Media Posts](https://ifttt.com/explore/how-to-automate-social-media-posts "How to Automate Social Media Posts")
+*   [How to Export Google Calendar to Google Sheets Automatically](https://ifttt.com/applets/explore/how-to-export-google-calendar-to-google-sheets "How to Export Google Calendar to Google Sheets Automatically")
+
+*   [](https://itunes.apple.com/app/apple-store/id660944635?pt=1752682&ct=/applets/hn5RNTPp-log-new-items-in-raindrop-io-to-a-google-sheet&mt=8 "Download on the App Store")
+*   [](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&utm_source=/applets/hn5RNTPp-log-new-items-in-raindrop-io-to-a-google-sheet&utm_medium=web "Get it on Google Play")
+
+[Developers](https://ifttt.com/developers "Developers") [Careers](https://ifttt.com/careers "Careers") [Partner program](https://ifttt.com/partners "Partner program") [Contact](https://ifttt.com/contact "Contact") [Privacy](https://ifttt.com/privacy "Privacy") [About](https://ifttt.com/about "About")
+
+[](https://www.facebook.com/ifttt "Facebook")[](https://www.linkedin.com/company/ifttt/ "LinkedIn")[](https://www.instagram.com/todayatifttt/ "Instagram")[](https://www.youtube.com/@IFTTT "YouTube")[](https://twitter.com/IFTTT "Twitter")[](https://www.tiktok.com/@workswithifttt "TikTok")

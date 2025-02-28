@@ -1,0 +1,101 @@
+Getting started - Reflexjs
+===============
+
+[Reflexjs](https://reflexjs.org/)
+
+[Documentation](https://reflexjs.org/docs)[Blocks Library](https://reflexjs.org/blocks)[Guides](https://reflexjs.org/guides/build-landing-page-with-nextjs)[GitHub](https://github.com/reflexjs/reflexjs)
+
+Search/
+
+[](https://github.com/reflexjs/reflexjs)Toggle color mode
+
+#### Helpful Links
+
+[Getting Started](https://reflexjs.org/docs)
+
+ [Legacy docs](https://v1.reflexjs.org/docs)
+
+[Demo](https://demo.reflexjs.org/)
+
+[Upgrade Guide](https://reflexjs.org/docs/upgrade)
+
+#### Installation
+
+[Next.js](https://reflexjs.org/docs/installation/nextjs)
+
+[Gatsby](https://reflexjs.org/docs/installation/gatsby)
+
+[Create React App](https://reflexjs.org/docs/installation/react)
+
+#### Theming
+
+[Theme Specification](https://reflexjs.org/docs/theming/theme)
+
+[Style props](https://reflexjs.org/docs/theming/style-props)
+
+[Breakpoints](https://reflexjs.org/docs/theming/breakpoints)
+
+[Responsive Styles](https://reflexjs.org/docs/theming/responsive-styles)
+
+[Variants](https://reflexjs.org/docs/theming/variants)
+
+[Pseudo selectors](https://reflexjs.org/docs/theming/pseudo-selectors)
+
+[Global styles](https://reflexjs.org/docs/theming/global-styles)
+
+[Color modes](https://reflexjs.org/docs/theming/color-modes)
+
+[The sx prop](https://reflexjs.org/docs/theming/sx)
+
+[Hooks](https://reflexjs.org/docs/theming/hooks)
+
+#### Starter kits
+
+[Next.js](https://github.com/reflexjs/nextjs-starter)
+
+[Next.js (Typescript)](https://github.com/reflexjs/nextjs-starter-typescript)
+
+[Gatsby](https://github.com/reflexjs/gatsby-starter)
+
+[Gatsby (Typescript)](https://github.com/reflexjs/gatsby-starter-typescript)
+
+Getting started
+===============
+
+Welcome to the Reflexjs documentation.
+
+* * *
+
+Reflexjs is a styling library built for speed and excellent developer experience.
+
+It allows you to style your components using [style props](https://reflexjs.org/docs/theming/style-props) and constraints, based on the [System UI specifications](https://system-ui.com/).
+
+If you are already using Theme UI, Reflexjs has a _zero-runtime_ build size. It is a developer tool and never makes it into your production build.
+
+[](https://reflexjs.org/docs#demo)Demo
+--------------------------------------
+
+[](https://reflexjs.org/docs#installation)Installation
+------------------------------------------------------
+
+Reflexjs works with any React framework. Select your framework below to get started.
+
+[Next.js](https://reflexjs.org/docs/installation/nextjs)[Gatsby](https://reflexjs.org/docs/installation/gatsby)[React](https://reflexjs.org/docs/installation/react)
+
+[](https://reflexjs.org/docs#upgrade)Upgrade
+--------------------------------------------
+
+If you're upgrading from Reflexjs 1.0, see the upgrade guide [here](https://reflexjs.org/docs/upgrade).
+
+[Upgrade Guide](https://reflexjs.org/docs/upgrade)
+
+On this page
+------------
+
+*   [Demo](https://reflexjs.org/docs#demo)
+*   [Installation](https://reflexjs.org/docs#installation)
+*   [Upgrade](https://reflexjs.org/docs#upgrade)
+
+© 2022 Reflexjs
+
+[Documentation](https://reflexjs.org/docs)[Blocks Library](https://reflexjs.org/blocks)[Guides](https://reflexjs.org/guides/build-landing-page-with-nextjs)[GitHub](https://github.com/reflexjs/reflexjs)

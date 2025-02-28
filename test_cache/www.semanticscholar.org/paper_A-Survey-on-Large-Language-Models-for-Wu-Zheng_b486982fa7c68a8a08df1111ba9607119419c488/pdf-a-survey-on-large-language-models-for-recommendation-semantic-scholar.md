@@ -1,0 +1,615 @@
+---
+title: [PDF] A Survey on Large Language Models for Recommendation | Semantic Scholar
+description: This survey presents a taxonomy that categorizes existing LLM-based recommendation systems into two major paradigms, respectively Discriminative LLM for Recommendation (DLLM4Rec) and Generative LLL4Rec (GLLM 4Rec), with the latter being systematically sorted out for the first time. Large Language Models (LLMs) have emerged as powerful tools in the field of Natural Language Processing (NLP) and have recently gained significant attention in the domain of Recommendation Systems (RS). These models, trained on massive amounts of data using self-supervised learning, have demonstrated remarkable success in learning universal representations and have the potential to enhance various aspects of recommendation systems by some effective transfer techniques such as fine-tuning and prompt tuning, and so on. The crucial aspect of harnessing the power of language models in enhancing recommendation quality is the utilization of their high-quality representations of textual features and their extensive coverage of external knowledge to establish correlations between items and users. To provide a comprehensive understanding of the existing LLM-based recommendation systems, this survey presents a taxonomy that categorizes these models into two major paradigms, respectively Discriminative LLM for Recommendation (DLLM4Rec) and Generative LLM for Recommendation (GLLM4Rec), with the latter being systematically sorted out for the first time. Furthermore, we systematically review and analyze existing LLM-based recommendation systems within each paradigm, providing insights into their methodologies, techniques, and performance. Additionally, we identify key challenges and several valuable findings to provide researchers and practitioners with inspiration. We have also created a GitHub repository to index relevant papers on LLMs for recommendation, https://github.com/WLiK/LLM4Rec.
+url: https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488
+timestamp: 2025-01-20T15:46:39.376Z
+domain: www.semanticscholar.org
+path: paper_A-Survey-on-Large-Language-Models-for-Wu-Zheng_b486982fa7c68a8a08df1111ba9607119419c488
+---
+
+# [PDF] A Survey on Large Language Models for Recommendation | Semantic Scholar
+
+
+This survey presents a taxonomy that categorizes existing LLM-based recommendation systems into two major paradigms, respectively Discriminative LLM for Recommendation (DLLM4Rec) and Generative LLL4Rec (GLLM 4Rec), with the latter being systematically sorted out for the first time. Large Language Models (LLMs) have emerged as powerful tools in the field of Natural Language Processing (NLP) and have recently gained significant attention in the domain of Recommendation Systems (RS). These models, trained on massive amounts of data using self-supervised learning, have demonstrated remarkable success in learning universal representations and have the potential to enhance various aspects of recommendation systems by some effective transfer techniques such as fine-tuning and prompt tuning, and so on. The crucial aspect of harnessing the power of language models in enhancing recommendation quality is the utilization of their high-quality representations of textual features and their extensive coverage of external knowledge to establish correlations between items and users. To provide a comprehensive understanding of the existing LLM-based recommendation systems, this survey presents a taxonomy that categorizes these models into two major paradigms, respectively Discriminative LLM for Recommendation (DLLM4Rec) and Generative LLM for Recommendation (GLLM4Rec), with the latter being systematically sorted out for the first time. Furthermore, we systematically review and analyze existing LLM-based recommendation systems within each paradigm, providing insights into their methodologies, techniques, and performance. Additionally, we identify key challenges and several valuable findings to provide researchers and practitioners with inspiration. We have also created a GitHub repository to index relevant papers on LLMs for recommendation, https://github.com/WLiK/LLM4Rec.
+
+
+## Content
+
+\[PDF\] A Survey on Large Language Models for Recommendation | Semantic Scholar
+===============
+                                                                   
+
+[Skip to search form](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#search-form)[Skip to main content](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#main-content)[Skip to account menu](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#account-menu)
+
+[](https://www.semanticscholar.org/)
+
+Search 223,685,222 papers from all fields of science
+
+Search
+
+Sign InCreate Free Account
+
+*   DOI:[10.48550/arXiv.2305.19860](https://doi.org/10.48550/arXiv.2305.19860)
+    
+*   Corpus ID: 258987581
+
+A Survey on Large Language Models for Recommendation
+====================================================
+
+@article{Wu2023ASO,
+  title={A Survey on Large Language Models for Recommendation},
+  author={Likang Wu and Zhilan Zheng and Zhaopeng Qiu and Hao Wang and Hongchao Gu and Tingjia Shen and Chuan Qin and Chen Zhu and Hengshu Zhu and Qi Liu and Hui Xiong and Enhong Chen},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2305.19860},
+  url={https://api.semanticscholar.org/CorpusID:258987581}
+}
+
+*   [Likang Wu](https://www.semanticscholar.org/author/Likang-Wu/12892739), [Zhilan Zheng](https://www.semanticscholar.org/author/Zhilan-Zheng/2115548818), +9 authors [Enhong Chen](https://www.semanticscholar.org/author/Enhong-Chen/2173129111)
+*   Published in [World wide web (Bussum)](https://www.semanticscholar.org/venue?name=World%20wide%20web%20%28Bussum%29) 31 May 2023
+*   Computer Science
+
+TLDR
+
+This survey presents a taxonomy that categorizes existing LLM-based recommendation systems into two major paradigms, respectively Discriminative LLM for Recommendation (DLLM4Rec) and Generative LLL4Rec (GLLM 4Rec), with the latter being systematically sorted out for the first time.Expand
+
+[](https://www.semanticscholar.org/reader/b486982fa7c68a8a08df1111ba9607119419c488)\[PDF\] Semantic Reader
+
+Save to LibrarySave
+
+Create AlertAlert
+
+Cite
+
+Share
+
+230 Citations
+
+[Highly Influential Citations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)[](https://www.semanticscholar.org/faq#influential-citations)
+
+5
+
+[Background Citations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)
+
+137
+
+[Methods Citations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)
+
+28
+
+[Results Citations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)
+
+3
+
+[View All](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)
+
+Figures and Tables from this paper
+----------------------------------
+
+*   [![Image 6: figure 1](https://figures.semanticscholar.org/b486982fa7c68a8a08df1111ba9607119419c488/3-Figure1-1.png) figure 1](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488/figure/0)
+*   [![Image 7: table 1](https://figures.semanticscholar.org/b486982fa7c68a8a08df1111ba9607119419c488/8-Table1-1.png) table 1](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488/figure/1)
+*   [![Image 8: figure 2](https://figures.semanticscholar.org/b486982fa7c68a8a08df1111ba9607119419c488/4-Figure2-1.png) figure 2](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488/figure/2)
+*   [![Image 9: table 2](https://figures.semanticscholar.org/b486982fa7c68a8a08df1111ba9607119419c488/9-Table2-1.png) table 2](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488/figure/3)
+*   [![Image 10: figure 3](https://figures.semanticscholar.org/b486982fa7c68a8a08df1111ba9607119419c488/4-Figure3-1.png) figure 3](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488/figure/4)
+
+View All 5 Figures & Tables
+
+Topics
+------
+
+AI-Generated
+
+[LLM-based Recommendation Systems (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/64162835186?corpusId=258987581)[U-BERT (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/60759569711?corpusId=258987581)[UserBERT (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/14248112159?corpusId=258987581)[TALLRec (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/28023141246?corpusId=258987581)[GenRec (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/54404699972?corpusId=258987581)[RecAgent (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/47158422528?corpusId=258987581)[Downstream Recommendation Tasks (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/40628779225?corpusId=258987581)[GeneRec (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/158457212?corpusId=258987581)[Narrative-driven Recommendation (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/49409395399?corpusId=258987581)[Recommendation Systems (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/1361345639?corpusId=258987581)
+
+230 Citations
+-------------
+
+Citation Type
+
+Has PDF
+
+Author
+
+More Filters
+
+More Filters
+
+Filters
+
+[### HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling](https://www.semanticscholar.org/paper/HLLM%3A-Enhancing-Sequential-Recommendations-via-for-Chen-Chi/b230b3c043b0671985bd56fcb0b23f3e9e29c762)
+
+[Junyi Chen](https://www.semanticscholar.org/author/Junyi-Chen/2267534266)[Lu Chi](https://www.semanticscholar.org/author/Lu-Chi/2321846152)[Bingyue Peng](https://www.semanticscholar.org/author/Bingyue-Peng/2294806434)[Zehuan Yuan](https://www.semanticscholar.org/author/Zehuan-Yuan/2244754235)
+
+Computer Science
+
+[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)
+
+*   2024
+
+TLDR
+
+This paper proposes a novel Hierarchical Large Language Model architecture designed to enhance sequential recommendation systems, which employs a two-tier model: the first Item LLM extracts rich content features from the detailed text description of the item, while the second User LLM utilizes these features to predict users' future interests based on their interaction history.Expand
+
+*   [2](https://www.semanticscholar.org/paper/b230b3c043b0671985bd56fcb0b23f3e9e29c762#citing-papers)
+[](https://www.semanticscholar.org/reader/b230b3c043b0671985bd56fcb0b23f3e9e29c762)\[PDF\]
+
+Save
+
+[### Large Language Models for Generative Recommendation: A Survey and Visionary Discussions](https://www.semanticscholar.org/paper/Large-Language-Models-for-Generative-A-Survey-and-Li-Zhang/a1081c6fc6921d6b76d9ebda4d712333fd7bbbf5)
+
+[Lei Li](https://www.semanticscholar.org/author/Lei-Li/2151529879)[Yongfeng Zhang](https://www.semanticscholar.org/author/Yongfeng-Zhang/1739818)[Dugang Liu](https://www.semanticscholar.org/author/Dugang-Liu/2237956346)[L. Chen](https://www.semanticscholar.org/author/L.-Chen/152875291)
+
+Computer Science
+
+[LREC](https://www.semanticscholar.org/venue?name=LREC)
+
+*   2024
+
+TLDR
+
+This survey reviews the progress, methods, and future directions of LLM-based generative recommendation by examining three questions: 1) What generative recommendation is, 2) Why RS should advance to generative recommendation, and 3) How to implement LLM-based generative recommendation for various RS tasks.Expand
+
+*   [53](https://www.semanticscholar.org/paper/a1081c6fc6921d6b76d9ebda4d712333fd7bbbf5#citing-papers)
+[](https://www.semanticscholar.org/reader/a1081c6fc6921d6b76d9ebda4d712333fd7bbbf5)\[PDF\]
+
+*   1 Excerpt
+
+Save
+
+[### A Survey on Large Language Models for Personalized and Explainable Recommendations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Personalized-Chen/9aeebfab9e27a4cecf7f488fca2d0bf07e06ae15)
+
+[Junyi Chen](https://www.semanticscholar.org/author/Junyi-Chen/2267534266)
+
+Computer Science
+
+[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)
+
+*   2023
+
+TLDR
+
+This survey aims to analyze how RS can benefit from LLM-based methodologies, and describes major challenges in Personalized Explanation Generating tasks, which are cold-start problems, unfairness and bias problems in RS.Expand
+
+*   [11](https://www.semanticscholar.org/paper/9aeebfab9e27a4cecf7f488fca2d0bf07e06ae15#citing-papers)
+[](https://www.semanticscholar.org/reader/9aeebfab9e27a4cecf7f488fca2d0bf07e06ae15)\[PDF\]
+
+*   1 Excerpt
+
+Save
+
+[### A Review of Methods Using Large Language Models in News Recommendation Systems](https://www.semanticscholar.org/paper/A-Review-of-Methods-Using-Large-Language-Models-in-Li-Feng/ebd58a28f34cfbb3ebe3f57e8d7f7502bdb690fc)
+
+[Xinmiao Li](https://www.semanticscholar.org/author/Xinmiao-Li/2321654528)[Shuang Feng](https://www.semanticscholar.org/author/Shuang-Feng/2321669613)[Xin Zhang](https://www.semanticscholar.org/author/Xin-Zhang/2322038384)
+
+Computer Science
+
+[2024 IEEE/ACIS 27th International Conference on…](https://www.semanticscholar.org/venue?name=IEEE%2FACIS%2027th%20International%20Conference%20on%20Software%20Engineering%2C%20Artificial%20Intelligence%2C%20Networking%20and%20Parallel%2FDistributed%20Computing%20%28SNPD%29)
+
+*   2024
+
+TLDR
+
+This paper introduces the current major work in the field of news recommendation from the two categories of generative LLM-assisted recommendation and direct generative recommendation and summarizes the current work as well as the potential future research directions and challenges.Expand
+
+*   2 Excerpts
+
+Save
+
+[### Recommender Systems in the Era of Large Language Models (LLMs)](https://www.semanticscholar.org/paper/Recommender-Systems-in-the-Era-of-Large-Language-Fan-Zhao/a35f1315e91513ff0bec0c488fe175214fd9636c)
+
+[Wenqi Fan](https://www.semanticscholar.org/author/Wenqi-Fan/41031455)[Zihuai Zhao](https://www.semanticscholar.org/author/Zihuai-Zhao/2186864321)+5 authors [Qing Li](https://www.semanticscholar.org/author/Qing-Li/2117897052)
+
+Computer Science
+
+[IEEE Transactions on Knowledge and Data…](https://www.semanticscholar.org/venue?name=IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering)
+
+*   2024
+
+TLDR
+
+This survey comprehensively review LLM-empowered recommender systems from various perspectives including pre-training, fine-tuning, and prompting paradigms, and comprehensively discusses the promising future directions in this emerging field.Expand
+
+*   [206](https://www.semanticscholar.org/paper/a35f1315e91513ff0bec0c488fe175214fd9636c#citing-papers)
+[](https://www.semanticscholar.org/reader/a35f1315e91513ff0bec0c488fe175214fd9636c)\[PDF\]
+
+*   1 Excerpt
+
+Save
+
+[### A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://www.semanticscholar.org/paper/A-Bi-Step-Grounding-Paradigm-for-Large-Language-in-Bao-Zhang/aae1d88c70cf18ef6aa23693a4dce8204e22d087)
+
+[Keqin Bao](https://www.semanticscholar.org/author/Keqin-Bao/2188063534)[Jizhi Zhang](https://www.semanticscholar.org/author/Jizhi-Zhang/2116265843)+6 authors [Qi Tian](https://www.semanticscholar.org/author/Qi-Tian/2056267912)
+
+Computer Science
+
+[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)
+
+*   2023
+
+TLDR
+
+This paper investigates the comprehensive ranking capacity of LLMs and proposes a two-step grounding framework known as BIGRec (Bi-step Grounding Paradigm for Recommendation), which initially grounds LLMs to the recommendation space by fine-tuning them to generate meaningful tokens for items and subsequently identifies appropriate actual items that correspond to the generated tokens.Expand
+
+*   [51](https://www.semanticscholar.org/paper/aae1d88c70cf18ef6aa23693a4dce8204e22d087#citing-papers)
+[](https://www.semanticscholar.org/reader/aae1d88c70cf18ef6aa23693a4dce8204e22d087)\[PDF\]
+
+*   1 Excerpt
+
+Save
+
+[### Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages](https://www.semanticscholar.org/paper/Multilingual-Prompts-in-LLM-Based-Recommenders%3A-%C3%96zsoy/59b2280fa6f2a4b7fb7b82d3b6881d9051c22b8f)
+
+[Makbule Gülçin Özsoy](https://www.semanticscholar.org/author/Makbule-G%C3%BCl%C3%A7in-%C3%96zsoy/40918064)
+
+Computer Science, Linguistics
+
+*   2024
+
+TLDR
+
+This work highlights the need for diverse language support in LLM-based recommenders and suggests future research on creating evaluation datasets, using newer models and additional languages.Expand
+
+*   [Highly Influenced](https://www.semanticscholar.org/paper/59b2280fa6f2a4b7fb7b82d3b6881d9051c22b8f?sort=is-influential#citing-papers)
+    
+[](https://www.semanticscholar.org/reader/59b2280fa6f2a4b7fb7b82d3b6881d9051c22b8f)\[PDF\]
+
+*   5 Excerpts
+
+Save
+
+[### Enhancing ID-based Recommendation with Large Language Models](https://www.semanticscholar.org/paper/Enhancing-ID-based-Recommendation-with-Large-Models-Chen-Gao/7c82d2ae8ee5c49f14f479955b599cff4cd99dd8)
+
+[Lei Chen](https://www.semanticscholar.org/author/Lei-Chen/2289911638)[Chen Gao](https://www.semanticscholar.org/author/Chen-Gao/2292022762)+4 authors [Meng Wang](https://www.semanticscholar.org/author/Meng-Wang/2146058717)
+
+Computer Science
+
+ACM Transactions on Information Systems
+
+*   2024
+
+TLDR
+
+This work introduces a pioneering approach called “LLM for ID-based Recommendation” (LLM4IDRec), which integrates the capabilities of LLMs while exclusively relying on ID data, thus diverging from the previous reliance on textual data.Expand
+
+[](https://www.semanticscholar.org/reader/7c82d2ae8ee5c49f14f479955b599cff4cd99dd8)\[PDF\]
+
+Save
+
+[### STAR: A Simple Training-free Approach for Recommendations using Large Language Models](https://www.semanticscholar.org/paper/STAR%3A-A-Simple-Training-free-Approach-for-using-Lee-Kraft/0545c6784b90415a3c02a823d1e89b526e772663)
+
+[Dong-Ho Lee](https://www.semanticscholar.org/author/Dong-Ho-Lee/2327177362)[Adam Kraft](https://www.semanticscholar.org/author/Adam-Kraft/2314693663)+5 authors [Xinyang Yi](https://www.semanticscholar.org/author/Xinyang-Yi/2838461)
+
+Computer Science
+
+*   2024
+
+TLDR
+
+A Simple Training-free Approach for Recommendation (STAR), a framework that utilizes LLMs and can be applied to various recommendation tasks without the need for fine-tuning, highlighting the potential of LLMs in recommendation systems without extensive training or custom architectures.Expand
+
+[](https://www.semanticscholar.org/reader/0545c6784b90415a3c02a823d1e89b526e772663)\[PDF\]
+
+*   1 Excerpt
+
+Save
+
+[### Large Language Models for Recommendation: Progresses and Future Directions](https://www.semanticscholar.org/paper/Large-Language-Models-for-Recommendation%3A-and-Bao-Zhang/6b395e45a8c54064ca1f68116912170e146e8506)
+
+[Keqin Bao](https://www.semanticscholar.org/author/Keqin-Bao/2188063534)[Jizhi Zhang](https://www.semanticscholar.org/author/Jizhi-Zhang/2116265843)[Yang Zhang](https://www.semanticscholar.org/author/Yang-Zhang/2145957648)[Wenjie Wang](https://www.semanticscholar.org/author/Wenjie-Wang/2117833732)[Fuli Feng](https://www.semanticscholar.org/author/Fuli-Feng/2163400298)[Xiangnan He](https://www.semanticscholar.org/author/Xiangnan-He/2239071206)
+
+Computer Science
+
+SIGIR-AP
+
+*   2023
+
+TLDR
+
+This tutorial aims to retrospect the evolution of LLM4Rec and conduct a comprehensive review of existing research, clarifying how recommender systems benefit from LLMs through a variety of perspectives, including the model architecture, learning paradigm, and the strong abilities of LLMs such as chatting, generalization, planning, and generation.Expand
+
+*   [11](https://www.semanticscholar.org/paper/6b395e45a8c54064ca1f68116912170e146e8506#citing-papers)
+
+*   1 Excerpt
+
+Save
+
+...
+
+1
+
+2
+
+3
+
+4
+
+5
+
+...
+
+139 References
+--------------
+
+Citation Type
+
+Has PDF
+
+Author
+
+More Filters
+
+More Filters
+
+Filters
+
+[### GenRec: Large Language Model for Generative Recommendation](https://www.semanticscholar.org/paper/GenRec%3A-Large-Language-Model-for-Generative-Ji-Li/d9ff3db7a9e37fe0363bb87aa47acd6b6b67977e)
+
+[Jianchao Ji](https://www.semanticscholar.org/author/Jianchao-Ji/2111810606)[Zelong Li](https://www.semanticscholar.org/author/Zelong-Li/2109968285)+4 authors [Yongfeng Zhang](https://www.semanticscholar.org/author/Yongfeng-Zhang/2145038716)
+
+Computer Science
+
+[ECIR](https://www.semanticscholar.org/venue?name=ECIR)
+
+*   2024
+
+TLDR
+
+This paper presents a novel LLM for generative recommendation (GenRec) that utilized the expressive power of LLM to directly generate the target item to recommend, rather than calculating ranking score for each candidate item one by one as in traditional discriminative recommendation.Expand
+
+*   [37](https://www.semanticscholar.org/paper/d9ff3db7a9e37fe0363bb87aa47acd6b6b67977e#citing-papers)
+[](https://www.semanticscholar.org/reader/d9ff3db7a9e37fe0363bb87aa47acd6b6b67977e)\[PDF\]
+
+Save
+
+[### Integrating Large Language Models with Graphical Session-Based Recommendation](https://www.semanticscholar.org/paper/Integrating-Large-Language-Models-with-Graphical-Guo-Cheng/117d5bd829c98acc26389c393604706c9e6d7b1d)
+
+[Naicheng Guo](https://www.semanticscholar.org/author/Naicheng-Guo/1699467744)[Hongwei Cheng](https://www.semanticscholar.org/author/Hongwei-Cheng/2148630879)[Qianqiao Liang](https://www.semanticscholar.org/author/Qianqiao-Liang/30403212)[Lin Chen](https://www.semanticscholar.org/author/Lin-Chen/2145131256)[Bing Han](https://www.semanticscholar.org/author/Bing-Han/2265727421)
+
+Computer Science
+
+[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)
+
+*   2024
+
+TLDR
+
+This paper introduces large language models with graphical Session-Based recommendation, named LLMGR, an effective framework that bridges the gap in session-based recommendation exploration by harmoniously integrating LLMs with Graph Neural Networks (GNNs) for SBR tasks.Expand
+
+*   [3](https://www.semanticscholar.org/paper/117d5bd829c98acc26389c393604706c9e6d7b1d#citing-papers)
+[](https://www.semanticscholar.org/reader/117d5bd829c98acc26389c393604706c9e6d7b1d)\[PDF\]
+
+Save
+
+[### LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking](https://www.semanticscholar.org/paper/LlamaRec%3A-Two-Stage-Recommendation-using-Large-for-Yue-Rabhi/3b3b1aba98388dead7c1cf964eff34de85b50af7)
+
+[Zhenrui Yue](https://www.semanticscholar.org/author/Zhenrui-Yue/2028213158)[Sara Rabhi](https://www.semanticscholar.org/author/Sara-Rabhi/83517571)[G. D. S. P. Moreira](https://www.semanticscholar.org/author/G.-D.-S.-P.-Moreira/2240556137)[Dong Wang](https://www.semanticscholar.org/author/Dong-Wang/2254248851)[Even Oldridge](https://www.semanticscholar.org/author/Even-Oldridge/79722739)
+
+Computer Science
+
+[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)
+
+*   2023
+
+TLDR
+
+This work proposes a two-stage framework using large language models for ranking-based recommendation (LlamaRec) that uses small-scale sequential recommenders to retrieve candidates based on the user interaction history and adopts a verbalizer-based approach that transforms output logits into probability distributions over the candidate items.Expand
+
+*   [27](https://www.semanticscholar.org/paper/3b3b1aba98388dead7c1cf964eff34de85b50af7#citing-papers)
+[](https://www.semanticscholar.org/reader/3b3b1aba98388dead7c1cf964eff34de85b50af7)\[PDF\]
+
+Save
+
+[### Pre-train, Prompt, and Recommendation: A Comprehensive Survey of Language Modeling Paradigm Adaptations in Recommender Systems](https://www.semanticscholar.org/paper/Pre-train%2C-Prompt%2C-and-Recommendation%3A-A-Survey-of-Liu-Zhang/c589a3420ba335a05c248f525ea3c6e90215e42b)
+
+[Peng Liu](https://www.semanticscholar.org/author/Peng-Liu/145779142)[Lemei Zhang](https://www.semanticscholar.org/author/Lemei-Zhang/7559523)[J. Gulla](https://www.semanticscholar.org/author/J.-Gulla/1755274)
+
+Computer Science, Linguistics
+
+[Transactions of the Association for Computational…](https://www.semanticscholar.org/venue?name=Transactions%20of%20the%20Association%20for%20Computational%20Linguistics)
+
+*   2023
+
+TLDR
+
+A comprehensive taxonomy is proposed to divide existing PLM-based recommender systems w.r.t. their training strategies and objectives and analyzes the connection between PLM-based training paradigms and different input data types for recommender systems.Expand
+
+*   [60](https://www.semanticscholar.org/paper/c589a3420ba335a05c248f525ea3c6e90215e42b#citing-papers)
+[](https://www.semanticscholar.org/reader/c589a3420ba335a05c248f525ea3c6e90215e42b)\[PDF\]
+
+Save
+
+[### Recommender Systems in the Era of Large Language Models (LLMs)](https://www.semanticscholar.org/paper/Recommender-Systems-in-the-Era-of-Large-Language-Fan-Zhao/a35f1315e91513ff0bec0c488fe175214fd9636c)
+
+[Wenqi Fan](https://www.semanticscholar.org/author/Wenqi-Fan/41031455)[Zihuai Zhao](https://www.semanticscholar.org/author/Zihuai-Zhao/2186864321)+5 authors [Qing Li](https://www.semanticscholar.org/author/Qing-Li/2117897052)
+
+Computer Science
+
+[IEEE Transactions on Knowledge and Data…](https://www.semanticscholar.org/venue?name=IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering)
+
+*   2024
+
+TLDR
+
+This survey comprehensively review LLM-empowered recommender systems from various perspectives including pre-training, fine-tuning, and prompting paradigms, and comprehensively discusses the promising future directions in this emerging field.Expand
+
+*   [206](https://www.semanticscholar.org/paper/a35f1315e91513ff0bec0c488fe175214fd9636c#citing-papers)
+[](https://www.semanticscholar.org/reader/a35f1315e91513ff0bec0c488fe175214fd9636c)\[PDF\]
+
+Save
+
+[### A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://www.semanticscholar.org/paper/A-Bi-Step-Grounding-Paradigm-for-Large-Language-in-Bao-Zhang/aae1d88c70cf18ef6aa23693a4dce8204e22d087)
+
+[Keqin Bao](https://www.semanticscholar.org/author/Keqin-Bao/2188063534)[Jizhi Zhang](https://www.semanticscholar.org/author/Jizhi-Zhang/2116265843)+6 authors [Qi Tian](https://www.semanticscholar.org/author/Qi-Tian/2056267912)
+
+Computer Science
+
+[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)
+
+*   2023
+
+TLDR
+
+This paper investigates the comprehensive ranking capacity of LLMs and proposes a two-step grounding framework known as BIGRec (Bi-step Grounding Paradigm for Recommendation), which initially grounds LLMs to the recommendation space by fine-tuning them to generate meaningful tokens for items and subsequently identifies appropriate actual items that correspond to the generated tokens.Expand
+
+*   [51](https://www.semanticscholar.org/paper/aae1d88c70cf18ef6aa23693a4dce8204e22d087#citing-papers)
+[](https://www.semanticscholar.org/reader/aae1d88c70cf18ef6aa23693a4dce8204e22d087)\[PDF\]
+
+Save
+
+[### PALR: Personalization Aware LLMs for Recommendation](https://www.semanticscholar.org/paper/PALR%3A-Personalization-Aware-LLMs-for-Recommendation-Chen-Jiang/60f8a7ac53585aa2c173219e97507d6d963864e7)
+
+[Zheng Chen](https://www.semanticscholar.org/author/Zheng-Chen/2141144864)[Ziyan Jiang](https://www.semanticscholar.org/author/Ziyan-Jiang/2112347577)
+
+Computer Science
+
+[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)
+
+*   2023
+
+TLDR
+
+This paper proposes a novel framework, named PALR, which aiming to combine user history behaviors with LLMs to generate user preferred items to generate recommended items, and fine-tune a 7 billion parameters LLM for the ranking purpose.Expand
+
+*   [83](https://www.semanticscholar.org/paper/60f8a7ac53585aa2c173219e97507d6d963864e7#citing-papers)
+[](https://www.semanticscholar.org/reader/60f8a7ac53585aa2c173219e97507d6d963864e7)\[PDF\]
+
+Save
+
+[### LLM-Rec: Personalized Recommendation via Prompting Large Language Models](https://www.semanticscholar.org/paper/LLM-Rec%3A-Personalized-Recommendation-via-Prompting-Lyu-Jiang/006aa1580fae5968417538c7acb4662c7b58088f)
+
+[Hanjia Lyu](https://www.semanticscholar.org/author/Hanjia-Lyu/1486450921)[Song Jiang](https://www.semanticscholar.org/author/Song-Jiang/2249954878)[Hanqing Zeng](https://www.semanticscholar.org/author/Hanqing-Zeng/1750905107)[Yinglong Xia](https://www.semanticscholar.org/author/Yinglong-Xia/35846319)[Jiebo Luo](https://www.semanticscholar.org/author/Jiebo-Luo/2116783457)
+
+Computer Science
+
+NAACL-HLT
+
+*   2024
+
+TLDR
+
+This study introduces a novel approach, coined LLM-Rec, which incorporates four distinct prompting strategies of text enrichment for improving personalized text-based recommendations, and empirical experiments reveal that using LLM-augmented text significantly enhances recommendation quality.Expand
+
+*   [36](https://www.semanticscholar.org/paper/006aa1580fae5968417538c7acb4662c7b58088f#citing-papers)
+[](https://www.semanticscholar.org/reader/006aa1580fae5968417538c7acb4662c7b58088f)\[PDF\]
+
+*   1 Excerpt
+
+Save
+
+[### TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation](https://www.semanticscholar.org/paper/TALLRec%3A-An-Effective-and-Efficient-Tuning-to-Align-Bao-Zhang/3487c12512fa41d3a4d64f00cb842525a8590ad3)
+
+[Keqin Bao](https://www.semanticscholar.org/author/Keqin-Bao/2188063534)[Jizhi Zhang](https://www.semanticscholar.org/author/Jizhi-Zhang/2116265843)[Yang Zhang](https://www.semanticscholar.org/author/Yang-Zhang/2145957648)[Wenjie Wang](https://www.semanticscholar.org/author/Wenjie-Wang/2117833732)[Fuli Feng](https://www.semanticscholar.org/author/Fuli-Feng/2163400298)[Xiangnan He](https://www.semanticscholar.org/author/Xiangnan-He/7792071)
+
+Computer Science
+
+[RecSys](https://www.semanticscholar.org/venue?name=RecSys)
+
+*   2023
+
+TLDR
+
+It is demonstrated that the proposed TALLRec framework can significantly enhance the recommendation capabilities of LLMs in the movie and book domains, even with a limited dataset of fewer than 100 samples.Expand
+
+*   [232](https://www.semanticscholar.org/paper/3487c12512fa41d3a4d64f00cb842525a8590ad3#citing-papers)
+[](https://www.semanticscholar.org/reader/3487c12512fa41d3a4d64f00cb842525a8590ad3)\[PDF\]
+
+Save
+
+[### Collaborative Large Language Model for Recommender Systems](https://www.semanticscholar.org/paper/Collaborative-Large-Language-Model-for-Recommender-Zhu-Wu/6531e6b6b8e43901a804fe3f03dd941c4e781718)
+
+[Yaochen Zhu](https://www.semanticscholar.org/author/Yaochen-Zhu/2261804201)[Liang Wu](https://www.semanticscholar.org/author/Liang-Wu/2264480350)[Qilnli Guo](https://www.semanticscholar.org/author/Qilnli-Guo/2170992709)[Liangjie Hong](https://www.semanticscholar.org/author/Liangjie-Hong/2264620213)[Jundong Li](https://www.semanticscholar.org/author/Jundong-Li/2261788139)
+
+Computer Science
+
+[WWW](https://www.semanticscholar.org/venue?name=WWW)
+
+*   2024
+
+TLDR
+
+A novel soft+hard prompting strategy is proposed to effectively learn user/item collaborative/content token embeddings via language modeling on RS-specific corpora, and a novel recommendation-oriented finetuning strategy is proposed for CLLM4Rec.Expand
+
+*   [39](https://www.semanticscholar.org/paper/6531e6b6b8e43901a804fe3f03dd941c4e781718#citing-papers)
+[](https://www.semanticscholar.org/reader/6531e6b6b8e43901a804fe3f03dd941c4e781718)\[PDF\]
+
+Save
+
+...
+
+1
+
+2
+
+3
+
+4
+
+5
+
+...
+
+Related Papers
+--------------
+
+Showing 1 through 3 of 0 Related Papers
+
+*   [Figures and Tables](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#extracted)
+*   [Topics](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#paper-topics)
+*   [230 Citations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)
+*   [139 References](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#cited-papers)
+*   [Related Papers](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#related-papers)
+
+Stay Connected With Semantic Scholar
+
+Sign Up
+
+What Is Semantic Scholar?
+-------------------------
+
+Semantic Scholar is a free, AI-powered research tool for scientific literature, based at Ai2.
+
+[Learn More](https://www.semanticscholar.org/about)
+
+### About
+
+[About Us](https://www.semanticscholar.org/about)[Meet the Team](https://www.semanticscholar.org/about/team)[Publishers](https://www.semanticscholar.org/about/publishers)[Blog (opens in a new tab)](https://medium.com/ai2-blog/semantic-scholar/home)[Ai2 Careers (opens in a new tab)](https://allenai.org/careers?team=semantic+scholar#current-openings)
+
+### Product
+
+[Product Overview](https://www.semanticscholar.org/product)[Semantic Reader](https://www.semanticscholar.org/product/semantic-reader)[Scholar's Hub](https://www.semanticscholar.org/product/scholars-hub)[Beta Program](https://www.semanticscholar.org/product/beta-program)[Release Notes](https://www.semanticscholar.org/product/release-notes)
+
+### API
+
+[API Overview](https://www.semanticscholar.org/product/api)[API Tutorials](https://www.semanticscholar.org/product/api%2Ftutorial)[API Documentation (opens in a new tab)](https://api.semanticscholar.org/api-docs/)[API Gallery](https://www.semanticscholar.org/product/api%2Fgallery)
+
+### Research
+
+[Publications](https://www.semanticscholar.org/research/publications)[Researchers](https://www.semanticscholar.org/research/research-team)[Research Careers](https://www.semanticscholar.org/research/careers)[Prototypes](https://www.semanticscholar.org/research/prototypes)[Resources](https://www.semanticscholar.org/resources)
+
+### Help
+
+[FAQ](https://www.semanticscholar.org/faq)[Librarians](https://www.semanticscholar.org/about/librarians)[Tutorials](https://www.semanticscholar.org/product/tutorials)Contact
+
+Proudly built by [Ai2 (opens in a new tab)](http://allenai.org/)
+
+Collaborators & Attributions •[Terms of Service (opens in a new tab)](https://allenai.org/terms)•[Privacy Policy (opens in a new tab)](https://allenai.org/privacy-policy.html)•[API License Agreement](https://www.semanticscholar.org/product/api/license)
+
+[The Allen Institute for AI (opens in a new tab)](http://allenai.org/)
+
+By clicking accept or continuing to use the site, you agree to the terms outlined in our [Privacy Policy (opens in a new tab)](https://allenai.org/privacy-policy.html), [Terms of Service (opens in a new tab)](https://allenai.org/terms), and [Dataset License (opens in a new tab)](http://api.semanticscholar.org/corpus/legal)
+
+ACCEPT & CONTINUE
+
+## Metadata
+
+```json
+{
+  "title": "[PDF] A Survey on Large Language Models for Recommendation | Semantic Scholar",
+  "description": "This survey presents a taxonomy that categorizes existing LLM-based recommendation systems into two major paradigms, respectively Discriminative LLM for Recommendation (DLLM4Rec) and Generative LLL4Rec (GLLM 4Rec), with the latter being systematically sorted out for the first time. Large Language Models (LLMs) have emerged as powerful tools in the field of Natural Language Processing (NLP) and have recently gained significant attention in the domain of Recommendation Systems (RS). These models, trained on massive amounts of data using self-supervised learning, have demonstrated remarkable success in learning universal representations and have the potential to enhance various aspects of recommendation systems by some effective transfer techniques such as fine-tuning and prompt tuning, and so on. The crucial aspect of harnessing the power of language models in enhancing recommendation quality is the utilization of their high-quality representations of textual features and their extensive coverage of external knowledge to establish correlations between items and users. To provide a comprehensive understanding of the existing LLM-based recommendation systems, this survey presents a taxonomy that categorizes these models into two major paradigms, respectively Discriminative LLM for Recommendation (DLLM4Rec) and Generative LLM for Recommendation (GLLM4Rec), with the latter being systematically sorted out for the first time. Furthermore, we systematically review and analyze existing LLM-based recommendation systems within each paradigm, providing insights into their methodologies, techniques, and performance. Additionally, we identify key challenges and several valuable findings to provide researchers and practitioners with inspiration. We have also created a GitHub repository to index relevant papers on LLMs for recommendation, https://github.com/WLiK/LLM4Rec.",
+  "url": "https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488",
+  "content": "\\[PDF\\] A Survey on Large Language Models for Recommendation | Semantic Scholar\n===============\n                                                                   \n\n[Skip to search form](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#search-form)[Skip to main content](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#main-content)[Skip to account menu](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#account-menu)\n\n[](https://www.semanticscholar.org/)\n\nSearch 223,685,222 papers from all fields of science\n\nSearch\n\nSign InCreate Free Account\n\n*   DOI:[10.48550/arXiv.2305.19860](https://doi.org/10.48550/arXiv.2305.19860)\n    \n*   Corpus ID: 258987581\n\nA Survey on Large Language Models for Recommendation\n====================================================\n\n@article{Wu2023ASO,\n  title={A Survey on Large Language Models for Recommendation},\n  author={Likang Wu and Zhilan Zheng and Zhaopeng Qiu and Hao Wang and Hongchao Gu and Tingjia Shen and Chuan Qin and Chen Zhu and Hengshu Zhu and Qi Liu and Hui Xiong and Enhong Chen},\n  journal={ArXiv},\n  year={2023},\n  volume={abs/2305.19860},\n  url={https://api.semanticscholar.org/CorpusID:258987581}\n}\n\n*   [Likang Wu](https://www.semanticscholar.org/author/Likang-Wu/12892739), [Zhilan Zheng](https://www.semanticscholar.org/author/Zhilan-Zheng/2115548818), +9 authors [Enhong Chen](https://www.semanticscholar.org/author/Enhong-Chen/2173129111)\n*   Published in [World wide web (Bussum)](https://www.semanticscholar.org/venue?name=World%20wide%20web%20%28Bussum%29) 31 May 2023\n*   Computer Science\n\nTLDR\n\nThis survey presents a taxonomy that categorizes existing LLM-based recommendation systems into two major paradigms, respectively Discriminative LLM for Recommendation (DLLM4Rec) and Generative LLL4Rec (GLLM 4Rec), with the latter being systematically sorted out for the first time.Expand\n\n[](https://www.semanticscholar.org/reader/b486982fa7c68a8a08df1111ba9607119419c488)\\[PDF\\] Semantic Reader\n\nSave to LibrarySave\n\nCreate AlertAlert\n\nCite\n\nShare\n\n230 Citations\n\n[Highly Influential Citations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)[](https://www.semanticscholar.org/faq#influential-citations)\n\n5\n\n[Background Citations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)\n\n137\n\n[Methods Citations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)\n\n28\n\n[Results Citations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)\n\n3\n\n[View All](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)\n\nFigures and Tables from this paper\n----------------------------------\n\n*   [![Image 6: figure 1](https://figures.semanticscholar.org/b486982fa7c68a8a08df1111ba9607119419c488/3-Figure1-1.png) figure 1](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488/figure/0)\n*   [![Image 7: table 1](https://figures.semanticscholar.org/b486982fa7c68a8a08df1111ba9607119419c488/8-Table1-1.png) table 1](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488/figure/1)\n*   [![Image 8: figure 2](https://figures.semanticscholar.org/b486982fa7c68a8a08df1111ba9607119419c488/4-Figure2-1.png) figure 2](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488/figure/2)\n*   [![Image 9: table 2](https://figures.semanticscholar.org/b486982fa7c68a8a08df1111ba9607119419c488/9-Table2-1.png) table 2](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488/figure/3)\n*   [![Image 10: figure 3](https://figures.semanticscholar.org/b486982fa7c68a8a08df1111ba9607119419c488/4-Figure3-1.png) figure 3](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488/figure/4)\n\nView All 5 Figures & Tables\n\nTopics\n------\n\nAI-Generated\n\n[LLM-based Recommendation Systems (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/64162835186?corpusId=258987581)[U-BERT (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/60759569711?corpusId=258987581)[UserBERT (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/14248112159?corpusId=258987581)[TALLRec (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/28023141246?corpusId=258987581)[GenRec (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/54404699972?corpusId=258987581)[RecAgent (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/47158422528?corpusId=258987581)[Downstream Recommendation Tasks (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/40628779225?corpusId=258987581)[GeneRec (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/158457212?corpusId=258987581)[Narrative-driven Recommendation (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/49409395399?corpusId=258987581)[Recommendation Systems (opens in a new tab)](https://topics-beta.apps.semanticscholar.org/topic/1361345639?corpusId=258987581)\n\n230 Citations\n-------------\n\nCitation Type\n\nHas PDF\n\nAuthor\n\nMore Filters\n\nMore Filters\n\nFilters\n\n[### HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling](https://www.semanticscholar.org/paper/HLLM%3A-Enhancing-Sequential-Recommendations-via-for-Chen-Chi/b230b3c043b0671985bd56fcb0b23f3e9e29c762)\n\n[Junyi Chen](https://www.semanticscholar.org/author/Junyi-Chen/2267534266)[Lu Chi](https://www.semanticscholar.org/author/Lu-Chi/2321846152)[Bingyue Peng](https://www.semanticscholar.org/author/Bingyue-Peng/2294806434)[Zehuan Yuan](https://www.semanticscholar.org/author/Zehuan-Yuan/2244754235)\n\nComputer Science\n\n[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)\n\n*   2024\n\nTLDR\n\nThis paper proposes a novel Hierarchical Large Language Model architecture designed to enhance sequential recommendation systems, which employs a two-tier model: the first Item LLM extracts rich content features from the detailed text description of the item, while the second User LLM utilizes these features to predict users' future interests based on their interaction history.Expand\n\n*   [2](https://www.semanticscholar.org/paper/b230b3c043b0671985bd56fcb0b23f3e9e29c762#citing-papers)\n[](https://www.semanticscholar.org/reader/b230b3c043b0671985bd56fcb0b23f3e9e29c762)\\[PDF\\]\n\nSave\n\n[### Large Language Models for Generative Recommendation: A Survey and Visionary Discussions](https://www.semanticscholar.org/paper/Large-Language-Models-for-Generative-A-Survey-and-Li-Zhang/a1081c6fc6921d6b76d9ebda4d712333fd7bbbf5)\n\n[Lei Li](https://www.semanticscholar.org/author/Lei-Li/2151529879)[Yongfeng Zhang](https://www.semanticscholar.org/author/Yongfeng-Zhang/1739818)[Dugang Liu](https://www.semanticscholar.org/author/Dugang-Liu/2237956346)[L. Chen](https://www.semanticscholar.org/author/L.-Chen/152875291)\n\nComputer Science\n\n[LREC](https://www.semanticscholar.org/venue?name=LREC)\n\n*   2024\n\nTLDR\n\nThis survey reviews the progress, methods, and future directions of LLM-based generative recommendation by examining three questions: 1) What generative recommendation is, 2) Why RS should advance to generative recommendation, and 3) How to implement LLM-based generative recommendation for various RS tasks.Expand\n\n*   [53](https://www.semanticscholar.org/paper/a1081c6fc6921d6b76d9ebda4d712333fd7bbbf5#citing-papers)\n[](https://www.semanticscholar.org/reader/a1081c6fc6921d6b76d9ebda4d712333fd7bbbf5)\\[PDF\\]\n\n*   1 Excerpt\n\nSave\n\n[### A Survey on Large Language Models for Personalized and Explainable Recommendations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Personalized-Chen/9aeebfab9e27a4cecf7f488fca2d0bf07e06ae15)\n\n[Junyi Chen](https://www.semanticscholar.org/author/Junyi-Chen/2267534266)\n\nComputer Science\n\n[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)\n\n*   2023\n\nTLDR\n\nThis survey aims to analyze how RS can benefit from LLM-based methodologies, and describes major challenges in Personalized Explanation Generating tasks, which are cold-start problems, unfairness and bias problems in RS.Expand\n\n*   [11](https://www.semanticscholar.org/paper/9aeebfab9e27a4cecf7f488fca2d0bf07e06ae15#citing-papers)\n[](https://www.semanticscholar.org/reader/9aeebfab9e27a4cecf7f488fca2d0bf07e06ae15)\\[PDF\\]\n\n*   1 Excerpt\n\nSave\n\n[### A Review of Methods Using Large Language Models in News Recommendation Systems](https://www.semanticscholar.org/paper/A-Review-of-Methods-Using-Large-Language-Models-in-Li-Feng/ebd58a28f34cfbb3ebe3f57e8d7f7502bdb690fc)\n\n[Xinmiao Li](https://www.semanticscholar.org/author/Xinmiao-Li/2321654528)[Shuang Feng](https://www.semanticscholar.org/author/Shuang-Feng/2321669613)[Xin Zhang](https://www.semanticscholar.org/author/Xin-Zhang/2322038384)\n\nComputer Science\n\n[2024 IEEE/ACIS 27th International Conference on…](https://www.semanticscholar.org/venue?name=IEEE%2FACIS%2027th%20International%20Conference%20on%20Software%20Engineering%2C%20Artificial%20Intelligence%2C%20Networking%20and%20Parallel%2FDistributed%20Computing%20%28SNPD%29)\n\n*   2024\n\nTLDR\n\nThis paper introduces the current major work in the field of news recommendation from the two categories of generative LLM-assisted recommendation and direct generative recommendation and summarizes the current work as well as the potential future research directions and challenges.Expand\n\n*   2 Excerpts\n\nSave\n\n[### Recommender Systems in the Era of Large Language Models (LLMs)](https://www.semanticscholar.org/paper/Recommender-Systems-in-the-Era-of-Large-Language-Fan-Zhao/a35f1315e91513ff0bec0c488fe175214fd9636c)\n\n[Wenqi Fan](https://www.semanticscholar.org/author/Wenqi-Fan/41031455)[Zihuai Zhao](https://www.semanticscholar.org/author/Zihuai-Zhao/2186864321)+5 authors [Qing Li](https://www.semanticscholar.org/author/Qing-Li/2117897052)\n\nComputer Science\n\n[IEEE Transactions on Knowledge and Data…](https://www.semanticscholar.org/venue?name=IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering)\n\n*   2024\n\nTLDR\n\nThis survey comprehensively review LLM-empowered recommender systems from various perspectives including pre-training, fine-tuning, and prompting paradigms, and comprehensively discusses the promising future directions in this emerging field.Expand\n\n*   [206](https://www.semanticscholar.org/paper/a35f1315e91513ff0bec0c488fe175214fd9636c#citing-papers)\n[](https://www.semanticscholar.org/reader/a35f1315e91513ff0bec0c488fe175214fd9636c)\\[PDF\\]\n\n*   1 Excerpt\n\nSave\n\n[### A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://www.semanticscholar.org/paper/A-Bi-Step-Grounding-Paradigm-for-Large-Language-in-Bao-Zhang/aae1d88c70cf18ef6aa23693a4dce8204e22d087)\n\n[Keqin Bao](https://www.semanticscholar.org/author/Keqin-Bao/2188063534)[Jizhi Zhang](https://www.semanticscholar.org/author/Jizhi-Zhang/2116265843)+6 authors [Qi Tian](https://www.semanticscholar.org/author/Qi-Tian/2056267912)\n\nComputer Science\n\n[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)\n\n*   2023\n\nTLDR\n\nThis paper investigates the comprehensive ranking capacity of LLMs and proposes a two-step grounding framework known as BIGRec (Bi-step Grounding Paradigm for Recommendation), which initially grounds LLMs to the recommendation space by fine-tuning them to generate meaningful tokens for items and subsequently identifies appropriate actual items that correspond to the generated tokens.Expand\n\n*   [51](https://www.semanticscholar.org/paper/aae1d88c70cf18ef6aa23693a4dce8204e22d087#citing-papers)\n[](https://www.semanticscholar.org/reader/aae1d88c70cf18ef6aa23693a4dce8204e22d087)\\[PDF\\]\n\n*   1 Excerpt\n\nSave\n\n[### Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages](https://www.semanticscholar.org/paper/Multilingual-Prompts-in-LLM-Based-Recommenders%3A-%C3%96zsoy/59b2280fa6f2a4b7fb7b82d3b6881d9051c22b8f)\n\n[Makbule Gülçin Özsoy](https://www.semanticscholar.org/author/Makbule-G%C3%BCl%C3%A7in-%C3%96zsoy/40918064)\n\nComputer Science, Linguistics\n\n*   2024\n\nTLDR\n\nThis work highlights the need for diverse language support in LLM-based recommenders and suggests future research on creating evaluation datasets, using newer models and additional languages.Expand\n\n*   [Highly Influenced](https://www.semanticscholar.org/paper/59b2280fa6f2a4b7fb7b82d3b6881d9051c22b8f?sort=is-influential#citing-papers)\n    \n[](https://www.semanticscholar.org/reader/59b2280fa6f2a4b7fb7b82d3b6881d9051c22b8f)\\[PDF\\]\n\n*   5 Excerpts\n\nSave\n\n[### Enhancing ID-based Recommendation with Large Language Models](https://www.semanticscholar.org/paper/Enhancing-ID-based-Recommendation-with-Large-Models-Chen-Gao/7c82d2ae8ee5c49f14f479955b599cff4cd99dd8)\n\n[Lei Chen](https://www.semanticscholar.org/author/Lei-Chen/2289911638)[Chen Gao](https://www.semanticscholar.org/author/Chen-Gao/2292022762)+4 authors [Meng Wang](https://www.semanticscholar.org/author/Meng-Wang/2146058717)\n\nComputer Science\n\nACM Transactions on Information Systems\n\n*   2024\n\nTLDR\n\nThis work introduces a pioneering approach called “LLM for ID-based Recommendation” (LLM4IDRec), which integrates the capabilities of LLMs while exclusively relying on ID data, thus diverging from the previous reliance on textual data.Expand\n\n[](https://www.semanticscholar.org/reader/7c82d2ae8ee5c49f14f479955b599cff4cd99dd8)\\[PDF\\]\n\nSave\n\n[### STAR: A Simple Training-free Approach for Recommendations using Large Language Models](https://www.semanticscholar.org/paper/STAR%3A-A-Simple-Training-free-Approach-for-using-Lee-Kraft/0545c6784b90415a3c02a823d1e89b526e772663)\n\n[Dong-Ho Lee](https://www.semanticscholar.org/author/Dong-Ho-Lee/2327177362)[Adam Kraft](https://www.semanticscholar.org/author/Adam-Kraft/2314693663)+5 authors [Xinyang Yi](https://www.semanticscholar.org/author/Xinyang-Yi/2838461)\n\nComputer Science\n\n*   2024\n\nTLDR\n\nA Simple Training-free Approach for Recommendation (STAR), a framework that utilizes LLMs and can be applied to various recommendation tasks without the need for fine-tuning, highlighting the potential of LLMs in recommendation systems without extensive training or custom architectures.Expand\n\n[](https://www.semanticscholar.org/reader/0545c6784b90415a3c02a823d1e89b526e772663)\\[PDF\\]\n\n*   1 Excerpt\n\nSave\n\n[### Large Language Models for Recommendation: Progresses and Future Directions](https://www.semanticscholar.org/paper/Large-Language-Models-for-Recommendation%3A-and-Bao-Zhang/6b395e45a8c54064ca1f68116912170e146e8506)\n\n[Keqin Bao](https://www.semanticscholar.org/author/Keqin-Bao/2188063534)[Jizhi Zhang](https://www.semanticscholar.org/author/Jizhi-Zhang/2116265843)[Yang Zhang](https://www.semanticscholar.org/author/Yang-Zhang/2145957648)[Wenjie Wang](https://www.semanticscholar.org/author/Wenjie-Wang/2117833732)[Fuli Feng](https://www.semanticscholar.org/author/Fuli-Feng/2163400298)[Xiangnan He](https://www.semanticscholar.org/author/Xiangnan-He/2239071206)\n\nComputer Science\n\nSIGIR-AP\n\n*   2023\n\nTLDR\n\nThis tutorial aims to retrospect the evolution of LLM4Rec and conduct a comprehensive review of existing research, clarifying how recommender systems benefit from LLMs through a variety of perspectives, including the model architecture, learning paradigm, and the strong abilities of LLMs such as chatting, generalization, planning, and generation.Expand\n\n*   [11](https://www.semanticscholar.org/paper/6b395e45a8c54064ca1f68116912170e146e8506#citing-papers)\n\n*   1 Excerpt\n\nSave\n\n...\n\n1\n\n2\n\n3\n\n4\n\n5\n\n...\n\n139 References\n--------------\n\nCitation Type\n\nHas PDF\n\nAuthor\n\nMore Filters\n\nMore Filters\n\nFilters\n\n[### GenRec: Large Language Model for Generative Recommendation](https://www.semanticscholar.org/paper/GenRec%3A-Large-Language-Model-for-Generative-Ji-Li/d9ff3db7a9e37fe0363bb87aa47acd6b6b67977e)\n\n[Jianchao Ji](https://www.semanticscholar.org/author/Jianchao-Ji/2111810606)[Zelong Li](https://www.semanticscholar.org/author/Zelong-Li/2109968285)+4 authors [Yongfeng Zhang](https://www.semanticscholar.org/author/Yongfeng-Zhang/2145038716)\n\nComputer Science\n\n[ECIR](https://www.semanticscholar.org/venue?name=ECIR)\n\n*   2024\n\nTLDR\n\nThis paper presents a novel LLM for generative recommendation (GenRec) that utilized the expressive power of LLM to directly generate the target item to recommend, rather than calculating ranking score for each candidate item one by one as in traditional discriminative recommendation.Expand\n\n*   [37](https://www.semanticscholar.org/paper/d9ff3db7a9e37fe0363bb87aa47acd6b6b67977e#citing-papers)\n[](https://www.semanticscholar.org/reader/d9ff3db7a9e37fe0363bb87aa47acd6b6b67977e)\\[PDF\\]\n\nSave\n\n[### Integrating Large Language Models with Graphical Session-Based Recommendation](https://www.semanticscholar.org/paper/Integrating-Large-Language-Models-with-Graphical-Guo-Cheng/117d5bd829c98acc26389c393604706c9e6d7b1d)\n\n[Naicheng Guo](https://www.semanticscholar.org/author/Naicheng-Guo/1699467744)[Hongwei Cheng](https://www.semanticscholar.org/author/Hongwei-Cheng/2148630879)[Qianqiao Liang](https://www.semanticscholar.org/author/Qianqiao-Liang/30403212)[Lin Chen](https://www.semanticscholar.org/author/Lin-Chen/2145131256)[Bing Han](https://www.semanticscholar.org/author/Bing-Han/2265727421)\n\nComputer Science\n\n[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)\n\n*   2024\n\nTLDR\n\nThis paper introduces large language models with graphical Session-Based recommendation, named LLMGR, an effective framework that bridges the gap in session-based recommendation exploration by harmoniously integrating LLMs with Graph Neural Networks (GNNs) for SBR tasks.Expand\n\n*   [3](https://www.semanticscholar.org/paper/117d5bd829c98acc26389c393604706c9e6d7b1d#citing-papers)\n[](https://www.semanticscholar.org/reader/117d5bd829c98acc26389c393604706c9e6d7b1d)\\[PDF\\]\n\nSave\n\n[### LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking](https://www.semanticscholar.org/paper/LlamaRec%3A-Two-Stage-Recommendation-using-Large-for-Yue-Rabhi/3b3b1aba98388dead7c1cf964eff34de85b50af7)\n\n[Zhenrui Yue](https://www.semanticscholar.org/author/Zhenrui-Yue/2028213158)[Sara Rabhi](https://www.semanticscholar.org/author/Sara-Rabhi/83517571)[G. D. S. P. Moreira](https://www.semanticscholar.org/author/G.-D.-S.-P.-Moreira/2240556137)[Dong Wang](https://www.semanticscholar.org/author/Dong-Wang/2254248851)[Even Oldridge](https://www.semanticscholar.org/author/Even-Oldridge/79722739)\n\nComputer Science\n\n[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)\n\n*   2023\n\nTLDR\n\nThis work proposes a two-stage framework using large language models for ranking-based recommendation (LlamaRec) that uses small-scale sequential recommenders to retrieve candidates based on the user interaction history and adopts a verbalizer-based approach that transforms output logits into probability distributions over the candidate items.Expand\n\n*   [27](https://www.semanticscholar.org/paper/3b3b1aba98388dead7c1cf964eff34de85b50af7#citing-papers)\n[](https://www.semanticscholar.org/reader/3b3b1aba98388dead7c1cf964eff34de85b50af7)\\[PDF\\]\n\nSave\n\n[### Pre-train, Prompt, and Recommendation: A Comprehensive Survey of Language Modeling Paradigm Adaptations in Recommender Systems](https://www.semanticscholar.org/paper/Pre-train%2C-Prompt%2C-and-Recommendation%3A-A-Survey-of-Liu-Zhang/c589a3420ba335a05c248f525ea3c6e90215e42b)\n\n[Peng Liu](https://www.semanticscholar.org/author/Peng-Liu/145779142)[Lemei Zhang](https://www.semanticscholar.org/author/Lemei-Zhang/7559523)[J. Gulla](https://www.semanticscholar.org/author/J.-Gulla/1755274)\n\nComputer Science, Linguistics\n\n[Transactions of the Association for Computational…](https://www.semanticscholar.org/venue?name=Transactions%20of%20the%20Association%20for%20Computational%20Linguistics)\n\n*   2023\n\nTLDR\n\nA comprehensive taxonomy is proposed to divide existing PLM-based recommender systems w.r.t. their training strategies and objectives and analyzes the connection between PLM-based training paradigms and different input data types for recommender systems.Expand\n\n*   [60](https://www.semanticscholar.org/paper/c589a3420ba335a05c248f525ea3c6e90215e42b#citing-papers)\n[](https://www.semanticscholar.org/reader/c589a3420ba335a05c248f525ea3c6e90215e42b)\\[PDF\\]\n\nSave\n\n[### Recommender Systems in the Era of Large Language Models (LLMs)](https://www.semanticscholar.org/paper/Recommender-Systems-in-the-Era-of-Large-Language-Fan-Zhao/a35f1315e91513ff0bec0c488fe175214fd9636c)\n\n[Wenqi Fan](https://www.semanticscholar.org/author/Wenqi-Fan/41031455)[Zihuai Zhao](https://www.semanticscholar.org/author/Zihuai-Zhao/2186864321)+5 authors [Qing Li](https://www.semanticscholar.org/author/Qing-Li/2117897052)\n\nComputer Science\n\n[IEEE Transactions on Knowledge and Data…](https://www.semanticscholar.org/venue?name=IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering)\n\n*   2024\n\nTLDR\n\nThis survey comprehensively review LLM-empowered recommender systems from various perspectives including pre-training, fine-tuning, and prompting paradigms, and comprehensively discusses the promising future directions in this emerging field.Expand\n\n*   [206](https://www.semanticscholar.org/paper/a35f1315e91513ff0bec0c488fe175214fd9636c#citing-papers)\n[](https://www.semanticscholar.org/reader/a35f1315e91513ff0bec0c488fe175214fd9636c)\\[PDF\\]\n\nSave\n\n[### A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://www.semanticscholar.org/paper/A-Bi-Step-Grounding-Paradigm-for-Large-Language-in-Bao-Zhang/aae1d88c70cf18ef6aa23693a4dce8204e22d087)\n\n[Keqin Bao](https://www.semanticscholar.org/author/Keqin-Bao/2188063534)[Jizhi Zhang](https://www.semanticscholar.org/author/Jizhi-Zhang/2116265843)+6 authors [Qi Tian](https://www.semanticscholar.org/author/Qi-Tian/2056267912)\n\nComputer Science\n\n[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)\n\n*   2023\n\nTLDR\n\nThis paper investigates the comprehensive ranking capacity of LLMs and proposes a two-step grounding framework known as BIGRec (Bi-step Grounding Paradigm for Recommendation), which initially grounds LLMs to the recommendation space by fine-tuning them to generate meaningful tokens for items and subsequently identifies appropriate actual items that correspond to the generated tokens.Expand\n\n*   [51](https://www.semanticscholar.org/paper/aae1d88c70cf18ef6aa23693a4dce8204e22d087#citing-papers)\n[](https://www.semanticscholar.org/reader/aae1d88c70cf18ef6aa23693a4dce8204e22d087)\\[PDF\\]\n\nSave\n\n[### PALR: Personalization Aware LLMs for Recommendation](https://www.semanticscholar.org/paper/PALR%3A-Personalization-Aware-LLMs-for-Recommendation-Chen-Jiang/60f8a7ac53585aa2c173219e97507d6d963864e7)\n\n[Zheng Chen](https://www.semanticscholar.org/author/Zheng-Chen/2141144864)[Ziyan Jiang](https://www.semanticscholar.org/author/Ziyan-Jiang/2112347577)\n\nComputer Science\n\n[ArXiv](https://www.semanticscholar.org/venue?name=ArXiv)\n\n*   2023\n\nTLDR\n\nThis paper proposes a novel framework, named PALR, which aiming to combine user history behaviors with LLMs to generate user preferred items to generate recommended items, and fine-tune a 7 billion parameters LLM for the ranking purpose.Expand\n\n*   [83](https://www.semanticscholar.org/paper/60f8a7ac53585aa2c173219e97507d6d963864e7#citing-papers)\n[](https://www.semanticscholar.org/reader/60f8a7ac53585aa2c173219e97507d6d963864e7)\\[PDF\\]\n\nSave\n\n[### LLM-Rec: Personalized Recommendation via Prompting Large Language Models](https://www.semanticscholar.org/paper/LLM-Rec%3A-Personalized-Recommendation-via-Prompting-Lyu-Jiang/006aa1580fae5968417538c7acb4662c7b58088f)\n\n[Hanjia Lyu](https://www.semanticscholar.org/author/Hanjia-Lyu/1486450921)[Song Jiang](https://www.semanticscholar.org/author/Song-Jiang/2249954878)[Hanqing Zeng](https://www.semanticscholar.org/author/Hanqing-Zeng/1750905107)[Yinglong Xia](https://www.semanticscholar.org/author/Yinglong-Xia/35846319)[Jiebo Luo](https://www.semanticscholar.org/author/Jiebo-Luo/2116783457)\n\nComputer Science\n\nNAACL-HLT\n\n*   2024\n\nTLDR\n\nThis study introduces a novel approach, coined LLM-Rec, which incorporates four distinct prompting strategies of text enrichment for improving personalized text-based recommendations, and empirical experiments reveal that using LLM-augmented text significantly enhances recommendation quality.Expand\n\n*   [36](https://www.semanticscholar.org/paper/006aa1580fae5968417538c7acb4662c7b58088f#citing-papers)\n[](https://www.semanticscholar.org/reader/006aa1580fae5968417538c7acb4662c7b58088f)\\[PDF\\]\n\n*   1 Excerpt\n\nSave\n\n[### TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation](https://www.semanticscholar.org/paper/TALLRec%3A-An-Effective-and-Efficient-Tuning-to-Align-Bao-Zhang/3487c12512fa41d3a4d64f00cb842525a8590ad3)\n\n[Keqin Bao](https://www.semanticscholar.org/author/Keqin-Bao/2188063534)[Jizhi Zhang](https://www.semanticscholar.org/author/Jizhi-Zhang/2116265843)[Yang Zhang](https://www.semanticscholar.org/author/Yang-Zhang/2145957648)[Wenjie Wang](https://www.semanticscholar.org/author/Wenjie-Wang/2117833732)[Fuli Feng](https://www.semanticscholar.org/author/Fuli-Feng/2163400298)[Xiangnan He](https://www.semanticscholar.org/author/Xiangnan-He/7792071)\n\nComputer Science\n\n[RecSys](https://www.semanticscholar.org/venue?name=RecSys)\n\n*   2023\n\nTLDR\n\nIt is demonstrated that the proposed TALLRec framework can significantly enhance the recommendation capabilities of LLMs in the movie and book domains, even with a limited dataset of fewer than 100 samples.Expand\n\n*   [232](https://www.semanticscholar.org/paper/3487c12512fa41d3a4d64f00cb842525a8590ad3#citing-papers)\n[](https://www.semanticscholar.org/reader/3487c12512fa41d3a4d64f00cb842525a8590ad3)\\[PDF\\]\n\nSave\n\n[### Collaborative Large Language Model for Recommender Systems](https://www.semanticscholar.org/paper/Collaborative-Large-Language-Model-for-Recommender-Zhu-Wu/6531e6b6b8e43901a804fe3f03dd941c4e781718)\n\n[Yaochen Zhu](https://www.semanticscholar.org/author/Yaochen-Zhu/2261804201)[Liang Wu](https://www.semanticscholar.org/author/Liang-Wu/2264480350)[Qilnli Guo](https://www.semanticscholar.org/author/Qilnli-Guo/2170992709)[Liangjie Hong](https://www.semanticscholar.org/author/Liangjie-Hong/2264620213)[Jundong Li](https://www.semanticscholar.org/author/Jundong-Li/2261788139)\n\nComputer Science\n\n[WWW](https://www.semanticscholar.org/venue?name=WWW)\n\n*   2024\n\nTLDR\n\nA novel soft+hard prompting strategy is proposed to effectively learn user/item collaborative/content token embeddings via language modeling on RS-specific corpora, and a novel recommendation-oriented finetuning strategy is proposed for CLLM4Rec.Expand\n\n*   [39](https://www.semanticscholar.org/paper/6531e6b6b8e43901a804fe3f03dd941c4e781718#citing-papers)\n[](https://www.semanticscholar.org/reader/6531e6b6b8e43901a804fe3f03dd941c4e781718)\\[PDF\\]\n\nSave\n\n...\n\n1\n\n2\n\n3\n\n4\n\n5\n\n...\n\nRelated Papers\n--------------\n\nShowing 1 through 3 of 0 Related Papers\n\n*   [Figures and Tables](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#extracted)\n*   [Topics](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#paper-topics)\n*   [230 Citations](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#citing-papers)\n*   [139 References](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#cited-papers)\n*   [Related Papers](https://www.semanticscholar.org/paper/A-Survey-on-Large-Language-Models-for-Wu-Zheng/b486982fa7c68a8a08df1111ba9607119419c488#related-papers)\n\nStay Connected With Semantic Scholar\n\nSign Up\n\nWhat Is Semantic Scholar?\n-------------------------\n\nSemantic Scholar is a free, AI-powered research tool for scientific literature, based at Ai2.\n\n[Learn More](https://www.semanticscholar.org/about)\n\n### About\n\n[About Us](https://www.semanticscholar.org/about)[Meet the Team](https://www.semanticscholar.org/about/team)[Publishers](https://www.semanticscholar.org/about/publishers)[Blog (opens in a new tab)](https://medium.com/ai2-blog/semantic-scholar/home)[Ai2 Careers (opens in a new tab)](https://allenai.org/careers?team=semantic+scholar#current-openings)\n\n### Product\n\n[Product Overview](https://www.semanticscholar.org/product)[Semantic Reader](https://www.semanticscholar.org/product/semantic-reader)[Scholar's Hub](https://www.semanticscholar.org/product/scholars-hub)[Beta Program](https://www.semanticscholar.org/product/beta-program)[Release Notes](https://www.semanticscholar.org/product/release-notes)\n\n### API\n\n[API Overview](https://www.semanticscholar.org/product/api)[API Tutorials](https://www.semanticscholar.org/product/api%2Ftutorial)[API Documentation (opens in a new tab)](https://api.semanticscholar.org/api-docs/)[API Gallery](https://www.semanticscholar.org/product/api%2Fgallery)\n\n### Research\n\n[Publications](https://www.semanticscholar.org/research/publications)[Researchers](https://www.semanticscholar.org/research/research-team)[Research Careers](https://www.semanticscholar.org/research/careers)[Prototypes](https://www.semanticscholar.org/research/prototypes)[Resources](https://www.semanticscholar.org/resources)\n\n### Help\n\n[FAQ](https://www.semanticscholar.org/faq)[Librarians](https://www.semanticscholar.org/about/librarians)[Tutorials](https://www.semanticscholar.org/product/tutorials)Contact\n\nProudly built by [Ai2 (opens in a new tab)](http://allenai.org/)\n\nCollaborators & Attributions •[Terms of Service (opens in a new tab)](https://allenai.org/terms)•[Privacy Policy (opens in a new tab)](https://allenai.org/privacy-policy.html)•[API License Agreement](https://www.semanticscholar.org/product/api/license)\n\n[The Allen Institute for AI (opens in a new tab)](http://allenai.org/)\n\nBy clicking accept or continuing to use the site, you agree to the terms outlined in our [Privacy Policy (opens in a new tab)](https://allenai.org/privacy-policy.html), [Terms of Service (opens in a new tab)](https://allenai.org/terms), and [Dataset License (opens in a new tab)](http://api.semanticscholar.org/corpus/legal)\n\nACCEPT & CONTINUE",
+  "usage": {
+    "tokens": 9566
+  }
+}
+```

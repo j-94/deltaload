@@ -1,0 +1,235 @@
+---
+title: Everything Starts as a Square
+description: A book and video course that teaches you how to design your own icons from scratch.
+url: https://getplans.vercel.app/
+timestamp: 2025-01-20T16:09:09.176Z
+domain: getplans.vercel.app
+path: root
+---
+
+# Everything Starts as a Square
+
+
+A book and video course that teaches you how to design your own icons from scratch.
+
+
+## Content
+
+![Image 37](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcover.63d6cb7d.png&w=1920&q=75)
+
+> “This method of designing icons is genius. I wish I had known this method a lot sooner.”
+
+**Stacey Solomon**, Founder at Retail Park
+
+A book and video course that teaches you how to design your own icons from scratch.
+
+“Everything Starts as a Square” is a book and video course that teaches you a simple method to designing icons that anyone can learn.
+
+Before I learned how to design icons myself, I always imagined that they were drawn by hand using the pen tool, some sort of fancy graphics tablet, and hours and hours spent manually fine-tuning bezier curves.
+
+But it turns out this isn’t how great icon designers work at all.
+
+In “Everything Starts as a Square”, you’ll learn the systems experts use to create pixel perfect icons, without relying on a steady hand.
+
+*   Using boolean operations to combine basic shapes into complex icons
+*   How to adapt icons to different sizes
+*   Translating icons from an outline style to a solid style
+*   Identifying the characteristics that make an icon set cohesive
+*   Figma features and keyboard shortcuts to speed up your workflow
+
+By the end of the book, you’ll have all the confidence you need to dig in and start creating beautiful icons that can hold their own against any of the sets you can find online.
+
+[Get two free chapters straight to your inbox](https://getplans.vercel.app/#free-chapters)
+
+Table of contents
+-----------------
+
+Get a look at all of the content covered in the book. Everything you need to know is inside.
+
+“Everything Starts as a Square” is comprised of 240 tightly edited, highly visual pages designed to teach you everything you need to know about icon design with no unnecessary filler.
+
+1.  ### Getting started
+    
+2.  ### Fundamentals
+    
+
+Screencasts
+-----------
+
+Over an hour of high quality, step-by-step video content to sharpen your icon design workflow.
+
+Learn how to design your very first icons in a series of screencasts that will teach you everything you need to know to go from beginner to pro in just over an hour.
+
+1.  ![Image 38](https://getplans.vercel.app/_next/static/media/setup.5831258d.svg)
+    
+    ### Getting started with Figma
+    
+    Get familiar with the Figma UI, the different tools it offers, and the most important features.
+    
+2.  ![Image 39](https://getplans.vercel.app/_next/static/media/grids.8de62b9c.svg)
+    
+    ### Setting up your artboard
+    
+    Learn how to create a new artboard and configure your grid and rulers for designing icons.
+    
+3.  ![Image 40](https://getplans.vercel.app/_next/static/media/strokes.4d47a8e4.svg)
+    
+    ### Designing your first icon
+    
+    Using basic shapes and boolean operations, learn how to design your own notification icon from scratch.
+    
+4.  ![Image 41](https://getplans.vercel.app/_next/static/media/duotone.5f204d45.svg)
+    
+    ### Advanced design techniques
+    
+    Learn the techniques you need to know to adapt your original icon to a modern duotone style.
+    
+
+Resources
+---------
+
+Tools and resources you can use to get started even faster and progress even further.
+
+Design assets, icon teardowns, and a community of fellow icon designers where you can ask questions, get feedback, and accelerate your learning.
+
+1.  ### Figma icon templates
+    
+    Pefectly structured templates for quickly designing new icons at dozens of common sizes.
+    
+2.  ### Weekly icon teardowns
+    
+    Weekly videos where we dissect and recreate beautiful icons we find on the web.
+    
+3.  ### Community of icon designers
+    
+    A private Discord server where you can get help and give feedback on each others' work.
+    
+
+Pricing
+-------
+
+“Everything Starts as a Square” is available in two different packages so you can pick the one that’s right for you.
+
+### Essential
+
+The perfect starting point if you’re on a budget.
+
+$15
+
+*   The 240-page ebook
+*   Figma icon templates
+*   Community access
+
+[Get started](https://getplans.vercel.app/#)
+
+### Complete
+
+Everything icon resource you could ever ask for.
+
+$229
+
+*   The 240-page ebook
+*   Figma icon templates
+*   Over an hour of screencasts
+*   Weekly icon teardowns
+*   Community access
+
+[Get started](https://getplans.vercel.app/#)
+
+Some kind words from early customers...
+---------------------------------------
+
+I worked with a small group of early access customers to make sure all of the content in the book was exactly what they needed. Hears what they had to say about the finished product.
+
+*   > Mira’s teaching style is second to none. Everything was easy to follow every step of the way.
+    
+    ![Image 42](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.04d4fbac.png&w=96&q=75)
+    
+    Antonio Littel
+    
+    Frontend Developer
+    
+*   > I run an ecommerce store selling rare vintage gummy bears and could never find a good gummy bear icon. Now I can design my own in minutes.
+    
+    ![Image 43](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.74b6c9eb.png&w=96&q=75)
+    
+    Cameron Considine
+    
+    Entrepreneur
+    
+*   > I couldn’t believe how fast Mira moved in Figma compared to my own workflow. I’m designing icons more accurately in half the time with the shortcuts I learned from her videos.
+    
+    ![Image 44](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.9d5329f1.png&w=96&q=75)
+    
+    Steven Hackett
+    
+    Bootcamp Instructor
+    
+*   *   > Mira’s teaching style is second to none. Everything was easy to follow every step of the way.
+        
+        ![Image 45](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.04d4fbac.png&w=96&q=75)
+        
+        Antonio Littel
+        
+        Frontend Developer
+        
+    *   > Even though I was excited to learn, I was pessimistic that I wouldn’t actually ever get good enough to design my own icons. I was wrong — this book is all I needed.
+        
+        ![Image 46](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.60373f01.png&w=96&q=75)
+        
+        Lynn Nolan
+        
+        Growth Marketer
+        
+*   *   > I run an ecommerce store selling rare vintage gummy bears and could never find a good gummy bear icon. Now I can design my own in minutes.
+        
+        ![Image 47](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.74b6c9eb.png&w=96&q=75)
+        
+        Cameron Considine
+        
+        Entrepreneur
+        
+    *   > The complete package is worth it for the weekly teardown videos alone. I’ve learned so much watching Mira take apart other icons and recreate them from scratch.
+        
+        ![Image 48](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-11.6af33989.png&w=96&q=75)
+        
+        Regina Wisoky
+        
+        Design Student
+        
+*   *   > I couldn’t believe how fast Mira moved in Figma compared to my own workflow. I’m designing icons more accurately in half the time with the shortcuts I learned from her videos.
+        
+        ![Image 49](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.9d5329f1.png&w=96&q=75)
+        
+        Steven Hackett
+        
+        Bootcamp Instructor
+        
+    *   > I never thought I would enjoy designing icons but using the ideas in this book, it’s become a great way for me to relax while still being creative.
+        
+        ![Image 50](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.8ffba813.png&w=96&q=75)
+        
+        Carla Schoen
+        
+        Startup Founder
+        
+
+![Image 51](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fauthor.962d41ee.png&w=3840&q=75)
+
+I’ve been designing icons professionally for over a decade and have worked with dozens of the biggest brands to create custom sets for their products. I’m an accomplished conference speaker, and have been teaching icon design workshops every month for the last three years. I’ve worked with designers of all skill levels and honed my way of teaching to really click for anyone who has the itch to start designing their own icons.
+
+[Follow on Twitter](https://getplans.vercel.app/#)
+
+## Metadata
+
+```json
+{
+  "title": "Everything Starts as a Square",
+  "description": "A book and video course that teaches you how to design your own icons from scratch.",
+  "url": "https://getplans.vercel.app/",
+  "content": "![Image 37](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcover.63d6cb7d.png&w=1920&q=75)\n\n> “This method of designing icons is genius. I wish I had known this method a lot sooner.”\n\n**Stacey Solomon**, Founder at Retail Park\n\nA book and video course that teaches you how to design your own icons from scratch.\n\n“Everything Starts as a Square” is a book and video course that teaches you a simple method to designing icons that anyone can learn.\n\nBefore I learned how to design icons myself, I always imagined that they were drawn by hand using the pen tool, some sort of fancy graphics tablet, and hours and hours spent manually fine-tuning bezier curves.\n\nBut it turns out this isn’t how great icon designers work at all.\n\nIn “Everything Starts as a Square”, you’ll learn the systems experts use to create pixel perfect icons, without relying on a steady hand.\n\n*   Using boolean operations to combine basic shapes into complex icons\n*   How to adapt icons to different sizes\n*   Translating icons from an outline style to a solid style\n*   Identifying the characteristics that make an icon set cohesive\n*   Figma features and keyboard shortcuts to speed up your workflow\n\nBy the end of the book, you’ll have all the confidence you need to dig in and start creating beautiful icons that can hold their own against any of the sets you can find online.\n\n[Get two free chapters straight to your inbox](https://getplans.vercel.app/#free-chapters)\n\nTable of contents\n-----------------\n\nGet a look at all of the content covered in the book. Everything you need to know is inside.\n\n“Everything Starts as a Square” is comprised of 240 tightly edited, highly visual pages designed to teach you everything you need to know about icon design with no unnecessary filler.\n\n1.  ### Getting started\n    \n2.  ### Fundamentals\n    \n\nScreencasts\n-----------\n\nOver an hour of high quality, step-by-step video content to sharpen your icon design workflow.\n\nLearn how to design your very first icons in a series of screencasts that will teach you everything you need to know to go from beginner to pro in just over an hour.\n\n1.  ![Image 38](https://getplans.vercel.app/_next/static/media/setup.5831258d.svg)\n    \n    ### Getting started with Figma\n    \n    Get familiar with the Figma UI, the different tools it offers, and the most important features.\n    \n2.  ![Image 39](https://getplans.vercel.app/_next/static/media/grids.8de62b9c.svg)\n    \n    ### Setting up your artboard\n    \n    Learn how to create a new artboard and configure your grid and rulers for designing icons.\n    \n3.  ![Image 40](https://getplans.vercel.app/_next/static/media/strokes.4d47a8e4.svg)\n    \n    ### Designing your first icon\n    \n    Using basic shapes and boolean operations, learn how to design your own notification icon from scratch.\n    \n4.  ![Image 41](https://getplans.vercel.app/_next/static/media/duotone.5f204d45.svg)\n    \n    ### Advanced design techniques\n    \n    Learn the techniques you need to know to adapt your original icon to a modern duotone style.\n    \n\nResources\n---------\n\nTools and resources you can use to get started even faster and progress even further.\n\nDesign assets, icon teardowns, and a community of fellow icon designers where you can ask questions, get feedback, and accelerate your learning.\n\n1.  ### Figma icon templates\n    \n    Pefectly structured templates for quickly designing new icons at dozens of common sizes.\n    \n2.  ### Weekly icon teardowns\n    \n    Weekly videos where we dissect and recreate beautiful icons we find on the web.\n    \n3.  ### Community of icon designers\n    \n    A private Discord server where you can get help and give feedback on each others' work.\n    \n\nPricing\n-------\n\n“Everything Starts as a Square” is available in two different packages so you can pick the one that’s right for you.\n\n### Essential\n\nThe perfect starting point if you’re on a budget.\n\n$15\n\n*   The 240-page ebook\n*   Figma icon templates\n*   Community access\n\n[Get started](https://getplans.vercel.app/#)\n\n### Complete\n\nEverything icon resource you could ever ask for.\n\n$229\n\n*   The 240-page ebook\n*   Figma icon templates\n*   Over an hour of screencasts\n*   Weekly icon teardowns\n*   Community access\n\n[Get started](https://getplans.vercel.app/#)\n\nSome kind words from early customers...\n---------------------------------------\n\nI worked with a small group of early access customers to make sure all of the content in the book was exactly what they needed. Hears what they had to say about the finished product.\n\n*   > Mira’s teaching style is second to none. Everything was easy to follow every step of the way.\n    \n    ![Image 42](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.04d4fbac.png&w=96&q=75)\n    \n    Antonio Littel\n    \n    Frontend Developer\n    \n*   > I run an ecommerce store selling rare vintage gummy bears and could never find a good gummy bear icon. Now I can design my own in minutes.\n    \n    ![Image 43](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.74b6c9eb.png&w=96&q=75)\n    \n    Cameron Considine\n    \n    Entrepreneur\n    \n*   > I couldn’t believe how fast Mira moved in Figma compared to my own workflow. I’m designing icons more accurately in half the time with the shortcuts I learned from her videos.\n    \n    ![Image 44](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.9d5329f1.png&w=96&q=75)\n    \n    Steven Hackett\n    \n    Bootcamp Instructor\n    \n*   *   > Mira’s teaching style is second to none. Everything was easy to follow every step of the way.\n        \n        ![Image 45](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.04d4fbac.png&w=96&q=75)\n        \n        Antonio Littel\n        \n        Frontend Developer\n        \n    *   > Even though I was excited to learn, I was pessimistic that I wouldn’t actually ever get good enough to design my own icons. I was wrong — this book is all I needed.\n        \n        ![Image 46](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.60373f01.png&w=96&q=75)\n        \n        Lynn Nolan\n        \n        Growth Marketer\n        \n*   *   > I run an ecommerce store selling rare vintage gummy bears and could never find a good gummy bear icon. Now I can design my own in minutes.\n        \n        ![Image 47](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.74b6c9eb.png&w=96&q=75)\n        \n        Cameron Considine\n        \n        Entrepreneur\n        \n    *   > The complete package is worth it for the weekly teardown videos alone. I’ve learned so much watching Mira take apart other icons and recreate them from scratch.\n        \n        ![Image 48](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-11.6af33989.png&w=96&q=75)\n        \n        Regina Wisoky\n        \n        Design Student\n        \n*   *   > I couldn’t believe how fast Mira moved in Figma compared to my own workflow. I’m designing icons more accurately in half the time with the shortcuts I learned from her videos.\n        \n        ![Image 49](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.9d5329f1.png&w=96&q=75)\n        \n        Steven Hackett\n        \n        Bootcamp Instructor\n        \n    *   > I never thought I would enjoy designing icons but using the ideas in this book, it’s become a great way for me to relax while still being creative.\n        \n        ![Image 50](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.8ffba813.png&w=96&q=75)\n        \n        Carla Schoen\n        \n        Startup Founder\n        \n\n![Image 51](https://getplans.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fauthor.962d41ee.png&w=3840&q=75)\n\nI’ve been designing icons professionally for over a decade and have worked with dozens of the biggest brands to create custom sets for their products. I’m an accomplished conference speaker, and have been teaching icon design workshops every month for the last three years. I’ve worked with designers of all skill levels and honed my way of teaching to really click for anyone who has the itch to start designing their own icons.\n\n[Follow on Twitter](https://getplans.vercel.app/#)",
+  "usage": {
+    "tokens": 2029
+  }
+}
+```

@@ -1,0 +1,204 @@
+AI web scrapers · Apify
+===============
+
+[Skip to content](https://apify.com/store/categories/ai#main-content)
+
+[](https://apify.com/)
+
+[Get started](https://console.apify.com/sign-up)[Log in](https://console.apify.com/sign-in)
+
+*   Product
+    
+    Back
+    
+    [Start here! Get data with ready-made web scrapers for popular websites Browse 3,000+ Actors](https://apify.com/store)
+    
+    The Apify platform
+    
+    *   [Apify Store Pre-built web scraping tools](https://apify.com/store)
+    *   [Actors Build and run serverless programs](https://apify.com/actors)
+    *   [Integrations Connect with apps and services](https://apify.com/integrations)
+    *   [Storage Store results for web scrapers](https://apify.com/storage)
+    
+    Anti-blocking
+    
+    *   [Anti-blocking Scrape without getting blocked](https://apify.com/anti-blocking)
+    *   [Proxy Rotate scraper IP addresses](https://apify.com/proxy)
+    
+    Open source
+    
+    *   [Crawlee Web scraping and crawling library](https://crawlee.dev/)
+    
+*   Solutions
+    
+    Back
+    
+    Web data for
+    
+    *   [Enterprise](https://apify.com/enterprise)
+    *   [Startups](https://apify.com/resources/startups)
+    *   [Universities](https://apify.com/resources/universities)
+    *   [Nonprofits](https://apify.com/resources/nonprofits)
+    
+    Use cases
+    
+    *   [Data for generative AI](https://apify.com/data-for-generative-ai)
+    *   [Lead generation](https://apify.com/use-cases/lead-generation)
+    *   [Market research](https://apify.com/use-cases/market-research)
+    *   [Sentiment analysis](https://apify.com/use-cases/sentiment-analysis)
+    *   [View more →](https://apify.com/use-cases)
+    
+    Consulting
+    
+    *   [Apify Professional Services](https://apify.com/professional-services)
+    *   [Apify Partners](https://apify.com/partners)
+    
+*   Developers
+    
+    Back
+    
+    *   [Documentation Full reference for the Apify platform](https://docs.apify.com/)
+    
+    Get started
+    
+    *   [Web scraping academy Courses for beginners and experts](https://docs.apify.com/academy)
+    *   [Code templates Python, JavaScript, and TypeScript](https://apify.com/templates)
+    *   [Deploy to Apify With CLI or GitHub integration](https://docs.apify.com/platform/actors/development/deployment)
+    *   [Deploy to Apify Use a single CLI command or build directly from GitHub](https://docs.apify.com/platform/actors/development/deployment)
+    
+    Learn
+    
+    *   [API reference](https://docs.apify.com/api)
+    *   [CLI](https://docs.apify.com/cli/)
+    *   [SDK](https://docs.apify.com/sdk)
+    *   [Crawlee](https://crawlee.dev/)
+    
+    [Get paid on Apify Earn passive income from sharing your Actors Learn more](https://apify.com/partners/actor-developers)
+    
+*   Resources
+    
+    Back
+    
+    *   [Help and support Advice and answers about Apify](https://help.apify.com/en/)
+    *   [Submit your ideas Tell us the Actors you want](https://apify.com/ideas)
+    *   [Changelog See what’s new on Apify](https://apify.com/change-log)
+    *   [Customer stories Find out how others use Apify](https://apify.com/success-stories)
+    
+    Company
+    
+    *   [About Apify](https://apify.com/about)
+    *   [Contact us](https://apify.com/contact)
+    *   [Blog](https://blog.apify.com/)
+    *   [Become Apify partner](https://apify.com/partners/join)
+    *   [Affiliate program](https://apify.com/partners/affiliate)
+    *   [Jobs We're hiring!](https://apify.com/jobs)
+    
+    [Join our Discord Talk to scraping experts](https://discord.com/invite/jyEM2PRvMU)
+    
+*   [Pricing](https://apify.com/pricing)
+    
+*   [Contact sales](https://apify.com/contact-sales)
+    
+
+[Contact sales](https://apify.com/contact-sales)[Log in](https://console.apify.com/sign-in)
+
+[Get started](https://console.apify.com/sign-up)
+
+[Go back to Store](https://apify.com/store)
+
+AI web scrapers
+===============
+
+Actors to extract data from websites using AI, generate data to train AI models, feed LLM applications, RAG, or GPTs. With 🦜️🔗 LangChain support.
+
+Product
+
+*   [Apify Store](https://apify.com/store)
+    
+*   [Integrations](https://apify.com/integrations)
+    
+*   [Proxy](https://apify.com/proxy)
+    
+*   [Crawlee](https://crawlee.dev/)
+    
+
+Developers
+
+*   [Documentation](https://docs.apify.com/)
+    
+*   [Code templates](https://apify.com/templates)
+    
+*   [Deploy to Apify](https://docs.apify.com/platform/actors/development/deployment)
+    
+*   [API reference](https://docs.apify.com/api)
+    
+*   [Get paid on Apify](https://apify.com/partners/actor-developers)
+    
+
+Consulting
+
+*   [Professional Services](https://apify.com/professional-services)
+    
+*   [Apify Partners](https://apify.com/partners)
+    
+
+Support
+
+*   [Help & Support](https://help.apify.com/en/)
+    
+*   [Submit your ideas](https://apify.com/ideas)
+    
+
+Company
+
+*   [About Apify](https://apify.com/about)
+    
+*   [Contact us](https://apify.com/contact)
+    
+*   [Blog](https://blog.apify.com/)
+    
+*   [Become an affiliate](https://apify.com/partners/affiliate)
+    
+*   [Customer stories](https://apify.com/success-stories)
+    
+*   [Changelog](https://apify.com/change-log)
+    
+*   [JobsWe're hiring!](https://apify.com/jobs)
+    
+
+[![Image 10: Apify logo](https://apify.com/img/favicon.svg)](https://apify.com/)
+
+Socials
+
+*   [](https://www.linkedin.com/company/apifytech/)
+*   [](https://x.com/apify)
+*   [](https://github.com/apify)
+*   [](https://www.youtube.com/apify)
+*   [](https://discord.com/invite/jyEM2PRvMU)
+*   [](https://www.tiktok.com/@apifytech)
+
+Security
+
+*   [![Image 11: GDPR image](https://cdn-cms.apify.com/GDPR_a807ac9a_ba0683f740.svg)](https://docs.apify.com/legal/gdpr-information)
+*   [![Image 12: SOC2 image](https://cdn-cms.apify.com/SOC_dc6cf5ae_f7999d700f.svg)](https://trust.apify.com/)
+
+Reviews
+
+*   [![Image 13: GetApp Apify user reviews image](https://cdn-cms.apify.com/Get_App_1f4079a540.png)](https://www.getapp.com/business-intelligence-analytics-software/a/apify/)
+*   [![Image 14: Software Advice Apify reviews image](https://cdn-cms.apify.com/Softwareadvice_88026ee6c2.png)](https://www.softwareadvice.com/data-extraction/apify-profile/)
+*   [![Image 15: Capterra Apify user reviews image](https://cdn-cms.apify.com/Capterra_ce83db3070.png)](https://www.capterra.com/p/150854/Apify/)
+*   [![Image 16: G2 Apify user reviews image](https://cdn-cms.apify.com/G2_d80d60f2f8.png)](https://www.g2.com/products/apify/reviews)
+*   [![Image 17: TrustRadius Apify user reviews image](https://cdn-cms.apify.com/Trust_Radius_7ca0e0bdad.png)](https://www.trustradius.com/products/apify/reviews)
+*   [![Image 18: Crozdesk Apify user reviews image](https://cdn-cms.apify.com/Crozdesk_1d12ceb040.png)](https://crozdesk.com/software/apify)
+
+[Loading status...](https://status.apify.com/)
+
+[Terms of Use](https://docs.apify.com/legal/general-terms-and-conditions)
+
+[Privacy Policy](https://docs.apify.com/legal/privacy-policy)
+
+[Cookie Policy](https://docs.apify.com/legal/cookie-policy)
+
+Cookie settings
+
+© 2025 Apify

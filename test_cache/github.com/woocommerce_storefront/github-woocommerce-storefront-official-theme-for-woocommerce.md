@@ -1,0 +1,2343 @@
+---
+title: GitHub - woocommerce/storefront: Official theme for WooCommerce
+description: Official theme for WooCommerce. Contribute to woocommerce/storefront development by creating an account on GitHub.
+url: https://github.com/woocommerce/storefront
+timestamp: 2025-01-20T15:30:07.415Z
+domain: github.com
+path: woocommerce_storefront
+---
+
+# GitHub - woocommerce/storefront: Official theme for WooCommerce
+
+
+Official theme for WooCommerce. Contribute to woocommerce/storefront development by creating an account on GitHub.
+
+
+## Content
+
+GitHub - woocommerce/storefront: Official theme for WooCommerce
+===============
+                                           
+
+[Skip to content](https://github.com/woocommerce/storefront?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwoocommerce%2Fstorefront%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwoocommerce%2Fstorefront%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=woocommerce%2Fstorefront) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[woocommerce](https://github.com/woocommerce) / **[storefront](https://github.com/woocommerce/storefront)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fwoocommerce%2Fstorefront) You must be signed in to change notification settings
+*   [Fork 473](https://github.com/login?return_to=%2Fwoocommerce%2Fstorefront)
+*   [Star 981](https://github.com/login?return_to=%2Fwoocommerce%2Fstorefront)
+    
+
+Official theme for WooCommerce
+
+[wordpress.org/themes/storefront/](https://wordpress.org/themes/storefront/ "https://wordpress.org/themes/storefront/")
+
+[981 stars](https://github.com/woocommerce/storefront/stargazers) [473 forks](https://github.com/woocommerce/storefront/forks) [Branches](https://github.com/woocommerce/storefront/branches) [Tags](https://github.com/woocommerce/storefront/tags) [Activity](https://github.com/woocommerce/storefront/activity)
+
+[Star](https://github.com/login?return_to=%2Fwoocommerce%2Fstorefront)
+
+[Notifications](https://github.com/login?return_to=%2Fwoocommerce%2Fstorefront) You must be signed in to change notification settings
+
+*   [Code](https://github.com/woocommerce/storefront)
+*   [Issues 91](https://github.com/woocommerce/storefront/issues)
+*   [Pull requests 12](https://github.com/woocommerce/storefront/pulls)
+*   [Actions](https://github.com/woocommerce/storefront/actions)
+*   [Wiki](https://github.com/woocommerce/storefront/wiki)
+*   [Security](https://github.com/woocommerce/storefront/security)
+*   [Insights](https://github.com/woocommerce/storefront/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/woocommerce/storefront)
+*   [Issues](https://github.com/woocommerce/storefront/issues)
+*   [Pull requests](https://github.com/woocommerce/storefront/pulls)
+*   [Actions](https://github.com/woocommerce/storefront/actions)
+*   [Wiki](https://github.com/woocommerce/storefront/wiki)
+*   [Security](https://github.com/woocommerce/storefront/security)
+*   [Insights](https://github.com/woocommerce/storefront/pulse)
+
+woocommerce/storefront
+======================
+
+  
+
+ trunk
+
+[**28** Branches](https://github.com/woocommerce/storefront/branches)[**128** Tags](https://github.com/woocommerce/storefront/tags)
+
+[](https://github.com/woocommerce/storefront/branches)[](https://github.com/woocommerce/storefront/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 26: imanish003](https://avatars.githubusercontent.com/u/16707866?v=4&size=40)](https://github.com/imanish003)[imanish003](https://github.com/woocommerce/storefront/commits?author=imanish003)
+
+[Update Pot file](https://github.com/woocommerce/storefront/commit/1778430c32fa45ee74b0094a56a9ff81ac0da7b8)
+
+Jan 20, 2025
+
+[1778430](https://github.com/woocommerce/storefront/commit/1778430c32fa45ee74b0094a56a9ff81ac0da7b8) · Jan 20, 2025
+
+History
+-------
+
+[2,874 Commits](https://github.com/woocommerce/storefront/commits/trunk/)
+
+[](https://github.com/woocommerce/storefront/commits/trunk/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/woocommerce/storefront/tree/trunk/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/woocommerce/storefront/tree/trunk/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[Update actions/upload-artifact from v3 to v4 to use the latest versio…](https://github.com/woocommerce/storefront/commit/09f8b6a8a8db3dc4014334e9638628f26ec04806 "Update actions/upload-artifact from v3 to v4 to use the latest version. Also fix E2E test artifacts generation by configuring jest-html-reporters. (#2180)
+* Bump actions/upload-artifact from v3 to v4
+* Try reverting to v3
+* Use ubuntu-22.04
+* Testing \"E2E tests\" workflow
+* Add missing jest-html-reporters configuration
+- Add jest-html-reporters configuration to generate HTML test reports
+- Reports will be saved in ./artifacts/report.html
+* Add jest-html-reporters to generate HTML test reports
+* Remove failing tests which was added for testing
+* Update jest-html-reporters version")
+
+
+
+ | 
+
+Dec 27, 2024
+
+ |
+| 
+
+[assets](https://github.com/woocommerce/storefront/tree/trunk/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[assets](https://github.com/woocommerce/storefront/tree/trunk/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[Add style to coupon error inline message (](https://github.com/woocommerce/storefront/commit/a32d702076cb2b682f667c5b43efa733a675cf4e "Add style to coupon error inline message (#2178)")[#2178](https://github.com/woocommerce/storefront/pull/2178)[)](https://github.com/woocommerce/storefront/commit/a32d702076cb2b682f667c5b43efa733a675cf4e "Add style to coupon error inline message (#2178)")
+
+
+
+ | 
+
+Jan 9, 2025
+
+ |
+| 
+
+[e2e/specs](https://github.com/woocommerce/storefront/tree/trunk/e2e/specs "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[e2e/specs](https://github.com/woocommerce/storefront/tree/trunk/e2e/specs "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[Update dependencies and fix e2e tests (](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 "Update dependencies and fix e2e tests (#2160)
+* Bump webpack from 5.83.1 to 5.94.0
+Bumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.
+- [Release notes](https://github.com/webpack/webpack/releases)
+- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)
+---
+updated-dependencies:
+- dependency-name: webpack
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+* Update e2e workflow so we manually install docker-compose
+* Revert \"Update e2e workflow so we manually install docker-compose\"
+This reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.
+* Update extra packages
+* Update node
+* Downgrade susy
+* New build script
+* Fix test:e2e script
+* Fix e2e test
+* Make sure build-js.sh and validate-build.sh are excluded from builds
+* Update @wordpress/prettier-config
+* Downgrade @wordpress/eslint-plugin and @wordpress/scripts
+* Remove @typescript-eslint/no-this-alias rule
+* Fix versions
+* Update .nvmrc version
+* Update package-lock.json
+* Update package-lock.json (II)
+* Fix missing variables in scripts
+* Remove new build-js.sh script
+* Remove testing attribute
+* Update node and npm version
+---------
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")[#2160](https://github.com/woocommerce/storefront/pull/2160)[)](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 "Update dependencies and fix e2e tests (#2160)
+* Bump webpack from 5.83.1 to 5.94.0
+Bumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.
+- [Release notes](https://github.com/webpack/webpack/releases)
+- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)
+---
+updated-dependencies:
+- dependency-name: webpack
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+* Update e2e workflow so we manually install docker-compose
+* Revert \"Update e2e workflow so we manually install docker-compose\"
+This reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.
+* Update extra packages
+* Update node
+* Downgrade susy
+* New build script
+* Fix test:e2e script
+* Fix e2e test
+* Make sure build-js.sh and validate-build.sh are excluded from builds
+* Update @wordpress/prettier-config
+* Downgrade @wordpress/eslint-plugin and @wordpress/scripts
+* Remove @typescript-eslint/no-this-alias rule
+* Fix versions
+* Update .nvmrc version
+* Update package-lock.json
+* Update package-lock.json (II)
+* Fix missing variables in scripts
+* Remove new build-js.sh script
+* Remove testing attribute
+* Update node and npm version
+---------
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")
+
+
+
+ | 
+
+Sep 19, 2024
+
+ |
+| 
+
+[inc](https://github.com/woocommerce/storefront/tree/trunk/inc "inc")
+
+
+
+
+
+
+
+ | 
+
+[inc](https://github.com/woocommerce/storefront/tree/trunk/inc "inc")
+
+
+
+
+
+
+
+ | 
+
+[Add support for appearance tools. (](https://github.com/woocommerce/storefront/commit/62caa79b0ba92cd08bf18bc2a088678aac247f41 "Add support for appearance tools. (#2143)
+This provides support for spacing, border, typography, and color
+options, even without using theme.json
+See: https://wordpress.org/documentation/wordpress-version/version-6-5/#add-appearance-tools-to-classic-themes")[#2143](https://github.com/woocommerce/storefront/pull/2143)[)](https://github.com/woocommerce/storefront/commit/62caa79b0ba92cd08bf18bc2a088678aac247f41 "Add support for appearance tools. (#2143)
+This provides support for spacing, border, typography, and color
+options, even without using theme.json
+See: https://wordpress.org/documentation/wordpress-version/version-6-5/#add-appearance-tools-to-classic-themes")
+
+
+
+ | 
+
+May 15, 2024
+
+ |
+| 
+
+[languages](https://github.com/woocommerce/storefront/tree/trunk/languages "languages")
+
+
+
+
+
+
+
+ | 
+
+[languages](https://github.com/woocommerce/storefront/tree/trunk/languages "languages")
+
+
+
+
+
+
+
+ | 
+
+[Update Pot file](https://github.com/woocommerce/storefront/commit/1778430c32fa45ee74b0094a56a9ff81ac0da7b8 "Update Pot file")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[.browserslistrc](https://github.com/woocommerce/storefront/blob/trunk/.browserslistrc ".browserslistrc")
+
+
+
+
+
+
+
+ | 
+
+[.browserslistrc](https://github.com/woocommerce/storefront/blob/trunk/.browserslistrc ".browserslistrc")
+
+
+
+
+
+
+
+ | 
+
+[Update build tools (](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed "Update build tools (#1674)
+Along with adding linting tools, commit also introduces the following changes:
+- Adds our suite of tooling for code styling/linting and closes #1656
+- Updates the license information which closes #1669
+- Adds browserlist config instead of defining manually which closes #1497
+- Removes grunt and uses npm instead for building which closes #1433
+- Moving away from grunt has fixed #1662")[#1674](https://github.com/woocommerce/storefront/pull/1674)[)](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed "Update build tools (#1674)
+Along with adding linting tools, commit also introduces the following changes:
+- Adds our suite of tooling for code styling/linting and closes #1656
+- Updates the license information which closes #1669
+- Adds browserlist config instead of defining manually which closes #1497
+- Removes grunt and uses npm instead for building which closes #1433
+- Moving away from grunt has fixed #1662")
+
+
+
+ | 
+
+May 7, 2021
+
+ |
+| 
+
+[.editorconfig](https://github.com/woocommerce/storefront/blob/trunk/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[.editorconfig](https://github.com/woocommerce/storefront/blob/trunk/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[Update build tools (](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed "Update build tools (#1674)
+Along with adding linting tools, commit also introduces the following changes:
+- Adds our suite of tooling for code styling/linting and closes #1656
+- Updates the license information which closes #1669
+- Adds browserlist config instead of defining manually which closes #1497
+- Removes grunt and uses npm instead for building which closes #1433
+- Moving away from grunt has fixed #1662")[#1674](https://github.com/woocommerce/storefront/pull/1674)[)](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed "Update build tools (#1674)
+Along with adding linting tools, commit also introduces the following changes:
+- Adds our suite of tooling for code styling/linting and closes #1656
+- Updates the license information which closes #1669
+- Adds browserlist config instead of defining manually which closes #1497
+- Removes grunt and uses npm instead for building which closes #1433
+- Moving away from grunt has fixed #1662")
+
+
+
+ | 
+
+May 7, 2021
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/woocommerce/storefront/blob/trunk/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/woocommerce/storefront/blob/trunk/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[Update dependencies and fix e2e tests (](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 "Update dependencies and fix e2e tests (#2160)
+* Bump webpack from 5.83.1 to 5.94.0
+Bumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.
+- [Release notes](https://github.com/webpack/webpack/releases)
+- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)
+---
+updated-dependencies:
+- dependency-name: webpack
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+* Update e2e workflow so we manually install docker-compose
+* Revert \"Update e2e workflow so we manually install docker-compose\"
+This reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.
+* Update extra packages
+* Update node
+* Downgrade susy
+* New build script
+* Fix test:e2e script
+* Fix e2e test
+* Make sure build-js.sh and validate-build.sh are excluded from builds
+* Update @wordpress/prettier-config
+* Downgrade @wordpress/eslint-plugin and @wordpress/scripts
+* Remove @typescript-eslint/no-this-alias rule
+* Fix versions
+* Update .nvmrc version
+* Update package-lock.json
+* Update package-lock.json (II)
+* Fix missing variables in scripts
+* Remove new build-js.sh script
+* Remove testing attribute
+* Update node and npm version
+---------
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")[#2160](https://github.com/woocommerce/storefront/pull/2160)[)](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 "Update dependencies and fix e2e tests (#2160)
+* Bump webpack from 5.83.1 to 5.94.0
+Bumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.
+- [Release notes](https://github.com/webpack/webpack/releases)
+- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)
+---
+updated-dependencies:
+- dependency-name: webpack
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+* Update e2e workflow so we manually install docker-compose
+* Revert \"Update e2e workflow so we manually install docker-compose\"
+This reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.
+* Update extra packages
+* Update node
+* Downgrade susy
+* New build script
+* Fix test:e2e script
+* Fix e2e test
+* Make sure build-js.sh and validate-build.sh are excluded from builds
+* Update @wordpress/prettier-config
+* Downgrade @wordpress/eslint-plugin and @wordpress/scripts
+* Remove @typescript-eslint/no-this-alias rule
+* Fix versions
+* Update .nvmrc version
+* Update package-lock.json
+* Update package-lock.json (II)
+* Fix missing variables in scripts
+* Remove new build-js.sh script
+* Remove testing attribute
+* Update node and npm version
+---------
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")
+
+
+
+ | 
+
+Sep 19, 2024
+
+ |
+| 
+
+[.gitignore](https://github.com/woocommerce/storefront/blob/trunk/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/woocommerce/storefront/blob/trunk/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[ignore eslint report](https://github.com/woocommerce/storefront/commit/28b1716320b12aee4f19b2e9e14ee84908851028 "ignore eslint report")
+
+
+
+ | 
+
+Jul 26, 2021
+
+ |
+| 
+
+[.nvmrc](https://github.com/woocommerce/storefront/blob/trunk/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/woocommerce/storefront/blob/trunk/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[Update dependencies and fix e2e tests (](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 "Update dependencies and fix e2e tests (#2160)
+* Bump webpack from 5.83.1 to 5.94.0
+Bumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.
+- [Release notes](https://github.com/webpack/webpack/releases)
+- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)
+---
+updated-dependencies:
+- dependency-name: webpack
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+* Update e2e workflow so we manually install docker-compose
+* Revert \"Update e2e workflow so we manually install docker-compose\"
+This reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.
+* Update extra packages
+* Update node
+* Downgrade susy
+* New build script
+* Fix test:e2e script
+* Fix e2e test
+* Make sure build-js.sh and validate-build.sh are excluded from builds
+* Update @wordpress/prettier-config
+* Downgrade @wordpress/eslint-plugin and @wordpress/scripts
+* Remove @typescript-eslint/no-this-alias rule
+* Fix versions
+* Update .nvmrc version
+* Update package-lock.json
+* Update package-lock.json (II)
+* Fix missing variables in scripts
+* Remove new build-js.sh script
+* Remove testing attribute
+* Update node and npm version
+---------
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")[#2160](https://github.com/woocommerce/storefront/pull/2160)[)](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 "Update dependencies and fix e2e tests (#2160)
+* Bump webpack from 5.83.1 to 5.94.0
+Bumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.
+- [Release notes](https://github.com/webpack/webpack/releases)
+- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)
+---
+updated-dependencies:
+- dependency-name: webpack
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+* Update e2e workflow so we manually install docker-compose
+* Revert \"Update e2e workflow so we manually install docker-compose\"
+This reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.
+* Update extra packages
+* Update node
+* Downgrade susy
+* New build script
+* Fix test:e2e script
+* Fix e2e test
+* Make sure build-js.sh and validate-build.sh are excluded from builds
+* Update @wordpress/prettier-config
+* Downgrade @wordpress/eslint-plugin and @wordpress/scripts
+* Remove @typescript-eslint/no-this-alias rule
+* Fix versions
+* Update .nvmrc version
+* Update package-lock.json
+* Update package-lock.json (II)
+* Fix missing variables in scripts
+* Remove new build-js.sh script
+* Remove testing attribute
+* Update node and npm version
+---------
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")
+
+
+
+ | 
+
+Sep 19, 2024
+
+ |
+| 
+
+[.prettierrc.js](https://github.com/woocommerce/storefront/blob/trunk/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc.js](https://github.com/woocommerce/storefront/blob/trunk/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[Update build tools (](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed "Update build tools (#1674)
+Along with adding linting tools, commit also introduces the following changes:
+- Adds our suite of tooling for code styling/linting and closes #1656
+- Updates the license information which closes #1669
+- Adds browserlist config instead of defining manually which closes #1497
+- Removes grunt and uses npm instead for building which closes #1433
+- Moving away from grunt has fixed #1662")[#1674](https://github.com/woocommerce/storefront/pull/1674)[)](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed "Update build tools (#1674)
+Along with adding linting tools, commit also introduces the following changes:
+- Adds our suite of tooling for code styling/linting and closes #1656
+- Updates the license information which closes #1669
+- Adds browserlist config instead of defining manually which closes #1497
+- Removes grunt and uses npm instead for building which closes #1433
+- Moving away from grunt has fixed #1662")
+
+
+
+ | 
+
+May 7, 2021
+
+ |
+| 
+
+[.stylelintignore](https://github.com/woocommerce/storefront/blob/trunk/.stylelintignore ".stylelintignore")
+
+
+
+
+
+
+
+ | 
+
+[.stylelintignore](https://github.com/woocommerce/storefront/blob/trunk/.stylelintignore ".stylelintignore")
+
+
+
+
+
+
+
+ | 
+
+[Update build tools (](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed "Update build tools (#1674)
+Along with adding linting tools, commit also introduces the following changes:
+- Adds our suite of tooling for code styling/linting and closes #1656
+- Updates the license information which closes #1669
+- Adds browserlist config instead of defining manually which closes #1497
+- Removes grunt and uses npm instead for building which closes #1433
+- Moving away from grunt has fixed #1662")[#1674](https://github.com/woocommerce/storefront/pull/1674)[)](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed "Update build tools (#1674)
+Along with adding linting tools, commit also introduces the following changes:
+- Adds our suite of tooling for code styling/linting and closes #1656
+- Updates the license information which closes #1669
+- Adds browserlist config instead of defining manually which closes #1497
+- Removes grunt and uses npm instead for building which closes #1433
+- Moving away from grunt has fixed #1662")
+
+
+
+ | 
+
+May 7, 2021
+
+ |
+| 
+
+[.stylelintrc.json](https://github.com/woocommerce/storefront/blob/trunk/.stylelintrc.json ".stylelintrc.json")
+
+
+
+
+
+
+
+ | 
+
+[.stylelintrc.json](https://github.com/woocommerce/storefront/blob/trunk/.stylelintrc.json ".stylelintrc.json")
+
+
+
+
+
+
+
+ | 
+
+[Update dependency @wordpress/scripts to v20 (](https://github.com/woocommerce/storefront/commit/9e20f808a584e546f80ef89633ee18a91872275f "Update dependency @wordpress/scripts to v20 (#1887)
+* Update dependency @wordpress/scripts to v20
+* Update stylelint config
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Albert Juhé Lluveras <contact@albertjuhe.com>")[#1887](https://github.com/woocommerce/storefront/pull/1887)[)](https://github.com/woocommerce/storefront/commit/9e20f808a584e546f80ef89633ee18a91872275f "Update dependency @wordpress/scripts to v20 (#1887)
+* Update dependency @wordpress/scripts to v20
+* Update stylelint config
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Albert Juhé Lluveras <contact@albertjuhe.com>")
+
+
+
+ | 
+
+Feb 3, 2022
+
+ |
+| 
+
+[.wp-env.json](https://github.com/woocommerce/storefront/blob/trunk/.wp-env.json ".wp-env.json")
+
+
+
+
+
+
+
+ | 
+
+[.wp-env.json](https://github.com/woocommerce/storefront/blob/trunk/.wp-env.json ".wp-env.json")
+
+
+
+
+
+
+
+ | 
+
+[add custom ports](https://github.com/woocommerce/storefront/commit/9e6f623eec5d036fd458701899d210cb30078985 "add custom ports")
+
+
+
+ | 
+
+Jun 24, 2020
+
+ |
+| 
+
+[404.php](https://github.com/woocommerce/storefront/blob/trunk/404.php "404.php")
+
+
+
+
+
+
+
+ | 
+
+[404.php](https://github.com/woocommerce/storefront/blob/trunk/404.php "404.php")
+
+
+
+
+
+
+
+ | 
+
+[reinstate phpcs php linting (](https://github.com/woocommerce/storefront/commit/7bd21718667886f3741d0bda9eb60352b5874cd8 "reinstate phpcs php linting (#1463)
+* update squizlabs/php_codesniffer and WP coding standards to latest
+* revamp phpcs sniffer rulesets:
+- update to php-compatibility (wimg is defunct)
+- add version for woocommerce-sniffs
+* streamline phpcs config (get it working at all):
+- update min WP version to 5.3
+- remove references to rules we don't have installed
+- WordPress.VIP
+- WordPress.XSS
+* fix 2x phpcs errors (automatically via phpcbf)
+* update phps ignore unescaped output comment to current format
+* add npm scripts for php linter and linter autofixer
+* auto-fix PHP linter errors using phpcbf :
+Before phpcbf:
+[x] PEAR      Functions           Function call signature multiple arguments          127
+[x] Generic   White space         Disallow space indent spaces used                   10
+[ ] WordPres  WP                  Enqueued resource parameters missing version        6
+[ ] PHPCompa  Language construct  New language constructs t_ns_separator found        4
+[ ] WordPres  Security            Escape output output not escaped                    4
+[ ] PHPCompa  Parameter values    New HTMLEntities encoding default not set           2
+[ ] WordPres  Date time           Restricted functions date_date                      2
+[x] Generic   Files               End file newline not found                          1
+[x] PEAR      Functions           Function call signature close bracket line          1
+[x] PEAR      Functions           Function call signature content after open bracket  1
+[x] Squiz     White space         Superfluous whitespace end line                     1
+[x] WordPres  Arrays              Comma after array item no comma                     1
+phpcbf fixed all [x] violations, all whitespace/formatting
+After phpcbf:
+WordPres  WP                  Enqueued resource parameters missing version      6
+PHPCompa  Language construct  New language constructs t_ns_separator found      4
+WordPres  Security            Escape output output not escaped                  4
+PHPCompa  Parameter values    New HTMLEntities encoding default not set         2
+WordPres  Date time           Restricted functions date_date                    2
+Note - this commit does not include auto-fixed files with other
+violations. These will follow in separate commit (after fixing!)
+* fix phpcs violations:
+- numerous formatting issues fixed automatically
+- manually fix missing version param in calls to wp_enqueue_style
+* fix phpcs violations:
+- numerous formatting issues fixed automatically
+- fix missing deps param in call to wp_enqueue_style
+* update phpcs test php version to match min requirement (5.6)
+* fix phpcs violations including some missing escaping:
+- numerous formatting issues fixed automatically
+- prefer gmdate() over potentially ambiguous date()
+- escape output (a real issue!) of comment dates
+* fix violations (all automated formatting fixes)
+* reinstate WordPress rule/standard in phpcs.xml (minimise PR changes)
+* exclude build (pre-zip) ./storefront & tighten excludes for dep folders
+* bulk-update Security.EscapeOutput.OutputNotEscaped ignore comment:
+- the previous comment format is no longer supported
+- bulk replacing these to reduce phpcs warning overhead")[#1463](https://github.com/woocommerce/storefront/pull/1463)[)](https://github.com/woocommerce/storefront/commit/7bd21718667886f3741d0bda9eb60352b5874cd8 "reinstate phpcs php linting (#1463)
+* update squizlabs/php_codesniffer and WP coding standards to latest
+* revamp phpcs sniffer rulesets:
+- update to php-compatibility (wimg is defunct)
+- add version for woocommerce-sniffs
+* streamline phpcs config (get it working at all):
+- update min WP version to 5.3
+- remove references to rules we don't have installed
+- WordPress.VIP
+- WordPress.XSS
+* fix 2x phpcs errors (automatically via phpcbf)
+* update phps ignore unescaped output comment to current format
+* add npm scripts for php linter and linter autofixer
+* auto-fix PHP linter errors using phpcbf :
+Before phpcbf:
+[x] PEAR      Functions           Function call signature multiple arguments          127
+[x] Generic   White space         Disallow space indent spaces used                   10
+[ ] WordPres  WP                  Enqueued resource parameters missing version        6
+[ ] PHPCompa  Language construct  New language constructs t_ns_separator found        4
+[ ] WordPres  Security            Escape output output not escaped                    4
+[ ] PHPCompa  Parameter values    New HTMLEntities encoding default not set           2
+[ ] WordPres  Date time           Restricted functions date_date                      2
+[x] Generic   Files               End file newline not found                          1
+[x] PEAR      Functions           Function call signature close bracket line          1
+[x] PEAR      Functions           Function call signature content after open bracket  1
+[x] Squiz     White space         Superfluous whitespace end line                     1
+[x] WordPres  Arrays              Comma after array item no comma                     1
+phpcbf fixed all [x] violations, all whitespace/formatting
+After phpcbf:
+WordPres  WP                  Enqueued resource parameters missing version      6
+PHPCompa  Language construct  New language constructs t_ns_separator found      4
+WordPres  Security            Escape output output not escaped                  4
+PHPCompa  Parameter values    New HTMLEntities encoding default not set         2
+WordPres  Date time           Restricted functions date_date                    2
+Note - this commit does not include auto-fixed files with other
+violations. These will follow in separate commit (after fixing!)
+* fix phpcs violations:
+- numerous formatting issues fixed automatically
+- manually fix missing version param in calls to wp_enqueue_style
+* fix phpcs violations:
+- numerous formatting issues fixed automatically
+- fix missing deps param in call to wp_enqueue_style
+* update phpcs test php version to match min requirement (5.6)
+* fix phpcs violations including some missing escaping:
+- numerous formatting issues fixed automatically
+- prefer gmdate() over potentially ambiguous date()
+- escape output (a real issue!) of comment dates
+* fix violations (all automated formatting fixes)
+* reinstate WordPress rule/standard in phpcs.xml (minimise PR changes)
+* exclude build (pre-zip) ./storefront & tighten excludes for dep folders
+* bulk-update Security.EscapeOutput.OutputNotEscaped ignore comment:
+- the previous comment format is no longer supported
+- bulk replacing these to reduce phpcs warning overhead")
+
+
+
+ | 
+
+Sep 21, 2020
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/woocommerce/storefront/blob/trunk/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/woocommerce/storefront/blob/trunk/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[Update Woo.com links to Wooommerce.com (](https://github.com/woocommerce/storefront/commit/924b80a76e316d44fa71a27dc1baf12b812b6b8c "Update Woo.com links to Wooommerce.com (#2142)
+* Update Woo.com links to Wooommerce.com
+Updates all instances of WooCommerce.com links in both the wp-admin and
+frontend. This includes the developer composer and package files, readme,
+and language files.
+* Update link to child themes documentation.")[#2142](https://github.com/woocommerce/storefront/pull/2142)[)](https://github.com/woocommerce/storefront/commit/924b80a76e316d44fa71a27dc1baf12b812b6b8c "Update Woo.com links to Wooommerce.com (#2142)
+* Update Woo.com links to Wooommerce.com
+Updates all instances of WooCommerce.com links in both the wp-admin and
+frontend. This includes the developer composer and package files, readme,
+and language files.
+* Update link to child themes documentation.")
+
+
+
+ | 
+
+Apr 10, 2024
+
+ |
+| 
+
+[README.md](https://github.com/woocommerce/storefront/blob/trunk/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/woocommerce/storefront/blob/trunk/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Update Woo.com links to Wooommerce.com (](https://github.com/woocommerce/storefront/commit/924b80a76e316d44fa71a27dc1baf12b812b6b8c "Update Woo.com links to Wooommerce.com (#2142)
+* Update Woo.com links to Wooommerce.com
+Updates all instances of WooCommerce.com links in both the wp-admin and
+frontend. This includes the developer composer and package files, readme,
+and language files.
+* Update link to child themes documentation.")[#2142](https://github.com/woocommerce/storefront/pull/2142)[)](https://github.com/woocommerce/storefront/commit/924b80a76e316d44fa71a27dc1baf12b812b6b8c "Update Woo.com links to Wooommerce.com (#2142)
+* Update Woo.com links to Wooommerce.com
+Updates all instances of WooCommerce.com links in both the wp-admin and
+frontend. This includes the developer composer and package files, readme,
+and language files.
+* Update link to child themes documentation.")
+
+
+
+ | 
+
+Apr 10, 2024
+
+ |
+| 
+
+[README.txt](https://github.com/woocommerce/storefront/blob/trunk/README.txt "README.txt")
+
+
+
+
+
+
+
+ | 
+
+[README.txt](https://github.com/woocommerce/storefront/blob/trunk/README.txt "README.txt")
+
+
+
+
+
+
+
+ | 
+
+[Update README.txt to include changelog for version 4.6.1](https://github.com/woocommerce/storefront/commit/ef09e16331b0af2f672a114dbc0bfd9fd9f4aa2a "Update README.txt to include changelog for version 4.6.1")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[STOREFRONT\_STATUS.md](https://github.com/woocommerce/storefront/blob/trunk/STOREFRONT_STATUS.md "STOREFRONT_STATUS.md")
+
+
+
+
+
+
+
+ | 
+
+[STOREFRONT\_STATUS.md](https://github.com/woocommerce/storefront/blob/trunk/STOREFRONT_STATUS.md "STOREFRONT_STATUS.md")
+
+
+
+
+
+
+
+ | 
+
+[Create STOREFRONT\_STATUS.md (](https://github.com/woocommerce/storefront/commit/07edbe06f935ce44df6a48fa4c10bcde15e1d4e2 "Create STOREFRONT_STATUS.md (#1510)
+* Create STOREFRONT_STATUS.md
+* add links to storefront status doc
+* Update STOREFRONT_STATUS.md")[#1510](https://github.com/woocommerce/storefront/pull/1510)[)](https://github.com/woocommerce/storefront/commit/07edbe06f935ce44df6a48fa4c10bcde15e1d4e2 "Create STOREFRONT_STATUS.md (#1510)
+* Create STOREFRONT_STATUS.md
+* add links to storefront status doc
+* Update STOREFRONT_STATUS.md")
+
+
+
+ | 
+
+Oct 21, 2020
+
+ |
+| 
+
+[archive.php](https://github.com/woocommerce/storefront/blob/trunk/archive.php "archive.php")
+
+
+
+
+
+
+
+ | 
+
+[archive.php](https://github.com/woocommerce/storefront/blob/trunk/archive.php "archive.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[comments.php](https://github.com/woocommerce/storefront/blob/trunk/comments.php "comments.php")
+
+
+
+
+
+
+
+ | 
+
+[comments.php](https://github.com/woocommerce/storefront/blob/trunk/comments.php "comments.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix escape function in comments template (](https://github.com/woocommerce/storefront/commit/0311aab0b08b64c76cfbf6cde73faab1fffde990 "Fix escape function in comments template (#1587)")[#1587](https://github.com/woocommerce/storefront/pull/1587)[)](https://github.com/woocommerce/storefront/commit/0311aab0b08b64c76cfbf6cde73faab1fffde990 "Fix escape function in comments template (#1587)")
+
+
+
+ | 
+
+Jan 26, 2021
+
+ |
+| 
+
+[composer.json](https://github.com/woocommerce/storefront/blob/trunk/composer.json "composer.json")
+
+
+
+
+
+
+
+ | 
+
+[composer.json](https://github.com/woocommerce/storefront/blob/trunk/composer.json "composer.json")
+
+
+
+
+
+
+
+ | 
+
+[Update dependencies and fix e2e tests (](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 "Update dependencies and fix e2e tests (#2160)
+* Bump webpack from 5.83.1 to 5.94.0
+Bumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.
+- [Release notes](https://github.com/webpack/webpack/releases)
+- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)
+---
+updated-dependencies:
+- dependency-name: webpack
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+* Update e2e workflow so we manually install docker-compose
+* Revert \"Update e2e workflow so we manually install docker-compose\"
+This reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.
+* Update extra packages
+* Update node
+* Downgrade susy
+* New build script
+* Fix test:e2e script
+* Fix e2e test
+* Make sure build-js.sh and validate-build.sh are excluded from builds
+* Update @wordpress/prettier-config
+* Downgrade @wordpress/eslint-plugin and @wordpress/scripts
+* Remove @typescript-eslint/no-this-alias rule
+* Fix versions
+* Update .nvmrc version
+* Update package-lock.json
+* Update package-lock.json (II)
+* Fix missing variables in scripts
+* Remove new build-js.sh script
+* Remove testing attribute
+* Update node and npm version
+---------
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")[#2160](https://github.com/woocommerce/storefront/pull/2160)[)](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 "Update dependencies and fix e2e tests (#2160)
+* Bump webpack from 5.83.1 to 5.94.0
+Bumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.
+- [Release notes](https://github.com/webpack/webpack/releases)
+- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)
+---
+updated-dependencies:
+- dependency-name: webpack
+dependency-type: indirect
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+* Update e2e workflow so we manually install docker-compose
+* Revert \"Update e2e workflow so we manually install docker-compose\"
+This reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.
+* Update extra packages
+* Update node
+* Downgrade susy
+* New build script
+* Fix test:e2e script
+* Fix e2e test
+* Make sure build-js.sh and validate-build.sh are excluded from builds
+* Update @wordpress/prettier-config
+* Downgrade @wordpress/eslint-plugin and @wordpress/scripts
+* Remove @typescript-eslint/no-this-alias rule
+* Fix versions
+* Update .nvmrc version
+* Update package-lock.json
+* Update package-lock.json (II)
+* Fix missing variables in scripts
+* Remove new build-js.sh script
+* Remove testing attribute
+* Update node and npm version
+---------
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")
+
+
+
+ | 
+
+Sep 19, 2024
+
+ |
+| 
+
+[composer.lock](https://github.com/woocommerce/storefront/blob/trunk/composer.lock "composer.lock")
+
+
+
+
+
+
+
+ | 
+
+[composer.lock](https://github.com/woocommerce/storefront/blob/trunk/composer.lock "composer.lock")
+
+
+
+
+
+
+
+ | 
+
+[Update dependency composer/installers to v2.2.0](https://github.com/woocommerce/storefront/commit/8bbbe56388cc12eb218441fa82751f8572b29d44 "Update dependency composer/installers to v2.2.0")
+
+
+
+ | 
+
+Aug 20, 2022
+
+ |
+| 
+
+[content-homepage.php](https://github.com/woocommerce/storefront/blob/trunk/content-homepage.php "content-homepage.php")
+
+
+
+
+
+
+
+ | 
+
+[content-homepage.php](https://github.com/woocommerce/storefront/blob/trunk/content-homepage.php "content-homepage.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[content-none.php](https://github.com/woocommerce/storefront/blob/trunk/content-none.php "content-none.php")
+
+
+
+
+
+
+
+ | 
+
+[content-none.php](https://github.com/woocommerce/storefront/blob/trunk/content-none.php "content-none.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[content-page.php](https://github.com/woocommerce/storefront/blob/trunk/content-page.php "content-page.php")
+
+
+
+
+
+
+
+ | 
+
+[content-page.php](https://github.com/woocommerce/storefront/blob/trunk/content-page.php "content-page.php")
+
+
+
+
+
+
+
+ | 
+
+[Improve semantic HTML for page](https://github.com/woocommerce/storefront/commit/10b0c05250c549dfeb7467589306aee68322a7e8 "Improve semantic HTML for page
+Change page wrapper from **div** to **article** for single pages to improve semantic HTML.")
+
+
+
+ | 
+
+Apr 17, 2018
+
+ |
+| 
+
+[content-single.php](https://github.com/woocommerce/storefront/blob/trunk/content-single.php "content-single.php")
+
+
+
+
+
+
+
+ | 
+
+[content-single.php](https://github.com/woocommerce/storefront/blob/trunk/content-single.php "content-single.php")
+
+
+
+
+
+
+
+ | 
+
+[Remove past references for `storefront_post_meta()`](https://github.com/woocommerce/storefront/commit/ef6d152c04d04753fcd1f64839d72d0a4f99182a "Remove past references for `storefront_post_meta()`")
+
+
+
+ | 
+
+Jan 25, 2019
+
+ |
+| 
+
+[content.php](https://github.com/woocommerce/storefront/blob/trunk/content.php "content.php")
+
+
+
+
+
+
+
+ | 
+
+[content.php](https://github.com/woocommerce/storefront/blob/trunk/content.php "content.php")
+
+
+
+
+
+
+
+ | 
+
+[Add missing hook docs in content.php (](https://github.com/woocommerce/storefront/commit/a9fec2c989bff9a33e7ff4d3806d2c21354c49eb "Add missing hook docs in content.php (#1628)")[#1628](https://github.com/woocommerce/storefront/pull/1628)[)](https://github.com/woocommerce/storefront/commit/a9fec2c989bff9a33e7ff4d3806d2c21354c49eb "Add missing hook docs in content.php (#1628)")
+
+
+
+ | 
+
+Mar 16, 2021
+
+ |
+| 
+
+[footer.php](https://github.com/woocommerce/storefront/blob/trunk/footer.php "footer.php")
+
+
+
+
+
+
+
+ | 
+
+[footer.php](https://github.com/woocommerce/storefront/blob/trunk/footer.php "footer.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[functions.php](https://github.com/woocommerce/storefront/blob/trunk/functions.php "functions.php")
+
+
+
+
+
+
+
+ | 
+
+[functions.php](https://github.com/woocommerce/storefront/blob/trunk/functions.php "functions.php")
+
+
+
+
+
+
+
+ | 
+
+[Revert "Add support for menu description. (](https://github.com/woocommerce/storefront/commit/64f5950d836b67eb643e858f44657d3331423c73 "Revert \"Add support for menu description. (#1771)\" (#1944)
+This reverts commit 26583788debc42841e96ad01e2c271c18d04ff55.")[#1771](https://github.com/woocommerce/storefront/pull/1771)[)" (](https://github.com/woocommerce/storefront/commit/64f5950d836b67eb643e858f44657d3331423c73 "Revert \"Add support for menu description. (#1771)\" (#1944)
+This reverts commit 26583788debc42841e96ad01e2c271c18d04ff55.")[#1944](https://github.com/woocommerce/storefront/pull/1944)[)](https://github.com/woocommerce/storefront/commit/64f5950d836b67eb643e858f44657d3331423c73 "Revert \"Add support for menu description. (#1771)\" (#1944)
+This reverts commit 26583788debc42841e96ad01e2c271c18d04ff55.")
+
+
+
+ | 
+
+Apr 4, 2022
+
+ |
+| 
+
+[header.php](https://github.com/woocommerce/storefront/blob/trunk/header.php "header.php")
+
+
+
+
+
+
+
+ | 
+
+[header.php](https://github.com/woocommerce/storefront/blob/trunk/header.php "header.php")
+
+
+
+
+
+
+
+ | 
+
+[Fixes](https://github.com/woocommerce/storefront/commit/69bb7d504da99838cfe6fbbd1be8cd33e443381a " Fixes #1599 (#1600)") [#1599](https://github.com/woocommerce/storefront/issues/1599) [(](https://github.com/woocommerce/storefront/commit/69bb7d504da99838cfe6fbbd1be8cd33e443381a " Fixes #1599 (#1600)")[#1600](https://github.com/woocommerce/storefront/pull/1600)[)](https://github.com/woocommerce/storefront/commit/69bb7d504da99838cfe6fbbd1be8cd33e443381a " Fixes #1599 (#1600)")
+
+
+
+ | 
+
+Feb 1, 2021
+
+ |
+| 
+
+[index.php](https://github.com/woocommerce/storefront/blob/trunk/index.php "index.php")
+
+
+
+
+
+
+
+ | 
+
+[index.php](https://github.com/woocommerce/storefront/blob/trunk/index.php "index.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[loop.php](https://github.com/woocommerce/storefront/blob/trunk/loop.php "loop.php")
+
+
+
+
+
+
+
+ | 
+
+[loop.php](https://github.com/woocommerce/storefront/blob/trunk/loop.php "loop.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[package-lock.json](https://github.com/woocommerce/storefront/blob/trunk/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/woocommerce/storefront/blob/trunk/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[Bump version to 4.6.1](https://github.com/woocommerce/storefront/commit/d65f64cd7937d891497acd8d5a1082a6fd8df7a1 "Bump version to 4.6.1")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[package.json](https://github.com/woocommerce/storefront/blob/trunk/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/woocommerce/storefront/blob/trunk/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Bump version to 4.6.1](https://github.com/woocommerce/storefront/commit/d65f64cd7937d891497acd8d5a1082a6fd8df7a1 "Bump version to 4.6.1")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[page.php](https://github.com/woocommerce/storefront/blob/trunk/page.php "page.php")
+
+
+
+
+
+
+
+ | 
+
+[page.php](https://github.com/woocommerce/storefront/blob/trunk/page.php "page.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[phpcs.xml](https://github.com/woocommerce/storefront/blob/trunk/phpcs.xml "phpcs.xml")
+
+
+
+
+
+
+
+ | 
+
+[phpcs.xml](https://github.com/woocommerce/storefront/blob/trunk/phpcs.xml "phpcs.xml")
+
+
+
+
+
+
+
+ | 
+
+[Fix php lint issues (](https://github.com/woocommerce/storefront/commit/654917738e7e6ac380b6708aca6b735ac5284ed4 "Fix php lint issues (#2041)")[#2041](https://github.com/woocommerce/storefront/pull/2041)[)](https://github.com/woocommerce/storefront/commit/654917738e7e6ac380b6708aca6b735ac5284ed4 "Fix php lint issues (#2041)")
+
+
+
+ | 
+
+Sep 8, 2022
+
+ |
+| 
+
+[renovate.json](https://github.com/woocommerce/storefront/blob/trunk/renovate.json "renovate.json")
+
+
+
+
+
+
+
+ | 
+
+[renovate.json](https://github.com/woocommerce/storefront/blob/trunk/renovate.json "renovate.json")
+
+
+
+
+
+
+
+ | 
+
+[Disable renovate bot (](https://github.com/woocommerce/storefront/commit/bf957bbfce7a4ac9bcf983e330fdd67e9b1ca414 "Disable renovate bot (#2076)")[#2076](https://github.com/woocommerce/storefront/pull/2076)[)](https://github.com/woocommerce/storefront/commit/bf957bbfce7a4ac9bcf983e330fdd67e9b1ca414 "Disable renovate bot (#2076)")
+
+
+
+ | 
+
+Dec 6, 2022
+
+ |
+| 
+
+[screenshot.png](https://github.com/woocommerce/storefront/blob/trunk/screenshot.png "screenshot.png")
+
+
+
+
+
+
+
+ | 
+
+[screenshot.png](https://github.com/woocommerce/storefront/blob/trunk/screenshot.png "screenshot.png")
+
+
+
+
+
+
+
+ | 
+
+[Image optimisation with ImageAlpha (png8+alpha) and ImageOptim. (](https://github.com/woocommerce/storefront/commit/811fda389d92ce2c0417f5f9b3b2ee1b3622eb04 "Image optimisation with ImageAlpha (png8+alpha) and ImageOptim. (#1691)
+Co-authored-by: Victor Laplace <laplace.victor@gmail.com>")[#1691](https://github.com/woocommerce/storefront/pull/1691)[)](https://github.com/woocommerce/storefront/commit/811fda389d92ce2c0417f5f9b3b2ee1b3622eb04 "Image optimisation with ImageAlpha (png8+alpha) and ImageOptim. (#1691)
+Co-authored-by: Victor Laplace <laplace.victor@gmail.com>")
+
+
+
+ | 
+
+May 25, 2021
+
+ |
+| 
+
+[search.php](https://github.com/woocommerce/storefront/blob/trunk/search.php "search.php")
+
+
+
+
+
+
+
+ | 
+
+[search.php](https://github.com/woocommerce/storefront/blob/trunk/search.php "search.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[sidebar.php](https://github.com/woocommerce/storefront/blob/trunk/sidebar.php "sidebar.php")
+
+
+
+
+
+
+
+ | 
+
+[sidebar.php](https://github.com/woocommerce/storefront/blob/trunk/sidebar.php "sidebar.php")
+
+
+
+
+
+
+
+ | 
+
+[lots of coding standards tweaks.](https://github.com/woocommerce/storefront/commit/1409ee5c6652cd685831e7d6853b64d1ee40be3f "lots of coding standards tweaks. #326") [#326](https://github.com/woocommerce/storefront/issues/326)
+
+
+
+ | 
+
+Feb 19, 2016
+
+ |
+| 
+
+[single.php](https://github.com/woocommerce/storefront/blob/trunk/single.php "single.php")
+
+
+
+
+
+
+
+ | 
+
+[single.php](https://github.com/woocommerce/storefront/blob/trunk/single.php "single.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[style.scss](https://github.com/woocommerce/storefront/blob/trunk/style.scss "style.scss")
+
+
+
+
+
+
+
+ | 
+
+[style.scss](https://github.com/woocommerce/storefront/blob/trunk/style.scss "style.scss")
+
+
+
+
+
+
+
+ | 
+
+[Bump version to 4.6.1](https://github.com/woocommerce/storefront/commit/d65f64cd7937d891497acd8d5a1082a6fd8df7a1 "Bump version to 4.6.1")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[template-fullwidth.php](https://github.com/woocommerce/storefront/blob/trunk/template-fullwidth.php "template-fullwidth.php")
+
+
+
+
+
+
+
+ | 
+
+[template-fullwidth.php](https://github.com/woocommerce/storefront/blob/trunk/template-fullwidth.php "template-fullwidth.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[template-homepage.php](https://github.com/woocommerce/storefront/blob/trunk/template-homepage.php "template-homepage.php")
+
+
+
+
+
+
+
+ | 
+
+[template-homepage.php](https://github.com/woocommerce/storefront/blob/trunk/template-homepage.php "template-homepage.php")
+
+
+
+
+
+
+
+ | 
+
+[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f "Fix PHPCS violations")
+
+
+
+ | 
+
+Jun 22, 2018
+
+ |
+| 
+
+[validate-build.sh](https://github.com/woocommerce/storefront/blob/trunk/validate-build.sh "validate-build.sh")
+
+
+
+
+
+
+
+ | 
+
+[validate-build.sh](https://github.com/woocommerce/storefront/blob/trunk/validate-build.sh "validate-build.sh")
+
+
+
+
+
+
+
+ | 
+
+[Ensure that the build has min.js files before generating the .zip file (](https://github.com/woocommerce/storefront/commit/61f976e824aa3f218cdbf5f5e5fa8848fae0648a "Ensure that the build has min.js files before generating the .zip file (#2149)
+* Ensure that the build has min.js files before generating the .zip file
+* improve error message")
+
+
+
+ | 
+
+May 17, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/woocommerce/storefront?screenshot=true#)
+
+[![Image 27: Storefront](https://camo.githubusercontent.com/049935224cd33850d55e3888d229c92c22fb55fa6d75e1e7cef837edf5a4bc88/68747470733a2f2f73746f726566726f6e742e66696c65732e776f726470726573732e636f6d2f323031372f30322f73746f726566726f6e74312e706e673f773d31303026683d3130302663726f703d31)](https://camo.githubusercontent.com/049935224cd33850d55e3888d229c92c22fb55fa6d75e1e7cef837edf5a4bc88/68747470733a2f2f73746f726566726f6e742e66696c65732e776f726470726573732e636f6d2f323031372f30322f73746f726566726f6e74312e706e673f773d31303026683d3130302663726f703d31)
+=========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+[](https://github.com/woocommerce/storefront?screenshot=true#--)
+
+[![Image 28: license](https://camo.githubusercontent.com/5eaaade2347d74e8e174f59b3ab9806f0dc15802b75e4dc3c53c1329b6a14666/68747470733a2f2f706f7365722e707567782e6f72672f776f6f636f6d6d657263652f776f6f636f6d6d657263652f6c6963656e7365)](https://camo.githubusercontent.com/5eaaade2347d74e8e174f59b3ab9806f0dc15802b75e4dc3c53c1329b6a14666/68747470733a2f2f706f7365722e707567782e6f72672f776f6f636f6d6d657263652f776f6f636f6d6d657263652f6c6963656e7365) [![Image 29: Designed for WooCommerce](https://camo.githubusercontent.com/8f093f6354b0d62e033adab649b0458e25f10895da529f826809d82eb27d2fed/687474703a2f2f696d672e736869656c64732e696f2f62616467652f44657369676e6564253230666f722d576f6f436f6d6d657263652d6134363439372e737667)](https://woocommerce.com/) [![Image 30: WordPress.org downloads](https://camo.githubusercontent.com/4f4c49e1c74e6ece83f62ddfe08221a614e903229a5be5510178430b445902cc/68747470733a2f2f696d672e736869656c64732e696f2f776f726470726573732f7468656d652f64742f73746f726566726f6e742e737667)](https://camo.githubusercontent.com/4f4c49e1c74e6ece83f62ddfe08221a614e903229a5be5510178430b445902cc/68747470733a2f2f696d672e736869656c64732e696f2f776f726470726573732f7468656d652f64742f73746f726566726f6e742e737667) [![Image 31: WordPress.org rating](https://camo.githubusercontent.com/1e4cd26ffb0185d11cfebfdad08ef4b624f5272d1f3bd26e92ff7b2643382289/68747470733a2f2f696d672e736869656c64732e696f2f776f726470726573732f7468656d652f722f73746f726566726f6e742e737667)](https://camo.githubusercontent.com/1e4cd26ffb0185d11cfebfdad08ef4b624f5272d1f3bd26e92ff7b2643382289/68747470733a2f2f696d672e736869656c64732e696f2f776f726470726573732f7468656d652f722f73746f726566726f6e742e737667)
+
+_Storefront_ is a robust and flexible [WordPress](https://wordpress.org/) theme, designed and built by the team at [WooCommerce](https://woocommerce.com/) to help you make the most out of using the [WooCommerce](https://woocommerce.com/) plugin to power your online store. It's available to download for free from the WordPress [theme repository](https://wordpress.org/themes/storefront/).
+
+It features deep integration with WooCommerce core plus several of the most popular extensions:
+
+*   [WooCommerce Bookings](https://woocommerce.com/products/woocommerce-bookings/)
+*   [WooCommerce Wishlists](https://woocommerce.com/products/woocommerce-wishlists/)
+*   [WooCommerce Brands](https://woocommerce.com/products/brands/)
+*   [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/)
+
+For developers, Storefront is the perfect starting point for your project. Its lean and extensible codebase will allow you to easily add functionality to your site via a child theme and/or custom plugin(s).
+
+Storefront Status
+-----------------
+
+[](https://github.com/woocommerce/storefront?screenshot=true#storefront-status)
+
+Please read [this document](https://github.com/woocommerce/storefront/blob/trunk/STOREFRONT_STATUS.md) explaining the current status of Storefront development.
+
+Storefront extensions
+---------------------
+
+[](https://github.com/woocommerce/storefront?screenshot=true#storefront-extensions)
+
+Looking to take your storefront powered store to the next level? Be sure to checkout the premium [Storefront extensions](https://woocommerce.com/product-category/storefront-extensions/).
+
+Storefront Documentation
+------------------------
+
+[](https://github.com/woocommerce/storefront?screenshot=true#storefront-documentation)
+
+You can view detailed Storefront documentation on the [WooCommerce documentation website](https://woocommerce.com/documentation/themes/storefront/).
+
+Storefront in your language
+---------------------------
+
+[](https://github.com/woocommerce/storefront?screenshot=true#storefront-in-your-language)
+
+Storefront translations can be downloaded from [WordPress.org](https://translate.wordpress.org/projects/wp-themes/storefront). To use one of these translations it is recommended that you upload it to `wp-content/languages/themes/storefront-pt_BR.mo`. Adding it to this location means the file will not be lost when you update Storefront. It is however possible to add a translation to the `languages` folder in your child theme if you'd prefer.
+
+Storefront help & support
+-------------------------
+
+[](https://github.com/woocommerce/storefront?screenshot=true#storefront-help--support)
+
+WooCommerce customers can get support at the [WooCommerce support portal](https://woocommerce.com/contact-us/). Otherwise, you can try posting on the [WordPress support forums](https://wordpress.org/support/theme/storefront/). Please remember, GitHub is for bug reports and contributions, _not_ support.
+
+Contributing to Storefront
+--------------------------
+
+[](https://github.com/woocommerce/storefront?screenshot=true#contributing-to-storefront)
+
+If you have a patch, or you've stumbled upon an issue with Storefront core, you can contribute this back to the code. Please read our [contributor guidelines](https://github.com/woocommerce/storefront/blob/master/CONTRIBUTING.md) for more information about how you can do this.
+
+If you have an idea or feature request please take a look at the [Storefront Feature Requests](https://woocommerce.com/feature-requests/storefront/) to see if it's already been suggested, planned, or is under development. If not, please add it there.
+
+You can keep up with the latest Storefront developments on the [dev blog](https://woocommerce.wordpress.com/category/storefront/).
+
+Testing Storefront
+------------------
+
+[](https://github.com/woocommerce/storefront?screenshot=true#testing-storefront)
+
+Want to help test upcoming Storefront releases? Check out the [Storefront Beta Tester](https://github.com/seb86/Storefront-Beta-Tester) plugin.
+
+About
+-----
+
+Official theme for WooCommerce
+
+[wordpress.org/themes/storefront/](https://wordpress.org/themes/storefront/ "https://wordpress.org/themes/storefront/")
+
+### Topics
+
+[css](https://github.com/topics/css "Topic: css") [php](https://github.com/topics/php "Topic: php") [wordpress](https://github.com/topics/wordpress "Topic: wordpress") [wordpress-theme](https://github.com/topics/wordpress-theme "Topic: wordpress-theme") [storefront](https://github.com/topics/storefront "Topic: storefront") [woocommerce](https://github.com/topics/woocommerce "Topic: woocommerce") [automattic](https://github.com/topics/automattic "Topic: automattic")
+
+### Resources
+
+[Readme](https://github.com/woocommerce/storefront?screenshot=true#readme-ov-file)
+
+[Activity](https://github.com/woocommerce/storefront/activity)
+
+[Custom properties](https://github.com/woocommerce/storefront/custom-properties)
+
+### Stars
+
+[**981** stars](https://github.com/woocommerce/storefront/stargazers)
+
+### Watchers
+
+[**184** watching](https://github.com/woocommerce/storefront/watchers)
+
+### Forks
+
+[**473** forks](https://github.com/woocommerce/storefront/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fwoocommerce%2Fstorefront&report=woocommerce+%28user%29)
+
+[Releases 101](https://github.com/woocommerce/storefront/releases)
+------------------------------------------------------------------
+
+[4.6.1 Latest Jan 20, 2025](https://github.com/woocommerce/storefront/releases/tag/4.6.1)
+
+[\+ 100 releases](https://github.com/woocommerce/storefront/releases)
+
+[Packages 0](https://github.com/orgs/woocommerce/packages?repo_name=storefront)
+-------------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 117](https://github.com/woocommerce/storefront/graphs/contributors)
+---------------------------------------------------------------------------------
+
+*   [![Image 32: @jameskoster](https://avatars.githubusercontent.com/u/846565?s=64&v=4)](https://github.com/jameskoster)
+*   [![Image 33: @tiagonoronha](https://avatars.githubusercontent.com/u/1177726?s=64&v=4)](https://github.com/tiagonoronha)
+*   [![Image 34: @renovate-bot](https://avatars.githubusercontent.com/u/25180681?s=64&v=4)](https://github.com/renovate-bot)
+*   [![Image 35: @haszari](https://avatars.githubusercontent.com/u/4167300?s=64&v=4)](https://github.com/haszari)
+*   [![Image 36: @renovate[bot]](https://avatars.githubusercontent.com/in/2740?s=64&v=4)](https://github.com/apps/renovate)
+*   [![Image 37: @Aljullu](https://avatars.githubusercontent.com/u/3616980?s=64&v=4)](https://github.com/Aljullu)
+*   [![Image 38: @mikejolley](https://avatars.githubusercontent.com/u/90977?s=64&v=4)](https://github.com/mikejolley)
+*   [![Image 39: @opportus](https://avatars.githubusercontent.com/u/11618989?s=64&v=4)](https://github.com/opportus)
+*   [![Image 40: @nielslange](https://avatars.githubusercontent.com/u/3323310?s=64&v=4)](https://github.com/nielslange)
+*   [![Image 41: @SiR-DanieL](https://avatars.githubusercontent.com/u/4429413?s=64&v=4)](https://github.com/SiR-DanieL)
+*   [![Image 42: @claudiosanches](https://avatars.githubusercontent.com/u/1264099?s=64&v=4)](https://github.com/claudiosanches)
+*   [![Image 43: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 44: @peterfabian](https://avatars.githubusercontent.com/u/2207451?s=64&v=4)](https://github.com/peterfabian)
+*   [![Image 45: @mikeyarce](https://avatars.githubusercontent.com/u/3220162?s=64&v=4)](https://github.com/mikeyarce)
+
+[\+ 103 contributors](https://github.com/woocommerce/storefront/graphs/contributors)
+
+Languages
+---------
+
+*   [PHP 60.1%](https://github.com/woocommerce/storefront/search?l=php)
+*   [SCSS 34.5%](https://github.com/woocommerce/storefront/search?l=scss)
+*   [JavaScript 5.1%](https://github.com/woocommerce/storefront/search?l=javascript)
+*   [Shell 0.3%](https://github.com/woocommerce/storefront/search?l=shell)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - woocommerce/storefront: Official theme for WooCommerce",
+  "description": "Official theme for WooCommerce. Contribute to woocommerce/storefront development by creating an account on GitHub.",
+  "url": "https://github.com/woocommerce/storefront?screenshot=true",
+  "content": "GitHub - woocommerce/storefront: Official theme for WooCommerce\n===============\n                                           \n\n[Skip to content](https://github.com/woocommerce/storefront?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwoocommerce%2Fstorefront%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwoocommerce%2Fstorefront%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=woocommerce%2Fstorefront) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[woocommerce](https://github.com/woocommerce) / **[storefront](https://github.com/woocommerce/storefront)** Public\n\n*   [Notifications](https://github.com/login?return_to=%2Fwoocommerce%2Fstorefront) You must be signed in to change notification settings\n*   [Fork 473](https://github.com/login?return_to=%2Fwoocommerce%2Fstorefront)\n*   [Star 981](https://github.com/login?return_to=%2Fwoocommerce%2Fstorefront)\n    \n\nOfficial theme for WooCommerce\n\n[wordpress.org/themes/storefront/](https://wordpress.org/themes/storefront/ \"https://wordpress.org/themes/storefront/\")\n\n[981 stars](https://github.com/woocommerce/storefront/stargazers) [473 forks](https://github.com/woocommerce/storefront/forks) [Branches](https://github.com/woocommerce/storefront/branches) [Tags](https://github.com/woocommerce/storefront/tags) [Activity](https://github.com/woocommerce/storefront/activity)\n\n[Star](https://github.com/login?return_to=%2Fwoocommerce%2Fstorefront)\n\n[Notifications](https://github.com/login?return_to=%2Fwoocommerce%2Fstorefront) You must be signed in to change notification settings\n\n*   [Code](https://github.com/woocommerce/storefront)\n*   [Issues 91](https://github.com/woocommerce/storefront/issues)\n*   [Pull requests 12](https://github.com/woocommerce/storefront/pulls)\n*   [Actions](https://github.com/woocommerce/storefront/actions)\n*   [Wiki](https://github.com/woocommerce/storefront/wiki)\n*   [Security](https://github.com/woocommerce/storefront/security)\n*   [Insights](https://github.com/woocommerce/storefront/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/woocommerce/storefront)\n*   [Issues](https://github.com/woocommerce/storefront/issues)\n*   [Pull requests](https://github.com/woocommerce/storefront/pulls)\n*   [Actions](https://github.com/woocommerce/storefront/actions)\n*   [Wiki](https://github.com/woocommerce/storefront/wiki)\n*   [Security](https://github.com/woocommerce/storefront/security)\n*   [Insights](https://github.com/woocommerce/storefront/pulse)\n\nwoocommerce/storefront\n======================\n\n  \n\n trunk\n\n[**28** Branches](https://github.com/woocommerce/storefront/branches)[**128** Tags](https://github.com/woocommerce/storefront/tags)\n\n[](https://github.com/woocommerce/storefront/branches)[](https://github.com/woocommerce/storefront/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 26: imanish003](https://avatars.githubusercontent.com/u/16707866?v=4&size=40)](https://github.com/imanish003)[imanish003](https://github.com/woocommerce/storefront/commits?author=imanish003)\n\n[Update Pot file](https://github.com/woocommerce/storefront/commit/1778430c32fa45ee74b0094a56a9ff81ac0da7b8)\n\nJan 20, 2025\n\n[1778430](https://github.com/woocommerce/storefront/commit/1778430c32fa45ee74b0094a56a9ff81ac0da7b8) · Jan 20, 2025\n\nHistory\n-------\n\n[2,874 Commits](https://github.com/woocommerce/storefront/commits/trunk/)\n\n[](https://github.com/woocommerce/storefront/commits/trunk/)\n\n\n\n\n\n\n\n |\n| \n\n[.github](https://github.com/woocommerce/storefront/tree/trunk/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[.github](https://github.com/woocommerce/storefront/tree/trunk/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[Update actions/upload-artifact from v3 to v4 to use the latest versio…](https://github.com/woocommerce/storefront/commit/09f8b6a8a8db3dc4014334e9638628f26ec04806 \"Update actions/upload-artifact from v3 to v4 to use the latest version. Also fix E2E test artifacts generation by configuring jest-html-reporters. (#2180)\n* Bump actions/upload-artifact from v3 to v4\n* Try reverting to v3\n* Use ubuntu-22.04\n* Testing \\\"E2E tests\\\" workflow\n* Add missing jest-html-reporters configuration\n- Add jest-html-reporters configuration to generate HTML test reports\n- Reports will be saved in ./artifacts/report.html\n* Add jest-html-reporters to generate HTML test reports\n* Remove failing tests which was added for testing\n* Update jest-html-reporters version\")\n\n\n\n | \n\nDec 27, 2024\n\n |\n| \n\n[assets](https://github.com/woocommerce/storefront/tree/trunk/assets \"assets\")\n\n\n\n\n\n\n\n | \n\n[assets](https://github.com/woocommerce/storefront/tree/trunk/assets \"assets\")\n\n\n\n\n\n\n\n | \n\n[Add style to coupon error inline message (](https://github.com/woocommerce/storefront/commit/a32d702076cb2b682f667c5b43efa733a675cf4e \"Add style to coupon error inline message (#2178)\")[#2178](https://github.com/woocommerce/storefront/pull/2178)[)](https://github.com/woocommerce/storefront/commit/a32d702076cb2b682f667c5b43efa733a675cf4e \"Add style to coupon error inline message (#2178)\")\n\n\n\n | \n\nJan 9, 2025\n\n |\n| \n\n[e2e/specs](https://github.com/woocommerce/storefront/tree/trunk/e2e/specs \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[e2e/specs](https://github.com/woocommerce/storefront/tree/trunk/e2e/specs \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[Update dependencies and fix e2e tests (](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 \"Update dependencies and fix e2e tests (#2160)\n* Bump webpack from 5.83.1 to 5.94.0\nBumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.\n- [Release notes](https://github.com/webpack/webpack/releases)\n- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)\n---\nupdated-dependencies:\n- dependency-name: webpack\ndependency-type: indirect\n...\nSigned-off-by: dependabot[bot] <support@github.com>\n* Update e2e workflow so we manually install docker-compose\n* Revert \\\"Update e2e workflow so we manually install docker-compose\\\"\nThis reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.\n* Update extra packages\n* Update node\n* Downgrade susy\n* New build script\n* Fix test:e2e script\n* Fix e2e test\n* Make sure build-js.sh and validate-build.sh are excluded from builds\n* Update @wordpress/prettier-config\n* Downgrade @wordpress/eslint-plugin and @wordpress/scripts\n* Remove @typescript-eslint/no-this-alias rule\n* Fix versions\n* Update .nvmrc version\n* Update package-lock.json\n* Update package-lock.json (II)\n* Fix missing variables in scripts\n* Remove new build-js.sh script\n* Remove testing attribute\n* Update node and npm version\n---------\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\")[#2160](https://github.com/woocommerce/storefront/pull/2160)[)](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 \"Update dependencies and fix e2e tests (#2160)\n* Bump webpack from 5.83.1 to 5.94.0\nBumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.\n- [Release notes](https://github.com/webpack/webpack/releases)\n- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)\n---\nupdated-dependencies:\n- dependency-name: webpack\ndependency-type: indirect\n...\nSigned-off-by: dependabot[bot] <support@github.com>\n* Update e2e workflow so we manually install docker-compose\n* Revert \\\"Update e2e workflow so we manually install docker-compose\\\"\nThis reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.\n* Update extra packages\n* Update node\n* Downgrade susy\n* New build script\n* Fix test:e2e script\n* Fix e2e test\n* Make sure build-js.sh and validate-build.sh are excluded from builds\n* Update @wordpress/prettier-config\n* Downgrade @wordpress/eslint-plugin and @wordpress/scripts\n* Remove @typescript-eslint/no-this-alias rule\n* Fix versions\n* Update .nvmrc version\n* Update package-lock.json\n* Update package-lock.json (II)\n* Fix missing variables in scripts\n* Remove new build-js.sh script\n* Remove testing attribute\n* Update node and npm version\n---------\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\")\n\n\n\n | \n\nSep 19, 2024\n\n |\n| \n\n[inc](https://github.com/woocommerce/storefront/tree/trunk/inc \"inc\")\n\n\n\n\n\n\n\n | \n\n[inc](https://github.com/woocommerce/storefront/tree/trunk/inc \"inc\")\n\n\n\n\n\n\n\n | \n\n[Add support for appearance tools. (](https://github.com/woocommerce/storefront/commit/62caa79b0ba92cd08bf18bc2a088678aac247f41 \"Add support for appearance tools. (#2143)\nThis provides support for spacing, border, typography, and color\noptions, even without using theme.json\nSee: https://wordpress.org/documentation/wordpress-version/version-6-5/#add-appearance-tools-to-classic-themes\")[#2143](https://github.com/woocommerce/storefront/pull/2143)[)](https://github.com/woocommerce/storefront/commit/62caa79b0ba92cd08bf18bc2a088678aac247f41 \"Add support for appearance tools. (#2143)\nThis provides support for spacing, border, typography, and color\noptions, even without using theme.json\nSee: https://wordpress.org/documentation/wordpress-version/version-6-5/#add-appearance-tools-to-classic-themes\")\n\n\n\n | \n\nMay 15, 2024\n\n |\n| \n\n[languages](https://github.com/woocommerce/storefront/tree/trunk/languages \"languages\")\n\n\n\n\n\n\n\n | \n\n[languages](https://github.com/woocommerce/storefront/tree/trunk/languages \"languages\")\n\n\n\n\n\n\n\n | \n\n[Update Pot file](https://github.com/woocommerce/storefront/commit/1778430c32fa45ee74b0094a56a9ff81ac0da7b8 \"Update Pot file\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\n[.browserslistrc](https://github.com/woocommerce/storefront/blob/trunk/.browserslistrc \".browserslistrc\")\n\n\n\n\n\n\n\n | \n\n[.browserslistrc](https://github.com/woocommerce/storefront/blob/trunk/.browserslistrc \".browserslistrc\")\n\n\n\n\n\n\n\n | \n\n[Update build tools (](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed \"Update build tools (#1674)\nAlong with adding linting tools, commit also introduces the following changes:\n- Adds our suite of tooling for code styling/linting and closes #1656\n- Updates the license information which closes #1669\n- Adds browserlist config instead of defining manually which closes #1497\n- Removes grunt and uses npm instead for building which closes #1433\n- Moving away from grunt has fixed #1662\")[#1674](https://github.com/woocommerce/storefront/pull/1674)[)](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed \"Update build tools (#1674)\nAlong with adding linting tools, commit also introduces the following changes:\n- Adds our suite of tooling for code styling/linting and closes #1656\n- Updates the license information which closes #1669\n- Adds browserlist config instead of defining manually which closes #1497\n- Removes grunt and uses npm instead for building which closes #1433\n- Moving away from grunt has fixed #1662\")\n\n\n\n | \n\nMay 7, 2021\n\n |\n| \n\n[.editorconfig](https://github.com/woocommerce/storefront/blob/trunk/.editorconfig \".editorconfig\")\n\n\n\n\n\n\n\n | \n\n[.editorconfig](https://github.com/woocommerce/storefront/blob/trunk/.editorconfig \".editorconfig\")\n\n\n\n\n\n\n\n | \n\n[Update build tools (](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed \"Update build tools (#1674)\nAlong with adding linting tools, commit also introduces the following changes:\n- Adds our suite of tooling for code styling/linting and closes #1656\n- Updates the license information which closes #1669\n- Adds browserlist config instead of defining manually which closes #1497\n- Removes grunt and uses npm instead for building which closes #1433\n- Moving away from grunt has fixed #1662\")[#1674](https://github.com/woocommerce/storefront/pull/1674)[)](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed \"Update build tools (#1674)\nAlong with adding linting tools, commit also introduces the following changes:\n- Adds our suite of tooling for code styling/linting and closes #1656\n- Updates the license information which closes #1669\n- Adds browserlist config instead of defining manually which closes #1497\n- Removes grunt and uses npm instead for building which closes #1433\n- Moving away from grunt has fixed #1662\")\n\n\n\n | \n\nMay 7, 2021\n\n |\n| \n\n[.eslintrc.js](https://github.com/woocommerce/storefront/blob/trunk/.eslintrc.js \".eslintrc.js\")\n\n\n\n\n\n\n\n | \n\n[.eslintrc.js](https://github.com/woocommerce/storefront/blob/trunk/.eslintrc.js \".eslintrc.js\")\n\n\n\n\n\n\n\n | \n\n[Update dependencies and fix e2e tests (](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 \"Update dependencies and fix e2e tests (#2160)\n* Bump webpack from 5.83.1 to 5.94.0\nBumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.\n- [Release notes](https://github.com/webpack/webpack/releases)\n- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)\n---\nupdated-dependencies:\n- dependency-name: webpack\ndependency-type: indirect\n...\nSigned-off-by: dependabot[bot] <support@github.com>\n* Update e2e workflow so we manually install docker-compose\n* Revert \\\"Update e2e workflow so we manually install docker-compose\\\"\nThis reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.\n* Update extra packages\n* Update node\n* Downgrade susy\n* New build script\n* Fix test:e2e script\n* Fix e2e test\n* Make sure build-js.sh and validate-build.sh are excluded from builds\n* Update @wordpress/prettier-config\n* Downgrade @wordpress/eslint-plugin and @wordpress/scripts\n* Remove @typescript-eslint/no-this-alias rule\n* Fix versions\n* Update .nvmrc version\n* Update package-lock.json\n* Update package-lock.json (II)\n* Fix missing variables in scripts\n* Remove new build-js.sh script\n* Remove testing attribute\n* Update node and npm version\n---------\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\")[#2160](https://github.com/woocommerce/storefront/pull/2160)[)](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 \"Update dependencies and fix e2e tests (#2160)\n* Bump webpack from 5.83.1 to 5.94.0\nBumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.\n- [Release notes](https://github.com/webpack/webpack/releases)\n- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)\n---\nupdated-dependencies:\n- dependency-name: webpack\ndependency-type: indirect\n...\nSigned-off-by: dependabot[bot] <support@github.com>\n* Update e2e workflow so we manually install docker-compose\n* Revert \\\"Update e2e workflow so we manually install docker-compose\\\"\nThis reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.\n* Update extra packages\n* Update node\n* Downgrade susy\n* New build script\n* Fix test:e2e script\n* Fix e2e test\n* Make sure build-js.sh and validate-build.sh are excluded from builds\n* Update @wordpress/prettier-config\n* Downgrade @wordpress/eslint-plugin and @wordpress/scripts\n* Remove @typescript-eslint/no-this-alias rule\n* Fix versions\n* Update .nvmrc version\n* Update package-lock.json\n* Update package-lock.json (II)\n* Fix missing variables in scripts\n* Remove new build-js.sh script\n* Remove testing attribute\n* Update node and npm version\n---------\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\")\n\n\n\n | \n\nSep 19, 2024\n\n |\n| \n\n[.gitignore](https://github.com/woocommerce/storefront/blob/trunk/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/woocommerce/storefront/blob/trunk/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[ignore eslint report](https://github.com/woocommerce/storefront/commit/28b1716320b12aee4f19b2e9e14ee84908851028 \"ignore eslint report\")\n\n\n\n | \n\nJul 26, 2021\n\n |\n| \n\n[.nvmrc](https://github.com/woocommerce/storefront/blob/trunk/.nvmrc \".nvmrc\")\n\n\n\n\n\n\n\n | \n\n[.nvmrc](https://github.com/woocommerce/storefront/blob/trunk/.nvmrc \".nvmrc\")\n\n\n\n\n\n\n\n | \n\n[Update dependencies and fix e2e tests (](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 \"Update dependencies and fix e2e tests (#2160)\n* Bump webpack from 5.83.1 to 5.94.0\nBumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.\n- [Release notes](https://github.com/webpack/webpack/releases)\n- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)\n---\nupdated-dependencies:\n- dependency-name: webpack\ndependency-type: indirect\n...\nSigned-off-by: dependabot[bot] <support@github.com>\n* Update e2e workflow so we manually install docker-compose\n* Revert \\\"Update e2e workflow so we manually install docker-compose\\\"\nThis reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.\n* Update extra packages\n* Update node\n* Downgrade susy\n* New build script\n* Fix test:e2e script\n* Fix e2e test\n* Make sure build-js.sh and validate-build.sh are excluded from builds\n* Update @wordpress/prettier-config\n* Downgrade @wordpress/eslint-plugin and @wordpress/scripts\n* Remove @typescript-eslint/no-this-alias rule\n* Fix versions\n* Update .nvmrc version\n* Update package-lock.json\n* Update package-lock.json (II)\n* Fix missing variables in scripts\n* Remove new build-js.sh script\n* Remove testing attribute\n* Update node and npm version\n---------\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\")[#2160](https://github.com/woocommerce/storefront/pull/2160)[)](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 \"Update dependencies and fix e2e tests (#2160)\n* Bump webpack from 5.83.1 to 5.94.0\nBumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.\n- [Release notes](https://github.com/webpack/webpack/releases)\n- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)\n---\nupdated-dependencies:\n- dependency-name: webpack\ndependency-type: indirect\n...\nSigned-off-by: dependabot[bot] <support@github.com>\n* Update e2e workflow so we manually install docker-compose\n* Revert \\\"Update e2e workflow so we manually install docker-compose\\\"\nThis reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.\n* Update extra packages\n* Update node\n* Downgrade susy\n* New build script\n* Fix test:e2e script\n* Fix e2e test\n* Make sure build-js.sh and validate-build.sh are excluded from builds\n* Update @wordpress/prettier-config\n* Downgrade @wordpress/eslint-plugin and @wordpress/scripts\n* Remove @typescript-eslint/no-this-alias rule\n* Fix versions\n* Update .nvmrc version\n* Update package-lock.json\n* Update package-lock.json (II)\n* Fix missing variables in scripts\n* Remove new build-js.sh script\n* Remove testing attribute\n* Update node and npm version\n---------\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\")\n\n\n\n | \n\nSep 19, 2024\n\n |\n| \n\n[.prettierrc.js](https://github.com/woocommerce/storefront/blob/trunk/.prettierrc.js \".prettierrc.js\")\n\n\n\n\n\n\n\n | \n\n[.prettierrc.js](https://github.com/woocommerce/storefront/blob/trunk/.prettierrc.js \".prettierrc.js\")\n\n\n\n\n\n\n\n | \n\n[Update build tools (](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed \"Update build tools (#1674)\nAlong with adding linting tools, commit also introduces the following changes:\n- Adds our suite of tooling for code styling/linting and closes #1656\n- Updates the license information which closes #1669\n- Adds browserlist config instead of defining manually which closes #1497\n- Removes grunt and uses npm instead for building which closes #1433\n- Moving away from grunt has fixed #1662\")[#1674](https://github.com/woocommerce/storefront/pull/1674)[)](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed \"Update build tools (#1674)\nAlong with adding linting tools, commit also introduces the following changes:\n- Adds our suite of tooling for code styling/linting and closes #1656\n- Updates the license information which closes #1669\n- Adds browserlist config instead of defining manually which closes #1497\n- Removes grunt and uses npm instead for building which closes #1433\n- Moving away from grunt has fixed #1662\")\n\n\n\n | \n\nMay 7, 2021\n\n |\n| \n\n[.stylelintignore](https://github.com/woocommerce/storefront/blob/trunk/.stylelintignore \".stylelintignore\")\n\n\n\n\n\n\n\n | \n\n[.stylelintignore](https://github.com/woocommerce/storefront/blob/trunk/.stylelintignore \".stylelintignore\")\n\n\n\n\n\n\n\n | \n\n[Update build tools (](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed \"Update build tools (#1674)\nAlong with adding linting tools, commit also introduces the following changes:\n- Adds our suite of tooling for code styling/linting and closes #1656\n- Updates the license information which closes #1669\n- Adds browserlist config instead of defining manually which closes #1497\n- Removes grunt and uses npm instead for building which closes #1433\n- Moving away from grunt has fixed #1662\")[#1674](https://github.com/woocommerce/storefront/pull/1674)[)](https://github.com/woocommerce/storefront/commit/1f8f36a8145b4b60a044b0c28a0c84913d7aa7ed \"Update build tools (#1674)\nAlong with adding linting tools, commit also introduces the following changes:\n- Adds our suite of tooling for code styling/linting and closes #1656\n- Updates the license information which closes #1669\n- Adds browserlist config instead of defining manually which closes #1497\n- Removes grunt and uses npm instead for building which closes #1433\n- Moving away from grunt has fixed #1662\")\n\n\n\n | \n\nMay 7, 2021\n\n |\n| \n\n[.stylelintrc.json](https://github.com/woocommerce/storefront/blob/trunk/.stylelintrc.json \".stylelintrc.json\")\n\n\n\n\n\n\n\n | \n\n[.stylelintrc.json](https://github.com/woocommerce/storefront/blob/trunk/.stylelintrc.json \".stylelintrc.json\")\n\n\n\n\n\n\n\n | \n\n[Update dependency @wordpress/scripts to v20 (](https://github.com/woocommerce/storefront/commit/9e20f808a584e546f80ef89633ee18a91872275f \"Update dependency @wordpress/scripts to v20 (#1887)\n* Update dependency @wordpress/scripts to v20\n* Update stylelint config\nCo-authored-by: Renovate Bot <bot@renovateapp.com>\nCo-authored-by: Albert Juhé Lluveras <contact@albertjuhe.com>\")[#1887](https://github.com/woocommerce/storefront/pull/1887)[)](https://github.com/woocommerce/storefront/commit/9e20f808a584e546f80ef89633ee18a91872275f \"Update dependency @wordpress/scripts to v20 (#1887)\n* Update dependency @wordpress/scripts to v20\n* Update stylelint config\nCo-authored-by: Renovate Bot <bot@renovateapp.com>\nCo-authored-by: Albert Juhé Lluveras <contact@albertjuhe.com>\")\n\n\n\n | \n\nFeb 3, 2022\n\n |\n| \n\n[.wp-env.json](https://github.com/woocommerce/storefront/blob/trunk/.wp-env.json \".wp-env.json\")\n\n\n\n\n\n\n\n | \n\n[.wp-env.json](https://github.com/woocommerce/storefront/blob/trunk/.wp-env.json \".wp-env.json\")\n\n\n\n\n\n\n\n | \n\n[add custom ports](https://github.com/woocommerce/storefront/commit/9e6f623eec5d036fd458701899d210cb30078985 \"add custom ports\")\n\n\n\n | \n\nJun 24, 2020\n\n |\n| \n\n[404.php](https://github.com/woocommerce/storefront/blob/trunk/404.php \"404.php\")\n\n\n\n\n\n\n\n | \n\n[404.php](https://github.com/woocommerce/storefront/blob/trunk/404.php \"404.php\")\n\n\n\n\n\n\n\n | \n\n[reinstate phpcs php linting (](https://github.com/woocommerce/storefront/commit/7bd21718667886f3741d0bda9eb60352b5874cd8 \"reinstate phpcs php linting (#1463)\n* update squizlabs/php_codesniffer and WP coding standards to latest\n* revamp phpcs sniffer rulesets:\n- update to php-compatibility (wimg is defunct)\n- add version for woocommerce-sniffs\n* streamline phpcs config (get it working at all):\n- update min WP version to 5.3\n- remove references to rules we don't have installed\n- WordPress.VIP\n- WordPress.XSS\n* fix 2x phpcs errors (automatically via phpcbf)\n* update phps ignore unescaped output comment to current format\n* add npm scripts for php linter and linter autofixer\n* auto-fix PHP linter errors using phpcbf :\nBefore phpcbf:\n[x] PEAR      Functions           Function call signature multiple arguments          127\n[x] Generic   White space         Disallow space indent spaces used                   10\n[ ] WordPres  WP                  Enqueued resource parameters missing version        6\n[ ] PHPCompa  Language construct  New language constructs t_ns_separator found        4\n[ ] WordPres  Security            Escape output output not escaped                    4\n[ ] PHPCompa  Parameter values    New HTMLEntities encoding default not set           2\n[ ] WordPres  Date time           Restricted functions date_date                      2\n[x] Generic   Files               End file newline not found                          1\n[x] PEAR      Functions           Function call signature close bracket line          1\n[x] PEAR      Functions           Function call signature content after open bracket  1\n[x] Squiz     White space         Superfluous whitespace end line                     1\n[x] WordPres  Arrays              Comma after array item no comma                     1\nphpcbf fixed all [x] violations, all whitespace/formatting\nAfter phpcbf:\nWordPres  WP                  Enqueued resource parameters missing version      6\nPHPCompa  Language construct  New language constructs t_ns_separator found      4\nWordPres  Security            Escape output output not escaped                  4\nPHPCompa  Parameter values    New HTMLEntities encoding default not set         2\nWordPres  Date time           Restricted functions date_date                    2\nNote - this commit does not include auto-fixed files with other\nviolations. These will follow in separate commit (after fixing!)\n* fix phpcs violations:\n- numerous formatting issues fixed automatically\n- manually fix missing version param in calls to wp_enqueue_style\n* fix phpcs violations:\n- numerous formatting issues fixed automatically\n- fix missing deps param in call to wp_enqueue_style\n* update phpcs test php version to match min requirement (5.6)\n* fix phpcs violations including some missing escaping:\n- numerous formatting issues fixed automatically\n- prefer gmdate() over potentially ambiguous date()\n- escape output (a real issue!) of comment dates\n* fix violations (all automated formatting fixes)\n* reinstate WordPress rule/standard in phpcs.xml (minimise PR changes)\n* exclude build (pre-zip) ./storefront & tighten excludes for dep folders\n* bulk-update Security.EscapeOutput.OutputNotEscaped ignore comment:\n- the previous comment format is no longer supported\n- bulk replacing these to reduce phpcs warning overhead\")[#1463](https://github.com/woocommerce/storefront/pull/1463)[)](https://github.com/woocommerce/storefront/commit/7bd21718667886f3741d0bda9eb60352b5874cd8 \"reinstate phpcs php linting (#1463)\n* update squizlabs/php_codesniffer and WP coding standards to latest\n* revamp phpcs sniffer rulesets:\n- update to php-compatibility (wimg is defunct)\n- add version for woocommerce-sniffs\n* streamline phpcs config (get it working at all):\n- update min WP version to 5.3\n- remove references to rules we don't have installed\n- WordPress.VIP\n- WordPress.XSS\n* fix 2x phpcs errors (automatically via phpcbf)\n* update phps ignore unescaped output comment to current format\n* add npm scripts for php linter and linter autofixer\n* auto-fix PHP linter errors using phpcbf :\nBefore phpcbf:\n[x] PEAR      Functions           Function call signature multiple arguments          127\n[x] Generic   White space         Disallow space indent spaces used                   10\n[ ] WordPres  WP                  Enqueued resource parameters missing version        6\n[ ] PHPCompa  Language construct  New language constructs t_ns_separator found        4\n[ ] WordPres  Security            Escape output output not escaped                    4\n[ ] PHPCompa  Parameter values    New HTMLEntities encoding default not set           2\n[ ] WordPres  Date time           Restricted functions date_date                      2\n[x] Generic   Files               End file newline not found                          1\n[x] PEAR      Functions           Function call signature close bracket line          1\n[x] PEAR      Functions           Function call signature content after open bracket  1\n[x] Squiz     White space         Superfluous whitespace end line                     1\n[x] WordPres  Arrays              Comma after array item no comma                     1\nphpcbf fixed all [x] violations, all whitespace/formatting\nAfter phpcbf:\nWordPres  WP                  Enqueued resource parameters missing version      6\nPHPCompa  Language construct  New language constructs t_ns_separator found      4\nWordPres  Security            Escape output output not escaped                  4\nPHPCompa  Parameter values    New HTMLEntities encoding default not set         2\nWordPres  Date time           Restricted functions date_date                    2\nNote - this commit does not include auto-fixed files with other\nviolations. These will follow in separate commit (after fixing!)\n* fix phpcs violations:\n- numerous formatting issues fixed automatically\n- manually fix missing version param in calls to wp_enqueue_style\n* fix phpcs violations:\n- numerous formatting issues fixed automatically\n- fix missing deps param in call to wp_enqueue_style\n* update phpcs test php version to match min requirement (5.6)\n* fix phpcs violations including some missing escaping:\n- numerous formatting issues fixed automatically\n- prefer gmdate() over potentially ambiguous date()\n- escape output (a real issue!) of comment dates\n* fix violations (all automated formatting fixes)\n* reinstate WordPress rule/standard in phpcs.xml (minimise PR changes)\n* exclude build (pre-zip) ./storefront & tighten excludes for dep folders\n* bulk-update Security.EscapeOutput.OutputNotEscaped ignore comment:\n- the previous comment format is no longer supported\n- bulk replacing these to reduce phpcs warning overhead\")\n\n\n\n | \n\nSep 21, 2020\n\n |\n| \n\n[CONTRIBUTING.md](https://github.com/woocommerce/storefront/blob/trunk/CONTRIBUTING.md \"CONTRIBUTING.md\")\n\n\n\n\n\n\n\n | \n\n[CONTRIBUTING.md](https://github.com/woocommerce/storefront/blob/trunk/CONTRIBUTING.md \"CONTRIBUTING.md\")\n\n\n\n\n\n\n\n | \n\n[Update Woo.com links to Wooommerce.com (](https://github.com/woocommerce/storefront/commit/924b80a76e316d44fa71a27dc1baf12b812b6b8c \"Update Woo.com links to Wooommerce.com (#2142)\n* Update Woo.com links to Wooommerce.com\nUpdates all instances of WooCommerce.com links in both the wp-admin and\nfrontend. This includes the developer composer and package files, readme,\nand language files.\n* Update link to child themes documentation.\")[#2142](https://github.com/woocommerce/storefront/pull/2142)[)](https://github.com/woocommerce/storefront/commit/924b80a76e316d44fa71a27dc1baf12b812b6b8c \"Update Woo.com links to Wooommerce.com (#2142)\n* Update Woo.com links to Wooommerce.com\nUpdates all instances of WooCommerce.com links in both the wp-admin and\nfrontend. This includes the developer composer and package files, readme,\nand language files.\n* Update link to child themes documentation.\")\n\n\n\n | \n\nApr 10, 2024\n\n |\n| \n\n[README.md](https://github.com/woocommerce/storefront/blob/trunk/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/woocommerce/storefront/blob/trunk/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[Update Woo.com links to Wooommerce.com (](https://github.com/woocommerce/storefront/commit/924b80a76e316d44fa71a27dc1baf12b812b6b8c \"Update Woo.com links to Wooommerce.com (#2142)\n* Update Woo.com links to Wooommerce.com\nUpdates all instances of WooCommerce.com links in both the wp-admin and\nfrontend. This includes the developer composer and package files, readme,\nand language files.\n* Update link to child themes documentation.\")[#2142](https://github.com/woocommerce/storefront/pull/2142)[)](https://github.com/woocommerce/storefront/commit/924b80a76e316d44fa71a27dc1baf12b812b6b8c \"Update Woo.com links to Wooommerce.com (#2142)\n* Update Woo.com links to Wooommerce.com\nUpdates all instances of WooCommerce.com links in both the wp-admin and\nfrontend. This includes the developer composer and package files, readme,\nand language files.\n* Update link to child themes documentation.\")\n\n\n\n | \n\nApr 10, 2024\n\n |\n| \n\n[README.txt](https://github.com/woocommerce/storefront/blob/trunk/README.txt \"README.txt\")\n\n\n\n\n\n\n\n | \n\n[README.txt](https://github.com/woocommerce/storefront/blob/trunk/README.txt \"README.txt\")\n\n\n\n\n\n\n\n | \n\n[Update README.txt to include changelog for version 4.6.1](https://github.com/woocommerce/storefront/commit/ef09e16331b0af2f672a114dbc0bfd9fd9f4aa2a \"Update README.txt to include changelog for version 4.6.1\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\n[STOREFRONT\\_STATUS.md](https://github.com/woocommerce/storefront/blob/trunk/STOREFRONT_STATUS.md \"STOREFRONT_STATUS.md\")\n\n\n\n\n\n\n\n | \n\n[STOREFRONT\\_STATUS.md](https://github.com/woocommerce/storefront/blob/trunk/STOREFRONT_STATUS.md \"STOREFRONT_STATUS.md\")\n\n\n\n\n\n\n\n | \n\n[Create STOREFRONT\\_STATUS.md (](https://github.com/woocommerce/storefront/commit/07edbe06f935ce44df6a48fa4c10bcde15e1d4e2 \"Create STOREFRONT_STATUS.md (#1510)\n* Create STOREFRONT_STATUS.md\n* add links to storefront status doc\n* Update STOREFRONT_STATUS.md\")[#1510](https://github.com/woocommerce/storefront/pull/1510)[)](https://github.com/woocommerce/storefront/commit/07edbe06f935ce44df6a48fa4c10bcde15e1d4e2 \"Create STOREFRONT_STATUS.md (#1510)\n* Create STOREFRONT_STATUS.md\n* add links to storefront status doc\n* Update STOREFRONT_STATUS.md\")\n\n\n\n | \n\nOct 21, 2020\n\n |\n| \n\n[archive.php](https://github.com/woocommerce/storefront/blob/trunk/archive.php \"archive.php\")\n\n\n\n\n\n\n\n | \n\n[archive.php](https://github.com/woocommerce/storefront/blob/trunk/archive.php \"archive.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[comments.php](https://github.com/woocommerce/storefront/blob/trunk/comments.php \"comments.php\")\n\n\n\n\n\n\n\n | \n\n[comments.php](https://github.com/woocommerce/storefront/blob/trunk/comments.php \"comments.php\")\n\n\n\n\n\n\n\n | \n\n[Fix escape function in comments template (](https://github.com/woocommerce/storefront/commit/0311aab0b08b64c76cfbf6cde73faab1fffde990 \"Fix escape function in comments template (#1587)\")[#1587](https://github.com/woocommerce/storefront/pull/1587)[)](https://github.com/woocommerce/storefront/commit/0311aab0b08b64c76cfbf6cde73faab1fffde990 \"Fix escape function in comments template (#1587)\")\n\n\n\n | \n\nJan 26, 2021\n\n |\n| \n\n[composer.json](https://github.com/woocommerce/storefront/blob/trunk/composer.json \"composer.json\")\n\n\n\n\n\n\n\n | \n\n[composer.json](https://github.com/woocommerce/storefront/blob/trunk/composer.json \"composer.json\")\n\n\n\n\n\n\n\n | \n\n[Update dependencies and fix e2e tests (](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 \"Update dependencies and fix e2e tests (#2160)\n* Bump webpack from 5.83.1 to 5.94.0\nBumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.\n- [Release notes](https://github.com/webpack/webpack/releases)\n- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)\n---\nupdated-dependencies:\n- dependency-name: webpack\ndependency-type: indirect\n...\nSigned-off-by: dependabot[bot] <support@github.com>\n* Update e2e workflow so we manually install docker-compose\n* Revert \\\"Update e2e workflow so we manually install docker-compose\\\"\nThis reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.\n* Update extra packages\n* Update node\n* Downgrade susy\n* New build script\n* Fix test:e2e script\n* Fix e2e test\n* Make sure build-js.sh and validate-build.sh are excluded from builds\n* Update @wordpress/prettier-config\n* Downgrade @wordpress/eslint-plugin and @wordpress/scripts\n* Remove @typescript-eslint/no-this-alias rule\n* Fix versions\n* Update .nvmrc version\n* Update package-lock.json\n* Update package-lock.json (II)\n* Fix missing variables in scripts\n* Remove new build-js.sh script\n* Remove testing attribute\n* Update node and npm version\n---------\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\")[#2160](https://github.com/woocommerce/storefront/pull/2160)[)](https://github.com/woocommerce/storefront/commit/71002541618506d08e5475896a38d9e61d63a9e4 \"Update dependencies and fix e2e tests (#2160)\n* Bump webpack from 5.83.1 to 5.94.0\nBumps [webpack](https://github.com/webpack/webpack) from 5.83.1 to 5.94.0.\n- [Release notes](https://github.com/webpack/webpack/releases)\n- [Commits](https://github.com/webpack/webpack/compare/v5.83.1...v5.94.0)\n---\nupdated-dependencies:\n- dependency-name: webpack\ndependency-type: indirect\n...\nSigned-off-by: dependabot[bot] <support@github.com>\n* Update e2e workflow so we manually install docker-compose\n* Revert \\\"Update e2e workflow so we manually install docker-compose\\\"\nThis reverts commit 6660072f60293db9ac5d3e0bbad877869569042b.\n* Update extra packages\n* Update node\n* Downgrade susy\n* New build script\n* Fix test:e2e script\n* Fix e2e test\n* Make sure build-js.sh and validate-build.sh are excluded from builds\n* Update @wordpress/prettier-config\n* Downgrade @wordpress/eslint-plugin and @wordpress/scripts\n* Remove @typescript-eslint/no-this-alias rule\n* Fix versions\n* Update .nvmrc version\n* Update package-lock.json\n* Update package-lock.json (II)\n* Fix missing variables in scripts\n* Remove new build-js.sh script\n* Remove testing attribute\n* Update node and npm version\n---------\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\")\n\n\n\n | \n\nSep 19, 2024\n\n |\n| \n\n[composer.lock](https://github.com/woocommerce/storefront/blob/trunk/composer.lock \"composer.lock\")\n\n\n\n\n\n\n\n | \n\n[composer.lock](https://github.com/woocommerce/storefront/blob/trunk/composer.lock \"composer.lock\")\n\n\n\n\n\n\n\n | \n\n[Update dependency composer/installers to v2.2.0](https://github.com/woocommerce/storefront/commit/8bbbe56388cc12eb218441fa82751f8572b29d44 \"Update dependency composer/installers to v2.2.0\")\n\n\n\n | \n\nAug 20, 2022\n\n |\n| \n\n[content-homepage.php](https://github.com/woocommerce/storefront/blob/trunk/content-homepage.php \"content-homepage.php\")\n\n\n\n\n\n\n\n | \n\n[content-homepage.php](https://github.com/woocommerce/storefront/blob/trunk/content-homepage.php \"content-homepage.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[content-none.php](https://github.com/woocommerce/storefront/blob/trunk/content-none.php \"content-none.php\")\n\n\n\n\n\n\n\n | \n\n[content-none.php](https://github.com/woocommerce/storefront/blob/trunk/content-none.php \"content-none.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[content-page.php](https://github.com/woocommerce/storefront/blob/trunk/content-page.php \"content-page.php\")\n\n\n\n\n\n\n\n | \n\n[content-page.php](https://github.com/woocommerce/storefront/blob/trunk/content-page.php \"content-page.php\")\n\n\n\n\n\n\n\n | \n\n[Improve semantic HTML for page](https://github.com/woocommerce/storefront/commit/10b0c05250c549dfeb7467589306aee68322a7e8 \"Improve semantic HTML for page\nChange page wrapper from **div** to **article** for single pages to improve semantic HTML.\")\n\n\n\n | \n\nApr 17, 2018\n\n |\n| \n\n[content-single.php](https://github.com/woocommerce/storefront/blob/trunk/content-single.php \"content-single.php\")\n\n\n\n\n\n\n\n | \n\n[content-single.php](https://github.com/woocommerce/storefront/blob/trunk/content-single.php \"content-single.php\")\n\n\n\n\n\n\n\n | \n\n[Remove past references for `storefront_post_meta()`](https://github.com/woocommerce/storefront/commit/ef6d152c04d04753fcd1f64839d72d0a4f99182a \"Remove past references for `storefront_post_meta()`\")\n\n\n\n | \n\nJan 25, 2019\n\n |\n| \n\n[content.php](https://github.com/woocommerce/storefront/blob/trunk/content.php \"content.php\")\n\n\n\n\n\n\n\n | \n\n[content.php](https://github.com/woocommerce/storefront/blob/trunk/content.php \"content.php\")\n\n\n\n\n\n\n\n | \n\n[Add missing hook docs in content.php (](https://github.com/woocommerce/storefront/commit/a9fec2c989bff9a33e7ff4d3806d2c21354c49eb \"Add missing hook docs in content.php (#1628)\")[#1628](https://github.com/woocommerce/storefront/pull/1628)[)](https://github.com/woocommerce/storefront/commit/a9fec2c989bff9a33e7ff4d3806d2c21354c49eb \"Add missing hook docs in content.php (#1628)\")\n\n\n\n | \n\nMar 16, 2021\n\n |\n| \n\n[footer.php](https://github.com/woocommerce/storefront/blob/trunk/footer.php \"footer.php\")\n\n\n\n\n\n\n\n | \n\n[footer.php](https://github.com/woocommerce/storefront/blob/trunk/footer.php \"footer.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[functions.php](https://github.com/woocommerce/storefront/blob/trunk/functions.php \"functions.php\")\n\n\n\n\n\n\n\n | \n\n[functions.php](https://github.com/woocommerce/storefront/blob/trunk/functions.php \"functions.php\")\n\n\n\n\n\n\n\n | \n\n[Revert \"Add support for menu description. (](https://github.com/woocommerce/storefront/commit/64f5950d836b67eb643e858f44657d3331423c73 \"Revert \\\"Add support for menu description. (#1771)\\\" (#1944)\nThis reverts commit 26583788debc42841e96ad01e2c271c18d04ff55.\")[#1771](https://github.com/woocommerce/storefront/pull/1771)[)\" (](https://github.com/woocommerce/storefront/commit/64f5950d836b67eb643e858f44657d3331423c73 \"Revert \\\"Add support for menu description. (#1771)\\\" (#1944)\nThis reverts commit 26583788debc42841e96ad01e2c271c18d04ff55.\")[#1944](https://github.com/woocommerce/storefront/pull/1944)[)](https://github.com/woocommerce/storefront/commit/64f5950d836b67eb643e858f44657d3331423c73 \"Revert \\\"Add support for menu description. (#1771)\\\" (#1944)\nThis reverts commit 26583788debc42841e96ad01e2c271c18d04ff55.\")\n\n\n\n | \n\nApr 4, 2022\n\n |\n| \n\n[header.php](https://github.com/woocommerce/storefront/blob/trunk/header.php \"header.php\")\n\n\n\n\n\n\n\n | \n\n[header.php](https://github.com/woocommerce/storefront/blob/trunk/header.php \"header.php\")\n\n\n\n\n\n\n\n | \n\n[Fixes](https://github.com/woocommerce/storefront/commit/69bb7d504da99838cfe6fbbd1be8cd33e443381a \" Fixes #1599 (#1600)\") [#1599](https://github.com/woocommerce/storefront/issues/1599) [(](https://github.com/woocommerce/storefront/commit/69bb7d504da99838cfe6fbbd1be8cd33e443381a \" Fixes #1599 (#1600)\")[#1600](https://github.com/woocommerce/storefront/pull/1600)[)](https://github.com/woocommerce/storefront/commit/69bb7d504da99838cfe6fbbd1be8cd33e443381a \" Fixes #1599 (#1600)\")\n\n\n\n | \n\nFeb 1, 2021\n\n |\n| \n\n[index.php](https://github.com/woocommerce/storefront/blob/trunk/index.php \"index.php\")\n\n\n\n\n\n\n\n | \n\n[index.php](https://github.com/woocommerce/storefront/blob/trunk/index.php \"index.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[loop.php](https://github.com/woocommerce/storefront/blob/trunk/loop.php \"loop.php\")\n\n\n\n\n\n\n\n | \n\n[loop.php](https://github.com/woocommerce/storefront/blob/trunk/loop.php \"loop.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[package-lock.json](https://github.com/woocommerce/storefront/blob/trunk/package-lock.json \"package-lock.json\")\n\n\n\n\n\n\n\n | \n\n[package-lock.json](https://github.com/woocommerce/storefront/blob/trunk/package-lock.json \"package-lock.json\")\n\n\n\n\n\n\n\n | \n\n[Bump version to 4.6.1](https://github.com/woocommerce/storefront/commit/d65f64cd7937d891497acd8d5a1082a6fd8df7a1 \"Bump version to 4.6.1\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\n[package.json](https://github.com/woocommerce/storefront/blob/trunk/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[package.json](https://github.com/woocommerce/storefront/blob/trunk/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[Bump version to 4.6.1](https://github.com/woocommerce/storefront/commit/d65f64cd7937d891497acd8d5a1082a6fd8df7a1 \"Bump version to 4.6.1\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\n[page.php](https://github.com/woocommerce/storefront/blob/trunk/page.php \"page.php\")\n\n\n\n\n\n\n\n | \n\n[page.php](https://github.com/woocommerce/storefront/blob/trunk/page.php \"page.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[phpcs.xml](https://github.com/woocommerce/storefront/blob/trunk/phpcs.xml \"phpcs.xml\")\n\n\n\n\n\n\n\n | \n\n[phpcs.xml](https://github.com/woocommerce/storefront/blob/trunk/phpcs.xml \"phpcs.xml\")\n\n\n\n\n\n\n\n | \n\n[Fix php lint issues (](https://github.com/woocommerce/storefront/commit/654917738e7e6ac380b6708aca6b735ac5284ed4 \"Fix php lint issues (#2041)\")[#2041](https://github.com/woocommerce/storefront/pull/2041)[)](https://github.com/woocommerce/storefront/commit/654917738e7e6ac380b6708aca6b735ac5284ed4 \"Fix php lint issues (#2041)\")\n\n\n\n | \n\nSep 8, 2022\n\n |\n| \n\n[renovate.json](https://github.com/woocommerce/storefront/blob/trunk/renovate.json \"renovate.json\")\n\n\n\n\n\n\n\n | \n\n[renovate.json](https://github.com/woocommerce/storefront/blob/trunk/renovate.json \"renovate.json\")\n\n\n\n\n\n\n\n | \n\n[Disable renovate bot (](https://github.com/woocommerce/storefront/commit/bf957bbfce7a4ac9bcf983e330fdd67e9b1ca414 \"Disable renovate bot (#2076)\")[#2076](https://github.com/woocommerce/storefront/pull/2076)[)](https://github.com/woocommerce/storefront/commit/bf957bbfce7a4ac9bcf983e330fdd67e9b1ca414 \"Disable renovate bot (#2076)\")\n\n\n\n | \n\nDec 6, 2022\n\n |\n| \n\n[screenshot.png](https://github.com/woocommerce/storefront/blob/trunk/screenshot.png \"screenshot.png\")\n\n\n\n\n\n\n\n | \n\n[screenshot.png](https://github.com/woocommerce/storefront/blob/trunk/screenshot.png \"screenshot.png\")\n\n\n\n\n\n\n\n | \n\n[Image optimisation with ImageAlpha (png8+alpha) and ImageOptim. (](https://github.com/woocommerce/storefront/commit/811fda389d92ce2c0417f5f9b3b2ee1b3622eb04 \"Image optimisation with ImageAlpha (png8+alpha) and ImageOptim. (#1691)\nCo-authored-by: Victor Laplace <laplace.victor@gmail.com>\")[#1691](https://github.com/woocommerce/storefront/pull/1691)[)](https://github.com/woocommerce/storefront/commit/811fda389d92ce2c0417f5f9b3b2ee1b3622eb04 \"Image optimisation with ImageAlpha (png8+alpha) and ImageOptim. (#1691)\nCo-authored-by: Victor Laplace <laplace.victor@gmail.com>\")\n\n\n\n | \n\nMay 25, 2021\n\n |\n| \n\n[search.php](https://github.com/woocommerce/storefront/blob/trunk/search.php \"search.php\")\n\n\n\n\n\n\n\n | \n\n[search.php](https://github.com/woocommerce/storefront/blob/trunk/search.php \"search.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[sidebar.php](https://github.com/woocommerce/storefront/blob/trunk/sidebar.php \"sidebar.php\")\n\n\n\n\n\n\n\n | \n\n[sidebar.php](https://github.com/woocommerce/storefront/blob/trunk/sidebar.php \"sidebar.php\")\n\n\n\n\n\n\n\n | \n\n[lots of coding standards tweaks.](https://github.com/woocommerce/storefront/commit/1409ee5c6652cd685831e7d6853b64d1ee40be3f \"lots of coding standards tweaks. #326\") [#326](https://github.com/woocommerce/storefront/issues/326)\n\n\n\n | \n\nFeb 19, 2016\n\n |\n| \n\n[single.php](https://github.com/woocommerce/storefront/blob/trunk/single.php \"single.php\")\n\n\n\n\n\n\n\n | \n\n[single.php](https://github.com/woocommerce/storefront/blob/trunk/single.php \"single.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[style.scss](https://github.com/woocommerce/storefront/blob/trunk/style.scss \"style.scss\")\n\n\n\n\n\n\n\n | \n\n[style.scss](https://github.com/woocommerce/storefront/blob/trunk/style.scss \"style.scss\")\n\n\n\n\n\n\n\n | \n\n[Bump version to 4.6.1](https://github.com/woocommerce/storefront/commit/d65f64cd7937d891497acd8d5a1082a6fd8df7a1 \"Bump version to 4.6.1\")\n\n\n\n | \n\nJan 20, 2025\n\n |\n| \n\n[template-fullwidth.php](https://github.com/woocommerce/storefront/blob/trunk/template-fullwidth.php \"template-fullwidth.php\")\n\n\n\n\n\n\n\n | \n\n[template-fullwidth.php](https://github.com/woocommerce/storefront/blob/trunk/template-fullwidth.php \"template-fullwidth.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[template-homepage.php](https://github.com/woocommerce/storefront/blob/trunk/template-homepage.php \"template-homepage.php\")\n\n\n\n\n\n\n\n | \n\n[template-homepage.php](https://github.com/woocommerce/storefront/blob/trunk/template-homepage.php \"template-homepage.php\")\n\n\n\n\n\n\n\n | \n\n[Fix PHPCS violations](https://github.com/woocommerce/storefront/commit/169c21e35a7b5029505ee1db6f95cb9e5b7f1a7f \"Fix PHPCS violations\")\n\n\n\n | \n\nJun 22, 2018\n\n |\n| \n\n[validate-build.sh](https://github.com/woocommerce/storefront/blob/trunk/validate-build.sh \"validate-build.sh\")\n\n\n\n\n\n\n\n | \n\n[validate-build.sh](https://github.com/woocommerce/storefront/blob/trunk/validate-build.sh \"validate-build.sh\")\n\n\n\n\n\n\n\n | \n\n[Ensure that the build has min.js files before generating the .zip file (](https://github.com/woocommerce/storefront/commit/61f976e824aa3f218cdbf5f5e5fa8848fae0648a \"Ensure that the build has min.js files before generating the .zip file (#2149)\n* Ensure that the build has min.js files before generating the .zip file\n* improve error message\")\n\n\n\n | \n\nMay 17, 2024\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/woocommerce/storefront?screenshot=true#)\n\n[![Image 27: Storefront](https://camo.githubusercontent.com/049935224cd33850d55e3888d229c92c22fb55fa6d75e1e7cef837edf5a4bc88/68747470733a2f2f73746f726566726f6e742e66696c65732e776f726470726573732e636f6d2f323031372f30322f73746f726566726f6e74312e706e673f773d31303026683d3130302663726f703d31)](https://camo.githubusercontent.com/049935224cd33850d55e3888d229c92c22fb55fa6d75e1e7cef837edf5a4bc88/68747470733a2f2f73746f726566726f6e742e66696c65732e776f726470726573732e636f6d2f323031372f30322f73746f726566726f6e74312e706e673f773d31303026683d3130302663726f703d31)\n=========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================\n\n[](https://github.com/woocommerce/storefront?screenshot=true#--)\n\n[![Image 28: license](https://camo.githubusercontent.com/5eaaade2347d74e8e174f59b3ab9806f0dc15802b75e4dc3c53c1329b6a14666/68747470733a2f2f706f7365722e707567782e6f72672f776f6f636f6d6d657263652f776f6f636f6d6d657263652f6c6963656e7365)](https://camo.githubusercontent.com/5eaaade2347d74e8e174f59b3ab9806f0dc15802b75e4dc3c53c1329b6a14666/68747470733a2f2f706f7365722e707567782e6f72672f776f6f636f6d6d657263652f776f6f636f6d6d657263652f6c6963656e7365) [![Image 29: Designed for WooCommerce](https://camo.githubusercontent.com/8f093f6354b0d62e033adab649b0458e25f10895da529f826809d82eb27d2fed/687474703a2f2f696d672e736869656c64732e696f2f62616467652f44657369676e6564253230666f722d576f6f436f6d6d657263652d6134363439372e737667)](https://woocommerce.com/) [![Image 30: WordPress.org downloads](https://camo.githubusercontent.com/4f4c49e1c74e6ece83f62ddfe08221a614e903229a5be5510178430b445902cc/68747470733a2f2f696d672e736869656c64732e696f2f776f726470726573732f7468656d652f64742f73746f726566726f6e742e737667)](https://camo.githubusercontent.com/4f4c49e1c74e6ece83f62ddfe08221a614e903229a5be5510178430b445902cc/68747470733a2f2f696d672e736869656c64732e696f2f776f726470726573732f7468656d652f64742f73746f726566726f6e742e737667) [![Image 31: WordPress.org rating](https://camo.githubusercontent.com/1e4cd26ffb0185d11cfebfdad08ef4b624f5272d1f3bd26e92ff7b2643382289/68747470733a2f2f696d672e736869656c64732e696f2f776f726470726573732f7468656d652f722f73746f726566726f6e742e737667)](https://camo.githubusercontent.com/1e4cd26ffb0185d11cfebfdad08ef4b624f5272d1f3bd26e92ff7b2643382289/68747470733a2f2f696d672e736869656c64732e696f2f776f726470726573732f7468656d652f722f73746f726566726f6e742e737667)\n\n_Storefront_ is a robust and flexible [WordPress](https://wordpress.org/) theme, designed and built by the team at [WooCommerce](https://woocommerce.com/) to help you make the most out of using the [WooCommerce](https://woocommerce.com/) plugin to power your online store. It's available to download for free from the WordPress [theme repository](https://wordpress.org/themes/storefront/).\n\nIt features deep integration with WooCommerce core plus several of the most popular extensions:\n\n*   [WooCommerce Bookings](https://woocommerce.com/products/woocommerce-bookings/)\n*   [WooCommerce Wishlists](https://woocommerce.com/products/woocommerce-wishlists/)\n*   [WooCommerce Brands](https://woocommerce.com/products/brands/)\n*   [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/)\n\nFor developers, Storefront is the perfect starting point for your project. Its lean and extensible codebase will allow you to easily add functionality to your site via a child theme and/or custom plugin(s).\n\nStorefront Status\n-----------------\n\n[](https://github.com/woocommerce/storefront?screenshot=true#storefront-status)\n\nPlease read [this document](https://github.com/woocommerce/storefront/blob/trunk/STOREFRONT_STATUS.md) explaining the current status of Storefront development.\n\nStorefront extensions\n---------------------\n\n[](https://github.com/woocommerce/storefront?screenshot=true#storefront-extensions)\n\nLooking to take your storefront powered store to the next level? Be sure to checkout the premium [Storefront extensions](https://woocommerce.com/product-category/storefront-extensions/).\n\nStorefront Documentation\n------------------------\n\n[](https://github.com/woocommerce/storefront?screenshot=true#storefront-documentation)\n\nYou can view detailed Storefront documentation on the [WooCommerce documentation website](https://woocommerce.com/documentation/themes/storefront/).\n\nStorefront in your language\n---------------------------\n\n[](https://github.com/woocommerce/storefront?screenshot=true#storefront-in-your-language)\n\nStorefront translations can be downloaded from [WordPress.org](https://translate.wordpress.org/projects/wp-themes/storefront). To use one of these translations it is recommended that you upload it to `wp-content/languages/themes/storefront-pt_BR.mo`. Adding it to this location means the file will not be lost when you update Storefront. It is however possible to add a translation to the `languages` folder in your child theme if you'd prefer.\n\nStorefront help & support\n-------------------------\n\n[](https://github.com/woocommerce/storefront?screenshot=true#storefront-help--support)\n\nWooCommerce customers can get support at the [WooCommerce support portal](https://woocommerce.com/contact-us/). Otherwise, you can try posting on the [WordPress support forums](https://wordpress.org/support/theme/storefront/). Please remember, GitHub is for bug reports and contributions, _not_ support.\n\nContributing to Storefront\n--------------------------\n\n[](https://github.com/woocommerce/storefront?screenshot=true#contributing-to-storefront)\n\nIf you have a patch, or you've stumbled upon an issue with Storefront core, you can contribute this back to the code. Please read our [contributor guidelines](https://github.com/woocommerce/storefront/blob/master/CONTRIBUTING.md) for more information about how you can do this.\n\nIf you have an idea or feature request please take a look at the [Storefront Feature Requests](https://woocommerce.com/feature-requests/storefront/) to see if it's already been suggested, planned, or is under development. If not, please add it there.\n\nYou can keep up with the latest Storefront developments on the [dev blog](https://woocommerce.wordpress.com/category/storefront/).\n\nTesting Storefront\n------------------\n\n[](https://github.com/woocommerce/storefront?screenshot=true#testing-storefront)\n\nWant to help test upcoming Storefront releases? Check out the [Storefront Beta Tester](https://github.com/seb86/Storefront-Beta-Tester) plugin.\n\nAbout\n-----\n\nOfficial theme for WooCommerce\n\n[wordpress.org/themes/storefront/](https://wordpress.org/themes/storefront/ \"https://wordpress.org/themes/storefront/\")\n\n### Topics\n\n[css](https://github.com/topics/css \"Topic: css\") [php](https://github.com/topics/php \"Topic: php\") [wordpress](https://github.com/topics/wordpress \"Topic: wordpress\") [wordpress-theme](https://github.com/topics/wordpress-theme \"Topic: wordpress-theme\") [storefront](https://github.com/topics/storefront \"Topic: storefront\") [woocommerce](https://github.com/topics/woocommerce \"Topic: woocommerce\") [automattic](https://github.com/topics/automattic \"Topic: automattic\")\n\n### Resources\n\n[Readme](https://github.com/woocommerce/storefront?screenshot=true#readme-ov-file)\n\n[Activity](https://github.com/woocommerce/storefront/activity)\n\n[Custom properties](https://github.com/woocommerce/storefront/custom-properties)\n\n### Stars\n\n[**981** stars](https://github.com/woocommerce/storefront/stargazers)\n\n### Watchers\n\n[**184** watching](https://github.com/woocommerce/storefront/watchers)\n\n### Forks\n\n[**473** forks](https://github.com/woocommerce/storefront/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fwoocommerce%2Fstorefront&report=woocommerce+%28user%29)\n\n[Releases 101](https://github.com/woocommerce/storefront/releases)\n------------------------------------------------------------------\n\n[4.6.1 Latest Jan 20, 2025](https://github.com/woocommerce/storefront/releases/tag/4.6.1)\n\n[\\+ 100 releases](https://github.com/woocommerce/storefront/releases)\n\n[Packages 0](https://github.com/orgs/woocommerce/packages?repo_name=storefront)\n-------------------------------------------------------------------------------\n\nNo packages published  \n\n[Contributors 117](https://github.com/woocommerce/storefront/graphs/contributors)\n---------------------------------------------------------------------------------\n\n*   [![Image 32: @jameskoster](https://avatars.githubusercontent.com/u/846565?s=64&v=4)](https://github.com/jameskoster)\n*   [![Image 33: @tiagonoronha](https://avatars.githubusercontent.com/u/1177726?s=64&v=4)](https://github.com/tiagonoronha)\n*   [![Image 34: @renovate-bot](https://avatars.githubusercontent.com/u/25180681?s=64&v=4)](https://github.com/renovate-bot)\n*   [![Image 35: @haszari](https://avatars.githubusercontent.com/u/4167300?s=64&v=4)](https://github.com/haszari)\n*   [![Image 36: @renovate[bot]](https://avatars.githubusercontent.com/in/2740?s=64&v=4)](https://github.com/apps/renovate)\n*   [![Image 37: @Aljullu](https://avatars.githubusercontent.com/u/3616980?s=64&v=4)](https://github.com/Aljullu)\n*   [![Image 38: @mikejolley](https://avatars.githubusercontent.com/u/90977?s=64&v=4)](https://github.com/mikejolley)\n*   [![Image 39: @opportus](https://avatars.githubusercontent.com/u/11618989?s=64&v=4)](https://github.com/opportus)\n*   [![Image 40: @nielslange](https://avatars.githubusercontent.com/u/3323310?s=64&v=4)](https://github.com/nielslange)\n*   [![Image 41: @SiR-DanieL](https://avatars.githubusercontent.com/u/4429413?s=64&v=4)](https://github.com/SiR-DanieL)\n*   [![Image 42: @claudiosanches](https://avatars.githubusercontent.com/u/1264099?s=64&v=4)](https://github.com/claudiosanches)\n*   [![Image 43: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)\n*   [![Image 44: @peterfabian](https://avatars.githubusercontent.com/u/2207451?s=64&v=4)](https://github.com/peterfabian)\n*   [![Image 45: @mikeyarce](https://avatars.githubusercontent.com/u/3220162?s=64&v=4)](https://github.com/mikeyarce)\n\n[\\+ 103 contributors](https://github.com/woocommerce/storefront/graphs/contributors)\n\nLanguages\n---------\n\n*   [PHP 60.1%](https://github.com/woocommerce/storefront/search?l=php)\n*   [SCSS 34.5%](https://github.com/woocommerce/storefront/search?l=scss)\n*   [JavaScript 5.1%](https://github.com/woocommerce/storefront/search?l=javascript)\n*   [Shell 0.3%](https://github.com/woocommerce/storefront/search?l=shell)\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 18091
+  }
+}
+```

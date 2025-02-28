@@ -1,0 +1,1182 @@
+Manning
+===============
+
+ [![Image 427](https://www.manning.com/assets/manningLogoBlack-4ce2f7a38da67c986590975d7769f389.svg) ![Image 428](https://www.manning.com/assets/manningLettersBlack-0ebe3f78d807742e74e80ce85f130096.svg)](https://www.manning.com/)
+
+browse
+
+[home](https://subscription.manning.com/)
+
+browse
+
+[cart](https://www.manning.com/cart)
+
+sign in
+
+*   [catalog](https://www.manning.com/catalog)
+*   [MEAP](https://www.manning.com/meap-catalog)
+*   [liveBook](https://livebook.manning.com/)
+*   [liveVideo](https://livevideo.manning.com/)
+*   [liveProject](https://liveproject.manning.com/)
+*   [liveAudio](https://www.manning.com/liveaudio-landing)
+*   [free content](http://freecontent.manning.com/)
+*   [register pBook](https://www.manning.com/freebook)
+*   [subscription](https://www.manning.com/subscription)
+
+ 
+
+ [![Image 429](https://images.manning.com/banner/5/68514fc-53e9-4dbe-9df5-785e710bdd41/buy2save40mob.svg) ![Image 430](https://images.manning.com/banner/9/b2721af-7746-4cc7-b224-85f1eb5c39fb/but2save40desk.svg)](https://deals.manning.com/buy-two-and-save-40/)
+
+ 
+
+ [![Image 431](https://images.manning.com/banner/dotd/dotd_mobile.svg) _Writing for Developers_—Save 45% TODAY ONLY! ![Image 432](https://images.manning.com/banner/dotd/dotd_desktop.svg) _Writing for Developers_—Save 45% TODAY ONLY!](https://www.manning.com/dotd)
+
+Previous
+
+Next
+
+Next
+
+Dismiss
+
+[view your dashboard](https://www.manning.com/dashboard)[manage account details](https://www.manning.com/dashboard/details)[sign out](https://login.manning.com/logout?service=https://www.manning.com/logout)
+
+ 
+
+subscribe today to enjoy **all our content. all the time.**
+
+ [](https://www.manning.com/subscription)
+
+[sign up for Deal of the Day, Weekly Newsletters and more](https://www.manning.com/mail-preferences)
+
+[](https://www.manning.com/mail-preferences)
+
+[![Image 433](https://www.manning.com/assets/manningFull_blue-2e3382e5c6ef539b8e4ad46d9d5ed0ec.svg) free books! enjoy free content compliments of our partners!](https://www.manning.com/corporate-splash)
+
+[](http://freecontent.manning.com/)
+
+Articles based on books in progress
+
+[FREE eBOOK WITH EVERY PRINT BOOK Buy a Manning pBook anywhere, get the eBook free here.](https://www.manning.com/ebooks)
+
+[](https://www.manning.com/books/real-time-machine-learning)[](https://www.manning.com/books/just-use-postgres)[](https://www.manning.com/books/investing-for-programmers)[](https://deals.manning.com/buy-two-and-save-40/)
+
+[Previous](https://www.manning.com/#hero-slider) [Next](https://www.manning.com/#hero-slider)
+
+ ![Image 434](https://www.manning.com/assets/meap-filled-marginless-b91a48282f8d7eb41c5d388d019cfe5e.svg) 8 4
+
+Manning Early Access Program
+
+In MEAP, you get **early access** to books and liveVideos as they’re being created. You get new content as it’s available and the finished product the instant it’s ready.
+
+× [![Image 435](https://www.manning.com/assets/meap-filled-marginless-b91a48282f8d7eb41c5d388d019cfe5e.svg) 8 4](https://www.manning.com/meap-catalog)
+
+New & Hot
+
+[AI Agents in Action](https://www.manning.com/books/ai-agents-in-action)[Investing for Programmers](https://www.manning.com/books/investing-for-programmers)[Just Use Postgres!](https://www.manning.com/books/just-use-postgres)[Prompt Engineering in Action](https://www.manning.com/books/prompt-engineering-in-action)[Real-Time Machine Learning](https://www.manning.com/books/real-time-machine-learning)[Secrets of the JavaScript Ninja, Third Edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-third-edition)[Software Design in Python](https://www.manning.com/books/software-design-in-python)
+
+Data
+
+[A Damn Fine Stable Diffusion Book](https://www.manning.com/books/a-damn-fine-stable-diffusion-book)[A Simple Guide to Retrieval Augmented Generation](https://www.manning.com/books/a-simple-guide-to-retrieval-augmented-generation)[Advanced Analytics for Business](https://www.manning.com/books/advanced-analytics-for-business)[Amazon Bedrock in Action](https://www.manning.com/books/amazon-bedrock-in-action)[Automate Everyday Work Tasks with ChatGPT](https://www.manning.com/books/automate-everyday-work-tasks-with-chatgpt)[Build LLM Applications (from Scratch)](https://www.manning.com/books/build-llm-applications-from-scratch)[Causal AI](https://www.manning.com/books/causal-ai)[Data Analysis with AI and R](https://www.manning.com/books/data-analysis-with-ai-and-r)[Data Pipelines with Apache Airflow, Second Edition](https://www.manning.com/books/data-pipelines-with-apache-airflow-second-edition)[Data Preparation Handbook](https://www.manning.com/books/data-preparation-handbook)[Data Without Labels](https://www.manning.com/books/data-without-labels)[Deep Learning with Python, Third Edition](https://www.manning.com/books/deep-learning-with-python-third-edition)[Deep Learning with PyTorch, Second Edition](https://www.manning.com/books/deep-learning-with-pytorch-second-edition)[Design a Machine Learning System (From Scratch)](https://www.manning.com/books/design-a-machine-learning-system-design-from-scratch)[Effective Data Analysis](https://www.manning.com/books/effective-data-analysis)[Engineer's Pocket Guide to Surviving AI](https://www.manning.com/books/engineers-pocket-guide-to-surviving-ai)[Fight Fraud with Machine Learning](https://www.manning.com/books/fight-fraud-with-machine-learning)[Generative AI in Computer Vision](https://www.manning.com/books/generative-ai-in-computer-vision)[Graph Neural Networks in Action](https://www.manning.com/books/graph-neural-networks-in-action)[How GPT Works](https://www.manning.com/books/how-gpt-works)[Knowledge Graph-Enhanced RAG](https://www.manning.com/books/knowledge-graph-enhanced-rag)[Knowledge Graphs Applied](https://www.manning.com/books/knowledge-graphs-applied)[LangChain in Action](https://www.manning.com/books/langchain-in-action)[LLM Reliability](https://www.manning.com/books/llm-reliability)[LLMs in Action](https://www.manning.com/books/llms-in-action)[Machine Learning for Drug Discovery](https://www.manning.com/books/machine-learning-for-drug-discovery)[ML.NET for Machine Learning and Generative AI](https://www.manning.com/books/ml-dotnet-for-machine-learning-and-generative-ai)[Multi-Agent Systems with AutoGen](https://www.manning.com/books/multi-agent-systems-with-autogen)[Prompt Engineering in Action](https://www.manning.com/books/prompt-engineering-in-action)[Prompt Engineering in Practice](https://www.manning.com/books/prompt-engineering-in-practice)[![Image 436: This MEAP is new](https://www.manning.com/assets/new-e05fa2e324d55556ff4fd4de70eb0799.svg)Real-Time Machine Learning](https://www.manning.com/books/real-time-machine-learning)[Real-World ML Systems on Kubernetes](https://www.manning.com/books/real-world-ml-systems-on-kubernetes)[Security Metrics](https://www.manning.com/books/security-metrics)[Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists)[The Well-Grounded Data Analyst](https://www.manning.com/books/the-well-grounded-data-analyst)[Time Series Forecasting Using Foundation Models](https://www.manning.com/books/time-series-forecasting-using-foundation-models)
+
+Development
+
+[A Quick Guide to Coding with AI](https://www.manning.com/books/a-quick-guide-to-coding-with-ai)[AI Agents in Action](https://www.manning.com/books/ai-agents-in-action)[Apache Kafka in Action](https://www.manning.com/books/apache-kafka-in-action)[Build Financial Software with Generative AI](https://www.manning.com/books/build-financial-software-with-generative-ai)[Building Quantum Software with Python](https://www.manning.com/books/building-quantum-software-with-python)[Clojure, The Essential Reference](https://www.manning.com/books/clojure-the-essential-reference)[Data-Oriented Programming in Java](https://www.manning.com/books/data-oriented-programming-in-java)[Designing Kafka Systems](https://www.manning.com/books/designing-kafka-systems)[Effective Conversational AI](https://www.manning.com/books/effective-conversational-ai)[Effective Platform Engineering](https://www.manning.com/books/effective-platform-engineering)[Generative AI for the IT Pro](https://www.manning.com/books/generative-ai-for-the-it-pro)[Go by Example](https://www.manning.com/books/go-by-example)[Go in Action, Second Edition](https://www.manning.com/books/go-in-action-second-edition)[Go in Practice, Second Edition](https://www.manning.com/books/go-in-practice-second-edition)[Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design)
+
+New & Hot
+
+[AI Agents in Action](https://www.manning.com/books/ai-agents-in-action)[Investing for Programmers](https://www.manning.com/books/investing-for-programmers)[Just Use Postgres!](https://www.manning.com/books/just-use-postgres)[Prompt Engineering in Action](https://www.manning.com/books/prompt-engineering-in-action)[Real-Time Machine Learning](https://www.manning.com/books/real-time-machine-learning)[Secrets of the JavaScript Ninja, Third Edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-third-edition)[Software Design in Python](https://www.manning.com/books/software-design-in-python)
+
+Development
+
+[Hacking Cryptography](https://www.manning.com/books/hacking-cryptography)[Hugging Face in Action](https://www.manning.com/books/hugging-face-in-action)[![Image 437: This MEAP is new](https://www.manning.com/assets/new-e05fa2e324d55556ff4fd4de70eb0799.svg)Just Use Postgres!](https://www.manning.com/books/just-use-postgres)[Latency](https://www.manning.com/books/latency)[Learn Go with Pocket-Sized Projects](https://www.manning.com/books/learn-go-with-pocket-sized-projects) [Modern C, Third Edition](https://www.manning.com/books/modern-c-third-edition)[MongoDB in Action, Third Edition](https://www.manning.com/books/mongodb-in-action-third-edition)[PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)[Quantum Programming in Depth](https://www.manning.com/books/quantum-programming-in-depth)[Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust)[Robotics for Programmers](https://www.manning.com/books/robotics-for-programmers)[Secrets of the JavaScript Ninja, Third Edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-third-edition)[Secure APIs](https://www.manning.com/books/secure-apis)[Software Design in Python](https://www.manning.com/books/software-design-in-python)[Spring AI in Action](https://www.manning.com/books/spring-ai-in-action)[Streaming Data Pipelines with Kafka](https://www.manning.com/books/streaming-data-pipelines-with-kafka)[Streamlit in Action](https://www.manning.com/books/streamlit-in-action)[Terraform in Depth](https://www.manning.com/books/terraform-in-depth)[The Art of AI Product Management](https://www.manning.com/books/the-art-of-ai-product-management)[Transformers in Action](https://www.manning.com/books/transformers-in-action)
+
+General
+
+[![Image 438: This MEAP is new](https://www.manning.com/assets/new-e05fa2e324d55556ff4fd4de70eb0799.svg)Investing for Programmers](https://www.manning.com/books/investing-for-programmers)
+
+Java/JVM
+
+[Troubleshooting Java, Second Edition](https://www.manning.com/books/troubleshooting-java-second-edition)
+
+Microsoft & .NET
+
+[Learn SQL in a Month of Lunches](https://www.manning.com/books/learn-sql-in-a-month-of-lunches)[Microsoft Azure in Action](https://www.manning.com/books/microsoft-azure-in-action)[Tiny PowerShell Projects](https://www.manning.com/books/tiny-powershell-projects)
+
+Operations & Cloud
+
+[Designing Microservices](https://www.manning.com/books/designing-microservices)[Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)[Software Security for Developers](https://www.manning.com/books/software-security-for-developers)[Think Distributed Systems](https://www.manning.com/books/think-distributed-systems)
+
+Web
+
+[Emotional Digital Design](https://www.manning.com/books/emotional-digital-design)[Full-Stack AI for Web Developers](https://www.manning.com/books/full-stack-ai-for-web-developers)[Server-Side WebAssembly](https://www.manning.com/books/server-side-webassembly)[The Design of Web APIs, Second Edition](https://www.manning.com/books/the-design-of-web-apis-second-edition)
+
+Close [MEAP catalog](https://www.manning.com/meap-catalog)
+
+![Image 439](https://www.manning.com/assets/liveproject-learn-by-doing-marginless-fb1c79d9c0324f4cc9b8f3da4c9e7513.svg)
+
+**What is** a liveProject?
+
+Master these skills today
+
+[Use Kafka and Spark to Process Real-Time Reports](https://www.manning.com/liveprojectseries/stream-processing-with-kafka-and-spark-ser)
+
+[Detect Anomalies in Mission-Critical Energy Data](https://www.manning.com/liveprojectseries/three-anomaly-detection-methods-ser)
+
+[Use Rust to Master 4 Essential Algorithms](https://www.manning.com/liveprojectseries/four-small-algorithm-projects-with-rust-ser)
+
+[find a liveProject](https://liveproject.manning.com/catalog)
+
+liveProject
+
+![Image 440](https://www.manning.com/assets/liveproject-learn-by-doing-close-btn-aadae662578aa33fd8fd3bfc17b48e53.svg)
+
+the best way to learn is by doing
+
+**Learn skills by completing real-world projects** in your local development environment. Solve practical problems, write working code, analyze real data, check your solution against the author's. **You learn by doing.**
+
+**Get just enough help to succeed.** A liveProject includes layers of help in the form of hints, reading suggestions and solutions. Just as your parent steadied your bike when you first learned to ride, our support helps you succeed.
+
+**Learn technology the way you learn to ride a bike!**
+
+[find liveProject](https://liveproject.manning.com/catalog)
+
+![Image 441](https://www.manning.com/assets/find-a-liveproject-modal-content-container-img-b2c59b22dcc4f409538c9aa4d1bd6150.png)
+
+ ![Image 442](https://www.manning.com/assets/livevideo-filled-marginless-4b4fc302a7ea31f3d7be360b915049da.svg) 3 9 1
+
+liveVideos are online courses with tests, exercises, and code tryouts alongside. This is a just-released platform to learn and grow your skills.
+
+× [![Image 443](https://www.manning.com/assets/livevideo-filled-marginless-4b4fc302a7ea31f3d7be360b915049da.svg) 3 9 1](https://www.manning.com/livevideo-catalog)
+
+[![Image 444](https://images.manning.com/192/256/resize/video/8/570833f-5a41-4b05-9d03-3170658e0c67/MicrosoftAzureFunctions-DevelopingServerlessSolutions.png)](https://www.manning.com/livevideo/microsoft-azure-functions-developing-serverless-solutions)
+
+[![Image 445](https://images.manning.com/192/256/resize/video/b/7c163f6-926d-4edd-8419-3fe95834bf1e/SomnathMusib_O'Reilly_Thumb_06-16-2021.jpg)](https://www.manning.com/livevideo/building-and-securing-a-web-application-with-spring-boot)
+
+[![Image 446](https://images.manning.com/192/256/resize/video/9/7ee9a25-5593-41ba-82c5-8e1e17242166/Thumb_JikeChong&YueCathyChang2-13.jpg)](https://www.manning.com/livevideo/ask-dr-chong-become-leader-data-science-part-four)
+
+[![Image 447](https://images.manning.com/192/256/resize/video/4/23954b1-51f8-4929-9e6c-2c40ff045fee/MatthewGroves_O'Reilly1_Thumb_09-2020.jpg)](https://www.manning.com/livevideo/distributed-acid-transactions-for-nosql)
+
+[![Image 448](https://images.manning.com/192/256/resize/video/c/6584c28-e96e-4dee-b3c5-5b270c43647b/howtoleadsix.jpg)](https://www.manning.com/livevideo/how-to-lead-in-data-science-part-six-chong-chang)
+
+[![Image 449](https://images.manning.com/192/256/resize/video/8/2aa005d-05ee-4cb7-8687-795118eaa219/Thumb_RoyOsherove2.jpg)](https://www.manning.com/livevideo/understanding-mock-objects)
+
+[![Image 450](https://images.manning.com/192/256/resize/video/1/0b478f0-cf4b-4692-a76e-70cf47ffbc30/Practical_Automation_with_PowerShell.jpg)](https://www.manning.com/livevideo/practical-automation-with-powershell-video-edition)
+
+[![Image 451](https://images.manning.com/192/256/resize/video/9/0b1c18a-719f-4b56-9bea-4515caf86b86/Thumb_KubernetesConference.png)](https://www.manning.com/livevideo/kubernetes-conference-live-manning)
+
+[![Image 452](https://images.manning.com/192/256/resize/video/9/5ddfbb8-5dc4-4956-ae28-6cf22eb79744/nishanthowtobuild.jpg)](https://www.manning.com/livevideo/how-to-build-privacy-program-tools-and-processes-nishant-bhajaria)
+
+[![Image 453](https://images.manning.com/192/256/resize/video/5/ee7e8c9-d221-4a4b-90e4-e3c22cd33cf2/Thumb_JikeChong&YueCathyChang_Part2.png)](https://www.manning.com/livevideo/become-leader-data-science-part-one)
+
+[![Image 454](https://images.manning.com/192/256/resize/video/6/6bc25e5-d97d-49e7-9af4-d26e83ae22f7/Thumb_LeonardApeltsin.jpg)](https://www.manning.com/livevideo/nlp-analysis-large-text-datasets)
+
+[![Image 455](https://images.manning.com/192/256/resize/video/1/e4c8a54-fdc4-4f46-b1a4-4c311c9f8b26/ChristopherTrudeau_Thumb_08-27-2024.png)](https://www.manning.com/livevideo/starting-a-django-project)
+
+[![Image 456](https://images.manning.com/192/256/resize/video/1/37e5372-72e3-4081-9ccf-2a5d791f5e3c/Thumb_PythonConference.png)](https://www.manning.com/livevideo/python-conference)
+
+[![Image 457](https://images.manning.com/192/256/resize/video/7/94d4e54-d1dd-413d-8a62-a01b99f4583f/MeinteBoersma_O'Reilly_Thumb_10-17-2020.jpg)](https://www.manning.com/livevideo/making-tiny-data-model-dsl)
+
+[![Image 458](https://images.manning.com/192/256/resize/video/0/56384b5-dd94-4427-986d-c0b016f68222/Thumb_WomeninTechConference.png)](https://www.manning.com/livevideo/women-in-tech-conference-live-manning)
+
+[![Image 459](https://images.manning.com/192/256/resize/video/f/30d4425-91eb-4067-bcbf-8b6fb9f636d7/The_Front-End_Web_Developer_Bootcamp__HTML,_CSS,_JS_and_React.png)](https://www.manning.com/livevideo/the-front-end-web-developer-bootcamp-html-css-js-and-react)
+
+[![Image 460](https://images.manning.com/192/256/resize/video/1/a593716-8198-4809-9025-6798d5772744/ChrisMattmann_O'Reilly_Thumb_04-2020.jpg)](https://www.manning.com/livevideo/all-about-tensorflow)
+
+[![Image 461](https://images.manning.com/192/256/resize/video/4/d61ca17-25df-4d2e-8e4d-3917621d7fc0/Thumb_GraphDataScienceConference.png)](https://www.manning.com/livevideo/graph-data-science-conference-live-manning)
+
+[![Image 462](https://images.manning.com/192/256/resize/video/d/41f0b59-8280-4ac4-9338-3c367cfaf09a/PracticalCplusplus.png)](https://www.manning.com/livevideo/practical-c-plus-plus)
+
+[![Image 463](https://images.manning.com/192/256/resize/video/7/f0462d9-d622-4ce1-8ceb-70457f64f71b/DavidSweet_O'Reilly_Thumb_03-23-2021.jpg)](https://www.manning.com/livevideo/practical-matters-in-ab-testing-david-sweet)
+
+[![Image 464](https://images.manning.com/192/256/resize/video/c/2d1443b-1e00-4338-aa46-2dd3393dfd42/livevideo-elasticsearch-7-and-elastic-stack.png)](https://www.manning.com/livevideo/elasticsearch-7-and-elastic-stack)
+
+[![Image 465](https://images.manning.com/192/256/resize/video/7/94c9c85-db09-421f-a0bb-0a862c9ca344/CCNAExam,Part3_Layer2Concepts.png)](https://www.manning.com/livevideo/ccna-exam-part-3-layer-2-concepts)
+
+[![Image 466](https://images.manning.com/192/256/resize/video/c/ea40f2c-884e-45b7-adf0-ed478d66955c/AlexanderGranin_O'Reilly_Thumb_9-15-21.jpg)](https://www.manning.com/livevideo/functional-declarative-design-counterpart-to-object-oriented-design)
+
+[![Image 467](https://images.manning.com/192/256/resize/video/b/208bd3e-b696-43cc-af70-bcbe297ad7d7/Thumb_MathforDataScienceConference.png)](https://www.manning.com/livevideo/math-for-data-science-conference-live-manning)
+
+[![Image 468](https://images.manning.com/192/256/resize/video/4/2826cbb-6b66-4a18-84d1-b6049b9a4494/HobsonLane_O'Reilly2_Thumb_02-02-2022.jpg)](https://www.manning.com/livevideo/adding-large-files-for-nl-datasets)
+
+[![Image 469](https://images.manning.com/192/256/resize/video/8/4595a1d-b8f1-4934-95a1-f067c501e2ec/VaibhavVerdhan_O'Reilly_Thumb_02-11-2021.jpg)](https://www.manning.com/livevideo/solving-tricky-business-problems-with-unsupervised-learning-with-python)
+
+[![Image 470](https://images.manning.com/192/256/resize/video/f/58335d3-33c5-43db-a470-1ecea0add4a9/livevideo-linux-in-motion.png)](https://www.manning.com/livevideo/linux-in-motion)
+
+[![Image 471](https://images.manning.com/192/256/resize/video/2/80e38d2-8a07-40bd-bdb0-eb7d0324ca75/QingquanSong,HaifenJin_O'Reilly_Thumb_04-29-2021.jpg)](https://www.manning.com/livevideo/automl-basics-automated-machine-learning-in-action-qingquan-song-haifeng-jin)
+
+[![Image 472](https://images.manning.com/192/256/resize/video/1/5c4887a-2f10-4842-9211-e3a0be0d3216/PrabhuEshwarla_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/introduction-to-web-development-rust-prabhu-eshwarla)
+
+[![Image 473](https://images.manning.com/192/256/resize/video/e/a7be241-faba-4971-b6fc-fbb50c534159/MattGoldman_O'Reilly_Thumb_09-05-2022.jpg)](https://www.manning.com/livevideo/building-a-material-text-entry-in-.net-maui)
+
+[![Image 474](https://images.manning.com/192/256/resize/video/e/306b62f-b315-4ce7-ae4c-9fce073f589c/Thumb_RustConference.jpg)](https://www.manning.com/livevideo/rust-conference-rustlang)
+
+[![Image 475](https://images.manning.com/192/256/resize/video/0/2ae10a7-495c-4b7f-a95e-fc9ce6066df0/EdwardRaff_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/how-to-modify-generative-adversarial-networks-gans-implementation-for-new-task-and-losses-edward-raff)
+
+[![Image 476](https://images.manning.com/192/256/resize/video/9/5cbfe25-37a9-4c92-b674-1c2f8da228ea/livevideo-deep-learning-crash-course.png)](https://www.manning.com/livevideo/deep-learning-crash-course)
+
+[![Image 477](https://images.manning.com/192/256/resize/video/5/5cbd009-a321-47dc-986c-ab9298c7c869/Thumb_NLPConference.jpg)](https://www.manning.com/livevideo/nlp-conference-natural-language-processing)
+
+[![Image 478](https://images.manning.com/192/256/resize/video/6/0763b16-87d2-4190-aafe-baeedc97cddb/livevideo-redux-in-motion.png)](https://www.manning.com/livevideo/redux-in-motion)
+
+[![Image 479](https://images.manning.com/192/256/resize/video/c/08ad6a4-d64f-49cc-b8c9-6294c8f340f3/enhanced-3b1b-essence-of-calculus.png)](https://www.manning.com/livevideo/3blue1brown-essence-of-calculus)
+
+[![Image 480](https://images.manning.com/192/256/resize/video/7/35fdc45-9974-4cd6-b84a-5ff22f7f9b13/MalaGupta_O'Reilly_Thumb_02-03-2021.jpg)](https://www.manning.com/livevideo/streams-api-in-java)
+
+[![Image 481](https://images.manning.com/192/256/resize/video/5/3fde03a-1745-4cfc-a52c-dda91cc8003f/MohamedLabouardy_O'Reilly_Thumb_03-25-2021.jpg)](https://www.manning.com/livevideo/automate-react-application-deployment-on-aws-mohamed-labouardy)
+
+[![Image 482](https://images.manning.com/192/256/resize/video/a/8007c7e-0b89-4ae1-ae0a-b5144b2cee04/GautamKunapuli_O'Reilly_Thumb_01-16-2021.jpg)](https://www.manning.com/livevideo/gradient-boosting-from-scratch)
+
+[![Image 483](https://images.manning.com/192/256/resize/video/6/1acea72-a8e8-4af6-9979-209c3149a7ad/Talk_Python_-_Async_Techniques_and_Examples.jpg)](https://www.manning.com/livevideo/talk-python-async-techniques-and-examples)
+
+[![Image 484](https://images.manning.com/192/256/resize/video/1/b12cfc8-919a-4c7d-95be-fd3a389f91ca/C_Language.jpg)](https://www.manning.com/livevideo/csharp-language)
+
+[![Image 485](https://images.manning.com/192/256/resize/video/e/58eeb1a-1334-4d39-9b2d-65d2cf55748f/CCNAExam,Part7_SecurityFundamentalsandNetworkArchitectures.png)](https://www.manning.com/livevideo/ccna-exam-part-7-security-fundamentals-and-network-architectures)
+
+[![Image 486](https://images.manning.com/192/256/resize/video/7/af27682-f5d0-4f50-b85a-36715122fc3d/livevideo-product-vanboxel.png)](https://www.manning.com/livevideo/keras-in-motion)
+
+[![Image 487](https://images.manning.com/192/256/resize/video/0/9c80c8a-68b6-4658-a522-f8c388037a4f/RaspberryPiforBeginnersStepbyStep.png)](https://www.manning.com/livevideo/raspberry-pi-for-beginners-step-by-step)
+
+[![Image 488](https://images.manning.com/192/256/resize/video/9/f5b0c3e-70a7-4aee-b4b8-012fd1c2a367/livevideo-serverless-applications-with-aws.png)](https://www.manning.com/livevideo/serverless-applications-with-AWS)
+
+[![Image 489](https://images.manning.com/192/256/resize/video/d/a3c255d-52ef-4b43-9ead-2a37f461cf9a/JulienPonge_O'Reilly2_Thumb_04-30-2021.jpg)](https://www.manning.com/livevideo/reactive-is-not-complicated-with-vertx-and-the-new-mutiny-apis-julien-ponge)
+
+[![Image 490](https://images.manning.com/192/256/resize/video/1/09b0437-7e4e-450b-8097-797c0e0e1cb9/Thumb_ChuckGehman.jpg)](https://www.manning.com/livevideo/live-aws-cloudformation)
+
+[![Image 491](https://images.manning.com/192/256/resize/video/b/d070456-8373-4c78-b28c-a0367cd3e5bf/MarcoFaella_O'Reilly_Thumb_07-02-2020.jpg)](https://www.manning.com/livevideo/brief-tour-code-qualities)
+
+[![Image 492](https://images.manning.com/192/256/resize/video/7/a272996-eefb-41f6-8d30-4461462083fa/GuidetoSecurityforLinuxSystems.png)](https://www.manning.com/livevideo/guide-to-security-for-linux-systems)
+
+[![Image 493](https://images.manning.com/192/256/resize/video/3/6859e04-8d73-4999-a690-ef5e77c57d2f/AngularforJavaDevelopers-Part4.jpg)](https://www.manning.com/livevideo/angular-for-java-developers-connecting-to-a-rest-back-end)
+
+[![Image 494](https://images.manning.com/192/256/resize/video/9/776eef3-27e7-4bb1-8e5c-9000be2b0d40/ScottWinkler_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/secrets-management-with-terraform)
+
+[![Image 495](https://images.manning.com/192/256/resize/video/3/ec616de-a8d0-4f89-818a-489baa1f7075/BuildingWebPageswithJavaScriptandDOM.png)](https://www.manning.com/livevideo/building-web-pages-with-javascript-and-dom)
+
+[![Image 496](https://images.manning.com/192/256/resize/video/e/7f6df21-3142-4ebc-a899-d40e142a3256/CCNAExam,Part2_RoutingFundamentalsandSubnetting.png)](https://www.manning.com/livevideo/ccna-exam-part-2-routing-fundamentals-and-subnetting)
+
+[![Image 497](https://images.manning.com/192/256/resize/video/6/c2157bb-7f49-4f39-a3bd-f9fd8d7827ea/Build_Full-Stack_Web_Applications_using_C_and_Blazor.png)](https://www.manning.com/livevideo/build-full-stack-web-applications-using-csharp-and-blazor)
+
+[![Image 498](https://images.manning.com/192/256/resize/video/c/aef48a2-da80-451a-af7f-0a9e7bb11360/BlazorWebAssembly-FullStackWebDevelopment.png)](https://www.manning.com/livevideo/blazor-webassembly-full-stack-web-development)
+
+[![Image 499](https://images.manning.com/192/256/resize/video/8/ecf5828-797f-4051-a9ea-4165e08ac47d/LaurentiuSpilca_O'Reilly4_Thumb_12-18-2020.jpg)](https://www.manning.com/livevideo/test-spring-app-pro)
+
+[![Image 500](https://images.manning.com/192/256/resize/video/4/6ecc169-cba9-4537-8ae1-1614b2115bfb/NetworkDefenseFundamentals_TrainingforITbeginners_REVB.png)](https://www.manning.com/livevideo/network-defense-fundamentals-training-for-it-beginners)
+
+[![Image 501](https://images.manning.com/192/256/resize/video/5/8e71db1-bad5-4c31-b304-7c8f1f8f7368/LaurentiuSpilca_O'Reilly3_Thumb_12-11-2020.jpg)](https://www.manning.com/livevideo/evolution-spring-software-architecture)
+
+[![Image 502](https://images.manning.com/192/256/resize/video/a/48d18de-38d7-413f-b382-e414ef889d88/Node.jswithMongoDBandExpress.js.png)](https://www.manning.com/livevideo/nodejs-using-mongodb-and-expressjs)
+
+[![Image 503](https://images.manning.com/192/256/resize/video/0/db0f4a1-3918-45c5-b652-7589e0ca2cfd/AngularforJavaDevelopers-Part2.jpg)](https://www.manning.com/livevideo/angular-for-java-developers-typescript)
+
+[![Image 504](https://images.manning.com/192/256/resize/video/0/bb0f32d-a642-47b5-aa11-f6c343ac9324/askdrchonpt5.jpg)](https://www.manning.com/livevideo/how-to-lead-in-data-science-part-five-chong-chang)
+
+[![Image 505](https://images.manning.com/192/256/resize/video/d/0cde9c6-60f0-4392-b069-f377a41f3eb6/LinuxfromSquareOne.png)](https://www.manning.com/livevideo/linux-from-square-one)
+
+[![Image 506](https://images.manning.com/192/256/resize/video/1/aee8b80-4806-4833-92c1-02e304083682/DavidKopec_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/constraint-satisfaction-problems-in-python)
+
+[![Image 507](https://images.manning.com/192/256/resize/video/6/ff43497-cd45-4848-b06e-51c6f8dbf2e9/RaghavBali_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/image-classification-with-transfer-learning)
+
+[![Image 508](https://images.manning.com/192/256/resize/video/c/5438c8a-b125-4688-b2b3-bdbbcffdea79/LaurentiuSpilca_O'Reilly1_Thumb_05-21-2020.jpg)](https://www.manning.com/livevideo/the-spring-security-architecture-for-authentication-and-authorization)
+
+[![Image 509](https://images.manning.com/192/256/resize/video/7/dd7b593-54c9-41a4-87a7-4bcbe5dfabae/Thumb_ChristianNunciato.jpg)](https://www.manning.com/livevideo/building-photo-map-on-aws-with-pulumi)
+
+[![Image 510](https://images.manning.com/192/256/resize/video/7/accd2d6-f9aa-4578-9720-5875f9afa09a/BillBejeck_O'Reilly_Thumb_8-31-21.jpg)](https://www.manning.com/livevideo/joins-in-kafka-streams)
+
+[![Image 511](https://images.manning.com/192/256/resize/video/e/bad0065-8734-438f-bb35-108a0717a188/Learn_Linux_Administration_and_Supercharge_Your_Career.png)](https://www.manning.com/livevideo/learn-linux-administration-and-supercharge-your-career)
+
+[![Image 512](https://images.manning.com/192/256/resize/video/a/7d13310-4bc3-4887-bb9c-247073b08cc1/AndrewFreed_O'Reilly_Thumb_02-27-2021.jpg)](https://www.manning.com/livevideo/creating-your-first-virtual-assistant-andrew-freed)
+
+[![Image 513](https://images.manning.com/192/256/resize/video/8/a20366b-e29a-45ac-8e99-9399c838a108/DesigningDynamicandInteractiveWebPages.png)](https://www.manning.com/livevideo/designing-dynamic-and-interactive-web-pages)
+
+[![Image 514](https://images.manning.com/192/256/resize/video/a/f1e2a81-4d34-4885-9a0c-017ecfdd2869/Linux_Security_and_Hardening.png)](https://www.manning.com/livevideo/linux-security-and-hardening)
+
+[![Image 515](https://images.manning.com/192/256/resize/video/a/fb72709-cc23-46c9-bee3-098326b044d5/livevideo-product-fisher.png)](https://www.manning.com/livevideo/docker-in-motion)
+
+[![Image 516](https://images.manning.com/192/256/resize/video/6/85c09c0-940e-4d72-b188-5317f23172d4/JoseHaroPeralta_O'Reilly_Thumb_07-15-2021.jpg)](https://www.manning.com/livevideo/building-and-deploying-reliable-apis-with-fastapi)
+
+[![Image 517](https://images.manning.com/192/256/resize/video/f/6cd2b07-6e16-4ae2-a25e-bcb01ff23309/Thumb_RoyOsherove.jpg)](https://www.manning.com/livevideo/unit-testing-test-driven-development)
+
+[![Image 518](https://images.manning.com/192/256/resize/video/b/333aa62-0213-42a7-9136-4528279c39fa/HobsonLane_O'Reilly9_Thumb_03-30-2022.jpg)](https://www.manning.com/livevideo/extreme-summarization-with-fasttext-word-embeddings-and-roberta-encodings)
+
+[![Image 519](https://images.manning.com/192/256/resize/video/7/f355ca8-2a1c-4d39-98c0-4d02427b0549/WilliamLyon_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/getting-started-with-the-neo4j-graphql-library)
+
+[![Image 520](https://images.manning.com/192/256/resize/video/a/d7e5f75-2ca9-4791-adb5-d0604542ca92/MikolajPawlikowski_O'Reilly_Thumb_06-13-2020.jpg)](https://www.manning.com/livevideo/chaos-engineering-with-docker)
+
+[![Image 521](https://images.manning.com/192/256/resize/video/d/f4b7b6b-02d2-46e1-a828-8750ff3d0e92/SarahKaiser,CristopherGranade&PaulOrland_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/panel-on-quantum-computing-physics-math-and-computer-science)
+
+[![Image 522](https://images.manning.com/192/256/resize/video/d/082c604-c060-4266-bf3b-18192abdd1b8/AngularforJavaDevelopers-Part1.jpg)](https://www.manning.com/livevideo/angular-for-java-developers-creating-a-simple-angular-app)
+
+[![Image 523](https://images.manning.com/192/256/resize/video/b/038f81c-20f9-4a18-9970-14d79ad2fb95/DrummondReed_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/overview-of-self-sovereign-identity)
+
+[![Image 524](https://images.manning.com/192/256/resize/video/6/3c7bba3-0763-49a2-8a89-cdef9dd150fa/livevideo-production-ready-serverless.png)](https://www.manning.com/livevideo/production-ready-serverless)
+
+[![Image 525](https://images.manning.com/192/256/resize/video/e/85b6585-c4c2-45e5-834e-a87b59c84a45/FelienneHermans_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/how-to-read-confusing-code)
+
+[![Image 526](https://images.manning.com/192/256/resize/video/4/0e0d6ca-0d5f-4b2d-9bec-a0ee1c0db410/NicolaiParlog_O'ReillyPart1_Thumb.jpg)](https://www.manning.com/livevideo/intro-to-the-java-module-system-and-migrating-code-to-java-11)
+
+[![Image 527](https://images.manning.com/192/256/resize/video/5/82cf77c-4225-4b8e-b2a1-2fa6ab18f78b/livevideo-machine-learning-for-mere-mortals.png)](https://www.manning.com/livevideo/machine-learning-for-mere-mortals)
+
+[![Image 528](https://images.manning.com/192/256/resize/video/2/56ac4f7-f326-4364-9a78-be8c2ff954f8/AlyssaMiller_O'Reilly_Thumb_03-16-2022.jpg)](https://www.manning.com/livevideo/finding-your-cyber-security-path)
+
+[![Image 529](https://images.manning.com/192/256/resize/video/5/8bb0a85-aee7-4c0b-bddd-81b78057d86f/ChristianClausen_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/refactoring-gilded-rose-kata-in-java)
+
+[![Image 530](https://images.manning.com/192/256/resize/video/3/38f5929-fb09-48db-b575-23804afae311/FrankKane_O'Reilly1_Thumb.jpg)](https://www.manning.com/livevideo/complete-beginners-guide-to-xgboost-models)
+
+[![Image 531](https://images.manning.com/192/256/resize/video/6/6eff239-5f72-413f-8b77-f1ad03accc62/Linux_for_Beginners.png)](https://www.manning.com/livevideo/linux-for-beginners)
+
+[![Image 532](https://images.manning.com/192/256/resize/video/c/7dffe0f-c4ba-4061-ade2-3b20d627afc7/ChrisMattmann&ScottPenberthy_O'Reilly2_Thumb_11-2020.jpg)](https://www.manning.com/livevideo/how-model-language-as-tensors)
+
+[![Image 533](https://images.manning.com/192/256/resize/video/9/7a4b02d-575a-499e-a953-8d0bfa14c8c1/JonathanRioux_O'Reilly2_Thumb_04-02-2021.jpg)](https://www.manning.com/livevideo/working-on-hands-on-keyboard-ml-model-with-pyspark-jonathan-rioux)
+
+[![Image 534](https://images.manning.com/192/256/resize/video/6/337e7eb-a6c4-40d5-aebf-77c8019e6708/JavaScript_for_Beginners_The_Complete_Course___for_Beginners-1.png)](https://www.manning.com/livevideo/bootstrap-5-course-build-responsive-websites-like-a-pro)
+
+[![Image 535](https://images.manning.com/192/256/resize/video/2/30dfb10-6457-455b-a09d-c8b6d9f85dbc/NET_Core_API_Development.png)](https://www.manning.com/livevideo/dotnet-core-api-development)
+
+[![Image 536](https://images.manning.com/192/256/resize/video/0/5436b18-4924-40f1-b5c9-885cb80018d7/MarkRyan_O'Reilly2_Thumb_09-01-2020.jpg)](https://www.manning.com/livevideo/hands-on-deep-learning-model-training-with-the-sequential-api-in-keras)
+
+[![Image 537](https://images.manning.com/192/256/resize/video/c/e2992be-e35a-4354-a369-871e475a8267/JikeChong,YueCathyChang_O'Reilly_Thumb_11-14-2020.jpg)](https://www.manning.com/livevideo/ask-dr-chong-become-a-leader-in-data-science-part-two)
+
+[![Image 538](https://images.manning.com/192/256/resize/video/5/b433e1a-2b42-4871-a409-8257476055fb/livevideo-learning-clientside-graphql-with-apollo.png)](https://www.manning.com/livevideo/learning-clientside-graphql-with-apollo)
+
+[![Image 539](https://images.manning.com/192/256/resize/video/6/819d75e-ea53-4444-8cbe-98fafd87db73/NeilMadden_O'Reilly2_Thumb_05-04-2021.jpg)](https://www.manning.com/livevideo/the-impact-of-spectre-on-modern-web-and-api-development)
+
+[![Image 540](https://images.manning.com/192/256/resize/video/a/bbb6e93-ebac-425d-86d0-392c2c2fb2a4/ColbyTFord_O'Reilly_Thumb_05-18-2022.jpg)](https://www.manning.com/livevideo/from-sequences-to-success-with-cloud-scale-genomics)
+
+[![Image 541](https://images.manning.com/192/256/resize/video/0/2d8968f-dc13-4bb0-a2fa-e6325990d954/Linux_Administration_Bootcamp.png)](https://www.manning.com/livevideo/linux-administration-bootcamp)
+
+[![Image 542](https://images.manning.com/192/256/resize/video/1/0c679f1-ab09-49e3-9330-96885999f3b9/MiguelMorales_O'Reilly1_Thumb_05-2020.jpg)](https://www.manning.com/livevideo/grokking-deep-q-networks)
+
+[![Image 543](https://images.manning.com/192/256/resize/video/5/e5b3822-e01d-4dc7-a605-02ac257a40a5/MasteringPromptEngineering_GeneratetextandimageswithAI_REVB.png)](https://www.manning.com/livevideo/mastering-prompt-engineering-generate-text-and-images-with-ai)
+
+[![Image 544](https://images.manning.com/192/256/resize/video/3/e620f89-50e6-46ea-a300-b5d9cf22a01f/livevideo-nodejs-in-motion.png)](https://www.manning.com/livevideo/nodejs-in-motion)
+
+[![Image 545](https://images.manning.com/192/256/resize/video/7/e869243-c1b7-4a7c-9236-efb1cc4743f1/ChristianPosta_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/istio-ingress-gateway)
+
+[![Image 546](https://images.manning.com/192/256/resize/video/1/95418e0-7b50-4461-ba67-aeaa0f649a47/CCNAExam,Part6_NetworkServices.png)](https://www.manning.com/livevideo/ccna-exam-part-6-network-services)
+
+[![Image 547](https://images.manning.com/192/256/resize/video/d/73d259f-c09e-464e-9a3c-300d7c35f038/KalleRosenbaum_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/run-bitcoin-node-linux)
+
+[![Image 548](https://images.manning.com/192/256/resize/video/1/817d84a-5894-4677-affc-20de41336056/DaneHillard,ReuvenLerner_O'Reilly_Thumb_06-09-2021.jpg)](https://www.manning.com/livevideo/the-expanding-world-of-python)
+
+[![Image 549](https://images.manning.com/192/256/resize/video/6/22d6e01-8015-4131-b9ba-2a675a183527/FelienneHermans_O'Reilly3_Thumb_06-23-2021.jpg)](https://www.manning.com/livevideo/how-different-programming-activities-impact-our-cognition)
+
+[![Image 550](https://images.manning.com/192/256/resize/video/2/ba17932-2e3e-4d82-989c-daf2ece6b7c0/Jean-GeorgesPerrin_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/processing-covid-data-with-apache-spark)
+
+[![Image 551](https://images.manning.com/192/256/resize/video/f/02fc14a-2cfc-41f3-b711-633bfe36a044/PHPEssentials_DeepdiveintotheprinciplesofPHP_REVB.png)](https://www.manning.com/livevideo/php-essentials-deep-dive-into-the-principles-of-php)
+
+[![Image 552](https://images.manning.com/192/256/resize/video/6/8362824-a3eb-4790-9533-ece43c661308/CCNAExam,Part8_WirelessLANsandNetworkAutomation.png)](https://www.manning.com/livevideo/ccna-exam-part-8-wireless-lans-and-network-automation)
+
+[![Image 553](https://images.manning.com/192/256/resize/video/4/a9f98d5-4ac8-43f8-8f41-5847c327de22/livevideo-product-brumm.png)](https://www.manning.com/livevideo/sql-in-motion)
+
+[![Image 554](https://images.manning.com/192/256/resize/video/7/3cfe374-fb35-4c71-b496-653a64bd10dc/Python_for_Machine_Learning__The_Complete_Beginner_s_Course.png)](https://www.manning.com/livevideo/python-for-machine-learning-the-complete-beginners-course)
+
+[![Image 555](https://images.manning.com/192/256/resize/video/e/755d7ef-6314-451c-b0ee-02de0f0159fa/The_Complete_Microsoft_SQL_Server_Course__From_A_to_Z.png)](https://www.manning.com/livevideo/the-complete-microsoft-sql-server-course-from-a-to-z)
+
+[![Image 556](https://images.manning.com/192/256/resize/video/0/8b7742b-e87d-405b-8e64-a94c162c8c23/RosemaryWang_O'Reilly_Thumb_8-10-21.jpg)](https://www.manning.com/livevideo/decouple-dependencies-in-your-infrastructure-as-code)
+
+[![Image 557](https://images.manning.com/192/256/resize/video/e/35ddb98-9157-4746-8a71-c6c4042efbc6/MasteringSpringFrameworkFundamentals.png)](https://www.manning.com/livevideo/mastering-spring-framework-fundamentals)
+
+[![Image 558](https://images.manning.com/192/256/resize/video/0/5f8ff8e-0f3a-429b-850b-be0a9d2e5b1a/JoshFischer_O'Reilly_Parts1-3_Thumb.jpg)](https://www.manning.com/livevideo/introduction-to-streaming-systems-streaming-graphs-delivery-semantics)
+
+[![Image 559](https://images.manning.com/192/256/resize/video/4/aaddd9d-517f-4c43-aae3-2857c8a6b1c3/RenzoBorgatti_O'Reilly_Thumb_02-09-2022.jpg)](https://www.manning.com/livevideo/deep-dive-into-clojure)
+
+[![Image 560](https://images.manning.com/192/256/resize/video/a/badcc51-c254-4a6c-b47d-cd07c4560a07/MySQLDatabaseDevelopmentMastery.png)](https://www.manning.com/livevideo/mysql-database-development-mastery)
+
+[![Image 561](https://images.manning.com/192/256/resize/video/c/71db598-64a1-42a8-bba3-599e925a1c91/ApplicationSecurity-Acompleteguide.png)](https://www.manning.com/livevideo/application-security-a-complete-guide)
+
+[![Image 562](https://images.manning.com/192/256/resize/video/f/8c3534a-a44d-45c2-999b-839154c847c8/TheCompleteFront-EndWebDevelopmentCourse.png)](https://www.manning.com/livevideo/the-complete-front-end-web-development-course)
+
+[![Image 563](https://images.manning.com/192/256/resize/video/4/7ee9f40-3f57-4455-b630-c67a3bd75ce2/TanmayBakshi_O'Reilly_Thumb_10-01-2020.jpg)](https://www.manning.com/livevideo/coreml-on-ios-language-models-running-on-your-iphone)
+
+[![Image 564](https://images.manning.com/192/256/resize/video/8/d4ddb15-e45d-4887-b98b-2169b1583f67/BogumilKaminski_O'Reilly2_Thumb_07-08-2022.jpg)](https://www.manning.com/livevideo/julia-for-data-analysis-analyzing-the-social-network-of-github-developers)
+
+[![Image 565](https://images.manning.com/192/256/resize/video/d/394d0dd-6d18-422c-846c-461a93d89525/TestDrivenDevelopmentinASP.NETCore-TheHandbook.png)](https://www.manning.com/livevideo/test-driven-development-in-asp.net-core-handbook)
+
+[![Image 566](https://images.manning.com/192/256/resize/video/b/b6b502c-605e-4dd3-9552-65bef5d8487f/VitalyBragilevsky_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/introductory-tutorial-type-level-programming-haskell)
+
+[![Image 567](https://images.manning.com/192/256/resize/video/b/1a6ed0a-13dc-42a3-b9e3-0532232de7a4/Geometry_for_Programmers.jpg)](https://www.manning.com/livevideo/geometry-for-programmers-video-edition)
+
+[![Image 568](https://images.manning.com/192/256/resize/video/5/982b5ec-e458-4d62-ac79-df1d2de3ac69/livevideo-graphql-in-motion.png)](https://www.manning.com/livevideo/graphql-in-motion)
+
+[![Image 569](https://images.manning.com/192/256/resize/video/0/53bb98e-ffe1-487b-a605-4811e10e6353/KrishnenduChaudhury_O'Reilly2_Thumb_01-14-2021.jpg)](https://www.manning.com/livevideo/gaussian-mixture-models-mathematical-insights-applications-pytorch-implementation-hints)
+
+[![Image 570](https://images.manning.com/192/256/resize/video/6/9f52b0b-c3c8-45a3-b7f5-fe723b62c625/SedatKapanoglu_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/coding-tips-for-beginners-useful-anti-patterns-in-street-coder-sedat-kapanoglu)
+
+[![Image 571](https://images.manning.com/192/256/resize/video/d/b4dd348-b99f-416a-9bc2-6a94774711b2/AlessandroNegro_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/tips-tricks-about-graph-based-machine-learning-systems)
+
+[![Image 572](https://images.manning.com/192/256/resize/video/e/fbb3cf8-64bc-4546-9422-6759f0bac75c/HobsonLane_O'Reilly3_Thumb_02-09-2022.jpg)](https://www.manning.com/livevideo/how-to-be-happy-with-a-chatbot-state-machine)
+
+[![Image 573](https://images.manning.com/192/256/resize/video/1/7689115-da76-46c7-ba67-a15a4552ab3e/TimMcNamara_O'Reilly1_Thumb.jpg)](https://www.manning.com/livevideo/learn-rust-easier-way)
+
+[![Image 574](https://images.manning.com/192/256/resize/video/1/d6d6256-b520-497c-9904-20de0939286e/HefinRhys_O'Reilly_Part1_Thumb.jpg)](https://www.manning.com/livevideo/training-vector-machine-mlr-machine-learning)
+
+[![Image 575](https://images.manning.com/192/256/resize/video/5/00c6d60-803f-4d77-9ed5-119819380b82/JortRodenburg&YehonathanSharvit_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/data-oriented-programming-in-c)
+
+[![Image 576](https://images.manning.com/192/256/resize/video/0/4cc9fd8-718e-4c88-9438-bf44fd3a4c63/AshleyDavis_O'Reilly1_Thumb.jpg)](https://www.manning.com/livevideo/infrastructure-as-code-using-terraform-to-deploy-kubernetes-and-microservices)
+
+[![Image 577](https://images.manning.com/192/256/resize/video/2/7c3aae5-e4d7-487b-b5e4-b77a217efaf5/AtishayJain_O'Reilly_Thumb_10-24-2020.jpg)](https://www.manning.com/livevideo/content-management-with-hugo-creating-and-organizing-content)
+
+[![Image 578](https://images.manning.com/192/256/resize/video/5/70b3011-c7b7-482d-ab1c-eb21c7972aa1/ChristianHorsdal_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/building-a-robust-microservice-collaboration)
+
+[![Image 579](https://images.manning.com/192/256/resize/video/6/c752763-617b-4fff-9054-1b9c58305408/TylerLeonhardt_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/how-to-navigate-help-system-powershell)
+
+[![Image 580](https://images.manning.com/192/256/resize/video/4/f2b1d8c-2871-4e87-b6db-1c0393b6b3cc/Cplusplusprogrammingessentials_REVB.png)](https://www.manning.com/livevideo/c-plus-plus-for-beginners-mastering-c-plus-plus-programming-essentials)
+
+[![Image 581](https://images.manning.com/192/256/resize/video/5/e141af9-c117-4386-a38f-3aee52ea9925/StephenKuenzli_O'Reilly2_Thumb_07-21-2020.jpg)](https://www.manning.com/livevideo/running-docker-containers-more-securely)
+
+[![Image 582](https://images.manning.com/192/256/resize/video/e/7952fdd-db58-4c56-a67c-b3e957a01f34/BillyYuen_O'Reilly_Thumb_10-20-2020.jpg)](https://www.manning.com/livevideo/gitops-and-kubernetes-an-overview)
+
+[![Image 583](https://images.manning.com/192/256/resize/video/f/001b784-86b3-4454-a758-c46326056954/AlexeyGrigorev_O'Reilly_Thumb_02-17-2022.jpg)](https://www.manning.com/livevideo/end-to-end-machine-learning-from-training-a-model-to-deploying-to-the-cloud)
+
+[![Image 584](https://images.manning.com/192/256/resize/video/a/3d5a775-dae9-4386-8b02-6d7d8c2751d1/MatthewGroves_O'Reilly2_Thumb_05-2020(1).jpg)](https://www.manning.com/livevideo/querying-nosql-with-sql)
+
+[![Image 585](https://images.manning.com/192/256/resize/video/5/b28ef6a-daec-4c64-959e-af99b07c0f68/CCNAExam,Part5_Layer4,IPv6andIPAccessControlLists.png)](https://www.manning.com/livevideo/ccna-exam-part-5-layer-4-ipv6-and-ip-access-control-lists)
+
+[![Image 586](https://images.manning.com/192/256/resize/video/f/c3be5d2-9406-4fe7-adaf-939aa44bb319/Master_AutoCAD_2023_to_Produce_Site_Plans.png)](https://www.manning.com/livevideo/master-autocad-2023-to-produce-site-plans)
+
+[![Image 587](https://images.manning.com/192/256/resize/video/c/677017c-4c20-431f-8d22-ba1ac389d055/AdibSaikali_O'Reilly_Thumb_02-07-2022.jpg)](https://www.manning.com/livevideo/making-sense-of-application-security)
+
+[![Image 588](https://images.manning.com/192/256/resize/video/5/74c8a23-c8aa-45d3-be88-fde2bfce44f9/ThomasVitale_O'Reilly1_Thumb.jpg)](https://www.manning.com/livevideo/spring-cloud-gateway-resilience-security-thomas-vitale)
+
+[![Image 589](https://images.manning.com/192/256/resize/video/5/62b8010-137c-4c93-87f1-25ff7e759aa3/MySQL_for_Beginners__A_Complete_Training.png)](https://www.manning.com/livevideo/mysql-for-beginners-a-complete-training-for-beginners)
+
+[![Image 590](https://images.manning.com/192/256/resize/video/1/8cff0f6-736a-4a13-9a80-5fe939fd9bfe/ChristianClausen_O'Reilly2_Thumb_01-09-2021.jpg)](https://www.manning.com/livevideo/making-small-compiler-katas)
+
+[![Image 591](https://images.manning.com/192/256/resize/video/6/e43345f-ba94-40f2-bfc3-e411917d2f98/LaurentiuSpilca_O'Reilly5_Thumb_01-08-2021.jpg)](https://www.manning.com/livevideo/top-ten-mistakes-spring-security-make-app-vulnerable)
+
+[![Image 592](https://images.manning.com/192/256/resize/video/9/60f361d-346d-42a1-8a44-f2d616acd074/HobsonLane_O'Reilly1_Thumb_01-17-2022.jpg)](https://www.manning.com/livevideo/nlp-in-action-with-pytorch-and-nessvectors-whats-in-a-name)
+
+[![Image 593](https://images.manning.com/192/256/resize/video/d/8c7d64c-0a1d-4487-9cc9-37fcd3d9e6f3/Data_for_All.jpg)](https://www.manning.com/livevideo/data-for-all-ve)
+
+[![Image 594](https://images.manning.com/192/256/resize/video/0/7d7f4b1-298e-44e0-ab7a-78b28c4236ef/ChristieWilson_O'Reilly_Thumb_01-12-2022.jpg)](https://www.manning.com/livevideo/building-a-better-bug-trap-with-github-actions)
+
+[![Image 595](https://images.manning.com/192/256/resize/video/3/535ada7-b075-4664-a59f-364f42bd3b11/AshleyDavis_O'Reilly3_Thumb_06-01-2022.jpg)](https://www.manning.com/livevideo/rapid-fullstack-development)
+
+[![Image 596](https://images.manning.com/192/256/resize/video/3/46c09b2-18ca-45b2-8edf-12f88ef110db/Thumb_JonathanRioux.jpg)](https://www.manning.com/livevideo/python-spark-udf-pandas)
+
+[![Image 597](https://images.manning.com/192/256/resize/video/2/1505104-eefe-49fb-b596-44a17790d11d/UltimateCybersecurityCourseandCISSPExamPrep.png)](https://www.manning.com/livevideo/ultimate-cybersecurity-course-and-cissp-exam-prep)
+
+[![Image 598](https://images.manning.com/192/256/resize/video/5/76dfdce-5c86-4ae6-92fe-dbe7bfb1077c/Fast_Python.jpg)](https://www.manning.com/livevideo/fast-python-video-edition)
+
+[![Image 599](https://images.manning.com/192/256/resize/video/3/24617b7-b3dd-48be-b9a9-53dc7dda5e7d/HowtoCreateDynamicWebContentwithJavaScriptandAJAX.png)](https://www.manning.com/livevideo/how-to-create-dynamic-web-content-with-javascript-and-ajax)
+
+[![Image 600](https://images.manning.com/192/256/resize/video/c/2855f01-0e76-4b53-9734-67f816669ce3/TheCompleteFull-StackJavaScriptCourse.png)](https://www.manning.com/livevideo/the-complete-full-stack-javascript-course)
+
+[![Image 601](https://images.manning.com/192/256/resize/video/5/6decc58-cf22-4f7b-9492-87166c372c75/NishantBhajaria,GianlucaMauro_O'Reilly_Thumb_04-25_2021.jpg)](https://www.manning.com/livevideo/where-ai-and-privacy-collide-code-calls-nishant-bhajaria-gianluca-mauro)
+
+[![Image 602](https://images.manning.com/192/256/resize/video/1/95f3ba2-46cd-4f64-bdf1-437f4653502b/JavaScriptFundamentals.png)](https://www.manning.com/livevideo/javascript-fundamentals)
+
+[![Image 603](https://images.manning.com/192/256/resize/video/a/d273745-6ad9-4c0e-a33f-2c1493f51100/StephenKuenzli_O'Reilly3_Thumb_08-15-2020.jpg)](https://www.manning.com/livevideo/how-to-secure-data-in-an-aws-s3-bucket-and-still-use-it)
+
+[![Image 604](https://images.manning.com/192/256/resize/video/1/5c14107-934c-4ccd-9839-b0e689770d28/FelienneHermans_O'Reilly2_Thumb_04-07-2021.jpg)](https://www.manning.com/livevideo/how-to-read-confusing-code-felienne-hermans)
+
+[![Image 605](https://images.manning.com/192/256/resize/video/2/40ef95b-3699-4983-992f-fb2248a332fd/EliStevens_O'Reilly_Thumb_09-03-2020.jpg)](https://www.manning.com/livevideo/converting-pure-deep-learning-with-pytorch-lightning-and-hangar)
+
+[![Image 606](https://images.manning.com/192/256/resize/video/3/d035027-6416-4e44-86fc-6251ee68ef5d/NaomiCeder&TimMcNamara_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/code-calls-naomi-ceder-tim-mcnamara-python-rust)
+
+[![Image 607](https://images.manning.com/192/256/resize/video/a/0024224-ba5f-40c6-827b-b79d9bcc129b/DanielAldred_Thumb_08-27-2024_INTERLACED.png)](https://www.manning.com/livevideo/twisted-python-projects)
+
+[![Image 608](https://images.manning.com/192/256/resize/video/7/49f259f-4321-48ca-aa91-7646ebfa0844/VilleTuulos_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/building-effective-data-science-infrastructure-in-30-minutes)
+
+[![Image 609](https://images.manning.com/192/256/resize/video/a/5001ba8-22f0-4bfa-93e2-d8284b5464df/MatthewRudd_O'Reilly1_Thumb_8-9-21.jpg)](https://www.manning.com/livevideo/regression-model-diagnostics)
+
+[![Image 610](https://images.manning.com/192/256/resize/video/1/e090512-6fbd-4a45-9902-13188f2e5a23/MatthewRudd_O'Reilly2_Thumb_11-8-2021.jpg)](https://www.manning.com/livevideo/real-world-applications-of-regression-models-with-count-outcomes)
+
+[![Image 611](https://images.manning.com/192/256/resize/video/5/ed06403-b58d-4f0d-a960-45687e5a2002/MarcoPeixeiro_O'Reilly_Thumb_01-14-2022.jpg)](https://www.manning.com/livevideo/getting-started-with-time-series-forecasting-in-python)
+
+[![Image 612](https://images.manning.com/192/256/resize/video/f/2029096-12a5-4d0f-b040-58ec031472e7/OliverZeigermann_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/neural-networks-with-tensorflow-two-zero-scikit-learn-keras)
+
+[![Image 613](https://images.manning.com/192/256/resize/video/5/f99e321-3e60-4ec2-9969-d049c91f696b/PaulOrland_O'Reilly_Thumb_06-22-2020.jpg)](https://www.manning.com/livevideo/animated-fractals-python)
+
+[![Image 614](https://images.manning.com/192/256/resize/video/4/4ab0483-251c-452c-849f-00d4b97c70ae/ReuvenLerner_O'Reilly2_Thumb_08-12-2020.jpg)](https://www.manning.com/livevideo/beyond-def-exploring-python-functions)
+
+[![Image 615](https://images.manning.com/192/256/resize/video/2/3a4efcb-9e73-40c9-ad59-8a9d75f41826/ChatGPTCodingExpress_Fast-trackcodingwithChatGPT_REVC.png)](https://www.manning.com/livevideo/chatgpt-coding-express-fast-track-coding-with-chatgpt)
+
+[![Image 616](https://images.manning.com/192/256/resize/video/e/a7a2519-bf0c-4d79-9985-a186e4f7f2c1/ACompleteGuidetoAndroidBugBountyPenetrationTests.png)](https://www.manning.com/livevideo/a-complete-guide-to-android-bug-bounty-penetration-tests)
+
+[![Image 617](https://images.manning.com/192/256/resize/video/b/93355c3-9640-47b7-8bb3-0abdb4d62268/PeterElger,EoinShanaghy_O'Reilly_Thumb_10-22-2020.jpg)](https://www.manning.com/livevideo/build-serverless-cat-detector-system-interactively)
+
+[![Image 618](https://images.manning.com/192/256/resize/video/f/f741faf-19c8-41b2-a3b0-a8b4e0f63da2/AshleyDavis_O'Reilly2_Thumb_02-03-2022.jpg)](https://www.manning.com/livevideo/how-to-build-microservices-with-node.js)
+
+[![Image 619](https://images.manning.com/192/256/resize/video/6/acf6ede-0e30-40ce-92c0-16f83fd74fed/SarahKaiser_O'Reilly_Thumb_10-29-2020.jpg)](https://www.manning.com/livevideo/get-started-developing-quantum-computers-with-qsharp-python)
+
+[![Image 620](https://images.manning.com/192/256/resize/video/3/90ca8c9-8fab-4c45-878e-b3459dadc9f7/MasteringBardAI_Google'sversatilelanguagemodel_REVB.png)](https://www.manning.com/livevideo/mastering-bard-ai-googles-versatile-language-model)
+
+[![Image 621](https://images.manning.com/192/256/resize/video/0/afcc0de-598f-4411-893d-18fe567db143/Postman.jpg)](https://www.manning.com/livevideo/postman)
+
+[![Image 622](https://images.manning.com/192/256/resize/video/d/6123f9e-dc6e-437d-b472-fb6201d16955/FranciscoLopez-SanchoAbrahami_O'Reilly_Thumb_02-08-2022.jpg)](https://www.manning.com/livevideo/akka-introduction-crash-course)
+
+[![Image 623](https://images.manning.com/192/256/resize/video/7/eeced5c-7234-4e07-8f99-2018b1bbbd17/MauricioSalatino_O'Reilly_Thumb_02-25-2022.jpg)](https://www.manning.com/livevideo/what-is-continuous-delivery-for-kubernetes)
+
+[![Image 624](https://images.manning.com/192/256/resize/video/5/0413e31-ece8-4b65-92d5-51d2ebea8533/EthicalHackingwithKaliLinux.png)](https://www.manning.com/livevideo/an-introduction-to-ethical-hacking-with-kali-linux)
+
+[![Image 625](https://images.manning.com/192/256/resize/video/e/f7409dc-1510-46e3-b04f-13f9dc051543/LarsKlint_O'Reilly_Thumb_03-07-2022.jpg)](https://www.manning.com/livevideo/building-a-serverless-image-resizer-on-azure)
+
+[![Image 626](https://images.manning.com/192/256/resize/video/9/1e19157-dd90-40dc-b177-3737e4e58075/YakovFain_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/advantages-of-using-typescript-javascript)
+
+[![Image 627](https://images.manning.com/192/256/resize/video/c/dca9f1c-b183-49fa-9598-1d762a6895f7/HobsonLane_O'Reilly4_Thumb_02-16-2022.jpg)](https://www.manning.com/livevideo/use-pynndescent-and-nessvec-to-index-high-dimensional-vectors-word-embeddings)
+
+[![Image 628](https://images.manning.com/192/256/resize/video/7/b8793e7-3374-4861-85a5-5b2a24bfc388/HobsonLane_O'Reilly6_Thumb_03-09-2022.jpg)](https://www.manning.com/livevideo/nlp-in-action-attention-mechanism-and-upgrading-torchtext-0.9)
+
+[![Image 629](https://images.manning.com/192/256/resize/video/4/9e3fa64-ce85-4bb3-ab15-9f4bce413582/HobsonLane_O'Reilly8_Thumb_03-23-2022.jpg)](https://www.manning.com/livevideo/create-a-dialog-engine-or-finite-state-machine-fsm)
+
+[![Image 630](https://images.manning.com/192/256/resize/video/3/2d91e0a-1978-44c6-b164-22db5b0ae6fe/CarlOsipov_O'Reilly2_Thumb_12-09-2020.jpg)](https://www.manning.com/livevideo/understanding-horovod-for-distributed-gradient-descent-in-pytorch)
+
+[![Image 631](https://images.manning.com/192/256/resize/video/e/4fd6967-5129-4d35-8068-6188e4e0c81e/LinuxNetworkAdministration.png)](https://www.manning.com/livevideo/linux-network-administration)
+
+[![Image 632](https://images.manning.com/192/256/resize/video/6/e5b8118-4f12-461f-b3f7-8039482b4684/GeoffreyLessel_O'Reilly_Thumb_05-14-2021.jpg)](https://www.manning.com/livevideo/lets-build-a-real-time-chat-application-with-elixir-and-phoenix)
+
+[![Image 633](https://images.manning.com/192/256/resize/video/c/712060d-ee00-42ea-ae80-705b0be9992c/WebDesignforBeginners.png)](https://www.manning.com/livevideo/web-design-for-beginners)
+
+[![Image 634](https://images.manning.com/192/256/resize/video/b/a0a6eaa-ac71-433d-8a69-7d37c3980d90/AshleyDavis_O'Reilly4_Thumb_07-25-2022.jpg)](https://www.manning.com/livevideo/what-is-live-reload-across-the-stack)
+
+[![Image 635](https://images.manning.com/192/256/resize/video/0/542e2cb-16ec-4324-9424-a302ba494a1d/CCNANetworkingEssentials_AcomprehensiveCiscocourse_REVB.png)](https://www.manning.com/livevideo/ccna-networking-essentials-a-comprehensive-cisco-course)
+
+[![Image 636](https://images.manning.com/192/256/resize/video/a/3fef487-d8d9-4602-b25e-0807494f70c8/LaurentiuSpilca_O'Reilly2_Thumb_12-04-2020.jpg)](https://www.manning.com/livevideo/pro-tips-spring-developer)
+
+[![Image 637](https://images.manning.com/192/256/resize/video/2/7fcdde4-7759-4b2b-a118-57353fe896b5/LearnEthicalHacking_BeginnertoAdvanced.png)](https://www.manning.com/livevideo/learn-ethical-hacking-beginner-to-advanced)
+
+[![Image 638](https://images.manning.com/192/256/resize/video/4/91f2a84-b382-46d6-80b3-21a7dbf36fa5/RichardNuckolls_O'Reilly2_Thumb_09-10-2020.jpg)](https://www.manning.com/livevideo/AzureDataLakeAnalytics-WritingandRunningJobs)
+
+[![Image 639](https://images.manning.com/192/256/resize/video/2/6a8ff1f-09cb-4d93-aa65-22f6d7899285/PracticalPython3.png)](https://www.manning.com/livevideo/practical-python-3)
+
+[![Image 640](https://images.manning.com/192/256/resize/video/3/3891c2e-c1e3-4c4d-a18a-eb9acec8c608/enhanced-3b1b-neural-networks.png)](https://www.manning.com/livevideo/3blue1brown-neural-networks)
+
+[![Image 641](https://images.manning.com/192/256/resize/video/d/0dc693b-6380-43b5-a5bf-cc984a79206f/TimMcNamara_O'Reilly2_Thumb_4-16-2020.jpg)](https://www.manning.com/livevideo/learning-rust-through-examples)
+
+[![Image 642](https://images.manning.com/192/256/resize/video/d/744e91d-eee4-4486-a14e-a959e9b5528a/Learn_Linux_in_5_Days.png)](https://www.manning.com/livevideo/learn-linux-in-5-days)
+
+[![Image 643](https://images.manning.com/192/256/resize/video/2/2d42d27-2692-42d9-9962-ceb4e209fe7e/NicolaiParlog_O'ReillyPart2_Thumb.jpg)](https://www.manning.com/livevideo/the-java-module-system-migrate-legacy-code-and-turn-jars-into-modules)
+
+[![Image 644](https://images.manning.com/192/256/resize/video/6/b90d679-7f87-4ef2-a173-db8f5aeaf8ae/A_to_Z_OOP_Programming_with_Python.png)](https://www.manning.com/livevideo/a-to-z-oop-programming-with-python)
+
+[![Image 645](https://images.manning.com/192/256/resize/video/8/1a5852c-8c6d-4ebe-b8c6-cabc2148004a/TypeScriptforBeginners_MasteringTypeScriptfundamentals.png)](https://www.manning.com/livevideo/typescript-for-beginners-mastering-typescript-fundamentals-cx)
+
+[![Image 646](https://images.manning.com/192/256/resize/video/9/fa68bad-132f-417a-aa51-a2520523a8bb/3Blue1Brown-EssenceofLinearAlgebra.png)](https://www.manning.com/livevideo/3blue1brown-essence-of-linear-algebra)
+
+[![Image 647](https://images.manning.com/192/256/resize/video/1/90e94b8-16f6-4af1-aba9-3782e861f546/ArduinoOOP.png)](https://www.manning.com/livevideo/arduino-oop)
+
+[![Image 648](https://images.manning.com/192/256/resize/video/4/0c7be45-0619-432a-9874-a4459ff93349/LearnhowtoConnectDatatoWebPageswithJSONandJavaScriptFetch.png)](https://www.manning.com/livevideo/learn-how-to-connect-data-to-web-pages-with-json-and-javascript-fetch)
+
+[![Image 649](https://images.manning.com/192/256/resize/video/7/05a5c05-3a15-4736-b373-8d9d6dae89db/ChristieWilson_O'Reilly2_Thumb_02-23-2022.jpg)](https://www.manning.com/livevideo/get-a-good-signal-out-of-flakey-tests)
+
+[![Image 650](https://images.manning.com/192/256/resize/video/4/b84bd9b-61cb-49e4-bd3c-a954daeaac2a/JoshPonelat,LukasRosenstock_O'Reilly_Thumb_07-15-2022.jpg)](https://www.manning.com/livevideo/design-and-build-a-calendly.com-clone-using-openapi-and-swagger)
+
+[![Image 651](https://images.manning.com/192/256/resize/video/3/7d13b63-ca07-4eda-9848-32f7d8891fc7/livevideo-kotlin-for-android-and-java-developers.png)](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers)
+
+[![Image 652](https://images.manning.com/192/256/resize/video/e/bb60b5a-f8e0-4ade-b3d5-e9074b136f5c/DougFarrell_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/writing-a-web-application-with-flask)
+
+[![Image 653](https://images.manning.com/192/256/resize/video/e/fe9a0e0-7985-4877-b411-7e362c28d327/GoogleSheetsandWorkspaceTips,Tricks,andResources.png)](https://www.manning.com/livevideo/google-sheets-and-google-workspace-tips-tricks-and-resources)
+
+[![Image 654](https://images.manning.com/192/256/resize/video/5/3ae7ddc-7ef7-48f2-81d3-66eed68bc53c/UltimateASP.NETCoreWebAPIDevelopmentGuide_revB.png)](https://www.manning.com/livevideo/ultimate-asp.net-core-web-api-development-guide)
+
+[![Image 655](https://images.manning.com/192/256/resize/video/c/8882b4f-fd0a-49b9-ae8f-2b18b57852f6/livevideo-reinforcement-learning-in-motion.png)](https://www.manning.com/livevideo/reinforcement-learning-in-motion)
+
+[![Image 656](https://images.manning.com/192/256/resize/video/b/755c7f1-0dc3-4f7e-b620-673df48e31bb/AI-PoweredGraphicDesign_MasteringFigmaandemergingtech_REVB.png)](https://www.manning.com/livevideo/ai-powered-graphic-design-mastering-figma-and-emerging-tech)
+
+[![Image 657](https://images.manning.com/192/256/resize/video/f/6bf8134-d5fd-47f4-97a6-be39dd7effd5/LuisSerrano_O'Reilly_Thumb_06-10-2021.jpg)](https://www.manning.com/livevideo/a-friendly-introduction-to-deep-reinforcement-learning-and-policy-gradients)
+
+[![Image 658](https://images.manning.com/192/256/resize/video/0/2c21f42-45a0-484d-aa74-aad96ee1df8c/livevideo-product-beau-alt.png)](https://www.manning.com/livevideo/algorithms-in-motion)
+
+[![Image 659](https://images.manning.com/192/256/resize/video/f/a8e7770-fa42-4d8b-adb1-e0a4e0a5da94/livevideo-aws-machine-learning-in-motion.png)](https://www.manning.com/livevideo/aws-machine-learning-in-motion)
+
+[![Image 660](https://images.manning.com/192/256/resize/video/4/9cacfa1-901c-4726-96ed-62a95871ef85/LearnLinuxinaWeekend.png)](https://www.manning.com/livevideo/learn-linux-in-a-weekend)
+
+[![Image 661](https://images.manning.com/192/256/resize/video/1/4af89c0-2196-4757-ad71-e206a648e647/UseHTMLandCSStoCreateaResponsiveWebsite.png)](https://www.manning.com/livevideo/use-html-and-css-to-create-a-responsive-website)
+
+[![Image 662](https://images.manning.com/192/256/resize/video/9/bce1715-cd2e-4f9f-93fd-75c9242af766/GettheITJobofyourDreams.png)](https://www.manning.com/livevideo/get-the-it-job-of-your-dreams)
+
+[![Image 663](https://images.manning.com/192/256/resize/video/1/4a191ee-42b6-4116-8e84-251fec05464f/DzejlaMedjedovic_O'Reilly_Thumb_03-05-2021.jpg)](https://www.manning.com/livevideo/what-you-need-to-know-about-modern-hashing-dzejla-medjedovic)
+
+[![Image 664](https://images.manning.com/192/256/resize/video/2/45454d9-f851-42f9-a2e8-1efd5ebe0c0c/DaneHillard_O'Reilly1_Thumb_01-26-2022.jpg)](https://www.manning.com/livevideo/lets-build-python-package)
+
+[![Image 665](https://images.manning.com/192/256/resize/video/a/9167ad0-9058-4562-bc85-7bf52997e46f/JavaScriptandDOMGamesCourseforBeginners.jpg)](https://www.manning.com/livevideo/javascript-and-dom-games-course-for-beginners)
+
+[![Image 666](https://images.manning.com/192/256/resize/video/7/2f92528-4490-46c0-9b7e-9e938152cef6/CompleteITJobSearchCourse.png)](https://www.manning.com/livevideo/complete-it-job-search-course)
+
+[![Image 667](https://images.manning.com/192/256/resize/video/c/b565d0a-7ac0-4580-abad-b950a10b8ef5/StartCodingwithGoogleAppsScript.png)](https://www.manning.com/livevideo/start-coding-with-google-apps-script)
+
+[![Image 668](https://images.manning.com/192/256/resize/video/a/07181da-31ad-4c3b-9816-a491fcc327ec/LinuxforAbsoluteBeginners.png)](https://www.manning.com/livevideo/linux-for-absolute-beginners)
+
+[![Image 669](https://images.manning.com/192/256/resize/video/6/a2568ff-e645-4d8b-8060-88bda3beb706/Thumb_JikeChong&YueCathyChang_1-9.jpg)](https://www.manning.com/livevideo/ask-dr-chong-become-leader-in-data-science-part-three)
+
+[![Image 670](https://images.manning.com/192/256/resize/video/9/465276f-154e-48e5-beef-71845e6f78f9/JavaScriptArrayMethods.png)](https://www.manning.com/livevideo/javascript-array-methods)
+
+[![Image 671](https://images.manning.com/192/256/resize/video/6/208f2c8-33c1-4ecf-ba90-ce968f77818c/LinuxPAMAdministration.png)](https://www.manning.com/livevideo/linux-pam-administration)
+
+[![Image 672](https://images.manning.com/192/256/resize/video/9/d5cbea5-a952-40e2-9271-dbcdb3e25adf/BastianGruber_O'Reilly_12-8-2021_Thumb.jpg)](https://www.manning.com/livevideo/build-your-first-api-with-rust)
+
+[![Image 673](https://images.manning.com/192/256/resize/video/7/987ed4c-ea30-48b8-95d5-a64d917a2199/MortenBarklund_O'Reilly_Thumb_04-06-2022.jpg)](https://www.manning.com/livevideo/developing-an-expense-tracker-using-react-remix-emotion)
+
+[![Image 674](https://images.manning.com/192/256/resize/video/0/f214ea1-3ced-4a57-aa72-a9e69a4677b1/livevideo-product-higbee.png)](https://www.manning.com/livevideo/es6-in-motion)
+
+[![Image 675](https://images.manning.com/192/256/resize/video/4/326ec61-b78f-45a0-8243-5c17b5f34c36/Talk_Python_-_Python_for_Absolute_Beginners.jpg)](https://www.manning.com/livevideo/talk-python-python-for-absolute-beginners)
+
+[![Image 676](https://images.manning.com/192/256/resize/video/c/542873f-96ad-4216-99b0-b3f32cc74c85/The_Ultimate_Excel_VBA_Course.png)](https://www.manning.com/livevideo/the-ultimate-excel-vba-course)
+
+[![Image 677](https://images.manning.com/192/256/resize/video/b/14923f6-d1b5-4a85-9f87-204cab8d70fa/Linux_Shell_Scripting.png)](https://www.manning.com/livevideo/linux-shell-scripting)
+
+[![Image 678](https://images.manning.com/192/256/resize/video/3/656f356-5e35-4829-8de3-c096fe8f643a/HobsonLane_O'Reilly7_Thumb_03-16-2022.jpg)](https://www.manning.com/livevideo/crawling-wikipedia-to-create-the-training-dataset-for-a-text-generation-model)
+
+[![Image 679](https://images.manning.com/192/256/resize/video/7/c269864-9abe-4203-949c-5a1be96fa6c1/CreateDynamicJavaScriptPageswithAJAX,APIs,andJSON.png)](https://www.manning.com/livevideo/using-javaScript-to-create-dynamic-web-pages-with-ajax-apis-and-json)
+
+[![Image 680](https://images.manning.com/192/256/resize/video/a/80843a7-b28e-4eeb-b382-61c6758d7768/EricNormand_O'Reilly_Thumb_06-08-2021.jpg)](https://www.manning.com/livevideo/how-functional-programming-can-improve-testing-reuse-and-maintenance-in-your-current-codebase)
+
+[![Image 681](https://images.manning.com/192/256/resize/video/2/8a0dce1-1e57-4ea4-9bb5-14a4d7733e45/livevideo-css-in-depth-in-motion.png)](https://www.manning.com/livevideo/css-in-depth-in-motion)
+
+[![Image 682](https://images.manning.com/192/256/resize/video/b/deae4a3-eda4-4b61-b009-84f9fe1edfcc/livevideo-product-wittig.png)](https://www.manning.com/livevideo/aws-in-motion)
+
+[![Image 683](https://images.manning.com/192/256/resize/video/7/42ba954-d03a-4d43-aaac-b8d7c37f6331/PhilWilkins_O'Reilly_Thumb_11-19-2020.jpg)](https://www.manning.com/livevideo/how-fluentd-fits-into-modern-software-landscape)
+
+[![Image 684](https://images.manning.com/192/256/resize/video/3/a3c1da3-87a9-4c38-bf37-efbfbaf0e035/CertifiedEthicalHackerBootCamp.png)](https://www.manning.com/livevideo/certified-ethical-hacker-boot-camp)
+
+[![Image 685](https://images.manning.com/192/256/resize/video/f/b3ab18a-ef6b-4d9f-b1f4-43c57a04983c/JacquesChester_O'Reilly2_Thumb_06-18-2021.jpg)](https://www.manning.com/livevideo/playing-with-the-knative-pod-autoscaler)
+
+[![Image 686](https://images.manning.com/192/256/resize/video/8/7067b4d-d69c-4e8d-a49b-5f344ebce578/JohanVos_O'Reilly_Thumb_10-15-2020.jpg)](https://www.manning.com/livevideo/quantum-computing-java-applications)
+
+[![Image 687](https://images.manning.com/192/256/resize/video/2/d6a220b-2550-487e-9bfe-728cd441da93/100AlgorithmsChallenge.png)](https://www.manning.com/livevideo/100-algorithms-challenge)
+
+[![Image 688](https://images.manning.com/192/256/resize/video/0/43eb73b-48d9-48ad-92ef-2f611d529a8d/ContainerizationandOrchestrationforDevelopers_.png)](https://www.manning.com/livevideo/start-to-finish-containerization-and-orchestration-for-developers-with-kubernetes-and-docker)
+
+[![Image 689](https://images.manning.com/192/256/resize/video/8/8212949-cb56-4e4a-a567-381e3157484d/RegularExpressionsforBeginnersandBeyond.png)](https://www.manning.com/livevideo/regular-expressions-for-beginners-and-beyond)
+
+[![Image 690](https://images.manning.com/192/256/resize/video/1/c94f589-5b5f-4e1a-96d3-a86c1bfdf189/TheCompleteHTMLandCSSCourse.png)](https://www.manning.com/livevideo/the-complete-html-and-css-course)
+
+[![Image 691](https://images.manning.com/192/256/resize/video/e/5222bdf-cfae-47b6-a0c4-d7626d551130/ExplorethePowerofGoogleDocs.png)](https://www.manning.com/livevideo/explore-the-power-of-google-docs)
+
+[![Image 692](https://images.manning.com/192/256/resize/video/5/c6a6195-e320-4017-85f2-bec5453ea903/ThomasVitale_O'Reilly3_Thumb_01-21-2021.jpg)](https://www.manning.com/livevideo/spring-boot-kubernetes)
+
+[![Image 693](https://images.manning.com/192/256/resize/video/d/6b1125d-7cb7-484a-a6ea-eaec24655da7/HobsonLane_O'Reilly10_Thumb_04-06-2022.jpg)](https://www.manning.com/livevideo/building-a-chatbot-with-gradio-library)
+
+[![Image 694](https://images.manning.com/192/256/resize/video/6/b498889-67bc-43df-8d25-f0d4e118302c/livevideo-flutter-in-motion.png)](https://www.manning.com/livevideo/flutter-in-motion)
+
+[![Image 695](https://images.manning.com/192/256/resize/video/5/93b1fdf-4317-4518-8e33-50042418f135/RobertKabacoff_O'Reilly_Thumb_01-13-2021.jpg)](https://www.manning.com/livevideo/modern-data-visualization-with-r)
+
+[![Image 696](https://images.manning.com/192/256/resize/video/a/bd60266-dc53-4391-a8f0-c1b722ae4eb4/jQueryfromBeginnertoAdvanced.png)](https://www.manning.com/livevideo/jquery-from-beginner-to-advanced)
+
+[![Image 697](https://images.manning.com/192/256/resize/video/6/e3dc784-ce90-4489-a304-0636fa325ab2/MicroApplicationswithGoogleAppsScript.png)](https://www.manning.com/livevideo/micro-applications-with-google-apps-script-projects)
+
+[![Image 698](https://images.manning.com/192/256/resize/video/7/aa2c497-54d1-4759-ba6f-18437a06920a/EntityFrameworkCore-AFullTour.png)](https://www.manning.com/livevideo/entity-framework-core-full-tour)
+
+[![Image 699](https://images.manning.com/192/256/resize/video/8/002d23f-7ddc-4cc9-9e35-c1b25e6482be/MicrosoftSQLServerDevelopmentforEveryone.png)](https://www.manning.com/livevideo/microsoft-sql-server-development-for-everyone)
+
+[![Image 700](https://images.manning.com/192/256/resize/video/6/044712a-8895-479b-95c2-0019c938a786/Vim_Masterclass.png)](https://www.manning.com/livevideo/vim-masterclass)
+
+[![Image 701](https://images.manning.com/192/256/resize/video/b/0216afe-453a-4bf2-9d09-cfc9f6044789/NeilMadden_O'Reilly_Thumb_08-19-2020.jpg)](https://www.manning.com/livevideo/json-web-tokens-and-alternatives)
+
+[![Image 702](https://images.manning.com/192/256/resize/video/f/6ac3d87-b9f3-4ae5-a960-07a901a636f3/MilanCurcic_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/exploring-modern-fortran-basics-session)
+
+[![Image 703](https://images.manning.com/192/256/resize/video/8/e4664bc-9574-4c29-b830-e73d987d6e83/Talk_Python_-_MongoDB_for_Developers.jpg)](https://www.manning.com/livevideo/talk-python-mongodb-for-developers)
+
+[![Image 704](https://images.manning.com/192/256/resize/video/f/ea65433-a918-4951-8a77-0215b3a2c29d/HefinRhys_O'Reilly_Part2_Thumb.jpg)](https://www.manning.com/livevideo/training-vector-machine-mlr-machine-learning-part-two)
+
+[![Image 705](https://images.manning.com/192/256/resize/video/4/fded593-fea3-4166-ac23-286336ef497f/Talk_Python_-_Managing_Python_Dependencies.jpg)](https://www.manning.com/livevideo/talk-python-managing-python-dependencies)
+
+[![Image 706](https://images.manning.com/192/256/resize/video/6/7e4dd88-1285-4a42-8914-1e3367627003/StephenKuenzli_O'Reilly1_Thumb_05-23-2020.jpg)](https://www.manning.com/livevideo/docker-image-pipelines-and-patterns-explained)
+
+[![Image 707](https://images.manning.com/192/256/resize/video/d/4341207-94bb-4967-b081-7ccf740e560c/Thumb_BramVogelaar_LP_4-11-21.png)](https://www.manning.com/livevideo/nomad-best-practices-for-reliable-deploys-bram-vogelaar)
+
+[![Image 708](https://images.manning.com/192/256/resize/video/a/5a27ca6-9d3a-4db2-8a53-8bced4aed5a4/Shell_Scripting.png)](https://www.manning.com/livevideo/shell-scripting)
+
+[![Image 709](https://images.manning.com/192/256/resize/video/1/b19d065-54c1-4717-af81-cd2640ac564a/AndrewFerlitsch_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/applying-the-idiomatic-design-pattern-to-convolutional-neural-networks)
+
+[![Image 710](https://images.manning.com/192/256/resize/video/0/05bad42-2ec6-4b5c-a97b-6a56fd690700/BrianRinaldi,RaymondCamden_O'Reilly_Thumb_03-03-2021psd.jpg)](https://www.manning.com/livevideo/what-the-heck-is-jamstack-brian-rinaldi-raymond-camden)
+
+[![Image 711](https://images.manning.com/192/256/resize/video/3/0a79d60-ae3a-4a39-82d4-b3163603fcc3/FrankKane_O'Reilly2_Thumb_05-2020.jpg)](https://www.manning.com/livevideo/building-recommender-systems-automation)
+
+[![Image 712](https://images.manning.com/192/256/resize/video/e/e49756e-83a8-4d1a-9aa0-135e12343a28/Web_Application_Hacking_with_Burp_Suite.png)](https://www.manning.com/livevideo/web-application-hacking-with-burp-suite)
+
+[![Image 713](https://images.manning.com/192/256/resize/video/1/eb3e68f-603f-4ab0-a0a8-9242fef4feba/Get_Started_with_Blazor.jpg)](https://www.manning.com/livevideo/get-started-with-blazor)
+
+[![Image 714](https://images.manning.com/192/256/resize/video/9/d9dfd29-c5e3-4c8d-b127-944bf4bfcaad/livevideo-machine-learning-data-science-and-deep-learning-with-python.png)](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
+
+[![Image 715](https://images.manning.com/192/256/resize/video/6/4181a82-2f93-4ae9-84d4-fae0ec3d826a/GoogleAppsScript-Resources,Projects,andExercises.png)](https://www.manning.com/livevideo/google-apps-script-resources-projects-and-exercises)
+
+[![Image 716](https://images.manning.com/192/256/resize/video/9/7f011f0-da7c-4329-9bc5-f39ba6d2b1a4/GroovyProgrammingFundamentalsforJavaDevelopers.png)](https://www.manning.com/livevideo/groovy-programming-fundamentals-for-java-developers)
+
+[![Image 717](https://images.manning.com/192/256/resize/video/7/e546e89-088c-40f8-9bdf-912eb75dfc81/AshleyDavis_O'Reilly5_Thumb_01-26-2021.jpg)](https://www.manning.com/livevideo/continuous-delivery-for-microservices-with-docker-and-terraform)
+
+[![Image 718](https://images.manning.com/192/256/resize/video/c/c6ba864-ce7f-4563-a9ec-87f43e4684b5/CatalinTudose_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/bdd-with-junit-five-and-cucumber-demonstration)
+
+[![Image 719](https://images.manning.com/192/256/resize/video/6/1f9f624-716c-414b-8e10-faa55f97af22/AHands-OnGuidetoAkkawithScala.png)](https://www.manning.com/livevideo/a-hands-on-guide-to-akka-with-scala)
+
+[![Image 720](https://images.manning.com/192/256/resize/video/6/20cc5a5-3100-4d48-8f47-a87337aafc4b/PythonWebScraping_DataextractionwithBeautifulSoup.png)](https://www.manning.com/livevideo/python-web-scraping-data-extraction-with-beautiful-soup)
+
+[![Image 721](https://images.manning.com/192/256/resize/video/a/6fa30fc-1fd7-47a1-900d-b46563d0ab90/LilyMara_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/creating-chat-server-with-async-rust-and-tokio-lily-mara-nate)
+
+[![Image 722](https://images.manning.com/192/256/resize/video/4/c525f19-d2c1-4fcb-a05c-e046e4a15a0c/High_Availability_for_the_LAMP_Stack.png)](https://www.manning.com/livevideo/high-availability-for-the-lamp-stack)
+
+[![Image 723](https://images.manning.com/192/256/resize/video/0/ddc1bb5-af7f-48f4-9f29-fa121659c9e9/MasteringApacheMaven.png)](https://www.manning.com/livevideo/mastering-apache-maven)
+
+[![Image 724](https://images.manning.com/192/256/resize/video/d/62a5fd6-c862-45e6-a278-04a8d80330d1/AutoCAD3D_Frombasicstoadvancedmodeling.png)](https://www.manning.com/livevideo/autocad-3d-from-basics-to-advanced-modelling)
+
+[![Image 725](https://images.manning.com/192/256/resize/video/6/fbfe39f-1209-48b5-ad24-1aaaeae788c8/KrishnenduChaudhury_O'Reilly1_Thumb_07-18-2020.jpg)](https://www.manning.com/livevideo/essential-tools-deep-learning-data-science)
+
+[![Image 726](https://images.manning.com/192/256/resize/video/8/31467bc-3733-4971-a3ac-13c47420fa7a/MasteringJava8Fundamentals.png)](https://www.manning.com/livevideo/mastering-java-8-fundamentals)
+
+[![Image 727](https://images.manning.com/192/256/resize/video/f/b5171c9-c94d-4248-beda-5bf853813695/creatingDynamicWebPageswithJavaScriptDOM_b.png)](https://www.manning.com/livevideo/creating-dynamic-web-pages-with-javascript-and-dom)
+
+[![Image 728](https://images.manning.com/192/256/resize/video/b/cb047ad-603f-4a18-ac90-5171c9efc993/ReactNativeUnveiled_Frombasicstomobilemastery.png)](https://www.manning.com/livevideo/react-native-unveiled-from-basics-to-mobile-mastery)
+
+[![Image 729](https://images.manning.com/192/256/resize/video/6/9b66ae3-45f4-4d34-9c99-0b44f0c8cb8d/JavaFoundations_Masteringthebasics.png)](https://www.manning.com/livevideo/java-foundations-mastering-the-basics)
+
+[![Image 730](https://images.manning.com/192/256/resize/video/8/af739f4-2838-46f4-aff3-55ded2efd523/GitandGitHubforBeginners_Fromstarttostar.png)](https://www.manning.com/livevideo/git-and-github-for-beginners-from-start-to-star)
+
+[![Image 731](https://images.manning.com/192/256/resize/video/f/5e6c5a2-0202-41c2-8ee2-1fd8f431d95a/SketchUp2023_TheA-ZCoursetomastering3Dmodeling.png)](https://www.manning.com/livevideo/sketchup-2023-the-a-z-course-to-mastering-3d-modeling)
+
+[![Image 732](https://images.manning.com/192/256/resize/video/3/2364755-f295-479d-9549-c7cbc192dd36/JUnitandMockitoUnitTestingforJavaDevelopers.png)](https://www.manning.com/livevideo/junit-and-mockito-unit-testing-for-java-developers)
+
+[![Image 733](https://images.manning.com/192/256/resize/video/4/a6b18fb-fc66-4b81-bd56-422879c6337c/MiguelMorales_O'Reilly2_Thumb_11-06-2020.jpg)](https://www.manning.com/livevideo/training-reinforcement-learning-agent-to-play-soccer-football)
+
+[![Image 734](https://images.manning.com/192/256/resize/video/5/61d5e07-eb34-49f3-982d-60c9424a985f/SpringBootEssentials.png)](https://www.manning.com/livevideo/spring-boot-essentials)
+
+[![Image 735](https://images.manning.com/192/256/resize/video/1/f7880c7-0bdd-4d90-b32d-e1defdb3bf14/LaurentiuSpilca_O'Reilly8_Thumb_04-04-2021.jpg)](https://www.manning.com/livevideo/java-certifications-which-how-to-why-laurentiu-spilca)
+
+[![Image 736](https://images.manning.com/192/256/resize/video/7/fb27f41-d57f-416b-b952-e32ab209b84c/Talk_Python_-_Building_Data-Driven_Web_Apps_with_Flask_and_SQLAlchemy.jpg)](https://www.manning.com/livevideo/talk-python-building-data-driven-web-apps-with-flask-and-sqlalchemy)
+
+[![Image 737](https://images.manning.com/192/256/resize/video/0/653289b-29f1-48f4-914c-88c3db85a086/livevideo-ios-development-with-swift-in-motion.png)](https://www.manning.com/livevideo/ios-development-with-swift-lv)
+
+[![Image 738](https://images.manning.com/192/256/resize/video/0/4a28dec-71e1-4d71-bfa6-16598dca92b4/DerekFisher_O'Reilly_Thumb_03-2022.jpg)](https://www.manning.com/livevideo/threat-modeling-with-owasp-threat-dragon-risk-rating-a-vulnerability)
+
+[![Image 739](https://images.manning.com/192/256/resize/video/6/6a706ed-ddf7-42da-9e06-c3750f0a4f59/livevideo-product-kolter.png)](https://www.manning.com/livevideo/spark-in-motion)
+
+[![Image 740](https://images.manning.com/192/256/resize/video/1/02cb3ef-3365-4cf4-b1cc-186a44df6a65/PythonforDeepLearning.png)](https://www.manning.com/livevideo/python-for-deep-learning)
+
+[![Image 741](https://images.manning.com/192/256/resize/video/7/f7a3b6b-ac99-4110-b753-5c1cde4012bf/ChrisMattmann&ScottPenberthy_O'Reilly1_Thumb_07-2020.jpg)](https://www.manning.com/livevideo/learn-how-to-model-language-as-tensors)
+
+[![Image 742](https://images.manning.com/192/256/resize/video/9/460db49-59be-402e-8f18-4e6f0f0028be/ASP.NETCoreIdentity-UserSecurityEssentials_revB.png)](https://www.manning.com/livevideo/asp.net-core-identity-user-security-essentials)
+
+[![Image 743](https://images.manning.com/192/256/resize/video/1/cd707d1-08b3-4346-ac09-aa2292629149/StephenKuenzli,JeffNicoloff_O'Reilly4_Thumb_11-11-2020.jpg)](https://www.manning.com/livevideo/mission-impossible-devsecops-delivery-security)
+
+[![Image 744](https://images.manning.com/192/256/resize/video/d/6325ef2-6d78-4ea2-9ed5-07e80d64524a/CatalinTudose_O'Reilly2_Thumb_04-22-2021.jpg)](https://www.manning.com/livevideo/object-relational-mapping-using-jpa-catalin-tudose)
+
+[![Image 745](https://images.manning.com/192/256/resize/video/d/b9c70f0-50a3-47cf-90f8-f3573278714c/JulienPonge_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/reactive-java-easy-vertx)
+
+[![Image 746](https://images.manning.com/192/256/resize/video/3/61f01fd-e4db-4798-9cf0-4671d1e70f3d/BorisPaskhaver_O'Reilly_Thumb_08-18-2020.jpg)](https://www.manning.com/livevideo/pandas-in-one-hour-showcasing-high-level-features-of-pandas-library)
+
+[![Image 747](https://images.manning.com/192/256/resize/video/6/d7c9705-0d74-4a71-89ea-982feeaef9e0/linuxlvm.png)](https://www.manning.com/livevideo/linux-logical-volume-manager)
+
+[![Image 748](https://images.manning.com/192/256/resize/video/0/22ff7ed-7141-478c-a4e0-e6963ff96a91/livevideo-deep-learning-with-r-in-motion.png)](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)
+
+[![Image 749](https://images.manning.com/192/256/resize/video/e/396f368-f083-4b0a-862d-51e4c5d0d94b/TheCompletePythonProgrammingCourse_BeginnertoAdvanced.png)](https://www.manning.com/livevideo/the-complete-python-programming-course-beginner-to-advanced)
+
+[![Image 750](https://images.manning.com/192/256/resize/video/8/dd18392-3f8b-4218-8a71-84bf496a00f8/Revit2023CompleteCourse_Revitfrombeginnertoadvanced.png)](https://www.manning.com/livevideo/revit-2023-complete-course-revit-from-beginner-to-advanced)
+
+[![Image 751](https://images.manning.com/192/256/resize/video/3/cf80a6b-8191-466c-9f7f-8fdbccf2b2de/livevideo-css-in-javascript-with-styled-components-and-react.png)](https://www.manning.com/livevideo/css-in-javascript-with-styled-components-and-react)
+
+[![Image 752](https://images.manning.com/192/256/resize/video/7/d7ad908-05b1-469a-9a75-b72caa4a36f0/Next.jsWebDev_MasterthispowerfulReactframework.png)](https://www.manning.com/livevideo/next.js-web-dev-master-this-powerful-react-framework)
+
+[![Image 753](https://images.manning.com/192/256/resize/video/1/421d773-4f37-4490-be01-c794d9571feb/livevideo-grokking-deep-learning-in-motion.png)](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)
+
+[![Image 754](https://images.manning.com/192/256/resize/video/9/4984be4-2b1f-4bf4-97c2-b1af04ed965e/JoshFischer_O'Reilly2_Thumb_10-07-2020.jpg)](https://www.manning.com/livevideo/scaling-streaming-systems)
+
+[![Image 755](https://images.manning.com/192/256/resize/video/b/544d662-2119-452e-8419-e300f006e2be/InesDedovic_O'Reilly_Thumb_11-26-2020.jpg)](https://www.manning.com/livevideo/illustrating-technical-books-graphic-design)
+
+[![Image 756](https://images.manning.com/192/256/resize/video/5/222985e-c909-4e53-a2a5-00e1fff0cccb/TheAbsoluteBeginner'sGuidetoJava.png)](https://www.manning.com/livevideo/the-absolute-beginners-guide-to-java)
+
+[![Image 757](https://images.manning.com/192/256/resize/video/9/f0b8a69-da59-4f9a-8e28-e06e00f560f0/ThushanGanegedara_O'Reilly_Thumb_02-18-2021.jpg)](https://www.manning.com/livevideo/sentiment-analysis-with-tensorflow-thushan-ganegedara)
+
+[![Image 758](https://images.manning.com/192/256/resize/video/7/eb86681-1ceb-4594-9287-9149faaf262b/JosephHocking_O'Reilly_Thumb_06-22-2021.jpg)](https://www.manning.com/livevideo/internet-communication-in-unity)
+
+[![Image 759](https://images.manning.com/192/256/resize/video/0/dc6d314-6590-4a38-ba5c-6c2c1c171e97/TylerLeonhardt_O'Reilly2_Thumb_06-22-2022.jpg)](https://www.manning.com/livevideo/an-introduction-to-visual-studio-code-for-powershell)
+
+[![Image 760](https://images.manning.com/192/256/resize/video/8/9bd89d9-80c8-4002-bae3-990a0fa5ecbd/Linux_Man_Page_Masterclass.png)](https://www.manning.com/livevideo/linux-man-page-masterclass)
+
+[![Image 761](https://images.manning.com/192/256/resize/video/3/9e7c63f-787c-47f1-be70-64e3b3751afe/NETMAUIMobileAppDevelopment.png)](https://www.manning.com/livevideo/.net-maui-mobile-app-development)
+
+[![Image 762](https://images.manning.com/192/256/resize/video/e/8116309-bfb5-4f57-b3c6-5c8d327317b9/PythonandTensorFlow_Deepdiveintomachinelearning.png)](https://www.manning.com/livevideo/python-and-tensorflow-deep-dive-into-machine-learning)
+
+[![Image 763](https://images.manning.com/192/256/resize/video/c/fa6f5c3-ecd2-4c46-9e9b-b10e7f78577b/vitaleevent.jpg)](https://www.manning.com/livevideo/event-driven-with-spring-cloud-function-and-spring-cloud-stream-thomas-vitale)
+
+[![Image 764](https://images.manning.com/192/256/resize/video/6/b3547ab-963e-4d8a-9ca2-c4c926e2c2ca/HobsonLane_O'Reilly11_Thumb_08-13-2020.jpg)](https://www.manning.com/livevideo/word-vectors-natural-language-processing)
+
+[![Image 765](https://images.manning.com/192/256/resize/video/6/8c13f00-5364-4d8c-bfe5-4ad4b4fb66f5/LaurentiuSpilca_O'Reilly6_Thumb_01-15-2021.jpg)](https://www.manning.com/livevideo/mistakes-avoid-implementing-oauth-two-system)
+
+[![Image 766](https://images.manning.com/192/256/resize/video/f/9cbc5f5-68cb-420f-8986-695ff284e39c/NuwanDias_O'Reilly_Thumb_09-05-2020.jpg)](https://www.manning.com/livevideo/microservices-security-with-grpc-and-kafka)
+
+[![Image 767](https://images.manning.com/192/256/resize/video/d/fad63b8-0c77-4157-a6fb-73407873c75e/TheCompletePythonHackingCourse.png)](https://www.manning.com/livevideo/the-complete-python-hacking-course)
+
+[![Image 768](https://images.manning.com/192/256/resize/video/b/bf7062a-f69e-4966-8fd3-c0bd56bcf2be/Project_Finance_and_Excel__Build_Financial_Models_from_Scratch.png)](https://www.manning.com/livevideo/project-finance-and-excel-build-financial-models-from-scratch)
+
+[![Image 769](https://images.manning.com/192/256/resize/video/c/4e88c14-771e-419f-ad4d-9fd1de27a56f/AjayThampi_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/interpretable-ai-or-how-i-learned-to-stop-worrying-and-trust-ai)
+
+[![Image 770](https://images.manning.com/192/256/resize/video/3/8a3cc52-7cfd-4729-8a6d-af698c5da67d/Build_a_Shopify_Store_from_Scratch.png)](https://www.manning.com/livevideo/build-a-shopify-store-from-scratch)
+
+[![Image 771](https://images.manning.com/192/256/resize/video/8/53f99d5-8dd6-4b52-a5ff-d04ab3c92bd8/AndreasBihlmaier_O'Reilly_Thumb_04-08-2022.jpg)](https://www.manning.com/livevideo/software-engineering-and-robots)
+
+[![Image 772](https://images.manning.com/192/256/resize/video/6/e7617e6-691a-4b7d-ba1c-5b97dcfbecec/ROS2forBeginners.png)](https://www.manning.com/livevideo/ros2-for-beginners)
+
+[![Image 773](https://images.manning.com/192/256/resize/video/d/25f3d00-93b8-4265-839a-0d89def61d46/CCNAExam,Part1_NetworkFundamentals.png)](https://www.manning.com/livevideo/ccna-exam-part-1-network-fundamentals)
+
+[![Image 774](https://images.manning.com/192/256/resize/video/0/debabca-f65a-4abe-9195-20d88ec598e0/BogumilKaminski_O'Reilly_Thumb_05-13-2022.jpg)](https://www.manning.com/livevideo/analyzing-lichess-puzzles-database-with-julia)
+
+[![Image 775](https://images.manning.com/192/256/resize/video/a/ee4ff5b-10ad-4d47-927f-935d968c28b5/JonathanWexler_O'Reilly1_Thumb_11-18-2020.jpg)](https://www.manning.com/livevideo/node-web-applications-nodejs)
+
+[![Image 776](https://images.manning.com/192/256/resize/video/8/c118441-d7a9-44b9-a21a-23e829d08115/livevideo-elasticsearch6-and-elastic-stack-in-depth-and-hands-on.png)](https://www.manning.com/livevideo/elasticsearch-6-and-elastic-stack)
+
+[![Image 777](https://images.manning.com/192/256/resize/video/f/2f263f3-3e04-4da6-8325-1e2c667534e3/AutomatedAccessibilityTestingforReactApplications.png)](https://www.manning.com/livevideo/automated-accessibility-testing-for-react-applications)
+
+[![Image 778](https://images.manning.com/192/256/resize/video/a/9a7cfe0-ccbc-4c32-bc10-34ebf9ab6008/DataManipulationinPython.png)](https://www.manning.com/livevideo/data-manipulation-in-python)
+
+[![Image 779](https://images.manning.com/192/256/resize/video/8/d578cf9-8b95-4c9f-ba57-a7099c75d9ae/MySQL,GitHub&Heroku.png)](https://www.manning.com/livevideo/modern-php-web-development-with-mysql-github-and-heroku)
+
+[![Image 780](https://images.manning.com/192/256/resize/video/c/4903807-f3f1-4239-b686-eb4c5f89655c/BarryPollard_O'Reilly_Thumb_05-25-2020.jpg)](https://www.manning.com/livevideo/analyzing-websites-to-see-if-they-will-benefit-from-http2)
+
+[![Image 781](https://images.manning.com/192/256/resize/video/f/abda2f5-643b-4dcc-aa68-8acc22566206/Angular16andRxJS_BuildmodernSinglePageApplications.png)](https://www.manning.com/livevideo/angular-16-and-rxjs-build-modern-single-page-applications)
+
+[![Image 782](https://images.manning.com/192/256/resize/video/2/189d8e4-6875-4608-8196-c426f5e405a5/JohnFergusonSmart_O'Reilly_Thumb_10-08-2020.jpg)](https://www.manning.com/livevideo/feature-mapping-path-collaboration-high-quality-executable-specifications)
+
+[![Image 783](https://images.manning.com/192/256/resize/video/8/c48e9e6-119c-4076-a72f-422b3b2c3340/ChiWang_O'Reilly_Thumb_07-14-2022.jpg)](https://www.manning.com/livevideo/what-developers-need-to-know-to-design-machine-learning-systems)
+
+[![Image 784](https://images.manning.com/192/256/resize/video/f/338dd8a-4cb2-4ece-b14e-7dbceec6841f/StartCodingwithPython.png)](https://www.manning.com/livevideo/start-coding-with-python)
+
+[![Image 785](https://images.manning.com/192/256/resize/video/0/d9a13f8-00bd-4705-9cb5-91c99e8ada0d/CSharp10and.NET6forAbsoluteBeginners.png)](https://www.manning.com/livevideo/c-sharp-10-and-dot-net-6-for-absolute-beginners)
+
+[![Image 786](https://images.manning.com/192/256/resize/video/e/eebf12e-14ba-49b8-9e21-2ef3b094b5da/SinanOzdemir_O'Reilly_Thumb_01-07-2022.jpg)](https://www.manning.com/livevideo/recommending-art-with-feature-engineering)
+
+[![Image 787](https://images.manning.com/192/256/resize/video/3/b77397c-4a7f-41d5-9b3e-d84a33dd9503/ArduinoforBeginnersCompleteCourse.png)](https://www.manning.com/livevideo/arduino-for-beginners-complete-course)
+
+[![Image 788](https://images.manning.com/192/256/resize/video/1/e090f44-c515-4c57-8ec3-3558450b0ecc/JonathanRioux_O'Reilly1_Thumb_12-1-2021.jpg)](https://www.manning.com/livevideo/building-custom-transformers-and-estimators-to-extend-pysparks-ml-pipelines)
+
+[![Image 789](https://images.manning.com/192/256/resize/video/c/8fe1351-5031-4519-8899-b28f0aaf70eb/PaulAzunre_O'Reilly_Thumb_01-10-2022.jpg)](https://www.manning.com/livevideo/transfer-learning-for-nlp)
+
+[![Image 790](https://images.manning.com/192/256/resize/video/4/d8e92b6-13bc-446b-a24a-93d8eb460757/CarlGold_O'Reilly11_Thumb_09-12-2020.jpg)](https://www.manning.com/livevideo/rapid-data-driven-sales-maximization-churn-reduction)
+
+[![Image 791](https://images.manning.com/192/256/resize/video/a/caa5465-38b3-4bff-83e1-aaa0235c63f1/livevideo-get-programming-with-python-in-motion.png)](https://www.manning.com/livevideo/get-programming-with-python-in-motion)
+
+[![Image 792](https://images.manning.com/192/256/resize/video/1/c78b63f-92d3-4f24-bbf9-670b173039e6/LearntoCodewithPython3.png)](https://www.manning.com/livevideo/learn-to-code-with-python-3)
+
+[![Image 793](https://images.manning.com/192/256/resize/video/b/fbe662e-8c8f-40a4-bdeb-f6337cab4235/Python_for_Beginners.png)](https://www.manning.com/livevideo/python-for-beginners)
+
+[![Image 794](https://images.manning.com/192/256/resize/video/1/2c04116-b500-42c2-a503-c53a6c8c9e16/LeonardApeltsin_O'Reilly_Thumb_04-27-2021.jpg)](https://www.manning.com/livevideo/uncovering-friend-groups-in-social-networks-leonard-apeltsin)
+
+[![Image 795](https://images.manning.com/192/256/resize/video/a/befaee4-c9bd-45af-b734-7526901e0263/LaurentiuSpilca_O'Reilly7_Thumb_01-29-2021.jpg)](https://www.manning.com/livevideo/integration-testing-spring-security-implementations)
+
+[![Image 796](https://images.manning.com/192/256/resize/video/5/004b865-fdd5-4895-b6c0-b17dbf1b62ec/BorisPaskhaver_O'Reilly2_Thumb_12-16-2020.jpg)](https://www.manning.com/livevideo/working-with-text-data-in-pandas)
+
+[![Image 797](https://images.manning.com/192/256/resize/video/d/8ca8d61-7ab9-44e3-80a5-2a6212de6deb/Linux_Command_Line_Essentials.png)](https://www.manning.com/livevideo/linux-command-line-essentials)
+
+[![Image 798](https://images.manning.com/192/256/resize/video/a/cd0dbbb-39fa-4a6e-8059-0d21dba7523c/React.JS__The_Complete_Course_for_Beginners.png)](https://www.manning.com/livevideo/react.js-the-complete-course-for-beginners)
+
+[![Image 799](https://images.manning.com/192/256/resize/video/d/0cf36b2-11a8-432a-ab24-7ae23b7fa77f/CCNAExam,Part4_DynamicRoutingandFirst-HopRedundancyProtocols.png)](https://www.manning.com/livevideo/ccna-exam-part-4-dynamic-routing-and-first-hop-redundancy-protocols)
+
+[![Image 800](https://images.manning.com/192/256/resize/video/6/7db28ed-01b3-49e8-bf03-979a10c49a3b/LearntouseDatainaGoogleSheettooutputasJSONwithAJAX.png)](https://www.manning.com/livevideo/learn-to-use-data-in-a-google-sheet-to-output-as-json-with-ajax)
+
+[![Image 801](https://images.manning.com/192/256/resize/video/3/6186d8c-dbf5-410b-926b-fb9b25fa6910/DougTurnbull_O'Reilly_Thumb_12-17-2021.jpg)](https://www.manning.com/livevideo/auto-optimizing-elasticsearch-relevance)
+
+[![Image 802](https://images.manning.com/192/256/resize/video/4/74b7b3f-c7da-4720-84c2-e00836424f70/PrabathSiriwardena_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/securing-microservices-with-istio-service-mesh)
+
+[![Image 803](https://images.manning.com/192/256/resize/video/9/fa7fdad-cae1-406c-9f85-6d78dc21ff71/livevideo-building-recommender-systems-with-machine-learning-and-ai.png)](https://www.manning.com/livevideo/building-recommender-systems-with-machine-learning-and-ai)
+
+[![Image 804](https://images.manning.com/192/256/resize/video/6/fd8929d-7adb-4a38-bd00-698c25ad3623/livevideo-rust-in-motion.png)](https://www.manning.com/livevideo/rust-in-motion)
+
+[![Image 805](https://images.manning.com/192/256/resize/video/0/77ffcfb-a162-4742-8b1f-6a4cd809d25d/livevideo-the-ultimate-introduction-to-big-data.png)](https://www.manning.com/livevideo/the-ultimate-introduction-to-big-data)
+
+[![Image 806](https://images.manning.com/192/256/resize/video/c/b307645-072d-4867-9ce6-78cb370e40bb/WordPress_Crash_Course__Build_Websites_and_Blogs_in_Minutes.png)](https://www.manning.com/livevideo/wordpress-crash-course-build-websites-and-blogs-in-minutes)
+
+[![Image 807](https://images.manning.com/192/256/resize/video/c/1fdbd7f-87d1-4050-8a36-deba70c2ddc8/TheCompleteGuidetoBugBountyHunting.png)](https://www.manning.com/livevideo/the-complete-guide-to-bug-bounty-hunting)
+
+[![Image 808](https://images.manning.com/192/256/resize/video/c/7f9b472-daa5-4c32-ba52-4c8ae228f8e8/livevideo-kubernetes-microservices(1).png)](https://www.manning.com/livevideo/kubernetes-microservices)
+
+[![Image 809](https://images.manning.com/192/256/resize/video/e/c01bc21-0c8c-4dc5-b1f6-705232234253/MichalPlachta_O'Reilly_Thumb_08-20-2020.jpg)](https://www.manning.com/livevideo/fuel-for-functional-programming-engine)
+
+[![Image 810](https://images.manning.com/192/256/resize/video/f/d227c2f-f811-4504-8391-9429f04f6cdd/MarcoVermeulen_O'Reilly_Thumb_12-22-2021.jpg)](https://www.manning.com/livevideo/functional-error-handling-without-exceptions-in-kotlin)
+
+[![Image 811](https://images.manning.com/192/256/resize/video/1/84dddb0-78c7-485c-961d-66a9c8b1c190/RaspberryPiandArduino.png)](https://www.manning.com/livevideo/raspberry-pi-and-arduino)
+
+[![Image 812](https://images.manning.com/192/256/resize/video/8/556cbbd-8c81-4369-88dc-eccad9a5d60d/AngularforJavaDevelopers-Part5.jpg)](https://www.manning.com/livevideo/angular-for-java-developers-security-and-deployment)
+
+[![Image 813](https://images.manning.com/192/256/resize/video/3/d9172a5-10b6-4b14-b870-f7e55b5637ea/ImplementinganApplicationSecurityProgram.png)](https://www.manning.com/livevideo/implementing-an-application-security-program)
+
+[![Image 814](https://images.manning.com/192/256/resize/video/c/c46c2bd-12c7-4840-8c4a-987648b5bc9e/JacquesChester_O'Reilly1_Thumb_11-10-2020.jpg)](https://www.manning.com/livevideo/knative-in-action-sending-and-receiving-cloudevents)
+
+[![Image 815](https://images.manning.com/192/256/resize/video/3/9617696-720a-4343-aa88-e6534b3fdf2e/React.JSforE-commerce_BuildingastorewithReact.JS.png)](https://www.manning.com/livevideo/react.js-for-ecommerce-building-a-store-with-react.js)
+
+[![Image 816](https://images.manning.com/192/256/resize/video/9/f853c86-dce4-4246-8d09-9ed310c2af17/JohanVos_O'Reilly2_Thumb_04-18-2021.jpg)](https://www.manning.com/livevideo/quantum-computing-how-relevant-is-it-to-enterprise-developers-johan-vos)
+
+[![Image 817](https://images.manning.com/192/256/resize/video/a/43e6c1e-b904-4b1a-b674-c5bfb8c34ba3/100FrontEndInterviewQuestions.png)](https://www.manning.com/livevideo/100-front-end-interview-questions)
+
+[![Image 818](https://images.manning.com/192/256/resize/video/1/210264b-d96c-4cc1-b506-d2438bd28596/RichardNuckolls_O'Reilly1_Thumb_6-7-2020.jpg)](https://www.manning.com/livevideo/azure-stream-analytics)
+
+[![Image 819](https://images.manning.com/192/256/resize/video/7/b7f19ed-63df-4636-9ae0-f3d88bec4e8b/building-spring-boot-apps.png)](https://www.manning.com/livevideo/building-spring-boot-applications-with-the-kotlin-programming-language)
+
+[![Image 820](https://images.manning.com/192/256/resize/video/d/485110c-3301-454e-973e-74858dcc8e8e/HobsonLane_O'Reilly5_Thumb_02-23-2022.jpg)](https://www.manning.com/livevideo/train-word-embeddings-from-scratch-with-nessvec-and-pytorch)
+
+[![Image 821](https://images.manning.com/192/256/resize/video/9/0fe5466-2c8c-46f8-a98a-c8c2b0ea8238/JonathanWexler_O'Reilly2_Thumb_02-23-2021.jpg)](https://www.manning.com/livevideo/teach-parents-how-to-build-api-server-Node.js-jonathan-wexler)
+
+[![Image 822](https://images.manning.com/192/256/resize/video/9/0faa0f0-4789-4495-afdd-91da17bef21e/livevideo-building-web-applications-with-firebase.png)](https://www.manning.com/livevideo/building-web-applications-with-firebase)
+
+[![Image 823](https://images.manning.com/192/256/resize/video/e/19fbb96-09fa-47ee-ab1a-d2beafd10c9c/ReuvenLerner_O'Reilly_Thumb_9-13-21.jpg)](https://www.manning.com/livevideo/pandas-how-to-import-data-and-set-column-types-to-analyze-travel-during-covid-19)
+
+[![Image 824](https://images.manning.com/192/256/resize/video/9/1517561-24a8-417c-9130-c040e19dac64/JavaFundamentals_optB.jpg)](https://www.manning.com/livevideo/java-fundamentals)
+
+[![Image 825](https://images.manning.com/192/256/resize/video/2/9411640-87ae-4bc0-aabe-03b1e297879b/ViktorGamov_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/stream-processing-with-apache-kafka)
+
+[![Image 826](https://images.manning.com/192/256/resize/video/6/dbeaf12-6706-4ffe-9a3a-b98d39747764/BenEvans_O'Reilly_Thumb_03-09-2021.jpg)](https://www.manning.com/livevideo/java-performance-instrumentation-for-the-well-grounded-java-developer-benjamin-evans)
+
+[![Image 827](https://images.manning.com/192/256/resize/video/d/b72c420-2c20-4360-b158-7bbbcc031135/JavaforBeginners_YourEasyGuidetoJavaProgramming.png)](https://www.manning.com/livevideo/java-for-beginners-your-easy-guide-to-java-programming)
+
+[![Image 828](https://images.manning.com/192/256/resize/video/3/75b5fe9-bcda-4300-8b01-99624a2b07d9/Python_for_Data_Science_and_Machine_Learning__Zero_to_Hero.png)](https://www.manning.com/livevideo/python-for-data-science-and-machine-learning-zero-to-hero)
+
+[![Image 829](https://images.manning.com/192/256/resize/video/d/b546033-8aa1-42c2-a5ac-fc9b71c742dc/CarlOsipov_O'Reilly_Thumb.jpg)](https://www.manning.com/livevideo/automatic-differentiation-in-python-pytorch)
+
+[![Image 830](https://images.manning.com/192/256/resize/video/a/a24d99f-3c1b-4d55-ab9b-30c8320ec87a/The_Complete_Vue.JS_Course_for_Beginners__Zero_to_Mastery.png)](https://www.manning.com/livevideo/the-complete-vue.js-course-for-beginners-zero-to-mastery)
+
+[![Image 831](https://images.manning.com/192/256/resize/video/f/e768e06-b97b-48ba-8d1c-a9e42ed4481d/AngularforJavaDevelopers-Part3.jpg)](https://www.manning.com/livevideo/angular-for-java-developers-building-a-real-site)
+
+[![Image 832](https://images.manning.com/192/256/resize/video/2/6b6ed64-563a-466c-b07e-b7bd91c62174/jQueryImageCarouselSliderProject.png)](https://www.manning.com/livevideo/jquery-image-carousel-slider-project-using-javascript-html-and-css)
+
+[![Image 833](https://images.manning.com/192/256/resize/video/2/199fa22-42e0-4749-bda2-2cdefbcda239/PracticalLinuxCommandLinev1.0.png)](https://www.manning.com/livevideo/practical-linux-command-line)
+
+[![Image 834](https://images.manning.com/192/256/resize/video/a/6a930ad-66ec-45fc-81e4-2fa60afe5088/JortRodenburg_O'Reilly_Thumb_10-06-2020.jpg)](https://www.manning.com/livevideo/csharp-dotnet-object-oriented-programmers)
+
+Close [liveVideo catalog](https://www.manning.com/livevideo-catalog)
+
+[DID YOU KNOW? upgrades an eBook can be upgraded to a pBook for just $12 + shipping.](https://www.manning.com/why-buy-from-manning#section-upgrades)
+
+[write a book](https://www.manning.com/write-a-book)[create a liveProject](https://www.manning.com/create-a-liveproject)
+
+[FREE eBOOK WITH EVERY PRINT BOOK Buy a Manning pBook anywhere, get the eBook free here.](https://www.manning.com/ebooks)
+
+[sign up for Deal of the Day, Weekly Newsletters and more](https://www.manning.com/mail-preferences)
+
+[](https://www.manning.com/mail-preferences)
+
+[DID YOU KNOW? upgrades an eBook can be upgraded to a pBook for just $12 + shipping.](https://www.manning.com/why-buy-from-manning#section-upgrades)
+
+[write a book](https://www.manning.com/write-a-book)[create a liveProject](https://www.manning.com/create-a-liveproject)[![Image 835](https://www.manning.com/assets/manningFull_blue-2e3382e5c6ef539b8e4ad46d9d5ed0ec.svg) free books! enjoy free content compliments of our partners!](https://www.manning.com/corporate-splash)
+
+recent releases
+===============
+
+[](https://www.manning.com/books/investing-for-programmers)
+
+[](https://www.manning.com/books/just-use-postgres)
+
+[](https://www.manning.com/books/csharp-concurrency)
+
+[](https://www.manning.com/books/natural-language-processing-in-action-second-edition)
+
+[](https://www.manning.com/books/wordpress-power-toolkit)
+
+[](https://www.manning.com/books/100-c-plus-plus-mistakes-and-how-to-avoid-them)
+
+[](https://www.manning.com/books/quarkus-in-action)
+
+[](https://www.manning.com/books/machine-learning-system-design)
+
+[](https://www.manning.com/books/real-time-machine-learning)
+
+[](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch)
+
+[](https://www.manning.com/books/modern-angular)
+
+[](https://www.manning.com/books/llms-in-production)
+
+[FREE eBOOK WITH EVERY PRINT BOOK Buy a Manning pBook anywhere, get the eBook free here.](https://www.manning.com/ebooks)
+
+[sign up for Deal of the Day, Weekly Newsletters and more](https://www.manning.com/mail-preferences)
+
+[](https://www.manning.com/mail-preferences)
+
+BestsellersJanuary 12, 2025
+===========================
+
+1.  [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+2.  [Software Design in Python ![Image 836: Manning Early Access Program badge](https://www.manning.com/assets/meap-badge-d62b04aad706f67da57c95d645882800.svg)](https://www.manning.com/books/software-design-in-python) 
+3.  [Writing for Developers](https://www.manning.com/books/writing-for-developers)
+4.  [AI Agents in Action ![Image 837: Manning Early Access Program badge](https://www.manning.com/assets/meap-badge-d62b04aad706f67da57c95d645882800.svg)](https://www.manning.com/books/ai-agents-in-action) 
+5.  [Real-Time Machine Learning ![Image 838: Manning Early Access Program badge](https://www.manning.com/assets/meap-badge-d62b04aad706f67da57c95d645882800.svg)](https://www.manning.com/books/real-time-machine-learning) 
+6.  [LLMs in Production](https://www.manning.com/books/llms-in-production)
+7.  [Prompt Engineering in Action ![Image 839: Manning Early Access Program badge](https://www.manning.com/assets/meap-badge-d62b04aad706f67da57c95d645882800.svg)](https://www.manning.com/books/prompt-engineering-in-action) 
+8.  [Secrets of the JavaScript Ninja, Third Edition ![Image 840: Manning Early Access Program badge](https://www.manning.com/assets/meap-badge-d62b04aad706f67da57c95d645882800.svg)](https://www.manning.com/books/secrets-of-the-javascript-ninja-third-edition) 
+9.  [Effective Platform Engineering ![Image 841: Manning Early Access Program badge](https://www.manning.com/assets/meap-badge-d62b04aad706f67da57c95d645882800.svg)](https://www.manning.com/books/effective-platform-engineering) 
+10.  [Modern Angular](https://www.manning.com/books/modern-angular)
+
+recently published
+==================
+
+C#
+
+[C# _Concurrency_](https://www.manning.com/books/csharp-concurrency)[Collaborative Software _Design_](https://www.manning.com/books/collaborative-software-design)
+
+Data
+
+[AI-Powered _Search_](https://www.manning.com/books/ai-powered-search)[Causal Inference for Data _Science_](https://www.manning.com/books/causal-inference-for-data-science)[LLMs in _Production_](https://www.manning.com/books/llms-in-production)[Machine Learning System _Design_](https://www.manning.com/books/machine-learning-system-design)[Natural Language Processing in Action, Second _Edition_](https://www.manning.com/books/natural-language-processing-in-action-second-edition)[Software Testing with Generative _AI_](https://www.manning.com/books/software-testing-with-generative-ai)
+
+Data Science
+
+[Test Yourself On Build a Large Language Model (From _Scratch)_](https://www.manning.com/books/test-yourself-on-build-a-large-language-model-from-scratch)
+
+Databases
+
+[Deploy Services Using _Kubernetes ![Image 842](https://www.manning.com/assets/liveproject-badge-small-fbb234da0c2a5edee0087ca243813712.svg)_](https://www.manning.com/liveprojectseries/deploy-services-using-kubernetes-ser) 
+
+Development
+
+["Looks Good to _Me"_](https://www.manning.com/books/looks-good-to-me)[100 C++ Mistakes and How to Avoid _Them_](https://www.manning.com/books/100-c-plus-plus-mistakes-and-how-to-avoid-them)[100 SQL Server Mistakes and How to Avoid _Them_](https://www.manning.com/books/100-sql-server-mistakes-and-how-to-avoid-them)[Build a Robo-Advisor with Python (From _Scratch)_](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch)[C# _Concurrency_](https://www.manning.com/books/csharp-concurrency)[Collaborative Software _Design_](https://www.manning.com/books/collaborative-software-design)[Contract Testing in _Action_](https://www.manning.com/books/contract-testing-in-action)[Deploy Services Using _Kubernetes ![Image 843](https://www.manning.com/assets/liveproject-badge-small-fbb234da0c2a5edee0087ca243813712.svg)_](https://www.manning.com/liveprojectseries/deploy-services-using-kubernetes-ser) [GitHub Actions in _Action_](https://www.manning.com/books/github-actions-in-action)[Modern _Angular_](https://www.manning.com/books/modern-angular)[Outlier Detection in _Python_](https://www.manning.com/books/outlier-detection-in-python)[Road to _Kubernetes_](https://www.manning.com/books/road-to-kubernetes)[WordPress Power _Toolkit_](https://www.manning.com/books/wordpress-power-toolkit)
+
+Development
+
+[Writing for _Developers_](https://www.manning.com/books/writing-for-developers)
+
+General
+
+[Cyber Threat _Hunting_](https://www.manning.com/books/cyber-threat-hunting)[Writing for _Developers_](https://www.manning.com/books/writing-for-developers)
+
+JavaScript
+
+["Looks Good to _Me"_](https://www.manning.com/books/looks-good-to-me)[Contract Testing in _Action_](https://www.manning.com/books/contract-testing-in-action)[Road to _Kubernetes_](https://www.manning.com/books/road-to-kubernetes)
+
+Machine Learning
+
+[Test Yourself On Build a Large Language Model (From _Scratch)_](https://www.manning.com/books/test-yourself-on-build-a-large-language-model-from-scratch)
+
+Operations & Cloud
+
+[Quarkus in _Action_](https://www.manning.com/books/quarkus-in-action)[Road to _Kubernetes_](https://www.manning.com/books/road-to-kubernetes)[Snowflake Data _Engineering_](https://www.manning.com/books/snowflake-data-engineering)
+
+Programming
+
+[Deploy Services Using _Kubernetes ![Image 844](https://www.manning.com/assets/liveproject-badge-small-fbb234da0c2a5edee0087ca243813712.svg)_](https://www.manning.com/liveprojectseries/deploy-services-using-kubernetes-ser) 
+
+Python
+
+[AI-Powered _Search_](https://www.manning.com/books/ai-powered-search)[Build a Robo-Advisor with Python (From _Scratch)_](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch)[Causal Inference for Data _Science_](https://www.manning.com/books/causal-inference-for-data-science)[LLMs in _Production_](https://www.manning.com/books/llms-in-production)[Machine Learning System _Design_](https://www.manning.com/books/machine-learning-system-design)[Natural Language Processing in Action, Second _Edition_](https://www.manning.com/books/natural-language-processing-in-action-second-edition)[Outlier Detection in _Python_](https://www.manning.com/books/outlier-detection-in-python)[Road to _Kubernetes_](https://www.manning.com/books/road-to-kubernetes)[Test Yourself On Build a Large Language Model (From _Scratch)_](https://www.manning.com/books/test-yourself-on-build-a-large-language-model-from-scratch)
+
+R
+
+[Causal Inference for Data _Science_](https://www.manning.com/books/causal-inference-for-data-science)
+
+[](http://freecontent.manning.com/)
+
+Articles based on books in progress
+
+Manning Publications reviews
+----------------------------
+
+[read more](https://www.manning.com/reviews)
+
+4.7 overall satisfaction rating based on 54,802 ratings
+
+* * *
+
+5
+
+43K+ (76%)
+
+4
+
+9,121 (16%)
+
+3
+
+2,379 (4%)
+
+2
+
+553 (1%)
+
+1
+
+588 (1%)
+
+![Image 845](https://www.manning.com/assets/wreath-8cb01ea2b1d7d233b8db00afb6028c07.svg)
+
+43K+ ratings
+
+![Image 846](https://www.manning.com/assets/wreath-8cb01ea2b1d7d233b8db00afb6028c07.svg)
+
+ 
+
+minimize
+
+about
+
+[Manning](https://www.manning.com/manning)
+
+[MEAP](https://www.manning.com/meap-program)
+
+[liveBook](https://www.manning.com/livebook-program)
+
+[liveVideo](https://www.manning.com/livevideo-program)
+
+[liveProject](https://liveproject.manning.com/)
+
+[liveAudio](https://www.manning.com/liveaudio-landing)
+
+[eBooks](https://www.manning.com/ebooks)
+
+[subscriptions](https://www.manning.com/subscription)
+
+[tokens](https://www.manning.com/tokens)
+
+[our covers](https://www.manning.com/covers)
+
+info & inquiries
+
+[site reviews](https://www.manning.com/reviews)
+
+[user group program](https://www.manning.com/user-group)
+
+[write a book](https://www.manning.com/write-a-book)
+
+[create a liveProject](https://www.manning.com/create-a-liveproject)
+
+[academic](https://www.manning.com/academic)
+
+[distributors](https://www.manning.com/distributors)
+
+[careers](https://www.manning.com/careers)
+
+[manuscript reviews](https://www.manning.com/manuscript-reviews)
+
+[affiliate program](https://www.manning.com/affiliate-program)
+
+[news](https://www.manning.com/news)
+
+help
+
+[register pBook](https://www.manning.com/freebook)
+
+[placing an order](https://www.manning.com/placing-an-order)
+
+[shipping & returns](https://www.manning.com/shipping-and-returns)
+
+[why buy from Manning?](https://www.manning.com/why-buy-from-manning)
+
+[faq](https://www.manning.com/faq)
+
+[contact](https://www.manning.com/contact)
+
+[support](https://www.manning.com/support)
+
+legal
+
+[privacy](https://www.manning.com/privacy)
+
+[terms of use](https://www.manning.com/terms-of-use)
+
+[eBook license](https://www.manning.com/ebook-license)
+
+[source code](https://www.manning.com/source-code)
+
+[translations](https://www.manning.com/translations)
+
+*   [Subscribe to our Newsletter](https://www.manning.com/mail-preferences "Subscribe to our Newsletter")
+*   [Manning on LinkedIn](https://www.linkedin.com/company/manning-publications-co/ "Manning on LinkedIn")
+*   [Manning on Instagram](https://www.instagram.com/manning_publications/ "Manning on Instagram")
+*   [Manning on Facebook](https://www.facebook.com/ManningBooks?ref=nf "Manning on Facebook")
+*   [Manning on Twitter](https://twitter.com/manningbooks "Manning on Twitter")
+*   [Manning on YouTube](https://www.youtube.com/channel/UCDia_lkNYKLJVLRLQl_-pFw "Manning on YouTube")
+*   [Manning on Twitch](https://www.twitch.tv/manningpublications "Manning on Twitch")
+*   [Manning on Mastodon](https://techhub.social/@ManningPublications "Manning on Mastodon")
+
+© 2025  Manning Publications Co.  All rights reserved.
+
+[![Image 847: DMCA Enforced](https://www.dmcaforce.com/wp-content/uploads/2013/07/dmca-icon-enforced.png)](https://www.dmcaforce.com/ "This copyright holder prohibits the use and distribution of their content from unauthorized sources. Support them by purchasing or accessing from authorized sources only. www.dmcaforce.com is the authorized DMCA Agent for this copyright holder.")
+
+    
+
+RECENTLY VIEWED

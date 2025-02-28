@@ -1,0 +1,398 @@
+[![Image 20: Repo-Updater](https://github.com/firmai/financial-machine-learning/actions/workflows/repo_status.yml/badge.svg)](https://github.com/firmai/financial-machine-learning/actions/workflows/repo_status.yml) [![Image 21: Wiki-Generator](https://github.com/firmai/financial-machine-learning/actions/workflows/wiki_gen.yml/badge.svg)](https://github.com/firmai/financial-machine-learning/actions/workflows/wiki_gen.yml) [![Image 22: Repo-Search](https://github.com/firmai/financial-machine-learning/actions/workflows/repo_search.yml/badge.svg)](https://github.com/firmai/financial-machine-learning/actions/workflows/repo_search.yml) [![Image 23: Gitter](https://camo.githubusercontent.com/7bb12074384b39580648c24a62cddd7509a41c49274f70c178795e9c04dddc87/68747470733a2f2f6261646765732e6769747465722e696d2f66696e616e6369616c2d6d616368696e652d6c6561726e696e672f636f6d6d756e6974792e737667)](https://gitter.im/financial-machine-learning/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+* * *
+
+🌟 We Are Growing!
+------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#-we-are-growing)
+
+We're seeking to collaborate with motivated, independent PhD graduates or doctoral students on approximately seven new projects in 2024. If you’re interested in contributing to cutting-edge investment insights and data analysis, please get in touch! This could be in colaboration with a university or as independent study.
+
+[![Image 24: image](https://private-user-images.githubusercontent.com/26666267/373640241-da97663a-b63f-4286-94cc-fcd168905109.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcxMDksIm5iZiI6MTczNzM4NjgwOSwicGF0aCI6Ii8yNjY2NjI2Ny8zNzM2NDAyNDEtZGE5NzY2M2EtYjYzZi00Mjg2LTk0Y2MtZmNkMTY4OTA1MTA5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiNzM4Y2RiZGNjM2IyN2NkYWYwZTZhOWY1NjM2NTU0ZThkYWEyNGI2Yzg1ODExMTQyNTA2OWMyNDYxZmQzNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OZVSQT-ct8-u3n9URXOuYVv_x2vsDp-Cry2JA9SyAI0)](https://private-user-images.githubusercontent.com/26666267/373640241-da97663a-b63f-4286-94cc-fcd168905109.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcxMDksIm5iZiI6MTczNzM4NjgwOSwicGF0aCI6Ii8yNjY2NjI2Ny8zNzM2NDAyNDEtZGE5NzY2M2EtYjYzZi00Mjg2LTk0Y2MtZmNkMTY4OTA1MTA5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiNzM4Y2RiZGNjM2IyN2NkYWYwZTZhOWY1NjM2NTU0ZThkYWEyNGI2Yzg1ODExMTQyNTA2OWMyNDYxZmQzNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OZVSQT-ct8-u3n9URXOuYVv_x2vsDp-Cry2JA9SyAI0)
+
+### 🚀 About Sov.ai
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#-about-sovai)
+
+Sov.ai is at the forefront of integrating advanced machine learning techniques with financial data analysis to revolutionize investment strategies. We are working with **3 of the top 10** quantitative hedge funds, and with many mid-sized and boutique firms.
+
+Our platform leverages diverse data sources and innovative algorithms to deliver actionable insights that drive smarter investment decisions.
+
+By joining Sov.ai, you'll be part of a dynamic research team dedicated to pushing the boundaries of what's possible in finance through technology. Before expressing your interest, please be aware that the research will be predominantly challenging and experimental in nature.
+
+### 🔍 Research and Project Opportunities
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#-research-and-project-opportunities)
+
+We offer a wide range of projects that cater to various interests and expertise within machine learning and finance. Some of the exciting recent projects include:
+
+*   **Predictive Modeling with GitHub Logs:** Develop models to predict market trends and investment opportunities using GitHub activity and developer data.
+*   **Satallite Data Analysis:** Explore non-traditional data sources such as social media sentiment, satellite imagery, or web traffic to enhance financial forecasting.
+*   **Data Imputation Techniques:** Investigate new methods for handling missing or incomplete data to improve the robustness and accuracy of our models.
+
+Please visit [docs.sov.ai](https://docs.sov.ai/) for more information on public projects that have made it into the subscription product. If you already have a corporate sponsor, we are also happy to work with them.
+
+### 🌐 Why Join Sov.ai?
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#-why-join-sovai)
+
+*   **Innovative Environment:** Engage with the latest technologies and methodologies in machine learning and finance.
+*   **Collaborative Team:** Work alongside a team of experts passionate about driving innovation in investment insights.
+*   **Flexible Projects:** Tailor your research to align with your interests and expertise, with the freedom to explore new ideas.
+*   **Experienced Researchers:** Experts previously from NYU, Columbia, Oxford-Man Institute, Alan Turing Institute, and Cambridge.
+*   **Post Research:** Connect with alumni that has moved on to DRW, Citadel Securities, Virtu Financial, Akuna Capital, HRT.
+
+### 🤝 How to Apply
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#-how-to-apply)
+
+If you’re excited about leveraging your expertise in machine learning and finance to drive impactful research and projects, we’d love to hear from you! Please reach out to us at [research@sov.ai](mailto:research@sov.ai) with your resume and a brief description of your research interests.
+
+Join us in shaping the future of investment insights and making a meaningful impact in the world of finance!
+
+So what is [ML-Quant.com](https://ml-quant.com/) then?
+------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#so-what-is-ml-quantcom-then)
+
+It is our firehose of daily research, serving as an internal knowledge base and client resource while also acting as a marketing channel to showcase our expertise and attract potential clients in the machine learning and quantitative finance space.
+
+[![Image 25: Screenshot 2024-10-04 at 08-30-53 ML-Quant - Machine Learning and Quantitative Finance](https://private-user-images.githubusercontent.com/26666267/373638944-37911503-1277-4eec-b856-bb801ca9b45b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcxMDksIm5iZiI6MTczNzM4NjgwOSwicGF0aCI6Ii8yNjY2NjI2Ny8zNzM2Mzg5NDQtMzc5MTE1MDMtMTI3Ny00ZWVjLWI4NTYtYmI4MDFjYTliNDViLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1NTM5ZjM4NmZjZGQwYjIwY2RlZDBjMWU1N2M3OWQzZTI1Y2E2OWJkZjg3NDQ2ZjhkMGI2YjAwZDUzNDY1ZTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sBtW64MVW7bGfcuzebwjEndzJ6ua4pV090MJQJwJj-8)](https://private-user-images.githubusercontent.com/26666267/373638944-37911503-1277-4eec-b856-bb801ca9b45b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcxMDksIm5iZiI6MTczNzM4NjgwOSwicGF0aCI6Ii8yNjY2NjI2Ny8zNzM2Mzg5NDQtMzc5MTE1MDMtMTI3Ny00ZWVjLWI4NTYtYmI4MDFjYTliNDViLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1NTM5ZjM4NmZjZGQwYjIwY2RlZDBjMWU1N2M3OWQzZTI1Y2E2OWJkZjg3NDQ2ZjhkMGI2YjAwZDUzNDY1ZTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sBtW64MVW7bGfcuzebwjEndzJ6ua4pV090MJQJwJj-8)
+
+Financial Machine Learning and Data Science
+-------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#financial-machine-learning-and-data-science)
+
+*   All repos/links status including last commit date is updated daily
+*   Only 15 Highest ranked repos/links for each section are displayed on main README.md and full list is available within the wiki page
+*   Both Wikis/README.md is updated in realtime as soon as new information are pushed to the repo
+
+* * *
+
+Trading
+-------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#trading)
+
+Deep Learning & Reinforcement Learning ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/deep_learning_and_reinforcement_learning))
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#deep-learning--reinforcement-learning-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [FinRL-Library](https://github.com/AI4Finance-LLC/FinRL-Library) | started by Columbia university engineering students and designed as an end to end deep reinforcement learning library for automated trading platform. Implementation of DQN DDQN DDPG etc using PyTorch and [gym](https://gym.openai.com/) use [pyfolio](https://github.com/quantopian/pyfolio) for showing backtesting stats. Big contributions on Proximal Policy Optimization (PPO) advantage actor critic (A2C) and Deep Deterministic Policy Gradient (DDPG) agents for trading | 2020-07-26 13:18:16 | 2024-09-28 02:56:03 | 9697.0 | ✔️ | ⭐x5 |
+| [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) | very good curated list of notebooks showing deep learning + reinforcement learning models. Also contain topics on outlier detections/overbought oversold study/monte carlo simulartions/sentiment analysis from text (text storage/parsing is not detailed but it mentioned using [BERT](https://github.com/google-research/bert)) | 2017-12-18 10:49:59 | 2021-01-05 10:31:50 | 7924.0 | ✖️ | ⭐x5 |
+| [AI Trading](https://github.com/borisbanushev/stockpredictionai/blob/master/readme2.md) | AI to predict stock market movements. | 2019-01-09 08:02:47 | 2019-02-11 16:32:47 | 4094.0 | ✖️ | ⭐x5 |
+| [Deep Learning IV](https://github.com/achillesrasquinha/bulbea) | Bulbea: Deep Learning based Python Library. | 2017-03-09 06:11:06 | 2017-03-19 07:42:49 | 2032.0 | ✖️ | ⭐x5 |
+| [RLTrader](https://github.com/notadamking/RLTrader) | predecessor to [tensortrade](https://github.com/tensortrade-org/tensortrade) uses open api [gym](https://gym.openai.com/) and neat way to render matplotlib plots in real time. Also explains LSTM/data stationarity/Bayesian optimization using [Optuna](https://github.com/optuna/optuna) etc. | 2019-04-27 18:35:15 | 2019-10-17 16:25:49 | 1731.0 | ✖️ | ⭐x5 |
+| [Deep Learning III](https://github.com/Rachnog/Deep-Trading) | Algorithmic trading with deep learning experiments. | 2016-06-18 18:23:06 | 2018-08-07 15:24:45 | 1429.0 | ✖️ | ⭐x5 |
+| [Personae](https://github.com/Ceruleanacg/Personae) | implementation of deep reinforcement learning and supervised learnings covering areas: deep deterministic policy gradient (DDPG) and DDQN etc. Data are being pulled from [rqalpha](https://github.com/ricequant/rqalpha) which is a python backtest engine and have a nice docker image to run training/testing | 2018-03-10 11:22:00 | 2018-09-02 17:21:38 | 1340.0 | ✖️ | ⭐x5 |
+| [RL Trading](https://colab.research.google.com/drive/1FzLCI0AO3c7A4bp9Fi01UwXeoc7BN8sW) | A collection of 25+ Reinforcement Learning Trading Strategies -Google Colab. | nan | nan | nan | ✔️ | ⭐x4 |
+| [Neural Network](https://github.com/VivekPa/IntroNeuralNetworks) | Neural networks to predict stock prices. | 2018-09-10 06:34:53 | 2018-11-21 07:39:31 | 734.0 | ✖️ | ⭐x4 |
+| [Deep Learning](https://github.com/keon/deepstock) | Technical experimentations to beat the stock market using deep learning. | 2016-12-12 02:15:12 | 2017-03-04 08:37:29 | 470.0 | ✖️ | ⭐x4 |
+| [Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) | Part of FinRL and provided code for paper [deep reinformacement learning for automated stock trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) focuses on ensemble. | 2020-07-26 13:12:53 | 2024-07-01 08:09:06 | 2019.0 | ✔️ | ⭐x4 |
+| [LTSM Recurrent](https://github.com/VivekPa/AIAlpha) | OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network. | 2018-10-07 03:58:26 | 2019-08-03 09:00:44 | 1711.0 | ✖️ | ⭐x4 |
+| [awesome-deep-trading](https://github.com/cbailes/awesome-deep-trading) | curated list of papers/repos on topics like CNN/LSTM/GAN/Reinforcement Learning etc. Categorized as deep learning for now but there are other topics here. Manually maintained by cbailes | 2018-11-26 03:23:04 | 2021-01-01 09:41:21 | 1482.0 | ✖️ | ⭐x4 |
+| [trading-bot](https://github.com/pskrunner14/trading-bot) | Implementation of deep reinforcement learning using Deep Q Network (DQN). Only supports single security at the moment. Idea is roughly based [here](https://keon.github.io/deep-q-learning/) and uses tensorflow/keras. Interesting helper python libraries used here are [tqdm](https://tqdm.github.io/) for console based progress bar and [altair](https://altair-viz.github.io/) for declarative visualization in python | 2018-08-13 10:44:08 | 2020-01-23 04:41:20 | 952.0 | ✖️ | ⭐x3 |
+| [crypto-rl](https://github.com/sadighian/crypto-rl) | Retrieve limit order book level data from coinbase pro and bitfinex -\> record in [arctic](https://github.com/man-group/arctic) timeseries database then implemented trend following strategies (market orders) and market making (limit orders). Uses reinforcement learning (DQN) [keras-rl](https://github.com/keras-rl/keras-rl) to create agents and uses [openai gym](https://gym.openai.com/) to implement POMDP (partially observable markov decision process) | 2018-06-21 01:06:01 | 2021-11-30 13:52:18 | 849.0 | ✖️ | ⭐x3 |
+
+Other Models ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/other_models))
+---------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#other-models-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Microservices-Based-Algorithmic-Trading-System](https://github.com/saeed349/Microservices-Based-Algorithmic-Trading-System) | docker based platfrom for developing algo trading strategies. Very interesting combinations of open source components were used including [backtrader](https://www.backtrader.com/) for backtest strategies / [mlflow](https://mlflow.org/) for managing the machine learning model life cycle (i.e. training and developing machine learning models) / [airflow](https://airflow.apache.org/) used as workflow management including schedule data download etc. / [superset](https://superset.apache.org/) web data visualization tool similar to tableau / [minio](https://min.io/) for fast object storage (i.e. storing saved models and model artifacts) / postgresql used to store security master and daily and minute data. Also contains some details on deployment on cloud | 2020-01-06 00:21:58 | 2024-04-08 19:33:16 | 443.0 | ✔️ | ⭐x5 |
+| [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) | curated list of books/online courses/youtube videos/blogs/interviews/papers/code etc. Updates are pretty infrequent | 2018-11-05 21:09:06 | 2020-10-08 16:48:18 | 2675.0 | ✖️ | ⭐x5 |
+| [Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading) | repo for book [hands-on-machine learning for algorithmic trading](https://www.packtpub.com/product/hands-on-machine-learning-for-algorithmic-trading/9781789346411) covering topic from data/unsupervised learning/NPL/RNN & CNN/reinforcement learning etc. Leverage zipline/alphalens/sklearn/openai-gym etc as well. Good references to have | 2019-05-07 11:04:25 | 2023-01-18 09:16:47 | 1418.0 | ✔️ | ⭐x5 |
+| [fin-ml](https://github.com/tatsath/fin-ml) | accompanying materials for book [Machine Learning and Data Science Blueprints for Finance](https://www.amazon.com/Machine-Learning-Science-Blueprints-Finance/dp/1492073059) on top of basic machine learning models i.e. nlp/reinforcement learning/supervised & unsupervised learning it covers wider topics including robo-advisors/fraud detection/loan default/derivative pricing/yield curve construction. | 2020-05-10 00:25:56 | 2023-01-26 22:03:20 | 846.0 | ✔️ | ⭐x4 |
+| [Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) | official repo for [machine learning for algorithmic trading](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715?pf_rd_r=GZH2XZ35GB3BET09PCCA&pf_rd_p=c5b6893a-24f2-4a59-9d4b-aff5065c90ec&pd_rd_r=91a679c7-f069-4a6e-bdbb-a2b3f548f0c8&pd_rd_w=2B0Q0&pd_rd_wg=GMY5S&ref_=pd_gw_ci_mcx_mr_hp_d) book. Covering topics including backtesting/boosting/nlp/deep&reinforcement learning. Leverage open source libraries including [backtrader](https://www.backtrader.com/) [zipline](https://github.com/quantopian/zipline) and [talib](https://github.com/mrjbq7/ta-lib) | 2019-11-15 08:51:40 | 2023-01-18 09:11:25 | 1192.0 | ✔️ | ⭐x4 |
+| [AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) | machine learning framework built on sklearn and pandas. Support pyfolio/xgboost/lightgmb/catboost(gradient boosting on decision tress) etc. Examples include financial market prediction/sports prediction/kaggle. Configurations are set though yaml file for all model process including feature selection/grid search on parameters and aggregate results for each model | 2016-02-14 00:47:32 | 2024-02-10 16:41:20 | 1137.0 | ✔️ | ⭐x4 |
+| [Stock.Indicators](https://github.com/DaveSkender/Stock.Indicators) | list of technical indicators implemented in c#. Full list and explanation available [here](https://daveskender.github.io/Stock.Indicators/docs/INDICATORS.html). This list contains several indicators that ta-lib does not cover | 2019-12-29 05:18:07 | 2024-09-09 18:29:11 | 963.0 | ✔️ | ⭐x3 |
+| [Fundamental LT Forecasts](https://github.com/Hvass-Labs/FinanceOps) | Research in investment finance for long term forecasts and a curated list of notebooks. Each topic contains a youtube video explaining in details. Interesting topics including using price per book ratio and other multiples for future return prediction and portfolio optimization. data sourced form [simfin](https://github.com/SimFin/simfin) yahoo finance and [s&p 500 earnings and estimate report](https://www.spglobal.com/spdji/en/documents/additional-material/sp-500-eps-est.xlsx) etc. | 2018-07-22 08:14:46 | 2022-02-12 13:26:40 | 838.0 | ✖️ | ⭐x3 |
+| [stock-trading-ml](https://github.com/yacoubb/stock-trading-ml) | lstm model using keras to predict msft prices. Data is from [alphavantage](https://www.alphavantage.co/) which provides some free data through web services. Showing how to use concatenation layer to join timeseries data with TA data. Might be abit of overfitting on the model though | 2019-10-10 09:44:02 | 2019-10-12 11:38:49 | 597.0 | ✖️ | ⭐x3 |
+| [MathAndScienceNotes](https://github.com/melling/MathAndScienceNotes) | Collections of news/articles on various topics including quant trading and machine learning. Some articles are from [ycombinator message board](https://news.ycombinator.com/news) and [rediit algotrading forum](https://www.reddit.com/r/algotrading/) | 2016-03-11 19:13:00 | 2020-12-21 03:54:51 | 504.0 | ✖️ | ⭐x3 |
+| [mlfinlab](https://github.com/hudson-and-thames/mlfinlab) | open source library maintained by hudson and thames though much of the content has moved to a subscription model. Idea is to implement academic research in python code and aggregate it as a package. Sources from [Journal of financial data science](https://jfds.pm-research.com/) / [journal of portfolio management](https://jpm.pm-research.com/) / [journal of algorithmic finance](http://www.algorithmicfinance.org/) / [cambridge university press](https://www.cambridge.org/) | 2019-02-13 16:57:25 | 2021-12-01 08:04:50 | 3933.0 | ✖️ | ⭐x3 |
+| [Machine-Learning-for-Algorithmic-Trading-Bots-with-Python](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Bots-with-Python) | code repo for [machine learning for algorithmic trading bots](https://www.packtpub.com/application-development/machine-learning-algorithmic-trading-bots-python-video) video series. Contains notebooks and deep dive using [zipline](https://github.com/quantopian/zipline) | 2018-12-06 11:35:08 | 2023-01-30 09:31:10 | 381.0 | ✔️ | ⭐x3 |
+| [Machine-Learning-for-Finance](https://github.com/PacktPublishing/Machine-Learning-for-Finance) | repo for book [machine learning for finance](https://www.packtpub.com/product/machine-learning-for-finance/9781789136364) with heavier focus on machine learning and less on finance. Topics covered including computer vision/time series/nlp/generative models (i.e. autoencoder)/reinforcement learning/debugging ml systems | 2018-03-15 06:28:00 | 2023-01-30 09:45:35 | 356.0 | ✔️ | ⭐x3 |
+| [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | curated list of books/online courses/papers on AI and finance. Topics include crypto trading strategies/ta/backter etc. | 2018-08-29 02:07:02 | 2024-06-10 07:13:13 | 3411.0 | ✔️ | ⭐x3 |
+| [mosquito](https://github.com/miro-ka/mosquito) | base framework trading bot for crypto. Stores data in local mongodb instance and supports backtest and live trading on [poloniex](https://poloniex.com/) and [bittrex](https://bittrex.com/) which are 12-15th ranked crypto exchanges by volume. Leverage [talib](https://github.com/mrjbq7/ta-lib) for ta data and [plotly](https://github.com/plotly/plotly.py) for visualization | 2017-06-18 19:57:17 | 2023-04-23 21:39:31 | 261.0 | ✔️ | ⭐x3 |
+
+Data Processing Techniques and Transformations ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/data_processing_techniques_and_transformations))
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#data-processing-techniques-and-transformations-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Advanced ML](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises) | Exercises to book [advances in financial machine learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482109). Relevant topics include data cleaning and outlier detection (using MAD) | 2018-04-25 17:22:40 | 2020-01-16 17:25:41 | 1698.0 | ✖️ | ⭐x4 |
+| [Twitter-Trends](https://github.com/Medha11/Twitter-Trends) | sentiment analysis baed on twitter data. Relevant topics include data cleaning/tokenization/data aggregation using mangodb etc. | 2017-05-22 17:07:45 | 2017-05-23 08:06:27 | 99.0 | ✖️ | ⭐x3 |
+| [Google-Finance-Stock-Data-Analysis](https://github.com/hpnhxxwn/Google-Finance-Stock-Data-Analysis) | data processing platform which stream data from kafka. The example shows two incoming data stream stock vs tweets and two spark streams are created to consume the kafka data then end results are stored in cassandra. Older tech stacks were used and not actively maintained. | 2017-07-23 02:59:59 | 2017-07-23 03:10:35 | 82.0 | ✖️ | ⭐x3 |
+| [finserv-application-blueprint](https://github.com/mapr-demos/finserv-application-blueprint) | generate streamable data using mapr converged data platfrom built mostly in java. Uses apache [zepplin](https://zeppelin.apache.org/) for web visualization | 2016-09-26 19:42:54 | 2021-06-07 17:38:13 | 84.0 | ✖️ | ⭐x2 |
+| [cointrader](https://github.com/timolson/cointrader) | java based platform for trading crypto. Relevant sections including using esper event queries to transform data and place orders | 2014-06-01 01:14:12 | 2022-06-21 01:03:49 | 451.0 | ✖️ | ⭐x2 |
+| [CryptoNets](https://github.com/microsoft/CryptoNets) | CryptoNets is a demonstration of the use of Neural-Networks over data encrypted with [Homomorphic Encryption](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf). Homomorphic Encryptions allow performing operations such as addition and multiplication over data while it is encrypted. | 2019-06-02 05:48:39 | 2022-09-09 15:57:24 | 280.0 | ✖️ | ⭐x2 |
+| [plaid-to-gsheets](https://github.com/williamlmao/plaid-to-gsheets) | NEW | 2021-12-12 19:53:14 | 2023-02-03 15:36:49 | 71.0 | ✔️ |  |
+| [ninjabook](https://github.com/ninja-quant/ninjabook) | NEW | 2024-04-10 01:01:10 | 2024-04-21 16:42:28 | 150.0 | ✔️ |  |
+| [Major-project-list](https://github.com/ManojKumarPatnaik/Major-project-list) | NEW | 2021-09-04 11:17:44 | 2024-09-07 15:22:27 | 115.0 | ✔️ |  |
+
+Portfolio Management
+--------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#portfolio-management)
+
+Portfolio Selection and Optimisation ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/portfolio_selection_and_optimisation))
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#portfolio-selection-and-optimisation-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Modern Portfolio Theory](https://nbviewer.jupyter.org/github/Marigold/universal-portfolios/blob/master/modern-portfolio-theory.ipynb) | Universal portfolios; modern portfolio theory. | nan | nan | nan | ✔️ |  |
+| [Online Portfolio Selection](https://nbviewer.jupyter.org/github/paulperry/quant/blob/master/OLPS_Comparison.ipynb) | \*\*\*\*Comparing OLPS algorithms on a diversified set of ETFs. | nan | nan | nan | ✔️ |  |
+| [cvxportfolio](https://github.com/cvxgrp/cvxportfolio) | NEW | 2017-01-11 01:16:16 | 2024-09-27 14:09:43 | 968.0 | ✔️ |  |
+| [DeepDow](https://github.com/jankrepl/deepdow) | Portfolio optimization with deep learning. | 2020-02-02 08:46:33 | 2024-01-24 15:56:34 | 901.0 | ✔️ |  |
+| [Reinforcement Learning](https://github.com/filangel/qtrader) | Reinforcement Learning for Portfolio Management. | 2017-10-07 09:14:33 | 2018-06-26 09:22:27 | 453.0 | ✖️ |  |
+| [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) | Financial portfolio optimisation, including classical efficient frontier and advanced methods. | 2018-05-29 13:30:30 | 2024-05-28 23:05:51 | 4425.0 | ✔️ |  |
+| [Distribution Characteristic Optimisation](https://github.com/VivekPa/OptimalPortfolio) | Extends classical portfolio optimisation to take the skewness and kurtosis of the distribution of market invariants into account. | 2018-11-16 12:20:25 | 2024-02-27 21:38:36 | 352.0 | ✔️ |  |
+| [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) | NEW | 2020-03-02 19:49:06 | 2024-07-29 21:51:42 | 2985.0 | ✔️ |  |
+| [riskparity.py](https://github.com/convexfi/riskparity.py) | NEW | 2019-07-13 21:30:55 | 2024-05-27 00:29:29 | 285.0 | ✔️ |  |
+| [riskparity.py](https://github.com/dppalomar/riskparity.py) | NEW | 2019-07-13 21:30:55 | 2024-05-27 00:29:29 | 285.0 | ✔️ |  |
+| [okama](https://github.com/mbk-dev/okama) | NEW | 2020-03-02 14:48:29 | 2024-07-06 13:39:25 | 205.0 | ✔️ |  |
+| [Efficient Frontier](https://github.com/tthustla/efficient_frontier/blob/master/Efficient%20_Frontier_implementation.ipynb) | Modern Portfolio Theory. | 2018-02-17 08:19:46 | 2018-02-27 13:16:57 | 184.0 | ✖️ |  |
+| [Policy Gradient Portfolio](https://github.com/ZhengyaoJiang/PGPortfolio) | A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem. | 2017-11-12 16:08:44 | 2021-07-30 15:03:59 | 1739.0 | ✖️ |  |
+| [finance-courses](https://github.com/z4ir3/finance-courses) | NEW | 2019-10-10 10:50:03 | 2023-12-11 23:09:10 | 171.0 | ✔️ |  |
+| [401K Portfolio Optimisation](https://github.com/otosman/Python-for-Finance/blob/master/Portfolio%20Optimization%20401k.ipynb) | Portfolio analyses and optimisation for 401K. | 2018-08-01 19:48:24 | 2019-09-05 11:18:56 | 17.0 | ✖️ |  |
+
+Factor and Risk Analysis ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/factor_and_risk_analysis))
+---------------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#factor-and-risk-analysis-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [\-1](https://github.com/Rastaman4e/-1) | NEW | nan | nan | nan | ✔️ |  |
+| [FEEDN](https://github.com/THEFEASTCOIN/FEEDN) | NEW | nan | nan | nan | ✔️ |  |
+| [factor-risk-parity](https://github.com/tngaspar/factor-risk-parity) | NEW | 2020-04-05 17:05:40 | 2022-09-18 14:42:03 | 9.0 | ✖️ |  |
+| [SafetyAndTrade](https://github.com/vrdcas/SafetyAndTrade) | NEW | 2020-04-11 20:18:03 | 2020-04-12 17:00:36 | 9.0 | ✖️ |  |
+| [VaR GaN](https://github.com/hamaadshah/market_risk_gan_keras) | Estimate Value-at-Risk for market risk management using Keras and TensorFlow. | 2018-08-06 16:09:44 | 2022-06-24 19:05:55 | 84.0 | ✖️ |  |
+| [Liberty-House-Club-Whitepaper](https://github.com/realbeeed/Liberty-House-Club-Whitepaper) | NEW | 2022-04-22 08:25:39 | 2022-04-22 08:27:24 | 8.0 | ✔️ |  |
+| [Various Risk Measures](https://github.com/Jorgencr/Alternative-and-Responsible-Investments/blob/master/Final_masterfile.ipynb) | Risk measures and factors for alternative and responsible investments. | 2017-08-07 14:44:32 | 2017-08-08 22:52:11 | 8.0 | ✖️ |  |
+| [Factor Analysis](https://github.com/garvit-kudesia91/factor_analysis/blob/master/Factor%20Analysis%20of%20Mutual%20Funds.ipynb) | Factor analysis for mutual funds. | 2018-03-13 07:39:20 | 2018-03-13 07:42:36 | 8.0 | ✖️ |  |
+| [one\_factor\_Hull\_White\_python](https://github.com/open-source-modelling/one_factor_Hull_White_python) | NEW | 2023-01-29 17:45:51 | 2024-03-24 19:48:04 | 8.0 | ✔️ |  |
+| [whitepaper](https://github.com/peacockbsc/whitepaper) | NEW | 2021-07-31 23:39:41 | 2022-08-25 09:52:38 | 7.0 | ✖️ |  |
+| [An-Analysis-of-PCA-and-Autoencoder-Generated-Factors-in-Predicting-SP500-Returns](https://github.com/Leo8216/An-Analysis-of-PCA-and-Autoencoder-Generated-Factors-in-Predicting-SP500-Returns) | NEW | 2020-01-18 00:53:46 | 2020-01-18 03:59:36 | 7.0 | ✖️ |  |
+| [The-Reason-Why-Everyone-Love-Mining-Tools](https://github.com/dcstechnoweb/The-Reason-Why-Everyone-Love-Mining-Tools) | NEW | 2022-06-13 05:11:36 | 2022-06-13 05:12:52 | 7.0 | ✖️ |  |
+| [\-L-](https://github.com/jettbrains/-L-) | NEW | 2019-10-28 21:50:26 | 2019-10-28 21:51:19 | 67.0 | ✖️ |  |
+| [Bitcoin\_Since\_Pandemic](https://github.com/at-tan/Bitcoin_Since_Pandemic) | NEW | 2022-02-12 11:12:37 | 2022-02-12 17:46:45 | 6.0 | ✖️ |  |
+| [Pyfolio](https://github.com/quantopian/pyfolio) | Portfolio and risk analytics in Python. | 2015-06-01 15:31:39 | 2020-02-28 17:30:19 | 5631.0 | ✖️ |  |
+
+Techniques
+----------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#techniques)
+
+Unsupervised ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/unsupervised))
+---------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#unsupervised-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [PCA Pairs Trading](https://github.com/joelQF/quant-finance/tree/master/Artificial_IntelIigence_for_Trading) | PCA, Factor Returns, and trading strategies. | nan | nan | nan | ✔️ |  |
+| [Eigen-Portfolio](https://github.com/Gustrigos/Eigen-Portfolio) | NEW | 2018-09-05 05:29:18 | 2020-04-09 21:40:04 | 67.0 | ✖️ |  |
+| [hmm\_market\_behavior](https://github.com/lamres/hmm_market_behavior) | NEW | 2019-09-08 17:37:39 | 2020-05-10 14:36:03 | 40.0 | ✖️ |  |
+| [VRA Stock Embedding](https://github.com/ml-hongkong/stock2vec) | Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history. | 2017-06-21 04:47:14 | 2017-06-21 04:51:13 | 38.0 | ✖️ |  |
+| [AnomalyDetectionOnRisk](https://github.com/SimonWesterlindVPD/AnomalyDetectionOnRisk) | NEW | 2018-05-31 15:53:02 | 2018-05-31 16:18:28 | 21.0 | ✖️ |  |
+| [Pairs Trading](https://github.com/marketneutral/pairs-trading-with-ML/blob/master/Pairs%2BTrading%2Bwith%2BMachine%2BLearning.ipynb) | Finding pairs with cluster analysis. | 2017-09-05 19:19:19 | 2017-09-27 20:42:14 | 203.0 | ✖️ |  |
+| [all-classification-templetes-for-ML](https://github.com/sayantann11/all-classification-templetes-for-ML) | NEW | 2020-05-05 10:28:52 | 2024-05-15 11:46:23 | 198.0 | ✔️ |  |
+| [Credit-Card-Fraud-Detection](https://github.com/sharmaroshan/Credit-Card-Fraud-Detection) | NEW | 2019-03-31 05:33:17 | 2019-03-31 05:38:43 | 16.0 | ✖️ |  |
+| [Industry Clustering](https://github.com/SeanMcOwen/FinanceAndPython.com-ClusteringIndustries) | Clustering of industries. | 2017-07-21 02:12:51 | 2017-07-23 02:53:37 | 14.0 | ✖️ |  |
+| [Industry Clustering](https://github.com/SeanMcOwen/FinanceAndPython.com-ClusteringIndustries) | Project to cluster industries according to financial attributes. | 2017-07-21 02:12:51 | 2017-07-23 02:53:37 | 14.0 | ✖️ |  |
+| [tableQA-Chinese](https://github.com/svjack/tableQA-Chinese) | NEW | 2021-03-16 14:54:53 | 2023-04-20 06:20:56 | 12.0 | ✔️ |  |
+| [Fund Clusters](https://github.com/frechfrechfrech/Mutual-Fund-Market-Clusters/blob/master/Initial%20Data%20Exploration.ipynb) | Data exploration of fund clusters. | 2018-04-16 22:18:55 | 2018-06-07 22:01:32 | 11.0 | ✖️ |  |
+| [Stock\_Support\_Resistance\_ML](https://github.com/judopro/Stock_Support_Resistance_ML) | NEW | 2019-12-22 20:25:48 | 2021-05-02 04:25:21 | 100.0 | ✖️ |  |
+| [Learning-Technical-Trading](https://github.com/NJ-Murphy/Learning-Technical-Trading) | NEW | 2019-03-25 11:47:49 | 2020-04-08 12:39:53 | 10.0 | ✖️ |  |
+
+Textual ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/textual))
+-----------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#textual-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [NLP](https://github.com/toamitesh/NLPinFinance) | This project assembles a lot of NLP operations needed for finance domain. | nan | nan | nan | ✔️ |  |
+| [NLP Event](https://github.com/yuriak/DLQuant) | Applying Deep Learning and NLP in Quantitative Trading. | 2018-07-02 23:50:52 | 2019-01-31 14:08:20 | 99.0 | ✖️ |  |
+| [Financial Sentiment Analysis](https://github.com/EricHe98/Financial-Statements-Text-Analysis) | Sentiment, distance and proportion analysis for trading signals. | 2017-06-23 00:05:49 | 2023-05-08 00:58:50 | 94.0 | ✔️ |  |
+| [Cornucopia-LLaMA-Fin-Chinese](https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese) | NEW | 2023-04-30 06:11:18 | 2023-06-30 07:52:13 | 582.0 | ✔️ |  |
+| [awesome-financial-nlp](https://github.com/icoxfog417/awesome-financial-nlp) | NEW | 2019-10-03 03:53:20 | 2020-02-01 08:28:16 | 402.0 | ✖️ |  |
+| [Buzzwords](https://github.com/swap9047/Cutting-Edge-Technologies-Effect-on-S-P500-Companies-Performance-and-Mutual-Funds) | Return performance and mutual fund selection. | 2018-02-04 21:51:16 | 2018-02-04 21:57:09 | 4.0 | ✖️ |  |
+| [FinNLP-Progress](https://github.com/YangLinyi/FinNLP-Progress) | NEW | 2020-05-21 09:59:56 | 2022-04-18 09:21:22 | 390.0 | ✖️ |  |
+| [news-emotion](https://github.com/dongyuanxin/news-emotion) | NEW | 2017-09-14 02:59:03 | 2018-06-11 13:47:51 | 331.0 | ✖️ |  |
+| [financial-news-dataset](https://github.com/philipperemy/financial-news-dataset) | NEW | 2016-08-23 13:29:07 | 2023-03-09 06:53:26 | 223.0 | ✔️ |  |
+| [FinBERT](https://github.com/psnonis/FinBERT) | NEW | 2019-07-09 16:34:27 | 2020-05-19 02:02:20 | 197.0 | ✖️ |  |
+| [Accounting Anomalies](https://github.com/GitiHubi/deepAI/blob/master/GTC_2018_Lab-solutions.ipynb) | Using deep-learning frameworks to identify accounting anomalies. | 2017-05-24 12:36:38 | 2019-08-07 21:47:08 | 196.0 | ✖️ |  |
+| [fin-sight](https://github.com/vishwasg217/fin-sight) | NEW | 2023-09-06 13:01:39 | 2024-04-22 07:21:27 | 195.0 | ✔️ |  |
+| [finsight](https://github.com/vishwasg217/finsight) | NEW | 2023-09-06 13:01:39 | 2024-04-22 07:21:27 | 189.0 | ✔️ |  |
+| [Financial Statement Sentiment](https://github.com/MAydogdu/TextualAnalysis) | Extracting sentiment from financial statements using neural networks. | 2018-06-04 20:54:14 | 2018-06-04 20:56:02 | 18.0 | ✖️ |  |
+| [BDCI2019-Negative\_Finance\_Info\_Judge](https://github.com/A-Rain/BDCI2019-Negative_Finance_Info_Judge) | NEW | 2019-12-27 03:49:31 | 2020-12-04 03:38:57 | 153.0 | ✖️ |  |
+
+Other Assets
+------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#other-assets)
+
+Derivatives and Hedging ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/derivatives_and_hedging))
+-------------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#derivatives-and-hedging-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Options](https://github.com/PHBS/2018.M1.ASP/tree/master/py) | Black Scholes and Copula. | nan | nan | nan | ✔️ |  |
+| [injective-helix-demo](https://github.com/InjectiveLabs/injective-helix-demo) | NEW | 2021-04-12 13:36:25 | 2024-07-15 17:00:25 | 99.0 | ✔️ |  |
+| [optopsy](https://github.com/michaelchu/optopsy) | NEW | 2017-09-17 01:49:54 | 2024-07-06 19:33:10 | 978.0 | ✔️ |  |
+| [akshare](https://github.com/jindaxiang/akshare) | NEW | 2019-10-01 07:34:12 | 2024-09-28 06:49:57 | 9042.0 | ✔️ |  |
+| [AlgorithmicTrading](https://github.com/JerBouma/AlgorithmicTrading) | NEW | 2019-03-14 09:33:37 | 2023-08-13 07:15:09 | 878.0 | ✔️ |  |
+| [lumibot](https://github.com/Lumiwealth/lumibot) | NEW | 2020-09-10 10:00:16 | 2024-09-27 04:30:14 | 877.0 | ✔️ |  |
+| [Strata](https://github.com/OpenGamma/Strata) | NEW | 2014-06-16 11:45:55 | 2024-08-28 16:12:28 | 842.0 | ✔️ |  |
+| [Derman](https://github.com/rstreppa/valuation-convertibles-Goldman1994/blob/master/ConvertibleBond_Goldman1994_Derman.ipynb) | Binomial tree for American call. | 2018-05-18 18:08:16 | 2018-09-21 19:59:01 | 8.0 | ✖️ |  |
+| [Options-Trading-Strategies-in-Python](https://github.com/PyPatel/Options-Trading-Strategies-in-Python) | NEW | 2017-08-30 06:00:15 | 2019-08-21 15:47:57 | 799.0 | ✖️ |  |
+| [gs-quant](https://github.com/goldmansachs/gs-quant) | NEW | 2018-12-14 21:10:40 | 2024-09-23 11:01:29 | 7582.0 | ✔️ |  |
+| [StockSharp](https://github.com/StockSharp/StockSharp) | NEW | 2014-12-08 07:53:44 | 2024-09-23 21:13:42 | 7097.0 | ✔️ |  |
+| [optlib](https://github.com/dbrojas/optlib) | NEW | 2020-08-17 00:30:14 | 2022-11-18 19:12:54 | 644.0 | ✔️ |  |
+| [algotrader](https://github.com/torreyleonard/algotrader) | NEW | 2018-04-10 02:31:26 | 2020-08-27 08:16:44 | 635.0 | ✖️ |  |
+| [trading-server](https://github.com/s-brez/trading-server) | NEW | 2019-03-05 03:06:19 | 2022-11-17 01:42:13 | 619.0 | ✔️ |  |
+| [Delta Hedging](https://github.com/RobinsonGarcia/delta-hedging) | Advanced derivatives. | 2018-03-02 23:53:53 | 2018-07-17 23:32:23 | 6.0 | ✖️ |  |
+
+Fixed Income ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/fixed_income))
+---------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#fixed-income-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Binomial Tree](https://github.com/hy-lei/math-finance-exercise) | Utility functions in fixed income securities. | 2019-02-02 08:44:14 | 2019-05-03 17:16:52 | 8.0 | ✖️ |  |
+| [Vasicek](https://github.com/RobinsonGarcia/fixed-income/blob/master/2.0%20Vasicek%20-%20example.ipynb) | Bootstrapping and interpolation. | 2018-07-18 19:26:54 | 2018-07-18 19:34:48 | 6.0 | ✖️ |  |
+| [neurons](https://github.com/Aryia-Behroziuan/neurons) | NEW | 2020-11-07 12:17:04 | 2020-11-07 12:17:06 | 55.0 | ✖️ |  |
+| [R-fixedincome](https://github.com/wilsonfreitas/R-fixedincome) | NEW | 2013-09-16 01:10:50 | 2023-06-27 08:10:20 | 51.0 | ✔️ |  |
+| [rating\_history](https://github.com/govwiki/rating_history) | NEW | 2017-11-23 22:52:14 | 2023-06-29 22:16:57 | 47.0 | ✔️ |  |
+| [TRACE-corporate-bond-processing](https://github.com/Alexander-M-Dickerson/TRACE-corporate-bond-processing) | NEW | 2020-12-18 10:20:12 | 2024-07-18 02:33:32 | 43.0 | ✔️ |  |
+| [augmented-finance-protocol](https://github.com/augmented-finance/augmented-finance-protocol) | NEW | 2021-03-27 11:01:43 | 2022-02-16 15:58:35 | 38.0 | ✖️ |  |
+| [market-data](https://github.com/kriasoft/market-data) | NEW | 2012-12-07 13:42:48 | 2012-12-15 12:10:06 | 35.0 | ✖️ |  |
+| [DROP-Fixed-Income](https://github.com/lakshmiDRIP/DROP-Fixed-Income) | NEW | 2017-08-10 20:58:18 | 2018-09-26 19:21:02 | 28.0 | ✖️ |  |
+| [woe](https://github.com/boredbird/woe) | NEW | 2017-09-11 07:15:04 | 2018-03-01 10:45:40 | 256.0 | ✖️ |  |
+| [punk.protocol](https://github.com/PunkFinance/punk.protocol) | NEW | 2021-04-29 08:39:42 | 2021-08-13 11:53:11 | 23.0 | ��️ |  |
+| [fixed-income](https://github.com/daniel-m-campos/fixed-income) | NEW | 2017-09-17 05:23:47 | 2020-12-18 01:35:41 | 21.0 | ✖️ |  |
+| [sagemaker-corporate-credit-rating](https://github.com/awslabs/sagemaker-corporate-credit-rating) | NEW | 2021-11-12 00:49:14 | 2022-12-20 17:11:03 | 20.0 | ✔️ |  |
+| [Corporate Bonds](https://github.com/ishank011/gs-quantify-bond-prediction) | Predicting the buying and selling volume of the corporate bonds. | 2017-09-27 19:57:13 | 2017-09-27 20:00:29 | 19.0 | ✖️ |  |
+| [pyratings](https://github.com/hsbc/pyratings) | NEW | 2022-03-24 14:51:59 | 2024-06-18 07:03:07 | 19.0 | ✔️ |  |
+
+Alternative Finance ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/alternative_finance))
+-----------------------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#alternative-finance-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Venture Capital NN](https://github.com/tr7200/National-Culture-and-Venture-Capital-Monitoring) | Cox-PH neural network predictions for VC/innovations finance research. | nan | nan | nan | ✔️ |  |
+| [EDMarketConnector](https://github.com/EDCD/EDMarketConnector) | NEW | 2015-06-02 19:17:34 | 2024-09-24 23:28:42 | 988.0 | ✔️ |  |
+| [yahoofinancials](https://github.com/JECSand/yahoofinancials) | NEW | 2017-10-22 03:10:57 | 2023-12-17 07:54:07 | 910.0 | ✔️ |  |
+| [Watch Valuation](https://github.com/alporter08/Luxury-Watch-Valuation/blob/master/Luxury-Watch-Valuation.ipynb) | Analysis of luxury watch data to classify whether a certain model is likely to be over-or undervalued. | 2017-02-08 18:39:29 | 2017-04-27 22:55:55 | 9.0 | ✖️ |  |
+| [Kiva Crowdfunding](https://github.com/CJL89/Kiva-Crowdfunding/blob/master/Kiva%20Crowdfunding.ipynb) | Exploratory data analysis. | 2018-02-27 16:46:02 | 2019-02-13 00:15:27 | 7.0 | ✖️ |  |
+| [Venture Capital](https://github.com/julian-chan/etothex) | Insight into a new founder to make data-driven investment decisions. | 2017-12-04 08:59:44 | 2017-12-13 05:35:27 | 7.0 | ✖️ |  |
+| [botupdate](https://github.com/botupdate/botupdate) | NEW | 2019-07-01 20:22:44 | 2020-10-29 02:31:17 | 582.0 | ✔️ |  |
+| [VC OLS](https://github.com/fionawhitefield/venture-capital-ols/blob/master/sec_project.ipynb) | VC regression. | 2018-03-29 23:31:13 | 2018-03-29 23:33:19 | 4.0 | ✖️ |  |
+| [awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) | NEW | 2022-02-05 20:48:52 | 2024-08-16 12:06:38 | 3783.0 | ✔️ |  |
+| [pitch\_deck](https://github.com/joelparkerhenderson/pitch_deck) | NEW | 2016-09-17 01:30:26 | 2024-05-16 16:23:12 | 343.0 | ✔️ |  |
+| [pitch-deck](https://github.com/joelparkerhenderson/pitch-deck) | NEW | 2016-09-17 01:30:26 | 2024-05-16 16:23:12 | 343.0 | ✔️ |  |
+| [HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) | NEW | 2023-09-15 19:29:01 | 2024-09-06 22:49:07 | 314.0 | ✔️ |  |
+| [Private Equity](https://github.com/TheVinhLuong102/ChicagoBooth-EntrepreneurialFinancePrivateEquity/blob/master/RightNow%20Technologies/RightNow%20Technologies.ipynb) | Valuation models. | 2016-01-27 21:13:33 | 2016-03-14 20:03:52 | 22.0 | ✖️ |  |
+| [Art Valuation](https://github.com/ahmedhosny/theGreenCanvas/blob/gh-pages/ImageProcessing1210.ipynb) | Art evaluation analytics. | 2014-12-11 00:25:39 | 2014-12-12 21:25:46 | 19.0 | ✖️ |  |
+| [Blockchain](https://github.com/nud3l/dInvest) | Repository for distributed autonomous investment banking. | 2016-09-05 19:12:40 | 2017-04-24 10:48:56 | 18.0 | ✖️ |  |
+
+Extended Research ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/extended_research))
+-------------------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#extended-research-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Real Estate Property Fraud](https://github.com/aviroop1/Real_Estate_Property_Fraud) | Unsupervised fraud detection model that can identify likely candidates of fraud. | nan | nan | nan | ✔️ |  |
+| [Commodity](https://github.com/felipessalvatore/fin2vec/blob/master/src/Commodity2BR.ipynb) | Commodity influence over Brazilian stocks. | nan | nan | nan | ✔️ |  |
+| [HFT-Orderbook](https://github.com/Crypto-toolbox/HFT-Orderbook) | NEW | 2017-07-26 08:42:19 | 2022-02-18 20:01:44 | 991.0 | ✖️ |  |
+| [Awesome-AI-for-cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) | NEW | 2021-09-20 04:44:45 | 2023-10-03 14:25:10 | 98.0 | ✔️ |  |
+| [crypto-database](https://github.com/ivopetiz/crypto-database) | NEW | 2018-02-22 21:34:11 | 2019-10-04 13:06:18 | 98.0 | ✖️ |  |
+| [Mathematical Finance](https://github.com/Auquan/Tutorials) | Notebooks for math and financial tutorials. | 2017-01-21 11:24:18 | 2020-08-01 17:03:32 | 974.0 | ✖️ |  |
+| [VPIN\_HFT](https://github.com/theopenstreet/VPIN_HFT) | NEW | 2017-12-12 15:29:33 | 2017-12-12 17:32:54 | 97.0 | ✖️ |  |
+| [freqtrade\_bot](https://github.com/michael-fourie/freqtrade_bot) | NEW | 2020-12-21 00:14:25 | 2021-01-07 19:52:54 | 96.0 | ✖️ |  |
+| [BERT4ETH](https://github.com/git-disl/BERT4ETH) | NEW | 2023-02-05 20:36:20 | 2024-06-21 17:45:01 | 96.0 | ✔️ |  |
+| [PythonMatchingEngine](https://github.com/Surbeivol/PythonMatchingEngine) | NEW | 2019-05-16 12:06:21 | 2021-12-30 10:17:35 | 95.0 | ✖️ |  |
+| [LSTM-FX](https://github.com/AdamTibi/LSTM-FX) | NEW | 2020-09-29 21:30:20 | 2020-09-29 23:15:18 | 95.0 | ✖️ |  |
+| [go-quantcup](https://github.com/rdingwall/go-quantcup) | NEW | 2015-02-04 10:33:12 | 2015-06-11 12:50:09 | 94.0 | ✖️ |  |
+| [Quant-Developers-Resources](https://github.com/cybergeekgyan/Quant-Developers-Resources) | NEW | 2023-10-16 18:04:31 | 2024-07-28 08:06:18 | 94.0 | ✔️ |  |
+| [FraudDetection-Microservices](https://github.com/melofred/FraudDetection-Microservices) | NEW | 2016-06-08 23:24:21 | 2017-01-18 17:52:01 | 93.0 | ✖️ |  |
+| [HFT-Pairs-Trading](https://github.com/sapphire921/HFT-Pairs-Trading) | NEW | 2018-05-03 22:36:16 | 2019-02-27 17:41:22 | 93.0 | ✖️ |  |
+
+Courses ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/courses))
+-----------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#courses-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) | NEW | 2017-02-27 08:32:20 | 2024-08-25 08:08:31 | 9695.0 | ✔️ |  |
+| [datascience-box](https://github.com/rstudio-education/datascience-box) | NEW | 2017-12-29 22:16:17 | 2024-08-15 22:45:51 | 956.0 | ✔️ |  |
+| [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) | NEW | 2020-04-17 04:29:23 | 2024-09-24 09:02:07 | 9337.0 | ✔️ |  |
+| [datasci\_course\_materials](https://github.com/uwescience/datasci_course_materials) | NEW | 2013-04-12 05:54:36 | 2017-03-21 19:21:02 | 918.0 | ✖️ |  |
+| [ml-mipt](https://github.com/girafe-ai/ml-mipt) | NEW | 2022-09-01 16:16:05 | 2022-09-02 08:44:48 | 9.0 | ✖️ |  |
+| [ciml](https://github.com/hal3/ciml) | NEW | 2015-08-12 19:26:00 | 2017-01-20 16:24:19 | 888.0 | ✖️ |  |
+| [cornell-cs5785-applied-ml](https://github.com/kuleshov/cornell-cs5785-applied-ml) | NEW | 2021-03-26 06:33:58 | 2021-09-02 00:34:55 | 874.0 | ✖️ |  |
+| [ml-course-msu](https://github.com/esokolov/ml-course-msu) | NEW | 2015-09-11 08:51:24 | 2018-05-07 15:40:56 | 871.0 | ✖️ |  |
+| [Octave](https://github.com/schneems/Octave) | NEW | 2011-10-24 23:50:52 | 2016-07-08 20:45:40 | 824.0 | ✖️ |  |
+| [machine\_learning\_with\_python\_jadi](https://github.com/jadijadi/machine_learning_with_python_jadi) | NEW | 2021-09-20 08:19:48 | 2024-08-16 05:12:53 | 801.0 | ✔️ |  |
+| [DAT4](https://github.com/justmarkham/DAT4) | NEW | 2014-12-10 19:38:29 | 2021-02-15 23:26:27 | 794.0 | ✖️ |  |
+| [deploying-machine-learning-models](https://github.com/trainindata/deploying-machine-learning-models) | NEW | 2019-01-09 20:30:46 | 2023-04-19 17:15:38 | 790.0 | ✔️ |  |
+| [Algo Trading](https://github.com/JCreeks/Machine-Learning-in-Finance/tree/master/0_Intro_to_Algo_Trading) | Intro to algo trading. | 2017-10-29 20:34:54 | 2019-01-22 06:56:08 | 79.0 | ✖️ |  |
+| [master](https://github.com/ML-course/master) | NEW | 2017-02-04 22:44:35 | 2024-04-01 10:09:20 | 784.0 | ✔️ |  |
+| [DataScienceSpCourseNotes](https://github.com/sux13/DataScienceSpCourseNotes) | NEW | 2015-03-09 00:51:32 | 2016-02-16 06:12:54 | 764.0 | ✖️ |  |
+
+Data ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/data))
+-----------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#data-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Tools-termux](https://github.com/Taoviqinvicible/Tools-termux) | NEW | nan | nan | nan | ✔️ |  |
+| [Rating Industries](http://www.ratingshistory.info/) | nan | nan | nan | nan | ✔️ |  |
+| [http://finance.yahoo.com/](http://finance.yahoo.com/) | nan | nan | nan | nan | ✔️ |  |
+| [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/) | nan | nan | nan | nan | ✔️ |  |
+| [https://stooq.com](https://stooq.com/) | nan | nan | nan | nan | ✔️ |  |
+| [Capital Markets Data](https://www.capitalmarketsdata.com/) | nan | nan | nan | nan | ✔️ |  |
+| [Financial Corporate](http://raw.rutgers.edu/Corporate%20Financial%20Data.html) | nan | nan | nan | nan | ✔️ |  |
+| [IRS](http://social-metrics.org/sox/) | nan | nan | nan | nan | ✔️ |  |
+| [Non-financial Corporate](http://raw.rutgers.edu/Non-Financial%20Corporate%20Data.html) | nan | nan | nan | nan | ✔️ |  |
+| [redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) | NEW | nan | nan | nan | ✔️ |  |
+| [PyPOTS](https://github.com/WenjieDu/PyPOTS) | NEW | 2022-03-29 14:22:47 | 2024-09-26 17:17:28 | 997.0 | ✔️ |  |
+| [aeon](https://github.com/aeon-toolkit/aeon) | NEW | 2022-12-20 12:44:09 | 2024-09-27 18:03:06 | 976.0 | ✔️ |  |
+| [hypercube](https://github.com/hypercube-lab/hypercube) | NEW | 2021-09-08 06:47:07 | 2021-10-14 13:44:17 | 975.0 | ✖️ |  |
+| [Deedle](https://github.com/fslaborg/Deedle) | NEW | 2013-09-17 18:53:34 | 2023-01-17 21:18:55 | 937.0 | ✔️ |  |
+| [BitcoinExchangeFH](https://github.com/BitcoinExchangeFH/BitcoinExchangeFH) | NEW | 2016-10-24 13:30:31 | 2022-12-28 17:07:41 | 936.0 | ✔️ |  |
+
+Colleges, Centers and Departments ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/colleges_centers_and_departments))
+--------------------------------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/firmai/financial-machine-learning?screenshot=true#colleges-centers-and-departments-wiki)
+
+| repo | comment | created\_at | last\_commit | star\_count | repo\_status | rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| [NYU FRE](https://engineering.nyu.edu/academics/departments/finance-and-risk-engineering) | Finance and Risk Engineering (NYU Tandon) | nan | nan | nan | ✔️ |  |
+| [Oxford Man](https://www.oxford-man.ox.ac.uk/) | Oxford-Man Institute of Quantitative Finance | nan | nan | nan | ✔️ |  |
+| [Berkeley Lab CIFT](https://cs.lbl.gov/news-media/news/news-archive/2010/berkeley-lab-launches-new-center-for-innovative-financial-technology/) | nan | nan | nan | nan | ✔️ |  |
+| [Cornell University](https://www.cornell.edu/) | nan | nan | nan | nan | ✔️ |  |
+| [NYU Courant](https://cims.nyu.edu/) | Courant Institute of Mathematical Sciences, New York University | nan | nan | nan | ✔️ |  |
+| [Stanford Advanced Financial Technologies](https://fintech.stanford.edu/) | Stanford Advanced Financial Technologies Laboratory | nan | nan | nan | ✔️ |  |

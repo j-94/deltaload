@@ -1,0 +1,1 @@
+[Sign in](https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fvespa-engine%2Fpyvespa%2Fblob%2Fmaster%2Fdocs%2Fsphinx%2Fsource%2Fexamples%2Fturbocharge-rag-with-langchain-and-vespa-streaming-mode-cloud.ipynb&ec=GAZAqQM)

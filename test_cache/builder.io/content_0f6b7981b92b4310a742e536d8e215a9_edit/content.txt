@@ -1,0 +1,14 @@
+![Image 10: Builder.io logo](https://cdn.builder.io/static/media/builder-logo.bff0faae.png)
+
+Create an account
+-----------------
+
+Already have an account? [Log in](https://builder.io/login?activeDesignerTab=0)
+
+![Image 11](https://cdn.builder.io/api/v1/image/assets%2F91433a8232dc4a16bee10e691e6fcc2d%2F556da7a658054bcba3d1539b9cd89fcc)
+
+Or, sign up with your email
+
+Work email \*
+
+By creating an account, I agree to Builder's [terms of service](https://builder.io/docs/terms) and [privacy policy](https://builder.io/docs/privacy)

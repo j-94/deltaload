@@ -1,0 +1,187 @@
+As ChatGPT’s popularity continues to soar, there’s a growing demand for efficient and versatile tools to interact with it. While graphical user interfaces (GUIs) offer a user-friendly experience, Command Line Interfaces (CLIs) provides a more flexible and powerful alternative for developers, power users, and professionals. CLI tools can help streamline workflows, automate tasks, and integrate ChatGPT into various applications and systems.
+
+Recognizing this need, we’ve compiled a comprehensive list of the 10 best tools to interact with ChatGPT in CLI. Whether you’re a developer looking to incorporate ChatGPT into your project, a researcher seeking to explore the model’s capabilities, or an end-user who prefers the simplicity and control of a command-line environment, this article has you covered. Keep Reading.
+
+> Subscribe to our newsletter and get the top 10 AI tools and apps delivered straight to your inbox. [Subscribe now](https://curatedaitools.substack.com/)!
+
+What Is Command Line Interface
+------------------------------
+
+![Image 39: Command Line Interface](https://www.scriptbyai.com/wp-content/uploads/2023/04/Command-Line-Interface.webp)
+
+A Command Line Interface (CLI) is a text-based interface that allows users to interact with a computer program or operating system by entering commands in the form of text lines. CLI tools typically offer a minimalistic interface, focusing on functionality and performance rather than visual design. Users can execute commands by typing them directly into the command prompt or terminal window, often followed by relevant parameters or arguments.
+
+while graphical user interfaces (GUIs) offer a more visually appealing and user-friendly experience, Command Line Interfaces (CLIs) provide a range of advantages that can make them a more suitable choice for professionals and power users working with ChatGPT. By offering increased speed, efficiency, automation capabilities, customization options, resource efficiency, and cross-platform compatibility, CLI tools enable users to unlock the full potential of conversational AI models like ChatGPT.
+
+> **See Also:** [Feature-rich AI-powered Terminal Assistant – Yai](https://www.scriptbyai.com/ai-terminal-assistant/)
+
+Having explored the advantages of using Command Line Interfaces (CLI) when working with ChatGPT, it’s time to introduce you to the 10 best tools that cater to this powerful combination. The following list has been carefully curated to present a diverse range of CLI tools, each with their unique features and benefits. Let’s get started.
+
+##### 1\. [AI Commits](https://github.com/Nutlope/aicommits)
+
+![Image 40: AI Commits](https://www.scriptbyai.com/wp-content/uploads/2023/04/AI-Commits.webp)
+
+An open-source CLI tool that enables developers to create meaningful, clear, and concise commit messages using ChatGPT. It allows developers to focus on coding while maintaining high-quality documentation for their projects.
+
+To use Ai Commits, users simply need to follow the installation instructions provided in the Github repository, install the necessary dependencies, and run the tool via their command line or terminal. Once set up, It can be easily integrated into the user’s workflow, generating AI-driven commit messages on demand to improve the overall development process.
+
+* * *
+
+##### 2\. [Shell GPT](https://github.com/TheR1D/shell_gpt)
+
+![Image 41: Shell GPT](https://www.scriptbyai.com/wp-content/uploads/2023/04/Shell-GPT.webp)
+
+Shell GPT  is a productivity tool that provides users with a straightforward method for generating content (shell commands, code snippets, comments, documentation, etc) using ChatGPT.
+
+To start with Shell GPT, users must install dependencies and set up the required API keys. Once installed, users can run the tool via the command line or terminal and input their desired prompts. The tool then interacts with ChatGPT and returns the generated text.
+
+* * *
+
+##### 3\. [AIChat](https://github.com/sigoden/aichat)
+
+![Image 42: AIChat](https://www.scriptbyai.com/wp-content/uploads/2023/04/AIChat.webp)
+
+An easy yet powerful CLI tool to Use ChatGPT/GPT-3.5/GPT-4 in the terminal.
+
+**Features:**
+
+*   Support chat and command modes
+*   Predefine AI roles
+*   Use GPT prompt easily
+*   Powerful Chat REPL
+*   Context-ware conversation
+*   syntax highlighting markdown and other 200 languages
+*   Stream output with hand typing effect
+*   Support multiple models
+*   Support proxy
+*   Support dark/light theme
+*   Save chat messages
+
+* * *
+
+##### 4\. [Promptr](https://github.com/ferrislucas/promptr)
+
+![Image 43: Promptr](https://www.scriptbyai.com/wp-content/uploads/2023/04/Promptr.webp)
+
+A CLI tool for operating on your codebase using GPT. Promptr dynamically includes one or more files into your GPT prompts, and it can optionally parse and apply the changes that GPT suggests to your codebase. Several prompt templates are included for various purposes, and users can create them.
+
+**Features:**
+
+*   **Dynamic File Inclusion:** Promptr allows users to include one or more files into GPT prompts, intelligently parsing and applying the changes suggested by GPT to the codebase.
+*   **Customizable Prompt Templates:** Promptr has several pre-built prompt templates for different use cases. Users can also create their own templates to suit their specific requirements.
+*   **Code Refactoring Assistance:** With Promptr, users can ask GPT to refactor their codebase. The tool handles passing the codebase and prompt to GPT, then parses and applies the recommended changes to the codebase.
+*   **Test-First Development Support:** Promptr can update a class to pass a given set of unit tests. The tool manages the communication with GPT to create or update a class implementation, ensuring the tests pass and subsequently update the codebase.
+*   **Recursive Prompts Automation:** Promptr enables users to automate recursive prompts by piping model output into a file and then using the contents of that file as a new prompt for GPT.
+*   **Experimentation and Flexibility:** Born as an experimentation tool for language models, Promptr offers interactive and dry run modes, as well as a templating system that exposes the files passed to it. This allows users to employ file names and contents in their own prompts as needed.
+
+* * *
+
+##### 5\. [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli)
+
+![Image 44: chatGPT-shell-cli](https://www.scriptbyai.com/wp-content/uploads/2023/04/chatGPT-shell-cli.webp)
+
+chatGPT-shell-cli is a simple, lightweight shell script designed to facilitate interactions with OpenAI’s ChatGPT and DALL-E directly from the terminal, eliminating the need for Python or Node.js installations.
+
+**Features:**
+
+*   **Official ChatGPT API Interaction:** Chat with the official ChatGPT API from the terminal, providing a streamlined interface for leveraging the power of OpenAI’s language models.
+*   **Image Generation:** Generate images from text prompts using the images/generations endpoint, enabling seamless access to DALL-E functionalities.
+*   **Chat History:** View your chat history, allowing users to reference previous conversations and maintain context throughout interactions.
+*   **Chat Context:** GPT retains the context of previous chat questions and answers, ensuring a coherent and meaningful conversational experience.
+*   **Flexible Input Prompts:** Pass input prompts using various methods, such as pipe, script parameter, or normal chat mode, catering to individual user preferences.
+*   **Model Listing:** List all available OpenAI models, enabling users to choose the most suitable model for their specific use case.
+*   **Customizable Request Parameters:** Set OpenAI request parameters to tailor interactions with the API according to user requirements.
+*   **Command Generation and Execution:** Generate commands and run them directly in the terminal, streamlining the workflow for developers and AI enthusiasts.
+
+* * *
+
+##### 6\. [GPT-4 with Search](https://github.com/andylokandy/gpt-4-search)
+
+![Image 45: GPT-4 with Search](https://www.scriptbyai.com/wp-content/uploads/2023/04/GPT-4-with-Search.webp)
+
+GPT-4 with Search is a command-line GPT-4 REPL tool that integrates Google search capabilities to provide users with the latest information while interacting with the language model. By showcasing the implementation of a plugin system in GPT-4, this tool offers a unique approach to enhancing language model interactions.
+
+**Features:**
+
+*   **Plugin System Integration:** GPT-4 with Search demonstrates the integration of a plugin system into a large language model like GPT-4, paving the way for future improvements and customizations in language model interactions.
+*   **Available Plugin Listing:** The tool starts by presenting a list of available plugins for GPT-4, offering users an array of choices to tailor their experience.
+*   **Merged User Prompt:** The list of plugins is merged with the user prompt and sent to GPT-4 for processing, ensuring seamless communication with the language model.
+*   **Plugin Call Detection:** GPT-4 with Search intelligently analyzes the output to identify any plugin calls, executing the plugin if a call is detected.
+*   **Dynamic Message Context:** The result of the plugin execution is added to the message context and sent back to GPT-4 for further processing, creating a responsive and dynamic conversational flow.
+*   **Continuous Interaction:** The cycle of processing and plugin call execution continues until GPT-4 returns a response without any plugin calls, ensuring a comprehensive and coherent interaction.
+
+* * *
+
+##### 7\. [gptcli](https://github.com/evilpan/gptcli)
+
+![Image 46: gptcli](https://www.scriptbyai.com/wp-content/uploads/2023/04/gptcli.webp)
+
+A versatile command-line tool designed to interact with ChatGPT using the OpenAI API for both GPT-3.5 and GPT-4 models.
+
+**Features:**
+
+*   **Single Python Script:** gptcli is designed as a single Python script, making it easy to install, set up, and use without additional dependencies.
+*   **Session-Based Interactions:** This tool supports session-based interactions, allowing for more coherent and context-aware conversations with ChatGPT.
+*   **Markdown Support:** gptcli offers markdown support with code syntax highlighting, ensuring that output is both readable and visually appealing.
+*   **Stream Output Support:** The tool provides stream output support, allowing users to view ChatGPT’s responses in real-time as they are generated.
+*   **Proxy Support:** gptcli is compatible with various proxy types, including HTTP, HTTPS, SOCKS4A, and SOCKS5, ensuring secure and private communication with the OpenAI API.
+*   **Multiline Input Support:** Users can submit multiline input to ChatGPT using the .multiline command, enhancing the conversational experience.
+*   **Save and Load Sessions:** With gptcli, users can save and load sessions from file in both Markdown and JSON formats using the .save and .load commands. This feature allows for easy retrieval and continuation of previous conversations.
+
+* * *
+
+##### 8\. [GPTerminator](https://github.com/AineeJames/ChatGPTerminator)
+
+![Image 47: GPTerminator](https://www.scriptbyai.com/wp-content/uploads/2023/04/GPTerminator.webp)
+
+A user-friendly CLI tool designed to facilitate seamless interactions with OpenAI’s ChatGPT API. Boasting a range of features, including chat completion, image generation with Dalle, and easy code and text copying.
+
+* * *
+
+##### 9\. [Ask the Terminal Anything](https://github.com/rikhuijzer/ata)
+
+![Image 48: Ask the Terminal Anything](https://www.scriptbyai.com/wp-content/uploads/2023/04/Ask-the-Terminal-Anything.webp)
+
+Ask the Terminal Anything (ATA) is a lightweight and resource-efficient tool designed to interact with ChatGPT directly from the terminal. Featuring fast startup times and a range of keyboard shortcuts, ATA offers a smooth and responsive user experience for developers and AI enthusiasts who prefer a CLI-based workflow while working with ChatGPT.
+
+**Features:**
+
+*   **Quick Startup:** ATA starts faster and requires fewer resources compared to browser-based solutions, delivering a more efficient interaction with ChatGPT.
+*   **Keyboard Shortcuts:** Users can benefit from a range of keyboard shortcuts for quick interaction with the query, such as CTRL + c to cancel the stream, CTRL + ↑ to retrieve the previous query, and CTRL + w to remove the last word.
+*   **Background Terminal Mode:** ATA can be set to run in the background and toggled with a single keypress using iTerm2 (Mac), Guake (Ubuntu), scratchpad (i3/sway), or the quake mode for the Windows Terminal.
+*   **Reproducible Prompts:** ATA sends each prompt as a stand-alone request without history, ensuring reproducibility and allowing users to tweak the prompts by pressing CTRL + ↑ and making changes.
+
+* * *
+
+##### 10\. [Autopilot](https://github.com/fjrdomingues/autopilot)
+
+![Image 49: Autopilot](https://www.scriptbyai.com/wp-content/uploads/2023/04/Autopilot.webp)
+
+An AI-driven tool that leverages GPT to read and understand a codebase, create context, and efficiently solve tasks requested by the user.
+
+**Features:**
+
+*   **Codebase Summarization:** Autopilot reads relevant files in the project, creates summaries using the GPT AI API, and saves these summaries with a .ai.txt extension for later use.
+*   **File Extension Selection:** Users can choose which file extensions they want Autopilot to process, ensuring only relevant files are summarized.
+*   **Continuous Updating:** Autopilot features a watcher that continuously updates modified files, keeping the summaries up to date.
+*   **Task-based UI Script:** The UI script takes into account the specified TASK and retrieves all summary files (.ai.txt), using GPT to identify relevant files for the task.
+*   **Context Generation:** Autopilot retrieves the source code of each relevant file and sends it to GPT to obtain the necessary context.
+*   **Temporary Output Saving:** The tool temporarily saves the output of each file, ensuring no data is lost in the process.
+*   **Task Completion Request:** Autopilot sends the saved output to GPT and requests the required changes to complete the TASK.
+*   **Suggestion and Source Code Output:** The tool generates a .md file containing suggestions to accomplish the TASK, along with the source code that can be used.
+
+* * *
+
+Conclusion:
+-----------
+
+In this article, we’ve introduced the 10 best tools to interact with ChatGPT in CLI, which will enable you to fully harness the capabilities of ChatGPT, streamline your workflows, and unlock new opportunities in the dynamic and ever-evolving field of conversational AI.
+
+We encourage you to explore and experiment with the different tools presented in this article. Each tool has its strengths and unique aspects, and by trying them out, you’ll be able to identify the one that works best for your specific needs and requirements.
+
+See Also:
+---------
+
+*   [10 Best ChatGPT Browser Extensions For Enhanced Search And Browsing](https://www.scriptbyai.com/best-chatgpt-browser-extensions/)
+*   [7 Best ChatGPT Bots For Telegram](https://www.scriptbyai.com/best-chatgpt-bots-telegram/)
+*   Discover more ChatGPT CLI tools on [ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources#cli)

@@ -1,0 +1,216 @@
+Automatically generating object masks with HQ-SAM[¶](https://samgeo.gishub.org/examples/automatic_mask_generator_hq/#automatically-generating-object-masks-with-hq-sam)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Image 7: image](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/opengeos/segment-geospatial/blob/main/docs/examples/automatic_mask_generator_hq.ipynb) [![Image 8: image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/segment-geospatial/blob/main/docs/examples/automatic_mask_generator_hq.ipynb)
+
+This notebook shows how to segment objects from an image using the High-Quality Segment Anything Model ([HQ-SAM](https://github.com/SysCV/sam-hq)) with a few lines of code.
+
+Install dependencies[¶](https://samgeo.gishub.org/examples/automatic_mask_generator_hq/#install-dependencies)
+-------------------------------------------------------------------------------------------------------------
+
+Uncomment and run the following cell to install the required dependencies.
+
+In \[ \]:
+
+\# %pip install segment-geospatial
+
+\# %pip install segment-geospatial
+
+In \[ \]:
+
+import os
+import leafmap
+from samgeo.hq\_sam import (
+    SamGeo,
+    show\_image,
+    download\_file,
+    overlay\_images,
+    tms\_to\_geotiff,
+)
+
+import os import leafmap from samgeo.hq\_sam import ( SamGeo, show\_image, download\_file, overlay\_images, tms\_to\_geotiff, )
+
+Create an interactive map[¶](https://samgeo.gishub.org/examples/automatic_mask_generator_hq/#create-an-interactive-map)
+-----------------------------------------------------------------------------------------------------------------------
+
+In \[ \]:
+
+m \= leafmap.Map(center\=\[37.8713, \-122.2580\], zoom\=17, height\="800px")
+m.add\_basemap("SATELLITE")
+m
+
+m = leafmap.Map(center=\[37.8713, -122.2580\], zoom=17, height="800px") m.add\_basemap("SATELLITE") m
+
+Pan and zoom the map to select the area of interest. Use the draw tools to draw a polygon or rectangle on the map
+
+In \[ \]:
+
+if m.user\_roi\_bounds() is not None:
+    bbox \= m.user\_roi\_bounds()
+else:
+    bbox \= \[\-122.2659, 37.8682, \-122.2521, 37.8741\]
+
+if m.user\_roi\_bounds() is not None: bbox = m.user\_roi\_bounds() else: bbox = \[-122.2659, 37.8682, -122.2521, 37.8741\]
+
+Download a sample image[¶](https://samgeo.gishub.org/examples/automatic_mask_generator_hq/#download-a-sample-image)
+-------------------------------------------------------------------------------------------------------------------
+
+In \[ \]:
+
+image \= "satellite.tif"
+tms\_to\_geotiff(output\=image, bbox\=bbox, zoom\=17, source\="Satellite", overwrite\=True)
+
+image = "satellite.tif" tms\_to\_geotiff(output=image, bbox=bbox, zoom=17, source="Satellite", overwrite=True)
+
+You can also use your own image. Uncomment and run the following cell to use your own image.
+
+In \[ \]:
+
+\# image = '/path/to/your/own/image.tif'
+
+\# image = '/path/to/your/own/image.tif'
+
+Display the downloaded image on the map.
+
+In \[ \]:
+
+m.layers\[\-1\].visible \= False
+m.add\_raster(image, layer\_name\="Image")
+m
+
+m.layers\[-1\].visible = False m.add\_raster(image, layer\_name="Image") m
+
+Initialize SAM class[¶](https://samgeo.gishub.org/examples/automatic_mask_generator_hq/#initialize-sam-class)
+-------------------------------------------------------------------------------------------------------------
+
+Specify the file path to the model checkpoint. If it is not specified, the model will to downloaded to the working directory.
+
+In \[ \]:
+
+sam \= SamGeo(
+    model\_type\="vit\_h",  \# can be vit\_h, vit\_b, vit\_l, vit\_tiny
+    sam\_kwargs\=None,
+)
+
+sam = SamGeo( model\_type="vit\_h", # can be vit\_h, vit\_b, vit\_l, vit\_tiny sam\_kwargs=None, )
+
+Automatic mask generation[¶](https://samgeo.gishub.org/examples/automatic_mask_generator_hq/#automatic-mask-generation)
+-----------------------------------------------------------------------------------------------------------------------
+
+Segment the image and save the results to a GeoTIFF file. Set `unique=True` to assign a unique ID to each object.
+
+In \[ \]:
+
+sam.generate(image, output\="masks.tif", foreground\=True, unique\=True)
+
+sam.generate(image, output="masks.tif", foreground=True, unique=True)
+
+In \[ \]:
+
+sam.show\_masks(cmap\="binary\_r")
+
+sam.show\_masks(cmap="binary\_r")
+
+Show the object annotations (objects with random color) on the map.
+
+In \[ \]:
+
+sam.show\_anns(axis\="off", alpha\=1, output\="annotations.tif")
+
+sam.show\_anns(axis="off", alpha=1, output="annotations.tif")
+
+Compare images with a slider.
+
+In \[ \]:
+
+leafmap.image\_comparison(
+    "satellite.tif",
+    "annotations.tif",
+    label1\="Satellite Image",
+    label2\="Image Segmentation",
+)
+
+leafmap.image\_comparison( "satellite.tif", "annotations.tif", label1="Satellite Image", label2="Image Segmentation", )
+
+In \[ \]:
+
+m.add\_raster("annotations.tif", alpha\=0.5, layer\_name\="Masks")
+m
+
+m.add\_raster("annotations.tif", alpha=0.5, layer\_name="Masks") m
+
+Convert the object annotations to vector format, such as GeoPackage, Shapefile, or GeoJSON.
+
+In \[ \]:
+
+sam.tiff\_to\_vector("masks.tif", "masks.gpkg")
+
+sam.tiff\_to\_vector("masks.tif", "masks.gpkg")
+
+Automatic mask generation options[¶](https://samgeo.gishub.org/examples/automatic_mask_generator_hq/#automatic-mask-generation-options)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+There are several tunable parameters in automatic mask generation that control how densely points are sampled and what the thresholds are for removing low quality or duplicate masks. Additionally, generation can be automatically run on crops of the image to get improved performance on smaller objects, and post-processing can remove stray pixels and holes. Here is an example configuration that samples more masks:
+
+In \[ \]:
+
+sam\_kwargs \= {
+    "points\_per\_side": 32,
+    "pred\_iou\_thresh": 0.86,
+    "stability\_score\_thresh": 0.92,
+    "crop\_n\_layers": 1,
+    "crop\_n\_points\_downscale\_factor": 2,
+    "min\_mask\_region\_area": 100,
+}
+
+sam\_kwargs = { "points\_per\_side": 32, "pred\_iou\_thresh": 0.86, "stability\_score\_thresh": 0.92, "crop\_n\_layers": 1, "crop\_n\_points\_downscale\_factor": 2, "min\_mask\_region\_area": 100, }
+
+In \[ \]:
+
+sam \= SamGeo(
+    model\_type\="vit\_h",
+    sam\_kwargs\=sam\_kwargs,
+)
+
+sam = SamGeo( model\_type="vit\_h", sam\_kwargs=sam\_kwargs, )
+
+In \[ \]:
+
+sam.generate(image, output\="masks2.tif", foreground\=True)
+
+sam.generate(image, output="masks2.tif", foreground=True)
+
+In \[ \]:
+
+sam.show\_masks(cmap\="binary\_r")
+
+sam.show\_masks(cmap="binary\_r")
+
+In \[ \]:
+
+sam.show\_anns(axis\="off", opacity\=1, output\="annotations2.tif")
+
+sam.show\_anns(axis="off", opacity=1, output="annotations2.tif")
+
+Compare images with a slider.
+
+In \[ \]:
+
+leafmap.image\_comparison(
+    image,
+    "annotations.tif",
+    label1\="Image",
+    label2\="Image Segmentation",
+)
+
+leafmap.image\_comparison( image, "annotations.tif", label1="Image", label2="Image Segmentation", )
+
+Overlay the annotations on the image and use the slider to change the opacity interactively.
+
+In \[ \]:
+
+overlay\_images(image, "annotations2.tif", backend\="TkAgg")
+
+overlay\_images(image, "annotations2.tif", backend="TkAgg")
+
+![Image 9](https://i.imgur.com/I1IhDgz.gif)

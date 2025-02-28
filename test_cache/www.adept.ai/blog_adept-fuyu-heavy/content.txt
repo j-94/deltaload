@@ -1,0 +1,196 @@
+January 24, 2024 — Adept Team
+
+Adept Fuyu-Heavy is a new multimodal model designed specifically for digital agents.
+
+We’re excited to introduce Adept Fuyu-Heavy, a new multimodal model designed specifically for digital agents. Fuyu-Heavy is the world’s third-most-capable multimodal model, behind only GPT4-V and Gemini Ultra, which are 10-20 times bigger. We’re excited about this model because:
+
+*   It excels at multimodal reasoning. To us the killer feature is UI understanding, but it also performs well on more traditional multimodal benchmarks. In particular, Fuyu-Heavy scores higher on the MMMU benchmark than even Gemini Pro.
+*   On standard text-based benchmarks, it matches or exceeds the performance of models in the same compute class despite having to devote some of its capacity to image modeling.
+*   It demonstrates that (with some modifications) we can scale up the [Fuyu architecture](https://www.adept.ai/blog/fuyu-8b) and reap all of the associated benefits, including handling arbitrary size/shape images and efficiently re-using existing transformer optimizations.
+
+Below we’ve included two sample model interactions. The first is a video of Fuyu-Heavy’s UI understanding capabilities. The second is a sample response on the MMMU benchmark. Read on for further details.
+
+### Prompt
+
+According to the table below, which food is the most likely cause of the outbreak of food poisoning:
+
+![Image 20](https://www.adept.ai/images/blog/fuyu-heavy/food_poisoning.png)
+
+A. Cold chicken  
+B. Potato salad  
+C. Egg sandwiches  
+D. Fruit pie and cream
+
+### Adept
+
+The table shows the number of people who ate different foods and the number of people who ate those foods and got sick. To determine which food is most likely the cause of the outbreak of food poisoning, we’re looking for the food with the highest percentage of people who ate that food and got sick.
+
+Let’s calculate the percentage of people who ate each food and got sick:
+
+*   Cold chicken: 34 / 86 = 0.395, which is 39.5%
+*   Potato salad: 38 / 54 = 0.704, which is 70.4%
+*   Egg sandwiches: 40 / 76 = 0.526, which is 52.6%
+*   Fruit pie and cream: 12 / 32 = 0.375, which is 37.5%
+*   Cheese: 12 / 48 = 0.25, which is 25%
+
+The food with the highest percentage of people who ate that food and got sick is potato salad, with 70.4%. Therefore, potato salad is the most likely cause of the outbreak of food poisoning.
+
+Answer: B
+
+How we got here
+---------------
+
+Adept’s goal is to build Useful General Intelligence. In order to accomplish this goal, we first had to:
+
+*   Connect our agents to the digital world (see [ACT-1](https://www.adept.ai/blog/act-1))
+*   Build robust tooling for training, evaluation, inference, and data collection
+*   Establish a foundational model design that would scale to meet our needs (see [Fuyu-8B](https://www.adept.ai/blog/fuyu-8b))
+
+This fall, we were satisfied that we’d accomplished these goals and that it was time to scale up the Fuyu architecture. This wasn’t easy — in addition to the standard hiccups with model scaling, we had to deal with the extra problems associated with training a new architecture on both text and image data. In particular:
+
+*   Image data stresses systems — keeping the model fed with data becomes harder, memory usage blows up, cloud storage ingress/egress becomes limiting; even handling image formats/coordinates consistently between training and inference is tricky
+    
+*   Image models are famously unstable (see [this great paper](https://arxiv.org/abs/2302.05442)) — we’ve tweaked the Fuyu architecture and training procedure substantially to deal with this
+    
+*   Finally, high-quality image pre-training data is scarce, we’ve devoted a lot of effort to collecting, curating, and even creating this data. There’s also a delicate balance between text and image tasks — we had to develop recipes for striking this balance at scale
+    
+
+Over the last 4 months, we’ve tackled all these problems and more. Fuyu-Heavy will shortly be powering our enterprise product. We’ve already applied lessons learned from Fuyu-Heavy to train its successor.
+
+Evals
+-----
+
+Although our ultimate goal is to build useful digital agents, and we internally benchmark our models with this standard in mind, it’s important for us to sanity-check our progress against commonly used benchmarks as well. According to these benchmarks, Fuyu-Heavy is the strongest multimodal model trained outside of Google or OpenAI.
+
+Despite the trade-off between language modeling performance and multimodal performance, Fuyu-Heavy performs roughly on par with Gemini Pro on standard text-only evaluations, outperforming it on the commonly used MMLU benchmark. Inflection-2 has stronger performance on some of these text evals, but it’s a much larger model. For all of these evals, we used the standard number of shots in the few-shot prompting regime.
+
+|  | MMLU | GSM8K | MATH | HumanEval |
+| --- | --- | --- | --- | --- |
+| Adept Fuyu-Heavy | 72.1 | 82.9 | 29.5 | 58.0 |
+| Gemini Pro | 71.8 | 86.5 (Maj1@32) | 32.6 | 67.7 |
+| Inflection-2 | 79.6 | 81.4 | 34.8 | 44.5 |
+| Grok-1 | 73 | 62.9 | 23.9 | 63.2 |
+
+It’s also become common to benchmark the ability of models to have long-form conversations. To do this, we put Fuyu-Heavy through a supervised finetuning stage followed by a direct preference optimization (DPO) stage on publicly available chat data. We use the two most commonly used chat evaluations — [MT-Bench](https://huggingface.co/spaces/lmsys/mt-bench) and [AlpacaEval 1.0](https://github.com/tatsu-lab/alpaca_eval). Fuyu-Heavy Chat performs comparably to Claude 2.0 despite being a smaller model and having to use some of its capacity to model images.
+
+|  | MT-Bench | AlpacaEval 1.0 |
+| --- | --- | --- |
+| Adept Fuyu-Heavy | 8.01 | 92.20% |
+| GPT-4 Turbo | 9.32 | 97.70% |
+| Mistral Medium | 8.61 | 96.83% |
+| Claude 2.0 | 8.06 | 91.60% |
+
+Finally, we evaluate Fuyu-Heavy on what has become the standard for multimodal performance - MMMU. Fuyu-Heavy performs slightly better than Gemini Pro on this metric. For further context on what MMMU measures, we’ve included further examples of our model output for that data-set below. For completeness, we also include results on VQAv2 (which is quite flawed, see [this post](https://www.adept.ai/blog/fuyu-8b)) on AI2D, a diagram understanding dataset, and on ChartQA - a dataset of question-answer pairs for plots and charts. Adept Fuyu-Heavy outperforms Gemini Pro on all of these metrics and outperforms Gemini Ultra on AI2D.
+
+|  | MMMU | VQAv2 | AI2D | ChartQA |
+| --- | --- | --- | --- | --- |
+| Adept Fuyu-Heavy | 48.3 | 76.2 | 81.2 | 75.4 |
+| Gemini Pro | 47.9 | 71.2 | 73.9 | 74.1 |
+| Gemini Ultra | 59.4 | 77.8 | 79.5 | 80.8 |
+
+### Prompt
+
+Answer the following MMMU question based on the image.
+
+Janet Ludlow’s firm requires all its analysts to use a two-stage dividend discount model (DDM) and the capital asset pricing model (CAPM) to value stocks. Using the CAPM and DDM, Ludlow has valued QuickBrush Company at $63 per share. She now must value SmileWhite Corporation. Calculate the required rate of return for SmileWhite by using the information in the following table:
+
+![Image 21](https://www.adept.ai/images/blog/fuyu-heavy/janet.png)
+
+A. 14%  
+B. 15%  
+C. 16%
+
+### Adept
+
+The required rate of return for SmileWhite can be calculated using the capital asset pricing model (CAPM), which is:
+
+Required Return = Risk-free Rate + Beta x (Expected Market Return - Risk-free Rate)
+
+The risk-free rate and expected market return are provided in the table, and the beta for SmileWhite is given as 1.15.
+
+Let’s calculate the required rate of return for SmileWhite:
+
+Required Return = 4.50% + 1.15 x (14.50% - 4.50%)  
+Required Return = 4.50% + 1.15 x 10%  
+Required Return = 4.50% + 11.50%  
+Required Return = 16%
+
+Therefore, the answer is:
+
+C: 16%  
+Answer: C
+
+Fuyu-Heavy can also perform more complex calculations, such as the following:
+
+### Prompt
+
+Table 11.47 provides a recent survey of the youngest online entrepreneurs whose net worth is estimated at one million dollars or more. Their ages range from 17 to 30. Each cell in the table illustrates the number of entrepreneurs who correspond to the specific age group and their net worth. We want to know whether the ages and net worth independent. `$\chi$`^2 test statistic = `______`
+
+![Image 22](https://www.adept.ai/images/blog/fuyu-heavy/net_worth.png)
+
+A. 1.56  
+B. 1.76  
+C. 1.96  
+D. 2.06
+
+### Adept
+
+To answer this question, we need to perform a chi-square test of independence.
+
+The null hypothesis for this test is that the ages and net worth are independent, while the alternative hypothesis is that they are not independent.
+
+The test statistic for a chi-square test of independence is:
+
+![Image 23](https://www.adept.ai/images/blog/fuyu-heavy/1.svg)
+
+where O is the observed frequency, E is the expected frequency, and the sum is taken over all the cells in the contingency table.
+
+The expected frequency for each cell is calculated as:
+
+![Image 24](https://www.adept.ai/images/blog/fuyu-heavy/2.svg)
+
+The degrees of freedom for a chi-square test of independence are:
+
+![Image 25](https://www.adept.ai/images/blog/fuyu-heavy/3.svg)
+
+The critical value for a chi-square distribution with df degrees of freedom at a given level of significance (e.g., 0.05) can be found in a chi-square table or calculated using a statistical software package.
+
+If the calculated chi-square value is greater than the critical value, we reject the null hypothesis and conclude that the ages and net worth are not independent. If the calculated chi-square value is less than or equal to the critical value, we fail to reject the null hypothesis and conclude that the ages and net worth are independent.
+
+Let’s calculate the expected frequencies for each cell in the table:
+
+![Image 26](https://www.adept.ai/images/blog/fuyu-heavy/4.svg)
+
+Now, let’s calculate the chi-square test statistic:
+
+![Image 27](https://www.adept.ai/images/blog/fuyu-heavy/5.svg)
+
+The degrees of freedom for this test are:
+
+![Image 28](https://www.adept.ai/images/blog/fuyu-heavy/6.svg)
+
+The critical value for a chi-square distribution with 2 degrees of freedom at the 0.05 level of significance is approximately 5.99.
+
+Since our calculated chi-square value (1.76) is less than the critical value (5.99), we fail to reject the null hypothesis and conclude that the ages and net worth are independent.
+
+Therefore, the answer is:
+
+B. 1.76
+
+Answer: B
+
+Research at Adept
+-----------------
+
+We’re building on this work in several exciting ways:
+
+*   Conducting fundamental scaling research to improve our base model capabilities
+*   Converting these base models into useful agents through reward modeling, self play, and various inference-time search techniques
+*   Connecting these agents to the world to build useful, reliable products
+
+If any of this is exciting to you, please reach out through [our careers page](https://www.adept.ai/careers).
+
+Acknowledgements
+----------------
+
+We’d like to thank the Microsoft Azure team for providing and servicing the cluster that trained Fuyu-Heavy and for answering innumerable configuration questions. We’d also like to thank NVIDIA for helpful collaborations on model efficiency, for advice on various particulars of networking, etc, and, of course, for creating the GPUs :)

@@ -1,0 +1,68 @@
+Eliminate Manual  
+Data Entry.
+
+Instantly parse
+
+documents and text from your emails and sync this data with your system of record. Retrofit to any stack.
+
+![Image 7: graphic](https://www.linc-ai.com/_next/image?url=%2Fgraphic10.png&w=1080&q=75)
+
+Try It Out Yourself
+
+Test our API with your emails and documents. Simply upload a file, any associated text, and your destination schema.
+
+A laptop or desktop is required to try this demo.
+
+If you are seeing this message on a laptop or desktop, resize the window to be larger
+
+We don't store any of your information. The data is deleted immediately from our servers after each extraction.
+
+Use Cases
+
+The types of documents we support for logistics companies.
+
+![Image 8: graphic](https://www.linc-ai.com/_next/image?url=%2Ftransport_management.png&w=1920&q=75)
+
+Streamline communications and prevent overcharges and fraud
+
+* * *
+
+Bill of Lading (BOL)
+
+Instantly extract and ingest vital shipment details into your TMS.
+
+Certificate of Origin (COC)
+
+Ensure compliance by extracting exporter, importer, and HS code details.
+
+Load Confirmation
+
+Streamline scheduling and tracking with automated load information capture.
+
+Shipment Manifests
+
+Improve inventory management with accurate shipment data ingestion.
+
+Supercharge Your Growth With Linc
+
+Save time, improve
+
+data quality, and
+
+scale faster.
+
+0\-10%
+
+data entry automation
+
+up to
+
+0%
+
+lower operating costs
+
+Interested in learning more or have feedback for us?
+
+Linc AI
+
+© 2023 Linc AI, Inc. All Rights Reserved.

@@ -1,0 +1,374 @@
+### [![Image 101: hygen logo](https://raw.githubusercontent.com/jondot/hygen/master/media/hygen.png)](https://raw.githubusercontent.com/jondot/hygen/master/media/hygen.png)
+
+[](https://github.com/jondot/hygen?screenshot=true#--)
+
+[![Image 102: build status](https://camo.githubusercontent.com/644f54989e164b29537e9aa6543ee59eea0518c55cc669129cbe761b6fb3555f/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f6a6f6e646f742f687967656e2f6d61737465722e737667)](https://travis-ci.org/jondot/hygen) [![Image 103: npm version](https://camo.githubusercontent.com/ead198751009fb9af8f537488b2abbd99125129471fd6663861372434dcc9d30/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f687967656e2e737667)](https://www.npmjs.com/package/hygen)
+
+`hygen` is the simple, fast, and scalable code generator that lives _in_ your project.
+
+[![Image 104](https://raw.githubusercontent.com/jondot/hygen/master/media/hygen.gif)](https://raw.githubusercontent.com/jondot/hygen/master/media/hygen.gif)
+
+Features
+--------
+
+[](https://github.com/jondot/hygen?screenshot=true#features)
+
+*   ✅ Build ad-hoc generators quickly and full on project scaffolds.
+*   ✅ Local generators per project (and global, if you must)
+*   ✅ Built-in scaffolds to quickly create generators
+*   ✅ Full logic templates and rendering
+*   ✅ Prompts and flows for taking in arguments
+*   ✅ Automatic CLI arguments
+*   ✅ Adding new files
+*   ✅ Injecting into existing files
+*   ✅ Running shell commands
+*   ✅ Super fast, constantly optimized for speed
+
+> New in hygen v4.0.0: a positional `NAME` parameter. Now you can use `$ hygen component new MyComponent` instead of `$ hygen component new --name MyComponent`.
+
+Used By
+-------
+
+[](https://github.com/jondot/hygen?screenshot=true#used-by)
+
+[![Image 105: Wix](https://camo.githubusercontent.com/3537a1035d5bab897e83595e68882c4eadb63c462a684f423936fd108270eb1a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f372f37362f5769782e636f6d5f776562736974655f6c6f676f2e737667)](https://camo.githubusercontent.com/3537a1035d5bab897e83595e68882c4eadb63c462a684f423936fd108270eb1a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f372f37362f5769782e636f6d5f776562736974655f6c6f676f2e737667)     [![Image 106: Airbnb](https://camo.githubusercontent.com/7681f270d39542448016bc5b3ada1b09c0c78540b1d68e87da0c46422b67d139/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36392f416972626e625f4c6f676f5f422543332541396c6f2e7376672f35313270782d416972626e625f4c6f676f5f422543332541396c6f2e7376672e706e67)](https://camo.githubusercontent.com/7681f270d39542448016bc5b3ada1b09c0c78540b1d68e87da0c46422b67d139/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36392f416972626e625f4c6f676f5f422543332541396c6f2e7376672f35313270782d416972626e625f4c6f676f5f422543332541396c6f2e7376672e706e67)     [![Image 107: Mercedes Benz AG](https://camo.githubusercontent.com/029003b9df9dc47a3d01b4d1d5bfc50ffa0e6b0e34b9cfe51e88d8c5fc965ffa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39652f4d657263656465732d42656e7a5f4c6f676f5f323031302e7376672f33323070782d4d657263656465732d42656e7a5f4c6f676f5f323031302e7376672e706e67)](https://camo.githubusercontent.com/029003b9df9dc47a3d01b4d1d5bfc50ffa0e6b0e34b9cfe51e88d8c5fc965ffa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39652f4d657263656465732d42656e7a5f4c6f676f5f323031302e7376672f33323070782d4d657263656465732d42656e7a5f4c6f676f5f323031302e7376672e706e67)     [![Image 108: Open Data Institute](https://camo.githubusercontent.com/1c6312b492a976baea61ab9faa0481b12aa450909424f0524c2be8f74ebf3527/68747470733a2f2f6c756d696e61746567726f75702e636f6d2f73746f726167652f3533382f632f6f70656e64617461696e737469747574652532384f44492532392d6c6f676f25343032782d6c6f676f2e706e67)](https://camo.githubusercontent.com/1c6312b492a976baea61ab9faa0481b12aa450909424f0524c2be8f74ebf3527/68747470733a2f2f6c756d696e61746567726f75702e636f6d2f73746f726167652f3533382f632f6f70656e64617461696e737469747574652532384f44492532392d6c6f676f25343032782d6c6f676f2e706e67)     [![Image 109: Ableneo](https://camo.githubusercontent.com/1456e14f6629828a6995c2e94987b12807a5afda50f3dcc65f860a13caa471bd/68747470733a2f2f7777772e61626c656e656f2e636f6d2f7765622f696d616765732f6c6f676f2e737667)](https://camo.githubusercontent.com/1456e14f6629828a6995c2e94987b12807a5afda50f3dcc65f860a13caa471bd/68747470733a2f2f7777772e61626c656e656f2e636f6d2f7765622f696d616765732f6c6f676f2e737667)   [![Image 110: City of Amsterdam](https://avatars3.githubusercontent.com/u/14022058?s=200&v=4)](https://avatars3.githubusercontent.com/u/14022058?s=200&v=4)     [![Image 111: Accenture](https://camo.githubusercontent.com/97d7e4f9d60ff3a9346ee9b02261f6d254baa97ffe9a64fcaf99d286a3c8a360/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63642f416363656e747572652e7376672f35313270782d416363656e747572652e7376672e706e67)](https://camo.githubusercontent.com/97d7e4f9d60ff3a9346ee9b02261f6d254baa97ffe9a64fcaf99d286a3c8a360/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63642f416363656e747572652e7376672f35313270782d416363656e747572652e7376672e706e67)   [![Image 112: Birdie](https://camo.githubusercontent.com/308a71cdeef85cf4d8c0f37ead1f070debc71f515ba8ce559c247e8a7017f831/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3564303761313164383139353630353732336462666630372f3564303934333062336436653163356432386136653262365f676c6f62616c2545322538302539346269726469655f6c6f676f5f626c61636b2e737667)](https://camo.githubusercontent.com/308a71cdeef85cf4d8c0f37ead1f070debc71f515ba8ce559c247e8a7017f831/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3564303761313164383139353630353732336462666630372f3564303934333062336436653163356432386136653262365f676c6f62616c2545322538302539346269726469655f6c6f676f5f626c61636b2e737667)     [![Image 113: Kind](https://camo.githubusercontent.com/42ced3aa8a7270ecc291d26f7b5445d2d66eb5b246cf6735218681ad5498bca7/68747470733a2f2f6d61646562796b696e642e636f6d2f646973742f696d616765732f6c6f676f732f736974652d6c6f676f2d677265656e2d653065393833656334362e737667)](https://camo.githubusercontent.com/42ced3aa8a7270ecc291d26f7b5445d2d66eb5b246cf6735218681ad5498bca7/68747470733a2f2f6d61646562796b696e642e636f6d2f646973742f696d616765732f6c6f676f732f736974652d6c6f676f2d677265656e2d653065393833656334362e737667)     [![Image 114: Ackee](https://avatars3.githubusercontent.com/u/1728223?s=400&v=4)](https://avatars3.githubusercontent.com/u/1728223?s=400&v=4)   [![Image 115: Aerian Studios](https://camo.githubusercontent.com/38aac83d47e3534e266ed2aaa2f2d90ddd072debbcb49d725169fc1929cd2e8c/68747470733a2f2f7777772e61657269616e2e636f6d2f696d672f632f61657269616e2d6c6f676f2e737667)](https://camo.githubusercontent.com/38aac83d47e3534e266ed2aaa2f2d90ddd072debbcb49d725169fc1929cd2e8c/68747470733a2f2f7777772e61657269616e2e636f6d2f696d672f632f61657269616e2d6c6f676f2e737667)  [![Image 116: Food and Agriculture Organization of the UN](https://avatars2.githubusercontent.com/u/38506195?s=200&v=4)](https://avatars2.githubusercontent.com/u/38506195?s=200&v=4) [![Image 117: Cape Cod Commision](https://camo.githubusercontent.com/34159debe66b166eaa5a8dd0bddfab08f212606e197feef9a7496bafebd1abfc/687474703a2f2f7777772e63617065636f64636f6d6d697373696f6e2e6f72672f6766782f686f6d652d6c6f676f2e6a7067)](https://camo.githubusercontent.com/34159debe66b166eaa5a8dd0bddfab08f212606e197feef9a7496bafebd1abfc/687474703a2f2f7777772e63617065636f64636f6d6d697373696f6e2e6f72672f6766782f686f6d652d6c6f676f2e6a7067)   [![Image 118: Tweak Things](https://avatars3.githubusercontent.com/u/49718812?s=400&v=4)](https://avatars3.githubusercontent.com/u/49718812?s=400&v=4)     [![Image 119: Crema](https://camo.githubusercontent.com/6a59cc53382efee044180e323755d974ead300a7be0aeea34f47047f682fb0d6/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3562366235306537396539623666353934383339353937332f3564383866353262343234323033353064336531313764325f4173736574253230312e706e67)](https://camo.githubusercontent.com/6a59cc53382efee044180e323755d974ead300a7be0aeea34f47047f682fb0d6/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3562366235306537396539623666353934383339353937332f3564383866353262343234323033353064336531313764325f4173736574253230312e706e67)     [![Image 120: Cureon](https://camo.githubusercontent.com/7bee08355d029067ee984fcd251e65e5e7e8791413d745b0025c552294b3ba3d/687474703a2f2f637572656f6e2e64652f7265736f75726365732f637572656f6e5f6c6f676f2e706e67)](https://camo.githubusercontent.com/7bee08355d029067ee984fcd251e65e5e7e8791413d745b0025c552294b3ba3d/687474703a2f2f637572656f6e2e64652f7265736f75726365732f637572656f6e5f6c6f676f2e706e67)     [![Image 121: Astrocoders](https://camo.githubusercontent.com/9d0f9018a10c2c694b762278b0300f592a0b4c4d51775e5b2d5a2cd6a608cb38/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f623866373130383861306339626339326436373437366133363166333536393064313537643065352f35313763322f7374617469632f6c6f676f2d63356438393066623433316235336137633631383030666563636436356163322e706e67)](https://camo.githubusercontent.com/9d0f9018a10c2c694b762278b0300f592a0b4c4d51775e5b2d5a2cd6a608cb38/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f623866373130383861306339626339326436373437366133363166333536393064313537643065352f35313763322f7374617469632f6c6f676f2d63356438393066623433316235336137633631383030666563636436356163322e706e67)     [![Image 122: Vega/IDL](https://camo.githubusercontent.com/366554c40a0f3789fb888093c36e5d47d27c3467ccbec29bc1dbd191986d8e8c/687474703a2f2f766567612e6769746875622e696f2f696d616765732f69646c2d6c6f676f2e706e67)](https://camo.githubusercontent.com/366554c40a0f3789fb888093c36e5d47d27c3467ccbec29bc1dbd191986d8e8c/687474703a2f2f766567612e6769746875622e696f2f696d616765732f69646c2d6c6f676f2e706e67)   [![Image 123: Sporty Spots](https://camo.githubusercontent.com/9534d589c203627b48d4095c14cbc2fd5c58b546392d718150700d894fee26bc/68747470733a2f2f7777772e73706f72747973706f74732e636f6d2f7374617469632f73706f72747973706f74732e737667)](https://camo.githubusercontent.com/9534d589c203627b48d4095c14cbc2fd5c58b546392d718150700d894fee26bc/68747470733a2f2f7777772e73706f72747973706f74732e636f6d2f7374617469632f73706f72747973706f74732e737667)    [![Image 124: Thrashplay](https://avatars1.githubusercontent.com/u/55868193?s=200&v=4)](https://avatars1.githubusercontent.com/u/55868193?s=200&v=4)   [![Image 125: 8base](https://avatars1.githubusercontent.com/u/28789399?s=200&v=4)](https://avatars1.githubusercontent.com/u/28789399?s=200&v=4)    [![Image 126: Instamotionh](https://avatars1.githubusercontent.com/u/44466967?s=200&v=4)](https://avatars1.githubusercontent.com/u/44466967?s=200&v=4) [![Image 127: Biotope](https://avatars1.githubusercontent.com/u/34653144?s=400&v=4)](https://avatars1.githubusercontent.com/u/34653144?s=400&v=4) [![Image 128: Frontend Labs](https://avatars1.githubusercontent.com/u/6691550?s=200&v=4)](https://avatars1.githubusercontent.com/u/6691550?s=200&v=4) [![Image 129: Swydo](https://avatars1.githubusercontent.com/u/1563883?s=400&v=4)](https://avatars1.githubusercontent.com/u/1563883?s=400&v=4) [![Image 130: Gridsome](https://avatars0.githubusercontent.com/u/17981963?s=200&v=4)](https://avatars0.githubusercontent.com/u/17981963?s=200&v=4) [![Image 131: Rosem Laboratory](https://avatars2.githubusercontent.com/u/22129460?s=200&v=4)](https://avatars2.githubusercontent.com/u/22129460?s=200&v=4)[![Image 132: Sheffield Hallam University](https://avatars1.githubusercontent.com/u/46559136?s=400&v=4)](https://avatars1.githubusercontent.com/u/46559136?s=400&v=4) [![Image 133: Hackoregon](https://avatars3.githubusercontent.com/u/6343574?s=400&v=4)](https://avatars3.githubusercontent.com/u/6343574?s=400&v=4) [![Image 134: Chilly Design](https://avatars1.githubusercontent.com/u/13002395?s=200&v=4)](https://avatars1.githubusercontent.com/u/13002395?s=200&v=4)
+
+[![Image 135: Scale Leap](https://avatars3.githubusercontent.com/u/41709180?s=200&v=4)](https://avatars3.githubusercontent.com/u/41709180?s=200&v=4)
+
+[![Image 136: Chat Logs](https://avatars1.githubusercontent.com/u/37252774?s=200&v=4)](https://avatars1.githubusercontent.com/u/37252774?s=200&v=4)
+
+[![Image 137: Stelace](https://avatars1.githubusercontent.com/u/32740360?s=400&v=4)](https://avatars1.githubusercontent.com/u/32740360?s=400&v=4)
+
+[![Image 138: Echobind.](https://avatars0.githubusercontent.com/u/570840?s=200&v=4)](https://avatars0.githubusercontent.com/u/570840?s=200&v=4)
+
+Quick Start
+-----------
+
+[](https://github.com/jondot/hygen?screenshot=true#quick-start)
+
+Hygen can be used to supercharge your workflow with [Redux](https://hygen.io/docs/redux), [React Native](https://hygen.io/docs/react-native), [Express](https://hygen.io/docs/express) and more, by allowing you avoid manual work and generate, add, inject and perform custom operations on your codebase.
+
+If you're on macOS and have Homebrew:
+
+```
+$ brew tap jondot/tap
+$ brew install hygen
+```
+
+If you have node.js installed, you can install globally with `npm` (or Yarn):
+
+If you like a no-strings-attached approach, you can use `npx` without installing globally:
+
+For other platforms, see [releases](https://github.com/jondot/hygen/releases).
+
+Initialize `hygen` in your project (do this once per project):
+
+```
+$ cd your-project
+$ hygen init self
+```
+
+Build your first generator, called `mygen`:
+
+```
+$ hygen generator new mygen
+
+Loaded templates: _templates
+       added: _templates/mygen/new/hello.ejs.t
+```
+
+Now you can use it:
+
+```
+$ hygen mygen new
+
+Loaded templates: _templates
+       added: app/hello.js
+```
+
+You've generated content into the current working directory in `app/`. To see how the generator is built, look at `_templates` (which you should check-in to your project from now on, by the way).
+
+You can build a generator that uses an interactive prompt to fill in a variable:
+
+```
+$ hygen generator with-prompt mygen
+
+Loaded templates: _templates
+       added: _templates/mygen/with-prompt/hello.ejs.t
+       added: _templates/mygen/with-prompt/prompt.js
+```
+
+Done! Now let's use `mygen`:
+
+```
+$ hygen mygen with-prompt
+? What's your message? hello
+
+Loaded templates: _templates
+       added: app/hello.js
+```
+
+Use a template repo
+-------------------
+
+[](https://github.com/jondot/hygen?screenshot=true#use-a-template-repo)
+
+Want to start from a repo?
+
+```
+$ hygen init repo antfu/vitesse --to my-folder
+```
+
+Want to start from an existing repo on an existing project?
+
+```
+$ mkdir your-project && cd your-project
+$ hygen init repo antfu/vitesse
+```
+
+What's Next?
+------------
+
+[](https://github.com/jondot/hygen?screenshot=true#whats-next)
+
+Go to the [documentation](https://hygen.io/docs/quick-start) to get to know the rest of Hygen and generators.
+
+If you're in a hurry:
+
+*   To learn how to edit generator templates, [look here](https://hygen.io/docs/templates)
+*   To see how to use generators [look here](https://hygen.io/docs/generators)
+*   Take a look at the [ecosystem](https://hygen.io/docs/packages) and tooling built around Hygen.
+
+A Different Kind of a Generator
+-------------------------------
+
+[](https://github.com/jondot/hygen?screenshot=true#a-different-kind-of-a-generator)
+
+`hygen` is a scalable generator. It has developer and team ergonomics as first priority.
+
+It avoids "blessed" or dedicated projects that codifies code generation, which before you know it, become a product you build, needs testing, CI, separate pull request reviews, and ultimately sucks up your time and becomes this super hated thing no one likes to touch anymore.
+
+Plus, since they are not the product you are building they become notoriously hard to reason about.
+
+Scratch Your Own Itch
+---------------------
+
+[](https://github.com/jondot/hygen?screenshot=true#scratch-your-own-itch)
+
+Because `hygen` templates live _in_ your project, it cuts the time from having an itch for generating code (Redux, anyone?) in your current project to code generated with it and others benefiting from it.
+
+### Template Locality
+
+[](https://github.com/jondot/hygen?screenshot=true#template-locality)
+
+`hygen` picks up a local `_templates` folder at any folder level of your project you're working from.
+
+This is important because:
+
+*   Templates are project-local. A git clone of the project fetches all generators as well.
+*   Different generators can be tucked in different parts of the project, making it contextual.
+*   Template locality is scalable; different teams can maintain different generators.
+*   When you change your code, you can make changes in the template and pack in the same commit, to be reviewed and merged in the same PR (as opposed to installing different "plugins" or different templates from out-of-repo places).
+
+And yet, if you don't like project-local templates:
+
+*   You can have a global `_templates` folder (maybe a central git repo you maintain?) by populating an environment variable `HYGEN_TMPLS`
+*   You can build a [custom generator](https://github.com/jondot/hygen?screenshot=true#build-your-own) of your own with `hygen` at its core, and pack your own templates with it.
+
+### Folder Structure is Command Structure
+
+[](https://github.com/jondot/hygen?screenshot=true#folder-structure-is-command-structure)
+
+The templates folder structure _maps directly_ to the command structure:
+
+```
+$ hygen worker new jobrunner
+```
+
+For this command, `hygen worker new` maps to `_templates/worker/new` and all files within `worker/new` are rendered.
+
+Template parameters are given with `--flag VALUE`, as many as you'd like. In this example we've set a parameter named `name` to the value `jobrunner`.
+
+### Subcommands
+
+[](https://github.com/jondot/hygen?screenshot=true#subcommands)
+
+A subcommand is a file inside a your folder structure. So if the structure is this:
+
+```
+_templates/
+    worker/
+      new/
+        index.html.ejs
+        setup.html.ejs
+```
+
+And you only want `setup`, you can run:
+
+You can also use the subcommand as a regular expression so, these will do the same:
+
+### Frontmatter for Decluttering
+
+[](https://github.com/jondot/hygen?screenshot=true#frontmatter-for-decluttering)
+
+Here's how a template looks like (in our example, `index.ejs.t`). Templates bodies are [ejs](https://github.com/tj/ejs):
+
+\--\-
+to: app/workers/<%=name%\>.js
+---
+
+class <%= h.capitalize(name) %\> {
+    work(){
+        // your code here!
+    }
+}
+
+The first part of the template is a [front matter](https://jekyllrb.com/docs/frontmatter/), idea borrowed from Markdown, this is the metadata part of a `hygen` template and is part of the reason of why your templates will feel more lightweight and flexible.
+
+All frontmatter metadata _are also run through the template engine_ so feel free to use variables in the frontmatter as you wish.
+
+There's one required metadata variable: `to`. `to` points to where this file will be placed (folders are created as needed).
+
+### Case changing
+
+[](https://github.com/jondot/hygen?screenshot=true#case-changing)
+
+`hygen` provides ability to semantic case changing with `change-case` library, it's simple to use and very easy to understand.
+
+There is a usecase for react based components generation:
+
+\---
+to: components/<%= name %\>/index.jsx
+---
+import React from 'react'
+
+export const <%= name %\> = ({ children }) =\> (
+  <div className="<%= h.changeCase.paramCase(name) %\>"\>{children}</div\>"
+)
+
+With name `HelloWorld` will be compiled to:
+
+import React from 'react'
+
+export const HelloWorld \= ({ children }) \=\> (
+  <div className\="hello-world"\>{children}</div\>"
+)
+
+You can see the full list [here](https://github.com/blakeembrey/change-case).
+
+### Addition, Injection, and More
+
+[](https://github.com/jondot/hygen?screenshot=true#addition-injection-and-more)
+
+By default templates are 'added' to your project as a new target file, but you can also choose to inject a template _into_ an existing target file.
+
+For this to work, you need to use `inject: true` with the accompanied inject-specific props.
+
+\---
+to: package.json
+inject: true
+after: dependencies
+skip\_if: react-native-fs
+---
+"react-native-fs":"\*",
+
+This template will add the `react-native-fs` dependency into a `package.json` file, but it will not add it twice (see `skip_if`).
+
+Here are the available mutually-exclusive options for where to inject at:
+
+*   `before | after` - a regular expression / text to locate. The inject line will appear before or after the located line.
+*   `prepend | append` - add a line to start or end of file respectively.
+*   `line_at` - add a line at this exact line number.
+
+You can guard against double injection:
+
+*   `skip_if` - a regular expression / text. If exists injection is skipped.
+
+Also you can insert or remove empty line to injection body. That feature very useful if your editor or formatter automatically insert blank line at the end of file on save:
+
+*   `eof_last` - if falsy - trim blank line from the end of injection body, if truthy - insert it.
+
+### Build Your Own
+
+[](https://github.com/jondot/hygen?screenshot=true#build-your-own)
+
+`hygen` is highly embeddable. You should be able to use it by simply listing it as a dependency and having [this kind of workflow](https://github.com/jondot/hygen/blob/master/src/bin.ts) in your binary.
+
+const { runner } \= require('hygen')
+const Logger \= require('hygen/dist/logger')
+const path \= require('path')
+const defaultTemplates \= path.join(\_\_dirname, 'templates')
+
+runner(process.argv.slice(2), {
+  templates: defaultTemplates,
+  cwd: process.cwd(),
+  logger: new Logger.default(console.log.bind(console)),
+  createPrompter: () \=\> require('enquirer'),
+  exec: (action, body) \=\> {
+    const opts \= body && body.length \> 0 ? { input: body } : {}
+    return require('execa').shell(action, opts)
+  },
+  debug: !!process.env.DEBUG
+})
+
+Development
+-----------
+
+[](https://github.com/jondot/hygen?screenshot=true#development)
+
+The Hygen codebase has a functional style where possible. This is because naturally, it feeds parameters and spits out files. Try to keep it that way.
+
+Running `hygen` locally, rigged to your current codebase (note the additional `--` to allow passing flags)
+
+```
+$ yarn hygen -- mailer new foobar
+```
+
+Running tests in watch mode:
+
+Metaverse Testing
+-----------------
+
+[](https://github.com/jondot/hygen?screenshot=true#metaverse-testing)
+
+The easiest way to make an impact is to use the built-in [`metaverse`](https://github.com/jondot/hygen/blob/master/src/__tests__/metaverse) tests suite, and then add the tests [here](https://github.com/jondot/hygen/blob/master/src/__tests__/metaverse.spec.js).
+
+The idea here is to copy templates from any project that use `hygen` and to test that it works at all times. This keeps tabs on the hygen universe / ecosystem (nicknamed metaverse) and makes sure this test suite breaks before `hygen` clients break.
+
+Internal Testing
+----------------
+
+[](https://github.com/jondot/hygen?screenshot=true#internal-testing)
+
+Start Up Speed Testing
+----------------------
+
+[](https://github.com/jondot/hygen?screenshot=true#start-up-speed-testing)
+
+Many generators become painfully slow to use as the thing you want to generate grow (because, real life),
+
+This is why `hygen` takes speed as a first class citizen, and sports a dedicated start-up timing suite:
+
+In addition, thought is given to which dependencies to take in, how their file structure fan out and what kind of disk access (due to `require`) would `hygen` ultimately have when we run it. This is recorded with every test run.
+
+Bundling a single file was evaluated (and the infrastructure is still there, using `webpack`) and wasn't faster than what we have right now.
+
+Contributing
+------------
+
+[](https://github.com/jondot/hygen?screenshot=true#contributing)
+
+Fork, implement, add tests, pull request, get my everlasting thanks and a respectable place here :).
+
+### Thanks:
+
+[](https://github.com/jondot/hygen?screenshot=true#thanks)
+
+To all [Contributors](https://github.com/jondot/hygen/graphs/contributors) - you make this happen, thanks!
+
+Copyright
+---------
+
+[](https://github.com/jondot/hygen?screenshot=true#copyright)
+
+Copyright (c) 2018 [Dotan Nahum](http://gplus.to/dotan) [@jondot](http://twitter.com/jondot). See [LICENSE](https://github.com/jondot/hygen/blob/master/LICENSE.txt) for further details.

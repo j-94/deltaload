@@ -1,0 +1,522 @@
+H2O.ai | Convergence of The World's Best Predictive & Generative AI
+===============  
+
+X Return to page
+
+ 
+
+ [![Image 112: h2o_logo](https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1736970552827/h2o-logo.svg) ![Image 113: h2o_logo](https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1736970552827/h2o-logo.svg)](https://h2o.ai/)
+
+*   [Platform](https://h2o.ai/platform/ai-cloud/)
+    
+    ![Image 114](https://h2o.ai/)
+    
+    Generative AI
+    -------------
+    
+    *   [Why H2O.ai](https://h2o.ai/platform/why-h2o/)[End-to-end GenAI platform built for air-gapped, on-premises or cloud VPC deployments. Own every part of the stack--own your data and your prompts.](https://h2o.ai/platform/why-h2o/)
+        
+    *   [Enterprise h2oGPTe](https://h2o.ai/platform/enterprise-h2ogpte/)[Connect any LLM/embedding model, fully scalable w/K8s, includes guardrails, summarization, cost controls, and customization options.](https://h2o.ai/platform/enterprise-h2ogpte/)
+        
+    *   [Open Source h2oGPT](https://h2o.ai/platform/open-source-gpt-and-llm-studio/)[Customize and deploy open source AI models, create your own digital assistants and business GPTs.](https://h2o.ai/platform/open-source-gpt-and-llm-studio/)
+        
+    *   [H2O Danube3](https://h2o.ai/platform/danube/)[Open weight SLMs for on-device and offline applications.](https://h2o.ai/platform/danube/)
+        
+    *   [H2OVL Mississippi](https://h2o.ai/platform/mississippi/)[Open weight small vision-language models for OCR and Document AI](https://h2o.ai/platform/mississippi/)
+        
+    *   [H2O Eval Studio](https://h2o.ai/platform/enterprise-h2ogpte/eval-studio/)[Assess the performance, reliability, safety, and effectiveness of RAG and LLM-based applications.](https://h2o.ai/platform/enterprise-h2ogpte/eval-studio/)
+        
+    *   [H2O LLM Studio](https://h2o.ai/platform/llm-studio/)[No-code fine-tuning for custom enterprise-grade LLMs. Train scalable SLMs for cheaper, more efficient NLP use cases.](https://h2o.ai/platform/llm-studio/)
+        
+    *   [GenAI App Store](https://genai.h2o.ai/)[Develop, deploy and share safe and trusted applications for your organization with use cases across enterprise, public sector, and more.](https://genai.h2o.ai/)
+        
+    
+    ![Image 115](https://h2o.ai/)
+    
+    Predictive AI
+    -------------
+    
+    *   [H2O Driverless AI](https://h2o.ai/platform/ai-cloud/make/h2o-driverless-ai/)[Democratizing AI with Automated Machine Learning](https://h2o.ai/platform/ai-cloud/make/h2o-driverless-ai/)
+        
+    *   [H2O-3](https://h2o.ai/platform/ai-cloud/make/h2o/)[Open Source Distributed Machine Learning](https://h2o.ai/platform/ai-cloud/make/h2o/)
+        
+    *   [H2O Document AI](https://h2o.ai/platform/ai-cloud/make/document-ai/)[Extracting Data with Intelligence](https://h2o.ai/platform/ai-cloud/make/document-ai/)
+        
+    *   [H2O Hydrogen Torch](https://h2o.ai/platform/ai-cloud/make/hydrogen-torch/)[No-Code Deep Learning](https://h2o.ai/platform/ai-cloud/make/hydrogen-torch/)
+        
+    *   [H2O Wave](https://h2o.ai/platform/ai-cloud/make/h2o-wave/)[Open source low-code AI AppDev Framework](https://h2o.ai/platform/ai-cloud/make/h2o-wave/)
+        
+    *   [H2O Label Genie](https://h2o.ai/platform/ai-cloud/make/h2o-label-genie/)[AI-powered Data Labeling](https://h2o.ai/platform/ai-cloud/make/h2o-label-genie/)
+        
+    *   [H2O AI Feature Store](https://h2o.ai/platform/ai-cloud/make/feature-store/)[Infuse Your Data with Intelligence](https://h2o.ai/platform/ai-cloud/make/feature-store/)
+        
+    *   [H2O MLOps](https://h2o.ai/platform/ai-cloud/operate/h2o-mlops/)[Model Hosting, Monitoring and Deployment](https://h2o.ai/platform/ai-cloud/operate/h2o-mlops/)
+        
+    *   [H2O AI AppStore](https://h2o.ai/platform/ai-cloud/key-features-datasheet/#innovate)[Industry and Use Case AI Apps](https://h2o.ai/platform/ai-cloud/key-features-datasheet/#innovate)
+        
+    
+    *   [Platform -------- Choose to deploy on-premise and airgapped, self hosted on VPC, or fully hosted and managed by H2O.ai.](https://h2o.ai/platform/ai-cloud/)
+    
+*   [Solutions](https://h2o.ai/solutions/use-case/)
+    
+    ![Image 116: icon-industry](https://h2o.ai/content/dam/h2o/images/marketing/icons/icon_industry.svg)[Industry Solutions ------------------](https://h2o.ai/solutions/industry/)
+    
+    *   [Financial Services](https://h2o.ai/solutions/industry/financial-services/)[](https://h2o.ai/solutions/industry/financial-services/)
+        
+    *   [Government](https://h2o.ai/solutions/industry/government/)[](https://h2o.ai/solutions/industry/government/)
+        
+    *   [Health](https://h2o.ai/solutions/industry/health/)[](https://h2o.ai/solutions/industry/health/)
+        
+    *   [Insurance](https://h2o.ai/solutions/industry/insurance/)[](https://h2o.ai/solutions/industry/insurance/)
+        
+    *   [Manufacturing](https://h2o.ai/solutions/industry/manufacturing/)[](https://h2o.ai/solutions/industry/manufacturing/)
+        
+    *   [Marketing](https://h2o.ai/solutions/industry/marketing/)[](https://h2o.ai/solutions/industry/marketing/)
+        
+    *   [Retail](https://h2o.ai/solutions/industry/retail/)[](https://h2o.ai/solutions/industry/retail/)
+        
+    *   [Telecommunications](https://h2o.ai/solutions/industry/telecommunications/)[](https://h2o.ai/solutions/industry/telecommunications/)
+        
+    
+    ![Image 117: icon-use-case](https://h2o.ai/content/dam/h2o/images/marketing/icons/icon_use-case.svg)[Use Cases ---------](https://h2o.ai/solutions/use-case/)
+    
+    *   [Financial Services](https://h2o.ai/solutions/use-case/#financial-services)[From Credit Scoring and Customer Churn to Anti-Money Laundering](https://h2o.ai/solutions/use-case/#financial-services)
+        
+    *   [Government](https://h2o.ai/content/dam/h2o/images/marketing/case-studies/content/GovernmentWhitePaper_Sheet_H2O.pdf)[Use Responsible AI in Government](https://h2o.ai/content/dam/h2o/images/marketing/case-studies/content/GovernmentWhitePaper_Sheet_H2O.pdf)
+        
+    *   [Health](https://h2o.ai/solutions/use-case/#healthcare)[From Clinical Workflow to Predicting ICU Transfers](https://h2o.ai/solutions/use-case/#healthcare)
+        
+    *   [Insurance](https://h2o.ai/solutions/use-case/#insurance)[From Claims Management to Fraud Mitigation](https://h2o.ai/solutions/use-case/#insurance)
+        
+    *   [Manufacturing](https://h2o.ai/solutions/use-case/#manufacturing)[From Predictive Maintenance to Transportation Optimization](https://h2o.ai/solutions/use-case/#manufacturing)
+        
+    *   [Marketing](https://h2o.ai/solutions/use-case/#marketing)[From Content Personalization to Lead Scoring](https://h2o.ai/solutions/use-case/#marketing)
+        
+    *   [Retail](https://h2o.ai/solutions/use-case/#retail)[From Assortment Optimization to Pricing Optimization](https://h2o.ai/solutions/use-case/#retail)
+        
+    *   [Telecommunications](https://h2o.ai/solutions/use-case/#telecom)[From Predictive Customer Support to Predictive Fleet Maintenance](https://h2o.ai/solutions/use-case/#telecom)
+        
+    
+    ![Image 118: icon-view-all](https://h2o.ai/content/dam/h2o/images/marketing/icons/icon_view-all.svg) [View All](https://h2o.ai/solutions/)
+    
+    *   [H2O.ai Hospital Occupancy Simulator ----------------------------------- Track, predict, and manage COVID-19 related hospital admissions](https://chos.cloud.h2o.ai/)
+    *   [Strategic Transformation ------------------------ Use the H2O AI Cloud to make your company an AI company](https://h2o.ai/insights/strategic-transformation/)
+    
+*   [Customers](https://h2o.ai/case-studies/?n=cst1)
+    
+    ![Image 119: icon-view-all](https://h2o.ai/content/dam/h2o/images/marketing/icons/icon_view-all.svg)[View All Case Studies ---------------------](https://h2o.ai/case-studies/?n=cst2)
+    
+    [![Image 120: cba-logo-nav2](https://h2o.ai/content/dam/h2o/images/marketing/logos/CBA-Logo-nav2.png) FINANCIAL SERVICES ------------------ Learn how CBA is boosting AI capabilities to generate better customer and community outcomes, at greater pace and scale.](https://h2o.ai/case-studies/cba/)
+    
+    [![Image 121: at-t-nav-logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/AT-T_nav_logo.png) TELECOM ------- Learn how AT&T is transforming into an AI Company with H2O.ai](https://h2o.ai/case-studies/att-transformed-into-an-ai-company-with-h2o-ai/?n=cs2)
+    
+    [![Image 122: ucsf-nav-logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/UCSF_nav_logo.png) HEALTHCARE ---------- Learn how USCF Health is applying H2O Document AI to automate workflows in healthcare](https://h2o.ai/case-studies/ucsf-health-h2o-ai-applying-h2o-document-ai-to-automate-workflows-in-healthcare/?n=cs3)
+    
+    [![Image 123: aes-logo-nav](https://h2o.ai/content/dam/h2o/images/marketing/logos/aes-logo-nav.png) ENERGY ------ Learn how AES is transforming its energy business with AI and H2O.ai](https://h2o.ai/case-studies/aes-transforms-energy-business-with-ai-and-h2o/?n=cs4)
+    
+    [![Image 124: iffco-tokio-logo-nav2](https://h2o.ai/content/dam/h2o/images/marketing/logos/IFFCO-TOKIO-logo-nav2.png) FINANCIAL INDUSTRIES -------------------- Learn now IFFCO-Tokio uses the H2O AI Cloud to save over $1M annually by transforming their fraud prediction processes](https://h2o.ai/case-studies/iffco-tokio-saves-over-1m-annually-on-fraud-with-h2o-ai/?n=cs5)
+    
+    [![Image 125: epsilon-logo-nav2](https://h2o.ai/content/dam/h2o/images/marketing/logos/epsilon-logo-nav2.png) MARKETING --------- Learn how Epsilon is increasing its customers' marketing ROI with H2O.ai](https://h2o.ai/case-studies/epsilon-increases-customers-marketing-roi/?n=cs6)
+    
+*   [Partners](https://h2o.ai/partner-network/)
+    
+    ![Image 126: icon-partners-copy](https://h2o.ai/content/dam/h2o/images/marketing/icons/icon_partners%20copy.svg)[Partners --------](https://h2o.ai/partner-network/)
+    
+    *   [Find a Partner](https://h2o.ai/partner-network/find-a-partner/)[](https://h2o.ai/partner-network/find-a-partner/)
+        
+    *   [Become a Partner](https://h2o.ai/partner-network/#become-a-partner)[](https://h2o.ai/partner-network/#become-a-partner)
+        
+    *   [Powered by H2O.ai](https://h2o.ai/partner-network/powered-by-h2o/)[](https://h2o.ai/partner-network/powered-by-h2o/)
+        
+    *   [Partner University](https://h2o.ai/partner-network/partner-university/)[](https://h2o.ai/partner-network/partner-university/)
+        
+    
+     [![Image 127: sno-snowflakelogo-blue-wide-300x85](https://h2o.ai/content/dam/h2o/images/marketing/partner-network/other/SNO-SnowflakeLogo_blue-wide-300x85.png)](https://h2o.ai/partner-network/find-a-partner/snowflake/)[![Image 128: aws](https://h2o.ai/content/dam/h2o/images/marketing/logos/partner-network/2x-AWS-300x154.png)](https://h2o.ai/partner-network/find-a-partner/aws/)[![Image 129: delltech-logo-prm-blue-rgb](https://h2o.ai/content/dam/h2o/images/marketing/logos/DellTech_Logo_Prm_Blue_rgb.png)](https://h2o.ai/partner-network/find-a-partner/dell/)
+    
+*   [Resources](https://h2o.ai/resources/?n=rest1)
+    
+    ![Image 130: icon-support](https://h2o.ai/content/dam/h2o/images/marketing/icons/Icon_support.svg)[Resources ---------](https://h2o.ai/resources/?n=rest2)
+    
+    *   [H2O University](https://h2o.ai/university/)[](https://h2o.ai/university/)
+        
+    *   [Documentation](https://docs.h2o.ai/?_ga=2.189999465.356938431.1664813428-2051461278.1635772090)[](https://docs.h2o.ai/?_ga=2.189999465.356938431.1664813428-2051461278.1635772090)
+        
+    *   [Resources Archive](https://h2o.ai/resources/?n=res2)[](https://h2o.ai/resources/?n=res2)
+        
+    *   [Wiki](https://h2o.ai/wiki/?n=res3)[](https://h2o.ai/wiki/?n=res3)
+        
+    *   [Customer Support Portal](https://support.h2o.ai/support/login?_ga=2.118105547.356938431.1664813428-2051461278.1635772090)[](https://support.h2o.ai/support/login?_ga=2.118105547.356938431.1664813428-2051461278.1635772090)
+        
+    *   [What is an AI Cloud?](https://h2o.ai/insights/what-is-ai-cloud/?n=res5)[](https://h2o.ai/insights/what-is-ai-cloud/?n=res5)
+        
+    *   [Research Papers](https://h2o.ai/resources/research-papers/)[](https://h2o.ai/resources/research-papers/)
+        
+    *   [Blog](https://h2o.ai/blog/?_ga=2.189533673.356938431.1664813428-2051461278.1635772090)[](https://h2o.ai/blog/?_ga=2.189533673.356938431.1664813428-2051461278.1635772090)
+        
+    
+    ![Image 131: open-source-icon](https://h2o.ai/content/dam/h2o/images/marketing/icons/open-source-icon.png)[Open Source -----------](https://h2o.ai/platform/ai-cloud/make/h2o/?n=rest3)
+    
+    *   [Downloads](https://h2o.ai/resources/download/?n=res7)[](https://h2o.ai/resources/download/?n=res7)
+        
+    *   [h2oGPT and H2O LLM](https://h2o.ai/platform/open-source-gpt-and-llm-studio/)[](https://h2o.ai/platform/open-source-gpt-and-llm-studio/)
+        
+    *   [H2O-3](https://h2o.ai/platform/ai-cloud/make/h2o/?n=res8)[](https://h2o.ai/platform/ai-cloud/make/h2o/?n=res8)
+        
+    *   [H2O AutoML](https://h2o.ai/platform/h2o-automl/?n=res9)[](https://h2o.ai/platform/h2o-automl/?n=res9)
+        
+    *   [H2O Wave](https://h2o.ai/platform/ai-cloud/make/h2o-wave/?n=res10)[](https://h2o.ai/platform/ai-cloud/make/h2o-wave/?n=res10)
+        
+    *   [Sparkling Water](https://h2o.ai/products/h2o-sparkling-water/?n=res11)[](https://h2o.ai/products/h2o-sparkling-water/?n=res11)
+        
+    
+    *   [![Image 132: university-logo-horizontal-lightbg-small](https://h2o.ai/content/dam/h2o/images/marketing/university/logos/university_logo_horizontal_lightbg_small.png) Join H2O University ------------------- Gain expertise through engaging courses and earn certifications to thrive on your AI journey.](https://h2o.ai/university/)
+    *   [Support ------- Get help and technology from the experts in H2O and access to Enterprise Team](https://h2o.ai/resources/support/enterprise-support/?n=resad2)
+    
+*   [Events](https://h2o.ai/events/?n=evt1)
+    
+    ![Image 133: icon-community](https://h2o.ai/content/dam/h2o/images/marketing/icons/Icon_community.svg)[Events ------](https://h2o.ai/events/?n=evs1)
+    
+    *   [Events](https://h2o.ai/events/?n=ev1)[](https://h2o.ai/events/?n=ev1)
+        
+    *   [Webinar](https://h2o.ai/events/?t=webinars)[](https://h2o.ai/events/?t=webinars)
+        
+    
+    *   [H2O GenAI World](https://h2o.ai/events/h2o-genai-world/)[](https://h2o.ai/events/h2o-genai-world/)
+        
+    *   [Make with H2O](https://h2o.ai/events/make-with-h2o/?n=ev4)[](https://h2o.ai/events/make-with-h2o/?n=ev4)
+        
+    
+    *   [H2O.ai Wiki ----------- Read the H2O.ai wiki for up-to-date resources about artificial intelligence and machine learning.](https://h2o.ai/wiki/?n=commad1)
+    *   [Responsible AI -------------- Learn the best practices for building responsible AI models and applications](https://h2o.ai/insights/responsible-ai/?n=commad2)
+    
+*   [Company](https://h2o.ai/company/)
+    
+    ![Image 134](https://h2o.ai/)[Company -------](https://h2o.ai/company/)
+    
+    *   [About Us](https://h2o.ai/company/)[](https://h2o.ai/company/)
+        
+    *   [Team](https://h2o.ai/company/team/)[](https://h2o.ai/company/team/)
+        
+    *   [Democratize AI](https://h2o.ai/company/democratize-ai/)[](https://h2o.ai/company/democratize-ai/)
+        
+    *   [Why GenAI With H2O.ai?](https://h2o.ai/platform/why-h2o/)[](https://h2o.ai/platform/why-h2o/)
+        
+    *   [AI4Conservation](https://h2o.ai/company/ai-4-conservation/)[](https://h2o.ai/company/ai-4-conservation/)
+        
+    *   [AI4Good](https://h2o.ai/company/ai-4-good/)[](https://h2o.ai/company/ai-4-good/)
+        
+    *   [Careers](https://h2o.ai/company/careers/)[](https://h2o.ai/company/careers/)
+        
+    *   [Contact Us](https://h2o.ai/company/contact-us/?n=compContactUs)[](https://h2o.ai/company/contact-us/?n=compContactUs)
+        
+    
+    *   [News](https://h2o.ai/company/news/)[](https://h2o.ai/company/news/)
+        
+    *   [Press Releases](https://h2o.ai/company/press-releases/)[](https://h2o.ai/company/press-releases/)
+        
+    *   [Awards](https://h2o.ai/company/awards/)[](https://h2o.ai/company/awards/)
+        
+    
+    *   [![Image 135: ai-100-card-logo-black](https://h2o.ai/content/dam/h2o/images/marketing/ai100/AI-100-card-logo-black.svg) H2O AI 100 2024 --------------- Celebrating the top AI thought leaders of 2024](https://h2o.ai/ai-100/winners/)
+    *   [2024 Gartner® Magic Quadrant™ ----------------------------- H2O.ai is recognized as a Visionary in 2024 Gartner® Magic Quadrant™ for Cloud AI Developer Services](https://h2o.ai/platform/gartner/)
+    *   [What is an AI Cloud? -------------------- A high-scale elastic environment for the AI lifecycle](https://h2o.ai/insights/what-is-ai-cloud/)
+    
+
+ 
+
+[Sign In](https://id.cloud.h2o.ai/app/UserHome)
+
+![Image 136: search icon](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/images/search_button.svg)
+
+[Request Live Demo](https://h2o.ai/demo/)
+
+[On-demand Demos](https://h2o.ai/demo-center/)
+
+[Sign In](https://id.cloud.h2o.ai/app/UserHome)
+
+[X](https://h2o.ai/#)
+
+The world’s best Agentic AI converging Generative and Predictive AI
+===================================================================
+
+Own your data, own your prompts – on-premise, airgapped and cloud VPC
+
+Only H2O.ai provides an end-to-end GenAI platform where you own every part of the stack.
+
+[Try Enterprise h2oGPTe Freemium](https://id.public.h2o.ai/ "h2oGPTe Freemium") [Learn More](https://h2o.ai/platform/enterprise-h2ogpte/ "Learn more about h2oGPTe")
+
+Companies powered by H2O.ai
+---------------------------
+
+![Image 137: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-WellsFargo.png) ![Image 138: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-GoldmanSachs.png) ![Image 139: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-FranklinTempleton.png) ![Image 140: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Discover.png) ![Image 141: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-bradesco.png) ![Image 142: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-aetna.png) ![Image 143: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-CocacolaFemsa.png) ![Image 144: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-MarketAxess.png) ![Image 145: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-ADP.png) ![Image 146: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-HDFC.png) ![Image 147: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-UMB.png) ![Image 148: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-NorthAmerican.png) ![Image 149: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Synopsys.png) ![Image 150: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Santander.png) ![Image 151: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Davivienda.png) ![Image 152: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-CVS.png) ![Image 153: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-KaiserP.png)
+
+![Image 154: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Singtel.png) ![Image 155: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Mastercard.png) ![Image 156: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-ATT.png) ![Image 157: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-BancoDoBrasil.png) ![Image 158: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-CBA.png) ![Image 159: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Chipotle.png) ![Image 160: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-citi.png) ![Image 161: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Progressive.png) ![Image 162: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-StateFarm.png) ![Image 163: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Workday.png) ![Image 164: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-AES.png) ![Image 165: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-ADT.png) ![Image 166: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-AKBank.png) ![Image 167: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-ebay.png) ![Image 168: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Billcom.png) ![Image 169: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Itau%CC%81.png) ![Image 170: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-Samsung.png) ![Image 171: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-HackensackMH.png) ![Image 172: Logo](https://h2o.ai/content/dam/h2o/images/marketing/logos/why-h2o/logo-BSMH.png)
+
+H2O’s flagship SLMs
+-------------------
+
+  ![Image 173](https://h2o.ai/_jcr_content/root/container/section_997428675_co/par/advancedcolumncontro_1807586123/columns0/wrappercomponent_cop/par/advancedcolumncontro/columns0/image_copy.coreimg.png/1735340091138/mississippi-doc-v.png) ![Image 174](https://h2o.ai/_jcr_content/root/container/section_997428675_co/par/advancedcolumncontro_1807586123/columns0/wrappercomponent_cop/par/advancedcolumncontro/columns0/image_copy.coreimg.png/1735340091138/mississippi-doc-v.png)
+
+### H2OVL Mississippi SVLM Series
+
+##### Our newest economical multimodal OCR model developed for Document AI
+
+H2OVL Mississippi-2B, based on H2O Danube2, is trained on 17.3M conversation pairs for high-res image handling.
+
+The .8B model, built on Danube3, leads OCR benchmarks with 19M pairs, outperforming all SLMs in text recognition.
+
+[For Developers](https://h2o.ai/platform/mississippi/) [#1 Text Recognition](https://huggingface.co/spaces/h2oai/h2ovl-mississippi-benchmarks "H2OVL Mississippi benchmarks on Hugging Face")
+
+### H2O Danube SLM Series
+
+##### Our most economical small model for fast, lightweight tasks
+
+We trained H2O Danube3 models from scratch on ~100 H100 GPUs using our own curated dataset of 6T tokens. H2O Danube3-4B and .5B open-weight SLMs outperform the latest Apple OpenELM-3B and .5B instruct models.
+
+Perfect for developers who want to fine-tune their own SLMs for offline use cases.
+
+[For Developers](https://h2o.ai/platform/danube/) [Get the Mobile App](https://h2o.ai/platform/danube/personal-gpt/)
+
+ ![Image 175](https://h2o.ai/_jcr_content/root/container/section_997428675_co/par/advancedcolumncontro_1807586123/columns1/wrappercomponent_cop/par/advancedcolumncontro/columns1/image_copy.coreimg.png/1735340091648/danube-phone.png) ![Image 176](https://h2o.ai/_jcr_content/root/container/section_997428675_co/par/advancedcolumncontro_1807586123/columns1/wrappercomponent_cop/par/advancedcolumncontro/columns1/image_copy.coreimg.png/1735340091648/danube-phone.png)
+
+ 
+
+H2O Generative AI **in use** with customers
+-------------------------------------------
+
+H2O Document AI GPTs and Digital Agents in production worldwide
+
+ ![Image 177: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns0/image.coreimg.png/1735340092224/instoresales--1-.png) ![Image 178: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns0/image.coreimg.png/1735340092224/instoresales--1-.png)
+
+In-Store Sales Assistant
+
+ ![Image 179: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns1/image_copy_2001722277.coreimg.png/1735340092283/hritsupport--1-.png) ![Image 180: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns1/image_copy_2001722277.coreimg.png/1735340092283/hritsupport--1-.png)
+
+HR & IT Support Agent
+
+ ![Image 181: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns2/image_copy_200172227.coreimg.png/1735340092345/procurementgpt--1-.png) ![Image 182: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns2/image_copy_200172227.coreimg.png/1735340092345/procurementgpt--1-.png)
+
+Procurement GPT
+
+ ![Image 183: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns3/image.coreimg.png/1735340092429/rfpassistant--1-.png) ![Image 184: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns3/image.coreimg.png/1735340092429/rfpassistant--1-.png)
+
+RFP Assistant
+
+ ![Image 185: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns4/image_copy_200172227.coreimg.png/1735340092485/fraudscam--1-.png) ![Image 186: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns4/image_copy_200172227.coreimg.png/1735340092485/fraudscam--1-.png)
+
+Fraud & Scam Detection
+
+ ![Image 187: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns5/image_copy_200172227.coreimg.png/1735340092547/personalizedpricingp--1-.png) ![Image 188: In store sales assistant for world's top telco org](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_1252790092/par/wrappercomponent_cop/par/section_443307689/par/advancedcolumncontro/columns5/image_copy_200172227.coreimg.png/1735340092547/personalizedpricingp--1-.png)
+
+Personalized Pricing
+
+Evaluate your GenAI with **H2O Eval Studio**
+--------------------------------------------
+
+Discover the power of comprehensive executive dashboards, model comparisons, and advanced insights—all in one place. Tailor evaluations to your needs with customizable parameters and enjoy a user-friendly interface designed for seamless performance monitoring.
+
+##### **Learn more about how you can use H2O Eval Studio to evaluate your GenAI use cases.**
+
+[H2O Eval Studio](https://h2o.ai/platform/enterprise-h2ogpte/eval-studio/)
+
+**Multi-modal Document AI** with enterprise scale and security
+--------------------------------------------------------------
+
+1.  Convert Data to JSON
+2.  Document AI
+
+Convert structured data like financial tables to JSON
+
+Get answers from diagrams, flowcharts, web pages, audio files, video files and images.
+
+Use **H2O Generative AI** to:
+-----------------------------
+
+*   Inspect legal documents and find missing information
+
+*   Analyze financial health, risk or sentiment
+
+*   Do routine checks to find inconsistencies in documents
+
+*   Generate new content for support responses
+
+*   Standardize legal contracts or generate new content
+
+*   Summarize complaints and generate escalations 
+
+#### H2O Diff Tool coming soon to h2oGPTe
+
+[Learn More](https://h2o.ai/LLM-Powered-Document-Comparison/ "Learn more about H2O Diff Tool")[](https://h2o.ai/content/h2o/us/en "Learn more about the H2O Diff Tool")
+
+ ![Image 189: web of yellow data lines with a lock and shield](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop/par/section_443307689_co/par/advancedcolumncontro/columns0/image.coreimg.png/1735340094331/airgapped-1x.png) ![Image 190: web-of-yellow-data-lines-with-a-lock-and-shield](https://h2o.ai/content/dam/h2o/images/marketing/homepage/airGapped-Mobile-1x.png)
+
+Built for **air-gapped**, **on-premises, private** or **managed cloud deployments.**
+------------------------------------------------------------------------------------
+
+### Own your data, own your prompts. 
+
+Only H2O.ai provides an end-to-end GenAI platform where you can own every part of the stack.
+
+H2O.ai offers a highly flexible solution, that can run fully managed in the cloud, or in hybrid or on-premise and air-gapped environments.
+
+Fully scalable with Kubernetes.
+
+ ![Image 191: AICPA SOC2 compliance seal](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop/par/section_443307689_co/par/advancedcolumncontro/columns1/advancedcolumncontro/columns0/image.coreimg.png/1735340094588/aicpa-soc2-seal.png) ![Image 192: AICPA SOC2 compliance seal](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop/par/section_443307689_co/par/advancedcolumncontro/columns1/advancedcolumncontro/columns0/image.coreimg.png/1735340094588/aicpa-soc2-seal.png)
+
+##### H2O.ai achieves   
+SOC2 Type 2 +HIPAA/HITECH
+
+**Cost control** and **flexibility**
+------------------------------------
+
+Customers can decide to mix and match from a large choice of over 30 LLMs:
+
+### Proprietary LLMs:
+
+*   Gemini, Claude, GPT-3.5 or 4, Bedrock, Groq, Mistral, etc.
+    
+*   Reliance on third-party provider
+    
+*   No control, no ownership
+    
+*   Token-based pricing, unbounded cost
+    
+
+### Open source LLMs:
+
+*   Mixtral, Mistral, H2O Danube, Llama3, Fine-Tunes, etc.
+    
+*   Any model from Open-Source ecosystem
+    
+*   Hosted on your own GPU infrastructure
+    
+*   Full control and ownership of models
+    
+*   Fixed hardware cost, most economical choice
+    
+*   Cost savings on H2O.ai Platform. 25x cheaper on query cost.
+    
+*   Serve more users. Better accuracy with up to 100% cheaper on Document Processing.
+    
+
+ ![Image 193: product shot of a drop down menu under "LLM to use" with a list of models to choose from](https://h2o.ai/_jcr_content/root/container/section_2087026331_c/par/advancedcolumncontro/columns2/wrappercomponent_cop/par/image.coreimg.png/1735340095235/cost-and-flexibility.png) ![Image 194: product shot of a drop down menu under "LLM to use" with a list of models to choose from](https://h2o.ai/_jcr_content/root/container/section_2087026331_c/par/advancedcolumncontro/columns2/wrappercomponent_cop/par/image.coreimg.png/1735340095235/cost-and-flexibility.png)
+
+ ![Image 195: white arrow pointing up right](https://h2o.ai/_jcr_content/root/container/section_2087026331_c/par/advancedcolumncontro/columns2/wrappercomponent_cop/par/advancedcolumncontro/columns0/image.coreimg.png/1735340095358/arrow-1x.png) ![Image 196: white arrow pointing up right](https://h2o.ai/_jcr_content/root/container/section_2087026331_c/par/advancedcolumncontro/columns2/wrappercomponent_cop/par/advancedcolumncontro/columns0/image.coreimg.png/1735340095358/arrow-1x.png)
+
+##### h2oGPTe is designed to work with any LLM of your choice
+
+ ![Image 197: gartner logo in white](https://h2o.ai/_jcr_content/root/container/wrappercomponent/par/section/par/advancedcolumncontro/columns0/wrappercomponent_cop/par/image.coreimg.png/1735340095965/gartner-logo-white.png) ![Image 198: gartner logo in white](https://h2o.ai/_jcr_content/root/container/wrappercomponent/par/section/par/advancedcolumncontro/columns0/wrappercomponent_cop/par/image.coreimg.png/1735340095965/gartner-logo-white.png)
+
+**Visionary in Gartner Magic Quadrant:**   
+Data Science and Machine Learning 2024
+
+Listed in Gartner Magic Quadrant (Cloud AI Developer Services) in 2020, 2021, 2022, 2023, and 2024
+
+Listed in Gartner Magic Quadrant (Data Science and Machine Learning) in 2018, 2019, 2020, 2021, 2023, and 2024
+
+[Get the Report](https://h2o.ai/platform/gartner/)
+
+ ![Image 199: Forrester logo white](https://h2o.ai/_jcr_content/root/container/wrappercomponent/par/section/par/advancedcolumncontro/columns1/wrappercomponent_cop/par/image.coreimg.png/1735340095711/forrester-logo-white.png) ![Image 200: Forrester logo white](https://h2o.ai/_jcr_content/root/container/wrappercomponent/par/section/par/advancedcolumncontro/columns1/wrappercomponent_cop/par/image.coreimg.png/1735340095711/forrester-logo-white.png)
+
+**The Forrester Wave™: Computer Vision Tools, Q1 2024:**
+
+Named as a leader in this year's Forrester’s Wave report for the Computer Vision Tools Landscape
+
+[Get the Report](https://h2o.ai/platform/Forrester/)
+
+**GenAI** App Store
+-------------------
+
+As the maker of the world’s best AutoML, H2O.ai is converging Predictive AI with Generative AI, and helping leading global brands save billions of dollars a year with purpose-built AI for hundreds of use cases such as:
+
+Fraud and scam detection
+
+Complaint summarizer
+
+Recommendation engine
+
+KYC, loan application risk
+
+Pricing engines and more
+
+[Try Sample GenAI Apps Built On h2oGPT](https://genai.h2o.ai/appstore)
+
+ ![Image 201: screenshot of code, black text on white](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_357714475/par/section_1332189596_c/par/advancedcolumncontro/columns0/image.coreimg.png/1735340096852/api-key.png) ![Image 202: screenshot of code, black text on white](https://h2o.ai/_jcr_content/root/container/wrappercomponent_cop_357714475/par/section_1332189596_c/par/advancedcolumncontro/columns0/image.coreimg.png/1735340096852/api-key.png)
+
+Get your **API key**
+--------------------
+
+H2O Generative AI can solve a broad spectrum of natural language use cases, including classification, semantic search, paraphrasing, summarization, and content generation.
+
+h2oGPTe is used by companies to build production-ready, scalable and efficient AI-powered applications.
+
+Write custom apps with fully featured Python client APIs
+
+Seamlessly integrate state-of-the-art text, image, and code generation capabilities into your projects
+
+[Get your API Key](https://h2ogpte.genai.h2o.ai/)
+
+ ![Image 203](https://h2o.ai/_jcr_content/root/container/section_642993593_co/par/image.coreimg.png/1735340097043/dottedwaves.png) ![Image 204: dottedwavesmobile-1x](https://h2o.ai/content/dam/h2o/images/marketing/homepage/DottedWavesMobile-1x.png)
+
+#### Why H2O.ai
+
+*   [About Us](https://h2o.ai/company/ "About Us")
+*   [Team](https://h2o.ai/company/team/ "Team")
+*   [News](https://h2o.ai/company/news/ "News")
+*   [Careers](https://h2o.ai/company/careers/ "Careers")
+*   [Customers](https://h2o.ai/case-studies/ "Customers")
+*   [Contact Us](https://h2o.ai/company/contact-us/ "Contact Us")
+*   [Request Live Demo](https://h2o.ai/demo/ "Request Live Demo")
+*   [On-Demand Demos](https://h2o.ai/demo-center/ "On-Demand Demos")
+
+#### Products
+
+*   [H2O AI Cloud](https://h2o.ai/platform/ai-cloud/ "H2O AI Cloud")
+*   [H2O-3](https://h2o.ai/platform/ai-cloud/make/h2o/ "H2O-3")
+*   [H2O Driverless AI](https://h2o.ai/platform/ai-cloud/make/h2o-driverless-ai/ "H2O Driverless AI")
+*   [H2O Feature Store](https://h2o.ai/platform/ai-cloud/make/feature-store/ "H2O Feature Store")
+*   [H2O Document AI](https://h2o.ai/platform/ai-cloud/make/document-ai/ "H2O Document AI")
+*   [H2O Wave](https://h2o.ai/platform/ai-cloud/make/h2o-wave/ "H2O Wave")
+*   [Sparkling Water](https://h2o.ai/products/h2o-sparkling-water/ "Sparkling Water")
+*   [Managed Cloud Status Dashboard](https://status.cloud.h2o.ai/ "Managed Cloud Status Dashboard")
+
+#### Resources
+
+*   [H2O University](https://h2o.ai/university/ "H2O University")
+*   [Use Cases](https://h2o.ai/solutions/use-case/ "Use Cases")
+*   [Resources Archive](https://h2o.ai/resources/ "Resources Archive")
+*   [Documentation](https://docs.h2o.ai/?_ga=2.265764045.395880415.1642434485-233561653.1623873414&_gac=1.162721358.1642553644.CjwKCAiA55mPBhBOEiwANmzoQnhb3P9BbF_amsYDJJYPKBDJiTp34_x4uFwt5xhISAhi_Bqk602S2xoC2ToQAvD_BwE "Documentation")
+*   [Downloads](https://h2o.ai/resources/download/ "Downloads")
+*   [Events](https://h2o.ai/events/ "Events")
+*   [H2O.ai Brand Kit](https://h2o.ai/company/brand-kit/ "H2O.ai Brand Kit")
+*   [Security Bulletins](https://h2o.ai/security/bulletins/ "Security Bulletins")
+*   [Legal](https://h2o.ai/legal/ "Legal")
+
+#### Insights
+
+*   [What is an AI Cloud?](https://h2o.ai/insights/what-is-ai-cloud/ "What is an AI Cloud?")
+*   [Strategic Transformation](https://h2o.ai/insights/strategic-transformation/ "Strategic Transformation")
+*   [Democratizing AI](https://h2o.ai/company/democratize-ai/ "Democratizing AI")
+*   [Responsible AI](https://h2o.ai/insights/responsible-ai/ "Responsible AI")
+*   [AI Governance](https://h2o.ai/insights/ai-governance/ "AI Governance")
+*   [Be an AI Company](https://h2o.ai/insights/make-your-own-ai/ "Be an AI Company")
+*   [AI 4 Good](https://h2o.ai/company/ai-4-good/ "AI 4 Good")
+
+Subscribe
+
+Get the latest products updates, community events and other news.
+
+*    [![Image 205: Github](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/Github-sunshine.svg) ![Image 206: Github](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/Github.svg)](https://github.com/h2oai)
+*    [![Image 207: X](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/X-sunshine.svg) ![Image 208: X](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/X.svg)](https://twitter.com/h2oai)
+*    [![Image 209: Gitter](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/Gitter-sunshine.svg) ![Image 210: Gitter](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/Gitter.svg)](https://gitter.im/h2oai/h2o-3)
+*    [![Image 211: Linkedin](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/Linkedin-sunshine.svg) ![Image 212: Linkedin](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/Linkedin.svg)](https://www.linkedin.com/company/h2oai/)
+*    [![Image 213: YouTube](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/YouTube-sunshine.svg) ![Image 214: YouTube](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/YouTube.svg)](https://www.youtube.com/user/0xdata)
+*    [![Image 215: Facebook](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/Facebook-sunshine.svg) ![Image 216: Facebook](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/Facebook.svg)](https://www.facebook.com/h2oai/)
+*    [![Image 217: Instagram](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/Instagram-sunshine.svg) ![Image 218: Instagram](https://h2o.ai/etc.clientlibs/h2o/clientlibs/clientlib-site/resources/icons/social-icons/Instagram.svg)](https://www.instagram.com/h2o.ai/)
+
+  [![Image 219: H2O Logo](https://h2o.ai/content/experience-fragments/h2o/us/en/site/footer/master/_jcr_content/root/container/footer/logo.coreimg.svg/1721403586978/h2o-logo.svg) ![Image 220: H2O Logo](https://h2o.ai/content/experience-fragments/h2o/us/en/site/footer/master/_jcr_content/root/container/footer/logo.coreimg.svg/1721403586978/h2o-logo.svg)](https://h2o.ai/)
+
+Copyright © 2024 H2O.ai. All rights reserved
+
+*   [Privacy Policy](https://h2o.ai/legal/privacy/ "Privacy Policy")
+*   [Cookie Preferences](https://h2o.ai/# "Cookie Preferences")

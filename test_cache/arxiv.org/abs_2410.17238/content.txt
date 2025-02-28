@@ -1,0 +1,95 @@
+Skip to main content
+
+In just 3 minutes help us improve arXiv:
+
+Annual Global Survey
+We gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors.
+Donate
+>
+cs
+>
+arXiv:2410.17238
+
+Help | Advanced Search
+
+All fields
+Title
+Author
+Abstract
+Comments
+Journal reference
+ACM classification
+MSC classification
+Report number
+arXiv identifier
+DOI
+ORCID
+arXiv author ID
+Help pages
+Full text
+Search
+Computer Science > Artificial Intelligence
+[Submitted on 22 Oct 2024]
+SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning
+Yizhou Chi, Yizhang Lin, Sirui Hong, Duyi Pan, Yaying Fei, Guanghao Mei, Bangbang Liu, Tianqi Pang, Jacky Kwok, Ceyao Zhang, Bang Liu, Chenglin Wu
+Automated Machine Learning (AutoML) approaches encompass traditional methods that optimize fixed pipelines for model selection and ensembling, as well as newer LLM-based frameworks that autonomously build pipelines. While LLM-based agents have shown promise in automating machine learning tasks, they often generate low-diversity and suboptimal code, even after multiple iterations. To overcome these limitations, we introduce Tree-Search Enhanced LLM Agents (SELA), an innovative agent-based system that leverages Monte Carlo Tree Search (MCTS) to optimize the AutoML process. By representing pipeline configurations as trees, our framework enables agents to conduct experiments intelligently and iteratively refine their strategies, facilitating a more effective exploration of the machine learning solution space. This novel approach allows SELA to discover optimal pathways based on experimental feedback, improving the overall quality of the solutions. In an extensive evaluation across 20 machine learning datasets, we compare the performance of traditional and agent-based AutoML methods, demonstrating that SELA achieves a win rate of 65% to 80% against each baseline across all datasets. These results underscore the significant potential of agent-based strategies in AutoML, offering a fresh perspective on tackling complex machine learning challenges.
+Comments:	The code is available at this https URL
+Subjects:	Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Machine Learning (cs.LG); Software Engineering (cs.SE)
+Cite as:	arXiv:2410.17238 [cs.AI]
+ 	(or arXiv:2410.17238v1 [cs.AI] for this version)
+ 	
+https://doi.org/10.48550/arXiv.2410.17238
+Focus to learn more
+Submission history
+From: Yizhang Lin [view email]
+[v1] Tue, 22 Oct 2024 17:56:08 UTC (863 KB)
+
+Access Paper:
+View PDF
+HTML (experimental)
+TeX Source
+Other Formats
+view license
+Current browse context:
+cs.AI
+< prev   |   next >
+
+new | recent | 2024-10
+Change to browse by:
+cs
+cs.CL
+cs.LG
+cs.SE
+
+References & Citations
+NASA ADS
+Google Scholar
+Semantic Scholar
+Export BibTeX Citation
+Bookmark
+ 
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer (What is the Explorer?)
+Connected Papers Toggle
+Connected Papers (What is Connected Papers?)
+Litmaps Toggle
+Litmaps (What is Litmaps?)
+scite.ai Toggle
+scite Smart Citations (What are Smart Citations?)
+Code, Data, Media
+Demos
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?)
+About
+Help
+Contact
+Subscribe
+Copyright
+Privacy Policy
+Web Accessibility Assistance
+
+arXiv Operational Status 
+Get status notifications via email or slack

@@ -1,0 +1,9 @@
+🍪 Yes, we use cookies
+----------------------
+
+This website utilizes cookies to enable essential site functionality and analytics. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.  
+Read more about this in our [privacy and cookie statement](https://codesandbox.io/legal/cookies).
+
+Accept allReject all
+
+Manage preferences

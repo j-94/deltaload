@@ -1,0 +1,145 @@
+_Transform platform engineering with tailor-made live templates and service catalog 🚀_
+
+[![Image 160: dashboard](https://private-user-images.githubusercontent.com/149934977/329926831-80ed0d00-2f08-4bd8-92b1-1a347bb30ba6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii8xNDk5MzQ5NzcvMzI5OTI2ODMxLTgwZWQwZDAwLTJmMDgtNGJkOC05MmIxLTFhMzQ3YmIzMGJhNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMFQxNTI1MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ODhlNjg2ZWU5Mjg1Y2JlNzZkNjJlNzE5MzIxMWQ4YTdjZmE3YWI2YWRhOGUzMTI3YTEzMmMwMmFjMzg2ZGY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WFYSQt_aQuNxyxjQAjuVJ3xMVn3prsjOK8DGaoUaRjg)](https://private-user-images.githubusercontent.com/149934977/329926831-80ed0d00-2f08-4bd8-92b1-1a347bb30ba6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii8xNDk5MzQ5NzcvMzI5OTI2ODMxLTgwZWQwZDAwLTJmMDgtNGJkOC05MmIxLTFhMzQ3YmIzMGJhNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMFQxNTI1MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ODhlNjg2ZWU5Mjg1Y2JlNzZkNjJlNzE5MzIxMWQ4YTdjZmE3YWI2YWRhOGUzMTI3YTEzMmMwMmFjMzg2ZGY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WFYSQt_aQuNxyxjQAjuVJ3xMVn3prsjOK8DGaoUaRjg)
+
+Introduction
+------------
+
+[](https://github.com/amplication/amplication?screenshot=true#introduction)
+
+`Amplication` enables you to quickly build, maintain, and scale backend services that embed your company’s best practices and standards.
+
+With Amplication you can create your own live templates embedding your organization’s best practices and standards, to ensure consistency and compliance from the start.
+
+Leveraging AI-powered automation, Amplication will generate microservices in no time, with everything that is needed to support your business domain: APIs, data models, DTOs and more, allowing engineers to focus on business logic.
+
+Now your live applications will be always up-to-date. Amplication automatically handles package updates, patches, and versioning, reducing technical debt and ensuring consistency across your services.
+
+Features[![Image 161: apis](https://private-user-images.githubusercontent.com/73097785/237734095-9908a54a-7d49-4dbb-8f5e-3e99b7cadf30.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii83MzA5Nzc4NS8yMzc3MzQwOTUtOTkwOGE1NGEtN2Q0OS00ZGJiLThmNWUtM2U5OWI3Y2FkZjMwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1NjQ3MjYwNjZjYWFlMmRkNmZlMGU3NGJlNWM2MDg4MzhmOGM2YjNlMGUyYTc0OTQ1MmM0MjY0OGY5OGIzMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ikn6O3tl0Rl1PR1b8mmt317jUbj1NjXLxWLADS0QTn8)](https://private-user-images.githubusercontent.com/73097785/237734095-9908a54a-7d49-4dbb-8f5e-3e99b7cadf30.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii83MzA5Nzc4NS8yMzc3MzQwOTUtOTkwOGE1NGEtN2Q0OS00ZGJiLThmNWUtM2U5OWI3Y2FkZjMwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1NjQ3MjYwNjZjYWFlMmRkNmZlMGU3NGJlNWM2MDg4MzhmOGM2YjNlMGUyYTc0OTQ1MmM0MjY0OGY5OGIzMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ikn6O3tl0Rl1PR1b8mmt317jUbj1NjXLxWLADS0QTn8)   [![Image 162: data-models](https://private-user-images.githubusercontent.com/73097785/237734544-ff406403-27f7-42b5-9569-d011432f16e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii83MzA5Nzc4NS8yMzc3MzQ1NDQtZmY0MDY0MDMtMjdmNy00MmI1LTk1NjktZDAxMTQzMmYxNmU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyZjlkNGNiMGFlYTY1MmE2MGVhOGE5YzI2NDZjN2VmMzU5ZjI1YjdkNDc1NWRiOWU4YTQ1YTM3NzE5YzlmMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.u_8nXhEpQ3-cgss_-wqdIF2F0x9ovfoavK2iAaFzKzg)](https://private-user-images.githubusercontent.com/73097785/237734544-ff406403-27f7-42b5-9569-d011432f16e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii83MzA5Nzc4NS8yMzc3MzQ1NDQtZmY0MDY0MDMtMjdmNy00MmI1LTk1NjktZDAxMTQzMmYxNmU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyZjlkNGNiMGFlYTY1MmE2MGVhOGE5YzI2NDZjN2VmMzU5ZjI1YjdkNDc1NWRiOWU4YTQ1YTM3NzE5YzlmMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.u_8nXhEpQ3-cgss_-wqdIF2F0x9ovfoavK2iAaFzKzg)
+
+[![Image 163: plugins](https://private-user-images.githubusercontent.com/73097785/237736331-62c8d533-8475-4290-abc8-c433c095e68a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii83MzA5Nzc4NS8yMzc3MzYzMzEtNjJjOGQ1MzMtODQ3NS00MjkwLWFiYzgtYzQzM2MwOTVlNjhhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiYmI5M2FkOGEwNDJlYzkwNjgwMzZlYmJmNDNjODIzNDJlYzQ4Y2VlYWJmMTczMzkzOTMxZGRiNmYwMmQ5YmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gNaxHVJUebDKzCHXGU01SUmkgQqUl0fIiQeE6lAVIuE)](https://private-user-images.githubusercontent.com/73097785/237736331-62c8d533-8475-4290-abc8-c433c095e68a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii83MzA5Nzc4NS8yMzc3MzYzMzEtNjJjOGQ1MzMtODQ3NS00MjkwLWFiYzgtYzQzM2MwOTVlNjhhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiYmI5M2FkOGEwNDJlYzkwNjgwMzZlYmJmNDNjODIzNDJlYzQ4Y2VlYWJmMTczMzkzOTMxZGRiNmYwMmQ5YmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gNaxHVJUebDKzCHXGU01SUmkgQqUl0fIiQeE6lAVIuE)   [![Image 164: microservices](https://private-user-images.githubusercontent.com/73097785/237734514-9c67a354-a06f-47d1-a118-ab89b775bf91.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii83MzA5Nzc4NS8yMzc3MzQ1MTQtOWM2N2EzNTQtYTA2Zi00N2QxLWExMTgtYWI4OWI3NzViZjkxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1Y2JkZWM2Y2ZhZGQ4YmExY2RmNWRiMjc4NWQwY2NmNTlhN2UwMGFhOTFmNThiYjNmMzdhOWUwNDAwZmFkYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HCpjJr0McGzH9gNyNRF5O1bSoaoLFf1KzQ7wITCDr0k)](https://private-user-images.githubusercontent.com/73097785/237734514-9c67a354-a06f-47d1-a118-ab89b775bf91.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii83MzA5Nzc4NS8yMzc3MzQ1MTQtOWM2N2EzNTQtYTA2Zi00N2QxLWExMTgtYWI4OWI3NzViZjkxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1Y2JkZWM2Y2ZhZGQ4YmExY2RmNWRiMjc4NWQwY2NmNTlhN2UwMGFhOTFmNThiYjNmMzdhOWUwNDAwZmFkYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HCpjJr0McGzH9gNyNRF5O1bSoaoLFf1KzQ7wITCDr0k)
+
+[![Image 165: own-your-code](https://private-user-images.githubusercontent.com/149934977/329989140-4daf03a4-0866-49c9-8dd6-a340f3465c73.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii8xNDk5MzQ5NzcvMzI5OTg5MTQwLTRkYWYwM2E0LTA4NjYtNDljOS04ZGQ2LWEzNDBmMzQ2NWM3My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMFQxNTI1MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNGRmMTI0ZGUxMGMxMzEwYzRhNmU4MjRkOTRiNGRlMGNiMWM2ZjQxMDQ1NjkxYjliYjI2ZmIwMmFkMWQ1ZDdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JsLYY_Kbh8llA6wrm5CCgGAK_ZyTQ8S_BNxX-KCbUvo)](https://private-user-images.githubusercontent.com/149934977/329989140-4daf03a4-0866-49c9-8dd6-a340f3465c73.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii8xNDk5MzQ5NzcvMzI5OTg5MTQwLTRkYWYwM2E0LTA4NjYtNDljOS04ZGQ2LWEzNDBmMzQ2NWM3My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMFQxNTI1MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNGRmMTI0ZGUxMGMxMzEwYzRhNmU4MjRkOTRiNGRlMGNiMWM2ZjQxMDQ1NjkxYjliYjI2ZmIwMmFkMWQ1ZDdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JsLYY_Kbh8llA6wrm5CCgGAK_ZyTQ8S_BNxX-KCbUvo)   [![Image 166: customize-code](https://private-user-images.githubusercontent.com/73097785/237736221-1cca9721-b8d6-425b-a1a9-d10d3cdcc9b8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii83MzA5Nzc4NS8yMzc3MzYyMjEtMWNjYTk3MjEtYjhkNi00MjViLWExYTktZDEwZDNjZGNjOWI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlNmJlZDI3ZGE0NTg3NWFiYjQ5NzM2ZjdjYTQyZDFjYTc4ZDgwMmUyYjgyODQwMTExMTAyMDA4MDdjYmU3MzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R43dkRNDVz25cT6UpO60amzNl9d7rKuT3ohi4O2RiFw)](https://private-user-images.githubusercontent.com/73097785/237736221-1cca9721-b8d6-425b-a1a9-d10d3cdcc9b8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODcwMTIsIm5iZiI6MTczNzM4NjcxMiwicGF0aCI6Ii83MzA5Nzc4NS8yMzc3MzYyMjEtMWNjYTk3MjEtYjhkNi00MjViLWExYTktZDEwZDNjZGNjOWI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE1MjUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlNmJlZDI3ZGE0NTg3NWFiYjQ5NzM2ZjdjYTQyZDFjYTc4ZDgwMmUyYjgyODQwMTExMTAyMDA4MDdjYmU3MzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R43dkRNDVz25cT6UpO60amzNl9d7rKuT3ohi4O2RiFw)         
+
+Usage
+-----
+
+[](https://github.com/amplication/amplication?screenshot=true#usage)
+
+To get started with Amplication, the hosted version of the product can be used. You can get started immediately at [app.amplication.com](https://app.amplication.com/). After the login page, you will be guided through creating your first service. The [website](https://amplication.com/) provides an overview of the application, additional information on the product and guides can be found in the [docs](https://docs.amplication.com/).
+
+Tutorials  
+
+*   [To-do application using Amplication and Angular](https://docs.amplication.com/tutorials/angular-todos)
+*   [To-do application using Amplication and React](https://docs.amplication.com/tutorials/react-todos)
+
+Development
+-----------
+
+[](https://github.com/amplication/amplication?screenshot=true#development)
+
+Alternatively, instead of using the hosted version of the product, Amplication can be run locally for code generation purposes or contributions - if so, please refer to our [contributing](https://github.com/amplication/amplication?screenshot=true#contributing_anchor) section.
+
+Pre-requisites  
+To be able to start development on Amplication, make sure that you have the following prerequisites installed:
+
+*   Node.js
+*   Docker
+*   Git
+
+Running Amplication  
+
+> **Note** It is also possible to start development with GitHub Codespaces, when navigating to `< > Code`, select `Codespaces` instead of `Local`. Click on either the `+`\-sign or the `Create codespace on master`\-button.
+
+Amplication is using a monorepo architecture - powered by [Nx Workspaces](https://nx.dev/) - where multiple applications and libraries exist in a single repository. To setup a local development environment the following steps can be followed:
+
+**BEFORE** you run the following steps make sure:
+
+1.  You have typescript installed locally on you machine `npm install -g typescript`
+    
+2.  You are using a supported node version (check `engines` `node` in the [package.json](https://github.com/amplication/amplication/blob/master/package.json))
+    
+3.  You are using a supported npm version (check `engines` `npm` in the [package.json](https://github.com/amplication/amplication/blob/master/package.json))
+    
+4.  You have `docker` installed and running on your machine
+    
+5.  Clone the repository and install dependencies:
+    
+
+git clone https://github.com/amplication/amplication.git && cd amplication && npm install
+
+2.  Run the setup script, which takes care of installing dependencies, building packages, and setting up the workspace:
+
+3.  Option 1: Running the required infrastructure - view infrastructure component logs
+
+3.  Option 2: Running the required infrastructure - run the infrastructure components in background
+
+4.  Apply database migrations
+
+npm run db:migrate:deploy
+
+5.  To start developing, run one or more of the applications available under `serve:[application]` scripts of the package.json.
+
+# running the server component
+npm run serve:server
+
+# running the client component
+npm run serve:client
+
+# running the data-service-generator component
+npm run serve:dsg
+
+# running the git-sync-manager component
+npm run serve:git
+
+# running the plugin-api component
+npm run serve:plugins
+
+> **Note** In order to run the Amplication client properly, both the client and server need to be started by the `npm run serve:[application]` command, as well as an additional component for development on a specific component.
+
+The development environment should now be set up. Additional information on the different application components can be found under packages/`[application]`/README.md file. Happy hacking! 👾
+
+Resources
+---------
+
+[](https://github.com/amplication/amplication?screenshot=true#resources)
+
+*   **[Website](https://amplication.com/)** overview of the product.
+*   **[Docs](https://docs.amplication.com/)** for comprehensive documentation.
+*   **[Blog](https://amplication.com/blog)** for guides and technical comparisons.
+*   **[Discord](https://amplication.com/discord)** for support and discussions with the community and the team.
+*   **[GitHub](https://github.com/amplication/amplication)** for source code, project board, issues, and pull requests.
+*   **[Twitter](https://twitter.com/amplication)** for the latest updates on the product and published blogs.
+*   **[YouTube](https://www.youtube.com/c/Amplicationcom)** for guides and technical talks.
+
+Contributing
+------------
+
+[](https://github.com/amplication/amplication?screenshot=true#contributing)
+
+The majority of Amplication code is open-source. We are committed to a transparent development process and highly appreciate any contributions. Whether you are helping us fix bugs, proposing new features, improving our documentation or spreading the word - we would love to have you as a part of the Amplication community. Please refer to our [contribution guidelines](https://github.com/amplication/amplication/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/amplication/amplication/blob/master/CODE_OF_CONDUCT.md).
+
+*   Bug Report: If you see an error message or encounter an issue while using Amplication, please create a [bug report](https://github.com/amplication/amplication/issues/new?assignees=&labels=type%3A+bug&template=bug.yaml&title=%F0%9F%90%9B+Bug+Report%3A+).
+    
+*   Feature Request: If you have an idea or if there is a capability that is missing and would make development easier and more robust, please submit a [feature request](https://github.com/amplication/amplication/issues/new?assignees=&labels=type%3A+feature+request&template=feature.yml).
+    
+*   Documentation Request: If you're reading the Amplication docs and feel like you're missing something, please submit a [documentation request](https://github.com/amplication/amplication/issues/new?assignees=&labels=type%3A+docs&template=documentation-request.yaml&title=%F0%9F%93%96+Documentation%3A+).
+    
+
+Not sure where to start? Join our discord and we will help you get started!
+
+[![Image 167](https://camo.githubusercontent.com/e767d818dc760523266cccb7b04dc62f62eff1b6932da97a35c0f670525d2c5f/68747470733a2f2f616d706c69636174696f6e2e636f6d2f696d616765732f646973636f72645f62616e6e65725f707572706c652e737667)](https://amplication.com/discord)
+
+Contributors
+------------
+
+[](https://github.com/amplication/amplication?screenshot=true#contributors)
+
+[![Image 168](https://avatars.githubusercontent.com/u/43705455?v=4)](https://github.com/yuval-hazaz) [![Image 169](https://avatars.githubusercontent.com/u/12671072?v=4)](https://github.com/iddan) [![Image 170](https://avatars.githubusercontent.com/u/61761153?v=4)](https://github.com/tupe12334) [![Image 171](https://avatars.githubusercontent.com/u/39680385?v=4)](https://github.com/abrl91) [![Image 172](https://avatars.githubusercontent.com/u/97830649?v=4)](https://github.com/morhag90) [![Image 173](https://avatars.githubusercontent.com/u/4976416?v=4)](https://github.com/arielweinberger) [![Image 174](https://avatars.githubusercontent.com/u/6080188?v=4)](https://github.com/EugeneTseitlin) [![Image 175](https://avatars.githubusercontent.com/u/91742238?v=4)](https://github.com/mshidlov) [![Image 176](https://avatars.githubusercontent.com/u/4712526?v=4)](https://github.com/barshimi) [![Image 177](https://avatars.githubusercontent.com/u/2861984?v=4)](https://github.com/overbit) [![Image 178](https://avatars.githubusercontent.com/u/34738985?v=4)](https://github.com/germanilia) [![Image 179](https://avatars.githubusercontent.com/u/91251849?v=4)](https://github.com/shaharblanksela) [![Image 180](https://avatars.githubusercontent.com/u/62651890?v=4)](https://github.com/GalCegla) [![Image 181](https://avatars.githubusercontent.com/u/71218434?v=4)](https://github.com/belkind27) [![Image 182](https://avatars.githubusercontent.com/u/73097785?v=4)](https://github.com/levivannoort) [![Image 183](https://avatars.githubusercontent.com/u/39362422?v=4)](https://github.com/jainpawan21) [![Image 184](https://avatars.githubusercontent.com/u/33841027?v=4)](https://github.com/g-traub) [![Image 185](https://avatars.githubusercontent.com/u/74647848?v=4)](https://github.com/lalit8347) [![Image 186](https://avatars.githubusercontent.com/u/40050499?v=4)](https://github.com/alonram) [![Image 187](https://avatars.githubusercontent.com/u/62111075?v=4)](https://github.com/muhsinkamil) [![Image 188](https://avatars.githubusercontent.com/u/74011196?v=4)](https://github.com/lokeswaran-aj) [![Image 189](https://avatars.githubusercontent.com/u/20791516?v=4)](https://github.com/meeroslava) [![Image 190](https://avatars.githubusercontent.com/u/8627181?v=4)](https://github.com/udanna) [![Image 191](https://avatars.githubusercontent.com/u/30779692?v=4)](https://github.com/CKanishka) [![Image 192](https://avatars.githubusercontent.com/u/1501599?v=4)](https://github.com/gitstart) [![Image 193](https://avatars.githubusercontent.com/u/32982671?v=4)](https://github.com/almogbhl) [![Image 194](https://avatars.githubusercontent.com/u/30198386?v=4)](https://github.com/chaiwattsw) [![Image 195](https://avatars.githubusercontent.com/u/113434018?v=4)](https://github.com/astitva0011) [![Image 196](https://avatars.githubusercontent.com/u/9283404?v=4)](https://github.com/kalmanl) [![Image 197](https://avatars.githubusercontent.com/u/52954931?v=4)](https://github.com/akshay-bharadva) [![Image 198](https://avatars.githubusercontent.com/u/53312820?v=4)](https://github.com/souravjain540) [![Image 199](https://avatars.githubusercontent.com/u/96979533?v=4)](https://github.com/MoFoGo) [![Image 200](https://avatars.githubusercontent.com/u/20028628?v=4)](https://github.com/molaycule) [![Image 201](https://avatars.githubusercontent.com/u/23207069?v=4)](https://github.com/theamanbhargava) [![Image 202](https://avatars.githubusercontent.com/u/11811422?v=4)](https://github.com/MichaelSolati) [![Image 203](https://avatars.githubusercontent.com/u/59088937?v=4)](https://github.com/b4s36t4) [![Image 204](https://avatars.githubusercontent.com/u/39256258?v=4)](https://github.com/gabimoncha) [![Image 205](https://avatars.githubusercontent.com/u/76608039?v=4)](https://github.com/ShabanaNaik) [![Image 206](https://avatars.githubusercontent.com/u/38404399?v=4)](https://github.com/Spid3rrr) [![Image 207](https://avatars.githubusercontent.com/u/1912933?v=4)](https://github.com/mulygottlieb) [![Image 208](https://avatars.githubusercontent.com/u/23402178?v=4)](https://github.com/TheLearneer) [![Image 209](https://avatars.githubusercontent.com/u/62179149?v=4)](https://github.com/wiseaidev) [![Image 210](https://avatars.githubusercontent.com/u/82395440?v=4)](https://github.com/VoidCupboard) [![Image 211](https://avatars.githubusercontent.com/u/74118584?v=4)](https://github.com/kabhamo) [![Image 212](https://avatars.githubusercontent.com/u/33012425?v=4)](https://github.com/michizhou) [![Image 213](https://avatars.githubusercontent.com/u/80101755?v=4)](https://github.com/Himanxu1) [![Image 214](https://avatars.githubusercontent.com/u/114295834?v=4)](https://github.com/ahlavorato) [![Image 215](https://avatars.githubusercontent.com/u/60089135?v=4)](https://github.com/munyoudoum) [![Image 216](https://avatars.githubusercontent.com/u/73245914?v=4)](https://github.com/rkshaw20) [![Image 217](https://avatars.githubusercontent.com/u/9935021?v=4)](https://github.com/yonantan) [![Image 218](https://avatars.githubusercontent.com/u/96179897?v=4)](https://github.com/alexbass86) [![Image 219](https://avatars.githubusercontent.com/u/15108177?v=4)](https://github.com/jatinparmar96) [![Image 220](https://avatars.githubusercontent.com/u/20914059?v=4)](https://github.com/AllMikeNoIke) [![Image 221](https://avatars.githubusercontent.com/u/96976448?v=4)](https://github.com/ilovetensor) [![Image 222](https://avatars.githubusercontent.com/u/58940073?v=4)](https://github.com/asharonbaltazar) [![Image 223](https://avatars.githubusercontent.com/u/87334449?v=4)](https://github.com/goingdust)
+
+License
+-------
+
+[](https://github.com/amplication/amplication?screenshot=true#license)
+
+A large part of this project is licensed under the [Apache 2.0](https://github.com/amplication/amplication/blob/master/LICENSE) license. The only exception are the components under the `ee` (enterprise edition) directory, these are licensed under the [Amplication Enterprise Edition](https://github.com/amplication/amplication/blob/master/ee/LICENSE) license.

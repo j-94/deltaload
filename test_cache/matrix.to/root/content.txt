@@ -1,0 +1,15 @@
+You're invited to talk on Matrix
+===============        
+
+Preview this link using the **matrix.zerodao.gg** homeserver ([privacy policy](https://matrix.to/#/policy/matrix.zerodao.gg)), use another server or continue without a preview.
+
+Ask every time
+
+![Image 2](https://matrix.to/images/matrix-logo-3303998978.svg)
+
+This invite uses [Matrix](https://matrix.org/), an open network for secure, decentralized communication.
+
+*   [GitHub project](https://github.com/matrix-org/matrix.to)
+*   [Add your app](https://github.com/matrix-org/matrix.to/tree/main/src/open/clients)
+*   Clear preferences
+*   [Disclaimer](https://matrix.to/#/disclaimer/)

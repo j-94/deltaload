@@ -1,0 +1,83 @@
+Secure Data Hosting in the Cloud
+
+Manage your raw data, metadata, annotations online, and streamline data hosting. Diverse annotation types are supported
+
+*   Upload data locally or migrate data from your cloud to Graviti Data Platform. Upgrade your storage space anytime
+*   Support mainstream data annotation types, such as Classification, Box, Polygon, Polyline, Cuboid, etc.
+*   Handle datasets with complex structures, such as time-series datasets and fusion datasets
+
+[Learn More](https://www.graviti.com/data-hosting)
+
+![Image 18: product-pic1](https://us-tutu.s3-us-west-1.amazonaws.com/company-website/202011/tensorbay/tensorbay-pic1%402x.png)
+
+Trackable Version Control
+
+Track data versions swiftly without worrying about changes to your data
+
+*   Publish, tag, and switch versions
+*   Visualize dataset version iterations
+*   Track every change and reference historical versions
+*   Create new datasets from existing ones by splitting or merging without using extra storage space
+
+[Learn More](https://www.graviti.com/version-control)
+
+![Image 19: product-pic2](https://us-tutu.s3-us-west-1.amazonaws.com/company-website/202011/tensorbay/tensorbay-pic2%402x.png)
+
+Real-time Online Data Visualization
+
+Utilize visualization widgets that are compatible with common data formats and annotation types. Multiple previews of data distribution are provided without having to download the dataset or write code
+
+*   Process image, video, and various lidar data types, such as .pnts, .pcd, .bin, .las, and .ply
+*   Browse various types of annotations, such as Classification, 2D Box, 2D Polygon, 2D Polyline, and 3D Box
+*   View the distribution of data labels and attributes in various presentations such as lists, histograms, pie charts, etc. to meet your preference
+*   Embed our visualization widgets into your own page with just one line of code
+
+[Learn More](https://www.graviti.com/visualization)
+
+![Image 20: product-pic3](https://us-tutu.s3-us-west-1.amazonaws.com/company-website/202011/tensorbay/tensorbay-pic3%402x.png)
+
+Efficient Collaboration for Development Teams
+
+Sync and share data safely, avoid endless data replication and migration, and enhance collaboration efficiency
+
+*   Search and view datasets within your team
+*   Secure datasets with role-based access control
+*   Request or approve access to datasets
+
+[Learn More](https://www.graviti.com/collaboration)
+
+![Image 21: product-pic4](https://us-tutu.s3-us-west-1.amazonaws.com/company-website/202011/tensorbay/tensorbay-pic4%402x.png)
+
+User-friendly Developer Tools
+
+For rapid integration of your data and pipeline, Graviti provides developer tools including SDK, CLI, and API with specific documentation and use cases
+
+*   Use PythonSDK and OpenAPI to create new datasets; upload, manage, and read data
+*   Manage data with CLI (Command-line Interface)
+*   View specific documentation and use cases
+
+![Image 22: product-pic5](https://us-tutu.s3-us-west-1.amazonaws.com/company-website/202011/tensorbay/tensorbay-pic5%402x.png)
+
+Efficient and Convenient Workflow Automation
+
+Build workflows by yourself. You can integrate pre-annotation, data filtering, and other operations into one workflow. Workflows can be triggered automatically by Commit or manual operation. Efficient data processing comes at your fingertips.
+
+*   Customize data processing workflows
+*   Support workflow version control
+*   Adjust your workflows flexibly: the name, instance configuration, environment parameters, and the YAML file of workflows can all be edited at any time.
+*   Gain insight into the details of your workflows. The running time and effective time of each workflow and of each server are all displayed on the Run Details page.
+
+[Learn More](https://www.graviti.com/action)
+
+![Image 23: product-pic6](https://us-tutu.s3-us-west-1.amazonaws.com/company-website/202011/tensorbay/tensorbay-pic7%402x.png)
+
+Applications and Services
+
+Integrate more applications and services into your pipeline to accelerate AI development
+
+*   GroundTruth Tools: collaboration tools for data annotation
+*   More applications and services will be available soon...please stay tuned!
+
+[Learn More](https://gas.graviti.com/apps)
+
+![Image 24: product-pic7](https://us-tutu.s3-us-west-1.amazonaws.com/company-website/202011/tensorbay/tensorbay-pic6%402x.png)

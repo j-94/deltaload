@@ -1,0 +1,8 @@
+##### Welcome to Gru.ai
+
+[Join By GitHub](https://gru.ai/api/sso/login?redirect_url=https://gru.ai/@j-94/:jobs/new)
+
+By continue means you agree with  
+Babel [Terms](https://babel.cloud/terms) of use and [Privacy Policy](https://babel.cloud/privacy)
+
+Gru.ai is provided by Babel.cloud

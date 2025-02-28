@@ -1,0 +1,1061 @@
+GitHub - thriveweb/yellowcake: A starter project for creating lightning-fast websites with Gatsby v2 and Netlify-CMS v2 + Uploadcare intergration.
+===============
+                                           
+
+[Skip to content](https://github.com/thriveweb/yellowcake?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fthriveweb%2Fyellowcake%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fthriveweb%2Fyellowcake%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=thriveweb%2Fyellowcake) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[thriveweb](https://github.com/thriveweb) / **[yellowcake](https://github.com/thriveweb/yellowcake)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fthriveweb%2Fyellowcake) You must be signed in to change notification settings
+*   [Fork 136](https://github.com/login?return_to=%2Fthriveweb%2Fyellowcake)
+*   [Star 311](https://github.com/login?return_to=%2Fthriveweb%2Fyellowcake)
+    
+
+A starter project for creating lightning-fast websites with Gatsby v2 and Netlify-CMS v2 + Uploadcare intergration.
+
+[yellowcake.netlify.com](https://yellowcake.netlify.com/ "https://yellowcake.netlify.com")
+
+### License
+
+[MIT license](https://github.com/thriveweb/yellowcake/blob/master/LICENSE)
+
+[311 stars](https://github.com/thriveweb/yellowcake/stargazers) [136 forks](https://github.com/thriveweb/yellowcake/forks) [Branches](https://github.com/thriveweb/yellowcake/branches) [Tags](https://github.com/thriveweb/yellowcake/tags) [Activity](https://github.com/thriveweb/yellowcake/activity)
+
+[Star](https://github.com/login?return_to=%2Fthriveweb%2Fyellowcake)
+
+[Notifications](https://github.com/login?return_to=%2Fthriveweb%2Fyellowcake) You must be signed in to change notification settings
+
+*   [Code](https://github.com/thriveweb/yellowcake)
+*   [Issues 9](https://github.com/thriveweb/yellowcake/issues)
+*   [Pull requests 30](https://github.com/thriveweb/yellowcake/pulls)
+*   [Actions](https://github.com/thriveweb/yellowcake/actions)
+*   [Projects 0](https://github.com/thriveweb/yellowcake/projects)
+*   [Security](https://github.com/thriveweb/yellowcake/security)
+*   [Insights](https://github.com/thriveweb/yellowcake/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/thriveweb/yellowcake)
+*   [Issues](https://github.com/thriveweb/yellowcake/issues)
+*   [Pull requests](https://github.com/thriveweb/yellowcake/pulls)
+*   [Actions](https://github.com/thriveweb/yellowcake/actions)
+*   [Projects](https://github.com/thriveweb/yellowcake/projects)
+*   [Security](https://github.com/thriveweb/yellowcake/security)
+*   [Insights](https://github.com/thriveweb/yellowcake/pulse)
+
+thriveweb/yellowcake
+====================
+
+  
+
+ master
+
+[**32** Branches](https://github.com/thriveweb/yellowcake/branches)[**0** Tags](https://github.com/thriveweb/yellowcake/tags)
+
+[](https://github.com/thriveweb/yellowcake/branches)[](https://github.com/thriveweb/yellowcake/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 22: deanoakley](https://avatars.githubusercontent.com/u/28942588?v=4&size=40)](https://github.com/deanoakley)[deanoakley](https://github.com/thriveweb/yellowcake/commits?author=deanoakley)
+
+[Update README.md](https://github.com/thriveweb/yellowcake/commit/d2d6fa946bb2abb01bb201e31f584e6e4f247de7)
+
+May 12, 2022
+
+[d2d6fa9](https://github.com/thriveweb/yellowcake/commit/d2d6fa946bb2abb01bb201e31f584e6e4f247de7) · May 12, 2022
+
+History
+-------
+
+[352 Commits](https://github.com/thriveweb/yellowcake/commits/master/)
+
+[](https://github.com/thriveweb/yellowcake/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[content](https://github.com/thriveweb/yellowcake/tree/master/content "content")
+
+
+
+
+
+
+
+ | 
+
+[content](https://github.com/thriveweb/yellowcake/tree/master/content "content")
+
+
+
+
+
+
+
+ | 
+
+[Update Page “components-page”](https://github.com/thriveweb/yellowcake/commit/c4a6a760cba68ea3e764263e07883f9c336733a8 "Update Page “components-page”")
+
+
+
+ | 
+
+Oct 15, 2020
+
+ |
+| 
+
+[src](https://github.com/thriveweb/yellowcake/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/thriveweb/yellowcake/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[moved uploadcare public key to environment variables](https://github.com/thriveweb/yellowcake/commit/ffb89570096639b6d2eedccaf925dcd6fe6cc78e "moved uploadcare public key to environment variables")
+
+
+
+ | 
+
+May 12, 2022
+
+ |
+| 
+
+[static](https://github.com/thriveweb/yellowcake/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[static](https://github.com/thriveweb/yellowcake/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[moved uploadcare public key to environment variables](https://github.com/thriveweb/yellowcake/commit/ffb89570096639b6d2eedccaf925dcd6fe6cc78e "moved uploadcare public key to environment variables")
+
+
+
+ | 
+
+May 12, 2022
+
+ |
+| 
+
+[.env.development](https://github.com/thriveweb/yellowcake/blob/master/.env.development ".env.development")
+
+
+
+
+
+
+
+ | 
+
+[.env.development](https://github.com/thriveweb/yellowcake/blob/master/.env.development ".env.development")
+
+
+
+
+
+
+
+ | 
+
+[moved uploadcare public key to environment variables](https://github.com/thriveweb/yellowcake/commit/ffb89570096639b6d2eedccaf925dcd6fe6cc78e "moved uploadcare public key to environment variables")
+
+
+
+ | 
+
+May 12, 2022
+
+ |
+| 
+
+[.gitignore](https://github.com/thriveweb/yellowcake/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/thriveweb/yellowcake/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[init](https://github.com/thriveweb/yellowcake/commit/aa457b961b365d390c65b99acbc6aa4aa4cb4fbe "init")
+
+
+
+ | 
+
+Oct 15, 2018
+
+ |
+| 
+
+[.nvmrc](https://github.com/thriveweb/yellowcake/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/thriveweb/yellowcake/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[update node version](https://github.com/thriveweb/yellowcake/commit/71a95fdf480bca06b9b771be4d94b9ed0cb5dea2 "update node version")
+
+
+
+ | 
+
+Sep 25, 2020
+
+ |
+| 
+
+[.prettierrc](https://github.com/thriveweb/yellowcake/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc](https://github.com/thriveweb/yellowcake/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[init](https://github.com/thriveweb/yellowcake/commit/aa457b961b365d390c65b99acbc6aa4aa4cb4fbe "init")
+
+
+
+ | 
+
+Oct 15, 2018
+
+ |
+| 
+
+[CHANGELOG.md](https://github.com/thriveweb/yellowcake/blob/master/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[CHANGELOG.md](https://github.com/thriveweb/yellowcake/blob/master/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[update 2021](https://github.com/thriveweb/yellowcake/commit/07f4bf76a078462dafff327d1640df4dc22b9f52 "update 2021")
+
+
+
+ | 
+
+Mar 17, 2021
+
+ |
+| 
+
+[LICENSE](https://github.com/thriveweb/yellowcake/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/thriveweb/yellowcake/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Update LICENSE](https://github.com/thriveweb/yellowcake/commit/b0a1e4ca7159fb416916252389955ed42edeb1ad "Update LICENSE")
+
+
+
+ | 
+
+Jan 21, 2019
+
+ |
+| 
+
+[README.md](https://github.com/thriveweb/yellowcake/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/thriveweb/yellowcake/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Update README.md](https://github.com/thriveweb/yellowcake/commit/d2d6fa946bb2abb01bb201e31f584e6e4f247de7 "Update README.md")
+
+
+
+ | 
+
+May 12, 2022
+
+ |
+| 
+
+[buildspec.yml](https://github.com/thriveweb/yellowcake/blob/master/buildspec.yml "buildspec.yml")
+
+
+
+
+
+
+
+ | 
+
+[buildspec.yml](https://github.com/thriveweb/yellowcake/blob/master/buildspec.yml "buildspec.yml")
+
+
+
+
+
+
+
+ | 
+
+[Create buildspec.yml](https://github.com/thriveweb/yellowcake/commit/e85b0e7026d3d18ac771a8c300cb5fa4cb623600 "Create buildspec.yml
+Add common cache paths to the CI pipeline")
+
+
+
+ | 
+
+Feb 21, 2021
+
+ |
+| 
+
+[gatsby-browser.js](https://github.com/thriveweb/yellowcake/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-browser.js](https://github.com/thriveweb/yellowcake/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[init](https://github.com/thriveweb/yellowcake/commit/aa457b961b365d390c65b99acbc6aa4aa4cb4fbe "init")
+
+
+
+ | 
+
+Oct 15, 2018
+
+ |
+| 
+
+[gatsby-config.js](https://github.com/thriveweb/yellowcake/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-config.js](https://github.com/thriveweb/yellowcake/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[moved uploadcare public key to environment variables](https://github.com/thriveweb/yellowcake/commit/ffb89570096639b6d2eedccaf925dcd6fe6cc78e "moved uploadcare public key to environment variables")
+
+
+
+ | 
+
+May 12, 2022
+
+ |
+| 
+
+[gatsby-node.js](https://github.com/thriveweb/yellowcake/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-node.js](https://github.com/thriveweb/yellowcake/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[Update gatsby-node.js](https://github.com/thriveweb/yellowcake/commit/2be15d8e1c268854ba83398f027be27e7410b334 "Update gatsby-node.js
+Do not include sourcemaps within production build")
+
+
+
+ | 
+
+Feb 21, 2021
+
+ |
+| 
+
+[netlify.toml](https://github.com/thriveweb/yellowcake/blob/master/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[netlify.toml](https://github.com/thriveweb/yellowcake/blob/master/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[init](https://github.com/thriveweb/yellowcake/commit/aa457b961b365d390c65b99acbc6aa4aa4cb4fbe "init")
+
+
+
+ | 
+
+Oct 15, 2018
+
+ |
+| 
+
+[package-lock.json](https://github.com/thriveweb/yellowcake/blob/master/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/thriveweb/yellowcake/blob/master/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[moved uploadcare public key to environment variables](https://github.com/thriveweb/yellowcake/commit/ffb89570096639b6d2eedccaf925dcd6fe6cc78e "moved uploadcare public key to environment variables")
+
+
+
+ | 
+
+May 12, 2022
+
+ |
+| 
+
+[package.json](https://github.com/thriveweb/yellowcake/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/thriveweb/yellowcake/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Update package.json](https://github.com/thriveweb/yellowcake/commit/04dcf86e6a763cba62722bc2aff9b34bd268a9d2 "Update package.json
+Use `gatsby clean` instead of aditional dependency")
+
+
+
+ | 
+
+Feb 21, 2021
+
+ |
+| 
+
+[yarn.lock](https://github.com/thriveweb/yellowcake/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/thriveweb/yellowcake/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[Update yarn.lock](https://github.com/thriveweb/yellowcake/commit/daff3ddacb272309dcfe85bcb84bb2953674b82b "Update yarn.lock
+Update the lock file")
+
+
+
+ | 
+
+Feb 21, 2021
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/thriveweb/yellowcake?screenshot=true#)
+*   [MIT license](https://github.com/thriveweb/yellowcake?screenshot=true#)
+
+Yellowcake
+==========
+
+[](https://github.com/thriveweb/yellowcake?screenshot=true#yellowcake)
+
+[![Image 23: styled with prettier](https://camo.githubusercontent.com/d648f53a465339837ee2170355a3f89faef0835dab36c3e5e364f7dd9be02360/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65645f776974682d70726574746965722d6666363962342e7376673f7374796c653d666c61742d737175617265)](https://github.com/prettier/prettier) [![Image 24: dependencies](https://camo.githubusercontent.com/8bb41f68ca2768c4fc05529558da4924568fe8824b6b9c0596868d6b7000aa49/68747470733a2f2f696d672e736869656c64732e696f2f64617669642f7468726976657765622f79656c6c6f7763616b65)](https://img.shields.io/david/thriveweb/yellowcake)
+
+An opinionated starter project for creating lightning-fast websites with [Gatsby](https://gatsbyjs.org/) v2 and [Netlify CMS](https://netlifycms.org/) v2. Made by [Thrive Web Design on the Gold Coast, Australia](https://thriveweb.com.au/)
+
+*   **[Gatsby](https://gatsbyjs.org/)** static site generator
+*   **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
+
+See also
+--------
+
+[](https://github.com/thriveweb/yellowcake?screenshot=true#see-also)
+
+[Netlify CMS Docs](https://www.netlifycms.org/docs/)  
+[Netlify CMS Repo](https://github.com/netlify/netlify-cms)
+
+Get going
+---------
+
+[](https://github.com/thriveweb/yellowcake?screenshot=true#get-going)
+
+[![Image 25: Deploy to Netlify](https://camo.githubusercontent.com/8ef0cc1d083b2d67eb72500031401d9b52c3ecb9fb4c4405f46afd0d0aba02d6/68747470733a2f2f7777772e6e65746c6966792e636f6d2f696d672f6465706c6f792f627574746f6e2e737667)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+
+1.  Hit the **Deploy to Netlify** button. This will:
+
+*   Clone the repo into your Github account
+*   Create you a new project on Netlify, build & deploy
+
+1.  Once your Netlify project has been created, check a couple of settings:
+
+*   Enable **Identity**
+*   Change **Registration Preferences** to **Invite Only**
+*   Enable **Git Gateway**
+
+1.  Invite users (probably yourself) to enable admin access
+
+*   Open the **Identity** tab and hit **Invite Users**
+
+Show me the CMS!
+----------------
+
+[](https://github.com/thriveweb/yellowcake?screenshot=true#show-me-the-cms)
+
+The CMS lives at [\_\_YOUR\_SITE\_NAME\_\_.netlify.com/admin](https://__your_site_name__.netlify.com/admin).
+
+Developing
+----------
+
+[](https://github.com/thriveweb/yellowcake?screenshot=true#developing)
+
+1.  Clone your repo to your local machine
+    
+2.  Install dependencies
+    
+
+`yarn` or `npm install`
+
+1.  Run the development server
+
+`yarn start` or `npm run start`
+
+If you are adding or editing content locally in the CMS, a couple of things to note:
+
+1.  Changes will be pushed to the remote repo.
+    
+2.  You will be prompted to enter your site's url, this is necessary for Netlify Identity to manage user login. This is stored in `localStorage`, so you might have to empty your browser cache if you are switching projects but remaining on `localhost:8000`.
+    
+
+Editing CMS fields
+------------------
+
+[](https://github.com/thriveweb/yellowcake?screenshot=true#editing-cms-fields)
+
+The Netlify CMS configuration is located in `public/admin/config.yml`. This is where you will configure the pages, fields, posts and settings that are editable by the CMS.
+
+Find out more in the [Netlify CMS Docs](https://www.netlifycms.org/docs/#configuration).
+
+Uploadcare setup
+----------------
+
+[](https://github.com/thriveweb/yellowcake?screenshot=true#uploadcare-setup)
+
+Uploadcare is our file upload system. It hosts the files for us and delivers them trough their CDN network. Each site you'll create need its own Uploadcare API key's. See below how to set this up
+
+1.  Create new project in Uploadcare and save API keys in project
+
+*   Go to [Uploadcare.com](https://uploadcare.com/accounts/login/) and login
+*   Once on the dashboard create a new project
+*   Set the name and hit create
+*   In the left menu click in API Keys and copy the public key
+*   Create an environment variable GATSBY\_UPLOADCARE\_PUBLIC\_KEY and supply it with the Public Key from Uploadcare
+*   Done!!
+
+For more details see the [Netlify CMS Docs](https://www.netlifycms.org/docs/uploadcare/)
+
+Scheduled content
+-----------------
+
+[](https://github.com/thriveweb/yellowcake?screenshot=true#scheduled-content)
+
+Scheduled content allows you to schedule posts. Set the date / order field in a post to the feature. For the scheduled content to appear on the website we need to deploy our website daily.
+
+1.  Setup a Netlify build hook
+
+*   Go to [https://app.netlify.com/sites/\_YOUR\_SITE\_NAME/setings/deploys/#build-hooks](https://app.netlify.com/sites/_YOUR_SITE_NAME/setings/deploys/#build-hooks)
+*   Hit build hook button in the build hooks section
+*   Give it a name for example: "Automatic deploy Zapier"
+*   Select branch, in most cases master will do.
+*   Hit save and copy the generated url
+
+2.  Zapier Setup
+
+*   Go to [Zapier.com](https://zapier.com/) and login
+*   Hit make a zap button in the right top corner
+*   Search for Schedule in the search bar and select "Schedule by Zapier"
+*   Check every day and hit continue
+*   Select a time and make sure trigger on weekends is turned on
+*   Double check your settings and hit continue
+*   On the left hit add a step - and search for webhook by Zapier
+*   Select post as action and continue
+*   Past in the url of our recently generated webhook in the url field
+*   Make sure "Payload Type" is set to form and hit continue
+*   check settings and hit the test button
+*   Check your Netlify site if there has been triggered a new deploy
+*   If that worked hit finish
+*   Give your zap a name, example: "Automatic deploy Yellowcake" and make sure your zap is turned on
+
+That's it, you'r now ready to use scheduled content!!
+
+Mailchimp integration
+---------------------
+
+[](https://github.com/thriveweb/yellowcake?screenshot=true#mailchimp-integration)
+
+[https://hooks.zapier.com/hooks/catch/2881617/ea5exg/](https://hooks.zapier.com/hooks/catch/2881617/ea5exg/)
+
+*   Go to [Zapier.com](https://zapier.com/) and login
+*   Hit make a zap button in the right top corner
+*   Search for webhook by Zapier and select catch hook and continue to next step
+*   In most cases leave this field empty and continue
+*   Copy the generated url
+*   Now go to the [form settings](https://app.netlify.com/sites/yellowcake/settings/forms#outgoing-notifications) in you Netlify project
+*   Find the form notifications section click the add notification button
+*   Select the option `outgoing webhook`
+*   Set the event to listen for
+*   Paste in our recent generated url in the URL to notify field
+*   Select your form and save settings
+*   Open your website navigate to your form, fill it out and send the data
+*   Go back to Zaper and see if your form data has come trough.
+*   Hit continue and add a new step on the left side of the screen
+*   Search for MailChimp and select add/update subscriber
+*   Select MailChimp account or add one and hit the test button
+*   if succeeded hit continue button
+*   Select your MailChimp list and select the subscriber email address
+*   Fill in other settings for your needs and continue
+*   Hit send test to MailChimp button and hit finish if succeeded
+*   Give your Zap a name and make sure your zap is turned on
+*   Submit your form one last time and see if all data is coming trough to MailChimp
+*   That's it!
+
+About
+-----
+
+A starter project for creating lightning-fast websites with Gatsby v2 and Netlify-CMS v2 + Uploadcare intergration.
+
+[yellowcake.netlify.com](https://yellowcake.netlify.com/ "https://yellowcake.netlify.com")
+
+### Resources
+
+[Readme](https://github.com/thriveweb/yellowcake?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/thriveweb/yellowcake?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/thriveweb/yellowcake/activity)
+
+[Custom properties](https://github.com/thriveweb/yellowcake/custom-properties)
+
+### Stars
+
+[**311** stars](https://github.com/thriveweb/yellowcake/stargazers)
+
+### Watchers
+
+[**12** watching](https://github.com/thriveweb/yellowcake/watchers)
+
+### Forks
+
+[**136** forks](https://github.com/thriveweb/yellowcake/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fthriveweb%2Fyellowcake&report=thriveweb+%28user%29)
+
+[Releases](https://github.com/thriveweb/yellowcake/releases)
+------------------------------------------------------------
+
+No releases published
+
+[Packages 0](https://github.com/orgs/thriveweb/packages?repo_name=yellowcake)
+-----------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 17](https://github.com/thriveweb/yellowcake/graphs/contributors)
+------------------------------------------------------------------------------
+
+*   [![Image 26: @Frithir](https://avatars.githubusercontent.com/u/12723626?s=64&v=4)](https://github.com/Frithir)
+*   [![Image 27: @sam-scott](https://avatars.githubusercontent.com/u/20122623?s=64&v=4)](https://github.com/sam-scott)
+*   [![Image 28: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 29: @vweltje](https://avatars.githubusercontent.com/u/9349507?s=64&v=4)](https://github.com/vweltje)
+*   [![Image 30: @FDiskas](https://avatars.githubusercontent.com/u/468006?s=64&v=4)](https://github.com/FDiskas)
+*   [![Image 31: @deanoakley](https://avatars.githubusercontent.com/u/28942588?s=64&v=4)](https://github.com/deanoakley)
+*   [![Image 32: @SpacemanPete](https://avatars.githubusercontent.com/u/6014713?s=64&v=4)](https://github.com/SpacemanPete)
+*   [![Image 33: @thrivedevteam](https://avatars.githubusercontent.com/u/47404457?s=64&v=4)](https://github.com/thrivedevteam)
+*   [![Image 34: @francescacosta](https://avatars.githubusercontent.com/u/26702220?s=64&v=4)](https://github.com/francescacosta)
+*   [![Image 35: @harshnagoratela](https://avatars.githubusercontent.com/u/58874645?s=64&v=4)](https://github.com/harshnagoratela)
+*   [![Image 36: @gitexec](https://avatars.githubusercontent.com/u/4412238?s=64&v=4)](https://github.com/gitexec)
+*   [![Image 37: @brunetsimon](https://avatars.githubusercontent.com/u/4820484?s=64&v=4)](https://github.com/brunetsimon)
+*   [![Image 38: @CalvinWilliams1012](https://avatars.githubusercontent.com/u/15316956?s=64&v=4)](https://github.com/CalvinWilliams1012)
+*   [![Image 39: @daylennguyen](https://avatars.githubusercontent.com/u/19427299?s=64&v=4)](https://github.com/daylennguyen)
+
+[\+ 3 contributors](https://github.com/thriveweb/yellowcake/graphs/contributors)
+
+Languages
+---------
+
+*   [JavaScript 61.5%](https://github.com/thriveweb/yellowcake/search?l=javascript)
+*   [CSS 21.3%](https://github.com/thriveweb/yellowcake/search?l=css)
+*   [HTML 17.2%](https://github.com/thriveweb/yellowcake/search?l=html)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

@@ -1,0 +1,143 @@
+![Image 40](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/50af6e11-a862-46e4-a740-02a0a827f62c/Frame%2B125.png)
+
+Feature Extraction from Engineering Drawings with AI
+----------------------------------------------------
+
+Powered by AI, Werk24's API reads Engineering Drawings and returns a JSON response with structured information, including Title Blocks (Drawing ID, Designation, Material, General Tolerance), Measures, Tolerances, Thread, Chamfer, GD&T, Radii and Surface Roughness.
+
+![Image 41: Animation showing Werk24 automatic detection](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/d6759820-4b7d-4817-95c6-d455e49f3b3b/animation.gif)
+
+![Image 42: compressed_QuoteDiManEx.png](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/44c3dc6a-7094-4066-be6f-6e7e9568ef1e/compressed_QuoteDiManEx.png)
+
+[](https://werk24.io/case-study/saphirion-process-automation)
+
+[](https://werk24.io/case-study/laserhub)
+
+Cloud service through APIs
+--------------------------
+
+Simply submit your drawings to our API and within seconds get result as JSON format or Excel sheet.
+
+This is the **faster**, **easier** way to integrate WERK24’s AI capabilities into your work processes or customer-facing products. It also **scale flexibly** with ever-expanding API features from Werk24.
+
+ WERK24 Products
+----------------
+
+[![Image 43](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/3d7a084a-f6cf-4b41-9949-2ca6d1cc7926/compressed_Werk24s%2BAdditive%2BAnalysis%2BSolution.png)](https://werk24.io/product/additive-analysis-from-technical-drawings)
+
+#### ADDITIVE ANALYSIS
+
+### Identify parts for Additive Manufacturing
+
+#### Unsure which parts are suitable for Additive Manufacturing?
+
+Werk24 automatically assesses the suitability of Drawings with regards to a range of Additive Technologies
+
+✅ Extract Outer Dimensions (often a limiting factor)
+
+✅ Extract tight tolerances (often require a subsequent milling step or favor CNC)
+
+✅ Prioritize parts based on AM feasibilities of the chosen AM methods
+
+✅ Suggest alternative AM methods or extra milling steps
+
+[↳ Learn More](https://werk24.io/product/additive-analysis-from-technical-drawings)
+
+[![Image 44: Automatically filter in-coming RFQs with Werk24's Feasibility Analysis](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/d44d65a5-29a2-43cd-b84a-94a926be6dd8/Werk24%27s+Feasibility+Analysis+Solution)](https://werk24.io/product/feasibility-analysis-of-technical-drawings)
+
+#### FEASIBILITY ANALYSIS
+
+### Automatically filter in-coming RFQs
+
+#### Receiving RFQs that don’t match your machines?
+
+Our AI reads Drawings and checks whether the parts match your manufacturing constraints.
+
+✅ Extract production limiting factors incl., smallest Tolerances, smallest Thread diameter, smallest Radius, smallest GD&T
+
+✅ Integrate customized filtering logic
+
+✅ Convert a wide range of steel standards to EN10027 material codes and filter against a list of supported material
+
+[↳ Learn More](https://werk24.io/product/feasibility-analysis-of-technical-drawings)
+
+[![Image 45: Detect critical factors for production or pricing with Werk24's PMI Extraction Solution](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/dd3f893a-2c01-47e9-b43b-ebefa071ef12/Werk24%27s+PMI+Extraction+Solution)](https://werk24.io/product/pmi-feature-extraction)
+
+#### PMI EXTRACTION
+
+### Detect critical factors for production or pricing
+
+#### Your online quoting system requires manual entry of PMI from technical drawings?
+
+Werk24 extracts all relevant PMI.
+
+✅ Material
+
+✅ General Tolerances
+
+✅ Tolerances & Fits
+
+✅ Threads
+
+✅ GD&T
+
+[↳ Learn More](https://werk24.io/product/pmi-feature-extraction)
+
+Technical capabilities
+----------------------
+
+Werk24's TechRead API utilizes Artificial Intelligence and Computer Vision to extract key information locked in scanned Technical Drawings. Unlike traditional OCR solutions, our technology can understand great amount of contextual information and convert it into structured and searchable digital repositories.
+
+![Image 46: Werk24 explains technical capabilities: Access Title Block](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/1617629149425-HSGHAC4HEV8HIH6GWAM2/Artboard+1+copy+8.png)
+
+### Access Title Block
+
+Werk24’s API reads the non-standardized Title Block and translates its content into a structured machine-readable format. Unlike OCR, Werk24’s AI interprets the content even when captions are missing or located in another cell.
+
+![Image 47: Werk24 explains technical capabilities: Extract Measures](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/1617632975687-S3CR8UCOHXZDVHF3J3BC/Artboard+1+copy+7.png)
+
+### Extract Measures
+
+Werk24’s AI extracts Measures and converts them into a standard data structure, allowing direct access to Nominal Size, Tolerance (Fit & Deviation), Thread and Chamfer information. It’s way beyond traditional OCR solutions that only returns unstructured Strings.
+
+![Image 48: Werk24 explains technical capabilities: Capture GD&Ts](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/1617636253010-ZGISJVFG6V9I4FXDK9R3/Artboard+1+copy+10.png)
+
+### Capture GD&Ts
+
+Our API captures the full range of Geometric Dimensioning and Toleration (GD&T) frames on drawings and returns them in a standard data model. You can directly access the characteristic, toleration and reference data.
+
+![Image 49: Werk24 explains technical capabilities: Create Thumbnails](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/1617623067411-3GRIRXMVIG48LDM4BBI1/Artboard+1+copy.png)
+
+### Create Thumbnails
+
+Separating Sectional Views can be challenging, especially when they are positioned very close to one another. TechRead API separates them and generates thumbnails for individual Sectionals, as well as the whole drawing.
+
+Why choose us
+-------------
+
+### First-of-its-kind technology
+
+Leveraging Artificial Intelligence (AI) and Machine Learning (ML) technology, Werk24 provides industry-leading accuracy and intelligent enrichment for data extraction from Technical Drawings. With many advantages over generic OCR, our technology leverages context information and converts information into structured and CPU accessible JSON formats, which then become ready for your application to use.
+
+### High accuracy and continuous learning
+
+Leveraging context information allows us to achieve high levels of accuracy. And when something is misread, it’s not for long. Our self-learning Artificial Intelligence learns from the processed data and improves its quality constantly.
+
+### Faster and streamlined processing
+
+With Werk24 your application easily understands Technical Drawings - even when they were drawn 30 years ago and scanned multiple times. We process a wide range of formats (JPEG, JP2, BMP, PNG, TIFF, PDF), and automatically extract, understand and deliver the results within seconds - 24 hours a day.
+
+Check what’s new with Werk24
+----------------------------
+
+[![Image 50: Optical Features in Technical Drawings: Navigating ISO 10110 Standards](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/1704962150687-CBU1PG2JQ9YEFHJX6N1H/Slice+1optical.png)](https://werk24.io/blog/optical-features-in-technical-drawings-navigating-iso-10110-standards)
+
+See how Werk24's cutting-edge technology can transform your approach to technical drawings in optical manufacturing, ensuring precision and compliance with ISO 10110.
+
+[![Image 51: Importance of Data Quality in Manufacturing through Artificial Intelligence&nbsp;](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/1698684064115-F5W5Q1364OWZLYRPH582/Werk24-+The+Role+of+Data+quality+in+Manufacturing.png)](https://werk24.io/blog/importance-of-data-quality-in-manufacturing-through-artificial-intelligence)
+
+Harnessing high-quality manufacturing data through AI: Experience Werk24's transformative approach to data extraction from technical drawings in the digital age.
+
+[![Image 52: Werk24 Explains the Improvement Process for Success&nbsp;](https://images.squarespace-cdn.com/content/v1/606a05e6a354bb41c205b148/1695894300464-TRDQQ04J375S94D63NWU/ImprovementProcessImage.png)](https://werk24.io/blog/werk24-explains-the-improvement-process-for-success)
+
+In a competitive manufacturing market, continuous improvement is the backbone of success. Werk24's unique improvement process, grounded in specific industry needs, ensures top-tier results and ongoing enhancement.

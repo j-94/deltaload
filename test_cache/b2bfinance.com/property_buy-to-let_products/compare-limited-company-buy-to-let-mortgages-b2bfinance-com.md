@@ -1,0 +1,212 @@
+---
+title: Compare Limited Company Buy-To-Let Mortgages | B2Bfinance.com
+description: Compare limited company buy-to-let mortgages, including limited company buy to let mortgages, and find the best deal for you.
+url: https://b2bfinance.com/property/buy-to-let/products/
+timestamp: 2025-01-20T16:11:22.556Z
+domain: b2bfinance.com
+path: property_buy-to-let_products
+---
+
+# Compare Limited Company Buy-To-Let Mortgages | B2Bfinance.com
+
+
+Compare limited company buy-to-let mortgages, including limited company buy to let mortgages, and find the best deal for you.
+
+
+## Content
+
+Compare limited company buy-to-let mortgages, and find the best deal for you.
+
+Excellent
+
+[![Image 68: Reviews.co.uk logo](blob:https://b2bfinance.com/976f3d2104a90435c545bd257bce3f97)](https://www.reviews.co.uk/company-reviews/store/b2b-commercial-mortgages "Read all reviews at reviews.co.uk")
+
+596 reviews
+
+###### 79 products available to compare
+
+Maximum LTV
+
+Initial Rate Term
+
+Reset Filters
+
+![Image 69: Zephyr Homeloans](https://capis.storage.googleapis.com/uploaded/721ca9b044b78dd6ed6ac8a963b8c1d0af5e41d4.png)
+
+BTL 2 Year Fixed 7% Fee LTD Co SPV EPC A-C
+
+![Image 70: Molo](https://storage.googleapis.com/capis/imported/w4u/944f9e64202ba0b8a2d468a9f4fafba43ed5bd6b118db548aeaaadc753fa6432.png)
+
+BTL 2 Year Fixed 6.5% Fee Ltd Co SPV
+
+![Image 71: MT Finance](https://capis.storage.googleapis.com/uploaded/c94970c970d183be3115bd8caf21817733191c4d.png)
+
+BTL 2 Year Fixed 7% Fee SPV LTD COMPANY
+
+![Image 72: LendInvest](https://capis.storage.googleapis.com/uploaded/82f6e94f5e4e3f555d608ceb93b3b44383fd0f93.png)
+
+Intermediary Tier 1 BTL 2 Year Fixed 7.00% Fee LTD CO SPV
+
+![Image 73: LendInvest](https://capis.storage.googleapis.com/uploaded/82f6e94f5e4e3f555d608ceb93b3b44383fd0f93.png)
+
+Intermediary Tier 1 BTL 2 Year Fixed 7.00% Fee HMO LTD CO SPV <7 bedrooms
+
+![Image 74: WestOne Loans](https://capis.storage.googleapis.com/uploaded/f22c229a331cd30566eef6f993cddcbc39471ce8.webp)
+
+BTL W1 2 Year Fixed 3.5% Fee LTD Co SPV Non-Portfolio Limited Edition
+
+![Image 75: WestOne Loans](https://capis.storage.googleapis.com/uploaded/f22c229a331cd30566eef6f993cddcbc39471ce8.webp)
+
+BTL W1 2 Year Fixed 7% Fee LTD Co SPV Limited Edition
+
+![Image 76: Landbay](https://capis.storage.googleapis.com/uploaded/fb77728f17c444f420409c1a6246c4d3e68d856f.png)
+
+BTL 2 Year Fixed 6.00% Fee Standard (SPV/LLP)
+
+![Image 77: Metro Bank](https://capis.storage.googleapis.com/uploaded/00e01e653cb5e94c274d236e00ae603a49dd8c77.png)
+
+BTL 2 Year Fixed 5% Fee (SPV LTD Company)
+
+![Image 78: CHL Mortgages](https://capis.storage.googleapis.com/uploaded/2e77116286a86524bf61008c001a9b8413ec38af.png)
+
+CHL 1 BTL 2 Year Fixed 5.00% Fee (SPV LTD CO.)
+
+![Image 79: Molo](https://storage.googleapis.com/capis/imported/w4u/944f9e64202ba0b8a2d468a9f4fafba43ed5bd6b118db548aeaaadc753fa6432.png)
+
+Limited Edition BTL 2 Year Fixed 4% Fee Ltd Co SPV
+
+![Image 80: Landbay](https://capis.storage.googleapis.com/uploaded/fb77728f17c444f420409c1a6246c4d3e68d856f.png)
+
+BTL 2 Year Fixed 5.00% Fee Standard (SPV/LLP)
+
+![Image 81: Monmouthshire BS](https://capis.storage.googleapis.com/uploaded/41f99ba0b287a07e4bfe9bbbc50577d71ee17f32.png)
+
+BTL 2 Year Fixed 3% Fee LTD Co SPV
+
+![Image 82: Keystone Property Finance](https://capis.storage.googleapis.com/uploaded/2534d55f687a418dbfe0ef0d253d6aada928f2d1.png)
+
+Keystone Property Finance
+
+BTL 2 Year Fixed 2.00% Fee Classic SPV LTD Co's
+
+![Image 83: The Mortgage Lender](https://capis.storage.googleapis.com/uploaded/a04e2681b07d541a478ab974db997c10f796171e.png)
+
+BTL 2 Year Fixed 5% Fee SPV Ltd Co
+
+![Image 84: Molo](https://storage.googleapis.com/capis/imported/w4u/944f9e64202ba0b8a2d468a9f4fafba43ed5bd6b118db548aeaaadc753fa6432.png)
+
+Limited Edition BTL 2 Year Fixed 4% Fee Specialist HMO/MUFB Ltd Co SPV
+
+![Image 85: Paragon Bank](https://capis.storage.googleapis.com/uploaded/16bddcebbe8962350c9294e41b11a47cf760a13e.png)
+
+BTL SPV LTD Company 2 Year Fixed 3% Fee Single Self Contained
+
+![Image 86: Landbay](https://capis.storage.googleapis.com/uploaded/fb77728f17c444f420409c1a6246c4d3e68d856f.png)
+
+BTL 2 Year Fixed 5.00% Fee Small MUFB (SPV/LLP)
+
+![Image 87: Landbay](https://capis.storage.googleapis.com/uploaded/fb77728f17c444f420409c1a6246c4d3e68d856f.png)
+
+BTL 2 Year Fixed 5.00% Fee Small HMO (SPV/LLP)
+
+![Image 88: Fleet Mortgages](https://capis.storage.googleapis.com/uploaded/f25a1d3446608a7bf3a2e21ec1f545262797267c.png)
+
+Green BTL 2 Year Fixed 3.00% Fee SPV LTD Company
+
+Learn more about our excellent providers
+----------------------------------------
+
+![Image 89: The Mortgage Lender](https://capis.storage.googleapis.com/uploaded/a04e2681b07d541a478ab974db997c10f796171e.png)
+
+The Mortgage Lender offers buy to let mortgages for Limited Companies (Ltd) that meet their criteria.
+
+[Learn More](https://b2bfinance.com/providers/the-mortgage-lender/)
+
+![Image 90: Saffron Building Society](https://capis.storage.googleapis.com/uploaded/a8e9c19e1c95e1e8a000ec4b898779ba15bb9588.png)
+
+Saffron Building Society is a mutual society which has been serving the local community since 1849. They pride themselves on being a mutual organisation, which means they’re owned by their members, and exist solely for their member’s benefit.
+
+[Learn More](https://b2bfinance.com/providers/saffron-building-society/)
+
+![Image 91: Precise Mortgages](https://capis.storage.googleapis.com/uploaded/ebdd00213f1c499149578c82f68836fcfcb260d1.png)
+
+Precise Mortgages delivers innovative buy to let mortgages, bridging and second charge loans. Their mission is to broaden the criteria for mortgage/loan approval to support buy to let entrepreneurialism. Their award winning, technology driven underwriting and credit risk management processes mean they can be more expansive in their mortgage and loan approvals - serving those underserved by mainstream lenders. Precise Mortgages can support small to large sized UK businesses that meet their criter...
+
+[Learn More](https://b2bfinance.com/providers/precise-mortgages/)
+
+![Image 92: Paragon Bank](https://capis.storage.googleapis.com/uploaded/16bddcebbe8962350c9294e41b11a47cf760a13e.png)
+
+Paragon Bank prides itself on their experienced and long serving board, they offer buy to let mortgages for first time landlords and portfolio landlords through Limited Companies (Ltd), asset finance, property development finance, structured lending and invoice finance. Paragon supports business customers throughout the UK, with a range of specialist lending products tailored to meet the needs of landlords, property developers and enterprises across a wide range of sectors. They can support smal...
+
+[Learn More](https://b2bfinance.com/providers/paragon-banking-group-plc/)
+
+![Image 93: Molo](https://storage.googleapis.com/capis/imported/w4u/944f9e64202ba0b8a2d468a9f4fafba43ed5bd6b118db548aeaaadc753fa6432.png)
+
+Molo Finance is the UK’s first digital mortgage lender so forget paperwork and multiple appointments. They provide residential and buy to let mortgages and remortgages to individuals and Limited Companies (Ltd). To get a mortgage with Molo Finance you must be an experienced landlord with 4 properties or more.
+
+[Learn More](https://b2bfinance.com/providers/molo/)
+
+![Image 94: Landbay](https://capis.storage.googleapis.com/uploaded/fb77728f17c444f420409c1a6246c4d3e68d856f.png)
+
+Landbay is a specialist peer-to-peer lending platform for residential buy to let mortgages creating a more accessible buy to let marketplace for investors, borrowers and brokers. They create a new type of investment opportunity for the everyday lender, helping investors to reap the consistent, solid and regular financial returns offered by the resilient UK buy to let mortgage market and supporting responsible borrowers in securing access to faster funding. They can support first time landlords a...
+
+[Learn More](https://b2bfinance.com/providers/landbay/)
+
+![Image 95: Keystone Property Finance](https://capis.storage.googleapis.com/uploaded/2534d55f687a418dbfe0ef0d253d6aada928f2d1.png)
+
+Keystone Property Finance is a specialist buy to let lender that can support first time landlords and portfolio landlords in Limited Companies (Ltd) that meet their criteria.
+
+[Learn More](https://b2bfinance.com/providers/keystone/)
+
+![Image 96: Kent Reliance](https://capis.storage.googleapis.com/uploaded/6c01b950633dc89c21b235c77193196d1e87145d.png)
+
+Kent Reliance specialises in business savings and buy to let mortgages. They can support first time landlords and portfolio landlords in Limited Companies (Ltd) that meet their criteria.
+
+[Learn More](https://b2bfinance.com/providers/kent-reliance/)
+
+![Image 97: Kensington](https://capis.storage.googleapis.com/uploaded/eff94d386d51076d7aac2fa08faf69252c77d811.png)
+
+Kensington is an award-winning buy to let lender for experienced and first time landlords, their buy to let mortgages are designed to give landlords what they need; flexible lending criteria, human underwriters who don’t only rely on machines, and no maximum portfolio limits. They can support UK landlords who meet their criteria.
+
+[Learn More](https://b2bfinance.com/providers/kensington-mortgages/)
+
+![Image 98: Foundation Home Loans](https://capis.storage.googleapis.com/uploaded/22503600641e5405e41d5540a64fbb96fa714eeb.png)
+
+Foundation Home Loans offers buy to let mortgages for portfolio landlords that invest through Limited Companies (Ltd). They can support portfolio landlords in the UK that meet their criteria.
+
+[Learn More](https://b2bfinance.com/providers/foundation-home-loans/)
+
+![Image 99: Fleet Mortgages](https://capis.storage.googleapis.com/uploaded/f25a1d3446608a7bf3a2e21ec1f545262797267c.png)
+
+Fleet Mortgages is a buy to let and specialist lender. Lending exclusively through the intermediary sector, they offer buy to let mortgages for Limited Companies (Ltd) and those seeking finance for Houses in Multiple Occupation (HMOs). They can support small to large sized businesses in the UK that meet their criteria.
+
+[Learn More](https://b2bfinance.com/providers/fleet-mortgages/)
+
+![Image 100: Buckinghamshire Building Society](https://capis.storage.googleapis.com/uploaded/c00dd3750375aad0d10cf3d452e98d30cb0c092c.png)
+
+Buckinghamshire Building Society’s philosophy of “doing the right thing” means that their members are at the heart of everything they do. Their aim is to offer a continually improving service to members as well as providing a financially secure and safe business environment for members to conduct their financial transactions. They offer buy to let mortgages to Limited Companies (Ltd) and can help small to large sized UK based businesses that meet their criteria.
+
+[Learn More](https://b2bfinance.com/providers/buckinghamshire-bs/)
+
+Frequently Asked Questions
+--------------------------
+
+Need answers? We got 'em.
+
+[](https://b2bfinance.com/property/buy-to-let/products/#should-you-get-a-mortgage-through-a-limited-company "Question link")Should you get a mortgage through a limited company?
+
+[](https://b2bfinance.com/property/buy-to-let/products/#whats-different-from-a-personal-buytolet-vs-a-limited-company-buytolet "Question link")What's different from a personal buy-to-let vs a limited company buy-to-let?
+
+## Metadata
+
+```json
+{
+  "title": "Compare Limited Company Buy-To-Let Mortgages | B2Bfinance.com",
+  "description": "Compare limited company buy-to-let mortgages, including limited company buy to let mortgages, and find the best deal for you.",
+  "url": "https://b2bfinance.com/property/buy-to-let/products/",
+  "content": "Compare limited company buy-to-let mortgages, and find the best deal for you.\n\nExcellent\n\n[![Image 68: Reviews.co.uk logo](blob:https://b2bfinance.com/976f3d2104a90435c545bd257bce3f97)](https://www.reviews.co.uk/company-reviews/store/b2b-commercial-mortgages \"Read all reviews at reviews.co.uk\")\n\n596 reviews\n\n###### 79 products available to compare\n\nMaximum LTV\n\nInitial Rate Term\n\nReset Filters\n\n![Image 69: Zephyr Homeloans](https://capis.storage.googleapis.com/uploaded/721ca9b044b78dd6ed6ac8a963b8c1d0af5e41d4.png)\n\nBTL 2 Year Fixed 7% Fee LTD Co SPV EPC A-C\n\n![Image 70: Molo](https://storage.googleapis.com/capis/imported/w4u/944f9e64202ba0b8a2d468a9f4fafba43ed5bd6b118db548aeaaadc753fa6432.png)\n\nBTL 2 Year Fixed 6.5% Fee Ltd Co SPV\n\n![Image 71: MT Finance](https://capis.storage.googleapis.com/uploaded/c94970c970d183be3115bd8caf21817733191c4d.png)\n\nBTL 2 Year Fixed 7% Fee SPV LTD COMPANY\n\n![Image 72: LendInvest](https://capis.storage.googleapis.com/uploaded/82f6e94f5e4e3f555d608ceb93b3b44383fd0f93.png)\n\nIntermediary Tier 1 BTL 2 Year Fixed 7.00% Fee LTD CO SPV\n\n![Image 73: LendInvest](https://capis.storage.googleapis.com/uploaded/82f6e94f5e4e3f555d608ceb93b3b44383fd0f93.png)\n\nIntermediary Tier 1 BTL 2 Year Fixed 7.00% Fee HMO LTD CO SPV <7 bedrooms\n\n![Image 74: WestOne Loans](https://capis.storage.googleapis.com/uploaded/f22c229a331cd30566eef6f993cddcbc39471ce8.webp)\n\nBTL W1 2 Year Fixed 3.5% Fee LTD Co SPV Non-Portfolio Limited Edition\n\n![Image 75: WestOne Loans](https://capis.storage.googleapis.com/uploaded/f22c229a331cd30566eef6f993cddcbc39471ce8.webp)\n\nBTL W1 2 Year Fixed 7% Fee LTD Co SPV Limited Edition\n\n![Image 76: Landbay](https://capis.storage.googleapis.com/uploaded/fb77728f17c444f420409c1a6246c4d3e68d856f.png)\n\nBTL 2 Year Fixed 6.00% Fee Standard (SPV/LLP)\n\n![Image 77: Metro Bank](https://capis.storage.googleapis.com/uploaded/00e01e653cb5e94c274d236e00ae603a49dd8c77.png)\n\nBTL 2 Year Fixed 5% Fee (SPV LTD Company)\n\n![Image 78: CHL Mortgages](https://capis.storage.googleapis.com/uploaded/2e77116286a86524bf61008c001a9b8413ec38af.png)\n\nCHL 1 BTL 2 Year Fixed 5.00% Fee (SPV LTD CO.)\n\n![Image 79: Molo](https://storage.googleapis.com/capis/imported/w4u/944f9e64202ba0b8a2d468a9f4fafba43ed5bd6b118db548aeaaadc753fa6432.png)\n\nLimited Edition BTL 2 Year Fixed 4% Fee Ltd Co SPV\n\n![Image 80: Landbay](https://capis.storage.googleapis.com/uploaded/fb77728f17c444f420409c1a6246c4d3e68d856f.png)\n\nBTL 2 Year Fixed 5.00% Fee Standard (SPV/LLP)\n\n![Image 81: Monmouthshire BS](https://capis.storage.googleapis.com/uploaded/41f99ba0b287a07e4bfe9bbbc50577d71ee17f32.png)\n\nBTL 2 Year Fixed 3% Fee LTD Co SPV\n\n![Image 82: Keystone Property Finance](https://capis.storage.googleapis.com/uploaded/2534d55f687a418dbfe0ef0d253d6aada928f2d1.png)\n\nKeystone Property Finance\n\nBTL 2 Year Fixed 2.00% Fee Classic SPV LTD Co's\n\n![Image 83: The Mortgage Lender](https://capis.storage.googleapis.com/uploaded/a04e2681b07d541a478ab974db997c10f796171e.png)\n\nBTL 2 Year Fixed 5% Fee SPV Ltd Co\n\n![Image 84: Molo](https://storage.googleapis.com/capis/imported/w4u/944f9e64202ba0b8a2d468a9f4fafba43ed5bd6b118db548aeaaadc753fa6432.png)\n\nLimited Edition BTL 2 Year Fixed 4% Fee Specialist HMO/MUFB Ltd Co SPV\n\n![Image 85: Paragon Bank](https://capis.storage.googleapis.com/uploaded/16bddcebbe8962350c9294e41b11a47cf760a13e.png)\n\nBTL SPV LTD Company 2 Year Fixed 3% Fee Single Self Contained\n\n![Image 86: Landbay](https://capis.storage.googleapis.com/uploaded/fb77728f17c444f420409c1a6246c4d3e68d856f.png)\n\nBTL 2 Year Fixed 5.00% Fee Small MUFB (SPV/LLP)\n\n![Image 87: Landbay](https://capis.storage.googleapis.com/uploaded/fb77728f17c444f420409c1a6246c4d3e68d856f.png)\n\nBTL 2 Year Fixed 5.00% Fee Small HMO (SPV/LLP)\n\n![Image 88: Fleet Mortgages](https://capis.storage.googleapis.com/uploaded/f25a1d3446608a7bf3a2e21ec1f545262797267c.png)\n\nGreen BTL 2 Year Fixed 3.00% Fee SPV LTD Company\n\nLearn more about our excellent providers\n----------------------------------------\n\n![Image 89: The Mortgage Lender](https://capis.storage.googleapis.com/uploaded/a04e2681b07d541a478ab974db997c10f796171e.png)\n\nThe Mortgage Lender offers buy to let mortgages for Limited Companies (Ltd) that meet their criteria.\n\n[Learn More](https://b2bfinance.com/providers/the-mortgage-lender/)\n\n![Image 90: Saffron Building Society](https://capis.storage.googleapis.com/uploaded/a8e9c19e1c95e1e8a000ec4b898779ba15bb9588.png)\n\nSaffron Building Society is a mutual society which has been serving the local community since 1849. They pride themselves on being a mutual organisation, which means they’re owned by their members, and exist solely for their member’s benefit.\n\n[Learn More](https://b2bfinance.com/providers/saffron-building-society/)\n\n![Image 91: Precise Mortgages](https://capis.storage.googleapis.com/uploaded/ebdd00213f1c499149578c82f68836fcfcb260d1.png)\n\nPrecise Mortgages delivers innovative buy to let mortgages, bridging and second charge loans. Their mission is to broaden the criteria for mortgage/loan approval to support buy to let entrepreneurialism. Their award winning, technology driven underwriting and credit risk management processes mean they can be more expansive in their mortgage and loan approvals - serving those underserved by mainstream lenders. Precise Mortgages can support small to large sized UK businesses that meet their criter...\n\n[Learn More](https://b2bfinance.com/providers/precise-mortgages/)\n\n![Image 92: Paragon Bank](https://capis.storage.googleapis.com/uploaded/16bddcebbe8962350c9294e41b11a47cf760a13e.png)\n\nParagon Bank prides itself on their experienced and long serving board, they offer buy to let mortgages for first time landlords and portfolio landlords through Limited Companies (Ltd), asset finance, property development finance, structured lending and invoice finance. Paragon supports business customers throughout the UK, with a range of specialist lending products tailored to meet the needs of landlords, property developers and enterprises across a wide range of sectors. They can support smal...\n\n[Learn More](https://b2bfinance.com/providers/paragon-banking-group-plc/)\n\n![Image 93: Molo](https://storage.googleapis.com/capis/imported/w4u/944f9e64202ba0b8a2d468a9f4fafba43ed5bd6b118db548aeaaadc753fa6432.png)\n\nMolo Finance is the UK’s first digital mortgage lender so forget paperwork and multiple appointments. They provide residential and buy to let mortgages and remortgages to individuals and Limited Companies (Ltd). To get a mortgage with Molo Finance you must be an experienced landlord with 4 properties or more.\n\n[Learn More](https://b2bfinance.com/providers/molo/)\n\n![Image 94: Landbay](https://capis.storage.googleapis.com/uploaded/fb77728f17c444f420409c1a6246c4d3e68d856f.png)\n\nLandbay is a specialist peer-to-peer lending platform for residential buy to let mortgages creating a more accessible buy to let marketplace for investors, borrowers and brokers. They create a new type of investment opportunity for the everyday lender, helping investors to reap the consistent, solid and regular financial returns offered by the resilient UK buy to let mortgage market and supporting responsible borrowers in securing access to faster funding. They can support first time landlords a...\n\n[Learn More](https://b2bfinance.com/providers/landbay/)\n\n![Image 95: Keystone Property Finance](https://capis.storage.googleapis.com/uploaded/2534d55f687a418dbfe0ef0d253d6aada928f2d1.png)\n\nKeystone Property Finance is a specialist buy to let lender that can support first time landlords and portfolio landlords in Limited Companies (Ltd) that meet their criteria.\n\n[Learn More](https://b2bfinance.com/providers/keystone/)\n\n![Image 96: Kent Reliance](https://capis.storage.googleapis.com/uploaded/6c01b950633dc89c21b235c77193196d1e87145d.png)\n\nKent Reliance specialises in business savings and buy to let mortgages. They can support first time landlords and portfolio landlords in Limited Companies (Ltd) that meet their criteria.\n\n[Learn More](https://b2bfinance.com/providers/kent-reliance/)\n\n![Image 97: Kensington](https://capis.storage.googleapis.com/uploaded/eff94d386d51076d7aac2fa08faf69252c77d811.png)\n\nKensington is an award-winning buy to let lender for experienced and first time landlords, their buy to let mortgages are designed to give landlords what they need; flexible lending criteria, human underwriters who don’t only rely on machines, and no maximum portfolio limits. They can support UK landlords who meet their criteria.\n\n[Learn More](https://b2bfinance.com/providers/kensington-mortgages/)\n\n![Image 98: Foundation Home Loans](https://capis.storage.googleapis.com/uploaded/22503600641e5405e41d5540a64fbb96fa714eeb.png)\n\nFoundation Home Loans offers buy to let mortgages for portfolio landlords that invest through Limited Companies (Ltd). They can support portfolio landlords in the UK that meet their criteria.\n\n[Learn More](https://b2bfinance.com/providers/foundation-home-loans/)\n\n![Image 99: Fleet Mortgages](https://capis.storage.googleapis.com/uploaded/f25a1d3446608a7bf3a2e21ec1f545262797267c.png)\n\nFleet Mortgages is a buy to let and specialist lender. Lending exclusively through the intermediary sector, they offer buy to let mortgages for Limited Companies (Ltd) and those seeking finance for Houses in Multiple Occupation (HMOs). They can support small to large sized businesses in the UK that meet their criteria.\n\n[Learn More](https://b2bfinance.com/providers/fleet-mortgages/)\n\n![Image 100: Buckinghamshire Building Society](https://capis.storage.googleapis.com/uploaded/c00dd3750375aad0d10cf3d452e98d30cb0c092c.png)\n\nBuckinghamshire Building Society’s philosophy of “doing the right thing” means that their members are at the heart of everything they do. Their aim is to offer a continually improving service to members as well as providing a financially secure and safe business environment for members to conduct their financial transactions. They offer buy to let mortgages to Limited Companies (Ltd) and can help small to large sized UK based businesses that meet their criteria.\n\n[Learn More](https://b2bfinance.com/providers/buckinghamshire-bs/)\n\nFrequently Asked Questions\n--------------------------\n\nNeed answers? We got 'em.\n\n[](https://b2bfinance.com/property/buy-to-let/products/#should-you-get-a-mortgage-through-a-limited-company \"Question link\")Should you get a mortgage through a limited company?\n\n[](https://b2bfinance.com/property/buy-to-let/products/#whats-different-from-a-personal-buytolet-vs-a-limited-company-buytolet \"Question link\")What's different from a personal buy-to-let vs a limited company buy-to-let?",
+  "usage": {
+    "tokens": 3012
+  }
+}
+```

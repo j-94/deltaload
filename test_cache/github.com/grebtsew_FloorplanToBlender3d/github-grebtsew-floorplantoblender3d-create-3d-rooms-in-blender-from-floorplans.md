@@ -1,0 +1,270 @@
+---
+title: GitHub - grebtsew/FloorplanToBlender3d: Create 3d rooms in blender from floorplans.
+description: Create 3d rooms in blender from floorplans. Contribute to grebtsew/FloorplanToBlender3d development by creating an account on GitHub.
+url: https://github.com/grebtsew/FloorplanToBlender3d
+timestamp: 2025-01-20T15:31:05.915Z
+domain: github.com
+path: grebtsew_FloorplanToBlender3d
+---
+
+# GitHub - grebtsew/FloorplanToBlender3d: Create 3d rooms in blender from floorplans.
+
+
+Create 3d rooms in blender from floorplans. Contribute to grebtsew/FloorplanToBlender3d development by creating an account on GitHub.
+
+
+## Content
+
+[![Image 47](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Logo/logo.png)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Logo/logo.png)
+
+[![Image 48: license](https://camo.githubusercontent.com/08f8f745dad73882d7753ed3d76ddf480277a7c7545b98c31a697c041e6f070b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f67726562747365772f466c6f6f72706c616e546f426c656e6465723364)](https://camo.githubusercontent.com/08f8f745dad73882d7753ed3d76ddf480277a7c7545b98c31a697c041e6f070b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f67726562747365772f466c6f6f72706c616e546f426c656e6465723364) [![Image 49: dockerhub](https://camo.githubusercontent.com/1e519993187d16137e0c968cf101ab7ae378c1d6871ce131956c881527967a45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65726875622d6163746976652d677265656e)](https://camo.githubusercontent.com/1e519993187d16137e0c968cf101ab7ae378c1d6871ce131956c881527967a45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65726875622d6163746976652d677265656e) [![Image 50: size](https://camo.githubusercontent.com/9a9c0a261c1283cdd273812ff1529d35b401a76445291535e37451f1bce9250c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f67726562747365772f466c6f6f72706c616e546f426c656e6465723364)](https://camo.githubusercontent.com/9a9c0a261c1283cdd273812ff1529d35b401a76445291535e37451f1bce9250c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f67726562747365772f466c6f6f72706c616e546f426c656e6465723364) [![Image 51: commit](https://camo.githubusercontent.com/7742a3623ecb6990b170212edf1d83ef74000eb185f47cd0ea4b0d9b36260b52/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f67726562747365772f466c6f6f72706c616e546f426c656e6465723364)](https://camo.githubusercontent.com/7742a3623ecb6990b170212edf1d83ef74000eb185f47cd0ea4b0d9b36260b52/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f67726562747365772f466c6f6f72706c616e546f426c656e6465723364)
+
+[![Image 52: Demo](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/powerpoint.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/powerpoint.gif)
+
+**Table of Contents** (click to expand)
+
+*   [About](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#about)
+*   [How-To](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#how-to)
+    *   [Run on Docker](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-on-docker)
+    *   [Run locally on OS](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-locally-on-os)
+        *   [Run Tutorial](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-tutorial)
+    *   [ConfigFile](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#configfile)
+    *   [StackingFile](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#stackingfile)
+*   [Demos](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#demos)
+*   [Documentation](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#documentation)
+*   [Testing](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#testing)
+*   [Contribute](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#contribute)
+*   [Known Issues](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#Known-Issues)
+*   [License](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#license)
+
+About
+-----
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#about)
+
+The virtualization of real life objects has been a hot topic for several years. As I started learning about 3d modelling in [Blender3d](https://www.blender.org/) I thought of the idea to use simple imaging on floorplans to automatically create corresponding 3d models. It is much easier than it sounds and uses a low amount of resources, enabling it to be used on low hardware. By utilizing Blender3d, all created objects will be easy to transfer to any other 3d rendering program. Such as [Unity](https://unity.com/), [Unreal Engine](https://www.unrealengine.com/en-US/) or [CAD](https://www.autodesk.com/solutions/cad-software).
+
+Contents
+--------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#contents)
+
+This repository contains the floorplan to blender library **FTBL** along with example scripts for converting an image to a 3d model **./create\_blender\_project\_from\_floorplan.py**. The repository also contains a server that receives images and converts them into 3d models using the **FTBL** library. The Server contains a [Swagger API](https://swagger.io/) gui and is monitored using a [weavescope](https://github.com/weaveworks/scope) container. Read more about the server implementation [here](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Server/README.md). To allow developers to utilize more functionality a Jupyter tutorial has been added to the project, explaining some of the development steps and functions of the library. Read more about the tutorial [here](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Docs/README.md). Stacking is now also added as a core feature read more about how to use stacking below.
+
+How-To
+------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#how-to)
+
+This part contains information about how to setup and execute the example script.
+
+**NOTE** : Using other versions of the required programs and libraries than specified in Dockerfiles might require changes in the implementation. It is only guaranteed that this implementation will work if the assigned versions and all requirements are met.
+
+**NOTE** : To avoid any version related problems use the Docker implementation.
+
+Run on Docker
+-------------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-on-docker)
+
+Firstly you need to install a suitable [Docker](https://www.docker.com/) environment on your device. This project contains a `DockerFile` which uses the `Ubuntu 18.04` image so make sure your docker environment is set to linux containers.
+
+This project is linked to [Docker Hub](https://hub.docker.com/r/grebtsew/floorplan-to-blender) which means a maintained and prebuilt container can be pulled directly by running:
+
+ docker pull grebtsew/floorplan-to-blender
+
+The dockerfile is divided into three modes. The script mode where the example script can be tested. The server which starts a hosting server instance with a Swagger Api. The jupyter notebook where some tutorials and examples are further explained.
+
+By using the different docker-compose files these modes are automatically selected for you.
+
+**NOTE** : For more information about how the dockerfile and docker-compose files can be used to build and run the image to add your own content read more [here](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Docs/README.md).
+
+To pull and run the container together in a one line command run:
+
+# For Script mode:
+ docker-compose run ftb
+# For Server mode: Read more "./Server/README.md"
+ docker-compose -f docker-compose.server.yml up
+# For jupyter mode: Read more "./Docs/README.md"
+ cd ./Docs
+ docker-compose up
+
+**NOTE**: When changing between modes the container sometimes need to be rebuild, that can be done by adding the --build flag to the commands above.
+
+Run locally on OS
+-----------------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-locally-on-os)
+
+This tutorial will describe how to install this implementation directly on your device. If you are a `Linux/Ubuntu` user, look at `Dockerfile` for better instructions.
+
+These are the programs that are required to run this implementation.
+
+*   [Blender3d \> 2.93](https://www.blender.org/)
+*   `Python >== 3.8.0`
+
+Clone or download this repo:
+
+```
+git clone https://github.com/grebtsew/FloorplanToBlender3d.git
+```
+
+With a suitable `blender`, `python` and `python pip` installed you can have `Python3 pip` install all required packages by running:
+
+ pip install -r requirements.txt
+
+### Run Tutorial
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-tutorial)
+
+This tutorial takes you through the execution of this program.
+
+1.  Receive floorplan as image, from pdf or by using other method (for example paint)
+2.  (Optional) create a new ConfigFile in `Configs` folder or StackingFile in `Stacking` folder.
+3.  Run python script `create_blender_project_from_floorplan.py`
+4.  Follow instructions
+5.  Created `floorplan.blender` files will be saved under `./target`
+
+**NOTE** : For more information about alternative ways of executing the implementation read more [here](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Docs/README.md).
+
+Update Settings in Config files
+-------------------------------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#update-settings-in-config-files)
+
+When the implementation run the first time a `system.ini` and \`\`default.ini\` file is created.
+
+ConfigFile
+----------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#configfile)
+
+With the new update of the implementation `ConfigFiles` are added. These files describe information about each floorplan class instance. In this file model transform can be changed. If no config is added, default will be used. To generate a new default file remove or move the old one. Next to the default config file is the system default config file containing additional settings for the entire system. All configs are placed inside the `Configs` folder.
+
+StackingFile
+------------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#stackingfile)
+
+With the new update the `StackingFile` was added. StackingFiles are used to create worlds of floorplans at once. Using a self developed parsing language. See the example files in the `Stacking` folder.
+
+Demos
+-----
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#demos)
+
+Create Floorplan in Blender3d
+-----------------------------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#create-floorplan-in-blender3d)
+
+Here we demo the program. First of we need a floorplan image to process. We use `example.png`, see below: [![Image 53: Floorplanexample](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Examples/example.png)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Examples/example.png)
+
+Next up we execute our script and answer the questions: [![Image 54: RunScriptDemo](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/RunScriptDemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/RunScriptDemo.gif)
+
+Finally we can open the newly created floorplan.blender file and see the result:
+
+[![Image 55: OpenFiledemo](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/OpenFiledemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/OpenFiledemo.gif)
+
+**NOTE**: This demo only uses default settings. For instance coloring is by default random.
+
+Create several floorplans using Stacking
+----------------------------------------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#create-several-floorplans-using-stacking)
+
+Here we instead use StackingFiles to create a world containing several floorplans. [![Image 56: RunScriptDemo](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/demoStacking1.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/demoStacking1.gif) Show the result. [![Image 57: RunScriptDemo](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/demoStacking2.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/demoStacking2.gif)
+
+Floorplan To Blender Server with Swagger API
+--------------------------------------------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#floorplan-to-blender-server-with-swagger-api)
+
+The server implementation comes with an automatically generated [Swagger API](https://swagger.io/) page.
+
+[![Image 58: swagger](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/swaggerdemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/swaggerdemo.gif)
+
+Usages in other applications
+----------------------------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#usages-in-other-applications)
+
+If you are interested in code for these demos they are accessable in another repository [here](https://github.com/grebtsew/ARFloorplanDemo).
+
+### AR foundation place floorplans in world
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#ar-foundation-place-floorplans-in-world)
+
+[![Image 59](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/ardemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/ardemo.gif)
+
+### AR foundation real life scaling of floorplans
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#ar-foundation-real-life-scaling-of-floorplans)
+
+[![Image 60](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/arrealifedemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/arrealifedemo.gif)
+
+### AR foundation interior design of floorplans
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#ar-foundation-interior-design-of-floorplans)
+
+[![Image 61](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/PlaceObjectInRoomDemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/PlaceObjectInRoomDemo.gif)
+
+### AR foundation with MediaPipe Hands interactions
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#ar-foundation-with-mediapipe-hands-interactions)
+
+[![Image 62](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/InteractDemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/InteractDemo.gif)
+
+Documentation
+-------------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#documentation)
+
+For more information and tutorial of how to use the ftb library do checkout [docs](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Docs/README.md)!
+
+Testing
+-------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#testing)
+
+Vital and core functionality are tested with pytest. To run tests yourself enter `Testing`\-folder and run:
+
+Contribute
+----------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#contribute)
+
+Let me know if you want to contribute to this project, also if you want me to add more functions or answer questions, let me know!
+
+Known Issues
+------------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#known-issues)
+
+These are some known and relevant issues with the current implementation:
+
+*   Floorplan images needs to be quite small for detections to work at this time. If you plan on using a large image, consider downsizing it.
+*   Required programs and libraries might change in future versions, this might require some changes in this implementation for it to work. If you insist on not using the versions specified in Dockerfile, a coding effort might be required.
+
+License
+-------
+
+[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#license)
+
+[GNU GENERAL PUBLIC LICENSE](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/license) Version 3, 29 June 2007
+
+COPYRIGHT @ Grebtsew 2021
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - grebtsew/FloorplanToBlender3d: Create 3d rooms in blender from floorplans.",
+  "description": "Create 3d rooms in blender from floorplans. Contribute to grebtsew/FloorplanToBlender3d development by creating an account on GitHub.",
+  "url": "https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true",
+  "content": "[![Image 47](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Logo/logo.png)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Logo/logo.png)\n\n[![Image 48: license](https://camo.githubusercontent.com/08f8f745dad73882d7753ed3d76ddf480277a7c7545b98c31a697c041e6f070b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f67726562747365772f466c6f6f72706c616e546f426c656e6465723364)](https://camo.githubusercontent.com/08f8f745dad73882d7753ed3d76ddf480277a7c7545b98c31a697c041e6f070b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f67726562747365772f466c6f6f72706c616e546f426c656e6465723364) [![Image 49: dockerhub](https://camo.githubusercontent.com/1e519993187d16137e0c968cf101ab7ae378c1d6871ce131956c881527967a45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65726875622d6163746976652d677265656e)](https://camo.githubusercontent.com/1e519993187d16137e0c968cf101ab7ae378c1d6871ce131956c881527967a45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65726875622d6163746976652d677265656e) [![Image 50: size](https://camo.githubusercontent.com/9a9c0a261c1283cdd273812ff1529d35b401a76445291535e37451f1bce9250c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f67726562747365772f466c6f6f72706c616e546f426c656e6465723364)](https://camo.githubusercontent.com/9a9c0a261c1283cdd273812ff1529d35b401a76445291535e37451f1bce9250c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f67726562747365772f466c6f6f72706c616e546f426c656e6465723364) [![Image 51: commit](https://camo.githubusercontent.com/7742a3623ecb6990b170212edf1d83ef74000eb185f47cd0ea4b0d9b36260b52/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f67726562747365772f466c6f6f72706c616e546f426c656e6465723364)](https://camo.githubusercontent.com/7742a3623ecb6990b170212edf1d83ef74000eb185f47cd0ea4b0d9b36260b52/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f67726562747365772f466c6f6f72706c616e546f426c656e6465723364)\n\n[![Image 52: Demo](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/powerpoint.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/powerpoint.gif)\n\n**Table of Contents** (click to expand)\n\n*   [About](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#about)\n*   [How-To](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#how-to)\n    *   [Run on Docker](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-on-docker)\n    *   [Run locally on OS](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-locally-on-os)\n        *   [Run Tutorial](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-tutorial)\n    *   [ConfigFile](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#configfile)\n    *   [StackingFile](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#stackingfile)\n*   [Demos](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#demos)\n*   [Documentation](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#documentation)\n*   [Testing](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#testing)\n*   [Contribute](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#contribute)\n*   [Known Issues](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#Known-Issues)\n*   [License](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#license)\n\nAbout\n-----\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#about)\n\nThe virtualization of real life objects has been a hot topic for several years. As I started learning about 3d modelling in [Blender3d](https://www.blender.org/) I thought of the idea to use simple imaging on floorplans to automatically create corresponding 3d models. It is much easier than it sounds and uses a low amount of resources, enabling it to be used on low hardware. By utilizing Blender3d, all created objects will be easy to transfer to any other 3d rendering program. Such as [Unity](https://unity.com/), [Unreal Engine](https://www.unrealengine.com/en-US/) or [CAD](https://www.autodesk.com/solutions/cad-software).\n\nContents\n--------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#contents)\n\nThis repository contains the floorplan to blender library **FTBL** along with example scripts for converting an image to a 3d model **./create\\_blender\\_project\\_from\\_floorplan.py**. The repository also contains a server that receives images and converts them into 3d models using the **FTBL** library. The Server contains a [Swagger API](https://swagger.io/) gui and is monitored using a [weavescope](https://github.com/weaveworks/scope) container. Read more about the server implementation [here](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Server/README.md). To allow developers to utilize more functionality a Jupyter tutorial has been added to the project, explaining some of the development steps and functions of the library. Read more about the tutorial [here](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Docs/README.md). Stacking is now also added as a core feature read more about how to use stacking below.\n\nHow-To\n------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#how-to)\n\nThis part contains information about how to setup and execute the example script.\n\n**NOTE** : Using other versions of the required programs and libraries than specified in Dockerfiles might require changes in the implementation. It is only guaranteed that this implementation will work if the assigned versions and all requirements are met.\n\n**NOTE** : To avoid any version related problems use the Docker implementation.\n\nRun on Docker\n-------------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-on-docker)\n\nFirstly you need to install a suitable [Docker](https://www.docker.com/) environment on your device. This project contains a `DockerFile` which uses the `Ubuntu 18.04` image so make sure your docker environment is set to linux containers.\n\nThis project is linked to [Docker Hub](https://hub.docker.com/r/grebtsew/floorplan-to-blender) which means a maintained and prebuilt container can be pulled directly by running:\n\n docker pull grebtsew/floorplan-to-blender\n\nThe dockerfile is divided into three modes. The script mode where the example script can be tested. The server which starts a hosting server instance with a Swagger Api. The jupyter notebook where some tutorials and examples are further explained.\n\nBy using the different docker-compose files these modes are automatically selected for you.\n\n**NOTE** : For more information about how the dockerfile and docker-compose files can be used to build and run the image to add your own content read more [here](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Docs/README.md).\n\nTo pull and run the container together in a one line command run:\n\n# For Script mode:\n docker-compose run ftb\n# For Server mode: Read more \"./Server/README.md\"\n docker-compose -f docker-compose.server.yml up\n# For jupyter mode: Read more \"./Docs/README.md\"\n cd ./Docs\n docker-compose up\n\n**NOTE**: When changing between modes the container sometimes need to be rebuild, that can be done by adding the --build flag to the commands above.\n\nRun locally on OS\n-----------------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-locally-on-os)\n\nThis tutorial will describe how to install this implementation directly on your device. If you are a `Linux/Ubuntu` user, look at `Dockerfile` for better instructions.\n\nThese are the programs that are required to run this implementation.\n\n*   [Blender3d \\> 2.93](https://www.blender.org/)\n*   `Python >== 3.8.0`\n\nClone or download this repo:\n\n```\ngit clone https://github.com/grebtsew/FloorplanToBlender3d.git\n```\n\nWith a suitable `blender`, `python` and `python pip` installed you can have `Python3 pip` install all required packages by running:\n\n pip install -r requirements.txt\n\n### Run Tutorial\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#run-tutorial)\n\nThis tutorial takes you through the execution of this program.\n\n1.  Receive floorplan as image, from pdf or by using other method (for example paint)\n2.  (Optional) create a new ConfigFile in `Configs` folder or StackingFile in `Stacking` folder.\n3.  Run python script `create_blender_project_from_floorplan.py`\n4.  Follow instructions\n5.  Created `floorplan.blender` files will be saved under `./target`\n\n**NOTE** : For more information about alternative ways of executing the implementation read more [here](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Docs/README.md).\n\nUpdate Settings in Config files\n-------------------------------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#update-settings-in-config-files)\n\nWhen the implementation run the first time a `system.ini` and \\`\\`default.ini\\` file is created.\n\nConfigFile\n----------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#configfile)\n\nWith the new update of the implementation `ConfigFiles` are added. These files describe information about each floorplan class instance. In this file model transform can be changed. If no config is added, default will be used. To generate a new default file remove or move the old one. Next to the default config file is the system default config file containing additional settings for the entire system. All configs are placed inside the `Configs` folder.\n\nStackingFile\n------------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#stackingfile)\n\nWith the new update the `StackingFile` was added. StackingFiles are used to create worlds of floorplans at once. Using a self developed parsing language. See the example files in the `Stacking` folder.\n\nDemos\n-----\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#demos)\n\nCreate Floorplan in Blender3d\n-----------------------------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#create-floorplan-in-blender3d)\n\nHere we demo the program. First of we need a floorplan image to process. We use `example.png`, see below: [![Image 53: Floorplanexample](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Examples/example.png)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Examples/example.png)\n\nNext up we execute our script and answer the questions: [![Image 54: RunScriptDemo](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/RunScriptDemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/RunScriptDemo.gif)\n\nFinally we can open the newly created floorplan.blender file and see the result:\n\n[![Image 55: OpenFiledemo](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/OpenFiledemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/OpenFiledemo.gif)\n\n**NOTE**: This demo only uses default settings. For instance coloring is by default random.\n\nCreate several floorplans using Stacking\n----------------------------------------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#create-several-floorplans-using-stacking)\n\nHere we instead use StackingFiles to create a world containing several floorplans. [![Image 56: RunScriptDemo](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/demoStacking1.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/demoStacking1.gif) Show the result. [![Image 57: RunScriptDemo](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/demoStacking2.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/demoStacking2.gif)\n\nFloorplan To Blender Server with Swagger API\n--------------------------------------------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#floorplan-to-blender-server-with-swagger-api)\n\nThe server implementation comes with an automatically generated [Swagger API](https://swagger.io/) page.\n\n[![Image 58: swagger](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/swaggerdemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/swaggerdemo.gif)\n\nUsages in other applications\n----------------------------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#usages-in-other-applications)\n\nIf you are interested in code for these demos they are accessable in another repository [here](https://github.com/grebtsew/ARFloorplanDemo).\n\n### AR foundation place floorplans in world\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#ar-foundation-place-floorplans-in-world)\n\n[![Image 59](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/ardemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/ardemo.gif)\n\n### AR foundation real life scaling of floorplans\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#ar-foundation-real-life-scaling-of-floorplans)\n\n[![Image 60](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/arrealifedemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/arrealifedemo.gif)\n\n### AR foundation interior design of floorplans\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#ar-foundation-interior-design-of-floorplans)\n\n[![Image 61](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/PlaceObjectInRoomDemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/PlaceObjectInRoomDemo.gif)\n\n### AR foundation with MediaPipe Hands interactions\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#ar-foundation-with-mediapipe-hands-interactions)\n\n[![Image 62](https://github.com/grebtsew/FloorplanToBlender3d/raw/master/Images/Demos/InteractDemo.gif)](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Images/Demos/InteractDemo.gif)\n\nDocumentation\n-------------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#documentation)\n\nFor more information and tutorial of how to use the ftb library do checkout [docs](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/Docs/README.md)!\n\nTesting\n-------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#testing)\n\nVital and core functionality are tested with pytest. To run tests yourself enter `Testing`\\-folder and run:\n\nContribute\n----------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#contribute)\n\nLet me know if you want to contribute to this project, also if you want me to add more functions or answer questions, let me know!\n\nKnown Issues\n------------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#known-issues)\n\nThese are some known and relevant issues with the current implementation:\n\n*   Floorplan images needs to be quite small for detections to work at this time. If you plan on using a large image, consider downsizing it.\n*   Required programs and libraries might change in future versions, this might require some changes in this implementation for it to work. If you insist on not using the versions specified in Dockerfile, a coding effort might be required.\n\nLicense\n-------\n\n[](https://github.com/grebtsew/FloorplanToBlender3d?screenshot=true#license)\n\n[GNU GENERAL PUBLIC LICENSE](https://github.com/grebtsew/FloorplanToBlender3d/blob/master/license) Version 3, 29 June 2007\n\nCOPYRIGHT @ Grebtsew 2021",
+  "usage": {
+    "tokens": 4466
+  }
+}
+```

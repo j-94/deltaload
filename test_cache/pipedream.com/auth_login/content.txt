@@ -1,0 +1,17 @@
+Sign in with Google
+
+Sign in with GitHub
+
+Sign in with Single Sign On
+
+or
+
+Email
+
+Password
+
+[Forgot password?](https://pipedream.com/auth/forgot-password)
+
+Sign in
+
+Don't have a Pipedream account yet? [Sign Up](https://pipedream.com/auth/signup?r=/@jacobanthonysedgwick/projects/proj_YRso6xZ/untitled-workflow-04-10-2024-12-23-p_D1CJKDg/build)

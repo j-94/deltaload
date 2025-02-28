@@ -1,0 +1,310 @@
+WindFrame
+===============
+     
+
+LAYERS
+
+ **Layers:** This works the same way  
+layers in figma or photoshop works.  
+It shows a visual hierarchy of  
+how your components are stacked.  
+  
+It highlights which element is  
+currently selected and you can  
+easily drag elements in the  
+layers to different positions to  
+reorder them on the canvas  
+
+Search
+
+Click here to import any tailwind css website or tailwind config into windframe.Ok
+
+Import
+
+TEMPLATES
+
+All
+
+Add Category
+
+Marketing Blocks
+
+Full Pages
+
+New![Image 51](https://windframe.devwares.com/caret_right.svg)
+
+Navigation
+
+![Image 52](https://windframe.devwares.com/caret_right.svg)
+
+Header
+
+![Image 53](https://windframe.devwares.com/caret_right.svg)
+
+Authentication
+
+New![Image 54](https://windframe.devwares.com/caret_right.svg)
+
+Coming Soon
+
+New![Image 55](https://windframe.devwares.com/caret_right.svg)
+
+Logo
+
+![Image 56](https://windframe.devwares.com/caret_right.svg)
+
+Content
+
+![Image 57](https://windframe.devwares.com/caret_right.svg)
+
+Features
+
+![Image 58](https://windframe.devwares.com/caret_right.svg)
+
+Testimonials
+
+![Image 59](https://windframe.devwares.com/caret_right.svg)
+
+Pricing
+
+![Image 60](https://windframe.devwares.com/caret_right.svg)
+
+Action
+
+![Image 61](https://windframe.devwares.com/caret_right.svg)
+
+Stats
+
+![Image 62](https://windframe.devwares.com/caret_right.svg)
+
+Blog
+
+![Image 63](https://windframe.devwares.com/caret_right.svg)
+
+Forms
+
+![Image 64](https://windframe.devwares.com/caret_right.svg)
+
+Teams
+
+![Image 65](https://windframe.devwares.com/caret_right.svg)
+
+FAQs
+
+![Image 66](https://windframe.devwares.com/caret_right.svg)
+
+Timelines
+
+![Image 67](https://windframe.devwares.com/caret_right.svg)
+
+Footers
+
+![Image 68](https://windframe.devwares.com/caret_right.svg)
+
+Admin/Dashboard
+
+Dashboard
+
+![Image 69](https://windframe.devwares.com/caret_right.svg)
+
+Pages
+
+![Image 70](https://windframe.devwares.com/caret_right.svg)
+
+Admin Nav
+
+![Image 71](https://windframe.devwares.com/caret_right.svg)
+
+Paginations
+
+New![Image 72](https://windframe.devwares.com/caret_right.svg)
+
+Tabs
+
+New![Image 73](https://windframe.devwares.com/caret_right.svg)
+
+Breadcrumbs
+
+New![Image 74](https://windframe.devwares.com/caret_right.svg)
+
+Steppers
+
+![Image 75](https://windframe.devwares.com/caret_right.svg)
+
+Notifications
+
+![Image 76](https://windframe.devwares.com/caret_right.svg)
+
+Activity Streams
+
+New![Image 77](https://windframe.devwares.com/caret_right.svg)
+
+Statistics
+
+![Image 78](https://windframe.devwares.com/caret_right.svg)
+
+Lists
+
+![Image 79](https://windframe.devwares.com/caret_right.svg)
+
+Tables
+
+![Image 80](https://windframe.devwares.com/caret_right.svg)
+
+Cards
+
+![Image 81](https://windframe.devwares.com/caret_right.svg)
+
+Forms
+
+![Image 82](https://windframe.devwares.com/caret_right.svg)
+
+Widgets
+
+![Image 83](https://windframe.devwares.com/caret_right.svg)
+
+Charts
+
+![Image 84](https://windframe.devwares.com/caret_right.svg)
+
+Sidebar
+
+![Image 85](https://windframe.devwares.com/caret_right.svg)
+
+Alerts
+
+New![Image 86](https://windframe.devwares.com/caret_right.svg)
+
+Modals
+
+New![Image 87](https://windframe.devwares.com/caret_right.svg)
+
+E-Commerce
+
+Navigations
+
+![Image 88](https://windframe.devwares.com/caret_right.svg)
+
+Info
+
+![Image 89](https://windframe.devwares.com/caret_right.svg)
+
+Cart
+
+![Image 90](https://windframe.devwares.com/caret_right.svg)
+
+Forms
+
+![Image 91](https://windframe.devwares.com/caret_right.svg)
+
+Reviews
+
+![Image 92](https://windframe.devwares.com/caret_right.svg)
+
+Footer
+
+![Image 93](https://windframe.devwares.com/caret_right.svg)
+
+Layouts and Page Shells
+
+Dashboards
+
+![Image 94](https://windframe.devwares.com/caret_right.svg)
+
+Marketing Navigations
+
+![Image 95](https://windframe.devwares.com/caret_right.svg)
+
+Marketing Headers
+
+![Image 96](https://windframe.devwares.com/caret_right.svg)
+
+See tutorial
+
+Click here to read the docs on how to use windframe.Ok
+
+[Docs](https://www.devwares.com/windframe/docs/index/)
+
+![Image 97: windframe logo](https://windframe.devwares.com/logo.png)
+====================================================================
+
+Free
+
+\- Untitled project
+
+v3.4.1
+
+1023px
+
+1023px
+
+768px
+
+576px
+
+414px
+
+390px
+
+375px
+
+Iphone 13
+
+13 pro max
+
+Galaxy S21
+
+Ipad 11
+
+Glxy Tab S7
+
+360px
+
+100%
+
+100%
+
+75%
+
+50%
+
+25%
+
+ExportLog In
+
+![Image 98: close](https://windframe.devwares.com/close.svg)
+
+#### Share Link
+
+index
+
+CanvasCode
+
+Import
+
+LTR
+
+*   Preview
+*   Code
+
+*   ![Image 99: close](https://windframe.devwares.com/close.svg)
+
+![Image 100: blockImage](https://www.google.com/search?q=code+image&sxsrf=AOaemvJ9jbkzI-hN4CWOpb7OF84RVWrB-g:1634113126207&tbm=isch&source=iu&ictx=1&fir=733uyZH3zJpd2M%252C8_kDh172SLbnPM%252C_%253Bu8x9A2EIJOSCIM%252C48NyLrvBU594sM%252C_%253BjE3WdBlvm0rZHM%252CghuIfrvuSOH4aM%252C_%253BMebvS6XeGe9jnM%252C7dEvRk6Zq-Mm7M%252C_%253BIDbjEO086bTGrM%252C8_kDh172SLbnPM%252C_%253BHexNZZAW-ME5XM%252CYVPAb9QanOPoxM%252C_%253BttEC4bUW6djp_M%252CRtVUjXbrLGxJ3M%252C_%253BJ_vB0c7uvkyXiM%252CghuIfrvuSOH4aM%252C_%253BfwPfHVAw9JIFvM%252C7dEvRk6Zq-Mm7M%252C_%253BVi-GmBw1_SYwpM%252Cl7Ji_ImHKLJVeM%252C_%253BDJ7avP2VTpJkJM%252C48NyLrvBU594sM%252C_%253BBVKoNhEV_1NCIM%252CpEiE9gduWUp_mM%252C_&vet=1&usg=AI4_-kTUXs1khxocJITAEGOTaMb0UgmrYg&sa=X&ved=2ahUKEwjouaPj-cbzAhWIDWMBHZfxA2cQ9QF6BAgXEAE#imgrc=u8x9A2EIJOSCIM)
+
+```
+
+```
+
+You won't be able to use the editor properly in this screen size. We recommend opening the editor on your desktop with a resolution of 1024px or wider
+
+  
+
+​
+
+### How it works
+
+**Step 1 of 7:** Hover on different sections in the left sidebar to choose a block you want to use.
+
+Loading...
+
+Next

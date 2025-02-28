@@ -1,0 +1,101 @@
+![Image 6: LMQL](https://lmql.ai/assets/lmql.6950db7a.svg)
+
+Robust and modular LLM prompting using **types, templates, constraints and an optimizing runtime.**
+---------------------------------------------------------------------------------------------------
+
+lmql
+
+```
+@lmql.query
+def meaning_of_life():
+    '''lmql
+    # top-level strings are prompts
+    "Q: What is the answer to life, the \
+     universe and everything?"
+
+    # generation via (constrained) variables
+    "A: [ANSWER]" where \
+        len(ANSWER) < 120 and STOPS_AT(ANSWER, ".")
+
+    # results are directly accessible
+    print("LLM returned", ANSWER)
+
+    # use typed variables for guaranteed 
+    # output format
+    "The answer is [NUM: int]"
+
+    # query programs are just functions 
+    return NUM
+    '''
+
+# so from Python, you can just do this
+meaning_of_life() # 42
+```
+
+  
+
+Created by the [SRI Lab](http://sri.inf.ethz.ch/) @ ETH Zurich and [contributors](https://github.com/eth-sri/lmql).
+
+  
+
+Nested Queries bring Procedural Programming to Prompting NEW
+------------------------------------------------------------
+
+LMQL now supports nested queries, enabling modularized local instructions and re-use of prompt components.
+
+[Learn more](https://lmql.ai/docs/language/nestedqueries.html)
+
+```
+
+promptdown
+
+ Execution Trace
+----------------
+
+Q: When was Obama born?200incontext
+
+200ANSWER04/08/1961200incontext200incontext200
+Q: When was Bruno Mars born?200incontext1200ANSWER08/10/1985200incontext1200incontext1200
+Q: When was Dua Lipa born?200incontext2200ANSWER22/08/1995200incontext2200incontext2200
+
+Out of these, who was born last?LASTDua Lipa
+
+```
+
+Works Across Backends
+---------------------
+
+LMQL automatically makes your LLM code portable across several backends. You can switch between them with a single line of code.
+
+Explore LMQL
+------------
+
+Prompt construction and generation is implemented via expressive _Python control flow and string interpolation_.
+
+LMQL
+----
+
+lmql
+
+```
+# top level strings are prompts
+"My packing list for the trip:"
+
+# use loops for repeated prompts
+for i in range(4):
+    # 'where' denotes hard constraints enforced by the runtime
+    "- [THING] \n" where THING in \ 
+        ["Volleyball", "Sunscreen", "Bathing Suit"]
+```
+
+Model Output
+------------
+
+promptdown
+
+My packing list for the trip:
+
+- THING Volleyball
+- THING Bathing Suit
+- THING Sunscreen
+- THING Volleyball

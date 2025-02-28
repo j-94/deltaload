@@ -1,0 +1,285 @@
+[![Image 91: Data + AI Summit](https://www.databricks.com/dataaisummit/dais_logo.svg)](https://www.databricks.com/dataaisummit)
+
+Save the Date  
+June 9–12, 2025  
+San Francisco + Virtual
+
+*   [/ FAQ](https://www.databricks.com/dataaisummit/faq)
+*   [/ SUMMIT ON DEMAND](https://www.databricks.com/dataaisummit/event-archive)
+
+[NOTIFY ME](https://www.databricks.com/dataaisummit#notify-me-form)
+
+Agenda
+
+Explore the Sessions
+--------------------
+
+SESSIONS
+--------
+
+Explore the catalog of breakouts, deep dives, lightning talks and paid training now.
+
+/\* showing 1 – 18 out of 558 sessions \*/
+
+20 min
+
+### [A Data and Analytics Ecosystem, Purpose-Built for Healthcare](https://www.databricks.com/dataaisummit/session/data-and-analytics-ecosystem-purpose-built-healthcare)
+
+[Mitchell Kearney](https://www.databricks.com/dataaisummit/speaker/mitchell-kearney)/
+
+Health Catalyst
+
+[See Details![Image 92](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/data-and-analytics-ecosystem-purpose-built-healthcare)
+
+Data Engineering and Streaming20 min
+
+### [A Guide to Building Smart Industrial Automations with the Databricks API](https://www.databricks.com/dataaisummit/session/guide-building-smart-industrial-automations-databricks-api)
+
+[Joyce Lin](https://www.databricks.com/dataaisummit/speaker/joyce-lin)/
+
+Viam
+
+[See Details![Image 93](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/guide-building-smart-industrial-automations-databricks-api)
+
+![Image 94](https://www.databricks.com/dataaisummit/icon-video.svg)![Image 95](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+20 min
+
+### [A How to Guide to Design an Enterprise GenAI Platform](https://www.databricks.com/dataaisummit/session/how-guide-design-enterprise-genai-platform)
+
+[Anjaney Shrivastava](https://www.databricks.com/dataaisummit/speaker/anjaney-shrivastava)/
+
+Dataiku
+
+[See Details![Image 96](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/how-guide-design-enterprise-genai-platform)
+
+Data Strategy and Lakehouse Implementation40 min
+
+### [A Lean Data Factory: The Power of a Data Intelligence Platform](https://www.databricks.com/dataaisummit/session/lean-data-factory-power-data-intelligence-platform)
+
+[Matt Jocker](https://www.databricks.com/dataaisummit/speaker/matt-jocker)/
+
+Kythera Labs
+
+[Josue Bogran Micher](https://www.databricks.com/dataaisummit/speaker/josue-bogran-micher)/
+
+Kythera Labs
+
+[See Details![Image 97](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/lean-data-factory-power-data-intelligence-platform)
+
+![Image 98](https://www.databricks.com/dataaisummit/icon-video.svg)![Image 99](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+Data Warehousing - Analytics and BI40 min
+
+### [A Modern Approach to Dimensional Modeling - In a Columnar Database (repeat)](https://www.databricks.com/dataaisummit/session/modern-approach-dimensional-modeling-columnar-database-repeat)
+
+[Truls Bergersen](https://www.databricks.com/dataaisummit/speaker/truls-bergersen)/
+
+Okeanos AS
+
+[See Details![Image 100](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/modern-approach-dimensional-modeling-columnar-database-repeat)
+
+![Image 101](https://www.databricks.com/dataaisummit/icon-video.svg)![Image 102](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+Data Warehousing - Analytics and BI40 min
+
+### [A Modern Approach to Dimensional Modeling - In a Columnar Database (repeated)](https://www.databricks.com/dataaisummit/session/modern-approach-dimensional-modeling-columnar-database-repeated)
+
+[Truls Bergersen](https://www.databricks.com/dataaisummit/speaker/truls-bergersen)/
+
+Okeanos AS
+
+[See Details![Image 103](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/modern-approach-dimensional-modeling-columnar-database-repeated)
+
+Data Science and Machine Learning40 min
+
+### [A Practical Introduction to Machine Learning with Databricks Mosaic AI](https://www.databricks.com/dataaisummit/session/practical-introduction-machine-learning-databricks-mosaic-ai)
+
+[Craig Wiley](https://www.databricks.com/dataaisummit/speaker/craig-wiley)/
+
+Databricks
+
+[Nicolas Pelaez](https://www.databricks.com/dataaisummit/speaker/nicolas-pelaez)/
+
+Databricks
+
+[See Details![Image 104](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/practical-introduction-machine-learning-databricks-mosaic-ai)
+
+![Image 105](https://www.databricks.com/dataaisummit/icon-video.svg)
+
+Generative AI40 min
+
+### [A Practitioner's Perspective on LLMOps](https://www.databricks.com/dataaisummit/session/practitioners-perspective-llmops)
+
+[Hien Luu](https://www.databricks.com/dataaisummit/speaker/hien-luu)/
+
+DoorDash
+
+[See Details![Image 106](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/practitioners-perspective-llmops)
+
+![Image 107](https://www.databricks.com/dataaisummit/icon-video.svg)![Image 108](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+Data Science and Machine Learning40 min
+
+### [A PyTorch Approach to ML Infrastructure](https://www.databricks.com/dataaisummit/session/pytorch-approach-ml-infrastructure)
+
+[Rohin Bhasin](https://www.databricks.com/dataaisummit/speaker/rohin-bhasin)/
+
+Runhouse
+
+[Caroline Chen](https://www.databricks.com/dataaisummit/speaker/caroline-chen)/
+
+Runhouse
+
+[See Details![Image 109](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/pytorch-approach-ml-infrastructure)
+
+![Image 110](https://www.databricks.com/dataaisummit/icon-video.svg)![Image 111](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+Data Lakehouse Architecture40 min
+
+### [Accelerating Adoption of Datalake for Streaming/ML Use Cases](https://www.databricks.com/dataaisummit/session/accelerating-adoption-datalake-streamingml-use-cases)
+
+[Harsha Reddy](https://www.databricks.com/dataaisummit/speaker/harsha-reddy)/
+
+Doordash
+
+[Aydar Akhmetzyanov](https://www.databricks.com/dataaisummit/speaker/aydar-akhmetzyanov)/
+
+Doordash
+
+[See Details![Image 112](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/accelerating-adoption-datalake-streamingml-use-cases)
+
+![Image 113](https://www.databricks.com/dataaisummit/icon-video.svg)![Image 114](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+Data Sharing40 min
+
+### [Accelerating Financial Innovation: Unlock Insights with Databricks Marketplace](https://www.databricks.com/dataaisummit/session/accelerating-financial-innovation-unlock-insights-databricks)
+
+[Jay Bhankharia](https://www.databricks.com/dataaisummit/speaker/jay-bhankharia)/
+
+Databricks
+
+[Sandeep Earayil](https://www.databricks.com/dataaisummit/speaker/sandeep-earayil)/
+
+RBC Capital Markets
+
+[Adam Longenecker](https://www.databricks.com/dataaisummit/speaker/adam-longenecker)/
+
+Stocktwits, Inc
+
+[John Schirripa](https://www.databricks.com/dataaisummit/speaker/john-schirripa)/
+
+S&P Global Market Intelligence
+
+[See Details![Image 115](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/accelerating-financial-innovation-unlock-insights-databricks)
+
+![Image 116](https://www.databricks.com/dataaisummit/icon-video.svg)![Image 117](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+20 min
+
+### [Accelerating GenAI with Lovelytics: The Power of Pre-Trained Transformers](https://www.databricks.com/dataaisummit/session/accelerating-genai-lovelytics-power-pre-trained-transformers)
+
+[Sudhir Gajre](https://www.databricks.com/dataaisummit/speaker/sudhir-gajre)/
+
+Lovelytics
+
+[See Details![Image 118](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/accelerating-genai-lovelytics-power-pre-trained-transformers)
+
+Generative AI40 min
+
+### [Accelerating J.P. Morgan Data Product Development in the Age of AI](https://www.databricks.com/dataaisummit/session/accelerating-jp-morgan-data-product-development-age-ai)
+
+[Oleg Uris](https://www.databricks.com/dataaisummit/speaker/oleg-uris)/
+
+JP Morgan Chase
+
+[Satya Vandrangi](https://www.databricks.com/dataaisummit/speaker/satya-vandrangi)/
+
+JP Morgan
+
+[See Details![Image 119](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/accelerating-jp-morgan-data-product-development-age-ai)
+
+![Image 120](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+Data Science and Machine Learning40 min
+
+### [Accelerating LLM Inference with vLLM](https://www.databricks.com/dataaisummit/session/accelerating-llm-inference-vllm)
+
+[Zhuohan Li](https://www.databricks.com/dataaisummit/speaker/zhuohan-li)/
+
+UC Berkeley / vLLM
+
+[Cade Daniel](https://www.databricks.com/dataaisummit/speaker/cade-daniel)/
+
+Anyscale
+
+[See Details![Image 121](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/accelerating-llm-inference-vllm)
+
+![Image 122](https://www.databricks.com/dataaisummit/icon-video.svg)
+
+Generative AI40 min
+
+### [Accelerating Operational Excellence with Generative AI](https://www.databricks.com/dataaisummit/session/accelerating-operational-excellence-generative-ai)
+
+[Peter Landis](https://www.databricks.com/dataaisummit/speaker/peter-landis)/
+
+Northwestern Mutual
+
+[Gen Li](https://www.databricks.com/dataaisummit/speaker/gen-li)/
+
+Northwestern Mutual
+
+[See Details![Image 123](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/accelerating-operational-excellence-generative-ai)
+
+![Image 124](https://www.databricks.com/dataaisummit/icon-video.svg)![Image 125](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+20 min
+
+### [Accelerating Unity Catalog ROI Through Meta Data Transformation](https://www.databricks.com/dataaisummit/session/accelerating-unity-catalog-roi-through-meta-data-transformation)
+
+[David LeGrand](https://www.databricks.com/dataaisummit/speaker/david-legrand)/
+
+Tredence
+
+[Kathleen Wong](https://www.databricks.com/dataaisummit/speaker/kathleen-wong)/
+
+Databricks
+
+[See Details![Image 126](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/accelerating-unity-catalog-roi-through-meta-data-transformation)
+
+Data Sharing20 min
+
+### [AccuWeather®: Turn Risky Weather Obstacles into Business Opportunities](https://www.databricks.com/dataaisummit/session/accuweatherr-turn-risky-weather-obstacles-business-opportunities)
+
+[Timothy Loftus](https://www.databricks.com/dataaisummit/speaker/timothy-loftus)/
+
+AccuWeather
+
+[See Details![Image 127](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/accuweatherr-turn-risky-weather-obstacles-business-opportunities)
+
+![Image 128](https://www.databricks.com/dataaisummit/icon-video.svg)![Image 129](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+Data Science and Machine Learning20 min
+
+### [Advanced Experiment Tracking for LLM-Powered applications with Customized Open-Source MLFLow](https://www.databricks.com/dataaisummit/session/advanced-experiment-tracking-llm-powered-applications-customized-open)
+
+[Manas Mukherjee](https://www.databricks.com/dataaisummit/speaker/manas-mukherjee)/
+
+Intuit
+
+[See Details![Image 130](https://www.databricks.com/dataaisummit/arrow-caret.svg)](https://www.databricks.com/dataaisummit/session/advanced-experiment-tracking-llm-powered-applications-customized-open)
+
+![Image 131](https://www.databricks.com/dataaisummit/icon-video.svg)![Image 132](https://www.databricks.com/dataaisummit/icon-slides.svg)
+
+Page
+
+*   [1](https://www.databricks.com/dataaisummit/agenda?page=1)
+*   [2](https://www.databricks.com/dataaisummit/agenda?page=2)
+*   [3](https://www.databricks.com/dataaisummit/agenda?page=3)
+*   [4](https://www.databricks.com/dataaisummit/agenda?page=4)
+*   [5](https://www.databricks.com/dataaisummit/agenda?page=5)
+*   [6](https://www.databricks.com/dataaisummit/agenda?page=6)
+
+*   [31](https://www.databricks.com/dataaisummit/agenda?page=31)
+
+/\* showing 1 – 18 out of 558 sessions \*/

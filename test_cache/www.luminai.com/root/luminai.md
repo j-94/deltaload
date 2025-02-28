@@ -1,0 +1,514 @@
+---
+title: Luminai
+description: Luminai’s proprietary AI systems eliminate the manual, repetitive work from your business processes.
+url: https://www.luminai.com/
+timestamp: 2025-01-20T15:50:58.592Z
+domain: www.luminai.com
+path: root
+---
+
+# Luminai
+
+
+Luminai’s proprietary AI systems eliminate the manual, repetitive work from your business processes.
+
+
+## Content
+
+![Image 239](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65dc0803adbd672d41f5148a_Grid.png)
+
+[![Image 240](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65d490ee0eccc6ba78b4472e_luminai_logo3.svg)](https://www.luminai.com/#Hero)![Image 241](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65dcc1a23c2eecc8d78879eb_logo%20mark.svg)
+
+[![Image 242](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65d490ee0eccc6ba78b4472e_luminai_logo3.svg)](https://www.luminai.com/#Hero)![Image 243](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65dcc1a23c2eecc8d78879eb_logo%20mark.svg)
+
+Reliably delegate mission-critical work to computers
+----------------------------------------------------
+
+Luminai executes the manual, repetitive parts of your business processes, seamlessly integrating into your existing systems and ways of working.
+
+[Request a demo ![Image 244](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65dcbab37f47dc9703a1f247_CaretRight.svg)](https://www.luminai.com/#)
+
+![Image 245](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65dcd1c9ef3be106eb3beba6_CS%20team.png)
+
+“Integrating Luminai was the key to Ops reaching our efficiency goals last year. The speed and efficiency it brought to handling multiple sensitive use-cases with rapid SLAs is remarkable. We were able to increase the team's capacity by more than 35% in just several weeks of the partnership.”
+
+![Image 246](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65e5cf65be750ca9fb54cdb4_Andrew%20Garcia.png)
+
+Andrew Garcia
+
+Director, Strategic Operations @ Modern Health
+
+“Luminai first helped us automate our credit card disputes/chargeback process. We were targeting a 5% improvement in win rates, but got 20% - way more than we expected! Not to mention more time to take on higher value work. They are a valuable partner to Super.com, allowing us to scale while staying lean."
+
+![Image 247](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65e5cf6587ba6fda78a987c4_Sarah%20Boehmer.png)
+
+Sarah Boehmer
+
+Director, Strategic Operations @ Super
+
+“What used to be a manual process now happens seamlessly, saving us so much time. We can now actually focus on adding value through customer care rather than drowning in tedious, repetitive tasks. The Luminai team is also so easy to work with and I appreciate their level of professionalism.”
+
+![Image 248](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65f228f1ee7e79717f1a83ce_Adrian.png)
+
+Adrian Narvaez
+
+Community Manager @ Strava
+
+The state of work today is inefficient.
+---------------------------------------
+
+Enterprise companies across healthcare, consumer, and financial services are overwhelmed with manual, repetitive workflows.
+
+![Image 249](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65ddf5071ec1e00fe6d293c4_Frame%2032.svg)
+
+Excessive context switching between different apps, software and processes
+
+![Image 250](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65ddf50756b6e7c68ee9ca42_Frame%2033.svg)
+
+Copying and pasting between internal and external systems
+
+![Image 251](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65ddf507d0e5a397e7cdb49f_Frame%2033-1.svg)
+
+Manual data entry / manual calculations / manual reporting
+
+These tedious tasks lead to massive productivity gaps, errors, burnout and lost revenue.
+
+#### 1
+
+Upload Standard Operating Procedure
+
+Upload a plain english documented SOP of your processes to the Luminai platform.  
+‍
+
+#### 2
+
+Interpret SOP into steps
+
+Using purpose built technology, Luminai analyses and compiles the information and builds out a reliable task deployment.
+
+#### 3
+
+Build out one-click workflow
+
+Luminai systems then use a keyboard and mouse like a human would to complete the steps within your SOP.
+
+![Image 252](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df887b7026f45f99b4c0fb_Healthcare.png)
+
+![Image 253](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8913b7756542f38c1221_Healthcare.svg)
+
+### Healthcare
+
+Patient Operations
+
+![Image 254](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Patient onboarding/intake
+
+![Image 255](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Intake Patient scheduling
+
+![Image 256](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Insurance inquiries
+
+![Image 257](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Account inquiries
+
+Revenue Cycle Management
+
+![Image 258](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Eligibility Verification
+
+![Image 259](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Prior Authorization
+
+![Image 260](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Claims processing
+
+![Image 261](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Collections Posting
+
+Provider Management
+
+![Image 262](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Surgical Variation
+
+![Image 263](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+PO Confirmation
+
+See the Full list
+
+![Image 264](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8913b7756542f38c1221_Healthcare.svg)
+
+### Healthcare
+
+![Image 265](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65e86500bd1c48c48fc1d170_X.svg)
+
+Patient Operations
+
+![Image 266](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Patient onboarding/intake
+
+![Image 267](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Intake Patient scheduling
+
+![Image 268](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Insurance inquiries
+
+![Image 269](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Account inquiries
+
+![Image 270](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Claims Status Request
+
+![Image 271](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Documentation Intake
+
+Revenue Cycle Management
+
+![Image 272](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Eligibility Verification
+
+![Image 273](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Prior Authorization
+
+![Image 274](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Claims processing
+
+![Image 275](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Collections Posting
+
+![Image 276](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Patient Payment
+
+![Image 277](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Benefits Investigation
+
+Provider Management
+
+![Image 278](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Surgical Variation
+
+![Image 279](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+PO Confirmation
+
+![Image 280](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+BO Management
+
+![Image 281](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Contract Management
+
+![Image 282](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Inventory Optimization
+
+![Image 283](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Item Master Management
+
+![Image 284](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Supply Spend Analysis
+
+![Image 285](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Preference Cards
+
+![Image 286](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8913fcefeaa00d468767_Consumer.svg)
+
+### Consumer
+
+Luminai’s automation solutions enable your team to resolve tickets faster, discover upsell opportunities, and develop deeper customer connections
+
+![Image 287](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Refunding Orders
+
+![Image 288](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Adjusting Orders
+
+![Image 289](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+WISMO
+
+![Image 290](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Partial Refunds
+
+![Image 291](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Shipping Discounts
+
+![Image 292](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Price Adjustments
+
+![Image 293](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Return Label Generation
+
+![Image 294](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Shipment Tracking
+
+![Image 295](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Inventory Management
+
+![Image 296](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Discount Creation
+
+![Image 297](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Address Changes
+
+![Image 298](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df88837668d93456ae716d_Consumer.png)
+
+![Image 299](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df888316af69a1c2bbd9b7_Finance.png)
+
+![Image 300](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df891367be341cb51551a2_Finance.svg)
+
+### Financial Services
+
+Cards
+
+![Image 301](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Prospecting & Application
+
+![Image 302](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Processing & Approvals
+
+![Image 303](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Payments & Settlement
+
+![Image 304](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Collections & Servicing
+
+Customer Service Operations
+
+![Image 305](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Disputes
+
+![Image 306](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Account Maintenance
+
+![Image 307](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Data Extraction
+
+![Image 308](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Onboarding
+
+Lending
+
+![Image 309](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Loan Processing
+
+![Image 310](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Underwriting
+
+See the Full list
+
+![Image 311](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df891367be341cb51551a2_Finance.svg)
+
+### Financial Services
+
+![Image 312](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65e86500bd1c48c48fc1d170_X.svg)
+
+Cards
+
+![Image 313](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Prospecting & Application
+
+![Image 314](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Processing & Approvals
+
+![Image 315](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Payments & Settlement
+
+![Image 316](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Collections & Servicing
+
+![Image 317](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Dispute Management
+
+![Image 318](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Fraud Management
+
+Customer Service Operations
+
+![Image 319](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Disputes
+
+![Image 320](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Account Maintenance
+
+![Image 321](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Data Extraction
+
+![Image 322](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Onboarding
+
+![Image 323](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Account Set Up
+
+![Image 324](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Cash Withdrawal
+
+Lending
+
+![Image 325](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Origination
+
+![Image 326](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Loan Processing
+
+![Image 327](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Underwriting
+
+![Image 328](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Funding
+
+![Image 329](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Administration
+
+![Image 330](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Default Management
+
+Risk and Compliance
+
+![Image 331](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+KYC
+
+![Image 332](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Client Due Diligence
+
+![Image 333](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Transaction Monitoring
+
+![Image 334](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Alerts Management
+
+![Image 335](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+Risk Monitoring
+
+![Image 336](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)
+
+External Reporting
+
+![Image 337](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df910c5d94cee92625e7e7_Frame%202094.svg)
+
+Automate any workflow
+
+End-to-end or with a human in the loop
+
+![Image 338](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df91e2704325af65e70d06_Frame%202094-1.svg)
+
+Seamless Integration
+
+Quick onboarding time (2-3 weeks)
+
+![Image 339](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df91e2a2ad65359d396f4d_Frame%202094-2.svg)
+
+Zero resources to deploy
+
+No client engineering resources required
+
+![Image 340](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df91e25cddbd08b85a1c40_Frame%202094-3.svg)
+
+Minimized Risk
+
+All data stays local - no additional security/privacy risks
+
+![Image 341](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df91e2cbea9a3c4c7d561b_Frame%202094-4.svg)
+
+Retain your existing systems
+
+Platform agnostic and can operate without API integrations
+
+![Image 342](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df91e2291476301f7b5b6c_Frame%202094-5.svg)
+
+Robustness
+
+Eliminates the brittleness associated with traditional RPA
+
+Secure by Default
+-----------------
+
+All Luminai Deployments follow highest compliance and security standards, full inspectability, and strict data and access controls.
+
+![Image 343](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65d490ee0eccc6ba78b44625_Group%201892.png)
+
+![Image 344](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65d490ee0eccc6ba78b44620_Group%201891%20(2).png)
+
+## Metadata
+
+```json
+{
+  "title": "Luminai",
+  "description": "Luminai’s proprietary AI systems eliminate the manual, repetitive work from your business processes.",
+  "url": "https://www.luminai.com/",
+  "content": "![Image 239](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65dc0803adbd672d41f5148a_Grid.png)\n\n[![Image 240](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65d490ee0eccc6ba78b4472e_luminai_logo3.svg)](https://www.luminai.com/#Hero)![Image 241](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65dcc1a23c2eecc8d78879eb_logo%20mark.svg)\n\n[![Image 242](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65d490ee0eccc6ba78b4472e_luminai_logo3.svg)](https://www.luminai.com/#Hero)![Image 243](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65dcc1a23c2eecc8d78879eb_logo%20mark.svg)\n\nReliably delegate mission-critical work to computers\n----------------------------------------------------\n\nLuminai executes the manual, repetitive parts of your business processes, seamlessly integrating into your existing systems and ways of working.\n\n[Request a demo ![Image 244](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65dcbab37f47dc9703a1f247_CaretRight.svg)](https://www.luminai.com/#)\n\n![Image 245](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65dcd1c9ef3be106eb3beba6_CS%20team.png)\n\n“Integrating Luminai was the key to Ops reaching our efficiency goals last year. The speed and efficiency it brought to handling multiple sensitive use-cases with rapid SLAs is remarkable. We were able to increase the team's capacity by more than 35% in just several weeks of the partnership.”\n\n![Image 246](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65e5cf65be750ca9fb54cdb4_Andrew%20Garcia.png)\n\nAndrew Garcia\n\nDirector, Strategic Operations @ Modern Health\n\n“Luminai first helped us automate our credit card disputes/chargeback process. We were targeting a 5% improvement in win rates, but got 20% - way more than we expected! Not to mention more time to take on higher value work. They are a valuable partner to Super.com, allowing us to scale while staying lean.\"\n\n![Image 247](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65e5cf6587ba6fda78a987c4_Sarah%20Boehmer.png)\n\nSarah Boehmer\n\nDirector, Strategic Operations @ Super\n\n“What used to be a manual process now happens seamlessly, saving us so much time. We can now actually focus on adding value through customer care rather than drowning in tedious, repetitive tasks. The Luminai team is also so easy to work with and I appreciate their level of professionalism.”\n\n![Image 248](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65f228f1ee7e79717f1a83ce_Adrian.png)\n\nAdrian Narvaez\n\nCommunity Manager @ Strava\n\nThe state of work today is inefficient.\n---------------------------------------\n\nEnterprise companies across healthcare, consumer, and financial services are overwhelmed with manual, repetitive workflows.\n\n![Image 249](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65ddf5071ec1e00fe6d293c4_Frame%2032.svg)\n\nExcessive context switching between different apps, software and processes\n\n![Image 250](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65ddf50756b6e7c68ee9ca42_Frame%2033.svg)\n\nCopying and pasting between internal and external systems\n\n![Image 251](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65ddf507d0e5a397e7cdb49f_Frame%2033-1.svg)\n\nManual data entry / manual calculations / manual reporting\n\nThese tedious tasks lead to massive productivity gaps, errors, burnout and lost revenue.\n\n#### 1\n\nUpload Standard Operating Procedure\n\nUpload a plain english documented SOP of your processes to the Luminai platform.  \n‍\n\n#### 2\n\nInterpret SOP into steps\n\nUsing purpose built technology, Luminai analyses and compiles the information and builds out a reliable task deployment.\n\n#### 3\n\nBuild out one-click workflow\n\nLuminai systems then use a keyboard and mouse like a human would to complete the steps within your SOP.\n\n![Image 252](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df887b7026f45f99b4c0fb_Healthcare.png)\n\n![Image 253](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8913b7756542f38c1221_Healthcare.svg)\n\n### Healthcare\n\nPatient Operations\n\n![Image 254](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPatient onboarding/intake\n\n![Image 255](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nIntake Patient scheduling\n\n![Image 256](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nInsurance inquiries\n\n![Image 257](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nAccount inquiries\n\nRevenue Cycle Management\n\n![Image 258](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nEligibility Verification\n\n![Image 259](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPrior Authorization\n\n![Image 260](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nClaims processing\n\n![Image 261](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nCollections Posting\n\nProvider Management\n\n![Image 262](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nSurgical Variation\n\n![Image 263](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPO Confirmation\n\nSee the Full list\n\n![Image 264](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8913b7756542f38c1221_Healthcare.svg)\n\n### Healthcare\n\n![Image 265](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65e86500bd1c48c48fc1d170_X.svg)\n\nPatient Operations\n\n![Image 266](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPatient onboarding/intake\n\n![Image 267](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nIntake Patient scheduling\n\n![Image 268](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nInsurance inquiries\n\n![Image 269](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nAccount inquiries\n\n![Image 270](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nClaims Status Request\n\n![Image 271](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nDocumentation Intake\n\nRevenue Cycle Management\n\n![Image 272](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nEligibility Verification\n\n![Image 273](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPrior Authorization\n\n![Image 274](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nClaims processing\n\n![Image 275](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nCollections Posting\n\n![Image 276](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPatient Payment\n\n![Image 277](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nBenefits Investigation\n\nProvider Management\n\n![Image 278](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nSurgical Variation\n\n![Image 279](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPO Confirmation\n\n![Image 280](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nBO Management\n\n![Image 281](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nContract Management\n\n![Image 282](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nInventory Optimization\n\n![Image 283](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nItem Master Management\n\n![Image 284](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nSupply Spend Analysis\n\n![Image 285](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPreference Cards\n\n![Image 286](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8913fcefeaa00d468767_Consumer.svg)\n\n### Consumer\n\nLuminai’s automation solutions enable your team to resolve tickets faster, discover upsell opportunities, and develop deeper customer connections\n\n![Image 287](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nRefunding Orders\n\n![Image 288](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nAdjusting Orders\n\n![Image 289](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nWISMO\n\n![Image 290](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPartial Refunds\n\n![Image 291](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nShipping Discounts\n\n![Image 292](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPrice Adjustments\n\n![Image 293](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nReturn Label Generation\n\n![Image 294](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nShipment Tracking\n\n![Image 295](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nInventory Management\n\n![Image 296](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nDiscount Creation\n\n![Image 297](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nAddress Changes\n\n![Image 298](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df88837668d93456ae716d_Consumer.png)\n\n![Image 299](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df888316af69a1c2bbd9b7_Finance.png)\n\n![Image 300](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df891367be341cb51551a2_Finance.svg)\n\n### Financial Services\n\nCards\n\n![Image 301](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nProspecting & Application\n\n![Image 302](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nProcessing & Approvals\n\n![Image 303](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPayments & Settlement\n\n![Image 304](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nCollections & Servicing\n\nCustomer Service Operations\n\n![Image 305](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nDisputes\n\n![Image 306](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nAccount Maintenance\n\n![Image 307](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nData Extraction\n\n![Image 308](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nOnboarding\n\nLending\n\n![Image 309](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nLoan Processing\n\n![Image 310](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nUnderwriting\n\nSee the Full list\n\n![Image 311](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df891367be341cb51551a2_Finance.svg)\n\n### Financial Services\n\n![Image 312](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65e86500bd1c48c48fc1d170_X.svg)\n\nCards\n\n![Image 313](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nProspecting & Application\n\n![Image 314](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nProcessing & Approvals\n\n![Image 315](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nPayments & Settlement\n\n![Image 316](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nCollections & Servicing\n\n![Image 317](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nDispute Management\n\n![Image 318](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nFraud Management\n\nCustomer Service Operations\n\n![Image 319](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nDisputes\n\n![Image 320](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nAccount Maintenance\n\n![Image 321](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nData Extraction\n\n![Image 322](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nOnboarding\n\n![Image 323](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nAccount Set Up\n\n![Image 324](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nCash Withdrawal\n\nLending\n\n![Image 325](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nOrigination\n\n![Image 326](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nLoan Processing\n\n![Image 327](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nUnderwriting\n\n![Image 328](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nFunding\n\n![Image 329](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nAdministration\n\n![Image 330](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nDefault Management\n\nRisk and Compliance\n\n![Image 331](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nKYC\n\n![Image 332](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nClient Due Diligence\n\n![Image 333](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nTransaction Monitoring\n\n![Image 334](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nAlerts Management\n\n![Image 335](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nRisk Monitoring\n\n![Image 336](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df8b51b4134afb8f86c531_CheckCircle.svg)\n\nExternal Reporting\n\n![Image 337](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df910c5d94cee92625e7e7_Frame%202094.svg)\n\nAutomate any workflow\n\nEnd-to-end or with a human in the loop\n\n![Image 338](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df91e2704325af65e70d06_Frame%202094-1.svg)\n\nSeamless Integration\n\nQuick onboarding time (2-3 weeks)\n\n![Image 339](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df91e2a2ad65359d396f4d_Frame%202094-2.svg)\n\nZero resources to deploy\n\nNo client engineering resources required\n\n![Image 340](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df91e25cddbd08b85a1c40_Frame%202094-3.svg)\n\nMinimized Risk\n\nAll data stays local - no additional security/privacy risks\n\n![Image 341](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df91e2cbea9a3c4c7d561b_Frame%202094-4.svg)\n\nRetain your existing systems\n\nPlatform agnostic and can operate without API integrations\n\n![Image 342](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65df91e2291476301f7b5b6c_Frame%202094-5.svg)\n\nRobustness\n\nEliminates the brittleness associated with traditional RPA\n\nSecure by Default\n-----------------\n\nAll Luminai Deployments follow highest compliance and security standards, full inspectability, and strict data and access controls.\n\n![Image 343](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65d490ee0eccc6ba78b44625_Group%201892.png)\n\n![Image 344](https://cdn.prod.website-files.com/65d490ee0eccc6ba78b445ee/65d490ee0eccc6ba78b44620_Group%201891%20(2).png)",
+  "usage": {
+    "tokens": 5785
+  }
+}
+```

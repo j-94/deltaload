@@ -1,0 +1,128 @@
+---
+title: codesearch | Semantic Scholar
+description: An academic search engine that utilizes artificial intelligence methods to provide highly relevant results and novel tools to filter them with ease.
+url: https://www.semanticscholar.org/search?q=codesearch&sort=relevance
+timestamp: 2025-01-20T15:53:33.008Z
+domain: www.semanticscholar.org
+path: search
+---
+
+# codesearch | Semantic Scholar
+
+
+An academic search engine that utilizes artificial intelligence methods to provide highly relevant results and novel tools to filter them with ease.
+
+
+## Content
+
+[Customizing Static Analysis using _Codesearch_ ----------------------------------------------](https://www.semanticscholar.org/paper/Customizing-Static-Analysis-using-Codesearch-Hayoun-Raychev/3fca60415650dbbf6a7652e3c8d5927bb678e1ff)
+
+[Avi Hayoun](https://www.semanticscholar.org/author/Avi-Hayoun/3448626)[Veselin Raychev](https://www.semanticscholar.org/author/Veselin-Raychev/1967472)[Jack Hair](https://www.semanticscholar.org/author/Jack-Hair/2297670439)Computer Science
+
+[arXiv.org](https://www.semanticscholar.org/venue?name=arXiv.org)
+
+*   19 April 2024
+
+The approach introduces a language called StarLang, a variant of Datalog which only includes programs with a fast runtime by the means of having low time complexity of its decision procedure.
+
+*   [](https://www.semanticscholar.org/reader/3fca60415650dbbf6a7652e3c8d5927bb678e1ff)\[PDF\]
+
+[arXiv (opens in a new tab)](https://arxiv.org/pdf/2404.12747.pdf)
+
+[SE-_CodeSearch_: A scalable Semantic Web-based source code search infrastructure --------------------------------------------------------------------------------](https://www.semanticscholar.org/paper/SE-CodeSearch%3A-A-scalable-Semantic-Web-based-source-Keivanloo-Roostapour/c6532103d1df055369652d59b8c33bfce1af3edf)
+
+[I. Keivanloo](https://www.semanticscholar.org/author/I.-Keivanloo/1829628)[Laleh Roostapour](https://www.semanticscholar.org/author/Laleh-Roostapour/2028925)[Philipp Schügerl](https://www.semanticscholar.org/author/Philipp-Sch%C3%BCgerl/2396047)[J. Rilling](https://www.semanticscholar.org/author/J.-Rilling/1398213085)Computer Science, Engineering
+
+2010 IEEE International Conference on Software…
+
+*   12 September 2010
+
+SE-_CodeSearch_ is presented, a Semantic Web-based approach for Internet-scale source code search that uses an ontological representation of source code facts and analysis knowledge to complete missing information using inference engine.
+
+*   [20](https://www.semanticscholar.org/paper/SE-CodeSearch%3A-A-scalable-Semantic-Web-based-source-Keivanloo-Roostapour/c6532103d1df055369652d59b8c33bfce1af3edf#citing-papers)
+    
+
+[IEEE (opens in a new tab)](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5609533)
+
+[CodeRetriever: Unimodal and Bimodal Contrastive Learning --------------------------------------------------------](https://www.semanticscholar.org/paper/CodeRetriever%3A-Unimodal-and-Bimodal-Contrastive-Li-Gong/532f32be1e918d6b75650947318e57fc8f4fb415)
+
+[Xiaonan Li](https://www.semanticscholar.org/author/Xiaonan-Li/50080067)[Yeyun Gong](https://www.semanticscholar.org/author/Yeyun-Gong/2171182) [Nan Duan](https://www.semanticscholar.org/author/Nan-Duan/46429989)Computer Science
+
+[arXiv.org](https://www.semanticscholar.org/venue?name=arXiv.org)
+
+*   2022
+
+The CodeRetriever 001 model, which combines the unimodal and bi-002 modal contrastive learning to train function-003 level code semantic representations, achieves the new state-of-019 the-art performance with signiﬁcant improve-020 ment over existing code pre-trained models.
+
+*   [25](https://www.semanticscholar.org/paper/CodeRetriever%3A-Unimodal-and-Bimodal-Contrastive-Li-Gong/532f32be1e918d6b75650947318e57fc8f4fb415#citing-papers)
+    
+
+[Combining Word2Vec with Revised Vector Space Model for Better Code Retrieval ----------------------------------------------------------------------------](https://www.semanticscholar.org/paper/Combining-Word2Vec-with-Revised-Vector-Space-Model-NGUYEN-Nguyen/cf27083882baa92e728f601789f9f1634aabc546)
+
+[THANH VAN NGUYEN](https://www.semanticscholar.org/author/THANH-VAN-NGUYEN/47523387)[A. Nguyen](https://www.semanticscholar.org/author/A.-Nguyen/144659797)[H. Phan](https://www.semanticscholar.org/author/H.-Phan/29785036)[Trong Duc Nguyen](https://www.semanticscholar.org/author/Trong-Duc-Nguyen/3400339)[T. Nguyen](https://www.semanticscholar.org/author/T.-Nguyen/2327697)Computer Science
+
+2017 IEEE/ACM 39th International Conference on…
+
+*   20 May 2017
+
+A preliminary study suggests that combining traditional IR with Word2Vec achieves better retrieval accuracy, and more experiments need to be done to study different types of combination among two lines of approaches.
+
+*   [33](https://www.semanticscholar.org/paper/Combining-Word2Vec-with-Revised-Vector-Space-Model-NGUYEN-Nguyen/cf27083882baa92e728f601789f9f1634aabc546#citing-papers)
+    
+
+[IEEE (opens in a new tab)](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7965297)
+
+[TCM coding ofPPMbased modulations for Infrared WLAN'simpaired byISI -------------------------------------------------------------------](https://www.semanticscholar.org/paper/TCM-coding-ofPPMbased-modulations-for-Infrared-Gameiro/2af53dfc2417cc4f80039fcbd92302dcb0ce5bbe)
+
+[A. Gameiro](https://www.semanticscholar.org/author/A.-Gameiro/143921564)Computer Science, Engineering
+
+*   2006
+
+The best techniques, and thentoimprove the performance ofwireless _codesearch_ and results, which demonstrate that, even withrellisinfrared communication systems, codes of moderate complexity, non-negligible coding gains can be effective.
+
+[CodeGenie: using test-cases to search and reuse source code -----------------------------------------------------------](https://www.semanticscholar.org/paper/CodeGenie%3A-using-test-cases-to-search-and-reuse-Lemos-Bajracharya/3e61c7a9db1df73590245370d94b01260812b709)
+
+[Otávio Augusto Lazzarini Lemos](https://www.semanticscholar.org/author/Ot%C3%A1vio-Augusto-Lazzarini-Lemos/1815847)[S. Bajracharya](https://www.semanticscholar.org/author/S.-Bajracharya/1714659) [C. Lopes](https://www.semanticscholar.org/author/C.-Lopes/34955824)Computer Science
+
+[International Conference on Automated Software…](https://www.semanticscholar.org/venue?name=International%20Conference%20on%20Automated%20Software%20Engineering)
+
+*   5 November 2007
+
+This work presents CodeGenie, a tool that implements a test-driven approach to search and reuse of code available on large-scale coderepositories, and relies on Sourcerer, an Internet-scale source code infrastructure that it has developed.
+
+*   [92](https://www.semanticscholar.org/paper/CodeGenie%3A-using-test-cases-to-search-and-reuse-Lemos-Bajracharya/3e61c7a9db1df73590245370d94b01260812b709#citing-papers)
+    
+*   [PDF (opens in a new tab)](http://www.researchgate.net/profile/Pierre_Baldi/publication/220883869_CodeGenie_using_test-cases_to_search_and_reuse_source_code/links/09e415093048369d6e000000.pdf)
+    
+
+[ACM (opens in a new tab)](http://dl.acm.org/citation.cfm?id=1321726)
+
+[THE SCALABLE AND ACCOUNTABLE BINARY CODE SEARCH AND ITS APPLICATIONS --------------------------------------------------------------------](https://www.semanticscholar.org/paper/THE-SCALABLE-AND-ACCOUNTABLE-BINARY-CODE-SEARCH-AND-Feng/c69bb3851af58b4d46d177e23c03d74c502acc65)
+
+[Qian Feng](https://www.semanticscholar.org/author/Qian-Feng/2068042545)Computer Science, Engineering
+
+*   2017
+
+This dissertation argues that the code search techniques can boost existing security analysis techniques (vulnerability identification and memory analysis) in terms of scalability and accuracy, and proposes a novel code encoding method for scalable vulnerability search in binary code.
+
+[Google Data Qt Client: Librería Cliente en Qt del Protocolo de Datos de Google ------------------------------------------------------------------------------](https://www.semanticscholar.org/paper/Google-Data-Qt-Client%3A-Librer%C3%ADa-Cliente-en-Qt-del-Moreno/b7a5a9aae63837ec0e9a0448def0cbb9122dc1c3)
+
+[F. J. Moreno](https://www.semanticscholar.org/author/F.-J.-Moreno/145460716)Art
+
+*   2011
+
+a createAtomFeed, que es implementada en cada una de las clases hijas de QtgdataClient y que se encarga de destruir el feed existente, en caso de haber uno previo, y crearlo con el tipo necesario en…
+
+## Metadata
+
+```json
+{
+  "title": "codesearch | Semantic Scholar",
+  "description": "An academic search engine that utilizes artificial intelligence methods to provide highly relevant results and novel tools to filter them with ease.",
+  "url": "https://www.semanticscholar.org/search?q=codesearch&sort=relevance",
+  "content": "[Customizing Static Analysis using _Codesearch_ ----------------------------------------------](https://www.semanticscholar.org/paper/Customizing-Static-Analysis-using-Codesearch-Hayoun-Raychev/3fca60415650dbbf6a7652e3c8d5927bb678e1ff)\n\n[Avi Hayoun](https://www.semanticscholar.org/author/Avi-Hayoun/3448626)[Veselin Raychev](https://www.semanticscholar.org/author/Veselin-Raychev/1967472)[Jack Hair](https://www.semanticscholar.org/author/Jack-Hair/2297670439)Computer Science\n\n[arXiv.org](https://www.semanticscholar.org/venue?name=arXiv.org)\n\n*   19 April 2024\n\nThe approach introduces a language called StarLang, a variant of Datalog which only includes programs with a fast runtime by the means of having low time complexity of its decision procedure.\n\n*   [](https://www.semanticscholar.org/reader/3fca60415650dbbf6a7652e3c8d5927bb678e1ff)\\[PDF\\]\n\n[arXiv (opens in a new tab)](https://arxiv.org/pdf/2404.12747.pdf)\n\n[SE-_CodeSearch_: A scalable Semantic Web-based source code search infrastructure --------------------------------------------------------------------------------](https://www.semanticscholar.org/paper/SE-CodeSearch%3A-A-scalable-Semantic-Web-based-source-Keivanloo-Roostapour/c6532103d1df055369652d59b8c33bfce1af3edf)\n\n[I. Keivanloo](https://www.semanticscholar.org/author/I.-Keivanloo/1829628)[Laleh Roostapour](https://www.semanticscholar.org/author/Laleh-Roostapour/2028925)[Philipp Schügerl](https://www.semanticscholar.org/author/Philipp-Sch%C3%BCgerl/2396047)[J. Rilling](https://www.semanticscholar.org/author/J.-Rilling/1398213085)Computer Science, Engineering\n\n2010 IEEE International Conference on Software…\n\n*   12 September 2010\n\nSE-_CodeSearch_ is presented, a Semantic Web-based approach for Internet-scale source code search that uses an ontological representation of source code facts and analysis knowledge to complete missing information using inference engine.\n\n*   [20](https://www.semanticscholar.org/paper/SE-CodeSearch%3A-A-scalable-Semantic-Web-based-source-Keivanloo-Roostapour/c6532103d1df055369652d59b8c33bfce1af3edf#citing-papers)\n    \n\n[IEEE (opens in a new tab)](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5609533)\n\n[CodeRetriever: Unimodal and Bimodal Contrastive Learning --------------------------------------------------------](https://www.semanticscholar.org/paper/CodeRetriever%3A-Unimodal-and-Bimodal-Contrastive-Li-Gong/532f32be1e918d6b75650947318e57fc8f4fb415)\n\n[Xiaonan Li](https://www.semanticscholar.org/author/Xiaonan-Li/50080067)[Yeyun Gong](https://www.semanticscholar.org/author/Yeyun-Gong/2171182) [Nan Duan](https://www.semanticscholar.org/author/Nan-Duan/46429989)Computer Science\n\n[arXiv.org](https://www.semanticscholar.org/venue?name=arXiv.org)\n\n*   2022\n\nThe CodeRetriever 001 model, which combines the unimodal and bi-002 modal contrastive learning to train function-003 level code semantic representations, achieves the new state-of-019 the-art performance with signiﬁcant improve-020 ment over existing code pre-trained models.\n\n*   [25](https://www.semanticscholar.org/paper/CodeRetriever%3A-Unimodal-and-Bimodal-Contrastive-Li-Gong/532f32be1e918d6b75650947318e57fc8f4fb415#citing-papers)\n    \n\n[Combining Word2Vec with Revised Vector Space Model for Better Code Retrieval ----------------------------------------------------------------------------](https://www.semanticscholar.org/paper/Combining-Word2Vec-with-Revised-Vector-Space-Model-NGUYEN-Nguyen/cf27083882baa92e728f601789f9f1634aabc546)\n\n[THANH VAN NGUYEN](https://www.semanticscholar.org/author/THANH-VAN-NGUYEN/47523387)[A. Nguyen](https://www.semanticscholar.org/author/A.-Nguyen/144659797)[H. Phan](https://www.semanticscholar.org/author/H.-Phan/29785036)[Trong Duc Nguyen](https://www.semanticscholar.org/author/Trong-Duc-Nguyen/3400339)[T. Nguyen](https://www.semanticscholar.org/author/T.-Nguyen/2327697)Computer Science\n\n2017 IEEE/ACM 39th International Conference on…\n\n*   20 May 2017\n\nA preliminary study suggests that combining traditional IR with Word2Vec achieves better retrieval accuracy, and more experiments need to be done to study different types of combination among two lines of approaches.\n\n*   [33](https://www.semanticscholar.org/paper/Combining-Word2Vec-with-Revised-Vector-Space-Model-NGUYEN-Nguyen/cf27083882baa92e728f601789f9f1634aabc546#citing-papers)\n    \n\n[IEEE (opens in a new tab)](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7965297)\n\n[TCM coding ofPPMbased modulations for Infrared WLAN'simpaired byISI -------------------------------------------------------------------](https://www.semanticscholar.org/paper/TCM-coding-ofPPMbased-modulations-for-Infrared-Gameiro/2af53dfc2417cc4f80039fcbd92302dcb0ce5bbe)\n\n[A. Gameiro](https://www.semanticscholar.org/author/A.-Gameiro/143921564)Computer Science, Engineering\n\n*   2006\n\nThe best techniques, and thentoimprove the performance ofwireless _codesearch_ and results, which demonstrate that, even withrellisinfrared communication systems, codes of moderate complexity, non-negligible coding gains can be effective.\n\n[CodeGenie: using test-cases to search and reuse source code -----------------------------------------------------------](https://www.semanticscholar.org/paper/CodeGenie%3A-using-test-cases-to-search-and-reuse-Lemos-Bajracharya/3e61c7a9db1df73590245370d94b01260812b709)\n\n[Otávio Augusto Lazzarini Lemos](https://www.semanticscholar.org/author/Ot%C3%A1vio-Augusto-Lazzarini-Lemos/1815847)[S. Bajracharya](https://www.semanticscholar.org/author/S.-Bajracharya/1714659) [C. Lopes](https://www.semanticscholar.org/author/C.-Lopes/34955824)Computer Science\n\n[International Conference on Automated Software…](https://www.semanticscholar.org/venue?name=International%20Conference%20on%20Automated%20Software%20Engineering)\n\n*   5 November 2007\n\nThis work presents CodeGenie, a tool that implements a test-driven approach to search and reuse of code available on large-scale coderepositories, and relies on Sourcerer, an Internet-scale source code infrastructure that it has developed.\n\n*   [92](https://www.semanticscholar.org/paper/CodeGenie%3A-using-test-cases-to-search-and-reuse-Lemos-Bajracharya/3e61c7a9db1df73590245370d94b01260812b709#citing-papers)\n    \n*   [PDF (opens in a new tab)](http://www.researchgate.net/profile/Pierre_Baldi/publication/220883869_CodeGenie_using_test-cases_to_search_and_reuse_source_code/links/09e415093048369d6e000000.pdf)\n    \n\n[ACM (opens in a new tab)](http://dl.acm.org/citation.cfm?id=1321726)\n\n[THE SCALABLE AND ACCOUNTABLE BINARY CODE SEARCH AND ITS APPLICATIONS --------------------------------------------------------------------](https://www.semanticscholar.org/paper/THE-SCALABLE-AND-ACCOUNTABLE-BINARY-CODE-SEARCH-AND-Feng/c69bb3851af58b4d46d177e23c03d74c502acc65)\n\n[Qian Feng](https://www.semanticscholar.org/author/Qian-Feng/2068042545)Computer Science, Engineering\n\n*   2017\n\nThis dissertation argues that the code search techniques can boost existing security analysis techniques (vulnerability identification and memory analysis) in terms of scalability and accuracy, and proposes a novel code encoding method for scalable vulnerability search in binary code.\n\n[Google Data Qt Client: Librería Cliente en Qt del Protocolo de Datos de Google ------------------------------------------------------------------------------](https://www.semanticscholar.org/paper/Google-Data-Qt-Client%3A-Librer%C3%ADa-Cliente-en-Qt-del-Moreno/b7a5a9aae63837ec0e9a0448def0cbb9122dc1c3)\n\n[F. J. Moreno](https://www.semanticscholar.org/author/F.-J.-Moreno/145460716)Art\n\n*   2011\n\na createAtomFeed, que es implementada en cada una de las clases hijas de QtgdataClient y que se encarga de destruir el feed existente, en caso de haber uno previo, y crearlo con el tipo necesario en…",
+  "usage": {
+    "tokens": 2231
+  }
+}
+```

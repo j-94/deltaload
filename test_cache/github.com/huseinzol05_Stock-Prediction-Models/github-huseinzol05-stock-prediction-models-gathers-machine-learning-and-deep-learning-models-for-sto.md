@@ -1,0 +1,397 @@
+---
+title: GitHub - huseinzol05/Stock-Prediction-Models: Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
+description: Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations - huseinzol05/Stock-Prediction-Models
+url: https://github.com/huseinzol05/Stock-Prediction-Models
+timestamp: 2025-01-20T15:30:41.354Z
+domain: github.com
+path: huseinzol05_Stock-Prediction-Models
+---
+
+# GitHub - huseinzol05/Stock-Prediction-Models: Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
+
+
+Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations - huseinzol05/Stock-Prediction-Models
+
+
+## Content
+
+[![Image 114: logo](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/evolution-strategy.png)](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#readme)
+
+[![Image 115: MIT License](https://camo.githubusercontent.com/a3da8fbc8b24ee7e413e161befefaabbf213d611edc55c8cbc65bf038a897beb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4170616368652d2d4c6963656e73652d2d322e302d79656c6c6f772e737667)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/LICENSE) [![Image 116](https://camo.githubusercontent.com/7541af7c11dd74ce9bd726e4a39e6e6193a6cc4ae93dc6eed13c7840fa27d455/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646565706c6561726e696e672d33302d2d6d6f64656c732d737563636573732e737667)](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#) [![Image 117](https://camo.githubusercontent.com/a45e5d903b72d6726fcd2647c9adb3c8afd6e42077f4277c906ccbbf68efa888/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6167656e742d32332d2d6d6f64656c732d737563636573732e737667)](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#)
+
+* * *
+
+**Stock-Prediction-Models**, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
+
+Table of contents
+-----------------
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#table-of-contents)
+
+*   [Models](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#models)
+*   [Agents](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#agents)
+*   [Realtime Agent](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/realtime-agent)
+*   [Data Explorations](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#data-explorations)
+*   [Simulations](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#simulations)
+*   [Tensorflow-js](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#tensorflow-js)
+*   [Misc](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#misc)
+*   [Results](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results)
+    *   [Results Agent](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-agent)
+    *   [Results signal prediction](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-signal-prediction)
+    *   [Results analysis](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-analysis)
+    *   [Results simulation](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-simulation)
+
+Contents
+--------
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#contents)
+
+### Models
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#models)
+
+#### [Deep-learning models](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/deep-learning)
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#deep-learning-models)
+
+1.  LSTM
+2.  LSTM Bidirectional
+3.  LSTM 2-Path
+4.  GRU
+5.  GRU Bidirectional
+6.  GRU 2-Path
+7.  Vanilla
+8.  Vanilla Bidirectional
+9.  Vanilla 2-Path
+10.  LSTM Seq2seq
+11.  LSTM Bidirectional Seq2seq
+12.  LSTM Seq2seq VAE
+13.  GRU Seq2seq
+14.  GRU Bidirectional Seq2seq
+15.  GRU Seq2seq VAE
+16.  Attention-is-all-you-Need
+17.  CNN-Seq2seq
+18.  Dilated-CNN-Seq2seq
+
+**Bonus**
+
+1.  How to use one of the model to forecast `t + N`, [how-to-forecast.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/deep-learning/how-to-forecast.ipynb)
+2.  Consensus, how to use sentiment data to forecast `t + N`, [sentiment-consensus.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/deep-learning/sentiment-consensus.ipynb)
+
+#### [Stacking models](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/stacking)
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#stacking-models)
+
+1.  Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + Extreme Boosting Gradient Regressor
+2.  Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB
+
+### [Agents](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent)
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#agents)
+
+1.  Turtle-trading agent
+2.  Moving-average agent
+3.  Signal rolling agent
+4.  Policy-gradient agent
+5.  Q-learning agent
+6.  Evolution-strategy agent
+7.  Double Q-learning agent
+8.  Recurrent Q-learning agent
+9.  Double Recurrent Q-learning agent
+10.  Duel Q-learning agent
+11.  Double Duel Q-learning agent
+12.  Duel Recurrent Q-learning agent
+13.  Double Duel Recurrent Q-learning agent
+14.  Actor-critic agent
+15.  Actor-critic Duel agent
+16.  Actor-critic Recurrent agent
+17.  Actor-critic Duel Recurrent agent
+18.  Curiosity Q-learning agent
+19.  Recurrent Curiosity Q-learning agent
+20.  Duel Curiosity Q-learning agent
+21.  Neuro-evolution agent
+22.  Neuro-evolution with Novelty search agent
+23.  ABCD strategy agent
+
+### [Data Explorations](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc)
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#data-explorations)
+
+1.  stock market study on TESLA stock, [tesla-study.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/tesla-study.ipynb)
+2.  Outliers study using K-means, SVM, and Gaussian on TESLA stock, [outliers.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/outliers.ipynb)
+3.  Overbought-Oversold study on TESLA stock, [overbought-oversold.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/overbought-oversold.ipynb)
+4.  Which stock you need to buy? [which-stock.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/which-stock.ipynb)
+
+### [Simulations](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation)
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#simulations)
+
+1.  Simple Monte Carlo, [monte-carlo-drift.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-drift.ipynb)
+2.  Dynamic volatility Monte Carlo, [monte-carlo-dynamic-volatility.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-dynamic-volatility.ipynb)
+3.  Drift Monte Carlo, [monte-carlo-drift.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-drift.ipynb)
+4.  Multivariate Drift Monte Carlo BTC/USDT with Bitcurate sentiment, [multivariate-drift-monte-carlo.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/multivariate-drift-monte-carlo.ipynb)
+5.  Portfolio optimization, [portfolio-optimization.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/portfolio-optimization.ipynb), inspired from [https://pythonforfinance.net/2017/01/21/investment-portfolio-optimisation-with-python/](https://pythonforfinance.net/2017/01/21/investment-portfolio-optimisation-with-python/)
+
+### [Tensorflow-js](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/stock-forecasting-js)
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#tensorflow-js)
+
+I code [LSTM Recurrent Neural Network](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/deep-learning/1.lstm.ipynb) and [Simple signal rolling agent](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/simple-agent.ipynb) inside Tensorflow JS, you can try it here, [huseinhouse.com/stock-forecasting-js](https://huseinhouse.com/stock-forecasting-js/), you can download any historical CSV and upload dynamically.
+
+### [Misc](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc)
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#misc)
+
+1.  fashion trending prediction with cross-validation, [fashion-forecasting.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/fashion-forecasting.ipynb)
+2.  Bitcoin analysis with LSTM prediction, [bitcoin-analysis-lstm.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/bitcoin-analysis-lstm.ipynb)
+3.  Kijang Emas Bank Negara, [kijang-emas-bank-negara.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/kijang-emas-bank-negara.ipynb)
+
+Results
+-------
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results)
+
+### Results Agent
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-agent)
+
+**This agent only able to buy or sell 1 unit per transaction.**
+
+1.  Turtle-trading agent, [turtle-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/1.turtle-agent.ipynb)
+
+[![Image 118](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/turtle-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/turtle-agent.png)
+
+2.  Moving-average agent, [moving-average-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/2.moving-average-agent.ipynb)
+
+[![Image 119](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/moving-average-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/moving-average-agent.png)
+
+3.  Signal rolling agent, [signal-rolling-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/3.signal-rolling-agent.ipynb)
+
+[![Image 120](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/signal-rolling-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/signal-rolling-agent.png)
+
+4.  Policy-gradient agent, [policy-gradient-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/4.policy-gradient-agent.ipynb)
+
+[![Image 121](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/policy-gradient-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/policy-gradient-agent.png)
+
+5.  Q-learning agent, [q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/5.q-learning-agent.ipynb)
+
+[![Image 122](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/q-learning-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/q-learning-agent.png)
+
+6.  Evolution-strategy agent, [evolution-strategy-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/6.evolution-strategy-agent.ipynb)
+
+[![Image 123](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/evolution-strategy-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/evolution-strategy-agent.png)
+
+7.  Double Q-learning agent, [double-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/7.double-q-learning-agent.ipynb)
+
+[![Image 124](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/double-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/double-q-learning.png)
+
+8.  Recurrent Q-learning agent, [recurrent-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/8.recurrent-q-learning-agent.ipynb)
+
+[![Image 125](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/recurrent-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/recurrent-q-learning.png)
+
+9.  Double Recurrent Q-learning agent, [double-recurrent-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/9.double-recurrent-q-learning-agent.ipynb)
+
+[![Image 126](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/double-recurrent-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/double-recurrent-q-learning.png)
+
+10.  Duel Q-learning agent, [duel-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/10.duel-q-learning-agent.ipynb)
+
+[![Image 127](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/double-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/double-q-learning.png)
+
+11.  Double Duel Q-learning agent, [double-duel-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/11.double-duel-q-learning-agent.ipynb)
+
+[![Image 128](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/double-duel-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/double-duel-q-learning.png)
+
+12.  Duel Recurrent Q-learning agent, [duel-recurrent-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/12.duel-recurrent-q-learning-agent.ipynb)
+
+[![Image 129](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/duel-recurrent-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/duel-recurrent-q-learning.png)
+
+13.  Double Duel Recurrent Q-learning agent, [double-duel-recurrent-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/13.double-duel-recurrent-q-learning-agent.ipynb)
+
+[![Image 130](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/double-duel-recurrent-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/double-duel-recurrent-q-learning.png)
+
+14.  Actor-critic agent, [actor-critic-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/14.actor-critic-agent.ipynb)
+
+[![Image 131](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/actor-critic.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/actor-critic.png)
+
+15.  Actor-critic Duel agent, [actor-critic-duel-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/14.actor-critic-duel-agent.ipynb)
+
+[![Image 132](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/actor-critic-duel.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/actor-critic-duel.png)
+
+16.  Actor-critic Recurrent agent, [actor-critic-recurrent-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/16.actor-critic-recurrent-agent.ipynb)
+
+[![Image 133](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/actor-critic-recurrent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/actor-critic-recurrent.png)
+
+17.  Actor-critic Duel Recurrent agent, [actor-critic-duel-recurrent-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/17.actor-critic-duel-recurrent-agent.ipynb)
+
+[![Image 134](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/actor-critic-duel-recurrent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/actor-critic-duel-recurrent.png)
+
+18.  Curiosity Q-learning agent, [curiosity-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/18.curiosity-q-learning-agent.ipynb)
+
+[![Image 135](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/curiosity-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/curiosity-q-learning.png)
+
+19.  Recurrent Curiosity Q-learning agent, [recurrent-curiosity-q-learning.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/19.recurrent-curiosity-q-learning-agent.ipynb)
+
+[![Image 136](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/recurrent-curiosity-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/recurrent-curiosity-q-learning.png)
+
+20.  Duel Curiosity Q-learning agent, [duel-curiosity-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/20.duel-curiosity-q-learning-agent.ipynb)
+
+[![Image 137](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/duel-curiosity-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/duel-curiosity-q-learning.png)
+
+21.  Neuro-evolution agent, [neuro-evolution.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/21.neuro-evolution-agent.ipynb)
+
+[![Image 138](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/neuro-evolution.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/neuro-evolution.png)
+
+22.  Neuro-evolution with Novelty search agent, [neuro-evolution-novelty-search.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/22.neuro-evolution-novelty-search-agent.ipynb)
+
+[![Image 139](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/neuro-evolution-novelty-search.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/neuro-evolution-novelty-search.png)
+
+23.  ABCD strategy agent, [abcd-strategy.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/23.abcd-strategy-agent.ipynb)
+
+[![Image 140](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/abcd-strategy.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/abcd-strategy.png)
+
+### Results signal prediction
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-signal-prediction)
+
+I will cut the dataset to train and test datasets,
+
+1.  Train dataset derived from starting timestamp until last 30 days
+2.  Test dataset derived from last 30 days until end of the dataset
+
+So we will let the model do forecasting based on last 30 days, and we will going to repeat the experiment for 10 times. You can increase it locally if you want, and tuning parameters will help you by a lot.
+
+1.  LSTM, accuracy 95.693%, time taken for 1 epoch 01:09
+
+[![Image 141](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/lstm.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/lstm.png)
+
+2.  LSTM Bidirectional, accuracy 93.8%, time taken for 1 epoch 01:40
+
+[![Image 142](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/bidirectional-lstm.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/bidirectional-lstm.png)
+
+3.  LSTM 2-Path, accuracy 94.63%, time taken for 1 epoch 01:39
+
+[![Image 143](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/lstm-2path.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/lstm-2path.png)
+
+4.  GRU, accuracy 94.63%, time taken for 1 epoch 02:10
+
+[![Image 144](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/gru.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/gru.png)
+
+5.  GRU Bidirectional, accuracy 92.5673%, time taken for 1 epoch 01:40
+
+[![Image 145](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/bidirectional-gru.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/bidirectional-gru.png)
+
+6.  GRU 2-Path, accuracy 93.2117%, time taken for 1 epoch 01:39
+
+[![Image 146](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/gru-2path.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/gru-2path.png)
+
+7.  Vanilla, accuracy 91.4686%, time taken for 1 epoch 00:52
+
+[![Image 147](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/vanilla.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/vanilla.png)
+
+8.  Vanilla Bidirectional, accuracy 88.9927%, time taken for 1 epoch 01:06
+
+[![Image 148](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/bidirectional-vanilla.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/bidirectional-vanilla.png)
+
+9.  Vanilla 2-Path, accuracy 91.5406%, time taken for 1 epoch 01:08
+
+[![Image 149](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/vanilla-2path.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/vanilla-2path.png)
+
+10.  LSTM Seq2seq, accuracy 94.9817%, time taken for 1 epoch 01:36
+
+[![Image 150](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/lstm-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/lstm-seq2seq.png)
+
+11.  LSTM Bidirectional Seq2seq, accuracy 94.517%, time taken for 1 epoch 02:30
+
+[![Image 151](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/bidirectional-lstm-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/bidirectional-lstm-seq2seq.png)
+
+12.  LSTM Seq2seq VAE, accuracy 95.4190%, time taken for 1 epoch 01:48
+
+[![Image 152](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/lstm-seq2seq-vae.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/lstm-seq2seq-vae.png)
+
+13.  GRU Seq2seq, accuracy 90.8854%, time taken for 1 epoch 01:34
+
+[![Image 153](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/gru-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/gru-seq2seq.png)
+
+14.  GRU Bidirectional Seq2seq, accuracy 67.9915%, time taken for 1 epoch 02:30
+
+[![Image 154](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/bidirectional-gru-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/bidirectional-gru-seq2seq.png)
+
+15.  GRU Seq2seq VAE, accuracy 89.1321%, time taken for 1 epoch 01:48
+
+[![Image 155](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/gru-seq2seq-vae.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/gru-seq2seq-vae.png)
+
+16.  Attention-is-all-you-Need, accuracy 94.2482%, time taken for 1 epoch 01:41
+
+[![Image 156](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/attention-is-all-you-need.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/attention-is-all-you-need.png)
+
+17.  CNN-Seq2seq, accuracy 90.74%, time taken for 1 epoch 00:43
+
+[![Image 157](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/cnn-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/cnn-seq2seq.png)
+
+18.  Dilated-CNN-Seq2seq, accuracy 95.86%, time taken for 1 epoch 00:14
+
+[![Image 158](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/dilated-cnn-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/dilated-cnn-seq2seq.png)
+
+**Bonus**
+
+1.  How to forecast,
+
+[![Image 159](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/how-to-forecast.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/how-to-forecast.png)
+
+2.  Sentiment consensus,
+
+[![Image 160](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/sentiment-consensus.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/sentiment-consensus.png)
+
+### Results analysis
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-analysis)
+
+1.  Outliers study using K-means, SVM, and Gaussian on TESLA stock
+
+[![Image 161](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/misc/outliers.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/outliers.png)
+
+2.  Overbought-Oversold study on TESLA stock
+
+[![Image 162](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/misc/overbought-oversold.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/overbought-oversold.png)
+
+3.  Which stock you need to buy?
+
+[![Image 163](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/misc/which-stock.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/which-stock.png)
+
+### Results simulation
+
+[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-simulation)
+
+1.  Simple Monte Carlo
+
+[![Image 164](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/simulation/monte-carlo-simple.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-simple.png)
+
+2.  Dynamic volatity Monte Carlo
+
+[![Image 165](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/simulation/monte-carlo-dynamic-volatility.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-dynamic-volatility.png)
+
+3.  Drift Monte Carlo
+
+[![Image 166](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/simulation/monte-carlo-drift.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-drift.png)
+
+4.  Multivariate Drift Monte Carlo BTC/USDT with Bitcurate sentiment
+
+[![Image 167](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/simulation/multivariate-drift-monte-carlo.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/multivariate-drift-monte-carlo.png)
+
+5.  Portfolio optimization
+
+[![Image 168](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/simulation/portfolio-optimization.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/portfolio-optimization.png)
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - huseinzol05/Stock-Prediction-Models: Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations",
+  "description": "Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations - huseinzol05/Stock-Prediction-Models",
+  "url": "https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true",
+  "content": "[![Image 114: logo](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/evolution-strategy.png)](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#readme)\n\n[![Image 115: MIT License](https://camo.githubusercontent.com/a3da8fbc8b24ee7e413e161befefaabbf213d611edc55c8cbc65bf038a897beb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4170616368652d2d4c6963656e73652d2d322e302d79656c6c6f772e737667)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/LICENSE) [![Image 116](https://camo.githubusercontent.com/7541af7c11dd74ce9bd726e4a39e6e6193a6cc4ae93dc6eed13c7840fa27d455/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646565706c6561726e696e672d33302d2d6d6f64656c732d737563636573732e737667)](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#) [![Image 117](https://camo.githubusercontent.com/a45e5d903b72d6726fcd2647c9adb3c8afd6e42077f4277c906ccbbf68efa888/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6167656e742d32332d2d6d6f64656c732d737563636573732e737667)](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#)\n\n* * *\n\n**Stock-Prediction-Models**, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.\n\nTable of contents\n-----------------\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#table-of-contents)\n\n*   [Models](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#models)\n*   [Agents](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#agents)\n*   [Realtime Agent](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/realtime-agent)\n*   [Data Explorations](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#data-explorations)\n*   [Simulations](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#simulations)\n*   [Tensorflow-js](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#tensorflow-js)\n*   [Misc](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#misc)\n*   [Results](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results)\n    *   [Results Agent](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-agent)\n    *   [Results signal prediction](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-signal-prediction)\n    *   [Results analysis](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-analysis)\n    *   [Results simulation](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-simulation)\n\nContents\n--------\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#contents)\n\n### Models\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#models)\n\n#### [Deep-learning models](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/deep-learning)\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#deep-learning-models)\n\n1.  LSTM\n2.  LSTM Bidirectional\n3.  LSTM 2-Path\n4.  GRU\n5.  GRU Bidirectional\n6.  GRU 2-Path\n7.  Vanilla\n8.  Vanilla Bidirectional\n9.  Vanilla 2-Path\n10.  LSTM Seq2seq\n11.  LSTM Bidirectional Seq2seq\n12.  LSTM Seq2seq VAE\n13.  GRU Seq2seq\n14.  GRU Bidirectional Seq2seq\n15.  GRU Seq2seq VAE\n16.  Attention-is-all-you-Need\n17.  CNN-Seq2seq\n18.  Dilated-CNN-Seq2seq\n\n**Bonus**\n\n1.  How to use one of the model to forecast `t + N`, [how-to-forecast.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/deep-learning/how-to-forecast.ipynb)\n2.  Consensus, how to use sentiment data to forecast `t + N`, [sentiment-consensus.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/deep-learning/sentiment-consensus.ipynb)\n\n#### [Stacking models](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/stacking)\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#stacking-models)\n\n1.  Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + Extreme Boosting Gradient Regressor\n2.  Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB\n\n### [Agents](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent)\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#agents)\n\n1.  Turtle-trading agent\n2.  Moving-average agent\n3.  Signal rolling agent\n4.  Policy-gradient agent\n5.  Q-learning agent\n6.  Evolution-strategy agent\n7.  Double Q-learning agent\n8.  Recurrent Q-learning agent\n9.  Double Recurrent Q-learning agent\n10.  Duel Q-learning agent\n11.  Double Duel Q-learning agent\n12.  Duel Recurrent Q-learning agent\n13.  Double Duel Recurrent Q-learning agent\n14.  Actor-critic agent\n15.  Actor-critic Duel agent\n16.  Actor-critic Recurrent agent\n17.  Actor-critic Duel Recurrent agent\n18.  Curiosity Q-learning agent\n19.  Recurrent Curiosity Q-learning agent\n20.  Duel Curiosity Q-learning agent\n21.  Neuro-evolution agent\n22.  Neuro-evolution with Novelty search agent\n23.  ABCD strategy agent\n\n### [Data Explorations](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc)\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#data-explorations)\n\n1.  stock market study on TESLA stock, [tesla-study.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/tesla-study.ipynb)\n2.  Outliers study using K-means, SVM, and Gaussian on TESLA stock, [outliers.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/outliers.ipynb)\n3.  Overbought-Oversold study on TESLA stock, [overbought-oversold.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/overbought-oversold.ipynb)\n4.  Which stock you need to buy? [which-stock.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/which-stock.ipynb)\n\n### [Simulations](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation)\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#simulations)\n\n1.  Simple Monte Carlo, [monte-carlo-drift.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-drift.ipynb)\n2.  Dynamic volatility Monte Carlo, [monte-carlo-dynamic-volatility.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-dynamic-volatility.ipynb)\n3.  Drift Monte Carlo, [monte-carlo-drift.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-drift.ipynb)\n4.  Multivariate Drift Monte Carlo BTC/USDT with Bitcurate sentiment, [multivariate-drift-monte-carlo.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/multivariate-drift-monte-carlo.ipynb)\n5.  Portfolio optimization, [portfolio-optimization.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/portfolio-optimization.ipynb), inspired from [https://pythonforfinance.net/2017/01/21/investment-portfolio-optimisation-with-python/](https://pythonforfinance.net/2017/01/21/investment-portfolio-optimisation-with-python/)\n\n### [Tensorflow-js](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/stock-forecasting-js)\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#tensorflow-js)\n\nI code [LSTM Recurrent Neural Network](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/deep-learning/1.lstm.ipynb) and [Simple signal rolling agent](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/simple-agent.ipynb) inside Tensorflow JS, you can try it here, [huseinhouse.com/stock-forecasting-js](https://huseinhouse.com/stock-forecasting-js/), you can download any historical CSV and upload dynamically.\n\n### [Misc](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc)\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#misc)\n\n1.  fashion trending prediction with cross-validation, [fashion-forecasting.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/fashion-forecasting.ipynb)\n2.  Bitcoin analysis with LSTM prediction, [bitcoin-analysis-lstm.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/bitcoin-analysis-lstm.ipynb)\n3.  Kijang Emas Bank Negara, [kijang-emas-bank-negara.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/kijang-emas-bank-negara.ipynb)\n\nResults\n-------\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results)\n\n### Results Agent\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-agent)\n\n**This agent only able to buy or sell 1 unit per transaction.**\n\n1.  Turtle-trading agent, [turtle-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/1.turtle-agent.ipynb)\n\n[![Image 118](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/turtle-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/turtle-agent.png)\n\n2.  Moving-average agent, [moving-average-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/2.moving-average-agent.ipynb)\n\n[![Image 119](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/moving-average-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/moving-average-agent.png)\n\n3.  Signal rolling agent, [signal-rolling-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/3.signal-rolling-agent.ipynb)\n\n[![Image 120](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/signal-rolling-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/signal-rolling-agent.png)\n\n4.  Policy-gradient agent, [policy-gradient-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/4.policy-gradient-agent.ipynb)\n\n[![Image 121](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/policy-gradient-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/policy-gradient-agent.png)\n\n5.  Q-learning agent, [q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/5.q-learning-agent.ipynb)\n\n[![Image 122](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/q-learning-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/q-learning-agent.png)\n\n6.  Evolution-strategy agent, [evolution-strategy-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/6.evolution-strategy-agent.ipynb)\n\n[![Image 123](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/evolution-strategy-agent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/evolution-strategy-agent.png)\n\n7.  Double Q-learning agent, [double-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/7.double-q-learning-agent.ipynb)\n\n[![Image 124](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/double-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/double-q-learning.png)\n\n8.  Recurrent Q-learning agent, [recurrent-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/8.recurrent-q-learning-agent.ipynb)\n\n[![Image 125](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/recurrent-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/recurrent-q-learning.png)\n\n9.  Double Recurrent Q-learning agent, [double-recurrent-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/9.double-recurrent-q-learning-agent.ipynb)\n\n[![Image 126](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/double-recurrent-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/double-recurrent-q-learning.png)\n\n10.  Duel Q-learning agent, [duel-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/10.duel-q-learning-agent.ipynb)\n\n[![Image 127](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/double-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/double-q-learning.png)\n\n11.  Double Duel Q-learning agent, [double-duel-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/11.double-duel-q-learning-agent.ipynb)\n\n[![Image 128](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/double-duel-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/double-duel-q-learning.png)\n\n12.  Duel Recurrent Q-learning agent, [duel-recurrent-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/12.duel-recurrent-q-learning-agent.ipynb)\n\n[![Image 129](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/duel-recurrent-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/duel-recurrent-q-learning.png)\n\n13.  Double Duel Recurrent Q-learning agent, [double-duel-recurrent-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/13.double-duel-recurrent-q-learning-agent.ipynb)\n\n[![Image 130](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/double-duel-recurrent-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/double-duel-recurrent-q-learning.png)\n\n14.  Actor-critic agent, [actor-critic-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/14.actor-critic-agent.ipynb)\n\n[![Image 131](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/actor-critic.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/actor-critic.png)\n\n15.  Actor-critic Duel agent, [actor-critic-duel-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/14.actor-critic-duel-agent.ipynb)\n\n[![Image 132](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/actor-critic-duel.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/actor-critic-duel.png)\n\n16.  Actor-critic Recurrent agent, [actor-critic-recurrent-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/16.actor-critic-recurrent-agent.ipynb)\n\n[![Image 133](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/actor-critic-recurrent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/actor-critic-recurrent.png)\n\n17.  Actor-critic Duel Recurrent agent, [actor-critic-duel-recurrent-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/17.actor-critic-duel-recurrent-agent.ipynb)\n\n[![Image 134](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/actor-critic-duel-recurrent.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/actor-critic-duel-recurrent.png)\n\n18.  Curiosity Q-learning agent, [curiosity-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/18.curiosity-q-learning-agent.ipynb)\n\n[![Image 135](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/curiosity-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/curiosity-q-learning.png)\n\n19.  Recurrent Curiosity Q-learning agent, [recurrent-curiosity-q-learning.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/19.recurrent-curiosity-q-learning-agent.ipynb)\n\n[![Image 136](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/recurrent-curiosity-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/recurrent-curiosity-q-learning.png)\n\n20.  Duel Curiosity Q-learning agent, [duel-curiosity-q-learning-agent.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/20.duel-curiosity-q-learning-agent.ipynb)\n\n[![Image 137](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/duel-curiosity-q-learning.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/duel-curiosity-q-learning.png)\n\n21.  Neuro-evolution agent, [neuro-evolution.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/21.neuro-evolution-agent.ipynb)\n\n[![Image 138](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/neuro-evolution.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/neuro-evolution.png)\n\n22.  Neuro-evolution with Novelty search agent, [neuro-evolution-novelty-search.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/22.neuro-evolution-novelty-search-agent.ipynb)\n\n[![Image 139](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/neuro-evolution-novelty-search.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/neuro-evolution-novelty-search.png)\n\n23.  ABCD strategy agent, [abcd-strategy.ipynb](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/agent/23.abcd-strategy-agent.ipynb)\n\n[![Image 140](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output-agent/abcd-strategy.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output-agent/abcd-strategy.png)\n\n### Results signal prediction\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-signal-prediction)\n\nI will cut the dataset to train and test datasets,\n\n1.  Train dataset derived from starting timestamp until last 30 days\n2.  Test dataset derived from last 30 days until end of the dataset\n\nSo we will let the model do forecasting based on last 30 days, and we will going to repeat the experiment for 10 times. You can increase it locally if you want, and tuning parameters will help you by a lot.\n\n1.  LSTM, accuracy 95.693%, time taken for 1 epoch 01:09\n\n[![Image 141](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/lstm.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/lstm.png)\n\n2.  LSTM Bidirectional, accuracy 93.8%, time taken for 1 epoch 01:40\n\n[![Image 142](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/bidirectional-lstm.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/bidirectional-lstm.png)\n\n3.  LSTM 2-Path, accuracy 94.63%, time taken for 1 epoch 01:39\n\n[![Image 143](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/lstm-2path.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/lstm-2path.png)\n\n4.  GRU, accuracy 94.63%, time taken for 1 epoch 02:10\n\n[![Image 144](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/gru.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/gru.png)\n\n5.  GRU Bidirectional, accuracy 92.5673%, time taken for 1 epoch 01:40\n\n[![Image 145](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/bidirectional-gru.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/bidirectional-gru.png)\n\n6.  GRU 2-Path, accuracy 93.2117%, time taken for 1 epoch 01:39\n\n[![Image 146](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/gru-2path.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/gru-2path.png)\n\n7.  Vanilla, accuracy 91.4686%, time taken for 1 epoch 00:52\n\n[![Image 147](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/vanilla.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/vanilla.png)\n\n8.  Vanilla Bidirectional, accuracy 88.9927%, time taken for 1 epoch 01:06\n\n[![Image 148](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/bidirectional-vanilla.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/bidirectional-vanilla.png)\n\n9.  Vanilla 2-Path, accuracy 91.5406%, time taken for 1 epoch 01:08\n\n[![Image 149](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/vanilla-2path.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/vanilla-2path.png)\n\n10.  LSTM Seq2seq, accuracy 94.9817%, time taken for 1 epoch 01:36\n\n[![Image 150](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/lstm-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/lstm-seq2seq.png)\n\n11.  LSTM Bidirectional Seq2seq, accuracy 94.517%, time taken for 1 epoch 02:30\n\n[![Image 151](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/bidirectional-lstm-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/bidirectional-lstm-seq2seq.png)\n\n12.  LSTM Seq2seq VAE, accuracy 95.4190%, time taken for 1 epoch 01:48\n\n[![Image 152](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/lstm-seq2seq-vae.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/lstm-seq2seq-vae.png)\n\n13.  GRU Seq2seq, accuracy 90.8854%, time taken for 1 epoch 01:34\n\n[![Image 153](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/gru-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/gru-seq2seq.png)\n\n14.  GRU Bidirectional Seq2seq, accuracy 67.9915%, time taken for 1 epoch 02:30\n\n[![Image 154](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/bidirectional-gru-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/bidirectional-gru-seq2seq.png)\n\n15.  GRU Seq2seq VAE, accuracy 89.1321%, time taken for 1 epoch 01:48\n\n[![Image 155](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/gru-seq2seq-vae.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/gru-seq2seq-vae.png)\n\n16.  Attention-is-all-you-Need, accuracy 94.2482%, time taken for 1 epoch 01:41\n\n[![Image 156](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/attention-is-all-you-need.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/attention-is-all-you-need.png)\n\n17.  CNN-Seq2seq, accuracy 90.74%, time taken for 1 epoch 00:43\n\n[![Image 157](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/cnn-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/cnn-seq2seq.png)\n\n18.  Dilated-CNN-Seq2seq, accuracy 95.86%, time taken for 1 epoch 00:14\n\n[![Image 158](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/dilated-cnn-seq2seq.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/dilated-cnn-seq2seq.png)\n\n**Bonus**\n\n1.  How to forecast,\n\n[![Image 159](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/how-to-forecast.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/how-to-forecast.png)\n\n2.  Sentiment consensus,\n\n[![Image 160](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/output/sentiment-consensus.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/output/sentiment-consensus.png)\n\n### Results analysis\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-analysis)\n\n1.  Outliers study using K-means, SVM, and Gaussian on TESLA stock\n\n[![Image 161](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/misc/outliers.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/outliers.png)\n\n2.  Overbought-Oversold study on TESLA stock\n\n[![Image 162](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/misc/overbought-oversold.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/overbought-oversold.png)\n\n3.  Which stock you need to buy?\n\n[![Image 163](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/misc/which-stock.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/misc/which-stock.png)\n\n### Results simulation\n\n[](https://github.com/huseinzol05/Stock-Prediction-Models?screenshot=true#results-simulation)\n\n1.  Simple Monte Carlo\n\n[![Image 164](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/simulation/monte-carlo-simple.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-simple.png)\n\n2.  Dynamic volatity Monte Carlo\n\n[![Image 165](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/simulation/monte-carlo-dynamic-volatility.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-dynamic-volatility.png)\n\n3.  Drift Monte Carlo\n\n[![Image 166](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/simulation/monte-carlo-drift.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/monte-carlo-drift.png)\n\n4.  Multivariate Drift Monte Carlo BTC/USDT with Bitcurate sentiment\n\n[![Image 167](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/simulation/multivariate-drift-monte-carlo.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/multivariate-drift-monte-carlo.png)\n\n5.  Portfolio optimization\n\n[![Image 168](https://github.com/huseinzol05/Stock-Prediction-Models/raw/master/simulation/portfolio-optimization.png)](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/simulation/portfolio-optimization.png)",
+  "usage": {
+    "tokens": 7738
+  }
+}
+```

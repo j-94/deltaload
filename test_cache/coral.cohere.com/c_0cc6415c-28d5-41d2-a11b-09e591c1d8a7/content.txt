@@ -1,0 +1,12 @@
+Log in
+------
+
+Email
+
+Password
+
+[Forgot Password](https://dashboard.cohere.com/reset-password)
+
+By signing up, you agree to the [Terms of Use](https://cohere.com/terms-of-use) and [Privacy Policy](https://cohere.com/privacy).
+
+New user? [Sign up](https://dashboard.cohere.com/welcome/register?redirect_uri=https%3A%2Fcoral.cohere.com%2Fapi%2Fauth%2Fauth_callback%3Fpath%3Dhttps%3A%2F%2Fcoral.cohere.com%2Fc%2F0cc6415c-28d5-41d2-a11b-09e591c1d8a7)

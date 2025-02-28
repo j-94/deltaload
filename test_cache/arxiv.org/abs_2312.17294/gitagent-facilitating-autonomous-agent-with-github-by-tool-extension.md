@@ -1,0 +1,124 @@
+---
+title: GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension
+description: Abstract page for arXiv paper 2312.17294: GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension
+url: https://arxiv.org/abs/2312.17294
+timestamp: 2025-01-20T15:54:45.067Z
+domain: arxiv.org
+path: abs_2312.17294
+---
+
+# GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension
+
+
+Abstract page for arXiv paper 2312.17294: GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension
+
+
+## Content
+
+Skip to main content
+
+In just 3 minutes help us improve arXiv:
+
+Annual Global Survey
+We gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors.
+Donate
+>
+cs
+>
+arXiv:2312.17294
+
+Help | Advanced Search
+
+All fields
+Title
+Author
+Abstract
+Comments
+Journal reference
+ACM classification
+MSC classification
+Report number
+arXiv identifier
+DOI
+ORCID
+arXiv author ID
+Help pages
+Full text
+Search
+Computer Science > Software Engineering
+[Submitted on 28 Dec 2023]
+GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension
+Bohan Lyu, Xin Cong, Heyang Yu, Pan Yang, Yujia Qin, Yining Ye, Yaxi Lu, Zhong Zhang, Yukun Yan, Yankai Lin, Zhiyuan Liu, Maosong Sun
+While Large Language Models (LLMs) like ChatGPT and GPT-4 have demonstrated exceptional proficiency in natural language processing, their efficacy in addressing complex, multifaceted tasks remains limited. A growing area of research focuses on LLM-based agents equipped with external tools capable of performing diverse tasks. However, existing LLM-based agents only support a limited set of tools which is unable to cover a diverse range of user queries, especially for those involving expertise domains. It remains a challenge for LLM-based agents to extend their tools autonomously when confronted with various user queries. As GitHub has hosted a multitude of repositories which can be seen as a good resource for tools, a promising solution is that LLM-based agents can autonomously integrate the repositories in GitHub according to the user queries to extend their tool set. In this paper, we introduce GitAgent, an agent capable of achieving the autonomous tool extension from GitHub. GitAgent follows a four-phase procedure to incorporate repositories and it can learn human experience by resorting to GitHub Issues/PRs to solve problems encountered during the procedure. Experimental evaluation involving 30 user queries demonstrates GitAgent's effectiveness, achieving a 69.4% success rate on average.
+Subjects:	Software Engineering (cs.SE); Artificial Intelligence (cs.AI); Information Retrieval (cs.IR)
+Cite as:	arXiv:2312.17294 [cs.SE]
+ 	(or arXiv:2312.17294v1 [cs.SE] for this version)
+ 	
+https://doi.org/10.48550/arXiv.2312.17294
+Focus to learn more
+Submission history
+From: Xin Cong [view email]
+[v1] Thu, 28 Dec 2023 15:47:30 UTC (2,446 KB)
+
+Access Paper:
+View PDF
+HTML (experimental)
+TeX Source
+Other Formats
+view license
+Current browse context:
+cs.SE
+< prev   |   next >
+
+new | recent | 2023-12
+Change to browse by:
+cs
+cs.AI
+cs.IR
+
+References & Citations
+NASA ADS
+Google Scholar
+Semantic Scholar
+Export BibTeX Citation
+Bookmark
+ 
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer (What is the Explorer?)
+Connected Papers Toggle
+Connected Papers (What is Connected Papers?)
+Litmaps Toggle
+Litmaps (What is Litmaps?)
+scite.ai Toggle
+scite Smart Citations (What are Smart Citations?)
+Code, Data, Media
+Demos
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?)
+About
+Help
+Contact
+Subscribe
+Copyright
+Privacy Policy
+Web Accessibility Assistance
+
+arXiv Operational Status 
+Get status notifications via email or slack
+
+## Metadata
+
+```json
+{
+  "title": "GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension",
+  "description": "Abstract page for arXiv paper 2312.17294: GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension",
+  "url": "https://arxiv.org/abs/2312.17294",
+  "content": "Skip to main content\n\nIn just 3 minutes help us improve arXiv:\n\nAnnual Global Survey\nWe gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors.\nDonate\n>\ncs\n>\narXiv:2312.17294\n\nHelp | Advanced Search\n\nAll fields\nTitle\nAuthor\nAbstract\nComments\nJournal reference\nACM classification\nMSC classification\nReport number\narXiv identifier\nDOI\nORCID\narXiv author ID\nHelp pages\nFull text\nSearch\nComputer Science > Software Engineering\n[Submitted on 28 Dec 2023]\nGitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension\nBohan Lyu, Xin Cong, Heyang Yu, Pan Yang, Yujia Qin, Yining Ye, Yaxi Lu, Zhong Zhang, Yukun Yan, Yankai Lin, Zhiyuan Liu, Maosong Sun\nWhile Large Language Models (LLMs) like ChatGPT and GPT-4 have demonstrated exceptional proficiency in natural language processing, their efficacy in addressing complex, multifaceted tasks remains limited. A growing area of research focuses on LLM-based agents equipped with external tools capable of performing diverse tasks. However, existing LLM-based agents only support a limited set of tools which is unable to cover a diverse range of user queries, especially for those involving expertise domains. It remains a challenge for LLM-based agents to extend their tools autonomously when confronted with various user queries. As GitHub has hosted a multitude of repositories which can be seen as a good resource for tools, a promising solution is that LLM-based agents can autonomously integrate the repositories in GitHub according to the user queries to extend their tool set. In this paper, we introduce GitAgent, an agent capable of achieving the autonomous tool extension from GitHub. GitAgent follows a four-phase procedure to incorporate repositories and it can learn human experience by resorting to GitHub Issues/PRs to solve problems encountered during the procedure. Experimental evaluation involving 30 user queries demonstrates GitAgent's effectiveness, achieving a 69.4% success rate on average.\nSubjects:\tSoftware Engineering (cs.SE); Artificial Intelligence (cs.AI); Information Retrieval (cs.IR)\nCite as:\tarXiv:2312.17294 [cs.SE]\n \t(or arXiv:2312.17294v1 [cs.SE] for this version)\n \t\nhttps://doi.org/10.48550/arXiv.2312.17294\nFocus to learn more\nSubmission history\nFrom: Xin Cong [view email]\n[v1] Thu, 28 Dec 2023 15:47:30 UTC (2,446 KB)\n\nAccess Paper:\nView PDF\nHTML (experimental)\nTeX Source\nOther Formats\nview license\nCurrent browse context:\ncs.SE\n< prev   |   next >\n\nnew | recent | 2023-12\nChange to browse by:\ncs\ncs.AI\ncs.IR\n\nReferences & Citations\nNASA ADS\nGoogle Scholar\nSemantic Scholar\nExport BibTeX Citation\nBookmark\n \nBibliographic Tools\nBibliographic and Citation Tools\nBibliographic Explorer Toggle\nBibliographic Explorer (What is the Explorer?)\nConnected Papers Toggle\nConnected Papers (What is Connected Papers?)\nLitmaps Toggle\nLitmaps (What is Litmaps?)\nscite.ai Toggle\nscite Smart Citations (What are Smart Citations?)\nCode, Data, Media\nDemos\nRelated Papers\nAbout arXivLabs\nWhich authors of this paper are endorsers? | Disable MathJax (What is MathJax?)\nAbout\nHelp\nContact\nSubscribe\nCopyright\nPrivacy Policy\nWeb Accessibility Assistance\n\narXiv Operational Status \nGet status notifications via email or slack",
+  "usage": {
+    "tokens": 773
+  }
+}
+```

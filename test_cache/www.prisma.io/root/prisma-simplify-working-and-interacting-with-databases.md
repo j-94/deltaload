@@ -1,0 +1,1096 @@
+---
+title: Prisma | Simplify working and interacting with databases
+description: Build, fortify, and grow your application easily with an intuitive data model, type-safety, automated migrations, connection pooling, caching, and real-time database subscriptions.
+url: https://www.prisma.io/
+timestamp: 2025-01-20T15:55:55.581Z
+domain: www.prisma.io
+path: root
+---
+
+# Prisma | Simplify working and interacting with databases
+
+
+Build, fortify, and grow your application easily with an intuitive data model, type-safety, automated migrations, connection pooling, caching, and real-time database subscriptions.
+
+
+## Content
+
+![Image 315: hero image](https://www.prisma.io/illustrations/home-page/hero-lines.svg)![Image 316: hero image](https://www.prisma.io/illustrations/home-page/hero-lines-mobile.svg)
+
+We simplify  
+  
+so you don't have to  
+
+----------------------------------------
+
+Let your team ship features faster, and leave the database complexities to us.
+
+trusted by **K** active monthly developers
+
+### Build data-driven applications — with a great DX
+
+Prisma provides the best experience for your team to work and interact with databases. Even complex things like connection pooling, caching, real-time database subscriptions are a breeze with our products.  
+**Build** your application, **fortify** to make everything run smoothly, and **grow** with your users and requirements.
+
+New release!
+
+### Instant Postgres for Global Applications
+
+BuildFortifyGrow
+----------------
+
+Build
+-----
+
+Build.
+
+STREAMLINE YOUR DEVELOPMENT
+
+Easily build applications with our intuitive tools, simplifying database interactions, schema evolution, and data management. Lay a solid foundation for your application while ensuring adaptability to future needs.
+
+orm
+
+#### Talk to your database easily
+
+Open source Node.js and TypeScript ORM with a readable data model, automated migrations, type-safety, and auto-completion.
+
+[Explore Prisma ORM](https://www.prisma.io/orm)
+
+STUDIO
+
+#### Explore and manipulate your data
+
+Interact with your data in a simple tabular interface with full CRUD capabilities, filtering, sorting, and safe editing directly in the model cells.
+
+[Learn more about Studio](https://www.prisma.io/studio)
+
+Fortify
+-------
+
+Fortify.
+
+CONSISTENT PERFORMANCE
+
+Ensure that your database and queries are running at peak performance and efficiency. Easily handle connections to your database and scale with your traffic with [Accelerate](https://www.prisma.io/data-platform/accelerate), with no infrastructure to manage.
+
+OPTIMIZE
+
+#### AI-driven query analysis
+
+Gain deep insights and get actionable recommendations to improve your database queries, making your app run faster.
+
+[Learn more about Optimize](https://www.prisma.io/data-platform/optimize)
+
+![Image 317: understand](https://cdn.sanity.io/images/p2zxqf70/production/3397fb3caea7b0fe04e7ff0ec740accf7170d3da-509x250.svg)
+
+Grow
+----
+
+Grow.
+
+ADAPT AS YOUR APP EVOLVES
+
+Scale confidently with infrastructure that adapts to your application. Prisma expands your application's capabilities to handle increased traffic and work with your database in completely new ways.
+
+Accelerate
+
+#### Up to 1000x faster queries
+
+Easily set up a global cache and a connection pool for your database to enable a lightning-fast experience for your users as your application grows.
+
+[Explore Prisma Accelerate](https://www.prisma.io/data-platform/accelerate)
+
+Pulse
+
+#### Database-event driven compute
+
+Power real-time functionality with simplified, type-safe database subscriptions. Easily enable workflows and actions that react to changes in your database.
+
+[Explore Prisma Pulse](https://www.prisma.io/data-platform/pulse)
+
+Works with your stack
+---------------------
+
+Bring your own database and framework, and change it as you’d like. We’ll make sure everything continues to work seamlessly so you have the flexibility to evolve without constraints.
+
+[Learn more about Prisma in your stack](https://www.prisma.io/stack)
+
+Loved by developers globally and across industries
+--------------------------------------------------
+
+We **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.
+
+![Image 318: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)
+
+Yuval Hazaz
+
+CEO Amplication
+
+Thanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.
+
+![Image 319: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)
+
+Matti Nannt
+
+Co-FounderFormbricks
+
+Underrated: Prisma 🐐  
+Entire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥
+
+![Image 320: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)
+
+With Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.
+
+![Image 321: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)
+
+Niko Guerra
+
+Senior Backend Engineering ManagerLush
+
+Prisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.
+
+![Image 322: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)
+
+Tom Hutchinson
+
+Head of MobileRapha
+
+Prisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.
+
+![Image 323: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)
+
+Ricardo Almeida
+
+Software EngineerGrover
+
+It's the kind of DX that lets me get stuff done in between my daughter's naps.
+
+![Image 324:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)
+
+Nicolás Torres
+
+Fullstack EngineerBackbase
+
+I have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.
+
+![Image 325: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)
+
+Jonathan Wilke
+
+Frontend devJuniqe
+
+Prisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.
+
+Not bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.
+
+![Image 326: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)
+
+Harshdeep Singh Hura
+
+Shopify App Developer and Consultant@kinngh
+
+Prisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.
+
+![Image 327:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)
+
+Dries Augustyns
+
+FounderPlunk
+
+I like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.
+
+![Image 328: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)
+
+Daniel Cranney
+
+Developer AdvocateWeAreDevelopers
+
+Huge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.
+
+![Image 329: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)
+
+Jake Colling
+
+Experimenting with LLM powered apps
+
+I've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm
+
+![Image 330: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)
+
+Joonatan
+
+Building Stockle App
+
+I keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.
+
+![Image 331: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)
+
+Ian Hunter
+
+Pushing electronsOpenSeas
+
+Accelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.
+
+![Image 332: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)
+
+I love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.
+
+![Image 333: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)
+
+Elie Steinbock
+
+Founder Inbox Zero
+
+I love the Prisma typing system! Stack Auth relies heavily on it.
+
+![Image 334: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)
+
+Zai Shi
+
+Co-founderStack Auth
+
+Prisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.
+
+![Image 335: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)
+
+Cody Bontecou
+
+Founderi18nlocale
+
+What I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!
+
+![Image 336: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)
+
+Prisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.
+
+![Image 337: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)
+
+Harshal Patil
+
+Staff EngineerMeister
+
+Imagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.
+
+![Image 338: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)
+
+Chris Lis
+
+Dev EducatorChrisCourses
+
+We **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.
+
+![Image 339: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)
+
+Yuval Hazaz
+
+CEO Amplication
+
+Thanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.
+
+![Image 340: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)
+
+Matti Nannt
+
+Co-FounderFormbricks
+
+Underrated: Prisma 🐐  
+Entire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥
+
+![Image 341: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)
+
+With Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.
+
+![Image 342: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)
+
+Niko Guerra
+
+Senior Backend Engineering ManagerLush
+
+Prisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.
+
+![Image 343: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)
+
+Tom Hutchinson
+
+Head of MobileRapha
+
+Prisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.
+
+![Image 344: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)
+
+Ricardo Almeida
+
+Software EngineerGrover
+
+It's the kind of DX that lets me get stuff done in between my daughter's naps.
+
+![Image 345:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)
+
+Nicolás Torres
+
+Fullstack EngineerBackbase
+
+I have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.
+
+![Image 346: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)
+
+Jonathan Wilke
+
+Frontend devJuniqe
+
+Prisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.
+
+Not bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.
+
+![Image 347: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)
+
+Harshdeep Singh Hura
+
+Shopify App Developer and Consultant@kinngh
+
+Prisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.
+
+![Image 348:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)
+
+Dries Augustyns
+
+FounderPlunk
+
+I like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.
+
+![Image 349: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)
+
+Daniel Cranney
+
+Developer AdvocateWeAreDevelopers
+
+Huge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.
+
+![Image 350: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)
+
+Jake Colling
+
+Experimenting with LLM powered apps
+
+I've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm
+
+![Image 351: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)
+
+Joonatan
+
+Building Stockle App
+
+I keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.
+
+![Image 352: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)
+
+Ian Hunter
+
+Pushing electronsOpenSeas
+
+Accelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.
+
+![Image 353: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)
+
+I love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.
+
+![Image 354: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)
+
+Elie Steinbock
+
+Founder Inbox Zero
+
+I love the Prisma typing system! Stack Auth relies heavily on it.
+
+![Image 355: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)
+
+Zai Shi
+
+Co-founderStack Auth
+
+Prisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.
+
+![Image 356: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)
+
+Cody Bontecou
+
+Founderi18nlocale
+
+What I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!
+
+![Image 357: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)
+
+Prisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.
+
+![Image 358: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)
+
+Harshal Patil
+
+Staff EngineerMeister
+
+Imagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.
+
+![Image 359: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)
+
+Chris Lis
+
+Dev EducatorChrisCourses
+
+We **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.
+
+![Image 360: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)
+
+Yuval Hazaz
+
+CEO Amplication
+
+Thanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.
+
+![Image 361: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)
+
+Matti Nannt
+
+Co-FounderFormbricks
+
+Underrated: Prisma 🐐  
+Entire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥
+
+![Image 362: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)
+
+With Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.
+
+![Image 363: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)
+
+Niko Guerra
+
+Senior Backend Engineering ManagerLush
+
+Prisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.
+
+![Image 364: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)
+
+Tom Hutchinson
+
+Head of MobileRapha
+
+Prisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.
+
+![Image 365: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)
+
+Ricardo Almeida
+
+Software EngineerGrover
+
+It's the kind of DX that lets me get stuff done in between my daughter's naps.
+
+![Image 366:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)
+
+Nicolás Torres
+
+Fullstack EngineerBackbase
+
+I have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.
+
+![Image 367: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)
+
+Jonathan Wilke
+
+Frontend devJuniqe
+
+Prisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.
+
+Not bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.
+
+![Image 368: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)
+
+Harshdeep Singh Hura
+
+Shopify App Developer and Consultant@kinngh
+
+Prisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.
+
+![Image 369:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)
+
+Dries Augustyns
+
+FounderPlunk
+
+We **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.
+
+![Image 370: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)
+
+Yuval Hazaz
+
+CEO Amplication
+
+Thanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.
+
+![Image 371: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)
+
+Matti Nannt
+
+Co-FounderFormbricks
+
+Underrated: Prisma 🐐  
+Entire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥
+
+![Image 372: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)
+
+With Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.
+
+![Image 373: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)
+
+Niko Guerra
+
+Senior Backend Engineering ManagerLush
+
+Prisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.
+
+![Image 374: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)
+
+Tom Hutchinson
+
+Head of MobileRapha
+
+Prisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.
+
+![Image 375: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)
+
+Ricardo Almeida
+
+Software EngineerGrover
+
+It's the kind of DX that lets me get stuff done in between my daughter's naps.
+
+![Image 376:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)
+
+Nicolás Torres
+
+Fullstack EngineerBackbase
+
+I have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.
+
+![Image 377: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)
+
+Jonathan Wilke
+
+Frontend devJuniqe
+
+Prisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.
+
+Not bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.
+
+![Image 378: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)
+
+Harshdeep Singh Hura
+
+Shopify App Developer and Consultant@kinngh
+
+Prisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.
+
+![Image 379:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)
+
+Dries Augustyns
+
+FounderPlunk
+
+I like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.
+
+![Image 380: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)
+
+Daniel Cranney
+
+Developer AdvocateWeAreDevelopers
+
+Huge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.
+
+![Image 381: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)
+
+Jake Colling
+
+Experimenting with LLM powered apps
+
+I've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm
+
+![Image 382: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)
+
+Joonatan
+
+Building Stockle App
+
+I keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.
+
+![Image 383: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)
+
+Ian Hunter
+
+Pushing electronsOpenSeas
+
+Accelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.
+
+![Image 384: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)
+
+I love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.
+
+![Image 385: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)
+
+Elie Steinbock
+
+Founder Inbox Zero
+
+I love the Prisma typing system! Stack Auth relies heavily on it.
+
+![Image 386: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)
+
+Zai Shi
+
+Co-founderStack Auth
+
+Prisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.
+
+![Image 387: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)
+
+Cody Bontecou
+
+Founderi18nlocale
+
+What I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!
+
+![Image 388: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)
+
+Prisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.
+
+![Image 389: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)
+
+Harshal Patil
+
+Staff EngineerMeister
+
+Imagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.
+
+![Image 390: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)
+
+Chris Lis
+
+Dev EducatorChrisCourses
+
+I like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.
+
+![Image 391: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)
+
+Daniel Cranney
+
+Developer AdvocateWeAreDevelopers
+
+Huge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.
+
+![Image 392: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)
+
+Jake Colling
+
+Experimenting with LLM powered apps
+
+I've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm
+
+![Image 393: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)
+
+Joonatan
+
+Building Stockle App
+
+I keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.
+
+![Image 394: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)
+
+Ian Hunter
+
+Pushing electronsOpenSeas
+
+Accelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.
+
+![Image 395: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)
+
+I love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.
+
+![Image 396: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)
+
+Elie Steinbock
+
+Founder Inbox Zero
+
+I love the Prisma typing system! Stack Auth relies heavily on it.
+
+![Image 397: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)
+
+Zai Shi
+
+Co-founderStack Auth
+
+Prisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.
+
+![Image 398: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)
+
+Cody Bontecou
+
+Founderi18nlocale
+
+What I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!
+
+![Image 399: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)
+
+Prisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.
+
+![Image 400: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)
+
+Harshal Patil
+
+Staff EngineerMeister
+
+Imagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.
+
+![Image 401: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)
+
+Chris Lis
+
+Dev EducatorChrisCourses
+
+We **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.
+
+![Image 402: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)
+
+Yuval Hazaz
+
+CEO Amplication
+
+Thanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.
+
+![Image 403: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)
+
+Matti Nannt
+
+Co-FounderFormbricks
+
+Underrated: Prisma 🐐  
+Entire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥
+
+![Image 404: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)
+
+With Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.
+
+![Image 405: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)
+
+Niko Guerra
+
+Senior Backend Engineering ManagerLush
+
+We **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.
+
+![Image 406: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)
+
+Yuval Hazaz
+
+CEO Amplication
+
+Thanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.
+
+![Image 407: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)
+
+Matti Nannt
+
+Co-FounderFormbricks
+
+Underrated: Prisma 🐐  
+Entire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥
+
+![Image 408: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)
+
+With Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.
+
+![Image 409: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)
+
+Niko Guerra
+
+Senior Backend Engineering ManagerLush
+
+Prisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.
+
+![Image 410: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)
+
+Tom Hutchinson
+
+Head of MobileRapha
+
+Prisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.
+
+![Image 411: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)
+
+Ricardo Almeida
+
+Software EngineerGrover
+
+It's the kind of DX that lets me get stuff done in between my daughter's naps.
+
+![Image 412:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)
+
+Nicolás Torres
+
+Fullstack EngineerBackbase
+
+I have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.
+
+![Image 413: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)
+
+Jonathan Wilke
+
+Frontend devJuniqe
+
+Prisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.
+
+![Image 414: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)
+
+Tom Hutchinson
+
+Head of MobileRapha
+
+Prisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.
+
+![Image 415: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)
+
+Ricardo Almeida
+
+Software EngineerGrover
+
+It's the kind of DX that lets me get stuff done in between my daughter's naps.
+
+![Image 416:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)
+
+Nicolás Torres
+
+Fullstack EngineerBackbase
+
+I have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.
+
+![Image 417: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)
+
+Jonathan Wilke
+
+Frontend devJuniqe
+
+Prisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.
+
+Not bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.
+
+![Image 418: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)
+
+Harshdeep Singh Hura
+
+Shopify App Developer and Consultant@kinngh
+
+Prisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.
+
+![Image 419:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)
+
+Dries Augustyns
+
+FounderPlunk
+
+I like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.
+
+![Image 420: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)
+
+Daniel Cranney
+
+Developer AdvocateWeAreDevelopers
+
+Huge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.
+
+![Image 421: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)
+
+Jake Colling
+
+Experimenting with LLM powered apps
+
+I've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm
+
+![Image 422: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)
+
+Joonatan
+
+Building Stockle App
+
+I keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.
+
+![Image 423: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)
+
+Ian Hunter
+
+Pushing electronsOpenSeas
+
+Accelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.
+
+![Image 424: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)
+
+I love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.
+
+![Image 425: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)
+
+Elie Steinbock
+
+Founder Inbox Zero
+
+I love the Prisma typing system! Stack Auth relies heavily on it.
+
+![Image 426: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)
+
+Zai Shi
+
+Co-founderStack Auth
+
+Prisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.
+
+![Image 427: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)
+
+Cody Bontecou
+
+Founderi18nlocale
+
+What I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!
+
+![Image 428: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)
+
+Prisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.
+
+![Image 429: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)
+
+Harshal Patil
+
+Staff EngineerMeister
+
+Imagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.
+
+![Image 430: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)
+
+Chris Lis
+
+Dev EducatorChrisCourses
+
+Prisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.
+
+Not bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.
+
+![Image 431: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)
+
+Harshdeep Singh Hura
+
+Shopify App Developer and Consultant@kinngh
+
+Prisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.
+
+![Image 432:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)
+
+Dries Augustyns
+
+FounderPlunk
+
+I like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.
+
+![Image 433: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)
+
+Daniel Cranney
+
+Developer AdvocateWeAreDevelopers
+
+Huge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.
+
+![Image 434: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)
+
+Jake Colling
+
+Experimenting with LLM powered apps
+
+I've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm
+
+![Image 435: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)
+
+Joonatan
+
+Building Stockle App
+
+I keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.
+
+![Image 436: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)
+
+Ian Hunter
+
+Pushing electronsOpenSeas
+
+Accelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.
+
+![Image 437: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)
+
+I love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.
+
+![Image 438: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)
+
+Elie Steinbock
+
+Founder Inbox Zero
+
+I love the Prisma typing system! Stack Auth relies heavily on it.
+
+![Image 439: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)
+
+Zai Shi
+
+Co-founderStack Auth
+
+Prisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.
+
+![Image 440: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)
+
+Cody Bontecou
+
+Founderi18nlocale
+
+What I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!
+
+![Image 441: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)
+
+Prisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.
+
+![Image 442: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)
+
+Harshal Patil
+
+Staff EngineerMeister
+
+Imagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.
+
+![Image 443: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)
+
+Chris Lis
+
+Dev EducatorChrisCourses
+
+#### Stay updated
+
+Ready to try?
+-------------
+
+Integrate into your existing project, start from scratch, or just take things for a spin.
+
+[Get started now](https://www.prisma.io/docs/getting-started)
+
+## Metadata
+
+```json
+{
+  "title": "Prisma | Simplify working and interacting with databases",
+  "description": "Build, fortify, and grow your application easily with an intuitive data model, type-safety, automated migrations, connection pooling, caching, and real-time database subscriptions.",
+  "url": "https://www.prisma.io/",
+  "content": "![Image 315: hero image](https://www.prisma.io/illustrations/home-page/hero-lines.svg)![Image 316: hero image](https://www.prisma.io/illustrations/home-page/hero-lines-mobile.svg)\n\nWe simplify  \n  \nso you don't have to  \n\n----------------------------------------\n\nLet your team ship features faster, and leave the database complexities to us.\n\ntrusted by **K** active monthly developers\n\n### Build data-driven applications — with a great DX\n\nPrisma provides the best experience for your team to work and interact with databases. Even complex things like connection pooling, caching, real-time database subscriptions are a breeze with our products.  \n**Build** your application, **fortify** to make everything run smoothly, and **grow** with your users and requirements.\n\nNew release!\n\n### Instant Postgres for Global Applications\n\nBuildFortifyGrow\n----------------\n\nBuild\n-----\n\nBuild.\n\nSTREAMLINE YOUR DEVELOPMENT\n\nEasily build applications with our intuitive tools, simplifying database interactions, schema evolution, and data management. Lay a solid foundation for your application while ensuring adaptability to future needs.\n\norm\n\n#### Talk to your database easily\n\nOpen source Node.js and TypeScript ORM with a readable data model, automated migrations, type-safety, and auto-completion.\n\n[Explore Prisma ORM](https://www.prisma.io/orm)\n\nSTUDIO\n\n#### Explore and manipulate your data\n\nInteract with your data in a simple tabular interface with full CRUD capabilities, filtering, sorting, and safe editing directly in the model cells.\n\n[Learn more about Studio](https://www.prisma.io/studio)\n\nFortify\n-------\n\nFortify.\n\nCONSISTENT PERFORMANCE\n\nEnsure that your database and queries are running at peak performance and efficiency. Easily handle connections to your database and scale with your traffic with [Accelerate](https://www.prisma.io/data-platform/accelerate), with no infrastructure to manage.\n\nOPTIMIZE\n\n#### AI-driven query analysis\n\nGain deep insights and get actionable recommendations to improve your database queries, making your app run faster.\n\n[Learn more about Optimize](https://www.prisma.io/data-platform/optimize)\n\n![Image 317: understand](https://cdn.sanity.io/images/p2zxqf70/production/3397fb3caea7b0fe04e7ff0ec740accf7170d3da-509x250.svg)\n\nGrow\n----\n\nGrow.\n\nADAPT AS YOUR APP EVOLVES\n\nScale confidently with infrastructure that adapts to your application. Prisma expands your application's capabilities to handle increased traffic and work with your database in completely new ways.\n\nAccelerate\n\n#### Up to 1000x faster queries\n\nEasily set up a global cache and a connection pool for your database to enable a lightning-fast experience for your users as your application grows.\n\n[Explore Prisma Accelerate](https://www.prisma.io/data-platform/accelerate)\n\nPulse\n\n#### Database-event driven compute\n\nPower real-time functionality with simplified, type-safe database subscriptions. Easily enable workflows and actions that react to changes in your database.\n\n[Explore Prisma Pulse](https://www.prisma.io/data-platform/pulse)\n\nWorks with your stack\n---------------------\n\nBring your own database and framework, and change it as you’d like. We’ll make sure everything continues to work seamlessly so you have the flexibility to evolve without constraints.\n\n[Learn more about Prisma in your stack](https://www.prisma.io/stack)\n\nLoved by developers globally and across industries\n--------------------------------------------------\n\nWe **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.\n\n![Image 318: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)\n\nYuval Hazaz\n\nCEO Amplication\n\nThanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.\n\n![Image 319: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)\n\nMatti Nannt\n\nCo-FounderFormbricks\n\nUnderrated: Prisma 🐐  \nEntire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥\n\n![Image 320: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)\n\nWith Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.\n\n![Image 321: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)\n\nNiko Guerra\n\nSenior Backend Engineering ManagerLush\n\nPrisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.\n\n![Image 322: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)\n\nTom Hutchinson\n\nHead of MobileRapha\n\nPrisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.\n\n![Image 323: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)\n\nRicardo Almeida\n\nSoftware EngineerGrover\n\nIt's the kind of DX that lets me get stuff done in between my daughter's naps.\n\n![Image 324:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)\n\nNicolás Torres\n\nFullstack EngineerBackbase\n\nI have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.\n\n![Image 325: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)\n\nJonathan Wilke\n\nFrontend devJuniqe\n\nPrisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.\n\nNot bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.\n\n![Image 326: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)\n\nHarshdeep Singh Hura\n\nShopify App Developer and Consultant@kinngh\n\nPrisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.\n\n![Image 327:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)\n\nDries Augustyns\n\nFounderPlunk\n\nI like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.\n\n![Image 328: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)\n\nDaniel Cranney\n\nDeveloper AdvocateWeAreDevelopers\n\nHuge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.\n\n![Image 329: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)\n\nJake Colling\n\nExperimenting with LLM powered apps\n\nI've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm\n\n![Image 330: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)\n\nJoonatan\n\nBuilding Stockle App\n\nI keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.\n\n![Image 331: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)\n\nIan Hunter\n\nPushing electronsOpenSeas\n\nAccelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.\n\n![Image 332: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)\n\nI love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.\n\n![Image 333: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)\n\nElie Steinbock\n\nFounder Inbox Zero\n\nI love the Prisma typing system! Stack Auth relies heavily on it.\n\n![Image 334: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)\n\nZai Shi\n\nCo-founderStack Auth\n\nPrisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.\n\n![Image 335: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)\n\nCody Bontecou\n\nFounderi18nlocale\n\nWhat I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!\n\n![Image 336: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)\n\nPrisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.\n\n![Image 337: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)\n\nHarshal Patil\n\nStaff EngineerMeister\n\nImagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.\n\n![Image 338: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)\n\nChris Lis\n\nDev EducatorChrisCourses\n\nWe **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.\n\n![Image 339: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)\n\nYuval Hazaz\n\nCEO Amplication\n\nThanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.\n\n![Image 340: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)\n\nMatti Nannt\n\nCo-FounderFormbricks\n\nUnderrated: Prisma 🐐  \nEntire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥\n\n![Image 341: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)\n\nWith Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.\n\n![Image 342: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)\n\nNiko Guerra\n\nSenior Backend Engineering ManagerLush\n\nPrisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.\n\n![Image 343: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)\n\nTom Hutchinson\n\nHead of MobileRapha\n\nPrisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.\n\n![Image 344: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)\n\nRicardo Almeida\n\nSoftware EngineerGrover\n\nIt's the kind of DX that lets me get stuff done in between my daughter's naps.\n\n![Image 345:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)\n\nNicolás Torres\n\nFullstack EngineerBackbase\n\nI have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.\n\n![Image 346: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)\n\nJonathan Wilke\n\nFrontend devJuniqe\n\nPrisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.\n\nNot bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.\n\n![Image 347: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)\n\nHarshdeep Singh Hura\n\nShopify App Developer and Consultant@kinngh\n\nPrisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.\n\n![Image 348:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)\n\nDries Augustyns\n\nFounderPlunk\n\nI like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.\n\n![Image 349: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)\n\nDaniel Cranney\n\nDeveloper AdvocateWeAreDevelopers\n\nHuge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.\n\n![Image 350: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)\n\nJake Colling\n\nExperimenting with LLM powered apps\n\nI've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm\n\n![Image 351: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)\n\nJoonatan\n\nBuilding Stockle App\n\nI keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.\n\n![Image 352: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)\n\nIan Hunter\n\nPushing electronsOpenSeas\n\nAccelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.\n\n![Image 353: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)\n\nI love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.\n\n![Image 354: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)\n\nElie Steinbock\n\nFounder Inbox Zero\n\nI love the Prisma typing system! Stack Auth relies heavily on it.\n\n![Image 355: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)\n\nZai Shi\n\nCo-founderStack Auth\n\nPrisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.\n\n![Image 356: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)\n\nCody Bontecou\n\nFounderi18nlocale\n\nWhat I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!\n\n![Image 357: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)\n\nPrisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.\n\n![Image 358: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)\n\nHarshal Patil\n\nStaff EngineerMeister\n\nImagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.\n\n![Image 359: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)\n\nChris Lis\n\nDev EducatorChrisCourses\n\nWe **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.\n\n![Image 360: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)\n\nYuval Hazaz\n\nCEO Amplication\n\nThanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.\n\n![Image 361: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)\n\nMatti Nannt\n\nCo-FounderFormbricks\n\nUnderrated: Prisma 🐐  \nEntire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥\n\n![Image 362: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)\n\nWith Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.\n\n![Image 363: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)\n\nNiko Guerra\n\nSenior Backend Engineering ManagerLush\n\nPrisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.\n\n![Image 364: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)\n\nTom Hutchinson\n\nHead of MobileRapha\n\nPrisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.\n\n![Image 365: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)\n\nRicardo Almeida\n\nSoftware EngineerGrover\n\nIt's the kind of DX that lets me get stuff done in between my daughter's naps.\n\n![Image 366:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)\n\nNicolás Torres\n\nFullstack EngineerBackbase\n\nI have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.\n\n![Image 367: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)\n\nJonathan Wilke\n\nFrontend devJuniqe\n\nPrisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.\n\nNot bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.\n\n![Image 368: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)\n\nHarshdeep Singh Hura\n\nShopify App Developer and Consultant@kinngh\n\nPrisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.\n\n![Image 369:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)\n\nDries Augustyns\n\nFounderPlunk\n\nWe **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.\n\n![Image 370: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)\n\nYuval Hazaz\n\nCEO Amplication\n\nThanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.\n\n![Image 371: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)\n\nMatti Nannt\n\nCo-FounderFormbricks\n\nUnderrated: Prisma 🐐  \nEntire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥\n\n![Image 372: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)\n\nWith Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.\n\n![Image 373: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)\n\nNiko Guerra\n\nSenior Backend Engineering ManagerLush\n\nPrisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.\n\n![Image 374: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)\n\nTom Hutchinson\n\nHead of MobileRapha\n\nPrisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.\n\n![Image 375: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)\n\nRicardo Almeida\n\nSoftware EngineerGrover\n\nIt's the kind of DX that lets me get stuff done in between my daughter's naps.\n\n![Image 376:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)\n\nNicolás Torres\n\nFullstack EngineerBackbase\n\nI have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.\n\n![Image 377: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)\n\nJonathan Wilke\n\nFrontend devJuniqe\n\nPrisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.\n\nNot bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.\n\n![Image 378: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)\n\nHarshdeep Singh Hura\n\nShopify App Developer and Consultant@kinngh\n\nPrisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.\n\n![Image 379:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)\n\nDries Augustyns\n\nFounderPlunk\n\nI like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.\n\n![Image 380: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)\n\nDaniel Cranney\n\nDeveloper AdvocateWeAreDevelopers\n\nHuge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.\n\n![Image 381: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)\n\nJake Colling\n\nExperimenting with LLM powered apps\n\nI've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm\n\n![Image 382: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)\n\nJoonatan\n\nBuilding Stockle App\n\nI keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.\n\n![Image 383: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)\n\nIan Hunter\n\nPushing electronsOpenSeas\n\nAccelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.\n\n![Image 384: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)\n\nI love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.\n\n![Image 385: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)\n\nElie Steinbock\n\nFounder Inbox Zero\n\nI love the Prisma typing system! Stack Auth relies heavily on it.\n\n![Image 386: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)\n\nZai Shi\n\nCo-founderStack Auth\n\nPrisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.\n\n![Image 387: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)\n\nCody Bontecou\n\nFounderi18nlocale\n\nWhat I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!\n\n![Image 388: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)\n\nPrisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.\n\n![Image 389: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)\n\nHarshal Patil\n\nStaff EngineerMeister\n\nImagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.\n\n![Image 390: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)\n\nChris Lis\n\nDev EducatorChrisCourses\n\nI like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.\n\n![Image 391: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)\n\nDaniel Cranney\n\nDeveloper AdvocateWeAreDevelopers\n\nHuge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.\n\n![Image 392: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)\n\nJake Colling\n\nExperimenting with LLM powered apps\n\nI've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm\n\n![Image 393: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)\n\nJoonatan\n\nBuilding Stockle App\n\nI keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.\n\n![Image 394: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)\n\nIan Hunter\n\nPushing electronsOpenSeas\n\nAccelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.\n\n![Image 395: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)\n\nI love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.\n\n![Image 396: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)\n\nElie Steinbock\n\nFounder Inbox Zero\n\nI love the Prisma typing system! Stack Auth relies heavily on it.\n\n![Image 397: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)\n\nZai Shi\n\nCo-founderStack Auth\n\nPrisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.\n\n![Image 398: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)\n\nCody Bontecou\n\nFounderi18nlocale\n\nWhat I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!\n\n![Image 399: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)\n\nPrisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.\n\n![Image 400: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)\n\nHarshal Patil\n\nStaff EngineerMeister\n\nImagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.\n\n![Image 401: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)\n\nChris Lis\n\nDev EducatorChrisCourses\n\nWe **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.\n\n![Image 402: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)\n\nYuval Hazaz\n\nCEO Amplication\n\nThanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.\n\n![Image 403: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)\n\nMatti Nannt\n\nCo-FounderFormbricks\n\nUnderrated: Prisma 🐐  \nEntire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥\n\n![Image 404: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)\n\nWith Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.\n\n![Image 405: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)\n\nNiko Guerra\n\nSenior Backend Engineering ManagerLush\n\nWe **adopted Prisma conventions as our standard**, and it saves lots of time having from reinventing things ourselves.\n\n![Image 406: Yuval Hazaz](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd4defb67f28580f03402e668df027cd056e11336-400x400.webp&w=128&q=75)\n\nYuval Hazaz\n\nCEO Amplication\n\nThanks to Prisma, we can seamlessly **scale our applications** without concerns about data layer performance.\n\n![Image 407: Matti Nannt](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fb0a64768e74fdf2bf19c68ef87acd7817cde292c-400x400.jpg&w=128&q=75)\n\nMatti Nannt\n\nCo-FounderFormbricks\n\nUnderrated: Prisma 🐐  \nEntire SaaS businesses have been built on top of the Prisma ecosystem— including OSS ones like Dub.co. Have been loving the recent performance improvements as well 🔥\n\n![Image 408: Steven Tey](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fbf899cdd5295bb7f52213991c7ec978800611b63-400x400.jpg&w=128&q=75)\n\nWith Prisma, we **migrated a core production system from MySQL to SQL Server with zero downtime** simply by swapping a few references and updating our schema. I can't imagine building systems without it; it's instrumental to major projects at Lush.\n\n![Image 409: Niko Guerra](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F69e93fe73681d229b878b8c762b22d430cc4af27-999x1000.png&w=128&q=75)\n\nNiko Guerra\n\nSenior Backend Engineering ManagerLush\n\nPrisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.\n\n![Image 410: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)\n\nTom Hutchinson\n\nHead of MobileRapha\n\nPrisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.\n\n![Image 411: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)\n\nRicardo Almeida\n\nSoftware EngineerGrover\n\nIt's the kind of DX that lets me get stuff done in between my daughter's naps.\n\n![Image 412:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)\n\nNicolás Torres\n\nFullstack EngineerBackbase\n\nI have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.\n\n![Image 413: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)\n\nJonathan Wilke\n\nFrontend devJuniqe\n\nPrisma helps us **unify data access** from multiple enterprise systems into a single API. It means we can move very quickly whilst staying flexible.\n\n![Image 414: Tom Hutchinson](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fcfca3b144828cc70911455b741964b4238111505-256x256.png&w=128&q=75)\n\nTom Hutchinson\n\nHead of MobileRapha\n\nPrisma has a low learning curve. Productivity becomes higher because it gets combined with end-to-end type-safety using TypeScript.\n\n![Image 415: Ricardo Almeida](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F476b14825290e1692d7e5925b0722c1b7b2803a3-400x400.jpg&w=128&q=75)\n\nRicardo Almeida\n\nSoftware EngineerGrover\n\nIt's the kind of DX that lets me get stuff done in between my daughter's naps.\n\n![Image 416:  Nicolás Torres](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F50afb308ff2c45a3e5f94ddd863b689de0d190a3-400x400.png&w=128&q=75)\n\nNicolás Torres\n\nFullstack EngineerBackbase\n\nI have been using Prisma since day one, and it has become my number one choice for ORM. It’s the default in [@supastarter](https://twitter.com/supastarter), and even though things like Drizzle might be more lightweight, the **DX of Prisma is just unbeaten**.\n\n![Image 417: Jonathan Wilke](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fff965e73ec3b2169adc260f98cde018acb37ab8f-400x400.jpg&w=128&q=75)\n\nJonathan Wilke\n\nFrontend devJuniqe\n\nPrisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.\n\nNot bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.\n\n![Image 418: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)\n\nHarshdeep Singh Hura\n\nShopify App Developer and Consultant@kinngh\n\nPrisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.\n\n![Image 419:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)\n\nDries Augustyns\n\nFounderPlunk\n\nI like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.\n\n![Image 420: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)\n\nDaniel Cranney\n\nDeveloper AdvocateWeAreDevelopers\n\nHuge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.\n\n![Image 421: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)\n\nJake Colling\n\nExperimenting with LLM powered apps\n\nI've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm\n\n![Image 422: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)\n\nJoonatan\n\nBuilding Stockle App\n\nI keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.\n\n![Image 423: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)\n\nIan Hunter\n\nPushing electronsOpenSeas\n\nAccelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.\n\n![Image 424: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)\n\nI love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.\n\n![Image 425: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)\n\nElie Steinbock\n\nFounder Inbox Zero\n\nI love the Prisma typing system! Stack Auth relies heavily on it.\n\n![Image 426: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)\n\nZai Shi\n\nCo-founderStack Auth\n\nPrisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.\n\n![Image 427: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)\n\nCody Bontecou\n\nFounderi18nlocale\n\nWhat I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!\n\n![Image 428: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)\n\nPrisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.\n\n![Image 429: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)\n\nHarshal Patil\n\nStaff EngineerMeister\n\nImagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.\n\n![Image 430: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)\n\nChris Lis\n\nDev EducatorChrisCourses\n\nPrisma Accelerate handled 670,000+ webhooks from Shopify when the orders webhook from 2022/23 was fired, which cost us about $11.\n\nNot bad for accidentally being DDoS'd to a Heroku Postgres instance with **zero downtime**, and all the entries made it through.\n\n![Image 431: Harshdeep Singh Hura](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F99e492def6c3938193964e60966387a5859579ef-355x355.jpg&w=128&q=75)\n\nHarshdeep Singh Hura\n\nShopify App Developer and Consultant@kinngh\n\nPrisma spares me the hassle of keeping my database in sync, allowing me to develop my product with complete confidence.\n\n![Image 432:  Dries Augustyns](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F0993b4aeec621c7d7c2ee0d5fa72ef56070f8616-400x400.jpg&w=128&q=75)\n\nDries Augustyns\n\nFounderPlunk\n\nI like how the Prisma docs made it easy to jump straight into using it without needing to do a huge amount of reading, and I instantly felt the benefits.\n\n![Image 433: Daniel Cranney](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F8914bdcc58bb7b9ad192ea8de1bcdec1b2a482ae-400x400.jpg&w=128&q=75)\n\nDaniel Cranney\n\nDeveloper AdvocateWeAreDevelopers\n\nHuge fan of Prisma! The Schema file is great for Cursor. You literally never have to write a CRUD operation again.\n\n![Image 434: Jake Colling](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F1887d7a4ae32f99a91d20904d022e95166626606-400x400.jpg&w=128&q=75)\n\nJake Colling\n\nExperimenting with LLM powered apps\n\nI've been building the backend on [@stockleapp](https://twitter.com/stockleapp) with Prisma since the beginning, and I've got to say, it has worked like a charm\n\n![Image 435: Joonatan](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Ffab9b117063edca5115080cd4c9ffdced7ad3a86-400x400.jpg&w=128&q=75)\n\nJoonatan\n\nBuilding Stockle App\n\nI keep switching from Prisma to whatever the latest flavor is, but always end up coming back to Prisma.\n\n![Image 436: Ian Hunter](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F29682f5860daed2763e5f351e757163f54686031-400x400.jpg&w=128&q=75)\n\nIan Hunter\n\nPushing electronsOpenSeas\n\nAccelerate is a perfect fit for landing pages. We take advantage of caching to speed up queries and reduce latency, making them lightning-fast. This means we have a faster landing page, leading to better conversion.\n\n![Image 437: Blake Carroll](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F658a34c48fcdb064f944649d3d677f52520ba46e-320x320.jpg&w=128&q=75)\n\nI love how Prisma makes my life as a developer so easy. The TypeScript autocompletion is the best I've used, having tried many different ORMs. The migrations are a breeze. And I love how easy it is to get a full view of your database from the Prisma schema file. It's all in one place in readable format.\n\n![Image 438: Elie Steinbock](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fa7f8599a137e2ff0dff857b29263242621884506-400x400.png&w=128&q=75)\n\nElie Steinbock\n\nFounder Inbox Zero\n\nI love the Prisma typing system! Stack Auth relies heavily on it.\n\n![Image 439: Zai Shi](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F2726b6e82f7b0f773bb842480d770f60852abd41-704x704.jpg&w=128&q=75)\n\nZai Shi\n\nCo-founderStack Auth\n\nPrisma enabled me to easily manage authentication as well as users' paid status. Prisma Accelerate was a huge boost to my productivity, cutting latency issues I was encountering with Vercel SQL.\n\n![Image 440: Cody Bontecou](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F3cd2a30697c1ba9b0f14b22976aa8a823da7c768-400x400.jpg&w=128&q=75)\n\nCody Bontecou\n\nFounderi18nlocale\n\nWhat I love most about Postiz is Prisma. It lets me switch between SQL databases effortlessly. I've used other ORMs before such as Eloquent (Laravel), but nothing matches Prisma's typing and features!\n\n![Image 441: Nevo David](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2Fd5cc3b79e859477cd60311d66f64ef57109087d3-400x400.jpg&w=128&q=75)\n\nPrisma's typesafe SQL is a great feature. It fills a great abstraction gap that existed prior to this. Earlier, I would have to fall back straight to pgtyped.\n\n![Image 442: Harshal Patil](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94f1e7976eefd250a05ee3fd4dcd92760868b57b-400x400.png&w=128&q=75)\n\nHarshal Patil\n\nStaff EngineerMeister\n\nImagine never typing out a migration again. Yeah, that's basically what Prisma does for you. Has saved me literal hours of time, and can for you too.\n\n![Image 443: Chris Lis](https://www.prisma.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp2zxqf70%2Fproduction%2F94c6b151e939101bcf8f01960a192fc01b1bc20b-400x400.jpg&w=128&q=75)\n\nChris Lis\n\nDev EducatorChrisCourses\n\n#### Stay updated\n\nReady to try?\n-------------\n\nIntegrate into your existing project, start from scratch, or just take things for a spin.\n\n[Get started now](https://www.prisma.io/docs/getting-started)",
+  "usage": {
+    "tokens": 17732
+  }
+}
+```

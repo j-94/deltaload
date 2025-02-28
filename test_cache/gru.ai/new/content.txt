@@ -1,0 +1,24 @@
+Assistant Gru | Gru
+===============
+
+[Sign In](https://gru.ai/sign-in)
+
+![Image 3: Assistant Gru Icon](https://gru.ai/images/assistant-gru-icon.svg)
+
+##### Assistant Gru
+
+###### Solutions Brewed in Coffee Time
+
+###### Try Example Jobs
+
+*   Python
+*   TypeScript
+*   Java
+*   Go
+*   Others
+
+*   Write a python function to find the largest negative number from the given list.
+*   I need a program to invoke latest OpenAI SDK with tools call.
+*   Programmatically modify a jsonl file, to the target file format.
+*   Web page scraping, find PDF links and download.
+*   Help me write a LangChain program, reads a text and identify which sentiment level.

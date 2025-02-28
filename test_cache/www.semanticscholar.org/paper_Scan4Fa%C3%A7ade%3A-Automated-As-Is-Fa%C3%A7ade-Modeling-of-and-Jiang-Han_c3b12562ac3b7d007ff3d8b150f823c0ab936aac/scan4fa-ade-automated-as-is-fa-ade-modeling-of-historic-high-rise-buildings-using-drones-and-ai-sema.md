@@ -1,0 +1,403 @@
+---
+title: Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI | Semantic Scholar
+description: Semantic Scholar extracted view of "Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI" by Yuhan Jiang et al.
+url: https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac
+timestamp: 2025-01-20T15:42:23.940Z
+domain: www.semanticscholar.org
+path: paper_Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han_c3b12562ac3b7d007ff3d8b150f823c0ab936aac
+---
+
+# Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI | Semantic Scholar
+
+
+Semantic Scholar extracted view of "Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI" by Yuhan Jiang et al.
+
+
+## Content
+
+Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI | Semantic Scholar
+===============
+                                                          
+
+[Skip to search form](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#search-form)[Skip to main content](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#main-content)[Skip to account menu](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#account-menu)
+
+[](https://www.semanticscholar.org/)
+
+Search 223,685,234 papers from all fields of science
+
+Search
+
+Sign InCreate Free Account
+
+*   DOI:[10.1061/(asce)ae.1943-5568.0000564](https://doi.org/10.1061/%28asce%29ae.1943-5568.0000564)
+    
+*   Corpus ID: 252025497
+
+Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI
+================================================================================================
+
+@article{Jiang2022Scan4FaadeAA,
+  title={Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI},
+  author={Yuhan Jiang and Sisi Han and Yong Bai},
+  journal={Journal of Architectural Engineering},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:252025497}
+}
+
+*   [Yuhan Jiang](https://www.semanticscholar.org/author/Yuhan-Jiang/3151506), [Sisi Han](https://www.semanticscholar.org/author/Sisi-Han/9417008), [Yong Bai](https://www.semanticscholar.org/author/Yong-Bai/2115241118)
+*   Published in [Journal of Architectural…](https://www.semanticscholar.org/venue?name=Journal%20of%20Architectural%20Engineering) 1 December 2022
+*   Engineering, Computer Science, History
+
+[View via Publisher](https://doi.org/10.1061/%28asce%29ae.1943-5568.0000564 "https://doi.org/10.1061/%28asce%29ae.1943-5568.0000564")
+
+[epublications.marquette.edu](https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1374&context=civengin_fac "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1374&context=civengin_fac")
+
+Save to LibrarySave
+
+Create AlertAlert
+
+Cite
+
+Share
+
+4 Citations
+
+[Methods Citations](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#citing-papers)
+
+2
+
+[View All](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#citing-papers)
+
+4 Citations
+-----------
+
+Citation Type
+
+Has PDF
+
+Author
+
+More Filters
+
+More Filters
+
+Filters
+
+[### A review on artificial intelligence applications for facades](https://www.semanticscholar.org/paper/A-review-on-artificial-intelligence-applications-Duran-Waibel/8c0b282a5680d1fd30175c045ce61e437137ebf3)
+
+[Ayca Duran](https://www.semanticscholar.org/author/Ayca-Duran/2269015332)[Christoph Waibel](https://www.semanticscholar.org/author/Christoph-Waibel/2269012004)[Valeria Piccioni](https://www.semanticscholar.org/author/Valeria-Piccioni/2331972772)[Bernd Bickel](https://www.semanticscholar.org/author/Bernd-Bickel/2331971996)[A. Schlueter](https://www.semanticscholar.org/author/A.-Schlueter/2269012701)
+
+Computer Science, Environmental Science
+
+[Building and Environment](https://www.semanticscholar.org/venue?name=Building%20and%20Environment)
+
+*   2024
+
+Save
+
+[### HBIM for Conservation of Built Heritage](https://www.semanticscholar.org/paper/HBIM-for-Conservation-of-Built-Heritage-Alshawabkeh-Baik/6bd168da33eaf00e90abee04a0ca75de46de2a80)
+
+[Yahya Alshawabkeh](https://www.semanticscholar.org/author/Yahya-Alshawabkeh/2223745689)[Ahmad Baik](https://www.semanticscholar.org/author/Ahmad-Baik/2303599853)[Yehia H. Miky](https://www.semanticscholar.org/author/Yehia-H.-Miky/72935311)
+
+Engineering, Environmental Science
+
+ISPRS Int. J. Geo Inf.
+
+*   2024
+
+Building information modeling (BIM) has recently become more popular in historical buildings as a method to rebuild their geometry and collect relevant information. Heritage BIM (HBIM), which… Expand
+
+*   [1](https://www.semanticscholar.org/paper/6bd168da33eaf00e90abee04a0ca75de46de2a80#citing-papers)
+
+Save
+
+[### Identification of historic building “genes” based on deep learning: a case study on Chinese baroque architecture in Harbin, China](https://www.semanticscholar.org/paper/Identification-of-historic-building-%E2%80%9Cgenes%E2%80%9D-based-a-Shao-Sun/b3651313b9b251718ccc2ab28fd30153c6a49e85)
+
+[Long Shao](https://www.semanticscholar.org/author/Long-Shao/2267252975)[Jianqiao Sun](https://www.semanticscholar.org/author/Jianqiao-Sun/2267331672)
+
+Engineering, History
+
+[Heritage Science](https://www.semanticscholar.org/venue?name=Heritage%20Science)
+
+*   2023
+
+TLDR
+
+Improved U-Net models, traditional U- net models, FCN models, and EfficientNet models that incorporate channel attention mechanisms are used to identify historic building genes, obtaining the optimal intelligent recognition for historical architectural genes based on deep learning.Expand
+
+*   [3](https://www.semanticscholar.org/paper/b3651313b9b251718ccc2ab28fd30153c6a49e85#citing-papers)
+*   [PDF](https://www.semanticscholar.org/paper/b3651313b9b251718ccc2ab28fd30153c6a49e85)
+    
+
+*   1 Excerpt
+
+Save
+
+[### A Perspective on AI-Based Image Analysis and Utilization Technologies in Building Engineering: Recent Developments and New Directions](https://www.semanticscholar.org/paper/A-Perspective-on-AI-Based-Image-Analysis-and-in-and-Paduano-Mileto/b8a1ef409e14f859a7e30e242c9af0bff713b0bf)
+
+[I. Paduano](https://www.semanticscholar.org/author/I.-Paduano/2210037273)[A. Mileto](https://www.semanticscholar.org/author/A.-Mileto/2215942143)[E. Lofrano](https://www.semanticscholar.org/author/E.-Lofrano/2271880304)
+
+Engineering, Computer Science
+
+[Buildings](https://www.semanticscholar.org/venue?name=Buildings)
+
+*   2023
+
+TLDR
+
+This perspective paper collects the last developments on the use of AI in building engineering, highlighting what the authors consider the most stimulating scientific advancements of recent years, with a specific interest in the acquisition and processing of photographic surveys.Expand
+
+*   [10](https://www.semanticscholar.org/paper/b8a1ef409e14f859a7e30e242c9af0bff713b0bf#citing-papers)
+[](https://www.semanticscholar.org/reader/b8a1ef409e14f859a7e30e242c9af0bff713b0bf)\[PDF\]
+
+*   1 Excerpt
+
+Save
+
+68 References
+-------------
+
+Citation Type
+
+Has PDF
+
+Author
+
+More Filters
+
+More Filters
+
+Filters
+
+[### Automatic concrete sidewalk deficiency detection and mapping with deep learning](https://www.semanticscholar.org/paper/Automatic-concrete-sidewalk-deficiency-detection-Jiang-Han/1d8bd980af6b308af6606c757a36d858137228bc)
+
+[Yuhan Jiang](https://www.semanticscholar.org/author/Yuhan-Jiang/3151506)[Sisi Han](https://www.semanticscholar.org/author/Sisi-Han/9417008)[Dapeng Li](https://www.semanticscholar.org/author/Dapeng-Li/2115499783)[Yong Bai](https://www.semanticscholar.org/author/Yong-Bai/2115241118)[Mingzhu Wang](https://www.semanticscholar.org/author/Mingzhu-Wang/145365080)
+
+Engineering, Computer Science
+
+[Expert Syst. Appl.](https://www.semanticscholar.org/venue?name=Expert%20Syst.%20Appl.)
+
+*   2022
+
+*   [11](https://www.semanticscholar.org/paper/1d8bd980af6b308af6606c757a36d858137228bc#citing-papers)
+*   [PDF](https://www.semanticscholar.org/paper/1d8bd980af6b308af6606c757a36d858137228bc)
+    
+
+Save
+
+[### Construction Site Segmentation Using Drone-Based Ortho-Image and Convolutional Encoder-Decoder Network Model](https://www.semanticscholar.org/paper/Construction-Site-Segmentation-Using-Drone-Based-Jiang-Han/7129b8ca95bbeca0f10e9588f0051ef7deece4f8)
+
+[Yuhan Jiang](https://www.semanticscholar.org/author/Yuhan-Jiang/3151506)[Sisi Han](https://www.semanticscholar.org/author/Sisi-Han/9417008)[Yong Bai](https://www.semanticscholar.org/author/Yong-Bai/2115241118)
+
+Engineering, Computer Science
+
+Construction Research Congress 2022
+
+*   2022
+
+*   [2](https://www.semanticscholar.org/paper/7129b8ca95bbeca0f10e9588f0051ef7deece4f8#citing-papers)
+
+Save
+
+[### DIMENSIONS OF BIM IN LITERATURE: REVIEW AND ANALYSIS](https://www.semanticscholar.org/paper/DIMENSIONS-OF-BIM-IN-LITERATURE%3A-REVIEW-AND-Piaseckien%C4%97/72d81c65a921186e74045a460b81a7faf2410ed3)
+
+[Gintarė Piaseckienė](https://www.semanticscholar.org/author/Gintar%C4%97-Piaseckien%C4%97/2154152433)
+
+Engineering
+
+[Mokslas - Lietuvos ateitis](https://www.semanticscholar.org/venue?name=Mokslas%20-%20Lietuvos%20ateitis)
+
+*   2022
+
+TLDR
+
+This analysis covers BIM dimensions clarification in science literature adding strengths and weaknesses analysis that has been made for every dimension separately.Expand
+
+*   [5](https://www.semanticscholar.org/paper/72d81c65a921186e74045a460b81a7faf2410ed3#citing-papers)
+*   [PDF](https://www.semanticscholar.org/paper/72d81c65a921186e74045a460b81a7faf2410ed3)
+    
+
+Save
+
+[### Point Cloud Information Modeling: Deep Learning–Based Automated Information Modeling Framework for Point Cloud Data](https://www.semanticscholar.org/paper/Point-Cloud-Information-Modeling%3A-Deep-Automated-Park-Cho/71bf9e0143546effca83b8cbb7aee6362e1b1995)
+
+[Jisoo Park](https://www.semanticscholar.org/author/Jisoo-Park/2109095491)[Yong K. Cho](https://www.semanticscholar.org/author/Yong-K.-Cho/2112408386)
+
+Engineering, Computer Science
+
+[Journal of Construction Engineering and…](https://www.semanticscholar.org/venue?name=Journal%20of%20Construction%20Engineering%20and%20Management)
+
+*   2022
+
+*   [17](https://www.semanticscholar.org/paper/71bf9e0143546effca83b8cbb7aee6362e1b1995#citing-papers)
+
+Save
+
+[### Check and Validation of Building Information Models in Detailed Design Phase: A Check Flow to Pave the Way for BIM Based Renovation and Construction Processes](https://www.semanticscholar.org/paper/Check-and-Validation-of-Building-Information-Models-Andrich-Daniotti/50467642ce47f7bbe4069fd2a41d3cbae11a8cc2)
+
+[William Andrich](https://www.semanticscholar.org/author/William-Andrich/2152458301)[B. Daniotti](https://www.semanticscholar.org/author/B.-Daniotti/19225107)[A. Pavan](https://www.semanticscholar.org/author/A.-Pavan/151489759)[C. Mirarchi](https://www.semanticscholar.org/author/C.-Mirarchi/51187877)
+
+Engineering, Computer Science
+
+[Buildings](https://www.semanticscholar.org/venue?name=Buildings)
+
+*   2022
+
+TLDR
+
+This work has been developed and intersected with the activities of the H2020 BIM4EEB project considering the need to pave the way for the creation of quality models to facilitate the development of BIM based renovation processes.Expand
+
+*   [11](https://www.semanticscholar.org/paper/50467642ce47f7bbe4069fd2a41d3cbae11a8cc2#citing-papers)
+[](https://www.semanticscholar.org/reader/50467642ce47f7bbe4069fd2a41d3cbae11a8cc2)\[PDF\]
+
+Save
+
+[### A review of comprehensiveness, user-friendliness, and contribution for sustainable design of whole building environmental life cycle assessment software tools](https://www.semanticscholar.org/paper/A-review-of-comprehensiveness%2C-user-friendliness%2C-Karunaratne-Dharmarathna/51e9a35b115fa4747bc0911a5f426a168483f9ff)
+
+[S. Karunaratne](https://www.semanticscholar.org/author/S.-Karunaratne/37280502)[Dilshi Dharmarathna](https://www.semanticscholar.org/author/Dilshi-Dharmarathna/2126991417)
+
+Environmental Science, Engineering
+
+[Building and Environment](https://www.semanticscholar.org/venue?name=Building%20and%20Environment)
+
+*   2022
+
+*   [16](https://www.semanticscholar.org/paper/51e9a35b115fa4747bc0911a5f426a168483f9ff#citing-papers)
+
+Save
+
+[### 3D characterization of a Boston Ivy double-skin green building facade using a LiDAR system](https://www.semanticscholar.org/paper/3D-characterization-of-a-Boston-Ivy-double-skin-a-P%C3%A9rez-Escol%C3%A0/649ec119089ee8425cb811e028e1a45a851983e1)
+
+[Gabriel Pérez](https://www.semanticscholar.org/author/Gabriel-P%C3%A9rez/2084527144)[A. Escolà](https://www.semanticscholar.org/author/A.-Escol%C3%A0/3238367)+5 authors [E. Gregorio](https://www.semanticscholar.org/author/E.-Gregorio/26679688)
+
+Environmental Science, Engineering
+
+[Building and Environment](https://www.semanticscholar.org/venue?name=Building%20and%20Environment)
+
+*   2021
+
+*   [16](https://www.semanticscholar.org/paper/649ec119089ee8425cb811e028e1a45a851983e1#citing-papers)
+
+Save
+
+[### Building and Infrastructure Defect Detection and Visualization Using Drone and Deep Learning Technologies](https://www.semanticscholar.org/paper/Building-and-Infrastructure-Defect-Detection-and-Jiang-Han/f809aa00180c6ea16ae0ef13d519cf30d45c3b9a)
+
+[Yuhan Jiang](https://www.semanticscholar.org/author/Yuhan-Jiang/3151506)[Sisi Han](https://www.semanticscholar.org/author/Sisi-Han/9417008)[Yong Bai](https://www.semanticscholar.org/author/Yong-Bai/2115241118)
+
+Engineering, Computer Science
+
+[Journal of Performance of Constructed Facilities](https://www.semanticscholar.org/venue?name=Journal%20of%20Performance%20of%20Constructed%20Facilities)
+
+*   2021
+
+TLDR
+
+An accurate and stable method for object and defect detection and visualization on building and infrastructural facilities using drones and cameras is presented.Expand
+
+*   [23](https://www.semanticscholar.org/paper/f809aa00180c6ea16ae0ef13d519cf30d45c3b9a#citing-papers)
+
+Save
+
+[### Barriers to the implementation of Building Information Modelling (BIM) for facility management](https://www.semanticscholar.org/paper/Barriers-to-the-implementation-of-Building-(BIM)-Durdyev-Ashour/2e249884b6830575b31f391ce16fb1eaa965cb55)
+
+[S. Durdyev](https://www.semanticscholar.org/author/S.-Durdyev/152234705)[Mojtaba Ashour](https://www.semanticscholar.org/author/Mojtaba-Ashour/2136653469)[Scott Connelly](https://www.semanticscholar.org/author/Scott-Connelly/2142154589)[Amir Mahdiyar](https://www.semanticscholar.org/author/Amir-Mahdiyar/5048449)
+
+Engineering
+
+[Journal of Building Engineering](https://www.semanticscholar.org/venue?name=Journal%20of%20Building%20Engineering)
+
+*   2021
+
+*   [85](https://www.semanticscholar.org/paper/2e249884b6830575b31f391ce16fb1eaa965cb55#citing-papers)
+
+Save
+
+[### Automated crack segmentation in close-range building façade inspection images using deep learning techniques](https://www.semanticscholar.org/paper/Automated-crack-segmentation-in-close-range-fa%C3%A7ade-Chen-Reichard/835573d14a7af87b3fcbba8b1b3149412dc91e4c)
+
+[Kaiwen Chen](https://www.semanticscholar.org/author/Kaiwen-Chen/48543120)[Georg Reichard](https://www.semanticscholar.org/author/Georg-Reichard/40039387)[Xin Xu](https://www.semanticscholar.org/author/Xin-Xu/145880439)[A. Akanmu](https://www.semanticscholar.org/author/A.-Akanmu/7947455)
+
+Engineering, Computer Science
+
+*   2021
+
+*   [93](https://www.semanticscholar.org/paper/835573d14a7af87b3fcbba8b1b3149412dc91e4c#citing-papers)
+
+Save
+
+...
+
+1
+
+2
+
+3
+
+4
+
+5
+
+...
+
+Related Papers
+--------------
+
+Showing 1 through 3 of 0 Related Papers
+
+*   [4 Citations](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#citing-papers)
+*   [68 References](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#cited-papers)
+*   [Related Papers](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#related-papers)
+
+Stay Connected With Semantic Scholar
+
+Sign Up
+
+What Is Semantic Scholar?
+-------------------------
+
+Semantic Scholar is a free, AI-powered research tool for scientific literature, based at Ai2.
+
+[Learn More](https://www.semanticscholar.org/about)
+
+### About
+
+[About Us](https://www.semanticscholar.org/about)[Meet the Team](https://www.semanticscholar.org/about/team)[Publishers](https://www.semanticscholar.org/about/publishers)[Blog (opens in a new tab)](https://medium.com/ai2-blog/semantic-scholar/home)[Ai2 Careers (opens in a new tab)](https://allenai.org/careers?team=semantic+scholar#current-openings)
+
+### Product
+
+[Product Overview](https://www.semanticscholar.org/product)[Semantic Reader](https://www.semanticscholar.org/product/semantic-reader)[Scholar's Hub](https://www.semanticscholar.org/product/scholars-hub)[Beta Program](https://www.semanticscholar.org/product/beta-program)[Release Notes](https://www.semanticscholar.org/product/release-notes)
+
+### API
+
+[API Overview](https://www.semanticscholar.org/product/api)[API Tutorials](https://www.semanticscholar.org/product/api%2Ftutorial)[API Documentation (opens in a new tab)](https://api.semanticscholar.org/api-docs/)[API Gallery](https://www.semanticscholar.org/product/api%2Fgallery)
+
+### Research
+
+[Publications](https://www.semanticscholar.org/research/publications)[Researchers](https://www.semanticscholar.org/research/research-team)[Research Careers](https://www.semanticscholar.org/research/careers)[Prototypes](https://www.semanticscholar.org/research/prototypes)[Resources](https://www.semanticscholar.org/resources)
+
+### Help
+
+[FAQ](https://www.semanticscholar.org/faq)[Librarians](https://www.semanticscholar.org/about/librarians)[Tutorials](https://www.semanticscholar.org/product/tutorials)Contact
+
+Proudly built by [Ai2 (opens in a new tab)](http://allenai.org/)
+
+Collaborators & Attributions •[Terms of Service (opens in a new tab)](https://allenai.org/terms)•[Privacy Policy (opens in a new tab)](https://allenai.org/privacy-policy.html)•[API License Agreement](https://www.semanticscholar.org/product/api/license)
+
+[The Allen Institute for AI (opens in a new tab)](http://allenai.org/)
+
+By clicking accept or continuing to use the site, you agree to the terms outlined in our [Privacy Policy (opens in a new tab)](https://allenai.org/privacy-policy.html), [Terms of Service (opens in a new tab)](https://allenai.org/terms), and [Dataset License (opens in a new tab)](http://api.semanticscholar.org/corpus/legal)
+
+ACCEPT & CONTINUE
+
+## Metadata
+
+```json
+{
+  "title": "Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI | Semantic Scholar",
+  "description": "Semantic Scholar extracted view of \"Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI\" by Yuhan Jiang et al.",
+  "url": "https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac",
+  "content": "Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI | Semantic Scholar\n===============\n                                                          \n\n[Skip to search form](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#search-form)[Skip to main content](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#main-content)[Skip to account menu](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#account-menu)\n\n[](https://www.semanticscholar.org/)\n\nSearch 223,685,234 papers from all fields of science\n\nSearch\n\nSign InCreate Free Account\n\n*   DOI:[10.1061/(asce)ae.1943-5568.0000564](https://doi.org/10.1061/%28asce%29ae.1943-5568.0000564)\n    \n*   Corpus ID: 252025497\n\nScan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI\n================================================================================================\n\n@article{Jiang2022Scan4FaadeAA,\n  title={Scan4Façade: Automated As-Is Façade Modeling of Historic High-Rise Buildings Using Drones and AI},\n  author={Yuhan Jiang and Sisi Han and Yong Bai},\n  journal={Journal of Architectural Engineering},\n  year={2022},\n  url={https://api.semanticscholar.org/CorpusID:252025497}\n}\n\n*   [Yuhan Jiang](https://www.semanticscholar.org/author/Yuhan-Jiang/3151506), [Sisi Han](https://www.semanticscholar.org/author/Sisi-Han/9417008), [Yong Bai](https://www.semanticscholar.org/author/Yong-Bai/2115241118)\n*   Published in [Journal of Architectural…](https://www.semanticscholar.org/venue?name=Journal%20of%20Architectural%20Engineering) 1 December 2022\n*   Engineering, Computer Science, History\n\n[View via Publisher](https://doi.org/10.1061/%28asce%29ae.1943-5568.0000564 \"https://doi.org/10.1061/%28asce%29ae.1943-5568.0000564\")\n\n[epublications.marquette.edu](https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1374&context=civengin_fac \"https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1374&context=civengin_fac\")\n\nSave to LibrarySave\n\nCreate AlertAlert\n\nCite\n\nShare\n\n4 Citations\n\n[Methods Citations](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#citing-papers)\n\n2\n\n[View All](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#citing-papers)\n\n4 Citations\n-----------\n\nCitation Type\n\nHas PDF\n\nAuthor\n\nMore Filters\n\nMore Filters\n\nFilters\n\n[### A review on artificial intelligence applications for facades](https://www.semanticscholar.org/paper/A-review-on-artificial-intelligence-applications-Duran-Waibel/8c0b282a5680d1fd30175c045ce61e437137ebf3)\n\n[Ayca Duran](https://www.semanticscholar.org/author/Ayca-Duran/2269015332)[Christoph Waibel](https://www.semanticscholar.org/author/Christoph-Waibel/2269012004)[Valeria Piccioni](https://www.semanticscholar.org/author/Valeria-Piccioni/2331972772)[Bernd Bickel](https://www.semanticscholar.org/author/Bernd-Bickel/2331971996)[A. Schlueter](https://www.semanticscholar.org/author/A.-Schlueter/2269012701)\n\nComputer Science, Environmental Science\n\n[Building and Environment](https://www.semanticscholar.org/venue?name=Building%20and%20Environment)\n\n*   2024\n\nSave\n\n[### HBIM for Conservation of Built Heritage](https://www.semanticscholar.org/paper/HBIM-for-Conservation-of-Built-Heritage-Alshawabkeh-Baik/6bd168da33eaf00e90abee04a0ca75de46de2a80)\n\n[Yahya Alshawabkeh](https://www.semanticscholar.org/author/Yahya-Alshawabkeh/2223745689)[Ahmad Baik](https://www.semanticscholar.org/author/Ahmad-Baik/2303599853)[Yehia H. Miky](https://www.semanticscholar.org/author/Yehia-H.-Miky/72935311)\n\nEngineering, Environmental Science\n\nISPRS Int. J. Geo Inf.\n\n*   2024\n\nBuilding information modeling (BIM) has recently become more popular in historical buildings as a method to rebuild their geometry and collect relevant information. Heritage BIM (HBIM), which… Expand\n\n*   [1](https://www.semanticscholar.org/paper/6bd168da33eaf00e90abee04a0ca75de46de2a80#citing-papers)\n\nSave\n\n[### Identification of historic building “genes” based on deep learning: a case study on Chinese baroque architecture in Harbin, China](https://www.semanticscholar.org/paper/Identification-of-historic-building-%E2%80%9Cgenes%E2%80%9D-based-a-Shao-Sun/b3651313b9b251718ccc2ab28fd30153c6a49e85)\n\n[Long Shao](https://www.semanticscholar.org/author/Long-Shao/2267252975)[Jianqiao Sun](https://www.semanticscholar.org/author/Jianqiao-Sun/2267331672)\n\nEngineering, History\n\n[Heritage Science](https://www.semanticscholar.org/venue?name=Heritage%20Science)\n\n*   2023\n\nTLDR\n\nImproved U-Net models, traditional U- net models, FCN models, and EfficientNet models that incorporate channel attention mechanisms are used to identify historic building genes, obtaining the optimal intelligent recognition for historical architectural genes based on deep learning.Expand\n\n*   [3](https://www.semanticscholar.org/paper/b3651313b9b251718ccc2ab28fd30153c6a49e85#citing-papers)\n*   [PDF](https://www.semanticscholar.org/paper/b3651313b9b251718ccc2ab28fd30153c6a49e85)\n    \n\n*   1 Excerpt\n\nSave\n\n[### A Perspective on AI-Based Image Analysis and Utilization Technologies in Building Engineering: Recent Developments and New Directions](https://www.semanticscholar.org/paper/A-Perspective-on-AI-Based-Image-Analysis-and-in-and-Paduano-Mileto/b8a1ef409e14f859a7e30e242c9af0bff713b0bf)\n\n[I. Paduano](https://www.semanticscholar.org/author/I.-Paduano/2210037273)[A. Mileto](https://www.semanticscholar.org/author/A.-Mileto/2215942143)[E. Lofrano](https://www.semanticscholar.org/author/E.-Lofrano/2271880304)\n\nEngineering, Computer Science\n\n[Buildings](https://www.semanticscholar.org/venue?name=Buildings)\n\n*   2023\n\nTLDR\n\nThis perspective paper collects the last developments on the use of AI in building engineering, highlighting what the authors consider the most stimulating scientific advancements of recent years, with a specific interest in the acquisition and processing of photographic surveys.Expand\n\n*   [10](https://www.semanticscholar.org/paper/b8a1ef409e14f859a7e30e242c9af0bff713b0bf#citing-papers)\n[](https://www.semanticscholar.org/reader/b8a1ef409e14f859a7e30e242c9af0bff713b0bf)\\[PDF\\]\n\n*   1 Excerpt\n\nSave\n\n68 References\n-------------\n\nCitation Type\n\nHas PDF\n\nAuthor\n\nMore Filters\n\nMore Filters\n\nFilters\n\n[### Automatic concrete sidewalk deficiency detection and mapping with deep learning](https://www.semanticscholar.org/paper/Automatic-concrete-sidewalk-deficiency-detection-Jiang-Han/1d8bd980af6b308af6606c757a36d858137228bc)\n\n[Yuhan Jiang](https://www.semanticscholar.org/author/Yuhan-Jiang/3151506)[Sisi Han](https://www.semanticscholar.org/author/Sisi-Han/9417008)[Dapeng Li](https://www.semanticscholar.org/author/Dapeng-Li/2115499783)[Yong Bai](https://www.semanticscholar.org/author/Yong-Bai/2115241118)[Mingzhu Wang](https://www.semanticscholar.org/author/Mingzhu-Wang/145365080)\n\nEngineering, Computer Science\n\n[Expert Syst. Appl.](https://www.semanticscholar.org/venue?name=Expert%20Syst.%20Appl.)\n\n*   2022\n\n*   [11](https://www.semanticscholar.org/paper/1d8bd980af6b308af6606c757a36d858137228bc#citing-papers)\n*   [PDF](https://www.semanticscholar.org/paper/1d8bd980af6b308af6606c757a36d858137228bc)\n    \n\nSave\n\n[### Construction Site Segmentation Using Drone-Based Ortho-Image and Convolutional Encoder-Decoder Network Model](https://www.semanticscholar.org/paper/Construction-Site-Segmentation-Using-Drone-Based-Jiang-Han/7129b8ca95bbeca0f10e9588f0051ef7deece4f8)\n\n[Yuhan Jiang](https://www.semanticscholar.org/author/Yuhan-Jiang/3151506)[Sisi Han](https://www.semanticscholar.org/author/Sisi-Han/9417008)[Yong Bai](https://www.semanticscholar.org/author/Yong-Bai/2115241118)\n\nEngineering, Computer Science\n\nConstruction Research Congress 2022\n\n*   2022\n\n*   [2](https://www.semanticscholar.org/paper/7129b8ca95bbeca0f10e9588f0051ef7deece4f8#citing-papers)\n\nSave\n\n[### DIMENSIONS OF BIM IN LITERATURE: REVIEW AND ANALYSIS](https://www.semanticscholar.org/paper/DIMENSIONS-OF-BIM-IN-LITERATURE%3A-REVIEW-AND-Piaseckien%C4%97/72d81c65a921186e74045a460b81a7faf2410ed3)\n\n[Gintarė Piaseckienė](https://www.semanticscholar.org/author/Gintar%C4%97-Piaseckien%C4%97/2154152433)\n\nEngineering\n\n[Mokslas - Lietuvos ateitis](https://www.semanticscholar.org/venue?name=Mokslas%20-%20Lietuvos%20ateitis)\n\n*   2022\n\nTLDR\n\nThis analysis covers BIM dimensions clarification in science literature adding strengths and weaknesses analysis that has been made for every dimension separately.Expand\n\n*   [5](https://www.semanticscholar.org/paper/72d81c65a921186e74045a460b81a7faf2410ed3#citing-papers)\n*   [PDF](https://www.semanticscholar.org/paper/72d81c65a921186e74045a460b81a7faf2410ed3)\n    \n\nSave\n\n[### Point Cloud Information Modeling: Deep Learning–Based Automated Information Modeling Framework for Point Cloud Data](https://www.semanticscholar.org/paper/Point-Cloud-Information-Modeling%3A-Deep-Automated-Park-Cho/71bf9e0143546effca83b8cbb7aee6362e1b1995)\n\n[Jisoo Park](https://www.semanticscholar.org/author/Jisoo-Park/2109095491)[Yong K. Cho](https://www.semanticscholar.org/author/Yong-K.-Cho/2112408386)\n\nEngineering, Computer Science\n\n[Journal of Construction Engineering and…](https://www.semanticscholar.org/venue?name=Journal%20of%20Construction%20Engineering%20and%20Management)\n\n*   2022\n\n*   [17](https://www.semanticscholar.org/paper/71bf9e0143546effca83b8cbb7aee6362e1b1995#citing-papers)\n\nSave\n\n[### Check and Validation of Building Information Models in Detailed Design Phase: A Check Flow to Pave the Way for BIM Based Renovation and Construction Processes](https://www.semanticscholar.org/paper/Check-and-Validation-of-Building-Information-Models-Andrich-Daniotti/50467642ce47f7bbe4069fd2a41d3cbae11a8cc2)\n\n[William Andrich](https://www.semanticscholar.org/author/William-Andrich/2152458301)[B. Daniotti](https://www.semanticscholar.org/author/B.-Daniotti/19225107)[A. Pavan](https://www.semanticscholar.org/author/A.-Pavan/151489759)[C. Mirarchi](https://www.semanticscholar.org/author/C.-Mirarchi/51187877)\n\nEngineering, Computer Science\n\n[Buildings](https://www.semanticscholar.org/venue?name=Buildings)\n\n*   2022\n\nTLDR\n\nThis work has been developed and intersected with the activities of the H2020 BIM4EEB project considering the need to pave the way for the creation of quality models to facilitate the development of BIM based renovation processes.Expand\n\n*   [11](https://www.semanticscholar.org/paper/50467642ce47f7bbe4069fd2a41d3cbae11a8cc2#citing-papers)\n[](https://www.semanticscholar.org/reader/50467642ce47f7bbe4069fd2a41d3cbae11a8cc2)\\[PDF\\]\n\nSave\n\n[### A review of comprehensiveness, user-friendliness, and contribution for sustainable design of whole building environmental life cycle assessment software tools](https://www.semanticscholar.org/paper/A-review-of-comprehensiveness%2C-user-friendliness%2C-Karunaratne-Dharmarathna/51e9a35b115fa4747bc0911a5f426a168483f9ff)\n\n[S. Karunaratne](https://www.semanticscholar.org/author/S.-Karunaratne/37280502)[Dilshi Dharmarathna](https://www.semanticscholar.org/author/Dilshi-Dharmarathna/2126991417)\n\nEnvironmental Science, Engineering\n\n[Building and Environment](https://www.semanticscholar.org/venue?name=Building%20and%20Environment)\n\n*   2022\n\n*   [16](https://www.semanticscholar.org/paper/51e9a35b115fa4747bc0911a5f426a168483f9ff#citing-papers)\n\nSave\n\n[### 3D characterization of a Boston Ivy double-skin green building facade using a LiDAR system](https://www.semanticscholar.org/paper/3D-characterization-of-a-Boston-Ivy-double-skin-a-P%C3%A9rez-Escol%C3%A0/649ec119089ee8425cb811e028e1a45a851983e1)\n\n[Gabriel Pérez](https://www.semanticscholar.org/author/Gabriel-P%C3%A9rez/2084527144)[A. Escolà](https://www.semanticscholar.org/author/A.-Escol%C3%A0/3238367)+5 authors [E. Gregorio](https://www.semanticscholar.org/author/E.-Gregorio/26679688)\n\nEnvironmental Science, Engineering\n\n[Building and Environment](https://www.semanticscholar.org/venue?name=Building%20and%20Environment)\n\n*   2021\n\n*   [16](https://www.semanticscholar.org/paper/649ec119089ee8425cb811e028e1a45a851983e1#citing-papers)\n\nSave\n\n[### Building and Infrastructure Defect Detection and Visualization Using Drone and Deep Learning Technologies](https://www.semanticscholar.org/paper/Building-and-Infrastructure-Defect-Detection-and-Jiang-Han/f809aa00180c6ea16ae0ef13d519cf30d45c3b9a)\n\n[Yuhan Jiang](https://www.semanticscholar.org/author/Yuhan-Jiang/3151506)[Sisi Han](https://www.semanticscholar.org/author/Sisi-Han/9417008)[Yong Bai](https://www.semanticscholar.org/author/Yong-Bai/2115241118)\n\nEngineering, Computer Science\n\n[Journal of Performance of Constructed Facilities](https://www.semanticscholar.org/venue?name=Journal%20of%20Performance%20of%20Constructed%20Facilities)\n\n*   2021\n\nTLDR\n\nAn accurate and stable method for object and defect detection and visualization on building and infrastructural facilities using drones and cameras is presented.Expand\n\n*   [23](https://www.semanticscholar.org/paper/f809aa00180c6ea16ae0ef13d519cf30d45c3b9a#citing-papers)\n\nSave\n\n[### Barriers to the implementation of Building Information Modelling (BIM) for facility management](https://www.semanticscholar.org/paper/Barriers-to-the-implementation-of-Building-(BIM)-Durdyev-Ashour/2e249884b6830575b31f391ce16fb1eaa965cb55)\n\n[S. Durdyev](https://www.semanticscholar.org/author/S.-Durdyev/152234705)[Mojtaba Ashour](https://www.semanticscholar.org/author/Mojtaba-Ashour/2136653469)[Scott Connelly](https://www.semanticscholar.org/author/Scott-Connelly/2142154589)[Amir Mahdiyar](https://www.semanticscholar.org/author/Amir-Mahdiyar/5048449)\n\nEngineering\n\n[Journal of Building Engineering](https://www.semanticscholar.org/venue?name=Journal%20of%20Building%20Engineering)\n\n*   2021\n\n*   [85](https://www.semanticscholar.org/paper/2e249884b6830575b31f391ce16fb1eaa965cb55#citing-papers)\n\nSave\n\n[### Automated crack segmentation in close-range building façade inspection images using deep learning techniques](https://www.semanticscholar.org/paper/Automated-crack-segmentation-in-close-range-fa%C3%A7ade-Chen-Reichard/835573d14a7af87b3fcbba8b1b3149412dc91e4c)\n\n[Kaiwen Chen](https://www.semanticscholar.org/author/Kaiwen-Chen/48543120)[Georg Reichard](https://www.semanticscholar.org/author/Georg-Reichard/40039387)[Xin Xu](https://www.semanticscholar.org/author/Xin-Xu/145880439)[A. Akanmu](https://www.semanticscholar.org/author/A.-Akanmu/7947455)\n\nEngineering, Computer Science\n\n*   2021\n\n*   [93](https://www.semanticscholar.org/paper/835573d14a7af87b3fcbba8b1b3149412dc91e4c#citing-papers)\n\nSave\n\n...\n\n1\n\n2\n\n3\n\n4\n\n5\n\n...\n\nRelated Papers\n--------------\n\nShowing 1 through 3 of 0 Related Papers\n\n*   [4 Citations](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#citing-papers)\n*   [68 References](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#cited-papers)\n*   [Related Papers](https://www.semanticscholar.org/paper/Scan4Fa%C3%A7ade%3A-Automated-As-Is-Fa%C3%A7ade-Modeling-of-and-Jiang-Han/c3b12562ac3b7d007ff3d8b150f823c0ab936aac#related-papers)\n\nStay Connected With Semantic Scholar\n\nSign Up\n\nWhat Is Semantic Scholar?\n-------------------------\n\nSemantic Scholar is a free, AI-powered research tool for scientific literature, based at Ai2.\n\n[Learn More](https://www.semanticscholar.org/about)\n\n### About\n\n[About Us](https://www.semanticscholar.org/about)[Meet the Team](https://www.semanticscholar.org/about/team)[Publishers](https://www.semanticscholar.org/about/publishers)[Blog (opens in a new tab)](https://medium.com/ai2-blog/semantic-scholar/home)[Ai2 Careers (opens in a new tab)](https://allenai.org/careers?team=semantic+scholar#current-openings)\n\n### Product\n\n[Product Overview](https://www.semanticscholar.org/product)[Semantic Reader](https://www.semanticscholar.org/product/semantic-reader)[Scholar's Hub](https://www.semanticscholar.org/product/scholars-hub)[Beta Program](https://www.semanticscholar.org/product/beta-program)[Release Notes](https://www.semanticscholar.org/product/release-notes)\n\n### API\n\n[API Overview](https://www.semanticscholar.org/product/api)[API Tutorials](https://www.semanticscholar.org/product/api%2Ftutorial)[API Documentation (opens in a new tab)](https://api.semanticscholar.org/api-docs/)[API Gallery](https://www.semanticscholar.org/product/api%2Fgallery)\n\n### Research\n\n[Publications](https://www.semanticscholar.org/research/publications)[Researchers](https://www.semanticscholar.org/research/research-team)[Research Careers](https://www.semanticscholar.org/research/careers)[Prototypes](https://www.semanticscholar.org/research/prototypes)[Resources](https://www.semanticscholar.org/resources)\n\n### Help\n\n[FAQ](https://www.semanticscholar.org/faq)[Librarians](https://www.semanticscholar.org/about/librarians)[Tutorials](https://www.semanticscholar.org/product/tutorials)Contact\n\nProudly built by [Ai2 (opens in a new tab)](http://allenai.org/)\n\nCollaborators & Attributions •[Terms of Service (opens in a new tab)](https://allenai.org/terms)•[Privacy Policy (opens in a new tab)](https://allenai.org/privacy-policy.html)•[API License Agreement](https://www.semanticscholar.org/product/api/license)\n\n[The Allen Institute for AI (opens in a new tab)](http://allenai.org/)\n\nBy clicking accept or continuing to use the site, you agree to the terms outlined in our [Privacy Policy (opens in a new tab)](https://allenai.org/privacy-policy.html), [Terms of Service (opens in a new tab)](https://allenai.org/terms), and [Dataset License (opens in a new tab)](http://api.semanticscholar.org/corpus/legal)\n\nACCEPT & CONTINUE",
+  "usage": {
+    "tokens": 5654
+  }
+}
+```

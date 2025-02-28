@@ -1,0 +1,5 @@
+(hi! just btw you have to be logged in to be able to add/delete/curate tags for papers and get recommendations)
+
+Rank by: tags: pid: time\_filter (days): svm\_c: skip\_have:
+
+Shortcuts: [recommend over last week](https://www.arxiv-sanity-lite.com/?rank=tags&tags=all&time_filter=7&skip_have=yes) [recommend over last 3 days](https://www.arxiv-sanity-lite.com/?rank=tags&tags=all&time_filter=3&skip_have=yes) [recent](https://www.arxiv-sanity-lite.com/?rank=time) [random last week](https://www.arxiv-sanity-lite.com/?rank=random&time_filter=7)

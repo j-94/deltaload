@@ -1,0 +1,178 @@
+HASH - a workspace for structured knowledge.
+===============
+
+[](https://hash.ai/)
+
+[Use Cases](https://hash.ai/cases)[Learn](https://hash.ai/learn)
+
+[Sign in](https://app.hash.ai/signin)[Sign up](https://app.hash.ai/signup)
+
+[Use Cases](https://hash.ai/cases)
+
+* * *
+
+[Learn](https://hash.ai/guide)
+
+* * *
+
+[Sign in](https://app.hash.ai/signin)[Sign up](https://hash.ai/guide/introduction/get-started)
+
+The open-source
+
+Self-building database
+======================
+
+###### Data you can trust, powering AI in your own private web
+
+Get Started
+
+​
+
+By creating an account you agree to our  
+[Terms of Use](https://hash.ai/legal/terms) and [Privacy Policy](https://hash.ai/legal/privacy)
+
+#### Play video
+
+Get an overview (2:47)
+
+Sync data in and out...from apps you already use, and with other user’s webs
+
+Apps, files, messages…
+
+…work, emails, friends
+
+…the world wide web
+
+Passively as you browse
+
+Entities created and enriched as you browse
+
+Actively in the background
+
+Specify questions, areas and entities of interest for AI to research and keep fresh
+
+Deduplicated
+
+Cleaned
+
+![Image 3: Earth](https://hash.ai/_next/image?url=%2Fimages%2Fearth.png&w=384&q=75)
+
+And info from other HASH webs
+
+Family web
+
+Public webs
+
+Your web
+
+Friends' webs
+
+Your company's web
+
+[View all integrations](https://hash.ai/integrations)
+
+Use your web
+============
+
+![Image 4: Card Image](https://hash.ai/_next/image?url=https%3A%2F%2Fhash.ai%2Fcdn-cgi%2Fimagedelivery%2FEipKtqu98OotgfhvKf6Eew%2F072a2ca0-96a7-4cf5-4bc5-c1ff17f50800%2Fpublic&w=3840&q=75)
+
+Supercharged AI
+
+Connect ChatGPT or other AIs securely to your web, giving them new powers  
+
+Docs and pages
+
+βBeta
+
+Use knowledge from your web to create rich, interactive pages  
+
+Dashboards
+
+βBeta
+
+Visualize information with ease, using drag ‘n’ drop blocks  
+
+Apps and tools
+
+Planned
+
+Build apps atop your data, customized to your needs, without writing any code  
+
+Supercharged AI
+
+Connect ChatGPT or other AIs securely to your web, giving them new powers  
+
+Docs and pages
+
+Use knowledge from your web to create rich, interactive pages  
+
+Dashboards
+
+Visualize information with ease, using drag ‘n’ drop blocks  
+
+Apps and tools
+
+Build apps atop your data, customized to your needs, without writing any code  
+
+How it works
+============
+
+Private and secure
+
+Data is private, unless you choose to share it. You can also publish information publicly to the internet.  More
+
+2-way sync
+
+Because data is “typed” it can be synced in and out of the existing apps, tools and databases you already use.  More
+
+Open source
+
+Available under a fully open-source license. No BSL BS, Elastic evasion, or proprietary license headaches.  
+
+Multiplayer
+
+A globally connected knowledge graph. Share and interlink with others.  
+
+Infinite history
+
+View your web as it existed at any point in time, and retrieve old data.  
+
+Provenance assured
+
+See where information came from, who modified it, and how it evolved.  More
+
+[Curious about what we’re building? Learn more about our plans](https://hash.ai/about)
+
+Create a free account
+
+Sign up to try **HASH** out for yourself, and see what all the fuss is about
+
+Create account
+
+​
+
+By signing up you agree to our [terms and conditions](https://hash.ai/legal/terms) and [privacy policy](https://hash.ai/legal/privacy)
+
+[](https://hash.ai/)
+
+[Create an account](https://app.hash.ai/signup)[Download HASH](https://hash.ai/guide/introduction/get-started)
+
+* * *
+
+Company
+
+[About](https://hash.ai/about)[Blog](https://hash.ai/blog)[Careers](https://hash.ai/careers)[Contact](https://hash.ai/contact)
+
+Learn
+
+[User Guide](https://hash.ai/guide/introduction)[Getting Started](https://hash.ai/guide/introduction/get-started)[Glossary](https://hash.ai/glossary)
+
+[Developers](https://hash.dev/)[Developer Blog](https://hash.dev/blog)[Developer Docs](https://hash.dev/docs)[Tech Tree](https://hash.dev/roadmap)
+
+[](https://x.com/hashintel)[](https://www.linkedin.com/company/hashintel)[](https://github.com/hashintel/hash)
+
+###### [Legal](https://hash.ai/legal)[Privacy](https://hash.ai/legal/privacy)[Security](https://hash.ai/security)
+
+###### Status
+
+© HASH 2025

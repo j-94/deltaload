@@ -1,0 +1,13 @@
+Oh no, the app just crashed!
+
+If this keeps happening, please [contact us](https://www.relume.io/troubleshooting).
+
+Technical details:
+
+TypeError: Cannot read properties of undefined (reading 'match')
+    at l (https://www.relume.io/app/js/main.72fcb00a6e24e952b581.js:2:2071578)
+    at div
+    at https://www.relume.io/app/js/main.72fcb00a6e24e952b581.js:2:4127217
+    at Mv (https://www.relume.io/app/js/main.72fcb00a6e24e952b581.js:2:1701880)
+    at div
+    at https://www.relume.io/app/js/main.72fcb00a6e24e952b581.js:2:4126450

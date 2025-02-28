@@ -1,0 +1,15 @@
+Prompt-friendly  
+codebase 
+---------------------------
+
+Turn any Git repository into a simple text digest of its codebase.
+
+This is useful for feeding a codebase into any LLM.
+
+![Image 3](https://cdn.devdojo.com/images/january2023/shape-1.png)
+
+Include files under: 50kb
+
+Try these example repositories:
+
+You can also replace 'hub' with 'ingest' in any GitHub URL.

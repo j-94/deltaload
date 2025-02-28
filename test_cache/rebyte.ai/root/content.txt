@@ -1,0 +1,52 @@
+Code Agent For Your Own Data
+
+*   Introducing Ada
+    
+    Autonomous Code Agent For Your Data
+    -----------------------------------
+    
+    Turn hours of data work into minutes, let AI write and run code for you.  
+    Unlock the hidden potential in your data, and automate repetitive tasks.
+    
+    [Try Now](https://rebyte.ai/login?redirect=/p)
+    
+*   Builder
+    
+    Customized Agent Behavior
+    -------------------------
+    
+    Create composable and self-explanatory data units that can be easily consumed by LLM.  
+    Build custom LLM workflow on top of data units to capture your business logic.
+    
+    [Start Building](https://rebyte.ai/login?redirect=/developer)
+    
+
+Goal
+----
+
+### Unlocking the Full Potential of LLMs with Your Data
+
+### Fragmented and Inconsistent Data Sources
+
+Applications often need to integrate data from various sources and extract only the relevant portions. Enterprises are generally resistant to changing how they store data, making it difficult to align these fragmented and inconsistent data systems with LLM requirements.
+
+### Garbage in, garbage out
+
+The quality of data to LLM directly impacts the performance of LLMs. Low-quality, unstructured, or poorly labeled data can lead to inaccurate, irrelevant, or even harmful model outputs.
+
+### Data Exploration: A Specialized Expertise
+
+Data exploration often becomes a specialized skill held by certain data scientists and programmers. This is because it requires a unique blend of data expertise and coding proficiency. Individuals with this combined skillset are often rare, leading to data exploration becoming the domain of a select few.
+
+Solution
+--------
+
+### Table Augumented Generation + Autonomous Code Agent
+
+How it works
+------------
+
+### Just 3 steps to get started
+
+Use Cases
+---------

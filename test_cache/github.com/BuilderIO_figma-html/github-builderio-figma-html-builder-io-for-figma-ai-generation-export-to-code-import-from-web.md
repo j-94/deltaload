@@ -1,0 +1,894 @@
+---
+title: GitHub - BuilderIO/figma-html: Builder.io for Figma: AI generation, export to code, import from web
+description: Builder.io for Figma: AI generation, export to code, import from web - BuilderIO/figma-html
+url: https://github.com/BuilderIO/figma-html
+timestamp: 2025-01-20T15:31:21.838Z
+domain: github.com
+path: BuilderIO_figma-html
+---
+
+# GitHub - BuilderIO/figma-html: Builder.io for Figma: AI generation, export to code, import from web
+
+
+Builder.io for Figma: AI generation, export to code, import from web - BuilderIO/figma-html
+
+
+## Content
+
+GitHub - BuilderIO/figma-html: Builder.io for Figma: AI generation, export to code, import from web
+===============                                         
+
+[Skip to content](https://github.com/BuilderIO/figma-html?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FBuilderIO%2Ffigma-html%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FBuilderIO%2Ffigma-html%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=BuilderIO%2Ffigma-html) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[BuilderIO](https://github.com/BuilderIO) / **[figma-html](https://github.com/BuilderIO/figma-html)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2FBuilderIO%2Ffigma-html) You must be signed in to change notification settings
+*   [Fork 304](https://github.com/login?return_to=%2FBuilderIO%2Ffigma-html)
+*   [Star 3.2k](https://github.com/login?return_to=%2FBuilderIO%2Ffigma-html)
+    
+
+Builder.io for Figma: AI generation, export to code, import from web
+
+[www.figma.com/community/plugin/747985167520967365](https://www.figma.com/community/plugin/747985167520967365 "https://www.figma.com/community/plugin/747985167520967365")
+
+### License
+
+[MIT license](https://github.com/BuilderIO/figma-html/blob/master/LICENSE.md)
+
+[3.2k stars](https://github.com/BuilderIO/figma-html/stargazers) [304 forks](https://github.com/BuilderIO/figma-html/forks) [Branches](https://github.com/BuilderIO/figma-html/branches) [Tags](https://github.com/BuilderIO/figma-html/tags) [Activity](https://github.com/BuilderIO/figma-html/activity)
+
+[Star](https://github.com/login?return_to=%2FBuilderIO%2Ffigma-html)
+
+[Notifications](https://github.com/login?return_to=%2FBuilderIO%2Ffigma-html) You must be signed in to change notification settings
+
+*   [Code](https://github.com/BuilderIO/figma-html)
+*   [Issues 51](https://github.com/BuilderIO/figma-html/issues)
+*   [Pull requests 8](https://github.com/BuilderIO/figma-html/pulls)
+*   [Actions](https://github.com/BuilderIO/figma-html/actions)
+*   [Projects 0](https://github.com/BuilderIO/figma-html/projects)
+*   [Security](https://github.com/BuilderIO/figma-html/security)
+*   [Insights](https://github.com/BuilderIO/figma-html/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/BuilderIO/figma-html)
+*   [Issues](https://github.com/BuilderIO/figma-html/issues)
+*   [Pull requests](https://github.com/BuilderIO/figma-html/pulls)
+*   [Actions](https://github.com/BuilderIO/figma-html/actions)
+*   [Projects](https://github.com/BuilderIO/figma-html/projects)
+*   [Security](https://github.com/BuilderIO/figma-html/security)
+*   [Insights](https://github.com/BuilderIO/figma-html/pulse)
+
+BuilderIO/figma-html
+====================
+
+  
+
+ master
+
+[Branches](https://github.com/BuilderIO/figma-html/branches)[Tags](https://github.com/BuilderIO/figma-html/tags)
+
+[](https://github.com/BuilderIO/figma-html/branches)[](https://github.com/BuilderIO/figma-html/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+History
+-------
+
+[231 Commits](https://github.com/BuilderIO/figma-html/commits/master/)
+
+[](https://github.com/BuilderIO/figma-html/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github/ISSUE\_TEMPLATE](https://github.com/BuilderIO/figma-html/tree/master/.github/ISSUE_TEMPLATE "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[.github/ISSUE\_TEMPLATE](https://github.com/BuilderIO/figma-html/tree/master/.github/ISSUE_TEMPLATE "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[assets](https://github.com/BuilderIO/figma-html/tree/master/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[assets](https://github.com/BuilderIO/figma-html/tree/master/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[chrome-extension](https://github.com/BuilderIO/figma-html/tree/master/chrome-extension "chrome-extension")
+
+
+
+
+
+
+
+ | 
+
+[chrome-extension](https://github.com/BuilderIO/figma-html/tree/master/chrome-extension "chrome-extension")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[lib](https://github.com/BuilderIO/figma-html/tree/master/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+[lib](https://github.com/BuilderIO/figma-html/tree/master/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[plugin](https://github.com/BuilderIO/figma-html/tree/master/plugin "plugin")
+
+
+
+
+
+
+
+ | 
+
+[plugin](https://github.com/BuilderIO/figma-html/tree/master/plugin "plugin")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[shared](https://github.com/BuilderIO/figma-html/tree/master/shared "shared")
+
+
+
+
+
+
+
+ | 
+
+[shared](https://github.com/BuilderIO/figma-html/tree/master/shared "shared")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.gitignore](https://github.com/BuilderIO/figma-html/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/BuilderIO/figma-html/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.nvmrc](https://github.com/BuilderIO/figma-html/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/BuilderIO/figma-html/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[CODEOWNERS](https://github.com/BuilderIO/figma-html/blob/master/CODEOWNERS "CODEOWNERS")
+
+
+
+
+
+
+
+ | 
+
+[CODEOWNERS](https://github.com/BuilderIO/figma-html/blob/master/CODEOWNERS "CODEOWNERS")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[DEVELOP.md](https://github.com/BuilderIO/figma-html/blob/master/DEVELOP.md "DEVELOP.md")
+
+
+
+
+
+
+
+ | 
+
+[DEVELOP.md](https://github.com/BuilderIO/figma-html/blob/master/DEVELOP.md "DEVELOP.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[LICENSE.md](https://github.com/BuilderIO/figma-html/blob/master/LICENSE.md "LICENSE.md")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE.md](https://github.com/BuilderIO/figma-html/blob/master/LICENSE.md "LICENSE.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[README.md](https://github.com/BuilderIO/figma-html/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/BuilderIO/figma-html/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[manifest.json](https://github.com/BuilderIO/figma-html/blob/master/manifest.json "manifest.json")
+
+
+
+
+
+
+
+ | 
+
+[manifest.json](https://github.com/BuilderIO/figma-html/blob/master/manifest.json "manifest.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[package-lock.json](https://github.com/BuilderIO/figma-html/blob/master/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/BuilderIO/figma-html/blob/master/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[package.json](https://github.com/BuilderIO/figma-html/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/BuilderIO/figma-html/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[tsconfig.json](https://github.com/BuilderIO/figma-html/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/BuilderIO/figma-html/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[webpack.config.js](https://github.com/BuilderIO/figma-html/blob/master/webpack.config.js "webpack.config.js")
+
+
+
+
+
+
+
+ | 
+
+[webpack.config.js](https://github.com/BuilderIO/figma-html/blob/master/webpack.config.js "webpack.config.js")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/BuilderIO/figma-html?screenshot=true#)
+*   [MIT license](https://github.com/BuilderIO/figma-html?screenshot=true#)
+
+Builder.io for Figma: AI generation, export to code, import from web
+====================================================================
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#builderio-for-figma-ai-generation-export-to-code-import-from-web)
+
+[![Image 14: Figma to HTML title](https://camo.githubusercontent.com/a7fe84cabdb4c4733c8377447170130e82f4267a5b276a5ece71f4800ffce6bb/68747470733a2f2f63646e2e6275696c6465722e696f2f6170692f76312f696d6167652f617373657473253246594a494762346930316a7677305352644c3542742532466561666438653162396239303465353662666232316161633562333537383230)](https://camo.githubusercontent.com/a7fe84cabdb4c4733c8377447170130e82f4267a5b276a5ece71f4800ffce6bb/68747470733a2f2f63646e2e6275696c6465722e696f2f6170692f76312f696d6167652f617373657473253246594a494762346930316a7677305352644c3542742532466561666438653162396239303465353662666232316161633562333537383230)
+
+Teach Figma how to speak code: generate designs via AI, convert designs to code, import from web.
+
+How does it work
+----------------
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#how-does-it-work)
+
+### Generate designs via AI
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#generate-designs-via-ai)
+
+1.  [Install the plugin](https://www.figma.com/c/plugin/747985167520967365/HTML-To-Figma)
+2.  Create an [OpenAI account](https://platform.openai.com/signup), grab your [OpenAI key](https://platform.openai.com/account/api-keys), make sure you have [billing enabled](https://platform.openai.com/account/billing/overview), and add your API key in the plugin
+3.  Enter a prompt, and watch AI design in real time!
+
+Troubleshooting: if having trouble with your OpenAI API calls, please follow [this guide](https://help.openai.com/en/articles/6891831-error-code-429-you-exceeded-your-current-quota-please-check-your-plan-and-billing-details)
+
+### Export designs to code
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#export-designs-to-code)
+
+1.  [Install the plugin](https://www.figma.com/c/plugin/747985167520967365/HTML-To-Figma)
+2.  Ensure all layers you want to import use autolayout as described [here](https://www.builder.io/c/docs/import-from-figma)
+3.  Click the "get code" button to launch into the [Builder.io](https://www.builder.io/) editor
+4.  Make any final adjustments, and click "get code" at the top of Builder to view code output, or copy and paste it to content of a Builder account to publish live
+
+Supports many code outputs, such as React, Vue, Svelte, Qwik, Solid, plain HTML/CSS, and more via [Mitosis](https://github.com/builderio/mitosis)
+
+### Import webpages to Figma designs
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#import-webpages-to-figma-designs)
+
+1.  [Install the plugin](https://www.figma.com/c/plugin/747985167520967365/HTML-To-Figma)
+2.  In Figma, open a new or existing document, then hit cmd+/ and search "html figma" and hit enter
+3.  Enter a URL you want to import
+
+Why?
+----
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#why)
+
+*   Instantly convert designs into live webpages and code
+*   Easily import real live site styles for a starting point for designs and prototypes
+*   Quickly turn real site components into design components
+*   Easy import from storybook, etc
+
+Chrome Extension
+----------------
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#chrome-extension)
+
+Want to capture a page behind an auth wall, or in a specific state you need to navigate to? Then the [chrome extension](https://chrome.google.com/webstore/detail/efjcmgblfpkhbjpkpopkgeomfkokpaim) is for you!
+
+Using the library
+-----------------
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#using-the-library)
+
+```js
+// npm install @builder.io/html-to-figma
+import { htmlToFigma } from "@builder.io/html-to-figma";
+const layers = htmlToFigma(document.body);
+// E.g. send these to the REST API, or generate a .figma.json file that can be uploaded through the Figma plugin
+```
+
+Auto-layout Vectors
+-------------------
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#auto-layout-vectors)
+
+When exporting Figma to Builder, the plugin requires all elements to be in auto-layout. However, it's not possible to auto-layout a vector. The alternative here is to use Figma's `rasterize selection` command on your vector. If the output of that is too low-resolution, then you can try this plugin: [https://www.figma.com/community/plugin/837846252158418235/Flatten-Selection-to-Bitmap](https://www.figma.com/community/plugin/837846252158418235/Flatten-Selection-to-Bitmap).
+
+If you want the Builder end-result to have a vector, then consider this rasterized selection as a placeholder, and swap it back with an SVG in the Builder editor.
+
+Limitations
+-----------
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#limitations)
+
+Importing HTML layers to Figma is a best-effort process. Even getting 90% there can save you a ton of time, only having to clean up a few things.
+
+A few known limitations:
+
+*   not all element types are supported (e.g. iframe, pseudoelements)
+*   not all CSS properties are supported or fully supported
+*   not all types of media are supported (video, animated gifs, etc)
+*   all fonts have to be uploaded to Figma or a best effort fallback will be used
+
+If you find any issues or have feedback at all please [make an issue](https://github.com/BuilderIO/html-to-figma/issues/new)
+
+Architecture
+------------
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#architecture)
+
+*   `builder.io/api/v1/html-to-figma`: API endpoint that converts a URL's layout to a Figma design. The logic of that endpoint lives in this repo, under [./lib/html-to-figma](https://github.com/BuilderIO/figma-html/blob/master/lib/html-to-figma).
+*   `builder.io/api/v1/figma-to-builder`: API endpoint that converts a Figma design to a Builder content JSON. The logic of that endpoint lives in Builder's API.
+
+DEVELOP
+-------
+
+[](https://github.com/BuilderIO/figma-html?screenshot=true#develop)
+
+Read [DEVELOP.md](https://github.com/BuilderIO/figma-html/blob/master/DEVELOP.md)
+
+[![Image 15: Made with love by Builder.io](https://user-images.githubusercontent.com/844291/230786555-a58479e4-75f3-4222-a6eb-74c5af953eac.png)](https://www.builder.io/m/developers)
+
+About
+-----
+
+Builder.io for Figma: AI generation, export to code, import from web
+
+[www.figma.com/community/plugin/747985167520967365](https://www.figma.com/community/plugin/747985167520967365 "https://www.figma.com/community/plugin/747985167520967365")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [chrome-extension](https://github.com/topics/chrome-extension "Topic: chrome-extension") [html](https://github.com/topics/html "Topic: html") [design-systems](https://github.com/topics/design-systems "Topic: design-systems") [angular](https://github.com/topics/angular "Topic: angular") [typescript](https://github.com/topics/typescript "Topic: typescript") [vue](https://github.com/topics/vue "Topic: vue") [svelte](https://github.com/topics/svelte "Topic: svelte") [storybook](https://github.com/topics/storybook "Topic: storybook") [figma](https://github.com/topics/figma "Topic: figma") [design-tools](https://github.com/topics/design-tools "Topic: design-tools") [no-code](https://github.com/topics/no-code "Topic: no-code") [figma-plugins](https://github.com/topics/figma-plugins "Topic: figma-plugins") [design-to-code](https://github.com/topics/design-to-code "Topic: design-to-code") [figma-plugin](https://github.com/topics/figma-plugin "Topic: figma-plugin") [jsx-lite](https://github.com/topics/jsx-lite "Topic: jsx-lite")
+
+### Resources
+
+[Readme](https://github.com/BuilderIO/figma-html?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/BuilderIO/figma-html?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/BuilderIO/figma-html/activity)
+
+[Custom properties](https://github.com/BuilderIO/figma-html/custom-properties)
+
+### Stars
+
+[**3.2k** stars](https://github.com/BuilderIO/figma-html/stargazers)
+
+### Watchers
+
+[**31** watching](https://github.com/BuilderIO/figma-html/watchers)
+
+### Forks
+
+[**304** forks](https://github.com/BuilderIO/figma-html/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FBuilderIO%2Ffigma-html&report=BuilderIO+%28user%29)
+
+[Releases](https://github.com/BuilderIO/figma-html/releases)
+------------------------------------------------------------
+
+No releases published
+
+[Packages 0](https://github.com/orgs/BuilderIO/packages?repo_name=figma-html)
+-----------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 9](https://github.com/BuilderIO/figma-html/graphs/contributors)
+-----------------------------------------------------------------------------
+
+*   [![Image 16: @steve8708](https://avatars.githubusercontent.com/u/844291?s=64&v=4)](https://github.com/steve8708)
+*   [![Image 17: @samijaber](https://avatars.githubusercontent.com/u/1393142?s=64&v=4)](https://github.com/samijaber)
+*   [![Image 18: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 19: @harmeet-builder](https://avatars.githubusercontent.com/u/105281401?s=64&v=4)](https://github.com/harmeet-builder)
+*   [![Image 20: @shyam-builder](https://avatars.githubusercontent.com/u/97863898?s=64&v=4)](https://github.com/shyam-builder)
+*   [![Image 21: @patrickkettner](https://avatars.githubusercontent.com/u/465414?s=64&v=4)](https://github.com/patrickkettner)
+*   [![Image 22: @manucorporat](https://avatars.githubusercontent.com/u/127379?s=64&v=4)](https://github.com/manucorporat)
+*   [![Image 23: @PatrickJS](https://avatars.githubusercontent.com/u/1016365?s=64&v=4)](https://github.com/PatrickJS)
+*   [![Image 24: @AntonGoldobin](https://avatars.githubusercontent.com/u/29868103?s=64&v=4)](https://github.com/AntonGoldobin)
+
+Languages
+---------
+
+*   [TypeScript 93.5%](https://github.com/BuilderIO/figma-html/search?l=typescript)
+*   [JavaScript 4.8%](https://github.com/BuilderIO/figma-html/search?l=javascript)
+*   [HTML 1.3%](https://github.com/BuilderIO/figma-html/search?l=html)
+*   [CSS 0.4%](https://github.com/BuilderIO/figma-html/search?l=css)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - BuilderIO/figma-html: Builder.io for Figma: AI generation, export to code, import from web",
+  "description": "Builder.io for Figma: AI generation, export to code, import from web - BuilderIO/figma-html",
+  "url": "https://github.com/BuilderIO/figma-html?screenshot=true",
+  "content": "GitHub - BuilderIO/figma-html: Builder.io for Figma: AI generation, export to code, import from web\n===============                                         \n\n[Skip to content](https://github.com/BuilderIO/figma-html?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FBuilderIO%2Ffigma-html%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FBuilderIO%2Ffigma-html%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=BuilderIO%2Ffigma-html) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[BuilderIO](https://github.com/BuilderIO) / **[figma-html](https://github.com/BuilderIO/figma-html)** Public\n\n*   [Notifications](https://github.com/login?return_to=%2FBuilderIO%2Ffigma-html) You must be signed in to change notification settings\n*   [Fork 304](https://github.com/login?return_to=%2FBuilderIO%2Ffigma-html)\n*   [Star 3.2k](https://github.com/login?return_to=%2FBuilderIO%2Ffigma-html)\n    \n\nBuilder.io for Figma: AI generation, export to code, import from web\n\n[www.figma.com/community/plugin/747985167520967365](https://www.figma.com/community/plugin/747985167520967365 \"https://www.figma.com/community/plugin/747985167520967365\")\n\n### License\n\n[MIT license](https://github.com/BuilderIO/figma-html/blob/master/LICENSE.md)\n\n[3.2k stars](https://github.com/BuilderIO/figma-html/stargazers) [304 forks](https://github.com/BuilderIO/figma-html/forks) [Branches](https://github.com/BuilderIO/figma-html/branches) [Tags](https://github.com/BuilderIO/figma-html/tags) [Activity](https://github.com/BuilderIO/figma-html/activity)\n\n[Star](https://github.com/login?return_to=%2FBuilderIO%2Ffigma-html)\n\n[Notifications](https://github.com/login?return_to=%2FBuilderIO%2Ffigma-html) You must be signed in to change notification settings\n\n*   [Code](https://github.com/BuilderIO/figma-html)\n*   [Issues 51](https://github.com/BuilderIO/figma-html/issues)\n*   [Pull requests 8](https://github.com/BuilderIO/figma-html/pulls)\n*   [Actions](https://github.com/BuilderIO/figma-html/actions)\n*   [Projects 0](https://github.com/BuilderIO/figma-html/projects)\n*   [Security](https://github.com/BuilderIO/figma-html/security)\n*   [Insights](https://github.com/BuilderIO/figma-html/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/BuilderIO/figma-html)\n*   [Issues](https://github.com/BuilderIO/figma-html/issues)\n*   [Pull requests](https://github.com/BuilderIO/figma-html/pulls)\n*   [Actions](https://github.com/BuilderIO/figma-html/actions)\n*   [Projects](https://github.com/BuilderIO/figma-html/projects)\n*   [Security](https://github.com/BuilderIO/figma-html/security)\n*   [Insights](https://github.com/BuilderIO/figma-html/pulse)\n\nBuilderIO/figma-html\n====================\n\n  \n\n master\n\n[Branches](https://github.com/BuilderIO/figma-html/branches)[Tags](https://github.com/BuilderIO/figma-html/tags)\n\n[](https://github.com/BuilderIO/figma-html/branches)[](https://github.com/BuilderIO/figma-html/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\nHistory\n-------\n\n[231 Commits](https://github.com/BuilderIO/figma-html/commits/master/)\n\n[](https://github.com/BuilderIO/figma-html/commits/master/)\n\n\n\n\n\n\n\n |\n| \n\n[.github/ISSUE\\_TEMPLATE](https://github.com/BuilderIO/figma-html/tree/master/.github/ISSUE_TEMPLATE \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[.github/ISSUE\\_TEMPLATE](https://github.com/BuilderIO/figma-html/tree/master/.github/ISSUE_TEMPLATE \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[assets](https://github.com/BuilderIO/figma-html/tree/master/assets \"assets\")\n\n\n\n\n\n\n\n | \n\n[assets](https://github.com/BuilderIO/figma-html/tree/master/assets \"assets\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[chrome-extension](https://github.com/BuilderIO/figma-html/tree/master/chrome-extension \"chrome-extension\")\n\n\n\n\n\n\n\n | \n\n[chrome-extension](https://github.com/BuilderIO/figma-html/tree/master/chrome-extension \"chrome-extension\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[lib](https://github.com/BuilderIO/figma-html/tree/master/lib \"lib\")\n\n\n\n\n\n\n\n | \n\n[lib](https://github.com/BuilderIO/figma-html/tree/master/lib \"lib\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[plugin](https://github.com/BuilderIO/figma-html/tree/master/plugin \"plugin\")\n\n\n\n\n\n\n\n | \n\n[plugin](https://github.com/BuilderIO/figma-html/tree/master/plugin \"plugin\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[shared](https://github.com/BuilderIO/figma-html/tree/master/shared \"shared\")\n\n\n\n\n\n\n\n | \n\n[shared](https://github.com/BuilderIO/figma-html/tree/master/shared \"shared\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[.gitignore](https://github.com/BuilderIO/figma-html/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/BuilderIO/figma-html/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[.nvmrc](https://github.com/BuilderIO/figma-html/blob/master/.nvmrc \".nvmrc\")\n\n\n\n\n\n\n\n | \n\n[.nvmrc](https://github.com/BuilderIO/figma-html/blob/master/.nvmrc \".nvmrc\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[CODEOWNERS](https://github.com/BuilderIO/figma-html/blob/master/CODEOWNERS \"CODEOWNERS\")\n\n\n\n\n\n\n\n | \n\n[CODEOWNERS](https://github.com/BuilderIO/figma-html/blob/master/CODEOWNERS \"CODEOWNERS\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[DEVELOP.md](https://github.com/BuilderIO/figma-html/blob/master/DEVELOP.md \"DEVELOP.md\")\n\n\n\n\n\n\n\n | \n\n[DEVELOP.md](https://github.com/BuilderIO/figma-html/blob/master/DEVELOP.md \"DEVELOP.md\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[LICENSE.md](https://github.com/BuilderIO/figma-html/blob/master/LICENSE.md \"LICENSE.md\")\n\n\n\n\n\n\n\n | \n\n[LICENSE.md](https://github.com/BuilderIO/figma-html/blob/master/LICENSE.md \"LICENSE.md\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[README.md](https://github.com/BuilderIO/figma-html/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/BuilderIO/figma-html/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[manifest.json](https://github.com/BuilderIO/figma-html/blob/master/manifest.json \"manifest.json\")\n\n\n\n\n\n\n\n | \n\n[manifest.json](https://github.com/BuilderIO/figma-html/blob/master/manifest.json \"manifest.json\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[package-lock.json](https://github.com/BuilderIO/figma-html/blob/master/package-lock.json \"package-lock.json\")\n\n\n\n\n\n\n\n | \n\n[package-lock.json](https://github.com/BuilderIO/figma-html/blob/master/package-lock.json \"package-lock.json\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[package.json](https://github.com/BuilderIO/figma-html/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[package.json](https://github.com/BuilderIO/figma-html/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[tsconfig.json](https://github.com/BuilderIO/figma-html/blob/master/tsconfig.json \"tsconfig.json\")\n\n\n\n\n\n\n\n | \n\n[tsconfig.json](https://github.com/BuilderIO/figma-html/blob/master/tsconfig.json \"tsconfig.json\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\n[webpack.config.js](https://github.com/BuilderIO/figma-html/blob/master/webpack.config.js \"webpack.config.js\")\n\n\n\n\n\n\n\n | \n\n[webpack.config.js](https://github.com/BuilderIO/figma-html/blob/master/webpack.config.js \"webpack.config.js\")\n\n\n\n\n\n\n\n | \n\n | \n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/BuilderIO/figma-html?screenshot=true#)\n*   [MIT license](https://github.com/BuilderIO/figma-html?screenshot=true#)\n\nBuilder.io for Figma: AI generation, export to code, import from web\n====================================================================\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#builderio-for-figma-ai-generation-export-to-code-import-from-web)\n\n[![Image 14: Figma to HTML title](https://camo.githubusercontent.com/a7fe84cabdb4c4733c8377447170130e82f4267a5b276a5ece71f4800ffce6bb/68747470733a2f2f63646e2e6275696c6465722e696f2f6170692f76312f696d6167652f617373657473253246594a494762346930316a7677305352644c3542742532466561666438653162396239303465353662666232316161633562333537383230)](https://camo.githubusercontent.com/a7fe84cabdb4c4733c8377447170130e82f4267a5b276a5ece71f4800ffce6bb/68747470733a2f2f63646e2e6275696c6465722e696f2f6170692f76312f696d6167652f617373657473253246594a494762346930316a7677305352644c3542742532466561666438653162396239303465353662666232316161633562333537383230)\n\nTeach Figma how to speak code: generate designs via AI, convert designs to code, import from web.\n\nHow does it work\n----------------\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#how-does-it-work)\n\n### Generate designs via AI\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#generate-designs-via-ai)\n\n1.  [Install the plugin](https://www.figma.com/c/plugin/747985167520967365/HTML-To-Figma)\n2.  Create an [OpenAI account](https://platform.openai.com/signup), grab your [OpenAI key](https://platform.openai.com/account/api-keys), make sure you have [billing enabled](https://platform.openai.com/account/billing/overview), and add your API key in the plugin\n3.  Enter a prompt, and watch AI design in real time!\n\nTroubleshooting: if having trouble with your OpenAI API calls, please follow [this guide](https://help.openai.com/en/articles/6891831-error-code-429-you-exceeded-your-current-quota-please-check-your-plan-and-billing-details)\n\n### Export designs to code\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#export-designs-to-code)\n\n1.  [Install the plugin](https://www.figma.com/c/plugin/747985167520967365/HTML-To-Figma)\n2.  Ensure all layers you want to import use autolayout as described [here](https://www.builder.io/c/docs/import-from-figma)\n3.  Click the \"get code\" button to launch into the [Builder.io](https://www.builder.io/) editor\n4.  Make any final adjustments, and click \"get code\" at the top of Builder to view code output, or copy and paste it to content of a Builder account to publish live\n\nSupports many code outputs, such as React, Vue, Svelte, Qwik, Solid, plain HTML/CSS, and more via [Mitosis](https://github.com/builderio/mitosis)\n\n### Import webpages to Figma designs\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#import-webpages-to-figma-designs)\n\n1.  [Install the plugin](https://www.figma.com/c/plugin/747985167520967365/HTML-To-Figma)\n2.  In Figma, open a new or existing document, then hit cmd+/ and search \"html figma\" and hit enter\n3.  Enter a URL you want to import\n\nWhy?\n----\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#why)\n\n*   Instantly convert designs into live webpages and code\n*   Easily import real live site styles for a starting point for designs and prototypes\n*   Quickly turn real site components into design components\n*   Easy import from storybook, etc\n\nChrome Extension\n----------------\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#chrome-extension)\n\nWant to capture a page behind an auth wall, or in a specific state you need to navigate to? Then the [chrome extension](https://chrome.google.com/webstore/detail/efjcmgblfpkhbjpkpopkgeomfkokpaim) is for you!\n\nUsing the library\n-----------------\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#using-the-library)\n\n```js\n// npm install @builder.io/html-to-figma\nimport { htmlToFigma } from \"@builder.io/html-to-figma\";\nconst layers = htmlToFigma(document.body);\n// E.g. send these to the REST API, or generate a .figma.json file that can be uploaded through the Figma plugin\n```\n\nAuto-layout Vectors\n-------------------\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#auto-layout-vectors)\n\nWhen exporting Figma to Builder, the plugin requires all elements to be in auto-layout. However, it's not possible to auto-layout a vector. The alternative here is to use Figma's `rasterize selection` command on your vector. If the output of that is too low-resolution, then you can try this plugin: [https://www.figma.com/community/plugin/837846252158418235/Flatten-Selection-to-Bitmap](https://www.figma.com/community/plugin/837846252158418235/Flatten-Selection-to-Bitmap).\n\nIf you want the Builder end-result to have a vector, then consider this rasterized selection as a placeholder, and swap it back with an SVG in the Builder editor.\n\nLimitations\n-----------\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#limitations)\n\nImporting HTML layers to Figma is a best-effort process. Even getting 90% there can save you a ton of time, only having to clean up a few things.\n\nA few known limitations:\n\n*   not all element types are supported (e.g. iframe, pseudoelements)\n*   not all CSS properties are supported or fully supported\n*   not all types of media are supported (video, animated gifs, etc)\n*   all fonts have to be uploaded to Figma or a best effort fallback will be used\n\nIf you find any issues or have feedback at all please [make an issue](https://github.com/BuilderIO/html-to-figma/issues/new)\n\nArchitecture\n------------\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#architecture)\n\n*   `builder.io/api/v1/html-to-figma`: API endpoint that converts a URL's layout to a Figma design. The logic of that endpoint lives in this repo, under [./lib/html-to-figma](https://github.com/BuilderIO/figma-html/blob/master/lib/html-to-figma).\n*   `builder.io/api/v1/figma-to-builder`: API endpoint that converts a Figma design to a Builder content JSON. The logic of that endpoint lives in Builder's API.\n\nDEVELOP\n-------\n\n[](https://github.com/BuilderIO/figma-html?screenshot=true#develop)\n\nRead [DEVELOP.md](https://github.com/BuilderIO/figma-html/blob/master/DEVELOP.md)\n\n[![Image 15: Made with love by Builder.io](https://user-images.githubusercontent.com/844291/230786555-a58479e4-75f3-4222-a6eb-74c5af953eac.png)](https://www.builder.io/m/developers)\n\nAbout\n-----\n\nBuilder.io for Figma: AI generation, export to code, import from web\n\n[www.figma.com/community/plugin/747985167520967365](https://www.figma.com/community/plugin/747985167520967365 \"https://www.figma.com/community/plugin/747985167520967365\")\n\n### Topics\n\n[react](https://github.com/topics/react \"Topic: react\") [chrome-extension](https://github.com/topics/chrome-extension \"Topic: chrome-extension\") [html](https://github.com/topics/html \"Topic: html\") [design-systems](https://github.com/topics/design-systems \"Topic: design-systems\") [angular](https://github.com/topics/angular \"Topic: angular\") [typescript](https://github.com/topics/typescript \"Topic: typescript\") [vue](https://github.com/topics/vue \"Topic: vue\") [svelte](https://github.com/topics/svelte \"Topic: svelte\") [storybook](https://github.com/topics/storybook \"Topic: storybook\") [figma](https://github.com/topics/figma \"Topic: figma\") [design-tools](https://github.com/topics/design-tools \"Topic: design-tools\") [no-code](https://github.com/topics/no-code \"Topic: no-code\") [figma-plugins](https://github.com/topics/figma-plugins \"Topic: figma-plugins\") [design-to-code](https://github.com/topics/design-to-code \"Topic: design-to-code\") [figma-plugin](https://github.com/topics/figma-plugin \"Topic: figma-plugin\") [jsx-lite](https://github.com/topics/jsx-lite \"Topic: jsx-lite\")\n\n### Resources\n\n[Readme](https://github.com/BuilderIO/figma-html?screenshot=true#readme-ov-file)\n\n### License\n\n[MIT license](https://github.com/BuilderIO/figma-html?screenshot=true#MIT-1-ov-file)\n\n[Activity](https://github.com/BuilderIO/figma-html/activity)\n\n[Custom properties](https://github.com/BuilderIO/figma-html/custom-properties)\n\n### Stars\n\n[**3.2k** stars](https://github.com/BuilderIO/figma-html/stargazers)\n\n### Watchers\n\n[**31** watching](https://github.com/BuilderIO/figma-html/watchers)\n\n### Forks\n\n[**304** forks](https://github.com/BuilderIO/figma-html/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FBuilderIO%2Ffigma-html&report=BuilderIO+%28user%29)\n\n[Releases](https://github.com/BuilderIO/figma-html/releases)\n------------------------------------------------------------\n\nNo releases published\n\n[Packages 0](https://github.com/orgs/BuilderIO/packages?repo_name=figma-html)\n-----------------------------------------------------------------------------\n\nNo packages published  \n\n[Contributors 9](https://github.com/BuilderIO/figma-html/graphs/contributors)\n-----------------------------------------------------------------------------\n\n*   [![Image 16: @steve8708](https://avatars.githubusercontent.com/u/844291?s=64&v=4)](https://github.com/steve8708)\n*   [![Image 17: @samijaber](https://avatars.githubusercontent.com/u/1393142?s=64&v=4)](https://github.com/samijaber)\n*   [![Image 18: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)\n*   [![Image 19: @harmeet-builder](https://avatars.githubusercontent.com/u/105281401?s=64&v=4)](https://github.com/harmeet-builder)\n*   [![Image 20: @shyam-builder](https://avatars.githubusercontent.com/u/97863898?s=64&v=4)](https://github.com/shyam-builder)\n*   [![Image 21: @patrickkettner](https://avatars.githubusercontent.com/u/465414?s=64&v=4)](https://github.com/patrickkettner)\n*   [![Image 22: @manucorporat](https://avatars.githubusercontent.com/u/127379?s=64&v=4)](https://github.com/manucorporat)\n*   [![Image 23: @PatrickJS](https://avatars.githubusercontent.com/u/1016365?s=64&v=4)](https://github.com/PatrickJS)\n*   [![Image 24: @AntonGoldobin](https://avatars.githubusercontent.com/u/29868103?s=64&v=4)](https://github.com/AntonGoldobin)\n\nLanguages\n---------\n\n*   [TypeScript 93.5%](https://github.com/BuilderIO/figma-html/search?l=typescript)\n*   [JavaScript 4.8%](https://github.com/BuilderIO/figma-html/search?l=javascript)\n*   [HTML 1.3%](https://github.com/BuilderIO/figma-html/search?l=html)\n*   [CSS 0.4%](https://github.com/BuilderIO/figma-html/search?l=css)\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 6108
+  }
+}
+```

@@ -1,0 +1,121 @@
+[![Image 29: Cape](https://cdn.buttercms.com/srLxRFj0RBi1shNcikWY)](https://capeprivacy.com/)
+
+*   [Product](https://capeprivacy.com/product)
+*   [Contact Sales](https://capeprivacy.com/contact)
+*   [Careers](https://capeinc.bamboohr.com/careers)
+
+More Than Just a Chatbot
+------------------------
+
+Cape allows business users to describe tasks in their own words while it connects directly to your data sources and services, eliminating manual processing bottlenecks. It executes complex workflows in minutes and runs within your infrastructure, securely processing vast amounts of internal data without third-party APIs. Cape combines your data with AI safely, even without an Internet connection, reducing costs and latency.
+
+Workflows
+
+Chat
+
+Knowledge Retrieval
+
+Actions
+
+Data Connectors
+
+![Image 30](https://capeprivacy.com/_next/static/media/workflow-pane.4fe9cf85.webp)![Image 31](https://capeprivacy.com/_next/static/media/chat-pane.c66217da.webp)![Image 32](https://capeprivacy.com/_next/static/media/chat-pane-2.a2a9e8ba.webp)![Image 33](https://capeprivacy.com/_next/static/media/analytics-pane.8b55b6b5.webp)![Image 34](https://capeprivacy.com/_next/static/media/actions-pane.f821e389.webp)![Image 35](https://capeprivacy.com/_next/static/media/data-connectors-pane.be8c04b4.webp)
+
+![Image 36: A diagram of a multi-layered software application stack featuring analytics, chat, bots, actions, and data connectors like Salesforce, GitHub, Slack, Atlassian, and Google.](https://capeprivacy.com/_next/static/media/application-stack.e7c0e00a.webp)
+
+Workflows
+---------
+
+Not your Grandfather's Workflow automation engine. Optimize your team's productivity with AI-powered Workflows, designed for seamless integration with your organization's data ecosystem. Customizable Workflows adapt to your specific requirements, ensuring a personalized interaction with your Large Language Model (LLM) without the hassle of repetitive configuration. To create consistent and repeatable workflows, Cape features a user-friendly GUI. This enables teams to combine data, AI, and even internal systems to handle recurring needs.
+
+![Image 37: A screenshot of the product in use with feature callouts.](https://cdn.buttercms.com/zFXE5X3ITfu8jIhop7oq)
+
+### Agentic Workflows
+
+Combine AI and data to easily represent multi-step business processes for repeatable automations. Read data from multiple data sources, invoke an LLM, perform OCR, generate documents, and much more.
+
+### Actions
+
+Drag and drop Actions to compose a workflow. Actions represent a task and are business user-friendly, democratizing access to the power of AI.
+
+### Data Integrations
+
+Easily include your data by creating enterprise data integrations.
+
+### Agentic Design Patterns
+
+Leverage agentic design patterns for higher quality responses, and advanced interactions with LLMs.
+
+AI-powered Knowledge Retrieval
+------------------------------
+
+Conversational AI, with all the bells and whistles. Connect to a variety of hosted LLMs, including your own local or fine tuned models. If conversing with hosted models, protect your data with automatic redaction with syntax highlighting (and re-identification). Upload documents, and chat with them using vector search. Customize system instructions, hot swap to bots within a chat thread, and much more.
+
+![Image 38: A screenshot of the product in use with feature callouts.](https://cdn.buttercms.com/qBPfnrkQYISyMcADVzwg)
+
+### Search
+
+Save time finding relevant insights and answers by leveraging AI to easily search multiple documents and data sources.
+
+### Retrieval Augmented Generation (RAG)
+
+Create custom knowledge bases by selecting a curated list of the data sources and files you want to include. Often these relate to a business domain, such as customer support or sales.
+
+### Get Answers
+
+Get insights from your knowledge base however it works best for your team. Simply ask a question using natural language chat, post in a Slack channel, call an Action within a workflow, or via custom application using an API.
+
+### Citations
+
+You can trust your answers by verifying the source citations that are included in your results. And hallucinations are minimized by including externally retrieved data within the LLM context.
+
+CapeChat
+--------
+
+An intuitive and customizable chat interface that can easily leverage any LLM to call Workflows directly.
+
+![Image 39: A screenshot of the product in use with feature callouts.](https://cdn.buttercms.com/VkIIC5lbS5CHfC2t0mhQ)
+
+### Private and Public LLMs
+
+Intuitive and customizable chat interface that enables easy use of public and private LLMs.
+
+### Multiple LLM Support
+
+Connect to a variety of hosted LLMs, including your own local or fine-tuned models including OpenAI’s GPT4o, Anthropic’s Claude3, Meta’s Llama3, Mistral7b and more.
+
+### Protect Your Data
+
+If conversing with hosted models, protect your data with automatic redaction with syntax highlighting (and re-identification).
+
+### Advanced Features
+
+Customize system instructions. Call Workflows from Chat.
+
+Data Connectors
+---------------
+
+We are revolutionizing the way enterprises interface with data. Our transformative suite includes highly integrated data connectors purposely crafted for LLM products, delivering you efficiency and streamlined workflow.
+
+![Image 40: A screenshot of the product in use with feature callouts.](https://cdn.buttercms.com/848zUBfQTrCH9XeEGpn1)
+
+### Data Aware
+
+Our proprietary Slack Connector enables an enhanced level of data awareness within your communication channels. Facilitating informed decision making, it ensures seamless integration across business functions, optimizing operational efficiency. Your corporate communication, upgraded.
+
+### Data Exploration
+
+With our SQL Generation Data Exploration Workflow, navigate complex data structures with ease. Generate astute business reports, unlocking critical insights, and inform your strategic decision-making process with reliable data. Your corporation's gateway to informed strategies.
+
+### Streamlined CRM
+
+Our Salesforce Connector reimagines your CRM approach. It ensures instantaneous and comprehensive management of customer data assets, enabling superior customer experiences. Drive higher customer engagement and loyalty with our dedicated, corporate grade solution.
+
+### AI-Powered Innovation
+
+Realize an unmatched level of potential in your enterprise data, shaping strategic outcomes and gaining a competitive edge. Elevate your corporate intelligence with the power of artificial intelligence.
+
+Cape Architecture
+-----------------
+
+![Image 41](https://cdn.buttercms.com/QBVzMXiSSWSD0CqXsxIH)

@@ -1,0 +1,256 @@
+Course curriculum
+-----------------
+
+1.  1.  Jason's introduction
+        
+    2.  What are we covering in this chapter?
+        
+    3.  JSON & dictionaries - issue 1
+        
+    4.  JSON & dictionaries - issue 2
+        
+    5.  Function calling
+        
+    6.  Instructor
+        
+    7.  Other libraries
+        
+    8.  Quick question before you continue
+        
+    
+2.  1.  What are we covering in this chapter?
+        
+    2.  Tip 1: Classification
+        
+    3.  Tip 2: Arbitrary properties
+        
+    4.  Tip 3: Defining multiple entities
+        
+    5.  Tip 4: Streaming
+        
+    6.  Tip 5: Relationships
+        
+    7.  Tip 6: The Maybe pattern
+        
+    
+3.  1.  Check your knowledge!
+        
+    
+4.  1.  Applying structured output to RAG applications
+        
+    2.  Improving extractions
+        
+    3.  Adding temporal context
+        
+    4.  Experiment tracking
+        
+    5.  Parallel processing
+        
+    6.  Decomposing questions
+        
+    7.  Conclusions
+        
+    
+5.  1.  What are we covering in this chapter?
+        
+    2.  Defining validator functions
+        
+    3.  Using Field object
+        
+    4.  Providing context
+        
+    5.  Using OpenAI moderation
+        
+    6.  Using LLM validator
+        
+    7.  Avoiding hallucination with citations
+        
+    8.  Reasking with validators
+        
+    
+6.  1.  Conclusions
+        
+    2.  Project assignment
+        
+    3.  Additional resources for further learning
+        
+    
+
+![Image 7](https://import.cdn.thinkific.com/705742/PbUE2fMBSwyblSSSSizQ_str0outputs%20(1).png)
+
+### About this course
+
+*   Free
+*   34 lessons
+*   1 hour of video content
+
+Your Goals
+----------
+
+Complete this course to:
+
+*   ### Master Structured Data Extraction
+    
+    Acquire the skills to extract structured data seamlessly using LLMs and Pydantic, enhancing your ML pipelines for robust data processing and analysis.
+    
+*   ### Implement Advanced Validation Techniques
+    
+    Learn to incorporate advanced validation techniques, ensuring your LLM apps perform accurately and reliably in varied scenarios.
+    
+*   ### Integrate with the Instructor library
+    
+    Discover how to use the Instructor library to scale your LLM projects, enabling efficient integration of complex pipelines and models into production environments.
+    
+
+Your instructor
+---------------
+
+![Image 8](https://files.cdn.thinkific.com/instructors/001/062/3961704446888.small.png)
+
+### Jason Liu
+
+#### Independent Consultant
+
+Jason is currently on sabbatical at South Park Commons, where he consults and advises fast-growing startups on applied AI and tech strategy. Before, he spent time at Stitchfix building out vision capabilities for e-commerce and developing frameworks to design and instrument recommendation systems. Now, between consulting and open-source work, he is interested in finding new ergonomics for LLMs, making them less mystical and more integrated with traditional workflows.
+
+Course Reviews
+--------------
+
+Hear from the Certification takers
+
+5 star rating
+
+### Great course
+
+Many things I didn't know that were possible.
+
+Many things I didn't know that were possible.
+
+[Read Less](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+5 star rating
+
+### Clear, concise, 100% practical for day-to-day challenges.
+
+#### Alexis Torrano
+
+5 star rating
+
+### Quick and Easy
+
+#### Somil Asthana
+
+Interesting and easy to understand
+
+Interesting and easy to understand
+
+[Read Less](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+5 star rating
+
+### Life saver
+
+#### Casper Kirch
+
+This course accelerated the development of our app tenfold. We were really struggling getting the right output consistently, now it's a breeze
+
+This course accelerated the development of our app tenfold. We were really struggling getting the right output consistently, now it's a breeze
+
+[Read Less](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+5 star rating
+
+### Eye Opening!
+
+#### Dhiraj Khanna
+
+This is really fantastic! I am still finding my way around topics like function calling and have been struggling with extracting outputs from OpenAI's gpt models reliably and consistently. This looks like the Holy Grail! Love the no frills, to-the...
+
+[Read More](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+This is really fantastic! I am still finding my way around topics like function calling and have been struggling with extracting outputs from OpenAI's gpt models reliably and consistently. This looks like the Holy Grail! Love the no frills, to-the-point approach of Jason. Had no idea about stuff like \`model\_json\_schema()\`. This is crazy good! Thank you for doing this Jason
+
+[Read Less](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+5 star rating
+
+### Pydentic + instructor module for Gpt
+
+#### Alex Rybachek
+
+Best practical intro into usage of pydentic json validation and instructor module for patching openAi
+
+Best practical intro into usage of pydentic json validation and instructor module for patching openAi
+
+[Read Less](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+5 star rating
+
+### Great course
+
+#### Luis Lozano
+
+Many things I didn't know that were possible.
+
+Many things I didn't know that were possible.
+
+[Read Less](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+5 star rating
+
+### Clear, concise, 100% practical for day-to-day challenges.
+
+#### Alexis Torrano
+
+5 star rating
+
+### Quick and Easy
+
+#### Somil Asthana
+
+Interesting and easy to understand
+
+Interesting and easy to understand
+
+[Read Less](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+5 star rating
+
+### Life saver
+
+#### Casper Kirch
+
+This course accelerated the development of our app tenfold. We were really struggling getting the right output consistently, now it's a breeze
+
+This course accelerated the development of our app tenfold. We were really struggling getting the right output consistently, now it's a breeze
+
+[Read Less](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+5 star rating
+
+### Eye Opening!
+
+#### Dhiraj Khanna
+
+This is really fantastic! I am still finding my way around topics like function calling and have been struggling with extracting outputs from OpenAI's gpt models reliably and consistently. This looks like the Holy Grail! Love the no frills, to-the...
+
+[Read More](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+This is really fantastic! I am still finding my way around topics like function calling and have been struggling with extracting outputs from OpenAI's gpt models reliably and consistently. This looks like the Holy Grail! Love the no frills, to-the-point approach of Jason. Had no idea about stuff like \`model\_json\_schema()\`. This is crazy good! Thank you for doing this Jason
+
+[Read Less](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+5 star rating
+
+### Pydentic + instructor module for Gpt
+
+#### Alex Rybachek
+
+Best practical intro into usage of pydentic json validation and instructor module for patching openAi
+
+Best practical intro into usage of pydentic json validation and instructor module for patching openAi
+
+[Read Less](https://www.wandb.courses/courses/steering-language-models?x=1#)
+
+Get started now
+---------------

@@ -1,0 +1,142 @@
+[![Image 22: Marblism](https://i.imgur.com/3hpDCMD.png)](https://www.marblism.com/ "brand-logo")
+
+*   [Blog](https://www.marblism.com/blog)
+
+* * *
+
+Create, customize, and deploy AI agents to save time, cut costs, and boost productivity
+---------------------------------------------------------------------------------------
+
+[Get Started](https://agent.app.io/)
+
+Trusted by 70k people working for large and small companies
+
+Hire our Agents
+---------------
+
+Your Data. Your Agents.
+-----------------------
+
+200+ Integrations
+-----------------
+
+Seamlessly integrate external APIs and tools into your agents.
+
+Google Search API integration
+
+PostgreSQL database connection
+
+Customized Everything
+---------------------
+
+Customize how your AI agents think & interact with the outside world.
+
+\[2023-12-15 14:23:45\] INFO
+
+Agent initialized. Starting task execution.
+
+\[2023-12-15 14:23:47\] ACTION
+
+Retrieving data from external API...
+
+\[2023-12-15 14:23:50\] DECISION
+
+Analyzing data. Confidence: 85%
+
+\[2023-12-15 14:23:52\] WARNING
+
+Potential anomaly detected in dataset.
+
+\[2023-12-15 14:23:55\] ERROR
+
+Failed to connect to secondary database.
+
+Monitor agent activity
+----------------------
+
+Track and analyze your AI agent performance with detailed activity logs.
+
+Features
+--------
+
+Simple Agent Workflows
+----------------------
+
+Easily create and manage AI agent workflows with intuitive APIs.
+
+Multi-Agent Systems
+-------------------
+
+Build complex systems with multiple AI agents working together.
+
+Learning on the Fly
+-------------------
+
+Agents can learn from interactions and improve their performance over time.
+
+Tool Integration
+----------------
+
+Seamlessly integrate external tools and APIs into your agent workflows.
+
+Cross-Language Support
+----------------------
+
+Available in all major programming languages for maximum flexibility.
+
+Customizable Agents
+-------------------
+
+Design and customize agents to fit your specific use case and requirements.
+
+Statistics
+----------
+
+Pricing
+-------
+
+Simple pricing for everyone.
+----------------------------
+
+Choose an plan that's packed with the best features for automating your business.
+
+### Basic
+
+For individuals and small projects
+
+*   100 runs per month
+*   Email support
+*   Access to community forum
+
+[Get Started](https://agent.app.io/)
+
+### Pro
+
+Ideal for professionals
+
+*   300 runs per month
+*   Priority email support
+*   Access to community forum
+
+[Get Started](https://agent.app.io/)
+
+### EnterpriseMost Popular
+
+Tailored solutions for businesses
+
+*   Unlimited runs
+*   Dedicated account manager
+*   Custom Agents development
+*   Advanced analytics and reporting
+
+[Get Started](https://agent.app.io/)
+
+Community
+---------
+
+We're grateful for the amazing community that helps make our project better every day.
+
+Blog
+----
+
+Ready to build your next AI agent?

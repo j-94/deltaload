@@ -1,0 +1,1141 @@
+GitHub - BuilderIO/mitosis: Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
+===============                                         
+
+[Skip to content](https://github.com/BuilderIO/mitosis?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FBuilderIO%2Fmitosis%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FBuilderIO%2Fmitosis%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=BuilderIO%2Fmitosis) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[BuilderIO](https://github.com/BuilderIO) / **[mitosis](https://github.com/BuilderIO/mitosis)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2FBuilderIO%2Fmitosis) You must be signed in to change notification settings
+*   [Fork 578](https://github.com/login?return_to=%2FBuilderIO%2Fmitosis)
+*   [Star 12.7k](https://github.com/login?return_to=%2FBuilderIO%2Fmitosis)
+    
+
+Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
+
+[mitosis.builder.io](https://mitosis.builder.io/ "https://mitosis.builder.io")
+
+### License
+
+[MIT license](https://github.com/BuilderIO/mitosis/blob/main/LICENSE)
+
+[12.7k stars](https://github.com/BuilderIO/mitosis/stargazers) [578 forks](https://github.com/BuilderIO/mitosis/forks) [Branches](https://github.com/BuilderIO/mitosis/branches) [Tags](https://github.com/BuilderIO/mitosis/tags) [Activity](https://github.com/BuilderIO/mitosis/activity)
+
+[Star](https://github.com/login?return_to=%2FBuilderIO%2Fmitosis)
+
+[Notifications](https://github.com/login?return_to=%2FBuilderIO%2Fmitosis) You must be signed in to change notification settings
+
+*   [Code](https://github.com/BuilderIO/mitosis)
+*   [Issues 151](https://github.com/BuilderIO/mitosis/issues)
+*   [Pull requests 21](https://github.com/BuilderIO/mitosis/pulls)
+*   [Discussions](https://github.com/BuilderIO/mitosis/discussions)
+*   [Actions](https://github.com/BuilderIO/mitosis/actions)
+*   [Projects 3](https://github.com/BuilderIO/mitosis/projects)
+*   [Security](https://github.com/BuilderIO/mitosis/security)
+*   [Insights](https://github.com/BuilderIO/mitosis/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/BuilderIO/mitosis)
+*   [Issues](https://github.com/BuilderIO/mitosis/issues)
+*   [Pull requests](https://github.com/BuilderIO/mitosis/pulls)
+*   [Discussions](https://github.com/BuilderIO/mitosis/discussions)
+*   [Actions](https://github.com/BuilderIO/mitosis/actions)
+*   [Projects](https://github.com/BuilderIO/mitosis/projects)
+*   [Security](https://github.com/BuilderIO/mitosis/security)
+*   [Insights](https://github.com/BuilderIO/mitosis/pulse)
+
+BuilderIO/mitosis
+=================
+
+  
+
+ main
+
+[Branches](https://github.com/BuilderIO/mitosis/branches)[Tags](https://github.com/BuilderIO/mitosis/tags)
+
+[](https://github.com/BuilderIO/mitosis/branches)[](https://github.com/BuilderIO/mitosis/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+History
+-------
+
+[1,789 Commits](https://github.com/BuilderIO/mitosis/commits/main/)
+
+[](https://github.com/BuilderIO/mitosis/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.changeset](https://github.com/BuilderIO/mitosis/tree/main/.changeset ".changeset")
+
+
+
+
+
+
+
+ | 
+
+[.changeset](https://github.com/BuilderIO/mitosis/tree/main/.changeset ".changeset")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.github](https://github.com/BuilderIO/mitosis/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/BuilderIO/mitosis/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.vscode](https://github.com/BuilderIO/mitosis/tree/main/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[.vscode](https://github.com/BuilderIO/mitosis/tree/main/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.yarn](https://github.com/BuilderIO/mitosis/tree/main/.yarn ".yarn")
+
+
+
+
+
+
+
+ | 
+
+[.yarn](https://github.com/BuilderIO/mitosis/tree/main/.yarn ".yarn")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[developer](https://github.com/BuilderIO/mitosis/tree/main/developer "developer")
+
+
+
+
+
+
+
+ | 
+
+[developer](https://github.com/BuilderIO/mitosis/tree/main/developer "developer")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[docs](https://github.com/BuilderIO/mitosis/tree/main/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs](https://github.com/BuilderIO/mitosis/tree/main/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[e2e](https://github.com/BuilderIO/mitosis/tree/main/e2e "e2e")
+
+
+
+
+
+
+
+ | 
+
+[e2e](https://github.com/BuilderIO/mitosis/tree/main/e2e "e2e")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[examples](https://github.com/BuilderIO/mitosis/tree/main/examples "examples")
+
+
+
+
+
+
+
+ | 
+
+[examples](https://github.com/BuilderIO/mitosis/tree/main/examples "examples")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[imgs](https://github.com/BuilderIO/mitosis/tree/main/imgs "imgs")
+
+
+
+
+
+
+
+ | 
+
+[imgs](https://github.com/BuilderIO/mitosis/tree/main/imgs "imgs")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[packages](https://github.com/BuilderIO/mitosis/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[packages](https://github.com/BuilderIO/mitosis/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.eslintignore](https://github.com/BuilderIO/mitosis/blob/main/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[.eslintignore](https://github.com/BuilderIO/mitosis/blob/main/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/BuilderIO/mitosis/blob/main/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/BuilderIO/mitosis/blob/main/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.gitattributes](https://github.com/BuilderIO/mitosis/blob/main/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[.gitattributes](https://github.com/BuilderIO/mitosis/blob/main/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.gitguardian.yml](https://github.com/BuilderIO/mitosis/blob/main/.gitguardian.yml ".gitguardian.yml")
+
+
+
+
+
+
+
+ | 
+
+[.gitguardian.yml](https://github.com/BuilderIO/mitosis/blob/main/.gitguardian.yml ".gitguardian.yml")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.gitignore](https://github.com/BuilderIO/mitosis/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/BuilderIO/mitosis/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.npmrc](https://github.com/BuilderIO/mitosis/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[.npmrc](https://github.com/BuilderIO/mitosis/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.nvmrc](https://github.com/BuilderIO/mitosis/blob/main/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/BuilderIO/mitosis/blob/main/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.prettierignore](https://github.com/BuilderIO/mitosis/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/BuilderIO/mitosis/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.prettierrc.js](https://github.com/BuilderIO/mitosis/blob/main/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc.js](https://github.com/BuilderIO/mitosis/blob/main/.prettierrc.js ".prettierrc.js")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.tool-versions](https://github.com/BuilderIO/mitosis/blob/main/.tool-versions ".tool-versions")
+
+
+
+
+
+
+
+ | 
+
+[.tool-versions](https://github.com/BuilderIO/mitosis/blob/main/.tool-versions ".tool-versions")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.yarnrc.yml](https://github.com/BuilderIO/mitosis/blob/main/.yarnrc.yml ".yarnrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[.yarnrc.yml](https://github.com/BuilderIO/mitosis/blob/main/.yarnrc.yml ".yarnrc.yml")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[CODEOWNERS](https://github.com/BuilderIO/mitosis/blob/main/CODEOWNERS "CODEOWNERS")
+
+
+
+
+
+
+
+ | 
+
+[CODEOWNERS](https://github.com/BuilderIO/mitosis/blob/main/CODEOWNERS "CODEOWNERS")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/BuilderIO/mitosis/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/BuilderIO/mitosis/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[LICENSE](https://github.com/BuilderIO/mitosis/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/BuilderIO/mitosis/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[README.MD](https://github.com/BuilderIO/mitosis/blob/main/README.MD "README.MD")
+
+
+
+
+
+
+
+ | 
+
+[README.MD](https://github.com/BuilderIO/mitosis/blob/main/README.MD "README.MD")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[nx.json](https://github.com/BuilderIO/mitosis/blob/main/nx.json "nx.json")
+
+
+
+
+
+
+
+ | 
+
+[nx.json](https://github.com/BuilderIO/mitosis/blob/main/nx.json "nx.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[package.json](https://github.com/BuilderIO/mitosis/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/BuilderIO/mitosis/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[tsconfig.json](https://github.com/BuilderIO/mitosis/blob/main/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/BuilderIO/mitosis/blob/main/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[yarn.lock](https://github.com/BuilderIO/mitosis/blob/main/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/BuilderIO/mitosis/blob/main/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/BuilderIO/mitosis?screenshot=true#)
+*   [MIT license](https://github.com/BuilderIO/mitosis?screenshot=true#)
+
+  
+  
+![Image 41: Mitosis logo](https://camo.githubusercontent.com/9eeb85185b542ccb4b5e243e5e736e6c18434afbe5b20b50c41e5a4683685fdb/68747470733a2f2f63646e2e6275696c6465722e696f2f6170692f76312f696d6167652f617373657473253246594a494762346930316a7677305352644c3542742532463537306636383965353938323463623738636635373733333530616234313434)
+
+Write components once, compile to every framework
+
+  
+[![Image 42: code style: prettier](https://camo.githubusercontent.com/754faf8c130f602a98f87fd2912a8d4b9bcf8ab623fa9ac3352853015968cdb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64655f7374796c652d70726574746965722d6666363962342e737667)](https://github.com/prettier/prettier) [![Image 43: PRs Welcome](https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667)](https://github.com/BuilderIO/mitosis/pulls) [![Image 44: License](https://camo.githubusercontent.com/d3494290c7d64e012799e6f82daa31ca2dd2b2d4fc657cb9c2ed1cf72a2b8ccd/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f4275696c646572494f2f6d69746f736973)](https://github.com/BuilderIO/mitosis) [![Image 45: Types](https://camo.githubusercontent.com/4b1aff8e6491d39edd44870adde5c49aaadad57c8b8b260a22c807040e8a5d0e/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f74797065732f406275696c6465722e696f2f6d69746f736973)](https://www.npmjs.com/package/@builder.io/mitosis) [![Image 46](https://camo.githubusercontent.com/5e083233bc601474c00b46316aa6eb6f8adda59e819570e29c677ce334e1a3bd/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f406275696c6465722e696f2f6d69746f7369732e7376673f73616e6974697a653d74727565)](https://www.npmjs.com/package/@builder.io/mitosis)
+
+Overview
+--------
+
+[](https://github.com/BuilderIO/mitosis?screenshot=true#overview)
+
+[Mitosis](https://mitosis.builder.io/docs/overview/) provides a unified development experience across all frameworks, enabling you to build components in a single codebase and compile them to React, Vue, Angular, Svelte, Solid, Alpine, Qwik, and more.
+
+Using Mitosis, you can:
+
+*   Maintain a consistent design system across multiple frameworks ([example](https://github.com/db-ui/mono))
+*   Sync your [design systems from Figma to code](https://mitosis.builder.io/docs/figma/) and publish them to npm across frameworks
+*   Avoid the [pitfalls of web components](https://mitosis.builder.io/docs/overview/) by compiling to native framework code
+
+_PS: We are actively looking for folks interested in becoming contributors to Mitosis. If interested, look at our list of [good first issues](https://github.com/BuilderIO/mitosis/contribute) or reach out on our [Discord](https://discord.gg/yxjk5vn6pn)_
+
+[![Image 47: Gif example of devloping with Mitosis](https://camo.githubusercontent.com/842312146897e70735f45a07851990b99e7f0adc5dff103cfd71118853d2714f/68747470733a2f2f63646e2e6275696c6465722e696f2f6170692f76312f66696c652f617373657473253246594a494762346930316a7677305352644c3542742532463836386166316536643966643439323362313865636431643839326633613665)](https://camo.githubusercontent.com/842312146897e70735f45a07851990b99e7f0adc5dff103cfd71118853d2714f/68747470733a2f2f63646e2e6275696c6465722e696f2f6170692f76312f66696c652f617373657473253246594a494762346930316a7677305352644c3542742532463836386166316536643966643439323362313865636431643839326633613665)
+
+Quickstart
+----------
+
+[](https://github.com/BuilderIO/mitosis?screenshot=true#quickstart)
+
+To create a new Mitosis project from scratch, run the following `create` command:
+
+```shell
+npm create @builder.io/mitosis@latest
+```
+
+Once completed, make sure to read the `README.md` generated in your new project. It will explain the structure of your project, and provide a walkthrough on how to build/test your components.
+
+Read the full [getting started docs](https://mitosis.builder.io/docs/quickstart/) for more.
+
+### Integration with Figma
+
+[](https://github.com/BuilderIO/mitosis?screenshot=true#integration-with-figma)
+
+To make generating Mitosis components easier, as well as to keep your design system in code in sync with your design system in Figma, Mitosis integrates with Figma.
+
+Learn more about our [Figma integration](https://mitosis.builder.io/docs/figma).
+
+[![Image 48: Demo of using Mitosis with Figma](https://camo.githubusercontent.com/cbae2f5c00dd6d4831854370d86653ba74cdb0ba7c00a03bd260ee8ce8d7128b/68747470733a2f2f63646e2e6275696c6465722e696f2f6170692f76312f66696c652f617373657473253246594a494762346930316a7677305352644c3542742532466465363562376431373433353463306261663138396565346536353261333162)](https://camo.githubusercontent.com/cbae2f5c00dd6d4831854370d86653ba74cdb0ba7c00a03bd260ee8ce8d7128b/68747470733a2f2f63646e2e6275696c6465722e696f2f6170692f76312f66696c652f617373657473253246594a494762346930316a7677305352644c3542742532466465363562376431373433353463306261663138396565346536353261333162)
+
+Resources
+---------
+
+[](https://github.com/BuilderIO/mitosis?screenshot=true#resources)
+
+*   [Documentation](https://mitosis.builder.io/docs)
+*   [Playground](https://mitosis.builder.io/playground)
+*   [Figma integration](https://mitosis.builder.io/docs/figma/)
+*   [Mitosis Discord](https://discord.gg/yxjk5vn6pn)
+
+Contribute
+----------
+
+[](https://github.com/BuilderIO/mitosis?screenshot=true#contribute)
+
+Interested in contribute? Head over to the [CONTRIBUTING](https://github.com/BuilderIO/mitosis/blob/main/CONTRIBUTING.md) docs and see how you can get setup & started!
+
+Once you're ready, checkout our [issues](https://github.com/BuilderIO/mitosis/contribute) page and grab your first issue!
+
+  
+  
+[![Image 49: Made with love by Builder.io](https://user-images.githubusercontent.com/844291/230786555-a58479e4-75f3-4222-a6eb-74c5af953eac.png)](https://www.builder.io/m/developers)
+
+About
+-----
+
+Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
+
+[mitosis.builder.io](https://mitosis.builder.io/ "https://mitosis.builder.io")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [builder](https://github.com/topics/builder "Topic: builder") [angular](https://github.com/topics/angular "Topic: angular") [vue](https://github.com/topics/vue "Topic: vue") [compiler](https://github.com/topics/compiler "Topic: compiler") [solid](https://github.com/topics/solid "Topic: solid") [jsx](https://github.com/topics/jsx "Topic: jsx") [visual](https://github.com/topics/visual "Topic: visual") [declarative](https://github.com/topics/declarative "Topic: declarative") [liquid](https://github.com/topics/liquid "Topic: liquid") [svelte](https://github.com/topics/svelte "Topic: svelte") [shopify](https://github.com/topics/shopify "Topic: shopify") [figma](https://github.com/topics/figma "Topic: figma") [no-code](https://github.com/topics/no-code "Topic: no-code") [solidjs](https://github.com/topics/solidjs "Topic: solidjs") [jsx-lite](https://github.com/topics/jsx-lite "Topic: jsx-lite")
+
+### Resources
+
+[Readme](https://github.com/BuilderIO/mitosis?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/BuilderIO/mitosis?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/BuilderIO/mitosis/activity)
+
+[Custom properties](https://github.com/BuilderIO/mitosis/custom-properties)
+
+### Stars
+
+[**12.7k** stars](https://github.com/BuilderIO/mitosis/stargazers)
+
+### Watchers
+
+[**97** watching](https://github.com/BuilderIO/mitosis/watchers)
+
+### Forks
+
+[**578** forks](https://github.com/BuilderIO/mitosis/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FBuilderIO%2Fmitosis&report=BuilderIO+%28user%29)
+
+[Releases 161](https://github.com/BuilderIO/mitosis/releases)
+-------------------------------------------------------------
+
+[@builder.io/mitosis@0.5.27 Latest Jan 15, 2025](https://github.com/BuilderIO/mitosis/releases/tag/%40builder.io%2Fmitosis%400.5.27)
+
+[\+ 160 releases](https://github.com/BuilderIO/mitosis/releases)
+
+[Packages 0](https://github.com/orgs/BuilderIO/packages?repo_name=mitosis)
+--------------------------------------------------------------------------
+
+No packages published  
+
+[Used by 145](https://github.com/BuilderIO/mitosis/network/dependents)
+----------------------------------------------------------------------
+
+[* ![Image 50: @arnavsurve](https://avatars.githubusercontent.com/u/30239681?s=64&v=4) * ![Image 51: @private1230](https://avatars.githubusercontent.com/u/192717193?s=64&v=4) * ![Image 52: @wsafight](https://avatars.githubusercontent.com/u/20734256?s=64&v=4) * ![Image 53: @ony3000-lab](https://avatars.githubusercontent.com/u/174026222?s=64&v=4) * ![Image 54: @maplecfiv](https://avatars.githubusercontent.com/u/26501246?s=64&v=4) * ![Image 55: @bytechefhq](https://avatars.githubusercontent.com/u/90719245?s=64&v=4) * ![Image 56: @ImBIOS](https://avatars.githubusercontent.com/u/41441643?s=64&v=4) * ![Image 57: @Commencement-Technology](https://avatars.githubusercontent.com/u/66028997?s=64&v=4) \+ 137](https://github.com/BuilderIO/mitosis/network/dependents)
+
+[Contributors 106](https://github.com/BuilderIO/mitosis/graphs/contributors)
+----------------------------------------------------------------------------
+
+*   [![Image 58: @steve8708](https://avatars.githubusercontent.com/u/844291?s=64&v=4)](https://github.com/steve8708)
+*   [![Image 59: @samijaber](https://avatars.githubusercontent.com/u/1393142?s=64&v=4)](https://github.com/samijaber)
+*   [![Image 60: @Dkendal](https://avatars.githubusercontent.com/u/3162299?s=64&v=4)](https://github.com/Dkendal)
+*   [![Image 61: @github-actions[bot]](https://avatars.githubusercontent.com/in/15368?s=64&v=4)](https://github.com/apps/github-actions)
+*   [![Image 62: @mhevery](https://avatars.githubusercontent.com/u/111951?s=64&v=4)](https://github.com/mhevery)
+*   [![Image 63: @raymondmuller](https://avatars.githubusercontent.com/u/3808818?s=64&v=4)](https://github.com/raymondmuller)
+*   [![Image 64: @nmerget](https://avatars.githubusercontent.com/u/104347736?s=64&v=4)](https://github.com/nmerget)
+*   [![Image 65: @decadef20](https://avatars.githubusercontent.com/u/7866718?s=64&v=4)](https://github.com/decadef20)
+*   [![Image 66: @mandx](https://avatars.githubusercontent.com/u/535282?s=64&v=4)](https://github.com/mandx)
+*   [![Image 67: @PatrickJS](https://avatars.githubusercontent.com/u/1016365?s=64&v=4)](https://github.com/PatrickJS)
+*   [![Image 68: @sidmohanty11](https://avatars.githubusercontent.com/u/73601258?s=64&v=4)](https://github.com/sidmohanty11)
+*   [![Image 69: @kingzez](https://avatars.githubusercontent.com/u/10891613?s=64&v=4)](https://github.com/kingzez)
+*   [![Image 70: @alujs](https://avatars.githubusercontent.com/u/5138107?s=64&v=4)](https://github.com/alujs)
+*   [![Image 71: @sahilmob](https://avatars.githubusercontent.com/u/33333226?s=64&v=4)](https://github.com/sahilmob)
+
+[\+ 92 contributors](https://github.com/BuilderIO/mitosis/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 95.1%](https://github.com/BuilderIO/mitosis/search?l=typescript)
+*   [MDX 3.1%](https://github.com/BuilderIO/mitosis/search?l=mdx)
+*   [JavaScript 1.0%](https://github.com/BuilderIO/mitosis/search?l=javascript)
+*   [CSS 0.4%](https://github.com/BuilderIO/mitosis/search?l=css)
+*   [Svelte 0.2%](https://github.com/BuilderIO/mitosis/search?l=svelte)
+*   [HTML 0.2%](https://github.com/BuilderIO/mitosis/search?l=html)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

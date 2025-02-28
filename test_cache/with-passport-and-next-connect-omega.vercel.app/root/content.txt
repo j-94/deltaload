@@ -1,0 +1,29 @@
+[Passport.js](http://www.passportjs.org/) + [next-connect](https://github.com/hoangvvo/next-connect) Example
+------------------------------------------------------------------------------------------------------------
+
+Steps to test the example:
+--------------------------
+
+### Sign up
+
+1.  Click Sign up and enter a username and password.
+2.  You will be logged in and redirected home.
+3.  Click Logout. You will be redirected home.
+4.  Try sign up again with the same username, you will see an error.
+
+### Sign in
+
+1.  Click Login and login again using the same credential.
+2.  You will see an error if you use incorrect credential.
+3.  Otherwise, you will be authenticated and redirected home.
+
+### Edit profile
+
+1.  Click Profile
+2.  Enter a new name and click Update profile.
+3.  Notice how the name in Your profile has changed.
+4.  Click Delete profile
+5.  The user is removed and is no longer shown in All users section in Home
+
+All users
+---------

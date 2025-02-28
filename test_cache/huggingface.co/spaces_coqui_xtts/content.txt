@@ -1,0 +1,27 @@
+XTTS - a Hugging Face Space by coqui
+===============
+
+[Spaces](https://huggingface.co/spaces) [![Image 3: Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/) 
+
+* * *
+
+[![Image 4](https://cdn-avatars.huggingface.co/v1/production/uploads/1648459271425-61dbf25b99eac69222659467.png)](https://huggingface.co/coqui)
+
+[coqui](https://huggingface.co/coqui)
+
+/
+
+[xtts](https://huggingface.co/spaces/coqui/xtts)
+
+like 2.28k
+
+Running on T4
+
+
+=======================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+[App](https://huggingface.co/spaces/coqui/xtts) [Files Files](https://huggingface.co/spaces/coqui/xtts/tree/main) [Community 66](https://huggingface.co/spaces/coqui/xtts/discussions)
+
+Fetching metadata from the HF Docker repository...
+
+Refreshing

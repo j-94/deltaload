@@ -1,0 +1,73 @@
+Play by hyperspace
+===============
+
+[](https://play.hyper.space/)
+
+![Image 3: Play](https://halcyon.hyper.space/assets/play-product.svg)
+
+Play
+
+[](https://play.hyper.space/)
+
+![Image 4: Play](https://halcyon.hyper.space/assets/play-product.svg)
+
+Play
+
+Toggle theme
+
+Node ViewTree View
+
+Press enter or space to select a node.You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.
+
+Press enter or space to select an edge. You can then press delete to remove it or escape to cancel.
+
+Public KeyYour public key is your unique identifier on the Hyperspace network.
+
+Welcome to Play by hyperspace
+=============================
+
+Dive into topics and explore with speed and accuracy. Choose your desired sources and AI provider to generate your own web of information.
+
+Loading latest stories.
+
+Refresh
+
+Smart contracts and decentralized applications (dApps)
+
+Theory of mind in artificial intelligence
+
+Decentralized finance (DeFi) protocols
+
+The hard problem of consciousness in philosophy
+
+Blockchain consensus mechanisms
+
+Active Inference and predictive coding in the brain
+
+Tokenomics and cryptocurrency economics
+
+Neural correlates of consciousness
+
+Cryptocurrency mining and energy consumption
+
+Comparative cognition between humans and AI
+
+[Get your Groq API key](https://console.groq.com/keys)
+
+### Data Source
+
+Web Search
+
+Data will crawl the web for real-time, relevant answers to your queries.
+
+Files
+
+Upload PDFs or text files.
+
+Data Sources
+
+### Vector Chunks
+
+#### No vector chunks available
+
+Relevant data segments are missing for this conversation. Please provide more input or check your data source(s).

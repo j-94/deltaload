@@ -1,0 +1,12 @@
+![Image 6: bg-two-column-642fc1e4a43fe4b1ad00e42c5a350ce0](https://www.databricks.com/en-website-assets/static/bg-two-column-642fc1e4a43fe4b1ad00e42c5a350ce0.png)
+
+[![Image 7](https://www.databricks.com/sites/default/files/trial-images/sb-databricks.svg)](https://www.databricks.com/)Test-drive the full Databricks platform free on your choice of AWS, Microsoft Azure or Google Cloud. Sign-up with your work email to elevate your trial experience.
+
+*   Create high quality Generative AI applications  
+    Build production quality generative AI applications and ensure your output is accurate, current, aware of your enterprise context, and safe.
+    
+*   Simplify data ingestion and automate ETL  
+    Ingest data from hundreds of sources. Use a simple declarative approach to build data pipelines.
+    
+*   Enjoy serverless credits during your trial  
+    Access instant, elastic compute during your trial. Please note that serverless compute is not available on Google Cloud Platform or for Databricks Partners.

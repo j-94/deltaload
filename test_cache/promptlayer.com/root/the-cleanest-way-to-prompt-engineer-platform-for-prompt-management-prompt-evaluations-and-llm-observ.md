@@ -1,0 +1,323 @@
+---
+title: The cleanest way to prompt engineer. Platform for prompt management, prompt evaluations, and LLM observability
+description: Advanced prompt management and prompt engineering. Powerful prompt engineering tools for evaluation, deployment, observability, and analytics. Enable team collaboration, get help writing prompts, monitor AI agents, and improve prompt quality.
+url: https://promptlayer.com/
+timestamp: 2025-01-20T15:50:02.718Z
+domain: promptlayer.com
+path: root
+---
+
+# The cleanest way to prompt engineer. Platform for prompt management, prompt evaluations, and LLM observability
+
+
+Advanced prompt management and prompt engineering. Powerful prompt engineering tools for evaluation, deployment, observability, and analytics. Enable team collaboration, get help writing prompts, monitor AI agents, and improve prompt quality.
+
+
+## Content
+
+Trusted by companies like you...  
+
+-----------------------------------
+
+![Image 136: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6c46b42677adc237cf85c_icon-1.1b125b014372b5ae91cee7d1602509db.svg)
+
+### Prompt management
+
+Visually edit, A/B test, and deploy prompts. Compare usage and latency. Avoid waiting for eng redeploys.
+
+![Image 137: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6c46b42677adc237cf85c_icon-1.1b125b014372b5ae91cee7d1602509db.svg)
+
+### Collaboration with experts
+
+Open up prompt iteration to non-technical stakeholders. Our LLM observability allows you to read logs, find edge-cases, and improve prompts.
+
+![Image 138: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6c46b42677adc237cf85c_icon-1.1b125b014372b5ae91cee7d1602509db.svg)
+
+### Evaluation
+
+Evaluate prompts against usage history. Compare models. Schedule regression tests. Build one-off batch runs.
+
+Prompt engineer with the whole team. Manage prompts visually in the Prompt Registry.
+
+![Image 139: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ca7cf848870d6bc78fc3_download.png)
+
+### Gorgias Scaled Customer Support Automation 20x with LLMs
+
+Gorgias is using PromptLayer to build an autonomous prompt engineering team, enabling them to scale their AI-powered helpdesk to millions of shoppers. They use PromptLayer every single day to store and version control prompts, run evaluations on regression and backtest datasets, and review logs to identify issues.
+
+[Read full case study](https://blog.promptlayer.com/gorgias-uses-promptlayer-to-automate-customer-support-at-scale-7c129fbdbb8d)
+
+![Image 140: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ca805b6456386d4a5c8e_download.png)
+
+### How Speak Empowers Non-Technical Teams with Prompt Engineering
+
+PromptLayer empowers non-technical teams to iterate on AI features independently, saving engineering time and costs. See how Speak compressed months of curriculum development into a single week and launched in 10 new markets with PromptLayer.
+
+[Read full case study](https://blog.promptlayer.com/how-speak-empowers-non-technical-teams-with-prompt-engineering-and-promptlayer-21fd2935cd56)
+
+![Image 141: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ca82c815542c09df797f_download.png)
+
+### ParentLab Builds Highly Personalized AI Interactions with PromptLayer
+
+PromptLayer enabled ParentLab to craft personalized AI interactions 10x faster, with 700 prompt revisions in 6 months, saving 400+ engineering hours. Prompts are deployed and updated solely by teams of non-technical domain experts.
+
+[Read full case study](https://blog.promptlayer.com/how-promptlayer-enables-non-technical-prompt-engineering-at-parentlab-0b084cc9fde1)
+
+![Image 142: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ca8495f73dfb0a9022b2_ellipsis.f4dd1fbb7c602d20ca4a.png)
+
+### How Ellipsis uses PromptLayer to Debug LLM Agents
+
+PromptLayer empowered Ellipsis to scale from 0 to 500K+ requests within 6 months while reducing debugging time by 75%. Engineers can now identify and resolve complex LLM agent issues in just 3 clicks, avoiding hundreds of hours building an in-house solution.
+
+[Read full case study](https://blog.promptlayer.com/how-ellipsis-uses-promptlayer-to-debug-llm-agents-6e66c9b1cf9d)
+
+Prompt with experts
+-------------------
+
+Building good AI is about understanding your users. That's why subject matter experts are the best prompt engineers.
+
+[Why use a prompt CMS?](https://docs.promptlayer.com/why-promptlayer/prompt-management)
+
+![Image 143: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### No-code prompt editor
+
+Update and test prompts directly from the dashboard.
+
+![Image 144: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Include non-technical stakeholders  
+
+Enable product, marketing, and content teams to edit prompts directly.
+
+![Image 145: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Avoid engineer bottlenecks  
+
+Decouple eng releases from prompt deploys.
+
+![Image 146: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d2d98d395a1adb719dd3_history-feature.a522d2b03e1dabf0d319.png)
+
+![Image 147: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d5828d69eda68c940bf9_registry-feature.8d468cd427c5732e0222.png)
+
+Version prompts
+---------------
+
+Edit and deploy prompt versions visually using our dashboard. No coding required.
+
+[Get started for free](https://promptlayer.com/create-account)
+
+![Image 148: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Organize versions  
+
+Comment, write notes, diff versions, and roll back changes.
+
+![Image 149: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Deploy new prompts  
+
+Publish new prompts interactively for prod and dev.
+
+![Image 150: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Clean up your repo  
+
+Prompts shouldn't be scattered through your codebase.
+
+![Image 151: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### A/B test prompts  
+
+Release new prompt versions gradually and compare metrics.
+
+Evaluate iteratively
+--------------------
+
+Rigorously test prompts before deploying, with the help of human and AI graders.
+
+[Learn more](https://docs.promptlayer.com/features/evaluations/overview)
+
+![Image 152: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Historical backtests  
+
+See how new prompt versions fair against historical data.
+
+![Image 153: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Regression tests  
+
+Trigger evals to run every time a prompt is updated.
+
+![Image 154: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Compare models  
+
+Test prompts against different models and parameters.
+
+![Image 155: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### One-off bulk jobs  
+
+Run prompt pipelines against a batch of test inputs.
+
+![Image 156: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d69a2df357865bac127b_evaluations-feature.e1e958349cc822419e34.png)
+
+![Image 157: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d6a0d0f53b56e43d341c_monitoring.27326bc9c4be258ba189.png)
+
+Monitor usage
+-------------
+
+Understand how your LLM application is being used, by whom, and how often. No need to jump back and forth to Mixpanel or Datadog.
+
+[See how it works](https://docs.promptlayer.com/why-promptlayer/analytics)
+
+![Image 158: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Cost, latency stats  
+
+View high level stats about your LLM usage.
+
+![Image 159: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Latency trends  
+
+Understand latency trends over time, by feature, and by model.
+
+![Image 160: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)
+
+### Jump to bug report  
+
+Quickly find execution logs for a given user.
+
+What users are saying  
+
+------------------------
+
+![Image 161: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d883ee7810093e097220_speak.f1d15e90d44ba1127427607438678552.svg)
+
+Using PromptLayer, I completed many months' worth of work in a single week. It empowered me to drastically scale our content creation process, going from curriculum outlines to app-ready content that users could engage with immediately.
+
+![Image 162: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d8fcc37f29e25506e643_seungjae.b7a16cfbb7a09de30664.avif)
+
+### Seung Jae Cha
+
+Product Lead at Speak
+
+![Image 163: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d9c2c77db380185fbded_parentlab.986c41eac717a750d6fea9f5d6555ff0.svg)
+
+PromptLayer has been a game-changer for us. It has allowed our content team to rapidly iterate on prompts, find the right tone, and address edge cases, all without burdening our engineers. This has been critical for creating an AI that truly connects with and supports our users.
+
+![Image 164: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d9c87bd87b7f7bfe3a7d_johngilmore.f2a769c4ff169dbd3dce.avif)
+
+### John Gilmore
+
+VP of Operations at ParentLab
+
+![Image 165: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d9c5a9786f5f00e74e5f_gorgias.4949131a65d57eeb1695039f1f28020a.svg)
+
+We iterate on prompts 10s of times every single day. It would be impossible to do this in a SAFE way without PromptLayer.
+
+![Image 166: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d9cb2df357865baf074a_victorduprez.0291b7651c474a909dc0.avif)
+
+### Victor Duprez
+
+Director of Engineering at Gorgias
+
+![Image 167: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6f4f8ed17499ad5320b60_openai.eefdea21d975fa5290b1.avif)
+
+![Image 168: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6dafc7e594fca834c1218_gemini.9fb14a624d22aeef1ed670c0ce7d3df5.svg)
+
+PromptLayer is an example of a company that is solving a different lens of the problem, managing all your different prompts as they come in. The thing that I'm most excited about today is evals… I think it's a fundamental challenge for people using LLMs. When a new model comes out whether it's from OpenAI or some other provider, I don't know as the end user of that model how it's going to impact my use case. And, really, the only way to do that is to have a bunch of robust evals that you go and build…
+
+![Image 169: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6dc013de998072e65b6fe_logankilpatrick.e7946380e738ec282bda.avif)
+
+### Logan Kilpatrick
+
+Gemini and OpenAI
+
+![Image 170: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6db009ed601081071595a_twilio.c59c1e1217f4a77cb2a65622320e5650.svg)
+
+Getting started with LLM APIs is easy. Moving to production and scale is hard. PromptLayer gives me out-of-the-box tooling to iterate, evaluate, monitor, and multisource my LLM-based apps, so I can spend less time building infrastructure. And just like how Wordpress allowed anyone to publish on the web, PromptLayer empowers non-developers and subject matter experts to iterate and improve on prompts without touching the code.
+
+![Image 171: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6dc042b87891a6ea3f88c_gregBauges.f6ed01685e6f88daf8b2.avif)
+
+### Greg Baugues
+
+Former Director of Developer Relations at Twilio
+
+PromptLayer has become indispensable to our iteration process. Using the Prompt Registry, our team of mental health experts create tests, evaluate responses, and directly make edits to prompts without any engineering support. Even though our team is mostly non-technical, they use PromptLayer to improve the AI based on their personal clinical experience.
+
+### John Smith
+
+AI Researcher at Stealth Mental Health Startup
+
+![Image 172: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6db072b628388217f0bdd_harvey.b1ec28be7cd71badb35a979ceed35d84.svg)
+
+The team at PromptLayer has built a seriously impressive platform for prompt engineering. Their prompt CMS does a great job of allowing non-technical stakeholders to actually become the prompt engineers. It's the key that brings analytics, observability, and evals together for easy iteration.
+
+![Image 173: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ec496467d331f14d62d5_amankishore.b3e0a25e1293e2271658.avif)
+
+### Aman Kishore
+
+Founder at MirageML (aqd Harvey)
+
+![Image 174: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6db092b628388217f0da2_ellipsis_cropped.b55dd92d5efaa7ce83d0.png)
+
+If I'm at my desk and see that somebody's workflow went bad, it takes only 3 or 4 clicks. I go to PromptLayer, filter by the workflow ID, and I'm in. The information density means my time to being productive is really really good.
+
+![Image 175: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ec4d1b6d5923133bfbb4_nickbradford.2ba078bd1619812f85df.avif)
+
+### Nick Bradford
+
+Founder & CTO at Ellipsis
+
+![Image 176: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6db0c313c02cea9750a91_granola.0f6e6eaaf3da27553ec1badb0ba54158.svg)
+
+It takes a lot of work to build a good AI notepad like Granola. Especially because there is no ground-truth to compare against. PromptLayer makes it easy to version and build custom evals for your prompts.
+
+![Image 177: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ec51a9786f5f00f7da2f_chrispedregal.c7c3434430e2cfef96fc.avif)
+
+### Chris Pedregal
+
+CEO at Granola
+
+Collaborate without engineering
+-------------------------------
+
+Move your prompts out of code and serve them from our CMS. Enable subject matter experts, like PMs or content writers, to edit and test prompt versions all through the PromptLayer dashboard.
+
+[Signup for free](https://dashboard.promptlayer.com/create-account)
+
+![Image 178: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6df4832b8420d2ea3cea1_team-light.a609488964d6e6780813.avif)
+
+Model agnostic
+--------------
+
+One prompt template for every model.
+
+Prompt engineering pioneers
+---------------------------
+
+We are building a community for the real builders of AI: the prompt engineers. They come in all shapes and all sizes. Lawyers, doctors, educators, and even software  
+engineers.
+
+[Get started 🍰](https://dashboard.promptlayer.com/create-account)
+
+The first platform built for prompt engineering
+-----------------------------------------------
+
+## Metadata
+
+```json
+{
+  "title": "The cleanest way to prompt engineer. Platform for prompt management, prompt evaluations, and LLM observability",
+  "description": "Advanced prompt management and prompt engineering. Powerful prompt engineering tools for evaluation, deployment, observability, and analytics. Enable team collaboration, get help writing prompts, monitor AI agents, and improve prompt quality.",
+  "url": "https://promptlayer.com/",
+  "content": "Trusted by companies like you...  \n\n-----------------------------------\n\n![Image 136: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6c46b42677adc237cf85c_icon-1.1b125b014372b5ae91cee7d1602509db.svg)\n\n### Prompt management\n\nVisually edit, A/B test, and deploy prompts. Compare usage and latency. Avoid waiting for eng redeploys.\n\n![Image 137: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6c46b42677adc237cf85c_icon-1.1b125b014372b5ae91cee7d1602509db.svg)\n\n### Collaboration with experts\n\nOpen up prompt iteration to non-technical stakeholders. Our LLM observability allows you to read logs, find edge-cases, and improve prompts.\n\n![Image 138: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6c46b42677adc237cf85c_icon-1.1b125b014372b5ae91cee7d1602509db.svg)\n\n### Evaluation\n\nEvaluate prompts against usage history. Compare models. Schedule regression tests. Build one-off batch runs.\n\nPrompt engineer with the whole team. Manage prompts visually in the Prompt Registry.\n\n![Image 139: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ca7cf848870d6bc78fc3_download.png)\n\n### Gorgias Scaled Customer Support Automation 20x with LLMs\n\nGorgias is using PromptLayer to build an autonomous prompt engineering team, enabling them to scale their AI-powered helpdesk to millions of shoppers. They use PromptLayer every single day to store and version control prompts, run evaluations on regression and backtest datasets, and review logs to identify issues.\n\n[Read full case study](https://blog.promptlayer.com/gorgias-uses-promptlayer-to-automate-customer-support-at-scale-7c129fbdbb8d)\n\n![Image 140: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ca805b6456386d4a5c8e_download.png)\n\n### How Speak Empowers Non-Technical Teams with Prompt Engineering\n\nPromptLayer empowers non-technical teams to iterate on AI features independently, saving engineering time and costs. See how Speak compressed months of curriculum development into a single week and launched in 10 new markets with PromptLayer.\n\n[Read full case study](https://blog.promptlayer.com/how-speak-empowers-non-technical-teams-with-prompt-engineering-and-promptlayer-21fd2935cd56)\n\n![Image 141: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ca82c815542c09df797f_download.png)\n\n### ParentLab Builds Highly Personalized AI Interactions with PromptLayer\n\nPromptLayer enabled ParentLab to craft personalized AI interactions 10x faster, with 700 prompt revisions in 6 months, saving 400+ engineering hours. Prompts are deployed and updated solely by teams of non-technical domain experts.\n\n[Read full case study](https://blog.promptlayer.com/how-promptlayer-enables-non-technical-prompt-engineering-at-parentlab-0b084cc9fde1)\n\n![Image 142: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ca8495f73dfb0a9022b2_ellipsis.f4dd1fbb7c602d20ca4a.png)\n\n### How Ellipsis uses PromptLayer to Debug LLM Agents\n\nPromptLayer empowered Ellipsis to scale from 0 to 500K+ requests within 6 months while reducing debugging time by 75%. Engineers can now identify and resolve complex LLM agent issues in just 3 clicks, avoiding hundreds of hours building an in-house solution.\n\n[Read full case study](https://blog.promptlayer.com/how-ellipsis-uses-promptlayer-to-debug-llm-agents-6e66c9b1cf9d)\n\nPrompt with experts\n-------------------\n\nBuilding good AI is about understanding your users. That's why subject matter experts are the best prompt engineers.\n\n[Why use a prompt CMS?](https://docs.promptlayer.com/why-promptlayer/prompt-management)\n\n![Image 143: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### No-code prompt editor\n\nUpdate and test prompts directly from the dashboard.\n\n![Image 144: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Include non-technical stakeholders  \n\nEnable product, marketing, and content teams to edit prompts directly.\n\n![Image 145: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Avoid engineer bottlenecks  \n\nDecouple eng releases from prompt deploys.\n\n![Image 146: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d2d98d395a1adb719dd3_history-feature.a522d2b03e1dabf0d319.png)\n\n![Image 147: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d5828d69eda68c940bf9_registry-feature.8d468cd427c5732e0222.png)\n\nVersion prompts\n---------------\n\nEdit and deploy prompt versions visually using our dashboard. No coding required.\n\n[Get started for free](https://promptlayer.com/create-account)\n\n![Image 148: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Organize versions  \n\nComment, write notes, diff versions, and roll back changes.\n\n![Image 149: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Deploy new prompts  \n\nPublish new prompts interactively for prod and dev.\n\n![Image 150: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Clean up your repo  \n\nPrompts shouldn't be scattered through your codebase.\n\n![Image 151: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### A/B test prompts  \n\nRelease new prompt versions gradually and compare metrics.\n\nEvaluate iteratively\n--------------------\n\nRigorously test prompts before deploying, with the help of human and AI graders.\n\n[Learn more](https://docs.promptlayer.com/features/evaluations/overview)\n\n![Image 152: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Historical backtests  \n\nSee how new prompt versions fair against historical data.\n\n![Image 153: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Regression tests  \n\nTrigger evals to run every time a prompt is updated.\n\n![Image 154: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Compare models  \n\nTest prompts against different models and parameters.\n\n![Image 155: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### One-off bulk jobs  \n\nRun prompt pipelines against a batch of test inputs.\n\n![Image 156: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d69a2df357865bac127b_evaluations-feature.e1e958349cc822419e34.png)\n\n![Image 157: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d6a0d0f53b56e43d341c_monitoring.27326bc9c4be258ba189.png)\n\nMonitor usage\n-------------\n\nUnderstand how your LLM application is being used, by whom, and how often. No need to jump back and forth to Mixpanel or Datadog.\n\n[See how it works](https://docs.promptlayer.com/why-promptlayer/analytics)\n\n![Image 158: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Cost, latency stats  \n\nView high level stats about your LLM usage.\n\n![Image 159: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Latency trends  \n\nUnderstand latency trends over time, by feature, and by model.\n\n![Image 160: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d1dba9786f5f00debfc2_pie-chart.f8597b59d0658fd977b58e8c75569f8f.svg)\n\n### Jump to bug report  \n\nQuickly find execution logs for a given user.\n\nWhat users are saying  \n\n------------------------\n\n![Image 161: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d883ee7810093e097220_speak.f1d15e90d44ba1127427607438678552.svg)\n\nUsing PromptLayer, I completed many months' worth of work in a single week. It empowered me to drastically scale our content creation process, going from curriculum outlines to app-ready content that users could engage with immediately.\n\n![Image 162: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d8fcc37f29e25506e643_seungjae.b7a16cfbb7a09de30664.avif)\n\n### Seung Jae Cha\n\nProduct Lead at Speak\n\n![Image 163: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d9c2c77db380185fbded_parentlab.986c41eac717a750d6fea9f5d6555ff0.svg)\n\nPromptLayer has been a game-changer for us. It has allowed our content team to rapidly iterate on prompts, find the right tone, and address edge cases, all without burdening our engineers. This has been critical for creating an AI that truly connects with and supports our users.\n\n![Image 164: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d9c87bd87b7f7bfe3a7d_johngilmore.f2a769c4ff169dbd3dce.avif)\n\n### John Gilmore\n\nVP of Operations at ParentLab\n\n![Image 165: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d9c5a9786f5f00e74e5f_gorgias.4949131a65d57eeb1695039f1f28020a.svg)\n\nWe iterate on prompts 10s of times every single day. It would be impossible to do this in a SAFE way without PromptLayer.\n\n![Image 166: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6d9cb2df357865baf074a_victorduprez.0291b7651c474a909dc0.avif)\n\n### Victor Duprez\n\nDirector of Engineering at Gorgias\n\n![Image 167: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6f4f8ed17499ad5320b60_openai.eefdea21d975fa5290b1.avif)\n\n![Image 168: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6dafc7e594fca834c1218_gemini.9fb14a624d22aeef1ed670c0ce7d3df5.svg)\n\nPromptLayer is an example of a company that is solving a different lens of the problem, managing all your different prompts as they come in. The thing that I'm most excited about today is evals… I think it's a fundamental challenge for people using LLMs. When a new model comes out whether it's from OpenAI or some other provider, I don't know as the end user of that model how it's going to impact my use case. And, really, the only way to do that is to have a bunch of robust evals that you go and build…\n\n![Image 169: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6dc013de998072e65b6fe_logankilpatrick.e7946380e738ec282bda.avif)\n\n### Logan Kilpatrick\n\nGemini and OpenAI\n\n![Image 170: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6db009ed601081071595a_twilio.c59c1e1217f4a77cb2a65622320e5650.svg)\n\nGetting started with LLM APIs is easy. Moving to production and scale is hard. PromptLayer gives me out-of-the-box tooling to iterate, evaluate, monitor, and multisource my LLM-based apps, so I can spend less time building infrastructure. And just like how Wordpress allowed anyone to publish on the web, PromptLayer empowers non-developers and subject matter experts to iterate and improve on prompts without touching the code.\n\n![Image 171: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6dc042b87891a6ea3f88c_gregBauges.f6ed01685e6f88daf8b2.avif)\n\n### Greg Baugues\n\nFormer Director of Developer Relations at Twilio\n\nPromptLayer has become indispensable to our iteration process. Using the Prompt Registry, our team of mental health experts create tests, evaluate responses, and directly make edits to prompts without any engineering support. Even though our team is mostly non-technical, they use PromptLayer to improve the AI based on their personal clinical experience.\n\n### John Smith\n\nAI Researcher at Stealth Mental Health Startup\n\n![Image 172: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6db072b628388217f0bdd_harvey.b1ec28be7cd71badb35a979ceed35d84.svg)\n\nThe team at PromptLayer has built a seriously impressive platform for prompt engineering. Their prompt CMS does a great job of allowing non-technical stakeholders to actually become the prompt engineers. It's the key that brings analytics, observability, and evals together for easy iteration.\n\n![Image 173: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ec496467d331f14d62d5_amankishore.b3e0a25e1293e2271658.avif)\n\n### Aman Kishore\n\nFounder at MirageML (aqd Harvey)\n\n![Image 174: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6db092b628388217f0da2_ellipsis_cropped.b55dd92d5efaa7ce83d0.png)\n\nIf I'm at my desk and see that somebody's workflow went bad, it takes only 3 or 4 clicks. I go to PromptLayer, filter by the workflow ID, and I'm in. The information density means my time to being productive is really really good.\n\n![Image 175: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ec4d1b6d5923133bfbb4_nickbradford.2ba078bd1619812f85df.avif)\n\n### Nick Bradford\n\nFounder & CTO at Ellipsis\n\n![Image 176: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6db0c313c02cea9750a91_granola.0f6e6eaaf3da27553ec1badb0ba54158.svg)\n\nIt takes a lot of work to build a good AI notepad like Granola. Especially because there is no ground-truth to compare against. PromptLayer makes it easy to version and build custom evals for your prompts.\n\n![Image 177: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6ec51a9786f5f00f7da2f_chrispedregal.c7c3434430e2cfef96fc.avif)\n\n### Chris Pedregal\n\nCEO at Granola\n\nCollaborate without engineering\n-------------------------------\n\nMove your prompts out of code and serve them from our CMS. Enable subject matter experts, like PMs or content writers, to edit and test prompt versions all through the PromptLayer dashboard.\n\n[Signup for free](https://dashboard.promptlayer.com/create-account)\n\n![Image 178: no-img](https://cdn.prod.website-files.com/66d5ba3a2306c1a43443cc69/66d6df4832b8420d2ea3cea1_team-light.a609488964d6e6780813.avif)\n\nModel agnostic\n--------------\n\nOne prompt template for every model.\n\nPrompt engineering pioneers\n---------------------------\n\nWe are building a community for the real builders of AI: the prompt engineers. They come in all shapes and all sizes. Lawyers, doctors, educators, and even software  \nengineers.\n\n[Get started 🍰](https://dashboard.promptlayer.com/create-account)\n\nThe first platform built for prompt engineering\n-----------------------------------------------",
+  "usage": {
+    "tokens": 4639
+  }
+}
+```

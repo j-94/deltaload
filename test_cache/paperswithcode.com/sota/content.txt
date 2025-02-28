@@ -1,0 +1,274 @@
+Browse the State-of-the-Art in Machine Learning | Papers With Code
+===============  
+
+[](https://paperswithcode.com/)
+
+[![Image 84](blob:https://paperswithcode.com/634c93c36d926f33e112bd72079c6da6)](https://twitter.com/paperswithcode)
+
+*     
+    
+*   [Browse State-of-the-Art](https://paperswithcode.com/sota)
+*   [Datasets](https://paperswithcode.com/datasets)
+*   [Methods](https://paperswithcode.com/methods)
+*   More
+    
+    [Newsletter](https://paperswithcode.com/newsletter) [RC2022](https://paperswithcode.com/rc2022)
+    
+    [About](https://paperswithcode.com/about) [Trends](https://paperswithcode.com/trends) [Portals](https://portal.paperswithcode.com/) [Libraries](https://paperswithcode.com/libraries)
+    
+
+*   [![Image 85](blob:https://paperswithcode.com/634c93c36d926f33e112bd72079c6da6)](https://twitter.com/paperswithcode)
+*   [Sign In](https://paperswithcode.com/accounts/login?next=/sota)
+
+Browse State-of-the-Art
+=======================
+
+**12,527** benchmarks    **5,333** tasks    **153,464** papers with code
+
+### Subscribe to the PwC Newsletter
+
+×
+
+Stay informed on the latest trending ML papers with code, research developments, libraries, methods, and datasets.  
+  
+[Read previous issues](https://paperswithcode.com/newsletter)
+
+ 
+
+Subscribe
+
+##### Join the community
+
+×
+
+You need to [log in](https://paperswithcode.com/accounts/login?next=/sota) to edit.  
+You can [create a new account](https://paperswithcode.com/accounts/register?next=/sota) if you don't have one.  
+  
+
+#### [Computer Vision](https://paperswithcode.com/area/computer-vision)
+
+[![Image 86](https://production-media.paperswithcode.com/icons/task/b45b7a24-e2dd-47e2-9d1f-0f372e5d9074.jpg) Semantic Segmentation ===================== 345 benchmarks 6206 papers with code](https://paperswithcode.com/task/semantic-segmentation)
+
+[![Image 87](https://production-media.paperswithcode.com/icons/task/dd004e56-bc49-4cc1-b0d5-186f2dd17ce8.jpg) Object Detection ================ 388 benchmarks 4418 papers with code](https://paperswithcode.com/task/object-detection)
+
+[![Image 88](https://production-media.paperswithcode.com/icons/task/0aa45ecb-2bb1-4c8d-bd0c-16b4d9de739d.jpg) Image Classification ==================== 488 benchmarks 4396 papers with code](https://paperswithcode.com/task/image-classification)
+
+[![Image 89](https://production-media.paperswithcode.com/icons/task/task-0000000228-40138330.jpg) Representation Learning ======================= 16 benchmarks 4364 papers with code](https://paperswithcode.com/task/representation-learning)
+
+[![Image 90](https://production-media.paperswithcode.com/icons/task/52a08002-04d0-4679-8154-fcd2ad546613.jpg) Contrastive Learning ==================== 4 benchmarks 2785 papers with code](https://paperswithcode.com/task/contrastive-learning)
+
+[See all 1922 tasks](https://paperswithcode.com/area/computer-vision)
+
+#### [Natural Language Processing](https://paperswithcode.com/area/natural-language-processing)
+
+[![Image 91](https://production-media.paperswithcode.com/icons/task/6c87414b-d902-41df-ae32-3333e5e33c35.jpg) Language Modelling ================== 86 benchmarks 6207 papers with code](https://paperswithcode.com/task/language-modelling)
+
+[![Image 92](https://production-media.paperswithcode.com/tasks/default.gif) Language Modeling ================= 4838 papers with code](https://paperswithcode.com/task/language-modeling)
+
+[![Image 93](https://production-media.paperswithcode.com/tasks/default.gif) Decoder ======= 4089 papers with code](https://paperswithcode.com/task/decoder)
+
+[![Image 94](https://production-media.paperswithcode.com/tasks/default.gif) Reinforcement Learning ====================== 1 benchmark 3906 papers with code](https://paperswithcode.com/task/reinforcement-learning)
+
+[![Image 95](https://production-media.paperswithcode.com/icons/task/23363b0f-e2b7-4f33-8906-2ffd6ff39d5b.jpg) Question Answering ================== 248 benchmarks 3684 papers with code](https://paperswithcode.com/task/question-answering)
+
+[See all 841 tasks](https://paperswithcode.com/area/natural-language-processing)
+
+#### [Medical](https://paperswithcode.com/area/medical)
+
+[![Image 96](https://production-media.paperswithcode.com/icons/task/task-0000000876-6fe8e464.jpg) Medical Image Segmentation ========================== 137 benchmarks 977 papers with code](https://paperswithcode.com/task/medical-image-segmentation)
+
+[![Image 97](https://production-media.paperswithcode.com/icons/task/65d78279-f080-4f76-a009-cb3eeec5aeae.jpg) EEG === 506 papers with code](https://paperswithcode.com/task/eeg-1)
+
+[![Image 98](https://production-media.paperswithcode.com/icons/task/task-0000000282-54d41e7e.jpg) Drug Discovery ============== 32 benchmarks 492 papers with code](https://paperswithcode.com/task/drug-discovery)
+
+[![Image 99](https://production-media.paperswithcode.com/icons/task/d2cad98a-4444-4389-8222-2a9fd73b3ccb.jpg) Medical Image Analysis ====================== 1 benchmark 479 papers with code](https://paperswithcode.com/task/medical-image-analysis)
+
+[![Image 100](https://production-media.paperswithcode.com/icons/task/6c0fe595-4083-4e3e-a435-a6b15e6ca47d.jpg) Text-to-Image Generation ======================== 16 benchmarks 426 papers with code](https://paperswithcode.com/task/text-to-image-generation)
+
+[See all 326 tasks](https://paperswithcode.com/area/medical)
+
+#### [Miscellaneous](https://paperswithcode.com/area/miscellaneous)
+
+[![Image 101](https://production-media.paperswithcode.com/icons/task/47e22dfe-5900-43de-9bd8-38429525d8aa.jpg) Transfer Learning ================= 20 benchmarks 3274 papers with code](https://paperswithcode.com/task/transfer-learning)
+
+[![Image 102](https://production-media.paperswithcode.com/tasks/default.gif) Diversity ========= 2880 papers with code](https://paperswithcode.com/task/diversity)
+
+[![Image 103](https://production-media.paperswithcode.com/tasks/default.gif) BIG-bench Machine Learning ========================== 2 benchmarks 2347 papers with code](https://paperswithcode.com/task/machine-learning)
+
+[![Image 104](https://production-media.paperswithcode.com/tasks/be9909ca-194a-4384-934e-10ffaac9c349.jpg) Benchmarking ============ 2 benchmarks 2164 papers with code](https://paperswithcode.com/task/benchmarking)
+
+[![Image 105](https://production-media.paperswithcode.com/icons/task/task-0000000592-b6c2cb4d.jpg) Recommendation Systems ====================== 89 benchmarks 1796 papers with code](https://paperswithcode.com/task/recommendation-systems)
+
+[See all 292 tasks](https://paperswithcode.com/area/miscellaneous)
+
+#### [Methodology](https://paperswithcode.com/area/methodology)
+
+[![Image 106](https://production-media.paperswithcode.com/icons/task/cf8d576e-2c2f-4b11-a767-7198a8e458df.jpg) Retrieval ========= 25 benchmarks 4718 papers with code](https://paperswithcode.com/task/retrieval)
+
+[![Image 107](https://production-media.paperswithcode.com/icons/task/dd004e56-bc49-4cc1-b0d5-186f2dd17ce8.jpg) Object Detection ================ 388 benchmarks 4418 papers with code](https://paperswithcode.com/task/object-detection)
+
+[![Image 108](https://production-media.paperswithcode.com/icons/task/task-0000000228-40138330.jpg) Representation Learning ======================= 16 benchmarks 4364 papers with code](https://paperswithcode.com/task/representation-learning)
+
+[![Image 109](https://production-media.paperswithcode.com/tasks/default.gif) Reinforcement Learning (RL) =========================== 6 benchmarks 4350 papers with code](https://paperswithcode.com/task/reinforcement-learning-1)
+
+[![Image 110](https://production-media.paperswithcode.com/icons/task/015677d5-131c-4f99-8656-edfc21662f79.jpg) General Classification ====================== 11 benchmarks 3942 papers with code](https://paperswithcode.com/task/classification)
+
+[See all 244 tasks](https://paperswithcode.com/area/methodology)
+
+#### [Time Series](https://paperswithcode.com/area/time-series)
+
+[![Image 111](https://production-media.paperswithcode.com/tasks/default.gif) Decoder ======= 4089 papers with code](https://paperswithcode.com/task/decoder)
+
+[![Image 112](https://production-media.paperswithcode.com/icons/task/task-0000000183-8e6fa8a4.jpg) Time Series Analysis ==================== 152 benchmarks 1969 papers with code](https://paperswithcode.com/task/time-series)
+
+[![Image 113](https://production-media.paperswithcode.com/icons/task/9affd2a5-9c13-4211-a887-f212e85bfd62.jpg) Pose Estimation =============== 198 benchmarks 1555 papers with code](https://paperswithcode.com/task/pose-estimation)
+
+[![Image 114](https://production-media.paperswithcode.com/tasks/default.gif) Computational Efficiency ======================== 1 benchmark 1267 papers with code](https://paperswithcode.com/task/computational-efficiency)
+
+[![Image 115](https://production-media.paperswithcode.com/icons/task/fdc06f4e-fd56-4efe-a1f6-9a7334fb333e.jpg) Time Series Forecasting ======================= 132 benchmarks 613 papers with code](https://paperswithcode.com/task/time-series-forecasting)
+
+[See all 136 tasks](https://paperswithcode.com/area/time-series)
+
+#### [Graphs](https://paperswithcode.com/area/graphs)
+
+[![Image 116](https://production-media.paperswithcode.com/icons/task/9772666b-6f6f-42fb-961b-54ed39504da6.jpg) Denoising ========= 153 benchmarks 2484 papers with code](https://paperswithcode.com/task/denoising)
+
+[![Image 117](https://production-media.paperswithcode.com/thumbnails/task/task-0000000592-2508deea.jpg) Graph Neural Network ==================== 1 benchmark 1409 papers with code](https://paperswithcode.com/task/graph-neural-network)
+
+[![Image 118](https://production-media.paperswithcode.com/icons/task/task-0000000407-8895dd44.jpg) Node Classification =================== 152 benchmarks 924 papers with code](https://paperswithcode.com/task/node-classification)
+
+[![Image 119](https://production-media.paperswithcode.com/icons/task/task-0000000031-0b4d3941.jpg) Link Prediction =============== 94 benchmarks 922 papers with code](https://paperswithcode.com/task/link-prediction)
+
+[![Image 120](https://production-media.paperswithcode.com/icons/task/79ef5f30-d888-4877-95e0-db70111586fb.jpg) Image Super-Resolution ====================== 76 benchmarks 726 papers with code](https://paperswithcode.com/task/image-super-resolution)
+
+[See all 121 tasks](https://paperswithcode.com/area/graphs)
+
+#### [Speech](https://paperswithcode.com/area/speech)
+
+[![Image 121](https://production-media.paperswithcode.com/icons/task/task-0000000646-5b0ec995.jpg) Speech Recognition ================== 250 benchmarks 1281 papers with code](https://paperswithcode.com/task/speech-recognition)
+
+[![Image 122](https://production-media.paperswithcode.com/thumbnails/task/task-0000000646-bb6f0daf.jpg) Automatic Speech Recognition (ASR) ================================== 13 benchmarks 573 papers with code](https://paperswithcode.com/task/automatic-speech-recognition)
+
+[![Image 123](https://production-media.paperswithcode.com/icons/task/task-0000000247-0b3231e9.gif) Speech Synthesis ================ 18 benchmarks 338 papers with code](https://paperswithcode.com/task/speech-synthesis)
+
+[![Image 124](https://production-media.paperswithcode.com/icons/task/555c0529-901d-449f-82d1-cacdcd003cd1.jpg) Speech Enhancement ================== 24 benchmarks 256 papers with code](https://paperswithcode.com/task/speech-enhancement)
+
+[![Image 125](https://production-media.paperswithcode.com/icons/task/b3b452d7-3d5c-449c-b56d-05094e38b75e.jpg) Dialogue Generation =================== 14 benchmarks 248 papers with code](https://paperswithcode.com/task/dialogue-generation)
+
+[See all 96 tasks](https://paperswithcode.com/area/speech)
+
+#### [Audio](https://paperswithcode.com/area/audio)
+
+[![Image 126](https://production-media.paperswithcode.com/icons/task/task-0000000247-0b3231e9.gif) Speech Synthesis ================ 18 benchmarks 338 papers with code](https://paperswithcode.com/task/speech-synthesis)
+
+[![Image 127](https://production-media.paperswithcode.com/tasks/default.gif) Music Generation ================ 1 benchmark 168 papers with code](https://paperswithcode.com/task/music-generation)
+
+[![Image 128](https://production-media.paperswithcode.com/thumbnails/task/d0eafcb3-1a12-430b-8bb5-6f6bbff1a4b3.jpg) Audio Classification ==================== 26 benchmarks 167 papers with code](https://paperswithcode.com/task/audio-classification)
+
+[![Image 129](https://production-media.paperswithcode.com/tasks/default.gif) Voice Conversion ================ 3 benchmarks 164 papers with code](https://paperswithcode.com/task/voice-conversion)
+
+[![Image 130](https://img.shields.io/twitter/follow/udibr.svg?style=social) Language Identification ======================= 7 benchmarks 135 papers with code](https://paperswithcode.com/task/language-identification)
+
+[See all 96 tasks](https://paperswithcode.com/area/audio)
+
+#### [Reasoning](https://paperswithcode.com/area/reasoning)
+
+[![Image 131](https://raw.githubusercontent.com/deepmind/graph_nets/master/images/graph-network.png) Decision Making =============== 1 benchmark 2661 papers with code](https://paperswithcode.com/task/decision-making)
+
+[![Image 132](https://production-media.paperswithcode.com/tasks/default.gif) Navigate ======== 571 papers with code](https://paperswithcode.com/task/navigate)
+
+[![Image 133](https://production-media.paperswithcode.com/icons/task/task-0000000252-55b054fb.jpg) Common Sense Reasoning ====================== 37 benchmarks 305 papers with code](https://paperswithcode.com/task/common-sense-reasoning)
+
+[![Image 134](https://production-media.paperswithcode.com/icons/task/task-0000000242-3efd20a2.jpg) Visual Reasoning ================ 19 benchmarks 277 papers with code](https://paperswithcode.com/task/visual-reasoning)
+
+[![Image 135](https://production-media.paperswithcode.com/tasks/default.gif) Logical Reasoning ================= 21 benchmarks 263 papers with code](https://paperswithcode.com/task/logical-reasoning)
+
+[See all 85 tasks](https://paperswithcode.com/area/reasoning)
+
+#### [Computer Code](https://paperswithcode.com/area/computer-code)
+
+[![Image 136](https://production-media.paperswithcode.com/icons/task/b45b7a24-e2dd-47e2-9d1f-0f372e5d9074.jpg) Semantic Segmentation ===================== 345 benchmarks 6206 papers with code](https://paperswithcode.com/task/semantic-segmentation)
+
+[![Image 137](https://production-media.paperswithcode.com/tasks/default.gif) Reinforcement Learning (RL) =========================== 6 benchmarks 4350 papers with code](https://paperswithcode.com/task/reinforcement-learning-1)
+
+[![Image 138](https://production-media.paperswithcode.com/icons/task/a95fa0a0-cf6d-4ff1-a35f-526d1bdc2494.jpg) Code Generation =============== 33 benchmarks 548 papers with code](https://paperswithcode.com/task/code-generation)
+
+[![Image 139](https://production-media.paperswithcode.com/tasks/default.gif) NMT === 515 papers with code](https://paperswithcode.com/task/nmt)
+
+[![Image 140](https://production-media.paperswithcode.com/icons/task/bf9770bb-8669-4b91-95b2-3b87092f6e3f.jpg) Text-To-SQL =========== 9 benchmarks 173 papers with code](https://paperswithcode.com/task/text-to-sql)
+
+[See all 77 tasks](https://paperswithcode.com/area/computer-code)
+
+#### [Robots](https://paperswithcode.com/area/robots)
+
+[![Image 141](https://production-media.paperswithcode.com/tasks/be9909ca-194a-4384-934e-10ffaac9c349.jpg) Benchmarking ============ 2 benchmarks 2164 papers with code](https://paperswithcode.com/task/benchmarking)
+
+[![Image 142](https://production-media.paperswithcode.com/icons/task/task-0000001126-303233df.jpg) Motion Planning =============== 1 benchmark 220 papers with code](https://paperswithcode.com/task/motion-planning)
+
+[![Image 143](https://production-media.paperswithcode.com/icons/task/a583696e-efa7-48e8-90ae-a41ad51a55cc.jpg) DeepFake Detection ================== 10 benchmarks 199 papers with code](https://paperswithcode.com/task/deepfake-detection)
+
+[![Image 144](https://production-media.paperswithcode.com/icons/task/task-0000000547-5ff26267.jpg) Robot Navigation ================ 5 benchmarks 149 papers with code](https://paperswithcode.com/task/robot-navigation)
+
+[![Image 145](https://production-media.paperswithcode.com/icons/task/task-0000000548-546333d6.gif) Visual Navigation ================= 6 benchmarks 121 papers with code](https://paperswithcode.com/task/visual-navigation)
+
+[See all 67 tasks](https://paperswithcode.com/area/robots)
+
+#### [Adversarial](https://paperswithcode.com/area/adversarial)
+
+[![Image 146](https://production-media.paperswithcode.com/tasks/default.gif) Object ====== 3798 papers with code](https://paperswithcode.com/task/object)
+
+[![Image 147](https://production-media.paperswithcode.com/tasks/default.gif) Adversarial Robustness ====================== 7 benchmarks 729 papers with code](https://paperswithcode.com/task/adversarial-robustness)
+
+[![Image 148](https://production-media.paperswithcode.com/icons/task/task-0000000358-ba21f5af.jpg) Adversarial Attack ================== 3 benchmarks 701 papers with code](https://paperswithcode.com/task/adversarial-attack)
+
+[![Image 149](https://production-media.paperswithcode.com/icons/task/68af09f7-27ef-4aad-b4c1-f74cf48f5547.jpg) Open-Domain Question Answering ============================== 15 benchmarks 226 papers with code](https://paperswithcode.com/task/open-domain-question-answering)
+
+[![Image 150](https://production-media.paperswithcode.com/icons/task/task-0000000359-77d2d7a5.jpg) Adversarial Defense =================== 12 benchmarks 204 papers with code](https://paperswithcode.com/task/adversarial-defense)
+
+[See all 67 tasks](https://paperswithcode.com/area/adversarial)
+
+#### [Knowledge Base](https://paperswithcode.com/area/knowledge-base)
+
+[![Image 151](https://raw.githubusercontent.com/tkipf/gae/master/figure.png) Knowledge Graphs ================ 53 benchmarks 1170 papers with code](https://paperswithcode.com/task/knowledge-graphs)
+
+[![Image 152](https://production-media.paperswithcode.com/icons/task/task-0000000835-1e8acc3c.jpg) Causal Inference ================ 3 benchmarks 526 papers with code](https://paperswithcode.com/task/causal-inference)
+
+[![Image 153](https://production-media.paperswithcode.com/icons/task/6c0fe595-4083-4e3e-a435-a6b15e6ca47d.jpg) Text-to-Image Generation ======================== 16 benchmarks 426 papers with code](https://paperswithcode.com/task/text-to-image-generation)
+
+[![Image 154](https://production-media.paperswithcode.com/icons/task/task-0000001331-4aa12c4f.jpg) Causal Discovery ================ 269 papers with code](https://paperswithcode.com/task/causal-discovery)
+
+[![Image 155](https://production-media.paperswithcode.com/tasks/default.gif) Explainable Artificial Intelligence (XAI) ========================================= 1 benchmark 269 papers with code](https://paperswithcode.com/task/xai)
+
+[See all 67 tasks](https://paperswithcode.com/area/knowledge-base)
+
+#### [Playing Games](https://paperswithcode.com/area/playing-games)
+
+[![Image 156](https://production-media.paperswithcode.com/tasks/default.gif) Sentence ======== 3703 papers with code](https://paperswithcode.com/task/sentence)
+
+[![Image 157](https://production-media.paperswithcode.com/icons/task/79ef5f30-d888-4877-95e0-db70111586fb.jpg) Image Super-Resolution ====================== 76 benchmarks 726 papers with code](https://paperswithcode.com/task/image-super-resolution)
+
+[![Image 158](https://production-media.paperswithcode.com/icons/task/task-0000000516-081b94a0.jpg) Continuous Control ================== 76 benchmarks 472 papers with code](https://paperswithcode.com/task/continuous-control)
+
+[![Image 159](https://production-media.paperswithcode.com/icons/task/task-0000000900-436bd9c4.jpg) Atari Games =========== 65 benchmarks 302 papers with code](https://paperswithcode.com/task/atari-games)
+
+[![Image 160](https://production-media.paperswithcode.com/tasks/default.gif) Offline RL ========== 2 benchmarks 278 papers with code](https://paperswithcode.com/task/offline-rl)
+
+[See all 66 tasks](https://paperswithcode.com/area/playing-games)
+
+#### [Music](https://paperswithcode.com/area/music)
+
+[![Image 161](https://production-media.paperswithcode.com/icons/task/d2bb4e46-c886-4356-be78-5ad095adfe83.jpg) Face Swapping ============= 3 benchmarks 286 papers with code](https://paperswithcode.com/task/face-swapping)
+
+[![Image 162](https://production-media.paperswithcode.com/tasks/default.gif) Music Generation ================ 1 benchmark 168 papers with code](https://paperswithcode.com/task/music-generation)
+
+[![Image 163](https://production-media.paperswithcode.com/tasks/default.gif) Voice Conversion ================ 3 benchmarks 164 papers with code](https://paperswithcode.com/task/voice-conversion)
+
+[![Image 164](https://production-media.paperswithcode.com/icons/task/task-0000000557-316f43d2.jpg) Music Information Retrieval =========================== 115 papers with code](https://paperswithcode.com/task/music-information-retrieval)
+
+[![Image 165](https://production-media.paperswithcode.com/icons/task/task-0000000139-7e4d4874.jpg) Music Source Separation ======================= 3 benchmarks 57 papers with code](https://paperswithcode.com/task/music-source-separation)
+
+[See all 42 tasks](https://paperswithcode.com/area/music)
+
+Contact us on: [hello@paperswithcode.com](mailto:hello@paperswithcode.com) . Papers With Code is a free resource with all data licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+
+[Terms](https://paperswithcode.com/site/terms) [Data policy](https://paperswithcode.com/site/data-policy) [Cookies policy](https://paperswithcode.com/site/cookies-policy) [from ![Image 166](blob:https://paperswithcode.com/68b0d87f79f4e47d118af8c5650d58e0)](https://paperswithcode.com/about#team)

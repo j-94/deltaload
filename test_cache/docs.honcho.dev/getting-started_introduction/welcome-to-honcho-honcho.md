@@ -1,0 +1,42 @@
+---
+title: 🫡 Welcome to Honcho - Honcho
+description: Honcho is an open source platform for building personalized AI experiences.
+url: https://docs.honcho.dev/getting-started/introduction
+timestamp: 2025-01-20T16:01:17.853Z
+domain: docs.honcho.dev
+path: getting-started_introduction
+---
+
+# 🫡 Welcome to Honcho - Honcho
+
+
+Honcho is an open source platform for building personalized AI experiences.
+
+
+## Content
+
+[![Image 11: Python package version](https://img.shields.io/pypi/v/honcho-ai?color=orange)](https://pypi.org/project/honcho-ai/)[![Image 12: GitHub Stars](https://img.shields.io/github/stars/plastic-labs/honcho?logo=github)](https://github.com/plastic-labs/honcho)[![Image 13: pip installs](https://static.pepy.tech/personalized-badge/honcho-ai?period=total&units=international_system&left_color=grey&right_color=blue&left_text=pip%20installs)](https://pepy.tech/project/honcho-ai)[![Image 14: npm package version](https://img.shields.io/npm/v/honcho-ai.svg)](https://npmjs.org/package/honcho-ai)
+
+Honcho provides an simple API store data for AI applications in a user-centric fashion and derive insights about users that improve the ability of applications to quickly deliver value to the User.
+
+Now you can focus on improving your service instead of spending countless hours figuring out how to get it to scale and be personalized.
+
+To learn more about the project, check out our [blog post](https://blog.plasticlabs.ai/blog/A-Simple-Honcho-Primer).
+
+Get started below!
+
+[Quickstart ---------- Quickly set up a local environment to interface with the Honcho API](https://docs.honcho.dev/getting-started/quickstart)[Architecture ------------ Get an overview of the different primitives and structure of Honcho](https://docs.honcho.dev/getting-started/architecture)[Honcho Primer ------------- Read our blog post that introduces Honcho, the motivations behind it, and what it will enable.](https://blog.plasticlabs.ai/blog/A-Simple-Honcho-Primer)
+
+## Metadata
+
+```json
+{
+  "title": "🫡 Welcome to Honcho - Honcho",
+  "description": "Honcho is an open source platform for building personalized AI experiences.",
+  "url": "https://docs.honcho.dev/getting-started/introduction",
+  "content": "[![Image 11: Python package version](https://img.shields.io/pypi/v/honcho-ai?color=orange)](https://pypi.org/project/honcho-ai/)[![Image 12: GitHub Stars](https://img.shields.io/github/stars/plastic-labs/honcho?logo=github)](https://github.com/plastic-labs/honcho)[![Image 13: pip installs](https://static.pepy.tech/personalized-badge/honcho-ai?period=total&units=international_system&left_color=grey&right_color=blue&left_text=pip%20installs)](https://pepy.tech/project/honcho-ai)[![Image 14: npm package version](https://img.shields.io/npm/v/honcho-ai.svg)](https://npmjs.org/package/honcho-ai)\n\nHoncho provides an simple API store data for AI applications in a user-centric fashion and derive insights about users that improve the ability of applications to quickly deliver value to the User.\n\nNow you can focus on improving your service instead of spending countless hours figuring out how to get it to scale and be personalized.\n\nTo learn more about the project, check out our [blog post](https://blog.plasticlabs.ai/blog/A-Simple-Honcho-Primer).\n\nGet started below!\n\n[Quickstart ---------- Quickly set up a local environment to interface with the Honcho API](https://docs.honcho.dev/getting-started/quickstart)[Architecture ------------ Get an overview of the different primitives and structure of Honcho](https://docs.honcho.dev/getting-started/architecture)[Honcho Primer ------------- Read our blog post that introduces Honcho, the motivations behind it, and what it will enable.](https://blog.plasticlabs.ai/blog/A-Simple-Honcho-Primer)",
+  "usage": {
+    "tokens": 388
+  }
+}
+```

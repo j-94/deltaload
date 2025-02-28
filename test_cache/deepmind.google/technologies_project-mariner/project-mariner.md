@@ -1,0 +1,315 @@
+---
+title: Project Mariner
+description: Project Mariner is a research prototype built with Gemini 2.0 that explores the future of human-agent interaction, starting with your browser.
+url: https://deepmind.google/technologies/project-mariner/
+timestamp: 2025-01-20T16:18:23.831Z
+domain: deepmind.google
+path: technologies_project-mariner
+---
+
+# Project Mariner
+
+
+Project Mariner is a research prototype built with Gemini 2.0 that explores the future of human-agent interaction, starting with your browser.
+
+
+## Content
+
+Project Mariner - Google DeepMind
+===============                           
+
+[Jump to Content](https://deepmind.google/technologies/project-mariner/#content)
+
+[Google DeepMind](https://deepmind.google/)
+
+Search... 
+
+[Search Close](https://deepmind.google/search)
+
+[](https://gemini.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+
+[Google DeepMind](https://deepmind.google/)
+
+*   [**About**](https://deepmind.google/about/)
+    *   [**Learn about Google DeepMind** — Our mission is to build AI responsibly to benefit humanity](https://deepmind.google/about/)
+    *   [**Responsibility & Safety** — We want AI to benefit the world, so we must be thoughtful about how it’s built and used](https://deepmind.google/about/responsibility-safety/)
+    *   [**Education** — Our vision is to help make the AI ecosystem more representative of society](https://deepmind.google/about/education/)
+    *   [**Careers** — Many disciplines, one common goal](https://deepmind.google/about/careers/)
+*   [**Research**](https://deepmind.google/research/)
+    *   [**View Research** — We work on some of the most complex and interesting challenges in AI.](https://deepmind.google/research/)
+    *   [**Breakthroughs** — Explore some of the biggest innovations in AI](https://deepmind.google/research/breakthroughs/)
+    *   [**Publications** — Explore a selection of our recent research](https://deepmind.google/research/publications/)
+*   [**Technologies**](https://deepmind.google/technologies/)
+    *   [**View Technologies** — Solving the world’s most complex challenges](https://deepmind.google/technologies/)
+    *   [**Gemini** — The most general and capable AI models we've ever built](https://deepmind.google/technologies/gemini/)
+    *   [**Project Astra** — A universal AI agent that is helpful in everyday life](https://deepmind.google/technologies/project-astra/)
+    *   [**Imagen** — Our highest quality text-to-image model](https://deepmind.google/technologies/imagen-3/)
+    *   [**Veo** — Our state-of-the-art video generation model](https://deepmind.google/technologies/veo/veo-2/)
+        *   [**Overview**](https://deepmind.google/technologies/veo/veo-1/)
+        *   [**Veo 2 (New)**](https://deepmind.google/technologies/veo/veo-2/)
+    *   [**AlphaFold** — Accelerating breakthroughs in biology with AI](https://deepmind.google/technologies/alphafold/)
+        *   [**Overview**](https://deepmind.google/technologies/alphafold/)
+        *   [**Impact stories**](https://deepmind.google/technologies/alphafold/impact-stories/)
+        *   [**AlphaFold Server**](https://deepmind.google/technologies/alphafold/alphafold-server/)
+        *   [**AlphaFold Database**](https://alphafold.ebi.ac.uk/)
+    *   [**SynthID** — Identifying AI-generated content](https://deepmind.google/technologies/synthid/)
+*   [**Discover**](https://deepmind.google/discover/)
+    *   [**View Discover** — Discover our latest breakthroughs and see how we’re shaping the future](https://deepmind.google/discover/)
+    *   [**Blog** — Discover our latest AI breakthroughs, projects, and updates](https://deepmind.google/discover/blog/)
+    *   [**Events** — Meet our team and learn more about our research](https://deepmind.google/discover/events/)
+    *   [**The Podcast** — Uncover the extraordinary ways AI is transforming our world](https://deepmind.google/discover/the-podcast/)
+
+Search... 
+
+[Search Close](https://deepmind.google/search)
+
+[](https://gemini.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+
+*   [**Learn about Google DeepMind**](https://deepmind.google/about/)
+*   [**Responsibility & Safety** — We want AI to benefit the world, so we must be thoughtful about how it’s built and used](https://deepmind.google/about/responsibility-safety/)
+*   [**Education** — Our vision is to help make the AI ecosystem more representative of society](https://deepmind.google/about/education/)
+*   [**Careers** — Many disciplines, one common goal](https://deepmind.google/about/careers/)
+
+Latest posts
+
+*     [![Image 41](https://lh3.googleusercontent.com/PNlhxhf4LKLRCezIt7Ap358F91-vbK5dLp56Ak1FejpCZh3YTp6jGqIDJm9c0iAtx8Y73MCTu279c1k2GZkM2qXXaqx315NSOaSiU0y0ATMK2c2Hyw=w264-h156-n-nu)**FACTS Grounding: A new benchmark for evaluating the factuality of large language models** 17 December 2024](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/)
+*     [![Image 42](https://lh3.googleusercontent.com/oQJc7KdT6VMNI34EQDKbFRL59cIYqJQpX2HFx89rzbt4mREOnrimL7-iFzJrPn-laATOzohFG-aBEpDvIqMxkv-HBycJ3ZhmitYLKwha3JkidE4uwg=w264-h156-n-nu)**State-of-the-art video and image generation with Veo 2 and Imagen 3** 16 December 2024](https://blog.google/technology/google-labs/video-image-generation-update-december-2024)
+
+*   [**View Research**](https://deepmind.google/research/)
+*   [**Breakthroughs** — Explore some of the biggest innovations in AI](https://deepmind.google/research/breakthroughs/)
+*   [**Publications** — Explore a selection of our recent research](https://deepmind.google/research/publications/)
+
+Latest research posts
+
+*     [![Image 43](https://lh3.googleusercontent.com/cKpWE16vpsZ21VcH-_SdGF8tQEeEMp2phWFajdBq_A7aMVS2axiXQzd7V8mlHdJm-CXVKh1IaY3yeM_lAwu_zxc6SIBdWahdN6nYoaQqUbC8uU0qoY8=w264-h156-n-nu)**Google DeepMind at NeurIPS 2024** 5 December 2024](https://deepmind.google/discover/blog/google-deepmind-at-neurips-2024/)
+*     [![Image 44](https://lh3.googleusercontent.com/wvcJdqh_wddVc-WiMGgcqe7nWp7Ybu0wd-PBDxC_VUQkfxI7HPfQz3fi_HyYTOoRM_XV3Bofp9l1wBZ1CJPZPG6yZMdZxqH8X7_Lb9nhVAquAul1=w264-h156-n-nu)**Genie 2: A large-scale foundation world model** 4 December 2024](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+
+*   [**View Technologies**](https://deepmind.google/technologies/)
+*   [**Gemini** — The most general and capable AI models we've ever built](https://deepmind.google/technologies/gemini/)
+*   [**Project Astra** — A universal AI agent that is helpful in everyday life](https://deepmind.google/technologies/project-astra/)
+*   [**Imagen** — Our highest quality text-to-image model](https://deepmind.google/technologies/imagen-3/)
+*   [**Veo** — Our state-of-the-art video generation model](https://deepmind.google/technologies/veo/veo-2/)
+*   [**AlphaFold** — Accelerating breakthroughs in biology with AI](https://deepmind.google/technologies/alphafold/)
+*   [**SynthID** — Identifying AI-generated content](https://deepmind.google/technologies/synthid/)
+
+Latest technology posts
+
+*     [![Image 45](https://lh3.googleusercontent.com/oQJc7KdT6VMNI34EQDKbFRL59cIYqJQpX2HFx89rzbt4mREOnrimL7-iFzJrPn-laATOzohFG-aBEpDvIqMxkv-HBycJ3ZhmitYLKwha3JkidE4uwg=w264-h156-n-nu)**State-of-the-art video and image generation with Veo 2 and Imagen 3** 16 December 2024](https://blog.google/technology/google-labs/video-image-generation-update-december-2024)
+*     [![Image 46](https://lh3.googleusercontent.com/SresVCXLvYPfFosb0TQ7ux4XG0rtds1hAYOzMcayK9eeGv684ZcgcSUN95biWiMTpIHDPzuFiau-Lwsnz8qwkCQtJ-wILDf1XspScVimH6ObeBQKkg=w264-h156-n-nu)**Introducing Gemini 2.0: our new AI model for the agentic era** 11 December 2024](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+
+*   [**View Discover**](https://deepmind.google/discover/)
+*   [**Blog** — Discover our latest AI breakthroughs, projects, and updates](https://deepmind.google/discover/blog/)
+*   [**Events** — Meet our team and learn more about our research](https://deepmind.google/discover/events/)
+*   [**The Podcast** — Uncover the extraordinary ways AI is transforming our world](https://deepmind.google/discover/the-podcast/)
+
+Latest posts
+
+*     [![Image 47](https://lh3.googleusercontent.com/PNlhxhf4LKLRCezIt7Ap358F91-vbK5dLp56Ak1FejpCZh3YTp6jGqIDJm9c0iAtx8Y73MCTu279c1k2GZkM2qXXaqx315NSOaSiU0y0ATMK2c2Hyw=w264-h156-n-nu)**FACTS Grounding: A new benchmark for evaluating the factuality of large language models** 17 December 2024](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/)
+*     [![Image 48](https://lh3.googleusercontent.com/oQJc7KdT6VMNI34EQDKbFRL59cIYqJQpX2HFx89rzbt4mREOnrimL7-iFzJrPn-laATOzohFG-aBEpDvIqMxkv-HBycJ3ZhmitYLKwha3JkidE4uwg=w264-h156-n-nu)**State-of-the-art video and image generation with Veo 2 and Imagen 3** 16 December 2024](https://blog.google/technology/google-labs/video-image-generation-update-december-2024)
+
+Project Mariner
+===============
+
+A research prototype exploring the future of human-agent interaction, starting with your browser
+
+[Join the trusted tester waitlist](https://docs.google.com/forms/d/e/1FAIpQLSe2J4BvD48E-57giEiXIDz_yZeqGmX0Q3AvvR_LfzpRat2kGQ/viewform?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+
+ ![Image 49](https://lh3.googleusercontent.com/tq0AfcPE3qi8zD3rW382ZPDTXAZ9Y8576NojjfelbT_Z2bnFIUUuYYUz31fysO5DwWPwkmsNvIKG1JJDqS_ivDpUblW1Xb-Z1ryQkptzO4QQyIu5=w1440) 
+
+*   [Overview](https://deepmind.google/technologies/project-mariner/#overview)
+*   [Native multimodality](https://deepmind.google/technologies/project-mariner/#native-multimodality)
+*   [Browser interaction](https://deepmind.google/technologies/project-mariner/#browser-interaction)
+*   [Reasoning](https://deepmind.google/technologies/project-mariner/#reasoning)
+
+A new way to use your browser
+-----------------------------
+
+Built with Gemini 2.0, Project Mariner combines strong multimodal understanding and reasoning capabilities to automate tasks using your browser.
+
+[](https://www.youtube.com/watch?v=2XJqLPqHtyo)
+
+![Image 50](https://i.ytimg.com/vi_webp/2XJqLPqHtyo/hqdefault.webp)
+
+Watch
+
+Native multimodality
+--------------------
+
+Project Mariner can understand and reason across everything on your browser screen, including pixels and web elements like text, code, images and forms.
+
+ ![Image 51](https://lh3.googleusercontent.com/WJCXdmMOsQPsGLGd7dnMUL3zpqFav38pWUFpcbzt6ykWEaSK3UzluKjMvTvgaSadoh1S8ckJ8WWzcbNZ9klCPZ2LYnFXNbfBUxE4btdKex08TYRN=w390)
+
+Understands and seamlessly reasons across websites.
+
+ ![Image 52](https://lh3.googleusercontent.com/CAoxJYi2bURmHk47TjQcV1WG4FaMtKkOL7ntYvh1cBvHhJ5mNY_KOM29ficWlSvg14KUJJOj6uV6rFRPo9nYQdjybGC6EEMkVqisELQuE57wSaFdoHs=w390)
+
+Understands and responds to voice instructions.
+
+ ![Image 53](https://lh3.googleusercontent.com/1KB085W9GUF8jREsyqxQWjWRY9E5v0NyxWtjwFRPxqcwW4sqne16wrqnjv1TzMgy9ZC5fD_H1SWU-jIwwWuJn7ub6FHikUzi2i7Qudm8wlLmlAkEDw=w390)
+
+Keeps you informed on progress with visual feedback and updates.
+
+Browser interaction
+===================
+
+Project Mariner understands and navigates complex websites in real time—automating tasks in your browser while keeping you in control.
+
+ ![Image 54](https://lh3.googleusercontent.com/D_-IoEooerKT3dzXjqedivjS0iapTWV7ZtCOa9FAix5CJpSWuRhuXBBTzoACmazZAt9pCe235VtSPd-QxfBfSpujJoxVv-WPDppfmkcitLQ_QvhIe_4=w1440) 
+
+ ![Image 55](https://lh3.googleusercontent.com/mbUZddFiwwpfQAe4HZYLumULK0BVJoYfgKuZ2bVSq3xAJjLlMxNnjXtIsu7fvYe0JhemHGqIBpUIQqHuppwqQiWD62YxhlWFk9VQEw9nb-oZk8_yBA=w390)
+
+Navigates and interacts with websites on your behalf.
+
+ ![Image 56](https://lh3.googleusercontent.com/7RrwfksAUjojGUKsjZRFuNuGdEtm-Rdlyel0THJlZAeEModLq-Axl4wuxGd9pzFo419qw7AL-XpYcgtsAVmVRx2pM5vnYg7skt3bGex5UYoE970TSA=w390)
+
+Automates repetitive tasks to help save you time.
+
+ ![Image 57](https://lh3.googleusercontent.com/lc5O7ahCbzS3Y1d5MsOc8aPF47_ncBFbpfidr5fV5slfHMcifsOxRmlgF1Hrhjl1XvzwmLnaXMDpXUynlx7Imn2fGDADtTh1vi_n97xoF8S9PNe5XQ=w390)
+
+Asks for clarification if it doesn't understand an instruction.
+
+[](https://www.youtube.com/watch?v=_uBg6syzXhk)
+
+![Image 58](https://i.ytimg.com/vi_webp/_uBg6syzXhk/hqdefault.webp)
+
+Watch
+
+Reasoning
+---------
+
+Project Mariner can follow complex instructions and reason across websites — and shows its work.
+
+ ![Image 59](https://lh3.googleusercontent.com/H2po7j9LZhEoIr0VtoouEL5zqeJu-8Ad0yKvUB5Yf-Ehh13_8zV9PAn8Cg3ikNwJ8rak6ZQY4kecDSeIPqPlo3ATsfSGKO9Qf9cofv17PrvvKaLFyw=w390)
+
+Interprets complex instructions, breaking them down into actionable steps.
+
+ ![Image 60](https://lh3.googleusercontent.com/KWswpikHffQnz-zgUDx-8zpBj_1eFQ3_15vM6OB-fPTrS6zrOtd3u0nPsGZ2lICSNUJW0cq7ZaHyNeEg3obHXmmeVTGAG97vo7T2rI6V1zH757hhOQw=w390)
+
+Understands the relationships between different web elements and their functions.
+
+ ![Image 61](https://lh3.googleusercontent.com/y49gm521f9EFUDegsCU64IYnMwr7XX0QYDkmRYCTvURWx2pBOs7nUV_IGnC67Fvcg9OdAZ6WMRynh63O5xsAWkgI_jz52dBQbLCMFcxS7VlQJTJd=w390)
+
+Provides a clear view of its plan and actions, enabling you to understand its decision-making process.
+
+Benchmarks
+----------
+
+| Benchmark | Description | 
+**Project Mariner** Single-agent
+
+ | 
+
+**Project Mariner** Tree-search
+
+ |
+| --- | --- | --- | --- |
+| 
+
+**ScreenSpot** Multimodal screen understanding and grounding benchmark over graphical user interfaces (GUIs) across different platforms
+
+ | Multimodal screen understanding and grounding benchmark over graphical user interfaces (GUIs) across different platforms | 84.0% | \- |
+| 
+
+**WebVoyager** A benchmark to evaluate autonomous browser agents interacting with real-world websites.\*
+
+ | A benchmark to evaluate autonomous browser agents interacting with real-world websites.\* | 83.5% | 90.5% |
+
+\*We updated the dates for outdated tasks and removed obsolete ones. For evaluation, we submitted the outputs to human reviewers and used majority voting among three evaluators.
+
+Building responsibly in the agentic era
+---------------------------------------
+
+As we develop these new technologies, we recognize the responsibility it entails, and aim to prioritize safety and security in all our efforts.
+
+[Learn more](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=#building-responsibly)
+
+Experience Project Mariner
+==========================
+
+Project Mariner is a research prototype, being used only by a small group of trusted testers. If you're interested in becoming a tester, please share a few details to join the waitlist.
+
+[Join the trusted tester waitlist](https://docs.google.com/forms/d/e/1FAIpQLSe2J4BvD48E-57giEiXIDz_yZeqGmX0Q3AvvR_LfzpRat2kGQ/viewform?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+
+ ![Image 62](https://lh3.googleusercontent.com/pPk8fZR3RrC9MJUfn7N0eDMDyj-IZFpqmRfgh8XubZ2IHvPS7YNwrxjvIZPItP1hpflU5Y3XLB5BtFKjU5i2r3OvrCKWntmCScedWqRjCeIONIn7=w1440) 
+
+Get the latest updates
+----------------------
+
+Sign up for news on the latest innovations from Google DeepMind.
+
+Email address 
+
+Please enter a valid email (e.g., "name@example.com")
+
+I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance with [Google's Privacy Policy](https://policies.google.com/privacy).
+
+Sign up
+
+Explore our other teams and product areas
+-----------------------------------------
+
+*     [![Image 63](https://lh3.googleusercontent.com/lC76XCHXWEyaeodN_jKLz-a0IwmNpiVCV5VtSNj4L0fDrDmky6Hsoo5r6ntgo66qR9yOKqBKlEOE8acOPBOaL4LBTXdn67JIF2F9AdMPbEPZ_-xSLg=w24-h24-n-nu)Google AI](https://ai.google/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+*     [![Image 64](https://lh3.googleusercontent.com/lC76XCHXWEyaeodN_jKLz-a0IwmNpiVCV5VtSNj4L0fDrDmky6Hsoo5r6ntgo66qR9yOKqBKlEOE8acOPBOaL4LBTXdn67JIF2F9AdMPbEPZ_-xSLg=w24-h24-n-nu)Google AI for Developers](https://ai.google.dev/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+*     [![Image 65](https://lh3.googleusercontent.com/RSfVFwb4EE0jbPkTT2dA-PObu_qD4skafiXpcnn8KKFU1bpuQH8a2cAwjbqcKoDJcqh9l2VneswZU4Mslv-c4tQ83R6ylRqftNE4mWx9h50HFY6f=w24-h24-n-nu)Google AI Studio](https://aistudio.google.com/app/prompts/new_chat?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+*     [![Image 66](https://lh3.googleusercontent.com/fUrcu4pqiGaiWltnYg5qn-X6W4kKma1a3vtuA48fZFpzpmeHeLlD6LCLCd9ScI2t9CSeKs_Du0ire6JsgpuTsH7eDD1Cw2r4dnzaBbkXSuZ-Az1ehw=w24-h24-n-nu)Gemini](https://gemini.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+*     [![Image 67](https://lh3.googleusercontent.com/DV7Fy9b8UGgJex-dTR56NoXBOAcTE_nZ5nFP7V51aHAsYIsetuYcMVLzLnBG60EajVBQL3HBFyCk5Q9Enhk_mEuUHYXKP7DUIHiC1jyPB1aBDX8lkU8=w24-h24-n-nu)Google Cloud](https://cloud.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+*     [![Image 68](https://lh3.googleusercontent.com/-I5k1wqPNxVU6MZC-w1tZXEWBqvoBuUQEqm9y0ZtyMYnL9ZNTKIrttG2vcW_9vyu9NObgUrRZk0Fz60z-MV5uMmghls9zIlWGKuOyBxDpFx8TbISug=w24-h24-n-nu)Google Labs](https://labs.google/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+
+Footer links
+------------
+
+### Follow us
+
+*   [](https://x.com/googledeepmind "Follow us on X")
+*   [](https://www.instagram.com/googledeepmind "Follow us on Instagram")
+*   [](https://www.linkedin.com/company/googledeepmind/ "Follow us on LinkedIn")
+*   [](https://www.youtube.com/@google_deepmind "Follow us on YouTube")
+*   [](https://github.com/google-deepmind "Follow us on GitHub")
+
+### About
+
+*   [About Google DeepMind](https://deepmind.google/about/)
+*   [Responsibility & Safety](https://deepmind.google/about/responsibility-safety/)
+*   [Research](https://deepmind.google/research/)
+*   [Technologies](https://deepmind.google/technologies/)
+*   [Blog](https://deepmind.google/discover/blog/)
+*   [Careers](https://deepmind.google/about/careers/)
+
+### Learn more
+
+*   [Gemini](https://deepmind.google/technologies/gemini/)
+*   [Veo](https://deepmind.google/technologies/veo/)
+*   [Imagen 3](https://deepmind.google/technologies/imagen-3/)
+*   [SynthID](https://deepmind.google/technologies/synthid/)
+
+### Sign up for updates on our latest innovations
+
+Email address 
+
+Please enter a valid email (e.g., "name@example.com")
+
+I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance with [Google's Privacy Policy](https://policies.google.com/privacy).
+
+Sign up
+
+[](https://www.google.com/ "Google")
+
+*   [About Google](https://about.google/)
+*   [Google products](https://about.google/products/)
+*   [Privacy](https://policies.google.com/privacy)
+*   [Terms](https://policies.google.com/terms)
+*   Cookies management controls
+
+## Metadata
+
+```json
+{
+  "title": "Project Mariner",
+  "description": "Project Mariner is a research prototype built with Gemini 2.0 that explores the future of human-agent interaction, starting with your browser.",
+  "url": "https://deepmind.google/technologies/project-mariner/",
+  "content": "Project Mariner - Google DeepMind\n===============                           \n\n[Jump to Content](https://deepmind.google/technologies/project-mariner/#content)\n\n[Google DeepMind](https://deepmind.google/)\n\nSearch... \n\n[Search Close](https://deepmind.google/search)\n\n[](https://gemini.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n\n[Google DeepMind](https://deepmind.google/)\n\n*   [**About**](https://deepmind.google/about/)\n    *   [**Learn about Google DeepMind** — Our mission is to build AI responsibly to benefit humanity](https://deepmind.google/about/)\n    *   [**Responsibility & Safety** — We want AI to benefit the world, so we must be thoughtful about how it’s built and used](https://deepmind.google/about/responsibility-safety/)\n    *   [**Education** — Our vision is to help make the AI ecosystem more representative of society](https://deepmind.google/about/education/)\n    *   [**Careers** — Many disciplines, one common goal](https://deepmind.google/about/careers/)\n*   [**Research**](https://deepmind.google/research/)\n    *   [**View Research** — We work on some of the most complex and interesting challenges in AI.](https://deepmind.google/research/)\n    *   [**Breakthroughs** — Explore some of the biggest innovations in AI](https://deepmind.google/research/breakthroughs/)\n    *   [**Publications** — Explore a selection of our recent research](https://deepmind.google/research/publications/)\n*   [**Technologies**](https://deepmind.google/technologies/)\n    *   [**View Technologies** — Solving the world’s most complex challenges](https://deepmind.google/technologies/)\n    *   [**Gemini** — The most general and capable AI models we've ever built](https://deepmind.google/technologies/gemini/)\n    *   [**Project Astra** — A universal AI agent that is helpful in everyday life](https://deepmind.google/technologies/project-astra/)\n    *   [**Imagen** — Our highest quality text-to-image model](https://deepmind.google/technologies/imagen-3/)\n    *   [**Veo** — Our state-of-the-art video generation model](https://deepmind.google/technologies/veo/veo-2/)\n        *   [**Overview**](https://deepmind.google/technologies/veo/veo-1/)\n        *   [**Veo 2 (New)**](https://deepmind.google/technologies/veo/veo-2/)\n    *   [**AlphaFold** — Accelerating breakthroughs in biology with AI](https://deepmind.google/technologies/alphafold/)\n        *   [**Overview**](https://deepmind.google/technologies/alphafold/)\n        *   [**Impact stories**](https://deepmind.google/technologies/alphafold/impact-stories/)\n        *   [**AlphaFold Server**](https://deepmind.google/technologies/alphafold/alphafold-server/)\n        *   [**AlphaFold Database**](https://alphafold.ebi.ac.uk/)\n    *   [**SynthID** — Identifying AI-generated content](https://deepmind.google/technologies/synthid/)\n*   [**Discover**](https://deepmind.google/discover/)\n    *   [**View Discover** — Discover our latest breakthroughs and see how we’re shaping the future](https://deepmind.google/discover/)\n    *   [**Blog** — Discover our latest AI breakthroughs, projects, and updates](https://deepmind.google/discover/blog/)\n    *   [**Events** — Meet our team and learn more about our research](https://deepmind.google/discover/events/)\n    *   [**The Podcast** — Uncover the extraordinary ways AI is transforming our world](https://deepmind.google/discover/the-podcast/)\n\nSearch... \n\n[Search Close](https://deepmind.google/search)\n\n[](https://gemini.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n\n*   [**Learn about Google DeepMind**](https://deepmind.google/about/)\n*   [**Responsibility & Safety** — We want AI to benefit the world, so we must be thoughtful about how it’s built and used](https://deepmind.google/about/responsibility-safety/)\n*   [**Education** — Our vision is to help make the AI ecosystem more representative of society](https://deepmind.google/about/education/)\n*   [**Careers** — Many disciplines, one common goal](https://deepmind.google/about/careers/)\n\nLatest posts\n\n*     [![Image 41](https://lh3.googleusercontent.com/PNlhxhf4LKLRCezIt7Ap358F91-vbK5dLp56Ak1FejpCZh3YTp6jGqIDJm9c0iAtx8Y73MCTu279c1k2GZkM2qXXaqx315NSOaSiU0y0ATMK2c2Hyw=w264-h156-n-nu)**FACTS Grounding: A new benchmark for evaluating the factuality of large language models** 17 December 2024](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/)\n*     [![Image 42](https://lh3.googleusercontent.com/oQJc7KdT6VMNI34EQDKbFRL59cIYqJQpX2HFx89rzbt4mREOnrimL7-iFzJrPn-laATOzohFG-aBEpDvIqMxkv-HBycJ3ZhmitYLKwha3JkidE4uwg=w264-h156-n-nu)**State-of-the-art video and image generation with Veo 2 and Imagen 3** 16 December 2024](https://blog.google/technology/google-labs/video-image-generation-update-december-2024)\n\n*   [**View Research**](https://deepmind.google/research/)\n*   [**Breakthroughs** — Explore some of the biggest innovations in AI](https://deepmind.google/research/breakthroughs/)\n*   [**Publications** — Explore a selection of our recent research](https://deepmind.google/research/publications/)\n\nLatest research posts\n\n*     [![Image 43](https://lh3.googleusercontent.com/cKpWE16vpsZ21VcH-_SdGF8tQEeEMp2phWFajdBq_A7aMVS2axiXQzd7V8mlHdJm-CXVKh1IaY3yeM_lAwu_zxc6SIBdWahdN6nYoaQqUbC8uU0qoY8=w264-h156-n-nu)**Google DeepMind at NeurIPS 2024** 5 December 2024](https://deepmind.google/discover/blog/google-deepmind-at-neurips-2024/)\n*     [![Image 44](https://lh3.googleusercontent.com/wvcJdqh_wddVc-WiMGgcqe7nWp7Ybu0wd-PBDxC_VUQkfxI7HPfQz3fi_HyYTOoRM_XV3Bofp9l1wBZ1CJPZPG6yZMdZxqH8X7_Lb9nhVAquAul1=w264-h156-n-nu)**Genie 2: A large-scale foundation world model** 4 December 2024](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)\n\n*   [**View Technologies**](https://deepmind.google/technologies/)\n*   [**Gemini** — The most general and capable AI models we've ever built](https://deepmind.google/technologies/gemini/)\n*   [**Project Astra** — A universal AI agent that is helpful in everyday life](https://deepmind.google/technologies/project-astra/)\n*   [**Imagen** — Our highest quality text-to-image model](https://deepmind.google/technologies/imagen-3/)\n*   [**Veo** — Our state-of-the-art video generation model](https://deepmind.google/technologies/veo/veo-2/)\n*   [**AlphaFold** — Accelerating breakthroughs in biology with AI](https://deepmind.google/technologies/alphafold/)\n*   [**SynthID** — Identifying AI-generated content](https://deepmind.google/technologies/synthid/)\n\nLatest technology posts\n\n*     [![Image 45](https://lh3.googleusercontent.com/oQJc7KdT6VMNI34EQDKbFRL59cIYqJQpX2HFx89rzbt4mREOnrimL7-iFzJrPn-laATOzohFG-aBEpDvIqMxkv-HBycJ3ZhmitYLKwha3JkidE4uwg=w264-h156-n-nu)**State-of-the-art video and image generation with Veo 2 and Imagen 3** 16 December 2024](https://blog.google/technology/google-labs/video-image-generation-update-december-2024)\n*     [![Image 46](https://lh3.googleusercontent.com/SresVCXLvYPfFosb0TQ7ux4XG0rtds1hAYOzMcayK9eeGv684ZcgcSUN95biWiMTpIHDPzuFiau-Lwsnz8qwkCQtJ-wILDf1XspScVimH6ObeBQKkg=w264-h156-n-nu)**Introducing Gemini 2.0: our new AI model for the agentic era** 11 December 2024](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n\n*   [**View Discover**](https://deepmind.google/discover/)\n*   [**Blog** — Discover our latest AI breakthroughs, projects, and updates](https://deepmind.google/discover/blog/)\n*   [**Events** — Meet our team and learn more about our research](https://deepmind.google/discover/events/)\n*   [**The Podcast** — Uncover the extraordinary ways AI is transforming our world](https://deepmind.google/discover/the-podcast/)\n\nLatest posts\n\n*     [![Image 47](https://lh3.googleusercontent.com/PNlhxhf4LKLRCezIt7Ap358F91-vbK5dLp56Ak1FejpCZh3YTp6jGqIDJm9c0iAtx8Y73MCTu279c1k2GZkM2qXXaqx315NSOaSiU0y0ATMK2c2Hyw=w264-h156-n-nu)**FACTS Grounding: A new benchmark for evaluating the factuality of large language models** 17 December 2024](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/)\n*     [![Image 48](https://lh3.googleusercontent.com/oQJc7KdT6VMNI34EQDKbFRL59cIYqJQpX2HFx89rzbt4mREOnrimL7-iFzJrPn-laATOzohFG-aBEpDvIqMxkv-HBycJ3ZhmitYLKwha3JkidE4uwg=w264-h156-n-nu)**State-of-the-art video and image generation with Veo 2 and Imagen 3** 16 December 2024](https://blog.google/technology/google-labs/video-image-generation-update-december-2024)\n\nProject Mariner\n===============\n\nA research prototype exploring the future of human-agent interaction, starting with your browser\n\n[Join the trusted tester waitlist](https://docs.google.com/forms/d/e/1FAIpQLSe2J4BvD48E-57giEiXIDz_yZeqGmX0Q3AvvR_LfzpRat2kGQ/viewform?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n\n ![Image 49](https://lh3.googleusercontent.com/tq0AfcPE3qi8zD3rW382ZPDTXAZ9Y8576NojjfelbT_Z2bnFIUUuYYUz31fysO5DwWPwkmsNvIKG1JJDqS_ivDpUblW1Xb-Z1ryQkptzO4QQyIu5=w1440) \n\n*   [Overview](https://deepmind.google/technologies/project-mariner/#overview)\n*   [Native multimodality](https://deepmind.google/technologies/project-mariner/#native-multimodality)\n*   [Browser interaction](https://deepmind.google/technologies/project-mariner/#browser-interaction)\n*   [Reasoning](https://deepmind.google/technologies/project-mariner/#reasoning)\n\nA new way to use your browser\n-----------------------------\n\nBuilt with Gemini 2.0, Project Mariner combines strong multimodal understanding and reasoning capabilities to automate tasks using your browser.\n\n[](https://www.youtube.com/watch?v=2XJqLPqHtyo)\n\n![Image 50](https://i.ytimg.com/vi_webp/2XJqLPqHtyo/hqdefault.webp)\n\nWatch\n\nNative multimodality\n--------------------\n\nProject Mariner can understand and reason across everything on your browser screen, including pixels and web elements like text, code, images and forms.\n\n ![Image 51](https://lh3.googleusercontent.com/WJCXdmMOsQPsGLGd7dnMUL3zpqFav38pWUFpcbzt6ykWEaSK3UzluKjMvTvgaSadoh1S8ckJ8WWzcbNZ9klCPZ2LYnFXNbfBUxE4btdKex08TYRN=w390)\n\nUnderstands and seamlessly reasons across websites.\n\n ![Image 52](https://lh3.googleusercontent.com/CAoxJYi2bURmHk47TjQcV1WG4FaMtKkOL7ntYvh1cBvHhJ5mNY_KOM29ficWlSvg14KUJJOj6uV6rFRPo9nYQdjybGC6EEMkVqisELQuE57wSaFdoHs=w390)\n\nUnderstands and responds to voice instructions.\n\n ![Image 53](https://lh3.googleusercontent.com/1KB085W9GUF8jREsyqxQWjWRY9E5v0NyxWtjwFRPxqcwW4sqne16wrqnjv1TzMgy9ZC5fD_H1SWU-jIwwWuJn7ub6FHikUzi2i7Qudm8wlLmlAkEDw=w390)\n\nKeeps you informed on progress with visual feedback and updates.\n\nBrowser interaction\n===================\n\nProject Mariner understands and navigates complex websites in real time—automating tasks in your browser while keeping you in control.\n\n ![Image 54](https://lh3.googleusercontent.com/D_-IoEooerKT3dzXjqedivjS0iapTWV7ZtCOa9FAix5CJpSWuRhuXBBTzoACmazZAt9pCe235VtSPd-QxfBfSpujJoxVv-WPDppfmkcitLQ_QvhIe_4=w1440) \n\n ![Image 55](https://lh3.googleusercontent.com/mbUZddFiwwpfQAe4HZYLumULK0BVJoYfgKuZ2bVSq3xAJjLlMxNnjXtIsu7fvYe0JhemHGqIBpUIQqHuppwqQiWD62YxhlWFk9VQEw9nb-oZk8_yBA=w390)\n\nNavigates and interacts with websites on your behalf.\n\n ![Image 56](https://lh3.googleusercontent.com/7RrwfksAUjojGUKsjZRFuNuGdEtm-Rdlyel0THJlZAeEModLq-Axl4wuxGd9pzFo419qw7AL-XpYcgtsAVmVRx2pM5vnYg7skt3bGex5UYoE970TSA=w390)\n\nAutomates repetitive tasks to help save you time.\n\n ![Image 57](https://lh3.googleusercontent.com/lc5O7ahCbzS3Y1d5MsOc8aPF47_ncBFbpfidr5fV5slfHMcifsOxRmlgF1Hrhjl1XvzwmLnaXMDpXUynlx7Imn2fGDADtTh1vi_n97xoF8S9PNe5XQ=w390)\n\nAsks for clarification if it doesn't understand an instruction.\n\n[](https://www.youtube.com/watch?v=_uBg6syzXhk)\n\n![Image 58](https://i.ytimg.com/vi_webp/_uBg6syzXhk/hqdefault.webp)\n\nWatch\n\nReasoning\n---------\n\nProject Mariner can follow complex instructions and reason across websites — and shows its work.\n\n ![Image 59](https://lh3.googleusercontent.com/H2po7j9LZhEoIr0VtoouEL5zqeJu-8Ad0yKvUB5Yf-Ehh13_8zV9PAn8Cg3ikNwJ8rak6ZQY4kecDSeIPqPlo3ATsfSGKO9Qf9cofv17PrvvKaLFyw=w390)\n\nInterprets complex instructions, breaking them down into actionable steps.\n\n ![Image 60](https://lh3.googleusercontent.com/KWswpikHffQnz-zgUDx-8zpBj_1eFQ3_15vM6OB-fPTrS6zrOtd3u0nPsGZ2lICSNUJW0cq7ZaHyNeEg3obHXmmeVTGAG97vo7T2rI6V1zH757hhOQw=w390)\n\nUnderstands the relationships between different web elements and their functions.\n\n ![Image 61](https://lh3.googleusercontent.com/y49gm521f9EFUDegsCU64IYnMwr7XX0QYDkmRYCTvURWx2pBOs7nUV_IGnC67Fvcg9OdAZ6WMRynh63O5xsAWkgI_jz52dBQbLCMFcxS7VlQJTJd=w390)\n\nProvides a clear view of its plan and actions, enabling you to understand its decision-making process.\n\nBenchmarks\n----------\n\n| Benchmark | Description | \n**Project Mariner** Single-agent\n\n | \n\n**Project Mariner** Tree-search\n\n |\n| --- | --- | --- | --- |\n| \n\n**ScreenSpot** Multimodal screen understanding and grounding benchmark over graphical user interfaces (GUIs) across different platforms\n\n | Multimodal screen understanding and grounding benchmark over graphical user interfaces (GUIs) across different platforms | 84.0% | \\- |\n| \n\n**WebVoyager** A benchmark to evaluate autonomous browser agents interacting with real-world websites.\\*\n\n | A benchmark to evaluate autonomous browser agents interacting with real-world websites.\\* | 83.5% | 90.5% |\n\n\\*We updated the dates for outdated tasks and removed obsolete ones. For evaluation, we submitted the outputs to human reviewers and used majority voting among three evaluators.\n\nBuilding responsibly in the agentic era\n---------------------------------------\n\nAs we develop these new technologies, we recognize the responsibility it entails, and aim to prioritize safety and security in all our efforts.\n\n[Learn more](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=#building-responsibly)\n\nExperience Project Mariner\n==========================\n\nProject Mariner is a research prototype, being used only by a small group of trusted testers. If you're interested in becoming a tester, please share a few details to join the waitlist.\n\n[Join the trusted tester waitlist](https://docs.google.com/forms/d/e/1FAIpQLSe2J4BvD48E-57giEiXIDz_yZeqGmX0Q3AvvR_LfzpRat2kGQ/viewform?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n\n ![Image 62](https://lh3.googleusercontent.com/pPk8fZR3RrC9MJUfn7N0eDMDyj-IZFpqmRfgh8XubZ2IHvPS7YNwrxjvIZPItP1hpflU5Y3XLB5BtFKjU5i2r3OvrCKWntmCScedWqRjCeIONIn7=w1440) \n\nGet the latest updates\n----------------------\n\nSign up for news on the latest innovations from Google DeepMind.\n\nEmail address \n\nPlease enter a valid email (e.g., \"name@example.com\")\n\nI accept Google's Terms and Conditions and acknowledge that my information will be used in accordance with [Google's Privacy Policy](https://policies.google.com/privacy).\n\nSign up\n\nExplore our other teams and product areas\n-----------------------------------------\n\n*     [![Image 63](https://lh3.googleusercontent.com/lC76XCHXWEyaeodN_jKLz-a0IwmNpiVCV5VtSNj4L0fDrDmky6Hsoo5r6ntgo66qR9yOKqBKlEOE8acOPBOaL4LBTXdn67JIF2F9AdMPbEPZ_-xSLg=w24-h24-n-nu)Google AI](https://ai.google/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n*     [![Image 64](https://lh3.googleusercontent.com/lC76XCHXWEyaeodN_jKLz-a0IwmNpiVCV5VtSNj4L0fDrDmky6Hsoo5r6ntgo66qR9yOKqBKlEOE8acOPBOaL4LBTXdn67JIF2F9AdMPbEPZ_-xSLg=w24-h24-n-nu)Google AI for Developers](https://ai.google.dev/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n*     [![Image 65](https://lh3.googleusercontent.com/RSfVFwb4EE0jbPkTT2dA-PObu_qD4skafiXpcnn8KKFU1bpuQH8a2cAwjbqcKoDJcqh9l2VneswZU4Mslv-c4tQ83R6ylRqftNE4mWx9h50HFY6f=w24-h24-n-nu)Google AI Studio](https://aistudio.google.com/app/prompts/new_chat?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n*     [![Image 66](https://lh3.googleusercontent.com/fUrcu4pqiGaiWltnYg5qn-X6W4kKma1a3vtuA48fZFpzpmeHeLlD6LCLCd9ScI2t9CSeKs_Du0ire6JsgpuTsH7eDD1Cw2r4dnzaBbkXSuZ-Az1ehw=w24-h24-n-nu)Gemini](https://gemini.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n*     [![Image 67](https://lh3.googleusercontent.com/DV7Fy9b8UGgJex-dTR56NoXBOAcTE_nZ5nFP7V51aHAsYIsetuYcMVLzLnBG60EajVBQL3HBFyCk5Q9Enhk_mEuUHYXKP7DUIHiC1jyPB1aBDX8lkU8=w24-h24-n-nu)Google Cloud](https://cloud.google.com/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n*     [![Image 68](https://lh3.googleusercontent.com/-I5k1wqPNxVU6MZC-w1tZXEWBqvoBuUQEqm9y0ZtyMYnL9ZNTKIrttG2vcW_9vyu9NObgUrRZk0Fz60z-MV5uMmghls9zIlWGKuOyBxDpFx8TbISug=w24-h24-n-nu)Google Labs](https://labs.google/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)\n\nFooter links\n------------\n\n### Follow us\n\n*   [](https://x.com/googledeepmind \"Follow us on X\")\n*   [](https://www.instagram.com/googledeepmind \"Follow us on Instagram\")\n*   [](https://www.linkedin.com/company/googledeepmind/ \"Follow us on LinkedIn\")\n*   [](https://www.youtube.com/@google_deepmind \"Follow us on YouTube\")\n*   [](https://github.com/google-deepmind \"Follow us on GitHub\")\n\n### About\n\n*   [About Google DeepMind](https://deepmind.google/about/)\n*   [Responsibility & Safety](https://deepmind.google/about/responsibility-safety/)\n*   [Research](https://deepmind.google/research/)\n*   [Technologies](https://deepmind.google/technologies/)\n*   [Blog](https://deepmind.google/discover/blog/)\n*   [Careers](https://deepmind.google/about/careers/)\n\n### Learn more\n\n*   [Gemini](https://deepmind.google/technologies/gemini/)\n*   [Veo](https://deepmind.google/technologies/veo/)\n*   [Imagen 3](https://deepmind.google/technologies/imagen-3/)\n*   [SynthID](https://deepmind.google/technologies/synthid/)\n\n### Sign up for updates on our latest innovations\n\nEmail address \n\nPlease enter a valid email (e.g., \"name@example.com\")\n\nI accept Google's Terms and Conditions and acknowledge that my information will be used in accordance with [Google's Privacy Policy](https://policies.google.com/privacy).\n\nSign up\n\n[](https://www.google.com/ \"Google\")\n\n*   [About Google](https://about.google/)\n*   [Google products](https://about.google/products/)\n*   [Privacy](https://policies.google.com/privacy)\n*   [Terms](https://policies.google.com/terms)\n*   Cookies management controls",
+  "usage": {
+    "tokens": 5988
+  }
+}
+```

@@ -1,0 +1,187 @@
+Evolved Orchestration
+---------------------
+
+Your data is too important for yesterday's tools. Airflow is built for 2015, Prefect is designed for today.
+
+flow.py
+
+```
+1from custom_tests import quality_test
+2from prefect import task, flow
+3from prefect.transactions import transaction
+4
+5
+6@task(retries=2, retry_delay_seconds=5)
+7def write_file(contents: str):
+8    with open("side-effect.txt", "w") as f:
+9        f.write(contents)
+10
+11        
+12@write_file.on_rollback
+13def del_file(transaction):
+14    os.unlink("side-effect.txt")
+15
+16
+17@flow
+18def pipeline(contents: str):
+19    with transaction():
+20        write_file(contents)
+21        quality_test()
+22
+23
+24if __name__ == "__main__":
+25    pipeline.deploy(
+26        name="pipeline-deployment",
+27        work_pool_name="k8s-work-pool",
+28        image="pipeline-img:dev"
+29    )
+```
+
+![Image 65](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F124556dd3839654538a618ad869e37fb77837f79-2766x2030.png%3Fq%3D90%26fit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+The Future of Orchestration
+---------------------------
+
+Join industry leaders at Prefect Summit 2025 to discover how they're moving beyond basic orchestration to achieve true business impact.
+
+[Register Now](https://prefec.tv/4h5gnq8)
+
+Trusted by Data and Platform Teams
+----------------------------------
+
+Discover Better Workflow Operations
+-----------------------------------
+
+Join us January 22-23 at Prefect's 2025 January Summit to discover the future of workflow orchestration. You'll learn how leading organizations are transforming their data operations by moving beyond task completion to drive real business impact.
+
+“Airflow was no longer a viable option for Machine Learning workflows ... we needed an orchestration platform that offers a high level of data security and can be easily adopted by ML practitioners.”
+
+![Image 66: Wendy Tang](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F61297837714b0f8b4d0e2aa2cddc65b7b51570df-162x178.png%3Fw%3D220%26fit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+Wendy Tang
+
+Machine Learning Engineer
+
+,
+
+Cash App
+
+![Image 67: Cash App Logo](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2Fb206be303de343029db3d91adde97646418ab414-800x177.png%3Fw%3D220%26fit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+“Prefect's compute model associates resources with jobs rather than environments, enabling us to run diverse workflows in a unified environment. The ability to separate code and infrastructure is extremely impressive - you can define everything in a single YAML file, making it easy to specify exactly which resources you need.”
+
+![Image 68: Sunny Pachunuri](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F23edba3c941244abcfebf19cc8b24d69424257ad-800x800.jpg%3Fw%3D220%26fit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+Sunny Pachunuri
+
+Data Engineering / Platform Manager
+
+,
+
+Endpoint
+
+![Image 69: Endpoint Logo](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2Facff6843026bce8abe8cf04a38f1ba5b360a1b4a-186x40.png%3Fw%3D220%26fit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+Build Resilient Workflows You Can Trust
+---------------------------------------
+
+Transform your Python code into production-ready data pipelines. Prefect gives you the tools to build, monitor, and scale your critical data workflows with confidence and efficiency.
+
+Why Prefect?
+------------
+
+Prefect empowers data and platform teams to build trustworthy workflows quickly by combining Pythonic simplicity with a secure self-service framework. Ensure resilience and efficiency at scale, while reducing your infrastructure costs by up to 70% with Prefect.
+
+Build Confidence
+----------------
+
+Complete visibility and automated recovery ensure your workflows deliver reliable results. From real-time monitoring to proactive alerts, get the tools you need to maintain system confidence.
+
+![Image 70](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F6c2b43baf207a77b92f2740fd4af7b4c841e90c1-2764x1902.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+Deploy Faster
+-------------
+
+Prefect's pure Python approach and independent workflows let you focus on solving problems, not fighting frameworks. Deploy to any infrastructure and update workflows individually without impacting others.
+
+![Image 71: Prefect UI dashboard showing a completed task run named 'esoteric-chital'. The interface displays a timeline of task execution steps from 10:05:12 AM to 10:05:17 AM, including deployment details, kubernetes pod operations, and flow run completion status. The task run is tagged with 'auto-scheduled' and 'expected:success'.](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2Fc9c1118fe50773e7057eb102a5ce3126ff5def2c-2768x2312.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+Grow Efficiently
+----------------
+
+Dynamic resource allocation and unified control let you efficiently manage workflows across your organization. Optimize costs while maintaining performance as your operations grow.
+
+![Image 72](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F5800dd71fccf4e71b2a48844c8bc738f49b93b68-2898x1904.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+What Our Users Are Saying
+-------------------------
+
+![Image 73](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F23edba3c941244abcfebf19cc8b24d69424257ad-800x800.jpg%3Fw%3D32%26fit%3Dmax%26auto%3Dformat%26dpr%3D3&w=3840&q=75)
+
+Sunny Pachunuri, Data Engineering and Platform Manager, Endpoint
+
+The Data Engineering and MLOps teams were impressed by the elimination of retrofitting requirements. Switching from Astronomer to Prefect resulted in a 73.78% reduction in invoice costs alone.
+
+![Image 74](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F3fb052bd9d86f494afe15ffdb9509ded451accbf-200x200.jpg%3Fw%3D32%26fit%3Dmax%26auto%3Dformat%26dpr%3D3&w=3840&q=75)
+
+Mike Grabbe, Principal Data Engineer, EF Education First
+
+Our job is to provide data analysts and data scientists the data they need to create data products that drive business value. And beyond that, we focus on enabling our data scientists by removing roadblocks and giving them powerful tools that make their jobs easier. Prefect is allowing us to achieve these objectives.
+
+![Image 75](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F5e68e6812e7a943951e4e9663f09221a0eec3a94-200x200.jpg%3Fw%3D32%26fit%3Dmax%26auto%3Dformat%26dpr%3D3&w=3840&q=75)
+
+Alex Welch, Head of Data, dbt Labs
+
+We use Prefect to orchestrate dbt Cloud jobs right alongside other data tools. It brings visibility to our entire pipeline and streamlines our deployments. By combining Prefect and dbt Cloud, you get the best of both worlds without sacrificing functionality, governance, or velocity.
+
+![Image 76](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F61297837714b0f8b4d0e2aa2cddc65b7b51570df-162x178.png%3Fw%3D32%26fit%3Dmax%26auto%3Dformat%26dpr%3D3&w=3840&q=75)
+
+Wendy Tang, Machine Learning Engineer, Cash App
+
+We took all the Prefect features and designed an architecture that really works for our infrastructure provisioning and our organization.
+
+![Image 77](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2Fd46e0fd8947af8ac37e028c1153d52412d500536-461x461.jpg%3Fw%3D32%26fit%3Dmax%26auto%3Dformat%26dpr%3D3&w=3840&q=75)
+
+Lee Mendelowitz, Lead Data Engineer, Washington Nationals
+
+With Prefect we can define our workflows precisely, using code that's under version control. Features like tasks, task dependencies & retries, and mapping make it easy to write robust data imports and data pipelines.
+
+![Image 78](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F8cd6c9b6b17ce04a79d1716889e71894df1ff007-800x800.jpg%3Fw%3D32%26fit%3Dmax%26auto%3Dformat%26dpr%3D3&w=3840&q=75)
+
+Nelson Griffiths, Engineering Lead, Double River Investments
+
+Prefect allows us to create a microservices-like architecture for our data pipelines, essentially acting as a contract between independent teams.
+
+![Image 79](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F35db065f36a2d5b0784701bdab1c828910bed275-200x200.jpg%3Fw%3D32%26fit%3Dmax%26auto%3Dformat%26dpr%3D3&w=3840&q=75)
+
+Data Platform Engineer, Kraft Analytics Group
+
+Prefect gives us the granular flexibility to build a custom platform that would work for our entire organization, without needing a bloated infra architecture.
+
+Get Started With Prefect
+------------------------
+
+Resources
+---------
+
+![Image 80](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F188864e95397c263aa1b530122b132c361bdd86a-900x900.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+Cash App Gains Flexibility in ML Workflows with Prefect
+
+![Image 81](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2Fde0597348411dda74ac1e044a581b31d8c0fac69-900x900.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+How Cox Auto Uses Prefect to Meet Analytics Demands
+
+![Image 82](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F06af82c09e1fb75f60fba02da128fe15164ac7de-4000x2250.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+Endpoint Cut Costs by 73% After Switching From Airflow to Prefect
+
+How Endpoint Cut Costs by 73% After Switching From Airflow to Prefect
+
+![Image 83](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2Ffca91cf8715faae60423f11198b86b2b3092c17b-1200x600.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+How DBT Labs Unlocked Platform Observability with Prefect
+
+![Image 84](https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2F91b464cfbd8a57232cc5a096a1b146a8a15b3b0d-1600x900.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+EF Education Tours Unblocks Data Science Teams with Prefect

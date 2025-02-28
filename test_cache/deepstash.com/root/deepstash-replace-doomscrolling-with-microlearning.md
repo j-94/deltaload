@@ -1,0 +1,654 @@
+---
+title: Deepstash - Replace doomscrolling with microlearning!
+description: Learn something new in just 5 minutes, with daily bite-sized knowledge from books, articles, videos, podcasts & more.
+url: https://deepstash.com/
+timestamp: 2025-01-20T16:14:36.975Z
+domain: deepstash.com
+path: root
+---
+
+# Deepstash - Replace doomscrolling with microlearning!
+
+
+Learn something new in just 5 minutes, with daily bite-sized knowledge from books, articles, videos, podcasts & more.
+
+
+## Content
+
+Deepstash: Smarter Every Day!
+===============
+  
+
+ 
+
+[](https://deepstash.com/)
+
+Idea Categories
+
+Personal Development Tips & Ideas
+
+[Personal Development Tips & Ideas](https://deepstash.com/topic/personaldevelopment)
+
+* * *
+
+[Mental Health Insights & Facts](https://deepstash.com/topic/mentalhealth)
+
+* * *
+
+[Mindfulness Tips & Facts](https://deepstash.com/topic/mindfulness)
+
+* * *
+
+[Psychology Facts](https://deepstash.com/topic/psychology)
+
+* * *
+
+[Facts about Meditation](https://deepstash.com/topic/meditation)
+
+* * *
+
+[Motivation Tips & Ideas](https://deepstash.com/topic/motivationandinspiration)
+
+* * *
+
+[Facts about Habits](https://deepstash.com/topic/habits)
+
+* * *
+
+[Productivity Tips & Facts](https://deepstash.com/topic/productivity)
+
+* * *
+
+[Facts about Communication](https://deepstash.com/topic/communication)
+
+* * *
+
+[Tips for Time Management & Facts](https://deepstash.com/topic/timemanagement)
+
+* * *
+
+Business Facts
+
+[Business Facts](https://deepstash.com/topic/business)
+
+* * *
+
+[Entrepreneurship Tips & Facts](https://deepstash.com/topic/entrepreneurship)
+
+* * *
+
+[Facts about Leadership](https://deepstash.com/topic/leadershipandmanagement)
+
+* * *
+
+[Facts about Marketing & Sales](https://deepstash.com/topic/marketingandsales)
+
+* * *
+
+[Career Tips & Facts](https://deepstash.com/topic/career)
+
+* * *
+
+[Remote Work Ideas & Tips](https://deepstash.com/topic/remotework)
+
+* * *
+
+Personal Finance Tips
+
+[Personal Finance Tips](https://deepstash.com/topic/personalfinance)
+
+* * *
+
+[Facts about Money](https://deepstash.com/topic/moneyandinvestments)
+
+* * *
+
+Culture Facts
+
+[Culture Facts](https://deepstash.com/topic/culture)
+
+* * *
+
+[Facts about Education](https://deepstash.com/topic/education)
+
+* * *
+
+[History Facts](https://deepstash.com/topic/history)
+
+* * *
+
+[Philosophical Ideas](https://deepstash.com/topic/philosophy)
+
+* * *
+
+[Facts about Music](https://deepstash.com/topic/music)
+
+* * *
+
+[Facts about Movies](https://deepstash.com/topic/movies)
+
+* * *
+
+[Facts about Creativity & Ideas](https://deepstash.com/topic/creativity)
+
+* * *
+
+[Facts about Art](https://deepstash.com/topic/artsandculture)
+
+* * *
+
+[Food Facts](https://deepstash.com/topic/food)
+
+* * *
+
+Science Facts
+
+[Science Facts](https://deepstash.com/topic/scienceandnature)
+
+* * *
+
+[Science Fiction Facts](https://deepstash.com/topic/sciencefiction)
+
+* * *
+
+[Facts about Technology](https://deepstash.com/topic/technologyandthefuture)
+
+* * *
+
+Facts about Society & Community
+
+[Facts about Society & Community](https://deepstash.com/topic/society)
+
+* * *
+
+[Facts about Love and Relationships](https://deepstash.com/topic/loveandrelationships)
+
+* * *
+
+[Religion and Spirituality Facts](https://deepstash.com/topic/religionandspirituality)
+
+* * *
+
+[Parenting Facts & Tips](https://deepstash.com/topic/parenting)
+
+* * *
+
+[Facts about Entertainment](https://deepstash.com/topic/entertainment)
+
+* * *
+
+Wellness Tips
+
+[Wellness Tips](https://deepstash.com/topic/wellness)
+
+* * *
+
+[Sports Facts](https://deepstash.com/topic/sports)
+
+* * *
+
+[Travel Facts](https://deepstash.com/topic/travel)
+
+* * *
+
+[Facts about Health](https://deepstash.com/topic/health)
+
+* * *
+
+[Exercise and Fitness Facts](https://deepstash.com/topic/exerciseandfitness)
+
+[Collections](https://deepstash.com/collections/1)
+
+[Get Pro](https://deepstash.com/get-pro)
+
+Log In
+
+![Image 76](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fproductivity_hacks.png&w=640&q=75)
+
+Productivity Hacks
+
+![Image 77](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fthink_outside_the_box.png&w=640&q=75)
+
+Think Outside the Box
+
+![Image 78](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fmanaging_time_like_a_pro.png&w=640&q=75)
+
+Manage Time Like a Pro
+
+![Image 79](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fhow_to_be_more_mindful.png&w=640&q=75)
+
+How to be More Mindful
+
+![Image 80](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fthe_glorification_of_busy.png&w=640&q=75)
+
+Be Productive
+
+![Image 81](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Ftop_7_ted_talks_in_customer_success.png&w=640&q=75)
+
+TED Talks
+
+![Image 82](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2F7_days_with_seth_godin.png&w=640&q=75)
+
+Marketing with Seth Godin
+
+![Image 83](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Ftop_7_books_for_product_managers.png&w=640&q=75)
+
+Stoic Life
+
+![Image 84](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fhow_to_start_investing_today.png&w=640&q=75)
+
+Learn to Invest
+
+![Image 85](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fmanaging_email_efficiently.png&w=640&q=75)
+
+Managing Email Efficiently
+
+![Image 86](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fsleep_better.png&w=640&q=75)
+
+Sleep Better
+
+![Image 87](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fhow_to_be_happy.png&w=640&q=75)
+
+How to be Happy
+
+![Image 88](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Felon_musk.png&w=640&q=75)
+
+Inside the Mind of Elon Musk
+
+![Image 89](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Ftop_7_ted_talks_in_customer_success.png&w=640&q=75)
+
+TED Talks
+
+![Image 90](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2F7_days_with_seth_godin.png&w=640&q=75)
+
+Marketing with Seth Godin
+
+![Image 91](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Ftop_7_books_for_product_managers.png&w=640&q=75)
+
+Stoic Life
+
+![Image 92](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fhow_to_start_investing_today.png&w=640&q=75)
+
+Learn to Invest
+
+![Image 93](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fmanaging_email_efficiently.png&w=640&q=75)
+
+Managing Email Efficiently
+
+![Image 94](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fsleep_better.png&w=640&q=75)
+
+Sleep Better
+
+![Image 95](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fhow_to_be_happy.png&w=640&q=75)
+
+How to be Happy
+
+![Image 96](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Felon_musk.png&w=640&q=75)
+
+Inside the Mind of Elon Musk
+
+![Image 97](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fda_vinci.png&w=640&q=75)
+
+The Genius of DaVinci
+
+![Image 98](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fcharisma.png&w=640&q=75)
+
+Learn Charisma
+
+![Image 99](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fvulnerable.png&w=640&q=75)
+
+Avoid Bad Habits
+
+![Image 100](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Frecover_burnout.png&w=640&q=75)
+
+Recover from Burnout
+
+![Image 101](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fjoining_a_new_team.png&w=640&q=75)
+
+Joining a New Team
+
+BECOME  
+THE SMARTEST  
+IN THE ROOM
+===================================
+
+Unlimited access to 200,000+ powerful ideas from top books, podcasts, and more.
+
+What brings you to Deepstash?
+
+Increase Productivity
+
+Win at Work
+
+Build Better Habits
+
+Earn More Money
+
+Continue
+
+Explore the World's Best Ideas
+
+Join today and uncover 100+ curated journeys from 50+ topics. Unlock access to our mobile app with extensive features.
+
+Start Today
+
+Discover
+
+#### Your Next Big Idea
+
+Ideas come from books, articles, podcasts & more.  
+We make it **easy** by picking the best ideas from a **200,000+ catalogue** on thousands of topics.
+
+Learn Anything
+
+#### Remember Everything
+
+The idea format helps **10M+ people** remember the ideas that **help them grow**. Join the community. Save and remember ideas. Share & discover.
+
+Get Creative
+
+#### Build a Reading Habit
+
+"Creativity is just connecting the dots." - **Steve Jobs.**  
+With Deepstash, you will build stronger **reading habits** through **bite-sized recommendations** throughout the day.
+
+Start your journey today
+
+Embark on the journey of becoming better & smarter.  
+Get the mobile app & never stop exploring.
+
+Start today
+
+Explore Library
+
+Top Collections
+
+Discover the most popular ideas and learn something new in less than 5 minutes a day
+
+![Image 102: How to Be Happy](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)
+
+[How to Be Happy](https://deepstash.com/collection/63/how-to-be-happy)
+
+![Image 104: 7 Books on Habits](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)
+
+[7 Books on Habits](https://deepstash.com/collection/101/7-books-on-habits)
+
+![Image 106: How To Live A Long Life](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)
+
+[How To Live A Long Life](https://deepstash.com/collection/93/how-to-live-a-long-life)
+
+![Image 108: Making Better Decisions](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)
+
+[Making Better Decisions](https://deepstash.com/collection/54/making-better-decisions)
+
+![Image 110: Managing Time Like a Pro](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)
+
+[Managing Time Like a Pro](https://deepstash.com/collection/10/managing-time-like-a-pro)
+
+What are you interested in?
+
+Over 200,000+ of ideas from books, podcasts, articles, and more.
+
+[![Image 112](https://static.deepstash.com/illustrations/topics/svg/202305/personaldevelopment.svg) Personal Development](https://deepstash.com/topic/personaldevelopment "Personal Development")
+
+[![Image 113](https://static.deepstash.com/illustrations/topics/svg/202305/productivity.svg) Productivity](https://deepstash.com/topic/productivity "Productivity")
+
+[![Image 114](https://static.deepstash.com/illustrations/topics/svg/202305/moneyandinvestments.svg) Money and Investments](https://deepstash.com/topic/moneyandinvestments "Money and Investments")
+
+[![Image 115](https://static.deepstash.com/illustrations/topics/svg/202305/health.svg) Health](https://deepstash.com/topic/health "Health")
+
+[![Image 116](https://static.deepstash.com/illustrations/topics/svg/202305/loveandrelationships.svg) Love and Relationships](https://deepstash.com/topic/loveandrelationships "Love and Relationships")
+
+[![Image 117](https://static.deepstash.com/illustrations/topics/svg/202305/career.svg) Career](https://deepstash.com/topic/career "Career")
+
+[![Image 118](https://static.deepstash.com/illustrations/topics/svg/202305/psychology.svg) Psychology](https://deepstash.com/topic/psychology "Psychology")
+
+[![Image 119](https://static.deepstash.com/illustrations/topics/svg/202305/startups.svg) Startup](https://deepstash.com/topic/startup "Startup")
+
+[![Image 120](https://static.deepstash.com/illustrations/topics/svg/202305/mindfulness.svg) Mindfulness](https://deepstash.com/topic/mindfulness "Mindfulness")
+
+[![Image 121](https://static.deepstash.com/illustrations/topics/svg/202305/philosophy.svg) Philosophy](https://deepstash.com/topic/philosophy "Philosophy")
+
+[![Image 122](https://static.deepstash.com/illustrations/topics/svg/202305/artsandculture.svg) Arts and Culture](https://deepstash.com/topic/artsandculture "Arts and Culture")
+
+[![Image 123](https://static.deepstash.com/illustrations/topics/svg/202305/marketingandsales.svg) Marketing and Sales](https://deepstash.com/topic/marketingandsales "Marketing and Sales")
+
+[![Image 124](https://static.deepstash.com/illustrations/topics/svg/202305/technology.svg) Technology and the Future](https://deepstash.com/topic/technologyandthefuture "Technology and the Future")
+
+[![Image 125](https://static.deepstash.com/illustrations/topics/svg/202305/leadership.svg) Leadership and Management](https://deepstash.com/topic/leadershipandmanagement "Leadership and Management")
+
+[![Image 126](https://static.deepstash.com/illustrations/topics/svg/202305/food.svg) Food](https://deepstash.com/topic/food "Food")
+
+[![Image 127](https://static.deepstash.com/illustrations/topics/svg/202305/music.svg) Music](https://deepstash.com/topic/music "Music")
+
+[![Image 128](https://static.deepstash.com/illustrations/topics/svg/202305/sports.svg) Sports](https://deepstash.com/topic/sports "Sports")
+
+[![Image 129](https://static.deepstash.com/illustrations/topics/svg/202305/travel.svg) Travel](https://deepstash.com/topic/travel "Travel")
+
+[![Image 130](https://static.deepstash.com/illustrations/topics/svg/202305/education.svg) Education](https://deepstash.com/topic/education "Education")
+
+[![Image 131](https://static.deepstash.com/illustrations/topics/svg/202305/history.svg) History](https://deepstash.com/topic/history "History")
+
+[![Image 132](https://static.deepstash.com/illustrations/topics/svg/202305/scienceandnature.svg) Science and Nature](https://deepstash.com/topic/scienceandnature "Science and Nature")
+
+[![Image 133](https://static.deepstash.com/illustrations/topics/svg/202305/economics.svg) Economics](https://deepstash.com/topic/economics "Economics")
+
+Got 5 minutes? Plenty for:
+
+*   a Book
+*   a Podcast
+*   an Article
+
+Start today
+
+![Image 134](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)
+
+without  
+deep**stash**
+
+with  
+deep**stash**
+
+with
+
+deep**stash**
+
+Access to 200,000+ ideas
+
+—
+
+Access to the mobile app
+
+—
+
+Unlimited idea saving
+
+—
+
+—
+
+Unlimited history
+
+—
+
+—
+
+Unlimited listening to ideas
+
+—
+
+—
+
+Downloading & offline access
+
+—
+
+—
+
+Personalized microlearning
+
+—
+
+—
+
+A small investment, an incredible growth opportunity
+
+Get access to 200,000+ powerful ideas from top books, podcasts, and more.
+
+Enjoy unlimited access to 100+ tailored journeys & all mobile app features.
+
+Get Deepstash Pro today
+
+What our members say
+
+4.8
+
+14,500+ Reviews
+
+App Store
+
+4.6
+
+92,000+ Reviews
+
+Google Play
+
+![Image 136](https://deepstash.com/_next/image?url=https%3A%2F%2Fstatic.deepstash.com%2Fprofile%2F1.png&w=3840&q=75)
+
+samz905
+
+Don’t look further if you love learning new things. A refreshing concept that provides quick ideas for busy thought leaders.
+
+“
+
+![Image 137](https://deepstash.com/_next/image?url=https%3A%2F%2Fstatic.deepstash.com%2Fprofile%2F3.png&w=3840&q=75)
+
+Shankul Varada
+
+Best app ever! You heard it right. This app has helped me get back on my quest to get things done while equipping myself with knowledge everyday.
+
+“
+
+![Image 138](https://deepstash.com/_next/image?url=https%3A%2F%2Fstatic.deepstash.com%2Fprofile%2F4.png&w=3840&q=75)
+
+Ashley Anthony
+
+This app is LOADED with RELEVANT, HELPFUL, AND EDUCATIONAL material. It is creatively intellectual, yet minimal enough to not overstimulate and create a learning block. I am exceptionally impressed with this app!
+
+“
+
+![Image 139](https://deepstash.com/_next/image?url=https%3A%2F%2Fd3t70bohx4vuj7.cloudfront.net%2Fs012iAZ8qyBRG8AKY9wOQH9mnoQvHAQOVIGFptyg5j8%2Fresize%3Afill%3A0%3A0%2Fgravity%3Ace%2Fmb%3A1048576%2FaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pHWEJkcFhCa1lXYXZVX1V5M1BhZFJCdDVsM2FLVjJoeWtpaWhMU0E&w=3840&q=75)
+
+Ghazala Begum
+
+Even five minutes a day will improve your thinking. I've come across new ideas and learnt to improve existing ways to become more motivated, confident and happier.
+
+“
+
+![Image 140](https://deepstash.com/_next/image?url=https%3A%2F%2Fd3t70bohx4vuj7.cloudfront.net%2FuyMe9EjDTznECx-EXbK2TyCVWobsFL3fPBuLEgntcNc%2Fresize%3Afill%3A0%3A0%2Fgravity%3Ace%2Fmb%3A1048576%2FaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2ltMDNrV3VFTV9IbmMxUkIwWGFMRi1OOVRWSFlJWlQ0TmFOMFhCN3c&w=3840&q=75)
+
+Giovanna Scalzone
+
+Brilliant. It feels fresh and encouraging. So many interesting pieces of information that are just enough to absorb and apply. So happy I found this.
+
+“
+
+![Image 141](https://deepstash.com/_next/image?url=https%3A%2F%2Fd3t70bohx4vuj7.cloudfront.net%2FWXHL2bkKJfER8nPTdsW6mc22_4PFr5CNXfDvw3UxMsg%2Fresize%3Afill%3A0%3A0%2Fgravity%3Ace%2Fmb%3A1048576%2FaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lheHBXdUljdXZTd1Y1UW5nMGYyRjdDR0dVNnNjUFhXbDFUWjc3TGc&w=3840&q=75)
+
+Laetitia Berton
+
+I have only been using it for a few days now, but I have found answers to questions I had never consciously formulated, or to problems I face everyday at work or at home. I wish I had found this earlier, highly recommended!
+
+“
+
+Frequently asked questions
+
+General
+
+What is Deepstash?
+
+Deepstash is a platform where users read and curate bite-sized insights and ideas from anywhere online, may that be books, articles, podcasts, or videos. You can learn good habits, useful skills and build your knowledge, on your own time. Deepstash makes your personal growth manageable!
+
+Why are ideas important?
+
+Ideas are important because they form the foundation for progress and innovation. The idea format used by Deepstash is important because it condenses complex concepts and profound thoughts into simple, digestible sentences that are easy to understand and remember. This format makes ideas more accessible and easier to apply in daily life, helping people to make positive changes and achieve their goals.
+
+How can I use Deepstash?
+
+Deepstash can be found on both the Apple App Store and Google Play Store. Additionally, Deepstash can be found on the web, where you can login and use Deepstash at deepstash.com.
+
+Pro Subscription
+
+What is included in my Deepstash subscription?
+
+With Pro, you get all of Deepstash amazing content, but your interaction with it is unrestrained. Save as many ideas as you want, in as many stashes you desire. You can also go offline and still have access to your content, while also listening to your ideas whenever, wherever.
+
+Can I cancel at any time?
+
+Yes. If you have an ongoing subscription, you will keep your benefits until the next billing date.
+
+When is my Lifetime Pro subscription activated?
+
+Due to the nature of payment processing, please allow up to 24h for your Lifetime Pro subscription to become active.
+
+Supercharge your mind with one idea per day
+
+Enter your email and spend 1 minute every day to learn something new.
+
+Email
+
+I agree to receive email updates
+
+Submit
+
+deepstash
+
+[](https://instagram.com/deepstash)[](https://www.facebook.com/deepstash/)[](https://twitter.com/deepstash)[](https://www.tiktok.com/@deepstash.app)[](https://www.youtube.com/c/Deepstash)
+
+[](https://apps.apple.com/us/app/id1445023295 "Download from the App Store")[](https://play.google.com/store/apps/details?id=com.deepstash "Download from the App Store")
+
+Content
+
+[Ideas](https://deepstash.com/articles/1)
+
+[Collections](https://deepstash.com/collections/1)
+
+[Stories](https://deepstash.com/stories)
+
+[Explore](https://deepstash.com/explore)
+
+Product
+
+[Pricing](https://deepstash.com/get-pro)
+
+[Businesses](https://deepstash.com/for-teams)
+
+Resources
+
+[Terms](https://deepstash.com/terms-of-service)
+
+[Privacy](https://deepstash.com/privacy-policy)
+
+[Press Kit](https://deepstash.com/press-kit)
+
+[Sitemap](https://deepstash.com/sitemap.xml)
+
+Company
+
+[About](https://deepstash.com/about)
+
+[Contact](https://deepstash.com/press-kit)
+
+## Metadata
+
+```json
+{
+  "title": "Deepstash - Replace doomscrolling with microlearning!",
+  "description": "Learn something new in just 5 minutes, with daily bite-sized knowledge from books, articles, videos, podcasts & more.",
+  "url": "https://deepstash.com/",
+  "content": "Deepstash: Smarter Every Day!\n===============\n  \n\n \n\n[](https://deepstash.com/)\n\nIdea Categories\n\nPersonal Development Tips & Ideas\n\n[Personal Development Tips & Ideas](https://deepstash.com/topic/personaldevelopment)\n\n* * *\n\n[Mental Health Insights & Facts](https://deepstash.com/topic/mentalhealth)\n\n* * *\n\n[Mindfulness Tips & Facts](https://deepstash.com/topic/mindfulness)\n\n* * *\n\n[Psychology Facts](https://deepstash.com/topic/psychology)\n\n* * *\n\n[Facts about Meditation](https://deepstash.com/topic/meditation)\n\n* * *\n\n[Motivation Tips & Ideas](https://deepstash.com/topic/motivationandinspiration)\n\n* * *\n\n[Facts about Habits](https://deepstash.com/topic/habits)\n\n* * *\n\n[Productivity Tips & Facts](https://deepstash.com/topic/productivity)\n\n* * *\n\n[Facts about Communication](https://deepstash.com/topic/communication)\n\n* * *\n\n[Tips for Time Management & Facts](https://deepstash.com/topic/timemanagement)\n\n* * *\n\nBusiness Facts\n\n[Business Facts](https://deepstash.com/topic/business)\n\n* * *\n\n[Entrepreneurship Tips & Facts](https://deepstash.com/topic/entrepreneurship)\n\n* * *\n\n[Facts about Leadership](https://deepstash.com/topic/leadershipandmanagement)\n\n* * *\n\n[Facts about Marketing & Sales](https://deepstash.com/topic/marketingandsales)\n\n* * *\n\n[Career Tips & Facts](https://deepstash.com/topic/career)\n\n* * *\n\n[Remote Work Ideas & Tips](https://deepstash.com/topic/remotework)\n\n* * *\n\nPersonal Finance Tips\n\n[Personal Finance Tips](https://deepstash.com/topic/personalfinance)\n\n* * *\n\n[Facts about Money](https://deepstash.com/topic/moneyandinvestments)\n\n* * *\n\nCulture Facts\n\n[Culture Facts](https://deepstash.com/topic/culture)\n\n* * *\n\n[Facts about Education](https://deepstash.com/topic/education)\n\n* * *\n\n[History Facts](https://deepstash.com/topic/history)\n\n* * *\n\n[Philosophical Ideas](https://deepstash.com/topic/philosophy)\n\n* * *\n\n[Facts about Music](https://deepstash.com/topic/music)\n\n* * *\n\n[Facts about Movies](https://deepstash.com/topic/movies)\n\n* * *\n\n[Facts about Creativity & Ideas](https://deepstash.com/topic/creativity)\n\n* * *\n\n[Facts about Art](https://deepstash.com/topic/artsandculture)\n\n* * *\n\n[Food Facts](https://deepstash.com/topic/food)\n\n* * *\n\nScience Facts\n\n[Science Facts](https://deepstash.com/topic/scienceandnature)\n\n* * *\n\n[Science Fiction Facts](https://deepstash.com/topic/sciencefiction)\n\n* * *\n\n[Facts about Technology](https://deepstash.com/topic/technologyandthefuture)\n\n* * *\n\nFacts about Society & Community\n\n[Facts about Society & Community](https://deepstash.com/topic/society)\n\n* * *\n\n[Facts about Love and Relationships](https://deepstash.com/topic/loveandrelationships)\n\n* * *\n\n[Religion and Spirituality Facts](https://deepstash.com/topic/religionandspirituality)\n\n* * *\n\n[Parenting Facts & Tips](https://deepstash.com/topic/parenting)\n\n* * *\n\n[Facts about Entertainment](https://deepstash.com/topic/entertainment)\n\n* * *\n\nWellness Tips\n\n[Wellness Tips](https://deepstash.com/topic/wellness)\n\n* * *\n\n[Sports Facts](https://deepstash.com/topic/sports)\n\n* * *\n\n[Travel Facts](https://deepstash.com/topic/travel)\n\n* * *\n\n[Facts about Health](https://deepstash.com/topic/health)\n\n* * *\n\n[Exercise and Fitness Facts](https://deepstash.com/topic/exerciseandfitness)\n\n[Collections](https://deepstash.com/collections/1)\n\n[Get Pro](https://deepstash.com/get-pro)\n\nLog In\n\n![Image 76](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fproductivity_hacks.png&w=640&q=75)\n\nProductivity Hacks\n\n![Image 77](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fthink_outside_the_box.png&w=640&q=75)\n\nThink Outside the Box\n\n![Image 78](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fmanaging_time_like_a_pro.png&w=640&q=75)\n\nManage Time Like a Pro\n\n![Image 79](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fhow_to_be_more_mindful.png&w=640&q=75)\n\nHow to be More Mindful\n\n![Image 80](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fthe_glorification_of_busy.png&w=640&q=75)\n\nBe Productive\n\n![Image 81](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Ftop_7_ted_talks_in_customer_success.png&w=640&q=75)\n\nTED Talks\n\n![Image 82](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2F7_days_with_seth_godin.png&w=640&q=75)\n\nMarketing with Seth Godin\n\n![Image 83](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Ftop_7_books_for_product_managers.png&w=640&q=75)\n\nStoic Life\n\n![Image 84](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fhow_to_start_investing_today.png&w=640&q=75)\n\nLearn to Invest\n\n![Image 85](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fmanaging_email_efficiently.png&w=640&q=75)\n\nManaging Email Efficiently\n\n![Image 86](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fsleep_better.png&w=640&q=75)\n\nSleep Better\n\n![Image 87](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fhow_to_be_happy.png&w=640&q=75)\n\nHow to be Happy\n\n![Image 88](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Felon_musk.png&w=640&q=75)\n\nInside the Mind of Elon Musk\n\n![Image 89](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Ftop_7_ted_talks_in_customer_success.png&w=640&q=75)\n\nTED Talks\n\n![Image 90](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2F7_days_with_seth_godin.png&w=640&q=75)\n\nMarketing with Seth Godin\n\n![Image 91](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Ftop_7_books_for_product_managers.png&w=640&q=75)\n\nStoic Life\n\n![Image 92](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fhow_to_start_investing_today.png&w=640&q=75)\n\nLearn to Invest\n\n![Image 93](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fmanaging_email_efficiently.png&w=640&q=75)\n\nManaging Email Efficiently\n\n![Image 94](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fsleep_better.png&w=640&q=75)\n\nSleep Better\n\n![Image 95](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fhow_to_be_happy.png&w=640&q=75)\n\nHow to be Happy\n\n![Image 96](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Felon_musk.png&w=640&q=75)\n\nInside the Mind of Elon Musk\n\n![Image 97](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fda_vinci.png&w=640&q=75)\n\nThe Genius of DaVinci\n\n![Image 98](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fcharisma.png&w=640&q=75)\n\nLearn Charisma\n\n![Image 99](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fvulnerable.png&w=640&q=75)\n\nAvoid Bad Habits\n\n![Image 100](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Frecover_burnout.png&w=640&q=75)\n\nRecover from Burnout\n\n![Image 101](https://deepstash.com/_next/image?url=https%3A%2F%2Faudio.deepstash.com%2Fcovers%2Fcollection%2F202304%2Fjoining_a_new_team.png&w=640&q=75)\n\nJoining a New Team\n\nBECOME  \nTHE SMARTEST  \nIN THE ROOM\n===================================\n\nUnlimited access to 200,000+ powerful ideas from top books, podcasts, and more.\n\nWhat brings you to Deepstash?\n\nIncrease Productivity\n\nWin at Work\n\nBuild Better Habits\n\nEarn More Money\n\nContinue\n\nExplore the World's Best Ideas\n\nJoin today and uncover 100+ curated journeys from 50+ topics. Unlock access to our mobile app with extensive features.\n\nStart Today\n\nDiscover\n\n#### Your Next Big Idea\n\nIdeas come from books, articles, podcasts & more.  \nWe make it **easy** by picking the best ideas from a **200,000+ catalogue** on thousands of topics.\n\nLearn Anything\n\n#### Remember Everything\n\nThe idea format helps **10M+ people** remember the ideas that **help them grow**. Join the community. Save and remember ideas. Share & discover.\n\nGet Creative\n\n#### Build a Reading Habit\n\n\"Creativity is just connecting the dots.\" - **Steve Jobs.**  \nWith Deepstash, you will build stronger **reading habits** through **bite-sized recommendations** throughout the day.\n\nStart your journey today\n\nEmbark on the journey of becoming better & smarter.  \nGet the mobile app & never stop exploring.\n\nStart today\n\nExplore Library\n\nTop Collections\n\nDiscover the most popular ideas and learn something new in less than 5 minutes a day\n\n![Image 102: How to Be Happy](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)\n\n[How to Be Happy](https://deepstash.com/collection/63/how-to-be-happy)\n\n![Image 104: 7 Books on Habits](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)\n\n[7 Books on Habits](https://deepstash.com/collection/101/7-books-on-habits)\n\n![Image 106: How To Live A Long Life](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)\n\n[How To Live A Long Life](https://deepstash.com/collection/93/how-to-live-a-long-life)\n\n![Image 108: Making Better Decisions](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)\n\n[Making Better Decisions](https://deepstash.com/collection/54/making-better-decisions)\n\n![Image 110: Managing Time Like a Pro](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)\n\n[Managing Time Like a Pro](https://deepstash.com/collection/10/managing-time-like-a-pro)\n\nWhat are you interested in?\n\nOver 200,000+ of ideas from books, podcasts, articles, and more.\n\n[![Image 112](https://static.deepstash.com/illustrations/topics/svg/202305/personaldevelopment.svg) Personal Development](https://deepstash.com/topic/personaldevelopment \"Personal Development\")\n\n[![Image 113](https://static.deepstash.com/illustrations/topics/svg/202305/productivity.svg) Productivity](https://deepstash.com/topic/productivity \"Productivity\")\n\n[![Image 114](https://static.deepstash.com/illustrations/topics/svg/202305/moneyandinvestments.svg) Money and Investments](https://deepstash.com/topic/moneyandinvestments \"Money and Investments\")\n\n[![Image 115](https://static.deepstash.com/illustrations/topics/svg/202305/health.svg) Health](https://deepstash.com/topic/health \"Health\")\n\n[![Image 116](https://static.deepstash.com/illustrations/topics/svg/202305/loveandrelationships.svg) Love and Relationships](https://deepstash.com/topic/loveandrelationships \"Love and Relationships\")\n\n[![Image 117](https://static.deepstash.com/illustrations/topics/svg/202305/career.svg) Career](https://deepstash.com/topic/career \"Career\")\n\n[![Image 118](https://static.deepstash.com/illustrations/topics/svg/202305/psychology.svg) Psychology](https://deepstash.com/topic/psychology \"Psychology\")\n\n[![Image 119](https://static.deepstash.com/illustrations/topics/svg/202305/startups.svg) Startup](https://deepstash.com/topic/startup \"Startup\")\n\n[![Image 120](https://static.deepstash.com/illustrations/topics/svg/202305/mindfulness.svg) Mindfulness](https://deepstash.com/topic/mindfulness \"Mindfulness\")\n\n[![Image 121](https://static.deepstash.com/illustrations/topics/svg/202305/philosophy.svg) Philosophy](https://deepstash.com/topic/philosophy \"Philosophy\")\n\n[![Image 122](https://static.deepstash.com/illustrations/topics/svg/202305/artsandculture.svg) Arts and Culture](https://deepstash.com/topic/artsandculture \"Arts and Culture\")\n\n[![Image 123](https://static.deepstash.com/illustrations/topics/svg/202305/marketingandsales.svg) Marketing and Sales](https://deepstash.com/topic/marketingandsales \"Marketing and Sales\")\n\n[![Image 124](https://static.deepstash.com/illustrations/topics/svg/202305/technology.svg) Technology and the Future](https://deepstash.com/topic/technologyandthefuture \"Technology and the Future\")\n\n[![Image 125](https://static.deepstash.com/illustrations/topics/svg/202305/leadership.svg) Leadership and Management](https://deepstash.com/topic/leadershipandmanagement \"Leadership and Management\")\n\n[![Image 126](https://static.deepstash.com/illustrations/topics/svg/202305/food.svg) Food](https://deepstash.com/topic/food \"Food\")\n\n[![Image 127](https://static.deepstash.com/illustrations/topics/svg/202305/music.svg) Music](https://deepstash.com/topic/music \"Music\")\n\n[![Image 128](https://static.deepstash.com/illustrations/topics/svg/202305/sports.svg) Sports](https://deepstash.com/topic/sports \"Sports\")\n\n[![Image 129](https://static.deepstash.com/illustrations/topics/svg/202305/travel.svg) Travel](https://deepstash.com/topic/travel \"Travel\")\n\n[![Image 130](https://static.deepstash.com/illustrations/topics/svg/202305/education.svg) Education](https://deepstash.com/topic/education \"Education\")\n\n[![Image 131](https://static.deepstash.com/illustrations/topics/svg/202305/history.svg) History](https://deepstash.com/topic/history \"History\")\n\n[![Image 132](https://static.deepstash.com/illustrations/topics/svg/202305/scienceandnature.svg) Science and Nature](https://deepstash.com/topic/scienceandnature \"Science and Nature\")\n\n[![Image 133](https://static.deepstash.com/illustrations/topics/svg/202305/economics.svg) Economics](https://deepstash.com/topic/economics \"Economics\")\n\nGot 5 minutes? Plenty for:\n\n*   a Book\n*   a Podcast\n*   an Article\n\nStart today\n\n![Image 134](blob:https://deepstash.com/b9a31d3949b1882a09ed2f8508d538f3)\n\nwithout  \ndeep**stash**\n\nwith  \ndeep**stash**\n\nwith\n\ndeep**stash**\n\nAccess to 200,000+ ideas\n\n—\n\nAccess to the mobile app\n\n—\n\nUnlimited idea saving\n\n—\n\n—\n\nUnlimited history\n\n—\n\n—\n\nUnlimited listening to ideas\n\n—\n\n—\n\nDownloading & offline access\n\n—\n\n—\n\nPersonalized microlearning\n\n—\n\n—\n\nA small investment, an incredible growth opportunity\n\nGet access to 200,000+ powerful ideas from top books, podcasts, and more.\n\nEnjoy unlimited access to 100+ tailored journeys & all mobile app features.\n\nGet Deepstash Pro today\n\nWhat our members say\n\n4.8\n\n14,500+ Reviews\n\nApp Store\n\n4.6\n\n92,000+ Reviews\n\nGoogle Play\n\n![Image 136](https://deepstash.com/_next/image?url=https%3A%2F%2Fstatic.deepstash.com%2Fprofile%2F1.png&w=3840&q=75)\n\nsamz905\n\nDon’t look further if you love learning new things. A refreshing concept that provides quick ideas for busy thought leaders.\n\n“\n\n![Image 137](https://deepstash.com/_next/image?url=https%3A%2F%2Fstatic.deepstash.com%2Fprofile%2F3.png&w=3840&q=75)\n\nShankul Varada\n\nBest app ever! You heard it right. This app has helped me get back on my quest to get things done while equipping myself with knowledge everyday.\n\n“\n\n![Image 138](https://deepstash.com/_next/image?url=https%3A%2F%2Fstatic.deepstash.com%2Fprofile%2F4.png&w=3840&q=75)\n\nAshley Anthony\n\nThis app is LOADED with RELEVANT, HELPFUL, AND EDUCATIONAL material. It is creatively intellectual, yet minimal enough to not overstimulate and create a learning block. I am exceptionally impressed with this app!\n\n“\n\n![Image 139](https://deepstash.com/_next/image?url=https%3A%2F%2Fd3t70bohx4vuj7.cloudfront.net%2Fs012iAZ8qyBRG8AKY9wOQH9mnoQvHAQOVIGFptyg5j8%2Fresize%3Afill%3A0%3A0%2Fgravity%3Ace%2Fmb%3A1048576%2FaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pHWEJkcFhCa1lXYXZVX1V5M1BhZFJCdDVsM2FLVjJoeWtpaWhMU0E&w=3840&q=75)\n\nGhazala Begum\n\nEven five minutes a day will improve your thinking. I've come across new ideas and learnt to improve existing ways to become more motivated, confident and happier.\n\n“\n\n![Image 140](https://deepstash.com/_next/image?url=https%3A%2F%2Fd3t70bohx4vuj7.cloudfront.net%2FuyMe9EjDTznECx-EXbK2TyCVWobsFL3fPBuLEgntcNc%2Fresize%3Afill%3A0%3A0%2Fgravity%3Ace%2Fmb%3A1048576%2FaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2ltMDNrV3VFTV9IbmMxUkIwWGFMRi1OOVRWSFlJWlQ0TmFOMFhCN3c&w=3840&q=75)\n\nGiovanna Scalzone\n\nBrilliant. It feels fresh and encouraging. So many interesting pieces of information that are just enough to absorb and apply. So happy I found this.\n\n“\n\n![Image 141](https://deepstash.com/_next/image?url=https%3A%2F%2Fd3t70bohx4vuj7.cloudfront.net%2FWXHL2bkKJfER8nPTdsW6mc22_4PFr5CNXfDvw3UxMsg%2Fresize%3Afill%3A0%3A0%2Fgravity%3Ace%2Fmb%3A1048576%2FaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lheHBXdUljdXZTd1Y1UW5nMGYyRjdDR0dVNnNjUFhXbDFUWjc3TGc&w=3840&q=75)\n\nLaetitia Berton\n\nI have only been using it for a few days now, but I have found answers to questions I had never consciously formulated, or to problems I face everyday at work or at home. I wish I had found this earlier, highly recommended!\n\n“\n\nFrequently asked questions\n\nGeneral\n\nWhat is Deepstash?\n\nDeepstash is a platform where users read and curate bite-sized insights and ideas from anywhere online, may that be books, articles, podcasts, or videos. You can learn good habits, useful skills and build your knowledge, on your own time. Deepstash makes your personal growth manageable!\n\nWhy are ideas important?\n\nIdeas are important because they form the foundation for progress and innovation. The idea format used by Deepstash is important because it condenses complex concepts and profound thoughts into simple, digestible sentences that are easy to understand and remember. This format makes ideas more accessible and easier to apply in daily life, helping people to make positive changes and achieve their goals.\n\nHow can I use Deepstash?\n\nDeepstash can be found on both the Apple App Store and Google Play Store. Additionally, Deepstash can be found on the web, where you can login and use Deepstash at deepstash.com.\n\nPro Subscription\n\nWhat is included in my Deepstash subscription?\n\nWith Pro, you get all of Deepstash amazing content, but your interaction with it is unrestrained. Save as many ideas as you want, in as many stashes you desire. You can also go offline and still have access to your content, while also listening to your ideas whenever, wherever.\n\nCan I cancel at any time?\n\nYes. If you have an ongoing subscription, you will keep your benefits until the next billing date.\n\nWhen is my Lifetime Pro subscription activated?\n\nDue to the nature of payment processing, please allow up to 24h for your Lifetime Pro subscription to become active.\n\nSupercharge your mind with one idea per day\n\nEnter your email and spend 1 minute every day to learn something new.\n\nEmail\n\nI agree to receive email updates\n\nSubmit\n\ndeepstash\n\n[](https://instagram.com/deepstash)[](https://www.facebook.com/deepstash/)[](https://twitter.com/deepstash)[](https://www.tiktok.com/@deepstash.app)[](https://www.youtube.com/c/Deepstash)\n\n[](https://apps.apple.com/us/app/id1445023295 \"Download from the App Store\")[](https://play.google.com/store/apps/details?id=com.deepstash \"Download from the App Store\")\n\nContent\n\n[Ideas](https://deepstash.com/articles/1)\n\n[Collections](https://deepstash.com/collections/1)\n\n[Stories](https://deepstash.com/stories)\n\n[Explore](https://deepstash.com/explore)\n\nProduct\n\n[Pricing](https://deepstash.com/get-pro)\n\n[Businesses](https://deepstash.com/for-teams)\n\nResources\n\n[Terms](https://deepstash.com/terms-of-service)\n\n[Privacy](https://deepstash.com/privacy-policy)\n\n[Press Kit](https://deepstash.com/press-kit)\n\n[Sitemap](https://deepstash.com/sitemap.xml)\n\nCompany\n\n[About](https://deepstash.com/about)\n\n[Contact](https://deepstash.com/press-kit)",
+  "usage": {
+    "tokens": 5762
+  }
+}
+```

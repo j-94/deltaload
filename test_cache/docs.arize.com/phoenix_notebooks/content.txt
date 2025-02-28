@@ -1,0 +1,164 @@
+Examples
+--------
+
+Explore the capabilities of Phoenix with notebooks
+
+Example full-stack applications instrumented using OpenInference and observed via phoenix server instances.
+
+Trace through the execution of your LLM application to understand its internal structure and to troubleshoot issues with retrieval, tool execution, LLM calls, and more.
+
+[![Image 124](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/hosted_phoenix/hosted_phoenix_openai_tutorial.ipynb)
+
+[![Image 125](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/hosted_phoenix/hosted_phoenix_llamaindex_tutorial.ipynb)
+
+Retrieval Example with Evaluations: Fast UI Viz
+
+[![Image 126](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/llm_application_tracing_evaluating_and_analysis.ipynb)
+
+Tracing and Evaluating a LlamaIndex + OpenAI RAG Application
+
+*   retrieval-augmented generation
+    
+
+[![Image 127](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/tracing/llama_index_tracing_tutorial.ipynb) [![Image 128](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/tracing/llama_index_tracing_tutorial.ipynb)
+
+Tracing and Evaluating a LlamaIndex OpenAI Agent
+
+[![Image 129](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/tracing/llama_index_openai_agent_tracing_tutorial.ipynb) [![Image 130](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/tracing/llama_index_openai_agent_tracing_tutorial.ipynb)
+
+Tracing and Evaluating a Structured Data Extraction Application with OpenAI Function Calling
+
+*   structured data extraction
+    
+
+[![Image 131](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/tracing/openai_tracing_tutorial.ipynb) [![Image 132](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/tracing/openai_tracing_tutorial.ipynb)
+
+Tracing and Evaluating a LangChain + OpenAI RAG Application
+
+*   retrieval-augmented generation
+    
+
+[![Image 133](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/tracing/langchain_tracing_tutorial.ipynb) [![Image 134](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/tracing/langchain_tracing_tutorial.ipynb)
+
+Tracing and Evaluating a LangChain Agent
+
+[![Image 135](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/tracing/langchain_agent_tracing_tutorial.ipynb) [![Image 136](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/tracing/langchain_agent_tracing_tutorial.ipynb)
+
+Tracing and Evaluation a DSPy Application
+
+*   retrieval-augmented generation
+    
+
+[![Image 137](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/tracing/dspy_tracing_tutorial.ipynb) [![Image 138](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/tracing/dspy_tracing_tutorial.ipynb)
+
+Tracing a LlamaIndex app with Sessions
+
+[![Image 139](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/tracing/openai_sessions_tutorial.ipynb) [![Image 140](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/tracing/project_sessions_llama_index_query_engine.ipynb)
+
+Tracing an OpenAI app with Sessions
+
+[![Image 141](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/tracing/openai_sessions_tutorial.ipynb) [![Image 142](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/tracing/openai_sessions_tutorial.ipynb)
+
+Tracing an OpenAI app with Sessions (JS/TS)
+
+[![Image 143](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/js/examples/notebooks/tracing_openai_sessions_tutorial.ipynb)
+
+Iteratively improve your LLM task by building datasets, running experiments, and evaluating performance using code and LLM-as-a-judge.
+
+Quickstart: Datasets and Experiments
+
+[![Image 144](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/experiments/datasets_and_experiments_quickstart.ipynb)
+
+[![Image 145](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/experiments/txt2sql.ipynb)
+
+Prompt Template Iteration for a Summarization Service
+
+[![Image 146](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/experiments/summarization.ipynb)
+
+Answer Relevancy and Context Relevancy Evaluation
+
+[![Image 147](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/experiments/llama-index/answer_and_context_relevancy.ipynb)
+
+[![Image 148](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/experiments/llama-index/guideline_eval.ipynb)
+
+[![Image 149](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/experiments/llama-index/pairwise_eval.ipynb)
+
+LlamaIndex RAG with Reranker
+
+[![Image 150](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/experiments/run_experiments_with_llama_index.ipynb)
+
+LangChain Email Extraction
+
+[![Image 151](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/experiments/langchain_email_extraction.ipynb)
+
+Leverage the power of large language models to evaluate your generative model or application for hallucinations, toxicity, relevance of retrieved documents, and more.
+
+Evaluating Hallucinations
+
+[![Image 152](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_hallucination_classifications.ipynb) [![Image 153](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_hallucination_classifications.ipynb)
+
+[![Image 154](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_toxicity_classifications.ipynb) [![Image 155](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_toxicity_classifications.ipynb)
+
+Evaluating Relevance of Retrieved Documents
+
+[![Image 156](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_relevance_classifications.ipynb) [![Image 157](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_relevance_classifications.ipynb)
+
+Evaluating Question-Answering
+
+[![Image 158](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_QA_classifications.ipynb) [![Image 159](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_QA_classifications.ipynb)
+
+[![Image 160](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_summarization_classifications.ipynb) [![Image 161](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_summarization_classifications.ipynb)
+
+Evaluating Code Readability
+
+[![Image 162](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_code_readability_classifications.ipynb) [![Image 163](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_code_readability_classifications.ipynb)
+
+Retrieval-Augmented Generation Analysis
+
+
+-------------------------------------------
+
+Visualize your generative application's retrieval process to surface failed retrievals and to find topics not addressed by your knowledge base.
+
+Evaluating and Improving Search and Retrieval Applications
+
+*   retrieval-augmented generation
+    
+
+[![Image 164](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/llama_index_search_and_retrieval_tutorial.ipynb) [![Image 165](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/llama_index_search_and_retrieval_tutorial.ipynb)
+
+Evaluating and Improving Search and Retrieval Applications
+
+*   retrieval-augmented generation
+    
+
+[![Image 166](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/milvus_llamaindex_search_and_retrieval_tutorial.ipynb) [![Image 167](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/milvus_llamaindex_search_and_retrieval_tutorial.ipynb)
+
+Explore lower-dimensional representations of your embedding data to identify clusters of high-drift and performance degradation.
+
+Active Learning for a Drifting Image Classification Model
+
+[![Image 168](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/image_classification_tutorial.ipynb) [![Image 169](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/image_classification_tutorial.ipynb)
+
+Root-Cause Analysis for a Drifting Sentiment Classification Model
+
+[![Image 170](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/sentiment_classification_tutorial.ipynb) [![Image 171](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/sentiment_classification_tutorial.ipynb)
+
+Troubleshooting an LLM Summarization Task
+
+[![Image 172](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/llm_summarization_tutorial.ipynb) [![Image 173](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/llm_summarization_tutorial.ipynb)
+
+[![Image 174](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/llm_generative_gpt_4.ipynb) [![Image 175](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/llm_generative_gpt_4.ipynb)
+
+Find Clusters, Export, and Explore with GPT
+
+*   exploratory data analysis
+    
+
+[![Image 176](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/find_cluster_export_and_explore_with_gpt.ipynb) [![Image 177](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/find_cluster_export_and_explore_with_gpt.ipynb)
+
+Statistically analyze your structured data to perform A/B analysis, temporal drift analysis, and more.
+
+Detecting Fraud with Tabular Embeddings
+
+[![Image 178](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520Colab%26logo%3Dgooglecolab%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dorange%26label%3D%2520&width=300&dpr=4&quality=100&sign=9e71e4&sv=2)](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/credit_card_fraud_tutorial.ipynb) [![Image 179](https://docs.arize.com/~gitbook/image?url=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DOpen%2520in%2520GitHub%26logo%3Dgithub%26labelColor%3Dgrey%26color%3Dblue%26logoColor%3Dwhite%26label%3D%2520&width=300&dpr=4&quality=100&sign=9225fc48&sv=2)](https://github.com/Arize-ai/phoenix/blob/main/tutorials/credit_card_fraud_tutorial.ipynb)

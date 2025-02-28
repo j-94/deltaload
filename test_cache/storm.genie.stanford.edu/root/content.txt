@@ -1,0 +1,5 @@
+Terms of Service
+
+Users of this website are required to agree to the following terms: STORM is a research preview from the Stanford OVAL lab. It has limited safety measures and may generate offensive content. It must not be used for any illegal, harmful, violent, racist, or sexual purposes. The generated report can make mistakes; please always check important information. The generated content does not represent the developer's viewpoint. By visiting our website, you are granting us the permission to collect your inputs (including topic, purpose of searching the topic, follow up interaction with system, and feedback) , use them for our research, and potentially distribute them under a Creative Commons Attribution (CC-BY) or a similar license. Please don’t include any personally identifiable information in your inputs.
+
+I agree to the terms of service.

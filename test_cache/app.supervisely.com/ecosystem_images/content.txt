@@ -1,0 +1,12 @@
+Login to
+--------
+
+Login
+
+Password
+
+[Forgot?](https://app.supervisely.com/reset-password)
+
+[Log in with GitHub](https://app.supervisely.com/api/account/auth/github)
+
+Don't have an account? [Sign up](https://app.supervisely.com/signup)

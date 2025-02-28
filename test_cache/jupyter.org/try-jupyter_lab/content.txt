@@ -1,0 +1,499 @@
+*   Console
+
+*   Display Languages
+*   Chinese (Simplified, China) - 中文 (简体, 中国)
+    
+    Chinese (Simplified, China) - 中文 (简体, 中国)
+    
+
+*   French (France) - Français (France)
+    
+    French (France) - Français (France)
+    
+*   File Operations
+
+*   Download
+    
+    Download the file to your computer
+    
+
+*   Open from Path…
+    
+    Open from path
+    
+*   Open from URL…
+    
+    Open from URL
+    
+*   Reload Notebook from Disk
+    
+    Reload contents from disk
+    
+*   Revert Notebook to Checkpoint…
+    
+    Revert contents to previous checkpoint
+    
+*   Save Notebook
+    
+    Save and create checkpoint
+    
+    Ctrl+S
+    
+*   Save Notebook As…
+    
+    Save with new path
+    
+    Ctrl+Shift+S
+    
+*   Show Active File in File Browser
+    
+*   Trust HTML File
+    
+    Whether the HTML file is trusted. Trusting the file allows scripts to run in it, which may result in security risks. Only enable for files you trust.
+    
+*   Help
+
+*   Launch Jupyter Notebook File Browser
+    
+
+*   Show Keyboard Shortcuts…
+    
+    Show relevant keyboard shortcuts for the current active widget
+    
+    Ctrl+Shift+H
+    
+*   Image Viewer
+*   H
+    
+*   V
+    
+*   I
+    
+*   0
+    
+*   \]
+    
+*   \[
+    
+*   \=
+    
+*   \-
+    
+*   Jupytext
+*   Pair with ipynb
+    
+    Pair Notebook with ipynb document
+    
+*   Pair with light script
+    
+    Pair Notebook with Light Format
+    
+*   Pair with percent script
+    
+    Pair Notebook with Percent Format
+    
+*   Pair with hydrogen script
+    
+    Pair Notebook with Hydrogen Format
+    
+*   Pair with nomarker script
+    
+    Pair Notebook with Nomarker Format
+    
+*   Pair with md
+    
+    Pair Notebook with Markdown
+    
+*   Pair with myst md
+    
+    Pair Notebook with MyST Markdown
+    
+*   Pair with Rmd
+    
+    Pair Notebook with R Markdown
+    
+*   Pair with qmd
+    
+    Pair Notebook with Quarto (qmd)
+    
+*   Custom pair
+    
+    Custom Pairing
+    
+*   New SQL Text Notebook with Light Format
+    
+    Create a new SQL Text Notebook with Light Format
+    
+*   Unpair
+    
+    Unpair Current Notebook
+    
+*   New Python Text Notebook with Light Format
+    
+    Create a new Python Text Notebook with Light Format
+    
+*   New SQL Text Notebook with Percent Format
+    
+    Create a new SQL Text Notebook with Percent Format
+    
+*   New Python Text Notebook with Percent Format
+    
+    Create a new Python Text Notebook with Percent Format
+    
+*   New SQL Text Notebook with Hydrogen Format
+    
+    Create a new SQL Text Notebook with Hydrogen Format
+    
+*   New Python Text Notebook with Hydrogen Format
+    
+    Create a new Python Text Notebook with Hydrogen Format
+    
+*   New SQL Text Notebook with Nomarker Format
+    
+    Create a new SQL Text Notebook with Nomarker Format
+    
+*   New Python Text Notebook with Nomarker Format
+    
+    Create a new Python Text Notebook with Nomarker Format
+    
+*   New Markdown Text Notebook
+    
+    Create a new Markdown Text Notebook
+    
+*   New MyST Markdown Text Notebook
+    
+    Create a new MyST Markdown Text Notebook
+    
+*   New R Markdown Text Notebook
+    
+    Create a new R Markdown Text Notebook
+    
+*   New Quarto Markdown Text Notebook
+    
+    Create a new Quarto Markdown Text Notebook
+    
+
+*   Kernel Operations
+
+*   Launcher
+*   Ctrl+Shift+L
+    
+*   Main Area
+*   Ctrl+Shift+\]
+    
+*   Ctrl+Shift+.
+    
+*   Ctrl+Shift+\[
+    
+*   Activate Previous Tab Bar
+    
+    Ctrl+Shift+,
+    
+*   Activate Previously Used Tab
+    
+    Ctrl+Shift+'
+    
+
+*   Alt+W
+    
+
+*   Esc
+    
+*   Ctrl+G
+    
+*   Ctrl+Shift+G
+    
+*   Ctrl+F
+    
+*   F11
+    
+
+*   Alt+L
+    
+*   Show Header Above Content
+    
+
+*   Ctrl+B
+    
+
+*   Ctrl+J
+    
+
+*   Ctrl+Shift+D
+    
+*   Notebook Cell Operations
+*   Y
+    
+*   1
+    
+*   2
+    
+*   3
+    
+*   4
+    
+*   5
+    
+*   6
+    
+*   Change to Markdown Cell Type
+    
+    M
+    
+*   R
+    
+*   Clear Cell Output
+    
+    Clear outputs for the selected cells
+    
+
+*   Collapse Selected Outputs
+    
+*   C
+    
+*   X
+    
+*   Delete Cell
+    
+    Delete this cell
+    
+    D, D
+    
+*   Disable Scrolling for Outputs
+    
+*   Enable Scrolling for Outputs
+    
+
+*   Shift+K
+    
+*   Shift+J
+    
+*   Extend Selection to Bottom
+    
+    Shift+End
+    
+*   Shift+Home
+    
+*   Insert Cell Above
+    
+    Insert a cell above
+    
+    A
+    
+*   Insert Cell Below
+    
+    Insert a cell below
+    
+    B
+    
+*   Insert Heading Above Current Heading
+    
+    Shift+A
+    
+*   Insert Heading Below Current Heading
+    
+    Shift+B
+    
+*   Ctrl+Backspace
+    
+*   Ctrl+Shift+M
+    
+*   Shift+M
+    
+*   Move Cell Down
+    
+    Move this cell down
+    
+    Ctrl+Shift+Down
+    
+*   Move Cell Up
+    
+    Move this cell up
+    
+    Ctrl+Shift+Up
+    
+*   Paste Cell Above
+    
+    Paste this cell from the clipboard
+    
+
+*   Paste Cell Below
+    
+    Paste this cell from the clipboard
+    
+    V
+    
+*   Shift+Z
+    
+*   Shift+R
+    
+*   Run Selected Cell
+    
+    Run this cell and advance
+    
+    Shift+Enter
+    
+*   Run Selected Cell and Do not Advance
+    
+    Ctrl+Enter
+    
+*   Run Selected Cell and Insert Below
+    
+    Alt+Enter
+    
+*   Run Selected Text or Current Line in Console
+    
+*   K
+    
+*   J
+    
+*   Select Heading Above or Collapse Heading
+    
+    Left
+    
+*   Select Heading Below or Expand Heading
+    
+    Right
+    
+
+*   Ctrl+Shift+-
+    
+*   Toggle Visibility of Selected Outputs
+    
+*   Z
+    
+*   Notebook Operations
+*   Access Next Kernel History Entry
+    
+    Alt+Down
+    
+*   Access Previous Kernel History Entry
+    
+    Alt+Up
+    
+
+*   Clear Outputs of All Cells
+    
+    Clear all outputs of all cells
+    
+*   Close and Shut Down Notebook…
+    
+*   Ctrl+Shift+Left
+    
+
+*   Ctrl+M
+    
+*   Enter
+    
+*   Ctrl+Shift+Right
+    
+*   Interrupt Kernel
+    
+    Interrupt the kernel
+    
+
+*   New Notebook
+    
+    Create a new notebook
+    
+
+*   Render All Markdown Cells
+    
+*   Restart Kernel and Clear Outputs of All Cells…
+    
+    Restart the kernel and clear all outputs of all cells
+    
+*   Restart Kernel and Run All Cells…
+    
+    Restart the kernel and run all cells
+    
+*   Restart Kernel and Run up to Selected Cell…
+    
+*   Restart Kernel…
+    
+    Restart the kernel
+    
+*   Run All Above Selected Cell
+    
+*   Run All Cells
+    
+    Run all cells
+    
+*   Run Selected Cell and All Below
+    
+*   Ctrl+A
+    
+
+*   Show Minimap
+    
+    Show Minimap (virtual scrollbar, enabled with windowing mode: full)
+    
+*   Toggle Collapse Notebook Heading
+    
+
+*   Other
+*   Open in Jupyter Notebook
+    
+    Notebook
+    
+*   Running
+*   Search Tabs and Running Sessions
+    
+    Ctrl+Alt+A
+    
+*   Settings
+
+*   Show Contextual Help
+*   Show Contextual Help
+    
+    Live updating code documentation from the active kernel
+    
+*   Text Editor
+
+*   New Markdown File
+    
+    Create a new markdown file
+    
+*   New Python File
+    
+    Create a new Python file
+    
+*   New Text File
+    
+    Create a new text file
+    
+
+*   Theme
+
+*   Decrease Content Font Size
+    
+
+*   Increase Content Font Size
+    
+
+*   Set Preferred Dark Theme: JupyterLab Dark
+    
+*   Set Preferred Dark Theme: JupyterLab Dark High Contrast
+    
+*   Set Preferred Dark Theme: JupyterLab Light
+    
+*   Set Preferred Dark Theme: JupyterLab Night
+    
+*   Set Preferred Light Theme: JupyterLab Dark
+    
+*   Set Preferred Light Theme: JupyterLab Dark High Contrast
+    
+*   Set Preferred Light Theme: JupyterLab Light
+    
+*   Set Preferred Light Theme: JupyterLab Night
+    
+*   Synchronize Styling Theme with System Settings
+    
+
+*   Use Theme: JupyterLab Dark
+    
+*   Use Theme: JupyterLab Dark High Contrast
+    
+*   Use Theme: JupyterLab Light
+    
+*   Use Theme: JupyterLab Night

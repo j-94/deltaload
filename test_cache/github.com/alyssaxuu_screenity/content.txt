@@ -1,0 +1,113 @@
+Screenity
+---------
+
+[](https://github.com/alyssaxuu/screenity?screenshot=true#screenity)
+
+[![Image 22: jiewjjc232](https://private-user-images.githubusercontent.com/7581348/293068299-ed55e52e-4adf-442b-b774-6856abacdffb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczODc0MjYsIm5iZiI6MTczNzM4NzEyNiwicGF0aCI6Ii83NTgxMzQ4LzI5MzA2ODI5OS1lZDU1ZTUyZS00YWRmLTQ0MmItYjc3NC02ODU2YWJhY2RmZmIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDEyMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAxMjBUMTUzMjA2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTkyZTU0ZDQ3YTcwYzNmOTU1ZjMxZTM2ZmYwODhjZWViMzBhMWZmZGZmNjc4OGUwYmIxY2EzY2MxYjU2NzQ5YSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.DpwY0OZVWikhQgZDmd7HtvPUrN1EiJWPvTfvCsz4AG8)](https://screenity.io/)
+
+The free and privacy-friendly screen recorder with no limits 🎥
+
+[Get it now - it's free!](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
+
+Screenity is a powerful privacy-friendly screen recorder and annotation tool to make better videos for work, education, and more. You can create stunning product demos, tutorials, presentations, or share feedback with your team - all for free.
+
+> You can support this project (and many others) through [GitHub Sponsors](https://github.com/sponsors/alyssaxuu)! ❤️
+
+Made by [Alyssa X](https://alyssax.com/)
+
+[![Image 23: Screenity - The most powerful screen recorder for Chrome | Product Hunt](https://camo.githubusercontent.com/5f2bac70cd185ba156961cff3f6b0a5fa563e29254cb1b088c436e2a44d4a761/68747470733a2f2f6170692e70726f6475637468756e742e636f6d2f776964676574732f656d6265642d696d6167652f76312f746f702d706f73742d62616467652e7376673f706f73745f69643d323735333038267468656d653d6c6967687426706572696f643d6461696c79)](https://www.producthunt.com/posts/screenity?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-screenity) [![Image 24: Featured on HackerNews](https://camo.githubusercontent.com/72129241a4976f6ec56f203aeb13461276f3eaea8ea271ece35779d17fd1d243/68747470733a2f2f6861636b657262616467652e6e6f772e73682f6170693f69643d323531353038303426747970653d6f72616e6765)](https://news.ycombinator.com/item?id=25150804)
+
+> ❗️ Screenity has been rebuilt from the ground up, and updated to MV3. [Click here](https://help.screenity.io/getting-started/77KizPC8MHVGfpKpqdux9D/what%E2%80%99s-changed-in-the-new-version-of-screenity/bDtvcwAtw9PPesQeNH4zjE) to here to learn more about why, and what's changed in the new version. Also note that **the license has changed to [GPLv3](https://github.com/alyssaxuu/screenity/blob/master/LICENSE)**, but the older MV2 version remains MIT licensed. Make sure you read the license and the [Terms of Service](https://screenity.io/en/terms/) regarding intellectual property.
+
+Table of contents
+-----------------
+
+[](https://github.com/alyssaxuu/screenity?screenshot=true#table-of-contents)
+
+*   [Features](https://github.com/alyssaxuu/screenity?screenshot=true#features)
+*   [Self-hosting Screenity](https://github.com/alyssaxuu/screenity?screenshot=true#self-hosting-screenity)
+*   [Creating a development version](https://github.com/alyssaxuu/screenity?screenshot=true#creating-a-development-version)
+    *   [Enabling Save to Google Drive](https://github.com/alyssaxuu/screenity?screenshot=true#enabling-save-to-google-drive)
+*   [Acknowledgements](https://github.com/alyssaxuu/screenity?screenshot=true#acknowledgements)
+
+Features
+--------
+
+[](https://github.com/alyssaxuu/screenity?screenshot=true#features)
+
+🎥 Make unlimited recordings of your tab, a specific area, desktop, any application, or camera  
+🎙️ Record your microphone or internal audio, and use features like push to talk  
+✏️ Annotate by drawing anywhere on the screen, adding text, arrows, shapes, and more  
+✨ Use AI-powered camera backgrounds or blur to enhance your recordings  
+🔎 Zoom in smoothly in your recordings to focus on specific areas  
+🪄 Blur out any sensitive content of any page to keep it private  
+✂️ Remove or add audio, cut, trim, or crop your recordings with a comprehensive editor  
+👀 Highlight your clicks and cursor, and go in spotlight mode  
+⏱️ Set up alarms to automatically stop your recording  
+💾 Export as mp4, gif, and webm, or save the video directly to Google Drive to share a link  
+⚙️ Set a countdown, hide parts of the UI, or move it anywhere  
+🔒 Only you can see your videos, we don’t collect any of your data. You can even go offline!  
+💙 No limits, make as many videos as you want, for as long as you want  
+…and much more - all for free & no sign in needed!
+
+Self-hosting Screenity
+----------------------
+
+[](https://github.com/alyssaxuu/screenity?screenshot=true#self-hosting-screenity)
+
+You can run Screenity locally without having to install it from the Chrome Store. Here's how:
+
+1.  Download the latest Build.zip from the [releases page](https://github.com/alyssaxuu/screenity/releases)
+2.  Load the extension by pasting `chrome://extensions/` in the address bar, and [enabling developer mode](https://developer.chrome.com/docs/extensions/mv2/faq/#:~:text=You%20can%20start%20by%20turning,a%20packaged%20extension%2C%20and%20more.).
+3.  Drag the folder that contains the code (make sure it's a folder and not a ZIP file, so unzip first), or click on the "Load unpacked" button and locate the folder.
+4.  That's it, you should now be able to use Screenity locally. [Follow these instructions](https://github.com/alyssaxuu/screenity?screenshot=true#enabling-save-to-google-drive) to set up the Google Drive integration.
+
+Creating a development version
+------------------------------
+
+[](https://github.com/alyssaxuu/screenity?screenshot=true#creating-a-development-version)
+
+> ❗️ Note that the license has changed to [GPLv3](https://github.com/alyssaxuu/screenity/blob/master/LICENSE) for the current MV3 version (Screenity version 3.0.0 and higher). Make sure to read the license and the [Terms of Service](https://screenity.io/en/terms/) regarding intellectual property.
+
+1.  Check if your [Node.js](https://nodejs.org/) version is \>\= **14**.
+2.  Clone this repository.
+3.  Run `npm install` to install the dependencies.
+4.  Run `npm start`.
+5.  Load the extension by going to `chrome://extensions/` , and [enabling developer mode](https://developer.chrome.com/docs/extensions/mv2/faq/#:~:text=You%20can%20start%20by%20turning,a%20packaged%20extension%2C%20and%20more.).
+6.  Click on `Load unpacked extension`.
+7.  Select the `build` folder.
+
+### Enabling Save to Google Drive
+
+[](https://github.com/alyssaxuu/screenity?screenshot=true#enabling-save-to-google-drive)
+
+To enable the Google Drive Upload (authorization consent screen) you must change the client\_id in the manifest.json file with your linked extension key.
+
+You can create it accessing [Google Cloud Console](https://console.cloud.google.com/apis/credentials) and selecting Create Credential \> OAuth Client ID \> Chrome App. To create a persistent extension key, you can follow the steps detailed [here](https://developer.chrome.com/docs/extensions/reference/manifest/key).
+
+Libraries used
+--------------
+
+[](https://github.com/alyssaxuu/screenity?screenshot=true#libraries-used)
+
+*   [FFmpeg WASM](https://ffmpegwasm.netlify.app/) for editing and encoding videos
+*   [Tensorflow](https://github.com/tensorflow/tfjs) with the [Selfie Segmentation](https://blog.tensorflow.org/2022/01/body-segmentation.html) model
+*   [Fabric.js](https://github.com/fabricjs/fabric.js) for drawing and annotating
+*   [Radix Primitives](https://www.radix-ui.com/primitives) for the UI components
+*   [react-color](https://uiwjs.github.io/react-color/) for the color wheel
+*   [localForage](https://github.com/localForage/localForage) to help store videos offline with IndexedDB
+*   [Wavesurfer.js](https://wavesurfer.xyz/) to create audio waveforms in the popup and the editor
+*   [React Advanced Cropper](https://advanced-cropper.github.io/react-advanced-cropper/) for the cropping UI in the editor
+*   [fix-webm-duration](https://github.com/yusitnikov/fix-webm-duration) to add missing metadata to WEBM files
+
+Acknowledgements
+----------------
+
+[](https://github.com/alyssaxuu/screenity?screenshot=true#acknowledgements)
+
+*   Thanks to [HelpKit](https://www.helpkit.so/) for sponsoring this project by hosting the [Screenity Help Center](https://help.screenity.io/).
+*   Thanks to [Mei Xuan](https://www.behance.net/meixuanloo) for helping with the Chinese translation of the extension.
+
+If you need any help, or want to become a Screenity expert, you can browse articles and guides in the [help center](https://help.screenity.io/). You can also submit any feedback or ideas in this [form](https://tally.so/r/3ElpXq), or contact through [this page](https://help.screenity.io/contact)
+
+Feel free to reach out to me through email at [hi@alyssax.com](mailto:hi@alyssax.com) or [on Twitter](https://twitter.com/alyssaxuu) if you have any questions or feedback! Hope you find this useful 💜

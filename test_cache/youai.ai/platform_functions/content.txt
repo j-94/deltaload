@@ -1,0 +1,9 @@
+406 Not Acceptable
+===============
+
+406 Not Acceptable
+==================
+
+* * *
+
+openresty

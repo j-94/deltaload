@@ -1,0 +1,539 @@
+---
+title: NOMAD by OGO™
+description: It's a simple and modern design with a urine diverting bowl. The key to compost toilets is urine and solids separation. OGO™ Nomad funnels urine into a front bottle and allows a compostable bag to snap into back clips for a layering method compost toilet. Key Features: Simple as can be Tiny, tiny, tiny Urine odor trap
+url: https://ogotoilet.com/products/nomad
+timestamp: 2025-01-20T15:43:41.958Z
+domain: ogotoilet.com
+path: products_nomad
+---
+
+# NOMAD by OGO™
+
+
+It's a simple and modern design with a urine diverting bowl. The key to compost toilets is urine and solids separation. OGO™ Nomad funnels urine into a front bottle and allows a compostable bag to snap into back clips for a layering method compost toilet. Key Features: Simple as can be Tiny, tiny, tiny Urine odor trap
+
+
+## Content
+
+NOMAD by OGO™
+===============
+
+\[{"id":481327841562,"handle":"all","title":"All Products","updated\_at":"2025-01-20T10:30:05-05:00","body\_html":"\\u003cp\\u003eOur full collection of products includes our compost toilet models and accessories tailored to fit a magnitude of different setups and bathrooms.  Our products are all manufactured and assembled in Ohio with the highest of quality standards. \\u003cbr\\u003e\\u003cbr\\u003eWe are dedicated to providing solutions in off-grid environments. Having a compost toilet can drastically decrease your need for fresh water, reduce time and money on maintenance and dumping. Cleaning takes less time than dumping a black tank. \\u003c\\/p\\u003e","published\_at":"2024-08-01T13:16:52-04:00","sort\_order":"manual","template\_suffix":"","disjunctive":false,"rules":\[{"column":"variant\_price","relation":"greater\_than","condition":"0"}\],"published\_scope":"global","image":{"created\_at":"2024-10-22T14:32:46-04:00","alt":null,"width":917,"height":917,"src":"\\/\\/ogotoilet.com\\/cdn\\/shop\\/collections\\/OGO\_LOGO\_2024\_110x110\_4427d94f-d74b-48dd-b2cf-ca02e274a23a.png?v=1729689264"}},{"id":478884495642,"handle":"best-sellers","title":"Best Sellers- Picks for You","updated\_at":"2025-01-20T10:30:05-05:00","body\_html":"\\u003ch6\\u003eIt's Good to Be Popular\\u003c\\/h6\\u003e\\n\\u003cp\\u003eDiscover the collection everyone is raving about. Our compost toilets and accessories are the ultimate solutions for waste management, designed to meet the highest standards of quality and functionality. Each product in our lineup is crafted to make the transition to a compost toilet seamless and advantageous.\\u003c\\/p\\u003e\\n\\u003cul\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003eTop-Quality Design\\u003c\\/strong\\u003e: Engineered for durability and performance, ensuring long-lasting reliability.\\u003c\\/li\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003eProblem-Solving Solutions\\u003c\\/strong\\u003e: Address common waste management challenges with innovative features that enhance your off-grid experience.\\u003c\\/li\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003eUser-Approved\\u003c\\/strong\\u003e: Join the community of satisfied travelers who have made the switch and never looked back.\\u003c\\/li\\u003e\\n\\u003c\\/ul\\u003e\\n\\u003c!----\\u003e","published\_at":"2024-06-19T09:20:41-04:00","sort\_order":"best-selling","template\_suffix":"","disjunctive":false,"rules":\[{"column":"variant\_price","relation":"greater\_than","condition":"30"}\],"published\_scope":"global","image":{"created\_at":"2024-06-19T09:20:40-04:00","alt":null,"width":1080,"height":1080,"src":"\\/\\/ogotoilet.com\\/cdn\\/shop\\/collections\\/Best\_Sellers\_Catagory.png?v=1718806606"}},{"id":456838381850,"handle":"compost-toilet","updated\_at":"2025-01-20T10:30:05-05:00","published\_at":"2023-08-24T08:15:24-04:00","sort\_order":"manual","template\_suffix":"","published\_scope":"web","title":"Compost Toilets","body\_html":"\\u003ch3\\u003eThe Choice is Yours.\\u003c\\/h3\\u003e\\n\\u003cp\\u003eOGO™ is the leading manufacturer of compost toilets, reaching over forty (40) countries and counting through a carefully established network of builders, distributors, outfitters, and vehicle manufacturers. With you in mind, we have engineered two models that will suit any need and lifestyle.\\u003cbr\\u003e\\u003cbr\\u003e\\u003c\\/p\\u003e\\n\\u003ch6\\u003eTHE OGO™ ORIGIN \\u003c\\/h6\\u003e\\n\\u003cp\\u003e\\u003cstrong\\u003eKey Features: \\u003c\\/strong\\u003e\\u003c\\/p\\u003e\\n\\u003cul\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003ePerfect for:\\u003c\\/strong\\u003e Any Boat, RV, Trailer, Van, Shelter, Cabin, or Off-Grid Space that needs a waterless waste management system.\\u003c\\/li\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003ePower Mixing: \\u003c\\/strong\\u003e Our stainless-steel agitation system provides an odorless and easy way to maintain a compost toilet\\u003cbr\\u003e\\n\\u003c\\/li\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003eEasy to Use: \\u003c\\/strong\\u003eRemovable solids bin, LED indicator light, push button cycle. \\u003cbr\\u003e\\n\\u003c\\/li\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003eEasy to Maintain: \\u003c\\/strong\\u003eNo matter how you install you can access from top or front.\\u003c\\/li\\u003e\\n\\u003c\\/ul\\u003e\\n\\u003ch6\\u003eTHE NOMAD by OGO™\\u003c\\/h6\\u003e\\n\\u003cp\\u003e\\u003cstrong\\u003eKey Features: \\u003c\\/strong\\u003e\\u003c\\/p\\u003e\\n\\u003cul\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003ePerfect for:\\u003c\\/strong\\u003e Quick camp set up, hunting, fishing, car camping, and small boats.\\u003c\\/li\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003eVersatile: \\u003c\\/strong\\u003eThe layering method allows you to use any medium for waste.\\u003cbr\\u003e\\n\\u003c\\/li\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003eEasy to Use: \\u003c\\/strong\\u003eQuick set to set up and very simple to use.\\u003cbr\\u003e\\n\\u003c\\/li\\u003e\\n\\u003cli\\u003e\\n\\u003cstrong\\u003eReady to Go: \\u003c\\/strong\\u003eWe give you everything you need to get started.\\u003c\\/li\\u003e\\n\\u003c\\/ul\\u003e\\n\\u003ch3\\u003e\\u003c!----\\u003e\\u003c\\/h3\\u003e","image":{"created\_at":"2023-08-24T08:15:26-04:00","alt":null,"width":1096,"height":1080,"src":"\\/\\/ogotoilet.com\\/cdn\\/shop\\/collections\\/OGO-far-side-07.png?v=1718802405"}},{"id":477785817370,"handle":"nomad-by-ogo™","updated\_at":"2025-01-19T14:10:06-05:00","published\_at":"2024-06-04T13:42:04-04:00","sort\_order":"manual","template\_suffix":"","published\_scope":"global","title":"NOMAD by OGO™ Collection","body\_html":"\\u003cp\\u003eComplete collection of the\\u003cstrong\\u003e NOMAD by OGO™\\u003c\\/strong\\u003e and all related products and accessories.\\u003c\\/p\\u003e\\n\\u003cp\\u003e\\u003cspan\\u003eIt's a simple and modern design with a urine-diverting bowl. The key to a compost toilet is urine and solids separation. The NOMAD by OGO™ funnels urine into a front bottle and allows a compostable bag to snap into back clips for a layering method compost toilet.\\u003c\\/span\\u003e\\u003c\\/p\\u003e\\n\\u003cp\\u003e\\u003cspan\\u003eThe \\u003c\\/span\\u003e\\u003cspan class=\\"a-text-bold\\"\\u003eNOMAD by OGO™\\u003c\\/span\\u003e\\u003cspan\\u003e is a lightweight and portable compost toilet, perfect for any adventure. No more bad smells—\\u003c\\/span\\u003e\\u003cspan class=\\"a-text-bold\\"\\u003eit's naturally odor-free\\u003c\\/span\\u003e\\u003cspan\\u003e without any chemicals or water. Plus, its smart design keeps urine separate, so no sewage smells either. It's super versatile too! You can use different materials with it, thanks to its layering system. Easy, flexible, and odor-free—a compost toilet that's simply hassle-free.\\u003c\\/span\\u003e\\u003c\\/p\\u003e\\n\\u003c!----\\u003e","image":{"created\_at":"2024-06-04T13:42:04-04:00","alt":null,"width":1080,"height":1080,"src":"\\/\\/ogotoilet.com\\/cdn\\/shop\\/collections\\/Bowl\_Open\_Front-Grey\_Lid.png?v=1718801572"}}\]
+
+\["NOMAD","toilet"\]
+
+            [Skip to content](https://ogotoilet.com/products/nomad#MainContent)
+
+ 
+
+[VISIT OUR RESOURCE CENTER](https://learn.ogotoilet.com/ "OGO™ Resource Center | Learn More About Compost Toilets | Product FAQ | How To's")
+
+            
+
+[![Image 50: OGO™](https://ogotoilet.com/cdn/shop/files/OGO_LOGO_2024_Website.png?v=1715279608&width=90)](https://ogotoilet.com/)
+
+*   [ORIGIN](https://ogotoilet.com/products/products-ogo-composting-toilet)
+    
+    ORIGIN
+    
+    *   [Shop Collection](https://ogotoilet.com/collections/ogo%E2%84%A2-origin-collection)
+    *   Do I Need To Vent?
+        
+        Do I Need To Vent?
+        
+        *   [Charcoal Filter - 12 Pack](https://ogotoilet.com/products/charcoal-filter-12pk)
+        *   [Shell Vent](https://ogotoilet.com/products/shell-vent)
+        *   [High CFM Fan](https://ogotoilet.com/products/high-cfm-fan)
+        
+    *   How Do I Power?
+        
+        How Do I Power?
+        
+        *   [12DC Power Cable (included)](https://ogotoilet.com/products/power-cable-12v)
+        *   [Wall Outlet (110V AC)](https://ogotoilet.com/products/products-power-adapter)
+        *   [Electrical Parts Kit](https://ogotoilet.com/products/electrical-parts-kit)
+        
+    *   [FAQ (Frequently Asked Questions)](https://learn.ogotoilet.com/)
+    *   [What Are People Saying?](https://ogotoilet.com/pages/testimonials)
+    *   [Install Gallery](https://ogotoilet.com/pages/customer-installs)
+    
+*   [NOMAD](https://ogotoilet.com/products/nomad)
+    
+    NOMAD
+    
+    *   [Shop Collection](https://ogotoilet.com/collections/nomad-by-ogo%E2%84%A2)
+    *   [What is the difference?](https://learn.ogotoilet.com/what-are-the-differences-between-the-origin-and-the-nomad)
+    *   [What is the Layering Method?](https://ogotoilet.com/blogs/compost-toilets/layering-method-and-nomad-by-ogo%E2%84%A2-compost-toilet)
+    
+*   [SHOP](https://ogotoilet.com/collections/all)
+    
+    SHOP
+    
+    *   [Get Started with a Compost Toilet](https://ogotoilet.com/blogs/compost-toilets/get-started-with-a-compost-toilet-complete-buying-guide-save-time-and-money)
+    *   Most Popular
+        
+        Most Popular
+        
+        *   [Value Deal Compost Medium](https://ogotoilet.com/products/coco-coir-6pk)
+        *   [Value Deal Charcoal Filter](https://ogotoilet.com/products/charcoal-filter-12pk)
+        *   [ORIGIN Drain Kit](https://ogotoilet.com/products/drain-kit-2)
+        *   [Wet Bath Cover](https://ogotoilet.com/products/wet-bath-cover)
+        
+    *   [Boats & Marine](https://ogotoilet.com/collections/top-picks-for-boaters)
+    *   [Tiny Homes | Cabins | Shelters](https://ogotoilet.com/collections/best-picks-for-tiny-homes)
+    
+*   [CONTACT](https://ogotoilet.com/pages/contact)
+    
+    CONTACT
+    
+    *   [Become an Affiliate](https://af.uppromote.com/ogotoilet/register)
+    *   [Become a Trusted Builder](https://ogotoilet.com/pages/builder)
+    *   [Partner Locator](https://ogotoilet.com/pages/store-locator)
+    
+
+*   [Facebook](https://www.facebook.com/theogocomposting/)
+*   [Instagram](https://www.instagram.com/theogotoilet/)
+*   [TikTok](https://www.tiktok.com/@ogotoilet)
+*   [YouTube](https://www.youtube.com/shopify)
+
+[Log in](https://ogotoilet.com/account/login)
+
+No account yet? [Create Account](https://ogotoilet.com/account/register)
+
+[![Image 51: OGO™](https://ogotoilet.com/cdn/shop/files/OGO_LOGO_2024_Website.png?v=1715279608&width=90)](https://ogotoilet.com/)
+
+*   [ORIGIN](https://ogotoilet.com/products/products-ogo-composting-toilet)
+    *   [Shop Collection](https://ogotoilet.com/collections/ogo%E2%84%A2-origin-collection)
+    *   [Do I Need To Vent?](https://learn.ogotoilet.com/do-i-need-to-install-a-vent-hose)
+        *   [Charcoal Filter - 12 Pack](https://ogotoilet.com/products/charcoal-filter-12pk)
+        *   [Shell Vent](https://ogotoilet.com/products/shell-vent)
+        *   [High CFM Fan](https://ogotoilet.com/products/high-cfm-fan)
+    *   [How Do I Power?](https://learn.ogotoilet.com/how-do-i-power-an-ogo-origin)
+        *   [12DC Power Cable (included)](https://ogotoilet.com/products/power-cable-12v)
+        *   [Wall Outlet (110V AC)](https://ogotoilet.com/products/products-power-adapter)
+        *   [Electrical Parts Kit](https://ogotoilet.com/products/electrical-parts-kit)
+    *   [FAQ (Frequently Asked Questions)](https://learn.ogotoilet.com/)
+    *   [What Are People Saying?](https://ogotoilet.com/pages/testimonials)
+    *   [Install Gallery](https://ogotoilet.com/pages/customer-installs)
+*   [NOMAD](https://ogotoilet.com/products/nomad)
+    *   [Shop Collection](https://ogotoilet.com/collections/nomad-by-ogo%E2%84%A2)
+    *   [What is the difference?](https://learn.ogotoilet.com/what-are-the-differences-between-the-origin-and-the-nomad)
+    *   [What is the Layering Method?](https://ogotoilet.com/blogs/compost-toilets/layering-method-and-nomad-by-ogo%E2%84%A2-compost-toilet)
+*   [SHOP](https://ogotoilet.com/collections/all)
+    *   [Get Started with a Compost Toilet](https://ogotoilet.com/blogs/compost-toilets/get-started-with-a-compost-toilet-complete-buying-guide-save-time-and-money)
+    *   [Most Popular](https://ogotoilet.com/collections/accessories)
+        *   [Value Deal Compost Medium](https://ogotoilet.com/products/coco-coir-6pk)
+        *   [Value Deal Charcoal Filter](https://ogotoilet.com/products/charcoal-filter-12pk)
+        *   [ORIGIN Drain Kit](https://ogotoilet.com/products/drain-kit-2)
+        *   [Wet Bath Cover](https://ogotoilet.com/products/wet-bath-cover)
+    *   [Boats & Marine](https://ogotoilet.com/collections/top-picks-for-boaters)
+    *   [Tiny Homes | Cabins | Shelters](https://ogotoilet.com/collections/best-picks-for-tiny-homes)
+*   [CONTACT](https://ogotoilet.com/pages/contact)
+    *   [Become an Affiliate](https://af.uppromote.com/ogotoilet/register)
+    *   [Become a Trusted Builder](https://ogotoilet.com/pages/builder)
+    *   [Partner Locator](https://ogotoilet.com/pages/store-locator)
+
+   Search
+
+ Search 
+
+*   [Compost Toilets](https://ogotoilet.com/collections/compost-toilet)
+*   [Best Sellers- Picks for You](https://ogotoilet.com/collections/best-sellers)
+*   [NOMAD by OGO™ Collection](https://ogotoilet.com/collections/nomad-by-ogo%E2%84%A2)
+*   [OGO™ ORIGIN Collection](https://ogotoilet.com/collections/ogo%E2%84%A2-origin-collection)
+*   [OGO™ Accessories Collection](https://ogotoilet.com/collections/accessories)
+*   [Replacement Parts](https://ogotoilet.com/collections/replacement-parts)
+*   [Top Picks for Boaters](https://ogotoilet.com/collections/top-picks-for-boaters)
+*   [Top Picks for Tiny Homes](https://ogotoilet.com/collections/best-picks-for-tiny-homes)
+*   [Best Choices for Vans, RV's, and Buses](https://ogotoilet.com/collections/van-rv-bus)
+
+Most popular products
+
+*   OGO™ Origin
+    
+    ![Image 52: The OGO™ Composting Toilet - Best composting toilet on market](https://ogotoilet.com/cdn/shop/files/OGO_E2_84_A2-Compost-Toilet.png?v=1694381825&width=1080)
+    
+     Sold Out
+    
+    ### [OGO™ Origin](https://ogotoilet.com/products/products-ogo-composting-toilet "OGO™ Origin")
+    
+    Regular price
+    
+    $984.99
+    
+    Sale price
+    
+    $984.99
+    
+    Regular price
+    
+    ~$984.99~
+    
+    Unit price
+    
+    /  per 
+    
+    [](https://ogotoilet.com/products/products-ogo-composting-toilet)
+    
+*   NOMAD by OGO™
+    
+    ![Image 53: NOMAD by OGO™](https://ogotoilet.com/cdn/shop/files/FrontView-GreyLid.png?v=1706648288&width=1080)
+    
+     Sold Out
+    
+    ### [NOMAD by OGO™](https://ogotoilet.com/products/nomad "NOMAD by OGO™")
+    
+    Regular price
+    
+    $199.99
+    
+    Sale price
+    
+    $199.99
+    
+    Regular price
+    
+    ~$199.99~
+    
+    Unit price
+    
+    /  per 
+    
+    [](https://ogotoilet.com/products/nomad) 
+
+[Log in](https://ogotoilet.com/account/login) [Create Account](https://ogotoilet.com/account/register)
+
+[Cart 00 items](https://ogotoilet.com/cart)
+
+ 
+
+  
+
+![Image 54](https://ogotoilet.com/cdn/shop/files/preview_images/How_it_Works_Thumbnail_Nomad_1100x.jpg?v=1715776544)
+
+compact. Portable. Clean.
+
+PROBLEM SOLVED
+--------------
+
+...other camping toilets solve problems with products.  
+Compost Toilets **eliminate the problem** before it starts.  
+**NO ODOR. NO HASSLE. NO WATER FLUSH**
+
+[Learn About It](https://ogotoilet.com/blogs/compost-toilets/layering-method-and-nomad-by-ogo%E2%84%A2-compost-toilet)
+
+         
+
+![Image 56](https://ogotoilet.com/cdn/shop/files/FrontView-GreyLid.png?v=1706648288&width=1946)
+
+Open media 1 in gallery view
+
+![Image 58](https://ogotoilet.com/cdn/shop/files/BowlOpenFrontView4-GREYLID.png?v=1706648288&width=1946)
+
+Open media 2 in gallery view
+
+![Image 60](https://ogotoilet.com/cdn/shop/files/BowlOpenFront-GreyLid.png?v=1706648288&width=1946)
+
+Open media 3 in gallery view
+
+![Image 62](https://ogotoilet.com/cdn/shop/files/BowlOpen-TopView-gREYlID.png?v=1706648288&width=1946)
+
+Open media 4 in gallery view
+
+![Image 64](https://ogotoilet.com/cdn/shop/files/NoBowl-TopView.png?v=1706648190&width=1946)
+
+Open media 5 in gallery view
+
+![Image 66](https://ogotoilet.com/cdn/shop/files/SidewithOdorTrap.png?v=1706799583&width=1946)
+
+Open media 6 in gallery view
+
+![Image 68](https://ogotoilet.com/cdn/shop/files/NomadCompleteSystem.png?v=1708027648&width=1946)
+
+Open media 7 in gallery view
+
+![Image 70](https://ogotoilet.com/cdn/shop/files/FrontView-GreyLid.png?v=1706648288&width=1946)
+
+Open media 1 in gallery view
+
+![Image 72](https://ogotoilet.com/cdn/shop/files/BowlOpenFrontView4-GREYLID.png?v=1706648288&width=1946)
+
+Open media 2 in gallery view
+
+![Image 74](https://ogotoilet.com/cdn/shop/files/BowlOpenFront-GreyLid.png?v=1706648288&width=1946)
+
+Open media 3 in gallery view
+
+![Image 76](https://ogotoilet.com/cdn/shop/files/BowlOpen-TopView-gREYlID.png?v=1706648288&width=1946)
+
+Open media 4 in gallery view
+
+![Image 78](https://ogotoilet.com/cdn/shop/files/NoBowl-TopView.png?v=1706648190&width=1946)
+
+Open media 5 in gallery view
+
+![Image 80](https://ogotoilet.com/cdn/shop/files/SidewithOdorTrap.png?v=1706799583&width=1946)
+
+Open media 6 in gallery view
+
+![Image 82](https://ogotoilet.com/cdn/shop/files/NomadCompleteSystem.png?v=1708027648&width=1946)
+
+Open media 7 in gallery view
+
+[Home](https://ogotoilet.com/ "Home")
+
+[Shop](https://ogotoilet.com/collections)
+
+[All Products](https://ogotoilet.com/collections/all)
+
+NOMAD by OGO™
+
+NOMAD by OGO™
+=============
+
+Regular price
+
+$199.99
+
+Sale price
+
+$199.99
+
+Regular price
+
+~$199.99~
+
+Unit price
+
+/  per 
+
+ 
+
+Decrease quantity for NOMAD by OGO™  Quantity Increase quantity for NOMAD by OGO™
+
+Add to Cart
+
+ This item is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+
+*   NOMAD
+*   toilet
+
+*   Share
+*   [](https://www.facebook.com/sharer.php?u=https://ogotoilet.com/products/nomad)
+*   [](https://twitter.com/share?url=https://ogotoilet.com/products/nomad&text=NOMADbyOGO%E2%84%A2)
+*   [](https://pinterest.com/pin/create/bookmarklet/?media=//ogotoilet.com/cdn/shop/files/FrontView-GreyLid.png?crop=center&height=1100&v=1706648288&width=1100&url=https://ogotoilet.com/products/nomad&description=NOMADbyOGO%E2%84%A2)
+*   [](https://ogotoilet.com/products/nomad)
+
+![Image 83](https://ogotoilet.com/cdn/shop/files/FrontView-GreyLid.png?v=1706648288&width=1080)
+
+![Image 84](https://ogotoilet.com/cdn/shop/files/BowlOpenFrontView4-GREYLID.png?v=1706648288&width=1080)
+
+![Image 85](https://ogotoilet.com/cdn/shop/files/BowlOpenFront-GreyLid.png?v=1706648288&width=1080)
+
+![Image 86](https://ogotoilet.com/cdn/shop/files/BowlOpen-TopView-gREYlID.png?v=1706648288&width=1080)
+
+![Image 87](https://ogotoilet.com/cdn/shop/files/NoBowl-TopView.png?v=1706648190&width=1080)
+
+![Image 88](https://ogotoilet.com/cdn/shop/files/SidewithOdorTrap.png?v=1706799583&width=4608)
+
+![Image 89](https://ogotoilet.com/cdn/shop/files/NomadCompleteSystem.png?v=1708027648&width=4608)
+
+ 
+
+![Image 90](https://ogotoilet.com/cdn/shop/files/Nomad_bk.png?v=1717613310&width=1080)
+
+Meet The Solution.
+------------------
+
+A compost toilet solves waste by **eliminating the problem.** Separating the liquid waste from solids eliminates foul sewage odors. Our patented urine diversion system provides a safe and sustainable waste management system without the need of water or chemicals.
+
+Dimensions
+
+**Height x Depth x Width**  
+  
+**STANDARD:** 12.38" x 15.4" x 13.0"**METRIC:** 31,4 x 39,1 x 33,0 cm
+
+Perfect For
+
+Hunting, Quick Shelters, Dry Camping, Boondock Ready.
+
+Versatile
+
+Almost any compost medium can be used in this system.
+
+Quick Hygiene
+
+Comes with everything you need for quick setup right out of the box.
+
+[Shop Collection](https://ogotoilet.com/collections/nomad-by-ogo%E2%84%A2) [Watch How it Works?](https://www.youtube.com/watch?v=c4O8Fe-iTo4)
+
+      
+
+ 
+
+NO CHEMICALS. NO WATER. NO ODOR
+
+Bye - bye bad smells
+--------------------
+
+—it's naturally odor-free without any chemicals or water. Plus, its smart design keeps urine separate, so no sewage smells either. It's super versatile too! You can use different materials with it, thanks to its layering system. Easy, flexible, and odor-free—a compost toilet that's simply hassle-free.
+
+[Compost Mediums](https://ogotoilet.com/blogs/compost/coco-coir-vs-sphagnum-peat-moss-choosing-the-best-medium-for-your-ogo%E2%84%A2-origin-compost-toilet)
+
+ 
+
+COMFORTABLE. PORTABLE. ODOR FREE
+
+Nomad by OGO™
+-------------
+
+is a lightweight and portable compost toilet, perfect for any adventure.
+
+![Image 91](https://ogotoilet.com/cdn/shop/files/Nomad_Built_for_boondocking.jpg?v=1718037237&width=710)
+
+![Image 92](https://ogotoilet.com/cdn/shop/files/Nomad_Easy_To_Use_Ready_to_Go.jpg?v=1718037447&width=710)
+
+![Image 93](https://ogotoilet.com/cdn/shop/files/Nomad_Best_for_you_no_odors.jpg?v=1718037243&width=710)
+
+![Image 94](https://ogotoilet.com/cdn/shop/files/Nomad_Built_for_boating.jpg?v=1718037218&width=710)
+
+      
+
+Products made with quality
+
+You May Also Like
+-----------------
+
+Customize your system to fit your lifestyle
+
+ 
+
+More than a Toilet
+------------------
+
+Follow Us
+---------
+
+Ideas, stories, community. See you there.
+
+![Image 95: Social Media Compilation for OGO ORIGIN](https://ogotoilet.com/cdn/shop/files/preview_images/6c77c215bd1548b5960cb06a5126463e.thumbnail.0000000000_1920x.jpg?v=1715712212)
+
+Watch US
+--------
+
+How To, Troubleshooting, Story sharing.
+
+![Image 96](https://ogotoilet.com/cdn/shop/files/preview_images/How_it_Works_Thumbnail_Nomad_1920x.jpg?v=1715776544)
+
+Expert Tips
+-----------
+
+Guides and answers to all your questions.
+
+![Image 97](https://ogotoilet.com/cdn/shop/files/preview_images/07ca014f59264c3f9385a0a3da94b130.thumbnail.0000000000_1920x.jpg?v=1715626134)
+
+INSTAGRAM
+
+YouTube
+
+Expert Tips
+
+ 
+
+### Join our mailing list
+
+Once in a while we have pretty cool stuff to share.
+
+ Your Email
+
+Subscribe
+
+Read More About It
+------------------
+
+*   [Compost Mediums](https://ogotoilet.com/blogs/compost)
+*   [Compost Toilets](https://ogotoilet.com/blogs/compost-toilets)
+*   [Living Off-Grid](https://ogotoilet.com/blogs/living-off-grid)
+*   [Travel](https://ogotoilet.com/blogs/travel)
+*   [Natural Disasters & Emergency Shelters](https://ogotoilet.com/blogs/natural-disasters-emergency-shelters)
+
+Read More About It
+------------------
+
+*   [Compost Mediums](https://ogotoilet.com/blogs/compost)
+*   [Compost Toilets](https://ogotoilet.com/blogs/compost-toilets)
+*   [Living Off-Grid](https://ogotoilet.com/blogs/living-off-grid)
+*   [Travel](https://ogotoilet.com/blogs/travel)
+*   [Natural Disasters & Emergency Shelters](https://ogotoilet.com/blogs/natural-disasters-emergency-shelters)
+
+More Information
+----------------
+
+*   [Find A Builder](https://ogotoilet.com/pages/store-locator)
+*   [Articles](https://ogotoilet.com/blogs/compost)
+*   [FAQ](https://learn.ogotoilet.com/)
+*   [Contact Us](https://ogotoilet.com/pages/contact)
+*   [Log In](https://ogotoilet.com/account/login)
+
+More Information
+----------------
+
+*   [Find A Builder](https://ogotoilet.com/pages/store-locator)
+*   [Articles](https://ogotoilet.com/blogs/compost)
+*   [FAQ](https://learn.ogotoilet.com/)
+*   [Contact Us](https://ogotoilet.com/pages/contact)
+*   [Log In](https://ogotoilet.com/account/login)
+
+*   
+*   
+*   
+*   
+*   
+
+*   [Facebook](https://www.facebook.com/theogocomposting/)
+*   [Instagram](https://www.instagram.com/theogotoilet/)
+*   [TikTok](https://www.tiktok.com/@ogotoilet)
+*   [YouTube](https://www.youtube.com/shopify)
+
+© 2025 [OGO™](https://ogotoilet.com/). [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+
+*   [Search](https://ogotoilet.com/search)
+*   [SItemap](https://ogotoilet.com/a/sitemap-tools/sitemap)
+
+*   [Refund policy](https://ogotoilet.com/policies/refund-policy)
+*   [Privacy policy](https://ogotoilet.com/policies/privacy-policy)
+*   [Terms of service](https://ogotoilet.com/policies/terms-of-service)
+*   [Contact information](https://ogotoilet.com/policies/contact-information)
+
+Cart 0
+------
+
+There’s nothing in your cart yet
+
+[Start Shopping](https://ogotoilet.com/collections/all)
+
+Loading...
+
+Subtotal
+
+$0.00 USD
+
+Shipping, taxes, & promos calculated at checkout.
+
+Checkout [View Cart](https://ogotoilet.com/cart)
+
+*   Choosing a selection results in a full page refresh.
+
+## Metadata
+
+```json
+{
+  "title": "NOMAD by OGO™",
+  "description": "It's a simple and modern design with a urine diverting bowl. The key to compost toilets is urine and solids separation. OGO™ Nomad funnels urine into a front bottle and allows a compostable bag to snap into back clips for a layering method compost toilet. Key Features: Simple as can be Tiny, tiny, tiny Urine odor trap",
+  "url": "https://ogotoilet.com/products/nomad",
+  "content": "NOMAD by OGO™\n===============\n\n\\[{\"id\":481327841562,\"handle\":\"all\",\"title\":\"All Products\",\"updated\\_at\":\"2025-01-20T10:30:05-05:00\",\"body\\_html\":\"\\\\u003cp\\\\u003eOur full collection of products includes our compost toilet models and accessories tailored to fit a magnitude of different setups and bathrooms.  Our products are all manufactured and assembled in Ohio with the highest of quality standards. \\\\u003cbr\\\\u003e\\\\u003cbr\\\\u003eWe are dedicated to providing solutions in off-grid environments. Having a compost toilet can drastically decrease your need for fresh water, reduce time and money on maintenance and dumping. Cleaning takes less time than dumping a black tank. \\\\u003c\\\\/p\\\\u003e\",\"published\\_at\":\"2024-08-01T13:16:52-04:00\",\"sort\\_order\":\"manual\",\"template\\_suffix\":\"\",\"disjunctive\":false,\"rules\":\\[{\"column\":\"variant\\_price\",\"relation\":\"greater\\_than\",\"condition\":\"0\"}\\],\"published\\_scope\":\"global\",\"image\":{\"created\\_at\":\"2024-10-22T14:32:46-04:00\",\"alt\":null,\"width\":917,\"height\":917,\"src\":\"\\\\/\\\\/ogotoilet.com\\\\/cdn\\\\/shop\\\\/collections\\\\/OGO\\_LOGO\\_2024\\_110x110\\_4427d94f-d74b-48dd-b2cf-ca02e274a23a.png?v=1729689264\"}},{\"id\":478884495642,\"handle\":\"best-sellers\",\"title\":\"Best Sellers- Picks for You\",\"updated\\_at\":\"2025-01-20T10:30:05-05:00\",\"body\\_html\":\"\\\\u003ch6\\\\u003eIt's Good to Be Popular\\\\u003c\\\\/h6\\\\u003e\\\\n\\\\u003cp\\\\u003eDiscover the collection everyone is raving about. Our compost toilets and accessories are the ultimate solutions for waste management, designed to meet the highest standards of quality and functionality. Each product in our lineup is crafted to make the transition to a compost toilet seamless and advantageous.\\\\u003c\\\\/p\\\\u003e\\\\n\\\\u003cul\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003eTop-Quality Design\\\\u003c\\\\/strong\\\\u003e: Engineered for durability and performance, ensuring long-lasting reliability.\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003eProblem-Solving Solutions\\\\u003c\\\\/strong\\\\u003e: Address common waste management challenges with innovative features that enhance your off-grid experience.\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003eUser-Approved\\\\u003c\\\\/strong\\\\u003e: Join the community of satisfied travelers who have made the switch and never looked back.\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003c\\\\/ul\\\\u003e\\\\n\\\\u003c!----\\\\u003e\",\"published\\_at\":\"2024-06-19T09:20:41-04:00\",\"sort\\_order\":\"best-selling\",\"template\\_suffix\":\"\",\"disjunctive\":false,\"rules\":\\[{\"column\":\"variant\\_price\",\"relation\":\"greater\\_than\",\"condition\":\"30\"}\\],\"published\\_scope\":\"global\",\"image\":{\"created\\_at\":\"2024-06-19T09:20:40-04:00\",\"alt\":null,\"width\":1080,\"height\":1080,\"src\":\"\\\\/\\\\/ogotoilet.com\\\\/cdn\\\\/shop\\\\/collections\\\\/Best\\_Sellers\\_Catagory.png?v=1718806606\"}},{\"id\":456838381850,\"handle\":\"compost-toilet\",\"updated\\_at\":\"2025-01-20T10:30:05-05:00\",\"published\\_at\":\"2023-08-24T08:15:24-04:00\",\"sort\\_order\":\"manual\",\"template\\_suffix\":\"\",\"published\\_scope\":\"web\",\"title\":\"Compost Toilets\",\"body\\_html\":\"\\\\u003ch3\\\\u003eThe Choice is Yours.\\\\u003c\\\\/h3\\\\u003e\\\\n\\\\u003cp\\\\u003eOGO™ is the leading manufacturer of compost toilets, reaching over forty (40) countries and counting through a carefully established network of builders, distributors, outfitters, and vehicle manufacturers. With you in mind, we have engineered two models that will suit any need and lifestyle.\\\\u003cbr\\\\u003e\\\\u003cbr\\\\u003e\\\\u003c\\\\/p\\\\u003e\\\\n\\\\u003ch6\\\\u003eTHE OGO™ ORIGIN \\\\u003c\\\\/h6\\\\u003e\\\\n\\\\u003cp\\\\u003e\\\\u003cstrong\\\\u003eKey Features: \\\\u003c\\\\/strong\\\\u003e\\\\u003c\\\\/p\\\\u003e\\\\n\\\\u003cul\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003ePerfect for:\\\\u003c\\\\/strong\\\\u003e Any Boat, RV, Trailer, Van, Shelter, Cabin, or Off-Grid Space that needs a waterless waste management system.\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003ePower Mixing: \\\\u003c\\\\/strong\\\\u003e Our stainless-steel agitation system provides an odorless and easy way to maintain a compost toilet\\\\u003cbr\\\\u003e\\\\n\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003eEasy to Use: \\\\u003c\\\\/strong\\\\u003eRemovable solids bin, LED indicator light, push button cycle. \\\\u003cbr\\\\u003e\\\\n\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003eEasy to Maintain: \\\\u003c\\\\/strong\\\\u003eNo matter how you install you can access from top or front.\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003c\\\\/ul\\\\u003e\\\\n\\\\u003ch6\\\\u003eTHE NOMAD by OGO™\\\\u003c\\\\/h6\\\\u003e\\\\n\\\\u003cp\\\\u003e\\\\u003cstrong\\\\u003eKey Features: \\\\u003c\\\\/strong\\\\u003e\\\\u003c\\\\/p\\\\u003e\\\\n\\\\u003cul\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003ePerfect for:\\\\u003c\\\\/strong\\\\u003e Quick camp set up, hunting, fishing, car camping, and small boats.\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003eVersatile: \\\\u003c\\\\/strong\\\\u003eThe layering method allows you to use any medium for waste.\\\\u003cbr\\\\u003e\\\\n\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003eEasy to Use: \\\\u003c\\\\/strong\\\\u003eQuick set to set up and very simple to use.\\\\u003cbr\\\\u003e\\\\n\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003cli\\\\u003e\\\\n\\\\u003cstrong\\\\u003eReady to Go: \\\\u003c\\\\/strong\\\\u003eWe give you everything you need to get started.\\\\u003c\\\\/li\\\\u003e\\\\n\\\\u003c\\\\/ul\\\\u003e\\\\n\\\\u003ch3\\\\u003e\\\\u003c!----\\\\u003e\\\\u003c\\\\/h3\\\\u003e\",\"image\":{\"created\\_at\":\"2023-08-24T08:15:26-04:00\",\"alt\":null,\"width\":1096,\"height\":1080,\"src\":\"\\\\/\\\\/ogotoilet.com\\\\/cdn\\\\/shop\\\\/collections\\\\/OGO-far-side-07.png?v=1718802405\"}},{\"id\":477785817370,\"handle\":\"nomad-by-ogo™\",\"updated\\_at\":\"2025-01-19T14:10:06-05:00\",\"published\\_at\":\"2024-06-04T13:42:04-04:00\",\"sort\\_order\":\"manual\",\"template\\_suffix\":\"\",\"published\\_scope\":\"global\",\"title\":\"NOMAD by OGO™ Collection\",\"body\\_html\":\"\\\\u003cp\\\\u003eComplete collection of the\\\\u003cstrong\\\\u003e NOMAD by OGO™\\\\u003c\\\\/strong\\\\u003e and all related products and accessories.\\\\u003c\\\\/p\\\\u003e\\\\n\\\\u003cp\\\\u003e\\\\u003cspan\\\\u003eIt's a simple and modern design with a urine-diverting bowl. The key to a compost toilet is urine and solids separation. The NOMAD by OGO™ funnels urine into a front bottle and allows a compostable bag to snap into back clips for a layering method compost toilet.\\\\u003c\\\\/span\\\\u003e\\\\u003c\\\\/p\\\\u003e\\\\n\\\\u003cp\\\\u003e\\\\u003cspan\\\\u003eThe \\\\u003c\\\\/span\\\\u003e\\\\u003cspan class=\\\\\"a-text-bold\\\\\"\\\\u003eNOMAD by OGO™\\\\u003c\\\\/span\\\\u003e\\\\u003cspan\\\\u003e is a lightweight and portable compost toilet, perfect for any adventure. No more bad smells—\\\\u003c\\\\/span\\\\u003e\\\\u003cspan class=\\\\\"a-text-bold\\\\\"\\\\u003eit's naturally odor-free\\\\u003c\\\\/span\\\\u003e\\\\u003cspan\\\\u003e without any chemicals or water. Plus, its smart design keeps urine separate, so no sewage smells either. It's super versatile too! You can use different materials with it, thanks to its layering system. Easy, flexible, and odor-free—a compost toilet that's simply hassle-free.\\\\u003c\\\\/span\\\\u003e\\\\u003c\\\\/p\\\\u003e\\\\n\\\\u003c!----\\\\u003e\",\"image\":{\"created\\_at\":\"2024-06-04T13:42:04-04:00\",\"alt\":null,\"width\":1080,\"height\":1080,\"src\":\"\\\\/\\\\/ogotoilet.com\\\\/cdn\\\\/shop\\\\/collections\\\\/Bowl\\_Open\\_Front-Grey\\_Lid.png?v=1718801572\"}}\\]\n\n\\[\"NOMAD\",\"toilet\"\\]\n\n            [Skip to content](https://ogotoilet.com/products/nomad#MainContent)\n\n \n\n[VISIT OUR RESOURCE CENTER](https://learn.ogotoilet.com/ \"OGO™ Resource Center | Learn More About Compost Toilets | Product FAQ | How To's\")\n\n            \n\n[![Image 50: OGO™](https://ogotoilet.com/cdn/shop/files/OGO_LOGO_2024_Website.png?v=1715279608&width=90)](https://ogotoilet.com/)\n\n*   [ORIGIN](https://ogotoilet.com/products/products-ogo-composting-toilet)\n    \n    ORIGIN\n    \n    *   [Shop Collection](https://ogotoilet.com/collections/ogo%E2%84%A2-origin-collection)\n    *   Do I Need To Vent?\n        \n        Do I Need To Vent?\n        \n        *   [Charcoal Filter - 12 Pack](https://ogotoilet.com/products/charcoal-filter-12pk)\n        *   [Shell Vent](https://ogotoilet.com/products/shell-vent)\n        *   [High CFM Fan](https://ogotoilet.com/products/high-cfm-fan)\n        \n    *   How Do I Power?\n        \n        How Do I Power?\n        \n        *   [12DC Power Cable (included)](https://ogotoilet.com/products/power-cable-12v)\n        *   [Wall Outlet (110V AC)](https://ogotoilet.com/products/products-power-adapter)\n        *   [Electrical Parts Kit](https://ogotoilet.com/products/electrical-parts-kit)\n        \n    *   [FAQ (Frequently Asked Questions)](https://learn.ogotoilet.com/)\n    *   [What Are People Saying?](https://ogotoilet.com/pages/testimonials)\n    *   [Install Gallery](https://ogotoilet.com/pages/customer-installs)\n    \n*   [NOMAD](https://ogotoilet.com/products/nomad)\n    \n    NOMAD\n    \n    *   [Shop Collection](https://ogotoilet.com/collections/nomad-by-ogo%E2%84%A2)\n    *   [What is the difference?](https://learn.ogotoilet.com/what-are-the-differences-between-the-origin-and-the-nomad)\n    *   [What is the Layering Method?](https://ogotoilet.com/blogs/compost-toilets/layering-method-and-nomad-by-ogo%E2%84%A2-compost-toilet)\n    \n*   [SHOP](https://ogotoilet.com/collections/all)\n    \n    SHOP\n    \n    *   [Get Started with a Compost Toilet](https://ogotoilet.com/blogs/compost-toilets/get-started-with-a-compost-toilet-complete-buying-guide-save-time-and-money)\n    *   Most Popular\n        \n        Most Popular\n        \n        *   [Value Deal Compost Medium](https://ogotoilet.com/products/coco-coir-6pk)\n        *   [Value Deal Charcoal Filter](https://ogotoilet.com/products/charcoal-filter-12pk)\n        *   [ORIGIN Drain Kit](https://ogotoilet.com/products/drain-kit-2)\n        *   [Wet Bath Cover](https://ogotoilet.com/products/wet-bath-cover)\n        \n    *   [Boats & Marine](https://ogotoilet.com/collections/top-picks-for-boaters)\n    *   [Tiny Homes | Cabins | Shelters](https://ogotoilet.com/collections/best-picks-for-tiny-homes)\n    \n*   [CONTACT](https://ogotoilet.com/pages/contact)\n    \n    CONTACT\n    \n    *   [Become an Affiliate](https://af.uppromote.com/ogotoilet/register)\n    *   [Become a Trusted Builder](https://ogotoilet.com/pages/builder)\n    *   [Partner Locator](https://ogotoilet.com/pages/store-locator)\n    \n\n*   [Facebook](https://www.facebook.com/theogocomposting/)\n*   [Instagram](https://www.instagram.com/theogotoilet/)\n*   [TikTok](https://www.tiktok.com/@ogotoilet)\n*   [YouTube](https://www.youtube.com/shopify)\n\n[Log in](https://ogotoilet.com/account/login)\n\nNo account yet? [Create Account](https://ogotoilet.com/account/register)\n\n[![Image 51: OGO™](https://ogotoilet.com/cdn/shop/files/OGO_LOGO_2024_Website.png?v=1715279608&width=90)](https://ogotoilet.com/)\n\n*   [ORIGIN](https://ogotoilet.com/products/products-ogo-composting-toilet)\n    *   [Shop Collection](https://ogotoilet.com/collections/ogo%E2%84%A2-origin-collection)\n    *   [Do I Need To Vent?](https://learn.ogotoilet.com/do-i-need-to-install-a-vent-hose)\n        *   [Charcoal Filter - 12 Pack](https://ogotoilet.com/products/charcoal-filter-12pk)\n        *   [Shell Vent](https://ogotoilet.com/products/shell-vent)\n        *   [High CFM Fan](https://ogotoilet.com/products/high-cfm-fan)\n    *   [How Do I Power?](https://learn.ogotoilet.com/how-do-i-power-an-ogo-origin)\n        *   [12DC Power Cable (included)](https://ogotoilet.com/products/power-cable-12v)\n        *   [Wall Outlet (110V AC)](https://ogotoilet.com/products/products-power-adapter)\n        *   [Electrical Parts Kit](https://ogotoilet.com/products/electrical-parts-kit)\n    *   [FAQ (Frequently Asked Questions)](https://learn.ogotoilet.com/)\n    *   [What Are People Saying?](https://ogotoilet.com/pages/testimonials)\n    *   [Install Gallery](https://ogotoilet.com/pages/customer-installs)\n*   [NOMAD](https://ogotoilet.com/products/nomad)\n    *   [Shop Collection](https://ogotoilet.com/collections/nomad-by-ogo%E2%84%A2)\n    *   [What is the difference?](https://learn.ogotoilet.com/what-are-the-differences-between-the-origin-and-the-nomad)\n    *   [What is the Layering Method?](https://ogotoilet.com/blogs/compost-toilets/layering-method-and-nomad-by-ogo%E2%84%A2-compost-toilet)\n*   [SHOP](https://ogotoilet.com/collections/all)\n    *   [Get Started with a Compost Toilet](https://ogotoilet.com/blogs/compost-toilets/get-started-with-a-compost-toilet-complete-buying-guide-save-time-and-money)\n    *   [Most Popular](https://ogotoilet.com/collections/accessories)\n        *   [Value Deal Compost Medium](https://ogotoilet.com/products/coco-coir-6pk)\n        *   [Value Deal Charcoal Filter](https://ogotoilet.com/products/charcoal-filter-12pk)\n        *   [ORIGIN Drain Kit](https://ogotoilet.com/products/drain-kit-2)\n        *   [Wet Bath Cover](https://ogotoilet.com/products/wet-bath-cover)\n    *   [Boats & Marine](https://ogotoilet.com/collections/top-picks-for-boaters)\n    *   [Tiny Homes | Cabins | Shelters](https://ogotoilet.com/collections/best-picks-for-tiny-homes)\n*   [CONTACT](https://ogotoilet.com/pages/contact)\n    *   [Become an Affiliate](https://af.uppromote.com/ogotoilet/register)\n    *   [Become a Trusted Builder](https://ogotoilet.com/pages/builder)\n    *   [Partner Locator](https://ogotoilet.com/pages/store-locator)\n\n   Search\n\n Search \n\n*   [Compost Toilets](https://ogotoilet.com/collections/compost-toilet)\n*   [Best Sellers- Picks for You](https://ogotoilet.com/collections/best-sellers)\n*   [NOMAD by OGO™ Collection](https://ogotoilet.com/collections/nomad-by-ogo%E2%84%A2)\n*   [OGO™ ORIGIN Collection](https://ogotoilet.com/collections/ogo%E2%84%A2-origin-collection)\n*   [OGO™ Accessories Collection](https://ogotoilet.com/collections/accessories)\n*   [Replacement Parts](https://ogotoilet.com/collections/replacement-parts)\n*   [Top Picks for Boaters](https://ogotoilet.com/collections/top-picks-for-boaters)\n*   [Top Picks for Tiny Homes](https://ogotoilet.com/collections/best-picks-for-tiny-homes)\n*   [Best Choices for Vans, RV's, and Buses](https://ogotoilet.com/collections/van-rv-bus)\n\nMost popular products\n\n*   OGO™ Origin\n    \n    ![Image 52: The OGO™ Composting Toilet - Best composting toilet on market](https://ogotoilet.com/cdn/shop/files/OGO_E2_84_A2-Compost-Toilet.png?v=1694381825&width=1080)\n    \n     Sold Out\n    \n    ### [OGO™ Origin](https://ogotoilet.com/products/products-ogo-composting-toilet \"OGO™ Origin\")\n    \n    Regular price\n    \n    $984.99\n    \n    Sale price\n    \n    $984.99\n    \n    Regular price\n    \n    ~$984.99~\n    \n    Unit price\n    \n    /  per \n    \n    [](https://ogotoilet.com/products/products-ogo-composting-toilet)\n    \n*   NOMAD by OGO™\n    \n    ![Image 53: NOMAD by OGO™](https://ogotoilet.com/cdn/shop/files/FrontView-GreyLid.png?v=1706648288&width=1080)\n    \n     Sold Out\n    \n    ### [NOMAD by OGO™](https://ogotoilet.com/products/nomad \"NOMAD by OGO™\")\n    \n    Regular price\n    \n    $199.99\n    \n    Sale price\n    \n    $199.99\n    \n    Regular price\n    \n    ~$199.99~\n    \n    Unit price\n    \n    /  per \n    \n    [](https://ogotoilet.com/products/nomad) \n\n[Log in](https://ogotoilet.com/account/login) [Create Account](https://ogotoilet.com/account/register)\n\n[Cart 00 items](https://ogotoilet.com/cart)\n\n \n\n  \n\n![Image 54](https://ogotoilet.com/cdn/shop/files/preview_images/How_it_Works_Thumbnail_Nomad_1100x.jpg?v=1715776544)\n\ncompact. Portable. Clean.\n\nPROBLEM SOLVED\n--------------\n\n...other camping toilets solve problems with products.  \nCompost Toilets **eliminate the problem** before it starts.  \n**NO ODOR. NO HASSLE. NO WATER FLUSH**\n\n[Learn About It](https://ogotoilet.com/blogs/compost-toilets/layering-method-and-nomad-by-ogo%E2%84%A2-compost-toilet)\n\n         \n\n![Image 56](https://ogotoilet.com/cdn/shop/files/FrontView-GreyLid.png?v=1706648288&width=1946)\n\nOpen media 1 in gallery view\n\n![Image 58](https://ogotoilet.com/cdn/shop/files/BowlOpenFrontView4-GREYLID.png?v=1706648288&width=1946)\n\nOpen media 2 in gallery view\n\n![Image 60](https://ogotoilet.com/cdn/shop/files/BowlOpenFront-GreyLid.png?v=1706648288&width=1946)\n\nOpen media 3 in gallery view\n\n![Image 62](https://ogotoilet.com/cdn/shop/files/BowlOpen-TopView-gREYlID.png?v=1706648288&width=1946)\n\nOpen media 4 in gallery view\n\n![Image 64](https://ogotoilet.com/cdn/shop/files/NoBowl-TopView.png?v=1706648190&width=1946)\n\nOpen media 5 in gallery view\n\n![Image 66](https://ogotoilet.com/cdn/shop/files/SidewithOdorTrap.png?v=1706799583&width=1946)\n\nOpen media 6 in gallery view\n\n![Image 68](https://ogotoilet.com/cdn/shop/files/NomadCompleteSystem.png?v=1708027648&width=1946)\n\nOpen media 7 in gallery view\n\n![Image 70](https://ogotoilet.com/cdn/shop/files/FrontView-GreyLid.png?v=1706648288&width=1946)\n\nOpen media 1 in gallery view\n\n![Image 72](https://ogotoilet.com/cdn/shop/files/BowlOpenFrontView4-GREYLID.png?v=1706648288&width=1946)\n\nOpen media 2 in gallery view\n\n![Image 74](https://ogotoilet.com/cdn/shop/files/BowlOpenFront-GreyLid.png?v=1706648288&width=1946)\n\nOpen media 3 in gallery view\n\n![Image 76](https://ogotoilet.com/cdn/shop/files/BowlOpen-TopView-gREYlID.png?v=1706648288&width=1946)\n\nOpen media 4 in gallery view\n\n![Image 78](https://ogotoilet.com/cdn/shop/files/NoBowl-TopView.png?v=1706648190&width=1946)\n\nOpen media 5 in gallery view\n\n![Image 80](https://ogotoilet.com/cdn/shop/files/SidewithOdorTrap.png?v=1706799583&width=1946)\n\nOpen media 6 in gallery view\n\n![Image 82](https://ogotoilet.com/cdn/shop/files/NomadCompleteSystem.png?v=1708027648&width=1946)\n\nOpen media 7 in gallery view\n\n[Home](https://ogotoilet.com/ \"Home\")\n\n[Shop](https://ogotoilet.com/collections)\n\n[All Products](https://ogotoilet.com/collections/all)\n\nNOMAD by OGO™\n\nNOMAD by OGO™\n=============\n\nRegular price\n\n$199.99\n\nSale price\n\n$199.99\n\nRegular price\n\n~$199.99~\n\nUnit price\n\n/  per \n\n \n\nDecrease quantity for NOMAD by OGO™  Quantity Increase quantity for NOMAD by OGO™\n\nAdd to Cart\n\n This item is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.\n\n*   NOMAD\n*   toilet\n\n*   Share\n*   [](https://www.facebook.com/sharer.php?u=https://ogotoilet.com/products/nomad)\n*   [](https://twitter.com/share?url=https://ogotoilet.com/products/nomad&text=NOMADbyOGO%E2%84%A2)\n*   [](https://pinterest.com/pin/create/bookmarklet/?media=//ogotoilet.com/cdn/shop/files/FrontView-GreyLid.png?crop=center&height=1100&v=1706648288&width=1100&url=https://ogotoilet.com/products/nomad&description=NOMADbyOGO%E2%84%A2)\n*   [](https://ogotoilet.com/products/nomad)\n\n![Image 83](https://ogotoilet.com/cdn/shop/files/FrontView-GreyLid.png?v=1706648288&width=1080)\n\n![Image 84](https://ogotoilet.com/cdn/shop/files/BowlOpenFrontView4-GREYLID.png?v=1706648288&width=1080)\n\n![Image 85](https://ogotoilet.com/cdn/shop/files/BowlOpenFront-GreyLid.png?v=1706648288&width=1080)\n\n![Image 86](https://ogotoilet.com/cdn/shop/files/BowlOpen-TopView-gREYlID.png?v=1706648288&width=1080)\n\n![Image 87](https://ogotoilet.com/cdn/shop/files/NoBowl-TopView.png?v=1706648190&width=1080)\n\n![Image 88](https://ogotoilet.com/cdn/shop/files/SidewithOdorTrap.png?v=1706799583&width=4608)\n\n![Image 89](https://ogotoilet.com/cdn/shop/files/NomadCompleteSystem.png?v=1708027648&width=4608)\n\n \n\n![Image 90](https://ogotoilet.com/cdn/shop/files/Nomad_bk.png?v=1717613310&width=1080)\n\nMeet The Solution.\n------------------\n\nA compost toilet solves waste by **eliminating the problem.** Separating the liquid waste from solids eliminates foul sewage odors. Our patented urine diversion system provides a safe and sustainable waste management system without the need of water or chemicals.\n\nDimensions\n\n**Height x Depth x Width**  \n  \n**STANDARD:** 12.38\" x 15.4\" x 13.0\"**METRIC:** 31,4 x 39,1 x 33,0 cm\n\nPerfect For\n\nHunting, Quick Shelters, Dry Camping, Boondock Ready.\n\nVersatile\n\nAlmost any compost medium can be used in this system.\n\nQuick Hygiene\n\nComes with everything you need for quick setup right out of the box.\n\n[Shop Collection](https://ogotoilet.com/collections/nomad-by-ogo%E2%84%A2) [Watch How it Works?](https://www.youtube.com/watch?v=c4O8Fe-iTo4)\n\n      \n\n \n\nNO CHEMICALS. NO WATER. NO ODOR\n\nBye - bye bad smells\n--------------------\n\n—it's naturally odor-free without any chemicals or water. Plus, its smart design keeps urine separate, so no sewage smells either. It's super versatile too! You can use different materials with it, thanks to its layering system. Easy, flexible, and odor-free—a compost toilet that's simply hassle-free.\n\n[Compost Mediums](https://ogotoilet.com/blogs/compost/coco-coir-vs-sphagnum-peat-moss-choosing-the-best-medium-for-your-ogo%E2%84%A2-origin-compost-toilet)\n\n \n\nCOMFORTABLE. PORTABLE. ODOR FREE\n\nNomad by OGO™\n-------------\n\nis a lightweight and portable compost toilet, perfect for any adventure.\n\n![Image 91](https://ogotoilet.com/cdn/shop/files/Nomad_Built_for_boondocking.jpg?v=1718037237&width=710)\n\n![Image 92](https://ogotoilet.com/cdn/shop/files/Nomad_Easy_To_Use_Ready_to_Go.jpg?v=1718037447&width=710)\n\n![Image 93](https://ogotoilet.com/cdn/shop/files/Nomad_Best_for_you_no_odors.jpg?v=1718037243&width=710)\n\n![Image 94](https://ogotoilet.com/cdn/shop/files/Nomad_Built_for_boating.jpg?v=1718037218&width=710)\n\n      \n\nProducts made with quality\n\nYou May Also Like\n-----------------\n\nCustomize your system to fit your lifestyle\n\n \n\nMore than a Toilet\n------------------\n\nFollow Us\n---------\n\nIdeas, stories, community. See you there.\n\n![Image 95: Social Media Compilation for OGO ORIGIN](https://ogotoilet.com/cdn/shop/files/preview_images/6c77c215bd1548b5960cb06a5126463e.thumbnail.0000000000_1920x.jpg?v=1715712212)\n\nWatch US\n--------\n\nHow To, Troubleshooting, Story sharing.\n\n![Image 96](https://ogotoilet.com/cdn/shop/files/preview_images/How_it_Works_Thumbnail_Nomad_1920x.jpg?v=1715776544)\n\nExpert Tips\n-----------\n\nGuides and answers to all your questions.\n\n![Image 97](https://ogotoilet.com/cdn/shop/files/preview_images/07ca014f59264c3f9385a0a3da94b130.thumbnail.0000000000_1920x.jpg?v=1715626134)\n\nINSTAGRAM\n\nYouTube\n\nExpert Tips\n\n \n\n### Join our mailing list\n\nOnce in a while we have pretty cool stuff to share.\n\n Your Email\n\nSubscribe\n\nRead More About It\n------------------\n\n*   [Compost Mediums](https://ogotoilet.com/blogs/compost)\n*   [Compost Toilets](https://ogotoilet.com/blogs/compost-toilets)\n*   [Living Off-Grid](https://ogotoilet.com/blogs/living-off-grid)\n*   [Travel](https://ogotoilet.com/blogs/travel)\n*   [Natural Disasters & Emergency Shelters](https://ogotoilet.com/blogs/natural-disasters-emergency-shelters)\n\nRead More About It\n------------------\n\n*   [Compost Mediums](https://ogotoilet.com/blogs/compost)\n*   [Compost Toilets](https://ogotoilet.com/blogs/compost-toilets)\n*   [Living Off-Grid](https://ogotoilet.com/blogs/living-off-grid)\n*   [Travel](https://ogotoilet.com/blogs/travel)\n*   [Natural Disasters & Emergency Shelters](https://ogotoilet.com/blogs/natural-disasters-emergency-shelters)\n\nMore Information\n----------------\n\n*   [Find A Builder](https://ogotoilet.com/pages/store-locator)\n*   [Articles](https://ogotoilet.com/blogs/compost)\n*   [FAQ](https://learn.ogotoilet.com/)\n*   [Contact Us](https://ogotoilet.com/pages/contact)\n*   [Log In](https://ogotoilet.com/account/login)\n\nMore Information\n----------------\n\n*   [Find A Builder](https://ogotoilet.com/pages/store-locator)\n*   [Articles](https://ogotoilet.com/blogs/compost)\n*   [FAQ](https://learn.ogotoilet.com/)\n*   [Contact Us](https://ogotoilet.com/pages/contact)\n*   [Log In](https://ogotoilet.com/account/login)\n\n*   \n*   \n*   \n*   \n*   \n\n*   [Facebook](https://www.facebook.com/theogocomposting/)\n*   [Instagram](https://www.instagram.com/theogotoilet/)\n*   [TikTok](https://www.tiktok.com/@ogotoilet)\n*   [YouTube](https://www.youtube.com/shopify)\n\n© 2025 [OGO™](https://ogotoilet.com/). [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)\n\n*   [Search](https://ogotoilet.com/search)\n*   [SItemap](https://ogotoilet.com/a/sitemap-tools/sitemap)\n\n*   [Refund policy](https://ogotoilet.com/policies/refund-policy)\n*   [Privacy policy](https://ogotoilet.com/policies/privacy-policy)\n*   [Terms of service](https://ogotoilet.com/policies/terms-of-service)\n*   [Contact information](https://ogotoilet.com/policies/contact-information)\n\nCart 0\n------\n\nThere’s nothing in your cart yet\n\n[Start Shopping](https://ogotoilet.com/collections/all)\n\nLoading...\n\nSubtotal\n\n$0.00 USD\n\nShipping, taxes, & promos calculated at checkout.\n\nCheckout [View Cart](https://ogotoilet.com/cart)\n\n*   Choosing a selection results in a full page refresh.",
+  "usage": {
+    "tokens": 7539
+  }
+}
+```

@@ -1,0 +1,21 @@
+Trafft | Login
+===============
+
+![Image 2: logo](https://anew.admin.trafft.com/api/v1/settings/dashboard/logo/full)
+
+Log in to Your account
+======================
+
+Email
+
+Continue with Email
+
+Continue
+
+Forgot your password? [Get Help](https://anew.admin.trafft.com/reset-password)
+
+OR
+
+Log in with Google Log in with Apple Log in with Linkedin Log in with Facebook
+
+All Rights Reserved ® Trafft 2025

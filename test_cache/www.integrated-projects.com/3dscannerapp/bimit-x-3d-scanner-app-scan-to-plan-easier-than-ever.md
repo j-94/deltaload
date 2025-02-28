@@ -1,0 +1,210 @@
+---
+title: BIMIT x 3D Scanner App / Scan-to-Plan easier than ever
+description: Deliver your project on-time and on-budget by converting your 3D Scan to BIM & CAD in just a few steps.
+url: https://www.integrated-projects.com/3dscannerapp
+timestamp: 2025-01-20T15:42:40.744Z
+domain: www.integrated-projects.com
+path: 3dscannerapp
+---
+
+# BIMIT x 3D Scanner App / Scan-to-Plan easier than ever
+
+
+Deliver your project on-time and on-budget by converting your 3D Scan to BIM & CAD in just a few steps.
+
+
+## Content
+
+BIMIT x 3D Scanner App / Scan-to-Plan easier than ever
+===============
+     
+
+[![Image 56](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62209495894dd7d264389eb2_Logos_Bimit_BimitbyIPX-02.svg) x ![Image 57](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/630f429c450ad492d1679a68_3ds-logo.png)](https://www.integrated-projects.com/3dscannerapp#)
+
+[Our Manifesto](https://www.integrated-projects.com/3dscannerapp#)[Why genomics](https://www.integrated-projects.com/3dscannerapp#)
+
+![Image 58](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62ff86ede4658a3258973173_image%20140.png)
+
+![Image 59](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/630f4903f5f897721bb6a3c9_3dsapp.png)
+
+Scan-to-Plan.  
+Easier than ever.
+=================================
+
+Deliver your project on-time and on-budget by converting your 3D Scan to BIM & CAD in just a few steps.
+
+[Create BIM](https://bimit.integrated-projects.com/?utm_source=3dscannerapp&utm_medium=link&utm_campaign=initial_campaign)
+
+Get a design-ready 3D model of any space in hours, not weeks.
+=============================================================
+
+Avoid the headache of 3D modeling your existing conditions—let BIMIT fast track your project.  
+  
+\_\_\_\_  
+  
+Deliverables include:  
+  
+3D BIM in Autodesk Revit (RVT 2020+)  
+2D Floor Plans in CAD (.DWG)  
+3D Model in IFC (.IFC)
+
+### Delivered in hours, not months
+
+### to hit your next project's deadline
+
+### True-to-scan accuracy
+
+### reviewed by trained engineers
+
+### Easy, predictable pricing
+
+### to budget for your next project
+
+![Image 60](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/630d05d8c5d00bec77dc2716_Bimit%20first%20image0355.png)
+
+Scopes
+======
+
+MEP
+===
+
+Pipes, hard conduit, HVAC ducts, power & data outlets
+
+Furniture
+=========
+
+Desks, tables, shelves, chairs, seating, beds, cabinets, countertops, appliances, wall fixtures
+
+Architecture
+============
+
+Walls, floors, doors, windows, columns, ceilings, bathroom & light fixtures, roofs
+
+![Image 61](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62fce019308e3b3501183ad0_Frame%20257.png)
+
+### 3D genomics
+
+We summarize how the toolkit for charting genome topology
+
+![Image 62](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62fce019308e3b6224183ad5_Frame%20254.png)
+
+### Spatial variations
+
+We summarize how the toolkit for charting genome topology
+
+![Image 63](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62fce019308e3b14e0183ad2_Frame%20256.png)
+
+### Nucleic mapping
+
+We summarize how the toolkit for charting genome topology
+
+Frequently Asked Questions  
+
+-----------------------------
+
+### What is BIMIT?
+
+![Image 64: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)
+
+BIMIT is self-service BIM production that allows you to upload your registered point cloud and get a digital building model—in days, not weeks or months.
+
+#### Why does BIMIT matter?
+
+![Image 65: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)
+
+Any architect, engineer, reality capture specialist, or simply anyone with a 3D scan app on their phone can get BIM and CAD quickly and cost-effectively in standardized LOD200 BIM formats.
+
+#### What files does BIMIT include?
+
+![Image 66: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)
+
+All BIMIT orders include the following (4) packaged file types by default:  
+‍  
+1\. 3D Model in Autodesk Revit (RVT 2020+)  
+2\. 2D Floor Plan CAD (.DWG)  
+3\. 2D Reflected Ceiling Plan CAD (.DWG / only included with the "MEP" scope)  
+4\. 3D Model in .IFC
+
+#### What space size can BIMIT process?
+
+![Image 67: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)
+
+Due to current limitations with iPhone / iPad hardware, spaces are limited to 1,000 square feet in order to minimize the scan drift that is typical in scans over this size.
+
+#### What's BIMIT processing times?
+
+![Image 68: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)
+
+BIMIT is expected to consistently achieve the following production processing times (in hours). These hourly ranges start upon the time of receipt of the registered point cloud.  
+  
+‍**1 - 1000 ft²:** 48 - 72 Hours
+
+#### How will I receive my final deliverables?
+
+![Image 69: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)
+
+Final deliverables will be sent to the email address provided during the order process.
+
+#### How accurate is the final product?
+
+![Image 70: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)
+
+BIMIT final deliverables are “true-to-scan” and rely on the accuracy of the point cloud generated from the scan device. We recommend using best scan practices in order to get the most out of your point cloud.
+
+Any space,  
+Anywhere
+---------------------
+
+From homes, offices, hotels, gyms, hospitals, data centers, homes, warehouses—and everything in between.
+
+![Image 71](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127878ef15b149_95dc6a69.png)![Image 72](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278c97b15b155_347bb4b0.png)![Image 73](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278610915b14c_afac5f39.png)![Image 74](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278d3e215b176_dfb6ef42.png)![Image 75](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278346415b173_844e5a22.png)
+
+![Image 76](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278300715b164_07bda053%20(1).png)![Image 77](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce8012784a7915b167_d64d414f.png)![Image 78](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127830f215b152_d3ce3402.png)![Image 79](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278375415b15b_4ecd5523.png)![Image 80](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127878ef15b149_95dc6a69.png)
+
+![Image 81](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278d3e215b176_dfb6ef42.png)![Image 82](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278dd9815b17c_7a66a1e3.png)![Image 83](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127871e315b179_f6a5acf9.png)![Image 84](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278375415b15b_4ecd5523.png)![Image 85](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278860715b170_9d59e3f5.png)
+
+![Image 86](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278369315b16a_03e9f045.png)![Image 87](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278006015b15e_aa45f4cd.png)![Image 88](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278f04b15b158_b3b0bd86.png)![Image 89](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278d3e215b176_dfb6ef42.png)![Image 90](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278610915b14c_afac5f39.png)
+
+![Image 91](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278856715b161_2fed1d34.png)![Image 92](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278604215b17f_a0a9dca2.png)![Image 93](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278375415b15b_4ecd5523.png)![Image 94](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278856715b161_2fed1d34.png)![Image 95](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278dd9815b17c_7a66a1e3.png)
+
+![Image 96](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278860715b170_9d59e3f5.png)![Image 97](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127803d015b182_2cd023ba.png)![Image 98](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce8012785c9415b16d_8e3f0bbb.png)![Image 99](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127830f215b152_d3ce3402.png)![Image 100](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce8012785c9415b16d_8e3f0bbb.png)
+
+![Image 101](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278c97b15b155_347bb4b0.png)![Image 102](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278610915b14c_afac5f39.png)![Image 103](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce8012787fa615b14f_f424d18a.jpg)![Image 104](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278dd9815b17c_7a66a1e3.png)![Image 105](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127803d015b182_2cd023ba.png)
+
+![Image 106](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61fdb044f8afe36ca727945f_IP-logo_wide.png)
+
+[IPX](https://www.integrated-projects.com/ipx-overview)[BIMIT](https://www.integrated-projects.com/bimit)[Ideas](https://www.integrated-projects.com/ideas)
+
+##### BIMIT
+
+[Upload your Point Cloud](https://bimit.integrated-projects.com/)[Overview](https://www.integrated-projects.com/bimit)[Samples & FAQ](https://www.integrated-projects.com/bimit-specs)[Contact Us](https://www.integrated-projects.com/contact)
+
+##### Policies
+
+[Cookies & Privacy Policy](https://www.integrated-projects.com/privacy-policy)[Terms & Conditions](https://www.integrated-projects.com/terms-conditions)
+
+##### Social
+
+[![Image 107: Go to our Linkedin](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/63628fde3f243d261227897e_LinkedIn%20svg.svg)](https://www.linkedin.com/company/integrated-projects/)[![Image 108: Go to our Twitter](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/63628fdeff32e447a9d69e1c_Twitter%20%20svg.svg)](https://twitter.com/Integrated_IP)[![Image 109: Go to our Instagram](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/63628fde317f6beb4f3bd037_Instagram%20svg.svg)](https://www.integrated-projects.com/3dscannerapp#)[![Image 110: Go to our Facebook](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/63628fde4697492762c99267_Facebook%20svg.svg)](https://www.facebook.com/integratedprojects)
+
+##### Sign up to our Newsletter
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+Integrated Projects  |  All rights reserved
+
+## Metadata
+
+```json
+{
+  "title": "BIMIT x 3D Scanner App / Scan-to-Plan easier than ever",
+  "description": "Deliver your project on-time and on-budget by converting your 3D Scan to BIM & CAD in just a few steps.",
+  "url": "https://www.integrated-projects.com/3dscannerapp",
+  "content": "BIMIT x 3D Scanner App / Scan-to-Plan easier than ever\n===============\n     \n\n[![Image 56](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62209495894dd7d264389eb2_Logos_Bimit_BimitbyIPX-02.svg) x ![Image 57](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/630f429c450ad492d1679a68_3ds-logo.png)](https://www.integrated-projects.com/3dscannerapp#)\n\n[Our Manifesto](https://www.integrated-projects.com/3dscannerapp#)[Why genomics](https://www.integrated-projects.com/3dscannerapp#)\n\n![Image 58](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62ff86ede4658a3258973173_image%20140.png)\n\n![Image 59](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/630f4903f5f897721bb6a3c9_3dsapp.png)\n\nScan-to-Plan.  \nEasier than ever.\n=================================\n\nDeliver your project on-time and on-budget by converting your 3D Scan to BIM & CAD in just a few steps.\n\n[Create BIM](https://bimit.integrated-projects.com/?utm_source=3dscannerapp&utm_medium=link&utm_campaign=initial_campaign)\n\nGet a design-ready 3D model of any space in hours, not weeks.\n=============================================================\n\nAvoid the headache of 3D modeling your existing conditions—let BIMIT fast track your project.  \n  \n\\_\\_\\_\\_  \n  \nDeliverables include:  \n  \n3D BIM in Autodesk Revit (RVT 2020+)  \n2D Floor Plans in CAD (.DWG)  \n3D Model in IFC (.IFC)\n\n### Delivered in hours, not months\n\n### to hit your next project's deadline\n\n### True-to-scan accuracy\n\n### reviewed by trained engineers\n\n### Easy, predictable pricing\n\n### to budget for your next project\n\n![Image 60](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/630d05d8c5d00bec77dc2716_Bimit%20first%20image0355.png)\n\nScopes\n======\n\nMEP\n===\n\nPipes, hard conduit, HVAC ducts, power & data outlets\n\nFurniture\n=========\n\nDesks, tables, shelves, chairs, seating, beds, cabinets, countertops, appliances, wall fixtures\n\nArchitecture\n============\n\nWalls, floors, doors, windows, columns, ceilings, bathroom & light fixtures, roofs\n\n![Image 61](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62fce019308e3b3501183ad0_Frame%20257.png)\n\n### 3D genomics\n\nWe summarize how the toolkit for charting genome topology\n\n![Image 62](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62fce019308e3b6224183ad5_Frame%20254.png)\n\n### Spatial variations\n\nWe summarize how the toolkit for charting genome topology\n\n![Image 63](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62fce019308e3b14e0183ad2_Frame%20256.png)\n\n### Nucleic mapping\n\nWe summarize how the toolkit for charting genome topology\n\nFrequently Asked Questions  \n\n-----------------------------\n\n### What is BIMIT?\n\n![Image 64: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)\n\nBIMIT is self-service BIM production that allows you to upload your registered point cloud and get a digital building model—in days, not weeks or months.\n\n#### Why does BIMIT matter?\n\n![Image 65: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)\n\nAny architect, engineer, reality capture specialist, or simply anyone with a 3D scan app on their phone can get BIM and CAD quickly and cost-effectively in standardized LOD200 BIM formats.\n\n#### What files does BIMIT include?\n\n![Image 66: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)\n\nAll BIMIT orders include the following (4) packaged file types by default:  \n‍  \n1\\. 3D Model in Autodesk Revit (RVT 2020+)  \n2\\. 2D Floor Plan CAD (.DWG)  \n3\\. 2D Reflected Ceiling Plan CAD (.DWG / only included with the \"MEP\" scope)  \n4\\. 3D Model in .IFC\n\n#### What space size can BIMIT process?\n\n![Image 67: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)\n\nDue to current limitations with iPhone / iPad hardware, spaces are limited to 1,000 square feet in order to minimize the scan drift that is typical in scans over this size.\n\n#### What's BIMIT processing times?\n\n![Image 68: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)\n\nBIMIT is expected to consistently achieve the following production processing times (in hours). These hourly ranges start upon the time of receipt of the registered point cloud.  \n  \n‍**1 - 1000 ft²:** 48 - 72 Hours\n\n#### How will I receive my final deliverables?\n\n![Image 69: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)\n\nFinal deliverables will be sent to the email address provided during the order process.\n\n#### How accurate is the final product?\n\n![Image 70: Arrow icon](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/62618519f0768ff891964dee_arrow.svg)\n\nBIMIT final deliverables are “true-to-scan” and rely on the accuracy of the point cloud generated from the scan device. We recommend using best scan practices in order to get the most out of your point cloud.\n\nAny space,  \nAnywhere\n---------------------\n\nFrom homes, offices, hotels, gyms, hospitals, data centers, homes, warehouses—and everything in between.\n\n![Image 71](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127878ef15b149_95dc6a69.png)![Image 72](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278c97b15b155_347bb4b0.png)![Image 73](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278610915b14c_afac5f39.png)![Image 74](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278d3e215b176_dfb6ef42.png)![Image 75](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278346415b173_844e5a22.png)\n\n![Image 76](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278300715b164_07bda053%20(1).png)![Image 77](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce8012784a7915b167_d64d414f.png)![Image 78](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127830f215b152_d3ce3402.png)![Image 79](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278375415b15b_4ecd5523.png)![Image 80](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127878ef15b149_95dc6a69.png)\n\n![Image 81](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278d3e215b176_dfb6ef42.png)![Image 82](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278dd9815b17c_7a66a1e3.png)![Image 83](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127871e315b179_f6a5acf9.png)![Image 84](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278375415b15b_4ecd5523.png)![Image 85](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278860715b170_9d59e3f5.png)\n\n![Image 86](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278369315b16a_03e9f045.png)![Image 87](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278006015b15e_aa45f4cd.png)![Image 88](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278f04b15b158_b3b0bd86.png)![Image 89](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278d3e215b176_dfb6ef42.png)![Image 90](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278610915b14c_afac5f39.png)\n\n![Image 91](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278856715b161_2fed1d34.png)![Image 92](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278604215b17f_a0a9dca2.png)![Image 93](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278375415b15b_4ecd5523.png)![Image 94](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278856715b161_2fed1d34.png)![Image 95](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278dd9815b17c_7a66a1e3.png)\n\n![Image 96](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278860715b170_9d59e3f5.png)![Image 97](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127803d015b182_2cd023ba.png)![Image 98](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce8012785c9415b16d_8e3f0bbb.png)![Image 99](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127830f215b152_d3ce3402.png)![Image 100](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce8012785c9415b16d_8e3f0bbb.png)\n\n![Image 101](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278c97b15b155_347bb4b0.png)![Image 102](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278610915b14c_afac5f39.png)![Image 103](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce8012787fa615b14f_f424d18a.jpg)![Image 104](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce801278dd9815b17c_7a66a1e3.png)![Image 105](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61e9c2ce80127803d015b182_2cd023ba.png)\n\n![Image 106](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/61fdb044f8afe36ca727945f_IP-logo_wide.png)\n\n[IPX](https://www.integrated-projects.com/ipx-overview)[BIMIT](https://www.integrated-projects.com/bimit)[Ideas](https://www.integrated-projects.com/ideas)\n\n##### BIMIT\n\n[Upload your Point Cloud](https://bimit.integrated-projects.com/)[Overview](https://www.integrated-projects.com/bimit)[Samples & FAQ](https://www.integrated-projects.com/bimit-specs)[Contact Us](https://www.integrated-projects.com/contact)\n\n##### Policies\n\n[Cookies & Privacy Policy](https://www.integrated-projects.com/privacy-policy)[Terms & Conditions](https://www.integrated-projects.com/terms-conditions)\n\n##### Social\n\n[![Image 107: Go to our Linkedin](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/63628fde3f243d261227897e_LinkedIn%20svg.svg)](https://www.linkedin.com/company/integrated-projects/)[![Image 108: Go to our Twitter](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/63628fdeff32e447a9d69e1c_Twitter%20%20svg.svg)](https://twitter.com/Integrated_IP)[![Image 109: Go to our Instagram](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/63628fde317f6beb4f3bd037_Instagram%20svg.svg)](https://www.integrated-projects.com/3dscannerapp#)[![Image 110: Go to our Facebook](https://cdn.prod.website-files.com/61c4f2a9f268a169ae99ebe6/63628fde4697492762c99267_Facebook%20svg.svg)](https://www.facebook.com/integratedprojects)\n\n##### Sign up to our Newsletter\n\nThank you! Your submission has been received!\n\nOops! Something went wrong while submitting the form.\n\nIntegrated Projects  |  All rights reserved",
+  "usage": {
+    "tokens": 3832
+  }
+}
+```

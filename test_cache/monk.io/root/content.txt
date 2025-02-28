@@ -1,0 +1,71 @@
+Monk:  
+AI DevOps for the cloud.
+--------------------------------
+
+Monk is an autonomous AI DevOps agent that runs your app in the cloud.
+
+Infrastructure that takes care of itself
+
+#### From source code to  
+production. The AI way.
+
+Monk is a smart teammate that architects, builds and optimizes your running app.  
+It brings a collective DevOps intelligence to your system.  
+AI driven but always on your terms.
+
+![Image 24: monk ai feature illustration](https://monk.io/_nuxt/ai-team-1.TeKLhQ9Y.svg)Monk AI Builder
+
+Monk Builder is an AI agent that reads your source code to build an optimal cloud config (Dockerfiles and AI Packs). Avoid the pain of cloud config writing, maintenance, and chasing upgrades.
+
+![Image 25: monk ai feature illustration](blob:https://monk.io/ca0ba1231ca32dedf8783b08039b9d9e)Monk AI Consultant
+
+Monk Consultant is your superhuman DevOps chat partner. It has the context of your source code, cloud config, and the very latest best practices. Have the best possible infrastructure almost immediately.
+
+![Image 26: monk ai feature illustration](https://monk.io/_nuxt/ai-team-3.HTEHBFPG.svg)Monk AI Optimiser
+
+Monk Optimiser runs and watches your infrastructure. Maximizes your uptime and throughput. Minimizes costs. Optimizes the entire app as you sleep. Across different regions and clouds.
+
+Connect your repo
+-----------------
+
+Monk understands what your application needs by reading the source code. It perceives the optimal infrastructure around it and builds it in any cloud. Any service, simple or complex, any programming language. No config, no IaC, not even Dockerfiles are needed
+
+![Image 27: illustration](https://monk.io/_nuxt/collaborate-visual.fppPVhn1.svg)
+
+Collaborate with Monk
+---------------------
+
+Monk recommends your deployable diagram on the Monk whiteboard. Edit visually, in code, or in dialog with the Monk chat interface. Monk is fully aware of your entire system and can suggest changes, improvements and warnings.
+
+Monk takes care of it
+---------------------
+
+Monk watches your infrastructure and constantly analyzes runtime behavior of the app. It keeps services running, autoscales in response to traffic, and keeps the system secure. [Learn more](https://docs.monk.io/)
+
+![Image 28: illustration](https://monk.io/_nuxt/care-visual.p4J0N1J2.svg)
+
+All level up.
+
+### A dream teammate who elevates your entire team.
+
+Tireless
+
+Always on, always caffeinated.
+
+Superhuman
+
+Knows all the tricks. Seen it all. Never stops learning.
+
+Sprint in minutes
+
+Reset your time to market expectations. Turbo is the new normal.
+
+Magic not plumbing.
+
+Makes work more fun. Keep your hands clean and your mind clear.
+
+#### Privacy & Trust
+
+Monk takes security, privacy and trust seriously.
+
+#### Don’t just take our word for it

@@ -1,0 +1,185 @@
+Components - Streamlit Docs
+===============
+
+[![Image 2](https://docs.streamlit.io/logo.svg) #### Documentation](https://docs.streamlit.io/)
+
+_search_Search
+
+*   [_rocket\_launch_ Get started](https://docs.streamlit.io/get-started)
+    *   [Installation](https://docs.streamlit.io/get-started/installation)
+        
+        _add_
+        
+    *   [Fundamentals](https://docs.streamlit.io/get-started/fundamentals)
+        
+        _add_
+        
+    *   [First steps](https://docs.streamlit.io/get-started/tutorials)
+        
+        _add_
+        
+*   [_code_ Develop](https://docs.streamlit.io/develop)
+    *   [Concepts](https://docs.streamlit.io/develop/concepts)
+        
+        _remove_
+        
+        *   CORE
+            
+            * * *
+            
+        *   [Architecture & execution](https://docs.streamlit.io/develop/concepts/architecture)
+            
+            _add_
+            
+        *   [Multipage apps](https://docs.streamlit.io/develop/concepts/multipage-apps)
+            
+            _add_
+            
+        *   [App design](https://docs.streamlit.io/develop/concepts/design)
+            
+            _add_
+            
+        *   ADDITIONAL
+            
+            * * *
+            
+        *   [Connections and secrets](https://docs.streamlit.io/develop/concepts/connections)
+            
+            _add_
+            
+        *   [Custom components](https://docs.streamlit.io/develop/concepts/custom-components)
+            
+            _remove_
+            
+            *   [Intro to custom components](https://docs.streamlit.io/develop/concepts/custom-components/intro)
+                
+            *   [Create a Component](https://docs.streamlit.io/develop/concepts/custom-components/create)
+                
+            *   [Publish a Component](https://docs.streamlit.io/develop/concepts/custom-components/publish)
+                
+            *   [Limitations](https://docs.streamlit.io/develop/concepts/custom-components/limitations)
+                
+            *   [Component gallery_open\_in\_new_](https://streamlit.io/components)
+                
+        *   [Configuration and theming](https://docs.streamlit.io/develop/concepts/configuration)
+            
+            _add_
+            
+        *   [App testing](https://docs.streamlit.io/develop/concepts/app-testing)
+            
+            _add_
+            
+    *   [API reference](https://docs.streamlit.io/develop/api-reference)
+        
+        _add_
+        
+    *   [Tutorials](https://docs.streamlit.io/develop/tutorials)
+        
+        _add_
+        
+    *   [Quick reference](https://docs.streamlit.io/develop/quick-reference)
+        
+        _add_
+        
+*   [_web\_asset_ Deploy](https://docs.streamlit.io/deploy)
+    *   [Concepts](https://docs.streamlit.io/deploy/concepts)
+        
+        _add_
+        
+    *   [Streamlit Community Cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud)
+        
+        _add_
+        
+    *   [Snowflake](https://docs.streamlit.io/deploy/snowflake)
+        
+    *   [Other platforms](https://docs.streamlit.io/deploy/tutorials)
+        
+        _add_
+        
+*   [_school_ Knowledge base](https://docs.streamlit.io/knowledge-base)
+    *   [FAQ](https://docs.streamlit.io/knowledge-base/using-streamlit)
+        
+    *   [Installing dependencies](https://docs.streamlit.io/knowledge-base/dependencies)
+        
+    *   [Deployment issues](https://docs.streamlit.io/knowledge-base/deploy)
+        
+
+*   [Home](https://docs.streamlit.io/)/
+*   [Develop](https://docs.streamlit.io/develop)/
+*   [Concepts](https://docs.streamlit.io/develop/concepts)/
+*   [Custom components](https://docs.streamlit.io/develop/concepts/custom-components)
+
+[](https://docs.streamlit.io/library/components#custom-components)Custom Components
+
+
+=====================================================================================
+
+Components are third-party Python modules that extend what's possible with Streamlit.
+
+[](https://docs.streamlit.io/library/components#how-to-use-a-component)How to use a Component
+
+
+-----------------------------------------------------------------------------------------------
+
+Components are super easy to use:
+
+1.  Start by finding the Component you'd like to use. Two great resources for this are:
+    
+    *   The [Component gallery](https://streamlit.io/components)
+    *   [This thread](https://discuss.streamlit.io/t/streamlit-components-community-tracker/4634), by Fanilo A. from our forums.
+2.  Install the Component using your favorite Python package manager. This step and all following steps are described in your component's instructions.
+    
+    For example, to use the fantastic [AgGrid Component](https://github.com/PablocFonseca/streamlit-aggrid), you first install it with:
+    
+    ```
+    pip install streamlit-aggrid
+    ```
+    
+3.  In your Python code, import the Component as described in its instructions. For AgGrid, this step is:
+    
+    ```
+    from st_aggrid import AgGrid
+    ```
+    
+4.  ...now you're ready to use it! For AgGrid, that's:
+    
+    ```
+    AgGrid(my_dataframe)
+    ```
+    
+
+[](https://docs.streamlit.io/library/components#making-your-own-component)Making your own Component
+
+
+-----------------------------------------------------------------------------------------------------
+
+If you're interested in making your own component, check out the following resources:
+
+*   [Create a Component](https://docs.streamlit.io/develop/concepts/custom-components/create)
+*   [Publish a Component](https://docs.streamlit.io/develop/concepts/custom-components/publish)
+*   [Components API](https://docs.streamlit.io/develop/concepts/custom-components/intro)
+*   [Blog post for when we launched Components!](https://blog.streamlit.io/introducing-streamlit-components/)
+
+Alternatively, if you prefer to learn using videos, our engineer Tim Conkling has put together some amazing tutorials:
+
+##### [](https://docs.streamlit.io/library/components#video-tutorial-part-1)Video tutorial, part 1
+
+##### [](https://docs.streamlit.io/library/components#video-tutorial-part-2)Video tutorial, part 2
+
+[Previous: Connections and secrets](https://docs.streamlit.io/develop/concepts/connections)[Next: Intro to custom components](https://docs.streamlit.io/develop/concepts/custom-components/intro)
+
+_forum_
+
+### Still have questions?
+
+Our [forums](https://discuss.streamlit.io/) are full of helpful information and Streamlit experts.
+
+* * *
+
+[Home](https://docs.streamlit.io/)[Contact Us](mailto:hello@streamlit.io?subject=Contact%20from%20documentation%20)[Community](https://discuss.streamlit.io/)
+
+[](https://github.com/streamlit "GitHub")[](https://www.youtube.com/channel/UC3LD42rjj-Owtxsa6PwGU5Q "YouTube")[](https://twitter.com/streamlit "Twitter")[](https://www.linkedin.com/company/streamlit "LinkedIn")[](https://info.snowflake.com/streamlit-newsletter-sign-up.html "Newsletter")
+
+© 2025 Snowflake Inc.Cookie policy
+
+_forum_ Ask AI

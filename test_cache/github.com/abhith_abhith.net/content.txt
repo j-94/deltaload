@@ -1,0 +1,1190 @@
+GitHub - abhith/abhith.net: Personal website and blog running on Gatsby. Contains a collection of developer stories, videos, snippets, and tools grouped by topics.
+===============
+                                           
+
+[Skip to content](https://github.com/abhith/abhith.net?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fabhith%2Fabhith.net%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fabhith%2Fabhith.net%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=abhith%2Fabhith.net) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[abhith](https://github.com/abhith) / **[abhith.net](https://github.com/abhith/abhith.net)** Public
+
+*   Sponsor
+    
+    Sponsor abhith/abhith.net
+    =========================
+    
+    ##### External links
+    
+    [https://www.abhith.net/donate/](https://www.abhith.net/donate/)
+    
+    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
+    
+    [Report abuse](https://github.com/contact/report-abuse?report=abhith%2Fabhith.net+%28Repository+Funding+Links%29)
+    
+*   [Notifications](https://github.com/login?return_to=%2Fabhith%2Fabhith.net) You must be signed in to change notification settings
+*   [Fork 24](https://github.com/login?return_to=%2Fabhith%2Fabhith.net)
+*   [Star 63](https://github.com/login?return_to=%2Fabhith%2Fabhith.net)
+    
+
+Personal website and blog running on Gatsby. Contains a collection of developer stories, videos, snippets, and tools grouped by topics.
+
+[www.abhith.net](https://www.abhith.net/ "https://www.abhith.net")
+
+### License
+
+[MIT license](https://github.com/abhith/abhith.net/blob/master/LICENSE)
+
+[63 stars](https://github.com/abhith/abhith.net/stargazers) [24 forks](https://github.com/abhith/abhith.net/forks) [Branches](https://github.com/abhith/abhith.net/branches) [Tags](https://github.com/abhith/abhith.net/tags) [Activity](https://github.com/abhith/abhith.net/activity)
+
+[Star](https://github.com/login?return_to=%2Fabhith%2Fabhith.net)
+
+[Notifications](https://github.com/login?return_to=%2Fabhith%2Fabhith.net) You must be signed in to change notification settings
+
+*   [Code](https://github.com/abhith/abhith.net)
+*   [Issues 8](https://github.com/abhith/abhith.net/issues)
+*   [Pull requests 12](https://github.com/abhith/abhith.net/pulls)
+*   [Discussions](https://github.com/abhith/abhith.net/discussions)
+*   [Actions](https://github.com/abhith/abhith.net/actions)
+*   [Projects 1](https://github.com/abhith/abhith.net/projects)
+*   [Security](https://github.com/abhith/abhith.net/security)
+*   [Insights](https://github.com/abhith/abhith.net/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/abhith/abhith.net)
+*   [Issues](https://github.com/abhith/abhith.net/issues)
+*   [Pull requests](https://github.com/abhith/abhith.net/pulls)
+*   [Discussions](https://github.com/abhith/abhith.net/discussions)
+*   [Actions](https://github.com/abhith/abhith.net/actions)
+*   [Projects](https://github.com/abhith/abhith.net/projects)
+*   [Security](https://github.com/abhith/abhith.net/security)
+*   [Insights](https://github.com/abhith/abhith.net/pulse)
+
+abhith/abhith.net
+=================
+
+  
+
+ master
+
+[**21** Branches](https://github.com/abhith/abhith.net/branches)[**5** Tags](https://github.com/abhith/abhith.net/tags)
+
+[](https://github.com/abhith/abhith.net/branches)[](https://github.com/abhith/abhith.net/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 13: abhith](https://avatars.githubusercontent.com/u/7039457?v=4&size=40)](https://github.com/abhith)[abhith](https://github.com/abhith/abhith.net/commits?author=abhith)
+
+[feat: update recommended resources with new stories and videos](https://github.com/abhith/abhith.net/commit/c0aa7b787497bf0dd17335da4ab740b1dcc1f367)
+
+Jan 7, 2025
+
+[c0aa7b7](https://github.com/abhith/abhith.net/commit/c0aa7b787497bf0dd17335da4ab740b1dcc1f367) · Jan 7, 2025
+
+History
+-------
+
+[3,237 Commits](https://github.com/abhith/abhith.net/commits/master/)
+
+[](https://github.com/abhith/abhith.net/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/abhith/abhith.net/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/abhith/abhith.net/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[ci: Update dependabot.yml](https://github.com/abhith/abhith.net/commit/8cea00b7f0e81c76c1f9e5fd644874e20f38b98f "ci: Update dependabot.yml")
+
+
+
+ | 
+
+Dec 8, 2024
+
+ |
+| 
+
+[.husky](https://github.com/abhith/abhith.net/tree/master/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+[.husky](https://github.com/abhith/abhith.net/tree/master/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+[fix: commitlint](https://github.com/abhith/abhith.net/commit/ec140d12e8be5b12dca06775e6346e2995e97a6f "fix: commitlint")
+
+
+
+ | 
+
+Jul 26, 2021
+
+ |
+| 
+
+[.vscode](https://github.com/abhith/abhith.net/tree/master/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[.vscode](https://github.com/abhith/abhith.net/tree/master/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[chore: configure edge tool for local development](https://github.com/abhith/abhith.net/commit/08dbedbaf43ef80ab88b6ca7a7ecbd91e867ac9a "chore: configure edge tool for local development")
+
+
+
+ | 
+
+May 23, 2022
+
+ |
+| 
+
+[content](https://github.com/abhith/abhith.net/tree/master/content "content")
+
+
+
+
+
+
+
+ | 
+
+[content](https://github.com/abhith/abhith.net/tree/master/content "content")
+
+
+
+
+
+
+
+ | 
+
+[feat: update recommended resources with new stories and videos](https://github.com/abhith/abhith.net/commit/c0aa7b787497bf0dd17335da4ab740b1dcc1f367 "feat: update recommended resources with new stories and videos
+Added new entries to recommended stories and videos, including topics on AI, GitHub Copilot, and Microsoft Teams. Enhanced AI topic description in `topics.yml`.")
+
+
+
+ | 
+
+Jan 7, 2025
+
+ |
+| 
+
+[gatsby](https://github.com/abhith/abhith.net/tree/master/gatsby "gatsby")
+
+
+
+
+
+
+
+ | 
+
+[gatsby](https://github.com/abhith/abhith.net/tree/master/gatsby "gatsby")
+
+
+
+
+
+
+
+ | 
+
+[refactor(graphql): remove redundant body field from queries](https://github.com/abhith/abhith.net/commit/d7a843c68964b29f145154d6533936591f3098a9 "refactor(graphql): remove redundant body field from queries")
+
+
+
+ | 
+
+May 24, 2023
+
+ |
+| 
+
+[samples/azure-devops-ci-cd-pipeline-involving-helm-3-acr-aks](https://github.com/abhith/abhith.net/tree/master/samples/azure-devops-ci-cd-pipeline-involving-helm-3-acr-aks "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[samples/azure-devops-ci-cd-pipeline-involving-helm-3-acr-aks](https://github.com/abhith/abhith.net/tree/master/samples/azure-devops-ci-cd-pipeline-involving-helm-3-acr-aks "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[content(articles): update](https://github.com/abhith/abhith.net/commit/8a81f0aa50e4036670b460e4673c79c70af83276 "content(articles): update
+Azure DevOps - CI/CD Pipeline involving Helm 3, ACR & AKS")
+
+
+
+ | 
+
+Aug 19, 2020
+
+ |
+| 
+
+[src](https://github.com/abhith/abhith.net/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/abhith/abhith.net/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[feat: update recommended resources with new stories and videos](https://github.com/abhith/abhith.net/commit/c0aa7b787497bf0dd17335da4ab740b1dcc1f367 "feat: update recommended resources with new stories and videos
+Added new entries to recommended stories and videos, including topics on AI, GitHub Copilot, and Microsoft Teams. Enhanced AI topic description in `topics.yml`.")
+
+
+
+ | 
+
+Jan 7, 2025
+
+ |
+| 
+
+[static](https://github.com/abhith/abhith.net/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[static](https://github.com/abhith/abhith.net/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[chore:bump-gatsby-version (](https://github.com/abhith/abhith.net/commit/5b6056bc457ccad2e76217bda6da2e85c59f323e "chore:bump-gatsby-version (#1789)
+* graphql migration w.r.t gatsby v5
+* migration w.r.t gatsby v5
+* all blog posts migrated to folder structure with hero images nearby
+* removed gatsby-remark-relative-images
+* change prism theme
+* datetime sorting
+* content images moved closer
+BREAKING CHANGE: too many changes w.r.t gatsbyjs migration")[#1789](https://github.com/abhith/abhith.net/pull/1789)[)](https://github.com/abhith/abhith.net/commit/5b6056bc457ccad2e76217bda6da2e85c59f323e "chore:bump-gatsby-version (#1789)
+* graphql migration w.r.t gatsby v5
+* migration w.r.t gatsby v5
+* all blog posts migrated to folder structure with hero images nearby
+* removed gatsby-remark-relative-images
+* change prism theme
+* datetime sorting
+* content images moved closer
+BREAKING CHANGE: too many changes w.r.t gatsbyjs migration")
+
+
+
+ | 
+
+May 20, 2023
+
+ |
+| 
+
+[.commitlintrc.yml](https://github.com/abhith/abhith.net/blob/master/.commitlintrc.yml ".commitlintrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[.commitlintrc.yml](https://github.com/abhith/abhith.net/blob/master/.commitlintrc.yml ".commitlintrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[chore: add ui type to commitlint](https://github.com/abhith/abhith.net/commit/adce46e89b62c3e3c25a5241b014c13627539cb8 "chore: add ui type to commitlint")
+
+
+
+ | 
+
+Nov 3, 2019
+
+ |
+| 
+
+[.gitignore](https://github.com/abhith/abhith.net/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/abhith/abhith.net/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[netlify gatsby starter](https://github.com/abhith/abhith.net/commit/0635f1b7d42daa6b74d0a92d80f2b3daf5f373f0 "netlify gatsby starter")
+
+
+
+ | 
+
+Apr 18, 2019
+
+ |
+| 
+
+[.prettierignore](https://github.com/abhith/abhith.net/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/abhith/abhith.net/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[chore: add eslint, prettier configs](https://github.com/abhith/abhith.net/commit/b209237e0fdbf2ba95ceac116bd79e6c0c868dbc "chore: add eslint, prettier configs")
+
+
+
+ | 
+
+Apr 23, 2022
+
+ |
+| 
+
+[.sonarcloud.properties](https://github.com/abhith/abhith.net/blob/master/.sonarcloud.properties ".sonarcloud.properties")
+
+
+
+
+
+
+
+ | 
+
+[.sonarcloud.properties](https://github.com/abhith/abhith.net/blob/master/.sonarcloud.properties ".sonarcloud.properties")
+
+
+
+
+
+
+
+ | 
+
+[Create .sonarcloud.properties](https://github.com/abhith/abhith.net/commit/89c8e7554fad89747a01fc76a14b76013026bb47 "Create .sonarcloud.properties")
+
+
+
+ | 
+
+Nov 25, 2019
+
+ |
+| 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/abhith/abhith.net/blob/master/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/abhith/abhith.net/blob/master/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[Update CODE\_OF\_CONDUCT.md](https://github.com/abhith/abhith.net/commit/2142f25aaae1a219300a321ae93a1508f64bfc73 "Update CODE_OF_CONDUCT.md
+Email updated")
+
+
+
+ | 
+
+May 1, 2019
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/abhith/abhith.net/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/abhith/abhith.net/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[updated contributing](https://github.com/abhith/abhith.net/commit/aa42a0bf20fd0eb0effeb4cdd42d89f6658db465 "updated contributing")
+
+
+
+ | 
+
+Aug 30, 2019
+
+ |
+| 
+
+[LICENSE](https://github.com/abhith/abhith.net/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/abhith/abhith.net/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[license updated](https://github.com/abhith/abhith.net/commit/25add16c5f61ce1fa8b5928966eaddd84af78326 "license updated")
+
+
+
+ | 
+
+Sep 1, 2019
+
+ |
+| 
+
+[README.md](https://github.com/abhith/abhith.net/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/abhith/abhith.net/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: update readme](https://github.com/abhith/abhith.net/commit/c7c4d2f4bdeb059f7d0365f173ac44187cbde51b "chore: update readme
+replace render with vercel")
+
+
+
+ | 
+
+Feb 22, 2023
+
+ |
+| 
+
+[azure-pipelines.yml](https://github.com/abhith/abhith.net/blob/master/azure-pipelines.yml "azure-pipelines.yml")
+
+
+
+
+
+
+
+ | 
+
+[azure-pipelines.yml](https://github.com/abhith/abhith.net/blob/master/azure-pipelines.yml "azure-pipelines.yml")
+
+
+
+
+
+
+
+ | 
+
+[build: Update azure-pipelines.yml for Azure Pipelines](https://github.com/abhith/abhith.net/commit/28c3831c364034d9764f215ddc01e1733b73e7ce "build: Update azure-pipelines.yml for Azure Pipelines")
+
+
+
+ | 
+
+Feb 4, 2020
+
+ |
+| 
+
+[commitlint.config.js](https://github.com/abhith/abhith.net/blob/master/commitlint.config.js "commitlint.config.js")
+
+
+
+
+
+
+
+ | 
+
+[commitlint.config.js](https://github.com/abhith/abhith.net/blob/master/commitlint.config.js "commitlint.config.js")
+
+
+
+
+
+
+
+ | 
+
+[fix: commitlint](https://github.com/abhith/abhith.net/commit/ec140d12e8be5b12dca06775e6346e2995e97a6f "fix: commitlint")
+
+
+
+ | 
+
+Jul 26, 2021
+
+ |
+| 
+
+[gatsby-browser.js](https://github.com/abhith/abhith.net/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-browser.js](https://github.com/abhith/abhith.net/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[chore:bump-gatsby-version (](https://github.com/abhith/abhith.net/commit/5b6056bc457ccad2e76217bda6da2e85c59f323e "chore:bump-gatsby-version (#1789)
+* graphql migration w.r.t gatsby v5
+* migration w.r.t gatsby v5
+* all blog posts migrated to folder structure with hero images nearby
+* removed gatsby-remark-relative-images
+* change prism theme
+* datetime sorting
+* content images moved closer
+BREAKING CHANGE: too many changes w.r.t gatsbyjs migration")[#1789](https://github.com/abhith/abhith.net/pull/1789)[)](https://github.com/abhith/abhith.net/commit/5b6056bc457ccad2e76217bda6da2e85c59f323e "chore:bump-gatsby-version (#1789)
+* graphql migration w.r.t gatsby v5
+* migration w.r.t gatsby v5
+* all blog posts migrated to folder structure with hero images nearby
+* removed gatsby-remark-relative-images
+* change prism theme
+* datetime sorting
+* content images moved closer
+BREAKING CHANGE: too many changes w.r.t gatsbyjs migration")
+
+
+
+ | 
+
+May 20, 2023
+
+ |
+| 
+
+[gatsby-config.mjs](https://github.com/abhith/abhith.net/blob/master/gatsby-config.mjs "gatsby-config.mjs")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-config.mjs](https://github.com/abhith/abhith.net/blob/master/gatsby-config.mjs "gatsby-config.mjs")
+
+
+
+
+
+
+
+ | 
+
+[feat: support embedded tweets](https://github.com/abhith/abhith.net/commit/53688bf71982265f5bff11f0ed14546fffa9b791 "feat: support embedded tweets
+fixes #1801")
+
+
+
+ | 
+
+Jun 4, 2023
+
+ |
+| 
+
+[gatsby-node.js](https://github.com/abhith/abhith.net/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-node.js](https://github.com/abhith/abhith.net/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: use createschemacustomization instead of source node](https://github.com/abhith/abhith.net/commit/58f88d02b3e5d212306c297b41fa86b7aed5aa6d "chore: use createschemacustomization instead of source node")
+
+
+
+ | 
+
+May 11, 2023
+
+ |
+| 
+
+[gatsby-ssr.js](https://github.com/abhith/abhith.net/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-ssr.js](https://github.com/abhith/abhith.net/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[refactor: switch to clarity plugin instead of custom ssr code](https://github.com/abhith/abhith.net/commit/76dda1efe7e2a72d849428572d40170ebe24fe33 "refactor: switch to clarity plugin instead of custom ssr code")
+
+
+
+ | 
+
+Aug 27, 2022
+
+ |
+| 
+
+[package.json](https://github.com/abhith/abhith.net/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/abhith/abhith.net/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[build(deps): bump gatsby-remark-responsive-iframe from 6.13.2 to 6.14.0](https://github.com/abhith/abhith.net/commit/47754c9eeb3dfc1cd879cb9e1538aedf9d7621e2 "build(deps): bump gatsby-remark-responsive-iframe from 6.13.2 to 6.14.0
+Bumps [gatsby-remark-responsive-iframe](https://github.com/gatsbyjs/gatsby/tree/HEAD/packages/gatsby-remark-responsive-iframe) from 6.13.2 to 6.14.0.
+- [Release notes](https://github.com/gatsbyjs/gatsby/releases)
+- [Changelog](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-remark-responsive-iframe/CHANGELOG.md)
+- [Commits](https://github.com/gatsbyjs/gatsby/commits/gatsby-remark-responsive-iframe@6.14.0/packages/gatsby-remark-responsive-iframe)
+---
+updated-dependencies:
+- dependency-name: gatsby-remark-responsive-iframe
+dependency-type: direct:production
+update-type: version-update:semver-minor
+...
+Signed-off-by: dependabot[bot] <support@github.com>")
+
+
+
+ | 
+
+Dec 9, 2024
+
+ |
+| 
+
+[yarn.lock](https://github.com/abhith/abhith.net/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/abhith/abhith.net/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[build(deps): bump gatsby-remark-responsive-iframe from 6.13.2 to 6.14.0](https://github.com/abhith/abhith.net/commit/47754c9eeb3dfc1cd879cb9e1538aedf9d7621e2 "build(deps): bump gatsby-remark-responsive-iframe from 6.13.2 to 6.14.0
+Bumps [gatsby-remark-responsive-iframe](https://github.com/gatsbyjs/gatsby/tree/HEAD/packages/gatsby-remark-responsive-iframe) from 6.13.2 to 6.14.0.
+- [Release notes](https://github.com/gatsbyjs/gatsby/releases)
+- [Changelog](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-remark-responsive-iframe/CHANGELOG.md)
+- [Commits](https://github.com/gatsbyjs/gatsby/commits/gatsby-remark-responsive-iframe@6.14.0/packages/gatsby-remark-responsive-iframe)
+---
+updated-dependencies:
+- dependency-name: gatsby-remark-responsive-iframe
+dependency-type: direct:production
+update-type: version-update:semver-minor
+...
+Signed-off-by: dependabot[bot] <support@github.com>")
+
+
+
+ | 
+
+Dec 9, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/abhith/abhith.net?screenshot=true#)
+*   [Code of conduct](https://github.com/abhith/abhith.net?screenshot=true#)
+*   [MIT license](https://github.com/abhith/abhith.net?screenshot=true#)
+
+[WWW.ABHITH.NET](http://www.abhith.net/)
+========================================
+
+[](https://github.com/abhith/abhith.net?screenshot=true#wwwabhithnet)
+
+[![Image 14: Discord](https://camo.githubusercontent.com/d75cfd160bbcda3adb0ce1836e4a0cb271f3e553db3e656b141e5d6793f49c3a/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f363731333634393533343837333130383534)](https://camo.githubusercontent.com/d75cfd160bbcda3adb0ce1836e4a0cb271f3e553db3e656b141e5d6793f49c3a/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f363731333634393533343837333130383534)
+
+[![Image 15: website](https://github.com/abhith/abhith.net/raw/master/static/img/repo/banner.png)](https://github.com/abhith/abhith.net/blob/master/static/img/repo/banner.png)
+
+This repo serves the source code for [www.abhith.net](https://www.abhith.net/). It follows the [JAMstack architecture](https://jamstack.org/). Designed using [Bulma](https://bulma.io/), and using [Vercel](https://vercel.com/) for continuous deployment.
+
+Main Sections
+-------------
+
+[](https://github.com/abhith/abhith.net?screenshot=true#main-sections)
+
+Following are the main sections apart from my [blog](https://www.abhith.net/blog).
+
+### Developer Stories
+
+[](https://github.com/abhith/abhith.net?screenshot=true#developer-stories)
+
+I read a lot, and that's how I stay updated about what's going on around. Here I am listing out some of the stories which I find useful. Find them [here](https://www.abhith.net/recommended/stories/).
+
+### Videos
+
+[](https://github.com/abhith/abhith.net?screenshot=true#videos)
+
+Here I am listing videos which worth sharing. Watch them [here](https://www.abhith.net/recommended/videos/)
+
+### Tools and Services
+
+[](https://github.com/abhith/abhith.net?screenshot=true#tools-and-services)
+
+Here I am sharing some tools and services which I find useful.
+
+CONTRIBUTING
+------------
+
+[](https://github.com/abhith/abhith.net?screenshot=true#contributing)
+
+You can also suggest me good technical articles, videos and freemium tools and services. Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](https://github.com/abhith/abhith.net/blob/master/CODE_OF_CONDUCT.md).
+
+About
+-----
+
+Personal website and blog running on Gatsby. Contains a collection of developer stories, videos, snippets, and tools grouped by topics.
+
+[www.abhith.net](https://www.abhith.net/ "https://www.abhith.net")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [blog](https://github.com/topics/blog "Topic: blog") [portfolio](https://github.com/topics/portfolio "Topic: portfolio") [gatsby](https://github.com/topics/gatsby "Topic: gatsby") [bulma](https://github.com/topics/bulma "Topic: bulma") [videos](https://github.com/topics/videos "Topic: videos") [awesome-list](https://github.com/topics/awesome-list "Topic: awesome-list") [jamstack](https://github.com/topics/jamstack "Topic: jamstack") [mdx](https://github.com/topics/mdx "Topic: mdx") [developer-stories](https://github.com/topics/developer-stories "Topic: developer-stories") [giscus](https://github.com/topics/giscus "Topic: giscus")
+
+### Resources
+
+[Readme](https://github.com/abhith/abhith.net?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/abhith/abhith.net?screenshot=true#MIT-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/abhith/abhith.net?screenshot=true#coc-ov-file)
+
+[Activity](https://github.com/abhith/abhith.net/activity)
+
+### Stars
+
+[**63** stars](https://github.com/abhith/abhith.net/stargazers)
+
+### Watchers
+
+[**3** watching](https://github.com/abhith/abhith.net/watchers)
+
+### Forks
+
+[**24** forks](https://github.com/abhith/abhith.net/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fabhith%2Fabhith.net&report=abhith+%28user%29)
+
+Sponsor this project
+--------------------
+
+*   [https://www.abhith.net/donate/](https://www.abhith.net/donate/)
+
+[Contributors 7](https://github.com/abhith/abhith.net/graphs/contributors)
+--------------------------------------------------------------------------
+
+*   [![Image 16: @abhith](https://avatars.githubusercontent.com/u/7039457?s=64&v=4)](https://github.com/abhith)
+*   [![Image 17: @dependabot-preview[bot]](https://avatars.githubusercontent.com/in/2141?s=64&v=4)](https://github.com/apps/dependabot-preview)
+*   [![Image 18: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 19: @renovate-bot](https://avatars.githubusercontent.com/u/25180681?s=64&v=4)](https://github.com/renovate-bot)
+*   [![Image 20: @ImgBotApp](https://avatars.githubusercontent.com/u/31427850?s=64&v=4)](https://github.com/ImgBotApp)
+*   [![Image 21: @snyk-bot](https://avatars.githubusercontent.com/u/19733683?s=64&v=4)](https://github.com/snyk-bot)
+*   [![Image 22: @skkasi](https://avatars.githubusercontent.com/u/10336787?s=64&v=4)](https://github.com/skkasi)
+
+Languages
+---------
+
+*   [MDX 61.3%](https://github.com/abhith/abhith.net/search?l=mdx)
+*   [JavaScript 34.8%](https://github.com/abhith/abhith.net/search?l=javascript)
+*   [SCSS 3.9%](https://github.com/abhith/abhith.net/search?l=scss)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

@@ -1,0 +1,1469 @@
+---
+title: Monthly Updates ✨
+description: 30 New Features to Elevate Your Experience!
+url: https://www.lindoai.com/articles/en/updates/august
+timestamp: 2025-01-20T16:05:10.182Z
+domain: www.lindoai.com
+path: articles_en_updates_august
+---
+
+# Monthly Updates ✨
+
+
+30 New Features to Elevate Your Experience!
+
+
+## Content
+
+![Image 407: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/24211237.png)
+
+November & December 2024 updates
+
+### Exciting Improvements
+
+
+
+
+-------------------------------
+
+Significant platform upgrades to empower your web design business.
+
+Happy New Year! As we step into 2025, we’re thrilled to bring you the highlights of November and December updates. Over the past two months, we’ve focused on enhancing your experience with powerful new features, improving tools, and introducing updates that empower your web design business. Let’s dive into these exciting changes:
+
+1\. Client Billing
+------------------
+
+Client Billing is an essential part of a web design business, enabling you to automate client payments effortlessly. Previously available in beta, this feature is now accessible to all partners with Client Billing in their plan. Here’s what’s included:
+
+*   **Send Invoice:** Easily charge your clients for website setup fees or additional services. For example, if you're building a website for a client, you can invoice them for the initial setup and design work. Similarly, you can send invoices for extra services like SEO optimization or content updates, keeping all transactions organized.
+*   **Setup Subscription:** Automate recurring payments for ongoing services like hosting, maintenance, or other regular offerings. For example, you can set up a monthly subscription for clients who need continuous support for their website. This ensures reliable cash flow and eliminates the need to manually request payments.
+*   **Learn more:** [How do I get started with client billing?](https://lindo.ai/help/en/client-billing-get-started)
+
+![Image 408: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/11720127.png)
+
+Our Payment Solution is now available to all website owners on supported plans! Website editors can seamlessly add products to their sites and sell directly online. Here’s what’s included:
+
+*   **Fixed Amount:** Ideal for one-time purchases, services, or courses. For instance, consultants can charge for individual sessions or sell digital downloads like e-books and templates directly through their websites.
+*   **Subscription:** Perfect for recurring services or memberships. Whether it’s premium content, online courses, or fitness plans, you can create steady income streams with automated billing.
+*   **Free (Opt-in Form):** Use this feature to grow your audience with lead-generation forms or newsletter signups. Offer a free resource, such as an e-book or webinar, in exchange for email addresses, building a valuable contact list.
+*   **Learn more:**  [How do I get started with payment?](https://lindo.ai/help/en/payment-get-started)
+
+![Image 409: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/31189001.png)
+
+*   **Discount Code:** Offer promotions and discounts on your products.
+*   **Adjustable Quantity:** Allow customers to select quantities for their purchases.
+*   **Customer Shipping Address:** Collect accurate delivery details seamlessly.
+*   **Phone Number:** Capture phone numbers for direct communication or order updates.
+
+![Image 410: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/26707240.png)
+
+We’re taking White Labeling to the next level with enhanced flexibility and infrastructure updates to grow your web design business. Here’s what’s new:
+
+Try the full white-label experience free for 14 days! During the trial, you can set up your agency, add a custom logo, and let clients create websites under a lindo.agency domain. Explore all functionalities before upgrading to remove branding and switch to your custom domain.
+
+![Image 411: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/28883171.png)
+
+5\. Unique lindo.agency Domain
+
+Each partner receives a dedicated lindo.agency domain slug (e.g., myagency.app.lindo.agency) for testing white-label features in a live environment. Upgrade to add your custom domain (e.g., app.myagency.com).
+
+![Image 412: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67709381.png)
+
+6\. Agency Panel for All Paid Plans
+
+All paid plans now include access to the Agency Panel, enabling client management, customization, and efficient business operations.
+
+![Image 413: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/24269638.png)
+
+Add essential tools like chatbots, Google Tag Manager, analytics, or custom scripts to track user behavior and enhance communication.
+
+![Image 414: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/56127310.png)
+
+Personalize your platform with custom CSS and JS to adjust layouts, tweak branding, or introduce unique functionalities.
+
+![Image 415: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/00118649.png)
+
+9\. Google Login for Agencies
+
+Clients can now log in using Google, improving accessibility and user convenience.
+
+![Image 416: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/42327807.png)
+
+10\. New White Label Onboarding Process
+
+A revamped process makes setting up your agency more intuitive and flexible.
+
+![Image 417: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/36208125.png)
+
+Agency Panel users can now upload their logo directly for a more branded experience.
+
+![Image 418: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/84861145.png)
+
+All messages now appear as toasts, providing a modern and non-intrusive way to display notifications. Important updates and warnings are now more visible and user-friendly.
+
+![Image 419: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94216569.png)
+
+13\. Custom Code in Preview
+
+Custom code updates are now reflected in real time in preview mode. Whether you're editing CSS, JavaScript, or scripts, you’ll see the changes immediately, enabling precise adjustments.
+
+![Image 420: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/59356570.png)
+
+Our website has undergone a major update with a fresh header, footer, and new pages—all built using lindo.ai. These enhancements showcase the platform's capabilities and serve as a template preview for future use.
+
+![Image 421: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/81423611.png)
+
+15\. Website Concept (Draft/Active)
+
+We’ve revamped the website creation flow with clearer terminology:
+
+*   **Drafts:** Websites are now created as drafts and remain active for 14 days, allowing you to edit and explore features.
+*   **Activate Now:** Use this new button to transition drafts to active websites by applying your Active Website Credits.
+*   **Unlimited Drafts:** Create unlimited drafts and activate them as needed, ensuring flexibility while aligning with your plan.
+
+![Image 422: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/16289060.png)
+
+*   **Design:** Resolved issues with block duplication, background color inconsistencies, and padding errors.
+*   **Tailwind CSS:** Fixed delays and bugs in applying Tailwind CSS classes.
+*   **Device Preview Mode:** Addressed bugs in device preview functionality.
+
+![Image 423: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/79583753.png)
+
+*   **Domain Management:** Simplified tab organization for clearer navigation.
+*   **Upgrade Buttons:** Added upgrade buttons within features requiring higher-tier plans.
+
+![Image 424: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/09238552.png)
+
+*   **Upgrade Modal:** Introduced a polished modal for a seamless plan upgrade experience.
+*   **Billing Page:** Improved design and usability for better navigation.
+
+![Image 425: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/25805027.png)
+
+We’ve added new block variations to enhance layout flexibility:
+
+*   **FAQ**
+*   **Team**
+*   **Testimonial**
+
+![Image 426: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/98426521.png)
+
+We’ve expanded our Help Center with step-by-step guides:
+
+*   **Payment:** How to get started with payment features.
+*   **Client Billing:** A guide to setting up client billing.
+*   **Website Draft/Active:** Understanding the new concept and activation process.
+*   **White Label Setup:** Comprehensive instructions for white-label setup.
+
+![Image 427: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/62381394.png)
+
+Looking Ahead to January
+------------------------
+
+We’re excited to share a preview of what’s coming to lindo.ai in our next update this January:
+
+**Multi-language Platform:**
+
+Enable your clients to experience your platform in their local language, providing a tailored and accessible solution for different regions.
+
+**Block Converter:**
+
+Seamlessly convert Tailwind CSS-based code into native lindo.ai blocks. Once converted, these blocks can be fully edited and shared across your white-label platform for a more streamlined client experience.
+
+**Favorite Blocks:**
+
+You can save and reuse customized blocks across your pages. This feature will allow you to maintain design consistency while improving efficiency within your white-label platform.
+
+**Custom Templates:**
+
+Create and customize your own templates, then make them available in your client dashboard. This gives your clients access to exclusive designs tailored to their needs.
+
+_Stay tuned for these exciting updates as we roll them out this month!_
+
+We wish you a wonderful year ahead, filled with growth and success! As always, we’re here to support you. If you have any questions, need assistance, or want to share feedback, don’t hesitate to reach out.
+
+Thank you for being part of the lindo.ai journey.
+
+Warm regards,
+
+The lindo.ai Team
+
+### Greater Control, Enhanced Design.
+
+
+
+
+-------------------------------------------
+
+Introducing new features for enhanced design control, better user experience.
+
+We’re excited to bring you our October updates! Though it's a bit late, it's because we've packed this release with surprises and critical updates. This is one of the biggest updates we’ve ever made to the platform. This month, we’ve focused on providing you with greater control and consistency in your designs, new features to improve user experience, and… a surprise beta feature that could take your website and client management to the next level. Hint: It’s about payments and client billing—read on for more!
+
+1\. Custom Tailwind CSS Classes
+-------------------------------
+
+We know that unique designs require unique solutions. You can now use Custom Tailwind CSS Classes across various elements:
+
+*   Blocks
+*   Buttons
+*   Images
+*   Icons
+
+This feature lets you add a truly personalized look and feel to your website, ensuring it aligns perfectly with your brand’s visual identity. Whether refining the button shape or adding a specific flair to your blocks, you can now do it your way with full creative control.
+
+Check out the Tailwind CSS documentation to learn more about all available classes. It’s easy—just copy and paste the classes to use them.
+
+![Image 428: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61034323.png)
+
+2\. Secondary Font for Headings
+-------------------------------
+
+Typography is a key part of your brand's identity. With the new Secondary Font for Headings option, you can elevate the visual appeal of your content.
+
+You can apply a secondary font to individual pages via Page Theme for a unique page experience or globally using the Global Theme option, ensuring a consistent yet distinct font hierarchy across your entire website.
+
+![Image 429: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/21066021.png)
+
+3\. Device Visibility Handler
+-----------------------------
+
+Not all content is meant for every device. With the new Device Visibility Handler, you can control which elements appear on:
+
+*   Desktop
+*   Tablet
+*   Mobile
+
+This allows you to create tailored experiences for users based on the device they’re using, providing better content targeting and improving user engagement. You can choose to show or hide:
+
+*   Blocks
+*   Images
+*   Buttons
+*   Icons
+
+![Image 430: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/03683647.png)
+
+4\. Image Link Settings
+-----------------------
+
+With new settings for No Follow and New Tab options, you can now customize how image links behave. This provides greater control over how search engines handle your links and enhances the user experience when they click on images.
+
+![Image 431: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94290730.png)
+
+5\. Device Preview
+------------------
+
+*   **Mobile:** Get a glimpse of how your site looks on a phone screen, ensuring mobile users enjoy a great browsing experience.
+
+![Image 432: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/02974261.png)
+
+*   **Tablet:** Preview the tablet version to verify the design is responsive and easy to navigate.
+
+![Image 433: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/85309863.png)
+
+6\. Block Width Control
+-----------------------
+
+Website layouts require precision, and that’s why we’ve introduced Block Width Control.
+
+You can now adjust block width individually for each section to achieve a precise layout. Additionally, apply width settings to a Page Theme for a consistent look on a particular page, or set it as a Global Theme to ensure uniformity across all your pages. This flexibility helps you maintain consistent visual structure and gives you the ability to quickly adapt your site’s layout without compromising on style.
+
+![Image 434: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/51124433.png)
+
+7\. Font Size in Text Editor
+----------------------------
+
+Finally, we’ve added font size control in the text editor!
+
+This feature allows you to customize the size of your text directly in the editor, giving you greater flexibility in managing content hierarchy and readability. Whether you need to make headings pop or fine-tune paragraph text, this new option makes managing fonts a breeze.
+
+![Image 435: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/20567055.png)
+
+8\. Button Design Control
+-------------------------
+
+We've now added Button Design Control for all buttons on a page or theme.
+
+Instead of updating button styles one by one, you can now customize them all at once—either for a single page or for the entire website using a Global Theme. This ensures a consistent design throughout your website, while also saving you valuable time.
+
+![Image 436: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/15662510.png)
+
+9\. Link Design Toggle
+----------------------
+
+Links and buttons often serve different purposes, and now you can easily distinguish between them.
+
+With the new Link Style Toggle, you can switch between different link styles. Use a simple link style for navigation menus and a button style for call-to-action buttons. This separation helps you maintain design consistency while providing better visual cues for users navigating your site.
+
+![Image 437: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/39736001.png)
+
+10\. Reset Theme Settings
+-------------------------
+
+Experimenting with new styles is exciting, but sometimes you just want to start over. With the new Reset Theme Setting feature, you can easily revert your theme to its default settings.
+
+This feature offers peace of mind when experimenting, allowing you to quickly reset if needed.
+
+![Image 438: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61018201.png)
+
+11\. User Experience Improvements
+---------------------------------
+
+Theme settings are better organized for easy navigation.
+
+![Image 439: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/18436560.png)
+
+List rows are now clickable, making access faster and more convenient.
+
+![Image 440: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/65514028.png)
+
+Added loading texts for better clarity during processes.
+
+![Image 441: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/14025910.png)
+
+Alerts have been replaced with toast notifications for a cleaner interface.
+
+![Image 442: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/93064002.png)
+
+12\. User Interface Improvements
+--------------------------------
+
+We’ve made some key UI improvements to enhance visual feedback:
+
+*   Skeleton loading screens now help you know content is loading
+
+![Image 443: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/37932069.png)
+
+*   Added breadcrumbs for improved navigation.
+
+![Image 444: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/09789546.png)
+
+*   Added in-page loading for a more polished experience.
+
+![Image 445: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/16061289.png)
+
+13\. Bug Fixes
+--------------
+
+Our team has also resolved a few pesky bugs:
+
+*   Color reset now works seamlessly.
+*   Fixed issues in the text editor.
+*   Improved SEO settings for better performance.
+
+![Image 446: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/66116068.png)
+
+14\. New Articles
+-----------------
+
+We’ve added new articles to help you make the most of our features:
+
+Learn how to make your site stunning with Page Themes and Global Themes effectively.
+
+![Image 447: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/88262907.png)
+
+These updates are designed to empower you, save you time, and enhance your website's visual and functional quality. Log in now to explore these exciting features and see how they can take your website to the next level!
+
+Thank you for being a part of the lindo.ai journey. Your feedback is invaluable, and we’re always here to help. If you have any questions or suggestions, feel free to contact us.
+
+Warm regards,
+
+lindo.ai Team
+
+### Enhanced Design, SEO Tools & Platform Upgrades
+
+
+
+
+--------------------------------------------------------
+
+Lindo September Updates ✨
+
+We’re excited to share our latest updates and improvements to the lindo.ai platform! This month, we focused on enhancing design management for websites and pages, as well as boosting SEO functionalities. We listened to your feedback and revamped our platform's structure to ensure a smoother and more intuitive experience. After thorough testing with our beta users, we’re thrilled to make these updates available to everyone.
+
+Additionally, we're opening our beta tester program to partners interested in actively shaping the future of lindo.ai. Let’s dive into the details:
+
+Design
+
+
+--------
+
+To offer more flexibility and ease in styling your website, we’ve rolled out several major updates, making design management more intuitive. Here’s what’s new:
+
+1. Global Website Theme in Settings
+-----------------------------------
+
+The introduction of the Global Website Theme marks a new era in styling websites on the lindo.ai platform. We upgraded the entire design structure, making it easier than ever to apply consistent styles across all your website pages directly from the website settings. This revolutionary feature allows you to apply your chosen design to current and future pages. In our next update, we'll introduce Preset Styles to further elevate this feature.
+
+To try it out, head over to your website settings and open the Theme tab.
+
+Available Options:
+
+*   Mode: Light / Dark
+*   Font: Choose from over 1,000 fonts
+*   Palette: Set your accent color
+*   Page Background Color
+*   Button Roundness
+*   Image Roundness
+*   Image Filter: Colorful / Grayscale
+*   Icon Color
+*   Direction: LTR / RTL
+*   Animation: Enable / Disable
+
+Get ready for Presets, which will showcase the full potential of this feature.To try it out, head over to your website settings and open the Theme tab.
+
+![Image 448: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/18643810.png)
+
+2\. Easy Access to Website Theme from Page Design
+-------------------------------------------------
+
+We’ve added a shortcut to the Global Website Theme in the Page Design sidebar. Now, if you're tweaking your page styles and want to apply them across your entire site, you can do so effortlessly. You can even set these styles to be applied to all current and future website pages built with the current theme.
+
+![Image 449: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/57473800.png)
+
+3\. Animation Management
+------------------------
+
+Responsive animations add a touch of flair to your pages, ensuring smooth transitions for text and media. We’ve added the ability to enable/disable animations within both the Page Design and Website Theme settings. You can choose to keep animations for specific pages or disable them across the entire website.
+
+![Image 450: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/20456981.png)
+
+SEO
+
+
+-----
+
+Optimizing your website for search engines is key to driving traffic and visibility. We’ve introduced new features to give you more control over your SEO settings:
+
+4\. SEO - Canonical
+-------------------
+
+A canonical tag helps search engines understand which version of a page is the "official" or preferred one, especially when you have similar or duplicate content. This can prevent content duplication issues and boost your SEO rankings. You can now set canonical tags in the SEO tab within page settings.
+
+![Image 451: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/96027889.png)
+
+5\. SEO - No Index
+------------------
+
+A no-index tag is used to prevent search engines from indexing a specific page, keeping it from appearing in search results. This is useful for pages you want to keep private or don't wish to show up in search engines. You can now easily set this option in the SEO tab within page settings.
+
+![Image 452: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/03814571.png)
+
+A no-follow tag instructs search engines not to follow certain links on your page, helping you control which links pass on "link juice" or ranking power. This is often used for external links you don't want to endorse. You can set this tag in the SEO tab within page settings.
+
+![Image 453: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/01710618.png)
+
+Link
+
+
+------
+
+We’ve also added new options to control how your links behave on your website:
+
+7\. Link - Open in New Tab
+--------------------------
+
+Now, you have the option to set links to open in a new browser tab, ensuring a smoother navigation experience for your visitors. This can be configured when setting a URL for a link on your page.
+
+![Image 454: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/84652111.png)
+
+8\. Link - SEO No-Follow
+------------------------
+
+If you want to prevent certain links from passing on ranking power, you can mark them as no-follow. This feature is available when you set a URL for a link, giving you more flexibility and control over your website’s SEO strategy.
+
+![Image 455: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/35419100.png)
+
+Platform
+
+
+----------
+
+Our goal is to continuously improve the overall user experience on lindo.ai. Here are some platform enhancements:
+
+9\. Login with Microsoft
+------------------------
+
+We’ve expanded our login options! Alongside Google sign-in, you can now log in with your Microsoft account for a seamless experience.
+
+![Image 456: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/27376553.png)
+
+10\. Platform Navigation Improvement
+------------------------------------
+
+Following the addition of Agency Lists in our previous update, we’ve enhanced the navigation system by introducing breadcrumbs for a clearer, more intuitive experience. We’re continuing to refine this feature to ensure it meets best practices for our partners and their clients.
+
+![Image 457: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/79611477.png)
+
+11\. New Block Variations
+-------------------------
+
+As part of our ongoing effort to improve, we’ve added new blocks and variations based on user requests. Let us know what you’d like to see by contacting support, and we’ll keep enhancing our blocks to serve you better.
+
+![Image 458: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/70287837.png)
+
+12\. Improved Billing Page
+--------------------------
+
+We’ve made improvements to the billing page, making it easier to view details about your current plan and upgrades. Everything you need is now more accessible and visible.
+
+![Image 459: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/78956766.png)
+
+Beta Users
+
+
+------------
+
+13\. Beta Users Signup
+----------------------
+
+We’re inviting everyone who wants to play a part in developing lindo.ai to join our Beta Tester Program. By signing up, you’ll get early access to new features and the opportunity to provide feedback, helping us build the #1 White Label AI website builder.
+
+Click [https://forms.lindoai.com/betatesterprogram](https://forms.lindoai.com/betatesterprogram)﻿ to join the Beta Tester Program. Please note that participation involves testing features, sharing feedback, and reporting any issues you encounter.
+
+![Image 460: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61691282.png)
+
+We hope you’re as excited about these updates as we are. Your feedback drives our improvements, so please don’t hesitate to reach out. Thank you for being a part of the lindo.ai community!
+
+Warm regards,
+
+lindo.ai Team
+
+July & August 2024 updates
+
+14 New Features to Unlock The Power of Agency Panel
+
+
+-----------------------------------------------------
+
+Lindo July & August Updates ✨
+
+We’re excited to bring you another round of updates designed to maximize your agency's or freelance business's success. This month, we’re focusing on the full potential of our Agency Panel, specially designed for web design agencies, freelancers, and entrepreneurs like you. Whether you’re looking to streamline client management, enhance your website-building capabilities, or boost your revenue, this latest update has something for you.
+
+Agency Panel
+
+
+--------------
+
+Our Agency Panel is more than just a toolkit—it’s an entire ecosystem built to support your business as you scale. From customizable branding to advanced client management tools, this panel allows you to grow your web design business while keeping your agency's name front and center. Whether you’re just starting out or already have a list of clients, these new features will help you work smarter, not harder.
+
+Here’s a quick look at what’s new and how it can benefit your business:
+
+1\. Unlimited Export Website
+
+Export websites freely, with no restrictions on the number of exports.
+
+_This feature allows agencies to export client websites without limits, facilitating easy migration or backup of projects. It ensures that partners can manage their clients' needs effectively, whether moving sites or preserving work for future use._
+
+![Image 461: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/04799772.png)
+
+Quickly duplicate websites for different clients, preserving all content and sections.
+
+_Duplicating websites saves time by allowing partners to replicate successful designs for multiple clients. This feature is ideal for agencies that offer similar services or templates across different projects, ensuring consistency and reducing development time._
+
+![Image 462: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/93123900.png)
+
+Clients can now self-register on your agency's domain login page, enhancing your brand presence and credibility.
+
+_This feature automates the onboarding process, allowing clients to sign up directly through your branded domain. With this in place, you can focus on marketing while your agency grows autonomously, eliminating the need for manual client invitations._
+
+![Image 463: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/99386085.png)
+
+4\. White Label Custom Domain Management
+
+Change your domain, subdomain, or email address for effortless rebranding.
+
+_The ability to manage and update domains and email addresses facilitates rebranding efforts. Partners can adjust their brand's online presence as needed without major disruptions._
+
+![Image 464: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67624255.png)
+
+Add team members with full access to manage websites, clients, and billing.
+
+_This feature ensures that different team members can handle client management and website creation aspects. It enhances collaboration and operational efficiency within the agency._
+
+![Image 465: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/17718010.png)
+
+6\. Branded Help Center
+-----------------------
+
+Establish a branded help center with your domain and logo, ensuring automatic updates.
+
+_A branded help center provides clients with accessible support resources while reinforcing your agency’s brand. It adds professionalism and ensures clients receive consistent, high-quality assistance._
+
+![Image 466: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/78247323.png)
+
+7\. Logo in Website Editor  
+
+-----------------------------
+
+Showcase your logo in the website editor to boost your reputation.
+
+_Displaying the agency’s logo inside the website editor reinforces branding and professionalism. It is a constant reminder of the service provided, enhancing client trust and brand identity._
+
+![Image 467: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94119918.png)
+
+8\. Client Management
+---------------------
+
+Centralized client management, including invitations, website assignments, and permission settings.
+
+_With this centralized system, managing multiple clients becomes effortless. Partners can assign websites, set user roles, and control access, improving organization and workflow within the agency._
+
+![Image 468: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/56140943.png)
+
+9\. Website Management
+----------------------
+
+Oversee all websites in one place, with options to delete, upgrade, or create new trial sites.
+
+_Having all client websites in one dashboard makes managing multiple client websites easier. Partners can efficiently upgrade services, remove old sites, and create new trial websites for prospective clients._
+
+![Image 469: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/64155123.png)
+
+10\. Manage Multiple Agencies
+-----------------------------
+
+Manage multiple agencies under one account, each with its own team members and websites.
+
+_This feature is particularly useful for agencies operating multiple brands or serving different client segments. It simplifies management by consolidating control under a single account while keeping operations separate._
+
+![Image 470: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/19432798.png)
+
+11\. Website Template Management
+--------------------------------
+
+Control which templates clients can use when creating websites.
+
+_Partners can curate and restrict client templates, ensuring they align with agency standards and offerings. This control helps in maintaining brand consistency and quality across client websites._
+
+![Image 471: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/65295137.png)
+
+12\. Page Template Management
+-----------------------------
+
+Determine which page templates clients can access when creating new web pages.
+
+_This feature allows agencies to manage which page templates clients can use, helping to streamline the creation process and maintain consistency across client sites._
+
+![Image 472: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/84524278.png)
+
+13\. Agency Integrations
+------------------------
+
+You can integrate live chat, Google Analytics, and other services into your platform.
+
+_Adding integrations for essential services helps partners offer comprehensive solutions to clients. These integrations enhance website functionality and provide valuable insights for performance and user engagement._
+
+![Image 473: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/07731704.png)
+
+14\. Agency Transfer
+--------------------
+
+Transfer your agency with all discounts and benefits to another account!
+
+_The ability to transfer an agency account allows partners to manage changes in ownership or operational shifts without losing existing benefits. It provides flexibility in managing agency transitions._
+
+![Image 474: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/44615014.png)
+
+Sneak Peek at What’s Coming Next
+--------------------------------
+
+**Built-in Payment Solutions for Your Clients**
+
+Implement seamless built-in payment solutions for selling digital products, services, or recurring subscriptions.
+
+_With this feature, partners can create powerful  websites for their clients, enabling them to directly sell digital products, services, or even recurring subscriptions like newsletters through their websites. This gives your clients the tools they need to manage one-time purchases and subscription-based models effortlessly, all from within your platform._
+
+**  
+Client Billing**
+
+Manage client billing, including one-time charges or recurring payments, directly from your dashboard.
+
+_This feature automates billing processes, making it easy for agencies to charge clients, whether for one-time projects or recurring services. It reduces the administrative burden and ensures partners get paid on time._
+
+**Revenue Dashboard**
+
+You can monitor your revenue data, including gross revenue, net revenue, MRR, and subscriber numbers.
+
+_Agencies can track financial performance in real-time, giving them insights into business growth. This enables better planning and decision-making when scaling services or adjusting pricing strategies._
+
+Ready to unlock more potential and revenue with your agency?
+------------------------------------------------------------
+
+Upgrade to the Business Plan or the Elite Plan and give your clients the professional, seamless experience they deserve.
+
+If you have any questions or need further assistance, feel free to reach out to our team. We're here to help!
+
+Warm regards,
+
+lindo.ai Team
+
+15 New Features, UX Enhancements, and More!
+
+
+---------------------------------------------
+
+We're excited to bring you our most significant update, covering April and May. This colossal update has taken some time, as we've overhauled our infrastructure to get more customization to your website editor. Shout out to our development team for their hard work ensuring these changes don't affect your current websites. Let's dive into the updates!
+
+New Features and Enhancements
+
+You can now make a block RTL or set the entire page RTL directly from your dashboard. This is great news for website owners and partners with clients who need RTL support for their websites.
+
+![Image 475: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/96641386.png)
+
+Easily make your menu sticky from your page design settings, especially useful when creating a landing page.
+
+![Image 476: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/84932440.png)
+
+3\. New Domain - lindo.ai:
+
+We have updated our domain name to lindo.ai! Along with this, we have updated our branding and added .ai to our logo. New logos are available on our press page.
+
+![Image 477: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/63939583.png)
+
+4\. Current Website Shortcuts:
+
+Access current website actions directly from general pages like the Website lists, Billing, or Account pages. Quickly go to the Home of the current website, access settings from the left sidebar, or open the URL directly.
+
+![Image 478: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/46100364.png)
+
+In Domains, Settings, or Integration sections, you can now open your current website directly, providing quick access to see the published version on the URL.
+
+![Image 479: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/72004062.png)
+
+On the website pages list, view the current website name, website status (live or not), and quickly open the URL of the published version.
+
+![Image 480: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/96888154.png)
+
+A search component has been added to our Help Center, complete with keyboard shortcuts to make it easier to find the articles you need. This search widget will soon be available for you to add to any website pages you want.
+
+![Image 481: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/68554475.png)
+
+Upload and configure your website’s logos for a consistent brand identity across all pages. Tips about the best ratio, format, and an online tool to apply changes to your logo are now available.
+
+![Image 482: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/08646611.png)
+
+Configure settings that help the AI learn more about your business. Set Tone of Voice, Target Audience, Key Products or Services, and Brand Values for more relevant content generation.
+
+![Image 483: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/06591673.png)
+
+Find sitemap URL, robots.txt URL, and the ability to modify it. Image compression will be added soon, enhancing your website’s speed and performance.
+
+![Image 484: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/27997278.png)
+
+Add your YouTube channel or TikTok page in the Social Media section to automatically display them in your website footer. Tips and examples are also provided.
+
+![Image 485: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/05212287.png)
+
+Find a guide and a clearer CTA for Global custom code, applicable to all website pages.
+
+![Image 486: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/87975628.png)
+
+Set the content in your own language for your cookie banner and buttons in the Cookie Consent section. Deactivate the built-in cookie banner if you prefer to use a third-party service.
+
+![Image 487: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/33044739.png)
+
+Activate and deactivate the Age Gate and set your own texts for the banner.
+
+![Image 488: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/62290240.png)
+
+Alerts about the consequences of deleting the website are now displayed.
+
+![Image 489: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/74781768.png)
+
+As always, we've fixed some bugs: some issues with blocks and some clickable items. We've also added more options on dropdowns and made sure they're clickable. Several other minor bugs have also been resolved to ensure smoother operation.
+
+Thank you for being a part of our community. We are continually working to improve and provide you with the best tools for your success. Stay tuned for more updates!
+
+Warm regards,
+
+Lindo Ai Team
+
+38 New Features to Customize Your Website Like Never Before!
+
+
+--------------------------------------------------------------
+
+Lindo April & March Updates ✨
+
+We're excited to bring you our most significant update, covering April and May. This colossal update has taken some time, as we've overhauled our infrastructure to get more customization to your website editor. Shout out to our development team for their hard work ensuring these changes don't affect your current websites. Let's dive into the updates!
+
+Buttons & Links Functionality
+
+A dropdown menu is a huge help in organizing your header navigation with related links to a specific category. This is one of the features Lindo AI website creators most requested. You can add as many sublinks as you want under a primary link, making your header navigation cleaner and more organized. This helps visitors quickly find what they're looking for, improving the overall user experience.
+
+![Image 490: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/87556056.png)
+
+2\. Add/Remove Links from Menu:
+
+Now, you can easily add or remove links from your header navigation. This feature allows you to keep your website header clean and organized. By combining this feature with the dropdown menu, you have the power to create a streamlined and efficient navigation structure that enhances user engagement and site usability.
+
+![Image 491: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/68502886.png)
+
+Buttons & Links Style Customization
+
+In the Button Style tab, you can now select the button size based on your preferences. Choose from small, medium, large, or default sizes. This customization helps ensure that your buttons are visually appealing and appropriately sized for different sections of your website, enhancing the overall design.
+
+![Image 492: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/10235969.png)
+
+Please customize your button style to match your brand's tone of voice. You have many options, from sharp rectangular buttons to fully rounded ones. This flexibility allows you to maintain consistent branding and create a cohesive look across your site.
+
+![Image 493: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/19876080.png)
+
+You can take full control of your button colors. Set the background color, text color, and hover style based on your preferences. This feature lets you design buttons that stand out and match your site's color scheme, improving visual appeal and user interaction.
+
+![Image 494: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/11589648.png)
+
+Want a ghost button? No problem. You can easily set the border thickness and color for your buttons. This allows for stylish, minimalist button designs that can enhance the aesthetic of your site.
+
+![Image 495: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/02557303.png)
+
+7\. Switch between Simple Links and Buttons:
+
+With the new style settings, you can easily switch simple links to buttons or vice versa. This flexibility allows you to adapt to different design needs and preferences, ensuring your website looks exactly how you want it.
+
+![Image 496: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/02573777.png)
+
+She is coming soon! Our design team works on button-style presets to help you effortlessly achieve your desired look. These presets will smooth the transition between different styles, saving time and ensuring a professional look.
+
+![Image 497: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/10339377.png)
+
+You can now add links to images, turning them into clickable elements that redirect visitors to a specified URL. This feature enhances user engagement and interactivity on your site.
+
+![Image 498: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/11570671.png)
+
+Adding custom alt text to your images can improve your SEO. This feature ensures that your photos are optimized for search engines, helping your site rank higher and attract more traffic.
+
+![Image 499: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/04878989.png)
+
+Image Style Customization
+
+Please customize the roundness of your images to align with your brand identity. This will create a more cohesive and visually appealing design that matches your overall aesthetic.
+
+![Image 500: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/89547585.png)
+
+You can adjust the size of your images to fit perfectly within your design. This flexibility ensures that your images are always the right size for their context, enhancing the overall look of your site.
+
+![Image 501: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/74829808.png)
+
+Easily hide or show images as needed. This feature gives you control over your content, allowing you to adjust your site's design without permanently removing images.
+
+![Image 502: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/73277685.png)
+
+Apply built-in filters to your images, such as brightness, contrast, hue, saturation, and grayscale. These filters let you tweak your photos to match your site's style and improve their visual impact.
+
+![Image 503: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/52095287.png)
+
+Icons Style Customization
+
+Adjust the size of an icon on your page to better match other elements. This ensures that your icons fit well within your design, improving the overall aesthetics.
+
+![Image 504: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/02624609.png)
+
+Could you customize the color of your icons to match your design scheme? This allows for a more cohesive and visually appealing design, enhancing user experience.
+
+![Image 505: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/21129056.png)
+
+17\. Page Background Color:
+
+You can change the entire page background color to suit your style. Make it dark, green, or blue—whatever you like! This feature lets you create a distinct look for each page, improving visual appeal and consistency.
+
+![Image 506: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/54657944.png)
+
+Apply styles to all elements on a page, including buttons, images, and icons. This ensures a cohesive look across your site and makes it easy to apply consistent design changes.
+
+![Image 507: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/42158768.png)
+
+Align text to the left, right, and center, or justify it. This gives you more control over the layout and readability of your content.
+
+![Image 508: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/51527897.png)
+
+You can switch between different heading styles and see instant changes. This allows for better organization and visual hierarchy on your pages.
+
+![Image 509: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/95464575.png)
+
+Apply quote styling to any text. This feature is perfect for highlighting essential quotes or testimonials.
+
+![Image 510: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/00003391.png)
+
+Add bullet points or numbered lists for better readability. This helps break up content and make it easier to digest.
+
+![Image 511: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/62722078.png)
+
+23\. Additional Text Styles:
+
+Use indent, strikethrough, superscript, subscript, and pre-styling for text. These styles give you more options to format your text and enhance its visual appeal.
+
+![Image 512: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/18080920.png)
+
+60 new Blocks & Variations:
+
+You can customize the number of items in a section from 1 to as many as you like. Flexible blocks allow you to build testimonial sections, feature lists, pricing tables, and more. This gives you more freedom and creativity when designing your
+
+![Image 513: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/06639535.png)
+
+4 new blocks and 2 variations
+
+![Image 514: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67697173.png)
+
+6 new blocks and 5 variations
+
+![Image 515: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/29759978.png)
+
+4 new blocks and 7 variations
+
+![Image 516: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/42776495.png)
+
+3 new blocks and 1 variations
+
+![Image 517: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/95659288.png)
+
+3 new blocks and 1 variations
+
+![Image 518: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/44506929.png)
+
+![Image 519: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/99556534.png)
+
+2 new blocks and 4 variations
+
+![Image 520: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/17500014.png)
+
+2 new blocks and 7 variations
+
+![Image 521: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/89609541.png)
+
+Our updated color picker makes it easier to choose and apply colors, enhancing your ability to customize your site's appearance quickly and accurately.
+
+![Image 522: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/16961167.png)
+
+With our improved font picker, you can select from over 1,000 fonts, giving you more options to find the perfect font for your site's design.
+
+![Image 523: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67618815.png)
+
+35\. Smart In-app Messages:
+
+We will provide step-by-step instructions in our web app, using Smart in-app Messages when you need them the most.
+
+![Image 524: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/10824139.png)
+
+36\. Help Center Overhaul:
+
+We've updated over 20 help center articles, introduced shortcuts, and reorganized content for easier access. This makes finding answers and getting help quicker and more convenient.
+
+![Image 525: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/54391922.png)
+
+We've squashed bugs related to mobile views, block templates, and more to ensure a smoother experience. Your support and patience are greatly appreciated as we continue to improve Lindo AI.
+
+![Image 526: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67622079.png)
+
+Thank you for your trust, your enthusiasm, and your unwavering support.
+
+Warm regards,  
+Lindo Ai Team
+
+We are thrilled to welcome you to our March update, a month marked by significant milestones and exciting advancements in Lindo's journey. Let's delve into the extensive updates that have been carefully curated to enhance your Lindo experience:
+
+15 New Features to Elevate Your Experience!
+
+
+---------------------------------------------
+
+White Label Services Enhancements
+
+1\. Revoke a User from Website
+
+Now, you can revoke a user's access to a website! Simply click on '...' and select 'Revoke.' The user's access will then be terminated from the website.
+
+![Image 527: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/64951020.png)
+
+2\. Remove Lindo Branding from Button App Samples
+
+We've removed Lindo Branding from Button Apps Samples.
+
+![Image 528: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/47865383.png)
+
+3\. White Label Magic Link URL
+
+We've enhanced the White Label magic link URL with a generic URL, ensuring that your white label customers won't see Lindo AI's URL in their authentication domain. This adds an extra layer of professionalism and brand consistency for your clients.
+
+![Image 529: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/83144441.png)
+
+4\. White Label Authentication Domain
+
+![Image 530: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/44820677.png)
+
+5\. White Label DNS records
+
+Now, for White Label users, we've replaced Lindo branded domains with a generic domain. This means that if a link expires or a non-user attempts to log in, they'll see an error message with a non-Lindo AI branded domain, maintaining a seamless experience within your branding ecosystem.
+
+![Image 531: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/49283367.png)
+
+To enhance the user experience, we're introducing a color picker in the text editor for applying custom colors to text.
+
+![Image 532: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/43115399.png)
+
+2\. Block Settings - Background Image
+
+We're excited to announce the Block Settings release. You have the freedom to customize blocks according to their preferences. You can now upload a PNG image for a block background.
+
+![Image 533: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/30069206.png)
+
+3\. Block Settings - Background color
+
+You can apply a custom color to the block background.
+
+![Image 534: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/79349623.png)
+
+4\. Block Settings - Padding
+
+You can adjust the white space for the top and bottom of the block you want.
+
+![Image 535: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/49823474.png)
+
+5\. Block Settings - Border
+
+You can set a border for the top or bottom of the block.
+
+![Image 536: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/46487149.png)
+
+6\. Asset Management Update
+
+Now you have more options for the assets you've uploaded:  
+**  
+Delete** the asset if you no longer need it.  
+**View** the asset in its actual size.  
+**Copy** the URL of the asset and use it wherever you want. Your assets are safe with us.
+
+![Image 537: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/72555423.png)
+
+Addressing user feedback, we've resolved an issue with the Login button redirecting users to the magic link received via email. Additionally, we've added the magic link URL directly in the email for ease of access, allowing users to click on it or copy-paste it directly into their browser.
+
+![Image 538: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/95636631.png)
+
+Introducing the section order number feature! Now, when hovering over a block in our page editor, users can quickly identify the order number of a section. This aids in setting in-page anchors for seamless navigation within the page.
+
+![Image 539: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/92887863.png)
+
+We've implemented section IDs for each block, facilitating customization with custom code. Users can find snippet codes in our Tips and Tricks articles, replacing the section ID to tailor blocks according to their preferences
+
+![Image 540: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61737771.png)
+
+10\. Dashboard UI/UX improvement
+
+Our team has focused on enhancing the dashboard's user interface and experience. We've resolved minor issues with tab navigation and improved mobile device compatibility, ensuring a smoother workflow for all users.
+
+![Image 541: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/80638965.png)
+
+We're thrilled about what's on the horizon! There are some fantastic updates and features in the works that we can't wait to share with you. Stay tuned for more exciting news as we continue to enhance your Lindo experience!
+
+Thank you for your trust, your enthusiasm, and your unwavering support.
+
+Warm regards,  
+Lindo Ai Team
+
+15 New Features to Elevate Your Experience!
+
+
+---------------------------------------------
+
+We are thrilled to welcome you to our February update, a month marked by significant milestones and exciting advancements in Lindo's journey. As we reflect on our collective achievements, let's celebrate the remarkable growth and accomplishments we've attained together:
+
+*   **Over 13,000 users:** Our Lindo family has grown to over 13,000 users worldwide, a testament to the trust and confidence you've placed in us.
+  
+*   **  
+    150,000+ web pages created:** Lindo users have unleashed their creativity to craft over 150,000 web pages, showcasing a diverse array of ideas and visions.
+  
+*   **  
+    Paid user base increased by 2,222:** We're proud to share that our paid user base has expanded by 2,222 individuals, demonstrating the value and reliability of Lindo AI.
+  
+*   **Over 800 web agencies onboarded:** Lindo AI has welcomed over 800 web agencies onboard, empowering them to create stunning websites for their clients with ease and efficiency.
+
+![Image 542: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/98327720.png)
+
+Welcoming New Team Members
+
+We're thrilled to announce the addition of new members to our Lindo team. In February, we welcomed talented individuals to our development and customer success teams. Their expertise and passion will enhance our capabilities, ensuring that we continue to deliver exceptional service and support to our valued users. With their arrival, we're excited to address your inquiries and provide even more personalized assistance as we move forward together.
+
+![Image 543: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/77055993.png)
+
+Now, let's delve into the extensive updates that have been carefully curated to enhance your Lindo experience:
+
+White Label Services Enhancements
+
+1\. Removal of Lindo Branding
+
+As part of our commitment to providing a seamless white-label experience for our partners, we've removed the "Made with Lindo" branding from the footer of websites created using our platform. This empowers our partners to truly make Lindo their own.
+
+![Image 544: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/08034761.png)
+
+2\. Logo Update in Admin Panel
+
+We're giving our partners greater control over their white-label web apps by allowing them to update their agency logo and favicon directly within the admin dashboard.
+
+![Image 545: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/20156918.png)
+
+3\. Enhanced Admin Account
+
+Access to essential links such as support, help center, and updates have been added to the admin account, streamlining navigation and improving user experience.
+
+![Image 546: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/31611161.png)
+
+4\. Introducing Lindo Expert Service
+
+For agencies seeking tailored solutions for niche markets, we're proud to introduce Lindo Expert Service. Build AI dynamic websites with exclusive templates customized for your agency and niche.
+
+![Image 547: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/17496291.png)
+
+We've made enhancements to the white-label user interface, including adjustments to logo size and form size recommendations, ensuring a consistent branding experience for our partners.
+
+![Image 548: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/25880935.png)
+
+We've introduced H1, H2, and H3 tags to the editor, offering more flexibility in text formatting. Stay tuned for further enhancements in March, including custom colors and additional HTML tags.
+
+![Image 549: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/21383396.png)
+
+2\. Tips and Tricks Article:
+
+Explore a range of new possibilities with our tips and tricks article, providing quick snippets of code to enhance your website. Look forward to more features and updates in March to further enhance your editing experience.
+
+![Image 550: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67363432.png)
+
+Enjoy greater flexibility with customized 404 pages, allowing you to create personalized error pages for a better user experience.
+
+![Image 551: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61456954.png)
+
+4\. Blocks Variation Updates
+
+We've added over 20 variations to our block lists and fixed issues with embed blocks like Vimeo, YouTube, and Airtable. Stay tuned for a detailed report on these updates in the coming week.
+
+![Image 552: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/18823063.png)
+
+We've enhanced block actions for improved accessibility and readability, making features like copy, hide/show, delete, and duplicate more intuitive.
+
+![Image 553: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/92634846.png)
+
+6\. Removal of Lindo Branding
+
+We've removed the "Made with Lindo" branding from the footer of Lindo-powered websites. This change saves you time by eliminating the need to update the footer with general text, offering greater flexibility in branding and customization options.
+
+![Image 554: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/74325017.png)
+
+7\. Cookie Consent Customization
+
+Customize your cookie consent experience by deactivating the default settings and adding your own customized consent via custom code.
+
+![Image 555: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/68617757.png)
+
+8\. Help Center Enhancements
+
+Our help center has been updated with improved categorization and expanded articles to provide comprehensive support and guidance.
+
+![Image 556: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/95920918.png)
+
+9\. Feature Requests Reviewing
+
+We've carefully reviewed feature requests from our users, categorizing them based on priority and feasibility. Look out for updates on feature implementations in the coming weeks.
+
+![Image 557: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/95457727.png)
+
+Lindo now speaks even more languages! We've added support for 10 additional languages, making it easier for you to reach a global audience. Now Lindo can generate text for you in more languages than ever before, helping you connect with users all around the world.
+
+![Image 558: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/44937102.png)
+
+We're thrilled about what's on the horizon! There are some fantastic updates and features in the works that we can't wait to share with you. Stay tuned for more exciting news as we continue to enhance your Lindo experience!
+
+Thank you for your trust, your enthusiasm, and your unwavering support.
+
+Warm regards,  
+Lindo Ai Team
+
+10 New Features to Elevate Your Experience!
+
+
+---------------------------------------------
+
+Elevate your website's identity! We've upgraded our custom domain connect experience. Lindo Ai now handles redirects seamlessly, allowing you to choose whether your domain displays with or without 'www.' Keep track of the connecting process live on your dashboard to ensure everything is seamlessly connected.
+
+1. Advanced Custom Domain:
+
+Elevate your website's identity! We've upgraded our custom domain connect experience. Lindo Ai now handles redirects seamlessly, allowing you to choose whether your domain displays with or without 'www.' Keep track of the connecting process live on your dashboard to ensure everything is seamlessly connected.
+
+![Image 559: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/40773387.png)
+
+2\. Upload Assets Formats Update
+
+Experience creative freedom! Lindo Ai now allows you to upload assets in various formats, including .JPG, .SVG, .GIF, and .WEBP, expanding your creative possibilities.
+
+![Image 560: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/91767339.png)
+
+To give you more control over your account, we've introduced the ability to delete your website easily. If you need to start over, you can now delete unused websites directly from your website management page.
+
+![Image 561: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/19695756.png)
+
+If you're looking to permanently delete your Lindo account, you can now do so from your profile. A new account management page has been added, and one of the functions available is the option to delete your account. Please note that this action will permanently delete all your websites.
+
+![Image 562: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/93291833.png)
+
+Sometimes, you need assistance while creating your website. Introducing the Help Floating Button, accessible from all pages, whether you're in your dashboard or website editor. This feature provides immediate access to a chatbot assistant offering related articles from the help center, connecting to Lindo community, or even hiring an expert for that final touch and custom design for your website. Live agent support is also available.
+
+![Image 563: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/29690375.png)
+
+We've developed a chatbot to guide you step by step, suggesting the right articles to help you navigate Lindo Ai effectively. All articles come with step-by-step guides and related screenshots covering various topics, from website editing to managing subscriptions. If you can't find what you're looking for, you can connect with a live agent immediately.
+
+![Image 564: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/33164321.png)
+
+For those in need of expert assistance, we've dedicated a page to explain how it works. FAQs are provided, along with examples of custom websites created for Lindo Ai users.
+
+![Image 565: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94149117.png)
+
+Stay informed by checking the help center frequently, as we've updated existing articles and added new ones to cover the latest features. Our commitment to providing weekly updates ensures that all new features are comprehensively covered in the help center.
+
+![Image 566: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/68527474.png)
+
+Our Slack community is growing, and we invite you to join us in the Lindo inner circle. We value a close relationship with all Lindo family members.
+
+![Image 567: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/73427925.png)
+
+In your page list, you can now immediately see the status of a page, whether it's published or unpublished, right after creation.
+
+![Image 568: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/79943045.png)
+
+As we wrap up November, we're excited about the progress Lindo Ai is making. Your feedback is invaluable, and we're committed to continuously enhancing Lindo Ai to meet your evolving needs.
+
+Stay tuned for more updates, and thank you for being a part of the Lindo family.
+
+10 New Features to Elevate Your Experience!
+
+
+---------------------------------------------
+
+Greetings, Lindo AI Community!
+
+As we bid farewell to October, it's time to showcase the strides we've made over the past month. Your invaluable feedback has been the guiding force behind our relentless pursuit of improvement, and we're thrilled to unveil the array of enhancements and features that have been diligently crafted. Let's delve into the myriad updates that aim to make your Lindo experience even more seamless and powerful.
+
+1\. Multiple Website Management:
+
+We've revamped the website management experience, catering to the needs of our freelancers and agencies handling multiple websites. Now, at the core of our web app, users can seamlessly navigate between their existing websites, switch between them effortlessly, and create new ones with AI—eliminating any limitations. This streamlines the workflow for managing multiple projects, enhances efficiency in website creation, and offers a user-friendly interface for effortless navigation.
+
+![Image 569: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61475783.png)
+
+2\. Mobile Responsiveness:
+
+Flexibility is the cornerstone of our approach. Lindo AI is now fully responsive on mobile devices, empowering users to edit their websites on the go. Quick edits or updates are now just a few taps away, ensuring that you have the freedom to work from anywhere, on any device. This increased accessibility allows for a seamless cross-device user experience.
+
+![Image 570: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/57313857.png)
+
+The heart of innovation, Lindo Copilot, has seen significant enhancements. It now allows users to create website pages, blog posts, and even social media content effortlessly. With an improved UI, additional templates, and more potent AI-generated content, Copilot is now a creative powerhouse, simplifying content creation, offering wider template choices, and enhancing AI-driven content creation capabilities.
+
+![Image 571: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/44279760.png)
+
+4\. Simplified Onboarding:
+
+Building a website has never been simpler. Our refined onboarding process involves personalized questions, providing tailored support and guidance throughout your Lindo AI journey. This personalization enhances the user experience, offers tailored support, and ensures a smoother onboarding process for users.
+
+![Image 572: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/89942268.png)
+
+Our commitment to user-centric design has driven significant updates in both the web app and editor. Refined hierarchy structures, improved navigation, and an emphasis on user feedback have made the Lindo experience more seamless and intuitive than ever. This enhances the user experience, improves navigation, and ensures a simpler website creation and management process.
+
+![Image 573: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/07383847.png)
+
+Minor bugs fixed, 10 new blocks added, and improvements in responsive design make creating your website even more effortless. This expanded variety of options, smoother design process, and increased customization capabilities elevate the user experience.
+
+![Image 574: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/69127705.png)
+
+Minor bugs fixed, enhanced AI-generated contents, updated global navigation for seamless website exploration, and 6 new Copilot-powered pages. These updates result in enhanced content creation capabilities, improved website navigation, and a wider array of templates for a more engaging website.
+
+![Image 575: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/25225017.png)
+
+Bug fixes for YouTube and Google Maps, plus the ability to use Senja by URL. The introduction of the Common Ninja embed block offers users more flexibility in incorporating components into their website. This expansion of embedding capabilities and improved compatibility increases options for content integration.
+
+![Image 576: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/98326861.png)
+
+A smoother workflow for updating logos has been introduced. Changes are now visible live across the entire website in less than a second, ensuring a seamless branding experience. This faster logo update process and real-time changes across the website ensure a more cohesive brand representation.
+
+![Image 577: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/13086171.png)
+
+The global custom code updates have undergone a streamlined workflow. Changes now go live with a single click, making customization simple and efficient. This simplified customization process, real-time code updates, and more control over website features ensure a more intuitive customization experience.
+
+![Image 578: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/54269352.png)
+
+As October concludes, these updates reflect our commitment to providing you with a powerful and user-friendly website-building experience. Your feedback continues to guide us, and we're excited about the journey ahead.
+
+Stay tuned for more exciting developments in the coming months!
+
+Warm regards,  
+Lindo Team
+
+20 New Features to Elevate Your Experience!
+
+
+---------------------------------------------
+
+Lindo September Updates ✨
+
+Introducing Our New Web App:
+
+We're thrilled to introduce the latest version of our web app, a significant milestone achieved just two months after our public launch. With more than 4,000 users and over 10,000 web pages created, we've listened to your valuable feedback. The new web app boasts a sleeker user interface, an enhanced user experience, and improved speed, making it even more intuitive and responsive. These enhancements will empower you to effortlessly bring your web ideas to life, creating a website that truly reflects your vision.
+
+![Image 579: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/93665802.png)
+
+Build a Full Website with Ease:
+
+Lindo was originally designed for creating landing pages, but now, with our updated web app and editor, we've expanded its capabilities. You can now create complete websites in mere seconds using only a brief description. These websites can include essential pages such as Home, Services, Articles, About Us, Contact Us, two related blog posts, Privacy Policy, and Terms and Conditions. This feature streamlines the process of creating an entire online presence, from a landing page to a comprehensive website.
+
+![Image 580: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/49526718.png)
+
+Effortless Page Management:
+
+Our new web app revolutionizes page management, putting you in control of your created pages like never before. You can easily delete, duplicate, rename, archive, or unpublish pages. This intuitive feature ensures that your website remains up to date and tailored to your needs, all with a few simple clicks.
+
+![Image 581: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/57141065.png)
+
+Do you need to manage multiple websites with unique URLs and distinct workspaces? Lindo AI now allows you to create an unlimited number of workspaces, providing clarity and organization for all your web projects. This feature simplifies the process of managing multiple websites from a single, user-friendly dashboard.
+
+![Image 582: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/77467584.png)
+
+Collaboration Made Simple:
+
+Effective collaboration is crucial when creating a website. With our new web app, you can invite team members by simply entering their email addresses. They'll have access to all your pages, enabling seamless collaboration and real-time edits. Building websites with a team has never been this straightforward.
+
+![Image 583: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/81150128.png)
+
+User privacy is a top priority for website visitors. If you've created your website with Lindo AI, you can now easily add a cookie banner to inform users about the use of cookies and even link it to your cookie policy. This feature ensures transparency and compliance with privacy regulations.
+
+![Image 584: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/33443741.png)
+
+For websites featuring sensitive content that requires age verification, Lindo AI now offers a straightforward solution. You can easily set up an age gate from your settings, ensuring that your content is accessed only by the appropriate audience.
+
+![Image 585: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/89330070.png)
+
+Adjust Pricing for Better Value:
+
+Following two months of public launch and valuable user feedback, we've simplified our pricing structure to offer the Pro Plan, providing unlimited access to all Lindo AI features. New users can enjoy a 14-day trial of this plan to experience the full potential of Lindo AI before selecting a plan that aligns with their specific needs. This change aims to make website creation more accessible and budget-friendly for all.
+
+![Image 586: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/35846112.png)
+
+We're excited to offer a special incentive for users who opt for Lindo AI's annual payment plan. Not only will you save 30% on your subscription, but you'll also receive a free .com domain, enhancing the value of your Lindo AI experience.
+
+![Image 587: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/29309069.png)
+
+Lindo AI users now have the opportunity to explore the powerful features of our Pro Plan with a 14-day free trial. Dive into an unlimited world of website creation and discover the possibilities.
+
+![Image 588: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/00241518.png)
+
+We value your input in shaping the future of Lindo AI. We've published our roadmap, making it accessible to all users. If you have suggestions or feature requests, don't hesitate to participate and help us build a better website builder that caters to your unique needs.
+
+![Image 589: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/86136037.png)
+
+We understand the importance of branding for agencies and freelancers. Our white label solution empowers you to run Lindo AI under your business name, logo, and domain, enhancing your branding and offering a fully customized experience to your clients. We're here to help you represent your brand in the best possible way.
+
+![Image 590: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/75413692.png)
+
+Need a website quickly? Our Lindo Experts can create a fully customized website for you within just 48 hours. This service includes a personalized 1:1 video call, a tailored list of pages based on your requirements, a complete website with all pages, content, and images, and unlimited revisions. Plus, you'll receive a free .com domain to kickstart your online presence.
+
+![Image 591: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/27489082.png)
+
+In the website editor, you can now hide specific blocks that you don't want to display on your live website. This feature allows you to keep elements for future use while maintaining a clean and user-friendly front-end design.
+
+![Image 592: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/37018773.png)
+
+Copying blocks across pages has never been easier. Whether you want to sync your header and footer across all pages or replicate a call-to-action block on multiple pages, Lindo AI's editor simplifies the process with a single click.
+
+![Image 593: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/47119371.png)
+
+Achieve a consistent and synchronized theme throughout your website. Lindo AI now enables you to apply your desired theme to all your website pages, ensuring a cohesive and professional look.
+
+![Image 594: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/05180825.png)
+
+Gain quick and easy access to all your website pages directly within the editor. This streamlined navigation allows you to manage and edit your content more efficiently.
+
+![Image 595: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94226532.png)
+
+Lindo AI now offers five new embed blocks, making it effortless to integrate content from popular tools and services into your website. This broadens your website's functionality and enhances the user experience.
+
+![Image 596: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94043492.png)
+
+Personalize your website by easily changing the accent color to match your brand's identity. Lindo AI provides precise color code options, ensuring that your website reflects your unique style.
+
+![Image 597: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/38390068.png)
+
+Selecting the perfect font for your brand is now a breeze. Lindo AI offers a wide selection of fonts, allowing you to choose the one that best represents your brand identity with just a single click.
+
+![Image 598: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/82487740.png)
+
+We believe that these updates will further enhance your Lindo AI experience, making website creation and management even more efficient, flexible, and tailored to your unique needs. We look forward to seeing the incredible websites you'll create using these new features. Stay tuned for more updates and improvements as we continue our journey to provide you with the ultimate website-building platform.
+
+Thank you for choosing Lindo AI as your trusted partner in website creation. If you have any questions or feedback, please feel free to reach out to us. We value your insights and are here to support you on your web-building journey.
+
+10 New Features to Elevate Your Experience!
+
+
+---------------------------------------------
+
+August has been a fantastic month for Lindo, and we're thrilled to share the 10 game-changing updates that are now live for all users. We know you're busy, so let's get straight to the exciting enhancements:
+
+Our new and improved Help Center is your go-to resource for answers. It's packed with solutions to common queries, and we're updating it daily.
+
+Have a question we haven't covered? Let us know!
+
+![Image 599: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/78573502.png)
+
+Now, you have the power to style any text on your page. It's as simple as selecting the text and applying your preferred styles.
+
+![Image 600: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/36997506.png)
+
+Discover the revamped Block Actions menu featuring the new Change Layout button. Easily explore layout variations for your blocks. Try it out and share your feedback.
+
+![Image 601: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/19577625.png)
+
+We've polished the Editor Action Buttons with refined text. Your thoughts matter – let us know what you think!
+
+![Image 602: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/96328231.png)
+
+![Image 603: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/49537855.png)
+
+Stay on top of your website's performance with daily analytics delivered to your inbox. Dive into visitor insights without missing a beat.
+
+![Image 604: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/45027386.png)
+
+Personalize your brand with ease. Choose your logo size right from the Logo upload form. Your brand, your rules.
+
+![Image 605: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/06156849.png)
+
+Elevate your buttons with Lindo Button Apps. They offer seamless solutions for data collection, sales, meetings, and more. We're updating the app list weekly – tell us your dream app!
+
+![Image 606: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/03400426.png)
+
+Tailor your page with embedded services using pre-made blocks. YouTube, Loom, Calendly – you name it, we've got you covered.
+
+![Image 607: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/64409894.png)
+
+Introducing 10 fresh blocks to meet your unique needs. Want even more? We're all ears!
+
+![Image 608: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/82708459.png)
+
+Experience new templates, including exciting e-commerce options. And guess what? More templates are coming soon. Need a specific template? We're here to make it happen.
+
+![Image 609: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/80970783.png)
+
+We're your partners in empowerment, here to amplify your Lindo journey. Your feedback fuels our progress, so keep it coming!
+
+Happy building!
+
+The Lindo Team
+
+mRMvlJ
+
+[© All rights reserved](https://www.lindoai.com/articles/en/updates/august#)
+
+## Metadata
+
+```json
+{
+  "title": "Monthly Updates ✨",
+  "description": "30 New Features to Elevate Your Experience!",
+  "url": "https://www.lindoai.com/articles/en/updates/august",
+  "content": "![Image 407: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/24211237.png)\n\nNovember & December 2024 updates\n\n### Exciting Improvements\n\n\n\n\n-------------------------------\n\nSignificant platform upgrades to empower your web design business.\n\nHappy New Year! As we step into 2025, we’re thrilled to bring you the highlights of November and December updates. Over the past two months, we’ve focused on enhancing your experience with powerful new features, improving tools, and introducing updates that empower your web design business. Let’s dive into these exciting changes:\n\n1\\. Client Billing\n------------------\n\nClient Billing is an essential part of a web design business, enabling you to automate client payments effortlessly. Previously available in beta, this feature is now accessible to all partners with Client Billing in their plan. Here’s what’s included:\n\n*   **Send Invoice:** Easily charge your clients for website setup fees or additional services. For example, if you're building a website for a client, you can invoice them for the initial setup and design work. Similarly, you can send invoices for extra services like SEO optimization or content updates, keeping all transactions organized.\n*   **Setup Subscription:** Automate recurring payments for ongoing services like hosting, maintenance, or other regular offerings. For example, you can set up a monthly subscription for clients who need continuous support for their website. This ensures reliable cash flow and eliminates the need to manually request payments.\n*   **Learn more:** [How do I get started with client billing?](https://lindo.ai/help/en/client-billing-get-started)\n\n![Image 408: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/11720127.png)\n\nOur Payment Solution is now available to all website owners on supported plans! Website editors can seamlessly add products to their sites and sell directly online. Here’s what’s included:\n\n*   **Fixed Amount:** Ideal for one-time purchases, services, or courses. For instance, consultants can charge for individual sessions or sell digital downloads like e-books and templates directly through their websites.\n*   **Subscription:** Perfect for recurring services or memberships. Whether it’s premium content, online courses, or fitness plans, you can create steady income streams with automated billing.\n*   **Free (Opt-in Form):** Use this feature to grow your audience with lead-generation forms or newsletter signups. Offer a free resource, such as an e-book or webinar, in exchange for email addresses, building a valuable contact list.\n*   **Learn more:**  [How do I get started with payment?](https://lindo.ai/help/en/payment-get-started)\n\n![Image 409: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/31189001.png)\n\n*   **Discount Code:** Offer promotions and discounts on your products.\n*   **Adjustable Quantity:** Allow customers to select quantities for their purchases.\n*   **Customer Shipping Address:** Collect accurate delivery details seamlessly.\n*   **Phone Number:** Capture phone numbers for direct communication or order updates.\n\n![Image 410: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/26707240.png)\n\nWe’re taking White Labeling to the next level with enhanced flexibility and infrastructure updates to grow your web design business. Here’s what’s new:\n\nTry the full white-label experience free for 14 days! During the trial, you can set up your agency, add a custom logo, and let clients create websites under a lindo.agency domain. Explore all functionalities before upgrading to remove branding and switch to your custom domain.\n\n![Image 411: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/28883171.png)\n\n5\\. Unique lindo.agency Domain\n\nEach partner receives a dedicated lindo.agency domain slug (e.g., myagency.app.lindo.agency) for testing white-label features in a live environment. Upgrade to add your custom domain (e.g., app.myagency.com).\n\n![Image 412: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67709381.png)\n\n6\\. Agency Panel for All Paid Plans\n\nAll paid plans now include access to the Agency Panel, enabling client management, customization, and efficient business operations.\n\n![Image 413: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/24269638.png)\n\nAdd essential tools like chatbots, Google Tag Manager, analytics, or custom scripts to track user behavior and enhance communication.\n\n![Image 414: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/56127310.png)\n\nPersonalize your platform with custom CSS and JS to adjust layouts, tweak branding, or introduce unique functionalities.\n\n![Image 415: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/00118649.png)\n\n9\\. Google Login for Agencies\n\nClients can now log in using Google, improving accessibility and user convenience.\n\n![Image 416: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/42327807.png)\n\n10\\. New White Label Onboarding Process\n\nA revamped process makes setting up your agency more intuitive and flexible.\n\n![Image 417: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/36208125.png)\n\nAgency Panel users can now upload their logo directly for a more branded experience.\n\n![Image 418: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/84861145.png)\n\nAll messages now appear as toasts, providing a modern and non-intrusive way to display notifications. Important updates and warnings are now more visible and user-friendly.\n\n![Image 419: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94216569.png)\n\n13\\. Custom Code in Preview\n\nCustom code updates are now reflected in real time in preview mode. Whether you're editing CSS, JavaScript, or scripts, you’ll see the changes immediately, enabling precise adjustments.\n\n![Image 420: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/59356570.png)\n\nOur website has undergone a major update with a fresh header, footer, and new pages—all built using lindo.ai. These enhancements showcase the platform's capabilities and serve as a template preview for future use.\n\n![Image 421: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/81423611.png)\n\n15\\. Website Concept (Draft/Active)\n\nWe’ve revamped the website creation flow with clearer terminology:\n\n*   **Drafts:** Websites are now created as drafts and remain active for 14 days, allowing you to edit and explore features.\n*   **Activate Now:** Use this new button to transition drafts to active websites by applying your Active Website Credits.\n*   **Unlimited Drafts:** Create unlimited drafts and activate them as needed, ensuring flexibility while aligning with your plan.\n\n![Image 422: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/16289060.png)\n\n*   **Design:** Resolved issues with block duplication, background color inconsistencies, and padding errors.\n*   **Tailwind CSS:** Fixed delays and bugs in applying Tailwind CSS classes.\n*   **Device Preview Mode:** Addressed bugs in device preview functionality.\n\n![Image 423: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/79583753.png)\n\n*   **Domain Management:** Simplified tab organization for clearer navigation.\n*   **Upgrade Buttons:** Added upgrade buttons within features requiring higher-tier plans.\n\n![Image 424: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/09238552.png)\n\n*   **Upgrade Modal:** Introduced a polished modal for a seamless plan upgrade experience.\n*   **Billing Page:** Improved design and usability for better navigation.\n\n![Image 425: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/25805027.png)\n\nWe’ve added new block variations to enhance layout flexibility:\n\n*   **FAQ**\n*   **Team**\n*   **Testimonial**\n\n![Image 426: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/98426521.png)\n\nWe’ve expanded our Help Center with step-by-step guides:\n\n*   **Payment:** How to get started with payment features.\n*   **Client Billing:** A guide to setting up client billing.\n*   **Website Draft/Active:** Understanding the new concept and activation process.\n*   **White Label Setup:** Comprehensive instructions for white-label setup.\n\n![Image 427: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/62381394.png)\n\nLooking Ahead to January\n------------------------\n\nWe’re excited to share a preview of what’s coming to lindo.ai in our next update this January:\n\n**Multi-language Platform:**\n\nEnable your clients to experience your platform in their local language, providing a tailored and accessible solution for different regions.\n\n**Block Converter:**\n\nSeamlessly convert Tailwind CSS-based code into native lindo.ai blocks. Once converted, these blocks can be fully edited and shared across your white-label platform for a more streamlined client experience.\n\n**Favorite Blocks:**\n\nYou can save and reuse customized blocks across your pages. This feature will allow you to maintain design consistency while improving efficiency within your white-label platform.\n\n**Custom Templates:**\n\nCreate and customize your own templates, then make them available in your client dashboard. This gives your clients access to exclusive designs tailored to their needs.\n\n_Stay tuned for these exciting updates as we roll them out this month!_\n\nWe wish you a wonderful year ahead, filled with growth and success! As always, we’re here to support you. If you have any questions, need assistance, or want to share feedback, don’t hesitate to reach out.\n\nThank you for being part of the lindo.ai journey.\n\nWarm regards,\n\nThe lindo.ai Team\n\n### Greater Control, Enhanced Design.\n\n\n\n\n-------------------------------------------\n\nIntroducing new features for enhanced design control, better user experience.\n\nWe’re excited to bring you our October updates! Though it's a bit late, it's because we've packed this release with surprises and critical updates. This is one of the biggest updates we’ve ever made to the platform. This month, we’ve focused on providing you with greater control and consistency in your designs, new features to improve user experience, and… a surprise beta feature that could take your website and client management to the next level. Hint: It’s about payments and client billing—read on for more!\n\n1\\. Custom Tailwind CSS Classes\n-------------------------------\n\nWe know that unique designs require unique solutions. You can now use Custom Tailwind CSS Classes across various elements:\n\n*   Blocks\n*   Buttons\n*   Images\n*   Icons\n\nThis feature lets you add a truly personalized look and feel to your website, ensuring it aligns perfectly with your brand’s visual identity. Whether refining the button shape or adding a specific flair to your blocks, you can now do it your way with full creative control.\n\nCheck out the Tailwind CSS documentation to learn more about all available classes. It’s easy—just copy and paste the classes to use them.\n\n![Image 428: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61034323.png)\n\n2\\. Secondary Font for Headings\n-------------------------------\n\nTypography is a key part of your brand's identity. With the new Secondary Font for Headings option, you can elevate the visual appeal of your content.\n\nYou can apply a secondary font to individual pages via Page Theme for a unique page experience or globally using the Global Theme option, ensuring a consistent yet distinct font hierarchy across your entire website.\n\n![Image 429: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/21066021.png)\n\n3\\. Device Visibility Handler\n-----------------------------\n\nNot all content is meant for every device. With the new Device Visibility Handler, you can control which elements appear on:\n\n*   Desktop\n*   Tablet\n*   Mobile\n\nThis allows you to create tailored experiences for users based on the device they’re using, providing better content targeting and improving user engagement. You can choose to show or hide:\n\n*   Blocks\n*   Images\n*   Buttons\n*   Icons\n\n![Image 430: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/03683647.png)\n\n4\\. Image Link Settings\n-----------------------\n\nWith new settings for No Follow and New Tab options, you can now customize how image links behave. This provides greater control over how search engines handle your links and enhances the user experience when they click on images.\n\n![Image 431: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94290730.png)\n\n5\\. Device Preview\n------------------\n\n*   **Mobile:** Get a glimpse of how your site looks on a phone screen, ensuring mobile users enjoy a great browsing experience.\n\n![Image 432: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/02974261.png)\n\n*   **Tablet:** Preview the tablet version to verify the design is responsive and easy to navigate.\n\n![Image 433: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/85309863.png)\n\n6\\. Block Width Control\n-----------------------\n\nWebsite layouts require precision, and that’s why we’ve introduced Block Width Control.\n\nYou can now adjust block width individually for each section to achieve a precise layout. Additionally, apply width settings to a Page Theme for a consistent look on a particular page, or set it as a Global Theme to ensure uniformity across all your pages. This flexibility helps you maintain consistent visual structure and gives you the ability to quickly adapt your site’s layout without compromising on style.\n\n![Image 434: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/51124433.png)\n\n7\\. Font Size in Text Editor\n----------------------------\n\nFinally, we’ve added font size control in the text editor!\n\nThis feature allows you to customize the size of your text directly in the editor, giving you greater flexibility in managing content hierarchy and readability. Whether you need to make headings pop or fine-tune paragraph text, this new option makes managing fonts a breeze.\n\n![Image 435: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/20567055.png)\n\n8\\. Button Design Control\n-------------------------\n\nWe've now added Button Design Control for all buttons on a page or theme.\n\nInstead of updating button styles one by one, you can now customize them all at once—either for a single page or for the entire website using a Global Theme. This ensures a consistent design throughout your website, while also saving you valuable time.\n\n![Image 436: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/15662510.png)\n\n9\\. Link Design Toggle\n----------------------\n\nLinks and buttons often serve different purposes, and now you can easily distinguish between them.\n\nWith the new Link Style Toggle, you can switch between different link styles. Use a simple link style for navigation menus and a button style for call-to-action buttons. This separation helps you maintain design consistency while providing better visual cues for users navigating your site.\n\n![Image 437: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/39736001.png)\n\n10\\. Reset Theme Settings\n-------------------------\n\nExperimenting with new styles is exciting, but sometimes you just want to start over. With the new Reset Theme Setting feature, you can easily revert your theme to its default settings.\n\nThis feature offers peace of mind when experimenting, allowing you to quickly reset if needed.\n\n![Image 438: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61018201.png)\n\n11\\. User Experience Improvements\n---------------------------------\n\nTheme settings are better organized for easy navigation.\n\n![Image 439: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/18436560.png)\n\nList rows are now clickable, making access faster and more convenient.\n\n![Image 440: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/65514028.png)\n\nAdded loading texts for better clarity during processes.\n\n![Image 441: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/14025910.png)\n\nAlerts have been replaced with toast notifications for a cleaner interface.\n\n![Image 442: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/93064002.png)\n\n12\\. User Interface Improvements\n--------------------------------\n\nWe’ve made some key UI improvements to enhance visual feedback:\n\n*   Skeleton loading screens now help you know content is loading\n\n![Image 443: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/37932069.png)\n\n*   Added breadcrumbs for improved navigation.\n\n![Image 444: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/09789546.png)\n\n*   Added in-page loading for a more polished experience.\n\n![Image 445: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/16061289.png)\n\n13\\. Bug Fixes\n--------------\n\nOur team has also resolved a few pesky bugs:\n\n*   Color reset now works seamlessly.\n*   Fixed issues in the text editor.\n*   Improved SEO settings for better performance.\n\n![Image 446: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/66116068.png)\n\n14\\. New Articles\n-----------------\n\nWe’ve added new articles to help you make the most of our features:\n\nLearn how to make your site stunning with Page Themes and Global Themes effectively.\n\n![Image 447: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/88262907.png)\n\nThese updates are designed to empower you, save you time, and enhance your website's visual and functional quality. Log in now to explore these exciting features and see how they can take your website to the next level!\n\nThank you for being a part of the lindo.ai journey. Your feedback is invaluable, and we’re always here to help. If you have any questions or suggestions, feel free to contact us.\n\nWarm regards,\n\nlindo.ai Team\n\n### Enhanced Design, SEO Tools & Platform Upgrades\n\n\n\n\n--------------------------------------------------------\n\nLindo September Updates ✨\n\nWe’re excited to share our latest updates and improvements to the lindo.ai platform! This month, we focused on enhancing design management for websites and pages, as well as boosting SEO functionalities. We listened to your feedback and revamped our platform's structure to ensure a smoother and more intuitive experience. After thorough testing with our beta users, we’re thrilled to make these updates available to everyone.\n\nAdditionally, we're opening our beta tester program to partners interested in actively shaping the future of lindo.ai. Let’s dive into the details:\n\nDesign\n\n\n--------\n\nTo offer more flexibility and ease in styling your website, we’ve rolled out several major updates, making design management more intuitive. Here’s what’s new:\n\n1. Global Website Theme in Settings\n-----------------------------------\n\nThe introduction of the Global Website Theme marks a new era in styling websites on the lindo.ai platform. We upgraded the entire design structure, making it easier than ever to apply consistent styles across all your website pages directly from the website settings. This revolutionary feature allows you to apply your chosen design to current and future pages. In our next update, we'll introduce Preset Styles to further elevate this feature.\n\nTo try it out, head over to your website settings and open the Theme tab.\n\nAvailable Options:\n\n*   Mode: Light / Dark\n*   Font: Choose from over 1,000 fonts\n*   Palette: Set your accent color\n*   Page Background Color\n*   Button Roundness\n*   Image Roundness\n*   Image Filter: Colorful / Grayscale\n*   Icon Color\n*   Direction: LTR / RTL\n*   Animation: Enable / Disable\n\nGet ready for Presets, which will showcase the full potential of this feature.To try it out, head over to your website settings and open the Theme tab.\n\n![Image 448: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/18643810.png)\n\n2\\. Easy Access to Website Theme from Page Design\n-------------------------------------------------\n\nWe’ve added a shortcut to the Global Website Theme in the Page Design sidebar. Now, if you're tweaking your page styles and want to apply them across your entire site, you can do so effortlessly. You can even set these styles to be applied to all current and future website pages built with the current theme.\n\n![Image 449: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/57473800.png)\n\n3\\. Animation Management\n------------------------\n\nResponsive animations add a touch of flair to your pages, ensuring smooth transitions for text and media. We’ve added the ability to enable/disable animations within both the Page Design and Website Theme settings. You can choose to keep animations for specific pages or disable them across the entire website.\n\n![Image 450: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/20456981.png)\n\nSEO\n\n\n-----\n\nOptimizing your website for search engines is key to driving traffic and visibility. We’ve introduced new features to give you more control over your SEO settings:\n\n4\\. SEO - Canonical\n-------------------\n\nA canonical tag helps search engines understand which version of a page is the \"official\" or preferred one, especially when you have similar or duplicate content. This can prevent content duplication issues and boost your SEO rankings. You can now set canonical tags in the SEO tab within page settings.\n\n![Image 451: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/96027889.png)\n\n5\\. SEO - No Index\n------------------\n\nA no-index tag is used to prevent search engines from indexing a specific page, keeping it from appearing in search results. This is useful for pages you want to keep private or don't wish to show up in search engines. You can now easily set this option in the SEO tab within page settings.\n\n![Image 452: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/03814571.png)\n\nA no-follow tag instructs search engines not to follow certain links on your page, helping you control which links pass on \"link juice\" or ranking power. This is often used for external links you don't want to endorse. You can set this tag in the SEO tab within page settings.\n\n![Image 453: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/01710618.png)\n\nLink\n\n\n------\n\nWe’ve also added new options to control how your links behave on your website:\n\n7\\. Link - Open in New Tab\n--------------------------\n\nNow, you have the option to set links to open in a new browser tab, ensuring a smoother navigation experience for your visitors. This can be configured when setting a URL for a link on your page.\n\n![Image 454: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/84652111.png)\n\n8\\. Link - SEO No-Follow\n------------------------\n\nIf you want to prevent certain links from passing on ranking power, you can mark them as no-follow. This feature is available when you set a URL for a link, giving you more flexibility and control over your website’s SEO strategy.\n\n![Image 455: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/35419100.png)\n\nPlatform\n\n\n----------\n\nOur goal is to continuously improve the overall user experience on lindo.ai. Here are some platform enhancements:\n\n9\\. Login with Microsoft\n------------------------\n\nWe’ve expanded our login options! Alongside Google sign-in, you can now log in with your Microsoft account for a seamless experience.\n\n![Image 456: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/27376553.png)\n\n10\\. Platform Navigation Improvement\n------------------------------------\n\nFollowing the addition of Agency Lists in our previous update, we’ve enhanced the navigation system by introducing breadcrumbs for a clearer, more intuitive experience. We’re continuing to refine this feature to ensure it meets best practices for our partners and their clients.\n\n![Image 457: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/79611477.png)\n\n11\\. New Block Variations\n-------------------------\n\nAs part of our ongoing effort to improve, we’ve added new blocks and variations based on user requests. Let us know what you’d like to see by contacting support, and we’ll keep enhancing our blocks to serve you better.\n\n![Image 458: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/70287837.png)\n\n12\\. Improved Billing Page\n--------------------------\n\nWe’ve made improvements to the billing page, making it easier to view details about your current plan and upgrades. Everything you need is now more accessible and visible.\n\n![Image 459: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/78956766.png)\n\nBeta Users\n\n\n------------\n\n13\\. Beta Users Signup\n----------------------\n\nWe’re inviting everyone who wants to play a part in developing lindo.ai to join our Beta Tester Program. By signing up, you’ll get early access to new features and the opportunity to provide feedback, helping us build the #1 White Label AI website builder.\n\nClick [https://forms.lindoai.com/betatesterprogram](https://forms.lindoai.com/betatesterprogram)﻿ to join the Beta Tester Program. Please note that participation involves testing features, sharing feedback, and reporting any issues you encounter.\n\n![Image 460: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61691282.png)\n\nWe hope you’re as excited about these updates as we are. Your feedback drives our improvements, so please don’t hesitate to reach out. Thank you for being a part of the lindo.ai community!\n\nWarm regards,\n\nlindo.ai Team\n\nJuly & August 2024 updates\n\n14 New Features to Unlock The Power of Agency Panel\n\n\n-----------------------------------------------------\n\nLindo July & August Updates ✨\n\nWe’re excited to bring you another round of updates designed to maximize your agency's or freelance business's success. This month, we’re focusing on the full potential of our Agency Panel, specially designed for web design agencies, freelancers, and entrepreneurs like you. Whether you’re looking to streamline client management, enhance your website-building capabilities, or boost your revenue, this latest update has something for you.\n\nAgency Panel\n\n\n--------------\n\nOur Agency Panel is more than just a toolkit—it’s an entire ecosystem built to support your business as you scale. From customizable branding to advanced client management tools, this panel allows you to grow your web design business while keeping your agency's name front and center. Whether you’re just starting out or already have a list of clients, these new features will help you work smarter, not harder.\n\nHere’s a quick look at what’s new and how it can benefit your business:\n\n1\\. Unlimited Export Website\n\nExport websites freely, with no restrictions on the number of exports.\n\n_This feature allows agencies to export client websites without limits, facilitating easy migration or backup of projects. It ensures that partners can manage their clients' needs effectively, whether moving sites or preserving work for future use._\n\n![Image 461: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/04799772.png)\n\nQuickly duplicate websites for different clients, preserving all content and sections.\n\n_Duplicating websites saves time by allowing partners to replicate successful designs for multiple clients. This feature is ideal for agencies that offer similar services or templates across different projects, ensuring consistency and reducing development time._\n\n![Image 462: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/93123900.png)\n\nClients can now self-register on your agency's domain login page, enhancing your brand presence and credibility.\n\n_This feature automates the onboarding process, allowing clients to sign up directly through your branded domain. With this in place, you can focus on marketing while your agency grows autonomously, eliminating the need for manual client invitations._\n\n![Image 463: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/99386085.png)\n\n4\\. White Label Custom Domain Management\n\nChange your domain, subdomain, or email address for effortless rebranding.\n\n_The ability to manage and update domains and email addresses facilitates rebranding efforts. Partners can adjust their brand's online presence as needed without major disruptions._\n\n![Image 464: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67624255.png)\n\nAdd team members with full access to manage websites, clients, and billing.\n\n_This feature ensures that different team members can handle client management and website creation aspects. It enhances collaboration and operational efficiency within the agency._\n\n![Image 465: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/17718010.png)\n\n6\\. Branded Help Center\n-----------------------\n\nEstablish a branded help center with your domain and logo, ensuring automatic updates.\n\n_A branded help center provides clients with accessible support resources while reinforcing your agency’s brand. It adds professionalism and ensures clients receive consistent, high-quality assistance._\n\n![Image 466: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/78247323.png)\n\n7\\. Logo in Website Editor  \n\n-----------------------------\n\nShowcase your logo in the website editor to boost your reputation.\n\n_Displaying the agency’s logo inside the website editor reinforces branding and professionalism. It is a constant reminder of the service provided, enhancing client trust and brand identity._\n\n![Image 467: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94119918.png)\n\n8\\. Client Management\n---------------------\n\nCentralized client management, including invitations, website assignments, and permission settings.\n\n_With this centralized system, managing multiple clients becomes effortless. Partners can assign websites, set user roles, and control access, improving organization and workflow within the agency._\n\n![Image 468: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/56140943.png)\n\n9\\. Website Management\n----------------------\n\nOversee all websites in one place, with options to delete, upgrade, or create new trial sites.\n\n_Having all client websites in one dashboard makes managing multiple client websites easier. Partners can efficiently upgrade services, remove old sites, and create new trial websites for prospective clients._\n\n![Image 469: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/64155123.png)\n\n10\\. Manage Multiple Agencies\n-----------------------------\n\nManage multiple agencies under one account, each with its own team members and websites.\n\n_This feature is particularly useful for agencies operating multiple brands or serving different client segments. It simplifies management by consolidating control under a single account while keeping operations separate._\n\n![Image 470: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/19432798.png)\n\n11\\. Website Template Management\n--------------------------------\n\nControl which templates clients can use when creating websites.\n\n_Partners can curate and restrict client templates, ensuring they align with agency standards and offerings. This control helps in maintaining brand consistency and quality across client websites._\n\n![Image 471: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/65295137.png)\n\n12\\. Page Template Management\n-----------------------------\n\nDetermine which page templates clients can access when creating new web pages.\n\n_This feature allows agencies to manage which page templates clients can use, helping to streamline the creation process and maintain consistency across client sites._\n\n![Image 472: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/84524278.png)\n\n13\\. Agency Integrations\n------------------------\n\nYou can integrate live chat, Google Analytics, and other services into your platform.\n\n_Adding integrations for essential services helps partners offer comprehensive solutions to clients. These integrations enhance website functionality and provide valuable insights for performance and user engagement._\n\n![Image 473: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/07731704.png)\n\n14\\. Agency Transfer\n--------------------\n\nTransfer your agency with all discounts and benefits to another account!\n\n_The ability to transfer an agency account allows partners to manage changes in ownership or operational shifts without losing existing benefits. It provides flexibility in managing agency transitions._\n\n![Image 474: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/44615014.png)\n\nSneak Peek at What’s Coming Next\n--------------------------------\n\n**Built-in Payment Solutions for Your Clients**\n\nImplement seamless built-in payment solutions for selling digital products, services, or recurring subscriptions.\n\n_With this feature, partners can create powerful  websites for their clients, enabling them to directly sell digital products, services, or even recurring subscriptions like newsletters through their websites. This gives your clients the tools they need to manage one-time purchases and subscription-based models effortlessly, all from within your platform._\n\n**  \nClient Billing**\n\nManage client billing, including one-time charges or recurring payments, directly from your dashboard.\n\n_This feature automates billing processes, making it easy for agencies to charge clients, whether for one-time projects or recurring services. It reduces the administrative burden and ensures partners get paid on time._\n\n**Revenue Dashboard**\n\nYou can monitor your revenue data, including gross revenue, net revenue, MRR, and subscriber numbers.\n\n_Agencies can track financial performance in real-time, giving them insights into business growth. This enables better planning and decision-making when scaling services or adjusting pricing strategies._\n\nReady to unlock more potential and revenue with your agency?\n------------------------------------------------------------\n\nUpgrade to the Business Plan or the Elite Plan and give your clients the professional, seamless experience they deserve.\n\nIf you have any questions or need further assistance, feel free to reach out to our team. We're here to help!\n\nWarm regards,\n\nlindo.ai Team\n\n15 New Features, UX Enhancements, and More!\n\n\n---------------------------------------------\n\nWe're excited to bring you our most significant update, covering April and May. This colossal update has taken some time, as we've overhauled our infrastructure to get more customization to your website editor. Shout out to our development team for their hard work ensuring these changes don't affect your current websites. Let's dive into the updates!\n\nNew Features and Enhancements\n\nYou can now make a block RTL or set the entire page RTL directly from your dashboard. This is great news for website owners and partners with clients who need RTL support for their websites.\n\n![Image 475: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/96641386.png)\n\nEasily make your menu sticky from your page design settings, especially useful when creating a landing page.\n\n![Image 476: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/84932440.png)\n\n3\\. New Domain - lindo.ai:\n\nWe have updated our domain name to lindo.ai! Along with this, we have updated our branding and added .ai to our logo. New logos are available on our press page.\n\n![Image 477: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/63939583.png)\n\n4\\. Current Website Shortcuts:\n\nAccess current website actions directly from general pages like the Website lists, Billing, or Account pages. Quickly go to the Home of the current website, access settings from the left sidebar, or open the URL directly.\n\n![Image 478: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/46100364.png)\n\nIn Domains, Settings, or Integration sections, you can now open your current website directly, providing quick access to see the published version on the URL.\n\n![Image 479: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/72004062.png)\n\nOn the website pages list, view the current website name, website status (live or not), and quickly open the URL of the published version.\n\n![Image 480: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/96888154.png)\n\nA search component has been added to our Help Center, complete with keyboard shortcuts to make it easier to find the articles you need. This search widget will soon be available for you to add to any website pages you want.\n\n![Image 481: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/68554475.png)\n\nUpload and configure your website’s logos for a consistent brand identity across all pages. Tips about the best ratio, format, and an online tool to apply changes to your logo are now available.\n\n![Image 482: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/08646611.png)\n\nConfigure settings that help the AI learn more about your business. Set Tone of Voice, Target Audience, Key Products or Services, and Brand Values for more relevant content generation.\n\n![Image 483: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/06591673.png)\n\nFind sitemap URL, robots.txt URL, and the ability to modify it. Image compression will be added soon, enhancing your website’s speed and performance.\n\n![Image 484: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/27997278.png)\n\nAdd your YouTube channel or TikTok page in the Social Media section to automatically display them in your website footer. Tips and examples are also provided.\n\n![Image 485: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/05212287.png)\n\nFind a guide and a clearer CTA for Global custom code, applicable to all website pages.\n\n![Image 486: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/87975628.png)\n\nSet the content in your own language for your cookie banner and buttons in the Cookie Consent section. Deactivate the built-in cookie banner if you prefer to use a third-party service.\n\n![Image 487: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/33044739.png)\n\nActivate and deactivate the Age Gate and set your own texts for the banner.\n\n![Image 488: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/62290240.png)\n\nAlerts about the consequences of deleting the website are now displayed.\n\n![Image 489: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/74781768.png)\n\nAs always, we've fixed some bugs: some issues with blocks and some clickable items. We've also added more options on dropdowns and made sure they're clickable. Several other minor bugs have also been resolved to ensure smoother operation.\n\nThank you for being a part of our community. We are continually working to improve and provide you with the best tools for your success. Stay tuned for more updates!\n\nWarm regards,\n\nLindo Ai Team\n\n38 New Features to Customize Your Website Like Never Before!\n\n\n--------------------------------------------------------------\n\nLindo April & March Updates ✨\n\nWe're excited to bring you our most significant update, covering April and May. This colossal update has taken some time, as we've overhauled our infrastructure to get more customization to your website editor. Shout out to our development team for their hard work ensuring these changes don't affect your current websites. Let's dive into the updates!\n\nButtons & Links Functionality\n\nA dropdown menu is a huge help in organizing your header navigation with related links to a specific category. This is one of the features Lindo AI website creators most requested. You can add as many sublinks as you want under a primary link, making your header navigation cleaner and more organized. This helps visitors quickly find what they're looking for, improving the overall user experience.\n\n![Image 490: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/87556056.png)\n\n2\\. Add/Remove Links from Menu:\n\nNow, you can easily add or remove links from your header navigation. This feature allows you to keep your website header clean and organized. By combining this feature with the dropdown menu, you have the power to create a streamlined and efficient navigation structure that enhances user engagement and site usability.\n\n![Image 491: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/68502886.png)\n\nButtons & Links Style Customization\n\nIn the Button Style tab, you can now select the button size based on your preferences. Choose from small, medium, large, or default sizes. This customization helps ensure that your buttons are visually appealing and appropriately sized for different sections of your website, enhancing the overall design.\n\n![Image 492: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/10235969.png)\n\nPlease customize your button style to match your brand's tone of voice. You have many options, from sharp rectangular buttons to fully rounded ones. This flexibility allows you to maintain consistent branding and create a cohesive look across your site.\n\n![Image 493: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/19876080.png)\n\nYou can take full control of your button colors. Set the background color, text color, and hover style based on your preferences. This feature lets you design buttons that stand out and match your site's color scheme, improving visual appeal and user interaction.\n\n![Image 494: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/11589648.png)\n\nWant a ghost button? No problem. You can easily set the border thickness and color for your buttons. This allows for stylish, minimalist button designs that can enhance the aesthetic of your site.\n\n![Image 495: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/02557303.png)\n\n7\\. Switch between Simple Links and Buttons:\n\nWith the new style settings, you can easily switch simple links to buttons or vice versa. This flexibility allows you to adapt to different design needs and preferences, ensuring your website looks exactly how you want it.\n\n![Image 496: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/02573777.png)\n\nShe is coming soon! Our design team works on button-style presets to help you effortlessly achieve your desired look. These presets will smooth the transition between different styles, saving time and ensuring a professional look.\n\n![Image 497: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/10339377.png)\n\nYou can now add links to images, turning them into clickable elements that redirect visitors to a specified URL. This feature enhances user engagement and interactivity on your site.\n\n![Image 498: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/11570671.png)\n\nAdding custom alt text to your images can improve your SEO. This feature ensures that your photos are optimized for search engines, helping your site rank higher and attract more traffic.\n\n![Image 499: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/04878989.png)\n\nImage Style Customization\n\nPlease customize the roundness of your images to align with your brand identity. This will create a more cohesive and visually appealing design that matches your overall aesthetic.\n\n![Image 500: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/89547585.png)\n\nYou can adjust the size of your images to fit perfectly within your design. This flexibility ensures that your images are always the right size for their context, enhancing the overall look of your site.\n\n![Image 501: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/74829808.png)\n\nEasily hide or show images as needed. This feature gives you control over your content, allowing you to adjust your site's design without permanently removing images.\n\n![Image 502: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/73277685.png)\n\nApply built-in filters to your images, such as brightness, contrast, hue, saturation, and grayscale. These filters let you tweak your photos to match your site's style and improve their visual impact.\n\n![Image 503: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/52095287.png)\n\nIcons Style Customization\n\nAdjust the size of an icon on your page to better match other elements. This ensures that your icons fit well within your design, improving the overall aesthetics.\n\n![Image 504: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/02624609.png)\n\nCould you customize the color of your icons to match your design scheme? This allows for a more cohesive and visually appealing design, enhancing user experience.\n\n![Image 505: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/21129056.png)\n\n17\\. Page Background Color:\n\nYou can change the entire page background color to suit your style. Make it dark, green, or blue—whatever you like! This feature lets you create a distinct look for each page, improving visual appeal and consistency.\n\n![Image 506: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/54657944.png)\n\nApply styles to all elements on a page, including buttons, images, and icons. This ensures a cohesive look across your site and makes it easy to apply consistent design changes.\n\n![Image 507: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/42158768.png)\n\nAlign text to the left, right, and center, or justify it. This gives you more control over the layout and readability of your content.\n\n![Image 508: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/51527897.png)\n\nYou can switch between different heading styles and see instant changes. This allows for better organization and visual hierarchy on your pages.\n\n![Image 509: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/95464575.png)\n\nApply quote styling to any text. This feature is perfect for highlighting essential quotes or testimonials.\n\n![Image 510: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/00003391.png)\n\nAdd bullet points or numbered lists for better readability. This helps break up content and make it easier to digest.\n\n![Image 511: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/62722078.png)\n\n23\\. Additional Text Styles:\n\nUse indent, strikethrough, superscript, subscript, and pre-styling for text. These styles give you more options to format your text and enhance its visual appeal.\n\n![Image 512: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/18080920.png)\n\n60 new Blocks & Variations:\n\nYou can customize the number of items in a section from 1 to as many as you like. Flexible blocks allow you to build testimonial sections, feature lists, pricing tables, and more. This gives you more freedom and creativity when designing your\n\n![Image 513: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/06639535.png)\n\n4 new blocks and 2 variations\n\n![Image 514: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67697173.png)\n\n6 new blocks and 5 variations\n\n![Image 515: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/29759978.png)\n\n4 new blocks and 7 variations\n\n![Image 516: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/42776495.png)\n\n3 new blocks and 1 variations\n\n![Image 517: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/95659288.png)\n\n3 new blocks and 1 variations\n\n![Image 518: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/44506929.png)\n\n![Image 519: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/99556534.png)\n\n2 new blocks and 4 variations\n\n![Image 520: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/17500014.png)\n\n2 new blocks and 7 variations\n\n![Image 521: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/89609541.png)\n\nOur updated color picker makes it easier to choose and apply colors, enhancing your ability to customize your site's appearance quickly and accurately.\n\n![Image 522: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/16961167.png)\n\nWith our improved font picker, you can select from over 1,000 fonts, giving you more options to find the perfect font for your site's design.\n\n![Image 523: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67618815.png)\n\n35\\. Smart In-app Messages:\n\nWe will provide step-by-step instructions in our web app, using Smart in-app Messages when you need them the most.\n\n![Image 524: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/10824139.png)\n\n36\\. Help Center Overhaul:\n\nWe've updated over 20 help center articles, introduced shortcuts, and reorganized content for easier access. This makes finding answers and getting help quicker and more convenient.\n\n![Image 525: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/54391922.png)\n\nWe've squashed bugs related to mobile views, block templates, and more to ensure a smoother experience. Your support and patience are greatly appreciated as we continue to improve Lindo AI.\n\n![Image 526: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67622079.png)\n\nThank you for your trust, your enthusiasm, and your unwavering support.\n\nWarm regards,  \nLindo Ai Team\n\nWe are thrilled to welcome you to our March update, a month marked by significant milestones and exciting advancements in Lindo's journey. Let's delve into the extensive updates that have been carefully curated to enhance your Lindo experience:\n\n15 New Features to Elevate Your Experience!\n\n\n---------------------------------------------\n\nWhite Label Services Enhancements\n\n1\\. Revoke a User from Website\n\nNow, you can revoke a user's access to a website! Simply click on '...' and select 'Revoke.' The user's access will then be terminated from the website.\n\n![Image 527: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/64951020.png)\n\n2\\. Remove Lindo Branding from Button App Samples\n\nWe've removed Lindo Branding from Button Apps Samples.\n\n![Image 528: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/47865383.png)\n\n3\\. White Label Magic Link URL\n\nWe've enhanced the White Label magic link URL with a generic URL, ensuring that your white label customers won't see Lindo AI's URL in their authentication domain. This adds an extra layer of professionalism and brand consistency for your clients.\n\n![Image 529: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/83144441.png)\n\n4\\. White Label Authentication Domain\n\n![Image 530: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/44820677.png)\n\n5\\. White Label DNS records\n\nNow, for White Label users, we've replaced Lindo branded domains with a generic domain. This means that if a link expires or a non-user attempts to log in, they'll see an error message with a non-Lindo AI branded domain, maintaining a seamless experience within your branding ecosystem.\n\n![Image 531: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/49283367.png)\n\nTo enhance the user experience, we're introducing a color picker in the text editor for applying custom colors to text.\n\n![Image 532: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/43115399.png)\n\n2\\. Block Settings - Background Image\n\nWe're excited to announce the Block Settings release. You have the freedom to customize blocks according to their preferences. You can now upload a PNG image for a block background.\n\n![Image 533: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/30069206.png)\n\n3\\. Block Settings - Background color\n\nYou can apply a custom color to the block background.\n\n![Image 534: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/79349623.png)\n\n4\\. Block Settings - Padding\n\nYou can adjust the white space for the top and bottom of the block you want.\n\n![Image 535: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/49823474.png)\n\n5\\. Block Settings - Border\n\nYou can set a border for the top or bottom of the block.\n\n![Image 536: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/46487149.png)\n\n6\\. Asset Management Update\n\nNow you have more options for the assets you've uploaded:  \n**  \nDelete** the asset if you no longer need it.  \n**View** the asset in its actual size.  \n**Copy** the URL of the asset and use it wherever you want. Your assets are safe with us.\n\n![Image 537: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/72555423.png)\n\nAddressing user feedback, we've resolved an issue with the Login button redirecting users to the magic link received via email. Additionally, we've added the magic link URL directly in the email for ease of access, allowing users to click on it or copy-paste it directly into their browser.\n\n![Image 538: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/95636631.png)\n\nIntroducing the section order number feature! Now, when hovering over a block in our page editor, users can quickly identify the order number of a section. This aids in setting in-page anchors for seamless navigation within the page.\n\n![Image 539: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/92887863.png)\n\nWe've implemented section IDs for each block, facilitating customization with custom code. Users can find snippet codes in our Tips and Tricks articles, replacing the section ID to tailor blocks according to their preferences\n\n![Image 540: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61737771.png)\n\n10\\. Dashboard UI/UX improvement\n\nOur team has focused on enhancing the dashboard's user interface and experience. We've resolved minor issues with tab navigation and improved mobile device compatibility, ensuring a smoother workflow for all users.\n\n![Image 541: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/80638965.png)\n\nWe're thrilled about what's on the horizon! There are some fantastic updates and features in the works that we can't wait to share with you. Stay tuned for more exciting news as we continue to enhance your Lindo experience!\n\nThank you for your trust, your enthusiasm, and your unwavering support.\n\nWarm regards,  \nLindo Ai Team\n\n15 New Features to Elevate Your Experience!\n\n\n---------------------------------------------\n\nWe are thrilled to welcome you to our February update, a month marked by significant milestones and exciting advancements in Lindo's journey. As we reflect on our collective achievements, let's celebrate the remarkable growth and accomplishments we've attained together:\n\n*   **Over 13,000 users:** Our Lindo family has grown to over 13,000 users worldwide, a testament to the trust and confidence you've placed in us.\n  \n*   **  \n    150,000+ web pages created:** Lindo users have unleashed their creativity to craft over 150,000 web pages, showcasing a diverse array of ideas and visions.\n  \n*   **  \n    Paid user base increased by 2,222:** We're proud to share that our paid user base has expanded by 2,222 individuals, demonstrating the value and reliability of Lindo AI.\n  \n*   **Over 800 web agencies onboarded:** Lindo AI has welcomed over 800 web agencies onboard, empowering them to create stunning websites for their clients with ease and efficiency.\n\n![Image 542: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/98327720.png)\n\nWelcoming New Team Members\n\nWe're thrilled to announce the addition of new members to our Lindo team. In February, we welcomed talented individuals to our development and customer success teams. Their expertise and passion will enhance our capabilities, ensuring that we continue to deliver exceptional service and support to our valued users. With their arrival, we're excited to address your inquiries and provide even more personalized assistance as we move forward together.\n\n![Image 543: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/77055993.png)\n\nNow, let's delve into the extensive updates that have been carefully curated to enhance your Lindo experience:\n\nWhite Label Services Enhancements\n\n1\\. Removal of Lindo Branding\n\nAs part of our commitment to providing a seamless white-label experience for our partners, we've removed the \"Made with Lindo\" branding from the footer of websites created using our platform. This empowers our partners to truly make Lindo their own.\n\n![Image 544: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/08034761.png)\n\n2\\. Logo Update in Admin Panel\n\nWe're giving our partners greater control over their white-label web apps by allowing them to update their agency logo and favicon directly within the admin dashboard.\n\n![Image 545: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/20156918.png)\n\n3\\. Enhanced Admin Account\n\nAccess to essential links such as support, help center, and updates have been added to the admin account, streamlining navigation and improving user experience.\n\n![Image 546: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/31611161.png)\n\n4\\. Introducing Lindo Expert Service\n\nFor agencies seeking tailored solutions for niche markets, we're proud to introduce Lindo Expert Service. Build AI dynamic websites with exclusive templates customized for your agency and niche.\n\n![Image 547: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/17496291.png)\n\nWe've made enhancements to the white-label user interface, including adjustments to logo size and form size recommendations, ensuring a consistent branding experience for our partners.\n\n![Image 548: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/25880935.png)\n\nWe've introduced H1, H2, and H3 tags to the editor, offering more flexibility in text formatting. Stay tuned for further enhancements in March, including custom colors and additional HTML tags.\n\n![Image 549: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/21383396.png)\n\n2\\. Tips and Tricks Article:\n\nExplore a range of new possibilities with our tips and tricks article, providing quick snippets of code to enhance your website. Look forward to more features and updates in March to further enhance your editing experience.\n\n![Image 550: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/67363432.png)\n\nEnjoy greater flexibility with customized 404 pages, allowing you to create personalized error pages for a better user experience.\n\n![Image 551: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61456954.png)\n\n4\\. Blocks Variation Updates\n\nWe've added over 20 variations to our block lists and fixed issues with embed blocks like Vimeo, YouTube, and Airtable. Stay tuned for a detailed report on these updates in the coming week.\n\n![Image 552: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/18823063.png)\n\nWe've enhanced block actions for improved accessibility and readability, making features like copy, hide/show, delete, and duplicate more intuitive.\n\n![Image 553: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/92634846.png)\n\n6\\. Removal of Lindo Branding\n\nWe've removed the \"Made with Lindo\" branding from the footer of Lindo-powered websites. This change saves you time by eliminating the need to update the footer with general text, offering greater flexibility in branding and customization options.\n\n![Image 554: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/74325017.png)\n\n7\\. Cookie Consent Customization\n\nCustomize your cookie consent experience by deactivating the default settings and adding your own customized consent via custom code.\n\n![Image 555: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/68617757.png)\n\n8\\. Help Center Enhancements\n\nOur help center has been updated with improved categorization and expanded articles to provide comprehensive support and guidance.\n\n![Image 556: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/95920918.png)\n\n9\\. Feature Requests Reviewing\n\nWe've carefully reviewed feature requests from our users, categorizing them based on priority and feasibility. Look out for updates on feature implementations in the coming weeks.\n\n![Image 557: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/95457727.png)\n\nLindo now speaks even more languages! We've added support for 10 additional languages, making it easier for you to reach a global audience. Now Lindo can generate text for you in more languages than ever before, helping you connect with users all around the world.\n\n![Image 558: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/44937102.png)\n\nWe're thrilled about what's on the horizon! There are some fantastic updates and features in the works that we can't wait to share with you. Stay tuned for more exciting news as we continue to enhance your Lindo experience!\n\nThank you for your trust, your enthusiasm, and your unwavering support.\n\nWarm regards,  \nLindo Ai Team\n\n10 New Features to Elevate Your Experience!\n\n\n---------------------------------------------\n\nElevate your website's identity! We've upgraded our custom domain connect experience. Lindo Ai now handles redirects seamlessly, allowing you to choose whether your domain displays with or without 'www.' Keep track of the connecting process live on your dashboard to ensure everything is seamlessly connected.\n\n1. Advanced Custom Domain:\n\nElevate your website's identity! We've upgraded our custom domain connect experience. Lindo Ai now handles redirects seamlessly, allowing you to choose whether your domain displays with or without 'www.' Keep track of the connecting process live on your dashboard to ensure everything is seamlessly connected.\n\n![Image 559: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/40773387.png)\n\n2\\. Upload Assets Formats Update\n\nExperience creative freedom! Lindo Ai now allows you to upload assets in various formats, including .JPG, .SVG, .GIF, and .WEBP, expanding your creative possibilities.\n\n![Image 560: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/91767339.png)\n\nTo give you more control over your account, we've introduced the ability to delete your website easily. If you need to start over, you can now delete unused websites directly from your website management page.\n\n![Image 561: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/19695756.png)\n\nIf you're looking to permanently delete your Lindo account, you can now do so from your profile. A new account management page has been added, and one of the functions available is the option to delete your account. Please note that this action will permanently delete all your websites.\n\n![Image 562: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/93291833.png)\n\nSometimes, you need assistance while creating your website. Introducing the Help Floating Button, accessible from all pages, whether you're in your dashboard or website editor. This feature provides immediate access to a chatbot assistant offering related articles from the help center, connecting to Lindo community, or even hiring an expert for that final touch and custom design for your website. Live agent support is also available.\n\n![Image 563: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/29690375.png)\n\nWe've developed a chatbot to guide you step by step, suggesting the right articles to help you navigate Lindo Ai effectively. All articles come with step-by-step guides and related screenshots covering various topics, from website editing to managing subscriptions. If you can't find what you're looking for, you can connect with a live agent immediately.\n\n![Image 564: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/33164321.png)\n\nFor those in need of expert assistance, we've dedicated a page to explain how it works. FAQs are provided, along with examples of custom websites created for Lindo Ai users.\n\n![Image 565: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94149117.png)\n\nStay informed by checking the help center frequently, as we've updated existing articles and added new ones to cover the latest features. Our commitment to providing weekly updates ensures that all new features are comprehensively covered in the help center.\n\n![Image 566: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/68527474.png)\n\nOur Slack community is growing, and we invite you to join us in the Lindo inner circle. We value a close relationship with all Lindo family members.\n\n![Image 567: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/73427925.png)\n\nIn your page list, you can now immediately see the status of a page, whether it's published or unpublished, right after creation.\n\n![Image 568: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/79943045.png)\n\nAs we wrap up November, we're excited about the progress Lindo Ai is making. Your feedback is invaluable, and we're committed to continuously enhancing Lindo Ai to meet your evolving needs.\n\nStay tuned for more updates, and thank you for being a part of the Lindo family.\n\n10 New Features to Elevate Your Experience!\n\n\n---------------------------------------------\n\nGreetings, Lindo AI Community!\n\nAs we bid farewell to October, it's time to showcase the strides we've made over the past month. Your invaluable feedback has been the guiding force behind our relentless pursuit of improvement, and we're thrilled to unveil the array of enhancements and features that have been diligently crafted. Let's delve into the myriad updates that aim to make your Lindo experience even more seamless and powerful.\n\n1\\. Multiple Website Management:\n\nWe've revamped the website management experience, catering to the needs of our freelancers and agencies handling multiple websites. Now, at the core of our web app, users can seamlessly navigate between their existing websites, switch between them effortlessly, and create new ones with AI—eliminating any limitations. This streamlines the workflow for managing multiple projects, enhances efficiency in website creation, and offers a user-friendly interface for effortless navigation.\n\n![Image 569: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/61475783.png)\n\n2\\. Mobile Responsiveness:\n\nFlexibility is the cornerstone of our approach. Lindo AI is now fully responsive on mobile devices, empowering users to edit their websites on the go. Quick edits or updates are now just a few taps away, ensuring that you have the freedom to work from anywhere, on any device. This increased accessibility allows for a seamless cross-device user experience.\n\n![Image 570: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/57313857.png)\n\nThe heart of innovation, Lindo Copilot, has seen significant enhancements. It now allows users to create website pages, blog posts, and even social media content effortlessly. With an improved UI, additional templates, and more potent AI-generated content, Copilot is now a creative powerhouse, simplifying content creation, offering wider template choices, and enhancing AI-driven content creation capabilities.\n\n![Image 571: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/44279760.png)\n\n4\\. Simplified Onboarding:\n\nBuilding a website has never been simpler. Our refined onboarding process involves personalized questions, providing tailored support and guidance throughout your Lindo AI journey. This personalization enhances the user experience, offers tailored support, and ensures a smoother onboarding process for users.\n\n![Image 572: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/89942268.png)\n\nOur commitment to user-centric design has driven significant updates in both the web app and editor. Refined hierarchy structures, improved navigation, and an emphasis on user feedback have made the Lindo experience more seamless and intuitive than ever. This enhances the user experience, improves navigation, and ensures a simpler website creation and management process.\n\n![Image 573: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/07383847.png)\n\nMinor bugs fixed, 10 new blocks added, and improvements in responsive design make creating your website even more effortless. This expanded variety of options, smoother design process, and increased customization capabilities elevate the user experience.\n\n![Image 574: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/69127705.png)\n\nMinor bugs fixed, enhanced AI-generated contents, updated global navigation for seamless website exploration, and 6 new Copilot-powered pages. These updates result in enhanced content creation capabilities, improved website navigation, and a wider array of templates for a more engaging website.\n\n![Image 575: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/25225017.png)\n\nBug fixes for YouTube and Google Maps, plus the ability to use Senja by URL. The introduction of the Common Ninja embed block offers users more flexibility in incorporating components into their website. This expansion of embedding capabilities and improved compatibility increases options for content integration.\n\n![Image 576: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/98326861.png)\n\nA smoother workflow for updating logos has been introduced. Changes are now visible live across the entire website in less than a second, ensuring a seamless branding experience. This faster logo update process and real-time changes across the website ensure a more cohesive brand representation.\n\n![Image 577: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/13086171.png)\n\nThe global custom code updates have undergone a streamlined workflow. Changes now go live with a single click, making customization simple and efficient. This simplified customization process, real-time code updates, and more control over website features ensure a more intuitive customization experience.\n\n![Image 578: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/54269352.png)\n\nAs October concludes, these updates reflect our commitment to providing you with a powerful and user-friendly website-building experience. Your feedback continues to guide us, and we're excited about the journey ahead.\n\nStay tuned for more exciting developments in the coming months!\n\nWarm regards,  \nLindo Team\n\n20 New Features to Elevate Your Experience!\n\n\n---------------------------------------------\n\nLindo September Updates ✨\n\nIntroducing Our New Web App:\n\nWe're thrilled to introduce the latest version of our web app, a significant milestone achieved just two months after our public launch. With more than 4,000 users and over 10,000 web pages created, we've listened to your valuable feedback. The new web app boasts a sleeker user interface, an enhanced user experience, and improved speed, making it even more intuitive and responsive. These enhancements will empower you to effortlessly bring your web ideas to life, creating a website that truly reflects your vision.\n\n![Image 579: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/93665802.png)\n\nBuild a Full Website with Ease:\n\nLindo was originally designed for creating landing pages, but now, with our updated web app and editor, we've expanded its capabilities. You can now create complete websites in mere seconds using only a brief description. These websites can include essential pages such as Home, Services, Articles, About Us, Contact Us, two related blog posts, Privacy Policy, and Terms and Conditions. This feature streamlines the process of creating an entire online presence, from a landing page to a comprehensive website.\n\n![Image 580: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/49526718.png)\n\nEffortless Page Management:\n\nOur new web app revolutionizes page management, putting you in control of your created pages like never before. You can easily delete, duplicate, rename, archive, or unpublish pages. This intuitive feature ensures that your website remains up to date and tailored to your needs, all with a few simple clicks.\n\n![Image 581: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/57141065.png)\n\nDo you need to manage multiple websites with unique URLs and distinct workspaces? Lindo AI now allows you to create an unlimited number of workspaces, providing clarity and organization for all your web projects. This feature simplifies the process of managing multiple websites from a single, user-friendly dashboard.\n\n![Image 582: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/77467584.png)\n\nCollaboration Made Simple:\n\nEffective collaboration is crucial when creating a website. With our new web app, you can invite team members by simply entering their email addresses. They'll have access to all your pages, enabling seamless collaboration and real-time edits. Building websites with a team has never been this straightforward.\n\n![Image 583: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/81150128.png)\n\nUser privacy is a top priority for website visitors. If you've created your website with Lindo AI, you can now easily add a cookie banner to inform users about the use of cookies and even link it to your cookie policy. This feature ensures transparency and compliance with privacy regulations.\n\n![Image 584: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/33443741.png)\n\nFor websites featuring sensitive content that requires age verification, Lindo AI now offers a straightforward solution. You can easily set up an age gate from your settings, ensuring that your content is accessed only by the appropriate audience.\n\n![Image 585: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/89330070.png)\n\nAdjust Pricing for Better Value:\n\nFollowing two months of public launch and valuable user feedback, we've simplified our pricing structure to offer the Pro Plan, providing unlimited access to all Lindo AI features. New users can enjoy a 14-day trial of this plan to experience the full potential of Lindo AI before selecting a plan that aligns with their specific needs. This change aims to make website creation more accessible and budget-friendly for all.\n\n![Image 586: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/35846112.png)\n\nWe're excited to offer a special incentive for users who opt for Lindo AI's annual payment plan. Not only will you save 30% on your subscription, but you'll also receive a free .com domain, enhancing the value of your Lindo AI experience.\n\n![Image 587: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/29309069.png)\n\nLindo AI users now have the opportunity to explore the powerful features of our Pro Plan with a 14-day free trial. Dive into an unlimited world of website creation and discover the possibilities.\n\n![Image 588: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/00241518.png)\n\nWe value your input in shaping the future of Lindo AI. We've published our roadmap, making it accessible to all users. If you have suggestions or feature requests, don't hesitate to participate and help us build a better website builder that caters to your unique needs.\n\n![Image 589: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/86136037.png)\n\nWe understand the importance of branding for agencies and freelancers. Our white label solution empowers you to run Lindo AI under your business name, logo, and domain, enhancing your branding and offering a fully customized experience to your clients. We're here to help you represent your brand in the best possible way.\n\n![Image 590: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/75413692.png)\n\nNeed a website quickly? Our Lindo Experts can create a fully customized website for you within just 48 hours. This service includes a personalized 1:1 video call, a tailored list of pages based on your requirements, a complete website with all pages, content, and images, and unlimited revisions. Plus, you'll receive a free .com domain to kickstart your online presence.\n\n![Image 591: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/27489082.png)\n\nIn the website editor, you can now hide specific blocks that you don't want to display on your live website. This feature allows you to keep elements for future use while maintaining a clean and user-friendly front-end design.\n\n![Image 592: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/37018773.png)\n\nCopying blocks across pages has never been easier. Whether you want to sync your header and footer across all pages or replicate a call-to-action block on multiple pages, Lindo AI's editor simplifies the process with a single click.\n\n![Image 593: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/47119371.png)\n\nAchieve a consistent and synchronized theme throughout your website. Lindo AI now enables you to apply your desired theme to all your website pages, ensuring a cohesive and professional look.\n\n![Image 594: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/05180825.png)\n\nGain quick and easy access to all your website pages directly within the editor. This streamlined navigation allows you to manage and edit your content more efficiently.\n\n![Image 595: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94226532.png)\n\nLindo AI now offers five new embed blocks, making it effortless to integrate content from popular tools and services into your website. This broadens your website's functionality and enhances the user experience.\n\n![Image 596: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/94043492.png)\n\nPersonalize your website by easily changing the accent color to match your brand's identity. Lindo AI provides precise color code options, ensuring that your website reflects your unique style.\n\n![Image 597: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/38390068.png)\n\nSelecting the perfect font for your brand is now a breeze. Lindo AI offers a wide selection of fonts, allowing you to choose the one that best represents your brand identity with just a single click.\n\n![Image 598: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/82487740.png)\n\nWe believe that these updates will further enhance your Lindo AI experience, making website creation and management even more efficient, flexible, and tailored to your unique needs. We look forward to seeing the incredible websites you'll create using these new features. Stay tuned for more updates and improvements as we continue our journey to provide you with the ultimate website-building platform.\n\nThank you for choosing Lindo AI as your trusted partner in website creation. If you have any questions or feedback, please feel free to reach out to us. We value your insights and are here to support you on your web-building journey.\n\n10 New Features to Elevate Your Experience!\n\n\n---------------------------------------------\n\nAugust has been a fantastic month for Lindo, and we're thrilled to share the 10 game-changing updates that are now live for all users. We know you're busy, so let's get straight to the exciting enhancements:\n\nOur new and improved Help Center is your go-to resource for answers. It's packed with solutions to common queries, and we're updating it daily.\n\nHave a question we haven't covered? Let us know!\n\n![Image 599: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/78573502.png)\n\nNow, you have the power to style any text on your page. It's as simple as selecting the text and applying your preferred styles.\n\n![Image 600: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/36997506.png)\n\nDiscover the revamped Block Actions menu featuring the new Change Layout button. Easily explore layout variations for your blocks. Try it out and share your feedback.\n\n![Image 601: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/19577625.png)\n\nWe've polished the Editor Action Buttons with refined text. Your thoughts matter – let us know what you think!\n\n![Image 602: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/96328231.png)\n\n![Image 603: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/49537855.png)\n\nStay on top of your website's performance with daily analytics delivered to your inbox. Dive into visitor insights without missing a beat.\n\n![Image 604: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/45027386.png)\n\nPersonalize your brand with ease. Choose your logo size right from the Logo upload form. Your brand, your rules.\n\n![Image 605: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/06156849.png)\n\nElevate your buttons with Lindo Button Apps. They offer seamless solutions for data collection, sales, meetings, and more. We're updating the app list weekly – tell us your dream app!\n\n![Image 606: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/03400426.png)\n\nTailor your page with embedded services using pre-made blocks. YouTube, Loom, Calendly – you name it, we've got you covered.\n\n![Image 607: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/64409894.png)\n\nIntroducing 10 fresh blocks to meet your unique needs. Want even more? We're all ears!\n\n![Image 608: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/82708459.png)\n\nExperience new templates, including exciting e-commerce options. And guess what? More templates are coming soon. Need a specific template? We're here to make it happen.\n\n![Image 609: Image Description](https://cdn.lindoai.com/c/recWb5MDAKXtEkkWV/images/80970783.png)\n\nWe're your partners in empowerment, here to amplify your Lindo journey. Your feedback fuels our progress, so keep it coming!\n\nHappy building!\n\nThe Lindo Team\n\nmRMvlJ\n\n[© All rights reserved](https://www.lindoai.com/articles/en/updates/august#)",
+  "usage": {
+    "tokens": 19057
+  }
+}
+```

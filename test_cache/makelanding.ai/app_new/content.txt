@@ -1,0 +1,68 @@
+Create a landing page in seconds with AI
+----------------------------------------
+
+Describe the landing page you want. Be specific.  
+You can give instructions like "for Spanish speakers" or "use blue color"  
+Choose the language of your landing page. (Optional)
+
+### Select Page Type (Optional)
+
+*   ![Image 21: Sales Landing Page](https://makelanding.ai/_next/image?url=%2Fsales_lp.png&w=1080&q=75)
+    
+    Sales Landing Page
+    
+    Promotes products to customers with persuasive content and clear pathways for conversions.
+    
+*   ![Image 22: Course Landing Page](https://makelanding.ai/_next/image?url=%2Fcourse_lp.png&w=1080&q=75)
+    
+    Course Landing Page
+    
+    Showcases educational courses, highlighting benefits, testimonials, and features to entice sign-ups.
+    
+*   ![Image 23: Podcast Info Landing Page](https://makelanding.ai/_next/image?url=%2Fpodcast_lp.png&w=1080&q=75)
+    
+    Podcast Info Landing Page
+    
+    Provides comprehensive details about a podcast series, serving as a hub for potential listeners.
+    
+*   ![Image 24: Software (SaaS) Waitlist Landing Page](https://makelanding.ai/_next/image?url=%2Fsaas_waitlist_lp.png&w=1080&q=75)
+    
+    Software (SaaS) Waitlist Landing Page
+    
+    Captures interest and sign-ups for upcoming software products by offering previews and benefits.
+    
+*   ![Image 25: Book Info Landing Page](https://makelanding.ai/_next/image?url=%2Fbook_lp.png&w=1080&q=75)
+    
+    Book Info Landing Page
+    
+    Dedicated to providing essential details about a book, engaging potential readers with insights.
+    
+*   ![Image 26: Pricing Landing Page](https://makelanding.ai/_next/image?url=%2Fpricing_lp.png&w=1080&q=75)
+    
+    Pricing Landing Page
+    
+    Outlines pricing structures, plans, and features to assist informed decisions.
+    
+*   ![Image 27: Pre-Launch Landing Page](https://makelanding.ai/_next/image?url=%2Fpre_launch_lp.png&w=1080&q=75)
+    
+    Pre-Launch Landing Page
+    
+    Gathers early sign-ups for upcoming products without unveiling the entire offer.
+    
+*   ![Image 28: Squeeze Landing Page](https://makelanding.ai/_next/image?url=%2Fsqueeze_lp.png&w=1080&q=75)
+    
+    Squeeze Landing Page
+    
+    Captures email addresses to nurture leads with relevant content for further marketing efforts.
+    
+*   ![Image 29: Product Info Landing Page](https://makelanding.ai/_next/image?url=%2Fproduct_info_lp.png&w=1080&q=75)
+    
+    Product Info Landing Page
+    
+    Provides comprehensive details about a product, including features, benefits, and reviews.
+    
+*   ![Image 30: Referral(testimonial) Landing Page](https://makelanding.ai/_next/image?url=%2Ftestimonial_lp.png&w=1080&q=75)
+    
+    Referral(testimonial) Landing Page
+    
+    Showcases reviews, testimonials, or referrals to build trust and generate more sales.

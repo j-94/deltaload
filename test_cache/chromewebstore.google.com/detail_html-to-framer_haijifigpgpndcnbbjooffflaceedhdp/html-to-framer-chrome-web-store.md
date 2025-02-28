@@ -1,0 +1,261 @@
+---
+title: HTML to Framer - Chrome Web Store
+description: Bring your own website into Framer with a few clicks. Simply copy and paste web elements and edit them directly in Framer.
+url: https://chromewebstore.google.com/detail/html-to-framer/haijifigpgpndcnbbjooffflaceedhdp
+timestamp: 2025-01-20T16:04:54.012Z
+domain: chromewebstore.google.com
+path: detail_html-to-framer_haijifigpgpndcnbbjooffflaceedhdp
+---
+
+# HTML to Framer - Chrome Web Store
+
+
+Bring your own website into Framer with a few clicks. Simply copy and paste web elements and edit them directly in Framer.
+
+
+## Content
+
+![Image 48: Item logo image for HTML to Framer](https://lh3.googleusercontent.com/FiVIVe6jFqCgHB2hMe2-cQEFyz2GsFyMhmSbc50hxbgUckPjr-LOGxaKImZwzBEphzW3lTIfR2_yMo9gpxPYM7ulfmg=s60)
+
+![Image 49: Item video thumbnail](blob:https://chromewebstore.google.com/8dfea37a44cf4a1fbac621935d4ab819)
+
+![Image 50: Item media 2 screenshot](https://lh3.googleusercontent.com/orPTeHNrjEq5GLutPE32SDbOSFSSIzuAoN1-OVX4hB4hNjeq8yA1pnpVjFALJG2kj84vrCo2dEdISb8woAFdujN5iIg=s1280-w1280-h800)
+
+Overview
+
+
+----------
+
+Bring your own website into Framer with a few clicks. Simply copy and paste web elements and edit them directly in Framer.
+
+Once you have installed the extension, simply hover over any element such as text, images, buttons, or entire layouts. Click to copy, then go to Framer and press ⌘V (or Ctrl V on Windows) to paste. Your elements will be pasted with a clean layer hierarchy, ready to be further edited or published immediately within Framer. Pro tip: Hold Shift to copy multiple items for even greater speed. To select a parent element of a site item, press Esc while hovering over it. Framer is where teams design and publish stunning sites. Try it for free today at framer.com
+
+Details
+-------
+
+*   Version
+    
+    0.6
+    
+*   Updated
+    
+    November 30, 2023
+    
+
+*   Size
+    
+    35.35KiB
+    
+*   Languages
+    
+*   Developer
+    
+    Framer B.V.  
+    Rozengracht 207B Amsterdam 1016 LZ NL
+    
+    [Website](https://framer.com/) Emailchrome-web-store-publishers@framer.comPhone+31 6 29486398
+    
+*   Trader
+    
+    This developer has identified itself as a trader per the definition from the European Union.
+    
+*   D-U-N-S
+    
+    491261882
+    
+
+Privacy
+-------
+
+HTML to Framer has disclosed the following information regarding the collection and usage of your data. More detailed information can be found in the developer's [privacy policy](https://www.framer.com/legal/privacy-statement).
+
+### HTML to Framer handles the following:
+
+This developer declares that your data is
+-----------------------------------------
+
+*   Not being sold to third parties, outside of the [approved use cases](https://developer.chrome.com/docs/webstore/program-policies/limited-use/)
+*   Not being used or transferred for purposes that are unrelated to the item's core functionality
+*   Not being used or transferred to determine creditworthiness or for lending purposes
+
+Support
+-------
+
+For help with questions, suggestions, or problems, visit the developer's [support site](https://framer.community/)
+
+Related
+-------
+
+![Image 51](https://lh3.googleusercontent.com/9MKf4-JqyeaailX23MzwdeZKlIjAS5J7wHeAd8fE_RRty0YLqc5j5M77MCDLRk1pH3hynaCVV2fVzZ5hEx7EdmK8Tw=s275-w275-h175)
+
+HTML to Figma - by Builder.io
+
+4.3(46)
+
+Import a web page to Figma layers
+
+![Image 52](https://lh3.googleusercontent.com/xRisz7ZyRPygsOkTT0QVhXRGt2fqYFIeyfkrWUIz5tFwMQLc1zsQPKAxqXq4P0PdcdcIRkkTqMyifeMawUoqMYXjXw=s275-w275-h175)
+
+Web to Figma
+
+2.6(13)
+
+Web to Figma extension to capture pages and components and import them into Figma as editable designs. No more screenshots.
+
+![Image 53](https://lh3.googleusercontent.com/0moeaTsB4tmgbb6c0vljd15Qk1d89RgHvudgjaXbq4HKVHsXyNL5dwpab0kH5Gv_XC-IMEjuBjw1E_h-Bav9o9RLMw=s275-w275-h175)
+
+CSS Peeper
+
+4.6(364)
+
+Extract CSS and build beautiful styleguides.
+
+![Image 54](https://lh3.googleusercontent.com/AnfVDeRLCTKHJvKV1HC7gfMNjFCoR_8mRi7lT3lKU8TQOzKI46zHVWTrKJa6dk5dUKSo-kvUcXJPPQ6dosBIjutmfA=s275-w275-h175)
+
+Fonts Ninja
+
+4.3(698)
+
+Speed up your design workflow!
+
+![Image 55](https://lh3.googleusercontent.com/DnvH56GI0NayKhk3AnAlRNmdtHbz8LjmN9VdlPyHZ5aBp6HyKJgnodeGrEJFvKPOuQhzFzhJoEGvbqz2dTzsBgyn1MQ=s275-w275-h175)
+
+SVG Export
+
+4.5(214)
+
+Download SVGs from websites as SVGs, PNGs or JPEGs
+
+![Image 56](https://lh3.googleusercontent.com/zYZ8jG0B0FLgPTDCM_p-n_hdvqLYzGGf5OsjrVDnI95bHCbz_kIKTr-1eDcOt9CXtrqSQhFo9N1_A53JweR7eRJyEsU=s275-w275-h175)
+
+Flowbase Chrome Extension
+
+4.7(12)
+
+Unlock advanced features directly inside of the Webflow designer. Copy from thousands of components, free icon packs and much more!
+
+![Image 57](https://lh3.googleusercontent.com/YxuAXIlOU0n6tWqzyyLmInUUwIhzLzeBFyfhmPQoGD-LKhCifvyhTLTQPg3b9VULKlucco06Kf4r3Y1cxyxL5VJpfw=s60)
+
+Framer Checker
+
+5.0(3)
+
+Check if a website was made using Framer.com
+
+![Image 58](https://lh3.googleusercontent.com/Ac0XL7TiMVMEieq9KGDWA66cT15Rl-_mmpdHRX_0urgTqOlEapnoICFOuPPTehy1sIT7hciVTMqXIpISnvvG8qn6VJg=s275-w275-h175)
+
+Muzli - Design inspiration hub
+
+4.5(740)
+
+Your daily dose of design with industry news, tools, and inspiration - all in one place.
+
+![Image 59](https://lh3.googleusercontent.com/aY_4a1urGuKybUAV6YBo5Ej2HjagcqOM7YTknBXl8jtIq-9Nk2y7XgqpyoAVM-rGE1xZBahYzPSUCVSoqWUS0MA-=s275-w275-h175)
+
+Relume Chrome Extension for Webflow
+
+5.0(37)
+
+Boost your productivity in Webflow with the Relume Chrome Extension.
+
+![Image 60](https://lh3.googleusercontent.com/IwnCeGjdiLQvOp4H54VAZIjAvkrNGl2F2I6I5OTQYHrtKcGhc5p2dVf_6WO-8dxDOPhxgGs1E4k_pMYPMLKuk8Nt2LE=s60)
+
+ClonewebX Softlite.io
+
+4.2(61)
+
+Connect and add a page to your clonewebx.softlite.io project.
+
+![Image 61](https://lh3.googleusercontent.com/AgDgVjbRi_tFDFu03B2ThYAiaHsJDRxaDeOYKKlepT8Dxhteq08A4C2T_QDFGJgvRHvIILuw2yvP4NPVkIy6FLI3lA=s275-w275-h175)
+
+mymind — An extension for your mind
+
+4.5(56)
+
+Add images, bookmarks, notes, quotes or text highlights to your new mind.
+
+![Image 62](https://lh3.googleusercontent.com/HTGPCwh8Nu_23oj2eR7Xq4Y6gj-OSX3MlBHB5Y3PFELq-ja7kt_tQAp4vD-E6vele6N-uZlqwJWVBLnJ4KhMMmPFp5c=s275-w275-h175)
+
+Figma
+
+4.7(27)
+
+Figma
+
+![Image 63](https://lh3.googleusercontent.com/9MKf4-JqyeaailX23MzwdeZKlIjAS5J7wHeAd8fE_RRty0YLqc5j5M77MCDLRk1pH3hynaCVV2fVzZ5hEx7EdmK8Tw=s275-w275-h175)
+
+HTML to Figma - by Builder.io
+
+4.3(46)
+
+Import a web page to Figma layers
+
+![Image 64](https://lh3.googleusercontent.com/xRisz7ZyRPygsOkTT0QVhXRGt2fqYFIeyfkrWUIz5tFwMQLc1zsQPKAxqXq4P0PdcdcIRkkTqMyifeMawUoqMYXjXw=s275-w275-h175)
+
+Web to Figma
+
+2.6(13)
+
+Web to Figma extension to capture pages and components and import them into Figma as editable designs. No more screenshots.
+
+![Image 65](https://lh3.googleusercontent.com/0moeaTsB4tmgbb6c0vljd15Qk1d89RgHvudgjaXbq4HKVHsXyNL5dwpab0kH5Gv_XC-IMEjuBjw1E_h-Bav9o9RLMw=s275-w275-h175)
+
+CSS Peeper
+
+4.6(364)
+
+Extract CSS and build beautiful styleguides.
+
+![Image 66](https://lh3.googleusercontent.com/AnfVDeRLCTKHJvKV1HC7gfMNjFCoR_8mRi7lT3lKU8TQOzKI46zHVWTrKJa6dk5dUKSo-kvUcXJPPQ6dosBIjutmfA=s275-w275-h175)
+
+Fonts Ninja
+
+4.3(698)
+
+Speed up your design workflow!
+
+![Image 67](https://lh3.googleusercontent.com/DnvH56GI0NayKhk3AnAlRNmdtHbz8LjmN9VdlPyHZ5aBp6HyKJgnodeGrEJFvKPOuQhzFzhJoEGvbqz2dTzsBgyn1MQ=s275-w275-h175)
+
+SVG Export
+
+4.5(214)
+
+Download SVGs from websites as SVGs, PNGs or JPEGs
+
+![Image 68](https://lh3.googleusercontent.com/zYZ8jG0B0FLgPTDCM_p-n_hdvqLYzGGf5OsjrVDnI95bHCbz_kIKTr-1eDcOt9CXtrqSQhFo9N1_A53JweR7eRJyEsU=s275-w275-h175)
+
+Flowbase Chrome Extension
+
+4.7(12)
+
+Unlock advanced features directly inside of the Webflow designer. Copy from thousands of components, free icon packs and much more!
+
+![Image 69](https://lh3.googleusercontent.com/YxuAXIlOU0n6tWqzyyLmInUUwIhzLzeBFyfhmPQoGD-LKhCifvyhTLTQPg3b9VULKlucco06Kf4r3Y1cxyxL5VJpfw=s60)
+
+Framer Checker
+
+5.0(3)
+
+Check if a website was made using Framer.com
+
+![Image 70](https://lh3.googleusercontent.com/Ac0XL7TiMVMEieq9KGDWA66cT15Rl-_mmpdHRX_0urgTqOlEapnoICFOuPPTehy1sIT7hciVTMqXIpISnvvG8qn6VJg=s275-w275-h175)
+
+Muzli - Design inspiration hub
+
+4.5(740)
+
+Your daily dose of design with industry news, tools, and inspiration - all in one place.
+
+## Metadata
+
+```json
+{
+  "title": "HTML to Framer - Chrome Web Store",
+  "description": "Bring your own website into Framer with a few clicks. Simply copy and paste web elements and edit them directly in Framer.",
+  "url": "https://chromewebstore.google.com/detail/html-to-framer/haijifigpgpndcnbbjooffflaceedhdp",
+  "content": "![Image 48: Item logo image for HTML to Framer](https://lh3.googleusercontent.com/FiVIVe6jFqCgHB2hMe2-cQEFyz2GsFyMhmSbc50hxbgUckPjr-LOGxaKImZwzBEphzW3lTIfR2_yMo9gpxPYM7ulfmg=s60)\n\n![Image 49: Item video thumbnail](blob:https://chromewebstore.google.com/8dfea37a44cf4a1fbac621935d4ab819)\n\n![Image 50: Item media 2 screenshot](https://lh3.googleusercontent.com/orPTeHNrjEq5GLutPE32SDbOSFSSIzuAoN1-OVX4hB4hNjeq8yA1pnpVjFALJG2kj84vrCo2dEdISb8woAFdujN5iIg=s1280-w1280-h800)\n\nOverview\n\n\n----------\n\nBring your own website into Framer with a few clicks. Simply copy and paste web elements and edit them directly in Framer.\n\nOnce you have installed the extension, simply hover over any element such as text, images, buttons, or entire layouts. Click to copy, then go to Framer and press ⌘V (or Ctrl V on Windows) to paste. Your elements will be pasted with a clean layer hierarchy, ready to be further edited or published immediately within Framer. Pro tip: Hold Shift to copy multiple items for even greater speed. To select a parent element of a site item, press Esc while hovering over it. Framer is where teams design and publish stunning sites. Try it for free today at framer.com\n\nDetails\n-------\n\n*   Version\n    \n    0.6\n    \n*   Updated\n    \n    November 30, 2023\n    \n\n*   Size\n    \n    35.35KiB\n    \n*   Languages\n    \n*   Developer\n    \n    Framer B.V.  \n    Rozengracht 207B Amsterdam 1016 LZ NL\n    \n    [Website](https://framer.com/) Emailchrome-web-store-publishers@framer.comPhone+31 6 29486398\n    \n*   Trader\n    \n    This developer has identified itself as a trader per the definition from the European Union.\n    \n*   D-U-N-S\n    \n    491261882\n    \n\nPrivacy\n-------\n\nHTML to Framer has disclosed the following information regarding the collection and usage of your data. More detailed information can be found in the developer's [privacy policy](https://www.framer.com/legal/privacy-statement).\n\n### HTML to Framer handles the following:\n\nThis developer declares that your data is\n-----------------------------------------\n\n*   Not being sold to third parties, outside of the [approved use cases](https://developer.chrome.com/docs/webstore/program-policies/limited-use/)\n*   Not being used or transferred for purposes that are unrelated to the item's core functionality\n*   Not being used or transferred to determine creditworthiness or for lending purposes\n\nSupport\n-------\n\nFor help with questions, suggestions, or problems, visit the developer's [support site](https://framer.community/)\n\nRelated\n-------\n\n![Image 51](https://lh3.googleusercontent.com/9MKf4-JqyeaailX23MzwdeZKlIjAS5J7wHeAd8fE_RRty0YLqc5j5M77MCDLRk1pH3hynaCVV2fVzZ5hEx7EdmK8Tw=s275-w275-h175)\n\nHTML to Figma - by Builder.io\n\n4.3(46)\n\nImport a web page to Figma layers\n\n![Image 52](https://lh3.googleusercontent.com/xRisz7ZyRPygsOkTT0QVhXRGt2fqYFIeyfkrWUIz5tFwMQLc1zsQPKAxqXq4P0PdcdcIRkkTqMyifeMawUoqMYXjXw=s275-w275-h175)\n\nWeb to Figma\n\n2.6(13)\n\nWeb to Figma extension to capture pages and components and import them into Figma as editable designs. No more screenshots.\n\n![Image 53](https://lh3.googleusercontent.com/0moeaTsB4tmgbb6c0vljd15Qk1d89RgHvudgjaXbq4HKVHsXyNL5dwpab0kH5Gv_XC-IMEjuBjw1E_h-Bav9o9RLMw=s275-w275-h175)\n\nCSS Peeper\n\n4.6(364)\n\nExtract CSS and build beautiful styleguides.\n\n![Image 54](https://lh3.googleusercontent.com/AnfVDeRLCTKHJvKV1HC7gfMNjFCoR_8mRi7lT3lKU8TQOzKI46zHVWTrKJa6dk5dUKSo-kvUcXJPPQ6dosBIjutmfA=s275-w275-h175)\n\nFonts Ninja\n\n4.3(698)\n\nSpeed up your design workflow!\n\n![Image 55](https://lh3.googleusercontent.com/DnvH56GI0NayKhk3AnAlRNmdtHbz8LjmN9VdlPyHZ5aBp6HyKJgnodeGrEJFvKPOuQhzFzhJoEGvbqz2dTzsBgyn1MQ=s275-w275-h175)\n\nSVG Export\n\n4.5(214)\n\nDownload SVGs from websites as SVGs, PNGs or JPEGs\n\n![Image 56](https://lh3.googleusercontent.com/zYZ8jG0B0FLgPTDCM_p-n_hdvqLYzGGf5OsjrVDnI95bHCbz_kIKTr-1eDcOt9CXtrqSQhFo9N1_A53JweR7eRJyEsU=s275-w275-h175)\n\nFlowbase Chrome Extension\n\n4.7(12)\n\nUnlock advanced features directly inside of the Webflow designer. Copy from thousands of components, free icon packs and much more!\n\n![Image 57](https://lh3.googleusercontent.com/YxuAXIlOU0n6tWqzyyLmInUUwIhzLzeBFyfhmPQoGD-LKhCifvyhTLTQPg3b9VULKlucco06Kf4r3Y1cxyxL5VJpfw=s60)\n\nFramer Checker\n\n5.0(3)\n\nCheck if a website was made using Framer.com\n\n![Image 58](https://lh3.googleusercontent.com/Ac0XL7TiMVMEieq9KGDWA66cT15Rl-_mmpdHRX_0urgTqOlEapnoICFOuPPTehy1sIT7hciVTMqXIpISnvvG8qn6VJg=s275-w275-h175)\n\nMuzli - Design inspiration hub\n\n4.5(740)\n\nYour daily dose of design with industry news, tools, and inspiration - all in one place.\n\n![Image 59](https://lh3.googleusercontent.com/aY_4a1urGuKybUAV6YBo5Ej2HjagcqOM7YTknBXl8jtIq-9Nk2y7XgqpyoAVM-rGE1xZBahYzPSUCVSoqWUS0MA-=s275-w275-h175)\n\nRelume Chrome Extension for Webflow\n\n5.0(37)\n\nBoost your productivity in Webflow with the Relume Chrome Extension.\n\n![Image 60](https://lh3.googleusercontent.com/IwnCeGjdiLQvOp4H54VAZIjAvkrNGl2F2I6I5OTQYHrtKcGhc5p2dVf_6WO-8dxDOPhxgGs1E4k_pMYPMLKuk8Nt2LE=s60)\n\nClonewebX Softlite.io\n\n4.2(61)\n\nConnect and add a page to your clonewebx.softlite.io project.\n\n![Image 61](https://lh3.googleusercontent.com/AgDgVjbRi_tFDFu03B2ThYAiaHsJDRxaDeOYKKlepT8Dxhteq08A4C2T_QDFGJgvRHvIILuw2yvP4NPVkIy6FLI3lA=s275-w275-h175)\n\nmymind — An extension for your mind\n\n4.5(56)\n\nAdd images, bookmarks, notes, quotes or text highlights to your new mind.\n\n![Image 62](https://lh3.googleusercontent.com/HTGPCwh8Nu_23oj2eR7Xq4Y6gj-OSX3MlBHB5Y3PFELq-ja7kt_tQAp4vD-E6vele6N-uZlqwJWVBLnJ4KhMMmPFp5c=s275-w275-h175)\n\nFigma\n\n4.7(27)\n\nFigma\n\n![Image 63](https://lh3.googleusercontent.com/9MKf4-JqyeaailX23MzwdeZKlIjAS5J7wHeAd8fE_RRty0YLqc5j5M77MCDLRk1pH3hynaCVV2fVzZ5hEx7EdmK8Tw=s275-w275-h175)\n\nHTML to Figma - by Builder.io\n\n4.3(46)\n\nImport a web page to Figma layers\n\n![Image 64](https://lh3.googleusercontent.com/xRisz7ZyRPygsOkTT0QVhXRGt2fqYFIeyfkrWUIz5tFwMQLc1zsQPKAxqXq4P0PdcdcIRkkTqMyifeMawUoqMYXjXw=s275-w275-h175)\n\nWeb to Figma\n\n2.6(13)\n\nWeb to Figma extension to capture pages and components and import them into Figma as editable designs. No more screenshots.\n\n![Image 65](https://lh3.googleusercontent.com/0moeaTsB4tmgbb6c0vljd15Qk1d89RgHvudgjaXbq4HKVHsXyNL5dwpab0kH5Gv_XC-IMEjuBjw1E_h-Bav9o9RLMw=s275-w275-h175)\n\nCSS Peeper\n\n4.6(364)\n\nExtract CSS and build beautiful styleguides.\n\n![Image 66](https://lh3.googleusercontent.com/AnfVDeRLCTKHJvKV1HC7gfMNjFCoR_8mRi7lT3lKU8TQOzKI46zHVWTrKJa6dk5dUKSo-kvUcXJPPQ6dosBIjutmfA=s275-w275-h175)\n\nFonts Ninja\n\n4.3(698)\n\nSpeed up your design workflow!\n\n![Image 67](https://lh3.googleusercontent.com/DnvH56GI0NayKhk3AnAlRNmdtHbz8LjmN9VdlPyHZ5aBp6HyKJgnodeGrEJFvKPOuQhzFzhJoEGvbqz2dTzsBgyn1MQ=s275-w275-h175)\n\nSVG Export\n\n4.5(214)\n\nDownload SVGs from websites as SVGs, PNGs or JPEGs\n\n![Image 68](https://lh3.googleusercontent.com/zYZ8jG0B0FLgPTDCM_p-n_hdvqLYzGGf5OsjrVDnI95bHCbz_kIKTr-1eDcOt9CXtrqSQhFo9N1_A53JweR7eRJyEsU=s275-w275-h175)\n\nFlowbase Chrome Extension\n\n4.7(12)\n\nUnlock advanced features directly inside of the Webflow designer. Copy from thousands of components, free icon packs and much more!\n\n![Image 69](https://lh3.googleusercontent.com/YxuAXIlOU0n6tWqzyyLmInUUwIhzLzeBFyfhmPQoGD-LKhCifvyhTLTQPg3b9VULKlucco06Kf4r3Y1cxyxL5VJpfw=s60)\n\nFramer Checker\n\n5.0(3)\n\nCheck if a website was made using Framer.com\n\n![Image 70](https://lh3.googleusercontent.com/Ac0XL7TiMVMEieq9KGDWA66cT15Rl-_mmpdHRX_0urgTqOlEapnoICFOuPPTehy1sIT7hciVTMqXIpISnvvG8qn6VJg=s275-w275-h175)\n\nMuzli - Design inspiration hub\n\n4.5(740)\n\nYour daily dose of design with industry news, tools, and inspiration - all in one place.",
+  "usage": {
+    "tokens": 2857
+  }
+}
+```

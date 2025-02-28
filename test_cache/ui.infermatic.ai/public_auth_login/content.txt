@@ -1,0 +1,14 @@
+![Image 2: infermatic logo](https://ui.infermatic.ai/_next/image?url=%2FHorizontal%2FInfermatic_Logotype_Horizontal_01.png&w=828&q=75)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Your email
+
+Your password
+
+Login to your account
+
+[Resend verification email](https://ui.infermatic.ai/public/auth/resend-verify)
+
+[Forgot password?](https://ui.infermatic.ai/public/auth/forgot-password)
+
+Not registered? [Create account](https://ui.infermatic.ai/public/auth/signup)

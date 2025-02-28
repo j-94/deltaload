@@ -1,0 +1,381 @@
+---
+title: GitHub - yifaneye/react-gallery-carousel: Carousel component 🎠🎠🎠 supporting touch, mouse, keyboard, thumbnails, fullscreen, lazy loading, SSR and customisations. 👉 Live editor: https://yifanai.com/rgcd1 👉 Example: https://koalaliving.com.au/Arya-Sand-Beige-Vegan-Leather-Dining-Chair
+description: Carousel component 🎠🎠🎠 supporting touch, mouse, keyboard, thumbnails, fullscreen, lazy loading, SSR and customisations. 👉 Live editor: https://yifanai.com/rgcd1 👉 Example: https://koalaliving.com.au/Arya-Sand-Beige-Vegan-Leather-Dining-Chair - yifaneye/react-gallery-carousel
+url: https://github.com/yifaneye/react-gallery-carousel
+timestamp: 2025-01-20T15:32:18.903Z
+domain: github.com
+path: yifaneye_react-gallery-carousel
+---
+
+# GitHub - yifaneye/react-gallery-carousel: Carousel component 🎠🎠🎠 supporting touch, mouse, keyboard, thumbnails, fullscreen, lazy loading, SSR and customisations. 👉 Live editor: https://yifanai.com/rgcd1 👉 Example: https://koalaliving.com.au/Arya-Sand-Beige-Vegan-Leather-Dining-Chair
+
+
+Carousel component 🎠🎠🎠 supporting touch, mouse, keyboard, thumbnails, fullscreen, lazy loading, SSR and customisations. 👉 Live editor: https://yifanai.com/rgcd1 👉 Example: https://koalaliving.com.au/Arya-Sand-Beige-Vegan-Leather-Dining-Chair - yifaneye/react-gallery-carousel
+
+
+## Content
+
+react-gallery-carousel
+----------------------
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#react-gallery-carousel)
+
+[![Image 28: npm version](https://camo.githubusercontent.com/a804b8f2bf3e7344d14dd9122dbd9fdfec5a680c9adae538564b5ebdaae7f9d4/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742d67616c6c6572792d6361726f7573656c2e737667)](https://www.npmjs.com/package/react-gallery-carousel) [![Image 29: npm downloads](https://camo.githubusercontent.com/35e92ec9393555997586009e97327d237e82478fd9247f5c9400951b7636c0ae/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f646d2f72656163742d67616c6c6572792d6361726f7573656c2e737667)](https://www.npmjs.com/package/react-gallery-carousel) [![Image 30: npm bundle size](https://camo.githubusercontent.com/d5fb4c531dbcb339d7e5b689f8dfb514c7025d79cf5bd7a9eb73e250a512058c/68747470733a2f2f62616467656e2e6e65742f62756e646c6570686f6269612f6d696e7a69702f72656163742d67616c6c6572792d6361726f7573656c)](https://www.npmjs.com/package/react-gallery-carousel) [![Image 31: prettier](https://camo.githubusercontent.com/754faf8c130f602a98f87fd2912a8d4b9bcf8ab623fa9ac3352853015968cdb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64655f7374796c652d70726574746965722d6666363962342e737667)](https://github.com/prettier/prettier) [![Image 32: license](https://camo.githubusercontent.com/6581c31c16c1b13ddc2efb92e2ad69a93ddc4a92fd871ff15d401c4c6c9155a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)](https://github.com/yifaneye/react-gallery-carousel/blob/master/LICENSE) [![Image 33: Buy Me A Coffee](https://camo.githubusercontent.com/67f1b859c85032255c81e5f861a5f572fa25813c2ea5e7623b7efa91c395e37f/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f64656661756c742d6f72616e67652e706e67)](https://www.buymeacoffee.com/yifanai)
+
+Mobile-friendly Carousel with batteries included (supporting touch, mouse emulation, lazy loading, thumbnails, fullscreen, RTL, keyboard navigation and customisations).
+
+_The first version was published on 31st March 2021._
+
+[![Image 34: Carousel controlled by finger](https://camo.githubusercontent.com/3cf70ba1848cc7c40ab4d9ef750c1c5d9b0d278b7c84674215e0014284603a0e/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f746f7563682e676966)](https://camo.githubusercontent.com/3cf70ba1848cc7c40ab4d9ef750c1c5d9b0d278b7c84674215e0014284603a0e/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f746f7563682e676966)
+
+Try **[Live Demo](https://yifanai.com/rgc)**
+
+Background
+----------
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#background)
+
+### What problems do other Carousels have?
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#what-problems-do-other-carousels-have)
+
+I have **used and carefully analyzed a lot of carousel/slider components**. I summarized that **their issues** are:
+
+1.  Some of them do not move the slide as the user swipes on the slide.
+2.  Most of them do not support mouse dragging to move to the previous or the next slide. With the ones those support mouse emulation, some of them do not properly handle the case where the mouse leaves the carousel, which allow the user to continuously control the carousel.
+3.  Most of them do not support keyboard navigation (i.e. left, right and tab key).
+4.  Most of them cannot be maximized to fullscreen/modal/lightbox. With fullscreen, there is the issue of browser compatibility, i.e. iOS Safari on iPhone does not support the fullscreen API.
+5.  Most of them do not have an easy solution for building thumbnails. With the ones those have thumbnails, most of the thumbnails cannot be freely scrolled which lead to poor user experience. In addition, most of the thumbnails cannot be lazy loaded.
+6.  Most of them cannot lazy load (and preload) images. With the ones those can lazy load, most of them have transition that traverses the intermediate images when the user goes to a distant slide, which defeat the purpose of lazy loading.
+7.  Some of them cannot autoplay. With the ones those can autoplay, they cannot auto pause. For example, when the user hits another tab or goes to another app, the autoplay on those carousels do not pause.
+8.  Most of them do not respect the reduced motion settings by the user.
+9.  Most of them disregard the velocity of the swipe and just set a constant transition duration.
+10.  Some of their carousels will be in different sizes when the images/slides inside are in different sizes. Some of their transitions are bumpy when their images/slides are in different sizes.
+11.  Most of them do not support custom elements in a slide.
+12.  Most of them cannot be set to display in Right-to-Left (RTL).
+13.  Some of them disable pinching to zoom, while some others glitch when pinching with 2 fingers. Besides, when the window is zoomed in, most of them still detect for touch swiping to move to the previous, or the next slide, while the intention of most users in this scenario is panning to see other parts of the current slide.
+14.  Some of them will cause the slides to stuck its position on window resize or on mobile device orientation change, until another user interaction.
+15.  Some of them can only have predetermined images (i.e. before the carousel component mounts).
+16.  Most of them do not provide a solution for fallback/placeholder image (for when an image is not available).
+17.  Some of them get zoomed in when the user double taps on the control, while the intention of most users in this scenario is to quickly go to the next after the next slide.
+18.  Some of them remove the left or right button to indicate that there are no more slides in that direction. However, user is likely to click that spot where the button used to be, which causes undesired behaviours e.g. clicking on a link or button which is also at that spot.
+19.  Some of them use the method of cloning the first, and the last slide to achieve looping (or infinite mode). I think that method is not great semantically.
+20.  Some of them cannot distinguish a vertical swipe from a horizontal swipe, so that a not exactly vertical swipe moves the slides slightly horizontally; and a not exactly horizontal swipe moves the (document) page slightly vertically.
+
+### What did I set to achieve?
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#what-did-i-set-to-achieve)
+
+I wanted to write my own **detail-oriented** and **exquisite** carousel component that is easy to use yet solves/supports all these things above under the hood. 🤓
+
+I wanted to take my understanding of JavaScript events, DOM manipulation, browser APIs, cross-browser compatibility and performance debugging to the next level. 🤓
+
+I wanted to master React functional components, hooks, custom hooks and reconciliation. 🤓
+
+I wanted to learn more, place more care and attention to accessibility. I want to give focus outlines to the right users, support keyboard navigation, support screen reader, and follow [W3C accessible carousel tutorials](https://www.w3.org/WAI/tutorials/carousels/).
+
+My carousel should support: touch, mouse emulation, keyboard navigation, modal (lightbox), thumbnails, autoplay (and auto pause), RTL (right to left for internationalization), image lazy loading (and preloading), responsive images, fallback image, reduced motion settings, instantaneous velocity detection, responsive design, images with any sizes, custom elements in a slide, pinch to zoom, customization and great accessibility. 😎
+
+(e.g. To solve the last issue (#20) in the list above, my carousel should be able to detect a mostly vertical swipe and then fix the slides horizontally in the carousel. ✅ It should also be able to detect a mostly horizontal swipe and then fix the carousel vertically in the page. ✅)
+
+Demo
+----
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#demo)
+
+### Live demo
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#live-demo)
+
+Try **[Live Demo](https://yifanai.com/rgc)**
+
+### Carousel controlled by finger
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#carousel-controlled-by-finger)
+
+[![Image 35: Carousel controlled by finger](https://camo.githubusercontent.com/3cf70ba1848cc7c40ab4d9ef750c1c5d9b0d278b7c84674215e0014284603a0e/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f746f7563682e676966)](https://camo.githubusercontent.com/3cf70ba1848cc7c40ab4d9ef750c1c5d9b0d278b7c84674215e0014284603a0e/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f746f7563682e676966)
+
+### Carousel controlled by cursor
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#carousel-controlled-by-cursor)
+
+[![Image 36: Carousel controlled by cursor](https://user-images.githubusercontent.com/49315663/118391709-1b490380-b679-11eb-9f56-44a6702419a0.gif)](https://user-images.githubusercontent.com/49315663/118391709-1b490380-b679-11eb-9f56-44a6702419a0.gif)
+
+### Lighthouse report
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#lighthouse-report)
+
+[![Image 37: Lighthouse Report on react-gallery-carousel](https://user-images.githubusercontent.com/49315663/118391896-f30dd480-b679-11eb-895b-e4cf3160303b.jpg)](https://user-images.githubusercontent.com/49315663/118391896-f30dd480-b679-11eb-895b-e4cf3160303b.jpg) [![Image 38: Lighthouse Report with scores on react-gallery-carousel](https://camo.githubusercontent.com/7f9048be891a658816826acd0a58b226841065e0764021af636fd39d06680934/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f6c69676874686f7573655f7265706f72745f76302e312e332e6a7067)](https://camo.githubusercontent.com/7f9048be891a658816826acd0a58b226841065e0764021af636fd39d06680934/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f6c69676874686f7573655f7265706f72745f76302e312e332e6a7067) This lighthouse report is conducted on [https://yifaneye.github.io/react-gallery-carousel/](https://yifaneye.github.io/react-gallery-carousel/) in an incognito window on Chrome version 89.0.4389.114 (Official Build) (x86\_64) on MacBook Pro with macOS version 10.15.7 (19H2) on 12th of April 2021.
+
+### Non-maximized carousels
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#non-maximized-carousels)
+
+[![Image 39: Non-maximized Carousel](https://camo.githubusercontent.com/04169279c5ce072b5023c1cbeb3a54c0691aed453c0e976b45bda725993b6724/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f6e6f6e5f6d6178696d697a65642e6a7067)](https://camo.githubusercontent.com/04169279c5ce072b5023c1cbeb3a54c0691aed453c0e976b45bda725993b6724/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f6e6f6e5f6d6178696d697a65642e6a7067)
+
+### Maximized carousel
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#maximized-carousel)
+
+[![Image 40: Maximized Carousel](https://camo.githubusercontent.com/4998c850ae4c06b0c216b74c1bfc528f2481dd9a2c4129631711c0a6aecfcee3/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f6d6178696d697a65642e6a7067)](https://camo.githubusercontent.com/4998c850ae4c06b0c216b74c1bfc528f2481dd9a2c4129631711c0a6aecfcee3/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f6d6178696d697a65642e6a7067)
+
+Installation
+------------
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#installation)
+
+npm install --save react-gallery-carousel
+
+OR
+
+yarn add react-gallery-carousel
+
+Usage
+-----
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#usage)
+
+import React from 'react';
+import Carousel from 'react-gallery-carousel';
+import 'react-gallery-carousel/dist/index.css';
+
+const App \= () \=\> {
+  const images \= \[9, 8, 7, 6, 5\].map((number) \=\> ({
+    src: \`https://placedog.net/${number}00/${number}00?id=${number}\`
+  }));
+
+  return (
+    <Carousel images\={images} style\={{ height: 500, width: 800 }} /\>
+  );
+};
+
+export default App;
+
+Props
+-----
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#props)
+
+To customize the carousel, use the following props:
+
+| Name | Type | Default | Description |
+| --- | --- | --- | --- |
+| images | Array | undefined | Array of image(s) to be placed in the carousel. Each image object (e.g. [example object](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#image-object-example)) in the array has a required attribute 'src'. |
+| children | node or Array of nodes | undefined | HTML element(s) to be placed into the carousel for user-managed slides. It (they) will be placed only if the 'images' prop is falsy. |
+| thumbnails | Array of nodes | undefined | HTML element(s) to be placed into the thumbnail view at the bottom. If not provided, the slides will be used. If provided, it must have the same length as the slides. |
+| index | Number | undefined | Initial (0-indexed) index of the slides of the carousel as a whole number starting from 0. |
+| isRTL | Boolean | false | If true, the slides of the carousel starts from the right (and also auto plays from the right to the left). |
+| isLoop | Boolean | true | If true, the carousel form a loop (i.e. going left from the left-most slide lands at the right-most slide, and vice versa) from the ribbon of slides. |
+| isMaximized | Boolean | false | If true, the carousel is maximized initially. |
+| shouldLazyLoad | Boolean | true | If true, images that are not yet in the viewport of the carousel will be lazy loaded, except the 2 adjacent images from either side of the carousel which will be preloaded. |
+| canAutoPlay | Boolean | true | If true, the carousel has auto play capability. |
+| isAutoPlaying | Boolean | false | If true, the carousel auto plays initially. |
+| autoPlayInterval | Number | 5000 | Interval of the auto play (in milliseconds). |
+| hasTransition | Boolean | true | If false, the carousel does not have transition in moving between slides. |
+| swipeThreshold | Number | 0.1 | Threshold swipe distance (in percentage of the width of the viewport of the carousel) to move to the previous or the next slide. |
+| swipeRollbackSpeed | Number | 0.1 | Speed of the transition (in pixels per millisecond) in moving back to the current slide after a swipe smaller than swipeThreshold. |
+| transitionSpeed | Number | 1 | Speed of the transition (in pixels per millisecond) in moving to the previous or the next slide on non-swipe updates on the carousel. |
+| transitionDurationLimit | Number | 750 | Limit of transition duration (in milliseconds). The limit is used to flatten transition duration, where the maximum transition duration infinitely approaches this value. |
+| transitionDurationMin | Number | 250 | Minimum transition duration (in milliseconds). Transition duration can be set to be a constant with transitionDurationMin === transitionDurationMax. |
+| transitionDurationMax | Number | undefined | Maximum transition duration (in milliseconds). It will have precedence over transitionDurationMin, if transitionDurationMin \> transitionDurationMax. |
+| widgetsHasShadow | Boolean | false | If true, the following widgets (with \*) have shadows. (Note: if true, the transition will tend to drop frames when there are a large number of slides.) |
+| hasLeftButton \* | Boolean or String | 'centerLeft' | If false, the carousel does not show left button. Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). |
+| hasRightButton \* | Boolean or String | 'centerRight' | If false, the carousel does not show right button. Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). |
+| hasMediaButton \* | Boolean or String | 'topLeft' | If false, the carousel does not show media button (i.e. play/pause button). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). If the value of 'canAutoPlay' is falsy, media button will not be shown on the carousel. |
+| hasSizeButton \* | Boolean or String | 'topRight' | If false, the carousel does not show size button (i.e. maximize/minimize button). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). |
+| hasIndexBoard \* | Boolean or String | 'topCenter' | If false, the carousel does not show index board (i.e. currentIndex / totalNumberOfSlides). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). |
+| hasDotButtons \* | Boolean or String | false | If false, the carousel does not show dot buttons (i.e. array of dots indicating the current slide in relation to other slides). Its position can be specified by one of [large widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#large-widget-positions). |
+| hasCaptions \* | Boolean or String | false | If false, the carousel does not show caption for each image. Its position can be specified by one of [large widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#large-widget-positions). |
+| hasThumbnails | Boolean | true | If false, the carousel does not show thumbnails at the bottom. |
+| hasLeftButtonAtMax \* | Boolean or String | undefined | If false, the maximized carousel does not show left button. Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). It overrides 'hasLeftButton' prop for the maximized carousel. If not specified, the value of 'hasLeftButton' will be used. |
+| hasRightButtonAtMax \* | Boolean or String | undefined | If false, the maximized carousel does not show right button. Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). It overrides 'hasRightButton' prop for the maximized carousel. If not specified, the value of 'hasRightButton' will be used. |
+| hasMediaButtonAtMax \* | Boolean or String | undefined | If false, the maximized carousel does not show media button (i.e. play/pause button). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). It overrides 'hasMediaButton' prop for the maximized carousel. If not specified, the value of 'hasMediaButton' will be used. If the value of 'canAutoPlay' is falsy, media button will not be shown on the maximized carousel. |
+| hasSizeButtonAtMax \* | Boolean or String | undefined | If false, the maximized carousel does not show size button (i.e. maximize/minimize button). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). It overrides 'hasSizeButton' prop for the maximized carousel. If not specified, the value of 'hasSizeButton' will be used. |
+| hasIndexBoardAtMax \* | Boolean or String | undefined | If false, the maximized carousel does not show index board (i.e. currentIndex / totalNumberOfSlides). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). It overrides 'hasIndexBoard' prop for the maximized carousel. If not specified, the value of 'hasIndexBoard' will be used. |
+| hasDotButtonsAtMax \* | Boolean or String | undefined | If false, the maximized carousel does not show dot buttons (i.e. array of dots indicating the current slide in relation to other slides). Its position can be specified by one of [large widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#large-widget-positions). It overrides 'hasDotButtons' prop for the maximized carousel. If not specified, the value of 'hasDotButtons' will be used. |
+| hasCaptionsAtMax \* | Boolean or String | undefined | If false, the maximized carousel does not show caption for each image. Its position can be specified by one of [large widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#large-widget-positions). It overrides 'hasCaptions' prop for the maximized carousel. If not specified, the value of 'hasCaptions' will be used. |
+| hasThumbnailsAtMax | Boolean | undefined | If false, the maximized carousel does not show thumbnails at the bottom. It overrides 'hasThumbnails' for the maximized carousel. If not specified, the value of 'hasThumbnails' will be used. |
+| leftIcon | node | undefined | Left icon (HTML element) to be placed into the left ArrowButton. |
+| rightIcon | node | undefined | Right icon (HTML element) to be placed into the right ArrowButton. |
+| playIcon | node | undefined | Play icon (HTML element) to be placed into the MediaButton. |
+| pauseIcon | node | undefined | Pause icon (HTML element) to be placed into the MediaButton. |
+| minIcon | node | undefined | Minimize icon (HTML element) to be placed into the SizeButton. |
+| maxIcon | node | undefined | Maximize icon (HTML element) to be placed into the SizeButton. |
+| activeIcon | node | undefined | Active dot icon (HTML element) to be placed into the active DotButton indicating the current slide. |
+| passiveIcon | node | undefined | Passive dot icon (HTML element) to be placed into the passive DotButton indicating all non-current slide(s). |
+| elements | node | undefined | Custom elements (HTML element) to be placed into the Carousel. |
+| shouldSwipeOnMouse | Boolean | true | If true, the carousel can be swiped by the cursor using a mouse or a track pad. |
+| shouldMaximizeOnClick | Boolean | false | If true, the carousel can be maximized by clicking. |
+| shouldMinimizeOnClick | Boolean | false | If true, the carousel can be minimized by clicking. |
+| shouldMinimizeOnSwipeDown | Boolean | true | If true, the carousel can be minimized by touch swiping down. |
+| onIndexChange | Function | ({curIndex, curIndexForDisplay}) =\> {} | Callback function invoked when the current index of the slides of the carousel is being updated. (Note: it is called regardless of whether index value's before and after are the same. `curIndex` is 0-indexed whilst `curIndexForDisplay` is 1-indexed) |
+| onSwipeMoveX | Function | (displacementX) =\> {} | Callback function invoked when the carousel is being swiped in a horizontal swipe. (Note: available from v0.2.0) |
+| onSwipeMoveY | Function | (displacementX, displacementY) =\> {} | Callback function invoked when the carousel is being swiped in a vertical swipe. (Note: available from v0.2.0) |
+| onSwipeEndDown | Function | () =\> {} | Callback function invoked when the carousel is being swiped in a downward swipe. (Note: available from v0.2.0) |
+| onTap | Function | () =\> {} | Callback function invoked when the carousel is being tapped (i.e. from mousedown to mouseup without mousemove, or from touchstart to touchend without touchmove. (Note: available from v0.2.0) |
+| objectFit | String | 'cover' | CSS 'object-fit' style to be placed on each image, on the non-maximized carousel. |
+| objectFitAtMax | String | 'contain' | CSS 'object-fit' style to be placed on each image, on the maximized carousel. |
+| zIndexAtMax | Number | undefined | CSS 'z-index' attribute to be placed on the maximized carousel. |
+| thumbnailWidth | String | '10%' | Width of each thumbnail. e.g. '20%', '20vw', '200px', 'auto'. |
+| thumbnailHeight | String | '10%' | Height of each thumbnail (as well as the height of thumbnails). e.g. '20%', '20vh', '200px', 'auto'. |
+| className | String | undefined | Class name(s) to be placed on the non-maximized carousel. |
+| style | Object | undefined | Inline style(s) to be placed on the non-maximized carousel. |
+
+Handlers
+--------
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#handlers)
+
+To customize the carousel in a declarative manner, use the props above (e.g. `isAutoPlaying`, `isMaximized`, `index`).
+
+To customize the carousel in an imperative manner, use the following handlers (on the forwarded ref):
+
+| Name | Description |
+| --- | --- |
+| play() | Start the autoplay by setting the `isPlaying` state to true. (Note: need \>\= v0.2.0) |
+| pause() | Pause the autoplay by setting the `isPlaying` state to false. (Note: need \>\= v0.2.0) |
+| toggleIsPlaying() | Toggle the `isPlaying` state. (Note: need \>\= v0.2.0) |
+| maximize() | Maximize the carousel by setting the `isMaximized` state to true. (Note: need \>\= v0.2.0) |
+| minimize() | Minimize the carousel by setting the `isMaximized` state to false. (Note: need \>\= v0.2.0) |
+| toggleIsMaximized() | Toggle the `isMaximized` state. (Note: need \>\= v0.2.0) |
+| goLeft() | Go to the left slide. (Note: need \>\= v0.2.0) |
+| goRight() | Go to the right slide. (Note: need \>\= v0.2.0) |
+| goToIndex(index) | Go to the specified index. (Note: need \>\= v0.2.0) |
+
+Definitions
+-----------
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#definitions)
+
+*   Developer users: developers who use this component.
+*   Users: end users of the products which use this component.
+
+### Image Object Example
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#image-object-example)
+
+```
+{
+  src: `https://placedog.net/700/420?id=1`, // required
+  srcset: `https://placedog.net/400/240?id=1 400w, https://placedog.net/700/420?id=1 700w, https://placedog.net/1000/600?id=1 1000w`,
+  sizes: '(max-width: 1000px) 400px, (max-width: 2000px) 700px, 1000px',
+  alt: `Dogs are domesticated mammals, not natural wild animals. They were originally bred from wolves. They have been bred by humans for a long time, and were the first animals ever to be domesticated.`,
+  thumbnail: `https://placedog.net/100/60?id=1`
+}
+```
+
+### Widgets Settings
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#widgets-settings)
+
+```
+[
+  'hasLeftButton',
+  'hasRightButton',
+  'hasMediaButton',
+  'hasSizeButton',
+  'hasDotButtons',
+  'hasIndexBoard'
+],
+```
+
+### Small Widget Positions
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions)
+
+```
+[
+  'topLeft', 'topCenter', 'topRight',
+  'centerLeft', 'centerCenter', 'centerRight',
+  'bottomLeft', 'bottomCenter','bottomRight'
+]
+```
+
+### Large Widget Positions
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#large-widget-positions)
+
+FAQ
+---
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#faq)
+
+### Q: How to place video, text or any element into a slide?
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#q-how-to-place-video-text-or-any-element-into-a-slide)
+
+A: Custom elements in slides (called user-managed slides) can be placed using the `children` prop. Example: [demo](https://yifanai.com/rgc), [code](https://yifanai.com/rgc1). Note: it (they) will be placed only if the 'images' prop is falsy.
+
+### Q: Why the element and font in my carousel is different from the one on the demo?
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#q-why-the-element-and-font-in-my-carousel-is-different-from-the-one-on-the-demo)
+
+A: There are some browser default styles. Set a font, some global styles and/or use normalize.css will help. Example: [code](https://yifanai.com/rgcc).
+
+### Q: Can I remove hash from generated file names? How to do it?
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#q-can-i-remove-hash-from-generated-file-names-how-to-do-it)
+
+A: Yes. In `node_modules/microbundle-crl/dist/microbundle.js`, Change `useHash: true` to `useHash: false`.
+
+### Q: Are there TypeScript type definitions for this package?
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#q-are-there-typescript-type-definitions-for-this-package)
+
+A: Yes. [`@types/react-gallery-carousel`](https://www.npmjs.com/package/@types/react-gallery-carousel) package contains type definitions for `react-gallery-carousel` through DefinitelyTyped.
+
+Roadmap
+-------
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#roadmap)
+
+*   Support for dynamic images (since v0.1.1)
+*   Support handlers and listeners (since v0.2.0)
+*   Add TypeScript type Definitions (since v0.2.0)
+*   Support for server-side rendering (since v0.2.3)
+*   Momentum-based mouse dragging on thumbnails (since v0.2.4)
+*   Allow customization using custom elements (since v0.4.0)
+*   Use TypeScript
+*   Implement more unit tests and E2E tests
+*   GitHub Actions
+
+Contributing
+------------
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#contributing)
+
+Issues and pull requests are welcomed.
+
+(Note: please use Prettier for code formatting.)
+
+Local Development for Contributing
+----------------------------------
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#local-development-for-contributing)
+
+1.  In a terminal tab, run rollup to watch the `src/` directory and to automatically compile the local version of `react-gallery-carousel` into the `dist/` directory. (Note: the compilation does not minify the package for readability. The decision on minification is left to the developer users).
+
+2.  In another terminal tab, run create-react-app dev server to serve the example in the `example/` directory, which is dependent on the local version of `react-gallery-carousel`.
+
+(Note: it is not helpful to run either of these commands in the background, because you will miss out on errors and warnings.)
+
+License
+-------
+
+[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#license)
+
+MIT © [Yifan Ai](https://yifanai.com/)
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - yifaneye/react-gallery-carousel: Carousel component 🎠🎠🎠 supporting touch, mouse, keyboard, thumbnails, fullscreen, lazy loading, SSR and customisations. 👉 Live editor: https://yifanai.com/rgcd1 👉 Example: https://koalaliving.com.au/Arya-Sand-Beige-Vegan-Leather-Dining-Chair",
+  "description": "Carousel component 🎠🎠🎠 supporting touch, mouse, keyboard, thumbnails, fullscreen, lazy loading, SSR and customisations. 👉 Live editor: https://yifanai.com/rgcd1 👉 Example: https://koalaliving.com.au/Arya-Sand-Beige-Vegan-Leather-Dining-Chair - yifaneye/react-gallery-carousel",
+  "url": "https://github.com/yifaneye/react-gallery-carousel?screenshot=true",
+  "content": "react-gallery-carousel\n----------------------\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#react-gallery-carousel)\n\n[![Image 28: npm version](https://camo.githubusercontent.com/a804b8f2bf3e7344d14dd9122dbd9fdfec5a680c9adae538564b5ebdaae7f9d4/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742d67616c6c6572792d6361726f7573656c2e737667)](https://www.npmjs.com/package/react-gallery-carousel) [![Image 29: npm downloads](https://camo.githubusercontent.com/35e92ec9393555997586009e97327d237e82478fd9247f5c9400951b7636c0ae/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f646d2f72656163742d67616c6c6572792d6361726f7573656c2e737667)](https://www.npmjs.com/package/react-gallery-carousel) [![Image 30: npm bundle size](https://camo.githubusercontent.com/d5fb4c531dbcb339d7e5b689f8dfb514c7025d79cf5bd7a9eb73e250a512058c/68747470733a2f2f62616467656e2e6e65742f62756e646c6570686f6269612f6d696e7a69702f72656163742d67616c6c6572792d6361726f7573656c)](https://www.npmjs.com/package/react-gallery-carousel) [![Image 31: prettier](https://camo.githubusercontent.com/754faf8c130f602a98f87fd2912a8d4b9bcf8ab623fa9ac3352853015968cdb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64655f7374796c652d70726574746965722d6666363962342e737667)](https://github.com/prettier/prettier) [![Image 32: license](https://camo.githubusercontent.com/6581c31c16c1b13ddc2efb92e2ad69a93ddc4a92fd871ff15d401c4c6c9155a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)](https://github.com/yifaneye/react-gallery-carousel/blob/master/LICENSE) [![Image 33: Buy Me A Coffee](https://camo.githubusercontent.com/67f1b859c85032255c81e5f861a5f572fa25813c2ea5e7623b7efa91c395e37f/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f64656661756c742d6f72616e67652e706e67)](https://www.buymeacoffee.com/yifanai)\n\nMobile-friendly Carousel with batteries included (supporting touch, mouse emulation, lazy loading, thumbnails, fullscreen, RTL, keyboard navigation and customisations).\n\n_The first version was published on 31st March 2021._\n\n[![Image 34: Carousel controlled by finger](https://camo.githubusercontent.com/3cf70ba1848cc7c40ab4d9ef750c1c5d9b0d278b7c84674215e0014284603a0e/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f746f7563682e676966)](https://camo.githubusercontent.com/3cf70ba1848cc7c40ab4d9ef750c1c5d9b0d278b7c84674215e0014284603a0e/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f746f7563682e676966)\n\nTry **[Live Demo](https://yifanai.com/rgc)**\n\nBackground\n----------\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#background)\n\n### What problems do other Carousels have?\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#what-problems-do-other-carousels-have)\n\nI have **used and carefully analyzed a lot of carousel/slider components**. I summarized that **their issues** are:\n\n1.  Some of them do not move the slide as the user swipes on the slide.\n2.  Most of them do not support mouse dragging to move to the previous or the next slide. With the ones those support mouse emulation, some of them do not properly handle the case where the mouse leaves the carousel, which allow the user to continuously control the carousel.\n3.  Most of them do not support keyboard navigation (i.e. left, right and tab key).\n4.  Most of them cannot be maximized to fullscreen/modal/lightbox. With fullscreen, there is the issue of browser compatibility, i.e. iOS Safari on iPhone does not support the fullscreen API.\n5.  Most of them do not have an easy solution for building thumbnails. With the ones those have thumbnails, most of the thumbnails cannot be freely scrolled which lead to poor user experience. In addition, most of the thumbnails cannot be lazy loaded.\n6.  Most of them cannot lazy load (and preload) images. With the ones those can lazy load, most of them have transition that traverses the intermediate images when the user goes to a distant slide, which defeat the purpose of lazy loading.\n7.  Some of them cannot autoplay. With the ones those can autoplay, they cannot auto pause. For example, when the user hits another tab or goes to another app, the autoplay on those carousels do not pause.\n8.  Most of them do not respect the reduced motion settings by the user.\n9.  Most of them disregard the velocity of the swipe and just set a constant transition duration.\n10.  Some of their carousels will be in different sizes when the images/slides inside are in different sizes. Some of their transitions are bumpy when their images/slides are in different sizes.\n11.  Most of them do not support custom elements in a slide.\n12.  Most of them cannot be set to display in Right-to-Left (RTL).\n13.  Some of them disable pinching to zoom, while some others glitch when pinching with 2 fingers. Besides, when the window is zoomed in, most of them still detect for touch swiping to move to the previous, or the next slide, while the intention of most users in this scenario is panning to see other parts of the current slide.\n14.  Some of them will cause the slides to stuck its position on window resize or on mobile device orientation change, until another user interaction.\n15.  Some of them can only have predetermined images (i.e. before the carousel component mounts).\n16.  Most of them do not provide a solution for fallback/placeholder image (for when an image is not available).\n17.  Some of them get zoomed in when the user double taps on the control, while the intention of most users in this scenario is to quickly go to the next after the next slide.\n18.  Some of them remove the left or right button to indicate that there are no more slides in that direction. However, user is likely to click that spot where the button used to be, which causes undesired behaviours e.g. clicking on a link or button which is also at that spot.\n19.  Some of them use the method of cloning the first, and the last slide to achieve looping (or infinite mode). I think that method is not great semantically.\n20.  Some of them cannot distinguish a vertical swipe from a horizontal swipe, so that a not exactly vertical swipe moves the slides slightly horizontally; and a not exactly horizontal swipe moves the (document) page slightly vertically.\n\n### What did I set to achieve?\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#what-did-i-set-to-achieve)\n\nI wanted to write my own **detail-oriented** and **exquisite** carousel component that is easy to use yet solves/supports all these things above under the hood. 🤓\n\nI wanted to take my understanding of JavaScript events, DOM manipulation, browser APIs, cross-browser compatibility and performance debugging to the next level. 🤓\n\nI wanted to master React functional components, hooks, custom hooks and reconciliation. 🤓\n\nI wanted to learn more, place more care and attention to accessibility. I want to give focus outlines to the right users, support keyboard navigation, support screen reader, and follow [W3C accessible carousel tutorials](https://www.w3.org/WAI/tutorials/carousels/).\n\nMy carousel should support: touch, mouse emulation, keyboard navigation, modal (lightbox), thumbnails, autoplay (and auto pause), RTL (right to left for internationalization), image lazy loading (and preloading), responsive images, fallback image, reduced motion settings, instantaneous velocity detection, responsive design, images with any sizes, custom elements in a slide, pinch to zoom, customization and great accessibility. 😎\n\n(e.g. To solve the last issue (#20) in the list above, my carousel should be able to detect a mostly vertical swipe and then fix the slides horizontally in the carousel. ✅ It should also be able to detect a mostly horizontal swipe and then fix the carousel vertically in the page. ✅)\n\nDemo\n----\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#demo)\n\n### Live demo\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#live-demo)\n\nTry **[Live Demo](https://yifanai.com/rgc)**\n\n### Carousel controlled by finger\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#carousel-controlled-by-finger)\n\n[![Image 35: Carousel controlled by finger](https://camo.githubusercontent.com/3cf70ba1848cc7c40ab4d9ef750c1c5d9b0d278b7c84674215e0014284603a0e/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f746f7563682e676966)](https://camo.githubusercontent.com/3cf70ba1848cc7c40ab4d9ef750c1c5d9b0d278b7c84674215e0014284603a0e/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f746f7563682e676966)\n\n### Carousel controlled by cursor\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#carousel-controlled-by-cursor)\n\n[![Image 36: Carousel controlled by cursor](https://user-images.githubusercontent.com/49315663/118391709-1b490380-b679-11eb-9f56-44a6702419a0.gif)](https://user-images.githubusercontent.com/49315663/118391709-1b490380-b679-11eb-9f56-44a6702419a0.gif)\n\n### Lighthouse report\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#lighthouse-report)\n\n[![Image 37: Lighthouse Report on react-gallery-carousel](https://user-images.githubusercontent.com/49315663/118391896-f30dd480-b679-11eb-895b-e4cf3160303b.jpg)](https://user-images.githubusercontent.com/49315663/118391896-f30dd480-b679-11eb-895b-e4cf3160303b.jpg) [![Image 38: Lighthouse Report with scores on react-gallery-carousel](https://camo.githubusercontent.com/7f9048be891a658816826acd0a58b226841065e0764021af636fd39d06680934/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f6c69676874686f7573655f7265706f72745f76302e312e332e6a7067)](https://camo.githubusercontent.com/7f9048be891a658816826acd0a58b226841065e0764021af636fd39d06680934/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f6c69676874686f7573655f7265706f72745f76302e312e332e6a7067) This lighthouse report is conducted on [https://yifaneye.github.io/react-gallery-carousel/](https://yifaneye.github.io/react-gallery-carousel/) in an incognito window on Chrome version 89.0.4389.114 (Official Build) (x86\\_64) on MacBook Pro with macOS version 10.15.7 (19H2) on 12th of April 2021.\n\n### Non-maximized carousels\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#non-maximized-carousels)\n\n[![Image 39: Non-maximized Carousel](https://camo.githubusercontent.com/04169279c5ce072b5023c1cbeb3a54c0691aed453c0e976b45bda725993b6724/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f6e6f6e5f6d6178696d697a65642e6a7067)](https://camo.githubusercontent.com/04169279c5ce072b5023c1cbeb3a54c0691aed453c0e976b45bda725993b6724/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f6e6f6e5f6d6178696d697a65642e6a7067)\n\n### Maximized carousel\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#maximized-carousel)\n\n[![Image 40: Maximized Carousel](https://camo.githubusercontent.com/4998c850ae4c06b0c216b74c1bfc528f2481dd9a2c4129631711c0a6aecfcee3/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f6d6178696d697a65642e6a7067)](https://camo.githubusercontent.com/4998c850ae4c06b0c216b74c1bfc528f2481dd9a2c4129631711c0a6aecfcee3/68747470733a2f2f796966616e61692e73332d61702d736f757468656173742d322e616d617a6f6e6177732e636f6d2f7267632f64656d6f5f6d6178696d697a65642e6a7067)\n\nInstallation\n------------\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#installation)\n\nnpm install --save react-gallery-carousel\n\nOR\n\nyarn add react-gallery-carousel\n\nUsage\n-----\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#usage)\n\nimport React from 'react';\nimport Carousel from 'react-gallery-carousel';\nimport 'react-gallery-carousel/dist/index.css';\n\nconst App \\= () \\=\\> {\n  const images \\= \\[9, 8, 7, 6, 5\\].map((number) \\=\\> ({\n    src: \\`https://placedog.net/${number}00/${number}00?id=${number}\\`\n  }));\n\n  return (\n    <Carousel images\\={images} style\\={{ height: 500, width: 800 }} /\\>\n  );\n};\n\nexport default App;\n\nProps\n-----\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#props)\n\nTo customize the carousel, use the following props:\n\n| Name | Type | Default | Description |\n| --- | --- | --- | --- |\n| images | Array | undefined | Array of image(s) to be placed in the carousel. Each image object (e.g. [example object](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#image-object-example)) in the array has a required attribute 'src'. |\n| children | node or Array of nodes | undefined | HTML element(s) to be placed into the carousel for user-managed slides. It (they) will be placed only if the 'images' prop is falsy. |\n| thumbnails | Array of nodes | undefined | HTML element(s) to be placed into the thumbnail view at the bottom. If not provided, the slides will be used. If provided, it must have the same length as the slides. |\n| index | Number | undefined | Initial (0-indexed) index of the slides of the carousel as a whole number starting from 0. |\n| isRTL | Boolean | false | If true, the slides of the carousel starts from the right (and also auto plays from the right to the left). |\n| isLoop | Boolean | true | If true, the carousel form a loop (i.e. going left from the left-most slide lands at the right-most slide, and vice versa) from the ribbon of slides. |\n| isMaximized | Boolean | false | If true, the carousel is maximized initially. |\n| shouldLazyLoad | Boolean | true | If true, images that are not yet in the viewport of the carousel will be lazy loaded, except the 2 adjacent images from either side of the carousel which will be preloaded. |\n| canAutoPlay | Boolean | true | If true, the carousel has auto play capability. |\n| isAutoPlaying | Boolean | false | If true, the carousel auto plays initially. |\n| autoPlayInterval | Number | 5000 | Interval of the auto play (in milliseconds). |\n| hasTransition | Boolean | true | If false, the carousel does not have transition in moving between slides. |\n| swipeThreshold | Number | 0.1 | Threshold swipe distance (in percentage of the width of the viewport of the carousel) to move to the previous or the next slide. |\n| swipeRollbackSpeed | Number | 0.1 | Speed of the transition (in pixels per millisecond) in moving back to the current slide after a swipe smaller than swipeThreshold. |\n| transitionSpeed | Number | 1 | Speed of the transition (in pixels per millisecond) in moving to the previous or the next slide on non-swipe updates on the carousel. |\n| transitionDurationLimit | Number | 750 | Limit of transition duration (in milliseconds). The limit is used to flatten transition duration, where the maximum transition duration infinitely approaches this value. |\n| transitionDurationMin | Number | 250 | Minimum transition duration (in milliseconds). Transition duration can be set to be a constant with transitionDurationMin === transitionDurationMax. |\n| transitionDurationMax | Number | undefined | Maximum transition duration (in milliseconds). It will have precedence over transitionDurationMin, if transitionDurationMin \\> transitionDurationMax. |\n| widgetsHasShadow | Boolean | false | If true, the following widgets (with \\*) have shadows. (Note: if true, the transition will tend to drop frames when there are a large number of slides.) |\n| hasLeftButton \\* | Boolean or String | 'centerLeft' | If false, the carousel does not show left button. Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). |\n| hasRightButton \\* | Boolean or String | 'centerRight' | If false, the carousel does not show right button. Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). |\n| hasMediaButton \\* | Boolean or String | 'topLeft' | If false, the carousel does not show media button (i.e. play/pause button). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). If the value of 'canAutoPlay' is falsy, media button will not be shown on the carousel. |\n| hasSizeButton \\* | Boolean or String | 'topRight' | If false, the carousel does not show size button (i.e. maximize/minimize button). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). |\n| hasIndexBoard \\* | Boolean or String | 'topCenter' | If false, the carousel does not show index board (i.e. currentIndex / totalNumberOfSlides). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). |\n| hasDotButtons \\* | Boolean or String | false | If false, the carousel does not show dot buttons (i.e. array of dots indicating the current slide in relation to other slides). Its position can be specified by one of [large widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#large-widget-positions). |\n| hasCaptions \\* | Boolean or String | false | If false, the carousel does not show caption for each image. Its position can be specified by one of [large widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#large-widget-positions). |\n| hasThumbnails | Boolean | true | If false, the carousel does not show thumbnails at the bottom. |\n| hasLeftButtonAtMax \\* | Boolean or String | undefined | If false, the maximized carousel does not show left button. Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). It overrides 'hasLeftButton' prop for the maximized carousel. If not specified, the value of 'hasLeftButton' will be used. |\n| hasRightButtonAtMax \\* | Boolean or String | undefined | If false, the maximized carousel does not show right button. Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). It overrides 'hasRightButton' prop for the maximized carousel. If not specified, the value of 'hasRightButton' will be used. |\n| hasMediaButtonAtMax \\* | Boolean or String | undefined | If false, the maximized carousel does not show media button (i.e. play/pause button). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). It overrides 'hasMediaButton' prop for the maximized carousel. If not specified, the value of 'hasMediaButton' will be used. If the value of 'canAutoPlay' is falsy, media button will not be shown on the maximized carousel. |\n| hasSizeButtonAtMax \\* | Boolean or String | undefined | If false, the maximized carousel does not show size button (i.e. maximize/minimize button). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). It overrides 'hasSizeButton' prop for the maximized carousel. If not specified, the value of 'hasSizeButton' will be used. |\n| hasIndexBoardAtMax \\* | Boolean or String | undefined | If false, the maximized carousel does not show index board (i.e. currentIndex / totalNumberOfSlides). Its position can be specified by one of [small widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions). It overrides 'hasIndexBoard' prop for the maximized carousel. If not specified, the value of 'hasIndexBoard' will be used. |\n| hasDotButtonsAtMax \\* | Boolean or String | undefined | If false, the maximized carousel does not show dot buttons (i.e. array of dots indicating the current slide in relation to other slides). Its position can be specified by one of [large widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#large-widget-positions). It overrides 'hasDotButtons' prop for the maximized carousel. If not specified, the value of 'hasDotButtons' will be used. |\n| hasCaptionsAtMax \\* | Boolean or String | undefined | If false, the maximized carousel does not show caption for each image. Its position can be specified by one of [large widget positions](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#large-widget-positions). It overrides 'hasCaptions' prop for the maximized carousel. If not specified, the value of 'hasCaptions' will be used. |\n| hasThumbnailsAtMax | Boolean | undefined | If false, the maximized carousel does not show thumbnails at the bottom. It overrides 'hasThumbnails' for the maximized carousel. If not specified, the value of 'hasThumbnails' will be used. |\n| leftIcon | node | undefined | Left icon (HTML element) to be placed into the left ArrowButton. |\n| rightIcon | node | undefined | Right icon (HTML element) to be placed into the right ArrowButton. |\n| playIcon | node | undefined | Play icon (HTML element) to be placed into the MediaButton. |\n| pauseIcon | node | undefined | Pause icon (HTML element) to be placed into the MediaButton. |\n| minIcon | node | undefined | Minimize icon (HTML element) to be placed into the SizeButton. |\n| maxIcon | node | undefined | Maximize icon (HTML element) to be placed into the SizeButton. |\n| activeIcon | node | undefined | Active dot icon (HTML element) to be placed into the active DotButton indicating the current slide. |\n| passiveIcon | node | undefined | Passive dot icon (HTML element) to be placed into the passive DotButton indicating all non-current slide(s). |\n| elements | node | undefined | Custom elements (HTML element) to be placed into the Carousel. |\n| shouldSwipeOnMouse | Boolean | true | If true, the carousel can be swiped by the cursor using a mouse or a track pad. |\n| shouldMaximizeOnClick | Boolean | false | If true, the carousel can be maximized by clicking. |\n| shouldMinimizeOnClick | Boolean | false | If true, the carousel can be minimized by clicking. |\n| shouldMinimizeOnSwipeDown | Boolean | true | If true, the carousel can be minimized by touch swiping down. |\n| onIndexChange | Function | ({curIndex, curIndexForDisplay}) =\\> {} | Callback function invoked when the current index of the slides of the carousel is being updated. (Note: it is called regardless of whether index value's before and after are the same. `curIndex` is 0-indexed whilst `curIndexForDisplay` is 1-indexed) |\n| onSwipeMoveX | Function | (displacementX) =\\> {} | Callback function invoked when the carousel is being swiped in a horizontal swipe. (Note: available from v0.2.0) |\n| onSwipeMoveY | Function | (displacementX, displacementY) =\\> {} | Callback function invoked when the carousel is being swiped in a vertical swipe. (Note: available from v0.2.0) |\n| onSwipeEndDown | Function | () =\\> {} | Callback function invoked when the carousel is being swiped in a downward swipe. (Note: available from v0.2.0) |\n| onTap | Function | () =\\> {} | Callback function invoked when the carousel is being tapped (i.e. from mousedown to mouseup without mousemove, or from touchstart to touchend without touchmove. (Note: available from v0.2.0) |\n| objectFit | String | 'cover' | CSS 'object-fit' style to be placed on each image, on the non-maximized carousel. |\n| objectFitAtMax | String | 'contain' | CSS 'object-fit' style to be placed on each image, on the maximized carousel. |\n| zIndexAtMax | Number | undefined | CSS 'z-index' attribute to be placed on the maximized carousel. |\n| thumbnailWidth | String | '10%' | Width of each thumbnail. e.g. '20%', '20vw', '200px', 'auto'. |\n| thumbnailHeight | String | '10%' | Height of each thumbnail (as well as the height of thumbnails). e.g. '20%', '20vh', '200px', 'auto'. |\n| className | String | undefined | Class name(s) to be placed on the non-maximized carousel. |\n| style | Object | undefined | Inline style(s) to be placed on the non-maximized carousel. |\n\nHandlers\n--------\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#handlers)\n\nTo customize the carousel in a declarative manner, use the props above (e.g. `isAutoPlaying`, `isMaximized`, `index`).\n\nTo customize the carousel in an imperative manner, use the following handlers (on the forwarded ref):\n\n| Name | Description |\n| --- | --- |\n| play() | Start the autoplay by setting the `isPlaying` state to true. (Note: need \\>\\= v0.2.0) |\n| pause() | Pause the autoplay by setting the `isPlaying` state to false. (Note: need \\>\\= v0.2.0) |\n| toggleIsPlaying() | Toggle the `isPlaying` state. (Note: need \\>\\= v0.2.0) |\n| maximize() | Maximize the carousel by setting the `isMaximized` state to true. (Note: need \\>\\= v0.2.0) |\n| minimize() | Minimize the carousel by setting the `isMaximized` state to false. (Note: need \\>\\= v0.2.0) |\n| toggleIsMaximized() | Toggle the `isMaximized` state. (Note: need \\>\\= v0.2.0) |\n| goLeft() | Go to the left slide. (Note: need \\>\\= v0.2.0) |\n| goRight() | Go to the right slide. (Note: need \\>\\= v0.2.0) |\n| goToIndex(index) | Go to the specified index. (Note: need \\>\\= v0.2.0) |\n\nDefinitions\n-----------\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#definitions)\n\n*   Developer users: developers who use this component.\n*   Users: end users of the products which use this component.\n\n### Image Object Example\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#image-object-example)\n\n```\n{\n  src: `https://placedog.net/700/420?id=1`, // required\n  srcset: `https://placedog.net/400/240?id=1 400w, https://placedog.net/700/420?id=1 700w, https://placedog.net/1000/600?id=1 1000w`,\n  sizes: '(max-width: 1000px) 400px, (max-width: 2000px) 700px, 1000px',\n  alt: `Dogs are domesticated mammals, not natural wild animals. They were originally bred from wolves. They have been bred by humans for a long time, and were the first animals ever to be domesticated.`,\n  thumbnail: `https://placedog.net/100/60?id=1`\n}\n```\n\n### Widgets Settings\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#widgets-settings)\n\n```\n[\n  'hasLeftButton',\n  'hasRightButton',\n  'hasMediaButton',\n  'hasSizeButton',\n  'hasDotButtons',\n  'hasIndexBoard'\n],\n```\n\n### Small Widget Positions\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#small-widget-positions)\n\n```\n[\n  'topLeft', 'topCenter', 'topRight',\n  'centerLeft', 'centerCenter', 'centerRight',\n  'bottomLeft', 'bottomCenter','bottomRight'\n]\n```\n\n### Large Widget Positions\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#large-widget-positions)\n\nFAQ\n---\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#faq)\n\n### Q: How to place video, text or any element into a slide?\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#q-how-to-place-video-text-or-any-element-into-a-slide)\n\nA: Custom elements in slides (called user-managed slides) can be placed using the `children` prop. Example: [demo](https://yifanai.com/rgc), [code](https://yifanai.com/rgc1). Note: it (they) will be placed only if the 'images' prop is falsy.\n\n### Q: Why the element and font in my carousel is different from the one on the demo?\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#q-why-the-element-and-font-in-my-carousel-is-different-from-the-one-on-the-demo)\n\nA: There are some browser default styles. Set a font, some global styles and/or use normalize.css will help. Example: [code](https://yifanai.com/rgcc).\n\n### Q: Can I remove hash from generated file names? How to do it?\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#q-can-i-remove-hash-from-generated-file-names-how-to-do-it)\n\nA: Yes. In `node_modules/microbundle-crl/dist/microbundle.js`, Change `useHash: true` to `useHash: false`.\n\n### Q: Are there TypeScript type definitions for this package?\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#q-are-there-typescript-type-definitions-for-this-package)\n\nA: Yes. [`@types/react-gallery-carousel`](https://www.npmjs.com/package/@types/react-gallery-carousel) package contains type definitions for `react-gallery-carousel` through DefinitelyTyped.\n\nRoadmap\n-------\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#roadmap)\n\n*   Support for dynamic images (since v0.1.1)\n*   Support handlers and listeners (since v0.2.0)\n*   Add TypeScript type Definitions (since v0.2.0)\n*   Support for server-side rendering (since v0.2.3)\n*   Momentum-based mouse dragging on thumbnails (since v0.2.4)\n*   Allow customization using custom elements (since v0.4.0)\n*   Use TypeScript\n*   Implement more unit tests and E2E tests\n*   GitHub Actions\n\nContributing\n------------\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#contributing)\n\nIssues and pull requests are welcomed.\n\n(Note: please use Prettier for code formatting.)\n\nLocal Development for Contributing\n----------------------------------\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#local-development-for-contributing)\n\n1.  In a terminal tab, run rollup to watch the `src/` directory and to automatically compile the local version of `react-gallery-carousel` into the `dist/` directory. (Note: the compilation does not minify the package for readability. The decision on minification is left to the developer users).\n\n2.  In another terminal tab, run create-react-app dev server to serve the example in the `example/` directory, which is dependent on the local version of `react-gallery-carousel`.\n\n(Note: it is not helpful to run either of these commands in the background, because you will miss out on errors and warnings.)\n\nLicense\n-------\n\n[](https://github.com/yifaneye/react-gallery-carousel?screenshot=true#license)\n\nMIT © [Yifan Ai](https://yifanai.com/)",
+  "usage": {
+    "tokens": 8270
+  }
+}
+```

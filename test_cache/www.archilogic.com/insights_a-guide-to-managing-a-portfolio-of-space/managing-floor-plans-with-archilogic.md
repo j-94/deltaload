@@ -1,0 +1,442 @@
+---
+title: Managing Floor Plans with Archilogic
+description: Eliminating the need for traditional document management or specialized CAD and BIM management systems with user-friendly, accessible tools for tracking and managing information about buildings, floors, spaces, and assets.
+url: https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space
+timestamp: 2025-01-20T16:03:06.850Z
+domain: www.archilogic.com
+path: insights_a-guide-to-managing-a-portfolio-of-space
+---
+
+# Managing Floor Plans with Archilogic
+
+
+Eliminating the need for traditional document management or specialized CAD and BIM management systems with user-friendly, accessible tools for tracking and managing information about buildings, floors, spaces, and assets.
+
+
+## Content
+
+Managing Floor Plans with Archilogic
+===============
+      
+
+[](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)
+
+Use Cases
+
+[Space Marketing](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Space Planning](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Space Operations](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)
+
+[Pricing](https://www.archilogic.com/work-in-progress/pricing)
+
+Developers
+
+[Floor Plan SDK](https://developers.archilogic.com/floor-plan-engine/guide.html)[Space API](https://developers.archilogic.com/space-api/v2/introduction.html#base-url)[3D Embed API](https://developers.archilogic.com/3d-embed-api/guide.html)
+
+Resources
+
+[Built with Archilogic](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Blog | Space to think](https://www.archilogic.com/work-in-progress/blog)[Support](https://help.archilogic.com/knowledge)
+
+Company
+
+[About](https://www.archilogic.com/about)[Careers](https://www.archilogic.com/work-in-progress/careers-old)
+
+[Log in](https://app.archilogic.com/login)
+
+[Sign up free](https://app.archilogic.com/signup)
+
+Managing Floor Plans with Archilogic
+====================================
+
+February 6, 2023
+
+Eliminating the need for traditional document management or specialized CAD and BIM management systems with user-friendly, accessible tools for tracking and managing information about buildings, floors, spaces, and assets.
+
+![Image 51: Managing Floor Plans with Archilogic](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space)
+
+Managing floor plans can be a challenging task for space occupiers, especially when relying on traditional document management systems or specialized CAD and BIM management systems. These approaches can lead to limited functionality, difficult-to-use systems, and restricted accessibility. Archilogic takes a different approach, turning static floor plans into spatial data stored in a database and made available in the cloud. With Archilogic, space occupiers can easily track and manage information about their buildings, floors, spaces, and assets, and quickly access up-to-date information. Archilogic is user-friendly, doesn't require CAD or BIM expertise, and is compatible with other products and services commonly used by occupiers.
+
+Today’s approaches to managing floor plans
+------------------------------------------
+
+**Approach 1: Manage static floor plan files, CAD files, or BIM files using a traditional document management system**
+
+Traditional document management systems can be used to manage a portfolio of floor plans by storing and organizing the physical files in a centralized location. The files can be uploaded and organized into folders, and the system may provide basic tools for searching, sorting, and retrieving files.
+
+In terms of floor plans, this means that the physical files such as CAD or BIM files can be stored in the document management system and organized by project or location. This makes it easier for the relevant team members to access the floor plans and collaborate on any changes that need to be made.
+
+These systems, however, can’t provide the level of functionality required for efficient floor plan management. Here are some of the issues you’ll experience trying to manage a portfolio of floor plans using traditional document management systems:
+
+1.  Limited functionality for handling floor plans specifically.
+2.  Information may not be stored in a format that is easily accessible or usable.
+3.  Outdated information may not be easily noticeable or resolvable.
+4.  Tedious and time-consuming document management.
+5.  Information may not be organized in a manner that is easily searchable or retrievable.
+6.  Limited compatibility with other products and services commonly used by occupiers.
+7.  May not be accessible from different locations or devices.
+8.  User experience may not be intuitive or user-friendly for non-technical users.
+
+‍
+
+**Approach 2: Use an official CAD or BIM management system**
+
+Specialized CAD and BIM management systems are designed specifically for managing engineering data and information in the AEC industry. These systems can be used to manage a portfolio of floor plans by providing a centralized repository for storing and organizing floor plan files, along with powerful tools for tracking changes, version control, and collaboration.
+
+While these solutions are much more robust than traditional document management alone, they often fail to satisfy the needs of space occupiers:
+
+1.  These systems can be complex and difficult to use for those without a background in CAD or BIM, meaning only those with specialized expertise can fully utilize the features and capabilities that add value.
+2.  Implementing and maintaining a CAD or BIM management system can be expensive, requiring significant resources and investment.
+3.  Integrating these systems with existing processes, workflows, and tools is challenging, time-consuming, and often times simply not possible.
+4.  Maintaining a CAD or BIM management system can be resource-intensive, requiring ongoing updates and upgrades to keep it functioning optimally.
+5.  Accessing the floor plans stored in these systems may require specific hardware and software, which drastically limits accessibility.
+6.  These systems are designed for the project team and aren’t designed for the day-to-day reality of space occupiers.
+
+How Archilogic does it differently
+----------------------------------
+
+Archilogic turns static floor plans into spatial data that’s stored in a database and made available in the cloud.  Our dashboard gives you the tools you need to track and manage information about every element in your portfolio - from buildings to floors to spaces to assets - and easily surface that information when you need it. As information about the space changes, the changes are stored in the database so that they can be analyzed and when necessary, reverted.  We structure and store information about your space with both occupiers and software developers in mind so that it’s as useful and compatible as possible.
+
+Why Archilogic
+--------------
+
+**There are no documents to manage**
+
+This makes it easier to access, share, and update information about your space without the hassle of managing digital documents.
+
+**You always get the most recent, up-to-date information**
+
+Archilogic stores information about your space in a database, so as changes occur, they're immediately reflected in the data. This ensures that you always have the most recent, up-to-date information about your space.
+
+**You can still export information in CAD and BIM formats when you need it**
+
+Despite the benefits of storing floor plans in a database, there may be times when you need to export information in CAD or BIM formats. Archilogic still allows you to do this, so you can share or use the information in a format that works best for you.
+
+**You don’t need CAD or BIM expertise to get the information you need**
+
+Archilogic was designed to be user-friendly and accessible, eliminating the need for specialized CAD or BIM expertise. This makes it easier for you to access the information you need about your space, regardless of your technical background.
+
+**You get a user experience built for the needs of a space occupier, not of the project team**
+
+Unlike CAD or BIM management systems that are designed for the project team, Archilogic was built with the needs of occupiers in mind. This means that you get a user experience that is optimized for your needs, making it easier to access, update, and use information about your space.
+
+**You get useful, compatible digital twins that connect to everything**
+
+Archilogic stores information about your space in a format that is compatible with other products and services you're already using. This makes it easier to connect your space information with the tools you need to work efficiently and effectively.
+
+‍
+
+[![Image 52](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd1fbc5e476a8f12d41b_linkedin-icon.svg)Share](https://www.linkedin.com/shareArticle?mini=true&url=https://www.archilogic.com/post/a-guide-to-managing-a-portfolio-of-space)
+
+[![Image 53](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20939753363379b909_facebook-icon.svg)Share](https://www.facebook.com/sharer/sharer.php?u=https://www.archilogic.com/post/a-guide-to-managing-a-portfolio-of-space)
+
+[![Image 54](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20c5da59bdddc4aa2b_twitter-icon.svg)Share](https://twitter.com/intent/tweet?text=https%3A//www.archilogic.com/post/a-guide-to-managing-a-portfolio-of-space)
+
+[![Image 55](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60db3def594ab96b44848dce_pinterest-logo.svg)Share](https://pinterest.com/pin/create/button/?url=&media=https%3A//www.archilogic.com/post/a-guide-to-managing-a-portfolio-of-space&description=)
+
+ [![Image 56: Linkedin Icon](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd1fbc5e476a8f12d41b_linkedin-icon.svg) Share](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#) [![Image 57: Twitter Logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20c5da59bdddc4aa2b_twitter-icon.svg) Share](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[![Image 58: Twitter Logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20c5da59bdddc4aa2b_twitter-icon.svg)Tweet](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[![Image 59: Pinterest Logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60db3def594ab96b44848dce_pinterest-logo.svg)Save](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)
+
+Time for another quick read?
+----------------------------
+
+[![Image 60: Archilogic launches support for Microsoft Places](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space) ### Archilogic launches support for Microsoft Places](https://www.archilogic.com/insights/archilogic-launches-support-for-microsoft-places)
+
+[![Image 61: Automating Space Calculation with Custom Rulesets like BOMA](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space) ### Automating Space Calculation with Custom Rulesets like BOMA](https://www.archilogic.com/insights/automating-space-calculation-boma)
+
+[![Image 62: From CAD to BIM to Digital Twins](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space) ### From CAD to BIM to Digital Twins](https://www.archilogic.com/insights/cad-bim-digital-twins)
+
+Ready to get started?
+---------------------
+
+[Sign up free](https://app.archilogic.com/signup)
+
+[](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)
+
+Do more with **your space**
+
+[![Image 63: logo ISO 27001](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6246a899623afe43ca0c57a1_Iso.webp)](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)
+
+Do more with **your space**
+
+#### Locations
+
+Zurich
+
+Kanzleistrasse 126  
+Zürich, 8004  
+Switzerland
+
+San Francisco Bay Area
+
+1212 Broadway Plaza  
+Suite 2100  
+Walnut Creek, CA 94596  
+United States
+
+#### Company
+
+[Contact](https://www.archilogic.com/contact-us)[About](https://www.archilogic.com/about)
+
+[Careers](https://www.archilogic.com/work-in-progress/careers-old)
+
+#### Legal
+
+[Terms of service](https://www.archilogic.com/archive/general-terms-of-service-2023)[Privacy](https://www.archilogic.com/legal/privacy-policy)[Cookies](https://www.archilogic.com/legal/cookies)
+
+#### Use cases
+
+[Space Marketing](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Space Planning](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Space Operations](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)
+
+[#### Pricing](https://www.archilogic.com/work-in-progress/pricing)[#### Developers](https://developers.archilogic.com/)
+
+#### Resources
+
+[Built with Archilogic](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[About Archilogic](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Careers](https://archilogic.bamboohr.com/jobs/)[Blog](https://www.archilogic.com/work-in-progress/blog)[Releases](https://www.archilogic.com/work-in-progress/releases)[Support](https://help.archilogic.com/knowledge)[Status](https://archilogic.statuspage.io/)
+
+[#### Log in](https://app.archilogic.com/login)
+
+[![Image 64: Linkedin Icon](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd1fbc5e476a8f12d41b_linkedin-icon.svg)](https://www.linkedin.com/company/archilogic-ag/)[![Image 65: Twitter Logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20c5da59bdddc4aa2b_twitter-icon.svg)](https://twitter.com/archilogic)[![Image 66: Logo Instagram](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20bf4b811734367b0f_instagram-icon.svg)](https://www.instagram.com/archilogic/)[![Image 67](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20939753363379b909_facebook-icon.svg)](https://www.facebook.com/archilogic3d)[![Image 68: logo Youtube](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20182e9e8a5de39867_youtube-icon.svg)](https://www.youtube.com/c/ArchilogicVideo)
+
+Copyright 2022 Archilogic AG. All Rights Reserved
+
+[![Image 69: archilogic logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63fdce5ca5e3b7765a8a807a_Logo.svg)](https://www.archilogic.com/)[![Image 70: archilogic logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63fdce5ca5e3b7765a8a807a_Logo.svg)](https://www.archilogic.com/)
+
+Product
+
+![Image 71: grey chevron](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/633162593f576a7d60e5b8d2_chevron-down.svg)
+
+FEATURES
+
+[![Image 72: Onboard ](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fa1fabbacc53da3d7625_download%20(1)%201.svg) Onboard](https://www.archilogic.com/product/space-onboarding)[![Image 73: Manage](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fb043b3758589b95d4a4_download%20(2)%201.svg) Manage](https://www.archilogic.com/product/space-management)[![Image 74: Edit](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fb10ee831da158c0836e_download%201.svg) Edit](https://www.archilogic.com/product/space-editing)
+
+PLATFORM
+
+[![Image 75: Integrations](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fb8be58f156e8fcd99a1_download%20(3)%201.svg) Integrations](https://www.archilogic.com/integrations)[![Image 76](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fb9b72aaf606f63f606d_download%20(4)%201.svg) Developers](https://developers.archilogic.com/)
+
+[Pricing](https://www.archilogic.com/work-in-progress/pricing)
+
+Solutions
+
+![Image 77: grey chevron](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/633162593f576a7d60e5b8d2_chevron-down.svg)
+
+[![Image 78](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65b2c4ce8ee9390ea6ef76cd_007-corporation.svg) Corporate Office](https://www.archilogic.com/solutions/corporate-office)[![Image 79](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65b2c320081dc97dafd5506b_008-factory-3.svg) Manufacturing](https://www.archilogic.com/solutions/manufacturing)[![Image 80](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65b2c55ad3c0655c02c55a3c_005-business.svg) Coworking](https://www.archilogic.com/solutions/coworking)[![Image 81](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65c145f8a51dfb6fab3d188d_floorplan-blue.svg) Manage Floor Plans](https://www.archilogic.com/solutions/floor-plan-management)
+
+[Pricing](https://www.archilogic.com/pricing)
+
+Resources
+
+![Image 82: grey chevron](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/633162593f576a7d60e5b8d2_chevron-down.svg)
+
+[![Image 83: Showcases](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fc88ed145e60301959a5_download%20(5)%201.svg) Showcases](https://www.archilogic.com/resources?resources=Showcases)[![Image 84: Blog](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fc89972c16f2217ceeb7_download%20(6)%201.svg) Blog](https://www.archilogic.com/resources?resources=Blog+Posts)[![Image 85: Releases](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fc88f61e3a0e051511cb_download%20(7)%201.svg) Releases](https://www.archilogic.com/resources?resources=Releases)[![Image 86: Support](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fc89c841d8607f9d9d94_download%20(8)%201.svg) Support](https://help.archilogic.com/knowledge)
+
+[Developers](https://developers.archilogic.com/)
+
+[Log in](https://app.archilogic.com/login)
+
+[Contact Us](https://www.archilogic.com/contact-us)
+
+[Log in](https://app.archilogic.com/login)
+
+[Contact us](https://www.archilogic.com/contact-us)
+
+Index
+
+[Title](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)
+
+Blog Post
+
+Managing Floor Plans with Archilogic
+------------------------------------
+
+Eliminating the need for traditional document management or specialized CAD and BIM management systems with user-friendly, accessible tools for tracking and managing information about buildings, floors, spaces, and assets.
+
+Managing floor plans can be a challenging task for space occupiers, especially when relying on traditional document management systems or specialized CAD and BIM management systems. These approaches can lead to limited functionality, difficult-to-use systems, and restricted accessibility. Archilogic takes a different approach, turning static floor plans into spatial data stored in a database and made available in the cloud. With Archilogic, space occupiers can easily track and manage information about their buildings, floors, spaces, and assets, and quickly access up-to-date information. Archilogic is user-friendly, doesn't require CAD or BIM expertise, and is compatible with other products and services commonly used by occupiers.
+
+Today’s approaches to managing floor plans
+------------------------------------------
+
+**Approach 1: Manage static floor plan files, CAD files, or BIM files using a traditional document management system**
+
+Traditional document management systems can be used to manage a portfolio of floor plans by storing and organizing the physical files in a centralized location. The files can be uploaded and organized into folders, and the system may provide basic tools for searching, sorting, and retrieving files.
+
+In terms of floor plans, this means that the physical files such as CAD or BIM files can be stored in the document management system and organized by project or location. This makes it easier for the relevant team members to access the floor plans and collaborate on any changes that need to be made.
+
+These systems, however, can’t provide the level of functionality required for efficient floor plan management. Here are some of the issues you’ll experience trying to manage a portfolio of floor plans using traditional document management systems:
+
+1.  Limited functionality for handling floor plans specifically.
+2.  Information may not be stored in a format that is easily accessible or usable.
+3.  Outdated information may not be easily noticeable or resolvable.
+4.  Tedious and time-consuming document management.
+5.  Information may not be organized in a manner that is easily searchable or retrievable.
+6.  Limited compatibility with other products and services commonly used by occupiers.
+7.  May not be accessible from different locations or devices.
+8.  User experience may not be intuitive or user-friendly for non-technical users.
+
+‍
+
+**Approach 2: Use an official CAD or BIM management system**
+
+Specialized CAD and BIM management systems are designed specifically for managing engineering data and information in the AEC industry. These systems can be used to manage a portfolio of floor plans by providing a centralized repository for storing and organizing floor plan files, along with powerful tools for tracking changes, version control, and collaboration.
+
+While these solutions are much more robust than traditional document management alone, they often fail to satisfy the needs of space occupiers:
+
+1.  These systems can be complex and difficult to use for those without a background in CAD or BIM, meaning only those with specialized expertise can fully utilize the features and capabilities that add value.
+2.  Implementing and maintaining a CAD or BIM management system can be expensive, requiring significant resources and investment.
+3.  Integrating these systems with existing processes, workflows, and tools is challenging, time-consuming, and often times simply not possible.
+4.  Maintaining a CAD or BIM management system can be resource-intensive, requiring ongoing updates and upgrades to keep it functioning optimally.
+5.  Accessing the floor plans stored in these systems may require specific hardware and software, which drastically limits accessibility.
+6.  These systems are designed for the project team and aren’t designed for the day-to-day reality of space occupiers.
+
+How Archilogic does it differently
+----------------------------------
+
+Archilogic turns static floor plans into spatial data that’s stored in a database and made available in the cloud.  Our dashboard gives you the tools you need to track and manage information about every element in your portfolio - from buildings to floors to spaces to assets - and easily surface that information when you need it. As information about the space changes, the changes are stored in the database so that they can be analyzed and when necessary, reverted.  We structure and store information about your space with both occupiers and software developers in mind so that it’s as useful and compatible as possible.
+
+Why Archilogic
+--------------
+
+**There are no documents to manage**
+
+This makes it easier to access, share, and update information about your space without the hassle of managing digital documents.
+
+**You always get the most recent, up-to-date information**
+
+Archilogic stores information about your space in a database, so as changes occur, they're immediately reflected in the data. This ensures that you always have the most recent, up-to-date information about your space.
+
+**You can still export information in CAD and BIM formats when you need it**
+
+Despite the benefits of storing floor plans in a database, there may be times when you need to export information in CAD or BIM formats. Archilogic still allows you to do this, so you can share or use the information in a format that works best for you.
+
+**You don’t need CAD or BIM expertise to get the information you need**
+
+Archilogic was designed to be user-friendly and accessible, eliminating the need for specialized CAD or BIM expertise. This makes it easier for you to access the information you need about your space, regardless of your technical background.
+
+**You get a user experience built for the needs of a space occupier, not of the project team**
+
+Unlike CAD or BIM management systems that are designed for the project team, Archilogic was built with the needs of occupiers in mind. This means that you get a user experience that is optimized for your needs, making it easier to access, update, and use information about your space.
+
+**You get useful, compatible digital twins that connect to everything**
+
+Archilogic stores information about your space in a format that is compatible with other products and services you're already using. This makes it easier to connect your space information with the tools you need to work efficiently and effectively.
+
+‍
+
+#### What you should do now
+
+Whenever you’re ready, here are 3 ways we can help you take your portfolio of space to the next level:  
+‍
+
+#### 1\. Schedule a demo
+
+If you have questions about how Archilogic can be the central management platform for your portfolio of space, click here to schedule time to discuss your needs with one of our experts
+
+[Schedule a demo](https://www.archilogic.com/contact-us)
+
+#### 2\. Visit our resources section
+
+If you’d like to learn more about efficiently managing your space portfolio, check out our resources section for more information about how digital twins can help you make informed decisions, create stellar experiences, and optimize your space.
+
+[Visit resources](https://www.archilogic.com/resources)
+
+#### 3\. Share this article
+
+Do you know an office manager or real estate professional who would find this information useful? Share this with them on LinkedIn, Twitter, or by email.
+
+[](https://www.linkedin.com/company/archilogic-ag/)[](https://www.linkedin.com/company/archilogic-ag/)[](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)
+
+Related posts
+-------------
+
+Learn more about Archilogic by reading these related articles.
+
+[All blog posts](https://www.archilogic.com/resources?resources=Blogposts)
+
+[Category](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[### Titre ![Image 87: black arrow](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6336b1b58c45f522aa18d6d7_arrow-up-right.svg)](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.
+
+Type of article
+
+Date
+
+![Image 88: arrow grey](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/633c025112043d3342315bed_arrow-gray.svg)
+
+![Image 89: arrow grey](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/633c025112043d3342315bed_arrow-gray.svg)
+
+[BLOGPOST](https://www.archilogic.com/resources?resources=Blogposts)[### Archilogic launches support for Microsoft Places ![Image 90: black arrow](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6336b1b58c45f522aa18d6d7_arrow-up-right.svg)](https://www.archilogic.com/insights/archilogic-launches-support-for-microsoft-places)
+
+Archilogic, a leader in spatial building data technology, is pleased to announce our participation as a global mapping integrator for Microsoft Places using IMDF files and floor plans.
+
+October 24, 2024
+
+[BLOGPOST](https://www.archilogic.com/resources?resources=Blogposts)[### Automating Space Calculation with Custom Rulesets like BOMA ![Image 91: black arrow](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6336b1b58c45f522aa18d6d7_arrow-up-right.svg)](https://www.archilogic.com/insights/automating-space-calculation-boma)
+
+February 1, 2024
+
+[BLOGPOST](https://www.archilogic.com/resources?resources=Blogposts)[### From CAD to BIM to Digital Twins ![Image 92: black arrow](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6336b1b58c45f522aa18d6d7_arrow-up-right.svg)](https://www.archilogic.com/insights/cad-bim-digital-twins)
+
+The progression from CAD to BIM to Digital Twins marked significant advancements in the architectural and facilities management sectors. However, as industries stand at the cusp of large-scale adoption of Digital Twins, they're encountering inherent limitations in these traditional tools. One of the biggest challenges with these tools is the lack of AI readiness and the ability to integrate seamlessly. CAD and BIM, while transformative in their prime, weren't designed with AI in mind. Archilogic's Digital Twin solution is crafted with an acute awareness of tomorrow's AI-driven world
+
+October 25, 2023
+
+[BLOGPOST](https://www.archilogic.com/resources?resources=Blogposts)[### Reimagining Space: How AI and Digital Twins are Transforming the Understanding of Physical Environments ![Image 93: black arrow](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6336b1b58c45f522aa18d6d7_arrow-up-right.svg)](https://www.archilogic.com/insights/reimagining-space-ai-digital-twins)
+
+As AI readiness becomes essential, the focus sharpens on efficient space utilization in commercial real estate. With Archilogic's advanced digital twins, unlock new dimensions of spatial intelligence and optimization.
+
+August 17, 2023
+
+### Forward-thinking organizations use Archilogic to manage over 40 million sqft across 2,000+ floors every month. Join them.
+
+[Learn more](https://www.archilogic.com/contact-us)
+
+[![Image 94](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbcfa86864f7aa3cae9ea9_Archilogic%20logo.svg)](https://www.archilogic.com/)
+
+Do more with **your space**
+
+![Image 95](https://cdn.prod.website-files.com/65b9e603097eaaf9357ca041/65c124445523bdcc0f515a1d_ISO%20certified.png)
+
+#### Locations
+
+Zurich
+
+Kanzleistrasse 126  
+Zürich, 8004  
+Switzerland
+
+San Francisco Bay Area
+
+1212 Broadway Plaza  
+Suite 2100  
+Walnut Creek, CA 94596  
+United States
+
+#### Product
+
+[Onboard](https://www.archilogic.com/product/space-onboarding)[Manage](https://www.archilogic.com/product/space-management)[Edit](https://www.archilogic.com/product/space-editing)[Integrations](https://www.archilogic.com/integrations)[Developers](https://www.archilogic.com/developers)
+
+#### Resources
+
+[Showcase](https://www.archilogic.com/resources)[Blog](https://www.archilogic.com/resources?resources=Blog+Posts)[Release](https://www.archilogic.com/resources?resources=Releases)[Support](https://help.archilogic.com/knowledge)[Status](https://archilogic.statuspage.io/)
+
+#### Compay
+
+[Contact](https://www.archilogic.com/contact-us)[About](https://www.archilogic.com/about)[Careers](https://www.archilogic.com/careers)
+
+#### Legal
+
+[Terms of service](https://go.archilogic.com/general-tos)[Privacy](https://www.archilogic.com/legal/privacy-policy)[Cookies](https://www.archilogic.com/legal/cookies)
+
+[![Image 96](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbd0699074a878b425d5e6_SM%20logos%20linkedin.svg)](https://www.linkedin.com/company/archilogic-ag/)[![Image 97](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbd0699074a878b425d5e2_SM%20logos%20twitter.svg)](https://twitter.com/archilogic)[![Image 98](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbd0699074a878b425d5e4_SM%20logos%20instagram.svg)](https://www.instagram.com/archilogic/)[![Image 99](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbd0699074a878b425d5e5_SM%20logos%20facebook.svg)](https://www.facebook.com/archilogic3d)[![Image 100](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbd0699074a878b425d5e3_SM%20logos%20youtube.svg)](https://www.youtube.com/c/ArchilogicVideo)
+
+Copyright 2024 Archilogic AG. All Rights Reserved
+
+## Metadata
+
+```json
+{
+  "title": "Managing Floor Plans with Archilogic",
+  "description": "Eliminating the need for traditional document management or specialized CAD and BIM management systems with user-friendly, accessible tools for tracking and managing information about buildings, floors, spaces, and assets.",
+  "url": "https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space",
+  "content": "Managing Floor Plans with Archilogic\n===============\n      \n\n[](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)\n\nUse Cases\n\n[Space Marketing](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Space Planning](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Space Operations](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)\n\n[Pricing](https://www.archilogic.com/work-in-progress/pricing)\n\nDevelopers\n\n[Floor Plan SDK](https://developers.archilogic.com/floor-plan-engine/guide.html)[Space API](https://developers.archilogic.com/space-api/v2/introduction.html#base-url)[3D Embed API](https://developers.archilogic.com/3d-embed-api/guide.html)\n\nResources\n\n[Built with Archilogic](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Blog | Space to think](https://www.archilogic.com/work-in-progress/blog)[Support](https://help.archilogic.com/knowledge)\n\nCompany\n\n[About](https://www.archilogic.com/about)[Careers](https://www.archilogic.com/work-in-progress/careers-old)\n\n[Log in](https://app.archilogic.com/login)\n\n[Sign up free](https://app.archilogic.com/signup)\n\nManaging Floor Plans with Archilogic\n====================================\n\nFebruary 6, 2023\n\nEliminating the need for traditional document management or specialized CAD and BIM management systems with user-friendly, accessible tools for tracking and managing information about buildings, floors, spaces, and assets.\n\n![Image 51: Managing Floor Plans with Archilogic](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space)\n\nManaging floor plans can be a challenging task for space occupiers, especially when relying on traditional document management systems or specialized CAD and BIM management systems. These approaches can lead to limited functionality, difficult-to-use systems, and restricted accessibility. Archilogic takes a different approach, turning static floor plans into spatial data stored in a database and made available in the cloud. With Archilogic, space occupiers can easily track and manage information about their buildings, floors, spaces, and assets, and quickly access up-to-date information. Archilogic is user-friendly, doesn't require CAD or BIM expertise, and is compatible with other products and services commonly used by occupiers.\n\nToday’s approaches to managing floor plans\n------------------------------------------\n\n**Approach 1: Manage static floor plan files, CAD files, or BIM files using a traditional document management system**\n\nTraditional document management systems can be used to manage a portfolio of floor plans by storing and organizing the physical files in a centralized location. The files can be uploaded and organized into folders, and the system may provide basic tools for searching, sorting, and retrieving files.\n\nIn terms of floor plans, this means that the physical files such as CAD or BIM files can be stored in the document management system and organized by project or location. This makes it easier for the relevant team members to access the floor plans and collaborate on any changes that need to be made.\n\nThese systems, however, can’t provide the level of functionality required for efficient floor plan management. Here are some of the issues you’ll experience trying to manage a portfolio of floor plans using traditional document management systems:\n\n1.  Limited functionality for handling floor plans specifically.\n2.  Information may not be stored in a format that is easily accessible or usable.\n3.  Outdated information may not be easily noticeable or resolvable.\n4.  Tedious and time-consuming document management.\n5.  Information may not be organized in a manner that is easily searchable or retrievable.\n6.  Limited compatibility with other products and services commonly used by occupiers.\n7.  May not be accessible from different locations or devices.\n8.  User experience may not be intuitive or user-friendly for non-technical users.\n\n‍\n\n**Approach 2: Use an official CAD or BIM management system**\n\nSpecialized CAD and BIM management systems are designed specifically for managing engineering data and information in the AEC industry. These systems can be used to manage a portfolio of floor plans by providing a centralized repository for storing and organizing floor plan files, along with powerful tools for tracking changes, version control, and collaboration.\n\nWhile these solutions are much more robust than traditional document management alone, they often fail to satisfy the needs of space occupiers:\n\n1.  These systems can be complex and difficult to use for those without a background in CAD or BIM, meaning only those with specialized expertise can fully utilize the features and capabilities that add value.\n2.  Implementing and maintaining a CAD or BIM management system can be expensive, requiring significant resources and investment.\n3.  Integrating these systems with existing processes, workflows, and tools is challenging, time-consuming, and often times simply not possible.\n4.  Maintaining a CAD or BIM management system can be resource-intensive, requiring ongoing updates and upgrades to keep it functioning optimally.\n5.  Accessing the floor plans stored in these systems may require specific hardware and software, which drastically limits accessibility.\n6.  These systems are designed for the project team and aren’t designed for the day-to-day reality of space occupiers.\n\nHow Archilogic does it differently\n----------------------------------\n\nArchilogic turns static floor plans into spatial data that’s stored in a database and made available in the cloud.  Our dashboard gives you the tools you need to track and manage information about every element in your portfolio - from buildings to floors to spaces to assets - and easily surface that information when you need it. As information about the space changes, the changes are stored in the database so that they can be analyzed and when necessary, reverted.  We structure and store information about your space with both occupiers and software developers in mind so that it’s as useful and compatible as possible.\n\nWhy Archilogic\n--------------\n\n**There are no documents to manage**\n\nThis makes it easier to access, share, and update information about your space without the hassle of managing digital documents.\n\n**You always get the most recent, up-to-date information**\n\nArchilogic stores information about your space in a database, so as changes occur, they're immediately reflected in the data. This ensures that you always have the most recent, up-to-date information about your space.\n\n**You can still export information in CAD and BIM formats when you need it**\n\nDespite the benefits of storing floor plans in a database, there may be times when you need to export information in CAD or BIM formats. Archilogic still allows you to do this, so you can share or use the information in a format that works best for you.\n\n**You don’t need CAD or BIM expertise to get the information you need**\n\nArchilogic was designed to be user-friendly and accessible, eliminating the need for specialized CAD or BIM expertise. This makes it easier for you to access the information you need about your space, regardless of your technical background.\n\n**You get a user experience built for the needs of a space occupier, not of the project team**\n\nUnlike CAD or BIM management systems that are designed for the project team, Archilogic was built with the needs of occupiers in mind. This means that you get a user experience that is optimized for your needs, making it easier to access, update, and use information about your space.\n\n**You get useful, compatible digital twins that connect to everything**\n\nArchilogic stores information about your space in a format that is compatible with other products and services you're already using. This makes it easier to connect your space information with the tools you need to work efficiently and effectively.\n\n‍\n\n[![Image 52](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd1fbc5e476a8f12d41b_linkedin-icon.svg)Share](https://www.linkedin.com/shareArticle?mini=true&url=https://www.archilogic.com/post/a-guide-to-managing-a-portfolio-of-space)\n\n[![Image 53](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20939753363379b909_facebook-icon.svg)Share](https://www.facebook.com/sharer/sharer.php?u=https://www.archilogic.com/post/a-guide-to-managing-a-portfolio-of-space)\n\n[![Image 54](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20c5da59bdddc4aa2b_twitter-icon.svg)Share](https://twitter.com/intent/tweet?text=https%3A//www.archilogic.com/post/a-guide-to-managing-a-portfolio-of-space)\n\n[![Image 55](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60db3def594ab96b44848dce_pinterest-logo.svg)Share](https://pinterest.com/pin/create/button/?url=&media=https%3A//www.archilogic.com/post/a-guide-to-managing-a-portfolio-of-space&description=)\n\n [![Image 56: Linkedin Icon](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd1fbc5e476a8f12d41b_linkedin-icon.svg) Share](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#) [![Image 57: Twitter Logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20c5da59bdddc4aa2b_twitter-icon.svg) Share](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[![Image 58: Twitter Logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20c5da59bdddc4aa2b_twitter-icon.svg)Tweet](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[![Image 59: Pinterest Logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60db3def594ab96b44848dce_pinterest-logo.svg)Save](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)\n\nTime for another quick read?\n----------------------------\n\n[![Image 60: Archilogic launches support for Microsoft Places](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space) ### Archilogic launches support for Microsoft Places](https://www.archilogic.com/insights/archilogic-launches-support-for-microsoft-places)\n\n[![Image 61: Automating Space Calculation with Custom Rulesets like BOMA](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space) ### Automating Space Calculation with Custom Rulesets like BOMA](https://www.archilogic.com/insights/automating-space-calculation-boma)\n\n[![Image 62: From CAD to BIM to Digital Twins](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space) ### From CAD to BIM to Digital Twins](https://www.archilogic.com/insights/cad-bim-digital-twins)\n\nReady to get started?\n---------------------\n\n[Sign up free](https://app.archilogic.com/signup)\n\n[](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)\n\nDo more with **your space**\n\n[![Image 63: logo ISO 27001](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6246a899623afe43ca0c57a1_Iso.webp)](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)\n\nDo more with **your space**\n\n#### Locations\n\nZurich\n\nKanzleistrasse 126  \nZürich, 8004  \nSwitzerland\n\nSan Francisco Bay Area\n\n1212 Broadway Plaza  \nSuite 2100  \nWalnut Creek, CA 94596  \nUnited States\n\n#### Company\n\n[Contact](https://www.archilogic.com/contact-us)[About](https://www.archilogic.com/about)\n\n[Careers](https://www.archilogic.com/work-in-progress/careers-old)\n\n#### Legal\n\n[Terms of service](https://www.archilogic.com/archive/general-terms-of-service-2023)[Privacy](https://www.archilogic.com/legal/privacy-policy)[Cookies](https://www.archilogic.com/legal/cookies)\n\n#### Use cases\n\n[Space Marketing](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Space Planning](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Space Operations](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)\n\n[#### Pricing](https://www.archilogic.com/work-in-progress/pricing)[#### Developers](https://developers.archilogic.com/)\n\n#### Resources\n\n[Built with Archilogic](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[About Archilogic](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[Careers](https://archilogic.bamboohr.com/jobs/)[Blog](https://www.archilogic.com/work-in-progress/blog)[Releases](https://www.archilogic.com/work-in-progress/releases)[Support](https://help.archilogic.com/knowledge)[Status](https://archilogic.statuspage.io/)\n\n[#### Log in](https://app.archilogic.com/login)\n\n[![Image 64: Linkedin Icon](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd1fbc5e476a8f12d41b_linkedin-icon.svg)](https://www.linkedin.com/company/archilogic-ag/)[![Image 65: Twitter Logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20c5da59bdddc4aa2b_twitter-icon.svg)](https://twitter.com/archilogic)[![Image 66: Logo Instagram](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20bf4b811734367b0f_instagram-icon.svg)](https://www.instagram.com/archilogic/)[![Image 67](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20939753363379b909_facebook-icon.svg)](https://www.facebook.com/archilogic3d)[![Image 68: logo Youtube](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/60c9bd20182e9e8a5de39867_youtube-icon.svg)](https://www.youtube.com/c/ArchilogicVideo)\n\nCopyright 2022 Archilogic AG. All Rights Reserved\n\n[![Image 69: archilogic logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63fdce5ca5e3b7765a8a807a_Logo.svg)](https://www.archilogic.com/)[![Image 70: archilogic logo](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63fdce5ca5e3b7765a8a807a_Logo.svg)](https://www.archilogic.com/)\n\nProduct\n\n![Image 71: grey chevron](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/633162593f576a7d60e5b8d2_chevron-down.svg)\n\nFEATURES\n\n[![Image 72: Onboard ](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fa1fabbacc53da3d7625_download%20(1)%201.svg) Onboard](https://www.archilogic.com/product/space-onboarding)[![Image 73: Manage](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fb043b3758589b95d4a4_download%20(2)%201.svg) Manage](https://www.archilogic.com/product/space-management)[![Image 74: Edit](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fb10ee831da158c0836e_download%201.svg) Edit](https://www.archilogic.com/product/space-editing)\n\nPLATFORM\n\n[![Image 75: Integrations](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fb8be58f156e8fcd99a1_download%20(3)%201.svg) Integrations](https://www.archilogic.com/integrations)[![Image 76](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fb9b72aaf606f63f606d_download%20(4)%201.svg) Developers](https://developers.archilogic.com/)\n\n[Pricing](https://www.archilogic.com/work-in-progress/pricing)\n\nSolutions\n\n![Image 77: grey chevron](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/633162593f576a7d60e5b8d2_chevron-down.svg)\n\n[![Image 78](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65b2c4ce8ee9390ea6ef76cd_007-corporation.svg) Corporate Office](https://www.archilogic.com/solutions/corporate-office)[![Image 79](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65b2c320081dc97dafd5506b_008-factory-3.svg) Manufacturing](https://www.archilogic.com/solutions/manufacturing)[![Image 80](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65b2c55ad3c0655c02c55a3c_005-business.svg) Coworking](https://www.archilogic.com/solutions/coworking)[![Image 81](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65c145f8a51dfb6fab3d188d_floorplan-blue.svg) Manage Floor Plans](https://www.archilogic.com/solutions/floor-plan-management)\n\n[Pricing](https://www.archilogic.com/pricing)\n\nResources\n\n![Image 82: grey chevron](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/633162593f576a7d60e5b8d2_chevron-down.svg)\n\n[![Image 83: Showcases](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fc88ed145e60301959a5_download%20(5)%201.svg) Showcases](https://www.archilogic.com/resources?resources=Showcases)[![Image 84: Blog](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fc89972c16f2217ceeb7_download%20(6)%201.svg) Blog](https://www.archilogic.com/resources?resources=Blog+Posts)[![Image 85: Releases](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fc88f61e3a0e051511cb_download%20(7)%201.svg) Releases](https://www.archilogic.com/resources?resources=Releases)[![Image 86: Support](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/63f5fc89c841d8607f9d9d94_download%20(8)%201.svg) Support](https://help.archilogic.com/knowledge)\n\n[Developers](https://developers.archilogic.com/)\n\n[Log in](https://app.archilogic.com/login)\n\n[Contact Us](https://www.archilogic.com/contact-us)\n\n[Log in](https://app.archilogic.com/login)\n\n[Contact us](https://www.archilogic.com/contact-us)\n\nIndex\n\n[Title](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)\n\nBlog Post\n\nManaging Floor Plans with Archilogic\n------------------------------------\n\nEliminating the need for traditional document management or specialized CAD and BIM management systems with user-friendly, accessible tools for tracking and managing information about buildings, floors, spaces, and assets.\n\nManaging floor plans can be a challenging task for space occupiers, especially when relying on traditional document management systems or specialized CAD and BIM management systems. These approaches can lead to limited functionality, difficult-to-use systems, and restricted accessibility. Archilogic takes a different approach, turning static floor plans into spatial data stored in a database and made available in the cloud. With Archilogic, space occupiers can easily track and manage information about their buildings, floors, spaces, and assets, and quickly access up-to-date information. Archilogic is user-friendly, doesn't require CAD or BIM expertise, and is compatible with other products and services commonly used by occupiers.\n\nToday’s approaches to managing floor plans\n------------------------------------------\n\n**Approach 1: Manage static floor plan files, CAD files, or BIM files using a traditional document management system**\n\nTraditional document management systems can be used to manage a portfolio of floor plans by storing and organizing the physical files in a centralized location. The files can be uploaded and organized into folders, and the system may provide basic tools for searching, sorting, and retrieving files.\n\nIn terms of floor plans, this means that the physical files such as CAD or BIM files can be stored in the document management system and organized by project or location. This makes it easier for the relevant team members to access the floor plans and collaborate on any changes that need to be made.\n\nThese systems, however, can’t provide the level of functionality required for efficient floor plan management. Here are some of the issues you’ll experience trying to manage a portfolio of floor plans using traditional document management systems:\n\n1.  Limited functionality for handling floor plans specifically.\n2.  Information may not be stored in a format that is easily accessible or usable.\n3.  Outdated information may not be easily noticeable or resolvable.\n4.  Tedious and time-consuming document management.\n5.  Information may not be organized in a manner that is easily searchable or retrievable.\n6.  Limited compatibility with other products and services commonly used by occupiers.\n7.  May not be accessible from different locations or devices.\n8.  User experience may not be intuitive or user-friendly for non-technical users.\n\n‍\n\n**Approach 2: Use an official CAD or BIM management system**\n\nSpecialized CAD and BIM management systems are designed specifically for managing engineering data and information in the AEC industry. These systems can be used to manage a portfolio of floor plans by providing a centralized repository for storing and organizing floor plan files, along with powerful tools for tracking changes, version control, and collaboration.\n\nWhile these solutions are much more robust than traditional document management alone, they often fail to satisfy the needs of space occupiers:\n\n1.  These systems can be complex and difficult to use for those without a background in CAD or BIM, meaning only those with specialized expertise can fully utilize the features and capabilities that add value.\n2.  Implementing and maintaining a CAD or BIM management system can be expensive, requiring significant resources and investment.\n3.  Integrating these systems with existing processes, workflows, and tools is challenging, time-consuming, and often times simply not possible.\n4.  Maintaining a CAD or BIM management system can be resource-intensive, requiring ongoing updates and upgrades to keep it functioning optimally.\n5.  Accessing the floor plans stored in these systems may require specific hardware and software, which drastically limits accessibility.\n6.  These systems are designed for the project team and aren’t designed for the day-to-day reality of space occupiers.\n\nHow Archilogic does it differently\n----------------------------------\n\nArchilogic turns static floor plans into spatial data that’s stored in a database and made available in the cloud.  Our dashboard gives you the tools you need to track and manage information about every element in your portfolio - from buildings to floors to spaces to assets - and easily surface that information when you need it. As information about the space changes, the changes are stored in the database so that they can be analyzed and when necessary, reverted.  We structure and store information about your space with both occupiers and software developers in mind so that it’s as useful and compatible as possible.\n\nWhy Archilogic\n--------------\n\n**There are no documents to manage**\n\nThis makes it easier to access, share, and update information about your space without the hassle of managing digital documents.\n\n**You always get the most recent, up-to-date information**\n\nArchilogic stores information about your space in a database, so as changes occur, they're immediately reflected in the data. This ensures that you always have the most recent, up-to-date information about your space.\n\n**You can still export information in CAD and BIM formats when you need it**\n\nDespite the benefits of storing floor plans in a database, there may be times when you need to export information in CAD or BIM formats. Archilogic still allows you to do this, so you can share or use the information in a format that works best for you.\n\n**You don’t need CAD or BIM expertise to get the information you need**\n\nArchilogic was designed to be user-friendly and accessible, eliminating the need for specialized CAD or BIM expertise. This makes it easier for you to access the information you need about your space, regardless of your technical background.\n\n**You get a user experience built for the needs of a space occupier, not of the project team**\n\nUnlike CAD or BIM management systems that are designed for the project team, Archilogic was built with the needs of occupiers in mind. This means that you get a user experience that is optimized for your needs, making it easier to access, update, and use information about your space.\n\n**You get useful, compatible digital twins that connect to everything**\n\nArchilogic stores information about your space in a format that is compatible with other products and services you're already using. This makes it easier to connect your space information with the tools you need to work efficiently and effectively.\n\n‍\n\n#### What you should do now\n\nWhenever you’re ready, here are 3 ways we can help you take your portfolio of space to the next level:  \n‍\n\n#### 1\\. Schedule a demo\n\nIf you have questions about how Archilogic can be the central management platform for your portfolio of space, click here to schedule time to discuss your needs with one of our experts\n\n[Schedule a demo](https://www.archilogic.com/contact-us)\n\n#### 2\\. Visit our resources section\n\nIf you’d like to learn more about efficiently managing your space portfolio, check out our resources section for more information about how digital twins can help you make informed decisions, create stellar experiences, and optimize your space.\n\n[Visit resources](https://www.archilogic.com/resources)\n\n#### 3\\. Share this article\n\nDo you know an office manager or real estate professional who would find this information useful? Share this with them on LinkedIn, Twitter, or by email.\n\n[](https://www.linkedin.com/company/archilogic-ag/)[](https://www.linkedin.com/company/archilogic-ag/)[](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)\n\nRelated posts\n-------------\n\nLearn more about Archilogic by reading these related articles.\n\n[All blog posts](https://www.archilogic.com/resources?resources=Blogposts)\n\n[Category](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)[### Titre ![Image 87: black arrow](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6336b1b58c45f522aa18d6d7_arrow-up-right.svg)](https://www.archilogic.com/insights/a-guide-to-managing-a-portfolio-of-space#)\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.\n\nType of article\n\nDate\n\n![Image 88: arrow grey](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/633c025112043d3342315bed_arrow-gray.svg)\n\n![Image 89: arrow grey](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/633c025112043d3342315bed_arrow-gray.svg)\n\n[BLOGPOST](https://www.archilogic.com/resources?resources=Blogposts)[### Archilogic launches support for Microsoft Places ![Image 90: black arrow](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6336b1b58c45f522aa18d6d7_arrow-up-right.svg)](https://www.archilogic.com/insights/archilogic-launches-support-for-microsoft-places)\n\nArchilogic, a leader in spatial building data technology, is pleased to announce our participation as a global mapping integrator for Microsoft Places using IMDF files and floor plans.\n\nOctober 24, 2024\n\n[BLOGPOST](https://www.archilogic.com/resources?resources=Blogposts)[### Automating Space Calculation with Custom Rulesets like BOMA ![Image 91: black arrow](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6336b1b58c45f522aa18d6d7_arrow-up-right.svg)](https://www.archilogic.com/insights/automating-space-calculation-boma)\n\nFebruary 1, 2024\n\n[BLOGPOST](https://www.archilogic.com/resources?resources=Blogposts)[### From CAD to BIM to Digital Twins ![Image 92: black arrow](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6336b1b58c45f522aa18d6d7_arrow-up-right.svg)](https://www.archilogic.com/insights/cad-bim-digital-twins)\n\nThe progression from CAD to BIM to Digital Twins marked significant advancements in the architectural and facilities management sectors. However, as industries stand at the cusp of large-scale adoption of Digital Twins, they're encountering inherent limitations in these traditional tools. One of the biggest challenges with these tools is the lack of AI readiness and the ability to integrate seamlessly. CAD and BIM, while transformative in their prime, weren't designed with AI in mind. Archilogic's Digital Twin solution is crafted with an acute awareness of tomorrow's AI-driven world\n\nOctober 25, 2023\n\n[BLOGPOST](https://www.archilogic.com/resources?resources=Blogposts)[### Reimagining Space: How AI and Digital Twins are Transforming the Understanding of Physical Environments ![Image 93: black arrow](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/6336b1b58c45f522aa18d6d7_arrow-up-right.svg)](https://www.archilogic.com/insights/reimagining-space-ai-digital-twins)\n\nAs AI readiness becomes essential, the focus sharpens on efficient space utilization in commercial real estate. With Archilogic's advanced digital twins, unlock new dimensions of spatial intelligence and optimization.\n\nAugust 17, 2023\n\n### Forward-thinking organizations use Archilogic to manage over 40 million sqft across 2,000+ floors every month. Join them.\n\n[Learn more](https://www.archilogic.com/contact-us)\n\n[![Image 94](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbcfa86864f7aa3cae9ea9_Archilogic%20logo.svg)](https://www.archilogic.com/)\n\nDo more with **your space**\n\n![Image 95](https://cdn.prod.website-files.com/65b9e603097eaaf9357ca041/65c124445523bdcc0f515a1d_ISO%20certified.png)\n\n#### Locations\n\nZurich\n\nKanzleistrasse 126  \nZürich, 8004  \nSwitzerland\n\nSan Francisco Bay Area\n\n1212 Broadway Plaza  \nSuite 2100  \nWalnut Creek, CA 94596  \nUnited States\n\n#### Product\n\n[Onboard](https://www.archilogic.com/product/space-onboarding)[Manage](https://www.archilogic.com/product/space-management)[Edit](https://www.archilogic.com/product/space-editing)[Integrations](https://www.archilogic.com/integrations)[Developers](https://www.archilogic.com/developers)\n\n#### Resources\n\n[Showcase](https://www.archilogic.com/resources)[Blog](https://www.archilogic.com/resources?resources=Blog+Posts)[Release](https://www.archilogic.com/resources?resources=Releases)[Support](https://help.archilogic.com/knowledge)[Status](https://archilogic.statuspage.io/)\n\n#### Compay\n\n[Contact](https://www.archilogic.com/contact-us)[About](https://www.archilogic.com/about)[Careers](https://www.archilogic.com/careers)\n\n#### Legal\n\n[Terms of service](https://go.archilogic.com/general-tos)[Privacy](https://www.archilogic.com/legal/privacy-policy)[Cookies](https://www.archilogic.com/legal/cookies)\n\n[![Image 96](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbd0699074a878b425d5e6_SM%20logos%20linkedin.svg)](https://www.linkedin.com/company/archilogic-ag/)[![Image 97](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbd0699074a878b425d5e2_SM%20logos%20twitter.svg)](https://twitter.com/archilogic)[![Image 98](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbd0699074a878b425d5e4_SM%20logos%20instagram.svg)](https://www.instagram.com/archilogic/)[![Image 99](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbd0699074a878b425d5e5_SM%20logos%20facebook.svg)](https://www.facebook.com/archilogic3d)[![Image 100](https://cdn.prod.website-files.com/60b9f6eb7e7da3e6b3ddbefe/65cbd0699074a878b425d5e3_SM%20logos%20youtube.svg)](https://www.youtube.com/c/ArchilogicVideo)\n\nCopyright 2024 Archilogic AG. All Rights Reserved",
+  "usage": {
+    "tokens": 7957
+  }
+}
+```

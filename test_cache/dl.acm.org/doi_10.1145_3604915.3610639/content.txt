@@ -1,0 +1,320 @@
+Published: 14 September 2023 [Publication History](https://dl.acm.org/doi/10.1145/3604915.3610639#core-history)
+
+[](https://dl.acm.org/doi/10.1145/3604915.3610639# "Check for updates on crossmark")
+
+Abstract
+--------
+
+Sequential recommendation problems have received increasing attention in research during the past few years, leading to the inception of a large variety of algorithmic approaches. In this work, we explore how large language models (LLMs), which are nowadays introducing disruptive effects in many AI-based applications, can be used to build or improve sequential recommendation approaches. Specifically, we devise and evaluate three approaches to leverage the power of LLMs in different ways. Our results from experiments on two datasets show that initializing the state-of-the-art sequential recommendation model BERT4Rec with embeddings obtained from an LLM improves NDCG by 15-20% compared to the vanilla BERT4Rec model. Furthermore, we find that a simple approach that leverages LLM embeddings for producing recommendations, can provide competitive performance by highlighting semantically related items. We publicly share the code and data of our experiments to ensure reproducibility.1
+
+References
+----------
+
+\[1\]
+
+Vito Walter Anelli, Alejandro Bellogín, Tommaso Di Noia, Dietmar Jannach, and Claudio Pomo. 2022. Top-N Recommendation Algorithms: A Quest for the State-of-the-Art. In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (Barcelona, Spain) (UMAP ’22). Association for Computing Machinery, 121–131.
+
+\[2\]
+
+Keqin Bao, Jizhi Zhang, Yang Zhang, Wenjie Wang, Fuli Feng, and Xiangnan He. 2023. TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation. arxiv:2305.00447 \[cs.IR\]
+
+\[3\]
+
+James Bergstra, Rémi Bardenet, Yoshua Bengio, and Balázs Kégl. 2011. Algorithms for Hyper-Parameter Optimization. In Advances in Neural Information Processing Systems, Vol. 24\. Curran Associates, Inc.
+
+\[4\]
+
+Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel Ziegler, Jeffrey Wu, Clemens Winter, Chris Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, and Dario Amodei. 2020. Language Models are Few-Shot Learners. In Advances in Neural Information Processing Systems, Vol. 33\. Curran Associates, Inc., 1877–1901.
+
+\[5\]
+
+Kyunghyun Cho, Bart van Merriënboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, and Yoshua Bengio. 2014. Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP). Association for Computational Linguistics, 1724–1734.
+
+\[6\]
+
+Gabriel de Souza Pereira Moreira, Sara Rabhi, Jeong Min Lee, Ronay Ak, and Even Oldridge. 2021. Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation. In Proceedings of the 15th ACM Conference on Recommender Systems(RecSys ’21). Association for Computing Machinery, 143–153.
+
+\[7\]
+
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, NAACL-HLT, Volume 1 (Long and Short Papers). Association for Computational Linguistics, 4171–4186.
+
+\[8\]
+
+Hao Ding, Anoop Deoras, Yuyang (Bernie) Wang, and Hao Wang. 2022. Zero shot recommender systems. In ICLR 2022 Workshop on Deep Generative Models for Highly Structured Data.
+
+\[9\]
+
+Florent Garcin, Christos Dimitrakakis, and Boi Faltings. 2013. Personalized News Recommendation with Context Trees. In Proceedings of the 7th ACM Conference on Recommender Systems(RecSys ’13). Association for Computing Machinery, 105–112.
+
+\[10\]
+
+Mouzhi Ge, Carla Delgado-Battenfeld, and Dietmar Jannach. 2010. Beyond Accuracy: Evaluating Recommender Systems by Coverage and Serendipity. In Proceedings of the Fourth ACM Conference on Recommender Systems(RecSys ’10). Association for Computing Machinery, 257–260.
+
+\[11\]
+
+Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, and Yongfeng Zhang. 2022. Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5). In Proceedings of the 16th ACM Conference on Recommender Systems(RecSys ’22). Association for Computing Machinery, 299–315.
+
+\[12\]
+
+Ruining He and Julian McAuley. 2016. Ups and Downs: Modeling the Visual Evolution of Fashion Trends with One-Class Collaborative Filtering. In Proceedings of the 25th International Conference on World Wide Web(WWW ’16). International World Wide Web Conferences Steering Committee, 507–517.
+
+\[13\]
+
+Stefan Hegselmann, Alejandro Buendia, Hunter Lang, Monica Agrawal, Xiaoyi Jiang, and David Sontag. 2023. TabLLM: Few-shot Classification of Tabular Data with Large Language Models. In Proceedings of The 26th International Conference on Artificial Intelligence and Statistics(Proceedings of Machine Learning Research, Vol. 206). PMLR, 5549–5581.
+
+\[14\]
+
+Balázs Hidasi, Alexandros Karatzoglou, Linas Baltrunas, and Domonkos Tikk. 2016. Session-based Recommendations with Recurrent Neural Networks. In 4th International Conference on Learning Representations, ICLR.
+
+\[15\]
+
+Yupeng Hou, Zhankui He, Julian McAuley, and Wayne Xin Zhao. 2023. Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders. In Proceedings of the ACM Web Conference 2023(WWW ’23). Association for Computing Machinery, 1162–1171.
+
+\[16\]
+
+Yupeng Hou, Shanlei Mu, Wayne Xin Zhao, Yaliang Li, Bolin Ding, and Ji-Rong Wen. 2022. Towards Universal Sequence Representation Learning for Recommender Systems. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(KDD ’22). Association for Computing Machinery, 585–593.
+
+\[17\]
+
+Yupeng Hou, Junjie Zhang, Zihan Lin, Hongyu Lu, Ruobing Xie, Julian McAuley, and Wayne Xin Zhao. 2023. Large Language Models are Zero-Shot Rankers for Recommender Systems. arxiv:2305.08845 \[cs.IR\]
+
+\[18\]
+
+Dietmar Jannach, Lukas Lerche, Iman Kamehkhosh, and Michael Jugovac. 2015. What recommenders recommend: an analysis of recommendation biases and possible countermeasures. User Modeling and User-Adapted Interaction 25, 5 (2015), 427–491.
+
+\[19\]
+
+Dietmar Jannach and Malte Ludewig. 2017. When Recurrent Neural Networks Meet the Neighborhood for Session-Based Recommendation. In Proceedings of the Eleventh ACM Conference on Recommender Systems(RecSys ’17). Association for Computing Machinery, 306–310.
+
+\[20\]
+
+Dietmar Jannach, Bamshad Mobasher, and Shlomo Berkovsky. 2020. Research directions in session-based and sequential recommendation. User Modeling and User-Adapted Interaction 30, 4 (2020), 609–616.
+
+\[21\]
+
+Wang-Cheng Kang and Julian J. McAuley. 2018. Self-Attentive Sequential Recommendation. In Proceedings of the IEEE International Conference on Data Mining(ICDM 2018). 197–206.
+
+\[22\]
+
+Wang-Cheng Kang, Jianmo Ni, Nikhil Mehta, Maheswaran Sathiamoorthy, Lichan Hong, Ed Chi, and Derek Zhiyuan Cheng. 2023. Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction. arxiv:2305.06474 \[cs.IR\]
+
+\[23\]
+
+Siqi Lai, Erli Meng, Fan Zhang, Chenliang Li, Bin Wang, and Aixin Sun. 2022. An Attribute-Driven Mirror Graph Network for Session-based Recommendation. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 1674–1683.
+
+\[24\]
+
+Sara Latifi, Dietmar Jannach, and Andrés Ferraro. 2022. Sequential Recommendation: A Study on Transformers, Nearest Neighbors and Sampled Metrics. Information Sciences 609 (2022), 660 – 678.
+
+\[25\]
+
+Jiacheng Li, Ming Wang, Jin Li, Jinmiao Fu, Xin Shen, Jingbo Shang, and Julian McAuley. 2023. Text Is All You Need: Learning Language Representations for Sequential Recommendation. In KDD ’23: The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
+
+\[26\]
+
+Jinming Li, Wentao Zhang, Tian Wang, Guanglei Xiong, Alan Lu, and Gerard Medioni. 2023. GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation. arxiv:2304.03879 \[cs.IR\]
+
+\[27\]
+
+Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, Ruiming Tang, and Weinan Zhang. 2023. How Can Recommender Systems Benefit from Large Language Models: A Survey. arxiv:2306.05817 \[cs.IR\]
+
+\[28\]
+
+Junling Liu, Chao Liu, Renjie Lv, Kang Zhou, and Yan Zhang. 2023. Is ChatGPT a Good Recommender? A Preliminary Study. arxiv:2304.10149 \[cs.IR\]
+
+\[29\]
+
+Yiding Liu, Weixue Lu, Suqi Cheng, Daiting Shi, Shuaiqiang Wang, Zhicong Cheng, and Dawei Yin. 2021. Pre-trained Language Model for Web-scale Retrieval in Baidu Search. In KDD ’21: The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. ACM, 3365–3375.
+
+\[30\]
+
+Malte Ludewig and Dietmar Jannach. 2018. Evaluation of Session-based Recommendation Algorithms. User-Modeling and User-Adapted Interaction 28, 4–5 (2018), 331–390.
+
+\[31\]
+
+Massimo Quadrana, Paolo Cremonesi, and Dietmar Jannach. 2018. Sequence-Aware Recommender Systems. Comput. Surveys 51, 4 (2018).
+
+\[32\]
+
+Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018. Improving language understanding by generative pre-training.
+
+\[33\]
+
+Paul Resnick, Neophytos Iacovou, Mitesh Suchak, Peter Bergstrom, and John Riedl. 1994. GroupLens: An Open Architecture for Collaborative Filtering of Netnews. In Proceedings of the 1994 ACM Conference on Computer Supported Cooperative Work. 175–186.
+
+\[34\]
+
+Guy Shani, David Heckerman, and Ronen I. Brafman. 2005. An MDP-Based Recommender System. Journal of Machine Learning Research 6, 43 (2005), 1265–1295.
+
+\[35\]
+
+Fei Sun, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, and Peng Jiang. 2019. BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management(CIKM ’19). 1441–1450.
+
+\[36\]
+
+Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, and Guillaume Lample. 2023. LLaMA: Open and Efficient Foundation Language Models. arxiv:2302.13971 \[cs.CL\]
+
+\[37\]
+
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Ł ukasz Kaiser, and Illia Polosukhin. 2017. Attention is All you Need. In Advances in Neural Information Processing Systems, Vol. 30\. Curran Associates, Inc.
+
+\[38\]
+
+Shoujin Wang, Longbing Cao, Yan Wang, Quan Z. Sheng, Mehmet A. Orgun, and Defu Lian. 2021. A Survey on Session-Based Recommender Systems. ACM Comput. Surv. 54, 7 (2021).
+
+\[39\]
+
+Chuhan Wu, Fangzhao Wu, Tao Qi, and Yongfeng Huang. 2021. Empowering News Recommendation with Pre-Trained Language Models. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval(SIGIR ’21). Association for Computing Machinery, 1652–1656.
+
+\[40\]
+
+Likang Wu, Zhi Zheng, Zhaopeng Qiu, Hao Wang, Hongchao Gu, Tingjia Shen, Chuan Qin, Chen Zhu, Hengshu Zhu, Qi Liu, Hui Xiong, and Enhong Chen. 2023. A Survey on Large Language Models for Recommendation. arxiv:2305.19860 \[cs.IR\]
+
+\[41\]
+
+Hao Xu, Bo Yang, Xiangkun Liu, Wenqi Fan, and Qing Li. 2022. Category-aware Multi-relation Heterogeneous Graph Neural Networks for Session-based Recommendation. Knowledge-Based Systems 251 (2022).
+
+\[42\]
+
+Zheng Yuan, Fajie Yuan, Yu Song, Youhua Li, Junchen Fu, Fei Yang, Yunzhu Pan, and Yongxin Ni. 2023. Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited. In SIGIR (To appear).
+
+\[43\]
+
+Qi Zhang, Jingjie Li, Qinglin Jia, Chuyuan Wang, Jieming Zhu, Zhaowei Wang, and Xiuqiang He. 2021. UNBERT: User-News Matching BERT for News Recommendation. In Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, IJCAI-21. International Joint Conferences on Artificial Intelligence Organization, 3356–3362.
+
+\[44\]
+
+Yuhui Zhang, Hao Ding, Zeren Shui, Yifei Ma, James Zou, Anoop Deoras, and Hao Wang. 2021. Language models as recommender systems: Evaluations and limitations. In NeurIPS 2021 Workshop on I (Still) Can’t Believe It’s Not Better.
+
+\[45\]
+
+Tao Zhou, Zoltán Kuscsik, Jian-Guo Liu, Matúš Medo, Joseph Rushton Wakeling, and Yi-Cheng Zhang. 2010. Solving the apparent diversity-accuracy dilemma of recommender systems. Proceedings of the National Academy of Sciences 107, 10 (2010), 4511–4515.
+
+Information & Contributors
+--------------------------
+
+### Information
+
+#### Published In
+
+![Image 30: cover image ACM Conferences](https://dl.acm.org/cms/asset/c62a0a4a-67ca-4d0f-a82d-3b2199595c63/3604915.cover.jpg)
+
+RecSys '23: Proceedings of the 17th ACM Conference on Recommender Systems
+
+September 2023
+
+1406 pages
+
+Copyright © 2023 Owner/Author.
+
+Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for third-party components of this work must be honored. For all other uses, contact the Owner/Author.
+
+#### Publisher
+
+Association for Computing Machinery
+
+New York, NY, United States
+
+#### Publication History
+
+**Published**: 14 September 2023
+
+#### Check for updates
+
+[](https://dl.acm.org/doi/10.1145/3604915.3610639# "Check for updates on crossmark")
+
+#### Author Tags
+
+1.  [Evaluation](https://dl.acm.org/keyword/Evaluation?expand=all)
+2.  [Large Language Models](https://dl.acm.org/keyword/Large+Language+Models?expand=all)
+3.  [Recommender Systems](https://dl.acm.org/keyword/Recommender+Systems?expand=all)
+4.  [Sequential Recommendation](https://dl.acm.org/keyword/Sequential+Recommendation?expand=all)
+
+#### Qualifiers
+
+*   Extended-abstract
+*   Research
+*   Refereed limited
+
+#### Conference
+
+#### Acceptance Rates
+
+Overall Acceptance Rate 254 of 1,295 submissions, 20%
+
+### Contributors
+
+![Image 31](https://dl.acm.org/specs/products/acm/releasedAssets/images/loader-7e60691fbe777356dc81ff6d223a82a6.gif)
+
+#### Other Metrics
+
+Bibliometrics & Citations
+-------------------------
+
+### Bibliometrics
+
+#### Article Metrics
+
+*   [View Citations](https://dl.acm.org/doi/10.1145/3604915.3610639#tab-citations)
+
+*   Downloads (Last 12 months)1,180
+*   Downloads (Last 6 weeks)108
+
+Reflects downloads up to 17 Jan 2025
+
+#### Other Metrics
+
+### Citations
+
+*   Lin JDai XXi YLiu WChen BZhang HLiu YWu CLi XZhu CGuo HYu YTang RZhang W(2025)How Can Recommender Systems Benefit from Large Language Models: A SurveyACM Transactions on Information Systems10.1145/3678004**43**:2(1-47)Online publication date: 18-Jan-2025
+*   Chen MGuo BWang HLi HZhao QLiu JDing YPan YYu Z(2025)The future of cognitive strategy-enhanced persuasive dialogue agents: new perspectives and trendsFrontiers of Computer Science: Selected Publications from Chinese Universities10.1007/s11704-024-40057-x**19**:5Online publication date: 1-May-2025
+*   Chen JWang HShang JChaomurilige (2024)Interpretable Embeddings for Next Point-of-Interest Recommendation via Large Language Model Question–AnsweringMathematics10.3390/math12223592**12**:22(3592)Online publication date: 16-Nov-2024
+*   Zhang CLong GGuo HFang XSong YLiu ZZhou GZhang ZLiu YYang BLarson K(2024)Federated adaptation for foundation model-based recommendationsProceedings of the Thirty-Third International Joint Conference on Artificial Intelligence10.24963/ijcai.2024/603(5453-5461)Online publication date: 3-Aug-2024
+*   Qu ZXie RXiao CKang ZSun X(2024)The Elephant in the Room: Rethinking the Usage of Pre-trained Language Model in Sequential RecommendationProceedings of the 18th ACM Conference on Recommender Systems10.1145/3640457.3688107(53-62)Online publication date: 8-Oct-2024
+*   Wang HLin JLi XChen BZhu CTang RZhang WYu Y(2024)FLIP: Fine-grained Alignment between ID-based Models and Pretrained Language Models for CTR PredictionProceedings of the 18th ACM Conference on Recommender Systems10.1145/3640457.3688106(94-104)Online publication date: 8-Oct-2024
+*   Xi YLiu WLin JCai XZhu HZhu JChen BTang RZhang WYu Y(2024)Towards Open-World Recommendation with Knowledge Augmentation from Large Language ModelsProceedings of the 18th ACM Conference on Recommender Systems10.1145/3640457.3688104(12-22)Online publication date: 8-Oct-2024
+*   Lops PSilletti APolignano MMusto CSemeraro G(2024)Reproducibility of LLM-based Recommender Systems: the Case Study of P5 ParadigmProceedings of the 18th ACM Conference on Recommender Systems10.1145/3640457.3688072(116-125)Online publication date: 8-Oct-2024
+*   Wu JChang CYu THe ZWang JHou YMcAuley JBaeza-Yates RBonchi F(2024)CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail RecommendationProceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining10.1145/3637528.3671901(3391-3401)Online publication date: 25-Aug-2024
+*   Li ZXia LTang JXu YShi LXia LYin DHuang CBaeza-Yates RBonchi F(2024)UrbanGPT: Spatio-Temporal Large Language ModelsProceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining10.1145/3637528.3671578(5351-5362)Online publication date: 25-Aug-2024
+*   Show More Cited By
+
+View Options
+------------
+
+#### Login options
+
+Check if you have access through your login credentials or your institution to get full access on this article.
+
+[Sign in](https://dl.acm.org/action/showLogin?redirectUri=%2Fdoi%2F10.1145%2F3604915.3610639 "Sign in")
+
+#### Full Access
+
+### View options
+
+#### PDF
+
+View or Download as a PDF file.
+
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639 "View PDF")
+
+#### eReader
+
+View online with eReader.
+
+[eReader](https://dl.acm.org/doi/epdf/10.1145/3604915.3610639 "View online with eReader")
+
+#### HTML Format
+
+View this article in HTML Format.
+
+[HTML Format](https://dl.acm.org/doi/fullHtml/10.1145/3604915.3610639 "View this article in HTML Format")
+
+Media
+-----
+
+### Figures
+
+### Other
+
+Tables
+------

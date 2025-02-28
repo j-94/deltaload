@@ -1,0 +1,78 @@
+---
+title: InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models
+description: 
+url: https://lichang-chen.github.io/InstructZero
+timestamp: 2025-01-20T15:43:56.187Z
+domain: lichang-chen.github.io
+path: InstructZero
+---
+
+# InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models
+
+
+
+## Content
+
+Given a few input-output exemplars for the task, InstructZero optimizes the instruction applied to a black-box LLM step by step (three optimization interations shown in the plot) with progressively improving accuracy.
+
+Abstract
+--------
+
+* * *
+
+Large language models(LLMs) are instruction followers, but it can be challenging to find the best instruction for different situations, especially for black-box LLMs on which backpropagation is forbidden. Instead of directly optimizing the discrete instruction, we optimize a low-dimensional soft prompt applied to an open-source LLM to generate the instruction for the black-box LLM. On each iteration of the proposed method, which we call InstructZero, a soft prompt is converted into an instruction using the open-source LLM, which is then submitted to the black-box LLM for zero-shot evaluation, and the performance is sent to Bayesian optimization to produce new soft prompts improving the zero-shot performance. We evaluate InstructZero on different combinations of open-source LLMs and APIs including Vicuna and ChatGPT. Our results show that InstructZero outperforms SOTA auto-instruction methods across a variety of downstream tasks.
+
+**TL;DR:** The first framework to conduct instruction optimization for black-box LLM like ChatGPT, where Black-box API LLM **can only provide textual output**.
+
+Method
+------
+
+* * *
+
+![Image 10](https://lichang-chen.github.io/InstructZero/elements/images/teaser_v2.svg)
+
+**Pipeline of InstructZero.** On each iteration, a soft prompt and a few exemplars of the target task are sent to the open-source LLM for generating an instruction, which then prompts the black-box LLM to produce answers to target-task queries. The score (e.g., accuracy) of the answers and the soft prompt is added as new training data for BO, which updates its posterior about the objective and produces a new soft prompt to explore in the next iteration. Both LLMs are frozen.
+
+![Image 11](https://lichang-chen.github.io/InstructZero/elements/images/method_v1.svg)
+
+**The pipeline of Bayesian optimization (BO) in InstructZero.**
+
+We apply BO with instruction-coupled kernel to optimize the soft prompt. For the details, please checkout our paper.
+
+Results
+-------
+
+* * *
+
+We evaluate InstructZero as a tool to find an instruction that steers a black-box LLM towards a desired downstream behavior on a target task, which also shows the potential of the InstructZero to **optimize a initially bad prompt and finally obtain a good prompt!**
+
+  
+
+![Image 12](https://lichang-chen.github.io/InstructZero/elements/images/main_results.svg)
+
+Zero-shot test accuracy on 32 tasks from BIG-Bench. InstructZero achieves **the best performance on all 32 out of 32 tasks** among the three evaluated approaches.
+
+Future Work
+-----------
+
+* * *
+
+We will evaluate the effectiveness of our algorithm on other black-box LLMs like Claude(Anthropic) and Google(Bard). Since the application of the APIs is still in progress, we will update our webpage and project repo when the are approved! Stay tuned!
+
+![Image 13](https://lichang-chen.github.io/InstructZero/elements/images/more_apis.svg)
+
+### Citation
+
+## Metadata
+
+```json
+{
+  "title": "InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models",
+  "description": "",
+  "url": "https://lichang-chen.github.io/InstructZero",
+  "content": "Given a few input-output exemplars for the task, InstructZero optimizes the instruction applied to a black-box LLM step by step (three optimization interations shown in the plot) with progressively improving accuracy.\n\nAbstract\n--------\n\n* * *\n\nLarge language models(LLMs) are instruction followers, but it can be challenging to find the best instruction for different situations, especially for black-box LLMs on which backpropagation is forbidden. Instead of directly optimizing the discrete instruction, we optimize a low-dimensional soft prompt applied to an open-source LLM to generate the instruction for the black-box LLM. On each iteration of the proposed method, which we call InstructZero, a soft prompt is converted into an instruction using the open-source LLM, which is then submitted to the black-box LLM for zero-shot evaluation, and the performance is sent to Bayesian optimization to produce new soft prompts improving the zero-shot performance. We evaluate InstructZero on different combinations of open-source LLMs and APIs including Vicuna and ChatGPT. Our results show that InstructZero outperforms SOTA auto-instruction methods across a variety of downstream tasks.\n\n**TL;DR:** The first framework to conduct instruction optimization for black-box LLM like ChatGPT, where Black-box API LLM **can only provide textual output**.\n\nMethod\n------\n\n* * *\n\n![Image 10](https://lichang-chen.github.io/InstructZero/elements/images/teaser_v2.svg)\n\n**Pipeline of InstructZero.** On each iteration, a soft prompt and a few exemplars of the target task are sent to the open-source LLM for generating an instruction, which then prompts the black-box LLM to produce answers to target-task queries. The score (e.g., accuracy) of the answers and the soft prompt is added as new training data for BO, which updates its posterior about the objective and produces a new soft prompt to explore in the next iteration. Both LLMs are frozen.\n\n![Image 11](https://lichang-chen.github.io/InstructZero/elements/images/method_v1.svg)\n\n**The pipeline of Bayesian optimization (BO) in InstructZero.**\n\nWe apply BO with instruction-coupled kernel to optimize the soft prompt. For the details, please checkout our paper.\n\nResults\n-------\n\n* * *\n\nWe evaluate InstructZero as a tool to find an instruction that steers a black-box LLM towards a desired downstream behavior on a target task, which also shows the potential of the InstructZero to **optimize a initially bad prompt and finally obtain a good prompt!**\n\n  \n\n![Image 12](https://lichang-chen.github.io/InstructZero/elements/images/main_results.svg)\n\nZero-shot test accuracy on 32 tasks from BIG-Bench. InstructZero achieves **the best performance on all 32 out of 32 tasks** among the three evaluated approaches.\n\nFuture Work\n-----------\n\n* * *\n\nWe will evaluate the effectiveness of our algorithm on other black-box LLMs like Claude(Anthropic) and Google(Bard). Since the application of the APIs is still in progress, we will update our webpage and project repo when the are approved! Stay tuned!\n\n![Image 13](https://lichang-chen.github.io/InstructZero/elements/images/more_apis.svg)\n\n### Citation",
+  "usage": {
+    "tokens": 680
+  }
+}
+```

@@ -1,0 +1,4 @@
+Login to Bolt
+-------------
+
+By using Bolt, you agree to the collection of usage data for analytics.

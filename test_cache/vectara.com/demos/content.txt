@@ -1,0 +1,169 @@
+Demo applications
+===============
+
+[![Image 13](https://vectara.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F8eca2c7da3a591ba57eaa4a1ff9d3afd.svg&w=256&q=75)Vectara](https://vectara.com/)
+
+*   Platform
+*   For developers
+*   For business
+*   Resources
+*   [Pricing](https://vectara.com/pricing)
+
+[Log in](https://console.vectara.com/login)[Get started](https://console.vectara.com/signup)
+
+Demo applications
+=================
+
+Experience Vectara through demo applications - search here for applications using question-answering, chatbots, Agentic RAG and more.
+
+![Image 14](https://vectara.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp0pvmro2%2Fproduction%2F2d79b1355817935b6741439fad1257a35e114530-68x68.svg%3Fw%3D68%26h%3D68%26q%3D90%26fit%3Dcrop%26auto%3Dformat&w=96&q=100)
+
+![Image 15](https://vectara.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb1c4672b3a5536b8a3fbe76dd0569804.svg&w=3840&q=75)
+
+Before you go...
+
+Connect with  
+our Community!
+-----------------------------
+
+*   [Join us on Discord](https://discord.com/invite/GFb8gMz6UH)![Image 16](https://vectara.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp0pvmro2%2Fproduction%2F128fd810a9ef48650b9a9aab6ceadd9a16b7f4c4-36x36.svg%3Ffit%3Dmax%26auto%3Dformat&w=96&q=100)
+    
+    ### Discord.
+    
+    Connect our community channel.
+    
+*   [Join us on Github](https://github.com/vectara)![Image 17](https://vectara.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp0pvmro2%2Fproduction%2F2a7d0e2afeda1b4b5241d86999ac6d930ae3fa08-36x36.svg%3Ffit%3Dmax%26auto%3Dformat&w=96&q=100)
+    
+    ### Github.
+    
+    Join our discussion channel.
+    
+*   [Follow us on X / Twitter](https://x.com/vectara)![Image 18](https://vectara.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp0pvmro2%2Fproduction%2F70c5fe11a7bdbaf142e2c8291225aa84c1983003-36x36.svg%3Ffit%3Dmax%26auto%3Dformat&w=96&q=100)
+    
+    ### X / Twitter.
+    
+    Get news, company information.
+    
+*   [Follow us on LinkedIn](https://www.linkedin.com/company/vectara)![Image 19](https://vectara.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp0pvmro2%2Fproduction%2F0fd61d00c61342947e595a6f9a3c826aafd515a6-36x36.svg%3Ffit%3Dmax%26auto%3Dformat&w=96&q=100)
+    
+    ### LinkedIn.
+    
+    Adopt best practices in projects.
+    
+*   [Join us on Discuss](https://discuss.vectara.com/)![Image 20](https://vectara.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp0pvmro2%2Fproduction%2F7ed783324bb91bd315c960f0376526e850847cfc-36x36.svg%3Ffit%3Dmax%26auto%3Dformat&w=96&q=100)
+    
+    ### Discuss.
+    
+    Suggest your own ideas.
+    
+*   [Write us on E-mail](mailto:press@vectara.com)![Image 21](https://vectara.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp0pvmro2%2Fproduction%2Fb6f48875d953122a103664561bdd7e6315e2d697-36x36.svg%3Ffit%3Dmax%26auto%3Dformat&w=96&q=100)
+    
+    ### E-mail.
+    
+    Ask your follow-up questions.
+    
+
+![Image 22](https://vectara.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommunity-bg-illustration.e5f3fccc.png&w=1920&q=75)![Image 23](https://vectara.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcommunity-bg-mobile-illustration.8bf28b5e.png&w=750&q=75)
+
+[![Image 24](https://vectara.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F8eca2c7da3a591ba57eaa4a1ff9d3afd.svg&w=256&q=75)Vectara](https://vectara.com/)
+
+[Log in](https://console.vectara.com/login)[Get started](https://console.vectara.com/signup)
+
+Platform
+
+*   [Our platform](https://vectara.com/business/platform)
+*   [Our models](https://vectara.com/business/platform/models)
+*   [Vectara for retrieval](https://vectara.com/business/platform/vectara-for-retrieval)
+*   [Vectara for generation](https://vectara.com/business/platform/vectara-for-generation)
+*   [Vectara for evaluation](https://vectara.com/business/platform/vectara-for-evaluation)
+
+Company
+
+*   [About](https://vectara.com/company/about-us)
+*   [Newsroom](https://vectara.com/company/newsroom)
+*   [Careers & culture](https://vectara.com/company/careers-and-culture)
+*   [Contact sales](https://vectara.com/contact-us)
+
+Ecosystem
+
+*   [Startups](https://vectara.com/business/ecosystem/startups)
+*   [Partnerships](https://vectara.com/business/ecosystem/partnerships)
+
+For business
+
+Use case
+
+*   [AI assistants](https://vectara.com/business/solutions/use-cases/ai-assistants)
+*   [AI agents](https://vectara.com/business/solutions/use-cases/ai-agents)
+*   [Question answering](https://vectara.com/business/solutions/use-cases/question-answering)
+*   [Semantic app search](https://vectara.com/business/solutions/use-cases/semantic-app-search)
+
+VS. Competitors
+
+*   [Do-it-yourself](https://vectara.com/business/versus/diy)
+*   [Amazon Kendra + Q](https://vectara.com/business/versus/amazon)
+*   [Azure Cognitive Search](https://vectara.com/business/versus/microsoft-azure)
+*   [Google](https://vectara.com/business/versus/google)
+*   [OpenAI](https://vectara.com/business/versus/openai)
+
+Verticals
+
+*   [FinServ](https://vectara.com/business/solutions/verticals/finserv)
+*   [eLearning](https://vectara.com/business/solutions/verticals/e-learning)
+*   [Education](https://vectara.com/business/solutions/verticals/education)
+*   [Legal](https://vectara.com/business/solutions/verticals/legal)
+*   [Healthcare](https://vectara.com/business/solutions/verticals/healthcare)
+*   [Telco](https://vectara.com/business/solutions/verticals/telco)
+*   [Manufacturing](https://vectara.com/business/solutions/verticals/manufacturing)
+
+For developers
+
+Learn
+
+*   [Docs](https://docs.vectara.com/)
+*   [API reference](https://docs.vectara.com/docs/api-reference/rest)
+*   [Getting started](https://docs.vectara.com/docs/quickstart)
+*   [Help center](https://discuss.vectara.com/)
+*   [Hacker guide](https://vectara.com/hacker-guide)
+
+Experience
+
+*   [Demo apps](https://vectara.com/developers/build/demos)
+
+Build
+
+*   [Integrations](https://vectara.com/developers/build/integrations)
+*   [Sample code](https://vectara.com/developers/build/sample-code)
+
+Resources
+
+*   [RAG savings calculator](https://vectara.com/business/resources/rag-savings-calculator)
+*   [Webinars](https://vectara.com/business/resources/webinars)
+*   [Events](https://vectara.com/business/resources/events)
+*   [Videos](https://vectara.com/business/resources/demos-and-videos)
+*   [Executive briefs](https://vectara.com/business/resources/executive-briefs)
+*   [Customer stories](https://vectara.com/business/resources/customer-stories)
+*   [Analyst reports](https://vectara.com/business/resources/analyst-reports)
+*   [Podcasts](https://vectara.com/business/resources/podcasts)
+*   [Glossary of LLM terms](https://vectara.com/glossary-of-llm-terms)
+*   [RAG](https://vectara.com/retrieval-augmented-generation-everything-you-need-to-know)
+*   [FAQ](https://vectara.com/faqs)
+*   [Trust and security](https://vectara.com/legal/security-at-vectara)
+*   [All resources](https://vectara.com/business/resources)
+
+[Blog](https://vectara.com/blog)
+
+[Pricing](https://vectara.com/pricing)
+
+[Platform is healthy](https://status.vectara.com/)
+
+*   [twitter](https://twitter.com/vectara "twitter")
+*   [linkedin](https://www.linkedin.com/company/vectara "linkedin")
+*   [youtube](https://www.youtube.com/channel/UCoP_hcyjJRLQr0CV050bfMg "youtube")
+*   [github](https://github.com/vectara "github")
+*   [discord](https://discord.com/invite/GFb8gMz6UH "discord")
+
+*   [Privacy policy](https://vectara.com/legal/privacy-policy)
+*   [Terms of service](https://vectara.com/legal/terms-of-service)
+
+[Platform is healthy](https://status.vectara.com/)Copyright © 2024. All Rights Reserved.

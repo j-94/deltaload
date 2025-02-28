@@ -1,0 +1,280 @@
+ꓘamerka GUI
+-----------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#%EA%93%98amerka-gui)
+
+Ultimate Internet of Things/Industrial Control Systems reconnaissance tool.
+---------------------------------------------------------------------------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#ultimate-internet-of-thingsindustrial-control-systems-reconnaissance-tool)
+
+[![Image 27: logo](https://camo.githubusercontent.com/92d494641c8d1dbf91d236404a67e3381faed99b6f824c6d954d1b446d02862b/68747470733a2f2f7777772e6f6666656e736976656f73696e742e696f2f636f6e74656e742f696d616765732f323032302f30372f4f6666656e736976654f73696e742d6c6f676f2d5247422d322e706e67)](https://camo.githubusercontent.com/92d494641c8d1dbf91d236404a67e3381faed99b6f824c6d954d1b446d02862b/68747470733a2f2f7777772e6f6666656e736976656f73696e742e696f2f636f6e74656e742f696d616765732f323032302f30372f4f6666656e736976654f73696e742d6c6f676f2d5247422d322e706e67)
+
+### Powered by Shodan - Supported by Binary Edge & WhoisXMLAPI
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#powered-by-shodan---supported-by-binary-edge--whoisxmlapi)
+
+NSA and CISA Recommend Immediate Actions to Reduce Exposure Across Operational Technologies and Control Systems
+---------------------------------------------------------------------------------------------------------------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#nsa-and-cisa-recommend-immediate-actions-to-reduce-exposure-across-operational-technologies-and-control-systems)
+
+> Shodan, Kamerka, are creating a “perfect storm” of
+> 
+> 1.  easy access to unsecured assets,
+>     
+> 2.  use of common, open-source information about devices, and
+>     
+> 3.  an extensive list of exploits deployable via common exploit frameworks (e.g., Metasploit, Core Impact, and Immunity Canvas).
+>     
+
+[https://us-cert.cisa.gov/ncas/alerts/aa20-205a](https://us-cert.cisa.gov/ncas/alerts/aa20-205a)
+
+Usage
+-----
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#usage)
+
+#### 1\. Scan for Internet facing Industrial Control Systems, Medical and Internet of Things devices based on country or coordinates.
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#1-scan-for-internet-facing-industrial-control-systems-medical-and-internet-of-things-devices-based-on-country-or-coordinates)
+
+#### 2\. Gather passive intelligence from WHOISXML, BinaryEdge and Shodan or active by scanning target directly.
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#2-gather-passive-intelligence-from-whoisxml-binaryedge-and-shodan-or-active-by-scanning-target-directly)
+
+#### 3\. Thanks to indicators from devices and google maps, pinpoit device to specific place or facility (hospital, wastewater treatment plant, gas station, university, etc.)
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#3-thanks-to-indicators-from-devices-and-google-maps-pinpoit-device-to-specific-place-or-facility-hospital-wastewater-treatment-plant-gas-station-university-etc)
+
+#### 4\. (Optional, not recommended) 4. Guess/Bruteforce or use default password to gain access to the device. Some exploits are implemented for couple specific IoTs.
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#4-optional-not-recommended-4-guessbruteforce-or-use-default-password-to-gain-access-to-the-device-some-exploits-are-implemented-for-couple-specific-iots)
+
+#### 5\. Report devices in critical infrastructure to your local CERT.
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#5-report-devices-in-critical-infrastructure-to-your-local-cert)
+
+Features
+--------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#features)
+
+*   More than 100 ICS devices
+*   Gallery section shows every gathered screenshot in one place
+*   Interactive Google maps
+*   Google street view support
+*   Possibility to implement own exploits or scanning techiques
+*   Support for NMAP scan in xml format as an input
+*   Find the route and change location of device
+*   Statistics for each search
+*   Search Flick photos nearby your device
+*   Position for vessels is scraped from device directly, rather than IP based
+*   Some devices return hints or location in the response. It's parsed and displayed as an indicator that helps to geolocate device.
+
+Articles
+--------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#articles)
+
+[https://www.offensiveosint.io/hack-the-planet-with-amerka-gui-ultimate-internet-of-things-industrial-control-systems-reconnaissance-tool/](https://www.offensiveosint.io/hack-the-planet-with-amerka-gui-ultimate-internet-of-things-industrial-control-systems-reconnaissance-tool/)
+
+[https://www.offensiveosint.io/offensive-osint-s01e03-intelligence-gathering-on-critical-infrastructure-in-southeast-asia/](https://www.offensiveosint.io/offensive-osint-s01e03-intelligence-gathering-on-critical-infrastructure-in-southeast-asia/)
+
+[https://www.offensiveosint.io/hack-like-its-2077-presenting-amerka-mobile/](https://www.offensiveosint.io/hack-like-its-2077-presenting-amerka-mobile/)
+
+[https://www.zdnet.com/article/kamerka-osint-tool-shows-your-countrys-internet-connected-critical-infrastructure/](https://www.zdnet.com/article/kamerka-osint-tool-shows-your-countrys-internet-connected-critical-infrastructure/)
+
+[https://www.icscybersecurityconference.com/intelligence-gathering-on-u-s-critical-infrastructure/](https://www.icscybersecurityconference.com/intelligence-gathering-on-u-s-critical-infrastructure/)
+
+Installation
+------------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#installation)
+
+### Requirements
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#requirements)
+
+*   beautiful soup
+*   python3
+*   django
+*   pynmea2
+*   celery
+*   redis
+*   Shodan paid account
+*   BinaryEdge (Optional)
+*   WHOISXMLAPI (Optional)
+*   Flickr (Optional)
+*   Google Maps API
+*   Pastebin PRO (Optional)
+*   xmltodict
+*   python-libnmap
+
+**Make sure your API keys are correct and put them in keys.json in main directory.**
+
+### Run
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#run)
+
+```
+git clone https://github.com/woj-ciech/Kamerka-GUI/
+pip3 install -r requirements.txt
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
+```
+
+In a new window (in main directory) run celery worker `celery worker -A kamerka --loglevel=info`
+
+For new version of Celery `celery --app kamerka worker`
+
+In a new window fire up redis `apt-get install redis` `redis-server`
+
+And server should be available on `http://localhost:8000/`
+
+Search
+------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#search)
+
+### Search for Industrial Control Devices in specific country
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#search-for-industrial-control-devices-in-specific-country)
+
+[![Image 28](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/search1.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/search1.png)
+
+*   "All results" checkbox means get all results from Shodan, if it's turned off - only first page (100) results will be downloaded.
+*   "Own database" checkbox does not work but shows that is possible to integrate your own geolocation database.
+
+### Search for Internet of things in specific coordinates
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#search-for-internet-of-things-in-specific-coordinates)
+
+Type your coordinates in format "lat,lon", hardcoded radius is 20km. [![Image 29](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/search2.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/search2.png)
+
+Dashboard
+---------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#dashboard)
+
+[![Image 30](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/dashboard.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/dashboard.png)
+
+Gallery
+-------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#gallery)
+
+[![Image 31](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/gallery.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/gallery.png)
+
+Maps
+----
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#maps)
+
+### City map
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#city-map)
+
+[![Image 32](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/map.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/map.png)
+
+### Industrial Control Systems in Poland - ~2.5k different devices
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#industrial-control-systems-in-poland---25k-different-devices)
+
+[![Image 33](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/map2.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/map2.png)
+
+Statistics
+----------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#statistics)
+
+[![Image 34](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/stats.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/stats.png)
+
+Device map
+----------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#device-map)
+
+[![Image 35](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/device_map.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/device_map.png)
+
+Intel
+-----
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#intel)
+
+[![Image 36](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/intel.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/intel.png)
+
+Geolocate
+---------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#geolocate)
+
+[![Image 37](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/map3.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/map3.png)
+
+Scan & Exploit & Information
+----------------------------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#scan--exploit--information)
+
+[![Image 38](https://github.com/woj-ciech/Kamerka-GUI/raw/master/screens/exploit.png)](https://github.com/woj-ciech/Kamerka-GUI/blob/master/screens/exploit.png)
+
+Full list of supported devices with corresponding queries
+---------------------------------------------------------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#full-list-of-supported-devices-with-corresponding-queries)
+
+[https://github.com/woj-ciech/Kamerka-GUI/blob/master/queries.md](https://github.com/woj-ciech/Kamerka-GUI/blob/master/queries.md)
+
+NMAP Scripts
+------------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#nmap-scripts)
+
+*   atg-info
+*   codesys
+*   cspv4-info
+*   dnp3-info
+*   enip-info
+*   fox-info
+*   modbus-discover
+*   modicon-info
+*   omron-info
+*   pcworx-info
+*   s7-enumerate
+*   s7-info
+
+Exploits
+--------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#exploits)
+
+*   CirCarLife SCADA 4.3.0 - Credential Disclosure
+*   VideoIQ - Remote file disclosure
+*   Grandstream UCM6202 1.0.18.13 - Remote Command Injection
+*   Contec Smart Home 4.15 - Unauthorized Password Reset
+*   Netwave IP Camera - Password Disclosure
+*   Amcrest Cameras 2.520.AC00.18.R - Unauthenticated Audio Streaming
+*   Lutron Quantum 2.0 - 3.2.243 - Information Disclosure
+*   Bosch Security Systems DVR 630/650/670 Series - Multiple Vulnerabilities
+
+Used components
+---------------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#used-components)
+
+*   Joli admin template - [https://github.com/sbilly/joli-admin](https://github.com/sbilly/joli-admin)
+*   Search form - Colorlib Search Form v15
+*   country picker - [https://github.com/mojoaxel/bootstrap-select-country](https://github.com/mojoaxel/bootstrap-select-country)
+*   Multiselect - [https://github.com/varundewan/multiselect/](https://github.com/varundewan/multiselect/)
+*   Arsen Zbidniakov Flat UI Checkbox [https://codepen.io/ARS/pen/aeDHE/](https://codepen.io/ARS/pen/aeDHE/)
+*   icon from icons8.com and icon-icons.com
+*   Nmap Scripts from NMAP Script Engine and Digital Bond repository
+*   Exploits from exploit-db and routersploit
+
+Additional
+----------
+
+[](https://github.com/woj-ciech/Kamerka-GUI?screenshot=true#additional)
+
+*   I'm not responsible for any damage caused by using this tool.

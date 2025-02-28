@@ -1,0 +1,175 @@
+---
+title: Open Source AI APIs Aggregator | Eden AI
+description: Discover the power of Eden AI's Open Source AI APIs Aggregator. Access and integrate diverse AI APIs effortlessly for enhanced applications.
+url: https://www.edenai.co/post/open-source-ai-apis-aggregator-by-eden-ai?ref=hackernoon.com
+timestamp: 2025-01-20T15:49:49.934Z
+domain: www.edenai.co
+path: post_open-source-ai-apis-aggregator-by-eden-ai
+---
+
+# Open Source AI APIs Aggregator | Eden AI
+
+
+Discover the power of Eden AI's Open Source AI APIs Aggregator. Access and integrate diverse AI APIs effortlessly for enhanced applications.
+
+
+## Content
+
+_‍_**_Eden AI_** _is an AI_ **_API aggregator_** _that allows any tech enthusiast to use multiple AI technologies with different providers available on the market without having to set up each API individually. We are proud to announce that Eden AI is now open sourcing the AI API aggregator on his_ **_Github project_**_._
+
+‍
+
+We would love if you could [star our GitHub repo](https://github.com/edenai/edenai-apis)!
+
+‍
+
+**What is Eden AI?**
+--------------------
+
+Eden AI simplifies the use and deployment of AI technologies by providing a unique API connected to the best AI APIs. Eden AI is the future of AI use in business and provides:
+
+*   Centralized and fully monitored billing on Eden AI for all AI APIs
+*   Unified API for all providers: simple and standard to use, quick switch between providers, access to the specific features of each provider
+*   Standardized response format: the JSON output format is the same for all suppliers thanks to Eden AI's standardization work. The response elements are also standardized thanks to Eden AI's powerful matching algorithms.
+*   The best Artificial Intelligence APIs on the market: big cloud providers (Google, AWS, Microsoft, and more specialized engines)
+*   Data protection: Eden AI will not store or use any data. Possibility to filter to use only GDPR engines.
+
+‍
+
+![Image 47: One API for multiple AI APIs ](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/6329c430012402204ba81113_ezgif.com-gif-maker(1).gif)
+
+_One API for multiple AI APIs_
+
+‍
+
+Many different AI technologies are covered by Eden AI: [Text Analysis](https://www.edenai.co/technologies/text) (sentiment analysis, keyword extraction, etc.), [Computer Vision](https://www.edenai.co/technologies/text) (object detection, face detection, etc.), [Machine Translation](https://www.edenai.co/post/best-machine-translation-apis), speech recognition, [Document Parsing](https://www.edenai.co/post/best-document-parsing-apis) (invoice parsing, resume parsing, etc.).
+
+‍
+
+[![Image 48](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/632aca354d9fe95891ccb545_Group%204.svg)](https://app.edenai.run/user/register?referral=open-source-article)
+
+‍
+
+‍
+
+**What is _Eden AI APIs_ Open Source project?**
+-----------------------------------------------
+
+‍
+
+### Nearly 30 different AI providers
+
+_Eden AI APIs_ Open Source package includes the essentials to use AI technologies from different AI providers (ex: Google, Amazon, Clarifai, etc.). The project contains the API integration of nearly 30 different AI providers. All you need is this integration and an API key from the provider’s website to use their technologies. You can find all AI providers’ integrations [here.](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/apis)
+
+![Image 49](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/63750b7ca7f8b741050f551d_image%20(3).png)
+
+‍
+
+### Many AI technologies and features
+
+Besides, _Eden AI APIs_ package provides the standardization of all AI technologies and features covered by Eden AI. This means that you will be able to use any of the providers available for a given feature, and you will get the same input and output structure so that you can switch from one provider to another very easily.
+
+Here is the list of all features available in the package:
+
+*   [Text analysis/NLP](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/text): sentiment analysis, keyword extraction, summarization, text search, question answering, text anonymization, syntax analysis, NER
+*   [Audio](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/audio): Speech-to-text and Text-to-speech
+*   [Machine translation & language detection](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/translation)
+*   [OCR & Document Parsing](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/ocr): raw OCR, OCR for tables, invoice parser, resume parser, receipt parser
+*   [Image Analysis](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/image): object detection, explicit content detection, face detection, logo detection, landmark detection, image anonymization, image search
+*   [Video Analysis](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/video): object tracking, person tracking, face detection, logo detection, label detection, explicit content detection, text recognition
+
+‍
+
+### Example of a feature standardization
+
+Here is a example of a feature standardization. You will find a _feature\_args.py_ where you will have the standard input parameter for the API.
+
+![Image 50](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/637509bdbc175d8287bd181a_image%20(2).png)
+
+You will find:
+
+\- a _feature\_args.py_ file where you will have the standard input parameters for the API
+
+\- a _features\_dataclasses.py_ file with the standard output fields returned by the API
+
+\- a _feature\_response.json_ file with the standard json structure of the API response
+
+‍
+
+**Why open-sourcing Eden AI?**
+------------------------------
+
+We chose to publish the _Eden AI APIs_ package for multiple reasons:
+
+### **Democratization**
+
+We strongly believe in democratizing AI as a Service. Our goal is to provide developers who need AI features to build their projects with better and easier access to them. There are plenty of APIs from many different players, which is why anyone looking to use AI APIs should be able to choose the right engine and have flexibility in their choice.
+
+### **Transparency**
+
+As an agnostic actor in the AI APIs market, we guarantee our users that we’ll always remain neutral towards all AI vendors. Standardizing API responses implies making choices among the multiplicity of elements returned by the different APIs. By publishing the standardization of API input and output for all features, we are embracing those choices and sharing them with the whole community.
+
+### **Opening up to AI providers**
+
+_Eden AI APIs_ package is a way of universalizing the integration of AI APIs providers. We are continuously integrating new providers, but we need to be selective and we do not have the resources to integrate all AI APIs existing on the market. Therefore, providers can now add their own APIs and enhance their existing APIs so that all members from the community can access them as well. Needless to say, our team of experts always reviews pull requests and we only validate strong AI APIs.
+
+### **Listen and work with the AI community**
+
+We strive for a stimulating environment that inspires developers around the world. We are working on building a strong community around _Eden AI APIs_ package_,_ which is why any AI API user can add an API or add a new feature. Our goal is to build the most universal AI hub for everyone in the AI and developer community. If you want to contribute, you can have a look [here](https://github.com/edenai/edenai-apis/blob/master/CONTRIBUTE.md).
+
+‍
+
+We also have a Discord server where the community can discuss and help each other: [https://discord.com/invite/VYwTbMQc8u](https://discord.com/invite/VYwTbMQc8u)
+
+[![Image 51](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/6374f775a7ae39cf93f75b43_Discover%20Eden%20AI%20API%20GitHub.svg)](https://github.com/edenai/edenai-apis)
+
+**What are the differences between the App and the Open Source package?**
+-------------------------------------------------------------------------
+
+Using Eden AI, you won’t have to create accounts or use API keys for every AI APIs provider. Eden AI already has partnerships with those providers allowing our users to access all the AI APIs through a unique API token.
+
+‍
+
+### A user interface
+
+Of course, Eden AI hosts the API endpoints on its servers and provides a user interface with additional features:
+
+*   [Cost management](https://docs.edenai.co/docs/cost-management): monitor all your costs in one place 
+*   Dedicated support from AI experts
+*   Use Eden AI on external platforms ([no-code platforms](https://docs.edenai.co/docs/cost-management), data science platforms)
+
+‍
+
+### Advanced features
+
+Eden AI provides a pay-per-use offer where you only pay for what you use. We also offer another pricing plan involving a monthly subscription. This gives access to advanced features such as:
+
+*   Build advanced AI models with your own dataset
+*   [AI Workflow builder](https://docs.edenai.co/docs/ai-workflow)
+*   Best-fit AI API recommendation
+*   Data labeling tool
+*   Company account (up to 10 users)
+
+![Image 52](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/63750a51bc877e53cdfed2ae_AI%20Workflows%20Eden%20AI.png)
+
+AI Workflow builder on Eden AI platform
+
+‍
+
+If you need more information, you can contact us [here](https://www.edenai.co/contact).
+
+‍
+
+## Metadata
+
+```json
+{
+  "title": "Open Source AI APIs Aggregator | Eden AI",
+  "description": "Discover the power of Eden AI's Open Source AI APIs Aggregator. Access and integrate diverse AI APIs effortlessly for enhanced applications.",
+  "url": "https://www.edenai.co/post/open-source-ai-apis-aggregator-by-eden-ai?ref=hackernoon.com",
+  "content": "_‍_**_Eden AI_** _is an AI_ **_API aggregator_** _that allows any tech enthusiast to use multiple AI technologies with different providers available on the market without having to set up each API individually. We are proud to announce that Eden AI is now open sourcing the AI API aggregator on his_ **_Github project_**_._\n\n‍\n\nWe would love if you could [star our GitHub repo](https://github.com/edenai/edenai-apis)!\n\n‍\n\n**What is Eden AI?**\n--------------------\n\nEden AI simplifies the use and deployment of AI technologies by providing a unique API connected to the best AI APIs. Eden AI is the future of AI use in business and provides:\n\n*   Centralized and fully monitored billing on Eden AI for all AI APIs\n*   Unified API for all providers: simple and standard to use, quick switch between providers, access to the specific features of each provider\n*   Standardized response format: the JSON output format is the same for all suppliers thanks to Eden AI's standardization work. The response elements are also standardized thanks to Eden AI's powerful matching algorithms.\n*   The best Artificial Intelligence APIs on the market: big cloud providers (Google, AWS, Microsoft, and more specialized engines)\n*   Data protection: Eden AI will not store or use any data. Possibility to filter to use only GDPR engines.\n\n‍\n\n![Image 47: One API for multiple AI APIs ](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/6329c430012402204ba81113_ezgif.com-gif-maker(1).gif)\n\n_One API for multiple AI APIs_\n\n‍\n\nMany different AI technologies are covered by Eden AI: [Text Analysis](https://www.edenai.co/technologies/text) (sentiment analysis, keyword extraction, etc.), [Computer Vision](https://www.edenai.co/technologies/text) (object detection, face detection, etc.), [Machine Translation](https://www.edenai.co/post/best-machine-translation-apis), speech recognition, [Document Parsing](https://www.edenai.co/post/best-document-parsing-apis) (invoice parsing, resume parsing, etc.).\n\n‍\n\n[![Image 48](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/632aca354d9fe95891ccb545_Group%204.svg)](https://app.edenai.run/user/register?referral=open-source-article)\n\n‍\n\n‍\n\n**What is _Eden AI APIs_ Open Source project?**\n-----------------------------------------------\n\n‍\n\n### Nearly 30 different AI providers\n\n_Eden AI APIs_ Open Source package includes the essentials to use AI technologies from different AI providers (ex: Google, Amazon, Clarifai, etc.). The project contains the API integration of nearly 30 different AI providers. All you need is this integration and an API key from the provider’s website to use their technologies. You can find all AI providers’ integrations [here.](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/apis)\n\n![Image 49](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/63750b7ca7f8b741050f551d_image%20(3).png)\n\n‍\n\n### Many AI technologies and features\n\nBesides, _Eden AI APIs_ package provides the standardization of all AI technologies and features covered by Eden AI. This means that you will be able to use any of the providers available for a given feature, and you will get the same input and output structure so that you can switch from one provider to another very easily.\n\nHere is the list of all features available in the package:\n\n*   [Text analysis/NLP](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/text): sentiment analysis, keyword extraction, summarization, text search, question answering, text anonymization, syntax analysis, NER\n*   [Audio](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/audio): Speech-to-text and Text-to-speech\n*   [Machine translation & language detection](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/translation)\n*   [OCR & Document Parsing](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/ocr): raw OCR, OCR for tables, invoice parser, resume parser, receipt parser\n*   [Image Analysis](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/image): object detection, explicit content detection, face detection, logo detection, landmark detection, image anonymization, image search\n*   [Video Analysis](https://github.com/edenai/edenai-apis/tree/master/edenai_apis/features/video): object tracking, person tracking, face detection, logo detection, label detection, explicit content detection, text recognition\n\n‍\n\n### Example of a feature standardization\n\nHere is a example of a feature standardization. You will find a _feature\\_args.py_ where you will have the standard input parameter for the API.\n\n![Image 50](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/637509bdbc175d8287bd181a_image%20(2).png)\n\nYou will find:\n\n\\- a _feature\\_args.py_ file where you will have the standard input parameters for the API\n\n\\- a _features\\_dataclasses.py_ file with the standard output fields returned by the API\n\n\\- a _feature\\_response.json_ file with the standard json structure of the API response\n\n‍\n\n**Why open-sourcing Eden AI?**\n------------------------------\n\nWe chose to publish the _Eden AI APIs_ package for multiple reasons:\n\n### **Democratization**\n\nWe strongly believe in democratizing AI as a Service. Our goal is to provide developers who need AI features to build their projects with better and easier access to them. There are plenty of APIs from many different players, which is why anyone looking to use AI APIs should be able to choose the right engine and have flexibility in their choice.\n\n### **Transparency**\n\nAs an agnostic actor in the AI APIs market, we guarantee our users that we’ll always remain neutral towards all AI vendors. Standardizing API responses implies making choices among the multiplicity of elements returned by the different APIs. By publishing the standardization of API input and output for all features, we are embracing those choices and sharing them with the whole community.\n\n### **Opening up to AI providers**\n\n_Eden AI APIs_ package is a way of universalizing the integration of AI APIs providers. We are continuously integrating new providers, but we need to be selective and we do not have the resources to integrate all AI APIs existing on the market. Therefore, providers can now add their own APIs and enhance their existing APIs so that all members from the community can access them as well. Needless to say, our team of experts always reviews pull requests and we only validate strong AI APIs.\n\n### **Listen and work with the AI community**\n\nWe strive for a stimulating environment that inspires developers around the world. We are working on building a strong community around _Eden AI APIs_ package_,_ which is why any AI API user can add an API or add a new feature. Our goal is to build the most universal AI hub for everyone in the AI and developer community. If you want to contribute, you can have a look [here](https://github.com/edenai/edenai-apis/blob/master/CONTRIBUTE.md).\n\n‍\n\nWe also have a Discord server where the community can discuss and help each other: [https://discord.com/invite/VYwTbMQc8u](https://discord.com/invite/VYwTbMQc8u)\n\n[![Image 51](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/6374f775a7ae39cf93f75b43_Discover%20Eden%20AI%20API%20GitHub.svg)](https://github.com/edenai/edenai-apis)\n\n**What are the differences between the App and the Open Source package?**\n-------------------------------------------------------------------------\n\nUsing Eden AI, you won’t have to create accounts or use API keys for every AI APIs provider. Eden AI already has partnerships with those providers allowing our users to access all the AI APIs through a unique API token.\n\n‍\n\n### A user interface\n\nOf course, Eden AI hosts the API endpoints on its servers and provides a user interface with additional features:\n\n*   [Cost management](https://docs.edenai.co/docs/cost-management): monitor all your costs in one place \n*   Dedicated support from AI experts\n*   Use Eden AI on external platforms ([no-code platforms](https://docs.edenai.co/docs/cost-management), data science platforms)\n\n‍\n\n### Advanced features\n\nEden AI provides a pay-per-use offer where you only pay for what you use. We also offer another pricing plan involving a monthly subscription. This gives access to advanced features such as:\n\n*   Build advanced AI models with your own dataset\n*   [AI Workflow builder](https://docs.edenai.co/docs/ai-workflow)\n*   Best-fit AI API recommendation\n*   Data labeling tool\n*   Company account (up to 10 users)\n\n![Image 52](https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/63750a51bc877e53cdfed2ae_AI%20Workflows%20Eden%20AI.png)\n\nAI Workflow builder on Eden AI platform\n\n‍\n\nIf you need more information, you can contact us [here](https://www.edenai.co/contact).\n\n‍",
+  "usage": {
+    "tokens": 2117
+  }
+}
+```

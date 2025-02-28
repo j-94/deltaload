@@ -1,0 +1,1055 @@
+GitHub - odoo/odoo: Odoo. Open Source Apps To Grow Your Business.
+===============
+                                           
+
+[Skip to content](https://github.com/odoo/odoo?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fodoo%2Fodoo%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fodoo%2Fodoo%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=odoo%2Fodoo) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[odoo](https://github.com/odoo) / **[odoo](https://github.com/odoo/odoo)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fodoo%2Fodoo) You must be signed in to change notification settings
+*   [Fork 26k](https://github.com/login?return_to=%2Fodoo%2Fodoo)
+*   [Star 40.1k](https://github.com/login?return_to=%2Fodoo%2Fodoo)
+    
+
+Odoo. Open Source Apps To Grow Your Business.
+
+[www.odoo.com](https://www.odoo.com/ "https://www.odoo.com")
+
+### License
+
+[View license](https://github.com/odoo/odoo/blob/18.0/LICENSE)
+
+[40.1k stars](https://github.com/odoo/odoo/stargazers) [26k forks](https://github.com/odoo/odoo/forks) [Branches](https://github.com/odoo/odoo/branches) [Tags](https://github.com/odoo/odoo/tags) [Activity](https://github.com/odoo/odoo/activity)
+
+[Star](https://github.com/login?return_to=%2Fodoo%2Fodoo)
+
+[Notifications](https://github.com/login?return_to=%2Fodoo%2Fodoo) You must be signed in to change notification settings
+
+*   [Code](https://github.com/odoo/odoo)
+*   [Issues 3k](https://github.com/odoo/odoo/issues)
+*   [Pull requests 4.3k](https://github.com/odoo/odoo/pulls)
+*   [Wiki](https://github.com/odoo/odoo/wiki)
+*   [Security](https://github.com/odoo/odoo/security)
+*   [Insights](https://github.com/odoo/odoo/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/odoo/odoo)
+*   [Issues](https://github.com/odoo/odoo/issues)
+*   [Pull requests](https://github.com/odoo/odoo/pulls)
+*   [Wiki](https://github.com/odoo/odoo/wiki)
+*   [Security](https://github.com/odoo/odoo/security)
+*   [Insights](https://github.com/odoo/odoo/pulse)
+
+odoo/odoo
+=========
+
+  
+
+ 18.0
+
+[**85** Branches](https://github.com/odoo/odoo/branches)[**0** Tags](https://github.com/odoo/odoo/tags)
+
+[](https://github.com/odoo/odoo/branches)[](https://github.com/odoo/odoo/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 24: walidsahli](https://avatars.githubusercontent.com/u/46481707?v=4&size=40)](https://github.com/walidsahli)[walidsahli](https://github.com/odoo/odoo/commits?author=walidsahli)
+
+[\[FIX\] stock: reset final\_barcode template variable](https://github.com/odoo/odoo/commit/c00167a1cf83083971bbe12a7069a4bd0ea62ba0)
+
+Jan 20, 2025
+
+[c00167a](https://github.com/odoo/odoo/commit/c00167a1cf83083971bbe12a7069a4bd0ea62ba0) · Jan 20, 2025
+
+History
+-------
+
+[181,846 Commits](https://github.com/odoo/odoo/commits/18.0/)
+
+[](https://github.com/odoo/odoo/commits/18.0/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/odoo/odoo/tree/18.0/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/odoo/odoo/tree/18.0/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[\[IMP\] github: adapt issue template to 18 release](https://github.com/odoo/odoo/commit/537f66f9ffea1cbcba8ea621dd723cf3ede8d4b8 "[IMP] github: adapt issue template to 18 release
+closes odoo/odoo#182477
+Signed-off-by: Victor Feyens (vfe) <vfe@odoo.com>")
+
+
+
+ | 
+
+Oct 4, 2024
+
+ |
+| 
+
+[.tx](https://github.com/odoo/odoo/tree/18.0/.tx ".tx")
+
+
+
+
+
+
+
+ | 
+
+[.tx](https://github.com/odoo/odoo/tree/18.0/.tx ".tx")
+
+
+
+
+
+
+
+ | 
+
+[\[I18N\] \*: re-export 18.0 pot files](https://github.com/odoo/odoo/commit/8788c523b4a08df84a69eb2014bb151f397d8874 "[I18N] *: re-export 18.0 pot files
+Some were missing, some terms were added after the original pot push
+due to delayed freeze time.
+closes odoo/odoo#181615
+Related: odoo/enterprise#70779
+Signed-off-by: Tiffany Chang (tic) <tic@odoo.com>")
+
+
+
+ | 
+
+Sep 28, 2024
+
+ |
+| 
+
+[addons](https://github.com/odoo/odoo/tree/18.0/addons "addons")
+
+
+
+
+
+
+
+ | 
+
+[addons](https://github.com/odoo/odoo/tree/18.0/addons "addons")
+
+
+
+
+
+
+
+ | 
+
+[\[FIX\] stock: reset final\_barcode template variable](https://github.com/odoo/odoo/commit/c00167a1cf83083971bbe12a7069a4bd0ea62ba0 "[FIX] stock: reset final_barcode template variable
+**Problem**:
+When `lot['lot_record'].product_id.valid_ean` is `False`, the `final_barcode` variable retains the value from the previous iteration. This leads to incorrect concatenation with the current `lot['name']` when `lot['lot_record'].product_id.tracking == 'lot'`.
+**Solution**:
+Reset the `final_barcode` variable at the start of each iteration.
+**Steps to Reproduce**:
+1. Go to Inventory > Settings and enable \"Print GS1 Barcodes for Lots & Serial Numbers\".
+2. Navigate to Inventory > Products > Lots/Serial Numbers.
+3. Select all records and click Print > Lot/Serial Number (ZPL).
+4. Observe that some barcodes incorrectly include the previous barcode as a prefix.
+opw-4437745
+closes odoo/odoo#194154
+X-original-commit: f6cf2838a6e0c2d1ce8589188823d40d218d5a87
+Signed-off-by: William Henrotin (whe) <whe@odoo.com>
+Signed-off-by: Walid Sahli (wasa) <wasa@odoo.com>")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[debian](https://github.com/odoo/odoo/tree/18.0/debian "debian")
+
+
+
+
+
+
+
+ | 
+
+[debian](https://github.com/odoo/odoo/tree/18.0/debian "debian")
+
+
+
+
+
+
+
+ | 
+
+[\[FIX\] packaging: fix lxml.html.clean split](https://github.com/odoo/odoo/commit/59709ca9b445bb293796c46d0076380ec9fba208 "[FIX] packaging: fix lxml.html.clean split
+Since lxml.html.clean was moved to a separate package starting in lxml
+5.2 the odoo Debian package was broken in Ubuntu 24.04.
+A first fix was attempted in 318df32585b. While the package was properly
+built with this fix and was installable, but Odoo failed to start under
+Ubuntu. The bug flew under the radar because the simple test after the
+package build is done with a Docker based on Debian Bookworm.
+In fact, the fix was not taken into account because the python packages
+defined in the debian/control are not really taken into account by
+dh_python3 that tries to compute the python dependencies.
+With this commit, a py3dist-overrides file is used to overrides the
+package mapping between python packages and debian packages. The same
+pipe trick is used as in the previous fix to ensure that the package is
+installable in Ubuntu 24.04 (which provides python3-lxml-html) and in
+Debian Bookworm (which does not provide the python3-lxm-html).
+Finally, the Docker image used for the build and the test is changed to
+use Ubuntu 24.04.
+closes odoo/odoo#181388
+Signed-off-by: Xavier Dollé (xdo) <xdo@odoo.com>")
+
+
+
+ | 
+
+Sep 26, 2024
+
+ |
+| 
+
+[doc/cla](https://github.com/odoo/odoo/tree/18.0/doc/cla "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[doc/cla](https://github.com/odoo/odoo/tree/18.0/doc/cla "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[\[CLA\] added additional resource](https://github.com/odoo/odoo/commit/0b7877791dc94f573bddf83087d8c6d95371c472 "[CLA] added additional resource
+closes odoo/odoo#193642
+X-original-commit: d18ba2408ce45427d83c53972e666dfd1c9918cb
+Signed-off-by: Martin Trigaux (mat) <mat@odoo.com>")
+
+
+
+ | 
+
+Jan 15, 2025
+
+ |
+| 
+
+[odoo](https://github.com/odoo/odoo/tree/18.0/odoo "odoo")
+
+
+
+
+
+
+
+ | 
+
+[odoo](https://github.com/odoo/odoo/tree/18.0/odoo "odoo")
+
+
+
+
+
+
+
+ | 
+
+[\[I18N\] Update translation terms from Transifex](https://github.com/odoo/odoo/commit/6fa9be99f4c47ca81e51e28ed91ac72b6126c806 "[I18N] Update translation terms from Transifex")
+
+
+
+ | 
+
+Jan 19, 2025
+
+ |
+| 
+
+[setup](https://github.com/odoo/odoo/tree/18.0/setup "setup")
+
+
+
+
+
+
+
+ | 
+
+[setup](https://github.com/odoo/odoo/tree/18.0/setup "setup")
+
+
+
+
+
+
+
+ | 
+
+[\[FIX\] packaging: empty windows install path](https://github.com/odoo/odoo/commit/7e119ee8725ed0a0083b29f2bc8e7f1ec897fc3a "[FIX] packaging: empty windows install path
+Introduced in #57155 (commit da29586).
+Steps to reproduce:
+- Install Odoo on a Windows machine
+- The install path defaults to Program Files as expected
+- Uninstall Odoo
+- Try to install Odoo again
+- The install path defaults to the empty string, forcing the user to manually set one
+Expected behaviour:
+- The install path defaults to the previous install path
+task-4104451
+closes odoo/odoo#188866
+X-original-commit: bb45f2617b8366a1624b50b64f7f09ac4a5785c9
+Signed-off-by: Christophe Monniez (moc) <moc@odoo.com>
+Signed-off-by: Max Whale (mawh) <mawh@odoo.com>")
+
+
+
+ | 
+
+Nov 28, 2024
+
+ |
+| 
+
+[.gitignore](https://github.com/odoo/odoo/blob/18.0/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/odoo/odoo/blob/18.0/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[\[IMP\] misc: gitignore windows config file](https://github.com/odoo/odoo/commit/07e530d11db053697ad7cb9df09282729d0d75a9 "[IMP] misc: gitignore windows config file
+On Windows installations there is a odoo.conf file generated
+in the root directory containing a hashed admin password.
+This only happens in Windows installations where the config file
+location is not specified. The code responsible can be found here:
+https://github.com/odoo/odoo/blob/d2ccea9a292c02dc6f4cfdb960d22caa0fd98fd5/odoo/tools/config.py#L414
+closes odoo/odoo#156221
+X-original-commit: 3b30daf3ccd4a97edaddeb0ba15cdaf78fec174d
+Signed-off-by: Christophe Monniez (moc) <moc@odoo.com>
+Signed-off-by: Bram Van Gaal (brvg) <brvg@odoo.com>")
+
+
+
+ | 
+
+Mar 4, 2024
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/odoo/odoo/blob/18.0/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/odoo/odoo/blob/18.0/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[\[FIX\] CONTRIBUTING.md: update template link to V16](https://github.com/odoo/odoo/commit/38542ceac0904f93b2958de6517cf2b8a74641f6 "[FIX] CONTRIBUTING.md: update template link to V16
+Description of the issue/feature this PR addresses:
+Current behavior before PR:
+Desired behavior after PR is merged:
+closes odoo/odoo#103274
+Forward-port-of: odoo/odoo#103207
+Signed-off-by: Antoine Vandevenne (anv) <anv@odoo.com>")
+
+
+
+ | 
+
+Oct 17, 2022
+
+ |
+| 
+
+[COPYRIGHT](https://github.com/odoo/odoo/blob/18.0/COPYRIGHT "COPYRIGHT")
+
+
+
+
+
+
+
+ | 
+
+[COPYRIGHT](https://github.com/odoo/odoo/blob/18.0/COPYRIGHT "COPYRIGHT")
+
+
+
+
+
+
+
+ | 
+
+[\[LEGAL\] Use global LICENSE/COPYRIGHT files, remove boilerplate text](https://github.com/odoo/odoo/commit/0bd454534818941bc3216025ebe3dcac3d78c19d "[LEGAL] Use global LICENSE/COPYRIGHT files, remove boilerplate text
+- Preserved explicit 3rd-party copyright notices
+- Explicit boilerplate should not be necessary - copyright law applies
+automatically in all countries thanks to Berne Convention + WTO rules,
+and a reference to the applicable license is clear enough.")
+
+
+
+ | 
+
+Jun 2, 2015
+
+ |
+| 
+
+[LICENSE](https://github.com/odoo/odoo/blob/18.0/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/odoo/odoo/blob/18.0/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[\[LEGAL\] Switch to LGPLv3 License](https://github.com/odoo/odoo/commit/a3732aef6efe9c106b2dfada39535dd0c664b631 "[LEGAL] Switch to LGPLv3 License
+99% of the contributors have signed the CLA
+The rest of them have been contacted by email
+and are free to either sign the CLA or ask
+for their contributions to be removed from
+Odoo Community Edition.
+See also:
+- https://www.odoo.com/cla
+- https://www.odoo.com/blog/odoo-news-5/post/adapting-our-open-source-license-245")
+
+
+
+ | 
+
+Sep 8, 2015
+
+ |
+| 
+
+[MANIFEST.in](https://github.com/odoo/odoo/blob/18.0/MANIFEST.in "MANIFEST.in")
+
+
+
+
+
+
+
+ | 
+
+[MANIFEST.in](https://github.com/odoo/odoo/blob/18.0/MANIFEST.in "MANIFEST.in")
+
+
+
+
+
+
+
+ | 
+
+[\[FIX\] packaging: include all odoo files in src build](https://github.com/odoo/odoo/commit/11db495938c4263b74089dbcd9ddff7b58533c2d "[FIX] packaging: include all odoo files in src build
+Since this old commit 735924878f8, the files that are packaged are
+chosen by a list of allowed extensions. This list have to be maintained
+each time that a developer adds a new kind of file in a module. This is
+error prone [0] as most developer are not aware of that and it's difficult
+to monitor.
+Moreover, there is no reason to have a different list of installed files
+when one install from the git repo instead of the source package.
+With this commit, all [1] odoo sources files are included in the source
+packaging and the only thing to maintain is a small black-list of file
+extensions like for Python bytecode files and for version control files.
+[0] see commit d33c05b62a9c6 that fix `.json` missing files.
+[1] graft command: https://docs.python.org/3/distutils/commandref.html
+closes odoo/odoo#67025
+X-original-commit: 9c2ce1f12c2bebb4a903058eac10c17ca562fda9
+Signed-off-by: Xavier Dollé (xdo) <xdo@odoo.com>
+Signed-off-by: Christophe Monniez (moc) <moc@odoo.com>")
+
+
+
+ | 
+
+Mar 1, 2021
+
+ |
+| 
+
+[README.md](https://github.com/odoo/odoo/blob/18.0/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/odoo/odoo/blob/18.0/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[\[FIX\] \*: retarget documentation links to master](https://github.com/odoo/odoo/commit/adf70bf9dcb2786e7cd00e3f84e0dc933161bc4b "[FIX] *: retarget documentation links to master
+closes odoo/odoo#84990
+X-original-commit: 39bdf46
+Related: odoo/enterprise#24582
+Signed-off-by: Antoine Vandevenne (anv) <anv@odoo.com>")
+
+
+
+ | 
+
+Feb 21, 2022
+
+ |
+| 
+
+[SECURITY.md](https://github.com/odoo/odoo/blob/18.0/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[SECURITY.md](https://github.com/odoo/odoo/blob/18.0/SECURITY.md "SECURITY.md")
+
+
+
+
+
+
+
+ | 
+
+[\[IMP\] SECURITY.md: deprecate version 15.0 support](https://github.com/odoo/odoo/commit/ab100dca5818a537db9b7071455175a6f74becae "[IMP] SECURITY.md: deprecate version 15.0 support
+closes odoo/odoo#192143
+Signed-off-by: Florian Vranckx (flvr) <flvr@odoo.com>")
+
+
+
+ | 
+
+Jan 2, 2025
+
+ |
+| 
+
+[odoo-bin](https://github.com/odoo/odoo/blob/18.0/odoo-bin "odoo-bin")
+
+
+
+
+
+
+
+ | 
+
+[odoo-bin](https://github.com/odoo/odoo/blob/18.0/odoo-bin "odoo-bin")
+
+
+
+
+
+
+
+ | 
+
+[\[FIX\] namespace packages: move from pkg\_resources-style to pkg\_util](https://github.com/odoo/odoo/commit/8bf06adc8d78c1bff8dc80ce53d6646e3ad22fff "[FIX] namespace packages: move from pkg_resources-style to pkg_util
+Deprecates the previous pkg_resources-style packages. Our use was
+not entirely spec compliant, and it broke with setuptools 31.
+More information in https://github.com/odoo/odoo/pull/15718
+Instead, use the pkgutil-style namespace packages.
+This is spec compliant as long as all other distributions providing
+odoo.addons use PEP 420 namespace packages (i.e. no __init__.py).
+So this mechanism fully works on Python 3 only, but does not break
+anything on Python 2.
+See also:
+https://packaging.python.org/guides/packaging-namespace-packages/#pkgutil-style-namespace-packages
+Closes #19517
+Fixes #15718")
+
+
+
+ | 
+
+Sep 18, 2017
+
+ |
+| 
+
+[requirements.txt](https://github.com/odoo/odoo/blob/18.0/requirements.txt "requirements.txt")
+
+
+
+
+
+
+
+ | 
+
+[requirements.txt](https://github.com/odoo/odoo/blob/18.0/requirements.txt "requirements.txt")
+
+
+
+
+
+
+
+ | 
+
+[\[FIX\] packaging: remove typing\_extensions](https://github.com/odoo/odoo/commit/77aa7e2f8035883aedd511b8901074dd0f23ac6c "[FIX] packaging: remove typing_extensions
+The typing_extensions is for dev only and should not be required to run
+Odoo.
+closes odoo/odoo#184564
+Signed-off-by: Xavier Dollé (xdo) <xdo@odoo.com>")
+
+
+
+ | 
+
+Oct 21, 2024
+
+ |
+| 
+
+[setup.cfg](https://github.com/odoo/odoo/blob/18.0/setup.cfg "setup.cfg")
+
+
+
+
+
+
+
+ | 
+
+[setup.cfg](https://github.com/odoo/odoo/blob/18.0/setup.cfg "setup.cfg")
+
+
+
+
+
+
+
+ | 
+
+[\[FIX\] packaging: set fedora 36 as base for rpm](https://github.com/odoo/odoo/commit/37a8f2794487ae0083e4729ac543d47498ab1aca "[FIX] packaging: set fedora 36 as base for rpm
+Also, as the rpm is not built from the deprecated bdist_rpm anymore, it's
+time to remove useless requires from the `setup.cfg` file.
+On the other hand, the soft requirements in the `setup.py` are now
+synchronized with the hard requirements.
+closes odoo/odoo#102849
+X-original-commit: 20920ae968d6d5d2e51c970e9a2536e55965c53b
+Signed-off-by: Christophe Monniez (moc) <moc@odoo.com>")
+
+
+
+ | 
+
+Oct 10, 2022
+
+ |
+| 
+
+[setup.py](https://github.com/odoo/odoo/blob/18.0/setup.py "setup.py")
+
+
+
+
+
+
+
+ | 
+
+[setup.py](https://github.com/odoo/odoo/blob/18.0/setup.py "setup.py")
+
+
+
+
+
+
+
+ | 
+
+[\[IMP\] core: make packaging optional](https://github.com/odoo/odoo/commit/8dd60cc75a374a4491de0d43910ff512583c0061 "[IMP] core: make packaging optional
+We don't want to add a requirement on packaging since it is not needed
+to run odoo by default. It should be only useful when defining a more
+\"complex\" external dependency (with version or markers)
+Also solve an issue with google auth adding a filter warning
+On google-auth import, setuptools will emit a warning in ubuntu noble
+when importing pkg_resources.
+This was not visible before the previous commits because another import
+of pkg_resources was made before enabling the warnings.
+The pkg_resources import is removed in google-auth >= 1.23.0 but
+the noble version is 1.5.1 (as it was in jammy)
+closes odoo/odoo#181768
+Signed-off-by: Xavier Dollé (xdo) <xdo@odoo.com>")
+
+
+
+ | 
+
+Oct 2, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/odoo/odoo?screenshot=true#)
+*   [License](https://github.com/odoo/odoo?screenshot=true#)
+*   [Security](https://github.com/odoo/odoo?screenshot=true#)
+
+[![Image 25: Build Status](https://camo.githubusercontent.com/1c17b0c47d9791300c858efa93063af6197a344a6922d78c703ada71c9230d4c/68747470733a2f2f72756e626f742e6f646f6f2e636f6d2f72756e626f742f62616467652f666c61742f312f6d61737465722e737667)](https://runbot.odoo.com/runbot) [![Image 26: Tech Doc](https://camo.githubusercontent.com/38a246d244d892088bce47fed4fc5e7e37fc4ef1ef58a5b74334930b20202c6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61737465722d646f63732d3837354137422e7376673f7374796c653d666c617426636f6c6f72413d384638463846)](https://www.odoo.com/documentation/master) [![Image 27: Help](https://camo.githubusercontent.com/bf0142c0fd25e4dece94bdfaff49cd460b1f56ff9793e38988345da98a5b2fbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61737465722d68656c702d3837354137422e7376673f7374796c653d666c617426636f6c6f72413d384638463846)](https://www.odoo.com/forum/help-1) [![Image 28: Nightly Builds](https://camo.githubusercontent.com/533c235241d46d8db61e6528f326a644c9c9928bd1316b1982d9e9f1d0be856b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61737465722d6e696768746c792d3837354137422e7376673f7374796c653d666c617426636f6c6f72413d384638463846)](https://nightly.odoo.com/)
+
+Odoo
+----
+
+[](https://github.com/odoo/odoo?screenshot=true#odoo)
+
+Odoo is a suite of web based open source business apps.
+
+The main Odoo Apps include an [Open Source CRM](https://www.odoo.com/page/crm), [Website Builder](https://www.odoo.com/app/website), [eCommerce](https://www.odoo.com/app/ecommerce), [Warehouse Management](https://www.odoo.com/app/inventory), [Project Management](https://www.odoo.com/app/project), [Billing & Accounting](https://www.odoo.com/app/accounting), [Point of Sale](https://www.odoo.com/app/point-of-sale-shop), [Human Resources](https://www.odoo.com/app/employees), [Marketing](https://www.odoo.com/app/social-marketing), [Manufacturing](https://www.odoo.com/app/manufacturing), [...](https://www.odoo.com/)
+
+Odoo Apps can be used as stand-alone applications, but they also integrate seamlessly so you get a full-featured [Open Source ERP](https://www.odoo.com/) when you install several Apps.
+
+Getting started with Odoo
+-------------------------
+
+[](https://github.com/odoo/odoo?screenshot=true#getting-started-with-odoo)
+
+For a standard installation please follow the [Setup instructions](https://www.odoo.com/documentation/master/administration/install/install.html) from the documentation.
+
+To learn the software, we recommend the [Odoo eLearning](https://www.odoo.com/slides), or [Scale-up](https://www.odoo.com/page/scale-up-business-game), the [business game](https://www.odoo.com/page/scale-up-business-game). Developers can start with [the developer tutorials](https://www.odoo.com/documentation/master/developer/howtos.html)
+
+About
+-----
+
+Odoo. Open Source Apps To Grow Your Business.
+
+[www.odoo.com](https://www.odoo.com/ "https://www.odoo.com")
+
+### Topics
+
+[python](https://github.com/topics/python "Topic: python") [business](https://github.com/topics/business "Topic: business") [erp](https://github.com/topics/erp "Topic: erp") [apps](https://github.com/topics/apps "Topic: apps") [management](https://github.com/topics/management "Topic: management") [odoo](https://github.com/topics/odoo "Topic: odoo") [odoo-apps](https://github.com/topics/odoo-apps "Topic: odoo-apps")
+
+### Resources
+
+[Readme](https://github.com/odoo/odoo?screenshot=true#readme-ov-file)
+
+### License
+
+[View license](https://github.com/odoo/odoo?screenshot=true#License-1-ov-file)
+
+### Security policy
+
+[Security policy](https://github.com/odoo/odoo?screenshot=true#security-ov-file)
+
+[Activity](https://github.com/odoo/odoo/activity)
+
+[Custom properties](https://github.com/odoo/odoo/custom-properties)
+
+### Stars
+
+[**40.1k** stars](https://github.com/odoo/odoo/stargazers)
+
+### Watchers
+
+[**1.5k** watching](https://github.com/odoo/odoo/watchers)
+
+### Forks
+
+[**26k** forks](https://github.com/odoo/odoo/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fodoo%2Fodoo&report=odoo+%28user%29)
+
+[Contributors 2,100](https://github.com/odoo/odoo/graphs/contributors)
+----------------------------------------------------------------------
+
+*   [![Image 29: @tde-banana-odoo](https://avatars.githubusercontent.com/u/7501424?s=64&v=4)](https://github.com/tde-banana-odoo)
+*   [![Image 30: @fpodoo](https://avatars.githubusercontent.com/u/6844179?s=64&v=4)](https://github.com/fpodoo)
+*   [![Image 31: @xmo-odoo](https://avatars.githubusercontent.com/u/7571158?s=64&v=4)](https://github.com/xmo-odoo)
+*   [![Image 32: @KangOl](https://avatars.githubusercontent.com/u/38731?s=64&v=4)](https://github.com/KangOl)
+*   [![Image 33: @odony](https://avatars.githubusercontent.com/u/2039870?s=64&v=4)](https://github.com/odony)
+*   [![Image 34: @mart-e](https://avatars.githubusercontent.com/u/564822?s=64&v=4)](https://github.com/mart-e)
+*   [![Image 35: @Gorash](https://avatars.githubusercontent.com/u/2284563?s=64&v=4)](https://github.com/Gorash)
+*   [![Image 36: @rco-odoo](https://avatars.githubusercontent.com/u/7578141?s=64&v=4)](https://github.com/rco-odoo)
+*   [![Image 37: @amigrave](https://avatars.githubusercontent.com/u/93337?s=64&v=4)](https://github.com/amigrave)
+*   [![Image 38: @nicolas-van](https://avatars.githubusercontent.com/u/791296?s=64&v=4)](https://github.com/nicolas-van)
+*   [![Image 39: @qsm-odoo](https://avatars.githubusercontent.com/u/10338094?s=64&v=4)](https://github.com/qsm-odoo)
+*   [![Image 40: @beledouxdenis](https://avatars.githubusercontent.com/u/5822488?s=64&v=4)](https://github.com/beledouxdenis)
+*   [![Image 41: @nim-odoo](https://avatars.githubusercontent.com/u/11041725?s=64&v=4)](https://github.com/nim-odoo)
+*   [![Image 42: @antonylesuisse](https://avatars.githubusercontent.com/u/641600?s=64&v=4)](https://github.com/antonylesuisse)
+
+[\+ 2,086 contributors](https://github.com/odoo/odoo/graphs/contributors)
+
+Languages
+---------
+
+*   [Python 49.0%](https://github.com/odoo/odoo/search?l=python)
+*   [JavaScript 46.9%](https://github.com/odoo/odoo/search?l=javascript)
+*   [SCSS 2.0%](https://github.com/odoo/odoo/search?l=scss)
+*   [Fluent 1.7%](https://github.com/odoo/odoo/search?l=fluent)
+*   [CSS 0.3%](https://github.com/odoo/odoo/search?l=css)
+*   [HTML 0.1%](https://github.com/odoo/odoo/search?l=html)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

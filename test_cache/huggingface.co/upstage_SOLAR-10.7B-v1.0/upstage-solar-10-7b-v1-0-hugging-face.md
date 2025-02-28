@@ -1,0 +1,136 @@
+---
+title: upstage/SOLAR-10.7B-v1.0 · Hugging Face
+description: We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+url: https://huggingface.co/upstage/SOLAR-10.7B-v1.0
+timestamp: 2025-01-20T15:51:51.595Z
+domain: huggingface.co
+path: upstage_SOLAR-10.7B-v1.0
+---
+
+# upstage/SOLAR-10.7B-v1.0 · Hugging Face
+
+
+We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+
+
+## Content
+
+[![Image 6](https://huggingface.co/upstage/SOLAR-10.7B-Instruct-v1.0/resolve/main/solar-api-banner.png)](https://console.upstage.ai/)
+
+[](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#meet-107b-solar-elevating-performance-with-upstage-depth-up-scaling)**Meet 10.7B Solar: Elevating Performance with Upstage Depth UP Scaling!**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#introduction)**Introduction**
+--------------------------------------------------------------------------------
+
+We introduce SOLAR-10.7B, an advanced large language model (LLM) with 10.7 billion parameters, demonstrating superior performance in various natural language processing (NLP) tasks. It's compact, yet remarkably powerful, and demonstrates unparalleled state-of-the-art performance in models with parameters under 30B.
+
+We present a methodology for scaling LLMs called depth up-scaling (DUS) , which encompasses architectural modifications and continued pretraining. In other words, we integrated Mistral 7B weights into the upscaled layers, and finally, continued pre-training for the entire model.
+
+SOLAR-10.7B has remarkable performance. It outperforms models with up to 30B parameters, even surpassing the recent Mixtral 8X7B model. For detailed information, please refer to the experimental table. Solar 10.7B is an ideal choice for fine-tuning. SOLAR-10.7B offers robustness and adaptability for your fine-tuning needs. Our simple instruction fine-tuning using the SOLAR-10.7B pre-trained model yields significant performance improvements ([SOLAR-10.7B-Instruct-v1.0](https://huggingface.co/upstage/SOLAR-10.7B-Instruct-v1.0)).
+
+For full details of this model please read our [paper](https://arxiv.org/abs/2312.15166).
+
+[](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#evaluation-results)**Evaluation Results**
+--------------------------------------------------------------------------------------------
+
+| Model | H6 | Model Size |
+| --- | --- | --- |
+| **SOLAR-10.7B-Instruct-v1.0** | **74.20** | **~ 11B** |
+| mistralai/Mixtral-8x7B-Instruct-v0.1 | 72.62 | ~ 46.7B |
+| 01-ai/Yi-34B-200K | 70.81 | ~ 34B |
+| 01-ai/Yi-34B | 69.42 | ~ 34B |
+| mistralai/Mixtral-8x7B-v0.1 | 68.42 | ~ 46.7B |
+| meta-llama/Llama-2-70b-hf | 67.87 | ~ 70B |
+| tiiuae/falcon-180B | 67.85 | ~ 180B |
+| **SOLAR-10.7B-v1.0** | **66.04** | **~11B** |
+| mistralai/Mistral-7B-Instruct-v0.2 | 65.71 | ~ 7B |
+| Qwen/Qwen-14B | 65.86 | ~ 14B |
+| 01-ai/Yi-34B-Chat | 65.32 | ~34B |
+| meta-llama/Llama-2-70b-chat-hf | 62.4 | ~ 70B |
+| mistralai/Mistral-7B-v0.1 | 60.97 | ~ 7B |
+| mistralai/Mistral-7B-Instruct-v0.1 | 54.96 | ~ 7B |
+
+[](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#usage-instructions)**Usage Instructions**
+--------------------------------------------------------------------------------------------
+
+This model is pre-trained and is capable of just generating random text. To use it for chatting, you must fine-tune the model first.
+
+### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#version)**Version**
+
+Make sure you have the correct version of the transformers library installed:
+
+```
+pip install transformers==4.35.2
+```
+
+### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#loading-the-model)**Loading the Model**
+
+Use the following Python code to load the model:
+
+```
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+tokenizer = AutoTokenizer.from_pretrained("Upstage/SOLAR-10.7B-v1.0")
+model = AutoModelForCausalLM.from_pretrained(
+    "Upstage/SOLAR-10.7B-v1.0",
+    device_map="auto",
+    torch_dtype=torch.float16,
+)
+```
+
+### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#generating-text)**Generating Text**
+
+To generate text, use the following Python code:
+
+```
+text = "Hi, my name is "
+inputs = tokenizer(text, return_tensors="pt")
+
+outputs = model.generate(**inputs, max_new_tokens=64)
+print(tokenizer.decode(outputs[0], skip_special_tokens=True))
+```
+
+### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#license)**License**
+
+*   [upstage/SOLAR-10.7B-v1.0](https://huggingface.co/upstage/SOLAR-10.7B-v1.0): apache-2.0
+*   [upstage/SOLAR-10.7B-Instruct-v1.0](https://huggingface.co/upstage/SOLAR-10.7B-Instruct-v1.0): cc-by-nc-4.0
+    *   Since some non-commercial datasets such as Alpaca are used for fine-tuning, we release fine-tuned model as cc-by-nc-4.0.
+
+### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#how-to-cite)**How to Cite**
+
+Please cite this model using this format.
+
+```
+@misc{kim2023solar,
+      title={SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling}, 
+      author={Dahyun Kim and Chanjun Park and Sanghoon Kim and Wonsung Lee and Wonho Song and Yunsu Kim and Hyeonwoo Kim and Yungi Kim and Hyeonju Lee and Jihoo Kim and Changbae Ahn and Seonghoon Yang and Sukyung Lee and Hyunbyung Park and Gyoungjin Gim and Mikyoung Cha and Hwalsuk Lee and Sunghun Kim},
+      year={2023},
+      eprint={2312.15166},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#the-upstage-ai-team)**The Upstage AI Team**
+
+Upstage is creating the best LLM and DocAI. Please find more information at [https://upstage.ai](https://upstage.ai/)
+
+### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#contact-us)**Contact Us**
+
+Any questions and suggestions, please use the discussion tab. If you want to contact us directly, drop an email to [contact@upstage.ai](mailto:contact@upstage.ai)
+
+## Metadata
+
+```json
+{
+  "title": "upstage/SOLAR-10.7B-v1.0 · Hugging Face",
+  "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+  "url": "https://huggingface.co/upstage/SOLAR-10.7B-v1.0",
+  "content": "[![Image 6](https://huggingface.co/upstage/SOLAR-10.7B-Instruct-v1.0/resolve/main/solar-api-banner.png)](https://console.upstage.ai/)\n\n[](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#meet-107b-solar-elevating-performance-with-upstage-depth-up-scaling)**Meet 10.7B Solar: Elevating Performance with Upstage Depth UP Scaling!**\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n[](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#introduction)**Introduction**\n--------------------------------------------------------------------------------\n\nWe introduce SOLAR-10.7B, an advanced large language model (LLM) with 10.7 billion parameters, demonstrating superior performance in various natural language processing (NLP) tasks. It's compact, yet remarkably powerful, and demonstrates unparalleled state-of-the-art performance in models with parameters under 30B.\n\nWe present a methodology for scaling LLMs called depth up-scaling (DUS) , which encompasses architectural modifications and continued pretraining. In other words, we integrated Mistral 7B weights into the upscaled layers, and finally, continued pre-training for the entire model.\n\nSOLAR-10.7B has remarkable performance. It outperforms models with up to 30B parameters, even surpassing the recent Mixtral 8X7B model. For detailed information, please refer to the experimental table. Solar 10.7B is an ideal choice for fine-tuning. SOLAR-10.7B offers robustness and adaptability for your fine-tuning needs. Our simple instruction fine-tuning using the SOLAR-10.7B pre-trained model yields significant performance improvements ([SOLAR-10.7B-Instruct-v1.0](https://huggingface.co/upstage/SOLAR-10.7B-Instruct-v1.0)).\n\nFor full details of this model please read our [paper](https://arxiv.org/abs/2312.15166).\n\n[](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#evaluation-results)**Evaluation Results**\n--------------------------------------------------------------------------------------------\n\n| Model | H6 | Model Size |\n| --- | --- | --- |\n| **SOLAR-10.7B-Instruct-v1.0** | **74.20** | **~ 11B** |\n| mistralai/Mixtral-8x7B-Instruct-v0.1 | 72.62 | ~ 46.7B |\n| 01-ai/Yi-34B-200K | 70.81 | ~ 34B |\n| 01-ai/Yi-34B | 69.42 | ~ 34B |\n| mistralai/Mixtral-8x7B-v0.1 | 68.42 | ~ 46.7B |\n| meta-llama/Llama-2-70b-hf | 67.87 | ~ 70B |\n| tiiuae/falcon-180B | 67.85 | ~ 180B |\n| **SOLAR-10.7B-v1.0** | **66.04** | **~11B** |\n| mistralai/Mistral-7B-Instruct-v0.2 | 65.71 | ~ 7B |\n| Qwen/Qwen-14B | 65.86 | ~ 14B |\n| 01-ai/Yi-34B-Chat | 65.32 | ~34B |\n| meta-llama/Llama-2-70b-chat-hf | 62.4 | ~ 70B |\n| mistralai/Mistral-7B-v0.1 | 60.97 | ~ 7B |\n| mistralai/Mistral-7B-Instruct-v0.1 | 54.96 | ~ 7B |\n\n[](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#usage-instructions)**Usage Instructions**\n--------------------------------------------------------------------------------------------\n\nThis model is pre-trained and is capable of just generating random text. To use it for chatting, you must fine-tune the model first.\n\n### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#version)**Version**\n\nMake sure you have the correct version of the transformers library installed:\n\n```\npip install transformers==4.35.2\n```\n\n### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#loading-the-model)**Loading the Model**\n\nUse the following Python code to load the model:\n\n```\nimport torch\nfrom transformers import AutoModelForCausalLM, AutoTokenizer\n\ntokenizer = AutoTokenizer.from_pretrained(\"Upstage/SOLAR-10.7B-v1.0\")\nmodel = AutoModelForCausalLM.from_pretrained(\n    \"Upstage/SOLAR-10.7B-v1.0\",\n    device_map=\"auto\",\n    torch_dtype=torch.float16,\n)\n```\n\n### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#generating-text)**Generating Text**\n\nTo generate text, use the following Python code:\n\n```\ntext = \"Hi, my name is \"\ninputs = tokenizer(text, return_tensors=\"pt\")\n\noutputs = model.generate(**inputs, max_new_tokens=64)\nprint(tokenizer.decode(outputs[0], skip_special_tokens=True))\n```\n\n### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#license)**License**\n\n*   [upstage/SOLAR-10.7B-v1.0](https://huggingface.co/upstage/SOLAR-10.7B-v1.0): apache-2.0\n*   [upstage/SOLAR-10.7B-Instruct-v1.0](https://huggingface.co/upstage/SOLAR-10.7B-Instruct-v1.0): cc-by-nc-4.0\n    *   Since some non-commercial datasets such as Alpaca are used for fine-tuning, we release fine-tuned model as cc-by-nc-4.0.\n\n### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#how-to-cite)**How to Cite**\n\nPlease cite this model using this format.\n\n```\n@misc{kim2023solar,\n      title={SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling}, \n      author={Dahyun Kim and Chanjun Park and Sanghoon Kim and Wonsung Lee and Wonho Song and Yunsu Kim and Hyeonwoo Kim and Yungi Kim and Hyeonju Lee and Jihoo Kim and Changbae Ahn and Seonghoon Yang and Sukyung Lee and Hyunbyung Park and Gyoungjin Gim and Mikyoung Cha and Hwalsuk Lee and Sunghun Kim},\n      year={2023},\n      eprint={2312.15166},\n      archivePrefix={arXiv},\n      primaryClass={cs.CL}\n}\n```\n\n### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#the-upstage-ai-team)**The Upstage AI Team**\n\nUpstage is creating the best LLM and DocAI. Please find more information at [https://upstage.ai](https://upstage.ai/)\n\n### [](https://huggingface.co/upstage/SOLAR-10.7B-v1.0#contact-us)**Contact Us**\n\nAny questions and suggestions, please use the discussion tab. If you want to contact us directly, drop an email to [contact@upstage.ai](mailto:contact@upstage.ai)",
+  "usage": {
+    "tokens": 1671
+  }
+}
+```

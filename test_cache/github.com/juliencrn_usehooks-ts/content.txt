@@ -1,0 +1,873 @@
+Skip to content
+Navigation Menu
+Product
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+juliencrn
+/
+usehooks-ts
+Public
+ Sponsor
+Notifications
+Fork 430
+ Star 6.7k
+Code
+Issues
+24
+Pull requests
+78
+Discussions
+Actions
+Security
+Insights
+juliencrn/usehooks-ts
+ master
+Code
+Folders and files
+Name	Last commit message	Last commit date
+
+Latest commit
+juliencrn
+🔖 Update version
+2066727
+ · 
+History
+776 Commits
+
+
+.changeset
+	
+🔖 Update version
+	
+
+
+.github
+	
+👥 Update contributors list (#582)
+	
+
+
+.vscode
+	
+⬆️ Update dependency cmdk to v1 (#572)
+	
+
+
+apps/www
+	
+🔖 Update version
+	
+
+
+packages
+	
+🔖 Update version
+	
+
+
+scripts
+	
+📝 Docs/make mdn links more visible (#565)
+	
+
+
+turbo/generators
+	
+🚀 V3 (#514)
+	
+
+
+.all-contributorsrc
+	
+👥 Update contributors list (#582)
+	
+
+
+.editorconfig
+	
+Initial commit from gatsby: (https://github.com/Junscuzzy/gatsby-mate…
+	
+
+
+.gitignore
+	
+🚀 V3 (#514)
+	
+
+
+.prettierignore
+	
+🚀 V3 (#514)
+	
+
+
+.prettierrc
+	
+build: Clean up the root config files
+	
+
+
+LICENSE
+	
+Add HeadRoom, BackToTop, edit footer & theme color
+	
+
+
+README.md
+	
+🐛 Little fixes (see comment)
+	
+
+
+package.json
+	
+🧑‍💻 update the minium node version to 18.17.0 for development (#562 by …
+	
+
+
+pnpm-lock.yaml
+	
+⬆️ Update all non-major dependencies (#571)
+	
+
+
+pnpm-workspace.yaml
+	
+chore: fix prettier format
+	
+
+
+renovate.json
+	
+build(renovate): Configure renovate
+	
+
+
+turbo.json
+	
+🚀 V3 (#514)
+	
+
+
+typedoc.json
+	
+🚀 V3 (#514)
+	
+Repository files navigation
+README
+Code of conduct
+MIT license
+
+
+
+usehooks-ts
+React hook library, ready to use, written in Typescript.
+
+
+
+      
+
+
+
+npm i usehooks-ts
+
+
+Created by Julien Caron and maintained with ❤️ by an amazing team of developers.
+
+
+💫 Introduction
+
+useHooks(🔥).ts is a React hooks library, written in Typescript and easy to use. It provides a set of hooks that enables you to build your React applications faster. The hooks are built upon the principles of DRY (Don't Repeat Yourself). There are hooks for most common use cases you might need.
+
+The library is designed to be as minimal as possible. It is fully tree-shakable (using the ESM version), meaning that you only import the hooks you need, and the rest will be removed from your bundle making the cost of using this library negligible. Most hooks are extensively tested and are being used in production environments.
+
+Usage example
+import { useLocalStorage } from 'usehooks-ts'
+
+function Component() {
+  const [value, setValue] = useLocalStorage('my-localStorage-key', 0)
+
+  // ...
+}
+🪝 Available Hooks
+useBoolean — handles boolean state with useful utility functions.
+useClickAnyWhere — handles click events anywhere on the document.
+useCopyToClipboard — copies text to the clipboard using the Clipboard API.
+useCountdown — manages countdown.
+useCounter — manages a counter with increment, decrement, reset, and setCount functionalities.
+useDarkMode — returns the current state of the dark mode.
+useDebounceCallback — creates a debounced version of a callback function.
+useDebounceValue — returns a debounced version of the provided value, along with a function to update it.
+useDocumentTitle — sets the document title.
+useEventCallback — creates a memoized event callback.
+useEventListener — attaches event listeners to DOM elements, the window, or media query lists.
+useHover — tracks whether a DOM element is being hovered over.
+useIntersectionObserver — tracks the intersection of a DOM element with its containing element or the viewport using the Intersection Observer API.
+useInterval — creates an interval that invokes a callback function at a specified delay using the setInterval API.
+useIsClient — determines if the code is running on the client side (in the browser).
+useIsMounted — determines if the component is currently mounted.
+useIsomorphicLayoutEffect — uses either useLayoutEffect or useEffect based on the environment (client-side or server-side).
+useLocalStorage — uses the localStorage API to persist state across page reloads.
+useMap — manages a key-value Map state with setter actions.
+useMediaQuery — tracks the state of a media query using the Match Media API.
+useOnClickOutside — handles clicks outside a specified element.
+useReadLocalStorage — reads a value from localStorage, closely related to useLocalStorage().
+useResizeObserver — observes the size of an element using the ResizeObserver API.
+useScreen — tracks the screen dimensions and properties.
+useScript — dynamically loads scripts and tracking their loading status.
+useScrollLock — A custom hook that locks and unlocks scroll.
+useSessionStorage — uses the sessionStorage API to persist state across page reloads.
+useStep — manages and navigates between steps in a multi-step process.
+useTernaryDarkMode — manages ternary (system, dark, light) dark mode with local storage support.
+useTimeout — handles timeouts in React components using the setTimeout API.
+useToggle — manages a boolean toggle state in React components.
+useUnmount — runs a cleanup function when the component is unmounted.
+useWindowSize — tracks the size of the window.
+💚 Backers
+
+Big thanks go to all our backers! [Become a backer]
+
+
+Sentry	
+KATT	
+Adhi Ravishankar	
+great-work-told-is
+✨ Contributors
+
+Big thanks go to all our contributors! [Become a contributor]
+
+
+Julien
+🖋 💻 🎨 🤔	
+a777med
+💻	
+Nguyen Tien Dat
+💻	
+Elias Cohenca
+🖋	
+João Deroldo
+🐛 💻	
+Nishit
+💻	
+Jon Koops
+💻
+
+LoneRifle
+💻	
+Viktor
+🤔 🐛	
+Bruno Clermont
+💬	
+yoannesbourg
+🤔	
+Strange2x
+🤔	
+Jason Pickens
+🐛	
+Sel-Vin Kuik
+🐛
+
+isaac
+🐛	
+Bruno RZN
+💻 👀	
+Nathan Manceaux-Panot
+💻 👀	
+Dien Vu
+🤔	
+Oleg Kusov
+🤔	
+Matthew Guy
+🤔	
+andrewbihl
+🐛
+
+lancepollard
+🐛	
+Mukul Bansal
+🐛	
+Jean-Luc Mongrain sur la Brosse
+💻 🤔	
+Nic
+🖋	
+Dan Wood
+💻	
+jo wendenbuerger
+🐛	
+Andrew Nosenko
+🐛
+
+CharlieJhonSmith
+💻	
+Sullivan SENECHAL
+🤔 🐛 💻	
+Jason Long
+🐛	
+kxm766
+🐛	
+Quentin
+💻 🤔 🖋	
+Daniel Lazar
+💻 🐛	
+Mark Terrel
+🐛 💻
+
+Andreas Herd
+🐛	
+Sonjoy Datta
+💻	
+Ilya Belsky
+🐛	
+James Barrett
+💻	
+AbbalYouness
+💻	
+didriklind
+💻 ⚠️	
+hexp1989
+💻
+
+Alvaro Serrano
+🖋	
+Egehan Dülger
+💻	
+PabloLION
+🐛 💻	
+David Sanchez
+🐛	
+Ajay Raja
+🐛	
+Andy Merskin
+🤔	
+Avirup Ghosh
+💻 🐛
+
+Sanne Wintrén
+🐛	
+Alessandro
+🐛	
+Andrey Tatarenko
+🐛	
+Anton Rusak
+🐛	
+Mahmood Bagheri
+💻	
+Anver Sadutt
+🖋	
+Bogdan Ailincai
+💻
+
+Simeon Griggs
+🐛	
+Kepro
+🐛	
+Jake Lippert
+🐛	
+Tu Nguyen Anh
+🐛 💻	
+Luke Shiels
+🐛	
+Sergei Kolyago
+🤔	
+Adham Akmal Azmi
+🐛
+
+Alek Kowalczyk
+🐛	
+Sean Callahan
+🐛	
+Joshua Bean
+💻 🐛	
+Tim Zhao
+🐛	
+Patrick
+🐛	
+Bryce Dorn
+💻	
+angusd3v
+💻
+
+Davide Di Simone
+🐛	
+Jack Herrington
+🐛	
+Avi Sharvit
+💻 🐛	
+Nicolae Maties
+🐛	
+Shardul Aeer
+🐛	
+Herlon Aguiar
+🐛	
+Alexis Oney
+🖋
+
+curtvict
+💻	
+Josué Cortina
+🖋	
+Alex / KATT
+💻	
+Mourad EL CADI
+💻 🐛	
+James Hulena
+🐛	
+Matthew Hailwood
+💻 👀	
+Michael Norrie
+🐛
+
+Valentin Politov
+💻	
+Marnus Weststrate
+💻	
+mancuoj
+🖋	
+Chat Sumlin
+💻	
+Owen Haupt
+🐛 🖋	
+ubarbaxor
+💻	
+Michael Mior
+🐛 🖋
+
+Pierre
+💻	
+Harry B
+🐛	
+Valerie
+🐛 💻	
+Steven Vachon
+💻	
+Sean Kirby
+⚠️ 💻	
+Alecsander Farias
+💻	
+Rahul Mishra
+💻 👀 🖋
+
+Bryant Smith
+💻 🐛	
+Rob Hannay
+💻	
+Hooriza
+💻 🐛	
+ShanSenanayake
+💻	
+Philip Ghering
+💻	
+Ladislas Dellinger
+💻	
+Haff
+💻
+
+Lisandro
+💻	
+Amir hossein rezaei
+💻	
+Nicolas Macian
+🐛 💻	
+Nate Forsyth
+💻	
+satelllte
+💻 🐛	
+Federico Panico
+💻	
+William Pei Yuan
+💻
+
+Mihai
+💻 🐛	
+Habib Ogunsola
+🖋	
+Ash Furrow
+💻	
+Daniel Turuș
+💻	
+Rahul Chaudhary
+🖋 🐛	
+Joshua Ojoawo
+🤔 🐛	
+Jack
+💻
+
+Jon Linkens
+💻 🐛	
+Jeongjin Oh
+🐛	
+Tianning Li
+💻	
+Lars Artmann
+🖋	
+KBobovskiy
+💻	
+✨ Kathryn Gonzalez ✨
+🖋	
+Yaroslav Chapelskyi
+🖋
+
+Samuel Van Erps
+👀	
+ojolowoblue
+🖋	
+Andrii Kostenko
+💻	
+Akeem Allen
+💻 🐛	
+trongbinhnguyen
+🖋	
+Aniruddha Sil
+💻	
+박찬혁
+👀
+
+Anish
+💻	
+Hugo Hutri
+🖋	
+Balz Guenat
+💻	
+OtterGeorge
+💻	
+Samay Sagar
+🖋	
+Pedro Lisboa
+🐛	
+Henrique Malheiros
+🐛
+
+Kevin Newman
+💻	
+a503189
+🖋	
+Mourad EL CADI
+💻	
+Pedro Henrique Lopes
+💻	
+Danbi Lee
+💻	
+Connor Jennings
+💻	
+Lucas Gomes
+🐛 💻
+
+Martin Zagora
+💻	
+KvD
+💻	
+Alex
+💻	
+Kacey Cleveland
+👀	
+Avirup Ghosh
+🐛	
+yabbal
+💻	
+Craig Patik
+🐛
+
+Soldeplata Saketos Candela
+💻	
+TENDOUZHI
+🐛	
+Marcin Wachulski
+🐛	
+Salman Fazal
+🐛	
+shrugs
+🐛	
+hyodori
+🐛	
+Eleazar “E” Ramos
+🐛
+
+retnag
+🐛	
+J young Lee
+🐛	
+Filip Weiss
+🐛	
+Marius Gundersen
+🐛	
+Syed Aman Ali
+🐛	
+Axel Ingadi
+🐛	
+AndyP
+🐛
+
+ishanVaghasiya
+🐛	
+Nico Martinucci
+🐛	
+Shiv Bhonde | shivbhonde.eth
+🐛	
+fritzmonkey
+🐛	
+Rodrigo Mesquita
+🐛	
+Moshe Simantov
+🐛	
+Beka
+🐛
+
+Abdallah Alkaser
+🐛 💻	
+Carl Smith
+🐛	
+Orlando Groppo
+🐛	
+Martĳn Saly
+🐛	
+Quinn Shanahan
+🐛	
+Antoine Kingue
+🐛	
+Žan Žlender
+🐛
+
+Sebastian Dominguez
+🐛	
+James Cowan
+🐛	
+Bayram Ali Basgul
+🐛	
+Wyatt Castaneda
+🐛	
+Tim Neville
+🐛	
+Thomas Pigarelli
+🐛	
+James Herdman
+🐛
+
+Grzegorz Pociejewski
+🐛	
+René Verheij
+🐛	
+PatrykKuniczak
+🐛	
+Paolo Božac
+🐛	
+Rein
+🐛	
+FloorianB
+🐛	
+Xuan Hung
+🐛
+
+Monawwar Abdullah
+🐛	
+Haroldo de Oliveira Pinheiro
+🐛	
+Tamjid Ahmed
+🐛	
+jv-lopez
+🐛	
+Callum Macrae
+🐛	
+bywater529
+🐛	
+Kevin He
+🐛
+
+FredericoGauz
+🐛	
+Jonathan "JonLem" Lemos
+🐛	
+Xegulon
+🐛	
+Tom Smedley
+🐛	
+lightbluepoppy
+🐛	
+Derek Oware
+🐛	
+Lance Gliser
+🐛
+
+J. Lewis
+🐛	
+Yair
+🐛	
+Nishchit
+🐛	
+Devofy
+🐛	
+Josh Guyette
+🐛	
+Dora Li
+🐛	
+Kristian Gerardsson
+🐛
+
+James Powell
+🐛	
+Boaz Poolman
+🐛	
+roker15
+🐛	
+Fadhil Ahmad
+🐛	
+Chandler-Zhu
+🐛	
+Nghi Nguyen
+🐛	
+Shravan Sunder
+🐛
+
+Johannes5
+🐛	
+sebahhpeya
+🐛	
+Or Nakash
+🐛	
+Erez Makavy
+🐛	
+Andy Merskin
+🐛	
+ChainAlert Bot
+🐛	
+Taylor Morgan
+🐛
+
+wisdomabioye
+🐛	
+Samuel Quiñones
+🤔	
+Manuel
+💻 🐛	
+Yurii Rybak
+🐛	
+Yury Demin
+🐛 💻	
+Jon Tewksbury
+💻 🐛	
+Novac Denis
+💻 🐛
+
+kyrylo-soulandwolf
+💻 🐛	
+Miguel Isidoro
+💻	
+Yuriy Gromchenko
+💻	
+Jacob Hummer
+🤔	
+Kyrylo Melnychuk
+🖋 💻	
+Luma
+💻	
+Eliya Cohen
+💻
+
+Igor Sukharev
+🐛	
+pookmish
+🤔	
+metav-drimz
+🤔	
+luckrnx09
+💻	
+Hubert Kuczmierczyk
+🤔 👀	
+dandubya
+📖	
+Darwish
+💻
+
+Jonathan Raoult
+🐛 👀
+
+This project follows the all-contributors specification (emoji key). Contributions of any kind welcome!
+
+💞 Donate
+
+If you find this piece of software helpful, please consider a donation. Any amount is greatly appreciated.
+
+   
+
+BTC: bc1qwys40tnd0lxf9lr9l0t6xc63dpxyucj4x4nay0
+
+ETH: 0x36a85155a8300754C56395D5af24553FB18915D6
+
+📝 License
+
+This project is MIT licensed.
+
+About
+
+React hook library, ready to use, written in Typescript.
+
+usehooks-ts.com
+Topics
+react hooks hook typescript reactjs nextjs mdx react-hooks react-hook
+Resources
+ Readme
+License
+ MIT license
+Code of conduct
+ Code of conduct
+ Activity
+Stars
+ 6.7k stars
+Watchers
+ 20 watching
+Forks
+ 430 forks
+Report repository
+
+
+Releases 31
+usehooks-ts@3.1.0
+Latest
++ 30 releases
+
+
+Sponsor this project
+juliencrn Julien
+https://juliencaron.com/donate
+https://www.paypal.com/paypalme/juliencrn
+https://buy.stripe.com/fZefZY8Bv32cg9O3cc
+https://www.buymeacoffee.com/juliencrn
+Learn more about GitHub Sponsors
+
+
+Used by 53.3k
++ 53,289
+
+
+Contributors
+62
++ 48 contributors
+
+
+Languages
+TypeScript
+89.4%
+ 
+JavaScript
+8.4%
+ 
+CSS
+1.7%
+ 
+Handlebars
+0.5%
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information

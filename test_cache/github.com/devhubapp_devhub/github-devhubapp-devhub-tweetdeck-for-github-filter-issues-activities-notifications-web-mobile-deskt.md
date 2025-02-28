@@ -1,0 +1,166 @@
+---
+title: GitHub - devhubapp/devhub: TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+description: TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them - devhubapp/devhub
+url: https://github.com/devhubapp/devhub
+timestamp: 2025-01-20T15:30:24.618Z
+domain: github.com
+path: devhubapp_devhub
+---
+
+# GitHub - devhubapp/devhub: TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+
+
+TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them - devhubapp/devhub
+
+
+## Content
+
+[![Image 37](https://user-images.githubusercontent.com/619186/52172760-33710f00-275d-11e9-9adb-8ea4209e4453.png)](https://user-images.githubusercontent.com/619186/52172760-33710f00-275d-11e9-9adb-8ea4209e4453.png)  
+**DevHub**: GitHub Notifications & Activities on your Desktop  
+[Android](https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_link), [iOS](https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_link), [Web](https://devhubapp.com/) & [Desktop](https://github.com/devhubapp/devhub/releases) with **95%+ code sharing** between them  
+_thanks to React Native + React Native Web_
+
+[![Image 38: Download on the App Store](https://user-images.githubusercontent.com/619186/52173137-d416fd00-2764-11e9-98c1-77607061f188.png)](https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_button) [![Image 39: Get it on Google Play](https://user-images.githubusercontent.com/619186/52173136-d416fd00-2764-11e9-9599-7c098c14bb37.png)](https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_button)
+
+Why
+---
+
+[](https://github.com/devhubapp/devhub?screenshot=true#why)
+
+DevHub is a **mobile and desktop** app to help you **manage GitHub Notifications** and stay on top of **repository activities**. Save **custom searches**, apply **filters** and don't miss anything important.
+
+Screenshots
+-----------
+
+[](https://github.com/devhubapp/devhub?screenshot=true#screenshots)
+
+### Desktop
+
+[](https://github.com/devhubapp/devhub?screenshot=true#desktop)
+
+[![Image 40: DevHub Desktop](https://user-images.githubusercontent.com/619186/65840754-13491e00-e2f3-11e9-9c4b-70c29df181c9.jpg)](https://user-images.githubusercontent.com/619186/65840754-13491e00-e2f3-11e9-9c4b-70c29df181c9.jpg))
+
+#### Menubar
+
+[](https://github.com/devhubapp/devhub?screenshot=true#menubar)
+
+[![Image 41: DevHub Menubar](https://github.com/devhubapp/devhub/raw/master/landing/public/static/screenshots/devhub-desktop-menubar-banner.jpg)](https://github.com/devhubapp/devhub/blob/master/landing/public/static/screenshots/devhub-desktop-menubar-banner.jpg)
+
+### Mobile
+
+[](https://github.com/devhubapp/devhub?screenshot=true#mobile)
+
+[![Image 42: DevHub Mobile - Notifications](https://github.com/devhubapp/devhub/raw/master/landing/public/static/screenshots/iphone-notifications-dark.jpg)](https://github.com/devhubapp/devhub/blob/master/landing/public/static/screenshots/iphone-notifications-dark.jpg) [![Image 43: DevHub Mobile - Notification Filters](https://github.com/devhubapp/devhub/raw/master/landing/public/static/screenshots/iphone-notifications-filters-dark.jpg)](https://github.com/devhubapp/devhub/blob/master/landing/public/static/screenshots/iphone-notifications-filters-dark.jpg) [![Image 44: DevHub Mobile - Repository activity](https://github.com/devhubapp/devhub/raw/master/landing/public/static/screenshots/iphone-events-dark.jpg)](https://github.com/devhubapp/devhub/blob/master/landing/public/static/screenshots/iphone-events-dark.jpg)
+
+Download links
+--------------
+
+[](https://github.com/devhubapp/devhub?screenshot=true#download-links)
+
+*   Web: [devhubapp.com](https://devhubapp.com/)
+*   Android: [Play Store](https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_link)
+*   iOS: [App Store](https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_link)
+*   Desktop:
+    *   [GitHub Releases](https://github.com/devhubapp/devhub/releases) (macOS, Windows, Linux)
+    *   Homebrew (macOS alternative):
+        
+        ```
+          brew tap devhubapp/devhub
+          brew install --cask devhub
+        ```
+        
+
+Features
+--------
+
+[](https://github.com/devhubapp/devhub?screenshot=true#features)
+
+*   **Multi-column layout**: See at a quick glance everything that is going on (like TweetDeck!);
+*   **Filters**: Apply different filters to each column, save your custom searches to make your life easier;
+*   **Inbox Zero**: Mark columns as done and gain peace of mind;
+*   **Notifications manager**: See all the relevant information before opening the notification, like comment content, issue/pull request status, release description, etc.;
+*   **Repository watcher**: Keep up to date with repositories' activities without using the `watch` feature so your notifications don't get cluttered;
+*   **User stalking**: Follow user activities without using the `follow` button; see activities that GitHub doesn't show on your feed, like their issue comments and pushed commits;
+*   **Home/Dashboard**: See yours or other users' home screen (a.k.a. GitHub Dashboard), a great way to discover interesting repositories;
+*   **Save for later**: Save any activity or notification for later, so you don't forget to get back to them;
+*   **Keyboard shortcuts**: Do anything using only the keyboard (press Shift+? in the web or desktop app to see all available shortcuts);
+*   **Theme support**: Choose between 6 light or dark themes; Automatically detect system preference;
+*   **And more!**: Desktop apps, native mobile apps, open source, modern tech stack, ...
+
+### Next features:
+
+[](https://github.com/devhubapp/devhub?screenshot=true#next-features)
+
+*   **Issues/PR management**: Manage all issues and PRs, filter the ones related to you, take actions, etc. ([vote: #110](https://github.com/devhubapp/devhub/issues/110));
+*   **Trending**: New column type to show Trending repositories ([vote: #48](https://github.com/devhubapp/devhub/issues/48));
+*   **Push notifications**: Enable push notifications for your filtered columns on mobile and/or desktop ([vote: #51](https://github.com/devhubapp/devhub/issues/51));
+*   **Drag & Drop**: Allow moving columns using drag&drop ([vote: #42](https://github.com/devhubapp/devhub/issues/42))
+*   **GitHub Enterprise**: Support for self hosted GitHubs on local networks (vote: [#165](https://github.com/devhubapp/devhub/issues/165))
+
+> Which one do you want first? Any other recommendations? Search for [existing feature requests](https://github.com/devhubapp/devhub/issues?q=is%3Aissue+is%3Aopen+label%3A%22feature+request%22+sort%3Areactions-%2B1-desc) and add a 👍 reaction on them, or create a new one. Feel free to ping me (@brunolemos) if you feel it's something important.
+
+Tech Stack
+----------
+
+[](https://github.com/devhubapp/devhub?screenshot=true#tech-stack)
+
+*   [TypeScript](https://github.com/Microsoft/TypeScript)
+*   [Create React App](https://github.com/facebook/create-react-app)
+*   [Yarn Workspaces](https://yarnpkg.com/lang/en/docs/workspaces/) _(Monorepo)_
+*   [React](https://github.com/facebook/react) _(100% [Hooks](https://reactjs.org/docs/hooks-intro.html), zero classes)_
+*   [React Native](https://github.com/facebook/react-native)
+*   [React Native Web](https://github.com/necolas/react-native-web)
+*   [Redux](https://github.com/reduxjs/react-redux)
+*   [Redux Persist](https://github.com/rt2zz/redux-persist)
+*   [Redux Saga](https://github.com/redux-saga/redux-saga/) ([typed-redux-saga](https://github.com/agiledigital/typed-redux-saga))
+*   [Reselect](https://github.com/reduxjs/reselect)
+*   [GraphQL](https://github.com/facebook/graphql)
+*   [Electron](https://github.com/electron/electron)
+
+Running locally & Contributing
+------------------------------
+
+[](https://github.com/devhubapp/devhub?screenshot=true#running-locally--contributing)
+
+See [CONTRIBUTING.md](https://github.com/devhubapp/devhub/blob/master/CONTRIBUTING.md)
+
+Community
+---------
+
+[](https://github.com/devhubapp/devhub?screenshot=true#community)
+
+Author
+------
+
+[](https://github.com/devhubapp/devhub?screenshot=true#author)
+
+Follow me on Instagram: [@brunolemos](https://instagram.com/brunolemos)  
+Follow me on X/Twitter: [@brunolemos](https://x.com/brunolemos)  
+Donate to me: [Patreon](https://www.patreon.com/brunolemos) | [Crypto](https://commerce.coinbase.com/checkout/f314f3d3-2310-43ad-a2d0-c0c6462e792c)  
+Donate to DevHub: [OpenCollective](https://opencollective.com/devhub) | [Crypto](https://commerce.coinbase.com/checkout/49be60bc-5bc0-45a9-9438-a1eabc81fe53)
+
+[![Image 45](https://github.com/brunolemos.png?size=200)](https://x.com/brunolemos)
+
+License
+-------
+
+[](https://github.com/devhubapp/devhub?screenshot=true#license)
+
+Copyright (c) 2019 Bruno Lemos.
+
+This project is provided as is without any warranties. Use at your own risk.  
+By using DevHub you agree with its [privacy](https://github.com/devhubapp/devhub/blob/master/PRIVACY.md) policy and [license](https://github.com/devhubapp/devhub/blob/master/LICENSE.md).
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - devhubapp/devhub: TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them",
+  "description": "TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them - devhubapp/devhub",
+  "url": "https://github.com/devhubapp/devhub?screenshot=true",
+  "content": "[![Image 37](https://user-images.githubusercontent.com/619186/52172760-33710f00-275d-11e9-9adb-8ea4209e4453.png)](https://user-images.githubusercontent.com/619186/52172760-33710f00-275d-11e9-9adb-8ea4209e4453.png)  \n**DevHub**: GitHub Notifications & Activities on your Desktop  \n[Android](https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_link), [iOS](https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_link), [Web](https://devhubapp.com/) & [Desktop](https://github.com/devhubapp/devhub/releases) with **95%+ code sharing** between them  \n_thanks to React Native + React Native Web_\n\n[![Image 38: Download on the App Store](https://user-images.githubusercontent.com/619186/52173137-d416fd00-2764-11e9-98c1-77607061f188.png)](https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_button) [![Image 39: Get it on Google Play](https://user-images.githubusercontent.com/619186/52173136-d416fd00-2764-11e9-9599-7c098c14bb37.png)](https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_button)\n\nWhy\n---\n\n[](https://github.com/devhubapp/devhub?screenshot=true#why)\n\nDevHub is a **mobile and desktop** app to help you **manage GitHub Notifications** and stay on top of **repository activities**. Save **custom searches**, apply **filters** and don't miss anything important.\n\nScreenshots\n-----------\n\n[](https://github.com/devhubapp/devhub?screenshot=true#screenshots)\n\n### Desktop\n\n[](https://github.com/devhubapp/devhub?screenshot=true#desktop)\n\n[![Image 40: DevHub Desktop](https://user-images.githubusercontent.com/619186/65840754-13491e00-e2f3-11e9-9c4b-70c29df181c9.jpg)](https://user-images.githubusercontent.com/619186/65840754-13491e00-e2f3-11e9-9c4b-70c29df181c9.jpg))\n\n#### Menubar\n\n[](https://github.com/devhubapp/devhub?screenshot=true#menubar)\n\n[![Image 41: DevHub Menubar](https://github.com/devhubapp/devhub/raw/master/landing/public/static/screenshots/devhub-desktop-menubar-banner.jpg)](https://github.com/devhubapp/devhub/blob/master/landing/public/static/screenshots/devhub-desktop-menubar-banner.jpg)\n\n### Mobile\n\n[](https://github.com/devhubapp/devhub?screenshot=true#mobile)\n\n[![Image 42: DevHub Mobile - Notifications](https://github.com/devhubapp/devhub/raw/master/landing/public/static/screenshots/iphone-notifications-dark.jpg)](https://github.com/devhubapp/devhub/blob/master/landing/public/static/screenshots/iphone-notifications-dark.jpg) [![Image 43: DevHub Mobile - Notification Filters](https://github.com/devhubapp/devhub/raw/master/landing/public/static/screenshots/iphone-notifications-filters-dark.jpg)](https://github.com/devhubapp/devhub/blob/master/landing/public/static/screenshots/iphone-notifications-filters-dark.jpg) [![Image 44: DevHub Mobile - Repository activity](https://github.com/devhubapp/devhub/raw/master/landing/public/static/screenshots/iphone-events-dark.jpg)](https://github.com/devhubapp/devhub/blob/master/landing/public/static/screenshots/iphone-events-dark.jpg)\n\nDownload links\n--------------\n\n[](https://github.com/devhubapp/devhub?screenshot=true#download-links)\n\n*   Web: [devhubapp.com](https://devhubapp.com/)\n*   Android: [Play Store](https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_link)\n*   iOS: [App Store](https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_link)\n*   Desktop:\n    *   [GitHub Releases](https://github.com/devhubapp/devhub/releases) (macOS, Windows, Linux)\n    *   Homebrew (macOS alternative):\n        \n        ```\n          brew tap devhubapp/devhub\n          brew install --cask devhub\n        ```\n        \n\nFeatures\n--------\n\n[](https://github.com/devhubapp/devhub?screenshot=true#features)\n\n*   **Multi-column layout**: See at a quick glance everything that is going on (like TweetDeck!);\n*   **Filters**: Apply different filters to each column, save your custom searches to make your life easier;\n*   **Inbox Zero**: Mark columns as done and gain peace of mind;\n*   **Notifications manager**: See all the relevant information before opening the notification, like comment content, issue/pull request status, release description, etc.;\n*   **Repository watcher**: Keep up to date with repositories' activities without using the `watch` feature so your notifications don't get cluttered;\n*   **User stalking**: Follow user activities without using the `follow` button; see activities that GitHub doesn't show on your feed, like their issue comments and pushed commits;\n*   **Home/Dashboard**: See yours or other users' home screen (a.k.a. GitHub Dashboard), a great way to discover interesting repositories;\n*   **Save for later**: Save any activity or notification for later, so you don't forget to get back to them;\n*   **Keyboard shortcuts**: Do anything using only the keyboard (press Shift+? in the web or desktop app to see all available shortcuts);\n*   **Theme support**: Choose between 6 light or dark themes; Automatically detect system preference;\n*   **And more!**: Desktop apps, native mobile apps, open source, modern tech stack, ...\n\n### Next features:\n\n[](https://github.com/devhubapp/devhub?screenshot=true#next-features)\n\n*   **Issues/PR management**: Manage all issues and PRs, filter the ones related to you, take actions, etc. ([vote: #110](https://github.com/devhubapp/devhub/issues/110));\n*   **Trending**: New column type to show Trending repositories ([vote: #48](https://github.com/devhubapp/devhub/issues/48));\n*   **Push notifications**: Enable push notifications for your filtered columns on mobile and/or desktop ([vote: #51](https://github.com/devhubapp/devhub/issues/51));\n*   **Drag & Drop**: Allow moving columns using drag&drop ([vote: #42](https://github.com/devhubapp/devhub/issues/42))\n*   **GitHub Enterprise**: Support for self hosted GitHubs on local networks (vote: [#165](https://github.com/devhubapp/devhub/issues/165))\n\n> Which one do you want first? Any other recommendations? Search for [existing feature requests](https://github.com/devhubapp/devhub/issues?q=is%3Aissue+is%3Aopen+label%3A%22feature+request%22+sort%3Areactions-%2B1-desc) and add a 👍 reaction on them, or create a new one. Feel free to ping me (@brunolemos) if you feel it's something important.\n\nTech Stack\n----------\n\n[](https://github.com/devhubapp/devhub?screenshot=true#tech-stack)\n\n*   [TypeScript](https://github.com/Microsoft/TypeScript)\n*   [Create React App](https://github.com/facebook/create-react-app)\n*   [Yarn Workspaces](https://yarnpkg.com/lang/en/docs/workspaces/) _(Monorepo)_\n*   [React](https://github.com/facebook/react) _(100% [Hooks](https://reactjs.org/docs/hooks-intro.html), zero classes)_\n*   [React Native](https://github.com/facebook/react-native)\n*   [React Native Web](https://github.com/necolas/react-native-web)\n*   [Redux](https://github.com/reduxjs/react-redux)\n*   [Redux Persist](https://github.com/rt2zz/redux-persist)\n*   [Redux Saga](https://github.com/redux-saga/redux-saga/) ([typed-redux-saga](https://github.com/agiledigital/typed-redux-saga))\n*   [Reselect](https://github.com/reduxjs/reselect)\n*   [GraphQL](https://github.com/facebook/graphql)\n*   [Electron](https://github.com/electron/electron)\n\nRunning locally & Contributing\n------------------------------\n\n[](https://github.com/devhubapp/devhub?screenshot=true#running-locally--contributing)\n\nSee [CONTRIBUTING.md](https://github.com/devhubapp/devhub/blob/master/CONTRIBUTING.md)\n\nCommunity\n---------\n\n[](https://github.com/devhubapp/devhub?screenshot=true#community)\n\nAuthor\n------\n\n[](https://github.com/devhubapp/devhub?screenshot=true#author)\n\nFollow me on Instagram: [@brunolemos](https://instagram.com/brunolemos)  \nFollow me on X/Twitter: [@brunolemos](https://x.com/brunolemos)  \nDonate to me: [Patreon](https://www.patreon.com/brunolemos) | [Crypto](https://commerce.coinbase.com/checkout/f314f3d3-2310-43ad-a2d0-c0c6462e792c)  \nDonate to DevHub: [OpenCollective](https://opencollective.com/devhub) | [Crypto](https://commerce.coinbase.com/checkout/49be60bc-5bc0-45a9-9438-a1eabc81fe53)\n\n[![Image 45](https://github.com/brunolemos.png?size=200)](https://x.com/brunolemos)\n\nLicense\n-------\n\n[](https://github.com/devhubapp/devhub?screenshot=true#license)\n\nCopyright (c) 2019 Bruno Lemos.\n\nThis project is provided as is without any warranties. Use at your own risk.  \nBy using DevHub you agree with its [privacy](https://github.com/devhubapp/devhub/blob/master/PRIVACY.md) policy and [license](https://github.com/devhubapp/devhub/blob/master/LICENSE.md).",
+  "usage": {
+    "tokens": 2256
+  }
+}
+```

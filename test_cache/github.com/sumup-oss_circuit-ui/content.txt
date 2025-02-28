@@ -1,0 +1,1535 @@
+GitHub - sumup-oss/circuit-ui: SumUp's design system for the web
+===============
+                                           
+
+[Skip to content](https://github.com/sumup-oss/circuit-ui?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsumup-oss%2Fcircuit-ui%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsumup-oss%2Fcircuit-ui%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=sumup-oss%2Fcircuit-ui) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[sumup-oss](https://github.com/sumup-oss) / **[circuit-ui](https://github.com/sumup-oss/circuit-ui)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fsumup-oss%2Fcircuit-ui) You must be signed in to change notification settings
+*   [Fork 127](https://github.com/login?return_to=%2Fsumup-oss%2Fcircuit-ui)
+*   [Star 927](https://github.com/login?return_to=%2Fsumup-oss%2Fcircuit-ui)
+    
+
+SumUp's design system for the web
+
+[circuit.sumup.com](https://circuit.sumup.com/ "https://circuit.sumup.com")
+
+### License
+
+[Apache-2.0 license](https://github.com/sumup-oss/circuit-ui/blob/main/LICENSE)
+
+[927 stars](https://github.com/sumup-oss/circuit-ui/stargazers) [127 forks](https://github.com/sumup-oss/circuit-ui/forks) [Branches](https://github.com/sumup-oss/circuit-ui/branches) [Tags](https://github.com/sumup-oss/circuit-ui/tags) [Activity](https://github.com/sumup-oss/circuit-ui/activity)
+
+[Star](https://github.com/login?return_to=%2Fsumup-oss%2Fcircuit-ui)
+
+[Notifications](https://github.com/login?return_to=%2Fsumup-oss%2Fcircuit-ui) You must be signed in to change notification settings
+
+*   [Code](https://github.com/sumup-oss/circuit-ui)
+*   [Issues 3](https://github.com/sumup-oss/circuit-ui/issues)
+*   [Pull requests 11](https://github.com/sumup-oss/circuit-ui/pulls)
+*   [Actions](https://github.com/sumup-oss/circuit-ui/actions)
+*   [Security](https://github.com/sumup-oss/circuit-ui/security)
+*   [Insights](https://github.com/sumup-oss/circuit-ui/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/sumup-oss/circuit-ui)
+*   [Issues](https://github.com/sumup-oss/circuit-ui/issues)
+*   [Pull requests](https://github.com/sumup-oss/circuit-ui/pulls)
+*   [Actions](https://github.com/sumup-oss/circuit-ui/actions)
+*   [Security](https://github.com/sumup-oss/circuit-ui/security)
+*   [Insights](https://github.com/sumup-oss/circuit-ui/pulse)
+
+sumup-oss/circuit-ui
+====================
+
+  
+
+ main
+
+[**41** Branches](https://github.com/sumup-oss/circuit-ui/branches)[**688** Tags](https://github.com/sumup-oss/circuit-ui/tags)
+
+[](https://github.com/sumup-oss/circuit-ui/branches)[](https://github.com/sumup-oss/circuit-ui/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 25: connor-baer](https://avatars.githubusercontent.com/u/11017722?v=4&size=40)](https://github.com/connor-baer)[connor-baer](https://github.com/sumup-oss/circuit-ui/commits?author=connor-baer)
+
+[Update fg-placeholder color tokens (](https://github.com/sumup-oss/circuit-ui/commit/f7e1557edcafefb7fba4a355e655cd26db9d81c5)[#2873](https://github.com/sumup-oss/circuit-ui/pull/2873)[)](https://github.com/sumup-oss/circuit-ui/commit/f7e1557edcafefb7fba4a355e655cd26db9d81c5)
+
+Jan 20, 2025
+
+[f7e1557](https://github.com/sumup-oss/circuit-ui/commit/f7e1557edcafefb7fba4a355e655cd26db9d81c5) · Jan 20, 2025
+
+History
+-------
+
+[3,046 Commits](https://github.com/sumup-oss/circuit-ui/commits/main/)
+
+[](https://github.com/sumup-oss/circuit-ui/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.changeset](https://github.com/sumup-oss/circuit-ui/tree/main/.changeset ".changeset")
+
+
+
+
+
+
+
+ | 
+
+[.changeset](https://github.com/sumup-oss/circuit-ui/tree/main/.changeset ".changeset")
+
+
+
+
+
+
+
+ | 
+
+[Update fg-placeholder color tokens (](https://github.com/sumup-oss/circuit-ui/commit/f7e1557edcafefb7fba4a355e655cd26db9d81c5 "Update fg-placeholder color tokens (#2873)")[#2873](https://github.com/sumup-oss/circuit-ui/pull/2873)[)](https://github.com/sumup-oss/circuit-ui/commit/f7e1557edcafefb7fba4a355e655cd26db9d81c5 "Update fg-placeholder color tokens (#2873)")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[.github](https://github.com/sumup-oss/circuit-ui/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/sumup-oss/circuit-ui/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[update ticket link in pull request template (](https://github.com/sumup-oss/circuit-ui/commit/48856c099a151f7b574c3e03062cf88a7e45cd78 "update ticket link in pull request template (#2869)")[#2869](https://github.com/sumup-oss/circuit-ui/pull/2869)[)](https://github.com/sumup-oss/circuit-ui/commit/48856c099a151f7b574c3e03062cf88a7e45cd78 "update ticket link in pull request template (#2869)")
+
+
+
+ | 
+
+Jan 15, 2025
+
+ |
+| 
+
+[.storybook](https://github.com/sumup-oss/circuit-ui/tree/main/.storybook ".storybook")
+
+
+
+
+
+
+
+ | 
+
+[.storybook](https://github.com/sumup-oss/circuit-ui/tree/main/.storybook ".storybook")
+
+
+
+
+
+
+
+ | 
+
+[Fix the Badge styles on production](https://github.com/sumup-oss/circuit-ui/commit/5ea69d8653d6db840722e2cc1b7293697eddb05e "Fix the Badge styles on production")
+
+
+
+ | 
+
+Dec 12, 2024
+
+ |
+| 
+
+[.vscode](https://github.com/sumup-oss/circuit-ui/tree/main/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[.vscode](https://github.com/sumup-oss/circuit-ui/tree/main/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[Migrate components to CSS Modules (](https://github.com/sumup-oss/circuit-ui/commit/6ff0b7da7f7aae906ffe467da08115d5500e157a "Migrate components to CSS Modules (#2163)")[#2163](https://github.com/sumup-oss/circuit-ui/pull/2163)[)](https://github.com/sumup-oss/circuit-ui/commit/6ff0b7da7f7aae906ffe467da08115d5500e157a "Migrate components to CSS Modules (#2163)")
+
+
+
+ | 
+
+Jul 13, 2023
+
+ |
+| 
+
+[assets](https://github.com/sumup-oss/circuit-ui/tree/main/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[assets](https://github.com/sumup-oss/circuit-ui/tree/main/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[Make icon contributing guidelines more visible (](https://github.com/sumup-oss/circuit-ui/commit/8a3217b84211f7a3c2477573c6cf22798b4f5b14 "Make icon contributing guidelines more visible (#2039)")[#2039](https://github.com/sumup-oss/circuit-ui/pull/2039)[)](https://github.com/sumup-oss/circuit-ui/commit/8a3217b84211f7a3c2477573c6cf22798b4f5b14 "Make icon contributing guidelines more visible (#2039)")
+
+
+
+ | 
+
+Apr 16, 2023
+
+ |
+| 
+
+[docs](https://github.com/sumup-oss/circuit-ui/tree/main/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[docs](https://github.com/sumup-oss/circuit-ui/tree/main/docs "docs")
+
+
+
+
+
+
+
+ | 
+
+[Change PlainDateRange to an object (](https://github.com/sumup-oss/circuit-ui/commit/1251f90a4befc09a6b62fdd0f57e4e7cb9356b66 "Change PlainDateRange to an object (#2741)")[#2741](https://github.com/sumup-oss/circuit-ui/pull/2741)[)](https://github.com/sumup-oss/circuit-ui/commit/1251f90a4befc09a6b62fdd0f57e4e7cb9356b66 "Change PlainDateRange to an object (#2741)")
+
+
+
+ | 
+
+Oct 29, 2024
+
+ |
+| 
+
+[packages](https://github.com/sumup-oss/circuit-ui/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[packages](https://github.com/sumup-oss/circuit-ui/tree/main/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[Update fg-placeholder color tokens (](https://github.com/sumup-oss/circuit-ui/commit/f7e1557edcafefb7fba4a355e655cd26db9d81c5 "Update fg-placeholder color tokens (#2873)")[#2873](https://github.com/sumup-oss/circuit-ui/pull/2873)[)](https://github.com/sumup-oss/circuit-ui/commit/f7e1557edcafefb7fba4a355e655cd26db9d81c5 "Update fg-placeholder color tokens (#2873)")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[scripts](https://github.com/sumup-oss/circuit-ui/tree/main/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[scripts](https://github.com/sumup-oss/circuit-ui/tree/main/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[Fix copying of template docs](https://github.com/sumup-oss/circuit-ui/commit/a6710368e516eba2150c8e3c74565d8d0f6467d4 "Fix copying of template docs")
+
+
+
+ | 
+
+Nov 19, 2024
+
+ |
+| 
+
+[templates](https://github.com/sumup-oss/circuit-ui/tree/main/templates "templates")
+
+
+
+
+
+
+
+ | 
+
+[templates](https://github.com/sumup-oss/circuit-ui/tree/main/templates "templates")
+
+
+
+
+
+
+
+ | 
+
+[Add Timestamp component (](https://github.com/sumup-oss/circuit-ui/commit/8fe93157e9dd783f2a50259fdcd926170e0ca41c "Add Timestamp component (#2822)")[#2822](https://github.com/sumup-oss/circuit-ui/pull/2822)[)](https://github.com/sumup-oss/circuit-ui/commit/8fe93157e9dd783f2a50259fdcd926170e0ca41c "Add Timestamp component (#2822)")
+
+
+
+ | 
+
+Jan 15, 2025
+
+ |
+| 
+
+[.browserslistrc](https://github.com/sumup-oss/circuit-ui/blob/main/.browserslistrc ".browserslistrc")
+
+
+
+
+
+
+
+ | 
+
+[.browserslistrc](https://github.com/sumup-oss/circuit-ui/blob/main/.browserslistrc ".browserslistrc")
+
+
+
+
+
+
+
+ | 
+
+[Exclude dead and unreleased browsers from browserslist](https://github.com/sumup-oss/circuit-ui/commit/732688ab2e606a594907d5f38f3801e8b23413c2 "Exclude dead and unreleased browsers from browserslist")
+
+
+
+ | 
+
+Jun 3, 2024
+
+ |
+| 
+
+[.eslintignore](https://github.com/sumup-oss/circuit-ui/blob/main/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[.eslintignore](https://github.com/sumup-oss/circuit-ui/blob/main/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[Move app templates to a separate folder (](https://github.com/sumup-oss/circuit-ui/commit/921b152944396e782820459cfff704ac3322bcd4 "Move app templates to a separate folder (#2652)")[#2652](https://github.com/sumup-oss/circuit-ui/pull/2652)[)](https://github.com/sumup-oss/circuit-ui/commit/921b152944396e782820459cfff704ac3322bcd4 "Move app templates to a separate folder (#2652)")
+
+
+
+ | 
+
+Aug 14, 2024
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/sumup-oss/circuit-ui/blob/main/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/sumup-oss/circuit-ui/blob/main/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[New DateInput component (](https://github.com/sumup-oss/circuit-ui/commit/4f11234159c1aa25d12d3e7521371d4e1a2bb6b9 "New DateInput component (#2645)
+Co-authored-by: sirineJ <112706079+sirineJ@users.noreply.github.com>")[#2645](https://github.com/sumup-oss/circuit-ui/pull/2645)[)](https://github.com/sumup-oss/circuit-ui/commit/4f11234159c1aa25d12d3e7521371d4e1a2bb6b9 "New DateInput component (#2645)
+Co-authored-by: sirineJ <112706079+sirineJ@users.noreply.github.com>")
+
+
+
+ | 
+
+Oct 29, 2024
+
+ |
+| 
+
+[.gitignore](https://github.com/sumup-oss/circuit-ui/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/sumup-oss/circuit-ui/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Move app templates to a separate folder (](https://github.com/sumup-oss/circuit-ui/commit/921b152944396e782820459cfff704ac3322bcd4 "Move app templates to a separate folder (#2652)")[#2652](https://github.com/sumup-oss/circuit-ui/pull/2652)[)](https://github.com/sumup-oss/circuit-ui/commit/921b152944396e782820459cfff704ac3322bcd4 "Move app templates to a separate folder (#2652)")
+
+
+
+ | 
+
+Aug 14, 2024
+
+ |
+| 
+
+[.huskyrc.js](https://github.com/sumup-oss/circuit-ui/blob/main/.huskyrc.js ".huskyrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.huskyrc.js](https://github.com/sumup-oss/circuit-ui/blob/main/.huskyrc.js ".huskyrc.js")
+
+
+
+
+
+
+
+ | 
+
+[Upgrade to Foundry v8 (](https://github.com/sumup-oss/circuit-ui/commit/62119920df6239b272bdf22fa2ccbd5d1ef37b27 "Upgrade to Foundry v8 (#2509)")[#2509](https://github.com/sumup-oss/circuit-ui/pull/2509)[)](https://github.com/sumup-oss/circuit-ui/commit/62119920df6239b272bdf22fa2ccbd5d1ef37b27 "Upgrade to Foundry v8 (#2509)")
+
+
+
+ | 
+
+May 8, 2024
+
+ |
+| 
+
+[.nvmrc](https://github.com/sumup-oss/circuit-ui/blob/main/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/sumup-oss/circuit-ui/blob/main/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[chore: raise minimum node version to 20+ (](https://github.com/sumup-oss/circuit-ui/commit/f8016ebe246005ed415ed9587ecdb76892e981c6 "chore: raise minimum node version to 20+ (#2707)
+* chore: raise minimum node version to 20+
+* fix: Intl RangeError exception
+* chore: update @types/node
+* chore: add changeset")[#2707](https://github.com/sumup-oss/circuit-ui/pull/2707)[)](https://github.com/sumup-oss/circuit-ui/commit/f8016ebe246005ed415ed9587ecdb76892e981c6 "chore: raise minimum node version to 20+ (#2707)
+* chore: raise minimum node version to 20+
+* fix: Intl RangeError exception
+* chore: update @types/node
+* chore: add changeset")
+
+
+
+ | 
+
+Oct 8, 2024
+
+ |
+| 
+
+[.stylelintignore](https://github.com/sumup-oss/circuit-ui/blob/main/.stylelintignore ".stylelintignore")
+
+
+
+
+
+
+
+ | 
+
+[.stylelintignore](https://github.com/sumup-oss/circuit-ui/blob/main/.stylelintignore ".stylelintignore")
+
+
+
+
+
+
+
+ | 
+
+[Migrate components to CSS Modules (](https://github.com/sumup-oss/circuit-ui/commit/6ff0b7da7f7aae906ffe467da08115d5500e157a "Migrate components to CSS Modules (#2163)")[#2163](https://github.com/sumup-oss/circuit-ui/pull/2163)[)](https://github.com/sumup-oss/circuit-ui/commit/6ff0b7da7f7aae906ffe467da08115d5500e157a "Migrate components to CSS Modules (#2163)")
+
+
+
+ | 
+
+Jul 13, 2023
+
+ |
+| 
+
+[.stylelintrc.js](https://github.com/sumup-oss/circuit-ui/blob/main/.stylelintrc.js ".stylelintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.stylelintrc.js](https://github.com/sumup-oss/circuit-ui/blob/main/.stylelintrc.js ".stylelintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[Improve Stylelint config for CSS Modules (](https://github.com/sumup-oss/circuit-ui/commit/e1fef4ba14a757c53ad5314ffe6fc2b011495255 "Improve Stylelint config for CSS Modules (#2572)")[#2572](https://github.com/sumup-oss/circuit-ui/pull/2572)[)](https://github.com/sumup-oss/circuit-ui/commit/e1fef4ba14a757c53ad5314ffe6fc2b011495255 "Improve Stylelint config for CSS Modules (#2572)")
+
+
+
+ | 
+
+Jun 3, 2024
+
+ |
+| 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/sumup-oss/circuit-ui/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/sumup-oss/circuit-ui/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+
+
+
+
+ | 
+
+[Tweak COC contact reference](https://github.com/sumup-oss/circuit-ui/commit/1ffb98af0950fbb172cec89d2d7fa713d9c88b26 "Tweak COC contact reference")
+
+
+
+ | 
+
+Jan 25, 2022
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/sumup-oss/circuit-ui/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/sumup-oss/circuit-ui/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: raise minimum node version to 20+ (](https://github.com/sumup-oss/circuit-ui/commit/f8016ebe246005ed415ed9587ecdb76892e981c6 "chore: raise minimum node version to 20+ (#2707)
+* chore: raise minimum node version to 20+
+* fix: Intl RangeError exception
+* chore: update @types/node
+* chore: add changeset")[#2707](https://github.com/sumup-oss/circuit-ui/pull/2707)[)](https://github.com/sumup-oss/circuit-ui/commit/f8016ebe246005ed415ed9587ecdb76892e981c6 "chore: raise minimum node version to 20+ (#2707)
+* chore: raise minimum node version to 20+
+* fix: Intl RangeError exception
+* chore: update @types/node
+* chore: add changeset")
+
+
+
+ | 
+
+Oct 8, 2024
+
+ |
+| 
+
+[LICENSE](https://github.com/sumup-oss/circuit-ui/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/sumup-oss/circuit-ui/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[chore: Add OSS requirements (](https://github.com/sumup-oss/circuit-ui/commit/d973a7cc7b78e449881d69a94cad3d9ba39310c2 "chore: Add OSS requirements (#417)
+* Add check:security and check:licenses command
+* Add yarn install script for travis
+* Add --frozen-lockfile to ci install command
+* Add Apache2 license
+* Update Copyright date/signature
+* Remove unused eslint plugins
+* Update README with CoC section")[#417](https://github.com/sumup-oss/circuit-ui/pull/417)[)](https://github.com/sumup-oss/circuit-ui/commit/d973a7cc7b78e449881d69a94cad3d9ba39310c2 "chore: Add OSS requirements (#417)
+* Add check:security and check:licenses command
+* Add yarn install script for travis
+* Add --frozen-lockfile to ci install command
+* Add Apache2 license
+* Update Copyright date/signature
+* Remove unused eslint plugins
+* Update README with CoC section")
+
+
+
+ | 
+
+Jul 15, 2019
+
+ |
+| 
+
+[MIGRATION.md](https://github.com/sumup-oss/circuit-ui/blob/main/MIGRATION.md "MIGRATION.md")
+
+
+
+
+
+
+
+ | 
+
+[MIGRATION.md](https://github.com/sumup-oss/circuit-ui/blob/main/MIGRATION.md "MIGRATION.md")
+
+
+
+
+
+
+
+ | 
+
+[Add migration guide for v9 (](https://github.com/sumup-oss/circuit-ui/commit/77d675da7f647de3252f735ea74e4c483144dbfb "Add migration guide for v9 (#2739)
+Co-authored-by: sirineJ <112706079+sirineJ@users.noreply.github.com>")[#2739](https://github.com/sumup-oss/circuit-ui/pull/2739)[)](https://github.com/sumup-oss/circuit-ui/commit/77d675da7f647de3252f735ea74e4c483144dbfb "Add migration guide for v9 (#2739)
+Co-authored-by: sirineJ <112706079+sirineJ@users.noreply.github.com>")
+
+
+
+ | 
+
+Oct 30, 2024
+
+ |
+| 
+
+[README.md](https://github.com/sumup-oss/circuit-ui/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/sumup-oss/circuit-ui/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Move app templates to a separate folder (](https://github.com/sumup-oss/circuit-ui/commit/921b152944396e782820459cfff704ac3322bcd4 "Move app templates to a separate folder (#2652)")[#2652](https://github.com/sumup-oss/circuit-ui/pull/2652)[)](https://github.com/sumup-oss/circuit-ui/commit/921b152944396e782820459cfff704ac3322bcd4 "Move app templates to a separate folder (#2652)")
+
+
+
+ | 
+
+Aug 14, 2024
+
+ |
+| 
+
+[biome.jsonc](https://github.com/sumup-oss/circuit-ui/blob/main/biome.jsonc "biome.jsonc")
+
+
+
+
+
+
+
+ | 
+
+[biome.jsonc](https://github.com/sumup-oss/circuit-ui/blob/main/biome.jsonc "biome.jsonc")
+
+
+
+
+
+
+
+ | 
+
+[Fix missing effect hook dependencies (](https://github.com/sumup-oss/circuit-ui/commit/315d09f646887d9a6fe5fcd796bb94e62f58973a "Fix missing effect hook dependencies (#2834)
+* Increase useExhaustiveDependencies severity to error
+* Fix useExhaustiveDependencies issues")[#2834](https://github.com/sumup-oss/circuit-ui/pull/2834)[)](https://github.com/sumup-oss/circuit-ui/commit/315d09f646887d9a6fe5fcd796bb94e62f58973a "Fix missing effect hook dependencies (#2834)
+* Increase useExhaustiveDependencies severity to error
+* Fix useExhaustiveDependencies issues")
+
+
+
+ | 
+
+Dec 16, 2024
+
+ |
+| 
+
+[codecov.yml](https://github.com/sumup-oss/circuit-ui/blob/main/codecov.yml "codecov.yml")
+
+
+
+
+
+
+
+ | 
+
+[codecov.yml](https://github.com/sumup-oss/circuit-ui/blob/main/codecov.yml "codecov.yml")
+
+
+
+
+
+
+
+ | 
+
+[Upgrade to Storybook 8, Vite 5 and Vitest 1 (](https://github.com/sumup-oss/circuit-ui/commit/cec246816fa8c3e7bd2c74573ed8791d76afba59 "Upgrade to Storybook 8, Vite 5 and Vitest 1 (#2463)")[#2463](https://github.com/sumup-oss/circuit-ui/pull/2463)[)](https://github.com/sumup-oss/circuit-ui/commit/cec246816fa8c3e7bd2c74573ed8791d76afba59 "Upgrade to Storybook 8, Vite 5 and Vitest 1 (#2463)")
+
+
+
+ | 
+
+Mar 13, 2024
+
+ |
+| 
+
+[lerna.json](https://github.com/sumup-oss/circuit-ui/blob/main/lerna.json "lerna.json")
+
+
+
+
+
+
+
+ | 
+
+[lerna.json](https://github.com/sumup-oss/circuit-ui/blob/main/lerna.json "lerna.json")
+
+
+
+
+
+
+
+ | 
+
+[Move app templates to a separate folder (](https://github.com/sumup-oss/circuit-ui/commit/921b152944396e782820459cfff704ac3322bcd4 "Move app templates to a separate folder (#2652)")[#2652](https://github.com/sumup-oss/circuit-ui/pull/2652)[)](https://github.com/sumup-oss/circuit-ui/commit/921b152944396e782820459cfff704ac3322bcd4 "Move app templates to a separate folder (#2652)")
+
+
+
+ | 
+
+Aug 14, 2024
+
+ |
+| 
+
+[lint-staged.config.js](https://github.com/sumup-oss/circuit-ui/blob/main/lint-staged.config.js "lint-staged.config.js")
+
+
+
+
+
+
+
+ | 
+
+[lint-staged.config.js](https://github.com/sumup-oss/circuit-ui/blob/main/lint-staged.config.js "lint-staged.config.js")
+
+
+
+
+
+
+
+ | 
+
+[Use Biome to speed up linting (](https://github.com/sumup-oss/circuit-ui/commit/6acad81c6bef74328a1ee78bc1fceaf31db04f00 "Use Biome to speed up linting (#2583)")[#2583](https://github.com/sumup-oss/circuit-ui/pull/2583)[)](https://github.com/sumup-oss/circuit-ui/commit/6acad81c6bef74328a1ee78bc1fceaf31db04f00 "Use Biome to speed up linting (#2583)")
+
+
+
+ | 
+
+Jul 8, 2024
+
+ |
+| 
+
+[package-lock.json](https://github.com/sumup-oss/circuit-ui/blob/main/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/sumup-oss/circuit-ui/blob/main/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[Update fg-placeholder color tokens (](https://github.com/sumup-oss/circuit-ui/commit/f7e1557edcafefb7fba4a355e655cd26db9d81c5 "Update fg-placeholder color tokens (#2873)")[#2873](https://github.com/sumup-oss/circuit-ui/pull/2873)[)](https://github.com/sumup-oss/circuit-ui/commit/f7e1557edcafefb7fba4a355e655cd26db9d81c5 "Update fg-placeholder color tokens (#2873)")
+
+
+
+ | 
+
+Jan 20, 2025
+
+ |
+| 
+
+[package.json](https://github.com/sumup-oss/circuit-ui/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/sumup-oss/circuit-ui/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[chore(deps-dev): bump stylelint in the stylelint group (](https://github.com/sumup-oss/circuit-ui/commit/b0ca2ef15c6b52dbded16e6aa27c39916d08593f "chore(deps-dev): bump stylelint in the stylelint group (#2842)
+Bumps the stylelint group with 1 update: [stylelint](https://github.com/stylelint/stylelint).
+Updates `stylelint` from 16.11.0 to 16.12.0
+- [Release notes](https://github.com/stylelint/stylelint/releases)
+- [Changelog](https://github.com/stylelint/stylelint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/stylelint/stylelint/compare/16.11.0...16.12.0)
+---
+updated-dependencies:
+- dependency-name: stylelint
+dependency-type: direct:development
+update-type: version-update:semver-minor
+dependency-group: stylelint
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")[#2842](https://github.com/sumup-oss/circuit-ui/pull/2842)[)](https://github.com/sumup-oss/circuit-ui/commit/b0ca2ef15c6b52dbded16e6aa27c39916d08593f "chore(deps-dev): bump stylelint in the stylelint group (#2842)
+Bumps the stylelint group with 1 update: [stylelint](https://github.com/stylelint/stylelint).
+Updates `stylelint` from 16.11.0 to 16.12.0
+- [Release notes](https://github.com/stylelint/stylelint/releases)
+- [Changelog](https://github.com/stylelint/stylelint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/stylelint/stylelint/compare/16.11.0...16.12.0)
+---
+updated-dependencies:
+- dependency-name: stylelint
+dependency-type: direct:development
+update-type: version-update:semver-minor
+dependency-group: stylelint
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")
+
+
+
+ | 
+
+Jan 3, 2025
+
+ |
+| 
+
+[svgo.config.js](https://github.com/sumup-oss/circuit-ui/blob/main/svgo.config.js "svgo.config.js")
+
+
+
+
+
+
+
+ | 
+
+[svgo.config.js](https://github.com/sumup-oss/circuit-ui/blob/main/svgo.config.js "svgo.config.js")
+
+
+
+
+
+
+
+ | 
+
+[Sync icons with Figma (](https://github.com/sumup-oss/circuit-ui/commit/390d21fb20109061180fe824d6da4ef948281bb6 "Sync icons with Figma (#2447)")[#2447](https://github.com/sumup-oss/circuit-ui/pull/2447)[)](https://github.com/sumup-oss/circuit-ui/commit/390d21fb20109061180fe824d6da4ef948281bb6 "Sync icons with Figma (#2447)")
+
+
+
+ | 
+
+Feb 22, 2024
+
+ |
+| 
+
+[tsconfig.eslint.json](https://github.com/sumup-oss/circuit-ui/blob/main/tsconfig.eslint.json "tsconfig.eslint.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.eslint.json](https://github.com/sumup-oss/circuit-ui/blob/main/tsconfig.eslint.json "tsconfig.eslint.json")
+
+
+
+
+
+
+
+ | 
+
+[Import @sumup/design-tokens](https://github.com/sumup-oss/circuit-ui/commit/34c6d6dbcb48ea0aa83e7601106caf674c53c7dd "Import @sumup/design-tokens")
+
+
+
+ | 
+
+Mar 30, 2021
+
+ |
+| 
+
+[tsconfig.json](https://github.com/sumup-oss/circuit-ui/blob/main/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/sumup-oss/circuit-ui/blob/main/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[Work around Astro's ESM requirement](https://github.com/sumup-oss/circuit-ui/commit/a22da129d13316a38daeec712b4a0842acc7a877 "Work around Astro's ESM requirement")
+
+
+
+ | 
+
+Dec 16, 2024
+
+ |
+| 
+
+[vercel.json](https://github.com/sumup-oss/circuit-ui/blob/main/vercel.json "vercel.json")
+
+
+
+
+
+
+
+ | 
+
+[vercel.json](https://github.com/sumup-oss/circuit-ui/blob/main/vercel.json "vercel.json")
+
+
+
+
+
+
+
+ | 
+
+[Add cache headers](https://github.com/sumup-oss/circuit-ui/commit/5f5dd71acd8dbc6f06f27f71be2eecc3e264eaf9 "Add cache headers")
+
+
+
+ | 
+
+Jun 8, 2023
+
+ |
+| 
+
+[vite.config.mts](https://github.com/sumup-oss/circuit-ui/blob/main/vite.config.mts "vite.config.mts")
+
+
+
+
+
+
+
+ | 
+
+[vite.config.mts](https://github.com/sumup-oss/circuit-ui/blob/main/vite.config.mts "vite.config.mts")
+
+
+
+
+
+
+
+ | 
+
+[exclude translations from vite coverage (](https://github.com/sumup-oss/circuit-ui/commit/6250312304ce752399115087975da93403d610aa "exclude translations from vite coverage (#2835)")[#2835](https://github.com/sumup-oss/circuit-ui/pull/2835)[)](https://github.com/sumup-oss/circuit-ui/commit/6250312304ce752399115087975da93403d610aa "exclude translations from vite coverage (#2835)")
+
+
+
+ | 
+
+Dec 17, 2024
+
+ |
+| 
+
+[vitest.workspace.ts](https://github.com/sumup-oss/circuit-ui/blob/main/vitest.workspace.ts "vitest.workspace.ts")
+
+
+
+
+
+
+
+ | 
+
+[vitest.workspace.ts](https://github.com/sumup-oss/circuit-ui/blob/main/vitest.workspace.ts "vitest.workspace.ts")
+
+
+
+
+
+
+
+ | 
+
+[Migrate components to CSS Modules (](https://github.com/sumup-oss/circuit-ui/commit/6ff0b7da7f7aae906ffe467da08115d5500e157a "Migrate components to CSS Modules (#2163)")[#2163](https://github.com/sumup-oss/circuit-ui/pull/2163)[)](https://github.com/sumup-oss/circuit-ui/commit/6ff0b7da7f7aae906ffe467da08115d5500e157a "Migrate components to CSS Modules (#2163)")
+
+
+
+ | 
+
+Jul 13, 2023
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/sumup-oss/circuit-ui?screenshot=true#)
+*   [Code of conduct](https://github.com/sumup-oss/circuit-ui?screenshot=true#)
+*   [Apache-2.0 license](https://github.com/sumup-oss/circuit-ui?screenshot=true#)
+*   [Security](https://github.com/sumup-oss/circuit-ui?screenshot=true#)
+
+ ![Image 26: Circuit UI by SumUp](https://github.com/sumup-oss/circuit-ui/raw/main/.storybook/public/images/logo-name-brand-light.png)[![Image 27: Stars](https://camo.githubusercontent.com/016516dccc4be6c02f9fac8610ab6fc29d507db248a240f8c8a5600ad9ae5e1a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f73756d75702d6f73732f636972637569742d75693f7374796c653d736f6369616c)](https://github.com/sumup-oss/circuit-ui/) [![Image 28: Coverage](https://camo.githubusercontent.com/8ccfc751dcf747b89292dcda65b0f46a0c76550f0803d66e5ac19bd4e9231caf/68747470733a2f2f696d672e736869656c64732e696f2f636f6465636f762f632f6769746875622f73756d75702d6f73732f636972637569742d7569)](https://codecov.io/gh/sumup-oss/circuit-ui) [![Image 29: License](https://camo.githubusercontent.com/fe24042a1b8dee33479b99ed640896c76f83553fc856d60e9197acada1cd2e6f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f73756d75702d6f73732f636972637569742d7569)](https://github.com/sumup-oss/circuit-ui/blob/main/LICENSE) [![Image 30: Contributor Covenant](https://camo.githubusercontent.com/71b311167214498783c03691b0199e1e83d84e91de6828d2ea334c7998f3a9fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d76322e3125323061646f707465642d6666363962342e737667)](https://github.com/sumup-oss/circuit-ui/tree/main/CODE_OF_CONDUCT.md)
+
+[Circuit UI Web](https://circuit.sumup.com/) is the web implementation of the [SumUp](https://sumup.com/) Circuit Design System. Our primary goal is to create a system that can be used to build a wide variety of SumUp websites and apps, while providing a consistent and inclusive user experience to our end users. In addition, the design system and component library should be easy to use for developers and designers.
+
+Quick start
+-----------
+
+[](https://github.com/sumup-oss/circuit-ui?screenshot=true#quick-start)
+
+Here are a few helpful links for getting started with Circuit UI:
+
+*   [Documentation](https://circuit.sumup.com/) - Learn how to use Circuit UI and view the components in Storybook.
+*   [Getting started](https://circuit.sumup.com/?path=/docs/introduction-getting-started--docs) - Set up a new app with Circuit UI or add it to an existing project.
+*   [Theming](https://circuit.sumup.com/?path=/docs/features-theme--docs) - Learn about our foundations such as colors, spacing, and typography.
+*   [Contribute](https://circuit.sumup.com/?path=/docs/contributing-overview--docs) - File a bug report, suggest a change, or open a pull request.
+
+Packages
+--------
+
+[](https://github.com/sumup-oss/circuit-ui?screenshot=true#packages)
+
+*   **[@sumup-oss/circuit-ui](https://github.com/sumup-oss/circuit-ui/blob/main/packages/circuit-ui)** — the core React component library
+*   **[@sumup-oss/design-tokens](https://github.com/sumup-oss/circuit-ui/blob/main/packages/design-tokens)** — visual primitives such as typography, color, and spacing
+*   **[@sumup-oss/icons](https://github.com/sumup-oss/circuit-ui/blob/main/packages/icons)** — a collection of SVG icons
+*   **[@sumup-oss/eslint-plugin-circuit-ui](https://github.com/sumup-oss/circuit-ui/blob/main/packages/eslint-plugin-circuit-ui)** — ESLint rules to help users follow best practices when using Circuit UI
+*   **[@sumup-oss/stylelint-plugin-circuit-ui](https://github.com/sumup-oss/circuit-ui/blob/main/packages/stylelint-plugin-circuit-ui)** — Stylelint rules to help users follow best practices when using Circuit UI
+
+Code of conduct
+---------------
+
+[](https://github.com/sumup-oss/circuit-ui?screenshot=true#code-of-conduct)
+
+We want to foster an inclusive and friendly community around our Open Source efforts. Like all SumUp Open Source projects, this project follows the Contributor Covenant Code of Conduct. Please, [read it and follow it](https://github.com/sumup-oss/circuit-ui/blob/main/CODE_OF_CONDUCT.md).
+
+If you feel another member of the community violated our CoC or you are experiencing problems participating in our community because of another individual's behavior, please get in touch with our maintainers. We will enforce the CoC.
+
+### Maintainers
+
+[](https://github.com/sumup-oss/circuit-ui?screenshot=true#maintainers)
+
+*   [Connor Bär](mailto:connor.baer@sumup.com)
+
+Contributing
+------------
+
+[](https://github.com/sumup-oss/circuit-ui?screenshot=true#contributing)
+
+If you have ideas for how we could improve this readme or the project in general, [let us know](https://github.com/sumup-oss/circuit-ui/issues) or [contribute some](https://github.com/sumup-oss/circuit-ui/edit/main/README.md)!
+
+Thanks
+------
+
+[](https://github.com/sumup-oss/circuit-ui?screenshot=true#thanks)
+
+[![Image 31: Chromatic logo](https://raw.githubusercontent.com/sumup-oss/circuit-ui/main/.storybook/public/images/chromatic.svg?sanitize=true)](https://www.chromatic.com/)
+
+Thanks to [Chromatic](https://www.chromatic.com/) for providing the visual testing platform that helps us catch unexpected changes on time.
+
+About SumUp
+-----------
+
+[](https://github.com/sumup-oss/circuit-ui?screenshot=true#about-sumup)
+
+[![Image 32: SumUp logo](https://raw.githubusercontent.com/sumup-oss/assets/main/sumup-logo.svg?sanitize=true)](https://sumup.com/)
+
+[SumUp](https://sumup.com/) is a mobile-point of sale provider. It is our mission to make easy and fast card payments a reality across the _entire_ world. You can pay with SumUp in more than 30 countries already. Our engineers work in Berlin, Cologne, Sofia, and Sāo Paulo. They write code in JavaScript, Swift, Ruby, Elixir, Erlang, and much more. Want to come work with us? [Head to our careers page](https://sumup.com/careers) to find out more.
+
+About
+-----
+
+SumUp's design system for the web
+
+[circuit.sumup.com](https://circuit.sumup.com/ "https://circuit.sumup.com")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [react-components](https://github.com/topics/react-components "Topic: react-components") [component-library](https://github.com/topics/component-library "Topic: component-library") [design-system](https://github.com/topics/design-system "Topic: design-system") [sumup](https://github.com/topics/sumup "Topic: sumup") [circuit-ui](https://github.com/topics/circuit-ui "Topic: circuit-ui")
+
+### Resources
+
+[Readme](https://github.com/sumup-oss/circuit-ui?screenshot=true#readme-ov-file)
+
+### License
+
+[Apache-2.0 license](https://github.com/sumup-oss/circuit-ui?screenshot=true#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/sumup-oss/circuit-ui?screenshot=true#coc-ov-file)
+
+### Security policy
+
+[Security policy](https://github.com/sumup-oss/circuit-ui?screenshot=true#security-ov-file)
+
+[Activity](https://github.com/sumup-oss/circuit-ui/activity)
+
+[Custom properties](https://github.com/sumup-oss/circuit-ui/custom-properties)
+
+### Stars
+
+[**927** stars](https://github.com/sumup-oss/circuit-ui/stargazers)
+
+### Watchers
+
+[**63** watching](https://github.com/sumup-oss/circuit-ui/watchers)
+
+### Forks
+
+[**127** forks](https://github.com/sumup-oss/circuit-ui/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fsumup-oss%2Fcircuit-ui&report=sumup-oss+%28user%29)
+
+[Releases 674](https://github.com/sumup-oss/circuit-ui/releases)
+----------------------------------------------------------------
+
+[@sumup-oss/icons@5.3.0 Latest Jan 16, 2025](https://github.com/sumup-oss/circuit-ui/releases/tag/%40sumup-oss%2Ficons%405.3.0)
+
+[\+ 673 releases](https://github.com/sumup-oss/circuit-ui/releases)
+
+[Contributors 79](https://github.com/sumup-oss/circuit-ui/graphs/contributors)
+------------------------------------------------------------------------------
+
+*   [![Image 33: @connor-baer](https://avatars.githubusercontent.com/u/11017722?s=64&v=4)](https://github.com/connor-baer)
+*   [![Image 34: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 35: @github-actions[bot]](https://avatars.githubusercontent.com/in/15368?s=64&v=4)](https://github.com/apps/github-actions)
+*   [![Image 36: @robinmetral](https://avatars.githubusercontent.com/u/35560568?s=64&v=4)](https://github.com/robinmetral)
+*   [![Image 37: @felixjung](https://avatars.githubusercontent.com/u/265947?s=64&v=4)](https://github.com/felixjung)
+*   [![Image 38: @fernandofleury](https://avatars.githubusercontent.com/u/2780941?s=64&v=4)](https://github.com/fernandofleury)
+*   [![Image 39: @mlent](https://avatars.githubusercontent.com/u/1771845?s=64&v=4)](https://github.com/mlent)
+*   [![Image 40: @amelako](https://avatars.githubusercontent.com/u/57903317?s=64&v=4)](https://github.com/amelako)
+*   [![Image 41: @elanoism](https://avatars.githubusercontent.com/u/2035446?s=64&v=4)](https://github.com/elanoism)
+*   [![Image 42: @sirineJ](https://avatars.githubusercontent.com/u/112706079?s=64&v=4)](https://github.com/sirineJ)
+*   [![Image 43: @afonsodelgado](https://avatars.githubusercontent.com/u/15806312?s=64&v=4)](https://github.com/afonsodelgado)
+*   [![Image 44: @hris27](https://avatars.githubusercontent.com/u/9676303?s=64&v=4)](https://github.com/hris27)
+*   [![Image 45: @voronianski](https://avatars.githubusercontent.com/u/974035?s=64&v=4)](https://github.com/voronianski)
+*   [![Image 46: @amarinov](https://avatars.githubusercontent.com/u/1151641?s=64&v=4)](https://github.com/amarinov)
+
+[\+ 65 contributors](https://github.com/sumup-oss/circuit-ui/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 84.5%](https://github.com/sumup-oss/circuit-ui/search?l=typescript)
+*   [MDX 7.6%](https://github.com/sumup-oss/circuit-ui/search?l=mdx)
+*   [CSS 6.6%](https://github.com/sumup-oss/circuit-ui/search?l=css)
+*   [JavaScript 0.8%](https://github.com/sumup-oss/circuit-ui/search?l=javascript)
+*   [Astro 0.3%](https://github.com/sumup-oss/circuit-ui/search?l=astro)
+*   [HTML 0.1%](https://github.com/sumup-oss/circuit-ui/search?l=html)
+*   [Shell 0.1%](https://github.com/sumup-oss/circuit-ui/search?l=shell)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

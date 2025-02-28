@@ -1,0 +1,235 @@
+Structuring Data via LLM Web Crawling Agents: 200+ Restaurants in Ginza, Tokyo
+
+LLM agents are great at building structured data sets. In this tutorial, we show you how to use PhaseLLM to crawl the web and build a spreadsheet of restaurants based in Ginza (a popular part of Tokyo).
+
+This tutorial shows how you can use PhaseLLM's WebSearchAgent to crawl the web, store results, and then use our ChatBot interface to extract restaurants into a structured spreadsheet.
+
+The output of this process includes a list of restaurants found on websites, a one-sentence summary of the restaurant from each website it is found on, and the count of websites that mention the restaurant.
+
+A screenshot of the spreadsheet is below, or you can [download the list of 200+ restaurants](https://phasellm.com/static/restaurants-in-ginza.xlsx).
+
+![Image 4](https://phasellm.com/static/tutorial-restaurants-japan.png)
+
+_[Code from this tutorial is on GitHub.](https://github.com/wgryc/phasellm-restaurant-data) You need PhaseLLM version 0.0.14 or higher to run this._
+
+Step 1: Search and Crawl the Web
+
+First, let's start with a list of queries for restaurants. You can use any sort of queries you want. While we focus on Ginza, Tokyo in our case, you can use any sort of restaurant type — location, cuisine, budget, or something else altgother.
+
+```
+queries = [
+    "best japanese restaurants in ginza part of tokyo",
+    "ginza restaurants that only locals know",
+    "tokyo ginza restaurants that are holes in the wall but AMAZING",
+    "unique tokyo ginza restaurants",
+    "tokyo ginza best food",
+    "most unique tokyo (ginza) restaurants",
+    "best tokyo ginza restaurants you can't miss",
+]
+```
+
+We'll run our imports and then instantiate the WebSearchAgent, which is PhaseLLM's approach to using getting search results. Our WebSearchAgents support multiple search engines and make it possible to plug-and-play search APIs as needed.
+
+```
+import json
+from phasellm.agents import WebSearchAgent
+from itertools import chain
+
+# Instantiate the PhaseLLM WebSearchAgent
+w = WebSearchAgent(api_key=google_api_key)
+```
+
+Then all you need to worry about is looping through each search query above and saving the results
+
+```
+# Get results from the search API.
+results = []
+for query in queries:
+    print(query)
+    results_new = w.search_google(
+        query=query, custom_search_engine_id=search_id, num=10
+    )
+    results = list(chain(results, results_new))
+
+# Clean up results into a dictionary object.
+results_dict = {"results": []}
+for result in results:
+    r = {
+        "title": result.title,
+        "url": result.url,
+        "desc": result.description,
+        "content": result.content,
+    }
+results_dict["results"].append(r)
+
+# Save the results to a file.
+with open("search.json", "w") as writer:
+	writer.write(json.dumps(results_dict))
+
+print(f"Number of sites found and crawled: {len(results_dict['results'])}")
+```
+
+Step 2: Extract Data
+
+From Step 1, you've got a file called 'search.json' that includes all the search results and associated site content from the various queries we submitted to the search API. Now it's time to extract the data!
+
+First, we start with the necessary imports.
+
+```
+openai_key = "YOUR OPENAI API KEY"
+google_api_key = "YOUR GOOGLE API KEY"
+search_id = "YOUR GOOGLE API SEARCH ID"
+
+import json
+import time
+import pandas as pd
+from phasellm.llms import *
+```
+
+Now we'll set up the prompt structure. In this case, we will have two prompts: a general system prompt that explains what the LLM should do. We tell it to act like a culinary expert and that it must follow a very specific data structure, with a restaurant's name preceded by "NAME:" and a "DESCRIPTION:" always following.
+
+```
+# Prompt #1: will be used for the system prompt (i.e., general instructions)
+message_prompt_1 = """You are a culinary researcher putting together a food tour. This food tour needs to include the best restaurants from a broader list that has been provided to you. You are going to follow these steps in generating your list:
+1. You will be given content to review.
+2. Please review the content and simply make a list of all the restaurants mentioned.
+3. Each element in the list should ONLY include the (a) restaurant name, and (b) a 5-10 word description of the food they serve.
+
+Please provide the output in the following format for each restauran:
+NAME: <restaurant name>
+DESCRIPTION: <5-10 words describing the food>
+<exactly one line break between each restaurant>
+"""
+```
+
+The second prompt ios a placeholder for our data the "{" and "}" denote variables that we include for the LLM. In this case, we'll always pass the site's title and then all the content that has been extracted from the site.
+
+```
+# Prompt #2: sends the specific site content
+message_prompt_2 = """Here is the information to review.
+------------------------------------------
+{title}
+
+{content}
+"""
+```
+
+Note that {content} will only include the the text content from the site. We automatically scrub out the HTML.
+
+Since our LLM will return a piece of content that contains 'NAME:' and 'DESCRIPTION:' lines for each restaurant, we need to parse this information. The parse\_lines() function below runs through the content returned by the LLM and extracts all this information into a Python dictionary, where keys are restaurant titles, with each dictonary element tracking the restaurant description and the number of times the restaurant was mentioned.
+
+It's important to note that this function is applied to all our results, so we'll have duplicate restaurant names. This function accounts for that by increasing the 'count' parameter and appending to description if we come across a restaurant we alerady found before.
+
+```
+def parse_lines(content, results):
+    lines = content.split("\n")
+    if len(lines) > 1:
+        for i in range(0, len(lines)):
+            line = lines[i].strip()
+            if len(line.strip()) > 0:
+                if line[0:4] == "NAME":
+                    restaurant_name = line[6:].strip()
+                    if restaurant_name not in results:
+                        results[restaurant_name] = {
+                            "name": restaurant_name,
+                            "description": "",
+                            "count": 1,
+                        }
+                    else:
+                        results[restaurant_name]["count"] += 1
+                    desc = lines[i + 1][13:].strip()
+                    if len(desc) > 0:
+                        results[restaurant_name]["description"] += "- " + desc + "\n"
+    return results
+```
+
+Now we set up the LLM workflow. We already created the prompts earlier, so all we need to do is instantiate our LLM and associated ChatBot.
+
+```
+cp = ChatPrompt([
+    {"role": "system", "content": message_prompt_1},
+    {"role": "user", "content": message_prompt_2},
+])
+llm = OpenAIGPTWrapper(openai_key, model="gpt-4")
+cb = ChatBot(llm)
+```
+
+We then load the results from Step 1 and get ready to parse.
+
+```
+# Load results from step1.py
+results = []
+with open("search.json", "r") as reader:
+    results_ = reader.read()
+    results = json.loads(results_)["results"]
+
+# Parse the results from step1.py
+
+parsed = {}
+ctr_r = 1
+```
+
+We loop through the results from Step 1, which contains a list of website titles, URLs, and associated text content. We print the progress to the terminal, and then pass the earlier prompt and associated content to the ChatBot.
+
+cb.messages() includes the messages we sent to the chatbot and associated LLM. This fills in the text content and prompt instructions from earlier.
+
+cb.resend() sends the messages we have for to the LLM for processing. Note that we use 'resend()' because we are simply sending the last mesasge in the message array again to the LLM rather than submitting a new chat message. We wrap this in a 'try/except' block in case the message is too long, in which case we'll try again with only the first 10,000 characters of the site's content.
+
+```
+for r in results:
+    # Helper print() statements to show where we're at.
+    print(ctr_r)
+    ctr_r += 1
+    print(r["title"])
+
+    # Use the PhaseLLM ChatBot object to fill in our prompt with the specific content we crawled.
+    cb.messages = cp.fill(content=r["content"], title=r["title"])
+
+    # Send and process the content using the ChatBot approach above.
+    try:
+        response = cb.resend()
+    except:
+        # Sometimes we have a very long amount of text, so we might get an error above. In this case, we simply limit the content to the first 10,000 characters. You can get a lot more fancy here!
+        print("Error, likely due to length of content. Trying shorter content.")
+        cb.messages = cp.fill(content=r["content"][0:10000], title=r["title"])
+        response = cb.resend()
+
+    parsed = parse_lines(response, parsed)
+
+    # We sleep for 30 seconds to avoid overloading the ChatGPT API.
+    print("Complete. Waiting for next piece of content...")
+    time.sleep(30)
+```
+
+... and finally, we save this to a JSON file!
+
+```
+with open("parsed.json", "w") as writer:
+    writer.write(json.dumps(parsed))
+```
+
+Step 3: Save to Excel
+
+This step is very simple, so we won't go into detail here... We simply take the JSON file, read it, convert it into a Pandas DataFrame, and save it as an Excel file.
+
+```
+import json
+import pandas as pd
+
+# Load processed JSON file.
+parsed = {}
+with open("parsed.json", "r") as reader:
+    parsed = json.loads(reader.read())
+
+# Conver the JSON into a Pandas DataFrame and save it to an Excel file
+df = pd.DataFrame.from_records(list(parsed.values()))
+df.to_excel("restaurants-in-ginza.xlsx", sheet_name="Restaurants")
+```
+
+This step is optional, depending on what you are planning to do with the data, of course!
+
+Conclusion
+
+That's it! The [code is also on GitHub](https://github.com/wgryc/phasellm-restaurant-data).
+
+As always, reach out to me at w (at) phaseai (dot) com if you want to collaborate. You can also [follow PhaseLLM on Twitter](https://twitter.com/PhaseLLM).

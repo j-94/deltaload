@@ -1,0 +1,871 @@
+GitHub - eshlox/gatsby-theme-axii: AXII - A Gatsby blog theme.
+===============
+                                           
+
+[Skip to content](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Feshlox%2Fgatsby-theme-axii%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Feshlox%2Fgatsby-theme-axii%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=eshlox%2Fgatsby-theme-axii) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[eshlox](https://github.com/eshlox) / **[gatsby-theme-axii](https://github.com/eshlox/gatsby-theme-axii)** Public
+
+*   Sponsor
+    
+    Sponsor eshlox/gatsby-theme-axii
+    ================================
+    
+    ##### External links
+    
+    [https://www.buymeacoffee.com/eshlox](https://www.buymeacoffee.com/eshlox)
+    
+    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
+    
+    [Report abuse](https://github.com/contact/report-abuse?report=eshlox%2Fgatsby-theme-axii+%28Repository+Funding+Links%29)
+    
+*   [Notifications](https://github.com/login?return_to=%2Feshlox%2Fgatsby-theme-axii) You must be signed in to change notification settings
+*   [Fork 1](https://github.com/login?return_to=%2Feshlox%2Fgatsby-theme-axii)
+*   [Star 4](https://github.com/login?return_to=%2Feshlox%2Fgatsby-theme-axii)
+    
+
+AXII - A Gatsby blog theme.
+
+[gatsby-theme-axii.netlify.com](https://gatsby-theme-axii.netlify.com/ "https://gatsby-theme-axii.netlify.com")
+
+### License
+
+[MIT license](https://github.com/eshlox/gatsby-theme-axii/blob/master/LICENSE)
+
+[4 stars](https://github.com/eshlox/gatsby-theme-axii/stargazers) [1 fork](https://github.com/eshlox/gatsby-theme-axii/forks) [Branches](https://github.com/eshlox/gatsby-theme-axii/branches) [Tags](https://github.com/eshlox/gatsby-theme-axii/tags) [Activity](https://github.com/eshlox/gatsby-theme-axii/activity)
+
+[Star](https://github.com/login?return_to=%2Feshlox%2Fgatsby-theme-axii)
+
+[Notifications](https://github.com/login?return_to=%2Feshlox%2Fgatsby-theme-axii) You must be signed in to change notification settings
+
+*   [Code](https://github.com/eshlox/gatsby-theme-axii)
+*   [Issues 6](https://github.com/eshlox/gatsby-theme-axii/issues)
+*   [Pull requests 4](https://github.com/eshlox/gatsby-theme-axii/pulls)
+*   [Actions](https://github.com/eshlox/gatsby-theme-axii/actions)
+*   [Projects 0](https://github.com/eshlox/gatsby-theme-axii/projects)
+*   [Security](https://github.com/eshlox/gatsby-theme-axii/security)
+*   [Insights](https://github.com/eshlox/gatsby-theme-axii/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/eshlox/gatsby-theme-axii)
+*   [Issues](https://github.com/eshlox/gatsby-theme-axii/issues)
+*   [Pull requests](https://github.com/eshlox/gatsby-theme-axii/pulls)
+*   [Actions](https://github.com/eshlox/gatsby-theme-axii/actions)
+*   [Projects](https://github.com/eshlox/gatsby-theme-axii/projects)
+*   [Security](https://github.com/eshlox/gatsby-theme-axii/security)
+*   [Insights](https://github.com/eshlox/gatsby-theme-axii/pulse)
+
+eshlox/gatsby-theme-axii
+========================
+
+  
+
+ master
+
+[**15** Branches](https://github.com/eshlox/gatsby-theme-axii/branches)[**64** Tags](https://github.com/eshlox/gatsby-theme-axii/tags)
+
+[](https://github.com/eshlox/gatsby-theme-axii/branches)[](https://github.com/eshlox/gatsby-theme-axii/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 12: eshlox](https://avatars.githubusercontent.com/u/780763?v=4&size=40)](https://github.com/eshlox)[eshlox](https://github.com/eshlox/gatsby-theme-axii/commits?author=eshlox)
+
+[build(deps): update all dependencies](https://github.com/eshlox/gatsby-theme-axii/commit/7c1a00830290eaf05a55affc4376f6fa1b8a3410)
+
+Jul 31, 2020
+
+[7c1a008](https://github.com/eshlox/gatsby-theme-axii/commit/7c1a00830290eaf05a55affc4376f6fa1b8a3410) · Jul 31, 2020
+
+History
+-------
+
+[249 Commits](https://github.com/eshlox/gatsby-theme-axii/commits/master/)
+
+[](https://github.com/eshlox/gatsby-theme-axii/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/eshlox/gatsby-theme-axii/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/eshlox/gatsby-theme-axii/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[chore: create funding.yml](https://github.com/eshlox/gatsby-theme-axii/commit/f68141895a494e639b0a2365865e4aa0921fdbcf "chore: create funding.yml")
+
+
+
+ | 
+
+Nov 9, 2019
+
+ |
+| 
+
+[packages](https://github.com/eshlox/gatsby-theme-axii/tree/master/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[packages](https://github.com/eshlox/gatsby-theme-axii/tree/master/packages "packages")
+
+
+
+
+
+
+
+ | 
+
+[build(deps): update all dependencies](https://github.com/eshlox/gatsby-theme-axii/commit/7c1a00830290eaf05a55affc4376f6fa1b8a3410 "build(deps): update all dependencies")
+
+
+
+ | 
+
+Jul 31, 2020
+
+ |
+| 
+
+[.eslintignore](https://github.com/eshlox/gatsby-theme-axii/blob/master/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[.eslintignore](https://github.com/eshlox/gatsby-theme-axii/blob/master/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[feat(theme): improved layout, seo, eslint and many more changes](https://github.com/eshlox/gatsby-theme-axii/commit/087add082e30b5ded161890ec9b1afe0aa56cc0c "feat(theme): improved layout, seo, eslint and many more changes")
+
+
+
+ | 
+
+May 2, 2020
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/eshlox/gatsby-theme-axii/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/eshlox/gatsby-theme-axii/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[chore(eslint): jsx-a11y](https://github.com/eshlox/gatsby-theme-axii/commit/aeb21b6d5116e8021d9411fe38714e070a8c8cb3 "chore(eslint): jsx-a11y")
+
+
+
+ | 
+
+May 23, 2020
+
+ |
+| 
+
+[.gitignore](https://github.com/eshlox/gatsby-theme-axii/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/eshlox/gatsby-theme-axii/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[chore: update .gitignore](https://github.com/eshlox/gatsby-theme-axii/commit/9193a7405563496be1b212a1e16a7e6133d6f7c2 "chore: update .gitignore")
+
+
+
+ | 
+
+Nov 27, 2019
+
+ |
+| 
+
+[.nvmrc](https://github.com/eshlox/gatsby-theme-axii/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/eshlox/gatsby-theme-axii/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[fix(nodejs): update nodejs version to fix a bug with @urql/core](https://github.com/eshlox/gatsby-theme-axii/commit/f76096bb23560d9ce19fba1e3b3a41219dddd22d "fix(nodejs): update nodejs version to fix a bug with @urql/core")
+
+
+
+ | 
+
+May 26, 2020
+
+ |
+| 
+
+[LICENSE](https://github.com/eshlox/gatsby-theme-axii/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/eshlox/gatsby-theme-axii/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Initial commit](https://github.com/eshlox/gatsby-theme-axii/commit/7b218f7181e463375b258a54cea107b2a1140b61 "Initial commit")
+
+
+
+ | 
+
+Nov 1, 2019
+
+ |
+| 
+
+[README.md](https://github.com/eshlox/gatsby-theme-axii/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/eshlox/gatsby-theme-axii/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[refactor(monetization): use paymentPointer instead of coil keyword](https://github.com/eshlox/gatsby-theme-axii/commit/6ef57d17aded637bb6ae35be51178a51cd3e976f "refactor(monetization): use paymentPointer instead of coil keyword")
+
+
+
+ | 
+
+Jun 11, 2020
+
+ |
+| 
+
+[commitlint.config.js](https://github.com/eshlox/gatsby-theme-axii/blob/master/commitlint.config.js "commitlint.config.js")
+
+
+
+
+
+
+
+ | 
+
+[commitlint.config.js](https://github.com/eshlox/gatsby-theme-axii/blob/master/commitlint.config.js "commitlint.config.js")
+
+
+
+
+
+
+
+ | 
+
+[build: project setup, gatsbyjs, lerna, conventional commits](https://github.com/eshlox/gatsby-theme-axii/commit/e7b4993603dfb248a7b9010f91c7b2ebb2b1d77e "build: project setup, gatsbyjs, lerna, conventional commits")
+
+
+
+ | 
+
+Nov 2, 2019
+
+ |
+| 
+
+[lerna.json](https://github.com/eshlox/gatsby-theme-axii/blob/master/lerna.json "lerna.json")
+
+
+
+
+
+
+
+ | 
+
+[lerna.json](https://github.com/eshlox/gatsby-theme-axii/blob/master/lerna.json "lerna.json")
+
+
+
+
+
+
+
+ | 
+
+[fix(lerna): move publishConfig to package.json](https://github.com/eshlox/gatsby-theme-axii/commit/f3acb433420f953878a36e5b44cbf44d42f85118 "fix(lerna): move publishConfig to package.json")
+
+
+
+ | 
+
+Nov 17, 2019
+
+ |
+| 
+
+[netlify.toml](https://github.com/eshlox/gatsby-theme-axii/blob/master/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[netlify.toml](https://github.com/eshlox/gatsby-theme-axii/blob/master/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[build(netlify): netlify config](https://github.com/eshlox/gatsby-theme-axii/commit/6aed6c0726643b280dc0c4fa534964abe33e5214 "build(netlify): netlify config")
+
+
+
+ | 
+
+Apr 25, 2020
+
+ |
+| 
+
+[package.json](https://github.com/eshlox/gatsby-theme-axii/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/eshlox/gatsby-theme-axii/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[build(deps): update all dependencies](https://github.com/eshlox/gatsby-theme-axii/commit/7c1a00830290eaf05a55affc4376f6fa1b8a3410 "build(deps): update all dependencies")
+
+
+
+ | 
+
+Jul 31, 2020
+
+ |
+| 
+
+[tsconfig.json](https://github.com/eshlox/gatsby-theme-axii/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/eshlox/gatsby-theme-axii/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[feat(theme): material UI](https://github.com/eshlox/gatsby-theme-axii/commit/bb80ca4e11ae803fa287a5a0f6c42739a0e0ae8b "feat(theme): material UI
+\"fix #3\", \"fix #5\", \"fix #6\", \"fix #7\", \"fix #8\", \"fix #10\", \"fix #18\", \"fix #22\"")
+
+
+
+ | 
+
+Feb 16, 2020
+
+ |
+| 
+
+[yarn.lock](https://github.com/eshlox/gatsby-theme-axii/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/eshlox/gatsby-theme-axii/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[build(deps): update all dependencies](https://github.com/eshlox/gatsby-theme-axii/commit/7c1a00830290eaf05a55affc4376f6fa1b8a3410 "build(deps): update all dependencies")
+
+
+
+ | 
+
+Jul 31, 2020
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#)
+*   [MIT license](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#)
+
+[![Image 13: AXII - A Gatsby blog theme](https://github.com/eshlox/gatsby-theme-axii/raw/master/packages/site/static/og-default.png)](https://github.com/eshlox/gatsby-theme-axii/blob/master/packages/site/static/og-default.png)
+
+AXII - A Gatsby blog theme
+==========================
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#axii---a-gatsby-blog-theme)
+
+[![Image 14: Netlify Status](https://camo.githubusercontent.com/3bd6a3f5b1e4b1cfb81e028bb682cf9136d0b572d871d368c292de38f89b2ed5/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f65373938396262392d633633632d343637302d393133362d6562653535343534353965642f6465706c6f792d737461747573)](https://app.netlify.com/sites/gatsby-theme-axii/deploys) [![Image 15: NPM Licence](https://camo.githubusercontent.com/c7071c145d4522ad6123eb2852da02ee69bf05bc6a43731c208ff998384271c8/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f406573686c6f782f6761747362792d7468656d652d61786969)](https://camo.githubusercontent.com/c7071c145d4522ad6123eb2852da02ee69bf05bc6a43731c208ff998384271c8/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f406573686c6f782f6761747362792d7468656d652d61786969) [![Image 16: npm](https://camo.githubusercontent.com/baf9b686232c04549bbadc557999d3cbed78e7dafa8be842a06c85691c560898/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f406573686c6f782f6761747362792d7468656d652d61786969)](https://camo.githubusercontent.com/baf9b686232c04549bbadc557999d3cbed78e7dafa8be842a06c85691c560898/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f406573686c6f782f6761747362792d7468656d652d61786969)
+
+Demo
+----
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#demo)
+
+*   [https://gatsby-theme-axii.netlify.app](https://gatsby-theme-axii.netlify.app/)
+*   [https://eshlox.net](https://eshlox.net/)
+
+Features
+--------
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#features)
+
+*   Markdown/MDX support
+*   Material UI
+*   Code syntax highlighter
+*   Responsive images
+*   Aloglia search
+*   Light/Dark mode
+*   SEO
+*   RSS
+*   Sitemap
+*   Sentry support
+*   Twitter & Youtube embeds support
+*   Web monetization support
+
+Theme documentation
+-------------------
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#theme-documentation)
+
+[https://github.com/eshlox/gatsby-theme-axii/blob/master/packages/gatsby-theme-axii/README.md](https://github.com/eshlox/gatsby-theme-axii/blob/master/packages/gatsby-theme-axii/README.md)
+
+Development
+-----------
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#development)
+
+This repository uses [yarn workspaces](https://yarnpkg.com/lang/en/docs/workspaces/), [conventional commits](https://www.conventionalcommits.org/) and [lerna](https://lerna.js.org/).
+
+### Install all dependencies
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#install-all-dependencies)
+
+```shell
+npx lerna bootstrap
+```
+
+### Run the development server
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#run-the-development-server)
+
+```shell
+yarn workspace site develop
+```
+
+### Build the website
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#build-the-website)
+
+```shell
+yarn workspace site build
+```
+
+### Publish packages to NPM
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#publish-packages-to-npm)
+
+```shell
+HUSKY_SKIP_HOOKS=1 GH_TOKEN=GITHUB-TOKEN lerna publish
+```
+
+Yarn
+----
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#yarn)
+
+### Add a package
+
+[](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#add-a-package)
+
+```shell
+yarn workspace @eshlox/gatsby-theme-axii add packageName
+```
+
+About
+-----
+
+AXII - A Gatsby blog theme.
+
+[gatsby-theme-axii.netlify.com](https://gatsby-theme-axii.netlify.com/ "https://gatsby-theme-axii.netlify.com")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [typescript](https://github.com/topics/typescript "Topic: typescript") [gatsby](https://github.com/topics/gatsby "Topic: gatsby") [blog-theme](https://github.com/topics/blog-theme "Topic: blog-theme") [gatsby-theme](https://github.com/topics/gatsby-theme "Topic: gatsby-theme")
+
+### Resources
+
+[Readme](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/eshlox/gatsby-theme-axii?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/eshlox/gatsby-theme-axii/activity)
+
+### Stars
+
+[**4** stars](https://github.com/eshlox/gatsby-theme-axii/stargazers)
+
+### Watchers
+
+[**1** watching](https://github.com/eshlox/gatsby-theme-axii/watchers)
+
+### Forks
+
+[**1** fork](https://github.com/eshlox/gatsby-theme-axii/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Feshlox%2Fgatsby-theme-axii&report=eshlox+%28user%29)
+
+[Releases 62](https://github.com/eshlox/gatsby-theme-axii/releases)
+-------------------------------------------------------------------
+
+[site@0.11.1 Latest Jul 9, 2020](https://github.com/eshlox/gatsby-theme-axii/releases/tag/site%400.11.1)
+
+[\+ 61 releases](https://github.com/eshlox/gatsby-theme-axii/releases)
+
+Sponsor this project
+--------------------
+
+*   [https://www.buymeacoffee.com/eshlox](https://www.buymeacoffee.com/eshlox)
+
+[Packages 0](https://github.com/users/eshlox/packages?repo_name=gatsby-theme-axii)
+----------------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 2](https://github.com/eshlox/gatsby-theme-axii/graphs/contributors)
+---------------------------------------------------------------------------------
+
+*    [![Image 17: @eshlox](https://avatars.githubusercontent.com/u/780763?s=64&v=4)](https://github.com/eshlox)[**eshlox** Przemysław Kołodziejczyk](https://github.com/eshlox)
+*    [![Image 18: @dependabot-preview[bot]](https://avatars.githubusercontent.com/in/2141?s=64&v=4)](https://github.com/apps/dependabot-preview)[**dependabot-preview\[bot\]**](https://github.com/apps/dependabot-preview)
+
+Languages
+---------
+
+*   [TypeScript 73.0%](https://github.com/eshlox/gatsby-theme-axii/search?l=typescript)
+*   [JavaScript 27.0%](https://github.com/eshlox/gatsby-theme-axii/search?l=javascript)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

@@ -1,0 +1,205 @@
+---
+title: Uploading CSV and JSONL Files to Trieve - Trieve
+description: Learn how to upload bulk structured data to Trieve
+url: https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files
+timestamp: 2025-01-20T16:18:57.867Z
+domain: docs.trieve.ai
+path: guides_uploading-csv-and-jsonl-files
+---
+
+# Uploading CSV and JSONL Files to Trieve - Trieve
+
+
+Learn how to upload bulk structured data to Trieve
+
+
+## Content
+
+Uploading CSV and JSONL Files to Trieve - Trieve
+===============
+ 
+
+[Trieve home page![Image 3: light logo](https://mintlify.s3.us-west-1.amazonaws.com/trieve/icons/trieve-logo.png)![Image 4: dark logo](https://mintlify.s3.us-west-1.amazonaws.com/trieve/icons/trieve-logo.png)](https://trieve.ai/)
+
+Search or ask...
+
+*   [Support](mailto:humans@trieve.ai)
+*   [Dashboard](https://dashboard.trieve.ai/)
+*   [devflowinc/trieve](https://github.com/devflowinc/trieve)
+*   [devflowinc/trieve](https://github.com/devflowinc/trieve)
+
+Search...
+
+Navigation
+
+Guides
+
+Uploading CSV and JSONL Files to Trieve
+
+[Documentation](https://docs.trieve.ai/getting-started/introduction)[API Reference](https://docs.trieve.ai/api-reference/chunk/create-or-upsert-chunk-or-chunks)[Vector Inference](https://docs.trieve.ai/vector-inference/introduction)[Site Search](https://docs.trieve.ai/site-search/introduction)
+
+*   [TypeScript SDK](https://ts-sdk.trieve.ai/)
+*   [Github](https://github.com/devflowinc/trieve)
+*   [Community](https://discord.com/invite/E9sPRZqpDT)
+*   [Blog](https://trieve.ai/blog)
+
+##### Get Started
+
+*   [Introduction](https://docs.trieve.ai/getting-started/introduction)
+*   [Quickstart](https://docs.trieve.ai/getting-started/quickstart)
+*   [Trieve Primitives](https://docs.trieve.ai/getting-started/trieve-primitives)
+*   [Screenshots](https://docs.trieve.ai/getting-started/screenshots)
+
+##### Self Hosting
+
+*   [Docker Compose Setup](https://docs.trieve.ai/self-hosting/docker-compose)
+*   [Local Kubernetes Setup](https://docs.trieve.ai/self-hosting/local-kube)
+*   [AWS Self Hosting](https://docs.trieve.ai/self-hosting/aws)
+*   [GCP Self Hosting](https://docs.trieve.ai/self-hosting/gcp)
+*   [Azure](https://docs.trieve.ai/self-hosting/azure)
+
+##### Guides
+
+*   [Uploading Chunks to Trieve](https://docs.trieve.ai/guides/create-chunk)
+*   [Uploading Files to Trieve](https://docs.trieve.ai/guides/uploading-files)
+*   [Uploading CSV and JSONL Files to Trieve](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files)
+*   [Searching with Trieve](https://docs.trieve.ai/guides/searching-with-trieve)
+*   [Recommending with Trieve](https://docs.trieve.ai/guides/recommending-with-trieve)
+*   [RAG with Trieve](https://docs.trieve.ai/guides/RAG-with-trieve)
+*   [Analytics with Trieve](https://docs.trieve.ai/guides/analytics-quickstart)
+*   [Multi-tenant applications with Trieve](https://docs.trieve.ai/guides/multi-tenency)
+*   [Using Groups with Trieve](https://docs.trieve.ai/guides/group-with-trieve)
+*   [Using Exposed API keys with Trieve](https://docs.trieve.ai/guides/using-exposed-api-keys)
+
+##### Examples
+
+*   [Build Search for a Job Board](https://docs.trieve.ai/examples/job-board)
+*   [Build Search for Ecommerce](https://docs.trieve.ai/examples/ecommerce)
+
+Guides
+
+Uploading CSV and JSONL Files to Trieve
+=======================================
+
+Learn how to upload bulk structured data to Trieve
+
+[​](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#overview)
+
+Overview
+-------------------------------------------------------------------------------------
+
+Trieve allows you to upload structured data in CSV and JSONL formats. We automatically create chunks for each row in the file, allowing you to search and filter your data easily.
+
+[​](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#uploading-a-csv-or-jsonl-file-to-trieve)
+
+Uploading a CSV or JSONL File to Trieve
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Since CSV and JSONL files can be large, our API allows you to provision a signed PUT URL to upload the file directly to our storage. Once the file is uploaded, Trieve will automatically process the file and create chunks for each row.
+
+### 
+
+[​](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#step-1-request-a-signed-put-url)
+
+Step 1: Request a Signed PUT URL
+
+Use the [/api/file/csv\_or\_jsonl](https://docs.trieve.ai/api-reference/file/create-presigned-url-for-csv-jsonl) to acquire a signed PUT URL for your CSV or JSONL file from the Trieve API. This URL is valid for 24 hours and allows you to upload the file directly to our storage.
+
+You can leverage the `mappings` field to control how the columns in the CSV or fields in the JSONL file are mapped to the chunks created by Trieve. This is optional and can be used to ensure that the data is structured correctly.
+
+```sh
+curl -X POST "https://api.trieve.ai/api/file/csv_or_jsonl" \
+  -H "Content-Type: application/json" \
+  -H "TR-Dataset: <Your Dataset ID>" \
+  -H "Authorization: <Your API Key>" \
+  -d '{
+    "description": "This is an example file containing information about titanic passengers.",
+    "file_name": "titantic.csv",
+    "mappings": [
+      {
+        "csv_jsonl_field": "PassengerId",
+        "chunk_req_payload_field": "tracking_id"
+      },
+      {
+        "csv_jsonl_field": "Survived",
+        "chunk_req_payload_field": "tag_set"
+      },
+      {
+        "csv_jsonl_field": "Fare",
+        "chunk_req_payload_field": "num_value"
+      }
+    ],
+    "link": "https://raw.githubusercontent.com/datasciencedojo/datasets/refs/heads/master/titanic.csv"
+  }'
+```
+
+Trieve’s API will respond with an object containing the signed PUT URL and the file’s properties as shown in the below example.
+
+```json
+{
+  "file_metadata": {
+    "id": "9ab52e58-0b38-4e4c-b114-139337f0548e",
+    "file_name": "titantic.csv",
+    "created_at": "2024-12-07T06:00:13.984143747",
+    "updated_at": "2024-12-07T06:00:13.984144067",
+    "size": 0,
+    "metadata": null,
+    "link": "https://raw.githubusercontent.com/datasciencedojo/datasets/refs/heads/master/titanic.csv",
+    "time_stamp": null,
+    "dataset_id": "<Your Dataset ID>",
+    "tag_set": null
+  },
+  "presigned_put_url": "https://trieve-s3bucket.s3.amazonaws.com/trieve-s3bucket/<id>"
+}
+```
+
+### 
+
+[​](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#step-2-upload-the-file-to-the-signed-put-url)
+
+Step 2: Upload the File to the Signed PUT URL
+
+Use the signed PUT URL provided by Trieve to upload the CSV or JSONL file to our storage. You can use tools like `curl`, `wget`, or any other HTTP client to upload the file.
+
+```sh
+curl -o ./titanic.csv https://raw.githubusercontent.com/datasciencedojo/datasets/refs/heads/master/titanic.csv
+
+curl -X PUT -T ./titanic.csv "<Presigned PUT URL>"
+```
+
+You are now done with the file upload process. Trieve will automatically process the file and create chunks for each row. You can check the progress by migrating your dataset’s chunk count in the [dashboard](https://dashboard.trieve.ai/) and test via the [search playground](https://search.trieve.ai/) or [chat playground](https://chat.trieve.ai/).
+
+[​](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#advanced-options)
+
+Advanced Options
+-----------------------------------------------------------------------------------------------------
+
+Additional options are available to customize the csv or jsonl file upload process. Reference the documentation for our [/api/file/csv\_or\_jsonl](https://docs.trieve.ai/api-reference/file/create-presigned-url-for-csv-jsonl) route for more information.
+
+[Uploading Files to Trieve](https://docs.trieve.ai/guides/uploading-files)[Searching with Trieve](https://docs.trieve.ai/guides/searching-with-trieve)
+
+[x](https://x.com/trieveai)[discord](https://discord.gg/eBJXXZDB8z)[github](https://github.com/devflowinc)[linkedin](https://www.linkedin.com/company/trieveai)[website](https://trieve.ai/)
+
+[Powered by Mintlify](https://mintlify.com/preview-request?utm_campaign=poweredBy&utm_medium=docs&utm_source=docs.trieve.ai)
+
+On this page
+
+*   [Overview](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#overview)
+*   [Uploading a CSV or JSONL File to Trieve](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#uploading-a-csv-or-jsonl-file-to-trieve)
+*   [Step 1: Request a Signed PUT URL](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#step-1-request-a-signed-put-url)
+*   [Step 2: Upload the File to the Signed PUT URL](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#step-2-upload-the-file-to-the-signed-put-url)
+*   [Advanced Options](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#advanced-options)
+
+## Metadata
+
+```json
+{
+  "title": "Uploading CSV and JSONL Files to Trieve - Trieve",
+  "description": "Learn how to upload bulk structured data to Trieve",
+  "url": "https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files",
+  "content": "Uploading CSV and JSONL Files to Trieve - Trieve\n===============\n \n\n[Trieve home page![Image 3: light logo](https://mintlify.s3.us-west-1.amazonaws.com/trieve/icons/trieve-logo.png)![Image 4: dark logo](https://mintlify.s3.us-west-1.amazonaws.com/trieve/icons/trieve-logo.png)](https://trieve.ai/)\n\nSearch or ask...\n\n*   [Support](mailto:humans@trieve.ai)\n*   [Dashboard](https://dashboard.trieve.ai/)\n*   [devflowinc/trieve](https://github.com/devflowinc/trieve)\n*   [devflowinc/trieve](https://github.com/devflowinc/trieve)\n\nSearch...\n\nNavigation\n\nGuides\n\nUploading CSV and JSONL Files to Trieve\n\n[Documentation](https://docs.trieve.ai/getting-started/introduction)[API Reference](https://docs.trieve.ai/api-reference/chunk/create-or-upsert-chunk-or-chunks)[Vector Inference](https://docs.trieve.ai/vector-inference/introduction)[Site Search](https://docs.trieve.ai/site-search/introduction)\n\n*   [TypeScript SDK](https://ts-sdk.trieve.ai/)\n*   [Github](https://github.com/devflowinc/trieve)\n*   [Community](https://discord.com/invite/E9sPRZqpDT)\n*   [Blog](https://trieve.ai/blog)\n\n##### Get Started\n\n*   [Introduction](https://docs.trieve.ai/getting-started/introduction)\n*   [Quickstart](https://docs.trieve.ai/getting-started/quickstart)\n*   [Trieve Primitives](https://docs.trieve.ai/getting-started/trieve-primitives)\n*   [Screenshots](https://docs.trieve.ai/getting-started/screenshots)\n\n##### Self Hosting\n\n*   [Docker Compose Setup](https://docs.trieve.ai/self-hosting/docker-compose)\n*   [Local Kubernetes Setup](https://docs.trieve.ai/self-hosting/local-kube)\n*   [AWS Self Hosting](https://docs.trieve.ai/self-hosting/aws)\n*   [GCP Self Hosting](https://docs.trieve.ai/self-hosting/gcp)\n*   [Azure](https://docs.trieve.ai/self-hosting/azure)\n\n##### Guides\n\n*   [Uploading Chunks to Trieve](https://docs.trieve.ai/guides/create-chunk)\n*   [Uploading Files to Trieve](https://docs.trieve.ai/guides/uploading-files)\n*   [Uploading CSV and JSONL Files to Trieve](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files)\n*   [Searching with Trieve](https://docs.trieve.ai/guides/searching-with-trieve)\n*   [Recommending with Trieve](https://docs.trieve.ai/guides/recommending-with-trieve)\n*   [RAG with Trieve](https://docs.trieve.ai/guides/RAG-with-trieve)\n*   [Analytics with Trieve](https://docs.trieve.ai/guides/analytics-quickstart)\n*   [Multi-tenant applications with Trieve](https://docs.trieve.ai/guides/multi-tenency)\n*   [Using Groups with Trieve](https://docs.trieve.ai/guides/group-with-trieve)\n*   [Using Exposed API keys with Trieve](https://docs.trieve.ai/guides/using-exposed-api-keys)\n\n##### Examples\n\n*   [Build Search for a Job Board](https://docs.trieve.ai/examples/job-board)\n*   [Build Search for Ecommerce](https://docs.trieve.ai/examples/ecommerce)\n\nGuides\n\nUploading CSV and JSONL Files to Trieve\n=======================================\n\nLearn how to upload bulk structured data to Trieve\n\n[​](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#overview)\n\nOverview\n-------------------------------------------------------------------------------------\n\nTrieve allows you to upload structured data in CSV and JSONL formats. We automatically create chunks for each row in the file, allowing you to search and filter your data easily.\n\n[​](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#uploading-a-csv-or-jsonl-file-to-trieve)\n\nUploading a CSV or JSONL File to Trieve\n---------------------------------------------------------------------------------------------------------------------------------------------------\n\nSince CSV and JSONL files can be large, our API allows you to provision a signed PUT URL to upload the file directly to our storage. Once the file is uploaded, Trieve will automatically process the file and create chunks for each row.\n\n### \n\n[​](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#step-1-request-a-signed-put-url)\n\nStep 1: Request a Signed PUT URL\n\nUse the [/api/file/csv\\_or\\_jsonl](https://docs.trieve.ai/api-reference/file/create-presigned-url-for-csv-jsonl) to acquire a signed PUT URL for your CSV or JSONL file from the Trieve API. This URL is valid for 24 hours and allows you to upload the file directly to our storage.\n\nYou can leverage the `mappings` field to control how the columns in the CSV or fields in the JSONL file are mapped to the chunks created by Trieve. This is optional and can be used to ensure that the data is structured correctly.\n\n```sh\ncurl -X POST \"https://api.trieve.ai/api/file/csv_or_jsonl\" \\\n  -H \"Content-Type: application/json\" \\\n  -H \"TR-Dataset: <Your Dataset ID>\" \\\n  -H \"Authorization: <Your API Key>\" \\\n  -d '{\n    \"description\": \"This is an example file containing information about titanic passengers.\",\n    \"file_name\": \"titantic.csv\",\n    \"mappings\": [\n      {\n        \"csv_jsonl_field\": \"PassengerId\",\n        \"chunk_req_payload_field\": \"tracking_id\"\n      },\n      {\n        \"csv_jsonl_field\": \"Survived\",\n        \"chunk_req_payload_field\": \"tag_set\"\n      },\n      {\n        \"csv_jsonl_field\": \"Fare\",\n        \"chunk_req_payload_field\": \"num_value\"\n      }\n    ],\n    \"link\": \"https://raw.githubusercontent.com/datasciencedojo/datasets/refs/heads/master/titanic.csv\"\n  }'\n```\n\nTrieve’s API will respond with an object containing the signed PUT URL and the file’s properties as shown in the below example.\n\n```json\n{\n  \"file_metadata\": {\n    \"id\": \"9ab52e58-0b38-4e4c-b114-139337f0548e\",\n    \"file_name\": \"titantic.csv\",\n    \"created_at\": \"2024-12-07T06:00:13.984143747\",\n    \"updated_at\": \"2024-12-07T06:00:13.984144067\",\n    \"size\": 0,\n    \"metadata\": null,\n    \"link\": \"https://raw.githubusercontent.com/datasciencedojo/datasets/refs/heads/master/titanic.csv\",\n    \"time_stamp\": null,\n    \"dataset_id\": \"<Your Dataset ID>\",\n    \"tag_set\": null\n  },\n  \"presigned_put_url\": \"https://trieve-s3bucket.s3.amazonaws.com/trieve-s3bucket/<id>\"\n}\n```\n\n### \n\n[​](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#step-2-upload-the-file-to-the-signed-put-url)\n\nStep 2: Upload the File to the Signed PUT URL\n\nUse the signed PUT URL provided by Trieve to upload the CSV or JSONL file to our storage. You can use tools like `curl`, `wget`, or any other HTTP client to upload the file.\n\n```sh\ncurl -o ./titanic.csv https://raw.githubusercontent.com/datasciencedojo/datasets/refs/heads/master/titanic.csv\n\ncurl -X PUT -T ./titanic.csv \"<Presigned PUT URL>\"\n```\n\nYou are now done with the file upload process. Trieve will automatically process the file and create chunks for each row. You can check the progress by migrating your dataset’s chunk count in the [dashboard](https://dashboard.trieve.ai/) and test via the [search playground](https://search.trieve.ai/) or [chat playground](https://chat.trieve.ai/).\n\n[​](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#advanced-options)\n\nAdvanced Options\n-----------------------------------------------------------------------------------------------------\n\nAdditional options are available to customize the csv or jsonl file upload process. Reference the documentation for our [/api/file/csv\\_or\\_jsonl](https://docs.trieve.ai/api-reference/file/create-presigned-url-for-csv-jsonl) route for more information.\n\n[Uploading Files to Trieve](https://docs.trieve.ai/guides/uploading-files)[Searching with Trieve](https://docs.trieve.ai/guides/searching-with-trieve)\n\n[x](https://x.com/trieveai)[discord](https://discord.gg/eBJXXZDB8z)[github](https://github.com/devflowinc)[linkedin](https://www.linkedin.com/company/trieveai)[website](https://trieve.ai/)\n\n[Powered by Mintlify](https://mintlify.com/preview-request?utm_campaign=poweredBy&utm_medium=docs&utm_source=docs.trieve.ai)\n\nOn this page\n\n*   [Overview](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#overview)\n*   [Uploading a CSV or JSONL File to Trieve](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#uploading-a-csv-or-jsonl-file-to-trieve)\n*   [Step 1: Request a Signed PUT URL](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#step-1-request-a-signed-put-url)\n*   [Step 2: Upload the File to the Signed PUT URL](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#step-2-upload-the-file-to-the-signed-put-url)\n*   [Advanced Options](https://docs.trieve.ai/guides/uploading-csv-and-jsonl-files#advanced-options)",
+  "usage": {
+    "tokens": 2179
+  }
+}
+```

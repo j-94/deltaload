@@ -1,0 +1,760 @@
+GitHub - jeremylynch/gatsby-strapi-starter: Ultimate Gatsby Starter
+===============
+                                           
+
+[Skip to content](https://github.com/jeremylynch/gatsby-strapi-starter?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjeremylynch%2Fgatsby-strapi-starter%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjeremylynch%2Fgatsby-strapi-starter%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=jeremylynch%2Fgatsby-strapi-starter) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[jeremylynch](https://github.com/jeremylynch) / **[gatsby-strapi-starter](https://github.com/jeremylynch/gatsby-strapi-starter)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fjeremylynch%2Fgatsby-strapi-starter) You must be signed in to change notification settings
+*   [Fork 13](https://github.com/login?return_to=%2Fjeremylynch%2Fgatsby-strapi-starter)
+*   [Star 63](https://github.com/login?return_to=%2Fjeremylynch%2Fgatsby-strapi-starter)
+    
+
+Ultimate Gatsby Starter
+
+[gatsby-strapi-starter.netlify.com/](https://gatsby-strapi-starter.netlify.com/ "https://gatsby-strapi-starter.netlify.com/")
+
+[63 stars](https://github.com/jeremylynch/gatsby-strapi-starter/stargazers) [13 forks](https://github.com/jeremylynch/gatsby-strapi-starter/forks) [Branches](https://github.com/jeremylynch/gatsby-strapi-starter/branches) [Tags](https://github.com/jeremylynch/gatsby-strapi-starter/tags) [Activity](https://github.com/jeremylynch/gatsby-strapi-starter/activity)
+
+[Star](https://github.com/login?return_to=%2Fjeremylynch%2Fgatsby-strapi-starter)
+
+[Notifications](https://github.com/login?return_to=%2Fjeremylynch%2Fgatsby-strapi-starter) You must be signed in to change notification settings
+
+*   [Code](https://github.com/jeremylynch/gatsby-strapi-starter)
+*   [Issues 2](https://github.com/jeremylynch/gatsby-strapi-starter/issues)
+*   [Pull requests 1](https://github.com/jeremylynch/gatsby-strapi-starter/pulls)
+*   [Actions](https://github.com/jeremylynch/gatsby-strapi-starter/actions)
+*   [Projects 0](https://github.com/jeremylynch/gatsby-strapi-starter/projects)
+*   [Security](https://github.com/jeremylynch/gatsby-strapi-starter/security)
+*   [Insights](https://github.com/jeremylynch/gatsby-strapi-starter/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/jeremylynch/gatsby-strapi-starter)
+*   [Issues](https://github.com/jeremylynch/gatsby-strapi-starter/issues)
+*   [Pull requests](https://github.com/jeremylynch/gatsby-strapi-starter/pulls)
+*   [Actions](https://github.com/jeremylynch/gatsby-strapi-starter/actions)
+*   [Projects](https://github.com/jeremylynch/gatsby-strapi-starter/projects)
+*   [Security](https://github.com/jeremylynch/gatsby-strapi-starter/security)
+*   [Insights](https://github.com/jeremylynch/gatsby-strapi-starter/pulse)
+
+jeremylynch/gatsby-strapi-starter
+=================================
+
+  
+
+ master
+
+[**1** Branch](https://github.com/jeremylynch/gatsby-strapi-starter/branches)[**0** Tags](https://github.com/jeremylynch/gatsby-strapi-starter/tags)
+
+[](https://github.com/jeremylynch/gatsby-strapi-starter/branches)[](https://github.com/jeremylynch/gatsby-strapi-starter/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 3: jeremylynch](https://avatars.githubusercontent.com/u/3665457?v=4&size=40)](https://github.com/jeremylynch)[jeremylynch](https://github.com/jeremylynch/gatsby-strapi-starter/commits?author=jeremylynch)
+
+[Update README.md](https://github.com/jeremylynch/gatsby-strapi-starter/commit/6a601c4de83b70e491019d33d75ef73b7d36dccb)
+
+Aug 3, 2021
+
+[6a601c4](https://github.com/jeremylynch/gatsby-strapi-starter/commit/6a601c4de83b70e491019d33d75ef73b7d36dccb) · Aug 3, 2021
+
+History
+-------
+
+[77 Commits](https://github.com/jeremylynch/gatsby-strapi-starter/commits/master/)
+
+[](https://github.com/jeremylynch/gatsby-strapi-starter/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[src](https://github.com/jeremylynch/gatsby-strapi-starter/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/jeremylynch/gatsby-strapi-starter/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[Update testimonials.js](https://github.com/jeremylynch/gatsby-strapi-starter/commit/4f0859deaeac2f687d6aec8bc7af5e1e43280046 "Update testimonials.js")
+
+
+
+ | 
+
+Jun 8, 2021
+
+ |
+| 
+
+[.eslintrc](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/.eslintrc ".eslintrc")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/.eslintrc ".eslintrc")
+
+
+
+
+
+
+
+ | 
+
+[Fixed js console warnings: updated all libs. About to prettier src/\*](https://github.com/jeremylynch/gatsby-strapi-starter/commit/017de98697f4fd4208f2b4ae10ce3747a5b86186 "Fixed js console warnings: updated all libs. About to prettier src/*")
+
+
+
+ | 
+
+Mar 11, 2021
+
+ |
+| 
+
+[.gitignore](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[initial commit](https://github.com/jeremylynch/gatsby-strapi-starter/commit/097487f1429d4793bda49f7357fd46fff59b98c9 "initial commit")
+
+
+
+ | 
+
+Nov 3, 2019
+
+ |
+| 
+
+[.node-version](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/.node-version ".node-version")
+
+
+
+
+
+
+
+ | 
+
+[.node-version](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/.node-version ".node-version")
+
+
+
+
+
+
+
+ | 
+
+[Create .node-version](https://github.com/jeremylynch/gatsby-strapi-starter/commit/480591277b38a3f3c4a5685dcf9b3ab4de37c21f "Create .node-version")
+
+
+
+ | 
+
+Mar 3, 2021
+
+ |
+| 
+
+[.prettierignore](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[initial commit](https://github.com/jeremylynch/gatsby-strapi-starter/commit/097487f1429d4793bda49f7357fd46fff59b98c9 "initial commit")
+
+
+
+ | 
+
+Nov 3, 2019
+
+ |
+| 
+
+[.prettierrc](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[initial commit](https://github.com/jeremylynch/gatsby-strapi-starter/commit/097487f1429d4793bda49f7357fd46fff59b98c9 "initial commit")
+
+
+
+ | 
+
+Nov 3, 2019
+
+ |
+| 
+
+[README.md](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Update README.md](https://github.com/jeremylynch/gatsby-strapi-starter/commit/6a601c4de83b70e491019d33d75ef73b7d36dccb "Update README.md")
+
+
+
+ | 
+
+Aug 3, 2021
+
+ |
+| 
+
+[gatsby-browser.js](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-browser.js](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[initial commit](https://github.com/jeremylynch/gatsby-strapi-starter/commit/097487f1429d4793bda49f7357fd46fff59b98c9 "initial commit")
+
+
+
+ | 
+
+Nov 3, 2019
+
+ |
+| 
+
+[gatsby-config.js](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-config.js](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[Switch to preact](https://github.com/jeremylynch/gatsby-strapi-starter/commit/028711ba7ea09a88d40a821df4a71a31024d848e "Switch to preact")
+
+
+
+ | 
+
+May 15, 2021
+
+ |
+| 
+
+[gatsby-node.js](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-node.js](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[initial commit](https://github.com/jeremylynch/gatsby-strapi-starter/commit/097487f1429d4793bda49f7357fd46fff59b98c9 "initial commit")
+
+
+
+ | 
+
+Nov 3, 2019
+
+ |
+| 
+
+[gatsby-ssr.js](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-ssr.js](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[initial commit](https://github.com/jeremylynch/gatsby-strapi-starter/commit/097487f1429d4793bda49f7357fd46fff59b98c9 "initial commit")
+
+
+
+ | 
+
+Nov 3, 2019
+
+ |
+| 
+
+[package-lock.json](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[Switch to preact](https://github.com/jeremylynch/gatsby-strapi-starter/commit/028711ba7ea09a88d40a821df4a71a31024d848e "Switch to preact")
+
+
+
+ | 
+
+May 15, 2021
+
+ |
+| 
+
+[package.json](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/jeremylynch/gatsby-strapi-starter/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Switch to preact](https://github.com/jeremylynch/gatsby-strapi-starter/commit/028711ba7ea09a88d40a821df4a71a31024d848e "Switch to preact")
+
+
+
+ | 
+
+May 15, 2021
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/jeremylynch/gatsby-strapi-starter?screenshot=true#)
+
+[![Image 4: Gatsby](https://camo.githubusercontent.com/374bcd9d2b474f551301d0e287f1f2973da18fda21352d0359b385157eac5d14/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667)](https://www.gatsbyjs.org/)
+
+Gatsby Landing Page Starter
+===========================
+
+[](https://github.com/jeremylynch/gatsby-strapi-starter?screenshot=true#--gatsby-landing-page-starter)
+
+A (slightly) opinionated Gatsby boilerplate to get started fast. Stack includes:
+
+*   [Bootstrap](https://getbootstrap.com/)
+*   [Reactstrap](https://reactstrap.github.io/)
+*   [Reactstrap-form-fields](https://github.com/jeremylynch/reactstrap-form-fields)
+*   [Reactstrap-json-nav](https://github.com/jeremylynch/reactstrap-json-nav)
+*   [React Icons](https://github.com/react-icons/react-icons)
+*   [Google Tag Manager](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-google-tagmanager)
+*   [gatsby-plugin-netlify](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-netlify)
+*   [gatsby-plugin-google-tagmanager](https://www.gatsbyjs.org/packages/gatsby-plugin-google-tagmanager/)
+*   [gatsby-plugin-facebook-pixel](https://www.gatsbyjs.org/packages/gatsby-plugin-facebook-pixel)
+*   [gatsby-plugin-manifest](https://www.gatsbyjs.com/plugins/gatsby-plugin-manifest/)
+*   [gatsby-plugin-styled-components](https://www.gatsbyjs.org/packages/gatsby-plugin-styled-components/)
+
+[View Demo](https://gatsby-strapi-starter.netlify.com/)
+
+🚀 Quick start
+--------------
+
+[](https://github.com/jeremylynch/gatsby-strapi-starter?screenshot=true#-quick-start)
+
+```shell
+gatsby new gatsby-strapi-website https://github.com/jeremylynch/gatsby-strapi-starter
+```
+
+Testing Notes
+=============
+
+[](https://github.com/jeremylynch/gatsby-strapi-starter?screenshot=true#testing-notes)
+
+This code currently cleanly passes the following checks
+
+*   `npm outdated`
+*   `npm audit`
+*   `npm run lint`
+*   `npm run reformat`
+*   No warnings in JavaScript console, nor logged to terminal
+
+Outstanding Tests
+-----------------
+
+[](https://github.com/jeremylynch/gatsby-strapi-starter?screenshot=true#outstanding-tests)
+
+*   JS console occasionally logs `http://localhost:8000/page-data/test/page-data.json   404 (not found)` -- This likely comes from `node_modules/gatsby/cache-dir/loader.js`or`.../cache-dir/commons/loader.js`
+*   Chrome warning: `[Deprecation] SharedArrayBuffer will require cross-origin isolation as of M91` -- Outside the scope of Gatsby; likely requires a React library upgrade
+*   Form submit button requires an implementation in the Contact page
+
+About
+-----
+
+Ultimate Gatsby Starter
+
+[gatsby-strapi-starter.netlify.com/](https://gatsby-strapi-starter.netlify.com/ "https://gatsby-strapi-starter.netlify.com/")
+
+### Resources
+
+[Readme](https://github.com/jeremylynch/gatsby-strapi-starter?screenshot=true#readme-ov-file)
+
+[Activity](https://github.com/jeremylynch/gatsby-strapi-starter/activity)
+
+### Stars
+
+[**63** stars](https://github.com/jeremylynch/gatsby-strapi-starter/stargazers)
+
+### Watchers
+
+[**5** watching](https://github.com/jeremylynch/gatsby-strapi-starter/watchers)
+
+### Forks
+
+[**13** forks](https://github.com/jeremylynch/gatsby-strapi-starter/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fjeremylynch%2Fgatsby-strapi-starter&report=jeremylynch+%28user%29)
+
+[Releases](https://github.com/jeremylynch/gatsby-strapi-starter/releases)
+-------------------------------------------------------------------------
+
+No releases published
+
+[Packages 0](https://github.com/users/jeremylynch/packages?repo_name=gatsby-strapi-starter)
+-------------------------------------------------------------------------------------------
+
+No packages published  
+
+Languages
+---------
+
+*   [JavaScript 91.7%](https://github.com/jeremylynch/gatsby-strapi-starter/search?l=javascript)
+*   [SCSS 8.3%](https://github.com/jeremylynch/gatsby-strapi-starter/search?l=scss)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

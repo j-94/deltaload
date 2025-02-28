@@ -1,0 +1,440 @@
+Agents - Github to Linear | Deepnote
+===============
+
+C
+
+Composio
+
+[Create a new workspace](https://deepnote.com/onboarding?createWorkspace=true) to start your own projects in Deepnote.
+
+[](https://deepnote.com/workspace/-8ad9f1f9-a21a-4462-a4bb-174bde78f67a)
+
+Agents - Github to Linear
+
+View access
+
+* * *
+
+W
+
+Members at **Composio**
+
+Project is shared with the workspace
+
+Full access
+
+No access
+
+Project is private, workspace members can’t access it. However, it still uses workspace's resources, such as machines and integrations.
+
+Team
+
+View
+
+Can inspect the project, but cannot view or post comments nor execute or edit files.
+
+Team
+
+Comment
+
+Can post and view comments in addition to inspecting the project.
+
+Team
+
+Execute
+
+Can execute code in addition to viewing and commenting, but cannot change anything or use terminals.
+
+Team
+
+Edit
+
+Can use terminals, connect integrations, comment and edit files as well as view and execute.
+
+Team
+
+Full access
+
+Project is shared with the workspace
+
+Team
+
+* * *
+
+Anyone with a link to this project
+
+View
+
+Disabled
+
+Turn link sharing off. Only collaborators can access the project.
+
+View
+
+Can inspect the project, but cannot view or post comments nor execute or edit files.
+
+Comment
+
+Can post and view comments in addition to inspecting the project.
+
+Execute
+
+Can execute code in addition to viewing and commenting, but cannot change anything or use terminals.
+
+Edit
+
+Can use terminals, connect integrations, comment and edit files as well as view and execute.
+
+* * *
+
+Learn more about sharing in [our docs](https://deepnote.com/docs/share-projects).
+
+Copy link
+
+Duplicate
+
+Command palette
+
+ctrl + P
+
+Hide UI
+
+ctrl + .
+
+* * *
+
+Copy link to project
+
+* * *
+
+Duplicate project
+
+Download
+
+![Image 7](https://deepnote.com/static/anonymous-user-icon.svg)
+
+Book a demo
+
+Account settings
+
+* * *
+
+Sign out
+
+Notebooks
+
+Autogen Agent
+
+Autogen Agent-2
+
+* * *
+
+Integrations
+
+Auth
+
+* * *
+
+Files
+
+.cache
+
+image-20240325-164003.png
+
+image-20240327-020018.png
+
+image-20240327-020342.png
+
+* * *
+
+Table of contents
+
+1.  1.  [Github Code Commits --\> Linear Create Issues (Autogen Agent)](https://deepnote.com/workspace/composio-f87d-8ad9f1f9-a21a-4462-a4bb-174bde78f67a/project/Agents-Github-to-Linear-1e32fad6-0d9e-482b-b46d-08f868445ba6/notebook/Autogen%20Agent-cfb9253cd2c24de587bef8f7c6341c59#492addd55bca47de862121f679bed30e)
+        1.  [Setup (Install Packages and Connect Tools)](https://deepnote.com/workspace/composio-f87d-8ad9f1f9-a21a-4462-a4bb-174bde78f67a/project/Agents-Github-to-Linear-1e32fad6-0d9e-482b-b46d-08f868445ba6/notebook/Autogen%20Agent-cfb9253cd2c24de587bef8f7c6341c59#80018911661e4de7b1cb4af3639e2126)
+        2.  [Agent Code](https://deepnote.com/workspace/composio-f87d-8ad9f1f9-a21a-4462-a4bb-174bde78f67a/project/Agents-Github-to-Linear-1e32fad6-0d9e-482b-b46d-08f868445ba6/notebook/Autogen%20Agent-cfb9253cd2c24de587bef8f7c6341c59#5446a255af1f4867a181593c361bb68e)
+        3.  [Powering agents with all Tools](https://deepnote.com/workspace/composio-f87d-8ad9f1f9-a21a-4462-a4bb-174bde78f67a/project/Agents-Github-to-Linear-1e32fad6-0d9e-482b-b46d-08f868445ba6/notebook/Autogen%20Agent-cfb9253cd2c24de587bef8f7c6341c59#2e44b86a2d52447ba74bc3ee7e40c611)
+        4.  [Executing the Task](https://deepnote.com/workspace/composio-f87d-8ad9f1f9-a21a-4462-a4bb-174bde78f67a/project/Agents-Github-to-Linear-1e32fad6-0d9e-482b-b46d-08f868445ba6/notebook/Autogen%20Agent-cfb9253cd2c24de587bef8f7c6341c59#411bc036aac2412b91811637a2cc91d0)
+    2.  [Want to try out more -\> docs.composio.dev](https://deepnote.com/workspace/composio-f87d-8ad9f1f9-a21a-4462-a4bb-174bde78f67a/project/Agents-Github-to-Linear-1e32fad6-0d9e-482b-b46d-08f868445ba6/notebook/Autogen%20Agent-cfb9253cd2c24de587bef8f7c6341c59#9c1fe01d33f54c66a15feea02da7308e)
+        
+
+* * *
+
+![Image 8](https://deepnote.com/api/project/1e32fad6-0d9e-482b-b46d-08f868445ba6/download-file?path=image-20240327-020018.png)
+
+Github Code Commits --\> Linear Create Issues (Autogen Agent)
+-------------------------------------------------------------
+
+### Setup (Install Packages and Connect Tools)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+# Run this commands in terminal and remove exclamatory mark
+
+!pip install pyautogen composio\_autogen \--quiet
+
+# For the auth management and integrations, let's use Composio. 
+
+!composio-cli add github 
+
+# Go through the flow to connect github 
+
+!composio-cli add linear  
+
+# Go through the flow to connect linear. 
+
+### Agent Code
+
+To initialise, perform the following steps:
+
+Configure LLM: Use the gpt-4-1106-preview model. Provide the OpenAI environment key through an environment variable or modify the code directly.
+
+Set Up Assistant Agent: Create it with a system prompt and the LLM configuration. Adjust as needed to improve outcomes.
+
+Establish User Proxy Agent: These agents simulate users, interacting with Autogen agents. They include a function to end the process upon detecting the word "Terminate," as specified in the system prompt.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+import os
+
+from autogen import AssistantAgent, UserProxyAgent
+
+from composio\_autogen import App, Action, ComposioToolset
+
+llm\_config \= {
+
+    "config\_list": \[
+
+        {
+
+            "model": "gpt-4-1106-preview",
+
+            "api\_key": os.environ.get(
+
+                "OPENAI\_API\_KEY", "sk-123131\*\*\*\*"
+
+            ),
+
+        }
+
+    \]
+
+}
+
+super\_agent \= AssistantAgent(
+
+    "chatbot",
+
+    system\_message="""You are a super intelligent personal assistant.
+
+    You have been given a set of tools that you are supposed to choose from.
+
+    You decide the right tool and execute it to achieve your task.
+
+    Reply TERMINATE when the task is done or when user's content is empty""",
+
+    llm\_config=llm\_config,
+
+)
+
+# create a UserProxyAgent instance named "user\_proxy"
+
+user\_proxy \= UserProxyAgent(
+
+    "user\_proxy",
+
+    is\_termination\_msg=lambda x: x.get("content", "")
+
+    and "TERMINATE" in x.get("content", ""),
+
+    human\_input\_mode="NEVER",  # Don't take input from User
+
+    code\_execution\_config={"use\_docker": False},
+
+)
+
+### Powering agents with all Tools
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+# Initialise the Composio Tool Set
+
+composio\_tools \= ComposioToolset()
+
+# Register the preferred Applications, with right executor.
+
+composio\_tools.register\_tools(
+
+    tools=\[App.LINEAR, App.GITHUB\], caller=super\_agent, executor=user\_proxy
+
+)
+
+### Executing the Task
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+task \= """For all the todos in my last commit of SamparkAI/Docs,
+
+create a linear issue on project name hermes board and assign to right person"""
+
+response \= user\_proxy.initiate\_chat(super\_agent, message=task)
+
+print(response.chat\_history)
+
+Want to try out more -\> docs.composio.dev
+------------------------------------------
+
+* * *
+
+* * *
+
+Chat with us
+
+Book a demo
+
+* * *
+
+Shortcuts
+
+[Documentation](https://deepnote.com/docs)[Deepnote crash course](https://deepnote.com/docs/deepnote-crash-course)[Explore](https://deepnote.com/explore)
+
+* * *
+
+[Roadmap](https://portal.productboard.com/deepnote/1-deepnote-product-portal/tabs/1-under-consideration)
+
+You can **view** this project, but can’t make any changes.
+
+Request additional access
+
+Comment
+
+Can post and view comments in addition to inspecting the project.
+
+Execute
+
+Can execute code in addition to viewing and commenting, but cannot change anything or use terminals.
+
+Edit
+
+Can use terminals, connect integrations, comment and edit files as well as view and execute.
+
+View
+
+Comment
+
+Execute
+
+Edit
+
+Collaborators
+
+Only you and members of workspace **Composio** can view this project
+
+View collaborators
+
+![Image 9](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Win32%26255%26800%26600%264%2624%26800%26600%260%26na&eci=2&event_id=486a778a-a0da-44d7-bfb4-70743936a7c3&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=53796bef-9b54-4e71-98e2-ce633d2e5fe7&tw_document_href=https%3A%2F%2Fdeepnote.com%2Fworkspace%2Fcomposio-f87d-8ad9f1f9-a21a-4462-a4bb-174bde78f67a%2Fproject%2FAgents-Github-to-Linear-1e32fad6-0d9e-482b-b46d-08f868445ba6%2Fnotebook%2FAutogen%2520Agent-cfb9253cd2c24de587bef8f7c6341c59&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=oc4iq&type=javascript&version=2.3.31)![Image 10](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Win32%26255%26800%26600%264%2624%26800%26600%260%26na&eci=2&event_id=486a778a-a0da-44d7-bfb4-70743936a7c3&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=53796bef-9b54-4e71-98e2-ce633d2e5fe7&tw_document_href=https%3A%2F%2Fdeepnote.com%2Fworkspace%2Fcomposio-f87d-8ad9f1f9-a21a-4462-a4bb-174bde78f67a%2Fproject%2FAgents-Github-to-Linear-1e32fad6-0d9e-482b-b46d-08f868445ba6%2Fnotebook%2FAutogen%2520Agent-cfb9253cd2c24de587bef8f7c6341c59&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=oc4iq&type=javascript&version=2.3.31)
+
+![Image 11](https://bat.bing.com/action/0?ti=97113000&tm=gtm002&Ver=2&mid=0bb93771-ea67-4b78-b1d0-3babef35d5b9&bo=1&sid=c21ab0f0d74811ef91105d94ae47acef&vid=c2221280d74811efb8a711edc75de6e7&vids=1&msclkid=N&uach=pv%3D10.0&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&p=https%3A%2F%2Fdeepnote.com%2Fworkspace%2Fcomposio-f87d-8ad9f1f9-a21a-4462-a4bb-174bde78f67a%2Fproject%2FAgents-Github-to-Linear-1e32fad6-0d9e-482b-b46d-08f868445ba6%2Fnotebook%2FAutogen%2520Agent-cfb9253cd2c24de587bef8f7c6341c59&r=&lt=2595&evt=pageLoad&sv=1&cdb=AQAQ&rn=847227)

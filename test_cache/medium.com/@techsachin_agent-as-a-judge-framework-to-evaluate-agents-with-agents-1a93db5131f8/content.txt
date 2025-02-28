@@ -1,0 +1,207 @@
+[![Image 29: SACHIN KUMAR](https://miro.medium.com/v2/resize:fill:88:88/1*7GE5_sjWH8e95wFj2s9sgg.jpeg)](https://medium.com/@techsachin?source=post_page---byline--1a93db5131f8--------------------------------)
+
+Current evaluation approaches either focus exclusively on final outcomes — ignoring the step-by-step nature of agentic systems, or require excessive manual labor. In this paper\[1\], authors introduce Agent-as-a-Judge framework, wherein agentic systems are used to evaluate agentic systems. This is an organic extension of the LLM-as-a-Judge framework, incorporating agentic features that enable intermediate feedback for the entire task-solving process. Here Agent-as-a-Judge is applied to the task of code generation.
+
+Key contributions:
+
+*   release the DevAI dataset, which consists of 55 comprehensive AI development tasks with accompanying tags, individual hierarchical requirements, and individual preferences. •
+*   benchmark three top open-source code generation agentic frameworks in DevAI, providing a more comprehensive analysis than previous evaluations of them.
+*   introduce the general Agent-as-a-Judge concept, allowing agentic systems a fair and rich evaluation without the traditional costs associated with human involvement.
+*   demonstrate that an Agent-as-a-Judge outperforms an LLM-as-a-Judge and performs comparably to human evaluators in our proof-of-concept.
+
+Figure below shows Agent-as-a-Judge framework wherein agentic systems are used to evaluate agentic systems. We compare this to LLM-as-a-Judge, which uses LLMs to evaluate LLMs and for which Agent-as-a-Judge is a natural evolution, and Human-as-a-Judge, where skilled human labourers manually evaluate an agentic system
+
+![Image 30](https://miro.medium.com/v2/resize:fit:700/1*BlJSIKwvZqTVwBewNRtRNA.png)
+
+DevAI: A Dataset for Automated AI Development
+---------------------------------------------
+
+i) DevAI Dataset
+----------------
+
+DevAI consists of a curated set of 55 tasks, each defined by
+
+(1) a plain text user query that describes an AI development task;
+
+(2) a set of plain text requirements (for a total of 365 requirements), each with a set of dependencies connecting them to other requirements;
+
+(3) a set of preferences (for a total of 125 preferences) which represent softer requirements.
+
+*   DevAI is structured so that an agentic system starts by receiving a user query to begin development. The system is then evaluated on how well it meets the requirements, with preferences serving as optional, softer criteria. An example of one of the DevAI tasks can be seen in figure below
+
+![Image 31](https://miro.medium.com/v2/resize:fit:700/1*hhhgjBFsJ4T3L6uKncWbIw.png)
+
+*   As shown in figure below, tasks are tagged and cover a variety of key areas in AI: supervised learning, reinforcement learning, computer vision, natural language processing, generative models, and others.
+
+![Image 32](https://miro.medium.com/v2/resize:fit:700/1*tDHtg83RfQYTSp6E00b-tA.png)
+
+ii) Preliminary Benchmark
+-------------------------
+
+*   test three of the most popular open-source frameworks(referred to as “AI developers”): MetaGPT, GPT-Pilot and OpenHands
+*   gpt-4o-2024–05–13 was used as LLM for backend engine, and these AI developers were given a time-limit of 1800 seconds to solve each task and were forcefully halted if they exceeded this time limit
+*   Table below shows Preliminary Statistics of AI Developers
+
+![Image 33](https://miro.medium.com/v2/resize:fit:700/1*COKuKe6ebjtAop7go-CJJQ.png)
+
+*   MetaGPT is the most cost-efficient (1.19 USD), while OpenHands is the most expensive (6.38 USD)
+*   In terms of development time, OpenHands completes tasks in an average of 362.41s, while GPT-Pilot takes the longest at 1622.38s.
+*   On average, a full evaluation on DevAI with one of these three took around 210.65 USD and 14 hours to perform
+*   While running, GPT-Pilot generates the most output tokens at 59707 tokens, whereas OpenHands processed the most at 1252482 tokens while producing the fewest at 8457 tokens. This suggests that OpenHands’s internal communication is more complicated but is more parsimonious in its decisions
+*   MetaGPT, while being the most cost-effective, generates fewer saved code files (0.42), suggesting it may be less inclined to save files. In contrast, GPT-Pilot generates the most saved files (3.84), reflecting a more prolific output
+
+Human-as-a-Judge: Manual Evaluation on DevAI
+--------------------------------------------
+
+i) Benchmark Baselines by Human-as-a-Judge
+------------------------------------------
+
+*   After obtaining the baseline executions and conducting basic statistical analysis, we have three expert human evaluators (referred to here by their anonymous names: 231a, 38bb, and cn90) review the outputs of AI developer baselines to assess whether each requirement was satisfied.
+*   We have two rounds of human evaluations
+*   results of this experiment are shown in table below, (I) and (D) represent independent performance versus performance considering task dependencies. indicates multiple experts evolved, and white square icon means the evaluations use white-box testing
+
+![Image 34](https://miro.medium.com/v2/resize:fit:700/1*E79jX3CDUZToLZFADHdY8w.png)
+
+*   found that the two best-performing methods (GPT-Pilot and OpenHands) could satisfy about 29% of the requirements (or around 44% if prerequisites are ignored) but only on one task could they meet all the requirements
+*   This highlights that DevAI offers a considerable but appropriate level of challenge for current and future method
+
+ii) Judging Human-as-a-Judge
+----------------------------
+
+**a) Disagreement Analysis**
+
+*   To analyze the presence of inductive bias and the reliability of the Human-as-a-Judge, calculated the disagreement rate between individual evaluators
+*   results indicate that the disagreement rates between pairs of evaluators range from around 10% to 30%.
+*   Due to the complexity of a complete AI development task, which typically involves multiple steps with varying outcomes at each step, humans can easily make errors when critical information is missed, such as environment feedback indicating small but severe coding errors or bugs
+
+**b) Error Analysis**
+
+*   evaluators engaged in a round of debating after their initial evaluations until they reached a consensus on each requirement in each task
+*   In our Human-as-a-Judge pipeline, evaluators could be convinced by evidence from others and acknowledge their judgment errors, adjusting their answers accordingly
+*   Figure below shows Mismatch between the individual evaluations and the consensus evaluation. In particular, the majority vote classifier showed the smallest deviation from the consensus evaluation.
+
+![Image 35](https://miro.medium.com/v2/resize:fit:530/1*vjHMNkK22Pyd5g2hzhytAA.png)
+
+*   As seen in the results, although significant errors occur among all evaluators, the majority vote effectively corrects most of these errors.
+*   cn9o made the most errors (for example, 23.77% in evaluating GPT-Pilot). After applying the majority vote from all three evaluators, the overall error rate dropped to 6.01%, demonstrating the inherent benefits of majority voting
+
+**c) Conclusion**
+
+To reduce Human judgment errors, suggested two methods:
+
+*   First, like in this work, introduce a debate round after each judgment, where individuals present evidence and either persuade others or adjust their own opinions after discussion. This is particularly important when there are only a few evaluators, as majority voting with a small group can still lead to errors (around 5% compared to consensus evaluation)
+*   second approach involves assembling a larger panel of experts (more is better when their accuracy exceeds 50%, relying on a majority vote.
+
+Agent-as-a-Judge: Evaluating Agents with Agents
+-----------------------------------------------
+
+Human evaluation, while somewhat reliable, is time-consuming and requires substantial expertise. To address this, this paper propose the Agent-as-a-Judge framework
+
+i) Proof-of-Concept
+-------------------
+
+designed eight modular, interacting components that form the foundation of our Proof-of-Concept for the Agent-as-a-Judge. Figure below shows Initial diagram of Agent-as-a-Judge
+
+![Image 36](https://miro.medium.com/v2/resize:fit:526/1*9I0hqhNYrmyR3z2_xuAv8A.png)
+
+**a) graph module**
+
+*   constructs a graph that captures the entire structure of the project, including files, modules, and dependencies.
+*   It can also break down chunks of code into code snippets.
+
+**b) Locate module**
+
+*   identifies the specific folder or file referred to by a requirement.
+
+**c) Read module**
+
+*   goes beyond simple file parsing, supporting the reading and understanding of multimodal data across 33 different formats, including code, images, videos and documents.
+*   This allows the agent to cross-reference various data streams and verify different kinds of requirement.
+
+**d) Search module**
+
+*   provides a contextual understanding of code and can quickly retrieve highly relevant code snippets, as well as the nuances behind them (e.g.,hidden dependencies).
+
+**e) Retrieve module**
+
+*   extracts information from long texts, identifying relevant segments in trajectories
+
+**f) Ask module**
+
+*   With context from stages above, determines whether a given requirement is satisfied
+
+**g) Memory module**
+
+*   stores historical judgment information, allowing the agent to build on past evaluations.
+
+**h) Planning module**
+
+*   plans the following actions, allowing the agent to strategize and sequence tasks based on the current state and the project goals.
+
+operational process of the Agent-as-a-Judge is illustrated in figure below
+
+![Image 37](https://miro.medium.com/v2/resize:fit:620/1*XYfS9HTA-e-atIVm4cAn9w.png)
+
+ii) Judging Agent-as-a-Judge and LLM-as-a-Judge
+-----------------------------------------------
+
+**a) Judge Shift**
+
+*   Judge Shift measures deviation from the Human-as-a-Judge consensus results, with lower values indicating a closer alignment
+*   Table below compare the results of LLM-as-a-Judge and Agent-as-a-Judge with Human-as-a-Judge. (I) represents performance on independent tasks, while (D) represents performance considering task dependencies.
+
+![Image 38](https://miro.medium.com/v2/resize:fit:700/1*bnHsAkclQDwmlrMiggcIpQ.png)
+
+*   Agent-as-a-Judge consistently outperforms LLM-as-a-Judge across tasks, particularly those with task dependencies
+
+**b) Alignment Rate**
+
+*   Alignment Rate reflects how closely the AI Judges’ evaluations align with human consensus across all 365 requirements
+*   It is defined as the percentage of requirement evaluations that are the same as the Human-as-a-Judge consensus evaluation.
+*   Compared to LLM-as-a-Judge, Agent-as-a-Judge consistently achieves a higher Alignment Rate, closely matching human judgments.For example, when evaluating OpenHands, Agent-as-a-Judge reaches 92.07% and 90.44%, surpassing LLM-as-a-Judge’s 70.76% and 60.38% in both gray-box and black-box settings
+
+**c) PR Curves**
+
+*   Judging developer agents is a class imbalanced task, where meeting requirements is much rarer than failing.
+
+![Image 39](https://miro.medium.com/v2/resize:fit:700/1*_C4JP_8Y_q9VnE2xmsRkVQ.png)
+
+*   Metrics like judge shift and alignment rate can be misleading. For example,since MetaGPT rarely meets requirements, LLM-as-a-Judge easily identifies most cases as negative (achieving 84.15% in the black-box setting).
+*   PR Curves offer a clearer performance measure by balancing precision and recall. Agent-as-a-Judge even outperforms any single human evaluator on OpenHands and aligns closest with majority voting.
+
+iii) Ablations For Agent-as-a-Judge
+-----------------------------------
+
+*   Table below analyze the impact of adding various components (ask, graph,read, locate, and retrieve) on the performance of Agent-as-a-Judge for judging OpenHands
+
+![Image 40](https://miro.medium.com/v2/resize:fit:497/1*xJjlj12Lv4Lb_Xikx4Gtlg.png)
+
+*   With only the ask component, the agent achieves a 65.03% alignment rate.
+*   Adding the graph component increases performance to 75.95%, as the agent can better understand the relationships between files.
+*   The introduction of read further improves the alignment rate to 82.24%, reflecting the value of direct access to the contents of the file.
+*   Incorporating locate brings a substantial boost to 90.44%, as the agent can efficiently target files relevant to the requirements.
+*   However, adding retrieve does not provide a significant benefit in this case. In contrast, judgment of MetaGPT and GPT-Pilot indicates that retrieve is useful, as the trajectory provides additional valuable information
+
+iv) Cost Analysis
+-----------------
+
+*   Human-as-a-Judge took the three evaluators a self-reported total of 86.5 hours. With a 15 USD minimum wage (assuming this would buy a subject expert in AI), a full evaluation under DevAI would cost around 1297.50 USD.
+*   In comparison, Agent-as-a-Judge cost only 30.58 USD in API calls and took only 118.43 minutes — 2.29% of the cost and 2.36% of the time of Human-as-a-Judge.
+*   LLM-as-a-Judge was faster at 10.99 minutes, but due to the absence of intelligent context selection by the Agent-as-a-Judge’s modules, it still cost 29.63 USD.
+
+Conclusion
+----------
+
+*   introduced the Agent-as-a-Judge method to use agentic systems to evaluate agentic systems.
+*   simultaneously released DevAI: a new benchmark that evaluates the code-generatingability of agentic systems on complete AI development tasks when used with Agent-as-a-Judge.
+*   show that Agent-as-a-Judge outperforms existing methods on this task and that it performs similarly to an ensemble of expert human evaluators.
+
+Paper: [https://arxiv.org/abs/2410.10934](https://arxiv.org/abs/2410.10934)
+
+Code: [https://github.com/metauto-ai/agent-as-a-judge](https://github.com/metauto-ai/agent-as-a-judge)
+
+Dataset: [https://huggingface.co/DEVAI-benchmark](https://huggingface.co/DEVAI-benchmark)
+
+References:
+
+1.  Agent-as-a-Judge: Evaluate Agents with Agents by Zhuge et al. [arXiv:2410.10934](https://arxiv.org/abs/2410.10934)

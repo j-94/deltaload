@@ -1,0 +1,740 @@
+Pricing | Craft CMS
+===============                                
+
+[Skip to Main Content](https://craftcms.com/pricing#main-content)
+
+[](https://craftcms.com/)
+
+[CMS](https://craftcms.com/features)
+
+[HostingNew!](https://craftcms.com/cloud)
+
+[Pricing](https://craftcms.com/pricing)
+
+[Partners](https://craftcms.com/partners)
+
+[Resources](https://craftcms.com/knowledge-base)
+
+[Documentation](https://craftcms.com/docs/) [Knowledge Base](https://craftcms.com/knowledge-base) [Starters](https://craftcms.com/starters) [Plugin Store](https://plugins.craftcms.com/) [Craft Console](https://console.craftcms.com/) [Community](https://craftcms.com/community) [Support](https://craftcms.com/support-services) [Accessibility](https://craftcms.com/accessibility) [Accessibility Report](https://craftcms.com/accessibility/reports/acr) [Blog](https://craftcms.com/blog) [Events](https://craftcms.com/events)
+
+[View the Demo](https://craftcms.com/demo)
+
+[CMS](https://craftcms.com/features)
+
+[HostingNew!](https://craftcms.com/cloud)
+
+[Pricing](https://craftcms.com/pricing)
+
+[Partners](https://craftcms.com/partners)
+
+Resources
+
+[Documentation](https://craftcms.com/docs/) [Knowledge Base](https://craftcms.com/knowledge-base) [Starters](https://craftcms.com/starters) [Plugin Store](https://plugins.craftcms.com/) [Craft Console](https://console.craftcms.com/) [Community](https://craftcms.com/community) [Support](https://craftcms.com/support-services) [Accessibility](https://craftcms.com/accessibility) [Accessibility Report](https://craftcms.com/accessibility/reports/acr) [Blog](https://craftcms.com/blog) [Events](https://craftcms.com/events)
+
+Craft CMS Pricing
+=================
+
+[Solo Self-hosted For when you’re building a website for you or a friend. Free forever Install Craft](https://craftcms.com/docs/5.x/install.html)
+
+*   One user account
+    
+    The Solo edition is limited to a single admin account.
+    
+*   Ultra-flexible content modeling
+    
+    Define custom content types, fields, and relations needed to perfectly contain your unique content requirements.
+    
+*   Multi-site + localization
+    
+    Serve multiple related/localized sites from a single Craft installation.
+    
+*   Advanced previewing
+    
+    Preview your content from multiple targets, including single-page applications.
+    
+*   Twig + GraphQL
+    
+    Define custom front-end templates, or use Craft headlessly with the auto-generated GraphQL API.
+    
+
+[](https://console.craftcms.com/buy-cms/team)
+
+Team
+
+Self-hosted
+
+For when you’re building something for a small team.
+
+$279
+
+per project
+
+Includes one year of updates.  
+$99/year for updates after that.
+
+[Free when hosted on Craft Cloud ↗](https://craftcms.com/cloud)
+
+Buy Now
+
+Only available for Craft 5
+
+*   Everything in Solo, plus:
+*   Up to five user accounts
+    
+    Create up to five user accounts (including admin accounts).
+    
+*   One user group
+    
+    All accounts belong to a “Team” user group with customizable permissions for non-admins.
+    
+*   Developer support
+    
+    Get developer-to-developer support right from the Craft core development team.
+    
+
+[](https://console.craftcms.com/buy-cms/pro)
+
+Pro
+
+Self-hosted
+
+For when you’re building something professionally for a business or organization.
+
+$399
+
+per project
+
+Includes one year of updates.  
+$99/year for updates after that.
+
+[Free when hosted on Craft Cloud ↗](https://craftcms.com/cloud)
+
+Buy Now
+
+*   Everything in Team, plus:
+*   Unlimited user accounts
+    
+    Create unlimited user accounts with per-user permissions and user group assignments.
+    
+*   Unlimited user groups
+    
+    Create multiple user groups with custom permissions.
+    
+*   Branded control panel
+    
+    Personalize the control panel for your brand.
+    
+*   Branded communication
+    
+    Customize system email messages and provide a custom email template.
+    
+
+[Enterprise For when the project has specific licensing requirements. Learn More](https://craftcms.com/enterprise)
+
+*   Everything in Pro, plus:
+*   First-party SAML SSO
+    
+*   Custom license agreement
+    
+*   Procurement support
+    
+*   Dedicated premium support
+    
+
+Solo
+
+Team
+
+Pro
+
+Enterprise
+
+Content Management & Author Experience
+--------------------------------------
+
+Solo
+
+Team
+
+Pro
+
+Enterprise
+
+|  | 
+Solo
+
+
+
+ | 
+
+Team
+
+
+
+ | 
+
+Pro
+
+
+
+ | 
+
+Enterprise
+
+
+
+ |
+| --- | --- | --- | --- | --- |
+| Content Types | Unlimited | Unlimited | Unlimited | Unlimited |
+| Entries | Unlimited | Unlimited | Unlimited | Unlimited |
+| Pages | Unlimited | Unlimited | Unlimited | Unlimited |
+| Locales | Unlimited | Unlimited | Unlimited | Unlimited |
+| Asset Management | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Multi-site | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Search | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Live Preview | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Image Editor | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Content Versioning | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Content Scheduling | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Categories & Tags | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Customizable Dashboard | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| User Accounts | One | Five | Unlimited | Unlimited |
+| Custom Roles and Permissions |  |  | 
+
+ | 
+
+ |
+| Branded control panel
+
+Personalize the control panel for your brand.
+
+
+
+
+
+ |  |  | 
+
+ | 
+
+ |
+| Branded communication
+
+Customize system email messages and provide a custom email template.
+
+
+
+
+
+ |  |  | 
+
+ | 
+
+ |
+| Forms | With Plugin | With Plugin | With Plugin | With Plugin |
+| SEO | With Plugin | With Plugin | With Plugin | With Plugin |
+
+Developer Experience
+--------------------
+
+Solo
+
+Team
+
+Pro
+
+Enterprise
+
+|  | 
+Solo
+
+
+
+ | 
+
+Team
+
+
+
+ | 
+
+Pro
+
+
+
+ | 
+
+Enterprise
+
+
+
+ |
+| --- | --- | --- | --- | --- |
+| GraphQL API | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Powerful Template Engine | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Configuration and schema management | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Centralized license and plugin management | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Debug Toolbar | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+
+Extensibility
+-------------
+
+Solo
+
+Team
+
+Pro
+
+Enterprise
+
+|  | 
+Solo
+
+
+
+ | 
+
+Team
+
+
+
+ | 
+
+Pro
+
+
+
+ | 
+
+Enterprise
+
+
+
+ |
+| --- | --- | --- | --- | --- |
+| Plugin Store | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Custom-Built Plugins and Modules | Unlimited | Unlimited | Unlimited | Unlimited |
+
+Ecommerce
+---------
+
+Solo
+
+Team
+
+Pro
+
+Enterprise
+
+|  | 
+Solo
+
+
+
+ | 
+
+Team
+
+
+
+ | 
+
+Pro
+
+
+
+ | 
+
+Enterprise
+
+
+
+ |
+| --- | --- | --- | --- | --- |
+| First-Party Craft Commerce Integration |  |  | 
+
+ | 
+
+ |
+| First-Party Stripe Integration | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| First-Party Shopify Integration | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+
+Security & Compliance
+---------------------
+
+Solo
+
+Team
+
+Pro
+
+Enterprise
+
+|  | 
+Solo
+
+
+
+ | 
+
+Team
+
+
+
+ | 
+
+Pro
+
+
+
+ | 
+
+Enterprise
+
+
+
+ |
+| --- | --- | --- | --- | --- |
+| 2FA
+
+Enhance user account security with two-step verification.
+
+
+
+
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Passkeys
+
+Speed up logins with a passkey, based on fingerprint or facial recognition.
+
+
+
+
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| First-party SSO/SAML |  |  |  | 
+
+ |
+| GDPR Compliant | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+
+Support
+-------
+
+Solo
+
+Team
+
+Pro
+
+Enterprise
+
+|  | 
+Solo
+
+
+
+ | 
+
+Team
+
+
+
+ | 
+
+Pro
+
+
+
+ | 
+
+Enterprise
+
+
+
+ |
+| --- | --- | --- | --- | --- |
+| Community Support | 
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| Email Support |  | 
+
+ | 
+
+ | 
+
+ |
+| Dedicated Customer Support Manager |  |  |  | 
+
+ |
+
+Billing
+-------
+
+Solo
+
+Team
+
+Pro
+
+Enterprise
+
+|  | 
+Solo
+
+
+
+ | 
+
+Team
+
+
+
+ | 
+
+Pro
+
+
+
+ | 
+
+Enterprise
+
+
+
+ |
+| --- | --- | --- | --- | --- |
+| Pay by Credit Card |  | 
+
+ | 
+
+ | 
+
+ |
+| Invoicing with Terms |  |  |  | 
+
+ |
+
+Pricing FAQ
+-----------
+
+###### How do I purchase Craft Pro or Craft Team? 
+
+You can purchase Craft Pro or Craft Team by upgrading from within the app. Once you’ve downloaded Craft Solo, there will be a link at the bottom of every page in the Control Panel. This link will brings up a modal window that will walk you the whole process. If you need an alternate way to pay, please contact us, [hello@​craftcms.​com](mailto:hello@craftcms.com).
+
+###### Can I use Craft Solo for client work? 
+
+Technically yes, however, we don’t recommend it. Craft Solo is meant to be a solution for developers to get to know Craft and create one-off sites for themselves and their friends. We do not recommend giving admin access to non-developers and therefore strongly recommend that any professional work is done on Craft Pro or Craft Team. This ensures the best experience for everyone.
+
+###### Can I try Craft Pro or Craft Team before buying? 
+
+Yes, you can trial Craft Pro or Craft Team while your site is on non-public looking domain (e.g. ​“mysite.dev” or ​“stag​ing​.mysite​.com”). However, if you will need Developer Support throughout the development process we encourage you to purchase a license at the beginning of the project.
+
+###### Are non-profit discounts available? 
+
+Yes, we offer a flat 15% discount on Craft Pro and Craft Team for verified non-profits. Please note: The discount only applies to the license fee. We do not discount the License Update Renewal fee. Please email [hello@​craftcms.​com](mailto:hello@craftcms.com) if you’re a verified non-profit to receive this discount.
+
+###### Will there be an upgrade fee when major Craft CMS updates come out? 
+
+Pro and Team licenses come with one year of free License Updates. If a major edition comes out within that year, it’s included in the initial license cost. You can enable license updates for $99 per year. Please read [how license and renewals work](https://craftcms.com/knowledge-base/how-craft-licenses-and-renewals-work) for details.
+
+###### Can I purchase an edition locally, and then transfer it to production? 
+
+Yes you can.
+
+###### What is Basic Developer Support? 
+
+Basic Developer Support is for developers who need dev to dev support directly from Craft. While our community is a great resource for questions via Craft Discord, Stack Exchange, and Github, Developer Support is email-based and answered directly from a member of the Craft CMS team. For Developers working with Craft professionally and in need of guaranteed response times we recommend a [Pro or Premium Support Plan](https://craftcms.com/support-services)
+
+[](https://craftcms.com/)
+
+[Product](https://craftcms.com/features)
+
+[Features](https://craftcms.com/features) [CloudNew!](https://craftcms.com/cloud) [Commerce](https://craftcms.com/commerce) [Demo](https://craftcms.com/demo) [Craft vs. WordPress](https://craftcms.com/vs-wordpress) [Terms of Use](https://craftcms.com/terms-of-use) [Changelog](https://github.com/craftcms/cms/blob/5.x/CHANGELOG.md) [Roadmap](https://craftcms.com/roadmap) [Pricing](https://craftcms.com/pricing)
+
+[Resources](https://craftcms.com/knowledge-base)
+
+[Documentation](https://craftcms.com/docs/) [Knowledge Base](https://craftcms.com/knowledge-base) [Starters](https://craftcms.com/starters) [Plugin Store](https://plugins.craftcms.com/) [Craft Console](https://console.craftcms.com/) [Accessibility](https://craftcms.com/accessibility) [Partners](https://craftcms.com/partners) [Events](https://craftcms.com/events) [Status](https://status.craftcms.com/) [Blog](https://craftcms.com/blog)
+
+[About](https://craftcms.com/about)
+
+[Brand Resources](https://craftcms.com/brand-resources) [Legal](https://craftcms.com/legal)
+
+[Community](https://craftcms.com/community)
+
+[Code of Conduct](https://craftcms.com/docs/4.x/coc.html) [Meetups](https://craftcms.com/meetups)  [![Image 5: Bluesky](https://cdn.craft.cloud/032c8560-18a8-45ba-a958-a03804e5cb66/assets/icons/bluesky.svg) Bluesky](https://bsky.app/profile/craftcms.com)  [![Image 6: Logo Mastodon](https://cdn.craft.cloud/032c8560-18a8-45ba-a958-a03804e5cb66/assets/icons/mastodon.svg) Mastodon](https://masto.craftcms.com/@craftcms)  [![Image 7: Threads](https://cdn.craft.cloud/032c8560-18a8-45ba-a958-a03804e5cb66/assets/icons/threads.svg) Threads](https://www.threads.net/@craftcms)
+
+[Contact Us](https://craftcms.com/contact)
+
+[Subscribe to Our Newsletter](https://craftcms.com/newsletter/subscribe)Regular updates on all things Craft
+
+© 2025 Pixel & Tonic, Inc. [Privacy Statement](https://craftcms.com/privacy) [Cookie Notice](https://craftcms.com/privacy)
+
+a product by ![Image 8: Pixel & Tonic](https://cdn.craft.cloud/032c8560-18a8-45ba-a958-a03804e5cb66/builds/9dfbf926-f5b8-4348-9606-9e1b0b7b432a/artifacts/dist/images/pixel-tonic-logo@2x.png)
+
+Search website

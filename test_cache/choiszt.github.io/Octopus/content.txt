@@ -1,0 +1,181 @@
+Octopus: Embodied Vision-Language Programmer from Environmental Feedback
+===============
+
+![Image 1](https://choiszt.github.io/Octopus/static/images/octopus.png)
+
+Octopus: Embodied Vision-Language Programmer from Environmental Feedback
+========================================================================
+
+[Jingkang Yang\*](https://github.com/Jingkang50) 1, [Yuhao Dong\*](https://github.com/dongyh20) 2,6, [Shuai Liu\*](https://github.com/choiszt) 3,6, [Bo Li\*](https://github.com/Luodian) 1  
+Ziyue Wang †,1, Chencheng Jiang †,4, Haoran Tan †,3, Jiamu Kang †,2  
+[Yuanhan Zhang](https://zhangyuanhan-ai.github.io/) 1, [Kaiyang Zhou](https://kaiyangzhou.github.io/) 5, [Ziwei Liu](https://liuziwei7.github.io/) 1,✉
+
+  
+
+1S-Lab, Nanyang Technological University    2Tsinghua University  
+3Beijing University of Posts and Telecommunications  
+4Xi'an Jiaotong University  5Hong Kong Baptist University  
+6Shanghai AI Laboratory  
+  
+\*Equal Contribution   †Equal Engineering Contribution   ✉Corresponding Author
+
+[Paper](https://arxiv.org/abs/2310.08588) [Code](https://github.com/dongyh20/Octopus)
+
+Abstract
+--------
+
+Large vision-language models (VLMs) have achieved substantial progress in multimodal perception and reasoning. Furthermore, when seamlessly integrated into an embodied agent, it signifies a crucial stride towards the creation of autonomous and context-aware systems capable of formulating plans and executing commands with precision. In this paper, we introduce **Octopus**, an embodied VLM designed to **1)** proficiently decipher an agent's visual and textual task objectives, **2)** formulate intricate action sequences, and **3)** generate executable code. Our design allows the agent to adeptly handle a wide spectrum of tasks, ranging from mundane daily chores in simulators to sophisticated interactions in complex video games. Octopus is trained by leveraging GPT-4 to control an explorative agent to generate training data, i.e., action blueprints and the corresponding executable code, within our experimental environment called **OctoVerse**. We also collect the feedback that allows the enhanced training scheme of **Reinforcement Learning with Environmental Feedback (RLEF)**. Through a series of experiments, we illuminate Octopus's functionality and present compelling results, and the proposed RLEF turns out to refine the agent's decision-making. By open-sourcing our model architecture, simulator, and dataset, we aspire to ignite further innovation and foster collaborative applications within the broader embodied AI community. The codebase is released at [https://github.com/dongyh20/Octopus](https://github.com/dongyh20/Octopus).
+
+Method
+------
+
+![Image 2: Description of Image 1](https://choiszt.github.io/Octopus/static/images/resized_teaser.jpg)
+
+  
+**Collection Example for "Cook a Bacon" Task.**
+--------------------------------------------------
+
+GPT-4 perceives the environment through the **environmental message** and produces anticipated plans and code in accordance with the detailed **system message**. This code is subsequently executed in the simulator, directing the agent to the subsequent state. For each state, we gather the environmental message, wherein **observed objects** and **relations** are substituted by egocentric images to serve as the training input. The response from GPT-4 acts as the training output. Environmental feedback, specifically the determination of whether each target state is met, is documented for RLEF training.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 3: Description of Image 2](https://choiszt.github.io/Octopus/static/images/resized_pipeline.jpg)
+
+  
+**Data Collection and Training Pipeline**
+--------------------------------------------
+
+The provided image depicts a comprehensive pipeline for data collection and training. In the **Data Collection Pipeline**, environmental information is captured, parsed into a scene graph, and combined to generate **environment message** and **system message**. These messages subsequently drive agent control, culminating in executable code. For the **Octopus Training Pipeline**, the agent's vision and code are input to the Octopus model for training using both **SFT** and **RLEF** techniques. The accompanying text emphasizes the importance of a well-structured system message for GPT-4's effective code generation and notes the challenges faced due to errors, underscoring the adaptability of the model in handling a myriad of tasks. In essence, the pipeline offers a holistic approach to agent training, from environment understanding to action execution.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 4: Description of Image 1](https://choiszt.github.io/Octopus/static/images/resized_teaser.jpg)
+
+  
+**Collection Example for "Cook a Bacon" Task.**
+--------------------------------------------------
+
+GPT-4 perceives the environment through the **environmental message** and produces anticipated plans and code in accordance with the detailed **system message**. This code is subsequently executed in the simulator, directing the agent to the subsequent state. For each state, we gather the environmental message, wherein **observed objects** and **relations** are substituted by egocentric images to serve as the training input. The response from GPT-4 acts as the training output. Environmental feedback, specifically the determination of whether each target state is met, is documented for RLEF training.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 5: Description of Image 2](https://choiszt.github.io/Octopus/static/images/resized_pipeline.jpg)
+
+  
+**Data Collection and Training Pipeline**
+--------------------------------------------
+
+The provided image depicts a comprehensive pipeline for data collection and training. In the **Data Collection Pipeline**, environmental information is captured, parsed into a scene graph, and combined to generate **environment message** and **system message**. These messages subsequently drive agent control, culminating in executable code. For the **Octopus Training Pipeline**, the agent's vision and code are input to the Octopus model for training using both **SFT** and **RLEF** techniques. The accompanying text emphasizes the importance of a well-structured system message for GPT-4's effective code generation and notes the challenges faced due to errors, underscoring the adaptability of the model in handling a myriad of tasks. In essence, the pipeline offers a holistic approach to agent training, from environment understanding to action execution.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 6: Description of Image 1](https://choiszt.github.io/Octopus/static/images/resized_teaser.jpg)
+
+  
+**Collection Example for "Cook a Bacon" Task.**
+--------------------------------------------------
+
+GPT-4 perceives the environment through the **environmental message** and produces anticipated plans and code in accordance with the detailed **system message**. This code is subsequently executed in the simulator, directing the agent to the subsequent state. For each state, we gather the environmental message, wherein **observed objects** and **relations** are substituted by egocentric images to serve as the training input. The response from GPT-4 acts as the training output. Environmental feedback, specifically the determination of whether each target state is met, is documented for RLEF training.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 7: Description of Image 2](https://choiszt.github.io/Octopus/static/images/resized_pipeline.jpg)
+
+  
+**Data Collection and Training Pipeline**
+--------------------------------------------
+
+The provided image depicts a comprehensive pipeline for data collection and training. In the **Data Collection Pipeline**, environmental information is captured, parsed into a scene graph, and combined to generate **environment message** and **system message**. These messages subsequently drive agent control, culminating in executable code. For the **Octopus Training Pipeline**, the agent's vision and code are input to the Octopus model for training using both **SFT** and **RLEF** techniques. The accompanying text emphasizes the importance of a well-structured system message for GPT-4's effective code generation and notes the challenges faced due to errors, underscoring the adaptability of the model in handling a myriad of tasks. In essence, the pipeline offers a holistic approach to agent training, from environment understanding to action execution.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 8: Description of Image 1](https://choiszt.github.io/Octopus/static/images/resized_teaser.jpg)
+
+  
+**Collection Example for "Cook a Bacon" Task.**
+--------------------------------------------------
+
+GPT-4 perceives the environment through the **environmental message** and produces anticipated plans and code in accordance with the detailed **system message**. This code is subsequently executed in the simulator, directing the agent to the subsequent state. For each state, we gather the environmental message, wherein **observed objects** and **relations** are substituted by egocentric images to serve as the training input. The response from GPT-4 acts as the training output. Environmental feedback, specifically the determination of whether each target state is met, is documented for RLEF training.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Results
+-------
+
+![Image 9: Description of Image 2](https://choiszt.github.io/Octopus/static/images/main_results.png)
+
+  
+**Main Results on OctoGibson**    We compare various models: standalone language models, adapted vision-language planners, and our Octopus models, across different evaluation settings. In cells displaying two values, the first represents the task completion rate across the target validation task sets, while the second assesses the conceptual accuracy of the model's planning as judged by human evaluators. GT denotes that the model input is directly parsed from the simulator, with information on objects (O) or relations (R). Octopus shows consistently better results on task completion.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 10: Description of Image 2](https://choiszt.github.io/Octopus/static/images/ablation.png)
+
+  
+**Ablation Study**    Ablation Study on model components, model size, and vision input. For bars with different colors, the upper bar denotes the number of successful reasoning tasks, and the lower is routine tasks.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 11: Description of Image 1](https://choiszt.github.io/Octopus/static/images/code_results.png)
+
+  
+**Qualitative Results on OctoGibson**    The demonstration of task **find a carboy** in OctoGibson environment. We show that the models shown can write executable code, but the proposed Octopus has stronger planning ability, especially after RLEF. We also explore the performance of GPT-4V on the specific task.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 12: Description of Image 2](https://choiszt.github.io/Octopus/static/images/main_results.png)
+
+  
+**Main Results on OctoGibson**    We compare various models: standalone language models, adapted vision-language planners, and our Octopus models, across different evaluation settings. In cells displaying two values, the first represents the task completion rate across the target validation task sets, while the second assesses the conceptual accuracy of the model's planning as judged by human evaluators. GT denotes that the model input is directly parsed from the simulator, with information on objects (O) or relations (R). Octopus shows consistently better results on task completion.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 13: Description of Image 2](https://choiszt.github.io/Octopus/static/images/ablation.png)
+
+  
+**Ablation Study**    Ablation Study on model components, model size, and vision input. For bars with different colors, the upper bar denotes the number of successful reasoning tasks, and the lower is routine tasks.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 14: Description of Image 1](https://choiszt.github.io/Octopus/static/images/code_results.png)
+
+  
+**Qualitative Results on OctoGibson**    The demonstration of task **find a carboy** in OctoGibson environment. We show that the models shown can write executable code, but the proposed Octopus has stronger planning ability, especially after RLEF. We also explore the performance of GPT-4V on the specific task.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 15: Description of Image 2](https://choiszt.github.io/Octopus/static/images/main_results.png)
+
+  
+**Main Results on OctoGibson**    We compare various models: standalone language models, adapted vision-language planners, and our Octopus models, across different evaluation settings. In cells displaying two values, the first represents the task completion rate across the target validation task sets, while the second assesses the conceptual accuracy of the model's planning as judged by human evaluators. GT denotes that the model input is directly parsed from the simulator, with information on objects (O) or relations (R). Octopus shows consistently better results on task completion.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 16: Description of Image 2](https://choiszt.github.io/Octopus/static/images/ablation.png)
+
+  
+**Ablation Study**    Ablation Study on model components, model size, and vision input. For bars with different colors, the upper bar denotes the number of successful reasoning tasks, and the lower is routine tasks.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 17: Description of Image 1](https://choiszt.github.io/Octopus/static/images/code_results.png)
+
+  
+**Qualitative Results on OctoGibson**    The demonstration of task **find a carboy** in OctoGibson environment. We show that the models shown can write executable code, but the proposed Octopus has stronger planning ability, especially after RLEF. We also explore the performance of GPT-4V on the specific task.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 18: Description of Image 2](https://choiszt.github.io/Octopus/static/images/main_results.png)
+
+  
+**Main Results on OctoGibson**    We compare various models: standalone language models, adapted vision-language planners, and our Octopus models, across different evaluation settings. In cells displaying two values, the first represents the task completion rate across the target validation task sets, while the second assesses the conceptual accuracy of the model's planning as judged by human evaluators. GT denotes that the model input is directly parsed from the simulator, with information on objects (O) or relations (R). Octopus shows consistently better results on task completion.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 19: Description of Image 2](https://choiszt.github.io/Octopus/static/images/ablation.png)
+
+  
+**Ablation Study**    Ablation Study on model components, model size, and vision input. For bars with different colors, the upper bar denotes the number of successful reasoning tasks, and the lower is routine tasks.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BibTeX
+------
+
+```
+
+        @misc{yang2023octopus,
+          title={Octopus: Embodied Vision-Language Programmer from Environmental Feedback}, 
+          author={Jingkang Yang and Yuhao Dong and Shuai Liu and Bo Li and Ziyue Wang and Chencheng Jiang and Haoran Tan and Jiamu Kang and Yuanhan Zhang and Kaiyang Zhou and Ziwei Liu},
+          year={2023},
+          eprint={2310.08588},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV}
+    }
+      
+```
+
+This page was built using the [Academic Project Page Template](https://github.com/eliahuhorwitz/Academic-project-page-template) which was adopted from the [Nerfies](https://nerfies.github.io/) project page. You are free to borrow the of this website, we just ask that you link back to this page in the footer.  
+This website is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).

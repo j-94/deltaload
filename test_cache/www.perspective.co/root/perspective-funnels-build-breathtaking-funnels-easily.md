@@ -1,0 +1,585 @@
+---
+title: Perspective Funnels - Build breathtaking Funnels easily
+description: Perspective is the #1 Mobile Funnel Builder. Easily get more appointments, applications & leads in minutes.
+url: https://www.perspective.co/
+timestamp: 2025-01-20T16:04:38.309Z
+domain: www.perspective.co
+path: root
+---
+
+# Perspective Funnels - Build breathtaking Funnels easily
+
+
+Perspective is the #1 Mobile Funnel Builder. Easily get more appointments, applications & leads in minutes.
+
+
+## Content
+
+Perspective Funnels - Build breathtaking Funnels easily
+===============
+            
+
+[![Image 129](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61bb125944d9e0417af764a9_perspective-icon-logo.avif)](https://www.perspective.co/)
+
+[Why Perspective](https://www.perspective.co/why-perspective)
+
+Product
+
+Product
+
+[![Image 130](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99860eeac37c9561a4c07_funnel.svg)![Image 131](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddeac0933cc4f63a07d90d_finnel.svg) Funnel The mobile-first funnel builder](https://www.perspective.co/funnel)[![Image 132](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d9986050097152328058d9_analytics.svg)![Image 133](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddeb89f4b10a132993a8a2_analytics-blue.svg) Analytics Optimize your lead generation fast](https://www.perspective.co/analytics)[![Image 134](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99860d7a36d89f7879f22_crm.svg)![Image 135](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddebb792124bdd051a6e45_crm.svg) CRM NEW Manage leads where you collect them](https://www.perspective.co/crm)[![Image 136](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99860fb5ae9002f33e6bf_integrations.svg)![Image 137](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddeac28e12b2edd06808c0_integrations.svg) Integrations Connect to your tools effortlessly](https://www.perspective.co/integrations)
+
+Use cases
+
+[![Image 138](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99860bffdd2638a5ecb4b_calendar.svg)![Image 139](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddeac1a2632f4da2885bb1_calendar.svg) Generate appointments Fill your calendar automatically](https://www.perspective.co/use-cases/generate-appointments)[![Image 140](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d9986046f288ded9d59e42_talent.svg)![Image 141](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddeac2437b171365f4f646_talent.svg) Source talent Find and hire top talent in a flash](https://www.perspective.co/use-cases/source-talent)[![Image 142](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99860361bef4753bc5358_email.svg)![Image 143](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddec0fabf7112e14cc6313_email.svg) Build an email list Grow and nurture your audience](https://www.perspective.co/use-cases/build-an-e-mail-list)
+
+[Watch Demo Generate better leads in record time with one platform ![Image 144](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99a1ec90e9c01aa292536_product%20nav%20cta%20img.avif)](https://www.perspective.co/demo)
+
+[Perspective hat 40+ neue Funktionen 🥳 Keynote-Aufzeichnung ansehen ![Image 145](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/673876bdd5b1010043e921c5_nav-features.webp)](https://www.perspective.co/winter-release-en)
+
+[Templates](https://www.perspective.co/templates)
+
+[Reviews](https://www.perspective.co/reviews)
+
+[Pricing](https://www.perspective.co/pricing)
+
+Resources
+
+[Crash Course ![Image 146](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/63d7c9482be79c83a445967d_ressources-nav-crashcurs-en.webp) Your 60-minute Funnel Crash Course, moderated live.](https://strategy.perspective.co/crashcourse-cst/?utm_source=website&utm_medium=menu)[Community ![Image 147](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f0042a0bea2df4af4bab13_ressources-nav-community.webp) Over 150 members exchange information daily.](https://www.skool.com/perspective-growth-elite)[Academy ![Image 148](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/63f4bf0e2254e8825de5d208_ressources-nav-academy-EN.webp) A step-by-step video course to your first funnel.](https://www.perspective.co/academy)[Case-Studies ![Image 149](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/647f360fb66979935fc220e4_ptalks_header_2.webp) Über 50 Kunden Interviews mit deren Vorlagen.](https://www.perspective.co/de/blog/case-studies)
+
+Read More
+
+[Case-Studies](https://www.perspective.co/blog/case-studies)[Help center](https://intercom.help/perspective-funnels/en/)[What's new](https://perspective.canny.io/changelog)[Blog](https://www.perspective.co/blog)
+
+About us
+
+5
+
+[About us ![Image 150](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f408ce5698b47c694fb7b3_about%20nav%20img.webp) We have made it our mission to change marketing](https://www.perspective.co/about-us)[Careers 5 ![Image 151](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f408ceb0b595e1d5a23003_jobs%20nav%20img.webp) Talented people need freedom to thrive](https://www.perspective.co/careers)
+
+[Login](https://app.perspective.co/en)[Try for free](https://start.perspective.co/en/signup)
+
+[Try for free](https://start.perspective.co/en/signup)
+
+[New We just released over 40 new features! Explore now](https://www.perspective.co/winter-release-en)
+
+Create high-converting funnels in just 60 minutes
+=================================================
+
+Generate a steady flow of leads with lightning-fast and easy-to-build Perspective Funnels. No design or programming skills required.
+
+[**Start my free 14-day trial**](https://start.perspective.co/en/signup)[Watch demo](https://www.perspective.co/demo)
+
+Cancel anytime
+
+Access to all content
+
+Expert support
+
+[Generate appointments --------------------- Create case study, quote, or appointment funnels for high-quality appointments in your calendar. Learn more](https://www.perspective.co/use-cases/generate-appointments)
+
+[Source talent ------------- Get highly qualified candidates at the touch of a button and revolutionize your recruiting. Learn more](https://www.perspective.co/use-cases/source-talent)
+
+[Build an e-mail list -------------------- Free yourself from expensive advertising costs and build up valuable target group ownership. Learn more](https://www.perspective.co/use-cases/build-an-e-mail-list)
+
+[Generate appointments --------------------- Create case study, quote, or appointment funnels for high-quality appointments in your calendar. Learn more](https://www.perspective.co/use-cases/generate-appointments)
+
+[Source talent ------------- Get highly qualified candidates at the touch of a button and revolutionize your recruiting. Learn more](https://www.perspective.co/use-cases/source-talent)
+
+[Build an e-mail list -------------------- Free yourself from expensive advertising costs and build up valuable target group ownership. Learn more](https://www.perspective.co/use-cases/build-an-e-mail-list)
+
+[Generate appointments --------------------- Create case study, quote, or appointment funnels for high-quality appointments in your calendar. Learn more](https://www.perspective.co/use-cases/generate-appointments)
+
+[Source talent ------------- Get highly qualified candidates at the touch of a button and revolutionize your recruiting. Learn more](https://www.perspective.co/use-cases/source-talent)
+
+[Build an e-mail list -------------------- Free yourself from expensive advertising costs and build up valuable target group ownership. Learn more](https://www.perspective.co/use-cases/build-an-e-mail-list)
+
+Used daily by more than 5,000 small and large businesses.
+
+![Image 152: zalando logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d6337b6a1c4fafc1416_Zalando.avif)
+
+![Image 153: google logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d6f4d2aa04c7934ac13_Google.avif)
+
+![Image 154: dhl logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d7b6c755c83b6147b03_DHL.avif)
+
+![Image 155: Coca-Cola logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d8603d49a3f70f8d252_Coca%20Cola.avif)
+
+![Image 156: Ergo Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41da0d45a9d6862d0eb64_Ergo.avif)
+
+![Image 157: Talentmagnet Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41df48807bcdfaec92756_Talentmagnet.avif)
+
+![Image 158: Mercedes Benz Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41dcf390d57d9169710d7_Mercedes%20Benz.avif)
+
+![Image 159: Smava Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41dad0bcfc7e70637c28a_smava.avif)
+
+![Image 160: Marriott Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41ddb54fed3eb897961c0_Marriot.avif)
+
+![Image 161: Radyant Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41e017b3b901ff117e783_Radyant.avif)
+
+![Image 162: Daimler Truck Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41db80e2f09b58ae2f53f_Daimler%20Truck.avif)
+
+![Image 163: Entrepreneur University Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d93c64d19388011b83f_Entrepreneur%20University.avif)
+
+![Image 164: zalando logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d6337b6a1c4fafc1416_Zalando.avif)
+
+![Image 165: google logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d6f4d2aa04c7934ac13_Google.avif)
+
+![Image 166: dhl logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d7b6c755c83b6147b03_DHL.avif)
+
+![Image 167: Coca-Cola logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d8603d49a3f70f8d252_Coca%20Cola.avif)
+
+![Image 168: Ergo Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41da0d45a9d6862d0eb64_Ergo.avif)
+
+![Image 169: Talentmagnet Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41df48807bcdfaec92756_Talentmagnet.avif)
+
+![Image 170: Mercedes Benz Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41dcf390d57d9169710d7_Mercedes%20Benz.avif)
+
+![Image 171: Smava Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41dad0bcfc7e70637c28a_smava.avif)
+
+![Image 172: Marriott Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41ddb54fed3eb897961c0_Marriot.avif)
+
+![Image 173: Radyant Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41e017b3b901ff117e783_Radyant.avif)
+
+![Image 174: Daimler Truck Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41db80e2f09b58ae2f53f_Daimler%20Truck.avif)
+
+![Image 175: Entrepreneur University Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d93c64d19388011b83f_Entrepreneur%20University.avif)
+
+What's a Mobile Funnel?
+-----------------------
+
+Traditional websites and landing pages are neither interactive nor personalized. These sites also load slowly and are not optimized for the mobile world. Moreover, [98.5%](https://www.statista.com/statistics/377808/distribution-of-facebook-users-by-device/) of your target audience uses social media via their cell phones. Mobile funnels are your new modern tool. The result: more appointments, employees, and leads.
+
+[](https://www.perspective.co/#)
+
+![Image 176](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65b13b09cf55251bd896d312_Thumbnail%20Homepage_2x.webp)
+
+[](https://www.perspective.co/#)
+
+[**Start my free 14-day trial**](https://start.perspective.co/en/signup?utm_source=website&utm_medium=demo-video-en&utm_term=button)[**Contact sales**](https://calendly.com/d/cp8c-swg-bwc/15-min-perspective-assessment)
+
+7x
+
+higher conversion rate
+
+42x
+
+faster implementation
+
+300%
+
+higher lead quality
+
+Create your first funnel in 60 minutes. Headache-free.
+------------------------------------------------------
+
+![Image 177](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29ef9b10e63f9d8117_1-fast-editing.webp)
+
+![Image 178](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29edd0e862d0b34042_2-template-overview.webp)
+
+![Image 179](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29046dccd7f230ae3e_3-adding-blocks.webp)
+
+![Image 180](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b299a75cfbb265b9c22_4-personalisation.webp)
+
+### Fast editing
+
+Create stunning mobile funnels quickly and easily. Now you can build in minutes, not hours.
+
+### Proven templates
+
+Choose from 16 incredible mobile funnel templates tested in 50+ industries. Start now.
+
+### Unique design
+
+Choose from 2 million+ license-free graphics, photos, and components to help bring your funnels to life.
+
+### Personalized approach
+
+Talk with your target audience like you are face-to-face and customize the funnel flow accordingly.
+
+Integrate your favorite tools and share your funnel with the world.
+-------------------------------------------------------------------
+
+![Image 181](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b2aff8cb049dfca73cc_5-responsive.webp)
+
+![Image 182](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29eec95c6ac22fcdc7_6-integrations.webp)
+
+![Image 183](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29625d560ec32fecae_7-domain.webp)
+
+![Image 184](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29404b8db16db5bf1b_8-gdpr.webp)
+
+### Beautiful on all devices
+
+Your funnels are optimized for both smartphones and desktop. A complete automation.
+
+### Smart integrations
+
+Integrate Facebook Pixel, CAPI, Tracking Pixel, WebHooks, Zapier, or connect our direct integrations.
+
+### Own your domain
+
+Simply connect your domain or a Perspective domain in just 4 clicks. Put your brand in the spotlight!
+
+### GDPR compliance
+
+European servers, a smart cookie notice, components, and much more. Easy with questions & GCU.
+
+Analyze your target audience and achieve record results.
+--------------------------------------------------------
+
+![Image 185](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b2af9fde86025aca4c5_9-publishing.webp)
+
+![Image 186](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b2ab68f497ca5d23181_10-analytics.webp)
+
+![Image 187](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b2a454aba27272d051d_11-insights.webp)
+
+![Image 188](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b2b08016773d5feb42c_12-contacts.webp)
+
+### For all platforms
+
+Publish your funnels on any platform—from Instagram and Facebook, to LinkedIn, via email, and more.
+
+### A/B testing & analytics
+
+Find out where your visitors land in the funnel. Create A/B tests and get unprecedented results.
+
+### Valuable insights
+
+Optimize your ads and mobile funnels based on valuable data insights into your target audience.
+
+### Qualified leads
+
+Your account saves leads automatically. You can also choose to receive an email for every new lead.
+
+What customers say about Perspective
+------------------------------------
+
+![Image 189](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/6673f896e8f353e75cd5e837_avatar.svg)
+
+Jude C.
+
+Founder
+
+[![Image 190](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6740873ff68a72ff6a944eec_G2.svg)](https://www.g2.com/products/perspective/reviews/perspective-review-10520085)![Image 191](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6740873ff68a72ff6a944eec_G2.svg)
+
+**Simplified, reliable funnel building**
+
+Ease of use and how smooth the funnel feels for users. It doesn't feel like something that has been thrown together out of the box. It is a genuinely beautiful tool both for myself as a user and for visitors.
+
+**What do you dislike about Perspective?**
+
+Lacking in some features compared to more matured products in the market but making up for that with a team that genuinely cares about user requests and feedback and seems to be shipping quickly. The community is fantastic and I genuinely feel they care the most about user success.
+
+**What problems is Perspective solving and how is that benefiting you?**
+
+Helping us analyse conversion rates of our quiz funnels.
+
+November 15, 2024
+
+Jude C.
+
+Founder
+
+![Image 192](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/674742929e3723c41f34f3af_673e53c43ad14c3cc0a8103b_1664363400023.jpeg)
+
+Jana Jasper
+
+Teamlead Social Media Marketing @Advidera
+
+[![Image 193](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)](https://www.linkedin.com/posts/jana-jasper-05a064178_zwickt-mich-mal-tr%C3%A4ume-k%C3%B6nnen-ja-doch-wahr-activity-7260303436506656768-0gO1?utm_source=share&utm_medium=member_desktop)![Image 194](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)
+
+**Pinch me, dreams can come true after all 😍**
+
+Michael Bogner and his team from Perspective launched their new product emails today at their winter release - you guys make my heart beat faster, I can tell you that 💞
+
+What this means for us:  
+Much more trust and authenticity in social recruiting if the confirmation of receipt of the application can be sent to the applicants immediately without external workflows. And even (soon) via WhatsApp.
+
+One problem is still the poor accessibility of leads, which could be improved by automatic initial contacts and confirmations. I'm excited to see what levers we can set in motion, dear Perspective team!
+
+We at Advidera have been working with Perspective for over 3 years and the development is really amazing. Hats off to you for your release. I'm already looking forward to trying everything out. In addition to emails, new metrics, features for the funnel and much more are waiting for us!
+
+It supports us in lead generation, target group analysis and is certainly a game changer for your campaigns!
+
+![Image 195](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
+
+November 7, 2024
+
+Jana Jasper
+
+Teamlead Social Media Marketing @Advidera
+
+![Image 196](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/67474292109de978d903d612_67408f3f6af0c5fb77a8713a_1619869813063.jpeg)
+
+Nils Grammerstorf
+
+Managing Partner @Aiment
+
+[![Image 197](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)](https://www.linkedin.com/posts/nilsgrammerstorf_habe-mir-gerade-die-neue-produktdemo-von-activity-7260657469058637824-2uiw?utm_source=share&utm_medium=member_desktop)![Image 198](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)
+
+**Just watched the new product demo from Perspective 🥳**
+
+The entire presentation is done in Apple style, which I find absolutely impressive and something I haven’t seen before in the German-speaking market.
+
+Congrats to Michael and his team! By the way, I highly recommend Perspective to anyone who’s as clueless about funnel building as I am 😄 It makes the process incredibly quick and easy.
+
+Happy weekend!
+
+![Image 199](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/67474292109de978d903d615_67408fe399a91737defee3a9_1731075635387.jpeg)
+
+November 8, 2024
+
+Nils Grammerstorf
+
+Managing Partner @Aiment
+
+![Image 200](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/674742921e872ac5de5f81fe_673e5058938301ab44b55e27_1706808957236.jpeg)
+
+Eric Stawinoga
+
+CEO @Spotlight Talent AG
+
+[![Image 201](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)](https://www.linkedin.com/posts/ericstawinoga_ich-gebe-jedes-jahr-eine-gute-f%C3%BCnfstellige-activity-7260672026032455680-kjeD?utm_source=share&utm_medium=member_desktop)![Image 202](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)
+
+**I spend a good five-figure sum on software every year, and this is one of my favorites.**  
+When I was at a mastermind in South Africa earlier this year, I was asked which software is absolutely reliable and performs easily. The first thing that came to my mind was Perspective.
+
+We use Perspective at all our companies and have now built several hundred funnels and **generated over 20,000 applications via Perspective.**  
+  
+Therefore, a clear recommendation for anyone who does lead generation or recruiting in any form: Perspective is your friend. ✅
+
+PS: A few days ago, Perspective launched another 40+ features and major updates in all product areas.
+
+![Image 203](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
+
+November 8, 2024
+
+Eric Stawinoga
+
+CEO @Spotlight Talent AG
+
+![Image 204](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/67474292f8eba967bdd1d932_673e524ce015ef111e1c3293_1618286208774.jpeg)
+
+Daniel Jost
+
+CEO @imc marketing & consult gmbh
+
+[![Image 205](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)](https://www.linkedin.com/posts/daniel-jost-3869061ba_socialecruiting-perspective-conversionsteigerung-activity-7260593062857338880-yLpo?utm_source=share&utm_medium=member_desktop)![Image 206](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)
+
+**"A one-stop shop" - The social recruiting turbo for us and our customers 🚀**
+
+**‍**Who hasn't experienced it? Tool chaos, endlessly switching back and forth between funnels, emails, CRM and metrics. But this is exactly where Perspective comes in - and at imc marketing & consult gmbh, this tool is now firmly integrated into social recruiting.
+
+Our experience so far as now power users and agency partners? Positive across the board. Perspective ensures that we can organize social recruiting in an efficient and targeted manner. We were really impressed by the newly launched “Journeys” function: a central, closed funnel that seamlessly maps the entire user experience. 🎯
+
+Why are we excited?
+
+1️⃣  A single, smooth funnel - without constant tool switching. All elements are in one place, from the first user interactions to the final conversion.  
+2️⃣  Efficient collaboration - whether internally within the team or externally with our customers: Perspective creates order and clarity.  
+3️⃣  Increase in conversion - more efficiency, more overview, more impact. This is exactly what successful social recruiting needs!
+
+We are looking forward to the upcoming features and the further development of this tool. So far, we are absolutely convinced and are pleased to see how Perspective is setting new standards here. 💪
+
+![Image 207](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
+
+November 7, 2024
+
+Daniel Jost
+
+CEO @imc marketing & consult gmbh
+
+![Image 208](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6747429235c46493949bd64c_6740902caf1d464be2eed642_1724199787260.jpeg)
+
+Manuel Wörle
+
+CEO @Automatisierungen.de & @Bestcatch
+
+[![Image 209](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)](https://www.linkedin.com/posts/manuel-w%C3%B6rle_vor-einiger-zeit-habe-ich-ein-video-dar%C3%BCber-activity-7260242910539882496-5KhO?utm_source=share&utm_medium=member_desktop)![Image 210](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)
+
+Some time ago, I made a video about why I’ve been using Perspective almost from the very beginning.
+
+Since then, on top of the many benefits I mentioned back then, even more have been added.
+
+Today, Perspective.co not only launched their fifth product—emails—but also rolled out 40+ additional features and major updates across all product areas.
+
+This will save us even more time by making it easier to keep clients informed about the completion and adjustments of new funnels.
+
+I’m genuinely glad I decided to go with Perspective so many years ago!
+
+![Image 211](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6747429235c46493949bd648_674090d4c334b17e12ed1112_1730976797199.jpeg)
+
+November 7, 2024
+
+Manuel Wörle
+
+CEO @Automatisierungen.de & @Bestcatch
+
+Read more
+
+Show less
+
+[Explore more success stories](https://www.perspective.co/reviews)
+
+Not sure where to start? Discover our proven resources
+------------------------------------------------------
+
+[### Perspective Community Where marketers and recruiters exchange insights on a daily basis Learn more ![Image 212: Community Snapshoots](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61c9acd20344d128a3de941e_community-visual.webp)](https://www.skool.com/perspective-growth-elite/)[### Mobile Funnel Crash Course The popular 60-minute mobile funnel crash course, moderated live Learn more ![Image 213: Webinar dashboard view](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/63d7c9482be79c83a445967d_ressources-nav-crashcurs-en.webp)](https://strategy.perspective.co/crashcourse-cst/?utm_source=website&utm_medium=home)[### Mobile Funnel Marketing Academy Our Head of Content, Leni, guides you through your first successful funnel Learn more ![Image 214: Mobile funnel academy bundle](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/64550f1985bc54287e055ba2_leni_ptalk.webp)](https://www.perspective.co/academy)
+
+Your free trial  
+made simple.
+------------------------------
+
+### Today
+
+You get 14 days of free access to our software including all courses.
+
+### Day 7
+
+We will send you a reminder email that your trial will end in 7 days.
+
+### Day 14
+
+Your subscription begins, but can be cancelled at any time.
+
+[Get started for free now](https://start.perspective.co/en/signup)
+
+![Image 215](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61c309bdd88108d4ae9c4e50_cta-banner-gradient-left.webp)![Image 216](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61c30943923e30f2d653556d_cta-banner-gradient-right.webp)
+
+Start advertising more effectively in the mobile age.
+-----------------------------------------------------
+
+Cancel anytime
+
+Access to all content
+
+Expert support
+
+[Start my free 14-day trial](https://start.perspective.co/en/signup)
+
+![Image 217](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/6257545171ca7fb94c53f294_funnel-editor-outro.webp)
+
+### Use cases
+
+[Generate appointments](https://www.perspective.co/use-cases/generate-appointments)
+
+[Source talent](https://www.perspective.co/use-cases/source-talent)
+
+[Build an e-mail list](https://www.perspective.co/use-cases/build-an-e-mail-list)
+
+[Make online sales](https://www.perspective.co/use-cases/make-online-sales)
+
+[Gain insights](https://www.perspective.co/use-cases/gain-insights)
+
+[For Agencies](https://www.perspective.co/for/agencies)
+
+### Product
+
+[Why Perspective](https://www.perspective.co/why-perspective)[Features](https://www.perspective.co/pricing#all-features)[Templates](https://www.perspective.co/templates)[Pricing](https://www.perspective.co/pricing)[Status](https://perspective.statuspage.io/)[Login](https://app.perspective.co/en)
+
+### Resources
+
+[Crashcourse](https://strategy.perspective.co/crashcourse-cst/?utm_source=website&utm_medium=footer)[Academy](https://www.perspective.co/academy)[Community](https://www.skool.com/perspective-growth-elite)[Helpcenter](https://intercom.help/perspective-funnels/en/)[Blog](https://www.perspective.co/blog)[Changelog](https://portal.productboard.com/2fdusitgdwu8brwsnsyyxwku/tabs/4-releases)
+
+### Company
+
+[About us](https://www.perspective.co/about-us)[Contact](https://www.perspective.co/#)[EFRE](https://www.perspective.co/efre) [Careers](https://www.perspective.co/careers)[Referral Program](https://intercom.help/perspective-funnels/en/articles/7181525-perspective-referral-program-how-you-and-your-friends-benefit)
+
+### Legal
+
+[Cookie Policies](https://www.perspective.co/cookie-policies)[Privacy](https://www.perspective.co/privacy-policy)[Imprint](https://www.perspective.co/imprint)[Terms & Conditions](https://www.perspective.co/terms-and-conditions)
+
+### Follow us
+
+[Facebook](https://www.facebook.com/groups/perspectiveglobal)[Instagram](https://www.instagram.com/perspective.digital/)[YouTube](https://www.youtube.com/channel/UC9amSeTykQ4eAKtCs3g_tQw)[LinkedIn](https://www.linkedin.com/company/perspective-co/)
+
+![Image 218](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/674710e6dae13a09d9cf5af0_flag-en.webp)
+
+English
+
+[![Image 219](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/674710e6dae13a09d9cf5af0_flag-en.webp) English](https://www.perspective.co/)
+
+[![Image 220](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/674710e2163106f306db9e2b_flag-de.webp) Deutsch](https://www.perspective.co/de)
+
+![Image 221](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/623d848dcf4d5a054c64f8ce_flag-english.webp)
+
+English
+
+[![Image 222](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/623d849843bd8fa67f44d871_flag-german.webp) German](https://www.perspective.co/#)
+
+© Perspective Software GmbH
+
+![Image 223](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62c85f30dfdd6b544f3cfbf7_gdpr.webp)![Image 224](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/6495d2ed50590116fbd4e99c_climate_active.webp)![Image 225](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62257b4bcd0f0b08e9b93658_remote-company.webp)
+
+![Image 226](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62442e159c7a68235e27aae7_referral-visual.avif)
+
+🍿
+--
+
+1 month Perspective for free
+----------------------------
+
+Your friend has invited you to Perspective.You have received a special invite from our team! Instead of 2 weeks, you get 4 weeks of free trial. Build funnels. Generate appointments, leads or new employees. To take advantage of the free month, create your free account now.
+
+[Create free account](https://www.perspective.co/#)
+
+![Image 227](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62442e8368ba8980386087a4_referral-visual.avif)
+
+🍿
+--
+
+1 Monat Perspective geschenkt
+-----------------------------
+
+Dein Freund hat dich zu Perspective eingeladen. Du erhältst anstatt 2 Wochen, 4 Wochen unverbindlichen Testzeitraum. Du hast eine besondere Einladung von unserem Team erhalten! Anstatt nur 2 Wochen, erhältst du ganze 4 Wochen lang unverbindlichen Testzeitraum für Perspective. Baue Funnels. Generiere Termine, Leads oder neue Mitarbeiter. Um den kostenlosen Monat zu nutzen, erstelle dir jetzt deinen kostenlosen Account.
+
+[Kostenloses Konto erstellen](https://start.perspective.co/signup?partnerKey=fourweektrialmarketing7855)
+
+![Image 228](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62442e8368ba8980386087a4_referral-visual.avif)
+
+🍿
+--
+
+1 Monat Perspective geschenkt
+-----------------------------
+
+Dein Freund hat dich zu Perspective eingeladen. Du erhältst anstatt 2 Wochen, 4 Wochen unverbindlichen Testzeitraum. Du hast eine besondere Einladung von unserem Team erhalten! Anstatt nur 2 Wochen, erhältst du ganze 4 Wochen lang unverbindlichen Testzeitraum für Perspective. Baue Funnels. Generiere Termine, Leads oder neue Mitarbeiter. Um den kostenlosen Monat zu nutzen, erstelle dir jetzt deinen kostenlosen Account.
+
+[Kostenloses Konto erstellen](https://start.perspective.co/signup?partnerKey=fourweektrialmarketing7855)
+
+![Image 229](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/66618610468be854fb160635_652144212aa0856ba6e4711c_636a92452a896a0a900f0b1e.webp)
+
+15-Minute Express Demo
+----------------------
+
+Discover the secret to easier and faster lead generation with Perspective in this free demo. Scale your business and achieve unbeatable results beyond funnels.
+
+[Watch demo](https://www.perspective.co/demo)
+
+Du scheinst Deutsch zu sprechen.
+
+[Zu English wechseln](https://www.perspective.co/)
+
+[Zu Deutsch wechseln](https://www.perspective.co/de)
+
+Schließen
+
+![Image 230](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/63b3f7edd7207902e22a2b83_intercom-chat.webp)
+
+![Image 231](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f1318c6248585984399031_support-face-1.webp)![Image 232](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f1318cc32e1d8042498b82_support-face-2.webp)![Image 233](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f1318c9a16078452ab14b6_support-face-3.webp)
+
+To chat with our Support Team, you need to accept the "**Marketing Cookies**".[](https://www.perspective.co/#)
+
+[![Image 234](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/633e9776c8dec056af083d6d_cookie-pref.webp)](https://www.perspective.co/#)
+
+## Metadata
+
+```json
+{
+  "title": "Perspective Funnels - Build breathtaking Funnels easily",
+  "description": "Perspective is the #1 Mobile Funnel Builder. Easily get more appointments, applications & leads in minutes.",
+  "url": "https://www.perspective.co/",
+  "content": "Perspective Funnels - Build breathtaking Funnels easily\n===============\n            \n\n[![Image 129](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61bb125944d9e0417af764a9_perspective-icon-logo.avif)](https://www.perspective.co/)\n\n[Why Perspective](https://www.perspective.co/why-perspective)\n\nProduct\n\nProduct\n\n[![Image 130](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99860eeac37c9561a4c07_funnel.svg)![Image 131](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddeac0933cc4f63a07d90d_finnel.svg) Funnel The mobile-first funnel builder](https://www.perspective.co/funnel)[![Image 132](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d9986050097152328058d9_analytics.svg)![Image 133](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddeb89f4b10a132993a8a2_analytics-blue.svg) Analytics Optimize your lead generation fast](https://www.perspective.co/analytics)[![Image 134](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99860d7a36d89f7879f22_crm.svg)![Image 135](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddebb792124bdd051a6e45_crm.svg) CRM NEW Manage leads where you collect them](https://www.perspective.co/crm)[![Image 136](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99860fb5ae9002f33e6bf_integrations.svg)![Image 137](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddeac28e12b2edd06808c0_integrations.svg) Integrations Connect to your tools effortlessly](https://www.perspective.co/integrations)\n\nUse cases\n\n[![Image 138](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99860bffdd2638a5ecb4b_calendar.svg)![Image 139](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddeac1a2632f4da2885bb1_calendar.svg) Generate appointments Fill your calendar automatically](https://www.perspective.co/use-cases/generate-appointments)[![Image 140](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d9986046f288ded9d59e42_talent.svg)![Image 141](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddeac2437b171365f4f646_talent.svg) Source talent Find and hire top talent in a flash](https://www.perspective.co/use-cases/source-talent)[![Image 142](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99860361bef4753bc5358_email.svg)![Image 143](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65ddec0fabf7112e14cc6313_email.svg) Build an email list Grow and nurture your audience](https://www.perspective.co/use-cases/build-an-e-mail-list)\n\n[Watch Demo Generate better leads in record time with one platform ![Image 144](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65d99a1ec90e9c01aa292536_product%20nav%20cta%20img.avif)](https://www.perspective.co/demo)\n\n[Perspective hat 40+ neue Funktionen 🥳 Keynote-Aufzeichnung ansehen ![Image 145](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/673876bdd5b1010043e921c5_nav-features.webp)](https://www.perspective.co/winter-release-en)\n\n[Templates](https://www.perspective.co/templates)\n\n[Reviews](https://www.perspective.co/reviews)\n\n[Pricing](https://www.perspective.co/pricing)\n\nResources\n\n[Crash Course ![Image 146](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/63d7c9482be79c83a445967d_ressources-nav-crashcurs-en.webp) Your 60-minute Funnel Crash Course, moderated live.](https://strategy.perspective.co/crashcourse-cst/?utm_source=website&utm_medium=menu)[Community ![Image 147](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f0042a0bea2df4af4bab13_ressources-nav-community.webp) Over 150 members exchange information daily.](https://www.skool.com/perspective-growth-elite)[Academy ![Image 148](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/63f4bf0e2254e8825de5d208_ressources-nav-academy-EN.webp) A step-by-step video course to your first funnel.](https://www.perspective.co/academy)[Case-Studies ![Image 149](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/647f360fb66979935fc220e4_ptalks_header_2.webp) Über 50 Kunden Interviews mit deren Vorlagen.](https://www.perspective.co/de/blog/case-studies)\n\nRead More\n\n[Case-Studies](https://www.perspective.co/blog/case-studies)[Help center](https://intercom.help/perspective-funnels/en/)[What's new](https://perspective.canny.io/changelog)[Blog](https://www.perspective.co/blog)\n\nAbout us\n\n5\n\n[About us ![Image 150](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f408ce5698b47c694fb7b3_about%20nav%20img.webp) We have made it our mission to change marketing](https://www.perspective.co/about-us)[Careers 5 ![Image 151](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f408ceb0b595e1d5a23003_jobs%20nav%20img.webp) Talented people need freedom to thrive](https://www.perspective.co/careers)\n\n[Login](https://app.perspective.co/en)[Try for free](https://start.perspective.co/en/signup)\n\n[Try for free](https://start.perspective.co/en/signup)\n\n[New We just released over 40 new features! Explore now](https://www.perspective.co/winter-release-en)\n\nCreate high-converting funnels in just 60 minutes\n=================================================\n\nGenerate a steady flow of leads with lightning-fast and easy-to-build Perspective Funnels. No design or programming skills required.\n\n[**Start my free 14-day trial**](https://start.perspective.co/en/signup)[Watch demo](https://www.perspective.co/demo)\n\nCancel anytime\n\nAccess to all content\n\nExpert support\n\n[Generate appointments --------------------- Create case study, quote, or appointment funnels for high-quality appointments in your calendar. Learn more](https://www.perspective.co/use-cases/generate-appointments)\n\n[Source talent ------------- Get highly qualified candidates at the touch of a button and revolutionize your recruiting. Learn more](https://www.perspective.co/use-cases/source-talent)\n\n[Build an e-mail list -------------------- Free yourself from expensive advertising costs and build up valuable target group ownership. Learn more](https://www.perspective.co/use-cases/build-an-e-mail-list)\n\n[Generate appointments --------------------- Create case study, quote, or appointment funnels for high-quality appointments in your calendar. Learn more](https://www.perspective.co/use-cases/generate-appointments)\n\n[Source talent ------------- Get highly qualified candidates at the touch of a button and revolutionize your recruiting. Learn more](https://www.perspective.co/use-cases/source-talent)\n\n[Build an e-mail list -------------------- Free yourself from expensive advertising costs and build up valuable target group ownership. Learn more](https://www.perspective.co/use-cases/build-an-e-mail-list)\n\n[Generate appointments --------------------- Create case study, quote, or appointment funnels for high-quality appointments in your calendar. Learn more](https://www.perspective.co/use-cases/generate-appointments)\n\n[Source talent ------------- Get highly qualified candidates at the touch of a button and revolutionize your recruiting. Learn more](https://www.perspective.co/use-cases/source-talent)\n\n[Build an e-mail list -------------------- Free yourself from expensive advertising costs and build up valuable target group ownership. Learn more](https://www.perspective.co/use-cases/build-an-e-mail-list)\n\nUsed daily by more than 5,000 small and large businesses.\n\n![Image 152: zalando logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d6337b6a1c4fafc1416_Zalando.avif)\n\n![Image 153: google logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d6f4d2aa04c7934ac13_Google.avif)\n\n![Image 154: dhl logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d7b6c755c83b6147b03_DHL.avif)\n\n![Image 155: Coca-Cola logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d8603d49a3f70f8d252_Coca%20Cola.avif)\n\n![Image 156: Ergo Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41da0d45a9d6862d0eb64_Ergo.avif)\n\n![Image 157: Talentmagnet Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41df48807bcdfaec92756_Talentmagnet.avif)\n\n![Image 158: Mercedes Benz Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41dcf390d57d9169710d7_Mercedes%20Benz.avif)\n\n![Image 159: Smava Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41dad0bcfc7e70637c28a_smava.avif)\n\n![Image 160: Marriott Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41ddb54fed3eb897961c0_Marriot.avif)\n\n![Image 161: Radyant Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41e017b3b901ff117e783_Radyant.avif)\n\n![Image 162: Daimler Truck Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41db80e2f09b58ae2f53f_Daimler%20Truck.avif)\n\n![Image 163: Entrepreneur University Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d93c64d19388011b83f_Entrepreneur%20University.avif)\n\n![Image 164: zalando logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d6337b6a1c4fafc1416_Zalando.avif)\n\n![Image 165: google logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d6f4d2aa04c7934ac13_Google.avif)\n\n![Image 166: dhl logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d7b6c755c83b6147b03_DHL.avif)\n\n![Image 167: Coca-Cola logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d8603d49a3f70f8d252_Coca%20Cola.avif)\n\n![Image 168: Ergo Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41da0d45a9d6862d0eb64_Ergo.avif)\n\n![Image 169: Talentmagnet Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41df48807bcdfaec92756_Talentmagnet.avif)\n\n![Image 170: Mercedes Benz Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41dcf390d57d9169710d7_Mercedes%20Benz.avif)\n\n![Image 171: Smava Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41dad0bcfc7e70637c28a_smava.avif)\n\n![Image 172: Marriott Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41ddb54fed3eb897961c0_Marriot.avif)\n\n![Image 173: Radyant Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41e017b3b901ff117e783_Radyant.avif)\n\n![Image 174: Daimler Truck Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41db80e2f09b58ae2f53f_Daimler%20Truck.avif)\n\n![Image 175: Entrepreneur University Logo](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/65a41d93c64d19388011b83f_Entrepreneur%20University.avif)\n\nWhat's a Mobile Funnel?\n-----------------------\n\nTraditional websites and landing pages are neither interactive nor personalized. These sites also load slowly and are not optimized for the mobile world. Moreover, [98.5%](https://www.statista.com/statistics/377808/distribution-of-facebook-users-by-device/) of your target audience uses social media via their cell phones. Mobile funnels are your new modern tool. The result: more appointments, employees, and leads.\n\n[](https://www.perspective.co/#)\n\n![Image 176](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/65b13b09cf55251bd896d312_Thumbnail%20Homepage_2x.webp)\n\n[](https://www.perspective.co/#)\n\n[**Start my free 14-day trial**](https://start.perspective.co/en/signup?utm_source=website&utm_medium=demo-video-en&utm_term=button)[**Contact sales**](https://calendly.com/d/cp8c-swg-bwc/15-min-perspective-assessment)\n\n7x\n\nhigher conversion rate\n\n42x\n\nfaster implementation\n\n300%\n\nhigher lead quality\n\nCreate your first funnel in 60 minutes. Headache-free.\n------------------------------------------------------\n\n![Image 177](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29ef9b10e63f9d8117_1-fast-editing.webp)\n\n![Image 178](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29edd0e862d0b34042_2-template-overview.webp)\n\n![Image 179](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29046dccd7f230ae3e_3-adding-blocks.webp)\n\n![Image 180](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b299a75cfbb265b9c22_4-personalisation.webp)\n\n### Fast editing\n\nCreate stunning mobile funnels quickly and easily. Now you can build in minutes, not hours.\n\n### Proven templates\n\nChoose from 16 incredible mobile funnel templates tested in 50+ industries. Start now.\n\n### Unique design\n\nChoose from 2 million+ license-free graphics, photos, and components to help bring your funnels to life.\n\n### Personalized approach\n\nTalk with your target audience like you are face-to-face and customize the funnel flow accordingly.\n\nIntegrate your favorite tools and share your funnel with the world.\n-------------------------------------------------------------------\n\n![Image 181](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b2aff8cb049dfca73cc_5-responsive.webp)\n\n![Image 182](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29eec95c6ac22fcdc7_6-integrations.webp)\n\n![Image 183](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29625d560ec32fecae_7-domain.webp)\n\n![Image 184](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b29404b8db16db5bf1b_8-gdpr.webp)\n\n### Beautiful on all devices\n\nYour funnels are optimized for both smartphones and desktop. A complete automation.\n\n### Smart integrations\n\nIntegrate Facebook Pixel, CAPI, Tracking Pixel, WebHooks, Zapier, or connect our direct integrations.\n\n### Own your domain\n\nSimply connect your domain or a Perspective domain in just 4 clicks. Put your brand in the spotlight!\n\n### GDPR compliance\n\nEuropean servers, a smart cookie notice, components, and much more. Easy with questions & GCU.\n\nAnalyze your target audience and achieve record results.\n--------------------------------------------------------\n\n![Image 185](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b2af9fde86025aca4c5_9-publishing.webp)\n\n![Image 186](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b2ab68f497ca5d23181_10-analytics.webp)\n\n![Image 187](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b2a454aba27272d051d_11-insights.webp)\n\n![Image 188](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62626b2b08016773d5feb42c_12-contacts.webp)\n\n### For all platforms\n\nPublish your funnels on any platform—from Instagram and Facebook, to LinkedIn, via email, and more.\n\n### A/B testing & analytics\n\nFind out where your visitors land in the funnel. Create A/B tests and get unprecedented results.\n\n### Valuable insights\n\nOptimize your ads and mobile funnels based on valuable data insights into your target audience.\n\n### Qualified leads\n\nYour account saves leads automatically. You can also choose to receive an email for every new lead.\n\nWhat customers say about Perspective\n------------------------------------\n\n![Image 189](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/6673f896e8f353e75cd5e837_avatar.svg)\n\nJude C.\n\nFounder\n\n[![Image 190](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6740873ff68a72ff6a944eec_G2.svg)](https://www.g2.com/products/perspective/reviews/perspective-review-10520085)![Image 191](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6740873ff68a72ff6a944eec_G2.svg)\n\n**Simplified, reliable funnel building**\n\nEase of use and how smooth the funnel feels for users. It doesn't feel like something that has been thrown together out of the box. It is a genuinely beautiful tool both for myself as a user and for visitors.\n\n**What do you dislike about Perspective?**\n\nLacking in some features compared to more matured products in the market but making up for that with a team that genuinely cares about user requests and feedback and seems to be shipping quickly. The community is fantastic and I genuinely feel they care the most about user success.\n\n**What problems is Perspective solving and how is that benefiting you?**\n\nHelping us analyse conversion rates of our quiz funnels.\n\nNovember 15, 2024\n\nJude C.\n\nFounder\n\n![Image 192](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/674742929e3723c41f34f3af_673e53c43ad14c3cc0a8103b_1664363400023.jpeg)\n\nJana Jasper\n\nTeamlead Social Media Marketing @Advidera\n\n[![Image 193](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)](https://www.linkedin.com/posts/jana-jasper-05a064178_zwickt-mich-mal-tr%C3%A4ume-k%C3%B6nnen-ja-doch-wahr-activity-7260303436506656768-0gO1?utm_source=share&utm_medium=member_desktop)![Image 194](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)\n\n**Pinch me, dreams can come true after all 😍**\n\nMichael Bogner and his team from Perspective launched their new product emails today at their winter release - you guys make my heart beat faster, I can tell you that 💞\n\nWhat this means for us:  \nMuch more trust and authenticity in social recruiting if the confirmation of receipt of the application can be sent to the applicants immediately without external workflows. And even (soon) via WhatsApp.\n\nOne problem is still the poor accessibility of leads, which could be improved by automatic initial contacts and confirmations. I'm excited to see what levers we can set in motion, dear Perspective team!\n\nWe at Advidera have been working with Perspective for over 3 years and the development is really amazing. Hats off to you for your release. I'm already looking forward to trying everything out. In addition to emails, new metrics, features for the funnel and much more are waiting for us!\n\nIt supports us in lead generation, target group analysis and is certainly a game changer for your campaigns!\n\n![Image 195](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)\n\nNovember 7, 2024\n\nJana Jasper\n\nTeamlead Social Media Marketing @Advidera\n\n![Image 196](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/67474292109de978d903d612_67408f3f6af0c5fb77a8713a_1619869813063.jpeg)\n\nNils Grammerstorf\n\nManaging Partner @Aiment\n\n[![Image 197](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)](https://www.linkedin.com/posts/nilsgrammerstorf_habe-mir-gerade-die-neue-produktdemo-von-activity-7260657469058637824-2uiw?utm_source=share&utm_medium=member_desktop)![Image 198](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)\n\n**Just watched the new product demo from Perspective 🥳**\n\nThe entire presentation is done in Apple style, which I find absolutely impressive and something I haven’t seen before in the German-speaking market.\n\nCongrats to Michael and his team! By the way, I highly recommend Perspective to anyone who’s as clueless about funnel building as I am 😄 It makes the process incredibly quick and easy.\n\nHappy weekend!\n\n![Image 199](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/67474292109de978d903d615_67408fe399a91737defee3a9_1731075635387.jpeg)\n\nNovember 8, 2024\n\nNils Grammerstorf\n\nManaging Partner @Aiment\n\n![Image 200](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/674742921e872ac5de5f81fe_673e5058938301ab44b55e27_1706808957236.jpeg)\n\nEric Stawinoga\n\nCEO @Spotlight Talent AG\n\n[![Image 201](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)](https://www.linkedin.com/posts/ericstawinoga_ich-gebe-jedes-jahr-eine-gute-f%C3%BCnfstellige-activity-7260672026032455680-kjeD?utm_source=share&utm_medium=member_desktop)![Image 202](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)\n\n**I spend a good five-figure sum on software every year, and this is one of my favorites.**  \nWhen I was at a mastermind in South Africa earlier this year, I was asked which software is absolutely reliable and performs easily. The first thing that came to my mind was Perspective.\n\nWe use Perspective at all our companies and have now built several hundred funnels and **generated over 20,000 applications via Perspective.**  \n  \nTherefore, a clear recommendation for anyone who does lead generation or recruiting in any form: Perspective is your friend. ✅\n\nPS: A few days ago, Perspective launched another 40+ features and major updates in all product areas.\n\n![Image 203](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)\n\nNovember 8, 2024\n\nEric Stawinoga\n\nCEO @Spotlight Talent AG\n\n![Image 204](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/67474292f8eba967bdd1d932_673e524ce015ef111e1c3293_1618286208774.jpeg)\n\nDaniel Jost\n\nCEO @imc marketing & consult gmbh\n\n[![Image 205](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)](https://www.linkedin.com/posts/daniel-jost-3869061ba_socialecruiting-perspective-conversionsteigerung-activity-7260593062857338880-yLpo?utm_source=share&utm_medium=member_desktop)![Image 206](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)\n\n**\"A one-stop shop\" - The social recruiting turbo for us and our customers 🚀**\n\n**‍**Who hasn't experienced it? Tool chaos, endlessly switching back and forth between funnels, emails, CRM and metrics. But this is exactly where Perspective comes in - and at imc marketing & consult gmbh, this tool is now firmly integrated into social recruiting.\n\nOur experience so far as now power users and agency partners? Positive across the board. Perspective ensures that we can organize social recruiting in an efficient and targeted manner. We were really impressed by the newly launched “Journeys” function: a central, closed funnel that seamlessly maps the entire user experience. 🎯\n\nWhy are we excited?\n\n1️⃣  A single, smooth funnel - without constant tool switching. All elements are in one place, from the first user interactions to the final conversion.  \n2️⃣  Efficient collaboration - whether internally within the team or externally with our customers: Perspective creates order and clarity.  \n3️⃣  Increase in conversion - more efficiency, more overview, more impact. This is exactly what successful social recruiting needs!\n\nWe are looking forward to the upcoming features and the further development of this tool. So far, we are absolutely convinced and are pleased to see how Perspective is setting new standards here. 💪\n\n![Image 207](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)\n\nNovember 7, 2024\n\nDaniel Jost\n\nCEO @imc marketing & consult gmbh\n\n![Image 208](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6747429235c46493949bd64c_6740902caf1d464be2eed642_1724199787260.jpeg)\n\nManuel Wörle\n\nCEO @Automatisierungen.de & @Bestcatch\n\n[![Image 209](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)](https://www.linkedin.com/posts/manuel-w%C3%B6rle_vor-einiger-zeit-habe-ich-ein-video-dar%C3%BCber-activity-7260242910539882496-5KhO?utm_source=share&utm_medium=member_desktop)![Image 210](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6687f9c1a3b0947f3baa17dc_LinkedIn.svg)\n\nSome time ago, I made a video about why I’ve been using Perspective almost from the very beginning.\n\nSince then, on top of the many benefits I mentioned back then, even more have been added.\n\nToday, Perspective.co not only launched their fifth product—emails—but also rolled out 40+ additional features and major updates across all product areas.\n\nThis will save us even more time by making it easier to keep clients informed about the completion and adjustments of new funnels.\n\nI’m genuinely glad I decided to go with Perspective so many years ago!\n\n![Image 211](https://cdn.prod.website-files.com/61c05cf1fe36bc5723b06446/6747429235c46493949bd648_674090d4c334b17e12ed1112_1730976797199.jpeg)\n\nNovember 7, 2024\n\nManuel Wörle\n\nCEO @Automatisierungen.de & @Bestcatch\n\nRead more\n\nShow less\n\n[Explore more success stories](https://www.perspective.co/reviews)\n\nNot sure where to start? Discover our proven resources\n------------------------------------------------------\n\n[### Perspective Community Where marketers and recruiters exchange insights on a daily basis Learn more ![Image 212: Community Snapshoots](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61c9acd20344d128a3de941e_community-visual.webp)](https://www.skool.com/perspective-growth-elite/)[### Mobile Funnel Crash Course The popular 60-minute mobile funnel crash course, moderated live Learn more ![Image 213: Webinar dashboard view](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/63d7c9482be79c83a445967d_ressources-nav-crashcurs-en.webp)](https://strategy.perspective.co/crashcourse-cst/?utm_source=website&utm_medium=home)[### Mobile Funnel Marketing Academy Our Head of Content, Leni, guides you through your first successful funnel Learn more ![Image 214: Mobile funnel academy bundle](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/64550f1985bc54287e055ba2_leni_ptalk.webp)](https://www.perspective.co/academy)\n\nYour free trial  \nmade simple.\n------------------------------\n\n### Today\n\nYou get 14 days of free access to our software including all courses.\n\n### Day 7\n\nWe will send you a reminder email that your trial will end in 7 days.\n\n### Day 14\n\nYour subscription begins, but can be cancelled at any time.\n\n[Get started for free now](https://start.perspective.co/en/signup)\n\n![Image 215](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61c309bdd88108d4ae9c4e50_cta-banner-gradient-left.webp)![Image 216](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61c30943923e30f2d653556d_cta-banner-gradient-right.webp)\n\nStart advertising more effectively in the mobile age.\n-----------------------------------------------------\n\nCancel anytime\n\nAccess to all content\n\nExpert support\n\n[Start my free 14-day trial](https://start.perspective.co/en/signup)\n\n![Image 217](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/6257545171ca7fb94c53f294_funnel-editor-outro.webp)\n\n### Use cases\n\n[Generate appointments](https://www.perspective.co/use-cases/generate-appointments)\n\n[Source talent](https://www.perspective.co/use-cases/source-talent)\n\n[Build an e-mail list](https://www.perspective.co/use-cases/build-an-e-mail-list)\n\n[Make online sales](https://www.perspective.co/use-cases/make-online-sales)\n\n[Gain insights](https://www.perspective.co/use-cases/gain-insights)\n\n[For Agencies](https://www.perspective.co/for/agencies)\n\n### Product\n\n[Why Perspective](https://www.perspective.co/why-perspective)[Features](https://www.perspective.co/pricing#all-features)[Templates](https://www.perspective.co/templates)[Pricing](https://www.perspective.co/pricing)[Status](https://perspective.statuspage.io/)[Login](https://app.perspective.co/en)\n\n### Resources\n\n[Crashcourse](https://strategy.perspective.co/crashcourse-cst/?utm_source=website&utm_medium=footer)[Academy](https://www.perspective.co/academy)[Community](https://www.skool.com/perspective-growth-elite)[Helpcenter](https://intercom.help/perspective-funnels/en/)[Blog](https://www.perspective.co/blog)[Changelog](https://portal.productboard.com/2fdusitgdwu8brwsnsyyxwku/tabs/4-releases)\n\n### Company\n\n[About us](https://www.perspective.co/about-us)[Contact](https://www.perspective.co/#)[EFRE](https://www.perspective.co/efre) [Careers](https://www.perspective.co/careers)[Referral Program](https://intercom.help/perspective-funnels/en/articles/7181525-perspective-referral-program-how-you-and-your-friends-benefit)\n\n### Legal\n\n[Cookie Policies](https://www.perspective.co/cookie-policies)[Privacy](https://www.perspective.co/privacy-policy)[Imprint](https://www.perspective.co/imprint)[Terms & Conditions](https://www.perspective.co/terms-and-conditions)\n\n### Follow us\n\n[Facebook](https://www.facebook.com/groups/perspectiveglobal)[Instagram](https://www.instagram.com/perspective.digital/)[YouTube](https://www.youtube.com/channel/UC9amSeTykQ4eAKtCs3g_tQw)[LinkedIn](https://www.linkedin.com/company/perspective-co/)\n\n![Image 218](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/674710e6dae13a09d9cf5af0_flag-en.webp)\n\nEnglish\n\n[![Image 219](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/674710e6dae13a09d9cf5af0_flag-en.webp) English](https://www.perspective.co/)\n\n[![Image 220](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/674710e2163106f306db9e2b_flag-de.webp) Deutsch](https://www.perspective.co/de)\n\n![Image 221](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/623d848dcf4d5a054c64f8ce_flag-english.webp)\n\nEnglish\n\n[![Image 222](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/623d849843bd8fa67f44d871_flag-german.webp) German](https://www.perspective.co/#)\n\n© Perspective Software GmbH\n\n![Image 223](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62c85f30dfdd6b544f3cfbf7_gdpr.webp)![Image 224](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/6495d2ed50590116fbd4e99c_climate_active.webp)![Image 225](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62257b4bcd0f0b08e9b93658_remote-company.webp)\n\n![Image 226](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62442e159c7a68235e27aae7_referral-visual.avif)\n\n🍿\n--\n\n1 month Perspective for free\n----------------------------\n\nYour friend has invited you to Perspective.You have received a special invite from our team! Instead of 2 weeks, you get 4 weeks of free trial. Build funnels. Generate appointments, leads or new employees. To take advantage of the free month, create your free account now.\n\n[Create free account](https://www.perspective.co/#)\n\n![Image 227](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62442e8368ba8980386087a4_referral-visual.avif)\n\n🍿\n--\n\n1 Monat Perspective geschenkt\n-----------------------------\n\nDein Freund hat dich zu Perspective eingeladen. Du erhältst anstatt 2 Wochen, 4 Wochen unverbindlichen Testzeitraum. Du hast eine besondere Einladung von unserem Team erhalten! Anstatt nur 2 Wochen, erhältst du ganze 4 Wochen lang unverbindlichen Testzeitraum für Perspective. Baue Funnels. Generiere Termine, Leads oder neue Mitarbeiter. Um den kostenlosen Monat zu nutzen, erstelle dir jetzt deinen kostenlosen Account.\n\n[Kostenloses Konto erstellen](https://start.perspective.co/signup?partnerKey=fourweektrialmarketing7855)\n\n![Image 228](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/62442e8368ba8980386087a4_referral-visual.avif)\n\n🍿\n--\n\n1 Monat Perspective geschenkt\n-----------------------------\n\nDein Freund hat dich zu Perspective eingeladen. Du erhältst anstatt 2 Wochen, 4 Wochen unverbindlichen Testzeitraum. Du hast eine besondere Einladung von unserem Team erhalten! Anstatt nur 2 Wochen, erhältst du ganze 4 Wochen lang unverbindlichen Testzeitraum für Perspective. Baue Funnels. Generiere Termine, Leads oder neue Mitarbeiter. Um den kostenlosen Monat zu nutzen, erstelle dir jetzt deinen kostenlosen Account.\n\n[Kostenloses Konto erstellen](https://start.perspective.co/signup?partnerKey=fourweektrialmarketing7855)\n\n![Image 229](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/66618610468be854fb160635_652144212aa0856ba6e4711c_636a92452a896a0a900f0b1e.webp)\n\n15-Minute Express Demo\n----------------------\n\nDiscover the secret to easier and faster lead generation with Perspective in this free demo. Scale your business and achieve unbeatable results beyond funnels.\n\n[Watch demo](https://www.perspective.co/demo)\n\nDu scheinst Deutsch zu sprechen.\n\n[Zu English wechseln](https://www.perspective.co/)\n\n[Zu Deutsch wechseln](https://www.perspective.co/de)\n\nSchließen\n\n![Image 230](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/63b3f7edd7207902e22a2b83_intercom-chat.webp)\n\n![Image 231](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f1318c6248585984399031_support-face-1.webp)![Image 232](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f1318cc32e1d8042498b82_support-face-2.webp)![Image 233](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/61f1318c9a16078452ab14b6_support-face-3.webp)\n\nTo chat with our Support Team, you need to accept the \"**Marketing Cookies**\".[](https://www.perspective.co/#)\n\n[![Image 234](https://cdn.prod.website-files.com/61ba09162b87002e87715b91/633e9776c8dec056af083d6d_cookie-pref.webp)](https://www.perspective.co/#)",
+  "usage": {
+    "tokens": 9512
+  }
+}
+```

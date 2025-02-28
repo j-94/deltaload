@@ -1,0 +1,2005 @@
+This is a legacy site. Please use the latest v0.2 and v0.3 API references instead.
+
+LangChain
+Core
+Community
+Experimental
+Text splitters
+Partner libs
+Docs
+ 
+Toggle Menu
+langchain_experimental 0.0.65
+langchain_experimental.agents
+langchain_experimental.autonomous_agents
+langchain_experimental.chat_models
+langchain_experimental.comprehend_moderation
+langchain_experimental.cpal
+langchain_experimental.data_anonymizer
+langchain_experimental.fallacy_removal
+langchain_experimental.generative_agents
+langchain_experimental.graph_transformers
+langchain_experimental.llm_bash
+langchain_experimental.llm_symbolic_math
+langchain_experimental.llms
+langchain_experimental.open_clip
+langchain_experimental.pal_chain
+langchain_experimental.plan_and_execute
+langchain_experimental.prompt_injection_identifier
+langchain_experimental.recommenders
+langchain_experimental.retrievers
+langchain_experimental.rl_chain
+langchain_experimental.smart_llm
+langchain_experimental.sql
+langchain_experimental.tabular_synthetic_data
+langchain_experimental.text_splitter
+langchain_experimental.tools
+langchain_experimental.tot
+langchain_experimental.utilities
+langchain_experimental.video_captioning
+langchain_experimental 0.0.65
+langchain_experimental.agents
+
+Agent is a class that uses an LLM to choose a sequence of actions to take.
+
+In Chains, a sequence of actions is hardcoded. In Agents, a language model is used as a reasoning engine to determine which actions to take and in which order.
+
+Agents select and use Tools and Toolkits for actions.
+
+Functions
+
+agents.agent_toolkits.csv.base.create_csv_agent(...)
+
+	
+
+Create pandas dataframe agent by loading csv to a dataframe.
+
+
+
+
+agents.agent_toolkits.pandas.base.create_pandas_dataframe_agent(llm, df)
+
+	
+
+Construct a Pandas agent from an LLM and dataframe(s).
+
+
+
+
+agents.agent_toolkits.python.base.create_python_agent(...)
+
+	
+
+Construct a python agent from an LLM and tool.
+
+
+
+
+agents.agent_toolkits.spark.base.create_spark_dataframe_agent(llm, df)
+
+	
+
+Construct a Spark agent from an LLM and dataframe.
+
+
+
+
+agents.agent_toolkits.xorbits.base.create_xorbits_agent(...)
+
+	
+
+Construct a xorbits agent from an LLM and dataframe.
+
+langchain_experimental.autonomous_agents
+
+Autonomous agents in the Langchain experimental package include [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT), [BabyAGI](https://github.com/yoheinakajima/babyagi), and [HuggingGPT](https://arxiv.org/abs/2303.17580) agents that interact with language models autonomously.
+
+These agents have specific functionalities like memory management, task creation, execution chains, and response generation.
+
+They differ from ordinary agents by their autonomous decision-making capabilities, memory handling, and specialized functionalities for tasks and response.
+
+Classes
+
+autonomous_agents.autogpt.agent.AutoGPT(...)
+
+	
+
+Agent for interacting with AutoGPT.
+
+
+
+
+autonomous_agents.autogpt.memory.AutoGPTMemory
+
+	
+
+Memory for AutoGPT.
+
+
+
+
+autonomous_agents.autogpt.output_parser.AutoGPTAction(...)
+
+	
+
+Action returned by AutoGPTOutputParser.
+
+
+
+
+autonomous_agents.autogpt.output_parser.AutoGPTOutputParser
+
+	
+
+Output parser for AutoGPT.
+
+
+
+
+autonomous_agents.autogpt.output_parser.BaseAutoGPTOutputParser
+
+	
+
+Base Output parser for AutoGPT.
+
+
+
+
+autonomous_agents.autogpt.prompt.AutoGPTPrompt
+
+	
+
+Prompt for AutoGPT.
+
+
+
+
+autonomous_agents.autogpt.prompt_generator.PromptGenerator()
+
+	
+
+Generator of custom prompt strings.
+
+
+
+
+autonomous_agents.baby_agi.baby_agi.BabyAGI
+
+	
+
+Controller model for the BabyAGI agent.
+
+
+
+
+autonomous_agents.baby_agi.task_creation.TaskCreationChain
+
+	
+
+Chain generating tasks.
+
+
+
+
+autonomous_agents.baby_agi.task_execution.TaskExecutionChain
+
+	
+
+Chain to execute tasks.
+
+
+
+
+autonomous_agents.baby_agi.task_prioritization.TaskPrioritizationChain
+
+	
+
+Chain to prioritize tasks.
+
+
+
+
+autonomous_agents.hugginggpt.hugginggpt.HuggingGPT(...)
+
+	
+
+Agent for interacting with HuggingGPT.
+
+
+
+
+autonomous_agents.hugginggpt.repsonse_generator.ResponseGenerationChain
+
+	
+
+Chain to execute tasks.
+
+
+
+
+autonomous_agents.hugginggpt.repsonse_generator.ResponseGenerator(...)
+
+	
+
+Generates a response based on the input.
+
+
+
+
+autonomous_agents.hugginggpt.task_executor.Task(...)
+
+	
+
+Task to be executed.
+
+
+
+
+autonomous_agents.hugginggpt.task_executor.TaskExecutor(plan)
+
+	
+
+Load tools and execute tasks.
+
+
+
+
+autonomous_agents.hugginggpt.task_planner.BasePlanner
+
+	
+
+Base class for a planner.
+
+
+
+
+autonomous_agents.hugginggpt.task_planner.Plan(steps)
+
+	
+
+A plan to execute.
+
+
+
+
+autonomous_agents.hugginggpt.task_planner.PlanningOutputParser
+
+	
+
+Parses the output of the planning stage.
+
+
+
+
+autonomous_agents.hugginggpt.task_planner.Step(...)
+
+	
+
+A step in the plan.
+
+
+
+
+autonomous_agents.hugginggpt.task_planner.TaskPlaningChain
+
+	
+
+Chain to execute tasks.
+
+
+
+
+autonomous_agents.hugginggpt.task_planner.TaskPlanner
+
+	
+
+Planner for tasks.
+
+Functions
+
+autonomous_agents.autogpt.output_parser.preprocess_json_input(...)
+
+	
+
+Preprocesses a string to be parsed as json.
+
+
+
+
+autonomous_agents.autogpt.prompt_generator.get_prompt(tools)
+
+	
+
+Generates a prompt string.
+
+
+
+
+autonomous_agents.hugginggpt.repsonse_generator.load_response_generator(llm)
+
+	
+
+Load the ResponseGenerator.
+
+
+
+
+autonomous_agents.hugginggpt.task_planner.load_chat_planner(llm)
+
+	
+
+Load the chat planner.
+
+langchain_experimental.chat_models
+
+Chat Models are a variation on language models.
+
+While Chat Models use language models under the hood, the interface they expose is a bit different. Rather than expose a “text in, text out” API, they expose an interface where “chat messages” are the inputs and outputs.
+
+Class hierarchy:
+
+BaseLanguageModel --> BaseChatModel --> <name>  # Examples: ChatOpenAI, ChatGooglePalm
+
+
+Main helpers:
+
+AIMessage, BaseMessage, HumanMessage
+
+Classes
+
+chat_models.llm_wrapper.ChatWrapper
+
+	
+
+Wrapper for chat LLMs.
+
+
+
+
+chat_models.llm_wrapper.Llama2Chat
+
+	
+
+Wrapper for Llama-2-chat model.
+
+
+
+
+chat_models.llm_wrapper.Mixtral
+
+	
+
+See https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1#instruction-format
+
+
+
+
+chat_models.llm_wrapper.Orca
+
+	
+
+Wrapper for Orca-style models.
+
+
+
+
+chat_models.llm_wrapper.Vicuna
+
+	
+
+Wrapper for Vicuna-style models.
+
+langchain_experimental.comprehend_moderation
+
+Comprehend Moderation is used to detect and handle Personally Identifiable Information (PII), toxicity, and prompt safety in text.
+
+The Langchain experimental package includes the AmazonComprehendModerationChain class for the comprehend moderation tasks. It is based on Amazon Comprehend service. This class can be configured with specific moderation settings like PII labels, redaction, toxicity thresholds, and prompt safety thresholds.
+
+See more at https://aws.amazon.com/comprehend/
+
+Amazon Comprehend service is used by several other classes: - ComprehendToxicity class is used to check the toxicity of text prompts using
+
+AWS Comprehend service and take actions based on the configuration
+
+ComprehendPromptSafety class is used to validate the safety of given prompt text, raising an error if unsafe content is detected based on the specified threshold
+
+ComprehendPII class is designed to handle Personally Identifiable Information (PII) moderation tasks, detecting and managing PII entities in text inputs
+
+Classes
+
+comprehend_moderation.amazon_comprehend_moderation.AmazonComprehendModerationChain
+
+	
+
+Moderation Chain, based on Amazon Comprehend service.
+
+
+
+
+comprehend_moderation.base_moderation.BaseModeration(client)
+
+	
+
+Base class for moderation.
+
+
+
+
+comprehend_moderation.base_moderation_callbacks.BaseModerationCallbackHandler()
+
+	
+
+Base class for moderation callback handlers.
+
+
+
+
+comprehend_moderation.base_moderation_config.BaseModerationConfig
+
+	
+
+Base configuration settings for moderation.
+
+
+
+
+comprehend_moderation.base_moderation_config.ModerationPiiConfig
+
+	
+
+Configuration for PII moderation filter.
+
+
+
+
+comprehend_moderation.base_moderation_config.ModerationPromptSafetyConfig
+
+	
+
+Configuration for Prompt Safety moderation filter.
+
+
+
+
+comprehend_moderation.base_moderation_config.ModerationToxicityConfig
+
+	
+
+Configuration for Toxicity moderation filter.
+
+
+
+
+comprehend_moderation.base_moderation_exceptions.ModerationPiiError([...])
+
+	
+
+Exception raised if PII entities are detected.
+
+
+
+
+comprehend_moderation.base_moderation_exceptions.ModerationPromptSafetyError([...])
+
+	
+
+Exception raised if Unsafe prompts are detected.
+
+
+
+
+comprehend_moderation.base_moderation_exceptions.ModerationToxicityError([...])
+
+	
+
+Exception raised if Toxic entities are detected.
+
+
+
+
+comprehend_moderation.pii.ComprehendPII(client)
+
+	
+
+Class to handle Personally Identifiable Information (PII) moderation.
+
+
+
+
+comprehend_moderation.prompt_safety.ComprehendPromptSafety(client)
+
+	
+
+Class to handle prompt safety moderation.
+
+
+
+
+comprehend_moderation.toxicity.ComprehendToxicity(client)
+
+	
+
+Class to handle toxicity moderation.
+
+langchain_experimental.cpal
+
+Causal program-aided language (CPAL) is a concept implemented in LangChain as a chain for causal modeling and narrative decomposition.
+
+CPAL improves upon the program-aided language (PAL) by incorporating causal structure to prevent hallucination in language models, particularly when dealing with complex narratives and math problems with nested dependencies.
+
+CPAL involves translating causal narratives into a stack of operations, setting hypothetical conditions for causal models, and decomposing narratives into story elements.
+
+It allows for the creation of causal chains that define the relationships between different elements in a narrative, enabling the modeling and analysis of causal relationships within a given context.
+
+Classes
+
+cpal.base.CPALChain
+
+	
+
+Causal program-aided language (CPAL) chain implementation.
+
+
+
+
+cpal.base.CausalChain
+
+	
+
+Translate the causal narrative into a stack of operations.
+
+
+
+
+cpal.base.InterventionChain
+
+	
+
+Set the hypothetical conditions for the causal model.
+
+
+
+
+cpal.base.NarrativeChain
+
+	
+
+Decompose the narrative into its story elements.
+
+
+
+
+cpal.base.QueryChain
+
+	
+
+Query the outcome table using SQL.
+
+
+
+
+cpal.constants.Constant(value)
+
+	
+
+Enum for constants used in the CPAL.
+
+
+
+
+cpal.models.CausalModel
+
+	
+
+Casual data.
+
+
+
+
+cpal.models.EntityModel
+
+	
+
+Entity in the story.
+
+
+
+
+cpal.models.EntitySettingModel
+
+	
+
+Entity initial conditions.
+
+
+
+
+cpal.models.InterventionModel
+
+	
+
+Intervention data of the story aka initial conditions.
+
+
+
+
+cpal.models.NarrativeModel
+
+	
+
+Narrative input as three story elements.
+
+
+
+
+cpal.models.QueryModel
+
+	
+
+Query data of the story.
+
+
+
+
+cpal.models.ResultModel
+
+	
+
+Result of the story query.
+
+
+
+
+cpal.models.StoryModel
+
+	
+
+Story data.
+
+
+
+
+cpal.models.SystemSettingModel
+
+	
+
+System initial conditions.
+
+langchain_experimental.data_anonymizer
+
+Data anonymizer contains both Anonymizers and Deanonymizers. It uses the [Microsoft Presidio](https://microsoft.github.io/presidio/) library.
+
+Anonymizers are used to replace a Personally Identifiable Information (PII) entity text with some other value by applying a certain operator (e.g. replace, mask, redact, encrypt).
+
+Deanonymizers are used to revert the anonymization operation (e.g. to decrypt an encrypted text).
+
+Classes
+
+data_anonymizer.base.AnonymizerBase()
+
+	
+
+Base abstract class for anonymizers.
+
+
+
+
+data_anonymizer.base.ReversibleAnonymizerBase()
+
+	
+
+Base abstract class for reversible anonymizers.
+
+
+
+
+data_anonymizer.deanonymizer_mapping.DeanonymizerMapping(...)
+
+	
+
+Deanonymizer mapping.
+
+
+
+
+data_anonymizer.presidio.PresidioAnonymizer([...])
+
+	
+
+Anonymizer using Microsoft Presidio.
+
+
+
+
+data_anonymizer.presidio.PresidioAnonymizerBase([...])
+
+	
+
+Base Anonymizer using Microsoft Presidio.
+
+
+
+
+data_anonymizer.presidio.PresidioReversibleAnonymizer([...])
+
+	
+
+Reversible Anonymizer using Microsoft Presidio.
+
+Functions
+
+data_anonymizer.deanonymizer_mapping.create_anonymizer_mapping(...)
+
+	
+
+Create or update the mapping used to anonymize and/or
+
+
+
+
+data_anonymizer.deanonymizer_mapping.format_duplicated_operator(...)
+
+	
+
+Format the operator name with the count.
+
+
+
+
+data_anonymizer.deanonymizer_matching_strategies.case_insensitive_matching_strategy(...)
+
+	
+
+Case insensitive matching strategy for deanonymization.
+
+
+
+
+data_anonymizer.deanonymizer_matching_strategies.combined_exact_fuzzy_matching_strategy(...)
+
+	
+
+Combined exact and fuzzy matching strategy for deanonymization.
+
+
+
+
+data_anonymizer.deanonymizer_matching_strategies.exact_matching_strategy(...)
+
+	
+
+Exact matching strategy for deanonymization.
+
+
+
+
+data_anonymizer.deanonymizer_matching_strategies.fuzzy_matching_strategy(...)
+
+	
+
+Fuzzy matching strategy for deanonymization.
+
+
+
+
+data_anonymizer.deanonymizer_matching_strategies.ngram_fuzzy_matching_strategy(...)
+
+	
+
+N-gram fuzzy matching strategy for deanonymization.
+
+
+
+
+data_anonymizer.faker_presidio_mapping.get_pseudoanonymizer_mapping([seed])
+
+	
+
+Get a mapping of entities to pseudo anonymize them.
+
+langchain_experimental.fallacy_removal
+
+Fallacy Removal Chain runs a self-review of logical fallacies as determined by paper [Robust and Explainable Identification of Logical Fallacies in Natural Language Arguments](https://arxiv.org/pdf/2212.07425.pdf). It is modeled after Constitutional AI and in the same format, but applying logical fallacies as generalized rules to remove them in output.
+
+Classes
+
+fallacy_removal.base.FallacyChain
+
+	
+
+Chain for applying logical fallacy evaluations.
+
+
+
+
+fallacy_removal.models.LogicalFallacy
+
+	
+
+Logical fallacy.
+
+langchain_experimental.generative_agents
+
+Generative Agent primitives.
+
+Classes
+
+generative_agents.generative_agent.GenerativeAgent
+
+	
+
+Agent as a character with memory and innate characteristics.
+
+
+
+
+generative_agents.memory.GenerativeAgentMemory
+
+	
+
+Memory for the generative agent.
+
+langchain_experimental.graph_transformers
+
+Graph Transformers transform Documents into Graph Documents.
+
+Classes
+
+graph_transformers.diffbot.DiffbotGraphTransformer(...)
+
+	
+
+Transform documents into graph documents using Diffbot NLP API.
+
+
+
+
+graph_transformers.diffbot.NodesList()
+
+	
+
+List of nodes with associated properties.
+
+
+
+
+graph_transformers.diffbot.SimplifiedSchema()
+
+	
+
+Simplified schema mapping.
+
+
+
+
+graph_transformers.diffbot.TypeOption(value)
+
+	
+
+An enumeration.
+
+
+
+
+graph_transformers.gliner.GlinerGraphTransformer(...)
+
+	
+
+A transformer class for converting documents into graph structures using the GLiNER and GLiREL models.
+
+
+
+
+graph_transformers.llm.LLMGraphTransformer(llm)
+
+	
+
+Transform documents into graph-based documents using a LLM.
+
+
+
+
+graph_transformers.llm.UnstructuredRelation
+
+	
+
+Create a new model by parsing and validating input data from keyword arguments.
+
+
+
+
+graph_transformers.relik.RelikGraphTransformer([...])
+
+	
+
+A transformer class for converting documents into graph structures using the Relik library and models.
+
+Functions
+
+graph_transformers.diffbot.format_property_key(s)
+
+	
+
+Formats a string to be used as a property key.
+
+
+
+
+graph_transformers.llm.create_simple_model([...])
+
+	
+
+Create a simple graph model with optional constraints on node and relationship types.
+
+
+
+
+graph_transformers.llm.create_unstructured_prompt([...])
+
+	
+
+
+
+
+graph_transformers.llm.format_property_key(s)
+
+	
+
+
+
+
+graph_transformers.llm.map_to_base_node(node)
+
+	
+
+Map the SimpleNode to the base Node.
+
+
+
+
+graph_transformers.llm.map_to_base_relationship(rel)
+
+	
+
+Map the SimpleRelationship to the base Relationship.
+
+
+
+
+graph_transformers.llm.optional_enum_field([...])
+
+	
+
+Utility function to conditionally create a field with an enum constraint.
+
+langchain_experimental.llm_bash
+
+LLM bash is a chain that uses LLM to interpret a prompt and executes bash code.
+
+Classes
+
+llm_bash.base.LLMBashChain
+
+	
+
+Chain that interprets a prompt and executes bash operations.
+
+
+
+
+llm_bash.bash.BashProcess([strip_newlines, ...])
+
+	
+
+Wrapper for starting subprocesses.
+
+
+
+
+llm_bash.prompt.BashOutputParser
+
+	
+
+Parser for bash output.
+
+langchain_experimental.llm_symbolic_math
+
+Chain that interprets a prompt and executes python code to do math.
+
+Heavily borrowed from llm_math, uses the [SymPy](https://www.sympy.org/) package.
+
+Classes
+
+llm_symbolic_math.base.LLMSymbolicMathChain
+
+	
+
+Chain that interprets a prompt and executes python code to do symbolic math.
+
+langchain_experimental.llms
+
+Experimental LLM classes provide access to the large language model (LLM) APIs and services.
+
+Classes
+
+llms.anthropic_functions.TagParser()
+
+	
+
+Parser for the tool tags.
+
+
+
+
+llms.jsonformer_decoder.JsonFormer
+
+	
+
+Jsonformer wrapped LLM using HuggingFace Pipeline API.
+
+
+
+
+llms.llamaapi.ChatLlamaAPI
+
+	
+
+Chat model using the Llama API.
+
+
+
+
+llms.lmformatenforcer_decoder.LMFormatEnforcer
+
+	
+
+LMFormatEnforcer wrapped LLM using HuggingFace Pipeline API.
+
+
+
+
+llms.rellm_decoder.RELLM
+
+	
+
+RELLM wrapped LLM using HuggingFace Pipeline API.
+
+Functions
+
+llms.jsonformer_decoder.import_jsonformer()
+
+	
+
+Lazily import of the jsonformer package.
+
+
+
+
+llms.lmformatenforcer_decoder.import_lmformatenforcer()
+
+	
+
+Lazily import of the lmformatenforcer package.
+
+
+
+
+llms.ollama_functions.convert_to_ollama_tool(tool)
+
+	
+
+Convert a tool to an Ollama tool.
+
+
+
+
+llms.ollama_functions.parse_response(message)
+
+	
+
+Extract function_call from AIMessage.
+
+
+
+
+llms.rellm_decoder.import_rellm()
+
+	
+
+Lazily import of the rellm package.
+
+Deprecated classes
+
+llms.anthropic_functions.AnthropicFunctions
+
+	
+
+Deprecated since version 0.0.54: Use langchain_anthropic.experimental.ChatAnthropicTools instead.
+
+
+
+
+llms.ollama_functions.OllamaFunctions
+
+	
+
+Deprecated since version 0.0.64: Use langchain_ollama.ChatOllama instead.
+
+langchain_experimental.open_clip
+
+OpenCLIP Embeddings model.
+
+OpenCLIP is a multimodal model that can encode text and images into a shared space.
+
+See this paper for more details: https://arxiv.org/abs/2103.00020 and [this repository](https://github.com/mlfoundations/open_clip) for details.
+
+Classes
+
+open_clip.open_clip.OpenCLIPEmbeddings
+
+	
+
+OpenCLIP Embeddings model.
+
+langchain_experimental.pal_chain
+
+PAL Chain implements Program-Aided Language Models.
+
+See the paper: https://arxiv.org/pdf/2211.10435.pdf.
+
+This chain is vulnerable to [arbitrary code execution](https://github.com/langchain-ai/langchain/issues/5872).
+
+Classes
+
+pal_chain.base.PALChain
+
+	
+
+Chain that implements Program-Aided Language Models (PAL).
+
+
+
+
+pal_chain.base.PALValidation([...])
+
+	
+
+Validation for PAL generated code.
+
+langchain_experimental.plan_and_execute
+
+Plan-and-execute agents are planning tasks with a language model (LLM) and executing them with a separate agent.
+
+Classes
+
+plan_and_execute.agent_executor.PlanAndExecute
+
+	
+
+Plan and execute a chain of steps.
+
+
+
+
+plan_and_execute.executors.base.BaseExecutor
+
+	
+
+Base executor.
+
+
+
+
+plan_and_execute.executors.base.ChainExecutor
+
+	
+
+Chain executor.
+
+
+
+
+plan_and_execute.planners.base.BasePlanner
+
+	
+
+Base planner.
+
+
+
+
+plan_and_execute.planners.base.LLMPlanner
+
+	
+
+LLM planner.
+
+
+
+
+plan_and_execute.planners.chat_planner.PlanningOutputParser
+
+	
+
+Planning output parser.
+
+
+
+
+plan_and_execute.schema.BaseStepContainer
+
+	
+
+Base step container.
+
+
+
+
+plan_and_execute.schema.ListStepContainer
+
+	
+
+Container for List of steps.
+
+
+
+
+plan_and_execute.schema.Plan
+
+	
+
+Plan.
+
+
+
+
+plan_and_execute.schema.PlanOutputParser
+
+	
+
+Plan output parser.
+
+
+
+
+plan_and_execute.schema.Step
+
+	
+
+Step.
+
+
+
+
+plan_and_execute.schema.StepResponse
+
+	
+
+Step response.
+
+Functions
+
+plan_and_execute.executors.agent_executor.load_agent_executor(...)
+
+	
+
+Load an agent executor.
+
+
+
+
+plan_and_execute.planners.chat_planner.load_chat_planner(llm)
+
+	
+
+Load a chat planner.
+
+langchain_experimental.prompt_injection_identifier
+
+HuggingFace Injection Identifier is a tool that uses [HuggingFace Prompt Injection model](https://huggingface.co/deepset/deberta-v3-base-injection) to detect prompt injection attacks.
+
+Classes
+
+prompt_injection_identifier.hugging_face_identifier.HuggingFaceInjectionIdentifier
+
+	
+
+Tool that uses HuggingFace Prompt Injection model to detect prompt injection attacks.
+
+
+
+
+prompt_injection_identifier.hugging_face_identifier.PromptInjectionException([...])
+
+	
+
+Exception raised when prompt injection attack is detected.
+
+langchain_experimental.recommenders
+
+Amazon Personalize primitives.
+
+[Amazon Personalize](https://docs.aws.amazon.com/personalize/latest/dg/what-is-personalize.html) is a fully managed machine learning service that uses your data to generate item recommendations for your users.
+
+Classes
+
+recommenders.amazon_personalize.AmazonPersonalize([...])
+
+	
+
+Amazon Personalize Runtime wrapper for executing real-time operations.
+
+
+
+
+recommenders.amazon_personalize_chain.AmazonPersonalizeChain
+
+	
+
+Chain for retrieving recommendations from Amazon Personalize,
+
+langchain_experimental.retrievers
+
+Retriever class returns Documents given a text query.
+
+It is more general than a vector store. A retriever does not need to be able to store documents, only to return (or retrieve) it.
+
+Classes
+
+retrievers.vector_sql_database.VectorSQLDatabaseChainRetriever
+
+	
+
+Retriever that uses Vector SQL Database.
+
+langchain_experimental.rl_chain
+
+RL (Reinforcement Learning) Chain leverages the Vowpal Wabbit (VW) models for reinforcement learning with a context, with the goal of modifying the prompt before the LLM call.
+
+[Vowpal Wabbit](https://vowpalwabbit.org/) provides fast, efficient, and flexible online machine learning techniques for reinforcement learning, supervised learning, and more.
+
+Classes
+
+rl_chain.base.AutoSelectionScorer
+
+	
+
+Auto selection scorer.
+
+
+
+
+rl_chain.base.Embedder(*args, **kwargs)
+
+	
+
+Abstract class to represent an embedder.
+
+
+
+
+rl_chain.base.Event(inputs[, selected])
+
+	
+
+Abstract class to represent an event.
+
+
+
+
+rl_chain.base.Policy(**kwargs)
+
+	
+
+Abstract class to represent a policy.
+
+
+
+
+rl_chain.base.RLChain
+
+	
+
+Chain that leverages the Vowpal Wabbit (VW) model as a learned policy for reinforcement learning.
+
+
+
+
+rl_chain.base.Selected()
+
+	
+
+Abstract class to represent the selected item.
+
+
+
+
+rl_chain.base.SelectionScorer
+
+	
+
+Abstract class to grade the chosen selection or the response of the llm.
+
+
+
+
+rl_chain.base.VwPolicy(model_repo, vw_cmd, ...)
+
+	
+
+Vowpal Wabbit policy.
+
+
+
+
+rl_chain.metrics.MetricsTrackerAverage(step)
+
+	
+
+Metrics Tracker Average.
+
+
+
+
+rl_chain.metrics.MetricsTrackerRollingWindow(...)
+
+	
+
+Metrics Tracker Rolling Window.
+
+
+
+
+rl_chain.model_repository.ModelRepository(folder)
+
+	
+
+Model Repository.
+
+
+
+
+rl_chain.pick_best_chain.PickBest
+
+	
+
+Chain that leverages the Vowpal Wabbit (VW) model for reinforcement learning with a context, with the goal of modifying the prompt before the LLM call.
+
+
+
+
+rl_chain.pick_best_chain.PickBestEvent(...)
+
+	
+
+Event class for PickBest chain.
+
+
+
+
+rl_chain.pick_best_chain.PickBestFeatureEmbedder(...)
+
+	
+
+Embed the BasedOn and ToSelectFrom inputs into a format that can be used by the learning policy.
+
+
+
+
+rl_chain.pick_best_chain.PickBestRandomPolicy(...)
+
+	
+
+Random policy for PickBest chain.
+
+
+
+
+rl_chain.pick_best_chain.PickBestSelected([...])
+
+	
+
+Selected class for PickBest chain.
+
+
+
+
+rl_chain.vw_logger.VwLogger(path)
+
+	
+
+Vowpal Wabbit custom logger.
+
+Functions
+
+rl_chain.base.BasedOn(anything)
+
+	
+
+Wrap a value to indicate that it should be based on.
+
+
+
+
+rl_chain.base.Embed(anything[, keep])
+
+	
+
+Wrap a value to indicate that it should be embedded.
+
+
+
+
+rl_chain.base.EmbedAndKeep(anything)
+
+	
+
+Wrap a value to indicate that it should be embedded and kept.
+
+
+
+
+rl_chain.base.ToSelectFrom(anything)
+
+	
+
+Wrap a value to indicate that it should be selected from.
+
+
+
+
+rl_chain.base.get_based_on_and_to_select_from(inputs)
+
+	
+
+Get the BasedOn and ToSelectFrom from the inputs.
+
+
+
+
+rl_chain.base.parse_lines(parser, input_str)
+
+	
+
+Parse the input string into a list of examples.
+
+
+
+
+rl_chain.base.prepare_inputs_for_autoembed(inputs)
+
+	
+
+Prepare the inputs for auto embedding.
+
+
+
+
+rl_chain.helpers.embed(to_embed, model[, ...])
+
+	
+
+Embed the actions or context using the SentenceTransformer model (or a model that has an encode function).
+
+
+
+
+rl_chain.helpers.embed_dict_type(item, model)
+
+	
+
+Embed a dictionary item.
+
+
+
+
+rl_chain.helpers.embed_list_type(item, model)
+
+	
+
+Embed a list item.
+
+
+
+
+rl_chain.helpers.embed_string_type(item, model)
+
+	
+
+Embed a string or an _Embed object.
+
+
+
+
+rl_chain.helpers.is_stringtype_instance(item)
+
+	
+
+Check if an item is a string.
+
+
+
+
+rl_chain.helpers.stringify_embedding(embedding)
+
+	
+
+Convert an embedding to a string.
+
+langchain_experimental.smart_llm
+
+SmartGPT chain is applying self-critique using the SmartGPT workflow.
+
+See details at https://youtu.be/wVzuvf9D9BU
+
+The workflow performs these 3 steps: 1. Ideate: Pass the user prompt to an Ideation LLM n_ideas times,
+
+each result is an “idea”
+
+Critique: Pass the ideas to a Critique LLM which looks for flaws in the ideas & picks the best one
+
+Resolve: Pass the critique to a Resolver LLM which improves upon the best idea & outputs only the (improved version of) the best output
+
+In total, the SmartGPT workflow will use n_ideas+2 LLM calls
+
+Note that SmartLLMChain will only improve results (compared to a basic LLMChain), when the underlying models have the capability for reflection, which smaller models often don’t.
+
+Finally, a SmartLLMChain assumes that each underlying LLM outputs exactly 1 result.
+
+Classes
+
+smart_llm.base.SmartLLMChain
+
+	
+
+Chain for applying self-critique using the SmartGPT workflow.
+
+langchain_experimental.sql
+
+SQL Chain interacts with SQL Database.
+
+Classes
+
+sql.base.SQLDatabaseChain
+
+	
+
+Chain for interacting with SQL Database.
+
+
+
+
+sql.base.SQLDatabaseSequentialChain
+
+	
+
+Chain for querying SQL database that is a sequential chain.
+
+
+
+
+sql.vector_sql.VectorSQLDatabaseChain
+
+	
+
+Chain for interacting with Vector SQL Database.
+
+
+
+
+sql.vector_sql.VectorSQLOutputParser
+
+	
+
+Output Parser for Vector SQL.
+
+
+
+
+sql.vector_sql.VectorSQLRetrieveAllOutputParser
+
+	
+
+Parser based on VectorSQLOutputParser.
+
+Functions
+
+sql.vector_sql.get_result_from_sqldb(db, cmd)
+
+	
+
+Get result from SQL Database.
+
+langchain_experimental.tabular_synthetic_data
+
+Generate tabular synthetic data using LLM and few-shot template.
+
+Classes
+
+tabular_synthetic_data.base.SyntheticDataGenerator
+
+	
+
+Generate synthetic data using the given LLM and few-shot template.
+
+Functions
+
+tabular_synthetic_data.openai.create_openai_data_generator(...)
+
+	
+
+Create an instance of SyntheticDataGenerator tailored for OpenAI models.
+
+langchain_experimental.text_splitter
+
+Experimental text splitter based on semantic similarity.
+
+Classes
+
+text_splitter.SemanticChunker(embeddings[, ...])
+
+	
+
+Split the text based on semantic similarity.
+
+Functions
+
+text_splitter.calculate_cosine_distances(...)
+
+	
+
+Calculate cosine distances between sentences.
+
+
+
+
+text_splitter.combine_sentences(sentences[, ...])
+
+	
+
+Combine sentences based on buffer size.
+
+langchain_experimental.tools
+
+Experimental Python REPL tools.
+
+Classes
+
+tools.python.tool.PythonAstREPLTool
+
+	
+
+Tool for running python code in a REPL.
+
+
+
+
+tools.python.tool.PythonInputs
+
+	
+
+Python inputs.
+
+
+
+
+tools.python.tool.PythonREPLTool
+
+	
+
+Tool for running python code in a REPL.
+
+Functions
+
+tools.python.tool.sanitize_input(query)
+
+	
+
+Sanitize input to the python REPL.
+
+langchain_experimental.tot
+
+Implementation of a Tree of Thought (ToT) chain based on the paper [Large Language Model Guided Tree-of-Thought](https://arxiv.org/pdf/2305.08291.pdf).
+
+The Tree of Thought (ToT) chain uses a tree structure to explore the space of possible solutions to a problem.
+
+Classes
+
+tot.base.ToTChain
+
+	
+
+Chain implementing the Tree of Thought (ToT).
+
+
+
+
+tot.checker.ToTChecker
+
+	
+
+Tree of Thought (ToT) checker.
+
+
+
+
+tot.controller.ToTController([c])
+
+	
+
+Tree of Thought (ToT) controller.
+
+
+
+
+tot.memory.ToTDFSMemory([stack])
+
+	
+
+Memory for the Tree of Thought (ToT) chain.
+
+
+
+
+tot.prompts.CheckerOutputParser
+
+	
+
+Parse and check the output of the language model.
+
+
+
+
+tot.prompts.JSONListOutputParser
+
+	
+
+Parse the output of a PROPOSE_PROMPT response.
+
+
+
+
+tot.thought.Thought
+
+	
+
+A thought in the ToT.
+
+
+
+
+tot.thought.ThoughtValidity(value)
+
+	
+
+Enum for the validity of a thought.
+
+
+
+
+tot.thought_generation.BaseThoughtGenerationStrategy
+
+	
+
+Base class for a thought generation strategy.
+
+
+
+
+tot.thought_generation.ProposePromptStrategy
+
+	
+
+Strategy that is sequentially using a "propose prompt".
+
+
+
+
+tot.thought_generation.SampleCoTStrategy
+
+	
+
+Sample strategy from a Chain-of-Thought (CoT) prompt.
+
+Functions
+
+tot.prompts.get_cot_prompt()
+
+	
+
+Get the prompt for the Chain of Thought (CoT) chain.
+
+
+
+
+tot.prompts.get_propose_prompt()
+
+	
+
+Get the prompt for the PROPOSE_PROMPT chain.
+
+langchain_experimental.utilities
+
+Utility that simulates a standalone Python REPL.
+
+Classes
+
+utilities.python.PythonREPL
+
+	
+
+Simulates a standalone Python REPL.
+
+langchain_experimental.video_captioning
+Classes
+
+video_captioning.base.VideoCaptioningChain
+
+	
+
+Video Captioning Chain.
+
+
+
+
+video_captioning.models.AudioModel(...)
+
+	
+
+
+
+
+video_captioning.models.BaseModel(...)
+
+	
+
+
+
+
+video_captioning.models.CaptionModel(...)
+
+	
+
+
+
+
+video_captioning.models.VideoModel(...)
+
+	
+
+
+
+
+video_captioning.services.audio_service.AudioProcessor(api_key)
+
+	
+
+
+
+
+video_captioning.services.caption_service.CaptionProcessor(llm)
+
+	
+
+
+
+
+video_captioning.services.combine_service.CombineProcessor(llm)
+
+	
+
+
+
+
+video_captioning.services.image_service.ImageProcessor([...])
+
+	
+
+
+
+
+video_captioning.services.srt_service.SRTProcessor()
+
+	
+
+© 2023, LangChain, Inc. . Last updated on Dec 09, 2024.

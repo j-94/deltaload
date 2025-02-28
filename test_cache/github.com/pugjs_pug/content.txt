@@ -1,0 +1,255 @@
+[![Image 182](https://camo.githubusercontent.com/5cdfb20caa55e8f5833718e752040101adc9567ddf5a8bbfac98fc75fcee531e/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667)](https://pugjs.org/)
+
+Pug
+---
+
+[](https://github.com/pugjs/pug?screenshot=true#pug)
+
+Full documentation is at [pugjs.org](https://pugjs.org/)
+
+Pug is a high-performance template engine heavily influenced by [Haml](http://haml.info/) and implemented with JavaScript for [Node.js](http://nodejs.org/) and browsers. For bug reports, feature requests and questions, [open an issue](https://github.com/pugjs/pug/issues/new). For discussion join the [chat room](https://gitter.im/pugjs/pug).
+
+You can test drive Pug online [here](https://pugjs.org/).
+
+[Professionally supported pug is now available](https://tidelift.com/subscription/pkg/npm-pug?utm_source=npm-pug&utm_medium=referral&utm_campaign=readme)
+
+[![Image 183: Build Status](https://camo.githubusercontent.com/e5adcbbf20c903798db63e80a7a8d5b597531a6711cc8ee4bcae4f396f948783/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f776f726b666c6f772f7374617475732f7075676a732f7075672f546573742f6d61737465723f7374796c653d666f722d7468652d6261646765)](https://github.com/pugjs/pug/actions?query=workflow%3ATest+branch%3Amaster) [![Image 184: Rolling Versions](https://camo.githubusercontent.com/8d1c8a11e6350a864668f5fe227edb6abdecc0187ebed1ac2012db79e2bb7bd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f6c6c696e6725323056657273696f6e732d456e61626c65642d627269676874677265656e3f7374796c653d666f722d7468652d6261646765)](https://rollingversions.com/pugjs/pug) [![Image 185: NPM version](https://camo.githubusercontent.com/fa3b43751a1f68f86ec640e61071f7e8c98de8bb17ead15e04a586d04e8b5edd/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075673f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug) [![Image 186: Join Gitter Chat](https://camo.githubusercontent.com/07dbf09f9ee5e6f5e347837fd826f343b6930efdf2008153f4b42375d4a2ba8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769747465722d6a6f696e253230636861742532302545322538362539322d627269676874677265656e2e7376673f7374796c653d666f722d7468652d6261646765)](https://gitter.im/pugjs/pug?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+Packages
+--------
+
+[](https://github.com/pugjs/pug?screenshot=true#packages)
+
+| Package Name | Version |
+| --- | --- |
+| pug | [![Image 187: NPM version](https://camo.githubusercontent.com/fa3b43751a1f68f86ec640e61071f7e8c98de8bb17ead15e04a586d04e8b5edd/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075673f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug) |
+| pug-attrs | [![Image 188: NPM version](https://camo.githubusercontent.com/4be5caaf451c1994d49e07038352a026484e60560af49f8bf6696e4e4fab7ca2/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d61747472733f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-attrs) |
+| pug-code-gen | [![Image 189: NPM version](https://camo.githubusercontent.com/7701d363b746b15452422c201b27ed01ba5fa6564ea132dc732fb56bdcedf5f9/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d636f64652d67656e3f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-code-gen) |
+| pug-error | [![Image 190: NPM version](https://camo.githubusercontent.com/ceb9b4695a45eaea70ad1efb6e45ae65db02a081f28c151bc3e3d47ac0f71340/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d6572726f723f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-error) |
+| pug-filters | [![Image 191: NPM version](https://camo.githubusercontent.com/d7b4b05536e3219be5e7c65a152284f74cb466047914cec89526d960d93b732c/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d66696c746572733f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-filters) |
+| pug-lexer | [![Image 192: NPM version](https://camo.githubusercontent.com/c2187bffc6b6d3a716fd227b2cd12a22176f04ef63264714145c8d70082287b1/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d6c657865723f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-lexer) |
+| pug-linker | [![Image 193: NPM version](https://camo.githubusercontent.com/1ad88df42745b514be19caced6bbfac7f362b75eae47a9a1a777b12b1878b66a/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d6c696e6b65723f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-linker) |
+| pug-load | [![Image 194: NPM version](https://camo.githubusercontent.com/e57eb47e28c4066d7d1c15d9dfc3d6ae62f59fb0631523904ef14120e0641b0e/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d6c6f61643f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-load) |
+| pug-parser | [![Image 195: NPM version](https://camo.githubusercontent.com/3529e2180cda21872cace4ab2fae14de3455f1f8cf9596e7f3ce505e96e707dc/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d7061727365723f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-parser) |
+| pug-runtime | [![Image 196: NPM version](https://camo.githubusercontent.com/a777af892be16bb5aa6b1d8da643735d0c42b560c1424e09d027c9a37340a1f1/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d72756e74696d653f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-runtime) |
+| pug-strip-comments | [![Image 197: NPM version](https://camo.githubusercontent.com/d004d18af9f5068264779d187a40a7106e48ed5bc8b927ff9cd8ae46cd9160a4/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d73747269702d636f6d6d656e74733f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-strip-comments) |
+| pug-walk | [![Image 198: NPM version](https://camo.githubusercontent.com/5fe8f1edb5c1405d04ae47a81040dc11d85b50dc4841e666599cb871433ecdaf/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7075672d77616c6b3f7374796c653d666f722d7468652d6261646765)](https://www.npmjs.com/package/pug-walk) |
+
+Rename from "Jade"
+------------------
+
+[](https://github.com/pugjs/pug?screenshot=true#rename-from-jade)
+
+This project was formerly known as "Jade". However, it was revealed to us that "Jade" is a registered trademark; as a result, a rename was needed. After some discussion among the maintainers, **"Pug"** was chosen as the new name for this project. As of version 2, "pug" is the official package name.
+
+If your package or app currently uses `jade`, don't worry: we have secured permissions to continue to occupy that package name, although all new versions will be released under `pug`.
+
+Before the renaming, work had already begun on “Jade 2.0.0”. Therefore, the rename to Pug coincided with the major version bump. As a result, upgrading from Jade to Pug will be the same process as upgrading any other package with a major version bump.
+
+The syntax of Pug has several differences, deprecations, and removals compared to its predecessor. These differences are documented in [#2305](https://github.com/pugjs/pug/issues/2305).
+
+The website and documentation for Pug are still being updated. But if you are new to Pug, you should get started with the new syntax and install the Pug package from npm.
+
+Installation
+------------
+
+[](https://github.com/pugjs/pug?screenshot=true#installation)
+
+### Package
+
+[](https://github.com/pugjs/pug?screenshot=true#package)
+
+To use Pug in your own JavaScript projects:
+
+### Command Line
+
+[](https://github.com/pugjs/pug?screenshot=true#command-line)
+
+After installing the latest version of [Node.js](http://nodejs.org/), install with:
+
+and run with
+
+Syntax
+------
+
+[](https://github.com/pugjs/pug?screenshot=true#syntax)
+
+Pug is a clean, whitespace sensitive syntax for writing HTML. Here is a simple example:
+
+doctype html
+html(lang\="en")
+  head
+    title\= pageTitle
+    script(type\='text/javascript').
+      if (foo) bar(1 + 5);
+  body
+    h1 Pug - node template engine
+    #container.col
+      if youAreUsingPug
+        p You are amazing
+      else
+        p Get on it!
+      p.
+        Pug is a terse and simple templating language with a
+        strong focus on performance and powerful features.
+
+Pug transforms the above to:
+
+<!DOCTYPE html\>
+<html lang\="en"\>
+  <head\>
+    <title\>Pug</title\>
+    <script type\="text/javascript"\>
+      if (foo) bar(1 + 5);
+    </script\>
+  </head\>
+  <body\>
+    <h1\>Pug - node template engine</h1\>
+    <div id\="container" class\="col"\>
+      <p\>You are amazing</p\>
+      <p\>
+        Pug is a terse and simple templating language with a strong focus on
+        performance and powerful features.
+      </p\>
+    </div\>
+  </body\>
+</html\>
+
+API
+---
+
+[](https://github.com/pugjs/pug?screenshot=true#api)
+
+For full API, see [pugjs.org/api/reference.html](https://pugjs.org/api/reference.html)
+
+var pug \= require('pug');
+
+// compile
+var fn \= pug.compile('string of pug', options);
+var html \= fn(locals);
+
+// render
+var html \= pug.render('string of pug', merge(options, locals));
+
+// renderFile
+var html \= pug.renderFile('filename.pug', merge(options, locals));
+
+### Options
+
+[](https://github.com/pugjs/pug?screenshot=true#options)
+
+*   `filename` Used in exceptions, and required when using includes
+*   `compileDebug` When `false` no debug instrumentation is compiled
+*   `pretty` Add pretty-indentation whitespace to output _(`false` by default)_
+
+Browser Support
+---------------
+
+[](https://github.com/pugjs/pug?screenshot=true#browser-support)
+
+The latest version of pug can be [downloaded for the browser in standalone form](https://pugjs.org/js/pug.js). It only supports the very latest browsers, though, and is a large file. It is recommended that you pre-compile your pug templates to JavaScript.
+
+To compile a template for use on the client using the command line, do:
+
+$ pug --client --no-debug filename.pug
+
+which will produce `filename.js` containing the compiled template.
+
+Tutorials
+---------
+
+[](https://github.com/pugjs/pug?screenshot=true#tutorials)
+
+*   cssdeck interactive [Pug syntax tutorial](http://cssdeck.com/labs/learning-the-jade-templating-engine-syntax)
+*   cssdeck interactive [Pug logic tutorial](http://cssdeck.com/labs/jade-templating-tutorial-codecast-part-2)
+*   [Pug について。](https://gist.github.com/japboy/5402844) (A Japanese Tutorial)
+
+Implementations in other languages
+----------------------------------
+
+[](https://github.com/pugjs/pug?screenshot=true#implementations-in-other-languages)
+
+### Ports in other languages
+
+[](https://github.com/pugjs/pug?screenshot=true#ports-in-other-languages)
+
+Ports to other languages, with very close syntax:
+
+*   [PHP](https://github.com/pug-php/pug)
+*   [Java](https://github.com/neuland/jade4j)
+*   [Python](https://github.com/kakulukia/pypugjs)
+*   [Ruby](https://github.com/yivo/pug-ruby)
+*   [C# (ASP.NET Core)](https://github.com/AspNetMonsters/pugzor)
+*   [RPG/ILE](https://github.com/WorksOfLiam/apug)
+
+### Equivalents in other languages
+
+[](https://github.com/pugjs/pug?screenshot=true#equivalents-in-other-languages)
+
+Templates engines for other languages with a different syntax, but a similar philosophy:
+
+*   [Scaml for Scala](https://scalate.github.io/scalate/documentation/scaml-reference.html)
+*   [Slim for Ruby](https://github.com/slim-template/slim) (should not be confused with Slim PHP framework)
+*   [HAML for Ruby](http://haml.info/)
+
+### Framework implementations/adapters
+
+[](https://github.com/pugjs/pug?screenshot=true#framework-implementationsadapters)
+
+Embedded view engines for frameworks:
+
+*   [Laravel](https://github.com/BKWLD/laravel-pug)
+*   [Symfony](https://github.com/pug-php/pug-symfony)
+*   [Phalcon](https://github.com/pug-php/pug-phalcon)
+*   [CodeIgniter](https://github.com/pug-php/ci-pug-engine)
+*   [Yii 2](https://github.com/pug-php/pug-yii2)
+*   [Slim 3](https://github.com/pug-php/pug-slim)
+*   [Silex (implementation example)](https://gist.github.com/kylekatarnls/ba13e4361ab14f4ff5d2a5775eb0cc10)
+*   [Lumen](https://github.com/BKWLD/laravel-pug#use-in-lumen)
+*   [Rails](https://github.com/yivo/pug-rails)
+
+### CMS plugins
+
+[](https://github.com/pugjs/pug?screenshot=true#cms-plugins)
+
+*   [WordPress](https://github.com/welaika/wordless)
+
+Additional Resources
+--------------------
+
+[](https://github.com/pugjs/pug?screenshot=true#additional-resources)
+
+*   [Emacs Mode](https://github.com/brianc/jade-mode)
+*   [Vim Syntax](https://github.com/digitaltoad/vim-pug)
+*   [TextMate Bundle](http://github.com/miksago/jade-tmbundle)
+*   [Coda/SubEtha syntax Mode](https://github.com/aaronmccall/jade.mode)
+*   [html2pug](https://github.com/donpark/html2jade) converter
+*   [pug2php](https://github.com/SE7ENSKY/jade2php) converter
+*   [Pug Server](https://github.com/ctrlaltdev/pug-server) Ideal for building local prototypes apart from any application
+*   [cache-pug-templates](https://github.com/ladjs/cache-pug-templates) Cache Pug templates for [Lad](https://github.com/ladjs/lad)/[Koa](https://github.com/koajs/koa)/[Express](https://github.com/expressjs/express)/[Connect](https://github.com/senchalabs/connect) with [Redis](https://redis.io/)
+*   [Prettier Plugin](https://github.com/prettier/plugin-pug)
+
+Backers
+-------
+
+[](https://github.com/pugjs/pug?screenshot=true#backers)
+
+Support us with a monthly donation and help us continue our activities. \[[Become a backer](https://opencollective.com/pug#backer)\]
+
+[![Image 199](https://camo.githubusercontent.com/9cb77bcb00d9ef4e7da99ac1732ed5a3e626e856156ad6be53d67123737b562b/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f302f6176617461722e737667)](https://opencollective.com/pug/backer/0/website) [![Image 200](https://camo.githubusercontent.com/c66206c4d1be61129f630d62eb5b0394adce937a0824010d450a84d860aff257/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f312f6176617461722e737667)](https://opencollective.com/pug/backer/1/website) [![Image 201](https://camo.githubusercontent.com/6bea967af3b122a0d25e8180f444e0b36bba2576d525ac0ed043b5be1319c624/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f322f6176617461722e737667)](https://opencollective.com/pug/backer/2/website) [![Image 202](https://camo.githubusercontent.com/88d290faf44d25b66928781fdb31aa77ca3954acd57261d417373cb6c9a028f6/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f332f6176617461722e737667)](https://opencollective.com/pug/backer/3/website) [![Image 203](https://camo.githubusercontent.com/52e51a701d775ba471da47b7c7c9b6e5382db1c36af65165fce66229df0eb0d2/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f342f6176617461722e737667)](https://opencollective.com/pug/backer/4/website) [![Image 204](https://camo.githubusercontent.com/a9c8f8aa4e8a1ee6e005b82462c87c4c7982956d09e28e7c43a30303f47f2c95/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f352f6176617461722e737667)](https://opencollective.com/pug/backer/5/website) [![Image 205](https://camo.githubusercontent.com/2185d447567bf0565318ccadba75621c1be8424042def7f3ec0e71b983a5930f/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f362f6176617461722e737667)](https://opencollective.com/pug/backer/6/website) [![Image 206](https://camo.githubusercontent.com/5b17d4c913606ffe9b0b137ebfc7bf3b4e7e6b841ef34335e53dfbc1b5e7b49f/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f372f6176617461722e737667)](https://opencollective.com/pug/backer/7/website) [![Image 207](https://camo.githubusercontent.com/ad5e9dec4c345b6386c883f211ff5222fe87ce2be770b4ca0827f0a983e7720c/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f382f6176617461722e737667)](https://opencollective.com/pug/backer/8/website) [![Image 208](https://camo.githubusercontent.com/faed89489df97dec96f6fce38aa95bbc480a520b09a3b9b2c3042e39ab54a356/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f392f6176617461722e737667)](https://opencollective.com/pug/backer/9/website) [![Image 209](https://camo.githubusercontent.com/1c437e280bde64a6d7a5437d3835d9811f1a3cd53ddac70b741400a4c39389f1/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f31302f6176617461722e737667)](https://opencollective.com/pug/backer/10/website) [![Image 210](https://camo.githubusercontent.com/105803385542d6da1b0761dd9af24fbc14e5ecbe456afb55b4cf6ece7f07c6e1/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f31312f6176617461722e737667)](https://opencollective.com/pug/backer/11/website) [![Image 211](https://camo.githubusercontent.com/cc10812a858b1599cd577f8c0cfa6336ede4ad029463d6abb02eae0575431817/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f31322f6176617461722e737667)](https://opencollective.com/pug/backer/12/website) [![Image 212](https://camo.githubusercontent.com/260dd7893ee9ec82fa2bf2efe8d8502e685fdab14a491bba369804862c947e5e/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f31332f6176617461722e737667)](https://opencollective.com/pug/backer/13/website) [![Image 213](https://camo.githubusercontent.com/5da5508d0ee51174e29a5b0fab721782c2b9f9e60bc115225bb1f3f4cad08dec/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f31342f6176617461722e737667)](https://opencollective.com/pug/backer/14/website) [![Image 214](https://camo.githubusercontent.com/623a367b2c589a345e640ce9a774c10d0b6f7924e6d5c2492eebf25281702e25/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f31352f6176617461722e737667)](https://opencollective.com/pug/backer/15/website) [![Image 215](https://camo.githubusercontent.com/0efb932eddd51f960f6c15311e8484d385e7fe6f4130d6891bfeb4ce0effc6a6/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f31362f6176617461722e737667)](https://opencollective.com/pug/backer/16/website) [![Image 216](https://camo.githubusercontent.com/72e4f5e06afe5366c089874ae498cc631c6638f2543d31927f72a72853453a37/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f31372f6176617461722e737667)](https://opencollective.com/pug/backer/17/website) [![Image 217](https://camo.githubusercontent.com/753c323313182e2de490e7ff01db7d1afbbca8a3ec12dfc9b560db53489b2d32/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f31382f6176617461722e737667)](https://opencollective.com/pug/backer/18/website) [![Image 218](https://camo.githubusercontent.com/8a9c2347c9e5252a79ced0fc5293a01626a71bb53748a60d81381152951c86d0/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f31392f6176617461722e737667)](https://opencollective.com/pug/backer/19/website) [![Image 219](https://camo.githubusercontent.com/0ddd9d4b423d09213a44098ca707db019b257286d1248d39c104cad6b779390d/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f32302f6176617461722e737667)](https://opencollective.com/pug/backer/20/website) [![Image 220](https://camo.githubusercontent.com/61da2ba95f7e91e2ec8d04c5034f155b696cae99de07c2428a852d54b91dbd2a/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f32312f6176617461722e737667)](https://opencollective.com/pug/backer/21/website) [![Image 221](https://camo.githubusercontent.com/3cca787b04e87c0fb9f75703044a81504260976b84ed494cc77bf6c84c3a375b/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f32322f6176617461722e737667)](https://opencollective.com/pug/backer/22/website) [![Image 222](https://camo.githubusercontent.com/64476dd9db868db44e5a7e1439ef530ab5922facd4838e61b1655936824c8dfe/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f32332f6176617461722e737667)](https://opencollective.com/pug/backer/23/website) [![Image 223](https://camo.githubusercontent.com/27ae2f4150bc7b3354b30055332ea384eea2920b024cbe2764c2f112e52fc065/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f32342f6176617461722e737667)](https://opencollective.com/pug/backer/24/website) [![Image 224](https://camo.githubusercontent.com/5503d47e9a8d8ebf4c7328392e2302724dee2031fb384e261097c5acefcb3379/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f32352f6176617461722e737667)](https://opencollective.com/pug/backer/25/website) [![Image 225](https://camo.githubusercontent.com/fdc9ffe4d32a0e6283514e26321eb790b18cd5fa1c513f836aced2576fd392fd/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f32362f6176617461722e737667)](https://opencollective.com/pug/backer/26/website) [![Image 226](https://camo.githubusercontent.com/088a39589ce0f1aa7eb5719a53050112ef36515d00e17c99e400df60e8cb8cb2/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f32372f6176617461722e737667)](https://opencollective.com/pug/backer/27/website) [![Image 227](https://camo.githubusercontent.com/9a079c2e1e58728dee97a505df549b1f119dc97f0909bf69c0f086b01b2a52c9/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f32382f6176617461722e737667)](https://opencollective.com/pug/backer/28/website) [![Image 228](https://camo.githubusercontent.com/6c7ec8a859866c8797b110b93ba340ba17d90abf98a3dfa94a86937b390922eb/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f6261636b65722f32392f6176617461722e737667)](https://opencollective.com/pug/backer/29/website)
+
+Sponsors
+--------
+
+[](https://github.com/pugjs/pug?screenshot=true#sponsors)
+
+Become a sponsor and get your logo on our README on GitHub with a link to your site. \[[Become a sponsor](https://opencollective.com/pug#sponsor)\]
+
+[![Image 229](https://camo.githubusercontent.com/a39a1182313025cc10e7ee9f8f36daff8f58a151339a15e725d964852ef9351a/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f302f6176617461722e737667)](https://opencollective.com/pug/sponsor/0/website) [![Image 230](https://camo.githubusercontent.com/69cb55d9a52d71472e263b66d21df5b9c02098e49e6229649d00366d73eb6c21/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f312f6176617461722e737667)](https://opencollective.com/pug/sponsor/1/website) [![Image 231](https://camo.githubusercontent.com/c35683a9d9be057bf9e4890d16291b7a5facdbb8845b8a5217c7a5372756fda5/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f322f6176617461722e737667)](https://opencollective.com/pug/sponsor/2/website) [![Image 232](https://camo.githubusercontent.com/6d48b6d260cb1f133d9a439b6d5e4c18e9903dcdc0cfa395dc69c2fc8281bb0b/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f332f6176617461722e737667)](https://opencollective.com/pug/sponsor/3/website) [![Image 233](https://camo.githubusercontent.com/08478db7445d2cb9e832e0ecb176d3ead9fafd29264a5872ac8e618454587ffe/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f342f6176617461722e737667)](https://opencollective.com/pug/sponsor/4/website) [![Image 234](https://camo.githubusercontent.com/6bb9db0f0dc40d389327171da0c0dc4edf619d1b3a90adeb2296a37e6fa78e02/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f352f6176617461722e737667)](https://opencollective.com/pug/sponsor/5/website) [![Image 235](https://camo.githubusercontent.com/6ecc22ea77f08daeb14a4571229adb9ee942b0ba7abff957ff511cfe86436aca/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f362f6176617461722e737667)](https://opencollective.com/pug/sponsor/6/website) [![Image 236](https://camo.githubusercontent.com/11aa1c3aded1632c9a625c5ebf85db62851075a16102e5fc03bb584ee085f429/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f372f6176617461722e737667)](https://opencollective.com/pug/sponsor/7/website) [![Image 237](https://camo.githubusercontent.com/84772ab9e1ae4bd81cd3846a4b6f325a2e93b369d55a77505029a32fbe146e85/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f382f6176617461722e737667)](https://opencollective.com/pug/sponsor/8/website) [![Image 238](https://camo.githubusercontent.com/6ef7a83684203811cc0146469e07eaa7c25aee27183b4d83f25aea508b7698c2/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f392f6176617461722e737667)](https://opencollective.com/pug/sponsor/9/website) [![Image 239](https://camo.githubusercontent.com/38c2fc70a6090e06153105140447b489065c303d88bc414fee694f9c4b3e55c1/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f31302f6176617461722e737667)](https://opencollective.com/pug/sponsor/10/website) [![Image 240](https://camo.githubusercontent.com/dca6dda936975c4363147b15f9e0aaa8215e454e96aca90505734871f6584c0c/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f31312f6176617461722e737667)](https://opencollective.com/pug/sponsor/11/website) [![Image 241](https://camo.githubusercontent.com/2db36e4747c27af65ae7a2c79540a64ac8f8bdf8ec83495161da9a7e81ebc9cb/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f31322f6176617461722e737667)](https://opencollective.com/pug/sponsor/12/website) [![Image 242](https://camo.githubusercontent.com/425a742a1b4fe5b74ad5f935e4cf2213acd4f178689efe2c61dcd78b46f9fdcc/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f31332f6176617461722e737667)](https://opencollective.com/pug/sponsor/13/website) [![Image 243](https://camo.githubusercontent.com/048bf66c008a26841c68de6afa2d96ee120f60facc400c87daa56f9bc04db7f5/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f31342f6176617461722e737667)](https://opencollective.com/pug/sponsor/14/website) [![Image 244](https://camo.githubusercontent.com/415f150436d9d78ee76821f83956b6358e65a34c5aafa34ec1be85240ed881f3/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f31352f6176617461722e737667)](https://opencollective.com/pug/sponsor/15/website) [![Image 245](https://camo.githubusercontent.com/d2ad4a69f81ada551f508ecc8991c2f1cc8d3cc55534702b9b44ca7649cfd2c2/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f31362f6176617461722e737667)](https://opencollective.com/pug/sponsor/16/website) [![Image 246](https://camo.githubusercontent.com/f720056bf0594507c94975884e3bc7cdd094c23ec0e87b09f2e4d2eef463f7a4/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f31372f6176617461722e737667)](https://opencollective.com/pug/sponsor/17/website) [![Image 247](https://camo.githubusercontent.com/3127173761da843a3e30fea5ec8b7ec616b300b7ae82f8d48047038208c25fed/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f31382f6176617461722e737667)](https://opencollective.com/pug/sponsor/18/website) [![Image 248](https://camo.githubusercontent.com/462d4bf882c7e6da7013d41afec361babdeccb9fd319ab4d7aa36866610916b0/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f31392f6176617461722e737667)](https://opencollective.com/pug/sponsor/19/website) [![Image 249](https://camo.githubusercontent.com/32afe3fda79b67819b8769942dca743b6968357c88fb44f8e4f259eac928a8b1/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f32302f6176617461722e737667)](https://opencollective.com/pug/sponsor/20/website) [![Image 250](https://camo.githubusercontent.com/79f68c430b8767298c0f3267d9e7da6acdbbb81852fa6d578bad9bf3f43002bd/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f32312f6176617461722e737667)](https://opencollective.com/pug/sponsor/21/website) [![Image 251](https://camo.githubusercontent.com/29c96cf8992705072f07ee18fdd7225ca4c04167a26e234adac4a16e4610a93e/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f32322f6176617461722e737667)](https://opencollective.com/pug/sponsor/22/website) [![Image 252](https://camo.githubusercontent.com/090bc3223ff78d1a67b1d6d1c2523518d6f8b35148fd6cf53e6cb6db6fdcfb2d/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f32332f6176617461722e737667)](https://opencollective.com/pug/sponsor/23/website) [![Image 253](https://camo.githubusercontent.com/9949631bbdc425328335bd2a6da82d00bd081c7c8e3ea44c96d182766c3059d7/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f32342f6176617461722e737667)](https://opencollective.com/pug/sponsor/24/website) [![Image 254](https://camo.githubusercontent.com/64771a1ac71a37adea9b58628dcd576c7b0ae4a5df2b006bd48cf3071308a08a/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f32352f6176617461722e737667)](https://opencollective.com/pug/sponsor/25/website) [![Image 255](https://camo.githubusercontent.com/22a5bd9fc81b0251f353735cfe671fdc188fc5d75cca7d2807f52314e1f35055/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f32362f6176617461722e737667)](https://opencollective.com/pug/sponsor/26/website) [![Image 256](https://camo.githubusercontent.com/c475ddfcc73f76e5d9c6d978c32a993c51045986e97895109b900b7ecf2eb5de/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f32372f6176617461722e737667)](https://opencollective.com/pug/sponsor/27/website) [![Image 257](https://camo.githubusercontent.com/7c53652f32d13de0496cb3ce056363e6b6ca865891f6c5e995cc3dcc41d35601/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f32382f6176617461722e737667)](https://opencollective.com/pug/sponsor/28/website) [![Image 258](https://camo.githubusercontent.com/d6539a59982dc0bbf3044cd558780057ffac2048bd06f39f9fdd54b3452267eb/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7075672f73706f6e736f722f32392f6176617461722e737667)](https://opencollective.com/pug/sponsor/29/website)
+
+License
+-------
+
+[](https://github.com/pugjs/pug?screenshot=true#license)
+
+MIT

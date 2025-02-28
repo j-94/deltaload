@@ -1,0 +1,358 @@
+Introduction to Tabula | Tabula Documentation
+===============
+ 
+
+[![Image 11](https://docs.tabula.io/~gitbook/image?url=https%3A%2F%2F3263174655-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Ft2TZFevDoRrOBI2rPK1p%252Ficon%252F2p2Q5qHyqcHaCjRyZ7UR%252F1200x1200%2520Logo%2520White.png%3Falt%3Dmedia%26token%3Dede01dca-7d0c-480e-a7e9-74c63f8ed570&width=32&dpr=4&quality=100&sign=24b6da53&sv=2)![Image 12](https://docs.tabula.io/~gitbook/image?url=https%3A%2F%2F3263174655-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Ft2TZFevDoRrOBI2rPK1p%252Ficon%252F2p2Q5qHyqcHaCjRyZ7UR%252F1200x1200%2520Logo%2520White.png%3Falt%3Dmedia%26token%3Dede01dca-7d0c-480e-a7e9-74c63f8ed570&width=32&dpr=4&quality=100&sign=24b6da53&sv=2) Tabula Documentation](https://docs.tabula.io/)
+
+[Tabula Home](https://www.tabula.io/)[Community](https://join.slack.com/t/tabulaio/shared_invite/zt-2cugjcmpx-IDV_U4ga8mQ26J3W3kT6_g)
+
+More
+
+[Tabula Home](https://www.tabula.io/)[Community](https://join.slack.com/t/tabulaio/shared_invite/zt-2cugjcmpx-IDV_U4ga8mQ26J3W3kT6_g)
+
+Ask or search...
+
+Ctrl + K
+
+*   [👋Introduction to Tabula](https://docs.tabula.io/)
+*   Getting Started
+    
+    *   [Product Updates](https://docs.tabula.io/getting-started/product-updates)
+    *   [Getting Started](https://docs.tabula.io/getting-started/getting-started)
+        
+        *   [Installation and Login](https://docs.tabula.io/getting-started/getting-started/installation-and-login)
+        *   [Beginner's Guide](https://docs.tabula.io/getting-started/getting-started/beginners-guide)
+        
+    *   [FAQ](https://docs.tabula.io/getting-started/faq)
+*   Product overview
+    
+    *   [Home Page](https://docs.tabula.io/product-overview/home-page)
+    *   [Exploring Data](https://docs.tabula.io/product-overview/exploring-data)
+        
+        *   [Data Catalog](https://docs.tabula.io/product-overview/exploring-data/data-catalog)
+        *   [Exploring Datasets](https://docs.tabula.io/product-overview/exploring-data/exploring-datasets)
+        *   [Statistics Panel](https://docs.tabula.io/product-overview/exploring-data/statistics-panel)
+        
+    *   [Designing Flows](https://docs.tabula.io/product-overview/designing-flows)
+        
+        *   [Creating Flows](https://docs.tabula.io/product-overview/designing-flows/creating-flows)
+        *   [Flow Designer Guide](https://docs.tabula.io/product-overview/designing-flows/flow-designer-guide)
+            
+            *   [Working with Canvas](https://docs.tabula.io/product-overview/designing-flows/flow-designer-guide/working-with-canvas)
+            *   [Using Groups](https://docs.tabula.io/product-overview/designing-flows/flow-designer-guide/using-groups)
+            *   [Working with Table](https://docs.tabula.io/product-overview/designing-flows/flow-designer-guide/working-with-table)
+            
+        *   [Managing Flows](https://docs.tabula.io/product-overview/designing-flows/managing-flows)
+        *   [Sharing Flows](https://docs.tabula.io/product-overview/designing-flows/sharing-flows)
+        *   [Demo: Building a Simple Flow](https://docs.tabula.io/product-overview/designing-flows/demo-building-a-simple-flow)
+        
+    *   [Executing Flows](https://docs.tabula.io/product-overview/executing-flows)
+        
+        *   [Running Flows](https://docs.tabula.io/product-overview/executing-flows/running-flows)
+        *   [Jobs overview](https://docs.tabula.io/product-overview/executing-flows/jobs-overview)
+        
+    *   [Building Reports](https://docs.tabula.io/product-overview/building-reports)
+        
+        *   [Designing Reports](https://docs.tabula.io/product-overview/building-reports/designing-reports)
+        *   [Running Reports](https://docs.tabula.io/product-overview/building-reports/running-reports)
+        *   [Reports Page](https://docs.tabula.io/product-overview/building-reports/reports-page)
+        
+    *   [Connecting Data](https://docs.tabula.io/product-overview/connecting-data)
+*   Integrations
+    
+    *   [Data Sources](https://docs.tabula.io/integrations/data-sources)
+        
+        *   [Configuring Fivetran Integration](https://docs.tabula.io/integrations/data-sources/configuring-fivetran-integration)
+        
+    *   [Data Storages](https://docs.tabula.io/integrations/data-storages)
+        
+        *   [PostgreSQL](https://docs.tabula.io/integrations/data-storages/postgresql)
+        *   [Snowflake](https://docs.tabula.io/integrations/data-storages/snowflake)
+        *   [BigQuery](https://docs.tabula.io/integrations/data-storages/bigquery)
+        *   [ClickHouse](https://docs.tabula.io/integrations/data-storages/clickhouse)
+        
+    *   [Enrichments](https://docs.tabula.io/integrations/enrichments)
+        
+        *   [How to add your API key in Tabula](https://docs.tabula.io/integrations/enrichments/how-to-add-your-api-key-in-tabula)
+        *   [Apollo](https://docs.tabula.io/integrations/enrichments/apollo)
+            
+            *   [How to find Apollo API key](https://docs.tabula.io/integrations/enrichments/apollo/how-to-find-apollo-api-key)
+            *   [Person's details by LinkedIn URL](https://docs.tabula.io/integrations/enrichments/apollo/persons-details-by-linkedin-url)
+            *   [Get company details by domain](https://docs.tabula.io/integrations/enrichments/apollo/get-company-details-by-domain)
+            
+        *   [ContactOut](https://docs.tabula.io/integrations/enrichments/contactout)
+            
+            *   [How to find ContactOut API key](https://docs.tabula.io/integrations/enrichments/contactout/how-to-find-contactout-api-key)
+            *   [Get person's details by email](https://docs.tabula.io/integrations/enrichments/contactout/get-persons-details-by-email)
+            *   [Get person’s details by Linkedin URL](https://docs.tabula.io/integrations/enrichments/contactout/get-persons-details-by-linkedin-url)
+            
+        *   [ReverseContact](https://docs.tabula.io/integrations/enrichments/reversecontact)
+            
+            *   [How to find Reverse Contact API key](https://docs.tabula.io/integrations/enrichments/reversecontact/how-to-find-reverse-contact-api-key)
+            *   [Get person's contact info by LinkedIn URL](https://docs.tabula.io/integrations/enrichments/reversecontact/get-persons-contact-info-by-linkedin-url)
+            *   [Get person's details by email](https://docs.tabula.io/integrations/enrichments/reversecontact/get-persons-details-by-email)
+            *   [Get company details by domain](https://docs.tabula.io/integrations/enrichments/reversecontact/get-company-details-by-domain)
+            *   [Get company details by LinkedIn URL](https://docs.tabula.io/integrations/enrichments/reversecontact/get-company-details-by-linkedin-url)
+            
+        
+*   Data Transformation
+    
+    *   [Transforms](https://docs.tabula.io/data-transformation/transforms)
+        
+        *   [Source](https://docs.tabula.io/data-transformation/transforms/source)
+        *   [New Empty Table](https://docs.tabula.io/data-transformation/transforms/new-empty-table)
+        *   [Output](https://docs.tabula.io/data-transformation/transforms/output)
+        *   [Chart](https://docs.tabula.io/data-transformation/transforms/chart)
+        *   [Enrichment](https://docs.tabula.io/data-transformation/transforms/enrichment)
+        *   [New Column](https://docs.tabula.io/data-transformation/transforms/new-column)
+        *   [If...Then](https://docs.tabula.io/data-transformation/transforms/if...then)
+        *   [Rolling Functions](https://docs.tabula.io/data-transformation/transforms/rolling-functions)
+        *   [Column Type](https://docs.tabula.io/data-transformation/transforms/column-type)
+        *   [Columns Edit](https://docs.tabula.io/data-transformation/transforms/columns-edit)
+        *   [Filter](https://docs.tabula.io/data-transformation/transforms/filter)
+        *   [Remove Duplicates](https://docs.tabula.io/data-transformation/transforms/remove-duplicates)
+        *   [Sort](https://docs.tabula.io/data-transformation/transforms/sort)
+        *   [Find and Replace Text](https://docs.tabula.io/data-transformation/transforms/find-and-replace-text)
+        *   [Split Column](https://docs.tabula.io/data-transformation/transforms/split-column)
+        *   [Extract Text](https://docs.tabula.io/data-transformation/transforms/extract-text)
+        *   [Match Text](https://docs.tabula.io/data-transformation/transforms/match-text)
+        *   [Join](https://docs.tabula.io/data-transformation/transforms/join)
+        *   [Union](https://docs.tabula.io/data-transformation/transforms/union)
+        *   [Group By](https://docs.tabula.io/data-transformation/transforms/group-by)
+        *   [Pivot](https://docs.tabula.io/data-transformation/transforms/pivot)
+        *   [Unpivot](https://docs.tabula.io/data-transformation/transforms/unpivot)
+        *   [To JSON](https://docs.tabula.io/data-transformation/transforms/to-json)
+        *   [From JSON](https://docs.tabula.io/data-transformation/transforms/from-json)
+        *   [API Call](https://docs.tabula.io/data-transformation/transforms/api-call)
+        *   [AI Column](https://docs.tabula.io/data-transformation/transforms/ai-column)
+        *   [AI Table](https://docs.tabula.io/data-transformation/transforms/ai-table)
+        
+    *   [Formulas](https://docs.tabula.io/data-transformation/formulas)
+        
+        *   [What are Formulas?](https://docs.tabula.io/data-transformation/formulas/what-are-formulas)
+        *   [Math Functions](https://docs.tabula.io/data-transformation/formulas/math-functions)
+            
+            *   [Abs](https://docs.tabula.io/data-transformation/formulas/math-functions/abs)
+            *   [Ceiling](https://docs.tabula.io/data-transformation/formulas/math-functions/ceiling)
+            *   [Exp](https://docs.tabula.io/data-transformation/formulas/math-functions/exp)
+            *   [Floor](https://docs.tabula.io/data-transformation/formulas/math-functions/floor)
+            *   [IsEven](https://docs.tabula.io/data-transformation/formulas/math-functions/iseven)
+            *   [IsOdd](https://docs.tabula.io/data-transformation/formulas/math-functions/isodd)
+            *   [Ln](https://docs.tabula.io/data-transformation/formulas/math-functions/ln)
+            *   [Log](https://docs.tabula.io/data-transformation/formulas/math-functions/log)
+            *   [Log10](https://docs.tabula.io/data-transformation/formulas/math-functions/log10)
+            *   [Mod](https://docs.tabula.io/data-transformation/formulas/math-functions/mod)
+            *   [Pi](https://docs.tabula.io/data-transformation/formulas/math-functions/pi)
+            *   [Power](https://docs.tabula.io/data-transformation/formulas/math-functions/power)
+            *   [Quotient](https://docs.tabula.io/data-transformation/formulas/math-functions/quotient)
+            *   [Round](https://docs.tabula.io/data-transformation/formulas/math-functions/round)
+            *   [RoundDown](https://docs.tabula.io/data-transformation/formulas/math-functions/rounddown)
+            *   [RoundUp](https://docs.tabula.io/data-transformation/formulas/math-functions/roundup)
+            *   [Sign](https://docs.tabula.io/data-transformation/formulas/math-functions/sign)
+            *   [Sqrt](https://docs.tabula.io/data-transformation/formulas/math-functions/sqrt)
+            *   [Truncate](https://docs.tabula.io/data-transformation/formulas/math-functions/truncate)
+            
+        *   [Trigonometric Functions](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions)
+            
+            *   [Acos](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions/acos)
+            *   [Asin](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions/asin)
+            *   [Atan](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions/atan)
+            *   [Atan2](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions/atan2)
+            *   [Cos](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions/cos)
+            *   [Cot](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions/cot)
+            *   [Degrees](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions/degrees)
+            *   [Radians](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions/radians)
+            *   [Sin](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions/sin)
+            *   [Tan](https://docs.tabula.io/data-transformation/formulas/trigonometric-functions/tan)
+            
+        *   [String Functions](https://docs.tabula.io/data-transformation/formulas/string-functions)
+            
+            *   [Compare](https://docs.tabula.io/data-transformation/formulas/string-functions/compare)
+            *   [Concat](https://docs.tabula.io/data-transformation/formulas/string-functions/concat)
+            *   [Contains](https://docs.tabula.io/data-transformation/formulas/string-functions/contains)
+            *   [In](https://docs.tabula.io/data-transformation/formulas/string-functions/in)
+            *   [CountMatches](https://docs.tabula.io/data-transformation/formulas/string-functions/countmatches)
+            *   [CountMatchesRegexp](https://docs.tabula.io/data-transformation/formulas/string-functions/countmatchesregexp)
+            *   [EndsWith](https://docs.tabula.io/data-transformation/formulas/string-functions/endswith)
+            *   [EndsWithRegexp](https://docs.tabula.io/data-transformation/formulas/string-functions/endswithregexp)
+            *   [Extract](https://docs.tabula.io/data-transformation/formulas/string-functions/extract)
+            *   [FindMatchOfString](https://docs.tabula.io/data-transformation/formulas/string-functions/findmatchofstring)
+            *   [FindMatchOfRegexp](https://docs.tabula.io/data-transformation/formulas/string-functions/findmatchofregexp)
+            *   [FindMatchesOfString](https://docs.tabula.io/data-transformation/formulas/string-functions/findmatchesofstring)
+            *   [FindMatchesOfRegexp](https://docs.tabula.io/data-transformation/formulas/string-functions/findmatchesofregexp)
+            *   [Left](https://docs.tabula.io/data-transformation/formulas/string-functions/left)
+            *   [Length](https://docs.tabula.io/data-transformation/formulas/string-functions/length)
+            *   [Lower](https://docs.tabula.io/data-transformation/formulas/string-functions/lower)
+            *   [Matches](https://docs.tabula.io/data-transformation/formulas/string-functions/matches)
+            *   [Pad](https://docs.tabula.io/data-transformation/formulas/string-functions/pad)
+            *   [ProperCase](https://docs.tabula.io/data-transformation/formulas/string-functions/propercase)
+            *   [RemoveSymbols](https://docs.tabula.io/data-transformation/formulas/string-functions/removesymbols)
+            *   [RemoveWhitespaces](https://docs.tabula.io/data-transformation/formulas/string-functions/removewhitespaces)
+            *   [Repeat](https://docs.tabula.io/data-transformation/formulas/string-functions/repeat)
+            *   [Replace](https://docs.tabula.io/data-transformation/formulas/string-functions/replace)
+            *   [ReplaceRegexp](https://docs.tabula.io/data-transformation/formulas/string-functions/replaceregexp)
+            *   [Reverse](https://docs.tabula.io/data-transformation/formulas/string-functions/reverse)
+            *   [Right](https://docs.tabula.io/data-transformation/formulas/string-functions/right)
+            *   [Spaces](https://docs.tabula.io/data-transformation/formulas/string-functions/spaces)
+            *   [Split](https://docs.tabula.io/data-transformation/formulas/string-functions/split)
+            *   [SplitRegexp](https://docs.tabula.io/data-transformation/formulas/string-functions/splitregexp)
+            *   [StartsWith](https://docs.tabula.io/data-transformation/formulas/string-functions/startswith)
+            *   [StartsWithRegexp](https://docs.tabula.io/data-transformation/formulas/string-functions/startswithregexp)
+            *   [Stuff](https://docs.tabula.io/data-transformation/formulas/string-functions/stuff)
+            *   [Substring](https://docs.tabula.io/data-transformation/formulas/string-functions/substring)
+            *   [SubstringDelimiter](https://docs.tabula.io/data-transformation/formulas/string-functions/substringdelimiter)
+            *   [SubstringRegexpDelimiter](https://docs.tabula.io/data-transformation/formulas/string-functions/substringregexpdelimiter)
+            *   [Trim](https://docs.tabula.io/data-transformation/formulas/string-functions/trim)
+            *   [Upper](https://docs.tabula.io/data-transformation/formulas/string-functions/upper)
+            
+        *   [Date & Time Functions](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions)
+            
+            *   [Date](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/date)
+            *   [DateAdd](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/dateadd)
+            *   [DateAdd2](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/dateadd2)
+            *   [DateDiff](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/datediff)
+            *   [DateDiff2](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/datediff2)
+            *   [DateFromParts](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/datefromparts)
+            *   [DateTime](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/datetime)
+            *   [DateTimeFromParts](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/datetimefromparts)
+            *   [DateTrunc](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/datetrunc)
+            *   [DayName](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/dayname)
+            *   [DayOfMonth](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/dayofmonth)
+            *   [DayOfWeek](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/dayofweek)
+            *   [DayOfYear](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/dayofyear)
+            *   [Hour](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/hour)
+            *   [Minute](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/minute)
+            *   [Month](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/month)
+            *   [MonthName](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/monthname)
+            *   [Now](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/now)
+            *   [Quarter](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/quarter)
+            *   [Second](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/second)
+            *   [Time](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/time)
+            *   [TimeFromParts](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/timefromparts)
+            *   [Today](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/today)
+            *   [Week](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/week)
+            *   [Year](https://docs.tabula.io/data-transformation/formulas/date-and-time-functions/year)
+            
+        *   [Aggregate Functions](https://docs.tabula.io/data-transformation/formulas/aggregate-functions)
+            
+            *   [Any](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/any)
+            *   [AnyIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/anyif)
+            *   [Array](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/array)
+            *   [ArrayIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/arrayif)
+            *   [Avg](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/avg)
+            *   [AvgIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/avgif)
+            *   [AvgInRow](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/avginrow)
+            *   [Count](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/count)
+            *   [CountA](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/counta)
+            *   [CountIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/countif)
+            *   [CountUnique](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/countunique)
+            *   [Max](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/max)
+            *   [MaxIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/maxif)
+            *   [MaxInRow](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/maxinrow)
+            *   [Median](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/median)
+            *   [MedianIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/medianif)
+            *   [Min](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/min)
+            *   [MinIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/minif)
+            *   [MinInRow](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/mininrow)
+            *   [Mode](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/mode)
+            *   [ModeIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/modeif)
+            *   [Percentile](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/percentile)
+            *   [Quartile](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/quartile)
+            *   [StdDev](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/stddev)
+            *   [StdDevIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/stddevif)
+            *   [Sum](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/sum)
+            *   [SumIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/sumif)
+            *   [SumProduct](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/sumproduct)
+            *   [Variance](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/variance)
+            *   [VarianceIf](https://docs.tabula.io/data-transformation/formulas/aggregate-functions/varianceif)
+            
+        *   [Conversion Functions](https://docs.tabula.io/data-transformation/formulas/conversion-functions)
+            
+            *   [ToArray](https://docs.tabula.io/data-transformation/formulas/conversion-functions/toarray)
+            *   [ArrayToString](https://docs.tabula.io/data-transformation/formulas/conversion-functions/arraytostring)
+            *   [ToBoolean](https://docs.tabula.io/data-transformation/formulas/conversion-functions/toboolean)
+            *   [ToDate](https://docs.tabula.io/data-transformation/formulas/conversion-functions/todate)
+            *   [ToDateTime](https://docs.tabula.io/data-transformation/formulas/conversion-functions/todatetime)
+            *   [ToDecimal](https://docs.tabula.io/data-transformation/formulas/conversion-functions/todecimal)
+            *   [ToInteger](https://docs.tabula.io/data-transformation/formulas/conversion-functions/tointeger)
+            *   [ToObject](https://docs.tabula.io/data-transformation/formulas/conversion-functions/toobject)
+            *   [ToTime](https://docs.tabula.io/data-transformation/formulas/conversion-functions/totime)
+            *   [ToString](https://docs.tabula.io/data-transformation/formulas/conversion-functions/tostring)
+            
+        *   [Misc Functions](https://docs.tabula.io/data-transformation/formulas/misc-functions)
+            
+            *   [At](https://docs.tabula.io/data-transformation/formulas/misc-functions/at)
+            *   [IsMissing](https://docs.tabula.io/data-transformation/formulas/misc-functions/ismissing)
+            *   [RowNumber](https://docs.tabula.io/data-transformation/formulas/misc-functions/rownumber)
+            *   [Random](https://docs.tabula.io/data-transformation/formulas/misc-functions/random)
+            *   [If](https://docs.tabula.io/data-transformation/formulas/misc-functions/if)
+            *   [Coalesce](https://docs.tabula.io/data-transformation/formulas/misc-functions/coalesce)
+            *   [True](https://docs.tabula.io/data-transformation/formulas/misc-functions/true)
+            *   [False](https://docs.tabula.io/data-transformation/formulas/misc-functions/false)
+            *   [Null](https://docs.tabula.io/data-transformation/formulas/misc-functions/null)
+            *   [$target](https://docs.tabula.io/data-transformation/formulas/misc-functions/usdtarget)
+            
+        *   [Window Functions](https://docs.tabula.io/data-transformation/formulas/window-functions)
+        *   [Custom Functions](https://docs.tabula.io/data-transformation/formulas/custom-functions)
+        *   [Data Types](https://docs.tabula.io/data-transformation/formulas/data-types)
+        *   [Supported Date Parts](https://docs.tabula.io/data-transformation/formulas/supported-date-parts)
+        *   [Regex: List of Tokes](https://docs.tabula.io/data-transformation/formulas/regex-list-of-tokes)
+        
+*   Pricing & Billing
+    
+    *   [Plans, Subscriptions, and Credits](https://docs.tabula.io/pricing-and-billing/plans-subscriptions-and-credits)
+    *   [Tabula for Education](https://docs.tabula.io/pricing-and-billing/tabula-for-education)
+*   Tutorials
+    
+    *   [Tabula Use Cases](https://docs.tabula.io/tutorials/tabula-use-cases)
+    *   [Merge Columns](https://docs.tabula.io/tutorials/merge-columns)
+    *   [Join Types](https://docs.tabula.io/tutorials/join-types)
+    *   [Union Introduction](https://docs.tabula.io/tutorials/union-introduction)
+    *   [Window Functions](https://docs.tabula.io/tutorials/window-functions)
+    *   [What is Unpivot?](https://docs.tabula.io/tutorials/what-is-unpivot)
+    *   [JSON Format Tutorial](https://docs.tabula.io/tutorials/json-format-tutorial)
+    *   [Using Regex](https://docs.tabula.io/tutorials/using-regex)
+
+[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=t2TZFevDoRrOBI2rPK1p)
+
+👋Introduction to Tabula
+========================
+
+Tabula is an end-to-end data analytics and automation platform.
+
+Download our [cheatsheet](https://www.tabula.io/cheatsheet)
+
+[](https://docs.tabula.io/#video-overview)
+
+Video Overview
+
+
+--------------------------------------------------------------
+
+Get 2 minutes? Check out a video overview of our product:
+
+Video overview
+
+[](https://docs.tabula.io/#getting-started)
+
+Getting Started
+
+
+----------------------------------------------------------------
+
+[![Image 13: Cover](https://docs.tabula.io/~gitbook/image?url=https%3A%2F%2F3263174655-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Ft2TZFevDoRrOBI2rPK1p%252Fuploads%252FRGjaHRfz8up5RHx2Pbgs%252FOverview.png%3Falt%3Dmedia%26token%3D054d2d7e-f84c-4e67-92fd-ae768c5400b3&width=245&dpr=4&quality=100&sign=8716825b&sv=2) **Product Overview**](https://docs.tabula.io/getting-started/getting-started/beginners-guide)[![Image 14: Cover](https://docs.tabula.io/~gitbook/image?url=https%3A%2F%2F3263174655-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Ft2TZFevDoRrOBI2rPK1p%252Fuploads%252FdlAVCyZZIYMEYw14afun%252FUpdates.png%3Falt%3Dmedia%26token%3D0c46df37-c6f4-49ce-8187-193e01c050c2&width=245&dpr=4&quality=100&sign=72df4d4a&sv=2) **Product Updates**](https://docs.tabula.io/getting-started/product-updates)[![Image 15: Cover](https://docs.tabula.io/~gitbook/image?url=https%3A%2F%2F3263174655-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Ft2TZFevDoRrOBI2rPK1p%252Fuploads%252FZVFpKWqmaVPsWanlT4Rm%252FFAQ.png%3Falt%3Dmedia%26token%3D0e95ddc1-2e08-4c06-a84a-7d8435528e49&width=245&dpr=4&quality=100&sign=29b2bcf5&sv=2) **FAQ**](https://docs.tabula.io/getting-started/faq)
+
+[](https://docs.tabula.io/#basics)
+
+Basics
+
+
+----------------------------------------------
+
+We've put together some helpful guides to get set up with our product quickly and easily.
+
+[Exploring Data](https://docs.tabula.io/product-overview/exploring-data)[Designing Flows](https://docs.tabula.io/product-overview/designing-flows)[Building Reports](https://docs.tabula.io/product-overview/building-reports)
+
+Last updated 7 months ago
+
+Was this helpful?

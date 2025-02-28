@@ -1,0 +1,43 @@
+Browse.new | Induced
+===============
+
+![Image 10: Induced Logo](https://browse.new/induced.svg)//:browse
+
+Use via API
+
+Enter a goal for the browser agent.
+-----------------------------------
+
+Avoid running flows that require login. Give explicit and clear instructions for best performance. This is only a playground.
+
+ Public
+
+TRY THIS
+
+RECENT RUNS
+
+Also available as an experimental bot on [Discord](https://indcd.co/discord), Get latest updates on [X](https://x.com/inducedai)
+
+![Image 11](https://browse.new/_next/image?url=%2Fdesktophero.png&w=2048&q=75)
+
+![Image 12](https://browse.new/_next/image?url=%2Fmobilehero.png&w=2048&q=75)
+
+![Image 13: Induced Logo](https://browse.new/induced-logo.svg)
+
+[](https://indcd.co/discord)[](https://www.linkedin.com/company/induced-ai)[](https://twitter.com/inducedai)
+
+![Image 14: Footer shadow](https://inducedai-cdn.s3.amazonaws.com/Lights.svg)
+
+![Image 15: Induced Logo](https://browse.new/induced-logo.svg)
+
+### Induced
+
+Get started with Induced to automate repetitive browser tasks by teaching it once for the AI Agent to run it smartly every time - with human-like reasoning capabilities
+
+[](https://indcd.co/discord)[](https://www.linkedin.com/company/induced-ai)[](https://twitter.com/inducedai)
+
+[![Image 16: SOC2 Compliant](https://browse.new/_next/image?url=%2Ffooter%2Fsoc.png&w=2048&q=75)](https://induced.trustcenter.sprinto.com/)[![Image 17: GDPR Compliant](https://browse.new/_next/image?url=%2Ffooter%2Fgdpr.png&w=2048&q=75)](https://induced.trustcenter.sprinto.com/)[![Image 18: HIPAA Compliant](https://browse.new/footer/hipaa.svg)](https://induced.trustcenter.sprinto.com/)[Privacy Policy](https://induced.ai/privacy)[Terms of Service](https://induced.ai/terms)
+
+©️ 2024 Buidl Inc.
+
+nicenice

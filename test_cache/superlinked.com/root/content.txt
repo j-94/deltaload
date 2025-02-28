@@ -1,0 +1,228 @@
+🎉 We've just raised $9.5M Seed round. [Read more about our plan -](https://superlinked.com/post/superlinked-raises-seed-to-scale-the-vector-computer)\>
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Image 128](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e2929_superlinked_logo.svg)](https://superlinked.com/)
+
+![Image 129](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/66df495f45189232c31a123b_superlinked%2Bmongo_thumb.png)
+
+MongoDB & Superlinked partner to unlock the Power of GenAI in the Enterprise
+----------------------------------------------------------------------------
+
+[Read more ![Image 130](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e292d_Frame%2080.svg)](https://www.superlinked.com/news/superlinked-unlocks-the-power-of-genai-in-the-enterprise-with-mongodb-atlas)
+
+![Image 131](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/66df49aa3004bedd69430e1e_datasummit-thumb.png)
+
+Vector Search on Complex Data: Superlinked's talk at DATA+AI Summit
+-------------------------------------------------------------------
+
+[Watch now ![Image 132](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e292d_Frame%2080.svg)](https://www.superlinked.com/news/vector-search-on-complex-data-at-the-databricks-summit-2024)
+
+![Image 133](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/66df4a51f71dc0e450fe6976_superlinked%2Bredis_thumb.png)
+
+Build fast and smart GenAI-powered apps with Redis & Superlinked
+----------------------------------------------------------------
+
+[Read more ![Image 134](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e292d_Frame%2080.svg)](https://superlinked.com/news/smarter-and-faster-genai-apps-with-superlinked-and-redis)
+
+The Vector Stack for Complex Data
+---------------------------------
+
+### Put vectors into production with a reliable and efficient vector compute solution.
+
+![Image 135](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e2950_icon_vector.svg)
+
+##### Multi-modal Vectors
+
+Combine text, images and structured metadata into multi-modal vectors that fully describe your entities in their complex context.
+
+![Image 136](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294f_icon_queries.svg)
+
+##### Multi-objective Queries
+
+Smoothly navigate the trade-off between multiple competing objectives like relevance, freshness and popularity.
+
+![Image 137](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294e_icon_code.svg)
+
+##### Infrastructure as Code
+
+Manage the compute layer that sits between your data infrastructure and your vector database through a simple python SDK.
+
+Multiple Use-Cases, One System
+------------------------------
+
+### Solve your information retrieval and feature engineering challenges with vectors.
+
+Combine semantic relevance and document freshness to reliably retrieve the optimal document chunks in your Retrieval Augmented Generation system.
+
+![Image 138](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e2967_RAG.svg)
+
+Combine semantic relevance and document freshness in your search system, because more recent results tend to be more accurate.
+
+![Image 139](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e2968_SemanticSearch.svg)
+
+Build a real-time personalized e-commerce product feed with user vectors constructed from SKU embeddings the user interacted with.
+
+![Image 140](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e2976_recom.svg)
+
+Discover behavioral clusters of your customers using a vector index in your data warehouse.
+
+![Image 141](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e2966_Analytics.svg)
+
+![Image 142](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e2935_Frame%20180%20(1).svg)
+
+Implement Once,  
+Run Everywhere
+--------------------------------
+
+### From the initial exploration to production using the same Python SDK.
+
+Your Vector  
+Compute Team
+--------------------------
+
+### We have over 160 years of experience building machine learning infrastructure, planet-scale software and companies.
+
+[Open Roles ![Image 143](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e292d_Frame%2080.svg)](https://superlinked.notion.site/superlinked/Work-at-Superlinked-541f2d74ce714c889a1c6dba6dd0dbf1)
+
+###### Marci Mayer
+
+Senior Cloud Infrastructure Engineer
+
+[![Image 144](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/mmayer19/)
+
+###### Ben Gutkovich
+
+Co-founder & COO
+
+[![Image 145](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/benben/)
+
+###### Laura Lehoczki
+
+Senior Data Engineer
+
+[![Image 146](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/laura-lehoczki-ll96/)
+
+###### Peter Szabo
+
+Senior Data Infrastructure Engineer
+
+[![Image 147](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/theszp/)
+
+###### Alexandra Gyetvai
+
+Business Operations Manager
+
+[![Image 148](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/alexandra-gyetvai/)
+
+###### Arunesh Singh
+
+Design & Product Insights
+
+[![Image 149](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/aruneshsingh99/)
+
+###### Daniel Svonava
+
+Co-founder & CEO
+
+[![Image 150](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/svonava/)
+
+###### Mór Kapronczay
+
+Senior Machine Learning Engineer
+
+[![Image 151](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/m%C3%B3r-kapronczay-49447692/)
+
+###### Gergő Gulyás
+
+Senior Software Engineer
+
+[![Image 152](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/guigreg/)
+
+###### Krisztián Gajdár
+
+Senior Software Engineer
+
+[![Image 153](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/gajdar/)
+
+###### Balázs Kemenes
+
+Head of Engineering
+
+[![Image 154](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/kemenes/)
+
+###### György Móra
+
+Chief Architect
+
+[![Image 155](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/gymora/)
+
+###### Gergely Horvath
+
+Head of Infrastructure
+
+[![Image 156](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/hogejo/)
+
+###### Elior Malul
+
+Senior ML Engineer
+
+[![Image 157](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/emhacker1/)
+
+###### Andrea Parker
+
+Senior ML Engineer
+
+[![Image 158](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/parkeran/)
+
+###### Eli Shtraikher
+
+Head of Professional Services
+
+[![Image 159](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/shtraikher/)
+
+###### Teddy Grosz
+
+Senior Software Engineer
+
+[![Image 160](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/teddy-grosz-18213b298/)
+
+###### Neil O'Neill
+
+Business Operations Manager
+
+[![Image 161](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/neil-o-neill-2904754b/)
+
+###### Moti Dabastani
+
+Senior ML Engineer
+
+[![Image 162](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/moti-dabastani-3971a383/)
+
+###### Matt Seabourne
+
+Founder Associate
+
+[![Image 163](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/matt-s-70043bb1/)
+
+###### Andrey Pikunov
+
+Machine Learning Engineer
+
+[![Image 164](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/andrey-pikunov/)
+
+###### Harshil Patel
+
+Sales Manager
+
+[![Image 165](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e294b_Vector%20(7).svg)](https://www.linkedin.com/in/harshilp/)
+
+![Image 166](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e293c_Vector%20(6).svg)![Image 167](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e2942_Vector%20(7).svg)
+
+![Image 168](https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e2943_Logo%20light%20color.svg)
+
+Thank you!  
+Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+2024 Superlinked, Inc.

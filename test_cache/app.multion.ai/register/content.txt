@@ -1,0 +1,11 @@
+Full Name
+
+Email
+
+Password
+
+Confirm Password
+
+Already have an account? [Login](https://platform.multion.ai/login).
+
+By registering, you agree to our [Privacy Policy](https://www.multion.ai/privacy) and [Terms of Use](https://www.multion.ai/terms)

@@ -1,0 +1,17 @@
+Toggle site navigation sidebar
+
+ [![Image 7: Light Logo](https://unstructured-io.github.io/unstructured/bricks/_static/images/logo-light-mode.svg) ![Image 8: Dark Logo](https://unstructured-io.github.io/unstructured/bricks/_static/images/logo-dark-mode.svg)](https://unstructured-io.github.io/unstructured/bricks/index.html)
+
+Toggle search
+
+Hide search
+
+[Back to top](https://unstructured-io.github.io/unstructured/bricks/partition.html#)
+
+Toggle table of contents sidebar
+
+[](https://unstructured-io.github.io/unstructured/bricks/index.html)
+
+[Join](https://short.unstructured.io/pzw05l7)
+
+The Unstructured documentation page has moved! Check out our new and improved docs page at [https://docs.unstructured.io](https://docs.unstructured.io/) to learn more about our products and tools.

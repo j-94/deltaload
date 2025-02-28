@@ -1,0 +1,737 @@
+Terminal Setup - Make your Mac terminal awesome - DEV Community
+===============                                         
+
+  
+
+[Skip to content](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#main-content)
+
+ [![Image 60: DEV Community](https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)](https://dev.to/)
+
+  [Powered by Algolia](https://www.algolia.com/developers/?utm_source=devto&utm_medium=referral)
+
+[](https://dev.to/search)
+
+[Log in](https://dev.to/enter) [Create account](https://dev.to/enter?state=new-user)
+
+DEV Community
+-------------
+
+ 
+
+ ![Image 61](https://assets.dev.to/assets/heart-plus-active-9ea3b22f2bc311281db911d416166c5f430636e76b15cd5df6b3b841d830eefa.svg)Add reaction
+
+ ![Image 62](https://assets.dev.to/assets/sparkle-heart-5f9bee3767e18deb1bb725290cb151c25234768a0e9a2bd39370c382d02920cf.svg)Like ![Image 63](https://assets.dev.to/assets/multi-unicorn-b44d6f8c23cdd00964192bedc38af3e82463978aa611b4365bd33a0f1f4f3e97.svg)Unicorn  ![Image 64](https://assets.dev.to/assets/exploding-head-daceb38d627e6ae9b730f36a1e390fca556a4289d5a41abb2c35068ad3e2c4b5.svg)Exploding Head  ![Image 65](https://assets.dev.to/assets/raised-hands-74b2099fd66a39f2d7eed9305ee0f4553df0eb7b4f11b01b6b1b499973048fe5.svg)Raised Hands  ![Image 66](https://assets.dev.to/assets/fire-f60e7a582391810302117f987b22a8ef04a2fe0df7e3258a5f49332df1cec71e.svg)Fire
+
+Jump to Comments Save Boost
+
+Copy link 
+
+Copied to Clipboard
+
+[Share to X](https://twitter.com/intent/tweet?text=%22Terminal%20Setup%20-%20Make%20your%20Mac%20terminal%20awesome%22%20by%20%40alagrede%20%23DEVCommunity%20https%3A%2F%2Fdev.to%2Falagrede%2Fterminal-setup-make-your-mac-terminal-awesome-4ecc) [Share to LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdev.to%2Falagrede%2Fterminal-setup-make-your-mac-terminal-awesome-4ecc&title=Terminal%20Setup%20-%20Make%20your%20Mac%20terminal%20awesome&summary=How%20to%20configure%20your%20Mac%20terminal%20as%20Developer&source=DEV%20Community) [Share to Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdev.to%2Falagrede%2Fterminal-setup-make-your-mac-terminal-awesome-4ecc) [Share to Mastodon](https://toot.kytta.dev/?text=https%3A%2F%2Fdev.to%2Falagrede%2Fterminal-setup-make-your-mac-terminal-awesome-4ecc)
+
+[Share Post via...](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#) [Report Abuse](https://dev.to/report-abuse)
+
+[![Image 67: Cover image for Terminal Setup - Make your Mac terminal awesome](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq81bdk4ur4sfuij7ax45.png)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq81bdk4ur4sfuij7ax45.png)
+
+[![Image 68: Anthony Lagrede](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F47181%2Fbd0719f9-6b9a-4729-ac61-f9e7379c609a.jpg)](https://dev.to/alagrede)
+
+[Anthony Lagrede](https://dev.to/alagrede)Posted on Jan 7, 2022
+
+   ![Image 69](https://assets.dev.to/assets/sparkle-heart-5f9bee3767e18deb1bb725290cb151c25234768a0e9a2bd39370c382d02920cf.svg)  ![Image 70](https://assets.dev.to/assets/multi-unicorn-b44d6f8c23cdd00964192bedc38af3e82463978aa611b4365bd33a0f1f4f3e97.svg)  ![Image 71](https://assets.dev.to/assets/exploding-head-daceb38d627e6ae9b730f36a1e390fca556a4289d5a41abb2c35068ad3e2c4b5.svg)  ![Image 72](https://assets.dev.to/assets/raised-hands-74b2099fd66a39f2d7eed9305ee0f4553df0eb7b4f11b01b6b1b499973048fe5.svg) ![Image 73](https://assets.dev.to/assets/fire-f60e7a582391810302117f987b22a8ef04a2fe0df7e3258a5f49332df1cec71e.svg)
+
+Terminal Setup - Make your Mac terminal awesome
+===============================================
+
+[#terminal](https://dev.to/t/terminal) [#ohmyzsh](https://dev.to/t/ohmyzsh) [#bash](https://dev.to/t/bash) [#dev](https://dev.to/t/dev)
+
+I recently installed my new MacBook and set up my terminal. Here I'll show you how to do the same for your MacBook.
+
+[](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#the-final-result)The final result
+---------------------------------------------------------------------------------------------------------------
+
+This is the end result based on the delicious **powerlevel10k**. Easy to configure and modify. Optimized to work as a developer.
+
+> You will notice the toolbar at the top (Cpu, Ram, Network) to always have an overview of the hardware consumption.
+
+[![Image 74: Mac terminal](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsoupov6aejxnjadtwzli.png)](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsoupov6aejxnjadtwzli.png)
+
+### [](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#prerequisites)Prerequisites
+
+Install [Homebrew](https://brew.sh/index_fr)
+
+```
+
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+
+```
+
+ 
+
+Install [iTerm2](https://iterm2.com/) and git
+
+```
+
+
+brew install --cask iterm2
+brew install git
+
+
+```
+
+ 
+
+Install [Oh My Zsh](https://ohmyz.sh/#install)
+
+```
+
+
+$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+
+```
+
+ 
+
+### [](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#theme-installation)Theme installation
+
+I choosed [powerlevel10k](https://github.com/romkatv/powerlevel10k) probably one of the best and most flexible theme you can choose.  
+You can easily change your terminal layout simply by rerun the installation command.
+
+Start to install [MesloLGS Fonts](https://github.com/romkatv/powerlevel10k#fonts)
+
+```
+
+
+MesloLGS NF Regular.ttf
+MesloLGS NF Bold.ttf
+MesloLGS NF Italic.ttf
+MesloLGS NF Bold Italic.ttf
+
+
+```
+
+ 
+
+Then install **powerlevel10k** itself
+
+```
+
+
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+
+
+```
+
+ 
+
+In `~/.zshrc` set the ZSH theme to use:
+
+```
+
+
+ZSH_THEME="powerlevel10k/powerlevel10k" in ~/.zshrc.
+
+
+```
+
+ 
+
+You will probably at least configure these two ZSH plugins:
+
+**zsh-syntax-highlighting** - Fish shell like syntax highlighting for Zsh. This is what makes my aliases/commands green above. If it's green then it's installed!  
+**zsh-autosuggestions** - Fish-like autosuggestions for zsh. Will show a preview of the last matching command while typing. Press right to use
+
+In `~/.zshrc` set the ZSH plugins to use:
+
+```
+
+
+plugins=(
+  git
+  zsh-syntax-highlighting
+  zsh-autosuggestions
+)
+
+
+```
+
+ 
+
+**Restart your terminal** with Zsh
+
+Now you can run
+
+```
+
+
+p10k configure
+
+
+```
+
+ 
+
+If you have issue with fonts, check MesloLGS font is selected.  
+`Open iTerm2 → Preferences → Profiles → Text and set Font to MesloLGS NF`.
+
+Finally, if you want to include your existing bash aliases and functions:  
+In `~/.zshrc` source your bash\_profile just before the **export ZSH**
+
+```
+
+
+source ~/.bash_profile
+
+```
+
+ 
+
+###   
+[](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#add-the-toolbar)  
+Add the Toolbar  
+
+[![Image 75: Toolbar](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfk2ihzdvd4hx6oas6mo.png)](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfk2ihzdvd4hx6oas6mo.png)
+
+Open your `iterm2 > Profile > Session > Status bar enabled`  
+[![Image 76: iterm2 conf](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthnc8dsbdooisi2kr0m0.png)](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthnc8dsbdooisi2kr0m0.png)
+
+Select your widgets  
+[![Image 77: iterm2 status bar widgets](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwxz05tbpydattvh1uhs.png)](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwxz05tbpydattvh1uhs.png)
+
+[](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#finished)Finished!
+------------------------------------------------------------------------------------------------
+
+I hope this small tutorial will help you to improve your setup. It is obviously not complete but easy enough to move on.
+
+Top comments (12)
+-----------------
+
+Subscribe
+
+    ![Image 78: pic](https://media2.dev.to/dynamic/image/width=256,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png)
+
+Personal Trusted User
+
+[Create template](https://dev.to/settings/response-templates)Templates let you quickly answer FAQs or store snippets for re-use.
+
+Submit Preview [Dismiss](https://dev.to/404.html)
+
+ 
+
+ 
+
+[![Image 79: zwacky profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F277593%2F29add9f7-4fe8-4608-8838-490dbeeb660c.jpg)](https://dev.to/zwacky)
+
+[Simon Wicki](https://dev.to/zwacky)
+
+Simon Wicki
+
+ [![Image 80](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F277593%2F29add9f7-4fe8-4608-8838-490dbeeb660c.jpg)Simon Wicki](https://dev.to/zwacky)
+
+Follow
+
+💬 Frontend, webperf & non-fiction books 👨‍💻 Frontend at JustWatch 🔔 Creator of https://notyfy.co 🧙‍♂️ Freelancer
+
+*   Location
+    
+    Berlin
+    
+*   Joined
+    
+    Nov 22, 2019
+    
+
+• [Jan 9 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l5a6)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l5a6)
+
+*   Hide
+
+First time I saw the toolbar feature in a CLI, sweet. Time to toy around with that one.
+
+I can recommend these two tools to improve the Git experience on the CLI:
+
+*   [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): better visualisation of `git diff`
+*   [git lg](http://garmoncheg.blogspot.com/2012/06/pretty-git-log.html): better visualisation than `git log`
+
+3 likes Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1l5a6)
+
+ 
+
+ 
+
+[![Image 81: thomasbredi profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F533935%2Ff5397200-9e46-4cca-8e20-017a11089281.png)](https://dev.to/thomasbredi)
+
+[Thomas Bredillet](https://dev.to/thomasbredi)
+
+Thomas Bredillet
+
+ [![Image 82](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F533935%2Ff5397200-9e46-4cca-8e20-017a11089281.png)Thomas Bredillet](https://dev.to/thomasbredi)
+
+Follow
+
+*   Joined
+    
+    Dec 5, 2020
+    
+
+• [Jan 9 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l5b6)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l5b6)
+
+*   Hide
+
+For install this two plugins :
+
+git clone [github.com/zsh-users/zsh-autosugge...](https://github.com/zsh-users/zsh-autosuggestions) ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions  
+git clone [github.com/zsh-users/zsh-syntax-hi...](https://github.com/zsh-users/zsh-syntax-highlighting.git) ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+
+3 likes Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1l5b6)
+
+ 
+
+ 
+
+[![Image 83: sansk profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F225772%2F78f31625-6031-4cfb-925d-365d96574036.jpg)](https://dev.to/sansk)
+
+[Sangy K](https://dev.to/sansk)
+
+Sangy K
+
+ [![Image 84](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F225772%2F78f31625-6031-4cfb-925d-365d96574036.jpg)Sangy K](https://dev.to/sansk)
+
+Follow
+
+Full-Stack Developer • An Introvert Coder • Tech Blogger • A Proud Mom
+
+*   Location
+    
+    Internet
+    
+*   Work
+    
+    Javascript Developer
+    
+*   Joined
+    
+    Sep 8, 2019
+    
+
+• [Jan 11 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l6h7)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l6h7)
+
+*   Hide
+
+Is there something like this for windows terminal/powershell?
+
+2 likes Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1l6h7)
+
+ 
+
+ 
+
+[![Image 85: zeeshan profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F225799%2F83988eff-bb05-4461-b5a7-5398165ec0e1.jpeg)](https://dev.to/zeeshan)
+
+[Mohammed Zeeshan](https://dev.to/zeeshan)
+
+Mohammed Zeeshan
+
+ [![Image 86](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F225799%2F83988eff-bb05-4461-b5a7-5398165ec0e1.jpeg)Mohammed Zeeshan](https://dev.to/zeeshan)
+
+Follow
+
+Language Learner
+
+*   Location
+    
+    Kerala, India
+    
+*   Work
+    
+    Frontend Engineer at Food Market Hub, Malaysia
+    
+*   Joined
+    
+    Sep 8, 2019
+    
+
+• [Jan 11 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l72g)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l72g)
+
+*   Hide
+
+ohmyposh. scott hanselman has some oretty good articles and videos on setting this up
+
+3 likes Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1l72g)
+
+ 
+
+ 
+
+[![Image 87: sansk profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F225772%2F78f31625-6031-4cfb-925d-365d96574036.jpg)](https://dev.to/sansk)
+
+[Sangy K](https://dev.to/sansk)
+
+Sangy K
+
+ [![Image 88](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F225772%2F78f31625-6031-4cfb-925d-365d96574036.jpg)Sangy K](https://dev.to/sansk)
+
+Follow
+
+Full-Stack Developer • An Introvert Coder • Tech Blogger • A Proud Mom
+
+*   Location
+    
+    Internet
+    
+*   Work
+    
+    Javascript Developer
+    
+*   Joined
+    
+    Sep 8, 2019
+    
+
+• [Jan 14 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l98b)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l98b)
+
+*   Hide
+
+Thanks. I will check it out
+
+2 likes Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1l98b)
+
+ 
+
+ 
+
+[![Image 89: alagrede profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F47181%2Fbd0719f9-6b9a-4729-ac61-f9e7379c609a.jpg)](https://dev.to/alagrede)
+
+[Anthony Lagrede](https://dev.to/alagrede)
+
+Anthony Lagrede
+
+ [![Image 90](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F47181%2Fbd0719f9-6b9a-4729-ac61-f9e7379c609a.jpg)Anthony Lagrede](https://dev.to/alagrede)
+
+Follow
+
+Passionate developer. Share skills and side projects. #web #DataScience stuff #freelance #Toulouse. Check out my last app: https://znote.io
+
+*   Location
+    
+    Toulouse
+    
+*   Joined
+    
+    Nov 28, 2017
+    
+
+• [Jan 11 '22 • Edited on Jan 11 • Edited](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l6ji)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l6ji)
+
+*   Hide
+
+Hi Sangy,  
+Yes, there is also ohmyposh. Take a look here for Windows 😊:  
+[dev.to/alagrede/terminal-setup-mak...](https://dev.to/alagrede/terminal-setup-make-your-windows-terminal-awesome-569i)
+
+2 likes Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1l6ji)
+
+ 
+
+ 
+
+[![Image 91: sansk profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F225772%2F78f31625-6031-4cfb-925d-365d96574036.jpg)](https://dev.to/sansk)
+
+[Sangy K](https://dev.to/sansk)
+
+Sangy K
+
+ [![Image 92](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F225772%2F78f31625-6031-4cfb-925d-365d96574036.jpg)Sangy K](https://dev.to/sansk)
+
+Follow
+
+Full-Stack Developer • An Introvert Coder • Tech Blogger • A Proud Mom
+
+*   Location
+    
+    Internet
+    
+*   Work
+    
+    Javascript Developer
+    
+*   Joined
+    
+    Sep 8, 2019
+    
+
+• [Jan 14 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l98a)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l98a)
+
+*   Hide
+
+Thanks. I will check it out
+
+1 like Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1l98a)
+
+ 
+
+ 
+
+[![Image 93: gnsp profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F129205%2F21b17be8-1d7b-492e-aac7-7e73215b4266.jpeg)](https://dev.to/gnsp)
+
+[Ganesh Prasad](https://dev.to/gnsp)
+
+Ganesh Prasad
+
+ [![Image 94](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F129205%2F21b17be8-1d7b-492e-aac7-7e73215b4266.jpeg)Ganesh Prasad](https://dev.to/gnsp)
+
+Follow
+
+Inventor of Ironscript
+
+*   Location
+    
+    Odisha, India
+    
+*   Education
+    
+    National Institute of Technology, Rourkela
+    
+*   Work
+    
+    Software Engineer at Google
+    
+*   Joined
+    
+    Jan 16, 2019
+    
+
+• [Jan 10 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l5ng)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l5ng)
+
+*   Hide
+
+I have been using the same setup for last 5 years now. I use the font firacode though.
+
+3 likes Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1l5ng)
+
+ 
+
+ 
+
+[![Image 95: chideraike profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F523772%2F965eb653-cda8-4073-bd0d-8058e45241ce.png)](https://dev.to/chideraike)
+
+[Chidera](https://dev.to/chideraike)
+
+Chidera
+
+ [![Image 96](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F523772%2F965eb653-cda8-4073-bd0d-8058e45241ce.png)Chidera](https://dev.to/chideraike)
+
+Follow
+
+I build Web & Mobile Applications
+
+*   Location
+    
+    Lagos, Nigeria
+    
+*   Joined
+    
+    Dec 1, 2020
+    
+
+• [Jan 10 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l64p)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1l64p)
+
+*   Hide
+
+Thanks for this, I found it helpful
+
+2 likes Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1l64p)
+
+ 
+
+ 
+
+[![Image 97: devphu profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F800864%2F1e510465-8d1f-4ba4-bd32-3e04243eb40f.jpeg)](https://dev.to/devphu)
+
+[PhanPhú](https://dev.to/devphu)
+
+PhanPhú
+
+ [![Image 98](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F800864%2F1e510465-8d1f-4ba4-bd32-3e04243eb40f.jpeg)PhanPhú](https://dev.to/devphu)
+
+Follow
+
+*   Joined
+    
+    Jan 21, 2022
+    
+
+• [Jan 21 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1lei6)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1lei6)
+
+*   Hide
+
+it has work with mac chip m1?
+
+1 like Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1lei6)
+
+ 
+
+ 
+
+[![Image 99: alagrede profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F47181%2Fbd0719f9-6b9a-4729-ac61-f9e7379c609a.jpg)](https://dev.to/alagrede)
+
+[Anthony Lagrede](https://dev.to/alagrede)
+
+Anthony Lagrede
+
+ [![Image 100](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F47181%2Fbd0719f9-6b9a-4729-ac61-f9e7379c609a.jpg)Anthony Lagrede](https://dev.to/alagrede)
+
+Follow
+
+Passionate developer. Share skills and side projects. #web #DataScience stuff #freelance #Toulouse. Check out my last app: https://znote.io
+
+*   Location
+    
+    Toulouse
+    
+*   Joined
+    
+    Nov 28, 2017
+    
+
+• [Jan 24 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1lg9k)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1lg9k)
+
+*   Hide
+
+Hi [@devphu](https://dev.to/devphu), yes of course.
+
+1 like Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1lg9k)
+
+ 
+
+ 
+
+[![Image 101: rannn505 profile image](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F791199%2F830fe8be-7090-4f15-9014-fa17e03e02ab.jpeg)](https://dev.to/rannn505)
+
+[Ran Cohen](https://dev.to/rannn505)
+
+Ran Cohen
+
+ [![Image 102](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F791199%2F830fe8be-7090-4f15-9014-fa17e03e02ab.jpeg)Ran Cohen](https://dev.to/rannn505)
+
+Follow
+
+https://www.linkedin.com/in/rannn505/
+
+*   Email
+    
+    [rannn505@outlook.com](mailto:rannn505@outlook.com)
+    
+*   Work
+    
+    CTO & Co-Founder at Configu
+    
+*   Joined
+    
+    Jan 12, 2022
+    
+
+• [Feb 9 '22](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1m1f2)
+
+*   [Copy link](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#comment-1m1f2)
+
+*   Hide
+
+Check out [my post](https://dev.to/rannn505/macos-awesome-terminal-519n) for more awesome features 🦄
+
+Like [Reply](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments/new/1m1f2)
+
+[View full discussion (12 comments)](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc/comments)
+
+[Code of Conduct](https://dev.to/code-of-conduct) • [Report abuse](https://dev.to/report-abuse)
+
+Are you sure you want to hide this comment? It will become hidden in your post, but will still be visible via the comment's [permalink](https://dev.to/alagrede/terminal-setup-make-your-mac-terminal-awesome-4ecc#).
+
+Hide child comments as well
+
+Confirm
+
+For further actions, you may consider blocking this person and/or [reporting abuse](https://dev.to/report-abuse)
+
+Read next
+---------
+
+[![Image 103: desk_track profile image](https://media2.dev.to/dynamic/image/width=100,height=100,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F856539%2F0a7fac15-9810-4cd4-8ca9-05bd29eb6459.jpg) ### How work from home monitoring tools prevent distractions and increase focus DeskTrack - Jan 20](https://dev.to/desk_track/how-work-from-home-monitoring-tools-prevent-distractions-and-increase-focus-4fll)[![Image 104: asiaelbow2 profile image](https://media2.dev.to/dynamic/image/width=100,height=100,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2736881%2F61a08758-65a9-418f-9170-81b97a6092ad.png) ### Exploring the Power of Internet Marketing in Today’s Marketplace Seerup Carlson - Jan 20](https://dev.to/asiaelbow2/exploring-the-power-of-internet-marketing-in-todays-marketplace-93p)[![Image 105: heartgroup7 profile image](https://media2.dev.to/dynamic/image/width=100,height=100,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2727326%2F1f49fed7-96ae-46bd-8474-1582821ace0d.png) ### Sports training in Asia along with Italy: A comparison evaluation. Yang Thorsen - Jan 20](https://dev.to/heartgroup7/sports-training-in-asia-along-with-italy-a-comparison-evaluation-2f51)[![Image 106: veiledvirtue_042df28a9877 profile image](https://media2.dev.to/dynamic/image/width=100,height=100,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2713920%2Ff1aca135-eab8-4f3f-85a4-7ba16036499d.png) ### Boosting Your Business Online: Expert SEO Strategies for Maidenhead Companies VeiledVirtue - Jan 20](https://dev.to/veiledvirtue_042df28a9877/boosting-your-business-online-expert-seo-strategies-for-maidenhead-companies-555)
+
+ [![Image 107](https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F47181%2Fbd0719f9-6b9a-4729-ac61-f9e7379c609a.jpg)Anthony Lagrede](https://dev.to/alagrede)
+
+Follow
+
+Passionate developer. Share skills and side projects. #web #DataScience stuff #freelance #Toulouse. Check out my last app: https://znote.io
+
+*   Location
+    
+    Toulouse
+    
+*   Joined
+    
+    Nov 28, 2017
+    
+
+### More from [Anthony Lagrede](https://dev.to/alagrede)
+
+[Terminal Setup - Make your Windows terminal awesome #terminal #ohmyposh #bash #dev](https://dev.to/alagrede/terminal-setup-make-your-windows-terminal-awesome-569i)
+
+Thank you to our Diamond Sponsor [Neon](https://neon.tech/) for supporting our community.
+
+[DEV Community](https://dev.to/) — A constructive and inclusive social network for software developers. With you every step of your journey.
+
+*   [Home](https://dev.to/)
+*   [DEV++](https://dev.to/++)
+*   [Podcasts](https://dev.to/pod)
+*   [Videos](https://dev.to/videos)
+*   [Tags](https://dev.to/tags)
+*   [DEV Help](https://dev.to/help)
+*   [Forem Shop](https://shop.forem.com/)
+*   [Advertise on DEV](https://dev.to/advertise)
+*   [DEV Challenges](https://dev.to/challenges)
+*   [DEV Showcase](https://dev.to/showcase)
+*   [About](https://dev.to/about)
+*   [Contact](https://dev.to/contact)
+*   [Free Postgres Database](https://dev.to/free-postgres-database-tier)
+*   [Software comparisons](https://dev.to/software-comparisons)
+
+*   [Code of Conduct](https://dev.to/code-of-conduct)
+*   [Privacy Policy](https://dev.to/privacy)
+*   [Terms of use](https://dev.to/terms)
+
+Built on [Forem](https://www.forem.com/) — the [open source](https://dev.to/t/opensource) software that powers [DEV](https://dev.to/) and other inclusive communities.
+
+Made with love and [Ruby on Rails](https://dev.to/t/rails). DEV Community © 2016 - 2025.
+
+![Image 108: DEV Community](https://media2.dev.to/dynamic/image/width=190,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png)
+
+We're a place where coders share, stay up-to-date and grow their careers.
+
+[Log in](https://dev.to/enter) [Create account](https://dev.to/enter?state=new-user)
+
+![Image 109](https://assets.dev.to/assets/sparkle-heart-5f9bee3767e18deb1bb725290cb151c25234768a0e9a2bd39370c382d02920cf.svg) ![Image 110](https://assets.dev.to/assets/multi-unicorn-b44d6f8c23cdd00964192bedc38af3e82463978aa611b4365bd33a0f1f4f3e97.svg) ![Image 111](https://assets.dev.to/assets/exploding-head-daceb38d627e6ae9b730f36a1e390fca556a4289d5a41abb2c35068ad3e2c4b5.svg) ![Image 112](https://assets.dev.to/assets/raised-hands-74b2099fd66a39f2d7eed9305ee0f4553df0eb7b4f11b01b6b1b499973048fe5.svg) ![Image 113](https://assets.dev.to/assets/fire-f60e7a582391810302117f987b22a8ef04a2fe0df7e3258a5f49332df1cec71e.svg)

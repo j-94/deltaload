@@ -1,0 +1,7 @@
+Highlight Overlay
+
+![Image 7: An example of Gendo AI output](https://app.gendo.ai/_next/image?url=%2Fimg%2Fportal-home-1.png&w=3840&q=75)
+
+![Image 8: An example of Gendo AI output](https://app.gendo.ai/_next/image?url=%2Fimg%2Fportal-home-3.png&w=3840&q=75)
+
+![Image 9: An example of Gendo AI output](https://app.gendo.ai/_next/image?url=%2Fimg%2Fportal-home-2.png&w=3840&q=75)

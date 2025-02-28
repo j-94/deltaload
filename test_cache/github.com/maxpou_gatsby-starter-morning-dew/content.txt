@@ -1,0 +1,1199 @@
+GitHub - maxpou/gatsby-starter-morning-dew: :rocket: A Gatsby theme/starter to build lightning-fast blog/websites
+===============
+                                           
+
+[Skip to content](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmaxpou%2Fgatsby-starter-morning-dew%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmaxpou%2Fgatsby-starter-morning-dew%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=maxpou%2Fgatsby-starter-morning-dew) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[maxpou](https://github.com/maxpou) / **[gatsby-starter-morning-dew](https://github.com/maxpou/gatsby-starter-morning-dew)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fmaxpou%2Fgatsby-starter-morning-dew) You must be signed in to change notification settings
+*   [Fork 42](https://github.com/login?return_to=%2Fmaxpou%2Fgatsby-starter-morning-dew)
+*   [Star 201](https://github.com/login?return_to=%2Fmaxpou%2Fgatsby-starter-morning-dew)
+    
+
+🚀 A Gatsby theme/starter to build lightning-fast blog/websites
+
+[maxpou.github.io/gatsby-starter-morning-dew/](https://maxpou.github.io/gatsby-starter-morning-dew/ "https://maxpou.github.io/gatsby-starter-morning-dew/")
+
+### License
+
+[MIT license](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/LICENSE)
+
+[201 stars](https://github.com/maxpou/gatsby-starter-morning-dew/stargazers) [42 forks](https://github.com/maxpou/gatsby-starter-morning-dew/forks) [Branches](https://github.com/maxpou/gatsby-starter-morning-dew/branches) [Tags](https://github.com/maxpou/gatsby-starter-morning-dew/tags) [Activity](https://github.com/maxpou/gatsby-starter-morning-dew/activity)
+
+[Star](https://github.com/login?return_to=%2Fmaxpou%2Fgatsby-starter-morning-dew)
+
+[Notifications](https://github.com/login?return_to=%2Fmaxpou%2Fgatsby-starter-morning-dew) You must be signed in to change notification settings
+
+*   [Code](https://github.com/maxpou/gatsby-starter-morning-dew)
+*   [Issues 6](https://github.com/maxpou/gatsby-starter-morning-dew/issues)
+*   [Pull requests 6](https://github.com/maxpou/gatsby-starter-morning-dew/pulls)
+*   [Actions](https://github.com/maxpou/gatsby-starter-morning-dew/actions)
+*   [Security](https://github.com/maxpou/gatsby-starter-morning-dew/security)
+*   [Insights](https://github.com/maxpou/gatsby-starter-morning-dew/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/maxpou/gatsby-starter-morning-dew)
+*   [Issues](https://github.com/maxpou/gatsby-starter-morning-dew/issues)
+*   [Pull requests](https://github.com/maxpou/gatsby-starter-morning-dew/pulls)
+*   [Actions](https://github.com/maxpou/gatsby-starter-morning-dew/actions)
+*   [Security](https://github.com/maxpou/gatsby-starter-morning-dew/security)
+*   [Insights](https://github.com/maxpou/gatsby-starter-morning-dew/pulse)
+
+maxpou/gatsby-starter-morning-dew
+=================================
+
+  
+
+ master
+
+[**3** Branches](https://github.com/maxpou/gatsby-starter-morning-dew/branches)[**53** Tags](https://github.com/maxpou/gatsby-starter-morning-dew/tags)
+
+[](https://github.com/maxpou/gatsby-starter-morning-dew/branches)[](https://github.com/maxpou/gatsby-starter-morning-dew/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 24: maxpou](https://avatars.githubusercontent.com/u/6160970?v=4&size=40)](https://github.com/maxpou)[maxpou](https://github.com/maxpou/gatsby-starter-morning-dew/commits?author=maxpou)
+
+[docs: remove double screenshot](https://github.com/maxpou/gatsby-starter-morning-dew/commit/43bf3e6547bd6b706bccfc8dd9582b5356c6e27f)
+
+Apr 4, 2021
+
+[43bf3e6](https://github.com/maxpou/gatsby-starter-morning-dew/commit/43bf3e6547bd6b706bccfc8dd9582b5356c6e27f) · Apr 4, 2021
+
+History
+-------
+
+[159 Commits](https://github.com/maxpou/gatsby-starter-morning-dew/commits/master/)
+
+[](https://github.com/maxpou/gatsby-starter-morning-dew/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[content](https://github.com/maxpou/gatsby-starter-morning-dew/tree/master/content "content")
+
+
+
+
+
+
+
+ | 
+
+[content](https://github.com/maxpou/gatsby-starter-morning-dew/tree/master/content "content")
+
+
+
+
+
+
+
+ | 
+
+[feat: Gatsby v3 + other stuffs](https://github.com/maxpou/gatsby-starter-morning-dew/commit/b4520ee52c47a588ffd617c66bc582e693d65541 "feat: Gatsby v3 + other stuffs
+feat: add rel for footer links
+fix: link alternate header now include current page
+See: https://developers.google.com/search/docs/advanced/crawling/localized-versions")
+
+
+
+ | 
+
+Mar 5, 2021
+
+ |
+| 
+
+[data](https://github.com/maxpou/gatsby-starter-morning-dew/tree/master/data "data")
+
+
+
+
+
+
+
+ | 
+
+[data](https://github.com/maxpou/gatsby-starter-morning-dew/tree/master/data "data")
+
+
+
+
+
+
+
+ | 
+
+[feat: Gatsby v3 + other stuffs](https://github.com/maxpou/gatsby-starter-morning-dew/commit/b4520ee52c47a588ffd617c66bc582e693d65541 "feat: Gatsby v3 + other stuffs
+feat: add rel for footer links
+fix: link alternate header now include current page
+See: https://developers.google.com/search/docs/advanced/crawling/localized-versions")
+
+
+
+ | 
+
+Mar 5, 2021
+
+ |
+| 
+
+[scripts](https://github.com/maxpou/gatsby-starter-morning-dew/tree/master/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[scripts](https://github.com/maxpou/gatsby-starter-morning-dew/tree/master/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[feat: create unique parameter for social image share (](https://github.com/maxpou/gatsby-starter-morning-dew/commit/c00ea67746cf2483b262ad7cc803b0407318e3b2 "feat: create unique parameter for social image share (#99)
+BREAKING CHANGE: in MD files imageTw and imageFb had been replaced by imageShare
+doc: update documentation + related post")[#99](https://github.com/maxpou/gatsby-starter-morning-dew/pull/99)[)](https://github.com/maxpou/gatsby-starter-morning-dew/commit/c00ea67746cf2483b262ad7cc803b0407318e3b2 "feat: create unique parameter for social image share (#99)
+BREAKING CHANGE: in MD files imageTw and imageFb had been replaced by imageShare
+doc: update documentation + related post")
+
+
+
+ | 
+
+Jan 13, 2020
+
+ |
+| 
+
+[src](https://github.com/maxpou/gatsby-starter-morning-dew/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/maxpou/gatsby-starter-morning-dew/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[feat: Gatsby v3 + other stuffs](https://github.com/maxpou/gatsby-starter-morning-dew/commit/b4520ee52c47a588ffd617c66bc582e693d65541 "feat: Gatsby v3 + other stuffs
+feat: add rel for footer links
+fix: link alternate header now include current page
+See: https://developers.google.com/search/docs/advanced/crawling/localized-versions")
+
+
+
+ | 
+
+Mar 5, 2021
+
+ |
+| 
+
+[static](https://github.com/maxpou/gatsby-starter-morning-dew/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[static](https://github.com/maxpou/gatsby-starter-morning-dew/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[feat: convert to a Gatsby theme (](https://github.com/maxpou/gatsby-starter-morning-dew/commit/a70f789aad36322c6420000353fae32d9efa67f0 "feat: convert to a Gatsby theme (#55)
+BREAKING CHANGE: FooterLinks section changed! See `siteConfig.js`.
+feat: convert to a Gatsby theme
+feat(Theme): use tokens for colours (https://www.gatsbyjs.org/blog/2019-04-29-component-shadowing/#changing-styling)
+docs(README): convert yarn script to npm (https://twitter.com/housecor/status/1109177783689859074)
+refactor: use hooks and change siteConfig structure
+refactor: remove all siteConfig import (`import siteConfig from '../../data/siteConfig'`) => use hooks
+doc: update readme + how to install.md
+fix: in themes, `gatsby-config.js` use  gatsby-starter-morning-dew's `siteConfig.js` data.
+fix: in siteConfig, remove unused property `iconClassName `
+fix: cover + avatar bio image now use Gatsby Images (https://www.gatsbyjs.org/packages/gatsby-image/)")[#55](https://github.com/maxpou/gatsby-starter-morning-dew/pull/55)[)](https://github.com/maxpou/gatsby-starter-morning-dew/commit/a70f789aad36322c6420000353fae32d9efa67f0 "feat: convert to a Gatsby theme (#55)
+BREAKING CHANGE: FooterLinks section changed! See `siteConfig.js`.
+feat: convert to a Gatsby theme
+feat(Theme): use tokens for colours (https://www.gatsbyjs.org/blog/2019-04-29-component-shadowing/#changing-styling)
+docs(README): convert yarn script to npm (https://twitter.com/housecor/status/1109177783689859074)
+refactor: use hooks and change siteConfig structure
+refactor: remove all siteConfig import (`import siteConfig from '../../data/siteConfig'`) => use hooks
+doc: update readme + how to install.md
+fix: in themes, `gatsby-config.js` use  gatsby-starter-morning-dew's `siteConfig.js` data.
+fix: in siteConfig, remove unused property `iconClassName `
+fix: cover + avatar bio image now use Gatsby Images (https://www.gatsbyjs.org/packages/gatsby-image/)")
+
+
+
+ | 
+
+May 30, 2019
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: update eslint config + prettierrc (](https://github.com/maxpou/gatsby-starter-morning-dew/commit/ed42acbb27b79a8c4072e3f13f940a49e5397ce1 "chore: update eslint config + prettierrc (#89)")[#89](https://github.com/maxpou/gatsby-starter-morning-dew/pull/89)[)](https://github.com/maxpou/gatsby-starter-morning-dew/commit/ed42acbb27b79a8c4072e3f13f940a49e5397ce1 "chore: update eslint config + prettierrc (#89)")
+
+
+
+ | 
+
+Nov 2, 2019
+
+ |
+| 
+
+[.gitignore](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Fixed core-js missing dependency when using npm (](https://github.com/maxpou/gatsby-starter-morning-dew/commit/90d778173820c6aa09f3962469eb5306e8923b5e "Fixed core-js missing dependency when using npm (#29)")[#29](https://github.com/maxpou/gatsby-starter-morning-dew/pull/29)[)](https://github.com/maxpou/gatsby-starter-morning-dew/commit/90d778173820c6aa09f3962469eb5306e8923b5e "Fixed core-js missing dependency when using npm (#29)")
+
+
+
+ | 
+
+Nov 26, 2018
+
+ |
+| 
+
+[.prettierrc](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[fix: bump all dependencies](https://github.com/maxpou/gatsby-starter-morning-dew/commit/4ec05557436e1bdb7e243dd518c751304e1b5f7d "fix: bump all dependencies
+refactor: remove lodash dependency
+chore: bump major version of react-helmet
+chore: bump major of prettier 2.0
+chore: update package.json description
+docs: remove emphasis in big-test post (closes #114)")
+
+
+
+ | 
+
+Apr 30, 2020
+
+ |
+| 
+
+[.travis.yml](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/.travis.yml ".travis.yml")
+
+
+
+
+
+
+
+ | 
+
+[.travis.yml](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/.travis.yml ".travis.yml")
+
+
+
+
+
+
+
+ | 
+
+[fix(package): bump internal dependencies](https://github.com/maxpou/gatsby-starter-morning-dew/commit/2295bd0982dd290d417c73afc97c1f1711011e1a "fix(package): bump internal dependencies")
+
+
+
+ | 
+
+Mar 24, 2020
+
+ |
+| 
+
+[LICENSE](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[chore: bump license (2020) (](https://github.com/maxpou/gatsby-starter-morning-dew/commit/ce1b6e3757eddd2557b770614261c83144d2029d "chore: bump license (2020) (#101)")[#101](https://github.com/maxpou/gatsby-starter-morning-dew/pull/101)[)](https://github.com/maxpou/gatsby-starter-morning-dew/commit/ce1b6e3757eddd2557b770614261c83144d2029d "chore: bump license (2020) (#101)")
+
+
+
+ | 
+
+Jan 14, 2020
+
+ |
+| 
+
+[README.md](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[docs: remove double screenshot](https://github.com/maxpou/gatsby-starter-morning-dew/commit/43bf3e6547bd6b706bccfc8dd9582b5356c6e27f "docs: remove double screenshot")
+
+
+
+ | 
+
+Apr 4, 2021
+
+ |
+| 
+
+[components.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/components.js "components.js")
+
+
+
+
+
+
+
+ | 
+
+[components.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/components.js "components.js")
+
+
+
+
+
+
+
+ | 
+
+[feat: convert to a Gatsby theme (](https://github.com/maxpou/gatsby-starter-morning-dew/commit/a70f789aad36322c6420000353fae32d9efa67f0 "feat: convert to a Gatsby theme (#55)
+BREAKING CHANGE: FooterLinks section changed! See `siteConfig.js`.
+feat: convert to a Gatsby theme
+feat(Theme): use tokens for colours (https://www.gatsbyjs.org/blog/2019-04-29-component-shadowing/#changing-styling)
+docs(README): convert yarn script to npm (https://twitter.com/housecor/status/1109177783689859074)
+refactor: use hooks and change siteConfig structure
+refactor: remove all siteConfig import (`import siteConfig from '../../data/siteConfig'`) => use hooks
+doc: update readme + how to install.md
+fix: in themes, `gatsby-config.js` use  gatsby-starter-morning-dew's `siteConfig.js` data.
+fix: in siteConfig, remove unused property `iconClassName `
+fix: cover + avatar bio image now use Gatsby Images (https://www.gatsbyjs.org/packages/gatsby-image/)")[#55](https://github.com/maxpou/gatsby-starter-morning-dew/pull/55)[)](https://github.com/maxpou/gatsby-starter-morning-dew/commit/a70f789aad36322c6420000353fae32d9efa67f0 "feat: convert to a Gatsby theme (#55)
+BREAKING CHANGE: FooterLinks section changed! See `siteConfig.js`.
+feat: convert to a Gatsby theme
+feat(Theme): use tokens for colours (https://www.gatsbyjs.org/blog/2019-04-29-component-shadowing/#changing-styling)
+docs(README): convert yarn script to npm (https://twitter.com/housecor/status/1109177783689859074)
+refactor: use hooks and change siteConfig structure
+refactor: remove all siteConfig import (`import siteConfig from '../../data/siteConfig'`) => use hooks
+doc: update readme + how to install.md
+fix: in themes, `gatsby-config.js` use  gatsby-starter-morning-dew's `siteConfig.js` data.
+fix: in siteConfig, remove unused property `iconClassName `
+fix: cover + avatar bio image now use Gatsby Images (https://www.gatsbyjs.org/packages/gatsby-image/)")
+
+
+
+ | 
+
+May 30, 2019
+
+ |
+| 
+
+[gatsby-browser.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-browser.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[feat: add darkmode](https://github.com/maxpou/gatsby-starter-morning-dew/commit/910e2bb6119bef5950f147afc33c890201d753af "feat: add darkmode
+feat(a11y): add skip to main content link
+refactor: move flag icons in icon folder
+Thank you @joshwcomeau ~ https://joshwcomeau.com/gatsby/dark-mode/")
+
+
+
+ | 
+
+Oct 1, 2020
+
+ |
+| 
+
+[gatsby-config.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-config.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[fix: ditch Google Analytics](https://github.com/maxpou/gatsby-starter-morning-dew/commit/ec08d6a71db6595d1dcb6213e165c6ce788f38e2 "fix: ditch Google Analytics")
+
+
+
+ | 
+
+Mar 5, 2021
+
+ |
+| 
+
+[gatsby-node.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-node.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[feat(SEO): add hreflang support](https://github.com/maxpou/gatsby-starter-morning-dew/commit/d30cbc5ad075f9281d62719fccd1bf3c45fc5e19 "feat(SEO): add hreflang support
+feat: all translations need an hreflang attribute
+fix: PostsList use 'fr' when no language used (related #126)
+chore: change Google Analytics key")
+
+
+
+ | 
+
+Jun 1, 2020
+
+ |
+| 
+
+[gatsby-ssr.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-ssr.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[feat: add darkmode](https://github.com/maxpou/gatsby-starter-morning-dew/commit/910e2bb6119bef5950f147afc33c890201d753af "feat: add darkmode
+feat(a11y): add skip to main content link
+refactor: move flag icons in icon folder
+Thank you @joshwcomeau ~ https://joshwcomeau.com/gatsby/dark-mode/")
+
+
+
+ | 
+
+Oct 1, 2020
+
+ |
+| 
+
+[index.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/index.js "index.js")
+
+
+
+
+
+
+
+ | 
+
+[index.js](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/index.js "index.js")
+
+
+
+
+
+
+
+ | 
+
+[feat: convert to a Gatsby theme (](https://github.com/maxpou/gatsby-starter-morning-dew/commit/a70f789aad36322c6420000353fae32d9efa67f0 "feat: convert to a Gatsby theme (#55)
+BREAKING CHANGE: FooterLinks section changed! See `siteConfig.js`.
+feat: convert to a Gatsby theme
+feat(Theme): use tokens for colours (https://www.gatsbyjs.org/blog/2019-04-29-component-shadowing/#changing-styling)
+docs(README): convert yarn script to npm (https://twitter.com/housecor/status/1109177783689859074)
+refactor: use hooks and change siteConfig structure
+refactor: remove all siteConfig import (`import siteConfig from '../../data/siteConfig'`) => use hooks
+doc: update readme + how to install.md
+fix: in themes, `gatsby-config.js` use  gatsby-starter-morning-dew's `siteConfig.js` data.
+fix: in siteConfig, remove unused property `iconClassName `
+fix: cover + avatar bio image now use Gatsby Images (https://www.gatsbyjs.org/packages/gatsby-image/)")[#55](https://github.com/maxpou/gatsby-starter-morning-dew/pull/55)[)](https://github.com/maxpou/gatsby-starter-morning-dew/commit/a70f789aad36322c6420000353fae32d9efa67f0 "feat: convert to a Gatsby theme (#55)
+BREAKING CHANGE: FooterLinks section changed! See `siteConfig.js`.
+feat: convert to a Gatsby theme
+feat(Theme): use tokens for colours (https://www.gatsbyjs.org/blog/2019-04-29-component-shadowing/#changing-styling)
+docs(README): convert yarn script to npm (https://twitter.com/housecor/status/1109177783689859074)
+refactor: use hooks and change siteConfig structure
+refactor: remove all siteConfig import (`import siteConfig from '../../data/siteConfig'`) => use hooks
+doc: update readme + how to install.md
+fix: in themes, `gatsby-config.js` use  gatsby-starter-morning-dew's `siteConfig.js` data.
+fix: in siteConfig, remove unused property `iconClassName `
+fix: cover + avatar bio image now use Gatsby Images (https://www.gatsbyjs.org/packages/gatsby-image/)")
+
+
+
+ | 
+
+May 30, 2019
+
+ |
+| 
+
+[package.json](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[feat: Gatsby v3 + other stuffs](https://github.com/maxpou/gatsby-starter-morning-dew/commit/b4520ee52c47a588ffd617c66bc582e693d65541 "feat: Gatsby v3 + other stuffs
+feat: add rel for footer links
+fix: link alternate header now include current page
+See: https://developers.google.com/search/docs/advanced/crawling/localized-versions")
+
+
+
+ | 
+
+Mar 5, 2021
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#)
+*   [MIT license](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#)
+
+gatsby-starter-morning-dew
+==========================
+
+[](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#gatsby-starter-morning-dew)
+
+🚀 A gatsby-starter-morning-dew is a Gatsby starter to build lightning-fast websites!
+
+**[Demo](https://maxpou.github.io/gatsby-starter-morning-dew/)**
+
+[![Image 25: Build Status](https://camo.githubusercontent.com/c64ecb8bdafce1fdefc132ad00e18078c57eeaf656412d3f0fc63aedd90be67b/68747470733a2f2f7472617669732d63692e636f6d2f6d6178706f752f6761747362792d737461727465722d6d6f726e696e672d6465772e7376673f6272616e63683d6d6173746572)](https://travis-ci.com/maxpou/gatsby-starter-morning-dew)[![Image 26: Netlify Status](https://camo.githubusercontent.com/7b2c073f9fe33cbffb9acb42caa812df8ea7503da166d34b7a6ef762346afef6/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f64363830323762642d313962352d343466642d613261332d6431663035666338323031652f6465706c6f792d737461747573)](https://app.netlify.com/sites/gatsby-starter-morning-dew/deploys)[![Image 27: Maintainability](https://camo.githubusercontent.com/5133e6af875441c7bbac3bd0328070d46aee1b080afc349b30e8a7a9b9dd2ccc/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f65303966316163316135636462323938376136662f6d61696e7461696e6162696c697479)](https://codeclimate.com/github/maxpou/gatsby-starter-morning-dew/maintainability)[![Image 28: semantic-release](https://camo.githubusercontent.com/251b82ec02847188c7f2f024d0a6752bb8e0422772baaace42e7a7dc3fd8c88a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302532302546302539462539332541362546302539462539412538302d73656d616e7469632d2d72656c656173652d6531303037392e737667)](https://github.com/semantic-release/semantic-release)[![Image 29: Total downloads on npm](https://camo.githubusercontent.com/a71801a11be4e9098b33db7c4c2e9b089c5c0987f0ff89fd1656aeb370d05585/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64792f6761747362792d737461727465722d6d6f726e696e672d6465772e7376673f636f6c6f72413d33333361343126636f6c6f72423d303037646337266d61784167653d33363030266c6162656c3d446f776e6c6f616473)](https://npm-stat.com/charts.html?package=gatsby-starter-morning-dew&from=2018-02-12)
+
+[![Image 30: screenshot](https://camo.githubusercontent.com/b56cca334061bcec594ea7547d5c6d6b7379bd7b4071057cbe0c5e758fd8f0d9/68747470733a2f2f692e696d6775722e636f6d2f46586b633838442e706e67)](https://camo.githubusercontent.com/b56cca334061bcec594ea7547d5c6d6b7379bd7b4071057cbe0c5e758fd8f0d9/68747470733a2f2f692e696d6775722e636f6d2f46586b633838442e706e67)
+
+Features
+--------
+
+[](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#features)
+
+*   [💜 Gatsby 3](https://www.gatsbyjs.org/) / React 16
+*   🔍 SEO optimized
+*   💌 Write posts/pages in Markdown or [MDX](https://mdxjs.com/)
+    *   🎨 Code syntax highlight
+    *   📚 Multilang support/i18n (blog post)
+*   📱 Mobile Friendly (Responsive design)
+*   🌜 Dark mode
+*   ✨ PWA ready
+    *   ✈️ Offline support
+    *   📃 Manifest support
+*   [🔧 Fully configurable (see data/siteConfig.js)](https://github.com/maxpou/gatsby-starter-morning-dew/blob/master/data/siteConfig.js)
+*   💬 Disqus support
+*   💅 css-in-js (with [styled-components v5](https://www.styled-components.com/))
+*   🔖 Groups post with tags
+*   🐦 post preview image generation (Twitter, Facebook...)
+*   💎 Developer tools:
+    *   eslint
+    *   prettier
+*   👷 Travis CI support
+
+[![Image 31: Lighthouse scores](https://camo.githubusercontent.com/b242e1e7945280324b0afbcd2dd9569f2d501999678f0a356fd0d4081044eb8a/68747470733a2f2f692e696d6775722e636f6d2f593662464b466a2e706e67)](https://camo.githubusercontent.com/b242e1e7945280324b0afbcd2dd9569f2d501999678f0a356fd0d4081044eb8a/68747470733a2f2f692e696d6775722e636f6d2f593662464b466a2e706e67)
+
+Installation (starter)
+----------------------
+
+[](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#installation-starter)
+
+*   with Gatsby-cli:
+
+```shell
+npm install --global gatsby-cli
+gatsby new gatsby-blog https://github.com/maxpou/gatsby-starter-morning-dew
+```
+
+*   without Gatsby-cli
+
+```shell
+git clone my-site git@github.com:maxpou/gatsby-starter-morning-dew.git
+cd my-site
+npm install
+```
+
+Then run `npm run develop` to try it locally.
+
+Installation (theme)
+--------------------
+
+[](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#installation-theme)
+
+You can also use `gatsby-starter-morning-dew` as a [Gatsby theme](https://www.gatsbyjs.org/blog/2018-11-11-introducing-gatsby-themes/)!
+
+1.  Add the theme
+
+```shell
+npm install gatsby-starter-morning-dew
+```
+
+2.  In your `gatsby-config.js`, add:
+
+```js
+const config = require('./data/siteConfig')
+// ...
+plugins: [
+    {
+      resolve: "gatsby-starter-morning-dew",
+      options: {},
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: config.siteTitle,
+        short_name: config.siteTitle,
+        start_url: config.pathPrefix,
+        background_color: config.background_color,
+        theme_color: config.theme_color,
+        display: config.display,
+        icon: 'content/images/company-icon.png', // path to your image
+      },
+    },
+],
+```
+
+3.  Add an image called `baymax.png` in `content/images/baymax.png`.  
+    🐞This is due to a theme limitations.  
+    😬 Don't worry, this picture will not appear on your website!
+
+Need more details? Checkout:
+
+*   [maxpou.fr source](https://github.com/maxpou/maxpou.fr): Maxence Poutord's personnal blog;
+*   [gatsby-groot source](https://github.com/maxpou/gatsby-groot/): a minimalist blog that use this template!
+
+Commands
+--------
+
+[](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#commands)
+
+```shell
+# working locally
+npm run dev
+
+# generate build
+npm run build
+
+# format code
+npm run format
+
+# lint code
+npm run lint
+
+# Generate generate post preview images (npm run dev need to run before)
+npm run generatePostPreviewImages
+```
+
+**⚠️ Add `--prefix-paths` if you are using path prefix!**
+
+Configure
+---------
+
+[](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#configure)
+
+```js
+module.exports = {
+  siteTitle: 'gatsby-starter-morning-dew',
+  siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
+  authorName: 'Maxence Poutord',
+  twitterUsername: '_maxpou',
+  authorAvatar: 'avatar.jpeg', // file in content/images
+  defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
+  authorDescription: `
+  For the last decade, Maxence Poutord has worked with a variety of web technologies. He is currently focused on front-end development.
+  On his day to day job, he is working as a senior front-end engineer at VSware. He is also a frequent tech speaker and a mentor.
+  As a new digital nomad, he is living where the WIFI and sun is 😎 <br>
+  Do you want to know more? <a href="https://www.maxpou.fr/about" target="_blank">Visit my website!</a>
+  `,
+  siteUrl: 'https://maxpou.github.io/',
+  disqusSiteUrl: 'https://www.maxpou.fr/',
+  // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
+  pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
+  siteCover: 'cover-baymax.jpeg', // file in content/images
+  background_color: '#ffffff',
+  theme_color: '#222222',
+  display: 'standalone',
+  icon: 'content/images/baymax.png',
+  postsPerPage: 6,
+  disqusShortname: 'maxpou',
+  headerTitle: 'gatsby-starter-morning-dew',
+  headerLinksIcon: 'baymax.png', // file in content/images (leave empty to disable: '')
+  headerLinks: [
+    {
+      label: 'Blog',
+      url: '/',
+    },
+    {
+      label: 'About',
+      url: '/about-gatsby-starter-morning-dew',
+    },
+    {
+      label: 'Installation',
+      url: '/how-to-install',
+    },
+  ],
+  // Footer information (ex: Github, Netlify...)
+  websiteHost: {
+    name: 'GitHub',
+    url: 'https://github.com',
+  },
+  footerLinks: [
+    {
+      sectionName: 'Explore',
+      links: [
+        {
+          label: 'Blog',
+          url: '/',
+        },
+        {
+          label: 'About',
+          url: '/about-gatsby-starter-morning-dew',
+        },
+        {
+          label: 'Installation',
+          url: '/how-to-install',
+        },
+      ],
+    },
+    {
+      sectionName: 'Follow the author',
+      links: [
+        {
+          label: 'Github',
+          url: 'https://github.com/maxpou/gatsby-starter-morning-dew',
+        },
+        {
+          label: 'Website',
+          url: 'https://www.maxpou.fr',
+        },
+        {
+          label: 'Twitter',
+          url: 'https://twitter.com/_maxpou',
+        },
+      ],
+    },
+  ],
+}
+```
+
+Deploy
+------
+
+[](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#deploy)
+
+[![Image 32: Deploy to Netlify](https://camo.githubusercontent.com/8ef0cc1d083b2d67eb72500031401d9b52c3ecb9fb4c4405f46afd0d0aba02d6/68747470733a2f2f7777772e6e65746c6966792e636f6d2f696d672f6465706c6f792f627574746f6e2e737667)](https://app.netlify.com/start/deploy?repository=https://github.com/maxpou/gatsby-starter-morning-dew)
+
+About
+-----
+
+🚀 A Gatsby theme/starter to build lightning-fast blog/websites
+
+[maxpou.github.io/gatsby-starter-morning-dew/](https://maxpou.github.io/gatsby-starter-morning-dew/ "https://maxpou.github.io/gatsby-starter-morning-dew/")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [graphql](https://github.com/topics/graphql "Topic: graphql") [markdown](https://github.com/topics/markdown "Topic: markdown") [pwa](https://github.com/topics/pwa "Topic: pwa") [responsive](https://github.com/topics/responsive "Topic: responsive") [gatsby](https://github.com/topics/gatsby "Topic: gatsby") [gatsby-starter](https://github.com/topics/gatsby-starter "Topic: gatsby-starter") [gatsby-theme](https://github.com/topics/gatsby-theme "Topic: gatsby-theme")
+
+### Resources
+
+[Readme](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/maxpou/gatsby-starter-morning-dew?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/maxpou/gatsby-starter-morning-dew/activity)
+
+### Stars
+
+[**201** stars](https://github.com/maxpou/gatsby-starter-morning-dew/stargazers)
+
+### Watchers
+
+[**7** watching](https://github.com/maxpou/gatsby-starter-morning-dew/watchers)
+
+### Forks
+
+[**42** forks](https://github.com/maxpou/gatsby-starter-morning-dew/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmaxpou%2Fgatsby-starter-morning-dew&report=maxpou+%28user%29)
+
+[Releases 51](https://github.com/maxpou/gatsby-starter-morning-dew/releases)
+----------------------------------------------------------------------------
+
+[v3.6.0 Latest Mar 5, 2021](https://github.com/maxpou/gatsby-starter-morning-dew/releases/tag/v3.6.0)
+
+[\+ 50 releases](https://github.com/maxpou/gatsby-starter-morning-dew/releases)
+
+[Contributors 6](https://github.com/maxpou/gatsby-starter-morning-dew/graphs/contributors)
+------------------------------------------------------------------------------------------
+
+*   [![Image 33: @maxpou](https://avatars.githubusercontent.com/u/6160970?s=64&v=4)](https://github.com/maxpou)
+*   [![Image 34: @traviscibot](https://avatars.githubusercontent.com/u/33116358?s=64&v=4)](https://github.com/traviscibot)
+*   [![Image 35: @greenkeeper[bot]](https://avatars.githubusercontent.com/in/505?s=64&v=4)](https://github.com/apps/greenkeeper)
+*   [![Image 36: @JeroenKnoops](https://avatars.githubusercontent.com/u/10019?s=64&v=4)](https://github.com/JeroenKnoops)
+*   [![Image 37: @d2s](https://avatars.githubusercontent.com/u/135053?s=64&v=4)](https://github.com/d2s)
+*   [![Image 38: @iFallUpHill](https://avatars.githubusercontent.com/u/8867997?s=64&v=4)](https://github.com/iFallUpHill)
+
+Languages
+---------
+
+*   [JavaScript 99.7%](https://github.com/maxpou/gatsby-starter-morning-dew/search?l=javascript)
+*   [Shell 0.3%](https://github.com/maxpou/gatsby-starter-morning-dew/search?l=shell)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

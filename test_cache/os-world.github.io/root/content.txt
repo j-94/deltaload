@@ -1,0 +1,370 @@
+[Danyang Zhang](https://zdy023.github.io/)1, [Jixuan Chen](https://chenjix.github.io/)1, [Xiaochuan Li](https://xiaochuanli.com/)1,  
+[Siheng Zhao](https://sihengz02.github.io/)1, [Ruisheng Cao](https://scholar.google.com/citations?user=NdK881sAAAAJ&hl=zh-CN)1, [Toh Jing Hua](https://me.tjh.sg/)1, [Zhoujun Cheng](https://blankcheng.github.io/)1, [Dongchan Shin](https://www.linkedin.com/in/dongchan-shin-2a4890275/?trk=public_profile_samename-profile&originalSubdomain=hk)1, [Fangyu Lei](https://lfy79001.github.io/)1, [Yitao Liu](https://yitaoliu17.com/)1, [Yiheng Xu](https://yihengxu.com/)1, [Shuyan Zhou](https://shuyanzhou.github.io/)3, [Silvio Savarese](https://cvgl.stanford.edu/silvio/)2, [Caiming Xiong](http://cmxiong.com/)2, [Victor Zhong](https://www.victorzhong.com/)4, [Tao Yu](https://taoyds.github.io/)1
+
+1The University of Hong Kong, 2Salesforce Research, 3Carnegie Mellon University, 4University of Waterloo
+
+![Image 19: osworld task_demonstration](https://os-world.github.io/static/images/task_demonstration.png)
+
+\*\*OSWorld\*\* is a first-of-its-kind scalable, real computer environment for multimodal agents, supporting task setup, execution-based evaluation, and interactive learning across operating systems. It can serve as a unified environment for evaluating open-ended computer tasks that involve arbitrary apps (e.g., task examples in the above Fig). We also create a benchmark of 369 real-world computer tasks in \*\*OSWorld\*\* with reliable, reproducible setup and evaluation scripts.
+
+Abstract
+--------
+
+Autonomous agents that accomplish complex computer tasks with minimal human interventions have the potential to transform human-computer interaction, significantly enhancing accessibility and productivity. However, existing benchmarks either lack an interactive environment or are limited to environments specific to certain applications or domains, failing to reflect the diverse and complex nature of real-world computer use, thereby limiting the scope of tasks and agent scalability. To address this issue, we introduce \*\*OSWorld\*\*, the first-of-its-kind scalable, real computer environment for multimodal agents, supporting task setup, execution-based evaluation, and interactive learning across various operating systems such as Ubuntu, Windows, and macOS. \*\*OSWorld\*\* can serve as a unified, integrated computer environment for assessing open-ended computer tasks that involve arbitrary applications. Building upon \*\*OSWorld\*\*, we create a benchmark of 369 computer tasks involving real web and desktop apps in open domains, OS file I/O, and workflows spanning multiple applications. Each task example is derived from real-world computer use cases and includes a detailed initial state setup configuration and a custom execution-based evaluation script for reliable, reproducible evaluation. Extensive evaluation of state-of-the-art LLM/VLM-based agents on \*\*OSWorld\*\* reveals significant deficiencies in their ability to serve as computer assistants. While humans can accomplish over 72.36% of the tasks, the best model achieves only 12.24% success, primarily struggling with GUI grounding and operational knowledge. Comprehensive analysis using \*\*OSWorld\*\* provides valuable insights for developing multimodal generalist agents that were not possible with previous benchmarks.
+
+OSWorld Environment Infrastructure
+----------------------------------
+
+![Image 20: environment infrastructure](https://os-world.github.io/static/images/env.png)
+
+The \*\*OSWorld\*\* environment uses a configuration file for initializing tasks \*(highlighted in red)\*, agent interaction, post-processing upon agent completion \*(highlighted in orange)\*, retrieving files and information \*(highlighted in yellow)\*, and executing the evaluation function \*(highlighted in green)\*. The corresponding configuration items are highlighted in colors that match their respective components within the environment. Environments can run in parallel on a single host machine for learning or evaluation purposes. Headless operation is supported.
+
+Data Statistics and Comparison
+------------------------------
+
+Below we present an overview of the main statistics of \*\*OSWorld\*\*, showcasing the outline and a broad spectrum of tasks. \*\*OSWorld\*\* contains a total of 369 tasks (and an additional 43 tasks on Windows for analysis).
+
+##### Key statistics of **OSWorld**.  
+
+The “Supp. tasks” refers to the Windows-based tasks, that could only be used after activation due to copyright restrictions.
+
+![Image 21: data-overview](https://os-world.github.io/static/images/statistics.png)
+
+![Image 22: data-composition](https://os-world.github.io/static/images/pie_chart.png)
+
+Distribution of task instructions in **OSWorld**  
+based on the app domains and operation types to showcase the content intuitively.
+
+We make a comparison of \*\*OSWorld\*\* against some other different benchmarks for digital agents as presented below.  
+\*\*The columns indicate:\*\* whether they provide a controllable executable environment \*(Control. Exec. Env.)\*, the ease of adding new tasks involving arbitrary applications in open domains \*(Environment Scalability)\*, support for multimodal agent evaluation \*(Multimodal Support)\*, support for and inclusion of cross-app tasks \*(Cross-App)\*, capability to start tasks from an intermediate initial state \*(Intermediate Init. State)\*, and the number of execution-based evaluation functions \*(# Exec.-based Eval. Func.)\*.  
+
+|   | OSWorld |
+| --- | --- |
+| \# Instances  
+(# Templates) | 369 |
+| Control.  
+Exec. Env. | Computer |
+| Environment Scalability? | ✔️ |
+| Multimodal  
+Support? | ✔️ |
+| Cross-App? | ✔️ |
+| Intermediate  
+Init. State? | ✔️ |
+| \# Exec.-based  
+Eval. Func. | 134 |
+
+Benchmark
+---------
+
+We adopt state-of-the-art LLM and VLM from open-source representatives such as Mixtral and CogAgent, and closed-source ones from GPT, Gemini, and Claude families on \*\*OSWorld\*\*, as LLM and VLM agent baselines. We also explore methods such as the Set-of-Marks aided approach, which has been demonstrated to improve spatial capabilities for visual reasoning. \*\*We are actively updating the benchmark with new LLMs, VLMs and methods. Pull requests welcomed!\*\*
+
+*   A11y tree
+*   Screenshot
+*   Screenshot + A11y tree
+*   Set-of-Mark
+
+Notice: t = temperature, top-p = top-p cutoff, len = max context length
+
+| Rank | Model | Details | Score |
+| --- | --- | --- | --- |
+| 1
+Oct 22, 2024 | Claude 3.5 Sonnet (50 steps)Anthropic
+
+[Anthropic, '24](https://assets.anthropic.com/m/1cd9d098ac3e6467/original/Claude-3-Model-Card-October-Addendum.pdf) | —
+
+ | 22.00 |
+| 2
+
+Nov 22, 2024 | Aguvis-72B w/ GPT-4oSalesforce & The University of Hong Kong
+
+[Xu et al., '24](https://aguvis-project.github.io/) | —
+
+ | 17.04 |
+| 3
+
+Dec 24, 2024 | Aria-UI w/ GPT-4oUniversity of Hong Kong & Rhymes AI
+
+[Yang et al., '24](https://arxiv.org/abs/2412.16256) | —
+
+ | 15.15 |
+| 4
+
+Oct 22, 2024 | Claude 3.5 Sonnet (15 steps)Anthropic
+
+[Anthropic, '24](https://assets.anthropic.com/m/1cd9d098ac3e6467/original/Claude-3-Model-Card-October-Addendum.pdf) | —
+
+ | 14.90 |
+| 5
+
+Nov 22, 2024 | Aguvis-7B w/ GPT-4oSalesforce & The University of Hong Kong
+
+[Xu et al., '24](https://aguvis-project.github.io/) | —
+
+ | 14.79 |
+| 6
+
+Oct 30, 2024 | OS-Atlas-Base-7B w/ GPT-4oShanghai AI Lab
+
+[Wu et al., '24](https://osatlas.github.io/) | —
+
+ | 14.63 |
+| 7
+
+Oct 30, 2024 | OS-Atlas-Base-4B w/ GPT-4oShanghai AI Lab
+
+[Wu et al., '24](https://osatlas.github.io/) | —
+
+ | 11.65 |
+| 8
+
+Nov 22, 2024 | Aguvis-72BSalesforce & The University of Hong Kong
+
+[Xu et al., '24](https://aguvis-project.github.io/) | —
+
+ | 10.26 |
+| 9
+
+Oct 30, 2024 | SeeClick w/ GPT-4oNanjing University & Shanghai AI Lab
+
+[Cheng et al., '24](https://arxiv.org/abs/2401.10935) | —
+
+ | 9.21 |
+| 10
+
+Dec 2, 2024 | Ponder&Press w/ GPT-4oShenzhen International Graduate School, Tsinghua University
+
+[Wang et al., '24](https://arxiv.org/abs/2412.01268) | —
+
+ | 8.7 |
+| 11
+
+Dec 24, 2024 | CogAgent-9B-20241220Tsinghua University & Zhipu AI
+
+[Hong et al., '24](https://cogagent.aminer.cn/blog#/articles/cogagent-9b-20241220-technical-report-en) | t=1.0, top-p=0.9
+
+len =
+
+ | 8.12 |
+| 12
+
+Jun 14, 2024 | CRADLE w/ GPT-4oBAAI
+
+[BAAI, '24](https://baai-agents.github.io/Cradle/) | t=1.0, top-p=0.9
+
+len = 32k
+
+ | 7.81 |
+| 13
+
+May 24, 2024 | GPT-4 VisionOpenAI
+
+[OpenAI, '23](https://openai.com/research/gpt-4v-system-card) | t=1.0, top-p=0.9
+
+len = 32k
+
+ | 7.69 |
+| 14
+
+Mar 20, 2024 | Gemini-Pro VisionGoogle
+
+[Gemini Team, Google, '23](https://arxiv.org/abs/2312.11805) | t=1.0, top-p=0.9
+
+len = 32k
+
+ | 5.80 |
+| 15
+
+April 23, 2024 | GPT-4 Vision (0409)OpenAI
+
+[OpenAI, '23](https://openai.com/research/gpt-4v-system-card) | t=1.0, top-p=0.9
+
+len = 32k
+
+ | 5.40 |
+| 16
+
+May 3, 2024 | Gemini-Pro-1.5Google
+
+[Gemini Team, Google, '24](https://arxiv.org/abs/2403.05530) | t=1.0, top-p=0.9
+
+len = 128k
+
+ | 5.40 |
+| 17
+
+Mar 20, 2024 | GPT-4 VisionOpenAI
+
+[OpenAI, '23](https://openai.com/research/gpt-4v-system-card) | t=1.0, top-p=0.9
+
+len = 32k
+
+ | 5.26 |
+| 18
+
+May 20, 2024 | GPT-4oOpenAI
+
+[OpenAI, '24](https://openai.com/index/hello-gpt-4o/) | t=1.0, top-p=0.9
+
+len = 32k
+
+ | 5.03 |
+| 19
+
+Aug 17, 2024 | GPT-4o-miniOpenAI
+
+[OpenAI, '24](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) | t=1.0, top-p=0.9
+
+len = 128k
+
+ | 3.77 |
+| 20
+
+Aug 17, 2024 | InternVL2OpenGVLab
+
+[OpenGVLab Team, '24](https://internvl.github.io/blog/2024-07-02-InternVL-2.0/) | t=1.0, top-p=0.9
+
+len =
+
+ | 3.33 |
+| 21
+
+Mar 20, 2024 | Claude-3-OpusAnthropicAI
+
+[Anthropic, '24](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) | t=1.0, top-p=0.9
+
+len = 200k
+
+ | 2.42 |
+| 22
+
+Aug 17, 2024 | Llava-OneVisionByteDance & NTU & CUHK & HKUST
+
+[Li et al., '24](https://arxiv.org/abs/2408.03326) | t=1.0, top-p=0.9
+
+len =
+
+ | 2.42 |
+| 23
+
+Sep 10, 2024 | Qwen-vl-Max-0809Qwen
+
+[Qwen Team, '24](https://github.com/QwenLM/Qwen2-VL) | t=1.0, top-p=0.9
+
+len = 32k
+
+ | 2.42 |
+| 24
+
+Aug 17, 2024 | MiniCPM-V 2.6MiniCPM-V Team & OpenBMB
+
+[Yuan et al., '24](https://arxiv.org/abs/2408.03326) | t=1.0, top-p=0.9
+
+len =
+
+ | 1.88 |
+| 25
+
+Mar 20, 2024 | CogAgentTsinghua University & Zhipu AI
+
+[Hong et al., '23](https://arxiv.org/abs/2312.08914) | t=1.0, top-p=0.9
+
+len =
+
+ | 1.11 |
+
+Analysis
+--------
+
+We conduct a qualitative analysis in the aspect of models, methods, and human to find out factors influencing the performance of VLMs in digital agent tasks and their underlying behavioral logic. We investigate the impact of task attributes _(such as difficulty, feasibility, visual requirement, and GUI complexity)_, input measurements _(such as screenshot resolution, the influence of trajectory history, and the effect of UI layout)_, and explore whether there are patterns in the agent's performance across different operating systems. Here is an overview of our analysis outcome.  
+
+![Image 23](https://os-world.github.io/static/images/down_sampling_exp_fig.png)
+
+Higher screenshot resolution typically leads to improved performance.
+
+![Image 24](https://os-world.github.io/static/images/traj_length_effect_fig.png)
+
+Longer text-based trajectory history context improves performance, unlike screenshot-only history, but poses efficiency challenges.
+
+![Image 25](https://os-world.github.io/static/images/disturb_effect_fig.png)
+
+Current VLM agents are not robust to UI layout and noise.
+
+![Image 26](https://os-world.github.io/static/images/cross_os_effect_fig.png)
+
+The performance of VLM agents across different OS is in strong correlation. This implies that insights and methodologies developed within the **OSWorld** framework can be effectively transferred to Windows environments with a high degree of reliability.
+
+![Image 27](https://os-world.github.io/static/images/success_case_fig.png)
+
+A success case of LLM/VLM agent baselines.
+
+Videos
+------
+
+Special thanks to the following YouTubers and enthusiasts for their reports. We are delighted to see the community's interest. If you would like a brief video introduction and their thoughts, feel free to check them out!  
+
+### @Yannic Kilcher
+
+### @Wes Roth
+
+### @hu-po
+
+### @Dylan Curious
+
+### @WorldofAI
+
+### @Gourcer
+
+### @AI Explained
+
+### @Fireship
+
+### @1littlecoder
+
+  
+
+Acknowledgement
+---------------
+
+We thank [Sida Wang](https://www.sidaw.xyz/), [Peter Shaw](https://www.ptshaw.com/), [Alane Suhr](https://www.alanesuhr.com/), [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), [Haoyuan Wu](https://github.com/FredWuCZ), [Junli Wang](https://junliwang.tech/), [Chengyou Jia](https://chengyou-jia.github.io/), [Junlin Yang](https://x.com/junlin45300), [Junlei Zhang](https://github.com/leoozy), [Chen Henry Wu](https://chenwu.io/), [Pengcheng Yin](https://pengcheng.in/), [Shunyu Yao](https://ysymyth.github.io/), [Xing Han Lu](https://xinghanlu.com/), [Siva Reddy](https://sivareddy.in/), [Ruoxi Sun](https://www.linkedin.com/in/ruoxi-sun-84a85457/), [Zhiyuan Zeng](https://zhiyuan-zeng.github.io/), and [Lei Li](https://lilei-nlp.github.io/) for their helpful feedback on this work
+
+FAQ
+---
+
+### What is the username and password for the virtual machines?
+
+The username and password for the virtual machines are as follows:  
+\- **Ubuntu:** `user` / `password`  
+\- **Windows:** `TBD`
+
+### How to setup the account and credentials for Google and Google Drive?
+
+See [Account Guideline](https://github.com/xlang-ai/OSWorld/blob/main/ACCOUNT_GUIDELINE.md#real-accounts).
+
+### How can I configure a proxy for the VM if I'm behind a GFW?
+
+See [Proxy Guideline](https://github.com/xlang-ai/OSWorld/blob/main/PROXY_GUIDELINE.md#proxy-guideline).
+
+### What are the running times and costs under different settings?
+
+| Setting | Expected Time\* | Budget Cost (Full Test Set/Small Test Set) |
+| --- | --- | --- |
+| GPT-4V (screenshot) | 10h | $100 ($10) |
+| Gemini-ProV (screenshot) | 15h | 0 (0) |
+| Claude-3 Opus (screenshot) | 15h | $150 ($15) |
+| GPT-4V (a11y tree, SoM, etc.) | 30h | $500 ($50) |
+
+\*No environment parallelism. Calculated in April 2024.
+
+BibTeX
+------
+
+```
+@misc{OSWorld,
+      title={OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments},
+      author={Tianbao Xie and Danyang Zhang and Jixuan Chen and Xiaochuan Li and Siheng Zhao and Ruisheng Cao and Toh Jing Hua and Zhoujun Cheng and Dongchan Shin and Fangyu Lei and Yitao Liu and Yiheng Xu and Shuyan Zhou and Silvio Savarese and Caiming Xiong and Victor Zhong and Tao Yu},
+      year={2024},
+      eprint={2404.07972},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```

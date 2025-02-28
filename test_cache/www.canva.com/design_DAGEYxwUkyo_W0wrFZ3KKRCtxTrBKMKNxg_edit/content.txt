@@ -1,0 +1,6 @@
+*   Ray ID: 90504feedf4f1265
+*   Your IP address: 2600:1900:0:2d06::401
+*   Detected location: US
+
+We’re currently checking your connection. This shouldn’t take long.  
+If you keep getting this page, check if there’s a [problem with Canva](https://www.canvastatus.com/).

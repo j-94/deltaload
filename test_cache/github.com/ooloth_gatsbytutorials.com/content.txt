@@ -1,0 +1,1428 @@
+GitHub - ooloth/gatsbytutorials.com: A community-updated list of video, audio and written tutorials to help you learn GatsbyJS. 👩‍💻
+===============
+                                           
+
+[Skip to content](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fooloth%2Fgatsbytutorials.com%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fooloth%2Fgatsbytutorials.com%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=ooloth%2Fgatsbytutorials.com) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ooloth](https://github.com/ooloth) / **[gatsbytutorials.com](https://github.com/ooloth/gatsbytutorials.com)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fooloth%2Fgatsbytutorials.com) You must be signed in to change notification settings
+*   [Fork 34](https://github.com/login?return_to=%2Fooloth%2Fgatsbytutorials.com)
+*   [Star 114](https://github.com/login?return_to=%2Fooloth%2Fgatsbytutorials.com)
+    
+
+A community-updated list of video, audio and written tutorials to help you learn GatsbyJS. 👩‍💻
+
+[www.gatsbytutorials.com](https://www.gatsbytutorials.com/ "https://www.gatsbytutorials.com")
+
+### License
+
+[View license](https://github.com/ooloth/gatsbytutorials.com/blob/master/LICENSE.md)
+
+[114 stars](https://github.com/ooloth/gatsbytutorials.com/stargazers) [34 forks](https://github.com/ooloth/gatsbytutorials.com/forks) [Branches](https://github.com/ooloth/gatsbytutorials.com/branches) [Tags](https://github.com/ooloth/gatsbytutorials.com/tags) [Activity](https://github.com/ooloth/gatsbytutorials.com/activity)
+
+[Star](https://github.com/login?return_to=%2Fooloth%2Fgatsbytutorials.com)
+
+[Notifications](https://github.com/login?return_to=%2Fooloth%2Fgatsbytutorials.com) You must be signed in to change notification settings
+
+*   [Code](https://github.com/ooloth/gatsbytutorials.com)
+*   [Issues 3](https://github.com/ooloth/gatsbytutorials.com/issues)
+*   [Pull requests 64](https://github.com/ooloth/gatsbytutorials.com/pulls)
+*   [Actions](https://github.com/ooloth/gatsbytutorials.com/actions)
+*   [Projects 0](https://github.com/ooloth/gatsbytutorials.com/projects)
+*   [Security](https://github.com/ooloth/gatsbytutorials.com/security)
+*   [Insights](https://github.com/ooloth/gatsbytutorials.com/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/ooloth/gatsbytutorials.com)
+*   [Issues](https://github.com/ooloth/gatsbytutorials.com/issues)
+*   [Pull requests](https://github.com/ooloth/gatsbytutorials.com/pulls)
+*   [Actions](https://github.com/ooloth/gatsbytutorials.com/actions)
+*   [Projects](https://github.com/ooloth/gatsbytutorials.com/projects)
+*   [Security](https://github.com/ooloth/gatsbytutorials.com/security)
+*   [Insights](https://github.com/ooloth/gatsbytutorials.com/pulse)
+
+ooloth/gatsbytutorials.com
+==========================
+
+  
+
+ master
+
+[**64** Branches](https://github.com/ooloth/gatsbytutorials.com/branches)[**0** Tags](https://github.com/ooloth/gatsbytutorials.com/tags)
+
+[](https://github.com/ooloth/gatsbytutorials.com/branches)[](https://github.com/ooloth/gatsbytutorials.com/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 16: ooloth](https://avatars.githubusercontent.com/u/625364?v=4&size=40)](https://github.com/ooloth)[ooloth](https://github.com/ooloth/gatsbytutorials.com/commits?author=ooloth)
+
+[update license](https://github.com/ooloth/gatsbytutorials.com/commit/54bbe0b8ba31724b83207620d27d333beab98036)
+
+Mar 7, 2022
+
+[54bbe0b](https://github.com/ooloth/gatsbytutorials.com/commit/54bbe0b8ba31724b83207620d27d333beab98036) · Mar 7, 2022
+
+History
+-------
+
+[278 Commits](https://github.com/ooloth/gatsbytutorials.com/commits/master/)
+
+[](https://github.com/ooloth/gatsbytutorials.com/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.debendabot](https://github.com/ooloth/gatsbytutorials.com/tree/master/.debendabot ".debendabot")
+
+
+
+
+
+
+
+ | 
+
+[.debendabot](https://github.com/ooloth/gatsbytutorials.com/tree/master/.debendabot ".debendabot")
+
+
+
+
+
+
+
+ | 
+
+[Update dependencies (](https://github.com/ooloth/gatsbytutorials.com/commit/54a66dfbe01080296aabee695de56a2d6063e5a8 "Update dependencies (#63)
+* 🛠 install dependabot
+* chore: update dependencies
+* 🔍 fix type exports
+* fix TS file extension")[#63](https://github.com/ooloth/gatsbytutorials.com/pull/63)[)](https://github.com/ooloth/gatsbytutorials.com/commit/54a66dfbe01080296aabee695de56a2d6063e5a8 "Update dependencies (#63)
+* 🛠 install dependabot
+* chore: update dependencies
+* 🔍 fix type exports
+* fix TS file extension")
+
+
+
+ | 
+
+Nov 22, 2019
+
+ |
+| 
+
+[.github/workflows](https://github.com/ooloth/gatsbytutorials.com/tree/master/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[.github/workflows](https://github.com/ooloth/gatsbytutorials.com/tree/master/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[Set up jest (](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")[#69](https://github.com/ooloth/gatsbytutorials.com/pull/69)[)](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")
+
+
+
+ | 
+
+Nov 27, 2019
+
+ |
+| 
+
+[\_\_mocks\_\_](https://github.com/ooloth/gatsbytutorials.com/tree/master/__mocks__ "__mocks__")
+
+
+
+
+
+
+
+ | 
+
+[\_\_mocks\_\_](https://github.com/ooloth/gatsbytutorials.com/tree/master/__mocks__ "__mocks__")
+
+
+
+
+
+
+
+ | 
+
+[Set up jest (](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")[#69](https://github.com/ooloth/gatsbytutorials.com/pull/69)[)](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")
+
+
+
+ | 
+
+Nov 27, 2019
+
+ |
+| 
+
+[src](https://github.com/ooloth/gatsbytutorials.com/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/ooloth/gatsbytutorials.com/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[fmontes tutorials (](https://github.com/ooloth/gatsbytutorials.com/commit/e918bf7b035e910d645f94bc1c9666100622c7bc "fmontes tutorials (#180)")[#180](https://github.com/ooloth/gatsbytutorials.com/pull/180)[)](https://github.com/ooloth/gatsbytutorials.com/commit/e918bf7b035e910d645f94bc1c9666100622c7bc "fmontes tutorials (#180)")
+
+
+
+ | 
+
+Nov 15, 2020
+
+ |
+| 
+
+[static](https://github.com/ooloth/gatsbytutorials.com/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[static](https://github.com/ooloth/gatsbytutorials.com/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[Redirect Netlify subdomain to primary domain](https://github.com/ooloth/gatsbytutorials.com/commit/969b6b7f68e0f6015b982051b276bb6402aedab6 "Redirect Netlify subdomain to primary domain")
+
+
+
+ | 
+
+Nov 11, 2018
+
+ |
+| 
+
+[.eslintrc.yml](https://github.com/ooloth/gatsbytutorials.com/blob/master/.eslintrc.yml ".eslintrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.yml](https://github.com/ooloth/gatsbytutorials.com/blob/master/.eslintrc.yml ".eslintrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[Run type-checking and linting in CI using Github Actions (](https://github.com/ooloth/gatsbytutorials.com/commit/bfb526df7d1a1a103bd983e114a591178a641781 "Run type-checking and linting in CI using Github Actions (#51)
+* 🧠 create first ci workflow using github actions
+* 🐛 fix \"steps\" syntax
+* 🐛 install dependencies before running ci actions
+* 🐛 start by running the checkout action
+* 🐛 try removing dependency installation + running lint-staged
+* 🐛 add back dependency installation
+* 🐛 update eslint script
+* 🔍 automatically fix linting issues if possible
+* 🔍 don't automatically fix prettier errors
+* 🛠 make the ci logs quieter
+* 🧹 clean up scripts
+* 🔍 log prettier output
+* 🔍 log eslint debug info
+* 🐛 fix eslint script syntax
+* 🔍 turn off no-use-before-define in TS files
+* 🔍 autofix eslint errors in CI (if possible)
+* 🧹 fix eslint warnings in codebase
+* 🔍 auto-fix eslint issues in pre-commit hook if possible
+* ✍️ clarify CI step naming")[#51](https://github.com/ooloth/gatsbytutorials.com/pull/51)[)](https://github.com/ooloth/gatsbytutorials.com/commit/bfb526df7d1a1a103bd983e114a591178a641781 "Run type-checking and linting in CI using Github Actions (#51)
+* 🧠 create first ci workflow using github actions
+* 🐛 fix \"steps\" syntax
+* 🐛 install dependencies before running ci actions
+* 🐛 start by running the checkout action
+* 🐛 try removing dependency installation + running lint-staged
+* 🐛 add back dependency installation
+* 🐛 update eslint script
+* 🔍 automatically fix linting issues if possible
+* 🔍 don't automatically fix prettier errors
+* 🛠 make the ci logs quieter
+* 🧹 clean up scripts
+* 🔍 log prettier output
+* 🔍 log eslint debug info
+* 🐛 fix eslint script syntax
+* 🔍 turn off no-use-before-define in TS files
+* 🔍 autofix eslint errors in CI (if possible)
+* 🧹 fix eslint warnings in codebase
+* 🔍 auto-fix eslint issues in pre-commit hook if possible
+* ✍️ clarify CI step naming")
+
+
+
+ | 
+
+Oct 12, 2019
+
+ |
+| 
+
+[.gitignore](https://github.com/ooloth/gatsbytutorials.com/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/ooloth/gatsbytutorials.com/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[chore: update .gitignore based on latest gatsby-starter-default values](https://github.com/ooloth/gatsbytutorials.com/commit/de5d464426f739cae36dd33500fa6c02fadf1768 "chore: update .gitignore based on latest gatsby-starter-default values")
+
+
+
+ | 
+
+Jul 21, 2019
+
+ |
+| 
+
+[.huskyrc.yml](https://github.com/ooloth/gatsbytutorials.com/blob/master/.huskyrc.yml ".huskyrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[.huskyrc.yml](https://github.com/ooloth/gatsbytutorials.com/blob/master/.huskyrc.yml ".huskyrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[add typescript to config files](https://github.com/ooloth/gatsbytutorials.com/commit/017eb4b98582df43293f7caa99fda3becf8b0d52 "add typescript to config files")
+
+
+
+ | 
+
+Oct 4, 2019
+
+ |
+| 
+
+[.lintstagedrc.yml](https://github.com/ooloth/gatsbytutorials.com/blob/master/.lintstagedrc.yml ".lintstagedrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[.lintstagedrc.yml](https://github.com/ooloth/gatsbytutorials.com/blob/master/.lintstagedrc.yml ".lintstagedrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[Run type-checking and linting in CI using Github Actions (](https://github.com/ooloth/gatsbytutorials.com/commit/bfb526df7d1a1a103bd983e114a591178a641781 "Run type-checking and linting in CI using Github Actions (#51)
+* 🧠 create first ci workflow using github actions
+* 🐛 fix \"steps\" syntax
+* 🐛 install dependencies before running ci actions
+* 🐛 start by running the checkout action
+* 🐛 try removing dependency installation + running lint-staged
+* 🐛 add back dependency installation
+* 🐛 update eslint script
+* 🔍 automatically fix linting issues if possible
+* 🔍 don't automatically fix prettier errors
+* 🛠 make the ci logs quieter
+* 🧹 clean up scripts
+* 🔍 log prettier output
+* 🔍 log eslint debug info
+* 🐛 fix eslint script syntax
+* 🔍 turn off no-use-before-define in TS files
+* 🔍 autofix eslint errors in CI (if possible)
+* 🧹 fix eslint warnings in codebase
+* 🔍 auto-fix eslint issues in pre-commit hook if possible
+* ✍️ clarify CI step naming")[#51](https://github.com/ooloth/gatsbytutorials.com/pull/51)[)](https://github.com/ooloth/gatsbytutorials.com/commit/bfb526df7d1a1a103bd983e114a591178a641781 "Run type-checking and linting in CI using Github Actions (#51)
+* 🧠 create first ci workflow using github actions
+* 🐛 fix \"steps\" syntax
+* 🐛 install dependencies before running ci actions
+* 🐛 start by running the checkout action
+* 🐛 try removing dependency installation + running lint-staged
+* 🐛 add back dependency installation
+* 🐛 update eslint script
+* 🔍 automatically fix linting issues if possible
+* 🔍 don't automatically fix prettier errors
+* 🛠 make the ci logs quieter
+* 🧹 clean up scripts
+* 🔍 log prettier output
+* 🔍 log eslint debug info
+* 🐛 fix eslint script syntax
+* 🔍 turn off no-use-before-define in TS files
+* 🔍 autofix eslint errors in CI (if possible)
+* 🧹 fix eslint warnings in codebase
+* 🔍 auto-fix eslint issues in pre-commit hook if possible
+* ✍️ clarify CI step naming")
+
+
+
+ | 
+
+Oct 12, 2019
+
+ |
+| 
+
+[.nvmrc](https://github.com/ooloth/gatsbytutorials.com/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/ooloth/gatsbytutorials.com/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[Set up jest (](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")[#69](https://github.com/ooloth/gatsbytutorials.com/pull/69)[)](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")
+
+
+
+ | 
+
+Nov 27, 2019
+
+ |
+| 
+
+[.prettierignore](https://github.com/ooloth/gatsbytutorials.com/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/ooloth/gatsbytutorials.com/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[✨ add config files](https://github.com/ooloth/gatsbytutorials.com/commit/fc0d1cffb28be73993e818a353f6a1f9c4add43e "✨ add config files")
+
+
+
+ | 
+
+Oct 3, 2019
+
+ |
+| 
+
+[.prettierrc.yml](https://github.com/ooloth/gatsbytutorials.com/blob/master/.prettierrc.yml ".prettierrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc.yml](https://github.com/ooloth/gatsbytutorials.com/blob/master/.prettierrc.yml ".prettierrc.yml")
+
+
+
+
+
+
+
+ | 
+
+[✨ add config files](https://github.com/ooloth/gatsbytutorials.com/commit/fc0d1cffb28be73993e818a353f6a1f9c4add43e "✨ add config files")
+
+
+
+ | 
+
+Oct 3, 2019
+
+ |
+| 
+
+[LICENSE.md](https://github.com/ooloth/gatsbytutorials.com/blob/master/LICENSE.md "LICENSE.md")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE.md](https://github.com/ooloth/gatsbytutorials.com/blob/master/LICENSE.md "LICENSE.md")
+
+
+
+
+
+
+
+ | 
+
+[update license](https://github.com/ooloth/gatsbytutorials.com/commit/54bbe0b8ba31724b83207620d27d333beab98036 "update license")
+
+
+
+ | 
+
+Mar 7, 2022
+
+ |
+| 
+
+[README.md](https://github.com/ooloth/gatsbytutorials.com/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/ooloth/gatsbytutorials.com/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[✍ update wording](https://github.com/ooloth/gatsbytutorials.com/commit/87dddfbd62a3f523d446141a0642c7fc763c1a77 "✍ update wording")
+
+
+
+ | 
+
+Oct 3, 2019
+
+ |
+| 
+
+[gatsby-config.js](https://github.com/ooloth/gatsbytutorials.com/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-config.js](https://github.com/ooloth/gatsbytutorials.com/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[Run type-checking and linting in CI using Github Actions (](https://github.com/ooloth/gatsbytutorials.com/commit/bfb526df7d1a1a103bd983e114a591178a641781 "Run type-checking and linting in CI using Github Actions (#51)
+* 🧠 create first ci workflow using github actions
+* 🐛 fix \"steps\" syntax
+* 🐛 install dependencies before running ci actions
+* 🐛 start by running the checkout action
+* 🐛 try removing dependency installation + running lint-staged
+* 🐛 add back dependency installation
+* 🐛 update eslint script
+* 🔍 automatically fix linting issues if possible
+* 🔍 don't automatically fix prettier errors
+* 🛠 make the ci logs quieter
+* 🧹 clean up scripts
+* 🔍 log prettier output
+* 🔍 log eslint debug info
+* 🐛 fix eslint script syntax
+* 🔍 turn off no-use-before-define in TS files
+* 🔍 autofix eslint errors in CI (if possible)
+* 🧹 fix eslint warnings in codebase
+* 🔍 auto-fix eslint issues in pre-commit hook if possible
+* ✍️ clarify CI step naming")[#51](https://github.com/ooloth/gatsbytutorials.com/pull/51)[)](https://github.com/ooloth/gatsbytutorials.com/commit/bfb526df7d1a1a103bd983e114a591178a641781 "Run type-checking and linting in CI using Github Actions (#51)
+* 🧠 create first ci workflow using github actions
+* 🐛 fix \"steps\" syntax
+* 🐛 install dependencies before running ci actions
+* 🐛 start by running the checkout action
+* 🐛 try removing dependency installation + running lint-staged
+* 🐛 add back dependency installation
+* 🐛 update eslint script
+* 🔍 automatically fix linting issues if possible
+* 🔍 don't automatically fix prettier errors
+* 🛠 make the ci logs quieter
+* 🧹 clean up scripts
+* 🔍 log prettier output
+* 🔍 log eslint debug info
+* 🐛 fix eslint script syntax
+* 🔍 turn off no-use-before-define in TS files
+* 🔍 autofix eslint errors in CI (if possible)
+* 🧹 fix eslint warnings in codebase
+* 🔍 auto-fix eslint issues in pre-commit hook if possible
+* ✍️ clarify CI step naming")
+
+
+
+ | 
+
+Oct 12, 2019
+
+ |
+| 
+
+[gatsby-node.js](https://github.com/ooloth/gatsbytutorials.com/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-node.js](https://github.com/ooloth/gatsbytutorials.com/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[Set up jest (](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")[#69](https://github.com/ooloth/gatsbytutorials.com/pull/69)[)](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")
+
+
+
+ | 
+
+Nov 27, 2019
+
+ |
+| 
+
+[jest-preprocess.js](https://github.com/ooloth/gatsbytutorials.com/blob/master/jest-preprocess.js "jest-preprocess.js")
+
+
+
+
+
+
+
+ | 
+
+[jest-preprocess.js](https://github.com/ooloth/gatsbytutorials.com/blob/master/jest-preprocess.js "jest-preprocess.js")
+
+
+
+
+
+
+
+ | 
+
+[Set up jest (](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")[#69](https://github.com/ooloth/gatsbytutorials.com/pull/69)[)](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")
+
+
+
+ | 
+
+Nov 27, 2019
+
+ |
+| 
+
+[jest.config.js](https://github.com/ooloth/gatsbytutorials.com/blob/master/jest.config.js "jest.config.js")
+
+
+
+
+
+
+
+ | 
+
+[jest.config.js](https://github.com/ooloth/gatsbytutorials.com/blob/master/jest.config.js "jest.config.js")
+
+
+
+
+
+
+
+ | 
+
+[Set up jest (](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")[#69](https://github.com/ooloth/gatsbytutorials.com/pull/69)[)](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")
+
+
+
+ | 
+
+Nov 27, 2019
+
+ |
+| 
+
+[jsconfig.yml](https://github.com/ooloth/gatsbytutorials.com/blob/master/jsconfig.yml "jsconfig.yml")
+
+
+
+
+
+
+
+ | 
+
+[jsconfig.yml](https://github.com/ooloth/gatsbytutorials.com/blob/master/jsconfig.yml "jsconfig.yml")
+
+
+
+
+
+
+
+ | 
+
+[🧹 format all files (mainly adding trailing commas)](https://github.com/ooloth/gatsbytutorials.com/commit/ee8478e492b6de92f89394b6f68359323a3511f3 "🧹 format all files (mainly adding trailing commas)")
+
+
+
+ | 
+
+Oct 3, 2019
+
+ |
+| 
+
+[loadershim.js](https://github.com/ooloth/gatsbytutorials.com/blob/master/loadershim.js "loadershim.js")
+
+
+
+
+
+
+
+ | 
+
+[loadershim.js](https://github.com/ooloth/gatsbytutorials.com/blob/master/loadershim.js "loadershim.js")
+
+
+
+
+
+
+
+ | 
+
+[Set up jest (](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")[#69](https://github.com/ooloth/gatsbytutorials.com/pull/69)[)](https://github.com/ooloth/gatsbytutorials.com/commit/46b88e6ea51a70616306ead4478d38551920500d "Set up jest (#69)
+* 🛠 install jest
+* 🧪 add an example test
+* 🛠 run tests in CI
+* 🐛 add missing GitHub actions property runs-on
+* 🐛 add checkout step to test job
+* 🐛 install dependencies before running test script
+* 🛠 set up jest for gatsby + typescript
+* 🧪 stub example mocks + tests
+* 🧹 extract utility function
+* 🛠 lock upgraded node version")
+
+
+
+ | 
+
+Nov 27, 2019
+
+ |
+| 
+
+[package-lock.json](https://github.com/ooloth/gatsbytutorials.com/blob/master/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/ooloth/gatsbytutorials.com/blob/master/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[Bump http-proxy from 1.18.0 to 1.18.1 (](https://github.com/ooloth/gatsbytutorials.com/commit/6d0b19c9094402ccf48ab2fba9e8488a108ae2c6 "Bump http-proxy from 1.18.0 to 1.18.1 (#177)
+Bumps [http-proxy](https://github.com/http-party/node-http-proxy) from 1.18.0 to 1.18.1.
+- [Release notes](https://github.com/http-party/node-http-proxy/releases)
+- [Changelog](https://github.com/http-party/node-http-proxy/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/http-party/node-http-proxy/compare/1.18.0...1.18.1)
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")[#177](https://github.com/ooloth/gatsbytutorials.com/pull/177)[)](https://github.com/ooloth/gatsbytutorials.com/commit/6d0b19c9094402ccf48ab2fba9e8488a108ae2c6 "Bump http-proxy from 1.18.0 to 1.18.1 (#177)
+Bumps [http-proxy](https://github.com/http-party/node-http-proxy) from 1.18.0 to 1.18.1.
+- [Release notes](https://github.com/http-party/node-http-proxy/releases)
+- [Changelog](https://github.com/http-party/node-http-proxy/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/http-party/node-http-proxy/compare/1.18.0...1.18.1)
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")
+
+
+
+ | 
+
+Oct 25, 2020
+
+ |
+| 
+
+[package.json](https://github.com/ooloth/gatsbytutorials.com/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/ooloth/gatsbytutorials.com/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[Bump @types/node from 12.12.14 to 13.1.6 (](https://github.com/ooloth/gatsbytutorials.com/commit/53024844cca68a45b3e69b6d5d69a557a872c164 "Bump @types/node from 12.12.14 to 13.1.6 (#167)
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 12.12.14 to 13.1.6.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+Co-authored-by: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>")[#167](https://github.com/ooloth/gatsbytutorials.com/pull/167)[)](https://github.com/ooloth/gatsbytutorials.com/commit/53024844cca68a45b3e69b6d5d69a557a872c164 "Bump @types/node from 12.12.14 to 13.1.6 (#167)
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 12.12.14 to 13.1.6.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+Co-authored-by: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>")
+
+
+
+ | 
+
+Sep 5, 2020
+
+ |
+| 
+
+[tsconfig.json](https://github.com/ooloth/gatsbytutorials.com/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/ooloth/gatsbytutorials.com/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[🔍 ignore libraries when type checking](https://github.com/ooloth/gatsbytutorials.com/commit/f91fdf5552fe41bf4c2d88ddb0caa0e88687f878 "🔍 ignore libraries when type checking")
+
+
+
+ | 
+
+Oct 4, 2019
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#)
+*   [License](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#)
+
+Gatsby Tutorials
+================
+
+[](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#gatsby-tutorials)
+
+[Gatsby Tutorials](https://www.gatsbytutorials.com/) is a website that aims to list every GatsbyJS learning resource currently available online. 🎉
+
+You can find tutorials that interest you in several ways:
+
+*   **Browse** the list (recent tutorials are listed first) 👀
+*   **Search** for specific words or phrases 🕵️‍♀️
+*   **Filter** by format (🎧, ✍️ or 📺)
+*   **Filter** by topic 🤷‍♂️
+*   **Filter** by author 👩‍🏫
+*   **Filter** by source 🗞️
+
+Notice a tutorial is missing from the list? Please add it! 🙏
+
+How do I add a tutorial?
+------------------------
+
+[](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#how-do-i-add-a-tutorial)
+
+The easiest approach is to use the make your changes here on GitHub:
+
+1.  **Open** the [`src/data/tutorials.yml` file on GitHub](https://github.com/ooloth/gatsby-tutorials/blob/master/src/data/tutorials.yml) 📂
+2.  Use the **file editor** to add a new tutorial (or edit existing ones) ✏️
+3.  **Preview** your changes 👓
+4.  **Commit** your changes 👍
+5.  Create a **pull request** 📤
+
+**Please follow this format and indentation:**
+
+```yaml
+- title: 'GatsbyJS: How to Create the Fastest Sites in the World'
+  link: https://www.youtube.com/watch?v=Gtd-Ht-D0sg
+  formats:
+    - video
+    - text
+  language: en
+  date: 2017-10-01
+  authors:
+    - Kyle Mathews
+  source: ReactNext 2017
+  topics:
+    - introduction
+    - performance
+```
+
+*   `title` - Title of tutorial (`string`; required)
+*   `link` - Working URL where tutorial can be found (`string`; required)
+*   `formats` - Media format of tutorial (`array` of `strings` with values `video`, `audio` or `text`; required)
+*   `language` - Spoken/written language of the tutorial (`string` with a two-letter [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes); required)
+*   `date` - Date tutorial was published (`string` in `YYYY-MM-DD` format; optional)
+*   `authors` - Name of author(s) or speaker(s) (`array` of `strings`; optional)
+*   `source` - Name of YouTube channel, podcast, conference, blog, etc. if different from author's name (`string`; optional)
+*   `topics` - Main topic(s) covered by the tutorial (`array` of `strings`; required)
+
+### What if the tutorial is part of a series?
+
+[](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#what-if-the-tutorial-is-part-of-a-series)
+
+Rather than adding every tutorial in the series separately, please add the entire series as one entry that links to the series homepage (or the first tutorial in the series).
+
+Coming Soon
+-----------
+
+[](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#coming-soon)
+
+### Better filters 🏷
+
+[](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#better-filters-)
+
+*   [ ]  Filter tutorials by language
+*   [ ]  Filter by multiple topics at once
+*   [ ]  ~Cancel active filter by clicking it again~
+
+### Better performance ⚡️
+
+[](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#better-performance-%EF%B8%8F)
+
+*   [ ]  ~Limit initial length of tutorials list~
+*   [ ]  ~Generate filter lists at build time~
+
+### Better search 🕵️‍♂️
+
+[](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#better-search-%EF%B8%8F%EF%B8%8F)
+
+*   [ ]  ~Allow non-sequential search terms~
+*   [ ]  Highlight search terms in search results
+
+* * *
+
+Happy learning! 🤓
+
+About
+-----
+
+A community-updated list of video, audio and written tutorials to help you learn GatsbyJS. 👩‍💻
+
+[www.gatsbytutorials.com](https://www.gatsbytutorials.com/ "https://www.gatsbytutorials.com")
+
+### Topics
+
+[react](https://github.com/topics/react "Topic: react") [graphql](https://github.com/topics/graphql "Topic: graphql") [tutorial](https://github.com/topics/tutorial "Topic: tutorial") [reactjs](https://github.com/topics/reactjs "Topic: reactjs") [gatsby](https://github.com/topics/gatsby "Topic: gatsby") [gatsbyjs](https://github.com/topics/gatsbyjs "Topic: gatsbyjs") [gatsby-tutorials](https://github.com/topics/gatsby-tutorials "Topic: gatsby-tutorials")
+
+### Resources
+
+[Readme](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#readme-ov-file)
+
+### License
+
+[View license](https://github.com/ooloth/gatsbytutorials.com?screenshot=true#License-1-ov-file)
+
+[Activity](https://github.com/ooloth/gatsbytutorials.com/activity)
+
+### Stars
+
+[**114** stars](https://github.com/ooloth/gatsbytutorials.com/stargazers)
+
+### Watchers
+
+[**4** watching](https://github.com/ooloth/gatsbytutorials.com/watchers)
+
+### Forks
+
+[**34** forks](https://github.com/ooloth/gatsbytutorials.com/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fooloth%2Fgatsbytutorials.com&report=ooloth+%28user%29)
+
+[Releases](https://github.com/ooloth/gatsbytutorials.com/releases)
+------------------------------------------------------------------
+
+No releases published
+
+[Packages 0](https://github.com/users/ooloth/packages?repo_name=gatsbytutorials.com)
+------------------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 26](https://github.com/ooloth/gatsbytutorials.com/graphs/contributors)
+------------------------------------------------------------------------------------
+
+*   [![Image 17: @ooloth](https://avatars.githubusercontent.com/u/625364?s=64&v=4)](https://github.com/ooloth)
+*   [![Image 18: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 19: @JesseSingleton](https://avatars.githubusercontent.com/u/17176370?s=64&v=4)](https://github.com/JesseSingleton)
+*   [![Image 20: @amandeepmittal](https://avatars.githubusercontent.com/u/10234615?s=64&v=4)](https://github.com/amandeepmittal)
+*   [![Image 21: @dependabot-preview[bot]](https://avatars.githubusercontent.com/in/2141?s=64&v=4)](https://github.com/apps/dependabot-preview)
+*   [![Image 22: @cwlsn](https://avatars.githubusercontent.com/u/10063864?s=64&v=4)](https://github.com/cwlsn)
+*   [![Image 23: @theodesp](https://avatars.githubusercontent.com/u/328805?s=64&v=4)](https://github.com/theodesp)
+*   [![Image 24: @kmelkon](https://avatars.githubusercontent.com/u/1743113?s=64&v=4)](https://github.com/kmelkon)
+*   [![Image 25: @stemmlerjs](https://avatars.githubusercontent.com/u/6892666?s=64&v=4)](https://github.com/stemmlerjs)
+*   [![Image 26: @JacobKnaack](https://avatars.githubusercontent.com/u/15336054?s=64&v=4)](https://github.com/JacobKnaack)
+*   [![Image 27: @justinformentin](https://avatars.githubusercontent.com/u/40323577?s=64&v=4)](https://github.com/justinformentin)
+*   [![Image 28: @issydennis](https://avatars.githubusercontent.com/u/45734190?s=64&v=4)](https://github.com/issydennis)
+*   [![Image 29: @gastongarcia](https://avatars.githubusercontent.com/u/190625?s=64&v=4)](https://github.com/gastongarcia)
+*   [![Image 30: @add1sun](https://avatars.githubusercontent.com/u/194055?s=64&v=4)](https://github.com/add1sun)
+
+[\+ 12 contributors](https://github.com/ooloth/gatsbytutorials.com/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 84.8%](https://github.com/ooloth/gatsbytutorials.com/search?l=typescript)
+*   [JavaScript 15.2%](https://github.com/ooloth/gatsbytutorials.com/search?l=javascript)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

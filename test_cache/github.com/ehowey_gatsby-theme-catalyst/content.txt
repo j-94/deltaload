@@ -1,0 +1,1249 @@
+[Skip to content](https://github.com/ehowey/gatsby-theme-catalyst?screenshot=true#start-of-content)
+
+Navigation Menu
+---------------
+
+*   *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+
+*   Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+*   *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+*   [Pricing](https://github.com/pricing)
+
+Provide feedback
+----------------
+
+Saved searches
+--------------
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=ehowey%2Fgatsby-theme-catalyst)
+
+This repository has been archived by the owner on Jun 17, 2022. It is now read-only.
+
+*   [Notifications](https://github.com/login?return_to=%2Fehowey%2Fgatsby-theme-catalyst) You must be signed in to change notification settings
+*   [Fork 14](https://github.com/login?return_to=%2Fehowey%2Fgatsby-theme-catalyst)
+*   [Star 163](https://github.com/login?return_to=%2Fehowey%2Fgatsby-theme-catalyst)
+    
+
+*   [Code](https://github.com/ehowey/gatsby-theme-catalyst)
+*   [Issues 1](https://github.com/ehowey/gatsby-theme-catalyst/issues)
+*   [Pull requests](https://github.com/ehowey/gatsby-theme-catalyst/pulls)
+*   [Actions](https://github.com/ehowey/gatsby-theme-catalyst/actions)
+*   [Projects](https://github.com/ehowey/gatsby-theme-catalyst/projects)
+*   [Security](https://github.com/ehowey/gatsby-theme-catalyst/security)
+*   [Insights](https://github.com/ehowey/gatsby-theme-catalyst/pulse)
+
+Folders and files
+-----------------
+
+| Name | Name | Last commit message
+ | Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 14: ehowey](https://avatars.githubusercontent.com/u/204841?v=4&size=40)](https://github.com/ehowey)[ehowey](https://github.com/ehowey/gatsby-theme-catalyst/commits?author=ehowey)
+
+[(all): Add note to starters about deprecation](https://github.com/ehowey/gatsby-theme-catalyst/commit/f13c42ed98e9149dbed2c0dfe256b082ac195ee6)
+
+Nov 7, 2021
+
+[f13c42e](https://github.com/ehowey/gatsby-theme-catalyst/commit/f13c42ed98e9149dbed2c0dfe256b082ac195ee6) · Nov 7, 2021
+
+History
+-------
+
+[2,151 Commits](https://github.com/ehowey/gatsby-theme-catalyst/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.changeset](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/.changeset ".changeset")
+
+
+
+ | 
+
+[.changeset](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/.changeset ".changeset")
+
+
+
+ | 
+
+[Version Packages (](https://github.com/ehowey/gatsby-theme-catalyst/commit/a7aa57552f0a3361396e9467f873f22845a80666 "Version Packages (#1409)
+Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>")[#1409](https://github.com/ehowey/gatsby-theme-catalyst/pull/1409)[)](https://github.com/ehowey/gatsby-theme-catalyst/commit/a7aa57552f0a3361396e9467f873f22845a80666 "Version Packages (#1409)
+Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>")
+
+
+
+ | Oct 16, 2021
+
+ |
+| 
+
+[.github](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/.github ".github")
+
+
+
+ | 
+
+[.github](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/.github ".github")
+
+
+
+ | 
+
+[(all): remove dependabot](https://github.com/ehowey/gatsby-theme-catalyst/commit/da9e3a25e36fa7cfddf33cd78a995b6a42d3df51 "(all): remove dependabot")
+
+
+
+ | Oct 16, 2021
+
+ |
+| 
+
+[cypress](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/cypress "cypress")
+
+
+
+ | 
+
+[cypress](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/cypress "cypress")
+
+
+
+ | 
+
+[(cypress): add more tests (](https://github.com/ehowey/gatsby-theme-catalyst/commit/27e41d6764a9cadd763a90f35f2ecdb505cc7151 "(cypress): add  more tests (#1234)
+* Add back in color mode toggle tests
+* Updated color mode toggle test
+* Update all color mode toggle tests
+* Add more tests to sanity theme
+* Add additional tests
+* Add additional timing
+* Add waits to basic test
+* Testing updated basic test
+* Test a more specific version
+* Seperate test workflows
+* Trying new basic test
+* Another try at the basic test
+* Update basic test
+* One more try for basic test
+* Try basic test again
+* Custom test command
+* Custom command
+* Comment out color mode toggle test
+* Another try
+* Test color mode
+* Add color mode toggle tests back in")[#1234](https://github.com/ehowey/gatsby-theme-catalyst/pull/1234)[)](https://github.com/ehowey/gatsby-theme-catalyst/commit/27e41d6764a9cadd763a90f35f2ecdb505cc7151 "(cypress): add  more tests (#1234)
+* Add back in color mode toggle tests
+* Updated color mode toggle test
+* Update all color mode toggle tests
+* Add more tests to sanity theme
+* Add additional tests
+* Add additional timing
+* Add waits to basic test
+* Testing updated basic test
+* Test a more specific version
+* Seperate test workflows
+* Trying new basic test
+* Another try at the basic test
+* Update basic test
+* One more try for basic test
+* Try basic test again
+* Custom test command
+* Custom command
+* Comment out color mode toggle test
+* Another try
+* Test color mode
+* Add color mode toggle tests back in")
+
+
+
+ | May 1, 2021
+
+ |
+| 
+
+[sanity-templates](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/sanity-templates "sanity-templates")
+
+
+
+ | 
+
+[sanity-templates](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/sanity-templates "sanity-templates")
+
+
+
+ | 
+
+[(all): Add note to starters about deprecation](https://github.com/ehowey/gatsby-theme-catalyst/commit/f13c42ed98e9149dbed2c0dfe256b082ac195ee6 "(all): Add note to starters about deprecation")
+
+
+
+ | Nov 7, 2021
+
+ |
+| 
+
+[starters](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/starters "starters")
+
+
+
+ | 
+
+[starters](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/starters "starters")
+
+
+
+ | 
+
+[(all): Add note to starters about deprecation](https://github.com/ehowey/gatsby-theme-catalyst/commit/f13c42ed98e9149dbed2c0dfe256b082ac195ee6 "(all): Add note to starters about deprecation")
+
+
+
+ | Nov 7, 2021
+
+ |
+| 
+
+[themes](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/themes "themes")
+
+
+
+ | 
+
+[themes](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/themes "themes")
+
+
+
+ | 
+
+[Version Packages (](https://github.com/ehowey/gatsby-theme-catalyst/commit/a7aa57552f0a3361396e9467f873f22845a80666 "Version Packages (#1409)
+Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>")[#1409](https://github.com/ehowey/gatsby-theme-catalyst/pull/1409)[)](https://github.com/ehowey/gatsby-theme-catalyst/commit/a7aa57552f0a3361396e9467f873f22845a80666 "Version Packages (#1409)
+Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>")
+
+
+
+ | Oct 16, 2021
+
+ |
+| 
+
+[www](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/www "www")
+
+
+
+ | 
+
+[www](https://github.com/ehowey/gatsby-theme-catalyst/tree/main/www "www")
+
+
+
+ | 
+
+[(www): typos](https://github.com/ehowey/gatsby-theme-catalyst/commit/7889a52cb0a6acf3284735f14b0474896edae8fb "(www): typos")
+
+
+
+ | Oct 17, 2021
+
+ |
+| 
+
+[.gitignore](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/.gitignore ".gitignore")
+
+
+
+ | 
+
+[.gitignore](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/.gitignore ".gitignore")
+
+
+
+ | 
+
+[(all): add additional .env files to .gitignore](https://github.com/ehowey/gatsby-theme-catalyst/commit/9a409717e238d497005bfac2562bc7bfa5086a05 "(all): add additional .env files to .gitignore")
+
+
+
+ | Sep 24, 2020
+
+ |
+| 
+
+[.prettierrc](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/.prettierrc ".prettierrc")
+
+
+
+ | 
+
+[.prettierrc](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/.prettierrc ".prettierrc")
+
+
+
+ | 
+
+[Cypress setup and A11y tests](https://github.com/ehowey/gatsby-theme-catalyst/commit/f0776ca5b1515abd934248720dbce9d8d20c9735 "Cypress setup and A11y tests")
+
+
+
+ | Dec 31, 2019
+
+ |
+| 
+
+[CHANGELOG.md](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/CHANGELOG.md "CHANGELOG.md")
+
+
+
+ | 
+
+[CHANGELOG.md](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/CHANGELOG.md "CHANGELOG.md")
+
+
+
+ | 
+
+[(docs): manually clean up changelogs](https://github.com/ehowey/gatsby-theme-catalyst/commit/8406ba42b74fc33bae691586fe02c55f68b8fdc2 "(docs): manually clean up changelogs")
+
+
+
+ | May 13, 2021
+
+ |
+| 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+ | 
+
+[CODE\_OF\_CONDUCT.md](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")
+
+
+
+ | 
+
+[Create CODE\_OF\_CONDUCT.md](https://github.com/ehowey/gatsby-theme-catalyst/commit/6e63eddea7d627599b8477e6f57893dd5e1bb077 "Create CODE_OF_CONDUCT.md")
+
+
+
+ | Oct 19, 2019
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+ | 
+
+[(docs): update contribution docs (](https://github.com/ehowey/gatsby-theme-catalyst/commit/1528b34730ae7fd545f935d9ffdb2ab6df425f5b "(docs): update contribution docs (#1233)")[#1233](https://github.com/ehowey/gatsby-theme-catalyst/pull/1233)[)](https://github.com/ehowey/gatsby-theme-catalyst/commit/1528b34730ae7fd545f935d9ffdb2ab6df425f5b "(docs): update contribution docs (#1233)")
+
+
+
+ | Apr 20, 2021
+
+ |
+| 
+
+[LICENSE](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/LICENSE "LICENSE")
+
+
+
+ | 
+
+[LICENSE](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/LICENSE "LICENSE")
+
+
+
+ | 
+
+[v6.0.0-beta.0 (](https://github.com/ehowey/gatsby-theme-catalyst/commit/2652cf476bcf5c5f3c06a7bd4d3e5db3a44bf2be "v6.0.0-beta.0 (#1215)
+* v3.0 update
+* Update to gatsby-plugin-image for non-sanity theme
+* Publish
+- gatsby-starter-catalyst-bery@4.0.0-alpha.1
+- gatsby-starter-catalyst-blog@4.0.0-alpha.1
+- gatsby-starter-catalyst-core@4.0.0-alpha.1
+- gatsby-starter-catalyst-helium@4.0.0-alpha.1
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.1
+- gatsby-starter-catalyst-lithium@4.0.0-alpha.1
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.1
+- gatsby-starter-catalyst-stripe@1.0.0-alpha.1
+- gatsby-starter-catalyst@4.0.0-alpha.1
+- gatsby-theme-catalyst-bery@4.0.0-alpha.1
+- gatsby-theme-catalyst-blog@3.0.0-alpha.1
+- gatsby-theme-catalyst-core@4.0.0-alpha.1
+- gatsby-theme-catalyst-footer@2.0.0-alpha.1
+- gatsby-theme-catalyst-header-bigtop@2.0.0-alpha.1
+- gatsby-theme-catalyst-header-side@3.0.0-alpha.1
+- gatsby-theme-catalyst-header-top@2.0.0-alpha.1
+- gatsby-theme-catalyst-helium@4.0.0-alpha.1
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.1
+- gatsby-theme-catalyst-lithium@4.0.0-alpha.1
+- gatsby-theme-catalyst-sanity@5.0.0-alpha.1
+- gatsby-theme-catalyst-stripe@1.0.0-alpha.1
+- gatsby-catalyst-docs@4.0.0-alpha.1
+* Remove gitHead from package.json
+* Minimal working updates
+* Fix logo
+* Updated versions
+* Publish
+- gatsby-starter-catalyst-bery@4.0.0-alpha.2
+- gatsby-starter-catalyst-blog@4.0.0-alpha.2
+- gatsby-starter-catalyst-core@4.0.0-alpha.2
+- gatsby-starter-catalyst-helium@4.0.0-alpha.2
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.2
+- gatsby-starter-catalyst-lithium@4.0.0-alpha.2
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.2
+- gatsby-starter-catalyst-stripe@1.0.0-alpha.2
+- gatsby-starter-catalyst@4.0.0-alpha.2
+- gatsby-theme-catalyst-bery@4.0.0-alpha.2
+- gatsby-theme-catalyst-blog@3.0.0-alpha.2
+- gatsby-theme-catalyst-core@4.0.0-alpha.2
+- gatsby-theme-catalyst-footer@2.0.0-alpha.2
+- gatsby-theme-catalyst-header-bigtop@2.0.0-alpha.2
+- gatsby-theme-catalyst-header-side@3.0.0-alpha.2
+- gatsby-theme-catalyst-header-top@2.0.0-alpha.2
+- gatsby-theme-catalyst-helium@4.0.0-alpha.2
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.2
+- gatsby-theme-catalyst-lithium@4.0.0-alpha.2
+- gatsby-theme-catalyst-sanity@5.0.0-alpha.2
+- gatsby-theme-catalyst-stripe@1.0.0-alpha.2
+- gatsby-catalyst-docs@4.0.0-alpha.2
+* Add gatsby-plugin-image to config
+* Publish
+- gatsby-starter-catalyst-bery@4.0.0-alpha.3
+- gatsby-starter-catalyst-blog@4.0.0-alpha.3
+- gatsby-starter-catalyst-core@4.0.0-alpha.3
+- gatsby-starter-catalyst-helium@4.0.0-alpha.3
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.3
+- gatsby-starter-catalyst-lithium@4.0.0-alpha.3
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.3
+- gatsby-starter-catalyst-stripe@1.0.0-alpha.3
+- gatsby-starter-catalyst@4.0.0-alpha.3
+- gatsby-theme-catalyst-bery@4.0.0-alpha.3
+- gatsby-theme-catalyst-core@4.0.0-alpha.3
+- gatsby-theme-catalyst-helium@4.0.0-alpha.3
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.3
+- gatsby-theme-catalyst-lithium@4.0.0-alpha.3
+- gatsby-theme-catalyst-stripe@1.0.0-alpha.3
+- gatsby-catalyst-docs@4.0.0-alpha.3
+* WIP on header
+* WIP on updating header themes
+* WIP
+* Refactor header top
+* Improved css styling for nav links
+* Simplify components for header-top
+* Simplify components for header-side
+* Remove unused theme sizes
+* Remove link type
+* Begin moving theme options to respective themes
+* Remove unsued theme options
+* Fix gatsby-theme-catalyst-bery
+* Update www
+* Switch to full bleed layout
+* Update theme-ui
+* Update maxContentWidth
+* Remove Home context
+* Update css reset to modern-normalize.css
+* Remove useSanityTheme and SanityThemeProvider
+* Remove Theme.root
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.4
+- gatsby-starter-catalyst-blog@6.0.0-alpha.4
+- gatsby-starter-catalyst-core@6.0.0-alpha.4
+- gatsby-starter-catalyst-helium@6.0.0-alpha.4
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.4
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.4
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.4
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.1
+- gatsby-starter-catalyst@6.0.0-alpha.4
+- gatsby-theme-catalyst-bery@6.0.0-alpha.4
+- gatsby-theme-catalyst-blog@6.0.0-alpha.4
+- gatsby-theme-catalyst-core@6.0.0-alpha.4
+- gatsby-theme-catalyst-footer@6.0.0-alpha.4
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.4
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.4
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.4
+- gatsby-theme-catalyst-helium@6.0.0-alpha.4
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.4
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.4
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.4
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.1
+- gatsby-catalyst-docs@6.0.0-alpha.4
+* WIP on documentation updates
+* useHeaderSocialLinks and useFooterSocialLinks
+* Switch to blurred placeholder for logo
+* Switch to blurred for Bery avatar
+* Update readmes
+* Update hero component shadowing in Helium
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.5
+- gatsby-starter-catalyst-blog@6.0.0-alpha.5
+- gatsby-starter-catalyst-core@6.0.0-alpha.5
+- gatsby-starter-catalyst-helium@6.0.0-alpha.5
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.5
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.5
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.5
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.2
+- gatsby-starter-catalyst@6.0.0-alpha.5
+- gatsby-theme-catalyst-bery@6.0.0-alpha.5
+- gatsby-theme-catalyst-blog@6.0.0-alpha.5
+- gatsby-theme-catalyst-core@6.0.0-alpha.5
+- gatsby-theme-catalyst-footer@6.0.0-alpha.5
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.5
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.5
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.5
+- gatsby-theme-catalyst-helium@6.0.0-alpha.5
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.5
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.5
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.5
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.2
+- gatsby-catalyst-docs@6.0.0-alpha.5
+* Update theme-ui to v0.6.0
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.6
+- gatsby-starter-catalyst-blog@6.0.0-alpha.6
+- gatsby-starter-catalyst-core@6.0.0-alpha.6
+- gatsby-starter-catalyst-helium@6.0.0-alpha.6
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.6
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.6
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.6
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.3
+- gatsby-starter-catalyst@6.0.0-alpha.6
+- gatsby-theme-catalyst-bery@6.0.0-alpha.6
+- gatsby-theme-catalyst-blog@6.0.0-alpha.6
+- gatsby-theme-catalyst-core@6.0.0-alpha.6
+- gatsby-theme-catalyst-footer@6.0.0-alpha.6
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.6
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.6
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.6
+- gatsby-theme-catalyst-helium@6.0.0-alpha.6
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.6
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.6
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.6
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.3
+- gatsby-catalyst-docs@6.0.0-alpha.6
+* WIP on docs
+* Switch to article tag
+* WIP on docs
+* Add basic alert banner code and docs
+* Finished alert banner
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.7
+- gatsby-starter-catalyst-blog@6.0.0-alpha.7
+- gatsby-starter-catalyst-core@6.0.0-alpha.7
+- gatsby-starter-catalyst-helium@6.0.0-alpha.7
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.7
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.7
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.7
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.4
+- gatsby-starter-catalyst@6.0.0-alpha.7
+- gatsby-theme-catalyst-bery@6.0.0-alpha.7
+- gatsby-theme-catalyst-blog@6.0.0-alpha.7
+- gatsby-theme-catalyst-core@6.0.0-alpha.7
+- gatsby-theme-catalyst-footer@6.0.0-alpha.7
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.7
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.7
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.7
+- gatsby-theme-catalyst-helium@6.0.0-alpha.7
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.7
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.7
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.7
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.4
+- gatsby-catalyst-docs@6.0.0-alpha.7
+* Remove full bleed
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.8
+- gatsby-starter-catalyst-blog@6.0.0-alpha.8
+- gatsby-starter-catalyst-core@6.0.0-alpha.8
+- gatsby-starter-catalyst-helium@6.0.0-alpha.8
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.8
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.8
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.8
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.5
+- gatsby-starter-catalyst@6.0.0-alpha.8
+- gatsby-theme-catalyst-bery@6.0.0-alpha.8
+- gatsby-theme-catalyst-blog@6.0.0-alpha.8
+- gatsby-theme-catalyst-core@6.0.0-alpha.8
+- gatsby-theme-catalyst-footer@6.0.0-alpha.8
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.8
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.8
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.8
+- gatsby-theme-catalyst-helium@6.0.0-alpha.8
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.8
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.8
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.8
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.5
+- gatsby-catalyst-docs@6.0.0-alpha.8
+* Improve a11y of nav
+* Remove deprecated @nodeInterface
+* Update react version
+* Update yarn file
+* Nav updates
+* Docs and more
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.9
+- gatsby-starter-catalyst-blog@6.0.0-alpha.9
+- gatsby-starter-catalyst-core@6.0.0-alpha.9
+- gatsby-starter-catalyst-helium@6.0.0-alpha.9
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.9
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.9
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.9
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.6
+- gatsby-starter-catalyst@6.0.0-alpha.9
+- gatsby-theme-catalyst-bery@6.0.0-alpha.9
+- gatsby-theme-catalyst-blog@6.0.0-alpha.9
+- gatsby-theme-catalyst-core@6.0.0-alpha.9
+- gatsby-theme-catalyst-footer@6.0.0-alpha.9
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.9
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.9
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.9
+- gatsby-theme-catalyst-helium@6.0.0-alpha.9
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.9
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.9
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.9
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.6
+- gatsby-catalyst-docs@6.0.0-alpha.9
+* export useHeaderConfig from header themes
+* Fix top image in hydrogen
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.10
+- gatsby-starter-catalyst-blog@6.0.0-alpha.10
+- gatsby-starter-catalyst-core@6.0.0-alpha.10
+- gatsby-starter-catalyst-helium@6.0.0-alpha.10
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.10
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.10
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.10
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.7
+- gatsby-starter-catalyst@6.0.0-alpha.10
+- gatsby-theme-catalyst-bery@6.0.0-alpha.10
+- gatsby-theme-catalyst-blog@6.0.0-alpha.10
+- gatsby-theme-catalyst-core@6.0.0-alpha.10
+- gatsby-theme-catalyst-footer@6.0.0-alpha.10
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.10
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.10
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.10
+- gatsby-theme-catalyst-helium@6.0.0-alpha.10
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.10
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.10
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.10
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.7
+- gatsby-catalyst-docs@6.0.0-alpha.10
+* Fix a11y error in buttons for hydrogen
+* Update sanity templates
+* Update sanity studio versions
+* Update gatsby versions
+* Update SEO to Seo
+* Add roadmap to docs
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.11
+- gatsby-starter-catalyst-blog@6.0.0-alpha.11
+- gatsby-starter-catalyst-core@6.0.0-alpha.11
+- gatsby-starter-catalyst-helium@6.0.0-alpha.11
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.11
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.11
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.11
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.8
+- gatsby-starter-catalyst@6.0.0-alpha.11
+- gatsby-theme-catalyst-bery@6.0.0-alpha.11
+- gatsby-theme-catalyst-blog@6.0.0-alpha.11
+- gatsby-theme-catalyst-core@6.0.0-alpha.11
+- gatsby-theme-catalyst-footer@6.0.0-alpha.11
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.11
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.11
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.11
+- gatsby-theme-catalyst-helium@6.0.0-alpha.11
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.11
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.11
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.11
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.8
+- gatsby-catalyst-docs@6.0.0-alpha.11
+* Revert SEO change in homePage.js
+* Remove default exports on Theme-UI themes
+* Update changelog
+* Fix border radius
+* Update sanity templates
+* Fix hydrogen theme color mode
+* Add some code comments
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-beta.0
+- gatsby-starter-catalyst-blog@6.0.0-beta.0
+- gatsby-starter-catalyst-core@6.0.0-beta.0
+- gatsby-starter-catalyst-helium@6.0.0-beta.0
+- gatsby-starter-catalyst-hydrogen@6.0.0-beta.0
+- gatsby-starter-catalyst-lithium@6.0.0-beta.0
+- gatsby-starter-catalyst-sanity@6.0.0-beta.0
+- gatsby-starter-catalyst-stripe@0.1.0-beta.0
+- gatsby-starter-catalyst@6.0.0-beta.0
+- gatsby-theme-catalyst-bery@6.0.0-beta.0
+- gatsby-theme-catalyst-blog@6.0.0-beta.0
+- gatsby-theme-catalyst-core@6.0.0-beta.0
+- gatsby-theme-catalyst-footer@6.0.0-beta.0
+- gatsby-theme-catalyst-header-bigtop@6.0.0-beta.0
+- gatsby-theme-catalyst-header-side@6.0.0-beta.0
+- gatsby-theme-catalyst-header-top@6.0.0-beta.0
+- gatsby-theme-catalyst-helium@6.0.0-beta.0
+- gatsby-theme-catalyst-hydrogen@6.0.0-beta.0
+- gatsby-theme-catalyst-lithium@6.0.0-beta.0
+- gatsby-theme-catalyst-sanity@6.0.0-beta.0
+- gatsby-theme-catalyst-stripe@0.1.0-beta.0
+- gatsby-catalyst-docs@6.0.0-beta.0
+* Add brief note in Sanity Templates readme
+* Add react and react-dom to list of ignored deps")[#1215](https://github.com/ehowey/gatsby-theme-catalyst/pull/1215)[)](https://github.com/ehowey/gatsby-theme-catalyst/commit/2652cf476bcf5c5f3c06a7bd4d3e5db3a44bf2be "v6.0.0-beta.0 (#1215)
+* v3.0 update
+* Update to gatsby-plugin-image for non-sanity theme
+* Publish
+- gatsby-starter-catalyst-bery@4.0.0-alpha.1
+- gatsby-starter-catalyst-blog@4.0.0-alpha.1
+- gatsby-starter-catalyst-core@4.0.0-alpha.1
+- gatsby-starter-catalyst-helium@4.0.0-alpha.1
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.1
+- gatsby-starter-catalyst-lithium@4.0.0-alpha.1
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.1
+- gatsby-starter-catalyst-stripe@1.0.0-alpha.1
+- gatsby-starter-catalyst@4.0.0-alpha.1
+- gatsby-theme-catalyst-bery@4.0.0-alpha.1
+- gatsby-theme-catalyst-blog@3.0.0-alpha.1
+- gatsby-theme-catalyst-core@4.0.0-alpha.1
+- gatsby-theme-catalyst-footer@2.0.0-alpha.1
+- gatsby-theme-catalyst-header-bigtop@2.0.0-alpha.1
+- gatsby-theme-catalyst-header-side@3.0.0-alpha.1
+- gatsby-theme-catalyst-header-top@2.0.0-alpha.1
+- gatsby-theme-catalyst-helium@4.0.0-alpha.1
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.1
+- gatsby-theme-catalyst-lithium@4.0.0-alpha.1
+- gatsby-theme-catalyst-sanity@5.0.0-alpha.1
+- gatsby-theme-catalyst-stripe@1.0.0-alpha.1
+- gatsby-catalyst-docs@4.0.0-alpha.1
+* Remove gitHead from package.json
+* Minimal working updates
+* Fix logo
+* Updated versions
+* Publish
+- gatsby-starter-catalyst-bery@4.0.0-alpha.2
+- gatsby-starter-catalyst-blog@4.0.0-alpha.2
+- gatsby-starter-catalyst-core@4.0.0-alpha.2
+- gatsby-starter-catalyst-helium@4.0.0-alpha.2
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.2
+- gatsby-starter-catalyst-lithium@4.0.0-alpha.2
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.2
+- gatsby-starter-catalyst-stripe@1.0.0-alpha.2
+- gatsby-starter-catalyst@4.0.0-alpha.2
+- gatsby-theme-catalyst-bery@4.0.0-alpha.2
+- gatsby-theme-catalyst-blog@3.0.0-alpha.2
+- gatsby-theme-catalyst-core@4.0.0-alpha.2
+- gatsby-theme-catalyst-footer@2.0.0-alpha.2
+- gatsby-theme-catalyst-header-bigtop@2.0.0-alpha.2
+- gatsby-theme-catalyst-header-side@3.0.0-alpha.2
+- gatsby-theme-catalyst-header-top@2.0.0-alpha.2
+- gatsby-theme-catalyst-helium@4.0.0-alpha.2
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.2
+- gatsby-theme-catalyst-lithium@4.0.0-alpha.2
+- gatsby-theme-catalyst-sanity@5.0.0-alpha.2
+- gatsby-theme-catalyst-stripe@1.0.0-alpha.2
+- gatsby-catalyst-docs@4.0.0-alpha.2
+* Add gatsby-plugin-image to config
+* Publish
+- gatsby-starter-catalyst-bery@4.0.0-alpha.3
+- gatsby-starter-catalyst-blog@4.0.0-alpha.3
+- gatsby-starter-catalyst-core@4.0.0-alpha.3
+- gatsby-starter-catalyst-helium@4.0.0-alpha.3
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.3
+- gatsby-starter-catalyst-lithium@4.0.0-alpha.3
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.3
+- gatsby-starter-catalyst-stripe@1.0.0-alpha.3
+- gatsby-starter-catalyst@4.0.0-alpha.3
+- gatsby-theme-catalyst-bery@4.0.0-alpha.3
+- gatsby-theme-catalyst-core@4.0.0-alpha.3
+- gatsby-theme-catalyst-helium@4.0.0-alpha.3
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.3
+- gatsby-theme-catalyst-lithium@4.0.0-alpha.3
+- gatsby-theme-catalyst-stripe@1.0.0-alpha.3
+- gatsby-catalyst-docs@4.0.0-alpha.3
+* WIP on header
+* WIP on updating header themes
+* WIP
+* Refactor header top
+* Improved css styling for nav links
+* Simplify components for header-top
+* Simplify components for header-side
+* Remove unused theme sizes
+* Remove link type
+* Begin moving theme options to respective themes
+* Remove unsued theme options
+* Fix gatsby-theme-catalyst-bery
+* Update www
+* Switch to full bleed layout
+* Update theme-ui
+* Update maxContentWidth
+* Remove Home context
+* Update css reset to modern-normalize.css
+* Remove useSanityTheme and SanityThemeProvider
+* Remove Theme.root
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.4
+- gatsby-starter-catalyst-blog@6.0.0-alpha.4
+- gatsby-starter-catalyst-core@6.0.0-alpha.4
+- gatsby-starter-catalyst-helium@6.0.0-alpha.4
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.4
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.4
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.4
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.1
+- gatsby-starter-catalyst@6.0.0-alpha.4
+- gatsby-theme-catalyst-bery@6.0.0-alpha.4
+- gatsby-theme-catalyst-blog@6.0.0-alpha.4
+- gatsby-theme-catalyst-core@6.0.0-alpha.4
+- gatsby-theme-catalyst-footer@6.0.0-alpha.4
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.4
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.4
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.4
+- gatsby-theme-catalyst-helium@6.0.0-alpha.4
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.4
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.4
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.4
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.1
+- gatsby-catalyst-docs@6.0.0-alpha.4
+* WIP on documentation updates
+* useHeaderSocialLinks and useFooterSocialLinks
+* Switch to blurred placeholder for logo
+* Switch to blurred for Bery avatar
+* Update readmes
+* Update hero component shadowing in Helium
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.5
+- gatsby-starter-catalyst-blog@6.0.0-alpha.5
+- gatsby-starter-catalyst-core@6.0.0-alpha.5
+- gatsby-starter-catalyst-helium@6.0.0-alpha.5
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.5
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.5
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.5
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.2
+- gatsby-starter-catalyst@6.0.0-alpha.5
+- gatsby-theme-catalyst-bery@6.0.0-alpha.5
+- gatsby-theme-catalyst-blog@6.0.0-alpha.5
+- gatsby-theme-catalyst-core@6.0.0-alpha.5
+- gatsby-theme-catalyst-footer@6.0.0-alpha.5
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.5
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.5
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.5
+- gatsby-theme-catalyst-helium@6.0.0-alpha.5
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.5
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.5
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.5
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.2
+- gatsby-catalyst-docs@6.0.0-alpha.5
+* Update theme-ui to v0.6.0
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.6
+- gatsby-starter-catalyst-blog@6.0.0-alpha.6
+- gatsby-starter-catalyst-core@6.0.0-alpha.6
+- gatsby-starter-catalyst-helium@6.0.0-alpha.6
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.6
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.6
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.6
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.3
+- gatsby-starter-catalyst@6.0.0-alpha.6
+- gatsby-theme-catalyst-bery@6.0.0-alpha.6
+- gatsby-theme-catalyst-blog@6.0.0-alpha.6
+- gatsby-theme-catalyst-core@6.0.0-alpha.6
+- gatsby-theme-catalyst-footer@6.0.0-alpha.6
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.6
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.6
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.6
+- gatsby-theme-catalyst-helium@6.0.0-alpha.6
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.6
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.6
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.6
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.3
+- gatsby-catalyst-docs@6.0.0-alpha.6
+* WIP on docs
+* Switch to article tag
+* WIP on docs
+* Add basic alert banner code and docs
+* Finished alert banner
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.7
+- gatsby-starter-catalyst-blog@6.0.0-alpha.7
+- gatsby-starter-catalyst-core@6.0.0-alpha.7
+- gatsby-starter-catalyst-helium@6.0.0-alpha.7
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.7
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.7
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.7
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.4
+- gatsby-starter-catalyst@6.0.0-alpha.7
+- gatsby-theme-catalyst-bery@6.0.0-alpha.7
+- gatsby-theme-catalyst-blog@6.0.0-alpha.7
+- gatsby-theme-catalyst-core@6.0.0-alpha.7
+- gatsby-theme-catalyst-footer@6.0.0-alpha.7
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.7
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.7
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.7
+- gatsby-theme-catalyst-helium@6.0.0-alpha.7
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.7
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.7
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.7
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.4
+- gatsby-catalyst-docs@6.0.0-alpha.7
+* Remove full bleed
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.8
+- gatsby-starter-catalyst-blog@6.0.0-alpha.8
+- gatsby-starter-catalyst-core@6.0.0-alpha.8
+- gatsby-starter-catalyst-helium@6.0.0-alpha.8
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.8
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.8
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.8
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.5
+- gatsby-starter-catalyst@6.0.0-alpha.8
+- gatsby-theme-catalyst-bery@6.0.0-alpha.8
+- gatsby-theme-catalyst-blog@6.0.0-alpha.8
+- gatsby-theme-catalyst-core@6.0.0-alpha.8
+- gatsby-theme-catalyst-footer@6.0.0-alpha.8
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.8
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.8
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.8
+- gatsby-theme-catalyst-helium@6.0.0-alpha.8
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.8
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.8
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.8
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.5
+- gatsby-catalyst-docs@6.0.0-alpha.8
+* Improve a11y of nav
+* Remove deprecated @nodeInterface
+* Update react version
+* Update yarn file
+* Nav updates
+* Docs and more
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.9
+- gatsby-starter-catalyst-blog@6.0.0-alpha.9
+- gatsby-starter-catalyst-core@6.0.0-alpha.9
+- gatsby-starter-catalyst-helium@6.0.0-alpha.9
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.9
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.9
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.9
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.6
+- gatsby-starter-catalyst@6.0.0-alpha.9
+- gatsby-theme-catalyst-bery@6.0.0-alpha.9
+- gatsby-theme-catalyst-blog@6.0.0-alpha.9
+- gatsby-theme-catalyst-core@6.0.0-alpha.9
+- gatsby-theme-catalyst-footer@6.0.0-alpha.9
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.9
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.9
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.9
+- gatsby-theme-catalyst-helium@6.0.0-alpha.9
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.9
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.9
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.9
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.6
+- gatsby-catalyst-docs@6.0.0-alpha.9
+* export useHeaderConfig from header themes
+* Fix top image in hydrogen
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.10
+- gatsby-starter-catalyst-blog@6.0.0-alpha.10
+- gatsby-starter-catalyst-core@6.0.0-alpha.10
+- gatsby-starter-catalyst-helium@6.0.0-alpha.10
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.10
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.10
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.10
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.7
+- gatsby-starter-catalyst@6.0.0-alpha.10
+- gatsby-theme-catalyst-bery@6.0.0-alpha.10
+- gatsby-theme-catalyst-blog@6.0.0-alpha.10
+- gatsby-theme-catalyst-core@6.0.0-alpha.10
+- gatsby-theme-catalyst-footer@6.0.0-alpha.10
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.10
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.10
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.10
+- gatsby-theme-catalyst-helium@6.0.0-alpha.10
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.10
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.10
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.10
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.7
+- gatsby-catalyst-docs@6.0.0-alpha.10
+* Fix a11y error in buttons for hydrogen
+* Update sanity templates
+* Update sanity studio versions
+* Update gatsby versions
+* Update SEO to Seo
+* Add roadmap to docs
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-alpha.11
+- gatsby-starter-catalyst-blog@6.0.0-alpha.11
+- gatsby-starter-catalyst-core@6.0.0-alpha.11
+- gatsby-starter-catalyst-helium@6.0.0-alpha.11
+- gatsby-starter-catalyst-hydrogen@6.0.0-alpha.11
+- gatsby-starter-catalyst-lithium@6.0.0-alpha.11
+- gatsby-starter-catalyst-sanity@6.0.0-alpha.11
+- gatsby-starter-catalyst-stripe@0.1.0-alpha.8
+- gatsby-starter-catalyst@6.0.0-alpha.11
+- gatsby-theme-catalyst-bery@6.0.0-alpha.11
+- gatsby-theme-catalyst-blog@6.0.0-alpha.11
+- gatsby-theme-catalyst-core@6.0.0-alpha.11
+- gatsby-theme-catalyst-footer@6.0.0-alpha.11
+- gatsby-theme-catalyst-header-bigtop@6.0.0-alpha.11
+- gatsby-theme-catalyst-header-side@6.0.0-alpha.11
+- gatsby-theme-catalyst-header-top@6.0.0-alpha.11
+- gatsby-theme-catalyst-helium@6.0.0-alpha.11
+- gatsby-theme-catalyst-hydrogen@6.0.0-alpha.11
+- gatsby-theme-catalyst-lithium@6.0.0-alpha.11
+- gatsby-theme-catalyst-sanity@6.0.0-alpha.11
+- gatsby-theme-catalyst-stripe@0.1.0-alpha.8
+- gatsby-catalyst-docs@6.0.0-alpha.11
+* Revert SEO change in homePage.js
+* Remove default exports on Theme-UI themes
+* Update changelog
+* Fix border radius
+* Update sanity templates
+* Fix hydrogen theme color mode
+* Add some code comments
+* Publish
+- gatsby-starter-catalyst-bery@6.0.0-beta.0
+- gatsby-starter-catalyst-blog@6.0.0-beta.0
+- gatsby-starter-catalyst-core@6.0.0-beta.0
+- gatsby-starter-catalyst-helium@6.0.0-beta.0
+- gatsby-starter-catalyst-hydrogen@6.0.0-beta.0
+- gatsby-starter-catalyst-lithium@6.0.0-beta.0
+- gatsby-starter-catalyst-sanity@6.0.0-beta.0
+- gatsby-starter-catalyst-stripe@0.1.0-beta.0
+- gatsby-starter-catalyst@6.0.0-beta.0
+- gatsby-theme-catalyst-bery@6.0.0-beta.0
+- gatsby-theme-catalyst-blog@6.0.0-beta.0
+- gatsby-theme-catalyst-core@6.0.0-beta.0
+- gatsby-theme-catalyst-footer@6.0.0-beta.0
+- gatsby-theme-catalyst-header-bigtop@6.0.0-beta.0
+- gatsby-theme-catalyst-header-side@6.0.0-beta.0
+- gatsby-theme-catalyst-header-top@6.0.0-beta.0
+- gatsby-theme-catalyst-helium@6.0.0-beta.0
+- gatsby-theme-catalyst-hydrogen@6.0.0-beta.0
+- gatsby-theme-catalyst-lithium@6.0.0-beta.0
+- gatsby-theme-catalyst-sanity@6.0.0-beta.0
+- gatsby-theme-catalyst-stripe@0.1.0-beta.0
+- gatsby-catalyst-docs@6.0.0-beta.0
+* Add brief note in Sanity Templates readme
+* Add react and react-dom to list of ignored deps")
+
+
+
+ | Apr 1, 2021
+
+ |
+| 
+
+[README.md](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/README.md "README.md")
+
+
+
+ | 
+
+[README.md](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/README.md "README.md")
+
+
+
+ | 
+
+[Update readme](https://github.com/ehowey/gatsby-theme-catalyst/commit/2cbb99a1305b1d892454a3657a2a81a5f81e6b17 "Update readme")
+
+
+
+ | Oct 22, 2021
+
+ |
+| 
+
+[cypress.json](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/cypress.json "cypress.json")
+
+
+
+ | 
+
+[cypress.json](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/cypress.json "cypress.json")
+
+
+
+ | 
+
+[Cypress setup and A11y tests](https://github.com/ehowey/gatsby-theme-catalyst/commit/f0776ca5b1515abd934248720dbce9d8d20c9735 "Cypress setup and A11y tests")
+
+
+
+ | Dec 31, 2019
+
+ |
+| 
+
+[netlify.toml](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/netlify.toml "netlify.toml")
+
+
+
+ | 
+
+[netlify.toml](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/netlify.toml "netlify.toml")
+
+
+
+ | 
+
+[(www): set node version in netlify.toml](https://github.com/ehowey/gatsby-theme-catalyst/commit/9f9f1a6bb432914621dd314f58ba9cab218ab14b "(www): set node version in netlify.toml")
+
+
+
+ | Apr 1, 2021
+
+ |
+| 
+
+[package.json](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/package.json "package.json")
+
+
+
+ | 
+
+[package.json](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/package.json "package.json")
+
+
+
+ | 
+
+[(all): Update all internal deps October 2021 (](https://github.com/ehowey/gatsby-theme-catalyst/commit/71d4a36be6e76a011dd89838d2dd72744d74bb28 "(all): Update all internal deps October 2021 (#1406)
+* Update all deps
+* Add changeset")[#1406](https://github.com/ehowey/gatsby-theme-catalyst/pull/1406)[)](https://github.com/ehowey/gatsby-theme-catalyst/commit/71d4a36be6e76a011dd89838d2dd72744d74bb28 "(all): Update all internal deps October 2021 (#1406)
+* Update all deps
+* Add changeset")
+
+
+
+ | Oct 16, 2021
+
+ |
+| 
+
+[yarn.lock](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/yarn.lock "yarn.lock")
+
+
+
+ | 
+
+[yarn.lock](https://github.com/ehowey/gatsby-theme-catalyst/blob/main/yarn.lock "yarn.lock")
+
+
+
+ | 
+
+[Bump use-shopping-cart from 2.4.3 to 3.0.3 (](https://github.com/ehowey/gatsby-theme-catalyst/commit/ce0f4a623ea92e4a850233edea7c506d6b9dd167 "Bump use-shopping-cart from 2.4.3 to 3.0.3 (#1369)
+Bumps [use-shopping-cart](https://github.com/dayhaysoos/use-shopping-cart) from 2.4.3 to 3.0.3.
+- [Release notes](https://github.com/dayhaysoos/use-shopping-cart/releases)
+- [Commits](https://github.com/dayhaysoos/use-shopping-cart/commits)
+---
+updated-dependencies:
+- dependency-name: use-shopping-cart
+dependency-type: direct:production
+update-type: version-update:semver-major
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")[#1369](https://github.com/ehowey/gatsby-theme-catalyst/pull/1369)[)](https://github.com/ehowey/gatsby-theme-catalyst/commit/ce0f4a623ea92e4a850233edea7c506d6b9dd167 "Bump use-shopping-cart from 2.4.3 to 3.0.3 (#1369)
+Bumps [use-shopping-cart](https://github.com/dayhaysoos/use-shopping-cart) from 2.4.3 to 3.0.3.
+- [Release notes](https://github.com/dayhaysoos/use-shopping-cart/releases)
+- [Commits](https://github.com/dayhaysoos/use-shopping-cart/commits)
+---
+updated-dependencies:
+- dependency-name: use-shopping-cart
+dependency-type: direct:production
+update-type: version-update:semver-major
+...
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>")
+
+
+
+ | Oct 16, 2021
+
+ |
+|  |
+
+[![Image 15: Gatsby Theme Catalyst](https://camo.githubusercontent.com/0eb1e80e6f251ad041d6349e555be3b5ae2a5c5a48929fda4bf35657bdbe939f/68747470733a2f2f7777772e676174736279636174616c7973742e636f6d2f696d616765732f636174616c7973742d736974652d69636f6e2d3130302e706e67)](https://camo.githubusercontent.com/0eb1e80e6f251ad041d6349e555be3b5ae2a5c5a48929fda4bf35657bdbe939f/68747470733a2f2f7777772e676174736279636174616c7973742e636f6d2f696d616765732f636174616c7973742d736974652d69636f6e2d3130302e706e67)
+
+Gatsby Theme Catalyst
+---------------------
+
+[](https://github.com/ehowey/gatsby-theme-catalyst?screenshot=true#--gatsby-theme-catalyst)
+
+Gatsby Theme Catalyst is deprecated and will not be updated to Gatsby v4! For a full statement about the reasons why see [www.gatsbycatalyst.com](https://www.gatsbycatalyst.com/). All docs remain available on the website and I will continue to respond to issues here as needed.
+
+About
+-----
+
+An opinionated set of integrated themes and starters as a boilerplate to accelerate development with GatsbyJS
+
+### Topics
+
+### Resources
+
+[Readme](https://github.com/ehowey/gatsby-theme-catalyst?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/ehowey/gatsby-theme-catalyst?screenshot=true#MIT-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/ehowey/gatsby-theme-catalyst?screenshot=true#coc-ov-file)
+
+[Activity](https://github.com/ehowey/gatsby-theme-catalyst/activity)
+
+### Stars
+
+[**163** stars](https://github.com/ehowey/gatsby-theme-catalyst/stargazers)
+
+### Watchers
+
+[**4** watching](https://github.com/ehowey/gatsby-theme-catalyst/watchers)
+
+### Forks
+
+[**14** forks](https://github.com/ehowey/gatsby-theme-catalyst/forks)

@@ -1,0 +1,16 @@
+![Image 3: LangWatch](https://app.langwatch.ai/images/logo.png)
+
+Welcome
+-------
+
+Log in to LangWatch to continue to LangWatch.
+
+Email address
+
+Password
+
+[Forgot password?](https://langwatch.eu.auth0.com/u/login/password-reset-start/Username-Password-Authentication?state=hKFo2SBRQXN1SkZCS0FZLTZDMWlkWU9wSFJVdFR2ZHpLMFV5M6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFVRcEFoaFozRUZ6VlFrNjQ3VnRHM29TM1hxUWJPQmh6o2NpZNkgTlhxeW8wRGZPaUNsczZCWFRwbEsxS1ptUTFSZGVhN1k)
+
+Don't have an account? [Sign up](https://langwatch.eu.auth0.com/u/signup?state=hKFo2SBRQXN1SkZCS0FZLTZDMWlkWU9wSFJVdFR2ZHpLMFV5M6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFVRcEFoaFozRUZ6VlFrNjQ3VnRHM29TM1hxUWJPQmh6o2NpZNkgTlhxeW8wRGZPaUNsczZCWFRwbEsxS1ptUTFSZGVhN1k)
+
+Or

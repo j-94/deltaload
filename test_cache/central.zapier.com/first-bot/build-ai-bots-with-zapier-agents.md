@@ -1,0 +1,211 @@
+---
+title: Build AI bots with Zapier Agents
+description: Zapier Agents is an experimental AI workspace where you can teach agents to work across 7,000+ apps.
+url: https://central.zapier.com/first-bot
+timestamp: 2025-01-20T16:16:50.098Z
+domain: central.zapier.com
+path: first-bot
+---
+
+# Build AI bots with Zapier Agents
+
+
+Zapier Agents is an experimental AI workspace where you can teach agents to work across 7,000+ apps.
+
+
+## Content
+
+Work hand in hand with AI agents
+--------------------------------
+
+Zapier Agents is an experimental AI workspace where you can teach agents to work across 7,000+ apps.
+----------------------------------------------------------------------------------------------------
+
+![Image 44: Intelligent AI automation](https://bot-templates-hu3kingje.vercel.zapier-deployment.com/_next/static/media/hero.31e14819.png)
+
+### OUR VISION
+
+Agents is the next step toward evolving automation for the AI age.
+
+Over a decade ago, Zapier launched with a simple idea that computers should do more work for you.
+
+Today, over 2.2 million businesses use Zapier to automate 2 billion tasks every month.
+
+Agents puts you in the driver's seat to automate even more work with the help of your friendly AI agents.
+
+With Agents, your task is as good as done
+-----------------------------------------
+
+What makes Agents magical?
+--------------------------
+
+### Live data
+
+Ask agents about the data in your apps. Data sources sync automatically.
+
+### AI automation
+
+Add behaviors so your agent can work at any hour, whether you’re there or not.
+
+### 7,000+ apps
+
+Agents runs on Zapier's ecosystem to help you automate the tools you already use.
+
+### One AI workspace
+
+The best of AI chat, automation, and data analysis—all in one place.
+
+Chat with live data from your apps
+----------------------------------
+
+Connect your source of truth to Agents, so agents have the knowledge they need to get the job done. Agents automatically sync with your latest data.
+
+![Image 45](https://zapier.com/generated/GoogleSheetsV2CLIAPI/128/)
+
+### Google Sheets
+
+![Image 46](https://zapier.com/generated/TableCLIAPI/128/)
+
+### Zapier Tables
+
+![Image 47](https://zapier.com/generated/ExcelCLIAPI/128/)
+
+### Excel
+
+![Image 48](https://zapier.com/generated/AirtableCLIAPI/128/)
+
+### AirTable
+
+![Image 49](https://zapier.com/generated/GoogleDocsV2CLIAPI/128/)
+
+### Google Docs
+
+![Image 50](https://zapier.com/generated/NotionCLIAPI/128/)
+
+### Notion
+
+![Image 51](https://zapier.com/generated/ConfluenceCloudCLIAPI/128/)
+
+### Confluence
+
+![Image 52](https://zapier.com/generated/HubspotCLIAPI/128/)
+
+### HubSpot
+
+![Image 53](https://zapier.com/generated/ZendeskV2CLIAPI/128/)
+
+### Zendesk
+
+![Image 54](https://zapier.com/generated/AsanaCLIAPI/128/)
+
+### Asana
+
+![Image 55](https://zapier.com/generated/JiraSoftwareCloudCLIAPI/128/)
+
+### Jira
+
+![Image 56](https://zapier.com/generated/MicrosoftSharePointCLIAPI/128/)
+
+### SharePoint
+
+Work together, or divide and conquer
+------------------------------------
+
+Agents can write, send, update, analyze, check, and more.
+
+![Image 57: Chat with your data sources](https://bot-templates-hu3kingje.vercel.zapier-deployment.com/_next/static/media/1.93600f2c.png)
+
+### Query your data
+
+Know in an instant. Ask agents to search and analyze data from a spreadsheet. Get answers about customer sentiment, order volume, or untapped leads.
+
+![Image 58: Automate customer follow-ups](https://bot-templates-hu3kingje.vercel.zapier-deployment.com/_next/static/media/2.36b6f880.png)
+
+### Follow up
+
+Nudge things toward a resolution, automatically. Remind teams about deadlines, customers about invoices, or leads about offers. You can even teach your agent to stick to a script.
+
+![Image 59: Automate lead enrichment](https://bot-templates-hu3kingje.vercel.zapier-deployment.com/_next/static/media/3.f00da18f.png)
+
+### Learn about leads
+
+Teach agents to get background on new leads and keep you up-to-date. Enrich your leads, search the data, and act on it in a single workspace.
+
+![Image 60: Auto-draft messages in any app](https://bot-templates-hu3kingje.vercel.zapier-deployment.com/_next/static/media/4.d0112f19.png)
+
+### Draft responses
+
+Let your agent recommend the first reply using your style. Queue up messages for customer support, team communications, or consulting requests.
+
+New to AI? You’re not alone.
+----------------------------
+
+Here are some answers to common questions we get about how AI works
+
+How do I improve the reliability of AI agents?
+----------------------------------------------
+
+Follow a few of our [tips for writing an effective AI prompt](https://zapier.com/blog/ai-prompt/): include helpful information upfront, give examples, define the expected formats length of response, and give agents a role.
+
+What is an activity?
+--------------------
+
+Every time your agent runs a behavior or instant action, we count that as an activity. Each run counts as one activity, no matter how many steps you use in the run. You can run up to 400 activities per month on a free plan, or up to 1,500  on a Premium plan. [If you need more activities, let's talk](https://central.zapier.app/sales).
+
+Why don’t I get the same outcome from AI every time?
+----------------------------------------------------
+
+That’s because of non-determinism. That’s the fancy term describing why AI agents will reply with different, but likely similar, answers to the same question. It’s a feature that’s core to Large Language Models (LLMs), and what makes LLMs different from computers, which will do the same thing every single time. It’s not a bug, it’s a feature!
+
+How are activities counted for Zapier Team accounts?
+----------------------------------------------------
+
+If you have a Team account on Zapier, your team shares a pool of Agents activities. For example, if you upgrade to a Premium plan for Agents, you can run up to 1,500 activities across all the agents your team creates.
+
+What app actions can agents perform on my behalf
+------------------------------------------------
+
+Agents can only take actions in the apps you’ve connected and use the triggers and actions you’ve set up. When configuring a behavior trigger or action field in Agents, you have the option to have the agent always use the same value, pick from a specific set of values, have it guess the value, or not set any value. To provide additional control, you can add more details to your behavior instructions.
+
+Can I use Agents with my Zapier Enterprise account?
+---------------------------------------------------
+
+Not out of the box. Agents doesn't currently support app and action restrictions that may be in place on an Enterprise account. If you’re on an Enterprise plan and would like to use Agents, please [reach out to us](https://central.zapier.app/contact-us).
+
+How can I get access to Agents?
+-------------------------------
+
+Anyone can try Agents for free today by going to agents and logging in with your Zapier account. You can also sign up for a free Zapier account if you don’t already have one.
+
+[Sign up now](https://zapier.com/sign-up)
+
+How can I provide feedback or report bugs?
+------------------------------------------
+
+Thank you for helping us improve Agents! Use our [contact form](https://central.zapier.app/) to provide feedback, report bugs, or submit support requests. You can also join Zapier’s [Early Access Program](https://zapier.com/early-access) to get access to a Slack workspace to share feedback and discuss Agents with Zapier staff and other early adopters.
+
+What support is available during the Beta?
+------------------------------------------
+
+To get support with Agents, please use [our contact form](https://central.zapier.app/). The team building Agents will handle support requests, as well as members of Zapier’s global support team.
+
+Please note that because this is an early beta, we can't guarantee a response. Zapier is not currently providing support for Agents in the Zapier Community forums, though you are still welcome to post about Agents there.
+
+Team up with your agent today
+-----------------------------
+
+Zapier agents work across 7,000+ apps, even when you're away.
+
+## Metadata
+
+```json
+{
+  "title": "Build AI bots with Zapier Agents",
+  "description": "Zapier Agents is an experimental AI workspace where you can teach agents to work across 7,000+ apps.",
+  "url": "https://central.zapier.com/first-bot",
+  "content": "Work hand in hand with AI agents\n--------------------------------\n\nZapier Agents is an experimental AI workspace where you can teach agents to work across 7,000+ apps.\n----------------------------------------------------------------------------------------------------\n\n![Image 44: Intelligent AI automation](https://bot-templates-hu3kingje.vercel.zapier-deployment.com/_next/static/media/hero.31e14819.png)\n\n### OUR VISION\n\nAgents is the next step toward evolving automation for the AI age.\n\nOver a decade ago, Zapier launched with a simple idea that computers should do more work for you.\n\nToday, over 2.2 million businesses use Zapier to automate 2 billion tasks every month.\n\nAgents puts you in the driver's seat to automate even more work with the help of your friendly AI agents.\n\nWith Agents, your task is as good as done\n-----------------------------------------\n\nWhat makes Agents magical?\n--------------------------\n\n### Live data\n\nAsk agents about the data in your apps. Data sources sync automatically.\n\n### AI automation\n\nAdd behaviors so your agent can work at any hour, whether you’re there or not.\n\n### 7,000+ apps\n\nAgents runs on Zapier's ecosystem to help you automate the tools you already use.\n\n### One AI workspace\n\nThe best of AI chat, automation, and data analysis—all in one place.\n\nChat with live data from your apps\n----------------------------------\n\nConnect your source of truth to Agents, so agents have the knowledge they need to get the job done. Agents automatically sync with your latest data.\n\n![Image 45](https://zapier.com/generated/GoogleSheetsV2CLIAPI/128/)\n\n### Google Sheets\n\n![Image 46](https://zapier.com/generated/TableCLIAPI/128/)\n\n### Zapier Tables\n\n![Image 47](https://zapier.com/generated/ExcelCLIAPI/128/)\n\n### Excel\n\n![Image 48](https://zapier.com/generated/AirtableCLIAPI/128/)\n\n### AirTable\n\n![Image 49](https://zapier.com/generated/GoogleDocsV2CLIAPI/128/)\n\n### Google Docs\n\n![Image 50](https://zapier.com/generated/NotionCLIAPI/128/)\n\n### Notion\n\n![Image 51](https://zapier.com/generated/ConfluenceCloudCLIAPI/128/)\n\n### Confluence\n\n![Image 52](https://zapier.com/generated/HubspotCLIAPI/128/)\n\n### HubSpot\n\n![Image 53](https://zapier.com/generated/ZendeskV2CLIAPI/128/)\n\n### Zendesk\n\n![Image 54](https://zapier.com/generated/AsanaCLIAPI/128/)\n\n### Asana\n\n![Image 55](https://zapier.com/generated/JiraSoftwareCloudCLIAPI/128/)\n\n### Jira\n\n![Image 56](https://zapier.com/generated/MicrosoftSharePointCLIAPI/128/)\n\n### SharePoint\n\nWork together, or divide and conquer\n------------------------------------\n\nAgents can write, send, update, analyze, check, and more.\n\n![Image 57: Chat with your data sources](https://bot-templates-hu3kingje.vercel.zapier-deployment.com/_next/static/media/1.93600f2c.png)\n\n### Query your data\n\nKnow in an instant. Ask agents to search and analyze data from a spreadsheet. Get answers about customer sentiment, order volume, or untapped leads.\n\n![Image 58: Automate customer follow-ups](https://bot-templates-hu3kingje.vercel.zapier-deployment.com/_next/static/media/2.36b6f880.png)\n\n### Follow up\n\nNudge things toward a resolution, automatically. Remind teams about deadlines, customers about invoices, or leads about offers. You can even teach your agent to stick to a script.\n\n![Image 59: Automate lead enrichment](https://bot-templates-hu3kingje.vercel.zapier-deployment.com/_next/static/media/3.f00da18f.png)\n\n### Learn about leads\n\nTeach agents to get background on new leads and keep you up-to-date. Enrich your leads, search the data, and act on it in a single workspace.\n\n![Image 60: Auto-draft messages in any app](https://bot-templates-hu3kingje.vercel.zapier-deployment.com/_next/static/media/4.d0112f19.png)\n\n### Draft responses\n\nLet your agent recommend the first reply using your style. Queue up messages for customer support, team communications, or consulting requests.\n\nNew to AI? You’re not alone.\n----------------------------\n\nHere are some answers to common questions we get about how AI works\n\nHow do I improve the reliability of AI agents?\n----------------------------------------------\n\nFollow a few of our [tips for writing an effective AI prompt](https://zapier.com/blog/ai-prompt/): include helpful information upfront, give examples, define the expected formats length of response, and give agents a role.\n\nWhat is an activity?\n--------------------\n\nEvery time your agent runs a behavior or instant action, we count that as an activity. Each run counts as one activity, no matter how many steps you use in the run. You can run up to 400 activities per month on a free plan, or up to 1,500  on a Premium plan. [If you need more activities, let's talk](https://central.zapier.app/sales).\n\nWhy don’t I get the same outcome from AI every time?\n----------------------------------------------------\n\nThat’s because of non-determinism. That’s the fancy term describing why AI agents will reply with different, but likely similar, answers to the same question. It’s a feature that’s core to Large Language Models (LLMs), and what makes LLMs different from computers, which will do the same thing every single time. It’s not a bug, it’s a feature!\n\nHow are activities counted for Zapier Team accounts?\n----------------------------------------------------\n\nIf you have a Team account on Zapier, your team shares a pool of Agents activities. For example, if you upgrade to a Premium plan for Agents, you can run up to 1,500 activities across all the agents your team creates.\n\nWhat app actions can agents perform on my behalf\n------------------------------------------------\n\nAgents can only take actions in the apps you’ve connected and use the triggers and actions you’ve set up. When configuring a behavior trigger or action field in Agents, you have the option to have the agent always use the same value, pick from a specific set of values, have it guess the value, or not set any value. To provide additional control, you can add more details to your behavior instructions.\n\nCan I use Agents with my Zapier Enterprise account?\n---------------------------------------------------\n\nNot out of the box. Agents doesn't currently support app and action restrictions that may be in place on an Enterprise account. If you’re on an Enterprise plan and would like to use Agents, please [reach out to us](https://central.zapier.app/contact-us).\n\nHow can I get access to Agents?\n-------------------------------\n\nAnyone can try Agents for free today by going to agents and logging in with your Zapier account. You can also sign up for a free Zapier account if you don’t already have one.\n\n[Sign up now](https://zapier.com/sign-up)\n\nHow can I provide feedback or report bugs?\n------------------------------------------\n\nThank you for helping us improve Agents! Use our [contact form](https://central.zapier.app/) to provide feedback, report bugs, or submit support requests. You can also join Zapier’s [Early Access Program](https://zapier.com/early-access) to get access to a Slack workspace to share feedback and discuss Agents with Zapier staff and other early adopters.\n\nWhat support is available during the Beta?\n------------------------------------------\n\nTo get support with Agents, please use [our contact form](https://central.zapier.app/). The team building Agents will handle support requests, as well as members of Zapier’s global support team.\n\nPlease note that because this is an early beta, we can't guarantee a response. Zapier is not currently providing support for Agents in the Zapier Community forums, though you are still welcome to post about Agents there.\n\nTeam up with your agent today\n-----------------------------\n\nZapier agents work across 7,000+ apps, even when you're away.",
+  "usage": {
+    "tokens": 1721
+  }
+}
+```

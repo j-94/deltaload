@@ -1,0 +1,35 @@
+Civitai - a Hugging Face Space by SenY
+===============
+
+[Spaces](https://huggingface.co/spaces) [![Image 3: Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/) 
+
+* * *
+
+[![Image 4](https://cdn-avatars.huggingface.co/v1/production/uploads/63d6dbcb44f1d8fbe58e4657/S5wVnyYTZly3BPxYM-SD4.jpeg)](https://huggingface.co/SenY)
+
+[SenY](https://huggingface.co/SenY)
+
+/
+
+[Civitai](https://huggingface.co/spaces/SenY/Civitai)
+
+like 6
+
+Runtime error
+
+
+==============================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+[App](https://huggingface.co/spaces/SenY/Civitai) [Files Files](https://huggingface.co/spaces/SenY/Civitai/tree/main) [Community](https://huggingface.co/spaces/SenY/Civitai/discussions)
+
+Fetching metadata from the HF Docker repository...
+
+runtime error
+=============
+
+Exit code: 128. Reason: failed to create containerd task: failed to create shim task: context canceled: unknown
+---------------------------------------------------------------------------------------------------------------
+
+Container logs:
+
+Fetching error logs...

@@ -1,0 +1,260 @@
+Gen AI Meets  
+Data Science
+---------------------------
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+[Join the waitlist](https://www.delphina.ai/#)
+
+We’re building an AI Data Scientist  
+to drive AI impact faster
+
+![Image 71](https://cdn.prod.website-files.com/654640d9d7d044d7a82ccaf1/6546b88ec7eeca03738de9dd_out%20of%20box%20image.svg)
+
+Delphina is driving business impact on
+--------------------------------------
+
+*   Dynamic pricing  
+    
+*   Underwriting prediction
+*   Churn prediction
+*   Demand forecasting  
+    
+*   Personalization
+
+Transformative data science means rapid cycles through:
+-------------------------------------------------------
+
+Delphina gives you tools for every step
+
+Give Delphina a prediction problem.
+
+It will discover relevant data, clean it, and build sophisticated transformations that separate the signal from the noise.
+
+\>\> Delphina has already been used by teams to build thousands of novel feature transformations on their raw data.
+
+![Image 72](https://cdn.prod.website-files.com/654640d9d7d044d7a82ccaf1/6553e6a2dc6c862a34747622_prep.svg)
+
+![Image 73](https://cdn.prod.website-files.com/654640d9d7d044d7a82ccaf1/6553e6e78d118ba8e5d94283_build.svg)
+
+Delphina builds powerful machine learning models that help you understand the present and predict the future.
+
+\>\> Delphina customers are often seeing double-digit percentage improvements in model performance.
+
+Delphina integrates with your existing MLOps stack and enables you to deploy pipelines without relying on partner teams.
+
+\>\> Delphina is currently delivering features to customers in Snowflake and BigQuery.
+
+![Image 74](https://cdn.prod.website-files.com/654640d9d7d044d7a82ccaf1/6547f29e0d1404495b9fb66d_Group%20122.svg)
+
+We integrate with the most common and important tools in your stack
+-------------------------------------------------------------------
+
+Our Mission:Unlock predictive AI for the world.
+
+
+-------------------------------------------------
+
+The name Delphina is inspired by the Oracle of Delphi, known for predicting the future.
+
+![Image 75](https://cdn.prod.website-files.com/654640d9d7d044d7a82ccaf1/6546bddc63b2e6622d05611d_Group%20121.svg)
+
+### Founders:
+
+![Image 76](https://cdn.prod.website-files.com/654806cb257c910f773474bc/676082ed495a13bdfd054501_Jeremy.webp)
+
+#### Jeremy Hermann
+
+[](https://www.linkedin.com/in/jeremyhermann/)
+
+Head of ML Platform at Uber, architect of Michelangelo. Co-founder of Tecton. Stanford.
+
+![Image 77](https://cdn.prod.website-files.com/654806cb257c910f773474bc/67608301d80bbe8e669eb610_Duncan.webp)
+
+#### Duncan Gilchrist
+
+[](https://www.linkedin.com/in/dsgilchrist/)
+
+Director of Data Science at Uber, VP Data Science & Engineering at Gopuff. PhD Harvard.
+
+### Team:
+
+![Image 78](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579dd7a3984e16c4902d214_65789b35f7174600e6b7f1f0_thomas_barthelemy.jpg)
+
+#### Thomas Barthelemy
+
+[](https://www.linkedin.com/in/thomas-barthelemy-52354611/)
+
+Software Engineering
+
+Staff Engineer at Coursera -- from 40 people to IPO at 1,000+. Betteromics. Stanford.
+
+![Image 79](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579dda1389fa9aac729b639_65789b51eb8da32f15d29264_pedro_olea.jpg)
+
+#### Pedro Olea
+
+[](https://www.linkedin.com/in/pedroolea/)
+
+Applied Science
+
+Head of Rider Pricing Science at Uber, Delivery Science at Gopuff. PhD Princeton.
+
+![Image 80](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579ddad3fcde13b8fdd9dea_65789bc89650366d3b1602e2_wei_hao.png)
+
+#### Wei Hao
+
+[](https://www.linkedin.com/in/weihao89/)
+
+Software Engineering
+
+Machine learning at Google, Facebook, Sisu. PhD Princeton.
+
+![Image 81](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579dd5ea35c539c41d3ebec_65789b476d1a88501eabcc56_sonya_berg.jpg)
+
+#### Sonya Berg
+
+[](https://www.linkedin.com/in/sonyaberg/)
+
+Applied Science
+
+Staff Applied Scientist at Uber; Stitch Fix. PhD UC Davis.
+
+![Image 82](https://cdn.prod.website-files.com/654806cb257c910f773474bc/659ed1c51dd968dff9909582_eric-qian_b.jpg)
+
+#### Eric Qian
+
+[](https://www.linkedin.com/in/eric-qian/)
+
+Software Engineering
+
+SWE at Scale AI, Facebook. MIT.
+
+![Image 83](https://cdn.prod.website-files.com/654806cb257c910f773474bc/661016a3e7559ec7105b0dec_sara.jpg)
+
+#### Sara Gates
+
+[](https://www.linkedin.com/in/skgates/)
+
+Content Advisor
+
+Monte Carlo, Mailchimp, Vacasa.
+
+![Image 84](https://cdn.prod.website-files.com/654806cb257c910f773474bc/661016b669b50f1f4bc9c933_wenbo.jpg)
+
+#### Wenbo Wang
+
+[](https://www.linkedin.com/in/wenbowang/)
+
+Design
+
+Product Designer at Databricks, Cloudera.
+
+![Image 85](https://cdn.prod.website-files.com/654806cb257c910f773474bc/661015b29e3960011cf1665a_priscilla.jpg)
+
+#### Priscilla Choi
+
+[](https://www.linkedin.com/in/priscilla-choi-1a98454a/)
+
+Operations
+
+Ops at Nuro, Salesforce.
+
+![Image 86](https://cdn.prod.website-files.com/654806cb257c910f773474bc/66101707e7559ec7105b6207_jason.jpg)
+
+#### Jason Xu
+
+[](https://www.linkedin.com/in/jasonxu321/)
+
+Software Engineering
+
+SWE at Scale AI, TruckSmarter. UCLA, Berkeley MSc.
+
+![Image 87](https://cdn.prod.website-files.com/654806cb257c910f773474bc/661e9e810c0f097a81177278_jack.jpg)
+
+#### Jack Zhao
+
+[](https://www.linkedin.com/in/yinzhao/)
+
+Software Engineering
+
+SWE at Meta, Grail, Betteromics. Waterloo.
+
+![Image 88](https://cdn.prod.website-files.com/654806cb257c910f773474bc/66ac2e75313a0d9cd7403f7b_hugo.jpg)
+
+#### Hugo Bowne-Anderson
+
+[](https://www.linkedin.com/in/hugo-bowne-anderson-045939a5/?originalSubdomain=au)
+
+Community Advisor
+
+Outerbounds, DataCamp, Yale. PhD UNSW.
+
+#### We're hiring!
+
+We have roles open across a range of functions - don’t hesitate to reach out.
+
+Investors:
+----------
+
+We’re backed by leading venture capital firms with exceptional depth in ML and AI.
+
+![Image 89](https://cdn.prod.website-files.com/654640d9d7d044d7a82ccaf1/6546998f571e21215b3ea5d9_Group%20113.svg)
+
+![Image 90](https://cdn.prod.website-files.com/654640d9d7d044d7a82ccaf1/6546998fba58cdd4e0e8defd_image%202%201.svg)
+
+Over 20 world-class angel investors believe in what we are building and its importance to the world, including:
+
+![Image 91](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579edc44132e267981f8dec_65528a4881ff99491064e72a_feifeili.jpg)
+
+#### Fei-Fei Li
+
+Sequoia Professor of Computer Science, Stanford
+
+![Image 92](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579edd5926d9012a2bbcf50_65528a7364210fa3ddd02cb3_Lukas_Biewald_Head_Shot-p-800.jpg)
+
+#### Lukas Biewald
+
+Co-Founder & CEO, Weights and Biases
+
+![Image 93](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579ede0f87bc607f25f9899_65528b036521f239af8b2e86_alirosenthal-p-800.jpg)
+
+#### Alison Rosenthal
+
+Founder of Leadout Capital, early Facebook
+
+![Image 94](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579edeb7660bffcb1c87744_65528b1cff13a027b2dd8855_george%20sivulka.jpg)
+
+#### George Sivulka
+
+Founder & CEO, Hebbia AI
+
+![Image 95](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579edfafd97c384ce33a574_65528c00dbdf4441e1ec9e29_rebecca%20Li.jpg)
+
+#### Rebecca Li
+
+Early Databricks
+
+![Image 96](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579edba7660bffcb1c85d75_65528c1fc45baf2ebf019ca5_Brad%20Klingenberg.jpg)
+
+#### Brad Klingenberg
+
+Former Chief Algorithms Officer at Stitch Fix
+
+![Image 97](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579edaefdaf9be5b9737d10_65528db142c27bd2ce3947fa_Guido%20Imbens.jpg)
+
+#### Guido Imbens
+
+Nobel Laureate, Stanford Professor
+
+![Image 98](https://cdn.prod.website-files.com/654806cb257c910f773474bc/6579eda7c300bd3d578ac1f4_65652d9310136b9cc4149129_jamesdyett.jpg)
+
+#### James Dyett
+
+GTM at OpenAI, early Stripe
+
+Thank you!  
+Your submission has been received!
+
+Oops! Something went wrong while submitting the form.

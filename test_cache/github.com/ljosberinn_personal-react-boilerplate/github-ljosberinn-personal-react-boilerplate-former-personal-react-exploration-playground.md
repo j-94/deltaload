@@ -1,0 +1,1300 @@
+---
+title: GitHub - ljosberinn/personal-react-boilerplate: former personal react exploration playground
+description: former personal react exploration playground. Contribute to ljosberinn/personal-react-boilerplate development by creating an account on GitHub.
+url: https://github.com/ljosberinn/personal-react-boilerplate
+timestamp: 2025-01-20T15:31:23.678Z
+domain: github.com
+path: ljosberinn_personal-react-boilerplate
+---
+
+# GitHub - ljosberinn/personal-react-boilerplate: former personal react exploration playground
+
+
+former personal react exploration playground. Contribute to ljosberinn/personal-react-boilerplate development by creating an account on GitHub.
+
+
+## Content
+
+GitHub - ljosberinn/personal-react-boilerplate: former personal react exploration playground
+===============
+                                           
+
+[Skip to content](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fljosberinn%2Fpersonal-react-boilerplate%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fljosberinn%2Fpersonal-react-boilerplate%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=ljosberinn%2Fpersonal-react-boilerplate) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+This repository has been archived by the owner on Apr 25, 2022. It is now read-only.
+
+[ljosberinn](https://github.com/ljosberinn) / **[personal-react-boilerplate](https://github.com/ljosberinn/personal-react-boilerplate)** Public archive
+
+*   [Notifications](https://github.com/login?return_to=%2Fljosberinn%2Fpersonal-react-boilerplate) You must be signed in to change notification settings
+*   [Fork 12](https://github.com/login?return_to=%2Fljosberinn%2Fpersonal-react-boilerplate)
+*   [Star 105](https://github.com/login?return_to=%2Fljosberinn%2Fpersonal-react-boilerplate)
+    
+
+former personal react exploration playground
+
+[personal-react-boilerplate.now.sh/](https://personal-react-boilerplate.now.sh/ "https://personal-react-boilerplate.now.sh/")
+
+### License
+
+[MIT license](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/LICENSE)
+
+[105 stars](https://github.com/ljosberinn/personal-react-boilerplate/stargazers) [12 forks](https://github.com/ljosberinn/personal-react-boilerplate/forks) [Branches](https://github.com/ljosberinn/personal-react-boilerplate/branches) [Tags](https://github.com/ljosberinn/personal-react-boilerplate/tags) [Activity](https://github.com/ljosberinn/personal-react-boilerplate/activity)
+
+[Star](https://github.com/login?return_to=%2Fljosberinn%2Fpersonal-react-boilerplate)
+
+[Notifications](https://github.com/login?return_to=%2Fljosberinn%2Fpersonal-react-boilerplate) You must be signed in to change notification settings
+
+*   [Code](https://github.com/ljosberinn/personal-react-boilerplate)
+*   [Issues 2](https://github.com/ljosberinn/personal-react-boilerplate/issues)
+*   [Pull requests 10](https://github.com/ljosberinn/personal-react-boilerplate/pulls)
+*   [Discussions](https://github.com/ljosberinn/personal-react-boilerplate/discussions)
+*   [Actions](https://github.com/ljosberinn/personal-react-boilerplate/actions)
+*   [Projects 0](https://github.com/ljosberinn/personal-react-boilerplate/projects)
+*   [Security](https://github.com/ljosberinn/personal-react-boilerplate/security)
+*   [Insights](https://github.com/ljosberinn/personal-react-boilerplate/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/ljosberinn/personal-react-boilerplate)
+*   [Issues](https://github.com/ljosberinn/personal-react-boilerplate/issues)
+*   [Pull requests](https://github.com/ljosberinn/personal-react-boilerplate/pulls)
+*   [Discussions](https://github.com/ljosberinn/personal-react-boilerplate/discussions)
+*   [Actions](https://github.com/ljosberinn/personal-react-boilerplate/actions)
+*   [Projects](https://github.com/ljosberinn/personal-react-boilerplate/projects)
+*   [Security](https://github.com/ljosberinn/personal-react-boilerplate/security)
+*   [Insights](https://github.com/ljosberinn/personal-react-boilerplate/pulse)
+
+ljosberinn/personal-react-boilerplate
+=====================================
+
+  
+
+ master
+
+[**12** Branches](https://github.com/ljosberinn/personal-react-boilerplate/branches)[**0** Tags](https://github.com/ljosberinn/personal-react-boilerplate/tags)
+
+[](https://github.com/ljosberinn/personal-react-boilerplate/branches)[](https://github.com/ljosberinn/personal-react-boilerplate/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 11: ljosberinn](https://avatars.githubusercontent.com/u/29307652?v=4&size=40)](https://github.com/ljosberinn)[ljosberinn](https://github.com/ljosberinn/personal-react-boilerplate/commits?author=ljosberinn)
+
+[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a)
+
+Apr 12, 2022
+
+[f0de0b1](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a) · Apr 12, 2022
+
+History
+-------
+
+[3,151 Commits](https://github.com/ljosberinn/personal-react-boilerplate/commits/master/)
+
+[](https://github.com/ljosberinn/personal-react-boilerplate/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[Merge pull request](https://github.com/ljosberinn/personal-react-boilerplate/commit/a22ae92269f627456fdaad63e8ed227dc9c76ce0 "Merge pull request #1499 from ljosberinn/renovate/actions-setup-node-3.x
+chore(deps): update actions/setup-node action to v3") [#1499](https://github.com/ljosberinn/personal-react-boilerplate/pull/1499) [from ljosberinn/renovate/actions-setup-node-3.x](https://github.com/ljosberinn/personal-react-boilerplate/commit/a22ae92269f627456fdaad63e8ed227dc9c76ce0 "Merge pull request #1499 from ljosberinn/renovate/actions-setup-node-3.x
+chore(deps): update actions/setup-node action to v3")
+
+
+
+ | 
+
+Mar 28, 2022
+
+ |
+| 
+
+[.husky](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+[.husky](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.husky ".husky")
+
+
+
+
+
+
+
+ | 
+
+[fix(deps): upgrade to husky 5](https://github.com/ljosberinn/personal-react-boilerplate/commit/0eb04be746326d69556e256e06a8dafc5aa35ca3 "fix(deps): upgrade to husky 5")
+
+
+
+ | 
+
+Mar 25, 2021
+
+ |
+| 
+
+[.vscode](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[.vscode](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/3cf20076792fa4d0f02db454b28c9a2352bbe8d0 "chore: deps")
+
+
+
+ | 
+
+Dec 10, 2020
+
+ |
+| 
+
+[locales](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/locales "locales")
+
+
+
+
+
+
+
+ | 
+
+[locales](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/locales "locales")
+
+
+
+
+
+
+
+ | 
+
+[fix(tests): a11y](https://github.com/ljosberinn/personal-react-boilerplate/commit/4b4e124acf1fcf61311ec7aecf811e37a25cae14 "fix(tests): a11y")
+
+
+
+ | 
+
+May 4, 2021
+
+ |
+| 
+
+[public](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/public "public")
+
+
+
+
+
+
+
+ | 
+
+[public](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/public "public")
+
+
+
+
+
+
+
+ | 
+
+[refactor: move i18n data into toplevel locales](https://github.com/ljosberinn/personal-react-boilerplate/commit/79326c692f962cac34bdbad920aef32943498f6b "refactor: move i18n data into toplevel locales")
+
+
+
+ | 
+
+Oct 10, 2020
+
+ |
+| 
+
+[scripts/jest](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/scripts/jest "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[scripts/jest](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/scripts/jest "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[refactor(components): drop support for "as" on InternalLink](https://github.com/ljosberinn/personal-react-boilerplate/commit/a6d0e2f63ca8d8cf402c442232497038ab290c3c "refactor(components): drop support for \"as\" on InternalLink")
+
+
+
+ | 
+
+Oct 18, 2020
+
+ |
+| 
+
+[src](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a "chore: deps")
+
+
+
+ | 
+
+Apr 12, 2022
+
+ |
+| 
+
+[testUtils](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/testUtils "testUtils")
+
+
+
+
+
+
+
+ | 
+
+[testUtils](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/testUtils "testUtils")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a "chore: deps")
+
+
+
+ | 
+
+Apr 12, 2022
+
+ |
+| 
+
+[.codeclimate.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.codeclimate.json ".codeclimate.json")
+
+
+
+
+
+
+
+ | 
+
+[.codeclimate.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.codeclimate.json ".codeclimate.json")
+
+
+
+
+
+
+
+ | 
+
+[fix: codeclimate](https://github.com/ljosberinn/personal-react-boilerplate/commit/bd7f52437bfb1358e43c74b99c949a13c2c4c7ca "fix: codeclimate
+- disable git-legal
+- add config to exclude pattern")
+
+
+
+ | 
+
+May 18, 2020
+
+ |
+| 
+
+[.env.example](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.env.example ".env.example")
+
+
+
+
+
+
+
+ | 
+
+[.env.example](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.env.example ".env.example")
+
+
+
+
+
+
+
+ | 
+
+[refactor](https://github.com/ljosberinn/personal-react-boilerplate/commit/9c235006fdbe56b0af132a02ad496a3a0d2e7ca8 "refactor
+- update to canary to test linting (blocked by https://github.com/vercel/next.js/issues/23372)
+- updated sentry integration to reflect official example
+- fixed a bug in WebShareButton
+- stopped caching localhost via serviceWorker")
+
+
+
+ | 
+
+Mar 25, 2021
+
+ |
+| 
+
+[.eslintignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[.eslintignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.eslintignore ".eslintignore")
+
+
+
+
+
+
+
+ | 
+
+[chore: misc](https://github.com/ljosberinn/personal-react-boilerplate/commit/af3da6f97af7b4d46c8275c288cce7656f3b3e49 "chore: misc
+- rename i18n to i18next
+- add test:watch
+- add folders to ignorefiles")
+
+
+
+ | 
+
+Aug 25, 2020
+
+ |
+| 
+
+[.eslintrc.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.eslintrc.js ".eslintrc.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/87f2975e879a01327b24177815fe15a64ba284ff "chore: deps")
+
+
+
+ | 
+
+Mar 15, 2021
+
+ |
+| 
+
+[.gitignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps & linting](https://github.com/ljosberinn/personal-react-boilerplate/commit/fc5b9c757d26442897093e518979e333a8566184 "chore: deps & linting")
+
+
+
+ | 
+
+Dec 23, 2021
+
+ |
+| 
+
+[.npmrc](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[.npmrc](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/5a0de424f8f5d2cab501d24df1759433713007c6 "chore: deps")
+
+
+
+ | 
+
+Oct 30, 2021
+
+ |
+| 
+
+[.prettierignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[chore: misc](https://github.com/ljosberinn/personal-react-boilerplate/commit/af3da6f97af7b4d46c8275c288cce7656f3b3e49 "chore: misc
+- rename i18n to i18next
+- add test:watch
+- add folders to ignorefiles")
+
+
+
+ | 
+
+Aug 25, 2020
+
+ |
+| 
+
+[.prettierrc](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.prettierrc ".prettierrc")
+
+
+
+
+
+
+
+ | 
+
+[refactor: inline configs where possible](https://github.com/ljosberinn/personal-react-boilerplate/commit/45a4badd7878b0b2599ce02b8337c3a023664c41 "refactor: inline configs where possible")
+
+
+
+ | 
+
+Aug 21, 2020
+
+ |
+| 
+
+[.vercelignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.vercelignore ".vercelignore")
+
+
+
+
+
+
+
+ | 
+
+[.vercelignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.vercelignore ".vercelignore")
+
+
+
+
+
+
+
+ | 
+
+[chore: lint preparation for v1](https://github.com/ljosberinn/personal-react-boilerplate/commit/ba4a94728adc248c768543b8053fae54aad74a1c "chore: lint preparation for v1
+- use frozenLockfile on ci action")
+
+
+
+ | 
+
+Aug 29, 2020
+
+ |
+| 
+
+[CONTRIBUTING.MD](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/CONTRIBUTING.MD "CONTRIBUTING.MD")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.MD](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/CONTRIBUTING.MD "CONTRIBUTING.MD")
+
+
+
+
+
+
+
+ | 
+
+[chore: misc](https://github.com/ljosberinn/personal-react-boilerplate/commit/af3da6f97af7b4d46c8275c288cce7656f3b3e49 "chore: misc
+- rename i18n to i18next
+- add test:watch
+- add folders to ignorefiles")
+
+
+
+ | 
+
+Aug 25, 2020
+
+ |
+| 
+
+[LICENSE](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Create License](https://github.com/ljosberinn/personal-react-boilerplate/commit/5a21e5d685a8182cceccd29c22f669e33d661a6a "Create License")
+
+
+
+ | 
+
+Mar 4, 2020
+
+ |
+| 
+
+[README.md](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: update readme](https://github.com/ljosberinn/personal-react-boilerplate/commit/b340c8c4deb7c35b5bf9237743bb2e0b9a9ede9e "chore: update readme")
+
+
+
+ | 
+
+Oct 18, 2020
+
+ |
+| 
+
+[fix-react-package-json.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/fix-react-package-json.js "fix-react-package-json.js")
+
+
+
+
+
+
+
+ | 
+
+[fix-react-package-json.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/fix-react-package-json.js "fix-react-package-json.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps & linting](https://github.com/ljosberinn/personal-react-boilerplate/commit/fc5b9c757d26442897093e518979e333a8566184 "chore: deps & linting")
+
+
+
+ | 
+
+Dec 23, 2021
+
+ |
+| 
+
+[next-env.d.ts](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next-env.d.ts "next-env.d.ts")
+
+
+
+
+
+
+
+ | 
+
+[next-env.d.ts](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next-env.d.ts "next-env.d.ts")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps & linting](https://github.com/ljosberinn/personal-react-boilerplate/commit/fc5b9c757d26442897093e518979e333a8566184 "chore: deps & linting")
+
+
+
+ | 
+
+Dec 23, 2021
+
+ |
+| 
+
+[next-karma.svg](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next-karma.svg "next-karma.svg")
+
+
+
+
+
+
+
+ | 
+
+[next-karma.svg](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next-karma.svg "next-karma.svg")
+
+
+
+
+
+
+
+ | 
+
+[\[ImgBot\] Optimize images](https://github.com/ljosberinn/personal-react-boilerplate/commit/b77a859939f397f4551bf7b7cfe2a8504bc9d280 "[ImgBot] Optimize images
+*Total -- 121.07kb -> 91.73kb (24.24%)
+/public/apple-touch-icon.png -- 15.58kb -> 10.56kb (32.23%)
+/public/android-chrome-192x192.png -- 16.53kb -> 11.27kb (31.85%)
+/public/mstile-150x150.png -- 8.87kb -> 6.22kb (29.83%)
+/public/android-chrome-512x512.png -- 68.66kb -> 52.45kb (23.61%)
+/public/safari-pinned-tab.svg -- 6.46kb -> 6.27kb (2.93%)
+/next-karma.svg -- 4.98kb -> 4.97kb (0.29%)
+Signed-off-by: ImgBotApp <ImgBotHelp@gmail.com>")
+
+
+
+ | 
+
+Jul 12, 2020
+
+ |
+| 
+
+[next.config.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next.config.js "next.config.js")
+
+
+
+
+
+
+
+ | 
+
+[next.config.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next.config.js "next.config.js")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps & linting](https://github.com/ljosberinn/personal-react-boilerplate/commit/fc5b9c757d26442897093e518979e333a8566184 "chore: deps & linting")
+
+
+
+ | 
+
+Dec 23, 2021
+
+ |
+| 
+
+[package.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a "chore: deps")
+
+
+
+ | 
+
+Apr 12, 2022
+
+ |
+| 
+
+[renovate.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/renovate.json "renovate.json")
+
+
+
+
+
+
+
+ | 
+
+[renovate.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/renovate.json "renovate.json")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps - move from dependabot to renovatebot](https://github.com/ljosberinn/personal-react-boilerplate/commit/074a745b641514f991eea71aa8551cc9b60a25a7 "chore: deps - move from dependabot to renovatebot")
+
+
+
+ | 
+
+Aug 25, 2020
+
+ |
+| 
+
+[tsconfig.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/5a0de424f8f5d2cab501d24df1759433713007c6 "chore: deps")
+
+
+
+ | 
+
+Oct 30, 2021
+
+ |
+| 
+
+[vercel.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/vercel.json "vercel.json")
+
+
+
+
+
+
+
+ | 
+
+[vercel.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/vercel.json "vercel.json")
+
+
+
+
+
+
+
+ | 
+
+[fix(ci): lighthouse action](https://github.com/ljosberinn/personal-react-boilerplate/commit/f2395cd9e4826da6244173b4c1018604624e1c05 "fix(ci): lighthouse action")
+
+
+
+ | 
+
+Aug 28, 2020
+
+ |
+| 
+
+[yarn.lock](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a "chore: deps")
+
+
+
+ | 
+
+Apr 12, 2022
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#)
+*   [Code of conduct](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#)
+*   [MIT license](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#)
+
+Batteries-included Next.js template.
+====================================
+
+[](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#batteries-included-nextjs-template)
+
+A proper readme will follow.
+
+[![Image 12: Maintainability](https://camo.githubusercontent.com/ace9ea2c9e9d62c14371ba58e703371c31d871fce63b0baa46f0c2ea3a6151df/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f38663365626337323030353463343433666164322f6d61696e7461696e6162696c697479)](https://codeclimate.com/github/ljosberinn/personal-react-boilerplate/maintainability)
+
+[![Image 13: Test Coverage](https://camo.githubusercontent.com/f94614628144cf02ad5030e6f9af3ed83504ebcdc78ccb6164fc93aee2dd6e75/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f38663365626337323030353463343433666164322f746573745f636f766572616765)](https://codeclimate.com/github/ljosberinn/personal-react-boilerplate/test_coverage)
+
+Similar approaches
+==================
+
+[](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#similar-approaches)
+
+*   [Blitz.js](https://blitzjs.com/)
+*   [Bison](https://github.com/echobind/bisonapp)
+*   [next-right-now](https://github.com/UnlyEd/next-right-now/)
+*   [RedwoodJS](https://redwoodjs.com/)
+
+About
+-----
+
+former personal react exploration playground
+
+[personal-react-boilerplate.now.sh/](https://personal-react-boilerplate.now.sh/ "https://personal-react-boilerplate.now.sh/")
+
+### Resources
+
+[Readme](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#MIT-1-ov-file)
+
+### Code of conduct
+
+[Code of conduct](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#coc-ov-file)
+
+[Activity](https://github.com/ljosberinn/personal-react-boilerplate/activity)
+
+### Stars
+
+[**105** stars](https://github.com/ljosberinn/personal-react-boilerplate/stargazers)
+
+### Watchers
+
+[**5** watching](https://github.com/ljosberinn/personal-react-boilerplate/watchers)
+
+### Forks
+
+[**12** forks](https://github.com/ljosberinn/personal-react-boilerplate/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fljosberinn%2Fpersonal-react-boilerplate&report=ljosberinn+%28user%29)
+
+[Contributors 7](https://github.com/ljosberinn/personal-react-boilerplate/graphs/contributors)
+----------------------------------------------------------------------------------------------
+
+*   [![Image 14: @ljosberinn](https://avatars.githubusercontent.com/u/29307652?s=64&v=4)](https://github.com/ljosberinn)
+*   [![Image 15: @renovate-bot](https://avatars.githubusercontent.com/u/25180681?s=64&v=4)](https://github.com/renovate-bot)
+*   [![Image 16: @dependabot-preview[bot]](https://avatars.githubusercontent.com/in/2141?s=64&v=4)](https://github.com/apps/dependabot-preview)
+*   [![Image 17: @mergify[bot]](https://avatars.githubusercontent.com/in/10562?s=64&v=4)](https://github.com/apps/mergify)
+*   [![Image 18: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 19: @ImgBotApp](https://avatars.githubusercontent.com/u/31427850?s=64&v=4)](https://github.com/ImgBotApp)
+*   [![Image 20: @imgbot[bot]](https://avatars.githubusercontent.com/in/4706?s=64&v=4)](https://github.com/apps/imgbot)
+
+Languages
+---------
+
+*   [TypeScript 97.0%](https://github.com/ljosberinn/personal-react-boilerplate/search?l=typescript)
+*   [JavaScript 2.8%](https://github.com/ljosberinn/personal-react-boilerplate/search?l=javascript)
+*   [Shell 0.2%](https://github.com/ljosberinn/personal-react-boilerplate/search?l=shell)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - ljosberinn/personal-react-boilerplate: former personal react exploration playground",
+  "description": "former personal react exploration playground. Contribute to ljosberinn/personal-react-boilerplate development by creating an account on GitHub.",
+  "url": "https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true",
+  "content": "GitHub - ljosberinn/personal-react-boilerplate: former personal react exploration playground\n===============\n                                           \n\n[Skip to content](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fljosberinn%2Fpersonal-react-boilerplate%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fljosberinn%2Fpersonal-react-boilerplate%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=ljosberinn%2Fpersonal-react-boilerplate) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\nThis repository has been archived by the owner on Apr 25, 2022. It is now read-only.\n\n[ljosberinn](https://github.com/ljosberinn) / **[personal-react-boilerplate](https://github.com/ljosberinn/personal-react-boilerplate)** Public archive\n\n*   [Notifications](https://github.com/login?return_to=%2Fljosberinn%2Fpersonal-react-boilerplate) You must be signed in to change notification settings\n*   [Fork 12](https://github.com/login?return_to=%2Fljosberinn%2Fpersonal-react-boilerplate)\n*   [Star 105](https://github.com/login?return_to=%2Fljosberinn%2Fpersonal-react-boilerplate)\n    \n\nformer personal react exploration playground\n\n[personal-react-boilerplate.now.sh/](https://personal-react-boilerplate.now.sh/ \"https://personal-react-boilerplate.now.sh/\")\n\n### License\n\n[MIT license](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/LICENSE)\n\n[105 stars](https://github.com/ljosberinn/personal-react-boilerplate/stargazers) [12 forks](https://github.com/ljosberinn/personal-react-boilerplate/forks) [Branches](https://github.com/ljosberinn/personal-react-boilerplate/branches) [Tags](https://github.com/ljosberinn/personal-react-boilerplate/tags) [Activity](https://github.com/ljosberinn/personal-react-boilerplate/activity)\n\n[Star](https://github.com/login?return_to=%2Fljosberinn%2Fpersonal-react-boilerplate)\n\n[Notifications](https://github.com/login?return_to=%2Fljosberinn%2Fpersonal-react-boilerplate) You must be signed in to change notification settings\n\n*   [Code](https://github.com/ljosberinn/personal-react-boilerplate)\n*   [Issues 2](https://github.com/ljosberinn/personal-react-boilerplate/issues)\n*   [Pull requests 10](https://github.com/ljosberinn/personal-react-boilerplate/pulls)\n*   [Discussions](https://github.com/ljosberinn/personal-react-boilerplate/discussions)\n*   [Actions](https://github.com/ljosberinn/personal-react-boilerplate/actions)\n*   [Projects 0](https://github.com/ljosberinn/personal-react-boilerplate/projects)\n*   [Security](https://github.com/ljosberinn/personal-react-boilerplate/security)\n*   [Insights](https://github.com/ljosberinn/personal-react-boilerplate/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/ljosberinn/personal-react-boilerplate)\n*   [Issues](https://github.com/ljosberinn/personal-react-boilerplate/issues)\n*   [Pull requests](https://github.com/ljosberinn/personal-react-boilerplate/pulls)\n*   [Discussions](https://github.com/ljosberinn/personal-react-boilerplate/discussions)\n*   [Actions](https://github.com/ljosberinn/personal-react-boilerplate/actions)\n*   [Projects](https://github.com/ljosberinn/personal-react-boilerplate/projects)\n*   [Security](https://github.com/ljosberinn/personal-react-boilerplate/security)\n*   [Insights](https://github.com/ljosberinn/personal-react-boilerplate/pulse)\n\nljosberinn/personal-react-boilerplate\n=====================================\n\n  \n\n master\n\n[**12** Branches](https://github.com/ljosberinn/personal-react-boilerplate/branches)[**0** Tags](https://github.com/ljosberinn/personal-react-boilerplate/tags)\n\n[](https://github.com/ljosberinn/personal-react-boilerplate/branches)[](https://github.com/ljosberinn/personal-react-boilerplate/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 11: ljosberinn](https://avatars.githubusercontent.com/u/29307652?v=4&size=40)](https://github.com/ljosberinn)[ljosberinn](https://github.com/ljosberinn/personal-react-boilerplate/commits?author=ljosberinn)\n\n[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a)\n\nApr 12, 2022\n\n[f0de0b1](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a) · Apr 12, 2022\n\nHistory\n-------\n\n[3,151 Commits](https://github.com/ljosberinn/personal-react-boilerplate/commits/master/)\n\n[](https://github.com/ljosberinn/personal-react-boilerplate/commits/master/)\n\n\n\n\n\n\n\n |\n| \n\n[.github](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[.github](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[Merge pull request](https://github.com/ljosberinn/personal-react-boilerplate/commit/a22ae92269f627456fdaad63e8ed227dc9c76ce0 \"Merge pull request #1499 from ljosberinn/renovate/actions-setup-node-3.x\nchore(deps): update actions/setup-node action to v3\") [#1499](https://github.com/ljosberinn/personal-react-boilerplate/pull/1499) [from ljosberinn/renovate/actions-setup-node-3.x](https://github.com/ljosberinn/personal-react-boilerplate/commit/a22ae92269f627456fdaad63e8ed227dc9c76ce0 \"Merge pull request #1499 from ljosberinn/renovate/actions-setup-node-3.x\nchore(deps): update actions/setup-node action to v3\")\n\n\n\n | \n\nMar 28, 2022\n\n |\n| \n\n[.husky](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.husky \".husky\")\n\n\n\n\n\n\n\n | \n\n[.husky](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.husky \".husky\")\n\n\n\n\n\n\n\n | \n\n[fix(deps): upgrade to husky 5](https://github.com/ljosberinn/personal-react-boilerplate/commit/0eb04be746326d69556e256e06a8dafc5aa35ca3 \"fix(deps): upgrade to husky 5\")\n\n\n\n | \n\nMar 25, 2021\n\n |\n| \n\n[.vscode](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.vscode \".vscode\")\n\n\n\n\n\n\n\n | \n\n[.vscode](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/.vscode \".vscode\")\n\n\n\n\n\n\n\n | \n\n[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/3cf20076792fa4d0f02db454b28c9a2352bbe8d0 \"chore: deps\")\n\n\n\n | \n\nDec 10, 2020\n\n |\n| \n\n[locales](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/locales \"locales\")\n\n\n\n\n\n\n\n | \n\n[locales](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/locales \"locales\")\n\n\n\n\n\n\n\n | \n\n[fix(tests): a11y](https://github.com/ljosberinn/personal-react-boilerplate/commit/4b4e124acf1fcf61311ec7aecf811e37a25cae14 \"fix(tests): a11y\")\n\n\n\n | \n\nMay 4, 2021\n\n |\n| \n\n[public](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/public \"public\")\n\n\n\n\n\n\n\n | \n\n[public](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/public \"public\")\n\n\n\n\n\n\n\n | \n\n[refactor: move i18n data into toplevel locales](https://github.com/ljosberinn/personal-react-boilerplate/commit/79326c692f962cac34bdbad920aef32943498f6b \"refactor: move i18n data into toplevel locales\")\n\n\n\n | \n\nOct 10, 2020\n\n |\n| \n\n[scripts/jest](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/scripts/jest \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[scripts/jest](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/scripts/jest \"This path skips through empty directories\")\n\n\n\n\n\n\n\n | \n\n[refactor(components): drop support for \"as\" on InternalLink](https://github.com/ljosberinn/personal-react-boilerplate/commit/a6d0e2f63ca8d8cf402c442232497038ab290c3c \"refactor(components): drop support for \\\"as\\\" on InternalLink\")\n\n\n\n | \n\nOct 18, 2020\n\n |\n| \n\n[src](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/src \"src\")\n\n\n\n\n\n\n\n | \n\n[src](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/src \"src\")\n\n\n\n\n\n\n\n | \n\n[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a \"chore: deps\")\n\n\n\n | \n\nApr 12, 2022\n\n |\n| \n\n[testUtils](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/testUtils \"testUtils\")\n\n\n\n\n\n\n\n | \n\n[testUtils](https://github.com/ljosberinn/personal-react-boilerplate/tree/master/testUtils \"testUtils\")\n\n\n\n\n\n\n\n | \n\n[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a \"chore: deps\")\n\n\n\n | \n\nApr 12, 2022\n\n |\n| \n\n[.codeclimate.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.codeclimate.json \".codeclimate.json\")\n\n\n\n\n\n\n\n | \n\n[.codeclimate.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.codeclimate.json \".codeclimate.json\")\n\n\n\n\n\n\n\n | \n\n[fix: codeclimate](https://github.com/ljosberinn/personal-react-boilerplate/commit/bd7f52437bfb1358e43c74b99c949a13c2c4c7ca \"fix: codeclimate\n- disable git-legal\n- add config to exclude pattern\")\n\n\n\n | \n\nMay 18, 2020\n\n |\n| \n\n[.env.example](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.env.example \".env.example\")\n\n\n\n\n\n\n\n | \n\n[.env.example](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.env.example \".env.example\")\n\n\n\n\n\n\n\n | \n\n[refactor](https://github.com/ljosberinn/personal-react-boilerplate/commit/9c235006fdbe56b0af132a02ad496a3a0d2e7ca8 \"refactor\n- update to canary to test linting (blocked by https://github.com/vercel/next.js/issues/23372)\n- updated sentry integration to reflect official example\n- fixed a bug in WebShareButton\n- stopped caching localhost via serviceWorker\")\n\n\n\n | \n\nMar 25, 2021\n\n |\n| \n\n[.eslintignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.eslintignore \".eslintignore\")\n\n\n\n\n\n\n\n | \n\n[.eslintignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.eslintignore \".eslintignore\")\n\n\n\n\n\n\n\n | \n\n[chore: misc](https://github.com/ljosberinn/personal-react-boilerplate/commit/af3da6f97af7b4d46c8275c288cce7656f3b3e49 \"chore: misc\n- rename i18n to i18next\n- add test:watch\n- add folders to ignorefiles\")\n\n\n\n | \n\nAug 25, 2020\n\n |\n| \n\n[.eslintrc.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.eslintrc.js \".eslintrc.js\")\n\n\n\n\n\n\n\n | \n\n[.eslintrc.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.eslintrc.js \".eslintrc.js\")\n\n\n\n\n\n\n\n | \n\n[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/87f2975e879a01327b24177815fe15a64ba284ff \"chore: deps\")\n\n\n\n | \n\nMar 15, 2021\n\n |\n| \n\n[.gitignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[chore: deps & linting](https://github.com/ljosberinn/personal-react-boilerplate/commit/fc5b9c757d26442897093e518979e333a8566184 \"chore: deps & linting\")\n\n\n\n | \n\nDec 23, 2021\n\n |\n| \n\n[.npmrc](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.npmrc \".npmrc\")\n\n\n\n\n\n\n\n | \n\n[.npmrc](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.npmrc \".npmrc\")\n\n\n\n\n\n\n\n | \n\n[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/5a0de424f8f5d2cab501d24df1759433713007c6 \"chore: deps\")\n\n\n\n | \n\nOct 30, 2021\n\n |\n| \n\n[.prettierignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.prettierignore \".prettierignore\")\n\n\n\n\n\n\n\n | \n\n[.prettierignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.prettierignore \".prettierignore\")\n\n\n\n\n\n\n\n | \n\n[chore: misc](https://github.com/ljosberinn/personal-react-boilerplate/commit/af3da6f97af7b4d46c8275c288cce7656f3b3e49 \"chore: misc\n- rename i18n to i18next\n- add test:watch\n- add folders to ignorefiles\")\n\n\n\n | \n\nAug 25, 2020\n\n |\n| \n\n[.prettierrc](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.prettierrc \".prettierrc\")\n\n\n\n\n\n\n\n | \n\n[.prettierrc](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.prettierrc \".prettierrc\")\n\n\n\n\n\n\n\n | \n\n[refactor: inline configs where possible](https://github.com/ljosberinn/personal-react-boilerplate/commit/45a4badd7878b0b2599ce02b8337c3a023664c41 \"refactor: inline configs where possible\")\n\n\n\n | \n\nAug 21, 2020\n\n |\n| \n\n[.vercelignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.vercelignore \".vercelignore\")\n\n\n\n\n\n\n\n | \n\n[.vercelignore](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/.vercelignore \".vercelignore\")\n\n\n\n\n\n\n\n | \n\n[chore: lint preparation for v1](https://github.com/ljosberinn/personal-react-boilerplate/commit/ba4a94728adc248c768543b8053fae54aad74a1c \"chore: lint preparation for v1\n- use frozenLockfile on ci action\")\n\n\n\n | \n\nAug 29, 2020\n\n |\n| \n\n[CONTRIBUTING.MD](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/CONTRIBUTING.MD \"CONTRIBUTING.MD\")\n\n\n\n\n\n\n\n | \n\n[CONTRIBUTING.MD](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/CONTRIBUTING.MD \"CONTRIBUTING.MD\")\n\n\n\n\n\n\n\n | \n\n[chore: misc](https://github.com/ljosberinn/personal-react-boilerplate/commit/af3da6f97af7b4d46c8275c288cce7656f3b3e49 \"chore: misc\n- rename i18n to i18next\n- add test:watch\n- add folders to ignorefiles\")\n\n\n\n | \n\nAug 25, 2020\n\n |\n| \n\n[LICENSE](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[LICENSE](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[Create License](https://github.com/ljosberinn/personal-react-boilerplate/commit/5a21e5d685a8182cceccd29c22f669e33d661a6a \"Create License\")\n\n\n\n | \n\nMar 4, 2020\n\n |\n| \n\n[README.md](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[chore: update readme](https://github.com/ljosberinn/personal-react-boilerplate/commit/b340c8c4deb7c35b5bf9237743bb2e0b9a9ede9e \"chore: update readme\")\n\n\n\n | \n\nOct 18, 2020\n\n |\n| \n\n[fix-react-package-json.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/fix-react-package-json.js \"fix-react-package-json.js\")\n\n\n\n\n\n\n\n | \n\n[fix-react-package-json.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/fix-react-package-json.js \"fix-react-package-json.js\")\n\n\n\n\n\n\n\n | \n\n[chore: deps & linting](https://github.com/ljosberinn/personal-react-boilerplate/commit/fc5b9c757d26442897093e518979e333a8566184 \"chore: deps & linting\")\n\n\n\n | \n\nDec 23, 2021\n\n |\n| \n\n[next-env.d.ts](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next-env.d.ts \"next-env.d.ts\")\n\n\n\n\n\n\n\n | \n\n[next-env.d.ts](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next-env.d.ts \"next-env.d.ts\")\n\n\n\n\n\n\n\n | \n\n[chore: deps & linting](https://github.com/ljosberinn/personal-react-boilerplate/commit/fc5b9c757d26442897093e518979e333a8566184 \"chore: deps & linting\")\n\n\n\n | \n\nDec 23, 2021\n\n |\n| \n\n[next-karma.svg](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next-karma.svg \"next-karma.svg\")\n\n\n\n\n\n\n\n | \n\n[next-karma.svg](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next-karma.svg \"next-karma.svg\")\n\n\n\n\n\n\n\n | \n\n[\\[ImgBot\\] Optimize images](https://github.com/ljosberinn/personal-react-boilerplate/commit/b77a859939f397f4551bf7b7cfe2a8504bc9d280 \"[ImgBot] Optimize images\n*Total -- 121.07kb -> 91.73kb (24.24%)\n/public/apple-touch-icon.png -- 15.58kb -> 10.56kb (32.23%)\n/public/android-chrome-192x192.png -- 16.53kb -> 11.27kb (31.85%)\n/public/mstile-150x150.png -- 8.87kb -> 6.22kb (29.83%)\n/public/android-chrome-512x512.png -- 68.66kb -> 52.45kb (23.61%)\n/public/safari-pinned-tab.svg -- 6.46kb -> 6.27kb (2.93%)\n/next-karma.svg -- 4.98kb -> 4.97kb (0.29%)\nSigned-off-by: ImgBotApp <ImgBotHelp@gmail.com>\")\n\n\n\n | \n\nJul 12, 2020\n\n |\n| \n\n[next.config.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next.config.js \"next.config.js\")\n\n\n\n\n\n\n\n | \n\n[next.config.js](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/next.config.js \"next.config.js\")\n\n\n\n\n\n\n\n | \n\n[chore: deps & linting](https://github.com/ljosberinn/personal-react-boilerplate/commit/fc5b9c757d26442897093e518979e333a8566184 \"chore: deps & linting\")\n\n\n\n | \n\nDec 23, 2021\n\n |\n| \n\n[package.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[package.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/package.json \"package.json\")\n\n\n\n\n\n\n\n | \n\n[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a \"chore: deps\")\n\n\n\n | \n\nApr 12, 2022\n\n |\n| \n\n[renovate.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/renovate.json \"renovate.json\")\n\n\n\n\n\n\n\n | \n\n[renovate.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/renovate.json \"renovate.json\")\n\n\n\n\n\n\n\n | \n\n[chore: deps - move from dependabot to renovatebot](https://github.com/ljosberinn/personal-react-boilerplate/commit/074a745b641514f991eea71aa8551cc9b60a25a7 \"chore: deps - move from dependabot to renovatebot\")\n\n\n\n | \n\nAug 25, 2020\n\n |\n| \n\n[tsconfig.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/tsconfig.json \"tsconfig.json\")\n\n\n\n\n\n\n\n | \n\n[tsconfig.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/tsconfig.json \"tsconfig.json\")\n\n\n\n\n\n\n\n | \n\n[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/5a0de424f8f5d2cab501d24df1759433713007c6 \"chore: deps\")\n\n\n\n | \n\nOct 30, 2021\n\n |\n| \n\n[vercel.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/vercel.json \"vercel.json\")\n\n\n\n\n\n\n\n | \n\n[vercel.json](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/vercel.json \"vercel.json\")\n\n\n\n\n\n\n\n | \n\n[fix(ci): lighthouse action](https://github.com/ljosberinn/personal-react-boilerplate/commit/f2395cd9e4826da6244173b4c1018604624e1c05 \"fix(ci): lighthouse action\")\n\n\n\n | \n\nAug 28, 2020\n\n |\n| \n\n[yarn.lock](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[yarn.lock](https://github.com/ljosberinn/personal-react-boilerplate/blob/master/yarn.lock \"yarn.lock\")\n\n\n\n\n\n\n\n | \n\n[chore: deps](https://github.com/ljosberinn/personal-react-boilerplate/commit/f0de0b100fc95cccc1ffe924a12b2973df198e5a \"chore: deps\")\n\n\n\n | \n\nApr 12, 2022\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#)\n*   [Code of conduct](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#)\n*   [MIT license](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#)\n\nBatteries-included Next.js template.\n====================================\n\n[](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#batteries-included-nextjs-template)\n\nA proper readme will follow.\n\n[![Image 12: Maintainability](https://camo.githubusercontent.com/ace9ea2c9e9d62c14371ba58e703371c31d871fce63b0baa46f0c2ea3a6151df/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f38663365626337323030353463343433666164322f6d61696e7461696e6162696c697479)](https://codeclimate.com/github/ljosberinn/personal-react-boilerplate/maintainability)\n\n[![Image 13: Test Coverage](https://camo.githubusercontent.com/f94614628144cf02ad5030e6f9af3ed83504ebcdc78ccb6164fc93aee2dd6e75/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f38663365626337323030353463343433666164322f746573745f636f766572616765)](https://codeclimate.com/github/ljosberinn/personal-react-boilerplate/test_coverage)\n\nSimilar approaches\n==================\n\n[](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#similar-approaches)\n\n*   [Blitz.js](https://blitzjs.com/)\n*   [Bison](https://github.com/echobind/bisonapp)\n*   [next-right-now](https://github.com/UnlyEd/next-right-now/)\n*   [RedwoodJS](https://redwoodjs.com/)\n\nAbout\n-----\n\nformer personal react exploration playground\n\n[personal-react-boilerplate.now.sh/](https://personal-react-boilerplate.now.sh/ \"https://personal-react-boilerplate.now.sh/\")\n\n### Resources\n\n[Readme](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#readme-ov-file)\n\n### License\n\n[MIT license](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#MIT-1-ov-file)\n\n### Code of conduct\n\n[Code of conduct](https://github.com/ljosberinn/personal-react-boilerplate?screenshot=true#coc-ov-file)\n\n[Activity](https://github.com/ljosberinn/personal-react-boilerplate/activity)\n\n### Stars\n\n[**105** stars](https://github.com/ljosberinn/personal-react-boilerplate/stargazers)\n\n### Watchers\n\n[**5** watching](https://github.com/ljosberinn/personal-react-boilerplate/watchers)\n\n### Forks\n\n[**12** forks](https://github.com/ljosberinn/personal-react-boilerplate/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fljosberinn%2Fpersonal-react-boilerplate&report=ljosberinn+%28user%29)\n\n[Contributors 7](https://github.com/ljosberinn/personal-react-boilerplate/graphs/contributors)\n----------------------------------------------------------------------------------------------\n\n*   [![Image 14: @ljosberinn](https://avatars.githubusercontent.com/u/29307652?s=64&v=4)](https://github.com/ljosberinn)\n*   [![Image 15: @renovate-bot](https://avatars.githubusercontent.com/u/25180681?s=64&v=4)](https://github.com/renovate-bot)\n*   [![Image 16: @dependabot-preview[bot]](https://avatars.githubusercontent.com/in/2141?s=64&v=4)](https://github.com/apps/dependabot-preview)\n*   [![Image 17: @mergify[bot]](https://avatars.githubusercontent.com/in/10562?s=64&v=4)](https://github.com/apps/mergify)\n*   [![Image 18: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)\n*   [![Image 19: @ImgBotApp](https://avatars.githubusercontent.com/u/31427850?s=64&v=4)](https://github.com/ImgBotApp)\n*   [![Image 20: @imgbot[bot]](https://avatars.githubusercontent.com/in/4706?s=64&v=4)](https://github.com/apps/imgbot)\n\nLanguages\n---------\n\n*   [TypeScript 97.0%](https://github.com/ljosberinn/personal-react-boilerplate/search?l=typescript)\n*   [JavaScript 2.8%](https://github.com/ljosberinn/personal-react-boilerplate/search?l=javascript)\n*   [Shell 0.2%](https://github.com/ljosberinn/personal-react-boilerplate/search?l=shell)\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 8102
+  }
+}
+```

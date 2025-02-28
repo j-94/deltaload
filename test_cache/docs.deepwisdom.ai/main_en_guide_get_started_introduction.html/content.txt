@@ -1,0 +1,210 @@
+MetaGPT: The Multi-Agent Framework | MetaGPT
+===============
+
+[Skip to content](https://docs.deepwisdom.ai/main/en/guide/get_started/introduction.html#VPContent)
+
+[![Image 7](https://docs.deepwisdom.ai/main/logo-light.svg)![Image 8](https://docs.deepwisdom.ai/main/logo-dark.svg)MetaGPT](https://docs.deepwisdom.ai/main/en/)
+
+SearchK
+
+Main Navigation[Docs](https://docs.deepwisdom.ai/main/en/guide/get_started/introduction.html)
+
+Demo
+
+[Data Interpreter](https://docs.deepwisdom.ai/main/en/DataInterpreter/index.html)
+
+[SELA](https://docs.deepwisdom.ai/main/en/sela/index.html)
+
+[Blogs](https://docs.deepwisdom.ai/main/en/blog/blogs.html)[RFCs](https://docs.deepwisdom.ai/main/en/rfcs/RFC-116-MetaGPT%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html)
+
+main
+
+[main (unstable)](https://docs.deepwisdom.ai/main/)
+
+[v0.8 (stable)](https://docs.deepwisdom.ai/v0.8/)
+
+[v0.7](https://docs.deepwisdom.ai/v0.7/)
+
+[v0.6](https://docs.deepwisdom.ai/v0.6/)
+
+[v0.5](https://docs.deepwisdom.ai/v0.5/)
+
+[v0.4](https://docs.deepwisdom.ai/v0.4/)
+
+English
+
+[中文](https://docs.deepwisdom.ai/main/zh/guide/get_started/introduction.html)
+
+[](https://github.com/geekan/MetaGPT)[](https://discord.com/invite/wCp6Q3fsAk)[](https://twitter.com/MetaGPT_)[](https://deepwisdom.ai/)
+
+English
+
+[中文](https://docs.deepwisdom.ai/main/zh/guide/get_started/introduction.html)
+
+Appearance
+
+[](https://github.com/geekan/MetaGPT)[](https://discord.com/invite/wCp6Q3fsAk)[](https://twitter.com/MetaGPT_)[](https://deepwisdom.ai/)
+
+Menu
+
+Return to top
+
+Sidebar Navigation
+
+Get Started
+-----------
+
+[Introduction](https://docs.deepwisdom.ai/main/en/guide/get_started/introduction.html)
+
+[Quickstart](https://docs.deepwisdom.ai/main/en/guide/get_started/quickstart.html)
+
+[Installation](https://docs.deepwisdom.ai/main/en/guide/get_started/installation.html)
+
+[### Configuration](https://docs.deepwisdom.ai/main/en/guide/get_started/configuration.html)
+
+[LLM](https://docs.deepwisdom.ai/main/en/guide/get_started/configuration/llm_api_configuration.html)
+
+[Tools](https://docs.deepwisdom.ai/main/en/guide/get_started/configuration/tools.html)
+
+Tutorials
+---------
+
+[Concepts](https://docs.deepwisdom.ai/main/en/guide/tutorials/concepts.html)
+
+[Agent 101](https://docs.deepwisdom.ai/main/en/guide/tutorials/agent_101.html)
+
+[MultiAgent 101](https://docs.deepwisdom.ai/main/en/guide/tutorials/multi_agent_101.html)
+
+[Use memories](https://docs.deepwisdom.ai/main/en/guide/tutorials/use_memories.html)
+
+[Create and use tools](https://docs.deepwisdom.ai/main/en/guide/tutorials/create_and_use_tools.html)
+
+[Human engagement](https://docs.deepwisdom.ai/main/en/guide/tutorials/human_engagement.html)
+
+[Integration with open LLM](https://docs.deepwisdom.ai/main/en/guide/tutorials/integration_with_open_llm.html)
+
+[Customize LLMs for roles or actions](https://docs.deepwisdom.ai/main/en/guide/tutorials/customize_llms_for_roles_or_actions.html)
+
+Use Cases
+---------
+
+### Agent
+
+[#### Data Interpreter](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/intro.html)
+
+[Data analysis and visualization](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/data_visualization.html)
+
+[Machine learning modeling](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/machine_learning.html)
+
+[Machine learning modeling with tools](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/machine_learning_with_tools.html)
+
+[Image background removal](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/image_removebg.html)
+
+[Solve mathematical problems](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/solve_mathematical_problems.html)
+
+[Receipt OCR](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/ocr_receipt.html)
+
+[Tool usage: web page imitation](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/imitate_webpage.html)
+
+[Human interaction](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/human_interaction.html)
+
+[Tool usage: web scraping](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/crawl_webpage.html)
+
+[Tool usage: text2image](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/text2image.html)
+
+[Tool usage: email summarization and response](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/interpreter/email_summary.html)
+
+[Researcher: search web and write reports](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/researcher.html)
+
+[Tutorial Assistant](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/tutorial_assistant.html)
+
+[Photographer](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/photographer.html)
+
+[Receipt Assistant](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/receipt_assistant.html)
+
+[Android Assistant](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/android_assistant.html)
+
+### MultiAgent
+
+[Debate](https://docs.deepwisdom.ai/main/en/guide/use_cases/multi_agent/debate.html)
+
+[Werewolf Game](https://docs.deepwisdom.ai/main/en/guide/use_cases/multi_agent/werewolf_game.html)
+
+[Minecraft](https://docs.deepwisdom.ai/main/en/guide/use_cases/multi_agent/minecraft.html)
+
+[Stanford Town](https://docs.deepwisdom.ai/main/en/guide/use_cases/multi_agent/stanford_town.html)
+
+In-Depth Guides
+---------------
+
+[Agent communication](https://docs.deepwisdom.ai/main/en/guide/in_depth_guides/agent_communication.html)
+
+[Incremental development](https://docs.deepwisdom.ai/main/en/guide/in_depth_guides/incremental_development.html)
+
+[Serialization & Breakpoint Recovery](https://docs.deepwisdom.ai/main/en/guide/in_depth_guides/breakpoint_recovery.html)
+
+[RAG Module](https://docs.deepwisdom.ai/main/en/guide/in_depth_guides/rag_module.html)
+
+[### Environment](https://docs.deepwisdom.ai/main/en/guide/in_depth_guides/environment/intro.html)
+
+[Werewolf Game](https://docs.deepwisdom.ai/main/en/guide/in_depth_guides/environment/werewolf.html)
+
+[Stanford Town](https://docs.deepwisdom.ai/main/en/guide/in_depth_guides/environment/stanford_town.html)
+
+[Android](https://docs.deepwisdom.ai/main/en/guide/in_depth_guides/environment/android.html)
+
+Contribution
+------------
+
+[Code of Conduct](https://docs.deepwisdom.ai/main/en/guide/contribution/code_of_conduct.html)
+
+[### Contribution Guidelines](https://docs.deepwisdom.ai/main/en/guide/contribution/contribution_guidelines.html)
+
+[Code Contribution](https://docs.deepwisdom.ai/main/en/guide/contribution/guideline/code_contribution.html)
+
+[Doc Contribution](https://docs.deepwisdom.ai/main/en/guide/contribution/guideline/doc_contribution.html)
+
+[FAQ](https://docs.deepwisdom.ai/main/en/guide/contribution/faq.html)
+
+[API](https://docs.deepwisdom.ai/main/en/guide/api.html)
+
+[Index / FAQ](https://docs.deepwisdom.ai/main/en/guide/faq.html)
+
+On this page
+
+Table of Contents for current page
+
+MetaGPT: The Multi-Agent Framework [​](https://docs.deepwisdom.ai/main/en/guide/get_started/introduction.html#metagpt-the-multi-agent-framework)
+================================================================================================================================================
+
+**Assign different roles to GPTs to form a collaborative software entity for complex tasks.**
+
+1.  MetaGPT takes a **one line requirement** as input and outputs **user stories / competitive analysis / requirements / data structures / APIs / documents, etc.**
+2.  Internally, MetaGPT includes **product managers / architects / project managers / engineers.** It provides the entire process of a **software company along with carefully orchestrated SOPs.**
+    1.  `Code = SOP(Team)` is the core philosophy. We materialize SOP and apply it to teams composed of LLMs.
+
+![Image 9: A software company consists of LLM-based roles](https://docs.deepwisdom.ai/main/assets/software_company_cd.7154a15c.jpg)
+
+Software Company Multi-Role Schematic
+
+MetaGPT's Abilities [​](https://docs.deepwisdom.ai/main/en/guide/get_started/introduction.html#metagpt-s-abilities)
+-------------------------------------------------------------------------------------------------------------------
+
+MetaGPT started as a software company, but its capabilities are not limited to that. You can use this multi-agent framework in your own scenario to build your own application. For details, you can refer to [Researcher](https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/researcher.html) under **Use Cases**. Let's do it.
+
+Examples (fully generated by GPT-4) [​](https://docs.deepwisdom.ai/main/en/guide/get_started/introduction.html#examples-fully-generated-by-gpt-4)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+For example, if you type `metagpt "Design a RecSys like Toutiao"`, you would get many outputs, one of them is data & api design
+
+![Image 10: Jinri Toutiao Recsys Data & API Design](https://docs.deepwisdom.ai/main/assets/data_api_design.9f5a6265.png)
+
+It costs approximately **$0.2** (in GPT-4 API fees) to generate one example with analysis and design, and around **$2.0** for a full project.
+
+[Edit this page on GitHub](https://github.com/geekan/MetaGPT-docs/blob/main/src/en/guide/get_started/introduction.md)
+
+[Next pageQuickstart](https://docs.deepwisdom.ai/main/en/guide/get_started/quickstart.html)
+
+Released under the MIT License.
+
+Copyright © 2023-present alexanderwu

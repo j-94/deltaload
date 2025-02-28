@@ -1,0 +1,627 @@
+---
+title: Taskade AI - The World’s #1 AI Productivity Tool
+description: Taskade AI is a powerful AI productivity tool that will help you efficiently manage tasks and projects. Generate task lists, mind maps, and structured notes.
+url: https://www.taskade.com/ai/app
+timestamp: 2025-01-20T15:50:19.679Z
+domain: www.taskade.com
+path: ai_app
+---
+
+# Taskade AI - The World’s #1 AI Productivity Tool
+
+
+Taskade AI is a powerful AI productivity tool that will help you efficiently manage tasks and projects. Generate task lists, mind maps, and structured notes.
+
+
+## Content
+
+Taskade AI - The World’s #1 AI Productivity Tool | Taskade
+===============
+  
+
+[](https://www.taskade.com/ "Taskade")
+
+Product![Image 106](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Download Apps](https://www.taskade.com/downloads)
+
+[Features](https://www.taskade.com/features)
+
+[Updates](https://www.taskade.com/blog/updates/)
+
+[Security](https://www.taskade.com/security)
+
+[Contact](https://www.taskade.com/contact)
+
+[AI Agents](https://www.taskade.com/ai/agents)![Image 107](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Custom AI Agents](https://help.taskade.com/en/articles/8958457-custom-ai-agents)
+
+[Agent Knowledge](https://help.taskade.com/en/articles/9495190-agent-knowledge-data)
+
+[Agent Generator](https://help.taskade.com/en/articles/9314104-ai-agent-generator)
+
+[Multi-Agents](https://help.taskade.com/en/articles/9254706-multi-agents)
+
+[Site Reader](https://help.taskade.com/en/articles/9314171-tools-for-ai-agents#h_82311f8d45)
+
+[Web Search](https://help.taskade.com/en/articles/9314171-tools-for-ai-agents#h_82311f8d45)
+
+[Tools for Agents](https://help.taskade.com/en/articles/9314171-tools-for-ai-agents)
+
+[Autonomous Agents](https://help.taskade.com/en/articles/8958458-autonomous-ai-agents)
+
+[AI Automations](https://www.taskade.com/ai/automation)![Image 108](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Build AI Automations](https://help.taskade.com/en/articles/8958467-getting-started-with-automation)
+
+[Automate with AI Agents](https://help.taskade.com/en/articles/8958471-agents)
+
+[Automation Actions](https://help.taskade.com/en/articles/8958470-automation-actions)
+
+[Automation Triggers](https://help.taskade.com/en/articles/8958469-automation-triggers)
+
+[HTTP Request](https://help.taskade.com/en/articles/9421110-http-request)
+
+[Webhooks](https://help.taskade.com/en/articles/9494976-webhooks-automation-trigger)
+
+[Project Views](https://www.taskade.com/new)![Image 109](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[List](https://www.taskade.com/ai/outline)
+
+[Table](https://help.taskade.com/en/articles/8958389-table-view)
+
+[Mind Map](https://www.taskade.com/ai/mind-map)
+
+[Gantt Chart](https://help.taskade.com/en/articles/9072639-gantt-chart-view)
+
+[Org Chart](https://help.taskade.com/en/articles/8958391-org-chart-view)
+
+[Kanban Board](https://help.taskade.com/en/articles/8958387-board-kanban-view)
+
+[Calendar](https://help.taskade.com/en/articles/8958388-calendar-view)
+
+[Integrations](https://www.taskade.com/integrations)![Image 110](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Taskade API](https://developers.taskade.com/)
+
+[Slack](https://help.taskade.com/en/articles/8958478-slack-integration)
+
+[Gmail](https://help.taskade.com/en/articles/8958474-gmail-integration)
+
+[HubSpot](https://help.taskade.com/en/articles/9315508-hubspot-integration)
+
+[Calendly](https://help.taskade.com/en/articles/9070636-calendly-integration)
+
+[Zapier](https://help.taskade.com/en/articles/8958540-zapier-integration)
+
+[Google Calendar](https://help.taskade.com/en/articles/8958536-google-calendar-integration)
+
+[Google Forms](https://help.taskade.com/en/articles/8958473-google-forms-integration)
+
+[Import & Export](https://help.taskade.com/en/collections/8400881-import-export)
+
+[Taskade AI](https://www.taskade.com/ai)![Image 111](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[AI Project Studio](https://help.taskade.com/en/articles/8958450-ai-project-studio)
+
+[AI Automation](https://help.taskade.com/en/collections/8400803-ai-automation)
+
+[AI Chat](https://www.taskade.com/ai/chat)
+
+[AI File Uploads](https://help.taskade.com/en/articles/8958461-media-tab)
+
+[AI CSV Converter](https://help.taskade.com/en/articles/8958466-convert-spreadsheet-with-ai)
+
+[AI Prompt Templates](https://help.taskade.com/en/articles/8958452-ai-prompt-templates-library)
+
+[AI Document Summarizer](https://help.taskade.com/en/articles/8958465-summarize-documents-with-ai)
+
+Solutions![Image 112](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Project Management](https://www.taskade.com/ai/project-management)
+
+[Marketing Assistant](https://www.taskade.com/ai/marketing)
+
+[AI Writing Assistant](https://www.taskade.com/ai/writer)
+
+[Task Management](https://www.taskade.com/ai/tasks)
+
+[Mind Maps](https://www.taskade.com/ai/mind-map)
+
+[AI Agent Teams](https://help.taskade.com/en/articles/8958457-custom-ai-agents)
+
+[Content Creation](https://help.taskade.com/en/articles/8958450-ai-project-studio)
+
+[Workflow Automation](https://help.taskade.com/en/articles/8958467-getting-started-with-automation)
+
+[For Agencies](https://www.taskade.com/ai/agency)
+
+[Use Cases](https://help.taskade.com/en/collections/8400901-use-cases)
+
+Learn![Image 113](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Blog](https://www.taskade.com/blog)
+
+[FAQ](https://www.taskade.com/faq)
+
+[Help](https://help.taskade.com/)
+
+[Community](https://www.taskade.com/community)
+
+[Video Tutorials](https://www.youtube.com/taskade)
+
+[Customize AI Agents](https://help.taskade.com/en/articles/8958457-custom-ai-agents)
+
+[Generate Projects](https://help.taskade.com/hc/en-us/articles/16626189880851)
+
+[Learn Taskade AI](https://help.taskade.com/en/collections/8400799-taskade-ai)
+
+[Import & Export](https://help.taskade.com/en/collections/8400881-import-export)
+
+[Customer Reviews](https://www.taskade.com/reviews)
+
+Tools![Image 114](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[AI Templates](https://www.taskade.com/templates)![Image 115](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Featured](https://www.taskade.com/templates/featured)
+
+[Project Management](https://www.taskade.com/templates/project-management)
+
+[Mind Map](https://www.taskade.com/templates/mindmap)
+
+[Personal](https://www.taskade.com/templates/personal)
+
+[All Templates](https://www.taskade.com/templates/categories)
+
+[AI Generators](https://www.taskade.com/generate)![Image 116](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Productivity](https://www.taskade.com/generate/ai)
+
+[Flowchart](https://www.taskade.com/generate/flowchart)
+
+[Content](https://www.taskade.com/generate/content)
+
+[Workflows](https://www.taskade.com/generate/workflows)
+
+[All Generators](https://www.taskade.com/generate/categories)
+
+[AI Converters](https://www.taskade.com/convert)![Image 117](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Convert Text](https://www.taskade.com/convert/text)
+
+[Convert PDFs](https://www.taskade.com/convert/pdf)
+
+[Convert CSVs](https://www.taskade.com/convert/csv)
+
+[All Converters](https://www.taskade.com/convert/categories)
+
+[AI Agents](https://www.taskade.com/agents)![Image 118](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Marketing Agents](https://www.taskade.com/agents/marketing)
+
+[Productivity Agents](https://www.taskade.com/agents/productivity)
+
+[Project Management](https://www.taskade.com/agents/project-management)
+
+[All Agents](https://www.taskade.com/agents/categories)
+
+[AI Automations](https://www.taskade.com/automate)![Image 119](https://www.taskade.com/static_images/landing/dropdown-caret.svg)
+
+[Marketing Automations](https://www.taskade.com/automate/marketing)
+
+[Email Automations](https://www.taskade.com/automate/email)
+
+[Task Automations](https://www.taskade.com/automate/task)
+
+[All Automations](https://www.taskade.com/automate/categories)
+
+[Pricing](https://www.taskade.com/pricing)
+
+[Contact sales](https://taskade.com/request-demo)[Log in](https://www.taskade.com/login)[Sign upSign up for free](https://www.taskade.com/signup)
+
+[](https://www.taskade.com/ "Taskade")
+
+*   Product
+    
+*   Solutions
+    
+*   Learn
+    
+*   [Downloads](https://www.taskade.com/downloads)
+
+[Sign up for free](https://www.taskade.com/signup)[Log in](https://www.taskade.com/login)
+
+[![Image 120: Apple Badge](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fbadge_apple.png&w=384&q=75)](https://apps.apple.com/us/app/taskade-team-productivity/id1264713923)[![Image 121: Google Badge](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fbadge_google.png&w=384&q=75)](https://play.google.com/store/apps/details?id=com.taskade.mobile)
+
+[](https://www.taskade.com/ai)
+
+Introducing Taskade AI
+======================
+
+Unlock the power of artificial intelligence. Instantly generate task lists, mind maps, meeting agendas, and custom workflows. Engage with an intelligent AI assistants and collaborate with your team, all within one unified workspace.
+
+![Image 122: email logo](https://www.taskade.com/static_images/landing/email-stroke.svg) Start with AI
+
+Your browser does not support the video tag.
+
+![Image 123: semi circles](https://www.taskade.com/static_images/landing/semicircles.png)![Image 124: download dots](https://www.taskade.com/static_images/landing/downloaddots.png)![Image 125: dots](https://www.taskade.com/static_images/landing/nine_dots.png)![Image 126: cross](https://www.taskade.com/static_images/landing/cross.png)![Image 127: squares](https://www.taskade.com/static_images/landing/squares.png)
+
+Build Your UltimateAI Agent Workforce.Build Your UltimateAI Agent Workforce.
+----------------------------------------------------------------------------
+
+![Image 128](https://www.taskade.com/static_images/icons/banner_agents.svg)AI AI Agents![Image 129](https://www.taskade.com/static_images/icons/banner_automation.svg)AutoAI Automation![Image 130](https://www.taskade.com/static_images/icons/banner_tasks.svg)TasksTasks & Projects![Image 131](https://www.taskade.com/static_images/icons/banner_mindmap.svg)MindsAI Mind Maps![Image 132](https://www.taskade.com/static_images/icons/banner_ai_chat.svg)ChatAI Chat
+
+Your browser does not support the video tag.
+
+[Try Instant Demo ✨](https://www.taskade.com/signup?ref=landing)
+
+Your browser does not support the video tag.
+
+[Try Instant Demo ✨](https://www.taskade.com/signup?ref=landing)
+
+Your browser does not support the video tag.
+
+[Try Instant Demo ✨](https://www.taskade.com/signup?ref=landing)
+
+Your browser does not support the video tag.
+
+[Try Instant Demo ✨](https://www.taskade.com/signup?ref=landing)
+
+Your browser does not support the video tag.
+
+[Try Instant Demo ✨](https://www.taskade.com/signup?ref=landing)
+
+[Loved by over a million users from companies like](https://www.taskade.com/reviews)
+
+![Image 133: 3M](https://www.taskade.com/static_images/companies/logo_3m.svg)
+
+![Image 134: Dentsu](https://www.taskade.com/static_images/companies/logo_dentsu.svg)
+
+![Image 135: Backblaze](https://www.taskade.com/static_images/companies/logo_backblaze.svg)
+
+![Image 136: Nike](https://www.taskade.com/static_images/companies/logo_nike.svg)
+
+![Image 137: Tesla](https://www.taskade.com/static_images/companies/logo_tesla.svg)
+
+![Image 138: Netflix](https://www.taskade.com/static_images/companies/logo_netflix.svg)
+
+![Image 139: Airbnb](https://www.taskade.com/static_images/companies/logo_airbnb.svg)
+
+![Image 140: Red Bull](https://www.taskade.com/static_images/companies/logo_redbull.svg)
+
+![Image 141: Disney](https://www.taskade.com/static_images/companies/logo_disney.svg)
+
+![Image 142: Blizzard](https://www.taskade.com/static_images/companies/logo_blizzard.svg)
+
+![Image 143: MLB](https://www.taskade.com/static_images/companies/logo_mlb.svg)
+
+![Image 144: Adobe](https://www.taskade.com/static_images/companies/logo_adobe.svg)
+
+![Image 145: Starbucks](https://www.taskade.com/static_images/companies/logo_starbucks.svg)
+
+![Image 146: ESPN](https://www.taskade.com/static_images/companies/logo_espn.svg)
+
+![Image 147: Booking.com](https://www.taskade.com/static_images/companies/logo_booking.svg)
+
+![Image 148: BBC](https://www.taskade.com/static_images/companies/logo_bbc.svg)
+
+![Image 149: Lyft](https://www.taskade.com/static_images/companies/logo_lyft.svg)
+
+![Image 150: Verizon](https://www.taskade.com/static_images/companies/logo_verizon.svg)
+
+![Image 151: TransferWise](https://www.taskade.com/static_images/companies/logo_transferwise.svg)
+
+![Image 152: Sony](https://www.taskade.com/static_images/companies/logo_sony.svg)
+
+![Image 153: Compass](https://www.taskade.com/static_images/companies/logo_compass.svg)
+
+![Image 154: Indeed](https://www.taskade.com/static_images/companies/logo_indeed.svg)
+
+![Image 155: Y Combinator](https://www.taskade.com/static_images/companies/logo_ycombinator.svg)
+
+![Image 156: Costco](https://www.taskade.com/static_images/companies/logo_costco.svg)
+
+![Image 157: Vox](https://www.taskade.com/static_images/companies/logo_vox.svg)
+
+![Image 158: Yamaha](https://www.taskade.com/static_images/companies/logo_yamaha.svg)
+
+![Image 159: 3M](https://www.taskade.com/static_images/companies/logo_3m.svg)
+
+![Image 160: Dentsu](https://www.taskade.com/static_images/companies/logo_dentsu.svg)
+
+![Image 161: Backblaze](https://www.taskade.com/static_images/companies/logo_backblaze.svg)
+
+![Image 162: Nike](https://www.taskade.com/static_images/companies/logo_nike.svg)
+
+![Image 163: Tesla](https://www.taskade.com/static_images/companies/logo_tesla.svg)
+
+![Image 164: Netflix](https://www.taskade.com/static_images/companies/logo_netflix.svg)
+
+![Image 165: Airbnb](https://www.taskade.com/static_images/companies/logo_airbnb.svg)
+
+![Image 166: Red Bull](https://www.taskade.com/static_images/companies/logo_redbull.svg)
+
+![Image 167: Disney](https://www.taskade.com/static_images/companies/logo_disney.svg)
+
+![Image 168: Blizzard](https://www.taskade.com/static_images/companies/logo_blizzard.svg)
+
+![Image 169: MLB](https://www.taskade.com/static_images/companies/logo_mlb.svg)
+
+![Image 170: Adobe](https://www.taskade.com/static_images/companies/logo_adobe.svg)
+
+![Image 171: Starbucks](https://www.taskade.com/static_images/companies/logo_starbucks.svg)
+
+![Image 172: ESPN](https://www.taskade.com/static_images/companies/logo_espn.svg)
+
+![Image 173: Booking.com](https://www.taskade.com/static_images/companies/logo_booking.svg)
+
+![Image 174: BBC](https://www.taskade.com/static_images/companies/logo_bbc.svg)
+
+![Image 175: Lyft](https://www.taskade.com/static_images/companies/logo_lyft.svg)
+
+![Image 176: Verizon](https://www.taskade.com/static_images/companies/logo_verizon.svg)
+
+![Image 177: TransferWise](https://www.taskade.com/static_images/companies/logo_transferwise.svg)
+
+![Image 178: Sony](https://www.taskade.com/static_images/companies/logo_sony.svg)
+
+![Image 179: Compass](https://www.taskade.com/static_images/companies/logo_compass.svg)
+
+![Image 180: Indeed](https://www.taskade.com/static_images/companies/logo_indeed.svg)
+
+![Image 181: Y Combinator](https://www.taskade.com/static_images/companies/logo_ycombinator.svg)
+
+![Image 182: Costco](https://www.taskade.com/static_images/companies/logo_costco.svg)
+
+![Image 183: Vox](https://www.taskade.com/static_images/companies/logo_vox.svg)
+
+![Image 184: Yamaha](https://www.taskade.com/static_images/companies/logo_yamaha.svg)
+
+A Collaborative AI Second Brain
+-------------------------------
+
+Five AI-powered tools in one to supercharge your team productivity. With Taskade, all your work is in sync in one unified workspace.
+
+Your browser does not support the video tag.
+
+AI Automation
+-------------
+
+Taskade Automations enable you to automate tasks and projects, design custom workflows, streamline collaboration, and integrate with other platforms. Get more work done with AI today.
+
+Your browser does not support the video tag.
+
+AI Agents
+---------
+
+Create customizable AI Agents and equip them with the knowledge needed to get the job done. Feed them with custom instructions and commands and use them in your projects to get work done.
+
+Your browser does not support the video tag.
+
+Chat with AI Agents
+-------------------
+
+Chat with AI Agents within your projects to get a fresh perspective on things. Get access to a wide selection of AI expert personas with Taskade.
+
+Redefine Your Workflows with Taskade AI.
+----------------------------------------
+
+[![Image 185: AI Generate Workflows](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-generate-workflows.png&w=3840&q=75) #### AI Workflow Generator Generate projects, SOPs, mind maps, and task lists in seconds. Let AI handle the creation so you can focus on what really matters. Spend less time on setup and more time driving results.](https://help.taskade.com/en/articles/8958450-ai-project-studio)
+
+[![Image 186: Custom AI Agents in Taskade](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_ai_custom_agent.png&w=3840&q=75) #### Custom AI Agents Empower your workflows with Custom AI Agents designed specifically for marketing and project management. Let AI manage tasks and provide insights to enhance your team's performance.](https://help.taskade.com/en/articles/8958457-custom-ai-agents)
+
+[![Image 187: AI Automations & Flows in Taskade](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_automation.png&w=3840&q=75) #### AI Automation Flows Streamline your projects with AI Automations flows that connect all your essential tools. Put your marketing, sales, and operations on autopilot to unlock more resources for strategic work.](https://help.taskade.com/en/articles/8958467-getting-started)
+
+[![Image 188: AI Teams](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_ai_custom_agent.png&w=3840&q=75) #### AI Teams Build specialized AI teams to interact with multiple agents simultaneously. Chat, collaborate, activate tools, and leverage your agents' collective expertise. Achieve faster results and tackle tasks with ease.](https://help.taskade.com/en/articles/9586050-ai-teams)
+
+[![Image 189: Agent Knowledge](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-media-file-manager.png&w=3840&q=75) #### Agent Knowledge Train your custom AI agents with documents, files, web resources, and YouTube videos for more accurate responses. Give them access to live projects for dynamic, real-time learning.](https://help.taskade.com/en/articles/9495190-agent-knowledge-data)
+
+[![Image 190: AI Agent Collaboration](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-agents.png&w=3840&q=75) #### Agent Collaboration Deploy multiple custom AI agents within your projects to handle different tasks and complement each other's work. Your agents stay busy to reduce bottlenecks and ensure smooth operations.](https://help.taskade.com/en/articles/9254706-multi-agents)
+
+[![Image 191: Agent Sidebar](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-project-file-chat.png&w=3840&q=75) #### Agent Sidebar Customize the agent sidebar to have all your favorite agents accessible in one place. Reorder agents, start chats, browse conversation history, and keep your AI workforce organized.](https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_f6566b2583)
+
+[![Image 192: AI Agents](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-agents.png&w=3840&q=75) #### Autonomous AI Agents Build a powerful AI workforce that transforms how you get things done. Create, train, and run AI Agents powered by GPT 4o to autonomously research, complete tasks, and manage workflows.](https://help.taskade.com/en/articles/8958458-autonomous-ai-agents)
+
+[![Image 193: Automation Triggers & Actions](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-prioritize-tasks.png&w=3840&q=75) #### Powerful Triggers & Actions Choose from dozens of triggers and actions for your automations. Control projects within your Taskade workspace and manage external tools like Google Forms, HubSpot, and others.](https://help.taskade.com/en/articles/8958470-automation-actions)
+
+[![Image 194: Smart Tools & Integrations](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-project-file-chat.png&w=3840&q=75) #### Smart Tools & Integrations Connect agents and automations to the apps you're already using, including Gmail, Slack, Zapier, and many more. Build your own tools for a tailored experience that fits like a glove.](https://www.taskade.com/integrations)
+
+[![Image 195: AI Forms](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_automation.png&w=3840&q=75) #### AI Forms Build smart automations around shareable and customizable forms for collecting and analyzing data. Tailor forms with text, numbers, dropdowns, and file uploads to suit various use cases.](https://help.taskade.com/en/articles/9711589-ai-forms)
+
+[![Image 196: AI Research Agent](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-research-agent.png&w=3840&q=75) #### AI Writing and Task Assistant Brainstorm, outline, write, edit, and organize your work directly in the project editor. Use /slash command to create and refine documents, spellcheck your content, and generate tasks on the fly.](https://help.taskade.com/en/articles/8958449-taskade-ai-assistant)
+
+[![Image 197: AI Project File Chat](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-project-file-chat.png&w=3840&q=75) #### Chat with Your Docs Upload files and engage with them directly in your projects. Ask questions, extract summaries, and uncover valuable insights anytime, anywhere. Transform your documents into intelligent resources.](https://help.taskade.com/hc/en-us/articles/15377208956947--Taskade-AI-Chat)
+
+[![Image 198: AI Personas Tones](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-personas-tones.png&w=3840&q=75) #### AI Personas and Tones Set roles and tones for Taskade AI to align responses with your needs and context. Engage with specialized personas, such as project managers, analysts, and marketing experts.](https://help.taskade.com/hc/en-us/articles/19170915415827--AI-Chat-Personas)
+
+[![Image 199: AI Prompt Templates](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-prompt-templates.png&w=3840&q=75) #### AI Prompt Templates Explore a vast library of customizable prompt templates and generators. Discover the ideal setup to unlock Taskade AI’s potential and save time getting projects off the ground.](https://help.taskade.com/hc/en-us/articles/22882794358547-AI-Prompt-Templates-Library)
+
+[![Image 200: AI CSV Import](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-csv-import.png&w=3840&q=75) #### Summarize Documents with AI Transform your PDFs, CSVs, and Docs into projects using AI. Convert your files into structured tasks for easy access to important information. Upload, import, and watch the magic happen.](https://help.taskade.com/hc/en-us/articles/17959875729811--Summarize-Documents-with-AI)
+
+[![Image 201: AI Generate Tasks](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-generate-tasks.png&w=3840&q=75) #### Generate Action Items with AI Turn ideas into actions in a snap. Convert notes into actionable tasks, develop lists of action items, and prioritize your next steps effectively. Taskade AI streamlines the process to help you stay focused.](https://help.taskade.com/hc/en-us/articles/16626189880851--Taskade-AI-Generator-Projects-Blocks-Tasks-)
+
+[![Image 202: AI Prioritize Tasks](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-prioritize-tasks.png&w=3840&q=75) #### Prioritize Tasks with AI Let AI prioritize and organize your tasks. Automatically highlight your most important tasks to avoid getting lost in a long to-do list. Focus on what truly matters and eliminate overwhelm.](https://help.taskade.com/hc/en-us/articles/18868817701907--Bulk-AI-Commands)
+
+[![Image 203: Taskade Slash Command](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Ftaskade-slash-command.png&w=3840&q=75) #### AI-Powered Natural Language Say goodbye to manual entry. Use natural language to schedule tasks with slash commands for due dates and reminders. With just a few keystrokes, you can ensure tasks are completed on time.](https://help.taskade.com/hc/en-us/articles/7525966494227)
+
+[![Image 204: Tooltip AI Outline](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_ai_outline.png&w=3840&q=75) #### 10x Productivity with "/" Slash Type "/" anywhere in your project to access Taskade’s AI features, add-ons, and formatting shortcuts. Instantly add due dates, assign tasks, and upload files without missing a beat.](https://help.taskade.com/hc/en-us/articles/5119502628627--Slash-Commands)
+
+[![Image 205: AI Media File Manager](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-media-file-manager.png&w=3840&q=75) #### AI Media & File Manager Manage your files in a new way. Access all your uploaded documents in one place and chat with them for AI-driven insights. Extract summaries, find key information, and turn docs into actionable tasks.](https://help.taskade.com/hc/en-us/articles/20836143902611--Media-Manager)
+
+[![Image 206: Taskade Widgets, Mobile, Desktop Apps](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-widgets.png&w=3840&q=75) #### Mobile & Desktop Apps Access Taskade on any device and enjoy a faster, seamless experience with enhanced notifications and native support. Available for desktop, mobile, and web browsers.](https://www.taskade.com/downloads)
+
+[![Image 207: YouTube Transcription & Analysis](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-csv-import.png&w=3840&q=75) #### YouTube Transcription & Analysis Transform YouTube videos into text with the transcription & analysis feature. Use them in AI automation flows, for generating projects and workflows, and as knowledge sources for AI Agents.](https://help.taskade.com/en/articles/9805233-transcribe-youtube-automation-action)
+
+[![Image 208: Web Search & Scraping](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_automation.png&w=3840&q=75) #### Web Search & Scraping Capture essential data from websites and articles straight into Taskade. Automate information gathering, distill web content, research topics, watch competitors, and keep up with trends.](https://help.taskade.com/en/articles/9805157-scrape-webpage-automation-action)
+
+[![Image 209: Custom Webhooks & HTTP Requests](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-project-file-chat.png&w=3840&q=75) #### Custom Webhooks & HTTP Requests Use Custom Webhooks & HTTP Requests in automation flows to seamlessly connect with external services. Automate data exchange, trigger workflows, and integrate your favorite apps.](https://help.taskade.com/en/articles/9421110-http-request-automation-action)
+
+Show All Features
+
+Introducing Taskade AI, the future of team productivity.
+--------------------------------------------------------
+
+🤖 What is Taskade AI?
+----------------------
+
+Taskade AI is like having a 24/7 writing assistant by your side! Our AI-powered productivity platform will help you create high-quality content so you have more time to focus on growing your business.
+
+**🚀 For Personal Use**
+
+*   Write, organize, and summarize
+*   Outline articles and blog posts
+*   Improve writing with smart rewrite
+*   Brainstorm evergreen ideas
+
+**⚡️ For Team Collaboration**
+
+*   Draft high-level meeting agendas
+*   Co-author documents using AI
+*   Brainstorm ideas together
+*   Build mind maps and flowcharts
+
+✨ Brainstorm, plan, write.
+--------------------------
+
+Taskade AI lives inside every Taskade project. Type one of the **/ai** commands and hit **Enter** to supercharge your productivity.
+
+*   **/ai:** See the full list of Taskade AI commands.
+*   /**subtask:** Generate subtasks for a parent task.
+*   **/ask:** Find answers to your questions using AI’s knowledge.
+*   **/outline:** Generate high-level outlines for all types of content.
+*   **/expand:** Expand and enrich your content to be more descriptive.
+*   **/rewrite:** Improve the legibility and clarity of your writing.
+*   **/summarize:** Turn long-form content into a crisp and clear summary.
+*   **/translate:** Translate tasks and notes into various languages instantly.
+
+🪄 Build and create faster.
+---------------------------
+
+Starting projects from scratch is passé. Grab your coffee and watch the **AI** **Generator** bring your ideas to life in seconds, from complete project workflows to project blocks, tasks, and subtasks.
+
+💬 Chat with AI. Trust us, it’s fun.
+------------------------------------
+
+Imagine a smart assistant that understands your tasks and is always ready to answer your questions, 24/7. Start a conversation and collaborate on projects like you would with a human.
+
+🎨 Out of ideas? Start with a template.
+---------------------------------------
+
+A template is worth a thousand words, so we have one for every occasion. Write a resume, email, article, or meeting agenda. You can even generate mind maps using ready-made prompts.
+
+*   ✅ [AI checklist template](https://www.taskade.com/templates/ai/ai-checklist)
+*   📝 [AI note-taking template](https://www.taskade.com/templates/ai/ai-note-taking)
+*   🧠 [AI mind map generator](https://www.taskade.com/templates/ai/mind-map-generator)  
+    🎞️ [AI script writing template](https://www.taskade.com/templates/ai/script-writing)
+*   …and much more!
+
+📑 Summarize documents. From clutter to clarity.
+------------------------------------------------
+
+Extract essentials, leave the fluff. Use Taskade AI to instantly generate summaries of .docx, .pdf, and .txt files. Distill dense information, turn key points into concise action items and transform them into organized projects.
+
+🌎 Break the language barrier.
+------------------------------
+
+Working with teams and clients from around the world? AI will translate your documents, tasks, and projects into a dozen languages including Spanish, German, Japanese, Italian, and Chinese.
+
+✨ Work smarter, anywhere.
+-------------------------
+
+Computers used to take up entire rooms. Taskade AI puts the most powerful AI models right into your pocket. Brainstorm, plan, write, and organize anywhere you go with mobile apps for iOS and Android.Try Taskade AI
+
+### Supercharge your workflow with Taskade AI.
+
+Automate 700+ tasks across marketing, sales, support, HR, startups, and agencies. Generate streamlined workflows, spark creative ideas, automate tasks, and chat with AI in every project. Embrace the future of productivity with Taskade, the AI-powered workspace for modern teams.
+
+![Image 210: email logo](https://www.taskade.com/static_images/landing/email-stroke.svg) Start with AI
+
+[Taskade](https://www.taskade.com/)[Pricing](https://www.taskade.com/pricing)[Help Center](https://help.taskade.com/)[Integrations](https://www.taskade.com/integrations)[Customer Reviews](https://www.taskade.com/reviews)[Developer API](https://developers.taskade.com/)[Productivity](https://www.taskade.com/productivity)[Compare](https://www.taskade.com/compare)[Partners](https://partners.taskade.com/)[Security](https://www.taskade.com/security)[Status](https://status.taskade.com/)[Learn](https://www.taskade.com/learn)[About](https://www.taskade.com/about)[Press](https://www.taskade.com/press)[Jobs](https://www.taskade.com/jobs)[FAQ](https://www.taskade.com/faq)[Contact us](https://www.taskade.com/contact)
+
+[Downloads](https://www.taskade.com/downloads)[Android](https://play.google.com/store/apps/details?id=com.taskade.mobile)[iOS](https://apps.apple.com/us/app/taskade-team-productivity/id1264713923)[Mac](https://apps.taskade.com/updates/Taskade-4.4.5-universal.dmg)
+
+[Mac App Store](https://apps.apple.com/app/taskade/id1490048917)
+
+[Windows](https://apps.taskade.com/updates/Taskade_Setup_4.4.5.exe)
+
+[Microsoft Store](https://www.microsoft.com/p/taskade/9p1jh1d9bg26)
+
+[Chrome](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf?hl=en-US)[Firefox](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)[Edge](https://microsoftedge.microsoft.com/addons/detail/oocnohmkpeeideflaepaogbgkgdggdic)[Community](https://www.taskade.com/community)[Taskade Feedback](https://www.taskade.com/feedback)[Taskade Forum](https://forum.taskade.com/)[Facebook Group](https://www.facebook.com/groups/taskade)
+
+See all ▼
+
+[Taskade Updates](https://taskade.com/v/B1Q8lMxIfG)[Telegram](https://t.me/Taskade)[Discord](https://discord.gg/8XudSC4zcq)[Reddit](https://www.reddit.com/r/taskade)[Taskade Blog](https://www.taskade.com/blog/)[Taskade Changelog](https://forum.taskade.com/changelog)[Taskade Events](https://www.taskade.com/events/)[Youtube](https://www.youtube.com/taskade)[Instagram](https://www.instagram.com/taskade/)[TikTok](https://www.tiktok.com/@taskade)[Twitter](https://x.com/taskade)
+
+[Products](https://www.taskade.com/ai)[AI Tasks](https://www.taskade.com/ai/tasks)[AI Agents](https://www.taskade.com/ai/agents)[AI Automations](https://www.taskade.com/ai/automation)[Project Management](https://www.taskade.com/ai/project-management)[Marketing Assistant](https://www.taskade.com/ai/marketing)[Mind Map Creator](https://www.taskade.com/ai/mind-map)[Flowchart Maker](https://www.taskade.com/ai/flow-chart)
+
+See all ▼
+
+[AI for Agencies](https://www.taskade.com/ai/agency)[AI for Nonprofits](https://www.taskade.com/ai/nonprofits)[AI for Developers](https://www.taskade.com/ai/developer)[AI for Education](https://www.taskade.com/ai/education)[AI for Startups](https://www.taskade.com/ai/startups)
+
+[AI Agents](https://www.taskade.com/agents)[Featured](https://www.taskade.com/agents/featured)[Project Management](https://www.taskade.com/agents/project-management)[Productivity](https://www.taskade.com/agents/productivity)[Marketing](https://www.taskade.com/agents/marketing)[Translator](https://www.taskade.com/agents/translator)[Content](https://www.taskade.com/agents/content)[Workflow](https://www.taskade.com/agents/workflow)
+
+See all ▼
+
+[To-Do List](https://www.taskade.com/agents/to-do-list)[Digital Advertising](https://www.taskade.com/agents/digital-advertising)[Task Management](https://www.taskade.com/agents/task-management)[Analytics](https://www.taskade.com/agents/analytics)[Content Curation](https://www.taskade.com/agents/content-curation)[Learning and Development](https://www.taskade.com/agents/learning-and-development)[Knowledge Management](https://www.taskade.com/agents/knowledge-management)[Product Development](https://www.taskade.com/agents/product-development)[Finance](https://www.taskade.com/agents/finance)[Public Relations](https://www.taskade.com/agents/public-relations)[Creativity](https://www.taskade.com/agents/creativity)[Community Management](https://www.taskade.com/agents/community-management)[Meetings](https://www.taskade.com/agents/meetings)[Branding](https://www.taskade.com/agents/branding)[Business](https://www.taskade.com/agents/business)[Task Automation](https://www.taskade.com/agents/task-automation)[Coaching](https://www.taskade.com/agents/coaching)[CRM](https://www.taskade.com/agents/crm)[Programming](https://www.taskade.com/agents/programming)[Human Resources](https://www.taskade.com/agents/human-resources)[E-Commerce](https://www.taskade.com/agents/e-commerce)[Education](https://www.taskade.com/agents/education)[Legal](https://www.taskade.com/agents/legal)[Email](https://www.taskade.com/agents/email)[Video Production](https://www.taskade.com/agents/video-production)[SEO](https://www.taskade.com/agents/seo)[Developer](https://www.taskade.com/agents/developers)[Flowchart](https://www.taskade.com/agents/flowchart)[Design](https://www.taskade.com/agents/design)[Data](https://www.taskade.com/agents/data)[Prompt](https://www.taskade.com/agents/prompt)[Assistants](https://www.taskade.com/agents/assistants)[Nonprofit](https://www.taskade.com/agents/nonprofit)[Teams](https://www.taskade.com/agents/teams)[Customer Service](https://www.taskade.com/agents/customer-service)[Training](https://www.taskade.com/agents/training)
+
+[Templates](https://www.taskade.com/templates)[Featured](https://www.taskade.com/templates/featured)[ChatGPT](https://www.taskade.com/templates/ai)[Personal](https://www.taskade.com/templates/personal)[Table](https://www.taskade.com/templates/table)[Project Management](https://www.taskade.com/templates/project-management)[Task Management](https://www.taskade.com/templates/task-management)[Flowchart](https://www.taskade.com/templates/flowchart)
+
+See all ▼
+
+[Sales](https://www.taskade.com/templates/sales)[Engineering](https://www.taskade.com/templates/engineering)[Education](https://www.taskade.com/templates/education)[Design](https://www.taskade.com/templates/design)[To-Do List](https://www.taskade.com/templates/to-do-list)[Marketing](https://www.taskade.com/templates/marketing)[Mind Map](https://www.taskade.com/templates/mindmap)[Organizational](https://www.taskade.com/templates/organizational)[Gantt Chart](https://www.taskade.com/templates/gantt)[Planning](https://www.taskade.com/templates/planning)[Meetings](https://www.taskade.com/templates/meetings)[Team Management](https://www.taskade.com/templates/team-management)[Strategy](https://www.taskade.com/templates/strategy)[Gaming](https://www.taskade.com/templates/gaming)[Production](https://www.taskade.com/templates/production)[Product Management](https://www.taskade.com/templates/product-management)[Startup](https://www.taskade.com/templates/startups)[Remote Work](https://www.taskade.com/templates/remote-work)[Y Combinator](https://www.taskade.com/templates/y-combinator)[Roadmap](https://www.taskade.com/templates/roadmap)[Email](https://www.taskade.com/templates/email)[Content](https://www.taskade.com/templates/content)[Coaching](https://www.taskade.com/templates/coaching)[E-Commerce](https://www.taskade.com/templates/e-commerce)[Social Media](https://www.taskade.com/templates/social-media)[Consulting](https://www.taskade.com/templates/consulting)[Human Resources](https://www.taskade.com/templates/human-resource)[Budgets](https://www.taskade.com/templates/budgets)[Customer Service](https://www.taskade.com/templates/customer-service)[Programming](https://www.taskade.com/templates/programming)[Legal](https://www.taskade.com/templates/legal)[Standard Operating Procedure (SOP)](https://www.taskade.com/templates/standard-operating-procedure)[Maintenance](https://www.taskade.com/templates/maintenance)[How-Tos](https://www.taskade.com/templates/how-tos)[Research](https://www.taskade.com/templates/research)[Music](https://www.taskade.com/templates/music)[Trip Planning](https://www.taskade.com/templates/trip-planning)
+
+[Generators](https://www.taskade.com/generate)[AI Productivity](https://www.taskade.com/generate/ai)[AI To-Do List](https://www.taskade.com/generate/to-do-list)
+
+See all ▼
+
+[AI Workflows](https://www.taskade.com/generate/workflows)[AI Education](https://www.taskade.com/generate/education)[AI Mind Maps](https://www.taskade.com/generate/mind-maps)[AI Flowchart](https://www.taskade.com/generate/flowchart)[AI Scrum Project Management](https://www.taskade.com/generate/ai-scrum-project-management)[AI Agile Project Management](https://www.taskade.com/generate/ai-agile-project-management)[AI Marketing](https://www.taskade.com/generate/marketing)[AI Project Management](https://www.taskade.com/generate/project-management)[AI Social Media Management](https://www.taskade.com/generate/social-media-management)[AI Blogging](https://www.taskade.com/generate/blogging)[AI Agency Workflows](https://www.taskade.com/generate/agency-workflows)[AI Content](https://www.taskade.com/generate/content)[AI Meeting](https://www.taskade.com/generate/ai-meeting)[AI Personas](https://www.taskade.com/generate/personas)[AI Software Development](https://www.taskade.com/generate/ai-software-development)[AI Outline](https://www.taskade.com/generate/outline)[AI Sales](https://www.taskade.com/generate/sales)[AI Programming](https://www.taskade.com/generate/programming)[AI Design](https://www.taskade.com/generate/design)[AI Freelancing](https://www.taskade.com/generate/freelancing)[AI Resume](https://www.taskade.com/generate/resume)[AI Human Resource](https://www.taskade.com/generate/human-resource)[AI SOP](https://www.taskade.com/generate/sop)[AI E-Commerce](https://www.taskade.com/generate/e-commerce)[AI Email](https://www.taskade.com/generate/email)[AI Public Relations](https://www.taskade.com/generate/public-relations)[AI Influencers](https://www.taskade.com/generate/influencers)[AI Content Creators](https://www.taskade.com/generate/content-creators)[AI Customer Service](https://www.taskade.com/generate/customer-service)[AI Business](https://www.taskade.com/generate/ai-business)[AI Prompts](https://www.taskade.com/generate/ai-prompts)[AI Tools](https://www.taskade.com/generate/tools)[AI SEO](https://www.taskade.com/generate/seo)[AI Gantt Chart](https://www.taskade.com/generate/ai-gantt-chart)[AI Calendars](https://www.taskade.com/generate/calendars)[AI Board](https://www.taskade.com/generate/board)[AI Table](https://www.taskade.com/generate/table)[AI Research](https://www.taskade.com/generate/research)[AI Legal](https://www.taskade.com/generate/legal)[AI Proposal](https://www.taskade.com/generate/proposal)[AI Video Production](https://www.taskade.com/generate/video-production)[AI Health and Wellness](https://www.taskade.com/generate/health-and-wellness)[AI Writing](https://www.taskade.com/generate/writing)[AI Publishing](https://www.taskade.com/generate/publishing)[AI Nonprofit](https://www.taskade.com/generate/nonprofit)[AI Data](https://www.taskade.com/generate/ai-data)[AI Event Planning](https://www.taskade.com/generate/event-planning)[AI Game Development](https://www.taskade.com/generate/game-development)[AI Project Management Agent](https://www.taskade.com/generate/project-management-agent)[AI Productivity Agent](https://www.taskade.com/generate/ai-productivity-agent)[AI Marketing Agent](https://www.taskade.com/generate/ai-marketing-agent)[AI Personal Agent](https://www.taskade.com/generate/ai-personal-agent)[AI Business and Work Agent](https://www.taskade.com/generate/ai-business-and-work-agent)[AI Education and Learning Agent](https://www.taskade.com/generate/ai-education-and-learning-agent)[AI Task Management Agent](https://www.taskade.com/generate/ai-task-management-agent)[AI Customer Relations Agent](https://www.taskade.com/generate/ai-customer-relations-agent)[AI Programming Agent](https://www.taskade.com/generate/ai-programming-agent)[AI Schema](https://www.taskade.com/generate/schema)
+
+[Converters](https://www.taskade.com/convert)[AI PDF Converters](https://www.taskade.com/convert/pdf)[AI CSV Converters](https://www.taskade.com/convert/csv)
+
+See all ▼
+
+[AI Markdown Converters](https://www.taskade.com/convert/markdown)[AI Flowcharts Converters](https://www.taskade.com/convert/flowcharts)[AI Mind Map Converters](https://www.taskade.com/convert/mind-map)[AI Text Converters](https://www.taskade.com/convert/text)[AI Knowledge Converters](https://www.taskade.com/convert/knowledge)[AI Youtube Converters](https://www.taskade.com/convert/youtube)[AI Spreadsheet Converters](https://www.taskade.com/convert/spreadsheet)[AI Email Converters](https://www.taskade.com/convert/email)[AI Web Page Converters](https://www.taskade.com/convert/web-page)[AI Video Converters](https://www.taskade.com/convert/video)[AI Coding Converters](https://www.taskade.com/convert/coding)[AI Task Converters](https://www.taskade.com/convert/tasks)[AI Kanban Board Converters](https://www.taskade.com/convert/kanban-board)[AI Notes Converters](https://www.taskade.com/convert/notes)[AI Education Converters](https://www.taskade.com/convert/education)[AI Language Translators](https://www.taskade.com/convert/translate)
+
+[Prompts](https://www.taskade.com/prompts)[Research](https://www.taskade.com/prompts/research)[Analytics](https://www.taskade.com/prompts/analytics)
+
+See all ▼
+
+[Entrepreneurship](https://www.taskade.com/prompts/entrepreneurship)[Legal](https://www.taskade.com/prompts/legal)[Support](https://www.taskade.com/prompts/support)[Agency](https://www.taskade.com/prompts/agency)[Real Estate](https://www.taskade.com/prompts/real_estate)[Coding](https://www.taskade.com/prompts/coding)[Blog Writing](https://www.taskade.com/prompts/blog-writing)[Personal Finance](https://www.taskade.com/prompts/personal-finance)[Marketing](https://www.taskade.com/prompts/marketing)[Branding](https://www.taskade.com/prompts/branding)[Human Resources](https://www.taskade.com/prompts/human-resources)[Public Relations](https://www.taskade.com/prompts/public-relations)[Team Collaboration](https://www.taskade.com/prompts/team-collaboration)[Influencer Marketing](https://www.taskade.com/prompts/influencer_marketing)[Productivity](https://www.taskade.com/prompts/productivity)[UX/UI](https://www.taskade.com/prompts/ux_ui)[Sales](https://www.taskade.com/prompts/sales)[Advertising](https://www.taskade.com/prompts/advertising)[Social Media](https://www.taskade.com/prompts/social_media)[Copywriting](https://www.taskade.com/prompts/copywriting)[Content](https://www.taskade.com/prompts/content)[Project Management](https://www.taskade.com/prompts/project_management)[Website Creation](https://www.taskade.com/prompts/website_creation)[Design](https://www.taskade.com/prompts/design)[Strategy](https://www.taskade.com/prompts/strategy)[E-commerce](https://www.taskade.com/prompts/ecommerce)[Engineering](https://www.taskade.com/prompts/engineering)[SEO](https://www.taskade.com/prompts/seo)[Education](https://www.taskade.com/prompts/education)[Email Marketing](https://www.taskade.com/prompts/email_marketing)[Product Management](https://www.taskade.com/prompts/product-management)
+
+[Blog](https://www.taskade.com/blog)
+
+[Automations](https://www.taskade.com/automate)[HubSpot](https://www.taskade.com/automate/hubspot)[Content](https://www.taskade.com/automate/content)
+
+See all ▼
+
+[Project Management](https://www.taskade.com/automate/project-management)[Calendar](https://www.taskade.com/automate/calendar)[Website](https://www.taskade.com/automate/website)[Marketing](https://www.taskade.com/automate/marketing)[Form](https://www.taskade.com/automate/form)[Slack](https://www.taskade.com/automate/slack)[Featured](https://www.taskade.com/automate/featured)[Email](https://www.taskade.com/automate/email)[Task](https://www.taskade.com/automate/task)[Reports](https://www.taskade.com/automate/reports)[Sales](https://www.taskade.com/automate/sales)[ChatGPT](https://www.taskade.com/automate/chatgpt)[Text to Action](https://www.taskade.com/automate/text-to-action)[Web Scraping](https://www.taskade.com/automate/web-scraping)[Agentic Workflows](https://www.taskade.com/automate/agentic-workflows)[Web Search](https://www.taskade.com/automate/web-search)[Youtube](https://www.taskade.com/automate/youtube)[LinkedIn](https://www.taskade.com/automate/linkedin)[Twitter](https://www.taskade.com/automate/twitter)[Customer Support](https://www.taskade.com/automate/customer-support)
+
+[Wiki](https://www.taskade.com/wiki)[Productivity](https://www.taskade.com/wiki/productivity)[Productivity Methods](https://www.taskade.com/wiki/productivity-methods)
+
+See all ▼
+
+[Scrum](https://www.taskade.com/wiki/scrum)[Agile](https://www.taskade.com/wiki/agile)[Project Management](https://www.taskade.com/wiki/project-management)[Artificial Intelligence](https://www.taskade.com/wiki/ai)[Taskade](https://www.taskade.com/wiki/taskade)
+
+Made with ❤️ in San Francisco, US
+
+[© 2025 Taskade.](https://www.taskade.com/)
+
+[Privacy](https://www.taskade.com/privacy)[Terms](https://www.taskade.com/terms)[Security](https://www.taskade.com/security)
+
+[](https://reddit.com/r/taskade "Reddit")[](https://youtube.com/taskade "Youtube")[](https://github.com/taskade "Github")[](https://instagram.com/taskade "Instagram")[](https://twitter.com/taskade "Twitter")[](https://www.tiktok.com/@taskade "TikTok")
+
+## Metadata
+
+```json
+{
+  "title": "Taskade AI - The World’s #1 AI Productivity Tool",
+  "description": "Taskade AI is a powerful AI productivity tool that will help you efficiently manage tasks and projects. Generate task lists, mind maps, and structured notes.",
+  "url": "https://www.taskade.com/ai/app",
+  "content": "Taskade AI - The World’s #1 AI Productivity Tool | Taskade\n===============\n  \n\n[](https://www.taskade.com/ \"Taskade\")\n\nProduct![Image 106](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Download Apps](https://www.taskade.com/downloads)\n\n[Features](https://www.taskade.com/features)\n\n[Updates](https://www.taskade.com/blog/updates/)\n\n[Security](https://www.taskade.com/security)\n\n[Contact](https://www.taskade.com/contact)\n\n[AI Agents](https://www.taskade.com/ai/agents)![Image 107](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Custom AI Agents](https://help.taskade.com/en/articles/8958457-custom-ai-agents)\n\n[Agent Knowledge](https://help.taskade.com/en/articles/9495190-agent-knowledge-data)\n\n[Agent Generator](https://help.taskade.com/en/articles/9314104-ai-agent-generator)\n\n[Multi-Agents](https://help.taskade.com/en/articles/9254706-multi-agents)\n\n[Site Reader](https://help.taskade.com/en/articles/9314171-tools-for-ai-agents#h_82311f8d45)\n\n[Web Search](https://help.taskade.com/en/articles/9314171-tools-for-ai-agents#h_82311f8d45)\n\n[Tools for Agents](https://help.taskade.com/en/articles/9314171-tools-for-ai-agents)\n\n[Autonomous Agents](https://help.taskade.com/en/articles/8958458-autonomous-ai-agents)\n\n[AI Automations](https://www.taskade.com/ai/automation)![Image 108](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Build AI Automations](https://help.taskade.com/en/articles/8958467-getting-started-with-automation)\n\n[Automate with AI Agents](https://help.taskade.com/en/articles/8958471-agents)\n\n[Automation Actions](https://help.taskade.com/en/articles/8958470-automation-actions)\n\n[Automation Triggers](https://help.taskade.com/en/articles/8958469-automation-triggers)\n\n[HTTP Request](https://help.taskade.com/en/articles/9421110-http-request)\n\n[Webhooks](https://help.taskade.com/en/articles/9494976-webhooks-automation-trigger)\n\n[Project Views](https://www.taskade.com/new)![Image 109](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[List](https://www.taskade.com/ai/outline)\n\n[Table](https://help.taskade.com/en/articles/8958389-table-view)\n\n[Mind Map](https://www.taskade.com/ai/mind-map)\n\n[Gantt Chart](https://help.taskade.com/en/articles/9072639-gantt-chart-view)\n\n[Org Chart](https://help.taskade.com/en/articles/8958391-org-chart-view)\n\n[Kanban Board](https://help.taskade.com/en/articles/8958387-board-kanban-view)\n\n[Calendar](https://help.taskade.com/en/articles/8958388-calendar-view)\n\n[Integrations](https://www.taskade.com/integrations)![Image 110](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Taskade API](https://developers.taskade.com/)\n\n[Slack](https://help.taskade.com/en/articles/8958478-slack-integration)\n\n[Gmail](https://help.taskade.com/en/articles/8958474-gmail-integration)\n\n[HubSpot](https://help.taskade.com/en/articles/9315508-hubspot-integration)\n\n[Calendly](https://help.taskade.com/en/articles/9070636-calendly-integration)\n\n[Zapier](https://help.taskade.com/en/articles/8958540-zapier-integration)\n\n[Google Calendar](https://help.taskade.com/en/articles/8958536-google-calendar-integration)\n\n[Google Forms](https://help.taskade.com/en/articles/8958473-google-forms-integration)\n\n[Import & Export](https://help.taskade.com/en/collections/8400881-import-export)\n\n[Taskade AI](https://www.taskade.com/ai)![Image 111](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[AI Project Studio](https://help.taskade.com/en/articles/8958450-ai-project-studio)\n\n[AI Automation](https://help.taskade.com/en/collections/8400803-ai-automation)\n\n[AI Chat](https://www.taskade.com/ai/chat)\n\n[AI File Uploads](https://help.taskade.com/en/articles/8958461-media-tab)\n\n[AI CSV Converter](https://help.taskade.com/en/articles/8958466-convert-spreadsheet-with-ai)\n\n[AI Prompt Templates](https://help.taskade.com/en/articles/8958452-ai-prompt-templates-library)\n\n[AI Document Summarizer](https://help.taskade.com/en/articles/8958465-summarize-documents-with-ai)\n\nSolutions![Image 112](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Project Management](https://www.taskade.com/ai/project-management)\n\n[Marketing Assistant](https://www.taskade.com/ai/marketing)\n\n[AI Writing Assistant](https://www.taskade.com/ai/writer)\n\n[Task Management](https://www.taskade.com/ai/tasks)\n\n[Mind Maps](https://www.taskade.com/ai/mind-map)\n\n[AI Agent Teams](https://help.taskade.com/en/articles/8958457-custom-ai-agents)\n\n[Content Creation](https://help.taskade.com/en/articles/8958450-ai-project-studio)\n\n[Workflow Automation](https://help.taskade.com/en/articles/8958467-getting-started-with-automation)\n\n[For Agencies](https://www.taskade.com/ai/agency)\n\n[Use Cases](https://help.taskade.com/en/collections/8400901-use-cases)\n\nLearn![Image 113](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Blog](https://www.taskade.com/blog)\n\n[FAQ](https://www.taskade.com/faq)\n\n[Help](https://help.taskade.com/)\n\n[Community](https://www.taskade.com/community)\n\n[Video Tutorials](https://www.youtube.com/taskade)\n\n[Customize AI Agents](https://help.taskade.com/en/articles/8958457-custom-ai-agents)\n\n[Generate Projects](https://help.taskade.com/hc/en-us/articles/16626189880851)\n\n[Learn Taskade AI](https://help.taskade.com/en/collections/8400799-taskade-ai)\n\n[Import & Export](https://help.taskade.com/en/collections/8400881-import-export)\n\n[Customer Reviews](https://www.taskade.com/reviews)\n\nTools![Image 114](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[AI Templates](https://www.taskade.com/templates)![Image 115](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Featured](https://www.taskade.com/templates/featured)\n\n[Project Management](https://www.taskade.com/templates/project-management)\n\n[Mind Map](https://www.taskade.com/templates/mindmap)\n\n[Personal](https://www.taskade.com/templates/personal)\n\n[All Templates](https://www.taskade.com/templates/categories)\n\n[AI Generators](https://www.taskade.com/generate)![Image 116](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Productivity](https://www.taskade.com/generate/ai)\n\n[Flowchart](https://www.taskade.com/generate/flowchart)\n\n[Content](https://www.taskade.com/generate/content)\n\n[Workflows](https://www.taskade.com/generate/workflows)\n\n[All Generators](https://www.taskade.com/generate/categories)\n\n[AI Converters](https://www.taskade.com/convert)![Image 117](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Convert Text](https://www.taskade.com/convert/text)\n\n[Convert PDFs](https://www.taskade.com/convert/pdf)\n\n[Convert CSVs](https://www.taskade.com/convert/csv)\n\n[All Converters](https://www.taskade.com/convert/categories)\n\n[AI Agents](https://www.taskade.com/agents)![Image 118](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Marketing Agents](https://www.taskade.com/agents/marketing)\n\n[Productivity Agents](https://www.taskade.com/agents/productivity)\n\n[Project Management](https://www.taskade.com/agents/project-management)\n\n[All Agents](https://www.taskade.com/agents/categories)\n\n[AI Automations](https://www.taskade.com/automate)![Image 119](https://www.taskade.com/static_images/landing/dropdown-caret.svg)\n\n[Marketing Automations](https://www.taskade.com/automate/marketing)\n\n[Email Automations](https://www.taskade.com/automate/email)\n\n[Task Automations](https://www.taskade.com/automate/task)\n\n[All Automations](https://www.taskade.com/automate/categories)\n\n[Pricing](https://www.taskade.com/pricing)\n\n[Contact sales](https://taskade.com/request-demo)[Log in](https://www.taskade.com/login)[Sign upSign up for free](https://www.taskade.com/signup)\n\n[](https://www.taskade.com/ \"Taskade\")\n\n*   Product\n    \n*   Solutions\n    \n*   Learn\n    \n*   [Downloads](https://www.taskade.com/downloads)\n\n[Sign up for free](https://www.taskade.com/signup)[Log in](https://www.taskade.com/login)\n\n[![Image 120: Apple Badge](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fbadge_apple.png&w=384&q=75)](https://apps.apple.com/us/app/taskade-team-productivity/id1264713923)[![Image 121: Google Badge](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fbadge_google.png&w=384&q=75)](https://play.google.com/store/apps/details?id=com.taskade.mobile)\n\n[](https://www.taskade.com/ai)\n\nIntroducing Taskade AI\n======================\n\nUnlock the power of artificial intelligence. Instantly generate task lists, mind maps, meeting agendas, and custom workflows. Engage with an intelligent AI assistants and collaborate with your team, all within one unified workspace.\n\n![Image 122: email logo](https://www.taskade.com/static_images/landing/email-stroke.svg) Start with AI\n\nYour browser does not support the video tag.\n\n![Image 123: semi circles](https://www.taskade.com/static_images/landing/semicircles.png)![Image 124: download dots](https://www.taskade.com/static_images/landing/downloaddots.png)![Image 125: dots](https://www.taskade.com/static_images/landing/nine_dots.png)![Image 126: cross](https://www.taskade.com/static_images/landing/cross.png)![Image 127: squares](https://www.taskade.com/static_images/landing/squares.png)\n\nBuild Your UltimateAI Agent Workforce.Build Your UltimateAI Agent Workforce.\n----------------------------------------------------------------------------\n\n![Image 128](https://www.taskade.com/static_images/icons/banner_agents.svg)AI AI Agents![Image 129](https://www.taskade.com/static_images/icons/banner_automation.svg)AutoAI Automation![Image 130](https://www.taskade.com/static_images/icons/banner_tasks.svg)TasksTasks & Projects![Image 131](https://www.taskade.com/static_images/icons/banner_mindmap.svg)MindsAI Mind Maps![Image 132](https://www.taskade.com/static_images/icons/banner_ai_chat.svg)ChatAI Chat\n\nYour browser does not support the video tag.\n\n[Try Instant Demo ✨](https://www.taskade.com/signup?ref=landing)\n\nYour browser does not support the video tag.\n\n[Try Instant Demo ✨](https://www.taskade.com/signup?ref=landing)\n\nYour browser does not support the video tag.\n\n[Try Instant Demo ✨](https://www.taskade.com/signup?ref=landing)\n\nYour browser does not support the video tag.\n\n[Try Instant Demo ✨](https://www.taskade.com/signup?ref=landing)\n\nYour browser does not support the video tag.\n\n[Try Instant Demo ✨](https://www.taskade.com/signup?ref=landing)\n\n[Loved by over a million users from companies like](https://www.taskade.com/reviews)\n\n![Image 133: 3M](https://www.taskade.com/static_images/companies/logo_3m.svg)\n\n![Image 134: Dentsu](https://www.taskade.com/static_images/companies/logo_dentsu.svg)\n\n![Image 135: Backblaze](https://www.taskade.com/static_images/companies/logo_backblaze.svg)\n\n![Image 136: Nike](https://www.taskade.com/static_images/companies/logo_nike.svg)\n\n![Image 137: Tesla](https://www.taskade.com/static_images/companies/logo_tesla.svg)\n\n![Image 138: Netflix](https://www.taskade.com/static_images/companies/logo_netflix.svg)\n\n![Image 139: Airbnb](https://www.taskade.com/static_images/companies/logo_airbnb.svg)\n\n![Image 140: Red Bull](https://www.taskade.com/static_images/companies/logo_redbull.svg)\n\n![Image 141: Disney](https://www.taskade.com/static_images/companies/logo_disney.svg)\n\n![Image 142: Blizzard](https://www.taskade.com/static_images/companies/logo_blizzard.svg)\n\n![Image 143: MLB](https://www.taskade.com/static_images/companies/logo_mlb.svg)\n\n![Image 144: Adobe](https://www.taskade.com/static_images/companies/logo_adobe.svg)\n\n![Image 145: Starbucks](https://www.taskade.com/static_images/companies/logo_starbucks.svg)\n\n![Image 146: ESPN](https://www.taskade.com/static_images/companies/logo_espn.svg)\n\n![Image 147: Booking.com](https://www.taskade.com/static_images/companies/logo_booking.svg)\n\n![Image 148: BBC](https://www.taskade.com/static_images/companies/logo_bbc.svg)\n\n![Image 149: Lyft](https://www.taskade.com/static_images/companies/logo_lyft.svg)\n\n![Image 150: Verizon](https://www.taskade.com/static_images/companies/logo_verizon.svg)\n\n![Image 151: TransferWise](https://www.taskade.com/static_images/companies/logo_transferwise.svg)\n\n![Image 152: Sony](https://www.taskade.com/static_images/companies/logo_sony.svg)\n\n![Image 153: Compass](https://www.taskade.com/static_images/companies/logo_compass.svg)\n\n![Image 154: Indeed](https://www.taskade.com/static_images/companies/logo_indeed.svg)\n\n![Image 155: Y Combinator](https://www.taskade.com/static_images/companies/logo_ycombinator.svg)\n\n![Image 156: Costco](https://www.taskade.com/static_images/companies/logo_costco.svg)\n\n![Image 157: Vox](https://www.taskade.com/static_images/companies/logo_vox.svg)\n\n![Image 158: Yamaha](https://www.taskade.com/static_images/companies/logo_yamaha.svg)\n\n![Image 159: 3M](https://www.taskade.com/static_images/companies/logo_3m.svg)\n\n![Image 160: Dentsu](https://www.taskade.com/static_images/companies/logo_dentsu.svg)\n\n![Image 161: Backblaze](https://www.taskade.com/static_images/companies/logo_backblaze.svg)\n\n![Image 162: Nike](https://www.taskade.com/static_images/companies/logo_nike.svg)\n\n![Image 163: Tesla](https://www.taskade.com/static_images/companies/logo_tesla.svg)\n\n![Image 164: Netflix](https://www.taskade.com/static_images/companies/logo_netflix.svg)\n\n![Image 165: Airbnb](https://www.taskade.com/static_images/companies/logo_airbnb.svg)\n\n![Image 166: Red Bull](https://www.taskade.com/static_images/companies/logo_redbull.svg)\n\n![Image 167: Disney](https://www.taskade.com/static_images/companies/logo_disney.svg)\n\n![Image 168: Blizzard](https://www.taskade.com/static_images/companies/logo_blizzard.svg)\n\n![Image 169: MLB](https://www.taskade.com/static_images/companies/logo_mlb.svg)\n\n![Image 170: Adobe](https://www.taskade.com/static_images/companies/logo_adobe.svg)\n\n![Image 171: Starbucks](https://www.taskade.com/static_images/companies/logo_starbucks.svg)\n\n![Image 172: ESPN](https://www.taskade.com/static_images/companies/logo_espn.svg)\n\n![Image 173: Booking.com](https://www.taskade.com/static_images/companies/logo_booking.svg)\n\n![Image 174: BBC](https://www.taskade.com/static_images/companies/logo_bbc.svg)\n\n![Image 175: Lyft](https://www.taskade.com/static_images/companies/logo_lyft.svg)\n\n![Image 176: Verizon](https://www.taskade.com/static_images/companies/logo_verizon.svg)\n\n![Image 177: TransferWise](https://www.taskade.com/static_images/companies/logo_transferwise.svg)\n\n![Image 178: Sony](https://www.taskade.com/static_images/companies/logo_sony.svg)\n\n![Image 179: Compass](https://www.taskade.com/static_images/companies/logo_compass.svg)\n\n![Image 180: Indeed](https://www.taskade.com/static_images/companies/logo_indeed.svg)\n\n![Image 181: Y Combinator](https://www.taskade.com/static_images/companies/logo_ycombinator.svg)\n\n![Image 182: Costco](https://www.taskade.com/static_images/companies/logo_costco.svg)\n\n![Image 183: Vox](https://www.taskade.com/static_images/companies/logo_vox.svg)\n\n![Image 184: Yamaha](https://www.taskade.com/static_images/companies/logo_yamaha.svg)\n\nA Collaborative AI Second Brain\n-------------------------------\n\nFive AI-powered tools in one to supercharge your team productivity. With Taskade, all your work is in sync in one unified workspace.\n\nYour browser does not support the video tag.\n\nAI Automation\n-------------\n\nTaskade Automations enable you to automate tasks and projects, design custom workflows, streamline collaboration, and integrate with other platforms. Get more work done with AI today.\n\nYour browser does not support the video tag.\n\nAI Agents\n---------\n\nCreate customizable AI Agents and equip them with the knowledge needed to get the job done. Feed them with custom instructions and commands and use them in your projects to get work done.\n\nYour browser does not support the video tag.\n\nChat with AI Agents\n-------------------\n\nChat with AI Agents within your projects to get a fresh perspective on things. Get access to a wide selection of AI expert personas with Taskade.\n\nRedefine Your Workflows with Taskade AI.\n----------------------------------------\n\n[![Image 185: AI Generate Workflows](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-generate-workflows.png&w=3840&q=75) #### AI Workflow Generator Generate projects, SOPs, mind maps, and task lists in seconds. Let AI handle the creation so you can focus on what really matters. Spend less time on setup and more time driving results.](https://help.taskade.com/en/articles/8958450-ai-project-studio)\n\n[![Image 186: Custom AI Agents in Taskade](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_ai_custom_agent.png&w=3840&q=75) #### Custom AI Agents Empower your workflows with Custom AI Agents designed specifically for marketing and project management. Let AI manage tasks and provide insights to enhance your team's performance.](https://help.taskade.com/en/articles/8958457-custom-ai-agents)\n\n[![Image 187: AI Automations & Flows in Taskade](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_automation.png&w=3840&q=75) #### AI Automation Flows Streamline your projects with AI Automations flows that connect all your essential tools. Put your marketing, sales, and operations on autopilot to unlock more resources for strategic work.](https://help.taskade.com/en/articles/8958467-getting-started)\n\n[![Image 188: AI Teams](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_ai_custom_agent.png&w=3840&q=75) #### AI Teams Build specialized AI teams to interact with multiple agents simultaneously. Chat, collaborate, activate tools, and leverage your agents' collective expertise. Achieve faster results and tackle tasks with ease.](https://help.taskade.com/en/articles/9586050-ai-teams)\n\n[![Image 189: Agent Knowledge](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-media-file-manager.png&w=3840&q=75) #### Agent Knowledge Train your custom AI agents with documents, files, web resources, and YouTube videos for more accurate responses. Give them access to live projects for dynamic, real-time learning.](https://help.taskade.com/en/articles/9495190-agent-knowledge-data)\n\n[![Image 190: AI Agent Collaboration](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-agents.png&w=3840&q=75) #### Agent Collaboration Deploy multiple custom AI agents within your projects to handle different tasks and complement each other's work. Your agents stay busy to reduce bottlenecks and ensure smooth operations.](https://help.taskade.com/en/articles/9254706-multi-agents)\n\n[![Image 191: Agent Sidebar](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-project-file-chat.png&w=3840&q=75) #### Agent Sidebar Customize the agent sidebar to have all your favorite agents accessible in one place. Reorder agents, start chats, browse conversation history, and keep your AI workforce organized.](https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_f6566b2583)\n\n[![Image 192: AI Agents](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-agents.png&w=3840&q=75) #### Autonomous AI Agents Build a powerful AI workforce that transforms how you get things done. Create, train, and run AI Agents powered by GPT 4o to autonomously research, complete tasks, and manage workflows.](https://help.taskade.com/en/articles/8958458-autonomous-ai-agents)\n\n[![Image 193: Automation Triggers & Actions](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-prioritize-tasks.png&w=3840&q=75) #### Powerful Triggers & Actions Choose from dozens of triggers and actions for your automations. Control projects within your Taskade workspace and manage external tools like Google Forms, HubSpot, and others.](https://help.taskade.com/en/articles/8958470-automation-actions)\n\n[![Image 194: Smart Tools & Integrations](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-project-file-chat.png&w=3840&q=75) #### Smart Tools & Integrations Connect agents and automations to the apps you're already using, including Gmail, Slack, Zapier, and many more. Build your own tools for a tailored experience that fits like a glove.](https://www.taskade.com/integrations)\n\n[![Image 195: AI Forms](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_automation.png&w=3840&q=75) #### AI Forms Build smart automations around shareable and customizable forms for collecting and analyzing data. Tailor forms with text, numbers, dropdowns, and file uploads to suit various use cases.](https://help.taskade.com/en/articles/9711589-ai-forms)\n\n[![Image 196: AI Research Agent](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-research-agent.png&w=3840&q=75) #### AI Writing and Task Assistant Brainstorm, outline, write, edit, and organize your work directly in the project editor. Use /slash command to create and refine documents, spellcheck your content, and generate tasks on the fly.](https://help.taskade.com/en/articles/8958449-taskade-ai-assistant)\n\n[![Image 197: AI Project File Chat](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-project-file-chat.png&w=3840&q=75) #### Chat with Your Docs Upload files and engage with them directly in your projects. Ask questions, extract summaries, and uncover valuable insights anytime, anywhere. Transform your documents into intelligent resources.](https://help.taskade.com/hc/en-us/articles/15377208956947--Taskade-AI-Chat)\n\n[![Image 198: AI Personas Tones](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-personas-tones.png&w=3840&q=75) #### AI Personas and Tones Set roles and tones for Taskade AI to align responses with your needs and context. Engage with specialized personas, such as project managers, analysts, and marketing experts.](https://help.taskade.com/hc/en-us/articles/19170915415827--AI-Chat-Personas)\n\n[![Image 199: AI Prompt Templates](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-prompt-templates.png&w=3840&q=75) #### AI Prompt Templates Explore a vast library of customizable prompt templates and generators. Discover the ideal setup to unlock Taskade AI’s potential and save time getting projects off the ground.](https://help.taskade.com/hc/en-us/articles/22882794358547-AI-Prompt-Templates-Library)\n\n[![Image 200: AI CSV Import](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-csv-import.png&w=3840&q=75) #### Summarize Documents with AI Transform your PDFs, CSVs, and Docs into projects using AI. Convert your files into structured tasks for easy access to important information. Upload, import, and watch the magic happen.](https://help.taskade.com/hc/en-us/articles/17959875729811--Summarize-Documents-with-AI)\n\n[![Image 201: AI Generate Tasks](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-generate-tasks.png&w=3840&q=75) #### Generate Action Items with AI Turn ideas into actions in a snap. Convert notes into actionable tasks, develop lists of action items, and prioritize your next steps effectively. Taskade AI streamlines the process to help you stay focused.](https://help.taskade.com/hc/en-us/articles/16626189880851--Taskade-AI-Generator-Projects-Blocks-Tasks-)\n\n[![Image 202: AI Prioritize Tasks](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-prioritize-tasks.png&w=3840&q=75) #### Prioritize Tasks with AI Let AI prioritize and organize your tasks. Automatically highlight your most important tasks to avoid getting lost in a long to-do list. Focus on what truly matters and eliminate overwhelm.](https://help.taskade.com/hc/en-us/articles/18868817701907--Bulk-AI-Commands)\n\n[![Image 203: Taskade Slash Command](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Ftaskade-slash-command.png&w=3840&q=75) #### AI-Powered Natural Language Say goodbye to manual entry. Use natural language to schedule tasks with slash commands for due dates and reminders. With just a few keystrokes, you can ensure tasks are completed on time.](https://help.taskade.com/hc/en-us/articles/7525966494227)\n\n[![Image 204: Tooltip AI Outline](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_ai_outline.png&w=3840&q=75) #### 10x Productivity with \"/\" Slash Type \"/\" anywhere in your project to access Taskade’s AI features, add-ons, and formatting shortcuts. Instantly add due dates, assign tasks, and upload files without missing a beat.](https://help.taskade.com/hc/en-us/articles/5119502628627--Slash-Commands)\n\n[![Image 205: AI Media File Manager](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-media-file-manager.png&w=3840&q=75) #### AI Media & File Manager Manage your files in a new way. Access all your uploaded documents in one place and chat with them for AI-driven insights. Extract summaries, find key information, and turn docs into actionable tasks.](https://help.taskade.com/hc/en-us/articles/20836143902611--Media-Manager)\n\n[![Image 206: Taskade Widgets, Mobile, Desktop Apps](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-widgets.png&w=3840&q=75) #### Mobile & Desktop Apps Access Taskade on any device and enjoy a faster, seamless experience with enhanced notifications and native support. Available for desktop, mobile, and web browsers.](https://www.taskade.com/downloads)\n\n[![Image 207: YouTube Transcription & Analysis](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-csv-import.png&w=3840&q=75) #### YouTube Transcription & Analysis Transform YouTube videos into text with the transcription & analysis feature. Use them in AI automation flows, for generating projects and workflows, and as knowledge sources for AI Agents.](https://help.taskade.com/en/articles/9805233-transcribe-youtube-automation-action)\n\n[![Image 208: Web Search & Scraping](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Fpricing%2Ftooltip_automation.png&w=3840&q=75) #### Web Search & Scraping Capture essential data from websites and articles straight into Taskade. Automate information gathering, distill web content, research topics, watch competitors, and keep up with trends.](https://help.taskade.com/en/articles/9805157-scrape-webpage-automation-action)\n\n[![Image 209: Custom Webhooks & HTTP Requests](https://www.taskade.com/_next/image?url=%2Fstatic_images%2Flanding%2Ffeatures%2Fai-project-file-chat.png&w=3840&q=75) #### Custom Webhooks & HTTP Requests Use Custom Webhooks & HTTP Requests in automation flows to seamlessly connect with external services. Automate data exchange, trigger workflows, and integrate your favorite apps.](https://help.taskade.com/en/articles/9421110-http-request-automation-action)\n\nShow All Features\n\nIntroducing Taskade AI, the future of team productivity.\n--------------------------------------------------------\n\n🤖 What is Taskade AI?\n----------------------\n\nTaskade AI is like having a 24/7 writing assistant by your side! Our AI-powered productivity platform will help you create high-quality content so you have more time to focus on growing your business.\n\n**🚀 For Personal Use**\n\n*   Write, organize, and summarize\n*   Outline articles and blog posts\n*   Improve writing with smart rewrite\n*   Brainstorm evergreen ideas\n\n**⚡️ For Team Collaboration**\n\n*   Draft high-level meeting agendas\n*   Co-author documents using AI\n*   Brainstorm ideas together\n*   Build mind maps and flowcharts\n\n✨ Brainstorm, plan, write.\n--------------------------\n\nTaskade AI lives inside every Taskade project. Type one of the **/ai** commands and hit **Enter** to supercharge your productivity.\n\n*   **/ai:** See the full list of Taskade AI commands.\n*   /**subtask:** Generate subtasks for a parent task.\n*   **/ask:** Find answers to your questions using AI’s knowledge.\n*   **/outline:** Generate high-level outlines for all types of content.\n*   **/expand:** Expand and enrich your content to be more descriptive.\n*   **/rewrite:** Improve the legibility and clarity of your writing.\n*   **/summarize:** Turn long-form content into a crisp and clear summary.\n*   **/translate:** Translate tasks and notes into various languages instantly.\n\n🪄 Build and create faster.\n---------------------------\n\nStarting projects from scratch is passé. Grab your coffee and watch the **AI** **Generator** bring your ideas to life in seconds, from complete project workflows to project blocks, tasks, and subtasks.\n\n💬 Chat with AI. Trust us, it’s fun.\n------------------------------------\n\nImagine a smart assistant that understands your tasks and is always ready to answer your questions, 24/7. Start a conversation and collaborate on projects like you would with a human.\n\n🎨 Out of ideas? Start with a template.\n---------------------------------------\n\nA template is worth a thousand words, so we have one for every occasion. Write a resume, email, article, or meeting agenda. You can even generate mind maps using ready-made prompts.\n\n*   ✅ [AI checklist template](https://www.taskade.com/templates/ai/ai-checklist)\n*   📝 [AI note-taking template](https://www.taskade.com/templates/ai/ai-note-taking)\n*   🧠 [AI mind map generator](https://www.taskade.com/templates/ai/mind-map-generator)  \n    🎞️ [AI script writing template](https://www.taskade.com/templates/ai/script-writing)\n*   …and much more!\n\n📑 Summarize documents. From clutter to clarity.\n------------------------------------------------\n\nExtract essentials, leave the fluff. Use Taskade AI to instantly generate summaries of .docx, .pdf, and .txt files. Distill dense information, turn key points into concise action items and transform them into organized projects.\n\n🌎 Break the language barrier.\n------------------------------\n\nWorking with teams and clients from around the world? AI will translate your documents, tasks, and projects into a dozen languages including Spanish, German, Japanese, Italian, and Chinese.\n\n✨ Work smarter, anywhere.\n-------------------------\n\nComputers used to take up entire rooms. Taskade AI puts the most powerful AI models right into your pocket. Brainstorm, plan, write, and organize anywhere you go with mobile apps for iOS and Android.Try Taskade AI\n\n### Supercharge your workflow with Taskade AI.\n\nAutomate 700+ tasks across marketing, sales, support, HR, startups, and agencies. Generate streamlined workflows, spark creative ideas, automate tasks, and chat with AI in every project. Embrace the future of productivity with Taskade, the AI-powered workspace for modern teams.\n\n![Image 210: email logo](https://www.taskade.com/static_images/landing/email-stroke.svg) Start with AI\n\n[Taskade](https://www.taskade.com/)[Pricing](https://www.taskade.com/pricing)[Help Center](https://help.taskade.com/)[Integrations](https://www.taskade.com/integrations)[Customer Reviews](https://www.taskade.com/reviews)[Developer API](https://developers.taskade.com/)[Productivity](https://www.taskade.com/productivity)[Compare](https://www.taskade.com/compare)[Partners](https://partners.taskade.com/)[Security](https://www.taskade.com/security)[Status](https://status.taskade.com/)[Learn](https://www.taskade.com/learn)[About](https://www.taskade.com/about)[Press](https://www.taskade.com/press)[Jobs](https://www.taskade.com/jobs)[FAQ](https://www.taskade.com/faq)[Contact us](https://www.taskade.com/contact)\n\n[Downloads](https://www.taskade.com/downloads)[Android](https://play.google.com/store/apps/details?id=com.taskade.mobile)[iOS](https://apps.apple.com/us/app/taskade-team-productivity/id1264713923)[Mac](https://apps.taskade.com/updates/Taskade-4.4.5-universal.dmg)\n\n[Mac App Store](https://apps.apple.com/app/taskade/id1490048917)\n\n[Windows](https://apps.taskade.com/updates/Taskade_Setup_4.4.5.exe)\n\n[Microsoft Store](https://www.microsoft.com/p/taskade/9p1jh1d9bg26)\n\n[Chrome](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf?hl=en-US)[Firefox](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)[Edge](https://microsoftedge.microsoft.com/addons/detail/oocnohmkpeeideflaepaogbgkgdggdic)[Community](https://www.taskade.com/community)[Taskade Feedback](https://www.taskade.com/feedback)[Taskade Forum](https://forum.taskade.com/)[Facebook Group](https://www.facebook.com/groups/taskade)\n\nSee all ▼\n\n[Taskade Updates](https://taskade.com/v/B1Q8lMxIfG)[Telegram](https://t.me/Taskade)[Discord](https://discord.gg/8XudSC4zcq)[Reddit](https://www.reddit.com/r/taskade)[Taskade Blog](https://www.taskade.com/blog/)[Taskade Changelog](https://forum.taskade.com/changelog)[Taskade Events](https://www.taskade.com/events/)[Youtube](https://www.youtube.com/taskade)[Instagram](https://www.instagram.com/taskade/)[TikTok](https://www.tiktok.com/@taskade)[Twitter](https://x.com/taskade)\n\n[Products](https://www.taskade.com/ai)[AI Tasks](https://www.taskade.com/ai/tasks)[AI Agents](https://www.taskade.com/ai/agents)[AI Automations](https://www.taskade.com/ai/automation)[Project Management](https://www.taskade.com/ai/project-management)[Marketing Assistant](https://www.taskade.com/ai/marketing)[Mind Map Creator](https://www.taskade.com/ai/mind-map)[Flowchart Maker](https://www.taskade.com/ai/flow-chart)\n\nSee all ▼\n\n[AI for Agencies](https://www.taskade.com/ai/agency)[AI for Nonprofits](https://www.taskade.com/ai/nonprofits)[AI for Developers](https://www.taskade.com/ai/developer)[AI for Education](https://www.taskade.com/ai/education)[AI for Startups](https://www.taskade.com/ai/startups)\n\n[AI Agents](https://www.taskade.com/agents)[Featured](https://www.taskade.com/agents/featured)[Project Management](https://www.taskade.com/agents/project-management)[Productivity](https://www.taskade.com/agents/productivity)[Marketing](https://www.taskade.com/agents/marketing)[Translator](https://www.taskade.com/agents/translator)[Content](https://www.taskade.com/agents/content)[Workflow](https://www.taskade.com/agents/workflow)\n\nSee all ▼\n\n[To-Do List](https://www.taskade.com/agents/to-do-list)[Digital Advertising](https://www.taskade.com/agents/digital-advertising)[Task Management](https://www.taskade.com/agents/task-management)[Analytics](https://www.taskade.com/agents/analytics)[Content Curation](https://www.taskade.com/agents/content-curation)[Learning and Development](https://www.taskade.com/agents/learning-and-development)[Knowledge Management](https://www.taskade.com/agents/knowledge-management)[Product Development](https://www.taskade.com/agents/product-development)[Finance](https://www.taskade.com/agents/finance)[Public Relations](https://www.taskade.com/agents/public-relations)[Creativity](https://www.taskade.com/agents/creativity)[Community Management](https://www.taskade.com/agents/community-management)[Meetings](https://www.taskade.com/agents/meetings)[Branding](https://www.taskade.com/agents/branding)[Business](https://www.taskade.com/agents/business)[Task Automation](https://www.taskade.com/agents/task-automation)[Coaching](https://www.taskade.com/agents/coaching)[CRM](https://www.taskade.com/agents/crm)[Programming](https://www.taskade.com/agents/programming)[Human Resources](https://www.taskade.com/agents/human-resources)[E-Commerce](https://www.taskade.com/agents/e-commerce)[Education](https://www.taskade.com/agents/education)[Legal](https://www.taskade.com/agents/legal)[Email](https://www.taskade.com/agents/email)[Video Production](https://www.taskade.com/agents/video-production)[SEO](https://www.taskade.com/agents/seo)[Developer](https://www.taskade.com/agents/developers)[Flowchart](https://www.taskade.com/agents/flowchart)[Design](https://www.taskade.com/agents/design)[Data](https://www.taskade.com/agents/data)[Prompt](https://www.taskade.com/agents/prompt)[Assistants](https://www.taskade.com/agents/assistants)[Nonprofit](https://www.taskade.com/agents/nonprofit)[Teams](https://www.taskade.com/agents/teams)[Customer Service](https://www.taskade.com/agents/customer-service)[Training](https://www.taskade.com/agents/training)\n\n[Templates](https://www.taskade.com/templates)[Featured](https://www.taskade.com/templates/featured)[ChatGPT](https://www.taskade.com/templates/ai)[Personal](https://www.taskade.com/templates/personal)[Table](https://www.taskade.com/templates/table)[Project Management](https://www.taskade.com/templates/project-management)[Task Management](https://www.taskade.com/templates/task-management)[Flowchart](https://www.taskade.com/templates/flowchart)\n\nSee all ▼\n\n[Sales](https://www.taskade.com/templates/sales)[Engineering](https://www.taskade.com/templates/engineering)[Education](https://www.taskade.com/templates/education)[Design](https://www.taskade.com/templates/design)[To-Do List](https://www.taskade.com/templates/to-do-list)[Marketing](https://www.taskade.com/templates/marketing)[Mind Map](https://www.taskade.com/templates/mindmap)[Organizational](https://www.taskade.com/templates/organizational)[Gantt Chart](https://www.taskade.com/templates/gantt)[Planning](https://www.taskade.com/templates/planning)[Meetings](https://www.taskade.com/templates/meetings)[Team Management](https://www.taskade.com/templates/team-management)[Strategy](https://www.taskade.com/templates/strategy)[Gaming](https://www.taskade.com/templates/gaming)[Production](https://www.taskade.com/templates/production)[Product Management](https://www.taskade.com/templates/product-management)[Startup](https://www.taskade.com/templates/startups)[Remote Work](https://www.taskade.com/templates/remote-work)[Y Combinator](https://www.taskade.com/templates/y-combinator)[Roadmap](https://www.taskade.com/templates/roadmap)[Email](https://www.taskade.com/templates/email)[Content](https://www.taskade.com/templates/content)[Coaching](https://www.taskade.com/templates/coaching)[E-Commerce](https://www.taskade.com/templates/e-commerce)[Social Media](https://www.taskade.com/templates/social-media)[Consulting](https://www.taskade.com/templates/consulting)[Human Resources](https://www.taskade.com/templates/human-resource)[Budgets](https://www.taskade.com/templates/budgets)[Customer Service](https://www.taskade.com/templates/customer-service)[Programming](https://www.taskade.com/templates/programming)[Legal](https://www.taskade.com/templates/legal)[Standard Operating Procedure (SOP)](https://www.taskade.com/templates/standard-operating-procedure)[Maintenance](https://www.taskade.com/templates/maintenance)[How-Tos](https://www.taskade.com/templates/how-tos)[Research](https://www.taskade.com/templates/research)[Music](https://www.taskade.com/templates/music)[Trip Planning](https://www.taskade.com/templates/trip-planning)\n\n[Generators](https://www.taskade.com/generate)[AI Productivity](https://www.taskade.com/generate/ai)[AI To-Do List](https://www.taskade.com/generate/to-do-list)\n\nSee all ▼\n\n[AI Workflows](https://www.taskade.com/generate/workflows)[AI Education](https://www.taskade.com/generate/education)[AI Mind Maps](https://www.taskade.com/generate/mind-maps)[AI Flowchart](https://www.taskade.com/generate/flowchart)[AI Scrum Project Management](https://www.taskade.com/generate/ai-scrum-project-management)[AI Agile Project Management](https://www.taskade.com/generate/ai-agile-project-management)[AI Marketing](https://www.taskade.com/generate/marketing)[AI Project Management](https://www.taskade.com/generate/project-management)[AI Social Media Management](https://www.taskade.com/generate/social-media-management)[AI Blogging](https://www.taskade.com/generate/blogging)[AI Agency Workflows](https://www.taskade.com/generate/agency-workflows)[AI Content](https://www.taskade.com/generate/content)[AI Meeting](https://www.taskade.com/generate/ai-meeting)[AI Personas](https://www.taskade.com/generate/personas)[AI Software Development](https://www.taskade.com/generate/ai-software-development)[AI Outline](https://www.taskade.com/generate/outline)[AI Sales](https://www.taskade.com/generate/sales)[AI Programming](https://www.taskade.com/generate/programming)[AI Design](https://www.taskade.com/generate/design)[AI Freelancing](https://www.taskade.com/generate/freelancing)[AI Resume](https://www.taskade.com/generate/resume)[AI Human Resource](https://www.taskade.com/generate/human-resource)[AI SOP](https://www.taskade.com/generate/sop)[AI E-Commerce](https://www.taskade.com/generate/e-commerce)[AI Email](https://www.taskade.com/generate/email)[AI Public Relations](https://www.taskade.com/generate/public-relations)[AI Influencers](https://www.taskade.com/generate/influencers)[AI Content Creators](https://www.taskade.com/generate/content-creators)[AI Customer Service](https://www.taskade.com/generate/customer-service)[AI Business](https://www.taskade.com/generate/ai-business)[AI Prompts](https://www.taskade.com/generate/ai-prompts)[AI Tools](https://www.taskade.com/generate/tools)[AI SEO](https://www.taskade.com/generate/seo)[AI Gantt Chart](https://www.taskade.com/generate/ai-gantt-chart)[AI Calendars](https://www.taskade.com/generate/calendars)[AI Board](https://www.taskade.com/generate/board)[AI Table](https://www.taskade.com/generate/table)[AI Research](https://www.taskade.com/generate/research)[AI Legal](https://www.taskade.com/generate/legal)[AI Proposal](https://www.taskade.com/generate/proposal)[AI Video Production](https://www.taskade.com/generate/video-production)[AI Health and Wellness](https://www.taskade.com/generate/health-and-wellness)[AI Writing](https://www.taskade.com/generate/writing)[AI Publishing](https://www.taskade.com/generate/publishing)[AI Nonprofit](https://www.taskade.com/generate/nonprofit)[AI Data](https://www.taskade.com/generate/ai-data)[AI Event Planning](https://www.taskade.com/generate/event-planning)[AI Game Development](https://www.taskade.com/generate/game-development)[AI Project Management Agent](https://www.taskade.com/generate/project-management-agent)[AI Productivity Agent](https://www.taskade.com/generate/ai-productivity-agent)[AI Marketing Agent](https://www.taskade.com/generate/ai-marketing-agent)[AI Personal Agent](https://www.taskade.com/generate/ai-personal-agent)[AI Business and Work Agent](https://www.taskade.com/generate/ai-business-and-work-agent)[AI Education and Learning Agent](https://www.taskade.com/generate/ai-education-and-learning-agent)[AI Task Management Agent](https://www.taskade.com/generate/ai-task-management-agent)[AI Customer Relations Agent](https://www.taskade.com/generate/ai-customer-relations-agent)[AI Programming Agent](https://www.taskade.com/generate/ai-programming-agent)[AI Schema](https://www.taskade.com/generate/schema)\n\n[Converters](https://www.taskade.com/convert)[AI PDF Converters](https://www.taskade.com/convert/pdf)[AI CSV Converters](https://www.taskade.com/convert/csv)\n\nSee all ▼\n\n[AI Markdown Converters](https://www.taskade.com/convert/markdown)[AI Flowcharts Converters](https://www.taskade.com/convert/flowcharts)[AI Mind Map Converters](https://www.taskade.com/convert/mind-map)[AI Text Converters](https://www.taskade.com/convert/text)[AI Knowledge Converters](https://www.taskade.com/convert/knowledge)[AI Youtube Converters](https://www.taskade.com/convert/youtube)[AI Spreadsheet Converters](https://www.taskade.com/convert/spreadsheet)[AI Email Converters](https://www.taskade.com/convert/email)[AI Web Page Converters](https://www.taskade.com/convert/web-page)[AI Video Converters](https://www.taskade.com/convert/video)[AI Coding Converters](https://www.taskade.com/convert/coding)[AI Task Converters](https://www.taskade.com/convert/tasks)[AI Kanban Board Converters](https://www.taskade.com/convert/kanban-board)[AI Notes Converters](https://www.taskade.com/convert/notes)[AI Education Converters](https://www.taskade.com/convert/education)[AI Language Translators](https://www.taskade.com/convert/translate)\n\n[Prompts](https://www.taskade.com/prompts)[Research](https://www.taskade.com/prompts/research)[Analytics](https://www.taskade.com/prompts/analytics)\n\nSee all ▼\n\n[Entrepreneurship](https://www.taskade.com/prompts/entrepreneurship)[Legal](https://www.taskade.com/prompts/legal)[Support](https://www.taskade.com/prompts/support)[Agency](https://www.taskade.com/prompts/agency)[Real Estate](https://www.taskade.com/prompts/real_estate)[Coding](https://www.taskade.com/prompts/coding)[Blog Writing](https://www.taskade.com/prompts/blog-writing)[Personal Finance](https://www.taskade.com/prompts/personal-finance)[Marketing](https://www.taskade.com/prompts/marketing)[Branding](https://www.taskade.com/prompts/branding)[Human Resources](https://www.taskade.com/prompts/human-resources)[Public Relations](https://www.taskade.com/prompts/public-relations)[Team Collaboration](https://www.taskade.com/prompts/team-collaboration)[Influencer Marketing](https://www.taskade.com/prompts/influencer_marketing)[Productivity](https://www.taskade.com/prompts/productivity)[UX/UI](https://www.taskade.com/prompts/ux_ui)[Sales](https://www.taskade.com/prompts/sales)[Advertising](https://www.taskade.com/prompts/advertising)[Social Media](https://www.taskade.com/prompts/social_media)[Copywriting](https://www.taskade.com/prompts/copywriting)[Content](https://www.taskade.com/prompts/content)[Project Management](https://www.taskade.com/prompts/project_management)[Website Creation](https://www.taskade.com/prompts/website_creation)[Design](https://www.taskade.com/prompts/design)[Strategy](https://www.taskade.com/prompts/strategy)[E-commerce](https://www.taskade.com/prompts/ecommerce)[Engineering](https://www.taskade.com/prompts/engineering)[SEO](https://www.taskade.com/prompts/seo)[Education](https://www.taskade.com/prompts/education)[Email Marketing](https://www.taskade.com/prompts/email_marketing)[Product Management](https://www.taskade.com/prompts/product-management)\n\n[Blog](https://www.taskade.com/blog)\n\n[Automations](https://www.taskade.com/automate)[HubSpot](https://www.taskade.com/automate/hubspot)[Content](https://www.taskade.com/automate/content)\n\nSee all ▼\n\n[Project Management](https://www.taskade.com/automate/project-management)[Calendar](https://www.taskade.com/automate/calendar)[Website](https://www.taskade.com/automate/website)[Marketing](https://www.taskade.com/automate/marketing)[Form](https://www.taskade.com/automate/form)[Slack](https://www.taskade.com/automate/slack)[Featured](https://www.taskade.com/automate/featured)[Email](https://www.taskade.com/automate/email)[Task](https://www.taskade.com/automate/task)[Reports](https://www.taskade.com/automate/reports)[Sales](https://www.taskade.com/automate/sales)[ChatGPT](https://www.taskade.com/automate/chatgpt)[Text to Action](https://www.taskade.com/automate/text-to-action)[Web Scraping](https://www.taskade.com/automate/web-scraping)[Agentic Workflows](https://www.taskade.com/automate/agentic-workflows)[Web Search](https://www.taskade.com/automate/web-search)[Youtube](https://www.taskade.com/automate/youtube)[LinkedIn](https://www.taskade.com/automate/linkedin)[Twitter](https://www.taskade.com/automate/twitter)[Customer Support](https://www.taskade.com/automate/customer-support)\n\n[Wiki](https://www.taskade.com/wiki)[Productivity](https://www.taskade.com/wiki/productivity)[Productivity Methods](https://www.taskade.com/wiki/productivity-methods)\n\nSee all ▼\n\n[Scrum](https://www.taskade.com/wiki/scrum)[Agile](https://www.taskade.com/wiki/agile)[Project Management](https://www.taskade.com/wiki/project-management)[Artificial Intelligence](https://www.taskade.com/wiki/ai)[Taskade](https://www.taskade.com/wiki/taskade)\n\nMade with ❤️ in San Francisco, US\n\n[© 2025 Taskade.](https://www.taskade.com/)\n\n[Privacy](https://www.taskade.com/privacy)[Terms](https://www.taskade.com/terms)[Security](https://www.taskade.com/security)\n\n[](https://reddit.com/r/taskade \"Reddit\")[](https://youtube.com/taskade \"Youtube\")[](https://github.com/taskade \"Github\")[](https://instagram.com/taskade \"Instagram\")[](https://twitter.com/taskade \"Twitter\")[](https://www.tiktok.com/@taskade \"TikTok\")",
+  "usage": {
+    "tokens": 12087
+  }
+}
+```

@@ -1,0 +1,67 @@
+Turntable is a collaborative workspace to develop, deploy, and monitor your reporting stack in half the time
+
+TRUSTED BY HUNDREDS OF LEADING DATA TEAMS
+-----------------------------------------
+
+A powerful data IDE
+-------------------
+
+### Purpose built code editor
+
+Run queries, document tables, and transform data using dbt Core, SQLMesh, or plain SQL.
+
+### Column-level lineage
+
+Trace columns from upstream sources, to transforms and downstream dashboards.
+
+### Multiplayer projects
+
+### Automated catalog
+
+Sync sources, metrics and dashboards with up-to-date metadata and documentation.
+
+### Virtual data branches
+
+Modify, preview, and deploy transform and BI changes instantly. Avoid data duplication.
+
+Models, metrics, and dashboards in minutes
+------------------------------------------
+
+A native AI assistant helps you spend less time managing your DAG, building models, and changing downstream BI tools and reports.
+
+*   Context across your data stack
+*   Auto EDA and profiling
+*   Auto-generate documentation
+*   Generate and edit models
+*   Leverage warehouse design
+*   Interpret data lineage
+
+stg\_customers.sql
+
+current file
+
+x
+
+Compiled SQL
+
+stg\_customers.sql
+
+x
+
+Find problems before your stakeholders do
+-----------------------------------------
+
+Full end-to-end visibility into your data stack. Discover breaking changes and data quality issues in your pipelines and dashboards before they go to production.
+
+*   Orchestrate transforms and jobs
+*   Detect breaking changes
+*   Set up alerts and monitoring
+*   Run data diffs across environments
+
+### 
+
+Works with your data stack
+
+Setup takes 5 minutes. Turntable supports all the tools you already love and use.
+
+14 day trial. No credit card required.

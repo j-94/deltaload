@@ -1,0 +1,36 @@
+You can use Connected Papers to:
+--------------------------------
+
+Get a visual overview of a new academic field
+---------------------------------------------
+
+Enter a typical paper and we'll build you a graph of similar papers in the field. Explore and build more graphs for interesting papers that you find - soon you'll have a real, visual understanding of the trends, popular works and dynamics of the field you're interested in.
+
+Make sure you haven't missed an important paper
+-----------------------------------------------
+
+In some fields like Machine Learning, so many new papers are published it's hard to keep track. With Connected Papers you can just search and visually discover important recent papers. No need to keep lists.
+
+Create the bibliography for your thesis
+---------------------------------------
+
+Start with the references that you will definitely want in your bibliography and use Connected Papers to fill in the gaps and find the rest!
+
+Discover the most relevant prior and derivative works
+-----------------------------------------------------
+
+Use our Prior Works view to find important ancestor works in your field of interest. Use our Derivative Works view to find literature reviews of the field, as well as recently published State of the Art that followed your input paper.
+
+We support your scientific field
+--------------------------------
+
+Whether you're a machine learning researcher, a biology student or a philosopher - we use the Semantic Scholar database which contains hundreds of millions of papers from all fields of science.
+
+[![Image 12](https://www.connectedpapers.com/static-images/SemanticScholar.png)](https://www.semanticscholar.org/)
+
+Join our mailing list!
+----------------------
+
+We send infrequent updates about our product and won't ever spam you.
+
+* * *

@@ -1,0 +1,867 @@
+Create File Tags - Carbon
+===============
+ 
+
+[Carbon home page![Image 3: light logo](https://mintlify.s3.us-west-1.amazonaws.com/carbon-48/logo/light.svg)![Image 4: dark logo](https://mintlify.s3.us-west-1.amazonaws.com/carbon-48/logo/dark.svg)](https://docs.carbon.ai/)
+
+Search...
+
+*   [Support](mailto:team@carbon.ai)
+*   [Website](https://carbon.ai/)
+*   [Website](https://carbon.ai/)
+
+Search...
+
+Navigation
+
+Tags
+
+Create File Tags
+
+[Documentation](https://docs.carbon.ai/introduction)[API Reference](https://docs.carbon.ai/api-reference/get-started)
+
+*   [Documentation](https://docs.carbon.ai/api-reference/get-started)
+
+##### API Documentation
+
+*   [Get Started](https://docs.carbon.ai/api-reference/get-started)
+*   [Errors](https://docs.carbon.ai/api-reference/errors)
+
+##### Health
+
+*   [GET Health](https://docs.carbon.ai/api-reference/endpoint/health/health)
+
+##### Auth
+
+*   [GET Get Access Token](https://docs.carbon.ai/api-reference/endpoint/auth/get-access-token)
+*   [GET Get White Label](https://docs.carbon.ai/api-reference/endpoint/auth/get-white-labeling)
+*   [POST Generate OAuth URL](https://docs.carbon.ai/api-reference/endpoint/auth/get-oauth-url)
+
+##### Files
+
+*   [POST Upload File](https://docs.carbon.ai/api-reference/endpoint/files/create-upload-file)
+*   [POST Upload Text](https://docs.carbon.ai/api-reference/endpoint/files/create-raw-text)
+*   [POST Upload File via URL](https://docs.carbon.ai/api-reference/endpoint/files/create-upload-file-from-url)
+*   [POST View Files](https://docs.carbon.ai/api-reference/endpoint/files/user-files-v2)
+*   [POST Delete Files V2](https://docs.carbon.ai/api-reference/endpoint/files/delete-files-v2-endpoint)
+*   [POST Resync File](https://docs.carbon.ai/api-reference/endpoint/files/resync-file)
+
+##### User
+
+*   [POST Get User](https://docs.carbon.ai/api-reference/endpoint/user/user)
+*   [POST Toggle User Features](https://docs.carbon.ai/api-reference/endpoint/user/toggle-user-features)
+*   [POST Delete Users](https://docs.carbon.ai/api-reference/endpoint/user/delete-users)
+*   [POST Update Users](https://docs.carbon.ai/api-reference/endpoint/user/update-users)
+*   [POST List Users](https://docs.carbon.ai/api-reference/endpoint/user/list-users)
+
+##### Web Scrape
+
+*   [POST Web Scrape](https://docs.carbon.ai/api-reference/endpoint/utilities/web-scrape)
+*   [POST Scrape Sitemap](https://docs.carbon.ai/api-reference/endpoint/utilities/scrape-sitemap)
+*   [POST Fetch Webpage](https://docs.carbon.ai/api-reference/endpoint/utilities/fetch-webpage)
+*   [POST View Webpages](https://docs.carbon.ai/api-reference/endpoint/utilities/view-webpages)
+*   [GET Fetch Sitemap URLs](https://docs.carbon.ai/api-reference/endpoint/utilities/sitemap)
+*   [GET YouTube Transcript](https://docs.carbon.ai/api-reference/endpoint/utilities/fetch-youtube-transcripts)
+*   [GET Web Search](https://docs.carbon.ai/api-reference/endpoint/utilities/search-urls)
+*   [POST Sync RSS Feed](https://docs.carbon.ai/api-reference/endpoint/data-sources/rss-feed)
+
+##### Data Source
+
+*   [POST Revoke Connection](https://docs.carbon.ai/api-reference/endpoint/data-sources/revoke-access-token)
+*   [POST View Connections](https://docs.carbon.ai/api-reference/endpoint/data-sources/user-data-sources)
+*   [POST List Data Sources](https://docs.carbon.ai/api-reference/endpoint/data-sources/list-data-sources)
+*   [POST Add Connection](https://docs.carbon.ai/api-reference/endpoint/data-sources/add-connection)
+*   [POST Sync Connection](https://docs.carbon.ai/api-reference/endpoint/data-sources/sync-data-source-items)
+*   [POST List Connection Items](https://docs.carbon.ai/api-reference/endpoint/data-sources/list-data-source-items)
+*   [POST Sync Connection Files](https://docs.carbon.ai/api-reference/endpoint/data-sources/sync-files)
+*   [POST Cancel Sync Connection](https://docs.carbon.ai/api-reference/endpoint/data-sources/cancel-sync-data-source-items)
+*   [POST Add Tags](https://docs.carbon.ai/api-reference/endpoint/data-sources/add-tags)
+*   [POST Remove Tags](https://docs.carbon.ai/api-reference/endpoint/data-sources/remove-tags)
+
+##### Gitbook
+
+*   [POST Sync Gitbook Connection](https://docs.carbon.ai/api-reference/endpoint/data-sources/gitbook-auth)
+*   [GET Get Gitbook Spaces](https://docs.carbon.ai/api-reference/endpoint/data-sources/gitbook-spaces)
+*   [POST Sync Gitbook Spaces](https://docs.carbon.ai/api-reference/endpoint/data-sources/gitbook-sync)
+
+##### S3
+
+*   [POST Sync S3 Connection](https://docs.carbon.ai/api-reference/endpoint/data-sources/s3-auth)
+*   [POST Sync S3 Files](https://docs.carbon.ai/api-reference/endpoint/data-sources/s3-files)
+
+##### SharePoint
+
+*   [GET List SharePoint Sites](https://docs.carbon.ai/api-reference/endpoint/data-sources/list-sites)
+
+##### GitHub
+
+*   [POST Sync GitHub Connection](https://docs.carbon.ai/api-reference/endpoint/data-sources/github-auth)
+*   [GET List GitHub Repos](https://docs.carbon.ai/api-reference/endpoint/data-sources/list-repositories)
+*   [POST Sync GitHub Repos](https://docs.carbon.ai/api-reference/endpoint/data-sources/sync-repositories)
+*   [GET Get Issue](https://docs.carbon.ai/api-reference/endpoint/unified/github/get-issue)
+*   [POST List Issues](https://docs.carbon.ai/api-reference/endpoint/unified/github/list-issues)
+*   [GET Get Pull Request](https://docs.carbon.ai/api-reference/endpoint/unified/github/get-pull-request)
+*   [POST List Pull Requests](https://docs.carbon.ai/api-reference/endpoint/unified/github/list-pull-requests)
+*   [POST Retrieve Commits](https://docs.carbon.ai/api-reference/endpoint/unified/github/retrieve-commits)
+*   [POST Retrieve Changed Files](https://docs.carbon.ai/api-reference/endpoint/unified/github/retrieve-files)
+*   [POST Retrieve Comments](https://docs.carbon.ai/api-reference/endpoint/unified/github/retrieve-comments)
+
+##### Gmail
+
+*   [POST Sync Gmail Connection](https://docs.carbon.ai/api-reference/endpoint/data-sources/gmail-sync)
+*   [GET Get Gmail Labels](https://docs.carbon.ai/api-reference/endpoint/data-sources/gmail-labels)
+
+##### Slack
+
+*   [GET Slack List Conversations](https://docs.carbon.ai/api-reference/endpoint/data-sources/slack-list)
+*   [POST Slack Sync](https://docs.carbon.ai/api-reference/endpoint/data-sources/slack-sync)
+
+##### Outlook
+
+*   [POST Sync Outlook Connection](https://docs.carbon.ai/api-reference/endpoint/data-sources/outlook-sync)
+*   [GET Get Outlook Folders](https://docs.carbon.ai/api-reference/endpoint/data-sources/outlook-folders)
+*   [GET Get Outlook Categories](https://docs.carbon.ai/api-reference/endpoint/data-sources/outlook-categories)
+
+##### Organizations
+
+*   [GET Get Details](https://docs.carbon.ai/api-reference/endpoint/organizations/organization)
+*   [POST Update Organization](https://docs.carbon.ai/api-reference/endpoint/organizations/update-organization)
+*   [POST Update Statistics](https://docs.carbon.ai/api-reference/endpoint/organizations/organization-statistics)
+
+##### Tags
+
+*   [POST Create File Tags](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags)
+*   [POST Delete File Tags](https://docs.carbon.ai/api-reference/endpoint/files/delete-file-tags)
+
+##### Chunks / Embeddings
+
+*   [POST List Chunks and Embeddings](https://docs.carbon.ai/api-reference/endpoint/embeddings/list-chunks-and-embeddings)
+*   [POST Upload Chunks / Embeddings](https://docs.carbon.ai/api-reference/endpoint/embeddings/upload-chunks-and-embeddings)
+
+##### Retrieval
+
+*   [POST Search](https://docs.carbon.ai/api-reference/endpoint/embeddings/embeddings)
+
+##### Webhooks
+
+*   [POST Add Webhook](https://docs.carbon.ai/api-reference/endpoint/webhooks/add-webhook-url)
+*   [POST View Webhooks](https://docs.carbon.ai/api-reference/endpoint/webhooks/webhook-urls)
+*   [DEL Delete Webhook](https://docs.carbon.ai/api-reference/endpoint/webhooks/delete-webhook-url)
+
+##### White Labeling
+
+*   [POST List Credentials](https://docs.carbon.ai/api-reference/endpoint/white-label/list)
+*   [POST Update Credentials](https://docs.carbon.ai/api-reference/endpoint/white-label/update)
+*   [POST Delete Credentials](https://docs.carbon.ai/api-reference/endpoint/white-label/delete)
+*   [POST Add Credentials](https://docs.carbon.ai/api-reference/endpoint/white-label/create)
+
+##### CRM
+
+*   [GET Get Accounts](https://docs.carbon.ai/api-reference/endpoint/unified/crm/get-accounts)
+*   [GET Get Contacts](https://docs.carbon.ai/api-reference/endpoint/unified/crm/get-contacts)
+*   [GET Get Leads](https://docs.carbon.ai/api-reference/endpoint/unified/crm/get-leads)
+*   [GET Get Opportunities](https://docs.carbon.ai/api-reference/endpoint/unified/crm/get-opportunities)
+*   [POST List Accounts](https://docs.carbon.ai/api-reference/endpoint/unified/crm/list-accounts)
+*   [POST List Contacts](https://docs.carbon.ai/api-reference/endpoint/unified/crm/list-contacts)
+*   [POST List Leads](https://docs.carbon.ai/api-reference/endpoint/unified/crm/list-leads)
+*   [POST List Opportunities](https://docs.carbon.ai/api-reference/endpoint/unified/crm/list-opportunities)
+
+Tags
+
+Create File Tags
+================
+
+A tag is a key-value pair that can be added to a file. This pair can then be used for searches (e.g. embedding searches) in order to narrow down the scope of the search. A file can have any number of tags. The following are reserved keys that cannot be used:
+
+*   db\_embedding\_id
+*   organization\_id
+*   user\_id
+*   organization\_user\_file\_id
+
+Carbon currently supports two data types for tag values - `string` and `list<string>`. Keys can only be `string`. If values other than `string` and `list<string>` are used, they’re automatically converted to strings (e.g. 4 will become “4”).
+
+POST
+
+/
+
+create\_user\_file\_tags
+
+Try it
+
+#### Authorizations
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#authorization-authorization)
+
+authorization
+
+string
+
+header
+
+required
+
+`token <token>`, corresponds to temporary access tokens.
+
+#### Body
+
+application/json
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#body-organization-user-file-id)
+
+organization\_user\_file\_id
+
+integer
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#body-tags)
+
+tags
+
+object
+
+required
+
+Show child attributes
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#body-tags-key)
+
+tags.{key}
+
+#### Response
+
+200 - application/json
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-created-at)
+
+created\_at
+
+string
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-embedding-storage-status)
+
+embedding\_storage\_status
+
+enum<string\>
+
+required
+
+Available options:
+
+`HOT_STORAGE`,
+
+`HOT_TO_COLD`,
+
+`COLD_STORAGE`,
+
+`COLD_TO_HOT`
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-external-file-id)
+
+external\_file\_id
+
+string
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-id)
+
+id
+
+integer
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-organization-id)
+
+organization\_id
+
+integer
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-organization-supplied-user-id)
+
+organization\_supplied\_user\_id
+
+string
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-organization-user-id)
+
+organization\_user\_id
+
+integer | null
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-skip-embedding-generation)
+
+skip\_embedding\_generation
+
+boolean
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-source)
+
+source
+
+enum<string\>
+
+required
+
+Available options:
+
+`GOOGLE_CLOUD_STORAGE`,
+
+`GOOGLE_DRIVE`,
+
+`NOTION`,
+
+`NOTION_DATABASE`,
+
+`INTERCOM`,
+
+`DROPBOX`,
+
+`ONEDRIVE`,
+
+`SHAREPOINT`,
+
+`CONFLUENCE`,
+
+`BOX`,
+
+`ZENDESK`,
+
+`ZOTERO`,
+
+`S3`,
+
+`AZURE_BLOB_STORAGE`,
+
+`GMAIL`,
+
+`OUTLOOK`,
+
+`SERVICENOW`,
+
+`TEXT`,
+
+`CSV`,
+
+`TSV`,
+
+`PDF`,
+
+`DOCX`,
+
+`PPTX`,
+
+`XLSX`,
+
+`XLSM`,
+
+`MD`,
+
+`RTF`,
+
+`JSON`,
+
+`HTML`,
+
+`RAW_TEXT`,
+
+`WEB_SCRAPE`,
+
+`RSS_FEED`,
+
+`FRESHDESK`,
+
+`GITBOOK`,
+
+`SALESFORCE`,
+
+`GITHUB`,
+
+`SLACK`,
+
+`GURU`,
+
+`GONG`,
+
+`DOCUMENT360`,
+
+`JPG`,
+
+`PNG`,
+
+`JPEG`,
+
+`MP3`,
+
+`MP2`,
+
+`AAC`,
+
+`WAV`,
+
+`FLAC`,
+
+`PCM`,
+
+`M4A`,
+
+`OGG`,
+
+`OPUS`,
+
+`MPEG`,
+
+`MPG`,
+
+`MP4`,
+
+`WMV`,
+
+`AVI`,
+
+`MOV`,
+
+`MKV`,
+
+`FLV`,
+
+`WEBM`,
+
+`EML`,
+
+`MSG`
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-supports-cold-storage)
+
+supports\_cold\_storage
+
+boolean
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-sync-status)
+
+sync\_status
+
+enum<string\>
+
+required
+
+Available options:
+
+`DELAYED`,
+
+`QUEUED_FOR_SYNC`,
+
+`SYNCING`,
+
+`READY`,
+
+`SYNC_ERROR`,
+
+`EVALUATING_RESYNC`,
+
+`RATE_LIMITED`,
+
+`SYNC_ABORTED`,
+
+`QUEUED_FOR_OCR`,
+
+`READY_TO_SYNC`
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-updated-at)
+
+updated\_at
+
+string
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-additional-presigned-urls)
+
+additional\_presigned\_urls
+
+object | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-chunk-overlap)
+
+chunk\_overlap
+
+integer | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-chunk-properties)
+
+chunk\_properties
+
+object | null
+
+Show child attributes
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-chunk-properties-max-items-per-chunk)
+
+chunk\_properties.max\_items\_per\_chunk
+
+integer | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-chunk-properties-prepend-filename-to-chunks)
+
+chunk\_properties.prepend\_filename\_to\_chunks
+
+boolean
+
+default:
+
+false
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-chunk-properties-set-page-as-boundary)
+
+chunk\_properties.set\_page\_as\_boundary
+
+boolean
+
+default:
+
+false
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-chunk-size)
+
+chunk\_size
+
+integer | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-embedding-properties)
+
+embedding\_properties
+
+object | null
+
+Show child attributes
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-embedding-properties-key)
+
+embedding\_properties.{key}
+
+object
+
+Show child attributes
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-embedding-properties-key-chunk-overlap)
+
+embedding\_properties.{key}.chunk\_overlap
+
+integer | null
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-embedding-properties-key-chunk-size)
+
+embedding\_properties.{key}.chunk\_size
+
+integer | null
+
+required
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-enable-auto-sync)
+
+enable\_auto\_sync
+
+boolean | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-external-url)
+
+external\_url
+
+string | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-file-contents-deleted)
+
+file\_contents\_deleted
+
+boolean
+
+default:
+
+false
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-file-metadata)
+
+file\_metadata
+
+object | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-file-statistics)
+
+file\_statistics
+
+object | null
+
+Show child attributes
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-file-statistics-file-format)
+
+file\_statistics.file\_format
+
+enum<string\> | null
+
+Available options:
+
+`TXT`,
+
+`CSV`,
+
+`TSV`,
+
+`PDF`,
+
+`DOCX`,
+
+`PPTX`,
+
+`XLSX`,
+
+`XLSM`,
+
+`MD`,
+
+`RTF`,
+
+`JSON`,
+
+`HTML`,
+
+`HTML`,
+
+`NOTION`,
+
+`GOOGLE_DOCS`,
+
+`GOOGLE_SHEETS`,
+
+`GOOGLE_SLIDES`,
+
+`INTERCOM`,
+
+`CONFLUENCE`,
+
+`RSS_FEED`,
+
+`GMAIL`,
+
+`OUTLOOK`,
+
+`ZENDESK`,
+
+`FRESHDESK`,
+
+`WEB_SCRAPE`,
+
+`GITBOOK`,
+
+`SALESFORCE`,
+
+`GITHUB`,
+
+`SLACK`,
+
+`GURU`,
+
+`SERVICENOW`,
+
+`GONG`,
+
+`DOCUMENT360`,
+
+`JPG`,
+
+`JPG`,
+
+`PNG`,
+
+`MP3`,
+
+`MP2`,
+
+`AAC`,
+
+`WAV`,
+
+`FLAC`,
+
+`PCM`,
+
+`M4A`,
+
+`OGG`,
+
+`OPUS`,
+
+`MPEG`,
+
+`MPG`,
+
+`MP4`,
+
+`WMV`,
+
+`AVI`,
+
+`MOV`,
+
+`MKV`,
+
+`FLV`,
+
+`WEBM`,
+
+`EML`,
+
+`MSG`
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-file-statistics-file-size)
+
+file\_statistics.file\_size
+
+integer | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-file-statistics-mime-type)
+
+file\_statistics.mime\_type
+
+string | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-file-statistics-num-characters)
+
+file\_statistics.num\_characters
+
+integer | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-file-statistics-num-embeddings)
+
+file\_statistics.num\_embeddings
+
+integer | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-file-statistics-num-tokens)
+
+file\_statistics.num\_tokens
+
+integer | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-generate-sparse-vectors)
+
+generate\_sparse\_vectors
+
+boolean | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-hot-storage-time-to-live)
+
+hot\_storage\_time\_to\_live
+
+integer | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-last-sync)
+
+last\_sync
+
+string | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-messages-metadata)
+
+messages\_metadata
+
+object
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-name)
+
+name
+
+string | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-ocr-job-started-at)
+
+ocr\_job\_started\_at
+
+string | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-ocr-properties)
+
+ocr\_properties
+
+object
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-organization-user-data-source-id)
+
+organization\_user\_data\_source\_id
+
+integer | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-parent-id)
+
+parent\_id
+
+integer | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-parsed-text-url)
+
+parsed\_text\_url
+
+string | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-presigned-url)
+
+presigned\_url
+
+string | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-request-id)
+
+request\_id
+
+string | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-source-created-at)
+
+source\_created\_at
+
+string | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-sync-error-message)
+
+sync\_error\_message
+
+string | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-sync-properties)
+
+sync\_properties
+
+object
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-tags)
+
+tags
+
+object | null
+
+[​](https://docs.carbon.ai/api-reference/endpoint/files/create-file-tags#response-upload-id)
+
+upload\_id
+
+string | null
+
+[Update Statistics](https://docs.carbon.ai/api-reference/endpoint/organizations/organization-statistics)[Delete File Tags](https://docs.carbon.ai/api-reference/endpoint/files/delete-file-tags)
+
+[twitter](https://twitter.com/carbon__ai)[github](https://github.com/hubbleai)[linkedin](https://www.linkedin.com/company/usecarbon)
+
+[Powered by Mintlify](https://mintlify.com/preview-request?utm_campaign=poweredBy&utm_medium=docs&utm_source=docs.carbon.ai)

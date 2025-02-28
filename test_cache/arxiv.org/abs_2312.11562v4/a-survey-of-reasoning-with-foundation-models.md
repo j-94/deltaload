@@ -1,0 +1,48 @@
+---
+title: A Survey of Reasoning with Foundation Models
+description: Abstract page for arXiv paper 2312.11562v4: A Survey of Reasoning with Foundation Models
+url: https://arxiv.org/abs/2312.11562v4
+timestamp: 2025-01-20T15:51:52.583Z
+domain: arxiv.org
+path: abs_2312.11562v4
+---
+
+# A Survey of Reasoning with Foundation Models
+
+
+Abstract page for arXiv paper 2312.11562v4: A Survey of Reasoning with Foundation Models
+
+
+## Content
+
+\[Submitted on 17 Dec 2023 ([v1](https://arxiv.org/abs/2312.11562v1)), revised 26 Dec 2023 (this version, v4), _latest version 25 Jan 2024_ ([v5](https://arxiv.org/abs/2312.11562v5))\]
+
+Authors:[Jiankai Sun](https://arxiv.org/search/cs?searchtype=author&query=Sun,+J), [Chuanyang Zheng](https://arxiv.org/search/cs?searchtype=author&query=Zheng,+C), [Enze Xie](https://arxiv.org/search/cs?searchtype=author&query=Xie,+E), [Zhengying Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+Z), [Ruihang Chu](https://arxiv.org/search/cs?searchtype=author&query=Chu,+R), [Jianing Qiu](https://arxiv.org/search/cs?searchtype=author&query=Qiu,+J), [Jiaqi Xu](https://arxiv.org/search/cs?searchtype=author&query=Xu,+J), [Mingyu Ding](https://arxiv.org/search/cs?searchtype=author&query=Ding,+M), [Hongyang Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+H), [Mengzhe Geng](https://arxiv.org/search/cs?searchtype=author&query=Geng,+M), [Yue Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu,+Y), [Wenhai Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+W), [Junsong Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen,+J), [Zhangyue Yin](https://arxiv.org/search/cs?searchtype=author&query=Yin,+Z), [Xiaozhe Ren](https://arxiv.org/search/cs?searchtype=author&query=Ren,+X), [Jie Fu](https://arxiv.org/search/cs?searchtype=author&query=Fu,+J), [Junxian He](https://arxiv.org/search/cs?searchtype=author&query=He,+J), [Wu Yuan](https://arxiv.org/search/cs?searchtype=author&query=Yuan,+W), [Qi Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+Q), [Xihui Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+X), [Yu Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+Y), [Hao Dong](https://arxiv.org/search/cs?searchtype=author&query=Dong,+H), [Yu Cheng](https://arxiv.org/search/cs?searchtype=author&query=Cheng,+Y), [Ming Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang,+M), [Pheng Ann Heng](https://arxiv.org/search/cs?searchtype=author&query=Heng,+P+A), [Jifeng Dai](https://arxiv.org/search/cs?searchtype=author&query=Dai,+J), [Ping Luo](https://arxiv.org/search/cs?searchtype=author&query=Luo,+P), [Jingdong Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+J), [Ji-Rong Wen](https://arxiv.org/search/cs?searchtype=author&query=Wen,+J), [Xipeng Qiu](https://arxiv.org/search/cs?searchtype=author&query=Qiu,+X), [Yike Guo](https://arxiv.org/search/cs?searchtype=author&query=Guo,+Y), [Hui Xiong](https://arxiv.org/search/cs?searchtype=author&query=Xiong,+H), [Qun Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+Q), [Zhenguo Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+Z)
+
+[View PDF](https://arxiv.org/pdf/2312.11562v4)
+
+> Abstract:Reasoning, a crucial ability for complex problem-solving, plays a pivotal role in various real-world settings such as negotiation, medical diagnosis, and criminal investigation. It serves as a fundamental methodology in the field of Artificial General Intelligence (AGI). With the ongoing development of foundation models, there is a growing interest in exploring their abilities in reasoning tasks. In this paper, we introduce seminal foundation models proposed or adaptable for reasoning, highlighting the latest advancements in various reasoning tasks, methods, and benchmarks. We then delve into the potential future directions behind the emergence of reasoning abilities within foundation models. We also discuss the relevance of multimodal learning, autonomous agents, and super alignment in the context of reasoning. By discussing these future research directions, we hope to inspire researchers in their exploration of this field, stimulate further advancements in reasoning with foundation models, and contribute to the development of AGI.
+
+Submission history
+------------------
+
+From: Ruihang Chu \[[view email](https://arxiv.org/show-email/3610ac34/2312.11562)\]  
+**[\[v1\]](https://arxiv.org/abs/2312.11562v1)** Sun, 17 Dec 2023 15:16:13 UTC (3,868 KB)  
+**[\[v2\]](https://arxiv.org/abs/2312.11562v2)** Wed, 20 Dec 2023 07:25:58 UTC (3,867 KB)  
+**[\[v3\]](https://arxiv.org/abs/2312.11562v3)** Thu, 21 Dec 2023 13:21:59 UTC (3,870 KB)  
+**\[v4\]** Tue, 26 Dec 2023 11:31:54 UTC (3,872 KB)  
+**[\[v5\]](https://arxiv.org/abs/2312.11562v5)** Thu, 25 Jan 2024 11:20:16 UTC (3,873 KB)
+
+## Metadata
+
+```json
+{
+  "title": "A Survey of Reasoning with Foundation Models",
+  "description": "Abstract page for arXiv paper 2312.11562v4: A Survey of Reasoning with Foundation Models",
+  "url": "https://arxiv.org/abs/2312.11562v4",
+  "content": "\\[Submitted on 17 Dec 2023 ([v1](https://arxiv.org/abs/2312.11562v1)), revised 26 Dec 2023 (this version, v4), _latest version 25 Jan 2024_ ([v5](https://arxiv.org/abs/2312.11562v5))\\]\n\nAuthors:[Jiankai Sun](https://arxiv.org/search/cs?searchtype=author&query=Sun,+J), [Chuanyang Zheng](https://arxiv.org/search/cs?searchtype=author&query=Zheng,+C), [Enze Xie](https://arxiv.org/search/cs?searchtype=author&query=Xie,+E), [Zhengying Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+Z), [Ruihang Chu](https://arxiv.org/search/cs?searchtype=author&query=Chu,+R), [Jianing Qiu](https://arxiv.org/search/cs?searchtype=author&query=Qiu,+J), [Jiaqi Xu](https://arxiv.org/search/cs?searchtype=author&query=Xu,+J), [Mingyu Ding](https://arxiv.org/search/cs?searchtype=author&query=Ding,+M), [Hongyang Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+H), [Mengzhe Geng](https://arxiv.org/search/cs?searchtype=author&query=Geng,+M), [Yue Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu,+Y), [Wenhai Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+W), [Junsong Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen,+J), [Zhangyue Yin](https://arxiv.org/search/cs?searchtype=author&query=Yin,+Z), [Xiaozhe Ren](https://arxiv.org/search/cs?searchtype=author&query=Ren,+X), [Jie Fu](https://arxiv.org/search/cs?searchtype=author&query=Fu,+J), [Junxian He](https://arxiv.org/search/cs?searchtype=author&query=He,+J), [Wu Yuan](https://arxiv.org/search/cs?searchtype=author&query=Yuan,+W), [Qi Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+Q), [Xihui Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+X), [Yu Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+Y), [Hao Dong](https://arxiv.org/search/cs?searchtype=author&query=Dong,+H), [Yu Cheng](https://arxiv.org/search/cs?searchtype=author&query=Cheng,+Y), [Ming Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang,+M), [Pheng Ann Heng](https://arxiv.org/search/cs?searchtype=author&query=Heng,+P+A), [Jifeng Dai](https://arxiv.org/search/cs?searchtype=author&query=Dai,+J), [Ping Luo](https://arxiv.org/search/cs?searchtype=author&query=Luo,+P), [Jingdong Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+J), [Ji-Rong Wen](https://arxiv.org/search/cs?searchtype=author&query=Wen,+J), [Xipeng Qiu](https://arxiv.org/search/cs?searchtype=author&query=Qiu,+X), [Yike Guo](https://arxiv.org/search/cs?searchtype=author&query=Guo,+Y), [Hui Xiong](https://arxiv.org/search/cs?searchtype=author&query=Xiong,+H), [Qun Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+Q), [Zhenguo Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+Z)\n\n[View PDF](https://arxiv.org/pdf/2312.11562v4)\n\n> Abstract:Reasoning, a crucial ability for complex problem-solving, plays a pivotal role in various real-world settings such as negotiation, medical diagnosis, and criminal investigation. It serves as a fundamental methodology in the field of Artificial General Intelligence (AGI). With the ongoing development of foundation models, there is a growing interest in exploring their abilities in reasoning tasks. In this paper, we introduce seminal foundation models proposed or adaptable for reasoning, highlighting the latest advancements in various reasoning tasks, methods, and benchmarks. We then delve into the potential future directions behind the emergence of reasoning abilities within foundation models. We also discuss the relevance of multimodal learning, autonomous agents, and super alignment in the context of reasoning. By discussing these future research directions, we hope to inspire researchers in their exploration of this field, stimulate further advancements in reasoning with foundation models, and contribute to the development of AGI.\n\nSubmission history\n------------------\n\nFrom: Ruihang Chu \\[[view email](https://arxiv.org/show-email/3610ac34/2312.11562)\\]  \n**[\\[v1\\]](https://arxiv.org/abs/2312.11562v1)** Sun, 17 Dec 2023 15:16:13 UTC (3,868 KB)  \n**[\\[v2\\]](https://arxiv.org/abs/2312.11562v2)** Wed, 20 Dec 2023 07:25:58 UTC (3,867 KB)  \n**[\\[v3\\]](https://arxiv.org/abs/2312.11562v3)** Thu, 21 Dec 2023 13:21:59 UTC (3,870 KB)  \n**\\[v4\\]** Tue, 26 Dec 2023 11:31:54 UTC (3,872 KB)  \n**[\\[v5\\]](https://arxiv.org/abs/2312.11562v5)** Thu, 25 Jan 2024 11:20:16 UTC (3,873 KB)",
+  "usage": {
+    "tokens": 1378
+  }
+}
+```

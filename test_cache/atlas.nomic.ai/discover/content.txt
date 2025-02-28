@@ -1,0 +1,106 @@
+Discover Atlas
+===============
+
+[![Image 13: logo](https://atlas.nomic.ai/logo/logo_dark.svg)](https://atlas.nomic.ai/)
+
+Platform
+
+### Products
+
+[Datasets](https://atlas.nomic.ai/datasets)[Embed](https://atlas.nomic.ai/embed)[GPT4All](https://nomic.ai/gpt4all)
+
+### Get Started
+
+[Pricing](https://atlas.nomic.ai/pricing)[Developer Documentation](https://docs.nomic.ai/)
+
+Models and Research
+
+### Models
+
+[Nomic Embed Text](https://atlas.nomic.ai/embed)[Nomic Embed Vision](https://atlas.nomic.ai/embed)
+
+### Research
+
+[Embeddings](https://www.nomic.ai/blog/posts/nomic-embed-text-v1)
+
+For Business
+
+### Resources
+
+[Why Nomic Atlas?](https://atlas.nomic.ai/why-nomic-atlas)
+
+### Case Studies
+
+[SmarterX](https://www.nomic.ai/blog/posts/smarterx)[Aurecon Group](https://www.nomic.ai/blog/posts/aurecon-case-study)
+
+Dataset Hub
+
+[Discover Datasets](https://atlas.nomic.ai/discover)
+
+Company
+
+![Image 14: Resources](https://atlas.nomic.ai/_next/image?url=%2Flanding%2Fassets%2Fnomic-blog.png&w=384&q=75)[Visit our Blog](https://nomic.ai/blog)
+
+### Resources
+
+[Nomic](https://www.nomic.ai/)[Careers](https://jobs.ashbyhq.com/nomic.ai)
+
+Get Started
+
+Log In
+
+[Discover Atlas Datasets =======================](https://atlas.nomic.ai/discover)
+
+### Explore data maps made by Nomic and the community
+
+all datasetsresearchpostspromptsquestionsarticlesnews
+
+### Featured Datasets
+
+[Hugging Face OBELICS](https://atlas.nomic.ai/map/obelics)
+----------------------------------------------------------
+
+Hugging Face
+
+11M document subset of OBELICS: an open collection of interleaved image-text web documents, containing 141M English documents, 115B text tokens, and 353M images.
+
+Machine Learning
+
+[![Image 15: Hugging Face OBELICS](https://atlas.nomic.ai/discover/5_obelix.png)](https://atlas.nomic.ai/map/obelics)
+
+[Twitter Hivemind](https://atlas.nomic.ai/map/twitter)
+------------------------------------------------------
+
+Nomic
+
+5.7M sample of Tweets from Twitter, including the top retweeted posts from 2010-2022.
+
+Social Media
+
+[![Image 16: Twitter Hivemind](https://atlas.nomic.ai/discover/1_Twitter.png)](https://atlas.nomic.ai/map/twitter)
+
+Fetching some of the best maps on Atlas...
+
+Loading...
+
+![Image 17: logo](https://atlas.nomic.ai/_next/image?url=%2Flanding%2Fassets%2Flogo_white_long.png&w=828&q=75)
+
+Product
+
+* * *
+
+[Getting Started](https://docs.nomic.ai/#quickstart)[System Status](https://status.nomic.ai/)[support@nomic.ai](mailto:support@nomic.ai)
+
+[Trust Center](https://security.nomic.ai/)
+
+* * *
+
+[Privacy Policy](https://atlas.nomic.ai/legal/privacy-policy)[Terms Of Service](https://atlas.nomic.ai/legal/terms-of-service)[Legal and Compliance](https://atlas.nomic.ai/legal/data-retention-policy)
+
+[Nomic](https://nomic.ai/)
+
+* * *
+
+[![Image 18: twitter logo](https://atlas.nomic.ai/_next/image?url=%2Flanding%2Fassets%2Fsocial%2Ftwitter.png&w=48&q=75)](https://twitter.com/nomic_ai)[![Image 19: github logo](https://atlas.nomic.ai/_next/image?url=%2Flanding%2Fassets%2Fsocial%2Fgithub.png&w=48&q=75)](https://github.com/nomic-ai/nomic)[![Image 20: discord logo](https://atlas.nomic.ai/_next/image?url=%2Flanding%2Fassets%2Fsocial%2Fdiscord.png&w=48&q=75)](https://discord.com/invite/myY5YDR8z8)[![Image 21: linkedin logo](https://atlas.nomic.ai/_next/image?url=%2Flanding%2Fassets%2Fsocial%2Flinkedin.png&w=48&q=75)](https://www.linkedin.com/company/nomic-ai/)[![Image 22: ananas logo](https://atlas.nomic.ai/_next/image?url=%2Flanding%2Fassets%2Fsocial%2Fananas.png&w=48&q=75)](https://youtu.be/45Zu3MaECi4?t=217)
+
+“Henceforth, it is the map that precedes the territory” – Jean Baudrillard

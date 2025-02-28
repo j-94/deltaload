@@ -1,0 +1,100 @@
+Skip to content
+Adala Docs
+Utils
+Initializing search
+ humansignal/Adala
+Adala Docs
+Home
+Agents
+Environments
+Memories
+Runtimes
+Skills
+Utils
+Table of contents
+internal_data
+InternalDataFrameConcat
+logs
+print_dataframe
+print_error
+print_series
+print_text
+matching
+fuzzy_match
+Utils
+InternalDataFrameConcat(dfs, **kwargs)
+
+Concatenate dataframes.
+
+Parameters:
+
+Name	Type	Description	Default
+dfs	Iterable[InternalDataFrame]	
+
+The dataframes to concatenate.
+
+	required
+
+Returns:
+
+Name	Type	Description
+InternalDataFrame	InternalDataFrame	
+
+The concatenated dataframe.
+
+Source code in adala/utils/internal_data.py
+print_dataframe(dataframe)
+
+Print dataframe to console.
+
+Source code in adala/utils/logs.py
+print_error(text)
+
+Print error message to console.
+
+Source code in adala/utils/logs.py
+print_series(data)
+
+Print series to console.
+
+Source code in adala/utils/logs.py
+print_text(text, style=None, streaming_style=False)
+
+Print text to console with optional style and streaming style.
+
+Source code in adala/utils/logs.py
+fuzzy_match(x, y, threshold=0.8)
+
+Fuzzy match string values in two series.
+
+Parameters:
+
+Name	Type	Description	Default
+x	InternalSeries	
+
+The first series.
+
+	required
+y	InternalSeries	
+
+The second series.
+
+	required
+threshold	float	
+
+The threshold to use for fuzzy matching. Defaults to 0.8.
+
+	0.8
+
+Returns:
+
+Name	Type	Description
+InternalSeries	InternalSeries	
+
+The series with fuzzy match results.
+
+Source code in adala/utils/matching.py
+ Back to top
+Previous
+Skills
+Made with Material for MkDocs

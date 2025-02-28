@@ -1,0 +1,205 @@
+---
+title: GitHub - React-Sight/React-Sight: Visualization tool for React, with support for Fiber, Router (v4), and Redux
+description: Visualization tool for React, with support for Fiber, Router (v4), and Redux - React-Sight/React-Sight
+url: https://github.com/React-Sight/React-Sight
+timestamp: 2025-01-20T15:30:37.463Z
+domain: github.com
+path: React-Sight_React-Sight
+---
+
+# GitHub - React-Sight/React-Sight: Visualization tool for React, with support for Fiber, Router (v4), and Redux
+
+
+Visualization tool for React, with support for Fiber, Router (v4), and Redux - React-Sight/React-Sight
+
+
+## Content
+
+[![Image 30: Coverage Status](https://camo.githubusercontent.com/7bc5fae192d405aaa58199c2ac55d3f28136c267d602d79020e4ee82242d5e18/68747470733a2f2f636f766572616c6c732e696f2f7265706f732f6769746875622f52656163742d53696768742f52656163742d53696768742f62616467652e7376673f6272616e63683d6d6173746572)](https://coveralls.io/github/React-Sight/React-Sight?branch=master) [![Image 31: Maintainability](https://camo.githubusercontent.com/19aee86c5bc13b08534b90486d270d77cf49954e6a404dc0eb52631ff1c7c374/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f61376338653763643033343663343563633763362f6d61696e7461696e6162696c697479)](https://codeclimate.com/github/React-Sight/React-Sight/maintainability) [![Image 32: Build Status](https://camo.githubusercontent.com/d005f418470e2d960e89f5927bbe5a7100df1b317f85f2593db0d3d7e71acf2b/68747470733a2f2f7472617669732d63692e6f72672f52656163742d53696768742f52656163742d53696768742e7376673f6272616e63683d6d6173746572)](https://travis-ci.org/React-Sight/React-Sight) [![Image 33: Chrome Web Store](https://camo.githubusercontent.com/c288c75806d23fd084e819c8c0ebc6351c689e44657f6d2b8d68c8db41b6be34/68747470733a2f2f696d672e736869656c64732e696f2f6368726f6d652d7765622d73746f72652f75736572732f61616c70706f6c696c61707066616b706d6466646b707070646e68706769666e2e737667)](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn) [![Image 34: Chrome Web Store](https://camo.githubusercontent.com/1955ccb2e137d9b276130eb9d4fc1f6e7efaef42593f23d1039fe9e904d0f2e0/68747470733a2f2f696d672e736869656c64732e696f2f6368726f6d652d7765622d73746f72652f762f61616c70706f6c696c61707066616b706d6466646b707070646e68706769666e2e737667)](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn) [![Image 35: Mozilla Add-on](https://camo.githubusercontent.com/ca1ef454aa9f18f3fb63d894f3a07426b1b0a3541aecd88050349fa3908fb0c1/68747470733a2f2f696d672e736869656c64732e696f2f616d6f2f762f72656163742d7369676874)](https://camo.githubusercontent.com/ca1ef454aa9f18f3fb63d894f3a07426b1b0a3541aecd88050349fa3908fb0c1/68747470733a2f2f696d672e736869656c64732e696f2f616d6f2f762f72656163742d7369676874) [![Image 36: License: MIT](https://camo.githubusercontent.com/cce5a2a14b0faab422e0bfcdc074afb46089831a0bf5930a7d8af3f31b98f847/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d626c75652e737667)](https://opensource.org/licenses/MIT)
+
+_**Note: project isn't actively maintained. If you would like to maintain, feel free to submit PRs or reach out to @davidcsally**_ _**I also suggest installing it as click-to-run or inside its own chrome profile, so that it doesn't slow down regular browsing**_
+
+React Sight
+-----------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#react-sight)
+
+[![Image 37](https://github.com/React-Sight/React-Sight/raw/master/assets/sidewaylogo4.png)](https://github.com/React-Sight/React-Sight/blob/master/assets/sidewaylogo4.png)
+
+React Sight is a live view of the component hierarchy tree of your React application with support for React Router and Redux. _Now with support for Firefox!_
+
+[![Image 38](https://github.com/React-Sight/React-Sight/raw/master/assets/testingDEMO.gif)](https://github.com/React-Sight/React-Sight/blob/master/assets/testingDEMO.gif)
+
+Set Up | Install From the Chrome Store
+--------------------------------------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#set-up--install-from-the-chrome-store)
+
+1.  Make sure you've added [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) to Chrome.
+2.  Install [React Sight](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn) from the Chrome web store
+3.  If you are running local file URLs, make sure to enable "Allow access to file URLs" in the extension settings for both React Dev Tools and React Sight
+4.  Run your React application, or open (almost!) any website running React!
+5.  Open Chrome Developer Tools (cmd+opt+j) -\> React Sight panel
+
+Set Up | Firefox
+----------------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#set-up---firefox)
+
+This is the same as Chrome, except you will use the addons from the Firefox website
+
+1.  Add [React Dev Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?src=search)
+2.  Add [React Sight](https://addons.mozilla.org/en-US/firefox/addon/react-sight/) from the Firefox addons website.
+
+Building Your Own Version
+-------------------------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#building-your-own-version)
+
+If you'd like to build your own version of React Sight from the source code, follow these steps:
+
+1.  Clone the repo and run `yarn install` or `npm install` to install dependencies.
+2.  Use `yarn build` to generate the build.
+
+### Adding to Chrome
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#adding-to-chrome)
+
+1.  Open Chrome and go to the extensions page
+2.  Toggle developer mode in the upper right corner if necessary
+3.  Click 'Load unpacked'
+4.  Load the folder `~/ReactSight/build/extension`
+
+### Firefox
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#firefox)
+
+1.  Load the extension as a "Temporary Extension" by navigating to: `about:debugging#/runtime/this-firefox`
+2.  Click "Load Temporary Add-on"
+3.  Load the file `~/ReactSight/build/extension/manifest.json`. In Firefox, you load the extension's manifest instead of the extension's folder
+
+If you have any additional questions send us a message at [reactsight@gmail.com](mailto:reactsight@gmail.com) :)
+
+Usage
+-----
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#usage)
+
+Hover over nodes to see their state and props in the side panel.
+
+Hide DOM elements, Redux components, and Router components with the built in filters, so that you can focus only on the components you've written
+
+Zoom in by double clicking, and zoom out by shift + double clicking (mousewheel zoom coming soon!)
+
+Why?
+----
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#why)
+
+We built React Sight because there are no tools on the market that give you a visual representation of the structure of your App. When we were developing our own projects, we wished we had a way to see how everything was structured.
+
+We wanted React Sight to be simple to use, which is why all you have to do is install a Chrome extension. No modifying your existing code!
+
+How Does It Work?
+-----------------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#how-does-it-work)
+
+When the dev tools are opened, React-Sight searches for React renderer's, and patches the render to collect data on each state change.
+
+Data is posted to the Window, where it is read by Chrome's background.js window, and is then relayed to React-Sight's devTools page.
+
+The raw data is then processed and fed to D3, where it is displayed to the user.
+
+Troubleshooting
+---------------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#troubleshooting)
+
+_**In React16 you will need to trigger a render to have your application show up. The data is not exposed until React's renderer is called.**_
+
+'React not found' or no data:
+
+Sometimes React-Sight doesn't get a snapshot of the data at load, triggering a setState ussually fixes this
+
+Maximum call stack exceeded and other console errors:
+
+This is a bug where the parsing functions get stuck in an infinite loop. We are working on a fix.
+
+Testing
+-------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#testing)
+
+Run `yarn test` to run the test suite. Tests are run using `jest`.
+
+Contributing
+------------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#contributing)
+
+Found a bug? Have a suggestion? Want to make React-Sight better?
+
+Please submit issues/pull requests if you have feedback or would like to contribute. If you're interested in joining the React Sight team as a contributor, feel free to message one of us directly, or just start submitting pull requests!
+
+Authors
+-------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#authors)
+
+David C Sally ([https://github.com/davidcsally](https://github.com/davidcsally))
+
+Grant Kang ([https://github.com/Grant05](https://github.com/Grant05))
+
+William He ([https://github.com/hewilliam](https://github.com/hewilliam))
+
+Contact
+-------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#contact)
+
+Like our app? Found a bug?
+
+Tell us what you think!
+
+[reactsight@gmail.com](mailto:reactsight@gmail.com)
+
+Visit us at [www.reactsight.com](http://www.reactsight.com/)
+
+Roadmap
+-------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#roadmap)
+
+Here's our top development priorities
+
+1.  Better support across on React 16+.
+2.  More consistent detection of root nodes when React Sight is opened.
+3.  Support for multiple React Applications / mounting nodes, currently it picks the first React application in the renderers list.
+4.  More robust error handling and guard blocks for extracting state, props, and store
+5.  Logging / Debugging mode for development, feedback, and error reporting
+6.  Performance and stability updates
+7.  UX improvements
+8.  Improved documentation
+9.  Hook into the react-devtools-backend so that we don't have to reimplement it :)
+
+License
+-------
+
+[](https://github.com/React-Sight/React-Sight?screenshot=true#license)
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - React-Sight/React-Sight: Visualization tool for React, with support for Fiber, Router (v4), and Redux",
+  "description": "Visualization tool for React, with support for Fiber, Router (v4), and Redux - React-Sight/React-Sight",
+  "url": "https://github.com/React-Sight/React-Sight?screenshot=true",
+  "content": "[![Image 30: Coverage Status](https://camo.githubusercontent.com/7bc5fae192d405aaa58199c2ac55d3f28136c267d602d79020e4ee82242d5e18/68747470733a2f2f636f766572616c6c732e696f2f7265706f732f6769746875622f52656163742d53696768742f52656163742d53696768742f62616467652e7376673f6272616e63683d6d6173746572)](https://coveralls.io/github/React-Sight/React-Sight?branch=master) [![Image 31: Maintainability](https://camo.githubusercontent.com/19aee86c5bc13b08534b90486d270d77cf49954e6a404dc0eb52631ff1c7c374/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f61376338653763643033343663343563633763362f6d61696e7461696e6162696c697479)](https://codeclimate.com/github/React-Sight/React-Sight/maintainability) [![Image 32: Build Status](https://camo.githubusercontent.com/d005f418470e2d960e89f5927bbe5a7100df1b317f85f2593db0d3d7e71acf2b/68747470733a2f2f7472617669732d63692e6f72672f52656163742d53696768742f52656163742d53696768742e7376673f6272616e63683d6d6173746572)](https://travis-ci.org/React-Sight/React-Sight) [![Image 33: Chrome Web Store](https://camo.githubusercontent.com/c288c75806d23fd084e819c8c0ebc6351c689e44657f6d2b8d68c8db41b6be34/68747470733a2f2f696d672e736869656c64732e696f2f6368726f6d652d7765622d73746f72652f75736572732f61616c70706f6c696c61707066616b706d6466646b707070646e68706769666e2e737667)](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn) [![Image 34: Chrome Web Store](https://camo.githubusercontent.com/1955ccb2e137d9b276130eb9d4fc1f6e7efaef42593f23d1039fe9e904d0f2e0/68747470733a2f2f696d672e736869656c64732e696f2f6368726f6d652d7765622d73746f72652f762f61616c70706f6c696c61707066616b706d6466646b707070646e68706769666e2e737667)](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn) [![Image 35: Mozilla Add-on](https://camo.githubusercontent.com/ca1ef454aa9f18f3fb63d894f3a07426b1b0a3541aecd88050349fa3908fb0c1/68747470733a2f2f696d672e736869656c64732e696f2f616d6f2f762f72656163742d7369676874)](https://camo.githubusercontent.com/ca1ef454aa9f18f3fb63d894f3a07426b1b0a3541aecd88050349fa3908fb0c1/68747470733a2f2f696d672e736869656c64732e696f2f616d6f2f762f72656163742d7369676874) [![Image 36: License: MIT](https://camo.githubusercontent.com/cce5a2a14b0faab422e0bfcdc074afb46089831a0bf5930a7d8af3f31b98f847/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d626c75652e737667)](https://opensource.org/licenses/MIT)\n\n_**Note: project isn't actively maintained. If you would like to maintain, feel free to submit PRs or reach out to @davidcsally**_ _**I also suggest installing it as click-to-run or inside its own chrome profile, so that it doesn't slow down regular browsing**_\n\nReact Sight\n-----------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#react-sight)\n\n[![Image 37](https://github.com/React-Sight/React-Sight/raw/master/assets/sidewaylogo4.png)](https://github.com/React-Sight/React-Sight/blob/master/assets/sidewaylogo4.png)\n\nReact Sight is a live view of the component hierarchy tree of your React application with support for React Router and Redux. _Now with support for Firefox!_\n\n[![Image 38](https://github.com/React-Sight/React-Sight/raw/master/assets/testingDEMO.gif)](https://github.com/React-Sight/React-Sight/blob/master/assets/testingDEMO.gif)\n\nSet Up | Install From the Chrome Store\n--------------------------------------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#set-up--install-from-the-chrome-store)\n\n1.  Make sure you've added [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) to Chrome.\n2.  Install [React Sight](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn) from the Chrome web store\n3.  If you are running local file URLs, make sure to enable \"Allow access to file URLs\" in the extension settings for both React Dev Tools and React Sight\n4.  Run your React application, or open (almost!) any website running React!\n5.  Open Chrome Developer Tools (cmd+opt+j) -\\> React Sight panel\n\nSet Up | Firefox\n----------------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#set-up---firefox)\n\nThis is the same as Chrome, except you will use the addons from the Firefox website\n\n1.  Add [React Dev Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?src=search)\n2.  Add [React Sight](https://addons.mozilla.org/en-US/firefox/addon/react-sight/) from the Firefox addons website.\n\nBuilding Your Own Version\n-------------------------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#building-your-own-version)\n\nIf you'd like to build your own version of React Sight from the source code, follow these steps:\n\n1.  Clone the repo and run `yarn install` or `npm install` to install dependencies.\n2.  Use `yarn build` to generate the build.\n\n### Adding to Chrome\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#adding-to-chrome)\n\n1.  Open Chrome and go to the extensions page\n2.  Toggle developer mode in the upper right corner if necessary\n3.  Click 'Load unpacked'\n4.  Load the folder `~/ReactSight/build/extension`\n\n### Firefox\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#firefox)\n\n1.  Load the extension as a \"Temporary Extension\" by navigating to: `about:debugging#/runtime/this-firefox`\n2.  Click \"Load Temporary Add-on\"\n3.  Load the file `~/ReactSight/build/extension/manifest.json`. In Firefox, you load the extension's manifest instead of the extension's folder\n\nIf you have any additional questions send us a message at [reactsight@gmail.com](mailto:reactsight@gmail.com) :)\n\nUsage\n-----\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#usage)\n\nHover over nodes to see their state and props in the side panel.\n\nHide DOM elements, Redux components, and Router components with the built in filters, so that you can focus only on the components you've written\n\nZoom in by double clicking, and zoom out by shift + double clicking (mousewheel zoom coming soon!)\n\nWhy?\n----\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#why)\n\nWe built React Sight because there are no tools on the market that give you a visual representation of the structure of your App. When we were developing our own projects, we wished we had a way to see how everything was structured.\n\nWe wanted React Sight to be simple to use, which is why all you have to do is install a Chrome extension. No modifying your existing code!\n\nHow Does It Work?\n-----------------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#how-does-it-work)\n\nWhen the dev tools are opened, React-Sight searches for React renderer's, and patches the render to collect data on each state change.\n\nData is posted to the Window, where it is read by Chrome's background.js window, and is then relayed to React-Sight's devTools page.\n\nThe raw data is then processed and fed to D3, where it is displayed to the user.\n\nTroubleshooting\n---------------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#troubleshooting)\n\n_**In React16 you will need to trigger a render to have your application show up. The data is not exposed until React's renderer is called.**_\n\n'React not found' or no data:\n\nSometimes React-Sight doesn't get a snapshot of the data at load, triggering a setState ussually fixes this\n\nMaximum call stack exceeded and other console errors:\n\nThis is a bug where the parsing functions get stuck in an infinite loop. We are working on a fix.\n\nTesting\n-------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#testing)\n\nRun `yarn test` to run the test suite. Tests are run using `jest`.\n\nContributing\n------------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#contributing)\n\nFound a bug? Have a suggestion? Want to make React-Sight better?\n\nPlease submit issues/pull requests if you have feedback or would like to contribute. If you're interested in joining the React Sight team as a contributor, feel free to message one of us directly, or just start submitting pull requests!\n\nAuthors\n-------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#authors)\n\nDavid C Sally ([https://github.com/davidcsally](https://github.com/davidcsally))\n\nGrant Kang ([https://github.com/Grant05](https://github.com/Grant05))\n\nWilliam He ([https://github.com/hewilliam](https://github.com/hewilliam))\n\nContact\n-------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#contact)\n\nLike our app? Found a bug?\n\nTell us what you think!\n\n[reactsight@gmail.com](mailto:reactsight@gmail.com)\n\nVisit us at [www.reactsight.com](http://www.reactsight.com/)\n\nRoadmap\n-------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#roadmap)\n\nHere's our top development priorities\n\n1.  Better support across on React 16+.\n2.  More consistent detection of root nodes when React Sight is opened.\n3.  Support for multiple React Applications / mounting nodes, currently it picks the first React application in the renderers list.\n4.  More robust error handling and guard blocks for extracting state, props, and store\n5.  Logging / Debugging mode for development, feedback, and error reporting\n6.  Performance and stability updates\n7.  UX improvements\n8.  Improved documentation\n9.  Hook into the react-devtools-backend so that we don't have to reimplement it :)\n\nLicense\n-------\n\n[](https://github.com/React-Sight/React-Sight?screenshot=true#license)\n\nThis project is licensed under the MIT License - see the LICENSE.md file for details",
+  "usage": {
+    "tokens": 2768
+  }
+}
+```

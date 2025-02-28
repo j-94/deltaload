@@ -1,0 +1,364 @@
+I first wrote about Retrieval Augmented Generation 14 months ago [on this blog](https://scalingknowledge.substack.com/p/knowledge-retrieval-transformers). A lot has happened in this field since my initial blog post. This post seeks to give an overview of the research in this field and explain the difference between frozen, advanced, and fully dynamic RAG.
+
+This article draws inspiration from the excellent lecture "[Stanford CS25](https://www.youtube.com/watch?v=mE7IDf2SmJg): V3 I Retrieval Augmented Language Models" by Douwe Kiela, who, along with Patrick Lewis, Ethan Perez, et al., invented RAG in May 2020.
+
+The idea of enabling computers to extract information from a knowledge base to assist in language tasks goes back decades, with early question-answering systems from the 1960s and IBM's Watson Jeopardy system having similar conceptual underpinnings. To understand the origins of the first RAG-like system in 2017 and its invention in 2021, we must understand the underlying retrieval technology.
+
+Sparse vectors are called sparse because they are sparsely populated with information (a lot of values are zero because most words don’t appear frequently). They require fewer computational resources to process and are often used to find information about a specific brand or object (ex. “Apple Inc.” not “Pear”) but can’t handle semantic meaning. Popular embedding examples are **BM25** and **TF-IDF** (term frequency-inverse document frequency). This technique was used in one of the first instances of a RAG-like (LSTM as generator/reader) system for Q&A in 2017 [(DrQA Chen et al.)](https://arxiv.org/abs/1704.00051).
+
+Dense retrieval enabled searching for semantic similarity. Unlike sparse vectors, the numbers in a dense vector represent learned relationships between words, compactly capturing their meaning. This means semantically similar words (like "doctor" and "physician") will have similar embeddings.
+
+**ORQA: Latent Retrieval for Weakly Supervised Open Domain Question Answering** [(Lee et al. 2019)](https://arxiv.org/abs/1906.00300)
+
+One of the first Q&A systems built on dense embeddings is ORQA. It is trained end-to-end to jointly learn evidence retrieval and answering, using only question-answer pairs. It treats retrieval as an unsupervised, latent variable initialized via pre-training on an Inverse Cloze Task (predicting a sentence's surrounding context).
+
+[![Image 83](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae5a633-951b-46bd-a135-3bee8ac23ce1_1600x889.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae5a633-951b-46bd-a135-3bee8ac23ce1_1600x889.png)
+
+**M**aximum **I**nner-**P**roduct **S**earch (MIPS) involves finding the vector in a given set that maximizes the inner product with a query vector. In simpler terms, given a set of vectors and a query vector, MIPS aims to identify the vector in the set most similar to the query vector based on the vector's inner product.
+
+**Faiss: A library for efficient similarity search** [(Johnson et al. 2019)](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/):
+
+A powerful library for similarity search and clustering of dense vectors that implements approximate nearest neighbor search (ANN) to solve MIPS search problems is FAISS, which laid the foundation for many of today’s popular vector DBs.
+
+**ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT** [(Khattab et al. 2020)](https://arxiv.org/abs/2004.12832):
+
+ColBert is a state-of-the-art neural search model. It enables efficient semantic search by independently encoding queries and documents before comparing their fine-grained similarity via late interaction (delaying interaction until after separate encodings are created). It finds maximum similarity (MaxSim) matches between each query token and document tokens, aggregating these to efficiently estimate overall relevance (up to 170x faster compared with prior BERT-based retrieval models).
+
+[![Image 84](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2220128e-0807-457a-befe-bf169f4e537a_1600x562.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2220128e-0807-457a-befe-bf169f4e537a_1600x562.png)
+
+**SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking** [(Formal et al. 2021)](https://arxiv.org/abs/2107.05720)**:**
+
+An interesting hybrid between Sparse and Dense Retrievers is SPLADE. It is a sparse retriever that uses query expansion, identifying synonyms and related terms for the query, enhancing its ability to capture semantic meaning even when not contained in the query.
+
+[![Image 85: With term expansion on our query we will a much larger overlap because we’re now able to identify similar words.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ee2914b-b6e5-46bb-815a-33a0f0d7c458_2185x743.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ee2914b-b6e5-46bb-815a-33a0f0d7c458_2185x743.png)
+
+**DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval** [(Lin et al. 2023)](https://arxiv.org/abs/2302.07452)**:**
+
+DRAGON, a generalized dense retriever, undergoes training with progressive data augmentation. This method gradually introduces more challenging supervisions and diverse relevance labels over multiple training iterations, enabling the model to learn complex relevance patterns effectively. By exposing the model to varied supervisions and sampling difficult negatives, DRAGON can generate high-quality representations, improving retrieval effectiveness across queries and documents. This strategy enhances DRAGON's language representation, leading to superior performance on unseen queries and documents.
+
+[![Image 86](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbbbee97-0754-4ebd-97ea-691e21357cde_2230x1488.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbbbee97-0754-4ebd-97ea-691e21357cde_2230x1488.png)
+
+**SANTA:** **Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data** [(Li et al. 2023)](https://arxiv.org/pdf/2305.19912.pdf)
+
+**S**tructure **A**ware **D**e**N**se **R**e**T**riev**Al** (SANTA) addresses the challenge of aligning queries with structured external documents, especially when addressing the incongruity between structured data (such as code or product specifications) and unstructured data (such as text descriptions). It enhances the retriever's sensitivity to structured information through two pre-training strategies:
+
+1.  leveraging the intrinsic alignment between structured and unstructured data to inform contrastive learning in a structured-aware pre-training scheme, and
+    
+2.  implementing Masked Entity Prediction (utilizing entity-centric masking strategy that encourages LMs to predict and fill in the masked entities, fostering a deeper understanding of structured data).
+    
+
+[![Image 87](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff20a12ad-a859-4bb1-bdc5-2740706c5fb8_930x1080.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff20a12ad-a859-4bb1-bdc5-2740706c5fb8_930x1080.png)
+
+The industry has mostly viewed the components of the RAG architecture as separate components that work in isolation. We can call this “Frozen RAG”. In contrast, some research has focused on iteratively improving the individual components (we can call this “Advanced RAG”).
+
+Ideally, in a “Fully Dynamic” model, the gradients from the loss function would flow back into the entire system (end-to-end training): retriever, generator, and document encoder. However, this is computationally challenging and has not been done successfully.
+
+**In-Context Retrieval-Augmented Language Models** [(Ram et al. 2023)](https://arxiv.org/abs/2302.00083):
+
+The authors of this paper introduce a re-ranker, which ranks the retrieved results (using a simple, sparse BM25) before passing them into the LLMs context. This component is dynamic, i.e., the training signal of the entire model is backpropagated into the re-ranker. They show that this optimization can result in performance gains, allowing a 345M parameter GPT-2 model to exceed the performance of a 1.5B GPT-2 model.
+
+**REPLUG: Retrieval-Augmented Black-Box Language Models** [(Shi et al. 2023)](https://arxiv.org/abs/2301.12652):
+
+In this framework, the language model is treated as a frozen black box but is augmented with a tunable retriever model. The name stems from the idea that you can _plug_ any LM into the system. The retrieved documents/elements are presented to the LM separately, and we compute the perplexity of the model, given the query and the retrieved item (LM likelihood). This information is used to train the retriever to select: 1. the highest Retriever Likelihood (using a similarity score) and 2. the lowest perplexity documents. This framework does not work for any model that doesn’t provide a perplexity score.
+
+[![Image 88](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52f4a163-78be-4a62-bca6-6539437bf2c4_1600x678.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52f4a163-78be-4a62-bca6-6539437bf2c4_1600x678.png)
+
+**DREditor: A Time-efficient Approach for Building a Domain-specific Dense Retrieval Model** [(Huang et al. 2024)](https://arxiv.org/abs/2401.12540)
+
+The authors propose DREditor, a time-efficient approach to customizing off-the-shelf **d**ense **r**etrieval models to new domains by directly editing their semantic matching rules (i.e., how the model compares vectors in the embedding). Motivated by needs in enterprise search for scalable and fast search engine specialization across corpora, DREditor calibrates model output embeddings using an efficient closed-form linear mapping (calculating the adjustment) instead of the usual long adaptation fine-tuning (similar to what REPLUG is doing). Experiments on domain transfer and zero-shot setups show 100-300x faster run times than fine-tuning while maintaining or improving accuracy.
+
+[![Image 89](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89a7b6b9-58b0-4ed6-b453-3ab0ccb1d7b8_2082x1678.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89a7b6b9-58b0-4ed6-b453-3ab0ccb1d7b8_2082x1678.png)
+
+[![Image 90](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb80a0af8-a713-4fdc-a512-4f27fc35c0fb_2340x1202.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb80a0af8-a713-4fdc-a512-4f27fc35c0fb_2340x1202.png)
+
+**FiD: Fusion-in-Decoder** [(lzacard & Trave 2020)](https://arxiv.org/abs/2007.01282):
+
+This paper addresses a core limitation of many RAG systems: we have to cram all the documents into the LM context. This is limited to the model’s context size. In this framework, we combine (concatenate) the query vector and the retrieved passages vectors before decoding them together into an answer.
+
+[![Image 91](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b6a9e48-de93-4c5d-951a-939a8765b72b_1600x363.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b6a9e48-de93-4c5d-951a-939a8765b72b_1600x363.png)
+
+**KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering** [(Yu et al. 2021)](https://arxiv.org/abs/2110.04330)
+
+This paper adds another Graph Neural Net (GNN) re-ranking/filtering step to the FiD pipeline explained above. The authors correctly point out that FiD and other RAG frameworks wrongly assume that the contents of the retrieved passages are independent of each other. However, the entities referenced in the retrieved passages are likely related to each other, and their relationship can be modeled. The steps of the framework can be summarized as:
+
+1.  Retrieve relevant passages & embeddings via Dense Passage Retrieval (DPR).
+    
+2.  Construct a knowledge graph from WikiData and neighboring context passages.
+    
+3.  Utilize Graph Neural Network (GNN) for iterative re-ranking of passages based on semantic relationships.
+    
+4.  Update passage embeddings to eliminate less relevant passages and enhance top-ranked selections for answer generation.
+    
+
+(For more details, you can find the main author’s [presentation of the paper here](https://underline.io/lecture/49772-kg-fid-infusing-knowledge-graph-in-fusion-in-decoder-for-open-domain-question-answering)).
+
+[![Image 92](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0de441c-9f76-49ec-ba67-0ceca84fa61e_2552x1460.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0de441c-9f76-49ec-ba67-0ceca84fa61e_2552x1460.png)
+
+**SURGE:** **Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation** [(Kang et al. 2023)](https://arxiv.org/abs/2305.18846)
+
+**SU**bgraph **R**etrieval-augmented **GE**neration (SURGE) addresses the problem with prior graph-based retrieval techniques where the LM can get confused by irrelevant content. Their framework aims to retrieve only a context-relevant subgraph, which is end-to-end trainable along with a generative model.
+
+The GNN-based context-relevant subgraph retriever extracts relevant pieces of knowledge from a Knowledge Graph (no vector DB) and extracts candidate triplets (3 nodes). We generate a Retrieval Distribution for each triplet by calculating the inner product between the Context Embedding (based on the Dialog History) and our candidate triplet. This process involves exponentiating the inner product of the triplet embedding and the context embedding, resulting in a score that determines the relevance of the triplet to the dialogue history.
+
+The authors further leverage contrastive learning to train the model to distinguish between knowledge-grounded responses (using the retrieved subgraph) and irrelevant alternatives, mitigating exposure bias that arises from only showing input and a single "correct" output during training.
+
+[![Image 93](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fc4f1ea-3121-4be1-9ba2-8882c1abf1e9_2468x1278.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fc4f1ea-3121-4be1-9ba2-8882c1abf1e9_2468x1278.png)
+
+**KNN-LM: Generalization through Memorization: Nearest Neighbor Language Models** [(Khandelwal et al. 2019)](https://arxiv.org/abs/1911.00172):
+
+This is another interesting paper in which the authors attempt to make the LM outputs more grounded. This is done by comparing the vector distance of the model’s initial prediction to similar/neighboring passages from a data store. In this case, the database is a collection of key-value pairs comprised of a token and its proceeding tokens (context). Finally, the normalized KNN model outputs, ranked by their distances, and the LM output distribution are merged (interpolated) to converge on the final output.
+
+[![Image 94](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd794ee7a-8860-45bb-96f7-6c80a1c5a104_1600x500.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd794ee7a-8860-45bb-96f7-6c80a1c5a104_1600x500.png)
+
+**RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** [(Lewis et al. 2020)](https://arxiv.org/abs/2005.11401):
+
+This paper, mentioned in the introduction of this blog post, is the origin of the idea of a dynamic, end-to-end trained RAG system backpropagating into both the retriever and the generator. However, the document encoder step in this and the next paper is still static.
+
+[![Image 95](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11b0da3c-2391-4ccb-a70f-6af5a3e38fd6_1600x511.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11b0da3c-2391-4ccb-a70f-6af5a3e38fd6_1600x511.png)
+
+**RETRO: Improving language models by retrieving from trillions of tokens** [(Borgead et al. 2022)](https://arxiv.org/abs/2112.04426):
+
+This paper showed that RAG using an LM pre-trained from scratch can outperform a 25x bigger model in terms of perplexity. I won't go into too much detail about the exact architecture because it is unclear if this paper is reproducible. (DeepMind never published the paper’s code, and I heard that other tier-1 AI research companies failed to reproduce it).
+
+Essentially, in RETRO, the retrieved chunks are selected similarly to the Generalization through the Memorization/KNN process above, then added to the query, and processed by the transformer _encoder_ (using chunked cross-attention). In contrast, in RAG and related architectures, the retrieved passages are used as additional context for the transformer _decoder_.
+
+[![Image 96](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c1458c0-64f3-4e29-91ce-51c74be6ed1f_1600x580.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c1458c0-64f3-4e29-91ce-51c74be6ed1f_1600x580.png)
+
+**REALM: Retrieval-Augmented Language Model Pre-Training** [(Guu et al. 2020)](https://arxiv.org/abs/2002.08909):
+
+This paper represents the first fully dynamic RAG model (in which both the retriever, the generator, and the document encoder are updated). Its main limitation or downside is that it is not truly generative, just BERT-based, limiting its ability to produce completely novel/free-form text. Updating the document encoder is costly. REALM introduces asynchronous updates, where the knowledge base is re-embedded in batches.
+
+[![Image 97](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24065f4-1f9a-4961-8c4c-eae91c586335_1348x1302.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24065f4-1f9a-4961-8c4c-eae91c586335_1348x1302.png)
+
+**RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval** [(Sarthi et al. 2024)](https://arxiv.org/abs/2401.18059)
+
+Sometimes, reasoning about a text requires a more abstract or holistic understanding of it. This is where simple chunk-based retrieval fails.
+
+In the RAPTOR technique, similar text chunks are clustered and then summarized. The summaries, in turn, are then clustered and summarized. These leaves and summaries are organized into a tree structure.
+
+[![Image 98](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8f059a1-1d2c-47a3-93d5-75c2a657e896_2614x880.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8f059a1-1d2c-47a3-93d5-75c2a657e896_2614x880.png)
+
+RAPTOR supports two retrieval strategies: Tree Traversal, which retrieves nodes layer by layer, and Collapsed Tree, which flattens the tree for a breadth-first search. Collapsed Tree is more effective in most cases because it retrieves cluster summaries and leaf chunks.
+
+Benchmarks show RAPTOR's effectiveness in improving RAG's accuracy by up to 20%, especially for queries requiring comprehensive contextual understanding.
+
+[![Image 99](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b69ff09-2c6f-4428-8caf-dca64f75d08b_2632x1056.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b69ff09-2c6f-4428-8caf-dca64f75d08b_2632x1056.png)
+
+**FLARE: Forward-looking active retrieval augmentation** [(Jiang, Xu, Gao, Sun et al. 2023)](https://arxiv.org/abs/2305.06983):
+
+A limitation of some of the above-explained techniques is that they sequentially retrieve and then generate. This paper proposes a system that iteratively predicts the next sentence to retrieve relevant context if it contains low-confidence tokens.
+
+[![Image 100](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e32f87-ec8b-4300-8416-75bd300c98f8_1600x1034.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e32f87-ec8b-4300-8416-75bd300c98f8_1600x1034.png)
+
+**HyDE: Hypothetical Document Embeddings** [(Gao, Ma et al. 2022)](https://arxiv.org/abs/2212.10496):
+
+A core problem of retrieval is that the user's query might not capture their actual intent. I.e., there is a difference between what someone thinks they want to know about vs. what they actually want to know about. The paper aims to address that through an intermediate query-rephrasing step. This leads to a process where the main weakness of vanilla LLMs is dampened by their main weakness: Hallucination against hallucination.
+
+[![Image 101](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb68940d8-4360-4d63-aff4-e303ad0dcb29_1600x461.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb68940d8-4360-4d63-aff4-e303ad0dcb29_1600x461.png)
+
+**MuGI: Enhancing Information Retrieval through Multi-Text Generation Integration with Large Language Models** [(Zhang et al. 2024)](https://arxiv.org/abs/2401.06311)
+
+This paper builds on the above Query Re-writing idea. It introduces a framework named Multi-Text Generation Integration (MuGI).
+
+The framework involves prompting an LLM to generate multiple pseudo-references, which are then dynamically integrated with the original query for retrieval. The model is used both for re-ranking and retrieval.
+
+[![Image 102](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9410ed02-33f4-4d63-bb11-87bfd5e71e72_3042x920.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9410ed02-33f4-4d63-bb11-87bfd5e71e72_3042x920.png)
+
+**Query Rewriting for Retrieval-Augmented Large Language Models** [(Ma et al. 2023)](https://arxiv.org/abs/2305.14283)
+
+This paper introduces a trainable rewrite-retrieve-read framework (reversing the traditional retrieval and reading order, focusing on query rewriting) that utilizes the LLM performance as a reinforcement learning incentive for a rewriting module.
+
+[![Image 103](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9150d98-f96c-4bc0-9024-d01a2209c19f_1922x1038.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9150d98-f96c-4bc0-9024-d01a2209c19f_1922x1038.png)
+
+**Lost in the Middle: How Language Models Use Long Contexts** [(Liu et al. 2023)](https://arxiv.org/abs/2307.03172):
+
+This paper points out a core problem with passing a list of context items into the model, sorted by their relevance, as it will attend more to documents at the beginning and the end.
+
+[![Image 104](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42570863-e506-4f47-a1f5-cfc9e9bed6f7_1050x992.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42570863-e506-4f47-a1f5-cfc9e9bed6f7_1050x992.png)
+
+**SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore** [(Min, Gururangan et al. 2023)](https://arxiv.org/abs/2308.04430)
+
+This paper suggests a solution to recent copyright infringement lawsuits where companies like the New York Times are suing model training companies for training on their paywalled data. The authors suggest only using public domain data during training but augmenting the model with “higher-risk data” during test/inference time.
+
+[![Image 105](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfe5210f-026a-4fc2-a6a8-c108759f884d_1600x783.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfe5210f-026a-4fc2-a6a8-c108759f884d_1600x783.png)
+
+**CRAG: Corrective Retrieval Augmented Generation** [(Yan et al. 2024)](https://arxiv.org/abs/2401.15884)
+
+This paper proposes a method to improve the robustness of retrieval-augmented language models when retrieval fails to return relevant documents. CRAG tackles this by: 1. Assessing retrieved document quality with a confidence score, 2. Launching web searches for inaccurate retrievals, and 3. Refining knowledge with a decompose-then-recompose algorithm (segmenting the document into fine-grained strips, scoring each for relevance, filtering out irrelevant strips, and concatenating the relevant ones). CRAG improves RAG performance on short- and long-form generation tasks across diverse datasets, showcasing its generalizability and robustness.
+
+[![Image 106](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8bf2167-a487-42bf-9573-008d5f391d3a_2116x1550.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8bf2167-a487-42bf-9573-008d5f391d3a_2116x1550.png)
+
+**WebGPT: Browser-assisted question-answering with human feedback** [(Nakano et al 2021)](https://arxiv.org/abs/2112.09332):
+
+The system presented here could be termed Web Search Augmented Generation. The Information Retrieval Model receives the query and can output browser commands (like clicks and scrolling) to extract relevant paragraphs from web pages that it determines as informative. It's trained on human demonstrations with Imitation Learning (Behavior cloning). In the second step, a separate Text Synthesis Model synthesizes the answers. Finally, a reward model predicts the system output score. The entire system is then fine-tuned using human feedback, i.e., the reward model (RLHF).
+
+[![Image 107](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F356ec3ec-ee6c-440e-b821-165e31e998a2_1400x681.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F356ec3ec-ee6c-440e-b821-165e31e998a2_1400x681.png)
+
+**Toolformer: Language Models Can Teach Themselves to Use Tools** [(Shick et al 2021)](https://arxiv.org/abs/2302.04761):
+
+This paper generalizes the idea of augmented generation. It presents a solution that allows LLMs to use external tools via simple APIs. Tool usage shown in the paper includes a calculator, a Q&A system, search engines, a translation system, and a calendar. The steps can be summarized as follows: 1. The authors annotate a large text dataset and sample potential locations in the text where tool API calls could be useful; 2. At each location, they generate possible API calls to different tools; 3. They execute these API calls and insert the call+response back into the original text (like "\[QA(Who founded Apple?) -\> Steve Jobs\]"), 4. They check if adding the app call reduced the perplexity loss of the LM for predicting the following token and keep the API call if it did, and 5. The resulting training data is used to fine-tune the original LM.
+
+This system has many limitations, such as the inability to use tools in a chain, its ability to use tools interactively, or its ability to take into account the cost of the use of a tool.
+
+[![Image 108](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc22fcf15-ab98-4a83-b743-5dc3a6c1c2fb_1212x1063.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc22fcf15-ab98-4a83-b743-5dc3a6c1c2fb_1212x1063.png)
+
+**Gorilla: Large Language Model Connected with Massive APIs** [(Patil et al. 2023)](https://arxiv.org/abs/2305.15334)
+
+One limitation of the previous paper is that tool use is limited to a small set of tools. In contrast, the authors of this paper develop a retrieval-based finetuning strategy to train an LLM, called Gorilla, to use over 1,600 different deep learning model APIs (e.g., from HuggingFace or TensorFlow Hub) for problem-solving. First, it downloads the API documentation of various tools. It then uses this data to create a question-answer pair dataset (using self-instruct). Finally, the 7B model is finetuned over this dataset in a retrieval-aware manner.
+
+[![Image 109](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b752d09-4fc1-4bfd-a803-dc410462551c_2376x1504.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b752d09-4fc1-4bfd-a803-dc410462551c_2376x1504.png)
+
+**Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection** [(Asai et al. 2023)](https://arxiv.org/abs/2310.11511):
+
+The authors point out the problem with most RAG systems: they retrieve passages indiscriminately regardless of whether the factual grounding is helpful. The Self-RAG algorithm uses a special type of token called a "reflection token" to communicate between the different parts of the algorithm: Retrieve, IsRel (relevance), IsSup (fully or not supporting), and IsUse (useful response).
+
+[![Image 110](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fab35ef-669f-476f-9e2f-128a645d8502_1600x873.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fab35ef-669f-476f-9e2f-128a645d8502_1600x873.png)
+
+**GRAG: Graph Retrieval-Augmented Generation** ([Hu et al. 2024](https://arxiv.org/abs/2405.16506)):
+
+Unlike RAG approaches that focus solely on text-based entity retrieval, GRAG maintains an acute awareness of the graph topology, which helps generate contextually and factually coherent responses. The researchers claim that GRAG significantly outperforms current SOTA RAG methods while effectively mitigating hallucinations.
+
+[![Image 111](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b2e56ec-3e7c-4465-ade6-3ce99e727604_2850x1254.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b2e56ec-3e7c-4465-ade6-3ce99e727604_2850x1254.png)
+
+[![Image 112](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4c1d436-4e99-4faa-9615-9e15b5e7b4cf_3030x2000.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4c1d436-4e99-4faa-9615-9e15b5e7b4cf_3030x2000.png)
+
+**CodeGRAG: Extracting Composed Syntax Graphs for Retrieval Augmented Cross-Lingual Code Generation** ([Du et al. 2024](https://arxiv.org/abs/2405.02355))
+
+The core idea of CodeGRAG is to extract and summarize the control flow and data flow information from code blocks, creating a composed syntax graph. This graph serves as a bridge between natural language and various programming languages, capturing both semantic and logical information. The approach involves three main stages:
+
+1.  Syntax Knowledge Base Preparation: Code blocks are analyzed to extract graphical views representing their syntax and control information.
+    
+2.  Knowledge Querying: Given a target problem, an informative query is generated and used to retrieve relevant knowledge from the prepared knowledge base.
+    
+3.  Knowledge Augmented Generation: The retrieved graphical syntax knowledge is used to inform the LLM for enhanced code generation.
+    
+
+The paper emphasizes the importance of the composed syntax graph, which combines Abstract Syntax Tree (AST), Data Flow Graph (DFG), and Control Flow Graph (CFG) information. This representation allows for better preservation of code structure and logic compared to raw code text.
+
+[![Image 113](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F799eb8f7-2fcd-4262-a2dc-36594cb34a1e_2450x846.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F799eb8f7-2fcd-4262-a2dc-36594cb34a1e_2450x846.png)
+
+[![Image 114](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e5b0a43-0ac4-4602-b8ce-b4d056df0e7f_2988x1224.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e5b0a43-0ac4-4602-b8ce-b4d056df0e7f_2988x1224.png)
+
+**GRIT: Generative Representational Instruction Tuning** [(Muennighoff et al. 2024)](https://arxiv.org/abs/2402.09906):
+
+GRIT addresses a similar problem to the above-mentioned paper while being very performant. The authors train a single LLM to perform both text generation and embedding tasks via Generative Instruction Tuning. In other words, the model architecture of GRITLM allows it to process input text, create embeddings, and generate output text.
+
+Beyond the conditional tool use capability, performance is further enhanced by re-using: 1. The query’s vector representations for retrieval and generation and 2. Reusing the document key-value store (basically the raw retrieved vector db data) for generation.
+
+GRITLM sets a new benchmark by outperforming all generative models up to its size of 7 billion parameters, excelling in both generative and embedding tasks as demonstrated on the Massive Text Embedding Benchmark (MTEB) and various other evaluation benchmarks.
+
+[![Image 115](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d803e06-8fd1-41a0-bfca-67c263a626ec_1214x540.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d803e06-8fd1-41a0-bfca-67c263a626ec_1214x540.png)
+
+[![Image 116](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe2c9eb9-70c9-439b-b69f-941064b2132e_1024x632.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe2c9eb9-70c9-439b-b69f-941064b2132e_1024x632.png)
+
+All the products that some of us use daily, like Intercom.com’s AI chatbot, Perplexity.ai, You.com, phind.com, Komo.ai, or ChatGPT Browse with Bing, implement a frozen or less dynamic form of RAG.
+
+Much of the research summarized above lies dormant and has seen little application. It will be exciting to see companies commercializing secure and performant applications of this technology, enabling faster and more reliable access to knowledge.
+
+*   Retrieval-Augmented Generation (RAG): Paradigms, Technologies, and Trends [(Presentation: Haofen Wang Tongji University)](https://github.com/Tongji-KGLLM/RAG-Survey?tab=readme-ov-file)
+    
+
+*   Retrieval-Augmented Generation for Large Language Models: A Survey [(Paper: Gao et al. 2023)](https://arxiv.org/abs/2312.10997v3)
+    
+*   Knowledge-Augmented Large Language Models with Personalized Knowledge Representation, Retrieval, Injection, and Verification [(Research Statement: Baek)](https://jinheonbaek.github.io/cv/rs.pdf)
+    
+*   Awesome papers about unifying LLMs and KGs ([GitHub Readme](https://github.com/RManLuo/Awesome-LLM-KG?tab=readme-ov-file#kg-enhanced-llms))
+    
+*   Top Information Retrieval Papers of the Week [(Substack Newsletter)](https://recsys.substack.com/)
+    
+*   A Practitioners Guide to Retrieval Augmented Generation [(Blog post)](https://cameronrwolfe.substack.com/p/a-practitioners-guide-to-retrieval)
+    
+
+I plan to summarize more of these here when I find the time. If you think I’m missing a paper, feel free to leave a comment or DM me about it (⭐ = paper I’ll add in the next days/weeks):
+
+**Filtering and ranking**
+
+*   Retrieving Texts based on Abstract Descriptions [(Ravfogel et al. 2023)](https://arxiv.org/abs/2305.12517)
+    
+*   Retrieve to Explain: Evidence-driven Predictions with Language Models [(Patel et al. 2024)](https://arxiv.org/abs/2402.04068) ⭐
+    
+*   RAG-Fusion: a New Take on Retrieval-Augmented Generation [(Rackauchas 2024)](https://arxiv.org/abs/2402.03367)
+    
+*   Similarity is Not All You Need: Endowing Retrieval-Augmented Generation with Multi–layered Thoughts ([Gan et al. 2024](https://arxiv.org/abs/2405.19893)) ⭐
+    
+
+**Transformer memory**
+
+*   Memorizing Transformers [(Wu et al. 2022)](https://arxiv.org/abs/2203.08913)
+    
+*   TRIME: Training Language Models with Memory Augmentation [(Zhong et al. 2022)](https://arxiv.org/abs/2205.12674) ⭐
+    
+*   Transformer Memory as a Differentiable Search Index [(Tay et al. 2022)](https://arxiv.org/abs/2202.06991)
+    
+
+**Multi-modality**
+
+*   Cross-Modal Retrieval Augmentation for Multi-Modal Classification [(Gur et al. 2021)](https://arxiv.org/abs/2104.08108) ⭐
+    
+*   Retrieval-Augmented Multimodal Language Modeling [(Yasunaga et al. 2022)](https://arxiv.org/abs/2211.12561)
+    
+*   Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language [(Berrios et al. 2023)](https://arxiv.org/abs/2306.16410)
+    
+
+**Knowledge Graphs & Reasoning**
+
+*   Knowledge Guided Text Retrieval and Reading for Open Domain Question Answering [(Min et al. 2020)](https://arxiv.org/abs/1911.03868)
+    
+*   UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering [(Oguz et al. 2020)](https://arxiv.org/abs/2012.14610)
+    
+*   Select and Augment: Enhanced Dense Retrieval Knowledge Graph Augmentation [(Alfaifi and Alfaifi 2022)](https://arxiv.org/abs/2307.15776)
+    
+*   Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval [(Alon et al. 2022)](https://arxiv.org/abs/2201.12431)
+    
+*   Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs ([Andrus et al. 2022](https://ojs.aaai.org/index.php/AAAI/article/view/21286)) ⭐
+    
+*   An efficient memory-augmented transformer for knowledge-intensive NLP tasks ([Wu et al. 2022](https://aclanthology.org/2022.emnlp-main.346.pdf)) ⭐
+    
+*   Improving Wikipedia verifiability with AI [(Petroni et al. 2023)](https://www.nature.com/articles/s42256-023-00726-1)
+    
+*   KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases ([Wang et al. 2023)](https://arxiv.org/abs/2308.11761) ⭐
+    
+*   Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation [(Kang et al. 2023)](https://arxiv.org/abs/2305.18846)
+    
+*   G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [(He et al. 2024)](https://arxiv.org/abs/2402.07630)
+    
+*   **CodeGRAG**: Extracting Composed Syntax Graphs for Retrieval Augmented Cross-Lingual Code Generation ([Du et al. 2024](https://arxiv.org/abs/2405.02355)) ⭐
+    
+
+**Other Reasoning Techniques**
+
+*   StrategyQA: Question Answering Benchmark with Implicit Reasoning Strategies [(Geva et al. 2021)](https://arxiv.org/abs/2101.02235)
+    
+*   Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval [(Xiong et al. 2021)](https://arxiv.org/abs/2009.12756)
+    
+
+*   Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP [(KhattaB et al. 2022)](https://arxiv.org/abs/2212.14024)
+    
+*   ASQA: Factoid Questions Meet Long-Form Answers [(Stelmakh et al. 2023)](https://arxiv.org/abs/2204.06092)
+    
+*   SPRING: Studying the Paper and Reasoning to Play Games [(Wu et al. 2023)](https://arxiv.org/abs/2305.15486) ⭐
+    
+*   Do Large Language Models Latently Perform Multi-Hop Reasoning? [(Yang et al. 2024)](https://arxiv.org/abs/2402.16837)
+    
+
+**Instruction** **& Memory**
+
+*   Recitation-Augmented Language Models [(Sun et al. 2022)](https://arxiv.org/abs/2210.01296)
+    
+*   InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining [(Wang et al. 2023)](https://arxiv.org/abs/2310.07713)
+    
+
+*   RA-DIT: Retrieval-Augmented Dual Instruction Tuning [(Lin, Chen, Chen et al. 2023)](https://arxiv.org/abs/2310.01352)
+    
+*   MemGPT: Towards LLMs as Operating Systems [(Packer et al. 2023)](https://arxiv.org/abs/2310.08560) ⭐
+    
+    *   [video](https://www.youtube.com/watch?v=nQmZmFERmrg&list=PLTL2JUbrY6tVGSqKuiO8o1rCENpejX2wE&index=2)
+        
+*   Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory [(Cheng et al. 2023)](https://arxiv.org/abs/2305.02437)
+    
+*   Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models [(Yu et al. 2023)](https://arxiv.org/abs/2311.09210)
+    
+
+[![Image 117: Why All Job Displacement Predictions are Wrong: Explanations of Cognitive Automation](https://substackcdn.com/image/fetch/w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb10c1fa0-dfae-4e70-bab6-cdf59b174903_2332x1606.png)](https://scalingknowledge.substack.com/p/why-job-displacement-predictions)
+
+[![Image 118: Disobedience and Intelligence](https://substackcdn.com/image/fetch/w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b25dab5-6683-4faa-9120-48d0a1a580a1_1280x866.jpeg)](https://scalingknowledge.substack.com/p/disobedience-and-intelligence)

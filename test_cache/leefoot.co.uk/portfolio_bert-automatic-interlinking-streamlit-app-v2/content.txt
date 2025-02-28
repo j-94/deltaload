@@ -1,0 +1,212 @@
+What’s it all about?
+--------------------
+
+The premise is to use _[Sentence Transformers](https://www.sbert.net/index.html)_ to find deeper relationships between pages on a website.
+
+Initially, it was designed to highlight related Buyer’s Guides on eCommerce category pages, as well as to suggest related products.
+
+Here are some practical applications for this app:
+
+*   Interlink Related Products Within Category Text
+*   Show Related Categories on Existing Category Pages
+*   Surface Related Content to Assist Conversion (Blogs, Buyers’ Guides, etc.)
+*   Display Products Most Closely Related to Category Page for Increased Relevancy
+*   Feature Related Blog Posts
+
+Try it: [BERT interlinking app V2](https://bertlinker.streamlit.app/)
+
+A Different Angle
+-----------------
+
+![Image 23](https://leefoot.co.uk/wp-content/uploads/2023/12/2023-12-19-11_35_37-BERT-Semantic-Interlinking-Tool-V2-%C2%B7-Streamlit.png)
+
+BERT Semantic Page Interlinker V2
+
+_“There are tons of page Interlinkers out there, why not just use those?”_
+
+It’s a fair point, this script doesn’t even use anchor text or link metrics when making recommendations. Its unique approach lies in forming logical connections between pages, aimed at enhancing user satisfaction and potentially increasing revenue.
+
+**Example #1:**
+
+![Image 24](https://leefoot.co.uk/wp-content/uploads/2023/12/HP-Printer-Ink-Relationship.jpg)Here’s an example of the Interlinker correctly making the connection between a page about _HP Original Ink_ and _printer paper_.
+
+If this was an eCommerce project, the recommendation would most likely be to show the printer and printer ink categories as related categories on the page or within the existing anchor text.
+
+**Example #2:**
+
+![Image 25](https://leefoot.co.uk/wp-content/uploads/2023/12/Hair-Care-Related-Products.jpg)How about linking _Hair Care_ to:
+
+*   Hair Treatments
+*   Hair Straighteners
+*   Hair Curlers
+*   Hair Brushes
+*   Hair Clippers and
+*   Hair Dryers?
+
+Syntactically those words are far away from each other, but using the magic of _Sentence Transformers_ the app is able to understand that these pages are related.
+
+Linking those related pages would be good for users, bots and ultimately the bottom line.
+
+New Features
+------------
+
+Looking back, the initial version was quite basic, with a codebase that, although functional, left much to be desired.
+
+In fact, I noticed a huge oversight that prevented around 90% of matches from being returned!
+
+### Clustering
+
+*   Minimum Similarity Cutoff
+*   Choice of Sentence Transformers
+*   Multi-Lingual Transformer Trained in 50 Languages
+
+### Visualization Options
+
+*   Choose between Tree Chart or Radial Chart Visualisations
+*   Full Chart Customization Options: Nodes, Chart Size, Formatting
+*   Real Time Chart Updates: See the Impact of Changing Values on Link Relationships
+*   Automatic Source and Destination URL Mapping
+
+### File Handling
+
+*   Supports Uploads in Excel or CSV formats (UTF8 format only)
+*   _Excel_ Download with Mapping Between Pages and Similarity Threshold Cutoff
+*   Source File Filtering Options: Match Only Indexable Pages, Remove Parameters, etc.
+
+### Code Base / Performance / UX
+
+*   Completely Rewritten from the Ground Up
+*   Cleaner, More Efficient Code Base
+*   Fixed Bug Preventing Most Matches from Being Returned
+*   Automatic Mapping of Screaming Frog’s Address and H1-1 Columns in Five Languages
+*   Improved UX and Error Handling Including Tool Tips and Instructions
+
+![Image 26](https://leefoot.co.uk/wp-content/uploads/2023/12/Clustering-Options.png)
+
+BERT Interlinker V2 Clustering Options
+
+Instructions and Getting Started
+--------------------------------
+
+![Image 27: screaming frog crawl file example](https://leefoot.co.uk/wp-content/uploads/2023/12/screaming-frog-crawl-file-example.png)
+
+screaming frog crawl file example
+
+You need a crawl file that at a minimum contains a URL column and a column to match.
+
+Just crawl any site you need to run the interlinker on, export the html file as a _csv_ or _Excel_ file and upload it to the Streamlit app.
+
+While I recommend matching on the H1 tag for best results, you’re free to match on any element you prefer, such as the page title, blog content, etc.
+
+In testing I found the H1 works best because it’s a description of the content that can be found o the page, rather than the content itself – which gave mixed results.
+
+The app is setup to automatically detect and populate the address column and keyword column using the default URL and H1 column names of Screaming Frog (in five languages) for convenience, but you’re free to change the mapping by changing the drop-down menu.
+
+Please note: You are free to use any crawler you like as long as the output file contains a URL column and the column containing the content you would like to interlink. (You just may need to manually select the correct column, rather than have it automatically mapped for you).
+
+Settings Deep Dive
+------------------
+
+### Clustering Options
+
+I used sensible defaults for this app which should make it easy to just jump in and start using the app with little to no research.
+
+If you want to get the best out of the app though, it’s worth your time drilling into the various options at your disposal.
+
+#### Transformer Model
+
+There are three transformer models available. They have been selected based on speed, a balance of speed and semantic performance and multi-linguistic capabilities.
+
+*   _paraphrase-MiniLM-L3-v2_ (Fastest – default model)
+*   _all-MiniLM-L6-v2_ (Good balance between speed and semantic performance)
+*   _paraphrase-multilingual-MiniLM-L12-v2_ (Multilingual, trained in 50+ languages)
+
+#### Minimum Similarity Score
+
+This is the threshold in which results are considered to be similar. The higher the score, the stricter the matching. The chart will display the top results in real time, so you can get a good idea of which cut off works well for your website.
+
+This option affects the _Excel_ file download. If you want to include all the results, set the similarity score to the lowest option (50%).
+
+![Image 28: BERT Interlinker Clustering Options](https://leefoot.co.uk/wp-content/uploads/2023/12/clustering_options.jpg)
+
+BERT Interlinker Clustering Options
+
+![Image 29: BERT Semantic Interlinker File Operations](https://leefoot.co.uk/wp-content/uploads/2023/12/File-Operations.png)
+
+BERT Semantic Interlinker File Operations
+
+### File Operations
+
+#### Upload File
+
+Valid options are .csv or .xlsx.
+
+#### Select Columns
+
+Options to select both the Address and Content columns. Columns are automatically mapped to the default Screaming Frog column names for the URL and H1-1 by default. They can be mapped to any column you specify.
+
+Includes automatic validation for the URL column.
+
+#### Filtering Options
+
+Filters are automated selected by default and filter out the following URL types.
+
+*   Drop Duplicate Pages
+*   Filter Out Paginated URLs
+*   Filter Out URLs with Parameters
+*   Keep Only Indexable Status URLs
+
+Filtered URLs are removed from the total URL count when processing the file.
+
+If a Indexability column is found, the option to keep only indexable URLs will drop any non-indexable URLs before processing.
+
+### Chart Creation Options
+
+#### Tree Layout Options
+
+Choice of Tree layout or radial layout. This option can be changed on the fly after processing is completed, so you can see which you prefer. (The default is Tree).
+
+Charts can be saved by right clicking and choosing the ‘Save image’ option in your browser.
+
+### Number of Level 1 / Level 2 Nodes to Preview
+
+This option restricts the number of nodes visible in the graph to the top X nodes at level 1 and 2 (It does not impact the final output).
+
+#### Tree Chart Node Size
+
+Increase or decrease the size of the Tree Chart node size. Useful for fine tuning visualisations.
+
+#### Font Size of Labels
+
+Increase or decrease the label font size, Useful for fine tuning visualisations.
+
+#### Chart Height
+
+Increase or decrease the height of the tree and radial chart. Useful to display more chart nodes on the screen / make charts easier to read. Useful if exporting to a presentation.
+
+#### Source and Destination Path Filters
+
+Note: Filters are applied to the saved Excel file.
+
+![Image 30](https://leefoot.co.uk/wp-content/uploads/2023/12/bert_interlinker_chart.png)
+
+Streamlit Web App Limitations – (Contact Me if You Need More)
+-------------------------------------------------------------
+
+### Input File Limited to a Maximum of 1,000 Rows
+
+The Streamlit app currently limits imports to 1,000 rows. This may change in the future depending on how the Streamlit app copes. Sentence Transformers are _very_ resource intensive.
+
+You can work around this to an extent by cleaning up the crawl file ahead of time. (Removing non-indexable pages or matching different templates individually).
+
+Note: This value is calculated after the pre-filtering options are applied.
+
+Should you require more rows, please don’t hesitate to [get in touch](https://leefoot.co.uk/hire-me/) – I’m available to customise this app further or provide it as a managed service, tailored to your needs.
+
+### 15 Matches per URL
+
+Limited to the first 15 matches per URL. In testing large eCommerce Websites this seemed to be more than enough related pages. The app needs to be constrained for situations when someone uploads 1000’s of boiler plate \[Keyword\] in \[Location\] type pages that would endlessly match to itself.
+
+### Limited to Three Different Sentence Transformers
+
+I tried to pick a good balance between speed and performance, whilst still ensuring that there is a multi-lingual option. For performance reasons the fastest transformer is selected, but there is an option to choose a slower model with a higher semantic score.

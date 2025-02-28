@@ -1,0 +1,19 @@
+A Code-First Agent Framework
+
+![Image 9](https://microsoft.github.io/TaskWeaver/assets/images/data-b0233cff3b2d3e7d1f4c7210bd827e4b.jpg)
+
+### Support Rich Data Structure
+
+TaskWeaver is designed to support rich data structure (e.g., `pandas DataFrame`) in a stateful manner through the conversation.
+
+![Image 10](https://microsoft.github.io/TaskWeaver/assets/images/plugins-95c30f6685a410abb928b259fef670f4.jpg)
+
+### Plugin Powered
+
+TaskWeaver leverages customized `plugins` to extend the functionality of the Agent while supporting ad-hoc user queries.
+
+![Image 11](https://microsoft.github.io/TaskWeaver/assets/images/domains-eb14d2a9596df0092bb60ad97746aba4.jpg)
+
+### Incorporate Domain Knowledge
+
+Extend or customize your own Agent by incorporating Plugins and various Examples for domain-specific scenarios.

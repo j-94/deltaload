@@ -1,0 +1,951 @@
+---
+title: GitHub - huextrat/TheGorgeousLogin: Login page built with @flutter 😍
+description: Login page built with @flutter 😍. Contribute to huextrat/TheGorgeousLogin development by creating an account on GitHub.
+url: https://github.com/huextrat/TheGorgeousLogin
+timestamp: 2025-01-20T15:30:54.409Z
+domain: github.com
+path: huextrat_TheGorgeousLogin
+---
+
+# GitHub - huextrat/TheGorgeousLogin: Login page built with @flutter 😍
+
+
+Login page built with @flutter 😍. Contribute to huextrat/TheGorgeousLogin development by creating an account on GitHub.
+
+
+## Content
+
+GitHub - huextrat/TheGorgeousLogin: Login page built with @flutter 😍
+===============
+                                           
+
+[Skip to content](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhuextrat%2FTheGorgeousLogin%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhuextrat%2FTheGorgeousLogin%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=huextrat%2FTheGorgeousLogin) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[huextrat](https://github.com/huextrat) / **[TheGorgeousLogin](https://github.com/huextrat/TheGorgeousLogin)** Public
+
+*   Sponsor
+    
+    Sponsor huextrat/TheGorgeousLogin
+    =================================
+    
+    ##### External links
+    
+    ![Image 38: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)
+    
+    [opencollective.com/**thegorgeouslogin**](https://opencollective.com/thegorgeouslogin)
+    
+    [https://twitter.com/hugoextrat](https://twitter.com/hugoextrat)
+    
+    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
+    
+    [Report abuse](https://github.com/contact/report-abuse?report=huextrat%2FTheGorgeousLogin+%28Repository+Funding+Links%29)
+    
+*   [Notifications](https://github.com/login?return_to=%2Fhuextrat%2FTheGorgeousLogin) You must be signed in to change notification settings
+*   [Fork 505](https://github.com/login?return_to=%2Fhuextrat%2FTheGorgeousLogin)
+*   [Star 1.8k](https://github.com/login?return_to=%2Fhuextrat%2FTheGorgeousLogin)
+    
+
+Login page built with [@flutter](https://github.com/flutter) 😍
+
+### License
+
+[MIT license](https://github.com/huextrat/TheGorgeousLogin/blob/master/LICENSE)
+
+[1.8k stars](https://github.com/huextrat/TheGorgeousLogin/stargazers) [505 forks](https://github.com/huextrat/TheGorgeousLogin/forks) [Branches](https://github.com/huextrat/TheGorgeousLogin/branches) [Tags](https://github.com/huextrat/TheGorgeousLogin/tags) [Activity](https://github.com/huextrat/TheGorgeousLogin/activity)
+
+[Star](https://github.com/login?return_to=%2Fhuextrat%2FTheGorgeousLogin)
+
+[Notifications](https://github.com/login?return_to=%2Fhuextrat%2FTheGorgeousLogin) You must be signed in to change notification settings
+
+*   [Code](https://github.com/huextrat/TheGorgeousLogin)
+*   [Issues 1](https://github.com/huextrat/TheGorgeousLogin/issues)
+*   [Pull requests 1](https://github.com/huextrat/TheGorgeousLogin/pulls)
+*   [Actions](https://github.com/huextrat/TheGorgeousLogin/actions)
+*   [Projects 0](https://github.com/huextrat/TheGorgeousLogin/projects)
+*   [Security](https://github.com/huextrat/TheGorgeousLogin/security)
+*   [Insights](https://github.com/huextrat/TheGorgeousLogin/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/huextrat/TheGorgeousLogin)
+*   [Issues](https://github.com/huextrat/TheGorgeousLogin/issues)
+*   [Pull requests](https://github.com/huextrat/TheGorgeousLogin/pulls)
+*   [Actions](https://github.com/huextrat/TheGorgeousLogin/actions)
+*   [Projects](https://github.com/huextrat/TheGorgeousLogin/projects)
+*   [Security](https://github.com/huextrat/TheGorgeousLogin/security)
+*   [Insights](https://github.com/huextrat/TheGorgeousLogin/pulse)
+
+huextrat/TheGorgeousLogin
+=========================
+
+  
+
+ master
+
+[**2** Branches](https://github.com/huextrat/TheGorgeousLogin/branches)[**0** Tags](https://github.com/huextrat/TheGorgeousLogin/tags)
+
+[](https://github.com/huextrat/TheGorgeousLogin/branches)[](https://github.com/huextrat/TheGorgeousLogin/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 39: huextrat](https://avatars.githubusercontent.com/u/22995315?v=4&size=40)](https://github.com/huextrat)[huextrat](https://github.com/huextrat/TheGorgeousLogin/commits?author=huextrat)
+
+[Create LICENSE](https://github.com/huextrat/TheGorgeousLogin/commit/7d002fd891e8534eda323f88366f1dbf647be38d)
+
+Jun 24, 2021
+
+[7d002fd](https://github.com/huextrat/TheGorgeousLogin/commit/7d002fd891e8534eda323f88366f1dbf647be38d) · Jun 24, 2021
+
+History
+-------
+
+[25 Commits](https://github.com/huextrat/TheGorgeousLogin/commits/master/)
+
+[](https://github.com/huextrat/TheGorgeousLogin/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/huextrat/TheGorgeousLogin/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/huextrat/TheGorgeousLogin/tree/master/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[Update FUNDING.yml](https://github.com/huextrat/TheGorgeousLogin/commit/e2d806a200297fb898f215722d25153bd6d81259 "Update FUNDING.yml")
+
+
+
+ | 
+
+Jul 9, 2019
+
+ |
+| 
+
+[android](https://github.com/huextrat/TheGorgeousLogin/tree/master/android "android")
+
+
+
+
+
+
+
+ | 
+
+[android](https://github.com/huextrat/TheGorgeousLogin/tree/master/android "android")
+
+
+
+
+
+
+
+ | 
+
+[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef "use latest version of Flutter")
+
+
+
+ | 
+
+Mar 31, 2021
+
+ |
+| 
+
+[assets](https://github.com/huextrat/TheGorgeousLogin/tree/master/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[assets](https://github.com/huextrat/TheGorgeousLogin/tree/master/assets "assets")
+
+
+
+
+
+
+
+ | 
+
+[Now live on Github](https://github.com/huextrat/TheGorgeousLogin/commit/4697f0eb0edbd72c714d72937cbc45260bfac538 "Now live on Github")
+
+
+
+ | 
+
+Sep 13, 2018
+
+ |
+| 
+
+[github](https://github.com/huextrat/TheGorgeousLogin/tree/master/github "github")
+
+
+
+
+
+
+
+ | 
+
+[github](https://github.com/huextrat/TheGorgeousLogin/tree/master/github "github")
+
+
+
+
+
+
+
+ | 
+
+[GIF updated with box shadow](https://github.com/huextrat/TheGorgeousLogin/commit/812738be88c0d743f90531a0ac7ce78b815b4f0c "GIF updated with box shadow")
+
+
+
+ | 
+
+Sep 14, 2018
+
+ |
+| 
+
+[ios](https://github.com/huextrat/TheGorgeousLogin/tree/master/ios "ios")
+
+
+
+
+
+
+
+ | 
+
+[ios](https://github.com/huextrat/TheGorgeousLogin/tree/master/ios "ios")
+
+
+
+
+
+
+
+ | 
+
+[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef "use latest version of Flutter")
+
+
+
+ | 
+
+Mar 31, 2021
+
+ |
+| 
+
+[lib](https://github.com/huextrat/TheGorgeousLogin/tree/master/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+[lib](https://github.com/huextrat/TheGorgeousLogin/tree/master/lib "lib")
+
+
+
+
+
+
+
+ | 
+
+[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef "use latest version of Flutter")
+
+
+
+ | 
+
+Mar 31, 2021
+
+ |
+| 
+
+[linux](https://github.com/huextrat/TheGorgeousLogin/tree/master/linux "linux")
+
+
+
+
+
+
+
+ | 
+
+[linux](https://github.com/huextrat/TheGorgeousLogin/tree/master/linux "linux")
+
+
+
+
+
+
+
+ | 
+
+[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef "use latest version of Flutter")
+
+
+
+ | 
+
+Mar 31, 2021
+
+ |
+| 
+
+[macos](https://github.com/huextrat/TheGorgeousLogin/tree/master/macos "macos")
+
+
+
+
+
+
+
+ | 
+
+[macos](https://github.com/huextrat/TheGorgeousLogin/tree/master/macos "macos")
+
+
+
+
+
+
+
+ | 
+
+[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef "use latest version of Flutter")
+
+
+
+ | 
+
+Mar 31, 2021
+
+ |
+| 
+
+[test](https://github.com/huextrat/TheGorgeousLogin/tree/master/test "test")
+
+
+
+
+
+
+
+ | 
+
+[test](https://github.com/huextrat/TheGorgeousLogin/tree/master/test "test")
+
+
+
+
+
+
+
+ | 
+
+[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef "use latest version of Flutter")
+
+
+
+ | 
+
+Mar 31, 2021
+
+ |
+| 
+
+[web](https://github.com/huextrat/TheGorgeousLogin/tree/master/web "web")
+
+
+
+
+
+
+
+ | 
+
+[web](https://github.com/huextrat/TheGorgeousLogin/tree/master/web "web")
+
+
+
+
+
+
+
+ | 
+
+[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef "use latest version of Flutter")
+
+
+
+ | 
+
+Mar 31, 2021
+
+ |
+| 
+
+[windows](https://github.com/huextrat/TheGorgeousLogin/tree/master/windows "windows")
+
+
+
+
+
+
+
+ | 
+
+[windows](https://github.com/huextrat/TheGorgeousLogin/tree/master/windows "windows")
+
+
+
+
+
+
+
+ | 
+
+[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef "use latest version of Flutter")
+
+
+
+ | 
+
+Mar 31, 2021
+
+ |
+| 
+
+[.gitignore](https://github.com/huextrat/TheGorgeousLogin/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/huextrat/TheGorgeousLogin/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[Now live on Github](https://github.com/huextrat/TheGorgeousLogin/commit/4697f0eb0edbd72c714d72937cbc45260bfac538 "Now live on Github")
+
+
+
+ | 
+
+Sep 13, 2018
+
+ |
+| 
+
+[.metadata](https://github.com/huextrat/TheGorgeousLogin/blob/master/.metadata ".metadata")
+
+
+
+
+
+
+
+ | 
+
+[.metadata](https://github.com/huextrat/TheGorgeousLogin/blob/master/.metadata ".metadata")
+
+
+
+
+
+
+
+ | 
+
+[Now live on Github](https://github.com/huextrat/TheGorgeousLogin/commit/4697f0eb0edbd72c714d72937cbc45260bfac538 "Now live on Github")
+
+
+
+ | 
+
+Sep 13, 2018
+
+ |
+| 
+
+[LICENSE](https://github.com/huextrat/TheGorgeousLogin/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/huextrat/TheGorgeousLogin/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[Create LICENSE](https://github.com/huextrat/TheGorgeousLogin/commit/7d002fd891e8534eda323f88366f1dbf647be38d "Create LICENSE")
+
+
+
+ | 
+
+Jun 24, 2021
+
+ |
+| 
+
+[README.md](https://github.com/huextrat/TheGorgeousLogin/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/huextrat/TheGorgeousLogin/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Added financial contributors to the README](https://github.com/huextrat/TheGorgeousLogin/commit/21043c91e048cc38cec00f0285c7a094cea47340 "Added financial contributors to the README")
+
+
+
+ | 
+
+Sep 18, 2019
+
+ |
+| 
+
+[analysis\_options.yaml](https://github.com/huextrat/TheGorgeousLogin/blob/master/analysis_options.yaml "analysis_options.yaml")
+
+
+
+
+
+
+
+ | 
+
+[analysis\_options.yaml](https://github.com/huextrat/TheGorgeousLogin/blob/master/analysis_options.yaml "analysis_options.yaml")
+
+
+
+
+
+
+
+ | 
+
+[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef "use latest version of Flutter")
+
+
+
+ | 
+
+Mar 31, 2021
+
+ |
+| 
+
+[pubspec.yaml](https://github.com/huextrat/TheGorgeousLogin/blob/master/pubspec.yaml "pubspec.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pubspec.yaml](https://github.com/huextrat/TheGorgeousLogin/blob/master/pubspec.yaml "pubspec.yaml")
+
+
+
+
+
+
+
+ | 
+
+[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef "use latest version of Flutter")
+
+
+
+ | 
+
+Mar 31, 2021
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#)
+*   [MIT license](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#)
+
+The Gorgeous Login
+==================
+
+[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#the-gorgeous-login)
+
+### A login page built with flutter inspired by a design found on Uplabs
+
+[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#--a-login-page-built-with-flutter-inspired-by-a-design-found-on-uplabs)
+
+| Uplabs design | Flutter rendering |
+| :-: | :-: |
+| [![Image 40: original-design](https://github.com/huextrat/TheGorgeousLogin/raw/master/github/template.jpg)](https://github.com/huextrat/TheGorgeousLogin/blob/master/github/template.jpg) |  [![Image 41](https://github.com/huextrat/TheGorgeousLogin/raw/master/github/login.gif)](https://github.com/huextrat/TheGorgeousLogin/blob/master/github/login.gif) [![Image 42: login.gif](https://github.com/huextrat/TheGorgeousLogin/raw/master/github/login.gif)](https://github.com/huextrat/TheGorgeousLogin/blob/master/github/login.gif)[](https://github.com/huextrat/TheGorgeousLogin/blob/master/github/login.gif) | 
+
+Contributors
+------------
+
+[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#contributors)
+
+### Code Contributors
+
+[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#code-contributors)
+
+This project exists thanks to all the people who contribute. \[[Contribute](https://github.com/huextrat/TheGorgeousLogin/blob/master/CONTRIBUTING.md)\]. [![Image 43](https://camo.githubusercontent.com/fb1a0a6f0b0dd49d324fc0e1510dc11a58705241a99985eea4d3ac2903560484/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365)](https://github.com/huextrat/TheGorgeousLogin/graphs/contributors)
+
+### Financial Contributors
+
+[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#financial-contributors)
+
+Become a financial contributor and help us sustain our community. \[[Contribute](https://opencollective.com/TheGorgeousLogin/contribute)\]
+
+#### Individuals
+
+[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#individuals)
+
+[![Image 44](https://camo.githubusercontent.com/c8f0da24a90f205bc157fcdb32f43e93001e1e8d7d8b620505391a3281ce1676/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f696e646976696475616c732e7376673f77696474683d383930)](https://opencollective.com/TheGorgeousLogin)
+
+#### Organizations
+
+[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#organizations)
+
+Support this project with your organization. Your logo will show up here with a link to your website. \[[Contribute](https://opencollective.com/TheGorgeousLogin/contribute)\]
+
+[![Image 45](https://camo.githubusercontent.com/47a90cc33a56b2f3d574ef74e6b9e2312dfb9471f34f86bc4f0ee2a1a67c527b/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f302f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/0/website) [![Image 46](https://camo.githubusercontent.com/7e316b419eaead643913d3f3c7c33a246a506de75a9095bcc54d171d29cef8bd/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f312f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/1/website) [![Image 47](https://camo.githubusercontent.com/f5f90789a68e84feafbac2074a769759910c5d92017bae7baba54b2c606c9194/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f322f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/2/website) [![Image 48](https://camo.githubusercontent.com/0a69b0024c4007195af90213141152ac6e1a77aa9bfd5bf5f6bb7cff26005d9b/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f332f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/3/website) [![Image 49](https://camo.githubusercontent.com/f8619bb79655143a055285daddd552534ac4724a1fc4c3f884bd5be165ac7706/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f342f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/4/website) [![Image 50](https://camo.githubusercontent.com/6dd94ea42c7491f2376a3e3cd761d98460b7dfb9b5ddffdd9c1edb9f4dd7d5e0/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f352f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/5/website) [![Image 51](https://camo.githubusercontent.com/1d30021e7429f64b4233241015c7acf596c1c69a5fd898c87e86f9b7d2842bb9/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f362f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/6/website) [![Image 52](https://camo.githubusercontent.com/02c40fe02f0e78075e31588281d7489fcbf99823217edbeef6f74c98535022d3/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f372f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/7/website) [![Image 53](https://camo.githubusercontent.com/6d809d0ff324943c98632ffabb1771f1cf24dde4794b68d57f55f8ad6a936a2b/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f382f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/8/website) [![Image 54](https://camo.githubusercontent.com/77258aa2d0ad2394ba2a2f912c22b13d0e92629a11d849d6c56171aaab8e0981/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f392f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/9/website)
+
+About
+-----
+
+Login page built with [@flutter](https://github.com/flutter) 😍
+
+### Topics
+
+[login](https://github.com/topics/login "Topic: login") [beautiful](https://github.com/topics/beautiful "Topic: beautiful") [flutter](https://github.com/topics/flutter "Topic: flutter") [uplabs](https://github.com/topics/uplabs "Topic: uplabs") [gorgeous](https://github.com/topics/gorgeous "Topic: gorgeous")
+
+### Resources
+
+[Readme](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/huextrat/TheGorgeousLogin/activity)
+
+### Stars
+
+[**1.8k** stars](https://github.com/huextrat/TheGorgeousLogin/stargazers)
+
+### Watchers
+
+[**63** watching](https://github.com/huextrat/TheGorgeousLogin/watchers)
+
+### Forks
+
+[**505** forks](https://github.com/huextrat/TheGorgeousLogin/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhuextrat%2FTheGorgeousLogin&report=huextrat+%28user%29)
+
+[Releases](https://github.com/huextrat/TheGorgeousLogin/releases)
+-----------------------------------------------------------------
+
+No releases published
+
+Sponsor this project
+--------------------
+
+*    ![Image 55: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)[opencollective.com/**thegorgeouslogin**](https://opencollective.com/thegorgeouslogin)
+*   [https://twitter.com/hugoextrat](https://twitter.com/hugoextrat)
+
+[Packages 0](https://github.com/users/huextrat/packages?repo_name=TheGorgeousLogin)
+-----------------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 5](https://github.com/huextrat/TheGorgeousLogin/graphs/contributors)
+----------------------------------------------------------------------------------
+
+*   [![Image 56: @huextrat](https://avatars.githubusercontent.com/u/22995315?s=64&v=4)](https://github.com/huextrat)
+*   [![Image 57: @weslly99](https://avatars.githubusercontent.com/u/4512090?s=64&v=4)](https://github.com/weslly99)
+*   [![Image 58: @monkeywithacupcake](https://avatars.githubusercontent.com/u/7316730?s=64&v=4)](https://github.com/monkeywithacupcake)
+*   [![Image 59: @shy950521](https://avatars.githubusercontent.com/u/12467910?s=64&v=4)](https://github.com/shy950521)
+*   [![Image 60: @amitkhairnar44](https://avatars.githubusercontent.com/u/18245511?s=64&v=4)](https://github.com/amitkhairnar44)
+
+Languages
+---------
+
+*   [Dart 42.3%](https://github.com/huextrat/TheGorgeousLogin/search?l=dart)
+*   [C++ 32.2%](https://github.com/huextrat/TheGorgeousLogin/search?l=c%2B%2B)
+*   [CMake 19.9%](https://github.com/huextrat/TheGorgeousLogin/search?l=cmake)
+*   [HTML 2.0%](https://github.com/huextrat/TheGorgeousLogin/search?l=html)
+*   [C 1.8%](https://github.com/huextrat/TheGorgeousLogin/search?l=c)
+*   [Swift 1.5%](https://github.com/huextrat/TheGorgeousLogin/search?l=swift)
+*   Other 0.3%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.
+
+## Metadata
+
+```json
+{
+  "title": "GitHub - huextrat/TheGorgeousLogin: Login page built with @flutter 😍",
+  "description": "Login page built with @flutter 😍. Contribute to huextrat/TheGorgeousLogin development by creating an account on GitHub.",
+  "url": "https://github.com/huextrat/TheGorgeousLogin?screenshot=true",
+  "content": "GitHub - huextrat/TheGorgeousLogin: Login page built with @flutter 😍\n===============\n                                           \n\n[Skip to content](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#start-of-content)  \n\nNavigation Menu\n---------------\n\nToggle navigation\n\n[](https://github.com/)\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhuextrat%2FTheGorgeousLogin%3Fscreenshot%3Dtrue)\n\n*   Product\n    \n    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n    *   [Security Find and fix vulnerabilities](https://github.com/features/security)\n    *   [Actions Automate any workflow](https://github.com/features/actions)\n    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)\n    *   [Issues Plan and track work](https://github.com/features/issues)\n    *   [Code Review Manage code changes](https://github.com/features/code-review)\n    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)\n    *   [Code Search Find more, search less](https://github.com/features/code-search)\n    \n    Explore\n    \n    *   [All features](https://github.com/features)\n    *   [Documentation](https://docs.github.com/)\n    *   [GitHub Skills](https://skills.github.com/)\n    *   [Blog](https://github.blog/)\n    \n*   Solutions\n    \n    By company size\n    \n    *   [Enterprises](https://github.com/enterprise)\n    *   [Small and medium teams](https://github.com/team)\n    *   [Startups](https://github.com/enterprise/startups)\n    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)\n    \n    By use case\n    \n    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)\n    *   [DevOps](https://github.com/solutions/use-case/devops)\n    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)\n    *   [View all use cases](https://github.com/solutions/use-case)\n    \n    By industry\n    \n    *   [Healthcare](https://github.com/solutions/industry/healthcare)\n    *   [Financial services](https://github.com/solutions/industry/financial-services)\n    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)\n    *   [Government](https://github.com/solutions/industry/government)\n    *   [View all industries](https://github.com/solutions/industry)\n    \n    [View all solutions](https://github.com/solutions)\n    \n*   Resources\n    \n    Topics\n    \n    *   [AI](https://github.com/resources/articles/ai)\n    *   [DevOps](https://github.com/resources/articles/devops)\n    *   [Security](https://github.com/resources/articles/security)\n    *   [Software Development](https://github.com/resources/articles/software-development)\n    *   [View all](https://github.com/resources/articles)\n    \n    Explore\n    \n    *   [Learning Pathways](https://resources.github.com/learn/pathways)\n    *   [White papers, Ebooks, Webinars](https://resources.github.com/)\n    *   [Customer Stories](https://github.com/customer-stories)\n    *   [Partners](https://partner.github.com/)\n    *   [Executive Insights](https://github.com/solutions/executive-insights)\n    \n*   Open Source\n    \n    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)\n    \n    *   [The ReadME Project GitHub community articles](https://github.com/readme)\n    \n    Repositories\n    \n    *   [Topics](https://github.com/topics)\n    *   [Trending](https://github.com/trending)\n    *   [Collections](https://github.com/collections)\n    \n*   Enterprise\n    \n    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)\n    \n    Available add-ons\n    \n    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)\n    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)\n    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)\n    \n*   [Pricing](https://github.com/pricing)\n\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n==========================================================\n\nSearch\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)\n\nProvide feedback\n================\n\nWe read every piece of feedback, and take your input very seriously.\n\n Include my email address so I can be contacted\n\nCancel Submit feedback\n\nSaved searches\n==============\n\nUse saved searches to filter your results more quickly\n------------------------------------------------------\n\nName  \n\nQuery \n\nTo see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).\n\nCancel Create saved search\n\n[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhuextrat%2FTheGorgeousLogin%3Fscreenshot%3Dtrue)\n\n[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=huextrat%2FTheGorgeousLogin) Reseting focus\n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n\n{{ message }}\n\n[huextrat](https://github.com/huextrat) / **[TheGorgeousLogin](https://github.com/huextrat/TheGorgeousLogin)** Public\n\n*   Sponsor\n    \n    Sponsor huextrat/TheGorgeousLogin\n    =================================\n    \n    ##### External links\n    \n    ![Image 38: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)\n    \n    [opencollective.com/**thegorgeouslogin**](https://opencollective.com/thegorgeouslogin)\n    \n    [https://twitter.com/hugoextrat](https://twitter.com/hugoextrat)\n    \n    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).\n    \n    [Report abuse](https://github.com/contact/report-abuse?report=huextrat%2FTheGorgeousLogin+%28Repository+Funding+Links%29)\n    \n*   [Notifications](https://github.com/login?return_to=%2Fhuextrat%2FTheGorgeousLogin) You must be signed in to change notification settings\n*   [Fork 505](https://github.com/login?return_to=%2Fhuextrat%2FTheGorgeousLogin)\n*   [Star 1.8k](https://github.com/login?return_to=%2Fhuextrat%2FTheGorgeousLogin)\n    \n\nLogin page built with [@flutter](https://github.com/flutter) 😍\n\n### License\n\n[MIT license](https://github.com/huextrat/TheGorgeousLogin/blob/master/LICENSE)\n\n[1.8k stars](https://github.com/huextrat/TheGorgeousLogin/stargazers) [505 forks](https://github.com/huextrat/TheGorgeousLogin/forks) [Branches](https://github.com/huextrat/TheGorgeousLogin/branches) [Tags](https://github.com/huextrat/TheGorgeousLogin/tags) [Activity](https://github.com/huextrat/TheGorgeousLogin/activity)\n\n[Star](https://github.com/login?return_to=%2Fhuextrat%2FTheGorgeousLogin)\n\n[Notifications](https://github.com/login?return_to=%2Fhuextrat%2FTheGorgeousLogin) You must be signed in to change notification settings\n\n*   [Code](https://github.com/huextrat/TheGorgeousLogin)\n*   [Issues 1](https://github.com/huextrat/TheGorgeousLogin/issues)\n*   [Pull requests 1](https://github.com/huextrat/TheGorgeousLogin/pulls)\n*   [Actions](https://github.com/huextrat/TheGorgeousLogin/actions)\n*   [Projects 0](https://github.com/huextrat/TheGorgeousLogin/projects)\n*   [Security](https://github.com/huextrat/TheGorgeousLogin/security)\n*   [Insights](https://github.com/huextrat/TheGorgeousLogin/pulse)\n\nAdditional navigation options\n\n*   [Code](https://github.com/huextrat/TheGorgeousLogin)\n*   [Issues](https://github.com/huextrat/TheGorgeousLogin/issues)\n*   [Pull requests](https://github.com/huextrat/TheGorgeousLogin/pulls)\n*   [Actions](https://github.com/huextrat/TheGorgeousLogin/actions)\n*   [Projects](https://github.com/huextrat/TheGorgeousLogin/projects)\n*   [Security](https://github.com/huextrat/TheGorgeousLogin/security)\n*   [Insights](https://github.com/huextrat/TheGorgeousLogin/pulse)\n\nhuextrat/TheGorgeousLogin\n=========================\n\n  \n\n master\n\n[**2** Branches](https://github.com/huextrat/TheGorgeousLogin/branches)[**0** Tags](https://github.com/huextrat/TheGorgeousLogin/tags)\n\n[](https://github.com/huextrat/TheGorgeousLogin/branches)[](https://github.com/huextrat/TheGorgeousLogin/tags)\n\nGo to file\n\nCode\n\nFolders and files\n-----------------\n\n| Name | Name | \nLast commit message\n\n | \n\nLast commit date\n\n |\n| --- | --- | --- | --- |\n| \n\nLatest commit\n-------------\n\n[![Image 39: huextrat](https://avatars.githubusercontent.com/u/22995315?v=4&size=40)](https://github.com/huextrat)[huextrat](https://github.com/huextrat/TheGorgeousLogin/commits?author=huextrat)\n\n[Create LICENSE](https://github.com/huextrat/TheGorgeousLogin/commit/7d002fd891e8534eda323f88366f1dbf647be38d)\n\nJun 24, 2021\n\n[7d002fd](https://github.com/huextrat/TheGorgeousLogin/commit/7d002fd891e8534eda323f88366f1dbf647be38d) · Jun 24, 2021\n\nHistory\n-------\n\n[25 Commits](https://github.com/huextrat/TheGorgeousLogin/commits/master/)\n\n[](https://github.com/huextrat/TheGorgeousLogin/commits/master/)\n\n\n\n\n\n\n\n |\n| \n\n[.github](https://github.com/huextrat/TheGorgeousLogin/tree/master/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[.github](https://github.com/huextrat/TheGorgeousLogin/tree/master/.github \".github\")\n\n\n\n\n\n\n\n | \n\n[Update FUNDING.yml](https://github.com/huextrat/TheGorgeousLogin/commit/e2d806a200297fb898f215722d25153bd6d81259 \"Update FUNDING.yml\")\n\n\n\n | \n\nJul 9, 2019\n\n |\n| \n\n[android](https://github.com/huextrat/TheGorgeousLogin/tree/master/android \"android\")\n\n\n\n\n\n\n\n | \n\n[android](https://github.com/huextrat/TheGorgeousLogin/tree/master/android \"android\")\n\n\n\n\n\n\n\n | \n\n[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef \"use latest version of Flutter\")\n\n\n\n | \n\nMar 31, 2021\n\n |\n| \n\n[assets](https://github.com/huextrat/TheGorgeousLogin/tree/master/assets \"assets\")\n\n\n\n\n\n\n\n | \n\n[assets](https://github.com/huextrat/TheGorgeousLogin/tree/master/assets \"assets\")\n\n\n\n\n\n\n\n | \n\n[Now live on Github](https://github.com/huextrat/TheGorgeousLogin/commit/4697f0eb0edbd72c714d72937cbc45260bfac538 \"Now live on Github\")\n\n\n\n | \n\nSep 13, 2018\n\n |\n| \n\n[github](https://github.com/huextrat/TheGorgeousLogin/tree/master/github \"github\")\n\n\n\n\n\n\n\n | \n\n[github](https://github.com/huextrat/TheGorgeousLogin/tree/master/github \"github\")\n\n\n\n\n\n\n\n | \n\n[GIF updated with box shadow](https://github.com/huextrat/TheGorgeousLogin/commit/812738be88c0d743f90531a0ac7ce78b815b4f0c \"GIF updated with box shadow\")\n\n\n\n | \n\nSep 14, 2018\n\n |\n| \n\n[ios](https://github.com/huextrat/TheGorgeousLogin/tree/master/ios \"ios\")\n\n\n\n\n\n\n\n | \n\n[ios](https://github.com/huextrat/TheGorgeousLogin/tree/master/ios \"ios\")\n\n\n\n\n\n\n\n | \n\n[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef \"use latest version of Flutter\")\n\n\n\n | \n\nMar 31, 2021\n\n |\n| \n\n[lib](https://github.com/huextrat/TheGorgeousLogin/tree/master/lib \"lib\")\n\n\n\n\n\n\n\n | \n\n[lib](https://github.com/huextrat/TheGorgeousLogin/tree/master/lib \"lib\")\n\n\n\n\n\n\n\n | \n\n[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef \"use latest version of Flutter\")\n\n\n\n | \n\nMar 31, 2021\n\n |\n| \n\n[linux](https://github.com/huextrat/TheGorgeousLogin/tree/master/linux \"linux\")\n\n\n\n\n\n\n\n | \n\n[linux](https://github.com/huextrat/TheGorgeousLogin/tree/master/linux \"linux\")\n\n\n\n\n\n\n\n | \n\n[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef \"use latest version of Flutter\")\n\n\n\n | \n\nMar 31, 2021\n\n |\n| \n\n[macos](https://github.com/huextrat/TheGorgeousLogin/tree/master/macos \"macos\")\n\n\n\n\n\n\n\n | \n\n[macos](https://github.com/huextrat/TheGorgeousLogin/tree/master/macos \"macos\")\n\n\n\n\n\n\n\n | \n\n[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef \"use latest version of Flutter\")\n\n\n\n | \n\nMar 31, 2021\n\n |\n| \n\n[test](https://github.com/huextrat/TheGorgeousLogin/tree/master/test \"test\")\n\n\n\n\n\n\n\n | \n\n[test](https://github.com/huextrat/TheGorgeousLogin/tree/master/test \"test\")\n\n\n\n\n\n\n\n | \n\n[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef \"use latest version of Flutter\")\n\n\n\n | \n\nMar 31, 2021\n\n |\n| \n\n[web](https://github.com/huextrat/TheGorgeousLogin/tree/master/web \"web\")\n\n\n\n\n\n\n\n | \n\n[web](https://github.com/huextrat/TheGorgeousLogin/tree/master/web \"web\")\n\n\n\n\n\n\n\n | \n\n[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef \"use latest version of Flutter\")\n\n\n\n | \n\nMar 31, 2021\n\n |\n| \n\n[windows](https://github.com/huextrat/TheGorgeousLogin/tree/master/windows \"windows\")\n\n\n\n\n\n\n\n | \n\n[windows](https://github.com/huextrat/TheGorgeousLogin/tree/master/windows \"windows\")\n\n\n\n\n\n\n\n | \n\n[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef \"use latest version of Flutter\")\n\n\n\n | \n\nMar 31, 2021\n\n |\n| \n\n[.gitignore](https://github.com/huextrat/TheGorgeousLogin/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[.gitignore](https://github.com/huextrat/TheGorgeousLogin/blob/master/.gitignore \".gitignore\")\n\n\n\n\n\n\n\n | \n\n[Now live on Github](https://github.com/huextrat/TheGorgeousLogin/commit/4697f0eb0edbd72c714d72937cbc45260bfac538 \"Now live on Github\")\n\n\n\n | \n\nSep 13, 2018\n\n |\n| \n\n[.metadata](https://github.com/huextrat/TheGorgeousLogin/blob/master/.metadata \".metadata\")\n\n\n\n\n\n\n\n | \n\n[.metadata](https://github.com/huextrat/TheGorgeousLogin/blob/master/.metadata \".metadata\")\n\n\n\n\n\n\n\n | \n\n[Now live on Github](https://github.com/huextrat/TheGorgeousLogin/commit/4697f0eb0edbd72c714d72937cbc45260bfac538 \"Now live on Github\")\n\n\n\n | \n\nSep 13, 2018\n\n |\n| \n\n[LICENSE](https://github.com/huextrat/TheGorgeousLogin/blob/master/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[LICENSE](https://github.com/huextrat/TheGorgeousLogin/blob/master/LICENSE \"LICENSE\")\n\n\n\n\n\n\n\n | \n\n[Create LICENSE](https://github.com/huextrat/TheGorgeousLogin/commit/7d002fd891e8534eda323f88366f1dbf647be38d \"Create LICENSE\")\n\n\n\n | \n\nJun 24, 2021\n\n |\n| \n\n[README.md](https://github.com/huextrat/TheGorgeousLogin/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[README.md](https://github.com/huextrat/TheGorgeousLogin/blob/master/README.md \"README.md\")\n\n\n\n\n\n\n\n | \n\n[Added financial contributors to the README](https://github.com/huextrat/TheGorgeousLogin/commit/21043c91e048cc38cec00f0285c7a094cea47340 \"Added financial contributors to the README\")\n\n\n\n | \n\nSep 18, 2019\n\n |\n| \n\n[analysis\\_options.yaml](https://github.com/huextrat/TheGorgeousLogin/blob/master/analysis_options.yaml \"analysis_options.yaml\")\n\n\n\n\n\n\n\n | \n\n[analysis\\_options.yaml](https://github.com/huextrat/TheGorgeousLogin/blob/master/analysis_options.yaml \"analysis_options.yaml\")\n\n\n\n\n\n\n\n | \n\n[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef \"use latest version of Flutter\")\n\n\n\n | \n\nMar 31, 2021\n\n |\n| \n\n[pubspec.yaml](https://github.com/huextrat/TheGorgeousLogin/blob/master/pubspec.yaml \"pubspec.yaml\")\n\n\n\n\n\n\n\n | \n\n[pubspec.yaml](https://github.com/huextrat/TheGorgeousLogin/blob/master/pubspec.yaml \"pubspec.yaml\")\n\n\n\n\n\n\n\n | \n\n[use latest version of Flutter](https://github.com/huextrat/TheGorgeousLogin/commit/a1379f41fcfdac3cf1c1650ddac32e77998b0eef \"use latest version of Flutter\")\n\n\n\n | \n\nMar 31, 2021\n\n |\n| \n\nView all files\n\n |\n\nRepository files navigation\n---------------------------\n\n*   [README](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#)\n*   [MIT license](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#)\n\nThe Gorgeous Login\n==================\n\n[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#the-gorgeous-login)\n\n### A login page built with flutter inspired by a design found on Uplabs\n\n[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#--a-login-page-built-with-flutter-inspired-by-a-design-found-on-uplabs)\n\n| Uplabs design | Flutter rendering |\n| :-: | :-: |\n| [![Image 40: original-design](https://github.com/huextrat/TheGorgeousLogin/raw/master/github/template.jpg)](https://github.com/huextrat/TheGorgeousLogin/blob/master/github/template.jpg) |  [![Image 41](https://github.com/huextrat/TheGorgeousLogin/raw/master/github/login.gif)](https://github.com/huextrat/TheGorgeousLogin/blob/master/github/login.gif) [![Image 42: login.gif](https://github.com/huextrat/TheGorgeousLogin/raw/master/github/login.gif)](https://github.com/huextrat/TheGorgeousLogin/blob/master/github/login.gif)[](https://github.com/huextrat/TheGorgeousLogin/blob/master/github/login.gif) | \n\nContributors\n------------\n\n[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#contributors)\n\n### Code Contributors\n\n[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#code-contributors)\n\nThis project exists thanks to all the people who contribute. \\[[Contribute](https://github.com/huextrat/TheGorgeousLogin/blob/master/CONTRIBUTING.md)\\]. [![Image 43](https://camo.githubusercontent.com/fb1a0a6f0b0dd49d324fc0e1510dc11a58705241a99985eea4d3ac2903560484/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365)](https://github.com/huextrat/TheGorgeousLogin/graphs/contributors)\n\n### Financial Contributors\n\n[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#financial-contributors)\n\nBecome a financial contributor and help us sustain our community. \\[[Contribute](https://opencollective.com/TheGorgeousLogin/contribute)\\]\n\n#### Individuals\n\n[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#individuals)\n\n[![Image 44](https://camo.githubusercontent.com/c8f0da24a90f205bc157fcdb32f43e93001e1e8d7d8b620505391a3281ce1676/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f696e646976696475616c732e7376673f77696474683d383930)](https://opencollective.com/TheGorgeousLogin)\n\n#### Organizations\n\n[](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#organizations)\n\nSupport this project with your organization. Your logo will show up here with a link to your website. \\[[Contribute](https://opencollective.com/TheGorgeousLogin/contribute)\\]\n\n[![Image 45](https://camo.githubusercontent.com/47a90cc33a56b2f3d574ef74e6b9e2312dfb9471f34f86bc4f0ee2a1a67c527b/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f302f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/0/website) [![Image 46](https://camo.githubusercontent.com/7e316b419eaead643913d3f3c7c33a246a506de75a9095bcc54d171d29cef8bd/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f312f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/1/website) [![Image 47](https://camo.githubusercontent.com/f5f90789a68e84feafbac2074a769759910c5d92017bae7baba54b2c606c9194/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f322f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/2/website) [![Image 48](https://camo.githubusercontent.com/0a69b0024c4007195af90213141152ac6e1a77aa9bfd5bf5f6bb7cff26005d9b/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f332f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/3/website) [![Image 49](https://camo.githubusercontent.com/f8619bb79655143a055285daddd552534ac4724a1fc4c3f884bd5be165ac7706/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f342f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/4/website) [![Image 50](https://camo.githubusercontent.com/6dd94ea42c7491f2376a3e3cd761d98460b7dfb9b5ddffdd9c1edb9f4dd7d5e0/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f352f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/5/website) [![Image 51](https://camo.githubusercontent.com/1d30021e7429f64b4233241015c7acf596c1c69a5fd898c87e86f9b7d2842bb9/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f362f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/6/website) [![Image 52](https://camo.githubusercontent.com/02c40fe02f0e78075e31588281d7489fcbf99823217edbeef6f74c98535022d3/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f372f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/7/website) [![Image 53](https://camo.githubusercontent.com/6d809d0ff324943c98632ffabb1771f1cf24dde4794b68d57f55f8ad6a936a2b/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f382f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/8/website) [![Image 54](https://camo.githubusercontent.com/77258aa2d0ad2394ba2a2f912c22b13d0e92629a11d849d6c56171aaab8e0981/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f546865476f7267656f75734c6f67696e2f6f7267616e697a6174696f6e2f392f6176617461722e737667)](https://opencollective.com/TheGorgeousLogin/organization/9/website)\n\nAbout\n-----\n\nLogin page built with [@flutter](https://github.com/flutter) 😍\n\n### Topics\n\n[login](https://github.com/topics/login \"Topic: login\") [beautiful](https://github.com/topics/beautiful \"Topic: beautiful\") [flutter](https://github.com/topics/flutter \"Topic: flutter\") [uplabs](https://github.com/topics/uplabs \"Topic: uplabs\") [gorgeous](https://github.com/topics/gorgeous \"Topic: gorgeous\")\n\n### Resources\n\n[Readme](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#readme-ov-file)\n\n### License\n\n[MIT license](https://github.com/huextrat/TheGorgeousLogin?screenshot=true#MIT-1-ov-file)\n\n[Activity](https://github.com/huextrat/TheGorgeousLogin/activity)\n\n### Stars\n\n[**1.8k** stars](https://github.com/huextrat/TheGorgeousLogin/stargazers)\n\n### Watchers\n\n[**63** watching](https://github.com/huextrat/TheGorgeousLogin/watchers)\n\n### Forks\n\n[**505** forks](https://github.com/huextrat/TheGorgeousLogin/forks)\n\n[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhuextrat%2FTheGorgeousLogin&report=huextrat+%28user%29)\n\n[Releases](https://github.com/huextrat/TheGorgeousLogin/releases)\n-----------------------------------------------------------------\n\nNo releases published\n\nSponsor this project\n--------------------\n\n*    ![Image 55: open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)[opencollective.com/**thegorgeouslogin**](https://opencollective.com/thegorgeouslogin)\n*   [https://twitter.com/hugoextrat](https://twitter.com/hugoextrat)\n\n[Packages 0](https://github.com/users/huextrat/packages?repo_name=TheGorgeousLogin)\n-----------------------------------------------------------------------------------\n\nNo packages published  \n\n[Contributors 5](https://github.com/huextrat/TheGorgeousLogin/graphs/contributors)\n----------------------------------------------------------------------------------\n\n*   [![Image 56: @huextrat](https://avatars.githubusercontent.com/u/22995315?s=64&v=4)](https://github.com/huextrat)\n*   [![Image 57: @weslly99](https://avatars.githubusercontent.com/u/4512090?s=64&v=4)](https://github.com/weslly99)\n*   [![Image 58: @monkeywithacupcake](https://avatars.githubusercontent.com/u/7316730?s=64&v=4)](https://github.com/monkeywithacupcake)\n*   [![Image 59: @shy950521](https://avatars.githubusercontent.com/u/12467910?s=64&v=4)](https://github.com/shy950521)\n*   [![Image 60: @amitkhairnar44](https://avatars.githubusercontent.com/u/18245511?s=64&v=4)](https://github.com/amitkhairnar44)\n\nLanguages\n---------\n\n*   [Dart 42.3%](https://github.com/huextrat/TheGorgeousLogin/search?l=dart)\n*   [C++ 32.2%](https://github.com/huextrat/TheGorgeousLogin/search?l=c%2B%2B)\n*   [CMake 19.9%](https://github.com/huextrat/TheGorgeousLogin/search?l=cmake)\n*   [HTML 2.0%](https://github.com/huextrat/TheGorgeousLogin/search?l=html)\n*   [C 1.8%](https://github.com/huextrat/TheGorgeousLogin/search?l=c)\n*   [Swift 1.5%](https://github.com/huextrat/TheGorgeousLogin/search?l=swift)\n*   Other 0.3%\n\nFooter\n------\n\n[](https://github.com/ \"GitHub\")© 2025 GitHub, Inc.\n\n### Footer navigation\n\n*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n*   [Security](https://github.com/security)\n*   [Status](https://www.githubstatus.com/)\n*   [Docs](https://docs.github.com/)\n*   [Contact](https://support.github.com/?tags=dotcom-footer)\n*   Manage cookies\n*   Do not share my personal information\n\nYou can’t perform that action at this time.",
+  "usage": {
+    "tokens": 7697
+  }
+}
+```

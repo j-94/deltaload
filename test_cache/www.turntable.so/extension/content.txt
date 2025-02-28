@@ -1,0 +1,23 @@
+works with
+
+![Image 14](https://www.turntable.so/dbt-core.svg)
+
+Supercharge your dbt experience with column-level lineage, in-line docs editing, query preview, validation, AI docs autofill, and more
+
+Turntable supports the most popular warehouses and databases
+
+Column-level lineage
+
+Quickly view column-level lineage alongside a given model, including detail on how the columns are connected (joins, filters, etc.)
+
+Docs composer
+
+Read and edit your dbt model docs side-by-side as you develop, and use our AI autofill to write a first draft of table and column descriptions
+
+Model validation
+
+Check for database errors and problems before you run your model
+
+Query preview
+
+Quickly see a preview of the result set for your model as you develop

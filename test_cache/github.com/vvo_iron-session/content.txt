@@ -1,0 +1,1443 @@
+GitHub - vvo/iron-session: 🛠 Secure, stateless, and cookie-based session library for JavaScript
+===============
+                                           
+
+[Skip to content](https://github.com/vvo/iron-session?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvvo%2Firon-session%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvvo%2Firon-session%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=vvo%2Firon-session) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[vvo](https://github.com/vvo) / **[iron-session](https://github.com/vvo/iron-session)** Public
+
+*   Sponsor
+    
+    Sponsor vvo/iron-session
+    ========================
+    
+    ##### GitHub Sponsors
+    
+    [Learn more about Sponsors](https://github.com/sponsors)
+    
+    [![Image 34: @vvo](https://avatars.githubusercontent.com/u/123822?s=80&v=4)](https://github.com/vvo)
+    
+    [vvo](https://github.com/vvo)
+    
+    [vvo](https://github.com/vvo)
+    
+    [Sponsor](https://github.com/sponsors/vvo)
+    
+    [![Image 35: @brc-dd](https://avatars.githubusercontent.com/u/40380293?s=80&v=4)](https://github.com/brc-dd)
+    
+    [brc-dd](https://github.com/brc-dd)
+    
+    [brc-dd](https://github.com/brc-dd)
+    
+    [Sponsor](https://github.com/sponsors/brc-dd)
+    
+    [Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
+    
+    [Report abuse](https://github.com/contact/report-abuse?report=vvo%2Firon-session+%28Repository+Funding+Links%29)
+    
+*   [Notifications](https://github.com/login?return_to=%2Fvvo%2Firon-session) You must be signed in to change notification settings
+*   [Fork 252](https://github.com/login?return_to=%2Fvvo%2Firon-session)
+*   [Star 3.8k](https://github.com/login?return_to=%2Fvvo%2Firon-session)
+    
+
+🛠 Secure, stateless, and cookie-based session library for JavaScript
+
+[get-iron-session.vercel.app](https://get-iron-session.vercel.app/ "https://get-iron-session.vercel.app")
+
+### License
+
+[MIT license](https://github.com/vvo/iron-session/blob/main/LICENSE.md)
+
+[3.8k stars](https://github.com/vvo/iron-session/stargazers) [252 forks](https://github.com/vvo/iron-session/forks) [Branches](https://github.com/vvo/iron-session/branches) [Tags](https://github.com/vvo/iron-session/tags) [Activity](https://github.com/vvo/iron-session/activity)
+
+[Star](https://github.com/login?return_to=%2Fvvo%2Firon-session)
+
+[Notifications](https://github.com/login?return_to=%2Fvvo%2Firon-session) You must be signed in to change notification settings
+
+*   [Code](https://github.com/vvo/iron-session)
+*   [Issues 9](https://github.com/vvo/iron-session/issues)
+*   [Pull requests 10](https://github.com/vvo/iron-session/pulls)
+*   [Discussions](https://github.com/vvo/iron-session/discussions)
+*   [Actions](https://github.com/vvo/iron-session/actions)
+*   [Security](https://github.com/vvo/iron-session/security)
+*   [Insights](https://github.com/vvo/iron-session/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/vvo/iron-session)
+*   [Issues](https://github.com/vvo/iron-session/issues)
+*   [Pull requests](https://github.com/vvo/iron-session/pulls)
+*   [Discussions](https://github.com/vvo/iron-session/discussions)
+*   [Actions](https://github.com/vvo/iron-session/actions)
+*   [Security](https://github.com/vvo/iron-session/security)
+*   [Insights](https://github.com/vvo/iron-session/pulse)
+
+vvo/iron-session
+================
+
+  
+
+ main
+
+[**14** Branches](https://github.com/vvo/iron-session/branches)[**51** Tags](https://github.com/vvo/iron-session/tags)
+
+[](https://github.com/vvo/iron-session/branches)[](https://github.com/vvo/iron-session/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 36: renovate[bot]](https://avatars.githubusercontent.com/in/2740?v=4&size=40)](https://github.com/apps/renovate)[renovate\[bot\]](https://github.com/vvo/iron-session/commits?author=renovate%5Bbot%5D)
+
+[chore(deps): update dependency prettier-plugin-packagejson to v2.5.8 (](https://github.com/vvo/iron-session/commit/39f5f1331cdf7e75ee2d2e56dc939f319eedb062)[#…](https://github.com/vvo/iron-session/pull/896)
+
+Jan 19, 2025
+
+[39f5f13](https://github.com/vvo/iron-session/commit/39f5f1331cdf7e75ee2d2e56dc939f319eedb062) · Jan 19, 2025
+
+History
+-------
+
+[782 Commits](https://github.com/vvo/iron-session/commits/main/)
+
+[](https://github.com/vvo/iron-session/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github](https://github.com/vvo/iron-session/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[.github](https://github.com/vvo/iron-session/tree/main/.github ".github")
+
+
+
+
+
+
+
+ | 
+
+[chore(deps): upgrade all deps (](https://github.com/vvo/iron-session/commit/fafc3b017469e314f6c1447701af890af58cbf11 "chore(deps): upgrade all deps (#753)
+* update
+* update
+* no need?")[#753](https://github.com/vvo/iron-session/pull/753)[)](https://github.com/vvo/iron-session/commit/fafc3b017469e314f6c1447701af890af58cbf11 "chore(deps): upgrade all deps (#753)
+* update
+* update
+* no need?")
+
+
+
+ | 
+
+Jun 7, 2024
+
+ |
+| 
+
+[.vscode](https://github.com/vvo/iron-session/tree/main/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[.vscode](https://github.com/vvo/iron-session/tree/main/.vscode ".vscode")
+
+
+
+
+
+
+
+ | 
+
+[let's go](https://github.com/vvo/iron-session/commit/9dc82ed1b515025d25f10e87879599bb5df85b9c "let's go")
+
+
+
+ | 
+
+Nov 18, 2023
+
+ |
+| 
+
+[examples/next](https://github.com/vvo/iron-session/tree/main/examples/next "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[examples/next](https://github.com/vvo/iron-session/tree/main/examples/next "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[remove this](https://github.com/vvo/iron-session/commit/c557d92ca2b80bbd6ccb8496df5652c4a8faeab4 "remove this")
+
+
+
+ | 
+
+Jun 14, 2024
+
+ |
+| 
+
+[sponsor](https://github.com/vvo/iron-session/tree/main/sponsor "sponsor")
+
+
+
+
+
+
+
+ | 
+
+[sponsor](https://github.com/vvo/iron-session/tree/main/sponsor "sponsor")
+
+
+
+
+
+
+
+ | 
+
+[chore: add clerk sponsorship to readme (](https://github.com/vvo/iron-session/commit/27c8b1e1fa6367bc7f3ef7e00274060a6e3c04c2 "chore: add clerk sponsorship to readme (#802)")[#802](https://github.com/vvo/iron-session/pull/802)[)](https://github.com/vvo/iron-session/commit/27c8b1e1fa6367bc7f3ef7e00274060a6e3c04c2 "chore: add clerk sponsorship to readme (#802)")
+
+
+
+ | 
+
+Jul 22, 2024
+
+ |
+| 
+
+[src](https://github.com/vvo/iron-session/tree/main/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/vvo/iron-session/tree/main/src "src")
+
+
+
+
+
+
+
+ | 
+
+[fix(API): ensure updateConfig is present in all cases](https://github.com/vvo/iron-session/commit/baf6e0feed70d5f31a9816c9b7a596130ade6fd0 "fix(API): ensure updateConfig is present in all cases
+Before this commit, updateConfig would not be present when using
+getIronSession(cookies(), ..);
+Fixes #689")
+
+
+
+ | 
+
+Jun 14, 2024
+
+ |
+| 
+
+[.editorconfig](https://github.com/vvo/iron-session/blob/main/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[.editorconfig](https://github.com/vvo/iron-session/blob/main/.editorconfig ".editorconfig")
+
+
+
+
+
+
+
+ | 
+
+[feat!: rewrite (](https://github.com/vvo/iron-session/commit/ecdd6260641cd9a61c671fd18a7ef980148ca76a "feat!: rewrite (#574)")[#574](https://github.com/vvo/iron-session/pull/574)[)](https://github.com/vvo/iron-session/commit/ecdd6260641cd9a61c671fd18a7ef980148ca76a "feat!: rewrite (#574)")
+
+
+
+ | 
+
+Apr 22, 2023
+
+ |
+| 
+
+[.eslintrc.yaml](https://github.com/vvo/iron-session/blob/main/.eslintrc.yaml ".eslintrc.yaml")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.yaml](https://github.com/vvo/iron-session/blob/main/.eslintrc.yaml ".eslintrc.yaml")
+
+
+
+
+
+
+
+ | 
+
+[let's go](https://github.com/vvo/iron-session/commit/9dc82ed1b515025d25f10e87879599bb5df85b9c "let's go")
+
+
+
+ | 
+
+Nov 18, 2023
+
+ |
+| 
+
+[.gitattributes](https://github.com/vvo/iron-session/blob/main/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[.gitattributes](https://github.com/vvo/iron-session/blob/main/.gitattributes ".gitattributes")
+
+
+
+
+
+
+
+ | 
+
+[feat!: rewrite (](https://github.com/vvo/iron-session/commit/ecdd6260641cd9a61c671fd18a7ef980148ca76a "feat!: rewrite (#574)")[#574](https://github.com/vvo/iron-session/pull/574)[)](https://github.com/vvo/iron-session/commit/ecdd6260641cd9a61c671fd18a7ef980148ca76a "feat!: rewrite (#574)")
+
+
+
+ | 
+
+Apr 22, 2023
+
+ |
+| 
+
+[.gitignore](https://github.com/vvo/iron-session/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/vvo/iron-session/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[add turbo for monorepo on vercel](https://github.com/vvo/iron-session/commit/80899da4dcc281c9c029a87feffa6936122cd40f "add turbo for monorepo on vercel")
+
+
+
+ | 
+
+Nov 19, 2023
+
+ |
+| 
+
+[.node-version](https://github.com/vvo/iron-session/blob/main/.node-version ".node-version")
+
+
+
+
+
+
+
+ | 
+
+[.node-version](https://github.com/vvo/iron-session/blob/main/.node-version ".node-version")
+
+
+
+
+
+
+
+ | 
+
+[chore(deps): update dependency node to v20.16.0 (](https://github.com/vvo/iron-session/commit/8e14b22a89d4164044cccbd839e83800464e70d0 "chore(deps): update dependency node to v20.16.0 (#813)
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>")[#813](https://github.com/vvo/iron-session/pull/813)[)](https://github.com/vvo/iron-session/commit/8e14b22a89d4164044cccbd839e83800464e70d0 "chore(deps): update dependency node to v20.16.0 (#813)
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>")
+
+
+
+ | 
+
+Jul 30, 2024
+
+ |
+| 
+
+[.npmignore](https://github.com/vvo/iron-session/blob/main/.npmignore ".npmignore")
+
+
+
+
+
+
+
+ | 
+
+[.npmignore](https://github.com/vvo/iron-session/blob/main/.npmignore ".npmignore")
+
+
+
+
+
+
+
+ | 
+
+[feat!: rewrite (](https://github.com/vvo/iron-session/commit/ecdd6260641cd9a61c671fd18a7ef980148ca76a "feat!: rewrite (#574)")[#574](https://github.com/vvo/iron-session/pull/574)[)](https://github.com/vvo/iron-session/commit/ecdd6260641cd9a61c671fd18a7ef980148ca76a "feat!: rewrite (#574)")
+
+
+
+ | 
+
+Apr 22, 2023
+
+ |
+| 
+
+[.npmrc](https://github.com/vvo/iron-session/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[.npmrc](https://github.com/vvo/iron-session/blob/main/.npmrc ".npmrc")
+
+
+
+
+
+
+
+ | 
+
+[docs: add readme to bun example](https://github.com/vvo/iron-session/commit/8d6c166073226a1097c75109a47da9e79847330d "docs: add readme to bun example")
+
+
+
+ | 
+
+May 5, 2023
+
+ |
+| 
+
+[.prettierignore](https://github.com/vvo/iron-session/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[.prettierignore](https://github.com/vvo/iron-session/blob/main/.prettierignore ".prettierignore")
+
+
+
+
+
+
+
+ | 
+
+[remove more stuff, execut lint](https://github.com/vvo/iron-session/commit/264f6fbba68c9ad91d7c9b12d7ed046af0b7ecf3 "remove more stuff, execut lint")
+
+
+
+ | 
+
+Oct 6, 2023
+
+ |
+| 
+
+[.release-it.yaml](https://github.com/vvo/iron-session/blob/main/.release-it.yaml ".release-it.yaml")
+
+
+
+
+
+
+
+ | 
+
+[.release-it.yaml](https://github.com/vvo/iron-session/blob/main/.release-it.yaml ".release-it.yaml")
+
+
+
+
+
+
+
+ | 
+
+[feat!: rewrite (](https://github.com/vvo/iron-session/commit/ecdd6260641cd9a61c671fd18a7ef980148ca76a "feat!: rewrite (#574)")[#574](https://github.com/vvo/iron-session/pull/574)[)](https://github.com/vvo/iron-session/commit/ecdd6260641cd9a61c671fd18a7ef980148ca76a "feat!: rewrite (#574)")
+
+
+
+ | 
+
+Apr 22, 2023
+
+ |
+| 
+
+[CHANGELOG.md](https://github.com/vvo/iron-session/blob/main/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[CHANGELOG.md](https://github.com/vvo/iron-session/blob/main/CHANGELOG.md "CHANGELOG.md")
+
+
+
+
+
+
+
+ | 
+
+[chore: release v8.0.0-alpha.0](https://github.com/vvo/iron-session/commit/da93463100fb7e87360bc1e6fd2baf9d2b0989e6 "chore: release v8.0.0-alpha.0")
+
+
+
+ | 
+
+May 27, 2023
+
+ |
+| 
+
+[CONTRIBUTING.md](https://github.com/vvo/iron-session/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[CONTRIBUTING.md](https://github.com/vvo/iron-session/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")
+
+
+
+
+
+
+
+ | 
+
+[update](https://github.com/vvo/iron-session/commit/6c6a576062acf727c61b5acd575a389c7cceceda "update")
+
+
+
+ | 
+
+Nov 19, 2023
+
+ |
+| 
+
+[LICENSE.md](https://github.com/vvo/iron-session/blob/main/LICENSE.md "LICENSE.md")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE.md](https://github.com/vvo/iron-session/blob/main/LICENSE.md "LICENSE.md")
+
+
+
+
+
+
+
+ | 
+
+[feat!: rewrite (](https://github.com/vvo/iron-session/commit/ecdd6260641cd9a61c671fd18a7ef980148ca76a "feat!: rewrite (#574)")[#574](https://github.com/vvo/iron-session/pull/574)[)](https://github.com/vvo/iron-session/commit/ecdd6260641cd9a61c671fd18a7ef980148ca76a "feat!: rewrite (#574)")
+
+
+
+ | 
+
+Apr 22, 2023
+
+ |
+| 
+
+[README.md](https://github.com/vvo/iron-session/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/vvo/iron-session/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[Fix light/dark Clerk sponsorship image (](https://github.com/vvo/iron-session/commit/6da8e52015e0121b446a8c755e455347d1135ea1 "Fix light/dark Clerk sponsorship image (#809)")[#809](https://github.com/vvo/iron-session/pull/809)[)](https://github.com/vvo/iron-session/commit/6da8e52015e0121b446a8c755e455347d1135ea1 "Fix light/dark Clerk sponsorship image (#809)")
+
+
+
+ | 
+
+Jul 22, 2024
+
+ |
+| 
+
+[package.json](https://github.com/vvo/iron-session/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/vvo/iron-session/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[chore(deps): update dependency prettier-plugin-packagejson to v2.5.8 (](https://github.com/vvo/iron-session/commit/39f5f1331cdf7e75ee2d2e56dc939f319eedb062 "chore(deps): update dependency prettier-plugin-packagejson to v2.5.8 (#896)
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>")[#…](https://github.com/vvo/iron-session/pull/896)
+
+
+
+ | 
+
+Jan 19, 2025
+
+ |
+| 
+
+[pnpm-lock.yaml](https://github.com/vvo/iron-session/blob/main/pnpm-lock.yaml "pnpm-lock.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pnpm-lock.yaml](https://github.com/vvo/iron-session/blob/main/pnpm-lock.yaml "pnpm-lock.yaml")
+
+
+
+
+
+
+
+ | 
+
+[chore(deps): update dependency prettier-plugin-packagejson to v2.5.8 (](https://github.com/vvo/iron-session/commit/39f5f1331cdf7e75ee2d2e56dc939f319eedb062 "chore(deps): update dependency prettier-plugin-packagejson to v2.5.8 (#896)
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>")[#…](https://github.com/vvo/iron-session/pull/896)
+
+
+
+ | 
+
+Jan 19, 2025
+
+ |
+| 
+
+[pnpm-workspace.yaml](https://github.com/vvo/iron-session/blob/main/pnpm-workspace.yaml "pnpm-workspace.yaml")
+
+
+
+
+
+
+
+ | 
+
+[pnpm-workspace.yaml](https://github.com/vvo/iron-session/blob/main/pnpm-workspace.yaml "pnpm-workspace.yaml")
+
+
+
+
+
+
+
+ | 
+
+[update](https://github.com/vvo/iron-session/commit/7e26a2d8e8121db1af28485c24ec95e8f7ba2fad "update")
+
+
+
+ | 
+
+Oct 18, 2023
+
+ |
+| 
+
+[renovate.json](https://github.com/vvo/iron-session/blob/main/renovate.json "renovate.json")
+
+
+
+
+
+
+
+ | 
+
+[renovate.json](https://github.com/vvo/iron-session/blob/main/renovate.json "renovate.json")
+
+
+
+
+
+
+
+ | 
+
+[docs(Examples): Add examples for Pages Router (](https://github.com/vvo/iron-session/commit/68d308e429f30e7b2e2057ab00f26c58aaefde62 "docs(Examples): Add examples for Pages Router (#631)")[#631](https://github.com/vvo/iron-session/pull/631)[)](https://github.com/vvo/iron-session/commit/68d308e429f30e7b2e2057ab00f26c58aaefde62 "docs(Examples): Add examples for Pages Router (#631)")
+
+
+
+ | 
+
+Nov 21, 2023
+
+ |
+| 
+
+[tsconfig.json](https://github.com/vvo/iron-session/blob/main/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[tsconfig.json](https://github.com/vvo/iron-session/blob/main/tsconfig.json "tsconfig.json")
+
+
+
+
+
+
+
+ | 
+
+[let's go](https://github.com/vvo/iron-session/commit/9dc82ed1b515025d25f10e87879599bb5df85b9c "let's go")
+
+
+
+ | 
+
+Nov 18, 2023
+
+ |
+| 
+
+[tsup.config.ts](https://github.com/vvo/iron-session/blob/main/tsup.config.ts "tsup.config.ts")
+
+
+
+
+
+
+
+ | 
+
+[tsup.config.ts](https://github.com/vvo/iron-session/blob/main/tsup.config.ts "tsup.config.ts")
+
+
+
+
+
+
+
+ | 
+
+[use uncrypto](https://github.com/vvo/iron-session/commit/c9c8802147c50769d30066585b332f7f75cffbaa "use uncrypto")
+
+
+
+ | 
+
+Nov 14, 2023
+
+ |
+| 
+
+[turbo.json](https://github.com/vvo/iron-session/blob/main/turbo.json "turbo.json")
+
+
+
+
+
+
+
+ | 
+
+[turbo.json](https://github.com/vvo/iron-session/blob/main/turbo.json "turbo.json")
+
+
+
+
+
+
+
+ | 
+
+[upgrade turbo](https://github.com/vvo/iron-session/commit/80e3e8aa5483a4bfdb65a20211a0e7fded8c7380 "upgrade turbo")
+
+
+
+ | 
+
+Jun 27, 2024
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/vvo/iron-session?screenshot=true#)
+*   [MIT license](https://github.com/vvo/iron-session?screenshot=true#)
+
+iron-session [![Image 37: GitHub Workflow Status (with event)](https://camo.githubusercontent.com/e35d817034cc7854e399854881baa3b0aaa57f6ee2cfdd225862afc08af54ee7/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f76766f2f69726f6e2d73657373696f6e2f63692e79616d6c)](https://camo.githubusercontent.com/e35d817034cc7854e399854881baa3b0aaa57f6ee2cfdd225862afc08af54ee7/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f76766f2f69726f6e2d73657373696f6e2f63692e79616d6c) [![Image 38: GitHub license](https://camo.githubusercontent.com/2bb41ec8bfb69878f1f5d241ab097b6f012a18ffcc566808e3b334e494e4b4d6/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f76766f2f69726f6e2d73657373696f6e3f7374796c653d666c6174)](https://github.com/vvo/iron-session/blob/master/LICENSE) [![Image 39: npm](https://camo.githubusercontent.com/7a28380a1f84cd6e57085c2393a5c13624d834b804b632f8c8d8ab5afdca87ea/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f69726f6e2d73657373696f6e)](https://www.npmjs.com/package/iron-session) [![Image 40: npm](https://camo.githubusercontent.com/969d1a820a7456959f841222cb7cd896dc18a5cd478b1f2191f83ef3d0190093/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f646d2f69726f6e2d73657373696f6e)](https://camo.githubusercontent.com/969d1a820a7456959f841222cb7cd896dc18a5cd478b1f2191f83ef3d0190093/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f646d2f69726f6e2d73657373696f6e) [![Image 41: npm package minimized gzipped size (select exports)](https://camo.githubusercontent.com/d44fa5b25aaf60e174fee1c4b8d92f031de98896f3015c3333f5cf7c50f65747/68747470733a2f2f696d672e736869656c64732e696f2f62756e646c656a732f73697a652f69726f6e2d73657373696f6e3f6578706f7274733d67657449726f6e53657373696f6e)](https://camo.githubusercontent.com/d44fa5b25aaf60e174fee1c4b8d92f031de98896f3015c3333f5cf7c50f65747/68747470733a2f2f696d672e736869656c64732e696f2f62756e646c656a732f73697a652f69726f6e2d73657373696f6e3f6578706f7274733d67657449726f6e53657373696f6e)
+===============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+[](https://github.com/vvo/iron-session?screenshot=true#iron-session-----)
+
+**`iron-session` is a secure, stateless, and cookie-based session library for JavaScript.**
+
+_our sponsor:_
+
+* * *
+
+  [![Image 42](https://github.com/vvo/iron-session/raw/main/sponsor/clerk-dark.svg)](https://clerk.com/)Clerk is a complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users.
+
+[**Add authentication in 7 minutes 👉**](https://go.clerk.com/198WZf0)
+
+* * *
+
+The session data is stored in signed and encrypted cookies which are decoded by your server code in a stateless fashion (= no network involved). This is the same technique used by frameworks like [Ruby On Rails](https://guides.rubyonrails.org/security.html#session-storage).
+
+_Online demo and examples: [https://get-iron-session.vercel.app](https://get-iron-session.vercel.app/)_ 👀  
+_Featured in the [Next.js documentation](https://nextjs.org/docs/authentication)_ ⭐️
+
+Table of Contents
+-----------------
+
+[](https://github.com/vvo/iron-session?screenshot=true#table-of-contents)
+
+*   [Table of Contents](https://github.com/vvo/iron-session?screenshot=true#table-of-contents)
+*   [Installation](https://github.com/vvo/iron-session?screenshot=true#installation)
+*   [Usage](https://github.com/vvo/iron-session?screenshot=true#usage)
+*   [Examples](https://github.com/vvo/iron-session?screenshot=true#examples)
+*   [Project status](https://github.com/vvo/iron-session?screenshot=true#project-status)
+*   [Session options](https://github.com/vvo/iron-session?screenshot=true#session-options)
+*   [API](https://github.com/vvo/iron-session?screenshot=true#api)
+    *   [`getIronSession<T>(req, res, sessionOptions): Promise<IronSession<T>>`](https://github.com/vvo/iron-session?screenshot=true#getironsessiontreq-res-sessionoptions-promiseironsessiont)
+    *   [`getIronSession<T>(cookieStore, sessionOptions): Promise<IronSession<T>>`](https://github.com/vvo/iron-session?screenshot=true#getironsessiontcookiestore-sessionoptions-promiseironsessiont)
+    *   [`session.save(): Promise<void>`](https://github.com/vvo/iron-session?screenshot=true#sessionsave-promisevoid)
+    *   [`session.destroy(): void`](https://github.com/vvo/iron-session?screenshot=true#sessiondestroy-void)
+    *   [`session.updateConfig(sessionOptions: SessionOptions): void`](https://github.com/vvo/iron-session?screenshot=true#sessionupdateconfigsessionoptions-sessionoptions-void)
+    *   [`sealData(data: unknown, { password, ttl }): Promise<string>`](https://github.com/vvo/iron-session?screenshot=true#sealdatadata-unknown--password-ttl--promisestring)
+    *   [`unsealData<T>(seal: string, { password, ttl }): Promise<T>`](https://github.com/vvo/iron-session?screenshot=true#unsealdatatseal-string--password-ttl--promiset)
+*   [FAQ](https://github.com/vvo/iron-session?screenshot=true#faq)
+    *   [Why use pure cookies for sessions?](https://github.com/vvo/iron-session?screenshot=true#why-use-pure-cookies-for-sessions)
+    *   [How to invalidate sessions?](https://github.com/vvo/iron-session?screenshot=true#how-to-invalidate-sessions)
+    *   [Can I use something else than cookies?](https://github.com/vvo/iron-session?screenshot=true#can-i-use-something-else-than-cookies)
+    *   [How is this different from JWT?](https://github.com/vvo/iron-session?screenshot=true#how-is-this-different-from-jwt)
+*   [Credits](https://github.com/vvo/iron-session?screenshot=true#credits)
+*   [Good Reads](https://github.com/vvo/iron-session?screenshot=true#good-reads)
+
+Installation
+------------
+
+[](https://github.com/vvo/iron-session?screenshot=true#installation)
+
+```shell
+pnpm add iron-session
+```
+
+Usage
+-----
+
+[](https://github.com/vvo/iron-session?screenshot=true#usage)
+
+_We have extensive examples here too: [https://get-iron-session.vercel.app/](https://get-iron-session.vercel.app/)._
+
+To get a session, there's a single method to know: `getIronSession`.
+
+```ts
+// Next.js API Routes and Node.js/Express/Connect.
+import { getIronSession } from 'iron-session';
+
+export async function get(req, res) {
+  const session = await getIronSession(req, res, { password: "...", cookieName: "..." });
+  return session;
+}
+
+export async function post(req, res) {
+  const session = await getIronSession(req, res, { password: "...", cookieName: "..." });
+  session.username = "Alison";
+  await session.save();
+}
+```
+
+```ts
+// Next.js Route Handlers (App Router)
+import { cookies } from 'next/headers';
+import { getIronSession } from 'iron-session';
+
+export async function GET() {
+  const session = await getIronSession(cookies(), { password: "...", cookieName: "..." });
+  return session;
+}
+
+export async function POST() {
+  const session = await getIronSession(cookies(), { password: "...", cookieName: "..." });
+  session.username = "Alison";
+  await session.save();
+}
+```
+
+```tsx
+// Next.js Server Components and Server Actions (App Router)
+import { cookies } from 'next/headers';
+import { getIronSession } from 'iron-session';
+
+async function getIronSessionData() {
+  const session = await getIronSession(cookies(), { password: "...", cookieName: "..." });
+  return session
+}
+
+async function Profile() {
+  const session = await getIronSessionData();
+
+  return <div>{session.username}</div>;
+}
+```
+
+Examples
+--------
+
+[](https://github.com/vvo/iron-session?screenshot=true#examples)
+
+We have many different patterns and examples on the online demo, have a look: [https://get-iron-session.vercel.app/](https://get-iron-session.vercel.app/).
+
+Project status
+--------------
+
+[](https://github.com/vvo/iron-session?screenshot=true#project-status)
+
+✅ Production ready and maintained.
+
+Session options
+---------------
+
+[](https://github.com/vvo/iron-session?screenshot=true#session-options)
+
+Two options are required: `password` and `cookieName`. Everything else is automatically computed and usually doesn't need to be changed.\*\*\*\*
+
+*   `password`, **required**: Private key used to encrypt the cookie. It has to be at least 32 characters long. Use [https://1password.com/password-generator/](https://1password.com/password-generator/) to generate strong passwords. `password` can be either a `string` or an `object` with incrementing keys like this: `{2: "...", 1: "..."}` to allow for password rotation. iron-session will use the highest numbered key for new cookies.
+    
+*   `cookieName`, **required**: Name of the cookie to be stored
+    
+*   `ttl`, _optional_: In seconds. Default to the equivalent of 14 days. You can set this to `0` and iron-session will compute the maximum allowed value by cookies.
+    
+*   `cookieOptions`, _optional_: Any option available from [jshttp/cookie#serialize](https://github.com/jshttp/cookie#cookieserializename-value-options) except for `encode` which is not a Set-Cookie Attribute. See [Mozilla Set-Cookie Attributes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie#attributes) and [Chrome Cookie Fields](https://developer.chrome.com/docs/devtools/application/cookies/#fields). Default to:
+    
+    ```js
+    {
+      httpOnly: true,
+      secure: true, // set this to false in local (non-HTTPS) development
+      sameSite: "lax",// https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite#lax
+      maxAge: (ttl === 0 ? 2147483647 : ttl) - 60, // Expire cookie before the session expires.
+      path: "/",
+    }
+    ```
+    
+
+API
+---
+
+[](https://github.com/vvo/iron-session?screenshot=true#api)
+
+### `getIronSession<T>(req, res, sessionOptions): Promise<IronSession<T>>`
+
+[](https://github.com/vvo/iron-session?screenshot=true#getironsessiontreq-res-sessionoptions-promiseironsessiont)
+
+```ts
+type SessionData = {
+  // Your data
+}
+
+const session = await getIronSession<SessionData>(req, res, sessionOptions);
+```
+
+### `getIronSession<T>(cookieStore, sessionOptions): Promise<IronSession<T>>`
+
+[](https://github.com/vvo/iron-session?screenshot=true#getironsessiontcookiestore-sessionoptions-promiseironsessiont)
+
+```ts
+type SessionData = {
+  // Your data
+}
+
+const session = await getIronSession<SessionData>(cookies(), sessionOptions);
+```
+
+### `session.save(): Promise<void>`
+
+[](https://github.com/vvo/iron-session?screenshot=true#sessionsave-promisevoid)
+
+Saves the session. This is an asynchronous operation. It must be done and awaited before headers are sent to the client.
+
+```ts
+await session.save()
+```
+
+### `session.destroy(): void`
+
+[](https://github.com/vvo/iron-session?screenshot=true#sessiondestroy-void)
+
+Destroys the session. This is a synchronous operation as it only removes the cookie. It must be done before headers are sent to the client.
+
+```ts
+session.destroy()
+```
+
+### `session.updateConfig(sessionOptions: SessionOptions): void`
+
+[](https://github.com/vvo/iron-session?screenshot=true#sessionupdateconfigsessionoptions-sessionoptions-void)
+
+Updates the configuration of the session with new session options. You still need to call save() if you want them to be applied.
+
+### `sealData(data: unknown, { password, ttl }): Promise<string>`
+
+[](https://github.com/vvo/iron-session?screenshot=true#sealdatadata-unknown--password-ttl--promisestring)
+
+This is the underlying method and seal mechanism that powers `iron-session`. You can use it to seal any `data` you want and pass it around. One usecase are magic links: you generate a seal that contains a user id to login and send it to a route on your website (like `/magic-login`). Once received, you can safely decode the seal with `unsealData` and log the user in.
+
+### `unsealData<T>(seal: string, { password, ttl }): Promise<T>`
+
+[](https://github.com/vvo/iron-session?screenshot=true#unsealdatatseal-string--password-ttl--promiset)
+
+This is the opposite of `sealData` and allow you to decode a seal to get the original data back.
+
+FAQ
+---
+
+[](https://github.com/vvo/iron-session?screenshot=true#faq)
+
+### Why use pure cookies for sessions?
+
+[](https://github.com/vvo/iron-session?screenshot=true#why-use-pure-cookies-for-sessions)
+
+This makes your sessions stateless: since the data is passed around in cookies, you do not need any server or service to store session data.
+
+More information can also be found on the [Ruby On Rails website](https://guides.rubyonrails.org/security.html#session-storage) which uses the same technique.
+
+### How to invalidate sessions?
+
+[](https://github.com/vvo/iron-session?screenshot=true#how-to-invalidate-sessions)
+
+Sessions cannot be instantly invalidated (or "disconnect this customer") as there is typically no state stored about sessions on the server by default. However, in most applications, the first step upon receiving an authenticated request is to validate the user and their permissions in the database. So, to easily disconnect customers (or invalidate sessions), you can add an \`isBlocked\`\` state in the database and create a UI to block customers.
+
+Then, every time a request is received that involves reading or altering sensitive data, make sure to check this flag.
+
+### Can I use something else than cookies?
+
+[](https://github.com/vvo/iron-session?screenshot=true#can-i-use-something-else-than-cookies)
+
+Yes, we expose `sealData` and `unsealData` which are not tied to cookies. This way you can seal and unseal any object in your application and move seals around to login users.
+
+### How is this different from [JWT](https://jwt.io/)?
+
+[](https://github.com/vvo/iron-session?screenshot=true#how-is-this-different-from-jwt)
+
+Not so much:
+
+*   JWT is a standard, it stores metadata in the JWT token themselves to ensure communication between different systems is flawless.
+*   JWT tokens are not encrypted, the payload is visible by customers if they manage to inspect the seal. You would have to use [JWE](https://tools.ietf.org/html/rfc7516) to achieve the same.
+*   @hapi/iron mechanism is not a standard, it's a way to sign and encrypt data into seals
+
+Depending on your own needs and preferences, `iron-session` may or may not fit you.
+
+Credits
+-------
+
+[](https://github.com/vvo/iron-session?screenshot=true#credits)
+
+*   [Eran Hammer and hapi.js contributors](https://github.com/hapijs/iron/graphs/contributors) for creating the underlying cryptography library [`@hapi/iron`](https://hapi.dev/module/iron/).
+*   [Divyansh Singh](https://github.com/brc-dd) for reimplementing `@hapi/iron` as [`iron-webcrypto`](https://github.com/brc-dd/iron-webcrypto) using standard web APIs.
+*   [Hoang Vo](https://github.com/hoangvvo) for advice and guidance while building this module. Hoang built [`next-connect`](https://github.com/hoangvvo/next-connect) and [`next-session`](https://github.com/hoangvvo/next-session).
+*   All the [contributors](https://github.com/vvo/iron-session/graphs/contributors) for making this project better.
+
+Good Reads
+----------
+
+[](https://github.com/vvo/iron-session?screenshot=true#good-reads)
+
+*   [https://cheatsheetseries.owasp.org/cheatsheets/Session\_Management\_Cheat\_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
+*   [https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site\_Request\_Forgery\_Prevention\_Cheat\_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+
+About
+-----
+
+🛠 Secure, stateless, and cookie-based session library for JavaScript
+
+[get-iron-session.vercel.app](https://get-iron-session.vercel.app/ "https://get-iron-session.vercel.app")
+
+### Topics
+
+[nodejs](https://github.com/topics/nodejs "Topic: nodejs") [authentication](https://github.com/topics/authentication "Topic: authentication") [serverless](https://github.com/topics/serverless "Topic: serverless") [nextjs](https://github.com/topics/nextjs "Topic: nextjs") [cookies](https://github.com/topics/cookies "Topic: cookies") [expressjs](https://github.com/topics/expressjs "Topic: expressjs") [session](https://github.com/topics/session "Topic: session") [stateless](https://github.com/topics/stateless "Topic: stateless")
+
+### Resources
+
+[Readme](https://github.com/vvo/iron-session?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/vvo/iron-session?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/vvo/iron-session/activity)
+
+### Stars
+
+[**3.8k** stars](https://github.com/vvo/iron-session/stargazers)
+
+### Watchers
+
+[**14** watching](https://github.com/vvo/iron-session/watchers)
+
+### Forks
+
+[**252** forks](https://github.com/vvo/iron-session/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fvvo%2Firon-session&report=vvo+%28user%29)
+
+[Releases 34](https://github.com/vvo/iron-session/releases)
+-----------------------------------------------------------
+
+[8.0.1 Latest Nov 21, 2023](https://github.com/vvo/iron-session/releases/tag/v8.0.1)
+
+[\+ 33 releases](https://github.com/vvo/iron-session/releases)
+
+Sponsor this project
+--------------------
+
+*    [![Image 43: @vvo](https://avatars.githubusercontent.com/u/123822?s=64&v=4)](https://github.com/vvo)[**vvo** Vincent Voyer](https://github.com/vvo)[](https://github.com/sponsors/vvo)
+*    [![Image 44: @brc-dd](https://avatars.githubusercontent.com/u/40380293?s=64&v=4)](https://github.com/brc-dd)[**brc-dd** Divyansh Singh](https://github.com/brc-dd)[](https://github.com/sponsors/brc-dd)
+
+[Learn more about GitHub Sponsors](https://github.com/sponsors)
+
+[Used by 8.7k](https://github.com/vvo/iron-session/network/dependents)
+----------------------------------------------------------------------
+
+[* ![Image 45: @lazarv](https://avatars.githubusercontent.com/u/1749493?s=64&v=4) * ![Image 46: @thefalc](https://avatars.githubusercontent.com/u/67345830?s=64&v=4) * ![Image 47: @nickw1](https://avatars.githubusercontent.com/u/585388?s=64&v=4) * ![Image 48: @Wiper-R](https://avatars.githubusercontent.com/u/61678021?s=64&v=4) * ![Image 49: @Xyvern26](https://avatars.githubusercontent.com/u/189542875?s=64&v=4) * ![Image 50: @Xyvern26](https://avatars.githubusercontent.com/u/189542875?s=64&v=4) * ![Image 51: @Xavier-IV](https://avatars.githubusercontent.com/u/14009259?s=64&v=4) * ![Image 52: @yersonargotev](https://avatars.githubusercontent.com/u/131540895?s=64&v=4) \+ 8,713](https://github.com/vvo/iron-session/network/dependents)
+
+[Contributors 47](https://github.com/vvo/iron-session/graphs/contributors)
+--------------------------------------------------------------------------
+
+*   [![Image 53: @renovate[bot]](https://avatars.githubusercontent.com/in/2740?s=64&v=4)](https://github.com/apps/renovate)
+*   [![Image 54: @vvo](https://avatars.githubusercontent.com/u/123822?s=64&v=4)](https://github.com/vvo)
+*   [![Image 55: @renovate-bot](https://avatars.githubusercontent.com/u/25180681?s=64&v=4)](https://github.com/renovate-bot)
+*   [![Image 56: @brc-dd](https://avatars.githubusercontent.com/u/40380293?s=64&v=4)](https://github.com/brc-dd)
+*   [![Image 57: @dependabot[bot]](https://avatars.githubusercontent.com/in/29110?s=64&v=4)](https://github.com/apps/dependabot)
+*   [![Image 58: @renchris](https://avatars.githubusercontent.com/u/57972348?s=64&v=4)](https://github.com/renchris)
+*   [![Image 59: @phocks](https://avatars.githubusercontent.com/u/437566?s=64&v=4)](https://github.com/phocks)
+*   [![Image 60: @Izhaki](https://avatars.githubusercontent.com/u/880132?s=64&v=4)](https://github.com/Izhaki)
+*   [![Image 61: @allcontributors[bot]](https://avatars.githubusercontent.com/in/23186?s=64&v=4)](https://github.com/apps/allcontributors)
+*   [![Image 62: @searchableguy](https://avatars.githubusercontent.com/u/73341821?s=64&v=4)](https://github.com/searchableguy)
+*   [![Image 63: @Borales](https://avatars.githubusercontent.com/u/1118933?s=64&v=4)](https://github.com/Borales)
+*   [![Image 64: @Oxicode](https://avatars.githubusercontent.com/u/1320709?s=64&v=4)](https://github.com/Oxicode)
+*   [![Image 65: @astrotars](https://avatars.githubusercontent.com/u/1328388?s=64&v=4)](https://github.com/astrotars)
+*   [![Image 66: @virginus01](https://avatars.githubusercontent.com/u/25084153?s=64&v=4)](https://github.com/virginus01)
+
+[\+ 33 contributors](https://github.com/vvo/iron-session/graphs/contributors)
+
+Languages
+---------
+
+*   [TypeScript 100.0%](https://github.com/vvo/iron-session/search?l=typescript)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

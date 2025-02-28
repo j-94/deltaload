@@ -1,0 +1,289 @@
+---
+title: Advanced AI Workflow Automation Software & Tools - n8n
+description: Automate your company's workflows with n8n's AI automation software. Maximize your workflows with our AI customizable automation tools.
+url: https://n8n.io/langchain/
+timestamp: 2025-01-20T15:45:56.026Z
+domain: n8n.io
+path: langchain
+---
+
+# Advanced AI Workflow Automation Software & Tools - n8n
+
+
+Automate your company's workflows with n8n's AI automation software. Maximize your workflows with our AI customizable automation tools.
+
+
+## Content
+
+Advanced AI Workflow Automation Software & Tools - n8n
+===============
+
+[](https://n8n.io/)
+
+[Product](https://n8n.io/features/)
+
+[Product overview](https://n8n.io/features/) [Integrations](https://n8n.io/integrations/) [Templates](https://n8n.io/workflows/) [Advanced AI](https://n8n.io/ai/)
+
+Use cases
+
+[IT operations](https://n8n.io/itops/) [Security operations](https://n8n.io/secops/) [Lead automation](https://n8n.io/automate-lead-management/) [Supercharge your CRM](https://n8n.io/supercharge-your-crm/) [Limitless integrations](https://n8n.io/limitless-integrations/) [Backend prototyping](https://n8n.io/saas/) [Embedded automation](https://n8n.io/embed/)
+
+[Docs](https://docs.n8n.io/)
+
+[Self-host n8n](https://docs.n8n.io/hosting/) [Documentation](https://docs.n8n.io/) [Our license](https://docs.n8n.io/choose-n8n/faircode-license/)
+
+Community
+
+[Forum](https://community.n8n.io/) [Discord](https://discord.gg/XPKeKXeB7d) [Blog](https://blog.n8n.io/) [Creators](https://n8n.io/creators/) [Contribute](https://docs.n8n.io/help-community/contributing/) [Experts](https://n8n.io/experts/) [Support](https://n8n.io/support/)
+
+[Enterprise](https://n8n.io/enterprise/)
+
+[Pricing](https://n8n.io/pricing/)
+
+[Sign in](https://app.n8n.cloud/login)
+
+[Get started](https://app.n8n.cloud/register)
+
+n8n Advanced AI
+
+Build custom AI apps in minutes for your business operations
+============================================================
+
+Give your team superpowers with AI tools like chatbots and assistants using any LLM, and create automated workflows across your stack with 400+ integrations
+
+[Get Started ★](https://app.n8n.cloud/register)
+
+[Docs ★](https://docs.n8n.io/langchain/)
+
+*   ![Image 44: cisco-logo](https://n8n.io/_nuxt/image/c3b010.svg)
+*   ![Image 45: wayfair-logo](https://n8n.io/_nuxt/image/8a0779.svg)
+*   ![Image 46: zendesk-logo](https://n8n.io/_nuxt/image/405f29.svg)
+*   ![Image 47: docusign-logo](https://n8n.io/_nuxt/image/7b2fe3.svg)
+*   ![Image 48: microsoft-logo](https://n8n.io/_nuxt/image/b2dfeb.svg)
+
+*   ![Image 49: cisco-logo](https://n8n.io/_nuxt/image/c3b010.svg)
+*   ![Image 50: wayfair-logo](https://n8n.io/_nuxt/image/8a0779.svg)
+*   ![Image 51: zendesk-logo](https://n8n.io/_nuxt/image/405f29.svg)
+*   ![Image 52: docusign-logo](https://n8n.io/_nuxt/image/7b2fe3.svg)
+*   ![Image 53: microsoft-logo](https://n8n.io/_nuxt/image/b2dfeb.svg)
+
+Manage advanced LLM logic on a low-code platform
+
+![Image 54: ui-on-top-of-langchain](https://n8n.io/_nuxt/image/db76ca.png)
+
+Build with an intuitive UI or add code for greater flexibility
+
+![Image 55: simple-debugging](https://n8n.io/_nuxt/image/6f77da.png)
+
+Integrate AI & Automation to your business data, APIs, and entire stack
+
+![Image 56: ai-and-automation-applied](https://n8n.io/_nuxt/image/e48138.png)
+
+Equip teams and individuals with AI solutions for smarter and efficient work
+----------------------------------------------------------------------------
+
+Create adaptable tools that leverage the power of large language models with your business data. Minimize AI hallucinations and gain complete oversight of the models' operations.
+
+![Image 57: n8n_image](https://n8n.io/_nuxt/image/6e9135.png) ![Image 58: advanced-chatbots](https://n8n.io/_nuxt/image/06b379.png)
+
+![Image 59: advanced-chatbots](https://n8n.io/_nuxt/image/06b379.png)
+
+### Advanced Chatbots
+
+Build chatbots that tap into various data sources for enriched interactions. These chatbots go beyond standard queries, offering dynamic and responsive communication tailored to user needs and preferences
+
+### Personalized Assistants
+
+Create intelligent assistants that excel in context retention and personalization, integrating seamlessly with specific platforms where your data resides such as Google Drive, AWS, Notion, Airtable and more.
+
+### Information Extraction
+
+Implement extraction flows to convert unstructured text into structured data. Using OutputParsers for defining schemas and transform raw-text output into structured formats for easier downstream processing and analysis
+
+### Document Summarization
+
+Develop advanced tools for document summarization, capable of distilling extensive text into clear, concise summaries while preserving the essence and comprehensive scope of the original content
+
+ ![Image 60](https://n8n.io/_nuxt/image/56f9f2.svg) Previous
+
+Next ![Image 61](https://n8n.io/_nuxt/image/56f9f2.svg) 
+
+Scrape and summarize webpages with AI
+-------------------------------------
+
+Nodes used in this workflow
+
+[](https://n8n.io/integrations/manual-trigger/)[![Image 62](https://n8n.io/_nuxt/image/bfc4c5.svg)](https://n8n.io/integrations/http-request/)[![Image 63](https://n8n.io/_nuxt/image/822f75.svg)](https://n8n.io/integrations/html/)[](https://n8n.io/integrations/set/)[](https://n8n.io/integrations/sticky-note/)[![Image 64](https://n8n.io/_nuxt/image/7f435f.svg)](https://n8n.io/integrations/split-out/)[![Image 65](https://n8n.io/_nuxt/image/438f43.svg)](https://n8n.io/integrations/limit/)[![Image 66](https://n8n.io/_nuxt/image/cb9ff8.svg)](https://n8n.io/integrations/default-data-loader/)[](https://n8n.io/integrations/recursive-character-text-splitter/)[![Image 67](https://n8n.io/_nuxt/image/6759e0.svg)](https://n8n.io/integrations/openai-chat-model/)
+
+[Get started with this workflow](https://app.n8n.cloud/register)
+
+Copy workflow
+
+AI to custom data sources. Automation to thousands of apps
+----------------------------------------------------------
+
+Build smart, context-aware LLM applications and seamlessly integrate them into your workflows.
+
+### AI apps integrated with automated workflows
+
+Transform your AI apps from static tools into dynamic workflows. Integrate them with automated scenarios using our library of 400+ pre-built connectors. Trigger apps optimally and utilize outputs for autonomous actions.
+
+![Image 68: intelligent-interaction](https://n8n.io/_nuxt/image/bf3cc5.png)
+
+### Drag & Drop AI components based on LangChain
+
+Leverage n8n's integration with LangChain to craft modular applications using an intuitive UI, offering ease of use for technical and non-technical users alike
+
+![Image 69: langchain-modules](https://n8n.io/_nuxt/image/d74522.png)
+
+### Fast prototypes, easy deployment
+
+Quickly embed chat widgets or generate API endpoints for running your applications in production, streamlining the transition from prototype to deployment
+
+![Image 70: embed-chatbots](https://n8n.io/_nuxt/image/a16de3.png)
+
+### Code when you need, no code when you don’t
+
+Use the LangChain code node for advanced customization or rely on our drag-and-drop builder for simpler scenarios. This dual approach ensures flexibility for both technical and non-technical users
+
+![Image 71: n8n_image](https://n8n.io/_nuxt/image/30b657.png)
+
+Join over 3,000 companies choosing n8n each week
+------------------------------------------------
+
+Recognized as a leading low-code platform for Automation and AI development, n8n ensures your team can focus on innovation without concerns about escalating costs, scalability, performance, or security issues.
+
+![Image 72: n8n_image](https://n8n.io/_nuxt/image/6e9135.png) ![Image 73: n8n_image](https://n8n.io/_nuxt/image/3daa14.png)
+
+![Image 74: n8n_image](https://n8n.io/_nuxt/image/3daa14.png)
+
+### Flexible Deployment Options
+
+Choose the deployment that fits your needs: fully on-premise for complete control or our robust cloud solution for convenience and ease.
+
+### Full source code available
+
+With over 35,000 GitHub stars and operating under the fair-code license, you can audit, modify, and fork our source-available codebase to meet your specific requirements.
+
+### Enterprise-Grade Capabilities
+
+n8n is ready for enterprise needs, supporting SSO, log streaming, environments, version control and more. Achieve over 200 executions per second per instance and scale further with a multi-instance setup
+
+### Security Standards
+
+Our commitment to security matches yours. Hosted data is stored exclusively within the EU on servers in Frankfurt, Germany, ensuring your sensitive information is always encrypted and isolated from other users.
+
+Start building AI apps with n8n
+
+[Get Started](https://app.n8n.cloud/register)
+
+Popular integrations
+
+*   [Google Sheets](https://n8n.io/integrations/google-sheets/)
+*   [Telegram](https://n8n.io/integrations/telegram/)
+*   [MySQL](https://n8n.io/integrations/mysql/)
+*   [Slack](https://n8n.io/integrations/slack/)
+*   [Discord](https://n8n.io/integrations/discord/)
+*   [Postgres](https://n8n.io/integrations/postgres/)
+*   [Notion](https://n8n.io/integrations/notion/)
+*   [Gmail](https://n8n.io/integrations/gmail/)
+*   [Airtable](https://n8n.io/integrations/airtable/)
+*   [Google Drive](https://n8n.io/integrations/google-drive/)
+
+[Show more integrations](https://n8n.io/integrations)
+
+Show more
+
+Trending combinations
+
+*   [HubSpot and Salesforce](https://n8n.io/integrations/hubspot/and/salesforce/)
+*   [Twilio and WhatsApp](https://n8n.io/integrations/twilio/and/whatsapp-business-cloud/)
+*   [GitHub and Jira](https://n8n.io/integrations/github/and/jira-software/)
+*   [Asana and Slack](https://n8n.io/integrations/asana/and/slack/)
+*   [Asana and Salesforce](https://n8n.io/integrations/asana/and/salesforce/)
+*   [Jira and Slack](https://n8n.io/integrations/jira-software/and/slack/)
+*   [Jira and Salesforce](https://n8n.io/integrations/jira-software/and/salesforce/)
+*   [GitHub and Slack](https://n8n.io/integrations/github/and/slack/)
+*   [HubSpot and QuickBooks](https://n8n.io/integrations/hubspot/and/quickbooks-online/)
+*   [HubSpot and Slack](https://n8n.io/integrations/hubspot/and/slack/)
+
+[Show more integrations](https://n8n.io/integrations/)
+
+Show more
+
+Top integration categories
+
+*   [Development](https://n8n.io/integrations/categories/development/)
+*   [Communication](https://n8n.io/integrations/categories/communication/)
+*   [Langchain](https://n8n.io/integrations/categories/langchain/)
+*   [AI](https://n8n.io/integrations/categories/ai/)
+*   [Data & Storage](https://n8n.io/integrations/categories/data-and-storage/)
+*   [Marketing](https://n8n.io/integrations/categories/marketing/)
+*   [Productivity](https://n8n.io/integrations/categories/productivity/)
+*   [Sales](https://n8n.io/integrations/categories/sales/)
+*   [Utility](https://n8n.io/integrations/categories/utility/)
+*   [Miscellaneous](https://n8n.io/integrations/categories/miscellaneous/)
+
+[Explore more categories](https://n8n.io/integrations/)
+
+Show more
+
+Trending templates
+
+*   [Creating an API endpoint](https://n8n.io/workflows/1750-creating-an-api-endpoint/)
+*   [AI agent chat](https://n8n.io/workflows/1954-ai-agent-chat/)
+*   [Scrape and summarize webpages with AI](https://n8n.io/workflows/1951-scrape-and-summarize-webpages-with-ai/)
+*   [Very quick quickstart](https://n8n.io/workflows/1700-very-quick-quickstart/)
+*   [Pulling data from services that n8n doesn’t have a pre-built integration for](https://n8n.io/workflows/1748-pulling-data-from-services-that-n8n-doesnt-have-a-pre-built-integration-for/)
+*   [AI agent that can scrape webpages](https://n8n.io/workflows/2006-ai-agent-that-can-scrape-webpages/)
+*   [Joining different datasets](https://n8n.io/workflows/1747-joining-different-datasets/)
+*   [Back Up Your n8n Workflows To Github](https://n8n.io/workflows/1534-back-up-your-n8n-workflows-to-github/)
+*   [Telegram AI Chatbot](https://n8n.io/workflows/1934-telegram-ai-chatbot/)
+*   [OpenAI GPT-3: Company Enrichment from website content](https://n8n.io/workflows/1862-openai-gpt-3-company-enrichment-from-website-content/)
+
+[Explore 800+ workflow templates](https://n8n.io/workflows/)
+
+Show more
+
+Top guides
+
+*   [Telegram bots](https://blog.n8n.io/telegram-bots/)
+*   [Open-source chatbot](https://blog.n8n.io/open-source-chatbot/)
+*   [Open-source LLM](https://blog.n8n.io/open-source-llm/)
+*   [Open-source low-code platforms](https://blog.n8n.io/open-source-low-code-platforms/)
+*   [Zapier alternatives](https://blog.n8n.io/free-zapier-alternatives/)
+*   [Make vs Zapier](https://blog.n8n.io/make-vs-zapier/)
+*   [AI agents](https://blog.n8n.io/ai-agents/)
+*   [AI coding assistants](https://blog.n8n.io/ai-coding-assistants/)
+*   [ChatGPT Discord bot](https://blog.n8n.io/create-chatgpt-discord-bot/)
+*   [Best AI chatbot](https://blog.n8n.io/best-ai-chatbot/)
+
+[Show guides](https://blog.n8n.io/)
+
+Show more
+
+[](https://n8n.io/)Automate without limits
+
+[![Image 75: twitter](https://n8n.io/_nuxt/image/c17c74.svg)](https://twitter.com/n8n_io)[![Image 76: github](https://n8n.io/_nuxt/image/d02369.svg)](https://github.com/n8n-io/n8n)[![Image 77: discord](https://n8n.io/_nuxt/image/0cfe96.svg)](https://discord.gg/n8n)[![Image 78: linkedin](https://n8n.io/_nuxt/image/1df51a.svg)](https://www.linkedin.com/company/n8n/)[![Image 79: youtube](https://n8n.io/_nuxt/image/e17e5b.svg)](https://www.youtube.com/c/n8n-io)
+
+[* Careers](https://jobs.ashbyhq.com/n8n)[* Case Studies](https://n8n.io/case-studies/)[* Affiliate program](https://n8n.io/affiliates/)[* Contact](https://n8n.io/contact/)[* Zapier vs n8n](https://n8n.io/vs/zapier/)[* Become an expert](https://n8n.io/become-an-expert/)[* Merch](https://merch.n8n.io/)[* Make vs n8n](https://n8n.io/vs/make/)[* Join user tests, get a gift](https://internal.users.n8n.cloud/form/n8n-usability-test-signup)[* Press](https://n8n.io/press/)[* XML to JSON converter](https://n8n.io/tools/xml-to-json/)[* Events](https://lu.ma/n8n-events)[* Security](https://n8n.io/legal/#security/)
+
+Made with ♥ in Berlin  
+[Impressum](https://n8n.io/impressum/) | [Legal](https://n8n.io/legal/) | [Privacy](https://n8n.io/legal/#privacy)
+
+[Report a vulnerability](https://n8n.io/legal/#vulnerability)  
+© 2025 n8n | All rights reserved.
+
+## Metadata
+
+```json
+{
+  "title": "Advanced AI Workflow Automation Software & Tools - n8n",
+  "description": "Automate your company's workflows with n8n's AI automation software. Maximize your workflows with our AI customizable automation tools.",
+  "url": "https://n8n.io/langchain/",
+  "content": "Advanced AI Workflow Automation Software & Tools - n8n\n===============\n\n[](https://n8n.io/)\n\n[Product](https://n8n.io/features/)\n\n[Product overview](https://n8n.io/features/) [Integrations](https://n8n.io/integrations/) [Templates](https://n8n.io/workflows/) [Advanced AI](https://n8n.io/ai/)\n\nUse cases\n\n[IT operations](https://n8n.io/itops/) [Security operations](https://n8n.io/secops/) [Lead automation](https://n8n.io/automate-lead-management/) [Supercharge your CRM](https://n8n.io/supercharge-your-crm/) [Limitless integrations](https://n8n.io/limitless-integrations/) [Backend prototyping](https://n8n.io/saas/) [Embedded automation](https://n8n.io/embed/)\n\n[Docs](https://docs.n8n.io/)\n\n[Self-host n8n](https://docs.n8n.io/hosting/) [Documentation](https://docs.n8n.io/) [Our license](https://docs.n8n.io/choose-n8n/faircode-license/)\n\nCommunity\n\n[Forum](https://community.n8n.io/) [Discord](https://discord.gg/XPKeKXeB7d) [Blog](https://blog.n8n.io/) [Creators](https://n8n.io/creators/) [Contribute](https://docs.n8n.io/help-community/contributing/) [Experts](https://n8n.io/experts/) [Support](https://n8n.io/support/)\n\n[Enterprise](https://n8n.io/enterprise/)\n\n[Pricing](https://n8n.io/pricing/)\n\n[Sign in](https://app.n8n.cloud/login)\n\n[Get started](https://app.n8n.cloud/register)\n\nn8n Advanced AI\n\nBuild custom AI apps in minutes for your business operations\n============================================================\n\nGive your team superpowers with AI tools like chatbots and assistants using any LLM, and create automated workflows across your stack with 400+ integrations\n\n[Get Started ★](https://app.n8n.cloud/register)\n\n[Docs ★](https://docs.n8n.io/langchain/)\n\n*   ![Image 44: cisco-logo](https://n8n.io/_nuxt/image/c3b010.svg)\n*   ![Image 45: wayfair-logo](https://n8n.io/_nuxt/image/8a0779.svg)\n*   ![Image 46: zendesk-logo](https://n8n.io/_nuxt/image/405f29.svg)\n*   ![Image 47: docusign-logo](https://n8n.io/_nuxt/image/7b2fe3.svg)\n*   ![Image 48: microsoft-logo](https://n8n.io/_nuxt/image/b2dfeb.svg)\n\n*   ![Image 49: cisco-logo](https://n8n.io/_nuxt/image/c3b010.svg)\n*   ![Image 50: wayfair-logo](https://n8n.io/_nuxt/image/8a0779.svg)\n*   ![Image 51: zendesk-logo](https://n8n.io/_nuxt/image/405f29.svg)\n*   ![Image 52: docusign-logo](https://n8n.io/_nuxt/image/7b2fe3.svg)\n*   ![Image 53: microsoft-logo](https://n8n.io/_nuxt/image/b2dfeb.svg)\n\nManage advanced LLM logic on a low-code platform\n\n![Image 54: ui-on-top-of-langchain](https://n8n.io/_nuxt/image/db76ca.png)\n\nBuild with an intuitive UI or add code for greater flexibility\n\n![Image 55: simple-debugging](https://n8n.io/_nuxt/image/6f77da.png)\n\nIntegrate AI & Automation to your business data, APIs, and entire stack\n\n![Image 56: ai-and-automation-applied](https://n8n.io/_nuxt/image/e48138.png)\n\nEquip teams and individuals with AI solutions for smarter and efficient work\n----------------------------------------------------------------------------\n\nCreate adaptable tools that leverage the power of large language models with your business data. Minimize AI hallucinations and gain complete oversight of the models' operations.\n\n![Image 57: n8n_image](https://n8n.io/_nuxt/image/6e9135.png) ![Image 58: advanced-chatbots](https://n8n.io/_nuxt/image/06b379.png)\n\n![Image 59: advanced-chatbots](https://n8n.io/_nuxt/image/06b379.png)\n\n### Advanced Chatbots\n\nBuild chatbots that tap into various data sources for enriched interactions. These chatbots go beyond standard queries, offering dynamic and responsive communication tailored to user needs and preferences\n\n### Personalized Assistants\n\nCreate intelligent assistants that excel in context retention and personalization, integrating seamlessly with specific platforms where your data resides such as Google Drive, AWS, Notion, Airtable and more.\n\n### Information Extraction\n\nImplement extraction flows to convert unstructured text into structured data. Using OutputParsers for defining schemas and transform raw-text output into structured formats for easier downstream processing and analysis\n\n### Document Summarization\n\nDevelop advanced tools for document summarization, capable of distilling extensive text into clear, concise summaries while preserving the essence and comprehensive scope of the original content\n\n ![Image 60](https://n8n.io/_nuxt/image/56f9f2.svg) Previous\n\nNext ![Image 61](https://n8n.io/_nuxt/image/56f9f2.svg) \n\nScrape and summarize webpages with AI\n-------------------------------------\n\nNodes used in this workflow\n\n[](https://n8n.io/integrations/manual-trigger/)[![Image 62](https://n8n.io/_nuxt/image/bfc4c5.svg)](https://n8n.io/integrations/http-request/)[![Image 63](https://n8n.io/_nuxt/image/822f75.svg)](https://n8n.io/integrations/html/)[](https://n8n.io/integrations/set/)[](https://n8n.io/integrations/sticky-note/)[![Image 64](https://n8n.io/_nuxt/image/7f435f.svg)](https://n8n.io/integrations/split-out/)[![Image 65](https://n8n.io/_nuxt/image/438f43.svg)](https://n8n.io/integrations/limit/)[![Image 66](https://n8n.io/_nuxt/image/cb9ff8.svg)](https://n8n.io/integrations/default-data-loader/)[](https://n8n.io/integrations/recursive-character-text-splitter/)[![Image 67](https://n8n.io/_nuxt/image/6759e0.svg)](https://n8n.io/integrations/openai-chat-model/)\n\n[Get started with this workflow](https://app.n8n.cloud/register)\n\nCopy workflow\n\nAI to custom data sources. Automation to thousands of apps\n----------------------------------------------------------\n\nBuild smart, context-aware LLM applications and seamlessly integrate them into your workflows.\n\n### AI apps integrated with automated workflows\n\nTransform your AI apps from static tools into dynamic workflows. Integrate them with automated scenarios using our library of 400+ pre-built connectors. Trigger apps optimally and utilize outputs for autonomous actions.\n\n![Image 68: intelligent-interaction](https://n8n.io/_nuxt/image/bf3cc5.png)\n\n### Drag & Drop AI components based on LangChain\n\nLeverage n8n's integration with LangChain to craft modular applications using an intuitive UI, offering ease of use for technical and non-technical users alike\n\n![Image 69: langchain-modules](https://n8n.io/_nuxt/image/d74522.png)\n\n### Fast prototypes, easy deployment\n\nQuickly embed chat widgets or generate API endpoints for running your applications in production, streamlining the transition from prototype to deployment\n\n![Image 70: embed-chatbots](https://n8n.io/_nuxt/image/a16de3.png)\n\n### Code when you need, no code when you don’t\n\nUse the LangChain code node for advanced customization or rely on our drag-and-drop builder for simpler scenarios. This dual approach ensures flexibility for both technical and non-technical users\n\n![Image 71: n8n_image](https://n8n.io/_nuxt/image/30b657.png)\n\nJoin over 3,000 companies choosing n8n each week\n------------------------------------------------\n\nRecognized as a leading low-code platform for Automation and AI development, n8n ensures your team can focus on innovation without concerns about escalating costs, scalability, performance, or security issues.\n\n![Image 72: n8n_image](https://n8n.io/_nuxt/image/6e9135.png) ![Image 73: n8n_image](https://n8n.io/_nuxt/image/3daa14.png)\n\n![Image 74: n8n_image](https://n8n.io/_nuxt/image/3daa14.png)\n\n### Flexible Deployment Options\n\nChoose the deployment that fits your needs: fully on-premise for complete control or our robust cloud solution for convenience and ease.\n\n### Full source code available\n\nWith over 35,000 GitHub stars and operating under the fair-code license, you can audit, modify, and fork our source-available codebase to meet your specific requirements.\n\n### Enterprise-Grade Capabilities\n\nn8n is ready for enterprise needs, supporting SSO, log streaming, environments, version control and more. Achieve over 200 executions per second per instance and scale further with a multi-instance setup\n\n### Security Standards\n\nOur commitment to security matches yours. Hosted data is stored exclusively within the EU on servers in Frankfurt, Germany, ensuring your sensitive information is always encrypted and isolated from other users.\n\nStart building AI apps with n8n\n\n[Get Started](https://app.n8n.cloud/register)\n\nPopular integrations\n\n*   [Google Sheets](https://n8n.io/integrations/google-sheets/)\n*   [Telegram](https://n8n.io/integrations/telegram/)\n*   [MySQL](https://n8n.io/integrations/mysql/)\n*   [Slack](https://n8n.io/integrations/slack/)\n*   [Discord](https://n8n.io/integrations/discord/)\n*   [Postgres](https://n8n.io/integrations/postgres/)\n*   [Notion](https://n8n.io/integrations/notion/)\n*   [Gmail](https://n8n.io/integrations/gmail/)\n*   [Airtable](https://n8n.io/integrations/airtable/)\n*   [Google Drive](https://n8n.io/integrations/google-drive/)\n\n[Show more integrations](https://n8n.io/integrations)\n\nShow more\n\nTrending combinations\n\n*   [HubSpot and Salesforce](https://n8n.io/integrations/hubspot/and/salesforce/)\n*   [Twilio and WhatsApp](https://n8n.io/integrations/twilio/and/whatsapp-business-cloud/)\n*   [GitHub and Jira](https://n8n.io/integrations/github/and/jira-software/)\n*   [Asana and Slack](https://n8n.io/integrations/asana/and/slack/)\n*   [Asana and Salesforce](https://n8n.io/integrations/asana/and/salesforce/)\n*   [Jira and Slack](https://n8n.io/integrations/jira-software/and/slack/)\n*   [Jira and Salesforce](https://n8n.io/integrations/jira-software/and/salesforce/)\n*   [GitHub and Slack](https://n8n.io/integrations/github/and/slack/)\n*   [HubSpot and QuickBooks](https://n8n.io/integrations/hubspot/and/quickbooks-online/)\n*   [HubSpot and Slack](https://n8n.io/integrations/hubspot/and/slack/)\n\n[Show more integrations](https://n8n.io/integrations/)\n\nShow more\n\nTop integration categories\n\n*   [Development](https://n8n.io/integrations/categories/development/)\n*   [Communication](https://n8n.io/integrations/categories/communication/)\n*   [Langchain](https://n8n.io/integrations/categories/langchain/)\n*   [AI](https://n8n.io/integrations/categories/ai/)\n*   [Data & Storage](https://n8n.io/integrations/categories/data-and-storage/)\n*   [Marketing](https://n8n.io/integrations/categories/marketing/)\n*   [Productivity](https://n8n.io/integrations/categories/productivity/)\n*   [Sales](https://n8n.io/integrations/categories/sales/)\n*   [Utility](https://n8n.io/integrations/categories/utility/)\n*   [Miscellaneous](https://n8n.io/integrations/categories/miscellaneous/)\n\n[Explore more categories](https://n8n.io/integrations/)\n\nShow more\n\nTrending templates\n\n*   [Creating an API endpoint](https://n8n.io/workflows/1750-creating-an-api-endpoint/)\n*   [AI agent chat](https://n8n.io/workflows/1954-ai-agent-chat/)\n*   [Scrape and summarize webpages with AI](https://n8n.io/workflows/1951-scrape-and-summarize-webpages-with-ai/)\n*   [Very quick quickstart](https://n8n.io/workflows/1700-very-quick-quickstart/)\n*   [Pulling data from services that n8n doesn’t have a pre-built integration for](https://n8n.io/workflows/1748-pulling-data-from-services-that-n8n-doesnt-have-a-pre-built-integration-for/)\n*   [AI agent that can scrape webpages](https://n8n.io/workflows/2006-ai-agent-that-can-scrape-webpages/)\n*   [Joining different datasets](https://n8n.io/workflows/1747-joining-different-datasets/)\n*   [Back Up Your n8n Workflows To Github](https://n8n.io/workflows/1534-back-up-your-n8n-workflows-to-github/)\n*   [Telegram AI Chatbot](https://n8n.io/workflows/1934-telegram-ai-chatbot/)\n*   [OpenAI GPT-3: Company Enrichment from website content](https://n8n.io/workflows/1862-openai-gpt-3-company-enrichment-from-website-content/)\n\n[Explore 800+ workflow templates](https://n8n.io/workflows/)\n\nShow more\n\nTop guides\n\n*   [Telegram bots](https://blog.n8n.io/telegram-bots/)\n*   [Open-source chatbot](https://blog.n8n.io/open-source-chatbot/)\n*   [Open-source LLM](https://blog.n8n.io/open-source-llm/)\n*   [Open-source low-code platforms](https://blog.n8n.io/open-source-low-code-platforms/)\n*   [Zapier alternatives](https://blog.n8n.io/free-zapier-alternatives/)\n*   [Make vs Zapier](https://blog.n8n.io/make-vs-zapier/)\n*   [AI agents](https://blog.n8n.io/ai-agents/)\n*   [AI coding assistants](https://blog.n8n.io/ai-coding-assistants/)\n*   [ChatGPT Discord bot](https://blog.n8n.io/create-chatgpt-discord-bot/)\n*   [Best AI chatbot](https://blog.n8n.io/best-ai-chatbot/)\n\n[Show guides](https://blog.n8n.io/)\n\nShow more\n\n[](https://n8n.io/)Automate without limits\n\n[![Image 75: twitter](https://n8n.io/_nuxt/image/c17c74.svg)](https://twitter.com/n8n_io)[![Image 76: github](https://n8n.io/_nuxt/image/d02369.svg)](https://github.com/n8n-io/n8n)[![Image 77: discord](https://n8n.io/_nuxt/image/0cfe96.svg)](https://discord.gg/n8n)[![Image 78: linkedin](https://n8n.io/_nuxt/image/1df51a.svg)](https://www.linkedin.com/company/n8n/)[![Image 79: youtube](https://n8n.io/_nuxt/image/e17e5b.svg)](https://www.youtube.com/c/n8n-io)\n\n[* Careers](https://jobs.ashbyhq.com/n8n)[* Case Studies](https://n8n.io/case-studies/)[* Affiliate program](https://n8n.io/affiliates/)[* Contact](https://n8n.io/contact/)[* Zapier vs n8n](https://n8n.io/vs/zapier/)[* Become an expert](https://n8n.io/become-an-expert/)[* Merch](https://merch.n8n.io/)[* Make vs n8n](https://n8n.io/vs/make/)[* Join user tests, get a gift](https://internal.users.n8n.cloud/form/n8n-usability-test-signup)[* Press](https://n8n.io/press/)[* XML to JSON converter](https://n8n.io/tools/xml-to-json/)[* Events](https://lu.ma/n8n-events)[* Security](https://n8n.io/legal/#security/)\n\nMade with ♥ in Berlin  \n[Impressum](https://n8n.io/impressum/) | [Legal](https://n8n.io/legal/) | [Privacy](https://n8n.io/legal/#privacy)\n\n[Report a vulnerability](https://n8n.io/legal/#vulnerability)  \n© 2025 n8n | All rights reserved.",
+  "usage": {
+    "tokens": 3903
+  }
+}
+```

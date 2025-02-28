@@ -1,0 +1,27 @@
+MTEB Leaderboard - a Hugging Face Space by mteb
+===============
+
+[Spaces](https://huggingface.co/spaces) [![Image 3: Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/) 
+
+* * *
+
+[![Image 4](https://cdn-avatars.huggingface.co/v1/production/uploads/1664267264786-5f1eb362eec0ad2a071ad6e2.png)](https://huggingface.co/mteb)
+
+[mteb](https://huggingface.co/mteb)
+
+/
+
+[leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+
+like 4.58k
+
+Running on CPU Upgrade
+
+
+==========================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+[App](https://huggingface.co/spaces/mteb/leaderboard) [Files Files](https://huggingface.co/spaces/mteb/leaderboard/tree/main) [Community 150](https://huggingface.co/spaces/mteb/leaderboard/discussions)
+
+Fetching metadata from the HF Docker repository...
+
+Refreshing

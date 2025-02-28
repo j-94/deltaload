@@ -1,0 +1,77 @@
+---
+title: jagilley/controlnet-hough – Replicate
+description: Modify images using M-LSD line detection
+url: https://replicate.com/jagilley/controlnet-hough
+timestamp: 2025-01-20T15:43:06.122Z
+domain: replicate.com
+path: jagilley_controlnet-hough
+---
+
+# jagilley/controlnet-hough – Replicate
+
+
+Modify images using M-LSD line detection
+
+
+## Content
+
+#### Readme
+
+Model by [Lyumin Zhang](https://lllyasviel.github.io/Style2PaintsResearch/lvmin)
+
+Usage
+-----
+
+Input an image, and prompt the model to generate an image as you would for Stable Diffusion. You can change the M-LSD thresholds to control the effect on the output image.
+
+Model description
+-----------------
+
+This model is ControlNet adapting Stable Diffusion to use M-LSD detected edges in an input image in addition to a text input to generate an output image. The training data is generated using a learning-based deep Hough transform to detect straight lines from Places2 and then use BLIP to generate captions. The Canny model is used as a starting checkpoint and train the model with 150 GPU-hours with Nvidia A100 80G.
+
+ControlNet is a neural network structure which allows control of pretrained large diffusion models to support additional input conditions beyond prompts. The ControlNet learns task-specific conditions in an end-to-end way, and the learning is robust even when the training dataset is small (< 50k samples). Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal device. Alternatively, if powerful computation clusters are available, the model can scale to large amounts of training data (millions to billions of rows). Large diffusion models like Stable Diffusion can be augmented with ControlNets to enable conditional inputs like edge maps, segmentation maps, keypoints, etc.
+
+![Image 5](https://tjzk.replicate.delivery/markdownx/4ee8fd6d-1303-4232-a138-f961b2962cc9.png)
+
+[Original model & code on GitHub](https://github.com/lllyasviel/ControlNet)
+
+Other ControlNets
+-----------------
+
+There are many different ways to use a ControlNet to modify the output of Stable Diffusion. Here are a few different options, all of which use an input image in addition to a prompt to generate an output. The methods process the input in different ways; try them out to see which works best for a given application.
+
+**ControlNet for generating images from drawings** Scribble: [https://replicate.com/jagilley/controlnet-scribble](https://replicate.com/jagilley/controlnet-scribble)
+
+**ControlNets for generating humans based on input image** Human Pose Detection: [https://replicate.com/jagilley/controlnet-pose](https://replicate.com/jagilley/controlnet-pose)
+
+**ControlNets for preserving general qualities about an input image** Edge detection: [https://replicate.com/jagilley/controlnet-canny](https://replicate.com/jagilley/controlnet-canny) HED maps: [https://replicate.com/jagilley/controlnet-hed](https://replicate.com/jagilley/controlnet-hed) Depth map: [https://replicate.com/jagilley/controlnet-depth2img](https://replicate.com/jagilley/controlnet-depth2img) Hough line detection: [https://replicate.com/jagilley/controlnet-hough](https://replicate.com/jagilley/controlnet-hough) Normal map: [https://replicate.com/jagilley/controlnet-normal](https://replicate.com/jagilley/controlnet-normal)
+
+Citation
+--------
+
+```
+@misc{https://doi.org/10.48550/arxiv.2302.05543,
+  doi = {10.48550/ARXIV.2302.05543},
+  url = {https://arxiv.org/abs/2302.05543},
+  author = {Zhang, Lvmin and Agrawala, Maneesh},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), Graphics (cs.GR), Human-Computer Interaction (cs.HC), Multimedia (cs.MM), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Adding Conditional Control to Text-to-Image Diffusion Models},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
+
+## Metadata
+
+```json
+{
+  "title": "jagilley/controlnet-hough – Replicate",
+  "description": "Modify images using M-LSD line detection",
+  "url": "https://replicate.com/jagilley/controlnet-hough",
+  "content": "#### Readme\n\nModel by [Lyumin Zhang](https://lllyasviel.github.io/Style2PaintsResearch/lvmin)\n\nUsage\n-----\n\nInput an image, and prompt the model to generate an image as you would for Stable Diffusion. You can change the M-LSD thresholds to control the effect on the output image.\n\nModel description\n-----------------\n\nThis model is ControlNet adapting Stable Diffusion to use M-LSD detected edges in an input image in addition to a text input to generate an output image. The training data is generated using a learning-based deep Hough transform to detect straight lines from Places2 and then use BLIP to generate captions. The Canny model is used as a starting checkpoint and train the model with 150 GPU-hours with Nvidia A100 80G.\n\nControlNet is a neural network structure which allows control of pretrained large diffusion models to support additional input conditions beyond prompts. The ControlNet learns task-specific conditions in an end-to-end way, and the learning is robust even when the training dataset is small (< 50k samples). Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal device. Alternatively, if powerful computation clusters are available, the model can scale to large amounts of training data (millions to billions of rows). Large diffusion models like Stable Diffusion can be augmented with ControlNets to enable conditional inputs like edge maps, segmentation maps, keypoints, etc.\n\n![Image 5](https://tjzk.replicate.delivery/markdownx/4ee8fd6d-1303-4232-a138-f961b2962cc9.png)\n\n[Original model & code on GitHub](https://github.com/lllyasviel/ControlNet)\n\nOther ControlNets\n-----------------\n\nThere are many different ways to use a ControlNet to modify the output of Stable Diffusion. Here are a few different options, all of which use an input image in addition to a prompt to generate an output. The methods process the input in different ways; try them out to see which works best for a given application.\n\n**ControlNet for generating images from drawings** Scribble: [https://replicate.com/jagilley/controlnet-scribble](https://replicate.com/jagilley/controlnet-scribble)\n\n**ControlNets for generating humans based on input image** Human Pose Detection: [https://replicate.com/jagilley/controlnet-pose](https://replicate.com/jagilley/controlnet-pose)\n\n**ControlNets for preserving general qualities about an input image** Edge detection: [https://replicate.com/jagilley/controlnet-canny](https://replicate.com/jagilley/controlnet-canny) HED maps: [https://replicate.com/jagilley/controlnet-hed](https://replicate.com/jagilley/controlnet-hed) Depth map: [https://replicate.com/jagilley/controlnet-depth2img](https://replicate.com/jagilley/controlnet-depth2img) Hough line detection: [https://replicate.com/jagilley/controlnet-hough](https://replicate.com/jagilley/controlnet-hough) Normal map: [https://replicate.com/jagilley/controlnet-normal](https://replicate.com/jagilley/controlnet-normal)\n\nCitation\n--------\n\n```\n@misc{https://doi.org/10.48550/arxiv.2302.05543,\n  doi = {10.48550/ARXIV.2302.05543},\n  url = {https://arxiv.org/abs/2302.05543},\n  author = {Zhang, Lvmin and Agrawala, Maneesh},\n  keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), Graphics (cs.GR), Human-Computer Interaction (cs.HC), Multimedia (cs.MM), FOS: Computer and information sciences, FOS: Computer and information sciences},\n  title = {Adding Conditional Control to Text-to-Image Diffusion Models},\n  publisher = {arXiv},\n  year = {2023},\n  copyright = {arXiv.org perpetual, non-exclusive license}\n}\n```",
+  "usage": {
+    "tokens": 883
+  }
+}
+```

@@ -1,0 +1,30 @@
+What if AI could write code?
+----------------------------
+
+Bind AI is powered by the most advanced AI models.**  
+Claude 3.5 Sonnet**, **GPT-4o**, **Llama 3**, **Mistral**, all in a single platform with a **built-in code editor**.
+
+[View all Models available](https://copilot.getbind.co/chat/code-generation?model=all)![Image 8](https://cdn.prod.website-files.com/650e15fb107e3d4aec2c591a/671c2d8ce6fbff166b3f4aed_Image%208%402x.png)[](https://www.getbind.co/#)
+
+Create landing pages, scripts, or a full backend with Bind AI.
+--------------------------------------------------------------
+
+Bind AI supports 15+ AI models are trained on a diverse dataset of over 72 programming languages. This includes popular languages like Python, Java, C, C++, JavaScript, and Bash, as well as more specialized ones such as Swift and Fortran.
+
+##### Create a frontend for Marketplace Web App
+
+Create beautiful front end web applications with HTML, NextJS, React,  Tailwind CSS.
+
+[Generate HTML Code](https://copilot.getbind.co/chat/code-generation?query=Create+a+single+HTML+file+for+a+modern%2C+visually+appealing+web+application+for+a+real+estate+marketplace.+The+app+should+utilize+Tailwind+CSS+components)
+
+##### Write a python script to parse a JSON
+
+Generate Python, C++, bash scripts for your usecases and execute in the AI Code Editor.
+
+[Generate Python Script](https://copilot.getbind.co/chat/code-generation?query=Write+a+python+script+to+parse+a+JSON+and+convert+to+csv)
+
+##### Write a SQL query to find top customers
+
+Generate boilerplate code, API queries, SQL queries, cURL commands and automate boring tasks.
+
+[Generate SQL Query](https://copilot.getbind.co/chat/code-generation?query=Write+a+SQL+query+to+find+the+top+5+customers+by+total+order+amount+in+SQL)

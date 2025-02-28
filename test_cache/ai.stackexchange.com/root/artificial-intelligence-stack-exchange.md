@@ -1,0 +1,480 @@
+---
+title: Artificial Intelligence Stack Exchange
+description: Q&A for people interested in conceptual questions about life and challenges in a world where "cognitive" functions can be mimicked in purely digital environment
+url: https://ai.stackexchange.com/
+timestamp: 2025-01-20T15:59:02.286Z
+domain: ai.stackexchange.com
+path: root
+---
+
+# Artificial Intelligence Stack Exchange
+
+
+Q&A for people interested in conceptual questions about life and challenges in a world where "cognitive" functions can be mimicked in purely digital environment
+
+
+## Content
+
+Artificial Intelligence Stack Exchange
+===============
+                           
+
+ 
+
+[Skip to main content](https://ai.stackexchange.com/#content)
+
+[](https://ai.stackexchange.com/#)
+
+[](https://ai.stackexchange.com/#)
+
+#### Stack Exchange Network
+
+Stack Exchange network consists of 183 Q&A communities including [Stack Overflow](https://stackoverflow.com/), the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+
+[Visit Stack Exchange](https://stackexchange.com/)
+
+Loading…
+
+1.  [](https://ai.stackexchange.com/help "Help Center and other resources")
+
+*   [Tour Start here for a quick overview of the site](https://ai.stackexchange.com/tour)
+*   [Help Center Detailed answers to any questions you might have](https://ai.stackexchange.com/help)
+*   [Meta Discuss the workings and policies of this site](https://ai.meta.stackexchange.com/)
+*   [About Us Learn more about Stack Overflow the company, and our products](https://stackoverflow.co/)
+
+3.  [](https://stackexchange.com/ "A list of all 183 Stack Exchange sites")
+4.  ### [current community](https://ai.stackexchange.com/)
+    
+    *   [Artificial Intelligence](https://ai.stackexchange.com/)
+        
+        [help](https://ai.stackexchange.com/help) [chat](https://chat.stackexchange.com/?tab=site&host=ai.stackexchange.com)
+        
+    *   [Artificial Intelligence Meta](https://ai.meta.stackexchange.com/)
+    
+    ### your communities
+    
+    [Sign up](https://ai.stackexchange.com/users/signup?ssrc=site_switcher&returnurl=https%3a%2f%2fai.stackexchange.com%2f) or [log in](https://ai.stackexchange.com/users/login?ssrc=site_switcher&returnurl=https%3a%2f%2fai.stackexchange.com%2f) to customize your list.
+    
+    ### [more stack exchange communities](https://stackexchange.com/sites)
+    
+    [company blog](https://stackoverflow.blog/)
+    
+
+6.  [Log in](https://ai.stackexchange.com/users/login?ssrc=head&returnurl=https%3a%2f%2fai.stackexchange.com%2f)
+7.  [Sign up](https://ai.stackexchange.com/users/signup?ssrc=head&returnurl=https%3a%2f%2fai.stackexchange.com%2f)
+
+[![Image 17: Artificial Intelligence](https://cdn.sstatic.net/Sites/ai/Img/logo.svg?v=444d8193db78)](https://ai.stackexchange.com/)
+
+1.  1.  [Home](https://ai.stackexchange.com/)
+    2.  [Questions](https://ai.stackexchange.com/questions)
+    3.  [Tags](https://ai.stackexchange.com/tags)
+    
+    5.  [Users](https://ai.stackexchange.com/users)
+    6.  [Jobs New](https://ai.stackexchange.com/jobs?source=so-left-nav)
+    7.  [Companies](https://stackoverflow.com/jobs/companies?so_medium=ai&so_source=SiteNav)
+    8.  [Unanswered](https://ai.stackexchange.com/unanswered)
+2.  Teams
+    
+    ![Image 18](https://cdn.sstatic.net/Img/teams/teams-promo.svg?v=e507948b81bf)Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+    
+    [Try Teams for free](https://stackoverflowteams.com/teams/create/free/?utm_medium=referral&utm_source=ai-community&utm_campaign=side-bar&utm_content=explore-teams) [Explore Teams](https://stackoverflow.co/teams/?utm_medium=referral&utm_source=ai-community&utm_campaign=side-bar&utm_content=explore-teams)
+    
+3.  [Teams](javascript:void(0))
+4.  Ask questions, find answers and collaborate at work with Stack Overflow for Teams. [Explore Teams](https://stackoverflow.co/teams/?utm_medium=referral&utm_source=ai-community&utm_campaign=side-bar&utm_content=explore-teams-compact)
+    
+
+**Teams**
+
+Q&A for work
+
+Connect and share knowledge within a single location that is structured and easy to search.
+
+[Learn more about Teams](https://stackoverflow.co/teams/)
+
+Explore our questions
+=====================
+
+[Ask Question](https://ai.stackexchange.com/questions/ask)
+
+[neural-networks](https://ai.stackexchange.com/?tags=neural-networks "Show questions relating to neural-networks")[reinforcement-learning](https://ai.stackexchange.com/?tags=reinforcement-learning "Show questions relating to reinforcement-learning")[machine-learning](https://ai.stackexchange.com/?tags=machine-learning "Show questions relating to machine-learning")[deep-learning](https://ai.stackexchange.com/?tags=deep-learning "Show questions relating to deep-learning")[convolutional-neural-networks](https://ai.stackexchange.com/?tags=convolutional-neural-networks "Show questions relating to convolutional-neural-networks")[natural-language-processing](https://ai.stackexchange.com/?tags=natural-language-processing "Show questions relating to natural-language-processing")[computer-vision](https://ai.stackexchange.com/?tags=computer-vision "Show questions relating to computer-vision")[deep-rl](https://ai.stackexchange.com/?tags=deep-rl "Show questions relating to deep-rl")[training](https://ai.stackexchange.com/?tags=training "Show questions relating to training")[reference-request](https://ai.stackexchange.com/?tags=reference-request "Show questions relating to reference-request") [more tags](https://ai.stackexchange.com/tags)
+
+[Active](https://ai.stackexchange.com/?tab=active "Questions that have been asked, answered, or updated recently") [Hot](https://ai.stackexchange.com/?tab=hot "Questions with the most views, most answers, and highest score over the last few days") [Week](https://ai.stackexchange.com/?tab=week "Questions with the most views, most answers, and highest score this week") [Month](https://ai.stackexchange.com/?tab=month "Questions with the most views, most answers, and highest score this month")
+
+2 votes
+
+1 answer
+
+142 views
+
+### [How can we create an encoding scheme that captures these relationships between the suits of cards in poker?](https://ai.stackexchange.com/questions/42683/how-can-we-create-an-encoding-scheme-that-captures-these-relationships-between-t)
+
+*   [game-ai](https://ai.stackexchange.com/questions/tagged/game-ai "show questions tagged 'game-ai'")
+*   [one-hot-encoding](https://ai.stackexchange.com/questions/tagged/one-hot-encoding "show questions tagged 'one-hot-encoding'")
+*   [poker](https://ai.stackexchange.com/questions/tagged/poker "show questions tagged 'poker'")
+
+[![Image 19: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)
+
+[Community](https://ai.stackexchange.com/users/-1/community)Bot
+
+*   1
+
+[modified 1 hour ago](https://ai.stackexchange.com/questions/42683/how-can-we-create-an-encoding-scheme-that-captures-these-relationships-between-t?lastactivity)
+
+1 vote
+
+0 answers
+
+59 views
+
+### [Is a evolutionary algorithm suitable as an alternative for this method?](https://ai.stackexchange.com/questions/47792/is-a-evolutionary-algorithm-suitable-as-an-alternative-for-this-method)
+
+*   [machine-learning](https://ai.stackexchange.com/questions/tagged/machine-learning "show questions tagged 'machine-learning'")
+*   [optimization](https://ai.stackexchange.com/questions/tagged/optimization "show questions tagged 'optimization'")
+*   [genetic-algorithms](https://ai.stackexchange.com/questions/tagged/genetic-algorithms "show questions tagged 'genetic-algorithms'")
+*   [evolutionary-algorithms](https://ai.stackexchange.com/questions/tagged/evolutionary-algorithms "show questions tagged 'evolutionary-algorithms'")
+*   [algorithm](https://ai.stackexchange.com/questions/tagged/algorithm "show questions tagged 'algorithm'")
+
+[![Image 20: ananya's user avatar](https://www.gravatar.com/avatar/243bb3e4c781edc56e77ecfcff4dbe27?s=32&d=identicon&r=PG&f=y&so-version=2)](https://ai.stackexchange.com/users/89091/ananya)
+
+[ananya](https://ai.stackexchange.com/users/89091/ananya)
+
+*   31
+
+[modified 2 hours ago](https://ai.stackexchange.com/questions/47792/is-a-evolutionary-algorithm-suitable-as-an-alternative-for-this-method)
+
+0 votes
+
+1 answer
+
+246 views
+
+### [Why would the reward of A3C with LSTM suddenly drop off after many episodes?](https://ai.stackexchange.com/questions/23550/why-would-the-reward-of-a3c-with-lstm-suddenly-drop-off-after-many-episodes)
+
+*   [reinforcement-learning](https://ai.stackexchange.com/questions/tagged/reinforcement-learning "show questions tagged 'reinforcement-learning'")
+*   [deep-rl](https://ai.stackexchange.com/questions/tagged/deep-rl "show questions tagged 'deep-rl'")
+*   [pytorch](https://ai.stackexchange.com/questions/tagged/pytorch "show questions tagged 'pytorch'")
+*   [actor-critic-methods](https://ai.stackexchange.com/questions/tagged/actor-critic-methods "show questions tagged 'actor-critic-methods'")
+*   [a3c](https://ai.stackexchange.com/questions/tagged/a3c "show questions tagged 'a3c'")
+
+[![Image 21: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)
+
+[Community](https://ai.stackexchange.com/users/-1/community)Bot
+
+*   1
+
+[modified 6 hours ago](https://ai.stackexchange.com/questions/23550/why-would-the-reward-of-a3c-with-lstm-suddenly-drop-off-after-many-episodes?lastactivity)
+
+18 votes
+
+2 answers
+
+7k views
+
+### [Why does DQN require two different networks?](https://ai.stackexchange.com/questions/6982/why-does-dqn-require-two-different-networks)
+
+*   [reinforcement-learning](https://ai.stackexchange.com/questions/tagged/reinforcement-learning "show questions tagged 'reinforcement-learning'")
+*   [deep-rl](https://ai.stackexchange.com/questions/tagged/deep-rl "show questions tagged 'deep-rl'")
+*   [q-learning](https://ai.stackexchange.com/questions/tagged/q-learning "show questions tagged 'q-learning'")
+*   [dqn](https://ai.stackexchange.com/questions/tagged/dqn "show questions tagged 'dqn'")
+*   [target-network](https://ai.stackexchange.com/questions/tagged/target-network "show questions tagged 'target-network'")
+
+[![Image 22: Max Dickens's user avatar](https://lh4.googleusercontent.com/-7boLSpkn68k/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdms5PdCkBXkA4fkhqBV-TgmDQnKQ/photo.jpg?sz=32)](https://ai.stackexchange.com/users/91282/max-dickens)
+
+[Max Dickens](https://ai.stackexchange.com/users/91282/max-dickens)
+
+*   11
+
+[modified 8 hours ago](https://ai.stackexchange.com/questions/6982/why-does-dqn-require-two-different-networks?lastactivity)
+
+1 vote
+
+1 answer
+
+22 views
+
+### [Mathematical logic and AI](https://ai.stackexchange.com/questions/47826/mathematical-logic-and-ai)
+
+*   [math](https://ai.stackexchange.com/questions/tagged/math "show questions tagged 'math'")
+*   [agi](https://ai.stackexchange.com/questions/tagged/agi "show questions tagged 'agi'")
+*   [logic](https://ai.stackexchange.com/questions/tagged/logic "show questions tagged 'logic'")
+
+[![Image 23: cinch's user avatar](https://i.sstatic.net/uDmQ9.png?s=32)](https://ai.stackexchange.com/users/45381/cinch)
+
+[cinch](https://ai.stackexchange.com/users/45381/cinch)
+
+*   7,112
+
+[answered 9 hours ago](https://ai.stackexchange.com/questions/47826/mathematical-logic-and-ai?lastactivity)
+
+0 votes
+
+1 answer
+
+34 views
+
+### [custom seuential layer which can iterate over each value in the input](https://ai.stackexchange.com/questions/47561/custom-seuential-layer-which-can-iterate-over-each-value-in-the-input)
+
+*   [tensorflow](https://ai.stackexchange.com/questions/tagged/tensorflow "show questions tagged 'tensorflow'")
+
+[![Image 24: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)
+
+[Community](https://ai.stackexchange.com/users/-1/community)Bot
+
+*   1
+
+[modified 9 hours ago](https://ai.stackexchange.com/questions/47561/custom-seuential-layer-which-can-iterate-over-each-value-in-the-input?lastactivity)
+
+1 vote
+
+1 answer
+
+268 views
+
+### [How do I show the relationship between theories and models using Conceptual Graphs?](https://ai.stackexchange.com/questions/33859/how-do-i-show-the-relationship-between-theories-and-models-using-conceptual-grap)
+
+*   [logic](https://ai.stackexchange.com/questions/tagged/logic "show questions tagged 'logic'")
+*   [knowledge-representation](https://ai.stackexchange.com/questions/tagged/knowledge-representation "show questions tagged 'knowledge-representation'")
+*   [ontology](https://ai.stackexchange.com/questions/tagged/ontology "show questions tagged 'ontology'")
+
+[![Image 25: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)
+
+[Community](https://ai.stackexchange.com/users/-1/community)Bot
+
+*   1
+
+[modified 15 hours ago](https://ai.stackexchange.com/questions/33859/how-do-i-show-the-relationship-between-theories-and-models-using-conceptual-grap?lastactivity)
+
+1 vote
+
+1 answer
+
+289 views
+
+### [Role of confidence or classification score in object detection mAP metrics](https://ai.stackexchange.com/questions/30317/role-of-confidence-or-classification-score-in-object-detection-map-metrics)
+
+*   [machine-learning](https://ai.stackexchange.com/questions/tagged/machine-learning "show questions tagged 'machine-learning'")
+*   [computer-vision](https://ai.stackexchange.com/questions/tagged/computer-vision "show questions tagged 'computer-vision'")
+*   [object-detection](https://ai.stackexchange.com/questions/tagged/object-detection "show questions tagged 'object-detection'")
+*   [metric](https://ai.stackexchange.com/questions/tagged/metric "show questions tagged 'metric'")
+
+[![Image 26: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)
+
+[Community](https://ai.stackexchange.com/users/-1/community)Bot
+
+*   1
+
+[modified 16 hours ago](https://ai.stackexchange.com/questions/30317/role-of-confidence-or-classification-score-in-object-detection-map-metrics?lastactivity)
+
+3 votes
+
+1 answer
+
+248 views
+
+### [NoisyNet DQN with default parameters not exploring](https://ai.stackexchange.com/questions/17491/noisynet-dqn-with-default-parameters-not-exploring)
+
+*   [reinforcement-learning](https://ai.stackexchange.com/questions/tagged/reinforcement-learning "show questions tagged 'reinforcement-learning'")
+*   [dqn](https://ai.stackexchange.com/questions/tagged/dqn "show questions tagged 'dqn'")
+
+[![Image 27: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)
+
+[Community](https://ai.stackexchange.com/users/-1/community)Bot
+
+*   1
+
+[modified 17 hours ago](https://ai.stackexchange.com/questions/17491/noisynet-dqn-with-default-parameters-not-exploring?lastactivity)
+
+1 vote
+
+1 answer
+
+110 views
+
+### [What is the best distance measure between policies that are not probability distributions?](https://ai.stackexchange.com/questions/37284/what-is-the-best-distance-measure-between-policies-that-are-not-probability-dist)
+
+*   [reinforcement-learning](https://ai.stackexchange.com/questions/tagged/reinforcement-learning "show questions tagged 'reinforcement-learning'")
+*   [policies](https://ai.stackexchange.com/questions/tagged/policies "show questions tagged 'policies'")
+*   [metric](https://ai.stackexchange.com/questions/tagged/metric "show questions tagged 'metric'")
+*   [kl-divergence](https://ai.stackexchange.com/questions/tagged/kl-divergence "show questions tagged 'kl-divergence'")
+
+[![Image 28: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)
+
+[Community](https://ai.stackexchange.com/users/-1/community)Bot
+
+*   1
+
+[modified 20 hours ago](https://ai.stackexchange.com/questions/37284/what-is-the-best-distance-measure-between-policies-that-are-not-probability-dist?lastactivity)
+
+0 votes
+
+1 answer
+
+72 views
+
+### [Why are policy gradients popular in RL when there exists a dual LP formulation in terms of occupation measures that can be solved easily?](https://ai.stackexchange.com/questions/37406/why-are-policy-gradients-popular-in-rl-when-there-exists-a-dual-lp-formulation-i)
+
+*   [reinforcement-learning](https://ai.stackexchange.com/questions/tagged/reinforcement-learning "show questions tagged 'reinforcement-learning'")
+*   [policy-gradients](https://ai.stackexchange.com/questions/tagged/policy-gradients "show questions tagged 'policy-gradients'")
+*   [linear-programming](https://ai.stackexchange.com/questions/tagged/linear-programming "show questions tagged 'linear-programming'")
+
+[![Image 29: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)
+
+[Community](https://ai.stackexchange.com/users/-1/community)Bot
+
+*   1
+
+[modified 22 hours ago](https://ai.stackexchange.com/questions/37406/why-are-policy-gradients-popular-in-rl-when-there-exists-a-dual-lp-formulation-i?lastactivity)
+
+0 votes
+
+2 answers
+
+345 views
+
+### [Can GenAI be Used to Generate Decision Trees from Text?](https://ai.stackexchange.com/questions/45226/can-genai-be-used-to-generate-decision-trees-from-text)
+
+*   [large-language-models](https://ai.stackexchange.com/questions/tagged/large-language-models "show questions tagged 'large-language-models'")
+*   [decision-trees](https://ai.stackexchange.com/questions/tagged/decision-trees "show questions tagged 'decision-trees'")
+
+[![Image 30: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)
+
+[Community](https://ai.stackexchange.com/users/-1/community)Bot
+
+*   1
+
+[modified yesterday](https://ai.stackexchange.com/questions/45226/can-genai-be-used-to-generate-decision-trees-from-text?lastactivity)
+
+0 votes
+
+0 answers
+
+7 views
+
+### [JsonOutputToolsParser from langchain\_core.parsers behaves unreliable](https://ai.stackexchange.com/questions/47825/jsonoutputtoolsparser-from-langchain-core-parsers-behaves-unreliable)
+
+*   [large-language-models](https://ai.stackexchange.com/questions/tagged/large-language-models "show questions tagged 'large-language-models'")
+*   [intelligent-agent](https://ai.stackexchange.com/questions/tagged/intelligent-agent "show questions tagged 'intelligent-agent'")
+*   [simple-reflex-agents](https://ai.stackexchange.com/questions/tagged/simple-reflex-agents "show questions tagged 'simple-reflex-agents'")
+
+[![Image 31: Ansuman's user avatar](https://www.gravatar.com/avatar/3abcb594a17b6d7880d7a86b97b4d161?s=32&d=identicon&r=PG&f=y&so-version=2)](https://ai.stackexchange.com/users/90993/ansuman)
+
+[Ansuman](https://ai.stackexchange.com/users/90993/ansuman)
+
+*   1
+
+[asked yesterday](https://ai.stackexchange.com/questions/47825/jsonoutputtoolsparser-from-langchain-core-parsers-behaves-unreliable)
+
+0 votes
+
+1 answer
+
+41 views
+
+### [What task/model to use to locate textblock in pdf that matches regulation rules](https://ai.stackexchange.com/questions/43046/what-task-model-to-use-to-locate-textblock-in-pdf-that-matches-regulation-rules)
+
+*   [models](https://ai.stackexchange.com/questions/tagged/models "show questions tagged 'models'")
+
+[![Image 32: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)
+
+[Community](https://ai.stackexchange.com/users/-1/community)Bot
+
+*   1
+
+[modified yesterday](https://ai.stackexchange.com/questions/43046/what-task-model-to-use-to-locate-textblock-in-pdf-that-matches-regulation-rules?lastactivity)
+
+[Browse more Questions](https://ai.stackexchange.com/questions)  
+
+#### [Hot Network Questions](https://stackexchange.com/questions?tab=hot)
+
+*   ["Angst vor etwas haben" What does it mean exactly?](https://german.stackexchange.com/questions/78654/angst-vor-etwas-haben-what-does-it-mean-exactly)
+*   [Why did the US Congress ban TikTok and not the other Chinese social network apps?](https://politics.stackexchange.com/questions/90324/why-did-the-us-congress-ban-tiktok-and-not-the-other-chinese-social-network-apps)
+*   [When a coilgun fires, how does the energy transfered to the projectile affect the electric circuit?](https://electronics.stackexchange.com/questions/736473/when-a-coilgun-fires-how-does-the-energy-transfered-to-the-projectile-affect-th)
+*   [Why don't sound waves violate the principle of relativity?](https://physics.stackexchange.com/questions/840196/why-dont-sound-waves-violate-the-principle-of-relativity)
+*   [Mix and match multitool?](https://bicycles.stackexchange.com/questions/96123/mix-and-match-multitool)
+*   [Story crab like aliens in large ship](https://scifi.stackexchange.com/questions/294333/story-crab-like-aliens-in-large-ship)
+*   [How quickly do you get additional challenge refresh attempts?](https://gaming.stackexchange.com/questions/410833/how-quickly-do-you-get-additional-challenge-refresh-attempts)
+*   [Is it acceptable for a professional course to grade essays on "creativity"?](https://academia.stackexchange.com/questions/216219/is-it-acceptable-for-a-professional-course-to-grade-essays-on-creativity)
+*   [Evaluate Log Gamma Integral](https://math.stackexchange.com/questions/5025341/evaluate-log-gamma-integral)
+*   [Would a lack of seasonality lead to larger leaf sizes?](https://worldbuilding.stackexchange.com/questions/264188/would-a-lack-of-seasonality-lead-to-larger-leaf-sizes)
+*   [How can a character tame a dragon?](https://rpg.stackexchange.com/questions/214436/how-can-a-character-tame-a-dragon)
+*   [How to implement a bitwise AND operation in PDP-11 assembly?](https://retrocomputing.stackexchange.com/questions/31160/how-to-implement-a-bitwise-and-operation-in-pdp-11-assembly)
+*   [Why did Napoleon think the logistics of the Egyptian campaign were realistic?](https://history.stackexchange.com/questions/77310/why-did-napoleon-think-the-logistics-of-the-egyptian-campaign-were-realistic)
+*   [Why is efficient market hypothesis still unanswered and no one really seems to care about it?](https://quant.stackexchange.com/questions/81684/why-is-efficient-market-hypothesis-still-unanswered-and-no-one-really-seems-to-c)
+*   [Puzzle: Defeating the copycat challenge](https://chess.stackexchange.com/questions/46584/puzzle-defeating-the-copycat-challenge)
+*   [Is there a way to a priori define the integers and rational numbers?](https://math.stackexchange.com/questions/5025298/is-there-a-way-to-a-priori-define-the-integers-and-rational-numbers)
+*   [What remedies are available from a human rights tribunal?](https://law.stackexchange.com/questions/106949/what-remedies-are-available-from-a-human-rights-tribunal)
+*   [Novel where the protagonists find the Garden of Eden and learn those living there were a non-human intelligent species](https://scifi.stackexchange.com/questions/294319/novel-where-the-protagonists-find-the-garden-of-eden-and-learn-those-living-ther)
+*   [If space has positive curvature, it its geometry spherical or elliptic?](https://physics.stackexchange.com/questions/840439/if-space-has-positive-curvature-it-its-geometry-spherical-or-elliptic)
+*   [Cross-arithmetic](https://puzzling.stackexchange.com/questions/130149/cross-arithmetic)
+*   [UTC Time, navigation. Why are the time zones not following perfect meridian circles for longitude?](https://astronomy.stackexchange.com/questions/59305/utc-time-navigation-why-are-the-time-zones-not-following-perfect-meridian-circ)
+*   [Who were Lambert and Edson, mentioned in "White-Jacket" as examples of fat and lean men?](https://literature.stackexchange.com/questions/28617/who-were-lambert-and-edson-mentioned-in-white-jacket-as-examples-of-fat-and-l)
+*   [Did John Edwards misunderstand John 8:23?](https://christianity.stackexchange.com/questions/104827/did-john-edwards-misunderstand-john-823)
+*   [Liquid Pockets in Butter](https://cooking.stackexchange.com/questions/130049/liquid-pockets-in-butter)
+
+[more hot questions](https://ai.stackexchange.com/#)
+
+[Recent questions feed](https://ai.stackexchange.com/feeds "The 30 most recent questions")
+
+Subscribe to RSS
+================
+
+Recent questions feedTo subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+[](https://ai.stackexchange.com/#)
+
+ 
+
+##### [Artificial Intelligence](https://ai.stackexchange.com/)
+
+*   [Tour](https://ai.stackexchange.com/tour)
+*   [Help](https://ai.stackexchange.com/help)
+*   [Chat](https://chat.stackexchange.com/?tab=site&host=ai.stackexchange.com)
+*   [Contact](https://ai.stackexchange.com/contact)
+*   [Feedback](https://ai.meta.stackexchange.com/)
+
+##### [Company](https://stackoverflow.co/)
+
+*   [Stack Overflow](https://stackoverflow.com/)
+*   [Teams](https://stackoverflow.co/teams/)
+*   [Advertising](https://stackoverflow.co/advertising/)
+*   [Talent](https://stackoverflow.co/advertising/employer-branding/)
+*   [About](https://stackoverflow.co/)
+*   [Press](https://stackoverflow.co/company/press/)
+*   [Legal](https://stackoverflow.com/legal)
+*   [Privacy Policy](https://stackoverflow.com/legal/privacy-policy)
+*   [Terms of Service](https://stackoverflow.com/legal/terms-of-service/public)
+*   Cookie Settings
+*   [Cookie Policy](https://stackoverflow.com/legal/cookie-policy)
+
+##### [Stack Exchange Network](https://stackexchange.com/)
+
+*   [Technology](https://stackexchange.com/sites#technology)
+*   [Culture & recreation](https://stackexchange.com/sites#culturerecreation)
+*   [Life & arts](https://stackexchange.com/sites#lifearts)
+*   [Science](https://stackexchange.com/sites#science)
+*   [Professional](https://stackexchange.com/sites#professional)
+*   [Business](https://stackexchange.com/sites#business)
+*   [API](https://api.stackexchange.com/)
+*   [Data](https://data.stackexchange.com/)
+
+*   [Blog](https://stackoverflow.blog/?blb=1)
+*   [Facebook](https://www.facebook.com/officialstackoverflow/)
+*   [Twitter](https://twitter.com/stackoverflow)
+*   [LinkedIn](https://linkedin.com/company/stack-overflow)
+*   [Instagram](https://www.instagram.com/thestackoverflow)
+
+Site design / logo © 2025 Stack Exchange Inc; user contributions licensed under [CC BY-SA](https://stackoverflow.com/help/licensing) . rev 2025.1.20.21248
+
+## Metadata
+
+```json
+{
+  "title": "Artificial Intelligence Stack Exchange",
+  "description": "Q&A for people interested in conceptual questions about life and challenges in a world where \"cognitive\" functions can be mimicked in purely digital environment",
+  "url": "https://ai.stackexchange.com/",
+  "content": "Artificial Intelligence Stack Exchange\n===============\n                           \n\n \n\n[Skip to main content](https://ai.stackexchange.com/#content)\n\n[](https://ai.stackexchange.com/#)\n\n[](https://ai.stackexchange.com/#)\n\n#### Stack Exchange Network\n\nStack Exchange network consists of 183 Q&A communities including [Stack Overflow](https://stackoverflow.com/), the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.\n\n[Visit Stack Exchange](https://stackexchange.com/)\n\nLoading…\n\n1.  [](https://ai.stackexchange.com/help \"Help Center and other resources\")\n\n*   [Tour Start here for a quick overview of the site](https://ai.stackexchange.com/tour)\n*   [Help Center Detailed answers to any questions you might have](https://ai.stackexchange.com/help)\n*   [Meta Discuss the workings and policies of this site](https://ai.meta.stackexchange.com/)\n*   [About Us Learn more about Stack Overflow the company, and our products](https://stackoverflow.co/)\n\n3.  [](https://stackexchange.com/ \"A list of all 183 Stack Exchange sites\")\n4.  ### [current community](https://ai.stackexchange.com/)\n    \n    *   [Artificial Intelligence](https://ai.stackexchange.com/)\n        \n        [help](https://ai.stackexchange.com/help) [chat](https://chat.stackexchange.com/?tab=site&host=ai.stackexchange.com)\n        \n    *   [Artificial Intelligence Meta](https://ai.meta.stackexchange.com/)\n    \n    ### your communities\n    \n    [Sign up](https://ai.stackexchange.com/users/signup?ssrc=site_switcher&returnurl=https%3a%2f%2fai.stackexchange.com%2f) or [log in](https://ai.stackexchange.com/users/login?ssrc=site_switcher&returnurl=https%3a%2f%2fai.stackexchange.com%2f) to customize your list.\n    \n    ### [more stack exchange communities](https://stackexchange.com/sites)\n    \n    [company blog](https://stackoverflow.blog/)\n    \n\n6.  [Log in](https://ai.stackexchange.com/users/login?ssrc=head&returnurl=https%3a%2f%2fai.stackexchange.com%2f)\n7.  [Sign up](https://ai.stackexchange.com/users/signup?ssrc=head&returnurl=https%3a%2f%2fai.stackexchange.com%2f)\n\n[![Image 17: Artificial Intelligence](https://cdn.sstatic.net/Sites/ai/Img/logo.svg?v=444d8193db78)](https://ai.stackexchange.com/)\n\n1.  1.  [Home](https://ai.stackexchange.com/)\n    2.  [Questions](https://ai.stackexchange.com/questions)\n    3.  [Tags](https://ai.stackexchange.com/tags)\n    \n    5.  [Users](https://ai.stackexchange.com/users)\n    6.  [Jobs New](https://ai.stackexchange.com/jobs?source=so-left-nav)\n    7.  [Companies](https://stackoverflow.com/jobs/companies?so_medium=ai&so_source=SiteNav)\n    8.  [Unanswered](https://ai.stackexchange.com/unanswered)\n2.  Teams\n    \n    ![Image 18](https://cdn.sstatic.net/Img/teams/teams-promo.svg?v=e507948b81bf)Ask questions, find answers and collaborate at work with Stack Overflow for Teams.\n    \n    [Try Teams for free](https://stackoverflowteams.com/teams/create/free/?utm_medium=referral&utm_source=ai-community&utm_campaign=side-bar&utm_content=explore-teams) [Explore Teams](https://stackoverflow.co/teams/?utm_medium=referral&utm_source=ai-community&utm_campaign=side-bar&utm_content=explore-teams)\n    \n3.  [Teams](javascript:void(0))\n4.  Ask questions, find answers and collaborate at work with Stack Overflow for Teams. [Explore Teams](https://stackoverflow.co/teams/?utm_medium=referral&utm_source=ai-community&utm_campaign=side-bar&utm_content=explore-teams-compact)\n    \n\n**Teams**\n\nQ&A for work\n\nConnect and share knowledge within a single location that is structured and easy to search.\n\n[Learn more about Teams](https://stackoverflow.co/teams/)\n\nExplore our questions\n=====================\n\n[Ask Question](https://ai.stackexchange.com/questions/ask)\n\n[neural-networks](https://ai.stackexchange.com/?tags=neural-networks \"Show questions relating to neural-networks\")[reinforcement-learning](https://ai.stackexchange.com/?tags=reinforcement-learning \"Show questions relating to reinforcement-learning\")[machine-learning](https://ai.stackexchange.com/?tags=machine-learning \"Show questions relating to machine-learning\")[deep-learning](https://ai.stackexchange.com/?tags=deep-learning \"Show questions relating to deep-learning\")[convolutional-neural-networks](https://ai.stackexchange.com/?tags=convolutional-neural-networks \"Show questions relating to convolutional-neural-networks\")[natural-language-processing](https://ai.stackexchange.com/?tags=natural-language-processing \"Show questions relating to natural-language-processing\")[computer-vision](https://ai.stackexchange.com/?tags=computer-vision \"Show questions relating to computer-vision\")[deep-rl](https://ai.stackexchange.com/?tags=deep-rl \"Show questions relating to deep-rl\")[training](https://ai.stackexchange.com/?tags=training \"Show questions relating to training\")[reference-request](https://ai.stackexchange.com/?tags=reference-request \"Show questions relating to reference-request\") [more tags](https://ai.stackexchange.com/tags)\n\n[Active](https://ai.stackexchange.com/?tab=active \"Questions that have been asked, answered, or updated recently\") [Hot](https://ai.stackexchange.com/?tab=hot \"Questions with the most views, most answers, and highest score over the last few days\") [Week](https://ai.stackexchange.com/?tab=week \"Questions with the most views, most answers, and highest score this week\") [Month](https://ai.stackexchange.com/?tab=month \"Questions with the most views, most answers, and highest score this month\")\n\n2 votes\n\n1 answer\n\n142 views\n\n### [How can we create an encoding scheme that captures these relationships between the suits of cards in poker?](https://ai.stackexchange.com/questions/42683/how-can-we-create-an-encoding-scheme-that-captures-these-relationships-between-t)\n\n*   [game-ai](https://ai.stackexchange.com/questions/tagged/game-ai \"show questions tagged 'game-ai'\")\n*   [one-hot-encoding](https://ai.stackexchange.com/questions/tagged/one-hot-encoding \"show questions tagged 'one-hot-encoding'\")\n*   [poker](https://ai.stackexchange.com/questions/tagged/poker \"show questions tagged 'poker'\")\n\n[![Image 19: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)\n\n[Community](https://ai.stackexchange.com/users/-1/community)Bot\n\n*   1\n\n[modified 1 hour ago](https://ai.stackexchange.com/questions/42683/how-can-we-create-an-encoding-scheme-that-captures-these-relationships-between-t?lastactivity)\n\n1 vote\n\n0 answers\n\n59 views\n\n### [Is a evolutionary algorithm suitable as an alternative for this method?](https://ai.stackexchange.com/questions/47792/is-a-evolutionary-algorithm-suitable-as-an-alternative-for-this-method)\n\n*   [machine-learning](https://ai.stackexchange.com/questions/tagged/machine-learning \"show questions tagged 'machine-learning'\")\n*   [optimization](https://ai.stackexchange.com/questions/tagged/optimization \"show questions tagged 'optimization'\")\n*   [genetic-algorithms](https://ai.stackexchange.com/questions/tagged/genetic-algorithms \"show questions tagged 'genetic-algorithms'\")\n*   [evolutionary-algorithms](https://ai.stackexchange.com/questions/tagged/evolutionary-algorithms \"show questions tagged 'evolutionary-algorithms'\")\n*   [algorithm](https://ai.stackexchange.com/questions/tagged/algorithm \"show questions tagged 'algorithm'\")\n\n[![Image 20: ananya's user avatar](https://www.gravatar.com/avatar/243bb3e4c781edc56e77ecfcff4dbe27?s=32&d=identicon&r=PG&f=y&so-version=2)](https://ai.stackexchange.com/users/89091/ananya)\n\n[ananya](https://ai.stackexchange.com/users/89091/ananya)\n\n*   31\n\n[modified 2 hours ago](https://ai.stackexchange.com/questions/47792/is-a-evolutionary-algorithm-suitable-as-an-alternative-for-this-method)\n\n0 votes\n\n1 answer\n\n246 views\n\n### [Why would the reward of A3C with LSTM suddenly drop off after many episodes?](https://ai.stackexchange.com/questions/23550/why-would-the-reward-of-a3c-with-lstm-suddenly-drop-off-after-many-episodes)\n\n*   [reinforcement-learning](https://ai.stackexchange.com/questions/tagged/reinforcement-learning \"show questions tagged 'reinforcement-learning'\")\n*   [deep-rl](https://ai.stackexchange.com/questions/tagged/deep-rl \"show questions tagged 'deep-rl'\")\n*   [pytorch](https://ai.stackexchange.com/questions/tagged/pytorch \"show questions tagged 'pytorch'\")\n*   [actor-critic-methods](https://ai.stackexchange.com/questions/tagged/actor-critic-methods \"show questions tagged 'actor-critic-methods'\")\n*   [a3c](https://ai.stackexchange.com/questions/tagged/a3c \"show questions tagged 'a3c'\")\n\n[![Image 21: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)\n\n[Community](https://ai.stackexchange.com/users/-1/community)Bot\n\n*   1\n\n[modified 6 hours ago](https://ai.stackexchange.com/questions/23550/why-would-the-reward-of-a3c-with-lstm-suddenly-drop-off-after-many-episodes?lastactivity)\n\n18 votes\n\n2 answers\n\n7k views\n\n### [Why does DQN require two different networks?](https://ai.stackexchange.com/questions/6982/why-does-dqn-require-two-different-networks)\n\n*   [reinforcement-learning](https://ai.stackexchange.com/questions/tagged/reinforcement-learning \"show questions tagged 'reinforcement-learning'\")\n*   [deep-rl](https://ai.stackexchange.com/questions/tagged/deep-rl \"show questions tagged 'deep-rl'\")\n*   [q-learning](https://ai.stackexchange.com/questions/tagged/q-learning \"show questions tagged 'q-learning'\")\n*   [dqn](https://ai.stackexchange.com/questions/tagged/dqn \"show questions tagged 'dqn'\")\n*   [target-network](https://ai.stackexchange.com/questions/tagged/target-network \"show questions tagged 'target-network'\")\n\n[![Image 22: Max Dickens's user avatar](https://lh4.googleusercontent.com/-7boLSpkn68k/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdms5PdCkBXkA4fkhqBV-TgmDQnKQ/photo.jpg?sz=32)](https://ai.stackexchange.com/users/91282/max-dickens)\n\n[Max Dickens](https://ai.stackexchange.com/users/91282/max-dickens)\n\n*   11\n\n[modified 8 hours ago](https://ai.stackexchange.com/questions/6982/why-does-dqn-require-two-different-networks?lastactivity)\n\n1 vote\n\n1 answer\n\n22 views\n\n### [Mathematical logic and AI](https://ai.stackexchange.com/questions/47826/mathematical-logic-and-ai)\n\n*   [math](https://ai.stackexchange.com/questions/tagged/math \"show questions tagged 'math'\")\n*   [agi](https://ai.stackexchange.com/questions/tagged/agi \"show questions tagged 'agi'\")\n*   [logic](https://ai.stackexchange.com/questions/tagged/logic \"show questions tagged 'logic'\")\n\n[![Image 23: cinch's user avatar](https://i.sstatic.net/uDmQ9.png?s=32)](https://ai.stackexchange.com/users/45381/cinch)\n\n[cinch](https://ai.stackexchange.com/users/45381/cinch)\n\n*   7,112\n\n[answered 9 hours ago](https://ai.stackexchange.com/questions/47826/mathematical-logic-and-ai?lastactivity)\n\n0 votes\n\n1 answer\n\n34 views\n\n### [custom seuential layer which can iterate over each value in the input](https://ai.stackexchange.com/questions/47561/custom-seuential-layer-which-can-iterate-over-each-value-in-the-input)\n\n*   [tensorflow](https://ai.stackexchange.com/questions/tagged/tensorflow \"show questions tagged 'tensorflow'\")\n\n[![Image 24: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)\n\n[Community](https://ai.stackexchange.com/users/-1/community)Bot\n\n*   1\n\n[modified 9 hours ago](https://ai.stackexchange.com/questions/47561/custom-seuential-layer-which-can-iterate-over-each-value-in-the-input?lastactivity)\n\n1 vote\n\n1 answer\n\n268 views\n\n### [How do I show the relationship between theories and models using Conceptual Graphs?](https://ai.stackexchange.com/questions/33859/how-do-i-show-the-relationship-between-theories-and-models-using-conceptual-grap)\n\n*   [logic](https://ai.stackexchange.com/questions/tagged/logic \"show questions tagged 'logic'\")\n*   [knowledge-representation](https://ai.stackexchange.com/questions/tagged/knowledge-representation \"show questions tagged 'knowledge-representation'\")\n*   [ontology](https://ai.stackexchange.com/questions/tagged/ontology \"show questions tagged 'ontology'\")\n\n[![Image 25: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)\n\n[Community](https://ai.stackexchange.com/users/-1/community)Bot\n\n*   1\n\n[modified 15 hours ago](https://ai.stackexchange.com/questions/33859/how-do-i-show-the-relationship-between-theories-and-models-using-conceptual-grap?lastactivity)\n\n1 vote\n\n1 answer\n\n289 views\n\n### [Role of confidence or classification score in object detection mAP metrics](https://ai.stackexchange.com/questions/30317/role-of-confidence-or-classification-score-in-object-detection-map-metrics)\n\n*   [machine-learning](https://ai.stackexchange.com/questions/tagged/machine-learning \"show questions tagged 'machine-learning'\")\n*   [computer-vision](https://ai.stackexchange.com/questions/tagged/computer-vision \"show questions tagged 'computer-vision'\")\n*   [object-detection](https://ai.stackexchange.com/questions/tagged/object-detection \"show questions tagged 'object-detection'\")\n*   [metric](https://ai.stackexchange.com/questions/tagged/metric \"show questions tagged 'metric'\")\n\n[![Image 26: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)\n\n[Community](https://ai.stackexchange.com/users/-1/community)Bot\n\n*   1\n\n[modified 16 hours ago](https://ai.stackexchange.com/questions/30317/role-of-confidence-or-classification-score-in-object-detection-map-metrics?lastactivity)\n\n3 votes\n\n1 answer\n\n248 views\n\n### [NoisyNet DQN with default parameters not exploring](https://ai.stackexchange.com/questions/17491/noisynet-dqn-with-default-parameters-not-exploring)\n\n*   [reinforcement-learning](https://ai.stackexchange.com/questions/tagged/reinforcement-learning \"show questions tagged 'reinforcement-learning'\")\n*   [dqn](https://ai.stackexchange.com/questions/tagged/dqn \"show questions tagged 'dqn'\")\n\n[![Image 27: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)\n\n[Community](https://ai.stackexchange.com/users/-1/community)Bot\n\n*   1\n\n[modified 17 hours ago](https://ai.stackexchange.com/questions/17491/noisynet-dqn-with-default-parameters-not-exploring?lastactivity)\n\n1 vote\n\n1 answer\n\n110 views\n\n### [What is the best distance measure between policies that are not probability distributions?](https://ai.stackexchange.com/questions/37284/what-is-the-best-distance-measure-between-policies-that-are-not-probability-dist)\n\n*   [reinforcement-learning](https://ai.stackexchange.com/questions/tagged/reinforcement-learning \"show questions tagged 'reinforcement-learning'\")\n*   [policies](https://ai.stackexchange.com/questions/tagged/policies \"show questions tagged 'policies'\")\n*   [metric](https://ai.stackexchange.com/questions/tagged/metric \"show questions tagged 'metric'\")\n*   [kl-divergence](https://ai.stackexchange.com/questions/tagged/kl-divergence \"show questions tagged 'kl-divergence'\")\n\n[![Image 28: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)\n\n[Community](https://ai.stackexchange.com/users/-1/community)Bot\n\n*   1\n\n[modified 20 hours ago](https://ai.stackexchange.com/questions/37284/what-is-the-best-distance-measure-between-policies-that-are-not-probability-dist?lastactivity)\n\n0 votes\n\n1 answer\n\n72 views\n\n### [Why are policy gradients popular in RL when there exists a dual LP formulation in terms of occupation measures that can be solved easily?](https://ai.stackexchange.com/questions/37406/why-are-policy-gradients-popular-in-rl-when-there-exists-a-dual-lp-formulation-i)\n\n*   [reinforcement-learning](https://ai.stackexchange.com/questions/tagged/reinforcement-learning \"show questions tagged 'reinforcement-learning'\")\n*   [policy-gradients](https://ai.stackexchange.com/questions/tagged/policy-gradients \"show questions tagged 'policy-gradients'\")\n*   [linear-programming](https://ai.stackexchange.com/questions/tagged/linear-programming \"show questions tagged 'linear-programming'\")\n\n[![Image 29: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)\n\n[Community](https://ai.stackexchange.com/users/-1/community)Bot\n\n*   1\n\n[modified 22 hours ago](https://ai.stackexchange.com/questions/37406/why-are-policy-gradients-popular-in-rl-when-there-exists-a-dual-lp-formulation-i?lastactivity)\n\n0 votes\n\n2 answers\n\n345 views\n\n### [Can GenAI be Used to Generate Decision Trees from Text?](https://ai.stackexchange.com/questions/45226/can-genai-be-used-to-generate-decision-trees-from-text)\n\n*   [large-language-models](https://ai.stackexchange.com/questions/tagged/large-language-models \"show questions tagged 'large-language-models'\")\n*   [decision-trees](https://ai.stackexchange.com/questions/tagged/decision-trees \"show questions tagged 'decision-trees'\")\n\n[![Image 30: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)\n\n[Community](https://ai.stackexchange.com/users/-1/community)Bot\n\n*   1\n\n[modified yesterday](https://ai.stackexchange.com/questions/45226/can-genai-be-used-to-generate-decision-trees-from-text?lastactivity)\n\n0 votes\n\n0 answers\n\n7 views\n\n### [JsonOutputToolsParser from langchain\\_core.parsers behaves unreliable](https://ai.stackexchange.com/questions/47825/jsonoutputtoolsparser-from-langchain-core-parsers-behaves-unreliable)\n\n*   [large-language-models](https://ai.stackexchange.com/questions/tagged/large-language-models \"show questions tagged 'large-language-models'\")\n*   [intelligent-agent](https://ai.stackexchange.com/questions/tagged/intelligent-agent \"show questions tagged 'intelligent-agent'\")\n*   [simple-reflex-agents](https://ai.stackexchange.com/questions/tagged/simple-reflex-agents \"show questions tagged 'simple-reflex-agents'\")\n\n[![Image 31: Ansuman's user avatar](https://www.gravatar.com/avatar/3abcb594a17b6d7880d7a86b97b4d161?s=32&d=identicon&r=PG&f=y&so-version=2)](https://ai.stackexchange.com/users/90993/ansuman)\n\n[Ansuman](https://ai.stackexchange.com/users/90993/ansuman)\n\n*   1\n\n[asked yesterday](https://ai.stackexchange.com/questions/47825/jsonoutputtoolsparser-from-langchain-core-parsers-behaves-unreliable)\n\n0 votes\n\n1 answer\n\n41 views\n\n### [What task/model to use to locate textblock in pdf that matches regulation rules](https://ai.stackexchange.com/questions/43046/what-task-model-to-use-to-locate-textblock-in-pdf-that-matches-regulation-rules)\n\n*   [models](https://ai.stackexchange.com/questions/tagged/models \"show questions tagged 'models'\")\n\n[![Image 32: Community's user avatar](https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG)](https://ai.stackexchange.com/users/-1/community)\n\n[Community](https://ai.stackexchange.com/users/-1/community)Bot\n\n*   1\n\n[modified yesterday](https://ai.stackexchange.com/questions/43046/what-task-model-to-use-to-locate-textblock-in-pdf-that-matches-regulation-rules?lastactivity)\n\n[Browse more Questions](https://ai.stackexchange.com/questions)  \n\n#### [Hot Network Questions](https://stackexchange.com/questions?tab=hot)\n\n*   [\"Angst vor etwas haben\" What does it mean exactly?](https://german.stackexchange.com/questions/78654/angst-vor-etwas-haben-what-does-it-mean-exactly)\n*   [Why did the US Congress ban TikTok and not the other Chinese social network apps?](https://politics.stackexchange.com/questions/90324/why-did-the-us-congress-ban-tiktok-and-not-the-other-chinese-social-network-apps)\n*   [When a coilgun fires, how does the energy transfered to the projectile affect the electric circuit?](https://electronics.stackexchange.com/questions/736473/when-a-coilgun-fires-how-does-the-energy-transfered-to-the-projectile-affect-th)\n*   [Why don't sound waves violate the principle of relativity?](https://physics.stackexchange.com/questions/840196/why-dont-sound-waves-violate-the-principle-of-relativity)\n*   [Mix and match multitool?](https://bicycles.stackexchange.com/questions/96123/mix-and-match-multitool)\n*   [Story crab like aliens in large ship](https://scifi.stackexchange.com/questions/294333/story-crab-like-aliens-in-large-ship)\n*   [How quickly do you get additional challenge refresh attempts?](https://gaming.stackexchange.com/questions/410833/how-quickly-do-you-get-additional-challenge-refresh-attempts)\n*   [Is it acceptable for a professional course to grade essays on \"creativity\"?](https://academia.stackexchange.com/questions/216219/is-it-acceptable-for-a-professional-course-to-grade-essays-on-creativity)\n*   [Evaluate Log Gamma Integral](https://math.stackexchange.com/questions/5025341/evaluate-log-gamma-integral)\n*   [Would a lack of seasonality lead to larger leaf sizes?](https://worldbuilding.stackexchange.com/questions/264188/would-a-lack-of-seasonality-lead-to-larger-leaf-sizes)\n*   [How can a character tame a dragon?](https://rpg.stackexchange.com/questions/214436/how-can-a-character-tame-a-dragon)\n*   [How to implement a bitwise AND operation in PDP-11 assembly?](https://retrocomputing.stackexchange.com/questions/31160/how-to-implement-a-bitwise-and-operation-in-pdp-11-assembly)\n*   [Why did Napoleon think the logistics of the Egyptian campaign were realistic?](https://history.stackexchange.com/questions/77310/why-did-napoleon-think-the-logistics-of-the-egyptian-campaign-were-realistic)\n*   [Why is efficient market hypothesis still unanswered and no one really seems to care about it?](https://quant.stackexchange.com/questions/81684/why-is-efficient-market-hypothesis-still-unanswered-and-no-one-really-seems-to-c)\n*   [Puzzle: Defeating the copycat challenge](https://chess.stackexchange.com/questions/46584/puzzle-defeating-the-copycat-challenge)\n*   [Is there a way to a priori define the integers and rational numbers?](https://math.stackexchange.com/questions/5025298/is-there-a-way-to-a-priori-define-the-integers-and-rational-numbers)\n*   [What remedies are available from a human rights tribunal?](https://law.stackexchange.com/questions/106949/what-remedies-are-available-from-a-human-rights-tribunal)\n*   [Novel where the protagonists find the Garden of Eden and learn those living there were a non-human intelligent species](https://scifi.stackexchange.com/questions/294319/novel-where-the-protagonists-find-the-garden-of-eden-and-learn-those-living-ther)\n*   [If space has positive curvature, it its geometry spherical or elliptic?](https://physics.stackexchange.com/questions/840439/if-space-has-positive-curvature-it-its-geometry-spherical-or-elliptic)\n*   [Cross-arithmetic](https://puzzling.stackexchange.com/questions/130149/cross-arithmetic)\n*   [UTC Time, navigation. Why are the time zones not following perfect meridian circles for longitude?](https://astronomy.stackexchange.com/questions/59305/utc-time-navigation-why-are-the-time-zones-not-following-perfect-meridian-circ)\n*   [Who were Lambert and Edson, mentioned in \"White-Jacket\" as examples of fat and lean men?](https://literature.stackexchange.com/questions/28617/who-were-lambert-and-edson-mentioned-in-white-jacket-as-examples-of-fat-and-l)\n*   [Did John Edwards misunderstand John 8:23?](https://christianity.stackexchange.com/questions/104827/did-john-edwards-misunderstand-john-823)\n*   [Liquid Pockets in Butter](https://cooking.stackexchange.com/questions/130049/liquid-pockets-in-butter)\n\n[more hot questions](https://ai.stackexchange.com/#)\n\n[Recent questions feed](https://ai.stackexchange.com/feeds \"The 30 most recent questions\")\n\nSubscribe to RSS\n================\n\nRecent questions feedTo subscribe to this RSS feed, copy and paste this URL into your RSS reader.\n\n[](https://ai.stackexchange.com/#)\n\n \n\n##### [Artificial Intelligence](https://ai.stackexchange.com/)\n\n*   [Tour](https://ai.stackexchange.com/tour)\n*   [Help](https://ai.stackexchange.com/help)\n*   [Chat](https://chat.stackexchange.com/?tab=site&host=ai.stackexchange.com)\n*   [Contact](https://ai.stackexchange.com/contact)\n*   [Feedback](https://ai.meta.stackexchange.com/)\n\n##### [Company](https://stackoverflow.co/)\n\n*   [Stack Overflow](https://stackoverflow.com/)\n*   [Teams](https://stackoverflow.co/teams/)\n*   [Advertising](https://stackoverflow.co/advertising/)\n*   [Talent](https://stackoverflow.co/advertising/employer-branding/)\n*   [About](https://stackoverflow.co/)\n*   [Press](https://stackoverflow.co/company/press/)\n*   [Legal](https://stackoverflow.com/legal)\n*   [Privacy Policy](https://stackoverflow.com/legal/privacy-policy)\n*   [Terms of Service](https://stackoverflow.com/legal/terms-of-service/public)\n*   Cookie Settings\n*   [Cookie Policy](https://stackoverflow.com/legal/cookie-policy)\n\n##### [Stack Exchange Network](https://stackexchange.com/)\n\n*   [Technology](https://stackexchange.com/sites#technology)\n*   [Culture & recreation](https://stackexchange.com/sites#culturerecreation)\n*   [Life & arts](https://stackexchange.com/sites#lifearts)\n*   [Science](https://stackexchange.com/sites#science)\n*   [Professional](https://stackexchange.com/sites#professional)\n*   [Business](https://stackexchange.com/sites#business)\n*   [API](https://api.stackexchange.com/)\n*   [Data](https://data.stackexchange.com/)\n\n*   [Blog](https://stackoverflow.blog/?blb=1)\n*   [Facebook](https://www.facebook.com/officialstackoverflow/)\n*   [Twitter](https://twitter.com/stackoverflow)\n*   [LinkedIn](https://linkedin.com/company/stack-overflow)\n*   [Instagram](https://www.instagram.com/thestackoverflow)\n\nSite design / logo © 2025 Stack Exchange Inc; user contributions licensed under [CC BY-SA](https://stackoverflow.com/help/licensing) . rev 2025.1.20.21248",
+  "usage": {
+    "tokens": 6671
+  }
+}
+```

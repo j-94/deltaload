@@ -1,0 +1,5 @@
+![Image 3](https://play.aryn.cloud/ArynPlayground.png)
+
+Enter your API key to continue to the Playground
+
+Don’t have an Aryn API key? [Sign up](https://www.aryn.ai/get-started)

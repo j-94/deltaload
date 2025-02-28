@@ -1,0 +1,587 @@
+[![Image 7](https://mattturck.com/wp-content/uploads/2024/03/firstmark-mad-landscape-open-graph_purple-1-1024x534.jpeg)](https://mattturck.com/wp-content/uploads/2024/03/firstmark-mad-landscape-open-graph_purple-1.jpeg)
+
+This is our **tenth annual landscape** and “state of the union” of the data, analytics, machine learning and AI ecosystem.
+
+In 10+ years covering the space, things have **never been as exciting and promising** as they are today.  All trends and subtrends we described over the years are **coalescing**: data has been digitized, in massive amounts; it can be stored, processed and analyzed fast and cheaply with modern tools; and most importantly, it can be fed to ever-more performing ML/AI models which can make sense of it, recognize patterns, make predictions based on it, and now generate text, code, images, sounds and videos.
+
+The MAD (ML, AI & Data) ecosystem has gone **from niche and technical, to mainstream**.  The **paradigm shift seems to be accelerating** with implications that go far beyond technical or even business matters, and impact society, geopolitics and perhaps the human condition.
+
+There are still many chapters to write in the multi-decade megatrend, however.  As every year, this post is an attempt at making sense of where we are currently, across products, companies and industry trends.
+
+Here are the prior versions: [2012](https://mattturck.com/a-chart-of-the-big-data-ecosystem/), [2014](https://mattturck.com/the-state-of-big-data-in-2014-a-chart/), [2016](https://mattturck.com/big-data-landscape/), [2017](https://mattturck.com/bigdata2017/), [2018](https://mattturck.com/bigdata2018/), 2019 ([Part I](https://mattturck.com/data2019/) and [Part II](https://mattturck.com/2019trends/)), [2020](https://mattturck.com/data2020/), [2021](https://mattturck.com/data2021/) and [2023](https://mattturck.com/mad2023/) ([Part I](https://mattturck.com/mad2023/), [Part II](https://mattturck.com/mad2023-part-ii/), [Part III](https://mattturck.com/mad2023-part-iii/), [Part IV](https://mattturck.com/mad2023-part-iv/)).
+
+Our team this year was Aman Kabeer and Katie Mills (FirstMark), Jonathan Grana (Go Fractional) and Paolo Campos, major thanks to all.  And a big thank you as well to CB Insights for providing the card data appearing in the interactive version.
+
+This annual state of the union post is organized in three parts:
+
+*   Part: I: The landscape (PDF, Interactive version)
+*   Part II: 24 themes we’re thinking about in 2024
+*   Part III: Financings, M&A and IPOs 
+
+**PART I:  THE LANDSCAPE**
+
+_**Links**_
+
+To see a **PDF** of the 2024 MAD Landscape in full resolution (please zoom!), please [CLICK HERE](https://mattturck.com/landscape/mad2024.pdf)
+
+To access the **interactive version** of the 2024 MAD landscape, please [CLICK HERE](https://mad.firstmark.com/)
+
+_**Number of companies**_
+
+The 2024 MAD landscape features **2,011 logos** in total.
+
+That number is up from 1,416 last year, with 578 new entrants to the map.
+
+For reference, the very first version in 2012 had just 139 logos.
+
+The **intensely (insanely?) crowded nature** of the landscape primarily r**esults from two back-to-back massive waves** of company creation and funding.
+
+The first wave was the 10-ish year long **data infrastructure cycle**, which started with Big Data and ended with the Modern Data Stack.  The long awaited consolidation in that space has not quite happened yet, and the vast majority of the companies are still around.
+
+The second wave is the **ML/AI** **cycle**, which started in earnest with Generative AI.  As we are in the early innings of this cycle, and most companies are very young, we have been liberal in including young startups (a good number of which are seed stage still) in the landscape.
+
+Note: those two waves are intimately related. A core idea of the MAD Landscape every year has been to show the **symbiotic relationship** between data infrastructure (on the left side); analytics/BI and ML/AI (in the middle) and applications (on the right side).
+
+While it gets harder every year to fit the ever-increasing number of companies on the landscape every year, but ultimately, the best way to think of the MAD space is as an _**assembly line**_ – a full lifecycle of data from collection to storage to processing to delivering value through analytics or applications.
+
+**Two big waves + limited consolidation = lots of companies** on the landscape.
+
+_Main changes in “Infrastructure”_ and “_Analytics_“
+
+We’ve made very few changes to the overall structure of the left side of the landscape – as we’ll see below (Is the Modern Data Stack dead?), this part of the MAD landscape has seen a lot less heat lately.
+
+Some noteworthy changes: We renamed “Database Abstraction” to **“Multi-Model Databases & Abstractions”**, to capture the rising wave around an all-in-one ‘Multi-Model’ database group (SurrealDB\*, EdgeDB); killed the **“Crypto / Web 3 Analytics”** section we experimentally created last year, which felt out of place in this landscape; and removed the **“Query Engine”** section, which felt more like a part of a section than a separate section (all the companies in that section still appear on the landscape – Dremio, Starburst, PrestoDB etc).
+
+_Main changes in “Machine Learning & Artificial Intelligence”_
+
+With the explosion of AI companies in 2023, this is where we found ourselves making by far the most structural changes.
+
+*   Given the tremendous activity in the ‘AI enablement’ layer in the last year, we added 3 new categories next to MLOps:
+    *   **“AI Observability”** is a new category this year, with startups that help test, evaluate and monitor LLM applications 
+    *   **“AI Developer Platforms”** is close in concept to MLOps but we wanted to  recognize the wave of platforms that are _wholly_ focused on AI application development, in particular around LLM training, deployment and inference
+    *   **“AI Safety & Security”** includes companies addressing concerns innate to LLMs, from hallucination to ethics, regulatory compliance, etc
+*   If the very public beef between Sam Altman and Elon Musk has told us anything, it’s that the distinction between commercial and nonprofit is a critical one when it comes to foundational model developers. As such, we have split what was previously “Horizontal AI/AGI” into two categories: **“Commercial AI Research”** and **“Nonprofit AI Research”**
+*   The final change we made was another nomenclature one, where we amended “GPU Cloud” to reflect the addition of core infrastructure feature sets made by many of the GPU Cloud providers: **“GPU Cloud / ML Infra”**
+
+_Main changes in “Applications”_
+
+*   The biggest update here is that…to absolutely no one’s surprise…every application-layer company is now a self-proclaimed “AI company” – which, as much as we tried to filter, drove the **explosion of new logos** you see on the right side of the MAD landscape this year
+*   Some minor changes on the structure side:
+    *   In “Horizontal Applications”, we added a **“Presentation & Design”** category
+    *   We renamed “Search” to **“Search / Conversational AI”** to reflect the rise of LLM-powered chat-based interface such as Perplexity.
+    *   In “Industry”, we rebranded “Gov’t & Intelligence” to **“Aerospace, Defense & Gov’t”** 
+
+_Main changes in “Open Source Infrastructure”_
+
+*   We merged categories that have always been close, creating a single **“Data Management”** category that spans both “Data Access” and “Data Ops”
+*   We added an important new category, **“Local AI”** as builders sought to provide the infrastructure tooling to bring AI & LLMs to the local development age
+
+**PART II: 24 THEMES WE’RE THINKING ABOUT IN 2024**
+
+Things in AI are both moving so fast, and getting so much coverage, that it is almost impossible to provide a fully comprehensive “state of the union” of the MAD space, as we did in prior years.
+
+So here’s for a different format: in no particular order, here are 24 themes that are top of mind and/or come up frequently in conversations.  Some are fairly fleshed out thoughts, some largely just questions or thought experiments.
+
+1.  **Structured vs unstructured data**
+
+This is partly a theme, partly something we find ourselves mentioning a lot in conversations to help explain the current trends.
+
+So, perhaps as an introduction to this 2024 discussion, here’s one important reminder upfront, which explains some of the key industry trends.  Not all data is the same.  At the risk of grossly over-simplifying, there are two main families of data, and around each family, a set of tools and use cases has emerged.
+
+*   **Structured data pipelines**: that is data that can fit into rows and columns.
+    *   For analytical purposes, data gets extracted from transactional databases and SaaS tools, stored in cloud data warehouses (like Snowflake), transformed, and analyzed and visualized using Business Intelligence (BI) tools, mostly for purposes of understanding the present and the past (what’s known as “descriptive analytics”).  That assembly line is often enabled by the Modern Data Stack discussed below, with analytics as the core use case.  
+    *   In addition, structured data can also get fed in “traditional” ML/AI models for purposes of predicting the future (predictive analytics) – for example, which customers are most likely to churn
+*   **Unstructured data pipelines**: that is the world of data that typically doesn’t fit into rows and columns such as text, images, audio and video.  Unstructured data is largely what gets fed in Generative AI models (LLMs, etc), both to train and use (inference) them. 
+
+Those two families of data (and the related tools and companies) are **experiencing very different fortunes** and levels of attention right now.
+
+Unstructured data (ML/AI) is hot; structured data (Modern Data Stack, etc) is not.
+
+2.  **Is the Modern Data Stack dead?**
+
+Not that long ago (call it, 2019-2021), there **wasn’t anything sexier** in the software world than the Modern Data Stack (MDS).  Alongside “Big Data”, it was one of the rare infrastructure concepts to have crossed over from data engineers to a broader audience (execs, journalists, bankers).
+
+The Modern Data Stack basically covered the kind of _structured_ data pipeline mentioned above. It gravitated around the fast-growing cloud data warehouses, with vendors positioned upstream from it (like Fivetran and Airbyte), on top of it (DBT) and downstream from it (Looker, Mode).
+
+As Snowflake emerged as the biggest software IPO ever, interest in the MDS exploded, with rabid, ZIRP-fueled company creation and VC funding.  Entire categories became **overcrowded** within a year or two – data catalogs, data observability, ETL, reverse ETL, to name a few.
+
+A real solution to a real problem, the Modern Data Stack was **also a marketing concept and a de-facto alliance** amongst a number of startups across the value chain of data.
+
+Fast forward to today, the situation is very different.  In 2023, we had [previewed](https://mattturck.com/mad2023-part-iii/) that the MDS was “under pressure”, and that **pressure will only continue to intensify** in 2024.
+
+The MDS is facing two key issues:
+
+*   Putting together a Modern Data Stack requires stitching together various best-of-breed solutions from multiple independent vendors.  As a result, it’s **costly** in terms of money, time and resources.  This is not looked upon favorably by the CFO office in a post ZIRP budget cut era
+*   The MDS is no longer the cool kid on the block.  **Generative AI has stolen all the attention** from execs, VCs and the press – and it requires the kind of _unstructured_ data pipelines we mentioned above. 
+
+Watch: MAD Podcast with [Tristan Handy, CEO, dbt Labs](https://www.youtube.com/watch?v=eCI1wtLw4Fo&t=624s) ([Apple](https://podcasts.apple.com/us/podcast/is-the-modern-data-stack-dead-with-dbt-labs-ceo-tristan-handy/id1686238724?i=1000646448155), [Spotify](https://open.spotify.com/episode/4gdZL4h6Ot4T4QflPZXhFl?si=a30893fa54b743c5))
+
+3.  **Consolidation in data infra, and the big getting bigger** 
+
+Given the above, **what happens next** in data infra and analytics in 2024?
+
+It may look something like this:
+
+*   Many startups in and around the Modern Data Stack will aggressively **reposition** **as “AI infra startups**” and try to find a spot in the Modern _AI_ Stack (see below). This will work in some cases, but going from structured to unstructured data may require a fundamental product evolution in most cases.
+*   The data infra industry will finally see some **consolidation**.  M&A has been fairly limited to date, but some acquisitions did happen in 2023, whether tuck-ins or medium-size acquisitions – including Stemma (acquired by Teradata), Manta (acquired by IBM), Mode (acquired by Thoughtspot), etc  (see PART III below)
+*   There will be a lot more **startup failure** – as VC funding dried up, things have gotten tough. Many startups have cut costs dramatically, but at some point their cash runway will end.  Don’t expect to see flashy headlines, but this will (sadly) happen. 
+*   The bigger companies in the space, whether scale-ups or public companies, will **double down on their platform play** and push hard to cover ever more functionality.  Some of it will be through acquisitions (hence the consolidation) but a lot of it will also be through homegrown development. 
+
+4.  **Checking in on Databricks vs Snowflake**
+
+Speaking of big companies in the space, let’s check in on the “titanic shock” (see our [MAD 2021](https://mattturck.com/data2021/) blog post) between the two key data infra players, Snowflake and Databricks.
+
+**Snowflake** (which historically comes from the _structured_ data pipeline world) remains an incredible company, and one of the highest valued public tech stocks (14.8x EV/NTM revenue as of the time of writing).  However, much like a lot of the software industry, its growth has dramatically slowed down – it finished fiscal 2024 with a 38% year-over-year product revenue growth, totaling $2.67 billion, projecting 22% NTM rev growth as of the time of writing).  Perhaps most importantly, Snowflake gives the impression of a company under pressure on the product front – it’s been **slower to embrace AI**, and comparatively less acquisitive. The recent, and somewhat abrupt, CEO transition is another interesting data point.
+
+**Databricks** (which historically comes from the _unstructured_ data pipeline and machine learning world) is experiencing all-around strong momentum, reportedly (as it’s still a private company) closing FY’24 with $1.6B in revenue with 50%+ growth.  Importantly, Databricks is **emerging as a key Generative AI player**, both through acquisitions (most notably, MosaicML for $1.3B) and homegrown product development – first and foremost as a key repository for the kind of unstructured data that feeds LLMs, but also as creator of models, from Dolly to DBRX, a new generative AI model the company just announced at the time of writing.
+
+The major new evolution in the Snowflake vs Databricks rivalry is the **launch of Microsoft Fabric**.  Announced in May 2023, it’s an end-to-end, cloud-based SaaS platform for data and analytics.  It integrates a lot of Microsoft products, including OneLake (open lakehouse), PowerBI and Synapse Data Science, and covers basically all data and analytics workflows, from data integration and engineering to data science.  As always for large company product launches, there’s a gap between the announcement and the reality of the product, but combined with Microsoft’s major push in Generative AI, this could become a formidable threat (as an additional twist to the story, Databricks largely sits on top of Azure).
+
+5.  **BI in 2024, and Is Generative AI about to transform data analytics?**
+
+Of all parts of the Modern Data Stack and structured data pipelines world, the category that has felt the most ripe for reinvention is Business Intelligence.  We highlighted in the [2019 MAD](https://mattturck.com/2019trends/) how the BI industry had almost entirely consolidated, and talked about the emergence of metrics stores in the [2021 MAD](https://mattturck.com/data2021/).
+
+The transformation of BI/analytics has been slower than we’d have expected.  The industry remains largely dominated by older products, Microsoft’s PowerBI, Salesforce’s Tableau and Google’s Looker, which sometimes get bundled in for free in broader sales contracts. Some more consolidation happened (Thoughtspot acquired Mode; Sisu was quietly acquired by Snowflake).  Some young companies are taking innovative approaches, whether scale-ups (see dbt and their semantic layer/MetricFlow) or startups (see Trace\* and their metrics tree), but they’re generally early in the journey.
+
+In addition to potentially playing a powerful role in data extraction and transformation, **Generative AI could have a profound impact in terms of superpowering and democratizing data analytics**.
+
+There’s certainly been a lot of activity.  OpenAI launched Code Interpreter, later renamed to Advanced Data Analysis.  Microsoft launched a Copilot AI chatbot for finance workers in Excel.  Across cloud vendors, Databricks, Snowflake, open source and a substantial group of startups, a lot of people are working on or have released “text to SQL” products, to help run queries into databases using natural language.
+
+The promise is both exciting and potentially disruptive.  The holy grail of data analytics has been its democratization.  Natural language, if it were to become the interface to notebooks, databases and BI tools, would enable a much broader group of people to do analysis.
+
+Many people in the BI industry are skeptical, however.  The precision of SQL and the nuances of understanding the business context behind a query are considered big obstacles to automation.
+
+6.  **The Rise of the Modern AI Stack**
+
+A lot of what we’ve discussed so far had to do with the world of _structured_ data pipelines.
+
+As mentioned, the world of _unstructured_ data infrastructure is experiencing a very different moment.  Unstructured data is what feeds LLMs, and there’s rabid demand for it.  Every company that’s experimenting or deploying Generative AI is rediscovering the old cliche: “data is the new oil”.  Everyone wants the power of LLMs, but trained on their (enterprise) data.
+
+Companies big and small have been rushing into the opportunity to provide the infrastructure of Generative AI.
+
+Several AI scale-ups have been aggressively evolving their offerings to capitalize on market momentum – everyone from Databricks (see above) to Scale AI (which evolved their labeling infrastructure, originally developed for the self-driving car market, to partner as an enterprise data pipeline with OpenAI and others) to Dataiku\* (which launched their LLM Mesh to enable Global 2000 companies to seamlessly work across multiple LLM vendors and models).
+
+Meanwhile a new generation of AI infra startups is emerging, across a number of domains, including:
+
+*   **Vector databases**, which store data in a format (vector embeddings) that Generative AI models can consume.  Specialized vendors (Pinecone, Weaviate, Chroma, Qudrant etc) have had a banner year, but some incumbent database players (MongoDB) were also quick to react and add vector search capabilities. There’s also an ongoing debate about whether longer context windows will obviate the need for vector databases altogether, with strong opinions on both sides of the argument.
+*   **Frameworks** (LlamaIndex, Langchain etc), which connect and orchestrate all the moving pieces 
+*   **Guardrails**, which sit between an LLM and users and make sure the model provides outputs that follow the organization’s rules.
+*   **Evaluators** which help test, analyze and monitor Generative AI model performance, a hard problem as demonstrated by the general distrust in public benchmarks
+*   **Routers**, which help direct user queries across different models in real time, to optimize performance, cost and user experience
+*   **Cost guards**, which help monitor the costs of using LLMs
+*   **Endpoints**, effectively APIs that abstract away the complexities of underlying infrastructure (like models)
+
+We’ve been resisting using the term “**Modern AI Stack**”, given the history of the Modern Data Stack.
+
+But the expression captures the many parallels: many of those startups are the “hot companies” of the day, just like MDS companies before them, they tend to **travel in pack**, forging marketing alliances and product partnerships.
+
+And this new generation of AI infra startups is going to face **some of the same challenges** as MDS companies before them: are any of those categories big enough to build a multi-billion dollar company? Which part will big companies (mostly cloud providers, but also Databricks and Snowflake) end up building themselves?
+
+WATCH – we have featured many emerging Modern AI Stack startups on the MAD Podcast:
+
+*   Vector databases:
+    *   MAD Podcast with [Edo Liberty, CEO, Pinecone](https://www.youtube.com/watch?v=QcWZR61VQ3w&t=50s) ([Apple](https://podcasts.apple.com/us/podcast/pinecone-long-term-memory-for-ai-with-ceo-edo-liberty/id1686238724?i=1000615143767), [Spotify](https://open.spotify.com/episode/66TvDEDSMaE2lil3SxhHPn?si=dc0437269a024847))
+    *   MAD Podcast with [Jeff Huber, CEO, Chroma](https://www.youtube.com/watch?v=NI0faK90TP4) ([Apple](https://podcasts.apple.com/us/podcast/chroma-programmable-ai-native-databases-with-co/id1686238724?i=1000618609313), [Spotify](https://open.spotify.com/episode/5IdsHT1h0okMZz5373hlLz?si=1c633d8225364744))
+    *   MAD Podcast with [Bob van Luijt, Weaviate](https://www.youtube.com/watch?v=CLQ-Al7RJjo) ([Apple](https://podcasts.apple.com/us/podcast/vector-databases-and-the-future-of-ai/id1686238724?i=1000645455458), [Spotify](https://open.spotify.com/episode/11BwLU15AYAstYE6WGktkJ?si=e65719f3a4874fb3))
+*   MAD Podcast with [Shreya Rajpal, CEO, Guardrails AI](https://www.youtube.com/watch?v=wp0H9WjeobU) ([Apple](https://podcasts.apple.com/us/podcast/guardrails-ai-deploying-generative-ai-safely-with-ceo/id1686238724?i=1000629378751), [Spotify](https://open.spotify.com/episode/2ngDSiFugH4ipWDu1KwL6o?si=ba39d797230e4115))
+*   MAD Podcast with [Jerry Liu, CEO, Llama Index](https://www.youtube.com/watch?v=T9VLheAzqlY) ([Apple](https://podcasts.apple.com/us/podcast/llamaindex-unleashing-llms-on-your-data-with-ceo-jerry-liu/id1686238724?i=1000620893361), [Spotify](https://open.spotify.com/episode/4vSIza8boj4TuXEDA9ivvK?si=80ca10a39aac4e36))
+*   MAD Podcast with [Sharon Zhou, CEO, Lamini](https://www.youtube.com/watch?v=d49jJEah8PE)  ([Apple](https://podcasts.apple.com/us/podcast/lamini-fine-tuning-llms-for-the-enterprise-with-ceo/id1686238724?i=1000634126769), [Spotify](https://open.spotify.com/episode/2eHB7ksQknTLHQ1Wx8Tipo?si=01bfc06da0b54edb))
+*   MAD Podcast with [Dylan Fox, CEO, Assembly AI](https://www.youtube.com/watch?v=DTghLFSUZ0A&t=25s) ([Apple](https://podcasts.apple.com/us/podcast/assembly-ai-generative-ai-for-speech-recognition-with/id1686238724?i=1000612489207), [Spotify](https://open.spotify.com/episode/66TvDEDSMaE2lil3SxhHPn?si=dc0437269a024847))
+
+7.  **Where are we in the AI hype cycle?**
+
+AI has a multi decade-long history of AI summers and winters.  Just in the last 10-12 years, this is the **third AI hype cycle we’ve experienced**: there was one in 2013-2015 after deep learning came to the limelight post ImageNet 2012; another one sometime around 2017-2018 during the chatbot boom and the rise of TensorFlow; and now since November 2022 with Generative AI.
+
+This hype cycle has been particularly intense, to the point of feeling like an AI bubble, for a number of reasons:  the technology is incredibly impressive; it is very visceral and crossed over to a broad audience beyond tech circles; and for VCs sitting on a lot of dry powder, it’s been the **only game in town** as just about everything else in technology has been depressed.
+
+Hype has brought all the usual benefits (“nothing great has ever been achieved without irrational exuberance”, “let a 1000 flowers bloom” phase, with lots of money available for ambitious projects) and noise (everyone is an AI expert overnight, every startup is an AI startup, too many AI conferences/podcasts/newsletters… and dare we say, too many AI market maps???).
+
+The main issue of any hype cycle is the **inevitable blowback**.
+
+There’s a fair amount of **“quirkiness” and risk built into this market phase**: the poster-child company for the space has a very unusual legal and governance structure; there are a lot of “compute for equity” deals happening (with potential round-tripping) that are not fully understood or disclosed; a lot of top startups are run by teams of AI researchers; and a lot of VC dealmaking is reminiscent of the ZIRP times: “land grabs”, big rounds and eye-watering valuations for very young companies.
+
+There certainly have been cracks in AI hype (see below), but we’re still in a phase where every week a new thing blows everyone’s minds. And news like the reported $40B Saudi Arabia AI fund seem to indicate that money flows into the space are not going to stop anytime soon.
+
+8.  **Experiments vs reality: was 2023 a headfake?** 
+
+Related to the above – given the hype, how much has been real so far, vs merely experimental?
+
+2023 was an action packed year: a) every tech vendor rushed to include Generative AI in their product offering, b) every Global 2000 board mandated their teams to “do AI”, and some enterprise deployments happened a record speed, including at companies in regulated industries like Morgan Stanley and Citibank and c) of course, consumers showed rabid interest for Generative AI apps.
+
+As a result, 2023 was a year of big wins: OpenAI reached $2B in annual run rate; Anthropic grew at a pace that allowed it to forecast $850M in revenues for 2024; Midjourney grew to $200M in revenue with no investment and a team of 40; Perplexity AI went from 0 to 10 million monthly active users, etc.
+
+Should we be cynical? Some concerns:
+
+*   In the enterprise, a lot of the spend was on proof of concepts, or easy wins, often coming out of innovation budgets.  
+*   How much was driven by executives wanting to not appear flat-footed, vs solving actual business problems?
+*   In consumer, AI apps show high churn. How much was it mere curiosity? 
+*   Both in their personal and professional lives, many report not being entirely sure what to do with Generative AI apps and products 
+*   Not all Generative AI products, even those built by the best AI minds, are going to be magical: should we view Inflection AI’s decision to fold quickly, after raising $1.3B, as an admission that the world doesn’t need yet another AI chatbot, or even LLM provider?
+
+9.  **LLM companies: maybe not so commoditized after all?**
+
+**Billions of venture capital and corporate money** are being invested in foundational model companies.
+
+Hence everyone’s favorite question in the last 18 months: are we witnessing a **phenomenal incineration of capital** **into ultimately commoditized products?** Or are those LLM providers the new AWS, Azure and GCP?
+
+A troubling fact (for the companies involved) is that **no LLM seems to be building a durable performance advantage.**  At the time of writing, Claude 3 Sonnet and Gemini Pro 1.5 perform better than GPT-4 which performs better than Gemini 1.0 Ultra, and so on and so forth – but this seems to change every few weeks.  Performance also can fluctuate – ChatGPT at some point “lost its mind” and “got lazy”, temporarily.
+
+In addition, open source models (Llama 3, Mistral and others like DBRX) are quickly catching up in terms of performance.
+
+Separately – there are **a lot more LLM providers** on the market than could have appeared at first. A couple of years ago, the prevailing narrative was that there could be only one or two LLM companies, with a winner-take-all dynamic – in part because there was a tiny number of people around the world with the necessary expertise to scale Transformers.
+
+It turns out there are **more capable teams than first anticipated**.  Beyond OpenAI and Anthropic, there are a number of startups doing foundational AI work – Mistral, Cohere, Adept, AI21, Imbue, 01.AI to name a few – and then of course the teams at Google, Meta, etc.
+
+Having said that – so far the LLM providers seem to be doing just fine. OpenAI and Anthropic revenues are growing at extraordinary rates, thank you very much. Maybe the LLM _models_ do get commoditized, the LLM _companies_ still have an immense business opportunity in front of them.  They’ve already become “**full stack**” companies, offering applications and tooling to multiple audiences (consumer, enterprise, developers), on top of the underlying models.
+
+Perhaps the analogy with cloud vendors is indeed pretty apt.  AWS, Azure and GCP attract and retain customers through an application/tooling layer and monetize through a compute/storage layer that is largely undifferentiated.
+
+WATCH:
+
+*   MAD Podcast with [Ori Goshen, co-founder, AI21 Labs](https://www.youtube.com/watch?v=4RTcpUgtZwY)
+*   MAD Podcast with [Kanjun Qiu, CEO, Imbue](https://www.youtube.com/watch?v=lUz6-A1aA4c)
+
+10.  **LLMs, SLMs and a hybrid future**
+
+For all the excitement about _Large_ Language Models, one clear trend of the last few months has been the acceleration of **small language models** (SLMs), such as Llama-2-13b from Meta, Mistral-7b and Mixtral 8x7b from Mistral and Phi-2 and Orca-2 from Microsoft.
+
+While the LLMs are getting ever bigger (GPT-3 reportedly having 175 billion parameters, GPT-4 reportedly having 1.7 trillion, and the world waiting for an even more massive GPT-5), SLMs are becoming a strong alternative for many use cases are they are cheaper to operate, easier to finetune, and often offer strong performance.
+
+Another trend accelerating is the rise of **specialized models**, focused on specific tasks like coding (Code-Llama, Poolside AI) or industries (e.g. Bloomberg’s finance model, or startups Orbital Materials building models for material sciences, etc).
+
+As we are already seeing across a number of enterprise deployments, the world is quickly **evolving towards hybrid architectures**, combining multiple models.
+
+Although prices have been going down (see below), big proprietary LLMs are still very expensive, experience latency problems, and so users/customers will increasingly be deploying combinations of models, big and small, commercial and open source, general and specialized, to meet their specific needs and cost constraints.
+
+Watch: MAD Podcast with [Eiso Kant, CTO, Poolside AI](https://www.youtube.com/watch?v=y6pAPwcbM4I)  ([Apple](https://podcasts.apple.com/us/podcast/poolside-ai-for-software-development-with-cto-eiso-kant/id1686238724?i=1000639233638), [Spotify](https://open.spotify.com/episode/325MkI0M7Z3SqllrXUrAwO?si=334acd91b5fb4560))
+
+11.  **Is traditional AI dead?**
+
+A funny thing happened with the launch of ChatGPT: **much of the AI that had been deployed up until then got labeled overnight as “Traditional AI”**, in contrast to “Generative AI”.
+
+This was a little bit of a shock to many AI practitioners and companies that up until then were considered to be doing leading-edge work, as the term “traditional” clearly suggests an impending wholesale replacement of all forms of AI by the new thing.
+
+The reality is a lot more nuanced.  Traditional AI and Generative AI are **ultimately very complementary as they tackle different types of data and use cases**.
+
+What is now labeled as “traditional AI”, or occasionally as “predictive AI” or “tabular AI”, is also very much part of modern AI (deep learning based).  However, it generally focuses on structured data (see above), and problems such as recommendations, churn prediction, pricing optimization, inventory management.  “Traditional AI” has experienced tremendous adoption in the last decade, and it’s already deployed at scale in production in thousands of companies around the world.
+
+In contrast, Generative AI largely operates on unstructured data (text, image, videos, etc.). Is exceptionally good at a different class of problems (code generation, image generation, search, etc).
+
+Here as well, the future is **hybrid**: companies will use LLMs for certain tasks, predictive models for other tasks.  Most importantly, they will **often combine them** –  LLMs may not be great at providing a precise prediction, like a churn forecast, but you could use an LLM that calls on the output of another model which is focused on providing that prediction, and vice versa.
+
+12.  **Thin wrappers, thick wrappers and the race to be full stack**
+
+“Thin wrappers” was the dismissive term everyone loved to use in 2023.  It’s hard to build long lasting value and differentiation if your core capabilities are provided by someone else’s technology (like OpenAI), the argument goes. And reports a few months ago that startups like Jasper were running into difficulties, after experiencing a meteoric revenue rise, seem to corroborate that line of thinking.
+
+The interesting question is what happens over time, as young startups build more functionality. Do thin wrappers **_become thick wrappers_**?
+
+In 2024, it feels like thick wrappers have a path towards differentiation by:
+
+*   Focusing on a specific problem, often vertical – as anything too horizontal runs the risk of being in the “kill zone” of Big Tech
+*   Building workflow, collaboration and deep integrations, that are specific to that problem
+*   Doing a lot of work at the AI model level – whether finetuning models with specific datasets or creating hybrid systems (LLMs, SLMs, etc) tailored for their specific business 
+
+In other words, they will need to be both narrow and “**full stack**” (both applications and infra).
+
+13.  **Interesting areas to watch in 2024: AI agents, Edge AI**  
+
+There’s been plenty of excitement over the last year around the concept of AI agents – basically the last mile of an intelligent system that can execute tasks, often in a collaborative manner.   This could be anything from helping to book a trip (consumer use case) to automatically running full SDR campaigns (productivity use case) to RPA-style automation (enterprise use case).
+
+AI agents are the **holy grail of automation – a “text to action” paradigm** where AI just gets stuff done for us.
+
+Every few months, the AI world goes crazy for an agent-like product, from BabyAGI last year to Devin AI (an “AI software engineer”) just recently.  However, in general, much of this excitement has proven **premature** to date.  There’s a lot of work to be done first to make Generative less brittle and more predictable, before complex systems involving several models can work together and take actual actions on our behalf.  There are also missing components – such as the need to build more **memory** into AI systems. However, expect AI agents to be a particularly exciting area in the next year or two.
+
+Another interesting area is **Edge AI**.  As much as there is a huge market for LLMs that run at massive scale and delivered as end points, a holy grail in AI has been models that can run locally on a device, without GPUs, in particular phones, but also intelligent, IoT-type devices.  The space is very vibrant: Mixtral, Ollama, Llama.cpp, Llamafile, GPT4ALL (Nomic).  Google and Apple are also likely to be increasingly active.
+
+14.  **Is Generative AI heading towards AGI, or towards a plateau?**
+
+It’s almost a **sacrilegious question** to ask given all the breathless takes on AI, and the incredible new products that seem to come out every week – but is there a world where progress in Generative AI slows down rather than accelerates all the way to AGI? And what would that mean?
+
+The argument is twofold: a) foundational models are a **brute force exercise**, and we’re going to run out of resources (compute, data) to feed them, and b) even if we don’t run out, ultimately the **path to AGI is reasoning, which LLMs are not capable of doing**.
+
+Interestingly, this is more or less the same discussion as the industry was having 6 years ago, as we described in a [2018 blog post](https://mattturck.com/frontierai/).  Indeed what seems to have changed mostly since 2018 is the sheer amount of data and compute we’ve thrown at (increasingly capable) models.
+
+How much progress we’ve made in AI reasoning is less clear, overall – although DeepMind’s program AlphaGeometry seems to be an important milestone, as it combines a language model with a symbolic engine, which logical rules to make deductions.
+
+How close we are from any kind of “running out” of compute or data is very hard to assess.
+
+The frontier for “running out of compute” seems to be pushed back further every day. NVIDIA’s recently announced Blackwell GPU system, and the company says it can deploy a 27 trillion parameter model (vs 1.7 trillion for GPT-4).
+
+The data part is complex – there’s a more tactical question around running out of legally licensed data (see all the OpenAI licensing deals), and a broader question around running out of textual data, in general.  There is certainly a lot of work happening around synthetic data.  Yann LeCun [discussed](https://twitter.com/tomosman/status/1750825884020338902) how taking models to the next level would probably require them to be able to ingest much richer video input, which is not yet possible.
+
+There’s a **tremendous amount of expectations on GPT-5**. How much better it will be than GPT-4 will be widely viewed as a bellwether of the overall pace of progress in AI.
+
+From the narrow perspective of participants in the startup ecosystem (founders, investors), perhaps the question matters less, in the medium term – if progress in Generative AI reached an asymptote tomorrow, we’d still have years of business opportunity ahead deploying what we currently have across verticals and use cases.
+
+15.  **The GPU wars (is NVIDIA overvalued?)** 
+
+Are we in the early innings of a massive cycle where compute becomes the most precious commodity in the world, or dramatically over-building GPU production in a way that’s sure to lead to a big crash?
+
+As pretty much the only game in town when it comes to Generative AI-ready GPUs, NVIDIA certainly has been having quite the moment, with a share price up five-fold to a $2.2 trillion valuation, and total sales three-fold since late 2022, massive excitement around its earnings and Jensen Huang at GTC [rivaling Taylor Swift](https://x.com/mattturck/status/1769696451448262837?s=20) for the biggest event of 2024.
+
+Perhaps this was also in part because it was  the ultimate beneficiary of all the billions invested by VCs in AI?
+
+> Generative AI investing: a process by which venture capital firms transfer large amounts of money to NVIDIA via intermediaries known as “startups”
+> 
+> — Matt Turck (@mattturck) [June 14, 2023](https://twitter.com/mattturck/status/1668961931602939904?ref_src=twsrc%5Etfw)
+
+Regardless, for all its undeniable prowess as a company, NVIDIA’s fortunes will be tied to how sustainable the current gold rush will turn out to be. Hardware is hard, and predicting with accuracy how many GPUs need to be manufactured by TSMC in Taiwan is a difficult art.
+
+In addition, competition is trying its best to react, from AMD to Intel to Samsung; startups (like Groq or Cerebras) are accelerating, and new ones may be formed, like Sam Altman’s rumored $7 trillion chip company.  A new coalition of tech companies including Google, Intel and Qualcomm is trying to go after NVIDIA’s secret weapon: its CUDA software that keeps developers tied to Nvidia chips.
+
+Our take: As the GPU shortage subsides, there may be short-to medium term downward pressure on NVIDIA, but the long term for AI chips manufacturers remains incredibly bright.
+
+16.  **Open source AI: too much of a good thing?**
+
+This one is just to stir a pot a little bit.  We’re huge fans of open source AI, and clearly this has been a big trend of the last year or so.  Meta made a major push with its Llama models, France’s Mistral went from controversy fodder to new shining star of Generative AI, Google released Gemma, and HuggingFace continued its ascension as the ever so vibrant home of open source AI, hosting a plethora of models.  Some of the most innovative work in Generative AI has been done in the open source community.
+
+However, there’s also a general feeling of **inflation permeating the open source community**.  Hundreds of thousands of open source AI models are now available.  Many are toys or weekend projects. Models go up and down the rankings, some of them experiencing meteoric rises by Github star standards (a flawed metric, but still) in just a few days, only to never transform into anything particularly usable.
+
+The market will be self-correcting, with a power law of successful open-source projects that will get disproportionate support from cloud providers and other big tech companies. But in the meantime, the current explosion has been dizzying to many.
+
+17.  **How much does AI actually cost?**  
+
+The economics of Generative AI is a fast-evolving topic.  And not surprisingly, a lot of the future of the space revolves around it – for example, can one seriously challenge Google in search, if the cost of providing AI-driven answers is significantly higher than the cost of providing ten blue links?  And can software companies truly be AI-powered if the inference costs eat up chunks of their gross margin?
+
+The good news, if you’re a customer/user of AI models: we seem to be in the early phase of a **race to the bottom** on the price side, which is happening faster than one may have predicted. One key driver has been the parallel rise of open source AI (Mistral etc) and commercial inference vendors (Together AI, Anyscale, Replit) taking those open models and serving them as end points.  There are very little switching costs for customers (other than the complexity of working with different models producing different results), and this is putting pressure on OpenAI and Anthropic.  An example of this has been the significant cost drops for embedding models where multiple vendors (OpenAI, Together AI etc) dropped prices at the same time.
+
+From a vendor perspective, the costs of building and serving AI remain very high. It was reported in the press that Anthropic spent more than half of the revenue it generated paying cloud providers like AWS and GCP to run its LLMs. There’s the cost of licensing deals with publishers as well
+
+On the plus side, maybe all of us as users of Generative technologies should just enjoy the explosion of VC-subsidized free services:
+
+> VCs brought you cheap Ubers
+> 
+> VCs brought you cheap Airbnbs
+> 
+> VCs are bringing you cheap AI inference
+> 
+> YOU'RE WELCOME
+> 
+> — Matt Turck (@mattturck) [January 26, 2024](https://twitter.com/mattturck/status/1751021294831763907?ref_src=twsrc%5Etfw)
+
+Watch: MAD Podcast with [Brandon Duderstadt and Zach Nussbaum, Nomic](https://www.youtube.com/watch?v=Tv5XccCrHvA&t=106s)
+
+18.  **Big companies and the shifting political economy of AI: Has Microsoft won?**
+
+This was one of the first questions everyone asked in late 2022, and it’s even more top of mind in 2024: will Big Tech capture most of the value in Generative AI?
+
+**AI rewards size** – more data, more compute, more AI researchers tends to yield more power.  Big Tech has been keenly aware of this. Unlike incumbents in prior platform shifts, it has also been intensely reactive to the potential disruption ahead.
+
+Among Big Tech companies, it certainly feels like **Microsoft has been playing 4-D chess**.  There’s obviously the relationship with OpenAI, in which Microsoft first invested in 2019, and has now backed to the tune of $13B. But Microsoft also partnered with open source rival Mistral.  It invested in ChatGPT rival Inflection AI (Pi), only to acqui-hire it in spectacular fashion recently.
+
+And ultimately, all those partnerships seem to **only create more need for Microsoft’s cloud compute** – Azure revenue grew 24% year-over-year to reach $33 billion in Q2 2024, with 6 points of Azure cloud growth attributed to AI services.
+
+> In case you’re confused:
+> 
+> Microsoft is the biggest investor in OpenAI but also a competitor to OpenAI and an investor in competitor chatbot Inflection AI – meanwhile Microsoft is also a key partner, but also a competitor, to Databricks with Azure AI
+> 
+> Hope this clarifies
+> 
+> — Matt Turck (@mattturck) [November 7, 2023](https://twitter.com/mattturck/status/1721971979266171209?ref_src=twsrc%5Etfw)
+
+Meanwhile, Google and Amazon have partnered with and invested in OpenAI rival Anthropic (at the time of writing, Amazon just committed another $2.75B to the company, in the 2nd tranche of its planned $4B investment).  Amazon also partnered with open source platform Hugging Face.  Google and Apple are reportedly discussing an integration of Gemini AI in Apple products.  Meta is possibly under-cutting everyone by going full hog on open source AI.  Then there is everything happening in China.
+
+The obvious question is how much room there is for startups to grow and succeed.  A first tier of startups (OpenAI and Anthropic, mainly, with perhaps Mistral joining them soon) seem to have struck the right partnerships, and reached escape velocity.  For a lot of other startups, including very well funded ones, the jury is still very much out.
+
+Should we read in Inflection AI’s decision to let itself get acquired, and Stability AI’s CEO troubles, an admission that **commercial traction has been harder to achieve** for a group of **“second tier” Generative AI startups**?
+
+19.  **Fanboying OpenAI – or not?**
+
+OpenAI continues to fascinate – the $86B valuation, the revenue growth, the palace intrigue, and Sam Altman being the Steve Jobs of this generation:
+
+A couple of interesting questions:
+
+_Is OpenAI trying to do too much?_ Before all the November drama, there was the OpenAI Dev Day, during which OpenAI made it clear that it was going to do \*everything\* in AI, both vertically (full stack) and horizontally (across use cases): models + infrastructure + consumer search + enterprise + analytics + dev tools + marketplace, etc.  It’s not an unprecedented strategy when a startup is an early leader in a big paradigm shift with de facto unlimited access to capital (Coinbase sort of did it in crypto). But it will be interesting to watch: while it would [certainly simplify the MAD Landscape](https://x.com/mattturck/status/1721671866882916720?s=20), it’s going to be a formidable execution challenge, particularly in a context where competition has intensified.  From ChatGPT laziness issues to the underwhelming performance of its marketplace effort suggest that OpenAI is not immune to the business law of gravity.
+
+_Will OpenAI and Microsoft break up?_ The relationship with Microsoft has been fascinating – obviously Microsoft’s support has been a huge boost for OpenAI in terms of resources (including compute) and distribution (Azure in the enterprise), and the move was widely viewed as a master move by Microsoft in the early days of the Generative AI wave.  At the same time, as just mentioned above, Microsoft has made it clear that it’s not dependent on OpenAI (has all the code, weights, data), it has partnered with competitors (e.g. Mistral), and through the Inflection AI acqui-hire it now has considerably beefed up its AI research team.
+
+Meanwhile, will OpenAI want to continue being single threaded in a partnership with Microsoft, vs being deployed on other clouds?
+
+Given OpenAI’s massive ambitions, and Microsoft aim at global domination, at what point do both companies conclude that they’re more competitors than partners?
+
+20.  **Will 2024 be the year of AI in the enterprise?** 
+
+As mentioned above, 2023 in the enterprise (defined, directionally, as Global 2000 companies) felt like one of those pivotal years where everyone scrambles to embrace a new trend, but nothing much actually happens.
+
+There were some proof-of-concepts, and adoption of discreet AI products that provide “quick wins” without requiring a company-wide effort (e.g., AI video for training and enterprise knowledge, like Synthesia\*).
+
+Beyond those, perhaps the biggest winners of Generative AI in the enterprise so far have been the Accentures of the world (Accenture reportedly generated $2B in fees for AI consulting last year).
+
+> Big winners of the AI craze so far: consultants.
+> 
+> — Matt Turck (@mattturck) [May 12, 2023](https://twitter.com/mattturck/status/1657063011452846082?ref_src=twsrc%5Etfw)
+
+Regardless, there’s tremendous hope that 2024 is going to be a big year for AI in the enterprise – or at least for _Generative_ AI, as traditional AI already has a significant footprint there already (see above).
+
+But we’re early in answering some of the key questions Global 2000-type companies face:
+
+_What are the use cases?_ The low hanging fruit use cases so far have been mostly a) code generation co-pilots for developer teams, b) enterprise knowledge management (search, text summarization, translation, etc), and c) AI chatbots for customer service (a use case that pre-dates Generative AI).  There are certainly others (marketing, automated SDRs etc) but there’s a lot to figure out (co-pilot mode vs full automation etc).
+
+_What tools should we pick?_ As per the above, it feels like the future is hybrid, a combination of commercial vendors and open source, big and small models, horizontal and vertical GenAI tools. But where does one start?
+
+_Who will be deploying and maintaining the tools?_ There is a **clear skill shortage** in Global 2000 companies. If you thought recruiting software developers was hard, just try to recruit machine learning engineers.
+
+_How do we make sure they don’t hallucinate?_ Yes there’s a tremendous amount of work being done around RAG and guardrails and evaluations etc, but the possibility that a Generative AI tool may be plain wrong, and the broader question that we don’t _really_ know how Generative AI models work, are big problems in the enterprise.
+
+_What is the ROI?_ Large tech companies have been early in leveraging Generative AI for their own needs, and they’re showing interesting early data.  In their earnings call, Palo Alto Networks mentioned roughly halving the cost of their T&E servicing, and ServiceNow mentioned increasing our developer innovation speed by 52%, but we’re early in understanding the cost / return equation for Generative AI in the enterprise.
+
+The good news for Generative AI vendors is that there’s plenty of interest from enterprise customers to allocate budget (importantly, no longer “innovation” budgets but actual  OpEx budget, possibly re-allocated from other places) and resources to figuring it out.  But we’re probably talking about a 3-5 year deployment cycle, rather than one.
+
+WATCH:
+
+*   MAD Podcast with [Florian Douetteau, CEO, Dataiku](https://www.youtube.com/watch?v=1PoZ5uAIb4U) ([Apple](https://podcasts.apple.com/us/podcast/2024-will-be-the-year-of-generative-ai-in-production/id1686238724?i=1000649853780), [Spotify](https://open.spotify.com/episode/0GDlrh7sHpKCtihf8jEJ5m?si=sx7dqLZ1TNyf4hTpxY1hBw))
+*   MAD Podcast with [Victor Riparbelli, CEO, Synthesia](https://www.youtube.com/watch?v=osEKONNEJY8) ([Apple](https://podcasts.apple.com/us/podcast/synthesia-creating-video-with-generative-ai-with-ceo/id1686238724?i=1000621627099), [Spotify](https://open.spotify.com/episode/1pWiefWOq25n3L0xzMCpsO?si=AXqbaHenS1ujzzotuOCW6A))
+*   MAD Podcast with [Mike Murchison, CEO, Ada](https://www.youtube.com/watch?v=Yg2po04VGuM) ([Apple](https://podcasts.apple.com/us/podcast/ada-ai-first-customer-service-with-ceo-mike-murchison/id1686238724?i=1000622387990), [Spotify](https://open.spotify.com/episode/3U7B494T96khT9ANfmm1Eh?si=5ERHCPlLT5SBZNnC2z3Wcw))
+
+21.  **Is AI going to kill SaaS?**
+
+This was one of the trendy ideas of the last 12 months.
+
+One version of the question: AI makes it 10x to code, so with just a few average developers, you’ll be able to create a custom-made version of a SaaS product, tailored to your needs.  Why pay a lot of money to a SaaS provider when you can build your own.
+
+Another version of the question: the future is one AI intelligence (possibly made of several models) that runs your whole company with a series of agents.  You no longer buy HR software, finance software or sales software because the AI intelligence does everything, in a fully automated and seamless way.
+
+We seem to be somewhat far away from both of those trends actually happening in any kind of full-fledged manner, but as we all know, things change very fast in AI.
+
+In the meantime, it feels like a likely version of the future is that SaaS products are going to become more powerful as AI gets built into every one of them.
+
+22.  **Is AI going to kill venture capital?**
+
+Leaving aside the (ever-amusing) topic of whether AI could automate venture capital, both in terms of company selection, and post-investment value-add, there’s an interesting series of questions around whether the asset class is correctly-sized for the AI platform shift:
+
+_Is Venture Capital too small?_  The OpenAIs of the world have needed to raise billions of dollars, and may need to raise many more billions.  A lot of those billions have been provided by big corporations like Microsoft – probably in large part in the form of compute-for-equity deals, but not only.  Of course, many VCs have also invested in big foundational model companies, but at a minimum, those investments in **highly capital-intensive startups** are a clear departure from the traditional VC software investing model.  Perhaps AI investing, at least when it comes to LLM companies, is going to require mega-sized VC funds – at the time of writing, Saudi Arabia seems to be about to launch a $40B AI fund in collaboration with US VC firms.
+
+_Is Venture Capital too big?_  If you believe that AI is going to 10x our productivity, including super coders and automated SDR agents and automated marketing creation, then we’re about to witness the birth of a whole generation of fully-automated companies run by skeleton teams (or maybe just one solo-preneur) that could theoretically reach hundreds of millions in revenues (and go public)? Does **a $100M ARR company run by a solopreneur need venture capital ?**
+
+Reality is always more nuanced, but if one believes real value creation will happen either at the foundation model layer or at the application layer, there’s a world where the venture capital asset class, as it exists today, gets uncomfortably barbelled .
+
+23.  **Will AI revive consumer?**
+
+Consumer has been looking for its next wind since the social media and mobile days.  Generative AI may very well be it.
+
+As a particularly exciting example, MidJourney emerged seemingly out of nowhere with somewhere between $200M and $300M, and it’s presumably vastly profitable given it has a small team (40-60 people depending on who you ask).
+
+Some interesting areas (among many others):
+
+_Search_: for the first time in decades, Google’s search monopoly has some early, but credible competitors.  A handful of startups like Perplexity AI and You.com are leading the evolution f**rom search engines to answer engines**.
+
+_AI companions_: beyond the dystopian aspects, what if every human had an infinitely patient and helpful companion attuned to one’s specific needs, whether for knowledge, entertainment or therapy
+
+> Surprisingly controversial take: hyper-personalized companion AI that can be your best friend and/or an always-on therapist is not dystopian, and instead a major net positive for humanity that will lead to less loneliness, violence and perhaps wars.
+> 
+> — Matt Turck (@mattturck) [December 17, 2023](https://twitter.com/mattturck/status/1736465894379827455?ref_src=twsrc%5Etfw)
+
+_AI hardware_: Humane, Rabbit, VisionPro are exciting entries in consumer hardware
+
+_Hyper-personalized entertainment_: what new forms of entertainment and art will we invent as Generative AI powered tools keep getting better (and cheaper)?
+
+> Movie watching experience:
+> 
+> 2005: go to a movie theater
+> 
+> 2015: stream Netflix
+> 
+> 2025: ask LLM + text-to-video to create a new season of Narcos to watch tonight, but have it take place in Syria with Brad Pitt, Mr Beast and Travis Kelce in the leading roles
+> 
+> — Matt Turck (@mattturck) [February 15, 2024](https://twitter.com/mattturck/status/1758269761211777077?ref_src=twsrc%5Etfw)
+
+Watch:
+
+*   MAD Podcast with [Aravind Srinivas, CEO, Perplexity AI](https://www.youtube.com/watch?v=RTCVzZb3RTE&t=136s) (Apple, Spotify)
+*   MAD Podcast with [Richard Socher, CEO, You.com](https://www.youtube.com/watch?v=9YULS8a6XPs) (Apple, Spotify)
+*   MAD Podcast with [Cris Valenzuela, CEO, Runway](https://www.youtube.com/watch?v=8Gqt9U-0QkU&t=9s) (Apple, Spotify)
+
+24.  **AI and blockchain: BS, or exciting?**
+
+I know, I know.  The intersection of AI and crypto feels like perfect fodder for X/Twitter jokes.
+
+However, it is an undeniable concern that AI is getting centralized in a handful of companies that have the most compute, data and AI talent – from Big Tech to the famously-not-open OpenAI.  Meanwhile, the very core of the blockchain proposition is to enable the creation of decentralized networks that allow participants to share resources and assets.  There is fertile ground for exploration there, a topic we started exploring years ago ([presentation](https://mattturck.com/ai-blockchain/)).
+
+A number of AI-related crypto projects have experienced noticeable acceleration, including Bittensor\* (decentralized machine intelligence platform), Render (decentralized GPU rendering platform), Arweave (decentralized data platform).
+
+While we didn’t include a crypto section in this year’s MAD Landscape, this is an interesting area to watch.
+
+Now, as always, the question is whether the crypto industry will be able to help itself, and not devolve into hundreds of AI-related memecoins, pump-and-dump schemes and scams.
+
+**BONUS: Other topics we did not discuss here:**
+
+*   Will AI kill us all? AI doomers vs AI accelerationists
+*   Regulation, privacy, ethics, deep fakes
+*   Can AI only be “made” in SF?
+
+> "All AI is in San Francisco", as demonstrated by the fact that everyone is obsessed with a Paris startup
+> 
+> — Matt Turck (@mattturck) [February 27, 2024](https://twitter.com/mattturck/status/1762274957327843454?ref_src=twsrc%5Etfw)
+
+**PART III:  FINANCINGS, M&A AND IPOS**
+
+**Financings**
+
+The current financing environment is one of the “tale of two markets” situations, where there’s AI, and everything else.
+
+The overall funding continued to falter, declining 42% to $248.4B in 2023.  The first few months of 2024 are showing some possible green shoots, but as of now the trend has been more or less the same.
+
+Data infrastructure, for all the reasons described above, saw very little funding activity, with Sigma Computing and Databricks being some of the rare exceptions.
+
+Obviously, AI was a whole different story.
+
+The inescapable characteristics of the AI funding market have been:
+
+*   A large concentration of capital in a handful of startups, in particular OpenAI, Anthropic, Inflection AI, Mistral, etc.
+*   A disproportionate level of activity from corporate investors. The 3 most active AI investors in 2023 were Microsoft, Google and NVIDIA
+*   Some murkiness in the above corporate deals about what amount is actual cash, vs “compute for equity” 
+
+Some noteworthy deals since our 2023 MAD, in rough chronological order (not an exhaustive list!):
+
+**OpenAI**, a (or the?) foundational model developer, raised $10.3B across two rounds, now valued at $86B; **Adept**, another foundational model developer, raised $350M at a $1B valuation; **AlphaSense**, a market research platform for financial services, raised $475M across two rounds, now valued at $2.5B, **Anthropic**, yet another foundational model developer, raised $6.45B over three rounds, at a $18.4B valuation; **Pinecone**, a vector database platform, raised $100M at a $750M valuation; **Celestial AI**, an optical interconnect technology platform for memory and compute, raised $275M across two rounds; **CoreWeave**, a GPU Cloud provider, raised $421M at a $2.5B valuation; **Lightmatter**, developer of a light-powered chip for computing, raised $308M across two rounds, now valued at $1.2B; **Sigma Computing**, a cloud-hosted data analytics platform, raised $340M at a $1.1B valuation; **Inflection**, another foundational model developer, raised $1.3B at a $4B valuation; **Mistral**, a foundational model developer, raised $528M across two rounds, now valued at $2B; **Cohere**, (surprise) a foundational model developer, raised $270M at a $2B valuation; **Runway**, a generative video model developer, raised $191M at a $1.5B valuation; **Synthesia\***, a video generation platform for enterprise, raised $90M at a $1B valuation; **Hugging Face**, a machine learning and data science platform for working with open source models, raised $235M at a $4.5B valuation; **Poolside**, a foundational model developer specifically for code generation and software development, raised $126M; **Modular**, an AI development platform, raised $100M at a $600M valuation; **Imbue**, an AI agent developer, raised $212M; **Databricks**, provider of data, analytics and AI solutions, raised $684M at a $43.2B valuation; **Aleph Alpha**, another foundational model developer, raised $486M; **AI21 Labs**, a foundational model developer, raised $208M at a $1.4B valuation; **Together**, a cloud platform for generative AI development, raised $208.5M across two rounds, now valued at $1.25B; **VAST Data**, a data platform for deep learning, raised $118M at a $9.1B valuation; **Shield AI**, an AI pilot developer for the aerospace and defense industry, raised $500M at a $2.8B valuation; **01.ai**, a foundational model developer, raised $200M at a $1B valuation; **Hadrian**, a manufacturer of precision component factories for aerospace and defense, raised $117M; **Sierra AI**, an AI chatbot developer for customer service / experience, raised $110M across two rounds; **Glean**, an AI-powered enterprise search platform, raised $200M at a $2.2B valuation; **Lambda Labs**, a GPU Cloud provider, raised $320M at a $1.5B valuation; **Magic**, a foundational model developer for code generation and software development, raised $117M at a $500M valuation.
+
+**M&A, Take Privates**
+
+The M&A market has been **fairly quiet** since the 2023 MAD.
+
+A lot of traditional software acquirers were focused on their own stock price and overall business, rather than actively looking for acquisition opportunities.
+
+And the particularly strict antitrust environment has made things trickier for potential acquirers.
+
+> Adobe blocked from buying Figma
+> 
+> JetBlue blocked from acquiring Spirit Airlines
+> 
+> Amazon abandons $1.4B deal to buy iRobot as it sees "no path to regulatory approval"
+> 
+> Something is very broken in antitrust enforcement
+> 
+> — Matt Turck (@mattturck) [January 29, 2024](https://twitter.com/mattturck/status/1751982816324194462?ref_src=twsrc%5Etfw)
+
+Private equity firms have been reasonably active, seeking lower price opportunities in the tougher market.
+
+Some noteworthy transactions involving companies that have appeared over the years on the MAD landscape (in order of scale):
+
+**Broadcom**, a semiconductor manufacturer, acquired **VMWare**, a cloud computing company, for $69B; **Cisco**, a networking and security infrastructure company, acquired **Splunk**, a monitoring and observability platform, for $28B; **Qualtrics**, a customer experience management company, was taken private by **Silver Lake** and **CPP Investments** for $12.5B; **Coupa**, a spend management platform, was taken private by **Thoma Bravo** for $8B; **New Relic**, a monitoring and observability platform, was acquired by **Francisco Partners** and **TPG** for $6.5B; **Alteryx**, a data analytics platform, was taken private by **Clearlake Capital and Insight Partners** for $4.4B; **Salesloft**, a revenue orchestration platform, was acquired by **Vista Equity** for $2.3B, which then also acquired **Drift**, an AI chatbot developer for customer experience; **Databricks**, a provider of data lakehouses, acquired **MosaicML**, an AI development platform, for $1.3B (and several other companies, for lower amounts like **Arcion** and **Okera**); **Thoughtspot**, a data analytics platform, acquired **Mode Analytics**, a business intelligence startup, for $200M; **Snowflake**, a provider of data warehouses, acquired **Neeva**, a consumer AI search engine, for $150M; **DigitalOcean**, a cloud hosting provider, acquired **Paperspace**, a cloud computing and AI development startup, for $111M; **NVIDIA**, a chip manufacturer for cloud computing, acquired **OmniML**, an AI/ML optimization platform for the edge.
+
+And of course, there was the “non-acquisition acquisition” of Inflection AI by Microsoft.
+
+**Is 2024 going to be the year of AI M&A**? A lot depends on continued market momentum.
+
+*   At the lower end of the market, A lot of young AI startups with strong teams have been funded in the last 12-18 months. In the last couple of AI hype cycles of the last decade, a lot of acquihires happened after the initial funding cycle – often at prices that seemed disproportionate to the actual traction those companies had, but AI talent has always been rare and today is not very different.
+*   At the higher end of the market, there is strong business rationale for further convergence between leading data platforms and leading AI platforms. Those deals are likely to be much more expensive, however.
+
+**IPOs?**
+
+In public markets, AI has been a hot trend.  The “Magnificent Seven” stocks (Nvidia, Meta, Amazon, Microsoft, Alphabet, Apple and Tesla) gained at least 49% in 2023 and powered the overall stock market higher.
+
+Overall, there is still a severe dearth of pure-play AI stocks in public markets.  The few that are available are richly rewarded – Palantir stock jumped 167% in 2023.
+
+This should bode well for a whole group of AI-related pre-IPO startups.  There are a lot of companies at significant amounts of scale in the MAD space – first and foremost Databricks, but also a number of others including Celonis, Scale AI, Dataiku\* or Fivetran.
+
+Then there’s the intriguing question of how OpenAI and Anthropic will think about public markets.
+
+In the meantime, 2023 was a very poor year in terms of IPOs.  Only a handful of MAD-related companies went public:  **Klaviyo**, a marketing automation platform, went public at a $9.2B valuation in September 2023 (see our [Klaviyo S-1 teardown](https://mattturck.com/klaviyos1/)); **Reddit**, a forum-style social networking platform (which licenses its content to AI players) , went public at a $6.4B valuation in March 2024; **Astera Labs**, a semiconductor company providing intelligent connectivity for AI and cloud infrastructure, went public at a $5.5B valuation in March 2024.
+
+**CONCLUSION**
+
+We live in very special times. We are early in a paradigm shift. Time to experiment and try new things. We’re just getting started.
+
+> Thinking you're late to AI today is like thinking you're late to the Internet in 1996
+> 
+> — Matt Turck (@mattturck) [December 23, 2023](https://twitter.com/mattturck/status/1738600488457703788?ref_src=twsrc%5Etfw)

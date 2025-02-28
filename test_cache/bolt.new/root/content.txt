@@ -1,0 +1,17 @@
+bolt.new
+===============
+
+[](https://bolt.new/)
+
+What do you want to build?
+==========================
+
+Prompt, run, edit, and deploy full-stack web apps.
+
+[](https://x.com/boltdotnew)[](https://github.com/stackblitz/bolt.new)[](https://discord.com/invite/stackblitz)
+
+[Help Center](https://support.bolt.new/)
+
+[Terms](https://stackblitz.com/terms-of-service)[Privacy](https://stackblitz.com/privacy-policy)
+
+[](https://stackblitz.com/)

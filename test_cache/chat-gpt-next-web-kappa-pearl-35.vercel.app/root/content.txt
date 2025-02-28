@@ -1,0 +1,16 @@
+ChatGPT Next Web
+===============
+
+ChatGPT Next
+
+Build your own AI assistant.
+
+Mask
+
+Plugin
+
+[](https://chat-gpt-next-web-kappa-pearl-35.vercel.app/#/settings)
+
+[](https://github.com/Yidadaa/ChatGPT-Next-Web)
+
+New Chat

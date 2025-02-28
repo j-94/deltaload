@@ -1,0 +1,1144 @@
+GitHub - thirdandgrove/thirdandgrove-com-gatsby: Gatsby frontend for our Decoupled TAGv5
+===============
+                                           
+
+[Skip to content](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fthirdandgrove%2Fthirdandgrove-com-gatsby%3Fscreenshot%3Dtrue)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fthirdandgrove%2Fthirdandgrove-com-gatsby%3Fscreenshot%3Dtrue)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=thirdandgrove%2Fthirdandgrove-com-gatsby) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[thirdandgrove](https://github.com/thirdandgrove) / **[thirdandgrove-com-gatsby](https://github.com/thirdandgrove/thirdandgrove-com-gatsby)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Fthirdandgrove%2Fthirdandgrove-com-gatsby) You must be signed in to change notification settings
+*   [Fork 29](https://github.com/login?return_to=%2Fthirdandgrove%2Fthirdandgrove-com-gatsby)
+*   [Star 101](https://github.com/login?return_to=%2Fthirdandgrove%2Fthirdandgrove-com-gatsby)
+    
+
+Gatsby frontend for our Decoupled TAGv5
+
+### License
+
+[MIT license](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/LICENSE)
+
+[101 stars](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/stargazers) [29 forks](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/forks) [Branches](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/branches) [Tags](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tags) [Activity](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/activity)
+
+[Star](https://github.com/login?return_to=%2Fthirdandgrove%2Fthirdandgrove-com-gatsby)
+
+[Notifications](https://github.com/login?return_to=%2Fthirdandgrove%2Fthirdandgrove-com-gatsby) You must be signed in to change notification settings
+
+*   [Code](https://github.com/thirdandgrove/thirdandgrove-com-gatsby)
+*   [Issues 3](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/issues)
+*   [Pull requests 7](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/pulls)
+*   [Actions](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/actions)
+*   [Projects 0](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/projects)
+*   [Security](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/security)
+*   [Insights](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/thirdandgrove/thirdandgrove-com-gatsby)
+*   [Issues](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/issues)
+*   [Pull requests](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/pulls)
+*   [Actions](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/actions)
+*   [Projects](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/projects)
+*   [Security](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/security)
+*   [Insights](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/pulse)
+
+thirdandgrove/thirdandgrove-com-gatsby
+======================================
+
+  
+
+ master
+
+[**474** Branches](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/branches)[**0** Tags](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tags)
+
+[](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/branches)[](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+[![Image 18: naeluh](https://avatars.githubusercontent.com/u/477860?v=4&size=40)](https://github.com/naeluh)[naeluh](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commits?author=naeluh)
+
+[Merge pull request](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/75ae34a6139706bed152d4d6a4d1aec5dc5a4e89) [#694](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/pull/694) [from thirdandgrove/remove-legal](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/75ae34a6139706bed152d4d6a4d1aec5dc5a4e89)
+
+Aug 2, 2024
+
+[75ae34a](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/75ae34a6139706bed152d4d6a4d1aec5dc5a4e89) · Aug 2, 2024
+
+History
+-------
+
+[2,442 Commits](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commits/master/)
+
+[](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commits/master/)
+
+
+
+
+
+
+
+ |
+| 
+
+[cypress](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tree/master/cypress "cypress")
+
+
+
+
+
+
+
+ | 
+
+[cypress](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tree/master/cypress "cypress")
+
+
+
+
+
+
+
+ | 
+
+[T5-302 Add new careers link adn update spec and redirects](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/79f240feffd5ddfeed43b4b0bbaec1e9688aa7b9 "T5-302 Add new careers link adn update spec and redirects")
+
+
+
+ | 
+
+Nov 18, 2021
+
+ |
+| 
+
+[netlify/functions](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tree/master/netlify/functions "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[netlify/functions](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tree/master/netlify/functions "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[T5-451: Update api keys](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/b9dab4e85dc455992bdcf0eb3655074df4cdf655 "T5-451: Update api keys")
+
+
+
+ | 
+
+Feb 23, 2024
+
+ |
+| 
+
+[scripts](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tree/master/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[scripts](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tree/master/scripts "scripts")
+
+
+
+
+
+
+
+ | 
+
+[Travis wait doesn't work in scripts so this build script is useless.](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/9e57b566f3d07b3d1fc4af88d3d3dbed4d152a79 "Travis wait doesn't work in scripts so this build script is useless.")
+
+
+
+ | 
+
+Aug 21, 2019
+
+ |
+| 
+
+[src](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[src](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tree/master/src "src")
+
+
+
+
+
+
+
+ | 
+
+[T5-0: Remove legal template](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/21daa490dee16ff9633573e888096dcbe95413d6 "T5-0: Remove legal template")
+
+
+
+ | 
+
+Aug 2, 2024
+
+ |
+| 
+
+[static](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[static](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/tree/master/static "static")
+
+
+
+
+
+
+
+ | 
+
+[T5-0: Initial commit](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/8b2f1135f86fa0670f0f6621bf834e029216503c "T5-0: Initial commit")
+
+
+
+ | 
+
+Aug 29, 2023
+
+ |
+| 
+
+[.eslintrc.json](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/.eslintrc.json ".eslintrc.json")
+
+
+
+
+
+
+
+ | 
+
+[.eslintrc.json](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/.eslintrc.json ".eslintrc.json")
+
+
+
+
+
+
+
+ | 
+
+[T5-370 Update eslint](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/739719ea1564e8c9230eaa8bed3c75361d77f766 "T5-370 Update eslint")
+
+
+
+ | 
+
+Mar 27, 2023
+
+ |
+| 
+
+[.gitignore](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[T5-370 Update reCAPTCHA component](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/1817c1b7cb4c22c7de6f510c63ce42be4d3cf22e "T5-370 Update reCAPTCHA component")
+
+
+
+ | 
+
+Mar 28, 2023
+
+ |
+| 
+
+[.nvmrc](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[.nvmrc](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/.nvmrc ".nvmrc")
+
+
+
+
+
+
+
+ | 
+
+[Add server side check](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/e53a628c44a4564ea59cae4be7e4e44b77b63b79 "Add server side check")
+
+
+
+ | 
+
+Jan 17, 2023
+
+ |
+| 
+
+[.prettierrc.json](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/.prettierrc.json ".prettierrc.json")
+
+
+
+
+
+
+
+ | 
+
+[.prettierrc.json](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/.prettierrc.json ".prettierrc.json")
+
+
+
+
+
+
+
+ | 
+
+[update-homepage-case-study-slider: add dartmouth](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/33216853cf3c7eab3c68500bca3bdef3d54b2993 "update-homepage-case-study-slider: add dartmouth")
+
+
+
+ | 
+
+Oct 18, 2021
+
+ |
+| 
+
+[.travis.yml](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/.travis.yml ".travis.yml")
+
+
+
+
+
+
+
+ | 
+
+[.travis.yml](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/.travis.yml ".travis.yml")
+
+
+
+
+
+
+
+ | 
+
+[Travis wait doesn't work in scripts so this build script is useless.](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/9e57b566f3d07b3d1fc4af88d3d3dbed4d152a79 "Travis wait doesn't work in scripts so this build script is useless.")
+
+
+
+ | 
+
+Aug 21, 2019
+
+ |
+| 
+
+[LICENSE](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[initial gatsby instance](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/8d7c305617f5366435eaa94a56ac6026d773a3dd "initial gatsby instance")
+
+
+
+ | 
+
+Apr 15, 2019
+
+ |
+| 
+
+[README.md](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[T5-232 Update readme with deployment steps](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/1f79c3765cb4aa9e901e06e0056dd1e4a745bc6b "T5-232 Update readme with deployment steps")
+
+
+
+ | 
+
+Aug 21, 2020
+
+ |
+| 
+
+[cypress.json](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/cypress.json "cypress.json")
+
+
+
+
+
+
+
+ | 
+
+[cypress.json](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/cypress.json "cypress.json")
+
+
+
+
+
+
+
+ | 
+
+[added specs for contact form and navigation](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/1f6d67137b8b9659733886726ae09a511ef67050 "added specs for contact form and navigation")
+
+
+
+ | 
+
+Jun 12, 2019
+
+ |
+| 
+
+[gatsby-browser.js](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-browser.js](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/gatsby-browser.js "gatsby-browser.js")
+
+
+
+
+
+
+
+ | 
+
+[T5-457: Update script location](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/caefcbcac7dd28cefd4ee80f4f5f259ddea20438 "T5-457: Update script location")
+
+
+
+ | 
+
+May 9, 2024
+
+ |
+| 
+
+[gatsby-config.js](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-config.js](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/gatsby-config.js "gatsby-config.js")
+
+
+
+
+
+
+
+ | 
+
+[T5-457: Update gatsby-plugin-csp](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/e1ded72bf8aa8b874892ddaabeb6366cb4cdac87 "T5-457: Update gatsby-plugin-csp")
+
+
+
+ | 
+
+Aug 2, 2024
+
+ |
+| 
+
+[gatsby-node.js](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-node.js](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/gatsby-node.js "gatsby-node.js")
+
+
+
+
+
+
+
+ | 
+
+[T5-0 Turn off defer](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/24fcf4b054aa59f023cd71dd8a05d36afe4f8a86 "T5-0 Turn off defer")
+
+
+
+ | 
+
+Oct 19, 2023
+
+ |
+| 
+
+[gatsby-ssr.js](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[gatsby-ssr.js](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/gatsby-ssr.js "gatsby-ssr.js")
+
+
+
+
+
+
+
+ | 
+
+[added compiled gatsby-ssr](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/c749ba0724b92751440b721c0fcae20f91da27c5 "added compiled gatsby-ssr")
+
+
+
+ | 
+
+Sep 26, 2019
+
+ |
+| 
+
+[netlify.toml](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[netlify.toml](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/netlify.toml "netlify.toml")
+
+
+
+
+
+
+
+ | 
+
+[T5-0 Move netlify functions](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/5f7f13f46bfc41cad3dcda4e6f918189bf44df45 "T5-0 Move netlify functions")
+
+
+
+ | 
+
+Dec 8, 2023
+
+ |
+| 
+
+[package.json](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[T5-0: Update packages](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/e42fc25339922468dc0613e1b929d010a0b3e63e "T5-0: Update packages")
+
+
+
+ | 
+
+Aug 29, 2023
+
+ |
+| 
+
+[sample.env](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/sample.env "sample.env")
+
+
+
+
+
+
+
+ | 
+
+[sample.env](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/sample.env "sample.env")
+
+
+
+
+
+
+
+ | 
+
+[T5-451: Update api keys](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/696c74b821e8f8548278f3b1f924297aea7f9a0b "T5-451: Update api keys")
+
+
+
+ | 
+
+Feb 22, 2024
+
+ |
+| 
+
+[schema.gql](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/schema.gql "schema.gql")
+
+
+
+
+
+
+
+ | 
+
+[schema.gql](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/schema.gql "schema.gql")
+
+
+
+
+
+
+
+ | 
+
+[Merge remote-tracking branch 'origin/master' into netlify-build](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/01e352c9bfbd6c36c5e46cc7529a7abae1288e0e "Merge remote-tracking branch 'origin/master' into netlify-build")
+
+
+
+ | 
+
+Nov 15, 2023
+
+ |
+| 
+
+[typeDefs.js](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/typeDefs.js "typeDefs.js")
+
+
+
+
+
+
+
+ | 
+
+[typeDefs.js](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/typeDefs.js "typeDefs.js")
+
+
+
+
+
+
+
+ | 
+
+[T5-355: add union types and fix slider](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/72bb6415b7c60227b659c6e199eea7f61336b476 "T5-355: add union types and fix slider")
+
+
+
+ | 
+
+Mar 22, 2023
+
+ |
+| 
+
+[yarn-error.log](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/yarn-error.log "yarn-error.log")
+
+
+
+
+
+
+
+ | 
+
+[yarn-error.log](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/yarn-error.log "yarn-error.log")
+
+
+
+
+
+
+
+ | 
+
+[T5-306: update plugins and images](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/5b519378b3dfb336faefb34e72433b2be76d55f9 "T5-306: update plugins and images")
+
+
+
+ | 
+
+Jul 12, 2023
+
+ |
+| 
+
+[yarn.lock](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[yarn.lock](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/blob/master/yarn.lock "yarn.lock")
+
+
+
+
+
+
+
+ | 
+
+[T5-0 Add recaptcha back to forms](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/commit/0bf2529e6777d749791c948b1d194815cbb89698 "T5-0 Add recaptcha back to forms")
+
+
+
+ | 
+
+Dec 14, 2023
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#)
+*   [License](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#)
+
+TAG V5
+======
+
+[](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#tag-v5)
+
+[![Image 19: Twitter Follow](https://camo.githubusercontent.com/8c621c968ac78341bbd9b16567a383265f055424681b54046d7b89b16626f24c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f7468697264616e6467726f76652e7376673f6c6162656c3d546869726425323025323625323047726f7665267374796c653d736f6369616c)](https://camo.githubusercontent.com/8c621c968ac78341bbd9b16567a383265f055424681b54046d7b89b16626f24c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f7468697264616e6467726f76652e7376673f6c6162656c3d546869726425323025323625323047726f7665267374796c653d736f6369616c)
+
+Gatsby front end for Third and Grove's Drupal 8 backend.
+
+Requirements
+------------
+
+[](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#requirements)
+
+*   Node (10.x LTS at time of writing)
+*   Yarn
+
+Installation
+------------
+
+[](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#installation)
+
+1.  Clone this repository: `git clone git@github.com:thirdandgrove/thirdandgrove-com-gatsby.git`
+2.  Change directories into the project root: `cd thirdandgrove-com-gatsby`
+3.  Run `yarn` in the project root.
+4.  Run `cp sample.env .env` and then modify your new `.env` file with the appropriate credentials from the `TAGv5 Gatsby/CMS` entry in 1Password.
+
+Development
+-----------
+
+[](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#development)
+
+1.  In the root of the project, run `yarn start`.
+2.  This will perform the initial build and then launch your browser to your local site (the first time you do this, it may take a few minutes).
+3.  Changing files in this state will also hot reload the files
+
+Build
+-----
+
+[](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#build)
+
+1.  In the root of the project, run `yarn build`.
+2.  The site will be built into the `public` folder of the project root.
+
+Testing
+-------
+
+[](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#testing)
+
+1.  Ensure that you have your dev server running `yarn start`
+2.  Run tests with `yarn test`.
+3.  If you are developing tests, use `yarn cypress` instead.
+
+Deployment
+----------
+
+[](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#deployment)
+
+This website is built with NodeJS. It uses the React-based open source framework [Gatsby](https://www.gatsbyjs.com/). This framework generates a static site.
+
+This website uses [Netlify](https://www.netlify.com/) for deployment. Netlify's platform performs automated builds of the static site. It also links to GIT workflow. When a pull request is created it triggers an automated build of the static site that is pinned to the code in that Pull Request.
+
+To deploy code to [https://www.thirdandgrove.com/](https://www.thirdandgrove.com/) a content editor has to either trigger a build after a content change or a developer has to push code to the master branch (whether that is a direct commit to master or merging a pull request).
+
+Currently build times range from 45 min to 1 hr.
+
+1.  Create a pull request with the new code
+2.  Get verification that change is correct from the preview url
+3.  Merging code into master will trigger a production build
+
+About
+-----
+
+Gatsby frontend for our Decoupled TAGv5
+
+### Resources
+
+[Readme](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#readme-ov-file)
+
+### License
+
+[MIT license](https://github.com/thirdandgrove/thirdandgrove-com-gatsby?screenshot=true#MIT-1-ov-file)
+
+[Activity](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/activity)
+
+[Custom properties](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/custom-properties)
+
+### Stars
+
+[**101** stars](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/stargazers)
+
+### Watchers
+
+[**22** watching](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/watchers)
+
+### Forks
+
+[**29** forks](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fthirdandgrove%2Fthirdandgrove-com-gatsby&report=thirdandgrove+%28user%29)
+
+[Releases](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/releases)
+------------------------------------------------------------------------------
+
+No releases published
+
+[Packages 0](https://github.com/orgs/thirdandgrove/packages?repo_name=thirdandgrove-com-gatsby)
+-----------------------------------------------------------------------------------------------
+
+No packages published  
+
+[Contributors 26](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/graphs/contributors)
+------------------------------------------------------------------------------------------------
+
+*   [![Image 20: @naeluh](https://avatars.githubusercontent.com/u/477860?s=64&v=4)](https://github.com/naeluh)
+*   [![Image 21: @grantglidewell](https://avatars.githubusercontent.com/u/26661451?s=64&v=4)](https://github.com/grantglidewell)
+*   [![Image 22: @Abby805](https://avatars.githubusercontent.com/u/2364769?s=64&v=4)](https://github.com/Abby805)
+*   [![Image 23: @cannandev](https://avatars.githubusercontent.com/u/381122?s=64&v=4)](https://github.com/cannandev)
+*   [![Image 24: @samseidetag](https://avatars.githubusercontent.com/u/85691661?s=64&v=4)](https://github.com/samseidetag)
+*   [![Image 25: @earthday47](https://avatars.githubusercontent.com/u/647271?s=64&v=4)](https://github.com/earthday47)
+*   [![Image 26: @RonaldChicaVera](https://avatars.githubusercontent.com/u/89930700?s=64&v=4)](https://github.com/RonaldChicaVera)
+*   [![Image 27: @smthomas](https://avatars.githubusercontent.com/u/1393742?s=64&v=4)](https://github.com/smthomas)
+*   [![Image 28: @MarieKirya](https://avatars.githubusercontent.com/u/7660486?s=64&v=4)](https://github.com/MarieKirya)
+*   [![Image 29: @elite0226](https://avatars.githubusercontent.com/u/50171204?s=64&v=4)](https://github.com/elite0226)
+*   [![Image 30: @johnnybgoode](https://avatars.githubusercontent.com/u/221731?s=64&v=4)](https://github.com/johnnybgoode)
+*   [![Image 31: @supermavster](https://avatars.githubusercontent.com/u/20430676?s=64&v=4)](https://github.com/supermavster)
+*   [![Image 32: @spencer-leopold](https://avatars.githubusercontent.com/u/1174690?s=64&v=4)](https://github.com/spencer-leopold)
+*   [![Image 33: @sarahcyoder](https://avatars.githubusercontent.com/u/26581013?s=64&v=4)](https://github.com/sarahcyoder)
+
+[\+ 12 contributors](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/graphs/contributors)
+
+Languages
+---------
+
+*   [JavaScript 99.9%](https://github.com/thirdandgrove/thirdandgrove-com-gatsby/search?l=javascript)
+*   Other 0.1%
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

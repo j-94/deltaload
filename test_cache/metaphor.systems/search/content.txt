@@ -1,0 +1,52 @@
+Category
+
+*   All
+*   Company
+*   News
+*   Paper
+*   Linkedin profile
+*   Financial report
+
+*   All
+*   Company
+*   News
+*   Paper
+*   Linkedin profile
+*   Financial report
+*   Tweet
+*   Blog post
+*   PDF
+*   Github
+*   Personal site
+
+Publish date
+
+*   Past day
+*   Past week
+*   Past month
+*   Past year
+*   Any time
+
+*   10 Results
+*   20 Results
+*   30 Results
+
+Add Exa search in your app
+
+### No results found
+
+Try searching for something else, or try the search again later.
+
+TRY AGAIN
+
+![Image 5: More info empty](https://exa.ai/search/_next/image?url=https%3A%2F%2Fexa.imgix.net%2Fmore_info_widget_empty.png&w=256&q=75)
+
+##### No result selected
+
+Click on a result or choose a result below to see its summary, conversations about it, similar webpages and related searched
+
+![Image 6: Chat widget empty](https://exa.ai/search/_next/image?url=https%3A%2F%2Fexa.imgix.net%2Fchat-widget-empty.png&w=256&q=75)
+
+##### Add a result to chat
+
+Select one result from the list to start chatting. You can add more later

@@ -1,0 +1,9 @@
+🏴‍☠️ Patchy the Chatty Pirate
+------------------------------
+
+*   🤝This template showcases a simple chatbot using [LangChain.js](https://js.langchain.com/) and the Vercel [AI SDK](https://sdk.vercel.ai/docs) in a [Next.js](https://nextjs.org/) project.
+*   💻You can find the prompt and model logic for this use-case in `app/api/chat/route.ts`.
+*   🏴‍☠️By default, the bot is pretending to be a pirate, but you can change the prompt to whatever you want!
+*   🎨The main frontend logic is found in `app/page.tsx`.
+*   🐙This template is open source - you can see the source code and deploy your own version [from the GitHub repo](https://github.com/langchain-ai/langchain-nextjs-template)!
+*   👇Try asking e.g. `What is it like to be a pirate?` below!

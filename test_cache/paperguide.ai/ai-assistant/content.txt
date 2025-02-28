@@ -1,0 +1,14 @@
+[![Image 17: Paperguide](https://paperguide.ai/_next/static/media/logo-small.c51cce96.svg)](https://paperguide.ai/)
+
+*   *   [![Image 18: Home](https://paperguide.ai/_next/static/media/home-outline.1ba6f5c0.svg) Home](https://paperguide.ai/)
+    *   [![Image 19: References](https://paperguide.ai/_next/static/media/folder-outline.0b0d8198.svg) References](https://paperguide.ai/references/)
+    *   [![Image 20: Writer](https://paperguide.ai/_next/static/media/writer-outline.3c74977c.svg) Writer](https://paperguide.ai/writer/)
+    *   [![Image 21: My Workbooks](https://paperguide.ai/_next/static/media/workbook-outline.63492652.svg) My Workbooks](https://paperguide.ai/workbooks/)
+    *   [![Image 22: My Chats](https://paperguide.ai/_next/static/media/chat-solid.cf11e3fc.svg) My Chats](https://paperguide.ai/ai-assistant/)
+*   ![Image 23: login](https://paperguide.ai/assets/svgs/login-icon.svg)
+    
+
+![Image 24: login](https://paperguide.ai/assets/svgs/login-icon.svg)
+
+Paperguide Dashboard
+--------------------

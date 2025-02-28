@@ -1,0 +1,20 @@
+[![Image 5: Logo](https://cdn.trieve.ai/trieve-logo.png)](https://search.trieve.ai/?dataset=undefined)
+
+[Dashboard](https://dashboard.trieve.ai/dataset/)[API Docs](https://docs.trieve.ai/api-reference)[Search Chunks](https://search.trieve.ai/?dataset=undefined)[Groups](https://search.trieve.ai/group?dataset=undefined)[Create Chunk](https://search.trieve.ai/create?dataset=undefined)[Upload file(s)](https://search.trieve.ai/upload?dataset=undefined)
+
+![Image 6: Logo](https://cdn.trieve.ai/trieve-logo.png)
+
+Upload file(s)
+--------------
+
+Warning! Large files may take up to 3 minutes to upload. Please do not close this page until the upload is complete.
+
+Group tracking\_id
+
+Link to file
+
+Tag Set
+
+Click to upload files or drag and drop
+
+humans@trieve.ai

@@ -1,0 +1,45 @@
+[* Components](https://copyui.com/components)[* Templates](https://copyui.com/templates)*   Contact
+*   Pricing
+*   Sign in
+*   Sign up
+
+*   Pricing
+*   Components
+[* Templates](https://copyui.com/templates)*   Contact
+*   Sign in
+
+Directory - The Ultimate Next.js Directory Template
+---------------------------------------------------
+
+Effortlessly build and customize a responsive, SEO-friendly website with Next.js and Tailwind CSS—complete with search, user authentication, dark/light mode, and lifetime updates.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Price is in US dollars and excludes tax and handling fees
+
+What’s included
+---------------
+
+*   Beautifully designed and well-structured code
+*   Built with Next.js and Tailwind CSS
+*   Fully Responsive
+*   SEO friendly
+*   Easy to customize
+*   Search functionality
+*   User authentication forms
+*   Dark and Light mode
+*   Basic API Integration
+*   Production-ready and easily deployed anywhere that you can deploy a Next.js application, like Vercel
+*   Lifetime updates
+*   Access to the github repo
+*   Lifetime updates
+
+* * *
+
+A responsive template, perfect for business directory websites, crafted with Next.js and Tailwind CSS. It includes essential frontend components like search functionality, user authentication, and customizable listings. Ideal for building a sleek, modern directory website, but please note that the user authentication and customizable listings are frontend only.
+
+* * *
+
+Projects using this template
+----------------------------
+
+Want to be featured? Submit your project here!

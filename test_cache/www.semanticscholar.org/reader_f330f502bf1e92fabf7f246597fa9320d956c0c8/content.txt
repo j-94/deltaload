@@ -1,0 +1,32 @@
+\[PDF\] Effective Prompt Extraction from Language Models | Semantic Scholar
+===============
+                                                    
+
+ 
+
+[](https://www.semanticscholar.org/paper/b9df0d4631f9fab1432c152765e243ae4cd667f4)
+
+Sign InCreate Free Account
+
+Navigate Paper[Download (opens in a new tab)](https://export.arxiv.org/pdf/2307.06865v3.pdf)Share
+
+100%
+
+/0
+
+Save To LibraryCreate AlertCite[About](https://www.semanticscholar.org/faq#semantic-reader)Give Feedback
+
+Skimming AssistCitation Cards
+
+Loading PDF…
+
+@inproceedings{Zhang2023EffectivePE,
+  title={Effective Prompt Extraction from Language Models},
+  author={Yiming Zhang and Daphne Ippolito},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:259847681}
+}
+
+By clicking accept or continuing to use the site, you agree to the terms outlined in our [Privacy Policy (opens in a new tab)](https://allenai.org/privacy-policy.html), [Terms of Service (opens in a new tab)](https://allenai.org/terms), and [Dataset License (opens in a new tab)](http://api.semanticscholar.org/corpus/legal)
+
+ACCEPT & CONTINUE
