@@ -3,6 +3,8 @@
 This module handles the processing of Twitter threads.
 It integrates with the DeltaLoadETL pipeline to fetch and process complete
 Twitter threads from bookmarked tweets.
+
+# IMPORTANT: Never use mock data for production. Always use real API calls.
 """
 
 import os
@@ -12,7 +14,11 @@ from typing import List, Dict, Optional
 from datetime import datetime, timedelta
 from collections import defaultdict
 import pandas as pd
-from .twitter_thread_fetcher import TwitterThreadFetcher
+if __name__ == "__main__":
+    import twitter_thread_fetcher
+    TwitterThreadFetcher = twitter_thread_fetcher.TwitterThreadFetcher
+else:
+    from .twitter_thread_fetcher import TwitterThreadFetcher
 
 # Configure logging
 logging.basicConfig(
@@ -271,19 +277,30 @@ class ThreadProcessor:
         logger.info(f"Found {len(all_threads)} total potential Twitter threads")
         return all_threads
     
-    def fetch_complete_threads(self, potential_threads: List[List[Dict]]) -> List[Dict]:
+    def fetch_complete_threads(self, potential_threads: List[List[Dict]], 
+                               batch_size=10, batch_delay=60, max_threads=None) -> List[Dict]:
         """Fetch complete threads using the TwitterThreadFetcher.
         
         Args:
             potential_threads: List of potential thread groups
+            batch_size: Number of threads to process before taking a pause
+            batch_delay: Seconds to pause between batches to avoid rate limits
+            max_threads: Maximum number of threads to process (None for all)
             
         Returns:
             List of complete thread data
         """
         logger.info(f"Fetching complete data for {len(potential_threads)} potential threads...")
         fetched_threads = []
+        failed_threads = []
         
-        for thread_group in potential_threads:
+        # Limit number of threads to process if specified
+        if max_threads is not None:
+            potential_threads = potential_threads[:max_threads]
+            logger.info(f"Limited to processing {max_threads} threads")
+        
+        # Process in batches to avoid rate limits
+        for i, thread_group in enumerate(potential_threads):
             # Get the first tweet URL (which we'll use to fetch the complete thread)
             first_tweet = thread_group[0]
             tweet_url = first_tweet.get('url')
@@ -300,17 +317,42 @@ class ThreadProcessor:
                 continue
             
             # Fetch complete thread
-            logger.info(f"Fetching complete thread for tweet ID: {tweet_id}")
+            logger.info(f"Fetching complete thread for tweet ID: {tweet_id} ({i+1}/{len(potential_threads)})")
             thread_data = self.thread_fetcher.process_url(tweet_url)
             
             if thread_data.get('status') != 'success':
                 logger.warning(f"Failed to fetch thread for tweet ID: {tweet_id}")
+                failed_threads.append((tweet_id, tweet_url))
                 continue
             
             fetched_threads.append(thread_data)
             logger.info(f"Successfully fetched thread with {thread_data['metadata']['tweet_count']} tweets")
+            
+            # Add a small delay between individual requests to be respectful to the API
+            if i < len(potential_threads) - 1:  # Don't delay after the last request
+                import time
+                time.sleep(2)  # 2 second delay between individual requests
+            
+            # Take a longer break after each batch
+            if (i + 1) % batch_size == 0 and i < len(potential_threads) - 1:
+                remaining = len(potential_threads) - (i + 1)
+                logger.info(f"Completed batch of {batch_size}. Taking a {batch_delay}s break. {remaining} threads remaining.")
+                import time
+                time.sleep(batch_delay)
         
-        logger.info(f"Successfully fetched {len(fetched_threads)} complete threads")
+        success_rate = len(fetched_threads) / len(potential_threads) * 100 if potential_threads else 0
+        logger.info(f"Successfully fetched {len(fetched_threads)} of {len(potential_threads)} threads ({success_rate:.1f}%)")
+        
+        if failed_threads:
+            logger.warning(f"Failed to fetch {len(failed_threads)} threads")
+            if len(failed_threads) <= 10:
+                for tweet_id, url in failed_threads:
+                    logger.warning(f"Failed thread: {tweet_id} - {url}")
+            else:
+                logger.warning(f"First 10 failed threads:")
+                for tweet_id, url in failed_threads[:10]:
+                    logger.warning(f"Failed thread: {tweet_id} - {url}")
+        
         return fetched_threads
     
     def process_threads(self, bookmarks: List[Dict]) -> List[Dict]:
@@ -338,7 +380,38 @@ class ThreadProcessor:
 # Example usage if run as a script
 if __name__ == "__main__":
     import sys
+    import argparse
+    import time
     from pathlib import Path
+    
+    # Configure logging for more visibility when run as a script
+    from datetime import datetime
+    log_file = f"thread_processor_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+    file_handler = logging.FileHandler(log_file)
+    file_handler.setLevel(logging.INFO)
+    file_format = logging.Formatter('%(asctime)s.%(msecs)03d %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
+    file_handler.setFormatter(file_format)
+    
+    # Add the file handler to the logger
+    logger.addHandler(file_handler)
+    logger.info(f"Starting Thread Processor with log file: {log_file}")
+    
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(description="Process Twitter threads from bookmark data")
+    parser.add_argument("--input", default="/Users/imac/Desktop/ETL/deltaload/data-bookmark.jsonl", 
+                        help="Path to input bookmark JSONL file")
+    parser.add_argument("--output", default="thread_data.jsonl", 
+                        help="Path to output thread JSONL file")
+    parser.add_argument("--max-threads", type=int, 
+                        help="Maximum number of threads to process")
+    parser.add_argument("--batch-size", type=int, default=10, 
+                        help="Number of threads to process before taking a break")
+    parser.add_argument("--batch-delay", type=int, default=60, 
+                        help="Seconds to pause between batches")
+    parser.add_argument("--append", action="store_true", 
+                        help="Append to output file instead of overwriting")
+    
+    args = parser.parse_args()
     
     # Load bookmarks from JSONL file
     def load_jsonl(filename):
@@ -352,7 +425,7 @@ if __name__ == "__main__":
         return data
     
     # Path to the bookmark data
-    bookmarks_path = Path("../data-bookmark.jsonl")
+    bookmarks_path = Path(args.input)
     
     if not bookmarks_path.exists():
         logger.error(f"Bookmark data file not found: {bookmarks_path}")
@@ -360,18 +433,90 @@ if __name__ == "__main__":
     
     # Load bookmarks
     logger.info(f"Loading bookmarks from {bookmarks_path}...")
+    start_time = time.time()
     bookmarks = load_jsonl(bookmarks_path)
-    logger.info(f"Loaded {len(bookmarks)} bookmarks")
+    logger.info(f"Loaded {len(bookmarks)} bookmarks in {time.time() - start_time:.2f} seconds")
     
-    # Process threads
+    # Use thread processor with rate limit handling
     processor = ThreadProcessor()
-    threads = processor.process_threads(bookmarks)
+    
+    # Find potential threads first
+    logger.info("Finding potential Twitter threads...")
+    start_time = time.time()
+    potential_threads = processor.find_potential_threads(bookmarks)
+    logger.info(f"Found {len(potential_threads)} potential threads in {time.time() - start_time:.2f} seconds")
+    
+    # Process threads with the real Twitter API, using batch processing
+    logger.info("Fetching complete thread data with the real Twitter API...")
+    start_time = time.time()
+    threads = processor.fetch_complete_threads(
+        potential_threads,
+        batch_size=args.batch_size,
+        batch_delay=args.batch_delay,
+        max_threads=args.max_threads
+    )
+    
+    processing_time = time.time() - start_time
+    logger.info(f"Fetched {len(threads)} threads in {processing_time:.2f} seconds " + 
+                f"({processing_time/len(threads):.2f} seconds per thread)")
+    
+    # Helper function to convert timestamps to string
+    def json_serializable(obj):
+        if isinstance(obj, dict):
+            return {k: json_serializable(v) for k, v in obj.items()}
+        elif isinstance(obj, list):
+            return [json_serializable(i) for i in obj]
+        elif hasattr(obj, 'isoformat'):  # datetime or pandas Timestamp
+            return obj.isoformat()
+        else:
+            return obj
     
     # Output results
-    output_file = Path("thread_data.jsonl")
-    with open(output_file, 'w', encoding='utf-8') as f:
+    output_file = Path(args.output)
+    mode = 'a' if args.append else 'w'
+    
+    # Check how many threads are already in the output file if appending
+    existing_threads = 0
+    if args.append and output_file.exists():
+        with open(output_file, 'r', encoding='utf-8') as f:
+            existing_threads = sum(1 for _ in f)
+        logger.info(f"Appending to existing file with {existing_threads} threads")
+    
+    with open(output_file, mode, encoding='utf-8') as f:
         for thread in threads:
-            json.dump(thread, f, ensure_ascii=False)
+            # Convert any datetime objects to strings
+            serializable_thread = json_serializable(thread)
+            json.dump(serializable_thread, f, ensure_ascii=False)
             f.write('\n')
     
-    logger.info(f"Saved {len(threads)} threads to {output_file}")
+    total_threads = len(threads) + (existing_threads if args.append else 0)
+    logger.info(f"Saved {len(threads)} threads to {output_file} (total: {total_threads})")
+    
+    # Analyze thread sizes
+    sizes = [thread['metadata']['tweet_count'] for thread in threads]
+    if sizes:
+        min_size = min(sizes)
+        max_size = max(sizes)
+        avg_size = sum(sizes) / len(sizes)
+        threads_gt_1 = sum(1 for s in sizes if s > 1)
+        threads_gt_5 = sum(1 for s in sizes if s > 5)
+        
+        logger.info(f"Thread size statistics:")
+        logger.info(f"  Min: {min_size} tweets")
+        logger.info(f"  Max: {max_size} tweets")
+        logger.info(f"  Avg: {avg_size:.2f} tweets")
+        logger.info(f"  Threads >1 tweet: {threads_gt_1} ({threads_gt_1/len(threads)*100:.1f}%)")
+        logger.info(f"  Threads >5 tweets: {threads_gt_5} ({threads_gt_5/len(threads)*100:.1f}%)")
+        
+        # Find the largest thread
+        largest_thread = None
+        for thread in threads:
+            if thread['metadata']['tweet_count'] == max_size:
+                largest_thread = thread
+                break
+                
+        if largest_thread:
+            logger.info(f"Largest thread: {max_size} tweets by @{largest_thread['metadata']['author']['screen_name']}")
+            logger.info(f"  URL: {largest_thread['url']}")
+    
+    logger.info("Thread processing completed successfully")

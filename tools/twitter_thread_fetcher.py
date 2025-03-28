@@ -87,15 +87,14 @@ class TwitterThreadFetcher:
             logger.warning("Missing required environment variables. API calls will likely fail.")
             
         logger.info(f"Initializing TwitterThreadFetcher with user_id: {self.user_id or 'not set'}")
-        logger.debug(f"Using auth_token: {self.auth_token[:5]}*** ct0: {self.ct0[:5]}***")
+        if self.auth_token and self.ct0:
+            logger.debug(f"Using auth_token: {self.auth_token[:5]}*** ct0: {self.ct0[:5]}***")
+        else:
+            logger.debug("No credentials provided, only mock mode will work")
         
+        # Initialize headers with default values
         self.headers = {
             'authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA',
-            'cookie': f'auth_token={self.auth_token}; ct0={self.ct0}',
-            'x-csrf-token': self.ct0,
-            'x-twitter-auth-type': 'OAuth2Session',
-            'x-twitter-client-language': 'en',
-            'x-twitter-active-user': 'yes',
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': '*/*',
             'Accept-Language': 'en-US,en;q=0.9',
@@ -106,15 +105,27 @@ class TwitterThreadFetcher:
             'Sec-Fetch-Site': 'same-origin',
             'Sec-Fetch-Mode': 'cors',
             'Sec-Fetch-Dest': 'empty',
-            'Connection': 'keep-alive'
+            'Connection': 'keep-alive',
+            'x-twitter-auth-type': 'OAuth2Session',
+            'x-twitter-client-language': 'en',
+            'x-twitter-active-user': 'yes'
         }
         
-        # Set up cookies
-        self.cookies = {
-            'auth_token': self.auth_token,
-            'ct0': self.ct0,
-            'twid': f'u%3D{self.user_id}'
-        }
+        # Add auth-related headers if credentials are provided
+        if self.auth_token and self.ct0:
+            self.headers['cookie'] = f'auth_token={self.auth_token}; ct0={self.ct0}'
+            self.headers['x-csrf-token'] = self.ct0
+        
+        # Set up cookies with default empty values
+        self.cookies = {}
+        
+        # Add auth-related cookies if credentials are provided
+        if self.auth_token:
+            self.cookies['auth_token'] = self.auth_token
+        if self.ct0:
+            self.cookies['ct0'] = self.ct0
+        if self.user_id:
+            self.cookies['twid'] = f'u%3D{self.user_id}'
         
         logger.info("TwitterThreadFetcher initialized successfully")
         logger.debug(f"Using cookies: {self.cookies}")
@@ -216,8 +227,17 @@ class TwitterThreadFetcher:
         
         return tweet_data
         
-    def fetch_tweet_detail(self, tweet_id: str) -> Dict:
-        """Fetch details for a specific tweet using GraphQL."""
+    def fetch_tweet_detail(self, tweet_id: str, max_retries=3, initial_backoff=5) -> Dict:
+        """Fetch details for a specific tweet using GraphQL.
+        
+        Args:
+            tweet_id: The ID of the tweet to fetch
+            max_retries: Maximum number of retry attempts for rate limits
+            initial_backoff: Initial backoff time in seconds (will increase exponentially)
+            
+        Returns:
+            Dict containing tweet details or None if fetching failed
+        """
         variables = {
             "focalTweetId": tweet_id,
             "with_rux_injections": False,
@@ -263,26 +283,80 @@ class TwitterThreadFetcher:
         
         logger.info(f"Fetching tweet details for tweet_id: {tweet_id}")
         
-        try:
-            response = requests.get(
-                url, 
-                headers=self.headers, 
-                params=params,
-                cookies=self.cookies,
-                timeout=10
-            )
-            
-            if response.status_code != 200:
+        for attempt in range(max_retries + 1):
+            try:
+                response = requests.get(
+                    url, 
+                    headers=self.headers, 
+                    params=params,
+                    cookies=self.cookies,
+                    timeout=10
+                )
+                
+                # Handle success case
+                if response.status_code == 200:
+                    return response.json()
+                
+                # Handle rate limiting
+                if response.status_code == 429:
+                    # If this is our last retry, give up
+                    if attempt == max_retries:
+                        logger.error(f"Rate limit exceeded after {max_retries} retries. Giving up on tweet_id: {tweet_id}")
+                        logger.error(f"Response: {response.text}")
+                        return None
+                    
+                    # Calculate backoff time with exponential increase
+                    backoff_time = initial_backoff * (2 ** attempt)
+                    
+                    # Parse rate limit headers if available
+                    reset_time = None
+                    if 'x-rate-limit-reset' in response.headers:
+                        try:
+                            reset_time = int(response.headers['x-rate-limit-reset'])
+                            reset_dt = datetime.fromtimestamp(reset_time)
+                            now = datetime.now()
+                            wait_seconds = (reset_dt - now).total_seconds()
+                            if wait_seconds > 0:
+                                backoff_time = max(backoff_time, wait_seconds + 1)  # Add 1 second buffer
+                        except (ValueError, TypeError):
+                            pass
+                    
+                    logger.warning(f"Rate limit hit. Waiting {backoff_time:.1f} seconds before retry {attempt+1}/{max_retries}")
+                    import time
+                    time.sleep(backoff_time)
+                    continue  # Retry after backoff
+                
+                # Handle other errors
                 logger.error(f"Failed to fetch tweet. Status code: {response.status_code}")
                 logger.error(f"Response: {response.text}")
                 logger.debug(f"Request headers: {response.request.headers}")
-                return None
                 
-            return response.json()
-            
-        except requests.exceptions.RequestException as e:
-            logger.error(f"Request failed: {str(e)}")
-            return None
+                # Don't retry for client errors other than rate limiting
+                if 400 <= response.status_code < 500 and response.status_code != 429:
+                    return None
+                
+                # For server errors, retry with backoff
+                if attempt < max_retries:
+                    backoff_time = initial_backoff * (2 ** attempt)
+                    logger.warning(f"Server error. Retrying in {backoff_time} seconds. Attempt {attempt+1}/{max_retries}")
+                    import time
+                    time.sleep(backoff_time)
+                else:
+                    return None
+                    
+            except requests.exceptions.RequestException as e:
+                logger.error(f"Request failed: {str(e)}")
+                
+                # Retry network errors with backoff
+                if attempt < max_retries:
+                    backoff_time = initial_backoff * (2 ** attempt)
+                    logger.warning(f"Network error. Retrying in {backoff_time} seconds. Attempt {attempt+1}/{max_retries}")
+                    import time
+                    time.sleep(backoff_time)
+                else:
+                    return None
+        
+        return None
 
     def get_conversation_thread(self, tweet_id: str) -> List[Dict]:
         """Get the full conversation thread for a tweet."""

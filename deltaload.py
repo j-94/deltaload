@@ -546,19 +546,25 @@ class DeltaLoadETL:
         
         return transformed_data
 
-    def process_twitter_threads(self, data):
+    def process_twitter_threads(self, data, batch_size=10, batch_delay=60, max_threads=None):
         """Process Twitter threads from the fetched data.
         
         This method identifies potential Twitter threads in the data and fetches
-        the complete thread data using the TwitterThreadFetcher.
+        the complete thread data using the TwitterThreadFetcher with rate limit handling.
         
         Args:
             data: List of processed bookmark records
+            batch_size: Number of threads to process before taking a pause
+            batch_delay: Seconds to pause between batches to avoid rate limits
+            max_threads: Maximum number of threads to process (None for all)
             
         Returns:
             List of complete thread records
         """
         try:
+            import time
+            start_time = time.time()
+            
             # Import the ThreadProcessor
             from tools.thread_processor import ThreadProcessor
             
@@ -569,9 +575,23 @@ class DeltaLoadETL:
                 auth_token=self.twitter_auth_token
             )
             
-            # Process threads
-            logger.info("Processing Twitter threads...")
-            threads = thread_processor.process_threads(data)
+            # First identify potential threads
+            logger.info("Finding potential Twitter threads...")
+            potential_threads = thread_processor.find_potential_threads(data)
+            logger.info(f"Found {len(potential_threads)} potential Twitter threads in {time.time() - start_time:.2f} seconds")
+            
+            # Fetch complete threads with rate limit handling
+            logger.info("Fetching complete Twitter thread data...")
+            thread_start_time = time.time()
+            threads = thread_processor.fetch_complete_threads(
+                potential_threads,
+                batch_size=batch_size,
+                batch_delay=batch_delay,
+                max_threads=max_threads
+            )
+            
+            thread_processing_time = time.time() - thread_start_time
+            logger.info(f"Fetched {len(threads)} complete threads in {thread_processing_time:.2f} seconds")
             
             # Add thread records to the data
             if threads:
@@ -626,9 +646,14 @@ class DeltaLoadETL:
                 # Combine with existing data
                 all_data = existing_data + transformed_data
                 
-                # Process Twitter threads
+                # Process Twitter threads with rate limit handling
                 logger.info("Processing Twitter threads...")
-                all_data = self.process_twitter_threads(all_data)
+                all_data = self.process_twitter_threads(
+                    all_data,
+                    batch_size=10,  # Process 10 threads before taking a break
+                    batch_delay=60,  # 60 second break between batches
+                    max_threads=50   # Limit to 50 threads per run to avoid excess API usage
+                )
                 
                 # Write combined data
                 self.write_jsonl(all_data)

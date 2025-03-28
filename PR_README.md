@@ -16,7 +16,10 @@ This PR enhances the deltaload ETL pipeline by adding Twitter thread fetching fu
    - Call the thread processor after data transformation
    - Add complete thread records to the bookmark data
 
-3. Improved the twitter_thread_fetcher.py module to handle thread reconstruction
+3. Improved the twitter_thread_fetcher.py module to:
+   - Handle thread reconstruction
+   - Implement robust rate limit handling with exponential backoff
+   - Parse rate limit headers for optimal retry timing
 
 ## Benefits
 
@@ -24,6 +27,8 @@ This PR enhances the deltaload ETL pipeline by adding Twitter thread fetching fu
 - Improved user experience: Users can view entire Twitter threads in one record
 - Enhanced analysis: Thread metadata enables more sophisticated content analysis
 - Robust thread detection: Using multiple detection methods increases coverage
+- Resilient API usage: Rate limit handling with exponential backoff ensures reliable operation
+- Production-ready: Batch processing with configurable parameters adapts to different environments
 
 ## Implementation Details
 
@@ -43,6 +48,7 @@ The thread processing follows these steps:
    - Merge results from both methods while avoiding duplicates
    - For each potential thread, fetch the complete thread
    - Add the thread records to the bookmark data
+   - Process in batches with configurable delays to respect API rate limits
 
 ## Testing
 
@@ -51,6 +57,7 @@ The PR includes full test coverage for the thread processing logic. Manual testi
 ## Future Improvements
 
 - Add caching for thread data to minimize API calls
+- Further optimize rate limit handling with shared rate limit state across requests
 - Implement sentiment analysis on thread content
 - Add explicit thread marker detection (1/5, 🧵, etc.)
 - Provide options for thread rendering in the UI
