@@ -546,6 +546,52 @@ class DeltaLoadETL:
         
         return transformed_data
 
+    def process_twitter_threads(self, data):
+        """Process Twitter threads from the fetched data.
+        
+        This method identifies potential Twitter threads in the data and fetches
+        the complete thread data using the TwitterThreadFetcher.
+        
+        Args:
+            data: List of processed bookmark records
+            
+        Returns:
+            List of complete thread records
+        """
+        try:
+            # Import the ThreadProcessor
+            from tools.thread_processor import ThreadProcessor
+            
+            # Initialize the thread processor
+            thread_processor = ThreadProcessor(
+                twitter_user_id=self.twitter_user_id,
+                ct0=self.twitter_ct0,
+                auth_token=self.twitter_auth_token
+            )
+            
+            # Process threads
+            logger.info("Processing Twitter threads...")
+            threads = thread_processor.process_threads(data)
+            
+            # Add thread records to the data
+            if threads:
+                logger.info(f"Adding {len(threads)} thread records to data")
+                next_id = max([record.get('id', 0) for record in data]) + 1
+                
+                for thread in threads:
+                    # Set the ID for the thread record
+                    thread['id'] = next_id
+                    next_id += 1
+                    
+                    # Add the thread record to the data
+                    data.append(thread)
+            
+            return data
+        except Exception as e:
+            logger.error(f"Error processing Twitter threads: {e}")
+            logger.error(traceback.format_exc())
+            return data
+            
     def process_data(self):
         """Main data processing pipeline."""
         try:
@@ -579,6 +625,10 @@ class DeltaLoadETL:
                 
                 # Combine with existing data
                 all_data = existing_data + transformed_data
+                
+                # Process Twitter threads
+                logger.info("Processing Twitter threads...")
+                all_data = self.process_twitter_threads(all_data)
                 
                 # Write combined data
                 self.write_jsonl(all_data)
