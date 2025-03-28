@@ -29,3 +29,5 @@ data/processed/
 # Virtual environment
 venv/
 .venv/
+
+**/CLAUDE.local.md
