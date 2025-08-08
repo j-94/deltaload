@@ -1,0 +1,211 @@
+default_model: gpt-4o-mini
+
+system_prompt:
+  dataset_description: Bookmarks with delta tracking, including content changes, access patterns, and temporal data
+  persona: A data analyst specializing in bookmark intelligence and content change detection
+
+datasets:
+  raw_bookmarks:
+    path: bookmark-delta-data/bookmarks.json
+    type: json
+  
+  delta_changes:
+    path: bookmark-delta-data/changes-*.json
+    type: json
+    glob: true
+
+operations:
+  # Extract deeper insights from bookmark content
+  - name: analyze_content_patterns
+    type: map
+    prompt: |
+      Analyze this bookmark for deeper content patterns and insights:
+      
+      URL: {{ input.url }}
+      Title: {{ input.title }}
+      Description: {{ input.description }}
+      Categories: {{ input.categories | join(", ") }}
+      Content Length: {{ input.content_length }}
+      Reading Time: {{ input.reading_time }} minutes
+      Last Updated: {{ input.updated_at }}
+      Change Frequency: {{ input.change_frequency }}
+      Content Stability: {{ input.content_stability }}
+      
+      Provide:
+      1. Content evolution pattern (static/dynamic/seasonal/trending)
+      2. Information density score (0-10)
+      3. Content type classification (reference/news/tutorial/tool/research)
+      4. Freshness indicator (evergreen/time-sensitive/outdated)
+      5. Potential value score (0-10) based on uniqueness and utility
+      6. Recommended check frequency (daily/weekly/monthly/quarterly)
+      7. Related topics that might be missing
+      8. Quality indicators (authoritative/community/personal/commercial)
+    output:
+      schema:
+        content_evolution: string
+        information_density: number
+        content_type: string
+        freshness: string
+        value_score: number
+        check_frequency: string
+        missing_topics: "list[string]"
+        quality_indicators: "list[string]"
+        # Pass through original fields
+        id: string
+        url: string
+        title: string
+        categories: "list[string]"
+        change_frequency: number
+        content_stability: number
+
+  # Analyze change patterns over time
+  - name: analyze_delta_patterns
+    type: map
+    optimize: true
+    prompt: |
+      Analyze the change history for this bookmark:
+      
+      Bookmark: {{ input.data.title if input.data else "Deleted" }}
+      Change Type: {{ input.type }}
+      Timestamp: {{ input.timestamp }}
+      Hash: {{ input.hash }}
+      
+      {% if input.data %}
+      Previous Stability: {{ input.data.content_stability }}
+      Change Frequency: {{ input.data.change_frequency }}
+      {% endif %}
+      
+      Determine:
+      1. Change significance (minor/moderate/major)
+      2. Change category (content/metadata/structural/removal)
+      3. Likely cause (update/correction/expansion/redesign)
+      4. Impact on value (increased/decreased/neutral)
+      5. Anomaly score (0-1) for unusual changes
+    output:
+      schema:
+        change_significance: string
+        change_category: string
+        likely_cause: string
+        value_impact: string
+        anomaly_score: number
+        bookmark_id: string
+        change_type: string
+        timestamp: string
+
+  # Generate bookmark intelligence report
+  - name: generate_intelligence
+    type: reduce
+    reduce_key: "_all"
+    prompt: |
+      Generate a comprehensive bookmark intelligence report from all analyzed bookmarks:
+      
+      Total Bookmarks: {{ inputs | length }}
+      
+      {% set high_value = inputs | selectattr("value_score", ">=", 8) | list %}
+      {% set frequently_changing = inputs | selectattr("change_frequency", ">=", 5) | list %}
+      {% set stable_references = inputs | selectattr("content_stability", ">=", 0.9) | list %}
+      
+      High Value Bookmarks (score >= 8): {{ high_value | length }}
+      Frequently Changing: {{ frequently_changing | length }}
+      Stable References: {{ stable_references | length }}
+      
+      Categories Distribution:
+      {% for category in inputs | map(attribute="categories") | flatten | unique %}
+      - {{ category }}: {{ inputs | selectattr("categories", "contains", category) | list | length }}
+      {% endfor %}
+      
+      Create an intelligence report that includes:
+      1. Executive summary of bookmark collection health
+      2. Top 10 most valuable bookmarks with reasons
+      3. Bookmarks requiring immediate attention (outdated/broken)
+      4. Emerging topic clusters not well represented
+      5. Recommendation for bookmark curation actions
+      6. Optimal checking schedule for different bookmark groups
+      7. Content gap analysis
+      8. Quality score distribution insights
+    output:
+      schema:
+        executive_summary: string
+        top_valuable_bookmarks: |
+          list[{
+            url: str,
+            title: str,
+            value_score: float,
+            reason: str
+          }]
+        attention_required: |
+          list[{
+            url: str,
+            title: str,
+            issue: str,
+            action: str
+          }]
+        emerging_topics: "list[string]"
+        curation_recommendations: "list[string]"
+        checking_schedule: |
+          list[{
+            group: str,
+            frequency: str,
+            bookmark_count: int
+          }]
+        content_gaps: "list[string]"
+        quality_insights: string
+
+  # Create personalized bookmark recommendations
+  - name: generate_recommendations
+    type: map
+    prompt: |
+      Based on this bookmark's characteristics, generate personalized recommendations:
+      
+      Title: {{ input.title }}
+      Categories: {{ input.categories | join(", ") }}
+      Content Type: {{ input.content_type }}
+      Information Density: {{ input.information_density }}
+      Value Score: {{ input.value_score }}
+      Quality Indicators: {{ input.quality_indicators | join(", ") }}
+      
+      Generate:
+      1. 3-5 similar bookmarks that would complement this one
+      2. Learning path if this is educational content
+      3. Alternative sources for the same information
+      4. Related tools or resources
+      5. Next actions the user should take
+    output:
+      schema:
+        similar_bookmarks: "list[string]"
+        learning_path: "list[string]"
+        alternative_sources: "list[string]"
+        related_tools: "list[string]"
+        next_actions: "list[string]"
+        bookmark_id: string
+        title: string
+
+pipeline:
+  steps:
+    - name: analyze_bookmarks
+      input: raw_bookmarks
+      operations:
+        - analyze_content_patterns
+        - generate_recommendations
+        
+    - name: analyze_changes
+      input: delta_changes
+      operations:
+        - analyze_delta_patterns
+    
+    - name: generate_report
+      input: analyze_bookmarks
+      operations:
+        - generate_intelligence
+
+output:
+  type: file
+  path: bookmark-intelligence-report.json
+  intermediate_dir: bookmark_intelligence_intermediates
+
+# Optimization settings
+optimize: true
+max_threads: 4
+
+# Cost optimization - use sampling for development
+# sample_size: 100

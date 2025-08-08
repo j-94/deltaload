@@ -1,0 +1,23 @@
+{
+  "name": "bookmark-delta-etl",
+  "version": "1.0.0",
+  "description": "Delta load ETL pipeline for bookmark data extraction and enrichment",
+  "main": "run-bookmark-etl.ts",
+  "scripts": {
+    "start": "bun run run-bookmark-etl.ts",
+    "etl": "bun run run-bookmark-etl.ts",
+    "etl:simple": "bun run run-bookmark-etl.ts --no-docetl",
+    "etl:full": "bun run run-bookmark-etl.ts --content --social --temporal",
+    "test": "bun run run-bookmark-etl.ts --batch 2 test_bookmarks.jsonl"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "latest",
+    "ai": "latest",
+    "cheerio": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "typescript": "latest"
+  }
+}
