@@ -4,3 +4,7 @@ node_modules/
 bookmark-delta-data/
 .env
 *.jsonl
+raw/
+unified/REPORT.md
+unified/run-*.jsonl
+unified/changes-*.json

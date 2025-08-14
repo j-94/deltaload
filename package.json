@@ -8,7 +8,15 @@
     "etl": "bun run run-bookmark-etl.ts",
     "etl:simple": "bun run run-bookmark-etl.ts --no-docetl",
     "etl:full": "bun run run-bookmark-etl.ts --content --social --temporal",
-    "test": "bun run run-bookmark-etl.ts --batch 2 test_bookmarks.jsonl"
+    "test": "bun run run-bookmark-etl.ts --batch 2 test_bookmarks.jsonl",
+    "unified:run": "bun src/cli/unified.ts",
+    "unified:verify": "bun src/cli/verify.ts",
+    "unified:report": "bun src/cli/report.ts",
+    "check": "tsc --noEmit",
+    "env:check": "bun check-credentials.ts --test",
+    "fetch:raindrop": "bun bin/fetch-raindrop.ts",
+    "fetch:github": "bun bin/fetch-github-stars.ts",
+    "fetch:all": "bun bin/fetch-all.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "latest",

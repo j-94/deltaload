@@ -30,6 +30,7 @@ A comprehensive ETL pipeline for bookmark data that implements delta load functi
 ```bash
 cd bookmark-delta-etl
 bun install
+bun run check
 ```
 
 ## Usage
@@ -64,6 +65,41 @@ bun run etl --no-docetl --batch 5 *.json
 # Full analysis with custom output
 bun run etl --output ./my-data --content --social bookmarks.csv
 ```
+
+## Data Sources & .env
+
+Copy `.env.example` to `.env` and fill in what you have:
+
+- `RAINDROP_API_KEY` (Raindrop.io REST)
+- `GITHUB_TOKEN` (GitHub PAT for starred repos)
+- `X_CT0`, `X_AUTH_TOKEN`, `X_KDT` (optional; X.com cookies for Grok scraping)
+- `OPENAI_API_KEY`, `ANTHROPIC_API_KEY` (optional; enrichment)
+- `UNIFIED_CHAT_PATH` (optional; path to your unified chat JSON)
+
+Then check credentials and guidance:
+
+```bash
+bun check-credentials.ts --setup --test
+```
+
+## Fetch + Ingest (Unified)
+
+Fetch from APIs (Raindrop, GitHub) and ingest into the unified delta store:
+
+```bash
+# Fetch sources individually
+bun bin/fetch-raindrop.ts
+bun bin/fetch-github-stars.ts
+
+# Or fetch everything available and ingest to unified
+bun bin/fetch-all.ts
+
+# Verify + report
+bun unified/verify.ts ./unified
+bun unified/report.ts ./unified
+```
+
+Raw API dumps will be written to `raw/`. Unified outputs land in `unified/`.
 
 ## Data Flow
 
@@ -141,3 +177,37 @@ console.log(`Recent changes: ${stats.changesLast24h}`);
 ## Contributing
 
 This pipeline follows the delta load patterns from [j-94/deltaload](https://github.com/j-94/deltaload). Contributions welcome!
+
+## Unified Format + Delta Loading (New)
+
+In addition to bookmark-specific ETL, the repo includes a source-agnostic unified schema and delta loader under `unified/` to normalize multiple data types (bookmarks and unified chat to start).
+
+- Unified schema: `unified/unified-schema.ts` (Zod)
+- Normalizers: `unified/normalize.ts` (bookmarks, unified chat)
+- Delta engine: `unified/unified-delta.ts` (snapshot/append modes)
+- CLI: `unified/cli.ts`
+- Verification: `unified/verify.ts`
+
+Usage examples:
+
+```
+# Normalize bookmarks JSONL and write unified outputs to ./unified
+bun unified/cli.ts bookmark:more-bookmarks.jsonl
+
+# Process unified chat (conversations[]) and bookmarks together in snapshot mode
+bun unified/cli.ts --out ./unified --mode snapshot \
+  bookmark:/Users/imac/Desktop/Donkeyv1/context/bookmark/docetl_bookmarkv0/processed_bookmarks_for_docetl.jsonl \
+  chat_unified:/Users/imac/Desktop/Donkeyv1/context/chat_history/unified_data/unified_chat_properly_separated_20250613_150354.json
+
+# Verify unified outputs
+bun unified/verify.ts ./unified
+
+# Generate a report and markdown snapshot
+bun unified/report.ts ./unified
+```
+
+Outputs:
+- `unified/run-<timestamp>.jsonl` — normalized records
+- `unified/changes-<timestamp>.json` — delta summary (added/modified/deleted/unchanged)
+- `unified/unified-manifest.json` — persistent hashes for delta detection
+- `unified/REPORT.md` — human-friendly summary written by report tool

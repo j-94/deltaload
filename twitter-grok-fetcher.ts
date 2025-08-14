@@ -1,6 +1,7 @@
 import { z } from 'zod';
 import * as fs from 'fs/promises';
 import * as path from 'path';
+import { createHmac, randomBytes } from 'crypto';
 import { EnhancedBookmark } from './enhanced-bookmark-schema';
 import { BookmarkDeltaETL } from './delta-load-pipeline';
 import { getCredentialsManager, CredentialsManager } from './credentials-manager';
@@ -405,23 +406,305 @@ export class TwitterGrokFetcher {
   // Fetch user timeline using X.com's GraphQL API
   async fetchUserTimeline(username: string, sinceId?: string): Promise<TwitterThread[]> {
     console.log(`📱 Fetching timeline for @${username}${sinceId ? ` since ${sinceId}` : ''}`);
-    
+
+    // Prefer official Twitter API v2 if available; fall back to cookies-based scraping later
+    const { hasCredentials: hasApiCreds, credentials: apiCreds } = this.credentialsManager.getTwitterAPICredentials();
+
+    if (!hasApiCreds) {
+      console.warn('⚠️  Twitter API credentials not configured. Will try cookies-based GraphQL fetch.');
+    }
+
+    try {
+      // 1) Resolve user by username to get user id and name
+      const userLookupUrl = `https://api.twitter.com/2/users/by/username/${encodeURIComponent(username)}`;
+      const userLookupParams: Record<string, string> = { 'user.fields': 'name,username' };
+      const userHeaders: HeadersInit = apiCreds.bearer_token
+        ? { Authorization: `Bearer ${apiCreds.bearer_token}` }
+        : this.buildOAuth1Header('GET', userLookupUrl, userLookupParams);
+      const userRes = await fetch(`${userLookupUrl}?${new URLSearchParams(userLookupParams)}`, { headers: userHeaders });
+      if (!userRes.ok) {
+        console.error(`❌ Failed to resolve user @${username}: ${userRes.status}`);
+        // Fall back to cookies-based flow below
+        throw new Error(`user-lookup-${userRes.status}`);
+      }
+      const userJson = await userRes.json();
+      const user = userJson?.data;
+      if (!user?.id) {
+        console.warn(`⚠️  No user id for @${username}`);
+        return [];
+      }
+
+      // 2) Fetch tweets in pages, honoring since_id when provided
+      const collected: TwitterThread[] = [];
+      let nextToken: string | undefined = undefined;
+      let page = 0;
+
+      do {
+        const params = new URLSearchParams({
+          max_results: '100',
+          'tweet.fields': [
+            'created_at',
+            'public_metrics',
+            'entities',
+            'conversation_id',
+            'referenced_tweets',
+            'in_reply_to_user_id'
+          ].join(','),
+          ...(sinceId ? { since_id: sinceId } : {}),
+          ...(nextToken ? { pagination_token: nextToken } : {})
+        } as Record<string, string>);
+
+        const baseUrl = `https://api.twitter.com/2/users/${user.id}/tweets`;
+        const headers: HeadersInit = apiCreds.bearer_token
+          ? { Authorization: `Bearer ${apiCreds.bearer_token}` }
+          : this.buildOAuth1Header('GET', baseUrl, Object.fromEntries(params));
+        const res = await fetch(`${baseUrl}?${params.toString()}`, { headers });
+        if (!res.ok) {
+          console.error(`❌ Timeline fetch error: ${res.status}`);
+          break;
+        }
+        const json = await res.json();
+        const tweets = Array.isArray(json?.data) ? json.data : [];
+        const meta = json?.meta || {};
+
+        for (const t of tweets) {
+          const thread: TwitterThread = {
+            id: t.id,
+            conversation_id: t.conversation_id || t.id,
+            author: { username: user.username, name: user.name, id: user.id },
+            created_at: t.created_at,
+            text: t.text,
+            in_reply_to_id: t?.referenced_tweets?.find((r: any) => r.type === 'replied_to')?.id,
+            referenced_tweets: (t.referenced_tweets || []).map((r: any) => ({ type: r.type, id: r.id })),
+            public_metrics: t.public_metrics ? {
+              retweet_count: t.public_metrics.retweet_count || 0,
+              reply_count: t.public_metrics.reply_count || 0,
+              like_count: t.public_metrics.like_count || 0,
+              quote_count: t.public_metrics.quote_count || 0,
+            } : undefined,
+            entities: t.entities ? {
+              urls: (t.entities.urls || []).map((u: any) => ({
+                url: u.url,
+                expanded_url: u.expanded_url || u.url,
+                display_url: u.display_url || u.expanded_url || u.url,
+              })),
+              hashtags: (t.entities.hashtags || []).map((h: any) => ({ tag: h.tag })),
+              mentions: (t.entities.mentions || []).map((m: any) => ({ username: m.username }))
+            } : undefined,
+          };
+          collected.push(thread);
+        }
+
+        nextToken = meta?.next_token;
+        page += 1;
+        // Avoid hammering the API
+        if (nextToken) {
+          await new Promise(r => setTimeout(r, 350));
+        }
+      } while (nextToken);
+
+      // Sort ascending by created_at to maintain state correctness
+      collected.sort((a, b) => new Date(a.created_at).getTime() - new Date(b.created_at).getTime());
+      console.log(`✅ Retrieved ${collected.length} tweets for @${username}`);
+      return collected;
+    } catch (err) {
+      console.warn('⚠️  API-based fetch failed or unavailable, attempting cookies-based GraphQL fetch...');
+      try {
+        const threads = await this.fetchTimelineViaCookies(username, sinceId);
+        return threads;
+      } catch (e) {
+        console.error('❌ Cookies-based GraphQL fetch failed:', e);
+        return [];
+      }
+    }
+  }
+
+  // Build OAuth 1.0a Authorization header for Twitter API requests
+  private buildOAuth1Header(
+    method: 'GET' | 'POST',
+    url: string,
+    queryParams: Record<string, string>
+  ): HeadersInit {
+    const { credentials } = this.credentialsManager.getTwitterAPICredentials();
+    const consumerKey = credentials.api_key || '';
+    const consumerSecret = credentials.api_secret || '';
+    const token = credentials.access_token || '';
+    const tokenSecret = credentials.access_token_secret || '';
+
+    const oauthParams: Record<string, string> = {
+      oauth_consumer_key: consumerKey,
+      oauth_nonce: randomBytes(16).toString('hex'),
+      oauth_signature_method: 'HMAC-SHA1',
+      oauth_timestamp: Math.floor(Date.now() / 1000).toString(),
+      oauth_token: token,
+      oauth_version: '1.0',
+    };
+
+    const allParams: Record<string, string> = { ...queryParams, ...oauthParams };
+
+    const percentEncode = (str: string) => encodeURIComponent(str)
+      .replace(/[!'()*]/g, c => '%' + c.charCodeAt(0).toString(16).toUpperCase());
+
+    const paramString = Object.keys(allParams)
+      .sort()
+      .map(k => `${percentEncode(k)}=${percentEncode(allParams[k])}`)
+      .join('&');
+
+    const signatureBaseString = [
+      method.toUpperCase(),
+      percentEncode(url),
+      percentEncode(paramString),
+    ].join('&');
+
+    const signingKey = `${percentEncode(consumerSecret)}&${percentEncode(tokenSecret)}`;
+    const signature = createHmac('sha1', signingKey)
+      .update(signatureBaseString)
+      .digest('base64');
+
+    const authHeader = 'OAuth ' + [
+      `oauth_consumer_key="${percentEncode(consumerKey)}"`,
+      `oauth_nonce="${percentEncode(oauthParams.oauth_nonce)}"`,
+      `oauth_signature="${percentEncode(signature)}"`,
+      `oauth_signature_method="HMAC-SHA1"`,
+      `oauth_timestamp="${oauthParams.oauth_timestamp}"`,
+      `oauth_token="${percentEncode(token)}"`,
+      `oauth_version="1.0"`,
+    ].join(', ');
+
+    return { Authorization: authHeader };
+  }
+
+  // Cookies-based timeline fetch using X.com GraphQL UserTweets endpoint
+  private async fetchTimelineViaCookies(username: string, sinceId?: string): Promise<TwitterThread[]> {
     const { hasCredentials, credentials } = await this.checkCredentials();
-    
     if (!hasCredentials) {
-      console.warn('⚠️  Skipping timeline fetch - no credentials found');
+      console.warn('⚠️  No X.com cookies found (X_CT0, X_AUTH_TOKEN).');
       return [];
     }
-    
-    // UserTweets GraphQL endpoint (you may need to update this hash)
+
+    // Use env-provided user id if available, since GraphQL hashes for user lookup change frequently
+    const userId = process.env.TWITTER_USER_ID;
+    if (!userId) {
+      throw new Error('TWITTER_USER_ID not set; set it to use cookies-based timeline fetch.');
+    }
+
+    // Known (subject to change) GraphQL endpoint for UserTweets
     const endpoint = 'https://x.com/i/api/graphql/V7H0Ap3_Hh2FyS75OCDO3Q/UserTweets';
-    
-    // First, we need to get the user ID
-    // For now, we'll return empty - this would need user lookup implementation
-    console.log('📱 User timeline fetching requires user ID lookup - not implemented yet');
-    console.log('   Use Grok conversation URLs directly instead');
-    
-    return [];
+
+    const features = {
+      rweb_tipjar_consumption_enabled: true,
+      responsive_web_graphql_exclude_directive_enabled: true,
+      verified_phone_label_enabled: false,
+      responsive_web_graphql_timeline_navigation_enabled: true,
+      responsive_web_graphql_skip_user_profile_image_extensions_enabled: false,
+      tweet_awards_web_tipping_enabled: false,
+      freedom_of_speech_not_reach_fetch_enabled: true,
+      standardized_nudges_misinfo: true,
+      tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled: true,
+      longform_notetweets_inline_media_enabled: true,
+      longform_notetweets_rich_text_read_enabled: true,
+      responsive_web_edit_tweet_api_enabled: true,
+      graphql_is_translatable_rweb_tweet_is_translatable_enabled: true,
+      view_counts_everywhere_api_enabled: true,
+      longform_notetweets_consumption_enabled: true,
+      responsive_web_twitter_article_tweet_consumption_enabled: true,
+      creator_subscriptions_tweet_preview_api_enabled: true
+    };
+
+    const variablesBase: any = {
+      userId: userId,
+      count: 100,
+      includePromotedContent: false,
+      withQuickPromoteEligibilityTweetFields: true,
+      withVoice: true,
+      withV2Timeline: true
+    };
+
+    // Prepare headers with cookies
+    const headers = {
+      'authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA',
+      'User-Agent': 'Mozilla/5.0',
+      'Accept': '*/*',
+      'Content-Type': 'application/json',
+      'x-twitter-auth-type': 'OAuth2Session',
+      'x-twitter-client-language': 'en',
+      'x-twitter-active-user': 'yes',
+      'x-csrf-token': credentials.ct0!,
+      'cookie': `ct0=${credentials.ct0}; auth_token=${credentials.auth_token}${credentials.kdt ? `; kdt=${credentials.kdt}` : ''}`
+    } as HeadersInit;
+
+    const collected: TwitterThread[] = [];
+    let cursor: string | undefined = undefined;
+    let page = 0;
+
+    while (true) {
+      const variables = {
+        ...variablesBase,
+        ...(cursor ? { cursor } : {}),
+      };
+
+      const params = new URLSearchParams({
+        variables: JSON.stringify(variables),
+        features: JSON.stringify(features)
+      });
+
+      const res = await fetch(`${endpoint}?${params}`, { headers });
+      if (!res.ok) {
+        throw new Error(`UserTweets GraphQL error ${res.status}`);
+      }
+      const json = await res.json();
+
+      // Walk entries to extract tweets
+      const entries = json?.data?.user?.result?.timeline_v2?.timeline?.instructions?.flatMap((ins: any) => ins.entries || []) || [];
+      for (const entry of entries) {
+        const content = entry?.content;
+        if (content?.itemContent?.tweet_results?.result) {
+          const t = content.itemContent.tweet_results.result.legacy;
+          const core = content.itemContent.tweet_results.result.core?.user_results?.result?.legacy;
+          if (!t) continue;
+          const thread: TwitterThread = {
+            id: t.id_str,
+            conversation_id: t.conversation_id_str || t.id_str,
+            author: {
+              username: core?.screen_name || username,
+              name: core?.name || username,
+              id: content.itemContent.tweet_results.result.core?.user_results?.result?.rest_id || userId
+            },
+            created_at: new Date(t.created_at).toISOString(),
+            text: t.full_text || t.text || '',
+            in_reply_to_id: t?.in_reply_to_status_id_str,
+            referenced_tweets: [],
+            public_metrics: {
+              retweet_count: t.retweet_count || 0,
+              reply_count: t.reply_count || 0,
+              like_count: t.favorite_count || 0,
+              quote_count: t.quote_count || 0
+            },
+            entities: t.entities ? {
+              urls: (t.entities.urls || []).map((u: any) => ({ url: u.url, expanded_url: u.expanded_url || u.url, display_url: u.display_url || u.expanded_url || u.url })),
+              hashtags: (t.entities.hashtags || []).map((h: any) => ({ tag: h.text || h.tag })),
+              mentions: (t.entities.user_mentions || []).map((m: any) => ({ username: m.screen_name || m.username }))
+            } : undefined
+          };
+          // sinceId filter (client-side) if provided
+          if (!sinceId || thread.id > sinceId) {
+            collected.push(thread);
+          }
+        }
+        // Pagination cursor
+        if (content?.operation?.cursor?.value) {
+          cursor = content.operation.cursor.value;
+        }
+      }
+
+      page += 1;
+      if (!cursor || page >= 5) break; // limit pages to avoid long runs
+      await new Promise(r => setTimeout(r, 800));
+    }
+
+    collected.sort((a, b) => new Date(a.created_at).getTime() - new Date(b.created_at).getTime());
+    console.log(`✅ Retrieved ${collected.length} tweets for userId ${userId} via cookies`);
+    return collected;
   }
   
   // Process and integrate Twitter/Grok data into bookmarks
@@ -654,7 +937,8 @@ export class TwitterGrokFetcher {
     for (const [convId, thread] of threads) {
       const threadBookmark = this.createThreadBookmark(
         thread,
-        `https://x.com/i/grok/conversation=${convId}`
+        // Use a standard X.com status URL pointing to the first tweet
+        `https://x.com/${thread[0].author.username}/status/${thread[0].id}`
       );
       bookmarks.push(threadBookmark);
     }
