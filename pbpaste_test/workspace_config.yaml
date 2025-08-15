@@ -1,0 +1,114 @@
+  tab name="Main Dashboard" {
+      pane size=1 {
+          name "System Stats"
+          command "htop"
+      }
+      pane {
+          split_direction "vertical" {
+              pane name="Pipeline 1" {
+                  command "bash"
+                  args "-c" "cd /Users/dev/data-agent/pipeline1 && python monitor.py"
+              }
+              pane name="Pipeline 2" {
+                  command "bash"
+                  args "-c" "cd /Users/dev/data-agent/pipeline2 && python monitor.py"
+              }
+              pane name="Pipeline 3" {
+                  command "bash"
+                  args "-c" "cd /Users/dev/data-agent/pipeline3 && python monitor.py"
+              }
+          }
+      }
+      pane size=1 {
+          name "Alerts Watcher"
+          command "bash"
+          args "-c" "cd /Users/dev/data-agent/alerts && python watcher.py"
+      }
+  }
+
+  tab name="Data Processing" {
+      pane split_direction="vertical" {
+          pane size="60%" {
+              name "Jupyter Lab"
+              command "bash"
+              args "-c" "cd /Users/dev/data-agent/notebooks && jupyter lab"
+          }
+          pane {
+              split_direction "horizontal" {
+                  pane name="Database CLI" {
+                      command "psql"
+                      args "postgresql://user:pass@localhost:5432/datastore"
+                  }
+                  pane name="Redis Monitor" {
+                      command "redis-cli"
+                      args "monitor"
+                  }
+                  pane name="Kafka Consumer" {
+                      command "bash"
+                      args "-c" "cd /Users/dev/data-agent/kafka && python consumer.py"
+                  }
+              }
+          }
+      }
+  }
+
+  tab name="Model Training" {
+      pane split_direction="vertical" {
+          pane size="50%" {
+              name "Training Logs"
+              command "bash"
+              args "-c" "cd /Users/dev/data-agent/models && python trainer.py --verbose"
+          }
+          pane {
+              split_direction "horizontal" {
+                  pane name="Model Evaluation" {
+                      command "bash"
+                      args "-c" "cd /Users/dev/data-agent/models && python evaluate.py --dashboard"
+                  }
+                  pane name="GPU Monitoring" {
+                      command "nvidia-smi"
+                      args "-l" "1"
+                  }
+              }
+          }
+      }
+  }
+
+  tab name="Visualization" {
+      pane {
+          name "Streamlit App"
+          command "bash"
+          args "-c" "cd /Users/dev/data-agent/viz && streamlit run app.py"
+      }
+  }
+
+  tab name="ETL" {
+      pane {
+          split_direction "horizontal" {
+              pane {
+                  split_direction "vertical" {
+                      pane name="Extract Jobs" {
+                          command "bash"
+                          args "-c" "cd /Users/dev/data-agent/etl && python extract.py --watch"
+                      }
+                      pane name="Transform Jobs" {
+                          command "bash"
+                          args "-c" "cd /Users/dev/data-agent/etl && python transform.py --watch"
+                      }
+                  }
+              }
+              pane {
+                  split_direction "vertical" {
+                      pane name="Load Jobs" {
+                          command "bash"
+                          args "-c" "cd /Users/dev/data-agent/etl && python load.py --watch"
+                      }
+                      pane name="ETL Logs" {
+                          command "bash"
+                          args "-c" "cd /Users/dev/data-agent/logs && tail -f etl.log"
+                      }
+                  }
+              }
+          }
+      }
+  }

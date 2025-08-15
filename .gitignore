@@ -1,0 +1,11 @@
+# Large data files
+*.jsonl
+*.csv
+*.log
+*.bak
+
+# System files
+.DS_Store
+__pycache__/
+*.pyc
+.env

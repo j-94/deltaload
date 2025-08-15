@@ -1,0 +1,66 @@
+name: Full ETL Pipeline
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run hourly
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  etl-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for proper deltaload
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run full ETL pipeline
+        run: |
+          python pipeline/etl_pipeline.py
+        env:
+          TWITTER_USER_ID: ${{ secrets.TWITTER_USER_ID }}
+          TWITTER_CT0: ${{ secrets.TWITTER_CT0 }}
+          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+
+      - name: Check for significant changes
+        id: check_changes
+        run: |
+          ADDED=$(git diff --numstat data-bookmark-final.jsonl | cut -f1)
+          DELETED=$(git diff --numstat data-bookmark-final.jsonl | cut -f2)
+          TOTAL_CHANGES=$((ADDED + DELETED))
+          echo "TOTAL_CHANGES=$TOTAL_CHANGES" >> $GITHUB_ENV
+          if [ "$TOTAL_CHANGES" -gt 100 ]; then
+            echo "SIGNIFICANT_CHANGES=true" >> $GITHUB_ENV
+          else
+            echo "SIGNIFICANT_CHANGES=false" >> $GITHUB_ENV
+          fi
+          echo "Changes detected: $TOTAL_CHANGES lines"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add data-bookmark.jsonl data-bookmark-enriched.jsonl data-bookmark-final.jsonl README.md
+          git commit -m "Automated ETL pipeline run [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Upload to HuggingFace
+        if: env.SIGNIFICANT_CHANGES == 'true'
+        run: |
+          echo "Significant changes detected, uploading to HuggingFace"
+          python upload_hf.py
+          python upload_dataset_card.py
+        env:
+          HUGGINGFACE_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}

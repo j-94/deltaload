@@ -1,0 +1,102 @@
+name: Hourly Deltaload
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  deltaload:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed for updating repository contents
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+        fetch-depth: 1
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Run deltaload
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+        TWITTER_USER_ID: ${{ secrets.TWITTER_USER_ID }}
+        TWITTER_CT0: ${{ secrets.TWITTER_CT0 }}
+        TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+      run: |
+        python deltaload.py
+        
+    - name: Update data file
+      uses: actions/github-script@v7
+      with:
+        github-token: ${{ secrets.GH_TOKEN }}
+        script: |
+          const fs = require('fs');
+          const path = require('path');
+          
+          // Read the updated data file
+          const dataPath = path.join(process.env.GITHUB_WORKSPACE, 'data-bookmark.jsonl');
+          const content = fs.readFileSync(dataPath, 'utf8');
+          
+          try {
+            // Get the current file to get its SHA
+            const { data: currentFile } = await github.rest.repos.getContent({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: 'data-bookmark.jsonl',
+            });
+            
+            // Update the file
+            await github.rest.repos.createOrUpdateFileContents({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: 'data-bookmark.jsonl',
+              message: 'Update data [skip ci]',
+              content: Buffer.from(content).toString('base64'),
+              sha: currentFile.sha,
+              committer: {
+                name: 'github-actions[bot]',
+                email: 'github-actions[bot]@users.noreply.github.com'
+              },
+              author: {
+                name: 'github-actions[bot]',
+                email: 'github-actions[bot]@users.noreply.github.com'
+              }
+            });
+            
+            console.log('Successfully updated data file');
+          } catch (error) {
+            if (error.status === 404) {
+              // File doesn't exist yet, create it
+              await github.rest.repos.createOrUpdateFileContents({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                path: 'data-bookmark.jsonl',
+                message: 'Create data file [skip ci]',
+                content: Buffer.from(content).toString('base64'),
+                committer: {
+                  name: 'github-actions[bot]',
+                  email: 'github-actions[bot]@users.noreply.github.com'
+                },
+                author: {
+                  name: 'github-actions[bot]',
+                  email: 'github-actions[bot]@users.noreply.github.com'
+                }
+              });
+              
+              console.log('Successfully created data file');
+            } else {
+              throw error;
+            }
+          }

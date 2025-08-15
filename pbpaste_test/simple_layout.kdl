@@ -1,0 +1,29 @@
+layout {
+    default_tab_template {
+        pane size=1 borderless=true {
+            plugin location="zellij:tab-bar"
+        }
+        children
+        pane size=2 borderless=true {
+            plugin location="zellij:status-bar"
+        }
+    }
+
+    tab name="Main" {
+        pane command="htop"
+    }
+    
+    tab name="ETL Tools" {
+        pane split_direction="vertical" {
+            pane command="bash" {
+                args "-c" "echo 'Extract jobs would run here'"
+            }
+            pane command="bash" {
+                args "-c" "echo 'Transform jobs would run here'"
+            }
+            pane command="bash" {
+                args "-c" "echo 'Load jobs would run here'"
+            }
+        }
+    }
+}

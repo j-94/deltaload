@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs and temp data
+*.log
+logs/
+tmp/
+temp/
+test_output/
+pipeline/logs/
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+odr_env/
+.venv/
+env_files/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+*-backup*
+
+# Claude related
+.claude/
+CLAUDE.md
+claude-prompt.md
+
+# Data files - ignore by default
+data/processed/*
+*.batch_*.jsonl
+*-enriched-full.jsonl*
+*-cached-fixed.jsonl*
+*-retweets-fixed.jsonl*
+*-truncated-fixed.jsonl*
+*-sample*.jsonl
+
+# Explicitly include essential data
+!data/bookmarks/data-bookmark.jsonl
+!data/bookmarks/data-bookmark-final.jsonl
+!data/bookmarks/data-bookmark-twitter-fixed.jsonl
+!data/twitter_cache/backup/UserTweetsAndReplies.json
+!data/twitter_cache/backup/Likes.json
+!data/twitter_cache/current/20250414_193611_UserTweetsAndReplies.json
+!data/twitter_cache/current/20250414_193615_Likes.json
+
+# macOS system files
+.DS_Store

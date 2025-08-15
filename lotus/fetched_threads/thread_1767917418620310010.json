@@ -1,0 +1,37 @@
+{
+  "url": "https://twitter.com/i/web/status/1767917418620310010",
+  "source": "twitter",
+  "status": "success",
+  "content": "This is a mock tweet thread for testing.\n\nIt contains multiple mock tweets.",
+  "created_at": "2025-03-28T12:47:24.682580+00:00",
+  "metadata": {
+    "thread_id": "1767917418620310010",
+    "author": {
+      "name": "Test User",
+      "screen_name": "testuser",
+      "followers_count": 1000
+    },
+    "tweet_count": 2,
+    "type": "thread",
+    "tweets": [
+      {
+        "id": "1767917418620310010",
+        "text": "This is a mock tweet thread for testing.",
+        "media": [],
+        "created_at": "2025-03-28T12:47:24.682580+00:00",
+        "favorite_count": 42,
+        "retweet_count": 10,
+        "reply_count": 5
+      },
+      {
+        "id": "1767917418620310011",
+        "text": "It contains multiple mock tweets.",
+        "media": [],
+        "created_at": "2025-03-28T12:47:24.682580+00:00",
+        "favorite_count": 21,
+        "retweet_count": 5,
+        "reply_count": 2
+      }
+    ]
+  }
+}

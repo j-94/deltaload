@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs and cache
+*.log
+cache/
+logs/
+test_cache/
+temp/
+tmp/
+test_output/
+pipeline/logs/
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+odr_env/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+*-backup*
+
+# Claude related
+.claude/
+CLAUDE.md
+claude-prompt.md
+
+# Data files
+data/staging/
+data/processed/
+data/web_cache/
+data/*/
+enriched/
+*.jsonl
+*.json
+*.batch_*.jsonl
+*-enriched-full.jsonl*
+*-cached-fixed.jsonl*
+*-retweets-fixed.jsonl*
+*-truncated-fixed.jsonl*
+*-twitter-fixed.jsonl*
+*-sample*.jsonl
+
+# Keep main data files
+!data-bookmark.jsonl
+!data-bookmark-final.jsonl
+!data-bookmark-enriched.jsonl
+!dataset_card.md
+
+# macOS system files
+.DS_Store
