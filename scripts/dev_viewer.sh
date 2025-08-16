@@ -2,14 +2,20 @@
 set -euo pipefail
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
-cd "$ROOT_DIR/apps/convex"
-echo "[dev:viewer] Starting Convex dev (if not initialized yet, it may prompt for login in an interactive terminal)..."
-(npx convex dev || echo "[dev:viewer] Convex dev could not start non-interactively (login required). Run: cd apps/convex && npx convex dev") & 
-CONVEX_PID=$!
-
-sleep 2
-CONVEX_URL="${CONVEX_URL:-http://127.0.0.1:3210}"
-echo "[dev:viewer] Using Convex URL: $CONVEX_URL"
+PUBLIC_URL="${NEXT_PUBLIC_CONVEX_URL:-}"
+if [[ -n "$PUBLIC_URL" && "$PUBLIC_URL" == *".convex.cloud"* ]]; then
+  echo "[dev:viewer] Detected Convex Cloud URL via NEXT_PUBLIC_CONVEX_URL: $PUBLIC_URL"
+  CONVEX_URL="$PUBLIC_URL"
+  CONVEX_PID=""
+else
+  cd "$ROOT_DIR/apps/convex"
+  echo "[dev:viewer] Starting Convex dev (if not initialized yet, it may prompt for login in an interactive terminal)..."
+  (npx convex dev || echo "[dev:viewer] Convex dev could not start non-interactively (login required). Run: cd apps/convex && npx convex dev") &
+  CONVEX_PID=$!
+  sleep 2
+  CONVEX_URL="${CONVEX_URL:-http://127.0.0.1:3210}"
+  echo "[dev:viewer] Using Convex URL: $CONVEX_URL"
+fi
 
 is_port_free() {
   local port="$1"
@@ -30,7 +36,14 @@ pick_port() {
 }
 VIEW_PORT="$(pick_port)"
 
-trap 'kill $CONVEX_PID >/dev/null 2>&1 || true' INT TERM EXIT
+if [[ -n "${CONVEX_PID:-}" ]]; then
+  trap 'kill $CONVEX_PID >/dev/null 2>&1 || true' INT TERM EXIT
+fi
+
 cd "$ROOT_DIR/apps/viewer"
 echo "[dev:viewer] Starting viewer at http://localhost:$VIEW_PORT ..."
-NEXT_PUBLIC_CONVEX_URL="$CONVEX_URL" npm run dev -- -p "$VIEW_PORT"
+if [[ -z "${PUBLIC_URL}" ]]; then
+  NEXT_PUBLIC_CONVEX_URL="$CONVEX_URL" npm run dev -- -p "$VIEW_PORT"
+else
+  npm run dev -- -p "$VIEW_PORT"
+fi

@@ -44,6 +44,12 @@ async function run() {
   }
   const { ConvexHttpClient } = await import("convex/browser")
   const client = new ConvexHttpClient(convexUrl)
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const setAuth = (client as any).setAuth?.bind(client)
+  const token = process.env.CONVEX_AUTH_TOKEN
+  if (setAuth && token) {
+    setAuth(async () => token)
+  }
   const upsert: UpsertFn = async (rec) => {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const res = await (client as any).mutation("mutations:upsertBookmarkMinimal", { record: rec })

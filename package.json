@@ -26,6 +26,7 @@
     "@ai-sdk/openai": "latest",
     "ai": "latest",
     "cheerio": "latest",
+    "convex": "^1.25.4",
     "zod": "latest"
   },
   "devDependencies": {
