@@ -1,8 +1,4 @@
 {
   "project": "deltaload-local",
-  "functions": "./convex",
-  "node": ">=18.17.0",
-  "auth": {
-    "providers": []
-  }
+  "functions": "./convex"
 }
