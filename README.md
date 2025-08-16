@@ -223,6 +223,15 @@ Outputs:
 Quickstart
 - Audit and seed preview:
   - bun scripts/data_audit.ts
+Importing data into Convex locally
+- Convex CLI may prompt for login when starting the dev server. For full import (not dry-run), run Convex dev in an interactive terminal first:
+  1) cd apps/convex
+  2) npx convex dev
+     - If prompted, login once; this links the local project
+  3) In a separate terminal from repo root:
+     - bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl
+- Alternatively, share a Convex Cloud dev URL and I can wire the importer to it directly (no local dev server needed).
+
   - Outputs in ./reports/: inventory.json, duplicates-within.json, duplicates-cross.json, schema-diff.json, seed_preview.jsonl, SUMMARY.md
 - Import to Convex (dry run by default):
   - bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl --dry-run
