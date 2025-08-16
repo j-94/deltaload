@@ -16,7 +16,7 @@ type Row = {
 }
 
 function useConvexSafe(url?: string | null) {
-  const [client, setClient] = useState<ConvexReactClient | null>(null)
+  const [client, setClient] = useState(null as ConvexReactClient | null)
   useEffect(() => {
     if (!url) return
     try {
@@ -30,7 +30,7 @@ function useConvexSafe(url?: string | null) {
 }
 
 export default function Page() {
-  const [convexUrl, setConvexUrl] = useState<string>("")
+  const [convexUrl, setConvexUrl] = useState("")
   const [mounted, setMounted] = useState(false)
   useEffect(() => {
     setMounted(true)
@@ -39,9 +39,9 @@ export default function Page() {
   }, [])
 
   const client = useConvexSafe(convexUrl)
-  const [rows, setRows] = useState<Row[]>([])
+  const [rows, setRows] = useState([] as Row[])
   const [loading, setLoading] = useState(false)
-  const [source, setSource] = useState<string | null>(null)
+  const [source, setSource] = useState(null as string | null)
 
   const title = useMemo(() => (source ? `Feed — ${source}` : "Feed — All"), [source])
 
@@ -67,7 +67,7 @@ export default function Page() {
       cancelled = true
       clearInterval(interval)
     }
-  }, [client, source])
+  }, [client, source]);
 
   return (
     <div style={{ display: "grid", gridTemplateRows: "auto 1fr", minHeight: "100vh" }}>
@@ -75,7 +75,7 @@ export default function Page() {
         <div style={{ fontWeight: 600 }}>{title}</div>
         <div style={{ marginLeft: "auto", display: "flex", gap: 8 }}>
           <button onClick={() => setSource(null)} style={{ background: source === null ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid #2a2a2f", borderRadius: 6, padding: "6px 10px" }}>All</button>
-          <button onClick={() => setSource("raindrop")} style={{ background: source === "raindrop" ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid "#2a2a2f", borderRadius: 6, padding: "6px 10px" }}>Raindrop</button>
+          <button onClick={() => setSource("raindrop")} style={{ background: source === "raindrop" ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid #2a2a2f", borderRadius: 6, padding: "6px 10px" }}>Raindrop</button>
           <button onClick={() => setSource("github")} style={{ background: source === "github" ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid #2a2a2f", borderRadius: 6, padding: "6px 10px" }}>GitHub</button>
           <button onClick={() => setSource("chat")} style={{ background: source === "chat" ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid #2a2a2f", borderRadius: 6, padding: "6px 10px" }}>Chat</button>
           <button onClick={() => setSource("twitter")} style={{ background: source === "twitter" ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid #2a2a2f", borderRadius: 6, padding: "6px 10px" }}>Twitter</button>
