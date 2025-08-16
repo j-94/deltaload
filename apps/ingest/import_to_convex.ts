@@ -4,7 +4,6 @@ import { readFileSync } from "fs"
 import { createInterface } from "readline"
 import { createReadStream } from "fs"
 import { join } from "path"
-import { ConvexHttpClient } from "convex/node"
 
 type Minimal = { uid: string; source: string; created_at: string; created_at_ms: number; url: string; title: string; main_text: string; content_hash: string; file?: string }
 type UpsertFn = (rec: { uid: string; source: string; created_at: string; created_at_ms: number; url: string; title: string; text: string; content_hash: string }) => Promise<{ inserted: number; updated: number }>
@@ -43,6 +42,7 @@ async function run() {
     console.error("Missing CONVEX_URL")
     process.exit(1)
   }
+  const { ConvexHttpClient } = await import("convex/browser")
   const client = new ConvexHttpClient(convexUrl)
   const upsert: UpsertFn = async (rec) => {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any

@@ -35,7 +35,7 @@ function normalizeUrl(u?: string) {
     url.pathname = url.pathname.replace(/\/+$/, "")
     return url.toString().toLowerCase()
   } catch {
-    return u.trim()
+    return String(u ?? "").trim()
   }
 }
 function detectFormat(p: string): "json" | "jsonl" | null {
