@@ -1,4 +1,4 @@
-import { query } from "convex/server"
+import { query } from "./_generated/server"
 
 export const listAll = query({
   args: { limit: "number?", cursor: "string?" },

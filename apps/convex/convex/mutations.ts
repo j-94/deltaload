@@ -1,4 +1,4 @@
-import { mutation } from "convex/server"
+import { mutation } from "./_generated/server"
 
 export const upsertBookmarkMinimal = mutation({
   args: { record: "any" },
