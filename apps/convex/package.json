@@ -1,0 +1,12 @@
+{
+  "name": "deltaload-convex",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "convex": "1.14.0"
+  },
+  "scripts": {
+    "dev": "convex dev"
+  }
+}

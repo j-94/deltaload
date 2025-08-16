@@ -1,4 +1,11 @@
 # Bookmark Delta ETL Pipeline
+Quickstart (single command)
+- Run from repo root: npm run dev:viewer
+  - Starts a local Convex dev server at http://127.0.0.1:3210
+  - Starts the Next.js viewer at http://localhost:3050 with NEXT_PUBLIC_CONVEX_URL wired automatically
+
+If you see a Convex warning the first time, it's initializing the local project; the viewer will still start.
+
 
 A comprehensive ETL pipeline for bookmark data that implements delta load functionality inspired by [j-94/deltaload](https://github.com/j-94/deltaload), with AI enrichment using Vercel AI SDK.
 
