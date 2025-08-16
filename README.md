@@ -1,25 +1,26 @@
-# Bookmark Delta ETL
+ # Bookmark Delta ETL
 
 ## Quickstart: Reactive viewer with Convex
 
 - One command:
   - Local Convex dev + viewer: `npm run dev:viewer`
   - Against Convex Cloud (prod):
-    - export NEXT_PUBLIC_CONVEX_URL="https://harmless-sockeye-143.convex.cloud"
+    - export NEXT_PUBLIC_CONVEX_URL="https://capable-salmon-295.convex.cloud"
     - `npm run dev:viewer`
-    - The script will detect the convex.cloud URL and skip starting local Convex.
+    - The script detects .convex.cloud or .convex.site URLs and skips starting local Convex.
 
 - Seed data into Convex (idempotent upserts):
   - Generate preview: `npm run audit:data` (writes `reports/seed_preview.jsonl`)
-  - Import to Convex Cloud:
-    - export CONVEX_URL="https://harmless-sockeye-143.convex.cloud"
-    - export CONVEX_AUTH_TOKEN="<your key>"
+  - Import to Convex Cloud (capable-salmon-295):
+    - export CONVEX_URL="https://capable-salmon-295.convex.cloud"
+    - export CONVEX_AUTH_TOKEN="<runtime JWT>"
     - `bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl`
   - Import is idempotent by `uid` and `content_hash`.
 
 Notes:
+- Use a valid runtime JWT for CONVEX_AUTH_TOKEN. Deploy keys are not JWTs and will fail.
 - Do not commit your Convex key.
-- The minimal shape stored is `{uid, source, created_at, url, title, text}` with content hashing for idempotency. Pipeline
+- The minimal shape stored is `{uid, source, created_at, url, title, text}` with content hashing for idempotency.Pipeline
 Quickstart (single command)
 - Run from repo root: npm run dev:viewer
   - Starts a local Convex dev server at http://127.0.0.1:3210
