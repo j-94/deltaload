@@ -3,7 +3,7 @@ set -euo pipefail
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
 PUBLIC_URL="${NEXT_PUBLIC_CONVEX_URL:-}"
-if [[ -n "$PUBLIC_URL" && "$PUBLIC_URL" == *".convex.cloud"* ]]; then
+if [[ -n "$PUBLIC_URL" && ( "$PUBLIC_URL" == *".convex.cloud"* || "$PUBLIC_URL" == *".convex.site"* ) ]]; then
   echo "[dev:viewer] Detected Convex Cloud URL via NEXT_PUBLIC_CONVEX_URL: $PUBLIC_URL"
   CONVEX_URL="$PUBLIC_URL"
   CONVEX_PID=""
