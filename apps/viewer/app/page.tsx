@@ -30,7 +30,14 @@ function useConvexSafe(url?: string | null) {
 }
 
 export default function Page() {
-  const convexUrl: string = typeof window !== "undefined" ? (process?.env?.NEXT_PUBLIC_CONVEX_URL as string) || "" : ""
+  const [convexUrl, setConvexUrl] = useState<string>("")
+  const [mounted, setMounted] = useState(false)
+  useEffect(() => {
+    setMounted(true)
+    const url = (process?.env?.NEXT_PUBLIC_CONVEX_URL as string) || ""
+    setConvexUrl(url)
+  }, [])
+
   const client = useConvexSafe(convexUrl)
   const [rows, setRows] = useState<Row[]>([])
   const [loading, setLoading] = useState(false)
@@ -68,14 +75,16 @@ export default function Page() {
         <div style={{ fontWeight: 600 }}>{title}</div>
         <div style={{ marginLeft: "auto", display: "flex", gap: 8 }}>
           <button onClick={() => setSource(null)} style={{ background: source === null ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid #2a2a2f", borderRadius: 6, padding: "6px 10px" }}>All</button>
-          <button onClick={() => setSource("raindrop")} style={{ background: source === "raindrop" ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid #2a2a2f", borderRadius: 6, padding: "6px 10px" }}>Raindrop</button>
+          <button onClick={() => setSource("raindrop")} style={{ background: source === "raindrop" ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid "#2a2a2f", borderRadius: 6, padding: "6px 10px" }}>Raindrop</button>
           <button onClick={() => setSource("github")} style={{ background: source === "github" ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid #2a2a2f", borderRadius: 6, padding: "6px 10px" }}>GitHub</button>
           <button onClick={() => setSource("chat")} style={{ background: source === "chat" ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid #2a2a2f", borderRadius: 6, padding: "6px 10px" }}>Chat</button>
           <button onClick={() => setSource("twitter")} style={{ background: source === "twitter" ? "#2a2a2f" : "transparent", color: "#e6e7ea", border: "1px solid #2a2a2f", borderRadius: 6, padding: "6px 10px" }}>Twitter</button>
         </div>
       </header>
       <main style={{ padding: 16 }}>
-        {!convexUrl ? (
+        {!mounted ? (
+          <div>Loading…</div>
+        ) : !convexUrl ? (
           <div style={{ color: "#f0c" }}>Set NEXT_PUBLIC_CONVEX_URL in apps/viewer/.env.local</div>
         ) : loading && rows.length === 0 ? (
           <div>Loading…</div>
@@ -87,7 +96,9 @@ export default function Page() {
               <article key={r.uid} style={{ border: "1px solid #1f1f22", borderRadius: 10, padding: 12, background: "#0f0f12" }}>
                 <div style={{ fontSize: 12, opacity: 0.8, marginBottom: 6 }}>
                   <span style={{ textTransform: "uppercase", letterSpacing: 0.6 }}>{r.source}</span>
-                  <span style={{ marginLeft: 8 }}>{new Date(r.created_at).toLocaleString()}</span>
+                  <span suppressHydrationWarning style={{ marginLeft: 8 }}>
+                    {mounted ? new Date(r.created_at).toLocaleString() : new Date(r.created_at).toISOString()}
+                  </span>
                 </div>
                 <div style={{ fontWeight: 600, marginBottom: 6 }}>
                   {r.url ? <a href={r.url} target="_blank" rel="noreferrer" style={{ color: "#8ab4ff", textDecoration: "none" }}>{r.title || r.url}</a> : (r.title || "(no title)")}
