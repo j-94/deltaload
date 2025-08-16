@@ -11,9 +11,17 @@ sleep 2
 CONVEX_URL="${CONVEX_URL:-http://127.0.0.1:3210}"
 echo "[dev:viewer] Using Convex URL: $CONVEX_URL"
 
+is_port_free() {
+  local port="$1"
+  if command -v ss >/dev/null 2>&1; then
+    ! ss -ltn "( sport = :$port )" | grep -q LISTEN
+  else
+    return 0
+  fi
+}
 pick_port() {
   for p in 3050 3051 3052; do
-    if ! lsof -iTCP -sTCP:LISTEN -P | grep -q ":$p"; then
+    if is_port_free "$p"; then
       echo "$p"
       return 0
     fi
