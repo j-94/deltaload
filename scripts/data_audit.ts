@@ -1,0 +1,315 @@
+#!/usr/bin/env bun
+declare const process: any
+
+import { createHash } from "crypto"
+import { readFileSync, statSync, writeFileSync, existsSync, mkdirSync, createReadStream } from "fs"
+import { readdirSync } from "fs"
+import { join, basename } from "path"
+import { EOL } from "os"
+import { createInterface } from "readline"
+
+type Minimal = { uid: string; source: string; created_at: string; created_at_ms: number; url: string; title: string; main_text: string; content_hash: string; file: string }
+type Inventory = { path: string; kind: "json" | "jsonl"; size_bytes: number; approx_rows: number; sha256: string }
+type FileReport = { duplicate_ids: Record<string, number>; duplicate_hashes: Record<string, number> }
+type DuplicatesWithin = Record<string, FileReport>
+type Overlap = { by_id: Record<string, string[]>; by_url: Record<string, string[]>; by_hash: Record<string, string[]>; conflicts: { sameIdDifferentHash: string[]; sameUrlDifferentIds: string[] } }
+type SchemaField = { field: string; types: Record<string, number> }
+type SchemaDiff = Record<string, SchemaField[]>
+
+const ROOTS_DEFAULT = ["unified", "raw", "context/chat_history/unified_data", "bookmark-delta-data"]
+const REPORTS_DIR = "reports"
+const SAMPLE_N = Number(process.env.SAMPLE_N || 50)
+
+function ensureReportsDir() {
+  if (!existsSync(REPORTS_DIR)) mkdirSync(REPORTS_DIR, { recursive: true })
+}
+function sha256(s: string) {
+  return createHash("sha256").update(s).digest("hex")
+}
+function normalizeUrl(u?: string) {
+  if (!u) return ""
+  try {
+    const url = new URL(u)
+    url.hash = ""
+    if ((url.protocol === "http:" && url.port === "80") || (url.protocol === "https:" && url.port === "443")) url.port = ""
+    url.pathname = url.pathname.replace(/\/+$/, "")
+    return url.toString().toLowerCase()
+  } catch {
+    return u.trim()
+  }
+}
+function detectFormat(p: string): "json" | "jsonl" | null {
+  if (p.endsWith(".jsonl") || p.endsWith(".ndjson")) return "jsonl"
+  if (p.endsWith(".json")) return "json"
+  return null
+}
+function parseFilenameTs(name: string): number | undefined {
+  const iso = name.match(/\d{4}-\d{2}-\d{2}([T_]\d{2}[:\-]?\d{2}[:\-]?\d{2})?/)
+  if (iso) {
+    const s = iso[0].replace("_", "T")
+    const d = new Date(s)
+    if (!isNaN(d.getTime())) return d.getTime()
+  }
+  const compact = name.match(/\d{8}(\d{6})?/)
+  if (compact) {
+    const v = compact[0]
+    const y = v.slice(0, 4)
+    const m = v.slice(4, 6)
+    const d = v.slice(6, 8)
+    const hh = v.length >= 14 ? v.slice(8, 10) : "00"
+    const mm = v.length >= 14 ? v.slice(10, 12) : "00"
+    const ss = v.length >= 14 ? v.slice(12, 14) : "00"
+    const date = new Date(`${y}-${m}-${d}T${hh}:${mm}:${ss}Z`)
+    if (!isNaN(date.getTime())) return date.getTime()
+  }
+  return undefined
+}
+function toISO(ms: number) {
+  return new Date(ms).toISOString()
+}
+function walk(dir: string): string[] {
+  if (!existsSync(dir)) return []
+  const out: string[] = []
+  const entries = readdirSync(dir, { withFileTypes: true })
+  for (const e of entries) {
+    const p = join(dir, e.name)
+    if (e.isDirectory()) out.push(...walk(p))
+    else out.push(p)
+  }
+  return out
+}
+function listCandidateFiles(roots: string[]): string[] {
+  const files: string[] = []
+  for (const r of roots) {
+    files.push(...walk(r))
+  }
+  return files.filter((p) => {
+    const f = detectFormat(p)
+    if (!f) return false
+    if (!p.includes("unified") && !p.includes("raw") && !p.includes("chat_history") && !p.includes("grok") && !p.includes("github") && !p.includes("raindrop") && !p.includes("bookmark-delta-data"))
+      return false
+    return true
+  })
+}
+function fileSha256(path: string) {
+  const buf = readFileSync(path)
+  return sha256(buf.toString("utf8"))
+}
+function approxRows(path: string, kind: "json" | "jsonl"): number {
+  if (kind === "jsonl") {
+    const s = readFileSync(path, "utf8")
+    return s.split(/\r?\n/).filter((l: string) => l.trim().length > 0).length
+  }
+  try {
+    const txt = readFileSync(path, "utf8")
+    const parsed = JSON.parse(txt)
+    if (Array.isArray(parsed)) return parsed.length
+    if (parsed && typeof parsed === "object") {
+      for (const k of Object.keys(parsed)) {
+        const v = (parsed as any)[k]
+        if (Array.isArray(v)) return v.length
+      }
+    }
+  } catch {}
+  return 0
+}
+function inferSource(path: string, rec: any): string {
+  if (rec && typeof rec.source === "string") return rec.source
+  if (/raindrop/i.test(path)) return "raindrop"
+  if (/github/i.test(path)) return "github"
+  if (/unified_chat/i.test(path) || /chat_history/i.test(path) || /grok/i.test(path)) return "chat"
+  if (/twitter/i.test(path)) return "twitter"
+  if (/unified/i.test(path)) return "unified"
+  if (/bookmark-delta-data/i.test(path)) return "legacy"
+  return "unknown"
+}
+function pickText(path: string, rec: any): { url: string; title: string; text: string } {
+  const url = rec?.url || rec?.link || rec?.html_url || ""
+  const title = rec?.title || rec?.summary || rec?.name || rec?.repo?.full_name || ""
+  let text = rec?.body || rec?.content || rec?.description || rec?.note || rec?.repo?.description || rec?.text || ""
+  if (!text && Array.isArray(rec?.messages)) {
+    text = rec.messages.map((m: any) => m.text || m.content || "").filter(Boolean).join("\n\n")
+  }
+  return { url, title, text }
+}
+function pickCreatedAt(rec: any, filePath: string): number | undefined {
+  const ts = rec?.created_at || rec?.date || rec?.timestamp || rec?.updated_at
+  if (ts) {
+    const d = new Date(ts)
+    if (!isNaN(d.getTime())) return d.getTime()
+  }
+  const byName = parseFilenameTs(basename(filePath))
+  if (byName) return byName
+  try {
+    const st = statSync(filePath)
+    return st.mtimeMs
+  } catch {}
+  return undefined
+}
+function minimalFrom(path: string, rec: any): Minimal | null {
+  const s = inferSource(path, rec)
+  const picked = pickText(path, rec)
+  const nurl = normalizeUrl(picked.url)
+  const idCandidate = rec?.uid || rec?.id || nurl
+  const ms = pickCreatedAt(rec, path)
+  if (!ms || Number.isNaN(ms)) return null
+  if (!picked.title && !picked.text) return null
+  const uid = idCandidate || `${s}:${sha256((nurl || "") + "|" + (picked.title || "") + "|" + (picked.text || ""))}`
+  const content_hash = sha256([nurl || "", picked.title || "", picked.text || ""].join("\u241F"))
+  return { uid: String(uid), source: s, created_at: toISO(ms), created_at_ms: ms, url: nurl, title: String(picked.title || ""), main_text: String(picked.text || ""), content_hash, file: path }
+}
+function readJson(path: string): any[] {
+  try {
+    const txt = readFileSync(path, "utf8")
+    const obj = JSON.parse(txt)
+    if (Array.isArray(obj)) return obj
+    if (obj && typeof obj === "object") {
+      for (const k of Object.keys(obj)) {
+        const v = (obj as any)[k]
+        if (Array.isArray(v)) return v
+      }
+    }
+  } catch {}
+  return []
+}
+async function readJsonl(path: string, limit?: number): Promise<any[]> {
+  const out: any[] = []
+  const rl = createInterface({ input: createReadStream(path), crlfDelay: Infinity })
+  for await (const line of rl) {
+    const s = line.trim()
+    if (!s) continue
+    try {
+      out.push(JSON.parse(s))
+    } catch {}
+    if (typeof limit === "number" && out.length >= limit) break
+  }
+  return out
+}
+function collectSchemaSample(path: string, recs: any[], sample: number): SchemaField[] {
+  const seen: Record<string, Record<string, number>> = {}
+  const n = Math.min(sample, recs.length)
+  for (let i = 0; i < n; i++) {
+    const r = recs[i]
+    if (!r || typeof r !== "object") continue
+    for (const k of Object.keys(r)) {
+      const t = Array.isArray(r[k]) ? "array" : typeof r[k]
+      if (!seen[k]) seen[k] = {}
+      seen[k][t] = (seen[k][t] || 0) + 1
+    }
+  }
+  return Object.keys(seen).map((k) => ({ field: k, types: seen[k] }))
+}
+function writeJSON(path: string, obj: any) {
+  writeFileSync(path, JSON.stringify(obj, null, 2))
+}
+function writeJSONL(path: string, rows: any[]) {
+  const s = rows.map((r) => JSON.stringify(r)).join(EOL)
+  writeFileSync(path, s + EOL)
+}
+function summarize(seed: Minimal[], inv: Inventory[], dupWithin: DuplicatesWithin, cross: Overlap) {
+  const totalFiles = inv.length
+  const totalRows = seed.length
+  const earliest = seed.length ? seed[0].created_at : ""
+  const latest = seed.length ? seed[seed.length - 1].created_at : ""
+  const bySource: Record<string, number> = {}
+  for (const r of seed) bySource[r.source] = (bySource[r.source] || 0) + 1
+  const lines: string[] = []
+  lines.push(`# Data Audit Summary`)
+  lines.push(`Files scanned: ${totalFiles}`)
+  lines.push(`Total records after dedupe: ${totalRows}`)
+  lines.push(`Earliest: ${earliest}`)
+  lines.push(`Latest: ${latest}`)
+  lines.push(``)
+  lines.push(`By source:`)
+  for (const k of Object.keys(bySource).sort()) lines.push(`- ${k}: ${bySource[k]}`)
+  writeFileSync(join(REPORTS_DIR, "SUMMARY.md"), lines.join(EOL))
+}
+async function main() {
+  ensureReportsDir()
+  const rootsArgIdx = process.argv.findIndex((a: string) => a === "--roots")
+  const roots = rootsArgIdx >= 0 ? process.argv[rootsArgIdx + 1].split(",").map((s: string) => s.trim()).filter(Boolean) : ROOTS_DEFAULT
+  const files = listCandidateFiles(roots)
+  const inventory: Inventory[] = []
+  const schemaDiff: SchemaDiff = {}
+  const dupWithin: DuplicatesWithin = {}
+  const seenId: Map<string, Minimal> = new Map()
+  const seenUrl: Map<string, Minimal> = new Map()
+  const seenHash: Map<string, Minimal> = new Map()
+
+  for (const p of files) {
+    const kind = detectFormat(p)
+    if (!kind) continue
+    const size = statSync(p).size
+    const rows = approxRows(p, kind)
+    const fileHash = fileSha256(p)
+    inventory.push({ path: p, kind, size_bytes: size, approx_rows: rows, sha256: fileHash })
+
+    let raw: any[] = []
+    if (kind === "json") raw = readJson(p)
+    else raw = await readJsonl(p)
+
+    schemaDiff[p] = collectSchemaSample(p, raw, SAMPLE_N)
+    const dupReport: FileReport = { duplicate_ids: {}, duplicate_hashes: {} }
+    const localId: Record<string, number> = {}
+    const localHash: Record<string, number> = {}
+    const locals: Minimal[] = []
+    for (const rec of raw) {
+      const m = minimalFrom(p, rec)
+      if (!m) continue
+      locals.push(m)
+      localId[m.uid] = (localId[m.uid] || 0) + 1
+      localHash[m.content_hash] = (localHash[m.content_hash] || 0) + 1
+    }
+    for (const [k, v] of Object.entries(localId)) if (v > 1) dupReport.duplicate_ids[k] = v
+    for (const [k, v] of Object.entries(localHash)) if (v > 1) dupReport.duplicate_hashes[k] = v
+    dupWithin[p] = dupReport
+
+    locals.sort((a, b) => a.created_at_ms - b.created_at_ms)
+    for (const m of locals) {
+      const id = m.uid
+      const url = m.url
+      const h = m.content_hash
+      const existingId = seenId.get(id)
+      if (existingId) {
+        if (existingId.content_hash !== h) {
+          if (m.created_at_ms < existingId.created_at_ms) seenId.set(id, m)
+        }
+      } else seenId.set(id, m)
+      if (url) {
+        const existingUrl = seenUrl.get(url)
+        if (existingUrl) {
+          if (m.created_at_ms < existingUrl.created_at_ms) seenUrl.set(url, m)
+        } else seenUrl.set(url, m)
+      }
+      const existingHash = seenHash.get(h)
+      if (!existingHash) seenHash.set(h, m)
+    }
+  }
+
+  const chosenById = new Map<string, Minimal>(seenId)
+  const chosenSet = new Set<string>()
+  for (const m of chosenById.values()) chosenSet.add(m.uid)
+  for (const m of seenUrl.values()) {
+    if (!chosenSet.has(m.uid)) {
+      chosenSet.add(m.uid)
+      chosenById.set(m.uid, m)
+    }
+  }
+  for (const m of seenHash.values()) {
+    if (!chosenSet.has(m.uid)) {
+      chosenSet.add(m.uid)
+      chosenById.set(m.uid, m)
+    }
+  }
+  const seed = Array.from(chosenById.values()).sort((a, b) => a.created_at_ms - b.created_at_ms)
+
+  const overlap: Overlap = { by_id: {}, by_url: {}, by_hash: {}, conflicts: { sameIdDifferentHash: [], sameUrlDifferentIds: [] } }
+
+  writeJSON(join(REPORTS_DIR, "inventory.json"), inventory)
+  writeJSON(join(REPORTS_DIR, "duplicates-within.json"), dupWithin)
+  writeJSON(join(REPORTS_DIR, "schema-diff.json"), schemaDiff)
+  writeJSON(join(REPORTS_DIR, "duplicates-cross.json"), overlap)
+  writeJSONL(join(REPORTS_DIR, "seed_preview.jsonl"), seed)
+  summarize(seed, inventory, dupWithin, overlap)
+}
+main()

@@ -16,7 +16,10 @@
     "env:check": "bun check-credentials.ts --test",
     "fetch:raindrop": "bun bin/fetch-raindrop.ts",
     "fetch:github": "bun bin/fetch-github-stars.ts",
-    "fetch:all": "bun bin/fetch-all.ts"
+    "fetch:all": "bun bin/fetch-all.ts",
+    "audit:data": "bun scripts/data_audit.ts",
+    "audit+preview": "bun scripts/data_audit.ts && echo 'Wrote reports/seed_preview.jsonl'",
+    "ingest:convex": "bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl --dry-run"
   },
   "dependencies": {
     "@ai-sdk/openai": "latest",

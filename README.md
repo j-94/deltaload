@@ -211,3 +211,13 @@ Outputs:
 - `unified/changes-<timestamp>.json` — delta summary (added/modified/deleted/unchanged)
 - `unified/unified-manifest.json` — persistent hashes for delta detection
 - `unified/REPORT.md` — human-friendly summary written by report tool
+## Convex Seed + Reactive Viewer (WIP)
+
+Quickstart
+- Audit and seed preview:
+  - bun scripts/data_audit.ts
+  - Outputs in ./reports/: inventory.json, duplicates-within.json, duplicates-cross.json, schema-diff.json, seed_preview.jsonl, SUMMARY.md
+- Import to Convex (dry run by default):
+  - bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl --dry-run
+  - Use CONVEX_URL to point at your Convex dev project; remove --dry-run to upsert.
+- Viewer: a minimal Next.js + Convex UI lives under apps/viewer/ (set NEXT_PUBLIC_CONVEX_URL and run npm run dev).
