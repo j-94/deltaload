@@ -1,4 +1,48 @@
-# Bookmark Delta ETL Pipeline
+ # Bookmark Delta ETL
+
+## Quickstart: Reactive viewer with Convex
+
+- One command:
+  - Local Convex dev + viewer: `npm run dev:viewer`
+  - Against Convex Cloud (prod):
+    - export NEXT_PUBLIC_CONVEX_URL="https://capable-salmon-295.convex.cloud"
+    - `npm run dev:viewer`
+    - The script detects .convex.cloud or .convex.site URLs and skips starting local Convex.
+
+- Seed data into Convex (idempotent upserts):
+  - Generate preview: `npm run audit:data` (writes `reports/seed_preview.jsonl`)
+  - Import to Convex Cloud (capable-salmon-295):
+    - export CONVEX_URL="https://capable-salmon-295.convex.cloud"
+    - export CONVEX_AUTH_TOKEN="<runtime JWT>"  # importer also falls back to $JWT if set
+    - `bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl`
+  - Import is idempotent by `uid` and `content_hash`.
+  - Tip: if you accidentally pass a .convex.site URL in CONVEX_URL, the importer will auto-convert it to .convex.cloud.
+
+Notes:
+- Use a valid runtime JWT for CONVEX_AUTH_TOKEN. Deploy keys are not JWTs and will fail.
+- Do not commit your Convex key.
+## Deploy Convex to Production
+
+- Ensure you have CONVEX_DEPLOY_KEY in your environment (from the Convex dashboard).
+- Deploy functions/schema to production:
+  - cd apps/convex
+  - export CONVEX_DEPLOY_KEY="&lt;your key&gt;"
+  - npm run deploy:prod
+- Verify logs:
+  - npm run logs:prod
+- After deploy, run the importer with a runtime JWT (not a deploy key):
+  - export CONVEX_URL="https://capable-salmon-295.convex.cloud"
+  - export CONVEX_AUTH_TOKEN="&lt;runtime JWT&gt;"
+  - bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl
+
+- The minimal shape stored is `{uid, source, created_at, url, title, text}` with content hashing for idempotency.Pipeline
+Quickstart (single command)
+- Run from repo root: npm run dev:viewer
+  - Starts a local Convex dev server at http://127.0.0.1:3210
+  - Starts the Next.js viewer at http://localhost:3050 with NEXT_PUBLIC_CONVEX_URL wired automatically
+
+If you see a Convex warning the first time, it's initializing the local project; the viewer will still start.
+
 
 A comprehensive ETL pipeline for bookmark data that implements delta load functionality inspired by [j-94/deltaload](https://github.com/j-94/deltaload), with AI enrichment using Vercel AI SDK.
 
@@ -211,3 +255,22 @@ Outputs:
 - `unified/changes-<timestamp>.json` — delta summary (added/modified/deleted/unchanged)
 - `unified/unified-manifest.json` — persistent hashes for delta detection
 - `unified/REPORT.md` — human-friendly summary written by report tool
+## Convex Seed + Reactive Viewer (WIP)
+
+Quickstart
+- Audit and seed preview:
+  - bun scripts/data_audit.ts
+Importing data into Convex locally
+- Convex CLI may prompt for login when starting the dev server. For full import (not dry-run), run Convex dev in an interactive terminal first:
+  1) cd apps/convex
+  2) npx convex dev
+     - If prompted, login once; this links the local project
+  3) In a separate terminal from repo root:
+     - bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl
+- Alternatively, share a Convex Cloud dev URL and I can wire the importer to it directly (no local dev server needed).
+
+  - Outputs in ./reports/: inventory.json, duplicates-within.json, duplicates-cross.json, schema-diff.json, seed_preview.jsonl, SUMMARY.md
+- Import to Convex (dry run by default):
+  - bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl --dry-run
+  - Use CONVEX_URL to point at your Convex dev project; remove --dry-run to upsert.
+- Viewer: a minimal Next.js + Convex UI lives under apps/viewer/ (set NEXT_PUBLIC_CONVEX_URL and run npm run dev).

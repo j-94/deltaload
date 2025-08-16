@@ -1,0 +1,14 @@
+{
+  "name": "deltaload-convex",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "convex": "1.14.0"
+  },
+  "scripts": {
+    "dev": "convex dev",
+    "deploy:prod": "CONVEX_DEPLOY_KEY=$CONVEX_DEPLOY_KEY npx convex deploy --prod",
+    "logs:prod": "CONVEX_DEPLOY_KEY=$CONVEX_DEPLOY_KEY npx convex logs --prod --history 200"
+  }
+}
