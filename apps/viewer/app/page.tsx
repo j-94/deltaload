@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useMemo, useState } from "react"
+import React, { useEffect, useMemo, useState } from "react"
 import { ConvexReactClient } from "convex/react"
 
 type Row = {
@@ -30,7 +30,7 @@ function useConvexSafe(url?: string | null) {
 }
 
 export default function Page() {
-  const convexUrl = typeof window !== "undefined" ? process.env.NEXT_PUBLIC_CONVEX_URL || "" : ""
+  const convexUrl: string = typeof window !== "undefined" ? (process?.env?.NEXT_PUBLIC_CONVEX_URL as string) || "" : ""
   const client = useConvexSafe(convexUrl)
   const [rows, setRows] = useState<Row[]>([])
   const [loading, setLoading] = useState(false)
@@ -83,7 +83,7 @@ export default function Page() {
           <div>No rows yet.</div>
         ) : (
           <div style={{ display: "grid", gap: 12 }}>
-            {rows.map((r) => (
+            {rows.map((r: Row) => (
               <article key={r.uid} style={{ border: "1px solid #1f1f22", borderRadius: 10, padding: 12, background: "#0f0f12" }}>
                 <div style={{ fontSize: 12, opacity: 0.8, marginBottom: 6 }}>
                   <span style={{ textTransform: "uppercase", letterSpacing: 0.6 }}>{r.source}</span>
