@@ -13,13 +13,28 @@
   - Generate preview: `npm run audit:data` (writes `reports/seed_preview.jsonl`)
   - Import to Convex Cloud (capable-salmon-295):
     - export CONVEX_URL="https://capable-salmon-295.convex.cloud"
-    - export CONVEX_AUTH_TOKEN="<runtime JWT>"
+    - export CONVEX_AUTH_TOKEN="<runtime JWT>"  # importer also falls back to $JWT if set
     - `bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl`
   - Import is idempotent by `uid` and `content_hash`.
+  - Tip: if you accidentally pass a .convex.site URL in CONVEX_URL, the importer will auto-convert it to .convex.cloud.
 
 Notes:
 - Use a valid runtime JWT for CONVEX_AUTH_TOKEN. Deploy keys are not JWTs and will fail.
 - Do not commit your Convex key.
+## Deploy Convex to Production
+
+- Ensure you have CONVEX_DEPLOY_KEY in your environment (from the Convex dashboard).
+- Deploy functions/schema to production:
+  - cd apps/convex
+  - export CONVEX_DEPLOY_KEY="&lt;your key&gt;"
+  - npm run deploy:prod
+- Verify logs:
+  - npm run logs:prod
+- After deploy, run the importer with a runtime JWT (not a deploy key):
+  - export CONVEX_URL="https://capable-salmon-295.convex.cloud"
+  - export CONVEX_AUTH_TOKEN="&lt;runtime JWT&gt;"
+  - bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl
+
 - The minimal shape stored is `{uid, source, created_at, url, title, text}` with content hashing for idempotency.Pipeline
 Quickstart (single command)
 - Run from repo root: npm run dev:viewer

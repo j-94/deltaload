@@ -1,6 +1,5 @@
 #!/usr/bin/env bun
 declare const process: any
-import { readFileSync } from "fs"
 import { createInterface } from "readline"
 import { createReadStream } from "fs"
 import { join } from "path"
@@ -37,41 +36,62 @@ async function run() {
     console.log(JSON.stringify({ dryRun: true, count: toSend.length }))
     return
   }
-  const convexUrl = process.env.CONVEX_URL || ""
-  if (!convexUrl) {
+  let convexUrlRaw = process.env.CONVEX_URL || ""
+  if (!convexUrlRaw) {
     console.error("Missing CONVEX_URL")
     process.exit(1)
   }
+  if (convexUrlRaw.endsWith(".convex.site")) {
+    try {
+      const u = new URL(convexUrlRaw)
+      const host = u.host.replace(".convex.site", ".convex.cloud")
+      u.host = host
+      convexUrlRaw = u.toString().replace(/\/$/, "")
+    } catch {}
+  }
   const { ConvexHttpClient } = await import("convex/browser")
-  const client = new ConvexHttpClient(convexUrl)
+  const client = new ConvexHttpClient(convexUrlRaw)
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const setAuth = (client as any).setAuth?.bind(client)
-  const token = process.env.CONVEX_AUTH_TOKEN
+  const token = process.env.CONVEX_AUTH_TOKEN || process.env.JWT
   if (setAuth && token) {
     setAuth(async () => token)
   }
   const upsert: UpsertFn = async (rec) => {
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    const res = await (client as any).mutation("mutations:upsertBookmarkMinimal", { record: rec })
-    return res as { inserted: number; updated: number }
+    try {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      const res = await (client as any).mutation("mutations:upsertBookmarkMinimal", { record: rec })
+      return res as { inserted: number; updated: number }
+    } catch (err: any) {
+      const msg = err?.message || String(err)
+      console.error(JSON.stringify({ error: "mutation_failed", message: msg, uid: rec.uid }))
+      throw err
+    }
   }
   const batchSize = 200
   for (let i = 0; i < toSend.length; i += batchSize) {
     const batch = toSend.slice(i, i + batchSize)
-    const results = await Promise.all(
-      batch.map((m) =>
-        upsert({
-          uid: m.uid,
-          source: m.source,
-          created_at: m.created_at,
-          created_at_ms: m.created_at_ms,
-          url: m.url,
-          title: m.title,
-          text: m.main_text,
-          content_hash: m.content_hash,
-        })
+    let results: { inserted: number; updated: number }[] = []
+    try {
+      results = await Promise.all(
+        batch.map((m) =>
+          upsert({
+            uid: m.uid,
+            source: m.source,
+            created_at: m.created_at,
+            created_at_ms: m.created_at_ms,
+            url: m.url,
+            title: m.title,
+            text: m.main_text,
+            content_hash: m.content_hash,
+          })
+        )
       )
-    )
+    } catch (e: any) {
+      const msg = e?.message || String(e)
+      console.error(JSON.stringify({ error: "batch_failed", message: msg, start: i, end: Math.min(i + batch.length, toSend.length) }))
+      throw e
+    }
     for (const r of results) {
       inserted += r.inserted
       updated += r.updated

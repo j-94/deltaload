@@ -7,6 +7,8 @@
     "convex": "1.14.0"
   },
   "scripts": {
-    "dev": "convex dev"
+    "dev": "convex dev",
+    "deploy:prod": "CONVEX_DEPLOY_KEY=$CONVEX_DEPLOY_KEY npx convex deploy --prod",
+    "logs:prod": "CONVEX_DEPLOY_KEY=$CONVEX_DEPLOY_KEY npx convex logs --prod --history 200"
   }
 }
