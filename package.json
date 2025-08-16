@@ -4,6 +4,7 @@
   "description": "Delta load ETL pipeline for bookmark data extraction and enrichment",
   "main": "run-bookmark-etl.ts",
   "scripts": {
+    "dev:viewer": "bash scripts/dev_viewer.sh",
     "start": "bun run run-bookmark-etl.ts",
     "etl": "bun run run-bookmark-etl.ts",
     "etl:simple": "bun run run-bookmark-etl.ts --no-docetl",
