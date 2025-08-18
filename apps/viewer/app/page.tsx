@@ -2,6 +2,8 @@
 
 import React, { useEffect, useMemo, useState } from "react"
 import { ConvexReactClient } from "convex/react"
+const USE_SQLITE = ((process.env.NEXT_PUBLIC_STORE as string) || "").toLowerCase() === "sqlite"
+
 
 type Row = {
   _id?: string
@@ -48,13 +50,22 @@ export default function Page() {
   useEffect(() => {
     let cancelled = false
     async function fetchRows() {
-      if (!client) return
       setLoading(true)
       try {
-        const fnName = source ? "queries:listBySource" : "queries:listAll"
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        const result = await (client as any).query(fnName, source ? { source, limit: 200 } : { limit: 200 })
-        if (!cancelled) setRows(result as Row[])
+        if (USE_SQLITE) {
+          const qs = new URLSearchParams()
+          if (source) qs.set("source", source)
+          qs.set("limit", "200")
+          const res = await fetch(`/api/bookmarks?${qs.toString()}`, { cache: "no-store" })
+          const data = await res.json()
+          if (!cancelled) setRows((data?.rows || []) as Row[])
+        } else {
+          if (!client) return
+          const fnName = source ? "queries:listBySource" : "queries:listAll"
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          const result = await (client as any).query(fnName, source ? { source, limit: 200 } : { limit: 200 })
+          if (!cancelled) setRows(result as Row[])
+        }
       } catch (e) {
         if (!cancelled) console.error(e)
       } finally {
@@ -84,8 +95,8 @@ export default function Page() {
       <main style={{ padding: 16 }}>
         {!mounted ? (
           <div>Loading…</div>
-        ) : !convexUrl ? (
-          <div style={{ color: "#f0c" }}>Set NEXT_PUBLIC_CONVEX_URL in apps/viewer/.env.local</div>
+        ) : (!USE_SQLITE && !convexUrl) ? (
+          <div style={{ color: "#f0c" }}>Set NEXT_PUBLIC_CONVEX_URL in apps/viewer/.env.local or run with NEXT_PUBLIC_STORE=sqlite</div>
         ) : loading && rows.length === 0 ? (
           <div>Loading…</div>
         ) : rows.length === 0 ? (
