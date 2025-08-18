@@ -28,7 +28,7 @@
   "dependencies": {
     "@ai-sdk/openai": "latest",
     "ai": "latest",
-    "better-sqlite3": "^9.4.0",
+    "better-sqlite3": "^9.6.0",
     "cheerio": "latest",
     "convex": "^1.25.4",
     "zod": "latest"
