@@ -21,8 +21,8 @@
     "audit:data": "bun scripts/data_audit.ts",
     "audit+preview": "bun scripts/data_audit.ts && echo 'Wrote reports/seed_preview.jsonl'",
     "ingest:convex": "bun apps/ingest/import_to_convex.ts --preview reports/seed_preview.jsonl --dry-run",
-    "import:sqlite": "bun scripts/import_seed_to_sqlite.ts reports/seed_preview.jsonl",
-    "verify:sqlite": "bun scripts/sqlite_verify.ts",
+    "import:sqlite": "node scripts/import_seed_to_sqlite.js reports/seed_preview.jsonl",
+    "verify:sqlite": "node scripts/sqlite_verify.js",
     "viewer:sqlite": "NEXT_PUBLIC_STORE=sqlite npm --prefix apps/viewer run dev"
   },
   "dependencies": {
