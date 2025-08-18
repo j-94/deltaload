@@ -1,3 +1,5 @@
+export const runtime = "nodejs"
+
 import { NextRequest } from "next/server"
 import db from "../../../lib/db"
 import { ensureSchema } from "../../../lib/schema"
